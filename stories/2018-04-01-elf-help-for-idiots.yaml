@@ -1,34 +1,25 @@
 ngrams:
 - - christ
   - almighty
-  - isn
-- - self-help
-  - guru
-  - dr
-- - guru
-  - dr
-  - bruce
+  - isn't
 - - lives
   - christ
   - almighty
+- - guru
+  - dr
+  - bruce
 - - squalid
   - lives
   - christ
 - - dr
   - bruce
   - terrific
-- - books
-  - self-help
-  - guru
-- - buzantastic
-  - news
-  - magazine
+- - helped
+  - others
+  - that's
 - - stopped
   - helping
   - themselves
-- - self-help
-  - books
-  - serve
 - - instead
   - helped
   - others
@@ -38,12 +29,42 @@ ngrams:
 - - long
   - elves
   - fairies
-- - almighty
-  - isn
-  - t
+- - others
+  - that's
+  - why
 - - idiots
   - explains
   - how
+- - idiots
+  - after
+  - writing
+- - than
+  - tony
+  - buzan
+- - can't
+  - see
+  - further
+- - after
+  - writing
+  - dozens
+- - too
+  - long
+  - elves
+- - books
+  - serve
+  - only
+- - books
+  - than
+  - tony
+- - themselves
+  - well
+  - those
+- - bruce
+  - terrific
+  - has
+- - write
+  - more
+  - books
 story:
   date: 2018-04-01
   id: 2018-04-01-elf-help-for-idiots
@@ -62,4 +83,4 @@ story:
     \ in the series, Elf-Help For Idiots, explains how to darn an elf's pointy hat\
     \ when it becomes frayed."
   title: Elf-Help For Idiots
-word_count: 184
+word_count: 180

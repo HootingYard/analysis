@@ -1,22 +1,31 @@
 ngrams:
-- - hanif
-  - kureishi
-  - kureishi
-- - self-regarding
-  - wanker
-  - award
-- - wanker
-  - award
-  - kureishi
-- - award
-  - kureishi
-  - preening
-- - untalented
-  - writer
-  - hanif
-- - writer
-  - hanif
-  - kureishi
+- - equally
+  - risible
+  - sight
+- - british
+  - library
+  - paying
+- - winning
+  - this
+  - week's
+- - classic
+  - we
+  - now
+- - thus
+  - winning
+  - this
+- - archive
+  - apparently
+  - my
+- - library
+  - paying
+  - for
+- - pop
+  - singer
+  - as
+- - we
+  - now
+  - have
 story:
   date: 2014-01-24
   id: 2014-01-24-a-trip-to-the-vomitorium
@@ -28,4 +37,4 @@ story:
     \ archive\u201D, apparently\u2014my italics\u2014thus winning this week's Self-Regarding\
     \ Wanker Award.\n\nKureishi\_: preening"
   title: A Trip To The Vomitorium
-word_count: 78
+word_count: 77

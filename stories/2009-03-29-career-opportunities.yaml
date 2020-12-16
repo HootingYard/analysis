@@ -1,19 +1,28 @@
 ngrams:
-- - marvellously
-  - entertaining
-  - snippets
 - - colin
   - wilson
   - wilson
+- - people's
+  - temple
+  - funded
 - - maddening
   - writer
   - slapdash
-- - door-to-door
-  - monkey
-  - salesman
-- - early
-  - cult-building
-  - efforts
+- - career
+  - opportunities
+  - yesterday
+- - example
+  - we
+  - learn
+- - posted
+  - an
+  - extract
+- - messiahs
+  - by
+  - colin
+- - charlatan
+  - messiahs
+  - by
 story:
   date: 2009-03-29
   id: 2009-03-29-career-opportunities
@@ -24,4 +33,4 @@ story:
     \ the People's Temple funded his early cult-building efforts by being a door-to-door\
     \ monkey salesman."
   title: Career Opportunities
-word_count: 71
+word_count: 69

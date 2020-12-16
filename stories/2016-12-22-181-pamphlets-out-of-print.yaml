@@ -2,27 +2,12 @@ ngrams:
 - - ida
   - lupino
   - parp
-- - blues
-  - nomenclature
-  - fortune-telling
-- - oo
-  - nooky
-  - informed
 - - lupino
   - parp
   - toot
-- - ham-fisted
-  - watercolour
-  - plate
-- - hooter
-  - tooters
-  - parpers
 - - jennings
   - keeps
   - tabs
-- - toot
-  - hooter
-  - tooters
 - - devotee
   - mike
   - jennings
@@ -32,18 +17,78 @@ ngrams:
 - - parp
   - toot
   - hooter
-- - foreign
-  - ministry
-  - arithmetic
 - - mike
   - jennings
   - keeps
+- - foreign
+  - ministry
+  - arithmetic
 - - dusty
   - springfield
   - method
 - - empire
   - foreign
   - ministry
+- - austrian
+  - empire
+  - foreign
+- - previously
+  - overlooked
+  - titles
+- - whenever
+  - previously
+  - overlooked
+- - comprising
+  - pamphlets
+  - numbered
+- - lists
+  - comprising
+  - pamphlets
+- - earlier
+  - lists
+  - comprising
+- - popular
+  - culture
+  - dictionary
+- - smithereens
+  - smashed
+  - according
+- - pamphlets
+  - listed
+  - below
+- - springfield
+  - method
+  - breakfast
+- - list
+  - whenever
+  - previously
+- - bewildered
+  - several
+  - potentates
+- - sometimes
+  - become
+  - encrusted
+- - blind
+  - marmalade
+  - does
+- - overlooked
+  - titles
+  - come
+- - dozen
+  - reasons
+  - why
+- - yard
+  - devotee
+  - mike
+- - specifically
+  - mr
+  - jennings
+- - mr
+  - jennings
+  - acts
+- - birds
+  - sometimes
+  - become
 story:
   date: 2016-12-22
   id: 2016-12-22-181-pamphlets-out-of-print
@@ -69,4 +114,4 @@ story:
     \ Empire Foreign Ministry 1809\u20131821.\n180. Arithmetic For The Blind.\n181.\
     \ Marmalade\_: Does It Come In A Jar Or A Pot?"
   title: 181 Pamphlets (Out Of Print)
-word_count: 244
+word_count: 242

@@ -1,34 +1,13 @@
 ngrams:
-- - chewy
-  - machiavellian
-  - plinky-plonky
-- - sunlit
-  - dappled
-  - goosebumpy
 - - splenetic
   - sunlit
   - dappled
-- - dappled
-  - goosebumpy
-  - tenebrous
-- - machiavellian
-  - plinky-plonky
-  - mordant
 - - mordant
   - splenetic
   - sunlit
 - - tough
   - chewy
   - machiavellian
-- - plinky-plonky
-  - mordant
-  - splenetic
-- - bippety-boppety
-  - tough
-  - chewy
-- - searing
-  - bippety-boppety
-  - tough
 - - improv
   - jazz
   - titan
@@ -44,6 +23,171 @@ ngrams:
 - - jazz
   - standard
   - chutney
+- - jazz
+  - titan
+  - horst
+- - grumpy
+  - german
+  - improv
+- - grumpy
+  - german
+  - improv
+- - grumpy
+  - german
+  - improv
+- - steam
+  - hammers
+  - japanese
+- - steam
+  - hammers
+  - japanese
+- - titan
+  - horst
+  - blot
+- - usual
+  - septet
+  - augmented
+- - german
+  - improv
+  - jazz
+- - german
+  - improv
+  - jazz
+- - german
+  - improv
+  - jazz
+- - horst
+  - blot
+  - concert
+- - festival
+  - horst
+  - blot
+- - racket
+  - magazine
+  - pointing
+- - earlier
+  - horst
+  - blot
+- - mop
+  - blot
+  - devoted
+- - japanese
+  - cardboard
+  - trombone
+- - japanese
+  - cardboard
+  - trombone
+- - hammers
+  - japanese
+  - cardboard
+- - hammers
+  - japanese
+  - cardboard
+- - valid
+  - press
+  - pass
+- - japanese
+  - cardboard
+  - mop
+- - elicited
+  - great
+  - heaving
+- - great
+  - heaving
+  - sobs
+- - overdue
+  - library
+  - book
+- - old
+  - jazz
+  - standard
+- - shortly
+  - after
+  - lunch
+- - few
+  - dozen
+  - each
+- - horst
+  - blot
+  - may
+- - puts
+  - her
+  - adjectives
+- - she
+  - simply
+  - pulled
+- - she
+  - also
+  - puts
+- - aerodrome
+  - she
+  - also
+- - also
+  - puts
+  - her
+- - primrose
+  - dent
+  - has
+- - blot
+  - may
+  - well
+- - other
+  - things
+  - searing
+- - dent
+  - who
+  - opined
+- - primrose
+  - dent
+  - who
+- - words
+  - she
+  - simply
+- - strung
+  - them
+  - together
+- - dozen
+  - each
+  - time
+- - very
+  - trying
+  - day
+- - their
+  - letters
+  - smudged
+- - paper
+  - stuffed
+  - them
+- - among
+  - other
+  - things
+- - racket
+  - magazine
+  - what
+- - then
+  - shortly
+  - after
+- - salty
+  - tears
+  - when
+- - magazine
+  - pointing
+  - out
+- - read
+  - their
+  - letters
+- - been
+  - codswallop
+  - too
+- - wrote
+  - out
+  - hundreds
+- - other
+  - words
+  - she
+- - year
+  - they
+  - received
 story:
   date: 2014-08-06
   id: 2014-08-06-our-man-in-ulm
@@ -85,4 +229,4 @@ story:
     \ at the aerodrome. She also puts her adjectives in the wrong sort of bag.\nOver\
     \ and out, Your Man In Ulm."
   title: Our Man In Ulm
-word_count: 508
+word_count: 506

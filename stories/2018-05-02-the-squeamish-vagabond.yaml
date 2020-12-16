@@ -2,6 +2,9 @@ ngrams:
 - - corpses
   - widely
   - strewn
+- - fear
+  - i'll
+  - join
 - - see
   - corpses
   - widely
@@ -11,12 +14,18 @@ ngrams:
 - - see
   - blood
   - aplenty
-- - ll
+- - i'll
   - join
   - them
 - - join
   - them
   - soon
+- - i'm
+  - pursued
+  - by
+- - my
+  - pants
+  - i'm
 story:
   date: 2018-05-02
   id: 2018-05-02-the-squeamish-vagabond
@@ -26,4 +35,4 @@ story:
     \ I'll join them soon\n  For I'm pursued by a violent foe\n  A fiend from the\
     \ bottomless pond\n  I tremble and piddle in my pants\n  I'm the squeamish vagabond"
   title: The Squeamish Vagabond
-word_count: 76
+word_count: 73

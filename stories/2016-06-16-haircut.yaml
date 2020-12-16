@@ -14,9 +14,6 @@ ngrams:
 - - sharp
   - fearsome
   - beaks
-- - pudding
-  - basin
-  - baircut
 - - cause
   - catastrophic
   - damage
@@ -35,6 +32,9 @@ ngrams:
 - - pudding
   - basin
   - haircut
+- - one's
+  - barber
+  - snips
 - - stylish
   - pudding
   - basin
@@ -44,6 +44,129 @@ ngrams:
 - - size
   - pudding
   - basin
+- - dinner
+  - party
+  - calamity
+- - particularly
+  - generous
+  - barber
+- - standard
+  - size
+  - pudding
+- - thoroughly
+  - cleaned
+  - since
+- - hair
+  - protruding
+  - below
+- - effortlessly
+  - stylish
+  - look
+- - stylish
+  - look
+  - achieved
+- - pudding
+  - basin
+  - look
+- - earlier
+  - also
+  - unless
+- - own
+  - pudding
+  - basin
+- - own
+  - pudding
+  - basin
+- - minutes
+  - earlier
+  - also
+- - new
+  - haircut
+  - splattered
+- - barber
+  - snips
+  - away
+- - while
+  - one's
+  - barber
+- - brand
+  - new
+  - haircut
+- - should
+  - ascertain
+  - whether
+- - few
+  - minutes
+  - earlier
+- - cleaned
+  - since
+  - last
+- - say
+  - sago
+  - pudding
+- - very
+  - stupid
+  - haircut
+- - set
+  - great
+  - store
+- - birds
+  - find
+  - irresistible
+- - rim
+  - obviously
+  - before
+- - token
+  - make
+  - sure
+- - same
+  - token
+  - make
+- - basin
+  - upended
+  - over
+- - obviously
+  - before
+  - putting
+- - every
+  - last
+  - smidgen
+- - scrub
+  - every
+  - last
+- - unusually
+  - large
+  - head
+- - every
+  - last
+  - scrap
+- - upended
+  - over
+  - one's
+- - mind
+  - before
+  - donning
+- - any
+  - hair
+  - protruding
+- - without
+  - being
+  - beset
+- - always
+  - set
+  - great
+- - birds
+  - swooping
+  - down
+- - go
+  - straight
+  - back
+- - can
+  - snip
+  - snip
+- - home
+  - without
+  - being
 story:
   date: 2016-06-16
   id: 2016-06-16-haircut
@@ -81,4 +204,4 @@ story:
     \ pudding basin baircut will save you from consequent social disgrace and possible\
     \ criminal prosecution."
   title: Haircut
-word_count: 457
+word_count: 452

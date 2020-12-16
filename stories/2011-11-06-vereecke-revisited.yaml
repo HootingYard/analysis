@@ -1,16 +1,10 @@
 ngrams:
-- - critic
-  - wilma
-  - salisbury
-- - choreography
-  - kahn
-  - performed
-- - kahn
-  - performed
-  - overwhelmed
 - - dance
   - critic
   - wilma
+- - jesuit
+  - priest's
+  - choreography
 - - exhausted
   - dancer
   - lying
@@ -22,16 +16,13 @@ ngrams:
   - rising
 - - father
   - bob
-  - vereecke
-- - father
-  - bob
   - putting
-- - prepared
-  - piano
-  - music
 - - jesuit
   - father
   - bob
+- - prepared
+  - piano
+  - music
 - - crumpled
   - jesuit
   - father
@@ -44,6 +35,36 @@ ngrams:
 - - same
   - crumpled
   - position
+- - again
+  - dance
+  - critic
+- - god
+  - ran
+  - around
+- - enjoyed
+  - once
+  - again
+- - sacred
+  - dance
+  - only
+- - once
+  - again
+  - dance
+- - taken
+  - her
+  - place
+- - 'no'
+  - reason
+  - whatsoever
+- - stage
+  - darkened
+  - when
+- - lights
+  - came
+  - up
+- - heart
+  - were
+  - picked
 story:
   date: 2011-11-06
   id: 2011-11-06-vereecke-revisited
@@ -62,4 +83,4 @@ story:
     \ in lyrical movements by ten dancers who had learned the graceful choreography\
     \ in VerEecke's workshop.\n"
   title: VerEecke Revisited
-word_count: 180
+word_count: 176

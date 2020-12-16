@@ -1,19 +1,16 @@
 ngrams:
-- - shorter
-  - potted
-  - brief
 - - tomorrow
   - fingers
   - crossed
+- - shorter
+  - potted
+  - brief
 - - resonance
   - summer
   - break
 - - potted
   - brief
   - brief
-- - order
-  - fine
-  - fettle
 - - uninspired
   - working
   - order
@@ -26,15 +23,36 @@ ngrams:
 - - working
   - order
   - fine
+- - last
+  - week's
+  - show
 - - summer
   - break
   - hooting
 - - gradually
   - getting
   - back
+- - air
+  - last
+  - week's
 - - here
   - tomorrow
   - fingers
+- - long
+  - last
+  - published
+- - break
+  - hooting
+  - yard
+- - show
+  - now
+  - appears
+- - back
+  - here
+  - tomorrow
+- - each
+  - show
+  - now
 story:
   date: 2015-09-29
   id: 2015-09-29-indisposed
@@ -50,4 +68,4 @@ story:
     \ the day after tomorrow. Of which more later.\nIn theory I will be back here\
     \ tomorrow. Fingers crossed."
   title: Indisposed
-word_count: 149
+word_count: 147

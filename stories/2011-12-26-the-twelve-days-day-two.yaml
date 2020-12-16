@@ -1,13 +1,19 @@
 ngrams:
-- - christmas
-  - old
-  - halob
-- - old
-  - halob
-  - gave
 - - two
   - cardboard
   - pigs
+- - days
+  - day
+  - two
+- - me
+  - two
+  - cardboard
+- - day
+  - two
+  - 'on'
+- - gave
+  - to
+  - me
 story:
   date: 2011-12-26
   id: 2011-12-26-the-twelve-days-day-two

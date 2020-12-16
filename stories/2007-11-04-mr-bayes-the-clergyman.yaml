@@ -1,19 +1,10 @@
 ngrams:
-- - calmer
-  - phrensy
-  - spurr
 - - tay
   - tay
   - tarry
-- - phrensy
-  - spurr
-  - d
 - - concurrent
   - accidents
   - already
-- - rehearsal
-  - transpros
-  - d
 - - hundred
   - leaves
   - fall
@@ -44,6 +35,93 @@ ngrams:
 - - same
   - though
   - something
+- - clergyman
+  - nothing
+  - now
+- - totally
+  - confounded
+  - him
+- - him
+  - andrew
+  - marvell
+- - undone
+  - him
+  - andrew
+- - utterly
+  - undone
+  - him
+- - has
+  - utterly
+  - undone
+- - mentioned
+  - has
+  - utterly
+- - already
+  - mentioned
+  - has
+- - shells
+  - were
+  - alike
+- - were
+  - alike
+  - thin
+- - both
+  - their
+  - shells
+- - two
+  - friends
+  - who
+- - reader
+  - will
+  - avow
+- - friends
+  - who
+  - being
+- - ecclesiastical
+  - policy
+  - there
+- - who
+  - being
+  - also
+- - once
+  - come
+  - out
+- - an
+  - extravagant
+  - rate
+- - being
+  - also
+  - out
+- - one
+  - lucid
+  - interval
+- - lucid
+  - interval
+  - this
+- - this
+  - totally
+  - confounded
+- - one
+  - j
+  - o
+- - head
+  - which
+  - meeting
+- - now
+  - would
+  - serve
+- - himself
+  - an
+  - author
+- - their
+  - shells
+  - were
+- - interval
+  - this
+  - book
+- - saw
+  - himself
+  - an
 story:
   date: 2007-11-04
   id: 2007-11-04-mr-bayes-the-clergyman
@@ -72,4 +150,4 @@ story:
     \ mentioned, has utterly undone him.\nAndrew Marvell, The Rehearsal Transpros'd\_\
     \ (1672)\_"
   title: Mr Bayes, The Clergyman
-word_count: 334
+word_count: 331

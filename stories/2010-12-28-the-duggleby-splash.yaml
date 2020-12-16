@@ -14,18 +14,21 @@ ngrams:
 - - father
   - duggleby
   - hid
+- - priest's
+  - horse
+  - plummets
 - - sun
   - burned
   - brilliant
 - - simple
   - coastal
   - folk
-- - poor
-  - perished
-  - horse
 - - duggleby
   - splash
   - o
+- - poor
+  - perished
+  - horse
 - - splash
   - o
   - father
@@ -44,6 +47,84 @@ ngrams:
 - - sack
   - without
   - success
+- - own
+  - poor
+  - perished
+- - perished
+  - horse
+  - should
+- - these
+  - simple
+  - coastal
+- - dreadful
+  - thing
+  - indeed
+- - seen
+  - nor
+  - heard
+- - night
+  - still
+  - tied
+- - way
+  - galloping
+  - across
+- - clop
+  - sounding
+  - like
+- - father
+  - duggleby
+  - did
+- - did
+  - four
+  - members
+- - sea
+  - its
+  - impact
+- - nor
+  - heard
+  - before
+- - heard
+  - before
+  - nor
+- - him
+  - father
+  - duggleby
+- - its
+  - impact
+  - made
+- - its
+  - way
+  - galloping
+- - their
+  - fury
+  - father
+- - cliffs
+  - banners
+  - were
+- - banners
+  - were
+  - flying
+- - latest
+  - priest
+  - into
+- - horse
+  - plummets
+  - into
+- - before
+  - nor
+  - did
+- - nor
+  - did
+  - any
+- - splash
+  - they
+  - called
+- - came
+  - they
+  - untied
+- - post
+  - there
+  - outside
 story:
   date: 2010-12-28
   id: 2010-12-28-the-duggleby-splash
@@ -77,4 +158,4 @@ story:
     And the day after, they send for a new priest, and lo! he comes galloping across
     the heath.'
   title: The Duggleby Splash
-word_count: 344
+word_count: 343

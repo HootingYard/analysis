@@ -1,4 +1,7 @@
 ngrams:
+- - wife's
+  - major
+  - preoccupation
 - - extremely
   - arcane
   - obscure
@@ -23,9 +26,6 @@ ngrams:
 - - playing
   - choral
   - singing
-- - alain
-  - de
-  - botton
 - - botton
   - action
   - figure
@@ -38,9 +38,27 @@ ngrams:
 - - action
   - figure
   - curiously
-- - killick-kendrick
-  - whose
+- - whose
   - obituary
+  - appears
+- - uncompleted
+  - book
+  - illustrated
+- - sadly
+  - uncompleted
+  - book
+- - book
+  - illustrated
+  - mainly
+- - own
+  - photographs
+  - incidentally
+- - most
+  - coveted
+  - christmas
+- - photo
+  - nor
+  - indeed
 story:
   date: 2011-12-24
   id: 2011-12-24-the-bells
@@ -59,4 +77,4 @@ story:
     \ action figure. Curiously, there is no trace of the photo, nor indeed of the\
     \ accompanying article, on the website."
   title: The Bells!
-word_count: 169
+word_count: 167

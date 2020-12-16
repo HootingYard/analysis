@@ -2,6 +2,9 @@ ngrams:
 - - bumpkins
   - shack
   - chatter
+- - newborn
+  - pig's
+  - snout
 - - whenever
   - bumpkins
   - gather
@@ -20,9 +23,6 @@ ngrams:
 - - huffington
   - post
   - whenever
-- - hysteria
-  - often
-  - focussed
 - - mass
   - hysteria
   - often
@@ -44,6 +44,81 @@ ngrams:
 - - fixate
   - upon
   - minutiae
+- - smirks
+  - were
+  - disparaging
+- - any
+  - other
+  - posts
+- - later
+  - their
+  - talk
+- - others
+  - who
+  - came
+- - fool
+  - blundered
+  - into
+- - looked
+  - like
+  - any
+- - carried
+  - him
+  - 'off'
+- - mock
+  - they
+  - coated
+- - talk
+  - will
+  - turn
+- - station
+  - they
+  - waylaid
+- - railway
+  - station
+  - they
+- - fool
+  - would
+  - dismiss
+- - lane
+  - would
+  - sound
+- - like
+  - any
+  - other
+- - balmy
+  - evening
+  - one
+- - course
+  - we
+  - think
+- - they
+  - coated
+  - him
+- - they
+  - waylaid
+  - him
+- - snout
+  - or
+  - trotters
+- - pig's
+  - snout
+  - or
+- - him
+  - they
+  - buried
+- - they
+  - buried
+  - him
+- - their
+  - talk
+  - will
+- - nonsensical
+  - but
+  - rustic
+- - lane
+  - sooner
+  - or
 story:
   date: 2007-06-17
   id: 2007-06-17-the-huffington-post
@@ -71,4 +146,4 @@ story:
     \ and poked him with pitchforks, and when they were done with him they buried\
     \ him at midnight under the Huffington Post."
   title: The Huffington Post
-word_count: 324
+word_count: 323

@@ -1,49 +1,163 @@
 ngrams:
-- - french-aboriginal
-  - australian
-  - composer
 - - australian
   - composer
   - di
-- - ague
-  - mice
-  - nibble
 - - angry
   - spider
   - scuttles
-- - di
-  - g
-  - ridu
 - - poisoned
   - malign
   - sprites
 - - composer
   - di
   - g
-- - dangerous
-  - ague
-  - mice
-- - eleven
-  - twelve
-  - thirteen
 - - pope
   - brutes
   - break
 - - cast
   - loopy
   - libretto
-- - ten
-  - eleven
-  - twelve
-- - nine
-  - ten
-  - eleven
 - - seven
   - eight
   - nine
-- - eight
-  - nine
-  - ten
+- - monotonous
+  - dirge
+  - o
+- - vast
+  - cast
+  - loopy
+- - dirge
+  - o
+  - woe
+- - o
+  - woe
+  - unto
+- - suffers
+  - further
+  - tribulations
+- - six
+  - seven
+  - eight
+- - early
+  - th
+  - century
+- - th
+  - century
+  - possibly
+- - five
+  - six
+  - seven
+- - brutes
+  - broke
+  - both
+- - brutes
+  - break
+  - both
+- - accidentally
+  - drops
+  - another
+- - accidentally
+  - dropped
+  - another
+- - drops
+  - another
+  - button
+- - four
+  - five
+  - six
+- - dropped
+  - another
+  - button
+- - three
+  - four
+  - five
+- - spider
+  - scuttles
+  - 'off'
+- - further
+  - tribulations
+  - until
+- - century
+  - possibly
+  - because
+- - scuttles
+  - 'off'
+  - stage
+- - acts
+  - two
+  - three
+- - buttons
+  - falls
+  - down
+- - buttons
+  - falls
+  - down
+- - 'off'
+  - stage
+  - right
+- - falls
+  - down
+  - act
+- - buttons
+  - fell
+  - down
+- - buttons
+  - fell
+  - down
+- - sky
+  - falls
+  - down
+- - two
+  - three
+  - four
+- - sky
+  - fell
+  - down
+- - its
+  - vast
+  - cast
+- - down
+  - another
+  - drain
+- - down
+  - another
+  - drain
+- - another
+  - button
+  - down
+- - button
+  - down
+  - another
+- - another
+  - button
+  - down
+- - button
+  - down
+  - another
+- - several
+  - other
+  - people's
+- - several
+  - other
+  - people's
+- - pitchforks
+  - torment
+  - him
+- - own
+  - petard
+  - then
+- - been
+  - performed
+  - since
+- - stars
+  - were
+  - blotted
+- - pitchforks
+  - tormented
+  - me
+- - woe
+  - unto
+  - me
 story:
   date: 2016-01-24
   id: 2016-01-24-tribulations-of-the-buttonmaker
@@ -79,4 +193,4 @@ story:
     \ curtain falls, the stage is littered with corpses and the angry spider scuttles\
     \ off, stage right."
   title: Tribulations Of The Buttonmaker
-word_count: 431
+word_count: 428

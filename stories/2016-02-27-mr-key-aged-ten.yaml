@@ -1,13 +1,19 @@
 ngrams:
-- - aged
-  - ten
-  - thanks
-- - key
-  - aged
-  - ten
 - - brighton
   - many
   - moons
+- - mr
+  - key
+  - aged
+- - many
+  - moons
+  - ago
+- - this
+  - photograph
+  - taken
+- - my
+  - brother
+  - for
 story:
   date: 2016-02-27
   id: 2016-02-27-mr-key-aged-ten

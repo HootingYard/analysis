@@ -1,7 +1,4 @@
 ngrams:
-- - piercingly
-  - acute
-  - flimflam
 - - hysterical
   - supplementary
   - passages
@@ -11,21 +8,12 @@ ngrams:
 - - arrows
   - wavy
   - lines
-- - abstruse
-  - taxonomic
-  - system
-- - abstruse
-  - taxonomic
-  - system
 - - magnifying
   - glass
   - included
 - - occasionally
   - hysterical
   - supplementary
-- - taxonomic
-  - system
-  - partly
 - - universe
   - arranged
   - according
@@ -44,6 +32,54 @@ ngrams:
 - - known
   - universe
   - arranged
+- - tet
+  - offensive
+  - though
+- - read
+  - anything
+  - else
+- - anything
+  - else
+  - ever
+- - made
+  - several
+  - smudges
+- - given
+  - much
+  - well
+- - delve
+  - deeper
+  - into
+- - hefty
+  - catalogue
+  - when
+- - deeper
+  - into
+  - everything
+- - will
+  - slump
+  - accordingly
+- - sales
+  - will
+  - slump
+- - book
+  - sales
+  - will
+- - prospective
+  - publishers
+  - are
+- - much
+  - well
+  - 'no'
+- - while
+  - doing
+  - so
+- - slump
+  - accordingly
+  - but
+- - hefty
+  - hefty
+  - but
 story:
   date: 2014-02-23
   id: 2014-02-23-a-hefty-catalogue
@@ -64,4 +100,4 @@ story:
     but by the fact that nobody is ever going to need to read anything else, ever,\
     \ and book sales will slump accordingly.\nBut first I must crack on with the Lives..."
   title: A Hefty Catalogue
-word_count: 220
+word_count: 219

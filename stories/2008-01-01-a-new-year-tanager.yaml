@@ -23,12 +23,12 @@ ngrams:
 - - pang
   - hill
   - orphanage
-- - orphanage
-  - attic
-  - open
 - - year
   - tanager
   - traditionally
+- - orphanage
+  - attic
+  - open
 - - pig
   - annuals
   - donated
@@ -41,9 +41,81 @@ ngrams:
 - - worthies
   - roams
   - among
+- - orphanage
+  - busy
+  - during
 - - cardboard
   - tanager
   - using
+- - tree
+  - branch
+  - sometimes
+- - around
+  - haemoglobin
+  - towers
+- - surviving
+  - paper
+  - bird
+- - year's
+  - eve
+  - each
+- - really
+  - quite
+  - shoddy
+- - rather
+  - dull
+  - song
+- - night
+  - sky
+  - rings
+- - year
+  - tanager
+  - birds
+- - new
+  - year's
+  - eve
+- - sky
+  - around
+  - haemoglobin
+- - little
+  - bodies
+  - destroying
+- - foundlings
+  - charity
+  - these
+- - fallen
+  - little
+  - bodies
+- - picks
+  - insects
+  - 'off'
+- - insects
+  - 'off'
+  - branches
+- - charity
+  - these
+  - latter
+- - sometimes
+  - really
+  - quite
+- - new
+  - year
+  - tanager
+- - new
+  - year
+  - tanager
+- - each
+  - tiny
+  - collapses
+- - black
+  - night
+  - sky
+- - eve
+  - each
+  - tiny
+- - cardboard
+  - birds
+  - often
 story:
   date: 2008-01-01
   id: 2008-01-01-a-new-year-tanager
@@ -72,4 +144,4 @@ story:
     \ and locked into the filthy and infested canteen for their breakfast of cauliflower\
     \ water and radishes."
   title: A New Year Tanager
-word_count: 323
+word_count: 319

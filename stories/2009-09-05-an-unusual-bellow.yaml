@@ -2,9 +2,6 @@ ngrams:
 - - holidaying
   - veterinary
   - surgeon
-- - authentic
-  - hitchcockian
-  - menace
 - - attacked
   - david
   - blunkett
@@ -29,6 +26,24 @@ ngrams:
 - - question
   - stood
   - up
+- - johnson
+  - said
+  - she
+- - alfred
+  - hitchcock
+  - were
+- - stood
+  - up
+  - against
+- - all
+  - stood
+  - huddled
+- - they
+  - attacked
+  - david
+- - unusual
+  - bellow
+  - would
 story:
   date: 2009-09-05
   id: 2009-09-05-an-unusual-bellow
@@ -43,4 +58,4 @@ story:
     \ was found leaning against a stone wall and a semi-circle of cows close by.\n\
     \nPhoto by Quilted"
   title: An Unusual Bellow
-word_count: 124
+word_count: 123

@@ -1,28 +1,13 @@
 ngrams:
-- - world-shuddering
-  - significance
-  - lurking
-- - twenty-first
-  - century
-  - version
 - - significance
   - lurking
   - within
 - - somewhat
   - unnerving
   - thought
-- - succeeding
-  - twenty-five
-  - years
-- - haven
-  - t
-  - got
-- - even
-  - undramatic
-  - manner
 - - still
-  - haven
-  - t
+  - haven't
+  - got
 - - lurking
   - within
   - its
@@ -35,6 +20,36 @@ ngrams:
 - - sure
   - do
   - let
+- - within
+  - its
+  - two
+- - come
+  - 'no'
+  - closer
+- - nostalgic
+  - about
+  - something
+- - century
+  - ago
+  - which
+- - significant
+  - dabbling
+  - this
+- - let
+  - me
+  - know
+- - dabbling
+  - this
+  - week
+- - can
+  - work
+  - out
+- - do
+  - let
+  - me
+- - know
+  - then
+  - what
 story:
   date: 2012-01-13
   id: 2012-01-13-significant-dabbling
@@ -50,4 +65,4 @@ story:
     \ version, but the meaning, whatever it might be, is not altered in any dramatic,\
     \ or even undramatic, manner."
   title: Significant Dabbling
-word_count: 144
+word_count: 143

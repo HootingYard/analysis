@@ -1,7 +1,4 @@
 ngrams:
-- - unlike
-  - aldous
-  - huxley
 - - dabble
   - n
   - mash
@@ -20,6 +17,21 @@ ngrams:
 - - cupboard
   - incidentally
   - are
+- - are
+  - thrown
+  - open
+- - are
+  - utterly
+  - different
+- - lunchtime
+  - anyway
+  - this
+- - other
+  - ways
+  - they
+- - anyway
+  - this
+  - week
 story:
   date: 2010-10-01
   id: 2010-10-01-dabble-n-mash
@@ -33,4 +45,4 @@ story:
     something to do at lunchtime. Anyway, this week I confess my foolish fascination
     with a president and his potatoes.'
   title: "Dabble \u2018N\u2019 Mash"
-word_count: 94
+word_count: 93

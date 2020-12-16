@@ -2,12 +2,18 @@ ngrams:
 - - avant
   - garde
   - oriental
-- - shadow
-  - puppetry
-  - celebrates
 - - garde
   - oriental
   - shadow
+- - oriental
+  - shadow
+  - puppetry
+- - birthday
+  - today
+  - let's
+- - her
+  - birthday
+  - today
 story:
   date: 2015-02-18
   id: 2015-02-18-82-today
@@ -16,4 +22,4 @@ story:
 
     '
   title: 82 Today!
-word_count: 23
+word_count: 21

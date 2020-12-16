@@ -1,4 +1,7 @@
 ngrams:
+- - brian's
+  - gothic
+  - symphony
 - - offstage
   - brass
   - bands
@@ -8,9 +11,6 @@ ngrams:
 - - section
   - includes
   - chains
-- - orchestra
-  - size
-  - doubled-up
 - - vast
   - percussion
   - section
@@ -20,6 +20,15 @@ ngrams:
 - - including
   - nine
   - choirs
+- - performers
+  - including
+  - nine
+- - thousand
+  - performers
+  - including
+- - wooden
+  - lake
+  - reminds
 story:
   date: 2011-11-22
   id: 2011-11-22-speaking-of-bird-scarifiers
@@ -31,4 +40,4 @@ story:
     \ and a bird scare.\nThat Brian was one of the great British eccentrics has never\
     \ been in doubt\n"
   title: "Speaking Of Bird Scarifiers\u2026"
-word_count: 87
+word_count: 86

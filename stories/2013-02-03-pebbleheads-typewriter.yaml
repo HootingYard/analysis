@@ -1,13 +1,19 @@
 ngrams:
-- - paperback
-  - potboilerist
-  - completed
-- - bestselling
-  - paperback
-  - potboilerist
 - - particularly
   - strenuous
   - bout
+- - london's
+  - lost
+  - rivers
+- - chalet
+  - o
+  - prose
+- - lost
+  - rivers
+  - where
+- - picture
+  - found
+  - its
 story:
   date: 2013-02-03
   id: 2013-02-03-pebbleheads-typewriter
@@ -16,4 +22,4 @@ story:
     \n(The picture found its way on to London's Lost Rivers, where I found it thanks\
     \ to Marina Organ.)"
   title: Pebblehead's Typewriter
-word_count: 42
+word_count: 39

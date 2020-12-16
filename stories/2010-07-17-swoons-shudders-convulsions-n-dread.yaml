@@ -1,7 +1,4 @@
 ngrams:
-- - amatus
-  - lusitanus
-  - relates
 - - tycho
   - brahe
   - fainted
@@ -11,9 +8,6 @@ ngrams:
 - - erasmus
   - experienced
   - febrile
-- - water-cresses
-  - erasmus
-  - experienced
 - - experienced
   - febrile
   - symptoms
@@ -23,9 +17,6 @@ ngrams:
 - - fur
   - boyle
   - records
-- - cannon-ball
-  - zimmerman
-  - tells
 - - effect
   - tycho
   - brahe
@@ -38,12 +29,99 @@ ngrams:
 - - hargrave
   - jennings
   - curious
-- - fire
-  - amatus
-  - lusitanus
 - - bagpipe
   - boyle
   - fell
+- - whole
+  - families
+  - entertain
+- - less
+  - questionable
+  - authority
+- - room
+  - hippocrates
+  - mentions
+- - further
+  - enlightening
+  - snippet
+- - room
+  - voltaire
+  - gives
+- - same
+  - effect
+  - tycho
+- - ladies
+  - cannot
+  - bear
+- - jennings
+  - curious
+  - things
+- - zimmerman
+  - tells
+  - us
+- - preparing
+  - being
+  - troubled
+- - man
+  - invariably
+  - fainted
+- - convulsions
+  - dread
+  - here
+- - young
+  - man
+  - invariably
+- - world
+  - last
+  - fire
+- - outside
+  - world
+  - last
+- - peach
+  - other
+  - ladies
+- - other
+  - ladies
+  - cannot
+- - shakespeare
+  - has
+  - alluded
+- - monk
+  - who
+  - fainted
+- - hale
+  - constitution
+  - who
+- - painter
+  - vincent
+  - who
+- - who
+  - swooned
+  - whenever
+- - men
+  - who
+  - dreaded
+- - febrile
+  - symptoms
+  - when
+- - symptoms
+  - when
+  - smelling
+- - thrown
+  - into
+  - convulsions
+- - invariably
+  - fainted
+  - when
+- - when
+  - smelling
+  - fish
+- - boyle
+  - fell
+  - into
+- - apple
+  - more
+  - than
 story:
   date: 2010-07-17
   id: 2010-07-17-swoons-shudders-convulsions-n-dread
@@ -73,4 +151,4 @@ story:
     \ III of France at that of a cat, and Marshal D'Albret at a pig. The horror that\
     \ whole families entertain of cheese is well known.\u201D"
   title: Swoons, Shudders, Convulsions & Dread
-word_count: 336
+word_count: 334

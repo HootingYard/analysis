@@ -1,16 +1,22 @@
 ngrams:
-- - william
-  - bodham
-  - donne
-- - diet
-  - william
-  - bodham
 - - vegetable
   - diet
   - william
 - - knowledge
   - irretrievably
   - buried
+- - beside
+  - king
+  - nebuchadnezzar
+- - stood
+  - beside
+  - king
+- - donne
+  - old
+  - roads
+- - after
+  - knowledge
+  - irretrievably
 story:
   date: 2010-06-17
   id: 2010-06-17-bootless

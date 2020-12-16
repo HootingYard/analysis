@@ -1,13 +1,19 @@
 ngrams:
-- - desiccation
-  - humphrey
-  - lyttelton
-- - humphrey
-  - lyttelton
-  - president
 - - discarding
   - baggage
   - along
+- - life
+  - discarding
+  - baggage
+- - through
+  - life
+  - discarding
+- - journey
+  - through
+  - life
+- - we
+  - should
+  - keep
 story:
   date: 2008-04-27
   id: 2008-04-27-r-i-p

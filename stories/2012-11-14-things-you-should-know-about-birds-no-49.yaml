@@ -1,16 +1,22 @@
 ngrams:
-- - howard
-  - jacobson
-  - collected
 - - find
   - yourself
   - alone
-- - wouldn
-  - t
-  - want
-- - don
-  - t
-  - like
+- - know
+  - about
+  - birds
+- - should
+  - know
+  - about
+- - ripping
+  - out
+  - your
+- - out
+  - your
+  - stomach
+- - toe
+  - from
+  - pie
 story:
   date: 2012-11-14
   id: 2012-11-14-things-you-should-know-about-birds-no-49
@@ -19,4 +25,4 @@ story:
     \ big toe.\nfrom \u201CPie Pellicane\u201D by Howard Jacobson, collected in Whatever\
     \ It Is, I Don't Like It (2011)"
   title: Things You Should Know About Birds, No. 49
-word_count: 53
+word_count: 51

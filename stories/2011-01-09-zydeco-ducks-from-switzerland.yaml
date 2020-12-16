@@ -1,19 +1,25 @@
 ngrams:
-- - fr
-  - res
-  - souchet
-- - rosin
-  - story
-  - girod
 - - wild
   - duck
   - brothers
-- - story
-  - girod
-  - explains
-- - mama
-  - rosin
-  - story
+- - duck
+  - brothers
+  - also
+- - because
+  - cyril
+  - sounds
+- - also
+  - because
+  - cyril
+- - brothers
+  - also
+  - because
+- - very
+  - important
+  - part
+- - switzerland
+  - ducks
+  - are
 story:
   date: 2011-01-09
   id: 2011-01-09-zydeco-ducks-from-switzerland

@@ -2,18 +2,12 @@ ngrams:
 - - bah
   - bloody
   - euros
-- - burnet
-  - bah
-  - bloody
 - - dockside
   - cafeteria
   - drinking
 - - cafeteria
   - drinking
   - coffee
-- - peter
-  - burnet
-  - bah
 - - england
   - brit
   - provided
@@ -32,9 +26,15 @@ ngrams:
 - - excitedly
   - look
   - half
-- - until
-  - dinnertime
-  - meanwhile
+- - last
+  - thursday's
+  - impugned
+- - dan
+  - brown's
+  - new
+- - brown's
+  - new
+  - novel
 - - sitting
   - alongside
   - us
@@ -44,6 +44,42 @@ ngrams:
 - - new
   - world
   - handle
+- - said
+  - excitedly
+  - look
+- - further
+  - peasants
+  - time
+- - bloody
+  - euros
+  - 'no'
+- - euros
+  - 'no'
+  - wonder
+- - 'no'
+  - wonder
+  - you're
+- - haunted
+  - me
+  - until
+- - just
+  - check
+  - out
+- - an
+  - meandering
+  - tale
+- - prompting
+  - this
+  - response
+- - tale
+  - prompting
+  - this
+- - animals
+  - disembarked
+  - from
+- - response
+  - from
+  - peter
 story:
   date: 2009-09-15
   id: 2009-09-15-impugned-by-further-peasants
@@ -64,4 +100,4 @@ story:
     \ of seaside-type peasants, one of whom chortled and shouted:\n\u201CIt's a big\
     \ chicken, you fool!\u201D\nThus was I impugned, in my dream."
   title: Impugned By Further Peasants
-word_count: 226
+word_count: 222

@@ -2,33 +2,15 @@ ngrams:
 - - poe
   - luxembourg
   - bales
-- - manly
-  - winsome
-  - beguiled
-- - ulm
-  - yeast
-  - fixture
-- - pierre
-  - loti
-  - innit
-- - cylinder
-  - weems
-  - agony
 - - kreutzer
   - sonata
   - yoko
+- - cylinder
+  - weems
+  - agony
 - - ms
   - fr
   - vi
-- - thrill-packed
-  - adventure
-  - featuring
-- - sonata
-  - yoko
-  - eno
-- - yoko
-  - eno
-  - bono
 - - medicine
   - ms
   - fr
@@ -44,6 +26,111 @@ ngrams:
 - - harbin
   - la
   - condoleezza
+- - recurring
+  - hero
+  - dax
+- - manley
+  - hopkins
+  - manly
+- - laminated
+  - flash
+  - cards
+- - dax
+  - manley
+  - hopkins
+- - hero
+  - dax
+  - manley
+- - shown
+  - neatly
+  - arranged
+- - fr
+  - vi
+  - n
+- - flash
+  - cards
+  - giving
+- - petersburg
+  - national
+  - library
+- - st
+  - petersburg
+  - national
+- - l
+  - ron
+  - cupboard
+- - garden
+  - gold
+  - diggers
+- - condoleezza
+  - gas
+  - giant
+- - la
+  - condoleezza
+  - gas
+- - simple
+  - medicine
+  - ms
+- - giant
+  - third
+  - shelf
+- - loitering
+  - thou
+  - art
+- - c
+  - st
+  - petersburg
+- - thou
+  - art
+  - pierre
+- - makes
+  - explicit
+  - unless
+- - v
+  - c
+  - st
+- - gas
+  - giant
+  - third
+- - bono
+  - second
+  - shelf
+- - right
+  - national
+  - cylinder
+- - right
+  - bittern
+  - storm
+- - hundreds
+  - possibly
+  - thousands
+- - picture
+  - above
+  - adorns
+- - fourth
+  - shelf
+  - left
+- - bottom
+  - shelf
+  - left
+- - third
+  - shelf
+  - left
+- - top
+  - shelf
+  - left
+- - second
+  - shelf
+  - left
+- - quite
+  - makes
+  - explicit
+- - scene
+  - takes
+  - place
+- - unflappable
+  - first
+  - opens
 story:
   date: 2010-01-22
   id: 2010-01-22-cupboard
@@ -76,4 +163,4 @@ story:
     \ Simple Medicine, Ms. Fr. VI n. 1, fol. 166v., c. 1470, St. Petersburg National\
     \ Library, which I found at Mapping The Marvellous."
   title: Cupboard
-word_count: 356
+word_count: 353

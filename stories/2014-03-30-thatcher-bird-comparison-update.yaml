@@ -1,7 +1,4 @@
 ngrams:
-- - then-future
-  - prime
-  - minister
 - - matthew
   - parris
   - claimed
@@ -14,12 +11,24 @@ ngrams:
 - - daily
   - express
   - compared
-- - reading
-  - dominic
-  - sandbrook
 - - thatcher
   - bird
   - comparison
+- - bird
+  - comparison
+  - update
+- - complicated
+  - reading
+  - dominic
+- - partridge
+  - while
+  - jon
+- - thatcher
+  - died
+  - last
+- - most
+  - closely
+  - resembled
 story:
   date: 2014-03-30
   id: 2014-03-30-thatcher-bird-comparison-update
@@ -31,4 +40,4 @@ story:
     : The Battle For Britain 1974\u20131979, I learn that the Daily Express compared\
     \ the then-future Prime Minister to \u201Can angry woodpecker\u201D."
   title: Thatcher Bird Comparison Update
-word_count: 85
+word_count: 84

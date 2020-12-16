@@ -1,13 +1,4 @@
 ngrams:
-- - ear-corks
-  - nasal
-  - icicles
-- - puffins
-  - guillemots
-  - auks
-- - goggles
-  - ear-corks
-  - nasal
 - - keeps
   - nagging
   - squiffy
@@ -38,6 +29,36 @@ ngrams:
 - - any
   - nursery
   - rhymes
+- - recall
+  - any
+  - nursery
+- - finished
+  - turn
+  - over
+- - more
+  - compelling
+  - variation
+- - puffin
+  - below
+  - then
+- - below
+  - then
+  - reread
+- - matters
+  - why
+  - do
+- - even
+  - more
+  - compelling
+- - furry
+  - boots
+  - which
+- - an
+  - hallucination
+  - borne
+- - reverse
+  - write
+  - an
 story:
   date: 2016-08-01
   id: 2016-08-01-homework
@@ -63,4 +84,4 @@ story:
     write an even more compelling variation from the point of view of the collapsed
     puffin.'
   title: Homework
-word_count: 167
+word_count: 166

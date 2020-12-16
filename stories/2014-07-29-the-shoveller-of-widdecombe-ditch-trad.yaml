@@ -2,33 +2,48 @@ ngrams:
 - - temptress
   - siren
   - witch
-- - trad
-  - shoveller
-  - shoveller
-- - pitch
-  - shoveller
-  - shoveller
-- - hovel
-  - shoveller
-  - shoveller
+- - linden
+  - tree
+  - we'll
+- - tree
+  - we'll
+  - skip
 - - widdecombe
   - ditch
-  - trad
-- - ditch
-  - trad
-  - shoveller
-- - shoveller
-  - shoveller
-  - lay
+  - it's
 - - tastes
   - quite
   - foul
 - - quite
   - foul
   - damn
-- - shoveller
-  - come
-  - skip
+- - ditch
+  - it's
+  - black
+- - spade
+  - let
+  - us
+- - only
+  - drink
+  - water
+- - us
+  - go
+  - tiptoe
+- - let
+  - us
+  - go
+- - drop
+  - then
+  - go
+- - into
+  - widdecombe
+  - ditch
+- - your
+  - spade
+  - let
+- - down
+  - your
+  - spade
 story:
   date: 2014-07-29
   id: 2014-07-29-the-shoveller-of-widdecombe-ditch-trad
@@ -42,4 +57,4 @@ story:
     \  I only drink water from Widdecombe Ditch.\n  It's black and brackish and tastes\
     \ quite foul.\n  Damn you, shoveller! [She turns into an owl.]"
   title: The Shoveller Of Widdecombe Ditch (Trad.)
-word_count: 127
+word_count: 124

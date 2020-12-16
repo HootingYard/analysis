@@ -1,7 +1,4 @@
 ngrams:
-- - difficulty
-  - patrick
-  - harpur
 - - heading
   - fiction
   - eggs
@@ -14,6 +11,18 @@ ngrams:
 - - eggs
   - work
   - continues
+- - quotations
+  - regarding
+  - she
+- - regarding
+  - she
+  - gave
+- - eggs
+  - here
+  - just
+- - she
+  - gave
+  - him
 story:
   date: 2011-03-26
   id: 2011-03-26-extract-from-the-encyclopaedia-of-eggs

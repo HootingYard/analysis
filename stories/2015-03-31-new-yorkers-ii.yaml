@@ -1,13 +1,19 @@
 ngrams:
-- - new
-  - yorkers
-  - ii
-- - new
-  - yorkers
-  - encountered
-- - yorkers
-  - ii
+- - ii
   - two
+  - more
+- - two
+  - more
+  - new
+- - metropolitan
+  - museum
+  - of
+- - museum
+  - of
+  - art
+- - the
+  - metropolitan
+  - museum
 story:
   date: 2015-03-31
   id: 2015-03-31-new-yorkers-ii

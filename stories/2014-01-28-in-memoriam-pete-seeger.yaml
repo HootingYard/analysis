@@ -1,10 +1,10 @@
 ngrams:
-- - memoriam
-  - pete
-  - seeger
 - - occasional
   - dull
   - thump
+- - maxwell's
+  - silver
+  - hammer
 - - bang
   - bang
   - bang
@@ -17,12 +17,18 @@ ngrams:
 - - country
   - bang
   - bang
+- - didn't
+  - stop
+  - hammering
 - - siblings
   - roaring
   - towards
 - - frontier
   - having
   - hammered
+- - good
+  - night's
+  - sleep
 - - having
   - hammered
   - pretty
@@ -35,15 +41,147 @@ ngrams:
 - - stop
   - hammering
   - until
-- - didn
-  - t
-  - discriminate
 - - news
   - reaches
   - mr
 - - new
   - country
   - bang
+- - hammered
+  - pretty
+  - much
+- - pretty
+  - much
+  - everything
+- - happy
+  - day
+  - hammering
+- - day
+  - hammering
+  - everything
+- - five
+  - years
+  - ago
+- - half
+  - way
+  - across
+- - more
+  - densely
+  - packed
+- - lot
+  - more
+  - hammering
+- - way
+  - half
+  - way
+- - do
+  - required
+  - something
+- - much
+  - more
+  - densely
+- - larking
+  - about
+  - personally
+- - didn't
+  - discriminate
+  - if
+- - dull
+  - thump
+  - if
+- - hammered
+  - out
+  - danger
+- - descended
+  - upon
+  - like
+- - hammered
+  - out
+  - love
+- - been
+  - hammering
+  - things
+- - continued
+  - hammering
+  - all
+- - good
+  - hammer
+  - when
+- - out
+  - love
+  - between
+- - continued
+  - hammering
+  - there
+- - roaring
+  - towards
+  - me
+- - pete
+  - seeger
+  - so
+- - so
+  - maxwell's
+  - silver
+- - just
+  - larking
+  - about
+- - hammering
+  - things
+  - all
+- - real
+  - thumper
+  - so
+- - serve
+  - me
+  - well
+- - land
+  - they
+  - should
+- - sisters
+  - all
+  - over
+- - hammering
+  - all
+  - over
+- - hammer
+  - all
+  - over
+- - evening
+  - all
+  - over
+- - this
+  - land
+  - anyway
+- - repost
+  - this
+  - piece
+- - things
+  - all
+  - day
+- - this
+  - new
+  - country
+- - hammer
+  - from
+  - maxwell's
+- - do
+  - so
+  - maxwell's
+- - silver
+  - hammer
+  - from
+- - about
+  - personally
+  - if
+- - day
+  - all
+  - over
+- - bad
+  - play
+  - from
+- - blood
+  - but
+  - otherwise
 story:
   date: 2014-01-28
   id: 2014-01-28-in-memoriam-pete-seeger
@@ -81,4 +219,4 @@ story:
     \ for as long as I continued hammering, all over as many lands as I descended\
     \ upon, like an angel of death, with my hammer."
   title: In Memoriam Pete Seeger
-word_count: 501
+word_count: 493

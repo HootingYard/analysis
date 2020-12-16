@@ -1,7 +1,4 @@
 ngrams:
-- - lilian
-  - gish
-  - wasps
 - - anecdotal
   - material
   - linking
@@ -17,9 +14,6 @@ ngrams:
 - - material
   - linking
   - googie
-- - brains
-  - careening
-  - pell-mell
 - - useful
   - employment
   - nevertheless
@@ -44,6 +38,42 @@ ngrams:
 - - bee
   - r
   - writes
+- - n
+  - bee
+  - r
+- - story
+  - involving
+  - ectoplasmic
+- - connections
+  - between
+  - stars
+- - nevertheless
+  - bloody
+  - good
+- - gish
+  - wasps
+  - too
+- - bee
+  - goo
+  - though
+- - conversely
+  - conversely
+  - say
+- - makes
+  - things
+  - clear
+- - now
+  - useful
+  - mileage
+- - more
+  - useful
+  - employment
+- - story
+  - now
+  - useful
+- - some
+  - useful
+  - mileage
 story:
   date: 2009-09-17
   id: 2009-09-17-gish-n-wasps
@@ -64,4 +94,4 @@ story:
     \ has been suppressed by Vilma Banky's estate, for understandable reasons.\nI\
     \ hope that makes things clear."
   title: "Gish \u2018n\u2019 Wasps"
-word_count: 201
+word_count: 200

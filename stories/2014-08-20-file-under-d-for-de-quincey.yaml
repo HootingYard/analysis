@@ -1,46 +1,70 @@
 ngrams:
-- - murdered
-  - lisbon
-  - earthquake
-- - indecent
-  - spectacle
-  - leibnitz
-- - ever-intriguing
-  - futility
-  - closet
-- - grandly
-  - nota
-  - bene
-- - barbarous
-  - devices
-  - devonshire
-- - muffins
-  - suicide
-  - hoo-ha
-- - necessarily
-  - gluttons
-  - anecdotes
-- - ancients
-  - christenings
-  - royal
 - - hurried
   - coffee
   - atrocious
-- - terrific
-  - curse
-  - waterton
-- - die
-  - grandly
-  - nota
 - - germany
   - muffins
   - eating
-- - spectacle
-  - leibnitz
-  - died
-- - swindlers
-  - horses
+- - greece
+  - greece
+  - ancient
+- - england
+  - cookery
+  - english
+- - horses
   - weeping
+  - johnson
+- - homer
+  - spitting
+  - art
+- - de
+  - quincey
+  - hats
+- - thomas
+  - de
+  - quincey
+- - weeping
+  - johnson
+  - dr
+- - suicide
+  - music
+  - english
+- - bed
+  - early
+  - retirement
+- - knife
+  - bed
+  - early
+- - often
+  - hurried
+  - coffee
+- - royal
+  - often
+  - hurried
+- - file
+  - under
+  - d
+- - these
+  - selected
+  - entries
+- - quincey
+  - hats
+  - 'off'
+- - rhinoceros
+  - first
+  - sale
+- - greece
+  - ancient
+  - its
+- - talk
+  - too
+  - much
+- - crocodile
+  - women
+  - can
+- - can
+  - die
+  - grandly
 story:
   date: 2014-08-20
   id: 2014-08-20-file-under-d-for-de-quincey
@@ -60,4 +84,4 @@ story:
     \  Women, can die grandly\nNOTA BENE\_: You can read what De Quincey had to say\
     \ about that muffins / suicide hoo-ha here."
   title: File Under D For De Quincey
-word_count: 179
+word_count: 178

@@ -1,25 +1,16 @@
 ngrams:
-- - bogus
-  - laundry
-  - affair
 - - intriguing
   - sherlock
   - holmes
-- - holmes
-  - cases
-  - unrecorded
-- - powerful
-  - chap
-  - clean-shaven
+- - bogus
+  - laundry
+  - affair
 - - sherlock
   - holmes
   - cases
 - - model
   - laundry
   - abstracted
-- - inspector
-  - lestrade
-  - writes
 - - socks
   - etc
   - gathered
@@ -32,18 +23,54 @@ ngrams:
 - - laundry
   - abstracted
   - perhaps
-- - derbyshire
-  - townlet
-  - come
-- - townlet
-  - come
-  - tinies
 - - laundry
   - here
   - refers
 - - suppose
   - laundry
   - here
+- - box
+  - where
+  - inspector
+- - cardboard
+  - box
+  - where
+- - very
+  - swarthy
+  - something
+- - more
+  - intriguing
+  - sherlock
+- - model
+  - village
+  - like
+- - might
+  - today
+  - call
+- - launderette
+  - rather
+  - than
+- - swarthy
+  - something
+  - like
+- - model
+  - laundry
+  - if
+- - who
+  - helped
+  - us
+- - laundry
+  - are
+  - bogus
+- - model
+  - laundry
+  - are
+- - come
+  - tinies
+  - we
+- - bogus
+  - what
+  - then
 story:
   date: 2010-08-13
   id: 2010-08-13-befuddled-by-laundry
@@ -64,4 +91,4 @@ story:
     \ laundry are bogus, what then? What then?\nIt is enough to give me a swimming\
     \ in the head."
   title: Befuddled By Laundry
-word_count: 199
+word_count: 198

@@ -1,10 +1,10 @@
 ngrams:
+- - s
+  - byatt
+  - replied
 - - decisively
   - brilliant
   - kind
-- - not-so-tiny
-  - key
-  - nippers
 - - key
   - nippers
   - call
@@ -17,6 +17,18 @@ ngrams:
 - - children
   - address
   - her
+- - call
+  - her
+  - mum
+- - how
+  - her
+  - children
+- - asked
+  - how
+  - her
+- - mum
+  - when
+  - asked
 story:
   date: 2010-01-13
   id: 2010-01-13-mum

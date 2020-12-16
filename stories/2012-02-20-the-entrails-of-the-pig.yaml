@@ -17,9 +17,6 @@ ngrams:
 - - biographical
   - memoirs
   - sketches
-- - collop
-  - monday
-  - dish
 - - historical
   - narratives
   - biographical
@@ -35,15 +32,48 @@ ngrams:
 - - essays
   - historical
   - narratives
-- - c
-  - vol
-  - xiii
 - - useful
   - domestic
   - hints
 - - tales
   - anecdotes
   - select
+- - domestic
+  - hints
+  - c
+- - public
+  - journals
+  - discoveries
+- - instruction
+  - containing
+  - original
+- - c
+  - c
+  - vol
+- - hints
+  - c
+  - c
+- - expensive
+  - works
+  - poetry
+- - original
+  - essays
+  - historical
+- - containing
+  - original
+  - essays
+- - c
+  - c
+  - c
+- - works
+  - poetry
+  - original
+- - fat
+  - cracklings
+  - sometimes
+- - than
+  - fat
+  - cracklings
 story:
   date: 2012-02-20
   id: 2012-02-20-the-entrails-of-the-pig

@@ -1,7 +1,4 @@
 ngrams:
-- - well-ordered
-  - cemetery
-  - observing
 - - fruits
   - shrimps
   - prawns
@@ -14,18 +11,9 @@ ngrams:
 - - previous
   - ages
   - prevented
-- - nineteenth-century
-  - episodes
-  - fantastic
 - - episodes
   - fantastic
   - grotesque
-- - anemic
-  - age
-  - osbert
-- - age
-  - osbert
-  - sitwell
 - - present
   - writer
   - termed
@@ -44,6 +32,84 @@ ngrams:
 - - cemetery
   - observing
   - every
+- - dull
+  - bloated
+  - yet
+- - proper
+  - english
+  - name
+- - common
+  - fruit
+  - indeed
+- - cutting
+  - itself
+  - 'off'
+- - bananas
+  - broke
+  - down
+- - itself
+  - 'off'
+  - entirely
+- - very
+  - common
+  - fruit
+- - her
+  - aristocratic
+  - prejudices
+- - she
+  - loved
+  - theatres
+- - morbid
+  - she
+  - loved
+- - its
+  - smaller
+  - fruits
+- - her
+  - intense
+  - devotion
+- - her
+  - invincible
+  - ignorance
+- - wild
+  - flowers
+  - than
+- - any
+  - flower
+  - bird
+- - lanes
+  - then
+  - fuller
+- - its
+  - proper
+  - english
+- - whom
+  - she
+  - lived
+- - name
+  - any
+  - flower
+- - some
+  - lingering
+  - disease
+- - indeed
+  - her
+  - intense
+- - perhaps
+  - she
+  - belonged
+- - name
+  - she
+  - loved
+- - under
+  - whom
+  - she
+- - english
+  - name
+  - she
+- - fruit
+  - indeed
+  - her
 story:
   date: 2011-06-19
   id: 2011-06-19-osbert-sitwells-nurse
@@ -71,4 +137,4 @@ story:
     \ Of Nineteenth-Century Episodes, Fantastic, Grotesque And Mysterious, compiled\
     \ and edited by Margaret Barton and Osbert Sitwell (1930)"
   title: Osbert Sitwell's Nurse
-word_count: 304
+word_count: 303

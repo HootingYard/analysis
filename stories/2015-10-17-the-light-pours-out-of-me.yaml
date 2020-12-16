@@ -1,25 +1,4 @@
 ngrams:
-- - socrates
-  - galileo
-  - voltaire
-- - galileo
-  - voltaire
-  - nietzsche
-- - pseudo-scientific
-  - hogan
-  - cult
-- - provoked
-  - pleasingly
-  - immoderate
-- - introduction
-  - socrates
-  - galileo
-- - pleasingly
-  - immoderate
-  - laughter
-- - immoderate
-  - laughter
-  - scott
 - - faking
   - exhibition
   - poultry
@@ -29,6 +8,9 @@ ngrams:
 - - despicable
   - practice
   - nowhere
+- - d
+  - h
+  - lawrence
 - - scott
   - george
   - r
@@ -38,9 +20,45 @@ ngrams:
 - - poultry
   - expert
   - th
-- - fellow-readers
-  - tony
-  - white
+- - british
+  - poultry
+  - expert
+- - r
+  - british
+  - poultry
+- - george
+  - r
+  - british
+- - brief
+  - lives
+  - waving
+- - potted
+  - brief
+  - brief
+- - th
+  - century
+  - scott
+- - brief
+  - brief
+  - lives
+- - expert
+  - th
+  - century
+- - example
+  - provoked
+  - pleasingly
+- - peckham
+  - last
+  - night
+- - snide
+  - anatomy
+  - its
+- - anatomy
+  - its
+  - noisy
+- - nowhere
+  - more
+  - vile
 story:
   date: 2015-10-17
   id: 2015-10-17-the-light-pours-out-of-me
@@ -58,4 +76,4 @@ story:
     \ blowsy jargon; its crapulous fundament of snide anatomy; its noisy and prolific\
     \ drool of whim-wham\u201D."
   title: The Light Pours Out Of Me
-word_count: 168
+word_count: 166

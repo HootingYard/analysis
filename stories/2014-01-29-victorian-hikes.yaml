@@ -1,25 +1,37 @@
 ngrams:
-- - minds
-  - weidenfeld
-  - nicolson
+- - leslie
+  - stephen's
+  - grandfather
 - - stephen
   - gertrude
   - himmelfarb
-- - sunday
-  - tramps
-  - organised
 - - gertrude
   - himmelfarb
   - victorian
 - - inevitable
   - walking
   - statistics
-- - effeminate
-  - logic-chopping
-  - machine
 - - modest
   - record
   - compared
+- - himmelfarb
+  - victorian
+  - minds
+- - john
+  - stuart
+  - mill
+- - victorian
+  - writer
+  - without
+- - writer
+  - without
+  - coming
+- - miles
+  - three
+  - days
+- - walking
+  - statistics
+  - even
 story:
   date: 2014-01-29
   id: 2014-01-29-victorian-hikes
@@ -33,4 +45,4 @@ story:
     \ organised by Stephen.\nGertrude Himmelfarb, Victorian Minds (Weidenfeld & Nicolson\
     \ 1968)"
   title: Victorian Hikes
-word_count: 95
+word_count: 94

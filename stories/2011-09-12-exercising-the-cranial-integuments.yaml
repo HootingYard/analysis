@@ -1,13 +1,4 @@
 ngrams:
-- - bestseller
-  - mind-bending
-  - brain-teasers
-- - runaway
-  - bestseller
-  - mind-bending
-- - asks
-  - atahualpa
-  - tompkins
 - - he-man
   - tosses
   - umpteen
@@ -44,6 +35,63 @@ ngrams:
 - - tompkins
   - own
   - devising
+- - equally
+  - diverting
+  - thought
+- - own
+  - devising
+  - created
+- - pitch
+  - black
+  - room
+- - black
+  - room
+  - pitch
+- - room
+  - pitch
+  - black
+- - thought
+  - experiments
+  - it's
+- - waiting
+  - bin
+  - how
+- - those
+  - umpteen
+  - medicine
+- - own
+  - nog
+  - why
+- - bin
+  - how
+  - big
+- - shaped
+  - like
+  - unto
+- - its
+  - cover
+  - comes
+- - pitch
+  - black
+  - like
+- - how
+  - big
+  - must
+- - fact
+  - its
+  - cover
+- - its
+  - own
+  - nog
+- - crops
+  - up
+  - umpteen
+- - up
+  - umpteen
+  - times
+- - medicine
+  - balls
+  - into
 story:
   date: 2011-09-12
   id: 2011-09-12-exercising-the-cranial-integuments
@@ -66,4 +114,4 @@ story:
     \ and the vapours and the lying flat on one's back and the pitch black and the\
     \ Bible."
   title: Exercising The Cranial Integuments
-word_count: 254
+word_count: 252

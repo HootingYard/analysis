@@ -5,12 +5,18 @@ ngrams:
 - - humanities
   - starts
   - talking
-- - wrong
-  - roger
-  - kimball
 - - terribly
   - wrong
   - roger
+- - gone
+  - terribly
+  - wrong
+- - invariably
+  - misunderstood
+  - something
+- - has
+  - gone
+  - terribly
 story:
   date: 2013-01-01
   id: 2013-01-01-terribly-wrong
@@ -20,4 +26,4 @@ story:
     The Museum As Funhouse\u201D collected in Art's Prospect\_: The Challenge Of Tradition\
     \ In An Age Of Celebrity (2003)"
   title: Terribly Wrong
-word_count: 52
+word_count: 50

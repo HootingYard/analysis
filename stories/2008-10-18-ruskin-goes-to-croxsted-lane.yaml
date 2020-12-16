@@ -1,37 +1,7 @@
 ngrams:
-- - deep-rutted
-  - heavy-hillocked
-  - cart-road
-- - heavy-hillocked
-  - cart-road
-  - diverging
-- - cart-road
-  - diverging
-  - gatelessly
-- - cigar-ends
-  - pipe-bowls
-  - cinders
-- - garbage
-  - back-garden
-  - sewage
-- - clothes
-  - door-sweepings
-  - floor-sweepings
 - - rotten
   - timber
   - jagged
-- - out-torn
-  - nails
-  - cigar-ends
-- - nails
-  - cigar-ends
-  - pipe-bowls
-- - big-lettered
-  - bill
-  - festering
-- - nameless
-  - clothes
-  - door-sweepings
 - - pans
   - smashed
   - crockery
@@ -41,9 +11,84 @@ ngrams:
 - - battered
   - pans
   - smashed
-- - door-sweepings
-  - floor-sweepings
-  - kitchen
+- - shoes
+  - battered
+  - pans
+- - iron
+  - rotten
+  - timber
+- - mortal
+  - slime
+  - john
+- - slime
+  - john
+  - ruskin
+- - varied
+  - themselves
+  - along
+- - modern
+  - city
+  - life
+- - old
+  - shoes
+  - battered
+- - these
+  - remnants
+  - broadcast
+- - old
+  - iron
+  - rotten
+- - sewage
+  - old
+  - iron
+- - every
+  - unclean
+  - thing
+- - every
+  - unclean
+  - thing
+- - hades
+  - only
+  - knows
+- - now
+  - mostly
+  - dug
+- - itself
+  - now
+  - entirely
+- - lane
+  - itself
+  - now
+- - 'no'
+  - existing
+  - terms
+- - mostly
+  - dug
+  - up
+- - what
+  - mixed
+  - dust
+- - into
+  - gaunt
+  - corners
+- - knows
+  - what
+  - mixed
+- - their
+  - last
+  - publicity
+- - through
+  - into
+  - gaunt
+- - dropped
+  - about
+  - here
+- - doors
+  - are
+  - dropped
+- - cut
+  - through
+  - into
 story:
   date: 2008-10-18
   id: 2008-10-18-ruskin-goes-to-croxsted-lane

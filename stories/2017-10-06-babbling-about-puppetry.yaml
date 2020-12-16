@@ -1,22 +1,31 @@
 ngrams:
-- - unhinged
-  - mien
-  - tuesday
-- - mien
-  - tuesday
-  - weld
 - - weld
   - goes
   - berserk
 - - tuesday
   - weld
   - goes
-- - puppets
-  - both
-  - shadow-
-- - rather
+- - includes
+  - rather
   - ramshackle
-  - recitations
+- - show
+  - includes
+  - rather
+- - rapacity
+  - two
+  - sparrows
+- - puppetry
+  - listen
+  - here
+- - devotes
+  - much
+  - time
+- - babbling
+  - about
+  - puppetry
+- - about
+  - puppetry
+  - listen
 story:
   date: 2017-10-06
   id: 2017-10-06-babbling-about-puppetry
@@ -27,4 +36,4 @@ story:
     \ In Their Rapacity, Two Sparrows, A Person Of Unhinged Mien, Tuesday Weld Goes\
     \ Berserk, and New Verse By Dennis Beerpint."
   title: Babbling About Puppetry
-word_count: 75
+word_count: 74

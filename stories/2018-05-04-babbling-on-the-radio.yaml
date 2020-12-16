@@ -2,15 +2,21 @@ ngrams:
 - - johnny
   - seven
   - weighs
-- - pansy
-  - cradledew
-  - tells
 - - fk
   - stories
   - pansy
 - - shorter
   - potted
   - brief
+- - potted
+  - brief
+  - brief
+- - brief
+  - brief
+  - lives
+- - film
+  - acting
+  - listen
 story:
   date: 2018-05-04
   id: 2018-05-04-babbling-on-the-radio
@@ -19,4 +25,4 @@ story:
     Seven weighs in with an anecdote on film acting. Listen, be astonished, and then
     take a well-earned nap!
   title: Babbling On The Radio
-word_count: 52
+word_count: 51

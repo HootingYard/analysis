@@ -1,4 +1,16 @@
 ngrams:
+- - fighter
+  - jets
+  - we'll
+- - ho
+  - we'll
+  - chuck
+- - cry
+  - we'll
+  - sob
+- - boys
+  - ho
+  - we'll
 - - ho
   - boys
   - ho
@@ -8,27 +20,42 @@ ngrams:
 - - ho
   - boys
   - ho
+- - jets
+  - we'll
+  - sit
 - - binder
   - ho
   - boys
-- - song
-  - kurt
-  - weill
+- - march
+  - they'll
+  - sit
+- - stats
+  - they're
+  - kept
+- - forth
+  - you'll
+  - watch
+- - blister
+  - lane
+  - we'll
+- - blister
+  - lane
+  - we'll
 - - september
   - song
   - kurt
-- - field
-  - ho
-  - boys
+- - lane
+  - we'll
+  - march
 - - maxwell
   - anderson
   - wrote
-- - dennis
-  - beerpint
-  - wrote
-- - enough
-  - dennis
-  - beerpint
+- - field
+  - ho
+  - boys
+- - lane
+  - we'll
+  - turn
 - - again
   - mister
   - pipkin
@@ -44,6 +71,57 @@ ngrams:
 - - book
   - ho
   - boys
+- - every
+  - september
+  - according
+- - sweep
+  - away
+  - dull
+- - we'll
+  - throw
+  - away
+- - us
+  - march
+  - they'll
+- - away
+  - dull
+  - care
+- - you'll
+  - watch
+  - us
+- - quite
+  - enough
+  - dennis
+- - same
+  - every
+  - september
+- - watch
+  - us
+  - march
+- - watch
+  - us
+  - march
+- - don't
+  - hinder
+  - us
+- - we'll
+  - sob
+  - our
+- - we'll
+  - chuck
+  - our
+- - swing
+  - our
+  - sticks
+- - once
+  - again
+  - mister
+- - our
+  - sticks
+  - aloft
+- - chuck
+  - our
+  - sticks
 story:
   date: 2009-09-02
   id: 2009-09-02-september-song
@@ -78,4 +156,4 @@ story:
     roar aloud! But Mister Pipkin is stone deaf and doesn''t hear a word. So we will
     march in silence and we''ll throw away our sticks.'
   title: September Song
-word_count: 348
+word_count: 331

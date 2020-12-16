@@ -1,22 +1,34 @@
 ngrams:
-- - rita
-  - byrne
-  - tull
-- - byrne
-  - tull
-  - explains
-- - sister
-  - rita
-  - byrne
 - - gerard
   - manley
   - hopkins
-- - son
-  - edwood
-  - burn
 - - hold
   - gerard
   - manley
+- - shorter
+  - potted
+  - brief
+- - victorian
+  - jesuit
+  - priest
+- - potted
+  - brief
+  - brief
+- - brief
+  - lives
+  - alongside
+- - brief
+  - brief
+  - lives
+- - great
+  - victorian
+  - jesuit
+- - tull
+  - explains
+  - how
+- - should
+  - turn
+  - today
 story:
   date: 2014-02-19
   id: 2014-02-19-father-hopkins
@@ -27,4 +39,4 @@ story:
     \ by my son Edwood Burn. A finished version of it will appear in Mr Key's Shorter\
     \ Potted Brief, Brief Lives, alongside a score of other portraits."
   title: Father Hopkins
-word_count: 83
+word_count: 82

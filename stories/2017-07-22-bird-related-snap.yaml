@@ -1,13 +1,19 @@
 ngrams:
-- - splendid
-  - bird-related
-  - snap
-- - this
-  - splendid
-  - bird-related
 - - sending
   - this
   - splendid
+- - snap
+  - my
+  - thanks
+- - nervous
+  - squirrel
+  - for
+- - squirrel
+  - for
+  - sending
+- - for
+  - sending
+  - this
 story:
   date: 2017-07-22
   id: 2017-07-22-bird-related-snap

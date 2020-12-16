@@ -1,25 +1,25 @@
 ngrams:
+- - hasn't
+  - increased
+  - significantly
 - - tweak
   - rephrase
   - rewrite
 - - w
   - cox
   - bart
+- - cox
+  - bart
+  - m
 - - unspeakable
   - desolation
   - pouring
 - - gerard
   - manley
   - hopkins
-- - titanic
-  - retyping
-  - efforts
 - - george
   - w
   - cox
-- - near-facsimile
-  - edition
-  - via
 - - edition
   - via
   - lulu
@@ -29,21 +29,129 @@ ngrams:
 - - rev
   - sir
   - george
-- - cox
-  - bart
-  - m
-- - curious
-  - experience
-  - retyping
 - - sir
   - george
   - w
+- - probably
+  - hasn't
+  - increased
 - - serves
   - death
   - ritual
+- - lars
+  - talc
+  - struck
 - - tales
   - certain
   - passages
+- - memory
+  - serves
+  - death
+- - considerably
+  - different
+  - text
+- - increased
+  - significantly
+  - another
+- - lifted
+  - without
+  - acknowledgement
+- - readers
+  - probably
+  - hasn't
+- - path
+  - i'd
+  - end
+- - significantly
+  - another
+  - change
+- - another
+  - change
+  - implicit
+- - website
+  - came
+  - mewling
+- - i'd
+  - written
+  - almost
+- - century
+  - ago
+  - chief
+- - found
+  - lars
+  - talc
+- - marigold
+  - chew
+  - however
+- - ago
+  - chief
+  - among
+- - something
+  - i'd
+  - written
+- - long
+  - dead
+  - scholars
+- - desolation
+  - pouring
+  - down
+- - may
+  - republish
+  - obsequies
+- - made
+  - clear
+  - precisely
+- - glug
+  - booze
+  - even
+- - doubt
+  - pore
+  - over
+- - may
+  - feel
+  - compelled
+- - its
+  - proper
+  - meaning
+- - very
+  - few
+  - occasions
+- - like
+  - lars
+  - talc
+- - other
+  - novella
+  - written
+- - plopping
+  - some
+  - moolah
+- - never
+  - made
+  - clear
+- - clear
+  - precisely
+  - who
+- - 'no'
+  - doubt
+  - pore
+- - am
+  - long
+  - dead
+- - passages
+  - were
+  - lifted
+- - mewling
+  - into
+  - existence
+- - i'd
+  - end
+  - up
+- - where
+  - its
+  - proper
+- - booze
+  - even
+  - more
 story:
   date: 2017-10-28
   id: 2017-10-28-an-afterword-on-obsequies
@@ -78,4 +186,4 @@ story:
     \ edition via Lulu. In the meantime, you may feel compelled to recognise my titanic\
     \ retyping efforts by plopping some moolah into the Donation box."
   title: An Afterword On Obsequies
-word_count: 412
+word_count: 408

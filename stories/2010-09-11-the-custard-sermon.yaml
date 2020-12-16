@@ -2,18 +2,12 @@ ngrams:
 - - matthew
   - repent
   - ye
-- - st
-  - matthew
-  - repent
-- - prunes
-  - john
-  - eachard
 - - stew
   - prunes
   - john
-- - body
-  - look
-  - d
+- - st
+  - matthew
+  - repent
 - - make
   - custards
   - marmalade
@@ -29,21 +23,66 @@ ngrams:
 - - little
   - more
   - pains
-- - 'no'
-  - body
-  - look
-- - tis
-  - out
-  - wonderfull
 - - tell
   - me
   - sir
-- - aqua-regia
-  - which
-  - dissolves
 - - which
   - dissolves
   - gold
+- - purpose
+  - together
+  - would
+- - now
+  - tell
+  - me
+- - me
+  - sir
+  - do
+- - when
+  - 'no'
+  - body
+- - custards
+  - marmalade
+  - or
+- - blunt
+  - business
+  - but
+- - sins
+  - must
+  - be
+- - seems
+  - also
+  - not
+- - must
+  - be
+  - taken
+- - could
+  - have
+  - taught
+- - at
+  - hand
+  - now
+- - also
+  - not
+  - very
+- - repent
+  - ye
+  - for
+- - learn
+  - his
+  - parishioners
+- - sir
+  - do
+  - you
+- - 'on'
+  - purpose
+  - together
+- - people
+  - 'on'
+  - purpose
+- - his
+  - parishioners
+  - how
 story:
   date: 2010-09-11
   id: 2010-09-11-the-custard-sermon
@@ -64,4 +103,4 @@ story:
     \nJohn Eachard, The Grounds And Occasions Of The Contempt Of The Clergy And Religion\
     \ (1670)"
   title: The Custard Sermon
-word_count: 232
+word_count: 229

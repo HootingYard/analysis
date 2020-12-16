@@ -1,49 +1,70 @@
 ngrams:
-- - homer
-  - virgil
-  - ovid
-- - roger
-  - l
-  - estrange
-- - de
-  - quevedo
-  - villegas
-- - francisco
-  - de
-  - quevedo
-- - sir
-  - roger
-  - l
-- - author
-  - sir
-  - roger
 - - don
   - francisco
   - de
-- - every
-  - nasty
-  - groom
+- - author
+  - sir
+  - roger
 - - every
   - sot
   - knows
+- - thing
+  - that's
+  - cast
 - - sot
   - knows
   - now
-- - choak
-  - t
-  - him
-- - if
-  - twere
-  - robin
+- - other
+  - men's
+  - works
 - - thus
   - criminal
   - what
 - - got
   - presently
   - out
-- - pestilent
-  - fume
-  - would
+- - one
+  - thing
+  - that's
+- - seven
+  - champions
+  - or
+- - way
+  - saying
+  - this
+- - criminal
+  - what
+  - will
+- - father
+  - had
+  - made
+- - what
+  - will
+  - become
+- - not
+  - got
+  - presently
+- - be
+  - thus
+  - criminal
+- - formerly
+  - have
+  - made
+- - me
+  - too
+  - if
+- - men's
+  - works
+  - as
+- - grown
+  - as
+  - familiar
+- - familiar
+  - with
+  - homer
+- - my
+  - way
+  - saying
 story:
   date: 2010-09-05
   id: 2010-09-05-the-pestilent-fume
@@ -60,4 +81,4 @@ story:
     \ Book-seller be thus Criminal, what will become of the Author!\u201D\nSir Roger\
     \ L'Estrange, The Visions Of Don Francisco De Quevedo Villegas (1667)"
   title: The Pestilent Fume
-word_count: 184
+word_count: 176

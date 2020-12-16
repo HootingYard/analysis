@@ -1,7 +1,4 @@
 ngrams:
-- - twitter
-  - campaign
-  - briefbrieflives
 - - fiendish
   - initiative
   - bears
@@ -11,6 +8,18 @@ ngrams:
 - - initiative
   - bears
   - fruit
+- - particularly
+  - benign
+  - rash
+- - rash
+  - please
+  - follow
+- - twitter
+  - please
+  - note
+- - use
+  - twitter
+  - please
 story:
   date: 2015-11-06
   id: 2015-11-06-a-message-from-our-marketing-department

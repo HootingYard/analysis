@@ -11,27 +11,15 @@ ngrams:
 - - windy
   - uninhabited
   - plains
-- - erich
-  - von
-  - daniken
-- - schnapps
-  - von
-  - daniken
 - - researcher
   - erich
   - von
-- - exercised
-  - von
-  - daniken
 - - troglodyte
   - beings
   - inhabiting
 - - swiss
   - researcher
   - erich
-- - glee
-  - von
-  - daniken
 - - looming
   - swiss
   - alps
@@ -44,6 +32,189 @@ ngrams:
 - - space
   - troglodytes
   - eagerly
+- - swiss
+  - schnapps
+  - von
+- - sensible
+  - swiss
+  - researcher
+- - subterranean
+  - cave
+  - beings
+- - cast
+  - iron
+  - logic
+- - characteristic
+  - cast
+  - iron
+- - large
+  - flat
+  - windy
+- - whose
+  - spaceship
+  - billions
+- - otherwise
+  - difficult
+  - problem
+- - watertight
+  - theory
+  - actually
+- - theory
+  - actually
+  - accounted
+- - hundred
+  - feet
+  - below
+- - underground
+  - empire
+  - rather
+- - plucky
+  - tot
+  - tiny
+- - swiss
+  - fields
+  - under
+- - kept
+  - going
+  - boring
+- - supply
+  - every
+  - outpost
+- - tot
+  - tiny
+  - enid
+- - tiny
+  - enid
+  - herself
+- - serve
+  - each
+  - cave
+- - tiny
+  - enid
+  - discovered
+- - cave
+  - beings
+  - perhaps
+- - until
+  - eventually
+  - juddering
+- - purpose
+  - must
+  - therefore
+- - uninhabited
+  - plains
+  - well
+- - rock
+  - until
+  - eventually
+- - simply
+  - kept
+  - going
+- - few
+  - hundred
+  - feet
+- - see
+  - tottering
+  - piles
+- - building
+  - new
+  - chutes
+- - further
+  - point
+  - occurred
+- - asked
+  - himself
+  - staring
+- - boring
+  - through
+  - rock
+- - already
+  - see
+  - tottering
+- - tiny
+  - enid
+  - came
+- - very
+  - sensible
+  - swiss
+- - our
+  - lovely
+  - planet
+- - troglodytes
+  - breeding
+  - like
+- - breeding
+  - like
+  - extraterrestrial
+- - going
+  - boring
+  - through
+- - other
+  - subterranean
+  - caves
+- - built
+  - yet
+  - these
+- - through
+  - rock
+  - until
+- - during
+  - its
+  - construction
+- - circumstance
+  - even
+  - tiny
+- - empire
+  - rather
+  - than
+- - even
+  - tiny
+  - enid
+- - rather
+  - than
+  - building
+- - whom
+  - else
+  - could
+- - series
+  - see
+  - here
+- - enid
+  - came
+  - upon
+- - than
+  - building
+  - new
+- - its
+  - purpose
+  - must
+- - time
+  - tiny
+  - enid
+- - their
+  - underground
+  - empire
+- - eagerly
+  - snapped
+  - up
+- - down
+  - down
+  - deeper
+- - caves
+  - setting
+  - up
+- - new
+  - colonies
+  - then
+- - say
+  - she
+  - discovered
+- - could
+  - already
+  - see
+- - when
+  - plucky
+  - tot
 story:
   date: 2010-12-21
   id: 2010-12-21-cavemens-chute-pivots
@@ -98,4 +269,4 @@ story:
     a knocking at his chalet door. He opened it and came face to face with a person
     from Porlock. Yes, that person from Porlock!'
   title: Cavemen's Chute-Pivots
-word_count: 579
+word_count: 576

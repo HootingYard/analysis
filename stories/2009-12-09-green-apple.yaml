@@ -1,49 +1,91 @@
 ngrams:
-- - zweig
-  - lolly
-  - willowes
-- - stefan
-  - zweig
-  - lolly
-- - manchester
-  - sartor
-  - resartus
-- - harry
-  - mathews
-  - schnitzler
-- - jeffrey
-  - masson
-  - raymond
-- - masson
-  - raymond
-  - roussel
 - - ambrose
   - bierce
   - edited
 - - sylvia
   - townsend
   - warner
-- - persevering
-  - maltese
-  - collected
-- - l
-  - mencken
-  - disturber
-- - william
-  - manchester
-  - sartor
 - - peter
   - gay
   - treatise
+- - h
+  - l
+  - mencken
+- - h
+  - l
+  - mencken
 - - maltese
   - collected
   - essays
-- - h
+- - mark
+  - ford
+  - signs
+- - apple
+  - green
+  - apple
+- - green
+  - apple
+  - green
+- - order
+  - h
   - l
-  - mencken
-- - h
-  - l
-  - mencken
+- - staying
+  - five
+  - minutes
+- - george
+  - barkin
+  - lost
+- - barkin
+  - lost
+  - prince
+- - five
+  - minutes
+  - walk
+- - green
+  - apple
+  - books
+- - particular
+  - order
+  - h
+- - life
+  - worth
+  - living
+- - makes
+  - life
+  - worth
+- - purchases
+  - carted
+  - back
+- - minutes
+  - walk
+  - away
+- - paul
+  - de
+  - man
+- - worth
+  - living
+  - here
+- - sell
+  - both
+  - new
+- - 'no'
+  - particular
+  - order
+- - basically
+  - what
+  - makes
+- - take
+  - their
+  - places
+- - what
+  - makes
+  - life
+- - door
+  - they
+  - sell
+- - they
+  - sell
+  - both
 story:
   date: 2009-12-09
   id: 2009-12-09-green-apple
@@ -66,4 +108,4 @@ story:
     \ Times\_: Deconstruction And The Fall Of Paul De Man by David Lehman\nThe Making\
     \ Of Americans by Getrude Stein"
   title: Green Apple
-word_count: 233
+word_count: 232

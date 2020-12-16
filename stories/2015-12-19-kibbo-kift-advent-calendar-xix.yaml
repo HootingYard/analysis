@@ -1,13 +1,16 @@
 ngrams:
-- - kibbo
-  - kift
-  - advent
-- - advent
-  - calendar
-  - xix
-- - kift
-  - advent
-  - calendar
+- - see
+  - the
+  - exhibition
+- - read
+  - the
+  - book
+- - the
+  - book
+  - see
+- - book
+  - see
+  - the
 story:
   date: 2015-12-19
   id: 2015-12-19-kibbo-kift-advent-calendar-xix

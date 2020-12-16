@@ -1,25 +1,13 @@
 ngrams:
-- - jap
-  - prisoner-of-war
-  - camp
 - - oblong
   - trestle
   - table
-- - prisoner-of-war
-  - camp
-  - during
-- - thing
-  - gilbert
-  - adair
 - - soup
   - oh
   - 'yes'
 - - putrid
   - little
   - twerp
-- - ex-army
-  - man
-  - roared
 - - voice
   - itself
   - must
@@ -44,6 +32,54 @@ ngrams:
 - - feature
   - stood
   - over
+- - now
+  - unnervingly
+  - puce
+- - any
+  - frankly
+  - sir
+- - itself
+  - must
+  - once
+- - first
+  - serving
+  - myself
+- - without
+  - first
+  - serving
+- - serving
+  - myself
+  - down
+- - soup
+  - without
+  - first
+- - having
+  - any
+  - frankly
+- - some
+  - soup
+  - oh
+- - everyone
+  - who
+  - knew
+- - were
+  - seated
+  - suddenly
+- - your
+  - gruesome
+  - little
+- - ask
+  - me
+  - why
+- - let
+  - me
+  - tell
+- - latin
+  - master
+  - an
+- - well
+  - let
+  - me
 story:
   date: 2011-12-24
   id: 2011-12-24-adair-on-soup

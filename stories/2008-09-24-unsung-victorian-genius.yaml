@@ -2,21 +2,15 @@ ngrams:
 - - stern
   - protestant
   - rectitude
-- - urchin
-  - lumme
-  - guvnor
-- - rage
-  - urchin
-  - lumme
 - - recite
   - prayer
   - drunken
 - - intoxicated
   - rage
   - urchin
-- - drunken
-  - brute
-  - grrr
+- - foxglove
+  - prudence
+  - foxglove
 - - drunken
   - brute
   - bedazzled
@@ -26,9 +20,6 @@ ngrams:
 - - advancement
   - urchin
   - begins
-- - foxglove
-  - prudence
-  - foxglove
 - - social
   - advancement
   - urchin
@@ -38,12 +29,171 @@ ngrams:
 - - brute
   - urchin
   - exits
+- - prudence
+  - foxglove
+  - prudence
 - - prayer
   - drunken
   - brute
 - - drunken
   - brute
   - urchin
+- - enter
+  - prudence
+  - foxglove
+- - gloom
+  - drunken
+  - brute
+- - unsung
+  - victorian
+  - genius
+- - unsung
+  - victorian
+  - genius
+- - filthy
+  - hovel
+  - steeped
+- - chair
+  - enter
+  - prudence
+- - mentioned
+  - prudence
+  - foxglove
+- - posh
+  - lady
+  - dressed
+- - enter
+  - urchin
+  - holding
+- - proper
+  - posh
+  - lady
+- - proper
+  - posh
+  - lady
+- - instant
+  - i'll
+  - box
+- - drunken
+  - brute
+  - 'yes'
+- - filthy
+  - hovel
+  - trying
+- - early
+  - railway
+  - accident
+- - benighted
+  - hellhole
+  - note
+- - different
+  - drunken
+  - brute
+- - ears
+  - urchin
+  - 'yes'
+- - drunken
+  - brute
+  - does
+- - another
+  - filthier
+  - hovel
+- - drunken
+  - brute
+  - until
+- - prayer
+  - book
+  - drunken
+- - prayer
+  - book
+  - drunken
+- - prayer
+  - book
+  - urchin
+- - book
+  - drunken
+  - brute
+- - book
+  - drunken
+  - brute
+- - drunken
+  - brute
+  - while
+- - drunken
+  - brute
+  - go
+- - kindly
+  - old
+  - ma
+- - quite
+  - understandable
+  - given
+- - hellhole
+  - note
+  - too
+- - victorian
+  - genius
+  - after
+- - head
+  - drunken
+  - brute
+- - filthier
+  - hovel
+  - where
+- - cast
+  - our
+  - eyes
+- - urchin
+  - oh
+  - did
+- - shall
+  - cast
+  - our
+- - am
+  - currently
+  - working
+- - some
+  - comic
+  - business
+- - posh
+  - lady
+  - who
+- - lady
+  - who
+  - pounced
+- - upon
+  - another
+  - scene
+- - does
+  - some
+  - comic
+- - brute
+  - does
+  - some
+- - eyes
+  - upon
+  - another
+- - oh
+  - did
+  - ever
+- - read
+  - some
+  - prayers
+- - drunken
+  - brute
+  - what
+- - i'll
+  - box
+  - your
+- - beam
+  - down
+  - upon
+- - authoress
+  - barge
+  - into
+- - box
+  - your
+  - ears
 story:
   date: 2008-09-24
   id: 2008-09-24-unsung-victorian-genius
@@ -86,4 +236,4 @@ story:
     \ until by chance they hear a thunderous sermon from an Oxford-educated preacher,\
     \ a man of stern Protestant rectitude, and their lives are transformed."
   title: Unsung Victorian Genius
-word_count: 532
+word_count: 525

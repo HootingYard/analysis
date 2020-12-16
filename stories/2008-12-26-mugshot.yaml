@@ -2,12 +2,18 @@ ngrams:
 - - lucky
   - reader
   - received
-- - mugshot
-  - one
-  - lucky
 - - this
   - spectacular
   - gift
+- - one
+  - lucky
+  - reader
+- - received
+  - this
+  - spectacular
+- - reader
+  - received
+  - this
 story:
   date: 2008-12-26
   id: 2008-12-26-mugshot

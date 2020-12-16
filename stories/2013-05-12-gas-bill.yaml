@@ -1,22 +1,10 @@
 ngrams:
-- - cares
-  - lionel
-  - shriver
 - - bald
   - bureaucratic
   - statement
-- - glaring
-  - primary
-  - colours
 - - diversity
   - awareness
   - hub
-- - lionel
-  - shriver
-  - nobody
-- - shriver
-  - nobody
-  - cares
 - - nobody
   - cares
   - lionel
@@ -35,15 +23,69 @@ ngrams:
 - - n
   - diversity
   - awareness
-- - line
-  - lionel
-  - shriver
 - - self
   - esteem
   - n
 - - infant
   - school
   - self
+- - latest
+  - incidence
+  - occurred
+- - gas
+  - bill
+  - instead
+- - word
+  - balloons
+  - complete
+- - entirely
+  - different
+  - matter
+- - possible
+  - substitute
+  - though
+- - phrase
+  - dumbing
+  - down
+- - find
+  - myself
+  - looking
+- - incidence
+  - occurred
+  - when
+- - will
+  - accept
+  - payment
+- - if
+  - british
+  - gas
+- - gas
+  - will
+  - accept
+- - wonder
+  - if
+  - british
+- - british
+  - gas
+  - will
+- - process
+  - whatever
+  - we
+- - whatever
+  - we
+  - choose
+- - an
+  - infant
+  - school
+- - those
+  - who
+  - know
+- - all
+  - around
+  - us
+- - an
+  - entirely
+  - different
 story:
   date: 2013-05-12
   id: 2013-05-12-gas-bill
@@ -66,4 +108,4 @@ story:
     \ I chucked the paper across the room in exasperation, was Nobody cares, Lionel\
     \ Shriver, nobody cares at all!"
   title: Gas Bill
-word_count: 235
+word_count: 234

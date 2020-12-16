@@ -1,10 +1,4 @@
 ngrams:
-- - poseable
-  - toy
-  - action
-- - fully
-  - poseable
-  - toy
 - - equally
   - dramatic
   - sigh
@@ -44,6 +38,36 @@ ngrams:
 - - dramatic
   - sigh
   - may
+- - text
+  - here
+  - please
+- - readers
+  - think
+  - saint
+- - here
+  - please
+  - remember
+- - allied
+  - hooting
+  - yard
+- - hooting
+  - yard
+  - podcast
+- - several
+  - readers
+  - think
+- - some
+  - doubting
+  - thomases
+- - remain
+  - some
+  - doubting
+- - some
+  - accompanying
+  - text
+- - am
+  - apparently
+  - given
 story:
   date: 2010-12-12
   id: 2010-12-12-readers-with-the-dropsy-please-note
@@ -62,4 +86,4 @@ story:
     \ poseable toy action figure of Poppo. You will find some accompanying text here.\
     \ Please remember to pray for Poppo's intercession should you be dropsical.\n"
   title: Readers With The Dropsy Please Note
-word_count: 190
+word_count: 189

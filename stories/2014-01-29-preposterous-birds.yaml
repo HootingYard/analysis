@@ -1,13 +1,19 @@
 ngrams:
-- - blue-footed
-  - boobies
-  - from
 - - boobies
   - from
   - paradise
 - - preposterous
   - birds
   - a
+- - birds
+  - a
+  - pair
+- - paradise
+  - of
+  - birds
+- - from
+  - paradise
+  - of
 story:
   date: 2014-01-29
   id: 2014-01-29-preposterous-birds

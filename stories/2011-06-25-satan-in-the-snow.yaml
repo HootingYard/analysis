@@ -1,16 +1,7 @@
 ngrams:
-- - lympstone
-  - exmouth
-  - teignmouth
-- - topsham
-  - lympstone
-  - exmouth
 - - february
   - considerable
   - sensation
-- - nineteenth-century
-  - episodes
-  - fantastic
 - - episodes
   - fantastic
   - grotesque
@@ -23,9 +14,6 @@ ngrams:
 - - feet
   - closely
   - resembled
-- - centre
-  - remaining
-  - entire
 - - remaining
   - entire
   - merely
@@ -35,15 +23,135 @@ ngrams:
 - - times
   - february
   - considerable
-- - read
-  - concave
-  - quoted
 - - half
   - inches
   - across
-- - mr
-  - musgrave
-  - alluded
+- - thursday
+  - night
+  - last
+- - very
+  - heavy
+  - fall
+- - many
+  - superstitious
+  - people
+- - inches
+  - across
+  - here
+- - doors
+  - after
+  - night
+- - track
+  - appeared
+  - more
+- - considerable
+  - sensation
+  - has
+- - after
+  - night
+  - read
+- - outside
+  - their
+  - doors
+- - great
+  - excitement
+  - has
+- - some
+  - instances
+  - two
+- - towns
+  - were
+  - surprised
+- - been
+  - produced
+  - among
+- - steps
+  - were
+  - generally
+- - were
+  - generally
+  - eight
+- - above
+  - towns
+  - were
+- - go
+  - outside
+  - their
+- - appeared
+  - more
+  - like
+- - their
+  - doors
+  - after
+- - among
+  - all
+  - classes
+- - produced
+  - among
+  - all
+- - open
+  - fields
+  - there
+- - above
+  - towns
+  - are
+- - towns
+  - are
+  - actually
+- - are
+  - actually
+  - afraid
+- - all
+  - classes
+  - may
+- - superstitious
+  - go
+  - so
+- - has
+  - been
+  - evoked
+- - sensation
+  - has
+  - been
+- - night
+  - last
+  - there
+- - has
+  - been
+  - produced
+- - excitement
+  - has
+  - been
+- - this
+  - mysterious
+  - visitor
+- - subject
+  - has
+  - been
+- - has
+  - been
+  - able
+- - go
+  - so
+  - far
+- - standing
+  - or
+  - resting
+- - or
+  - resting
+  - point
+- - surprised
+  - at
+  - discovering
+- - by
+  - margaret
+  - barton
+- - edited
+  - by
+  - margaret
+- - this
+  - could
+  - scarcely
 story:
   date: 2011-06-25
   id: 2011-06-25-satan-in-the-snow
@@ -78,4 +186,4 @@ story:
     \ Truth\_: A Collection Of Nineteenth-Century Episodes, Fantastic, Grotesque And\
     \ Mysterious compiled and edited by Margaret Barton and Osbert Sitwell (1930)"
   title: Satan In The Snow
-word_count: 413
+word_count: 412

@@ -5,15 +5,18 @@ ngrams:
 - - ginger
   - baker
   - grumbling
-- - footage
-  - featuring
-  - ginger
+- - recount
+  - somebody
+  - else's
 - - featuring
   - ginger
   - baker
 - - quality
   - ginger
   - baker
+- - footage
+  - featuring
+  - ginger
 - - actor
   - roy
   - kinnear
@@ -29,12 +32,27 @@ ngrams:
 - - late
   - actor
   - roy
+- - mark
+  - patterson's
+  - dream
+- - reader
+  - mark
+  - patterson's
 - - sound
   - quality
   - ginger
-- - reader
-  - mark
-  - patterson
+- - poor
+  - sound
+  - quality
+- - dreamt
+  - last
+  - night
+- - ginger
+  - several
+  - years
+- - only
+  - christmas
+  - present
 story:
   date: 2011-12-07
   id: 2011-12-07-a-dream-of-ginger
@@ -50,4 +68,4 @@ story:
     \ of a succession of run-down cinemas. \u200E25% of his griping was inaudible\
     \ due to poor sound quality.\n\nGinger Baker in happier times, with his mum"
   title: A Dream Of Ginger
-word_count: 149
+word_count: 147

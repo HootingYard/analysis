@@ -1,49 +1,82 @@
 ngrams:
-- - polymorphously
-  - perverse
-  - bankrupt
 - - perverse
   - bankrupt
   - novelist
-- - drunken
-  - polymorphously
-  - perverse
-- - heppenstall-like
-  - narrator
-  - systematically
-- - infantryman
-  - simon
-  - raven
-- - seeking
-  - eyeglass-fogging
-  - diversions
 - - pubs
   - raven
   - recalled
-- - musquash
-  - coats
-  - seeking
-- - coats
-  - seeking
-  - eyeglass-fogging
-- - dicker
-  - lower
-  - dicker
 - - narrator
   - systematically
   - plans
 - - askew
   - velvet
   - hats
-- - massage
-  - parlour
-  - opposite
-- - upper
-  - dicker
-  - lower
 - - club
   - pall
   - mall
+- - reform
+  - club
+  - pall
+- - biography
+  - charles
+  - hawtrey
+- - posthumously
+  - published
+  - novel
+- - heppenstall
+  - whose
+  - posthumously
+- - whose
+  - posthumously
+  - published
+- - map
+  - called
+  - upper
+- - another
+  - deal
+  - resident
+- - king's
+  - own
+  - shropshire
+- - cashiered
+  - king's
+  - own
+- - working
+  - class
+  - next
+- - sallying
+  - forth
+  - every
+- - class
+  - next
+  - door
+- - own
+  - shropshire
+  - light
+- - see
+  - charles
+  - hawtrey
+- - years
+  - sallying
+  - forth
+- - hawtrey
+  - being
+  - pulled
+- - charles
+  - hawtrey
+  - being
+- - forth
+  - every
+  - now
+- - characters
+  - got
+  - up
+- - we
+  - dear
+  - deal
+- - drink
+  - don't
+  - we
 story:
   date: 2012-06-03
   id: 2012-06-03-the-curious-appeal-of-deal
@@ -66,4 +99,4 @@ story:
     \ narrator systematically plans and commits the slaughter of his (working class)\
     \ next door neighbours.\n"
   title: The Curious Appeal Of Deal
-word_count: 218
+word_count: 213

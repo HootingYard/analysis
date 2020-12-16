@@ -1,19 +1,7 @@
 ngrams:
-- - bromwich
-  - albion-supporting
-  - anchorman
 - - presenter
   - adrian
   - chiles
-- - octogenarian
-  - pretend
-  - chimney-sweep
-- - cheaply-photocopied
-  - weekly
-  - cetacean
-- - west
-  - bromwich
-  - albion-supporting
 - - porpoises
   - rescue
   - dick
@@ -29,21 +17,66 @@ ngrams:
 - - twisted
   - mental
   - havoc
-- - cetacean
-  - news
-  - roundup
-- - cetacean
-  - news
-  - roundup
 - - dick
   - van
   - dyke
 - - dick
   - van
   - dyke
-- - reader
-  - theo
-  - gott
+- - rescue
+  - dick
+  - van
+- - unutterable
+  - act
+  - alas
+- - plot
+  - vengeance
+  - against
+- - largest
+  - sea
+  - creature
+- - news
+  - story
+  - alongside
+- - alongside
+  - sea
+  - creatures
+- - news
+  - roundup
+  - under
+- - exciting
+  - news
+  - story
+- - adrian
+  - chiles
+  - read
+- - story
+  - alongside
+  - sea
+- - demons
+  - swept
+  - through
+- - jealousy
+  - ever
+  - since
+- - originally
+  - appeared
+  - here
+- - bear
+  - yet
+  - rather
+- - appeared
+  - here
+  - six
+- - havoc
+  - upon
+  - dick
+- - very
+  - sea
+  - creatures
+- - mental
+  - havoc
+  - upon
 story:
   date: 2016-12-24
   id: 2016-12-24-cetacean-news-roundup
@@ -70,4 +103,4 @@ story:
     in the cheaply-photocopied Weekly Cetacean News Roundup, under the headline A
     Whale''s Christmas In Chiles.'
   title: Cetacean News Roundup
-word_count: 210
+word_count: 209

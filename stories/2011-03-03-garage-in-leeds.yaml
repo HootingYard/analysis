@@ -1,7 +1,7 @@
 ngrams:
-- - garaz
-  - w
-  - leeds
+- - wonder
+  - update
+  - they're
 - - iron
   - curtain
   - playing
@@ -14,15 +14,27 @@ ngrams:
 - - fantastic
   - band
   - names
-- - j
-  - o
-  - rourke
 - - cold
   - wave
   - music
-- - called
-  - garaz
-  - w
+- - reading
+  - p
+  - j
+- - terrible
+  - terrible
+  - name
+- - most
+  - fantastic
+  - band
+- - names
+  - ever
+  - devised
+- - reportedly
+  - very
+  - gloomy
+- - band
+  - names
+  - ever
 story:
   date: 2011-03-03
   id: 2011-03-03-garage-in-leeds
@@ -35,4 +47,4 @@ story:
     \ most fantastic band names ever devised. Where are they now, I wonder?\nUPDATE\_\
     : They're on YouTube!"
   title: Garage In Leeds
-word_count: 100
+word_count: 97

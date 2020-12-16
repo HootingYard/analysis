@@ -1,7 +1,4 @@
 ngrams:
-- - awe-inspiring
-  - pedagogic
-  - aids
 - - rate
   - lesser
   - mortals
@@ -17,12 +14,30 @@ ngrams:
 - - slightly
   - different
   - version
-- - whose
-  - brain
-  - pulsates
 - - magnifico
   - whose
   - brain
+- - after
+  - tony
+  - buzan
+- - named
+  - after
+  - tony
+- - piece
+  - appeared
+  - here
+- - lesser
+  - mortals
+  - can
+- - boulevard
+  - magnifico
+  - if
+- - mortals
+  - can
+  - only
+- - appeared
+  - here
+  - some
 story:
   date: 2011-03-25
   id: 2011-03-25-dabbling-with-tonybuzanities
@@ -35,4 +50,4 @@ story:
     \ was one, and a magnifico whose brain pulsates at a rate lesser mortals can only\
     \ dream about, while dribbling and grovelling at his feet.\n"
   title: Dabbling With Tonybuzanities
-word_count: 106
+word_count: 105

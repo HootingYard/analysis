@@ -1,22 +1,7 @@
 ngrams:
-- - religio
-  - medici
-  - urn
 - - wah
   - wah
   - pedal
-- - synthesis
-  - religio
-  - medici
-- - medici
-  - urn
-  - burial
-- - philosopher
-  - jean-luc
-  - postmod
-- - postmodernist
-  - philosopher
-  - jean-luc
 - - cock
   - natty
   - snook
@@ -29,9 +14,6 @@ ngrams:
 - - jah
   - natty
   - cock
-- - wheat
-  - goosepeck
-  - ouch
 - - natty
   - snook
   - natty
@@ -41,9 +23,174 @@ ngrams:
 - - coop
   - protocol
   - baffling
-- - kew
-  - rhone
-  - sow
+- - snook
+  - natty
+  - dread
+- - wah
+  - pedal
+  - bin
+- - fiery
+  - fiery
+  - fido
+- - protocol
+  - baffling
+  - fiery
+- - natty
+  - dread
+  - roughly
+- - sow's
+  - ear
+  - wah
+- - ear
+  - wah
+  - wah
+- - baffling
+  - fiery
+  - fiery
+- - teabag
+  - hen
+  - coop
+- - hen
+  - coop
+  - protocol
+- - dread
+  - roughly
+  - translated
+- - rhone
+  - sow's
+  - ear
+- - rubber
+  - papa
+  - hemingway
+- - fido
+  - rubber
+  - papa
+- - ouch
+  - sit
+  - fido
+- - fiery
+  - fido
+  - sit
+- - sit
+  - fido
+  - rubber
+- - fido
+  - sit
+  - pictures
+- - burial
+  - early
+  - scritti
+- - urn
+  - burial
+  - early
+- - early
+  - scritti
+  - natty
+- - thick
+  - thick
+  - mist
+- - vision
+  - following
+  - swiftly
+- - oo
+  - look
+  - teabag
+- - gathering
+  - oh
+  - thick
+- - look
+  - teabag
+  - hen
+- - oh
+  - thick
+  - thick
+- - getting
+  - somewhere
+  - oh
+- - curtains
+  - drawn
+  - across
+- - pedal
+  - bin
+  - birds
+- - ancient
+  - pointy
+  - towner
+- - ancient
+  - pointy
+  - towner
+- - ears
+  - oo
+  - look
+- - somewhere
+  - oh
+  - 'yes'
+- - without
+  - ears
+  - oo
+- - night
+  - oh
+  - hug
+- - another
+  - vision
+  - following
+- - pointy
+  - town
+  - harking
+- - pointy
+  - towner
+  - put
+- - specifically
+  - pointy
+  - town
+- - sure
+  - oh
+  - 'yes'
+- - pointy
+  - town
+  - practice
+- - i'm
+  - quite
+  - sure
+- - just
+  - babbling
+  - incoherently
+- - bin
+  - birds
+  - without
+- - thick
+  - mist
+  - how
+- - quite
+  - sure
+  - oh
+- - birds
+  - without
+  - ears
+- - town
+  - harking
+  - back
+- - thick
+  - mist
+  - such
+- - tells
+  - us
+  - something
+- - head
+  - nor
+  - tail
+- - babbling
+  - incoherently
+  - 'no'
+- - snook
+  - can
+  - both
+- - do
+  - i'm
+  - quite
+- - make
+  - head
+  - nor
 story:
   date: 2017-08-08
   id: 2017-08-08-cocking-a-snook
@@ -84,4 +231,4 @@ story:
     \ it tight\n  Though you may plead and you may pray\n  The Grunty Man is on his\
     \ way!"
   title: Cocking A Snook
-word_count: 521
+word_count: 513

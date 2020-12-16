@@ -1,31 +1,13 @@
 ngrams:
-- - bootlegger
-  - slugger
-  - mcgrew
-- - crime-fighter
-  - righting
-  - wrongs
 - - witless
   - superhero
   - franchises
-- - absolute
-  - piffle
-  - extempore
 - - bizarre
   - chemical
   - reaction
-- - piffleboy
-  - replies
-  - glad
 - - spout
   - absolute
   - piffle
-- - maverick
-  - comic-book
-  - genius
-- - typical
-  - adventure
-  - piffleboy
 - - generic
   - american
   - metropolis
@@ -35,15 +17,159 @@ ngrams:
 - - artist
   - rex
   - hyper
-- - piffleboy
-  - modern
-  - cinema
 - - starts
   - babbling
   - utter
-- - gee
+- - curiously
+  - weedy
+  - voices
+- - babbling
+  - utter
+  - piffle
+- - detectives
+  - saying
+  - gee
+- - tardy
+  - cops
+  - eventually
+- - righting
+  - wrongs
+  - taking
+- - weedy
+  - voices
+  - lars
+- - buttons
+  - devoted
+  - fans
+- - saying
+  - gee
   - thanks
-  - piffleboy
+- - listening
+  - crackers
+  - leaving
+- - sorry
+  - state
+  - increasingly
+- - voices
+  - lars
+  - talc
+- - city
+  - streets
+  - safe
+- - genius
+  - lars
+  - talc
+- - big
+  - noisy
+  - explosions
+- - cops
+  - eventually
+  - show
+- - recounted
+  - between
+  - march
+- - spectacle
+  - why
+  - bother
+- - mere
+  - spectacle
+  - why
+- - prison
+  - each
+  - episode
+- - each
+  - episode
+  - ends
+- - yet
+  - curiously
+  - weedy
+- - loud
+  - yet
+  - curiously
+- - most
+  - piffling
+  - piffle
+- - city
+  - safe
+  - again
+- - ever
+  - diminishing
+  - returns
+- - button
+  - collection
+  - yet
+- - diminishing
+  - returns
+  - these
+- - say
+  - snappy
+  - dialogue
+- - collection
+  - being
+  - dropped
+- - drives
+  - those
+  - listening
+- - thus
+  - far
+  - neglected
+- - those
+  - listening
+  - crackers
+- - several
+  - hours
+  - until
+- - such
+  - basic
+  - elements
+- - befuddled
+  - like
+  - decapitated
+- - like
+  - decapitated
+  - chickens
+- - now
+  - extremely
+  - rare
+- - service
+  - captain
+  - now
+- - leaving
+  - them
+  - confused
+- - crackers
+  - leaving
+  - them
+- - must
+  - get
+  - back
+- - hollywood
+  - has
+  - thus
+- - eventually
+  - show
+  - up
+- - adventures
+  - were
+  - recounted
+- - snappy
+  - dialogue
+  - when
+- - wrongs
+  - taking
+  - out
+- - were
+  - recounted
+  - between
+- - has
+  - thus
+  - far
+- - up
+  - these
+  - hoods
+- - rounded
+  - up
+  - these
 story:
   date: 2017-02-01
   id: 2017-02-01-piffleboy
@@ -84,4 +210,4 @@ story:
     \ of bootlegger Slugger McGrew and his gang by wittering piffle at them for several\
     \ hours until the tardy cops eventually show up.\n"
   title: Piffleboy
-word_count: 460
+word_count: 456

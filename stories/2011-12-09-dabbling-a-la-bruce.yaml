@@ -1,19 +1,10 @@
 ngrams:
-- - fundamental
-  - spelling
-  - inconsistencies
 - - brit
   - reviewed
   - sweeper
-- - foopballist
-  - steve
-  - bruce
 - - bruce
   - bruce
   - echo
-- - clever
-  - metafictional
-  - sally
 - - pleasing
   - bruce
   - bruce
@@ -29,21 +20,66 @@ ngrams:
 - - la
   - bruce
   - earlier
+- - saying
+  - ok
+  - that's
 - - trying
   - incidentally
   - astute
-- - particularly
-  - clever
-  - metafictional
+- - it's
+  - early
+  - doors
 - - incidentally
   - astute
   - readers
 - - piece
   - brit
   - points
+- - approach
+  - it's
+  - early
 - - immortal
   - words
   - proofreading
+- - steve
+  - bruce
+  - though
+- - new
+  - approach
+  - it's
+- - course
+  - willis
+  - once
+- - joking
+  - think
+  - again
+- - am
+  - destroying
+  - everything
+- - am
+  - trying
+  - incidentally
+- - also
+  - refer
+  - more
+- - inspiration
+  - if
+  - anybody
+- - refer
+  - more
+  - than
+- - astute
+  - readers
+  - will
+- - if
+  - anybody
+  - thought
+- - readers
+  - will
+  - note
+- - more
+  - than
+  - once
 story:
   date: 2011-12-09
   id: 2011-12-09-dabbling-a-la-bruce
@@ -64,4 +100,4 @@ story:
     \ of course Willis once reputedly wrote on an online forum the immortal words\
     \ \u201Cproofreading is for pussies\u201D. I leave you to untangle that one."
   title: Dabbling A La Bruce
-word_count: 225
+word_count: 220

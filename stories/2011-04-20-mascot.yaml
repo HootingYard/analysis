@@ -2,6 +2,9 @@ ngrams:
 - - deeply
   - adored
   - mascot
+- - world's
+  - trouble
+  - spots
 - - american
   - baseball
   - team
@@ -17,24 +20,12 @@ ngrams:
 - - near
   - future
   - though
-- - don
-  - t
-  - recall
-- - percy
-  - grainger
-  - did
 - - future
   - though
   - rather
 - - proper
   - perspective
   - now
-- - teeth
-  - upon
-  - defenceless
-- - upon
-  - defenceless
-  - persons
 - - unveiled
   - just
   - last
@@ -44,6 +35,39 @@ ngrams:
 - - rather
   - than
   - deploying
+- - just
+  - last
+  - week
+- - time
+  - particularly
+  - exciting
+- - their
+  - mascot
+  - according
+- - though
+  - rather
+  - than
+- - shall
+  - lead
+  - them
+- - set
+  - them
+  - armed
+- - adored
+  - mascot
+  - would
+- - than
+  - deploying
+  - them
+- - mascot
+  - would
+  - cause
+- - deranged
+  - person
+  - so
+- - detest
+  - quite
+  - so
 story:
   date: 2011-04-20
   id: 2011-04-20-mascot
@@ -62,4 +86,4 @@ story:
     \ perspective. Now I must go and drill the troops and issue them with their blunderbusses,\
     \ muskets, and surface-to-air missiles.\n"
   title: Mascot
-word_count: 192
+word_count: 189

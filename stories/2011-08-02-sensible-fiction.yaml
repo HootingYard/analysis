@@ -2,12 +2,18 @@ ngrams:
 - - science
   - fiction
   - magazine
-- - ptak
-  - science
-  - books
 - - sensible
   - fiction
   - many
+- - fiction
+  - many
+  - thanks
+- - issue
+  - containing
+  - what
+- - an
+  - issue
+  - containing
 story:
   date: 2011-08-02
   id: 2011-08-02-sensible-fiction

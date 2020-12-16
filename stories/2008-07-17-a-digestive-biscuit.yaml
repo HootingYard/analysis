@@ -1,22 +1,31 @@
 ngrams:
-- - digest-style
-  - digested
-  - news
 - - digestive
   - biscuit
   - following
 - - digested
   - news
   - stories
-- - readers
-  - digest-style
-  - digested
 - - digestive
   - biscuits
   - perhaps
 - - generator
   - while
   - handling
+- - proper
+  - collective
+  - name
+- - yard
+  - digestive
+  - biscuits
+- - enticing
+  - little
+  - bagatelles
+- - news
+  - stories
+  - here
+- - collective
+  - name
+  - hooting
 story:
   date: 2008-07-17
   id: 2008-07-17-a-digestive-biscuit
@@ -28,4 +37,4 @@ story:
     \ they will need a proper collective name. \u201CHooting Yard Digestive Biscuits\u201D\
     , perhaps."
   title: A Digestive Biscuit
-word_count: 77
+word_count: 76

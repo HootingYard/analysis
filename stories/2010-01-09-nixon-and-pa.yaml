@@ -1,13 +1,4 @@
 ngrams:
-- - dazzling
-  - doublefold
-  - psychological
-- - richard
-  - milhous
-  - nixon
-- - doublefold
-  - psychological
-  - study
 - - potato
   - nixon
   - enjoyed
@@ -17,27 +8,54 @@ ngrams:
 - - father
   - enjoyed
   - eating
-- - eighty-fifth
-  - birthday
-  - today
 - - deep
   - waters
   - indeed
-- - thirty-seventh
-  - potus
-  - still
-- - most
+- - century's
+  - most
   - pernicious
-  - brain-softener
-- - twelve
-  - years
+- - younger
+  - than
+  - nixon
+- - some
+  - mystic
+  - significance
+- - years
   - younger
-- - exactly
-  - twelve
-  - years
-- - number
-  - twelve
-  - these
+  - than
+- - find
+  - some
+  - mystic
+- - chapter
+  - about
+  - mashed
+- - about
+  - mashed
+  - potato
+- - entire
+  - chapter
+  - about
+- - might
+  - make
+  - much
+- - waters
+  - indeed
+  - what
+- - late
+  - potus
+  - there
+- - are
+  - deep
+  - waters
+- - than
+  - nixon
+  - if
+- - result
+  - would
+  - say
+- - an
+  - entire
+  - chapter
 story:
   date: 2010-01-09
   id: 2010-01-09-nixon-and-pa
@@ -54,4 +72,4 @@ story:
     \ in the number twelve? These are deep waters indeed. What on earth would the\
     \ twentieth century's most pernicious brain-softener have made of them?"
   title: Nixon And Pa
-word_count: 157
+word_count: 156

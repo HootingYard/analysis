@@ -1,19 +1,28 @@
 ngrams:
-- - miles
-  - o
-  - er
 - - vat
   - let
   - us
-- - many
-  - miles
-  - o
 - - let
   - us
   - imagine
 - - then
   - lug
   - panting
+- - many
+  - many
+  - miles
+- - fields
+  - what
+  - better
+- - can
+  - then
+  - lug
+- - what
+  - better
+  - way
+- - vat
+  - bit
+  - by
 story:
   date: 2015-10-30
   id: 2015-10-30-a-tap-on-a-vat
@@ -22,4 +31,4 @@ story:
     can then lug, panting and perspiring, for many many miles o'er the fields. What
     better way to spend a Tuesday afternoon as winter approaches?
   title: A Tap On A Vat
-word_count: 65
+word_count: 64

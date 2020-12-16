@@ -1,25 +1,19 @@
 ngrams:
-- - crouton-sized
-  - cubes
-  - boil
 - - pets
   - creeping
   - vermin
 - - domestic
   - pets
   - creeping
-- - sponge
-  - cake
-  - darken
+- - upturned
+  - potter's
+  - cap
 - - darkened
   - sponge
   - cake
 - - darkened
   - sponge
   - cake
-- - added
-  - croutons
-  - remove
 - - sponge
   - cake
   - soup
@@ -29,21 +23,78 @@ ngrams:
 - - cake
   - soup
   - obtain
-- - choose
-  - whatever
-  - flavour
 - - soapy
   - soapy
   - water
 - - domain
   - further
   - darkening
-- - tiny
-  - crouton-sized
-  - cubes
 - - sachet
   - add
   - further
+- - kitchen
+  - domain
+  - further
+- - until
+  - cold
+  - protect
+- - counter
+  - until
+  - cold
+- - obtain
+  - something
+  - hard
+- - shadow
+  - well
+  - away
+- - fact
+  - however
+  - many
+- - can
+  - choose
+  - whatever
+- - something
+  - hard
+  - like
+- - your
+  - kitchen
+  - domain
+- - shining
+  - pitilessly
+  - into
+- - ditch
+  - clean
+  - out
+- - boiled
+  - water
+  - into
+- - sun's
+  - rays
+  - which
+- - are
+  - exhausted
+  - pour
+- - biscuits
+  - are
+  - exhausted
+- - an
+  - upturned
+  - potter's
+- - other
+  - biscuits
+  - when
+- - rays
+  - which
+  - may
+- - pitilessly
+  - into
+  - your
+- - into
+  - your
+  - kitchen
+- - sponge
+  - cake
+  - from
 story:
   date: 2008-10-31
   id: 2008-10-31-darkened-sponge-cake-soup
@@ -71,4 +122,4 @@ story:
     biscuits, are exhausted, pour the dregs of the soup into a drainage ditch, clean
     out the cap with soapy, soapy water, and return it to the potter.'
   title: Darkened Sponge Cake Soup
-word_count: 264
+word_count: 262

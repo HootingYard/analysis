@@ -1,13 +1,19 @@
 ngrams:
-- - incensey
-  - fairy
-  - airhead
-- - esoteric
-  - incensey
-  - fairy
 - - fairy
   - airhead
   - goddess
+- - airhead
+  - goddess
+  - gift
+- - crystal
+  - healing
+  - exactly
+- - goddess
+  - gift
+  - shop
+- - healing
+  - exactly
+  - it's
 story:
   date: 2009-06-11
   id: 2009-06-11-overheard
@@ -15,4 +21,4 @@ story:
     What is crystal healing, exactly?\u201D\n\u201CIt's a sort of healing\u2026 with\
     \ crystals.\u201D\n\u201COh, I see.\u201D"
   title: Overheard
-word_count: 27
+word_count: 26

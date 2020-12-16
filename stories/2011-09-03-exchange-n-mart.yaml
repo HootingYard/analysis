@@ -1,31 +1,19 @@
 ngrams:
-- - cards
-  - lauderdale
-  - mansions
 - - austin
   - osman
   - spare
 - - argument
   - surrealist
   - forecast
-- - forecast
-  - cards
-  - lauderdale
 - - surrealist
   - forecast
   - cards
 - - surrealist
   - forecast
   - cards
-- - lauderdale
-  - mansions
-  - london
 - - forecast
   - cards
   - designed
-- - mansions
-  - london
-  - w
 - - famous
   - mystic
   - artist
@@ -38,12 +26,51 @@ ngrams:
 - - perhaps
   - profitable
   - experiment
-- - refunded
-  - without
-  - question
 - - very
   - fair
   - offer
+- - any
+  - race
+  - anywhere
+- - race
+  - anywhere
+  - any
+- - now
+  - worth
+  - considerably
+- - cards
+  - now
+  - worth
+- - anywhere
+  - any
+  - year
+- - worth
+  - considerably
+  - more
+- - years
+  - these
+  - cards
+- - were
+  - originally
+  - intended
+- - luck
+  - obviously
+  - if
+- - considerably
+  - more
+  - than
+- - many
+  - others
+  - can
+- - more
+  - than
+  - '-'
+- - same
+  - pack
+  - will
+- - pack
+  - will
+  - last
 story:
   date: 2011-09-03
   id: 2011-09-03-exchange-n-mart
@@ -62,4 +89,4 @@ story:
     \ was Austin Osman Spare, and a rare photograph of a set of the cards (now worth\
     \ considerably more than 5/- or 25p) can be seen here."
   title: Exchange & Mart
-word_count: 194
+word_count: 193

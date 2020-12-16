@@ -1,16 +1,7 @@
 ngrams:
-- - hattie
-  - tyng
-  - griswold
-- - flock
-  - hattie
-  - tyng
 - - famous
   - lord
   - macaulay
-- - tyng
-  - griswold
-  - home
 - - little
   - flock
   - hattie
@@ -44,6 +35,39 @@ ngrams:
 - - live
   - upon
   - did
+- - being
+  - 'no'
+  - church
+- - who
+  - could
+  - feed
+- - flock
+  - who
+  - could
+- - could
+  - feed
+  - their
+- - after
+  - some
+  - time
+- - manse
+  - or
+  - glebe
+- - humble
+  - people
+  - but
+- - duty
+  - faithfully
+  - by
+- - time
+  - had
+  - elapsed
+- - there
+  - being
+  - 'no'
+- - schools
+  - or
+  - other
 story:
   date: 2010-08-26
   id: 2010-08-26-pious-purposes-in-the-islands

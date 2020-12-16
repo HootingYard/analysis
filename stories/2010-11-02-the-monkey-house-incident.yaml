@@ -11,12 +11,6 @@ ngrams:
 - - overcoat
   - enrico
   - caruso
-- - heinrich
-  - conreid
-  - director
-- - enter
-  - heinrich
-  - conreid
 - - finest
   - italian
   - tenor
@@ -38,12 +32,123 @@ ngrams:
 - - foreign
   - gent
   - moves
+- - madam
+  - respectable
+  - lady
 - - metropolitan
   - opera
   - foreign
 - - opera
   - foreign
   - gent
+- - disruptive
+  - antics
+  - meant
+- - weeping
+  - loudly
+  - enter
+- - foreign
+  - gent
+  - i've
+- - respectable
+  - lady
+  - turning
+- - central
+  - park
+  - zoo
+- - weeping
+  - thank
+  - heaven
+- - monkey
+  - foreign
+  - gent
+- - stirred
+  - public
+  - interest
+- - gent
+  - moves
+  - towards
+- - prosecuting
+  - counsel
+  - tell
+- - later
+  - prosecuting
+  - counsel
+- - dollars
+  - scene
+  - four
+- - morning
+  - madam
+  - respectable
+- - house
+  - incident
+  - scene
+- - under
+  - arrest
+  - knocko
+- - annoying
+  - several
+  - women
+- - monkey
+  - house
+  - incident
+- - monkey
+  - house
+  - incident
+- - chum
+  - you're
+  - under
+- - you're
+  - under
+  - arrest
+- - later
+  - alfred
+  - m
+- - foreign
+  - gent
+  - good
+- - police
+  - cells
+  - later
+- - station
+  - later
+  - alfred
+- - prison
+  - scene
+  - three
+- - indeed
+  - famous
+  - tenor
+- - year
+  - curtain
+  - further
+- - fire
+  - station
+  - later
+- - curtain
+  - further
+  - reading
+- - week
+  - later
+  - prosecuting
+- - gent
+  - still
+  - weeping
+- - fire
+  - department
+  - until
+- - foreign
+  - gent
+  - still
+- - new
+  - york
+  - cop
+- - york
+  - cop
+  - new
+- - cop
+  - new
+  - york
 story:
   date: 2010-11-02
   id: 2010-11-02-the-monkey-house-incident
@@ -79,4 +184,4 @@ story:
     \ Pets. It should be ready for publication by next year.\nCurtain.\nFurther reading\
     \ at The Believer."
   title: The Monkey House Incident
-word_count: 408
+word_count: 405

@@ -5,12 +5,12 @@ ngrams:
 - - quite
   - obviously
   - 'yes'
+- - pointy
+  - town
+  - today's
 - - fill
   - much
   - space
-- - pointy
-  - town
-  - today
 - - feel
   - sure
   - hooting
@@ -26,6 +26,21 @@ ngrams:
 - - sure
   - hooting
   - yard
+- - far
+  - more
+  - cogent
+- - asking
+  - if
+  - brighton
+- - article
+  - asking
+  - if
+- - cogent
+  - question
+  - would
+- - an
+  - article
+  - asking
 story:
   date: 2010-05-19
   id: 2010-05-19-pointy-town
@@ -39,4 +54,4 @@ story:
     \ of the pointy attractions of Pointy Town, and perhaps one day soon I shall do\
     \ so. But will the Grauniad publish it?"
   title: Pointy Town
-word_count: 119
+word_count: 118

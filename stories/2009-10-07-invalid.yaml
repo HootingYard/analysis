@@ -2,6 +2,9 @@ ngrams:
 - - invigorating
   - nerve
   - syrup
+- - baxter's
+  - invigorating
+  - nerve
 - - approval
   - sheer
   - idleness
@@ -20,9 +23,12 @@ ngrams:
 - - valid
   - emotional
   - response
-- - excessively
-  - judgmental
-  - approach
+- - doctor
+  - baxter's
+  - invigorating
+- - interweb
+  - doesn't
+  - appeal
 - - online
   - literary
   - magazines
@@ -35,6 +41,9 @@ ngrams:
 - - wonder
   - laugh
   - cry
+- - can't
+  - help
+  - wondering
 - - website
   - whose
   - imprimatur
@@ -44,6 +53,84 @@ ngrams:
 - - idleness
   - also
   - plays
+- - sheer
+  - idleness
+  - also
+- - examples
+  - littered
+  - around
+- - unusual
+  - thought
+  - provoking
+- - weird
+  - unusual
+  - thought
+- - while
+  - shakily
+  - downing
+- - also
+  - encouraged
+  - note
+- - generally
+  - feel
+  - something
+- - much
+  - worse
+  - examples
+- - reading
+  - while
+  - shakily
+- - buboes
+  - reading
+  - while
+- - emotional
+  - response
+  - here
+- - one's
+  - first
+  - port
+- - term
+  - our
+  - stories
+- - than
+  - vice
+  - versa
+- - invalid
+  - response
+  - where
+- - response
+  - where
+  - invalid
+- - plays
+  - its
+  - part
+- - rather
+  - than
+  - vice
+- - am
+  - occasionally
+  - cajoled
+- - also
+  - plays
+  - its
+- - here
+  - one's
+  - first
+- - am
+  - happy
+  - enough
+- - 'no'
+  - means
+  - alone
+- - help
+  - wondering
+  - what
+- - rare
+  - occasions
+  - when
+- - make
+  - 'no'
+  - comment
 story:
   date: 2009-10-07
   id: 2009-10-07-invalid
@@ -75,4 +162,4 @@ story:
     \ Here is by no means alone in announcing itself in terms which find little favour\
     \ with Mr Key. There are much worse examples littered around the interweb."
   title: Invalid
-word_count: 365
+word_count: 359

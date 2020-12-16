@@ -1,4 +1,7 @@
 ngrams:
+- - week's
+  - lobster
+  - diagram
 - - diagram
   - untold
   - numbers
@@ -8,15 +11,9 @@ ngrams:
 - - regular
   - lobster
   - diagrams
-- - latest
-  - bestselling
-  - paperback
 - - expect
   - mr
   - key
-- - protesters
-  - however
-  - here
 - - our
   - important
   - work
@@ -26,6 +23,21 @@ ngrams:
 - - want
   - them
   - weekly
+- - them
+  - weekly
+  - whether
+- - single
+  - demand
+  - what
+- - lobster
+  - diagrams
+  - we
+- - we
+  - expect
+  - mr
+- - mr
+  - key
+  - they
 story:
   date: 2007-02-26
   id: 2007-02-26-this-weeks-lobster-diagram
@@ -38,4 +50,4 @@ story:
     \ is, incidentally, the subject of Pebblehead's latest bestselling paperback,\
     \ The Location Of The Lobster's Brain.\n\n\_"
   title: This Week's Lobster Diagram
-word_count: 108
+word_count: 104

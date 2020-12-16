@@ -2,24 +2,33 @@ ngrams:
 - - alps
   - imperious
   - span
-- - tb
-  - lying
-  - shattered
-- - ll
+- - i'll
   - heed
   - warnings
+- - switzerland
+  - i'll
+  - proceed
 - - magic
   - mountain
   - fair
 - - mountain
   - fair
   - stood
-- - ll
+- - i'll
   - prance
   - along
 - - high
   - thin
   - air
+- - imperious
+  - span
+  - like
+- - may
+  - need
+  - repair
+- - suffering
+  - who
+  - suffer
 story:
   date: 2011-04-30
   id: 2011-04-30-the-magic-mountain
@@ -30,4 +39,4 @@ story:
     \ us who're suffering\nWho suffer as I do from TB\nLying shattered on a balcony\n\
     High in the Alps\u2019 imperious span\nLike a character from Thomas Mann"
   title: The Magic Mountain
-word_count: 91
+word_count: 87

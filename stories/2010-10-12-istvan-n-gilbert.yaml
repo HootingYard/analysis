@@ -2,18 +2,27 @@ ngrams:
 - - evadne
   - mount
   - mystery
-- - character
-  - rex
-  - hanway
 - - director
   - character
   - rex
 - - second
   - evadne
   - mount
-- - reading
+- - gilbert
+  - reading
   - gilbert
-  - adair
+- - istvan
+  - gilbert
+  - reading
+- - film
+  - director
+  - character
+- - implausibly
+  - vast
+  - hooting
+- - hooting
+  - yard
+  - archives
 story:
   date: 2010-10-12
   id: 2010-10-12-istvan-n-gilbert
@@ -24,4 +33,4 @@ story:
     \ Glucose Deficiency by Istvan Scrimgeour\_:\_ \u201CHe had two pets: a cat called\
     \ Doge and a dog called Cato.\u201D"
   title: Istvan & Gilbert
-word_count: 69
+word_count: 68

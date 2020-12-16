@@ -1,19 +1,4 @@
 ngrams:
-- - tinier
-  - baby
-  - kihansi
-- - baby
-  - kihansi
-  - spray
-- - kihansi
-  - spray
-  - toad
-- - kihansi
-  - spray
-  - toad
-- - kihansi
-  - spray
-  - toad
 - - spray
   - toad
   - clinging
@@ -32,6 +17,39 @@ ngrams:
 - - yard
   - toad
   - quiz
+- - correct
+  - answer
+  - here
+- - even
+  - tinier
+  - baby
+- - toad
+  - quiz
+  - where
+- - tiny
+  - little
+  - dwarf
+- - hooting
+  - yard
+  - toad
+- - toad
+  - quiz
+  - time
+- - sharpen
+  - your
+  - wits
+- - prolonged
+  - your
+  - careful
+- - testing
+  - your
+  - knowledge
+- - your
+  - careful
+  - study
+- - quiz
+  - time
+  - now
 story:
   date: 2010-08-21
   id: 2010-08-21-toad-quiz

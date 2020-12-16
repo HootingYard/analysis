@@ -1,13 +1,16 @@
 ngrams:
-- - mimmspod
-  - w
-  - to
 - - w
   - to
   - z
 - - to
   - south
   - mimms
+- - z
+  - to
+  - south
+- - to
+  - z
+  - to
 story:
   date: 2011-06-08
   id: 2011-06-08-mimmspod

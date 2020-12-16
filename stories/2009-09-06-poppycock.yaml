@@ -1,25 +1,7 @@
 ngrams:
-- - abundant
-  - well-researched
-  - thoughtfulness
-- - britain
-  - rachel
-  - cooke
 - - seeking
   - vapid
   - drivel
-- - rachel
-  - cooke
-  - writes
-- - lanercost
-  - priory
-  - near
-- - priory
-  - near
-  - hadrian
-- - cooke
-  - writes
-  - almost
 - - country
   - formerly
   - known
@@ -41,9 +23,60 @@ ngrams:
 - - looks
   - well
   - worth
+- - book
+  - itself
+  - looks
 - - these
   - wonderful
   - pieces
+- - taken
+  - while
+  - sheltering
+- - meal
+  - taken
+  - while
+- - small
+  - strange
+  - things
+- - small
+  - strange
+  - things
+- - itself
+  - looks
+  - well
+- - well
+  - worth
+  - reading
+- - those
+  - small
+  - strange
+- - strange
+  - things
+  - hooting
+- - things
+  - hooting
+  - yard
+- - parents
+  - ate
+  - their
+- - can
+  - rarely
+  - go
+- - pieces
+  - were
+  - commissioned
+- - wonderful
+  - pieces
+  - were
+- - about
+  - bus
+  - conductors
+- - plenty
+  - about
+  - bus
+- - look
+  - 'no'
+  - further
 story:
   date: 2009-09-06
   id: 2009-09-06-poppycock
@@ -65,4 +98,4 @@ story:
     My,\u201D said his father, \u201Cbut this is good!\u201D\nYou can rarely go wrong\
     \ with a sausage anecdote."
   title: Poppycock
-word_count: 211
+word_count: 209

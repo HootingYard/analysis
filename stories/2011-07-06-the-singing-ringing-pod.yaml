@@ -2,12 +2,18 @@ ngrams:
 - - national
   - anthem
   - revised
-- - ringing
-  - pod
-  - hoofprint
 - - american
   - national
   - anthem
+- - anthem
+  - revised
+  - version
+- - singing
+  - ringing
+  - pod
+- - son
+  - ed
+  - playing
 story:
   date: 2011-07-06
   id: 2011-07-06-the-singing-ringing-pod
@@ -18,4 +24,4 @@ story:
 
     '
   title: The Singing Ringing Pod
-word_count: 34
+word_count: 33

@@ -5,15 +5,24 @@ ngrams:
 - - german
   - legend
   - laying
+- - mine
+  - doesn't
+  - boggle
 - - useful
   - illustrative
   - material
-- - pouchet
-  - m
-  - d
 - - further
   - useful
   - illustrative
+- - boggles
+  - well
+  - mine
+- - well
+  - mine
+  - doesn't
+- - mind
+  - boggles
+  - well
 story:
   date: 2012-01-21
   id: 2012-01-21-german-gnomes
@@ -24,4 +33,4 @@ story:
     \ boggles\u2026 well, mine doesn't boggle so much these days, but yours might\u201D\
     .\n"
   title: German Gnomes
-word_count: 67
+word_count: 66

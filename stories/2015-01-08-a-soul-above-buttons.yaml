@@ -1,13 +1,19 @@
 ngrams:
-- - profession
-  - sylvester
-  - daggerwood
 - - liberal
   - profession
   - sylvester
 - - soul
   - above
   - buttons
+- - soul
+  - above
+  - buttons
+- - this
+  - important
+  - quotation
+- - buttons
+  - my
+  - father
 story:
   date: 2015-01-08
   id: 2015-01-08-a-soul-above-buttons

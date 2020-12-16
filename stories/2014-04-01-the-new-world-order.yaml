@@ -1,19 +1,13 @@
 ngrams:
-- - avenue
-  - crescent
-  - mews
+- - dustbin
+  - men's
+  - representatives
 - - raised
   - objections
   - chiefly
-- - usual
-  - moaning
-  - minnies
 - - street
   - avenue
   - crescent
-- - crescent
-  - mews
-  - lane
 - - road
   - street
   - avenue
@@ -23,27 +17,108 @@ ngrams:
 - - everybody
   - knows
   - exactly
-- - mews
-  - lane
-  - path
 - - whose
   - duties
   - require
-- - begloved
-  - hand
-  - disdainfully
+- - road
+  - don't
+  - worry
 - - becoming
   - hopelessly
   - lost
 - - order
   - everybody
   - knows
-- - king
-  - says
-  - pah
 - - single
   - road
   - street
+- - owl
+  - road
+  - don't
+- - others
+  - whose
+  - duties
+- - lost
+  - lost
+  - hopelessly
+- - lost
+  - hopelessly
+  - lost
+- - road
+  - called
+  - owl
+- - called
+  - owl
+  - road
+- - along
+  - owl
+  - road
+- - get
+  - owl
+  - rd
+- - world
+  - order
+  - everybody
+- - affairs
+  - indeed
+  - written
+- - men's
+  - representatives
+  - made
+- - every
+  - single
+  - road
+- - little
+  - proletarian
+  - heads
+- - every
+  - road
+  - called
+- - get
+  - lost
+  - lost
+- - found
+  - along
+  - owl
+- - rd
+  - where
+  - rd
+- - very
+  - fine
+  - state
+- - king
+  - looks
+  - after
+- - owl
+  - rd
+  - where
+- - held
+  - meetings
+  - where
+- - knows
+  - exactly
+  - where
+- - new
+  - world
+  - order
+- - new
+  - world
+  - order
+- - new
+  - world
+  - order
+- - new
+  - world
+  - order
+- - knew
+  - better
+  - than
+- - duties
+  - require
+  - them
+- - perform
+  - their
+  - functions
 story:
   date: 2014-04-01
   id: 2014-04-01-the-new-world-order
@@ -72,4 +147,4 @@ story:
     \ is a very fine state of affairs indeed.\nWritten this day sitting on a municipal\
     \ bench on Owl Road."
   title: The New World Order
-word_count: 326
+word_count: 324

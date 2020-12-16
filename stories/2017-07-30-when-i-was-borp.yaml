@@ -1,13 +1,25 @@
 ngrams:
+- - golden
+  - locks
+  - what's
 - - officious
   - fool
   - broke
 - - swish
   - sophisticated
   - cocktail
+- - suppose
+  - you'd
+  - care
 - - sophisticated
   - cocktail
   - party
+- - don't
+  - suppose
+  - you'd
+- - locks
+  - what's
+  - left
 - - leaning
   - insouciantly
   - against
@@ -20,15 +32,12 @@ ngrams:
 - - perkins
   - run
   - through
-- - don
-  - t
-  - suppose
+- - say
+  - i'm
+  - told
 - - orchard
   - any
   - longer
-- - gibber
-  - like
-  - unto
 - - monday
   - 'yes'
   - even
@@ -44,6 +53,66 @@ ngrams:
 - - sent
   - them
   - packing
+- - browning
+  - who
+  - wrote
+- - am
+  - often
+  - asked
+- - crutches
+  - will
+  - tap
+- - cocktail
+  - party
+  - when
+- - those
+  - who
+  - dwell
+- - often
+  - asked
+  - what
+- - wish
+  - me
+  - godspeed
+- - approach
+  - me
+  - sometimes
+- - rapier
+  - so
+  - himmelfarb
+- - so
+  - himmelfarb
+  - bewildered
+- - behind
+  - me
+  - sometimes
+- - so
+  - golden
+  - locks
+- - person
+  - behind
+  - me
+- - are
+  - things
+  - fit
+- - every
+  - so
+  - often
+- - who
+  - wrote
+  - about
+- - postage
+  - stamp
+  - or
+- - least
+  - politely
+  - but
+- - like
+  - every
+  - so
+- - be
+  - leaning
+  - insouciantly
 story:
   date: 2017-07-30
   id: 2017-07-30-when-i-was-borp
@@ -69,4 +138,4 @@ story:
     \ of borp.\nWish me Godspeed, and count the circle of toads, for borp is borp\
     \ and shall ever be as never be in witlessness and pox."
   title: When I Was Borp
-word_count: 315
+word_count: 310

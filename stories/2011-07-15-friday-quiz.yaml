@@ -1,13 +1,10 @@
 ngrams:
-- - hms
-  - corrugated
-  - cardboard
 - - characters
   - listed
   - yesterday
-- - forty-seven
-  - fictional
-  - characters
+- - hms
+  - corrugated
+  - cardboard
 - - fictional
   - characters
   - listed
@@ -32,6 +29,27 @@ ngrams:
 - - comments
   - will
   - win
+- - friday
+  - quiz
+  - so
+- - yet
+  - know
+  - what
+- - quiz
+  - so
+  - make
+- - this
+  - week's
+  - challenge
+- - chance
+  - this
+  - week's
+- - unhinged
+  - by
+  - cream
+- - by
+  - cream
+  - crackers
 story:
   date: 2011-07-15
   id: 2011-07-15-friday-quiz
@@ -49,4 +67,4 @@ story:
     prize. I do not yet know what it will be, but I will think of something, and it
     will not be a world cruise aboard the HMS Corrugated Cardboard.'
   title: Friday Quiz
-word_count: 143
+word_count: 142

@@ -1,46 +1,67 @@
 ngrams:
-- - hooter
-  - tooters
-  - parpers
-- - toot
-  - hooter
-  - tooters
 - - parp
   - toot
   - hooter
-- - wlad
-  - onanugu
-  - writes
-- - reader
-  - wlad
-  - onanugu
-- - parp
-  - reader
-  - wlad
-- - writes
-  - dear
-  - wordmaestro
-- - onanugu
-  - writes
-  - dear
 - - pamphlet
   - parp
   - toot
+- - dobson's
+  - pamphlet
+  - parp
+- - consult
+  - dobson's
+  - pamphlet
 - - quite
   - dreadfully
   - unhinged
 - - dreadfully
   - unhinged
   - mr
-- - unhinged
-  - mr
-  - onanugu
 - - toots
   - though
   - entirely
 - - myself
   - quite
   - dreadfully
+- - pretty
+  - much
+  - identical
+- - greatest
+  - pamphlet
+  - ever
+- - though
+  - entirely
+  - different
+- - new
+  - series
+  - instead
+- - day
+  - parp
+  - reader
+- - pamphlet
+  - ever
+  - written
+- - also
+  - make
+  - mention
+- - day
+  - boggle
+  - word
+- - find
+  - myself
+  - quite
+- - hooter
+  - rather
+  - than
+- - your
+  - illustrative
+  - sentence
+- - your
+  - new
+  - series
+- - before
+  - we
+  - move
 story:
   date: 2014-07-24
   id: 2014-07-24-word-of-the-day-boggle
@@ -58,4 +79,4 @@ story:
     \ it myself, but am told it is almost, but not quite, \u201Cthe greatest pamphlet\
     \ ever written\u201D."
   title: "Word Of The Day\_: Boggle"
-word_count: 172
+word_count: 170

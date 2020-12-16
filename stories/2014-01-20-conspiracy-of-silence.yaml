@@ -1,16 +1,16 @@
 ngrams:
 - - vincent
   - bugliosi
-  - hasn
-- - grassy
-  - knoll
-  - potsage
+  - hasn't
 - - malcolm
   - x
   - er
 - - peace
   - robert
   - kennedy
+- - unspeakable
+  - circles
+  - that's
 - - articles
   - television
   - documentaries
@@ -26,24 +26,48 @@ ngrams:
 - - robert
   - kennedy
   - dr
+- - circles
+  - that's
+  - probably
 - - kennedy
   - dr
   - king
 - - called
   - project
   - unspeakable
-- - trotsky
-  - another
-  - murderee
 - - leon
   - trotsky
   - another
 - - list
   - oh
   - hang
-- - bugliosi
-  - hasn
-  - t
+- - hardly
+  - ever
+  - shuts
+- - something
+  - called
+  - project
+- - even
+  - vincent
+  - bugliosi
+- - attention
+  - something
+  - called
+- - must
+  - always
+  - call
+- - its
+  - facecloth
+  - page
+- - three
+  - other
+  - leaders
+- - know
+  - hardly
+  - ever
+- - who
+  - surely
+  - ought
 story:
   date: 2014-01-20
   id: 2014-01-20-conspiracy-of-silence
@@ -63,4 +87,4 @@ story:
     \ circles that's probably all above board.)\nThe \u201Cconspiracy of silence\u201D\
     \ is about as silent as Hooting Yard, which as you know hardly ever shuts up."
   title: Conspiracy Of Silence
-word_count: 193
+word_count: 189

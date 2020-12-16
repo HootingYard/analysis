@@ -2,12 +2,18 @@ ngrams:
 - - downy
   - baby
   - shoes
+- - baby
+  - shoes
+  - i've
 - - behind
   - downy
   - baby
 - - truth
   - behind
   - downy
+- - sordid
+  - truth
+  - behind
 story:
   date: 2018-04-08
   id: 2018-04-08-baby-shoes
@@ -17,4 +23,4 @@ story:
 
     '
   title: Baby Shoes
-word_count: 42
+word_count: 40

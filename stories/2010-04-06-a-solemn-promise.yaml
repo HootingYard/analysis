@@ -1,7 +1,4 @@
 ngrams:
-- - vox
-  - pop
-  - riffraff
 - - pop
   - riffraff
   - alike
@@ -11,21 +8,9 @@ ngrams:
 - - general
   - election
   - means
-- - great
-  - helmswoman
-  - blears
-- - diminutive
-  - great
-  - helmswoman
-- - curious
-  - little
-  - milibands
 - - yard
   - election
   - watch
-- - cat
-  - pouncing
-  - upon
 - - hooting
   - yard
   - election
@@ -41,6 +26,42 @@ ngrams:
 - - those
   - curious
   - little
+- - yard
+  - readers
+  - may
+- - isle
+  - will
+  - ring
+- - crack
+  - apparently
+  - if
+- - more
+  - money
+  - than
+- - hapless
+  - peasant
+  - which
+- - about
+  - such
+  - tosh
+- - babble
+  - about
+  - such
+- - an
+  - injured
+  - starling
+- - vacuous
+  - twaddle
+  - this
+- - tosh
+  - this
+  - means
+- - this
+  - hapless
+  - peasant
+- - injured
+  - starling
+  - but
 story:
   date: 2010-04-06
   id: 2010-04-06-a-solemn-promise

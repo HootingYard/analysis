@@ -1,22 +1,13 @@
 ngrams:
-- - non-permanent
-  - marker
-  - pens
 - - laurel
   - leaf
   - touching
-- - perfect
-  - irresistible
-  - punchlines
 - - phrases
   - listed
   - therein
 - - hilarious
   - comic
   - novel
-- - dabbling
-  - absolutely
-  - splits
 - - laurels
   - wrapped
   - around
@@ -32,6 +23,9 @@ ngrams:
 - - take
   - full
   - credit
+- - can't
+  - say
+  - fairer
 - - those
   - laurels
   - wrapped
@@ -44,6 +38,45 @@ ngrams:
 - - novel
   - ever
   - written
+- - say
+  - fairer
+  - than
+- - their
+  - names
+  - scribbled
+- - having
+  - their
+  - names
+- - head
+  - your
+  - reward
+- - then
+  - cobble
+  - them
+- - will
+  - take
+  - full
+- - readers
+  - are
+  - invited
+- - will
+  - then
+  - cobble
+- - form
+  - one
+  - chapter
+- - particular
+  - care
+  - this
+- - care
+  - this
+  - week
+- - cobble
+  - them
+  - all
+- - them
+  - all
+  - together
 story:
   date: 2011-02-25
   id: 2011-02-25-his-dabbling-absolutely-splits-my-head
@@ -63,4 +96,4 @@ story:
     \ further placated by having their names scribbled on the leaves with non-permanent\
     \ marker pens. I can't say fairer than that, can I?"
   title: His Dabbling Absolutely Splits My Head
-word_count: 215
+word_count: 213

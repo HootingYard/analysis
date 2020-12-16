@@ -1,13 +1,10 @@
 ngrams:
-- - ptak
-  - science
-  - books
 - - atomic
   - robot
   - man
-- - from
-  - ptak
-  - science
+- - robot
+  - man
+  - from
 story:
   date: 2013-03-27
   id: 2013-03-27-atomic-robot-man

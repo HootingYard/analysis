@@ -1,40 +1,58 @@
 ngrams:
-- - spotify
-  - screen
-  - spotify
-- - screen
-  - spotify
-  - user
-- - paperbacks
-  - bestselling
-  - paperbackist
-- - innumerable
-  - bestselling
-  - paperbacks
-- - bestselling
-  - paperbacks
-  - bestselling
 - - search
   - silo
   - hub
-- - pebblehead
-  - playlist
-  - snwkycddlxkepjfbhxnzy
-- - playlist
-  - snwkycddlxkepjfbhxnzy
-  - pebblehead
-- - user
-  - pebblehead
-  - playlist
-- - spotify
-  - user
-  - pebblehead
-- - transcendent
-  - genius
-  - pebblehead
-- - bestselling
-  - paperbackist
-  - pebblehead
+- - performed
+  - less
+  - frequently
+- - heaven
+  - knows
+  - how
+- - less
+  - frequently
+  - than
+- - composer's
+  - more
+  - popular
+- - more
+  - popular
+  - works
+- - hooting
+  - yard
+  - readers
+- - can
+  - simply
+  - copy
+- - yard
+  - readers
+  - some
+- - frequently
+  - than
+  - some
+- - between
+  - bashing
+  - out
+- - picks
+  - so
+  - here
+- - silo
+  - hub
+  - at
+- - who
+  - are
+  - already
+- - first
+  - one
+  - those
+- - advance
+  - what
+  - this
+- - am
+  - not
+  - going
+- - whereof
+  - he
+  - speaks
 story:
   date: 2009-11-05
   id: 2009-11-05-pebbleheads-picks-on-spotify
@@ -51,4 +69,4 @@ story:
     \ view, twenty-five minutes of transcendent genius.\u201D\nPebblehead knows whereof\
     \ he speaks."
   title: Pebblehead's Picks On Spotify
-word_count: 149
+word_count: 146

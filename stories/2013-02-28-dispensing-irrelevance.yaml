@@ -1,7 +1,4 @@
 ngrams:
-- - telephone
-  - dispenses
-  - irrelevance
 - - trivial
   - information
   - takes
@@ -11,36 +8,60 @@ ngrams:
 - - communication
   - simply
   - promote
-- - call
-  - old-fashioned
-  - landlines
 - - most
   - trivial
   - information
 - - found
   - myself
   - nodding
-- - won
-  - t
+- - won't
   - turn
-- - dispenses
-  - irrelevance
-  - like
+  - 'off'
 - - assert
   - its
   - tyranny
-- - other
-  - so-called
-  - amenities
-- - now
-  - call
-  - old-fashioned
 - - telephone
   - however
   - even
-- - t
+- - somebody
+  - who
+  - refuses
+- - think
+  - twice
+  - before
+- - telephone
+  - itself
+  - has
+- - itself
+  - has
+  - caused
+- - memoir
+  - boys
+  - will
+- - communicated
+  - if
+  - people
+- - tap
+  - which
+  - won't
+- - like
+  - most
+  - other
+- - myself
+  - would
+  - ignore
+- - which
+  - won't
   - turn
-  - 'off'
+- - who
+  - like
+  - myself
+- - they
+  - think
+  - twice
+- - before
+  - they
+  - bother
 story:
   date: 2013-02-28
   id: 2013-02-28-dispensing-irrelevance
@@ -58,4 +79,4 @@ story:
     \ the telephone itself has caused, and it is quick to assert its tyranny at the\
     \ expense of those who, like myself, would ignore it."
   title: Dispensing Irrelevance
-word_count: 171
+word_count: 169

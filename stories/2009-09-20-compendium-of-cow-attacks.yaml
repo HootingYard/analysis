@@ -1,13 +1,19 @@
 ngrams:
-- - blogger
-  - mark
-  - wadsworth
 - - cow
   - attacks
   - are
 - - an
   - invaluable
   - service
+- - certainly
+  - an
+  - invaluable
+- - invaluable
+  - service
+  - but
+- - one
+  - wonders
+  - what
 story:
   date: 2009-09-20
   id: 2009-09-20-compendium-of-cow-attacks

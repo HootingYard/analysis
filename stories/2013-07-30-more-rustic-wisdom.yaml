@@ -1,16 +1,22 @@
 ngrams:
+- - leonard
+  - cohen's
+  - tower
+- - radio
+  - '''s'
+  - farming
+- - wisdom
+  - today's
+  - insight
+- - bbc
+  - radio
+  - '''s'
+- - rustic
+  - wisdom
+  - today's
 - - rustic
   - persons
   - courtesy
-- - rustic
-  - wisdom
-  - today
-- - farming
-  - today
-  - came
-- - whether
-  - these
-  - resemble
 story:
   date: 2013-07-30
   id: 2013-07-30-more-rustic-wisdom
@@ -19,4 +25,4 @@ story:
     towers of cheese\u201D. I am not sure whether these resemble the Towers of Trebizond\
     \ or Leonard Cohen's Tower of Song, but I shall investigate, and let you know."
   title: More Rustic Wisdom
-word_count: 55
+word_count: 53

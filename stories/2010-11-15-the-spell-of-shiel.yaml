@@ -1,25 +1,10 @@
 ngrams:
-- - m
-  - p
-  - shiel
-- - mercy
-  - reading
-  - shiel
-- - prose
-  - long-time
-  - readers
-- - fell
-  - under
-  - shiel
 - - small
   - mercy
   - reading
 - - sensible
   - people
   - ought
-- - own
-  - prose
-  - long-time
 - - two
   - decades
   - since
@@ -29,12 +14,42 @@ ngrams:
 - - wisely
   - said
   - sensible
-- - reading
-  - shiel
+- - said
+  - sensible
+  - people
+- - readers
   - may
-- - long-time
-  - readers
-  - may
+  - recall
+- - recall
+  - what
+  - happened
+- - rebecca
+  - west
+  - so
+- - west
+  - so
+  - wisely
+- - felled
+  - me
+  - last
+- - may
+  - recall
+  - what
+- - me
+  - last
+  - week
+- - moment
+  - partly
+  - this
+- - so
+  - wisely
+  - said
+- - purple
+  - prose
+  - but
+- - not
+  - exactly
+  - fuddle
 story:
   date: 2010-11-15
   id: 2010-11-15-the-spell-of-shiel
@@ -49,4 +64,4 @@ story:
     \ when tippy-tapping my own prose. Long-time readers may recall what happened\
     \ to Dobson when he fell under Shiel's spell\u2026\n"
   title: The Spell Of Shiel
-word_count: 144
+word_count: 143

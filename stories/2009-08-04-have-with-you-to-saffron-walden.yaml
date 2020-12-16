@@ -1,25 +1,37 @@
 ngrams:
-- - thomas
-  - nashe
-  - -c
 - - title
   - alone
   - filling
-- - further
-  - nashe
-  - quotations
 - - latter
   - title
   - alone
-- - nashe
-  - -c
-  - like
 - - am
   - confident
   - readers
-- - -c
-  - like
-  - dobson
+- - alone
+  - filling
+  - me
+- - confident
+  - readers
+  - will
+- - readers
+  - will
+  - enjoy
+- - will
+  - get
+  - clogged
+- - works
+  - which
+  - include
+- - complete
+  - works
+  - which
+- - yard
+  - will
+  - get
+- - hooting
+  - yard
+  - will
 story:
   date: 2009-08-04
   id: 2009-08-04-have-with-you-to-saffron-walden
@@ -31,4 +43,4 @@ story:
     \ Yard will get clogged with further Nashe quotations, but I am confident readers\
     \ will enjoy them."
   title: Have With You To Saffron Walden
-word_count: 91
+word_count: 90

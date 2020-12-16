@@ -1,22 +1,16 @@
 ngrams:
-- - emit
-  - fumous
-  - babblings
-- - jethro
-  - tull
-  - frontman
 - - babblings
   - whichever
   - term
+- - ian
+  - anderson
+  - won't
 - - hence
   - ian
   - anderson
 - - ye
   - hence
   - ian
-- - ian
-  - anderson
-  - won
 - - wholly
   - imaginary
   - expert
@@ -32,9 +26,6 @@ ngrams:
 - - suffer
   - greatly
   - dr
-- - vacancy-between-the-ears
-  - dr
-  - fang
 - - vacuum
   - dr
   - fang
@@ -44,6 +35,180 @@ ngrams:
 - - dr
   - fang
   - greatly
+- - fang
+  - greatly
+  - dr
+- - greatly
+  - dr
+  - fang
+- - fang
+  - whereas
+  - usually
+- - dr
+  - fang
+  - plop
+- - fang
+  - dr
+  - fang
+- - fang
+  - dr
+  - fang
+- - cranium
+  - dr
+  - fang
+- - dr
+  - fang
+  - whereas
+- - belgian
+  - chums
+  - call
+- - chums
+  - call
+  - het
+- - task
+  - dr
+  - fang
+- - call
+  - het
+  - internet
+- - dr
+  - fang
+  - that's
+- - anderson
+  - won't
+  - write
+- - dr
+  - fang
+  - hold
+- - empty
+  - dr
+  - fang
+- - homeward
+  - past
+  - ditches
+- - help
+  - dr
+  - fang
+- - dr
+  - fang
+  - dr
+- - dr
+  - fang
+  - dr
+- - dr
+  - fang
+  - outside
+- - forth
+  - mighty
+  - prose
+- - 'yes'
+  - dr
+  - fang
+- - air
+  - pride
+  - plume
+- - right
+  - dr
+  - fang
+- - rather
+  - amusing
+  - bagatelle
+- - fang
+  - good
+  - afternoon
+- - keynote
+  - speech
+  - himself
+- - get
+  - ye
+  - hence
+- - dr
+  - fang
+  - good
+- - leg
+  - while
+  - tootling
+- - oh
+  - air
+  - pride
+- - drizzle
+  - still
+  - spat
+- - key
+  - 'yes'
+  - dr
+- - act
+  - oh
+  - air
+- - key
+  - 'yes'
+  - 'yes'
+- - imaginary
+  - way
+  - homeward
+- - dr
+  - fang
+  - mr
+- - dr
+  - fang
+  - well
+- - plume
+  - here
+  - buckle
+- - shall
+  - indeed
+  - buckle
+- - pride
+  - plume
+  - here
+- - saint
+  - dymphna
+  - much
+- - see
+  - dr
+  - fang
+- - brain
+  - something
+  - inspired
+- - our
+  - belgian
+  - chums
+- - prefers
+  - mr
+  - key
+- - tootling
+  - mr
+  - key
+- - buckle
+  - mr
+  - key
+- - find
+  - myself
+  - staring
+- - drizzle
+  - mr
+  - key
+- - fang
+  - mr
+  - key
+- - mistaken
+  - mr
+  - key
+- - spat
+  - mr
+  - key
+- - way
+  - homeward
+  - past
+- - dymphna
+  - much
+  - oh
+- - mr
+  - key
+  - thank
+- - hopkins
+  - said
+  - brute
 story:
   date: 2011-08-23
   id: 2011-08-23-mr-key-and-dr-fang
@@ -87,4 +252,4 @@ story:
     \ years ago, it was a new day yesterday, but it's an old day now. How true that\
     \ was, in a very real sense, how true\u2026"
   title: Mr Key And Dr Fang
-word_count: 564
+word_count: 561

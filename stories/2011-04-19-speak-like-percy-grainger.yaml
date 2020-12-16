@@ -8,24 +8,12 @@ ngrams:
 - - james
   - conway
   - provides
-- - charles
-  - montague
-  - doughty
 - - vast
   - epic
   - poems
-- - montague
-  - doughty
-  - surely
-- - doughty
-  - surely
-  - grainger
 - - discovered
   - james
   - conway
-- - anything
-  - originating
-  - south
 - - write
   - vast
   - epic
@@ -35,6 +23,36 @@ ngrams:
 - - began
   - almost
   - everything
+- - go
+  - thou
+  - hence
+- - glossary
+  - itself
+  - go
+- - itself
+  - go
+  - thou
+- - almost
+  - everything
+  - first
+- - speak
+  - like
+  - percy
+- - write
+  - like
+  - percy
+- - am
+  - extremely
+  - pleased
+- - too
+  - can
+  - speak
+- - foreigners
+  - which
+  - means
+- - strange
+  - flowers
+  - which
 story:
   date: 2011-04-19
   id: 2011-04-19-speak-like-percy-grainger
@@ -51,4 +69,4 @@ story:
     \ write vast epic poems akin to those of Charles Montague Doughty, surely Grainger's\
     \ guiding spirit?"
   title: Speak Like Percy Grainger!
-word_count: 145
+word_count: 144

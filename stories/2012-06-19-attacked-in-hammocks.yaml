@@ -2,12 +2,6 @@ ngrams:
 - - insect
   - bites
   - wrists
-- - ernest
-  - holt
-  - quoted
-- - polverinahs
-  - blood-sucking
-  - gnats
 - - starting
   - worst
   - ticks
@@ -23,27 +17,63 @@ ngrams:
 - - swollen
   - paint
   - limbs
-- - carrion-eating
-  - bees
-  - biting
-- - amazonian
-  - expedition
-  - diary
 - - bees
   - biting
   - gnats
 - - sweat
   - bees
   - gnats
+- - encountered
+  - rendering
+  - one's
 - - termites
   - covering
   - everything
-- - blood-sucking
-  - gnats
+- - one's
+  - food
+  - unpalatable
+- - rendering
+  - one's
+  - food
+- - hands
+  - swollen
+  - paint
+- - soaked
+  - since
+  - starting
+- - since
+  - starting
+  - worst
+- - sleep
+  - simply
   - terrible
-- - ground
-  - blood-sucking
+- - rain
+  - during
+  - noon
+- - covering
+  - everything
+  - left
+- - simply
+  - terrible
+  - rain
+- - tiny
   - gnats
+  - nights
+- - terrible
+  - rain
+  - during
+- - sleep
+  - another
+  - sleepless
+- - find
+  - termites
+  - covering
+- - biting
+  - gnats
+  - yet
+- - ever
+  - truly
+  - there's
 story:
   date: 2012-06-19
   id: 2012-06-19-attacked-in-hammocks
@@ -66,4 +96,4 @@ story:
     \ one's own blood.\nfrom the 1920 Amazonian expedition diary of Ernest Holt, quoted\
     \ in The Lost City Of Z by David Grann (2009)"
   title: Attacked In Hammocks
-word_count: 210
+word_count: 207

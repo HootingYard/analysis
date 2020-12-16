@@ -1,10 +1,4 @@
 ngrams:
-- - cousin
-  - lodowicke
-  - muggleton
-- - wood
-  - circa
-  - npg
 - - reject
   - physical
   - science
@@ -17,9 +11,6 @@ ngrams:
 - - william
   - wood
   - circa
-- - muggletonians
-  - banned
-  - hot
 - - english
   - civil
   - war
@@ -29,9 +20,6 @@ ngrams:
 - - andy
   - hopton
   - whose
-- - circa
-  - npg
-  - note
 - - hopton
   - whose
   - essay
@@ -44,6 +32,72 @@ ngrams:
 - - philip
   - noakes
   - came
+- - hot
+  - air
+  - ballooning
+- - banned
+  - hot
+  - air
+- - great
+  - holiday
+  - celebrated
+- - solid
+  - band
+  - around
+- - two
+  - witnesses
+  - referred
+- - february
+  - each
+  - year
+- - pronounce
+  - cursed
+  - through
+- - air
+  - ballooning
+  - because
+- - war
+  - period
+  - only
+- - those
+  - three
+  - days
+- - it's
+  - holiday
+  - time
+- - holiday
+  - time
+  - today
+- - quakers
+  - survived
+  - into
+- - made
+  - them
+  - appear
+- - they
+  - considered
+  - astronomy
+- - science
+  - they
+  - refused
+- - physical
+  - science
+  - they
+- - god
+  - made
+  - them
+- - balloons
+  - would
+  - crash
+- - sects
+  - which
+  - sprang
+- - one
+  - philip
+  - noakes
+- - stars
+  - they
+  - said
 story:
   date: 2012-02-03
   id: 2012-02-03-its-holiday-time
@@ -69,4 +123,4 @@ story:
     \ circa 1674 (NPG)\nNOTE\_: My thanks to Andy Hopton, whose 1988 essay in Small\
     \ Press Gleanings is my source\u2014and was my introduction to the sect."
   title: It's Holiday Time!
-word_count: 273
+word_count: 271

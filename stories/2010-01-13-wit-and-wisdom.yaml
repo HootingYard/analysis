@@ -1,43 +1,64 @@
 ngrams:
-- - joyce
-  - carol
-  - oates
-- - named
-  - idries
-  - shah
-- - mushy
-  - spiritual
-  - writer
 - - late
   - teddy
   - kennedy
-- - writer
-  - named
-  - idries
 - - spiritual
   - writer
   - named
-- - certain
-  - mushy
-  - spiritual
 - - three
   - hundred
   - pounds
 - - great
   - deal
   - harder
-- - idries
-  - shah
-  - these
-- - shah
-  - these
-  - books
 - - three
   - most
   - dispiriting
 - - most
   - dispiriting
   - words
+- - piece
+  - here
+  - lamenting
+- - gore
+  - could
+  - begin
+- - condemned
+  - veal
+  - who
+- - teddy
+  - kennedy
+  - who
+- - pronouncing
+  - them
+  - christopher
+- - them
+  - christopher
+  - hitchens
+- - were
+  - joyce
+  - carol
+- - language
+  - were
+  - joyce
+- - english
+  - language
+  - were
+- - man
+  - has
+  - turned
+- - all
+  - bad
+  - except
+- - great
+  - man
+  - has
+- - been
+  - more
+  - acute
+- - these
+  - books
+  - are
 story:
   date: 2010-01-13
   id: 2010-01-13-wit-and-wisdom
@@ -54,4 +75,4 @@ story:
     \ out of pronouncing them.\u2019\nChristopher Hitchens on Gore Vidal, in a piece\
     \ here lamenting that latterly the great man has turned into a crackpot."
   title: Wit And Wisdom
-word_count: 162
+word_count: 161

@@ -1,19 +1,28 @@
 ngrams:
-- - wond
-  - ring
-  - aloud
 - - giant
   - gas
   - planets
-- - century
-  - western
-  - civilisation
-- - twenty-first
-  - century
-  - western
 - - distant
   - giant
   - gas
+- - gas
+  - planets
+  - probably
+- - far
+  - distant
+  - giant
+- - find
+  - myself
+  - wondering
+- - often
+  - find
+  - myself
+- - those
+  - far
+  - distant
+- - some
+  - inexplicable
+  - agency
 story:
   date: 2010-06-04
   id: 2010-06-04-wondring-aloud
@@ -25,4 +34,4 @@ story:
 
     Probably not.'
   title: Wond'ring Aloud
-word_count: 66
+word_count: 65

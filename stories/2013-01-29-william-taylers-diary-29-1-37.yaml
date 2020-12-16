@@ -5,21 +5,6 @@ ngrams:
 - - rum
   - shrub
   - wine
-- - william
-  - tayler
-  - footman
-- - eleven
-  - o
-  - clock
-- - mouthes
-  - half
-  - open
-- - quite
-  - unconserned
-  - gnawing
-- - people
-  - stood
-  - stareing
 - - country
   - people
   - stood
@@ -35,15 +20,75 @@ ngrams:
 - - very
   - soon
   - recovered
-- - taken
-  - very
-  - sick
-- - couldent
-  - stop
-  - even
 - - dinner
   - here
   - today
+- - taken
+  - very
+  - sick
+- - very
+  - sick
+  - today
+- - caused
+  - her
+  - illness
+- - than
+  - eight
+  - hours
+- - she
+  - actually
+  - spewed
+- - canterbury
+  - she
+  - actually
+- - eating
+  - too
+  - much
+- - she
+  - got
+  - home
+- - gave
+  - her
+  - something
+- - see
+  - her
+  - pumping
+- - drink
+  - every
+  - time
+- - recovered
+  - after
+  - she
+- - stuff
+  - she
+  - very
+- - her
+  - pumping
+  - over
+- - her
+  - sickness
+  - did
+- - after
+  - she
+  - got
+- - she
+  - very
+  - soon
+- - such
+  - stuff
+  - she
+- - time
+  - than
+  - eight
+- - stop
+  - even
+  - then
+- - been
+  - eating
+  - too
+- - her
+  - any
+  - good
 story:
   date: 2013-01-29
   id: 2013-01-29-william-taylers-diary-29-1-37
@@ -67,4 +112,4 @@ story:
     was all the better for it after. It''s eleven o''clock. My fire is out and I am
     off to bed.'
   title: William Tayler's Diary 29.1.37
-word_count: 249
+word_count: 245

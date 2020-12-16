@@ -1,7 +1,7 @@
 ngrams:
-- - yellowish-white
-  - powdery
-  - strands
+- - bram
+  - stoker's
+  - dracula's
 - - nonagenarian
   - russian
   - exile
@@ -32,15 +32,33 @@ ngrams:
 - - impaler
   - fought
   - 'off'
-- - nineteen
-  - years
-  - ago
 - - like
   - bram
-  - stoker
+  - stoker's
 - - scalp
   - like
   - bram
+- - idea
+  - how
+  - strange
+- - dabbler
+  - diary
+  - over
+- - years
+  - ago
+  - written
+- - professional
+  - barber
+  - can
+- - burgess
+  - did
+  - though
+- - 'no'
+  - professional
+  - barber
+- - powdery
+  - strands
+  - were
 story:
   date: 2013-01-18
   id: 2013-01-18-dabbler-diary
@@ -57,4 +75,4 @@ story:
     \ I thought to myself, he has no idea how strange he is. What did he think he\
     \ looked like? He evidently operated on his own head with a pair of garden shears.\n"
   title: Dabbler Diary
-word_count: 170
+word_count: 167

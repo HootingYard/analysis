@@ -1,10 +1,4 @@
 ngrams:
-- - alan
-  - belinda
-  - clive
-- - belinda
-  - clive
-  - dot
 - - david
   - cranmer
   - click
@@ -17,12 +11,30 @@ ngrams:
 - - photograph
   - kindly
   - sent
+- - doesn't
+  - seem
+  - right
 - - name
   - anna
   - pavlova
 - - swan
   - called
   - jack
+- - called
+  - jack
+  - imagine
+- - seem
+  - right
+  - yet
+- - soon
+  - enough
+  - get
+- - could
+  - continue
+  - through
+- - pet
+  - swan
+  - what
 story:
   date: 2012-05-26
   id: 2012-05-26-a-swan-called-jack
@@ -36,4 +48,4 @@ story:
 
     '
   title: A Swan Called Jack
-word_count: 102
+word_count: 100

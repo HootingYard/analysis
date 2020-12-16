@@ -1,19 +1,19 @@
 ngrams:
-- - grate
-  - friend
-  - peason
+- - god's
+  - breath
+  - stank
 - - defunct
   - river
   - gods
+- - river
+  - god's
+  - breath
 - - photographer
   - came
   - calling
 - - stayed
   - perfectly
   - still
-- - old
-  - ma
-  - bittergall
 - - old
   - father
   - nile
@@ -23,18 +23,33 @@ ngrams:
 - - pupil
   - our
   - whole
-- - fifty
-  - years
-  - ago
 - - our
   - whole
   - class
 - - now
   - defunct
   - river
-- - disport
-  - ourselves
+- - where
+  - old
+  - father
+- - day
+  - pupil
+  - our
+- - we
+  - stayed
+  - perfectly
+- - ourselves
   - upon
+  - him
+- - terrible
+  - day
+  - when
+- - picture
+  - this
+  - picture
+- - repose
+  - magazine
+  - at
 story:
   date: 2018-03-11
   id: 2018-03-11-thats-me-in-the-picture
@@ -49,4 +64,4 @@ story:
     \ tot to my left, sitting on the god's shoulder, is my grate friend peason, who\
     \ was uterly wet and a weed.\n"
   title: That's Me In The Picture!
-word_count: 145
+word_count: 140

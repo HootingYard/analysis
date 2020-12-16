@@ -1,19 +1,28 @@
 ngrams:
-- - plum-based
-  - radiophonic
-  - frolics
 - - resonance
   - fm
   - contained
 - - radiophonic
   - frolics
   - listen
-- - completely
-  - non-fruit-related
-  - topic
 - - frolics
   - listen
   - carefully
+- - fm
+  - contained
+  - further
+- - further
+  - plums
+  - yesterday's
+- - plums
+  - yesterday's
+  - hooting
+- - our
+  - christmas
+  - appeal
+- - next
+  - week
+  - until
 story:
   date: 2017-01-20
   id: 2017-01-20-further-plums
@@ -25,4 +34,4 @@ story:
     And don''t forget that the lines are still open for our 2016 Christmas Appeal,
     and will remain open untll 24 December.'
   title: Further Plums
-word_count: 68
+word_count: 66

@@ -2,27 +2,42 @@ ngrams:
 - - warner
   - edith
   - sitwell
-- - aged
-  - dreadlocked
-  - rastafarian
 - - townsend
   - warner
   - edith
+- - aged
+  - dreadlocked
+  - rastafarian
 - - elderly
   - female
   - rastafarians
-- - townsend
-  - warner
-  - attended
 - - dreadlocked
   - rastafarian
   - women
 - - sylvia
   - townsend
   - warner
+- - townsend
+  - warner
+  - attended
 - - sylvia
   - townsend
   - warner
+- - rastafarian
+  - women
+  - calling
+- - young
+  - male
+  - poets
+- - several
+  - aged
+  - dreadlocked
+- - female
+  - rastafarians
+  - though
+- - suppose
+  - rasta
+  - must
 story:
   date: 2014-05-16
   id: 2014-05-16-was-edith-sitwell-a-rastafarian
@@ -35,4 +50,4 @@ story:
     \ to deliver them from their sufferation in Babylon is too splendid to be scuppered\
     \ by foolish matters such as historical truth.\n"
   title: Was Edith Sitwell A Rastafarian?
-word_count: 105
+word_count: 104

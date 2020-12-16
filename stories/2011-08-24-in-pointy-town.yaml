@@ -1,4 +1,7 @@
 ngrams:
+- - town's
+  - genetic
+  - engineers
 - - marsh
   - flats
   - undisturbed
@@ -8,6 +11,9 @@ ngrams:
 - - price
   - paid
   - sometimes
+- - pointy
+  - town's
+  - genetic
 - - toads
   - pointy
   - towners
@@ -20,6 +26,9 @@ ngrams:
 - - dead
   - pointy
   - towner
+- - pointy
+  - pointy
+  - town's
 - - pointy
   - town
   - collecting
@@ -35,6 +44,15 @@ ngrams:
 - - pointy
   - bits
   - though
+- - bits
+  - though
+  - perhaps
+- - knobby
+  - than
+  - pointy
+- - than
+  - pointy
+  - pointy
 story:
   date: 2011-08-24
   id: 2011-08-24-in-pointy-town
@@ -51,4 +69,4 @@ story:
     toad. If and when they succeed, the knobby toads will become worthless as currency
     and will be left to go about their toady business in the marsh flats undisturbed.'
   title: In Pointy Town
-word_count: 149
+word_count: 148

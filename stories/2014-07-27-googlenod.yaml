@@ -1,25 +1,7 @@
 ngrams:
-- - googled
-  - lucas
-  - sudja
-- - lucas
-  - sudja
-  - portends
-- - cow-baiting
-  - irish
-  - maoists
 - - irish
   - maoists
   - indie
-- - fresco
-  - runes
-  - dave
-- - runes
-  - dave
-  - brock
-- - henry
-  - cow-baiting
-  - irish
 - - increasingly
   - preposterous
   - acolytes
@@ -29,9 +11,6 @@ ngrams:
 - - maoists
   - indie
   - band
-- - familiar
-  - lucas
-  - sudja
 - - tangentially
   - familiar
   - lucas
@@ -44,6 +23,72 @@ ngrams:
 - - search
   - engine
   - utterly
+- - somehow
+  - tangentially
+  - familiar
+- - st
+  - century
+  - vacuum
+- - engine
+  - utterly
+  - different
+- - vladimir
+  - nabokov
+  - called
+- - exists
+  - however
+  - faint
+- - century
+  - vacuum
+  - o
+- - man
+  - vladimir
+  - nabokov
+- - material
+  - certainly
+  - make
+- - other
+  - shimmering
+  - phantasms
+- - its
+  - parent
+  - search
+- - now
+  - exists
+  - however
+- - fool's
+  - errand
+  - can
+- - respondents
+  - shared
+  - their
+- - those
+  - replies
+  - where
+- - absolutely
+  - 'no'
+  - idea
+- - shared
+  - their
+  - own
+- - their
+  - own
+  - dreams
+- - archive
+  - cataloguing
+  - all
+- - make
+  - 'no'
+  - attempt
+- - certainly
+  - make
+  - 'no'
+- - idea
+  - who
+  - mr
+- - would
+  - simply
+  - collect
 story:
   date: 2014-07-27
   id: 2014-07-27-googlenod
@@ -67,4 +112,4 @@ story:
     \ not what Lucas Sudja portends. What matters\u2014if any of it matters at all\u2014\
     is that he now exists, however faint and fugitive, because I dreamed him."
   title: GoogleNod
-word_count: 250
+word_count: 247

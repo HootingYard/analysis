@@ -1,13 +1,10 @@
 ngrams:
-- - tis
-  - buck
-  - mulligan
-- - breathe
-  - tis
-  - buck
+- - james
+  - joyce's
+  - ulysses
 - - interpret
   - james
-  - joyce
+  - joyce's
 - - stately
   - plump
   - person
@@ -20,6 +17,18 @@ ngrams:
 - - hardly
   - need
   - reminding
+- - plump
+  - person
+  - why
+- - joyce's
+  - ulysses
+  - through
+- - joyce
+  - himself
+  - always
+- - himself
+  - always
+  - pronounced
 story:
   date: 2013-05-27
   id: 2013-05-27-ulysses
@@ -31,4 +40,4 @@ story:
     \ You hardly need reminding that Joyce himself always pronounced the title of\
     \ his book Oo-liss-iss."
   title: Ulysses
-word_count: 84
+word_count: 83

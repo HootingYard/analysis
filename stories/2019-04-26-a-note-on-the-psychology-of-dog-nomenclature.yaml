@@ -2,24 +2,21 @@ ngrams:
 - - photos
   - getty
   - images
-- - stella
-  - matutina
-  - circa
 - - fox
   - photos
   - getty
 - - final
   - decade
   - contented
-- - lytham
-  - st
-  - annes
 - - paternal
   - grandmother
   - went
-- - called
-  - stella
-  - matutina
+- - towers
+  - there's
+  - enough
+- - there's
+  - enough
+  - material
 - - grandmother
   - went
   - mad
@@ -44,6 +41,39 @@ ngrams:
 - - images
   - more
   - than
+- - all
+  - accounts
+  - possession
+- - more
+  - than
+  - half
+- - enough
+  - material
+  - there
+- - an
+  - entire
+  - conference
+- - this
+  - psychologically
+  - fascinating
+- - an
+  - order
+  - called
+- - find
+  - this
+  - psychologically
+- - by
+  - fox
+  - photos
+- - doorstep
+  - photo
+  - by
+- - photo
+  - by
+  - fox
+- - surrounded
+  - by
+  - nuns
 story:
   date: 2019-04-26
   id: 2019-04-26-a-note-on-the-psychology-of-dog-nomenclature
@@ -63,4 +93,4 @@ story:
     \ the psychiatrist remarked in Fawlty Towers, \u201Cthere's enough material there\
     \ for an entire conference\u201D."
   title: A Note On The Psychology Of Dog Nomenclature
-word_count: 205
+word_count: 203

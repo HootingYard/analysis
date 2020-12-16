@@ -5,21 +5,27 @@ ngrams:
 - - fundraising
   - drive
   - dubbed
+- - drive
+  - dubbed
+  - let's
 - - generously
   - david
   - blunkett
 - - special
   - fundraising
   - drive
-- - objet
-  - de
-  - blunkett
-- - fantastic
-  - objet
-  - de
+- - let's
+  - buy
+  - blunkett's
+- - let's
+  - buy
+  - blunkett's
+- - dubbed
+  - let's
+  - buy
 - - jar
   - containing
-  - blunkett
+  - blunkett's
 - - taken
   - immediate
   - steps
@@ -32,18 +38,72 @@ ngrams:
 - - blunkett
   - brain
   - snugly
-- - drive
-  - dubbed
-  - let
+- - containing
+  - blunkett's
+  - brain
+- - blunkett's
+  - brain
+  - listening
+- - buy
+  - blunkett's
+  - brain
+- - buy
+  - blunkett's
+  - brain
 - - david
   - blunkett
   - brain
+- - blunkett's
+  - brain
+  - please
 - - another
   - outcome
   - entirely
 - - brain
   - please
   - use
+- - our
+  - serious
+  - commitment
+- - demonstrate
+  - our
+  - serious
+- - blunkett
+  - brain
+  - still
+- - brain
+  - still
+  - inside
+- - outcome
+  - entirely
+  - such
+- - think
+  - priority
+  - should
+- - very
+  - same
+  - cow
+- - get
+  - our
+  - hands
+- - still
+  - inside
+  - head
+- - displaying
+  - 'no'
+  - interest
+- - cow
+  - displaying
+  - 'no'
+- - falling
+  - into
+  - cow
+- - threatening
+  - manner
+  - will
+- - into
+  - cow
+  - sleep
 story:
   date: 2009-10-13
   id: 2009-10-13-lets-buy-blunketts-brain
@@ -79,4 +139,4 @@ story:
     We will only find out if we do all in our power to get hold of that brain as soon
     as possible! Join the campaign today, and give as much cash as you can!'
   title: Let's Buy Blunkett's Brain!
-word_count: 293
+word_count: 287

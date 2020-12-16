@@ -1,7 +1,4 @@
 ngrams:
-- - sulphurous
-  - woozy
-  - barbershop
 - - woozy
   - barbershop
   - quartet
@@ -11,6 +8,9 @@ ngrams:
 - - gaping
   - chasms
   - weasels
+- - year's
+  - factual
+  - articles
 - - crunchy
   - credit
   - conditions
@@ -20,9 +20,6 @@ ngrams:
 - - community
   - hub
   - frolicking
-- - kitchen
-  - utensils
-  - frogpersons
 - - ducks
   - gaping
   - chasms
@@ -38,12 +35,126 @@ ngrams:
 - - revolutionary
   - space
   - cadets
+- - million
+  - dollar
+  - goat
 - - weather
   - continue
   - balmy
-- - cut-out
-  - board
-  - game
+- - otherwise
+  - unbridled
+  - jollity
+- - tremendous
+  - novels
+  - according
+- - bees
+  - ducks
+  - gaping
+- - boxes
+  - giraffe
+  - heads
+- - six
+  - million
+  - dollar
+- - cardboard
+  - boxes
+  - giraffe
+- - captain
+  - jarvis
+  - topples
+- - necessary
+  - using
+  - bags
+- - christmas
+  - annual
+  - due
+- - captain
+  - jarvis
+  - recalls
+- - waves
+  - captain
+  - jarvis
+- - single
+  - annual
+  - containing
+- - classic
+  - pig
+  - paragraph
+- - polar
+  - tragedy
+  - called
+- - captain
+  - jarvis
+  - character
+- - air
+  - balloon
+  - piloted
+- - pig
+  - paragraph
+  - add
+- - annual
+  - containing
+  - three
+- - picture
+  - categories
+  - year
+- - pressed
+  - flat
+  - against
+- - same
+  - picture
+  - categories
+- - bitter
+  - blow
+  - indeed
+- - story
+  - captain
+  - jarvis
+- - year's
+  - story
+  - captain
+- - hot
+  - air
+  - balloon
+- - snow
+  - substitute
+  - should
+- - annuals
+  - every
+  - christmas
+- - called
+  - captain
+  - jarvis
+- - tragedy
+  - called
+  - captain
+- - every
+  - christmas
+  - eve
+- - bedtime
+  - story
+  - nor
+- - otherwise
+  - last
+  - year's
+- - every
+  - single
+  - annual
+- - last
+  - year's
+  - story
+- - expected
+  - many
+  - pictures
+- - year
+  - every
+  - single
+- - categories
+  - year
+  - after
+- - promised
+  - such
+  - gems
 story:
   date: 2008-12-23
   id: 2008-12-23-pebbleheads-christmas-annual
@@ -80,4 +191,4 @@ story:
     \ quiz and the cut-out board game and the coating of scum upon the dust jacket,\
     \ and it is clear we shall all be bereft at this time of otherwise unbridled jollity."
   title: Pebblehead's Christmas Annual
-word_count: 429
+word_count: 420

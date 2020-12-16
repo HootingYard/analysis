@@ -8,9 +8,21 @@ ngrams:
 - - inky
   - bulletin
   - kak
+- - kak
+  - '''s'
+  - newly
 - - newly
   - acquired
   - accent
+- - '''s'
+  - newly
+  - acquired
+- - today's
+  - inky
+  - bulletin
+- - kak
+  - '''s'
+  - claim
 - - goes
   - unmentioned
   - triangle
@@ -44,6 +56,108 @@ ngrams:
 - - kak
   - kak
   - himself
+- - kak
+  - meanwhile
+  - having
+- - meanwhile
+  - having
+  - clambered
+- - further
+  - turn
+  - according
+- - bulletin
+  - kak
+  - might
+- - unease
+  - dunga
+  - may
+- - kak
+  - might
+  - claim
+- - note
+  - first
+  - kak
+- - years
+  - ago
+  - crouch
+- - immediate
+  - note
+  - first
+- - even
+  - mere
+  - blob
+- - should
+  - mark
+  - well
+- - done
+  - before
+  - drawing
+- - further
+  - work
+  - must
+- - says
+  - kaka
+  - now
+- - three
+  - years
+  - since
+- - three
+  - years
+  - ago
+- - dunga
+  - may
+  - also
+- - dunga
+  - even
+  - without
+- - uneasy
+  - how
+  - much
+- - perhaps
+  - even
+  - mere
+- - kak
+  - has
+  - gained
+- - kaka
+  - now
+  - things
+- - course
+  - three
+  - years
+- - little
+  - over
+  - three
+- - over
+  - three
+  - years
+- - wondering
+  - what
+  - happened
+- - then
+  - dunga
+  - even
+- - first
+  - kak
+  - has
+- - gravity
+  - they
+  - deserve
+- - do
+  - our
+  - best
+- - having
+  - clambered
+  - into
+- - would
+  - i'll
+  - warrant
+- - thrust
+  - upon
+  - him
+- - coming
+  - weeks
+  - we
 story:
   date: 2010-06-08
   id: 2010-06-08-kaka-dunga
@@ -77,4 +191,4 @@ story:
     \ will no doubt be further developments in the coming weeks. We must do our best\
     \ to keep abreast of them, and treat them with the gravity they deserve."
   title: "Kak\xE1, Dunga"
-word_count: 427
+word_count: 424

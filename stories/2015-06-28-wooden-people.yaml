@@ -1,13 +1,19 @@
 ngrams:
-- - actor
-  - jim
-  - broadbent
 - - royal
   - festival
   - hall
 - - festival
   - hall
   - snapped
+- - people
+  - people
+  - carved
+- - wooden
+  - people
+  - people
+- - people
+  - carved
+  - out
 story:
   date: 2015-06-28
   id: 2015-06-28-wooden-people

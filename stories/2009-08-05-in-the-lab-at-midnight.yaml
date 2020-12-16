@@ -1,19 +1,22 @@
 ngrams:
+- - man's
+  - manifold
+  - robots
 - - corrosive
   - chemical
   - compound
 - - abandoned
   - quarry
   - pecked
+- - grunty
+  - man's
+  - manifold
 - - coddington
   - lenses
   - neither
 - - caraway
   - seeds
   - making
-- - unauthorised
-  - personnel
-  - read
 - - read
   - standard
   - lettering
@@ -32,6 +35,9 @@ ngrams:
 - - hairy
   - man
   - clearly
+- - robot's
+  - innards
+  - than
 - - foolish
   - man
   - nor
@@ -41,9 +47,183 @@ ngrams:
 - - lab
   - janitor
   - could
-- - well-trained
-  - eye
+- - janitor
   - could
+  - stop
+- - foolish
+  - man
+  - made
+- - hairy
+  - its
+  - brain
+- - rebellious
+  - curmudgeon
+  - who
+- - curmudgeon
+  - who
+  - spat
+- - seeds
+  - making
+  - him
+- - making
+  - him
+  - drop
+- - has
+  - destroyed
+  - itself
+- - confess
+  - their
+  - ineptitude
+- - ended
+  - up
+  - tethered
+- - robot
+  - their
+  - robot
+- - their
+  - robot
+  - scattered
+- - hidden
+  - them
+  - days
+- - foolish
+  - man
+  - could
+- - eye
+  - could
+  - see
+- - clearly
+  - understood
+  - what
+- - 'no'
+  - credit
+  - both
+- - them
+  - days
+  - ago
+- - plucked
+  - out
+  - half
+- - seen
+  - what
+  - happened
+- - man
+  - 'no'
+  - credit
+- - hairy
+  - man
+  - 'no'
+- - hairiness
+  - would
+  - match
+- - door
+  - they
+  - snapped
+- - ran
+  - away
+  - into
+- - coddington
+  - lenses
+  - which
+- - stop
+  - them
+  - now
+- - lab
+  - so
+  - terrified
+- - scavenger
+  - birds
+  - there
+- - corrugated
+  - cardboard
+  - which
+- - could
+  - stop
+  - them
+- - they
+  - ran
+  - away
+- - saw
+  - what
+  - only
+- - law
+  - even
+  - when
+- - sink
+  - under
+  - which
+- - an
+  - exact
+  - replica
+- - question
+  - ever
+  - they
+- - an
+  - abandoned
+  - quarry
+- - will
+  - begin
+  - now
+- - innards
+  - than
+  - they
+- - one
+  - o
+  - clock
+- - had
+  - absolute
+  - trust
+- - its
+  - hairiness
+  - would
+- - took
+  - one
+  - glance
+- - had
+  - already
+  - prepared
+- - haplessness
+  - about
+  - their
+- - were
+  - 'no'
+  - nearer
+- - about
+  - their
+  - mucking
+- - their
+  - mucking
+  - about
+- - lenses
+  - which
+  - did
+- - an
+  - hairy
+  - man
+- - mopping
+  - up
+  - will
+- - an
+  - foolish
+  - man
+- - would
+  - pelt
+  - him
+- - would
+  - muffle
+  - him
+- - up
+  - will
+  - begin
+- - its
+  - brain
+  - would
+- - were
+  - mucking
+  - about
+- - an
+  - hour
+  - before
 story:
   date: 2009-08-05
   id: 2009-08-05-in-the-lab-at-midnight
@@ -90,4 +270,4 @@ story:
     \ been as unstable as all his other robots, and has destroyed itself. The mopping\
     \ up will begin now.\u201D"
   title: In The Lab At Midnight
-word_count: 605
+word_count: 603

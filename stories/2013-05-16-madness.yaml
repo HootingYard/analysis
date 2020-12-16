@@ -1,34 +1,46 @@
 ngrams:
-- - wily
-  - ska-infused
-  - codes
-- - bestseller
-  - page-turning
-  - thriller
 - - ms
   - flynn
   - puts
-- - paperback
-  - bestseller
-  - page-turning
-- - blockbusting
-  - paperback
-  - bestseller
-- - blockbusting
-  - paperback
-  - bestseller
 - - bestseller
   - gone
   - girl
 - - paperback
   - bestseller
   - gone
-- - page-turning
-  - thriller
-  - kind
-- - currently
+- - words
+  - ms
+  - flynn
+- - awful
+  - clunk
+  - until
+- - circumstances
+  - ever
+  - say
+- - clunk
+  - until
+  - now
+- - any
+  - circumstances
+  - ever
+- - am
+  - currently
   - reading
-  - blockbusting
+- - decipher
+  - their
+  - wily
+- - am
+  - much
+  - enjoying
+- - own
+  - freedom
+  - if
+- - freedom
+  - if
+  - only
+- - can
+  - decipher
+  - their
 story:
   date: 2013-05-16
   id: 2013-05-16-madness
@@ -42,4 +54,4 @@ story:
     \ freedom, if only I can decipher their wily, ska-infused codes.\u201D\nI shall\
     \ be looking for opportunities to say this as often as possible in future."
   title: Madness
-word_count: 121
+word_count: 119

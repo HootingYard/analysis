@@ -1,13 +1,7 @@
 ngrams:
-- - ooze
-  - belike
-  - tis
 - - dread
   - allure
   - abides
-- - weedy
-  - asthmatic
-  - fey
 - - divan
   - feeling
   - faintly
@@ -23,27 +17,66 @@ ngrams:
 - - harbour
   - deadly
   - spite
-- - faintly
-  - ill
-  - beerpint
 - - trembling
   - poet
   - dennis
-- - latest
-  - slim
-  - volume
 - - curse
   - men
   - loathed
+- - latest
+  - slim
+  - volume
 - - risk
   - fell
   - footsteps
-- - belike
+- - weird
+  - tales
+  - magazine
+- - allure
+  - abides
+  - within
+- - peril
+  - sure
   - tis
-  - 'true'
-- - poet
-  - dennis
-  - beerpint
+- - deadly
+  - spite
+  - against
+- - evil
+  - things
+  - lurk
+- - loathsome
+  - muck
+  - without
+- - swamp
+  - still
+  - brews
+- - sure
+  - tis
+  - told
+- - still
+  - brews
+  - within
+- - 'true'
+  - these
+  - bones
+- - men
+  - loathed
+  - before
+- - now
+  - harbour
+  - deadly
+- - tales
+  - magazine
+  - where
+- - its
+  - bubbling
+  - depths
+- - fleshly
+  - form
+  - now
+- - form
+  - now
+  - harbour
 story:
   date: 2011-04-21
   id: 2011-04-21-swamp-demons
@@ -64,4 +97,4 @@ story:
     \ swamp still brews\nWithin its bubbling depths the curse men loathed\nBefore\
     \ they turned to leprous Things of Night!"
   title: Swamp Demons
-word_count: 209
+word_count: 208

@@ -1,37 +1,22 @@
 ngrams:
-- - glub
-  - glub
-  - glub-glub
-- - baxter
-  - benevolent
-  - despot
-- - glub
-  - glub
-  - glub
-- - glub
-  - glub
-  - glub
-- - glub
-  - glub
-  - glub
-- - half-liquid
-  - bubbling
-  - noise
 - - ed
   - baxter
   - benevolent
+- - glub
+  - glub
+  - glub
+- - glub
+  - glub
+  - glub
+- - glub
+  - glub
+  - glub
 - - bubbling
   - noise
   - glub
 - - noise
   - glub
   - glub
-- - providence
-  - rhode
-  - island
-- - recorded
-  - answerphone
-  - message
 - - annotated
   - h
   - p
@@ -41,9 +26,54 @@ ngrams:
 - - splendid
   - scholarly
   - edition
+- - s
+  - glub
+  - glub
+- - inarticulate
+  - unintelligible
+  - word
+- - early
+  - s
+  - glub
+- - someone
+  - trying
+  - under
+- - new
+  - annotated
+  - h
+- - under
+  - great
+  - difficulties
+- - very
+  - faint
+  - suspicion
+- - trying
+  - under
+  - great
+- - telephone
+  - call
+  - just
+- - sleepily
+  - took
+  - down
+- - just
+  - before
+  - midnight
+- - call
+  - just
+  - before
 - - glub
-  - glub-glub
-  - note
+  - glub
+  - which
+- - an
+  - odd
+  - suggestion
+- - an
+  - addendum
+  - among
+- - informative
+  - footnotes
+  - but
 story:
   date: 2014-12-26
   id: 2014-12-26-glub-glub-glub

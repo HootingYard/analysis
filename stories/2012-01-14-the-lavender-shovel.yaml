@@ -2,36 +2,18 @@ ngrams:
 - - embers
   - adelaide
   - dripped
-- - lavender
-  - adelaide
-  - recorked
 - - adelaide
   - dripped
   - liquid
-- - recognisable
-  - squeaking
-  - drag
 - - red
   - embers
   - adelaide
 - - burned
   - red
   - embers
-- - forced
-  - open
-  - melanie
 - - curiosity
   - forced
   - open
-- - full
-  - sighing
-  - plop
-- - sighing
-  - plop
-  - heard
-- - light
-  - struck
-  - melanie
 - - small
   - green
   - bottle
@@ -44,6 +26,66 @@ ngrams:
 - - heavy
   - steps
   - came
+- - while
+  - lizzie
+  - walked
+- - saw
+  - lizzie
+  - come
+- - lizzie
+  - come
+  - past
+- - now
+  - curiosity
+  - forced
+- - lavender
+  - shovel
+  - she
+- - her
+  - couch
+  - holding
+- - room
+  - now
+  - curiosity
+- - plop
+  - heard
+  - her
+- - shovel
+  - she
+  - heard
+- - she
+  - saw
+  - lizzie
+- - past
+  - her
+  - couch
+- - heard
+  - her
+  - draw
+- - her
+  - hand
+  - lizzie
+- - open
+  - her
+  - eyes
+- - she
+  - again
+  - passed
+- - their
+  - mahogany
+  - rod
+- - heard
+  - her
+  - come
+- - come
+  - past
+  - her
+- - her
+  - draw
+  - back
+- - before
+  - her
+  - waving
 story:
   date: 2012-01-14
   id: 2012-01-14-the-lavender-shovel
@@ -66,4 +108,4 @@ story:
     from Marghanita Laski, The Victorian Chaise-Longue (1953)\nI want a lavender shovel.\
     \ A lavender shoveller would be handy too."
   title: The Lavender Shovel!
-word_count: 244
+word_count: 238

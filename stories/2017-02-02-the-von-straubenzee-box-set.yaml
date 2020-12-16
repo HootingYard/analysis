@@ -1,7 +1,4 @@
 ngrams:
-- - oint
-  - elvish
-  - shins
 - - wafer
   - morse
   - code
@@ -14,15 +11,18 @@ ngrams:
 - - blubber
   - elves
   - darting
-- - dim
-  - dim
-  - boisterous
 - - boisterous
   - blips
   - devil
+- - dim
+  - dim
+  - boisterous
 - - petula
   - clark
   - elves
+- - require
+  - ointment
+  - that's
 - - dim
   - dim
   - dim
@@ -38,12 +38,72 @@ ngrams:
 - - mean
   - feat
   - cox
-- - island
-  - lake
-  - towelled
 - - blubber
   - island
   - lake
+- - wearing
+  - drainpipe
+  - trousers
+- - drainage
+  - ditch
+  - ah
+- - ditch
+  - ah
+  - drainage
+- - shrikes
+  - blue
+  - boat
+- - clark
+  - elves
+  - eggs
+- - blue
+  - tail
+  - fly
+- - blubbery
+  - sky
+  - threatens
+- - wrought
+  - better
+  - drainage
+- - god
+  - pan
+  - wrought
+- - ointment
+  - that's
+  - right
+- - pan
+  - wrought
+  - better
+- - centuries
+  - past
+  - dim
+- - soup
+  - odd
+  - sound
+- - past
+  - dim
+  - dim
+- - send
+  - water
+  - pouring
+- - lozenge
+  - given
+  - shrikes
+- - hacking
+  - cough
+  - given
+- - sky
+  - threatens
+  - rain
+- - drainage
+  - under
+  - blubber
+- - elves
+  - eggs
+  - oh
+- - unseen
+  - because
+  - unreported
 story:
   date: 2017-02-02
   id: 2017-02-02-the-von-straubenzee-box-set
@@ -68,4 +128,4 @@ story:
     \ centuries past!\nDim, dim, dim. Boisterous blips. Devil take the blue tail fly.\
     \ These are the words of Piffleboy."
   title: The Von Straubenzee Box Set
-word_count: 283
+word_count: 282

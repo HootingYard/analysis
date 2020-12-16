@@ -8,12 +8,6 @@ ngrams:
 - - risk
   - assessment
   - protocols
-- - tsars
-  - risk
-  - rapporteurs
-- - champions
-  - risk
-  - adjudicators
 - - rapporteurs
   - risk
   - champions
@@ -21,17 +15,11 @@ ngrams:
   - lack
   - robustness
 - - risk
-  - tsars
-  - risk
-- - risk
   - rapporteurs
   - risk
 - - risk
   - champions
   - risk
-- - pointyhead
-  - produce
-  - evidence
 - - mean
   - airhead
   - closure
@@ -41,9 +29,42 @@ ngrams:
 - - mean
   - real
   - closure
+- - don't
+  - mean
+  - airhead
 - - arch
   - file
   - mr
+- - key
+  - set
+  - fire
+- - closure
+  - shutting
+  - down
+- - our
+  - risk
+  - assessment
+- - transparency
+  - mr
+  - key
+- - theology
+  - mr
+  - key
+- - file
+  - mr
+  - key
+- - rights
+  - mr
+  - key
+- - mr
+  - key
+  - demanded
+- - mr
+  - key
+  - learned
+- - mr
+  - key
+  - asked
 story:
   date: 2009-02-13
   id: 2009-02-13-pointyhead-closure
@@ -63,4 +84,4 @@ story:
     \ theology.\nMr Key set fire to the cupboard and pushed the pointyhead into a\
     \ pond.\_"
   title: Pointyhead Closure
-word_count: 184
+word_count: 182

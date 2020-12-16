@@ -1,22 +1,10 @@
 ngrams:
-- - first-edition
-  - burke
-  - coleridge
 - - shelley
   - coleridge
   - distracted
 - - ann
   - radcliffe
   - sought
-- - lilliputian
-  - rabbits
-  - etc
-- - robert
-  - southey
-  - experimented
-- - etc
-  - henry
-  - fuseli
 - - eating
   - frog
   - fricassee
@@ -26,24 +14,66 @@ ngrams:
 - - rabbits
   - etc
   - henry
-- - henry
-  - fuseli
-  - ate
 - - gas
   - ann
   - radcliffe
 - - laughing
   - gas
   - ann
+- - quincey
+  - john
+  - keats
 - - dreams
-  - robert
-  - southey
-- - mrs
-  - leigh
-  - hunt
-- - visions
+  - lamb
+  - spoke
+- - thomas
+  - de
+  - quincey
+- - splendid
+  - dreams
+  - lamb
+- - obtain
+  - splendid
+  - dreams
+- - de
+  - quincey
+  - john
+- - dream
+  - forgot
+  - part
+- - storm
+  - reverberated
+  - across
+- - terrible
+  - night
+  - visions
+- - night
+  - visions
   - mrs
-  - leigh
+- - read
+  - poetry
+  - badly
+- - three
+  - possible
+  - lives
+- - fog
+  - read
+  - poetry
+- - paper
+  - while
+  - transcribing
+- - reinforce
+  - her
+  - terrible
+- - own
+  - mother
+  - through
+- - her
+  - terrible
+  - night
+- - stabbed
+  - her
+  - own
 story:
   date: 2018-04-06
   id: 2018-04-06-lilliputian-rabbits-etc

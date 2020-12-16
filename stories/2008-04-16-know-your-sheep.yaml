@@ -1,13 +1,19 @@
 ngrams:
-- - animal
-  - paul
-  - heiney
 - - confused
   - animal
   - paul
-- - die
-  - 'no'
-  - truer
+- - ever
+  - spoken
+  - about
+- - were
+  - ever
+  - spoken
+- - know
+  - your
+  - sheep
+- - words
+  - were
+  - ever
 story:
   date: 2008-04-16
   id: 2008-04-16-know-your-sheep
@@ -16,4 +22,4 @@ story:
     \ spoken about this nervous and confused animal.\u201D\u2014Paul Heiney in today's\
     \ Times"
   title: Know Your Sheep
-word_count: 45
+word_count: 44

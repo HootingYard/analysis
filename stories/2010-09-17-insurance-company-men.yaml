@@ -2,12 +2,18 @@ ngrams:
 - - eastern
   - united
   - states
-- - super
-  - soaraway
-  - dabbler
 - - insurance
   - company
   - men
+- - company
+  - men
+  - over
+- - contains
+  - some
+  - notes
+- - cupboard
+  - contains
+  - some
 story:
   date: 2010-09-17
   id: 2010-09-17-insurance-company-men

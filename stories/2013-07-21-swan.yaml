@@ -1,19 +1,10 @@
 ngrams:
-- - patients
-  - nursing
-  - swan-broken
 - - uncharacteristic
   - violent
   - frenzy
-- - nursing
-  - swan-broken
-  - arms
 - - unnecessarily
   - injected
   - actually
-- - neck
-  - dr
-  - swanfracture
 - - graceful
   - neck
   - dr
@@ -23,9 +14,6 @@ ngrams:
 - - later
   - convalescing
   - shattered
-- - called
-  - dr
-  - swanfracture
 - - sat
   - several
   - patients
@@ -44,6 +32,144 @@ ngrams:
 - - hairy
   - hands
   - around
+- - canal
+  - water
+  - later
+- - canal
+  - gliding
+  - through
+- - lunatic
+  - asylums
+  - before
+- - those
+  - curious
+  - coincidences
+- - indeed
+  - come
+  - undone
+- - such
+  - uncharacteristic
+  - violent
+- - wring
+  - its
+  - graceful
+- - its
+  - graceful
+  - neck
+- - heard
+  - such
+  - poppycock
+- - where
+  - sat
+  - several
+- - many
+  - years
+  - passed
+- - physician
+  - who
+  - tended
+- - hat
+  - many
+  - years
+- - first
+  - such
+  - patient
+- - been
+  - unnecessarily
+  - injected
+- - can
+  - come
+  - undone
+- - did
+  - indeed
+  - come
+- - never
+  - heard
+  - such
+- - reflections
+  - were
+  - unhappy
+- - undone
+  - when
+  - faced
+- - uncomfortable
+  - truth
+  - about
+- - were
+  - unhappy
+  - ones
+- - swans
+  - were
+  - placid
+- - drain
+  - when
+  - eventually
+- - unhappy
+  - ones
+  - if
+- - canal
+  - when
+  - suddenly
+- - canal
+  - swans
+  - were
+- - ones
+  - if
+  - dr
+- - enlightened
+  - me
+  - regarding
+- - their
+  - senses
+  - through
+- - truth
+  - about
+  - himself
+- - come
+  - undone
+  - when
+- - man
+  - can
+  - come
+- - old
+  - canal
+  - when
+- - canal
+  - are
+  - known
+- - placid
+  - then
+  - what
+- - an
+  - alpine
+  - balcony
+- - an
+  - uncomfortable
+  - truth
+- - were
+  - placid
+  - then
+- - ornithologist
+  - this
+  - saintly
+- - this
+  - saintly
+  - chap
+- - studies
+  - had
+  - shown
+- - had
+  - already
+  - returned
+- - swan
+  - had
+  - already
+- - violent
+  - frenzy
+  - or
+- - who
+  - enlightened
+  - me
 story:
   date: 2013-07-21
   id: 2013-07-21-swan
@@ -82,4 +208,4 @@ story:
     \ it and wrung it, having stridden into the canalside clinic and through his waiting-room,\
     \ where sat several patients nursing swan-broken arms."
   title: Swan
-word_count: 462
+word_count: 461

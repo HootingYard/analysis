@@ -1,16 +1,4 @@
 ngrams:
-- - pleadingly
-  - sophonisba
-  - gullsbeak
-- - namesake
-  - sophonisba
-  - peale
-- - high-definition
-  - photographic
-  - enlargements
-- - sophonisba
-  - peale
-  - daughter
 - - scientist
   - inventor
   - politician
@@ -20,30 +8,114 @@ ngrams:
 - - singer
   - gladys
   - knight
-- - obtain
-  - high-definition
-  - photographic
 - - painter
   - soldier
   - scientist
-- - yours
-  - pleadingly
-  - sophonisba
-- - charles
-  - willson
-  - peale
-- - naturalist
-  - charles
-  - willson
 - - american
   - painter
   - soldier
-- - sophonisba
-  - gullsbeak
-  - miss
 - - named
   - raphael
   - rembrandt
+- - soul
+  - singer
+  - gladys
+- - brothers
+  - named
+  - raphael
+- - accompanied
+  - soul
+  - singer
+- - possible
+  - yours
+  - pleadingly
+- - popular
+  - music
+  - nomenclature
+- - crucially
+  - important
+  - information
+- - three
+  - brothers
+  - named
+- - important
+  - publishing
+  - house
+- - cannot
+  - help
+  - wondering
+- - sorry
+  - specimen
+  - indeed
+- - note
+  - certain
+  - striking
+- - goes
+  - without
+  - saying
+- - important
+  - information
+  - given
+- - dear
+  - mr
+  - key
+- - young
+  - persons
+  - might
+- - legendary
+  - pips
+  - who
+- - pips
+  - who
+  - accompanied
+- - rubens
+  - do
+  - let
+- - who
+  - accompanied
+  - soul
+- - has
+  - proved
+  - beyond
+- - persons
+  - might
+  - say
+- - then
+  - compare
+  - these
+- - gladys
+  - knight
+  - were
+- - knight
+  - were
+  - eked
+- - been
+  - going
+  - swimmingly
+- - blues
+  - nomenclature
+  - out
+- - immensely
+  - grateful
+  - if
+- - references
+  - if
+  - possible
+- - dictionary
+  - will
+  - expect
+- - if
+  - possible
+  - yours
+- - help
+  - wondering
+  - if
+- - will
+  - expect
+  - chapter
+- - specimen
+  - indeed
+  - if
 story:
   date: 2015-01-20
   id: 2015-01-20-the-pips
@@ -73,4 +145,4 @@ story:
     \ Peale (1741\u20131827) have three brothers named Raphael, Rembrandt, and Rubens.\
     \ Do let me know."
   title: The Pips
-word_count: 319
+word_count: 318

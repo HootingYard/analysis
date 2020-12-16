@@ -1,31 +1,31 @@
 ngrams:
 - - heronry
   - census
-  - noddy
+  - noddy's
 - - twig
   - elspeth
   - miscounted
-- - tape-damaged
-  - elspeth
-  - drops
 - - stunned
   - nightingales
   - plummet
-- - hetty
-  - wears
-  - night-vision
 - - clairvoyant
   - hetty
   - wears
 - - bicycle
   - stunned
   - nightingales
-- - wears
-  - night-vision
-  - goggles
+- - soil
+  - ne'er
+  - smelled
 - - vinegar
   - dusks
   - tug
+- - census
+  - noddy's
+  - cap
+- - noddy's
+  - cap
+  - snagged
 - - shabby
   - soap
   - opera
@@ -38,12 +38,90 @@ ngrams:
 - - distant
   - carpathians
   - shimmer
-- - ne
-  - er
-  - smelled
+- - child's
+  - toffee
+  - apple
+- - harken
+  - child
+  - harken
 - - heronry
   - count
   - pips
+- - child
+  - harken
+  - elspeth
+- - bucket
+  - incoherent
+  - gibberish
+- - slop
+  - bucket
+  - incoherent
+- - toffee
+  - apple
+  - lies
+- - empty
+  - grate
+  - blunkett
+- - memory
+  - wolves
+  - circled
+- - hubert
+  - dear
+  - hubert
+- - final
+  - heronry
+  - count
+- - watch
+  - blunkett
+  - weeping
+- - grate
+  - blunkett
+  - seemed
+- - child
+  - preens
+  - near
+- - distant
+  - memory
+  - wolves
+- - using
+  - tally
+  - sticks
+- - lovely
+  - gunshots
+  - breakfast
+- - land
+  - soil
+  - ne'er
+- - hubert
+  - oh
+  - hubert
+- - plastic
+  - betrayals
+  - oh
+- - iron
+  - nostrums
+  - oh
+- - hubert
+  - word
+  - comes
+- - dear
+  - hubert
+  - word
+- - blunkett
+  - weeping
+  - again
+- - herons
+  - again
+  - using
+- - again
+  - using
+  - tally
+- - hubert
+  - silly
+  - old
+- - silly
+  - old
+  - hubert
 story:
   date: 2016-03-08
   id: 2016-03-08-these-plastic-betrayals
@@ -74,4 +152,4 @@ story:
     \ gibberish from first to last.\u201D And\u2014pffft!\u2014it is swept away and\
     \ gone."
   title: These Plastic Betrayals
-word_count: 335
+word_count: 330

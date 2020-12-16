@@ -1,13 +1,19 @@
 ngrams:
+- - orwell's
+  - worst
+  - nightmare
+- - orwell's
+  - nightmare
+  - george
 - - nightmare
   - george
-  - orwell
+  - orwell's
+- - george
+  - orwell's
+  - worst
 - - worst
   - nightmare
   - see
-- - nightmare
-  - see
-  - here
 story:
   date: 2012-08-16
   id: 2012-08-16-orwells-nightmare
@@ -16,4 +22,4 @@ story:
 
     (See here for clarification.)'
   title: Orwell's Nightmare
-word_count: 12
+word_count: 10

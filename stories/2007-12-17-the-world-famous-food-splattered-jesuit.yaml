@@ -1,22 +1,19 @@
 ngrams:
-- - world-famous
-  - food-splattered
-  - jesuit
 - - attract
   - art
   - prices
-- - pen
-  - pencil
-  - tippex
+- - drawings
+  - i'm
+  - hoping
 - - original
   - pen
   - pencil
 - - auction
   - single
   - drawings
-- - means
-  - post
-  - anonymously
+- - haven't
+  - yet
+  - decided
 - - yet
   - decided
   - whether
@@ -29,21 +26,45 @@ ngrams:
 - - appeared
   - long
   - ago
-- - haven
-  - t
-  - yet
 - - hooting
   - yard
   - calendars
-- - t
-  - yet
-  - decided
 - - hooting
   - yard
   - calendar
-- - successful
-  - bidders
+- - sales
+  - will
+  - attract
+- - will
+  - attract
+  - art
+- - more
+  - hooting
+  - yard
+- - all
+  - means
+  - post
+- - picture
+  - which
+  - appeared
+- - so
+  - wish
+  - oh
+- - harebrained
+  - scheme
+  - an
+- - scheme
+  - an
+  - expression
+- - even
   - if
+  - that's
+- - this
+  - harebrained
+  - scheme
+- - which
+  - appeared
+  - long
 story:
   date: 2007-12-17
   id: 2007-12-17-the-world-famous-food-splattered-jesuit
@@ -61,4 +82,4 @@ story:
     \ to auction single drawings or a whole calendar's artwork as a set, so you might\
     \ want to suggest a preference."
   title: The World-Famous Food-Splattered Jesuit
-word_count: 185
+word_count: 179

@@ -1,49 +1,109 @@
 ngrams:
-- - murder
-  - co-producer
-  - welchman
 - - thrills
   - authentic
   - photo
-- - environs
-  - searching
-  - desperately
-- - auvers-sur-oise
-  - gendarmerie
-  - archives
-- - procedural
-  - crime
-  - thriller
 - - tiresome
   - twaddle
   - exuded
-- - co-producer
-  - welchman
-  - points
 - - unbelievably
   - tiresome
   - twaddle
-- - live
-  - ongoing
-  - enquiry
-- - vincent
-  - van
-  - gogh
-- - vincent
-  - van
-  - gogh
 - - recreate
   - vincent
   - van
-- - various
-  - gendarmes
-  - scrabbling
 - - artists
   - apparently
   - lack
 - - british
   - artists
   - apparently
+- - young
+  - polish
+  - artists
+- - film
+  - loving
+  - vincent
+- - young
+  - british
+  - artists
+- - film
+  - young
+  - british
+- - question
+  - whether
+  - van
+- - crime
+  - thriller
+  - though
+- - painting
+  - well
+  - fine
+- - artists
+  - being
+  - recruited
+- - polish
+  - artists
+  - being
+- - make
+  - conceptual
+  - art
+- - painting
+  - first
+  - minor
+- - very
+  - fine
+  - painters
+- - first
+  - minor
+  - things
+- - police
+  - never
+  - found
+- - minor
+  - things
+  - like
+- - students
+  - learned
+  - some
+- - said
+  - police
+  - never
+- - some
+  - old
+  - ways
+- - about
+  - young
+  - polish
+- - loving
+  - vincent
+  - will
+- - learned
+  - some
+  - old
+- - things
+  - like
+  - how
+- - some
+  - very
+  - fine
+- - help
+  - if
+  - students
+- - what
+  - really
+  - got
+- - if
+  - students
+  - learned
+- - vincent
+  - will
+  - question
+- - because
+  - what
+  - really
+- - will
+  - question
+  - whether
 story:
   date: 2014-03-18
   id: 2014-03-18-a-shot-in-the-dark
@@ -70,4 +130,4 @@ story:
     \ thriller, though it might be fairly low on thrills.\n\nAuthentic photo of Vincent\
     \ Van Gogh from the Auvers-sur-Oise Gendarmerie Archives"
   title: A Shot In The Dark
-word_count: 286
+word_count: 282

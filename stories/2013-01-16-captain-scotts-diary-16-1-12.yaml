@@ -5,9 +5,12 @@ ngrams:
 - - robert
   - falcon
   - scott
-- - march
-  - bowers
-  - sharp
+- - height
+  - t
+  - '-'
+- - camp
+  - height
+  - t
 - - sledge
   - bearer
   - near
@@ -26,9 +29,6 @@ ngrams:
 - - speck
   - ahead
   - soon
-- - bowers
-  - sharp
-  - eyes
 - - sharp
   - eyes
   - detected
@@ -41,9 +41,48 @@ ngrams:
 - - ski
   - tracks
   - going
-- - height
-  - t
-  - '-'
+- - loyal
+  - companions
+  - many
+- - sight
+  - showed
+  - us
+- - dogs
+  - paws
+  - many
+- - paws
+  - many
+  - dogs
+- - companions
+  - many
+  - thoughts
+- - many
+  - thoughts
+  - come
+- - then
+  - hasten
+  - home
+- - worst
+  - has
+  - happened
+- - am
+  - very
+  - sorry
+- - eyes
+  - detected
+  - what
+- - worst
+  - we
+  - marched
+- - feature
+  - we
+  - marched
+- - snow
+  - feature
+  - we
+- - ahead
+  - soon
+  - we
 story:
   date: 2013-01-16
   id: 2013-01-16-captain-scotts-diary-16-1-12
@@ -64,4 +103,4 @@ story:
     \ hasten home with all the speed we can compass. All the day-dreams must go; it\
     \ will be a wearisome return."
   title: Captain Scott's Diary 16.1.12
-word_count: 225
+word_count: 224

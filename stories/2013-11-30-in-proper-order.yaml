@@ -1,28 +1,40 @@
 ngrams:
-- - spectator
-  - christopher
-  - howse
 - - silver
   - whittling
   - knife
 - - french
   - silver
   - whittling
-- - christopher
-  - howse
-  - notes
 - - rectangular
   - green
   - french
 - - material
   - purpose
   - noun
-- - colour
-  - origin
-  - material
 - - origin
   - material
   - purpose
+- - green
+  - french
+  - silver
+- - slightest
+  - you'll
+  - sound
+- - opinion
+  - size
+  - age
+- - order
+  - opinion
+  - size
+- - size
+  - age
+  - shape
+- - proper
+  - order
+  - reviewing
+- - english
+  - adjectives
+  - go
 story:
   date: 2013-11-30
   id: 2013-11-30-in-proper-order
@@ -35,4 +47,4 @@ story:
     \ mastered by all native speakers; to see it made explicit is an enjoyable revelation,\
     \ like learning to carry a tray on the flat of your hand."
   title: In Proper Order
-word_count: 104
+word_count: 103

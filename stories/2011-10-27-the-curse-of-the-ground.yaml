@@ -2,21 +2,15 @@ ngrams:
 - - orderly
   - smiling
   - serene
-- - whither
-  - pilgrims
-  - wend
 - - dread
   - peril
   - lest
-- - praise
-  - j
-  - baldwin
 - - baldwin
   - brown
   - misread
-- - beauty
-  - whither
-  - pilgrims
+- - praise
+  - j
+  - baldwin
 - - j
   - baldwin
   - brown
@@ -26,9 +20,6 @@ ngrams:
 - - hollows
   - below
   - breathe
-- - mountain
-  - beauty
-  - whither
 - - swept
   - vast
   - floods
@@ -44,6 +35,66 @@ ngrams:
 - - around
   - huge
   - beds
+- - thick
+  - around
+  - huge
+- - most
+  - sacred
+  - shrine
+- - whole
+  - structure
+  - must
+- - most
+  - splendid
+  - forests
+- - burning
+  - lava
+  - over
+- - peril
+  - lest
+  - like
+- - fill
+  - its
+  - orbit
+- - those
+  - whose
+  - eye
+- - its
+  - whole
+  - structure
+- - lies
+  - now
+  - under
+- - eye
+  - can
+  - pierce
+- - some
+  - lost
+  - planet
+- - has
+  - brought
+  - forth
+- - whose
+  - eye
+  - can
+- - loving
+  - hand
+  - has
+- - hand
+  - has
+  - helped
+- - some
+  - great
+  - agony
+- - some
+  - sure
+  - hand
+- - sure
+  - hand
+  - has
+- - shattered
+  - into
+  - fragments
 story:
   date: 2011-10-27
   id: 2011-10-27-the-curse-of-the-ground
@@ -68,4 +119,4 @@ story:
 
     J Baldwin Brown, Misread Passages Of Scripture (1869)'
   title: The Curse Of The Ground
-word_count: 264
+word_count: 262

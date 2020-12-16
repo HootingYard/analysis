@@ -1,10 +1,4 @@
 ngrams:
-- - outposts
-  - sweated
-  - gin-and-tonic
-- - tropical
-  - outposts
-  - sweated
 - - purposeless
   - spiritual
   - decline
@@ -20,6 +14,24 @@ ngrams:
 - - men
   - wore
   - hats
+- - decline
+  - thus
+  - brit
+- - everything
+  - that's
+  - happened
+- - spiritual
+  - decline
+  - thus
+- - that's
+  - happened
+  - since
+- - our
+  - purposeless
+  - spiritual
+- - station
+  - before
+  - alighting
 story:
   date: 2010-09-01
   id: 2010-09-01-77-words
@@ -32,4 +44,4 @@ story:
     \ to the Guardian website, has been unmistakeably symptomatic of our purposeless\
     \ spiritual decline.\u201D\nThus Brit, over at The Dabbler."
   title: 77 Words
-word_count: 92
+word_count: 91

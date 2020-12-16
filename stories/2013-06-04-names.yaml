@@ -1,13 +1,7 @@
 ngrams:
-- - silas
-  - tompkin
-  - comberbache
 - - dreadfully
   - troublesome
   - eruptions
-- - pseudonym
-  - silas
-  - tompkin
 - - sores
   - dreadfully
   - troublesome
@@ -23,9 +17,12 @@ ngrams:
 - - pal
   - samuel
   - taylor
-- - walter
-  - thornbury
-  - remind
+- - sarah
+  - burton's
+  - biography
+- - lamb's
+  - relatives
+  - lived
 - - attempts
   - ended
   - frequently
@@ -44,6 +41,57 @@ ngrams:
 - - names
   - mentioned
   - therein
+- - charles
+  - lamb
+  - used
+- - cottage
+  - called
+  - splendidly
+- - stump
+  - both
+  - sarah
+- - both
+  - sarah
+  - burton
+- - called
+  - splendidly
+  - button
+- - life
+  - sarah
+  - burton's
+- - double
+  - life
+  - sarah
+- - equally
+  - intriguing
+  - name
+- - thrown
+  - three
+  - times
+- - two
+  - incongruous
+  - signs
+- - myself
+  - gone
+  - however
+- - incongruous
+  - signs
+  - over
+- - where
+  - charles
+  - lamb
+- - cat
+  - where
+  - charles
+- - site
+  - now
+  - vanished
+- - others
+  - who
+  - pointed
+- - 'no'
+  - small
+  - perturbation
 story:
   date: 2013-06-04
   id: 2013-06-04-names
@@ -68,4 +116,4 @@ story:
     \ link to the site in the comments. Thanks to Dave Lull and others who pointed\
     \ out my error."
   title: Names
-word_count: 255
+word_count: 252

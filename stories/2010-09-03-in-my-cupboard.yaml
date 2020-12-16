@@ -1,7 +1,4 @@
 ngrams:
-- - barendina
-  - smedley
-  - asks
 - - social
   - cohesion
   - hub
@@ -11,27 +8,45 @@ ngrams:
 - - imminent
   - papal
   - visit
-- - neighbourhood
-  - frolic
-  - n
-- - dabbler
-  - barendina
-  - smedley
+- - musically
+  - inclined
+  - reader
 - - frolic
   - n
   - learning
 - - n
   - learning
   - zone
-- - musically
-  - inclined
-  - reader
 - - official
   - events
   - during
 - - door
   - alas
   - addendum
+- - chanted
+  - lugubriously
+  - perhaps
+- - yard
+  - pontiff
+  - mnemonic
+- - being
+  - chanted
+  - lugubriously
+- - inclined
+  - reader
+  - might
+- - hooting
+  - yard
+  - pontiff
+- - reader
+  - might
+  - wish
+- - vatican
+  - nuncio
+  - has
+- - nuncio
+  - has
+  - beaten
 story:
   date: 2010-09-03
   id: 2010-09-03-in-my-cupboard
@@ -46,4 +61,4 @@ story:
     \ going to set this as plainsong?\u201D and imagines it being chanted lugubriously.\
     \ Perhaps a musically inclined reader might wish to take up her suggestion\u2026"
   title: In My Cupboard
-word_count: 135
+word_count: 134

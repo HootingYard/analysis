@@ -1,37 +1,16 @@
 ngrams:
-- - shovelmen
-  - kiters
-  - branglers
-- - tappers
-  - shovelmen
-  - kiters
-- - tally-stick
-  - tappers
-  - shovelmen
 - - curly
   - kale
   - juice
 - - teenage
   - tearaway
   - mothers
-- - kinds
-  - tally-stick
-  - tappers
 - - council
   - officials
   - obliterate
-- - computer-readable
-  - boot
-  - health-check
 - - feral
   - teenage
   - tearaway
-- - vision
-  - lamplighters
-  - bootblacks
-- - ordinary
-  - cobbler
-  - bound
 - - complimentary
   - plastic
   - beaker
@@ -44,6 +23,150 @@ ngrams:
 - - scenes
   - feral
   - teenage
+- - modern
+  - visionaries
+  - ply
+- - bright
+  - sunlit
+  - upland
+- - n
+  - curly
+  - kale
+- - parallel
+  - universe
+  - speech
+- - modern
+  - plastic
+  - logos
+- - weird
+  - parallel
+  - universe
+- - labour
+  - party
+  - conference
+- - n
+  - seeds
+  - n
+- - officials
+  - obliterate
+  - every
+- - night
+  - soil
+  - men
+- - new
+  - slick
+  - hairstyle
+- - party
+  - conference
+  - last
+- - new
+  - modern
+  - technician
+- - new
+  - modern
+  - technicians
+- - new
+  - modern
+  - technicians
+- - two
+  - fewer
+  - gaping
+- - new
+  - modern
+  - visionaries
+- - next
+  - door
+  - onwards
+- - old
+  - crumpled
+  - beige
+- - brand
+  - new
+  - kiosk
+- - new
+  - modern
+  - plastic
+- - kiosk
+  - next
+  - door
+- - trades
+  - while
+  - behind
+- - conference
+  - last
+  - week
+- - found
+  - myself
+  - chewing
+- - sunlit
+  - upland
+  - our
+- - upland
+  - our
+  - leader
+- - our
+  - leader
+  - described
+- - obliterate
+  - every
+  - last
+- - every
+  - last
+  - scrap
+- - new
+  - kiosk
+  - next
+- - those
+  - whose
+  - boots
+- - myself
+  - chewing
+  - over
+- - am
+  - blissfully
+  - happy
+- - own
+  - eyes
+  - down
+- - modern
+  - technicians
+  - who
+- - doing
+  - things
+  - now
+- - ply
+  - their
+  - trades
+- - visionaries
+  - ply
+  - their
+- - same
+  - 'no'
+  - ordinary
+- - boots
+  - were
+  - broken
+- - their
+  - trades
+  - while
+- - take
+  - their
+  - boots
+- - whose
+  - boots
+  - were
+- - swept
+  - away
+  - their
+- - mined
+  - so
+  - profitably
+- - tearaway
+  - mothers
+  - are
+- - gibberish
+  - mined
+  - so
 story:
   date: 2009-10-04
   id: 2009-10-04-technicians-and-visionaries
@@ -83,4 +206,4 @@ story:
     \ juice from the brand new kiosk next door.\nOnwards and upwards with the new\
     \ modern technicians and the visionary cobblers!"
   title: Technicians And Visionaries
-word_count: 457
+word_count: 454

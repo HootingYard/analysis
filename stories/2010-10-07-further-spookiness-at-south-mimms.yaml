@@ -1,37 +1,19 @@
 ngrams:
-- - hallows
-  - e
-  - en
-- - hallows
-  - e
-  - en
 - - ghost
   - circle
   - overcoming
-- - neighbouring
-  - clock
-  - striking
 - - clock
   - striking
   - midnight
 - - circle
   - learned
   - subsequently
-- - elliott
-  - o
-  - donnell
-- - e
-  - en
-  - certain
 - - pigs
   - gleaming
   - white
 - - certain
   - reluctance
   - ran
-- - en
-  - certain
-  - members
 - - phantom
   - pig
   - spotting
@@ -44,6 +26,75 @@ ngrams:
 - - south
   - mimms
   - further
+- - pig
+  - spotting
+  - club
+- - came
+  - perfectly
+  - noiselessly
+- - club
+  - should
+  - convene
+- - spotting
+  - club
+  - should
+- - yard
+  - phantom
+  - pig
+- - usual
+  - arriving
+  - first
+- - pigs
+  - trotting
+  - down
+- - hooting
+  - yard
+  - phantom
+- - circle
+  - seen
+  - such
+- - seen
+  - such
+  - pigs
+- - afforded
+  - 'no'
+  - cover
+- - road
+  - towards
+  - them
+- - towards
+  - them
+  - road
+- - south
+  - mimms
+  - what
+- - about
+  - south
+  - mimms
+- - circle
+  - were
+  - invited
+- - ghost
+  - circle
+  - were
+- - south
+  - mimms
+  - all
+- - striking
+  - midnight
+  - they
+- - mimms
+  - all
+  - turned
+- - pigs
+  - they
+  - seemed
+- - icy
+  - air
+  - there
+- - they
+  - came
+  - perfectly
 story:
   date: 2010-10-07
   id: 2010-10-07-further-spookiness-at-south-mimms
@@ -67,4 +118,4 @@ story:
     \ Club should convene at that cross-roads in South Mimms. Be there or be square,\
     \ as the hepcats used to say, half a century ago, daddy-o!"
   title: Further Spookiness At South Mimms
-word_count: 263
+word_count: 260

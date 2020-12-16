@@ -1,16 +1,10 @@
 ngrams:
-- - sturm
-  - und
-  - drang
 - - edgar
   - allan
   - poe
 - - ipsy
   - dipsy
   - doo
-- - snow-capped
-  - alpine
-  - peaks
 - - arthur
   - gordon
   - pym
@@ -44,6 +38,183 @@ ngrams:
 - - unutterably
   - blindingly
   - white
+- - alpine
+  - peaks
+  - white
+- - lie
+  - sprawled
+  - exhausted
+- - childhood
+  - bedtime
+  - story
+- - reading
+  - poe's
+  - novel
+- - always
+  - falling
+  - asleep
+- - blinding
+  - clarity
+  - because
+- - kept
+  - several
+  - geese
+- - read
+  - childish
+  - comics
+- - falling
+  - asleep
+  - came
+- - read
+  - arthur
+  - gordon
+- - parents
+  - kept
+  - several
+- - bedtime
+  - story
+  - perhaps
+- - dared
+  - say
+  - boo
+- - because
+  - god
+  - knows
+- - gordon
+  - pym
+  - after
+- - read
+  - anything
+  - else
+- - story
+  - often
+  - enough
+- - before
+  - tackling
+  - burgess
+- - remember
+  - because
+  - god
+- - anything
+  - else
+  - ever
+- - balconies
+  - among
+  - these
+- - among
+  - these
+  - patients
+- - poe's
+  - novel
+  - over
+- - sanatorium
+  - where
+  - tubercular
+- - where
+  - tubercular
+  - patients
+- - every
+  - single
+  - night
+- - just
+  - reading
+  - poe's
+- - these
+  - models
+  - myself
+- - childish
+  - comics
+  - like
+- - else
+  - ever
+  - again
+- - never
+  - quite
+  - recall
+- - made
+  - these
+  - models
+- - never
+  - read
+  - anything
+- - never
+  - dared
+  - say
+- - again
+  - just
+  - reading
+- - pauper
+  - who
+  - steals
+- - who
+  - closely
+  - resembles
+- - walrus
+  - moustache
+  - who
+- - moustache
+  - who
+  - closely
+- - never
+  - said
+  - boo
+- - ever
+  - again
+  - just
+- - grew
+  - up
+  - listening
+- - these
+  - patients
+  - who
+- - too
+  - grew
+  - up
+- - frankly
+  - they
+  - terrified
+- - can
+  - never
+  - quite
+- - up
+  - listening
+  - over
+- - so
+  - unutterably
+  - blindingly
+- - violent
+  - thunderstorms
+  - which
+- - peaks
+  - white
+  - so
+- - white
+  - so
+  - unutterably
+- - white
+  - so
+  - white
+- - me
+  - every
+  - single
+- - which
+  - rather
+  - obviates
+- - bookshelf
+  - which
+  - rather
+- - an
+  - unlettered
+  - tot
+- - asleep
+  - came
+  - so
+- - came
+  - so
+  - easily
+- - so
+  - easily
+  - because
 story:
   date: 2017-08-06
   id: 2017-08-06-the-pauper-and-the-princeling-and-the-pea
@@ -89,4 +260,4 @@ story:
     \ I train my binoculars upon the snow-capped Alpine peaks, white, so white, so\
     \ unutterably, blindingly white."
   title: The Pauper And The Princeling And The Pea
-word_count: 582
+word_count: 580

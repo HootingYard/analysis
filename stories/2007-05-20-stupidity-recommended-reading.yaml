@@ -1,19 +1,28 @@
 ngrams:
-- - menschlichen
-  - dummheit
-  - max
-- - dummheit
-  - max
-  - kemmerich
-- - wenfeld
-  - aus
-  - der
-- - aus
-  - der
-  - geschichte
-- - geschichte
-  - der
-  - menschlichen
+- - james
+  - welles
+  - references
+- - stupidity
+  - carlo
+  - m
+- - stupidity
+  - james
+  - welles
+- - walter
+  - b
+  - pitkin
+- - understanding
+  - stupidity
+  - james
+- - stupidity
+  - walter
+  - b
+- - human
+  - stupidity
+  - carlo
+- - human
+  - stupidity
+  - walter
 story:
   date: 2007-05-20
   id: 2007-05-20-stupidity-recommended-reading
@@ -24,4 +33,4 @@ story:
     \ Welles (1986)\nReferences to these titles can be found in the invaluable The\
     \ Power of Stupidity, an essay (with handy diagram) by Giancarlo Livraghi."
   title: "Stupidity\_: Recommended Reading"
-word_count: 69
+word_count: 68

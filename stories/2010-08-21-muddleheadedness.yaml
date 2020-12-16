@@ -1,13 +1,4 @@
 ngrams:
-- - gross
-  - norman
-  - levitt
-- - norman
-  - levitt
-  - higher
-- - levitt
-  - higher
-  - superstition
 - - r
   - gross
   - norman
@@ -17,6 +8,24 @@ ngrams:
 - - compassion
   - clouds
   - whatever
+- - clouds
+  - whatever
+  - insights
+- - history
+  - paul
+  - r
+- - human
+  - history
+  - paul
+- - our
+  - compassion
+  - clouds
+- - blunts
+  - our
+  - wisdom
+- - potent
+  - than
+  - malevolence
 story:
   date: 2010-08-21
   id: 2010-08-21-muddleheadedness

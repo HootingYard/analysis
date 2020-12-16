@@ -1,13 +1,19 @@
 ngrams:
-- - elsa
-  - von
-  - freytag-loringhoven
-- - git
-  - damien
-  - hirst
 - - am
   - snippy
   - about
+- - snippy
+  - about
+  - that
+- - today
+  - i
+  - sing
+- - dabbler
+  - today
+  - i
+- - and
+  - am
+  - snippy
 story:
   date: 2014-05-02
   id: 2014-05-02-elsa

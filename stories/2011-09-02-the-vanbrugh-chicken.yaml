@@ -29,6 +29,24 @@ ngrams:
 - - vanbrugh
   - chicken
   - white
+- - sir
+  - john
+  - vanbrugh
+- - sir
+  - john
+  - vanbrugh
+- - sir
+  - john
+  - vanbrugh
+- - historical
+  - sir
+  - john
+- - real
+  - historical
+  - sir
+- - wide
+  - awake
+  - now
 story:
   date: 2011-09-02
   id: 2011-09-02-the-vanbrugh-chicken
@@ -43,4 +61,4 @@ story:
     \ for tidy sums.\nWide awake now, I can still see a Vanbrugh chicken, white with\
     \ a red crop, in my mind's eye.\n"
   title: The Vanbrugh Chicken
-word_count: 130
+word_count: 128

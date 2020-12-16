@@ -8,6 +8,12 @@ ngrams:
 - - day
   - she
   - showed
+- - she
+  - showed
+  - me
+- - she
+  - took
+  - me
 story:
   date: 2009-01-16
   id: 2009-01-16-from-the-original-flemish
@@ -15,4 +21,4 @@ story:
     threw my breakfast into a pond. I banged my head against a barge the day she showed
     me the canal.
   title: From The Original Flemish
-word_count: 41
+word_count: 40

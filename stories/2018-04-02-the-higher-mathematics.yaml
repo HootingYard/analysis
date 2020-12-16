@@ -1,10 +1,4 @@
 ngrams:
-- - semiconductor
-  - heterostructures
-  - feshbach
-- - heterostructures
-  - feshbach
-  - resonances
 - - molecular
   - integral
   - evaluation
@@ -17,21 +11,6 @@ ngrams:
 - - reactive
   - scattering
   - laser
-- - benard
-  - systems
-  - codimension-two
-- - systems
-  - codimension-two
-  - bifurcations
-- - polarisation
-  - phenomena
-  - canonical
-- - phenomena
-  - canonical
-  - quantization
-- - bosonic
-  - systems
-  - phase
 - - stratified
   - media
   - singular
@@ -44,6 +23,78 @@ ngrams:
 - - scattering
   - laser
   - excited
+- - media
+  - singular
+  - interaction
+- - bookshelf
+  - structure
+  - quantum
+- - ordinary
+  - differential
+  - operators
+- - functions
+  - quantum
+  - states
+- - stochastic
+  - wave
+  - functions
+- - hyperfunction
+  - data
+  - polar
+- - wave
+  - functions
+  - quantum
+- - singular
+  - interaction
+  - problems
+- - laser
+  - excited
+  - wave
+- - boundary
+  - value
+  - problems
+- - parameters
+  - sharp
+  - regularity
+- - sharp
+  - regularity
+  - estimates
+- - data
+  - polar
+  - materials
+- - derivative
+  - problem
+  - instability
+- - problem
+  - instability
+  - modes
+- - basic
+  - boundary
+  - value
+- - evaluation
+  - material
+  - tensors
+- - chap
+  - norman
+  - davies
+- - oblique
+  - derivative
+  - problem
+- - integral
+  - evaluation
+  - material
+- - excited
+  - wave
+  - packets
+- - hodge
+  - theory
+  - elliptic
+- - theory
+  - elliptic
+  - complexes
+- - diffraction
+  - theory
+  - molecular
 story:
   date: 2018-04-02
   id: 2018-04-02-the-higher-mathematics
@@ -75,4 +126,4 @@ story:
     \ about the mechanical fragility of smectic bookshelf structure. Perhaps you've\
     \ already noticed it. I know I have."
   title: The Higher Mathematics
-word_count: 260
+word_count: 258

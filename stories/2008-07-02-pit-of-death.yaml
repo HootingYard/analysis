@@ -1,10 +1,4 @@
 ngrams:
-- - brine
-  - shrimp
-  - lethality
-- - shrimp
-  - lethality
-  - tests
 - - pits
   - viper
   - pits
@@ -14,6 +8,21 @@ ngrams:
 - - bottomless
   - pits
   - viper
+- - features
+  - green
+  - slimy
+- - correspondent
+  - recently
+  - sent
+- - death
+  - attentive
+  - readers
+- - also
+  - features
+  - green
+- - green
+  - slimy
+  - things
 story:
   date: 2008-07-02
   id: 2008-07-02-pit-of-death

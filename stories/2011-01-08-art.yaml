@@ -1,7 +1,4 @@
 ngrams:
-- - potter
-  - sculptor
-  - emphasising
 - - amateurs
   - tirelessly
   - plying
@@ -11,12 +8,6 @@ ngrams:
 - - unknown
   - amateurs
   - tirelessly
-- - coast
-  - bailiwick
-  - saatchi
-- - charles
-  - saatchi
-  - imprimatur
 - - garfunkel
   - singer
   - poet
@@ -29,21 +20,72 @@ ngrams:
 - - cheque
   - immediately
   - ah
-- - bailiwick
-  - saatchi
-  - ought
-- - days
-  - marvellously
-  - enlivening
-- - seven
-  - days
-  - marvellously
 - - latest
   - project
   - thus
-- - own
+- - mr
+  - garfunkel
+  - singer
+- - far
+  - seven
+  - signs
+- - little
+  - south
+  - coast
+- - project
+  - thus
+  - far
+- - thus
+  - far
+  - seven
+- - very
+  - probably
+  - 'true'
+- - brighter
+  - more
+  - sensible
+- - also
+  - very
+  - probably
+- - art
+  - nor
+  - even
+- - anyone
+  - who
+  - describes
+- - addendum
+  - some
+  - readers
+- - some
+  - readers
+  - seeing
+- - who
+  - describes
+  - themselves
+- - plying
+  - their
+  - crafts
+- - tirelessly
+  - plying
+  - their
+- - more
+  - sensible
+  - world
+- - sensible
+  - world
+  - some
+- - their
+  - own
   - lonely
-  - furrows
+- - heading
+  - art
+  - will
+- - public
+  - gaze
+  - would
+- - actually
+  - an
+  - idiot
 story:
   date: 2011-01-08
   id: 2011-01-08-art
@@ -66,4 +108,4 @@ story:
     \ and polymath. But according to his own website, he is known not as \u201CArt\u201D\
     , nor even as \u201CMr Garfunkel\u201D, but as \u201CThe G\u201D."
   title: Art
-word_count: 241
+word_count: 237

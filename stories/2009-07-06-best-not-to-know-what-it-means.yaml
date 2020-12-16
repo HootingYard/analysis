@@ -1,13 +1,19 @@
 ngrams:
-- - malcolm
-  - mclaren
-  - worrisome
-- - tearful
-  - malcolm
-  - mclaren
-- - mclaren
-  - worrisome
+- - means
+  - last
+  - night
+- - an
+  - art
+  - installation
+- - created
+  - an
+  - art
+- - worrisome
   - indeed
+  - but
+- - 'on'
+  - this
+  - occasion
 story:
   date: 2009-07-06
   id: 2009-07-06-best-not-to-know-what-it-means

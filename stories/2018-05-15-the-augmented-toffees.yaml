@@ -1,13 +1,19 @@
 ngrams:
-- - toffees
-  - malachi
-  - whitaker
-- - augmented
-  - toffees
-  - malachi
 - - four
   - sweets
   - than
+- - patients
+  - smile
+  - more
+- - only
+  - wonder
+  - why
+- - appreciate
+  - 'no'
+  - it's
+- - can
+  - only
+  - wonder
 story:
   date: 2018-05-15
   id: 2018-05-15-the-augmented-toffees
@@ -17,4 +23,4 @@ story:
 
     Malachi Whitaker, And So Did I (1939)'
   title: The Augmented Toffees
-word_count: 46
+word_count: 43

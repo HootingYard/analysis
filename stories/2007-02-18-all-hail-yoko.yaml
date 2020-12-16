@@ -5,15 +5,30 @@ ngrams:
 - - south
   - west
   - pacific
+- - yoko
+  - ono's
+  - th
+- - ono's
+  - th
+  - birthday
+- - baxter's
+  - terrible
+  - fluid
 - - mrs
   - gubbins
   - dallied
 - - blister
   - lane
   - bypass
+- - it's
+  - yoko
+  - ono's
 - - lane
   - bypass
   - sitting
+- - hail
+  - yoko
+  - today
 - - near
   - blister
   - lane
@@ -23,12 +38,9 @@ ngrams:
 - - field
   - near
   - blister
-- - hail
-  - yoko
-  - today
-- - th
-  - birthday
-  - just
+- - yoko's
+  - lawyer
+  - set
 story:
   date: 2007-02-18
   id: 2007-02-18-all-hail-yoko
@@ -46,4 +58,4 @@ story:
 
     '
   title: All Hail Yoko!
-word_count: 121
+word_count: 117

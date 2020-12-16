@@ -14,12 +14,12 @@ ngrams:
 - - hare
   - recipes
   - jugged
-- - grim
-  - forge
-  - fettling
 - - retired
   - blacksmiths
   - bim
+- - grim
+  - forge
+  - fettling
 - - figures
   - retired
   - blacksmiths
@@ -29,9 +29,6 @@ ngrams:
 - - random
   - grim
   - forges
-- - grey
-  - drayhorses
-  - lined
 - - sales
   - figures
   - retired
@@ -41,9 +38,195 @@ ngrams:
 - - random
   - grim
   - forge
-- - grey
-  - drayhorses
-  - formed
+- - waiting
+  - patiently
+  - patiently
+- - slab
+  - beaten
+  - flat
+- - iron
+  - slab
+  - beaten
+- - entitled
+  - retired
+  - blacksmiths
+- - triple
+  - biography
+  - entitled
+- - affair
+  - bam
+  - taking
+- - biography
+  - entitled
+  - retired
+- - writes
+  - tim
+  - thurn
+- - rustic
+  - scene
+  - redolent
+- - lane
+  - waiting
+  - patiently
+- - formed
+  - outside
+  - awaiting
+- - blacksmiths
+  - oh
+  - glorious
+- - retired
+  - blacksmiths
+  - oh
+- - sarcastic
+  - it's
+  - hard
+- - three
+  - retired
+  - blacksmiths
+- - forge
+  - also
+  - fettling
+- - page
+  - however
+  - suggests
+- - grim
+  - forge
+  - also
+- - contents
+  - page
+  - however
+- - key
+  - writes
+  - tim
+- - thumping
+  - great
+  - triple
+- - great
+  - triple
+  - biography
+- - book
+  - clang
+  - clang
+- - spills
+  - aplenty
+  - still
+- - great
+  - iron
+  - slab
+- - great
+  - help
+  - filling
+- - having
+  - already
+  - appeared
+- - tale
+  - well
+  - worth
+- - next
+  - forge
+  - along
+- - few
+  - tools
+  - set
+- - oh
+  - glorious
+  - mr
+- - cracking
+  - good
+  - read
+- - sell
+  - our
+  - grandmother's
+- - glorious
+  - mr
+  - key
+- - our
+  - grandmother's
+  - bones
+- - again
+  - almost
+  - word
+- - sun
+  - beats
+  - down
+- - mr
+  - key
+  - writes
+- - where
+  - newly
+  - retired
+- - book
+  - having
+  - already
+- - yet
+  - read
+  - beyond
+- - beaten
+  - flat
+  - upon
+- - even
+  - finished
+  - reading
+- - those
+  - great
+  - grey
+- - any
+  - further
+  - information
+- - point
+  - where
+  - newly
+- - sold
+  - more
+  - copies
+- - time
+  - whole
+  - swathes
+- - already
+  - sold
+  - more
+- - retired
+  - blacksmiths
+  - has
+- - has
+  - recently
+  - published
+- - has
+  - already
+  - sold
+- - combing
+  - their
+  - manes
+- - brushing
+  - their
+  - fetlocks
+- - retired
+  - blacksmiths
+  - their
+- - blacksmiths
+  - their
+  - doings
+- - horses
+  - combing
+  - their
+- - dreams
+  - their
+  - pangs
+- - awaiting
+  - their
+  - bright
+- - doings
+  - their
+  - dreams
+- - outside
+  - awaiting
+  - their
+- - then
+  - again
+  - almost
+- - completely
+  - forgot
+  - what
 story:
   date: 2011-01-20
   id: 2011-01-20-retired-blacksmiths
@@ -93,4 +276,4 @@ story:
     \ return to the book, and tell you what more I learn about the three retired blacksmiths,\
     \ their doings, their dreams, their pangs, and their dotage."
   title: Retired Blacksmiths!
-word_count: 621
+word_count: 615

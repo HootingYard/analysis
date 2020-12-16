@@ -2,18 +2,9 @@ ngrams:
 - - west
   - african
   - rainforest
-- - bradley
-  - paid
-  - barrs
-- - figures
-  - bradley
-  - paid
-- - local
-  - figures
-  - bradley
-- - whole
-  - negotiations
-  - cost
+- - britain's
+  - convict
+  - disaster
 - - iron
   - bars
   - worth
@@ -26,24 +17,75 @@ ngrams:
 - - small
   - iron
   - bars
-- - also
-  - required
-  - payment
 - - requisite
   - key
   - keeper
 - - key
   - keeper
   - singing
+- - also
+  - required
+  - payment
 - - five
   - shillings
   - each
-- - negotiations
-  - cost
-  - much
 - - keeper
   - singing
   - man
+- - two
+  - key
+  - keepers
+- - purchase
+  - some
+  - goods
+- - far
+  - more
+  - merchandise
+- - buying
+  - far
+  - more
+- - who
+  - also
+  - required
+- - cost
+  - much
+  - more
+- - more
+  - merchandise
+  - than
+- - singing
+  - man
+  - who
+- - would
+  - proudly
+  - announce
+- - henry
+  - would
+  - proudly
+- - into
+  - buying
+  - far
+- - brother
+  - henry
+  - would
+- - been
+  - purchased
+  - only
+- - man
+  - who
+  - also
+- - much
+  - more
+  - than
+- - buying
+  - an
+  - island
+- - crown
+  - had
+  - descended
+- - government
+  - had
+  - abandoned
 story:
   date: 2011-11-28
   id: 2011-11-28-buying-an-island
@@ -67,4 +109,4 @@ story:
     \ abandoned the plan.\nfrom Emma Christopher, A Merciless Place\_: The Lost Story\
     \ Of Britain's Convict Disaster In Africa (2011)"
   title: Buying An Island
-word_count: 238
+word_count: 235

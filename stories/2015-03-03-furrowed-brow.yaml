@@ -26,9 +26,6 @@ ngrams:
 - - brow
   - 'yes'
   - 'yes'
-- - key
-  - peering
-  - myopically
 - - classic
   - reference
   - work
@@ -44,6 +41,39 @@ ngrams:
 - - beloved
   - mr
   - key
+- - mr
+  - key
+  - peering
+- - room
+  - every
+  - once
+- - doesn't
+  - work
+  - just
+- - its
+  - mixcloud
+  - page
+- - work
+  - just
+  - search
+- - hooting
+  - yard
+  - shows
+- - hooting
+  - yard
+  - mental
+- - being
+  - back
+  - soon
+- - imagine
+  - your
+  - beloved
+- - currently
+  - online
+  - if
+- - your
+  - beloved
+  - mr
 story:
   date: 2015-03-03
   id: 2015-03-03-furrowed-brow
@@ -63,4 +93,4 @@ story:
     \ main page.) That should keep you occupied for the time being.\nBack soon, with\
     \ unfurrowed brow."
   title: Furrowed Brow
-word_count: 205
+word_count: 203

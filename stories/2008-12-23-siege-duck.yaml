@@ -2,12 +2,18 @@ ngrams:
 - - webster
   - kindly
   - alerted
-- - glyn
-  - webster
-  - kindly
 - - siege
   - duck
-  - glyn
+  - next
+- - duck
+  - next
+  - time
+- - your
+  - pals
+  - need
+- - kindly
+  - alerted
+  - me
 story:
   date: 2008-12-23
   id: 2008-12-23-siege-duck
@@ -18,4 +24,4 @@ story:
     Glyn Webster kindly alerted me to this contraption, which appears on Rudy Rucker''s
     blog.'
   title: Siege Duck
-word_count: 41
+word_count: 40

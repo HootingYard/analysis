@@ -1,40 +1,58 @@
 ngrams:
-- - grammatists
-  - sophists
-  - wranglers
-- - philosophers
-  - physicians
-  - mathematicians
-- - idiots
-  - grammatists
-  - sophists
-- - magnet
-  - magnetick
-  - bodies
-- - create
-  - literary
-  - broils
 - - folk
   - william
   - gilbert
-- - learned
-  - idiots
-  - grammatists
 - - arts
   - learned
   - idiots
+- - william
+  - gilbert's
+  - question
 - - either
   - already
   - sworn
-- - add
-  - aught
-  - further
-- - magnetick
-  - bodies
-  - also
 - - things
   - hitherto
   - unrevealed
+- - good
+  - arts
+  - learned
+- - perverse
+  - little
+  - folk
+- - little
+  - folk
+  - william
+- - very
+  - foolish
+  - productions
+- - learning
+  - why
+  - should
+- - many
+  - things
+  - hitherto
+- - puffed
+  - up
+  - rave
+- - noble
+  - philosophy
+  - which
+- - studious
+  - men
+  - are
+- - men
+  - are
+  - intoxicated
+- - philosophy
+  - which
+  - seems
+- - men
+  - are
+  - troubled
+- - are
+  - either
+  - already
 story:
   date: 2011-12-10
   id: 2011-12-10-william-gilberts-question
@@ -52,4 +70,4 @@ story:
     William Gilbert, On the magnet, magnetick bodies also, and on the great magnet
     the earth (1600)'
   title: William Gilbert's Question
-word_count: 148
+word_count: 147

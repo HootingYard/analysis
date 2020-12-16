@@ -2,30 +2,12 @@ ngrams:
 - - childish
   - naive
   - callow
-- - correctly
-  - blockbusting
-  - potboilerist
-- - french
-  - jeune
-  - jejune
-- - thin
-  - meagre
-  - unsatisfying
-- - internationally
-  - successful
-  - bestselling
-- - meagre
-  - unsatisfying
-  - thank
 - - naive
   - callow
   - dot
 - - callow
   - dot
   - wordsworth
-- - successful
-  - bestselling
-  - paperbackist
 - - george
   - bernard
   - shaw
@@ -35,15 +17,84 @@ ngrams:
 - - gaudy
   - paperback
   - potboilers
-- - unsatisfying
-  - thank
-  - heavens
 - - wordsworth
   - suggests
   - george
 - - production
   - starring
   - anybody
+- - dot
+  - wordsworth
+  - suggests
+- - suggests
+  - george
+  - bernard
+- - dot
+  - wordsworth
+  - turns
+- - mean
+  - childish
+  - naive
+- - orphanage
+  - dining
+  - hall
+- - pang
+  - hill
+  - orphanage
+- - correct
+  - original
+  - meaning
+- - poor
+  - orphan
+  - child
+- - wrong
+  - sense
+  - given
+- - find
+  - whose
+  - career
+- - lost
+  - entirely
+  - because
+- - novel
+  - how
+  - green
+- - bernard
+  - shaw
+  - may
+- - gruel
+  - oh
+  - how
+- - original
+  - meaning
+  - may
+- - wordsworth
+  - turns
+  - her
+- - turns
+  - her
+  - attention
+- - words
+  - like
+  - fulsome
+- - orphan
+  - child
+  - who
+- - child
+  - who
+  - grew
+- - producers
+  - can
+  - find
+- - your
+  - language
+  - column
+- - like
+  - fulsome
+  - where
+- - cinema
+  - history
+  - what
 story:
   date: 2018-02-14
   id: 2018-02-14-jejune
@@ -68,4 +119,4 @@ story:
     \ is currently in production, starring anybody the producers can find whose career\
     \ is not in tatters following allegations of sexual misconduct.\n"
   title: Jejune
-word_count: 260
+word_count: 257

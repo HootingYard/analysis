@@ -1,7 +1,7 @@
 ngrams:
-- - helen
-  - lyon
-  - adamson
+- - grandmother's
+  - household
+  - hints
 - - baked
   - custard
   - cabbage
@@ -14,9 +14,6 @@ ngrams:
 - - strongly
   - invaluable
   - advice
-- - iron
-  - bobbinet
-  - laces
 - - stewed
   - watercress
   - understand
@@ -29,21 +26,51 @@ ngrams:
 - - hysterics
   - apparent
   - death
-- - hatbands
-  - use
-  - hay
 - - clouds
   - inflict
   - sure
-- - corkcutters
-  - work
-  - eyelet
-- - corkcutters
+- - nine
+  - compartments
+  - let
+- - cheap
   - life
-  - belts
-- - work
-  - eyelet
-  - holes
+  - belt
+- - inflict
+  - sure
+  - death
+- - each
+  - third
+  - compartment
+- - make
+  - baked
+  - custard
+- - flesh
+  - make
+  - baked
+- - better
+  - still
+  - purchased
+- - very
+  - fine
+  - cuttings
+- - own
+  - life
+  - belt
+- - find
+  - myself
+  - ready
+- - inches
+  - after
+  - each
+- - after
+  - each
+  - third
+- - two
+  - inches
+  - after
+- - thus
+  - made
+  - take
 story:
   date: 2011-08-07
   id: 2011-08-07-at-the-corkcutters
@@ -63,4 +90,4 @@ story:
     \ custard cabbage and stewed watercress, understand the significance of clouds,\
     \ inflict sure death on insect pests, and iron bobbinet laces."
   title: "At The Corkcutters\u2019"
-word_count: 194
+word_count: 193

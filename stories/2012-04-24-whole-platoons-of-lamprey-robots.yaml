@@ -1,10 +1,4 @@
 ngrams:
-- - autonomous
-  - robotic
-  - lamprey
-- - swim
-  - backward
-  - ayers
 - - stealthy
   - underwater
   - search
@@ -17,15 +11,9 @@ ngrams:
 - - dr
   - joel
   - davis
-- - s-shape
-  - during
-  - swimming
 - - says
   - dr
   - joel
-- - building
-  - whole
-  - platoons
 - - during
   - swimming
   - speed
@@ -35,6 +23,33 @@ ngrams:
 - - water
   - says
   - dr
+- - thus
+  - always
+  - maintains
+- - even
+  - swim
+  - backward
+- - point
+  - where
+  - theoretically
+- - now
+  - we're
+  - almost
+- - could
+  - begin
+  - building
+- - magnitude
+  - lampreys
+  - can
+- - those
+  - now
+  - we're
+- - been
+  - building
+  - robotic
+- - he's
+  - been
+  - building
 story:
   date: 2012-04-24
   id: 2012-04-24-whole-platoons-of-lamprey-robots
@@ -50,4 +65,4 @@ story:
     \ water,\u201D says Dr. Joel Davis, \u201CA robotic lamprey is ideal for stealthy\
     \ underwater search and identification missions.\u201D\n"
   title: Whole Platoons Of Lamprey Robots!
-word_count: 147
+word_count: 142

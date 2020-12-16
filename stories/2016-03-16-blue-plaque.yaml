@@ -1,16 +1,22 @@
 ngrams:
-- - bar
+- - brewer's
+  - bar
   - jonathan
-  - coleclough
-- - jonathan
-  - coleclough
-  - who
-- - coleclough
-  - who
-  - attended
+- - week's
+  - live
+  - appearance
+- - last
+  - week's
+  - live
 - - plaque
   - would
   - commemorate
+- - blue
+  - plaque
+  - would
+- - night
+  - has
+  - been
 story:
   date: 2016-03-16
   id: 2016-03-16-blue-plaque
@@ -22,4 +28,4 @@ story:
 
     '
   title: Blue Plaque
-word_count: 50
+word_count: 48

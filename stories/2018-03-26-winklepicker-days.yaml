@@ -17,6 +17,15 @@ ngrams:
 - - against
   - death
   - dressed
+- - took
+  - death
+  - aback
+- - like
+  - ingmar
+  - bergman's
+- - deal
+  - like
+  - ingmar
 story:
   date: 2018-03-26
   id: 2018-03-26-winklepicker-days
@@ -26,4 +35,4 @@ story:
     \  And they took Death aback\n  I saw envy on his pale white face\n  Envy for\
     \ my shoon\n  And I bested Death on the pier at Deal\n  Under a Kentish moon"
   title: Winklepicker Days
-word_count: 74
+word_count: 72

@@ -1,25 +1,34 @@
 ngrams:
-- - obituaries
-  - july
-  - wheeler
-- - etiquette
-  - christopher
-  - frew
 - - loss
   - fondly
   - remembered
-- - war
-  - obituaries
-  - july
 - - really
   - replied
   - wheeler
-- - cold
-  - war
-  - obituaries
 - - breakfast
   - etiquette
   - christopher
+- - sure
+  - professional
+  - broadcasters
+- - great
+  - loss
+  - fondly
+- - never
+  - really
+  - trusted
+- - really
+  - trusted
+  - him
+- - am
+  - sure
+  - professional
+- - fellow
+  - who
+  - smiled
+- - professional
+  - broadcasters
+  - will
 story:
   date: 2008-07-08
   id: 2008-07-08-breakfast-etiquette
@@ -31,4 +40,4 @@ story:
     \ trusted him. He was the sort of fellow who \u2026 smiled at breakfast, that\
     \ sort of thing.\u201D A great loss, fondly remembered."
   title: Breakfast Etiquette
-word_count: 86
+word_count: 83

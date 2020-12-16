@@ -5,21 +5,12 @@ ngrams:
 - - suggested
   - divers
   - methods
-- - thomas
-  - nashe
-  - wherein
 - - john
   - eliot
   - according
 - - idle
   - drone
   - among
-- - retired
-  - myselfe
-  - among
-- - colourful
-  - work
-  - ostensibly
 - - hope
   - quite
   - clearly
@@ -44,6 +35,60 @@ ngrams:
 - - other
   - recent
   - bits
+- - yard
+  - two
+  - thousand
+- - thousand
+  - more
+  - quietly
+- - foreigners
+  - who
+  - wrote
+- - hooting
+  - yard
+  - two
+- - more
+  - quietly
+  - hooting
+- - gleaned
+  - those
+  - other
+- - those
+  - other
+  - recent
+- - two
+  - thousand
+  - more
+- - current
+  - format
+  - there
+- - what
+  - better
+  - way
+- - lo
+  - we
+  - come
+- - drone
+  - among
+  - so
+- - an
+  - idle
+  - drone
+- - quotation
+  - containing
+  - an
+- - containing
+  - an
+  - extraordinary
+- - would
+  - stretch
+  - back
+- - who
+  - wrote
+  - them
+- - hit
+  - one
+  - thousand
 story:
   date: 2012-02-13
   id: 2012-02-13-two-thousand
@@ -66,4 +111,4 @@ story:
     .\nMy source is Charles Nicholl's A Cup Of News\_: The Life Of Thomas Nashe (1984),\
     \ wherein I also gleaned those other recent bits of Nashery."
   title: Two Thousand
-word_count: 246
+word_count: 245

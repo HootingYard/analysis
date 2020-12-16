@@ -2,18 +2,27 @@ ngrams:
 - - entitled
   - accidental
   - deaths
-- - calendar
-  - tempus
-  - bloody
-- - tempus
-  - bloody
-  - well
-- - bloody
-  - well
-  - fugit
-- - yard
+- - such
+  - accidental
+  - death
+- - hooting
+  - yard
   - calendar
-  - tempus
+- - century
+  - has
+  - passed
+- - has
+  - passed
+  - since
+- - one
+  - such
+  - accidental
+- - we
+  - are
+  - told
+- - spinney
+  - 'on'
+  - february
 story:
   date: 2017-09-07
   id: 2017-09-07-death-of-a-cartographer
@@ -23,4 +32,4 @@ story:
     , and here is one such accidental death, that of Underbath, who, we are told,\
     \ was impaled by a javelin in Bodger's Spinney on February the fifth 1907.\n"
   title: Death Of A Cartographer
-word_count: 68
+word_count: 67

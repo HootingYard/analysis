@@ -1,16 +1,7 @@
 ngrams:
-- - twenty-five
-  - percent
-  - success
 - - percent
   - success
   - rate
-- - singing-teacher
-  - techniques
-  - shouting
-- - ferocious
-  - spittle-flecked
-  - shouting
 - - local
   - atmospheric
   - conditions
@@ -20,30 +11,198 @@ ngrams:
 - - identification
   - skills
   - apart
-- - spittle-flecked
-  - shouting
-  - accompanied
 - - sight
   - albeit
   - blurred
 - - pang
   - hill
-  - zoo
-- - pang
-  - hill
-  - zoo
-- - pang
-  - hill
   - orphanage
 - - pang
   - hill
   - orphanage
+- - pang
+  - hill
+  - zoo
+- - pang
+  - hill
+  - zoo
 - - rarely
   - taught
   - anything
 - - taught
   - anywhere
   - else
+- - bird
+  - identification
+  - skills
+- - recalcitrant
+  - dimwits
+  - among
+- - often
+  - develop
+  - nosebleeds
+- - techniques
+  - shouting
+  - big
+- - orphans
+  - often
+  - develop
+- - shouting
+  - big
+  - stick
+- - identify
+  - four
+  - different
+- - four
+  - different
+  - types
+- - prison
+  - cell
+  - while
+- - expertise
+  - another
+  - reason
+- - most
+  - recalcitrant
+  - dimwit
+- - unseemly
+  - purposes
+  - well
+- - pedagogy
+  - courses
+  - through
+- - viaduct
+  - through
+  - bribery
+- - develop
+  - nosebleeds
+  - after
+- - never
+  - taught
+  - anywhere
+- - awake
+  - every
+  - morning
+- - linda
+  - thompson
+  - before
+- - purposes
+  - well
+  - let
+- - hill
+  - zoo
+  - over
+- - hill
+  - orphanage
+  - where
+- - icy
+  - cold
+  - even
+- - ostrich
+  - i'd
+  - like
+- - like
+  - nobody's
+  - business
+- - sing
+  - i'd
+  - like
+- - than
+  - bird
+  - identification
+- - veins
+  - like
+  - blood
+- - more
+  - recalcitrant
+  - dimwits
+- - blood
+  - looks
+  - like
+- - taught
+  - anything
+  - other
+- - rather
+  - larger
+  - than
+- - little
+  - heads
+  - 'off'
+- - can
+  - already
+  - howl
+- - 'off'
+  - like
+  - nobody's
+- - janitor
+  - who
+  - passed
+- - heads
+  - 'off'
+  - like
+- - already
+  - howl
+  - their
+- - am
+  - well
+  - suited
+- - looks
+  - like
+  - even
+- - what
+  - blood
+  - looks
+- - freezing
+  - robin
+  - will
+- - anything
+  - other
+  - than
+- - other
+  - than
+  - bird
+- - howl
+  - their
+  - little
+- - well
+  - let
+  - him
+- - howler
+  - monkeys
+  - they
+- - their
+  - little
+  - heads
+- - let
+  - him
+  - think
+- - like
+  - even
+  - though
+- - robin
+  - will
+  - come
+- - monotonous
+  - dirge
+  - which
+- - zoo
+  - are
+  - howler
+- - are
+  - howler
+  - monkeys
+- - hill
+  - zoo
+  - are
+- - know
+  - what
+  - blood
+- - an
+  - ostrich
+  - i'd
+- - an
+  - excellent
+  - singing
 story:
   date: 2016-01-31
   id: 2016-01-31-id-like-to-teach-the-world-to-sing
@@ -86,4 +245,4 @@ story:
     \ howler monkeys. They can already howl their little heads off like nobody's business.\
     \ My work is done."
   title: I'd Like To Teach The World To Sing
-word_count: 549
+word_count: 545

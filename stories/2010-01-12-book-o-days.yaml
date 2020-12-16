@@ -2,12 +2,6 @@ ngrams:
 - - hazel
   - blears
   - resignation
-- - february
-  - tanis
-  - diena
-- - tanis
-  - diena
-  - february
 - - blears
   - resignation
   - june
@@ -17,33 +11,63 @@ ngrams:
 - - hazel
   - blears
   - birthday
-- - sale
-  - july
-  - muggletonian
 - - useful
   - aide
   - memoire
-- - mungo
-  - february
-  - muggletonian
-- - diena
-  - february
-  - yoko
 - - blears
   - birthday
   - june
 - - birthday
   - june
   - hazel
-- - disaster
-  - february
-  - tanis
+- - blunkett's
+  - birthday
+  - july
+- - february
+  - yoko
+  - ono's
 - - resignation
   - december
   - christopher
 - - wit
   - january
   - feast
+- - yoko
+  - ono's
+  - birthday
+- - june
+  - david
+  - blunkett's
+- - birthday
+  - july
+  - smokers
+- - resignation
+  - june
+  - david
+- - november
+  - david
+  - blunkett's
+- - december
+  - david
+  - blunkett's
+- - smokers
+  - pop
+  - tarts
+- - ono's
+  - birthday
+  - march
+- - david
+  - blunkett's
+  - birthday
+- - july
+  - smokers
+  - pop
+- - holiday
+  - november
+  - david
+- - saint
+  - mungo
+  - february
 story:
   date: 2010-01-12
   id: 2010-01-12-book-o-days
@@ -65,4 +89,4 @@ story:
     \ Hooting Yard resource. It is to be hoped that we will have something to celebrate\
     \ on every day of the year."
   title: "Book O\u2019 Days"
-word_count: 195
+word_count: 190

@@ -1,28 +1,43 @@
 ngrams:
-- - togs
-  - plus
-  - buoy
-- - -vintage
-  - life-saving
-  - suit
-- - companion
-  - buoy
-  - kitted
 - - jetty
   - togs
   - plus
-- - eureka
-  - companion
-  - buoy
 - - tobacco
   - plus
   - torches
 - - rotting
   - jetty
   - beset
-- - life-saving
-  - suit
-  - complete
+- - food
+  - reading
+  - material
+- - seaside
+  - today
+  - possibly
+- - water
+  - food
+  - reading
+- - reading
+  - material
+  - so
+- - pier
+  - or
+  - jetty
+- - plus
+  - torches
+  - from
+- - beset
+  - by
+  - squalls
+- - jetty
+  - beset
+  - by
+- - shall
+  - be
+  - going
+- - squalls
+  - when
+  - one
 story:
   date: 2009-08-29
   id: 2009-08-29-jetty-togs-plus-buoy

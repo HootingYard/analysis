@@ -1,37 +1,16 @@
 ngrams:
-- - lovecraft-based
-  - collaborative
-  - boardgame
-- - half-understood
-  - strategic
-  - nous
-- - shudderingly
-  - carlo
-  - randle
-- - carlo
-  - randle
-  - anag
-- - flappy
-  - sheets
-  - tacked
 - - ultimately
   - crucial
   - aspect
 - - inevitable
   - crushing
   - defeat
-- - darkly-printed
-  - hazard
-  - cards
 - - arbitrary
   - rules
   - printed
 - - hazard
   - cards
   - menace
-- - yours
-  - shudderingly
-  - carlo
 - - threat
   - cards
   - jeopardy
@@ -44,6 +23,102 @@ ngrams:
 - - cards
   - jeopardy
   - cards
+- - cards
+  - menace
+  - cards
+- - cards
+  - threat
+  - cards
+- - plastic
+  - figures
+  - moving
+- - apparently
+  - arbitrary
+  - rules
+- - truly
+  - lovecraftian
+  - experience
+- - lightweight
+  - playing
+  - pieces
+- - presentation
+  - box
+  - lid
+- - one's
+  - cornflakes
+  - packet
+- - grim
+  - evening
+  - playing
+- - wrong
+  - character
+  - frustrating
+- - lavishly
+  - stacked
+  - against
+- - says
+  - dear
+  - frank
+- - tiny
+  - plastic
+  - figures
+- - tiny
+  - plastic
+  - monster
+- - friends
+  - tiny
+  - plastic
+- - another
+  - letter
+  - arrives
+- - human
+  - players
+  - because
+- - gosh
+  - look
+  - another
+- - few
+  - weeks
+  - ago
+- - look
+  - another
+  - letter
+- - our
+  - inevitable
+  - crushing
+- - game
+  - our
+  - opponent
+- - avatar
+  - might
+  - whisk
+- - stacked
+  - against
+  - us
+- - those
+  - playing
+  - pieces
+- - one's
+  - avatar
+  - might
+- - forestall
+  - some
+  - inexpressible
+- - some
+  - inexpressible
+  - catastrophe
+- - frustrating
+  - some
+  - ultimately
+- - some
+  - ultimately
+  - crucial
+- - character
+  - frustrating
+  - some
+- - evening
+  - playing
+  - some
 story:
   date: 2017-07-22
   id: 2017-07-22-but-was-there-a-shoggoth
@@ -74,4 +149,4 @@ story:
     \ impression that nobody enjoyed it. Our host was cooing with delight all evening.\n\
     Yours shudderingly,\nCarlo Randle (anag.)"
   title: But Was There A Shoggoth?
-word_count: 330
+word_count: 324

@@ -2,6 +2,9 @@ ngrams:
 - - ayn
   - rand
   - swimming
+- - ayn
+  - rand's
+  - greatest
 - - keen
   - stamp
   - collector
@@ -14,12 +17,9 @@ ngrams:
 - - brought
   - ayn
   - rand
-- - francis
-  - spufford
-  - looking
-- - published
-  - exactly
-  - twenty
+- - rand's
+  - greatest
+  - work
 - - list
   - however
   - reminded
@@ -38,12 +38,90 @@ ngrams:
 - - archives
   - while
   - others
-- - exactly
-  - twenty
-  - years
 - - hour
   - trawling
   - through
+- - very
+  - keen
+  - stamp
+- - lists
+  - rand
+  - over
+- - most
+  - interesting
+  - thing
+- - others
+  - may
+  - claim
+- - like
+  - stamp
+  - collecting
+- - surpassed
+  - her
+  - classic
+- - yard
+  - archives
+  - while
+- - hooting
+  - yard
+  - archives
+- - years
+  - ago
+  - today
+- - last
+  - few
+  - days
+- - might
+  - give
+  - readers
+- - pals
+  - can
+  - rally
+- - am
+  - somehow
+  - obsessed
+- - cranium
+  - evolution
+  - has
+- - evolution
+  - has
+  - designed
+- - england
+  - brit
+  - has
+- - can
+  - rally
+  - round
+- - her
+  - classic
+  - why
+- - while
+  - others
+  - may
+- - has
+  - brought
+  - ayn
+- - she
+  - never
+  - surpassed
+- - never
+  - surpassed
+  - her
+- - mentioned
+  - her
+  - here
+- - rand
+  - swimming
+  - into
+- - absolutely
+  - 'no'
+  - idea
+- - your
+  - every
+  - waking
+- - spend
+  - your
+  - every
 story:
   date: 2009-11-09
   id: 2009-11-09-soup-lists-rand
@@ -72,4 +150,4 @@ story:
     \ Fountainhead or Atlas Shrugged as Ayn Rand's greatest work, you and I know that\
     \ she never surpassed her classic Why I Like Stamp Collecting.\n"
   title: Soup, Lists, Rand
-word_count: 330
+word_count: 329

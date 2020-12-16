@@ -1,19 +1,7 @@
 ngrams:
-- - saxony
-  - pelagius
-  - tirinus
 - - antwerp
   - manuel
   - sa
-- - recently-purchased
-  - boswellite
-  - tape
-- - boswellite
-  - tape
-  - recorder
-- - symbolise
-  - famine
-  - war
 - - famine
   - war
   - pestilence
@@ -41,9 +29,129 @@ ngrams:
 - - always
   - clear
   - either
-- - being
-  - deliberately
-  - muddle-headed
+- - placed
+  - too
+  - close
+- - sentence
+  - dobson
+  - states
+- - papal
+  - nuncio
+  - after
+- - nuncio
+  - after
+  - publication
+- - death
+  - dobson
+  - countered
+- - exegesis
+  - wrote
+  - dobson
+- - mountainous
+  - sanatorium
+  - where
+- - how
+  - two
+  - cows
+- - these
+  - paths
+  - before
+- - first
+  - sentence
+  - dobson
+- - very
+  - first
+  - sentence
+- - sa
+  - indeed
+  - more
+- - indeed
+  - more
+  - scholars
+- - filthy
+  - let
+  - him
+- - two
+  - bees
+  - could
+- - calisthenics
+  - were
+  - invigorating
+- - do
+  - dobson
+  - incidentally
+- - 'no'
+  - doubt
+  - however
+- - more
+  - scholars
+  - than
+- - having
+  - been
+  - placed
+- - order
+  - having
+  - been
+- - doubt
+  - however
+  - about
+- - been
+  - placed
+  - too
+- - apocalypse
+  - nor
+  - if
+- - otherwise
+  - sadly
+  - there
+- - me
+  - it's
+  - hard
+- - original
+  - text
+  - so
+- - an
+  - infant's
+  - rattle
+- - attached
+  - an
+  - infant's
+- - paths
+  - before
+  - me
+- - jaunty
+  - mood
+  - one
+- - suppress
+  - this
+  - aspect
+- - before
+  - me
+  - it's
+- - lost
+  - an
+  - opportunity
+- - carelessness
+  - had
+  - altered
+- - mood
+  - one
+  - morning
+- - were
+  - 'no'
+  - horsemen
+- - tad
+  - puzzling
+  - but
+- - walking
+  - minnows
+  - but
+- - theological
+  - or
+  - otherwise
+- - or
+  - otherwise
+  - sadly
 story:
   date: 2007-03-18
   id: 2007-03-18-he-which-is-filthy-let-him-be-filthy-still
@@ -80,4 +188,4 @@ story:
     \ toaster that morning, and consequently smothered in a particularly toothsome\
     \ marmalade."
   title: "\u201CHe Which Is Filthy, Let Him Be Filthy Still\u201D"
-word_count: 418
+word_count: 414

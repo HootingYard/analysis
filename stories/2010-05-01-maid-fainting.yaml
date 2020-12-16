@@ -1,19 +1,10 @@
 ngrams:
-- - mfsa
-  - sponsored
-  - overseas
 - - sponsored
   - overseas
   - maids
 - - handsome
   - hourly
   - sum
-- - extra-tall
-  - fainting
-  - maids
-- - states
-  - mfsa
-  - sponsored
 - - fainting
   - maid
   - maiden
@@ -29,12 +20,39 @@ ngrams:
 - - magnificent
   - m
   - maid
-- - clara
-  - bow
-  - used
-- - ptak
-  - science
-  - books
+- - simply
+  - magnificent
+  - m
+- - good
+  - american
+  - homes
+- - last
+  - silent
+  - films
+- - fainting
+  - maids
+  - being
+- - silent
+  - films
+  - ever
+- - made
+  - fainting
+  - maid
+- - maids
+  - being
+  - allowed
+- - ever
+  - made
+  - fainting
+- - films
+  - ever
+  - made
+- - about
+  - fainting
+  - maids
+- - films
+  - about
+  - fainting
 story:
   date: 2010-05-01
   id: 2010-05-01-maid-fainting

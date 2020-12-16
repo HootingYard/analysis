@@ -1,16 +1,4 @@
 ngrams:
-- - mentor
-  - hardial
-  - bains
-- - political
-  - re-education
-  - camps
-- - political
-  - mentor
-  - hardial
-- - hardial
-  - bains
-  - er
 - - bains
   - er
   - yeah
@@ -29,9 +17,6 @@ ngrams:
 - - slightly
   - larger
   - view
-- - ten
-  - thousand
-  - nails
 - - imperialism
   - thus
   - ushering
@@ -41,6 +26,39 @@ ngrams:
 - - larger
   - view
   - note
+- - view
+  - note
+  - particularly
+- - new
+  - maoist
+  - utopia
+- - bright
+  - new
+  - maoist
+- - famine
+  - where
+  - workers
+- - mass
+  - famine
+  - where
+- - whole
+  - how
+  - different
+- - their
+  - millions
+  - seized
+- - being
+  - just
+  - too
+- - bosses
+  - into
+  - bloody
+- - into
+  - bloody
+  - pits
+- - thousand
+  - nails
+  - into
 story:
   date: 2011-07-03
   id: 2011-07-03-10-000-nails-in-the-coffin-of-imperialism
@@ -58,4 +76,4 @@ story:
     \ bosses into bloody pits\u201D, in the words of a poem in praise of Cardew's\
     \ political mentor Hardial Bains. Er\u2026 yeah!"
   title: 10,000 Nails In The Coffin Of Imperialism
-word_count: 169
+word_count: 166

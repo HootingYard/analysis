@@ -1,22 +1,34 @@
 ngrams:
-- - pas
-  - pour
-  - moi
-- - plane
-  - pas
-  - pour
-- - pour
-  - moi
-  - pansy
-- - ne
-  - plane
-  - pas
-- - ca
-  - ne
-  - plane
-- - moi
-  - pansy
-  - cradledew
+- - feel
+  - strong
+  - enough
+- - sacred
+  - cows
+  - has
+- - how
+  - could
+  - plastic
+- - her
+  - tears
+  - she
+- - could
+  - plastic
+  - do
+- - cows
+  - has
+  - been
+- - can
+  - find
+  - out
+- - am
+  - an
+  - artist
+- - plastic
+  - do
+  - this
+- - letter
+  - smudged
+  - by
 story:
   date: 2010-07-28
   id: 2010-07-28-ca-ne-plane-pas-pour-moi
@@ -27,4 +39,4 @@ story:
     \ a crumb of comfort in the Nixonian closing words \u201CI am an artist, not a\
     \ crook\u201D.\n"
   title: Ca Ne Plane Pas Pour Moi!
-word_count: 81
+word_count: 80

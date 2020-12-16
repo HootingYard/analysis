@@ -2,9 +2,6 @@ ngrams:
 - - unappealing
   - habit
   - affectionately
-- - habit
-  - affectionately
-  - mussing
 - - reflecting
   - booster
   - technology
@@ -14,18 +11,27 @@ ngrams:
 - - fancy
   - dress
   - costume
-- - squash
-  - lesser
-  - beings
 - - lothar
   - preen
   - answers
 - - bouffant
   - lothar
   - preen
+- - squash
+  - lesser
+  - beings
 - - ipsy
   - dipsy
   - lobster
+- - lothar
+  - preen
+  - he's
+- - worst
+  - job
+  - you've
+- - property
+  - aside
+  - what's
 - - majestic
   - bouffant
   - lothar
@@ -41,9 +47,117 @@ ngrams:
 - - dinner
   - party
   - trembling
+- - l'oreal's
+  - light
+  - reflecting
 - - dream
   - dinner
   - party
+- - light
+  - reflecting
+  - booster
+- - psychopath
+  - he's
+  - got
+- - job
+  - you've
+  - done
+- - stylish
+  - black
+  - boot
+- - lesser
+  - beings
+  - under
+- - worst
+  - thing
+  - anyone's
+- - expensive
+  - thing
+  - you've
+- - thing
+  - you've
+  - bought
+- - must
+  - unappealing
+  - habit
+- - several
+  - different
+  - gangs
+- - funeral
+  - something
+  - german
+- - bring
+  - something
+  - extinct
+- - most
+  - treasured
+  - possession
+- - heaven
+  - too
+  - pokey
+- - important
+  - lesson
+  - life
+- - taught
+  - life
+  - tell
+- - great
+  - god
+  - pan
+- - legs
+  - 'off'
+  - flies
+- - most
+  - important
+  - lesson
+- - most
+  - important
+  - lesson
+- - shall
+  - find
+  - heaven
+- - most
+  - expensive
+  - thing
+- - paid
+  - 'off'
+  - several
+- - majestic
+  - bouffant
+  - where
+- - find
+  - heaven
+  - too
+- - something
+  - extinct
+  - back
+- - 'off'
+  - several
+  - different
+- - thing
+  - anyone's
+  - said
+- - life
+  - tell
+  - us
+- - feudal
+  - serfdom
+  - who
+- - could
+  - bring
+  - something
+- - god
+  - pan
+  - who
+- - your
+  - fancy
+  - dress
+- - owe
+  - your
+  - parents
+- - your
+  - super
+  - power
 story:
   date: 2011-02-21
   id: 2011-02-21-q-n-a-lothar-preen
@@ -79,4 +193,4 @@ story:
     \ have taught life?\u201D\nTell us a secret. I owe the majesty of my bouffant\
     \ to L'Oreal's light reflecting booster technology."
   title: "Q & A\_: Lothar Preen"
-word_count: 437
+word_count: 427

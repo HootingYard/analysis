@@ -1,16 +1,19 @@
 ngrams:
-- - klaus
-  - kinski
-  - explaining
-- - shows
-  - klaus
-  - kinski
 - - monkey
   - dates
   - unknown
+- - picture
+  - shows
+  - klaus
+- - today's
+  - advent
+  - calendar
+- - calendar
+  - picture
+  - shows
 - - advent
   - calendar
-  - xii
+  - picture
 story:
   date: 2011-12-12
   id: 2011-12-12-hooting-yard-advent-calendar-xii
@@ -19,4 +22,4 @@ story:
     \ The Wrath Of God (Werner Herzog, 1972), a film which I watch about once a year,\
     \ and always find absolutely dazzling.\n"
   title: Hooting Yard Advent Calendar (xii)
-word_count: 48
+word_count: 47

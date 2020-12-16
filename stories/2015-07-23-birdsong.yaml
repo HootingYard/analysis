@@ -1,7 +1,4 @@
 ngrams:
-- - plumage
-  - regales
-  - ya
 - - grebe
   - plumage
   - regales
@@ -17,12 +14,15 @@ ngrams:
 - - grebe
   - grebes
   - grebes
-- - heaven
-  - loves
-  - ya
+- - bowie's
+  - hit
+  - boys
 - - invaluable
   - musical
   - service
+- - david
+  - bowie's
+  - hit
 - - view
   - heaven
   - loves
@@ -44,6 +44,57 @@ ngrams:
 - - keep
   - swinging
   - grebes
+- - boys
+  - keep
+  - swinging
+- - hit
+  - boys
+  - keep
+- - swinging
+  - grebes
+  - always
+- - swinging
+  - grebes
+  - always
+- - everything
+  - you'll
+  - get
+- - quite
+  - worked
+  - everything
+- - take
+  - familiar
+  - songs
+- - they'll
+  - never
+  - clone
+- - grebes
+  - always
+  - work
+- - grebes
+  - always
+  - work
+- - grebe
+  - they'll
+  - never
+- - luck
+  - just
+  - kissed
+- - flag
+  - luck
+  - just
+- - grebe
+  - other
+  - grebes
+- - other
+  - grebes
+  - check
+- - you're
+  - always
+  - first
+- - every
+  - way
+  - particularly
 story:
   date: 2015-07-23
   id: 2015-07-23-birdsong
@@ -67,4 +118,4 @@ story:
     \ a grebe\n  Learn to dive and everything\n  You'll get your share\n  When you're\
     \ a grebe\nGrebes\n  Grebes\n  Grebes keep swinging\n  Grebes always work it out"
   title: Birdsong
-word_count: 274
+word_count: 260

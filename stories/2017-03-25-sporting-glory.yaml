@@ -1,19 +1,13 @@
 ngrams:
-- - olympian
-  - shelley
-  - rudman
 - - bobsleighing
   - olympian
   - shelley
-- - hoy
-  - jason
-  - kenny
 - - bannister
   - mo
   - farah
-- - pugilist
-  - joe
-  - calzaghe
+- - hoy
+  - jason
+  - kenny
 - - kenny
   - steve
   - redgrave
@@ -23,18 +17,42 @@ ngrams:
 - - farah
   - chris
   - hoy
-- - cricketer
-  - mike
-  - atherton
-- - chris
-  - hoy
-  - jason
 - - mo
   - farah
   - chris
+- - chris
+  - hoy
+  - jason
 - - roger
   - bannister
   - mo
+- - sports
+  - correspondent
+  - fatima
+- - readers
+  - crying
+  - plaintively
+- - often
+  - receive
+  - letters
+- - almost
+  - certainly
+  - fail
+- - crying
+  - plaintively
+  - mr
+- - plaintively
+  - mr
+  - key
+- - key
+  - mr
+  - key
+- - mr
+  - key
+  - mr
+- - mr
+  - key
+  - how
 story:
   date: 2017-03-25
   id: 2017-03-25-sporting-glory
@@ -50,4 +68,4 @@ story:
     \ I am afraid that the road to sporting glory will be steep and pitiless and you\
     \ will almost certainly fail."
   title: Sporting Glory
-word_count: 147
+word_count: 146

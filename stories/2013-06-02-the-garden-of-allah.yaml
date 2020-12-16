@@ -8,21 +8,12 @@ ngrams:
 - - gardener
   - steve
   - hillage
-- - plant
-  - tillandsia
-  - usneoides
-- - plant
-  - clematis
-  - vitalba
 - - hippy
   - gardener
   - steve
 - - beards
   - steve
   - hillage
-- - climbing
-  - plant
-  - tillandsia
 - - climbing
   - plant
   - clematis
@@ -35,15 +26,45 @@ ngrams:
 - - suitably
   - islamic
   - occasionally
-- - including
-  - chionanthus
-  - virginicus
-- - beard
+- - man's
+  - beard
   - including
-  - chionanthus
 - - gravel
   - paths
   - between
+- - another
+  - climbing
+  - plant
+- - tree
+  - both
+  - medicinal
+- - old
+  - man's
+  - beard
+- - old
+  - man's
+  - beard
+- - shall
+  - ever
+  - besmirch
+- - woman
+  - shall
+  - ever
+- - upon
+  - islamic
+  - principles
+- - based
+  - upon
+  - islamic
+- - like
+  - two
+  - peas
+- - filth
+  - 'no'
+  - woman
+- - 'no'
+  - woman
+  - shall
 story:
   date: 2013-06-02
   id: 2013-06-02-the-garden-of-allah
@@ -62,4 +83,4 @@ story:
     \ peas in my gardens, because peapods do not have beards.\n\nSteve Hillage\_:\
     \ not an Islamic fundamentalist"
   title: The Garden Of Allah
-word_count: 181
+word_count: 179

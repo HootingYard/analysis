@@ -1,7 +1,4 @@
 ngrams:
-- - powerfully
-  - fragrant
-  - nosegay
 - - gruesome
   - clutter
   - resting
@@ -23,9 +20,6 @@ ngrams:
 - - open
   - dribbling
   - freely
-- - rough-hewn
-  - wooden
-  - cup
 - - wooden
   - cup
   - artfully
@@ -44,6 +38,93 @@ ngrams:
 - - ground
   - mouth
   - open
+- - sharp
+  - pointy
+  - stick
+- - eyes
+  - become
+  - accustomed
+- - peasantry
+  - well
+  - mayhap
+- - own
+  - dear
+  - peasantry
+- - wide
+  - thus
+  - does
+- - dear
+  - peasantry
+  - well
+- - attention
+  - still
+  - dribbling
+- - dribbling
+  - veneration
+  - before
+- - venerate
+  - our
+  - lady
+- - bumpkins
+  - our
+  - lady
+- - veneration
+  - before
+  - leaving
+- - return
+  - our
+  - rented
+- - unutterable
+  - filth
+  - such
+- - let
+  - us
+  - enter
+- - gaze
+  - fixated
+  - upon
+- - our
+  - eyes
+  - become
+- - our
+  - own
+  - dear
+- - may
+  - also
+  - wish
+- - once
+  - our
+  - eyes
+- - more
+  - pertinent
+  - perhaps
+- - your
+  - mouth
+  - closed
+- - pilgrims
+  - who
+  - come
+- - her
+  - more
+  - pertinent
+- - rags
+  - we
+  - poke
+- - miles
+  - around
+  - when
+- - mouth
+  - closed
+  - we
+- - closed
+  - we
+  - ask
+- - leaving
+  - we
+  - note
+- - are
+  - shelves
+  - stacked
 story:
   date: 2016-06-07
   id: 2016-06-07-our-lady-of-the-bumpkins
@@ -72,4 +153,4 @@ story:
     \ These are for sale, at a hefty price, to pilgrims who come from far and wide.\
     \ Thus does the One True Faith maintain the rural economy in times of blight.\n"
   title: Our Lady Of The Bumpkins
-word_count: 341
+word_count: 340

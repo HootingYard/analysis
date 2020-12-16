@@ -8,9 +8,6 @@ ngrams:
 - - compassion
   - bewilderment
   - nausea
-- - rancour
-  - spleen
-  - pomposity
 - - pomposity
   - sympathy
   - empathy
@@ -20,30 +17,156 @@ ngrams:
 - - nausea
   - menace
   - loathing
-- - awe
-  - rancour
-  - spleen
 - - spleen
   - pomposity
   - sympathy
-- - loathing
-  - awe
-  - rancour
 - - menace
   - loathing
   - awe
 - - pity
   - disgust
   - superiority
-- - cheap
-  - serge
-  - jacket
 - - contempt
   - pity
   - disgust
 - - reproach
   - contempt
   - pity
+- - beloved
+  - mother
+  - russia
+- - lane
+  - jauntily
+  - swinging
+- - felt
+  - strangely
+  - compelled
+- - piping
+  - hot
+  - samovar
+- - vast
+  - russian
+  - countryside
+- - hot
+  - tears
+  - welling
+- - novel
+  - written
+  - strictly
+- - written
+  - strictly
+  - according
+- - mother
+  - russia
+  - used
+- - feel
+  - hot
+  - tears
+- - went
+  - indoors
+  - poured
+- - hot
+  - samovar
+  - full
+- - tea
+  - stone
+  - cold
+- - russian
+  - countryside
+  - under
+- - butcher's
+  - cleaver
+  - perhaps
+- - black
+  - tea
+  - stone
+- - they'd
+  - hatched
+  - these
+- - hatched
+  - these
+  - deeds
+- - before
+  - they'd
+  - hatched
+- - three
+  - hours
+  - later
+- - chickens
+  - man
+  - yesterday
+- - chickens
+  - before
+  - they'd
+- - those
+  - holy
+  - fools
+- - black
+  - tea
+  - far
+- - these
+  - deeds
+  - put
+- - walked
+  - 'off'
+  - along
+- - said
+  - you've
+  - got
+- - tea
+  - far
+  - too
+- - think
+  - you'll
+  - find
+- - more
+  - measured
+  - swing
+- - then
+  - i'll
+  - want
+- - could
+  - feel
+  - hot
+- - both
+  - those
+  - things
+- - cleaver
+  - another
+  - more
+- - another
+  - more
+  - measured
+- - 'no'
+  - uncertain
+  - terms
+- - far
+  - too
+  - much
+- - tears
+  - welling
+  - up
+- - like
+  - those
+  - holy
+- - your
+  - beloved
+  - mother
+- - swarm
+  - oh
+  - 'no'
+- - fool
+  - like
+  - those
+- - whom
+  - your
+  - beloved
+- - fools
+  - were
+  - eradicated
+- - fools
+  - were
+  - rife
 story:
   date: 2014-01-24
   id: 2014-01-24-the-eggs-and-chickens-man
@@ -82,4 +205,4 @@ story:
     \ and sat down at my escritoire.\nThree hours later, I was still sat there, staring\
     \ into space, my pen untouched, the paper blank, the black tea stone cold."
   title: The Eggs And Chickens Man
-word_count: 464
+word_count: 453

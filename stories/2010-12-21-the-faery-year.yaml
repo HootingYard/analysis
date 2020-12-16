@@ -1,28 +1,10 @@
 ngrams:
-- - ghost-like
-  - earth-cloud
-  - stratus
-- - phantasies
-  - wisp
-  - stipple
-- - earth-cloud
-  - stratus
-  - creeping
 - - glittering
   - gossamer
   - weighted
 - - frosty
   - skies
   - loop
-- - women
-  - happier
-  - completer
-- - golden-haired
-  - larches
-  - winter
-- - wine-coloured
-  - withy
-  - wood
 - - leaden
   - lake
   - thrushes
@@ -35,15 +17,102 @@ ngrams:
 - - cirrostratus
   - snow
   - mountains
-- - blue
-  - august
-  - knee-deep
 - - stormy
   - march
   - dawn
-- - angel
+- - hysterical
+  - news
+  - reports
+- - awful
+  - blue
+  - august
+- - english
+  - nature
+  - writer
+- - swans
+  - angel
   - white
-  - clipt
+- - therefore
+  - better
+  - members
+- - birds
+  - spiral
+  - evolution
+- - english
+  - birds
+  - spiral
+- - rooks
+  - going
+  - home
+- - away
+  - swans
+  - angel
+- - new
+  - ice
+  - age
+- - field
+  - away
+  - swans
+- - stratus
+  - creeping
+  - over
+- - perspective
+  - let
+  - us
+- - too
+  - shall
+  - pass
+- - thrushes
+  - singing
+  - like
+- - let
+  - us
+  - turn
+- - its
+  - strange
+  - dance
+- - rainbow
+  - dewdrops
+  - then
+- - must
+  - make
+  - men
+- - singing
+  - like
+  - mad
+- - our
+  - english
+  - birds
+- - things
+  - must
+  - make
+- - these
+  - things
+  - must
+- - flashing
+  - intensely
+  - out
+- - an
+  - english
+  - nature
+- - dewdrops
+  - then
+  - there
+- - darkening
+  - marsh
+  - or
+- - marsh
+  - or
+  - heath
+- - state
+  - quotes
+  - from
+- - might
+  - think
+  - we
+- - ice
+  - age
+  - but
 story:
   date: 2010-12-21
   id: 2010-12-21-the-faery-year

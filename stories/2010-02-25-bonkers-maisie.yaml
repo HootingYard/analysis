@@ -5,33 +5,15 @@ ngrams:
 - - bonkers
   - maisie
   - bonkers
-- - author
-  - rayner
-  - heppenstall
 - - squall
   - huge
   - seabirds
 - - huge
   - seabirds
   - screech
-- - commemorative
-  - tea
-  - cosies
-- - rutted
-  - lane
-  - heading
 - - knit
   - commemorative
   - tea
-- - rayner
-  - heppenstall
-  - 'yes'
-- - gubbins
-  - ll
-  - sit
-- - mrs
-  - gubbins
-  - ll
 - - sprites
   - cavort
   - within
@@ -41,6 +23,45 @@ ngrams:
 - - juggling
   - several
   - traffic
+- - several
+  - traffic
+  - cones
+- - sea
+  - sprites
+  - cavort
+- - distant
+  - sea
+  - sprites
+- - land
+  - o
+  - pomposity
+- - while
+  - juggling
+  - several
+- - quit
+  - where
+  - mrs
+- - traffic
+  - cones
+  - she
+- - her
+  - cart
+  - trundling
+- - wed
+  - then
+  - sail
+- - like
+  - king
+  - canute
+- - heppenstall
+  - 'yes'
+  - she
+- - shore
+  - like
+  - king
+- - king
+  - canute
+  - upon
 story:
   date: 2010-02-25
   id: 2010-02-25-bonkers-maisie
@@ -57,4 +78,4 @@ story:
     \ shore, like King Canute upon the beach. In the squall huge seabirds screech.\n\
     The cart's abandoned. It will rot. There's a moral lesson there, is there not?"
   title: Bonkers Maisie
-word_count: 177
+word_count: 174

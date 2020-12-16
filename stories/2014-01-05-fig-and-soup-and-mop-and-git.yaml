@@ -1,7 +1,4 @@
 ngrams:
-- - git
-  - clearly
-  - audible
 - - whose
   - drover
   - gave
@@ -11,9 +8,6 @@ ngrams:
 - - horse
   - whose
   - drover
-- - waiter
-  - came
-  - barrelling
 - - ears
   - 'yes'
   - ears
@@ -29,21 +23,135 @@ ngrams:
 - - quite
   - enough
   - backtalk
+- - that's
+  - quite
+  - enough
 - - after
   - flatly
   - refusing
 - - sustained
   - after
   - flatly
-- - barrelling
-  - back
-  - holding
 - - yet
   - pulled
   - myself
 - - crimes
   - than
   - querying
+- - clearly
+  - audible
+  - even
+- - other
+  - waiters
+  - appeared
+- - said
+  - that's
+  - quite
+- - several
+  - other
+  - waiters
+- - whereupon
+  - several
+  - other
+- - before
+  - being
+  - frogmarched
+- - thumping
+  - before
+  - being
+- - need
+  - mopping
+  - up
+- - other
+  - crimes
+  - than
+- - frogmarched
+  - out
+  - onto
+- - more
+  - polite
+  - said
+- - may
+  - then
+  - discuss
+- - mop
+  - sir
+  - will
+- - sir
+  - will
+  - mop
+- - drover
+  - gave
+  - me
+- - will
+  - need
+  - mopping
+- - would
+  - thank
+  - sir
+- - 'no'
+  - other
+  - crimes
+- - being
+  - frogmarched
+  - out
+- - are
+  - dribbling
+  - soup
+- - gone
+  - back
+  - into
+- - now
+  - were
+  - ringing
+- - said
+  - what
+  - kind
+- - waiter
+  - this
+  - fig
+- - pertinent
+  - question
+  - one
+- - both
+  - now
+  - were
+- - one
+  - oh
+  - waiter
+- - expected
+  - one
+  - oh
+- - whether
+  - this
+  - fig
+- - this
+  - fig
+  - look
+- - fig
+  - look
+  - this
+- - look
+  - this
+  - fig
+- - him
+  - what
+  - kind
+- - whom
+  - had
+  - gone
+- - rotund
+  - waiter
+  - but
+- - waiter
+  - but
+  - moved
+- - were
+  - ringing
+  - what
+- - will
+  - mop
+  - up
 story:
   date: 2014-01-05
   id: 2014-01-05-fig-and-soup-and-mop-and-git
@@ -89,4 +197,4 @@ story:
 
     What kind of cafeteria was it? What kind of world is it?'
   title: Fig And Soup And Mop And Git
-word_count: 414
+word_count: 413

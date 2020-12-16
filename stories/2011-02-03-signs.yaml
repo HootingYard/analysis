@@ -1,13 +1,4 @@
 ngrams:
-- - drunkard
-  - melvin
-  - gibson
-- - catholic
-  - drunkard
-  - melvin
-- - antisemitic
-  - roman
-  - catholic
 - - roman
   - catholic
   - drunkard
@@ -20,9 +11,6 @@ ngrams:
 - - blog
   - advertising
   - extolling
-- - contains
-  - antisemitic
-  - roman
 - - scaly
   - alien
   - beings
@@ -32,12 +20,45 @@ ngrams:
 - - woefully
   - unconvincing
   - green
-- - signs
-  - outa
-  - spaceman
 - - bognor
   - remains
   - indefatigable
+- - green
+  - scaly
+  - alien
+- - gibson
+  - says
+  - everybody
+- - celebrate
+  - seven
+  - signs
+- - says
+  - everybody
+  - needs
+- - cardboard
+  - signage
+  - initiative
+- - finest
+  - screen
+  - moment
+- - wholeheartedly
+  - endorse
+  - note
+- - blunt
+  - keep
+  - calm
+- - o
+  - bognor
+  - remains
+- - ridiculous
+  - m
+  - night
+- - initiative
+  - continues
+  - last
+- - mr
+  - gibson
+  - says
 story:
   date: 2011-02-03
   id: 2011-02-03-signs
@@ -55,4 +76,4 @@ story:
     . This has become our watchword at Hooting Yard, so much more resonant than the\
     \ blunt \u201CKeep Calm And Carry On\u201D recently revived by all and sundry."
   title: Signs
-word_count: 165
+word_count: 163

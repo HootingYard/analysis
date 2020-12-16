@@ -1,49 +1,124 @@
 ngrams:
-- - brose
-  - juliana
-  - mcgovern
-- - juliana
-  - mcgovern
-  - dupre
 - - thackeray
   - bronte
   - richter
-- - mcgovern
-  - dupre
-  - wendy
-- - dupre
-  - wendy
-  - tocher
-- - wendy
-  - tocher
-  - kohler
-- - dutton
-  - lavay
-  - jerome
+- - bronte
+  - richter
+  - byron
 - - richter
   - byron
   - humboldt
 - - humboldt
   - hawthorne
   - wesley
-- - bronte
-  - richter
-  - byron
 - - byron
   - humboldt
   - hawthorne
-- - hoaxers
-  - showmen
-  - dueling
+- - hawthorne
+  - wesley
+  - browning
+- - willis
+  - thackeray
+  - bronte
+- - dickinson
+  - homestead
+  - nancy
+- - venomous
+  - reptile
+  - defiers
+- - irving
+  - willis
+  - thackeray
+- - eaters
+  - venomous
+  - reptile
 - - homestead
-  - hanna
-  - abigail
-- - hanna
-  - abigail
+  - nancy
+  - harris
+- - defiers
+  - sword
+  - swallowers
+- - reptile
+  - defiers
+  - sword
+- - mudge
+  - emily
+  - dickinson
+- - ross
+  - goodman
+  - matthew
+- - houdini
+  - harry
+  - miracle
+- - harry
+  - miracle
+  - mongers
+- - recipes
+  - dickinson
+  - homestead
+- - satire
+  - humor
+  - narrative
+- - emily
+  - dickinson
+  - profile
+- - abigail
   - stanley
-- - showmen
-  - dueling
-  - journalists
+  - withered
+- - poison
+  - eaters
+  - venomous
+- - selected
+  - recipes
+  - dickinson
+- - j
+  - matchbox
+  - labels
+- - papers
+  - embracing
+  - philosophy
+- - fiction
+  - satire
+  - humor
+- - robert
+  - ross
+  - goodman
+- - labels
+  - robert
+  - ross
+- - world's
+  - labels
+  - robert
+- - government
+  - religion
+  - poetry
+- - garland
+  - horn
+  - henry
+- - embracing
+  - philosophy
+  - science
+- - stanley
+  - withered
+  - leaves
+- - jerome
+  - b
+  - disputed
+- - strong
+  - drink
+  - lovell
+- - b
+  - disputed
+  - handwriting
+- - horn
+  - henry
+  - j
+- - philosophy
+  - science
+  - government
+- - original
+  - papers
+  - embracing
 story:
   date: 2014-03-04
   id: 2014-03-04-reading-list
@@ -76,4 +151,4 @@ story:
     \ To-day (Harvard 1909)\nThat will do for the time being. Now I had better get\
     \ back to work."
   title: Reading List
-word_count: 329
+word_count: 327

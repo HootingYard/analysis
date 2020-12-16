@@ -2,12 +2,6 @@ ngrams:
 - - abyss
   - visibility
   - nil
-- - hand-held
-  - visibility
-  - stygian
-- - egypt
-  - satyrs
-  - cavort
 - - timetabled
   - clack
   - clack
@@ -26,24 +20,105 @@ ngrams:
 - - rubbish
   - dump
   - babylon
-- - lantern
-  - hand-held
-  - visibility
 - - postwar
   - vienna
   - wheels
-- - cathedral
-  - choir
-  - nunc
 - - underfoot
   - buck
   - collar
+- - cathedral
+  - choir
+  - nunc
 - - buck
   - collar
   - snug
 - - lark
   - bob
   - bobolink
+- - frisky
+  - terrier
+  - lumbering
+- - terrier
+  - lumbering
+  - hound
+- - orphan
+  - choir
+  - sings
+- - bob
+  - lark
+  - bob
+- - sparrow
+  - bob
+  - lark
+- - unknown
+  - assailant
+  - fleeing
+- - bob
+  - sparrow
+  - bob
+- - rubbish
+  - dump
+  - lit
+- - dump
+  - lit
+  - lantern
+- - hallows
+  - eve
+  - pictures
+- - visibility
+  - stygian
+  - pebbles
+- - stygian
+  - pebbles
+  - underfoot
+- - pebbles
+  - underfoot
+  - buck
+- - bob
+  - crow
+  - sibelius
+- - hour
+  - timetabled
+  - clack
+- - crow
+  - bob
+  - lark
+- - distant
+  - incomprehensible
+  - keening
+- - ditch
+  - frisky
+  - terrier
+- - bob
+  - crow
+  - bob
+- - bob
+  - crow
+  - bob
+- - bob
+  - crow
+  - bob
+- - marble
+  - giants
+  - wind
+- - orphans
+  - sing
+  - bob
+- - babylon
+  - crows
+  - fly
+- - brink
+  - let's
+  - fall
+- - lord
+  - bob
+  - sparrow
+- - bob
+  - lark
+  - rain
+- - crow
+  - bob
+  - crow
 story:
   date: 2014-03-25
   id: 2014-03-25-the-rubbish-dump
@@ -72,4 +147,4 @@ story:
     \ Is there honey? Is there tea? No. You have drained your cup. You could not make\
     \ it up.\nA new ghost."
   title: The Rubbish Dump
-word_count: 331
+word_count: 327

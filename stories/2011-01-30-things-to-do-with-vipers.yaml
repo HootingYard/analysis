@@ -1,25 +1,37 @@
 ngrams:
-- - gentian
-  - liquorice
-  - cinnamon
 - - swellings
   - blemishes
   - fevers
 - - blemishes
   - fevers
   - poisons
-- - saffron
-  - gentian
-  - liquorice
-- - frankincense
-  - saffron
-  - gentian
 - - myrrh
   - frankincense
   - saffron
 - - stroke
   - venetian
   - treacle
+- - opium
+  - myrrh
+  - frankincense
+- - cinnamon
+  - gum
+  - arabic
+- - gum
+  - arabic
+  - bitumen
+- - museum
+  - herb
+  - garrett
+- - theatre
+  - museum
+  - herb
+- - operating
+  - theatre
+  - museum
+- - roasted
+  - vipers
+  - information
 story:
   date: 2011-01-30
   id: 2011-01-30-things-to-do-with-vipers

@@ -2,18 +2,12 @@ ngrams:
 - - sharp
   - cry
   - break
-- - possible
-  - rayner
-  - heppenstall
 - - white
   - technique
   - overhead
 - - heppenstall
   - four
   - absentees
-- - rayner
-  - heppenstall
-  - four
 - - eric
   - gill
   - however
@@ -26,6 +20,24 @@ ngrams:
 - - man
   - called
   - white
+- - cords
+  - were
+  - dispensed
+- - vocal
+  - cords
+  - were
+- - vocal
+  - cords
+  - were
+- - cry
+  - break
+  - out
+- - quickly
+  - reassured
+  - me
+- - technique
+  - overhead
+  - there
 story:
   date: 2010-01-04
   id: 2010-01-04-the-white-technique
@@ -39,4 +51,4 @@ story:
     \ This did not seem to me possible.\u201D\nRayner Heppenstall, Four Absentees\
     \ (1960)"
   title: The White Technique
-word_count: 109
+word_count: 107

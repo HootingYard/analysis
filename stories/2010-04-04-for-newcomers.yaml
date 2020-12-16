@@ -1,16 +1,7 @@
 ngrams:
-- - extravagantly
-  - bouffanted
-  - composers
-- - captains
-  - extravagantly
-  - bouffanted
 - - seedy
   - dockside
   - taverns
-- - bouffanted
-  - composers
-  - drinking
 - - infants
   - rubbing
   - shoulders
@@ -35,12 +26,42 @@ ngrams:
 - - jesuit
   - priests
   - lurking
-- - composing
-  - mimeographed
-  - pamphlets
 - - tug
   - boat
   - captains
+- - composing
+  - mimeographed
+  - pamphlets
+- - canal
+  - tow
+  - paths
+- - isolate
+  - one's
+  - self
+- - gods
+  - haunting
+  - abandoned
+- - tow
+  - paths
+  - wearing
+- - piers
+  - bat
+  - gods
+- - haunting
+  - abandoned
+  - potato
+- - bat
+  - gods
+  - haunting
+- - huge
+  - grunting
+  - ogres
+- - stations
+  - huge
+  - grunting
+- - obscure
+  - army
+  - trying
 story:
   date: 2010-04-04
   id: 2010-04-04-for-newcomers
@@ -64,4 +85,4 @@ story:
 
     Many thanks to him for such a clear-eyed view of these important matters.'
   title: For Newcomers
-word_count: 173
+word_count: 171

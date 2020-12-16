@@ -1,19 +1,10 @@
 ngrams:
-- - ill-starred
-  - seaside
-  - resort
-- - foff
-  - following
-  - yesterday
 - - seaside
   - resort
   - including
-- - david
-  - mckie
-  - used
-- - three-letter
-  - place
-  - names
+- - following
+  - yesterday's
+  - note
 - - cows
   - came
   - visiting
@@ -44,6 +35,48 @@ ngrams:
 - - only
   - just
   - started
+- - essays
+  - about
+  - places
+- - yesterday's
+  - note
+  - about
+- - guardian
+  - where
+  - more
+- - more
+  - than
+  - once
+- - where
+  - more
+  - than
+- - buy
+  - this
+  - excellent
+- - this
+  - excellent
+  - book
+- - comprehensive
+  - guide
+  - but
+- - bookshelves
+  - at
+  - haemoglobin
+- - at
+  - haemoglobin
+  - towers
+- - groaning
+  - bookshelves
+  - at
+- - reason
+  - or
+  - another
+- - does
+  - not
+  - mention
+- - clapped
+  - my
+  - hands
 story:
   date: 2008-10-03
   id: 2008-10-03-foff
@@ -64,4 +97,4 @@ story:
     \ Smallweed and McElsewhere columns in the Guardian, where, more than once, he\
     \ made mention of Hooting Yard. Clearly a very sensible man."
   title: Foff
-word_count: 212
+word_count: 208

@@ -1,10 +1,4 @@
 ngrams:
-- - posting
-  - twenty-six
-  - consecutive
-- - twenty-six
-  - consecutive
-  - entries
 - - spinning
   - terrestrial
   - globe
@@ -17,9 +11,6 @@ ngrams:
 - - preposterous
   - plot
   - hatched
-- - -volume
-  - oxford
-  - english
 - - sweeping
   - dobsonian
   - paragraphs
@@ -29,9 +20,6 @@ ngrams:
 - - tempting
   - grand
   - plan
-- - succeeding
-  - twenty-five
-  - pamphlets
 - - consecutive
   - entries
   - entitled
@@ -44,6 +32,90 @@ ngrams:
 - - english
   - dictionary
   - contains
+- - gargantuan
+  - task
+  - particularly
+- - near
+  - future
+  - foolhardy
+- - contains
+  - full
+  - entries
+- - alphabetical
+  - order
+  - according
+- - dictionary
+  - contains
+  - full
+- - previous
+  - format
+  - between
+- - derivative
+  - words
+  - included
+- - myself
+  - devising
+  - grand
+- - single
+  - word
+  - listed
+- - added
+  - around
+  - derivative
+- - failed
+  - primarily
+  - because
+- - toil
+  - quite
+  - possibly
+- - task
+  - particularly
+  - given
+- - grand
+  - plan
+  - every
+- - projects
+  - these
+  - rarely
+- - around
+  - derivative
+  - words
+- - find
+  - myself
+  - devising
+- - last
+  - year's
+  - set
+- - every
+  - single
+  - word
+- - add
+  - just
+  - short
+- - years
+  - pamphlet
+  - house
+- - these
+  - rarely
+  - come
+- - majestic
+  - prose
+  - even
+- - fool's
+  - paradise
+  - am
+- - ever
+  - even
+  - begun
+- - did
+  - probably
+  - because
+- - years
+  - than
+  - remain
+- - quite
+  - possibly
+  - more
 story:
   date: 2011-05-19
   id: 2011-05-19-a-grand-plan
@@ -73,4 +145,4 @@ story:
     \ near future. Foolhardy, I know, but then I am living in a fool's paradise, am\
     \ I not?"
   title: A Grand Plan
-word_count: 319
+word_count: 316

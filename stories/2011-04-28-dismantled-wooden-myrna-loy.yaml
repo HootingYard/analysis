@@ -1,13 +1,4 @@
 ngrams:
-- - hey
-  - nonny
-  - nonny
-- - ulrike
-  - meinhof
-  - died
-- - fol
-  - de
-  - rol
 - - wooden
   - myrna
   - loy
@@ -17,9 +8,6 @@ ngrams:
 - - dismantled
   - wooden
   - doll
-- - wooden
-  - toy
-  - pinocchio
 - - english
   - folk
   - group
@@ -35,15 +23,72 @@ ngrams:
 - - recall
   - grew
   - longer
-- - baader-meinhof
-  - gang
-  - along
 - - buried
   - under
   - snow
 - - different
   - wooden
   - boy
+- - group
+  - too
+  - hey
+- - folk
+  - group
+  - too
+- - frozen
+  - dead
+  - until
+- - hero's
+  - name
+  - quite
+- - name
+  - quite
+  - weirdly
+- - joy
+  - our
+  - myrna
+- - boy
+  - our
+  - hero's
+- - wooden
+  - boy
+  - our
+- - our
+  - hero's
+  - name
+- - much
+  - joy
+  - our
+- - silver
+  - screen
+  - who
+- - urchins
+  - who
+  - carried
+- - screen
+  - who
+  - brought
+- - dismantled
+  - him
+  - piece
+- - myrna
+  - loy
+  - when
+- - loy
+  - when
+  - winter
+- - will
+  - recall
+  - grew
+- - shed
+  - they
+  - dismantled
+- - when
+  - winter
+  - came
+- - man
+  - who
+  - went
 story:
   date: 2011-04-28
   id: 2011-04-28-dismantled-wooden-myrna-loy
@@ -65,4 +110,4 @@ story:
     \ your Alpenstock, the fabled far Tyrol,\nSay a prayer for Myrna Loy, the dismantled\
     \ wooden doll."
   title: Dismantled Wooden Myrna Loy
-word_count: 243
+word_count: 240

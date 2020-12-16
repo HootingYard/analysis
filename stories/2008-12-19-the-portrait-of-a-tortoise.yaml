@@ -1,13 +1,10 @@
 ngrams:
 - - sylvia
   - townsend
-  - warner
+  - warner's
 - - clergyman
   - gilbert
   - white
-- - heading
-  - mrs
-  - snooke
 - - century
   - clergyman
   - gilbert
@@ -17,6 +14,9 @@ ngrams:
 - - splendid
   - special
   - edition
+- - townsend
+  - warner's
+  - book
 - - new
   - year
   - fortnight
@@ -32,6 +32,24 @@ ngrams:
 - - tortoise
   - cast
   - your
+- - about
+  - sylvia
+  - townsend
+- - tortoise
+  - about
+  - sylvia
+- - where
+  - she
+  - extracted
+- - tortoise
+  - where
+  - she
+- - cast
+  - your
+  - mind
+- - gilbert
+  - white
+  - all
 story:
   date: 2008-12-19
   id: 2008-12-19-the-portrait-of-a-tortoise
@@ -46,4 +64,4 @@ story:
     \ and be sure not to miss it.\nUPDATE\_: The programme will be broadcast at 12.20\
     \ PM on Boxing Day, December 26th."
   title: The Portrait Of A Tortoise
-word_count: 142
+word_count: 140

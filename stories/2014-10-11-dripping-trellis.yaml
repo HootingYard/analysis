@@ -11,12 +11,12 @@ ngrams:
 - - decipherable
   - dripping
   - trellis
-- - gardens
-  - dripping
-  - trellis
 - - tish
   - tosh
   - blunkett
+- - gardens
+  - dripping
+  - trellis
 - - fresh
   - raindrops
   - dripped
@@ -44,6 +44,81 @@ ngrams:
 - - dripping
   - trellis
   - last
+- - woke
+  - each
+  - dawn
+- - raindrops
+  - dripped
+  - 'off'
+- - many
+  - gardens
+  - dripping
+- - dripping
+  - trellis
+  - through
+- - putter
+  - before
+  - parking
+- - trellis
+  - last
+  - night
+- - raindrops
+  - may
+  - drip
+- - dripping
+  - trellis
+  - where
+- - dripping
+  - trellis
+  - where
+- - where
+  - fresh
+  - raindrops
+- - trellis
+  - where
+  - fresh
+- - our
+  - books
+  - overdue
+- - never
+  - quite
+  - decipherable
+- - return
+  - our
+  - books
+- - its
+  - roof
+  - perched
+- - then
+  - tish
+  - tosh
+- - papa
+  - then
+  - tish
+- - always
+  - lived
+  - where
+- - words
+  - never
+  - quite
+- - its
+  - many
+  - gardens
+- - deluded
+  - memory
+  - there
+- - library
+  - would
+  - putter
+- - mobile
+  - library
+  - would
+- - we
+  - woke
+  - each
+- - roof
+  - perched
+  - an
 story:
   date: 2014-10-11
   id: 2014-10-11-dripping-trellis
@@ -73,4 +148,4 @@ story:
     expanse of cement and concrete and tar where I was born, where I have always lived,
     where there is not a single trellis from which the raindrops may drip.'
   title: Dripping Trellis
-word_count: 325
+word_count: 323

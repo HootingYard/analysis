@@ -1,10 +1,4 @@
 ngrams:
-- - aerial
-  - oars
-  - lunardi
-- - foppish
-  - vincent
-  - lunardi
 - - manned
   - balloon
   - ascent
@@ -14,18 +8,12 @@ ngrams:
 - - historical
   - balanced
   - mimms
-- - oars
-  - lunardi
-  - noticed
 - - ballooning
   - holmes
   - tells
 - - chicken
   - drinking
   - champagne
-- - hertfordshire
-  - eating
-  - chicken
 - - romantic
   - generation
   - discovered
@@ -44,6 +32,96 @@ ngrams:
 - - comparable
   - import
   - ever
+- - holmes
+  - tells
+  - us
+- - import
+  - ever
+  - seemed
+- - first
+  - manned
+  - balloon
+- - attractions
+  - albeit
+  - those
+- - albeit
+  - those
+  - attractions
+- - than
+  - lopsided
+  - mimms
+- - just
+  - six
+  - weeks
+- - six
+  - weeks
+  - after
+- - after
+  - drifting
+  - across
+- - any
+  - reader
+  - knows
+- - young
+  - italian
+  - who
+- - their
+  - attractions
+  - albeit
+- - 'no'
+  - doubt
+  - nonplussed
+- - head
+  - than
+  - lopsided
+- - shivering
+  - cat
+  - into
+- - holmes
+  - points
+  - out
+- - him
+  - after
+  - drifting
+- - italian
+  - who
+  - made
+- - balanced
+  - mimms
+  - are
+- - attractions
+  - are
+  - largely
+- - claimed
+  - which
+  - holmes
+- - are
+  - largely
+  - historical
+- - which
+  - holmes
+  - points
+- - pity
+  - if
+  - any
+- - if
+  - any
+  - reader
+- - discovered
+  - an
+  - event
+- - mimms
+  - one
+  - likes
+- - accidentally
+  - breaking
+  - one
+- - north
+  - mimms
+  - one
+- - so
+  - much
+  - easier
 story:
   date: 2011-04-17
   id: 2011-04-17-mimms-mimmses
@@ -72,4 +150,4 @@ story:
     \ You can see the cat for yourself in this portrait of Lunardi published by Edward\
     \ Hodges of Cornhill just six weeks after his act of feline mercy in North Mimms.\n"
   title: Mimms. Mimmses?
-word_count: 329
+word_count: 328

@@ -1,22 +1,19 @@
 ngrams:
-- - labyrinth
-  - h
-  - aving
 - - fire
   - whereas
   - formerly
 - - probably
   - too
   - enthusiastically
-- - thirteenth-century
-  - bibles
-  - here
 - - fine
   - words
   - people
 - - thought
   - fine
   - words
+- - think
+  - anybody's
+  - house
 - - write
   - too
   - young
@@ -29,18 +26,42 @@ ngrams:
 - - knew
   - only
   - half
-- - only
-  - say
-  - sir
 - - writer
   - who
   - refers
+- - only
+  - say
+  - sir
 - - good
   - writer
   - then
-- - aving
-  - been
-  - obliged
+- - set
+  - them
+  - forth
+- - edification
+  - how
+  - can
+- - sir
+  - your
+  - house
+- - copying
+  - out
+  - vast
+- - out
+  - vast
+  - swathes
+- - them
+  - probably
+  - too
+- - looking
+  - something
+  - up
+- - writer
+  - then
+  - now
+- - say
+  - sir
+  - your
 story:
   date: 2009-05-09
   id: 2009-05-09-fine-words
@@ -58,4 +79,4 @@ story:
     \ and of the two d's in \u201Cdelightful days\u201D.\nI do like them\u2026 probably\
     \ too enthusiastically."
   title: Fine Words
-word_count: 179
+word_count: 174

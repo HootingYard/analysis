@@ -2,12 +2,18 @@ ngrams:
 - - directions
   - audrey
   - topping
-- - virtual
-  - prism
-  - shooting
-- - virtual
-  - prism
-  - warning
+- - shooting
+  - 'off'
+  - flashes
+- - sunglasses
+  - before
+  - gazing
+- - all
+  - directions
+  - audrey
+- - before
+  - gazing
+  - at
 story:
   date: 2013-02-09
   id: 2013-02-09-a-virtual-prism

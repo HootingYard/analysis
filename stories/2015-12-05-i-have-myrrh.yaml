@@ -26,6 +26,12 @@ ngrams:
 - - three
   - wise
   - men
+- - it's
+  - called
+  - acting
+- - method
+  - it's
+  - called
 - - ever
   - encounters
   - myrrh
@@ -38,6 +44,18 @@ ngrams:
 - - child
   - does
   - indeed
+- - laurence
+  - olivier
+  - said
+- - wise
+  - man
+  - without
+- - man
+  - without
+  - having
+- - son
+  - has
+  - landed
 story:
   date: 2015-12-05
   id: 2015-12-05-i-have-myrrh
@@ -54,4 +72,4 @@ story:
     \ surprise that Olivier did not employ \u201Cthe Method\u201D, \u201CIt's called\
     \ acting, dear boy\u201D."
   title: "\u201CI Have Myrrh\u201D"
-word_count: 157
+word_count: 155

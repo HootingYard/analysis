@@ -1,10 +1,4 @@
 ngrams:
-- - doom-ridden
-  - po
-  - te
-- - po
-  - te
-  - maudit
 - - martin
   - reviewing
   - kafka
@@ -14,6 +8,21 @@ ngrams:
 - - uncontrollably
   - tim
   - martin
+- - tim
+  - martin
+  - reviewing
+- - charming
+  - young
+  - writer
+- - young
+  - writer
+  - fond
+- - gives
+  - us
+  - dr
+- - they
+  - howled
+  - uncontrollably
 story:
   date: 2018-02-17
   id: 2018-02-17-worth-bearing-in-mind

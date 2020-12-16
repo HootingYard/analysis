@@ -1,10 +1,4 @@
 ngrams:
-- - cross-stitch
-  - aunt
-  - mab
-- - hamfisted
-  - cross-stitch
-  - aunt
 - - relentless
   - dinning
   - dinning
@@ -20,15 +14,18 @@ ngrams:
 - - low
   - mordant
   - grunting
-- - cotton
-  - cerulean
-  - blue
 - - hear
   - relentless
   - dinning
 - - tattered
   - quilt
   - 'yes'
+- - o
+  - baleful
+  - baleful
+- - shock
+  - o
+  - baleful
 - - oh
   - badly
   - sewn
@@ -38,12 +35,75 @@ ngrams:
 - - baleful
   - baleful
   - pig
-- - o
-  - baleful
-  - baleful
-- - shock
+- - puddle
   - o
   - baleful
+- - pig
+  - fair
+  - neath
+- - baleful
+  - pig
+  - r
+- - champion
+  - pig
+  - fair
+- - pig
+  - picture
+  - sewn
+- - o
+  - baleful
+  - pig
+- - baleful
+  - pig
+  - o
+- - pig
+  - o
+  - baleful
+- - o
+  - baleful
+  - pig
+- - o
+  - baleful
+  - pig
+- - shabby
+  - old
+  - bunting
+- - rain
+  - pour
+  - down
+- - sewing
+  - up
+  - mail
+- - up
+  - mail
+  - bags
+- - your
+  - imperfect
+  - image
+- - your
+  - low
+  - mordant
+- - mock
+  - your
+  - heart
+- - mordant
+  - grunting
+  - when
+- - remember
+  - your
+  - low
+- - mail
+  - bags
+  - they
+- - bird
+  - they
+  - mock
+- - look
+  - more
+  - like
+- - bags
+  - they
+  - let
 story:
   date: 2010-12-03
   id: 2010-12-03-o-baleful-pig
@@ -67,4 +127,4 @@ story:
     \ it cracked. You died of shock/ O baleful pig, R.I.P. I buried you under the\
     \ Joshua tree."
   title: O Baleful Pig
-word_count: 286
+word_count: 285

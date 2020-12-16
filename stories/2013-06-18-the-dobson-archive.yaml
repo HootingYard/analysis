@@ -1,13 +1,19 @@
 ngrams:
-- - dobsonist
-  - aloysius
-  - nestingbird
-- - august
-  - dobsonist
-  - aloysius
-- - aloysius
-  - nestingbird
-  - trying
+- - exceedingly
+  - rare
+  - snap
+- - particular
+  - title
+  - among
+- - archive
+  - an
+  - exceedingly
+- - an
+  - exceedingly
+  - rare
+- - dobson
+  - archive
+  - an
 story:
   date: 2013-06-18
   id: 2013-06-18-the-dobson-archive
@@ -18,4 +24,4 @@ story:
 
     Or possibly the old Cincinnati Library.'
   title: The Dobson Archive
-word_count: 37
+word_count: 36

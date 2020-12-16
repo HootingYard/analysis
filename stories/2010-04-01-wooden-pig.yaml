@@ -23,6 +23,18 @@ ngrams:
 - - petrified
   - sea
   - petrified
+- - sailors
+  - petrified
+  - sea
+- - wooden
+  - pig
+  - wallowing
+- - sea
+  - petrified
+  - pigs
+- - wooden
+  - pig
+  - wooden
 story:
   date: 2010-04-01
   id: 2010-04-01-wooden-pig

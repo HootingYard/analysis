@@ -1,7 +1,13 @@
 ngrams:
+- - orwell's
+  - egg
+  - counting
 - - egg
   - counting
   - mania
+- - george
+  - orwell's
+  - egg
 - - count
   - six
   - squirrels
@@ -20,9 +26,15 @@ ngrams:
 - - squirrels
   - each
   - seen
-- - specially-built
-  - platform
-  - here
+- - three
+  - squirrels
+  - each
+- - clowns
+  - cavorting
+  - upon
+- - some
+  - clowns
+  - cavorting
 story:
   date: 2009-01-01
   id: 2009-01-01-the-diligent-counting-of-squirrels
@@ -35,4 +47,4 @@ story:
     \ very first bulletin from Frank Key's Squirrel Count\u2122 2009.\n01.01.09 Six\
     \ squirrels, or possibly three squirrels each seen twice.\n"
   title: The Diligent Counting Of Squirrels
-word_count: 106
+word_count: 103

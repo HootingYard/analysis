@@ -1,7 +1,4 @@
 ngrams:
-- - exclusive
-  - commercial
-  - tie-in
 - - lifelike
   - bernard
   - cribbins
@@ -11,39 +8,117 @@ ngrams:
 - - toy
   - lance
   - radiating
-- - pipe-smoking
-  - marsh
-  - sprites
 - - bargain
   - bin
   - prices
 - - collapsed
   - lung
   - preserved
-- - mind-numbingly
-  - gigantic
-  - burlap
-- - filth
-  - wandering
-  - mendicant
-- - mephitic
-  - vapours
-  - inexplicable
 - - bargain
   - bin
   - basement
-- - vapours
-  - inexplicable
-  - darting
 - - inexplicable
   - darting
   - lights
+- - solidified
+  - puff
+  - pastry
 - - plastic
   - toy
   - lance
 - - gorgeous
   - department
   - store
+- - miniature
+  - plastic
+  - toy
+- - jelly
+  - surgically
+  - removed
+- - fascinating
+  - puppet
+  - looks
+- - superlative
+  - gifts
+  - available
+- - farm
+  - filth
+  - wandering
+- - lance
+  - radiating
+  - fire
+- - gigantic
+  - burlap
+  - sack
+- - five
+  - superlative
+  - gifts
+- - burlap
+  - sack
+  - absolutely
+- - sprites
+  - simply
+  - sprinkle
+- - christmas
+  - gift
+  - guide
+- - christmas
+  - gift
+  - guide
+- - coped
+  - anyway
+  - following
+- - marsh
+  - sprites
+  - simply
+- - eerie
+  - marsh
+  - complete
+- - cribbins
+  - doll
+  - hours
+- - jumbo
+  - sack
+  - o
+- - o
+  - agricultural
+  - waste
+- - sack
+  - o
+  - agricultural
+- - agricultural
+  - waste
+  - matter
+- - gift
+  - guide
+  - god
+- - guide
+  - god
+  - alone
+- - town
+  - jumbo
+  - sack
+- - god
+  - alone
+  - knows
+- - every
+  - yuletide
+  - season
+- - yoko
+  - ono
+  - until
+- - own
+  - marsh
+  - transform
+- - own
+  - string
+  - grow
+- - most
+  - gorgeous
+  - department
+- - old
+  - coathangers
+  - rags
 story:
   date: 2010-12-11
   id: 2010-12-11-hooting-yard-christmas-gift-guide
@@ -74,4 +149,4 @@ story:
     \ fire from heaven just like the lance of Saint Poppo (977\u20131048), one of\
     \ the first Flemish pilgrims to the Holy Land."
   title: Hooting Yard Christmas Gift Guide
-word_count: 325
+word_count: 322

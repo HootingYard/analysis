@@ -1,49 +1,121 @@
 ngrams:
-- - adah
-  - isaacs
-  - menken
 - - britain
   - recalling
   - inhabitants
-- - ragbag
-  - gaw
-  - posted
 - - famous
   - clown
   - intrigued
-- - aged
-  - ted
-  - volta
 - - famous
   - clown
   - happily
 - - tireless
   - research
   - produce
-- - mother
-  - eve
-  - falk
 - - family
   - britain
   - recalling
 - - het
   - internet
   - somewhere
-- - including
-  - mental
-  - telepathists
 - - het
   - internet
   - imagine
-- - bold
-  - hussy
-  - whose
-- - hussy
-  - whose
-  - surprising
 - - whose
   - surprising
   - dress
+- - human
+  - spider
+  - lost
+- - world
+  - variety
+  - acts
+- - thumping
+  - great
+  - biography
+- - last
+  - generation
+  - remembered
+- - clown
+  - happily
+  - still
+- - book
+  - family
+  - britain
+- - happily
+  - still
+  - alive
+- - spider
+  - lost
+  - indeed
+- - lost
+  - world
+  - variety
+- - internet
+  - imagine
+  - how
+- - imagine
+  - how
+  - pleased
+- - rushed
+  - over
+  - westminster
+- - over
+  - westminster
+  - bridge
+- - generation
+  - remembered
+  - even
+- - time
+  - including
+  - mental
+- - who
+  - vanish
+  - utterly
+- - day
+  - rushed
+  - over
+- - them
+  - survives
+  - both
+- - clowns
+  - will
+  - stumble
+- - find
+  - your
+  - grandparents
+- - those
+  - who
+  - vanish
+- - posted
+  - an
+  - excerpt
+- - him
+  - up
+  - online
+- - will
+  - stumble
+  - upon
+- - looked
+  - him
+  - up
+- - corner
+  - this
+  - morning
+- - naked
+  - lady
+  - or
+- - lady
+  - or
+  - storm
+- - internet
+  - somewhere
+  - or
+- - completely
+  - forgotten
+  - or
+- - vanish
+  - utterly
+  - from
 story:
   date: 2010-08-17
   id: 2010-08-17-ted-volta
@@ -72,4 +144,4 @@ story:
     \ years of tireless research, produce a thumping great biography in book form,\
     \ and a website dedicated to the famous, not forgotten, clown."
   title: Ted Volta
-word_count: 317
+word_count: 314

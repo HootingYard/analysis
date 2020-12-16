@@ -1,13 +1,19 @@
 ngrams:
-- - talmudiic
-  - scholar
-  - action
-- - art
-  - talmudiic
-  - scholar
 - - scholar
   - action
   - figure
+- - two
+  - pointy
+  - things
+- - action
+  - figure
+  - with
+- - figure
+  - with
+  - two
+- - with
+  - two
+  - pointy
 story:
   date: 2017-11-04
   id: 2017-11-04-new-art

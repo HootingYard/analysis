@@ -1,22 +1,4 @@
 ngrams:
-- - quintessential
-  - left-wing
-  - luvvie
-- - left-wing
-  - luvvie
-  - swollen
-- - quintessential
-  - englishman
-  - glad
-- - oaf
-  - jonathan
-  - ross
-- - coarse
-  - barbarian
-  - oaf
-- - barbarian
-  - oaf
-  - jonathan
 - - highly
   - dangerous
   - syndrome
@@ -38,12 +20,72 @@ ngrams:
 - - bonkers
   - syndrome
   - call
-- - thoughts
-  - almost
-  - anomalously
+- - stupid
+  - person's
+  - idea
+- - words
+  - match
+  - one's
 - - proper
   - name
   - boffins
+- - match
+  - one's
+  - own
+- - one's
+  - own
+  - thoughts
+- - carted
+  - away
+  - raving
+- - away
+  - raving
+  - yesterday
+- - own
+  - thoughts
+  - almost
+- - description
+  - once
+  - given
+- - progressive
+  - illness
+  - where
+- - i'd
+  - also
+  - like
+- - their
+  - underground
+  - labs
+- - doesn't
+  - like
+  - being
+- - i've
+  - been
+  - longing
+- - like
+  - being
+  - called
+- - stage
+  - condition
+  - when
+- - syndrome
+  - call
+  - me
+- - yet
+  - been
+  - given
+- - syndrome
+  - so
+  - baffling
+- - dangerous
+  - syndrome
+  - so
+- - like
+  - i've
+  - been
+- - an
+  - interminable
+  - article
 story:
   date: 2009-05-11
   id: 2009-05-11-bonkers-syndrome
@@ -66,4 +108,4 @@ story:
     \ a duty to take the side of the civilisation that sustains him) rallied to the\
     \ defence of the coarse barbarian oaf Jonathan Ross."
   title: Bonkers Syndrome
-word_count: 239
+word_count: 233

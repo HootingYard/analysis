@@ -11,18 +11,18 @@ ngrams:
 - - bellicose
   - brutish
   - british
-- - spartan
-  - schloss
-  - run
-- - shouting
-  - marching
-  - marching
 - - british
   - butcher
   - famed
 - - brutish
   - british
   - butcher
+- - spartan
+  - schloss
+  - run
+- - shouting
+  - marching
+  - marching
 - - electrified
   - cordon
   - using
@@ -38,12 +38,108 @@ ngrams:
 - - haphazard
   - attention
   - distracted
-- - marching
-  - marching
-  - past
+- - talc
+  - lars
+  - talc
+- - talc
+  - lars
+  - talc
+- - talc
+  - lars
+  - talc
 - - lars
   - talc
   - lars
+- - lars
+  - talc
+  - lars
+- - lars
+  - talc
+  - lars
+- - marching
+  - marching
+  - past
+- - several
+  - sentences
+  - missing
+- - differences
+  - also
+  - talmudic
+- - marching
+  - past
+  - lars
+- - biblical
+  - differences
+  - also
+- - without
+  - causing
+  - collateral
+- - past
+  - lars
+  - talc
+- - also
+  - talmudic
+  - ones
+- - talmudic
+  - ones
+  - yet
+- - ones
+  - yet
+  - physically
+- - lars
+  - talc
+  - took
+- - paying
+  - only
+  - haphazard
+- - only
+  - haphazard
+  - attention
+- - nest
+  - now
+  - populated
+- - never
+  - seen
+  - eye
+- - now
+  - lars
+  - talc
+- - been
+  - identical
+  - twins
+- - been
+  - separated
+  - lars
+- - now
+  - bare
+  - head
+- - found
+  - him
+  - sitting
+- - were
+  - identical
+  - twins
+- - make
+  - more
+  - sense
+- - they
+  - discussed
+  - exterminating
+- - identical
+  - twins
+  - they
+- - identical
+  - twins
+  - they
+- - cocktail
+  - sausages
+  - there
+- - foregoing
+  - sentences
+  - which
+- - might
+  - make
+  - more
 story:
   date: 2016-08-03
   id: 2016-08-03-lars-talc-lars-talc
@@ -81,4 +177,4 @@ story:
 
     When we are done here, we shall drive to the forest in a Japanese car.'
   title: Lars Talc, Lars Talc
-word_count: 380
+word_count: 379

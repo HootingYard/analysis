@@ -1,25 +1,19 @@
 ngrams:
-- - alternatives
-  - rucksack
-  - haversack
-- - grovelling
-  - mea
-  - culpa
 - - acceptable
   - alternatives
   - rucksack
 - - personal
   - preference
   - knapsack
-- - mainstream
-  - press
-  - bloggers
-- - hitchens
-  - latest
-  - postage
 - - peter
   - hitchens
   - latest
+- - hitchens
+  - latest
+  - postage
+- - mary
+  - renault's
+  - books
 - - barbaric
   - neologism
   - used
@@ -44,6 +38,42 @@ ngrams:
 - - fully
   - indeed
   - robustly
+- - engages
+  - fully
+  - indeed
+- - 'yes'
+  - three
+  - acceptable
+- - pass
+  - without
+  - comment
+- - commented
+  - mr
+  - hitchens
+- - young
+  - persons
+  - often
+- - preference
+  - knapsack
+  - these
+- - ticking
+  - 'off'
+  - hitchens
+- - king
+  - must
+  - die
+- - three
+  - 'yes'
+  - three
+- - must
+  - take
+  - issue
+- - latest
+  - postage
+  - over
+- - knapsack
+  - these
+  - words
 story:
   date: 2010-07-01
   id: 2010-07-01-ticking-off-hitchens
@@ -64,4 +94,4 @@ story:
     \ press bloggers who engages fully, indeed robustly, with his readers, so I also\
     \ hope to see his grovelling mea culpa before too long."
   title: Ticking Off Hitchens
-word_count: 204
+word_count: 203

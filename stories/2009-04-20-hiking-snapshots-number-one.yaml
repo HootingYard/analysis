@@ -1,16 +1,22 @@
 ngrams:
-- - rme
-  - ber
-  - dem
-- - ber
-  - dem
-  - montblanc
-- - st
-  - rme
-  - ber
-- - hot-headed
-  - letter
-  - insisting
+- - hiking
+  - snapshots
+  - number
+- - mountain
+  - film
+  - st
+- - very
+  - rare
+  - photograph
+- - snapshots
+  - number
+  - one
+- - number
+  - one
+  - here
+- - print
+  - pamphleteer
+  - but
 story:
   date: 2009-04-20
   id: 2009-04-20-hiking-snapshots-number-one
@@ -20,4 +26,4 @@ story:
     \ a still from Arnold Fanck's 1930 \u201Cmountain film\u201D St\xFCrme \xFCber\
     \ dem Montblanc."
   title: Hiking Snapshots, Number One
-word_count: 56
+word_count: 55

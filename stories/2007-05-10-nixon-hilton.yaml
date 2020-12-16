@@ -1,7 +1,4 @@
 ngrams:
-- - governor
-  - arnold
-  - schwarzenegger
 - - petition
   - urging
   - california
@@ -23,27 +20,93 @@ ngrams:
 - - undeniably
   - support
   - paris
+- - former
+  - president
+  - gerald
 - - online
   - petition
   - urging
 - - support
   - paris
   - hilton
-- - former
-  - president
-  - gerald
-- - request
-  - ms
-  - hilton
 - - pardon
   - former
   - president
+- - request
+  - ms
+  - hilton
 - - president
   - gerald
   - ford
 - - austere
   - cell
   - wear
+- - former
+  - president
+  - richard
+- - socialite
+  - yesterday
+  - appealed
+- - president
+  - richard
+  - nixon
+- - mundane
+  - lives
+  - ms
+- - says
+  - ms
+  - hilton
+- - special
+  - needs
+  - wing
+- - needs
+  - wing
+  - thanks
+- - late
+  - former
+  - president
+- - mistake
+  - s
+  - reads
+- - otherwise
+  - mundane
+  - lives
+- - important
+  - request
+  - ms
+- - bentley
+  - along
+  - sunset
+- - along
+  - sunset
+  - boulevard
+- - ms
+  - hilton
+  - should
+- - driving
+  - while
+  - disqualified
+- - driving
+  - while
+  - drunk
+- - paris
+  - hilton
+  - being
+- - months
+  - last
+  - year
+- - richard
+  - nixon
+  - after
+- - don't
+  - visit
+  - hooting
+- - our
+  - otherwise
+  - mundane
+- - just
+  - three
+  - magazines
 story:
   date: 2007-05-10
   id: 2007-05-10-nixon-hilton
@@ -71,4 +134,4 @@ story:
     \ the time with just three magazines or a book, though she will be in a \u201C\
     special needs\u201D wing thanks to her celebrity status."
   title: Nixon Hilton
-word_count: 295
+word_count: 291

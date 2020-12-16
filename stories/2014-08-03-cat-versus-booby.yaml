@@ -1,7 +1,4 @@
 ngrams:
-- - blue-footed
-  - booby
-  - unfortunately
 - - cat
   - versus
   - booby
@@ -26,6 +23,9 @@ ngrams:
 - - far
   - distant
   - habitat
+- - dobson's
+  - bumper
+  - book
 - - yard
   - reader
   - resident
@@ -44,6 +44,72 @@ ngrams:
 - - other
   - cat
   - versus
+- - cat
+  - looks
+  - like
+- - california
+  - down
+  - along
+- - hooting
+  - yard
+  - reader
+- - up
+  - using
+  - skype
+- - link
+  - up
+  - using
+- - then
+  - found
+  - myself
+- - thoughts
+  - were
+  - prompted
+- - were
+  - prompted
+  - today
+- - their
+  - far
+  - distant
+- - shores
+  - apparently
+  - they
+- - facts
+  - about
+  - things
+- - using
+  - skype
+  - we
+- - these
+  - thoughts
+  - were
+- - can
+  - then
+  - subject
+- - booby
+  - alas
+  - so
+- - then
+  - subject
+  - them
+- - already
+  - know
+  - what
+- - bird
+  - which
+  - gives
+- - can
+  - link
+  - up
+- - post
+  - an
+  - account
+- - will
+  - do
+  - likewise
+- - sometimes
+  - do
+  - about
 story:
   date: 2014-08-03
   id: 2014-08-03-cat-versus-booby
@@ -70,4 +136,4 @@ story:
     I will post an account of the contest, and its results, as soon as we have managed\
     \ to conduct it."
   title: Cat Versus Booby
-word_count: 306
+word_count: 302

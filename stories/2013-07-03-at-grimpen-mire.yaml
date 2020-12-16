@@ -1,7 +1,4 @@
 ngrams:
-- - grimpen
-  - mire
-  - grab
 - - unlike
   - paavo
   - nurmi
@@ -20,12 +17,6 @@ ngrams:
 - - shabby
   - hotel
   - room
-- - around
-  - grimpen
-  - mire
-- - stroll
-  - around
-  - grimpen
 - - flying
   - finn
   - nor
@@ -44,6 +35,93 @@ ngrams:
 - - 'yes'
   - sprinted
   - back
+- - sprinted
+  - back
+  - towards
+- - rain
+  - fell
+  - down
+- - cursing
+  - oh
+  - now
+- - town
+  - long
+  - before
+- - 'no'
+  - flying
+  - finn
+- - am
+  - too
+  - tired
+- - rain
+  - started
+  - up
+- - about
+  - paavo
+  - nurmi
+- - creatures
+  - will
+  - crawl
+- - started
+  - up
+  - again
+- - gruesome
+  - creatures
+  - will
+- - mire
+  - grab
+  - me
+- - thought
+  - about
+  - paavo
+- - has
+  - such
+  - power
+- - 'no'
+  - power
+  - over
+- - drag
+  - me
+  - under
+- - 'no'
+  - idea
+  - how
+- - would
+  - almost
+  - certainly
+- - come
+  - perhaps
+  - when
+- - am
+  - 'no'
+  - flying
+- - will
+  - come
+  - perhaps
+- - fall
+  - what
+  - could
+- - day
+  - will
+  - come
+- - from
+  - exhaustion
+  - grinding
+- - collapse
+  - from
+  - exhaustion
+- - collapsed
+  - from
+  - exhaustion
+- - from
+  - exhaustion
+  - unlike
+- - certainly
+  - collapse
+  - from
+- - pocket
+  - from
+  - another
 story:
   date: 2013-07-03
   id: 2013-07-03-at-grimpen-mire
@@ -69,4 +147,4 @@ story:
     \ creatures will crawl from Grimpen Mire, grab me by the ankles, and drag me under.\
     \ So be it."
   title: At Grimpen Mire
-word_count: 329
+word_count: 328

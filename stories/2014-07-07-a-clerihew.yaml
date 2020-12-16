@@ -1,13 +1,19 @@
 ngrams:
-- - clerihew
-  - yasmin
-  - alibhai-brown
-- - topical
-  - clerihew
-  - yasmin
-- - prompted
-  - michael
-  - fabricant
+- - tv
+  - appearance
+  - rather
+- - appearance
+  - rather
+  - than
+- - something
+  - she
+  - wrote
+- - rather
+  - than
+  - something
+- - than
+  - something
+  - she
 story:
   date: 2014-07-07
   id: 2014-07-07-a-clerihew

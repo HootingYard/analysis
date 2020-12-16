@@ -1,37 +1,52 @@
 ngrams:
-- - mortician
-  - liquidate
-  - tonsorial
-- - glower
-  - scabby
-  - churl
-- - liquidate
-  - tonsorial
-  - demi-monde
-- - estivate
-  - peregrinate
-  - elysium
-- - splinter
-  - grapple
-  - jostle
-- - peregrinate
-  - elysium
-  - halcyon
 - - wormy
   - squirmy
   - mealy
-- - skulk
-  - glower
-  - scabby
-- - grapple
-  - jostle
-  - crusty
-- - tricksy
-  - tucker
+- - sullen
+  - crabbed
+  - scowling
+- - crunchy
+  - brittle
+  - crackly
+- - tucker
   - genteel
-- - svengali
-  - svelte
-  - bravura
+  - horrid
+- - ooze
+  - turpitude
+  - glutinous
+- - turpitude
+  - glutinous
+  - toady
+- - solemn
+  - angular
+  - creaky
+- - blubber
+  - squeal
+  - drip
+- - crawl
+  - blubber
+  - squeal
+- - squirmy
+  - mealy
+  - words
+- - crabbed
+  - scowling
+  - words
+- - brittle
+  - crackly
+  - words
+- - angular
+  - creaky
+  - words
+- - suave
+  - v
+  - words
+- - elegant
+  - flowery
+  - words
+- - fat
+  - buttery
+  - words
 story:
   date: 2012-03-13
   id: 2012-03-13-gurgle-bubble-and-burp
@@ -48,4 +63,4 @@ story:
     \ such as cowlick, gurgle, bubble and burp.\nRobert Pirosh, in a 1934 letter reproduced\
     \ at Letters Of Note"
   title: Gurgle, Bubble, And Burp
-word_count: 134
+word_count: 133

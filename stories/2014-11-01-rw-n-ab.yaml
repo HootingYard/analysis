@@ -1,13 +1,7 @@
 ngrams:
-- - novelist
-  - jean
-  - rhys
-- - rw
-  - ab
-  - approaching
-- - earliest
-  - musical
-  - uberenthusiasms
+- - publisher's
+  - gentle
+  - suggestion
 - - richard
   - williams
   - rang
@@ -17,18 +11,15 @@ ngrams:
 - - putative
   - desert
   - island
-- - seventieth
-  - birthday
-  - robert
 - - birthday
   - robert
   - wyatt
-- - soft
-  - machine
-  - volumes
 - - writer
   - richard
   - williams
+- - soft
+  - machine
+  - volumes
 - - 'true'
   - wyatt
   - responded
@@ -41,9 +32,51 @@ ngrams:
 - - older
   - brother
   - came
+- - wyatt's
+  - extensive
+  - back
 - - extensive
   - back
   - catalogue
+- - came
+  - home
+  - clutching
+- - brother
+  - came
+  - home
+- - island
+  - discs
+  - just
+- - stranger
+  - than
+  - richard
+- - than
+  - richard
+  - click
+- - very
+  - early
+  - s
+- - answered
+  - well
+  - read
+- - print
+  - pamphleteer
+  - dobson
+- - her
+  - publisher's
+  - gentle
+- - he'd
+  - enjoyed
+  - her
+- - write
+  - another
+  - book
+- - must
+  - never
+  - overlook
+- - williams
+  - rang
+  - him
 story:
   date: 2014-11-01
   id: 2014-11-01-rw-n-ab
@@ -65,4 +98,4 @@ story:
     \ one of the great galleries. It was\u2014still is\u2014Benge's cover for Ruth\
     \ Is Stranger Than Richard (1975). (Click for huge version.)\n"
   title: RW & AB
-word_count: 221
+word_count: 215

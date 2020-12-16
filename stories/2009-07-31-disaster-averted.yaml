@@ -1,7 +1,4 @@
 ngrams:
-- - bowling
-  - alley
-  - aromatherapy
 - - averted
   - shenanigans
   - aplenty
@@ -32,18 +29,111 @@ ngrams:
 - - exciting
   - quango
   - money
-- - alley
-  - aromatherapy
-  - human
-- - aromatherapy
-  - human
-  - rights
-- - jazz-funk
-  - seaside
-  - resort
 - - seaside
   - resort
   - bowling
+- - human
+  - rights
+  - retail
+- - single
+  - penny
+  - diverted
+- - understand
+  - recently
+  - added
+- - penny
+  - diverted
+  - towards
+- - helpline
+  - however
+  - informed
+- - own
+  - nefarious
+  - ends
+- - ends
+  - nothing
+  - less
+- - hacking
+  - community
+  - well
+- - quango
+  - money
+  - well
+- - forthcoming
+  - little
+  - ruskin
+- - little
+  - ruskin
+  - adventure
+- - money
+  - well
+  - spent
+- - those
+  - ends
+  - nothing
+- - other
+  - funny
+  - business
+- - hooting
+  - yard
+  - yesterday
+- - well
+  - spent
+  - say
+- - nothing
+  - less
+  - than
+- - has
+  - averted
+  - disaster
+- - who
+  - intersperse
+  - roughing
+- - laptops
+  - their
+  - helpline
+- - intersperse
+  - roughing
+  - up
+- - roughing
+  - up
+  - suspects
+- - been
+  - altered
+  - fake
+- - their
+  - helpline
+  - however
+- - least
+  - among
+  - them
+- - owe
+  - him
+  - our
+- - him
+  - our
+  - gratitude
+- - fake
+  - ones
+  - would
+- - up
+  - suspects
+  - down
+- - however
+  - informed
+  - me
+- - yard
+  - yesterday
+  - when
+- - every
+  - single
+  - out
+- - print
+  - pamphleteer
+  - would
+- - ruskin
+  - adventure
+  - one
 story:
   date: 2009-07-31
   id: 2009-07-31-disaster-averted
@@ -77,4 +167,4 @@ story:
     \ to the technoboffin. Single-handedly, he has averted disaster, and preserved\
     \ the reputation of Dobson. We all owe him our gratitude."
   title: Disaster Averted
-word_count: 367
+word_count: 366

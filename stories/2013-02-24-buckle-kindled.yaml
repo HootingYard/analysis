@@ -1,7 +1,4 @@
 ngrams:
-- - with-it
-  - groovy
-  - space
 - - paperback
   - brute
   - beauty
@@ -17,6 +14,18 @@ ngrams:
 - - groovy
   - space
   - age
+- - purchases
+  - oh
+  - electronic
+- - air
+  - pride
+  - plume
+- - oh
+  - electronic
+  - persons
+- - age
+  - kinda
+  - place
 story:
   date: 2013-02-24
   id: 2013-02-24-buckle-kindled
@@ -28,4 +37,4 @@ story:
 
     Go here and make your purchases, oh electronic persons!'
   title: Buckle! Kindled
-word_count: 78
+word_count: 76

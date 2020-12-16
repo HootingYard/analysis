@@ -6,14 +6,14 @@ ngrams:
   - knight
   - put
 - - dragon
-  - came
-  - alive
+  - couldn't
+  - get
 - - dragon
   - came
   - alive
 - - dragon
-  - couldn
-  - t
+  - came
+  - alive
 - - came
   - alive
   - again
@@ -23,12 +23,6 @@ ngrams:
 - - alive
   - again
   - because
-- - couldn
-  - t
-  - get
-- - couldn
-  - t
-  - find
 - - son
   - sam
   - then
@@ -44,6 +38,78 @@ ngrams:
 - - dragon
   - fell
   - into
+- - queen
+  - looked
+  - out
+- - were
+  - surprised
+  - because
+- - they
+  - couldn't
+  - find
+- - end
+  - they
+  - found
+- - story
+  - once
+  - there
+- - dragon
+  - had
+  - flown
+- - kingdom
+  - then
+  - they
+- - then
+  - they
+  - saw
+- - would
+  - do
+  - everything
+- - would
+  - even
+  - find
+- - juvenilia
+  - one
+  - day
+- - one
+  - day
+  - late
+- - had
+  - flown
+  - over
+- - kingdom
+  - when
+  - they
+- - drawbridge
+  - up
+  - so
+- - when
+  - they
+  - found
+- - they
+  - found
+  - out
+- - they
+  - found
+  - there
+- - my
+  - son
+  - sam
+- - acted
+  - as
+  - amanuensis
+- - tell
+  - his
+  - gang
+- - back
+  - as
+  - fast
+- - ran
+  - back
+  - as
+- - tot
+  - he
+  - told
 story:
   date: 2017-10-05
   id: 2017-10-05-juvenilia
@@ -68,4 +134,4 @@ story:
     \ for them in the kingdom. It would even find the cannonballs for them. And that's\
     \ the end."
   title: Juvenilia
-word_count: 304
+word_count: 300

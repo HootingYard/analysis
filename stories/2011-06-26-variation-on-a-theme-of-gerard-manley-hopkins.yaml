@@ -1,31 +1,19 @@
 ngrams:
-- - compressed
-  - reconstituted
-  - snacktime
-- - milksop
-  - rancorous
-  - varlet
-- - reconstituted
-  - snacktime
-  - meat
-- - snacktime
-  - meat
-  - substitute
+- - waylay
+  - hardy
+  - afternoon's
+- - hardy
+  - afternoon's
+  - minion
 - - cunning
   - inhuman
   - patience
-- - roared
-  - preening
-  - milksop
-- - preening
-  - milksop
-  - rancorous
-- - kingly
-  - boom
-  - growing
 - - rage
   - unworthy
   - princeling
+- - kingly
+  - boom
+  - growing
 - - boom
   - growing
   - louder
@@ -35,15 +23,192 @@ ngrams:
 - - hiding
   - scoffing
   - cake
-- - waylay
-  - hardy
-  - afternoon
 - - father
   - heaped
   - imprecations
 - - papa
   - fall
   - gall
+- - shabby
+  - kingdom
+  - blind
+- - fire
+  - quickly
+  - burned
+- - fall
+  - gall
+  - yourself
+- - pantry
+  - shelves
+  - began
+- - big
+  - net
+  - weighted
+- - toothsome
+  - treats
+  - among
+- - morning
+  - morning's
+  - minion
+- - air
+  - pride
+  - plume
+- - having
+  - nabbed
+  - freeman
+- - minions
+  - having
+  - nabbed
+- - took
+  - regular
+  - slurps
+- - ancient
+  - dotage
+  - does
+- - times
+  - told
+  - lovelier
+- - billion
+  - times
+  - told
+- - charred
+  - tin
+  - across
+- - filthy
+  - temper
+  - because
+- - oh
+  - air
+  - pride
+- - act
+  - oh
+  - air
+- - coming
+  - hours
+  - once
+- - quickly
+  - burned
+  - down
+- - heaped
+  - imprecations
+  - upon
+- - before
+  - dawn
+  - behind
+- - abnormally
+  - tiny
+  - head
+- - rather
+  - too
+  - big
+- - regular
+  - slurps
+  - then
+- - lovelier
+  - more
+  - dangerous
+- - other
+  - heir
+  - nor
+- - told
+  - lovelier
+  - more
+- - them
+  - safely
+  - imprisoned
+- - pointy
+  - little
+  - head
+- - pounced
+  - leaping
+  - out
+- - dragged
+  - him
+  - 'off'
+- - more
+  - dangerous
+  - than
+- - net
+  - over
+  - him
+- - came
+  - barging
+  - into
+- - came
+  - prancing
+  - into
+- - plot
+  - though
+  - what
+- - king
+  - ran
+  - me
+- - stood
+  - there
+  - twisted
+- - simply
+  - stood
+  - there
+- - louder
+  - so
+  - loud
+- - 'no'
+  - other
+  - heir
+- - minions
+  - morning's
+  - one
+- - one
+  - freeman
+  - hardy
+- - has
+  - been
+  - plotting
+- - dawn
+  - behind
+  - an
+- - imprecations
+  - upon
+  - me
+- - this
+  - morning
+  - morning's
+- - caught
+  - this
+  - morning
+- - shook
+  - until
+  - one
+- - until
+  - one
+  - fell
+- - fire
+  - broke
+  - from
+- - nabbed
+  - freeman
+  - at
+- - leftovers
+  - at
+  - sight
+- - has
+  - 'no'
+  - other
+- - willis
+  - by
+  - similar
+- - by
+  - similar
+  - means
+- - dotage
+  - does
+  - not
+- - does
+  - not
+  - seem
+- - from
+  - before
+  - dawn
 story:
   date: 2011-06-26
   id: 2011-06-26-variation-on-a-theme-of-gerard-manley-hopkins
@@ -88,4 +253,4 @@ story:
     \ I left the words hanging, and hobbled out of the pantry, stuffed with cake,\
     \ to waylay Hardy, afternoon's minion, as he came on duty."
   title: Variation On A Theme Of Gerard Manley Hopkins
-word_count: 572
+word_count: 565

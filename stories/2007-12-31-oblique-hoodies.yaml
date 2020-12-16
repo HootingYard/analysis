@@ -2,27 +2,39 @@ ngrams:
 - - liberal
   - democrats
   - adviser
-- - oblique
-  - strategies
-  - innit
 - - leader
   - nick
   - clegg
 - - nick
   - clegg
   - aged
-- - brian
-  - eno
+- - clegg
   - aged
-- - gun-toting
-  - pre-pubescent
-  - inner
-- - pre-pubescent
-  - inner
-  - city
-- - inner
-  - city
-  - gangstas
+  - keep
+- - new
+  - leader
+  - nick
+- - help
+  - new
+  - leader
+- - visionary
+  - brilliance
+  - just
+- - caused
+  - much
+  - hilarity
+- - brilliance
+  - just
+  - imagine
+- - brian's
+  - more
+  - enticing
+- - more
+  - enticing
+  - plans
+- - britain's
+  - youth
+  - has
 story:
   date: 2007-12-31
   id: 2007-12-31-oblique-hoodies
@@ -35,4 +47,4 @@ story:
     \ pre-pubescent inner city \u201Cgangstas\u201D if, instead of being issued with\
     \ Asbos, they are given a stiff dose of Oblique Strategies, innit?"
   title: Oblique Hoodies
-word_count: 101
+word_count: 99

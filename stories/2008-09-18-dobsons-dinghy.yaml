@@ -1,10 +1,10 @@
 ngrams:
+- - ruined
+  - ship's
+  - chandler
 - - hindenburg
   - airships
   - depending
-- - bestselling
-  - paperbackist
-  - binds
 - - untold
   - savagery
   - cursing
@@ -16,16 +16,16 @@ ngrams:
   - fails
 - - ruined
   - ship
-  - chandler
+  - chandler's
+- - one's
+  - abandoned
+  - manuscripts
+- - fold
+  - one's
+  - abandoned
 - - writing
   - condition
   - hunched
-- - poet
-  - dennis
-  - beerpint
-- - tiptop
-  - writing
-  - condition
 - - paper
   - hindenburg
   - airships
@@ -41,9 +41,195 @@ ngrams:
 - - dozen
   - different
   - nouns
-- - crack-of-dawn
-  - brain
+- - brain
   - exercises
+  - flexing
+- - great
+  - creative
+  - outpouring
+- - victorian
+  - everyday
+  - book
+- - dobson's
+  - dinghy
+  - every
+- - feel
+  - impelled
+  - yet
+- - find
+  - different
+  - uses
+- - writers
+  - find
+  - different
+- - relaxed
+  - after
+  - folding
+- - thoroughly
+  - relaxed
+  - after
+- - very
+  - rare
+  - occasions
+- - once
+  - again
+  - baffled
+- - condition
+  - hunched
+  - over
+- - after
+  - folding
+  - half
+- - impelled
+  - yet
+  - again
+- - alarming
+  - any
+  - ducks
+- - coma
+  - other
+  - writers
+- - never
+  - quite
+  - works
+- - then
+  - cleverly
+  - crossed
+- - found
+  - myself
+  - once
+- - myself
+  - once
+  - again
+- - across
+  - alarming
+  - any
+- - did
+  - yesterday
+  - morning
+- - dobson
+  - never
+  - launched
+- - briny
+  - dobson
+  - never
+- - put
+  - dobson
+  - himself
+- - has
+  - aborted
+  - works
+- - other
+  - writers
+  - find
+- - their
+  - discarded
+  - scribblings
+- - skull
+  - seized
+  - up
+- - dinghy
+  - every
+  - time
+- - coots
+  - who
+  - got
+- - fancy
+  - took
+  - him
+- - everyday
+  - book
+  - some
+- - any
+  - ducks
+  - such
+- - hopeless
+  - novella
+  - into
+- - manuscripts
+  - into
+  - toy
+- - crows
+  - were
+  - stalking
+- - into
+  - toy
+  - forms
+- - abandoned
+  - manuscripts
+  - into
+- - ever
+  - has
+  - aborted
+- - about
+  - dobson's
+  - dinghy
+- - about
+  - dobson's
+  - dinghy
+- - about
+  - dobson's
+  - dinghy
+- - about
+  - dobson's
+  - dinghy
+- - cleverly
+  - crossed
+  - out
+- - impassioned
+  - prose
+  - about
+- - rare
+  - occasions
+  - when
+- - window
+  - crows
+  - were
+- - turned
+  - into
+  - scrap
+- - into
+  - paper
+  - aeroplanes
+- - prose
+  - about
+  - dobson's
+- - write
+  - about
+  - dobson's
+- - write
+  - about
+  - dobson's
+- - writing
+  - about
+  - sometimes
+- - were
+  - stalking
+  - across
+- - ship
+  - chandler's
+  - there
+- - crossed
+  - out
+  - every
+- - out
+  - every
+  - mention
+- - so
+  - thoroughly
+  - relaxed
+- - book
+  - some
+  - might
+- - seized
+  - up
+  - like
+- - years
+  - when
+  - trying
+- - made
+  - into
+  - paper
 story:
   date: 2008-09-18
   id: 2008-09-18-dobsons-dinghy
@@ -92,4 +278,4 @@ story:
     \ about Dobson's dinghy. I will mention the pond, the yellow colour, the rubber\
     \ fabric, and the ruined ship's chandler, and that will be that."
   title: Dobson's Dinghy
-word_count: 631
+word_count: 623

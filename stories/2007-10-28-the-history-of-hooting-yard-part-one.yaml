@@ -1,37 +1,52 @@
 ngrams:
+- - estimable
+  - max
+  - d
 - - malice
   - aforethought
   - press
 - - aforethought
   - press
   - publication
-- - estimable
-  - max
-  - d
-- - max
-  - d
-  - charn
-- - -page
-  - pamphlet
-  - smooching
-- - d
-  - charn
-  - alas
-- - question
-  - entitled
-  - slab
-- - twenty
-  - years
-  - since
-- - charn
-  - alas
-  - like
 - - since
   - hooting
   - yard
 - - hooting
   - yard
   - part
+- - years
+  - since
+  - hooting
+- - yard
+  - first
+  - appeared
+- - shut
+  - up
+  - shop
+- - hooting
+  - yard
+  - first
+- - few
+  - years
+  - before
+- - can't
+  - recall
+  - when
+- - words
+  - were
+  - tucked
+- - were
+  - tucked
+  - away
+- - page
+  - we
+  - find
+- - now
+  - decisively
+  - out
+- - this
+  - malice
+  - aforethought
 story:
   date: 2007-10-28
   id: 2007-10-28-the-history-of-hooting-yard-part-one
@@ -46,4 +61,4 @@ story:
     \ a few years before 1987, but I can't recall when that might have been with any\
     \ precision."
   title: "The History Of Hooting Yard\_: Part One"
-word_count: 135
+word_count: 133

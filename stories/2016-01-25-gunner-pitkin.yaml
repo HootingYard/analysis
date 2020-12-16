@@ -44,6 +44,69 @@ ngrams:
 - - pitkin
   - looked
   - wildly
+- - stranded
+  - behind
+  - enemy
+- - field
+  - tent
+  - gunner
+- - field
+  - tent
+  - gunner
+- - behind
+  - enemy
+  - lines
+- - behind
+  - enemy
+  - lines
+- - spade
+  - high
+  - ready
+- - gunner
+  - pitkin
+  - put
+- - making
+  - toy
+  - cows
+- - gunner
+  - pitkin
+  - found
+- - fell
+  - asleep
+  - several
+- - asleep
+  - several
+  - hours
+- - looked
+  - wildly
+  - around
+- - himself
+  - stranded
+  - behind
+- - found
+  - himself
+  - stranded
+- - pitkin
+  - found
+  - himself
+- - several
+  - hours
+  - later
+- - down
+  - gunner
+  - pitkin
+- - spade
+  - down
+  - gunner
+- - enemy
+  - cow
+  - back
+- - bashing
+  - down
+  - repeatedly
+- - freshness
+  - deep
+  - down
 story:
   date: 2016-01-25
   id: 2016-01-25-gunner-pitkin
@@ -68,4 +131,4 @@ story:
     \ he had made hundreds of toy cows.\n  They can now be found in a museum, a converted\
     \ barn in a daffodil-splattered field that used to be behind enemy lines."
   title: Gunner Pitkin
-word_count: 294
+word_count: 293

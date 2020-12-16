@@ -1,19 +1,7 @@
 ngrams:
-- - eclipses
-  - unpopular
-  - improvements
-- - hanwell
-  - lunatic
-  - asylum
 - - upper
   - classes
   - touching
-- - literary
-  - emanations
-  - appearing
-- - poisonous
-  - literary
-  - emanations
 - - ladies
   - especially
   - abandoning
@@ -23,12 +11,6 @@ ngrams:
 - - remarks
   - pointed
   - generally
-- - dr
-  - conolly
-  - lamented
-- - institution
-  - dr
-  - conolly
 - - royal
   - institution
   - dr
@@ -41,9 +23,69 @@ ngrams:
 - - mental
   - diseases
   - although
-- - although
+- - diseases
+  - although
   - dr
-  - conolly
+- - religious
+  - books
+  - dr
+- - appearing
+  - without
+  - authority
+- - theological
+  - doctrine
+  - still
+- - dignified
+  - most
+  - improperly
+- - those
+  - poisonous
+  - literary
+- - especially
+  - those
+  - belonging
+- - ladies
+  - especially
+  - those
+- - morbid
+  - brooding
+  - over
+- - brooding
+  - over
+  - subjects
+- - pamphleteer
+  - dobson
+  - thanks
+- - print
+  - pamphleteer
+  - dobson
+- - severely
+  - commented
+  - upon
+- - know
+  - better
+  - don't
+- - doctrine
+  - still
+  - now
+- - morbid
+  - brooding
+  - about
+- - brooding
+  - about
+  - abstruse
+- - about
+  - abstruse
+  - points
+- - can
+  - also
+  - read
+- - religious
+  - subjects
+  - are
+- - also
+  - read
+  - about
 story:
   date: 2007-05-15
   id: 2007-05-15-things-not-generally-known
@@ -68,4 +110,4 @@ story:
     \ work which had a profound influence on the out of print pamphleteer Dobson.\n\
     Thanks to Scribal Terror."
   title: Things Not Generally Known
-word_count: 241
+word_count: 239

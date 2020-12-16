@@ -1,13 +1,7 @@
 ngrams:
-- - benjamin
-  - taylor
-  - storyology
 - - andrew
   - lang
   - mentions
-- - taylor
-  - storyology
-  - essays
 - - mandrake
   - root
   - pulled
@@ -44,6 +38,51 @@ ngrams:
 - - mr
   - andrew
   - lang
+- - stolen
+  - mr
+  - andrew
+- - under
+  - certain
+  - stars
+- - worth
+  - noting
+  - here
+- - its
+  - wide
+  - distribution
+- - considering
+  - its
+  - wide
+- - african
+  - tribes
+  - who
+- - tribes
+  - who
+  - wear
+- - who
+  - wear
+  - roots
+- - same
+  - way
+  - only
+- - superstitions
+  - about
+  - mandrake
+- - thrives
+  - best
+  - if
+- - best
+  - if
+  - planted
+- - will
+  - become
+  - watery
+- - if
+  - planted
+  - under
+- - old
+  - superstitions
+  - about
 story:
   date: 2010-02-09
   id: 2010-02-09-the-potato-certain-beliefs-regarding

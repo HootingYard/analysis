@@ -1,7 +1,4 @@
 ngrams:
-- - vercingetorix
-  - clank
-  - wherefore
 - - marches
   - puny
   - vercingetorix
@@ -14,9 +11,6 @@ ngrams:
 - - puny
   - vercingetorix
   - clank
-- - straggling
-  - marcher
-  - cut
 - - stones
   - puny
   - vercingetorix
@@ -44,6 +38,123 @@ ngrams:
 - - hark
   - hear
   - puny
+- - hear
+  - puny
+  - vercingetorix
+- - king
+  - george
+  - iii
+- - tiny
+  - puny
+  - cog
+- - rear
+  - having
+  - fallen
+- - straggler
+  - falls
+  - far
+- - occurrences
+  - most
+  - distressing
+- - distressing
+  - most
+  - distressing
+- - puny
+  - vercingetorix
+  - though
+- - most
+  - extraordinary
+  - noise
+- - having
+  - fallen
+  - behind
+- - vercingetorix
+  - see
+  - vercingetorix
+- - see
+  - vercingetorix
+  - vercingetorix
+- - away
+  - puny
+  - vercingetorix
+- - puny
+  - vercingetorix
+  - see
+- - make
+  - significant
+  - passing
+- - falls
+  - far
+  - behind
+- - roam
+  - these
+  - hills
+- - lord
+  - two
+  - thousand
+- - travelling
+  - circus
+  - now
+- - most
+  - distressing
+  - most
+- - piece
+  - first
+  - appeared
+- - far
+  - away
+  - puny
+- - hills
+  - far
+  - away
+- - these
+  - hills
+  - far
+- - rather
+  - than
+  - carrying
+- - bears
+  - rather
+  - than
+- - him
+  - unimaginable
+  - harm
+- - such
+  - occurrences
+  - most
+- - our
+  - lord
+  - two
+- - tickled
+  - their
+  - funny
+- - has
+  - fallen
+  - behind
+- - their
+  - funny
+  - bones
+- - funny
+  - bones
+  - up
+- - been
+  - countless
+  - newspaper
+- - bones
+  - up
+  - ahead
+- - could
+  - barely
+  - see
+- - about
+  - beatific
+  - smiles
+- - flail
+  - about
+  - beatific
+- - george
+  - iii
+  - what
 story:
   date: 2017-12-13
   id: 2017-12-13-puny-vercingetorix
@@ -87,4 +198,4 @@ story:
     And that piece first appeared in the first month of the Year of Our Lord two thousand
     and fourteen.'
   title: Puny Vercingetorix
-word_count: 423
+word_count: 421

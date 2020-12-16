@@ -5,12 +5,6 @@ ngrams:
 - - mixed
   - assortment
   - horace
-- - pretty
-  - englishwomen
-  - altogether
-- - twelve
-  - pretty
-  - englishwomen
 - - large
   - vases
   - containing
@@ -32,6 +26,27 @@ ngrams:
 - - two
   - large
   - vases
+- - practice
+  - two
+  - large
+- - time
+  - capsule
+  - following
+- - items
+  - were
+  - deposited
+- - contemporary
+  - items
+  - were
+- - stuff
+  - still
+  - there
+- - razor
+  - an
+  - alexandra
+- - shilling
+  - razor
+  - an
 story:
   date: 2010-07-15
   id: 2010-07-15-time-capsule
@@ -48,4 +63,4 @@ story:
     \nHorace Wyndham, This Was The News\_: An Anthology Of Victorian Affairs (1948)\n\
     Is all that stuff still there, entombed in vases beneath the Needle?"
   title: Time Capsule
-word_count: 135
+word_count: 131

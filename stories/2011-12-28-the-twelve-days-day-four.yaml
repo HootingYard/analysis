@@ -1,13 +1,19 @@
 ngrams:
-- - chaffinches
-  - three
-  - poptarts
 - - four
   - dead
   - chaffinches
 - - dead
   - chaffinches
   - three
+- - two
+  - cardboard
+  - pigs
+- - days
+  - day
+  - four
+- - me
+  - four
+  - dead
 story:
   date: 2011-12-28
   id: 2011-12-28-the-twelve-days-day-four

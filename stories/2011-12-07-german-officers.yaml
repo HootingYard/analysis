@@ -1,13 +1,16 @@
 ngrams:
+- - enjoyed
+  - phil
+  - baker's
 - - abject
   - veneration
   - ladies
-- - enjoyed
-  - phil
-  - baker
 - - austin
   - osman
   - spare
+- - phil
+  - baker's
+  - biography
 - - race
   - apart
   - immune
@@ -44,6 +47,33 @@ ngrams:
 - - them
   - ample
   - room
+- - years
+  - later
+  - before
+- - dennis
+  - reminiscing
+  - about
+- - their
+  - own
+  - courts
+- - men
+  - when
+  - approaching
+- - disgraceful
+  - act
+  - they
+- - were
+  - simply
+  - given
+- - if
+  - found
+  - guilty
+- - civilian
+  - population
+  - had
+- - greet
+  - one
+  - another
 story:
   date: 2011-12-07
   id: 2011-12-07-german-officers
@@ -63,4 +93,4 @@ story:
     \ and a sharp bow from the waist. It was years later before I realised that very\
     \ few of them had any brains at all \u2026"
   title: German Officers
-word_count: 202
+word_count: 201

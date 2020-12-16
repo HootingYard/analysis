@@ -1,28 +1,40 @@
 ngrams:
-- - superficiality
-  - w
-  - l
-- - persons
-  - inclined
-  - toward
 - - w
   - l
   - george
-- - rule
-  - use
-  - postscripts
+- - persons
+  - inclined
+  - toward
+- - p
+  - s
+  - men
 - - sentence
   - written
   - outside
+- - s
+  - men
+  - do
 - - might
   - almost
   - say
-- - postscripts
-  - than
-  - other
 - - than
   - other
   - kinds
+- - much
+  - more
+  - given
+- - before
+  - me
+  - letters
+- - one
+  - extraordinary
+  - letter
+- - arts
+  - are
+  - much
+- - extraordinary
+  - letter
+  - from
 story:
   date: 2011-04-18
   id: 2011-04-18-p-s

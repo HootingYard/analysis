@@ -1,13 +1,19 @@
 ngrams:
-- - unclean
-  - fiery
-  - imp
 - - critic
   - denounced
   - algernon
 - - denounced
   - algernon
   - charles
+- - algernon
+  - charles
+  - swinburne
+- - an
+  - unclean
+  - fiery
+- - one
+  - critic
+  - denounced
 story:
   date: 2011-10-26
   id: 2011-10-26-swinburne

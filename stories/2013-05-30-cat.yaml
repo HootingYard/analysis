@@ -17,9 +17,6 @@ ngrams:
 - - cat
   - curiosity
   - killed
-- - bold
-  - black
-  - sanserif
 - - five
   - six
   - seven
@@ -44,6 +41,87 @@ ngrams:
 - - calmative
   - elixir
   - before
+- - elixir
+  - before
+  - starting
+- - before
+  - starting
+  - drum
+- - even
+  - eight
+  - instances
+- - check
+  - its
+  - progress
+- - two
+  - three
+  - four
+- - cats
+  - can
+  - prove
+- - can
+  - prove
+  - highly
+- - cat
+  - has
+  - grasped
+- - cat's
+  - brain
+  - could
+- - cat
+  - has
+  - nine
+- - has
+  - nine
+  - lives
+- - zero
+  - 'no'
+  - cat's
+- - your
+  - considerable
+  - fortune
+- - could
+  - ever
+  - cope
+- - 'no'
+  - cat's
+  - brain
+- - left
+  - your
+  - considerable
+- - take
+  - some
+  - sort
+- - perilous
+  - curiosity
+  - will
+- - regular
+  - tests
+  - if
+- - brain
+  - could
+  - ever
+- - will
+  - die
+  - happy
+- - 'no'
+  - coming
+  - back
+- - highly
+  - exasperating
+  - so
+- - nine
+  - lives
+  - so
+- - will
+  - die
+  - before
+- - do
+  - well
+  - then
+- - when
+  - its
+  - curiosity
 story:
   date: 2013-05-30
   id: 2013-05-30-cat
@@ -76,4 +154,4 @@ story:
     it in your last will and testament, to ensure it wants for nothing in this mortal
     world.'
   title: Cat
-word_count: 331
+word_count: 329

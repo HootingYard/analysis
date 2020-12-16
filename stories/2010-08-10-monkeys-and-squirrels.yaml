@@ -1,7 +1,4 @@
 ngrams:
-- - tough-guy
-  - japanese
-  - macaque
 - - emergency
   - medical
   - assistance
@@ -17,15 +14,12 @@ ngrams:
 - - deceased
   - weasel
   - alas
-- - news
-  - signally
-  - fails
 - - maimed
   - flying
   - squirrel
-- - super
-  - soaraway
-  - dabbler
+- - news
+  - signally
+  - fails
 - - macaque
   - monkey
   - scampering
@@ -44,6 +38,180 @@ ngrams:
 - - tull
   - song
   - lyric
+- - flying
+  - squirrel
+  - exhausted
+- - jethro
+  - tull
+  - song
+- - blister
+  - lane
+  - bypass
+- - squirrel
+  - insight
+  - news
+- - squirrel
+  - sanctuary
+  - close
+- - squirrel
+  - blood
+  - dripping
+- - monkey
+  - flying
+  - squirrel
+- - small
+  - japanese
+  - macaque
+- - collective
+  - title
+  - various
+- - small
+  - wounded
+  - animals
+- - promising
+  - title
+  - important
+- - important
+  - monkey
+  - flying
+- - commercially
+  - printed
+  - rather
+- - assistance
+  - despite
+  - having
+- - title
+  - important
+  - monkey
+- - shallow
+  - grave
+  - every
+- - told
+  - marigold
+  - chew
+- - squirrel
+  - sanctuary
+  - while
+- - title
+  - various
+  - things
+- - monkey
+  - scampering
+  - away
+- - fence
+  - dobson
+  - chanced
+- - perimeter
+  - fence
+  - dobson
+- - written
+  - possibly
+  - because
+- - wounded
+  - animals
+  - after
+- - down
+  - applied
+  - liniment
+- - knelt
+  - down
+  - applied
+- - must
+  - quite
+  - frankly
+- - ever
+  - written
+  - possibly
+- - department
+  - stores
+  - where
+- - rain
+  - imprecations
+  - down
+- - brick
+  - its
+  - significance
+- - never
+  - got
+  - round
+- - never
+  - told
+  - marigold
+- - pamphleteer
+  - put
+  - two
+- - her
+  - recently
+  - deceased
+- - replace
+  - her
+  - recently
+- - rather
+  - than
+  - typeset
+- - printed
+  - rather
+  - than
+- - winkle
+  - some
+  - meaning
+- - read
+  - dobson
+  - today
+- - grave
+  - every
+  - day
+- - maimed
+  - after
+  - being
+- - accompanies
+  - has
+  - eluded
+- - after
+  - being
+  - pursued
+- - painstaking
+  - research
+  - has
+- - research
+  - has
+  - shown
+- - did
+  - dobson
+  - apply
+- - thoroughly
+  - did
+  - dobson
+- - still
+  - read
+  - dobson
+- - dobson
+  - chanced
+  - upon
+- - together
+  - then
+  - quite
+- - him
+  - last
+  - saturday
+- - has
+  - eluded
+  - every
+- - needed
+  - him
+  - last
+- - absolutely
+  - factual
+  - what
+- - imprecations
+  - down
+  - upon
+- - down
+  - upon
+  - puppies
+- - factual
+  - what
+  - happened
 story:
   date: 2010-08-10
   id: 2010-08-10-monkeys-and-squirrels
@@ -91,4 +259,4 @@ story:
     \ is one of the reasons we still read Dobson today. He continues to challenge\
     \ us."
   title: Monkeys And Squirrels
-word_count: 573
+word_count: 570

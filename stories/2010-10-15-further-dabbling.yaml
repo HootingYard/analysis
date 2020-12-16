@@ -2,12 +2,12 @@ ngrams:
 - - chilean
   - miners
   - deep
-- - ancient
-  - tales
-  - buried
 - - lick
   - o
   - lacquer
+- - ancient
+  - tales
+  - buried
 - - yard
   - archives
   - dusted
@@ -17,6 +17,15 @@ ngrams:
 - - startling
   - even
   - brutal
+- - like
+  - chilean
+  - miners
+- - buried
+  - like
+  - chilean
+- - tales
+  - buried
+  - like
 story:
   date: 2010-10-15
   id: 2010-10-15-further-dabbling

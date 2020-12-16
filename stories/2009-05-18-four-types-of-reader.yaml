@@ -1,7 +1,4 @@
 ngrams:
-- - eighteenth-century
-  - subscription
-  - library
 - - yard
   - fall
   - silent
@@ -14,6 +11,18 @@ ngrams:
 - - london
   - divided
   - its
+- - hooting
+  - yard
+  - fall
+- - divided
+  - its
+  - readers
+- - made
+  - hooting
+  - yard
+- - into
+  - four
+  - categories
 story:
   date: 2009-05-18
   id: 2009-05-18-four-types-of-reader

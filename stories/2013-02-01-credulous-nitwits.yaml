@@ -1,43 +1,61 @@
 ngrams:
-- - delightedly
-  - tanks
-  - rattle
-- - bombing
-  - planes
-  - darken
-- - overcrowded
-  - ramshackle
-  - tenements
-- - earnest
-  - town-planning
-  - specialists
-- - nitwits
-  - malcolm
-  - muggeridge
-- - muggeridge
-  - describes
-  - fact-finding
 - - credulous
   - nitwits
   - malcolm
-- - delight
-  - constitute
-  - unquestionably
-- - malcolm
-  - muggeridge
-  - describes
-- - university-educated
-  - tourists
-  - astonished
-- - describes
-  - fact-finding
-  - tourists
-- - mostly
-  - university-educated
-  - tourists
-- - atheistic
-  - literature
+- - stalin's
+  - soviet
+  - union
+- - handling
+  - foreign
+  - visitors
+- - outside
+  - overcrowded
+  - ramshackle
+- - almost
+  - unbelievable
+  - credulity
+- - stood
+  - outside
+  - overcrowded
+- - eyes
   - earnest
+  - advocates
+- - soviet
+  - officials
+  - used
+- - tanks
+  - rattle
+  - across
+- - walked
+  - reverently
+  - through
+- - tourists
+  - astonished
+  - even
+- - even
+  - soviet
+  - officials
+- - astonished
+  - even
+  - soviet
+- - who
+  - eagerly
+  - assented
+- - representation
+  - who
+  - eagerly
+- - who
+  - walked
+  - reverently
+- - specialists
+  - who
+  - stood
+- - cattle
+  - who
+  - looked
+- - who
+  - stood
+  - outside
 story:
   date: 2013-02-01
   id: 2013-02-01-credulous-nitwits
@@ -56,4 +74,4 @@ story:
     \ in England!\u201D The almost unbelievable credulity of these mostly university-educated\
     \ tourists astonished even Soviet officials used to handling foreign visitors."
   title: Credulous Nitwits
-word_count: 160
+word_count: 159

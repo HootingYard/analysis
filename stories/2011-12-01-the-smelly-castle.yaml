@@ -1,13 +1,7 @@
 ngrams:
-- - pot
-  - pourris
-  - hither
 - - hideous
   - stench
   - wafting
-- - scattered
-  - pot
-  - pourris
 - - heady
   - perfumes
   - brought
@@ -41,9 +35,48 @@ ngrams:
 - - baron
   - who
   - lived
-- - their
-  - latest
-  - scents
+- - bathed
+  - much
+  - more
+- - who
+  - announced
+  - himself
+- - much
+  - more
+  - often
+- - man
+  - who
+  - announced
+- - more
+  - often
+  - than
+- - half
+  - an
+  - hour
+- - offended
+  - were
+  - some
+- - baron
+  - had
+  - tried
+- - had
+  - tried
+  - everything
+- - lived
+  - there
+  - could
+- - fumigation
+  - expert
+  - or
+- - who
+  - lived
+  - there
+- - from
+  - mysterious
+  - distant
+- - lands
+  - by
+  - itinerant
 story:
   date: 2011-12-01
   id: 2011-12-01-the-smelly-castle

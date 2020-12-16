@@ -2,12 +2,6 @@ ngrams:
 - - colin
   - clair
   - unnatural
-- - gigantic
-  - gold-digging
-  - pismire
-- - illustrated
-  - bestiary
-  - alas
 - - middle
   - ages
   - witness
@@ -44,6 +38,33 @@ ngrams:
 - - ant
   - being
   - thus
+- - eat
+  - flesh
+  - like
+- - wretched
+  - insect
+  - could
+- - insect
+  - could
+  - neither
+- - its
+  - size
+  - since
+- - could
+  - neither
+  - eat
+- - nor
+  - herbs
+  - like
+- - its
+  - father
+  - nor
+- - herbs
+  - like
+  - its
+- - flesh
+  - like
+  - its
 story:
   date: 2010-10-23
   id: 2010-10-23-the-ant-lion
@@ -62,4 +83,4 @@ story:
     \ ant-lion is not illustrated in the book, and nor is the gigantic gold-digging\
     \ pismire, with which it shares a chapter."
   title: The Ant-Lion
-word_count: 181
+word_count: 180

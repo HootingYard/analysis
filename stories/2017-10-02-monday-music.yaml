@@ -1,13 +1,19 @@
 ngrams:
-- - singer
-  - stanley
-  - kowalski
-- - stanley
-  - kowalski
-  - sorry
 - - er
   - idiosyncratic
   - performance
+- - samuel
+  - t
+  - herring
+- - mean
+  - samuel
+  - t
+- - monday
+  - music
+  - seasons
+- - almost
+  - perfect
+  - impersonation
 story:
   date: 2017-10-02
   id: 2017-10-02-monday-music

@@ -1,13 +1,19 @@
 ngrams:
-- - hideous
-  - bat-gods
-  - ectoplasm
-- - six
-  - hideous
-  - bat-gods
-- - bat-gods
-  - ectoplasm
+- - four
+  - dead
+  - chaffinches
+- - ectoplasm
   - four
+  - dead
+- - dead
+  - chaffinches
+  - three
+- - two
+  - cardboard
+  - pigs
+- - days
+  - day
+  - six
 story:
   date: 2011-12-30
   id: 2011-12-30-the-twelve-days-day-six

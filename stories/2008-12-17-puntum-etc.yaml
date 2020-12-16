@@ -1,13 +1,19 @@
 ngrams:
-- - puntum
-  - liquiescent
-  - clivis
-- - mirabilis
-  - ca
-  - deploys
-- - m
+- - etc
+  - i'm
+  - learning
+- - i'm
   - learning
   - terms
+- - learning
+  - terms
+  - like
+- - deploys
+  - some
+  - exciting
+- - some
+  - exciting
+  - words
 story:
   date: 2008-12-17
   id: 2008-12-17-puntum-etc
@@ -15,4 +21,4 @@ story:
     \ I know why solfege is so important.\u201D\nChristine at Mirabilis.ca deploys\
     \ some exciting words."
   title: Puntum, Etc.
-word_count: 27
+word_count: 26

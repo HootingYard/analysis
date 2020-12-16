@@ -1,19 +1,25 @@
 ngrams:
-- - stephen
-  - bayley
-  - reviewing
 - - novelist
   - anthony
   - burgess
-- - mick
-  - stephen
-  - bayley
 - - anthony
   - burgess
   - settle
-- - bayley
-  - reviewing
+- - concert
+  - grand
+  - put
+- - burgess
+  - settle
+  - down
+- - reviewing
   - books
+  - about
+- - quite
+  - sure
+  - if
+- - settle
+  - down
+  - at
 story:
   date: 2017-03-18
   id: 2017-03-18-burgess

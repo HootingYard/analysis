@@ -1,4 +1,7 @@
 ngrams:
+- - yesterday's
+  - radio
+  - show
 - - sounds
   - quite
   - formidable
@@ -14,6 +17,12 @@ ngrams:
 - - hooting
   - yard
   - chant
+- - gone
+  - hooting
+  - hooting
+- - yard
+  - hooting
+  - yard
 story:
   date: 2010-04-30
   id: 2010-04-30-chant
@@ -27,4 +36,4 @@ story:
 
     Chant'
   title: Chant
-word_count: 70
+word_count: 69

@@ -2,30 +2,15 @@ ngrams:
 - - balanchine
   - nijinsky
   - legat
-- - sheppard
-  - jessie
-  - matthews
-- - nicholson
-  - gabo
-  - mir
-- - sonnie
-  - hale
-  - isobel
-- - hale
-  - isobel
-  - baillie
 - - ben
   - nicholson
   - gabo
-- - basil
-  - balanchine
-  - nijinsky
 - - lawrence
   - duke
   - ellington
-- - bernanos
-  - gordon
-  - craig
+- - basil
+  - balanchine
+  - nijinsky
 - - gordon
   - craig
   - heifetz
@@ -35,12 +20,48 @@ ngrams:
 - - naval
   - attach
   - marshal
-- - disclaimer
-  - rayner
-  - heppenstall
+- - harper's
+  - bazaar
+  - kingdom
 - - grand
   - duke
   - cyril
+- - astor
+  - henry
+  - moore
+- - russian
+  - ballet
+  - lawrence
+- - wickham
+  - lady
+  - astor
+- - anna
+  - wickham
+  - lady
+- - h
+  - lawrence
+  - duke
+- - brown
+  - clark
+  - gable
+- - joe
+  - e
+  - brown
+- - attach
+  - marshal
+  - p
+- - except
+  - messrs
+  - l
+- - lady
+  - astor
+  - henry
+- - d
+  - h
+  - lawrence
+- - l
+  - n
+  - fowler
 story:
   date: 2012-08-29
   id: 2012-08-29-acknowledgements-and-disclaimer
@@ -59,4 +80,4 @@ story:
     \ attach\xE9, Marshal P\xE9tain, M. Stalin and Mr. Winston Churchill, the late\
     \ Mr. Neville Chamberlain, the Hangman and the reigning house of this realm."
   title: Acknowledgements And Disclaimer
-word_count: 172
+word_count: 170

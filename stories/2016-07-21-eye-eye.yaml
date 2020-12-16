@@ -1,10 +1,4 @@
 ngrams:
-- - diabetic
-  - retinopathy
-  - plus
-- - exciting-sounding
-  - tuesday
-  - injection
 - - frankly
   - pitiable
   - typing
@@ -38,6 +32,30 @@ ngrams:
 - - course
   - meaning
   - myopic
+- - normal
+  - service
+  - before
+- - each
+  - month
+  - until
+- - explain
+  - why
+  - things
+- - service
+  - before
+  - too
+- - month
+  - until
+  - such
+- - before
+  - too
+  - long
+- - much
+  - better
+  - than
+- - until
+  - such
+  - time
 story:
   date: 2016-07-21
   id: 2016-07-21-eye-eye

@@ -5,15 +5,6 @@ ngrams:
 - - seabrook
   - granta
   - critics
-- - conductor
-  - pinchas
-  - zukerman
-- - coats
-  - nota
-  - bene
-- - duffel
-  - coats
-  - nota
 - - squeaky
   - braying
   - voices
@@ -23,27 +14,138 @@ ngrams:
 - - prequel
   - glove
   - puppet
-- - husband
-  - claude
-  - harz
 - - planned
   - prequel
   - glove
-- - glove-puppeteer
-  - dot
-  - glovepup
-- - harz
-  - dot
-  - glovepup
 - - purely
   - coincidental
   - tuesday
-- - pink
-  - duffel
-  - coat
 - - david
   - seabrook
   - granta
+- - pink
+  - duffel
+  - coat
+- - weld
+  - glove
+  - puppet
+- - weld
+  - gets
+  - married
+- - tuesday
+  - weld
+  - marries
+- - coincidental
+  - tuesday
+  - weld
+- - berserk
+  - tuesday
+  - weld
+- - actor
+  - charles
+  - hawtrey
+- - british
+  - pianist
+  - actor
+- - glove
+  - puppet
+  - shows
+- - shows
+  - weekly
+  - hinted
+- - tuesday
+  - weld
+  - glove
+- - arrest
+  - tuesday
+  - weld
+- - googie
+  - withers
+  - tuesday
+- - withers
+  - tuesday
+  - weld
+- - afterwards
+  - tuesday
+  - weld
+- - proved
+  - equally
+  - controversial
+- - tuesday
+  - weld
+  - gets
+- - demented
+  - violence
+  - dot
+- - puppet
+  - shows
+  - weekly
+- - weld
+  - goes
+  - berserk
+- - weld
+  - goes
+  - berserk
+- - weld
+  - goes
+  - berserk
+- - weld
+  - goes
+  - berserk
+- - withers
+  - goes
+  - haywire
+- - charles
+  - hawtrey
+  - described
+- - coat
+  - goes
+  - cavorting
+- - scene
+  - lasts
+  - anywhere
+- - wet
+  - impacted
+  - sand
+- - goes
+  - berserk
+  - bashing
+- - duffel
+  - coat
+  - goes
+- - wearing
+  - pink
+  - duffel
+- - googie
+  - withers
+  - goes
+- - goes
+  - berserk
+  - tuesday
+- - opening
+  - scene
+  - lasts
+- - police
+  - officer
+  - attempts
+- - magazine
+  - characters
+  - ignored
+- - seconds
+  - depending
+  - according
+- - tuesday
+  - weld
+  - goes
+- - tuesday
+  - weld
+  - goes
+- - tuesday
+  - weld
+  - goes
+- - tuesday
+  - weld
+  - goes
 story:
   date: 2017-08-25
   id: 2017-08-25-tuesday-weld-goes-berserk
@@ -79,4 +181,4 @@ story:
     \ wearing pink duffel coats.\nNOTA BENE\_: In the text above, any resemblance\
     \ to actual persons, living or dead, is purely coincidental."
   title: Tuesday Weld Goes Berserk
-word_count: 398
+word_count: 397

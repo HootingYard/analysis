@@ -8,6 +8,9 @@ ngrams:
 - - facecloth
   - message
   - saying
+- - young
+  - person's
+  - guide
 - - op
   - scriabin
   - tiny
@@ -17,6 +20,9 @@ ngrams:
 - - tiny
   - little
   - hands
+- - message
+  - saying
+  - she
 story:
   date: 2011-10-22
   id: 2011-10-22-the-young-persons-guide-to-music-appreciation
@@ -27,4 +33,4 @@ story:
     \ Scriabin's \u2018Poem Of Ecstasy\u2019, Op.54.\u201D\n\nScriabin\_: tiny little\
     \ hands"
   title: The Young Person's Guide To Music Appreciation
-word_count: 75
+word_count: 71

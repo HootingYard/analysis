@@ -1,7 +1,4 @@
 ngrams:
-- - fumy
-  - spiritous
-  - mists
 - - dolores
   - frankly
   - incomprehensible
@@ -14,21 +11,18 @@ ngrams:
 - - fleece
   - became
   - snagged
-- - dear
-  - departed
-  - pa
 - - pimply
   - young
   - shaver
 - - dear
   - departed
   - uncle
-- - dolores
-  - whose
-  - fleece
 - - dear
   - departed
   - ma
+- - dolores
+  - whose
+  - fleece
 - - high
   - heavens
   - cried
@@ -44,6 +38,150 @@ ngrams:
 - - several
   - remote
   - nations
+- - whose
+  - fleece
+  - became
+- - always
+  - chapter
+  - v
+- - name
+  - indicates
+  - dolores
+- - valuable
+  - lessons
+  - life
+- - uncle
+  - ned
+  - read
+- - most
+  - valuable
+  - lessons
+- - found
+  - almost
+  - unbearably
+- - commit
+  - these
+  - errors
+- - another
+  - word
+  - incidentally
+- - lemuel
+  - gulliver
+  - first
+- - fictional
+  - place
+  - called
+- - pillow
+  - before
+  - pa
+- - only
+  - pimply
+  - young
+- - go
+  - without
+  - saying
+- - before
+  - pa
+  - got
+- - should
+  - go
+  - without
+- - just
+  - something
+  - else
+- - her
+  - name
+  - indicates
+- - these
+  - errors
+  - over
+- - lessons
+  - life
+  - has
+- - life
+  - has
+  - taught
+- - some
+  - cases
+  - still
+- - stories
+  - about
+  - sheep
+- - ooh
+  - hundreds
+  - if
+- - one's
+  - youth
+  - when
+- - head
+  - her
+  - story
+- - heavens
+  - cried
+  - out
+- - bedtime
+  - story
+  - about
+- - travels
+  - into
+  - several
+- - happened
+  - if
+  - ma
+- - pa
+  - were
+  - called
+- - into
+  - several
+  - remote
+- - would
+  - commonly
+  - omit
+- - would
+  - regularly
+  - insert
+- - little
+  - head
+  - her
+- - departed
+  - ma
+  - would
+- - ma
+  - would
+  - regularly
+- - unbearably
+  - thrilling
+  - so
+- - would
+  - often
+  - slobber
+- - were
+  - called
+  - away
+- - bedtime
+  - story
+  - which
+- - would
+  - regularly
+  - read
+- - regularly
+  - insert
+  - an
+- - still
+  - are
+  - fuddled
+- - bedtime
+  - stories
+  - one
+- - cases
+  - still
+  - are
+- - an
+  - eerie
+  - voice
+- - thrilling
+  - so
+  - much
 story:
   date: 2018-02-06
   id: 2018-02-06-bedtime-stories
@@ -81,4 +219,4 @@ story:
     \ By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships. That\
     \ is why, throughout my childhood, I was convinced I was a cucumber."
   title: Bedtime Stories
-word_count: 491
+word_count: 488

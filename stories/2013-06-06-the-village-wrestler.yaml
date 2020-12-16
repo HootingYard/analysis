@@ -1,16 +1,10 @@
 ngrams:
-- - defenceless
-  - toddler
-  - straying
 - - challenged
   - everyone
   - passing
 - - arms
   - raised
   - aloft
-- - powerful
-  - horse
-  - tranquilliser
 - - village
   - wrestler
   - took
@@ -44,6 +38,39 @@ ngrams:
 - - wrestler
   - took
   - up
+- - saw
+  - him
+  - again
+- - champ
+  - when
+  - eventually
+- - placid
+  - all
+  - aggression
+- - all
+  - aggression
+  - spent
+- - never
+  - saw
+  - him
+- - lay
+  - there
+  - unconscious
+- - would
+  - fling
+  - himself
+- - then
+  - stand
+  - up
+- - aerodrome
+  - we
+  - never
+- - we
+  - never
+  - saw
+- - shot
+  - into
+  - him
 story:
   date: 2013-06-06
   id: 2013-06-06-the-village-wrestler
@@ -63,4 +90,4 @@ story:
     spent. He took a chicken and a flask of water drawn from the village trough, and
     he wandered off along the lane that led to the aerodrome. We never saw him again.'
   title: The Village Wrestler
-word_count: 199
+word_count: 198

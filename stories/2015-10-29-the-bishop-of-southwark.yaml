@@ -11,21 +11,12 @@ ngrams:
 - - shorter
   - potted
   - brief
-- - near
-  - southwark
-  - cathedral
-- - bar
-  - near
-  - southwark
 - - english
   - bishop
   - b
 - - potted
   - brief
   - brief
-- - ponga
-  - makes
-  - reference
 - - brief
   - brief
   - lives
@@ -35,6 +26,33 @@ ngrams:
 - - bookshops
   - both
   - actual
+- - hq
+  - asking
+  - why
+- - asking
+  - why
+  - yesterday's
+- - bag
+  - containing
+  - among
+- - why
+  - yesterday's
+  - postage
+- - yard
+  - hq
+  - asking
+- - car
+  - alarm
+  - go
+- - night
+  - leaving
+  - behind
+- - good
+  - bookshops
+  - both
+- - 'off'
+  - rushing
+  - outside
 story:
   date: 2015-10-29
   id: 2015-10-29-the-bishop-of-southwark
@@ -50,4 +68,4 @@ story:
     \ got out of the car and disappeared into the night, leaving behind a bag containing,\
     \ among other things, his crucifix."
   title: The Bishop Of Southwark
-word_count: 151
+word_count: 147

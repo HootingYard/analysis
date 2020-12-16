@@ -1,49 +1,121 @@
 ngrams:
-- - ringdoves
-  - pullets
-  - ducklings
-- - currants
-  - almonds
-  - strawberries
 - - almonds
   - strawberries
   - gooseberries
-- - prunes
-  - currants
-  - almonds
 - - strawberries
   - gooseberries
   - cherries
-- - cuckoos
-  - ringdoves
-  - pullets
-- - quinces
-  - twenty-eight
-  - barrels
-- - lambs
-  - dowsets
-  - neats
 - - gooseberries
   - cherries
   - pears
-- - dowsets
-  - neats
-  - tongues
 - - pullets
   - ducklings
   - teal
-- - godwit
-  - shovellers
-  - partridges
-- - dates
-  - prunes
-  - currants
 - - venomous
   - reptile
   - defiers
 - - ducklings
   - teal
   - peacocks
+- - eaters
+  - venomous
+  - reptile
+- - pears
+  - apples
+  - damsons
+- - figs
+  - dates
+  - prunes
+- - cherries
+  - pears
+  - apples
+- - defiers
+  - sword
+  - swallowers
+- - reptile
+  - defiers
+  - sword
+- - apples
+  - damsons
+  - oranges
+- - ian
+  - donaldson
+  - reviewed
+- - sole
+  - dory
+  - carp
+- - teal
+  - peacocks
+  - rabbits
+- - poison
+  - eaters
+  - venomous
+- - prawns
+  - salmon
+  - salt
+- - center
+  - lamp
+  - oil
+- - lamp
+  - oil
+  - wick
+- - turtles
+  - rats
+  - bats
+- - flies
+  - crickets
+  - grasshoppers
+- - partridges
+  - owls
+  - cuckoos
+- - crickets
+  - grasshoppers
+  - church
+- - grasshoppers
+  - church
+  - beetles
+- - church
+  - beetles
+  - spiders
+- - salmon
+  - salt
+  - fish
+- - evening
+  - figs
+  - dates
+- - fire
+  - eaters
+  - heat
+- - large
+  - center
+  - lamp
+- - welcome
+  - prince
+  - henry
+- - ostriches
+  - strong
+  - men
+- - swallowers
+  - human
+  - ostriches
+- - sword
+  - swallowers
+  - human
+- - strong
+  - men
+  - etc
+- - diners
+  - thirst
+  - together
+- - human
+  - ostriches
+  - strong
+- - spider
+  - webs
+  - full
+- - hanging
+  - side
+  - lamps
 story:
   date: 2011-10-19
   id: 2011-10-19-two-dinners
@@ -74,4 +146,4 @@ story:
     \ Venomous Reptile Defiers, Sword Swallowers, Human Ostriches, Strong Men, Etc\
     \ by Harry Houdini (1921)"
   title: Two Dinners
-word_count: 320
+word_count: 319

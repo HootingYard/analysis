@@ -1,31 +1,19 @@
 ngrams:
-- - right-hand
-  - column
-  - consists
 - - eerily
   - prescient
   - observation
-- - twitter
-  - feed
-  - adverted
-- - observed
-  - stephen
-  - fry
 - - het
   - internet
   - robot
-- - peter
-  - de
-  - vries
 - - whom
   - peter
   - hitchens
 - - surely
   - correct
   - anyway
-- - de
-  - vries
-  - published
+- - tragic
+  - sense
+  - they're
 - - yard
   - twitter
   - feed
@@ -44,6 +32,39 @@ ngrams:
 - - hooting
   - yard
   - twitter
+- - twitter
+  - only
+  - because
+- - never
+  - go
+  - near
+- - hitchens
+  - has
+  - observed
+- - has
+  - observed
+  - stephen
+- - peter
+  - hitchens
+  - has
+- - need
+  - never
+  - go
+- - ones
+  - who
+  - buck
+- - day
+  - hitchens
+  - may
+- - else
+  - about
+  - figures
+- - something
+  - else
+  - about
+- - internet
+  - robot
+  - so
 story:
   date: 2010-05-30
   id: 2010-05-30-the-tragic-sense
@@ -61,4 +82,4 @@ story:
     \ published in 1959:\n\u201CAnd have you noticed something else about figures\
     \ with the tragic sense? They're the ones who buck the race up. Not the twitterers.\u201D"
   title: The Tragic Sense
-word_count: 181
+word_count: 179

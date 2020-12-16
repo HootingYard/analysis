@@ -1,16 +1,13 @@
 ngrams:
+- - specs
+  - you're
+  - disorientated
 - - wet
   - wednesday
   - morn
 - - cold
   - misty
   - dawn
-- - why
-  - e
-  - er
-- - wonder
-  - why
-  - e
 - - only
   - indistinct
   - blurs
@@ -23,9 +20,24 @@ ngrams:
 - - see
   - o
   - say
+- - your
+  - specs
+  - you're
 - - wearing
   - your
   - specs
+- - your
+  - tin
+  - pail
+- - o
+  - say
+  - can
+- - o
+  - say
+  - can
+- - who
+  - are
+  - strident
 story:
   date: 2010-11-18
   id: 2010-11-18-o-say-can-you-see
@@ -44,4 +56,4 @@ story:
     Such a dawning as this, on a wet Wednesday morn, it does make you wonder why e''er
     you were born.'
   title: O Say Can You See
-word_count: 108
+word_count: 105

@@ -1,28 +1,43 @@
 ngrams:
-- - stonor
-  - saunders
-  - lucy
-- - saunders
-  - lucy
-  - hughes-hallett
-- - frances
-  - stonor
-  - saunders
-- - lucy
-  - hughes-hallett
-  - drops
 - - freak
   - accident
   - picnic
-- - photogenic
-  - mother
-  - died
 - - accident
   - picnic
   - lightning
-- - very
-  - photogenic
-  - mother
+- - lolita
+  - where
+  - nabokov
+- - where
+  - nabokov
+  - writes
+- - who
+  - shot
+  - mussolini
+- - literature
+  - has
+  - already
+- - woman
+  - who
+  - shot
+- - today's
+  - guardian
+  - into
+- - already
+  - been
+  - written
+- - picnic
+  - lightning
+  - when
+- - guardian
+  - into
+  - her
+- - into
+  - her
+  - review
+- - drops
+  - this
+  - marvel
 story:
   date: 2010-02-27
   id: 2010-02-27-in-parenthesis
@@ -35,4 +50,4 @@ story:
     \ drops this marvel: \u201C(Rumour had it he kept a tortoise in his sporran.)\u201D\
     \n(One day I must set to work on an anthology of great parentheses.)"
   title: In Parenthesis
-word_count: 106
+word_count: 105

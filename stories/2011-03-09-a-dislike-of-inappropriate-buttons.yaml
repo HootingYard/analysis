@@ -1,13 +1,7 @@
 ngrams:
-- - heart-wrenching
-  - emotional
-  - turmoil
 - - barcelona
   - lays
   - bare
-- - grauniad
-  - cameron
-  - smith
 - - inappropriate
   - buttons
   - helpline
@@ -20,6 +14,21 @@ ngrams:
 - - buttons
   - helpline
   - should
+- - medical
+  - equipment
+  - hooting
+- - near
+  - future
+  - once
+- - uncomfortable
+  - like
+  - clowns
+- - feeling
+  - uncomfortable
+  - like
+- - once
+  - our
+  - staff
 story:
   date: 2011-03-09
   id: 2011-03-09-a-dislike-of-inappropriate-buttons
@@ -34,4 +43,4 @@ story:
     near future, once our staff are fully trained in this important field of mental
     and emotional wellbeing.'
   title: A Dislike Of Inappropriate Buttons
-word_count: 89
+word_count: 87

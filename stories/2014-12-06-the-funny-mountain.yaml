@@ -1,16 +1,10 @@
 ngrams:
-- - aerated
-  - lettucewater
-  - toss
 - - funny
   - mountain
   - crack
 - - buy
   - untold
   - copies
-- - since
-  - oo-er
-  - missus
 - - mountain
   - crack
   - open
@@ -20,6 +14,24 @@ ngrams:
 - - several
   - brisk
   - capers
+- - cut
+  - several
+  - brisk
+- - brisk
+  - capers
+  - around
+- - majestic
+  - prose
+  - since
+- - most
+  - important
+  - sweeping
+- - hooting
+  - yard
+  - paperback
+- - brand
+  - new
+  - hooting
 story:
   date: 2014-12-06
   id: 2014-12-06-the-funny-mountain
@@ -33,4 +45,4 @@ story:
     most important sweeping paragraphs of majestic prose since oo-er missus I don''t
     know when!'
   title: The Funny Mountain
-word_count: 90
+word_count: 89

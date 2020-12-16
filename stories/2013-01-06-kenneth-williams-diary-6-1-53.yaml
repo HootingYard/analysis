@@ -1,19 +1,10 @@
 ngrams:
-- - infinitum
-  - ad
-  - nauseam
-- - daddies
-  - sauce
-  - ad
 - - sauce
   - ad
   - infinitum
 - - ad
   - infinitum
   - ad
-- - daddies
-  - sauce
-  - bottle
 - - sauce
   - bottle
   - label
@@ -44,6 +35,36 @@ ngrams:
 - - wondering
   - why
   - diary
+- - make
+  - regular
+  - entries
+- - williams
+  - diary
+  - how
+- - diary
+  - how
+  - impossible
+- - always
+  - wondering
+  - why
+- - suddenly
+  - remember
+  - how
+- - any
+  - rate
+  - thus
+- - very
+  - fretful
+  - man
+- - astute
+  - readers
+  - will
+- - readers
+  - will
+  - recall
+- - never
+  - found
+  - out
 story:
   date: 2013-01-06
   id: 2013-01-06-kenneth-williams-diary-6-1-53

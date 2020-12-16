@@ -2,9 +2,6 @@ ngrams:
 - - sheridan
   - le
   - fanu
-- - bookstall
-  - paperbacks
-  - ltd
 - - samuel
   - taylor
   - coleridge
@@ -14,36 +11,174 @@ ngrams:
 - - j
   - sheridan
   - le
-- - airport
-  - bookstall
-  - paperbacks
-- - long-rumoured
-  - unauthorised
-  - biography
-- - hefty
-  - airport
-  - bookstall
-- - victorian
-  - porlock
-  - workhouse
 - - missing
   - pod
   - prefix
-- - flesh-eating
-  - space
-  - zombie
-- - pod-packed
-  - cargo
-  - ship
-- - cargo
-  - ship
-  - crash-landed
 - - interplanetary
   - cargo
   - ship
 - - cargo
   - ship
   - intentionally
+- - space
+  - zombie
+  - hatched
+- - tremendously
+  - exciting
+  - passage
+- - bred
+  - pod
+  - persons
+- - parallel
+  - porlock
+  - beyond
+- - dobson's
+  - foolish
+  - theory
+- - bloody
+  - keyboard
+  - person
+- - pod
+  - itself
+  - brought
+- - fantastically
+  - talkative
+  - life
+- - talkative
+  - life
+  - thereafter
+- - chalet
+  - o
+  - prose
+- - wits
+  - having
+  - failed
+- - porlock
+  - himself
+  - beginning
+- - cottage
+  - door
+  - several
+- - le
+  - fanu
+  - ever
+- - person
+  - came
+  - bashing
+- - pod
+  - person
+  - came
+- - twaddle
+  - leaving
+  - us
+- - fanu
+  - ever
+  - since
+- - door
+  - several
+  - readers
+- - whose
+  - brand
+  - new
+- - cottage
+  - door
+  - how
+- - cottage
+  - where
+  - coleridge
+- - planet
+  - porlock
+  - where
+- - poet
+  - survive
+  - such
+- - never
+  - seen
+  - fit
+- - other
+  - questions
+  - surround
+- - o
+  - prose
+  - only
+- - thereafter
+  - other
+  - questions
+- - fat
+  - fingers
+  - upon
+- - such
+  - pod
+  - person
+- - came
+  - most
+  - people
+- - life
+  - thereafter
+  - other
+- - porlock
+  - who
+  - fatally
+- - who
+  - fatally
+  - interrupted
+- - came
+  - bashing
+  - upon
+- - fact
+  - some
+  - kind
+- - door
+  - how
+  - did
+- - pamphleteers
+  - 'no'
+  - word
+- - utter
+  - ignorance
+  - about
+- - 'no'
+  - word
+  - comes
+- - porlock
+  - some
+  - years
+- - about
+  - dobson's
+  - foolish
+- - wrote
+  - about
+  - dobson's
+- - some
+  - years
+  - ago
+- - most
+  - people
+  - who
+- - all
+  - good
+  - airport
+- - are
+  - bred
+  - pod
+- - will
+  - topple
+  - dobson
+- - said
+  - will
+  - topple
+- - deathbed
+  - an
+  - encounter
+- - an
+  - encounter
+  - survive
+- - transpires
+  - has
+  - been
+- - has
+  - been
+  - skulking
 story:
   date: 2010-02-24
   id: 2010-02-24-pebblehead-goes-to-porlock
@@ -85,4 +220,4 @@ story:
     \ keyboard.\nPerson From Porlock! by Pebblehead is published by Hefty Airport\
     \ Bookstall Paperbacks Ltd, and is available from all good airport bookstalls."
   title: Pebblehead Goes To Porlock
-word_count: 488
+word_count: 482

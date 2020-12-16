@@ -1,7 +1,7 @@
 ngrams:
-- - ornithologically
-  - significant
-  - excitements
+- - george
+  - orwell's
+  - diaries
 - - decent
   - english
   - plovers
@@ -11,9 +11,9 @@ ngrams:
 - - green
   - plover
   - apparently
-- - further
-  - ornithologically
-  - significant
+- - orwell's
+  - diary
+  - three
 - - saw
   - large
   - flock
@@ -23,6 +23,18 @@ ngrams:
 - - three
   - eggs
   - regular
+- - diary
+  - three
+  - eggs
+- - think
+  - foreign
+  - plovers
+- - merely
+  - two
+  - eggs
+- - draw
+  - your
+  - attention
 story:
   date: 2013-01-08
   id: 2013-01-08-orwells-diary-8-1-39
@@ -44,4 +56,4 @@ story:
     Did he think foreign plovers would somehow differ from clean, decent, English
     plovers?'
   title: Orwell's Diary 8.1.39
-word_count: 103
+word_count: 100

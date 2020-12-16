@@ -1,22 +1,4 @@
 ngrams:
-- - afrikaans
-  - ugric
-  - ket
-- - domination
-  - enterprises
-  - gmbh
-- - domination
-  - enterprises
-  - gmbh
-- - ugric
-  - ket
-  - generic
-- - enterprises
-  - gmbh
-  - products
-- - sumptuous
-  - newly-commissioned
-  - illustrations
 - - answered
   - mounting
   - speculation
@@ -26,15 +8,9 @@ ngrams:
 - - global
   - domination
   - enterprises
-- - ket
-  - generic
-  - bbc
 - - groundbreaking
   - collaborative
   - project
-- - english
-  - afrikaans
-  - ugric
 - - products
   - designed
   - specifically
@@ -44,6 +20,108 @@ ngrams:
 - - rewritten
   - press
   - release
+- - collaborative
+  - project
+  - frank
+- - blodgett
+  - global
+  - domination
+- - blodgett
+  - global
+  - domination
+- - dobson's
+  - international
+  - appeal
+- - bbc
+  - drama
+  - peasant
+- - exciting
+  - online
+  - experience
+- - share
+  - exclusive
+  - writing
+- - today
+  - answered
+  - mounting
+- - include
+  - further
+  - products
+- - further
+  - products
+  - designed
+- - reading
+  - experience
+  - extending
+- - coming
+  - soon
+  - holding
+- - online
+  - reading
+  - experience
+- - soon
+  - holding
+  - page
+- - chalet
+  - write
+  - pamphlets
+- - website's
+  - name
+  - via
+- - project
+  - frank
+  - key
+- - online
+  - experience
+  - around
+- - swans
+  - that's
+  - quite
+- - key
+  - today
+  - answered
+- - frank
+  - key
+  - today
+- - extensive
+  - new
+  - material
+- - hugely
+  - successful
+  - dobson
+- - dobson
+  - fans
+  - offering
+- - successful
+  - dobson
+  - piffle
+- - visit
+  - pointy
+  - town
+- - should
+  - include
+  - further
+- - town
+  - get
+  - sorted
+- - that's
+  - quite
+  - enough
+- - written
+  - extensive
+  - new
+- - received
+  - over
+  - visits
+- - pointy
+  - town
+  - get
+- - while
+  - still
+  - appealing
+- - online
+  - shop
+  - where
 story:
   date: 2011-06-23
   id: 2011-06-23-dobsonmore
@@ -77,4 +155,4 @@ story:
     \ pebbles at swans\u2026\nThat's quite enough of a rewritten press release to\
     \ be going on with."
   title: Dobsonmore
-word_count: 339
+word_count: 335

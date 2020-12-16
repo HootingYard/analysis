@@ -1,17 +1,23 @@
 ngrams:
-- - charlie
-  - rutlage
-  - sung
-- - song
-  - charlie
-  - rutlage
 - - cowboy
   - song
   - charlie
+- - monday
+  - music
+  - charles
+- - magnificent
+  - cowboy
+  - song
+- - by
+  - roberta
+  - alexander
+- - sung
+  - by
+  - roberta
 story:
   date: 2017-09-18
   id: 2017-09-18-monday-music
   text: "Charles Ives's magnificent cowboy song \u201CCharlie Rutlage\u201D, sung\
     \ by Roberta Alexander, with Tan Crone on piano."
   title: Monday Music
-word_count: 19
+word_count: 18

@@ -11,6 +11,15 @@ ngrams:
 - - eerie
   - old
   - barn
+- - old
+  - barn
+  - eerie
+- - barn
+  - eerie
+  - old
+- - eerie
+  - old
+  - barn
 story:
   date: 2013-04-19
   id: 2013-04-19-eerie-old-barn

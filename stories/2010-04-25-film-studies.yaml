@@ -1,19 +1,7 @@
 ngrams:
-- - postmodernist
-  - verbal
-  - diarrhoea
 - - obfuscatory
   - postmodernist
   - verbal
-- - pal
-  - fatima
-  - gilliblat
-- - collaboratrix
-  - primrose
-  - dent
-- - primrose
-  - dent
-  - channelling
 - - smudged
   - camera
   - lenses
@@ -23,27 +11,117 @@ ngrams:
 - - teutonic
   - academia
   - unfortunately
-- - formidable
-  - german
-  - intellects
 - - primrose
   - dent
   - cry
-- - horst
-  - gack
-  - stomp
-- - horst
-  - gack
-  - cry
-- - tripod
-  - hear
-  - imprecations
 - - reader
   - mike
   - jennings
-- - gack
-  - cry
+- - tripod
+  - hear
+  - imprecations
+- - anonymous
+  - following
+  - reports
+- - hear
+  - primrose
+  - dent
+- - tome
+  - collects
+  - together
+- - collects
+  - together
+  - essays
+- - film
+  - studies
+  - textbook
+- - falling
+  - hear
+  - horst
+- - remain
+  - anonymous
+  - following
+- - cut
+  - hear
+  - primrose
+- - cry
   - cut
+  - hear
+- - newly
+  - published
+  - film
+- - rain
+  - falling
+  - hear
+- - land
+  - reader
+  - mike
+- - pompous
+  - land
+  - reader
+- - published
+  - film
+  - studies
+- - relentlessly
+  - until
+  - darkness
+- - until
+  - darkness
+  - falls
+- - old
+  - pal
+  - fatima
+- - leni
+  - riefenstahl
+  - see
+- - see
+  - primrose
+  - dent
+- - academic
+  - texts
+  - these
+- - threats
+  - see
+  - horst
+- - many
+  - academic
+  - texts
+- - cut
+  - yet
+  - hear
+- - muck
+  - see
+  - primrose
+- - don't
+  - cut
+  - yet
+- - camera
+  - fall
+  - 'off'
+- - mike
+  - jennings
+  - very
+- - jennings
+  - very
+  - kindly
+- - first
+  - study
+  - dedicated
+- - pig
+  - blurred
+  - see
+- - pour
+  - down
+  - relentlessly
+- - texts
+  - these
+  - days
+- - its
+  - tripod
+  - hear
+- - down
+  - relentlessly
+  - until
 story:
   date: 2010-04-25
   id: 2010-04-25-film-studies
@@ -74,4 +152,4 @@ story:
     \ the spirit of Leni Riefenstahl. See the rain continue to pour down relentlessly\
     \ until darkness falls.\u201D"
   title: Film Studies
-word_count: 337
+word_count: 335

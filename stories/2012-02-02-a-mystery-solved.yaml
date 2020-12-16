@@ -1,16 +1,22 @@
 ngrams:
+- - capitalist
+  - music's
+  - titanic
+- - music's
+  - titanic
+  - masterpiece
 - - titanic
   - masterpiece
-  - jane
+  - jane's
+- - masterpiece
+  - jane's
+  - gone
 - - someone
   - called
   - matt
 - - seems
   - absolutely
   - clear
-- - great
-  - steve
-  - bloch
 - - blue
   - someone
   - called
@@ -29,6 +35,15 @@ ngrams:
 - - several
   - readers
   - tried
+- - matt
+  - has
+  - added
+- - care
+  - very
+  - much
+- - matt
+  - has
+  - told
 story:
   date: 2012-02-02
   id: 2012-02-02-a-mystery-solved
@@ -42,4 +57,4 @@ story:
     \ obvious.\nI doubt that any of you care very much, but this has made me happy.\
     \ Thank you, Matt."
   title: A Mystery Solved
-word_count: 122
+word_count: 120

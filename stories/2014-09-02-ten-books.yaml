@@ -2,30 +2,45 @@ ngrams:
 - - scrivener
   - herman
   - melville
-- - amphigorey
-  - edward
-  - gorey
 - - watt
   - samuel
   - beckett
-- - quincey
-  - amphigorey
-  - edward
 - - vladimir
   - nabokov
   - w
 - - herman
   - melville
   - pale
-- - childhood
-  - georges
-  - perec
-- - peter
-  - greenaway
-  - bartleby
+- - author
+  - watt
+  - samuel
 - - household
   - wreck
   - thomas
+- - purple
+  - cloud
+  - m
+- - fire
+  - vladimir
+  - nabokov
+- - cloud
+  - m
+  - p
+- - pale
+  - fire
+  - vladimir
+- - melville
+  - pale
+  - fire
+- - thomas
+  - de
+  - quincey
+- - wreck
+  - thomas
+  - de
+- - books
+  - without
+  - thinking
 story:
   date: 2014-09-02
   id: 2014-09-02-ten-books
@@ -40,4 +55,4 @@ story:
     \ of Greenaway's majestic film is (or was) available in paperback, and takes the\
     \ form of a continuous piece of prose."
   title: Ten Books
-word_count: 118
+word_count: 117

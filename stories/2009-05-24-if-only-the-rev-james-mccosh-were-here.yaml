@@ -1,10 +1,7 @@
 ngrams:
-- - cassell
-  - petter
-  - galpin
-- - bingley
-  - cassell
-  - petter
+- - guy
+  - davenport's
+  - lament
 - - rev
   - james
   - mccosh
@@ -40,10 +37,133 @@ ngrams:
   - story
 - - across
   - guy
-  - davenport
+  - davenport's
 - - recent
   - days
   - feeling
+- - coming
+  - across
+  - guy
+- - shall
+  - remain
+  - vaguely
+- - find
+  - fantastically
+  - inspiring
+- - prose
+  - intimidates
+  - rather
+- - quite
+  - gets
+  - lost
+- - start
+  - tapping
+  - away
+- - john
+  - ruskin
+  - well
+- - currently
+  - just
+  - halfway
+- - halfway
+  - through
+  - volume
+- - peasants
+  - before
+  - reminding
+- - happy
+  - new
+  - year
+- - through
+  - volume
+  - five
+- - swiss
+  - peasants
+  - before
+- - don't
+  - think
+  - that's
+- - tapping
+  - away
+  - again
+- - never
+  - quite
+  - gets
+- - after
+  - coming
+  - across
+- - somehow
+  - never
+  - quite
+- - before
+  - reminding
+  - himself
+- - intimidates
+  - rather
+  - than
+- - rather
+  - than
+  - inspires
+- - challenge
+  - rather
+  - than
+- - just
+  - halfway
+  - through
+- - way
+  - before
+  - abandoning
+- - desultory
+  - way
+  - before
+- - 'no'
+  - ill
+  - effects
+- - up
+  - bee
+  - information
+- - bookcases
+  - looking
+  - up
+- - 'no'
+  - apparent
+  - reason
+- - looking
+  - up
+  - bee
+- - sustained
+  - passage
+  - about
+- - barging
+  - into
+  - someone's
+- - writes
+  - about
+  - barging
+- - into
+  - someone's
+  - cottage
+- - james
+  - mccosh
+  - were
+- - james
+  - mccosh
+  - were
+- - about
+  - swiss
+  - peasants
+- - way
+  - through
+  - these
+- - am
+  - currently
+  - just
+- - folk
+  - story
+  - about
+- - story
+  - about
+  - swiss
 story:
   date: 2009-05-24
   id: 2009-05-24-if-only-the-rev-james-mccosh-were-here
@@ -80,4 +200,4 @@ story:
     \ and vim. If all else fails, I shall have to summon the phantom of the Rev. James\
     \ McCosh from out of the shadows."
   title: If Only The Rev. James McCosh Were Here!
-word_count: 448
+word_count: 442

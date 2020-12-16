@@ -2,15 +2,6 @@ ngrams:
 - - dental
   - hygiene
   - sarstedt
-- - sarstedtist
-  - loopy
-  - tinhat
-- - veteran
-  - sarstedtist
-  - loopy
-- - dental
-  - records
-  - slowed-down
 - - dental
   - operating
   - theatre
@@ -23,27 +14,159 @@ ngrams:
 - - sarstedt
   - studies
   - vol
-- - studies
-  - vol
-  - xxiv
-- - slowed-down
-  - tape
-  - recordings
-- - records
-  - slowed-down
-  - tape
+- - won
+  - broad
+  - support
 - - peter
   - sarstedt
   - famously
 - - peter
   - sarstedt
   - paying
-- - sentence
-  - tinhat
-  - suggests
 - - theatre
   - peter
   - sarstedt
+- - operating
+  - theatre
+  - peter
+- - theory
+  - won
+  - broad
+- - lovely
+  - peter
+  - sarstedt
+- - dentist
+  - lovely
+  - born
+- - using
+  - dental
+  - records
+- - undergo
+  - particularly
+  - complex
+- - particularly
+  - complex
+  - dental
+- - demonstrated
+  - beyond
+  - sensible
+- - beyond
+  - sensible
+  - argument
+- - sarstedt
+  - famously
+  - asked
+- - seemingly
+  - stupid
+  - question
+- - certain
+  - observations
+  - regarding
+- - matters
+  - become
+  - decidedly
+- - posit
+  - several
+  - solutions
+- - broad
+  - support
+  - among
+- - several
+  - coruscating
+  - paragraphs
+- - fiercely
+  - forensic
+  - brain
+- - rumination
+  - quite
+  - distinct
+- - question
+  - mark
+  - ought
+- - several
+  - possible
+  - solutions
+- - doctors
+  - get
+  - sick
+- - general
+  - population
+  - also
+- - lovely
+  - community
+  - until
+- - quite
+  - possibly
+  - asleep
+- - possibly
+  - asleep
+  - why
+- - bed
+  - quite
+  - possibly
+- - new
+  - separate
+  - sentence
+- - make
+  - certain
+  - observations
+- - well
+  - worth
+  - doing
+- - open
+  - wide
+  - just
+- - these
+  - matters
+  - become
+- - singer
+  - whose
+  - first
+- - singer
+  - asking
+  - such
+- - whose
+  - first
+  - wife
+- - case
+  - these
+  - matters
+- - famously
+  - asked
+  - where
+- - over
+  - several
+  - coruscating
+- - decidedly
+  - more
+  - baffling
+- - going
+  - anywhere
+  - she
+- - become
+  - decidedly
+  - more
+- - more
+  - persuasive
+  - perhaps
+- - can
+  - posit
+  - several
+- - asleep
+  - why
+  - then
+- - any
+  - case
+  - these
+- - ward
+  - where
+  - did
+- - her
+  - ward
+  - where
+- - dentist's
+  - chair
+  - when
 story:
   date: 2018-03-31
   id: 2018-03-31-where-do-you-go-to-my-lovely
@@ -82,4 +205,4 @@ story:
     \ any case, these matters become decidedly more baffling when we consider that\
     \ Sarstedt's second wife was not a dentist."
   title: Where Do You Go To, My Lovely?
-word_count: 454
+word_count: 449

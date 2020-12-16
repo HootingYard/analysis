@@ -1,13 +1,10 @@
 ngrams:
-- - estimable
-  - john
-  - ptak
+- - herman
+  - melville's
+  - story
 - - sorry
   - sir
   - sitting
-- - ptak
-  - science
-  - books
 - - every
   - conceivable
   - situation
@@ -44,6 +41,93 @@ ngrams:
 - - left
   - alone
   - here
+- - too
+  - much
+  - confinement
+- - confine
+  - our
+  - own
+- - sir
+  - sitting
+  - upon
+- - our
+  - own
+  - speech
+- - any
+  - thing
+  - definite
+- - make
+  - any
+  - change
+- - make
+  - any
+  - change
+- - science
+  - books
+  - has
+- - books
+  - has
+  - gathered
+- - has
+  - always
+  - seemed
+- - give
+  - 'no'
+  - answer
+- - given
+  - up
+  - copying
+- - am
+  - very
+  - sorry
+- - can
+  - confine
+  - our
+- - splendidly
+  - appropriate
+  - they
+- - thing
+  - definite
+  - about
+- - alone
+  - here
+  - 'no'
+- - single
+  - list
+  - all
+- - much
+  - confinement
+  - about
+- - any
+  - change
+  - there
+- - has
+  - gathered
+  - into
+- - here
+  - 'no'
+  - more
+- - we
+  - can
+  - confine
+- - from
+  - herman
+  - melville's
+- - scrivener
+  - from
+  - herman
+- - list
+  - we
+  - can
+- - 'no'
+  - more
+  - do
+- - answer
+  - at
+  - present
+- - phrases
+  - spoken
+  - by
 story:
   date: 2013-06-27
   id: 2013-06-27-sitting-upon-the-banister
@@ -75,4 +159,4 @@ story:
     \n\u201CI know where I am\u201D\n\u201CI prefer not to dine to-day,\u201D\n\u201C\
     It would disagree with me; I am unused to dinners.\u201D"
   title: Sitting Upon The Banister
-word_count: 345
+word_count: 344

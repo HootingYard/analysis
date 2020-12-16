@@ -2,18 +2,9 @@ ngrams:
 - - sobbing
   - hysteria
   - unanswered
-- - ticket
-  - expenditure
-  - enjanglements
 - - cranium
   - sobbing
   - hysteria
-- - desperate
-  - snackbar
-  - encounters
-- - messages
-  - desperate
-  - snackbar
 - - contemporary
   - item
   - pleading
@@ -35,15 +26,51 @@ ngrams:
 - - suburban
   - warehouses
   - bus
-- - bus
-  - ticket
-  - expenditure
 - - warehouses
   - bus
   - ticket
 - - unfathomable
   - reason
   - wishes
+- - metal
+  - tapping
+  - machine
+- - research
+  - prodigious
+  - research
+- - remain
+  - anonymous
+  - sent
+- - exciting
+  - picture
+  - dear
+- - sleepless
+  - nights
+  - long
+- - nights
+  - long
+  - trudges
+- - key
+  - wrote
+  - anon
+- - things
+  - demand
+  - research
+- - picture
+  - dear
+  - mr
+- - very
+  - exciting
+  - picture
+- - dear
+  - mr
+  - key
+- - these
+  - things
+  - demand
+- - mr
+  - key
+  - wrote
 story:
   date: 2007-05-29
   id: 2007-05-29-rescue-squad
@@ -66,4 +93,4 @@ story:
     Bewilderment Home convalescence. Nonetheless, I promise that I will do what I
     can to find out the answer.'
   title: Rescue Squad
-word_count: 193
+word_count: 192

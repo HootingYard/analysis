@@ -1,37 +1,16 @@
 ngrams:
-- - indispensable
-  - nigeness
-  - nige
 - - cherished
   - literary
   - possessions
-- - charles
-  - montagu
-  - doughty
-- - charles
-  - montagu
-  - doughty
-- - nigeness
-  - nige
-  - occasionally
-- - nige
-  - occasionally
-  - writes
 - - strangely
   - hypnotic
   - prose
 - - unique
   - prose
   - masterpiece
-- - thus
-  - charles
-  - montagu
 - - observer
   - thus
   - charles
-- - best-known
-  - work
-  - travels
 - - mere
   - three
   - pounds
@@ -41,6 +20,51 @@ ngrams:
 - - tiny
   - bookshop
   - called
+- - shall
+  - look
+  - forward
+- - place
+  - apart
+  - among
+- - hypnotic
+  - prose
+  - never
+- - prose
+  - never
+  - having
+- - still
+  - over
+  - pages
+- - their
+  - vast
+  - entirety
+- - apart
+  - among
+  - their
+- - their
+  - most
+  - cherished
+- - among
+  - their
+  - most
+- - arabia
+  - deserta
+  - which
+- - majestic
+  - so
+  - vital
+- - an
+  - abridged
+  - version
+- - book
+  - so
+  - majestic
+- - three
+  - pounds
+  - this
+- - from
+  - arabia
+  - deserta
 story:
   date: 2013-10-30
   id: 2013-10-30-doughty-in-rye
@@ -59,4 +83,4 @@ story:
     \ Travels in their vast entirety, I shall look forward to reading this abridgement\u2014\
     still over 300 pages."
   title: Doughty In Rye
-word_count: 178
+word_count: 177

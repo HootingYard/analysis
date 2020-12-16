@@ -1,9 +1,27 @@
 ngrams:
+- - straw
+  - i'll
+  - lean
 - - waterlogged
   - boots
   - tied
+- - hat
+  - that's
+  - soaking
+- - woolly
+  - hat
+  - that's
+- - hay
+  - i'll
+  - give
+- - stay
+  - i'll
+  - give
 - - filthy
   - farm
+  - where
+- - butcher's
+  - shop
   - where
 - - wet
   - like
@@ -11,7 +29,13 @@ ngrams:
 - - like
   - rain
   - usually
-- - ll
+- - some
+  - hay
+  - i'll
+- - some
+  - straw
+  - i'll
+- - i'll
   - throw
   - them
 - - go
@@ -44,6 +68,9 @@ ngrams:
 - - up
   - your
   - gifts
+- - throw
+  - them
+  - out
 story:
   date: 2014-10-02
   id: 2014-10-02-if-you-go-away
@@ -62,4 +89,4 @@ story:
     but used instead, to tie up my boots, when you went away, when you went away,
     when you went away.'
   title: If You Go Away
-word_count: 202
+word_count: 194

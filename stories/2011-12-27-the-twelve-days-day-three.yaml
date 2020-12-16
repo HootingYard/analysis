@@ -1,13 +1,19 @@
 ngrams:
-- - christmas
-  - old
-  - halob
-- - poptarts
-  - two
+- - two
   - cardboard
-- - old
-  - halob
-  - gave
+  - pigs
+- - days
+  - day
+  - three
+- - day
+  - three
+  - 'on'
+- - gave
+  - to
+  - me
+- - to
+  - me
+  - three
 story:
   date: 2011-12-27
   id: 2011-12-27-the-twelve-days-day-three

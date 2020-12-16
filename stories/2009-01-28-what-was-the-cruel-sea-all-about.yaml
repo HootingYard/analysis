@@ -5,15 +5,9 @@ ngrams:
 - - ruth
   - pastry
   - tells
-- - bestselling
-  - paperbackist
-  - pebblehead
 - - dr
   - ruth
   - pastry
-- - big
-  - baked
-  - potato-like
 - - reader
   - dr
   - ruth
@@ -29,9 +23,30 @@ ngrams:
 - - long
   - overdue
   - insight
-- - baked
-  - potato-like
-  - head
+- - yard
+  - reader
+  - dr
+- - books
+  - currently
+  - being
+- - currently
+  - being
+  - written
+- - says
+  - her
+  - diagram
+- - pastry
+  - says
+  - her
+- - time
+  - expertly
+  - juggling
+- - hooting
+  - yard
+  - reader
+- - overdue
+  - insight
+  - into
 story:
   date: 2009-01-28
   id: 2009-01-28-what-was-the-cruel-sea-all-about
@@ -45,4 +60,4 @@ story:
     \ insight into the great paperbackist's fantastic brain, in diagrammatic form,\
     \ with arrows.\nNOTE\_: Dr Pastry says her diagram will be without arrows."
   title: "What Was \u201CThe Cruel Sea\u201D All About?"
-word_count: 132
+word_count: 130

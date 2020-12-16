@@ -1,7 +1,4 @@
 ngrams:
-- - miliband
-  - soon-to-be
-  - supreme
 - - cabinet
   - allies
   - insisted
@@ -14,9 +11,6 @@ ngrams:
 - - shadow
   - cabinet
   - allies
-- - ned
-  - miliband
-  - soon-to-be
 - - labour
   - party
   - leader
@@ -29,12 +23,36 @@ ngrams:
 - - kings
   - young
   - ned
-- - particularly
-  - piffle-strewn
-  - consider
-- - modern
-  - ozymandias
-  - king
+- - election
+  - takes
+  - place
+- - next
+  - general
+  - election
+- - most
+  - extraordinary
+  - piffle
+- - people
+  - do
+  - spout
+- - piffle
+  - some
+  - people
+- - leadership
+  - quality
+  - what
+- - we
+  - should
+  - expect
+- - suppose
+  - we
+  - should
+- - some
+  - people
+  - do
+- - consider
+  - this
+  - reported
 story:
   date: 2010-09-28
   id: 2010-09-28-p
@@ -51,4 +69,4 @@ story:
     \ of Kings!\n\nYoung Ned Miliband, soon-to-be Supreme And Majestic Potentate Of\
     \ The Universe"
   title: P
-word_count: 154
+word_count: 151

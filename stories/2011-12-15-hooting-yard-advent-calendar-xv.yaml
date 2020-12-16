@@ -1,19 +1,28 @@
 ngrams:
-- - surf
-  - karmic
-  - voyager
 - - perilous
   - subaquatic
   - mission
 - - subaquatic
   - mission
   - pursued
-- - doughty
-  - ne
-  - er-do-wells
 - - giant
   - jellyfish
   - actual
+- - jellyfish
+  - actual
+  - size
+- - today's
+  - thrilling
+  - advent
+- - thrilling
+  - advent
+  - calendar
+- - actual
+  - size
+  - picture
+- - calendar
+  - picture
+  - shows
 story:
   date: 2011-12-15
   id: 2011-12-15-hooting-yard-advent-calendar-xv
@@ -23,4 +32,4 @@ story:
     \ are engaged upon a perilous subaquatic mission, pursued by giant jellyfish (actual\
     \ size).\n\nPicture from Surf\_: Karmic Voyager"
   title: Hooting Yard Advent Calendar (xv)
-word_count: 66
+word_count: 64

@@ -1,16 +1,7 @@
 ngrams:
-- - eug
-  - ne
-  - delacroix
-- - food
-  - alcoholic
-  - liquour
 - - nap
   - sleeping
   - standing
-- - ne
-  - delacroix
-  - wrote
 - - awake
   - most
   - important
@@ -32,9 +23,33 @@ ngrams:
 - - english
   - judge
   - who
+- - every
+  - old
+  - man
 - - sleeping
   - standing
   - up
+- - another
+  - fellow
+  - who
+- - could
+  - recall
+  - where
+- - were
+  - awake
+  - most
+- - standing
+  - up
+  - like
+- - an
+  - english
+  - judge
+- - adopt
+  - this
+  - practice
+- - 'off'
+  - once
+  - they
 story:
   date: 2013-01-18
   id: 2013-01-18-delacroixs-diary-18-1-24
@@ -49,4 +64,4 @@ story:
     \ great age, and who made it his habit frequently to lean against a wall and take\
     \ a nap, sleeping standing up, like a horse."
   title: Delacroix's Diary 18.1.24
-word_count: 144
+word_count: 143

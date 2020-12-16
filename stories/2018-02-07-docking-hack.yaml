@@ -8,33 +8,21 @@ ngrams:
 - - packaged
   - vandals
   - clash
-- - -ish
-  - bubbles
-  - surge
 - - docking
   - coffers
   - emptied
-- - bye-byed
-  - chocolate
-  - puddings
 - - idiot
   - brawl
   - saloon
 - - swallow
   - suffering
   - aborted
-- - alleys
-  - roads
-  - mews
 - - docking
   - docking
   - hack
 - - pills
   - pills
   - pills
-- - roads
-  - mews
-  - docking
 - - crayons
   - pink
   - stacked
@@ -44,6 +32,72 @@ ngrams:
 - - coffers
   - emptied
   - idiot
+- - brawl
+  - saloon
+  - bar
+- - maps
+  - misshapen
+  - trunk
+- - there's
+  - pills
+  - pills
+- - piercing
+  - critical
+  - analysis
+- - trunk
+  - road
+  - closures
+- - misshapen
+  - trunk
+  - road
+- - alert
+  - decisions
+  - language
+- - broken
+  - crayons
+  - pink
+- - crackers
+  - plastic
+  - wrapped
+- - red
+  - alert
+  - decisions
+- - golden
+  - maps
+  - misshapen
+- - chocolate
+  - puddings
+  - seem
+- - shut
+  - there's
+  - pills
+- - filling
+  - coffins
+  - oh
+- - road
+  - closures
+  - big
+- - closures
+  - big
+  - stone
+- - big
+  - stone
+  - reconstructions
+- - critical
+  - analysis
+  - does
+- - analysis
+  - does
+  - anybody
+- - does
+  - anybody
+  - want
+- - docking
+  - hack
+  - here
+- - its
+  - crackers
+  - plastic
 story:
   date: 2018-02-07
   id: 2018-02-07-docking-hack
@@ -68,4 +122,4 @@ story:
     \ on: it's a town about a tower. The frame is out of kilter, the coughing's filling\
     \ coffins. Oh, but I want to go back to that Docking, Docking hack."
   title: Docking Hack
-word_count: 276
+word_count: 266

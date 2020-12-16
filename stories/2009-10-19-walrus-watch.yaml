@@ -1,28 +1,13 @@
 ngrams:
-- - airhead
-  - andie
-  - macdowell
-- - delayed
-  - more-in-sorrow-than-in-anger
-  - missives
 - - annoyingly
   - misplaced
   - apostrophe
-- - glyn
-  - webster
-  - prods
 - - reflecting
   - booster
   - technology
 - - reflecting
   - booster
   - technology
-- - walrus
-  - watch
-  - glyn
-- - watch
-  - glyn
-  - webster
 - - light
   - reflecting
   - booster
@@ -35,15 +20,63 @@ ngrams:
 - - straight
   - light
   - reflecting
-- - more-in-sorrow-than-in-anger
-  - missives
+- - record
+  - straight
+  - light
+- - feel
+  - sure
+  - l'oreal
+- - mood
+  - also
+  - comment
+- - comment
+  - number
+  - four
+- - missives
   - later
-- - l
-  - oreal
+  - today
+- - adverts
+  - instead
+  - perhaps
+- - most
+  - magnificent
+  - walrus
+- - also
+  - comment
+  - number
+- - technology
+  - even
+  - employing
+- - booster
+  - technology
+  - even
+- - shall
+  - fire
+  - 'off'
+- - its
+  - television
+  - adverts
+- - l'oreal
   - readers
-- - sure
-  - l
-  - oreal
+  - may
+- - read
+  - after
+  - glorying
+- - its
+  - walrus
+  - o
+- - readers
+  - may
+  - recall
+- - umpteenth
+  - time
+  - let
+- - their
+  - adverts
+  - instead
+- - purposes
+  - other
+  - than
 story:
   date: 2009-10-19
   id: 2009-10-19-walrus-watch
@@ -64,4 +97,4 @@ story:
     \ think I have let them off the hook. Not so! I shall fire off one of my much\
     \ delayed more-in-sorrow-than-in-anger missives later today."
   title: Walrus Watch
-word_count: 215
+word_count: 213

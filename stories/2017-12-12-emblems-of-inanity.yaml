@@ -1,19 +1,10 @@
 ngrams:
-- - ferdinandodooda
-  - gulbenkian
-  - mukherjee
-- - mukherjee
-  - denied
-  - moulding
 - - emblems
   - mukherjee
   - denied
 - - boggling
   - expertise
   - tread
-- - rough
-  - dun
-  - spelt
 - - emblems
   - core
   - hunter
@@ -26,15 +17,12 @@ ngrams:
 - - leaf
   - tremendous
   - splattering
-- - bore
-  - tremendous
-  - splatterings
+- - christ's
+  - sake
+  - content
 - - lacks
   - gold
   - leaf
-- - purchase
-  - rough
-  - dun
 - - ink
   - lupine
   - howling
@@ -44,6 +32,195 @@ ngrams:
 - - emblems
   - gain
   - moral
+- - gold
+  - leaf
+  - tremendous
+- - preclude
+  - proper
+  - digestion
+- - gain
+  - moral
+  - heft
+- - proper
+  - digestion
+  - mukherjee
+- - mole
+  - pound
+  - writes
+- - poor
+  - ink
+  - lupine
+- - response
+  - preclude
+  - proper
+- - bobbed
+  - hair
+  - preserved
+- - streets
+  - run
+  - mile
+- - pound
+  - writes
+  - somewhere
+- - innocent
+  - streets
+  - run
+- - lost
+  - swollen
+  - blobs
+- - sometimes
+  - lamps
+  - dazzle
+- - big
+  - expansive
+  - seas
+- - mother
+  - bobbed
+  - hair
+- - spurious
+  - bird
+  - motifs
+- - viewers
+  - eyes
+  - scrunch
+- - dead
+  - mother
+  - bobbed
+- - earth
+  - dust
+  - covered
+- - end
+  - inanity
+  - brooks
+- - heft
+  - several
+  - ditches
+- - prison
+  - gang
+  - look
+- - moral
+  - heft
+  - several
+- - same
+  - rag
+  - frostbitten
+- - gang
+  - look
+  - carefully
+- - lamps
+  - dazzle
+  - rather
+- - dust
+  - always
+  - wiped
+- - horsemen
+  - came
+  - roaring
+- - bird
+  - motif
+  - done
+- - middling
+  - too
+  - inhabit
+- - living
+  - things
+  - suffering
+- - particular
+  - significance
+  - though
+- - plains
+  - these
+  - emblems
+- - pretty
+  - little
+  - chaffinch
+- - came
+  - roaring
+  - across
+- - used
+  - sparingly
+  - most
+- - little
+  - spurious
+  - bird
+- - stretched
+  - over
+  - wretched
+- - those
+  - big
+  - expansive
+- - frankly
+  - middling
+  - than
+- - motif
+  - even
+  - dust
+- - bells
+  - hanging
+  - where
+- - over
+  - wretched
+  - men
+- - middling
+  - than
+  - otherwise
+- - other
+  - fangs
+  - bared
+- - gulf
+  - between
+  - head
+- - beak
+  - its
+  - beak
+- - mile
+  - upon
+  - mile
+- - need
+  - only
+  - examine
+- - its
+  - beak
+  - golden
+- - bird
+  - motif
+  - even
+- - than
+  - otherwise
+  - none
+- - run
+  - mile
+  - upon
+- - night
+  - stretched
+  - over
+- - now
+  - lost
+  - swollen
+- - lectures
+  - now
+  - lost
+- - more
+  - documents
+  - beneath
+- - rather
+  - than
+  - illuminate
+- - dazzle
+  - rather
+  - than
+- - even
+  - dust
+  - always
+- - water
+  - like
+  - living
+- - dust
+  - covered
+  - some
+- - each
+  - other
+  - fangs
 story:
   date: 2017-12-12
   id: 2017-12-12-emblems-of-inanity
@@ -92,4 +269,4 @@ story:
     \ in the prison gang. Look carefully at the more vivid of the emblems and blindness\
     \ wears a trickster's hat.\nIn the end, inanity brooks no lop."
   title: Emblems Of Inanity
-word_count: 604
+word_count: 596

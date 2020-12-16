@@ -1,16 +1,22 @@
 ngrams:
-- - bernhardt
-  - tegetmeier
-  - tegetmeier
-- - william
-  - bernhardt
-  - tegetmeier
 - - poultry
   - provider
   - dear
 - - provider
   - dear
   - sir
+- - dead
+  - poultry
+  - provider
+- - wrote
+  - charles
+  - darwin
+- - poultry
+  - wrote
+  - charles
+- - over
+  - your
+  - offer
 story:
   date: 2012-11-05
   id: 2012-11-05-dead-poultry-provider

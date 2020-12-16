@@ -2,9 +2,6 @@ ngrams:
 - - severely
   - truncated
   - limericks
-- - critic
-  - stockard
-  - owlhead
 - - squid
   - population
   - mossop
@@ -14,36 +11,96 @@ ngrams:
 - - calls
   - severely
   - truncated
-- - versifier
-  - calls
-  - severely
-- - winsome
-  - versifier
-  - calls
-- - pansy
-  - cradledew
-  - berates
-- - pony
-  - pansy
-  - cradledew
-- - inform
-  - ms
-  - cradledew
-- - so-called
-  - truncated
-  - limericks
 - - confirmed
   - incidentally
   - neville
-- - stockard
-  - owlhead
-  - writes
 - - incidentally
   - neville
   - mossop
-- - volume
+- - slim
+  - volume
   - critic
-  - stockard
+- - neville
+  - mossop
+  - information
+- - entitled
+  - truncated
+  - limericks
+- - named
+  - neville
+  - mossop
+- - classic
+  - text
+  - destined
+- - exciting
+  - neville
+  - mossop
+- - twee
+  - poet
+  - dennis
+- - st
+  - james's
+  - park
+- - population
+  - mossop
+  - less
+- - scamp
+  - seen
+  - chasing
+- - neville
+  - mossop
+  - also
+- - neville
+  - mossop
+  - also
+- - young
+  - scamp
+  - seen
+- - mossop
+  - also
+  - turns
+- - mossop
+  - also
+  - happens
+- - book
+  - entitled
+  - truncated
+- - slithered
+  - after
+  - devouring
+- - squid
+  - slithered
+  - after
+- - after
+  - devouring
+  - popsy
+- - truncated
+  - limericks
+  - such
+- - any
+  - exciting
+  - neville
+- - any
+  - account
+  - share
+- - very
+  - same
+  - pool
+- - utter
+  - nitwit
+  - do
+- - mossop
+  - information
+  - do
+- - fatally
+  - undermines
+  - what
+- - also
+  - turns
+  - up
+- - more
+  - than
+  - happy
 story:
   date: 2016-09-01
   id: 2016-09-01-neville-mossop
@@ -69,4 +126,4 @@ story:
     \ any exciting Neville Mossop information? Do not on any account share it. Just\
     \ keep it to yourself, you pimpled popinjay!"
   title: Neville Mossop
-word_count: 279
+word_count: 277

@@ -1,7 +1,4 @@
 ngrams:
-- - deceit
-  - constitute
-  - felicity
 - - cogent
   - rational
   - searing
@@ -14,18 +11,15 @@ ngrams:
 - - considered
   - cogent
   - rational
-- - constitute
-  - felicity
-  - everything
 - - bus
   - stops
   - supermarkets
-- - felicity
-  - everything
-  - ends
 - - everything
   - ends
   - miserably
+- - one's
+  - fellow
+  - citizens
 - - gibberish
   - become
   - ethics
@@ -38,6 +32,30 @@ ngrams:
 - - neither
   - deranged
   - nor
+- - heart
+  - further
+  - reading
+- - situation
+  - how
+  - pleased
+- - find
+  - myself
+  - compelled
+- - possibly
+  - even
+  - learn
+- - further
+  - reading
+  - here
+- - world
+  - where
+  - ignorance
+- - read
+  - possibly
+  - even
+- - tone
+  - right
+  - can
 story:
   date: 2010-07-30
   id: 2010-07-30-anathema
@@ -55,4 +73,4 @@ story:
     \ here and, enticingly, the opportunity in a couple of months\u2019 time to see\
     \ an exhibition of Spare's work.\n"
   title: Anathema
-word_count: 161
+word_count: 158

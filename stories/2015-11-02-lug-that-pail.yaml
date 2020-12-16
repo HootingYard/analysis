@@ -1,13 +1,4 @@
 ngrams:
-- - belles-lettres
-  - pail
-  - lugging
-- - pail
-  - lugging
-  - daddy-o
-- - toss
-  - aside
-  - contemptuously
 - - comparatively
   - flat
   - fields
@@ -20,18 +11,12 @@ ngrams:
 - - choose
   - among
   - literally
-- - pail
-  - o
-  - er
-- - miles
-  - o
-  - er
-- - frustrated
-  - reader
-  - however
 - - today
   - hills
   - obviously
+- - frustrated
+  - reader
+  - however
 - - frustrating
   - reading
   - matter
@@ -44,6 +29,147 @@ ngrams:
 - - these
   - significant
   - matters
+- - mention
+  - these
+  - significant
+- - reader
+  - however
+  - because
+- - say
+  - anything
+  - whatsoever
+- - over
+  - comparatively
+  - flat
+- - bother
+  - our
+  - heads
+- - well
+  - quite
+  - frankly
+- - let
+  - us
+  - shed
+- - its
+  - eventual
+  - ending
+- - read
+  - something
+  - else
+- - across
+  - those
+  - fields
+- - going
+  - well
+  - quite
+- - proceeds
+  - without
+  - any
+- - any
+  - clear
+  - idea
+- - any
+  - clear
+  - idea
+- - hills
+  - without
+  - any
+- - clear
+  - idea
+  - where
+- - some
+  - ways
+  - akin
+- - many
+  - many
+  - miles
+- - without
+  - any
+  - clear
+- - without
+  - any
+  - clear
+- - while
+  - let
+  - us
+- - frankly
+  - who
+  - gives
+- - might
+  - just
+  - peter
+- - course
+  - more
+  - strenuous
+- - their
+  - strength
+  - panting
+- - shed
+  - 'no'
+  - tears
+- - prose
+  - might
+  - just
+- - identify
+  - your
+  - destination
+- - might
+  - even
+  - weep
+- - quite
+  - frankly
+  - who
+- - hills
+  - obviously
+  - were
+- - anything
+  - whatsoever
+  - about
+- - peter
+  - out
+  - fruitlessly
+- - us
+  - shed
+  - 'no'
+- - become
+  - frustrated
+  - all
+- - possible
+  - we
+  - need
+- - our
+  - heads
+  - about
+- - just
+  - peter
+  - out
+- - whatsoever
+  - about
+  - where
+- - 'no'
+  - tears
+  - then
+- - who
+  - can
+  - pick
+- - reader
+  - who
+  - can
+- - however
+  - because
+  - they
+- - an
+  - awful
+  - spectacle
+- - bat
+  - an
+  - eyelid
+- - damn
+  - where
+  - they
+- - day
+  - we
+  - looked
 story:
   date: 2015-11-02
   id: 2015-11-02-lug-that-pail
@@ -85,4 +211,4 @@ story:
     on, with no end in sight, because that is how it is, in the world of belles-lettres
     pail lugging, daddy-o.'
   title: Lug That Pail
-word_count: 466
+word_count: 463

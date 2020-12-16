@@ -1,7 +1,4 @@
 ngrams:
-- - includes
-  - norm
-  - sherman
 - - magnetic
   - mute
   - blind
@@ -17,6 +14,18 @@ ngrams:
 - - blind
   - love
   - monkeys
+- - words
+  - magnetic
+  - mute
+- - story
+  - far
+  - far
+- - far
+  - far
+  - away
+- - rare
+  - treat
+  - if
 story:
   date: 2018-10-13
   id: 2018-10-13-norm-n-the-love-monkeys
@@ -27,4 +36,4 @@ story:
     \ treat. If you have heard him, you will know that there are few instances in\
     \ the history of recorded sound that are quite so unforgettable."
   title: Norm & The Love Monkeys
-word_count: 77
+word_count: 76

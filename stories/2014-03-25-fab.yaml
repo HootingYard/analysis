@@ -1,31 +1,43 @@
 ngrams:
-- - shereka
-  - fab-ann
-  - marsh
-- - fab-ann
-  - marsh
-  - shereka
 - - teenage
   - shooting
   - murder
 - - tragic
   - miss
-  - marsh
-- - enough
-  - eliding
-  - easily
-- - bad
-  - enough
-  - eliding
+  - marsh's
+- - miss
+  - marsh's
+  - parents
 - - another
   - teenage
   - shooting
-- - perhaps
-  - with-it-mr-key
-  - perhaps
 - - yet
   - another
   - teenage
+- - now
+  - adult
+  - sons
+- - her
+  - parents
+  - thinking
+- - own
+  - now
+  - adult
+- - victim
+  - her
+  - name
+- - her
+  - name
+  - apparently
+- - into
+  - inappropriate
+  - laughter
+- - burst
+  - into
+  - inappropriate
+- - marsh's
+  - parents
+  - were
 story:
   date: 2014-03-25
   id: 2014-03-25-fab
@@ -39,4 +51,4 @@ story:
     \ Fab-Frank? Or perhaps With-It-Mr-Key?\nPerhaps the tragic Miss Marsh's parents\
     \ were fans of Thunderbirds."
   title: Fab!
-word_count: 108
+word_count: 106

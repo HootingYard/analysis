@@ -1,16 +1,16 @@
 ngrams:
-- - tearaways
-  - grow
-  - moustaches
+- - gustav
+  - mahler's
+  - fifth
+- - mahler's
+  - fifth
+  - symphony
 - - gruesome
   - sink
   - estates
 - - circumstances
   - dirk
   - bogarde
-- - stick-on
-  - 'false'
-  - moustache
 - - country
   - lanes
   - sweating
@@ -26,24 +26,165 @@ ngrams:
 - - inner
   - city
   - youth
-- - young
-  - tearaways
-  - grow
 - - rag
   - whichever
   - comes
 - - occasionally
   - foppish
   - early
-- - seen
-  - luchino
-  - visconti
 - - youngsters
   - emulate
   - today
+- - you've
+  - seen
+  - luchino
 - - later
   - dirk
   - bogarde
+- - cart
+  - along
+  - winding
+- - great
+  - heaving
+  - sobs
+- - along
+  - winding
+  - country
+- - see
+  - youngsters
+  - emulate
+- - scrape
+  - grease
+  - 'off'
+- - many
+  - teenage
+  - girls
+- - serious
+  - man
+  - happy
+- - pig
+  - sty
+  - say
+- - find
+  - myself
+  - thinking
+- - fifth
+  - symphony
+  - such
+- - lanes
+  - sweating
+  - like
+- - often
+  - find
+  - myself
+- - mahler's
+  - fifth
+  - could
+- - more
+  - gruesome
+  - sink
+- - vaporetto
+  - probably
+  - more
+- - some
+  - circumstances
+  - dirk
+- - probably
+  - more
+  - often
+- - loaded
+  - onto
+  - their
+- - onto
+  - their
+  - pods
+- - emulate
+  - today
+  - 'no'
+- - about
+  - dirk
+  - bogarde
+- - about
+  - dirk
+  - bogarde
+- - about
+  - dirk
+  - bogarde
+- - absolutely
+  - 'no'
+  - idea
+- - exactly
+  - what
+  - i'm
+- - what
+  - i'm
+  - talking
+- - thinking
+  - about
+  - dirk
+- - thinking
+  - about
+  - dirk
+- - invariably
+  - break
+  - into
+- - cinema
+  - if
+  - you've
+- - i'm
+  - talking
+  - about
+- - vaporetto
+  - if
+  - truth
+- - city
+  - youth
+  - if
+- - them
+  - through
+  - loudspeakers
+- - has
+  - ever
+  - asked
+- - if
+  - you've
+  - seen
+- - 'no'
+  - idea
+  - why
+- - eyes
+  - when
+  - thinking
+- - into
+  - great
+  - heaving
+- - myself
+  - thinking
+  - about
+- - more
+  - often
+  - than
+- - break
+  - into
+  - great
+- - am
+  - already
+  - like
+- - has
+  - its
+  - attractions
+- - happen
+  - clearly
+  - there
+- - would
+  - certainly
+  - welcome
+- - think
+  - about
+  - dirk
+- - am
+  - more
+  - likely
 story:
   date: 2008-05-13
   id: 2008-05-13-dirk-bogarde-with-a-moustache-in-a-vaporetto
@@ -85,4 +226,4 @@ story:
     I would be a happy man. I am already, like the later Dirk Bogarde, a serious man.
     Happy and serious would be a fantastic combination. I live in hope.'
   title: Dirk Bogarde, With A Moustache, In A Vaporetto
-word_count: 504
+word_count: 499

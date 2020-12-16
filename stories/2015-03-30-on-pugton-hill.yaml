@@ -17,15 +17,15 @@ ngrams:
 - - sheep
   - wide
   - awake
-- - main
-  - arterial
-  - road
-- - main
-  - arterial
-  - road
 - - terrified
   - sheep
   - glory
+- - main
+  - arterial
+  - road
+- - main
+  - arterial
+  - road
 - - huge
   - speeding
   - lorries
@@ -35,15 +35,69 @@ ngrams:
 - - huge
   - container
   - lorries
-- - pugton
-  - hill
-  - atop
 - - arterial
   - road
   - huge
 - - road
   - huge
   - container
+- - wind
+  - blows
+  - wild
+- - wind
+  - blew
+  - wild
+- - lorries
+  - thundered
+  - past
+- - arrow
+  - pointing
+  - towards
+- - lorries
+  - too
+  - belched
+- - while
+  - shepherds
+  - watched
+- - too
+  - belched
+  - smoke
+- - speeding
+  - lorries
+  - ever
+- - hill
+  - while
+  - shepherds
+- - lorries
+  - ever
+  - comes
+- - never
+  - return
+  - past
+- - ever
+  - comes
+  - back
+- - two
+  - down
+  - below
+- - shepherds
+  - smoked
+  - their
+- - smoked
+  - their
+  - pipes
+- - shepherds
+  - watched
+  - their
+- - ferry
+  - 'no'
+  - sign
+- - watched
+  - their
+  - flocks
+- - their
+  - terrified
+  - sheep
 story:
   date: 2015-03-30
   id: 2015-03-30-on-pugton-hill

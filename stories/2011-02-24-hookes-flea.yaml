@@ -1,13 +1,19 @@
 ngrams:
-- - ptak
-  - science
-  - books
 - - science
   - books
   - click
-- - flea
-  - from
-  - ptak
+- - click
+  - again
+  - to
+- - again
+  - to
+  - see
+- - click
+  - and
+  - click
+- - books
+  - click
+  - and
 story:
   date: 2011-02-24
   id: 2011-02-24-hookes-flea
@@ -15,4 +21,4 @@ story:
 
     From Ptak Science Books. Click and click again to see the enormous version.'
   title: Hooke's Flea
-word_count: 16
+word_count: 15

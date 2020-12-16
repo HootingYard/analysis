@@ -1,4 +1,10 @@
 ngrams:
+- - beyond
+  - man's
+  - ken
+- - invisible
+  - beyond
+  - man's
 - - reign
   - supreme
   - within
@@ -20,6 +26,9 @@ ngrams:
 - - supreme
   - over
   - beasts
+- - vain
+  - pig
+  - how
 story:
   date: 2013-05-15
   id: 2013-05-15-vain-pig
@@ -30,4 +39,4 @@ story:
     \ over beasts and men\n  I bow to no one save that hen\u201D\n\u201CWhat hen?\
     \ I see no God-like hen.\u201D\n  \u201CIt is invisible, beyond man's ken\u201D"
   title: Vain Pig
-word_count: 85
+word_count: 83

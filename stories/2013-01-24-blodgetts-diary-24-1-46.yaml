@@ -1,31 +1,43 @@
 ngrams:
-- - gnarled
-  - bole
-  - hacksaw
-- - pucker
-  - crunched
-  - duct
-- - bole
-  - hacksaw
-  - honed
-- - puttered
-  - putter
-  - slack
-- - flicked
-  - flecked
-  - highlit
-- - spruce
-  - gnarled
-  - bole
-- - noggin
-  - puttered
-  - putter
 - - putter
   - slack
   - gutta
-- - flecked
-  - highlit
-  - strands
+- - crunched
+  - duct
+  - hod
+- - hacksaw
+  - honed
+  - whetstone
+- - slack
+  - gutta
+  - percha
+- - askew
+  - righted
+  - fumbled
+- - dots
+  - pricked
+  - gummed
+- - gusts
+  - lemsip
+  - kite
+- - clattered
+  - dots
+  - pricked
+- - sloshed
+  - stove
+  - exploded
+- - exploded
+  - hooves
+  - clattered
+- - honed
+  - whetstone
+  - cracked
+- - duct
+  - hod
+  - tap
+- - hooves
+  - clattered
+  - dots
 story:
   date: 2013-01-24
   id: 2013-01-24-blodgetts-diary-24-1-46
@@ -39,4 +51,4 @@ story:
     \ gunny sack. Milk spilt, night soil sloshed. Stove exploded. Hooves clattered.\
     \ Dots pricked. Gummed up shrift. Go to work on an egg."
   title: Blodgett's Diary 24.1.46
-word_count: 113
+word_count: 111

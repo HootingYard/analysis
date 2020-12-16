@@ -14,12 +14,9 @@ ngrams:
 - - kissed
   - ted
   - drawing
-- - thee
+- - what's
+  - thee
   - doing
-  - lass
-- - gruffly
-  - sylvia
-  - looked
 - - drawing
   - blood
   - ouch
@@ -29,6 +26,21 @@ ngrams:
 - - ted
   - drawing
   - blood
+- - kissed
+  - ted
+  - again
+- - ted
+  - again
+  - drawing
+- - cottage
+  - later
+  - done
+- - manly
+  - way
+  - talk
+- - through
+  - binoculars
+  - ted
 story:
   date: 2011-02-26
   id: 2011-02-26-bootless-hawk
@@ -43,4 +55,4 @@ story:
     \ looked up at him.\n\u201CI am knitting boots for the hawk,\u201D said Sylvia,\
     \ in domestic bliss.\nTed stared out of the window into the rain."
   title: Bootless Hawk
-word_count: 122
+word_count: 119

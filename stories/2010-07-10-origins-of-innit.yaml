@@ -5,15 +5,21 @@ ngrams:
 - - verbal
   - flourish
   - duly
-- - verbal
-  - infelicities
-  - committed
 - - bespectacled
   - liverpudlian
   - husband
+- - verbal
+  - infelicities
+  - committed
+- - '''s'
+  - john
+  - lennon
 - - grammatically
   - correct
   - manner
+- - bbc
+  - '''s'
+  - john
 - - flourish
   - duly
   - began
@@ -29,12 +35,6 @@ ngrams:
 - - almost
   - always
   - ungrammatical
-- - reason
-  - why
-  - innit
-- - course
-  - using
-  - innit
 - - little
   - introductory
   - pieces
@@ -44,6 +44,54 @@ ngrams:
 - - these
   - matters
   - properly
+- - ubiquitous
+  - last
+  - night
+- - think
+  - give
+  - peace
+- - didn't
+  - think
+  - give
+- - yoko
+  - ono
+  - did
+- - her
+  - bespectacled
+  - liverpudlian
+- - more
+  - distressing
+  - verbal
+- - pops
+  - recorded
+  - some
+- - s
+  - can
+  - rarely
+- - did
+  - little
+  - introductory
+- - ono
+  - did
+  - little
+- - am
+  - thus
+  - forced
+- - 'no'
+  - possessions
+  - whenever
+- - teen
+  - persons
+  - their
+- - recorded
+  - some
+  - years
+- - some
+  - years
+  - ago
+- - yoko
+  - saying
+  - we
 story:
   date: 2010-07-10
   id: 2010-07-10-origins-of-innit
@@ -67,4 +115,4 @@ story:
     \ my view of \u201Cinnit\u201D and will henceforth say a little prayer for world\
     \ peace and a wish for no possessions whenever I overhear it."
   title: Origins Of Innit
-word_count: 257
+word_count: 254

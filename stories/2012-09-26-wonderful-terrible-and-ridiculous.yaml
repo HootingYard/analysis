@@ -1,13 +1,4 @@
 ngrams:
-- - elizabeth
-  - leane
-  - antarctica
-- - kangaroos
-  - elizabeth
-  - leane
-- - albino
-  - kangaroos
-  - elizabeth
 - - whirlpools
   - alien
   - monsters
@@ -17,6 +8,24 @@ ngrams:
 - - ships
   - vampires
   - routes
+- - demon
+  - ships
+  - vampires
+- - fiction
+  - imaginative
+  - narratives
+- - polar
+  - spirits
+  - demon
+- - spirits
+  - demon
+  - ships
+- - enormous
+  - polar
+  - whirlpools
+- - lobsters
+  - giant
+  - insects
 story:
   date: 2012-09-26
   id: 2012-09-26-wonderful-terrible-and-ridiculous

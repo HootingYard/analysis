@@ -1,19 +1,28 @@
 ngrams:
-- - curse-and-abomination
-  - pin-sticking
-  - procedure
-- - doll
-  - curse-and-abomination
-  - pin-sticking
-- - aztec-voodoo
-  - wax
-  - doll
-- - wax
-  - doll
-  - curse-and-abomination
 - - publishing
   - magnate
   - saying
+- - mary
+  - correctly
+  - points
+- - overlooks
+  - clear
+  - evidence
+- - splendid
+  - awful
+  - library
+- - book's
+  - 'true'
+  - purpose
+- - awful
+  - library
+  - books
+- - international
+  - bestseller
+  - while
+- - bestseller
+  - while
+  - mary
 story:
   date: 2009-08-17
   id: 2009-08-17-wax
@@ -24,4 +33,4 @@ story:
     \ the book's true purpose was to popularise, for tinies, some sort of Aztec-voodoo\
     \ wax doll curse-and-abomination pin-sticking procedure."
   title: Wax
-word_count: 69
+word_count: 68

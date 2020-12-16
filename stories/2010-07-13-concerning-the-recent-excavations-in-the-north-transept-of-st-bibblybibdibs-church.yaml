@@ -2,12 +2,6 @@ ngrams:
 - - steamers
   - steamers
   - ply
-- - vug
-  - steamers
-  - steamers
-- - vug
-  - steamers
-  - ply
 - - steamers
   - ply
   - sinful
@@ -23,18 +17,18 @@ ngrams:
 - - ply
   - sinful
   - sailors
-- - excavations
-  - digging
-  - digging
-- - excavations
-  - digging
-  - digging
 - - north
   - transept
   - excavations
 - - north
   - transept
   - excavations
+- - excavations
+  - digging
+  - digging
+- - excavations
+  - digging
+  - digging
 - - north
   - transept
   - digging
@@ -44,6 +38,81 @@ ngrams:
 - - consecrated
   - tossed
   - tossed
+- - north
+  - transept
+  - lit
+- - north
+  - transept
+  - lit
+- - sinners
+  - sinners
+  - bones
+- - church
+  - consecrated
+  - tossed
+- - heretics
+  - bones
+  - dug
+- - transept
+  - lit
+  - bright
+- - transept
+  - lit
+  - bright
+- - spades
+  - shovels
+  - hard
+- - lit
+  - bright
+  - lit
+- - bones
+  - heretics
+  - bones
+- - consecrated
+  - church
+  - hard
+- - bright
+  - lit
+  - bright
+- - excavations
+  - oh
+  - excavations
+- - bones
+  - tossed
+  - bones
+- - transept
+  - excavations
+  - oh
+- - light
+  - excavations
+  - digging
+- - fine
+  - old
+  - church
+- - old
+  - church
+  - st
+- - heretics
+  - dug
+  - up
+- - transept
+  - digging
+  - up
+- - shovels
+  - digging
+  - up
+- - digging
+  - digging
+  - up
+- - digging
+  - digging
+  - up
+- - up
+  - bones
+  - spades
+- - bones
+  - digging
+  - up
 story:
   date: 2010-07-13
   id: 2010-07-13-concerning-the-recent-excavations-in-the-north-transept-of-st-bibblybibdibs-church
@@ -72,4 +141,4 @@ story:
     \ church, the north transept, lit bright, lit bright."
   title: Concerning The Recent Excavations In The North Transept Of St Bibblybibdib's
     Church
-word_count: 318
+word_count: 308

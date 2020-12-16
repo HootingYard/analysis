@@ -1,28 +1,13 @@
 ngrams:
-- - unique
-  - world-view
-  - concerns
-- - critic
-  - lotte
-  - eisner
 - - concentration
   - camp
   - survivor
 - - winter
   - clothing
   - trekking
-- - herzog
-  - collection
-  - bfi
-- - werner
-  - herzog
-  - collection
 - - dying
   - german
   - cinema
-- - werner
-  - herzog
-  - goes
 - - film
   - critic
   - lotte
@@ -32,15 +17,54 @@ ngrams:
 - - full
   - faith
   - believing
-- - muddy
-  - fields
-  - following
 - - german
   - jewish
   - film
+- - muddy
+  - fields
+  - following
 - - clothing
   - trekking
   - across
+- - trekking
+  - across
+  - muddy
+- - across
+  - muddy
+  - fields
+- - war
+  - having
+  - fled
+- - great
+  - german
+  - jewish
+- - most
+  - direct
+  - route
+- - last
+  - days
+  - onward
+- - walked
+  - through
+  - rain
+- - german
+  - cinema
+  - could
+- - these
+  - last
+  - days
+- - stay
+  - alive
+  - if
+- - without
+  - her
+  - now
+- - would
+  - stay
+  - alive
+- - do
+  - without
+  - her
 story:
   date: 2014-08-31
   id: 2014-08-31-werner-herzog-goes-for-a-walk
@@ -58,4 +82,4 @@ story:
     \ he told her. \u2018From these last days onward I can fly.\u2019\nfrom a review\
     \ of The Werner Herzog Collection (BFI) in The Spectator"
   title: Werner Herzog Goes For A Walk
-word_count: 178
+word_count: 177

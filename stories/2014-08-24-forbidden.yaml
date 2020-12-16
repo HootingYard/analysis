@@ -1,10 +1,4 @@
 ngrams:
-- - kurdish
-  - religious
-  - minority
-- - primarily
-  - kurdish
-  - religious
 - - current
   - travails
   - elsewhere
@@ -14,6 +8,18 @@ ngrams:
 - - endearing
   - fact
   - reported
+- - somehow
+  - endearing
+  - fact
+- - want
+  - here
+  - simply
+- - their
+  - current
+  - travails
+- - about
+  - their
+  - current
 story:
   date: 2014-08-24
   id: 2014-08-24-forbidden
@@ -23,4 +29,4 @@ story:
     \ the somehow endearing fact\u2014reported by the BBC's Paul Wood\u2014that in\
     \ the Yazidi faith it is forbidden to eat lettuce."
   title: Forbidden!
-word_count: 62
+word_count: 61

@@ -14,12 +14,12 @@ ngrams:
 - - self
   - timbers
   - planks
-- - selling
-  - tobacco
-  - confectionery
 - - ipsy
   - dipsy
   - doo
+- - selling
+  - tobacco
+  - confectionery
 - - tremble
   - shake
   - quiver
@@ -44,6 +44,42 @@ ngrams:
 - - dative
   - wood
   - used
+- - also
+  - selling
+  - tobacco
+- - shop
+  - itself
+  - usually
+- - prolix
+  - pirates
+  - every
+- - usually
+  - also
+  - selling
+- - old
+  - english
+  - accusative
+- - itself
+  - usually
+  - also
+- - pirates
+  - every
+  - week
+- - battered
+  - old
+  - copy
+- - material
+  - esp
+  - after
+- - first
+  - person
+  - pronoun
+- - more
+  - prolix
+  - pirate
+- - sold
+  - now
+  - also
 story:
   date: 2017-02-04
   id: 2017-02-04-the-prolix-pirates
@@ -65,4 +101,4 @@ story:
     \ where these are sold; (now also) the shop itself, usually also selling tobacco,\
     \ confectionery, etc."
   title: The Prolix Pirates
-word_count: 222
+word_count: 221

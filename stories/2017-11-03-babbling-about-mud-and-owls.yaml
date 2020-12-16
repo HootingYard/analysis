@@ -1,13 +1,19 @@
 ngrams:
-- - reads
-  - mudguard
-  - pol
-- - mudguard
-  - pol
-  - pot
 - - brief
   - brief
   - lives
+- - few
+  - brief
+  - brief
+- - mr
+  - key
+  - reads
+- - owls
+  - listen
+  - here
+- - babbling
+  - about
+  - mud
 story:
   date: 2017-11-03
   id: 2017-11-03-babbling-about-mud-and-owls
@@ -17,4 +23,4 @@ story:
     reads Mudguard, Pol Pot In France, An Experiment With Curd, Poptastic!, and I
     Heard The Owl Call My Name, plus a few Brief, Brief Lives.'
   title: Babbling About Mud And Owls
-word_count: 46
+word_count: 45

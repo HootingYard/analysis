@@ -1,13 +1,4 @@
 ngrams:
-- - gender
-  - ethnicity
-  - sock-size
-- - magnificently
-  - pleasurable
-  - brain-tinglings
-- - ethnicity
-  - sock-size
-  - religious
 - - boffins
   - conical
   - scanners
@@ -17,9 +8,6 @@ ngrams:
 - - inexplicable
   - data
   - showed
-- - pleasurable
-  - brain-tinglings
-  - occurred
 - - wireless
   - sets
   - whenever
@@ -29,21 +17,84 @@ ngrams:
 - - age
   - gender
   - ethnicity
-- - boffin-resistant
-  - brains
-  - apparently
-- - so-called
-  - boffin-resistant
-  - brains
 - - belgacom
   - boosts
   - anything
-- - walk
-  - ten
-  - paces
 - - whether
   - belgacom
   - boosts
+- - weird
+  - wild
+  - rays
+- - boosters
+  - further
+  - tests
+- - further
+  - tests
+  - showed
+- - boosts
+  - anything
+  - else
+- - don't
+  - really
+  - care
+- - cobbles
+  - without
+  - seeing
+- - sure
+  - whether
+  - belgacom
+- - results
+  - though
+  - difficult
+- - boosters
+  - devoted
+  - hooting
+- - can't
+  - go
+  - wrong
+- - doesn't
+  - make
+  - sense
+- - such
+  - persons
+  - send
+- - devoted
+  - hooting
+  - yard
+- - could
+  - barely
+  - walk
+- - some
+  - unknown
+  - substance
+- - hooting
+  - yard
+  - readers
+- - sentence
+  - has
+  - boost
+- - their
+  - wireless
+  - sets
+- - towards
+  - their
+  - wireless
+- - ears
+  - towards
+  - their
+- - really
+  - care
+  - what
+- - send
+  - out
+  - weird
+- - care
+  - what
+  - kind
+- - persons
+  - send
+  - out
 story:
   date: 2010-03-15
   id: 2010-03-15-boosters
@@ -69,4 +120,4 @@ story:
     \nI am not sure whether Belgacom boosts anything else, in addition to het internet,\
     \ but I wouldn't put it past them."
   title: Boosters
-word_count: 265
+word_count: 261

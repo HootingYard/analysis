@@ -1,49 +1,184 @@
 ngrams:
-- - reviewer
-  - sam
-  - wollaston
-- - sam
-  - wollaston
-  - reviewing
 - - admittedly
   - minor
   - errors
 - - occur
   - bruce
   - willis
-- - literate
-  - instantly
-  - recognise
-- - editor
-  - michael
-  - tomasky
 - - america
   - editor
   - michael
 - - screw
   - repeatedly
   - referred
-- - grauniad
-  - america
-  - editor
-- - greco-roman
-  - wars
-  - b
-- - instantly
-  - recognise
-  - incidentally
 - - roman
   - empire
   - c
-- - fatuous
-  - television
-  - reviewer
 - - television
   - reviewer
   - sam
+- - fatuous
+  - television
+  - reviewer
 - - presiding
   - evil
   - spirit
+- - television
+  - reviewer
+  - addressing
+- - henry
+  - james
+  - ghost
+- - knowledge
+  - henry
+  - james
+- - general
+  - knowledge
+  - henry
+- - general
+  - knowledge
+  - today's
+- - six
+  - volumes
+  - described
+- - consider
+  - general
+  - knowledge
+- - james
+  - ghost
+  - story
+- - e
+  - nothing
+  - betray
+- - monday
+  - morning
+  - rant
+- - morning
+  - rant
+  - monday
+- - rant
+  - monday
+  - morning
+- - immortal
+  - words
+  - proofreading
+- - reviewer
+  - addressing
+  - himself
+- - peter
+  - clint
+  - rather
+- - knowledge
+  - today's
+  - case
+- - called
+  - general
+  - knowledge
+- - reviewing
+  - last
+  - night's
+- - thought
+  - anybody
+  - employed
+- - night's
+  - new
+  - sherlock
+- - papers
+  - still
+  - employed
+- - black
+  - cab
+  - rather
+- - those
+  - admittedly
+  - minor
+- - being
+  - clearly
+  - visible
+- - characters
+  - get
+  - around
+- - betray
+  - such
+  - ignorance
+- - much
+  - less
+  - likely
+- - last
+  - night's
+  - new
+- - yet
+  - another
+  - example
+- - while
+  - ago
+  - another
+- - name
+  - being
+  - clearly
+- - nothing
+  - betray
+  - such
+- - rather
+  - than
+  - quint
+- - clint
+  - rather
+  - than
+- - cab
+  - rather
+  - than
+- - fat
+  - lot
+  - more
+- - stopped
+  - right
+  - then
+- - very
+  - different
+  - book
+- - first
+  - great
+  - work
+- - monday
+  - morning
+  - time
+- - roman
+  - empire
+  - 'no'
+- - anyone
+  - who
+  - knows
+- - empire
+  - 'no'
+  - doubt
+- - never
+  - more
+  - wrong
+- - course
+  - anyone
+  - who
+- - who
+  - sets
+  - us
+- - planets
+  - will
+  - continue
+- - makes
+  - if
+  - lacking
+- - rarely
+  - right
+  - about
+- - more
+  - wrong
+  - than
+- - lot
+  - more
+  - than
+- - right
+  - about
+  - anything
 story:
   date: 2010-07-26
   id: 2010-07-26-monday-morning-rant
@@ -85,4 +220,4 @@ story:
     \ who is rarely right about anything, and he was never more wrong than when he\
     \ wrote the immortal words \u201CProofreading is for pussies\u201D."
   title: Monday Morning Rant
-word_count: 492
+word_count: 487

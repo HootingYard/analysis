@@ -1,7 +1,4 @@
 ngrams:
-- - animation
-  - awards
-  - programme
 - - british
   - animation
   - awards
@@ -17,6 +14,18 @@ ngrams:
 - - p
   - m
   - mr
+- - course
+  - don't
+  - miss
+- - around
+  - london
+  - next
+- - m
+  - mr
+  - key
+- - lot
+  - who
+  - live
 story:
   date: 2014-02-01
   id: 2014-02-01-gruel-on-film
@@ -27,4 +36,4 @@ story:
     \ will be in attendance (incognito, of course). Don't miss the cinematic event\
     \ of this, or any other, century!\n"
   title: Gruel On Film!
-word_count: 81
+word_count: 79

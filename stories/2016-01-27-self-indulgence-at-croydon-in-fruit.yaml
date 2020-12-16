@@ -1,4 +1,7 @@
 ngrams:
+- - poet's
+  - sickening
+  - depravity
 - - gerard
   - manley
   - hopkins
@@ -14,9 +17,6 @@ ngrams:
 - - victorian
   - jesuit
   - literature
-- - published
-  - volume
-  - viii
 - - university
   - press
   - recently
@@ -35,6 +35,27 @@ ngrams:
 - - good
   - catholic
   - hopkins
+- - new
+  - edition
+  - includes
+- - h
+  - old
+  - habits
+- - how
+  - hopkins
+  - escaped
+- - much
+  - worse
+  - self-indulgence
+- - worse
+  - much
+  - worse
+- - fruit
+  - how
+  - hopkins
+- - o
+  - h
+  - old
 story:
   date: 2016-01-27
   id: 2016-01-27-self-indulgence-at-croydon-in-fruit
@@ -52,4 +73,4 @@ story:
     \ at Croydon in fruit\u201D.\nHow Hopkins escaped prison is one of the enduring\
     \ mysteries of Victorian Jesuit literature.\n"
   title: Self-Indulgence At Croydon In Fruit
-word_count: 153
+word_count: 152

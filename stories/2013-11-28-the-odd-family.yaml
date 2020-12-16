@@ -1,28 +1,10 @@
 ngrams:
-- - viz
-  - solomon
-  - roger
-- - boys
-  - viz
-  - solomon
-- - james
-  - matthew
-  - jonas
-- - james
-  - matthew
-  - jonas
 - - solomon
   - roger
   - james
 - - eccentricities
   - volume
   - ii
-- - matthew
-  - jonas
-  - david
-- - timbs
-  - english
-  - eccentrics
 - - roger
   - james
   - matthew
@@ -35,15 +17,114 @@ ngrams:
 - - church
   - registers
   - died
+- - wife's
+  - remarkably
+  - white
 - - sustenance
   - died
   - five
-- - john
-  - timbs
-  - english
+- - david
+  - got
+  - wives
+- - event
+  - remarkably
+  - good
+- - left
+  - ear
+  - bit
+- - christian
+  - names
+  - always
+- - every
+  - event
+  - remarkably
+- - died
+  - five
+  - days
+- - names
+  - always
+  - happened
 - - family
-  - john
-  - timbs
+  - every
+  - event
+- - odd
+  - family
+  - every
+- - remarkably
+  - white
+  - yet
+- - remarkably
+  - short
+  - while
+- - odd
+  - circumstances
+  - never
+- - ear
+  - bit
+  - 'off'
+- - circumstances
+  - never
+  - occurred
+- - white
+  - yet
+  - every
+- - only
+  - three
+  - fingers
+- - five
+  - days
+  - after
+- - her
+  - person
+  - manner
+- - never
+  - occurred
+  - before
+- - their
+  - christian
+  - names
+- - accidentally
+  - falling
+  - into
+- - latter
+  - were
+  - remarkably
+- - were
+  - remarkably
+  - short
+- - were
+  - drowned
+  - together
+- - refusing
+  - all
+  - kinds
+- - wife
+  - refusing
+  - all
+- - children
+  - all
+  - boys
+- - iii
+  - there
+  - resided
+- - seven
+  - children
+  - all
+- - william
+  - iii
+  - there
+- - days
+  - after
+  - him
+- - borough
+  - would
+  - listen
+- - all
+  - these
+  - except
+- - one
+  - arm
+  - solomon
 story:
   date: 2013-11-28
   id: 2013-11-28-the-odd-family
@@ -73,4 +154,4 @@ story:
     \ of odd circumstances never occurred before in one family.\nJohn Timbs, English\
     \ Eccentrics And Eccentricities, Volume II (1866)"
   title: The Odd Family
-word_count: 344
+word_count: 339

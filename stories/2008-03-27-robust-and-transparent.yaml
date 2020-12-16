@@ -1,22 +1,19 @@
 ngrams:
-- - transparently
-  - robust
-  - manner
-- - mystic
-  - badger
-  - scrabbled
 - - octogenarian
   - crone
   - mrs
 - - crone
   - mrs
   - gubbins
+- - robust
+  - glass
+  - it's
+- - government's
+  - big
+  - tent
 - - insufficiently
   - robust
   - nor
-- - badger
-  - scrabbled
-  - around
 - - definite
   - conclusion
   - perhaps
@@ -35,12 +32,33 @@ ngrams:
 - - such
   - robust
   - transparency
+- - think
+  - it's
+  - important
 - - hooting
   - yard
   - needs
 - - am
   - making
   - arrangements
+- - 'no'
+  - definite
+  - conclusion
+- - ever
+  - more
+  - apparent
+- - conversation
+  - one
+  - benefit
+- - robust
+  - manner
+  - from
+- - this
+  - our
+  - resident
+- - manner
+  - from
+  - behind
 story:
   date: 2008-03-27
   id: 2008-03-27-robust-and-transparent
@@ -57,4 +75,4 @@ story:
     \ around in a pile of twigs and muck and came to no definite conclusion. Perhaps\
     \ he is insufficiently robust. Nor, of course, is he transparent, being a badger."
   title: Robust And Transparent
-word_count: 170
+word_count: 167

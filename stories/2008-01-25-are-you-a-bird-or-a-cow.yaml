@@ -20,6 +20,9 @@ ngrams:
 - - fascinating
   - personality
   - test
+- - one's
+  - descendants
+  - yea
 - - lunch
   - dinner
   - tea
@@ -29,9 +32,6 @@ ngrams:
 - - asks
   - specifically
   - whether
-- - deviser
-  - whose
-  - photograph
 - - give
   - short
   - shrift
@@ -44,6 +44,90 @@ ngrams:
 - - fourth
   - generation
   - very
+- - make
+  - perfect
+  - sense
+- - recently
+  - came
+  - across
+- - generation
+  - very
+  - occasionally
+- - level
+  - any
+  - criticism
+- - i'll
+  - do
+  - it's
+- - cow
+  - acquaintances
+  - who
+- - extreme
+  - measures
+  - up
+- - myself
+  - rather
+  - than
+- - do
+  - it's
+  - called
+- - such
+  - things
+  - because
+- - about
+  - elevenses
+  - lunch
+- - that's
+  - what
+  - i'll
+- - sale
+  - into
+  - slavery
+- - results
+  - were
+  - extremely
+- - were
+  - extremely
+  - interesting
+- - ask
+  - about
+  - elevenses
+- - am
+  - only
+  - paraphrasing
+- - can
+  - only
+  - assume
+- - delighted
+  - me
+  - unfortunately
+- - stop
+  - me
+  - paraphrasing
+- - document
+  - so
+  - thoroughly
+- - so
+  - thoroughly
+  - protected
+- - test
+  - so
+  - that's
+- - because
+  - they
+  - tend
+- - human
+  - personality
+  - so
+- - perfect
+  - sense
+  - so
+- - would
+  - make
+  - perfect
+- - an
+  - idiot
+  - anyway
 story:
   date: 2008-01-25
   id: 2008-01-25-are-you-a-bird-or-a-cow
@@ -73,4 +157,4 @@ story:
     \ a proxy for my crow Martin or for a cow I know called Degustibus, and the results\
     \ were extremely interesting."
   title: Are You A Bird Or A Cow?
-word_count: 355
+word_count: 348

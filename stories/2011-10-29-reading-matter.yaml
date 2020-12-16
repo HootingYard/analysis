@@ -11,12 +11,12 @@ ngrams:
 - - books
   - tossed
   - aside
+- - turning
+  - one's
+  - attention
 - - reading
   - matter
   - boffins
-- - twenty
-  - pages
-  - nor
 - - chronological
   - order
   - every
@@ -29,18 +29,39 @@ ngrams:
 - - alps
   - recently
   - made
-- - despair
-  - after
-  - twenty
 - - person
   - ever
   - needed
-- - after
-  - twenty
-  - pages
-- - our
-  - lord
-  - mmxi
+- - beneficial
+  - even
+  - moral
+- - order
+  - every
+  - book
+- - bobs
+  - rather
+  - than
+- - book
+  - mr
+  - key
+- - nor
+  - books
+  - where
+- - every
+  - book
+  - mr
+- - other
+  - reading
+  - matter
+- - mr
+  - key
+  - here
+- - matter
+  - can
+  - actually
+- - now
+  - after
+  - experiments
 story:
   date: 2011-10-29
   id: 2011-10-29-reading-matter
@@ -58,4 +79,4 @@ story:
     \ nor books where only bits and bobs\u2014rather than the whole damned thing\u2014\
     were read. It will be updated regularly."
   title: Reading Matter
-word_count: 175
+word_count: 174

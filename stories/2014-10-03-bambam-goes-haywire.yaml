@@ -1,25 +1,7 @@
 ngrams:
-- - well-earned
-  - nap
-  - smoking
-- - bambam
-  - goes
-  - haywire
 - - oxford
   - english
   - dictionary
-- - ten
-  - gestetnered
-  - copies
-- - gestetnered
-  - copies
-  - actually
-- - bambam
-  - went
-  - haywire
-- - bambam
-  - going
-  - haywire
 - - haywire
   - oh
   - please
@@ -35,15 +17,153 @@ ngrams:
 - - matters
   - thus
   - freeing
-- - thursday
-  - morning
-  - bambam
 - - discover
   - further
   - information
+- - source
+  - dobson's
+  - pamphlet
+- - better
+  - source
+  - dobson's
 - - everybody
   - sing
   - along
+- - oh
+  - please
+  - please
+- - dobson's
+  - pamphlet
+  - everything
+- - along
+  - blue
+  - moon
+- - sing
+  - along
+  - blue
+- - going
+  - haywire
+  - oh
+- - gasper
+  - while
+  - gazing
+- - seems
+  - rather
+  - pointless
+- - standing
+  - alone
+  - without
+- - please
+  - please
+  - mr
+- - every
+  - thursday
+  - morning
+- - please
+  - mr
+  - key
+- - sold
+  - even
+  - fewer
+- - even
+  - fewer
+  - copies
+- - fewer
+  - copies
+  - than
+- - these
+  - matters
+  - thus
+- - exasperating
+  - like
+  - hyperactive
+- - like
+  - hyperactive
+  - tots
+- - reference
+  - source
+  - than
+- - regardless
+  - such
+  - persons
+- - moon
+  - now
+  - everybody
+- - now
+  - everybody
+  - sing
+- - important
+  - tasks
+  - such
+- - blue
+  - moon
+  - now
+- - pamphlet
+  - sold
+  - even
+- - more
+  - important
+  - tasks
+- - more
+  - commonly
+  - used
+- - could
+  - discover
+  - further
+- - wail
+  - do
+  - tell
+- - scallywags
+  - who
+  - don't
+- - three
+  - scallywags
+  - who
+- - very
+  - exasperating
+  - like
+- - its
+  - first
+  - edition
+- - your
+  - research
+  - thoroughly
+- - 'no'
+  - better
+  - reference
+- - hay
+  - were
+  - affixed
+- - word
+  - haywire
+  - your
+- - tell
+  - us
+  - more
+- - 'no'
+  - room
+  - left
+- - real
+  - hay
+  - were
+- - do
+  - tell
+  - us
+- - conduct
+  - your
+  - own
+- - time
+  - than
+  - telling
+- - further
+  - information
+  - about
+- - your
+  - own
+  - research
+- - your
+  - own
+  - research
 story:
   date: 2014-10-03
   id: 2014-10-03-bambam-goes-haywire
@@ -79,4 +199,4 @@ story:
     \ moon.\nNow, everybody sing along\_: Blue moon, You saw me standing alone Without\
     \ a dream in my heart Without a love of my own\u2026"
   title: BamBam Goes Haywire
-word_count: 443
+word_count: 440

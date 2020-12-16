@@ -1,13 +1,19 @@
 ngrams:
-- - pansy
-  - cradledew
-  - took
-- - cradledew
-  - took
-  - part
 - - key
   - went
   - feral
+- - week
+  - mr
+  - key
+- - mr
+  - key
+  - went
+- - last
+  - week
+  - mr
+- - when
+  - mr
+  - key
 story:
   date: 2010-06-06
   id: 2010-06-06-when-mr-key-went-feral
@@ -15,4 +21,4 @@ story:
     broadcast performance by Phil Minton's Feral Choir on ResonanceFM. Now you can
     listen to a recording of the programme here.
   title: When Mr Key Went Feral
-word_count: 41
+word_count: 40

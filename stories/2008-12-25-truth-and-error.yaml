@@ -2,24 +2,9 @@ ngrams:
 - - cite
   - statements
   - internal
-- - seriously
-  - ophelia
-  - benson
-- - hideous
-  - bat-god
-  - fatso
-- - taken
-  - seriously
-  - ophelia
-- - t
+- - can't
   - cite
   - statements
-- - doesn
-  - t
-  - work
-- - doesn
-  - t
-  - work
 - - without
   - any
   - mixture
@@ -32,6 +17,36 @@ ngrams:
 - - truth
   - without
   - any
+- - truth
+  - without
+  - any
+- - truth
+  - without
+  - any
+- - authors
+  - could
+  - just
+- - simply
+  - childish
+  - if
+- - did
+  - work
+  - then
+- - could
+  - just
+  - say
+- - all
+  - authors
+  - could
+- - then
+  - all
+  - authors
+- - work
+  - then
+  - all
+- - benson
+  - at
+  - butterflies
 story:
   date: 2008-12-25
   id: 2008-12-25-truth-and-error
@@ -45,4 +60,4 @@ story:
     \ is inspired by the hideous bat-god Fatso, and it is truth without any mixture\
     \ of error. Put that in your pipe and smoke it, as they say."
   title: Truth And Error
-word_count: 132
+word_count: 128

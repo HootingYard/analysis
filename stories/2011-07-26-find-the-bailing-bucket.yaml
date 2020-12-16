@@ -1,10 +1,4 @@
 ngrams:
-- - halyards
-  - mainsheets
-  - jacklines
-- - taffrail
-  - warps
-  - batten
 - - skipper
   - bob
   - tallied
@@ -14,36 +8,78 @@ ngrams:
 - - mike
   - mayfield
   - update
-- - fores
-  - l
-  - mizzen
-- - mains
-  - l
-  - mizzen
-- - l
-  - mizzen
-  - stays
-- - mizzen
-  - stays
-  - l
 - - bulwer-lytton
   - fiction
   - contest
 - - fiction
   - contest
   - awards
-- - yardy
-  - sensing
-  - somehow
-- - stuff
-  - duly
-  - honoured
 - - booby
   - hatch
   - lay
 - - awful
   - stuff
   - duly
+- - small
+  - cock
+  - flemish
+- - mind
+  - doesn't
+  - belong
+- - bad
+  - writing
+  - deliberately
+- - mayfield
+  - update
+  - readers
+- - adventure
+  - category
+  - far
+- - bailing
+  - bucket
+  - long
+- - made
+  - mike
+  - mayfield
+- - being
+  - bad
+  - writing
+- - bucket
+  - long
+  - long
+- - print
+  - pamphleteer
+  - just
+- - seafaring
+  - yarn
+  - then
+- - long
+  - long
+  - ago
+- - update
+  - readers
+  - who
+- - readers
+  - who
+  - follow
+- - time
+  - should
+  - note
+- - first
+  - time
+  - should
+- - long
+  - ago
+  - when
+- - which
+  - began
+  - oh
+- - story
+  - which
+  - began
+- - pamphleteer
+  - just
+  - so
 story:
   date: 2011-07-26
   id: 2011-07-26-find-the-bailing-bucket
@@ -65,4 +101,4 @@ story:
     \ is completely unrelated to that well-loved character Dobson the out of print\
     \ pamphleteer. \_Just so you know."
   title: Find The Bailing Bucket
-word_count: 226
+word_count: 221

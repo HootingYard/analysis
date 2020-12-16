@@ -1,28 +1,13 @@
 ngrams:
-- - pigless
-  - piggery
-  - bandying
-- - pig-themed
-  - sibodnedwabshire
-  - dreaming
-- - ridiculous
-  - pigless
-  - piggery
-- - aged
-  - decrepit
-  - sibodnedwabshireites
-- - cobwebbed
-  - rumpus
-  - rooms
+- - child's
+  - nightmare
+  - wormy
 - - nightmare
   - wormy
   - nightmares
 - - hospice
   - pillows
   - embroidered
-- - clinical
-  - term
-  - ptsd
 - - wriggling
   - albino
   - worms
@@ -32,18 +17,102 @@ ngrams:
 - - elmo
   - fire
   - turning
-- - twelve
-  - piggeries
-  - 'yes'
-- - widening
-  - gyre
-  - oh
-- - gyre
-  - oh
-  - swine
 - - blue
   - forgotten
   - hills
+- - blue
+  - forgotten
+  - hills
+- - oh
+  - mercifully
+  - forgotten
+- - orphans
+  - wet
+  - behind
+- - ears
+  - oh
+  - swine
+- - tiny
+  - wriggling
+  - albino
+- - worms
+  - tiny
+  - wriggling
+- - each
+  - penning
+  - dozens
+- - hills
+  - every
+  - sunday
+- - forgotten
+  - hills
+  - every
+- - course
+  - mud
+  - aplenty
+- - song
+  - still
+  - sung
+- - those
+  - remembered
+  - pigs
+- - those
+  - blue
+  - forgotten
+- - long
+  - long
+  - ago
+- - only
+  - things
+  - living
+- - their
+  - hospice
+  - pillows
+- - prompt
+  - their
+  - dreams
+- - dotage
+  - now
+  - those
+- - mud
+  - were
+  - worms
+- - were
+  - worms
+  - tiny
+- - those
+  - who
+  - grew
+- - pretty
+  - song
+  - there
+- - all
+  - each
+  - penning
+- - come
+  - into
+  - land
+- - their
+  - dotage
+  - now
+- - piggy
+  - dreams
+  - so
+- - are
+  - forever
+  - haunted
+- - were
+  - long
+  - long
+- - an
+  - elmo
+  - fire
+- - one
+  - everybody
+  - remembers
+- - who
+  - grew
+  - up
 story:
   date: 2017-12-03
   id: 2017-12-03-memories-of-the-sibodnedwabshire-piggeries
@@ -71,4 +140,4 @@ story:
     \ turning in the widening gyre\nOh swine of Sibodnedwabshire\nIt was not a pretty\
     \ song."
   title: Memories Of The Sibodnedwabshire Piggeries
-word_count: 305
+word_count: 304

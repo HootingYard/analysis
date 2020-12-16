@@ -1,22 +1,4 @@
 ngrams:
-- - ignited
-  - populist
-  - insurrections
-- - rupert
-  - davenport-hines
-  - reviewing
-- - innocuous
-  - anti-climactic
-  - paris
-- - anti-climactic
-  - paris
-  - demonstrations
-- - louis
-  - philippe
-  - scurrying
-- - davenport-hines
-  - reviewing
-  - phantom
 - - hardly
   - murderous
   - crowd
@@ -32,18 +14,57 @@ ngrams:
 - - boulevard
   - corner
   - tried
-- - king
-  - louis
-  - philippe
 - - drum
   - got
   - jammed
 - - sent
   - king
   - louis
-- - populist
-  - insurrections
-  - across
+- - big
+  - drum
+  - after
+- - drummer
+  - rather
+  - than
+- - left
+  - over
+  - dead
+- - result
+  - some
+  - soldiers
+- - mangled
+  - corpses
+  - were
+- - corpses
+  - were
+  - piled
+- - scurrying
+  - into
+  - exile
+- - murderous
+  - crowd
+  - into
+- - were
+  - piled
+  - onto
+- - foreign
+  - affairs
+  - they
+- - were
+  - blocked
+  - because
+- - which
+  - sent
+  - king
+- - one
+  - vivid
+  - paragraph
+- - rowdy
+  - but
+  - hardly
+- - but
+  - hardly
+  - murderous
 story:
   date: 2014-10-19
   id: 2014-10-19-1848

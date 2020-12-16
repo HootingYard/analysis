@@ -1,40 +1,10 @@
 ngrams:
-- - jew
-  - indian
-  - negro
-- - dec
-  - hangover
-  - v
 - - december
   - crowley
   - rounded
-- - non-english
-  - speaking
-  - bengali
-- - religious
-  - significance
-  - freedland
-- - speaking
-  - bengali
-  - muslim
-- - named
-  - freedland
-  - recalls
-- - journalist
-  - named
-  - freedland
-- - n
-  - acted
-  - nobly
 - - express
   - journalist
   - named
-- - bed
-  - dec
-  - hangover
-- - hangover
-  - v
-  - bad
 - - dull
   - party
   - brightening
@@ -44,6 +14,102 @@ ngrams:
 - - yellow
   - races
   - according
+- - less
+  - spiritual
+  - aspects
+- - black
+  - brown
+  - red
+- - thou
+  - wilt
+  - shall
+- - white
+  - black
+  - brown
+- - caf
+  - crawl
+  - until
+- - law
+  - love
+  - under
+- - capricorn
+  - presented
+  - each
+- - delayed
+  - while
+  - crowley
+- - briefly
+  - delayed
+  - while
+- - seemed
+  - rather
+  - puzzled
+- - n
+  - also
+  - present
+- - also
+  - present
+  - together
+- - party
+  - going
+  - until
+- - very
+  - hard
+  - keeping
+- - even
+  - n
+  - acted
+- - other
+  - crowley's
+  - diary
+- - while
+  - crowley
+  - made
+- - short
+  - speech
+  - do
+- - each
+  - other
+  - crowley's
+- - muslim
+  - who
+  - seemed
+- - rounded
+  - up
+  - representatives
+- - crowley
+  - rounded
+  - up
+- - knew
+  - each
+  - other
+- - what
+  - thou
+  - wilt
+- - races
+  - took
+  - them
+- - picked
+  - up
+  - knew
+- - into
+  - capricorn
+  - presented
+- - moved
+  - into
+  - capricorn
+- - who
+  - seemed
+  - rather
+- - people
+  - picked
+  - up
+- - party
+  - brightening
+  - when
+- - sun
+  - moved
+  - into
 story:
   date: 2012-10-08
   id: 2012-10-08-aleister-crowley-and-so-to-bed
@@ -70,4 +136,4 @@ story:
     \ I presented the 5 copies and made my magical utterance. And so to bed.\n22 Dec.\
     \ 37. Hangover v. bad.\nfrom The Books Of The Beast by Timothy D'Arch Smith (1987)"
   title: "Aleister Crowley\_: And So To Bed"
-word_count: 305
+word_count: 299

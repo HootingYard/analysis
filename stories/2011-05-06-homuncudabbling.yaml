@@ -1,16 +1,25 @@
 ngrams:
-- - super
-  - soaraway
-  - dabbler
-- - couldn
-  - t
-  - cope
-- - t
+- - couldn't
   - cope
   - unless
+- - certainly
+  - couldn't
+  - cope
 - - homunculus
   - these
   - miniature
+- - yard
+  - certainly
+  - couldn't
+- - these
+  - miniature
+  - persons
+- - bit
+  - eerie
+  - hooting
+- - eerie
+  - hooting
+  - yard
 story:
   date: 2011-05-06
   id: 2011-05-06-homuncudabbling
@@ -23,4 +32,4 @@ story:
 
     '
   title: Homuncudabbling
-word_count: 57
+word_count: 56

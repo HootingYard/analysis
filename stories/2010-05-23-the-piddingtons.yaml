@@ -1,13 +1,4 @@
 ngrams:
-- - xylophonist
-  - reggie
-  - redcliffe
-- - aereliste
-  - olga
-  - varona
-- - raconteur
-  - tex
-  - mcleod
 - - whistler
   - eva
   - kane
@@ -17,30 +8,60 @@ ngrams:
 - - magician
   - ali
   - bongo
-- - novelty
-  - xylophonist
-  - reggie
 - - accordionist
   - billy
   - moore
-- - yodelling
-  - accordionist
-  - billy
 - - male
   - impersonator
   - hetty
-- - spider
-  - valantyne
-  - napier
 - - lady
   - whistler
   - eva
 - - via
   - mental
   - telepathy
-- - piddingtons
-  - via
-  - mental
+- - act
+  - hamilton
+  - conrad
+- - bunty
+  - st
+  - clair
+- - dancer
+  - bunty
+  - st
+- - pigeon
+  - act
+  - hamilton
+- - spinney
+  - variety
+  - theatre
+- - drag
+  - act
+  - ford
+- - impersonator
+  - hetty
+  - king
+- - music
+  - hall
+  - acts
+- - bird
+  - impersonator
+  - percy
+- - many
+  - others
+  - inhabitants
+- - lost
+  - world
+  - later
+- - world
+  - later
+  - today
+- - many
+  - many
+  - others
+- - so
+  - often
+  - do
 story:
   date: 2010-05-23
   id: 2010-05-23-the-piddingtons
@@ -59,4 +80,4 @@ story:
     \ will be attempting to contact The Piddingtons, via mental telepathy of course,\
     \ and I shall keep you informed of the ensuing revelations."
   title: The Piddingtons
-word_count: 174
+word_count: 173

@@ -1,34 +1,28 @@
 ngrams:
-- - breed
-  - symmetrical
-  - cats
 - - vestas
   - mungo
   - lurched
+- - breed
+  - symmetrical
+  - cats
 - - strength
   - mungo
   - tugged
-- - nudist
-  - william
-  - blake
 - - alchemist
   - pull
   - mungo
+- - nudist
+  - william
+  - blake
 - - ushering
   - william
   - blake
-- - fled
-  - wandering
-  - thro
 - - william
   - blake
   - nodded
 - - inhuman
   - strength
   - mungo
-- - maud
-  - ha
-  - ha
 - - william
   - blake
   - drank
@@ -44,6 +38,186 @@ ngrams:
 - - william
   - blake
   - ran
+- - splendid
+  - private
+  - menagerie
+- - swan
+  - vestas
+  - mungo
+- - stone
+  - slab
+  - surrounded
+- - blake
+  - wait
+  - cried
+- - hunchback
+  - somehow
+  - managed
+- - eye
+  - blake
+  - noticed
+- - sun
+  - sank
+  - below
+- - symmetrical
+  - cats
+  - big
+- - blake's
+  - eyes
+  - boggled
+- - unwritten
+  - blake's
+  - eyes
+- - mad
+  - eye
+  - blake
+- - thames
+  - does
+  - flow
+- - blake
+  - look
+  - carefully
+- - slab
+  - excellent
+  - work
+- - excellent
+  - work
+  - mungo
+- - assistant
+  - mungo
+  - should
+- - strange
+  - exotic
+  - birds
+- - yet
+  - unwritten
+  - blake's
+- - poems
+  - yet
+  - unwritten
+- - great
+  - stone
+  - slab
+- - great
+  - stone
+  - slab
+- - alchemical
+  - researches
+  - mr
+- - tiger
+  - mr
+  - blake
+- - notice
+  - something
+  - curious
+- - researches
+  - mr
+  - blake
+- - fearful
+  - mr
+  - blake
+- - ah
+  - mr
+  - blake
+- - alchemist
+  - turned
+  - again
+- - forest
+  - mr
+  - blake
+- - townhouse
+  - wait
+  - mr
+- - wait
+  - mr
+  - blake
+- - mr
+  - blake
+  - wait
+- - mungo
+  - lurched
+  - 'off'
+- - affirmation
+  - good
+  - good
+- - man
+  - ushering
+  - william
+- - right
+  - mr
+  - blake
+- - nightfall
+  - come
+  - let
+- - host
+  - come
+  - let
+- - mr
+  - blake
+  - look
+- - let
+  - us
+  - repair
+- - host
+  - let
+  - us
+- - choking
+  - weeds
+  - upon
+- - let
+  - us
+  - return
+- - better
+  - make
+  - sure
+- - street
+  - near
+  - where
+- - immortal
+  - blake
+  - could
+- - see
+  - mr
+  - blake
+- - work
+  - mungo
+  - said
+- - am
+  - immortal
+  - blake
+- - several
+  - other
+  - ingredients
+- - come
+  - let
+  - us
+- - come
+  - let
+  - us
+- - lemonade
+  - has
+  - conferred
+- - let
+  - us
+  - go
+- - alchemist
+  - now
+  - go
+- - william
+  - blake
+  - who
+- - garden
+  - back
+  - through
+- - good
+  - good
+  - said
+- - look
+  - carefully
+  - do
+- - lemonade
+  - then
+  - come
 story:
   date: 2011-10-05
   id: 2011-10-05-the-tyger
@@ -93,4 +267,4 @@ story:
     \ my madcap schemes!\u201D\nBut William Blake had fled, wandering thro\u2019 each\
     \ charter'd street, near where the charter'd Thames does flow."
   title: The Tyger
-word_count: 593
+word_count: 590

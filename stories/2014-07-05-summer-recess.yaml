@@ -1,13 +1,7 @@
 ngrams:
-- - tich
-  - wynken
-  - blynken
 - - dee
   - dozy
   - beaky
-- - mick
-  - tich
-  - wynken
 - - beaky
   - mick
   - tich
@@ -17,15 +11,33 @@ ngrams:
 - - dave
   - dee
   - dozy
-- - wynken
-  - blynken
-  - nod
-- - quasi-official
-  - summer
-  - recess
 - - occasional
   - brief
   - spot
+- - norm
+  - sherman
+  - reading
+- - don't
+  - love
+  - frank
+- - great
+  - norm
+  - sherman
+- - love
+  - frank
+  - key
+- - hooting
+  - yard
+  - silence
+- - eerie
+  - hooting
+  - yard
+- - about
+  - dave
+  - dee
+- - norm
+  - says
+  - if
 story:
   date: 2014-07-05
   id: 2014-07-05-summer-recess
@@ -38,4 +50,4 @@ story:
     \ the great Norm Sherman reading A Weekend With An Owl God on the latest Drabblecast.\
     \ As Norm says, if you don't love Frank Key, you don't know what love is \u2026"
   title: Summer Recess
-word_count: 111
+word_count: 109

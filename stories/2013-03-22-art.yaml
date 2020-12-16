@@ -8,6 +8,12 @@ ngrams:
 - - contemporary
   - art
   - continue
+- - art
+  - continue
+  - tomorrow
+- - o
+  - contemporary
+  - art
 story:
   date: 2013-03-22
   id: 2013-03-22-art
@@ -15,4 +21,4 @@ story:
     \ at this event, nine miles west of Cambridge. Do pop along to cheer frenziedly,\
     \ should you have the wherewithal.\n"
   title: Art
-word_count: 32
+word_count: 31

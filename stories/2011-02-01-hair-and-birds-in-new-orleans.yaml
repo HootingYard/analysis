@@ -1,16 +1,22 @@
 ngrams:
-- - headache
-  - lafcadio
-  - hearn
 - - orleans
   - superstitions
-  - harper
-- - continual
-  - headache
-  - lafcadio
-- - lafcadio
-  - hearn
+  - harper's
+- - superstitions
+  - harper's
+  - weekly
+- - harper's
+  - weekly
+  - december
+- - hearn
   - new
+  - orleans
+- - new
+  - orleans
+  - superstitions
+- - birds
+  - may
+  - weave
 story:
   date: 2011-02-01
   id: 2011-02-01-hair-and-birds-in-new-orleans
@@ -19,4 +25,4 @@ story:
     \ person to whom the hair belonged will have a continual headache.\u201D\nLafcadio\
     \ Hearn, \u201CNew Orleans Superstitions\u201D Harper's Weekly, 25 December 1886"
   title: Hair And Birds In New Orleans
-word_count: 51
+word_count: 50

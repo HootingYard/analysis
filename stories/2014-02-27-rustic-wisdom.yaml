@@ -1,4 +1,7 @@
 ngrams:
+- - morning's
+  - rustic
+  - wisdom
 - - farming
   - today
   - bbc
@@ -8,6 +11,9 @@ ngrams:
 - - today
   - bbc
   - radio
+- - inherited
+  - our
+  - genes
 story:
   date: 2014-02-27
   id: 2014-02-27-rustic-wisdom
@@ -16,4 +22,4 @@ story:
 
     This morning''s rustic wisdom from Farming Today, BBC Radio Four'
   title: Rustic Wisdom
-word_count: 37
+word_count: 35

@@ -1,7 +1,4 @@
 ngrams:
-- - tiny
-  - children
-  - krampus
 - - streets
   - terrifying
   - tiny
@@ -11,6 +8,12 @@ ngrams:
 - - big
   - black
   - sack
+- - means
+  - it's
+  - time
+- - your
+  - rusty
+  - chain
 story:
   date: 2008-12-05
   id: 2008-12-05-krampus
@@ -19,4 +22,4 @@ story:
     \ fur and big black sack and roam the streets terrifying tiny children. Krampus\
     \ has work to do!\n\n\_"
   title: Krampus
-word_count: 49
+word_count: 47

@@ -2,6 +2,12 @@ ngrams:
 - - government
   - chicken
   - directive
+- - chickens
+  - it's
+  - indoor
+- - it's
+  - indoor
+  - poultry
 - - indoor
   - poultry
   - week
@@ -17,6 +23,9 @@ ngrams:
 - - pat
   - its
   - little
+- - its
+  - little
+  - beak
 story:
   date: 2016-12-07
   id: 2016-12-07-government-chicken-directive
@@ -27,4 +36,4 @@ story:
     \ be on the lookout for dead or debilitated swans, and report any sightings to\
     \ the police."
   title: Government Chicken Directive
-word_count: 78
+word_count: 77

@@ -1,22 +1,31 @@
 ngrams:
-- - tempora
-  - mutantur
-  - nos
-- - mutantur
-  - nos
-  - et
-- - nos
-  - et
-  - mutamur
+- - doctor's
+  - execution
+  - ie
+- - palmer's
+  - sporting
+  - activities
 - - famous
   - palmer
   - poisoning
 - - entire
   - trial
   - record
-- - richard
-  - d
-  - altick
+- - palmer
+  - poisoning
+  - case
+- - trial
+  - record
+  - along
+- - unimaginable
+  - now
+  - probably
+- - way
+  - things
+  - used
+- - london
+  - some
+  - four
 story:
   date: 2009-12-15
   id: 2009-12-15-the-way-we-were
@@ -27,4 +36,4 @@ story:
     \ with an account of Palmer's sporting activities, into classical Greek.\u201D\
     \nFrom Victorian Studies In Scarlet by Richard D Altick (1970)"
   title: The Way We Were
-word_count: 75
+word_count: 73

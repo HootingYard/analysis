@@ -2,18 +2,24 @@ ngrams:
 - - earlier
   - list
   - stretching
-- - ve
+- - i've
   - read
   - since
 - - list
   - stretching
   - back
-- - first
-  - six
-  - books
+- - every
+  - book
+  - i've
+- - book
+  - i've
+  - read
 - - where
   - possible
   - showing
+- - first
+  - six
+  - books
 - - books
   - where
   - possible
@@ -23,6 +29,15 @@ ngrams:
 - - many
   - books
   - where
+- - these
+  - many
+  - many
+- - will
+  - appear
+  - tomorrow
+- - always
+  - possible
+  - when
 story:
   date: 2018-10-02
   id: 2018-10-02-books-read-in-1982-i-vi
@@ -35,4 +50,4 @@ story:
     \ the first six books I read in 1982. The next half-dozen will appear tomorrow.\n\
     \n\n\n\n\n"
   title: "Books Read In 1982 (i\u2014vi)"
-word_count: 107
+word_count: 106

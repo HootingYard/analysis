@@ -2,18 +2,24 @@ ngrams:
 - - formula
   - edmund
   - gosse
-- - thomas
-  - browne
-  - macmillan
 - - edmund
   - gosse
   - english
-- - sir
-  - thomas
-  - browne
 - - gosse
   - english
   - men
+- - letters
+  - sir
+  - thomas
+- - more
+  - impressive
+  - event
+- - nine
+  - more
+  - years
+- - event
+  - if
+  - backhouse
 story:
   date: 2014-04-13
   id: 2014-04-13-syllable-by-syllable
@@ -23,4 +29,4 @@ story:
     \ years, and if Ashmole had not meanwhile forgotten the formula.\nEdmund Gosse,\
     \ English Men Of Letters\_:\_Sir Thomas Browne (Macmillan 1905)"
   title: Syllable By Syllable
-word_count: 63
+word_count: 62

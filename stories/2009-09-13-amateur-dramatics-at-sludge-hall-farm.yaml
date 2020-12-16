@@ -1,28 +1,19 @@
 ngrams:
-- - sadie
-  - single-pawedly
-  - fought
-- - thespian
-  - vlasto
-  - harbinge
-- - accomplished
-  - thespian
-  - vlasto
 - - rabid
   - wolves
   - egged
 - - homespun
   - phraseology
   - designed
-- - spoke
-  - mawkishly
-  - tearfully
-- - farm
-  - yokels
-  - gawping
 - - amateur
   - dramatic
   - extravaganza
+- - secretary's
+  - trusty
+  - guide
+- - farm
+  - yokels
+  - gawping
 - - spinney
   - travelling
   - players
@@ -32,9 +23,6 @@ ngrams:
 - - gruesome
   - battle
   - scenes
-- - spectral
-  - wolfmen
-  - armed
 - - peasants
   - copious
   - sobbing
@@ -44,6 +32,87 @@ ngrams:
 - - bouquet
   - sludge
   - hall
+- - theatrical
+  - persons
+  - famed
+- - hall
+  - farm
+  - farmhands
+- - hall
+  - farm
+  - yokels
+- - hall
+  - farm
+  - hosted
+- - sludge
+  - hall
+  - farm
+- - sludge
+  - hall
+  - farm
+- - sludge
+  - hall
+  - farm
+- - sludge
+  - hall
+  - farm
+- - sludge
+  - hall
+  - farm
+- - rating
+  - planetoids
+  - note
+- - particularly
+  - splendid
+  - segment
+- - copious
+  - sobbing
+  - almost
+- - guide
+  - dog
+  - ruby
+- - trusty
+  - guide
+  - dog
+- - sobbing
+  - almost
+  - drowned
+- - home
+  - secretary's
+  - trusty
+- - week
+  - sludge
+  - hall
+- - yard
+  - rating
+  - planetoids
+- - most
+  - accomplished
+  - thespian
+- - hall
+  - farm
+  - last
+- - last
+  - week
+  - sludge
+- - first
+  - blunkett
+  - resignation
+- - farm
+  - last
+  - week
+- - hall
+  - farm
+  - being
+- - secretary
+  - our
+  - hero
+- - hooting
+  - yard
+  - rating
+- - our
+  - hero
+  - went
 story:
   date: 2009-09-13
   id: 2009-09-13-amateur-dramatics-at-sludge-hall-farm
@@ -73,4 +142,4 @@ story:
     \ is now on bailiwickwide tour. Hooting Yard Rating\_: 15 planetoids.\nNOTE\_\
     : No cows were harmed during the making of this amateur dramatic extravaganza"
   title: Amateur Dramatics At Sludge Hall Farm
-word_count: 316
+word_count: 311

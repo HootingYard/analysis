@@ -1,22 +1,7 @@
 ngrams:
-- - ivesian
-  - pillow-talk
-  - progpunk
-- - pillow-talk
-  - progpunk
-  - doo-wop
-- - progpunk
-  - doo-wop
-  - fatima
-- - doo-wop
-  - fatima
-  - gilliblat
 - - seaweed
   - fatima
   - ok
-- - fatima
-  - gilliblat
-  - talked
 - - sibelius
   - symphonies
   - recorded
@@ -26,12 +11,12 @@ ngrams:
 - - beat
   - combo
   - brute
-- - apparently
-  - fatima
-  - survived
 - - puff
   - pastry
   - fatima
+- - apparently
+  - fatima
+  - survived
 - - combo
   - brute
   - beauty
@@ -44,6 +29,117 @@ ngrams:
 - - update
   - apparently
   - fatima
+- - hungry
+  - band
+  - hollow
+- - band
+  - hollow
+  - laughter
+- - mythical
+  - giant
+  - crows
+- - gulls
+  - seem
+  - tense
+- - anyway
+  - let's
+  - talk
+- - choc
+  - ice
+  - ms
+- - top
+  - beat
+  - combo
+- - seaside
+  - pier
+  - fatima
+- - resort
+  - cocktail
+  - sausages
+- - crumbling
+  - seaside
+  - pier
+- - album
+  - band
+  - wait
+- - pier
+  - fatima
+  - it's
+- - pastry
+  - fatima
+  - 'yes'
+- - band
+  - split
+  - due
+- - death
+  - throes
+  - update
+- - seaside
+  - resort
+  - cocktail
+- - windy
+  - band
+  - 'yes'
+- - art
+  - band
+  - that's
+- - experimental
+  - sound
+  - art
+- - spirit
+  - unfortunately
+  - soon
+- - air
+  - pride
+  - plume
+- - always
+  - hungry
+  - fatima
+- - rapacious
+  - scavenging
+  - birds
+- - sound
+  - art
+  - band
+- - next
+  - album
+  - fatima
+- - scavenging
+  - birds
+  - band
+- - curious
+  - perhaps
+  - they're
+- - oh
+  - air
+  - pride
+- - hungry
+  - fatima
+  - well
+- - fatima
+  - well
+  - anyway
+- - act
+  - oh
+  - air
+- - yet
+  - hear
+  - fatima
+- - these
+  - rapacious
+  - scavenging
+- - well
+  - anyway
+  - let's
+- - new
+  - album
+  - band
+- - album
+  - fatima
+  - how
+- - new
+  - release
+  - it's
 story:
   date: 2009-09-05
   id: 2009-09-05-interview-on-a-pier
@@ -77,4 +173,4 @@ story:
     \ Fatima survived. She is in fact a descendant of mythical giant crows, and tore\
     \ the gull-god to pieces with the power of her corvine brain."
   title: Interview On A Pier
-word_count: 389
+word_count: 382

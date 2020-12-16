@@ -2,9 +2,6 @@ ngrams:
 - - queen
   - anne
   - custard
-- - noble
-  - cooling
-  - food
 - - yellow
   - surface
   - shines
@@ -20,6 +17,21 @@ ngrams:
 - - old
   - whose
   - yellow
+- - shines
+  - like
+  - gold
+- - surface
+  - shines
+  - like
+- - some
+  - terrific
+  - lines
+- - including
+  - some
+  - terrific
+- - poem
+  - including
+  - some
 story:
   date: 2009-03-10
   id: 2009-03-10-why-custard-matters
@@ -32,4 +44,4 @@ story:
     \ yellow surface shines like Gold.\u201D\nYou can find a longer extract from the\
     \ poem, including some terrific lines about pudding, at BabelStone."
   title: Why Custard Matters
-word_count: 94
+word_count: 92

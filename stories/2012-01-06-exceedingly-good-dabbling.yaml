@@ -1,19 +1,28 @@
 ngrams:
-- - loveable
-  - liverpudlian
-  - moptops
 - - four
   - brief
   - paragraphs
 - - exceedingly
   - good
   - dabbling
-- - liverpudlian
-  - moptops
-  - get
+- - exciting
+  - it's
+  - enough
 - - ant
   - keel
   - over
+- - hallowed
+  - realm
+  - where
+- - realm
+  - where
+  - poetry
+- - just
+  - four
+  - brief
+- - brief
+  - paragraphs
+  - even
 story:
   date: 2012-01-06
   id: 2012-01-06-exceedingly-good-dabbling
@@ -25,4 +34,4 @@ story:
     Liverpudlian moptops get a mention. It''s all so exciting it''s enough to make
     an ant keel over and die.'
   title: Exceedingly Good Dabbling
-word_count: 67
+word_count: 64

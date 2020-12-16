@@ -2,9 +2,6 @@ ngrams:
 - - cardew
   - complaining
   - bitterly
-- - childcare
-  - responsibilities
-  - leaving
 - - wife
   - stella
   - struggles
@@ -14,33 +11,60 @@ ngrams:
 - - japanese
   - artist
   - called
-- - artist
-  - called
-  - yoko
 - - called
   - yoko
   - ono
+- - artist
+  - called
+  - yoko
 - - efforts
   - fail
   - until
-- - fail
-  - until
-  - eventually
 - - until
   - eventually
   - cardew
+- - fail
+  - until
+  - eventually
 - - buffalo
   - new
   - york
-- - pneumonia-wracked
-  - child
-  - while
 - - these
   - charming
   - guests
-- - 'off'
-  - warwick
-  - road
+- - new
+  - york
+  - while
+- - her
+  - financial
+  - problems
+- - her
+  - efforts
+  - fail
+- - responsibilities
+  - leaving
+  - her
+- - road
+  - she
+  - writes
+- - york
+  - while
+  - back
+- - letter
+  - ordering
+  - them
+- - virtually
+  - 'no'
+  - money
+- - more
+  - likely
+  - because
+- - what
+  - stella
+  - describes
+- - complaining
+  - bitterly
+  - about
 story:
   date: 2011-06-29
   id: 2011-06-29-cornelius-cardews-houseguests
@@ -59,4 +83,4 @@ story:
     \ The man is Tony Cox, and the woman is his then wife, a Japanese artist called\
     \ Yoko Ono."
   title: Cornelius Cardew's Houseguests
-word_count: 179
+word_count: 177

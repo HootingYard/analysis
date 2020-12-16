@@ -1,7 +1,4 @@
 ngrams:
-- - big
-  - garden
-  - birdwatch
 - - archives
   - giving
   - readers
@@ -11,6 +8,15 @@ ngrams:
 - - hooting
   - yard
   - archives
+- - repost
+  - these
+  - two
+- - these
+  - two
+  - diagrams
+- - giving
+  - readers
+  - some
 story:
   date: 2009-01-24
   id: 2009-01-24-birdwatch
@@ -22,4 +28,4 @@ story:
 
     '
   title: Birdwatch
-word_count: 54
+word_count: 53

@@ -1,10 +1,10 @@
 ngrams:
-- - swiss
-  - mercenaries
-  - suffering
-- - milking
-  - song
-  - khue-reyen
+- - eat
+  - couldn't
+  - summon
+- - wouldn't
+  - eat
+  - couldn't
 - - apparent
   - physical
   - cause
@@ -26,6 +26,21 @@ ngrams:
 - - fainting
   - fits
   - high
+- - treating
+  - young
+  - swiss
+- - death
+  - mary
+  - wakefield
+- - young
+  - men
+  - hofer
+- - sometimes
+  - became
+  - dangerously
+- - indigestion
+  - after
+  - talking
 story:
   date: 2018-05-12
   id: 2018-05-12-khue-reyen
@@ -40,4 +55,4 @@ story:
     \ milking song, \u2018Khue-Reyen\u2019, that its playing was punishable by death.\u201D\
     \nMary Wakefield in The Speccie"
   title: Khue-Reyen
-word_count: 118
+word_count: 116

@@ -1,31 +1,10 @@
 ngrams:
-- - trusses
-  - antidotes
-  - elixirs
-- - antidotes
-  - elixirs
-  - love-powders
-- - freckles
-  - plumpers
-  - glass-eyes
-- - rates
-  - trusses
-  - antidotes
-- - elixirs
-  - love-powders
-  - washes
 - - reasonable
   - rates
   - trusses
 - - sylvester
   - patridge
   - student
-- - plumpers
-  - glass-eyes
-  - 'false'
-- - glass-eyes
-  - 'false'
-  - calves
 - - cut
   - corns
   - pairing
@@ -44,6 +23,69 @@ ngrams:
 - - kill
   - swine
   - how
+- - delusional
+  - glass
+  - man
+- - our
+  - astrological
+  - strictures
+- - conclude
+  - our
+  - astrological
+- - hair
+  - how
+  - moles
+- - cut
+  - hair
+  - how
+- - many
+  - hours
+  - boiling
+- - whom
+  - likewise
+  - may
+- - other
+  - quarters
+  - advertisement
+- - contains
+  - our
+  - readers
+- - other
+  - notable
+  - questions
+- - shall
+  - conclude
+  - our
+- - swine
+  - how
+  - many
+- - our
+  - readers
+  - must
+- - how
+  - many
+  - hours
+- - without
+  - its
+  - use
+- - bleed
+  - under
+  - what
+- - under
+  - what
+  - aspect
+- - red
+  - hair
+  - into
+- - me
+  - sylvester
+  - patridge
+- - hair
+  - into
+  - black
+- - interpreted
+  - when
+  - most
 story:
   date: 2009-02-20
   id: 2009-02-20-boiling-my-lady-kents-pudding
@@ -66,4 +108,4 @@ story:
     \ love-powders. Washes for freckles, plumpers, glass-eyes, false calves and noses,\
     \ ivory-jaws, and a new receipt to turn red hair into black.\u201D"
   title: Boiling My Lady Kent's Pudding
-word_count: 237
+word_count: 234

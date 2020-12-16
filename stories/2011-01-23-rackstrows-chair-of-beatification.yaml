@@ -1,25 +1,37 @@
 ngrams:
-- - beatification
-  - benjamin
-  - rackstrow
 - - marina
   - warner
   - phantasmagoria
 - - warner
   - phantasmagoria
   - spirit
-- - phantasmagoria
-  - spirit
-  - visions
 - - georgian
   - london
   - staged
+- - phantasmagoria
+  - spirit
+  - visions
 - - spirit
   - visions
   - metaphors
-- - colour
-  - marina
-  - warner
+- - chair
+  - immediately
+  - becomes
+- - immediately
+  - becomes
+  - filled
+- - glass
+  - crown
+  - being
+- - crown
+  - being
+  - placed
+- - person
+  - who
+  - sits
+- - one
+  - continued
+  - stream
 story:
   date: 2011-01-23
   id: 2011-01-23-rackstrows-chair-of-beatification
@@ -32,4 +44,4 @@ story:
     \ of a beautiful Purple Colour\u2019.\u201D\nMarina Warner, Phantasmagoria\_:\
     \ Spirit Visions, Metaphors, And Media Into The Twenty-First Century (2006)"
   title: Rackstrow's Chair Of Beatification
-word_count: 95
+word_count: 94

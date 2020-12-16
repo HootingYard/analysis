@@ -1,34 +1,46 @@
 ngrams:
-- - recently
-  - michel
-  - houllebecq
 - - sake
   - stop
   - wittering
-- - authors
-  - making
-  - appearances
+- - god's
+  - sake
+  - stop
 - - guardian
   - review
   - yesterday
+- - authors
+  - making
+  - appearances
 - - pulsating
   - brain
   - throbbing
 - - noble
   - pulsating
   - brain
-- - bleak
-  - self-awareness
-  - though
-- - said
-  - pansy
-  - cradledew
 - - idea
   - said
   - frank
+- - said
+  - frank
+  - key
 - - terrible
   - idea
   - said
+- - own
+  - work
+  - how
+- - yesterday
+  - about
+  - authors
+- - review
+  - yesterday
+  - about
+- - about
+  - authors
+  - making
+- - usually
+  - done
+  - out
 story:
   date: 2010-08-15
   id: 2010-08-15-gritty-realism
@@ -42,4 +54,4 @@ story:
     For god's sake stop wittering and put a sock in it,\u201D said Pansy Cradledew.\n\
     It was a summer's day in the twenty-first century, on another planet."
   title: Gritty Realism
-word_count: 120
+word_count: 118

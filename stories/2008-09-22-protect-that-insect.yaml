@@ -1,22 +1,31 @@
 ngrams:
-- - included
-  - yeah-yeah-yeah
-  - howls
-- - beatles
-  - included
-  - yeah-yeah-yeah
+- - bespectacled
+  - husband's
+  - devotion
+- - world's
+  - major
+  - newspapers
 - - israeli
   - newspaper
   - reported
 - - sure
   - yoko
   - takes
-- - our
-  - creepy-crawly
-  - friends
+- - today's
+  - guardian
+  - back
 - - very
   - dim
   - view
+- - her
+  - bespectacled
+  - husband's
+- - am
+  - sure
+  - yoko
+- - an
+  - israeli
+  - newspaper
 story:
   date: 2008-09-22
   id: 2008-09-22-protect-that-insect
@@ -27,4 +36,4 @@ story:
     \ she will surely be taking out in the world's major newspapers to express her,\
     \ and her bespectacled husband's, devotion to our creepy-crawly friends."
   title: Protect That Insect!
-word_count: 79
+word_count: 76

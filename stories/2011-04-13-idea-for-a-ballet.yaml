@@ -1,13 +1,7 @@
 ngrams:
-- - behaviourist
-  - daniela
-  - fiutak
 - - pesky
   - inverted
   - commas
-- - animal
-  - behaviourist
-  - daniela
 - - headline
   - swan
   - falls
@@ -17,6 +11,24 @@ ngrams:
 - - machines
   - during
   - puberty
+- - sexual
+  - partner
+  - through
+- - those
+  - pesky
+  - inverted
+- - omitted
+  - those
+  - pesky
+- - communicate
+  - her
+  - insight
+- - could
+  - communicate
+  - her
+- - who
+  - could
+  - communicate
 story:
   date: 2011-04-13
   id: 2011-04-13-idea-for-a-ballet

@@ -8,6 +8,12 @@ ngrams:
 - - inner
   - child
   - has
+- - their
+  - inner
+  - adult
+- - child
+  - has
+  - taken
 story:
   date: 2012-08-07
   id: 2012-08-07-r-i-p

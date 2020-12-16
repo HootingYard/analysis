@@ -1,19 +1,28 @@
 ngrams:
-- - hoaxers
-  - showmen
-  - dueling
-- - showmen
-  - dueling
-  - journalists
 - - remarkable
   - 'true'
   - account
-- - nineteenth-century
-  - new
-  - york
-- - haven
-  - t
-  - read
+- - reviewed
+  - here
+  - if
+- - by
+  - matthew
+  - goodman
+- - york
+  - by
+  - matthew
+- - copy
+  - by
+  - visiting
+- - signed
+  - copy
+  - by
+- - you
+  - act
+  - quickly
+- - act
+  - quickly
+  - you
 story:
   date: 2008-11-22
   id: 2008-11-22-vespertilio-homo
@@ -23,4 +32,4 @@ story:
     \ is reviewed here. If you act quickly you have a chance to win a signed copy\
     \ by visiting the excellent Wonders And Marvels blog.\n"
   title: Vespertilio-Homo
-word_count: 65
+word_count: 64

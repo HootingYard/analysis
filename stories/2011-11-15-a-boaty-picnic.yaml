@@ -1,16 +1,4 @@
 ngrams:
-- - compacted
-  - hundreds-and-thousands
-  - stiffened
-- - gamey
-  - rank
-  - gravies
-- - ravenous
-  - scavenging
-  - befinned
-- - quayside
-  - boats-for-hire
-  - scamps
 - - clotted
   - pollock
   - dabs
@@ -20,9 +8,6 @@ ngrams:
 - - dabs
   - suitably
   - fishy
-- - er-do-well
-  - quayside
-  - boats-for-hire
 - - wales
   - marzipan
   - cane
@@ -32,9 +17,6 @@ ngrams:
 - - event
   - potentially
   - nauseating
-- - ne
-  - er-do-well
-  - quayside
 - - marzipan
   - cane
   - toads
@@ -44,6 +26,129 @@ ngrams:
 - - roly
   - poly
   - pudding
+- - boiled
+  - sweets
+  - swimming
+- - slippery
+  - foods
+  - ought
+- - chief
+  - preoccupation
+  - today
+- - taking
+  - hard
+  - chewy
+- - devil's
+  - water
+  - biscuits
+- - rank
+  - gravies
+  - should
+- - nauseating
+  - something
+  - plainer
+- - potentially
+  - nauseating
+  - something
+- - great
+  - snapping
+  - jaws
+- - biscuits
+  - better
+  - known
+- - water
+  - biscuits
+  - better
+- - foods
+  - ought
+  - also
+- - rich
+  - too
+  - creamy
+- - new
+  - south
+  - wales
+- - many
+  - ravenous
+  - scavenging
+- - still
+  - want
+  - bibs
+- - hamper
+  - before
+  - boarding
+- - cream
+  - crackers
+  - just
+- - our
+  - chief
+  - preoccupation
+- - probably
+  - still
+  - want
+- - any
+  - maritime
+  - feast
+- - even
+  - stale
+  - items
+- - waters
+  - often
+  - just
+- - play
+  - such
+  - tricks
+- - plainer
+  - like
+  - boiled
+- - like
+  - boiled
+  - sweets
+- - too
+  - rich
+  - too
+- - often
+  - just
+  - below
+- - better
+  - known
+  - these
+- - boat
+  - think
+  - rather
+- - real
+  - treats
+  - like
+- - known
+  - these
+  - days
+- - proves
+  - unpalatable
+  - can
+- - crackers
+  - just
+  - make
+- - something
+  - plainer
+  - like
+- - some
+  - real
+  - treats
+- - high
+  - seas
+  - some
+- - pack
+  - some
+  - real
+- - just
+  - make
+  - sure
+- - treats
+  - like
+  - new
+- - like
+  - new
+  - south
 story:
   date: 2011-11-15
   id: 2011-11-15-a-boaty-picnic
@@ -82,4 +187,4 @@ story:
     quayside boats-for-hire scamps have been known to play such tricks on landlubbers.
     Be warned.'
   title: A Boaty Picnic
-word_count: 405
+word_count: 403

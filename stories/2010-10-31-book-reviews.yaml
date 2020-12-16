@@ -2,15 +2,15 @@ ngrams:
 - - chores
   - predictably
   - loosed
-- - predictably
-  - loosed
-  - bierce
 - - measured
   - tread
   - paced
 - - modestly
   - disengaging
   - herself
+- - richard
+  - o'connor's
+  - biography
 - - gathering
   - gloom
   - alas
@@ -20,9 +20,6 @@ ngrams:
 - - disengaging
   - herself
   - looked
-- - richard
-  - o
-  - connor
 - - hopelessly
   - bad
   - writing
@@ -44,6 +41,30 @@ ngrams:
 - - most
   - savage
   - energies
+- - far
+  - apart
+  - occasionally
+- - eagle
+  - swooping
+  - down
+- - book
+  - reviews
+  - another
+- - too
+  - far
+  - apart
+- - two
+  - books
+  - under
+- - she
+  - remained
+  - inactive
+- - divined
+  - her
+  - purpose
+- - then
+  - modestly
+  - disengaging
 story:
   date: 2010-10-31
   id: 2010-10-31-book-reviews
@@ -63,4 +84,4 @@ story:
     \ into the gathering gloom\u2019.\u201D\nAlas, we are not told the titles of the\
     \ two books under review."
   title: Book Reviews
-word_count: 181
+word_count: 177

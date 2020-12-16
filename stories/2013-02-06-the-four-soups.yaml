@@ -2,21 +2,15 @@ ngrams:
 - - hatred
   - salim
   - fadhley
-- - thirty-seventh
-  - potus
-  - describes
 - - salim
   - fadhley
   - asks
-- - anagrammatically
-  - channelling
-  - nixon
-- - nixonian
-  - soup
-  - hatred
 - - soup
   - hatred
   - salim
+- - president's
+  - state
+  - visit
 - - easily
   - answered
   - either
@@ -29,9 +23,6 @@ ngrams:
 - - four
   - soup
   - crises
-- - nixonian
-  - prose
-  - does
 - - perhaps
   - soup
   - crises
@@ -44,6 +35,60 @@ ngrams:
 - - shall
   - also
   - overlook
+- - fin
+  - soup
+  - did
+- - only
+  - four
+  - soup
+- - soup
+  - crises
+  - then
+- - yesterday's
+  - postage
+  - about
+- - mr
+  - key
+  - could
+- - intriguing
+  - question
+  - if
+- - will
+  - soon
+  - learn
+- - six
+  - crises
+  - we
+- - we
+  - shall
+  - overlook
+- - crises
+  - we
+  - shall
+- - were
+  - only
+  - four
+- - we
+  - shall
+  - also
+- - an
+  - alternative
+  - title
+- - soups
+  - happily
+  - this
+- - this
+  - important
+  - question
+- - its
+  - contents
+  - which
+- - contents
+  - which
+  - can
+- - fin
+  - soup
+  - at
 story:
   date: 2013-02-06
   id: 2013-02-06-the-four-soups
@@ -65,4 +110,4 @@ story:
     \ pamphlet by Mr Key. Could it be that I was anagrammatically channelling Nixon\
     \ in 1989? I must consult a brain quack to delve into this important question."
   title: The Four Soups
-word_count: 245
+word_count: 240

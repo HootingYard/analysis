@@ -1,49 +1,76 @@
 ngrams:
-- - e-ratio
-  - postmodern
-  - poetry
 - - christopher
   - smart
   - amid
 - - brooklyn
   - poet
   - gregory
-- - yours
-  - sincerely
-  - gregory
-- - postmodern
-  - poetry
-  - blog
 - - poet
   - gregory
   - vincent
-- - st
-  - thomasino
-  - responding
-- - vincent
-  - st
-  - thomasino
+- - postmodern
+  - poetry
+  - blog
+- - yours
+  - sincerely
+  - gregory
 - - gregory
   - vincent
   - st
 - - episode
   - yours
   - sincerely
-- - jubilate
-  - agno
-  - dear
 - - agno
   - dear
   - frank
 - - dear
   - frank
   - once
-- - mr
-  - st
-  - thomasino
-- - monotonous
+- - smart
+  - amid
+  - much
+- - easier
   - never
-  - wearisome
+  - monotonous
+- - listening
+  - easier
+  - never
+- - amid
+  - much
+  - else
+- - very
+  - nice
+  - letter
+- - frank
+  - once
+  - again
+- - poetry
+  - blog
+  - where
+- - never
+  - monotonous
+  - never
+- - complement
+  - each
+  - other
+- - each
+  - other
+  - smart
+- - letter
+  - has
+  - also
+- - also
+  - been
+  - posted
+- - so
+  - deeply
+  - moved
+- - sense
+  - so
+  - deeply
+- - an
+  - episode
+  - yours
 story:
   date: 2008-01-09
   id: 2008-01-09-it-has-been-an-episode
@@ -62,4 +89,4 @@ story:
     \ e-ratio postmodern poetry blog, where you will find a link to his own Elegy\
     \ For Christopher Smart amid much else."
   title: It Has Been An Episode
-word_count: 193
+word_count: 192

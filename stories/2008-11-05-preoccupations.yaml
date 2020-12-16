@@ -14,27 +14,24 @@ ngrams:
 - - peter
   - maxwell
   - davies
-- - hindenburg
-  - disaster
-  - yoko
 - - yoko
   - ono
   - googie
 - - assassination
   - peter
   - maxwell
-- - profound
-  - psychological
-  - reasons
-- - kennedy
-  - assassination
-  - peter
+- - hindenburg
+  - disaster
+  - yoko
 - - disaster
   - yoko
   - ono
-- - accidentally-electrocuted
-  - whooper
-  - swan
+- - kennedy
+  - assassination
+  - peter
+- - profound
+  - psychological
+  - reasons
 - - googie
   - withers
   - david
@@ -44,6 +41,54 @@ ngrams:
 - - writes
   - p
   - funnel
+- - busby
+  - babes
+  - today
+- - means
+  - complete
+  - list
+- - munich
+  - air
+  - disaster
+- - key
+  - writes
+  - p
+- - two
+  - aerial
+  - disasters
+- - includes
+  - two
+  - aerial
+- - selection
+  - includes
+  - two
+- - following
+  - dear
+  - mr
+- - just
+  - repeating
+  - yourself
+- - mr
+  - key
+  - writes
+- - dear
+  - mr
+  - key
+- - might
+  - predict
+  - whether
+- - might
+  - become
+  - embedded
+- - give
+  - any
+  - clues
+- - hooting
+  - yard
+  - archives
+- - some
+  - profound
+  - psychological
 story:
   date: 2008-11-05
   id: 2008-11-05-preoccupations

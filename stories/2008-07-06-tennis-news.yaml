@@ -8,6 +8,12 @@ ngrams:
 - - said
   - tim
   - henman
+- - tim
+  - henman
+  - like
+- - just
+  - said
+  - tim
 story:
   date: 2008-07-06
   id: 2008-07-06-tennis-news
@@ -15,4 +21,4 @@ story:
     \ ago, he just said: \u201CTim Henman\u2014like a molecule in a box!\u201D My\
     \ thoughts exactly."
   title: Tennis News
-word_count: 32
+word_count: 31

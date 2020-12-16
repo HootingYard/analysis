@@ -2,12 +2,12 @@ ngrams:
 - - badger
   - dentist
   - spotted
-- - at
-  - elsie
-  - schrotthaufen
-- - spotted
+- - dentist
+  - spotted
   - at
-  - elsie
+- - book
+  - of
+  - wonders
 story:
   date: 2011-06-01
   id: 2011-06-01-badger-dentist
@@ -15,4 +15,4 @@ story:
 
     Spotted at Elsie Schrotthaufen''s Book Of Wonders'
   title: Badger Dentist
-word_count: 10
+word_count: 9

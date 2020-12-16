@@ -2,12 +2,6 @@ ngrams:
 - - unchecked
   - alpine
   - rivers
-- - fevered
-  - idiotism
-  - john
-- - idiotism
-  - john
-  - ruskin
 - - marshes
   - six
   - thousand
@@ -17,6 +11,9 @@ ngrams:
 - - labour
   - still
   - blast
+- - year's
+  - labour
+  - still
 - - rivers
   - yet
   - run
@@ -29,6 +26,24 @@ ngrams:
 - - six
   - thousand
   - years
+- - men
+  - could
+  - redeem
+- - tilled
+  - how
+  - much
+- - hundred
+  - men
+  - could
+- - taken
+  - how
+  - much
+- - their
+  - helpless
+  - inhabitants
+- - dateless
+  - ages
+  - their
 story:
   date: 2010-07-03
   id: 2010-07-03-idiots-of-the-marshes
@@ -43,4 +58,4 @@ story:
     \ inhabitants into fevered idiotism.\u201D\nJohn Ruskin, The Mystery Of Life And\
     \ Its Arts (1868)"
   title: Idiots Of The Marshes
-word_count: 124
+word_count: 123

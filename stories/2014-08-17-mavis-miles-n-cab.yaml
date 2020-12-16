@@ -5,6 +5,9 @@ ngrams:
 - - cab
   - calloway
   - calls
+- - bitter
+  - tear
+  - she's
 - - ear
   - mavis
   - slams
@@ -20,6 +23,15 @@ ngrams:
 - - blue
   - cab
   - calloway
+- - miles
+  - cab
+  - miles
+- - mavis
+  - instead
+  - she's
+- - instead
+  - she's
+  - minnie
 story:
   date: 2014-08-17
   id: 2014-08-17-mavis-miles-n-cab
@@ -31,4 +43,4 @@ story:
     \  Goodbye to that confounded shoe\n  {And thank the Lord!)\n  \u2018She didn't\
     \ take that call from Miles"
   title: Mavis, Miles, & Cab
-word_count: 94
+word_count: 89

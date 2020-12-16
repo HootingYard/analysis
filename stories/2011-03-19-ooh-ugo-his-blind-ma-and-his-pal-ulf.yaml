@@ -1,10 +1,4 @@
 ngrams:
-- - contain
-  - heart-wrenching
-  - tales
-- - books
-  - contain
-  - heart-wrenching
 - - six
   - exceedingly
   - rare
@@ -26,12 +20,33 @@ ngrams:
 - - book
   - originally
   - published
-- - just
-  - twelve
-  - copies
+- - before
+  - they're
+  - popped
+- - added
+  - before
+  - they're
 - - each
   - book
   - originally
+- - art
+  - each
+  - book
+- - more
+  - splendid
+  - items
+- - empty
+  - your
+  - pockets
+- - many
+  - more
+  - splendid
+- - successful
+  - bidder
+  - will
+- - exceedingly
+  - rare
+  - out
 story:
   date: 2011-03-19
   id: 2011-03-19-ooh-ugo-his-blind-ma-and-his-pal-ulf
@@ -50,4 +65,4 @@ story:
     is signed by the author and a dedication to the successful bidder will be added
     before they''re popped in the post.'
   title: "Ooh!\u2014Ugo, His Blind Ma, And His Pal Ulf"
-word_count: 132
+word_count: 130

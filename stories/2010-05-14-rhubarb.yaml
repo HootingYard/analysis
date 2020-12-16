@@ -1,10 +1,4 @@
 ngrams:
-- - foes
-  - e
-  - en
-- - fearsome
-  - foes
-  - e
 - - hairy
   - fists
   - stalks
@@ -26,15 +20,15 @@ ngrams:
 - - without
   - utensils
   - shoved
-- - yet
-  - baser
-  - barbarism
 - - utensils
   - shoved
   - still
 - - come
   - sweeping
   - shouting
+- - people's
+  - plates
+  - these
 - - sure
   - eaten
   - without
@@ -44,6 +38,57 @@ ngrams:
 - - stalks
   - before
   - plucking
+- - rhubarb
+  - before
+  - putting
+- - know
+  - rhubarb
+  - crumbles
+- - arc
+  - lights
+  - where
+- - plates
+  - these
+  - days
+- - hands
+  - gobbled
+  - down
+- - rhubarb
+  - like
+  - rhubarb
+- - sack
+  - back
+  - home
+- - gathering
+  - now
+  - beyond
+- - its
+  - rhubarb
+  - bed
+- - smite
+  - them
+  - smite
+- - am
+  - told
+  - smite
+- - their
+  - hairy
+  - fists
+- - smote
+  - your
+  - stalks
+- - your
+  - plate
+  - smite
+- - boil
+  - their
+  - fruit
+- - burn
+  - your
+  - hands
+- - your
+  - bare
+  - hands
 story:
   date: 2010-05-14
   id: 2010-05-14-rhubarb
@@ -65,4 +110,4 @@ story:
     of raw rhubarb. They are so barbaric they do not even know how to boil their fruit.
     And they shall triumph.
   title: Rhubarb
-word_count: 242
+word_count: 240

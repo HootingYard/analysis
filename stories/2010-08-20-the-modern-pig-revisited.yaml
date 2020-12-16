@@ -1,37 +1,22 @@
 ngrams:
-- - bungalow-sized
-  - oil
-  - refinery
-- - highly
-  - explosive
-  - pressurised
 - - painted
   - pipes
   - valves
-- - progress
-  - via
-  - in-built
+- - t
+  - v
+  - cameras
 - - blown
   - frantic
   - boffin
 - - frantic
   - boffin
   - activity
-- - pressurised
-  - gas
-  - methane
 - - boffin
   - activity
   - lots
-- - explosive
-  - pressurised
-  - gas
 - - red
   - painted
   - pipes
-- - intelligent
-  - pig
-  - ipig
 - - modern
   - pig
   - revisited
@@ -41,9 +26,72 @@ ngrams:
 - - modern
   - pig
   - experience
-- - village
+- - flame
+  - i've
+  - ever
+- - trap
+  - being
+  - blown
+- - being
+  - blown
+  - frantic
+- - small
+  - village
   - called
-  - lofthouse
+- - own
+  - modern
+  - pig
+- - sent
+  - 'off'
+  - toward
+- - eyebrows
+  - after
+  - tests
+- - most
+  - amazing
+  - fact
+- - i've
+  - ever
+  - seen
+- - pig
+  - experience
+  - many
+- - monitored
+  - its
+  - progress
+- - boffins
+  - monitored
+  - its
+- - its
+  - progress
+  - via
+- - turned
+  - our
+  - attention
+- - very
+  - own
+  - modern
+- - way
+  - 'off'
+  - singed
+- - revisited
+  - some
+  - months
+- - experience
+  - many
+  - years
+- - pig
+  - revisited
+  - some
+- - 'no'
+  - yokels
+  - attempted
+- - many
+  - years
+  - ago
+- - good
+  - way
+  - 'off'
 story:
   date: 2010-08-20
   id: 2010-08-20-the-modern-pig-revisited
@@ -67,4 +115,4 @@ story:
     \ that there's a pipeline that connects one side of the country to the other via\
     \ the Pennines."
   title: The Modern Pig Revisited
-word_count: 253
+word_count: 251

@@ -1,7 +1,4 @@
 ngrams:
-- - breeding
-  - non-breeding
-  - juvenile
 - - porpoises
   - rescue
   - dick
@@ -14,9 +11,6 @@ ngrams:
 - - dick
   - van
   - dyke
-- - various
-  - breeding
-  - non-breeding
 - - rescue
   - dick
   - van
@@ -26,15 +20,42 @@ ngrams:
 - - dick
   - van
   - dabbler
-- - zip
-  - thyselves
-  - o
-- - thyselves
-  - o
-  - er
 - - tardy
   - ones
   - note
+- - ones
+  - note
+  - unstinting
+- - similarity
+  - between
+  - species
+- - yet
+  - bought
+  - copies
+- - purchase
+  - now
+  - tardy
+- - now
+  - tardy
+  - ones
+- - unstinting
+  - gaze
+  - upon
+- - days
+  - after
+  - publication
+- - several
+  - days
+  - after
+- - make
+  - purchase
+  - now
+- - unique
+  - insight
+  - into
+- - after
+  - publication
+  - there
 story:
   date: 2011-07-29
   id: 2011-07-29-dick-van-dabbler
@@ -51,4 +72,4 @@ story:
     \ and various breeding, non-breeding, juvenile and moulting plumages, but you\
     \ shouldn't let that stop you.\n\n"
   title: Dick Van Dabbler
-word_count: 154
+word_count: 152

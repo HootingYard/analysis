@@ -1,13 +1,19 @@
 ngrams:
-- - niall
-  - ferguson
-  - empire
 - - delhi
   - covered
   - four
-- - away
-  - niall
-  - ferguson
+- - new
+  - delhi
+  - covered
+- - chase
+  - birds
+  - away
+- - were
+  - solely
+  - employed
+- - whom
+  - were
+  - solely
 story:
   date: 2018-07-12
   id: 2018-07-12-gainful-employment
@@ -17,4 +23,4 @@ story:
 
     Niall Ferguson, Empire (2003)'
   title: Gainful Employment
-word_count: 37
+word_count: 36

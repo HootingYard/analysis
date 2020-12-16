@@ -2,24 +2,33 @@ ngrams:
 - - estimable
   - wartime
   - housewife
-- - algonquian
-  - shaman
-  - prancing
 - - regarding
   - tobacco
   - sales
 - - stupidity
   - regarding
   - tobacco
+- - restrictions
+  - john
+  - white's
 - - latest
   - stupidity
   - regarding
-- - doubt
-  - doomed
-  - attempt
 - - modern
   - restrictions
   - john
+- - doubt
+  - doomed
+  - attempt
+- - pouch
+  - slung
+  - around
+- - shaman
+  - prancing
+  - around
+- - black
+  - bird
+  - tied
 story:
   date: 2012-03-03
   id: 2012-03-03-elizabethan-smoker
@@ -31,4 +40,4 @@ story:
     \ most importantly, a small black bird tied to his head. I think perhaps this\
     \ is the correct attitude to adopt.\n"
   title: Elizabethan Smoker
-word_count: 87
+word_count: 85

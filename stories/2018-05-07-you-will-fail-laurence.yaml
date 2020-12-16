@@ -1,7 +1,4 @@
 ngrams:
-- - detailed
-  - brightly-coloured
-  - drawings
 - - short
   - staccato
   - sentences
@@ -11,6 +8,9 @@ ngrams:
 - - must
   - remain
   - unutterably
+- - children's
+  - book
+  - written
 - - digital
   - version
   - being
@@ -23,6 +23,21 @@ ngrams:
 - - dreams
   - last
   - night
+- - book
+  - itself
+  - did
+- - will
+  - fail
+  - laurence
+- - will
+  - fail
+  - laurence
+- - an
+  - additional
+  - curiosity
+- - reasons
+  - which
+  - must
 story:
   date: 2018-05-07
   id: 2018-05-07-you-will-fail-laurence
@@ -35,4 +50,4 @@ story:
     \ that the book itself did not exist, this digital version being a hoax perpetrated\
     \ by japesters for reasons which must remain unutterably mysterious."
   title: You Will Fail, Laurence
-word_count: 105
+word_count: 104

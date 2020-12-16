@@ -1,10 +1,4 @@
 ngrams:
-- - trauma
-  - postie
-  - tappin
-- - ditch
-  - trauma
-  - postie
 - - archive
   - blog
   - recently
@@ -20,9 +14,6 @@ ngrams:
 - - times
   - archivist
   - notes
-- - wisley
-  - form
-  - part
 - - reporter
   - assures
   - us
@@ -38,12 +29,69 @@ ngrams:
 - - recently
   - old
   - news
-- - passing
-  - through
-  - pondfield
 - - part
   - mr
   - cooper
+- - form
+  - part
+  - mr
+- - post
+  - before
+  - mentioning
+- - hooting
+  - yard
+  - character
+- - hooting
+  - yard
+  - story
+- - messenger
+  - who
+  - delivers
+- - appealing
+  - than
+  - new
+- - than
+  - new
+  - news
+- - who
+  - delivers
+  - post
+- - could
+  - come
+  - straight
+- - much
+  - more
+  - appealing
+- - pitched
+  - headlong
+  - into
+- - old
+  - news
+  - can
+- - about
+  - seven
+  - miles
+- - story
+  - about
+  - noon
+- - more
+  - appealing
+  - than
+- - village
+  - about
+  - seven
+- - news
+  - particularly
+  - when
+- - snow
+  - turned
+  - out
+- - been
+  - much
+  - enjoying
+- - yard
+  - story
+  - about
 story:
   date: 2009-02-13
   id: 2009-02-13-victorian-ditch-trauma
@@ -67,4 +115,4 @@ story:
     \ that, almost a century and a half after his ditch trauma, Postie Tappin may\
     \ be resurrected as a Hooting Yard character."
   title: Victorian Ditch Trauma
-word_count: 253
+word_count: 251

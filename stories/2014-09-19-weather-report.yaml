@@ -8,6 +8,12 @@ ngrams:
 - - jane
   - austen
   - writes
+- - dreadful
+  - hot
+  - weather
+- - austen
+  - writes
+  - what
 story:
   date: 2014-09-19
   id: 2014-09-19-weather-report

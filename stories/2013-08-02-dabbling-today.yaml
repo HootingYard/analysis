@@ -1,13 +1,19 @@
 ngrams:
-- - bbc
-  - radio
-  - four
 - - piece
   - also
   - includes
 - - dabbler
   - this
   - week
+- - my
+  - cupboard
+  - at
+- - dabbling
+  - today
+  - in
+- - week
+  - i
+  - investigate
 story:
   date: 2013-08-02
   id: 2013-08-02-dabbling-today
@@ -17,4 +23,4 @@ story:
     of BBC Radio Four''s Farming Today. The piece also includes a lengthy list of
     birds, for the ornithologically-minded among you.'
   title: Dabbling Today
-word_count: 36
+word_count: 35

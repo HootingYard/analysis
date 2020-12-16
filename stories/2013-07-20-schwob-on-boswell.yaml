@@ -1,43 +1,61 @@
 ngrams:
-- - les
-  - vies
-  - imaginaires
-- - borges
-  - marcel
-  - schwob
 - - ponderous
   - catalogue
   - resembles
-- - in-house
-  - anagrammatist
-  - r
-- - marcel
-  - schwob
-  - writes
-- - schwob
-  - makes
-  - mention
+- - doctor
+  - johnson's
+  - common
 - - common
   - sense
   - comprises
-- - abandons
-  - us
-  - concerning
-- - boswell
-  - abandons
-  - us
-- - recently
-  - here
-  - nb
+- - johnson's
+  - common
+  - sense
+- - boswell's
+  - book
+  - took
 - - noted
   - recently
   - here
 - - use
   - johnson
   - made
-- - upon
+- - influence
+  - upon
   - borges
-  - marcel
+- - profound
+  - influence
+  - upon
+- - index
+  - boswell
+  - has
+- - writes
+  - if
+  - boswell's
+- - if
+  - boswell's
+  - book
+- - book
+  - took
+  - up
+- - an
+  - index
+  - boswell
+- - this
+  - ponderous
+  - catalogue
+- - doctor's
+  - dictionary
+  - from
+- - only
+  - this
+  - ponderous
+- - one
+  - could
+  - extract
+- - select
+  - translation
+  - by
 story:
   date: 2013-07-20
   id: 2013-07-20-schwob-on-boswell
@@ -54,4 +72,4 @@ story:
     \ in his pockets\u201D\u2014as noted recently here.\nNB\_: Hooting Yard's in-house\
     \ anagrammatist R. will, I hope, get to work on the title of this postage."
   title: Schwob On Boswell
-word_count: 159
+word_count: 155

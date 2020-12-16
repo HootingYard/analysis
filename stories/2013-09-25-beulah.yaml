@@ -1,7 +1,4 @@
 ngrams:
-- - wrong
-  - arthur
-  - machen
 - - always
   - wrong
   - arthur
@@ -11,6 +8,15 @@ ngrams:
 - - though
   - topographical
   - experts
+- - topographical
+  - experts
+  - might
+- - only
+  - epping
+  - forest
+- - might
+  - possibly
+  - assure
 story:
   date: 2013-09-25
   id: 2013-09-25-beulah

@@ -1,22 +1,7 @@
 ngrams:
-- - blood-crazed
-  - panthers
-  - lions
-- - panthers
-  - lions
-  - bears
-- - mist-enshrouded
-  - forest
-  - clearing
-- - lions
-  - bears
-  - etcetera
 - - television
   - situation
   - comedy
-- - bears
-  - etcetera
-  - armed
 - - popular
   - television
   - situation
@@ -29,6 +14,36 @@ ngrams:
 - - today
   - dvd
   - copies
+- - tape
+  - measure
+  - among
+- - tea
+  - today
+  - dvd
+- - fight
+  - 'off'
+  - savage
+- - wild
+  - beasts
+  - much
+- - forest
+  - clearing
+  - where
+- - first
+  - two
+  - series
+- - characters
+  - were
+  - attacked
+- - regular
+  - characters
+  - were
+- - windpipe
+  - has
+  - just
+- - just
+  - been
+  - slashed
 story:
   date: 2013-02-18
   id: 2013-02-18-are-you-being-savaged
@@ -42,4 +57,4 @@ story:
     Let's put the kettle on for a nice piping hot cup of tea\u201D.\nToday DVD copies\
     \ of the first two series are particularly popular with zoo monkeys."
   title: Are You Being Savaged?
-word_count: 123
+word_count: 121

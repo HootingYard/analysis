@@ -1,16 +1,13 @@
 ngrams:
-- - chimney
-  - sweeps
-  - prowl
 - - fake
   - chimney
   - sweeps
 - - fake
   - chimney
   - sweeps
-- - fekete
-  - kefe
-  - directed
+- - d
+  - fi
+  - papi
 - - getting
   - totally
   - confused
@@ -20,24 +17,48 @@ ngrams:
 - - housing
   - estate
   - goat
-- - zoli
-  - d
-  - fi
-- - d
-  - fi
-  - papi
-- - solution
-  - zoli
-  - d
-- - film
-  - fekete
-  - kefe
-- - hungarian
-  - film
-  - fekete
-- - yardist
-  - four
+- - four
   - fake
+  - chimney
+- - love
+  - history
+  - friendship
+- - everything
+  - goes
+  - chaos
+- - goat
+  - it's
+  - shot
+- - goat
+  - love
+  - history
+- - cinema
+  - goat
+  - today
+- - each
+  - other's
+  - weights
+- - pull
+  - each
+  - other's
+- - religion
+  - pull
+  - each
+- - already
+  - convinced
+  - myself
+- - goes
+  - chaos
+  - after
+- - black
+  - white
+  - too
+- - entice
+  - any
+  - devoted
+- - synopsis
+  - could
+  - scarcely
 story:
   date: 2009-02-09
   id: 2009-02-09-a-cinema-goat
@@ -55,4 +76,4 @@ story:
     \ probably do so before seeing what I have already convinced myself is a masterwork\
     \ of cinema."
   title: A Cinema Goat
-word_count: 167
+word_count: 165

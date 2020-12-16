@@ -1,4 +1,7 @@
 ngrams:
+- - johnson's
+  - stepdaughter
+  - lucy
 - - stepdaughter
   - lucy
   - porter
@@ -26,9 +29,6 @@ ngrams:
 - - infant
   - samuel
   - johnson
-- - lichfield
-  - duck
-  - seeing
 - - sir
   - walter
   - scott
@@ -38,12 +38,117 @@ ngrams:
 - - johnson
   - duck
   - killer
-- - poor
-  - lichfield
-  - duck
 - - whom
   - samuel
   - johnson
+- - duck
+  - whom
+  - samuel
+- - master
+  - duck
+  - whom
+- - purple
+  - prose
+  - writers
+- - others
+  - sir
+  - walter
+- - dr
+  - johnson
+  - duck
+- - people
+  - hesketh
+  - pearson
+- - edited
+  - three
+  - volumes
+- - extraordinary
+  - people
+  - hesketh
+- - tiny
+  - samuel
+  - johnson
+- - lies
+  - good
+  - master
+- - good
+  - master
+  - duck
+- - own
+  - earthly
+  - socket
+- - johnson's
+  - own
+  - authority
+- - terrible
+  - tiny
+  - samuel
+- - ducks
+  - died
+  - under
+- - among
+  - others
+  - sir
+- - death
+  - edited
+  - three
+- - dr
+  - johnson's
+  - own
+- - great
+  - purple
+  - prose
+- - duck
+  - killer
+  - how
+- - epitaph
+  - here
+  - lies
+- - many
+  - ducks
+  - died
+- - following
+  - epitaph
+  - here
+- - reliable
+  - than
+  - boswell
+- - than
+  - boswell
+  - drunk
+- - may
+  - boswell
+  - seems
+- - while
+  - yet
+  - unlike
+- - its
+  - earthly
+  - socket
+- - execrable
+  - her
+  - journal
+- - here
+  - lies
+  - good
+- - absolutely
+  - execrable
+  - her
+- - letters
+  - confirm
+  - her
+- - very
+  - few
+  - woodcocks
+- - great
+  - strangers
+  - here
+- - refute
+  - upon
+  - dr
+- - upon
+  - dr
+  - johnson's
 story:
   date: 2010-08-11
   id: 2010-08-11-dr-johnson-duck-killer
@@ -80,4 +185,4 @@ story:
     \ earthly socket of any poor Lichfield duck seeing the approach of terrible tiny\
     \ Samuel Johnson!"
   title: Dr Johnson, Duck Killer
-word_count: 410
+word_count: 406

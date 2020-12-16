@@ -2,16 +2,22 @@ ngrams:
 - - supermarket
   - mother
   - ooh
-- - ooh
-  - look
-  - pigs
 - - mother
   - ooh
   - look
+- - ooh
+  - look
+  - pigs
+- - an
+  - old
+  - blanket
+- - overheard
+  - overheard
+  - in
 story:
   date: 2018-02-18
   id: 2018-02-18-overheard
   text: "Overheard in a supermarket:\nMother\_: Ooh look! Pigs in blankets!\nChild\_\
     : I don't want to see a poor pig in an old blanket."
   title: Overheard
-word_count: 25
+word_count: 24

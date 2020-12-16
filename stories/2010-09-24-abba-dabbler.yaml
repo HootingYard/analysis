@@ -1,13 +1,4 @@
 ngrams:
-- - decomposer
-  - lepke
-  - buchwater
-- - noise
-  - decomposer
-  - lepke
-- - legendary
-  - noise
-  - decomposer
 - - sunday
   - rd
   - october
@@ -41,6 +32,33 @@ ngrams:
 - - real
   - persons
   - either
+- - abba
+  - presumably
+  - because
+- - rd
+  - october
+  - see
+- - pointy
+  - stick
+  - towards
+- - october
+  - see
+  - d
+- - tales
+  - first
+  - appeared
+- - any
+  - real
+  - persons
+- - these
+  - little
+  - tales
+- - many
+  - readers
+  - thought
+- - little
+  - tales
+  - first
 story:
   date: 2010-09-24
   id: 2010-09-24-abba-dabbler
@@ -59,4 +77,4 @@ story:
     \ evening at the Jellyfish Theatre on Sunday 3rd October. (See D is for Date For\
     \ Your Diary.)"
   title: Abba Dabbler
-word_count: 170
+word_count: 165

@@ -1,13 +1,10 @@
 ngrams:
-- - brainpans
-  - keith
-  - richards
-- - fuming
-  - brainpans
-  - keith
-- - aeroflot
-  - flies
-  - dying
+- - hitchcock
+  - hero's
+  - predicament
+- - adult
+  - hitchcock's
+  - obsessions
 - - richards
   - ancient
   - muse
@@ -29,12 +26,12 @@ ngrams:
 - - seem
   - particularly
   - vivid
+- - later
+  - hitchcock
+  - hero's
 - - dreams
   - seem
   - particularly
-- - later
-  - hitchcock
-  - hero
 - - done
   - anything
   - amiss
@@ -44,6 +41,126 @@ ngrams:
 - - local
   - coppers
   - took
+- - dying
+  - swan
+  - having
+- - buzzing
+  - around
+  - within
+- - cannot
+  - however
+  - recall
+- - particularly
+  - vivid
+  - last
+- - significant
+  - part
+  - another
+- - many
+  - flies
+  - buzzing
+- - because
+  - having
+  - flown
+- - few
+  - weeks
+  - ago
+- - vivid
+  - last
+  - night
+- - ancient
+  - muse
+  - before
+- - where
+  - alfred
+  - hitchcock
+- - any
+  - childhood
+  - traumas
+- - thought
+  - possible
+  - yet
+- - part
+  - another
+  - thing
+- - recall
+  - any
+  - childhood
+- - however
+  - recall
+  - any
+- - hitchcock's
+  - obsessions
+  - some
+- - past
+  - few
+  - years
+- - swan
+  - having
+  - said
+- - example
+  - like
+  - unto
+- - very
+  - very
+  - difficult
+- - do
+  - something
+  - amiss
+- - am
+  - still
+  - debilitated
+- - muse
+  - before
+  - she
+- - now
+  - closed
+  - down
+- - germs
+  - were
+  - aboard
+- - obsessions
+  - some
+  - say
+- - yard
+  - has
+  - persisted
+- - hideous
+  - germs
+  - were
+- - were
+  - somehow
+  - involved
+- - ancient
+  - muse
+  - when
+- - some
+  - say
+  - swans
+- - egg
+  - were
+  - somehow
+- - once
+  - locked
+  - up
+- - years
+  - been
+  - engaged
+- - hooting
+  - yard
+  - has
+- - nick
+  - incidentally
+  - which
+- - did
+  - do
+  - something
+- - another
+  - thing
+  - about
+- - swan
+  - perhaps
+  - they
 story:
   date: 2012-12-19
   id: 2012-12-19-aeroflot-flies-dying-swans-etc
@@ -78,4 +195,4 @@ story:
     \ that this was merely a figment of my fuming brainpans.\n\nKeith Richards\u2019\
     \ ancient Muse, before she was ancient"
   title: Aeroflot Flies, Dying Swans, Etc.
-word_count: 436
+word_count: 434

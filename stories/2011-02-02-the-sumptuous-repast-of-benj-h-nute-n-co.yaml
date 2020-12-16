@@ -5,21 +5,6 @@ ngrams:
 - - repast
   - horace
   - holden
-- - nute
-  - co
-  - happily
-- - h
-  - nute
-  - co
-- - benj
-  - h
-  - nute
-- - benj
-  - h
-  - nute
-- - benj
-  - h
-  - nute
 - - actual
   - pleasure
   - derived
@@ -41,9 +26,81 @@ ngrams:
 - - cooked
   - our
   - fish
-- - having
+- - snails
+  - having
   - our
-  - fire-works
+- - two
+  - years
+  - afterwards
+- - unfortunate
+  - can
+  - avail
+- - can
+  - avail
+  - themselves
+- - their
+  - eel
+  - crabs
+- - afterwards
+  - were
+  - subjected
+- - recorded
+  - we
+  - succeeded
+- - years
+  - afterwards
+  - were
+- - were
+  - cast
+  - away
+- - were
+  - cast
+  - away
+- - prosperous
+  - circumstances
+  - are
+- - are
+  - either
+  - overlooked
+- - circumstances
+  - are
+  - either
+- - been
+  - our
+  - home
+- - wreck
+  - still
+  - we
+- - us
+  - we
+  - collected
+- - an
+  - island
+  - inhabited
+- - bread
+  - we
+  - made
+- - being
+  - recorded
+  - we
+- - which
+  - though
+  - trifling
+- - taking
+  - an
+  - eel
+- - event
+  - which
+  - though
+- - we
+  - cooked
+  - our
+- - who
+  - were
+  - cast
+- - eke
+  - out
+  - their
 story:
   date: 2011-02-02
   id: 2011-02-02-the-sumptuous-repast-of-benj-h-nute-n-co
@@ -68,4 +125,4 @@ story:
     \ H. Nute and his pals were not able to eke out their eel, crabs, and snails with\
     \ a goodly supply of rhubarb."
   title: The Sumptuous Repast Of Benj. H. Nute & Co.
-word_count: 277
+word_count: 276

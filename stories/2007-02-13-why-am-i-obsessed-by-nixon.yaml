@@ -8,21 +8,33 @@ ngrams:
 - - richard
   - m
   - nixon
-- - realised
-  - soon
-  - inevitably
 - - great
   - carl
   - sagan
-- - demon-haunted
-  - world
-  - occasionally
-- - quite
-  - realised
-  - soon
-- - won
-  - t
-  - continue
+- - m
+  - nixon
+  - what
+- - nixon
+  - what
+  - shall
+- - human
+  - face
+  - there
+- - shall
+  - we
+  - deduce
+- - question
+  - what
+  - can
+- - can
+  - we
+  - deduce
+- - wood
+  - grain
+  - or
+- - be
+  - worth
+  - posing
 story:
   date: 2007-02-13
   id: 2007-02-13-why-am-i-obsessed-by-nixon
@@ -34,4 +46,4 @@ story:
     \ I am obsessed with Nixon\u2014to an extent I had never quite realised? Soon,\
     \ inevitably, I shall have to drum up a recipe for eggplant and mashed potato."
   title: Why Am I Obsessed By Nixon?
-word_count: 102
+word_count: 101

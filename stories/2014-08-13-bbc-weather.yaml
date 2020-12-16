@@ -1,7 +1,4 @@
 ngrams:
-- - imagines
-  - stav
-  - hanging
 - - regular
   - weather
   - forecasters
@@ -14,6 +11,15 @@ ngrams:
 - - coming
   - every
   - day
+- - thrones
+  - one
+  - imagines
+- - bbc
+  - weather
+  - one
+- - this
+  - always
+  - sounds
 story:
   date: 2014-08-13
   id: 2014-08-13-bbc-weather
@@ -23,4 +29,4 @@ story:
     \ puzzling that his weather forecasts do not consist simply of the words \u201C\
     winter is coming\u201D, every day.\n"
   title: BBC Weather
-word_count: 60
+word_count: 59

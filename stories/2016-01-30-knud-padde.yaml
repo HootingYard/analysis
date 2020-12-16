@@ -1,16 +1,4 @@
 ngrams:
-- - export
-  - knud
-  - padde
-- - popstrel
-  - toyah
-  - wilcox
-- - toyah
-  - wilcox
-  - toyah
-- - knud
-  - padde
-  - tv
 - - patricia
   - fripp
   - sister
@@ -29,21 +17,96 @@ ngrams:
 - - danish
   - tv
   - crime
-- - named
-  - knud
-  - padde
-- - episodes
-  - named
-  - knud
-- - apocalypse-expert
-  - tarleton
-  - buchbinder
 - - apocalypse
   - alongside
   - lars
 - - icy
   - wind
   - noble
+- - minor
+  - character
+  - appearing
+- - crime
+  - thriller
+  - known
+- - tv
+  - series
+  - ought
+- - forgotten
+  - pretty
+  - much
+- - pretty
+  - much
+  - everything
+- - thriller
+  - known
+  - here
+- - very
+  - long
+  - bath
+- - apocalypse
+  - look
+  - like
+- - look
+  - like
+  - viewed
+- - some
+  - unspoken
+  - horror
+- - imagine
+  - him
+  - dapper
+- - any
+  - old
+  - scandinavian
+- - norway
+  - though
+  - if
+- - much
+  - everything
+  - about
+- - can
+  - imagine
+  - him
+- - herring
+  - this
+  - needs
+- - never
+  - called
+  - me
+- - called
+  - me
+  - back
+- - after
+  - all
+  - put
+- - this
+  - needs
+  - work
+- - norway
+  - then
+  - so
+- - all
+  - put
+  - them
+- - have
+  - forgotten
+  - pretty
+- - could
+  - after
+  - all
+- - scandinavian
+  - not
+  - exclusively
+- - fjord
+  - what
+  - would
+- - from
+  - norway
+  - though
+- - we
+  - could
+  - after
 story:
   date: 2016-01-30
   id: 2016-01-30-knud-padde
@@ -69,4 +132,4 @@ story:
     \ four of them together in the first place, on the banks of a fjord, in a high\
     \ and icy wind, noble of brow and fond of herring.\nThis needs work."
   title: Knud Padde
-word_count: 296
+word_count: 290

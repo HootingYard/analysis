@@ -2,6 +2,9 @@ ngrams:
 - - daily
   - status
   - report
+- - george
+  - orwell's
+  - book
 - - oval
   - office
   - may
@@ -23,6 +26,15 @@ ngrams:
 - - obama
   - will
   - take
+- - desk
+  - an
+  - egg
+- - egg
+  - january
+  - one
+- - january
+  - one
+  - egg
 story:
   date: 2009-01-31
   id: 2009-01-31-egg-of-power
@@ -39,4 +51,4 @@ story:
     The Oval Office may be renamed the Ova Office, and Alfred Hitchcock will be rolling
     in his grave.'
   title: Egg Of Power
-word_count: 102
+word_count: 101

@@ -1,7 +1,4 @@
 ngrams:
-- - philip
-  - seymour
-  - hoffman
 - - alleged
   - comedian
   - peter
@@ -11,9 +8,6 @@ ngrams:
 - - preposterous
   - russell
   - brand
-- - comical
-  - dabbling
-  - today
 - - hitchens
   - another
   - opportunity
@@ -38,6 +32,33 @@ ngrams:
 - - contemplating
   - instead
   - such
+- - instead
+  - such
+  - stars
+- - grip
+  - though
+  - only
+- - am
+  - afraid
+  - brand
+- - more
+  - important
+  - topic
+- - addict
+  - well
+  - who
+- - think
+  - it's
+  - time
+- - well
+  - who
+  - knew
+- - about
+  - himself
+  - several
+- - ideal
+  - which
+  - brings
 story:
   date: 2014-02-07
   id: 2014-02-07-comical-dabbling
@@ -55,4 +76,4 @@ story:
     \ of your brains by contemplating, instead, such stars of yesteryear as Wilson,\
     \ Keppel, and Betty.\n"
   title: Comical Dabbling
-word_count: 166
+word_count: 165

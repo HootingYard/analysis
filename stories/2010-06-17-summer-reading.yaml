@@ -1,7 +1,4 @@
 ngrams:
-- - linocutter
-  - rex
-  - lino
 - - lemon
   - meringue
   - pie
@@ -14,18 +11,6 @@ ngrams:
 - - star
   - rating
   - system
-- - mezzotintist
-  - rex
-  - tint
-- - noted
-  - linocutter
-  - rex
-- - maximum
-  - twenty
-  - stars
-- - noted
-  - mezzotintist
-  - rex
 - - railway
   - station
   - kiosks
@@ -35,15 +20,126 @@ ngrams:
 - - particularly
   - low
   - ebb
-- - pamphlet-buying
-  - public
-  - seemed
-- - well-loved
+- - history
+  - others
+  - complain
+- - pamphlets
+  - available
+  - inside
+- - pamphleteer
+  - included
+  - pamphlets
+- - year's
+  - summer
+  - reading
+- - year's
+  - summer
+  - reading
+- - rex
+  - tint
+  - however
+- - summer
+  - reading
+  - precisely
+- - scribblings
+  - without
+  - bothering
+- - best
+  - pamphlets
+  - available
+- - canon
+  - perhaps
+  - hoping
+- - work
+  - foolishly
+  - however
+- - sorry
+  - little
+  - production
+- - unmissable
+  - pamphlets
+  - dobson
+- - many
+  - tremendous
+  - pamphlets
+- - own
+  - scribblings
+  - without
+- - every
+  - single
   - pamphlet
-  - chucklesome
+- - pamphlets
+  - dobson
+  - seemed
+- - june
+  - morning
+  - dobson
+- - dobson
+  - bibliography
+  - given
+- - very
+  - best
+  - pamphlets
+- - years
+  - ago
+  - today
+- - listed
+  - some
+  - remarks
+- - morning
+  - dobson
+  - came
+- - nova
+  - pilbeam
+  - 'no'
+- - pilbeam
+  - 'no'
+  - trace
+- - drum
+  - up
+  - sales
+- - find
+  - listed
+  - some
+- - turned
+  - its
+  - back
+- - any
+  - such
+  - pamphlet
 - - pamphlet
-  - chucklesome
-  - fripperies
+  - has
+  - ever
+- - elsewhere
+  - about
+  - both
+- - summer
+  - reading
+  - out
+- - such
+  - pamphlet
+  - has
+- - ever
+  - been
+  - found
+- - dobson
+  - came
+  - up
+- - we
+  - find
+  - listed
+- - an
+  - objective
+  - guide
+- - print
+  - we
+  - find
+- - exclude
+  - this
+  - sorry
+- - this
+  - year's
+  - summer
 story:
   date: 2010-06-17
   id: 2010-06-17-summer-reading
@@ -80,4 +176,4 @@ story:
     Reading was a mezzotint by the noted mezzotintist Rex Tint. However, the latest
     research concludes that it is a linocut by the noted linocutter Rex Lino.'
   title: Summer Reading
-word_count: 379
+word_count: 377

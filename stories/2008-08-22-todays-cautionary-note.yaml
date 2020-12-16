@@ -1,16 +1,22 @@
 ngrams:
-- - bee
-  - david
-  - sedaris
+- - today's
+  - cautionary
+  - note
 - - note
   - never
   - underestimate
 - - cautionary
   - note
   - never
+- - underestimate
+  - a
+  - bee
+- - a
+  - bee
+  - david
 story:
   date: 2008-08-22
   id: 2008-08-22-todays-cautionary-note
   text: "\u201CNever underestimate a bee\u201D\u2014David Sedaris"
   title: Today's Cautionary Note
-word_count: 10
+word_count: 9

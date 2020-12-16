@@ -5,18 +5,18 @@ ngrams:
 - - ken
   - russell
   - among
-- - bit
-  - less
-  - hmmm
-- - bit
-  - less
-  - hmmm
 - - paying
   - due
   - attention
-- - 'true'
-  - isn
-  - t
+- - specific
+  - he'd
+  - say
+- - until
+  - it's
+  - entirely
+- - very
+  - specific
+  - he'd
 - - redouble
   - our
   - efforts
@@ -26,6 +26,21 @@ ngrams:
 - - ellipsis
   - hooting
   - yard
+- - shall
+  - redouble
+  - our
+- - man
+  - until
+  - it's
+- - glenda
+  - jackson
+  - who
+- - jackson
+  - who
+  - recalls
+- - them
+  - glenda
+  - jackson
 story:
   date: 2011-11-29
   id: 2011-11-29-a-bit-more-urrrgh
@@ -38,4 +53,4 @@ story:
     \ and we shall redouble our efforts in memory of the great man, until it's entirely\
     \ \u2026 urrrgh and there is not \_a trace of hmmm whatsoever."
   title: "A Bit More \u2026 Urrrgh"
-word_count: 119
+word_count: 115

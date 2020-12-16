@@ -1,13 +1,19 @@
 ngrams:
-- - aristocrat
-  - unity
-  - mitford
-- - valkyrie
-  - hitler-worshipping
-  - english
-- - hitler-worshipping
-  - english
+- - english
   - aristocrat
+  - unity
+- - where
+  - her
+  - father
+- - prospecting
+  - for
+  - gold
+- - father
+  - was
+  - prospecting
+- - middle
+  - name
+  - was
 story:
   date: 2014-08-10
   id: 2014-08-10-valkyrie
@@ -17,4 +23,4 @@ story:
 
     '
   title: Valkyrie
-word_count: 27
+word_count: 26

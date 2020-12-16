@@ -1,19 +1,25 @@
 ngrams:
+- - fingers
+  - wouldn't
+  - spread
+- - sensible
+  - hobby
+  - it's
+- - hobby
+  - it's
+  - 'true'
 - - crucifixion
   - scene
   - because
-- - wouldn
-  - t
-  - spread
-- - fingers
-  - wouldn
-  - t
 - - cross
   - gosh
   - how
 - - very
   - sensible
   - hobby
+- - gosh
+  - how
+  - often
 story:
   date: 2009-04-05
   id: 2009-04-05-a-very-sensible-hobby
@@ -22,4 +28,4 @@ story:
     \ to let it harden again before I could nail it to the cross.\u201D\nGosh, how\
     \ often have I said the very same thing? The Freethinker is on the case.\n\n\_"
   title: A Very Sensible Hobby
-word_count: 62
+word_count: 60

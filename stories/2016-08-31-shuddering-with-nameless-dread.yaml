@@ -2,9 +2,6 @@ ngrams:
 - - nameless
   - miasmic
   - horror
-- - usual
-  - vacancy-between-the-ears
-  - syndrome
 - - rhode
   - island
   - master
@@ -14,12 +11,12 @@ ngrams:
 - - winsome
   - tosh
   - watch
-- - hideous
-  - crawling
-  - chaos
 - - splendid
   - norm
   - sherman
+- - hideous
+  - crawling
+  - chaos
 - - miasmic
   - horror
   - perhaps
@@ -35,12 +32,39 @@ ngrams:
 - - spent
   - several
   - days
-- - such
-  - winsome
-  - tosh
 - - contrary
   - mr
   - key
+- - such
+  - winsome
+  - tosh
+- - done
+  - after
+  - reading
+- - posted
+  - here
+  - after
+- - then
+  - another
+  - couple
+- - after
+  - reading
+  - just
+- - easier
+  - said
+  - than
+- - than
+  - done
+  - after
+- - said
+  - than
+  - done
+- - story
+  - about
+  - popsy
+- - twee
+  - story
+  - about
 story:
   date: 2016-08-31
   id: 2016-08-31-shuddering-with-nameless-dread
@@ -58,4 +82,4 @@ story:
     \ writing a twee story about Popsy the Pony in a buttercup-splattered meadow,\
     \ or some such winsome tosh. Watch this space."
   title: Shuddering With Nameless Dread
-word_count: 178
+word_count: 177

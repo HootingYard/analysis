@@ -1,19 +1,7 @@
 ngrams:
-- - studios
-  - offering
-  - delectable
-- - sunday
-  - eliciting
-  - bids
-- - offering
-  - delectable
-  - items
 - - important
   - auction
   - announcement
-- - second
-  - sees
-  - resonancefm
 - - dust
   - particle
   - written
@@ -26,9 +14,36 @@ ngrams:
 - - published
   - two
   - decades
+- - auctions
+  - mr
+  - key
 - - two
   - decades
   - ago
+- - important
+  - announcement
+  - here
+- - coming
+  - weekend
+  - may
+- - key
+  - published
+  - two
+- - drop
+  - what
+  - you're
+- - what
+  - you're
+  - doing
+- - your
+  - life
+  - depends
+- - indelible
+  - inc
+  - so
+- - inc
+  - so
+  - turn
 story:
   date: 2010-04-26
   id: 2010-04-26-important-announcement
@@ -45,4 +60,4 @@ story:
     So turn on, tune in, drop what you''re doing, and bid as if your life depends
     on it. Resonance needs you, almost as much as you need Resonance.'
   title: Important Announcement
-word_count: 128
+word_count: 126

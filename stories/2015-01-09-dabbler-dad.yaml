@@ -1,4 +1,7 @@
 ngrams:
+- - father's
+  - th
+  - birthday
 - - dabbler
   - dad
   - today
@@ -8,6 +11,9 @@ ngrams:
 - - piece
   - first
   - posted
+- - posted
+  - here
+  - three
 story:
   date: 2015-01-09
   id: 2015-01-09-dabbler-dad
@@ -16,4 +22,4 @@ story:
     Today would have been my father''s 90th birthday. Over at The Dabbler, I remember
     him in a version of a piece first posted here three years ago.'
   title: Dabbler Dad
-word_count: 30
+word_count: 29

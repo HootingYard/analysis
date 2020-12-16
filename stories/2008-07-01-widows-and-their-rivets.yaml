@@ -1,10 +1,10 @@
 ngrams:
-- - definitively
-  - non-industrial
-  - calibre
-- - disused
-  - pig-pen
-  - wherein
+- - potential
+  - customer's
+  - scrutiny
+- - glad
+  - we've
+  - cleared
 - - widows
   - popped
   - rivets
@@ -20,6 +20,9 @@ ngrams:
 - - industrial
   - funnel
   - manufacturing
+- - customer's
+  - scrutiny
+  - r
 - - funnel
   - manufacturing
   - compound
@@ -32,9 +35,18 @@ ngrams:
 - - thousands
   - minute
   - funnels
+- - i'm
+  - glad
+  - we've
 - - widows
   - occasionally
   - meeting
+- - funnel
+  - i'm
+  - glad
+- - immense
+  - funnel
+  - i'm
 - - main
   - page
   - r
@@ -44,6 +56,36 @@ ngrams:
 - - manufacturing
   - compound
   - whose
+- - single
+  - immense
+  - funnel
+- - single
+  - immense
+  - funnel
+- - whose
+  - output
+  - happens
+- - page
+  - r
+  - wrote
+- - kind
+  - enough
+  - briefly
+- - two
+  - amiable
+  - widows
+- - two
+  - widows
+  - popped
+- - wherein
+  - two
+  - widows
+- - should
+  - perhaps
+  - add
+- - former
+  - instance
+  - might
 story:
   date: 2008-07-01
   id: 2008-07-01-widows-and-their-rivets
@@ -66,4 +108,4 @@ story:
     \ was indeed a disused pig-pen wherein two widows popped rivets into a single\
     \ immense funnel. I'm glad we've cleared that one up."
   title: Widows And Their Rivets
-word_count: 236
+word_count: 232

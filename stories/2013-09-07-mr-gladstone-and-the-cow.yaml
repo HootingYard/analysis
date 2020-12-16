@@ -11,9 +11,6 @@ ngrams:
 - - highly
   - reprehensible
   - animal
-- - de
-  - nos
-  - jours
 - - gladstone
   - de
   - nos
@@ -35,6 +32,27 @@ ngrams:
 - - sitwell
   - tells
   - us
+- - gladstone
+  - glared
+  - back
+- - mutual
+  - pursuit
+  - before
+- - other
+  - david
+  - blunkett
+- - forgot
+  - him
+  - immediately
+- - cow
+  - forgot
+  - him
+- - statesman
+  - who
+  - according
+- - sympathies
+  - were
+  - aroused
 story:
   date: 2013-09-07
   id: 2013-09-07-mr-gladstone-and-the-cow
@@ -50,4 +68,4 @@ story:
     \ and strolled away. The cow was shot.\nIn this respect, if no other, David Blunkett\
     \ is the Gladstone de nos jours."
   title: Mr Gladstone And The Cow
-word_count: 148
+word_count: 147

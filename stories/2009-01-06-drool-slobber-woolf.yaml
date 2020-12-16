@@ -1,43 +1,61 @@
 ngrams:
-- - yardist
-  - roland
-  - clare
 - - drool
   - slobber
   - woolf
 - - thoroughly
   - understandable
   - preoccupation
-- - pleasingly
-  - keyesque
-  - passage
 - - penguin
   - modern
   - classics
 - - modern
   - classics
   - edition
-- - ride
-  - forty
-  - miles
-- - roland
-  - clare
-  - dear
 - - present
   - thoroughly
   - understandable
-- - clare
-  - dear
-  - frank
 - - miles
   - between
   - lunch
-- - forty
-  - miles
-  - between
-- - hooting
-  - yardist
-  - roland
+- - classics
+  - edition
+  - many
+- - edition
+  - many
+  - thanks
+- - hardly
+  - wiser
+  - then
+- - fancy
+  - took
+  - them
+- - slobbering
+  - now
+  - may
+- - doctors
+  - were
+  - hardly
+- - were
+  - hardly
+  - wiser
+- - wiser
+  - then
+  - than
+- - bed
+  - they
+  - left
+- - bed
+  - all
+  - day
+- - mat
+  - from
+  - keen
+- - they
+  - left
+  - him
+- - then
+  - than
+  - they
 story:
   date: 2009-01-06
   id: 2009-01-06-drool-slobber-woolf
@@ -54,4 +72,4 @@ story:
     Many thanks to Mr Clare for that. Inexplicably, it may be the first appearance\
     \ of the word posset on this website. I suspect it will not be the last."
   title: Drool, Slobber, Woolf
-word_count: 159
+word_count: 155

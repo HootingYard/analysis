@@ -1,16 +1,7 @@
 ngrams:
-- - battiscombe
-  - g
-  - gunn
-- - g
-  - gunn
-  - introduction
 - - ancient
   - egyptians
   - enjoy
-- - reading
-  - battiscombe
-  - g
 - - egyptians
   - enjoy
   - rather
@@ -29,6 +20,27 @@ ngrams:
 - - later
   - many
   - things
+- - rather
+  - more
+  - popularity
+- - enjoy
+  - rather
+  - more
+- - cities
+  - now
+  - made
+- - now
+  - made
+  - desolate
+- - more
+  - popularity
+  - than
+- - than
+  - their
+  - contemporaries
+- - popularity
+  - than
+  - their
 story:
   date: 2010-05-18
   id: 2010-05-18-pitiful-flotsam
@@ -42,4 +54,4 @@ story:
     \ they may well be, are worth the reading.\u201D\nBattiscombe G Gunn, Introduction\
     \ to The Instruction Of Ptah-Hotep And The Instruction Of Ke'gemni (1906)"
   title: Pitiful Flotsam
-word_count: 120
+word_count: 119

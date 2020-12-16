@@ -5,9 +5,6 @@ ngrams:
 - - needles
   - thou
   - shalt
-- - kapok
-  - stuffing
-  - scattered
 - - thou
   - shalt
   - knit
@@ -26,6 +23,24 @@ ngrams:
 - - gather
   - ye
   - wool
+- - using
+  - needles
+  - thou
+- - lord
+  - regarding
+  - 'false'
+- - thy
+  - father's
+  - land
+- - wool
+  - strewn
+  - across
+- - chicken
+  - shall
+  - lay
+- - father's
+  - land
+  - thus
 story:
   date: 2016-05-23
   id: 2016-05-23-biblical-apocrypha
@@ -39,4 +54,4 @@ story:
     \ chickens, and other counterfeit poultry.\u201D\nThe Book Of Ipsy Dipsy Doo,\
     \ chapter 5,891"
   title: Biblical Apocrypha
-word_count: 118
+word_count: 117

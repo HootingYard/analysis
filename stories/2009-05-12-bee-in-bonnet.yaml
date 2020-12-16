@@ -1,46 +1,70 @@
 ngrams:
-- - mp
-  - kate
-  - hoey
-- - mps
-  - expenses
-  - hoo-hah
-- - hoey
-  - referred
-  - contemptuously
-- - kate
-  - hoey
-  - referred
 - - newsnight
   - yesterday
   - mercifully
-- - twaddle
-  - gold
-  - star
 - - yesterday
   - mercifully
   - briefly
+- - twaddle
+  - gold
+  - star
 - - talking
   - twaddle
   - gold
-- - become
-  - antifry
-  - central
 - - including
   - himself
   - fiddled
 - - everybody
   - including
   - himself
-- - most
-  - intelligent
-  - life-form
 - - new
   - heroine
   - however
 - - attending
   - oh
   - how
+- - heroine
+  - however
+  - back
+- - bee
+  - finds
+  - its
+- - buzz
+  - 'off'
+  - after
+- - things
+  - get
+  - back
+- - fiddled
+  - their
+  - expenses
+- - finds
+  - its
+  - way
+- - buzzes
+  - about
+  - fortunately
+- - mercifully
+  - briefly
+  - about
+- - place
+  - has
+  - become
+- - himself
+  - fiddled
+  - their
+- - get
+  - worked
+  - up
+- - might
+  - lead
+  - some
+- - how
+  - we
+  - vomited
+- - we
+  - vomited
+  - here
 story:
   date: 2009-05-12
   id: 2009-05-12-bee-in-bonnet
@@ -59,4 +83,4 @@ story:
     \ to \u201Cthat actor, whoever he is\u201D and how he was talking twaddle. Gold\
     \ star for her."
   title: Bee In Bonnet
-word_count: 178
+word_count: 177

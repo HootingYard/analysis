@@ -1,34 +1,34 @@
 ngrams:
-- - brain-numbing
-  - postmodern
-  - gobbledegook
 - - discourses
   - interrogating
   - notions
 - - indemnity
   - billy
   - wilder
+- - tiffany's
+  - blake
+  - edwards
 - - blake
   - edwards
-  - rosemary
-- - dreadful
-  - brain-numbing
-  - postmodern
+  - rosemary's
 - - comedy
   - martin
   - scorsese
+- - edwards
+  - rosemary's
+  - baby
 - - blah
   - blah
   - bollocks
 - - double
   - indemnity
   - billy
+- - rosemary's
+  - baby
+  - roman
 - - baby
   - roman
   - polanski
-- - jonathan
-  - faiers
-  - explain
 - - highly
   - amusing
   - academic
@@ -38,12 +38,81 @@ ngrams:
 - - academic
   - studies
   - alongside
-- - contemporary
-  - cinema
-  - alas
 - - freezing
   - temperatures
   - yesterday
+- - contemporary
+  - cinema
+  - alas
+- - proper
+  - interrogation
+  - tied
+- - simple
+  - straightforward
+  - sentence
+- - various
+  - forms
+  - popped
+- - south
+  - london
+  - streets
+- - temperatures
+  - yesterday
+  - evening
+- - martin
+  - scorsese
+  - breakfast
+- - secret
+  - police
+  - basement
+- - straightforward
+  - sentence
+  - instead
+- - klieg
+  - light
+  - shoved
+- - paper
+  - entitled
+  - topiary
+- - sentence
+  - instead
+  - it's
+- - pranced
+  - majestically
+  - through
+- - cinema
+  - deserves
+  - its
+- - other
+  - blah
+  - blah
+- - its
+  - various
+  - forms
+- - very
+  - interesting
+  - indeed
+- - do
+  - applaud
+  - dr
+- - contained
+  - some
+  - interesting
+- - cannot
+  - now
+  - recall
+- - deserves
+  - its
+  - place
+- - forms
+  - popped
+  - out
+- - all
+  - discourses
+  - interrogating
+- - explain
+  - all
+  - unfortunately
 story:
   date: 2013-03-26
   id: 2013-03-26-knitting-and-catastrophe
@@ -73,4 +142,4 @@ story:
     \ entitled \u201CTopiary And Miscegenation In Contemporary Cinema\u201D. Alas,\
     \ it never appeared, for reasons I cannot now recall."
   title: Knitting And Catastrophe
-word_count: 311
+word_count: 308

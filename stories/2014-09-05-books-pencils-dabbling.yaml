@@ -2,15 +2,21 @@ ngrams:
 - - hero
   - lantus
   - solostar
-- - sci-fi
-  - hero
-  - lantus
 - - feeling
   - somewhat
   - debilitated
 - - books
   - pencils
   - dabbling
+- - pencils
+  - dabbling
+  - mr
+- - dabbler
+  - today
+  - however
+- - dabbling
+  - mr
+  - key
 story:
   date: 2014-09-05
   id: 2014-09-05-books-pencils-dabbling

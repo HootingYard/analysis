@@ -2,15 +2,24 @@ ngrams:
 - - writes
   - rob
   - howard
-- - swanky
-  - motor
-  - dear
 - - key
   - writes
   - rob
 - - motor
   - dear
   - mr
+- - dobson
+  - canon
+  - continues
+- - mr
+  - key
+  - writes
+- - dear
+  - mr
+  - key
+- - cornish
+  - coast
+  - could
 story:
   date: 2011-08-03
   id: 2011-08-03-swanky-motor

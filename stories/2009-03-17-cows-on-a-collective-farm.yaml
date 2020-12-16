@@ -1,7 +1,4 @@
 ngrams:
-- - farm
-  - bela
-  - tarr
 - - collapsing
   - collective
   - farmyard
@@ -20,12 +17,27 @@ ngrams:
 - - almost
   - eight
   - minutes
+- - indeed
+  - i'm
+  - astonished
 - - cows
   - trudging
   - around
-- - t
-  - ntang
-  - sounds
+- - film
+  - indeed
+  - i'm
+- - half
+  - hours
+  - long
+- - only
+  - just
+  - come
+- - shot
+  - which
+  - lasts
+- - opening
+  - shot
+  - which
 story:
   date: 2009-03-17
   id: 2009-03-17-cows-on-a-collective-farm
@@ -38,4 +50,4 @@ story:
     \ a collapsing collective farmyard. I have not yet seen it, but I suspect I will\
     \ adore it."
   title: Cows On A Collective Farm
-word_count: 108
+word_count: 106

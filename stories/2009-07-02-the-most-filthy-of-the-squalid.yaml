@@ -1,46 +1,67 @@
 ngrams:
-- - unwholesome
-  - odours
-  - abodes
-- - periwinkles
-  - hair-combs
-  - baked
-- - publications
-  - sop-in-the-pan
-  - shrimps
-- - fried
-  - oysters
-  - sweet-stuff
-- - oysters
-  - sweet-stuff
-  - vegetables
-- - cheap
-  - publications
-  - sop-in-the-pan
-- - hair-combs
-  - baked
-  - potatoes
 - - baked
   - potatoes
   - liver
+- - w
+  - m
+  - reynolds
 - - stalls
   - selling
   - fish
+- - m
+  - reynolds
+  - provided
 - - destitution
   - vile
   - streets
+- - g
+  - w
+  - m
 - - vile
   - streets
   - inhabited
-- - sweet-stuff
-  - vegetables
-  - fruit
 - - selling
   - fish
   - fresh
-- - dark
+- - whey
+  - sheep's
+  - heads
+- - london
+  - g
+  - w
+- - fruit
+  - cheap
+  - publications
+- - vegetables
+  - fruit
+  - cheap
+- - vice
+  - dark
   - courts
-  - foetid
+- - bethnal
+  - green
+  - entire
+- - green
+  - entire
+  - streets
+- - slimy
+  - water
+  - alleys
+- - water
+  - alleys
+  - blocked
+- - black
+  - slimy
+  - water
+- - our
+  - major
+  - supermarkets
+- - major
+  - supermarkets
+  - even
+- - only
+  - too
+  - pleased
 story:
   date: 2009-07-02
   id: 2009-07-02-the-most-filthy-of-the-squalid
@@ -59,4 +80,4 @@ story:
     \ only too pleased to see sop-in-the-pan on sale in our major supermarkets, even\
     \ if it were pre-packaged under their own brand."
   title: The Most Filthy Of The Squalid
-word_count: 174
+word_count: 173

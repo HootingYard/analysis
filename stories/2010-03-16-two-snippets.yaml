@@ -1,13 +1,4 @@
 ngrams:
-- - impotent
-  - litt
-  - rateur
-- - hoaxers
-  - showmen
-  - dueling
-- - showmen
-  - dueling
-  - journalists
 - - goodman
   - lewis
   - gaylord
@@ -26,6 +17,27 @@ ngrams:
 - - savage
   - rotary
   - magnetic
+- - rotary
+  - magnetic
+  - machine
+- - henry
+  - hall
+  - sherwood
+- - dr
+  - henry
+  - hall
+- - remarkable
+  - 'true'
+  - account
+- - two
+  - further
+  - snippets
+- - claimed
+  - could
+  - cure
+- - two
+  - snippets
+  - before
 story:
   date: 2010-03-16
   id: 2010-03-16-two-snippets

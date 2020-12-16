@@ -1,13 +1,19 @@
 ngrams:
-- - hausmeister
-  - geplant
-  - literally
-- - der
-  - hausmeister
-  - geplant
-- - hat
-  - der
-  - hausmeister
+- - german
+  - das
+  - hat
+- - literally
+  - this
+  - must
+- - janitors
+  - 'no'
+  - there
+- - have
+  - been
+  - planned
+- - been
+  - planned
+  - by
 story:
   date: 2011-09-11
   id: 2011-09-11-the-qualities-of-janitors-no-2

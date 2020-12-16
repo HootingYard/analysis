@@ -2,12 +2,18 @@ ngrams:
 - - about
   - them
   - deckhand
-- - fruiterer
-  - s
-  - gleam
-- - s
-  - gleam
-  - cases
+- - deckhand
+  - with
+  - pod
+- - terrifying
+  - deckhand
+  - with
+- - deckhand
+  - with
+  - mop
+- - all
+  - about
+  - them
 story:
   date: 2011-11-15
   id: 2011-11-15-deckhand-with-pod
@@ -15,4 +21,4 @@ story:
     \ in literature, and a terrifying deckhand with a mop, there is a podcast to tell\
     \ you all about them\u2026\nDeckhand With Mop\n"
   title: Deckhand With Pod
-word_count: 39
+word_count: 38

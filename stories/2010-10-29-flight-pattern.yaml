@@ -1,25 +1,37 @@
 ngrams:
-- - henri
-  - lehmann
-  - airlines
-- - lehmann
-  - airlines
-  - satisfied
-- - airlines
-  - satisfied
-  - customer
-- - via
-  - henri
-  - lehmann
-- - yard-related
-  - international
-  - conference
 - - customer
   - saint
   - catherine
 - - satisfied
   - customer
   - saint
+- - bad
+  - bad
+  - heathens
+- - excellent
+  - service
+  - however
+- - made
+  - via
+  - henri
+- - service
+  - however
+  - next
+- - wheel
+  - see
+  - art
+- - can
+  - take
+  - advantage
+- - however
+  - next
+  - time
+- - angels
+  - were
+  - transporting
+- - some
+  - while
+  - before
 story:
   date: 2010-10-29
   id: 2010-10-29-flight-pattern

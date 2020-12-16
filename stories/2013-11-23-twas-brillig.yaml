@@ -1,7 +1,4 @@
 ngrams:
-- - roister
-  - doister
-  - swagger
 - - brillig
   - twas
   - brillig
@@ -20,19 +17,19 @@ ngrams:
 - - seaside
   - chalet
   - o
-- - babbled
-  - guff
-  - until
 - - chalet
   - o
   - prose
+- - babbled
+  - guff
+  - until
 - - pimply
   - youth
   - before
 - - those
   - eerie
   - toads
-- - d
+- - i'd
   - never
   - known
 - - puff
@@ -41,6 +38,30 @@ ngrams:
 - - go
   - go
   - where
+- - babbling
+  - guff
+  - all
+- - instead
+  - they
+  - plugged
+- - afraid
+  - instead
+  - they
+- - least
+  - they
+  - leap
+- - so
+  - fat
+  - forsooth
+- - puffed
+  - up
+  - like
+- - grew
+  - so
+  - fat
+- - brought
+  - me
+  - down
 story:
   date: 2013-11-23
   id: 2013-11-23-twas-brillig
@@ -57,4 +78,4 @@ story:
     \  To my seaside chalet o\u2019 prose\n  To thump my typewriter's leaden keys\n\
     \  And write of hornets, wasps, and bees"
   title: "\u2018Twas Brillig"
-word_count: 172
+word_count: 169

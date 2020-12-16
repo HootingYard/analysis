@@ -5,6 +5,9 @@ ngrams:
 - - finds
   - herself
   - increasingly
+- - mother's
+  - idiosyncratic
+  - english
 - - sister
   - finds
   - herself
@@ -44,6 +47,45 @@ ngrams:
 - - she
   - grows
   - older
+- - idiosyncratic
+  - english
+  - she
+- - written
+  - than
+  - spoken
+- - english
+  - she
+  - spoke
+- - well
+  - pretty
+  - much
+- - still
+  - find
+  - myself
+- - probably
+  - encounter
+  - more
+- - reading
+  - many
+  - years
+- - much
+  - any
+  - response
+- - pretty
+  - much
+  - any
+- - lace
+  - growing
+  - up
+- - late
+  - teens
+  - when
+- - gently
+  - corrected
+  - me
+- - films
+  - we
+  - loved
 story:
   date: 2016-03-06
   id: 2016-03-06-chasm-of-vases
@@ -66,4 +108,4 @@ story:
     \ finds herself increasingly using \u201Cthe Flemish sound\u201D as she grows\
     \ older."
   title: Chasm Of Vases
-word_count: 239
+word_count: 237

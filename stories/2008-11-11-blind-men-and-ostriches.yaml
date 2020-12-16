@@ -1,16 +1,4 @@
 ngrams:
-- - russ
-  - le
-  - roq
-- - gladiator-style
-  - movie
-  - blockbuster
-- - baying
-  - blood-crazed
-  - crowd
-- - high-tech
-  - ostrich
-  - outfit
 - - player
   - russell
   - crowe
@@ -23,9 +11,6 @@ ngrams:
 - - starving
   - ostrich
   - awaits
-- - bouffanted
-  - rockabilly
-  - star
 - - rockabilly
   - star
   - russ
@@ -41,9 +26,78 @@ ngrams:
 - - ancient
   - roman
   - haruspex
+- - can't
+  - help
+  - feeling
 - - artist
   - formerly
   - known
+- - struggling
+  - chicken
+  - whose
+- - men
+  - against
+  - ostriches
+- - own
+  - ostrich
+  - costume
+- - safety
+  - legislation
+  - yet
+- - blind
+  - men
+  - against
+- - our
+  - modern
+  - sensibilities
+- - ostrich
+  - outfit
+  - could
+- - roman
+  - haruspex
+  - who
+- - imagine
+  - him
+  - playing
+- - him
+  - playing
+  - either
+- - ugly
+  - spectacle
+  - 'no'
+- - spectacle
+  - 'no'
+  - doubt
+- - rip
+  - out
+  - pokes
+- - sports
+  - which
+  - thrilled
+- - combat
+  - sports
+  - which
+- - can
+  - imagine
+  - him
+- - prosthetics
+  - an
+  - ostrich
+- - talented
+  - an
+  - actor
+- - out
+  - pokes
+  - its
+- - an
+  - ancient
+  - roman
+- - which
+  - our
+  - hero
+- - let's
+  - say
+  - an
 story:
   date: 2008-11-11
   id: 2008-11-11-blind-men-and-ostriches
@@ -68,4 +122,4 @@ story:
     \ soundtrack of bumptious ditties by Randy Newman, and I suspect this could be\
     \ a surefire hit."
   title: Blind Men And Ostriches
-word_count: 270
+word_count: 267

@@ -8,6 +8,12 @@ ngrams:
 - - my
   - brother
   - poses
+- - query
+  - my
+  - brother
+- - fruit
+  - query
+  - my
 story:
   date: 2014-08-04
   id: 2014-08-04-fruit-query

@@ -8,6 +8,12 @@ ngrams:
 - - pleasure
   - rock
   - n
+- - rock
+  - n
+  - pop
+- - n
+  - pop
+  - news
 story:
   date: 2012-02-19
   id: 2012-02-19-rock-n-pop-n-pod

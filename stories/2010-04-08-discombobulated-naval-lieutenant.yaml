@@ -1,40 +1,58 @@
 ngrams:
-- - amiable
-  - mid-victorian
-  - butt
 - - discombobulated
   - naval
   - lieutenant
 - - naval
   - lieutenant
   - dropping
-- - mid-victorian
-  - butt
-  - martin
-- - martin
-  - tupper
-  - toyed
 - - orders
   - horace
   - wyndham
-- - butt
-  - martin
-  - tupper
-- - pulled
-  - red-hot
-  - coals
 - - holy
   - orders
   - horace
-- - floor
-  - raps
-  - resounded
-- - career
-  - says
-  - tupper
-- - daniel
-  - dunglas
-  - home
+- - took
+  - holy
+  - orders
+- - horace
+  - wyndham
+  - mr
+- - breeze
+  - often
+  - enough
+- - wyndham
+  - mr
+  - sludge
+- - apparently
+  - too
+  - much
+- - often
+  - enough
+  - such
+- - been
+  - effective
+  - since
+- - prayer
+  - this
+  - appears
+- - had
+  - braved
+  - battle
+- - table
+  - rose
+  - from
+- - preliminary
+  - they
+  - were
+- - they
+  - were
+  - instructed
+- - naval
+  - lieutenant
+  - as
+- - lieutenant
+  - dropping
+  - his
 story:
   date: 2010-04-08
   id: 2010-04-08-discombobulated-naval-lieutenant
@@ -51,4 +69,4 @@ story:
     \ took Holy Orders\u2019.\u201D\nHorace Wyndham, Mr Sludge, The Medium\_: Being\
     \ The Life And Adventures Of Daniel Dunglas Home (1937)"
   title: Discombobulated Naval Lieutenant
-word_count: 150
+word_count: 149

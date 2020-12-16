@@ -1,10 +1,4 @@
 ngrams:
-- - pill-peddling
-  - spam
-  - gits
-- - annoying
-  - pill-peddling
-  - spam
 - - inevitable
   - global
   - domination
@@ -20,21 +14,48 @@ ngrams:
 - - application
   - please
   - note
-- - empanelled
-  - further
-  - soup
-- - further
-  - soup
-  - committee
 - - soup
   - committee
   - person
+- - further
+  - soup
+  - committee
 - - until
   - inevitable
   - global
 - - yard
   - wallowing
   - facility
+- - write
+  - something
+  - compelling
+- - wider
+  - world
+  - until
+- - world
+  - until
+  - inevitable
+- - very
+  - sensible
+  - readers
+- - listeners
+  - its
+  - mission
+- - promote
+  - hooting
+  - yard
+- - hooting
+  - yard
+  - wallowing
+- - online
+  - hooting
+  - yard
+- - hooting
+  - yard
+  - throughout
+- - am
+  - extremely
+  - pleased
 story:
   date: 2010-03-30
   id: 2010-03-30-become-empanelled

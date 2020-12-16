@@ -1,13 +1,13 @@
 ngrams:
-- - ten
-  - hours
-  - 'on'
 - - a
   - norwegian
   - train
 - - 'on'
   - a
   - norwegian
+- - hours
+  - 'on'
+  - a
 story:
   date: 2018-09-05
   id: 2018-09-05-ten-hours-on-a-norwegian-train

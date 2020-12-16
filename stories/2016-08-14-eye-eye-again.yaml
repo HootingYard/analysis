@@ -1,19 +1,10 @@
 ngrams:
-- - ex-employer
-  - elkan
-  - allan
 - - effective
   - conversational
   - gambit
 - - stupendously
   - effective
   - conversational
-- - rita
-  - byrne
-  - tull
-- - sister
-  - rita
-  - byrne
 - - needles
   - injected
   - directly
@@ -32,9 +23,6 @@ ngrams:
 - - tuesday
   - injection
   - club
-- - certainly
-  - beats
-  - water-on-the-knee
 - - john
   - f
   - kennedy
@@ -44,6 +32,96 @@ ngrams:
 - - sophisticated
   - cocktail
   - party
+- - met
+  - john
+  - f
+- - lean
+  - insouciantly
+  - against
+- - mad
+  - cow
+  - disease
+- - drop
+  - eyes
+  - boggle
+- - jaws
+  - drop
+  - eyes
+- - conversational
+  - gambit
+  - let
+- - impressive
+  - anecdotes
+  - let
+- - attending
+  - every
+  - fortnight
+- - medical
+  - issues
+  - go
+- - actually
+  - get
+  - invited
+- - passes
+  - 'off'
+  - efficiently
+- - procedure
+  - passes
+  - 'off'
+- - times
+  - though
+  - sadly
+- - eye
+  - eye
+  - again
+- - most
+  - important
+  - lesson
+- - every
+  - fortnight
+  - rather
+- - that's
+  - very
+  - interesting
+- - every
+  - month
+  - until
+- - gambit
+  - let
+  - us
+- - eye
+  - again
+  - last
+- - cocktail
+  - party
+  - where
+- - let
+  - us
+  - imagine
+- - other
+  - guests
+  - approaching
+- - few
+  - times
+  - though
+- - again
+  - last
+  - week
+- - every
+  - two
+  - weeks
+- - mantelpiece
+  - now
+  - picture
+- - various
+  - other
+  - guests
+- - now
+  - picture
+  - various
+- - say
+  - well
+  - that's
 story:
   date: 2016-08-14
   id: 2016-08-14-eye-eye-again
@@ -72,4 +150,4 @@ story:
     \ medical issues go, this one certainly beats water-on-the-knee or mad cow disease\
     \ when it comes to mopping the floor with rival anecdotists."
   title: Eye Eye (Again)
-word_count: 330
+word_count: 328

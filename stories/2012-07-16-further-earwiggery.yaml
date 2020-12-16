@@ -1,19 +1,7 @@
 ngrams:
-- - edward
-  - rice
-  - scribner
 - - beetles
   - evidently
   - attracted
-- - hanning
-  - speke
-  - remembered
-- - melted
-  - butter
-  - speke
-- - candle
-  - exhausted
-  - speke
 - - richard
   - francis
   - burton
@@ -29,21 +17,84 @@ ngrams:
 - - ear
   - infection
   - followed
-- - john
-  - hanning
-  - speke
-- - snopes
-  - com
-  - john
 - - com
   - john
   - hanning
 - - sir
   - richard
   - francis
-- - butter
-  - speke
-  - tried
+- - accident
+  - happened
+  - bits
+- - black
+  - beetles
+  - evidently
+- - tent
+  - became
+  - covered
+- - captain
+  - sir
+  - richard
+- - small
+  - black
+  - beetles
+- - dig
+  - violently
+  - away
+- - horrid
+  - little
+  - insects
+- - little
+  - insects
+  - struggling
+- - penknife
+  - succeeding
+  - only
+- - beetle
+  - only
+  - pushed
+- - seven
+  - months
+  - after
+- - body
+  - came
+  - away
+- - insects
+  - struggling
+  - into
+- - beetle
+  - continued
+  - into
+- - past
+  - description
+  - what
+- - them
+  - crawling
+  - over
+- - those
+  - who
+  - heard
+- - me
+  - almost
+  - deaf
+- - whistled
+  - so
+  - audibly
+- - wax
+  - quotes
+  - are
+- - ear
+  - whistled
+  - so
+- - made
+  - me
+  - almost
+- - queer
+  - sensation
+  - this
+- - sensation
+  - this
+  - amusing
 story:
   date: 2012-07-16
   id: 2012-07-16-further-earwiggery
@@ -68,4 +119,4 @@ story:
     \ as referred to in Captain Sir Richard Francis Burton by Edward Rice, 1990, Scribner's,\
     \ New York.)"
   title: Further Earwiggery
-word_count: 263
+word_count: 260

@@ -11,6 +11,9 @@ ngrams:
 - - p
   - v
   - glob
+- - hound
+  - wait
+  - what's
 - - bog
   - bog
   - spelled
@@ -20,9 +23,9 @@ ngrams:
 - - writer
   - p
   - v
-- - cows
-  - plaintive
-  - moos
+- - uncanny
+  - sound
+  - it's
 - - bog
   - invisible
   - because
@@ -35,15 +38,30 @@ ngrams:
 - - see
   - cows
   - near
-- - god
-  - like
-  - gog
 - - magog
   - gods
   - who
-- - your
-  - winding-sheet
-  - mother
+- - fog
+  - there's
+  - me
+- - oh
+  - bring
+  - me
+- - odd
+  - so
+  - slumped
+- - quite
+  - odd
+  - so
+- - sleeps
+  - all
+  - day
+- - are
+  - really
+  - quite
+- - bring
+  - me
+  - your
 story:
   date: 2013-02-08
   id: 2013-02-08-glob-song
@@ -60,4 +78,4 @@ story:
     \ What's that uncanny sound?\n  It's the sound of the cow-god's bog-side mooing\n\
     \  The sound of my and Gob's undoing."
   title: Glob Song
-word_count: 181
+word_count: 173

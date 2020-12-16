@@ -8,24 +8,24 @@ ngrams:
 - - fresh
   - peels
   - nicely
-- - inspired
-  - jonathan
-  - law
-- - including
-  - baruch
-  - spinoza
-- - peel
-  - tag
-  - fruit
-- - johnson
-  - nay
-  - sir
-- - johnson
-  - nay
-  - sir
 - - samuel
   - johnson
   - ll
+- - inspired
+  - jonathan
+  - law
+- - johnson
+  - ll
+  - d
+- - johnson
+  - nay
+  - sir
+- - johnson
+  - nay
+  - sir
+- - peel
+  - tag
+  - fruit
 - - dry
   - sir
   - boswell
@@ -35,15 +35,93 @@ ngrams:
 - - orange
   - pips
   - ought
-- - johnson
-  - ll
-  - d
 - - learned
   - including
   - baruch
 - - tell
   - johnson
   - nay
+- - pieces
+  - o
+  - sir
+- - sherlock
+  - holmes
+  - having
+- - holmes
+  - having
+  - cleared
+- - next
+  - johnson
+  - nay
+- - james
+  - boswell
+  - too
+- - seville
+  - oranges
+  - after
+- - seems
+  - very
+  - neatly
+- - o
+  - sir
+  - said
+- - some
+  - fresh
+  - peels
+- - further
+  - boswell
+  - then
+- - fight
+  - each
+  - other
+- - them
+  - dry
+  - sir
+- - preceding
+  - night
+  - some
+- - now
+  - partly
+  - see
+- - night
+  - some
+  - fresh
+- - been
+  - frequently
+  - observed
+- - let
+  - them
+  - dry
+- - let
+  - them
+  - dry
+- - 'no'
+  - further
+  - boswell
+- - fate
+  - 'no'
+  - further
+- - pray
+  - sir
+  - what
+- - prevailed
+  - upon
+  - even
+- - having
+  - cleared
+  - up
+- - cut
+  - into
+  - pieces
+- - into
+  - pieces
+  - o
+- - what
+  - next
+  - johnson
+- - what
+  - next
+  - johnson
 story:
   date: 2013-06-14
   id: 2013-06-14-dabbling-with-oranges
@@ -73,4 +151,4 @@ story:
     \ to The Mysterious Case Of Dr Johnson And His Collection Of Orange Peel.\nTag\_\
     : Fruit in literature."
   title: Dabbling With Oranges
-word_count: 329
+word_count: 328

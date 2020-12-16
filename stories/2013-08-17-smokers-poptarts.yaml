@@ -1,13 +1,19 @@
 ngrams:
+- - someone
+  - else's
+  - deadline
+- - meeting
+  - someone
+  - else's
 - - blog
   - meeting
   - someone
-- - meeting
-  - someone
-  - else
 - - deadline
   - always
   - concentrates
+- - else's
+  - deadline
+  - always
 - - toboggan
   - o
   - prose
@@ -35,12 +41,27 @@ ngrams:
 - - get
   - anything
   - done
-- - anguish
-  - anyway
-  - just
 - - hour
   - every
   - week
+- - anguish
+  - anyway
+  - just
+- - brand
+  - new
+  - piece
+- - new
+  - piece
+  - written
+- - hooting
+  - yard
+  - daily
+- - can
+  - happily
+  - gaze
+- - chewing
+  - your
+  - pillows
 story:
   date: 2013-08-17
   id: 2013-08-17-smokers-poptarts
@@ -58,4 +79,4 @@ story:
     \ with a little introduction explaining why I was asked, and one reader's understanding\
     \ of the Glory That Is Hooting Yard. Off you go!"
   title: "Smokers\u2019 Poptarts!"
-word_count: 172
+word_count: 169

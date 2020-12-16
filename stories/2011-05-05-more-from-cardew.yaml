@@ -8,6 +8,12 @@ ngrams:
 - - cardew
   - another
   - splendid
+- - another
+  - splendid
+  - quotation
+- - splendid
+  - quotation
+  - from
 story:
   date: 2011-05-05
   id: 2011-05-05-more-from-cardew

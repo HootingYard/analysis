@@ -1,10 +1,4 @@
 ngrams:
-- - abigail
-  - stanley
-  - hanna
-- - favoured
-  - companions
-  - dragging
 - - narrow
   - marble
   - slab
@@ -17,9 +11,6 @@ ngrams:
 - - marble
   - slab
   - tells
-- - magnificently-titled
-  - withered
-  - leaves
 - - rosy
   - cheeks
   - bright
@@ -32,9 +23,6 @@ ngrams:
 - - whittier
   - sat
   - julia
-- - sat
-  - julia
-  - balcolm
 - - perished
   - limbs
   - behind
@@ -44,6 +32,66 @@ ngrams:
 - - large
   - deep
   - blue
+- - deep
+  - blue
+  - eyes
+- - flashing
+  - black
+  - eyes
+- - yet
+  - uplifting
+  - tale
+- - yon
+  - little
+  - mound
+- - yon
+  - little
+  - mound
+- - mustard
+  - parva
+  - see
+- - parva
+  - see
+  - below
+- - after
+  - year
+  - mingling
+- - dragging
+  - her
+  - useless
+- - companions
+  - dragging
+  - her
+- - her
+  - useless
+  - perished
+- - covers
+  - her
+  - remains
+- - year
+  - after
+  - year
+- - her
+  - history
+  - julia
+- - earth
+  - covers
+  - her
+- - limbs
+  - behind
+  - her
+- - came
+  - year
+  - after
+- - knew
+  - her
+  - history
+- - now
+  - yon
+  - little
+- - she
+  - came
+  - year
 story:
   date: 2013-04-26
   id: 2013-04-26-yon-little-mound-of-heaped-up-earth
@@ -69,4 +117,4 @@ story:
     Would that Edward Gorey were with us still, to illustrate this tear-stained yet
     uplifting tale!'
   title: Yon Little Mound Of Heaped Up Earth
-word_count: 255
+word_count: 252

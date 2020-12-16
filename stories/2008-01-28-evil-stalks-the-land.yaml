@@ -1,25 +1,34 @@
 ngrams:
-- - nicholas
-  - van
-  - hoogstraten
 - - wider
   - world
   - outside
-- - those
-  - bewigged
-  - judges
 - - phrase
   - those
   - judges
-- - van
-  - hoogstraten
-  - back
 - - phrase
   - ever
   - since
 - - seemingly
   - know
   - nothing
+- - judges
+  - who
+  - seemingly
+- - many
+  - years
+  - ago
+- - outside
+  - their
+  - chambers
+- - surprised
+  - if
+  - he's
+- - since
+  - when
+  - filling
+- - world
+  - outside
+  - their
 story:
   date: 2008-01-28
   id: 2008-01-28-evil-stalks-the-land
@@ -31,4 +40,4 @@ story:
     \ if he's used that phrase ever since when filling in his \u201COccupation\u201D\
     \ on documents."
   title: Evil Stalks The Land
-word_count: 86
+word_count: 84

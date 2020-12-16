@@ -2,15 +2,12 @@ ngrams:
 - - kenya
   - correspondent
   - bill
-- - correspondent
-  - bill
-  - hatworn
+- - fireworks
+  - factory
+  - i'll
 - - unknown
   - recipient
   - meet
-- - hatworn
-  - letter
-  - kenya
 - - forthcoming
   - collected
   - letters
@@ -20,18 +17,36 @@ ngrams:
 - - letter
   - kenya
   - correspondent
-- - twentieth
-  - century
-  - although
 - - undated
   - example
   - sent
-- - bill
-  - hatworn
-  - new
-- - hatworn
-  - new
+- - new
   - items
+  - continue
+- - century
+  - although
+  - most
+- - correspondence
+  - has
+  - already
+- - your
+  - muddy
+  - waters
+- - already
+  - been
+  - gathered
+- - recipient
+  - meet
+  - me
+- - me
+  - right
+  - re
+- - hurt
+  - me
+  - much
+- - an
+  - unknown
+  - recipient
 story:
   date: 2013-08-15
   id: 2013-08-15-hatworn-letter
@@ -46,4 +61,4 @@ story:
     \ re: my expenses. I paid through the nose and it hurt me much, but where I goes\
     \ is such and such."
   title: Hatworn Letter
-word_count: 133
+word_count: 131

@@ -1,16 +1,4 @@
 ngrams:
-- - tests
-  - ph
-  - kleinwort-von
-- - ph
-  - kleinwort-von
-  - straubenzee
-- - kleinwort-von
-  - straubenzee
-  - etcetera
-- - bone-being
-  - grew
-  - hot
 - - grew
   - hot
   - glittering
@@ -20,6 +8,9 @@ ngrams:
 - - sat
   - alone
   - reading
+- - man's
+  - victory
+  - over
 - - did
   - tests
   - ph
@@ -41,9 +32,81 @@ ngrams:
 - - scribbled
   - some
   - notes
-- - all
+- - always
+  - raining
+  - when
+- - head
+  - all
   - hail
-  - vabogadabingahobbema
+- - under
+  - an
+  - awning
+- - rain
+  - under
+  - an
+- - bones
+  - from
+  - humans
+- - its
+  - head
+  - all
+- - be
+  - man's
+  - victory
+- - went
+  - out
+  - into
+- - bones
+  - there
+  - were
+- - there
+  - were
+  - bones
+- - sand
+  - at
+  - its
+- - at
+  - its
+  - lower
+- - lower
+  - talons
+  - as
+- - filled
+  - with
+  - sand
+- - box
+  - filled
+  - with
+- - graphs
+  - 'on'
+  - screens
+- - examined
+  - graphs
+  - 'on'
+- - bones
+  - together
+  - with
+- - were
+  - bones
+  - from
+- - against
+  - his
+  - mantelpiece
+- - petri
+  - dishes
+  - he
+- - coddington
+  - lens
+  - he
+- - he
+  - examined
+  - graphs
+- - ayn
+  - rand
+  - he
+- - bulletin
+  - he
+  - examined
 story:
   date: 2009-11-03
   id: 2009-11-03-annals-of-forensic-science
@@ -69,4 +132,4 @@ story:
     \ man's victory over fire.\nWithin, the bone-being grew hot, glittering in the\
     \ firelight."
   title: Annals Of Forensic Science
-word_count: 291
+word_count: 290

@@ -1,37 +1,55 @@
 ngrams:
-- - plaintive
-  - seven-year-old
-  - whining
+- - guests
+  - replied
+  - we're
 - - studio
   - discussion
   - show
 - - single
   - coherent
   - objective
+- - replied
+  - we're
+  - against
 - - big
   - questions
   - rummaging
 - - discussion
   - show
   - called
+- - life
+  - isn't
+  - fair
+- - isn't
+  - fair
+  - perhaps
 - - questions
   - rummaging
   - around
-- - isn
-  - t
-  - fair
+- - fair
+  - perhaps
+  - i'm
+- - questions
+  - well
+  - i'm
 - - those
   - silly
   - masks
 - - big
   - questions
   - well
-- - life
-  - isn
-  - t
-- - t
-  - fair
-  - perhaps
+- - perhaps
+  - i'm
+  - being
+- - being
+  - too
+  - harsh
+- - i'm
+  - being
+  - too
+- - some
+  - unexplained
+  - reason
 story:
   date: 2012-01-22
   id: 2012-01-22-the-big-questions
@@ -47,4 +65,4 @@ story:
     \ the government should be responsible for origami.\nI think this show may be\
     \ unmissable."
   title: The Big Questions
-word_count: 143
+word_count: 139

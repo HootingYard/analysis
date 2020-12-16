@@ -2,48 +2,105 @@ ngrams:
 - - balladeer
   - biff
   - chomsky
-- - tear-stained
-  - balladeer
-  - biff
 - - grumpy
   - avant
   - garde
 - - bearded
   - grumpy
   - avant
-- - garrotted
-  - baby
-  - koala
 - - kittens
   - drowned
   - per
-- - lumbering
-  - walrus-moustached
-  - serial
 - - avant
   - garde
   - german
-- - tear-stained
-  - ballad
-  - approach
 - - garde
   - german
   - nitwits
-- - walrus-moustached
-  - serial
-  - killer
-- - smash
-  - hit
-  - bestseller
 - - baby
   - koala
   - bears
+- - smash
+  - hit
+  - bestseller
 - - strangled
   - puppies
   - songs
 - - slaughtered
   - animals
   - digest
+- - hit
+  - bestseller
+  - songs
+- - drowned
+  - per
+  - song
+- - per
+  - song
+  - whereas
+- - free
+  - tin
+  - pail
+- - several
+  - schmaltzy
+  - ballads
+- - small
+  - slaughtered
+  - animals
+- - daily
+  - small
+  - slaughtered
+- - sing
+  - several
+  - schmaltzy
+- - koala
+  - bears
+  - each
+- - next
+  - album
+  - songs
+- - animals
+  - digest
+  - because
+- - bears
+  - each
+  - copy
+- - though
+  - earlier
+  - numbers
+- - two
+  - kittens
+  - drowned
+- - new
+  - album
+  - comes
+- - song
+  - though
+  - earlier
+- - said
+  - biff
+  - chomsky
+- - waxing
+  - said
+  - biff
+- - duet
+  - said
+  - biff
+- - slightly
+  - higher
+  - than
+- - german
+  - nitwits
+  - such
+- - good
+  - ever
+  - since
+- - ballad
+  - approach
+  - more
+- - listeners
+  - can
+  - collect
 story:
   date: 2017-01-28
   id: 2017-01-28-songs-for-strangled-puppies
@@ -69,4 +126,4 @@ story:
     \nEach copy of the new album comes with a free tin pail in which weeping listeners\
     \ can collect their tears."
   title: Songs For Strangled Puppies
-word_count: 281
+word_count: 276

@@ -1,49 +1,121 @@
 ngrams:
-- - milquetoasts
-  - rhubarbarians
-  - eel-men
-- - rhubarbarians
-  - eel-men
-  - dabblers
-- - tanners
-  - coopers
-  - fletchers
-- - eel-men
-  - dabblers
-  - plotters
-- - tailors
-  - tinkers
-  - oppidans
-- - ditchers
-  - gondoliers
-  - minstrels
-- - coopers
-  - fletchers
-  - tailors
 - - gondoliers
   - minstrels
   - troubadours
-- - minstrels
-  - troubadours
-  - astronauts
-- - fletchers
-  - tailors
-  - tinkers
 - - quakers
   - conjurers
   - reprobates
-- - oppidans
-  - floozies
-  - weathermen
 - - floozies
   - weathermen
   - mavens
-- - toad-headed
-  - robbers
-  - quakers
 - - robbers
   - quakers
   - conjurers
+- - towners
+  - painters
+  - pimps
+- - performers
+  - chappaquiddick
+  - experts
+- - nippers
+  - fanatics
+  - greaseproof
+- - explorers
+  - flappers
+  - jesuits
+- - plotters
+  - coppers
+  - tanners
+- - dabblers
+  - plotters
+  - coppers
+- - staggering
+  - flailing
+  - vomiting
+- - mountaineers
+  - polar
+  - explorers
+- - polar
+  - explorers
+  - flappers
+- - refs
+  - tugboat
+  - captains
+- - rocking
+  - chair
+  - rocking
+- - chair
+  - rocking
+  - creaking
+- - conjurers
+  - reprobates
+  - gas
+- - reprobates
+  - gas
+  - meter
+- - swish
+  - sophisticated
+  - cocktail
+- - antique
+  - italianate
+  - monkey
+- - weathermen
+  - mavens
+  - bus
+- - mavens
+  - bus
+  - conductors
+- - italianate
+  - monkey
+  - doll
+- - various
+  - mountaineers
+  - polar
+- - potters
+  - 'yes'
+  - potters
+- - cocktail
+  - party
+  - attended
+- - horrible
+  - voice
+  - raucous
+- - sophisticated
+  - cocktail
+  - party
+- - sophisticated
+  - cocktail
+  - party
+- - fanatics
+  - greaseproof
+  - paper
+- - pointy
+  - towners
+  - painters
+- - present
+  - including
+  - tarleton
+- - potters
+  - several
+  - potters
+- - gas
+  - meter
+  - readers
+- - munich
+  - air
+  - disaster
+- - shrine
+  - fixed
+  - himself
+- - 'yes'
+  - potters
+  - several
+- - groaning
+  - well
+  - satisfied
+- - long
+  - winter
+  - evening
 story:
   date: 2017-12-29
   id: 2017-12-29-ten-tarleton-tales-ix
@@ -79,4 +151,4 @@ story:
     chair, rocking, creaking, back and forth, through the long winter evening, on
     the night before the Munich Air Disaster.'
   title: "Ten Tarleton Tales\u2014IX"
-word_count: 316
+word_count: 313

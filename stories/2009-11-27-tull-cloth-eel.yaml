@@ -35,6 +35,24 @@ ngrams:
 - - herself
   - himself
   - itself
+- - cloth
+  - eel
+  - here
+- - bulletins
+  - may
+  - follow
+- - further
+  - bulletins
+  - may
+- - hooting
+  - yard
+  - readers
+- - 'no'
+  - means
+  - conclusive
+- - shared
+  - observations
+  - about
 story:
   date: 2009-11-27
   id: 2009-11-27-tull-cloth-eel
@@ -51,4 +69,4 @@ story:
     \ who have a pet eel named Peaches. Sadly, I did not meet Peaches The Eel herself.\
     \ (Himself? Itself?)"
   title: Tull, Cloth, Eel
-word_count: 149
+word_count: 148

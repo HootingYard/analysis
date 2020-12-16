@@ -14,15 +14,27 @@ ngrams:
 - - guy
   - maddin
   - film
-- - twenty-five
-  - different
-  - intertitles
-- - chosen
-  - twenty-five
-  - different
 - - film
   - intertitles
   - advent
+- - living
+  - film
+  - director
+- - finest
+  - living
+  - film
+- - cinema
+  - look
+  - impossibly
+- - look
+  - impossibly
+  - dull
+- - feature
+  - films
+  - make
+- - next
+  - year
+  - today's
 story:
   date: 2017-12-01
   id: 2017-12-01-guy-maddin-film-intertitles-advent-calendar-i
@@ -34,4 +46,4 @@ story:
     I could quite easily have chosen twenty-five different intertitles for this calendar.\
     \ Perhaps next year \u2026\nToday's intertitle is from Odin's Shield Maiden (2006)."
   title: "Guy Maddin Film Intertitles Advent Calendar\u2014I"
-word_count: 99
+word_count: 97

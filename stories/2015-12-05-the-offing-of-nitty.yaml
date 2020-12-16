@@ -2,6 +2,9 @@ ngrams:
 - - peroration
   - monsignor
   - pivot
+- - man's
+  - peroration
+  - delivered
 - - aftermath
   - correct
   - procedures
@@ -14,15 +17,15 @@ ngrams:
 - - desk
   - drawer
   - shut
-- - clipped
-  - together
-  - papers
 - - cadet
   - nitty
   - 'yes'
 - - nitty
   - 'yes'
   - cadet
+- - clipped
+  - together
+  - papers
 - - happen
   - sometimes
   - shamefully
@@ -32,6 +35,9 @@ ngrams:
 - - since
   - gone
   - missing
+- - good
+  - man's
+  - peroration
 - - monsignor
   - pivot
   - took
@@ -44,6 +50,180 @@ ngrams:
 - - terrible
   - thing
   - calamitous
+- - monsignor
+  - pivot
+  - ever
+- - pivot
+  - ever
+  - deliver
+- - terrible
+  - terrible
+  - thing
+- - nobody's
+  - fault
+  - say
+- - sometimes
+  - shamefully
+  - though
+- - poor
+  - beetle
+  - how
+- - peroration
+  - delivered
+  - after
+- - delivered
+  - after
+  - nitty
+- - something
+  - something
+  - motley
+- - find
+  - myself
+  - wondering
+- - only
+  - dust
+  - dust
+- - desk
+  - drawer
+  - where
+- - crows
+  - know
+  - anything
+- - desk
+  - drawer
+  - now
+- - its
+  - aftermath
+  - correct
+- - lost
+  - peroration
+  - now
+- - its
+  - leg
+  - become
+- - sooner
+  - rather
+  - than
+- - world
+  - where
+  - nitty
+- - somewhere
+  - some
+  - glue
+- - can
+  - happen
+  - sometimes
+- - rather
+  - than
+  - later
+- - later
+  - perhaps
+  - even
+- - than
+  - later
+  - perhaps
+- - simply
+  - feel
+  - them
+- - what
+  - monsignor
+  - pivot
+- - desk
+  - drawer
+  - what
+- - procedures
+  - were
+  - neglected
+- - papers
+  - were
+  - signed
+- - correct
+  - procedures
+  - were
+- - cadet
+  - nitty
+  - will
+- - perhaps
+  - even
+  - before
+- - dust
+  - nitty
+  - will
+- - drawer
+  - what
+  - should
+- - myself
+  - wondering
+  - about
+- - dust
+  - soon
+  - if
+- - where
+  - nitty
+  - has
+- - would
+  - monsignor
+  - pivot
+- - adheres
+  - nitty
+  - would
+- - missing
+  - would
+  - monsignor
+- - gone
+  - missing
+  - would
+- - procedures
+  - are
+  - followed
+- - are
+  - followed
+  - correctly
+- - cows
+  - will
+  - still
+- - paperclip
+  - while
+  - they
+- - cows
+  - are
+  - driven
+- - together
+  - papers
+  - which
+- - an
+  - abandoned
+  - paperclip
+- - are
+  - still
+  - sticky
+- - nitty
+  - has
+  - been
+- - know
+  - anything
+  - they
+- - anything
+  - they
+  - know
+- - would
+  - only
+  - add
+- - monsignor
+  - pivot
+  - had
+- - incomplete
+  - beetle
+  - had
+- - drawer
+  - now
+  - there
+- - some
+  - glue
+  - if
+- - more
+  - they
+  - sing
 story:
   date: 2015-12-05
   id: 2015-12-05-the-offing-of-nitty
@@ -89,4 +269,4 @@ story:
     \ on the lawn. If the crows know anything, they know there will be both a harrowing\
     \ and a reckoning. Fetch my gumboots. I am going to the dormitory of monkeys."
   title: The Offing Of Nitty
-word_count: 608
+word_count: 603

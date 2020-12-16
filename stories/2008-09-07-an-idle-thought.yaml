@@ -5,9 +5,15 @@ ngrams:
 - - about
   - sarah
   - palin
-- - about
+- - article
+  - about
   - john
-  - mccain
+- - myself
+  - wondering
+  - if
+- - sarah
+  - palin
+  - which
 story:
   date: 2008-09-07
   id: 2008-09-07-an-idle-thought

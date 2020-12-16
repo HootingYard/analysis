@@ -1,19 +1,28 @@
 ngrams:
-- - morally
-  - uplifing
-  - tale
-- - north
-  - otago
-  - times
 - - german
   - syrup
   - note
 - - papers
   - past
   - carries
+- - don't
+  - work
+  - keep
 - - work
   - keep
   - reading
+- - syrup
+  - note
+  - if
+- - note
+  - if
+  - you're
+- - if
+  - you're
+  - going
+- - they
+  - don't
+  - work
 story:
   date: 2009-09-03
   id: 2009-09-03-hops-or-syrup
@@ -23,4 +32,4 @@ story:
     \ don't work, keep reading, and discover the benefits of German Syrup.\n*NOTE\_\
     : If you're going to practise tautology, do it properly!"
   title: Hops Or Syrup
-word_count: 67
+word_count: 65

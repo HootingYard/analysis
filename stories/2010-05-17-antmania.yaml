@@ -1,19 +1,7 @@
 ngrams:
-- - typewriters
-  - letraset
-  - biros
-- - flawless
-  - money-making
-  - plot
 - - hugely
   - popular
   - absurdly
-- - fanzine
-  - entitled
-  - antmania
-- - late
-  - malcolm
-  - mclaren
 - - umpteen
   - thousand
   - orders
@@ -26,24 +14,123 @@ ngrams:
 - - p
   - plus
   - postage
-- - favourite
-  - pop
-  - group
-- - entitled
-  - antmania
-  - using
 - - small
   - ads
   - columns
 - - guilt
   - older
   - readers
-- - pre-internet
+- - seminal
+  - publication
+  - myself
+- - publication
+  - myself
+  - alas
+- - few
+  - poor
+  - teenyboppers
+- - quite
+  - obviously
+  - sitting
+- - while
+  - hugely
+  - popular
+- - copies
+  - ever
+  - sold
+- - those
+  - faint
+  - pangs
+- - our
+  - photocopying
+  - costs
+- - can't
+  - recall
+  - how
+- - our
+  - advertisement
+  - failed
+- - cover
+  - our
+  - photocopying
+- - yard
+  - reader
+  - today
+- - pop
+  - group
+  - only
+- - even
+  - song
+  - lyrics
+- - ants
+  - even
+  - song
+- - hooting
+  - yard
+  - reader
+- - now
+  - quite
+  - obviously
+- - teenyboppers
+  - who
+  - shelled
+- - far
+  - 'off'
   - days
-  - typewriters
-- - days
-  - typewriters
-  - letraset
+- - recall
+  - how
+  - much
+- - poor
+  - teenyboppers
+  - who
+- - reader
+  - today
+  - who
+- - photocopying
+  - costs
+  - what
+- - 'no'
+  - doubt
+  - due
+- - those
+  - far
+  - 'off'
+- - lyrics
+  - about
+  - ants
+- - facts
+  - about
+  - ants
+- - records
+  - were
+  - selling
+- - twaddle
+  - about
+  - ants
+- - about
+  - ants
+  - pictures
+- - about
+  - p
+  - plus
+- - concocted
+  - what
+  - seemed
+- - about
+  - ants
+  - including
+- - song
+  - lyrics
+  - about
+- - charged
+  - probably
+  - about
+- - probably
+  - about
+  - p
+- - more
+  - than
+  - p
 story:
   date: 2010-05-17
   id: 2010-05-17-antmania
@@ -74,4 +161,4 @@ story:
     \ my guilt is somewhat assuaged.\nI no longer have a copy of this seminal publication\
     \ myself, alas."
   title: Antmania!
-word_count: 358
+word_count: 355

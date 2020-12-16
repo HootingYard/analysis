@@ -1,49 +1,103 @@
 ngrams:
-- - papists
-  - burn
-  - repent
-- - papist
-  - apothecary
-  - drowned
-- - bog
-  - papist
-  - apothecary
-- - papist
-  - mountain
-  - apothecary
+- - weak
+  - he'll
+  - pamper
+- - renown
+  - i'll
+  - shove
+- - tie
+  - he's
+  - treated
+- - catholic
+  - tie
+  - he's
+- - sick
+  - i'll
+  - vomit
 - - tick
   - almighty
   - god
 - - protestant
   - count
   - oh
-- - treated
+- - he's
+  - treated
   - several
-  - popes
 - - seek
   - ah
   - look
-- - ll
+- - great
+  - renown
+  - i'll
+- - i'll
   - march
   - 'off'
+- - goat's
+  - our
+  - hero's
+- - weakened
+  - goat's
+  - our
 - - burn
   - repent
   - before
+- - our
+  - hero's
+  - pet
+- - down
+  - he's
+  - taking
+- - log
+  - now
+  - i'll
+- - now
+  - i'll
+  - march
 - - daily
   - log
   - now
 - - apothecary
   - come
   - back
-- - papist
-  - apothecary
-  - do
+- - town
+  - where
+  - there's
 - - him
   - tick
   - almighty
-- - ll
+- - i'll
   - shove
   - him
+- - makes
+  - him
+  - tick
+- - back
+  - down
+  - he's
+- - i'll
+  - vomit
+  - up
+- - climbs
+  - who
+  - does
+- - come
+  - back
+  - down
+- - thin
+  - when
+  - one's
+- - me
+  - sick
+  - i'll
+- - makes
+  - me
+  - sick
+- - so
+  - weak
+  - he'll
+- - oh
+  - we
+  - ate
 story:
   date: 2009-09-14
   id: 2009-09-14-papist-mountain-apothecary
@@ -66,4 +120,4 @@ story:
     \ I watch the Papists burn. Repent! Before it is your turn, and shudder at my\
     \ name."
   title: Papist Mountain Apothecary
-word_count: 279
+word_count: 268

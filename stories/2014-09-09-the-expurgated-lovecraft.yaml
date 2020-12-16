@@ -2,9 +2,6 @@ ngrams:
 - - adjectives
   - adverbs
   - verbs
-- - gambolling
-  - bunny
-  - rabbits
 - - terrifying
   - adjectives
   - adverbs
@@ -44,6 +41,63 @@ ngrams:
 - - real
   - work
   - began
+- - myself
+  - found
+  - rabbits
+- - because
+  - quite
+  - frankly
+- - many
+  - potential
+  - readers
+- - least
+  - myself
+  - found
+- - work
+  - because
+  - quite
+- - past
+  - several
+  - years
+- - new
+  - friend
+  - how
+- - potential
+  - readers
+  - who
+- - passages
+  - were
+  - reduced
+- - whole
+  - passages
+  - were
+- - mercilessly
+  - correlating
+  - all
+- - bid
+  - me
+  - farewell
+- - simply
+  - deleting
+  - all
+- - lacked
+  - heft
+  - so
+- - quite
+  - frankly
+  - they
+- - an
+  - expurgated
+  - lovecraft
+- - who
+  - has
+  - devoted
+- - this
+  - scheme
+  - lovecraft
+- - frankly
+  - they
+  - do
 story:
   date: 2014-09-09
   id: 2014-09-09-the-expurgated-lovecraft
@@ -69,4 +123,4 @@ story:
     \ bid me farewell, and I sat alone at the caf\xE9 table, mercilessly correlating\
     \ all the contents of my mind."
   title: The Expurgated Lovecraft
-word_count: 269
+word_count: 268

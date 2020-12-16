@@ -1,10 +1,4 @@
 ngrams:
-- - experienced
-  - swarfega
-  - pratfalls
-- - swarfega
-  - pratfalls
-  - q
 - - slightly
   - hysterical
   - explanatory
@@ -20,24 +14,51 @@ ngrams:
 - - differences
   - between
   - pitfalls
-- - often
-  - experienced
-  - swarfega
 - - black
   - starless
   - night
-- - tea
-  - shoppe
-  - every
-- - old
-  - ma
-  - popsicle
 - - q
   - dear
   - mr
 - - town
   - turn
   - left
+- - pointy
+  - town
+  - turn
+- - keep
+  - going
+  - until
+- - dear
+  - mr
+  - key
+- - every
+  - day
+  - between
+- - interest
+  - your
+  - piece
+- - great
+  - interest
+  - your
+- - tumbling
+  - water
+  - which
+- - your
+  - readers
+  - if
+- - water
+  - which
+  - can
+- - have
+  - often
+  - experienced
+- - myself
+  - have
+  - often
+- - turn
+  - left
+  - by
 story:
   date: 2017-02-12
   id: 2017-02-12-swarfega-pratfalls
@@ -54,4 +75,4 @@ story:
     \ Town. (Turn left by the cement statue of Hattie Jacques and keep going until\
     \ you hear the roar and slosh of a mighty cataract of tumbling water.)"
   title: Swarfega Pratfalls
-word_count: 163
+word_count: 162

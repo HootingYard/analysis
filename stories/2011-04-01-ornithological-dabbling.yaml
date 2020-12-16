@@ -1,16 +1,19 @@
 ngrams:
-- - birds
-  - innit
-  - oh
-- - birds
-  - long-time
-  - readers
+- - dabbler
+  - i've
+  - devoted
+- - cheek
+  - whether
+  - it's
 - - stumbling
   - through
   - mental
 - - through
   - mental
   - fog
+- - think
+  - that's
+  - correct
 - - fall
   - over
   - unlike
@@ -26,18 +29,33 @@ ngrams:
 - - just
   - fly
   - away
-- - ve
+- - i've
   - devoted
   - some
 - - than
   - stumbling
   - through
-- - pea-sized
-  - brain
+- - brain
   - can
+  - bear
 - - devoted
   - some
   - words
+- - lore
+  - some
+  - say
+- - shove
+  - when
+  - push
+- - when
+  - push
+  - comes
+- - if
+  - push
+  - comes
+- - learn
+  - about
+  - birds
 story:
   date: 2011-04-01
   id: 2011-04-01-ornithological-dabbling
@@ -54,4 +72,4 @@ story:
     to learn about birds of the air, more than my pea-sized brain can bear. But rather
     than stumbling through mental fog, I read words of wisdom in The Dabbler blog.'
   title: Ornithological Dabbling
-word_count: 160
+word_count: 157

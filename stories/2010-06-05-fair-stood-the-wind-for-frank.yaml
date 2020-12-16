@@ -1,19 +1,7 @@
 ngrams:
-- - dungareed
-  - operative
-  - peeking
 - - suitably
   - authoritative
   - journal
-- - somewhat
-  - effete
-  - wave
-- - wind-interested
-  - persons
-  - subscribe
-- - dungareed
-  - operative
-  - outside
 - - wind
   - tunnel
   - waiting
@@ -44,6 +32,114 @@ ngrams:
 - - full
   - force
   - took
+- - force
+  - took
+  - rather
+- - after
+  - peer
+  - review
+- - published
+  - after
+  - peer
+- - took
+  - rather
+  - longer
+- - hurled
+  - back
+  - against
+- - taken
+  - just
+  - seconds
+- - one's
+  - laurels
+  - even
+- - nor
+  - likely
+  - ever
+- - several
+  - times
+  - these
+- - must
+  - never
+  - rest
+- - its
+  - full
+  - force
+- - reach
+  - its
+  - full
+- - stood
+  - up
+  - gave
+- - buffeted
+  - into
+  - cushions
+- - exactly
+  - what
+  - happened
+- - were
+  - important
+  - experiments
+- - help
+  - me
+  - marshal
+- - them
+  - published
+  - after
+- - cushions
+  - we
+  - repeated
+- - carry
+  - out
+  - further
+- - sprawled
+  - there
+  - buffeted
+- - porthole
+  - saw
+  - me
+- - out
+  - further
+  - important
+- - frank
+  - 'yes'
+  - there
+- - mighty
+  - wind
+  - would
+- - being
+  - buffeted
+  - into
+- - 'no'
+  - watch
+  - upon
+- - times
+  - these
+  - were
+- - these
+  - were
+  - important
+- - watching
+  - me
+  - through
+- - authoritative
+  - journal
+  - one
+- - has
+  - been
+  - accepted
+- - important
+  - experiments
+  - one
+- - paper
+  - has
+  - been
+- - experiments
+  - one
+  - must
+- - train
+  - or
+  - boat
 story:
   date: 2010-06-05
   id: 2010-06-05-fair-stood-the-wind-for-frank
@@ -75,4 +171,4 @@ story:
     further important experiments. One must never rest on one''s laurels, even in
     a wind tunnel.'
   title: Fair Stood The Wind For Frank
-word_count: 378
+word_count: 377

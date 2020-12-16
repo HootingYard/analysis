@@ -2,24 +2,9 @@ ngrams:
 - - clam
   - chowder
   - wafers
-- - nasal
-  - fumigation
-  - siphon-and-pump
-- - oats
-  - barley
-  - thieveries
-- - citrus
-  - husks
-  - blancmange
-- - husks
-  - blancmange
-  - lemon
 - - exemplary
   - slicing
   - implement
-- - fumigation
-  - siphon-and-pump
-  - contraption
 - - dried
   - citrus
   - husks
@@ -35,15 +20,168 @@ ngrams:
 - - targeted
   - electrical
   - voltage
-- - siphon-and-pump
-  - contraption
-  - specially
 - - meat
   - oats
   - barley
 - - baked
   - turnips
   - cocoa
+- - pastries
+  - dried
+  - citrus
+- - unidentified
+  - meat
+  - oats
+- - turnips
+  - cocoa
+  - powder
+- - voltage
+  - delivery
+  - contraption
+- - pies
+  - cereals
+  - chunks
+- - electrical
+  - voltage
+  - delivery
+- - storage
+  - baked
+  - turnips
+- - attach
+  - electrical
+  - wires
+- - crackers
+  - clam
+  - chowder
+- - nasal
+  - passages
+  - cleared
+- - delivery
+  - contraption
+  - specially
+- - rubber
+  - glove
+  - pigmentation
+- - sharp
+  - exemplary
+  - slicing
+- - spoon
+  - plums
+  - balsamic
+- - balsamic
+  - vinegar
+  - toffee
+- - plums
+  - balsamic
+  - vinegar
+- - winter
+  - storage
+  - baked
+- - today's
+  - botany
+  - lesson
+- - rubber
+  - gloves
+  - worn
+- - lemon
+  - curd
+  - bog
+- - animal
+  - innards
+  - gravy
+- - funnel
+  - rubber
+  - gloves
+- - squirrels
+  - winter
+  - storage
+- - curd
+  - bog
+  - sludge
+- - vinegar
+  - toffee
+  - pudding
+- - powder
+  - blood
+  - oranges
+- - sixth
+  - floor
+  - canteen
+- - sixth
+  - floor
+  - canteen
+- - cocoa
+  - powder
+  - blood
+- - oranges
+  - various
+  - animal
+- - various
+  - animal
+  - innards
+- - light
+  - ale
+  - pastries
+- - big
+  - sharp
+  - exemplary
+- - become
+  - apparent
+  - immersion
+- - blood
+  - oranges
+  - various
+- - high
+  - voltages
+  - using
+- - both
+  - extreme
+  - heat
+- - shall
+  - thoroughly
+  - sniff
+- - rubber
+  - gloves
+  - should
+- - contraption
+  - specially
+  - made
+- - contraption
+  - specially
+  - made
+- - exemplary
+  - distance
+  - through
+- - our
+  - nasal
+  - passages
+- - our
+  - rubber
+  - gloves
+- - immediately
+  - after
+  - lunch
+- - real
+  - world
+  - thus
+- - take
+  - place
+  - immediately
+- - other
+  - exemplary
+  - temperatures
+- - having
+  - first
+  - boiled
+- - pails
+  - then
+  - transferred
+- - place
+  - immediately
+  - after
+- - world
+  - thus
+  - far
 story:
   date: 2008-04-01
   id: 2008-04-01-botany-lesson
@@ -84,4 +222,4 @@ story:
     \ format, to be completed in pencil. The rubber gloves should be disposed of down\
     \ a chute, the location of which will be announced in due time. Any questions?"
   title: Botany Lesson
-word_count: 496
+word_count: 490

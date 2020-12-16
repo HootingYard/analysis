@@ -2,16 +2,22 @@ ngrams:
 - - just
   - war
   - according
-- - king
-  - s
-  - puissance
 - - jean
   - racine
   - is
+- - racine
+  - is
+  - occasioned
+- - king's
+  - puissance
+  - is
+- - is
+  - occasioned
+  - when
 story:
   date: 2013-05-13
   id: 2013-05-13-a-just-war
   text: "A just war, according to Jean Racine, is occasioned when \u201Ca King's puissance\
     \ is ruin'd in the eyes of strangers\u201D."
   title: A Just War
-word_count: 25
+word_count: 23

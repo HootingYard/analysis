@@ -1,19 +1,25 @@
 ngrams:
-- - bo
-  - peep
-  - hendiadys
 - - luck
   - miss
   - blossom
-- - miss
-  - blossom
-  - partridge
-- - possibly
-  - magnetic
-  - etherwaves
 - - little
   - bo
   - peep
+- - doris
+  - hot
+  - 'off'
+- - mr
+  - key
+  - turns
+- - air
+  - mr
+  - key
+- - back
+  - next
+  - week
+- - babbling
+  - about
+  - doris
 story:
   date: 2017-11-30
   id: 2017-11-30-babbling-about-doris
@@ -25,4 +31,4 @@ story:
     of Doris Stockhausen. With luck, Miss Blossom Partridge''s Knitting Half-Hour
     will be back next week.'
   title: Babbling About Doris
-word_count: 64
+word_count: 62

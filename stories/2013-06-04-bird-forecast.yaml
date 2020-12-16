@@ -1,10 +1,10 @@
 ngrams:
+- - vera
+  - lynn
+  - there'll
 - - dame
   - vera
   - lynn
-- - dover-based
-  - organisation
-  - cliffwatch
 - - dame
   - vera
   - lynn
@@ -14,30 +14,48 @@ ngrams:
 - - frankly
   - dame
   - vera
+- - today's
+  - guest
+  - forecaster
 - - special
   - guest
   - dame
-- - still-throbbing
-  - hot
-  - entrails
+- - england
+  - today's
+  - guest
+- - chops
+  - tomorrow's
+  - bird
+- - tomorrow's
+  - bird
+  - forecast
 - - dover
   - tomorrow
   - note
 - - bird
   - forecasts
   - provided
-- - south-east
-  - england
-  - today
 - - past
   - seven
   - decades
 - - quite
   - frankly
   - dame
-- - organisation
-  - cliffwatch
-  - those
+- - yard
+  - bird
+  - forecast
+- - tomorrow
+  - note
+  - hooting
+- - bird
+  - forecast
+  - here
+- - pronouncements
+  - after
+  - reading
+- - those
+  - people
+  - wouldn't
 story:
   date: 2013-06-04
   id: 2013-06-04-bird-forecast
@@ -55,4 +73,4 @@ story:
     \ know a haruspex if one came up and biffed them in the chops.\nTomorrow's bird\
     \ forecast will be presented by special guest Dame Vera Lynn."
   title: Bird Forecast
-word_count: 163
+word_count: 159

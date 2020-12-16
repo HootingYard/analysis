@@ -1,10 +1,7 @@
 ngrams:
-- - latest
-  - seventy-year-old
-  - entry
-- - daily
-  - totals
-  - confident
+- - george
+  - orwell's
+  - diary
 - - times
   - exclusive
   - concentration
@@ -23,6 +20,21 @@ ngrams:
 - - draw
   - your
   - attention
+- - should
+  - draw
+  - your
+- - certain
+  - about
+  - number
+- - are
+  - equally
+  - fascinated
+- - somewhat
+  - alarming
+  - so
+- - this
+  - egg
+  - business
 story:
   date: 2008-12-28
   id: 2008-12-28-egg-update
@@ -35,4 +47,4 @@ story:
     26\u201328.12.38 Have been ill. Not certain about number of eggs, but about 9.\n\
     Not certain? Get a grip, George, get a grip!"
   title: Egg Update
-word_count: 104
+word_count: 103

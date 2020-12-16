@@ -5,9 +5,15 @@ ngrams:
 - - eileen
   - gives
   - george
+- - george
+  - orwell's
+  - daily
 - - larger
   - egg
   - count
+- - orwell's
+  - daily
+  - egg
 - - daily
   - egg
   - count
@@ -17,15 +23,15 @@ ngrams:
 - - certain
   - questions
   - raining
+- - today's
+  - entry
+  - however
 - - rarely
   - three
   - eggs
 - - secret
   - omelette
   - perhaps
-- - eggery
-  - while
-  - eileen
 - - errand
   - making
   - himself
@@ -38,12 +44,51 @@ ngrams:
 - - questions
   - raining
   - most
-- - own
-  - volition
-  - today
-- - seventy
-  - years
-  - ago
+- - egg
+  - count
+  - than
+- - very
+  - rarely
+  - three
+- - day
+  - cold
+  - eggs
+- - reported
+  - between
+  - now
+- - eileen
+  - has
+  - commandeered
+- - how
+  - many
+  - eggs
+- - diary
+  - has
+  - george
+- - her
+  - own
+  - purposes
+- - egg
+  - count
+  - has
+- - george
+  - been
+  - lying
+- - see
+  - how
+  - many
+- - when
+  - eileen
+  - gives
+- - can
+  - only
+  - guess
+- - are
+  - keeping
+  - abreast
+- - been
+  - higher
+  - than
 story:
   date: 2009-04-25
   id: 2009-04-25-a-startling-number-of-eggs
@@ -66,4 +111,4 @@ story:
     \ eggs are reported between now and the ninth of May, when Eileen gives George\
     \ his pen back.\_"
   title: A Startling Number Of Eggs
-word_count: 250
+word_count: 247

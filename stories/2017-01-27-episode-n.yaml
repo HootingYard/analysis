@@ -17,12 +17,27 @@ ngrams:
 - - features
   - mr
   - key
-- - approaching
-  - its
-  - thirteenth
-- - its
-  - thirteenth
-  - anniversary
+- - mr
+  - key
+  - reading
+- - fanatical
+  - listener
+  - out
+- - has
+  - kept
+  - such
+- - whatever
+  - number
+  - we
+- - enlighten
+  - us
+  - all
+- - air
+  - which
+  - features
+- - somewhere
+  - who
+  - has
 story:
   date: 2017-01-27
   id: 2017-01-27-episode-n
@@ -35,4 +50,4 @@ story:
     \ fanatical listener out there somewhere who has kept such a tally\u2014if so,\
     \ I hope they would get in touch and enlighten us all."
   title: Episode N
-word_count: 107
+word_count: 106

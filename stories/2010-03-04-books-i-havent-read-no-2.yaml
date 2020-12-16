@@ -1,16 +1,16 @@
 ngrams:
-- - haven
-  - t
-  - read
-- - t
+- - haven't
   - read
   - 'no'
 - - books
   - i
-  - haven
+  - haven't
+- - i
+  - haven't
+  - read
 story:
   date: 2010-03-04
   id: 2010-03-04-books-i-havent-read-no-2
   text: ''
   title: Books I Haven't Read, No. 2
-word_count: 6
+word_count: 5

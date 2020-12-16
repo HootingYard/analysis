@@ -1,28 +1,43 @@
 ngrams:
-- - ruffle
-  - marcel
-  - duchamp
 - - cornell
   - mentioning
   - casually
-- - spectator
-  - martin
-  - gayford
 - - joseph
   - cornell
   - exhibition
 - - french
   - cornell
   - mentioning
-- - martin
-  - gayford
-  - tells
 - - weekend
   - meanwhile
   - reviewing
 - - enormous
   - detail
   - building
+- - words
+  - cornell
+  - spent
+- - tells
+  - us
+  - cornell
+- - mentioning
+  - casually
+  - only
+- - casually
+  - only
+  - afterwards
+- - much
+  - looking
+  - forward
+- - never
+  - travelled
+  - further
+- - further
+  - than
+  - maine
+- - travelled
+  - further
+  - than
 story:
   date: 2015-07-06
   id: 2015-07-06-stunned-duchamp
@@ -36,4 +51,4 @@ story:
     \ his entire life on Utopia Parkway in New York, and never travelled further than\
     \ Maine."
   title: Stunned Duchamp
-word_count: 105
+word_count: 104

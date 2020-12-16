@@ -5,21 +5,33 @@ ngrams:
 - - cope
   - either
   - mentally
-- - accur
-  - d
-  - orb
 - - damnable
   - weather
   - whatever
 - - weather
   - whatever
   - happened
-- - brave
-  - helios
-  - well
-- - helios
-  - well
-  - brave
+- - happily
+  - see
+  - blotted
+- - see
+  - blotted
+  - out
+- - would
+  - happily
+  - see
+- - has
+  - been
+  - occasioned
+- - mentally
+  - or
+  - physically
+- - or
+  - wholly
+  - extinguished
+- - either
+  - mentally
+  - or
 story:
   date: 2018-07-25
   id: 2018-07-25-brave-helios
@@ -31,4 +43,4 @@ story:
     \ see blotted out, or wholly extinguished. I shall pray for rain, or, better,\
     \ a howling blizzard,, and resume tippy-tapping when I am able."
   title: Brave Helios!
-word_count: 94
+word_count: 93

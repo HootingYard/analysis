@@ -2,15 +2,21 @@ ngrams:
 - - arranging
   - entertainments
   - featuring
-- - entertainments
-  - featuring
-  - high-pitched
-- - featuring
-  - high-pitched
-  - discordant
-- - high-pitched
-  - discordant
-  - screaming
+- - th
+  - birthday
+  - rejoice
+- - yoko
+  - ono's
+  - th
+- - ono's
+  - th
+  - birthday
+- - it's
+  - yoko
+  - ono's
+- - plates
+  - piled
+  - high
 story:
   date: 2017-02-18
   id: 2017-02-18-84-today
@@ -22,4 +28,4 @@ story:
 
     '
   title: 84 Today!
-word_count: 54
+word_count: 52

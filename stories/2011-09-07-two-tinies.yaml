@@ -5,30 +5,27 @@ ngrams:
 - - polka
   - dot
   - frock
-- - heroic
-  - clubfooted
-  - infant
 - - homunculus
   - possibly
   - malevolent
 - - mercury
   - music
   - prize
-- - music
-  - prize
-  - awards
-- - clubfooted
-  - infant
-  - usually
 - - writes
   - tim
   - thurn
+- - music
+  - prize
+  - awards
 - - enid
   - please
   - enlighten
 - - infant
   - usually
   - dressed
+- - isn't
+  - strictly
+  - 'true'
 - - person
   - tinie
   - tempah
@@ -38,12 +35,42 @@ ngrams:
 - - extant
   - tinies
   - tiny
-- - thurn
-  - always
-  - keen
 - - tim
   - thurn
   - always
+- - thurn
+  - always
+  - keen
+- - key
+  - writes
+  - tim
+- - young
+  - pop
+  - person
+- - tinies
+  - tiny
+  - enid
+- - tiny
+  - enid
+  - apart
+- - tiny
+  - enid
+  - please
+- - popular
+  - culture
+  - last
+- - culture
+  - last
+  - evening
+- - tell
+  - tiny
+  - enid
+- - excellent
+  - tiny
+  - tiny
+- - tinies
+  - dear
+  - mr
 story:
   date: 2011-09-07
   id: 2011-09-07-two-tinies
@@ -68,4 +95,4 @@ story:
 
     I hope this clears the matter up to your satisfaction.'
   title: Two Tinies
-word_count: 196
+word_count: 195

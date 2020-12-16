@@ -2,18 +2,15 @@ ngrams:
 - - onward
   - christian
   - soldier
-- - christian
-  - soldier
-  - sabine
 - - biography
   - onward
   - christian
 - - hats
   - mrs
   - goodwin
-- - sabine
-  - baring-gould
-  - week
+- - wife's
+  - hats
+  - mrs
 - - progressed
   - found
   - themselves
@@ -38,12 +35,51 @@ ngrams:
 - - let
   - us
   - begin
+- - her
+  - husband's
+  - pupil
 - - extreme
   - her
-  - husband
+  - husband's
 - - dress
   - herself
   - could
+- - she
+  - went
+  - shopping
+- - some
+  - extent
+  - shown
+- - hooting
+  - yard
+  - let
+- - yard
+  - let
+  - us
+- - understand
+  - who
+  - supervised
+- - inspect
+  - her
+  - before
+- - us
+  - begin
+  - then
+- - advisory
+  - capacity
+  - when
+- - before
+  - she
+  - left
+- - those
+  - bishops
+  - who
+- - will
+  - furnish
+  - much
+- - her
+  - before
+  - she
 story:
   date: 2010-12-05
   id: 2010-12-05-hat-advisor
@@ -64,4 +100,4 @@ story:
     \ progressed, found themselves faced by forces greater than they were equipped\
     \ to understand. Who supervised his wife's choice of hats in Carlisle is not recorded.\u201D"
   title: Hat Advisor
-word_count: 226
+word_count: 222

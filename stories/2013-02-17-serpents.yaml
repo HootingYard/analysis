@@ -1,13 +1,4 @@
 ngrams:
-- - charles
-  - portis
-  - gringos
-- - serpents
-  - charles
-  - portis
-- - serpents
-  - emmett
-  - lived
 - - broken
   - fan
   - belt
@@ -17,6 +8,27 @@ ngrams:
 - - way
   - louise
   - turned
+- - just
+  - drove
+  - right
+- - drove
+  - right
+  - over
+- - women
+  - were
+  - easily
+- - trailer
+  - park
+  - out
+- - were
+  - easily
+  - taken
+- - an
+  - old
+  - broken
+- - by
+  - serpents
+  - charles
 story:
   date: 2013-02-17
   id: 2013-02-17-serpents
@@ -27,4 +39,4 @@ story:
     \ one?\u201D\nI told her he was already dead and that women were easily taken\
     \ in by serpents.\nCharles Portis, Gringos (1991)\n"
   title: Serpents
-word_count: 81
+word_count: 80

@@ -1,16 +1,7 @@
 ngrams:
-- - light-reflecting
-  - booster
-  - technology
 - - maxwell
   - davies
   - calls
-- - comment
-  - arrives
-  - rahul
-- - arrives
-  - rahul
-  - tells
 - - peter
   - maxwell
   - davies
@@ -35,6 +26,33 @@ ngrams:
 - - cannot
   - help
   - wondering
+- - india
+  - weeks
+  - after
+- - weeks
+  - after
+  - posting
+- - brief
+  - lives
+  - over
+- - its
+  - era
+  - again
+- - help
+  - wondering
+  - if
+- - booster
+  - technology
+  - but
+- - model
+  - too
+  - had
+- - lives
+  - over
+  - at
+- - refrigerator
+  - but
+  - 'no'
 story:
   date: 2013-09-24
   id: 2013-09-24-one-of-the-best-refrigerators-in-india
@@ -50,4 +68,4 @@ story:
     \ Davies calls his refrigerator, but no doubt it, too, is a state of the art model,\
     \ crammed with electrocuted swans."
   title: One Of The Best Refrigerators In India
-word_count: 153
+word_count: 149

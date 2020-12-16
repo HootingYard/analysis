@@ -2,18 +2,12 @@ ngrams:
 - - comedies
   - romantic
   - comedies
-- - dotcoms
-  - respectively
-  - situation
 - - respectively
   - situation
   - comedies
 - - situation
   - comedies
   - romantic
-- - bestselling
-  - paperback
-  - author
 - - farmer
   - frack
   - driving
@@ -23,27 +17,93 @@ ngrams:
 - - tv
   - series
   - based
-- - six-part
-  - television
-  - series
 - - television
   - series
   - penitence
-- - paperback
-  - author
-  - pebblehead
-- - pebblehead
-  - whose
-  - hilarious
 - - lawn
   - tennis
   - rather
 - - ping
   - pong
   - rather
+- - hours
+  - god
+  - sends
 - - without
   - comic
   - possibility
+- - small
+  - wading
+  - bird
+- - absolutely
+  - without
+  - comic
+- - old
+  - farmer
+  - driving
+- - say
+  - ping
+  - pong
+- - old
+  - farmer
+  - frack
+- - old
+  - farmer
+  - frack
+- - mad
+  - old
+  - farmer
+- - common
+  - usage
+  - much
+- - yet
+  - another
+  - com
+- - com
+  - too
+  - many
+- - too
+  - many
+  - normally
+- - series
+  - based
+  - upon
+- - tennis
+  - rather
+  - than
+- - pong
+  - rather
+  - than
+- - might
+  - equally
+  - well
+- - term
+  - will
+  - win
+- - comedies
+  - about
+  - old
+- - about
+  - old
+  - farmer
+- - arctic
+  - tundra
+  - so
+- - implements
+  - which
+  - insists
+- - based
+  - upon
+  - them
+- - farm
+  - implements
+  - which
+- - family
+  - which
+  - breeds
+- - plover
+  - family
+  - which
 story:
   date: 2008-01-07
   id: 2008-01-07-a-new-com

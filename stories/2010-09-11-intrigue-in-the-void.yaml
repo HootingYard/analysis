@@ -1,13 +1,7 @@
 ngrams:
-- - circular
-  - self-referential
-  - knot
 - - screen
   - blah
   - blah
-- - final
-  - formatty
-  - fiddlesticks
 - - blank
   - screen
   - blah
@@ -17,9 +11,6 @@ ngrams:
 - - pewter
   - pot
   - gazing
-- - writing
-  - new-minted
-  - blather
 - - blah
   - blah
   - blodgett
@@ -38,12 +29,114 @@ ngrams:
 - - cows
   - blah
   - blah
-- - proofreadnig
-  - second
-  - tranche
+- - s
+  - pulp
+  - magazine
 - - less
   - mighty
   - questions
+- - questions
+  - themselves
+  - form
+- - questions
+  - however
+  - lengthy
+- - intrigue
+  - takes
+  - place
+- - yard
+  - lulu
+  - paperback
+- - new
+  - blank
+  - screen
+- - that's
+  - why
+  - it's
+- - mighty
+  - questions
+  - yet
+- - nonsense
+  - ie
+  - dobson
+- - blah
+  - blah
+  - dobson
+- - blah
+  - dobson
+  - blah
+- - dobson
+  - blah
+  - blah
+- - well
+  - meanwhile
+  - instead
+- - constantly
+  - need
+  - new
+- - need
+  - new
+  - material
+- - postage
+  - itself
+  - these
+- - bit
+  - quiet
+  - over
+- - hooting
+  - yard
+  - lulu
+- - pulp
+  - magazine
+  - could
+- - questions
+  - yet
+  - just
+- - some
+  - s
+  - pulp
+- - next
+  - hooting
+  - yard
+- - why
+  - hooting
+  - yard
+- - needed
+  - some
+  - kind
+- - twaddle
+  - much
+  - like
+- - void
+  - what
+  - sort
+- - yard
+  - has
+  - gone
+- - lulu
+  - paperback
+  - will
+- - blah
+  - blah
+  - there
+- - lengthy
+  - would
+  - deserve
+- - hooting
+  - yard
+  - has
+- - however
+  - lengthy
+  - would
+- - put
+  - something
+  - into
+- - are
+  - mighty
+  - questions
+- - are
+  - less
+  - mighty
 story:
   date: 2010-09-11
   id: 2010-09-11-intrigue-in-the-void
@@ -74,4 +167,4 @@ story:
     \ up there in what would be a void if it were not for the very stars with which\
     \ it is riddled."
   title: Intrigue In The Void
-word_count: 379
+word_count: 375

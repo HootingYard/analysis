@@ -2,9 +2,6 @@ ngrams:
 - - icarus
   - ike
   - pappas
-- - wnew
-  - reporter
-  - icarus
 - - reporter
   - icarus
   - ike
@@ -17,6 +14,18 @@ ngrams:
 - - lee
   - harvey
   - oswald
+- - jack
+  - ruby
+  - shoots
+- - club
+  - holy
+  - mackerel
+- - name
+  - jack
+  - ruby
+- - vision
+  - two
+  - clips
 story:
   date: 2011-04-05
   id: 2011-04-05-sound-and-vision
@@ -28,4 +37,4 @@ story:
     \ \u201CHe runs the Carousel Club?\u201D Holy mackerel! \n      [This clip was\
     \ lost to time, sorry.] "
   title: Sound And Vision
-word_count: 77
+word_count: 76

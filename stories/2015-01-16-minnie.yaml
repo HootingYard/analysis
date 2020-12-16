@@ -1,19 +1,25 @@
 ngrams:
-- - testament
-  - standup
-  - comedy
-- - standup
-  - comedy
-  - night
 - - case
   - anybody
   - wishes
-- - piece
-  - called
-  - belshazzar
-- - old
+- - feast
+  - so
+  - far
+- - an
+  - old
   - testament
-  - standup
+- - wall
+  - for
+  - minnie
+- - am
+  - not
+  - sure
+- - gag
+  - at
+  - an
+- - at
+  - an
+  - old
 story:
   date: 2015-01-16
   id: 2015-01-16-minnie
@@ -24,4 +30,4 @@ story:
     it here in case anybody wishes to use it as a gag at an Old Testament standup
     comedy night.'
   title: Minnie
-word_count: 64
+word_count: 63

@@ -1,10 +1,4 @@
 ngrams:
-- - margery
-  - verner
-  - reed
-- - margery
-  - verner
-  - reed
 - - bitter
   - lydia
   - risen
@@ -17,15 +11,15 @@ ngrams:
 - - futurist
   - stories
   - abridged
-- - extraordinary
-  - futurist
-  - stories
 - - soul
   - rose
   - petals
 - - belgian
   - chateau
   - play
+- - extraordinary
+  - futurist
+  - stories
 - - verner
   - reed
   - published
@@ -41,9 +35,135 @@ ngrams:
 - - piercing
   - wind
   - blew
+- - merry
+  - school
+  - children
 - - shattered
   - homes
   - brought
+- - prose
+  - petals
+  - tireless
+- - passionate
+  - sometimes
+  - hallucinatory
+- - children
+  - laughed
+  - brought
+- - bulky
+  - th
+  - century
+- - prison
+  - speak
+  - speak
+- - speak
+  - speak
+  - angel
+- - th
+  - century
+  - novels
+- - hallucinatory
+  - prose
+  - unlike
+- - woman
+  - strange
+  - weird
+- - strange
+  - weird
+  - music
+- - england
+  - whose
+  - son
+- - sometimes
+  - hallucinatory
+  - prose
+- - prose
+  - unlike
+  - anything
+- - abandoned
+  - house
+  - sat
+- - snow
+  - shining
+  - under
+- - few
+  - hurrying
+  - pedestrians
+- - school
+  - children
+  - going
+- - gethsemane
+  - again
+  - swept
+- - once
+  - children
+  - laughed
+- - brought
+  - famine
+  - once
+- - small
+  - room
+  - blue
+- - old
+  - gypsy
+  - tune
+- - eaten
+  - crumbs
+  - little
+- - weird
+  - old
+  - gypsy
+- - little
+  - fool
+  - muttered
+- - crumbs
+  - little
+  - fool
+- - muttering
+  - old
+  - woman
+- - famine
+  - once
+  - birds
+- - stories
+  - abridged
+  - through
+- - hour's
+  - skating
+  - before
+- - old
+  - woman
+  - strange
+- - skating
+  - before
+  - dusk
+- - swept
+  - over
+  - christ
+- - brought
+  - skeletons
+  - where
+- - children
+  - going
+  - down
+- - now
+  - abandoned
+  - house
+- - keep
+  - her
+  - warm
+- - again
+  - swept
+  - over
+- - some
+  - siberian
+  - prison
+- - skeletons
+  - where
+  - once
+- - thinking
+  - too
+  - much
 story:
   date: 2010-04-22
   id: 2010-04-22-futurist-stories-abridged
@@ -83,4 +203,4 @@ story:
     \ Prose Petals. Tireless literary researchers are implored to add their ha'porth\
     \ in the Comments."
   title: Futurist Stories (Abridged)
-word_count: 446
+word_count: 444

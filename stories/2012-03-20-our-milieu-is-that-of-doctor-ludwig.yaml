@@ -1,19 +1,28 @@
 ngrams:
-- - beat
-  - combo
-  - practising
 - - music
   - rehearsal
   - studio
-- - sleater-kinney
-  - cover
-  - version
 - - cover
   - version
   - consisted
 - - rehearsal
   - studio
   - within
+- - single
+  - line
+  - repeated
+- - doctor
+  - ludwig
+  - last
+- - ludwig
+  - very
+  - melodious
+- - doctor
+  - ludwig
+  - very
+- - ludwig
+  - last
+  - night
 story:
   date: 2012-03-20
   id: 2012-03-20-our-milieu-is-that-of-doctor-ludwig
@@ -23,4 +32,4 @@ story:
     \ version\u2014consisted of a single line, repeated over and over again: \u201C\
     Our milieu is that of Doctor Ludwig\u201D. Very melodious."
   title: Our Milieu Is That Of Doctor Ludwig
-word_count: 68
+word_count: 67

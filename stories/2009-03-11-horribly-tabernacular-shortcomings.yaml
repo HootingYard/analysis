@@ -1,25 +1,37 @@
 ngrams:
-- - quincey
-  - protestantism
-  - tait
-- - horribly
-  - tabernacular
-  - shortcomings
-- - incidentally
-  - lodowicke
-  - muggleton
-- - de
-  - quincey
-  - protestantism
 - - edinburgh
   - magazine
   - incidentally
-- - magazine
-  - incidentally
-  - lodowicke
-- - field-preachers
-  - thomas
+- - thomas
   - de
+  - quincey
+- - our
+  - scottish
+  - brethren
+- - often
+  - found
+  - themselves
+- - gentleman
+  - could
+  - allow
+- - could
+  - allow
+  - himself
+- - who
+  - often
+  - found
+- - brethren
+  - would
+  - resign
+- - scottish
+  - brethren
+  - would
+- - would
+  - resign
+  - together
+- - 'no'
+  - gentleman
+  - could
 story:
   date: 2009-03-11
   id: 2009-03-11-horribly-tabernacular-shortcomings
@@ -32,4 +44,4 @@ story:
     \ Lodowicke Muggleton had a pathological hatred of Scotchmen, who often found\
     \ themselves on the receiving end of Muggletonian curses.\_"
   title: Horribly Tabernacular Shortcomings
-word_count: 91
+word_count: 90

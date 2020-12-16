@@ -1,31 +1,16 @@
 ngrams:
-- - sixty-nine-year-old
-  - yuri
-  - ticiuc
 - - remote
   - russian
   - republic
+- - legs
+  - they're
+  - damaged
 - - farm
   - workers
   - nearby
-- - cold
-  - sixty-nine-year-old
-  - yuri
 - - getting
   - really
   - weak
-- - yuri
-  - ticiuc
-  - told
-- - ticiuc
-  - told
-  - reporters
-- - dense
-  - woodlands
-  - until
-- - too
-  - cold
-  - sixty-nine-year-old
 - - became
   - too
   - weak
@@ -35,15 +20,87 @@ ngrams:
 - - than
   - rotten
   - hay
-- - back
-  - home
-  - ticiuc
 - - old
   - world
   - column
-- - couldn
-  - t
-  - find
+- - funny
+  - old
+  - world
+- - wife's
+  - cooking
+  - her
+- - better
+  - than
+  - rotten
+- - cooking
+  - her
+  - soup
+- - some
+  - farm
+  - workers
+- - speaking
+  - after
+  - being
+- - after
+  - being
+  - lost
+- - saw
+  - some
+  - farm
+- - way
+  - back
+  - home
+- - her
+  - soup
+  - may
+- - matter
+  - what
+  - happens
+- - any
+  - idea
+  - where
+- - complaint
+  - turned
+  - into
+- - me
+  - i'm
+  - lucky
+- - doctors
+  - tell
+  - me
+- - tell
+  - me
+  - i'm
+- - all
+  - started
+  - because
+- - got
+  - so
+  - angry
+- - row
+  - about
+  - her
+- - woods
+  - an
+  - exciting
+- - an
+  - exciting
+  - tale
+- - save
+  - them
+  - 'no'
+- - them
+  - 'no'
+  - matter
+- - 'no'
+  - matter
+  - what
+- - damaged
+  - from
+  - frostbite
+- - woodland
+  - peril
+  - from
 story:
   date: 2012-06-22
   id: 2012-06-22-lost-in-the-woods
@@ -67,4 +124,4 @@ story:
     \ in future, that's the last time I ever criticise my wife's cooking. Her soup\
     \ may be cold and tasteless, but anything is better than rotten hay.\u201D"
   title: Lost In The Woods
-word_count: 284
+word_count: 278

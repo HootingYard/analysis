@@ -2,18 +2,12 @@ ngrams:
 - - bumptious
   - newsreader
   - krishnan
-- - newsreader
-  - krishnan
-  - guru-murthy
 - - surrounding
   - bumptious
   - newsreader
 - - cult
   - surrounding
   - bumptious
-- - krishnan
-  - guru-murthy
-  - compare
 - - bulb
   - cult
   - offering
@@ -41,6 +35,33 @@ ngrams:
 - - thousands
   - nay
   - millions
+- - albeit
+  - flimsy
+  - evidence
+- - cemetery
+  - reportedly
+  - taken
+- - event
+  - reportedly
+  - taken
+- - show
+  - three
+  - figures
+- - find
+  - thousands
+  - nay
+- - reportedly
+  - taken
+  - last
+- - first
+  - albeit
+  - flimsy
+- - taken
+  - last
+  - week
+- - these
+  - two
+  - snaps
 story:
   date: 2011-11-09
   id: 2011-11-09-the-eerie-cult-of-krishnan-guru-murthy

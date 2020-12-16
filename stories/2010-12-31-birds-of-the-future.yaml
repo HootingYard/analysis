@@ -1,7 +1,4 @@
 ngrams:
-- - scum-coated
-  - rainwater
-  - toodle
 - - rainwater
   - toodle
   - pip
@@ -11,9 +8,6 @@ ngrams:
 - - gains
   - eldritch
   - insight
-- - moral
-  - code
-  - wilfully
 - - driven
   - insane
   - unless
@@ -23,18 +17,18 @@ ngrams:
 - - dr
   - ruth
   - pastry
-- - woohoohoodiwoo
-  - woman
-  - anyway
 - - important
   - sporting
   - fixtures
+- - year's
+  - important
+  - sporting
+- - coming
+  - year's
+  - important
 - - pattern
   - thus
   - formed
-- - birds
-  - including
-  - avocets
 - - mention
   - birds
   - knowing
@@ -44,6 +38,96 @@ ngrams:
 - - certain
   - birds
   - including
+- - new
+  - year
+  - whatsoever
+- - happy
+  - new
+  - year
+- - very
+  - careful
+  - study
+- - must
+  - dash
+  - because
+- - every
+  - subject
+  - under
+- - depend
+  - upon
+  - acute
+- - year
+  - whatsoever
+  - may
+- - future
+  - without
+  - first
+- - without
+  - first
+  - making
+- - upon
+  - acute
+  - reading
+- - bird
+  - any
+  - bird
+- - whatsoever
+  - may
+  - come
+- - may
+  - become
+  - birds
+- - think
+  - well
+  - known
+- - upon
+  - every
+  - subject
+- - accurate
+  - forecasts
+  - about
+- - eldritch
+  - insight
+  - into
+- - then
+  - mr
+  - key
+- - them
+  - may
+  - become
+- - ruth
+  - pastry
+  - so
+- - might
+  - wrench
+  - out
+- - wrench
+  - out
+  - its
+- - one
+  - gains
+  - eldritch
+- - would
+  - never
+  - presume
+- - owls
+  - one
+  - gains
+- - ornithological
+  - perspicacity
+  - this
+- - myself
+  - would
+  - never
+- - know
+  - which
+  - type
+- - perspicacity
+  - this
+  - came
+- - missive
+  - arrives
+  - from
 story:
   date: 2010-12-31
   id: 2010-12-31-birds-of-the-future
@@ -73,4 +157,4 @@ story:
     \ every subject under the sun, and I shall be driven insane unless I silence it\
     \ by plunging it into a bucket of scum-coated rainwater. Toodle pip!"
   title: Birds Of The Future
-word_count: 349
+word_count: 346

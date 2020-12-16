@@ -1,22 +1,7 @@
 ngrams:
-- - foul-smelling
-  - extraterrestrial
-  - hideousness
-- - foul-smelling
-  - extraterrestrial
-  - hideousness
 - - bicycle
   - clips
   - jarvis
-- - pneumonia-racked
-  - assistant
-  - cubbit
-- - lantern-jawed
-  - assistant
-  - jarvis
-- - emitting
-  - gruesome
-  - suppurations
 - - baleful
   - phantom
   - emitting
@@ -35,15 +20,147 @@ ngrams:
 - - poor
   - lad
   - scampered
-- - sudden
-  - gruesome
-  - suppurations
 - - extraterrestrial
   - hideousness
   - began
 - - hideousness
   - began
   - oozing
+- - scream
+  - spinning
+  - round
+- - four
+  - uncanny
+  - tales
+- - malevolent
+  - iv
+  - hand
+- - bird
+  - scientist
+  - devoted
+- - tiny
+  - radio
+  - transmitter
+- - sorry
+  - life
+  - ii
+- - words
+  - earlier
+  - versions
+- - spookily
+  - sitting
+  - next
+- - kennedy
+  - assassination
+  - far
+- - bird
+  - scientist
+  - look
+- - hundred
+  - words
+  - earlier
+- - doing
+  - something
+  - foolish
+- - extraterrestrial
+  - being
+  - suppurating
+- - mrs
+  - purgative
+  - well
+- - jarvis
+  - being
+  - engulfed
+- - being
+  - suppurating
+  - greasy
+- - four
+  - stories
+  - each
+- - lad
+  - scampered
+  - back
+- - hideous
+  - extraterrestrial
+  - being
+- - hundred
+  - years
+  - iii
+- - uncanny
+  - tales
+  - here
+- - saw
+  - jarvis
+  - being
+- - day
+  - blomqvist
+  - died
+- - bright
+  - summer's
+  - day
+- - assassination
+  - far
+  - far
+- - ever
+  - set
+  - foot
+- - exclaimed
+  - she
+  - hoisted
+- - next
+  - hundred
+  - years
+- - hoisted
+  - her
+  - mop
+- - living
+  - being
+  - ever
+- - thing
+  - she
+  - exclaimed
+- - her
+  - shoulder
+  - took
+- - far
+  - far
+  - away
+- - being
+  - ever
+  - set
+- - called
+  - him
+  - blomqvist
+- - found
+  - him
+  - lying
+- - other
+  - living
+  - being
+- - post
+  - office
+  - 'no'
+- - led
+  - him
+  - far
+- - funnel
+  - inserted
+  - into
+- - she
+  - exclaimed
+  - she
+- - she
+  - hoisted
+  - her
+- - passing
+  - pantechnicon
+  - all
+- - blomqvist
+  - died
+  - they
+- - ear
+  - they
+  - closed
 story:
   date: 2010-11-08
   id: 2010-11-08-four-uncanny-tales
@@ -80,4 +197,4 @@ story:
     \ she exclaimed. She hoisted her mop on her shoulder, took Cubbit by his withered\
     \ hand, and led him far away, all the way to Gondwanaland."
   title: Four Uncanny Tales
-word_count: 437
+word_count: 435

@@ -1,4 +1,7 @@
 ngrams:
+- - baby
+  - gazelle
+  - who'd
 - - nausea
   - spiritual
   - despair
@@ -17,9 +20,9 @@ ngrams:
 - - regime
   - entitled
   - perking
-- - self-help
-  - regime
-  - entitled
+- - king
+  - jasper's
+  - castle
 - - memorable
   - utterances
   - thus
@@ -32,18 +35,78 @@ ngrams:
 - - perhaps
   - worth
   - noting
-- - foopball
-  - world
-  - cup
 - - report
   - perhaps
   - worth
-- - very
-  - talented
-  - foopballer
+- - gazelle
+  - who'd
+  - just
+- - who'd
+  - just
+  - plopped
 - - utterances
   - thus
   - far
+- - complete
+  - silence
+  - here
+- - originally
+  - broadcast
+  - over
+- - its
+  - electrical
+  - wiring
+- - jasper's
+  - castle
+  - its
+- - castle
+  - its
+  - electrical
+- - wiring
+  - system
+  - its
+- - such
+  - past
+  - gems
+- - system
+  - its
+  - janitor
+- - match
+  - such
+  - past
+- - broadcast
+  - over
+  - two
+- - two
+  - years
+  - ago
+- - perking
+  - up
+  - begins
+- - several
+  - times
+  - more
+- - entitled
+  - perking
+  - up
+- - mojo
+  - clearly
+  - what
+- - over
+  - two
+  - years
+- - times
+  - more
+  - than
+- - time
+  - being
+  - while
+- - your
+  - attention
+  - first
+- - just
+  - plopped
+  - out
 story:
   date: 2014-06-23
   id: 2014-06-23-perking-up
@@ -69,4 +132,4 @@ story:
     \ none the worse for that.\nKing Jasper's Castle, Its Electrical Wiring System,\
     \ Its Janitor, And Its Chatelaine\n"
   title: Perking Up
-word_count: 296
+word_count: 292

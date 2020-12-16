@@ -5,21 +5,33 @@ ngrams:
 - - democrats
   - elect
   - chris
-- - elect
-  - chris
-  - huhne
-- - geoff
-  - hoon
-  - oust
-- - oust
-  - gordon
-  - brown
-- - hoon
-  - oust
-  - gordon
 - - reinvigorate
   - british
   - politics
+- - sees
+  - geoff
+  - hoon
+- - gordon
+  - brown
+  - step
+- - british
+  - politics
+  - step
+- - party
+  - sees
+  - geoff
+- - labour
+  - party
+  - sees
+- - ditch
+  - david
+  - cameron
+- - step
+  - three
+  - returning
+- - brown
+  - step
+  - three
 story:
   date: 2007-10-17
   id: 2007-10-17-the-reinvigoration-of-british-politics-in-three-easy-steps

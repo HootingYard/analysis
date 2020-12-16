@@ -2,38 +2,26 @@ ngrams:
 - - caruso
   - bing
   - crosby
-- - clare
-  - aunt-maud-
-  - rpm
-- - endured
-  - endless
-  - caruso
 - - endless
   - caruso
   - bing
-- - roland
-  - clare
-  - aunt-maud-
 - - vocal
   - refrain
   - section
-- - wishes
-  - roland
-  - clare
-- - wind-up
-  - gramophone
-  - remained
+- - reader's
+  - digest
+  - correspondence
 - - late
   - grandmother
   - lived
-- - used
-  - declicking
-  - software
+- - didn't
+  - simply
+  - cancel
 - - best
   - wishes
   - roland
-- - white-label
-  - readers
+- - important
+  - reader's
   - digest
 - - leave
   - copies
@@ -44,6 +32,66 @@ ngrams:
 - - digest
   - records
   - always
+- - readers
+  - digest
+  - s
+- - rpm
+  - record
+  - every
+- - record
+  - every
+  - month
+- - records
+  - always
+  - got
+- - always
+  - got
+  - broken
+- - s
+  - still
+  - extant
+- - pretty
+  - tame
+  - these
+- - digest
+  - s
+  - still
+- - post
+  - dear
+  - mr
+- - tame
+  - these
+  - days
+- - dear
+  - mr
+  - key
+- - gramophone
+  - she
+  - explained
+- - magazines
+  - she
+  - received
+- - never
+  - wondered
+  - why
+- - she
+  - didn't
+  - simply
+- - copies
+  - outside
+  - her
+- - never
+  - allowed
+  - us
+- - outside
+  - her
+  - door
+- - why
+  - she
+  - didn't
+- - wondered
+  - why
+  - she
 story:
   date: 2012-05-12
   id: 2012-05-12-important-readers-digest-correspondence
@@ -67,4 +115,4 @@ story:
     \ the damage at the end. Doubtless we have the Royal Mail to thank for that.\n\
     Best wishes\n  Roland Clare\n\u266B\u266B\u266B aunt-maud-78rpm \u266B\u266B\u266B"
   title: Important Reader's Digest Correspondence
-word_count: 260
+word_count: 253

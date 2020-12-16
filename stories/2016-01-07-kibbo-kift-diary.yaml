@@ -1,28 +1,40 @@
 ngrams:
-- - wanstead
-  - tap
-  - pub
-- - gallery
-  - february
-  - treadwell
 - - whitechapel
   - gallery
   - february
-- - wit
-  - wanstead
-  - tap
-- - bradford
-  - january
-  - kibbo
-- - january
-  - kibbo
-  - kift
 - - whitechapel
   - gallery
   - march
 - - e
   - january
   - university
+- - occult
+  - bookshop
+  - london
+- - marx
+  - memorial
+  - library
+- - bookshop
+  - london
+  - february
+- - tap
+  - pub
+  - london
+- - gallery
+  - march
+  - talk
+- - art
+  - whitechapel
+  - gallery
+- - pub
+  - london
+  - e
+- - london
+  - e
+  - january
+- - socialism
+  - series
+  - marx
 story:
   date: 2016-01-07
   id: 2016-01-07-kibbo-kift-diary
@@ -48,4 +60,4 @@ story:
 
     '
   title: Kibbo Kift Diary
-word_count: 103
+word_count: 102

@@ -1,37 +1,52 @@
 ngrams:
-- - singalonga
-  - dan
-  - fogelberg
-- - bomber
-  - pm
-  - singalonga
-- - satin
-  - pm
-  - cold-hearted
-- - avant-garde
-  - japanese
-  - beatle-wife
-- - avant-garde
-  - japanese
-  - beatle-wife
-- - pm
-  - cold-hearted
-  - orb
 - - underpants
   - bomber
   - pm
-- - goat-slaughter
-  - pm
-  - blessing
-- - china
-  - pm
-  - slopping-out
-- - pm
-  - singalonga
-  - dan
 - - beatnik
   - pm
   - blessing
+- - dan
+  - fogelberg
+  - service
+- - socks
+  - pm
+  - interfaith
+- - bank
+  - holiday
+  - services
+- - fogelberg
+  - service
+  - pm
+- - pm
+  - interfaith
+  - service
+- - service
+  - pm
+  - personal
+- - cotton
+  - socks
+  - pm
+- - pm
+  - personal
+  - appearance
+- - news
+  - pm
+  - remembrance
+- - channel
+  - news
+  - pm
+- - white
+  - satin
+  - pm
+- - m
+  - special
+  - ringo
+- - special
+  - ringo
+  - service
+- - passed
+  - pm
+  - nights
 story:
   date: 2013-08-26
   id: 2013-08-26-bank-holiday-services-at-st-bibblybibdibs
@@ -50,4 +65,4 @@ story:
     \ Biscuits\n  11.00 PM\u2014Tea And Oranges That Come All The Way From China\n\
     \  12.00 PM\u2014Slopping-Out"
   title: Bank Holiday Services At St Bibblybibdib's
-word_count: 134
+word_count: 131

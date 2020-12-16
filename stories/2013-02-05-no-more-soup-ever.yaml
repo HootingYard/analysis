@@ -2,15 +2,15 @@ ngrams:
 - - valet
   - manolo
   - sanchez
+- - president's
+  - valet
+  - manolo
 - - minister
   - pierre
   - trudeau
 - - prime
   - minister
   - pierre
-- - richard
-  - milhous
-  - nixon
 - - diametrically
   - opposite
   - view
@@ -26,15 +26,33 @@ ngrams:
 - - action
   - memo
   - went
+- - men
+  - don't
+  - really
+- - morning
+  - we've
+  - got
 - - mr
   - fadhley
   - pointed
 - - soup
   - mr
   - fadhley
+- - next
+  - morning
+  - we've
 - - well
   - haldeman
   - began
+- - president's
+  - suit
+  - after
+- - dinner
+  - last
+  - night
+- - first
+  - state
+  - dinner
 story:
   date: 2013-02-05
   id: 2013-02-05-no-more-soup-ever
@@ -51,4 +69,4 @@ story:
     \ after that dinner last night?\u201D\n\u201CYes. He spilled soup down the vest.\u201D\
     \nThe action memo went out\_: No more soup, ever."
   title: No More Soup, Ever
-word_count: 154
+word_count: 148

@@ -1,49 +1,169 @@
 ngrams:
-- - toad-like
-  - creatures
-  - feb
-- - r
-  - acland-troyte
-  - feb
+- - friend's
+  - scotch
+  - terrier
+- - dog's
+  - probable
+  - object
 - - burying
   - frogs
   - alive
-- - frogs
-  - toad-like
-  - creatures
-- - obliged
-  - r
-  - acland-troyte
-- - dogs
-  - frogs
-  - toad-like
-- - frances
-  - power
-  - cobbe
 - - reasoning
   - power
   - affection
 - - underground
   - frances
   - power
-- - st
-  - loe
-  - strachey
 - - intelligence
   - reasoning
   - power
-- - j
-  - st
-  - loe
 - - rendered
   - public
   - service
 - - degree
   - unpleasant
   - probably
-- - every
-  - toad-like
-  - creature
+- - last
+  - degree
+  - unpleasant
+- - toad
+  - showed
+  - every
+- - showed
+  - every
+  - sign
+- - frogs
+  - most
+  - uncomfortable
+- - frog
+  - still
+  - alive
+- - dog
+  - having
+  - bitten
+- - harm's
+  - way
+  - underground
+- - way
+  - underground
+  - frances
+- - spectator
+  - being
+  - anecdotes
+- - manner
+  - another
+  - dog
+- - unpleasant
+  - probably
+  - mr
+- - work
+  - having
+  - dug
+- - much
+  - obliged
+  - r
+- - mouth
+  - very
+  - gently
+- - loose
+  - earth
+  - back
+- - same
+  - way
+  - bitten
+- - another
+  - dog
+  - having
+- - scraped
+  - earth
+  - over
+- - now
+  - dogs
+  - generally
+- - alive
+  - now
+  - dogs
+- - throw
+  - any
+  - light
+- - throw
+  - any
+  - light
+- - ground
+  - she
+  - stamped
+- - then
+  - scraped
+  - earth
+- - very
+  - much
+  - obliged
+- - like
+  - manner
+  - another
+- - burying
+  - them
+  - alive
+- - readers
+  - can
+  - throw
+- - readers
+  - can
+  - throw
+- - could
+  - find
+  - frogs
+- - dog
+  - then
+  - went
+- - frog
+  - down
+  - upon
+- - ever
+  - dug
+  - them
+- - meal
+  - if
+  - sir
+- - then
+  - went
+  - 'off'
+- - any
+  - light
+  - upon
+- - can
+  - throw
+  - any
+- - can
+  - throw
+  - any
+- - went
+  - more
+  - than
+- - them
+  - alive
+  - now
+- - ever
+  - afterwards
+  - when
+- - earth
+  - back
+  - into
+- - another
+  - frog
+  - which
+- - dug
+  - them
+  - up
+- - keeping
+  - one
+  - eye
+- - earth
+  - keeping
+  - one
+- - your
+  - readers
+  - can
 story:
   date: 2011-01-02
   id: 2011-01-02-dogs-n-frogs-n-toad-like-creatures
@@ -80,4 +200,4 @@ story:
     \ Of Dogs, Selected From The Correspondence Columns Of The Spectator by J St Loe\
     \ Strachey (1895)"
   title: Dogs & Frogs & Toad-Like Creatures
-word_count: 449
+word_count: 444

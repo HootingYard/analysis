@@ -1,34 +1,49 @@
 ngrams:
-- - submerged
-  - lead-lined
-  - silo
-- - lead-lined
-  - silo
-  - containing
-- - well-known
-  - christmas
-  - carol
-- - tivol
-  - recently
-  - fossicked
-- - athlete
-  - bobnit
-  - tivol
-- - bobnit
-  - tivol
-  - recently
-- - fictional
-  - athlete
-  - bobnit
-- - bobnit
-  - tivol
-  - himself
 - - further
   - ado
-  - let
+  - let's
+- - ado
+  - let's
+  - get
+- - let's
+  - get
+  - cracking
 - - without
   - further
   - ado
+- - commit
+  - each
+  - part
+- - too
+  - real
+  - old
+- - festive
+  - season
+  - we
+- - christmas
+  - carol
+  - so
+- - all
+  - too
+  - real
+- - carol
+  - so
+  - without
+- - one
+  - festive
+  - season
+- - one
+  - researchers
+  - working
+- - so
+  - without
+  - further
+- - during
+  - one
+  - festive
+- - posting
+  - this
+  - list
 story:
   date: 2011-12-25
   id: 2011-12-25-the-twelve-days-day-one
@@ -42,4 +57,4 @@ story:
     \ So without further ado, let's get cracking:\nOn the first day of Christmas,\
     \ Old Halob gave to me\nA viper, a shrew, and a bee."
   title: "The Twelve Days\_: Day One"
-word_count: 124
+word_count: 123

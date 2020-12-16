@@ -5,9 +5,6 @@ ngrams:
 - - plotters
   - hateful
   - guttural
-- - hateful
-  - guttural
-  - gabbling
 - - efficient
   - spying
   - methods
@@ -38,12 +35,99 @@ ngrams:
 - - bonfires
   - bonfires
   - just
+- - year
+  - ago
+  - today
 - - plotters
   - those
   - seedy
 - - those
   - seedy
   - fellows
+- - our
+  - highly
+  - efficient
+- - mud
+  - flats
+  - where
+- - could
+  - match
+  - sound
+- - plotter
+  - who
+  - plotted
+- - crowds
+  - who
+  - cheer
+- - seedy
+  - fellows
+  - who
+- - teeming
+  - crowds
+  - who
+- - their
+  - tent
+  - wrapped
+- - tent
+  - wrapped
+  - up
+- - being
+  - spied
+  - upon
+- - bonfires
+  - just
+  - like
+- - bonfire
+  - just
+  - like
+- - their
+  - heads
+  - filming
+- - its
+  - very
+  - birth
+- - flies
+  - above
+  - their
+- - plotting
+  - cronies
+  - were
+- - cronies
+  - were
+  - huddled
+- - above
+  - their
+  - heads
+- - were
+  - rightly
+  - burned
+- - ho
+  - ho
+  - they
+- - spies
+  - they
+  - picked
+- - ho
+  - they
+  - didn't
+- - were
+  - being
+  - spied
+- - picked
+  - so
+  - remote
+- - very
+  - birth
+  - when
+- - our
+  - methods
+  - were
+- - tiny
+  - devices
+  - so
+- - an
+  - effigy
+  - burns
 story:
   date: 2008-09-10
   id: 2008-09-10-bonfire
@@ -72,4 +156,4 @@ story:
     \ by the plotters, those seedy fellows who were rightly burned on a bonfire just\
     \ like this a year ago today."
   title: Bonfire
-word_count: 348
+word_count: 346

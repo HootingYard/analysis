@@ -5,27 +5,42 @@ ngrams:
 - - petula
   - clark
   - cuttings
-- - box-office
-  - hit
-  - american
 - - hit
   - american
   - snipe
 - - clark
   - cuttings
   - thanks
-- - entitled
-  - american
-  - snipper
 - - movie
   - entitled
   - american
-- - american
-  - snipper
-  - following
-- - max
-  - d
-  - charn
+- - bird
+  - clint
+  - eastwood
+- - killer
+  - bird
+  - clint
+- - single
+  - movie
+  - entitled
+- - project
+  - rather
+  - excitingly
+- - mr
+  - eastwood
+  - intends
+- - cutting
+  - here
+  - click
+- - next
+  - project
+  - rather
+- - clint
+  - eastwood
+  - has
+- - eastwood
+  - has
+  - announced
 story:
   date: 2015-10-25
   id: 2015-10-25-american-snipper

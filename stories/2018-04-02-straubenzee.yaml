@@ -1,22 +1,31 @@
 ngrams:
-- - ou
-  - est
-  - mon
-- - straubenzee
-  - ou
-  - est
-- - counter
-  - je
-  - suis
-- - est
-  - mon
-  - sunday
 - - mon
   - sunday
   - telegraph
-- - je
-  - suis
-  - sir
+- - queue
+  - wearing
+  - shorts
+- - white
+  - socks
+  - bellowed
+- - sir
+  - william
+  - van
+- - long
+  - white
+  - socks
+- - years
+  - ago
+  - waiting
+- - socks
+  - bellowed
+  - at
+- - sandals
+  - with
+  - long
+- - with
+  - long
+  - white
 story:
   date: 2018-04-02
   id: 2018-04-02-straubenzee
@@ -27,4 +36,4 @@ story:
     \ behind the counter: \u201CJe suis Sir William van Straubenzee, ou est mon Sunday\
     \ Telegraph?\u201D"
   title: Straubenzee!
-word_count: 73
+word_count: 72

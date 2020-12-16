@@ -1,16 +1,13 @@
 ngrams:
-- - umbrella
-  - hippolyte
-  - bazard
 - - courage
   - sustained
   - energy
-- - thirteen
-  - respectable
-  - french
 - - english
   - women
   - accused
+- - mary
+  - s
+  - hartman
 - - adorable
   - hand
   - aimed
@@ -23,9 +20,6 @@ ngrams:
 - - comparison
   - few
   - men
-- - henriette
-  - francey
-  - after
 - - fly
   - run
   - over
@@ -35,15 +29,63 @@ ngrams:
 - - even
   - less
   - capable
-- - termite
-  - can
-  - slyly
 - - suddenly
   - receive
   - some
+- - later
+  - she
+  - shot
 - - can
-  - catch
-  - cholera
+  - suddenly
+  - receive
+- - receive
+  - some
+  - bad
+- - some
+  - bad
+  - news
+- - monster
+  - indeed
+  - could
+- - him
+  - dead
+  - quoted
+- - shot
+  - him
+  - dead
+- - men
+  - can
+  - hope
+- - days
+  - later
+  - she
+- - burn
+  - your
+  - mustache
+- - lose
+  - your
+  - umbrella
+- - few
+  - men
+  - can
+- - fellow
+  - creatures
+  - what
+- - find
+  - its
+  - way
+- - am
+  - even
+  - less
+- - she
+  - shot
+  - him
+- - am
+  - 'no'
+  - hero
+- - can
+  - lose
+  - your
 story:
   date: 2012-08-04
   id: 2012-08-04-m-bazard-to-mme-francey
@@ -64,4 +106,4 @@ story:
     \ Quoted in Victorian Murderesses\_: A True History Of Thirteen Respectable French\
     \ And English Women Accused Of Unspeakable Crimes by Mary S Hartman (1977)"
   title: M. Bazard To Mme. Francey
-word_count: 239
+word_count: 238

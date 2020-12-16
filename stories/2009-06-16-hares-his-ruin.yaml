@@ -1,13 +1,4 @@
 ngrams:
-- - sieveking
-  - jay
-  - landesman
-- - paul
-  - sieveking
-  - jay
-- - oracle
-  - sits
-  - neglected
 - - edwardian
   - eccentric
   - george
@@ -23,15 +14,39 @@ ngrams:
 - - honesty
   - completely
   - breaks
-- - crow
-  - oracle
-  - sits
-- - hare
-  - mr
-  - plowden
 - - find
   - yourself
   - consulting
+- - abundant
+  - source
+  - man
+- - source
+  - man
+  - bites
+- - completely
+  - breaks
+  - down
+- - breaks
+  - down
+  - it's
+- - live
+  - where
+  - hares
+- - don't
+  - live
+  - where
+- - man
+  - bites
+  - man
+- - previously
+  - been
+  - bound
+- - consulting
+  - your
+  - hare
+- - see
+  - hares
+  - then
 story:
   date: 2009-06-16
   id: 2009-06-16-hares-his-ruin
@@ -46,4 +61,4 @@ story:
     \nSource\u2014Man Bites Man\_: The Scrapbook Of An Edwardian Eccentric, George\
     \ Ives, edited by Paul Sieveking (Jay Landesman, 1980)"
   title: Hares His Ruin
-word_count: 133
+word_count: 131

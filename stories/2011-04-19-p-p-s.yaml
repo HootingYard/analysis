@@ -1,10 +1,4 @@
 ngrams:
-- - postscripts
-  - evidently
-  - requires
-- - girly
-  - postscripts
-  - evidently
 - - mincing
   - unmanly
   - fop
@@ -17,18 +11,12 @@ ngrams:
 - - stained
   - outer
   - flap
-- - soldier
-  - s-eye
-  - view
-- - british
-  - imperial
-  - mission
 - - w
   - l
   - george
-- - already-sealed
-  - envelope
-  - clearly
+- - british
+  - imperial
+  - mission
 - - ps
   - dr
   - anderson
@@ -41,9 +29,54 @@ ngrams:
 - - second
   - african
   - expedition
-- - cheery
-  - hardbitten
-  - captain
+- - evidently
+  - requires
+  - further
+- - p
+  - p
+  - s
+- - speaks
+  - english
+  - got
+- - p
+  - s
+  - yesterday
+- - night
+  - drinking
+  - ale
+- - requires
+  - further
+  - study
+- - mills
+  - dead
+  - since
+- - real
+  - men
+  - don't
+- - men
+  - don't
+  - write
+- - dead
+  - since
+  - writing
+- - little
+  - tipsy
+  - finished
+- - last
+  - night
+  - drinking
+- - late
+  - last
+  - night
+- - l
+  - george
+  - any
+- - girly
+  - like
+  - case
+- - any
+  - man
+  - exhibiting
 story:
   date: 2011-04-19
   id: 2011-04-19-p-p-s
@@ -65,4 +98,4 @@ story:
     \ ninny? I think not. This whole matter of girly postscripts evidently requires\
     \ further study."
   title: P.P.S.
-word_count: 220
+word_count: 215

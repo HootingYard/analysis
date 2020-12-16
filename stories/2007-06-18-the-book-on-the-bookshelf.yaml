@@ -1,34 +1,46 @@
 ngrams:
-- - dewey
-  - decimal
-  - system
-- - twenty-one
-  - suggested
-  - ways
-- - decimal
-  - system
-  - according
 - - esoteric
   - arrangements
   - taken
-- - arrangement
-  - petroski
-  - also
-- - each
-  - arrangement
-  - petroski
-- - petroski
-  - also
-  - wrote
 - - read
   - unread
   - books
 - - splendid
   - little
   - essay
-- - henry
-  - petroski
-  - where
+- - author's
+  - last
+  - name
+- - more
+  - esoteric
+  - arrangements
+- - still
+  - more
+  - esoteric
+- - about
+  - pencils
+  - called
+- - book
+  - about
+  - pencils
+- - bookshelf
+  - here
+  - are
+- - arrangements
+  - taken
+  - from
+- - enjoyment
+  - by
+  - sentimental
+- - bookshelves
+  - by
+  - author's
+- - paperbacks
+  - by
+  - publisher
+- - by
+  - sentimental
+  - value
 story:
   date: 2007-06-18
   id: 2007-06-18-the-book-on-the-bookshelf
@@ -48,4 +60,4 @@ story:
 
     '
   title: The Book On The Bookshelf
-word_count: 120
+word_count: 119

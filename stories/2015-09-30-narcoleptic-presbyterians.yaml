@@ -8,12 +8,6 @@ ngrams:
 - - presbyterians
   - tomorrow
   - sees
-- - opposing
-  - defender
-  - named
-- - defender
-  - named
-  - rolando
 - - shorter
   - potted
   - brief
@@ -23,6 +17,24 @@ ngrams:
 - - brief
   - brief
   - lives
+- - brief
+  - lives
+  - within
+- - important
+  - reference
+  - book
+- - commentator
+  - asked
+  - how
+- - reference
+  - book
+  - mr
+- - learn
+  - among
+  - much
+- - among
+  - much
+  - else
 story:
   date: 2015-09-30
   id: 2015-09-30-narcoleptic-presbyterians
@@ -35,4 +47,4 @@ story:
     . There is much more in the book other than anagrams, so go and queue up at your\
     \ nearest bookshop for opening time tomorrow morning \u2026"
   title: Narcoleptic Presbyterians
-word_count: 104
+word_count: 103

@@ -1,13 +1,19 @@
 ngrams:
-- - outa
-  - spaceman
-  - excels
-- - unutterable
-  - genius
-  - outa
-- - genius
-  - outa
-  - spaceman
+- - himself
+  - watch
+  - listen
+- - learn
+  - and
+  - shudder
+- - watch
+  - listen
+  - and
+- - listen
+  - and
+  - learn
+- - and
+  - learn
+  - and
 story:
   date: 2011-03-25
   id: 2011-03-25-unutterable-genius

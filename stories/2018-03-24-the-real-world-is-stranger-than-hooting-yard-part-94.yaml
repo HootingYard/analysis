@@ -1,7 +1,4 @@
 ngrams:
-- - valeska
-  - gert
-  - anticipating
 - - neil
   - armstrong
   - reviewing
@@ -11,15 +8,9 @@ ngrams:
 - - service
   - operation
   - columba
-- - meet
-  - viscount
-  - tredegar
 - - pigeon
   - service
   - operation
-- - world-famous
-  - food-splattered
-  - jesuit
 - - armstrong
   - reviewing
   - secret
@@ -29,21 +20,54 @@ ngrams:
 - - mentally
   - ill
   - mother
-- - real
-  - valeska
-  - gert
 - - secret
   - pigeon
   - service
-- - fictional
-  - world-famous
-  - food-splattered
-- - supplied
-  - mi
-  - d
-- - wholly
-  - fictional
-  - world-famous
+- - large
+  - bird's
+  - nest
+- - literary
+  - review
+  - among
+- - review
+  - among
+  - others
+- - real
+  - world
+  - mother
+- - jesuit
+  - now
+  - courtesy
+- - world
+  - o
+  - hooting
+- - o
+  - hooting
+  - yard
+- - hooting
+  - yard
+  - part
+- - much
+  - stranger
+  - just
+- - stranger
+  - than
+  - hooting
+- - neil
+  - armstrong
+  - 'no'
+- - mother
+  - who
+  - seems
+- - world
+  - mother
+  - who
+- - than
+  - hooting
+  - yard
+- - me
+  - neil
+  - armstrong
 story:
   date: 2018-03-24
   id: 2018-03-24-the-real-world-is-stranger-than-hooting-yard-part-94
@@ -63,4 +87,4 @@ story:
     \ ill mother had built herself a large bird's nest in the living room and sat\
     \ in it wearing a beak."
   title: The Real World Is Stranger Than Hooting Yard (Part 94)
-word_count: 192
+word_count: 190

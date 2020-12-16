@@ -1,16 +1,10 @@
 ngrams:
-- - sabine
-  - baring-gould
-  - curiosities
-- - consort
-  - eve
-  - sabine
-- - eve
-  - sabine
-  - baring-gould
 - - produced
   - ineffable
   - harmonies
+- - adam's
+  - body
+  - produced
 - - body
   - produced
   - ineffable
@@ -44,6 +38,48 @@ ngrams:
 - - tiny
   - eggs
   - developed
+- - others
+  - should
+  - unite
+- - c
+  - every
+  - motion
+- - fire
+  - c
+  - every
+- - transparent
+  - than
+  - crystal
+- - taller
+  - than
+  - men
+- - adam
+  - she
+  - says
+- - themselves
+  - like
+  - bubbles
+- - than
+  - crystal
+  - light
+- - developed
+  - themselves
+  - like
+- - more
+  - pure
+  - translucent
+- - clear
+  - fluid
+  - like
+- - fluid
+  - like
+  - water
+- - creature
+  - obeyed
+  - him
+- - some
+  - strange
+  - visions
 story:
   date: 2010-12-08
   id: 2010-12-08-have-you-seen-this-man
@@ -65,4 +101,4 @@ story:
     If you have seen anyone answering to this description, please contact your local\
     \ police, or a priest, in strictest confidence."
   title: Have You Seen This Man?
-word_count: 221
+word_count: 220

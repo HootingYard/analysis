@@ -8,33 +8,33 @@ ngrams:
 - - pickle
   - mosh
   - pit
-- - peering
-  - watery
-  - eyes
 - - o
   - toads
   - devoted
+- - peering
+  - watery
+  - eyes
+- - news
+  - o
+  - toads
 - - saw
   - standing
   - fiery
 - - toads
   - devoted
   - readers
-- - news
-  - o
-  - toads
 - - important
   - news
   - o
 - - mr
   - mike
   - jennings
-- - eyes
-  - saw
-  - standing
 - - yard
   - atoll
   - pickle
+- - eyes
+  - saw
+  - standing
 - - comic
   - book
   - art
@@ -44,6 +44,42 @@ ngrams:
 - - pompous
   - land
   - mr
+- - exclamation
+  - mark
+  - now
+- - hooting
+  - yard
+  - atoll
+- - later
+  - far
+  - far
+- - years
+  - later
+  - far
+- - mike
+  - jennings
+  - has
+- - far
+  - far
+  - away
+- - mark
+  - now
+  - years
+- - now
+  - years
+  - later
+- - were
+  - vapid
+  - buy
+- - slim
+  - anthology
+  - we
+- - devoted
+  - readers
+  - will
+- - readers
+  - will
+  - recall
 story:
   date: 2017-11-08
   id: 2017-11-08-toad-news

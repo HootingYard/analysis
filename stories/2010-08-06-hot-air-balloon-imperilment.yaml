@@ -1,22 +1,4 @@
 ngrams:
-- - cheroots
-  - essaying
-  - deeds
-- - clapped-out
-  - jalopy
-  - puffing
-- - weedy
-  - flibbertigibbety
-  - waif
-- - helpless
-  - weedy
-  - flibbertigibbety
-- - ruffians
-  - card-carrying
-  - members
-- - flibbertigibbety
-  - waif
-  - ready
 - - righteous
   - wrath
   - picture
@@ -26,24 +8,84 @@ ngrams:
 - - young
   - gal
   - pootling
-- - club-footed
-  - young
-  - gal
 - - black
   - boot
   - stamping
-- - question
-  - seems
-  - self-evident
-- - air
-  - balloon
-  - imperilment
 - - deemed
   - seemly
   - tiny
 - - air
   - balloon
   - basket
+- - flung
+  - himself
+  - overboard
+- - seemly
+  - tiny
+  - enid
+- - hot
+  - air
+  - balloon
+- - hot
+  - air
+  - balloon
+- - big
+  - black
+  - boot
+- - jalopy
+  - puffing
+  - away
+- - tiny
+  - enid
+  - also
+- - good
+  - kicking
+  - yet
+- - actually
+  - happening
+  - here
+- - her
+  - brave
+  - deeds
+- - made
+  - great
+  - pretence
+- - basket
+  - her
+  - big
+- - kicking
+  - yet
+  - such
+- - even
+  - while
+  - performing
+- - other
+  - flung
+  - himself
+- - her
+  - big
+  - black
+- - show
+  - even
+  - while
+- - sometimes
+  - she
+  - put
+- - communist
+  - party
+  - 'no'
+- - patriarchal
+  - culture
+  - what
+- - gal
+  - pootling
+  - about
+- - party
+  - 'no'
+  - less
+- - if
+  - tiny
+  - enid
 story:
   date: 2010-08-06
   id: 2010-08-06-hot-air-balloon-imperilment
@@ -65,4 +107,4 @@ story:
     \ neck of one ruffian while the other flung himself overboard in a cowardly escape\
     \ from the tot's righteous wrath.\n\nPicture courtesy of Agence Eureka"
   title: Hot Air Balloon Imperilment
-word_count: 234
+word_count: 233

@@ -1,28 +1,40 @@
 ngrams:
-- - corpuscular
-  - eruptions
-  - cornelius
 - - eruptions
   - cornelius
   - cardew
-- - cardew
-  - aged
-  - twenty-two
 - - cornelius
   - cardew
   - aged
-- - softest
-  - arm
-  - boulez
-- - arm
-  - boulez
-  - rescue
-- - femme
-  - de
-  - trente
-- - de
-  - trente
-  - ans
+- - expect
+  - further
+  - reports
+- - biography
+  - expect
+  - further
+- - note
+  - must
+  - curb
+- - just
+  - begun
+  - reading
+- - begun
+  - reading
+  - this
+- - reading
+  - this
+  - book
+- - unfinished
+  - by
+  - john
+- - life
+  - unfinished
+  - by
+- - have
+  - just
+  - begun
+- - his
+  - journal
+  - quoted
 story:
   date: 2011-05-04
   id: 2011-05-04-cornelius-cardew-on-the-bus

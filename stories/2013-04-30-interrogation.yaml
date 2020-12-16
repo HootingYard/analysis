@@ -1,49 +1,121 @@
 ngrams:
-- - faiers
-  - email
-  - inbox
-- - phony
-  - intellectual
-  - heft
-- - signal
-  - phony
-  - intellectual
 - - brilliant
   - brilliant
   - theme
-- - clogged-up
-  - blather
-  - anyway
 - - talk
   - specifically
   - interrogations
 - - knitting
   - catastrophe
   - someone
-- - alleged
-  - mental
-  - activity
 - - catastrophe
   - someone
   - calling
+- - alleged
+  - mental
+  - activity
 - - drinking
   - game
   - involving
 - - game
   - involving
   - random
-- - neatly
-  - summarises
-  - everything
-- - dr
-  - faiers
-  - email
-- - dr
-  - jonathan
-  - faiers
+- - they're
+  - usually
+  - meaningless
+- - context
+  - they're
+  - usually
 - - involving
   - random
   - art
+- - academic
+  - art
+  - talk
+- - art
+  - talk
+  - specifically
+- - art
+  - press
+  - releases
+- - someone
+  - calling
+  - themselves
+- - random
+  - art
+  - press
+- - they're
+  - used
+  - pretty
+- - writing
+  - vivid
+  - prose
+- - words
+  - aren't
+  - meant
+- - press
+  - releases
+  - every
+- - you'll
+  - see
+  - they're
+- - reality
+  - you'll
+  - see
+- - conclusions
+  - ever
+  - seem
+- - much
+  - randomly
+  - they're
+- - randomly
+  - they're
+  - just
+- - pretty
+  - much
+  - randomly
+- - beckon
+  - very
+  - quickly
+- - gets
+  - very
+  - prickly
+- - interrogating
+  - never
+  - seem
+- - credulous
+  - punter
+  - know
+- - see
+  - they're
+  - used
+- - used
+  - pretty
+  - much
+- - these
+  - words
+  - aren't
+- - quickly
+  - indeed
+  - these
+- - that's
+  - because
+  - these
+- - very
+  - quickly
+  - indeed
+- - indeed
+  - these
+  - words
+- - because
+  - these
+  - words
+- - calling
+  - themselves
+  - who
+- - releases
+  - every
+  - time
 story:
   date: 2013-04-30
   id: 2013-04-30-interrogation
@@ -74,4 +146,4 @@ story:
     \ artist is supposed to be clever and therefore deserving of attention and taxpayer\
     \ subsidy."
   title: Interrogation
-word_count: 320
+word_count: 313

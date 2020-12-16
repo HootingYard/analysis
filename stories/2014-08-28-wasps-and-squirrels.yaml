@@ -1,10 +1,4 @@
 ngrams:
-- - finds
-  - ft
-  - wasp
-- - ft
-  - wasp
-  - nest
 - - female
   - team
   - regrettably
@@ -17,9 +11,6 @@ ngrams:
 - - importance
   - winchester
   - woman
-- - woman
-  - finds
-  - ft
 - - winchester
   - woman
   - finds
@@ -37,13 +28,52 @@ ngrams:
   - however
 - - short
   - story
-  - wouldn
+  - wouldn't
 - - terrific
   - short
   - story
 - - somebody
   - already
   - written
+- - found
+  - herself
+  - transformed
+- - something
+  - similar
+  - elsewhere
+- - woozy
+  - world
+  - between
+- - written
+  - something
+  - similar
+- - world
+  - between
+  - sleep
+- - already
+  - written
+  - something
+- - sounds
+  - remotely
+  - like
+- - uneasy
+  - dreams
+  - she
+- - wringing
+  - its
+  - hands
+- - some
+  - importance
+  - winchester
+- - nest
+  - rather
+  - than
+- - r
+  - has
+  - alerted
+- - she
+  - found
+  - herself
 story:
   date: 2014-08-28
   id: 2014-08-28-wasps-and-squirrels
@@ -63,4 +93,4 @@ story:
     \ Today is produced and presented by an exclusively female team. Regrettably,\
     \ however, not one of them sounds remotely like a proper peasant."
   title: Wasps And Squirrels
-word_count: 205
+word_count: 202

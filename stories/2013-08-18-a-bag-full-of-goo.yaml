@@ -2,48 +2,201 @@ ngrams:
 - - analysis
   - casts
   - daddy
+- - daddy
+  - sylvia
+  - plath
 - - fearless
   - textual
   - analysis
 - - textual
   - analysis
   - casts
-- - daddy
-  - sylvia
-  - plath
 - - incomprehension
   - aeroplane
   - engine
-- - aeroplane
-  - engine
-  - lubricant
 - - military
   - aviation
   - services
 - - national
   - military
   - aviation
-- - e-commerce
-  - company
-  - founded
 - - customer
   - services
   - counter
-- - engine
-  - lubricant
-  - goo
 - - poem
   - daddy
   - sylvia
-- - apply
-  - david
-  - hume
 - - poet
   - specifically
   - refers
 - - general
   - goods
   - store
+- - sylvia
+  - plath
+  - makes
+- - mad
+  - poem
+  - daddy
+- - mad
+  - poet
+  - specifically
+- - plath
+  - makes
+  - mention
+- - bag
+  - sylvia
+  - plath
+- - poor
+  - mad
+  - sylvia
+- - puny
+  - human
+  - comprehension
+- - puny
+  - human
+  - comprehension
+- - plath
+  - originally
+  - wrote
+- - duffel
+  - bag
+  - theory
+- - argument
+  - against
+  - miracles
+- - final
+  - note
+  - goo
+- - greaseproof
+  - paper
+  - bag
+- - relates
+  - should
+  - really
+- - should
+  - either
+  - deceive
+- - uses
+  - too
+  - goo
+- - slapdash
+  - printer
+  - made
+- - printer
+  - made
+  - goo
+- - note
+  - goo
+  - must
+- - person
+  - should
+  - either
+- - aviation
+  - services
+  - might
+- - dead
+  - man
+  - restored
+- - squeezy
+  - tubes
+  - than
+- - consistency
+  - any
+  - goo
+- - such
+  - fearless
+  - textual
+- - many
+  - different
+  - purposes
+- - many
+  - different
+  - types
+- - store
+  - such
+  - fearless
+- - god
+  - just
+  - wander
+- - goods
+  - store
+  - such
+- - our
+  - puny
+  - human
+- - our
+  - puny
+  - human
+- - likely
+  - proposition
+  - than
+- - just
+  - wander
+  - along
+- - its
+  - original
+  - container
+- - against
+  - miracles
+  - where
+- - her
+  - mad
+  - poem
+- - more
+  - likely
+  - proposition
+- - human
+  - comprehension
+  - then
+- - goo
+  - can
+  - vary
+- - can
+  - apply
+  - david
+- - typesetting
+  - error
+  - has
+- - error
+  - has
+  - persisted
+- - sylvia
+  - plath
+  - has
+- - gwyneth
+  - paltrow
+  - who
+- - somebody
+  - has
+  - managed
+- - error
+  - has
+  - occurred
+- - other
+  - uses
+  - too
+- - could
+  - get
+  - hold
+- - your
+  - nearest
+  - supermarket
+- - far
+  - more
+  - likely
+- - what
+  - plath
+  - originally
+- - more
+  - often
+  - found
+- - too
+  - goo
+  - can
+- - its
+  - consistency
+  - any
 story:
   date: 2013-08-18
   id: 2013-08-18-a-bag-full-of-goo
@@ -86,4 +239,4 @@ story:
     \ goop, which is a digital media and e-commerce company founded by Gwyneth Paltrow,\
     \ who is inexplicable and ineffable and outwith the scope of our puny human comprehension."
   title: A Bag Full Of Goo
-word_count: 535
+word_count: 534

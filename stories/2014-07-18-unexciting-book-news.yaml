@@ -23,9 +23,21 @@ ngrams:
 - - publication
   - until
   - september
-- - unexciting
+- - brand
+  - new
+  - lulu
+- - new
+  - lulu
+  - paperback
+- - ever
+  - since
+  - impatiently
+- - anticipation
+  - ever
+  - since
+- - forthcoming
   - book
-  - news
+  - mr
 story:
   date: 2014-07-18
   id: 2014-07-18-unexciting-book-news
@@ -40,4 +52,4 @@ story:
     not thereby ruined, I will try my best to issue a brand new Lulu paperback for
     the festive season. Watch this space.'
   title: Unexciting Book News
-word_count: 109
+word_count: 108

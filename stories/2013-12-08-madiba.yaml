@@ -1,28 +1,37 @@
 ngrams:
-- - post-colonial
-  - bien
-  - pensant
-- - bien
-  - pensant
-  - guilt
-- - tom
-  - holland
-  - reacts
 - - approved
   - tom
   - holland
-- - self-flagellating
-  - white
-  - post-colonial
-- - white
-  - post-colonial
-  - bien
-- - entire
-  - self-flagellating
-  - white
-- - pensant
-  - guilt
+- - christ's
+  - sake
+  - bbc
+- - south
+  - africa
+  - that's
+- - sake
+  - bbc
+  - give
+- - famous
+  - nice
+  - black
+- - africa
+  - that's
+  - better
+- - guilt
   - look
+  - famous
+- - look
+  - famous
+  - nice
+- - man
+  - dies
+  - let's
+- - black
+  - man
+  - dies
+- - nice
+  - black
+  - man
 story:
   date: 2013-12-08
   id: 2013-12-08-madiba
@@ -37,4 +46,4 @@ story:
     history of South Africa. That''s better than watching the country we''re in being
     flattened by a storm.'
   title: Madiba
-word_count: 96
+word_count: 90

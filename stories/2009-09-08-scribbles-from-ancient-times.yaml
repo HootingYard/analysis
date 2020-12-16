@@ -2,18 +2,12 @@ ngrams:
 - - filigree
   - vents
   - chocolate
-- - machine-guns
-  - bandages
-  - planks
 - - baize
   - filigree
   - vents
 - - bandages
   - planks
   - netting
-- - footpaths
-  - fangs
-  - bared
 - - desire
   - vigilance
   - treachery
@@ -26,9 +20,6 @@ ngrams:
 - - vigilance
   - treachery
   - gaze
-- - cupcakes
-  - butter
-  - clatter
 - - despite
   - severe
   - temptation
@@ -38,12 +29,198 @@ ngrams:
 - - holidays
   - hammers
   - hit
+- - hut
+  - you'd
+  - decorated
 - - gathering
   - gloom
   - eating
 - - jars
   - broken
   - cutlery
+- - eating
+  - potatoes
+  - peas
+- - anvils
+  - sent
+  - echoes
+- - malice
+  - aforethought
+  - press
+- - bee
+  - borage
+  - tears
+- - gloom
+  - eating
+  - potatoes
+- - interest
+  - despite
+  - severe
+- - hit
+  - anvils
+  - sent
+- - blood
+  - oranges
+  - disguised
+- - historical
+  - interest
+  - despite
+- - ball
+  - games
+  - using
+- - aforethought
+  - press
+  - pamphlets
+- - cutlery
+  - lay
+  - thick
+- - broken
+  - cutlery
+  - lay
+- - dead
+  - trains
+  - jammed
+- - games
+  - using
+  - sticks
+- - using
+  - sticks
+  - ah
+- - possible
+  - historical
+  - interest
+- - treachery
+  - gaze
+  - note
+- - clocks
+  - stopped
+  - dead
+- - stopped
+  - dead
+  - trains
+- - stupid
+  - tars
+  - tell
+- - tars
+  - tell
+  - stupid
+- - tell
+  - stupid
+  - yarns
+- - note
+  - complete
+  - nonsense
+- - horse
+  - fell
+  - sick
+- - gaze
+  - note
+  - complete
+- - we're
+  - having
+  - clocks
+- - really
+  - blue
+  - everything
+- - having
+  - clocks
+  - stopped
+- - lonely
+  - life
+  - games
+- - weather
+  - we're
+  - having
+- - horse
+  - i'll
+  - tell
+- - press
+  - pamphlets
+  - between
+- - old
+  - malice
+  - aforethought
+- - lands
+  - i'll
+  - never
+- - i'll
+  - never
+  - reach
+- - sent
+  - echoes
+  - back
+- - recall
+  - these
+  - pieces
+- - wandered
+  - 'off'
+  - towards
+- - left
+  - us
+  - hopeless
+- - heaven
+  - left
+  - us
+- - where
+  - stupid
+  - tars
+- - being
+  - polite
+  - going
+- - stupid
+  - beach
+  - where
+- - beach
+  - where
+  - stupid
+- - being
+  - very
+  - graceful
+- - fork
+  - being
+  - very
+- - pork
+  - slicing
+  - them
+- - slicing
+  - them
+  - neatly
+- - their
+  - jars
+  - broken
+- - your
+  - hut
+  - you'd
+- - time
+  - i'll
+  - make
+- - broke
+  - your
+  - neck
+- - outside
+  - your
+  - lipstick
+- - parked
+  - outside
+  - your
+- - brakes
+  - were
+  - bust
+- - cosmetics
+  - were
+  - stale
+- - under
+  - their
+  - bushel
+- - car
+  - careered
+  - into
+- - never
+  - until
+  - now
+- - glee
+  - we
+  - stalk
 story:
   date: 2009-09-08
   id: 2009-09-08-scribbles-from-ancient-times
@@ -88,4 +265,4 @@ story:
     \ I realised, as soon as I had typed it. Some of this stuff would have appeared\
     \ in old Malice Aforethought Press pamphlets between 1986 and 1991."
   title: Scribbles From Ancient Times
-word_count: 602
+word_count: 592

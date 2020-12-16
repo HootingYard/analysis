@@ -1,10 +1,10 @@
 ngrams:
+- - decorate
+  - women's
+  - hats
 - - sand
   - incidentally
   - northcliffe
-- - daily
-  - mail
-  - bashers
 - - shapes
   - usually
   - referred
@@ -14,9 +14,6 @@ ngrams:
 - - hats
   - daily
   - mail
-- - answer
-  - peter
-  - blegvad
 - - incidentally
   - northcliffe
   - seems
@@ -32,6 +29,9 @@ ngrams:
 - - hats
   - once
   - wantonly
+- - women's
+  - hats
+  - once
 - - once
   - wantonly
   - struck
@@ -44,6 +44,42 @@ ngrams:
 - - most
   - amusing
   - let
+- - far
+  - too
+  - familiar
+- - new
+  - hat
+  - why
+- - some
+  - fresh
+  - snippet
+- - paper
+  - some
+  - fresh
+- - about
+  - lord
+  - northcliffe
+- - anecdote
+  - about
+  - lord
+- - now
+  - far
+  - too
+- - questions
+  - about
+  - hats
+- - delve
+  - into
+  - history
+- - thing
+  - about
+  - hats
+- - monotony
+  - northcliffe
+  - would
+- - northcliffe
+  - would
+  - probably
 story:
   date: 2012-08-25
   id: 2012-08-25-seagulls-and-hats
@@ -64,4 +100,4 @@ story:
     \ be most amusing . . . Let reference be made to hat monotony.\nNorthcliffe would\
     \ probably have been able to answer Peter Blegvad's questions about hats."
   title: Seagulls And Hats
-word_count: 227
+word_count: 223

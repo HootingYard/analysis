@@ -8,9 +8,6 @@ ngrams:
 - - brief
   - rewritten
   - extract
-- - original
-  - text
-  - unaltered
 - - pamphlets
   - reprinted
   - series
@@ -38,9 +35,36 @@ ngrams:
 - - extract
   - posted
   - here
+- - week
+  - after
+  - i'm
 - - hooting
   - yard
   - website
+- - hooting
+  - yard
+  - press
+- - never
+  - again
+  - seen
+- - sure
+  - how
+  - long
+- - posted
+  - here
+  - some
+- - some
+  - years
+  - ago
+- - years
+  - ago
+  - has
+- - ago
+  - has
+  - never
+- - pin
+  - back
+  - your
 story:
   date: 2011-08-18
   id: 2011-08-18-obsequies-for-lars-talc-struck-by-lightning
@@ -58,4 +82,4 @@ story:
     \ and possibly the week after. (I'm not sure how long it will take.)\nTurn on,\
     \ tune in, pin back your ears, and listen."
   title: Obsequies For Lars Talc, Struck By Lightning
-word_count: 178
+word_count: 176

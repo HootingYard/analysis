@@ -5,9 +5,15 @@ ngrams:
 - - tintin
   - weeps
   - snap
+- - mary's
+  - parish
+  - church
 - - parish
   - church
   - rye
+- - church
+  - rye
+  - east
 story:
   date: 2010-10-26
   id: 2010-10-26-tintin-weeps
@@ -16,4 +22,4 @@ story:
     Snap by Phil Meades, taken in St. Mary''s Parish Church, Rye, East Sussex on 10th
     September 2010.'
   title: Tintin Weeps
-word_count: 19
+word_count: 18

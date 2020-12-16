@@ -1,16 +1,4 @@
 ngrams:
-- - renault
-  - peugeot
-  - citr
-- - peugeot
-  - citr
-  - en
-- - citr
-  - en
-  - simca
-- - boulevard
-  - renault
-  - peugeot
 - - bleaching
   - stream
   - journal
@@ -20,30 +8,114 @@ ngrams:
 - - apparent
   - provenance
   - displayed
-- - peter
-  - blegvad
-  - reminiscing
-- - eerie
-  - pre-literate
-  - knowledge
-- - somehow
-  - eerie
-  - pre-literate
-- - unerringly
-  - correct
-  - eventually
 - - savant
   - talents
   - since
-- - pataphysics
-  - number
-  - absolu
 - - almost
   - wholly
   - ignorant
 - - tiny
   - eagerly
   - announced
+- - without
+  - apparent
+  - provenance
+- - childish
+  - things
+  - straightforward
+- - each
+  - parked
+  - car
+- - knowledge
+  - without
+  - apparent
+- - unremarkable
+  - one's
+  - own
+- - one's
+  - own
+  - child
+- - cars
+  - only
+  - french
+- - only
+  - french
+  - cars
+- - any
+  - savant
+  - talents
+- - iconic
+  - designs
+  - such
+- - wild
+  - talents
+  - such
+- - years
+  - passed
+  - until
+- - cars
+  - certainly
+  - other
+- - standing
+  - him
+  - drinks
+- - other
+  - childish
+  - things
+- - three
+  - years
+  - old
+- - am
+  - almost
+  - wholly
+- - street
+  - piping
+  - up
+- - people
+  - standing
+  - him
+- - cars
+  - where
+  - did
+- - ignorant
+  - about
+  - cars
+- - what
+  - charles
+  - fort
+- - wholly
+  - ignorant
+  - about
+- - about
+  - cars
+  - certainly
+- - brief
+  - period
+  - when
+- - less
+  - forgotten
+  - about
+- - certainly
+  - other
+  - than
+- - more
+  - common
+  - than
+- - when
+  - tiny
+  - eagerly
+- - about
+  - people
+  - standing
+- - son
+  - when
+  - tiny
+- - name
+  - other
+  - than
+- - parked
+  - car
+  - we
 story:
   date: 2011-09-10
   id: 2011-09-10-infants-savants
@@ -72,4 +144,4 @@ story:
     \ apparent provenance, displayed for a brief period when very young. Is this more\
     \ common than I thought?"
   title: Infants Savants
-word_count: 316
+word_count: 312

@@ -1,10 +1,4 @@
 ngrams:
-- - muhammad
-  - abdul
-  - bari
-- - abdul
-  - bari
-  - leader
 - - telegraph
   - th
   - november
@@ -17,18 +11,39 @@ ngrams:
 - - daily
   - telegraph
   - th
-- - soon-to-be-out-of-print
-  - pamphlet
-  - entitled
 - - helpful
   - work
   - gives
 - - work
   - gives
   - tips
-- - defenceless
-  - women
+- - goes
+  - without
+  - saying
+- - many
+  - different
+  - techniques
+- - pamphlet
+  - entitled
+  - how
+- - why
+  - hooting
+  - yard
+- - only
+  - proper
+  - way
+- - depends
+  - what
+  - sort
+- - so
+  - wisely
+  - says
+- - women
   - until
+  - they
+- - wisely
+  - says
+  - one
 story:
   date: 2007-11-13
   id: 2007-11-13-the-right-sort-of-stoning
@@ -43,4 +58,4 @@ story:
     \ work gives tips on many different techniques of throwing rocks at defenceless\
     \ women until they are dead."
   title: The Right Sort Of Stoning
-word_count: 122
+word_count: 121

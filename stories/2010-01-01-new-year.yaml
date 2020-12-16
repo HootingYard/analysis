@@ -1,25 +1,16 @@
 ngrams:
-- - frosty
-  - aminadab
-  - aminadab
 - - rural
   - spots
   - patchy
-- - pastille
-  - aminadab
-  - starting
 - - sunny
   - spells
   - developing
-- - spin
-  - jimmy
-  - lickspittle
 - - raymond
   - roussel
   - mainly
-- - aminadab
-  - aminadab
-  - burn
+- - spin
+  - jimmy
+  - lickspittle
 - - spots
   - patchy
   - freezing
@@ -32,18 +23,183 @@ ngrams:
 - - patchy
   - freezing
   - fog
-- - sharp
-  - overnight
-  - frosts
 - - dazzling
   - strangeness
   - flowers
 - - jimmy
   - lickspittle
   - fallen
+- - roussel
+  - mainly
+  - dry
 - - sunny
   - spells
   - especially
+- - napoleon
+  - wagner
+  - died
+- - heavier
+  - snow
+  - showers
+- - played
+  - prisoner's
+  - base
+- - comes
+  - jimmy
+  - lickspittle
+- - sunny
+  - spells
+  - although
+- - although
+  - occasional
+  - sleet
+- - spells
+  - although
+  - occasional
+- - strangeness
+  - flowers
+  - open
+- - spells
+  - developing
+  - during
+- - light
+  - wintry
+  - showers
+- - isolated
+  - light
+  - wintry
+- - light
+  - northwest
+  - winds
+- - light
+  - northwest
+  - winds
+- - spells
+  - especially
+  - during
+- - winds
+  - isolated
+  - light
+- - deadening
+  - folds
+  - between
+- - afternoon
+  - light
+  - northwest
+- - afternoon
+  - light
+  - northwest
+- - light
+  - snow
+  - showers
+- - light
+  - snow
+  - showers
+- - isolated
+  - light
+  - snow
+- - further
+  - significant
+  - snowfall
+- - good
+  - sunny
+  - spells
+- - night
+  - sharp
+  - overnight
+- - especially
+  - across
+  - eastern
+- - across
+  - eastern
+  - parts
+- - perhaps
+  - fewer
+  - wintry
+- - noon
+  - another
+  - dry
+- - gutter
+  - another
+  - dry
+- - illuminate
+  - every
+  - action
+- - works
+  - without
+  - exception
+- - possible
+  - especially
+  - across
+- - foolish
+  - words
+  - nature
+- - untreated
+  - surfaces
+  - most
+- - surfaces
+  - most
+  - places
+- - jimmy
+  - lickspittle
+  - see
+- - see
+  - jimmy
+  - lickspittle
+- - few
+  - light
+  - snow
+- - boat
+  - many
+  - western
+- - arrive
+  - each
+  - night
+- - each
+  - night
+  - sharp
+- - live
+  - long
+  - enough
+- - here
+  - comes
+  - jimmy
+- - arrive
+  - here
+  - comes
+- - wintry
+  - showers
+  - may
+- - showers
+  - may
+  - arrive
+- - continue
+  - very
+  - cold
+- - casts
+  - its
+  - deadening
+- - its
+  - deadening
+  - folds
+- - immense
+  - force
+  - like
+- - shall
+  - never
+  - forget
+- - never
+  - pass
+  - without
+- - away
+  - see
+  - jimmy
+- - east
+  - where
+  - further
+- - where
+  - further
+  - significant
 story:
   date: 2010-01-01
   id: 2010-01-01-new-year
@@ -88,4 +244,4 @@ story:
     \ The stars will turn in their courses. The planets will spin. Jimmy Lickspittle\
     \ will lie in the gutter, by the pier, at the harbour, in Britain."
   title: New Year
-word_count: 542
+word_count: 540

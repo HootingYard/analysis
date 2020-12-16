@@ -1,25 +1,37 @@
 ngrams:
-- - atelier
-  - tovar
-  - galoshes
-- - atelier
-  - tovar
-  - selected
-- - tovar
-  - selected
-  - writings
-- - tovar
-  - galoshes
-  - recommended
 - - blurb
   - envy
   - yesterday
-- - envy
-  - yesterday
-  - postie
-- - yesterday
-  - postie
-  - delivered
+- - guy
+  - maddin
+  - readers
+- - maddin
+  - last
+  - year
+- - back
+  - cover
+  - blurbs
+- - mr
+  - maddin
+  - last
+- - maddin
+  - readers
+  - may
+- - readers
+  - may
+  - recall
+- - am
+  - looking
+  - forward
+- - enthused
+  - about
+  - mr
+- - about
+  - mr
+  - maddin
+- - are
+  - two
+  - phrases
 story:
   date: 2009-03-20
   id: 2009-03-20-blurb-envy

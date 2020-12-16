@@ -1,7 +1,4 @@
 ngrams:
-- - wallace
-  - jonathan
-  - goodman
 - - julia
   - wallace
   - jonathan
@@ -20,15 +17,33 @@ ngrams:
 - - wife
   - william
   - herbert
-- - liverpool
-  - thirty-odd
-  - pages
-- - mrs
-  - harrison
-  - alas
 - - john
   - lennon
   - grew
+- - mrs
+  - harrison
+  - alas
+- - anyone
+  - called
+  - starkey
+- - pretty
+  - good
+  - tally
+- - yet
+  - interesting
+  - coincidences
+- - meaningless
+  - yet
+  - interesting
+- - interesting
+  - coincidences
+  - go
+- - century's
+  - most
+  - intriguing
+- - most
+  - intriguing
+  - murder
 story:
   date: 2010-02-11
   id: 2010-02-11-three-out-of-four-moptops
@@ -44,4 +59,4 @@ story:
     Starr. Still, three out of four loveable moptops is a pretty good tally so far
     as meaningless yet interesting coincidences go.'
   title: Three Out Of Four Moptops
-word_count: 129
+word_count: 127

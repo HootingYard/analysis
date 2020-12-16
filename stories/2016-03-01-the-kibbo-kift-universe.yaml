@@ -1,7 +1,4 @@
 ngrams:
-- - skeletons
-  - pepper-corns
-  - babies
 - - telephones
   - tents
   - dynamos
@@ -23,9 +20,6 @@ ngrams:
 - - maggots
   - wheel
   - bolts
-- - insects
-  - skeletons
-  - pepper-corns
 - - tram
   - tickets
   - lilies
@@ -35,15 +29,48 @@ ngrams:
 - - steel
   - plates
   - bricks
-- - bootlaces
-  - insects
-  - skeletons
 - - needles
   - tram
   - tickets
-- - flower-pots
-  - clouds
-  - gutter-gratings
+- - slugs
+  - pictures
+  - maggots
+- - fingernails
+  - hammers
+  - steam
+- - hammers
+  - steam
+  - engines
+- - pictures
+  - maggots
+  - wheel
+- - systems
+  - slugs
+  - pictures
+- - tents
+  - dynamos
+  - walking
+- - shoes
+  - needles
+  - tram
+- - bolts
+  - smells
+  - darkness
+- - beings
+  - steel
+  - plates
+- - iron
+  - foundries
+  - neckties
+- - churches
+  - iron
+  - foundries
+- - dung
+  - churches
+  - iron
+- - steam
+  - engines
+  - mountains
 story:
   date: 2016-03-01
   id: 2016-03-01-the-kibbo-kift-universe
@@ -66,4 +93,4 @@ story:
     \ to obtain a copy, please note that it has recently been acclaimed as \u201C\
     the most beautiful book in Switzerland\u201D."
   title: The Kibbo Kift Universe
-word_count: 200
+word_count: 199

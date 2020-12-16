@@ -1,13 +1,19 @@
 ngrams:
-- - josephine
-  - napoleon
-  - bonaparte
-- - napoleon
-  - bonaparte
-  - referred
 - - wife
   - josephine
   - napoleon
+- - nobody
+  - knows
+  - why
+- - knows
+  - why
+  - nor
+- - her
+  - private
+  - parts
+- - why
+  - nor
+  - who
 story:
   date: 2014-11-08
   id: 2014-11-08-baron-de-kepen

@@ -1,7 +1,4 @@
 ngrams:
-- - andrew
-  - lloyd
-  - webber
 - - moody
   - vampire
   - yarn
@@ -14,9 +11,6 @@ ngrams:
 - - scandinavian
   - vampire
   - novel
-- - less
-  - edifying
-  - experiences
 - - initial
   - thoughts
   - turn
@@ -29,21 +23,51 @@ ngrams:
 - - must
   - contact
   - andrew
-- - few
-  - less
-  - edifying
 - - whose
   - brain
   - turns
 - - adapted
   - very
   - successfully
-- - edifying
-  - experiences
-  - than
 - - hear
   - those
   - dread
+- - drama
+  - any
+  - drama
+- - experiences
+  - than
+  - watching
+- - than
+  - ice
+  - skates
+- - those
+  - dread
+  - words
+- - any
+  - drama
+  - given
+- - am
+  - drawn
+  - irresistibly
+- - skates
+  - rather
+  - than
+- - audiences
+  - do
+  - seem
+- - rather
+  - than
+  - ice
+- - first
+  - adapted
+  - very
+- - any
+  - old
+  - production
+- - even
+  - more
+  - unlikely
 story:
   date: 2014-04-08
   id: 2014-04-08-on-ice
@@ -62,4 +86,4 @@ story:
     First I must contact Andrew Lloyd Webber to do the music. If he insists on roller\
     \ skates rather than ice skates, I might be open to persuasion."
   title: On Ice!
-word_count: 190
+word_count: 189

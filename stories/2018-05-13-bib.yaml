@@ -20,18 +20,15 @@ ngrams:
 - - cold
   - swiss
   - subterranean
-- - under
-  - knock-out
-  - rules
 - - swiss
   - dungeon
   - under
-- - pudding
-  - under
-  - knock-out
 - - dungeon
   - under
   - sentence
+- - lady's
+  - pudding
+  - under
 - - particularly
   - arresting
   - story
@@ -44,6 +41,99 @@ ngrams:
 - - last
   - swiss
   - soldier
+- - us
+  - six
+  - swiss
+- - charge
+  - screaming
+  - down
+- - village
+  - our
+  - orders
+- - dozens
+  - even
+  - hundreds
+- - swiss
+  - village
+  - our
+- - given
+  - first
+  - dibs
+- - us
+  - should
+  - carry
+- - should
+  - carry
+  - 'off'
+- - am
+  - justly
+  - dead
+- - victory
+  - over
+  - our
+- - over
+  - our
+  - foe
+- - were
+  - rough
+  - tough
+- - swiss
+  - execution
+  - if
+- - bib
+  - pity
+  - me
+- - relic
+  - came
+  - into
+- - prize
+  - we
+  - cleared
+- - pity
+  - me
+  - o
+- - we
+  - laid
+  - waste
+- - we
+  - laid
+  - waste
+- - death
+  - pity
+  - me
+- - war
+  - prize
+  - we
+- - justly
+  - dead
+  - there
+- - pity
+  - me
+  - people
+- - me
+  - o
+  - people
+- - told
+  - would
+  - bring
+- - our
+  - orders
+  - were
+- - let
+  - me
+  - whether
+- - waste
+  - doing
+  - so
+- - would
+  - bring
+  - us
+- - this
+  - sacred
+  - relic
+- - one
+  - step
+  - closer
 story:
   date: 2018-05-13
   id: 2018-05-13-bib
@@ -80,4 +170,4 @@ story:
     I will carry it with me to the place of Swiss execution, if they will let me.
     Whether they do or do not, at this hour of my death, pity me, people of Switzerland.'
   title: Bib
-word_count: 363
+word_count: 361

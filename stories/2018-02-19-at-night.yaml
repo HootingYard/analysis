@@ -2,9 +2,6 @@ ngrams:
 - - lee
   - harvey
   - oswald
-- - function
-  - compasses
-  - pointing
 - - ducal
   - potting
   - shed
@@ -44,6 +41,57 @@ ngrams:
 - - james
   - stern
   - everything
+- - eye
+  - invaluable
+  - goggles
+- - lost
+  - magnets
+  - ceasing
+- - hopelessly
+  - lost
+  - magnets
+- - third
+  - eye
+  - invaluable
+- - potting
+  - shed
+  - behind
+- - mystic
+  - third
+  - eye
+- - behind
+  - eerie
+  - shrubs
+- - shed
+  - behind
+  - eerie
+- - memory
+  - remember
+  - studying
+- - invaluable
+  - goggles
+  - night
+- - bicycle
+  - pump
+  - rather
+- - living
+  - memory
+  - remember
+- - shrubs
+  - someone
+  - must
+- - night
+  - deeply
+  - lost
+- - directions
+  - never
+  - previously
+- - unknown
+  - directions
+  - never
+- - goggles
+  - night
+  - came
 story:
   date: 2018-02-19
   id: 2018-02-19-at-night
@@ -73,4 +121,4 @@ story:
     The first sentence, and the last, were translated from the German by Tania and
     James Stern. Everything in between was not.'
   title: At Night
-word_count: 253
+word_count: 252

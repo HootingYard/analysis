@@ -1,16 +1,16 @@
 ngrams:
-- - painter
-  - karl
-  - weschke
 - - feel
   - john
   - donne
+- - cornish
+  - light
+  - i've
 - - replied
   - cornish
   - light
-- - busie
-  - old
-  - foole
+- - light
+  - i've
+  - got
 - - curtains
   - closed
   - see
@@ -26,15 +26,33 @@ ngrams:
 - - closed
   - see
   - how
-- - karl
-  - weschke
-  - when
 - - see
   - how
   - much
-- - weschke
-  - when
-  - asked
+- - heaven
+  - one
+  - person
+- - foam
+  - or
+  - froth
+- - overcast
+  - or
+  - raining
+- - just
+  - how
+  - we
+- - usually
+  - overcast
+  - or
+- - rainwater
+  - from
+  - heaven
+- - but
+  - feel
+  - john
+- - help
+  - but
+  - feel
 story:
   date: 2010-08-05
   id: 2010-08-05-cornish-light
@@ -50,4 +68,4 @@ story:
     \ and I keep the curtains closed.\u201D\nSee how much one can learn by reading\
     \ The Dabbler?"
   title: Cornish Light
-word_count: 147
+word_count: 146

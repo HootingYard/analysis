@@ -1,7 +1,4 @@
 ngrams:
-- - middlesex
-  - porridge-pot
-  - boils
 - - heroic
   - election
   - ballad
@@ -9,32 +6,17 @@ ngrams:
   - perfectly
   - featuring
 - - porridge
-  - information
-  - groupuscule
-- - porridge
   - weedy
   - poet
 - - explanatory
   - notes
   - accompanied
-- - discovered
-  - george
-  - huddesford
 - - weedy
   - poet
   - dennis
-- - poet
-  - dennis
-  - beerpint
 - - sat
   - staring
   - hopelessly
-- - beerpint
-  - recently
-  - received
-- - dennis
-  - beerpint
-  - recently
 - - hours
   - sat
   - staring
@@ -44,6 +26,87 @@ ngrams:
 - - empty
   - brain
   - finally
+- - written
+  - nothing
+  - except
+- - pieces
+  - being
+  - bubble
+- - published
+  - pieces
+  - being
+- - versifying
+  - gifts
+  - might
+- - blind
+  - horse
+  - here
+- - spent
+  - many
+  - hours
+- - many
+  - hours
+  - sat
+- - quite
+  - pass
+  - 'off'
+- - its
+  - prose
+  - style
+- - other
+  - published
+  - pieces
+- - muse
+  - has
+  - deserted
+- - has
+  - written
+  - nothing
+- - scum
+  - uppermost
+  - when
+- - staring
+  - hopelessly
+  - out
+- - has
+  - deserted
+  - him
+- - an
+  - admonitory
+  - nod
+- - an
+  - heroic
+  - election
+- - an
+  - empty
+  - brain
+- - porridge
+  - though
+  - this
+- - elections
+  - but
+  - horses
+- - boils
+  - over
+  - an
+- - over
+  - an
+  - heroic
+- - commission
+  - from
+  - pig
+- - be
+  - reborn
+  - alas
+- - perfectly
+  - featuring
+  - not
+- - not
+  - quite
+  - pass
+- - might
+  - be
+  - reborn
 story:
   date: 2009-03-22
   id: 2009-03-22-poets-of-porridge
@@ -70,4 +133,4 @@ story:
     \ The Redundancy Of Courage should in fact be The Consistency Of Porridge, though\
     \ this is thought to be a comment on its prose style."
   title: Poets Of Porridge
-word_count: 292
+word_count: 289

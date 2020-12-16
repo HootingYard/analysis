@@ -1,10 +1,4 @@
 ngrams:
-- - berserk
-  - mayor
-  - stoat
-- - global
-  - economic
-  - meltdown
 - - commons
   - select
   - committee
@@ -23,15 +17,36 @@ ngrams:
 - - boris
   - johnson
   - getting
+- - mayor's
+  - recent
+  - comment
 - - ectoplasm
   - equally
   - superb
-- - snow-crazed
+- - similar
+  - video
+  - clips
+- - watch
+  - similar
+  - video
+- - nice
+  - said
+  - mandelson
+- - committee
+  - meeting
+  - where
+- - mayor
   - stoat
-  - goes
-- - goes
-  - berserk
-  - mayor
+  - can
+- - medium
+  - has
+  - spoken
+- - interviewer
+  - who
+  - asked
+- - asked
+  - him
+  - how
 story:
   date: 2009-04-02
   id: 2009-04-02-more-like-this
@@ -47,4 +62,4 @@ story:
     \ to be involved in \u201Cthe fulcrum of history\u201D (illiterate hyperbabble\
     \ for the G20 summit). \xC2\_\u201CThe soup's nice,\u201D said Mandelson."
   title: More Like This
-word_count: 135
+word_count: 132

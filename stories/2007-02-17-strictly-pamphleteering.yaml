@@ -14,15 +14,21 @@ ngrams:
 - - declaim
   - mighty
   - pamphleteering
+- - v
+  - s
+  - naipaul
+- - ono
+  - v
+  - s
 - - strictly
   - pamphleteering
-  - pamphleteer
-- - hopeless
-  - would-be
   - pamphleteer
 - - mighty
   - pamphleteering
   - prose
+- - week's
+  - pamphlet
+  - topic
 - - called
   - strictly
   - pamphleteering
@@ -38,9 +44,27 @@ ngrams:
 - - judging
   - panel
   - though
-- - most
-  - hopeless
-  - would-be
+- - panel
+  - though
+  - names
+- - each
+  - week's
+  - pamphlet
+- - show
+  - bring
+  - us
+- - pretty
+  - much
+  - anything
+- - st
+  - century
+  - dobson
+- - much
+  - anything
+  - under
+- - though
+  - names
+  - such
 story:
   date: 2007-02-17
   id: 2007-02-17-strictly-pamphleteering
@@ -60,4 +84,4 @@ story:
     mighty pamphleteering prose about pretty much anything under the sun. Could this
     show bring us a 21st century Dobson? I live in hope.'
   title: Strictly Pamphleteering
-word_count: 179
+word_count: 178

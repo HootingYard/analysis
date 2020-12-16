@@ -1,16 +1,13 @@
 ngrams:
-- - lieutenant
-  - howard
-  - payson
 - - scrupulously
   - observed
   - scout
-- - trip
-  - andy
-  - bowles
 - - assist
   - uncle
-  - sam
+  - sam's
+- - uncle
+  - sam's
+  - agents
 - - observed
   - scout
   - law
@@ -35,15 +32,159 @@ ngrams:
 - - general
   - villa
   - whom
-- - comrades
-  - always
-  - bore
 - - scout
   - law
   - under
 - - best
   - scout
   - books
+- - boy
+  - scouts
+  - under
+- - scouts
+  - under
+  - fire
+- - always
+  - bore
+  - themselves
+- - panama
+  - canal
+  - once
+- - panama
+  - canal
+  - while
+- - herds
+  - away
+  - accordingly
+- - every
+  - 'true'
+  - wearer
+- - overcame
+  - many
+  - difficulties
+- - cattle
+  - ranch
+  - through
+- - many
+  - remarkable
+  - happenings
+- - volume
+  - just
+  - preceding
+- - scout
+  - books
+  - ever
+- - seventh
+  - volume
+  - just
+- - much
+  - useful
+  - information
+- - country
+  - much
+  - useful
+- - cattle
+  - ranch
+  - down
+- - books
+  - ever
+  - published
+- - well
+  - worth
+  - reading
+- - very
+  - best
+  - scout
+- - then
+  - uncompleted
+  - panama
+- - law
+  - under
+  - any
+- - more
+  - chance
+  - allowed
+- - many
+  - times
+  - once
+- - telling
+  - briefly
+  - some
+- - far
+  - southwest
+  - where
+- - chance
+  - allowed
+  - some
+- - camp
+  - has
+  - deservedly
+- - mountain
+  - camp
+  - has
+- - uncle
+  - who
+  - owned
+- - government
+  - officers
+  - who
+- - foreign
+  - spies
+  - who
+- - spies
+  - who
+  - tried
+- - once
+  - more
+  - rob
+- - once
+  - more
+  - chance
+- - canal
+  - once
+  - more
+- - deservedly
+  - been
+  - reckoned
+- - themselves
+  - manfully
+  - 'no'
+- - accompanied
+  - their
+  - service
+- - go
+  - down
+  - himself
+- - following
+  - their
+  - victory
+- - reward
+  - following
+  - their
+- - manfully
+  - 'no'
+  - matter
+- - times
+  - once
+  - more
+- - adherents
+  - were
+  - unexpectedly
+- - range
+  - were
+  - recounted
+- - friends
+  - were
+  - enabled
+- - were
+  - unexpectedly
+  - allowed
+- - close
+  - adherents
+  - were
+- - boy
+  - scouts
+  - will
 story:
   date: 2010-02-13
   id: 2010-02-13-chums-in-khaki
@@ -86,4 +227,4 @@ story:
     \ and his two chums to the reader.\u201D\nFrom The Boy Scouts On Belgian Battlefields\
     \ by Lieutenant Howard Payson (1915)"
   title: Chums In Khaki
-word_count: 503
+word_count: 502

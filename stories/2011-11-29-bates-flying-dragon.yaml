@@ -1,13 +1,19 @@
 ngrams:
-- - designer
-  - john
-  - bate
-- - john
-  - bate
-  - admitted
 - - public
   - domain
   - review
+- - compose
+  - further
+  - excitements
+- - its
+  - designer
+  - john
+- - further
+  - excitements
+  - from
+- - dragon
+  - be
+  - warned
 story:
   date: 2011-11-29
   id: 2011-11-29-bates-flying-dragon
@@ -16,4 +22,4 @@ story:
     \ to compose\u201D.\n\nFurther excitements from The Mysteries Of Nature And Art\
     \ (1634) at The Public Domain Review."
   title: Bate's Flying Dragon
-word_count: 46
+word_count: 45

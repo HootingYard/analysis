@@ -2,21 +2,24 @@ ngrams:
 - - mungo
   - mungo
   - mungo
-- - century
-  - oo-er
-  - missus
+- - saint
+  - mungo's
+  - diary
+- - mungo's
+  - diary
+  - today
 - - thousand
   - five
   - hundred
 - - found
   - cutting
   - capers
-- - tree
-  - together
-  - 'yes'
 - - again
   - mungo
   - mungo
+- - tree
+  - together
+  - 'yes'
 - - few
   - strathclyde
   - peasants
@@ -32,9 +35,6 @@ ngrams:
 - - spiritual
   - significance
   - something
-- - next
-  - century
-  - oo-er
 - - messenger
   - person
   - came
@@ -44,6 +44,123 @@ ngrams:
 - - came
   - hurrying
   - along
+- - tottered
+  - 'off'
+  - towards
+- - let
+  - us
+  - unearth
+- - inhospitable
+  - countryside
+  - where
+- - years
+  - ago
+  - woke
+- - those
+  - wild
+  - men
+- - many
+  - another
+  - malady
+- - such
+  - barbaric
+  - times
+- - over
+  - again
+  - mungo
+- - quite
+  - honestly
+  - did
+- - bid
+  - him
+  - desist
+- - christ
+  - jesus
+  - can
+- - only
+  - difference
+  - being
+- - strathclyde
+  - peasants
+  - who
+- - them
+  - begin
+  - wailing
+- - hear
+  - them
+  - begin
+- - do
+  - something
+  - holy
+- - some
+  - point
+  - early
+- - ago
+  - woke
+  - up
+- - mungo
+  - they
+  - wailed
+- - mungo
+  - mungo
+  - they
+- - about
+  - building
+  - another
+- - thought
+  - about
+  - building
+- - fish
+  - all
+  - together
+- - breakfast
+  - thought
+  - about
+- - spouts
+  - prognostications
+  - which
+- - are
+  - weighty
+  - matters
+- - st
+  - mungo
+  - so
+- - shall
+  - see
+  - what
+- - mungo
+  - so
+  - let
+- - an
+  - eerie
+  - premonition
+- - these
+  - are
+  - weighty
+- - portend
+  - these
+  - are
+- - precisely
+  - one
+  - thousand
+- - one
+  - thousand
+  - five
+- - this
+  - mad
+  - fellow
+- - bring
+  - an
+  - end
+- - who
+  - were
+  - loitering
+- - peasants
+  - who
+  - were
+- - so
+  - let
+  - us
 story:
   date: 2013-01-14
   id: 2013-01-14-saint-mungos-diary-14-1-73
@@ -79,4 +196,4 @@ story:
     \ an eerie premonition of death in a bath at some point early in the next century.\
     \ Oo-er, missus!"
   title: Saint Mungo's Diary 14.1.73
-word_count: 436
+word_count: 435

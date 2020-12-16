@@ -1,16 +1,22 @@
 ngrams:
-- - convincing
-  - tableau
-  - vivant
-- - tableau
-  - woohoohoodiwoo
-  - vivant
 - - thoroughly
   - convincing
   - tableau
-- - classicist
-  - mary
+- - mary
   - beard
+  - writes
+- - beard
+  - writes
+  - about
+- - scotland
+  - what
+  - she
+- - what
+  - she
+  - fails
+- - writes
+  - about
+  - her
 story:
   date: 2009-11-20
   id: 2009-11-20-tableau-woohoohoodiwoo-vivant
@@ -21,4 +27,4 @@ story:
 
     '
   title: Tableau (Woohoohoodiwoo) Vivant
-word_count: 53
+word_count: 52

@@ -1,13 +1,19 @@
 ngrams:
-- - poor
-  - exhausted
-  - duvet
-- - s
-  - rotating
-  - horse-grave
-- - duvet
-  - s
-  - rotating
+- - cranmer
+  - for
+  - sending
+- - david
+  - cranmer
+  - for
+- - rotating
+  - grave
+  - i
+- - i
+  - am
+  - indebted
+- - grave
+  - i
+  - am
 story:
   date: 2014-07-24
   id: 2014-07-24-duvets-grave
@@ -16,4 +22,4 @@ story:
 
     '
   title: Duvet's Grave
-word_count: 29
+word_count: 26

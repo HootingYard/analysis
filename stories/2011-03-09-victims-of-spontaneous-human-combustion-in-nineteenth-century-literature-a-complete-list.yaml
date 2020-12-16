@@ -1,31 +1,13 @@
 ngrams:
-- - sailor
-  - miguel
-  - saveda
-- - derelict
-  - jimmy
-  - flinn
 - - threatening
   - spontaneous
   - combustion
-- - william
-  - edmondstoune
-  - aytoun
-- - gogol
-  - sir
-  - polloxfen
+- - '''s'
+  - jane
+  - eyre
 - - nikolai
   - gogol
   - sir
-- - sir
-  - polloxfen
-  - tremens
-- - brockden
-  - brown
-  - william
-- - charles
-  - brockden
-  - brown
 - - body
   - threatening
   - spontaneous
@@ -38,6 +20,42 @@ ngrams:
 - - spontaneous
   - human
   - combustion
+- - complete
+  - list
+  - jessica
+- - herman
+  - melville
+  - mr
+- - jane
+  - eyre
+  - who
+- - reason
+  - provides
+  - what
+- - provides
+  - what
+  - she
+- - what
+  - she
+  - says
+- - by
+  - nikolai
+  - gogol
+- - jacob
+  - faithful
+  - by
+- - by
+  - washington
+  - irving
+- - by
+  - herman
+  - melville
+- - souls
+  - by
+  - nikolai
+- - york
+  - by
+  - washington
 story:
   date: 2011-03-09
   id: 2011-03-09-victims-of-spontaneous-human-combustion-in-nineteenth-century-literature-a-complete-list
@@ -56,4 +74,4 @@ story:
     \ spontaneous combustion\u201D."
   title: "Victims Of Spontaneous Human Combustion In Nineteenth-Century Literature\_\
     : A Complete List"
-word_count: 157
+word_count: 155

@@ -2,12 +2,18 @@ ngrams:
 - - seminal
   - masterpiece
   - cosmic
-- - friends
-  - yava
-  - hoosita
-- - cosmic
+- - masterpiece
+  - cosmic
   - friends
-  - yava
+- - cosmic
+  - dabbling
+  - this
+- - dabbling
+  - this
+  - week
+- - dabbler
+  - i
+  - introduce
 story:
   date: 2011-10-28
   id: 2011-10-28-cosmic-dabbling
@@ -16,4 +22,4 @@ story:
     This week in The Dabbler I introduce readers to Jimmy Goddard''s seminal masterpiece
     Cosmic Friends. Yava Hoosita!'
   title: Cosmic Dabbling
-word_count: 20
+word_count: 19

@@ -1,16 +1,4 @@
 ngrams:
-- - fey
-  - flighty
-  - bewinged
-- - flighty
-  - bewinged
-  - sprites
-- - cottingley
-  - fairies
-  - hat-pins
-- - grauniad
-  - cryptic
-  - crossword
 - - duty
   - marker
   - pens
@@ -23,9 +11,6 @@ ngrams:
 - - heavy
   - duty
   - marker
-- - henry
-  - heyl
-  - forty
 - - saying
   - fairy
   - stationer
@@ -41,9 +26,90 @@ ngrams:
 - - thick
   - black
   - heavy
-- - frances
-  - griffiths
-  - took
+- - home
+  - stapling
+  - machine
+- - read
+  - fairy
+  - stationer
+- - perhaps
+  - using
+  - treasury
+- - sprites
+  - perhaps
+  - using
+- - fairy
+  - stationer
+  - just
+- - poke
+  - one's
+  - head
+- - than
+  - scented
+  - notepaper
+- - stationery
+  - items
+  - such
+- - tiny
+  - little
+  - shop
+- - more
+  - robust
+  - stationery
+- - then
+  - entire
+  - cartons
+- - surely
+  - more
+  - robust
+- - weeks
+  - ago
+  - where
+- - column
+  - down
+  - read
+- - mountains
+  - then
+  - entire
+- - down
+  - read
+  - fairy
+- - their
+  - fairy
+  - powers
+- - use
+  - their
+  - fairy
+- - other
+  - than
+  - scented
+- - stationery
+  - other
+  - than
+- - thinking
+  - about
+  - fairies
+- - took
+  - their
+  - photographs
+- - can
+  - imagine
+  - these
+- - fasten
+  - together
+  - into
+- - fairy
+  - stationer
+  - there
+- - fairies
+  - are
+  - deceptively
+- - stationery
+  - are
+  - commonly
+- - are
+  - deceptively
+  - strong
 story:
   date: 2011-09-13
   id: 2011-09-13-fairy-stationer
@@ -71,4 +137,4 @@ story:
     \ used by fairies, and which are not.\n\nThe Cottingley Fairies\_: hat-pins, not\
     \ staples"
   title: Fairy Stationer
-word_count: 298
+word_count: 297

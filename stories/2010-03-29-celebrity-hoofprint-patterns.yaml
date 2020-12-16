@@ -1,31 +1,13 @@
 ngrams:
-- - booker
-  - prize-nominated
-  - celebrity
-- - aerosol
-  - repellant
-  - canister
-- - well-known
-  - celebrity
-  - centaur
 - - lee
   - harvey
-  - oswald
+  - oswald's
 - - celebrity
   - hoof
   - patterns
-- - goat-footed
-  - beasts
-  - spawned
 - - europe
   - america
   - africa
-- - celebrity
-  - hoofprint
-  - patterns
-- - cookery
-  - programmes
-  - shows
 - - identical
   - pattern
   - identical
@@ -35,15 +17,198 @@ ngrams:
 - - mythological
   - figure
   - representing
-- - television
-  - cookery
-  - programmes
 - - excellent
   - varnish
   - available
-- - prize-nominated
+- - farmer
+  - frack
+  - disperse
+- - somewhere
+  - alongside
+  - oswald's
+- - allegedly
+  - somewhere
+  - alongside
+- - farmer
+  - frack
+  - trudge
+- - lavish
+  - coffee
+  - table
+- - st
+  - peter's
+  - church
+- - 'yes'
   - celebrity
+  - hoof
+- - celebrity
   - goat
+  - devil
+- - farmer
+  - frack
+  - pick
+- - coffee
+  - table
+  - designed
+- - turn
+  - europe
+  - america
+- - ah
+  - 'yes'
+  - celebrity
+- - splendid
+  - wooden
+  - carvings
+- - eerie
+  - barn
+  - sorry
+- - certain
+  - mirrors
+  - appears
+- - hamfisted
+  - shaking
+  - person
+- - wooden
+  - mud
+  - ah
+- - snow
+  - wooden
+  - mud
+- - word
+  - allegedly
+  - somewhere
+- - frack
+  - trudge
+  - along
+- - alongside
+  - oswald's
+  - name
+- - each
+  - leg
+  - carved
+- - november
+  - unfortunately
+  - because
+- - varnish
+  - available
+  - each
+- - fine
+  - fine
+  - thing
+- - available
+  - each
+  - leg
+- - hooved
+  - either
+  - because
+- - most
+  - excellent
+  - varnish
+- - coffee
+  - table
+  - book
+- - well
+  - worth
+  - remembering
+- - old
+  - farmer
+  - frack
+- - old
+  - farmer
+  - frack
+- - old
+  - farmer
+  - frack
+- - independently
+  - verified
+  - those
+- - ignore
+  - those
+  - lessons
+- - oswald's
+  - name
+  - should
+- - commonly
+  - sees
+  - only
+- - second
+  - example
+  - again
+- - table
+  - book
+  - both
+- - again
+  - well
+  - attested
+- - barn
+  - sorry
+  - where
+- - flies
+  - settle
+  - upon
+- - lessons
+  - just
+  - because
+- - should
+  - ignore
+  - those
+- - canister
+  - see
+  - old
+- - example
+  - again
+  - well
+- - more
+  - material
+  - suitable
+- - sack
+  - see
+  - old
+- - see
+  - old
+  - farmer
+- - see
+  - old
+  - farmer
+- - see
+  - old
+  - farmer
+- - name
+  - should
+  - go
+- - those
+  - lessons
+  - just
+- - spot
+  - such
+  - things
+- - brain
+  - see
+  - old
+- - latter
+  - perhaps
+  - more
+- - frack
+  - pick
+  - up
+- - neck
+  - up
+  - celebrity
+- - nod
+  - more
+  - see
+- - been
+  - considering
+  - making
+- - much
+  - more
+  - material
+- - standard
+  - iconography
+  - will
+- - indeed
+  - neck
+  - up
 story:
   date: 2010-03-29
   id: 2010-03-29-celebrity-hoofprint-patterns
@@ -89,4 +254,4 @@ story:
     \ iconography will be that each figure will have the hooves of a goat, embedded\
     \ in wooden mud or snow.\nWooden mud, ah! It is a fine, fine thing."
   title: Celebrity Hoofprint Patterns
-word_count: 565
+word_count: 562

@@ -1,49 +1,148 @@
 ngrams:
-- - hans
-  - werner
-  - henze
 - - comic
   - purposes
   - presumably
 - - presumably
   - comic
   - effect
-- - late
-  - lamented
-  - radbod
-- - fifty
-  - pence
-  - please
 - - certain
   - mild
   - exasperation
 - - tell
   - obvious
   - fibs
+- - mother's
+  - life
+  - ghent
+- - fibs
+  - because
+  - let's
 - - obvious
   - fibs
   - because
 - - get
   - anywhere
   - unless
-- - own
+- - case
+  - you've
+  - written
+- - god's
+  - own
   - truth
-  - immutable
 - - make
   - outrageous
   - claims
-- - won
-  - t
-  - convince
+- - because
+  - let's
+  - face
+- - something
+  - that's
+  - gone
 - - point
   - home
   - thank
-- - fibs
-  - because
-  - let
-- - dead
+- - 'true'
+  - every
+  - single
+- - every
+  - single
+  - word
+- - every
+  - last
+  - syllable
+- - accept
+  - every
+  - last
+- - any
+  - case
+  - you've
+- - may
+  - contradict
+  - myself
+- - more
+  - likely
+  - betraying
+- - word
+  - ever
+  - even
+- - her
+  - life
+  - until
+- - mother's
+  - been
+  - dead
+- - 'no'
+  - point
+  - swearing
+- - stuff
+  - about
+  - puddles
+- - stuff
+  - about
+  - puddles
+- - ever
+  - even
+  - though
+- - put
+  - your
+  - coins
+- - case
+  - your
+  - mother's
+- - you've
+  - written
+  - about
+- - may
+  - say
+  - well
+- - will
+  - listen
+  - calmly
+- - your
+  - mother's
+  - life
+- - me
+  - staunch
+  - staunch
+- - won't
+  - convince
+  - me
+- - well
+  - your
+  - mother's
+- - her
+  - life
+  - now
+- - against
+  - me
+  - staunch
+- - been
+  - dead
   - these
-  - twenty-one
+- - lay
+  - against
+  - me
+- - presumably
+  - so
+  - swearing
+- - your
+  - mother
+  - before
+- - purposes
+  - presumably
+  - so
+- - also
+  - made
+  - up
+- - just
+  - put
+  - your
+- - all
+  - 'true'
+  - every
+- - say
+  - well
+  - your
 story:
   date: 2015-06-12
   id: 2015-06-12-those-puddles
@@ -74,4 +173,4 @@ story:
     in the tin, and every penny I collect will be spent on flowers for my mother's
     grave.
   title: Those Puddles
-word_count: 398
+word_count: 387

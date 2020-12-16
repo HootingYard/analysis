@@ -2,21 +2,12 @@ ngrams:
 - - lobby
   - armchairs
   - expecting
-- - songlet
-  - benny
-  - snapped
-- - benny
-  - snapped
-  - agnetha
 - - fernando
   - draw
   - sunbeams
 - - grim
   - scandinavian
   - misery
-- - sudden
-  - bj
-  - rn
 - - grew
   - increasingly
   - despondent
@@ -26,24 +17,102 @@ ngrams:
 - - benny
   - grew
   - increasingly
-- - snapped
-  - agnetha
-  - tears
-- - hotel
-  - grounds
-  - agnetha
 - - added
   - benny
   - trying
-- - abandoned
-  - cow
-  - byre
-- - cucumber
-  - asked
-  - agnetha
-- - saw
-  - anni-frid
-  - flit
+- - fallen
+  - asleep
+  - lost
+- - eyes
+  - playing
+  - tricks
+- - came
+  - striding
+  - manfully
+- - here
+  - groaned
+  - benny
+- - winter
+  - anyway
+  - how
+- - benny
+  - lying
+  - through
+- - rifle
+  - since
+  - many
+- - said
+  - benny
+  - staring
+- - said
+  - benny
+  - lying
+- - cheeks
+  - oh
+  - said
+- - oh
+  - said
+  - benny
+- - beating
+  - her
+  - fists
+- - clean
+  - her
+  - rifle
+- - could
+  - draw
+  - sunbeams
+- - her
+  - rifle
+  - since
+- - flit
+  - past
+  - like
+- - her
+  - cheeks
+  - oh
+- - such
+  - scandinavian
+  - birds
+- - mysterious
+  - writing
+  - upon
+- - really
+  - seen
+  - her
+- - since
+  - many
+  - years
+- - fan
+  - above
+  - their
+- - 'no'
+  - mysterious
+  - writing
+- - down
+  - her
+  - cheeks
+- - rolling
+  - down
+  - her
+- - above
+  - their
+  - heads
+- - clothing
+  - were
+  - blackened
+- - striding
+  - manfully
+  - into
+- - tears
+  - were
+  - rolling
+- - misery
+  - if
+  - fernando
+- - scandinavian
+  - misery
+  - if
 story:
   date: 2010-04-28
   id: 2010-04-28-after-belshazzars-feast
@@ -72,4 +141,4 @@ story:
     \ how would Fernando draw sunbeams from a cucumber?\u201D asked Agnetha, eventually.\n\
     But Benny had fallen asleep, lost in dreams of Belshazzar."
   title: After Belshazzar's Feast
-word_count: 310
+word_count: 307

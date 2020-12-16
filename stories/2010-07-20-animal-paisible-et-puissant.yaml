@@ -1,13 +1,19 @@
 ngrams:
-- - paisible
-  - et
-  - puissant
-- - animal
-  - paisible
-  - et
-- - et
-  - puissant
+- - look
+  - tinies
   - look
+- - cow
+  - from
+  - gaul
+- - from
+  - gaul
+  - from
+- - tinies
+  - look
+  - a
+- - look
+  - a
+  - cow
 story:
   date: 2010-07-20
   id: 2010-07-20-animal-paisible-et-puissant

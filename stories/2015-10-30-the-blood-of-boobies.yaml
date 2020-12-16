@@ -1,7 +1,4 @@
 ngrams:
-- - ornithologically-themed
-  - vampire
-  - tv
 - - contemporary
   - popular
   - culture
@@ -17,6 +14,21 @@ ngrams:
 - - am
   - always
   - looking
+- - nobody
+  - has
+  - thought
+- - series
+  - especially
+  - when
+- - finch
+  - which
+  - sucks
+- - vampire
+  - finch
+  - which
+- - latter
+  - bird
+  - so
 story:
   date: 2015-10-30
   id: 2015-10-30-the-blood-of-boobies
@@ -27,4 +39,4 @@ story:
     \ which sucks the blood of blue-footed boobies. I am always looking for an excuse\
     \ to show a picture of the latter bird, so here are a couple of them.\n"
   title: The Blood Of Boobies
-word_count: 83
+word_count: 82

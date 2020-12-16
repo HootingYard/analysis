@@ -1,22 +1,4 @@
 ngrams:
-- - ervigius
-  - grandson
-  - witiza
-- - full-scale
-  - moorish
-  - invasion
-- - rebel
-  - leader
-  - ervigius
-- - wamba
-  - yours
-  - outaspaceman
-- - hhg
-  - g
-  - site
-- - grandson
-  - witiza
-  - died
 - - newly
   - armed
   - priests
@@ -29,21 +11,60 @@ ngrams:
 - - finest
   - opening
   - line
-- - outaspaceman
-  - dear
-  - frank
-- - panicking
-  - king
-  - wamba
-- - panicking
-  - king
-  - wamba
-- - king
-  - wamba
-  - yours
 - - embarrassed
   - king
   - stood
+- - king
+  - stood
+  - aside
+- - last
+  - gothic
+  - comedy
+- - succession
+  - put
+  - king
+- - letter
+  - mr
+  - key
+- - any
+  - letter
+  - mr
+- - priests
+  - threw
+  - their
+- - threw
+  - their
+  - lot
+- - into
+  - barbaric
+  - tribes
+- - called
+  - up
+  - priests
+- - research
+  - into
+  - barbaric
+- - has
+  - ever
+  - received
+- - mr
+  - key
+  - has
+- - key
+  - has
+  - ever
+- - g
+  - site
+  - there
+- - this
+  - paragraph
+  - relating
+- - one
+  - last
+  - gothic
+- - found
+  - this
+  - paragraph
 story:
   date: 2009-02-05
   id: 2009-02-05-king-wamba
@@ -62,4 +83,4 @@ story:
     \ OutaSpaceman\n*This is considered to be the finest opening line of any letter\
     \ Mr Key has ever received."
   title: King Wamba
-word_count: 183
+word_count: 182

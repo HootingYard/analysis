@@ -17,12 +17,6 @@ ngrams:
 - - snip
   - n
   - gum
-- - doubt
-  - tiring
-  - researches
-- - hotplate
-  - usually
-  - eaten
 - - usually
   - eaten
   - split
@@ -38,9 +32,33 @@ ngrams:
 - - small
   - flat
   - cake
-- - between
+- - difference
+  - between
   - 'true'
-  - moofins
+- - world
+  - outside
+  - britain
+- - these
+  - spellings
+  - anyway
+- - kindly
+  - provided
+  - these
+- - muffin
+  - device
+  - just
+- - having
+  - apprised
+  - himself
+- - flat
+  - cake
+  - made
+- - outside
+  - britain
+  - think
+- - just
+  - print
+  - snip
 story:
   date: 2009-03-09
   id: 2009-03-09-print-snip-n-gum
@@ -58,4 +76,4 @@ story:
     \ Mr Webster has kindly provided these cut-out \u201Cpatches\u201D or \u201Cplug-ins\u201D\
     \ for your heraldic muffin device. Just print, snip, \u2018n\u2019 gum!\n\n\_"
   title: "Print, Snip, \u2018n\u2019 Gum"
-word_count: 169
+word_count: 167

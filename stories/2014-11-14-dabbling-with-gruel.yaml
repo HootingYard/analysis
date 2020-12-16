@@ -1,7 +1,4 @@
 ngrams:
-- - treat
-  - miss
-  - hathorn
 - - special
   - treat
   - miss
@@ -14,6 +11,15 @@ ngrams:
 - - film
   - features
   - both
+- - very
+  - special
+  - treat
+- - full
+  - hooting
+  - yard
+- - all
+  - bright
+  - sunshine
 story:
   date: 2014-11-14
   id: 2014-11-14-dabbling-with-gruel
@@ -23,4 +29,4 @@ story:
     \ drizzle and misery. The film features both knitting and probably the best crossword\
     \ in cinema history.\n"
   title: Dabbling With Gruel
-word_count: 62
+word_count: 61

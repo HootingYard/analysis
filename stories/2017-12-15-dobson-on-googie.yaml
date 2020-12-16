@@ -1,13 +1,19 @@
 ngrams:
-- - chew
-  - daniel
-  - tomasch
 - - marigold
   - chew
   - daniel
 - - print
   - dobson
   - pamphlet
+- - googie
+  - an
+  - important
+- - cover
+  - design
+  - by
+- - design
+  - by
+  - marigold
 story:
   date: 2017-12-15
   id: 2017-12-15-dobson-on-googie

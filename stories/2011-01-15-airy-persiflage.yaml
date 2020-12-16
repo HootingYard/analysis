@@ -1,19 +1,7 @@
 ngrams:
-- - ron
-  - hubbarddom
-  - notwithstanding
-- - golden-voiced
-  - norm
-  - sherman
-- - l
-  - ron
-  - hubbarddom
 - - young
   - gar
   - hails
-- - walter
-  - o
-  - hara
 - - awful
   - spooky
   - land
@@ -29,21 +17,57 @@ ngrams:
 - - bat
   - god
   - fatso
-- - impeccable
-  - taste
-  - indeed
 - - hideous
   - bat
   - god
-- - two
-  - american
-  - podcasters
-- - american
-  - podcasters
-  - first
-- - o
-  - hara
+- - impeccable
+  - taste
+  - indeed
+- - walter
+  - o'hara
   - mr
+- - dear
+  - mr
+  - key
+- - own
+  - dear
+  - mr
+- - catechism
+  - has
+  - captured
+- - gar
+  - who
+  - lends
+- - young
+  - gar
+  - who
+- - god
+  - catechism
+  - has
+- - has
+  - also
+  - essayed
+- - about
+  - venomous
+  - serpents
+- - wrote
+  - about
+  - venomous
+- - if
+  - young
+  - gar
+- - wonder
+  - if
+  - young
+- - your
+  - own
+  - dear
+- - striking
+  - thing
+  - about
+- - one
+  - walter
+  - o'hara
 story:
   date: 2011-01-15
   id: 2011-01-15-airy-persiflage
@@ -62,4 +86,4 @@ story:
     \ I wonder if young Gar hails from the awful, spooky land of Gaar, that place\
     \ of nightmares and ill-advised picnics?"
   title: Airy Persiflage
-word_count: 192
+word_count: 187

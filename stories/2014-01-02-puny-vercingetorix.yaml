@@ -1,7 +1,4 @@
 ngrams:
-- - vercingetorix
-  - clank
-  - wherefore
 - - marches
   - puny
   - vercingetorix
@@ -14,9 +11,6 @@ ngrams:
 - - puny
   - vercingetorix
   - clank
-- - straggling
-  - marcher
-  - cut
 - - stones
   - puny
   - vercingetorix
@@ -44,6 +38,117 @@ ngrams:
 - - hark
   - hear
   - puny
+- - hear
+  - puny
+  - vercingetorix
+- - king
+  - george
+  - iii
+- - tiny
+  - puny
+  - cog
+- - rear
+  - having
+  - fallen
+- - straggler
+  - falls
+  - far
+- - occurrences
+  - most
+  - distressing
+- - distressing
+  - most
+  - distressing
+- - puny
+  - vercingetorix
+  - though
+- - most
+  - extraordinary
+  - noise
+- - having
+  - fallen
+  - behind
+- - vercingetorix
+  - see
+  - vercingetorix
+- - see
+  - vercingetorix
+  - vercingetorix
+- - away
+  - puny
+  - vercingetorix
+- - puny
+  - vercingetorix
+  - see
+- - make
+  - significant
+  - passing
+- - falls
+  - far
+  - behind
+- - roam
+  - these
+  - hills
+- - travelling
+  - circus
+  - now
+- - most
+  - distressing
+  - most
+- - far
+  - away
+  - puny
+- - hills
+  - far
+  - away
+- - these
+  - hills
+  - far
+- - rather
+  - than
+  - carrying
+- - bears
+  - rather
+  - than
+- - him
+  - unimaginable
+  - harm
+- - such
+  - occurrences
+  - most
+- - tickled
+  - their
+  - funny
+- - has
+  - fallen
+  - behind
+- - their
+  - funny
+  - bones
+- - funny
+  - bones
+  - up
+- - been
+  - countless
+  - newspaper
+- - bones
+  - up
+  - ahead
+- - could
+  - barely
+  - see
+- - about
+  - beatific
+  - smiles
+- - flail
+  - about
+  - beatific
+- - george
+  - iii
+  - what
+- - iii
+  - what
+  - usually
 story:
   date: 2014-01-02
   id: 2014-01-02-puny-vercingetorix
@@ -84,4 +189,4 @@ story:
     his curds and whey, and snacks upon them, waiting for bears. It is the first Thursday
     of the fifteenth century.'
   title: Puny Vercingetorix
-word_count: 404
+word_count: 402

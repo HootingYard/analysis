@@ -1,13 +1,19 @@
 ngrams:
-- - rural-england
-  - dramas
-  - featuring
-- - dramas
-  - featuring
-  - cement-coloured
 - - drizzle
   - deborah
   - ross
+- - skies
+  - wind
+  - rain
+- - rain
+  - mud
+  - rusted
+- - dead
+  - animals
+  - sounds
+- - wind
+  - rain
+  - mud
 story:
   date: 2018-03-09
   id: 2018-03-09-overcast-with-drizzle
@@ -18,4 +24,4 @@ story:
 
     Sounds as if it''s set in Hooting Yard!'
   title: Overcast, With Drizzle
-word_count: 42
+word_count: 41

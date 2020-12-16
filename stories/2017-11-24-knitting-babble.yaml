@@ -1,10 +1,4 @@
 ngrams:
-- - bo
-  - peep
-  - nota
-- - peep
-  - nota
-  - bene
 - - thereafter
   - listeners
   - deprived
@@ -14,18 +8,36 @@ ngrams:
 - - genuine
   - knitting
   - tip
-- - nota
-  - bene
-  - miss
+- - knitting
+  - babble
+  - yesterday's
 - - knitting
   - needles
   - stuck
-- - bene
-  - miss
+- - miss
   - blossom
+  - partridge
+- - miss
+  - blossom
+  - partridge
+- - babble
+  - yesterday's
+  - episode
 - - wholly
   - genuine
   - knitting
+- - admittedly
+  - myopic
+  - eyes
+- - beatle
+  - cuxhaven
+  - another
+- - own
+  - admittedly
+  - myopic
+- - little
+  - bo
+  - peep
 story:
   date: 2017-11-24
   id: 2017-11-24-knitting-babble
@@ -38,4 +50,4 @@ story:
     : Miss Blossom Partridge has asked me to confirm that this is a wholly genuine\
     \ knitting tip. I have seen the evidence with my own (admittedly myopic) eyes."
   title: Knitting Babble
-word_count: 108
+word_count: 106

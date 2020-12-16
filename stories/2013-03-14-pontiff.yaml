@@ -2,9 +2,6 @@ ngrams:
 - - bus
   - passenger
   - update
-- - one-lunged
-  - jesuit
-  - bus
 - - jesuit
   - bus
   - passenger
@@ -14,15 +11,30 @@ ngrams:
 - - appropriate
   - f
   - word
-- - f
-  - word
-  - however
 - - yard
   - pontiff
   - mnemonic
+- - f
+  - word
+  - however
+- - most
+  - appropriate
+  - f
+- - enormously
+  - useful
+  - hooting
+- - pontiff
+  - mnemonic
+  - just
+- - pontiff
+  - mnemonic
+  - before
 - - hooting
-  - yardy
+  - yard
   - pontiff
+- - useful
+  - hooting
+  - yard
 story:
   date: 2013-03-14
   id: 2013-03-14-pontiff
@@ -34,4 +46,4 @@ story:
     \ for today's episode of Hooting Yard On The Air on ResonanceFM. You can find\
     \ out what the word is by listening to the show, archived on soundcloud here."
   title: Pontiff!
-word_count: 98
+word_count: 97

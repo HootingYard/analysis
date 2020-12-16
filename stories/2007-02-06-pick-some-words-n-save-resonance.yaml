@@ -1,10 +1,13 @@
 ngrams:
-- - donors
-  - unless
-  - anonymity
+- - world's
+  - finest
+  - radio
 - - station
   - resonance
   - fm
+- - week's
+  - show
+  - send
 - - finest
   - radio
   - station
@@ -14,21 +17,33 @@ ngrams:
 - - radio
   - station
   - resonance
+- - sponsoring
+  - next
+  - week's
 - - words
   - save
   - resonance
-- - yard
-  - googlemail
-  - com
-- - sponsoring
-  - next
-  - week
+- - next
+  - week's
+  - show
 - - wednesday
   - february
   - here
+- - next
+  - week's
+  - hooting
 - - preferred
   - now
   - follow
+- - now
+  - follow
+  - step
+- - week's
+  - hooting
+  - yard
+- - pick
+  - some
+  - words
 story:
   date: 2007-02-06
   id: 2007-02-06-pick-some-words-n-save-resonance
@@ -43,4 +58,4 @@ story:
     \ the names of the donors (unless anonymity is preferred).\n5. Now follow Step\
     \ 1, immediately!"
   title: Pick Some Words & Save Resonance
-word_count: 131
+word_count: 127

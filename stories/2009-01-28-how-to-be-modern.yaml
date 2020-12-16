@@ -1,19 +1,7 @@
 ngrams:
-- - dynamic
-  - thrusting
-  - modernist
-- - modernist
-  - metropolitan
-  - kirill
 - - thrusting
   - modernist
   - metropolitan
-- - colourful
-  - robes
-  - unlike
-- - modern
-  - colourful
-  - robes
 - - online
   - edition
   - sadly
@@ -26,6 +14,33 @@ ngrams:
 - - russian
   - church
   - says
+- - smolensk
+  - who's
+  - behind
+- - edition
+  - sadly
+  - does
+- - pass
+  - figures
+  - next
+- - jaws
+  - can
+  - drop
+- - smolensk
+  - that's
+  - him
+- - readers
+  - jaws
+  - can
+- - who
+  - look
+  - positively
+- - their
+  - black
+  - garb
+- - they
+  - call
+  - metropolitan
 story:
   date: 2009-01-28
   id: 2009-01-28-how-to-be-modern
@@ -39,4 +54,4 @@ story:
     \ On the other hand, they might be beatniks, and it's Metropolitan Kirill of Smolensk\
     \ who's behind the times, daddy-o.\n"
   title: How To Be Modern
-word_count: 116
+word_count: 112

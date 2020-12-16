@@ -1,16 +1,4 @@
 ngrams:
-- - pantryboy
-  - argues
-  - persuasively
-- - knud
-  - pantryboy
-  - argues
-- - illustrator
-  - tosh
-  - quackpencil
-- - critic
-  - knud
-  - pantryboy
 - - medical
   - illustrator
   - tosh
@@ -20,18 +8,6 @@ ngrams:
 - - quack
   - medical
   - illustrator
-- - knud
-  - pantryboy
-  - suggests
-- - dobsonist
-  - circles
-  - occasioned
-- - twentieth-century
-  - writers
-  - compiled
-- - scandinavian
-  - critic
-  - knud
 - - brittle
   - squalid
   - decade
@@ -44,6 +20,144 @@ ngrams:
 - - extremely
   - dangerous
   - ornithology
+- - recklessly
+  - breaks
+  - bones
+- - pencil
+  - sketches
+  - purportedly
+- - mystery
+  - primrose
+  - dent
+- - compendium
+  - pencil
+  - sketches
+- - innumerable
+  - picnic
+  - spots
+- - pencil
+  - sketches
+  - based
+- - picnic
+  - spots
+  - throughout
+- - earth
+  - landing
+  - awkwardly
+- - upstart
+  - young
+  - scandinavian
+- - hysterical
+  - prose
+  - controversially
+- - suggest
+  - dobson's
+  - collarbone
+- - young
+  - scandinavian
+  - critic
+- - squalid
+  - decade
+  - 'true'
+- - la
+  - dent
+  - used
+- - pursued
+  - recklessly
+  - does
+- - merry
+  - march
+  - morning
+- - pamphlet
+  - upstart
+  - young
+- - thousand
+  - four
+  - hundred
+- - indeed
+  - break
+  - bones
+- - dobson's
+  - collarbone
+  - each
+- - collarbone
+  - each
+  - show
+- - dobson's
+  - pamphlet
+  - oh
+- - tale
+  - while
+  - admitting
+- - each
+  - show
+  - signs
+- - recklessly
+  - does
+  - indeed
+- - decade
+  - 'true'
+  - too
+- - does
+  - indeed
+  - break
+- - u
+  - first
+  - appeared
+- - thunderstorm
+  - why
+  - though
+- - dobson
+  - never
+  - climbed
+- - fiction
+  - dobson
+  - never
+- - huge
+  - numbers
+  - can
+- - 'no'
+  - evidence
+  - exists
+- - spots
+  - throughout
+  - what
+- - when
+  - pursued
+  - recklessly
+- - when
+  - pursued
+  - recklessly
+- - pictures
+  - were
+  - executed
+- - ornithology
+  - when
+  - pursued
+- - ornithology
+  - when
+  - pursued
+- - ornithology
+  - ornithology
+  - when
+- - dangerous
+  - ornithology
+  - when
+- - wrens
+  - when
+  - gathered
+- - were
+  - executed
+  - during
+- - globe
+  - we
+  - call
+- - extinct
+  - which
+  - grace
+- - so
+  - doing
+  - broke
 story:
   date: 2018-04-30
   id: 2018-04-30-ornithology
@@ -83,4 +197,4 @@ story:
     \ numbers, can be extremely dangerous. Ornithology, when pursued recklessly, does\
     \ indeed break bones."
   title: Ornithology
-word_count: 437
+word_count: 431

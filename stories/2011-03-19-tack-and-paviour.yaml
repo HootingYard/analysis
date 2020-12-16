@@ -1,34 +1,19 @@
 ngrams:
-- - civic-minded
-  - physical
-  - manoeuvering
 - - mining
   - disasters
   - clouds
 - - disasters
   - clouds
   - shifted
-- - n
-  - muck-covered
-  - overalls
-- - hidebound
-  - view
-  - cuts
 - - quiz
   - shows
   - cocktail
 - - shows
   - cocktail
   - parties
-- - dust
-  - n
-  - muck-covered
 - - stopped
   - short
   - looming
-- - decoy
-  - duckpond
-  - beyond
 - - heard
   - footsteps
   - approaching
@@ -38,12 +23,201 @@ ngrams:
 - - thus
   - keenly
   - eyeing
+- - oh
+  - i'm
+  - sorry
 - - owl
   - sanctuary
   - past
-- - handyperson
-  - deliberately
-  - because
+- - every
+  - paving
+  - slab
+- - laid
+  - every
+  - paving
+- - lay
+  - across
+  - blister
+- - across
+  - blister
+  - lane
+- - body
+  - lay
+  - across
+- - blister
+  - lane
+  - while
+- - myself
+  - thus
+  - keenly
+- - disporting
+  - myself
+  - thus
+- - went
+  - walking
+  - along
+- - saw
+  - something
+  - glisten
+- - stopped
+  - still
+  - looking
+- - accidentally
+  - through
+  - carelessness
+- - sunlight
+  - beamed
+  - down
+- - something
+  - glisten
+  - though
+- - soul
+  - singer
+  - might
+- - glisten
+  - though
+  - still
+- - kitchenette
+  - floor
+  - where
+- - down
+  - further
+  - sprawling
+- - identify
+  - any
+  - number
+- - singer
+  - might
+  - get
+- - simply
+  - went
+  - down
+- - got
+  - down
+  - further
+- - leisure
+  - some
+  - authorities
+- - future
+  - get
+  - down
+- - am
+  - fine
+  - thank
+- - some
+  - authorities
+  - blodgett
+- - has
+  - proved
+  - useful
+- - canal
+  - just
+  - before
+- - cuts
+  - 'no'
+  - mustard
+- - just
+  - getting
+  - down
+- - view
+  - cuts
+  - 'no'
+- - 'no'
+  - longer
+  - gleamed
+- - tack
+  - 'no'
+  - longer
+- - still
+  - some
+  - yards
+- - fellow
+  - head
+  - like
+- - beamed
+  - down
+  - upon
+- - some
+  - yards
+  - away
+- - brass
+  - tack
+  - when
+- - tack
+  - out
+  - hunting
+- - can
+  - see
+  - including
+- - might
+  - get
+  - down
+- - eye
+  - can
+  - see
+- - were
+  - directly
+  - above
+- - eyes
+  - were
+  - directly
+- - then
+  - got
+  - down
+- - though
+  - still
+  - some
+- - looming
+  - above
+  - me
+- - wondered
+  - if
+  - perhaps
+- - any
+  - chance
+  - 'no'
+- - what
+  - choice
+  - did
+- - get
+  - down
+  - 'no'
+- - an
+  - imperfect
+  - tack
+- - were
+  - flat
+  - upon
+- - one
+  - brass
+  - tack
+- - one
+  - dreary
+  - morning
+- - carelessness
+  - or
+  - stupidity
+- - imperfect
+  - tack
+  - or
+- - tack
+  - or
+  - accidentally
+- - stupidity
+  - or
+  - worse
+- - or
+  - otherwise
+  - incapacitated
+- - invalid
+  - or
+  - otherwise
+- - longer
+  - gleamed
+  - but
+- - but
+  - stopped
+  - short
 story:
   date: 2011-03-19
   id: 2011-03-19-tack-and-paviour
@@ -90,4 +264,4 @@ story:
     \ to get down to, plural tacks, as it were, but such a hidebound view cuts no\
     \ mustard with me. I know my onions."
   title: Tack And Paviour
-word_count: 589
+word_count: 588

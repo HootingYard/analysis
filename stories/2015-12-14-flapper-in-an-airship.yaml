@@ -1,7 +1,4 @@
 ngrams:
-- - devise
-  - page-turning
-  - pot-boilers
 - - homeland
   - demonstrates
   - conclusively
@@ -23,15 +20,12 @@ ngrams:
 - - ivory
   - tower
   - overlooking
-- - match
-  - brent
-  - crude
-- - american
-  - scribbler
-  - brent
 - - critic
   - prig
   - blot
+- - american
+  - scribbler
+  - brent
 - - scandinavian
   - ivory
   - tower
@@ -41,9 +35,99 @@ ngrams:
 - - muchness
   - careful
   - analysis
-- - fifty
+- - chewing
+  - salted
+  - fish
+- - brent
+  - crude
+  - simply
+- - crude
+  - simply
+  - shuffled
+- - certain
+  - pulp
+  - writers
+- - airship
+  - introduced
+  - readers
+- - both
+  - james
+  - joyce
+- - again
+  - occasionally
+  - inserting
+- - two
+  - decades
+  - dozens
+- - industry
+  - nor
+  - indeed
+- - because
+  - both
+  - flappers
+- - following
+  - two
+  - decades
+- - these
+  - foolish
+  - books
+- - foolish
+  - books
+  - years
+- - probably
+  - because
+  - both
+- - different
+  - adjective
+  - here
+- - pulp
+  - writers
+  - such
+- - could
+  - match
+  - brent
+- - little
+  - read
+  - today
+- - none
+  - could
+  - match
+- - airship
+  - some
+  - writers
+- - over
+  - again
+  - occasionally
+- - brent
+  - crude
+  - who
+- - first
+  - novel
+  - over
+- - novels
+  - about
+  - flappers
+- - virginia
+  - woolf
+  - if
+- - can
+  - never
+  - regain
+- - simply
+  - shuffled
+  - about
+- - hacks
+  - bashed
+  - out
+- - bashed
+  - out
   - novels
-  - featuring
+- - their
+  - own
+  - genre
+- - create
+  - their
+  - own
 story:
   date: 2015-12-14
   id: 2015-12-14-flapper-in-an-airship
@@ -74,4 +158,4 @@ story:
     \ left to me chewing salted fish and sobbing into my Scandinavian napkin.\u201D\
     \nAll of Brent Crude's books are currently out of print."
   title: Flapper In An Airship
-word_count: 350
+word_count: 347

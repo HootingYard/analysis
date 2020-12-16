@@ -1,13 +1,19 @@
 ngrams:
-- - splendid
-  - agence
-  - eureka
-- - very
-  - splendid
-  - agence
 - - ancient
   - rome
   - from
+- - of
+  - ancient
+  - rome
+- - glory
+  - of
+  - ancient
+- - the
+  - very
+  - splendid
+- - rome
+  - from
+  - the
 story:
   date: 2008-01-16
   id: 2008-01-16-the-glory-of-ancient-rome

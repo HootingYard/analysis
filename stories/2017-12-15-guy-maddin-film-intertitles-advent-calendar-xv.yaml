@@ -1,13 +1,16 @@
 ngrams:
-- - xv
-  - sombra
-  - dolorosa
-- - calendar
-  - xv
-  - sombra
-- - advent
+- - intertitles
+  - advent
   - calendar
-  - xv
+- - maddin
+  - film
+  - intertitles
+- - guy
+  - maddin
+  - film
+- - film
+  - intertitles
+  - advent
 story:
   date: 2017-12-15
   id: 2017-12-15-guy-maddin-film-intertitles-advent-calendar-xv

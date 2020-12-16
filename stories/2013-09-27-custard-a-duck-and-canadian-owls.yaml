@@ -1,10 +1,4 @@
 ngrams:
-- - janet
-  - aichison
-  - age
-- - aichison
-  - age
-  - five
 - - week
   - features
   - custard
@@ -14,9 +8,21 @@ ngrams:
 - - canadian
   - owls
   - over
+- - yesterday's
+  - hooting
+  - yard
 - - other
   - brief
   - lives
+- - air
+  - now
+  - available
+- - this
+  - week
+  - features
+- - being
+  - this
+  - week
 story:
   date: 2013-09-27
   id: 2013-09-27-custard-a-duck-and-canadian-owls
@@ -29,4 +35,4 @@ story:
     Yard On The Air, now available on soundcloud. The show also includes a reading
     of The Pirate''s Tale by Janet Aichison (age five and a half).'
   title: Custard, A Duck, And Canadian Owls
-word_count: 72
+word_count: 70

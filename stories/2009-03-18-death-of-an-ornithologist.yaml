@@ -2,33 +2,12 @@ ngrams:
 - - married
   - barbara
   - whitaker
-- - nearby
-  - birding
-  - hotspot
-- - extraordinary
-  - cave-dwelling
-  - oilbird
-- - nocturnal
-  - swallow-tailed
-  - gull
-- - slough
-  - sewage
-  - farm
-- - german
-  - goerz
-  - binoculars
 - - suitable
   - british
   - ports
-- - echo-location
-  - using
-  - audible
 - - using
   - audible
   - clicks
-- - war
-  - german
-  - goerz
 - - ornithologist
   - david
   - snow
@@ -38,12 +17,54 @@ ngrams:
 - - ornithological
   - shore
   - leave
-- - wingrave
-  - garden
-  - appeared
 - - barbara
   - whitaker
   - between
+- - buckinghamshire
+  - bird
+  - club
+- - world's
+  - rarest
+  - birds
+- - world
+  - war
+  - german
+- - father
+  - also
+  - gave
+- - scholarly
+  - little
+  - note
+- - first
+  - world
+  - war
+- - more
+  - arresting
+  - bits
+- - whole
+  - thing
+  - here
+- - david
+  - snow
+  - who
+- - snow
+  - who
+  - died
+- - whitaker
+  - between
+  - them
+- - also
+  - gave
+  - him
+- - they
+  - pioneered
+  - studies
+- - little
+  - note
+  - about
+- - them
+  - they
+  - pioneered
 story:
   date: 2009-03-18
   id: 2009-03-18-death-of-an-ornithologist
@@ -71,4 +92,4 @@ story:
     of blackcaps wintering in his Wingrave garden appeared in the January bulletin
     of the Buckinghamshire bird club.'
   title: Death Of An Ornithologist
-word_count: 184
+word_count: 182

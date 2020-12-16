@@ -1,46 +1,70 @@
 ngrams:
-- - fotherington-thomas
-  - gangsta
-  - rap
-- - gangsta
-  - rappy
-  - topics
 - - completely
   - au
   - fait
-- - ice-t
-  - popped
-  - round
 - - role
   - model
   - whose
-- - rappers
-  - whose
-  - names
 - - whose
   - names
   - escape
 - - gangsta
   - rap
   - indeed
-- - whose
-  - example
-  - ice-t
 - - model
   - whose
   - example
 - - course
   - completely
   - au
-- - day
-  - ice-t
-  - popped
 - - contains
   - any
   - uncouth
 - - essay
   - contains
   - any
+- - years
+  - immersed
+  - myself
+- - rap
+  - indeed
+  - only
+- - any
+  - uncouth
+  - words
+- - many
+  - years
+  - immersed
+- - even
+  - ice
+  - himself
+- - more
+  - astute
+  - readers
+- - your
+  - essay
+  - contains
+- - frank
+  - discussion
+  - about
+- - difficulty
+  - understanding
+  - me
+- - astute
+  - readers
+  - will
+- - names
+  - escape
+  - me
+- - an
+  - academic
+  - press
+- - book
+  - are
+  - welcome
+- - had
+  - difficulty
+  - understanding
 story:
   date: 2015-11-07
   id: 2015-11-07-fotherington-thomas-n-gangsta-rap
@@ -62,4 +86,4 @@ story:
     Submissions for the book are welcome, and please bear in mind that you will be
     forgiven if your essay contains any uncouth words.'
   title: Fotherington-Thomas & Gangsta Rap
-word_count: 179
+word_count: 178

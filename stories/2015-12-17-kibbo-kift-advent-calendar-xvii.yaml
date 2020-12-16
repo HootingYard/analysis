@@ -1,13 +1,19 @@
 ngrams:
-- - kibbo
-  - kift
-  - advent
-- - advent
-  - calendar
-  - xvii
-- - kift
-  - advent
-  - calendar
+- - too
+  - late
+  - huzzah
+- - too
+  - late
+  - alas
+- - not
+  - too
+  - late
+- - but
+  - not
+  - too
+- - huzzah
+  - to
+  - buy
 story:
   date: 2015-12-17
   id: 2015-12-17-kibbo-kift-advent-calendar-xvii

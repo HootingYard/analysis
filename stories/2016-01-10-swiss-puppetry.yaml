@@ -2,33 +2,15 @@ ngrams:
 - - dewitt
   - jr
   - verbose
-- - oswald
-  - spengler
-  - chappaquiddick
-- - puppeteer
-  - rolf
-  - swisspupp
-- - charn
-  - rolf
-  - swisspupp
-- - rolf
-  - swisspupp
-  - preferably
 - - k
   - dewitt
   - jr
 - - jr
   - verbose
   - twaddle
-- - traumatic
-  - childhood
-  - ice-skating
 - - sheer
   - dramatic
   - intensity
-- - critic
-  - horst
-  - puppcrit
 - - puppeteering
   - critic
   - horst
@@ -38,12 +20,150 @@ ngrams:
 - - eerily
   - lifelike
   - appearance
-- - eighteen-hour
-  - puppet
-  - shows
 - - loch
   - ness
   - mystery
+- - ness
+  - mystery
+  - solved
+- - secret
+  - patented
+  - substance
+- - free
+  - jazz
+  - accompaniment
+- - h
+  - p
+  - lovecraft
+- - performed
+  - dropped
+  - pins
+- - noted
+  - swiss
+  - puppeteer
+- - noted
+  - swiss
+  - puppeteer
+- - remote
+  - swiss
+  - facility
+- - overtired
+  - swiss
+  - child
+- - swiss
+  - child
+  - screech
+- - surgically
+  - removed
+  - following
+- - swiss
+  - puppetry
+  - o
+- - swiss
+  - facility
+  - high
+- - patented
+  - substance
+  - known
+- - small
+  - overtired
+  - swiss
+- - also
+  - enormously
+  - popular
+- - chiefly
+  - because
+  - rolf
+- - stone
+  - dead
+  - instead
+- - mute
+  - chiefly
+  - because
+- - makes
+  - birds
+  - plummet
+- - sky
+  - stone
+  - dead
+- - puppetry
+  - o
+  - let
+- - own
+  - secret
+  - patented
+- - second
+  - thoughts
+  - let
+- - dead
+  - instead
+  - let
+- - occasion
+  - staggering
+  - through
+- - where
+  - brutish
+  - orderlies
+- - alps
+  - where
+  - brutish
+- - thoughts
+  - let
+  - us
+- - let
+  - us
+  - list
+- - instead
+  - let
+  - us
+- - o
+  - let
+  - us
+- - puppeteer
+  - has
+  - interpreted
+- - swiss
+  - puppeteer
+  - has
+- - swiss
+  - puppeteer
+  - has
+- - tinies
+  - who
+  - clap
+- - swiss
+  - tinies
+  - who
+- - us
+  - now
+  - sing
+- - let
+  - us
+  - now
+- - eerily
+  - lifelike
+  - if
+- - orderlies
+  - will
+  - torment
+- - brutish
+  - orderlies
+  - will
+- - us
+  - list
+  - some
+- - clap
+  - their
+  - little
+- - their
+  - little
+  - hands
+- - screech
+  - them
+  - like
+- - are
+  - eerily
+  - lifelike
 story:
   date: 2016-01-10
   id: 2016-01-10-swiss-puppetry
@@ -82,4 +202,4 @@ story:
     \ Alps, where brutish orderlies will torment us with pipe-cleaners and knobs of\
     \ putty."
   title: Swiss Puppetry
-word_count: 446
+word_count: 443

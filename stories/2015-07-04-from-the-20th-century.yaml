@@ -1,34 +1,25 @@
 ngrams:
-- - surrealist
-  - ish
-  - play-of-sorts
 - - dreadful
   - surrealist
   - ish
 - - texts
   - accompanying
   - illustrations
-- - twelve
-  - potted
-  - biographies
 - - spinney
   - variety
   - theatre
-- - ish
-  - play-of-sorts
-  - called
 - - longer
   - survives
   - long
 - - yard
   - featuring
   - music
-- - survives
-  - long
-  - ago
 - - yard
   - calendar
   - entitled
+- - survives
+  - long
+  - ago
 - - long
   - ago
   - consumed
@@ -44,6 +35,54 @@ ngrams:
 - - hooting
   - yard
   - featuring
+- - even
+  - earlier
+  - prose
+- - hooting
+  - yard
+  - calendar
+- - resurrected
+  - some
+  - prose
+- - 'no'
+  - longer
+  - survives
+- - text
+  - 'no'
+  - longer
+- - actors
+  - were
+  - wholly
+- - were
+  - wholly
+  - unfamiliar
+- - revisited
+  - some
+  - even
+- - some
+  - even
+  - earlier
+- - there
+  - served
+  - originally
+- - last
+  - night
+  - when
+- - play
+  - indeed
+  - there
+- - find
+  - there
+  - served
+- - variety
+  - theatre
+  - one
+- - rehearsals
+  - had
+  - taken
+- - fire
+  - or
+  - eaten
 story:
   date: 2015-07-04
   id: 2015-07-04-from-the-20th-century
@@ -65,4 +104,4 @@ story:
     \ music by Verdi and Monteverdi, was ready, awaiting only the addition of the\
     \ actors performing the words.\nThen I woke up."
   title: From The 20th Century
-word_count: 228
+word_count: 226

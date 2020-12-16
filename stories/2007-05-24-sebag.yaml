@@ -2,45 +2,66 @@ ngrams:
 - - charlatan
   - uri
   - geller
-- - simon
-  - sebag
-  - montefiore
-- - simon
-  - sebag
-  - montefiore
-- - simon
-  - sebag
-  - montefiore
-- - rich
-  - pap-brained
-  - partygoer
+- - herman
+  - melville's
+  - moby
+- - melville's
+  - moby
+  - dick
 - - dismal
   - charlatan
   - uri
-- - mellifluous
-  - multisyllabic
-  - beauty
-- - author
-  - simon
-  - sebag
-- - granted
-  - frank
-  - sebag
-- - sebag
-  - young
-  - stalin
 - - young
   - stalin
   - sounds
-- - frank
-  - sebag
-  - key
 - - name
   - granted
   - frank
 - - middle
   - name
   - granted
+- - immortal
+  - line
+  - those
+- - stalin
+  - sounds
+  - like
+- - hooting
+  - yard
+  - heroine
+- - unlikely
+  - hooting
+  - yard
+- - even
+  - better
+  - incidentally
+- - do
+  - herman
+  - melville's
+- - ago
+  - she
+  - uttered
+- - few
+  - years
+  - ago
+- - here
+  - though
+  - simply
+- - burn
+  - them
+  - uri
+- - underpants
+  - burn
+  - them
+- - years
+  - ago
+  - she
+- - them
+  - uri
+  - being
+- - line
+  - those
+  - are
 story:
   date: 2007-05-24
   id: 2007-05-24-sebag
@@ -58,4 +79,4 @@ story:
     \ a few years ago, she uttered the immortal line \u201CThose are Uri's underpants.\
     \ Burn them\u201D. Uri being, of course, the dismal charlatan Uri Geller."
   title: Sebag
-word_count: 176
+word_count: 173

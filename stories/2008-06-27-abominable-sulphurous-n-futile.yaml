@@ -1,31 +1,46 @@
 ngrams:
-- - cruse
-  - matchbox
-  - labels
-- - sulphurous
-  - state-made
-  - matches
-- - abominable
-  - sulphurous
-  - state-made
-- - opinionated
-  - matchbox
-  - label
-- - produces
-  - abominable
-  - sulphurous
-- - abominable
-  - sulphurous
-  - futile
 - - matchbox
   - label
   - observations
-- - sulphurous
-  - futile
+- - earliest
+  - german
+  - labels
+- - german
+  - labels
+  - issued
+- - world's
+  - labels
+  - further
+- - modern
+  - match
+  - together
+- - ignorant
+  - person
+  - knew
+- - still
+  - produces
+  - abominable
+- - france
+  - still
+  - produces
+- - futile
   - france
-- - j
-  - cruse
-  - matchbox
+  - still
+- - most
+  - ignorant
+  - person
+- - space
+  - many
+  - thanks
+- - person
+  - knew
+  - how
+- - label
+  - designs
+  - are
+- - label
+  - observations
+  - are
 story:
   date: 2008-06-27
   id: 2008-06-27-abominable-sulphurous-n-futile
@@ -40,4 +55,4 @@ story:
     \ label observations are likely to follow, so watch this space. Many thanks to\
     \ Ed Baxter."
   title: Abominable, Sulphurous & Futile
-word_count: 117
+word_count: 116

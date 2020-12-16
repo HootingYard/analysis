@@ -1,34 +1,13 @@
 ngrams:
-- - alcibiades
-  - blinky
-  - clovis
-- - hoddinott
-  - icebrain
-  - jim
 - - succubus
   - totteridge
   - ubuntu
-- - icebrain
-  - jim
-  - krakatoa
 - - totteridge
   - ubuntu
   - vincenzo
-- - vincenzo
-  - whetstone
-  - xantippe
-- - gertrude
-  - hoddinott
-  - icebrain
 - - ubuntu
   - vincenzo
   - whetstone
-- - olive
-  - popsy
-  - quetzalcoatl
-- - clovis
-  - digby
-  - eggbound
 - - blinky
   - clovis
   - digby
@@ -38,12 +17,63 @@ ngrams:
 - - termed
   - anomalous
   - untidy
-- - flapper
-  - gertrude
-  - hoddinott
-- - eggbound
-  - flapper
-  - gertrude
+- - commonly
+  - termed
+  - anomalous
+- - rex
+  - succubus
+  - totteridge
+- - standard
+  - register
+  - listing
+- - jim
+  - krakatoa
+  - lars
+- - mick
+  - hartley
+  - s
+- - hartley
+  - s
+  - delightful
+- - s
+  - delightful
+  - snap
+- - anomalous
+  - untidy
+  - water
+- - water
+  - swan
+  - interlopers
+- - untidy
+  - water
+  - swan
+- - water
+  - swan
+  - register
+- - few
+  - hours
+  - per
+- - very
+  - neatly
+  - lined
+- - swans
+  - very
+  - neatly
+- - interloper
+  - such
+  - swans
+- - paddle
+  - upon
+  - inland
+- - upon
+  - inland
+  - bodies
+- - hours
+  - per
+  - day
+- - than
+  - something
+  - beginning
 story:
   date: 2010-11-05
   id: 2010-11-05-self-tidying-swans
@@ -64,4 +94,4 @@ story:
     \ will need to be able to tell the difference, at a glance, between a swan and\
     \ a water swan and other avian life-forms that paddle upon inland bodies of water."
   title: Self-Tidying Swans
-word_count: 207
+word_count: 206

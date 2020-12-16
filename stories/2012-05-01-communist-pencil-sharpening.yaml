@@ -1,16 +1,22 @@
 ngrams:
-- - bootstrap
-  - pencil-sharpening
-  - enlightenment
-- - pencil
-  - sharpener
-  - fuck
 - - pencil
   - sharpener
   - sharpen
 - - own
   - individual
   - sharpeners
+- - take
+  - i've
+  - got
+- - sharpener
+  - sharpen
+  - your
+- - sharpen
+  - your
+  - pencil
+- - your
+  - own
+  - individual
 story:
   date: 2012-05-01
   id: 2012-05-01-communist-pencil-sharpening
@@ -19,4 +25,4 @@ story:
     \ got my pencil sharpener, fuck you if you can't afford a pencil sharpener! Sharpen\
     \ your pencil with your bootstrap!\u201D\nPencil-sharpening enlightenment here."
   title: Communist Pencil-Sharpening
-word_count: 52
+word_count: 48

@@ -5,30 +5,15 @@ ngrams:
 - - nazi
   - uniforms
   - brandishing
-- - begone
-  - krishnan
-  - guru-murthy
-- - serbian
-  - tobacco
-  - clamped
 - - uniforms
   - brandishing
   - ray
-- - acrid
-  - serbian
+- - serbian
   - tobacco
-- - acrid
-  - serbian
-  - tobacco
+  - clamped
 - - brandishing
   - ray
   - guns
-- - wonky
-  - gestetner
-  - machine
-- - gestetner
-  - machine
-  - raymond
 - - machine
   - raymond
   - roussel
@@ -44,6 +29,102 @@ ngrams:
 - - typewriter
   - posted
   - yesterday
+- - posted
+  - yesterday
+  - prompted
+- - you're
+  - doing
+  - camped
+- - published
+  - review
+  - copies
+- - raymond
+  - roussel
+  - told
+- - tobacco
+  - clamped
+  - between
+- - working
+  - practices
+  - among
+- - actually
+  - published
+  - review
+- - o
+  - prose
+  - sucking
+- - chalet
+  - o
+  - prose
+- - chalet
+  - o
+  - prose
+- - moment
+  - ago
+  - alan
+- - monkeys
+  - cavort
+  - around
+- - while
+  - monkeys
+  - cavort
+- - process
+  - while
+  - monkeys
+- - postal
+  - crow
+  - make
+- - channel
+  - news
+  - think
+- - news
+  - think
+  - you're
+- - said
+  - begone
+  - krishnan
+- - roussel
+  - told
+  - us
+- - think
+  - you're
+  - doing
+- - ever
+  - actually
+  - published
+- - crow
+  - make
+  - sure
+- - word
+  - without
+  - having
+- - many
+  - typewriters
+  - does
+- - its
+  - bowl
+  - stuffed
+- - pipe
+  - its
+  - bowl
+- - hundreds
+  - more
+  - potboilers
+- - how
+  - many
+  - typewriters
+- - many
+  - potboilers
+  - how
+- - potboilers
+  - how
+  - many
+- - told
+  - us
+  - how
+- - tell
+  - us
+  - how
 story:
   date: 2013-02-04
   id: 2013-02-04-more-about-pebbleheads-typewriter
@@ -74,4 +155,4 @@ story:
     \ crow. Make sure your crow-vent is clear and free from sordid and unseemly detritus,\
     \ bones of voles, etcetera."
   title: More About Pebblehead's Typewriter
-word_count: 340
+word_count: 336

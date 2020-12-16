@@ -1,19 +1,7 @@
 ngrams:
-- - zeinab
-  - badawi
-  - anna
-- - bumptious
-  - krishnan
-  - guru-murthy
 - - badawi
   - anna
   - ford
-- - screen
-  - reginald
-  - bosanquet
-- - hoon
-  - hospital
-  - in-patient
 - - hallucinating
   - hoon
   - hospital
@@ -26,15 +14,15 @@ ngrams:
 - - television
   - screen
   - reginald
+- - terrible
+  - disease
+  - that's
+- - pray
+  - don't
+  - delay
 - - white
   - clinic
   - wall
-- - reginald
-  - bosanquet
-  - often
-- - bosanquet
-  - often
-  - drunken
 - - insights
   - both
   - deep
@@ -44,6 +32,87 @@ ngrams:
 - - cope
   - somehow
   - without
+- - disease
+  - that's
+  - why
+- - that's
+  - why
+  - you're
+- - must
+  - cope
+  - somehow
+- - longer
+  - seen
+  - reading
+- - wheaten
+  - lie
+  - back
+- - world
+  - must
+  - cope
+- - i'd
+  - even
+  - eaten
+- - breakfast
+  - before
+  - i'd
+- - hotter
+  - then
+  - doctors
+- - then
+  - doctors
+  - swept
+- - clinic
+  - wall
+  - then
+- - just
+  - think
+  - you're
+- - lie
+  - back
+  - said
+- - television
+  - newsreaders
+  - 'no'
+- - newsreaders
+  - 'no'
+  - longer
+- - before
+  - i'd
+  - even
+- - your
+  - ravings
+  - cease
+- - earthy
+  - where
+  - now
+- - 'no'
+  - longer
+  - seen
+- - fell
+  - into
+  - swoon
+- - nurse
+  - let
+  - your
+- - let
+  - your
+  - ravings
+- - think
+  - you're
+  - him
+- - splurge
+  - all
+  - eggy
+- - nurse
+  - dosed
+  - me
+- - she
+  - said
+  - nor
+- - nurse
+  - bring
+  - me
 story:
   date: 2013-01-27
   id: 2013-01-27-hallucinating-hoon-hospital-in-patients-diary-27-1-12
@@ -71,4 +140,4 @@ story:
     \ it was time for my bath\n  \u201CBy the way.\u201D she said, \u201CNor are you\
     \ Sylvia Plath.\u201D"
   title: Hallucinating Hoon Hospital In-Patient's Diary 27.1.12
-word_count: 317
+word_count: 308

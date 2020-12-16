@@ -1,19 +1,10 @@
 ngrams:
-- - l
-  - essentiel
-  - succ
-- - bentalls
-  - department
-  - store
 - - greater
   - sprinting
   - triumphs
 - - son
   - lacked
   - ambition
-- - aged
-  - pop
-  - diva
 - - east
   - european
   - coach
@@ -23,27 +14,159 @@ ngrams:
 - - album
   - contained
   - songs
-- - entitled
-  - l
-  - essentiel
 - - stopped
   - eating
   - gruel
-- - cd
-  - entitled
-  - l
-- - fictional
-  - prot
-  - g
 - - possibly
   - east
   - european
-- - athlete
-  - bobnit
-  - tivol
-- - halob
-  - stopped
-  - eating
+- - refill
+  - bird
+  - feeders
+- - bird
+  - feeder
+  - maintenance
+- - big
+  - forbidding
+  - castle
+- - except
+  - refill
+  - bird
+- - television
+  - screens
+  - across
+- - far
+  - distant
+  - galaxy
+- - ever
+  - greater
+  - sprinting
+- - petula
+  - clark
+  - old
+- - little
+  - except
+  - refill
+- - feeder
+  - maintenance
+  - man
+- - beamed
+  - through
+  - television
+- - through
+  - television
+  - screens
+- - before
+  - winning
+  - fame
+- - diet
+  - shortly
+  - after
+- - biographical
+  - note
+  - before
+- - note
+  - before
+  - winning
+- - addition
+  - like
+  - petula
+- - like
+  - petula
+  - clark
+- - international
+  - rather
+  - than
+- - rather
+  - than
+  - merely
+- - shortly
+  - after
+  - old
+- - did
+  - little
+  - except
+- - rejected
+  - their
+  - birthday
+- - their
+  - son
+  - lacked
+- - their
+  - birthday
+  - gifts
+- - were
+  - fabulously
+  - wealthy
+- - parents
+  - were
+  - fabulously
+- - knows
+  - what
+  - happened
+- - yet
+  - been
+  - beamed
+- - their
+  - recommendations
+  - old
+- - been
+  - beamed
+  - through
+- - future
+  - biographers
+  - would
+- - maintenance
+  - man
+  - into
+- - petula
+  - clark
+  - are
+- - english
+  - songstress
+  - are
+- - an
+  - athletics
+  - coach
+- - say
+  - about
+  - old
+- - days
+  - when
+  - only
+- - sprinting
+  - triumphs
+  - had
+- - disowned
+  - him
+  - when
+- - an
+  - international
+  - rather
+- - they
+  - disowned
+  - him
+- - winning
+  - fame
+  - or
+- - forbidding
+  - castle
+  - but
+- - conclusive
+  - but
+  - future
+- - but
+  - future
+  - biographers
+- - report
+  - from
+  - consultants
+- - or
+  - perhaps
+  - notoriety
+- - fame
+  - or
+  - perhaps
 story:
   date: 2007-02-28
   id: 2007-02-28-old-halob-a-biographical-note
@@ -83,4 +206,4 @@ story:
     \ would be stupid to ignore it.\nAnd that is all I have to say about Old Halob\
     \ today."
   title: "Old Halob\_: A Biographical Note"
-word_count: 457
+word_count: 451

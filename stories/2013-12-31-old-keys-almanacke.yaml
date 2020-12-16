@@ -5,12 +5,6 @@ ngrams:
 - - july
   - vince
   - cable
-- - unerringly
-  - accurate
-  - prognostication
-- - docks
-  - noisome
-  - ooze
 - - vince
   - cable
   - stands
@@ -26,6 +20,9 @@ ngrams:
 - - basket
   - december
   - jesus
+- - jesus
+  - christ
+  - returns
 - - westminster
   - bridge
   - august
@@ -35,15 +32,39 @@ ngrams:
 - - sausages
   - july
   - vince
-- - jesus
-  - christ
-  - returns
 - - february
   - scientists
   - discover
 - - december
   - jesus
   - christ
+- - january
+  - cones
+  - appear
+- - de
+  - botton
+  - conundrum
+- - pol
+  - pot
+  - march
+- - hamstring
+  - october
+  - eggs
+- - october
+  - eggs
+  - hatch
+- - significant
+  - events
+  - due
+- - himself
+  - january
+  - cones
+- - key
+  - himself
+  - january
+- - guardian
+  - april
+  - down
 story:
   date: 2013-12-31
   id: 2013-12-31-old-keys-almanacke
@@ -62,4 +83,4 @@ story:
     \ incessantly and is small enough to be tossed into a wastepaper basket.\nDecember\_\
     : Jesus Christ returns, his image appearing on a slice of toast."
   title: Old Key's Almanacke
-word_count: 181
+word_count: 179

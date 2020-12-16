@@ -1,13 +1,4 @@
 ngrams:
-- - meditation
-  - bin-bag
-  - rubbed
-- - ouch
-  - wailed
-  - bin-bag
-- - zen
-  - k
-  - ans
 - - zen
   - roman
   - catholicism
@@ -17,18 +8,9 @@ ngrams:
 - - recalcitrant
   - acolyte
   - wandering
-- - k
-  - ans
-  - anecdotes
-- - witless
-  - k
-  - ans
-- - master
-  - pushed
-  - bin-bag
-- - k
-  - ans
-  - provided
+- - zen
+  - master's
+  - bashing
 - - entitled
   - zen
   - buddhism
@@ -44,6 +26,108 @@ ngrams:
 - - making
   - haphazard
   - gesticulations
+- - catholicism
+  - seemed
+  - sensible
+- - striving
+  - towards
+  - enlightenment
+- - further
+  - towards
+  - enlightenment
+- - step
+  - further
+  - towards
+- - book
+  - entitled
+  - zen
+- - slim
+  - book
+  - entitled
+- - brings
+  - us
+  - smartly
+- - wandering
+  - woozily
+  - 'off'
+- - harold
+  - wilson
+  - years
+- - gift
+  - here
+  - master
+- - seemed
+  - very
+  - similar
+- - any
+  - particular
+  - k
+- - future
+  - years
+  - later
+- - recall
+  - any
+  - particular
+- - years
+  - later
+  - however
+- - goes
+  - something
+  - like
+- - extremis
+  - when
+  - faced
+- - short
+  - yarns
+  - about
+- - zen
+  - buddhism
+  - which
+- - buddhism
+  - which
+  - consisted
+- - which
+  - consisted
+  - simply
+- - are
+  - called
+  - k
+- - generic
+  - k
+  - an
+- - provided
+  - an
+  - ideal
+- - an
+  - ideal
+  - model
+- - all
+  - seemed
+  - very
+- - particular
+  - k
+  - an
+- - which
+  - goes
+  - something
+- - one
+  - step
+  - further
+- - find
+  - an
+  - angle
+- - think
+  - are
+  - called
+- - anecdotes
+  - or
+  - parables
+- - or
+  - parables
+  - designed
+- - haphazard
+  - gesticulations
+  - at
 story:
   date: 2010-10-06
   id: 2010-10-06-z
@@ -74,4 +158,4 @@ story:
     \ woozily off to a nearby kiosk to buy herself a toffee apple.\nAnd that brings\
     \ us smartly to the end of our alphabet."
   title: Z
-word_count: 351
+word_count: 348

@@ -2,9 +2,6 @@ ngrams:
 - - haddock
   - amongst
   - marine
-- - palestine
-  - hargrave
-  - jennings
 - - amongst
   - marine
   - animals
@@ -17,6 +14,9 @@ ngrams:
 - - hargrave
   - jennings
   - curious
+- - st
+  - peter's
+  - thumb
 - - anniversary
   - hour
   - revolves
@@ -29,6 +29,21 @@ ngrams:
 - - domesticated
   - cattle
   - having
+- - austere
+  - scotland
+  - every
+- - fishes
+  - having
+  - otherwise
+- - jennings
+  - curious
+  - things
+- - scotland
+  - every
+  - child
+- - angelic
+  - song
+  - once
 story:
   date: 2010-07-17
   id: 2010-07-17-a-snippet-about-haddock-n-cows
@@ -43,4 +58,4 @@ story:
     \ revolves of the angelic song, once rolling over the fields and flocks of Palestine.\u201D\
     \nHargrave Jennings, Curious Things Of The Outside World, Last Fire (1861)"
   title: A Snippet About Haddock & Cows
-word_count: 129
+word_count: 127

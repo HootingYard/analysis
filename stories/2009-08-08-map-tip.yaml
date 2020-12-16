@@ -1,37 +1,19 @@
 ngrams:
-- - zweiter
-  - reisekarte
-  - der
-- - reisekarte
-  - der
-  - schweitz
-- - map-procurement
-  - advisory
-  - service
-- - ii
-  - chapter
-  - xi
-- - praeterita
-  - volume
-  - ii
-- - intelligence
-  - praeterita
-  - volume
-- - chapter
-  - xi
-  - paragraph
 - - original
   - von
-  - keller
+  - keller's
 - - volume
   - ii
   - chapter
+- - von
+  - keller's
+  - earlier
 - - average
   - swiss
   - map
-- - xi
-  - paragraph
-  - lord
+- - keller's
+  - earlier
+  - map
 - - paragraph
   - lord
   - knows
@@ -44,6 +26,48 @@ ngrams:
 - - excellent
   - mr
   - ruskin
+- - very
+  - sensible
+  - advice
+- - hooting
+  - yard
+  - readers
+- - few
+  - hooting
+  - yard
+- - far
+  - more
+  - sensible
+- - shall
+  - head
+  - 'off'
+- - clearly
+  - been
+  - executed
+- - some
+  - very
+  - sensible
+- - more
+  - sensible
+  - than
+- - still
+  - far
+  - more
+- - ever
+  - been
+  - executed
+- - lord
+  - knows
+  - there
+- - yard
+  - readers
+  - will
+- - has
+  - clearly
+  - been
+- - this
+  - morning
+  - thinking
 story:
   date: 2009-08-08
   id: 2009-08-08-map-tip
@@ -64,4 +88,4 @@ story:
     \ than the 1844 version, but is still far more sensible than the average Swiss\
     \ map.\n"
   title: Map Tip
-word_count: 194
+word_count: 191

@@ -1,10 +1,4 @@
 ngrams:
-- - philippus
-  - aureolus
-  - theophrastus
-- - aureolus
-  - theophrastus
-  - bombastus
 - - sword
   - samuel
   - butler
@@ -14,15 +8,33 @@ ngrams:
 - - samuel
   - butler
   - noted
-- - names
-  - philippus
-  - aureolus
 - - christian
   - names
   - philippus
 - - mrs
   - von
   - hohenheim
+- - call
+  - zinc
+  - zinc
+- - zinc
+  - zinc
+  - actually
+- - small
+  - avian
+  - devil
+- - devil's
+  - bird
+  - shut
+- - things
+  - worth
+  - remembering
+- - two
+  - things
+  - worth
+- - giving
+  - their
+  - tot
 story:
   date: 2011-01-30
   id: 2011-01-30-bombastus-and-the-mountebanks
@@ -35,4 +47,4 @@ story:
     \ in the pommel of his sword, / That taught him all the cunning pranks / Of past\
     \ and future mountebanks.\n"
   title: Bombastus And The Mountebanks
-word_count: 99
+word_count: 98

@@ -2,21 +2,30 @@ ngrams:
 - - briefing
   - danish
   - briefing
-- - tee-shirt
-  - competition
-  - danish
-- - phrasebook
-  - english
-  - briefing
-- - tee-shirt
-  - competition
-  - english
 - - spin
   - doctor
   - danish
 - - doctor
   - danish
   - spin
+- - danish
+  - spin
+  - doctor
+- - briefing
+  - english
+  - spin
+- - english
+  - briefing
+  - danish
+- - danish
+  - briefing
+  - english
+- - competition
+  - danish
+  - wet
+- - girl
+  - power
+  - danish
 story:
   date: 2012-03-20
   id: 2012-03-20-teach-yourself-danish
@@ -28,4 +37,4 @@ story:
     \ tee-shirt competition. Danish\_: wet tee-shirt competition.\n  English\_: famous\
     \ for fifteen minutes. Danish\_: famous for fifteen minutes."
   title: Teach Yourself Danish
-word_count: 80
+word_count: 79

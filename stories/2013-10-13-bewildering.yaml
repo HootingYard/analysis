@@ -1,16 +1,7 @@
 ngrams:
-- - frag
-  - mint
-  - shog
-- - mint
-  - shog
-  - nit
 - - tog
   - tog
   - hoo
-- - sip
-  - pipi
-  - ut
 - - bulk
   - frag
   - mint
@@ -20,6 +11,27 @@ ngrams:
 - - fret
   - sip
   - pipi
+- - hod
+  - bulk
+  - frag
+- - lop
+  - fret
+  - sip
+- - tog
+  - hoo
+  - flap
+- - hoo
+  - flap
+  - toggle
+- - hag
+  - ack
+  - ack
+- - nip
+  - pap
+  - lop
+- - spun
+  - dig
+  - hod
 story:
   date: 2013-10-13
   id: 2013-10-13-bewildering

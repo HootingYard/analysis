@@ -1,13 +1,4 @@
 ngrams:
-- - linguist
-  - nikolay
-  - yakovlevich
-- - nikolay
-  - yakovlevich
-  - marr
-- - des
-  - brochures
-  - incroyable
 - - prix
   - des
   - brochures
@@ -17,33 +8,75 @@ ngrams:
 - - rosh
   - rosh
   - rosh
-- - rosh
-  - sal
-  - ber
-- - rosh
-  - sal
-  - ber
-- - rosh
-  - ber
-  - sal
-- - ber
+- - yon
   - sal
   - rosh
-- - sal
-  - rosh
-  - ber
 - - rosh
-  - ber
-  - sal
-- - ber
-  - rosh
-  - rosh
-- - rosh
-  - rosh
-  - ber
-- - ber
-  - sal-ber
   - yon
+  - sal
+- - rosh
+  - rosh
+  - yon
+- - yon
+  - yon
+  - sal
+- - yon
+  - sal
+  - yon
+- - yon
+  - yon
+  - rosh
+- - rosh
+  - yon
+  - yon
+- - yon
+  - yon
+  - yon
+- - teddy
+  - johnson
+  - glistening
+- - sounds
+  - rosh
+  - sal
+- - root
+  - sounds
+  - rosh
+- - glistening
+  - golden
+  - medal
+- - mercifully
+  - brief
+  - extract
+- - johnson
+  - glistening
+  - golden
+- - fa
+  - cup
+  - final
+- - five
+  - prizes
+  - during
+- - print
+  - pamphleteer
+  - channels
+- - words
+  - derive
+  - ultimately
+- - most
+  - preposterous
+  - essay
+- - print
+  - within
+  - days
+- - our
+  - troglodyte
+  - ancestors
+- - yon
+  - another
+  - thing
+- - than
+  - five
+  - prizes
 story:
   date: 2009-12-22
   id: 2009-12-22-rosh-sal-ber-yon
@@ -64,4 +97,4 @@ story:
     \ and the Pearl Carr And Teddy Johnson Glistening Golden Medal For Pamphlets Out\
     \ Of Print Within Days Of Publication.\n\nN Marr"
   title: Rosh Sal Ber Yon
-word_count: 213
+word_count: 211

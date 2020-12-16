@@ -1,13 +1,7 @@
 ngrams:
-- - boffin
-  - glyn
-  - webster
 - - antipodean
   - research
   - boffin
-- - research
-  - boffin
-  - glyn
 - - latest
   - postage
   - entitled
@@ -17,6 +11,18 @@ ngrams:
 - - promising
   - new
   - blog
+- - new
+  - blog
+  - entitled
+- - pastimes
+  - mr
+  - key
+- - innocent
+  - pastimes
+  - its
+- - very
+  - promising
+  - new
 story:
   date: 2009-04-14
   id: 2009-04-14-the-pavilion-of-innocent-pastimes
@@ -28,4 +34,4 @@ story:
 
     '
   title: The Pavilion Of Innocent Pastimes
-word_count: 73
+word_count: 70

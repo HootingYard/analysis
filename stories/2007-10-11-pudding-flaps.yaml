@@ -1,22 +1,13 @@
 ngrams:
-- - bendy
-  - hoverbuses
-  - primping
 - - enduring
   - cataclysmic
   - hailstorms
-- - helmswoman
-  - hazel
-  - blears
 - - hazel
   - blears
   - plugging
 - - hubs
   - enduring
   - cataclysmic
-- - space-age
-  - preening
-  - tweezers
 - - preening
   - tweezers
   - scanning
@@ -32,9 +23,6 @@ ngrams:
 - - undiminished
   - joie
   - de
-- - joie
-  - de
-  - vivre
 - - pudding
   - flaps
   - flaps
@@ -44,6 +32,93 @@ ngrams:
 - - pudding
   - flaps
   - save
+- - less
+  - critical
+  - role
+- - deep
+  - primeval
+  - human
+- - equally
+  - important
+  - topic
+- - chiefly
+  - because
+  - puddings
+- - primeval
+  - human
+  - need
+- - every
+  - pudding
+  - preparation
+- - because
+  - puddings
+  - play
+- - cost
+  - us
+  - dear
+- - brisk
+  - walk
+  - through
+- - blears
+  - plugging
+  - our
+- - plugging
+  - our
+  - pods
+- - our
+  - supreme
+  - leader
+- - slops
+  - our
+  - loss
+- - greasy
+  - slops
+  - our
+- - say
+  - nothing
+  - pertinent
+- - our
+  - daily
+  - lives
+- - diets
+  - than
+  - used
+- - obviously
+  - more
+  - frequent
+- - lives
+  - has
+  - cost
+- - them
+  - pity
+  - mixed
+- - daily
+  - lives
+  - has
+- - our
+  - diets
+  - than
+- - know
+  - how
+  - often
+- - boulevards
+  - yet
+  - some
+- - flaps
+  - flaps
+  - about
+- - into
+  - hubs
+  - enduring
+- - about
+  - hiking
+  - pickles
+- - pods
+  - into
+  - hubs
+- - pertinent
+  - about
+  - pudding
 story:
   date: 2007-10-11
   id: 2007-10-11-pudding-flaps
@@ -73,4 +148,4 @@ story:
     of suet or of plums or of greasy slops. Our loss of those flaps, at least in our
     daily lives, has cost us dear.'
   title: Pudding Flaps
-word_count: 325
+word_count: 324

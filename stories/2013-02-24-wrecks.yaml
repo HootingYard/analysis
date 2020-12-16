@@ -1,13 +1,19 @@
 ngrams:
-- - henry
-  - wadsworth
-  - longfellow
-- - quincey
-  - henry
-  - wadsworth
 - - gerard
   - manley
   - hopkins
+- - father
+  - gerard
+  - manley
+- - de
+  - quincey
+  - henry
+- - thomas
+  - de
+  - quincey
+- - manley
+  - hopkins
+  - s
 story:
   date: 2013-02-24
   id: 2013-02-24-wrecks
@@ -18,4 +24,4 @@ story:
     wreck. Click on the links for Thomas de Quincey, Henry Wadsworth Longfellow, and
     Father Gerard Manley Hopkins S.J.'
   title: Wrecks
-word_count: 39
+word_count: 38

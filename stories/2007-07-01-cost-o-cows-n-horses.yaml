@@ -1,22 +1,31 @@
 ngrams:
-- - melton
-  - mowbray
-  - charged
-- - successful
-  - victorian
-  - dauber
-- - mowbray
-  - charged
-  - ten
-- - charged
-  - ten
-  - pounds
 - - prices
   - comments
   - please
-- - horses
+- - cows
+  - horses
   - john
-  - fernely
+- - cost
+  - o
+  - cows
+- - o
+  - cows
+  - horses
+- - these
+  - prices
+  - comments
+- - these
+  - costs
+  - fair
+- - only
+  - seven
+  - pounds
+- - set
+  - these
+  - prices
+- - cow
+  - picture
+  - than
 story:
   date: 2007-07-01
   id: 2007-07-01-cost-o-cows-n-horses
@@ -26,4 +35,4 @@ story:
     a cow picture than a horse painting? If not, why not? What do you think was going
     on in Fernely's head when he set these prices? Comments please.
   title: "Cost O\u2019 Cows & Horses"
-word_count: 77
+word_count: 76

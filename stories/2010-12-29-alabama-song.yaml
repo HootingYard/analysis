@@ -2,30 +2,42 @@ ngrams:
 - - brecht
   - symposium
   - o
-- - next
-  - brecht
-  - symposium
-- - next
-  - brecht
-  - symposium
 - - alabama
   - song
   - o
 - - symposium
   - o
-  - don
+  - don't
+- - next
+  - brecht
+  - symposium
+- - next
+  - brecht
+  - symposium
+- - song
+  - o
+  - show
 - - spout
   - twaddle
   - until
 - - twaddle
   - until
   - kingdom
-- - song
+- - o
+  - don't
+  - ask
+- - o
+  - don't
+  - ask
+- - ask
+  - why
   - o
-  - show
-- - don
-  - t
-  - attend
+- - don't
+  - ask
+  - why
+- - don't
+  - ask
+  - why
 story:
   date: 2010-12-29
   id: 2010-12-29-alabama-song
@@ -37,4 +49,4 @@ story:
     handsomely to spout twaddle until kingdom come, which is surely not unlike death,
     in a spiritual sense, is it not, Lars?
   title: Alabama Song
-word_count: 108
+word_count: 105

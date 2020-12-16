@@ -1,31 +1,43 @@
 ngrams:
-- - garfunkel
-  - golden-voiced
-  - croonperson
 - - oscar
   - wilde
   - famously
 - - europe
   - oscar
   - wilde
-- - art
-  - garfunkel
-  - golden-voiced
-- - tis
-  - art
-  - garfunkel
-- - online
-  - 'yes'
-  - tis
-- - 'yes'
-  - tis
-  - art
 - - voracious
   - reader
   - whose
 - - whose
   - list
   - goes
+- - reader
+  - whose
+  - list
+- - days
+  - ago
+  - regarding
+- - see
+  - online
+  - 'yes'
+- - wilde
+  - famously
+  - said
+- - list
+  - goes
+  - back
+- - few
+  - days
+  - ago
+- - goes
+  - back
+  - over
+- - are
+  - done
+  - checking
+- - mention
+  - one
+  - voracious
 story:
   date: 2010-08-07
   id: 2010-08-07-a-footnote

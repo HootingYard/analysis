@@ -1,13 +1,4 @@
 ngrams:
-- - mud
-  - sabine
-  - baring-gould
-- - sabine
-  - baring-gould
-  - week
-- - baring-gould
-  - week
-  - continues
 - - without
   - reason
   - dalton
@@ -17,21 +8,48 @@ ngrams:
 - - least
   - three
   - disadvantages
-- - our
-  - hero
-  - aetat
-- - vaudois
-  - valleys
-  - where
 - - place
   - though
   - somewhat
-- - hero
-  - aetat
-  - has
 - - its
   - few
   - inhabitants
+- - their
+  - helpless
+  - inhabitants
+- - blast
+  - their
+  - helpless
+- - marshes
+  - blast
+  - their
+- - inhabitants
+  - into
+  - fevered
+- - helpless
+  - inhabitants
+  - into
+- - natives
+  - were
+  - perhaps
+- - were
+  - perhaps
+  - affected
+- - make
+  - their
+  - way
+- - an
+  - agreeable
+  - feature
+- - has
+  - been
+  - appointed
+- - mud
+  - through
+  - which
+- - few
+  - inhabitants
+  - had
 story:
   date: 2010-12-06
   id: 2010-12-06-a-remarkable-amount-of-mud
@@ -48,4 +66,4 @@ story:
     \ valleys, \u201Cwhere the marshes\u2026 blast their helpless inhabitants into\
     \ fevered idiotism\u201D."
   title: A Remarkable Amount Of Mud
-word_count: 139
+word_count: 136

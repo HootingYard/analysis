@@ -5,21 +5,12 @@ ngrams:
 - - shredded
   - sphagnum
   - washed
-- - lurid
-  - phantasist
-  - f
+- - f
+  - x
+  - urg
 - - regularly
   - mentions
   - sphagnum
-- - phantasist
-  - f
-  - x
-- - f
-  - x
-  - urg
-- - f
-  - x
-  - urg
 - - f
   - x
   - urg
@@ -35,15 +26,126 @@ ngrams:
 - - tv
   - series
   - interviews
-- - empurpled
-  - face
-  - spitting
 - - extract
   - june
   - breakfast
 - - poem
   - reproduced
   - above
+- - face
+  - spitting
+  - screeching
+- - prove
+  - problematic
+  - however
+- - air
+  - balloons
+  - moles
+- - both
+  - sphagnum
+  - moss
+- - eaten
+  - both
+  - sphagnum
+- - pamphleteers
+  - contenting
+  - himself
+- - june
+  - breakfast
+  - today
+- - hot
+  - air
+  - balloons
+- - piece
+  - he'd
+  - written
+- - century
+  - always
+  - denied
+- - denied
+  - having
+  - written
+- - meals
+  - dining
+  - well
+- - always
+  - denied
+  - having
+- - dobson
+  - regularly
+  - mentions
+- - most
+  - recent
+  - pamphlets
+- - responses
+  - whenever
+  - dobson
+- - having
+  - eaten
+  - both
+- - sphagnum
+  - washed
+  - down
+- - print
+  - dobson
+  - regularly
+- - three
+  - most
+  - recent
+- - dobson's
+  - three
+  - most
+- - only
+  - known
+  - trace
+- - could
+  - prove
+  - problematic
+- - print
+  - pamphleteer
+  - might
+- - find
+  - any
+  - trace
+- - quite
+  - plausible
+  - then
+- - put
+  - some
+  - sphagnum
+- - i'd
+  - been
+  - told
+- - interlocutor
+  - were
+  - common
+- - were
+  - common
+  - responses
+- - denials
+  - were
+  - certainly
+- - were
+  - certainly
+  - vehement
+- - questions
+  - about
+  - hot
+- - dobson
+  - who
+  - claimed
+- - further
+  - information
+  - about
+- - ferreting
+  - out
+  - further
+- - recent
+  - pamphlets
+  - all
+- - did
+  - why
+  - did
 story:
   date: 2013-06-05
   id: 2013-06-05-dining-well-on-moss-and-eels
@@ -76,4 +178,4 @@ story:
     \ phantasist F X Urg. This could prove problematic, however, as the poem reproduced\
     \ above is the only known trace of him in all world literature."
   title: Dining Well On Moss And Eels
-word_count: 397
+word_count: 392

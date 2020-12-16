@@ -1,16 +1,7 @@
 ngrams:
-- - yardist
-  - ruthie
-  - bosch
-- - stith
-  - thompson
-  - motif
 - - ruthie
   - bosch
   - drew
-- - stith
-  - thompson
-  - index
 - - thompson
   - motif
   - index
@@ -20,9 +11,30 @@ ngrams:
 - - bird
   - index
   - keen
-- - hooting
-  - yardist
-  - ruthie
+- - should
+  - listen
+  - immediately
+- - lot
+  - should
+  - listen
+- - index
+  - keen
+  - hooting
+- - give
+  - some
+  - idea
+- - world
+  - has
+  - changed
+- - am
+  - still
+  - trying
+- - folk
+  - literature
+  - or
+- - literature
+  - or
+  - more
 story:
   date: 2014-03-20
   id: 2014-03-20-bird-index
@@ -34,4 +46,4 @@ story:
     alert, to today's episode of Hooting Yard On The Air, in which I took the opportunity
     to read (most of) the Stith Thompson Index index for Bird.
   title: Bird Index
-word_count: 100
+word_count: 99

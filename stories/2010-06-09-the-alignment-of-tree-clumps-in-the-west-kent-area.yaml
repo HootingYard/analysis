@@ -1,7 +1,4 @@
 ngrams:
-- - goddard
-  - tony
-  - wedd
 - - jimmy
   - goddard
   - tony
@@ -11,9 +8,18 @@ ngrams:
 - - recall
   - cosmic
   - friends
-- - puny
-  - pea-sized
-  - brain
+- - read
+  - jimmy
+  - goddard
+- - kent
+  - area
+  - mr
+- - coruscating
+  - insights
+  - might
+- - only
+  - too
+  - well
 story:
   date: 2010-06-09
   id: 2010-06-09-the-alignment-of-tree-clumps-in-the-west-kent-area
@@ -22,4 +28,4 @@ story:
     Goddard, Tony Wedd, and the Star Fellowship? This is fascinating stuff, as those
     of who you recall Cosmic Friends will know only too well.
   title: The Alignment Of Tree Clumps In The West Kent Area
-word_count: 64
+word_count: 63

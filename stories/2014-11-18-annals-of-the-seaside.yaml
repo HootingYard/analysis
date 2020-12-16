@@ -1,4 +1,7 @@
 ngrams:
+- - blossom
+  - partridge
+  - memorial
 - - brittle
   - yellowing
   - newspaper
@@ -8,21 +11,15 @@ ngrams:
 - - spade
   - dated
   - november
-- - blossom
-  - partridge
-  - memorial
-- - doughty
-  - holidaymakers
-  - packed
-- - vile
-  - noisome
-  - sludge
 - - lovely
-  - gwendolyn
-  - sang
+  - wife's
+  - rendition
 - - partridge
   - memorial
   - variety
+- - lovely
+  - gwendolyn
+  - sang
 - - bucket
   - spade
   - dated
@@ -38,12 +35,135 @@ ngrams:
 - - miss
   - blossom
   - partridge
-- - screeching
-  - pipistrelle
-  - bat
 - - lovely
   - wife
   - gwendolyn
+- - lovely
+  - wife
+  - gwendolyn
+- - lovely
+  - wife
+  - gwendolyn
+- - screeching
+  - pipistrelle
+  - bat
+- - rotting
+  - fish
+  - dozens
+- - delight
+  - teeming
+  - thousands
+- - material
+  - form
+  - emerging
+- - season
+  - variety
+  - show
+- - pipistrelle
+  - bat
+  - brought
+- - sentimental
+  - ballad
+  - oh
+- - thoroughly
+  - peevish
+  - during
+- - sludge
+  - small
+  - fires
+- - ballad
+  - oh
+  - bring
+- - magic
+  - trick
+  - several
+- - trick
+  - several
+  - members
+- - town
+  - bucket
+  - spade
+- - vanished
+  - utterly
+  - yet
+- - disappoint
+  - mr
+  - peevish
+- - mr
+  - peevish
+  - remained
+- - pier
+  - mr
+  - peevish
+- - great
+  - beast
+  - itself
+- - pointy
+  - town
+  - bucket
+- - surely
+  - never
+  - witness
+- - pointy
+  - pier
+  - mr
+- - utterly
+  - yet
+  - once
+- - newspaper
+  - cuttings
+  - such
+- - her
+  - mother's
+  - actual
+- - seaside
+  - past
+  - those
+- - shall
+  - surely
+  - never
+- - never
+  - witness
+  - again
+- - themselves
+  - now
+  - mostly
+- - our
+  - seaside
+  - past
+- - piers
+  - where
+  - once
+- - witness
+  - again
+  - now
+- - bloodstains
+  - coughed
+  - up
+- - dated
+  - november
+  - your
+- - november
+  - your
+  - correspondent
+- - been
+  - largely
+  - forgotten
+- - your
+  - correspondent
+  - trudged
+- - fires
+  - were
+  - burning
+- - when
+  - lovely
+  - gwendolyn
+- - their
+  - lives
+  - later
+- - pier
+  - were
+  - covered
 story:
   date: 2014-11-18
   id: 2014-11-18-annals-of-the-seaside
@@ -81,4 +201,4 @@ story:
     \ and charred and dead, along with a goodly number of puppies and kittens which\
     \ had unwisely strayed from the comforts of hearth and home."
   title: Annals Of The Seaside
-word_count: 442
+word_count: 440

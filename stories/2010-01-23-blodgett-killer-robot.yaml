@@ -1,19 +1,10 @@
 ngrams:
-- - yava
-  - hoosita
-  - cheesy
-- - swivel-eyed
-  - nutcase
-  - tv
 - - tumultuous
   - applause
   - cheesy
 - - university
   - lecturer
   - cheesy
-- - hoosita
-  - cheesy
-  - host
 - - lecturer
   - cheesy
   - host
@@ -38,12 +29,96 @@ ngrams:
 - - cheesy
   - host
   - ho
-- - killer
-  - robot
-  - chortles
 - - cheesy
   - host
   - welcome
+- - ho
+  - ho
+  - ho
+- - host
+  - ho
+  - ho
+- - landing
+  - strips
+  - dressed
+- - landing
+  - strips
+  - dressed
+- - landing
+  - strips
+  - dressed
+- - killer
+  - robot
+  - whenever
+- - hordes
+  - tomorrow
+  - unless
+- - precaution
+  - possible
+  - applause
+- - red
+  - hordes
+  - tomorrow
+- - international
+  - communism
+  - blodgett
+- - open
+  - university
+  - lecturer
+- - chat
+  - show
+  - let's
+- - killer
+  - robot
+  - help
+- - blodgett
+  - killer
+  - robot
+- - killer
+  - robot
+  - blodgett
+- - show
+  - let's
+  - talk
+- - television
+  - chat
+  - show
+- - killer
+  - robot
+  - give
+- - hand
+  - tumultuous
+  - applause
+- - against
+  - international
+  - communism
+- - lovely
+  - audience
+  - want
+- - fight
+  - against
+  - international
+- - nothing
+  - cheesy
+  - host
+- - under
+  - serious
+  - threat
+- - applause
+  - both
+  - tumultuous
+- - show
+  - blodgett
+  - blodgett
+- - clip
+  - without
+  - success
+- - ho
+  - ho
+  - indeed
+- - rampage
+  - around
+  - remote
 story:
   date: 2010-01-23
   id: 2010-01-23-blodgett-killer-robot
@@ -74,4 +149,4 @@ story:
     Blodgett\_: I have a one-word answer to that, Sacheverell\u2026\nAnnoyingly, the\
     \ transcript ends there."
   title: Blodgett, Killer Robot
-word_count: 324
+word_count: 321

@@ -1,13 +1,19 @@
 ngrams:
-- - stabbed
-  - russell
-  - harty
 - - impaled
   - alan
   - whicker
 - - demented
   - fat
   - vicar
+- - brain
+  - grew
+  - sicker
+- - sick
+  - brain
+  - grew
+- - vicar
+  - again
+  - there
 story:
   date: 2017-11-19
   id: 2017-11-19-that-vicar-again

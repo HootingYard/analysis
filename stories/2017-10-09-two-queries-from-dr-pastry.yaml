@@ -8,9 +8,6 @@ ngrams:
 - - writes
   - dr
   - ruth
-- - poultry
-  - called
-  - chickendiadys
 - - key
   - writes
   - dr
@@ -20,18 +17,39 @@ ngrams:
 - - chicken
   - being
   - b
+- - mr
+  - key
+  - writes
 - - much
   - enjoyed
   - reading
 - - both
   - these
   - riveting
-- - mr
-  - key
-  - writes
 - - regarding
   - both
   - these
+- - very
+  - much
+  - enjoyed
+- - enjoyed
+  - reading
+  - your
+- - your
+  - piece
+  - unspeakable
+- - alone
+  - among
+  - your
+- - reading
+  - your
+  - piece
+- - among
+  - your
+  - readers
+- - pastry
+  - ahoy
+  - there
 story:
   date: 2017-10-09
   id: 2017-10-09-two-queries-from-dr-pastry
@@ -46,4 +64,4 @@ story:
     \ (A) and the one about the chicken being (B), my responses are:\n\n(A) Yes\_\n\
     \    and (B) No."
   title: Two Queries From Dr Pastry
-word_count: 138
+word_count: 136

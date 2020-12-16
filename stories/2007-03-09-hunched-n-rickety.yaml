@@ -14,12 +14,24 @@ ngrams:
 - - hunched
   - body
   - rickety
-- - flute-playing
-  - philosopher
-  - father
 - - body
   - rickety
   - legs
+- - slum
+  - novelist
+  - who
+- - novelist
+  - who
+  - attempted
+- - who
+  - drinks
+  - herself
+- - mother
+  - who
+  - drinks
+- - who
+  - seldom
+  - works
 story:
   date: 2007-03-09
   id: 2007-03-09-hunched-n-rickety

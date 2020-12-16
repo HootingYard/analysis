@@ -5,9 +5,6 @@ ngrams:
 - - pulsating
   - brain
   - finally
-- - pea-sized
-  - yet
-  - pulsating
 - - devoted
   - readers
   - ought
@@ -17,6 +14,21 @@ ngrams:
 - - still
   - alive
   - dear
+- - brain
+  - finally
+  - given
+- - alive
+  - dear
+  - mr
+- - yet
+  - pulsating
+  - brain
+- - dear
+  - mr
+  - key
+- - dear
+  - mr
+  - key
 story:
   date: 2015-07-17
   id: 2015-07-17-buzz
@@ -33,4 +45,4 @@ story:
     which has fallen over Hooting Yard like a leaden pall. The awful truth is revealed
     in today''s Dabbler, and it is all about bees!'
   title: Buzz!
-word_count: 81
+word_count: 80

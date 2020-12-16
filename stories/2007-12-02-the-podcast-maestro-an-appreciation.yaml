@@ -8,27 +8,45 @@ ngrams:
 - - current
   - podcast
   - maestro
-- - slimmer
-  - jimmer
-  - whose
 - - story
   - pancake
   - hints
 - - century
   - technology
   - unlike
-- - whizzbang
-  - st
-  - century
 - - st
   - century
   - technology
 - - excelled
   - himself
-  - isn
+  - isn't
 - - unsung
   - yet
   - heroic
+- - yet
+  - heroic
+  - figures
+- - yard
+  - podcast
+  - hub
+- - technology
+  - unlike
+  - mr
+- - mr
+  - key
+  - babbling
+- - unlike
+  - mr
+  - key
+- - hooting
+  - yard
+  - podcast
+- - heroic
+  - figures
+  - who
+- - figures
+  - who
+  - actually
 story:
   date: 2007-12-02
   id: 2007-12-02-the-podcast-maestro-an-appreciation
@@ -45,4 +63,4 @@ story:
     Acknowledgements are also due to the source of the photograph, one Slimmer Jimmer,
     whose work can be found here.'
   title: "The Podcast Maestro\_: An Appreciation"
-word_count: 131
+word_count: 130

@@ -11,18 +11,9 @@ ngrams:
 - - receive
   - holy
   - communion
-- - rumwold
-  - saint
-  - rumwold
-- - saint
-  - rumwold
-  - saint
 - - presents
   - news
   - items
-- - note
-  - pansy
-  - cradledew
 - - clump
   - note
   - pansy
@@ -38,6 +29,36 @@ ngrams:
 - - gay
   - bishop
   - should
+- - pious
+  - infant
+  - indeed
+- - infant
+  - indeed
+  - possibly
+- - blog
+  - being
+  - tapped
+- - pious
+  - than
+  - edward
+- - indeed
+  - possibly
+  - even
+- - am
+  - certainly
+  - pleased
+- - tv
+  - newsreader
+  - who
+- - newsreader
+  - who
+  - sometimes
+- - who
+  - sometimes
+  - presents
+- - about
+  - gay
+  - bishops
 story:
   date: 2008-07-19
   id: 2008-07-19-a-pious-infant
@@ -55,4 +76,4 @@ story:
     \ with Gay Bishop, the TV newsreader who sometimes presents news items about gay\
     \ bishops."
   title: A Pious Infant
-word_count: 167
+word_count: 165

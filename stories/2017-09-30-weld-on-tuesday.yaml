@@ -2,12 +2,18 @@ ngrams:
 - - mentioned
   - tuesday
   - weld
-- - max
-  - d
-  - charn
 - - tuesday
   - weld
   - here
+- - tuesday
+  - it's
+  - been
+- - am
+  - very
+  - grateful
+- - we
+  - mentioned
+  - tuesday
 story:
   date: 2017-09-30
   id: 2017-09-30-weld-on-tuesday
@@ -15,4 +21,4 @@ story:
     \ here at Hooting Yard, so I am very grateful to Max D\xE9charn\xE9 for bringing\
     \ to my attention this leaflet, which explains how you can weld on a Tuesday.\n"
   title: Weld On Tuesday
-word_count: 47
+word_count: 46

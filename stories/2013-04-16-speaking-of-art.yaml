@@ -8,6 +8,12 @@ ngrams:
 - - thing
   - about
   - art
+- - about
+  - art
+  - here
+- - art
+  - oh
+  - one
 story:
   date: 2013-04-16
   id: 2013-04-16-speaking-of-art

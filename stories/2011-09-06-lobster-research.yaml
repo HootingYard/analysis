@@ -1,7 +1,4 @@
 ngrams:
-- - bric-
-  - -brac
-  - hunter
 - - borrow
   - crab
   - shrimp
@@ -11,15 +8,6 @@ ngrams:
 - - cashew
   - aka
   - pansy
-- - aka
-  - pansy
-  - cradledew
-- - -brac
-  - hunter
-  - c
-- - herbert
-  - byng
-  - hall
 - - david
   - foster
   - wallace
@@ -29,21 +17,147 @@ ngrams:
 - - lore
   - gathered
   - amongst
-- - cradledew
-  - miss
-  - cashew
-- - pansy
-  - cradledew
-  - miss
 - - lobster
   - lore
   - gathered
-- - weedy
-  - milksop
-  - type
+- - endings
+  - it's
+  - evident
+- - nerve
+  - endings
+  - it's
+- - lay
+  - greater
+  - trust
+- - w
+  - b
+  - lord
+- - library
+  - looking
+  - specifically
+- - global
+  - history
+  - consider
+- - london
+  - library
+  - looking
+- - wrong
+  - wrong
+  - wrong
+- - intelligent
+  - lobster
+  - thus
+- - also
+  - borrow
+  - crab
+- - roamed
+  - around
+  - het
+- - around
+  - het
+  - internet
+- - het
+  - internet
+  - until
+- - cover
+  - having
+  - done
+- - shall
+  - also
+  - borrow
+- - next
+  - visit
+  - later
+- - tracking
+  - down
+  - promising
+- - down
+  - promising
+  - materials
+- - much
+  - deep
+  - thinking
+- - london
+  - library
+  - than
 - - lobster
-  - research
-  - phew
+  - other
+  - essays
+- - its
+  - cardboard
+  - packaging
+- - am
+  - awaiting
+  - delivery
+- - thus
+  - she
+  - roamed
+- - know
+  - almost
+  - nothing
+- - lobster
+  - thus
+  - she
+- - she
+  - roamed
+  - around
+- - am
+  - wrong
+  - wrong
+- - internet
+  - until
+  - she
+- - knock
+  - some
+  - sense
+- - still
+  - know
+  - almost
+- - done
+  - some
+  - reading
+- - until
+  - she
+  - found
+- - bit
+  - about
+  - lobsters
+- - do
+  - much
+  - deep
+- - also
+  - been
+  - poring
+- - lobsters
+  - more
+  - than
+- - nothing
+  - about
+  - lobsters
+- - researcher
+  - would
+  - rely
+- - almost
+  - nothing
+  - about
+- - would
+  - lay
+  - greater
+- - been
+  - poring
+  - over
+- - thought
+  - would
+  - knock
+- - we
+  - shall
+  - return
+- - about
+  - lobsters
+  - than
+- - an
+  - intelligent
+  - lobster
 story:
   date: 2011-09-06
   id: 2011-09-06-lobster-research
@@ -80,4 +194,4 @@ story:
     \ of \u201CRiddles, Trivia, and More\u201D. We shall return to this subject when\
     \ I have done some reading."
   title: Lobster Research
-word_count: 433
+word_count: 428

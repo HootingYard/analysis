@@ -1,22 +1,31 @@
 ngrams:
-- - greetland
-  - rastrick
-  - ossett
-- - rastrick
-  - ossett
-  - soothill
-- - ossett
-  - soothill
-  - scarcroft
-- - soothill
-  - scarcroft
-  - wike
-- - scarcroft
-  - wike
-  - kirkby
-- - wike
-  - kirkby
-  - overblow
+- - dickensian
+  - ailments
+  - mike
+- - ailments
+  - mike
+  - parker
+- - maps
+  - ordnance
+  - survey
+- - parker
+  - map
+  - addict
+- - ordnance
+  - survey
+  - map
+- - mike
+  - parker
+  - map
+- - yorkshire
+  - villages
+  - such
+- - more
+  - like
+  - entries
+- - sounds
+  - more
+  - like
 story:
   date: 2010-06-28
   id: 2010-06-28-names-on-maps
@@ -28,4 +37,4 @@ story:
     \ Eye\u2014a list that sounds more like entries in a dictionary of Dickensian\
     \ ailments.\u201D\nMike Parker, Map Addict (2009)"
   title: Names On Maps
-word_count: 73
+word_count: 72

@@ -1,7 +1,4 @@
 ngrams:
-- - officials
-  - university
-  - dons
 - - infinitely
   - precious
   - holiday
@@ -17,15 +14,6 @@ ngrams:
 - - albert
   - smith
   - remained
-- - somewhat
-  - equivocal
-  - reputation
-- - mont
-  - blanc
-  - live
-- - well-known
-  - comic
-  - author
 - - limited
   - means
   - spends
@@ -41,9 +29,114 @@ ngrams:
 - - drew
   - public
   - attention
-- - wrote
+- - news
+  - wrote
   - de
-  - saussure
+- - daily
+  - news
+  - wrote
+- - afford
+  - long
+  - holidays
+- - box
+  - another
+  - englishman
+- - mr
+  - albert
+  - smith
+- - most
+  - appropriately
+  - recorded
+- - much
+  - undesirable
+  - publicity
+- - provoked
+  - much
+  - undesirable
+- - ascent
+  - provoked
+  - much
+- - incessant
+  - straining
+  - after
+- - poetical
+  - philosophy
+  - those
+- - thus
+  - far
+  - mountaineering
+- - hills
+  - thus
+  - far
+- - disposal
+  - could
+  - afford
+- - years
+  - old
+  - arrived
+- - englishman
+  - who
+  - drew
+- - who
+  - drew
+  - public
+- - could
+  - afford
+  - long
+- - men
+  - generally
+  - who
+- - undoubtedly
+  - did
+  - much
+- - another
+  - englishman
+  - who
+- - albert
+  - smith
+  - will
+- - amusing
+  - book
+  - about
+- - mountain
+  - set
+  - out
+- - their
+  - disposal
+  - could
+- - an
+  - incessant
+  - straining
+- - comic
+  - author
+  - this
+- - wrote
+  - an
+  - interesting
+- - who
+  - were
+  - delighted
+- - such
+  - are
+  - impervious
+- - but
+  - infinitely
+  - precious
+- - but
+  - albert
+  - smith
+- - spirits
+  - but
+  - albert
+- - animal
+  - spirits
+  - but
+- - ambition
+  - but
+  - returned
+- - far
+  - mountaineering
+  - had
 story:
   date: 2012-09-23
   id: 2012-09-23-mont-blanc-in-a-box
@@ -76,4 +169,4 @@ story:
     \ by the eclectics, undoubtedly did much to bring the beauty and interest of the\
     \ Alps to the public attention.\nfrom British Mountaineers by F. S. Smythe (1942)"
   title: Mont Blanc In A Box
-word_count: 374
+word_count: 373

@@ -1,16 +1,22 @@
 ngrams:
-- - black-and-white
-  - juddery
-  - camera-work
-- - faffing-about
-  - network
-  - aaron
-- - network
-  - aaron
-  - sorkin
-- - antisocial
-  - faffing-about
-  - network
+- - week's
+  - dabbler
+  - cupboard
+- - feature
+  - film
+  - silent
+- - will
+  - find
+  - instructions
+- - this
+  - week's
+  - dabbler
+- - already
+  - at
+  - work
+- - creaks
+  - open
+  - you
 story:
   date: 2011-01-14
   id: 2011-01-14-dabblehub
@@ -22,4 +28,4 @@ story:
     juddery camera-work) which will chronicle the troubled gestation of this most
     dabbly of hubs.'
   title: Dabblehub
-word_count: 56
+word_count: 55

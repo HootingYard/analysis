@@ -1,22 +1,10 @@
 ngrams:
-- - ecclefechan
-  - obstinately
-  - tightened
-- - watts
-  - cited
-  - napoleon
 - - cited
   - napoleon
   - byron
-- - pheidias
-  - carlyle
-  - advanced
 - - sufficiently
   - prominent
   - depend
-- - g
-  - f
-  - watts
 - - gaunt
   - victorian
   - olympus
@@ -41,9 +29,48 @@ ngrams:
 - - less
   - individual
   - carlyle
-- - men
+- - greek
+  - men
   - thomas
+- - ancient
+  - greek
+  - men
+- - carlyle
+  - neither
+  - god
+- - long
+  - upper
+  - lip
+- - neither
+  - god
+  - nor
+- - clever
+  - man
+  - amongst
+- - said
   - carlyle
+  - neither
+- - prominent
+  - depend
+  - upon
+- - god
+  - nor
+  - man
+- - evidence
+  - against
+  - him
+- - 'no'
+  - less
+  - individual
+- - man
+  - amongst
+  - them
+- - nor
+  - man
+  - can
+- - man
+  - can
+  - get
 story:
   date: 2011-07-31
   id: 2011-07-31-stupid-ancient-greek-men
@@ -63,4 +90,4 @@ story:
     \ Victorian Olympus (1952)\nThanks to Nige for alerting me to this splendid book,\
     \ in this post over at The Dabbler."
   title: Stupid Ancient Greek Men
-word_count: 195
+word_count: 193

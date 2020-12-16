@@ -23,6 +23,21 @@ ngrams:
 - - hooting
   - yard
   - advent
+- - hooting
+  - yard
+  - advent
+- - calendar
+  - each
+  - day
+- - each
+  - day
+  - between
+- - hovel
+  - then
+  - each
+- - day
+  - between
+  - now
 story:
   date: 2011-12-01
   id: 2011-12-01-hooting-yard-advent-calendar-i

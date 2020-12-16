@@ -1,28 +1,40 @@
 ngrams:
-- - speeches
-  - execution
-  - broadsides
-- - visited
-  - ephemera
-  - assemblyman
 - - dying
   - speeches
   - execution
 - - enjoyed
   - dying
   - speeches
-- - chronologically
-  - distant
-  - non-threatening
 - - particularly
   - enjoyed
   - dying
 - - scenes
   - depicted
   - look
-- - babinsky
-  - whose
-  - gore-splattered
+- - details
+  - without
+  - emptying
+- - doom
+  - here
+  - shortly
+- - before
+  - visited
+  - ephemera
+- - depicted
+  - look
+  - more
+- - can
+  - face
+  - typing
+- - never
+  - before
+  - visited
+- - oddly
+  - 'no'
+  - mention
+- - face
+  - typing
+  - up
 story:
   date: 2009-08-31
   id: 2009-08-31-grue-and-gore
@@ -37,4 +49,4 @@ story:
     I shall transcribe an account of Babinsky''s doom here shortly, when I can face
     typing up the details without emptying my guts all over the place.'
   title: Grue And Gore
-word_count: 97
+word_count: 96

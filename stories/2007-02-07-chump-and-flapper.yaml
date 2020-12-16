@@ -2,9 +2,6 @@ ngrams:
 - - deceptively
   - diffident
   - bloodhounds
-- - world-weary
-  - demimondaine
-  - flapper
 - - diffident
   - bloodhounds
   - bim
@@ -17,21 +14,9 @@ ngrams:
 - - moonlit
   - jetty
   - ended
-- - so-called
-  - spindly
-  - copper
 - - stepped
   - detective
   - inspector
-- - detective
-  - inspector
-  - cargpan
-- - flapper
-  - cargpan
-  - placed
-- - ill-starred
-  - fishing
-  - village
 - - godforsaken
   - fishing
   - village
@@ -44,6 +29,153 @@ ngrams:
 - - vast
   - vast
   - lake
+- - vast
+  - vast
+  - lake
+- - vast
+  - vast
+  - lake
+- - flapper
+  - found
+  - themselves
+- - fop
+  - either
+  - way
+- - car
+  - before
+  - driving
+- - vast
+  - lake
+  - such
+- - flapper
+  - knew
+  - she
+- - chump
+  - took
+  - her
+- - before
+  - driving
+  - 'off'
+- - other
+  - oar
+  - himself
+- - either
+  - way
+  - said
+- - inhuman
+  - speed
+  - up
+- - flapper
+  - could
+  - see
+- - thugs
+  - lumbering
+  - about
+- - clubs
+  - were
+  - spattered
+- - were
+  - wielding
+  - clubs
+- - car
+  - screeched
+  - into
+- - plunged
+  - into
+  - darkness
+- - screeched
+  - into
+  - view
+- - whom
+  - were
+  - wielding
+- - lord
+  - knows
+  - what
+- - knows
+  - what
+  - else
+- - out
+  - stepped
+  - detective
+- - into
+  - view
+  - behind
+- - prospect
+  - gives
+  - me
+- - fishing
+  - village
+  - there
+- - flapper
+  - hand
+  - me
+- - rowing
+  - home
+  - they
+- - ineptly
+  - so
+  - ineptly
+- - together
+  - they
+  - began
+- - row
+  - home
+  - we
+- - darkness
+  - out
+  - here
+- - after
+  - all
+  - plummeted
+- - this
+  - godforsaken
+  - fishing
+- - say
+  - ineptly
+  - so
+- - spindly
+  - copper
+  - had
+- - bundled
+  - them
+  - into
+- - speed
+  - up
+  - into
+- - at
+  - nightfall
+  - surrounded
+- - at
+  - inhuman
+  - speed
+- - into
+  - darkness
+  - out
+- - themselves
+  - at
+  - nightfall
+- - by
+  - brutes
+  - wiping
+- - probably
+  - be
+  - correct
+- - bashed
+  - by
+  - brutes
+- - nightfall
+  - surrounded
+  - by
+- - found
+  - themselves
+  - at
+- - much
+  - grunting
+  - from
+- - not
+  - row
+  - home
 story:
   date: 2007-02-07
   id: 2007-02-07-chump-and-flapper
@@ -82,4 +214,4 @@ story:
     \ driving off at inhuman speed up into the hills, leaving the thugs to smash the\
     \ rowing boat, and the rowing boat's oars, to smithereens."
   title: Chump And Flapper
-word_count: 480
+word_count: 479

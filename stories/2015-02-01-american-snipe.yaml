@@ -1,28 +1,19 @@
 ngrams:
-- - mayflies
-  - butterflies
-  - caddis
 - - dragonflies
   - crickets
   - grasshoppers
-- - snipe
-  - clint
-  - eastwood
 - - beetles
   - dragonflies
   - crickets
 - - states
   - winning
   - plaudits
-- - grasshoppers
-  - ants
-  - mayflies
 - - crickets
   - grasshoppers
   - ants
-- - ants
-  - mayflies
-  - butterflies
+- - slaughter
+  - remarks
+  - they're
 - - unalloyed
   - avian
   - savagery
@@ -35,9 +26,36 @@ ngrams:
 - - american
   - snipe
   - clint
-- - butterflies
-  - caddis
+- - theme
+  - american
+  - snipe
+- - flies
+  - beetles
+  - dragonflies
+- - deer
   - flies
+  - beetles
+- - ornithological
+  - theme
+  - american
+- - american
+  - snipe
+  - tells
+- - flies
+  - deer
+  - flies
+- - avian
+  - savagery
+  - instead
+- - horse
+  - flies
+  - deer
+- - crane
+  - flies
+  - horse
+- - film
+  - american
+  - snipe
 story:
   date: 2015-02-01
   id: 2015-02-01-american-snipe
@@ -55,4 +73,4 @@ story:
     \ as twee and cuddly.\nThe role of the American snipe is played by an award-winning\
     \ snipe with a particularly long slender pointy bill.\n"
   title: American Snipe
-word_count: 161
+word_count: 159

@@ -1,49 +1,190 @@
 ngrams:
-- - tourists
-  - gertrude
-  - starink
 - - fragile
   - bespectacled
   - bluestocking
-- - limited-edition
-  - illustrated
-  - booklets
 - - tristram
   - shandy
   - gentleman
 - - benign
   - edward
   - gorey
-- - ives
-  - alphabet
-  - twenty-six
-- - twenty-six
-  - cards
-  - reminiscent
 - - limited
   - stock
   - mostly
-- - alphabet
-  - twenty-six
-  - cards
 - - finest
   - dutch
   - poets
 - - fairly
   - narrow
   - range
-- - born
-  - ruth
-  - smulders
 - - holland
   - born
   - ruth
-- - commercially-published
-  - st
-  - ives
 - - adore
   - st
   - ives
+- - st
+  - ives
+  - alphabet
+- - visited
+  - st
+  - ives
+- - mother
+  - spoke
+  - flemish
+- - emblem
+  - reproduced
+  - above
+- - st
+  - ives
+  - consider
+- - ives
+  - consider
+  - themselves
+- - consider
+  - themselves
+  - artists
+- - lamp
+  - last
+  - weekend
+- - take
+  - regular
+  - holidays
+- - too
+  - hideously
+  - crowded
+- - egypt
+  - most
+  - interestingly
+- - own
+  - mother
+  - spoke
+- - remember
+  - sat
+  - behind
+- - still
+  - adore
+  - st
+- - century
+  - having
+  - published
+- - very
+  - limited
+  - stock
+- - while
+  - often
+  - informed
+- - quite
+  - understood
+  - how
+- - her
+  - husband
+  - jan
+- - sold
+  - her
+  - artworks
+- - never
+  - quite
+  - understood
+- - street
+  - just
+  - along
+- - work
+  - while
+  - often
+- - left
+  - any
+  - trace
+- - more
+  - benign
+  - edward
+- - order
+  - her
+  - bestseller
+- - behind
+  - her
+  - desk
+- - artworks
+  - some
+  - paintings
+- - having
+  - published
+  - over
+- - sat
+  - behind
+  - her
+- - different
+  - order
+  - her
+- - she
+  - also
+  - sold
+- - also
+  - sold
+  - her
+- - husband
+  - jan
+  - who
+- - jan
+  - who
+  - died
+- - books
+  - she
+  - also
+- - who
+  - died
+  - earlier
+- - translating
+  - into
+  - dutch
+- - discover
+  - if
+  - gertrude
+- - reproduced
+  - above
+  - when
+- - her
+  - accent
+  - she
+- - her
+  - artworks
+  - some
+- - think
+  - exactly
+  - what
+- - years
+  - translating
+  - into
+- - went
+  - there
+  - regularly
+- - change
+  - which
+  - given
+- - gorey
+  - an
+  - additional
+- - edward
+  - gorey
+  - an
+- - an
+  - additional
+  - pleasure
+- - would
+  - think
+  - exactly
+- - town
+  - even
+  - when
+- - died
+  - earlier
+  - this
+- - earlier
+  - this
+  - year
+- - summer
+  - one
+  - does
 story:
   date: 2014-10-04
   id: 2014-10-04-the-mirror-n-the-lamp
@@ -85,4 +226,4 @@ story:
     \ into Dutch The Life And Opinions Of Tristram Shandy, Gentleman.\nI still adore\
     \ St Ives, but it is diminished by her absence."
   title: The Mirror & The Lamp
-word_count: 501
+word_count: 498

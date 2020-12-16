@@ -1,19 +1,7 @@
 ngrams:
-- - chemist-chieftain
-  - slobodan
-  - curpin
-- - experimental
-  - windsocks
-  - poultice-making
-- - obscure
-  - chemist-chieftain
-  - slobodan
 - - dreary
   - textbook
   - treatment
-- - revolution
-  - experimental
-  - windsocks
 - - illicit
   - drugs
   - twitching
@@ -26,12 +14,6 @@ ngrams:
 - - scientific
   - revolution
   - experimental
-- - editor
-  - mike
-  - gunderloy
-- - perfectly
-  - deadpan
-  - style
 - - foreign
   - agents
   - trips
@@ -44,6 +26,108 @@ ngrams:
 - - bizarre
   - pubs
   - potato
+- - murder
+  - mystery
+  - replete
+- - malice
+  - aforethought
+  - press
+- - pubs
+  - potato
+  - science
+- - soup
+  - recipes
+  - signs
+- - magazine
+  - indefatigable
+  - editor
+- - mysterious
+  - foreign
+  - agents
+- - detective
+  - soup
+  - recipes
+- - aforethought
+  - press
+  - pamphlets
+- - shorter
+  - works
+  - including
+- - allegedly
+  - fevered
+  - mind
+- - style
+  - delicious
+  - whether
+- - print
+  - malice
+  - aforethought
+- - five
+  - magazine
+  - indefatigable
+- - delicious
+  - whether
+  - frank
+- - fevered
+  - mind
+  - absolutely
+- - mind
+  - absolutely
+  - free
+- - almost
+  - daily
+  - basis
+- - booklet
+  - key
+  - writes
+- - thing
+  - maddeningly
+  - sensible
+- - most
+  - utter
+  - nonsense
+- - delightful
+  - little
+  - booklet
+- - small
+  - press
+  - days
+- - make
+  - perfect
+  - sense
+- - paypal
+  - link
+  - over
+- - little
+  - booklet
+  - key
+- - copy
+  - ah
+  - those
+- - perfect
+  - sense
+  - here
+- - ago
+  - another
+  - thing
+- - years
+  - ago
+  - another
+- - wildly
+  - funny
+  - some
+- - more
+  - bizarre
+  - prose
+- - too
+  - should
+  - own
+- - pamphlet
+  - more
+  - bizarre
+- - ogre
+  - who
+  - proves
 story:
   date: 2017-10-02
   id: 2017-10-02-thirty-years-ago
@@ -75,4 +159,4 @@ story:
     \ absolutely free, on an almost daily basis. That being so, remember you can always\
     \ send a donation by hitting that Paypal link over to your right \u2026"
   title: Thirty Years Ago
-word_count: 351
+word_count: 348

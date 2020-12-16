@@ -1,49 +1,91 @@
 ngrams:
-- - middleton
-  - kim
-  - kardashian
-- - ks
-  - kate
-  - kim
-- - kate
-  - middleton
-  - kim
+- - sos
+  - we're
+  - passionate
 - - web
   - traffic
   - increases
-- - website
-  - sos
-  - stands
-- - search
-  - optimisation
-  - solutions
 - - sos
   - hi
   - frank
+- - website
+  - sos
+  - stands
 - - b
   - morally
   - uplifting
-- - whopping
-  - thirty-six
-  - thanks
 - - credible
   - b
   - morally
 - - comments
   - update
   - gosh
+- - s
+  - pop
+  - sensations
+- - antipodean
+  - s
+  - pop
 - - update
   - gosh
   - since
-- - three
-  - ks
-  - kate
 - - teenagers
   - called
   - sos
 - - called
   - sos
   - hi
+- - company
+  - probably
+  - run
+- - three
+  - k's
+  - yesterday
+- - hour
+  - ago
+  - traffic
+- - effective
+  - tips
+  - without
+- - ideas
+  - please
+  - let
+- - mention
+  - three
+  - names
+- - yet
+  - effective
+  - tips
+- - simple
+  - yet
+  - effective
+- - penny
+  - our
+  - research
+- - our
+  - research
+  - shows
+- - any
+  - ideas
+  - please
+- - continued
+  - reading
+  - after
+- - don't
+  - know
+  - why
+- - your
+  - website
+  - sos
+- - we're
+  - passionate
+  - about
+- - passionate
+  - about
+  - helping
+- - reading
+  - after
+  - such
 story:
   date: 2017-08-02
   id: 2017-08-02-the-three-ks
@@ -66,4 +108,4 @@ story:
     \ an hour ago, traffic to Hooting Yard has increased to a whopping thirty-six!\
     \ Thanks a million, SOS!"
   title: "The Three \u2018K's"
-word_count: 237
+word_count: 233

@@ -1,22 +1,7 @@
 ngrams:
-- - precision
-  - thereby
-  - enabling
-- - constructed
-  - oar-like
-  - tail
-- - lobster
-  - homarus
-  - vulgaris
 - - extraordinary
   - precision
   - thereby
-- - curiously
-  - constructed
-  - oar-like
-- - h
-  - vulgaris
-  - vanishes
 - - sudden
   - backward
   - shoots
@@ -32,18 +17,90 @@ ngrams:
 - - bottom
   - alarms
   - except
-- - english
-  - lobster
-  - homarus
 - - lobster
   - lore
   - gathered
-- - slightest
-  - shadow
-  - passing
 - - lord
   - crab
   - shrimp
+- - slightest
+  - shadow
+  - passing
+- - b
+  - lord
+  - crab
+- - common
+  - english
+  - lobster
+- - w
+  - b
+  - lord
+- - wildest
+  - dreams
+  - hope
+- - deep
+  - channels
+  - between
+- - vision
+  - commanding
+  - both
+- - commanding
+  - both
+  - front
+- - sea
+  - robbers
+  - themselves
+- - own
+  - element
+  - unless
+- - most
+  - extraordinary
+  - precision
+- - these
+  - sudden
+  - backward
+- - compound
+  - form
+  - being
+- - eyes
+  - being
+  - arranged
+- - rocks
+  - where
+  - pursuit
+- - lobster
+  - may
+  - chance
+- - shadow
+  - passing
+  - over
+- - exerting
+  - its
+  - immense
+- - its
+  - curiously
+  - constructed
+- - its
+  - immense
+  - powers
+- - achieve
+  - down
+  - among
+- - form
+  - being
+  - made
+- - its
+  - own
+  - element
+- - curled
+  - up
+  - form
+- - their
+  - compound
+  - form
+- - rapidity
+  - into
+  - nooks
 story:
   date: 2011-09-11
   id: 2011-09-11-the-harlequin-dreams-of-being-a-lobster
@@ -71,4 +128,4 @@ story:
     W B Lord, Crab, Shrimp, And Lobster Lore, Gathered Amongst The Rocks At The Sea-Shore,
     By The Riverside, And In The Forest (1867)'
   title: The Harlequin Dreams Of Being A Lobster
-word_count: 275
+word_count: 274

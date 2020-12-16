@@ -1,22 +1,16 @@
 ngrams:
-- - buttercuppy
-  - meadow
-  - propped
-- - glorious
-  - angelic
-  - hosannahs
 - - tie
   - luxuriant
   - locks
 - - bow
   - tie
   - luxuriant
-- - noodling
-  - progressive
-  - rock
 - - heroic
   - worker
   - pounds
+- - noodling
+  - progressive
+  - rock
 - - tape
   - recorder
   - malfunctioned
@@ -41,9 +35,99 @@ ngrams:
 - - herald
   - angels
   - sing
+- - context
+  - angels
+  - sing
+- - devil's
+  - din
+  - o
+- - 'true'
+  - herald
+  - angel
+- - angels
+  - sing
+  - appeared
+- - immaculate
+  - elbow
+  - reading
+- - bellowing
+  - room
+  - smelting
+- - room
+  - smelting
+  - iron
+- - piece
+  - entitled
+  - hark
+- - herald
+  - angels
+  - both
+- - fumigating
+  - angel
+  - rather
+- - another
+  - context
+  - angels
+- - being
+  - herald
+  - angels
+- - future
+  - being
+  - herald
+- - event
+  - our
+  - reporter
+- - that's
+  - right
+  - two
+- - hark
+  - let
+  - us
+- - let
+  - us
+  - listen
+- - years
+  - ago
+  - today
+- - our
+  - reporter
+  - found
+- - three
+  - years
+  - ago
+- - three
+  - years
+  - ago
+- - dobson
+  - once
+  - wrote
+- - can
+  - accurately
+  - predict
 - - angel
-  - named
-  - angerecton
+  - rather
+  - than
+- - some
+  - forgotten
+  - noodling
+- - hooting
+  - yard
+  - three
+- - yard
+  - three
+  - years
+- - any
+  - event
+  - our
+- - forge
+  - just
+  - like
+- - just
+  - like
+  - felix
+- - before
+  - too
+  - long
 story:
   date: 2008-01-30
   id: 2008-01-30-three-years-ago
@@ -74,4 +158,4 @@ story:
     \ that before too long, you and I and both Stakhanovs will be deafened by the\
     \ devil's din.\n* O is he dead then?"
   title: Three Years Ago
-word_count: 353
+word_count: 351

@@ -1,29 +1,23 @@
 ngrams:
-- - ringlets
-  - aaaghh
-  - screeches
-- - benighted
-  - cripplehaven
-  - pleads
-- - beautiful
-  - mild
-  - firmness
+- - ruskin's
+  - buoyant
+  - mood
 - - twisted
   - deformed
   - spine
+- - ruskin's
+  - worst
+  - nightmare
 - - buoyant
   - mood
   - changes
-- - usual
-  - mild
-  - firmness
 - - intends
   - replies
   - ma
 - - says
   - mildly
   - firm
-- - skirts
+- - replies
   - ma
   - ruskin
 - - lord
@@ -31,19 +25,94 @@ ngrams:
   - replies
 - - ma
   - ruskin
-  - scolds
-- - replies
-  - ma
-  - ruskin
-- - ma
-  - ruskin
   - taking
 - - mood
   - changes
   - however
-- - reading
-  - praeterita
-  - volume
+- - charitable
+  - mercy
+  - home
+- - walk
+  - straight
+  - past
+- - between
+  - herne
+  - hill
+- - somewhere
+  - between
+  - herne
+- - mercy
+  - home
+  - comes
+- - great
+  - granite
+  - walls
+- - spot
+  - somewhere
+  - between
+- - couple
+  - walking
+  - along
+- - little
+  - ruskin's
+  - buoyant
+- - little
+  - ruskin's
+  - worst
+- - little
+  - ruskin
+  - shielding
+- - pleads
+  - little
+  - ruskin
+- - little
+  - ruskin
+  - loves
+- - screeches
+  - little
+  - ruskin
+- - glance
+  - little
+  - ruskin
+- - box
+  - further
+  - reading
+- - little
+  - ruskin
+  - ends
+- - little
+  - ruskin
+  - begins
+- - corner
+  - little
+  - ruskin's
+- - horror
+  - little
+  - ruskin
+- - conceited
+  - little
+  - boy
+- - comes
+  - little
+  - ruskin's
+- - little
+  - ruskin
+  - knows
+- - ruskin
+  - see
+  - children
+- - finely
+  - made
+  - woman
+- - chapter
+  - v
+  - here
+- - today
+  - little
+  - ruskin
+- - our
+  - strolling
+  - ma
 story:
   date: 2009-08-01
   id: 2009-08-01-further-adventures-of-little-ruskin
@@ -71,4 +140,4 @@ story:
     \ at the house on the hill, forbidden even to jump off his favourite box.\nFurther\
     \ reading\_: Praeterita, Volume I, Chapter V, here."
   title: Further Adventures Of Little Ruskin
-word_count: 308
+word_count: 305

@@ -8,9 +8,6 @@ ngrams:
 - - cows
   - come
   - home
-- - such
-  - godawful
-  - piffle
 - - should
   - think
   - yourselves
@@ -23,12 +20,12 @@ ngrams:
 - - mojo
   - rather
   - than
-- - rather
-  - than
-  - lost
 - - who
   - prefer
   - swanning
+- - rather
+  - than
+  - lost
 - - crawling
   - back
   - like
@@ -41,9 +38,36 @@ ngrams:
 - - am
   - now
   - prepared
-- - been
-  - such
-  - godawful
+- - so
+  - while
+  - filling
+- - what
+  - has
+  - happened
+- - indigent
+  - or
+  - perhaps
+- - writing
+  - routine
+  - have
+- - one
+  - does
+  - just
+- - do
+  - so
+  - while
+- - you
+  - lot
+  - should
+- - does
+  - just
+  - have
+- - have
+  - often
+  - said
+- - mislaid
+  - my
+  - mojo
 story:
   date: 2014-06-02
   id: 2014-06-02-mislaid-mojo
@@ -61,4 +85,4 @@ story:
     \ for it, or simply to wait for it to come crawling back, like a surly dog. Speaking\
     \ of dogs, here is a dog:\n"
   title: Mislaid Mojo
-word_count: 187
+word_count: 186

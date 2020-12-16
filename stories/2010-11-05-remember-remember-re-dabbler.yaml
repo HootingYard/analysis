@@ -1,19 +1,10 @@
 ngrams:
-- - agent
-  - rastus
-  - blot
-- - agent
-  - rastus
-  - blot
 - - starring
   - role
   - carrying
-- - special
-  - agent
-  - rastus
-- - special
-  - agent
-  - rastus
+- - children's
+  - song
+  - appropriate
 - - entitled
   - special
   - agent
@@ -26,18 +17,48 @@ ngrams:
 - - remember
   - re
   - dabbler
-- - special
-  - agent
-  - himself
 - - remember
   - remember
   - re
+- - special
+  - agent
+  - himself
 - - songs
   - anywhere
   - ever
+- - last
+  - century
+  - entitled
 - - these
   - songs
   - anywhere
+- - anywhere
+  - ever
+  - quite
+- - ever
+  - quite
+  - frankly
+- - heard
+  - singing
+  - any
+- - peasant
+  - other
+  - stories
+- - other
+  - stories
+  - instead
+- - been
+  - heard
+  - singing
+- - carrying
+  - out
+  - deeds
+- - role
+  - carrying
+  - out
+- - did
+  - some
+  - research
 story:
   date: 2010-11-05
   id: 2010-11-05-remember-remember-re-dabbler
@@ -59,4 +80,4 @@ story:
     would give Special Agent Rastus Blot''s farrago of nonsense a wide berth and buy
     Impugned By A Peasant & Other Stories instead.'
   title: Remember, Remember, Re Dabbler
-word_count: 165
+word_count: 161

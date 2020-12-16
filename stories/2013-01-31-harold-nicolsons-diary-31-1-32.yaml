@@ -11,9 +11,9 @@ ngrams:
 - - finance
   - vita
   - keeps
-- - diary
-  - harold
-  - nicolson
+- - life's
+  - dissonance
+  - struck
 - - pounds
   - feel
   - ashamed
@@ -23,9 +23,6 @@ ngrams:
 - - books
   - sadly
   - weigh
-- - insulting
-  - press-cuttings
-  - life
 - - sadly
   - weigh
   - myself
@@ -44,6 +41,36 @@ ngrams:
 - - very
   - glum
   - discuss
+- - god
+  - very
+  - glum
+- - decent
+  - jobs
+  - do
+- - pay
+  - come
+  - back
+- - these
+  - two
+  - theories
+- - represents
+  - only
+  - two
+- - only
+  - two
+  - months
+- - between
+  - these
+  - two
+- - all
+  - vita
+  - thinks
+- - theories
+  - causes
+  - me
+- - respect
+  - surely
+  - there
 story:
   date: 2013-01-31
   id: 2013-01-31-harold-nicolsons-diary-31-1-32
@@ -62,4 +89,4 @@ story:
     \ Vita thinks I should make \xA32,000 by writing a novel. I don't. The discrepancy\
     \ between these two theories causes me some distress of mind."
   title: Harold Nicolson's Diary 31.1.32
-word_count: 202
+word_count: 198

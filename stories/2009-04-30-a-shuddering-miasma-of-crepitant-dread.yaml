@@ -1,49 +1,121 @@
 ngrams:
-- - rat-men
-  - octopus-bats
-  - eldritch
-- - plus
-  - rat-men
-  - octopus-bats
-- - hal
-  - k
-  - wells
-- - hal
-  - k
-  - wells
-- - crepitant
-  - dread
-  - listeners
-- - pool
-  - dorothy
-  - answered
 - - pool
   - demanded
   - kent
+- - pool
+  - dorothy
+  - answered
 - - tinkling
   - devil
   - crystals
 - - guy
   - davenport
   - suggested
-- - pulp
-  - writer
-  - hal
-- - brother
-  - raoul
-  - gets
-- - thin
+- - carlin's
+  - thin
   - lips
-  - writhed
-- - writer
-  - hal
-  - k
-- - fors
-  - clavigera
-  - letters
 - - shudder
   - excellent
   - advice
+- - advice
+  - you'll
+  - agree
+- - terror
+  - carlin's
+  - thin
+- - excellent
+  - advice
+  - you'll
+- - via
+  - odd
+  - ends
+- - h
+  - p
+  - lovecraft
+- - pool
+  - dorothy
+  - lane
+- - report
+  - via
+  - odd
+- - young
+  - larry
+  - faces
+- - low
+  - voice
+  - trembling
+- - dorothy
+  - lane
+  - cried
+- - lane
+  - cried
+  - aloud
+- - sun
+  - newspaper
+  - 'yes'
+- - work
+  - guy
+  - davenport
+- - minds
+  - should
+  - combine
+- - tortured
+  - minds
+  - should
+- - story
+  - black
+  - pool
+- - sun
+  - once
+  - commanded
+- - another
+  - wells
+  - story
+- - many
+  - tortured
+  - minds
+- - readers
+  - go
+  - thee
+- - available
+  - online
+  - here
+- - carlin
+  - doing
+  - here
+- - doing
+  - here
+  - anyway
+- - dorothy
+  - answered
+  - her
+- - its
+  - magnificent
+  - eccentricity
+- - answered
+  - her
+  - low
+- - her
+  - low
+  - voice
+- - commanded
+  - its
+  - readers
+- - once
+  - commanded
+  - its
+- - snarling
+  - smile
+  - who
+- - wells
+  - story
+  - has
+- - its
+  - readers
+  - go
+- - were
+  - flaming
+  - pools
 story:
   date: 2009-04-30
   id: 2009-04-30-a-shuddering-miasma-of-crepitant-dread
@@ -72,4 +144,4 @@ story:
     \ advice, you'll agree, and I would like to echo it by recommending you do the\
     \ same with Hal K Wells. A few more of his tales are available online here.\n\_"
   title: A Shuddering Miasma Of Crepitant Dread
-word_count: 325
+word_count: 319

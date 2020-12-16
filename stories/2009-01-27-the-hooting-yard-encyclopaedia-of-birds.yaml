@@ -1,22 +1,10 @@
 ngrams:
-- - lanius
-  - excubitor
-  - translates
-- - shrike
-  - lanius
-  - excubitor
 - - birdy
   - scholarship
   - destined
 - - grey
   - shrike
   - lanius
-- - butcher
-  - sentinel
-  - whenever
-- - butcher
-  - sentinel
-  - singing
 - - contemporary
   - ornithology
   - apart
@@ -32,9 +20,39 @@ ngrams:
 - - pretty
   - little
   - hut
-- - avianists
-  - don
-  - t
+- - oh
+  - look
+  - said
+- - said
+  - dobson
+  - taking
+- - singing
+  - its
+  - little
+- - 'no'
+  - apparent
+  - purpose
+- - its
+  - little
+  - heart
+- - even
+  - know
+  - exist
+- - look
+  - said
+  - dobson
+- - know
+  - exist
+  - such
+- - don't
+  - even
+  - know
+- - include
+  - stuff
+  - about
+- - stuff
+  - about
+  - dozens
 story:
   date: 2009-01-27
   id: 2009-01-27-the-hooting-yard-encyclopaedia-of-birds
@@ -50,4 +68,4 @@ story:
     \ a plank to no apparent purpose, \u201CThere is a butcher sentinel singing its\
     \ little heart out atop that wooden pale.\u201D"
   title: The Hooting Yard Encyclopaedia Of Birds
-word_count: 146
+word_count: 145

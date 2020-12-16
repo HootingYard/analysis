@@ -1,16 +1,10 @@
 ngrams:
-- - escritoire
-  - scribbling
-  - twaddle
 - - debilitated
   - state
   - felled
 - - sawdust
   - bridge
   - eating
-- - few
-  - haiku
-  - distillations
 - - tiny
   - enid
   - flooring
@@ -23,12 +17,30 @@ ngrams:
 - - hooting
   - yard
   - haiku
-- - thousandish
-  - words
-  - upon
 - - might
   - just
   - manage
+- - then
+  - writers
+  - must
+- - read
+  - then
+  - writers
+- - upon
+  - any
+  - subject
+- - words
+  - upon
+  - any
+- - hand
+  - if
+  - readers
+- - quite
+  - beyond
+  - me
+- - pore
+  - over
+  - there
 story:
   date: 2012-12-13
   id: 2012-12-13-hooting-yard-haiku
@@ -42,4 +54,4 @@ story:
     \  And kicking his head in\nThere are four for you to pore over. There may be\
     \ more to come. Now for the Lemsip!"
   title: Hooting Yard Haiku
-word_count: 120
+word_count: 119

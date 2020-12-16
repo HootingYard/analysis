@@ -2,15 +2,6 @@ ngrams:
 - - sexually
   - frustrated
   - nuns
-- - comic
-  - boo
-  - boo
-- - favourite
-  - comic
-  - boo
-- - hooba
-  - nooba
-  - turned
 - - particular
   - narrow
   - topic
@@ -26,24 +17,60 @@ ngrams:
 - - entirely
   - grey
   - hair
-- - black
-  - hair
-  - leafing
 - - glossy
   - magazine
   - called
+- - black
+  - hair
+  - leafing
 - - almost
   - entirely
   - grey
-- - seeking
-  - tiny
-  - enid
 - - magazine
   - called
   - black
 - - ephemera
   - r
   - us
+- - called
+  - black
+  - hair
+- - hair
+  - leafing
+  - through
+- - black
+  - hair
+  - being
+- - periodicals
+  - other
+  - ephemera
+- - other
+  - ephemera
+  - r
+- - other
+  - similar
+  - photographs
+- - adjacent
+  - titles
+  - which
+- - titles
+  - which
+  - included
+- - pudding
+  - which
+  - seemed
+- - which
+  - included
+  - black
+- - black
+  - pudding
+  - which
+- - then
+  - neither
+  - were
+- - neither
+  - were
+  - some
 story:
   date: 2009-07-31
   id: 2009-07-31-black
@@ -62,4 +89,4 @@ story:
     turned on my heel, and headed on up the hill towards a clump of aspens, where\
     \ I sat down and lit a cigarette and looked at aspens, in a clump."
   title: Black
-word_count: 200
+word_count: 198

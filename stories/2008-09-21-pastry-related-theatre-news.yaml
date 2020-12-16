@@ -1,7 +1,4 @@
 ngrams:
-- - knockabout
-  - tragicomic
-  - melodrama
 - - wrenching
   - theatre
   - troupe
@@ -14,6 +11,15 @@ ngrams:
 - - theatre
   - troupe
   - currently
+- - spinney
+  - emotionally
+  - wrenching
+- - compellingly
+  - vapid
+  - scene
+- - play
+  - oh
+  - lord
 story:
   date: 2008-09-21
   id: 2008-09-21-pastry-related-theatre-news
@@ -24,4 +30,4 @@ story:
     \ been revived by the Bodger's Spinney Emotionally Wrenching Theatre Troupe, currently\
     \ performing a sixteen-hour version on the pier at Pointy Town."
   title: Pastry-Related Theatre News
-word_count: 63
+word_count: 61

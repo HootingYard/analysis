@@ -8,15 +8,27 @@ ngrams:
 - - headline
   - goblins
   - attacks
-- - officer
-  - david
-  - icke
 - - investigating
   - officer
   - david
 - - wear
   - shoes
   - sounds
+- - goblins
+  - attacks
+  - family
+- - attacks
+  - family
+  - burn
+- - creatures
+  - wearing
+  - sunglasses
+- - types
+  - these
+  - ones
+- - burn
+  - down
+  - homestead
 story:
   date: 2012-05-24
   id: 2012-05-24-goblins-in-the-news

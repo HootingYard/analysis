@@ -1,7 +1,4 @@
 ngrams:
-- - neo-paganism
-  - established
-  - religion
 - - feeble
   - beginner
   - attempts
@@ -20,9 +17,6 @@ ngrams:
 - - tv
   - films
   - philosophy
-- - modern
-  - neo-paganism
-  - established
 - - established
   - religion
   - food
@@ -32,9 +26,6 @@ ngrams:
 - - religion
   - food
   - animals
-- - matters
-  - bloggy
-  - recently
 - - music
   - pub
   - quizzes
@@ -44,6 +35,87 @@ ngrams:
 - - individual
   - voice
   - babbling
+- - outmoded
+  - form
+  - due
+- - astronomy
+  - history
+  - books
+- - books
+  - music
+  - pub
+- - het
+  - internet
+  - thus
+- - history
+  - books
+  - music
+- - brand
+  - new
+  - blog
+- - voice
+  - babbling
+  - away
+- - start
+  - here
+  - lap
+- - beloved
+  - mr
+  - key
+- - attention
+  - start
+  - here
+- - key
+  - long
+  - ago
+- - rather
+  - than
+  - muffled
+- - mr
+  - key
+  - long
+- - bash
+  - some
+  - sense
+- - read
+  - rather
+  - than
+- - been
+  - writing
+  - indefatigably
+- - any
+  - way
+  - rather
+- - post
+  - your
+  - comments
+- - friend
+  - who
+  - until
+- - your
+  - attention
+  - start
+- - shoving
+  - everything
+  - into
+- - blog
+  - will
+  - continue
+- - your
+  - beloved
+  - mr
+- - beckett
+  - would
+  - spell
+- - us
+  - were
+  - born
+- - until
+  - now
+  - has
+- - about
+  - such
+  - matters
 story:
   date: 2011-09-01
   id: 2011-09-01-matters-bloggy
@@ -72,4 +144,4 @@ story:
     \ drawer.\nI commend it to your attention. Start here, lap it up, add it to your\
     \ RSS feed, and don't forget to post your comments."
   title: Matters Bloggy
-word_count: 318
+word_count: 316

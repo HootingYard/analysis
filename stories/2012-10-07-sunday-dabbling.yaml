@@ -1,13 +1,19 @@
 ngrams:
-- - s-era
-  - scritti
-  - politti
-- - joanna
-  - newsome
-  - hie
-- - newsome
-  - hie
-  - thee
+- - lazy
+  - sunday
+  - afternoon
+- - sunday
+  - afternoon
+  - postage
+- - beefheart
+  - henry
+  - cow
+- - captain
+  - beefheart
+  - henry
+- - including
+  - captain
+  - beefheart
 story:
   date: 2012-10-07
   id: 2012-10-07-sunday-dabbling

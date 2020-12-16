@@ -1,19 +1,7 @@
 ngrams:
-- - supernaturally
-  - competent
-  - diy
-- - andy
-  - pandy
-  - outfit
 - - rampaging
   - grandchildren
   - zoom
-- - counties
-  - commuter
-  - villages
-- - boffin
-  - francis
-  - spufford
 - - morris
   - dancing
   - boffin
@@ -35,15 +23,96 @@ ngrams:
 - - months
   - inside
   - rampaging
+- - behind
+  - britain's
+  - nuclear
+- - brains
+  - behind
+  - britain's
 - - big
   - fat
   - bloke
-- - brains
-  - behind
-  - britain
+- - already
+  - gathered
+  - enough
+- - deep
+  - england
+  - another
+- - complex
+  - system
+  - until
+- - morris
+  - men
+  - came
+- - men
+  - came
+  - dancing
+- - bristol
+  - these
+  - morris
+- - system
+  - until
+  - it's
+- - old
+  - panama
+  - hat
+- - these
+  - morris
+  - men
+- - drove
+  - home
+  - every
+- - many
+  - months
+  - inside
+- - suburban
+  - pastoral
+  - than
+- - competent
+  - diy
+  - like
+- - until
+  - it's
+  - just
+- - less
+  - like
+  - dr
+- - looked
+  - less
+  - like
+- - him
+  - quiet
+  - satisfaction
+- - gave
+  - him
+  - quiet
 - - home
-  - counties
-  - commuter
+  - every
+  - day
+- - colleagues
+  - their
+  - houses
+- - been
+  - awaiting
+  - repairs
+- - them
+  - drove
+  - home
+- - grandchildren
+  - zoom
+  - about
+- - came
+  - dancing
+  - up
+- - innocent
+  - pleasure
+  - out
+- - some
+  - ways
+  - those
+- - those
+  - who
+  - survive
 story:
   date: 2007-03-03
   id: 2007-03-03-morris-dancing-boffin
@@ -71,4 +140,4 @@ story:
     \ wife, \u201CSweetheart, you won't believe me, but that man is one of the brains\
     \ behind Britain's nuclear defence.\u201D \u2018"
   title: Morris Dancing Boffin
-word_count: 315
+word_count: 310

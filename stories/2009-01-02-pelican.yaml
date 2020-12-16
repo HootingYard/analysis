@@ -1,25 +1,10 @@
 ngrams:
-- - fridays
-  - haddock
-  - plaice
-- - wriggling
-  - squirming
-  - sea-salt
 - - scooping
   - bills
   - gulping
-- - sea-salt
-  - smeared
-  - piscine
-- - squirming
-  - sea-salt
-  - smeared
 - - yummy
   - yummy
   - eels
-- - smeared
-  - piscine
-  - creature
 - - diet
   - consists
   - mostly
@@ -44,6 +29,153 @@ ngrams:
 - - nature
   - creatures
   - feeding
+- - human
+  - pelican
+  - missing
+- - table
+  - manners
+  - pa
+- - swallowing
+  - fish
+  - whole
+- - terrible
+  - table
+  - manners
+- - myself
+  - wading
+  - boots
+- - got
+  - myself
+  - wading
+- - those
+  - yummy
+  - yummy
+- - ever
+  - swallowed
+  - whole
+- - bills
+  - gulping
+  - down
+- - those
+  - huge
+  - scooping
+- - gulping
+  - down
+  - fish
+- - beast
+  - bigger
+  - than
+- - teeming
+  - thousands
+  - even
+- - beaver
+  - gnawing
+  - upon
+- - down
+  - fish
+  - small
+- - creatures
+  - feeding
+  - upon
+- - longer
+  - dependent
+  - upon
+- - never
+  - seen
+  - myself
+- - could
+  - imagine
+  - opening
+- - some
+  - beast
+  - bigger
+- - pelicans
+  - even
+  - though
+- - catholics
+  - who
+  - dutifully
+- - roman
+  - catholics
+  - who
+- - see
+  - those
+  - huge
+- - even
+  - got
+  - myself
+- - who
+  - dutifully
+  - stuck
+- - feeding
+  - upon
+  - each
+- - eel
+  - head
+  - first
+- - head
+  - first
+  - terrified
+- - eat
+  - them
+  - alive
+- - eat
+  - them
+  - whole
+- - been
+  - swimming
+  - innocently
+- - 'no'
+  - longer
+  - dependent
+- - their
+  - teeming
+  - thousands
+- - am
+  - ever
+  - swallowed
+- - imminent
+  - doom
+  - will
+- - seen
+  - were
+  - illustrations
+- - pa
+  - would
+  - nip
+- - manners
+  - pa
+  - would
+- - still
+  - alive
+  - into
+- - upon
+  - each
+  - other
+- - would
+  - indulge
+  - myself
+- - ever
+  - seen
+  - were
+- - an
+  - imminent
+  - doom
+- - felt
+  - an
+  - affinity
+- - bigger
+  - than
+  - me
+- - one
+  - whose
+  - stomach
+- - they
+  - did
+  - oh
+- - did
+  - oh
+  - they
 story:
   date: 2009-01-02
   id: 2009-01-02-pelican
@@ -80,4 +212,4 @@ story:
     with fish, a human pelican missing that mighty bill but otherwise just as ravenous,
     and just as elegant.
   title: Pelican
-word_count: 475
+word_count: 473

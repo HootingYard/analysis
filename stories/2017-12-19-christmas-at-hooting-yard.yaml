@@ -1,25 +1,13 @@
 ngrams:
-- - favourite
-  - impecunious
-  - scribbler
-- - daily
-  - potsages
-  - sic
-- - technology
-  - daily
-  - potsages
+- - year's
+  - eve
+  - eve
 - - possibly
   - alarming
   - significance
 - - advent
   - calendar
   - continue
-- - ten
-  - tarleton
-  - tales
-- - tock
-  - towards
-  - christmas
 - - recent
   - shows
   - taken
@@ -38,12 +26,66 @@ ngrams:
 - - lot
   - occupied
   - until
-- - hooting
-  - yard-shaped
-  - hole
+- - new
+  - year's
+  - eve
 - - towards
   - christmas
   - every
+- - christmas
+  - every
+  - morning
+- - very
+  - happy
+  - christmas
+- - our
+  - advent
+  - calendar
+- - until
+  - new
+  - year's
+- - fool
+  - until
+  - new
+- - foreign
+  - land
+  - where
+- - hooting
+  - yard
+  - tomorrow
+- - more
+  - recent
+  - shows
+- - reposts
+  - rather
+  - than
+- - than
+  - new
+  - stories
+- - appearing
+  - here
+  - even
+- - rather
+  - than
+  - new
+- - each
+  - day
+  - these
+- - significance
+  - when
+  - bundled
+- - alarming
+  - significance
+  - when
+- - when
+  - bundled
+  - together
+- - all
+  - surviving
+  - episodes
+- - nearly
+  - all
+  - surviving
 story:
   date: 2017-12-19
   id: 2017-12-19-christmas-at-hooting-yard
@@ -65,4 +107,4 @@ story:
     \ and chucking oodles of cash into Mr Key's Paypal coffers.\nA very happy Christmas\
     \ to you all, and may the Lord have mercy on your souls."
   title: Christmas At Hooting Yard
-word_count: 239
+word_count: 237

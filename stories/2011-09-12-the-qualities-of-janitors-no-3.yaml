@@ -2,12 +2,18 @@ ngrams:
 - - alchemical
   - janitor
   - drinks
-- - potable
-  - gold
-  - before
 - - gold
   - before
   - taking
+- - taking
+  - his
+  - pail
+- - before
+  - taking
+  - his
+- - drinks
+  - a
+  - pint
 story:
   date: 2011-09-12
   id: 2011-09-12-the-qualities-of-janitors-no-3

@@ -1,13 +1,4 @@
 ngrams:
-- - yo-yo
-  - tzipi
-  - bibi
-- - mick
-  - tich-style
-  - poptasticness
-- - politicians
-  - tzipi
-  - livni
 - - dee
   - dozy
   - beaky
@@ -17,21 +8,12 @@ ngrams:
 - - dee
   - dozy
   - beaky
-- - israeli
-  - politicians
-  - tzipi
-- - beaky
-  - mick
-  - tich-style
 - - beaky
   - mick
   - tich
 - - beaky
   - mick
   - tich
-- - footballer
-  - yaya
-  - tour
 - - dozy
   - beaky
   - mick
@@ -44,6 +26,75 @@ ngrams:
 - - dave
   - dee
   - dozy
+- - dave
+  - dee
+  - dozy
+- - dave
+  - dee
+  - dozy
+- - avant
+  - garde
+  - octogenarian
+- - combo
+  - dave
+  - dee
+- - timeless
+  - classic
+  - hits
+- - ivory
+  - coast
+  - footballer
+- - addendum
+  - dave
+  - dee
+- - beat
+  - combo
+  - dave
+- - sports
+  - stars
+  - politicians
+- - truth
+  - universally
+  - acknowledged
+- - asiatic
+  - woman
+  - yoko
+- - mere
+  - tribute
+  - band
+- - woman
+  - yoko
+  - ono
+- - s
+  - beat
+  - combo
+- - hands
+  - addendum
+  - dave
+- - mick
+  - tich
+  - known
+- - press
+  - release
+  - each
+- - pals
+  - graced
+  - these
+- - graced
+  - these
+  - pages
+- - rehearse
+  - such
+  - timeless
+- - such
+  - timeless
+  - classic
+- - these
+  - pages
+  - back
+- - beatle
+  - who
+  - married
 story:
   date: 2017-11-29
   id: 2017-11-29-tribute-band
@@ -69,4 +120,4 @@ story:
     \ his pals graced these pages back in October 2010, when they encountered a bricklaying\
     \ witch."
   title: Tribute Band
-word_count: 258
+word_count: 257

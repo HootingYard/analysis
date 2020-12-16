@@ -1,19 +1,10 @@
 ngrams:
-- - ticket-ordering
-  - linkage
-  - web-wizardry
-- - garfunkel
-  - crosse
-  - blackwell
 - - demolished
   - jellyfish
   - theatre
 - - bill
   - alongside
   - luminaries
-- - including
-  - ticket-ordering
-  - linkage
 - - luminaries
   - including
   - bob
@@ -29,6 +20,30 @@ ngrams:
 - - unbridled
   - enthusiasm
   - including
+- - explorer
+  - full
+  - details
+- - full
+  - details
+  - including
+- - lepke
+  - b
+  - those
+- - hushed
+  - tones
+  - now
+- - now
+  - demolished
+  - jellyfish
+- - still
+  - too
+  - stunned
+- - only
+  - ever
+  - collaboration
+- - witnessed
+  - our
+  - only
 story:
   date: 2012-04-16
   id: 2012-04-16-a-date-for-your-diary
@@ -43,4 +58,4 @@ story:
     \ and throw your hats in the air, and other such expressions of unbridled enthusiasm,\
     \ including swooning with overexcitement."
   title: A Date For Your Diary
-word_count: 124
+word_count: 123

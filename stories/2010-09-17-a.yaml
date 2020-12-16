@@ -1,49 +1,118 @@
 ngrams:
-- - addison
-  - aurelius
-  - augustus
-- - aurelius
-  - augustus
-  - almeda
-- - maria
-  - addison
-  - aurelius
-- - abigail
-  - amelia
-  - ann
-- - amelia
-  - ann
-  - maria
 - - ann
   - maria
   - addison
-- - marcus
-  - aurelius
-  - bierce
-- - creek
-  - meigs
-  - county
-- - comity
-  - striding
-  - purposefully
-- - meigs
-  - county
-  - ohio
 - - laura
   - sherwood
   - bierce
-- - augustus
-  - almeda
-  - andrew
 - - commingles
   - saintly
   - patience
-- - almeda
-  - andrew
-  - albert
 - - andrew
   - albert
   - ambrose
+- - albert
+  - ambrose
+  - arthur
+- - wife
+  - laura
+  - sherwood
+- - inordinate
+  - mental
+  - suffering
+- - somehow
+  - commingles
+  - saintly
+- - horse
+  - cave
+  - creek
+- - striding
+  - purposefully
+  - towards
+- - youngest
+  - three
+  - survived
+- - anyway
+  - let
+  - bygones
+- - both
+  - ends
+  - putting
+- - given
+  - names
+  - began
+- - whose
+  - given
+  - names
+- - beaver
+  - away
+  - burning
+- - readers
+  - should
+  - register
+- - us
+  - move
+  - forward
+- - devoted
+  - readers
+  - should
+- - bygones
+  - let
+  - us
+- - many
+  - moons
+  - ago
+- - let
+  - us
+  - move
+- - brief
+  - postage
+  - where
+- - hooting
+  - yard
+  - website
+- - names
+  - began
+  - like
+- - should
+  - register
+  - such
+- - am
+  - seeking
+  - wait
+- - ends
+  - putting
+  - their
+- - putting
+  - their
+  - own
+- - hold
+  - if
+  - necessary
+- - names
+  - were
+  - six
+- - their
+  - own
+  - lives
+- - moons
+  - ago
+  - when
+- - caused
+  - me
+  - anyway
+- - fathomless
+  - disappointment
+  - there
+- - see
+  - what
+  - trouble
+- - if
+  - necessary
+  - until
+- - expressive
+  - sigh
+  - which
 story:
   date: 2010-09-17
   id: 2010-09-17-a
@@ -71,4 +140,4 @@ story:
     \ Ambrose, Arthur, and the twins Adelia and Aurelia. Unusually for those days,\
     \ all but the youngest three survived to adulthood (which also begins with A)."
   title: A
-word_count: 312
+word_count: 311

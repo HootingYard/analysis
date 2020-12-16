@@ -1,7 +1,4 @@
 ngrams:
-- - portrait
-  - gallery
-  - fabiola
 - - artist
   - francis
   - al
@@ -14,15 +11,30 @@ ngrams:
 - - mostly
   - amateur
   - portraits
-- - saint
-  - fabiola
-  - collected
 - - official
   - gallery
   - page
+- - francis
+  - al
+  - s
 - - th
   - century
   - painting
+- - lost
+  - th
+  - century
+- - look
+  - almost
+  - identical
+- - now
+  - lost
+  - th
+- - new
+  - york
+  - here
+- - al
+  - s
+  - they
 story:
   date: 2009-05-04
   id: 2009-05-04-fabiola
@@ -35,4 +47,4 @@ story:
     \ The official gallery page is here, and there is a photograph of an earlier showing\
     \ in New York here.\_\n"
   title: Fabiola
-word_count: 101
+word_count: 100

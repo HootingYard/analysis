@@ -1,11 +1,17 @@
 ngrams:
+- - perdition
+  - i'll
+  - sell
+- - swans
+  - they're
+  - still
 - - find
   - seven
   - swans
 - - eat
   - other
   - fruit
-- - ll
+- - i'll
   - sell
   - 'no'
 - - sell
@@ -14,15 +20,6 @@ ngrams:
 - - 'no'
   - further
   - plums
-- - will
-  - stay
-  - til
-- - swans
-  - they
-  - re
-- - they
-  - re
-  - still
 - - head
   - they
   - honked
@@ -32,6 +29,27 @@ ngrams:
 - - repeated
   - this
   - every
+- - another
+  - plum
+  - but
+- - they
+  - will
+  - stay
+- - this
+  - every
+  - day
+- - my
+  - savaged
+  - condition
+- - pillow
+  - beside
+  - my
+- - where
+  - they
+  - will
+- - saw
+  - my
+  - savaged
 story:
   date: 2017-01-27
   id: 2017-01-27-plums-and-swans
@@ -45,4 +63,4 @@ story:
     \ other fruit, and non-fruit-based snacks to boot. As for the swans, they're still\
     \ in my room, where they will stay 'til I go to my tomb."
   title: Plums And Swans
-word_count: 141
+word_count: 139

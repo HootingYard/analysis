@@ -1,13 +1,19 @@
 ngrams:
+- - disturb
+  - men's
+  - reasoning
+- - men's
+  - reasoning
+  - powers
 - - reasoning
   - powers
   - prime
 - - powers
   - prime
   - minister
-- - minister
+- - prime
+  - minister
   - lord
-  - salisbury
 story:
   date: 2018-07-13
   id: 2018-07-13-a-warning-to-cartographers
@@ -15,4 +21,4 @@ story:
     \ powers.\u201D\nPrime Minister Lord Salisbury in 1890, quoted in Empire by Niall\
     \ Ferguson (2003)"
   title: A Warning To Cartographers
-word_count: 31
+word_count: 30

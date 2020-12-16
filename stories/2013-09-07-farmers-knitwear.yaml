@@ -2,9 +2,6 @@ ngrams:
 - - knitwear
   - farmers
   - knitwear
-- - nice
-  - reviving
-  - cuppa
 - - farmers
   - knitwear
   - farmers
@@ -17,6 +14,9 @@ ngrams:
 - - rakish
   - angle
   - knowing
+- - farmer's
+  - chair
+  - drinking
 - - niddy
   - noddy
   - stood
@@ -29,21 +29,228 @@ ngrams:
 - - straight
   - vertical
   - line
+- - farmer's
+  - woolly
+  - hat
 - - woolly
   - hat
   - hanging
+- - farmer's
+  - body
+  - lay
 - - complete
   - strangers
   - lost
-- - distance
-  - silhouetted
-  - against
 - - big
   - florid
   - fellow
+- - distance
+  - silhouetted
+  - against
 - - spade
   - leaning
   - against
+- - certain
+  - hesitancy
+  - it's
+- - mere
+  - seconds
+  - later
+- - seconds
+  - later
+  - because
+- - doorway
+  - stepping
+  - over
+- - vertical
+  - line
+  - down
+- - less
+  - florid
+  - head
+- - big
+  - florid
+  - head
+- - open
+  - doorway
+  - where
+- - can
+  - move
+  - jolly
+- - wool
+  - see
+  - how
+- - expressed
+  - far
+  - more
+- - florid
+  - head
+  - than
+- - far
+  - more
+  - interest
+- - angle
+  - knowing
+  - what
+- - about
+  - farmers
+  - knitwear
+- - mistaken
+  - about
+  - farmers
+- - about
+  - farmers
+  - hats
+- - completely
+  - mistaken
+  - about
+- - jolly
+  - fast
+  - when
+- - suddenly
+  - talking
+  - about
+- - cardigan
+  - front
+  - when
+- - knew
+  - about
+  - farmers
+- - said
+  - see
+  - how
+- - little
+  - behind
+  - him
+- - all
+  - farmers
+  - wore
+- - more
+  - than
+  - happy
+- - stepping
+  - over
+  - him
+- - wore
+  - hats
+  - all
+- - hesitancy
+  - it's
+  - all
+- - mumbled
+  - something
+  - about
+- - talking
+  - about
+  - birds
+- - something
+  - about
+  - linnets
+- - stay
+  - there
+  - eating
+- - ask
+  - him
+  - where
+- - buttons
+  - are
+  - fastened
+- - could
+  - ask
+  - him
+- - we
+  - trudged
+  - across
+- - think
+  - all
+  - farmers
+- - while
+  - we
+  - trudged
+- - plan
+  - while
+  - we
+- - corrected
+  - me
+  - after
+- - now
+  - knew
+  - about
+- - might
+  - stay
+  - there
+- - find
+  - out
+  - where
+- - thought
+  - had
+  - sparked
+- - sun
+  - had
+  - set
+- - cardigan
+  - knitted
+  - from
+- - chair
+  - drinking
+  - from
+- - weeks
+  - or
+  - months
+- - knitted
+  - from
+  - wool
+- - woolly
+  - hat
+  - from
+- - hat
+  - hanging
+  - from
+- - would
+  - 'no'
+  - longer
+- - 'no'
+  - idea
+  - they
+- - couldn't
+  - be
+  - completely
+- - they
+  - were
+  - knit
+- - be
+  - completely
+  - mistaken
+- - socks
+  - they
+  - were
+- - cardigan
+  - when
+  - we
+- - told
+  - me
+  - about
+- - know
+  - this
+  - because
+- - must
+  - have
+  - betrayed
+- - longer
+  - be
+  - lost
+- - idea
+  - they
+  - were
+- - from
+  - wool
+  - see
+- - when
+  - we
+  - got
+- - were
+  - so
+  - interested
 story:
   date: 2013-09-07
   id: 2013-09-07-farmers-knitwear
@@ -93,4 +300,4 @@ story:
     \ where the farmer's body lay, I could hear the distant bellowing of his cows\
     \ in the black and starless night."
   title: "Farmers\u2019 Knitwear"
-word_count: 680
+word_count: 673

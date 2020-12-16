@@ -1,34 +1,10 @@
 ngrams:
-- - armando
-  - del
-  - foppo
-- - pockmarled
-  - moustachioed
-  - georgian
-- - josef
-  - vissarionovich
-  - djugashvili
 - - georgian
   - famously
   - renamed
-- - moustachioed
-  - georgian
-  - famously
-- - stylish
-  - armando
-  - del
-- - unexpectedly
-  - stylish
-  - armando
-- - decidedly
-  - non-rakish
-  - angle
 - - wig
   - dentures
   - walking
-- - del
-  - foppo
-  - boots
 - - dentures
   - walking
   - stick
@@ -44,6 +20,105 @@ ngrams:
 - - invariably
   - die
   - within
+- - famously
+  - renamed
+  - himself
+- - renamed
+  - himself
+  - stalin
+- - steel
+  - nor
+  - iron
+- - neither
+  - steel
+  - nor
+- - milk
+  - slops
+  - once
+- - pointy
+  - town
+  - moonlight
+- - say
+  - wig
+  - dentures
+- - old
+  - ma
+  - popsicle
+- - old
+  - ma
+  - popsicle
+- - moonlight
+  - old
+  - ma
+- - commission
+  - old
+  - ma
+- - old
+  - men
+  - invariably
+- - old
+  - man's
+  - hat
+- - town
+  - moonlight
+  - old
+- - then
+  - contradicted
+  - myself
+- - old
+  - man
+  - because
+- - far
+  - too
+  - much
+- - know
+  - far
+  - too
+- - own
+  - head
+  - just
+- - know
+  - exactly
+  - what
+- - too
+  - much
+  - about
+- - about
+  - her
+  - past
+- - am
+  - talking
+  - about
+- - much
+  - about
+  - her
+- - about
+  - their
+  - person
+- - gruel
+  - or
+  - milk
+- - or
+  - milk
+  - slops
+- - or
+  - say
+  - wig
+- - boots
+  - or
+  - say
+- - have
+  - abducted
+  - 'off'
+- - contradicted
+  - myself
+  - by
+- - hat
+  - unless
+  - you
+- - myself
+  - by
+  - saying
 story:
   date: 2014-07-22
   id: 2014-07-22-dustman
@@ -71,4 +146,4 @@ story:
     \ is sworn to silence. I know far too much about her past for her to blab to the\
     \ coppers."
   title: Dustman
-word_count: 334
+word_count: 327

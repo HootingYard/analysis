@@ -1,25 +1,10 @@
 ngrams:
-- - mangodhood
-  - jesus
-  - asserted
-- - mayan
-  - bat-god
-  - eerily
 - - community
   - education
   - hubs
 - - sweet
   - baby
   - jesus
-- - hideous
-  - bat-god
-  - fatso
-- - bat-god
-  - eerily
-  - similar
-- - advent
-  - calendar
-  - hoo-ha
 - - advent
   - calendar
   - v
@@ -29,6 +14,36 @@ ngrams:
 - - jesus
   - later
   - grown
+- - education
+  - hubs
+  - these
+- - yard
+  - advent
+  - calendar
+- - hubs
+  - these
+  - days
+- - days
+  - here
+  - courtesy
+- - hooting
+  - yard
+  - inspired
+- - hooting
+  - yard
+  - advent
+- - their
+  - community
+  - education
+- - these
+  - days
+  - here
+- - inculcate
+  - into
+  - tinies
+- - what
+  - we're
+  - going
 story:
   date: 2011-12-05
   id: 2011-12-05-hooting-yard-advent-calendar-v
@@ -42,4 +57,4 @@ story:
     \ hubs these days.\nHere, courtesy of Bushwick Policy, is a Mayan bat-god, eerily\
     \ similar to the hideous bat-god Fatso.\n"
   title: Hooting Yard Advent Calendar (v)
-word_count: 125
+word_count: 123

@@ -2,9 +2,9 @@ ngrams:
 - - lovely
   - cuddly
   - character
-- - character
-  - john
-  - lydon
+- - suppose
+  - it's
+  - fortuitous
 - - cuddly
   - character
   - john
@@ -14,6 +14,15 @@ ngrams:
 - - phrase
   - our
   - nhs
+- - far
+  - more
+  - vituperative
+- - good
+  - moan
+  - about
+- - been
+  - far
+  - more
 story:
   date: 2015-04-24
   id: 2015-04-24-our-nhs-mum
@@ -23,4 +32,4 @@ story:
     \ but the editor chose to illustrate it with a photograph of that lovely cuddly\
     \ character John Lydon, so I suppose it's fortuitous that I toned down my invective."
   title: Our NHS Mum
-word_count: 71
+word_count: 70

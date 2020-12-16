@@ -1,13 +1,19 @@
 ngrams:
-- - dread
-  - martin
-  - amis
-- - martin
-  - amis
-  - tells
+- - hitler's
+  - father
+  - somehow
 - - tells
   - us
-  - hitler
+  - hitler's
+- - us
+  - hitler's
+  - father
+- - somehow
+  - very
+  - appropriately
+- - father
+  - somehow
+  - very
 story:
   date: 2009-12-19
   id: 2009-12-19-a-bee-fact
@@ -15,4 +21,4 @@ story:
     \ father (somehow very appropriately) was more and more obsessed, as he grew older,\
     \ by bee-keeping.\u201D"
   title: A Bee Fact
-word_count: 33
+word_count: 31

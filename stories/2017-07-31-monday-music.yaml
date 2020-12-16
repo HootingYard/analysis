@@ -2,12 +2,18 @@ ngrams:
 - - series
   - every
   - week
-- - new
-  - series
-  - every
 - - week
   - mr
   - key
+- - new
+  - series
+  - every
+- - every
+  - week
+  - mr
+- - key
+  - will
+  - select
 story:
   date: 2017-07-31
   id: 2017-07-31-monday-music

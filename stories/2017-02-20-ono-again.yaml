@@ -1,28 +1,40 @@
 ngrams:
-- - chirpy
-  - cockney
-  - knees-up
-- - three-hour
-  - chirpy
-  - cockney
-- - cockney
-  - knees-up
-  - musical
+- - ms
+  - ono's
+  - birthday
 - - rousing
   - final
   - chorus
-- - knees-up
-  - musical
-  - based
 - - edification
   - frank
   - inspired
-- - multi-millionaire
-  - heroes
+- - heroes
   - entitled
-- - grade
-  - -listed
-  - house
+  - john
+- - entitled
+  - john
+  - yoko
+- - musical
+  - based
+  - upon
+- - your
+  - edification
+  - frank
+- - ono's
+  - birthday
+  - so
+- - 'yes'
+  - imagine
+  - we
+- - by
+  - max
+  - d
+- - posted
+  - by
+  - max
+- - frank
+  - inspired
+  - by
 story:
   date: 2017-02-20
   id: 2017-02-20-ono-again
@@ -34,4 +46,4 @@ story:
     \ cast and audience bring the Grade 2-listed house down with a rousing final chorus\
     \ of \u201CYes! Imagine We Have No Bananas, I Wonder If You Can?\u201D\n"
   title: Ono Again
-word_count: 97
+word_count: 96

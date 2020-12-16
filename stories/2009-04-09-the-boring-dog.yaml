@@ -2,12 +2,9 @@ ngrams:
 - - international
   - shipping
   - protocols
-- - neighbours
-  - crackers
-  - bored
-- - dog-related
-  - content
-  - whatsoever
+- - advice
+  - person's
+  - coffee
 - - waving
   - pitchforks
   - bent
@@ -17,6 +14,9 @@ ngrams:
 - - derelict
   - railway
   - lines
+- - person's
+  - coffee
+  - table
 - - house
   - waving
   - pitchforks
@@ -29,6 +29,9 @@ ngrams:
 - - dog
   - biscuit
   - drooling
+- - dog
+  - advice
+  - person's
 - - coffee
   - table
   - none
@@ -41,9 +44,126 @@ ngrams:
 - - rug
   - without
   - complaint
-- - fierce
-  - self-loathing
-  - because
+- - neither
+  - amused
+  - nor
+- - dog
+  - nobody
+  - heard
+- - dog
+  - advice
+  - person
+- - dog
+  - advice
+  - person
+- - dog
+  - advice
+  - person
+- - dog
+  - advice
+  - person
+- - analysis
+  - kit
+  - while
+- - boring
+  - dog
+  - once
+- - fetch
+  - back
+  - indoors
+- - moon
+  - every
+  - night
+- - mopped
+  - its
+  - drool
+- - its
+  - unearthly
+  - howling
+- - its
+  - unearthly
+  - howling
+- - began
+  - its
+  - unearthly
+- - bored
+  - him
+  - senseless
+- - am
+  - neither
+  - amused
+- - crackers
+  - bored
+  - him
+- - man
+  - leafed
+  - through
+- - dog
+  - began
+  - its
+- - said
+  - packing
+  - away
+- - dog
+  - bored
+  - him
+- - dog
+  - once
+  - upon
+- - said
+  - ah
+  - said
+- - about
+  - international
+  - shipping
+- - articles
+  - about
+  - international
+- - even
+  - its
+  - unearthly
+- - senseless
+  - even
+  - its
+- - drooled
+  - when
+  - chewing
+- - up
+  - until
+  - sunrise
+- - can
+  - say
+  - beyond
+- - kept
+  - up
+  - until
+- - him
+  - senseless
+  - even
+- - content
+  - whatsoever
+  - there
+- - so
+  - mentally
+  - absorbed
+- - slept
+  - so
+  - deeply
+- - became
+  - so
+  - mentally
+- - bored
+  - him
+  - when
+- - man
+  - became
+  - so
+- - advice
+  - person
+  - had
+- - wake
+  - up
+  - when
 story:
   date: 2009-04-09
   id: 2009-04-09-the-boring-dog
@@ -79,4 +199,4 @@ story:
     \ He slept so deeply that he did not wake up when the neighbours gathered in the\
     \ moonlight in a ring around his house, waving pitchforks, bent on dog death."
   title: The Boring Dog
-word_count: 447
+word_count: 445

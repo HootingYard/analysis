@@ -1,13 +1,19 @@
 ngrams:
-- - alcohol
+- - steel
+  - box
+  - filled
+- - somebody
+  - else
+  - arthur
+- - africa
+  - by
+  - charles
+- - with
+  - alcohol
   - pierre
-  - bardey
-- - bardey
-  - november
-  - quoted
-- - alfred
-  - bardey
-  - november
+- - filled
+  - with
+  - alcohol
 story:
   date: 2012-05-11
   id: 2012-05-11-a-sentence-to-remember
@@ -15,4 +21,4 @@ story:
     \ Bardey to Alfred Bardey, 30 November 1882, quoted in Somebody Else\_: Arthur\
     \ Rimbaud In Africa 1880\u201391 by Charles Nicholl (1997)"
   title: A Sentence To Remember
-word_count: 36
+word_count: 35

@@ -8,6 +8,9 @@ ngrams:
 - - folk
   - song
   - translated
+- - bitter
+  - winter's
+  - night
 - - old
   - latvian
   - folk
@@ -17,6 +20,12 @@ ngrams:
 - - golden
   - hair
   - she
+- - crow
+  - has
+  - flown
+- - has
+  - golden
+  - hair
 story:
   date: 2017-12-18
   id: 2017-12-18-translated-from-memory
@@ -39,4 +48,4 @@ story:
 
     And the ducks have left the lake'
   title: Translated From Memory
-word_count: 79
+word_count: 77

@@ -1,22 +1,31 @@
 ngrams:
-- - phoned
-  - paulette
-  - goddard
+- - ransom
+  - demand
+  - we've
 - - ackroyd
   - notes
   - chaplin
 - - gold
   - rush
   - hoping
+- - ackroyd
+  - doesn't
+  - mention
 - - peter
   - ackroyd
   - notes
 - - notes
   - chaplin
   - died
-- - ve
+- - we've
   - got
   - chaplin
+- - demand
+  - we've
+  - got
+- - day
+  - ackroyd
+  - doesn't
 story:
   date: 2014-04-12
   id: 2014-04-12-so-what
@@ -27,4 +36,4 @@ story:
     \ they could make a ransom demand. \u201CWe've got Chaplin,\u201D they announced.\
     \ \u201CSo what?\u201D she said, slamming down the phone."
   title: So What?
-word_count: 75
+word_count: 72

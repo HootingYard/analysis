@@ -1,13 +1,19 @@
 ngrams:
-- - higgs
-  - key
-  - boson
 - - thrilling
   - tale
   - sure
-- - poor
-  - pea-sized
-  - brain
+- - key
+  - boson
+  - it's
+- - tale
+  - sure
+  - enough
+- - boson
+  - so
+  - empty
+- - dabbler
+  - boson
+  - so
 story:
   date: 2012-07-07
   id: 2012-07-07-dabbler-boson
@@ -17,4 +23,4 @@ story:
     piece in my cupboard at The Dabbler, wherein I tell of the world-shattering discovery
     by boffins of the Higgs Key boson. It''s a thrilling tale sure enough.'
   title: Dabbler Boson
-word_count: 46
+word_count: 44

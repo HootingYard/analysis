@@ -1,7 +1,4 @@
 ngrams:
-- - majestically-named
-  - irresponsible
-  - shepherding
 - - irresponsible
   - shepherding
   - task
@@ -26,6 +23,24 @@ ngrams:
 - - irresponsible
   - shepherds
   - thus
+- - several
+  - country
+  - persons
+- - irresponsible
+  - shepherds
+  - who
+- - neurasthenic
+  - creatures
+  - who
+- - creatures
+  - who
+  - spend
+- - enormities
+  - allow
+  - their
+- - allow
+  - their
+  - sheep
 story:
   date: 2016-08-05
   id: 2016-08-05-irresponsible-shepherds
@@ -40,4 +55,4 @@ story:
     \ as has been observed by several country persons, a sheep's ambition in life\
     \ is to die."
   title: Irresponsible Shepherds
-word_count: 118
+word_count: 117

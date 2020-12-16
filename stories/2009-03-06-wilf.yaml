@@ -1,13 +1,10 @@
 ngrams:
-- - super
-  - whizzo
-  - wheelchair
+- - kant's
+  - cerebral
+  - magnificence
 - - cerebral
   - magnificence
   - imbued
-- - self
-  - wilf
-  - amis
 - - wilf
   - self
   - wilf
@@ -29,21 +26,186 @@ ngrams:
 - - risking
   - lead
   - poisoning
-- - lead
-  - poisoning
-  - beflummoxed
 - - roger
   - bacon
   - c
 - - memorial
   - essay
   - contest
-- - ma
-  - wilfette
-  - purgative
 - - c
   - doctor
   - mirabilis
+- - frack
+  - memorial
+  - essay
+- - bacon
+  - c
+  - doctor
+- - farmer
+  - wilf
+  - frack
+- - farmer
+  - frack
+  - memorial
+- - writes
+  - tim
+  - thurn
+- - pencil
+  - risking
+  - lead
+- - wilf
+  - dear
+  - frank
+- - frank
+  - writes
+  - tim
+- - dear
+  - frank
+  - writes
+- - information
+  - stored
+  - within
+- - confirm
+  - nor
+  - deny
+- - need
+  - neither
+  - confirm
+- - wilf
+  - frack
+  - himself
+- - dropping
+  - great
+  - clanging
+- - great
+  - clanging
+  - hints
+- - neither
+  - confirm
+  - nor
+- - himself
+  - tim
+  - thurn
+- - calling
+  - himself
+  - tim
+- - counts
+  - yours
+  - ever
+- - uncle
+  - whose
+  - name
+- - wilf
+  - dobson
+  - wilf
+- - ever
+  - tim
+  - thurn
+- - purgative
+  - old
+  - farmer
+- - old
+  - farmer
+  - wilf
+- - yours
+  - ever
+  - tim
+- - despite
+  - being
+  - incredibly
+- - old
+  - farmer
+  - frack
+- - wilf
+  - blodgett
+  - old
+- - dobson
+  - wilf
+  - blodgett
+- - blodgett
+  - old
+  - ma
+- - cement
+  - copy
+  - being
+- - yard
+  - characters
+  - whose
+- - name
+  - also
+  - happens
+- - whole
+  - cloth
+  - these
+- - drool
+  - dribbling
+  - down
+- - given
+  - wilf
+  - dobson
+- - whose
+  - name
+  - also
+- - these
+  - people
+  - despite
+- - characters
+  - whose
+  - first
+- - cloth
+  - these
+  - people
+- - few
+  - times
+  - around
+- - never
+  - given
+  - wilf
+- - people
+  - despite
+  - being
+- - whose
+  - first
+  - names
+- - hooting
+  - yard
+  - characters
+- - case
+  - mr
+  - key
+- - tim
+  - thurn
+  - who
+- - himself
+  - some
+  - gravitas
+- - lend
+  - himself
+  - some
+- - those
+  - hooting
+  - yard
+- - ever
+  - existed
+  - some
+- - doubt
+  - your
+  - word
+- - having
+  - invented
+  - your
+- - these
+  - people
+  - do
+- - existed
+  - some
+  - may
+- - were
+  - dropping
+  - great
+- - judges
+  - would
+  - include
 story:
   date: 2009-03-06
   id: 2009-03-06-wilf
@@ -87,4 +249,4 @@ story:
     \ opinion, the only court that counts.\nYours ever, Tim Thurn Of That Ilk (and\
     \ his Uncle Wilf, Of That Ilk)"
   title: Wilf
-word_count: 559
+word_count: 555

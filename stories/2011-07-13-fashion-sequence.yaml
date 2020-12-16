@@ -1,10 +1,4 @@
 ngrams:
-- - untrustworthy
-  - lax
-  - floppy
-- - cavalier
-  - untrustworthy
-  - lax
 - - skirt
   - spanish
   - elizabethan
@@ -20,12 +14,12 @@ ngrams:
 - - theatrical
   - welsh
   - witchy
-- - welsh
-  - witchy
-  - narrow
 - - drake
   - bearded
   - pirate
+- - welsh
+  - witchy
+  - narrow
 - - sleeves
   - bull
   - horn
@@ -35,6 +29,30 @@ ngrams:
 - - witchy
   - narrow
   - central
+- - overdone
+  - odd
+  - contrived
+- - brigand
+  - quaker
+  - hats
+- - th
+  - puff
+  - sleeves
+- - peak
+  - fine
+  - fashions
+- - bull
+  - horn
+  - hats
+- - fashion
+  - peak
+  - tall
+- - flighty
+  - freaks
+  - war
+- - class
+  - fashion
+  - peak
 story:
   date: 2011-07-13
   id: 2011-07-13-fashion-sequence

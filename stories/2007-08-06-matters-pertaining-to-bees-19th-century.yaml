@@ -2,15 +2,9 @@ ngrams:
 - - horrified
   - nurse
   - shut
-- - thomas
-  - henry
-  - huxley
 - - hyde
   - park
   - corner
-- - large
-  - semi-public
-  - school
 - - century
   - richard
   - carter
@@ -20,21 +14,18 @@ ngrams:
 - - bees
   - th
   - century
-- - eight
-  - o
-  - clock
 - - great
   - practical
   - value
 - - new
   - colony
   - pitching
-- - same
-  - reason
-  - probably
 - - country
   - leads
   - far
+- - same
+  - reason
+  - probably
 - - found
   - within
   - half
@@ -44,6 +35,75 @@ ngrams:
 - - any
   - portents
   - preceded
+- - nurse
+  - shut
+  - down
+- - than
+  - worth
+  - capacity
+- - plain
+  - language
+  - than
+- - surely
+  - than
+  - worth
+- - content
+  - myself
+  - through
+- - park
+  - corner
+  - now
+- - habit
+  - more
+  - ruinous
+- - myself
+  - through
+  - life
+- - has
+  - kindly
+  - drawn
+- - leads
+  - far
+  - more
+- - far
+  - more
+  - surely
+- - making
+  - its
+  - way
+- - about
+  - eight
+  - o'clock
+- - born
+  - about
+  - eight
+- - mother's
+  - room
+  - were
+- - more
+  - surely
+  - than
+- - room
+  - were
+  - open
+- - mellifluous
+  - eloquence
+  - which
+- - 'no'
+  - habit
+  - more
+- - an
+  - autobiographical
+  - sketch
+- - this
+  - country
+  - leads
+- - this
+  - splendid
+  - passage
+- - language
+  - than
+  - which
 story:
   date: 2007-08-06
   id: 2007-08-06-matters-pertaining-to-bees-19th-century
@@ -70,4 +130,4 @@ story:
     in the plainest of plain language; than which, I suppose, there is no habit more
     ruinous to a man''s prospects of advancement.'
   title: Matters Pertaining To Bees (19th Century)
-word_count: 283
+word_count: 280

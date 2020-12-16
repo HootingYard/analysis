@@ -1,16 +1,7 @@
 ngrams:
-- - beck
-  - farman
-  - remembers
-- - -year-old
-  - instrument
-  - assembled
 - - dogged
   - researcher
   - gordon
-- - j
-  - beck
-  - farman
 - - antarctic
   - survey
   - scientist
@@ -20,21 +11,18 @@ ngrams:
 - - scientist
   - september
   - contains
-- - lone
-  - british
-  - antarctic
 - - instrument
   - maker
   - r
+- - lone
+  - british
+  - antarctic
 - - r
   - j
   - beck
 - - british
   - antarctic
   - survey
-- - science
-  - museum
-  - farman
 - - maker
   - r
   - j
@@ -44,6 +32,96 @@ ngrams:
 - - survey
   - scientist
   - managed
+- - writes
+  - richard
+  - carter
+- - frank
+  - writes
+  - richard
+- - shed
+  - outside
+  - oxford
+- - s
+  - science
+  - museum
+- - dear
+  - frank
+  - writes
+- - london
+  - s
+  - science
+- - affinity
+  - without
+  - joe
+- - another
+  - dogged
+  - researcher
+- - definite
+  - affinity
+  - without
+- - pamphleteer
+  - whose
+  - doings
+- - number
+  - dobson's
+  - original
+- - week's
+  - new
+  - scientist
+- - make
+  - global
+  - measurements
+- - print
+  - pamphleteer
+  - whose
+- - new
+  - scientist
+  - september
+- - rather
+  - stirring
+  - story
+- - researcher
+  - gordon
+  - dobson
+- - new
+  - scientist
+  - piece
+- - ozone
+  - layer
+  - might
+- - certain
+  - gordon
+  - dobson
+- - instrument
+  - without
+  - much
+- - hooting
+  - yard
+  - judging
+- - without
+  - much
+  - use
+- - outside
+  - oxford
+  - more
+- - its
+  - number
+  - dobson's
+- - than
+  - years
+  - earlier
+- - its
+  - own
+  - during
+- - dobson's
+  - original
+  - 'no'
+- - when
+  - researchers
+  - decided
+- - oxford
+  - more
+  - than
 story:
   date: 2008-09-21
   id: 2008-09-21-the-dobsonmeter
@@ -75,4 +153,4 @@ story:
     \ roof of the Norwegian Polar Institute in Svalbard. Dobson died in 1976, so he\
     \ never saw his instrument's finest hour."
   title: The Dobsonmeter
-word_count: 337
+word_count: 332

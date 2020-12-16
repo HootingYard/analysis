@@ -23,15 +23,9 @@ ngrams:
 - - old
   - rugged
   - cross
-- - wolfman
-  - lying
-  - through
 - - wolf
   - gobbles
   - down
-- - wolfman
-  - having
-  - first
 - - test
   - its
   - strength
@@ -44,6 +38,57 @@ ngrams:
 - - hangs
   - christ
   - upon
+- - empty
+  - pot
+  - upon
+- - night
+  - comes
+  - down
+- - having
+  - first
+  - given
+- - wolf
+  - has
+  - eaten
+- - bucket
+  - back
+  - down
+- - dawn
+  - breaks
+  - up
+- - tavern
+  - table
+  - up
+- - gobbles
+  - down
+  - its
+- - down
+  - its
+  - breakfast
+- - when
+  - night
+  - comes
+- - has
+  - eaten
+  - its
+- - come
+  - out
+  - begins
+- - stars
+  - come
+  - out
+- - upon
+  - which
+  - hangs
+- - cross
+  - upon
+  - which
+- - slurped
+  - up
+  - all
+- - hangs
+  - not
+  - christ
 story:
   date: 2011-02-23
   id: 2011-02-23-the-old-rugged-cross
@@ -65,4 +110,4 @@ story:
     \ in the shadow of the old rugged cross, upon which hangs not Christ, but the\
     \ carcass of a demon, beset by midges, bluebottles and flies."
   title: The Old Rugged Cross
-word_count: 248
+word_count: 247

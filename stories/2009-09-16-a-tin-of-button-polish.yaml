@@ -23,12 +23,30 @@ ngrams:
 - - wakefield
   - these
   - men
-- - lugged
-  - such
-  - essentials
 - - john
   - franklin
   - could
+- - button
+  - polish
+  - who
+- - these
+  - men
+  - may
+- - been
+  - incompetent
+  - bunglers
+- - behind
+  - their
+  - guns
+- - left
+  - behind
+  - their
+- - crew
+  - were
+  - later
+- - were
+  - later
+  - discovered
 story:
   date: 2009-09-16
   id: 2009-09-16-a-tin-of-button-polish
@@ -43,4 +61,4 @@ story:
     \ were gentlemen.\nFrom Ex Libris\_: Confessions Of A Common Reader by Anne Fadiman\_\
     (1998)"
   title: A Tin Of Button Polish
-word_count: 129
+word_count: 128

@@ -1,10 +1,4 @@
 ngrams:
-- - alexander
-  - smith
-  - waynflete
-- - smith
-  - waynflete
-  - professor
 - - john
   - alexander
   - smith
@@ -44,6 +38,39 @@ ngrams:
 - - into
   - various
   - professions
+- - professions
+  - some
+  - may
+- - commerce
+  - some
+  - may
+- - will
+  - become
+  - teachers
+- - some
+  - may
+  - become
+- - together
+  - they
+  - form
+- - university
+  - will
+  - go
+- - few
+  - will
+  - become
+- - some
+  - may
+  - go
+- - years
+  - together
+  - they
+- - let
+  - me
+  - make
+- - very
+  - few
+  - will
 story:
   date: 2012-08-19
   id: 2012-08-19-rot

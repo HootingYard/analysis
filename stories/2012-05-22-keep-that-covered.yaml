@@ -1,13 +1,19 @@
 ngrams:
-- - le
-  - mesurier
-  - dressed
-- - john
+- - that's
+  - john
   - le
-  - mesurier
+- - chirping
+  - film
+  - that's
+- - film
+  - that's
+  - john
 - - birds
   - chirping
   - film
+- - covered
+  - another
+  - still
 story:
   date: 2012-05-22
   id: 2012-05-22-keep-that-covered
@@ -16,4 +22,4 @@ story:
 
     '
   title: Keep That Covered!
-word_count: 20
+word_count: 19

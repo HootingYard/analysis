@@ -1,13 +1,10 @@
 ngrams:
-- - p
-  - nat
-  - lofthouse
-- - nat
-  - lofthouse
-  - right
 - - i
   - p
   - nat
+- - r
+  - i
+  - p
 story:
   date: 2011-01-17
   id: 2011-01-17-r-i-p

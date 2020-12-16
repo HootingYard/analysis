@@ -2,12 +2,18 @@ ngrams:
 - - great
   - goat
   - war
+- - from
+  - today's
+  - edition
+- - war
+  - from
+  - today's
 - - goat
   - war
   - from
-- - war
-  - from
-  - today
+- - today's
+  - edition
+  - of
 story:
   date: 2014-03-12
   id: 2014-03-12-the-great-goat-war
@@ -15,4 +21,4 @@ story:
 
     '
   title: The Great Goat War
-word_count: 12
+word_count: 11

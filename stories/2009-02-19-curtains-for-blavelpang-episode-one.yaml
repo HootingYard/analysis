@@ -1,37 +1,10 @@
 ngrams:
-- - anti-soviet
-  - dog-strangling
-  - spacerocket-sabotaging
-- - dog-strangling
-  - spacerocket-sabotaging
-  - pressure
-- - costive
-  - gumshoe
-  - smedley
-- - gumshoe
-  - smedley
-  - blavelpang
-- - unjammed
-  - gun-toting
-  - rough
-- - gun-toting
-  - rough
-  - tough
 - - rough
   - tough
   - thug
 - - rough
   - tough
   - thug
-- - crumpled
-  - costive
-  - gumshoe
-- - spacerocket-sabotaging
-  - pressure
-  - group
-- - plump
-  - crumpled
-  - costive
 - - fix
   - private
   - detectives
@@ -44,6 +17,129 @@ ngrams:
 - - community
   - education
   - hub
+- - pioneering
+  - soviet
+  - space
+- - gun
+  - suddenly
+  - jam
+- - private
+  - eye
+  - wanting
+- - unjammed
+  - gun
+  - full
+- - equal
+  - measure
+  - probably
+- - village
+  - community
+  - education
+- - hear
+  - distant
+  - sirens
+- - bullet
+  - zipped
+  - past
+- - actually
+  - physically
+  - sick
+- - fellow
+  - villagers
+  - sometimes
+- - soviet
+  - space
+  - dog
+- - exciting
+  - serial
+  - story
+- - undignified
+  - death
+  - behind
+- - measure
+  - probably
+  - because
+- - suddenly
+  - jam
+  - too
+- - hat
+  - clean
+  - away
+- - our
+  - exciting
+  - serial
+- - dingy
+  - alleyway
+  - where
+- - jam
+  - too
+  - find
+- - country
+  - village
+  - where
+- - looked
+  - like
+  - curtains
+- - more
+  - iron
+  - glove
+- - its
+  - spot
+  - outside
+- - could
+  - hear
+  - distant
+- - crisis
+  - force
+  - him
+- - fierce
+  - pedagogue
+  - who
+- - eye
+  - wanting
+  - him
+- - pedagogue
+  - who
+  - ran
+- - trapped
+  - behind
+  - some
+- - wanting
+  - him
+  - instead
+- - behind
+  - some
+  - bins
+- - behind
+  - some
+  - bins
+- - death
+  - behind
+  - some
+- - often
+  - filled
+  - him
+- - even
+  - more
+  - iron
+- - set
+  - himself
+  - up
+- - municipal
+  - statuary
+  - which
+- - right
+  - all
+  - along
+- - trade
+  - which
+  - often
+- - which
+  - often
+  - filled
+- - an
+  - unjammed
+  - gun
 story:
   date: 2009-02-19
   id: 2009-02-19-curtains-for-blavelpang-episode-one
@@ -81,4 +177,4 @@ story:
     and to conclude that his papa had been right all along? Will the thug''s gun suddenly
     jam too? Find out in the next episode of our exciting serial story!'
   title: Curtains For Blavelpang, Episode One
-word_count: 386
+word_count: 382

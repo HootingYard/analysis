@@ -8,30 +8,12 @@ ngrams:
 - - bookshop
   - cafe
   - gallery
-- - gods
-  - virginia
-  - woolf
-- - thank
-  - shivaun
-  - woolfson
-- - cradledew
-  - explain
-  - poesy
 - - splendid
   - independent
   - bookshop
-- - woolfson
-  - tay
-  - held
-- - ms
-  - cradledew
-  - explain
 - - notes
   - unseemly
   - pangs
-- - programme
-  - notes
-  - unseemly
 - - owl
   - gods
   - virginia
@@ -41,9 +23,96 @@ ngrams:
 - - lopsided
   - prose
   - lugubrious
+- - spent
+  - yesterday
+  - recovering
 - - frances
   - tay
   - whose
+- - tay
+  - whose
+  - splendid
+- - whose
+  - splendid
+  - independent
+- - prose
+  - lugubrious
+  - music
+- - absolute
+  - disaster
+  - without
+- - thing
+  - ran
+  - smoothly
+- - birds
+  - owl
+  - gods
+- - sing
+  - nor
+  - play
+- - neither
+  - sing
+  - nor
+- - whole
+  - thing
+  - ran
+- - must
+  - also
+  - thank
+- - mr
+  - key
+  - ms
+- - hooting
+  - yard
+  - devotees
+- - yard
+  - devotees
+  - make
+- - hooting
+  - yard
+  - special
+- - may
+  - actually
+  - wish
+- - her
+  - assistance
+  - during
+- - moral
+  - balance
+  - do
+- - balance
+  - do
+  - try
+- - unseemly
+  - pangs
+  - can
+- - can
+  - neither
+  - sing
+- - next
+  - time
+  - whenever
+- - disaster
+  - without
+  - him
+- - am
+  - grateful
+  - too
+- - talks
+  - were
+  - greeted
+- - read
+  - something
+  - other
+- - wild
+  - horses
+  - will
+- - shop
+  - whenever
+  - they
+- - something
+  - other
+  - than
 story:
   date: 2011-11-20
   id: 2011-11-20-lopsided-lugubrious
@@ -71,4 +140,4 @@ story:
     . Do try to remember that next time, whenever the next time is.\n\nMr Key & Ms\
     \ Cradledew explain poesy to the masses\nSnap by Loz Flowers"
   title: Lopsided, Lugubrious
-word_count: 312
+word_count: 311

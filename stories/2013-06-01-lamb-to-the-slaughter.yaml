@@ -1,22 +1,19 @@
 ngrams:
-- - queen-street
-  - lincoln
-  - s-inn-fields
 - - chronicle
   - september
   - reproduced
 - - loud
   - shrieks
   - approached
-- - menacing
-  - manner
-  - pursued
 - - mother
   - lifeless
   - pierced
 - - helpless
   - infirm
   - mother
+- - menacing
+  - manner
+  - pursued
 - - dreadful
   - scene
   - presented
@@ -29,9 +26,6 @@ ngrams:
 - - young
   - lady
   - seized
-- - ill-fated
-  - young
-  - woman
 - - verdict
   - lunacy
   - morning
@@ -44,6 +38,99 @@ ngrams:
 - - case
   - knife
   - laying
+- - above
+  - unfortunate
+  - young
+- - madly
+  - hurling
+  - around
+- - unfortunate
+  - young
+  - person
+- - daughter
+  - yet
+  - wildly
+- - yet
+  - wildly
+  - standing
+- - side
+  - himself
+  - bleeding
+- - earlier
+  - years
+  - deranged
+- - few
+  - days
+  - prior
+- - wildly
+  - standing
+  - over
+- - next
+  - morning
+  - went
+- - her
+  - helpless
+  - infirm
+- - girl
+  - her
+  - apprentice
+- - approached
+  - her
+  - parent
+- - shrieks
+  - approached
+  - her
+- - chair
+  - her
+  - daughter
+- - her
+  - cries
+  - quickly
+- - her
+  - father
+  - weeping
+- - her
+  - apprentice
+  - round
+- - her
+  - brother
+  - early
+- - venerable
+  - old
+  - man
+- - her
+  - carriage
+  - towards
+- - carriage
+  - towards
+  - her
+- - too
+  - much
+  - business
+- - observed
+  - some
+  - symptoms
+- - towards
+  - her
+  - mother
+- - her
+  - daughter
+  - yet
+- - their
+  - verdict
+  - lunacy
+- - her
+  - side
+  - himself
+- - little
+  - girl
+  - her
+- - been
+  - madly
+  - hurling
+- - probability
+  - been
+  - prevented
 story:
   date: 2013-06-01
   id: 2013-06-01-lamb-to-the-slaughter
@@ -75,4 +162,4 @@ story:
     \ as the prologue to\_A Double Life\_: A Biography Of Charles And Mary Lamb by\
     \ Sarah Burton (2003)"
   title: Lamb To The Slaughter
-word_count: 353
+word_count: 352

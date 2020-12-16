@@ -8,6 +8,12 @@ ngrams:
 - - sister
   - my
   - mother
+- - four
+  - generations
+  - my
+- - my
+  - sister
+  - my
 story:
   date: 2013-12-20
   id: 2013-12-20-four-generations

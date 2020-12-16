@@ -2,27 +2,18 @@ ngrams:
 - - austin
   - osman
   - spare
-- - austin
-  - osman
-  - spare
 - - prove
   - positively
   - attractive
-- - bruton
-  - street
-  - grandly
 - - street
   - grandly
   - announcing
-- - number
-  - bruton
-  - street
+- - london's
+  - lost
+  - artist
 - - west
   - end
   - gallery
-- - aleister
-  - crowley
-  - came
 - - grandly
   - announcing
   - himself
@@ -32,6 +23,33 @@ ngrams:
 - - end
   - gallery
   - show
+- - earth
+  - spare
+  - thought
+- - friend
+  - years
+  - later
+- - put
+  - many
+  - visitors
+- - first
+  - west
+  - end
+- - came
+  - striding
+  - through
+- - upon
+  - earth
+  - spare
+- - many
+  - visitors
+  - 'off'
+- - years
+  - later
+  - perhaps
+- - god
+  - upon
+  - earth
 story:
   date: 2011-08-28
   id: 2011-08-28-spare-on-crowley
@@ -46,4 +64,4 @@ story:
     \ of hindsight, he said this was what he had told Crowley at the time.\nFrom Austin\
     \ Osman Spare\_: The Life And Legend Of London's Lost Artist by Phil Baker (2011)"
   title: Spare On Crowley
-word_count: 139
+word_count: 137

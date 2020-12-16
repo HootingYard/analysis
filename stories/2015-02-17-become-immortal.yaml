@@ -2,6 +2,9 @@ ngrams:
 - - resonance
   - fm
   - fundraiser
+- - world's
+  - finest
+  - radio
 - - penny
   - raised
   - goes
@@ -32,15 +35,33 @@ ngrams:
 - - two
   - days
   - remaining
-- - days
-  - remaining
-  - before
 - - hooting
   - yard
   - auction
+- - year's
+  - hooting
+  - yard
+- - days
+  - remaining
+  - before
 - - do
   - please
   - check
+- - other
+  - items
+  - still
+- - many
+  - other
+  - items
+- - paltry
+  - sum
+  - when
+- - highest
+  - bidder
+  - will
+- - goes
+  - straight
+  - into
 story:
   date: 2015-02-17
   id: 2015-02-17-become-immortal
@@ -57,4 +78,4 @@ story:
     \ and improvement, of the world's finest radio station.\nThere are many other\
     \ items still to bid for, so do please check on all of them here."
   title: Become Immortal!
-word_count: 171
+word_count: 169

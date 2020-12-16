@@ -1,37 +1,55 @@
 ngrams:
+- - online
+  - guardian
+  - i'm
+- - guardian
+  - i'm
+  - pleased
 - - fundamentally
   - sensible
   - place
 - - sensible
   - place
   - sober
-- - mr
-  - jordison
-  - acknowledges
 - - quite
   - possibly
   - spend
-- - article
-  - mr
-  - jordison
 - - flit
   - swiftly
   - away
+- - don't
+  - get
+  - paid
 - - lives
   - trawling
   - through
 - - man
   - living
   - according
-- - t
-  - get
-  - paid
-- - don
-  - t
-  - get
 - - lure
   - many
   - new
+- - written
+  - more
+  - nonsense
+- - many
+  - new
+  - readers
+- - new
+  - readers
+  - here
+- - their
+  - lives
+  - trawling
+- - nonsense
+  - than
+  - any
+- - other
+  - man
+  - living
+- - draw
+  - your
+  - attention
 story:
   date: 2007-11-15
   id: 2007-11-15-nonsense
@@ -46,4 +64,4 @@ story:
     \ this prose is offered freely, I don't get paid, and I don't have a private income.\
     \ I do need to keep a variety of wolves from my door. End of begging letter."
   title: Nonsense?
-word_count: 143
+word_count: 140

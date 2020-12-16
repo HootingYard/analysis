@@ -8,6 +8,12 @@ ngrams:
 - - here
   - words
   - fail
+- - available
+  - here
+  - words
+- - words
+  - fail
+  - me
 story:
   date: 2011-01-06
   id: 2011-01-06-words-fail-me

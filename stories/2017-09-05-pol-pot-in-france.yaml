@@ -11,18 +11,18 @@ ngrams:
 - - french
   - farming
   - methods
+- - perished
+  - pol
+  - pot
 - - uncanny
   - speed
   - charged
-- - perished
+- - methods
   - pol
   - pot
 - - surprise
   - surprise
   - pol
-- - methods
-  - pol
-  - pot
 - - barn
   - tout
   - suite
@@ -41,9 +41,114 @@ ngrams:
 - - peasant
   - utopia
   - accordingly
-- - age-old
-  - rustic
-  - ways
+- - apparently
+  - included
+  - anybody
+- - tout
+  - suite
+  - simply
+- - cambodian
+  - cow
+  - incantation
+- - young
+  - cambodian
+  - upstart
+- - guttural
+  - cambodian
+  - cow
+- - seemed
+  - taught
+  - pol
+- - whom
+  - pol
+  - pot
+- - future
+  - tyrant
+  - followed
+- - ceased
+  - munching
+  - looked
+- - cows
+  - ceased
+  - munching
+- - pol
+  - pot
+  - appeared
+- - animus
+  - towards
+  - bourgeois
+- - towards
+  - bourgeois
+  - intellectuals
+- - almost
+  - uncanny
+  - speed
+- - particular
+  - animus
+  - towards
+- - pol
+  - pot
+  - thus
+- - cambodian
+  - upstart
+  - took
+- - among
+  - whom
+  - pol
+- - point
+  - pol
+  - pot
+- - khmer
+  - rouge
+  - came
+- - pot
+  - thus
+  - headed
+- - monsters
+  - among
+  - whom
+- - speed
+  - charged
+  - across
+- - course
+  - surprise
+  - surprise
+- - wise
+  - old
+  - french
+- - last
+  - century
+  - threw
+- - old
+  - french
+  - farmer
+- - pol
+  - pot
+  - never
+- - headed
+  - 'off'
+  - deep
+- - cows
+  - mooched
+  - 'off'
+- - pot
+  - never
+  - short
+- - said
+  - pol
+  - pot
+- - overthrown
+  - three
+  - years
+- - understand
+  - said
+  - pol
+- - thus
+  - headed
+  - 'off'
+- - mooched
+  - 'off'
+  - across
 story:
   date: 2017-09-05
   id: 2017-09-05-pol-pot-in-france
@@ -78,4 +183,4 @@ story:
     \ uncanny speed, charged across the fields and returned to the barn.\nIt was a\
     \ classic case of Pot calling the cattle back."
   title: Pol Pot In France
-word_count: 403
+word_count: 400

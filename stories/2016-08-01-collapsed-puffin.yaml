@@ -2,21 +2,24 @@ ngrams:
 - - puffin
   - hospital
   - yonder
-- - succour
-  - love
-  - conquers
 - - white
   - wasteland
   - allegory
 - - blizzard
   - oh
   - puffin
+- - puffin
+  - don't
+  - die
+- - don't
+  - die
+  - stamp
 - - collapsed
   - puffin
   - oh
 - - oh
   - puffin
-  - don
+  - don't
 - - come
   - squiffy
   - plod
@@ -26,15 +29,30 @@ ngrams:
 - - puffin
   - oh
   - look
-- - t
-  - die
-  - stamp
 - - breathe
   - easier
   - here
 - - those
   - icicles
   - dangling
+- - companion
+  - two
+  - men
+- - wipe
+  - those
+  - damned
+- - those
+  - damned
+  - goggles
+- - snap
+  - those
+  - icicles
+- - easier
+  - here
+  - comes
+- - chopper
+  - take
+  - those
 story:
   date: 2016-08-01
   id: 2016-08-01-collapsed-puffin
@@ -50,4 +68,4 @@ story:
     \ towards the puffin, that we may give it succour.\n  Love conquers all, if you\
     \ will wipe those damned goggles!"
   title: Collapsed Puffin
-word_count: 145
+word_count: 144

@@ -11,6 +11,12 @@ ngrams:
 - - lovecraftian
   - horror
   - mr
+- - mr
+  - key
+  - reads
+- - key
+  - reads
+  - mr
 story:
   date: 2017-09-22
   id: 2017-09-22-lovecraftian-babbling
@@ -21,4 +27,4 @@ story:
     Lovecraftian horror. Mr Key reads Mr Key Goes To Innsmouth, Cocking A Snook, and
     tells of the life of Saint Rumwold, The Pious Infant.'
   title: Lovecraftian Babbling
-word_count: 54
+word_count: 53

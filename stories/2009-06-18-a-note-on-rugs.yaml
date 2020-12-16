@@ -1,34 +1,28 @@
 ngrams:
-- - voila
-  - gur
-  - becomes
 - - travelling
   - rug
   - salesman
-- - gur
-  - becomes
-  - rug
 - - medical
   - literature
   - warns
-- - hare
-  - oracles
+- - demonstrates
   - r
+  - '''s'
 - - correspondent
   - r
   - shares
 - - request
   - merely
   - demonstrates
+- - r
+  - '''s'
+  - lack
 - - merely
   - demonstrates
   - r
 - - floor
   - covering
   - types
-- - against
-  - becoming
-  - fumous-brained
 - - becomes
   - rug
   - thus
@@ -44,6 +38,60 @@ ngrams:
 - - especially
   - carpets
   - quite
+- - gurdjieff
+  - began
+  - life
+- - old
+  - fraud
+  - g
+- - literature
+  - warns
+  - us
+- - way
+  - madness
+  - lies
+- - how
+  - human
+  - destinies
+- - warns
+  - us
+  - against
+- - us
+  - against
+  - becoming
+- - first
+  - three
+  - letters
+- - see
+  - how
+  - human
+- - human
+  - destinies
+  - can
+- - destinies
+  - can
+  - sometimes
+- - letters
+  - reverse
+  - them
+- - worked
+  - up
+  - lightly
+- - phrase
+  - worked
+  - up
+- - 'no'
+  - accident
+  - either
+- - even
+  - upon
+  - linoleum
+- - wonder
+  - if
+  - r
+- - getting
+  - all
+  - worked
 story:
   date: 2009-06-18
   id: 2009-06-18-a-note-on-rugs
@@ -67,4 +115,4 @@ story:
     \ coverings such as rugs, mats, and especially carpets. Quite literally, that\
     \ way madness lies!\n"
   title: A Note On Rugs
-word_count: 253
+word_count: 252

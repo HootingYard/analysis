@@ -1,13 +1,4 @@
 ngrams:
-- - limbs
-  - oswell
-  - blakeston
-- - frozen
-  - limbs
-  - oswell
-- - oswell
-  - blakeston
-  - sun
 - - morning
   - tove
   - jansson
@@ -23,6 +14,30 @@ ngrams:
 - - squirrel
   - max
   - said
+- - max
+  - said
+  - don't
+- - her
+  - frozen
+  - limbs
+- - her
+  - squirrel
+  - max
+- - green
+  - she
+  - answered
+- - damned
+  - green
+  - she
+- - slept
+  - under
+  - her
+- - under
+  - her
+  - neck
+- - she
+  - told
+  - us
 story:
   date: 2011-10-10
   id: 2011-10-10-tove-jansson-and-her-squirrel
@@ -35,4 +50,4 @@ story:
     \ to be a tree. The squirrel would run up and down her frozen limbs.\nOswell Blakeston,\
     \ Sun At Midnight (1958)"
   title: Tove Jansson And Her Squirrel
-word_count: 107
+word_count: 105

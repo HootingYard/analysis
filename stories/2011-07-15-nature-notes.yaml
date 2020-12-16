@@ -1,28 +1,19 @@
 ngrams:
-- - freedom
-  - auberon
-  - waugh
+- - britain's
+  - biggest
+  - breeding
 - - biggest
   - breeding
   - colony
-- - multi-million
-  - pound
-  - rspb
+- - follows
+  - britain's
+  - biggest
 - - yarmouth
   - beach
   - norfolk
-- - slightly
-  - flea-ridden
-  - animals
-- - auberon
-  - waugh
-  - nature
 - - daily
   - telegraph
   - august
-- - waugh
-  - nature
-  - notes
 - - yarmouth
   - beach
   - whose
@@ -38,12 +29,69 @@ ngrams:
 - - great
   - yarmouth
   - beach
-- - fancying
-  - little
-  - terns
-- - little
-  - tern
-  - hedgehogs
+- - twitter
+  - away
+  - unseen
+- - norfolk
+  - where
+  - pairs
+- - beach
+  - norfolk
+  - where
+- - intelligent
+  - conversation
+  - has
+- - its
+  - own
+  - petard
+- - conversation
+  - has
+  - anybody
+- - survive
+  - every
+  - time
+- - been
+  - largely
+  - wiped
+- - pairs
+  - were
+  - nesting
+- - hedgehog
+  - wipes
+  - out
+- - fence
+  - put
+  - up
+- - largely
+  - wiped
+  - out
+- - delightful
+  - if
+  - slightly
+- - has
+  - anybody
+  - ever
+- - pound
+  - rspb
+  - which
+- - are
+  - fanatically
+  - protected
+- - were
+  - kept
+  - away
+- - where
+  - pairs
+  - were
+- - whom
+  - we
+  - should
+- - an
+  - intelligent
+  - conversation
+- - an
+  - intelligent
+  - conversation
 story:
   date: 2011-07-15
   id: 2011-07-15-nature-notes
@@ -68,4 +116,4 @@ story:
     \ a little tern, it is a blow for freedom.\nAuberon Waugh, \u201CNature Notes\u201D\
     , The Daily Telegraph, 11 August 1990"
   title: Nature Notes
-word_count: 250
+word_count: 249

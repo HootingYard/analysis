@@ -1,13 +1,19 @@
 ngrams:
-- - may
-  - storey
-  - click
-- - miss
-  - may
-  - storey
 - - other
   - curious
   - objects
+- - posted
+  - himself
+  - other
+- - englishman
+  - who
+  - posted
+- - himself
+  - other
+  - curious
+- - who
+  - posted
+  - himself
 story:
   date: 2011-11-08
   id: 2011-11-08-miss-may-storey

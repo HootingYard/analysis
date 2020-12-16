@@ -14,6 +14,9 @@ ngrams:
 - - ever
   - actually
   - existed
+- - aesop's
+  - foibles
+  - any
 - - petty
   - larceny
   - such
@@ -32,9 +35,6 @@ ngrams:
 - - cliff
   - charitably
   - we
-- - low-level
-  - mania
-  - we
 - - historical
   - aesop
   - we
@@ -44,6 +44,33 @@ ngrams:
 - - 'no'
   - basis
   - upon
+- - discover
+  - more
+  - about
+- - very
+  - little
+  - about
+- - these
+  - are
+  - slim
+- - charitably
+  - we
+  - could
+- - foible
+  - then
+  - there
+- - we
+  - could
+  - advance
+- - mania
+  - we
+  - could
+- - we
+  - could
+  - describe
+- - about
+  - him
+  - indeed
 story:
   date: 2011-02-02
   id: 2011-02-02-aesops-foibles
@@ -64,4 +91,4 @@ story:
 
     '
   title: Aesop's Foibles
-word_count: 200
+word_count: 197

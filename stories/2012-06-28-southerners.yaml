@@ -1,19 +1,10 @@
 ngrams:
-- - babcock
-  - resented
-  - popper
-- - southerners
-  - babcock
-  - resented
 - - court
   - connections
   - babcock
 - - imperative
   - mood
   - master
-- - page
-  - provokes
-  - guffaws
 - - quiet
   - investigation
   - using
@@ -44,6 +35,42 @@ ngrams:
 - - novel
   - whose
   - every
+- - whose
+  - every
+  - page
+- - over
+  - coarse
+  - jokes
+- - guffawing
+  - over
+  - coarse
+- - appearance
+  - said
+  - dixie
+- - implements
+  - later
+  - through
+- - old
+  - geezers
+  - through
+- - eating
+  - their
+  - yams
+- - saw
+  - them
+  - eating
+- - babcock
+  - knew
+  - 'no'
+- - around
+  - ed
+  - who
+- - am
+  - very
+  - grateful
+- - all
+  - too
+  - palpable
 story:
   date: 2012-06-28
   id: 2012-06-28-southerners
@@ -63,4 +90,4 @@ story:
     \ me to this comic masterpiece. The above is merely one excerpt from a novel whose\
     \ every page provokes guffaws of mirth."
   title: Southerners
-word_count: 199
+word_count: 197

@@ -2,12 +2,18 @@ ngrams:
 - - monster
   - attacks
   - lighthouse
-- - doings
-  - exciting
-  - sea-monster-attacks-lighthouse
 - - greasy
   - doings
   - exciting
+- - sea
+  - monster
+  - attacks
+- - attacks
+  - lighthouse
+  - perhaps
+- - monster
+  - has
+  - probably
 story:
   date: 2012-01-24
   id: 2012-01-24-sea-monster-attacks-lighthouse

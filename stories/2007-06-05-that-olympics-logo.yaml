@@ -1,13 +1,7 @@
 ngrams:
-- - secretary
-  - tessa
-  - jowell
 - - culture
   - secretary
   - tessa
-- - loveable
-  - octogenarian
-  - crone
 - - reduced
   - gruel
   - rations
@@ -17,15 +11,6 @@ ngrams:
 - - diminutive
   - culture
   - secretary
-- - tessa
-  - jowell
-  - takes
-- - tessa
-  - jowell
-  - says
-- - anything
-  - tessa
-  - jowell
 - - octogenarian
   - crone
   - mrs
@@ -41,9 +26,81 @@ ngrams:
 - - money
   - anything
   - tessa
-- - jowell
-  - says
-  - ought
+- - flap
+  - sorry
+  - it's
+- - mrs
+  - gubbins
+  - looked
+- - shores
+  - acting
+  - both
+- - great
+  - literary
+  - giant
+- - same
+  - charge
+  - against
+- - certain
+  - people
+  - seem
+- - that's
+  - another
+  - story
+- - money
+  - well
+  - spent
+- - story
+  - certain
+  - people
+- - another
+  - story
+  - certain
+- - our
+  - shores
+  - acting
+- - takes
+  - our
+  - values
+- - beyond
+  - our
+  - shores
+- - every
+  - last
+  - detail
+- - doubt
+  - just
+  - ask
+- - hooting
+  - yard
+  - brand
+- - cost
+  - slightly
+  - more
+- - world
+  - beyond
+  - our
+- - olympics
+  - has
+  - caused
+- - london
+  - olympics
+  - has
+- - new
+  - hooting
+  - yard
+- - gubbins
+  - looked
+  - up
+- - who
+  - still
+  - swears
+- - what
+  - i'm
+  - talking
+- - i'm
+  - talking
+  - about
 story:
   date: 2007-06-05
   id: 2007-06-05-that-olympics-logo
@@ -68,4 +125,4 @@ story:
     \ inmates of Pang Hill Orphanage insisted that they can cope with severely reduced\
     \ gruel rations for the next forty years. Indeed, they have never looked so blissful.\n"
   title: That Olympics Logo
-word_count: 283
+word_count: 275

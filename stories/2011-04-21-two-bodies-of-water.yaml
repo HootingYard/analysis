@@ -1,13 +1,13 @@
 ngrams:
-- - d
-  - indiference
-  - mer
-- - indiference
-  - mer
-  - d
-- - mer
-  - d
-  - inimitie
+- - of
+  - water
+  - lac
+- - bodies
+  - of
+  - water
+- - two
+  - bodies
+  - of
 story:
   date: 2011-04-21
   id: 2011-04-21-two-bodies-of-water
@@ -19,4 +19,4 @@ story:
 
     From Ptak Science Books'
   title: Two Bodies Of Water
-word_count: 14
+word_count: 12

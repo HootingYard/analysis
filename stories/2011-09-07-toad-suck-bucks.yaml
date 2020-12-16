@@ -1,22 +1,4 @@
 ngrams:
-- - alcoholic
-  - beverages
-  - buck
-- - toad
-  - suck
-  - arkansas
-- - suck
-  - arkansas
-  - toad
-- - arkansas
-  - toad
-  - suck
-- - toad
-  - suck
-  - buck
-- - toad
-  - suck
-  - buck
 - - toad
   - suck
   - branch
@@ -26,6 +8,39 @@ ngrams:
 - - yard
   - fan
   - club
+- - serve
+  - its
+  - customers
+- - hooting
+  - yard
+  - fan
+- - reader
+  - who
+  - sent
+- - dry
+  - county
+  - so
+- - are
+  - fortunate
+  - enough
+- - listeners
+  - all
+  - over
+- - are
+  - too
+  - meanwhile
+- - who
+  - sent
+  - me
+- - some
+  - are
+  - fortunate
+- - world
+  - some
+  - are
+- - there
+  - are
+  - readers
 story:
   date: 2011-09-07
   id: 2011-09-07-toad-suck-bucks
@@ -39,4 +54,4 @@ story:
     \ too. Meanwhile, I am thrilled to know there is a Toad Suck Branch of the Hooting\
     \ Yard Fan Club.\n"
   title: Toad Suck Buck's
-word_count: 119
+word_count: 115

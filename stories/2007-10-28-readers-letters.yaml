@@ -2,9 +2,6 @@ ngrams:
 - - enclosed
   - photo
   - illustrates
-- - writes
-  - jonathan
-  - coleclough
 - - frank
   - writes
   - jonathan
@@ -17,6 +14,21 @@ ngrams:
 - - readers
   - letters
   - dear
+- - about
+  - brick
+  - manufacture
+- - quote
+  - about
+  - brick
+- - an
+  - illustrated
+  - lecture
+- - attended
+  - an
+  - illustrated
+- - recently
+  - attended
+  - an
 story:
   date: 2007-10-28
   id: 2007-10-28-readers-letters
@@ -28,4 +40,4 @@ story:
     The subject of chalk mining is of interest in this area, as the enclosed photo\
     \ illustrates.\n\n\_"
   title: "Readers\u2019 Letters"
-word_count: 83
+word_count: 82

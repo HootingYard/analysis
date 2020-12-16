@@ -1,34 +1,13 @@
 ngrams:
-- - ten-minute
-  - unillustrated
-  - lecture
 - - worldwide
   - lecture
   - tour
-- - entitled
-  - lobstermen
-  - jeopardy
-- - news
-  - nappa
-  - gisburn
-- - nappa
-  - gisburn
-  - brought
-- - programme
-  - entitled
-  - lobstermen
 - - ocean
   - floor
   - snapping
-- - lobster
-  - news
-  - nappa
 - - foolish
   - hysterical
   - manner
-- - television
-  - programme
-  - entitled
 - - scuttling
   - happily
   - across
@@ -38,12 +17,78 @@ ngrams:
 - - expenses
   - paid
   - should
-- - far-flung
-  - yet
+- - yet
   - luxurious
-- - gisburn
-  - himself
-  - noted
+  - corner
+- - lobsters
+  - while
+  - waving
+- - night
+  - thrashing
+  - around
+- - find
+  - both
+  - worrying
+- - nobody
+  - seems
+  - ever
+- - received
+  - any
+  - news
+- - expert
+  - than
+  - certainly
+- - less
+  - exciting
+  - than
+- - its
+  - title
+  - promised
+- - lobster
+  - scheme
+  - some
+- - snapping
+  - their
+  - claws
+- - just
+  - don't
+  - know
+- - floor
+  - snapping
+  - their
+- - exciting
+  - than
+  - its
+- - than
+  - its
+  - title
+- - tour
+  - all
+  - expenses
+- - lecture
+  - tour
+  - all
+- - all
+  - expenses
+  - paid
+- - some
+  - years
+  - ago
+- - their
+  - lobster
+  - much
+- - readers
+  - will
+  - recall
+- - consider
+  - myself
+  - if
+- - remind
+  - me
+  - however
+- - are
+  - scuttling
+  - happily
 story:
   date: 2014-02-22
   id: 2014-02-22-lobster-news
@@ -66,4 +111,4 @@ story:
     \ a five- or ten-minute unillustrated lecture on lobsters while waving my arms\
     \ about in a foolish, hysterical manner."
   title: Lobster News
-word_count: 248
+word_count: 246

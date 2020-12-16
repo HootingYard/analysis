@@ -1,13 +1,19 @@
 ngrams:
-- - uk
-  - tax
-  - payer
 - - build
   - reserves
   - savings
 - - arts
   - council
   - england
+- - year's
+  - target
+  - please
+- - world's
+  - finest
+  - radio
+- - station's
+  - future
+  - thank
 - - unseemly
   - begging
   - letter
@@ -26,12 +32,6 @@ ngrams:
 - - registered
   - charity
   - number
-- - however
-  - honour
-  - duty
-- - occasion
-  - however
-  - honour
 - - sheer
   - common
   - sense
@@ -44,6 +44,54 @@ ngrams:
 - - material
   - assets
   - nor
+- - few
+  - material
+  - assets
+- - air
+  - please
+  - help
+- - listeners
+  - please
+  - take
+- - assets
+  - nor
+  - does
+- - print
+  - pamphleteers
+  - though
+- - please
+  - mention
+  - hooting
+- - our
+  - registered
+  - charity
+- - say
+  - dear
+  - friends
+- - please
+  - help
+  - us
+- - radio
+  - station
+  - here
+- - charity
+  - number
+  - through
+- - yard
+  - donating
+  - each
+- - its
+  - financial
+  - resilience
+- - bolster
+  - its
+  - imminent
+- - indicate
+  - its
+  - financial
+- - its
+  - imminent
+  - application
 story:
   date: 2014-01-09
   id: 2014-01-09-a-plea
@@ -67,4 +115,4 @@ story:
     \ Please take a moment to show your appreciation of our broadcasts and secure\
     \ the station's future. Thank you!"
   title: A Plea
-word_count: 258
+word_count: 254

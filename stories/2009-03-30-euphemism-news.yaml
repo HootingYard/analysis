@@ -1,13 +1,19 @@
 ngrams:
-- - reports
-  - directives
-  - ukases
 - - official
   - reports
   - directives
-- - news
+- - euphemism
+  - news
   - jeff
-  - goldstein
+- - excellent
+  - new
+  - euphemism
+- - all
+  - official
+  - reports
+- - devised
+  - an
+  - excellent
 story:
   date: 2009-03-30
   id: 2009-03-30-euphemism-news

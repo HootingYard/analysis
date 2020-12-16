@@ -5,9 +5,6 @@ ngrams:
 - - vain
   - curse
   - swear
-- - saviour
-  - date
-  - uncertain
 - - continued
   - earnestly
   - praising
@@ -23,6 +20,9 @@ ngrams:
 - - earnestly
   - praising
   - god
+- - names
+  - take
+  - god's
 - - little
   - beggar
   - boys
@@ -32,18 +32,99 @@ ngrams:
 - - call
   - names
   - take
-- - names
-  - take
-  - god
+- - take
+  - god's
+  - name
 - - very
   - poor
   - child
+- - god's
+  - arrows
+  - did
 - - sins
   - stared
   - him
 - - eternity
   - broke
   - him
+- - times
+  - more
+  - miserable
+- - thousand
+  - times
+  - more
+- - girls
+  - who
+  - loved
+- - arrows
+  - did
+  - even
+- - did
+  - even
+  - drink
+- - child
+  - what
+  - sin
+- - poor
+  - child
+  - what
+- - made
+  - him
+  - tremble
+- - bitterly
+  - cried
+  - out
+- - all
+  - eternity
+  - broke
+- - broke
+  - him
+  - even
+- - we
+  - scarcely
+  - hear
+- - even
+  - drink
+  - up
+- - would
+  - call
+  - names
+- - years
+  - we
+  - scarcely
+- - half
+  - an
+  - hour
+- - this
+  - poor
+  - child
+- - do
+  - all
+  - kinds
+- - cried
+  - out
+  - what
+- - out
+  - what
+  - shall
+- - indeed
+  - arrived
+  - at
+- - wrath
+  - were
+  - so
+- - been
+  - so
+  - great
+- - were
+  - so
+  - great
+- - about
+  - half
+  - an
+- - sins
+  - had
+  - been
 story:
   date: 2010-06-05
   id: 2010-06-05-the-abominable-example-of-little-beggar-boys
@@ -70,4 +151,4 @@ story:
     \ continued earnestly praising God, desiring to die, and to be with Christ.\n\
     John Wesley, Stories Of Boys And Girls Who Loved The Saviour (date uncertain)"
   title: The Abominable Example Of Little Beggar Boys
-word_count: 342
+word_count: 338

@@ -5,12 +5,6 @@ ngrams:
 - - magnetism
   - electricity
   - heat
-- - von
-  - reichenbach
-  - translated
-- - charles
-  - von
-  - reichenbach
 - - monthly
   - magazine
   - volume
@@ -23,18 +17,9 @@ ngrams:
 - - singularly
   - curious
   - character
-- - heat
-  - light
-  - crystallization
-- - john
-  - ashburner
-  - m
 - - electricity
   - heat
   - light
-- - ashburner
-  - m
-  - d
 - - among
   - german
   - savants
@@ -44,6 +29,57 @@ ngrams:
 - - magazine
   - volume
   - number
+- - harper's
+  - new
+  - monthly
+- - most
+  - astonishing
+  - developments
+- - long
+  - hair
+  - floats
+- - new
+  - monthly
+  - magazine
+- - hair
+  - floats
+  - over
+- - female
+  - prostrate
+  - upon
+- - volume
+  - number
+  - may
+- - even
+  - among
+  - german
+- - rare
+  - even
+  - among
+- - experiments
+  - which
+  - tend
+- - an
+  - admirable
+  - composition
+- - an
+  - extensive
+  - series
+- - results
+  - are
+  - here
+- - are
+  - here
+  - described
+- - here
+  - described
+  - are
+- - germans
+  - from
+  - harper's
+- - admirable
+  - composition
+  - by
 story:
   date: 2010-07-24
   id: 2010-07-24-a-couple-of-germans
@@ -65,4 +101,4 @@ story:
     \ arms, and trails along the ground. The whole figure is a mixture of majesty\
     \ and utter abandonment. The simple title of the piece is\u2014Germania, 1850.\u201D"
   title: A Couple Of Germans
-word_count: 218
+word_count: 217

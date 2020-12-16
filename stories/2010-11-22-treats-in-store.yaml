@@ -1,16 +1,4 @@
 ngrams:
-- - squire
-  - novelist
-  - antiquary
-- - parson
-  - squire
-  - novelist
-- - baring-gould
-  - parson
-  - squire
-- - sabine
-  - baring-gould
-  - parson
 - - onward
   - christian
   - soldier
@@ -20,15 +8,6 @@ ngrams:
 - - robert
   - stephen
   - hawker
-- - sabine
-  - baring-gould
-  - author
-- - mention
-  - sabine
-  - baring-gould
-- - library
-  - recalling
-  - baring-gould
 - - eccentric
   - country
   - vicar
@@ -38,6 +17,48 @@ ngrams:
 - - london
   - library
   - recalling
+- - innumerable
+  - works
+  - including
+- - himself
+  - onward
+  - christian
+- - clifftop
+  - hut
+  - made
+- - expect
+  - contain
+  - much
+- - man
+  - himself
+  - onward
+- - time
+  - smoking
+  - opium
+- - more
+  - startling
+  - bits
+- - great
+  - man
+  - himself
+- - country
+  - vicar
+  - who
+- - vicar
+  - who
+  - spent
+- - birds
+  - dressed
+  - up
+- - who
+  - spent
+  - much
+- - purcell
+  - this
+  - trio
+- - william
+  - purcell
+  - this
 story:
   date: 2010-11-22
   id: 2010-11-22-treats-in-store

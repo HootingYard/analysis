@@ -1,25 +1,4 @@
 ngrams:
-- - kopechne
-  - perkins
-  - bringer
-- - jo
-  - kopechne
-  - perkins
-- - mary
-  - jo
-  - kopechne
-- - hush
-  - ye
-  - hush
-- - enter
-  - perkins
-  - bringer
-- - ye
-  - hush
-  - ye
-- - bijou
-  - wasp
-  - zoo
 - - wasp
   - zoo
   - sentry
@@ -32,9 +11,6 @@ ngrams:
 - - poor
   - mary
   - jo
-- - hat-birds
-  - fly
-  - fly
 - - pass
   - enter
   - perkins
@@ -44,6 +20,57 @@ ngrams:
 - - cardboard
   - boxes
   - save
+- - 'yes'
+  - poor
+  - mary
+- - zoo
+  - 'yes'
+  - poor
+- - ye
+  - several
+  - hours
+- - several
+  - hours
+  - pass
+- - fly
+  - away
+  - perkins
+- - must
+  - simply
+  - stand
+- - fly
+  - fly
+  - away
+- - hours
+  - pass
+  - until
+- - several
+  - hours
+  - until
+- - simply
+  - stand
+  - here
+- - wasp
+  - zoo
+  - did
+- - may
+  - pass
+  - enter
+- - zoo
+  - halt
+  - who
+- - hours
+  - until
+  - such
+- - halt
+  - who
+  - goes
+- - bursts
+  - into
+  - thunderous
+- - into
+  - thunderous
+  - applause
 story:
   date: 2017-02-17
   id: 2017-02-17-drama

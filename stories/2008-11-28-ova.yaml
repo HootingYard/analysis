@@ -1,13 +1,19 @@
 ngrams:
+- - george
+  - orwell's
+  - diaries
 - - franz
   - kafka
   - exciting
 - - kafka
   - exciting
   - update
+- - clearly
+  - orwell's
+  - diary
 - - eggs
   - clearly
-  - orwell
+  - orwell's
 - - book
   - alfred
   - hitchcock
@@ -23,6 +29,9 @@ ngrams:
 - - egg
   - two
   - eggs
+- - two
+  - eggs
+  - clearly
 story:
   date: 2008-11-28
   id: 2008-11-28-ova
@@ -36,4 +45,4 @@ story:
     \ a quotation from \u201CThe Dairies Of Franz Kafka\u201D.\nEXCITING UPDATE!\_\
     : 29.11.38 One egg."
   title: Ova
-word_count: 96
+word_count: 94

@@ -17,24 +17,15 @@ ngrams:
 - - strangulated
   - choking
   - perfectly
-- - supremo
-  - ed
-  - baxter
-- - resonance
-  - supremo
-  - ed
-- - outa
-  - spaceman
-  - describes
 - - ed
   - baxter
   - calling
-- - resonance
-  - fm
-  - broadcast
 - - baxter
   - calling
   - terrific
+- - resonance
+  - fm
+  - broadcast
 - - blog
   - postage
   - recounting
@@ -44,6 +35,66 @@ ngrams:
 - - fire
   - hang
   - washing
+- - key
+  - caucasian
+  - lullaby
+- - air
+  - familiar
+  - strains
+- - lullaby
+  - fades
+  - again
+- - oh
+  - god
+  - intones
+- - spluttering
+  - oh
+  - god
+- - last
+  - gasp
+  - caucasian
+- - air
+  - write
+  - email
+- - lullaby
+  - cuts
+  - back
+- - mr
+  - key
+  - resumes
+- - congratulate
+  - mr
+  - key
+- - mr
+  - key
+  - caucasian
+- - gulped
+  - down
+  - water
+- - did
+  - indeed
+  - manage
+- - distressingly
+  - long
+  - time
+- - fade
+  - into
+  - horrific
+- - into
+  - horrific
+  - coughing
+- - lullaby
+  - fade
+  - into
+- - music
+  - back
+  - up
+- - then
+  - staggered
+  - out
+- - composure
+  - such
+  - are
 story:
   date: 2012-03-23
   id: 2012-03-23-strangulated-hooting
@@ -67,4 +118,4 @@ story:
     \ beginning to the show, Frank!\u201D\nI gulped down water and gradually regained\
     \ my composure. Such are the joys of live radio."
   title: Strangulated Hooting
-word_count: 258
+word_count: 256

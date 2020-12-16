@@ -1,16 +1,22 @@
 ngrams:
-- - letter-jumbles
-  - crams
-  - tern
-- - finest
-  - letter-jumbles
-  - crams
-- - ingredients
-  - tern
-  - equipment
-- - tern
-  - equipment
+- - essential
+  - yuletide
+  - recipe
+- - dish
+  - method
+  - cram
+- - pictorial
+  - guide
+  - ingredients
+- - equipment
   - dish
+  - method
+- - handy
+  - pictorial
+  - guide
+- - christmas
+  - dinner
+  - revisited
 story:
   date: 2014-12-18
   id: 2014-12-18-christmas-dinner-revisited
@@ -20,4 +26,4 @@ story:
     \ a handy pictorial guide:\nIngredients\_: tern\n\nEquipment\_: dish\n\nMethod\_\
     : cram tern in dish. Serve."
   title: Christmas Dinner Revisited
-word_count: 54
+word_count: 53

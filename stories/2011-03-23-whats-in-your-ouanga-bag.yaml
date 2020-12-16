@@ -11,6 +11,9 @@ ngrams:
 - - generation
   - occultist
   - explorer
+- - author's
+  - notebook
+  - appendix
 - - dove
   - hearts
   - mole
@@ -26,6 +29,15 @@ ngrams:
 - - brown
   - sugar
   - mixed
+- - lizard
+  - jaws
+  - squirrel
+- - snake
+  - bones
+  - lizard
+- - bones
+  - lizard
+  - jaws
 story:
   date: 2011-03-23
   id: 2011-03-23-whats-in-your-ouanga-bag
@@ -39,4 +51,4 @@ story:
     \ Generation occultist, explorer, traveller, cannibal, and journalist\u201D, says\
     \ the Wikipedia. Oh, also an alcoholic, a sadist, and a suicide."
   title: What's In Your Ouanga Bag?
-word_count: 111
+word_count: 109

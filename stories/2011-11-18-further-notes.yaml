@@ -1,49 +1,88 @@
 ngrams:
-- - edison
-  - models
-  - elberry
-- - drown
-  - elberry
-  - heroes
 - - gorgeous
   - ornate
   - metalwork
 - - ornate
   - metalwork
   - funnel
-- - metalwork
-  - funnel
-  - elberry
-- - concrete
-  - dredger
-  - barge
 - - coarse
   - sand
   - dredged
-- - dredger
-  - barge
-  - built
-- - alamogordo
-  - test
-  - range
-- - sand
-  - nightly
-  - deployed
 - - industrial
   - dredging
   - machine
 - - sand
   - wrens
   - feathers
-- - conversation
-  - continued
-  - elberry
-- - mighty
-  - concrete
-  - dredger
 - - dredging
   - machine
   - frank
+- - heroes
+  - don't
+  - drown
+- - keep
+  - fit
+  - frank
+- - waste
+  - land
+  - frank
+- - mice
+  - frank
+  - key
+- - fit
+  - frank
+  - key
+- - machine
+  - frank
+  - key
+- - original
+  - design
+  - rather
+- - make
+  - dredging
+  - machines
+- - land
+  - frank
+  - key
+- - frank
+  - key
+  - use
+- - panglossian
+  - sun
+  - before
+- - vasty
+  - deeps
+  - could
+- - vasty
+  - deep
+  - then
+- - deep
+  - then
+  - spread
+- - design
+  - rather
+  - than
+- - before
+  - being
+  - poured
+- - sun
+  - before
+  - being
+- - boost
+  - your
+  - manliness
+- - undoubtedly
+  - boost
+  - your
+- - will
+  - undoubtedly
+  - boost
+- - drown
+  - they
+  - dredge
+- - its
+  - provenance
+  - do
 story:
   date: 2011-11-18
   id: 2011-11-18-further-notes
@@ -65,4 +104,4 @@ story:
     \ deeps is fraught with risk, but will undoubtedly boost your manliness. Or you\
     \ might drown.\nElberry\_: Heroes don't drown, they dredge."
   title: Further Notes
-word_count: 234
+word_count: 231

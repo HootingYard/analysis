@@ -1,19 +1,10 @@
 ngrams:
-- - psychiatrist
-  - tarpin
-  - paltrow
-- - experimental
-  - psychiatrist
-  - tarpin
-- - wild-eyed
-  - brain-sick
-  - patients
+- - citing
+  - lloyd
+  - george's
 - - ribbons
   - elastic
   - bands
-- - reporter
-  - tristan
-  - shuddery
 - - recluse
   - howard
   - hughes
@@ -26,24 +17,174 @@ ngrams:
 - - unspeakable
   - nixon
   - popinjay
-- - tarpin
-  - paltrow
-  - suggested
-- - ectoplasm
-  - moorhens
-  - jasper
-- - moorhens
-  - jasper
-  - straubenzee
 - - frozen
   - peas
   - peas
-- - mass
+- - green
+  - edible
+  - sphere
+- - lloyd
+  - george's
+  - view
+- - student
+  - p
+  - k
+- - green
+  - solid
+  - edible
+- - p
+  - k
+  - spaceman
+- - using
+  - ribbons
+  - elastic
+- - mnemonic
+  - mud
+  - vinegar
+- - pulsating
+  - cranium
+  - according
+- - harness
+  - using
+  - ribbons
+- - bringing
+  - pea
+  - news
+- - body
+  - mass
   - index
-  - rotundity
-- - vinegar
+- - mud
+  - vinegar
   - ectoplasm
-  - moorhens
+- - data
+  - dr
+  - spaceman
+- - sty
+  - watching
+  - pigs
+- - close
+  - friends
+  - reported
+- - paltrow
+  - suggested
+  - doing
+- - latter's
+  - diet
+  - sometimes
+- - pea
+  - news
+  - ask
+- - become
+  - useful
+  - tools
+- - yesterday
+  - dear
+  - frank
+- - halfway
+  - sane
+  - person
+- - received
+  - yesterday
+  - dear
+- - i'd
+  - reprint
+  - part
+- - edible
+  - sphere
+  - called
+- - s
+  - close
+  - friends
+- - they're
+  - small
+  - green
+- - small
+  - green
+  - solid
+- - high
+  - regard
+  - oh
+- - neurasthenic
+  - patients
+  - should
+- - thought
+  - i'd
+  - reprint
+- - patients
+  - should
+  - spend
+- - easily
+  - calculated
+  - take
+- - another
+  - hour
+  - leaning
+- - takes
+  - each
+  - planet
+- - suggested
+  - doing
+  - both
+- - former's
+  - diet
+  - too
+- - yard
+  - reporter
+  - tristan
+- - hotly
+  - debated
+  - ever
+- - little
+  - green
+  - edible
+- - october
+  - see
+  - monday
+- - see
+  - monday
+  - th
+- - debated
+  - ever
+  - since
+- - head
+  - shoe
+  - size
+- - day
+  - shelling
+  - peas
+- - any
+  - halfway
+  - sane
+- - here
+  - they're
+  - small
+- - hour
+  - leaning
+  - over
+- - let
+  - us
+  - sing
+- - ask
+  - any
+  - halfway
+- - roving
+  - hooting
+  - yard
+- - hooting
+  - yard
+  - reporter
+- - news
+  - ask
+  - any
+- - hooting
+  - yard
+  - there's
+- - sane
+  - person
+  - where
+- - they'll
+  - say
+  - hooting
 story:
   date: 2007-10-17
   id: 2007-10-17-pea-news
@@ -85,4 +226,4 @@ story:
     \ them as peas in a pod, not yet shelled by one of Dr Spaceman's wild-eyed brain-sick\
     \ patients. There is no mention of pigs in the poem. Make of that what you will."
   title: Pea News
-word_count: 515
+word_count: 503

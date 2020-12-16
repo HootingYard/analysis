@@ -1,49 +1,79 @@
 ngrams:
-- - luddites
-  - fretful
-  - complaints
 - - fretful
   - complaints
   - drone
-- - vampire
-  - boyfriend
-  - sagas
 - - bang
   - whimper
   - tweet
 - - previously
   - unlettered
   - masses
-- - new-fangled
-  - roman
-  - invention
-- - papyrus
-  - scrolls
-  - feel
 - - sent
   - victorian
   - ladies
 - - revolutions
   - writing
   - novels
-- - scraps
-  - signifying
-  - nothing
 - - churches
   - having
   - revolutions
 - - having
   - revolutions
   - writing
-- - lamentation
-  - heard
-  - across
 - - founding
   - new
   - churches
 - - centuries
   - ever
   - eloquent
+- - aren't
+  - quite
+  - used
+- - themselves
+  - founding
+  - new
+- - dangerous
+  - things
+  - called
+- - things
+  - called
+  - ideas
+- - busy
+  - being
+  - born
+- - spread
+  - those
+  - dangerous
+- - new
+  - churches
+  - having
+- - noble
+  - tradition
+  - now
+- - tradition
+  - now
+  - it's
+- - old
+  - new
+  - technology
+- - those
+  - dangerous
+  - things
+- - did
+  - spread
+  - those
+- - much
+  - better
+  - such
+- - scrolls
+  - were
+  - replaced
+- - victorian
+  - ladies
+  - into
+- - book
+  - why
+  - do
 story:
   date: 2011-03-24
   id: 2011-03-24-bang-whimper-tweet
@@ -64,4 +94,4 @@ story:
     \ Shakespeare to tabloid gossip and vampire boyfriend sagas. Where will it all\
     \ end? Not with a bang or a whimper apparently, but with a tweet."
   title: Bang, Whimper, Tweet
-word_count: 205
+word_count: 203

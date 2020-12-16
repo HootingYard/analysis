@@ -1,10 +1,10 @@
 ngrams:
-- - edmund
-  - gurney
-  - duckworth
 - - neil
   - campbell
-  - australia
+  - australia's
+- - campbell
+  - australia's
+  - demon
 - - gypsy
   - fortune
   - teller
@@ -14,12 +14,6 @@ ngrams:
 - - spectacular
   - parachute
   - descent
-- - long-range
-  - limelight
-  - apparatus
-- - trapeze
-  - artists
-  - smith
 - - included
   - captive
   - baboons
@@ -29,6 +23,9 @@ ngrams:
 - - hailsham
   - trevor
   - h
+- - london's
+  - south
+  - bank
 - - albert
   - smith
   - announced
@@ -41,9 +38,102 @@ ngrams:
 - - met
   - gina
   - lollobrigida
-- - leap
+- - december
+  - george
+  - albert
+- - margaret
+  - met
+  - gina
+- - event
+  - smith
+  - created
+- - princess
+  - margaret
+  - met
+- - trevor
+  - h
+  - hall
+- - lord
+  - hailsham
+  - trevor
+- - following
+  - saturday
+  - augmented
+- - film
+  - academy
+  - invited
+- - national
+  - film
+  - theatre
+- - british
+  - film
+  - academy
+- - miraculously
+  - uninjured
+  - let
+- - demon
+  - still
+  - attached
+- - still
+  - attached
+  - crashed
+- - well
+  - pleasure
+  - gardens
+- - most
+  - popular
+  - amusement
+- - excitement
+  - because
+  - during
+- - us
+  - leap
   - forward
-  - sixty
+- - many
+  - natural
+  - attractions
+- - parachute
+  - descent
+  - after
+- - descent
+  - after
+  - drifting
+- - may
+  - smith
+  - announced
+- - uninjured
+  - let
+  - us
+- - let
+  - us
+  - leap
+- - now
+  - included
+  - captive
+- - attractions
+  - now
+  - included
+- - smith
+  - created
+  - more
+- - addition
+  - among
+  - other
+- - after
+  - drifting
+  - over
+- - among
+  - other
+  - things
+- - into
+  - brighton
+  - cemetery
+- - crashed
+  - into
+  - brighton
+- - may
+  - perhaps
+  - think
 story:
   date: 2014-03-22
   id: 2014-03-22-the-demon-of-the-air
@@ -78,4 +168,4 @@ story:
     \ and was given a picture of the theatre by Lord Hailsham.\nTrevor H. Hall, The\
     \ Strange Case of Edmund Gurney (Duckworth 1964)"
   title: The Demon Of The Air
-word_count: 366
+word_count: 360

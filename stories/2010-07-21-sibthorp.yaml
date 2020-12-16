@@ -1,40 +1,16 @@
 ngrams:
-- - laet
-  - waldo
-  - sibthorp
-- - hypocritical
-  - foreigners
-  - implying
-- - antique
-  - quizzing
-  - glasses
-- - commons
-  - colonel
-  - sibthorp
 - - crashes
   - christopher
   - sykes
 - - railways
   - provided
   - colonel
-- - provided
-  - colonel
-  - sibthorp
 - - wispy
   - beard
   - tall
-- - members
-  - colonel
-  - sibthorp
 - - indignation
   - flourished
   - says
-- - flourished
-  - says
-  - michell
-- - de
-  - laet
-  - waldo
 - - english
   - parliamentary
   - reports
@@ -44,6 +20,174 @@ ngrams:
 - - opinions
   - usually
   - consisting
+- - white
+  - trousers
+  - hoisted
+- - colonel
+  - charles
+  - de
+- - wide
+  - white
+  - trousers
+- - beard
+  - tall
+  - white
+- - trousers
+  - hoisted
+  - high
+- - peculiar
+  - notions
+  - during
+- - born
+  - outside
+  - britain
+- - outside
+  - britain
+  - prince
+- - eyes
+  - queen
+  - victoria
+- - grew
+  - obsessive
+  - during
+- - called
+  - wormwood
+  - prophesied
+- - tall
+  - white
+  - hat
+- - hoisted
+  - high
+  - above
+- - star
+  - called
+  - wormwood
+- - railways
+  - spreading
+  - across
+- - baleful
+  - star
+  - called
+- - spreading
+  - across
+  - holy
+- - across
+  - holy
+  - russia
+- - speeches
+  - against
+  - anything
+- - opposed
+  - every
+  - change
+- - read
+  - english
+  - parliamentary
+- - book
+  - eccentric
+  - lives
+- - splendid
+  - book
+  - eccentric
+- - most
+  - conservative
+  - member
+- - obviously
+  - very
+  - loyal
+- - our
+  - matchless
+  - constitution
+- - fabric
+  - our
+  - matchless
+- - parliament
+  - ever
+  - known
+- - glorious
+  - fabric
+  - our
+- - deluded
+  - individuals
+  - might
+- - ever
+  - known
+  - setting
+- - sanction
+  - any
+  - attempts
+- - innovation
+  - regarding
+  - even
+- - individuals
+  - might
+  - bring
+- - against
+  - anything
+  - new
+- - later
+  - years
+  - beginning
+- - might
+  - bring
+  - forward
+- - sinister
+  - through
+  - having
+- - other
+  - members
+  - colonel
+- - its
+  - present
+  - perfection
+- - terrible
+  - blunder
+  - she
+- - other
+  - familiar
+  - terms
+- - reached
+  - its
+  - present
+- - some
+  - admirable
+  - qualities
+- - cord
+  - distinguished
+  - him
+- - way
+  - sinister
+  - through
+- - idiot
+  - who
+  - proclaimed
+- - christopher
+  - sykes
+  - who
+- - visions
+  - go
+  - like
+- - has
+  - written
+  - affectionately
+- - been
+  - born
+  - outside
+- - abuse
+  - were
+  - greeted
+- - some
+  - way
+  - sinister
+- - written
+  - affectionately
+  - about
+- - find
+  - their
+  - visions
+- - having
+  - been
+  - born
 story:
   date: 2010-07-21
   id: 2010-07-21-sibthorp
@@ -90,4 +234,4 @@ story:
     \ of railways spreading across holy Russia was the baleful \u2018star called Wormwood\u2019\
     \ prophesied in the Book of Revelation.\u201D"
   title: Sibthorp
-word_count: 506
+word_count: 505

@@ -1,31 +1,43 @@
 ngrams:
-- - umbel
-  - vainglory
-  - whaler
-- - whaler
-  - xyster
-  - yellowhammer
-- - vainglory
-  - whaler
-  - xyster
 - - emphysema
   - fiddlesticks
   - gymnasium
-- - quetzalcoatl
-  - rotogravure
-  - spuds
-- - spuds
-  - tweak
-  - umbel
-- - tweak
-  - umbel
-  - vainglory
-- - rotogravure
-  - spuds
-  - tweak
 - - fiddlesticks
   - gymnasium
   - hod
+- - dinghy
+  - emphysema
+  - fiddlesticks
+- - kohlrabi
+  - lumps
+  - meringue
+- - lumps
+  - meringue
+  - nipper
+- - alphabet
+  - ankle
+  - bludgeon
+- - gymnasium
+  - hod
+  - ink
+- - jam
+  - kohlrabi
+  - lumps
+- - ink
+  - jam
+  - kohlrabi
+- - hod
+  - ink
+  - jam
+- - gigantic
+  - oil
+  - paintings
+- - cranium
+  - however
+  - here
+- - particular
+  - reason
+  - other
 story:
   date: 2010-05-13
   id: 2010-05-13-alphabet
@@ -52,4 +64,4 @@ story:
     the paints have not been bought. But the turps! The turps! The turps is in its
     bottle, at the ready.'
   title: Alphabet
-word_count: 108
+word_count: 106

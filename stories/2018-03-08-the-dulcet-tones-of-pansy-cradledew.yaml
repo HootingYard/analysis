@@ -1,16 +1,22 @@
 ngrams:
-- - glubb
-  - nan
-  - kew
-- - maud
-  - glubb
-  - nan
-- - nan
-  - kew
-  - dot
-- - kew
-  - dot
-  - tint
+- - dulcet
+  - tones
+  - here
+- - international
+  - women's
+  - day
+- - week's
+  - hooting
+  - yard
+- - hooting
+  - yard
+  - listen
+- - reading
+  - stories
+  - about
+- - this
+  - week's
+  - hooting
 story:
   date: 2018-03-08
   id: 2018-03-08-the-dulcet-tones-of-pansy-cradledew
@@ -19,4 +25,4 @@ story:
     Maud Glubb, Nan Kew, Dot Tint & the other women of Hooting Yard. Listen to Pansy's
     dulcet tones here.
   title: The Dulcet Tones Of Pansy Cradledew
-word_count: 52
+word_count: 48

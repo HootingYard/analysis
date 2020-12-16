@@ -1,19 +1,25 @@
 ngrams:
-- - fifties
-  - finnish
-  - fairground
 - - fairground
   - fun
   - luna
 - - finnish
   - fairground
   - fun
-- - bees
-  - oswell
-  - blakeston
 - - fun
   - luna
   - park
+- - people
+  - are
+  - attacked
+- - sun
+  - at
+  - midnight
+- - attacked
+  - by
+  - bees
+- - granite
+  - outcrop
+  - with
 story:
   date: 2011-10-12
   id: 2011-10-12-fifties-finnish-fairground-fun

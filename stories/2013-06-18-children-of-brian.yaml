@@ -1,28 +1,10 @@
 ngrams:
-- - bbq
-  - grill
-  - menthol
-- - indoor
-  - bbq
-  - grill
-- - medicinal
-  - indoor
-  - bbq
 - - aircraft
   - carriers
   - submarines
-- - egyptian
-  - artefacts
-  - hawaiian
-- - tabernacles
-  - egyptian
-  - artefacts
 - - dolphins
   - caribou
   - fur
-- - artefacts
-  - hawaiian
-  - islands
 - - islands
   - dolphins
   - caribou
@@ -32,6 +14,39 @@ ngrams:
 - - carriers
   - submarines
   - solar
+- - grill
+  - menthol
+  - pies
+- - fuels
+  - artificial
+  - muscles
+- - instruments
+  - synthetic
+  - oils
+- - submarines
+  - solar
+  - web
+- - headings
+  - computer
+  - cybernetics
+- - muscles
+  - jump
+  - soldiers
+- - jumpers
+  - rogue
+  - waves
+- - caribou
+  - fur
+  - insects
+- - insects
+  - medicinal
+  - indoor
+- - artificial
+  - muscles
+  - jump
+- - fur
+  - insects
+  - medicinal
 story:
   date: 2013-06-18
   id: 2013-06-18-children-of-brian
@@ -49,4 +64,4 @@ story:
     \ FIGHTER\n  MURDER BY SLANDER\n  THE PAPACY\n  SPACE PROGRAMS\nGot all that?\
     \ Further details, should you require them, here."
   title: "Children Of \u201CBrian\u201D"
-word_count: 134
+word_count: 132

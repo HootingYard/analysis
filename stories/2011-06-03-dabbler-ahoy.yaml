@@ -1,13 +1,19 @@
 ngrams:
-- - part
-  - loathes
-  - talking
-- - most
-  - part
-  - loathes
 - - dabbler
   - this
   - week
+- - this
+  - week
+  - read
+- - not
+  - best
+  - placed
+- - perhaps
+  - not
+  - best
+- - dabbler
+  - ahoy
+  - as
 story:
   date: 2011-06-03
   id: 2011-06-03-dabbler-ahoy
@@ -17,4 +23,4 @@ story:
     not best placed to advise on telephone etiquette. That is, however, the subject
     I address in Key''s Cupboard at The Dabbler this week. Read and learn.'
   title: Dabbler Ahoy!
-word_count: 44
+word_count: 43

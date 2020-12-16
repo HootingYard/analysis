@@ -23,6 +23,9 @@ ngrams:
 - - miss
   - stein
   - likes
+- - miss
+  - stein's
+  - mood
 - - literature
   - miss
   - stein
@@ -32,6 +35,9 @@ ngrams:
 - - anthony
   - trollope
   - neither
+- - cow
+  - doesn't
+  - seem
 - - interesting
   - people
   - organise
@@ -44,6 +50,21 @@ ngrams:
 - - excellent
   - new
   - blog
+- - two
+  - ladies
+  - drive
+- - routines
+  - how
+  - writers
+- - how
+  - writers
+  - artists
+- - daily
+  - routines
+  - how
+- - trollope
+  - neither
+  - dobson
 story:
   date: 2008-12-17
   id: 2008-12-17-cows-and-literature
@@ -61,4 +82,4 @@ story:
     \ Emily Dickinson, Charles Darwin, and Anthony Trollope. Neither Dobson nor Pebblehead\
     \ has yet been attended to, and I may have to deal with those two titans myself."
   title: Cows And Literature
-word_count: 184
+word_count: 182

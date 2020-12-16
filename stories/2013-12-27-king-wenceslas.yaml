@@ -1,13 +1,19 @@
 ngrams:
-- - super
-  - soaraway
-  - dabbler
 - - traditional
   - christmas
   - story
 - - king
   - wenceslas
   - over
+- - wenceslas
+  - over
+  - at
+- - dabbler
+  - there
+  - is
+- - christmas
+  - story
+  - in
 story:
   date: 2013-12-27
   id: 2013-12-27-king-wenceslas
@@ -16,4 +22,4 @@ story:
     Over at the super soaraway Dabbler there is a traditional Christmas story in Key''s
     cupboard.'
   title: King Wenceslas
-word_count: 18
+word_count: 17

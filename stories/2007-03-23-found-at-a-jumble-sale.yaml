@@ -1,25 +1,4 @@
 ngrams:
-- - alenda
-  - lux
-  - ubi
-- - lux
-  - ubi
-  - orta
-- - ubi
-  - orta
-  - libertas
-- - knock-kneed
-  - tremblement
-  - sourness
-- - dag
-  - alenda
-  - lux
-- - confronting
-  - head-on
-  - conundrums
-- - dag
-  - hammarskj
-  - ld
 - - implacability
   - tartness
   - muscular
@@ -29,21 +8,99 @@ ngrams:
 - - tartness
   - muscular
   - bounding
-- - vibrant
-  - pluckety-pluck
-  - rhythms
 - - atmosphere
   - implacability
   - tartness
 - - muscular
   - bounding
   - strides
-- - criminally
-  - overlooked
-  - versifier
-- - tremblement
-  - sourness
+- - gargantuan
+  - ambition
+  - deliberately
+- - ambition
+  - deliberately
+  - blurred
+- - windswept
+  - atmosphere
+  - implacability
+- - sourness
   - decisively
+  - windswept
+- - libertas
+  - i've
+  - reserved
+- - decisively
+  - windswept
+  - atmosphere
+- - rhythms
+  - massive
+  - resonance
+- - plane
+  - crash
+  - september
+- - deliberately
+  - blurred
+  - vision
+- - forgotten
+  - publications
+  - sees
+- - massive
+  - resonance
+  - reach
+- - considers
+  - titanic
+  - works
+- - particularly
+  - fatuous
+  - accusation
+- - flourish
+  - o
+  - dag
+- - you've
+  - got
+  - meningitis
+- - jumble
+  - sale
+  - last
+- - pages
+  - each
+  - printed
+- - toffee
+  - apple
+  - well
+- - these
+  - forgotten
+  - publications
+- - sale
+  - last
+  - week
+- - begins
+  - oh
+  - how
+- - oh
+  - how
+  - dark
+- - odd
+  - gem
+  - such
+- - early
+  - s
+  - here
+- - its
+  - wonderfully
+  - evocative
+- - requiem
+  - mass
+  - who
+- - mass
+  - who
+  - else
+- - lines
+  - like
+  - these
+- - your
+  - requiem
+  - mass
 story:
   date: 2007-03-23
   id: 2007-03-23-found-at-a-jumble-sale
@@ -69,4 +126,4 @@ story:
     \ with this Beerpintian flourish:\nO Dag! Alenda lux ubi orta libertas / I've\
     \ reserved a pew at your Requiem Mass\nWho else could have written that?"
   title: Found At A Jumble Sale
-word_count: 274
+word_count: 272

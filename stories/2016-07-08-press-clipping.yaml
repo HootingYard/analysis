@@ -8,9 +8,6 @@ ngrams:
 - - tony
   - mann
   - director
-- - maths
-  - centre
-  - university
 - - higher
   - education
   - tony
@@ -26,6 +23,24 @@ ngrams:
 - - dabbler
   - kindle
   - edition
+- - brief
+  - lives
+  - constable
+- - potted
+  - brief
+  - brief
+- - reader
+  - dabbler
+  - kindle
+- - brief
+  - brief
+  - lives
+- - week's
+  - times
+  - higher
+- - times
+  - higher
+  - education
 story:
   date: 2016-07-08
   id: 2016-07-08-press-clipping
@@ -40,4 +55,4 @@ story:
     \ and the \u2018fictional athlete\u2019 Bobnit Tivol, are unsettling, vaguely\
     \ sinister and very funny.\u201D\nClearly a very sensible Mann."
   title: Press Clipping
-word_count: 116
+word_count: 113

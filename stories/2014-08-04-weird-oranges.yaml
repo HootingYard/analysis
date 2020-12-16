@@ -1,7 +1,4 @@
 ngrams:
-- - synthetic
-  - fibre
-  - fastened
 - - stationery
   - staples
   - impacted
@@ -17,18 +14,12 @@ ngrams:
 - - buying
   - weird
   - oranges
-- - red
-  - synthetic
-  - fibre
 - - eight
   - standard
   - stationery
 - - carrying
   - weird
   - oranges
-- - usual
-  - bench
-  - anent
 - - impacted
   - together
   - laterally
@@ -44,6 +35,135 @@ ngrams:
 - - weird
   - oranges
   - instead
+- - weird
+  - oranges
+  - instead
+- - succeeded
+  - anyway
+  - since
+- - weird
+  - ones
+  - instead
+- - damnable
+  - pointy
+  - hills
+- - net
+  - itself
+  - god
+- - hardly
+  - matters
+  - does
+- - itself
+  - god
+  - knows
+- - say
+  - eight
+  - standard
+- - few
+  - yards
+  - along
+- - hills
+  - those
+  - damnable
+- - those
+  - damnable
+  - pointy
+- - railway
+  - sidings
+  - up
+- - coaxed
+  - into
+  - buying
+- - into
+  - buying
+  - weird
+- - get
+  - 'no'
+  - purchase
+- - fingers
+  - were
+  - red
+- - hands
+  - were
+  - shaking
+- - god
+  - knows
+  - what
+- - curious
+  - thing
+  - about
+- - so
+  - plainly
+  - abortive
+- - plan
+  - probably
+  - would
+- - weird
+  - wolf
+  - so
+- - were
+  - snaffled
+  - before
+- - said
+  - dinky
+  - about
+- - could
+  - get
+  - 'no'
+- - sidings
+  - up
+  - into
+- - been
+  - coaxed
+  - into
+- - aim
+  - or
+  - purpose
+- - gave
+  - up
+  - when
+- - net
+  - spun
+  - from
+- - bench
+  - panting
+  - from
+- - park
+  - bench
+  - from
+- - perception
+  - arriving
+  - at
+- - have
+  - succeeded
+  - anyway
+- - without
+  - aim
+  - or
+- - they
+  - were
+  - snaffled
+- - weird
+  - they
+  - were
+- - net
+  - contained
+  - by
+- - idea
+  - but
+  - nor
+- - or
+  - purpose
+  - through
+- - say
+  - bag
+  - but
+- - day's
+  - end
+  - by
+- - they
+  - were
+  - though
 story:
   date: 2014-08-04
   id: 2014-08-04-weird-oranges
@@ -78,4 +198,4 @@ story:
     \ before the day's end, by a wolf. It was a weird wolf, so at least there was\
     \ some kind of neatness to what was otherwise a most jambly-jumbly day."
   title: Weird Oranges
-word_count: 447
+word_count: 445

@@ -1,7 +1,4 @@
 ngrams:
-- - performs
-  - bertolt
-  - brecht
 - - bowie
   - performs
   - bertolt
@@ -11,6 +8,15 @@ ngrams:
 - - rights
   - r
   - should
+- - by
+  - rights
+  - r
+- - r
+  - should
+  - have
+- - should
+  - have
+  - stood
 story:
   date: 2010-09-28
   id: 2010-09-28-r
@@ -19,4 +25,4 @@ story:
     \ rights, R should have stood for R, Hooting Yard's indefatigable anagrammatist-commenter.\
     \ No doubt he is hard at work on an anagram as I write. But an anagram of what?"
   title: R
-word_count: 55
+word_count: 53

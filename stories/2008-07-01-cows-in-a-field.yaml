@@ -1,10 +1,4 @@
 ngrams:
-- - seagull
-  - outboard
-  - motors
-- - british
-  - seagull
-  - outboard
 - - researching
   - british
   - seagull
@@ -14,9 +8,6 @@ ngrams:
 - - family
   - group
   - walking
-- - print
-  - outaspaceman
-  - enclosed
 - - exciting
   - letter
   - arrives
@@ -26,12 +17,36 @@ ngrams:
 - - while
   - researching
   - british
-- - don
-  - t
+- - read
+  - dobson's
+  - pamphlet
+- - dobson's
+  - pamphlet
+  - how
+- - don't
   - know
-- - their
-  - collective
-  - yokes
+  - why
+- - yard
+  - then
+  - yesterday
+- - much
+  - more
+  - quickly
+- - move
+  - much
+  - more
+- - yourself
+  - when
+  - encountering
+- - conduct
+  - yourself
+  - when
+- - should
+  - rise
+  - up
+- - hooting
+  - yard
+  - then
 story:
   date: 2008-07-01
   id: 2008-07-01-cows-in-a-field
@@ -51,4 +66,4 @@ story:
 
     '
   title: Cows In A Field
-word_count: 135
+word_count: 133

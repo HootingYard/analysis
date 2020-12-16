@@ -1,13 +1,19 @@
 ngrams:
-- - sickbags
-  - eight
-  - tufts
-- - bindweed
-  - seven
-  - mordant
 - - seven
   - mordant
   - herons
+- - mordant
+  - herons
+  - six
+- - herons
+  - six
+  - hideous
+- - hideous
+  - bat
+  - gods
+- - six
+  - hideous
+  - bat
 story:
   date: 2012-01-02
   id: 2012-01-02-the-twelve-days-day-nine

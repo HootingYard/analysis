@@ -11,6 +11,12 @@ ngrams:
 - - catholic
   - radio
   - station
+- - radio
+  - station
+  - radio
+- - man
+  - admits
+  - putting
 story:
   date: 2013-04-05
   id: 2013-04-05-italian-poisoning-cases-no-1
@@ -21,4 +27,4 @@ story:
 
     from today''s Grauniad'
   title: Italian Poisoning Cases, No. 1
-word_count: 54
+word_count: 52

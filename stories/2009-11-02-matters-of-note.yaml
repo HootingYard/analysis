@@ -14,12 +14,6 @@ ngrams:
 - - headline
   - suggests
   - news
-- - semi-transparent
-  - sea
-  - monster
-- - hideous
-  - semi-transparent
-  - sea
 - - own
   - dobsonian
   - telescope
@@ -44,6 +38,48 @@ ngrams:
 - - write
   - two
   - unrelated
+- - note
+  - two
+  - unrelated
+- - news
+  - headline
+  - even
+- - another
+  - dobson
+  - entirely
+- - dobson
+  - entirely
+  - still
+- - creator
+  - might
+  - every
+- - fishing
+  - trawler
+  - has
+- - three
+  - years
+  - old
+- - though
+  - having
+  - said
+- - your
+  - dobsonian
+  - telescope
+- - only
+  - three
+  - years
+- - am
+  - quite
+  - clear
+- - its
+  - creator
+  - might
+- - then
+  - though
+  - having
+- - headline
+  - even
+  - then
 story:
   date: 2009-11-02
   id: 2009-11-02-matters-of-note

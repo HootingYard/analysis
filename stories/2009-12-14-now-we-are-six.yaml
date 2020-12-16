@@ -1,7 +1,4 @@
 ngrams:
-- - tonstant
-  - weader
-  - fwowed
 - - yorker
   - dorothy
   - parker
@@ -11,36 +8,60 @@ ngrams:
 - - constant
   - reader
   - column
-- - parker
-  - wrote
-  - immortally
 - - dorothy
   - parker
   - wrote
 - - began
   - tumbling
   - forth
-- - however
-  - regular
-  - postages
-- - december
-  - however
-  - regular
 - - th
   - december
   - however
+- - december
+  - however
+  - regular
 - - around
   - haemoglobin
   - towers
 - - present
   - case
   - literally
-- - pea-sized
-  - yet
-  - pulsating
 - - brain
   - began
   - tumbling
+- - pulsating
+  - brain
+  - began
+- - case
+  - literally
+  - 'true'
+- - new
+  - yorker
+  - dorothy
+- - occasional
+  - hiatus
+  - many
+- - hiatus
+  - many
+  - thanks
+- - yet
+  - pulsating
+  - brain
+- - thus
+  - telling
+  - us
+- - yard
+  - website
+  - came
+- - hooting
+  - yard
+  - website
+- - her
+  - constant
+  - reader
+- - hooting
+  - yard
+  - presence
 story:
   date: 2009-12-14
   id: 2009-12-14-now-we-are-six
@@ -59,4 +80,4 @@ story:
     \ lanes in and around Haemoglobin Towers and Bodger's Spinney for your support\
     \ and enthusiasm."
   title: Now We Are Six
-word_count: 177
+word_count: 175

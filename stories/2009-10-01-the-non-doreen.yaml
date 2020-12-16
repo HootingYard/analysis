@@ -1,31 +1,43 @@
 ngrams:
+- - infant's
+  - lit
+  - cigarillo
 - - bakelite
   - prize
   - ashtray
-- - non-doreen
-  - outa
-  - spaceman
-- - outa
-  - spaceman
-  - rightly
+- - heroic
+  - infant's
+  - lit
 - - spaceman
   - rightly
   - calls
 - - prize
   - ashtray
   - behind
-- - tot
-  - called
-  - doreen
-- - called
-  - doreen
-  - note
 - - plucky
   - little
   - fascist
 - - tiny
   - enid
   - readers
+- - accounts
+  - given
+  - here
+- - than
+  - tiny
+  - enid
+- - been
+  - innumerable
+  - attempts
+- - what
+  - we're
+  - talking
+- - we're
+  - talking
+  - about
+- - rightly
+  - calls
+  - into
 story:
   date: 2009-10-01
   id: 2009-10-01-the-non-doreen
@@ -38,4 +50,4 @@ story:
     \ to rewrite the true history of Tiny Enid. Readers are advised to rely solely\
     \ on the accounts given here. We know what we're talking about at Hooting Yard."
   title: The Non-Doreen
-word_count: 108
+word_count: 106

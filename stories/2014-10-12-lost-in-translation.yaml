@@ -1,28 +1,10 @@
 ngrams:
-- - ser
-  - jorah
-  - mormont
-- - jorah
-  - mormont
-  - iain
-- - mormont
-  - iain
-  - glen
 - - danish
   - television
   - dramas
-- - saying
-  - takk
-  - thank
-- - forever
-  - saying
-  - takk
 - - watching
   - danish
   - television
-- - whole
-  - horse-heart
-  - raw
 - - barbaric
   - race
   - whose
@@ -44,6 +26,60 @@ ngrams:
 - - television
   - dramas
   - such
+- - worth
+  - fretting
+  - about
+- - when
+  - danish
+  - dramas
+- - when
+  - watching
+  - danish
+- - struck
+  - when
+  - watching
+- - proper
+  - quandary
+  - if
+- - myself
+  - fretting
+  - about
+- - fretting
+  - about
+  - things
+- - fretting
+  - about
+  - yet
+- - sense
+  - tells
+  - me
+- - heaven's
+  - name
+  - will
+- - danish
+  - dramas
+  - are
+- - dramas
+  - are
+  - shown
+- - characters
+  - are
+  - forever
+- - are
+  - forever
+  - saying
+- - about
+  - yet
+  - still
+- - which
+  - common
+  - sense
+- - series
+  - are
+  - making
+- - things
+  - which
+  - common
 story:
   date: 2014-10-12
   id: 2014-10-12-lost-in-translation
@@ -65,4 +101,4 @@ story:
     \ to be sure, a proper quandary, if an idiotic one.\n\nThe Khaleesi eating a raw\
     \ horse-heart for breakfast"
   title: Lost In Translation
-word_count: 222
+word_count: 221

@@ -1,25 +1,37 @@
 ngrams:
-- - des
-  - plaines
-  - illinois
-- - dan
-  - fuchs
-  - unassailable
-- - murderous
-  - semi-aquatic
-  - monsters
-- - suburban
-  - condominium
-  - complex
-- - savage
+- - birds
+  - nothing
+  - freakish
+- - man
+  - whose
+  - job
+- - what
+  - you're
+  - dealing
+- - nothing
+  - freakish
+  - about
+- - are
+  - savage
   - murderous
-  - semi-aquatic
-- - fuchs
-  - unassailable
-  - evidence
-- - reader
-  - dan
-  - fuchs
+- - know
+  - what
+  - you're
+- - right
+  - all
+  - along
+- - swans
+  - are
+  - savage
+- - been
+  - right
+  - all
+- - freak
+  - attack
+  - by
+- - keep
+  - telling
+  - you
 story:
   date: 2012-05-01
   id: 2012-05-01-killer-swans
@@ -31,4 +43,4 @@ story:
     \ of the birds.\nNothing freakish about it, when, like me, you know what you're\
     \ dealing with\u2026 feathered fiends!\n"
   title: Killer Swans!
-word_count: 91
+word_count: 89

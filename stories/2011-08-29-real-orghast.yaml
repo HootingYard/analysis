@@ -1,28 +1,16 @@
 ngrams:
-- - bullorga
-  - ombolom
-  - fror
 - - austin
   - osman
   - spare
+- - phil
+  - baker's
+  - biography
 - - peter
   - brook
   - attempted
-- - real
-  - orghast
-  - according
-- - rayner
-  - heppenstall
-  - towards
-- - called
-  - orghast
-  - effectively
-- - language
-  - called
-  - orghast
-- - fifty
-  - magic
-  - words
+- - s
+  - ted
+  - hughes
 - - another
   - invented
   - language
@@ -44,6 +32,45 @@ ngrams:
 - - two
   - thousand
   - words
+- - darkness
+  - opens
+  - its
+- - never
+  - thought
+  - highly
+- - more
+  - inevitable
+  - relationship
+- - language
+  - where
+  - words
+- - some
+  - two
+  - thousand
+- - 'no'
+  - longer
+  - take
+- - could
+  - 'no'
+  - longer
+- - make
+  - me
+  - learn
+- - first
+  - kissed
+  - me
+- - osman
+  - spare
+  - one
+- - these
+  - only
+  - about
+- - where
+  - words
+  - would
+- - from
+  - phil
+  - baker's
 story:
   date: 2011-08-29
   id: 2011-08-29-real-orghast
@@ -63,4 +90,4 @@ story:
     \ Esperanto (my father had once tried to make me learn it, but when I found the\
     \ word for bird was \u2018birdo\u2019 I could no longer take it seriously)."
   title: Real Orghast
-word_count: 194
+word_count: 193

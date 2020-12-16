@@ -1,10 +1,4 @@
 ngrams:
-- - cunning
-  - piler
-  - thimble
-- - mines
-  - cunning
-  - piler
 - - poem
   - sacred
   - emily
@@ -16,13 +10,19 @@ ngrams:
   - does
 - - perhaps
   - gertrude
-  - stein
+  - stein's
 - - weeds
   - without
   - papers
 - - hen
   - weeds
   - without
+- - gertrude
+  - stein's
+  - most
+- - stein's
+  - most
+  - memorable
 - - most
   - memorable
   - utterance
@@ -35,6 +35,24 @@ ngrams:
 - - very
   - fond
   - including
+- - very
+  - susie
+  - cow
+- - first
+  - rose
+  - being
+- - cows
+  - go
+  - here
+- - about
+  - gertrude
+  - stein
+- - am
+  - very
+  - fond
+- - cow
+  - come
+  - out
 story:
   date: 2010-06-16
   id: 2010-06-16-thimble-of-everything
@@ -50,4 +68,4 @@ story:
     \ websters and mines\u2026 Cunning piler\u2026 Thimble of everything.\nADDENDUM\_\
     : For more about Gertrude Stein and cows, go here."
   title: Thimble Of Everything
-word_count: 145
+word_count: 144

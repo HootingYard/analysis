@@ -1,7 +1,4 @@
 ngrams:
-- - wilfulness
-  - recklessness
-  - fearlessness
 - - recklessness
   - fearlessness
   - bossiness
@@ -11,9 +8,6 @@ ngrams:
 - - fearlessness
   - bossiness
   - violence
-- - percy
-  - grainger
-  - thanks
 - - already
   - learned
   - how
@@ -23,6 +17,24 @@ ngrams:
 - - when
   - cooking
   - vehemence
+- - now
+  - let
+  - us
+- - if
+  - opposed
+  - tendency
+- - food
+  - when
+  - cooking
+- - bossiness
+  - violence
+  - if
+- - burn
+  - food
+  - when
+- - violence
+  - if
+  - opposed
 story:
   date: 2011-07-16
   id: 2011-07-16-rose-grainger
@@ -35,4 +47,4 @@ story:
     \ Recklessness, Fearlessness, Bossiness, Violence If Opposed, Tendency To Burn\
     \ Food When Cooking, Vehemence\u201D\n\nPercy and his Ma"
   title: Rose Grainger
-word_count: 103
+word_count: 102

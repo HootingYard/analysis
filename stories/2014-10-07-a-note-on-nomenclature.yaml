@@ -1,7 +1,4 @@
 ngrams:
-- - beetle-browed
-  - scholars
-  - poring
 - - envisaged
   - somebody
   - spending
@@ -11,6 +8,12 @@ ngrams:
 - - dim
   - dull
   - records
+- - ideal
+  - reader
+  - james
+- - reader
+  - james
+  - joyce
 - - beige
   - cardboard
   - folders
@@ -32,18 +35,168 @@ ngrams:
 - - cardboard
   - graveyard
   - gosh
-- - ideal
-  - reader
-  - james
-- - reader
-  - james
-  - joyce
 - - dead
   - blah
   - blah
-- - reading
+- - since
+  - shortly
+  - afterwards
+- - writing
+  - prose
+  - fiction
+- - can't
+  - actually
+  - recall
+- - blah
+  - blah
+  - should
+- - clearly
+  - also
+  - indebted
+- - recall
+  - reading
+  - somewhere
+- - blah
+  - should
+  - cover
+- - moment
+  - comparing
+  - myself
+- - council
+  - employee
+  - though
+- - actually
+  - recall
+  - today
+- - council
+  - whose
+  - name
+- - these
+  - files
+  - beige
+- - deployed
+  - mr
+  - s
+- - two
+  - names
+  - grabbed
+- - those
+  - personnel
+  - files
+- - reappeared
+  - very
+  - briefly
+- - wholly
+  - approve
+  - after
+- - characters
+  - names
+  - how
+- - remained
+  - ever
+  - since
+- - ever
+  - since
+  - shortly
+- - scholars
+  - poring
+  - over
+- - ever
+  - written
+  - trying
+- - choose
+  - those
+  - names
+- - james
+  - joyce
+  - said
+- - past
+  - employees
+  - those
+- - more
+  - diligent
+  - scholars
+- - do
+  - likewise
+  - laughable
+- - recall
+  - today
+  - where
+- - first
+  - deployed
+  - mr
+- - real
+  - name
+  - after
+- - poring
+  - over
+  - every
+- - epiphany
+  - upon
+  - reading
+- - upon
+  - reading
   - dallas
-  - wiebe
+- - other
+  - concerns
+  - without
+- - through
+  - those
+  - personnel
+- - rummaging
+  - through
+  - those
+- - over
+  - every
+  - word
+- - our
+  - own
+  - work
+- - task
+  - who
+  - knows
+- - take
+  - our
+  - own
+- - those
+  - names
+  - over
+- - your
+  - characters
+  - names
+- - least
+  - some
+  - readers
+- - their
+  - important
+  - research
+- - give
+  - your
+  - characters
+- - diligent
+  - scholars
+  - will
+- - their
+  - life
+  - devoted
+- - yet
+  - been
+  - consigned
+- - them
+  - two
+  - names
+- - employees
+  - those
+  - who
+- - will
+  - also
+  - encounter
+- - hope
+  - work
+  - out
+- - through
+  - them
+  - two
 story:
   date: 2014-10-07
   id: 2014-10-07-a-note-on-nomenclature
@@ -86,4 +239,4 @@ story:
     \ to the beige cardboard graveyard.\nGosh, this is the kind of stuff that will\
     \ have future scholars in ecstasy. I try to be helpful."
   title: A Note On Nomenclature
-word_count: 534
+word_count: 531

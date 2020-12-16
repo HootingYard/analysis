@@ -14,15 +14,9 @@ ngrams:
 - - harangued
   - click
   - listen
-- - apply
-  - bl
-  - tzmann
 - - original
   - broadcast
   - date
-- - bl
-  - tzmann
-  - numbers
 - - broadcast
   - date
   - perhaps
@@ -32,6 +26,30 @@ ngrams:
 - - nor
   - anyone
   - else
+- - anyone
+  - else
+  - thought
+- - direct
+  - link
+  - here
+- - episode
+  - say
+  - instead
+- - celebrate
+  - its
+  - seventh
+- - its
+  - seventh
+  - anniversary
+- - link
+  - here
+  - each
+- - person
+  - could
+  - devote
+- - sensible
+  - person
+  - could
 story:
   date: 2011-03-31
   id: 2011-03-31-for-podpersons
@@ -47,4 +65,4 @@ story:
     \ person could devote a portion of their otherwise worthless life to the creation\
     \ of a numerical index?"
   title: For Podpersons
-word_count: 140
+word_count: 139

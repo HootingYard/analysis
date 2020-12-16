@@ -2,30 +2,12 @@ ngrams:
 - - workers
   - councils
   - committees
-- - resolutions
-  - workers
-  - councils
-- - neighbour
-  - orlando
-  - figgis
-- - dearly
-  - loved
-  - resolutions
-- - downstairs
-  - neighbour
-  - orlando
-- - loved
-  - resolutions
-  - workers
 - - committees
   - monster
   - rallies
 - - councils
   - committees
   - monster
-- - desmond
-  - marjoribanks
-  - editor
 - - large
   - progressive
   - views
@@ -35,9 +17,48 @@ ngrams:
 - - quick
   - character
   - sketch
+- - twin
+  - children
+  - named
 - - wide
   - thin
   - mouth
+- - eyes
+  - positively
+  - glared
+- - blue
+  - eyes
+  - positively
+- - thrown
+  - herself
+  - under
+- - weekly
+  - that's
+  - going
+- - light
+  - blue
+  - eyes
+- - lofty
+  - brow
+  - made
+- - honor
+  - tracy
+  - here
+- - twins
+  - after
+  - reading
+- - has
+  - twin
+  - children
+- - enthusiasm
+  - like
+  - those
+- - torch
+  - some
+  - new
+- - teach
+  - us
+  - all
 story:
   date: 2011-02-06
   id: 2011-02-06-the-editor-his-neighbour-and-the-neighbours-twins
@@ -55,4 +76,4 @@ story:
     \ twin children named Summerskill and Hallucination. I suspect I am going to enjoy\
     \ this book."
   title: The Editor, His Neighbour, And The Neighbour's Twins
-word_count: 165
+word_count: 163

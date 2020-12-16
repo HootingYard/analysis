@@ -1,7 +1,4 @@
 ngrams:
-- - grauniad
-  - trevor
-  - howard
 - - movie
   - brief
   - encounter
@@ -14,6 +11,18 @@ ngrams:
 - - record
   - office
   - files
+- - public
+  - record
+  - office
+- - military
+  - past
+  - parachuting
+- - brave
+  - military
+  - past
+- - death
+  - public
+  - record
 story:
   date: 2008-03-04
   id: 2008-03-04-trevor-howard
@@ -24,4 +33,4 @@ story:
     \ been invalided out of the army and judged to be mentally unstable with a \u201C\
     psychopathic personality\u201D.\n\n\_"
   title: Trevor Howard
-word_count: 66
+word_count: 65

@@ -2,12 +2,18 @@ ngrams:
 - - deadly
   - robert
   - aldrich
-- - technology
-  - mike
-  - hammer
 - - kiss
   - me
   - deadly
+- - me
+  - deadly
+  - robert
+- - answering
+  - machine
+  - as
+- - machine
+  - as
+  - seen
 story:
   date: 2011-01-26
   id: 2011-01-26-the-onward-march-of-technology-mike-hammers-answering-machine
@@ -15,4 +21,4 @@ story:
 
     As seen in Kiss Me Deadly (Robert Aldrich, 1955)'
   title: "The Onward March Of Technology\_: Mike Hammer's Answering Machine"
-word_count: 18
+word_count: 17

@@ -1,25 +1,10 @@
 ngrams:
-- - audley
-  - bowdler
-  - williamson
-- - yours
-  - tim
-  - belp
 - - passionately
   - yours
   - tim
-- - tim
-  - belp
-  - dear
 - - belper
   - railway
   - station
-- - certain
-  - belper
-  - frisson
-- - lovely
-  - derbyshire
-  - town
 - - simple
   - country
   - person
@@ -29,21 +14,63 @@ ngrams:
 - - shiny
   - pointy
   - hat
-- - belper
-  - frisson
-  - well
-- - belp
-  - dear
-  - mr
 - - name
   - means
   - nothing
-- - our
-  - lovely
-  - derbyshire
 - - may
   - nevertheless
   - experience
+- - dear
+  - mr
+  - key
+- - left
+  - our
+  - lovely
+- - belper
+  - since
+  - its
+- - since
+  - its
+  - invention
+- - having
+  - left
+  - our
+- - gets
+  - when
+  - having
+- - when
+  - having
+  - left
+- - man
+  - who
+  - came
+- - errand
+  - one
+  - arrives
+- - excitement
+  - one
+  - gets
+- - one
+  - arrives
+  - back
+- - desk
+  - from
+  - tim
+- - letter
+  - from
+  - belper
+- - belper
+  - what
+  - we
+- - manufactured
+  - by
+  - deb
+- - what
+  - we
+  - call
+- - station
+  - home
+  - at
 story:
   date: 2012-01-16
   id: 2012-01-16-letter-from-belper
@@ -62,4 +89,4 @@ story:
     \ manufactured by Deb Ltd in Belper since its invention by Audley Bowdler Williamson\
     \ in 1947. Passionately yours, Tim Belp."
   title: Letter From Belper
-word_count: 196
+word_count: 195

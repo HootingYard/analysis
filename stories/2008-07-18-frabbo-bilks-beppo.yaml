@@ -1,37 +1,7 @@
 ngrams:
-- - verona
-  - circa
-  - frabbo
-- - frabbo
-  - bilks
-  - beppo
-- - globular
-  - fruits
-  - frabbo
-- - bilks
-  - beppo
-  - beppo
-- - creepers
-  - comes
-  - bilked
-- - simple
-  - exile
-  - frabbo
-- - comes
-  - bilked
-  - beppo
-- - aboard
-  - ship
-  - frabbo
-- - ship
-  - frabbo
-  - considered
 - - fingers
   - monkey
   - acolytes
-- - fruits
-  - frabbo
-  - found
 - - revenge
   - beppo
   - came
@@ -44,6 +14,90 @@ ngrams:
 - - brain
   - became
   - dizzy
+- - world
+  - aboard
+  - ship
+- - walked
+  - away
+  - unscathed
+- - pointy
+  - thing
+  - prodding
+- - hacking
+  - through
+  - fronds
+- - man
+  - versus
+  - monkey
+- - new
+  - world
+  - seeking
+- - new
+  - world
+  - aboard
+- - new
+  - world
+  - meant
+- - monkey
+  - acolytes
+  - do
+- - knots
+  - reminded
+  - him
+- - iron
+  - vest
+  - they
+- - lost
+  - all
+  - reason
+- - vest
+  - they
+  - say
+- - much
+  - blood
+  - will
+- - all
+  - those
+  - skeins
+- - rigging
+  - all
+  - those
+- - an
+  - iron
+  - vest
+- - wore
+  - an
+  - iron
+- - bidding
+  - ah
+  - but
+- - ah
+  - but
+  - hacking
+- - become
+  - entangled
+  - but
+- - became
+  - dizzy
+  - at
+- - hand
+  - at
+  - bilking
+- - dab
+  - hand
+  - at
+- - there
+  - were
+  - dents
+- - thing
+  - prodding
+  - at
+- - but
+  - hacking
+  - through
+- - be
+  - man
+  - versus
 story:
   date: 2008-07-18
   id: 2008-07-18-frabbo-bilks-beppo
@@ -73,4 +127,4 @@ story:
     through fronds and creepers comes bilked Beppo at the head of a clanking platoon.
     It will be man versus monkey, and much blood will be spilt.'
   title: Frabbo Bilks Beppo
-word_count: 268
+word_count: 266

@@ -1,19 +1,28 @@
 ngrams:
-- - gunners
-  - beating
-  - spurs
 - - foxes
   - beating
   - magpies
 - - mind
   - foxes
   - beating
+- - didn't
+  - mind
+  - foxes
 - - saw
   - west
   - ham
-- - lynne
-  - truss
-  - get
+- - pitch
+  - how
+  - sport
+- - owls
+  - being
+  - beaten
+- - found
+  - too
+  - rich
+- - how
+  - sport
+  - took
 story:
   date: 2011-10-02
   id: 2011-10-02-foopball
@@ -23,4 +32,4 @@ story:
     \ the idea of owls being beaten by hammers still affects me to this day.\nLynne\
     \ Truss, Get Her Off The Pitch!\_: How Sport Took Over My Life (2009)"
   title: Foopball
-word_count: 67
+word_count: 66

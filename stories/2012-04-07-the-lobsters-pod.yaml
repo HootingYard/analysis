@@ -1,13 +1,4 @@
-ngrams:
-- - s
-  - tune
-  - conclusion
-- - lobster
-  - s
-  - tune
-- - lobster
-  - s
-  - pod
+ngrams: []
 story:
   date: 2012-04-07
   id: 2012-04-07-the-lobsters-pod
@@ -15,4 +6,4 @@ story:
 
     '
   title: The Lobster's Pod
-word_count: 9
+word_count: 7

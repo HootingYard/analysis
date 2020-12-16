@@ -1,10 +1,4 @@
 ngrams:
-- - er-do-wells
-  - brandishing
-  - whisks
-- - ne
-  - er-do-wells
-  - brandishing
 - - istvan
   - plunkett
   - postage
@@ -16,13 +10,16 @@ ngrams:
   - collection
 - - advent
   - calendar
-  - xiii
+  - today's
+- - calendar
+  - today's
+  - picture
 - - calendars
   - certain
   - persons
-- - advent
-  - calendar
-  - today
+- - today's
+  - picture
+  - however
 - - yard
   - advent
   - calendar
@@ -32,6 +29,24 @@ ngrams:
 - - yard
   - calendars
   - certain
+- - entitled
+  - something
+  - along
+- - hooting
+  - yard
+  - calendars
+- - year's
+  - hooting
+  - yard
+- - hooting
+  - yard
+  - advent
+- - hooting
+  - yard
+  - advent
+- - five
+  - hooting
+  - yard
 story:
   date: 2011-12-13
   id: 2011-12-13-hooting-yard-advent-calendar-xiii
@@ -46,4 +61,4 @@ story:
     \ Istvan Plunkett Postage Stamp Collection. This one shows, according to my notes,\
     \ \u201Ca trio of ne'er-do-wells brandishing whisks and celery\u201D.\n"
   title: Hooting Yard Advent Calendar (xiii)
-word_count: 138
+word_count: 135

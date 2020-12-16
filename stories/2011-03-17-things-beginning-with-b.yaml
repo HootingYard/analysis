@@ -1,40 +1,25 @@
 ngrams:
-- - ill-tempered
-  - prefatory
-  - remarks
-- - learning
-  - puzzled
-  - dobsonists
-- - poptarts
-  - manufacturers
-  - association
-- - smokers
-  - poptarts
-  - manufacturers
+- - vice
+  - president
+  - nixon's
 - - hen
   - coop
   - observer
-- - vice
-  - president
-  - nixon
 - - average
   - hen
   - coop
 - - unlikely
   - learning
   - puzzled
-- - mrs
-  - lachrima
-  - baste
+- - president
+  - nixon's
+  - visit
 - - sickly
   - victorian
   - infant
 - - embarrassing
   - truth
   - facing
-- - aloysius
-  - nestingbird
-  - discovered
 - - victorian
   - infant
   - needs
@@ -44,6 +29,132 @@ ngrams:
 - - chest
   - certain
   - moans
+- - century's
+  - titanic
+  - pamphleteer
+- - titanic
+  - pamphleteer
+  - gets
+- - large
+  - gas
+  - bill
+- - breakfast
+  - food
+  - market
+- - natural
+  - history
+  - entitled
+- - history
+  - entitled
+  - everything
+- - manufacturers
+  - association
+  - came
+- - b
+  - dobson's
+  - pamphlet
+- - eggs
+  - containing
+  - nothing
+- - market
+  - while
+  - admitting
+- - food
+  - market
+  - while
+- - year
+  - until
+  - aloysius
+- - product
+  - dobson
+  - brings
+- - most
+  - thorough
+  - account
+- - pamphlet
+  - things
+  - beginning
+- - breakfast
+  - ever
+  - attempted
+- - money
+  - dobson
+  - received
+- - dobson's
+  - pamphlet
+  - things
+- - breakfast
+  - product
+  - dobson
+- - pamphleteer
+  - gets
+  - 'off'
+- - dobson
+  - next
+  - announces
+- - than
+  - usually
+  - desperate
+- - himself
+  - dobson
+  - sings
+- - fine
+  - imposed
+  - upon
+- - time
+  - newly
+  - introduced
+- - how
+  - much
+  - money
+- - much
+  - money
+  - dobson
+- - known
+  - how
+  - much
+- - man
+  - man
+  - thus
+- - wittering
+  - guff
+  - about
+- - again
+  - who
+  - winkled
+- - about
+  - bees
+  - wasps
+- - grumbles
+  - about
+  - rain
+- - short
+  - paragraph
+  - about
+- - paragraph
+  - about
+  - eggs
+- - about
+  - eggs
+  - containing
+- - more
+  - than
+  - usually
+- - coop
+  - observer
+  - would
+- - nothing
+  - more
+  - than
+- - imposed
+  - upon
+  - him
+- - breakfast
+  - aside
+  - there
+- - know
+  - about
+  - bees
 story:
   date: 2011-03-17
   id: 2011-03-17-things-beginning-with-b
@@ -81,4 +192,4 @@ story:
     \ and not reinstated until the first day of Vice President Nixon's visit to Venezuela,\
     \ as recounted in Six Crises (1962)."
   title: Things Beginning With B
-word_count: 425
+word_count: 421

@@ -1,22 +1,7 @@
 ngrams:
-- - scoresby
-  - pump
-  - goth
-- - proto-dobson
-  - famously
-  - stated
-- - pump
-  - goth
-  - tat
 - - whitby
   - literary
   - philosophical
-- - philosophical
-  - society
-  - pipistrelles
-- - ninety-nine
-  - steps
-  - leading
 - - usual
   - morally
   - uplifting
@@ -26,12 +11,12 @@ ngrams:
 - - steep
   - dark
   - entry
-- - dispatches
-  - regarding
-  - seaside
 - - whitby
   - dr
   - johnson
+- - dispatches
+  - regarding
+  - seaside
 - - dark
   - entry
   - steps
@@ -44,6 +29,87 @@ ngrams:
 - - plies
   - between
   - whitby
+- - train
+  - plies
+  - between
+- - both
+  - dark
+  - entry
+- - arguments
+  - yard
+  - whitby
+- - spot
+  - both
+  - dark
+- - currently
+  - giving
+  - away
+- - dark
+  - entry
+  - yard
+- - much
+  - else
+  - oh
+- - whitby
+  - where
+  - among
+- - more
+  - dispatches
+  - regarding
+- - among
+  - other
+  - yards
+- - entry
+  - steps
+  - can
+- - whitby
+  - goes
+  - some
+- - yet
+  - another
+  - yard
+- - again
+  - now
+  - revivified
+- - crept
+  - over
+  - hooting
+- - few
+  - more
+  - dispatches
+- - can
+  - look
+  - forward
+- - steps
+  - leading
+  - up
+- - other
+  - way
+  - round
+- - over
+  - hooting
+  - yard
+- - goes
+  - some
+  - way
+- - back
+  - again
+  - now
+- - where
+  - among
+  - other
+- - has
+  - crept
+  - over
+- - am
+  - back
+  - again
+- - ruined
+  - abbey
+  - are
+- - railway
+  - station
+  - which
 story:
   date: 2007-08-26
   id: 2007-08-26-whitby
@@ -70,4 +136,4 @@ story:
     \ flipflops sold. On second thoughts, I think I am misremembering that, and it's\
     \ the other way round."
   title: Whitby
-word_count: 298
+word_count: 297

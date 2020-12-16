@@ -1,19 +1,7 @@
 ngrams:
-- - idiocy
-  - begets
-  - inertia
-- - relentless
-  - idiocy
-  - begets
 - - happens
   - relentless
   - idiocy
-- - society
-  - gets
-  - dimmer
-- - gloom
-  - half-blind
-  - calling
 - - blubber
   - candles
   - forward
@@ -26,12 +14,12 @@ ngrams:
 - - w
   - light
   - bulb
-- - dark
-  - ages
-  - give
 - - goat
   - today
   - belatedly
+- - dark
+  - ages
+  - give
 - - bad
   - enough
   - already
@@ -41,6 +29,42 @@ ngrams:
 - - dark
   - ages
   - things
+- - new
+  - criminal
+  - status
+- - new
+  - dark
+  - ages
+- - avoid
+  - ranting
+  - here
+- - mr
+  - key
+  - tries
+- - calling
+  - down
+  - imprecations
+- - dim
+  - mr
+  - key
+- - might
+  - never
+  - stop
+- - what
+  - happens
+  - relentless
+- - down
+  - imprecations
+  - upon
+- - who
+  - still
+  - cling
+- - will
+  - start
+  - shouting
+- - more
+  - ways
+  - than
 story:
   date: 2009-02-02
   id: 2009-02-02-dark-and-dim

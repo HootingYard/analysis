@@ -1,22 +1,7 @@
 ngrams:
-- - oliver
-  - stone-jim
-  - garrison
-- - paranoid
-  - oliver
-  - stone-jim
-- - aerated
-  - celerywater
-  - ludicrously
-- - dj
-  - danny
-  - mccurdy
-- - stone-jim
-  - garrison
-  - theories
-- - celerywater
-  - ludicrously
-  - obsessed
+- - brown's
+  - celery
+  - tonic
 - - celery
   - tonic
   - bugliosi
@@ -29,21 +14,117 @@ ngrams:
 - - russ
   - knight
   - gets
-- - expensive-looking
-  - gold
-  - foil
 - - peculiarly
   - shaped
   - bottle
+- - doctor
+  - brown's
+  - celery
 - - hungry
   - jack
   - tells
-- - together
-  - carefully
-  - documenting
+- - soft
+  - drink
+  - he's
 - - ago
   - bugliosi
   - famed
+- - best
+  - soft
+  - drink
+- - pieces
+  - together
+  - carefully
+- - celery
+  - tonic
+  - also
+- - jack's
+  - big
+  - paper
+- - account
+  - put
+  - ting
+- - asked
+  - whoever
+  - heard
+- - definitive
+  - account
+  - put
+- - paper
+  - sack
+  - full
+- - won
+  - great
+  - respect
+- - primary
+  - sources
+  - yet
+- - big
+  - paper
+  - sack
+- - tonic
+  - also
+  - known
+- - drink
+  - he's
+  - ever
+- - after
+  - russ
+  - knight
+- - knight
+  - gets
+  - back
+- - building
+  - after
+  - russ
+- - see
+  - jack's
+  - big
+- - years
+  - ago
+  - bugliosi
+- - exasperation
+  - why
+  - most
+- - before
+  - whoever
+  - heard
+- - seen
+  - before
+  - whoever
+- - its
+  - peculiarly
+  - shaped
+- - sources
+  - yet
+  - here
+- - normally
+  - get
+  - only
+- - more
+  - pertinent
+  - question
+- - book
+  - such
+  - inaccurate
+- - murders
+  - has
+  - won
+- - jack
+  - tells
+  - them
+- - ever
+  - seen
+  - before
+- - has
+  - won
+  - great
+- - when
+  - ruby
+  - finally
+- - asleep
+  - when
+  - ruby
 story:
   date: 2011-04-03
   id: 2011-04-03-aerated-celerywater
@@ -75,4 +156,4 @@ story:
     \ a soft drink with celery in it would prove so crucial a factor in the Kennedy\
     \ assassination?\u201D"
   title: Aerated Celerywater
-word_count: 351
+word_count: 343

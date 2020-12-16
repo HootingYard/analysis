@@ -2,21 +2,30 @@ ngrams:
 - - shamanic
   - singer
   - poet
-- - favourite
-  - enid
-  - blytmyfire
+- - children's
+  - authors
+  - named
 - - authors
   - named
   - enid
 - - named
   - enid
   - brought
-- - own
-  - favourite
-  - enid
 - - postbox
   - dear
   - mr
+- - yard
+  - postbox
+  - dear
+- - back
+  - happy
+  - memories
+- - enid
+  - brought
+  - back
+- - brought
+  - back
+  - happy
 story:
   date: 2017-08-07
   id: 2017-08-07-another-enid
@@ -27,4 +36,4 @@ story:
     \ and counterculture icon, who is revealed as merely a drug-addled alcoholic who\
     \ dies in a bathtub in Paris?"
   title: Another Enid
-word_count: 73
+word_count: 72

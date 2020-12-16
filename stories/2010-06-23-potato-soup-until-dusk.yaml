@@ -1,16 +1,7 @@
 ngrams:
-- - clergy
-  - nationalised
-  - businesses
 - - american
   - legion
   - disguised
-- - david
-  - aaronovitch
-  - mentions
-- - history
-  - david
-  - aaronovitch
 - - shaping
   - modern
   - history
@@ -20,12 +11,33 @@ ngrams:
 - - russian
   - soldiers
   - took
+- - days
+  - i'm
+  - afraid
 - - soup
   - until
   - dusk
 - - potato
   - soup
   - until
+- - i'm
+  - afraid
+  - though
+- - cafes
+  - before
+  - allowing
+- - progress
+  - meanwhile
+  - here
+- - before
+  - allowing
+  - everyone
+- - few
+  - days
+  - i'm
+- - cranium
+  - these
+  - past
 story:
   date: 2010-06-23
   id: 2010-06-23-potato-soup-until-dusk
@@ -39,4 +51,4 @@ story:
     \ and allowed only potato soup to be served in the cafes, before allowing everyone\
     \ to be liberated from communism at dusk.\u201D"
   title: Potato Soup Until Dusk
-word_count: 111
+word_count: 110

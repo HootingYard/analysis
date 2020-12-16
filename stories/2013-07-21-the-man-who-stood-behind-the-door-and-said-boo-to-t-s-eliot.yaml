@@ -1,17 +1,11 @@
 ngrams:
-- - cockney
-  - matriarch
-  - lou
 - - matriarch
   - lou
   - beale
-- - self-consciously
-  - bohemian
-  - drunkard
-- - one-legged
-  - bachelor
-  - civil
-- - connor
+- - cockney
+  - matriarch
+  - lou
+- - o'connor
   - dabbled
   - interestingly
 - - bachelor
@@ -29,12 +23,15 @@ ngrams:
 - - soap
   - opera
   - eastenders
-- - unconscious
-  - activity
-  - consequent
+- - poet
+  - philip
+  - o'connor
 - - surrealist
   - poet
   - philip
+- - unconscious
+  - activity
+  - consequent
 - - played
   - lou
   - beale
@@ -44,6 +41,108 @@ ngrams:
 - - independent
   - obituary
   - notes
+- - stephen
+  - spender
+  - says
+- - monkeys
+  - feeling
+  - horribly
+- - feeling
+  - horribly
+  - near
+- - t
+  - s
+  - eliot
+- - t
+  - s
+  - eliot
+- - hill
+  - near
+  - dorking
+- - wore
+  - size
+  - boots
+- - box
+  - hill
+  - near
+- - face
+  - already
+  - eroded
+- - write
+  - wonderful
+  - books
+- - sometimes
+  - write
+  - wonderful
+- - small
+  - wooden
+  - hut
+- - great
+  - interest
+  - including
+- - lived
+  - 'off'
+  - doughnuts
+- - smile
+  - never
+  - calm
+- - also
+  - sometimes
+  - write
+- - bond
+  - between
+  - us
+- - interest
+  - including
+  - those
+- - activity
+  - consequent
+  - upon
+- - many
+  - people
+  - knew
+- - read
+  - those
+  - snippets
+- - some
+  - unconscious
+  - activity
+- - am
+  - already
+  - delighted
+- - abandoned
+  - him
+  - twice
+- - who
+  - cockney
+  - matriarch
+- - civil
+  - servant
+  - who
+- - learned
+  - among
+  - other
+- - mother
+  - abandoned
+  - him
+- - servant
+  - who
+  - wore
+- - who
+  - played
+  - lou
+- - actress
+  - who
+  - played
+- - who
+  - wore
+  - size
+- - him
+  - twice
+  - during
+- - s
+  - eliot
+  - who
 story:
   date: 2013-07-21
   id: 2013-07-21-the-man-who-stood-behind-the-door-and-said-boo-to-t-s-eliot
@@ -78,4 +177,4 @@ story:
     \ too, that the Independent obituary notes that O'Connor \u201Cdabbled interestingly\
     \ with chickens\u201D."
   title: "The Man Who Stood Behind The Door And Said \u201CBoo!\u201D To T.S. Eliot"
-word_count: 393
+word_count: 388

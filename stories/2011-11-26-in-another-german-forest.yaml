@@ -8,6 +8,9 @@ ngrams:
 - - trees
   - grew
   - thicker
+- - you'll
+  - get
+  - stuck
 - - another
   - german
   - forest
@@ -17,9 +20,9 @@ ngrams:
 - - feel
   - quite
   - ill
-- - ll
+- - else
+  - you'll
   - get
-  - stuck
 - - grew
   - thicker
   - still
@@ -35,6 +38,24 @@ ngrams:
 - - your
   - compass
   - too
+- - led
+  - me
+  - directly
+- - fence
+  - led
+  - me
+- - hiking
+  - gear
+  - so
+- - german
+  - trees
+  - so
+- - trees
+  - so
+  - thick
+- - gear
+  - so
+  - get
 story:
   date: 2011-11-26
   id: 2011-11-26-in-another-german-forest
@@ -66,4 +87,4 @@ story:
 
     Or else you''ll get stuck in the woods of Woohoohoodiwoo'
   title: In Another German Forest
-word_count: 154
+word_count: 152

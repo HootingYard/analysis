@@ -1,13 +1,19 @@
 ngrams:
-- - intriguingly-named
-  - borte
-  - dearly
-- - borte
-  - dearly
-  - beloved
-- - horse-riding
-  - barbarian
+- - barbarian
   - maniacs
+  - bent
+- - barbarian
+  - maniacs
+  - bent
+- - our
+  - series
+  - devoted
+- - global
+  - domination
+  - 'no'
+- - domination
+  - we
+  - celebrate
 story:
   date: 2015-07-02
   id: 2015-07-02-wives-of-horse-riding-barbarian-maniacs-bent-on-global-domination-no-1

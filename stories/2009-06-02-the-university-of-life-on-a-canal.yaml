@@ -1,37 +1,55 @@
 ngrams:
-- - ruskin
-  - fors
-  - clavigera
-- - lxxv
-  - star
-  - law
-- - bestially
-  - stupid
-  - building
-- - clavigera
-  - letter
-  - lxxv
 - - frosty
   - evening
   - wherein
-- - fors
-  - clavigera
-  - letter
-- - john
-  - ruskin
-  - fors
-- - letter
-  - lxxv
-  - star
 - - home
   - again
-  - aren
-- - next
-  - take
-  - canal
+  - aren't
 - - take
   - canal
   - life
+- - next
+  - take
+  - canal
+- - get
+  - home
+  - again
+- - how
+  - many
+  - messes
+- - some
+  - frosty
+  - evening
+- - canal
+  - then
+  - next
+- - university
+  - education
+  - your
+- - there's
+  - 'no'
+  - god
+- - education
+  - your
+  - present
+- - your
+  - present
+  - system
+- - then
+  - next
+  - take
+- - iron
+  - floor
+  - which
+- - an
+  - iron
+  - floor
+- - aren't
+  - you
+  - john
+- - evening
+  - wherein
+  - you
 story:
   date: 2009-06-02
   id: 2009-06-02-the-university-of-life-on-a-canal
@@ -46,4 +64,4 @@ story:
     \ again, aren't you?\u201D\nJohn Ruskin, Fors Clavigera, Letter LXXV \u201CStar\
     \ Law\u201D (1877)"
   title: The University Of Life, On A Canal
-word_count: 138
+word_count: 136

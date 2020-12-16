@@ -1,22 +1,10 @@
 ngrams:
-- - eider
-  - remprent
-  - scou
-- - fig
-  - eider
-  - remprent
 - - nylon
   - duke
   - behold
 - - root
   - vegetables
   - piled
-- - remprent
-  - scou
-  - binder
-- - scou
-  - binder
-  - ad
 - - binder
   - ad
   - fig
@@ -32,18 +20,75 @@ ngrams:
 - - pulled
   - along
   - flat
-- - great
-  - grey
-  - drayhorses
-- - great
-  - grey
-  - drayhorse
 - - attendants
   - these
   - attendants
 - - enough
   - great
   - grey
+- - potatoes
+  - think
+  - hard
+- - each
+  - stop
+  - along
+- - nylon
+  - every
+  - last
+- - yea
+  - even
+  - unto
+- - every
+  - last
+  - bit
+- - before
+  - being
+  - transferred
+- - cart
+  - before
+  - being
+- - think
+  - hard
+  - before
+- - transferred
+  - into
+  - sacks
+- - goes
+  - some
+  - way
+- - nylon
+  - duke
+  - they
+- - him
+  - yea
+  - even
+- - they
+  - bring
+  - offerings
+- - duke
+  - they
+  - bring
+- - nylon
+  - elsewhere
+  - there
+- - your
+  - potatoes
+  - think
+- - being
+  - transferred
+  - into
+- - tract
+  - which
+  - goes
+- - begrudge
+  - him
+  - your
+- - him
+  - your
+  - potatoes
+- - explaining
+  - this
+  - situation
 story:
   date: 2017-07-05
   id: 2017-07-05-the-nylon-duke
@@ -70,4 +115,4 @@ story:
 
     The Nylon Duke''s given name is Bob.'
   title: The Nylon Duke
-word_count: 243
+word_count: 241

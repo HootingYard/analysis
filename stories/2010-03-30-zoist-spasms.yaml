@@ -1,34 +1,13 @@
 ngrams:
-- - trin
-  - coll
-  - camb
 - - annoyance
   - jealousy
   - quarrels
-- - spasms
-  - spasms
-  - kraempfe
 - - extremities
   - solar
   - plexus
-- - zoist
-  - spasms
-  - spasms
-- - stomach-ache
-  - head-ache
-  - fainting
-- - amorphous
-  - unipolar
-  - bodies
 - - insult
   - grief
   - anxiety
-- - head-ache
-  - fainting
-  - spasm
-- - der
-  - sensitive
-  - mensch
 - - alexander
   - j
   - ellis
@@ -41,9 +20,75 @@ ngrams:
 - - higher
   - degree
   - suffer
-- - mere
-  - odic
-  - atmosphere
+- - mental
+  - exertion
+  - joy
+- - fear
+  - annoyance
+  - jealousy
+- - j
+  - ellis
+  - b
+- - anxiety
+  - fear
+  - annoyance
+- - grief
+  - anxiety
+  - fear
+- - lunar
+  - spectrum
+  - particularly
+- - less
+  - easily
+  - calmed
+- - conduction
+  - whether
+  - immediate
+- - tolerably
+  - similar
+  - course
+- - especially
+  - inclined
+  - many
+- - inclined
+  - many
+  - especially
+- - down
+  - passes
+  - hence
+- - spinal
+  - cord
+  - like
+- - many
+  - especially
+  - those
+- - welfare
+  - 'no'
+  - li
+- - 'no'
+  - li
+  - october
+- - human
+  - welfare
+  - 'no'
+- - motions
+  - they
+  - undoubtedly
+- - depart
+  - naturally
+  - they
+- - they
+  - undoubtedly
+  - belong
+- - fainting
+  - spasm
+  - they
+- - severely
+  - they
+  - form
+- - almost
+  - all
+  - sensitives
 story:
   date: 2010-03-30
   id: 2010-03-30-zoist-spasms
@@ -69,4 +114,4 @@ story:
     \ Cerebral Physiology And Mesmerism, And Their Applications To Human Welfare,\
     \ No. LI., October 1855."
   title: Zoist Spasms
-word_count: 245
+word_count: 244

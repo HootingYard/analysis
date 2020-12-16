@@ -1,34 +1,46 @@
 ngrams:
-- - frontier
-  - bret
-  - harte
 - - ambrose
   - bierce
   - labeled
-- - golden-hearted
-  - dancehall
-  - girls
-- - connor
+- - o'connor
   - ambrose
   - bierce
-- - western
-  - frontier
-  - bret
 - - government
   - payroll
   - bored
+- - bosh
+  - richard
+  - o'connor
+- - richard
+  - o'connor
+  - ambrose
 - - armed
   - robbery
   - assault
 - - murder
   - armed
   - robbery
-- - o
-  - connor
-  - ambrose
-- - richard
-  - o
-  - connor
+- - word
+  - bosh
+  - richard
+- - mark
+  - twain
+  - found
+- - chivalrous
+  - gamblers
+  - just
+- - just
+  - homicidal
+  - psychopaths
+- - dancehall
+  - girls
+  - just
+- - girls
+  - just
+  - pathetic
+- - pioneers
+  - just
+  - men
 story:
   date: 2010-10-29
   id: 2010-10-29-western-bosh
@@ -43,4 +55,4 @@ story:
     \ for a better piece of land. The Western legend was, to use his favourite word,\
     \ bosh.\u201D\nRichard O'Connor, Ambrose Bierce\_: A Biography (1967)"
   title: Western Bosh
-word_count: 120
+word_count: 119

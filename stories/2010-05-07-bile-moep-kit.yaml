@@ -1,28 +1,16 @@
 ngrams:
-- - lembit
-  - pik
-  - meteorite
-- - pik
-  - meteorite
-  - collision
 - - estonian
   - anagram
   - bile
 - - glittering
   - media
   - career
-- - p
-  - kit
-  - presenting
-- - meteorite
-  - collision
-  - show
 - - anagram
   - bile
   - m
-- - lembit
-  - pik
-  - lost
+- - p
+  - kit
+  - presenting
 - - bile
   - m
   - p
@@ -35,6 +23,36 @@ ngrams:
 - - m
   - p
   - kit
+- - meteorite
+  - collision
+  - show
+- - silver
+  - lining
+  - mr
+- - hang
+  - our
+  - heads
+- - babble
+  - let
+  - us
+- - book
+  - o
+  - days
+- - us
+  - take
+  - pause
+- - yard
+  - book
+  - o
+- - let
+  - us
+  - take
+- - fully
+  - expect
+  - him
+- - general
+  - election
+  - has
 story:
   date: 2010-05-07
   id: 2010-05-07-bile-moep-kit

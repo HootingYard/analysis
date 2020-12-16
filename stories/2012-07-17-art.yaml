@@ -1,13 +1,19 @@
 ngrams:
-- - no-longer-quite-so-tinies
-  - upper
-  - ed
 - - ed
   - lower
   - sam
 - - upper
   - ed
   - lower
+- - art
+  - pictures
+  - by
+- - by
+  - my
+  - sons
+- - pictures
+  - by
+  - my
 story:
   date: 2012-07-17
   id: 2012-07-17-art

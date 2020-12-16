@@ -2,12 +2,18 @@ ngrams:
 - - needle
   - jabbed
   - directly
-- - advent
-  - calendar
-  - xiii
 - - avian
   - advent
   - calendar
+- - late
+  - i'm
+  - afraid
+- - day
+  - late
+  - i'm
+- - jabbed
+  - directly
+  - into
 story:
   date: 2016-12-14
   id: 2016-12-14-avian-advent-calendar-xiii
@@ -16,4 +22,4 @@ story:
 
     '
   title: "Avian Advent Calendar\u2014XIII"
-word_count: 25
+word_count: 24

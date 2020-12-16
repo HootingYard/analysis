@@ -1,34 +1,16 @@
 ngrams:
-- - beatnik
-  - persona
-  - daddy-o
-- - concerned
-  - beerpint-watcher
-  - suspects
 - - sincerely
   - sobbing
   - heap
 - - cultural
   - fads
   - poet
-- - finest
-  - peewit-related
-  - poem
 - - polo
   - neck
   - sweater
 - - fads
   - poet
   - dennis
-- - knowing
-  - dennis
-  - beerpint
-- - poet
-  - dennis
-  - beerpint
-- - dennis
-  - beerpint
-  - writes
 - - jet
   - black
   - polo
@@ -41,6 +23,48 @@ ngrams:
 - - least
   - mildly
   - diverting
+- - hot
+  - air
+  - balloon
+- - new
+  - beatnik
+  - persona
+- - very
+  - least
+  - mildly
+- - work
+  - has
+  - reduced
+- - us
+  - who
+  - follow
+- - about
+  - town
+  - sporting
+- - howl
+  - will
+  - probably
+- - seen
+  - about
+  - town
+- - has
+  - been
+  - seen
+- - has
+  - reduced
+  - me
+- - been
+  - seen
+  - about
+- - called
+  - bleat
+  - or
+- - be
+  - incorrigibly
+  - twee
+- - often
+  - fatuous
+  - at
 story:
   date: 2009-02-20
   id: 2009-02-20-beatnik-beerpint
@@ -59,4 +83,4 @@ story:
     \ very least mildly diverting in a Beerpinty way for those of us who follow his\
     \ doings."
   title: Beatnik Beerpint
-word_count: 179
+word_count: 178

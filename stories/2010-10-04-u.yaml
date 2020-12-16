@@ -1,16 +1,4 @@
 ngrams:
-- - hand-writing
-  - gourou
-  - jim
-- - gourou
-  - jim
-  - pock
-- - hand-writing
-  - jim
-  - pock
-- - visionariness
-  - jim
-  - pock
 - - fanu
   - jim
   - pock
@@ -23,15 +11,21 @@ ngrams:
 - - offensive
   - jim
   - pock
-- - visionary
-  - visionariness
-  - jim
 - - tet
   - offensive
   - jim
 - - j
   - sheridan
   - le
+- - t
+  - m
+  - u
+- - m
+  - u
+  - th
+- - t
+  - t
+  - m
 - - transfigured
   - somehow
   - onto
@@ -41,9 +35,198 @@ ngrams:
 - - th
   - n
   - mentally
-- - m
-  - u
-  - th
+- - monkey
+  - t
+  - t
+- - certain
+  - idiosyncratic
+  - spellings
+- - less
+  - abstruse
+  - matters
+- - striving
+  - however
+  - blindly
+- - heart
+  - almost
+  - bursts
+- - jim
+  - pock
+  - himself
+- - towards
+  - less
+  - abstruse
+- - unbutton
+  - studies
+  - around
+- - pretty
+  - good
+  - description
+- - generic
+  - term
+  - because
+- - however
+  - blindly
+  - towards
+- - became
+  - rattled
+  - once
+- - filled
+  - while
+  - studying
+- - pock
+  - himself
+  - knew
+- - brain
+  - towards
+  - less
+- - actually
+  - forgotten
+  - most
+- - truffles
+  - looking
+  - back
+- - scribbled
+  - page
+  - after
+- - made
+  - diligently
+  - during
+- - himself
+  - knew
+  - nothing
+- - abstruse
+  - matters
+  - only
+- - page
+  - after
+  - page
+- - clues
+  - like
+  - hogs
+- - devotees
+  - aside
+  - like
+- - grand
+  - pronouncements
+  - upon
+- - aside
+  - like
+  - flies
+- - never
+  - explained
+  - why
+- - unbutton
+  - come
+  - back
+- - unbutton
+  - could
+  - lead
+- - growing
+  - more
+  - florid
+- - countenance
+  - growing
+  - more
+- - upon
+  - certain
+  - idiosyncratic
+- - second
+  - upon
+  - certain
+- - could
+  - lead
+  - us
+- - matters
+  - only
+  - now
+- - fact
+  - every
+  - time
+- - into
+  - realms
+  - undreamed
+- - just
+  - how
+  - much
+- - been
+  - sure
+  - whether
+- - knew
+  - nothing
+  - about
+- - years
+  - later
+  - has
+- - jim
+  - pock
+  - would
+- - us
+  - into
+  - realms
+- - unbutton
+  - are
+  - unreadable
+- - lead
+  - us
+  - into
+- - notebooks
+  - are
+  - stuffed
+- - never
+  - been
+  - sure
+- - how
+  - much
+  - can
+- - only
+  - now
+  - over
+- - are
+  - scribbled
+  - page
+- - recall
+  - so
+  - vividly
+- - any
+  - others
+  - what
+- - all
+  - too
+  - clear
+- - unreadable
+  - even
+  - if
+- - all
+  - those
+  - thousands
+- - blindly
+  - towards
+  - an
+- - towards
+  - an
+  - apprehension
+- - haunt
+  - me
+  - like
+- - stuffed
+  - them
+  - when
+- - are
+  - unreadable
+  - even
+- - explained
+  - why
+  - this
+- - data
+  - or
+  - lore
+- - or
+  - lopsided
+  - plane
+- - higher
+  - or
+  - lopsided
 story:
   date: 2010-10-04
   id: 2010-10-04-u
@@ -92,4 +275,4 @@ story:
     \ illegibility, and other matters of questionable import, from his ethereal podium,\
     \ with his phantom gesticulations."
   title: U
-word_count: 612
+word_count: 611

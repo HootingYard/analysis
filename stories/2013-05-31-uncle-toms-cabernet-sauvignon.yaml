@@ -1,10 +1,10 @@
 ngrams:
+- - tom's
+  - cabernet
+  - sauvignon
 - - goalkeeper
   - lev
   - yashin
-- - swine
-  - nob
-  - nob
 - - serried
   - horizontal
   - ranks
@@ -14,6 +14,9 @@ ngrams:
 - - subterranean
   - shelving
   - racks
+- - uncle
+  - tom's
+  - cabernet
 - - legendary
   - russian
   - goalkeeper
@@ -22,10 +25,16 @@ ngrams:
   - smashed
 - - underneath
   - uncle
-  - tom
+  - tom's
 - - noble
   - uncle
-  - tom
+  - tom's
+- - uncle
+  - tom's
+  - cabin
+- - uncle
+  - tom's
+  - cabin
 - - wine
   - cellar
   - bottle
@@ -44,6 +53,66 @@ ngrams:
 - - badgering
   - became
   - too
+- - perhaps
+  - terrified
+  - pig
+- - uncle
+  - never
+  - betrayed
+- - cellar
+  - bottle
+  - after
+- - bottle
+  - after
+  - bottle
+- - bottle
+  - after
+  - bottle
+- - bottle
+  - after
+  - bottle
+- - bottle
+  - after
+  - bottle
+- - pigs
+  - ever
+  - got
+- - tom's
+  - cabin
+  - where
+- - uncle
+  - tom
+  - did
+- - course
+  - being
+  - shorthand
+- - rather
+  - than
+  - flies
+- - became
+  - too
+  - much
+- - pigs
+  - rather
+  - than
+- - badger
+  - him
+  - whenever
+- - after
+  - bottle
+  - after
+- - after
+  - bottle
+  - after
+- - after
+  - bottle
+  - after
+- - matter
+  - how
+  - much
+- - never
+  - betrayed
+  - any
 story:
   date: 2013-05-31
   id: 2013-05-31-uncle-toms-cabernet-sauvignon
@@ -69,4 +138,4 @@ story:
     \ Lev Yashin, but that would be to impute a semblance of sense to me, as a child.\
     \ But I had none, and there are those who say I still don't."
   title: Uncle Tom's Cabernet Sauvignon
-word_count: 314
+word_count: 309

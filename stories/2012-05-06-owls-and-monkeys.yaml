@@ -1,31 +1,46 @@
 ngrams:
-- - chinese
-  - chronicle
-  - yu-yang-tsah-tsu
-- - twan
-  - ching-shih
-  - describes
-- - gun
-  - powder
-  - fire-arms
-- - ching-shih
-  - describes
-  - annual
 - - describes
   - annual
   - battles
-- - giant
-  - rock-throwing
-  - apes
 - - avoid
   - potential
   - embarrassment
-- - china
-  - ca
-  - th
 - - impress
   - visitors
   - meanwhile
+- - wonders
+  - marvels
+  - monkeys
+- - century
+  - chinese
+  - chronicle
+- - help
+  - avoid
+  - potential
+- - th
+  - century
+  - chinese
+- - high
+  - craggy
+  - mountains
+- - monkeys
+  - sound
+  - advice
+- - battles
+  - between
+  - soldiers
+- - annual
+  - battles
+  - between
+- - richard
+  - carter
+  - having
+- - ravage
+  - crops
+  - every
+- - crops
+  - every
+  - spring
 story:
   date: 2012-05-06
   id: 2012-05-06-owls-and-monkeys
@@ -39,4 +54,4 @@ story:
     \ of Po-mi-lan and 300,000 giant rock-throwing apes who came down from the high\
     \ craggy mountains of the west to ravage crops every spring."
   title: Owls And Monkeys
-word_count: 113
+word_count: 112

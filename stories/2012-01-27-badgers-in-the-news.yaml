@@ -1,13 +1,4 @@
 ngrams:
-- - substation
-  - gordon
-  - ramsay
-- - hub
-  - substation
-  - gordon
-- - dwarf
-  - porn
-  - double
 - - mental
   - purview
   - dumped
@@ -17,9 +8,6 @@ ngrams:
 - - clanged
   - shut
   - badgers
-- - news
-  - hub
-  - substation
 - - interesting
   - badger
   - news
@@ -29,12 +17,42 @@ ngrams:
 - - creatures
   - always
   - worthy
-- - porn
-  - double
-  - found
 - - strains
   - every
   - sinew
+- - splendid
+  - creatures
+  - always
+- - double
+  - found
+  - dead
+- - yard
+  - news
+  - hub
+- - don't
+  - go
+  - overboard
+- - our
+  - mental
+  - purview
+- - yard
+  - strains
+  - every
+- - news
+  - now
+  - here's
+- - hooting
+  - yard
+  - strains
+- - quandary
+  - hooting
+  - yard
+- - few
+  - lines
+  - here
+- - hooting
+  - yard
+  - news
 story:
   date: 2012-01-27
   id: 2012-01-27-badgers-in-the-news
@@ -50,4 +68,4 @@ story:
     \ transmitted to the Hooting Yard news hub substation\u2026\nGordon Ramsay's Dwarf\
     \ Porn Double Found Dead in a Badger Den in Wales\n\nA badger"
   title: Badgers In The News
-word_count: 150
+word_count: 146

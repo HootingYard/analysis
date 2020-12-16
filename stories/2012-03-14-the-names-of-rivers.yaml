@@ -2,9 +2,6 @@ ngrams:
 - - daily
   - mail
   - spread
-- - drought
-  - draws
-  - attention
 - - present
   - daily
   - mail
@@ -17,12 +14,6 @@ ngrams:
 - - ancient
   - names
   - often
-- - well
-  - worth
-  - memorising
-- - grauniad
-  - well
-  - worth
 - - down
   - almost
   - unchanged
@@ -32,9 +23,6 @@ ngrams:
 - - passed
   - down
   - almost
-- - irt
-  - like
-  - these
 - - these
   - other
   - rivers
@@ -44,6 +32,42 @@ ngrams:
 - - all
   - summer
   - featured
+- - last
+  - all
+  - summer
+- - like
+  - these
+  - other
+- - connected
+  - than
+  - we
+- - start
+  - what
+  - about
+- - rivers
+  - from
+  - today's
+- - are
+  - more
+  - connected
+- - these
+  - are
+  - just
+- - wales
+  - have
+  - ancient
+- - have
+  - ancient
+  - names
+- - pang
+  - but
+  - these
+- - not
+  - forget
+  - either
+- - will
+  - last
+  - all
 story:
   date: 2012-03-14
   id: 2012-03-14-the-names-of-rivers
@@ -61,4 +85,4 @@ story:
     \ Skirfare, the Deveron, the Cocker and the Stinchar speak of a deep Britain,\
     \ to which we are more connected than we realise. Or would be if it rained."
   title: The Names Of Rivers
-word_count: 188
+word_count: 184

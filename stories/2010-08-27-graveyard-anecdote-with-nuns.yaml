@@ -5,6 +5,9 @@ ngrams:
 - - sparked
   - gerard
   - manley
+- - patrick's
+  - roman
+  - catholic
 - - roman
   - catholic
   - cemetery
@@ -17,21 +20,18 @@ ngrams:
 - - leytonstone
   - wherein
   - lie
-- - shabby
-  - one-storey
-  - building
 - - drowned
   - photograph
   - courtesy
+- - st
+  - patrick's
+  - roman
 - - five
   - franciscan
   - nuns
 - - wherein
   - lie
   - buried
-- - one-storey
-  - building
-  - near
 - - franciscan
   - nuns
   - whose
@@ -41,9 +41,93 @@ ngrams:
 - - fairly
   - small
   - cemetery
-- - called
-  - oi
+- - i'd
+  - done
+  - late
+- - mario
+  - another
+  - cemetery
+- - another
+  - cemetery
+  - worker
+- - trudged
+  - aimlessly
+  - around
+- - enter
   - mario
+  - another
+- - writing
+  - i'd
+  - done
+- - ajar
+  - door
+  - behind
+- - subtitled
+  - hopkins
+  - great
+- - hopkins
+  - great
+  - poem
+- - began
+  - rather
+  - haltingly
+- - sister
+  - began
+  - rather
+- - promptly
+  - led
+  - us
+- - rapidly
+  - headed
+  - back
+- - having
+  - delivered
+  - us
+- - before
+  - having
+  - delivered
+- - few
+  - people
+  - come
+- - going
+  - back
+  - towards
+- - worker
+  - who
+  - promptly
+- - mario
+  - them
+  - nuns
+- - cemetery
+  - worker
+  - who
+- - doing
+  - before
+  - ever
+- - poem
+  - them
+  - nuns
+- - who
+  - promptly
+  - led
+- - before
+  - ever
+  - since
+- - sister
+  - who
+  - lives
+- - attendant
+  - held
+  - up
+- - door
+  - behind
+  - him
+- - nuns
+  - what
+  - drowned
+- - nuns
+  - what
+  - drowned
 story:
   date: 2010-08-27
   id: 2010-08-27-graveyard-anecdote-with-nuns
@@ -73,4 +157,4 @@ story:
     \ Ever since, I have mentally subtitled Hopkins\u2019 great poem \u201CThem Nuns\
     \ What Drowned\u201D.\n\nPhotograph courtesy of findagrave"
   title: Graveyard Anecdote, With Nuns
-word_count: 348
+word_count: 346

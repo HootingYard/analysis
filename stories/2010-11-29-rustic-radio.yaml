@@ -1,25 +1,34 @@
 ngrams:
-- - flummery
-  - oldfartatplay
-  - mp
 - - trout
   - mask
   - replica
-- - bumpkin-and-yokel
-  - drama
-  - lark
-- - babbling
-  - flummery
-  - oldfartatplay
 - - drama
   - lark
   - rise
 - - rare
   - audio
   - excerpt
-- - magnificent
-  - bumpkin-and-yokel
-  - drama
+- - radio
+  - last
+  - summer
+- - rustic
+  - radio
+  - last
+- - rustic
+  - radio
+  - hooting
+- - very
+  - rare
+  - audio
+- - directly
+  - here
+  - without
+- - radio
+  - hooting
+  - yard
+- - audio
+  - excerpt
+  - from
 story:
   date: 2010-11-29
   id: 2010-11-29-rustic-radio
@@ -31,4 +40,4 @@ story:
     \ or you can listen to it directly, here, without the rest of Mr Key's babbling\
     \ flummery.\nOldFartAtPlay (mp3)"
   title: Rustic Radio
-word_count: 87
+word_count: 84

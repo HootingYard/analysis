@@ -1,4 +1,7 @@
 ngrams:
+- - publishers
+  - i'd
+  - insist
 - - slipshod
   - approach
   - fatally
@@ -8,39 +11,57 @@ ngrams:
 - - missing
   - indefinite
   - article
-- - whole
-  - print-run
-  - pulped
 - - competent
   - copy
   - editor
 - - copy
   - editor
   - update
-- - cawing
-  - crows
-  - outside
-- - reading
-  - tim
-  - birkhead
 - - morning
   - moan
   - prompted
-- - three
-  - howling
-  - typos
 - - sunday
   - morning
   - moan
 - - easter
   - sunday
   - morning
-- - lavishly-produced
-  - bloomsbury
-  - book
+- - simply
+  - isn't
+  - good
 - - editor
   - update
   - still
+- - isn't
+  - good
+  - enough
+- - fewer
+  - than
+  - three
+- - than
+  - three
+  - howling
+- - past
+  - 'no'
+  - fewer
+- - way
+  - past
+  - 'no'
+- - 'no'
+  - fewer
+  - than
+- - principle
+  - where
+  - what
+- - an
+  - easter
+  - sunday
+- - this
+  - slipshod
+  - approach
+- - this
+  - sunny
+  - morning
 story:
   date: 2011-04-24
   id: 2011-04-24-an-easter-sunday-morning-moan
@@ -59,4 +80,4 @@ story:
     : Still on page 18, and another one!\u2014\u201Cprinciple\u201D where what is\
     \ meant is \u201Cprincipal\u201D."
   title: An Easter Sunday Morning Moan
-word_count: 175
+word_count: 172

@@ -2,30 +2,42 @@ ngrams:
 - - journalist
   - edmund
   - yates
-- - ada
-  - cavendish
-  - willed
-- - actress
-  - ada
-  - cavendish
 - - novelist
   - wilkie
   - collins
-- - dressing-table
-  - adjuring
-  - anyone
-- - officiating
-  - surgeon
-  - lady
-- - providing
-  - twenty
-  - guineas
 - - surgeon
   - lady
   - burton
-- - adjuring
-  - anyone
-  - finding
+- - lady
+  - burton
+  - provided
+- - certain
+  - harriet
+  - martineau
+- - harriet
+  - martineau
+  - left
+- - buried
+  - alive
+  - half
+- - precautions
+  - against
+  - premature
+- - against
+  - premature
+  - burial
+- - dozen
+  - precautions
+  - against
+- - wilkie
+  - collins
+  - always
+- - collins
+  - always
+  - left
+- - make
+  - certain
+  - harriet
 story:
   date: 2010-04-02
   id: 2010-04-02-not-buried-alive

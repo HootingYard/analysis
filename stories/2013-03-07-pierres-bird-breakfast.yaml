@@ -1,22 +1,34 @@
 ngrams:
-- - automaton
-  - obedience
-  - thereto
 - - uncommonly
   - tender
   - pigeons
 - - shooting
   - herman
   - melville
-- - embossed
-  - savory
-  - nest
 - - herman
   - melville
   - pierre
-- - obedience
-  - thereto
-  - brought
+- - embossed
+  - savory
+  - nest
+- - mountains
+  - beyond
+  - pierre
+- - blue
+  - mountains
+  - beyond
+- - pierre's
+  - bird
+  - breakfast
+- - few
+  - uncommonly
+  - tender
+- - few
+  - invigorating
+  - glances
+- - pierre's
+  - own
+  - shooting
 story:
   date: 2013-03-07
   id: 2013-03-07-pierres-bird-breakfast
@@ -29,4 +41,4 @@ story:
 
     Herman Melville, Pierre, or The Ambiguities (1852)'
   title: Pierre's Bird Breakfast
-word_count: 82
+word_count: 80

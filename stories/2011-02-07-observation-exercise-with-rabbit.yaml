@@ -1,13 +1,19 @@
 ngrams:
-- - elsie
-  - schrotthaufen
-  - s
-- - schrotthaufen
-  - s
-  - book
 - - with
   - rabbit
   - courtesy
+- - exercise
+  - with
+  - rabbit
+- - observation
+  - exercise
+  - with
+- - rabbit
+  - courtesy
+  - of
+- - book
+  - of
+  - wonders
 story:
   date: 2011-02-07
   id: 2011-02-07-observation-exercise-with-rabbit
@@ -15,4 +21,4 @@ story:
 
     Courtesy of Elsie Schrotthaufen''s Book Of Wonders'
   title: Observation Exercise, With Rabbit
-word_count: 12
+word_count: 11

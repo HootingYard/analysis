@@ -1,7 +1,4 @@
 ngrams:
-- - full-time
-  - active
-  - service
 - - active
   - service
   - duty
@@ -23,6 +20,24 @@ ngrams:
 - - mostly
   - been
   - poking
+- - bailiwick
+  - this
+  - weekend
+- - mental
+  - bailiwick
+  - this
+- - watch
+  - this
+  - space
+- - been
+  - poking
+  - about
+- - yard
+  - watch
+  - this
+- - nation
+  - really
+  - but
 story:
   date: 2014-03-02
   id: 2014-03-02-state-of-the-nation
@@ -34,4 +49,4 @@ story:
     With the book done, at last, I shall be able to return to full-time active service
     duty at Hooting Yard. Watch this space.
   title: State Of The Nation
-word_count: 106
+word_count: 104

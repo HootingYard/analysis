@@ -1,16 +1,25 @@
 ngrams:
-- - e-book
-  - e-shelf
-  - alongside
 - - dinah
   - shore
   - ruled
-- - groanworthy
-  - newly
-  - available
-- - max
+- - joe
+  - archibald
+  - called
+- - great
+  - max
   - d
-  - charn
+- - those
+  - fine
+  - purveyors
+- - alongside
+  - those
+  - titles
+- - those
+  - titles
+  - devised
+- - archibald
+  - called
+  - how
 story:
   date: 2011-07-11
   id: 2011-07-11-groanworthy
@@ -20,4 +29,4 @@ story:
     \ great Max D\xE9charn\xE9, \u201CDr Terror's House Of Horace\u201D and \u201C\
     When Dinah Shore Ruled The Earth\u201D."
   title: Groanworthy
-word_count: 58
+word_count: 56

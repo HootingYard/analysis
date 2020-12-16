@@ -1,4 +1,7 @@
 ngrams:
+- - sheriff's
+  - deputy
+  - rick
 - - deputy
   - rick
   - grimes
@@ -20,6 +23,12 @@ ngrams:
 - - actor
   - andrew
   - lincoln
+- - lead
+  - actor
+  - andrew
+- - character
+  - sheriff's
+  - deputy
 story:
   date: 2011-10-16
   id: 2011-10-16-the-walking-dead
@@ -34,4 +43,4 @@ story:
     a future episode I shall expect to see a flute-playing zombie standing on one
     leg.'
   title: The Walking Dead
-word_count: 86
+word_count: 85

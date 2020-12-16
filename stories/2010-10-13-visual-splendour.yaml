@@ -1,7 +1,4 @@
 ngrams:
-- - four-day
-  - televisual
-  - experiment
 - - televisual
   - experiment
   - beamed
@@ -20,6 +17,18 @@ ngrams:
 - - new
   - wonder
   - taking
+- - brand
+  - new
+  - piece
+- - hooting
+  - yard
+  - calendars
+- - fair
+  - word
+  - has
+- - their
+  - double
+  - act
 story:
   date: 2010-10-13
   id: 2010-10-13-visual-splendour
@@ -31,4 +40,4 @@ story:
     \ act to present a brand new piece of gorgeousness\u2014as yet unwritten and un(de)composed\u2014\
     on Saturday."
   title: Visual Splendour
-word_count: 88
+word_count: 87

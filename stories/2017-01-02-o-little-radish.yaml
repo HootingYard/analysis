@@ -1,10 +1,4 @@
 ngrams:
-- - fratsin
-  - k
-  - yecebit
-- - sulky
-  - bulgarian
-  - poet
 - - bulgarian
   - poet
   - written
@@ -23,9 +17,27 @@ ngrams:
 - - sound
   - turkish
   - rather
-- - haven
-  - t
+- - twigs
+  - i'll
+  - make
+- - o
+  - little
+  - radish
+- - o
+  - little
+  - radish
+- - popular
+  - demand
+  - here
+- - drink
+  - vinegar
+  - here
+- - entitled
+  - o
+  - little
+- - haven't
   - paid
+  - any
 story:
   date: 2017-01-02
   id: 2017-01-02-o-little-radish
@@ -38,4 +50,4 @@ story:
     \ it up with a whisk.\n  Send me your cash now.\n  Send me the lot.\n  I'm the\
     \ man you ought to\n  Shove in the vat."
   title: O, Little Radish
-word_count: 110
+word_count: 106

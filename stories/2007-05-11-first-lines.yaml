@@ -1,10 +1,4 @@
 ngrams:
-- - lee
-  - rourke
-  - identifies
-- - blog
-  - lee
-  - rourke
 - - books
   - blog
   - lee
@@ -14,9 +8,6 @@ ngrams:
 - - best
   - opening
   - lines
-- - website
-  - called
-  - litline
 - - hundred
   - best
   - opening
@@ -41,9 +32,42 @@ ngrams:
 - - greatest
   - first
   - line
-- - favourite
-  - first
+- - man
+  - called
+  - berg
+- - berg
+  - who
+  - changed
+- - commenters
+  - propose
+  - their
+- - called
+  - berg
+  - who
+- - hundred
+  - were
+  - selected
+- - propose
+  - their
+  - own
+- - so
+  - certainly
+  - near
+- - an
+  - occasionally
+  - intriguing
+- - opening
   - lines
+  - from
+- - do
+  - so
+  - certainly
+- - maybe
+  - one
+  - day
+- - bus
+  - pass
+  - from
 story:
   date: 2007-05-11
   id: 2007-05-11-first-lines
@@ -62,4 +86,4 @@ story:
     \ due to my fever-racked condition, I am going to reward myself with A Nice Cup\
     \ Of Tea And A Sit Down."
   title: First Lines
-word_count: 192
+word_count: 191

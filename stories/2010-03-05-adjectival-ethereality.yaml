@@ -1,28 +1,40 @@
 ngrams:
-- - honey-coloured
-  - honey-hued
-  - honey-brown
-- - honey-hued
-  - honey-brown
-  - leggy
-- - biscuity
-  - pearl-gray
-  - hazy
-- - gauzy
-  - fragrant
-  - coltish
-- - fragrant
-  - coltish
-  - nacreous
-- - dreamy
-  - biscuity
-  - pearl-gray
-- - shady
+- - opalescent
+  - russet
+  - tingling
+- - slender
+  - opalescent
+  - russet
+- - fuzzy
+  - leafy
+  - shady
+- - leafy
+  - shady
   - rosy
-  - dolorous
-- - honey-brown
-  - leggy
-  - slender
+- - russet
+  - tingling
+  - dreamy
+- - hazy
+  - flurry
+  - dimpled
+- - moist
+  - silky
+  - downy
+- - lolita
+  - glossy
+  - furry
+- - dimpled
+  - luminous
+  - moist
+- - glistening
+  - fuzzy
+  - leafy
+- - flurry
+  - dimpled
+  - luminous
+- - luminous
+  - moist
+  - silky
 story:
   date: 2010-03-05
   id: 2010-03-05-adjectival-ethereality
@@ -36,4 +48,4 @@ story:
     \ iridescent, gauzy, fragrant, coltish, nacreous, glistening, fuzzy, leafy, shady,\
     \ rosy, dolorous, burnished, quivering, plumbacious, stippled\u2026"
   title: Adjectival Ethereality
-word_count: 100
+word_count: 99

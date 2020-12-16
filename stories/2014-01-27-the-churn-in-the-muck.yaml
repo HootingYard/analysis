@@ -1,43 +1,61 @@
 ngrams:
-- - sag
-  - mir
-  - wo
-- - photocopied
-  - folded
-  - collated
-- - folded
-  - collated
-  - stapled
-- - bulent
-  - hellbag
-  - arrives
-- - collated
-  - stapled
-  - signed
 - - illustrated
   - photocopied
   - folded
-- - wo
-  - die
-  - blumen
-- - die
-  - blumen
-  - sind
-- - mir
-  - wo
-  - die
-- - icelandic
-  - fontoon
-  - buried
-- - detective
-  - bulent
-  - hellbag
 - - hungarian
   - detective
   - bulent
-- - muck
-  - sag
-  - mir
+- - lake
+  - indefatigable
+  - hungarian
+- - indefatigable
+  - hungarian
+  - detective
+- - cash
+  - vintage
+  - frank
+- - wrote
+  - illustrated
+  - photocopied
+- - vintage
+  - frank
+  - key
+- - frank
+  - key
+  - surrealist
+- - key
+  - surrealist
+  - writing
+- - murderous
+  - rivalry
+  - over
+- - can
+  - scarcely
+  - credit
+- - that's
+  - how
+  - much
+- - back
+  - that's
+  - how
+- - century
+  - has
+  - passed
+- - has
+  - passed
+  - since
+- - your
+  - cash
+  - vintage
+- - print
+  - pamphlet
+  - will
+- - tracing
+  - paper
+  - there
+- - tracing
+  - paper
+  - there
 story:
   date: 2014-01-27
   id: 2014-01-27-the-churn-in-the-muck
@@ -54,4 +72,4 @@ story:
     \ wallpaper and tracing paper, there are actually pages of text, too. (I am not\
     \ sure the blurb makes that quite clear.)"
   title: The Churn In The Muck
-word_count: 158
+word_count: 157

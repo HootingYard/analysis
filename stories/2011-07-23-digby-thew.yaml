@@ -1,22 +1,10 @@
 ngrams:
-- - luxury
-  - digby
-  - thew
-- - thew
-  - digby
-  - thew
-- - digby
-  - thew
-  - digby
 - - wreaked
   - untold
   - damage
 - - plush
   - pile
   - carpet
-- - worships
-  - newspaper
-  - reports
 - - luxurious
   - deep
   - plush
@@ -38,12 +26,165 @@ ngrams:
 - - issuing
   - dockets
   - oh
-- - digby
-  - thew
-  - oh
-- - thew
-  - oh
+- - almost
+  - physically
+  - sick
+- - car
+  - nobody
+  - got
+- - important
+  - railway
+  - line
+- - important
+  - railway
+  - line
+- - great
+  - dramatic
+  - tragedies
+- - shall
+  - prance
+  - along
+- - passengers
+  - every
+  - need
+- - first
+  - class
+  - compartments
+- - plays
+  - myself
+  - indeed
+- - oodles
+  - our
+  - quandary
+- - night
+  - long
+  - hopelessly
+- - these
+  - plays
+  - myself
+- - sleeping
+  - car
+  - like
+- - now
+  - prove
+  - yourself
+- - following
+  - day
+  - told
+- - actually
+  - seen
+  - any
+- - more
+  - learned
+  - colleagues
+- - conductor
+  - who
+  - wreaked
+- - who
+  - wreaked
+  - untold
+- - am
+  - almost
+  - physically
+- - them
+  - alone
+  - leaving
+- - well
+  - then
   - digby
+- - its
+  - first
+  - class
+- - tilling
+  - arbogast
+  - what
+- - when
+  - tilling
+  - arbogast
+- - fields
+  - when
+  - tilling
+- - fill
+  - out
+  - dockets
+- - were
+  - kept
+  - awake
+- - boldness
+  - if
+  - everything
+- - line
+  - filling
+  - out
+- - if
+  - everything
+  - worked
+- - attending
+  - will
+  - help
+- - everything
+  - worked
+  - out
+- - what's
+  - your
+  - take
+- - kept
+  - awake
+  - all
+- - arbogast
+  - what
+  - say
+- - like
+  - very
+  - much
+- - very
+  - well
+  - then
+- - some
+  - other
+  - line
+- - awake
+  - all
+  - night
+- - never
+  - been
+  - within
+- - conclusions
+  - there
+  - set
+- - found
+  - some
+  - other
+- - till
+  - 'no'
+  - more
+- - all
+  - night
+  - long
+- - may
+  - indeed
+  - your
+- - an
+  - important
+  - railway
+- - place
+  - has
+  - been
+- - be
+  - considered
+  - rash
+- - would
+  - like
+  - very
+- - sleep
+  - they
+  - were
+- - they
+  - were
+  - kept
+- - car
+  - by
+  - hacking
 story:
   date: 2011-07-23
   id: 2011-07-23-digby-thew
@@ -83,4 +224,4 @@ story:
     \ deep plush pile carpet in the car, by hacking at it all night long, hopelessly,\
     \ with a hoe."
   title: Digby Thew
-word_count: 500
+word_count: 498

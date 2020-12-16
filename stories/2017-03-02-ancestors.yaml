@@ -1,13 +1,13 @@
 ngrams:
-- - slouching
-  - snivelling
-  - ignoramus
+- - he'd
+  - stand
+  - tall
 - - tubercular
   - peasant
   - slouching
-- - d
+- - either
+  - he'd
   - stand
-  - tall
 - - lacks
   - both
   - grit
@@ -20,6 +20,18 @@ ngrams:
 - - like
   - ken
   - dodd
+- - chuckling
+  - like
+  - ken
+- - hills
+  - chuckling
+  - like
+- - ears
+  - your
+  - ancestors
+- - what
+  - rough
+  - beast
 story:
   date: 2017-03-02
   id: 2017-03-02-ancestors
@@ -31,4 +43,4 @@ story:
     \ all like this, or most of them, at least. A slouching, snivelling ignoramus\
     \ \u2026 \u201CAnd what rough beast\u2026?\u201D"
   title: Ancestors
-word_count: 92
+word_count: 90

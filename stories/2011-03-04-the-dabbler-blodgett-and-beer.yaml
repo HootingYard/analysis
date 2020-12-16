@@ -1,19 +1,10 @@
 ngrams:
-- - super
-  - soaraway
-  - dabbler
-- - predicted
-  - please
-  - note
 - - month
   - o
   - march
-- - dabbler
-  - beery
-  - readers
-- - beery
-  - readers
-  - ought
+- - predicted
+  - please
+  - note
 - - extension
   - mr
   - key
@@ -23,9 +14,33 @@ ngrams:
 - - take
   - part
   - come
-- - may
-  - find
-  - limned
+- - mr
+  - key
+  - himself
+- - 'no'
+  - legal
+  - system
+- - him
+  - hauled
+  - before
+- - will
+  - convict
+  - blodgett
+- - o
+  - march
+  - if
+- - world
+  - will
+  - convict
+- - march
+  - if
+  - things
+- - part
+  - come
+  - what
+- - quite
+  - turn
+  - out
 story:
   date: 2011-03-04
   id: 2011-03-04-the-dabbler-blodgett-and-beer

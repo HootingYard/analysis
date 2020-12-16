@@ -1,16 +1,25 @@
 ngrams:
-- - corny
-  - cod-mediaeval
-  - ballads
+- - schubert
+  - couldn't
+  - polish
 - - turd
   - long
   - corny
-- - long
-  - corny
-  - cod-mediaeval
 - - particular
   - turd
   - long
+- - ballads
+  - never
+  - showed
+- - adds
+  - even
+  - schubert
+- - even
+  - schubert
+  - couldn't
+- - damian
+  - thompson
+  - who
 story:
   date: 2014-10-08
   id: 2014-10-08-schubert-the-stories-behind-the-lieder-no-1
@@ -20,4 +29,4 @@ story:
     \ this particular turd. Long, corny, cod-mediaeval ballads never showed him at\
     \ his best.\u201D"
   title: "Schubert\_: The Stories Behind The Lieder, No. 1"
-word_count: 59
+word_count: 58

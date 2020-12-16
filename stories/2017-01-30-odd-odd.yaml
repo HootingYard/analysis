@@ -1,22 +1,31 @@
 ngrams:
-- - rachael
-  - k
-  - jones
 - - k
   - jones
   - frank
-- - fat
-  - magnificent
-  - doorstoppers
-- - surely
-  - teem
-  - anyway
-- - magnificent
-  - doorstoppers
-  - devoted
 - - odd
   - odd
   - author
+- - odd
+  - odd
+  - occasionally
+- - jones
+  - frank
+  - key
+- - make
+  - note
+  - here
+- - references
+  - when
+  - compiling
+- - future
+  - will
+  - surely
+- - an
+  - odd
+  - odd
+- - quite
+  - so
+  - hard
 story:
   date: 2017-01-30
   id: 2017-01-30-odd-odd

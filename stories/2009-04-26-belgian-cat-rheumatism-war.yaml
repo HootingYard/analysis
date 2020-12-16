@@ -1,7 +1,4 @@
 ngrams:
-- - c
-  - williams
-  - oup
 - - belgian
   - cat
   - rheumatism
@@ -11,9 +8,18 @@ ngrams:
 - - cat
   - rheumatism
   - war
-- - belgian
-  - refugees
-  - during
+- - s
+  - c
+  - williams
+- - world
+  - war
+  - religious
+- - particular
+  - remedy
+  - such
+- - first
+  - world
+  - war
 story:
   date: 2009-04-26
   id: 2009-04-26-belgian-cat-rheumatism-war

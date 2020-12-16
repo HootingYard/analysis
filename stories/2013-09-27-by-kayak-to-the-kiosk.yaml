@@ -1,28 +1,16 @@
 ngrams:
-- - now-redundant
-  - coin
-  - gripped
-- - french
-  - artist
-  - delacroix
 - - jetty
   - gazing
   - hopelessly
 - - shuffled
   - slowly
   - forward
-- - artist
-  - delacroix
-  - held
 - - remote
   - distant
   - lakes
 - - rivers
   - remote
   - distant
-- - stood
-  - anent
-  - nitty
 - - eyelids
   - snapped
   - open
@@ -41,9 +29,207 @@ ngrams:
 - - different
   - lake
   - queuing
-- - nudging
-  - against
-  - nitty
+- - ice
+  - mad
+  - standing
+- - sky
+  - blazed
+  - blue
+- - we'll
+  - kayak
+  - across
+- - cyclopean
+  - ogre
+  - come
+- - great
+  - french
+  - artist
+- - kiosk
+  - soon
+  - oh
+- - lake
+  - several
+  - times
+- - soon
+  - oh
+  - soon
+- - long
+  - ago
+  - rotted
+- - jetty
+  - long
+  - ago
+- - choc
+  - ice
+  - how
+- - long
+  - ago
+  - youth
+- - dream
+  - fell
+  - away
+- - another
+  - lake
+  - another
+- - here
+  - choc
+  - ice
+- - tiny
+  - fist
+  - though
+- - long
+  - life
+  - lay
+- - long
+  - long
+  - walk
+- - dozing
+  - 'off'
+  - again
+- - among
+  - kayakers
+  - even
+- - man
+  - should
+  - wait
+- - half
+  - more
+  - likely
+- - 'off'
+  - again
+  - once
+- - figure
+  - who
+  - recurs
+- - even
+  - here
+  - choc
+- - lake
+  - another
+  - time
+- - standing
+  - up
+  - straight
+- - getting
+  - up
+  - early
+- - am
+  - still
+  - alive
+- - mad
+  - standing
+  - up
+- - kiosk
+  - taunted
+  - me
+- - ogre
+  - would
+  - grunt
+- - path
+  - all
+  - round
+- - scudding
+  - towards
+  - me
+- - thrust
+  - towards
+  - me
+- - two
+  - about
+  - kayaks
+- - jetty
+  - we
+  - fell
+- - ice
+  - how
+  - about
+- - 'no'
+  - man
+  - should
+- - far
+  - 'no'
+  - man
+- - doze
+  - 'off'
+  - all
+- - kayakers
+  - even
+  - when
+- - time
+  - even
+  - here
+- - an
+  - instant
+  - scudding
+- - should
+  - wait
+  - so
+- - hour
+  - an
+  - hour
+- - wait
+  - so
+  - long
+- - one
+  - blazing
+  - eye
+- - god
+  - this
+  - ogre
+- - towards
+  - me
+  - upon
+- - one
+  - came
+  - face
+- - but
+  - boundless
+  - devotion
+- - choc
+  - ices
+  - from
+- - just
+  - coined
+  - one
+- - choc
+  - ice
+  - but
+- - look
+  - up
+  - into
+- - five
+  - or
+  - six
+- - again
+  - once
+  - one
+- - gazing
+  - hopelessly
+  - at
+- - kayaks
+  - or
+  - once
+- - told
+  - him
+  - so
+- - would
+  - look
+  - up
+- - important
+  - not
+  - dozing
+- - we
+  - fell
+  - into
+- - would
+  - feel
+  - if
+- - thing
+  - or
+  - two
+- - taunted
+  - me
+  - so
 story:
   date: 2013-09-27
   id: 2013-09-27-by-kayak-to-the-kiosk
@@ -88,4 +274,4 @@ story:
     \ lake, another time . . .\nAnd the sky blazed blue as I was ferried in a kayak\
     \ across the lake towards the kiosk."
   title: By Kayak To The Kiosk
-word_count: 628
+word_count: 621

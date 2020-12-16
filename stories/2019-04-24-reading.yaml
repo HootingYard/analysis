@@ -1,31 +1,13 @@
 ngrams:
-- - iles
-  - derek
-  - raymond
-- - francis
-  - iles
-  - derek
 - - digital
   - electronic
   - counterparts
-- - industrial-strength
-  - magnifying
-  - spectacles
 - - melanie
   - phillips
   - memoir
-- - reread
-  - beckett
-  - molloy
 - - culture
   - melanie
   - phillips
-- - angel
-  - francis
-  - iles
-- - lovecaft
-  - william
-  - hazlitt
 - - magnifying
   - spectacles
   - issued
@@ -35,12 +17,51 @@ ngrams:
 - - america
   - henry
   - fielding
+- - i've
+  - reread
+  - beckett
 - - hadley
   - chase
   - h
 - - james
   - hadley
   - chase
+- - kafka
+  - america
+  - henry
+- - guardian
+  - angel
+  - francis
+- - memoir
+  - guardian
+  - angel
+- - kindle
+  - fire
+  - tablet
+- - chase
+  - h
+  - p
+- - standard
+  - size
+  - type
+- - become
+  - somewhat
+  - difficult
+- - always
+  - loved
+  - books
+- - few
+  - months
+  - i've
+- - read
+  - standard
+  - size
+- - our
+  - culture
+  - melanie
+- - little
+  - mole
+  - thus
 story:
   date: 2019-04-24
   id: 2019-04-24-reading
@@ -59,4 +80,4 @@ story:
     \ William Hazlitt, and Sir Thomas Browne, and am currently bingeing on Georges\
     \ Simenon. What a wonder he is."
   title: Reading
-word_count: 171
+word_count: 168

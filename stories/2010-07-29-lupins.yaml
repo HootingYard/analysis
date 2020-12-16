@@ -14,12 +14,6 @@ ngrams:
 - - crustaceans
   - fish
   - lupins
-- - magazine
-  - ex-beatnik
-  - poets
-- - ex-beatnik
-  - poets
-  - speak
 - - discouraging
   - news
   - reaches
@@ -41,9 +35,39 @@ ngrams:
 - - corker
   - these
   - products
-- - much-abused
-  - word
+- - seems
+  - cast
+  - 'off'
+- - mojo
+  - note
+  - many
+- - note
+  - many
+  - thanks
+- - like
+  - carol
+  - ann
+- - poet
+  - like
+  - carol
+- - people's
+  - poet
+  - like
+- - word
   - these
+  - days
+- - weedy
+  - poet
+  - has
+- - dig
+  - there's
+  - 'no'
+- - their
+  - jam
+  - doughnuts
+- - there's
+  - 'no'
+  - money
 story:
   date: 2010-07-29
   id: 2010-07-29-lupins
@@ -63,4 +87,4 @@ story:
     , Dennis Beerpint has not lost his mojo.\nNOTE\_: Many thanks to Gaw for drawing\
     \ this to my attention."
   title: Lupins?
-word_count: 193
+word_count: 189

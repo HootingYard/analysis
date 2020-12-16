@@ -11,6 +11,12 @@ ngrams:
 - - churchill
   - author
   - reader
+- - author
+  - reader
+  - actor
+- - badger
+  - having
+  - ploughed
 story:
   date: 2014-04-19
   id: 2014-04-19-mad-as-a-badger

@@ -2,9 +2,6 @@ ngrams:
 - - hilly
   - lumpy
   - bumpy
-- - paizs
-  - paizs
-  - directed
 - - alien
   - invasion
   - movies
@@ -14,21 +11,12 @@ ngrams:
 - - highly
   - amusing
   - homage
-- - john
-  - paizs
-  - paizs
-- - dr
-  - karel
-  - lamonte
-- - scientist
-  - dr
-  - karel
 - - atomic
   - scientist
   - dr
-- - group
-  - john
-  - paizs
+- - s
+  - alien
+  - invasion
 - - human
   - corpse
   - deceased
@@ -41,6 +29,36 @@ ngrams:
 - - lumpy
   - bumpy
   - part
+- - film
+  - group
+  - john
+- - pointedly
+  - mentioned
+  - several
+- - dead
+  - human
+  - corpse
+- - bright
+  - pointy
+  - stars
+- - mentioned
+  - several
+  - times
+- - yard
+  - rating
+  - dozens
+- - those
+  - endless
+  - examples
+- - pointy
+  - town
+  - indeed
+- - several
+  - times
+  - hooting
+- - rating
+  - dozens
+  - upon
 story:
   date: 2011-02-14
   id: 2011-02-14-antipode-of-pointy-town
@@ -58,4 +76,4 @@ story:
     \ mentioned several times.\nHooting Yard Rating\_: dozens upon dozens of bright\
     \ pointy stars."
   title: Antipode Of Pointy Town
-word_count: 168
+word_count: 167

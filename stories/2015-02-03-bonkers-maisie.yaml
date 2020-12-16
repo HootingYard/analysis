@@ -11,9 +11,6 @@ ngrams:
 - - blind
   - beetles
   - scuttle
-- - ne
-  - er
-  - forget
 - - bonkers
   - maisie
   - dear
@@ -26,6 +23,24 @@ ngrams:
 - - maisie
   - thou
   - art
+- - fair
+  - blind
+  - beetles
+- - madness
+  - looms
+  - behind
+- - eye
+  - that's
+  - missing
+- - pig
+  - sty
+  - kissing
+- - pig
+  - sty
+  - twas
+- - oh
+  - bonkers
+  - maisie
 story:
   date: 2015-02-03
   id: 2015-02-03-bonkers-maisie
@@ -38,4 +53,4 @@ story:
     \ days are, in this rustic hell.\n  Oh Bonkers Maisie, my countryside belle!\n\
     \  They locked you up in the potting shed.\n  Poisoned by lead, poisoned by lead."
   title: Bonkers Maisie
-word_count: 116
+word_count: 113

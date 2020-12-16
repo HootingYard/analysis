@@ -1,13 +1,19 @@
 ngrams:
 - - monopod
   - flautist
-  - dispenses
-- - flautist
-  - dispenses
-  - advice
-- - monopod
-  - flautist
   - writes
+- - flautist
+  - writes
+  - never
+- - never
+  - never
+  - admit
+- - writes
+  - never
+  - never
+- - my
+  - attention
+  - now
 story:
   date: 2014-04-05
   id: 2014-04-05-a-monopod-flautist-writes

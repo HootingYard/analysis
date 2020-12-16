@@ -1,7 +1,4 @@
 ngrams:
-- - academician
-  - chamfer
-  - ticktape
 - - royal
   - academician
   - chamfer
@@ -11,24 +8,15 @@ ngrams:
 - - windswept
   - granite
   - asylum
-- - becoming
-  - gibberingly
-  - insane
 - - fatuous
   - melodramatic
   - incident
-- - instant
-  - becoming
-  - gibberingly
 - - bleak
   - windswept
   - granite
 - - bleak
   - windswept
   - granite
-- - chamfer
-  - ticktape
-  - apart
 - - granite
   - asylum
   - perched
@@ -44,6 +32,108 @@ ngrams:
 - - noted
   - royal
   - academician
+- - h
+  - p
+  - lovecraft
+- - large
+  - nautical
+  - portrait
+- - nautical
+  - portrait
+  - done
+- - eyes
+  - fixed
+  - steadily
+- - hillside
+  - makes
+  - clear
+- - gigantic
+  - painting
+  - done
+- - same
+  - grim
+  - bleak
+- - one's
+  - eyes
+  - fixed
+- - separate
+  - wing
+  - also
+- - wing
+  - also
+  - locked
+- - insanely
+  - while
+  - sucking
+- - keep
+  - one's
+  - eyes
+- - p
+  - lovecraft
+  - yet
+- - must
+  - keep
+  - one's
+- - without
+  - himself
+  - succumbing
+- - deckhand
+  - without
+  - himself
+- - very
+  - same
+  - grim
+- - some
+  - fatuous
+  - melodramatic
+- - being
+  - carted
+  - 'off'
+- - academician
+  - has
+  - refused
+- - royal
+  - academician
+  - has
+- - fellow
+  - has
+  - hinted
+- - slippery
+  - fellow
+  - has
+- - newspaper
+  - hacks
+  - who
+- - has
+  - hinted
+  - either
+- - none
+  - can
+  - look
+- - assistants
+  - then
+  - being
+- - then
+  - being
+  - carted
+- - himself
+  - how
+  - did
+- - 'true'
+  - some
+  - say
+- - painting
+  - referring
+  - all
+- - will
+  - find
+  - gibbering
+- - makes
+  - clear
+  - there
+- - can
+  - look
+  - upon
 story:
   date: 2011-02-14
   id: 2011-02-14-deckhand-with-mop
@@ -76,4 +166,4 @@ story:
     \ viewing this gigantic painting, done in emulsion, one must keep one's eyes fixed\
     \ steadily on the mop, the mop, the mop!"
   title: Deckhand With Mop
-word_count: 366
+word_count: 363

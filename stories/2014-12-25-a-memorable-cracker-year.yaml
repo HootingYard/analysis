@@ -11,12 +11,12 @@ ngrams:
 - - cracker
   - year
   - twas
-- - christmas
-  - dinner
-  - table
 - - memorable
   - cracker
   - year
+- - christmas
+  - dinner
+  - table
 - - expected
   - paper
   - hat
@@ -29,9 +29,6 @@ ngrams:
 - - carefully
   - before
   - buying
-- - cnd
-  - oh
-  - how
 - - buying
   - our
   - christmas
@@ -44,6 +41,33 @@ ngrams:
 - - donned
   - our
   - paper
+- - our
+  - paper
+  - hats
+- - thought
+  - very
+  - carefully
+- - very
+  - s
+  - way
+- - hated
+  - thatcher
+  - 'no'
+- - very
+  - carefully
+  - before
+- - before
+  - buying
+  - our
+- - their
+  - 'false'
+  - consciousness
+- - about
+  - nuclear
+  - weapons
+- - our
+  - righteousness
+  - then
 story:
   date: 2014-12-25
   id: 2014-12-25-a-memorable-cracker-year
@@ -62,4 +86,4 @@ story:
     \ Then we ate and drank our fill and had precisely the same kind of Christmas\
     \ as the lumpenproletariat we so despised."
   title: A Memorable Cracker Year
-word_count: 185
+word_count: 184

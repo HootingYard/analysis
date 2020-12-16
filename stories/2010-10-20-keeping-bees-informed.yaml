@@ -14,18 +14,12 @@ ngrams:
 - - dinner
   - table
   - happened
-- - skep
-  - hive
-  - myself
 - - immediately
   - replied
   - oh
 - - replied
   - oh
   - 'yes'
-- - every
-  - skep
-  - hive
 - - bees
   - ought
   - always
@@ -35,12 +29,39 @@ ngrams:
 - - party
   - present
   - took
-- - told
-  - every
-  - skep
 - - years
   - since
   - observes
+- - she
+  - immediately
+  - replied
+- - bees
+  - whether
+  - she
+- - her
+  - bees
+  - whether
+- - servant
+  - assured
+  - him
+- - bees
+  - informed
+  - some
+- - informed
+  - some
+  - years
+- - into
+  - mourning
+  - john
+- - some
+  - years
+  - since
+- - oh
+  - 'yes'
+  - when
+- - do
+  - she
+  - immediately
 story:
   date: 2010-10-20
   id: 2010-10-20-keeping-bees-informed
@@ -58,4 +79,4 @@ story:
     .\u201D\nJohn Brand, Observations On The Popular Antiquities Of Great Britain:\
     \ Including The Whole Of Mr. Bourne's Antiquitates Vulgares (1777)"
   title: Keeping Bees Informed
-word_count: 173
+word_count: 172

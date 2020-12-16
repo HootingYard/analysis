@@ -1,13 +1,7 @@
 ngrams:
-- - walt
-  - dinsey
-  - sic
 - - feisty
   - bookworm
   - arrives
-- - castle
-  - astride
-  - philippe
 - - lunatic
   - asylum
   - suddenly
@@ -17,18 +11,9 @@ ngrams:
 - - late
   - alan
   - rickman
-- - mellifluous
-  - rada-trained
-  - voice
 - - table
   - manners
   - belle
-- - seems
-  - perfectly
-  - civilised
-- - dinsey
-  - sic
-  - film
 - - bit
   - hairy
   - sporting
@@ -41,9 +26,87 @@ ngrams:
 - - sic
   - film
   - beauty
-- - so-called
-  - beast
-  - seems
+- - bad
+  - table
+  - manners
+- - film
+  - review
+  - yesterday
+- - rating
+  - three
+  - stars
+- - indeterminate
+  - period
+  - days
+- - rather
+  - problematic
+  - relationship
+- - period
+  - days
+  - weeks
+- - neither
+  - hide
+  - nor
+- - days
+  - weeks
+  - months
+- - hide
+  - nor
+  - hair
+- - see
+  - neither
+  - hide
+- - yard
+  - rating
+  - three
+- - children's
+  - nightmares
+  - other
+- - hooting
+  - yard
+  - rating
+- - know
+  - don't
+  - ask
+- - rescue
+  - her
+  - father
+- - mysterious
+  - hooting
+  - yard
+- - her
+  - father's
+  - horse
+- - stable
+  - nor
+  - even
+- - more
+  - fitting
+  - title
+- - horse
+  - until
+  - after
+- - very
+  - mysterious
+  - hooting
+- - feisty
+  - bookworm
+  - has
+- - bookworm
+  - has
+  - expressed
+- - expecting
+  - something
+  - like
+- - horse
+  - its
+  - name
+- - been
+  - feisty
+  - bookworm
+- - then
+  - see
+  - neither
 story:
   date: 2017-03-27
   id: 2017-03-27-film-review
@@ -69,4 +132,4 @@ story:
     \ of concern for him, and we have seen no sign of a stable, nor even a trough.\
     \ It is all very mysterious.\nHooting Yard Rating\_: Three stars for tiptop soup-slurping."
   title: Film Review
-word_count: 294
+word_count: 291

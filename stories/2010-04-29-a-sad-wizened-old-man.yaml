@@ -1,19 +1,4 @@
 ngrams:
-- - guise
-  - beatson
-  - cowley
-- - beatson
-  - cowley
-  - army
-- - cowley
-  - army
-  - chaplain
-- - revd
-  - henry
-  - guise
-- - henry
-  - guise
-  - beatson
 - - wife
   - ethel
   - florence
@@ -35,12 +20,48 @@ ngrams:
 - - florence
   - n
   - e
-- - following
-  - dnb
-  - entry
 - - john
   - guise
   - army
+- - sir
+  - john
+  - guise
+- - christian
+  - dear
+  - frank
+- - peter
+  - christian
+  - dear
+- - ship
+  - john
+  - won
+- - yard
+  - origins
+  - manifest
+- - dorset
+  - village
+  - where
+- - hooting
+  - yard
+  - origins
+- - who
+  - spoke
+  - seldom
+- - stealing
+  - your
+  - unpublished
+- - been
+  - somehow
+  - stealing
+- - somehow
+  - stealing
+  - your
+- - your
+  - unpublished
+  - works
+- - e
+  - prowse
+  - when
 story:
   date: 2010-04-29
   id: 2010-04-29-a-sad-wizened-old-man
@@ -58,4 +79,4 @@ story:
     \ an atheist, attended church services, at which he always asked Cowley's father\
     \ to read the same passage from the Bible\u2014Elijah's vision of the earthquake.\u201D"
   title: A Sad, Wizened Old Man
-word_count: 174
+word_count: 172

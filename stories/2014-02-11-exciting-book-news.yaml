@@ -1,7 +1,4 @@
 ngrams:
-- - jolly
-  - fun-crazed
-  - fellow
 - - present
   - purchasing
   - worries
@@ -26,15 +23,36 @@ ngrams:
 - - better
   - finish
   - writing
-- - godawful
-  - lives
-  - indeed
-- - fun-crazed
-  - fellow
-  - ever
 - - exciting
   - book
   - news
+- - fellow
+  - ever
+  - prepared
+- - panting
+  - world
+  - mr
+- - drab
+  - rather
+  - than
+- - rather
+  - than
+  - red
+- - than
+  - red
+  - without
+- - am
+  - often
+  - mistaken
+- - your
+  - christmas
+  - present
+- - can
+  - already
+  - go
+- - constable
+  - will
+  - unleash
 story:
   date: 2014-02-11
   id: 2014-02-11-exciting-book-news
@@ -55,4 +73,4 @@ story:
 
     Now I had better finish writing the damned thing.'
   title: Exciting Book News
-word_count: 153
+word_count: 151

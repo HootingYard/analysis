@@ -1,25 +1,37 @@
 ngrams:
+- - gal
+  - nowadays
+  - she's
 - - smashing
   - gal
   - nowadays
-- - tilly
-  - tilly
-  - losch
 - - forgot
   - tilly
   - tilly
 - - cross
   - oceans
   - wide
-- - james
-  - shared
-  - tilly
 - - edward
   - james
   - shared
 - - ned
   - collected
   - surrealist
+- - swap
+  - letters
+  - cross
+- - letters
+  - cross
+  - oceans
+- - collected
+  - surrealist
+  - art
+- - ned
+  - young
+  - edward
+- - young
+  - edward
+  - james
 story:
   date: 2017-12-14
   id: 2017-12-14-tilly-losch-song
@@ -30,4 +42,4 @@ story:
     \ Tilly's bed\nSoon enough the pair did part\nNed collected surrealist art\nSome\
     \ influenced by old H. Bosch\nBut he never forgot Tilly\u2014Tilly Losch!"
   title: Tilly Losch Song
-word_count: 91
+word_count: 89

@@ -1,5 +1,8 @@
 ngrams:
 - - sausage
+  - surprise
+  - you'd
+- - sausage
   - expert
   - quoted
 - - world
@@ -8,6 +11,9 @@ ngrams:
 - - world
   - appreciate
   - sausages
+- - surprised
+  - how
+  - many
 story:
   date: 2014-10-20
   id: 2014-10-20-sausage-surprise
@@ -15,4 +21,4 @@ story:
 
     A world sausage expert quoted this morning on Farming Today on Radio Four.'
   title: Sausage Surprise
-word_count: 27
+word_count: 26

@@ -1,10 +1,4 @@
 ngrams:
-- - hardy
-  - organic
-  - life-forms
-- - six-word
-  - phrase
-  - jettisoning
 - - connection
   - albeit
   - tentative
@@ -14,21 +8,15 @@ ngrams:
 - - hideously
   - complicated
   - matters
-- - close
-  - textual
-  - analysis
 - - concurrent
   - lobster
   - research
-- - heretofore
-  - hidden
-  - deep
+- - close
+  - textual
+  - analysis
 - - hidden
   - deep
   - structure
-- - single
-  - six-word
-  - phrase
 - - word
   - lobsters
   - appears
@@ -41,6 +29,39 @@ ngrams:
 - - shed
   - some
   - little
+- - 'no'
+  - great
+  - claims
+- - some
+  - little
+  - light
+- - make
+  - 'no'
+  - great
+- - are
+  - hideously
+  - complicated
+- - one
+  - unexpected
+  - advantage
+- - song
+  - one
+  - unexpected
+- - these
+  - are
+  - hideously
+- - analysis
+  - these
+  - are
+- - suzanne
+  - this
+  - week
+- - we
+  - might
+  - call
+- - suzanne
+  - lobster
+  - but
 story:
   date: 2011-09-09
   id: 2011-09-09-dabbling-with-suzanne

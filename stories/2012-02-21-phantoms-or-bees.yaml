@@ -14,12 +14,21 @@ ngrams:
 - - aubrey
   - brief
   - lives
-- - times
-  - astrologer
-  - mathematician
 - - john
   - aubrey
   - brief
+- - times
+  - astrologer
+  - mathematician
+- - brief
+  - lives
+  - edition
+- - dark
+  - times
+  - astrologer
+- - many
+  - mathematical
+  - instruments
 story:
   date: 2012-02-21
   id: 2012-02-21-phantoms-or-bees

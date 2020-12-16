@@ -1,13 +1,13 @@
 ngrams:
-- - doorbell-ringing
-  - wannabe
-  - biographers
 - - wannabe
   - biographers
   - trudge
 - - tortured
   - christian
   - martyr
+- - poet's
+  - growing
+  - obsession
 - - cassette
   - tapes
   - blank
@@ -17,9 +17,6 @@ ngrams:
 - - unleashing
   - savage
   - packs
-- - weedy
-  - ex-beatnik
-  - calls
 - - tape
   - recorders
   - desperate
@@ -32,9 +29,6 @@ ngrams:
 - - spanish
   - civil
   - war
-- - world-shuddering
-  - kerfuffle
-  - beerpint
 - - phantasmal
   - castle
   - surrounded
@@ -44,6 +38,258 @@ ngrams:
 - - entitled
   - groaning
   - minions
+- - verse
+  - entitled
+  - groaning
+- - twee
+  - verse
+  - entitled
+- - future
+  - biographers
+  - pick
+- - eager
+  - young
+  - whippersnappers
+- - young
+  - whippersnappers
+  - beating
+- - latest
+  - poetry
+  - collection
+- - calls
+  - fictional
+  - autobiography
+- - t
+  - s
+  - eliot
+- - minions
+  - whose
+  - incessant
+- - whose
+  - incessant
+  - groaning
+- - disposition
+  - whose
+  - groaning
+- - fictional
+  - poet
+  - born
+- - write
+  - verse
+  - relentlessly
+- - unremitting
+  - tedium
+  - nothing
+- - tedium
+  - nothing
+  - remotely
+- - fictional
+  - autobiography
+  - fictional
+- - however
+  - rightly
+  - celebrated
+- - nothing
+  - remotely
+  - interesting
+- - having
+  - scurried
+  - breathlessly
+- - munich
+  - air
+  - disaster
+- - munich
+  - air
+  - disaster
+- - autobiography
+  - fictional
+  - note
+- - vapid
+  - verse
+  - let
+- - motion
+  - having
+  - scurried
+- - west
+  - end
+  - musical
+- - andrew
+  - motion
+  - having
+- - hit
+  - west
+  - end
+- - appendix
+  - another
+  - groans
+- - groaning
+  - minions
+  - also
+- - burst
+  - appendix
+  - another
+- - another
+  - panting
+  - whippersnapper
+- - let
+  - future
+  - biographers
+- - minions
+  - also
+  - means
+- - verse
+  - let
+  - future
+- - gets
+  - rather
+  - carried
+- - own
+  - stated
+  - purpose
+- - biographers
+  - trudge
+  - away
+- - remotely
+  - interesting
+  - ever
+- - greatest
+  - poet
+  - ever
+- - interesting
+  - ever
+  - happens
+- - never
+  - swapped
+  - beekeeping
+- - never
+  - declared
+  - insane
+- - quite
+  - frankly
+  - let
+- - another
+  - groans
+  - because
+- - only
+  - fleeting
+  - appearances
+- - these
+  - minions
+  - whose
+- - never
+  - gets
+  - beyond
+- - advancing
+  - years
+  - however
+- - biographers
+  - pick
+  - over
+- - never
+  - actually
+  - existed
+- - does
+  - ever
+  - succeed
+- - years
+  - however
+  - rightly
+- - anyone
+  - does
+  - ever
+- - just
+  - write
+  - verse
+- - frankly
+  - let
+  - us
+- - insane
+  - like
+  - ezra
+- - like
+  - ezra
+  - pound
+- - declared
+  - insane
+  - like
+- - rather
+  - carried
+  - away
+- - lift
+  - our
+  - eyes
+- - musical
+  - like
+  - t
+- - let
+  - us
+  - hope
+- - like
+  - t
+  - s
+- - am
+  - constantly
+  - beset
+- - teasing
+  - us
+  - here
+- - end
+  - musical
+  - like
+- - both
+  - religious
+  - like
+- - make
+  - only
+  - fleeting
+- - wannabe
+  - biographers
+  - who
+- - watch
+  - them
+  - doze
+- - never
+  - even
+  - shared
+- - scurried
+  - breathlessly
+  - up
+- - their
+  - cassette
+  - tapes
+- - clutching
+  - their
+  - notebooks
+- - keep
+  - them
+  - occupied
+- - their
+  - notebooks
+  - empty
+- - notebooks
+  - empty
+  - their
+- - empty
+  - their
+  - cassette
+- - us
+  - here
+  - because
+- - pointless
+  - queries
+  - about
+- - door
+  - clutching
+  - their
+- - later
+  - their
+  - notebooks
+- - them
+  - doze
+  - 'off'
+- - hours
+  - later
+  - their
 story:
   date: 2012-02-08
   id: 2012-02-08-on-groaning-minions
@@ -107,4 +353,4 @@ story:
     \ a second volume of \u201Cfictional autobiography\u201D in the works, but quite\
     \ frankly, let us hope not."
   title: On Groaning Minions
-word_count: 784
+word_count: 779

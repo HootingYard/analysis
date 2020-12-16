@@ -1,40 +1,58 @@
 ngrams:
-- - bakery
-  - toting
-  - pastry-related
 - - vacuum
   - cleaner
   - salesman
-- - dentist
-  - britten
-  - celebrated
-- - toting
-  - pastry-related
-  - items
-- - pastry-related
-  - items
-  - hither
 - - cleaner
   - salesman
   - named
 - - f
   - kennedy
   - incidentally
-- - blind
-  - huxley
-  - answered
+- - salesman
+  - named
+  - don
 - - john
   - f
   - kennedy
-- - young
-  - vacuum
-  - cleaner
 - - president
   - john
   - f
-- - o
-  - waly
-  - waly
+- - young
+  - vacuum
+  - cleaner
+- - named
+  - don
+  - van
+- - c
+  - s
+  - lewis
+- - s
+  - lewis
+  - died
+- - lewis
+  - died
+  - which
+- - end
+  - this
+  - squib
+- - such
+  - matters
+  - are
+- - kennedy
+  - incidentally
+  - not
+- - be
+  - better
+  - known
+- - could
+  - end
+  - this
+- - incidentally
+  - not
+  - long
+- - van
+  - driver
+  - for
 story:
   date: 2007-09-10
   id: 2007-09-10-child-of-a-dentist
@@ -50,4 +68,4 @@ story:
     \ for a bakery, toting pastry-related items hither and yon, and I have no idea\
     \ of his Ma's occupation, alas."
   title: Child Of A Dentist
-word_count: 146
+word_count: 145

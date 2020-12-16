@@ -1,13 +1,19 @@
 ngrams:
-- - jan
-  - van
-  - eyck
 - - headgear
   - jan
   - van
-- - van
-  - eyck
-  - man
+- - of
+  - headgear
+  - jan
+- - kind
+  - of
+  - headgear
+- - right
+  - kind
+  - of
+- - in
+  - a
+  - red
 story:
   date: 2008-11-12
   id: 2008-11-12-the-right-kind-of-headgear

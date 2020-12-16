@@ -2,9 +2,6 @@ ngrams:
 - - casually
   - jeremy
   - thorpe
-- - studio
-  - alastair
-  - burnet
 - - telephone
   - receiver
   - clutched
@@ -32,9 +29,6 @@ ngrams:
 - - rarely
   - essay
   - political
-- - terrible
-  - political
-  - pointyhead
 - - london
   - studio
   - via
@@ -44,6 +38,75 @@ ngrams:
 - - large
   - green
   - telephone
+- - clutched
+  - tight
+  - against
+- - high
+  - level
+  - research
+- - airhead
+  - celebrity
+  - rather
+- - presenter
+  - today
+  - making
+- - enjoy
+  - every
+  - minute
+- - camera
+  - yet
+  - speaking
+- - world
+  - o
+  - westminster
+- - comment
+  - either
+  - because
+- - considered
+  - too
+  - obscure
+- - old
+  - archive
+  - footage
+- - many
+  - treasurable
+  - moments
+- - very
+  - casually
+  - jeremy
+- - political
+  - topics
+  - here
+- - gardening
+  - before
+  - returning
+- - imagine
+  - any
+  - presenter
+- - any
+  - presenter
+  - today
+- - cannot
+  - imagine
+  - any
+- - celebrity
+  - rather
+  - than
+- - can
+  - watch
+  - avidly
+- - said
+  - very
+  - casually
+- - viewers
+  - who
+  - need
+- - into
+  - matters
+  - dobsonian
+- - level
+  - research
+  - into
 story:
   date: 2010-02-20
   id: 2010-02-20-candide-camera
@@ -71,4 +134,4 @@ story:
     \ world o\u2019 Westminster, it will be to an airhead \u201Ccelebrity\u201D rather\
     \ than to an Enlightenment philosophe."
   title: Candide Camera
-word_count: 292
+word_count: 290

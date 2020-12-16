@@ -1,31 +1,43 @@
 ngrams:
-- - residential
-  - neighbourhood
-  - poses
-- - euless
-  - council
-  - sacrificing
 - - disease
   - transmission
   - dangers
 - - poses
   - disease
   - transmission
-- - neighbourhood
-  - poses
-  - disease
 - - sacrifice
   - goats
   - turtles
-- - heresy
-  - corner
-  - investigates
 - - lone
   - duck
   - heresy
-- - council
-  - sacrificing
-  - goats
+- - chickens
+  - guinea
+  - hens
+- - turtles
+  - duck
+  - chickens
+- - duck
+  - chickens
+  - guinea
+- - goats
+  - turtles
+  - duck
+- - duck
+  - heresy
+  - corner
+- - goat
+  - sacrifice
+  - food
+- - o
+  - goat
+  - sacrifice
+- - o
+  - goat
+  - sacrifice
+- - myself
+  - particularly
+  - concerned
 story:
   date: 2009-08-03
   id: 2009-08-03-world-o-goat-sacrifice

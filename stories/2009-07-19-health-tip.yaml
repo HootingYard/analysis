@@ -1,7 +1,4 @@
 ngrams:
-- - greedily
-  - desperately
-  - gurglingly
 - - oil
   - greedily
   - desperately
@@ -32,9 +29,6 @@ ngrams:
 - - until
   - every
   - last
-- - can
-  - gambol
-  - cross
 - - poured
   - oil
   - out
@@ -44,6 +38,33 @@ ngrams:
 - - fancy
   - takes
   - me
+- - which
+  - i'd
+  - stuck
+- - oil
+  - had
+  - dripped
+- - had
+  - dripped
+  - down
+- - my
+  - fists
+  - ached
+- - preserve
+  - my
+  - health
+- - my
+  - syphilitic
+  - friends
+- - my
+  - bare
+  - hands
+- - steered
+  - for
+  - shore
+- - liver
+  - until
+  - my
 story:
   date: 2009-07-19
   id: 2009-07-19-health-tip
@@ -60,4 +81,4 @@ story:
     \ my health, and why I can gambol \u2018cross the greensward with the zip and\
     \ vim of a monkey, when the fancy takes me."
   title: Health Tip
-word_count: 181
+word_count: 180

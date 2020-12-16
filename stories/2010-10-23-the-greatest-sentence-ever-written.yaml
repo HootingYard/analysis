@@ -5,18 +5,12 @@ ngrams:
 - - joyous
   - vertiginous
   - effect
-- - finest
-  - parenthetical
-  - phrase
 - - loud
   - amusement
   - park
 - - rereading
   - pale
   - fire
-- - absolute
-  - favourite
-  - sentence
 - - pale
   - fire
   - contains
@@ -26,6 +20,27 @@ ngrams:
 - - amusement
   - park
   - right
+- - most
+  - magnificent
+  - novel
+- - greatest
+  - sentence
+  - ever
+- - very
+  - loud
+  - amusement
+- - sentence
+  - ever
+  - written
+- - magnificent
+  - novel
+  - just
+- - context
+  - its
+  - placement
+- - its
+  - startling
+  - joyous
 story:
   date: 2010-10-23
   id: 2010-10-23-the-greatest-sentence-ever-written
@@ -39,4 +54,4 @@ story:
     \ effect, it has no peer.\nThere is a very loud amusement park right in front\
     \ of my present lodgings."
   title: The Greatest Sentence Ever Written
-word_count: 113
+word_count: 112

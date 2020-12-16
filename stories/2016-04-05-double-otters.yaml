@@ -1,16 +1,4 @@
 ngrams:
-- - argumentative
-  - boisterous
-  - catarrh-riddled
-- - ill
-  - jaded
-  - knock-knee
-- - boisterous
-  - catarrh-riddled
-  - dismal
-- - catarrh-riddled
-  - dismal
-  - eggy
 - - flip
   - gaunt
   - horrible
@@ -20,6 +8,30 @@ ngrams:
 - - horrible
   - ill
   - jaded
+- - gaunt
+  - horrible
+  - ill
+- - double
+  - otters
+  - mark
+- - song
+  - flip
+  - gaunt
+- - beatles
+  - song
+  - flip
+- - cardboard
+  - slip
+  - accordingly
+- - see
+  - two
+  - otters
+- - exchange
+  - your
+  - slip
+- - otters
+  - mark
+  - your
 story:
   date: 2016-04-05
   id: 2016-04-05-double-otters
@@ -31,4 +43,4 @@ story:
     \ a prize, usually a biro or a balloon.\nHe is a fallen man. When you are not\
     \ looking, he will blub into a napkin."
   title: Double Otters
-word_count: 90
+word_count: 89

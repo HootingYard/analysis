@@ -1,7 +1,4 @@
 ngrams:
-- - sites
-  - olympic
-  - stadiums
 - - clubs
   - choir
   - festivals
@@ -14,27 +11,48 @@ ngrams:
 - - stations
   - supermarkets
   - construction
-- - mountaintops
-  - ocean
-  - shores
 - - construction
   - sites
   - olympic
 - - jazz
   - clubs
   - choir
-- - houses
-  - mountaintops
-  - ocean
 - - patriotic
   - texts
   - sacred
-- - olympic
-  - stadiums
-  - occupied
-- - stadiums
-  - occupied
-  - houses
+- - anniversary
+  - concert
+  - cd
+- - halls
+  - rock
+  - festivals
+- - rock
+  - festivals
+  - jazz
+- - men's
+  - shouting
+  - choir
+- - finnish
+  - men's
+  - shouting
+- - museums
+  - railway
+  - stations
+- - railway
+  - stations
+  - supermarkets
+- - songs
+  - national
+  - anthems
+- - festivals
+  - art
+  - galleries
+- - choir
+  - festivals
+  - art
+- - tubes
+  - white
+  - shirts
 story:
   date: 2008-01-19
   id: 2008-01-19-currently-listening-to
@@ -51,4 +69,4 @@ story:
     \ construction sites, Olympic stadiums, occupied houses, mountaintops, ocean shores\
     \ and wet swamps\u201D, apparently.\nWatch them here. Superb."
   title: "Currently Listening To\u2026"
-word_count: 149
+word_count: 146

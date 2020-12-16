@@ -1,13 +1,4 @@
 ngrams:
-- - luminous
-  - highly-coloured
-  - chemically-enhanced
-- - fizzy
-  - luminous
-  - highly-coloured
-- - highly-coloured
-  - chemically-enhanced
-  - liquid
 - - alien
   - ridley
   - scott
@@ -17,12 +8,12 @@ ngrams:
 - - clunk
   - mop
   - incidentally
-- - wit
-  - top
-  - tips
 - - mop
   - tomorrow
   - wait
+- - wit
+  - top
+  - tips
 - - single
   - dainty
   - glug
@@ -44,6 +35,174 @@ ngrams:
 - - great
   - word
   - mop
+- - start
+  - eating
+  - through
+- - parp
+  - yet
+  - again
+- - pencil
+  - before
+  - scribbling
+- - received
+  - yet
+  - another
+- - every
+  - last
+  - drop
+- - might
+  - start
+  - eating
+- - yet
+  - another
+  - letter
+- - won't
+  - even
+  - begin
+- - other
+  - papery
+  - detritus
+- - entirely
+  - sure
+  - how
+- - its
+  - acidic
+  - content
+- - let
+  - us
+  - pencil
+- - let
+  - us
+  - pencil
+- - two
+  - earlier
+  - words
+- - sure
+  - how
+  - high
+- - day
+  - glue
+  - today
+- - day
+  - glue
+  - word
+- - get
+  - anywhere
+  - after
+- - high
+  - its
+  - acidic
+- - day
+  - mop
+  - perhaps
+- - can
+  - substitute
+  - nap
+- - more
+  - positive
+  - note
+- - thus
+  - far
+  - made
+- - letters
+  - rereading
+  - them
+- - day
+  - after
+  - tomorrow
+- - your
+  - letters
+  - rereading
+- - how
+  - high
+  - its
+- - wittering
+  - about
+  - parp
+- - papery
+  - detritus
+  - into
+- - terrible
+  - misgivings
+  - about
+- - roaring
+  - furnace
+  - when
+- - treat
+  - all
+  - correspondence
+- - they
+  - contain
+  - wisdom
+- - about
+  - parp
+  - again
+- - about
+  - parp
+  - yet
+- - them
+  - every
+  - last
+- - quite
+  - honestly
+  - if
+- - misgivings
+  - about
+  - mr
+- - hoped
+  - would
+  - dissuade
+- - ridley
+  - scott
+  - so
+- - pore
+  - over
+  - your
+- - over
+  - your
+  - letters
+- - so
+  - shamefully
+  - usually
+- - nap
+  - which
+  - means
+- - readers
+  - so
+  - shamefully
+- - composed
+  - an
+  - illustrative
+- - an
+  - illustrative
+  - sentence
+- - decided
+  - after
+  - all
+- - verb
+  - one
+  - mops
+- - itself
+  - so
+  - let
+- - already
+  - composed
+  - an
+- - so
+  - exhausted
+  - after
+- - so
+  - let
+  - us
+- - again
+  - this
+  - series
+- - pesky
+  - correspondent
+  - from
+- - tots
+  - then
+  - so
 story:
   date: 2014-07-26
   id: 2014-07-26-word-of-the-day-glue
@@ -85,4 +244,4 @@ story:
     \ sentence for tomorrow's word of the day, mop. Perhaps I can substitute nap for\
     \ mop, tomorrow. Wait and see."
   title: "Word Of The Day\_: Glue"
-word_count: 550
+word_count: 546

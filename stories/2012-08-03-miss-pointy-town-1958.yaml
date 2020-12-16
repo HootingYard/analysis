@@ -1,13 +1,19 @@
 ngrams:
-- - town
-  - outa
-  - spaceman
 - - pointy
   - town
   - contest
-- - pointy
+- - miss
+  - pointy
   - town
-  - outa
+- - miss
+  - pointy
+  - town
+- - only
+  - from
+  - sends
+- - men
+  - only
+  - from
 story:
   date: 2012-08-03
   id: 2012-08-03-miss-pointy-town-1958
@@ -17,4 +23,4 @@ story:
 
     '
   title: Miss Pointy Town 1958
-word_count: 30
+word_count: 29

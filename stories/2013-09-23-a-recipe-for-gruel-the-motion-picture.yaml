@@ -5,9 +5,15 @@ ngrams:
 - - major
   - cinematic
   - event
-- - picture
+- - motion
+  - picture
   - miss
-  - hathorn
+- - cinematic
+  - event
+  - soon
+- - trailer
+  - here
+  - further
 story:
   date: 2013-09-23
   id: 2013-09-23-a-recipe-for-gruel-the-motion-picture
@@ -17,4 +23,4 @@ story:
     Animation Festival in November. Watch the trailer here. Further news of this major
     cinematic event soon , , ,'
   title: "A Recipe For Gruel\_: The Motion Picture"
-word_count: 39
+word_count: 38

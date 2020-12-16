@@ -2,21 +2,12 @@ ngrams:
 - - dusty
   - hi
   - fi
-- - maestro
-  - blinky
-  - guido
 - - burgess
   - mancunian
   - drunk
 - - anthony
   - burgess
   - mancunian
-- - blinky
-  - guido
-  - laid
-- - swiss
-  - prog-wop
-  - pioneer
 - - e
   - smith
   - cranked
@@ -44,6 +35,96 @@ ngrams:
 - - northern
   - white
   - crap
+- - mrs
+  - gubbins
+  - smuggling
+- - stunned
+  - cows
+  - blinky
+- - alas
+  - mrs
+  - gubbins
+- - cows
+  - stand
+  - stunned
+- - doesn't
+  - bear
+  - thinking
+- - end
+  - la
+  - gubbins
+- - saw
+  - mrs
+  - gubbins
+- - priestley
+  - another
+  - writer
+- - b
+  - priestley
+  - another
+- - new
+  - musical
+  - fad
+- - little
+  - eldritch
+  - unicorns
+- - thing
+  - alas
+  - mrs
+- - most
+  - compelling
+  - evidence
+- - every
+  - single
+  - record
+- - only
+  - grew
+  - tired
+- - fi
+  - system
+  - down
+- - la
+  - gubbins
+  - only
+- - gubbins
+  - only
+  - grew
+- - record
+  - collection
+  - day
+- - her
+  - dusty
+  - hi
+- - her
+  - undiluted
+  - enthusiasm
+- - like
+  - j
+  - b
+- - her
+  - fall
+  - records
+- - her
+  - record
+  - collection
+- - happened
+  - her
+  - undiluted
+- - these
+  - little
+  - eldritch
+- - laid
+  - her
+  - hands
+- - worse
+  - these
+  - little
+- - taken
+  - her
+  - dusty
+- - look
+  - like
+  - j
 story:
   date: 2007-02-20
   id: 2007-02-20-gubbins-music
@@ -73,4 +154,4 @@ story:
     \ a photograph of the Swiss prog-wop pioneer to make him look like J B Priestley,\
     \ another writer who elicits from Mrs Gubbins a strangulated cry of loathing."
   title: Gubbins Music
-word_count: 344
+word_count: 343

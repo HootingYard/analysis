@@ -1,49 +1,73 @@
 ngrams:
-- - smoak
-  - sleep
-  - snoar
-- - ale
-  - smoak
-  - sleep
-- - sleep
-  - snoar
-  - belch
 - - copper
   - lid
-  - till
-- - drink
-  - sixteen
-  - pints
-- - fat
-  - ale
-  - smoak
-- - bell-metal
-  - pot
   - till
 - - christopher
   - smart
   - recipe
-- - brass
-  - kettle
-  - cover
-- - kettle
-  - cover
-  - d
-- - hour
-  - three
-  - minutes
 - - christopher
   - smart
   - take
+- - hour
+  - three
+  - minutes
 - - meat
   - two
   - pounds
-- - fibres
-  - too
-  - hard
 - - digested
   - then
   - boil
+- - smart
+  - recipe
+  - time
+- - seconds
+  - then
+  - eat
+- - other
+  - quantity
+  - let
+- - done
+  - too
+  - much
+- - then
+  - take
+  - cabbage
+- - other
+  - meat
+  - two
+- - two
+  - seconds
+  - then
+- - done
+  - then
+  - take
+- - much
+  - then
+  - slice
+- - any
+  - other
+  - quantity
+- - any
+  - other
+  - meat
+- - much
+  - done
+  - then
+- - forget
+  - your
+  - book
+- - too
+  - much
+  - then
+- - half
+  - an
+  - hour
+- - an
+  - hour
+  - three
+- - turf
+  - or
+  - peat
 story:
   date: 2010-11-02
   id: 2010-11-02-christopher-smart-recipe-time
@@ -61,4 +85,4 @@ story:
     \ two Pounds and a half, and after it drink sixteen Pints of fat Ale, smoak, sleep,\
     \ snoar, belch, and forget your Book.\u201D"
   title: Christopher Smart Recipe Time
-word_count: 192
+word_count: 189

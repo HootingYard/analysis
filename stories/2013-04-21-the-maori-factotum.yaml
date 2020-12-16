@@ -1,40 +1,34 @@
 ngrams:
-- - maori
-  - housekeeper-cum-factotum
-  - hal
-- - housekeeper-cum-factotum
-  - hal
-  - collins
 - - collins
   - te
   - akau
-- - hal
-  - collins
-  - te
 - - inborn
   - technical
   - dexterity
 - - consumed
   - gargantuan
   - quantities
-- - e
-  - j
-  - moeran
+- - te
+  - akau
+  - d
+- - akau
+  - d
+  - collins
 - - heseltine
   - peter
   - warlock
 - - eynsford
   - castle
   - philip
-- - castle
-  - philip
-  - heseltine
 - - philip
   - heseltine
   - peter
 - - club
   - cecil
   - gray
+- - castle
+  - philip
+  - heseltine
 - - maori
   - war
   - dances
@@ -44,6 +38,60 @@ ngrams:
 - - drinking
   - club
   - cecil
+- - perform
+  - maori
+  - war
+- - composer
+  - friend
+  - e
+- - friend
+  - e
+  - j
+- - cecil
+  - gray
+  - gave
+- - maori
+  - factotum
+  - close
+- - london
+  - drinking
+  - club
+- - run
+  - completely
+  - amok
+- - considerable
+  - talent
+  - particularly
+- - less
+  - floating
+  - population
+- - collins
+  - whose
+  - maori
+- - whose
+  - maori
+  - grandmother
+- - 'true'
+  - native
+  - fashion
+- - occasion
+  - almost
+  - succeeded
+- - compose
+  - systematically
+  - also
+- - household
+  - another
+  - snippet
+- - quite
+  - terrifying
+  - realism
+- - quite
+  - remarkable
+  - gift
+- - entire
+  - household
+  - another
 story:
   date: 2013-04-21
   id: 2013-04-21-the-maori-factotum

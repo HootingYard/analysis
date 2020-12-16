@@ -2,9 +2,6 @@ ngrams:
 - - emptiness
   - uncertainty
   - inanity
-- - comment
-  - patrick
-  - kurp
 - - emptiness
   - lies
   - addendum
@@ -14,12 +11,6 @@ ngrams:
 - - aztecs
   - mighty
   - orb
-- - comes
-  - patrick
-  - kurp
-- - ponders
-  - john
-  - ptak
 - - postage
   - header
   - along
@@ -44,6 +35,45 @@ ngrams:
 - - way
   - forward
   - forward
+- - part
+  - should
+  - give
+- - yet
+  - written
+  - best
+- - virtually
+  - any
+  - anecdote
+- - bright
+  - upland
+  - where
+- - other
+  - people's
+  - blog
+- - pondering
+  - some
+  - prose
+- - can
+  - bask
+  - under
+- - done
+  - even
+  - while
+- - anecdote
+  - about
+  - blodgett
+- - mighty
+  - orb
+  - when
+- - writing
+  - about
+  - prose
+- - blodgett
+  - will
+  - fit
+- - can
+  - get
+  - away
 story:
   date: 2009-09-23
   id: 2009-09-23-inanity-and-its-bedfellows
@@ -64,4 +94,4 @@ story:
     \ A Dictionary Of The English Language (1755). Though that is clear from reading\
     \ the postage, I ought to have acknowledged it here."
   title: Inanity And Its Bedfellows
-word_count: 211
+word_count: 207

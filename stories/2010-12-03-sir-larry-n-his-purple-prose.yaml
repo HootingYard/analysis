@@ -8,12 +8,18 @@ ngrams:
 - - quick
   - shag
   - olivier
+- - olivier
+  - doesn't
+  - fall
+- - doesn't
+  - fall
+  - asleep
 - - purple
   - prose
   - olivier
 - - prose
   - olivier
-  - doesn
+  - doesn't
 story:
   date: 2010-12-03
   id: 2010-12-03-sir-larry-n-his-purple-prose
@@ -23,4 +29,4 @@ story:
     \ a masquerade.\u201D\nRoger Lewis, The Real Life Of Laurence Olivier (1996),\
     \ quoting from the actor's autobiography."
   title: Sir Larry & His Purple Prose
-word_count: 60
+word_count: 56

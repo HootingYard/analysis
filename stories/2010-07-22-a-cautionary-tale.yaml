@@ -5,18 +5,24 @@ ngrams:
 - - thing
   - appeared
   - atop
+- - swept
+  - away
+  - i'm
+- - said
+  - he'd
+  - summon
 - - grunty
   - man
   - instead
+- - away
+  - i'm
+  - going
 - - its
   - talons
   - tore
 - - hands
   - passed
   - down
-- - looking-glass
-  - just
-  - after
 - - counted
   - slowly
   - up
@@ -38,6 +44,18 @@ ngrams:
 - - find
   - out
   - where
+- - this
+  - thing
+  - attacked
+- - instead
+  - this
+  - thing
+- - can
+  - find
+  - out
+- - man
+  - instead
+  - this
 story:
   date: 2010-07-22
   id: 2010-07-22-a-cautionary-tale
@@ -52,4 +70,4 @@ story:
     cow by casting a fiendish spell on him, a spell so fiendish and so grim that he'll
     regret he messed with me. I am the Grunty Man, you see.
   title: A Cautionary Tale
-word_count: 162
+word_count: 158

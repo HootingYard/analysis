@@ -1,34 +1,13 @@
 ngrams:
-- - gladioli
-  - choctaw
-  - lineage
-- - strudwick
-  - madge
-  - strudwick
-- - strudwick
-  - madge
-  - strudwick
-- - strudwick
-  - madge
-  - strudwick
-- - madge
-  - strudwick
-  - madge
-- - madge
-  - strudwick
-  - madge
-- - madge
-  - strudwick
-  - madge
 - - planetary
   - influences
   - chocolate
+- - chapman's
+  - homer
+  - dreary
 - - dreary
   - rainy
   - autumnal
-- - antimacassar
-  - nunnery
-  - pincers
 - - homer
   - dreary
   - rainy
@@ -44,6 +23,78 @@ ngrams:
 - - recipes
   - planetary
   - influences
+- - competitions
+  - airship
+  - disasters
+- - anaconda
+  - hoop
+  - shutters
+- - vampires
+  - baffling
+  - reappearance
+- - snapshots
+  - filbert
+  - hedges
+- - pincers
+  - peg
+  - tap
+- - murder
+  - shortcake
+  - recipes
+- - clown
+  - murder
+  - shortcake
+- - impediment
+  - holiday
+  - snapshots
+- - chatterbox
+  - clown
+  - murder
+- - november
+  - ribbons
+  - melodrama
+- - choctaw
+  - lineage
+  - speech
+- - lineage
+  - speech
+  - impediment
+- - holiday
+  - snapshots
+  - filbert
+- - ribbons
+  - melodrama
+  - shoes
+- - worship
+  - pet
+  - budgerigar
+- - implement
+  - pantry
+  - etiquette
+- - snodgrass
+  - implement
+  - pantry
+- - tuffet
+  - eating
+  - curds
+- - influences
+  - chocolate
+  - swiss
+- - infernal
+  - drums
+  - pictures
+- - speech
+  - impediment
+  - holiday
+- - dot
+  - dress
+  - ignominy
+- - polka
+  - dot
+  - dress
+- - chocolate
+  - swiss
+  - roll
 story:
   date: 2014-10-22
   id: 2014-10-22-madge-strudwick
@@ -70,4 +121,4 @@ story:
     \ nunnery, pincers, peg, tap, bedevilment, soot, soap, soup. Extra points will\
     \ be given for pointy bits."
   title: Madge Strudwick
-word_count: 265
+word_count: 261

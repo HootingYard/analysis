@@ -1,13 +1,19 @@
 ngrams:
-- - haven
-  - t
-  - read
-- - t
+- - haven't
   - read
   - 'no'
 - - read
   - 'no'
   - more
+- - 'no'
+  - more
+  - at
+- - books
+  - i
+  - haven't
+- - i
+  - haven't
+  - read
 story:
   date: 2010-02-24
   id: 2010-02-24-books-i-havent-read-no-1
@@ -15,4 +21,4 @@ story:
 
     More at Agence Eureka'
   title: Books I Haven't Read, No. 1
-word_count: 10
+word_count: 9

@@ -2,30 +2,18 @@ ngrams:
 - - hates
   - continental
   - sauces
-- - bloater-eating
-  - blighter
-  - dancing
 - - blighter
   - eating
   - bloaters
 - - blighter
   - eating
   - bloaters
+- - music
+  - halls
+  - there's
 - - strings
   - onions
   - round
-- - guv
-  - o
-  - lor
-- - o
-  - lumme
-  - guv
-- - lumme
-  - guv
-  - o
-- - shore
-  - o
-  - lumme
 - - continental
   - shore
   - o
@@ -38,12 +26,51 @@ ngrams:
 - - nor
   - strings
   - onions
-- - brechtian
-  - sea-shanty
-  - once
-- - sea-shanty
-  - once
-  - sung
+- - good
+  - ship
+  - marmaduke
+- - must
+  - eat
+  - mayonnaise
+- - last
+  - i'm
+  - mindful
+- - eating
+  - bloaters
+  - well
+- - other
+  - sailors
+  - pick
+- - sailors
+  - pick
+  - him
+- - trades
+  - give
+  - me
+- - give
+  - me
+  - sauce
+- - forces
+  - so
+  - give
+- - pick
+  - him
+  - up
+- - eats
+  - so
+  - many
+- - so
+  - many
+  - bloaters
+- - continental
+  - sauces
+  - but
+- - explain
+  - all
+  - about
+- - will
+  - explain
+  - all
 story:
   date: 2011-03-10
   id: 2011-03-10-bloaters-and-mayonnaise
@@ -62,4 +89,4 @@ story:
     \ the engines of commerce and exchange and of all sorts of trades. Give me my\
     \ breakfast bloaters and don't stint on mayonnaise!"
   title: Bloaters And Mayonnaise
-word_count: 203
+word_count: 197

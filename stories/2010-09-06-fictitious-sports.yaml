@@ -5,9 +5,6 @@ ngrams:
 - - repressed
   - sport
   - enthusiasts
-- - punishing
-  - training
-  - regime
 - - previously
   - repressed
   - passages
@@ -17,33 +14,105 @@ ngrams:
 - - astray
   - railway
   - timetables
-- - railway
-  - timetables
-  - proved
 - - tivol
   - won
   - renown
-- - well-stocked
-  - fictional
-  - stationery
-- - remotely
-  - fictional
-  - polevaulting
-- - bobnit
-  - tivol
-  - join
-- - athlete
-  - bobnit
-  - tivol
-- - bobnit
-  - tivol
-  - won
+- - railway
+  - timetables
+  - proved
 - - running
   - tracks
   - following
-- - against
-  - markus
-  - geissler
+- - fictional
+  - dotted
+  - line
+- - fictional
+  - stationery
+  - shop
+- - themselves
+  - remotely
+  - fictional
+- - telegrams
+  - went
+  - astray
+- - mishaps
+  - telegrams
+  - went
+- - almost
+  - hallucinatory
+  - passage
+- - strange
+  - almost
+  - hallucinatory
+- - went
+  - astray
+  - railway
+- - different
+  - path
+  - unlike
+- - fictitious
+  - sports
+  - while
+- - stationery
+  - shop
+  - take
+- - mishap
+  - dogged
+  - old
+- - terrifyingly
+  - real
+  - yet
+- - training
+  - regime
+  - old
+- - too
+  - terrifyingly
+  - real
+- - show
+  - how
+  - sporting
+- - those
+  - cinder
+  - running
+- - how
+  - sporting
+  - history
+- - rainfall
+  - those
+  - sorts
+- - round
+  - those
+  - cinder
+- - repressed
+  - memoirs
+  - where
+- - page
+  - after
+  - page
+- - only
+  - fell
+  - apart
+- - sporting
+  - history
+  - might
+- - athlete
+  - could
+  - sign
+- - fictional
+  - athlete
+  - could
+- - memoirs
+  - where
+  - old
+- - join
+  - their
+  - fennel
+- - their
+  - fennel
+  - team
+- - nobody
+  - could
+  - find
 story:
   date: 2010-09-06
   id: 2010-09-06-fictitious-sports
@@ -73,4 +142,4 @@ story:
     Take it from me, the Repressed Memoirs Of Old Halob is suitable reading for repressed\
     \ sport enthusiasts of any stripe."
   title: Fictitious Sports
-word_count: 313
+word_count: 311

@@ -1,10 +1,16 @@
 ngrams:
+- - hell
+  - nicholas
+  - ray's
 - - james
   - mason
   - declaims
-- - hell
-  - nicholas
-  - ray
+- - nicholas
+  - ray's
+  - film
+- - ray's
+  - film
+  - bigger
 - - enthusiasms
   - number
   - six
@@ -15,4 +21,4 @@ story:
     \ Ray's 1956 film Bigger Than Life, in which James Mason declaims, as only James\
     \ Mason could, \u201CGod was wrong!\u201D"
   title: Enthusiasms, Number Six
-word_count: 36
+word_count: 35

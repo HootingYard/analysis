@@ -1,10 +1,4 @@
 ngrams:
-- - mussolini
-  - il
-  - duce
-- - il
-  - duce
-  - translated
 - - ipsy
   - dipsy
   - doo
@@ -26,9 +20,6 @@ ngrams:
 - - having
   - thoroughly
   - digested
-- - diary
-  - tiny
-  - enid
 - - master
   - mr
   - cribbins
@@ -41,9 +32,99 @@ ngrams:
 - - violence
   - people
   - often
+- - morning's
+  - work
+  - later
+- - station
+  - master
+  - mr
 - - botany
   - bay
   - made
+- - people
+  - often
+  - forget
+- - dithering
+  - old
+  - station
+- - simple
+  - little
+  - girly
+- - good
+  - morning's
+  - work
+- - old
+  - station
+  - master
+- - wings
+  - 'off'
+  - flies
+- - mysterious
+  - mentor
+  - back
+- - every
+  - last
+  - smidgen
+- - take
+  - great
+  - pleasure
+- - press
+  - every
+  - last
+- - plucky
+  - tot
+  - such
+- - breakfast
+  - washed
+  - down
+- - bone
+  - marrow
+  - then
+- - rails
+  - then
+  - buried
+- - pick
+  - some
+  - peonies
+- - about
+  - mussolini
+  - il
+- - doo
+  - about
+  - mussolini
+- - dipsy
+  - doo
+  - about
+- - translated
+  - into
+  - english
+- - made
+  - him
+  - swear
+- - made
+  - him
+  - glue
+- - struck
+  - fear
+  - into
+- - up
+  - mr
+  - cribbins
+- - took
+  - up
+  - mr
+- - then
+  - buried
+  - him
+- - bay
+  - made
+  - me
+- - an
+  - upstanding
+  - citizen
+- - can
+  - 'no'
+  - longer
 story:
   date: 2013-01-04
   id: 2013-01-04-tiny-enids-diary-4-1-34
@@ -72,4 +153,4 @@ story:
     \ throughout the land. It was a good morning's work.\nLater I cut this picture\
     \ out of a magazine:\n"
   title: Tiny Enid's Diary 4.1.34
-word_count: 347
+word_count: 343

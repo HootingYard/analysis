@@ -2,30 +2,45 @@ ngrams:
 - - farmer
   - frack
   - burns
-- - jill
-  - oh
-  - thank
+- - farmer
+  - frack
+  - we've
+- - sack
+  - i've
+  - half
 - - sack
   - o
   - weasels
 - - sack
   - o
+  - weasels
+- - jill
+  - oh
+  - thank
+- - sure
+  - they're
   - weasels
 - - o
   - weasels
   - round
+- - frack
+  - we've
+  - always
+- - we've
+  - always
+  - wanted
 - - always
   - wanted
   - weasels
-- - ve
-  - always
-  - wanted
 - - little
   - baby
   - goats
 - - old
   - farmer
   - frack
+- - farmer
+  - frack
+  - old
 story:
   date: 2018-04-06
   id: 2018-04-06-folk-song
@@ -38,4 +53,4 @@ story:
     \ And gives the sack o\u2019 weasels to Jack and Jill\nOh thank you, thank you,\
     \ Old Farmer Frack!\nWe've always wanted weasels in a sack!"
   title: Folk Song
-word_count: 118
+word_count: 113

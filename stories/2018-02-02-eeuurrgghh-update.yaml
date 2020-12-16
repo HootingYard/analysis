@@ -1,10 +1,4 @@
 ngrams:
-- - eeuurrgghh
-  - update
-  - blimey
-- - unique
-  - bespoke
-  - paperback
 - - bed
   - moaning
   - weakly
@@ -17,15 +11,18 @@ ngrams:
 - - interconnected
   - pieces
   - o
-- - particularly
-  - sick
-  - dog
 - - pieces
   - o
   - prose
+- - particularly
+  - sick
+  - dog
 - - o
   - prose
   - none
+- - new
+  - year's
+  - eve
 - - yard
   - auction
   - item
@@ -38,9 +35,33 @@ ngrams:
 - - hooting
   - yard
   - auction
+- - year's
+  - hooting
+  - yard
 - - set
   - hooting
   - yard
+- - shall
+  - see
+  - how
+- - then
+  - spent
+  - most
+- - hooting
+  - yard
+  - back
+- - few
+  - days
+  - do
+- - some
+  - new
+  - prose
+- - will
+  - give
+  - generously
+- - written
+  - we
+  - shall
 story:
   date: 2018-02-02
   id: 2018-02-02-eeuurrgghh-update
@@ -57,4 +78,4 @@ story:
     \ item, a unique bespoke paperback to be issued in an edition of one.\nI shall\
     \ try to be back tomorrow, with some new prose \u2026"
   title: Eeuurrgghh Update
-word_count: 176
+word_count: 174

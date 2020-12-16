@@ -1,7 +1,4 @@
 ngrams:
-- - unbridled
-  - fanaticism
-  - vii
 - - unveiled
   - cower
   - v
@@ -17,9 +14,6 @@ ngrams:
 - - dainty
   - napkin
   - iii
-- - fanaticism
-  - vii
-  - drink
 - - moral
   - balance
   - vi
@@ -29,15 +23,42 @@ ngrams:
 - - noisy
   - potato
   - crisp
-- - vii
-  - drink
-  - ye
 - - potato
   - crisp
   - munching
-- - vapours
-  - noisy
-  - potato
+- - exciting
+  - moments
+  - ii
+- - interrupt
+  - one's
+  - babbling
+- - lugubrious
+  - music
+  - lopsided
+- - conducted
+  - themselves
+  - properly
+- - please
+  - remain
+  - seated
+- - remain
+  - seated
+  - during
+- - music
+  - lopsided
+  - prose
+- - vi
+  - applause
+  - should
+- - evening
+  - thus
+  - included
+- - iii
+  - spillages
+  - must
+- - drink
+  - ye
+  - every
 story:
   date: 2011-11-21
   id: 2011-11-21-instructions
@@ -55,4 +76,4 @@ story:
     VII. Drink ye every one the waters of his own cistern, until I come and take you\
     \ away (Isaiah, 36\_: 16,17)"
   title: Instructions
-word_count: 166
+word_count: 164

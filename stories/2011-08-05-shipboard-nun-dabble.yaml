@@ -1,19 +1,22 @@
 ngrams:
-- - shipboard
-  - nun
-  - dabble
+- - patrick's
+  - cemetery
+  - leytonstone
 - - drowned
   - franciscan
   - nuns
-- - gerard
-  - manley
-  - hopkins
 - - anecdote
   - sister
   - hortense
+- - gerard
+  - manley
+  - hopkins
 - - amusing
   - anecdote
   - sister
+- - st
+  - patrick's
+  - cemetery
 - - four
   - drowned
   - franciscan
@@ -26,18 +29,36 @@ ngrams:
 - - christ
   - christ
   - come
-- - exhumed
-  - dusted
-  - down
 - - cemetery
   - leytonstone
   - where
 - - even
   - taller
   - nun
-- - henrica
-  - fassbender
+- - long
+  - long
+  - ago
+- - other
+  - four
+  - drowned
+- - buried
+  - go
+  - here
+- - deutschland
   - her
+  - name
+- - yard
+  - long
+  - long
+- - her
+  - name
+  - incidentally
+- - fassbender
+  - her
+  - last
+- - hooting
+  - yard
+  - long
 story:
   date: 2011-08-05
   id: 2011-08-05-shipboard-nun-dabble
@@ -54,4 +75,4 @@ story:
     \ All they have in common is nundom, tallness, and of course a predilection for\
     \ ships, in Hortense's case a barquentine, in Henrica's a German steamship."
   title: Shipboard Nun Dabble
-word_count: 164
+word_count: 161

@@ -1,7 +1,4 @@
 ngrams:
-- - mohammed
-  - cartoon
-  - non-controversy
 - - witterings
   - posted
   - below
@@ -11,6 +8,18 @@ ngrams:
 - - without
   - causing
   - ructions
+- - own
+  - mohammed
+  - cartoon
+- - causing
+  - ructions
+  - here
+- - prophet
+  - appeared
+  - here
+- - here
+  - without
+  - causing
 story:
   date: 2008-11-27
   id: 2008-11-27-blasphemy
@@ -21,4 +30,4 @@ story:
     \ your eyes if you do not wish to be offended.\n\n\_\n\_\n\_\n\_\n\_\n\_\n\_\n\
     \_\n\_"
   title: Blasphemy
-word_count: 59
+word_count: 57

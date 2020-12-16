@@ -1,13 +1,4 @@
 ngrams:
-- - avunculi
-  - samuelis
-  - synthetic
-- - samuelis
-  - synthetic
-  - mexican
-- - micro-axially
-  - condensed
-  - typewriter
 - - astoundingly
   - unreadable
   - novels
@@ -17,33 +8,117 @@ ngrams:
 - - sport
   - outrageous
   - accents
-- - harry
-  - stephen
-  - keeler
-- - harry
-  - stephen
-  - keeler
-- - harry
-  - stephen
-  - keeler
 - - novelist
   - harry
   - stephen
-- - stephen
-  - keeler
-  - society
 - - green
   - wax
   - seal
-- - richard
-  - polt
-  - author
 - - outrageous
   - accents
   - sitting
 - - whom
   - sport
   - outrageous
+- - condensed
+  - typewriter
+  - note
+- - above
+  - extracts
+  - writes
+- - typewriter
+  - note
+  - richard
+- - makes
+  - perfect
+  - sense
+- - posthumous
+  - big
+  - tin
+- - big
+  - tin
+  - medal
+- - rather
+  - breathless
+  - tone
+- - talking
+  - oh
+  - 'yes'
+- - end
+  - reader
+  - tim
+- - most
+  - astoundingly
+  - unreadable
+- - yard
+  - sainthood
+  - committee
+- - rather
+  - shamefaced
+  - note
+- - unreadable
+  - novels
+  - ever
+- - another
+  - character
+  - comes
+- - night
+  - talking
+  - oh
+- - two
+  - phone
+  - calls
+- - these
+  - chapter
+  - titles
+- - sainthood
+  - committee
+  - here
+- - ever
+  - written
+  - consists
+- - novels
+  - ever
+  - written
+- - only
+  - plead
+  - corruption
+- - four
+  - characters
+  - two
+- - almost
+  - five
+  - years
+- - five
+  - years
+  - ago
+- - hooting
+  - yard
+  - sainthood
+- - having
+  - now
+  - spent
+- - himself
+  - having
+  - now
+- - can
+  - only
+  - plead
+- - character
+  - comes
+  - into
+- - already
+  - been
+  - given
+- - run
+  - into
+  - each
+- - about
+  - these
+  - chapter
+- - these
+  - novels
+  - were
 story:
   date: 2009-03-01
   id: 2009-03-01-exclamation-marks
@@ -73,4 +148,4 @@ story:
     himself!!\u201D Having now spent a couple of days reading Keeler myself, this\
     \ makes perfect sense!!!!"
   title: Exclamation Marks!!!
-word_count: 326
+word_count: 325

@@ -1,25 +1,13 @@
 ngrams:
-- - nutter
-  - sinbad
-  - hoonjaw
-- - hoonjaw
-  - sinbad
-  - hoonjaw
-- - sinbad
-  - hoonjaw
-  - sinbad
 - - salty
   - tear
   - weep
-- - hoonjaw
-  - ran
-  - amok
-- - sinbad
-  - hoonjaw
-  - ran
 - - dear
   - sinbad
   - rattle
+- - news
+  - you'll
+  - hate
 - - oh
   - dearest
   - sinbad
@@ -29,21 +17,75 @@ ngrams:
 - - council
   - dump
   - oh
-- - thirty-two
-  - thirty-two
-  - eyes
 - - gutter
   - oh
   - dearest
-- - hoonjaw
-  - went
-  - astray
-- - sinbad
-  - hoonjaw
-  - went
 - - dump
   - oh
   - dear
+- - suit
+  - does
+  - anybody
+- - oh
+  - dear
+  - dear
+- - dearest
+  - sinbad
+  - take
+- - george
+  - formby
+  - while
+- - paper
+  - suit
+  - does
+- - does
+  - anybody
+  - give
+- - sinbad
+  - today
+  - because
+- - today
+  - because
+  - sinbad
+- - say
+  - he's
+  - cute
+- - say
+  - he's
+  - twee
+- - sin
+  - now
+  - spit
+- - thin
+  - now
+  - spit
+- - like
+  - george
+  - formby
+- - meaning
+  - like
+  - george
+- - k
+  - then
+  - threw
+- - special
+  - k
+  - then
+- - some
+  - bean
+  - sprouts
+- - fried
+  - some
+  - bean
+- - disappear
+  - oh
+  - do
+- - too
+  - many
+  - eyes
+- - sinbad
+  - rattle
+  - your
 story:
   date: 2014-02-14
   id: 2014-02-14-sinbad-hoonjaw
@@ -64,4 +106,4 @@ story:
     \ while window-cleaning.\n  You're up so high where the air is thin\n  Now spit\
     \ the words out into the bin."
   title: Sinbad Hoonjaw
-word_count: 242
+word_count: 237

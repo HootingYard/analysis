@@ -1,40 +1,55 @@
 ngrams:
-- - big
-  - foopball
-  - tournament
-- - find
-  - ourselves
-  - wondering
+- - baby
+  - gazelle
+  - who'd
 - - world
   - cup
   - coincided
-- - foopball
-  - world
-  - cup
-- - dangerous
-  - little
-  - winger
+- - find
+  - ourselves
+  - wondering
 - - standard
   - measure
   - these
+- - never
+  - answered
+  - more's
+- - gazelle
+  - who'd
+  - just
 - - year
   - came
   - early
+- - who'd
+  - just
+  - plopped
 - - measure
   - these
   - questions
-- - d
-  - just
-  - plopped
-- - hooting
-  - yard
-  - shutdown
-- - baby
-  - gazelle
-  - who
+- - man
+  - said
+  - he's
 - - bbc
   - man
   - said
+- - commentators
+  - each
+  - time
+- - tv
+  - babblers
+  - will
+- - ourselves
+  - wondering
+  - if
+- - were
+  - never
+  - answered
+- - these
+  - questions
+  - were
+- - babblers
+  - will
+  - say
 story:
   date: 2018-07-13
   id: 2018-07-13-the-dunst-comparator
@@ -51,4 +66,4 @@ story:
     \ to Kirsten Dunst a standard measure? These questions were never answered, more's\
     \ the pity."
   title: The Dunst Comparator
-word_count: 148
+word_count: 143

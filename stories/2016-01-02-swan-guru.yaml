@@ -1,34 +1,31 @@
 ngrams:
-- - gawped
-  - open-mouthed
-  - dribbling
-- - breathtaking
-  - spiritual
-  - insight
 - - infant
   - raymond
   - roussel
-- - open-mouthed
-  - dribbling
-  - slightly
+- - breathtaking
+  - spiritual
+  - insight
 - - perfect
   - spiritual
   - teacher
 - - woe
   - betide
   - anybody
+- - writer's
+  - swan
+  - guru
 - - notable
   - authors
   - sitting
 - - notable
   - authors
   - sitting
-- - stand
-  - upright
-  - sprawled
 - - auspicious
   - start
   - yesterday
+- - stand
+  - upright
+  - sprawled
 - - raymond
   - roussel
   - sat
@@ -44,6 +41,162 @@ ngrams:
 - - whatever
   - spiritual
   - wisdom
+- - swan
+  - guru
+  - outside
+- - home
+  - woe
+  - betide
+- - bbc
+  - radio
+  - four
+- - swan
+  - saw
+  - fit
+- - start
+  - yesterday
+  - morning
+- - entirely
+  - different
+  - swan
+- - own
+  - swan
+  - guru
+- - own
+  - swan
+  - guru
+- - myself
+  - open
+  - fully
+- - year
+  - spread
+  - across
+- - yesterday
+  - morning
+  - almost
+- - extremely
+  - myopic
+  - two
+- - lay
+  - myself
+  - open
+- - yard
+  - series
+  - notable
+- - new
+  - year
+  - vim
+- - new
+  - year
+  - spread
+- - savage
+  - new
+  - year
+- - human
+  - being
+  - possessed
+- - new
+  - year
+  - swans
+- - particular
+  - swan
+  - here
+- - heard
+  - after
+  - tuning
+- - dark
+  - before
+  - dawn
+- - new
+  - year
+  - got
+- - nearest
+  - swan
+  - might
+- - year
+  - got
+  - 'off'
+- - having
+  - forgotten
+  - how
+- - dribbling
+  - slightly
+  - like
+- - popular
+  - hooting
+  - yard
+- - dusted
+  - myself
+  - down
+- - myself
+  - down
+  - bid
+- - toppled
+  - over
+  - having
+- - over
+  - having
+  - forgotten
+- - hooting
+  - yard
+  - series
+- - very
+  - own
+  - swan
+- - am
+  - extremely
+  - myopic
+- - swan
+  - might
+  - well
+- - guru
+  - next
+  - time
+- - break
+  - their
+  - arm
+- - stood
+  - up
+  - dusted
+- - swan
+  - well
+  - then
+- - breathtaking
+  - insight
+  - into
+- - swans
+  - were
+  - scudding
+- - were
+  - swan
+  - guru
+- - up
+  - dusted
+  - myself
+- - insight
+  - into
+  - swans
+- - can
+  - only
+  - describe
+- - radio
+  - four
+  - were
+- - four
+  - were
+  - swan
+- - year
+  - swans
+  - were
+- - would
+  - prove
+  - critical
+- - minutes
+  - would
+  - prove
+- - all
+  - conscious
+  - thought
 story:
   date: 2016-01-02
   id: 2016-01-02-swan-guru
@@ -85,4 +238,4 @@ story:
     \ a wave of my hand, and set off for home. Woe betide anybody I met along the\
     \ way. With one thwack of my wing, I would break their arm."
   title: Swan Guru
-word_count: 534
+word_count: 532

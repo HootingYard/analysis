@@ -2,12 +2,6 @@ ngrams:
 - - explicitly
   - religious
   - content
-- - advent
-  - calendar
-  - xviii
-- - calendar
-  - xviii
-  - according
 - - mayan
   - bat
   - god
@@ -17,6 +11,21 @@ ngrams:
 - - yard
   - advent
   - calendar
+- - yard
+  - advent
+  - calendar
+- - hooting
+  - yard
+  - advent
+- - hooting
+  - yard
+  - advent
+- - injected
+  - some
+  - explicitly
+- - some
+  - explicitly
+  - religious
 story:
   date: 2011-12-18
   id: 2011-12-18-hooting-yard-advent-calendar-xviii

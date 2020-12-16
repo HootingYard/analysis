@@ -1,7 +1,7 @@
 ngrams:
-- - peter
-  - de
-  - vries
+- - somewhere
+  - he's
+  - got
 - - find
   - yourself
   - spending
@@ -20,6 +20,15 @@ ngrams:
 - - just
   - how
   - easy
+- - discovered
+  - just
+  - how
+- - far
+  - too
+  - long
+- - do
+  - these
+  - wise
 story:
   date: 2010-06-15
   id: 2010-06-15-art
@@ -30,4 +39,4 @@ story:
     \ the artist to shovel on reds and greens and oranges and purples in any quantity\
     \ and as higgledy-piggledy as he wishes. But somewhere he's got to draw a line.\u201D"
   title: Art
-word_count: 88
+word_count: 87

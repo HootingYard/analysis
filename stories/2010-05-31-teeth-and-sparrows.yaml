@@ -1,13 +1,4 @@
 ngrams:
-- - gum
-  - scarified
-  - therewith
-- - scarified
-  - therewith
-  - care
-- - immediately
-  - cure
-  - tooth-ache
 - - young
   - sparrows
   - burnt
@@ -16,9 +7,6 @@ ngrams:
   - ad
 - - medullary
   - channel
-  - being
-- - therewith
-  - care
   - being
 - - last
   - remedy
@@ -29,6 +17,36 @@ ngrams:
 - - channel
   - being
   - left
+- - care
+  - being
+  - taken
+- - sparrows
+  - burnt
+  - upon
+- - burnt
+  - upon
+  - twigs
+- - upon
+  - twigs
+  - mixed
+- - intact
+  - will
+  - immediately
+- - will
+  - immediately
+  - cure
+- - left
+  - intact
+  - will
+- - an
+  - intolerable
+  - itching
+- - side
+  - affected
+  - this
+- - this
+  - last
+  - remedy
 story:
   date: 2010-05-31
   id: 2010-05-31-teeth-and-sparrows
@@ -43,4 +61,4 @@ story:
     \ burnt upon twigs, mixed with vinegar for the purpose.\u201D\nPliny The Elder,\
     \ The Natural History (AD 77\u201379)"
   title: Teeth And Sparrows
-word_count: 131
+word_count: 129

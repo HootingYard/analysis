@@ -1,31 +1,43 @@
 ngrams:
-- - hand-held
-  - computerised
-  - devices
-- - computer
-  - password
-  - fuckup
-- - crime
-  - drama
-  - forbrydelsen
-- - wet
-  - tee-shirt
-  - competition
 - - danish
   - television
   - crime
 - - television
   - crime
   - drama
-- - power
-  - wet
-  - tee-shirt
 - - girl
   - power
   - wet
 - - handy
   - app
   - does
+- - does
+  - instant
+  - translations
+- - app
+  - does
+  - instant
+- - exciting
+  - new
+  - apps
+- - common
+  - phrases
+  - such
+- - instant
+  - translations
+  - into
+- - translations
+  - into
+  - danish
+- - fortune
+  - if
+  - millions
+- - complaining
+  - one
+  - app
+- - this
+  - handy
+  - app
 story:
   date: 2012-03-30
   id: 2012-03-30-app-dabbling

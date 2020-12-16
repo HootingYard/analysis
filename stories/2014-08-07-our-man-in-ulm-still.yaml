@@ -1,10 +1,13 @@
 ngrams:
-- - bitterns
-  - whose
-  - stormy
+- - medical
+  - condition
+  - s
 - - foreseeable
   - future
   - yesterday
+- - bitterns
+  - whose
+  - stormy
 - - whose
   - stormy
   - appearance
@@ -20,9 +23,6 @@ ngrams:
 - - these
   - sausages
   - indoors
-- - don
-  - t
-  - blame
 - - eat
   - these
   - sausages
@@ -38,12 +38,117 @@ ngrams:
 - - still
   - another
   - dispatch
-- - ulm
-  - still
-  - another
 - - happier
   - fellow
   - over
+- - few
+  - feet
+  - away
+- - must
+  - eat
+  - these
+- - never
+  - come
+  - across
+- - bone
+  - dry
+  - 'no'
+- - always
+  - damp
+  - can
+- - little
+  - more
+  - prone
+- - damp
+  - squib
+  - if
+- - entirely
+  - sure
+  - what
+- - some
+  - might
+  - describe
+- - blame
+  - me
+  - blame
+- - don't
+  - blame
+  - me
+- - sprawled
+  - there
+  - eating
+- - cannot
+  - remember
+  - when
+- - remember
+  - when
+  - last
+- - sausages
+  - so
+  - suitable
+- - easily
+  - available
+  - are
+- - available
+  - are
+  - sausages
+- - so
+  - don't
+  - blame
+- - your
+  - reading
+  - over
+- - being
+  - your
+  - man
+- - more
+  - galling
+  - when
+- - describe
+  - this
+  - dispatch
+- - legally
+  - there
+  - may
+- - has
+  - blotted
+  - out
+- - made
+  - us
+  - all
+- - let
+  - alone
+  - one
+- - dry
+  - or
+  - bone
+- - or
+  - bone
+  - dry
+- - sausages
+  - indoors
+  - or
+- - moist
+  - or
+  - wet
+- - wet
+  - or
+  - soaking
+- - or
+  - soaking
+  - wet
+- - soaking
+  - wet
+  - or
+- - wet
+  - or
+  - drenched
+- - one
+  - thinks
+  - how
+- - symptoms
+  - have
+  - abated
 story:
   date: 2014-08-07
   id: 2014-08-07-our-man-in-ulm-still
@@ -75,4 +180,4 @@ story:
     \ to gloomy thoughts. The pig in his sty is a happier fellow.\nOver and out, your\
     \ man in Ulm."
   title: Our Man In Ulm, Still
-word_count: 406
+word_count: 405

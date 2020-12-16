@@ -1,49 +1,94 @@
 ngrams:
-- - doughnuts
-  - kaolin
-  - linctus
-- - nothingness
-  - orpiment
-  - prunes
 - - yeast
   - zinc
   - blobs
-- - sandpaper
-  - turps
-  - ullage
-- - prunes
-  - queen
-  - esmerelda
-- - x-ray
-  - spectacles
-  - yeast
-- - orpiment
-  - prunes
-  - queen
-- - grease
-  - hinges
-  - incunabula
 - - spectacles
   - yeast
   - zinc
 - - flippers
   - grease
   - hinges
-- - incunabula
-  - jam
-  - doughnuts
-- - jam
-  - doughnuts
-  - kaolin
-- - wax
-  - x-ray
-  - spectacles
-- - kaolin
-  - linctus
+- - ectoplasm
+  - flippers
+  - grease
+- - linctus
   - marmalade
-- - turps
-  - ullage
-  - vinegar
+  - nothingness
+- - ransom
+  - money
+  - sandpaper
+- - money
+  - sandpaper
+  - turps
+- - dust
+  - ectoplasm
+  - flippers
+- - undertaken
+  - perilous
+  - research
+- - cake
+  - dust
+  - ectoplasm
+- - diagrams
+  - cake
+  - dust
+- - duffel
+  - bag
+  - query
+- - anonymous
+  - correspondent
+  - wrote
+- - concerned
+  - reader
+  - dear
+- - toilet
+  - water
+  - ransom
+- - reader
+  - dear
+  - frank
+- - water
+  - ransom
+  - money
+- - research
+  - sometimes
+  - perilous
+- - blodgett
+  - duffel
+  - bag
+- - blodgett
+  - always
+  - maintained
+- - question
+  - 'yes'
+  - blodgett
+- - day
+  - aniseed
+  - bl
+- - pretty
+  - unremarkable
+  - day
+- - did
+  - finally
+  - manage
+- - unremarkable
+  - day
+  - neither
+- - typical
+  - blodgett
+  - day
+- - hooting
+  - yard
+  - website
+- - 'yes'
+  - blodgett
+  - did
+- - did
+  - always
+  - maintain
+- - blodgett
+  - did
+  - always
 story:
   date: 2007-03-04
   id: 2007-03-04-at-long-last-an-answer-to-the-blodgett-duffel-bag-query
@@ -66,4 +111,4 @@ story:
     \ Toilet Water. Ransom money. Sandpaper. Turps. Ullage. Vinegar. Wax. X-Ray Spectacles.\
     \ Yeast. Zinc blobs."
   title: At Long Last, An Answer To The Blodgett Duffel Bag Query
-word_count: 241
+word_count: 240

@@ -1,25 +1,37 @@
 ngrams:
-- - gruts
-  - richard
-  - carter
-- - smash
-  - hit
-  - million-selling
 - - richard
   - carter
   - quotes
 - - mishap
   - entitled
   - tons
-- - hit
-  - million-selling
-  - pop
 - - farmyard
   - mishap
   - entitled
-- - million-selling
-  - pop
-  - song
+- - bl
+  - riot
+  - second
+- - really
+  - really
+  - like
+- - carter
+  - quotes
+  - some
+- - quotes
+  - some
+  - amusing
+- - some
+  - amusing
+  - snippets
+- - today
+  - first
+  - over
+- - amusing
+  - snippets
+  - about
+- - learn
+  - much
+  - more
 story:
   date: 2016-01-17
   id: 2016-01-17-delusions-and-slurry
@@ -31,4 +43,4 @@ story:
     \ to me that one thing I would really, really like to do is to write a smash hit\
     \ million-selling pop song about a farmyard mishap, entitled 16 Tons Of Slurry."
   title: Delusions And Slurry
-word_count: 94
+word_count: 93

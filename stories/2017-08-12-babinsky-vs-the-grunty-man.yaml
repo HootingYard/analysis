@@ -1,34 +1,13 @@
 ngrams:
-- - blockbusting
-  - hollywood
-  - franchise
 - - alien
   - vs
   - predator
 - - hollywood
   - franchise
   - based
-- - film-maker
-  - miss
-  - hathorn
-- - visionary
-  - film-maker
-  - miss
 - - enid
   - plucky
   - tot
-- - dimwitted
-  - action-packed
-  - film
-- - action-packed
-  - film
-  - filled
-- - called
-  - babinsky
-  - vs
-- - instance
-  - called
-  - babinsky
 - - tiny
   - enid
   - plucky
@@ -41,6 +20,48 @@ ngrams:
 - - say
   - alien
   - vs
+- - grunty
+  - man
+  - clearly
+- - contemporary
+  - life
+  - how
+- - tot
+  - could
+  - spawn
+- - plucky
+  - tot
+  - could
+- - hooting
+  - yard
+  - imagine
+- - used
+  - hooting
+  - yard
+- - your
+  - act
+  - together
+- - am
+  - sure
+  - too
+- - hollywood
+  - get
+  - your
+- - get
+  - your
+  - act
+- - has
+  - used
+  - hooting
+- - has
+  - mr
+  - key
+- - life
+  - how
+  - can
+- - why
+  - has
+  - mr
 story:
   date: 2017-08-12
   id: 2017-08-12-babinsky-vs-the-grunty-man

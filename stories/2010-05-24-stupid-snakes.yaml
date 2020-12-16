@@ -8,6 +8,12 @@ ngrams:
 - - animals
   - r
   - h
+- - are
+  - stupid
+  - animals
+- - them
+  - are
+  - stupid
 story:
   date: 2010-05-24
   id: 2010-05-24-stupid-snakes

@@ -1,13 +1,7 @@
 ngrams:
-- - herne-hill
-  - almond
-  - blossoms
 - - handy
   - aide
   - memoire
-- - almond
-  - blossoms
-  - begins
 - - paragraphs
   - separately
   - numbered
@@ -20,12 +14,6 @@ ngrams:
 - - chapters
   - volume
   - ii
-- - twelve
-  - chapters
-  - volume
-- - arresting
-  - ruskinian
-  - prose
 - - example
   - chapter
   - ii
@@ -44,6 +32,81 @@ ngrams:
 - - quite
   - enough
   - quotations
+- - quite
+  - articulate
+  - why
+- - noticed
+  - while
+  - reading
+- - over
+  - recent
+  - months
+- - comments
+  - than
+  - usual
+- - its
+  - paragraphs
+  - separately
+- - seen
+  - other
+  - versions
+- - yard
+  - over
+  - recent
+- - without
+  - registering
+  - them
+- - other
+  - versions
+  - where
+- - hooting
+  - yard
+  - over
+- - text
+  - into
+  - chapters
+- - post
+  - other
+  - than
+- - been
+  - quite
+  - enough
+- - has
+  - its
+  - paragraphs
+- - separately
+  - numbered
+  - so
+- - which
+  - remain
+  - obscure
+- - reasons
+  - which
+  - remain
+- - usual
+  - we
+  - shall
+- - each
+  - has
+  - its
+- - which
+  - point
+  - ruskin
+- - absent
+  - this
+  - practice
+- - prose
+  - one
+  - wants
+- - we
+  - shall
+  - see
+- - than
+  - usual
+  - we
+- - rather
+  - an
+  - addition
 story:
   date: 2009-08-05
   id: 2009-08-05-the-r-numbers
@@ -71,4 +134,4 @@ story:
     \ these odd and inconsequential postages which attract a greater number of comments\
     \ than usual. We shall see."
   title: The R Numbers
-word_count: 292
+word_count: 291

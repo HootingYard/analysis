@@ -1,25 +1,37 @@
 ngrams:
-- - catholique
-  - married
-  - unhappily
-- - roman
-  - catholique
-  - married
 - - richard
   - stokes
   - scholar
-- - sir
-  - william
-  - oughtred
 - - traces
   - remain
   - essays
-- - crackt
-  - glasse
+- - dr
+  - richard
+  - stokes
+- - brief
+  - lives
+  - quoted
+- - entire
+  - brief
+  - life
+- - became
+  - sober
+  - again
+- - dr
+  - stokes
+  - here
+- - algebra
+  - made
+  - himself
+- - made
+  - himself
+  - mad
+- - debt
+  - april
+  - one
+- - but
   - became
-- - catt
-  - etc
-  - became
+  - sober
 story:
   date: 2012-06-30
   id: 2012-06-30-a-brief-life-of-dr-stokes
@@ -31,4 +43,4 @@ story:
     \ in \u201CNoticing Everything\_: A Celebration Of John Aubrey\u201D in Traces\
     \ Remain\_: Essays And Explorations by Charles Nicholl (2011)."
   title: A Brief Life Of Dr Stokes
-word_count: 90
+word_count: 89

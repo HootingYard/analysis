@@ -2,9 +2,6 @@ ngrams:
 - - restore
   - democratic
   - rule
-- - fictive
-  - boris
-  - johnson
 - - futuristic
   - meal
   - piled
@@ -38,12 +35,105 @@ ngrams:
 - - fiction
   - adventure
   - novel
-- - thousand-eyed
-  - zinc
-  - tin
 - - zinc
   - tin
   - titanium
+- - tin
+  - titanium
+  - bakelite
+- - entire
+  - solar
+  - system
+- - dinner
+  - table
+  - picks
+- - futuristic
+  - dinner
+  - table
+- - prose
+  - brow
+  - furrowed
+- - future
+  - david
+  - blunkett
+- - mind
+  - control
+  - persuades
+- - futuristic
+  - mind
+  - control
+- - entire
+  - human
+  - race
+- - futuristic
+  - guide
+  - dog
+- - guide
+  - dog
+  - skippy
+- - o
+  - prose
+  - brow
+- - chalet
+  - o
+  - prose
+- - new
+  - paperback
+  - potboiler
+- - novellas
+  - featuring
+  - being
+- - render
+  - man
+  - extinct
+- - boris
+  - johnson
+  - here
+- - back
+  - cover
+  - blurb
+- - boris
+  - johnson
+  - head
+- - future
+  - sits
+  - down
+- - chaos
+  - now
+  - bloodshed
+- - bloodshed
+  - then
+  - infinity
+- - same
+  - name
+  - though
+- - control
+  - persuades
+  - him
+- - next
+  - week
+  - even
+- - table
+  - picks
+  - up
+- - get
+  - them
+  - mixed
+- - people
+  - do
+  - get
+- - excelsior
+  - will
+  - feature
+- - though
+  - some
+  - people
+- - sequel
+  - due
+  - out
+- - now
+  - bloodshed
+  - then
 story:
   date: 2010-05-20
   id: 2010-05-20-the-man-who-ate-his-own-head
@@ -76,4 +166,4 @@ story:
     \ next week. Even as I write, Pebblehead is tapping away in his chalet o\u2019\
     \ prose, brow furrowed, pipe clenched in his infected teeth."
   title: The Man Who Ate His Own Head
-word_count: 369
+word_count: 366

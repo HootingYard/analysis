@@ -2,48 +2,207 @@ ngrams:
 - - woodhouse
   - fairdale
   - hobbs
-- - harden
-  - archie
-  - stamford
-- - steamship
-  - friesland
-  - bert
 - - brooks
   - woodhouse
   - fairdale
 - - victor
   - lynch
   - vittoria
-- - ratcliff
-  - highway
-  - murders
-- - highway
-  - murders
-  - dolsky
-- - friesland
-  - bert
-  - stevens
-- - conk-singleton
-  - forgery
-  - crosby
 - - forger
   - victor
   - lynch
 - - darlington
   - substitution
   - scandal
-- - pancras
-  - picture-frame
-  - maker
 - - vincent
   - harden
   - archie
-- - carruthers
-  - brooks
-  - woodhouse
 - - cardinal
   - tosca
   - wilson
+- - carruthers
+  - brooks
+  - woodhouse
+- - notorious
+  - muller
+  - lefevre
+- - vatican
+  - cameos
+  - wilson
+- - colonel
+  - carruthers
+  - brooks
+- - circus
+  - belle
+  - vanderbilt
+- - bank
+  - robbery
+  - adams
+- - boulevard
+  - assassin
+  - arthur
+- - grosvenor
+  - square
+  - furniture
+- - arthur
+  - h
+  - staunton
+- - assassin
+  - arthur
+  - h
+- - nonpareil
+  - club
+  - madame
+- - amateur
+  - mendicant
+  - society
+- - ship
+  - matilda
+  - briggs
+- - district
+  - messenger
+  - office
+- - abominable
+  - memory
+  - matthews
+- - john
+  - watson's
+  - chronicle
+- - john
+  - vincent
+  - harden
+- - millionaire
+  - john
+  - vincent
+- - abominable
+  - wife
+  - baron
+- - tobacco
+  - millionaire
+  - john
+- - margate
+  - woman
+  - colonel
+- - woman
+  - colonel
+  - carruthers
+- - sir
+  - george
+  - lewis
+- - cave
+  - mystery
+  - abrahams
+- - scandinavian
+  - royal
+  - family
+- - dutch
+  - royal
+  - family
+- - square
+  - furniture
+  - van
+- - insurance
+  - money
+  - similar
+- - money
+  - similar
+  - cases
+- - hammersmith
+  - wonder
+  - sir
+- - island
+  - cave
+  - mystery
+- - blue
+  - carbuncle
+  - mrs
+- - wonder
+  - sir
+  - george
+- - holmes's
+  - left
+  - canine
+- - dr
+  - john
+  - watson's
+- - holmes
+  - dr
+  - john
+- - makes
+  - passing
+  - mention
+- - murder
+  - charge
+  - against
+- - french
+  - government
+  - case
+- - poisoned
+  - three
+  - children
+- - long
+  - island
+  - cave
+- - two
+  - coptic
+  - patriarchs
+- - turkey's
+  - commission
+  - two
+- - commission
+  - two
+  - coptic
+- - scandal
+  - two
+  - murders
+- - old
+  - baron
+  - dowson
+- - new
+  - orleans
+  - van
+- - club
+  - scandal
+  - two
+- - others
+  - little
+  - russia
+- - old
+  - russian
+  - woman
+- - against
+  - her
+  - daughter
+- - charge
+  - against
+  - her
+- - matthews
+  - who
+  - knocked
+- - memory
+  - matthews
+  - who
+- - woman
+  - who
+  - poisoned
+- - their
+  - insurance
+  - money
+- - who
+  - poisoned
+  - three
+- - 'no'
+  - further
+  - details
+- - knocked
+  - out
+  - holmes's
+- - out
+  - holmes's
+  - left
+- - details
+  - are
+  - forthcoming
 story:
   date: 2013-11-13
   id: 2013-11-13-holmes
@@ -94,4 +253,4 @@ story:
     \ coiner, not to forget the case of the politician, the lighthouse and the trained\
     \ cormorant."
   title: Holmes
-word_count: 549
+word_count: 544

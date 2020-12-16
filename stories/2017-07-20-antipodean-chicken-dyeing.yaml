@@ -23,27 +23,75 @@ ngrams:
 - - dye
   - chickens
   - different
-- - chickens
-  - different
-  - colours
 - - list
   - john
   - paul
-- - long
-  - ago
-  - bedizened
-- - chickens
-  - long
-  - ago
 - - doings
   - recounted
   - here
-- - any
-  - civilised
-  - antipodean
+- - chickens
+  - long
+  - ago
 - - man
   - called
   - dave
+- - might
+  - list
+  - john
+- - shall
+  - see
+  - oh
+- - those
+  - chickens
+  - long
+- - those
+  - names
+  - without
+- - rattle
+  - 'off'
+  - those
+- - names
+  - without
+  - even
+- - 'off'
+  - those
+  - names
+- - without
+  - even
+  - having
+- - key
+  - has
+  - returned
+- - can
+  - rattle
+  - 'off'
+- - mr
+  - key
+  - has
+- - when
+  - young
+  - used
+- - much
+  - if
+  - anything
+- - yard
+  - we
+  - shall
+- - we
+  - shall
+  - see
+- - australia
+  - who
+  - when
+- - hooting
+  - yard
+  - we
+- - this
+  - regard
+  - perhaps
+- - they
+  - can
+  - rattle
 story:
   date: 2017-07-20
   id: 2017-07-20-antipodean-chicken-dyeing
@@ -66,4 +114,4 @@ story:
     \ as I was by Dave's inability in this regard. Perhaps a lethal chemical constituent\
     \ of the dyes used on those chickens long ago bedizened his brainpans.\n"
   title: Antipodean Chicken-Dyeing
-word_count: 256
+word_count: 255

@@ -1,13 +1,4 @@
 ngrams:
-- - fenimore
-  - cooper
-  - tippett
-- - cooper
-  - tippett
-  - michael
-- - james
-  - fenimore
-  - cooper
 - - brief
   - schubert
   - franz
@@ -17,6 +8,27 @@ ngrams:
 - - dozens
   - nay
   - hundreds
+- - schubert
+  - franz
+  - upon
+- - great
+  - composers
+  - these
+- - great
+  - composers
+  - here
+- - someone
+  - would
+  - bring
+- - bring
+  - him
+  - some
+- - him
+  - some
+  - books
+- - which
+  - taken
+  - together
 story:
   date: 2010-02-22
   id: 2010-02-22-notes-towards-a-dictionary-of-great-composers

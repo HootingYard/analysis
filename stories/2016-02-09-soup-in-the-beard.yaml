@@ -8,9 +8,6 @@ ngrams:
 - - franz
   - kafka
   - contemporary
-- - poxhaven
-  - dated
-  - january
 - - victorian
   - banquets
   - repetitions
@@ -35,15 +32,147 @@ ngrams:
 - - embroidered
   - tablecloth
   - although
-- - wringings-out
-  - walter
-  - mad
 - - cleverly
   - walter
   - mad
 - - walter
   - mad
   - commanded
+- - hair
+  - becoming
+  - soaked
+- - horror
+  - walter
+  - mad
+- - disgusting
+  - table
+  - manners
+- - disgusting
+  - table
+  - manners
+- - beard
+  - hair
+  - becoming
+- - kafka
+  - contemporary
+  - written
+- - contemporary
+  - written
+  - accounts
+- - poor
+  - man's
+  - hands
+- - sopping
+  - wet
+  - almost
+- - walter
+  - mad
+  - whose
+- - mad
+  - whose
+  - beard
+- - full
+  - half
+  - hour
+- - half
+  - hour
+  - during
+- - cold
+  - black
+  - heart
+- - dated
+  - january
+  - last
+- - surprisingly
+  - few
+  - possibly
+- - soup
+  - course
+  - mulligatawny
+- - affected
+  - many
+  - victorian
+- - many
+  - victorian
+  - gentlemen
+- - being
+  - absolutely
+  - drenched
+- - beard
+  - being
+  - absolutely
+- - january
+  - last
+  - night
+- - spoonful
+  - dribbling
+  - down
+- - lower
+  - orders
+  - down
+- - class
+  - orphans
+  - down
+- - right
+  - place
+  - next
+- - few
+  - possibly
+  - because
+- - place
+  - next
+  - week
+- - soup
+  - than
+  - hair
+- - mad
+  - commanded
+  - him
+- - valet
+  - who
+  - proceeded
+- - another
+  - place
+  - those
+- - wet
+  - almost
+  - more
+- - almost
+  - more
+  - soup
+- - excuse
+  - their
+  - disgusting
+- - beard
+  - much
+  - like
+- - their
+  - disgusting
+  - table
+- - were
+  - shaking
+  - badly
+- - dried
+  - out
+  - causing
+- - hands
+  - were
+  - shaking
+- - man's
+  - hands
+  - were
+- - course
+  - excuse
+  - their
+- - full
+  - amount
+  - into
+- - were
+  - disgusting
+  - almost
+- - more
+  - soup
+  - than
 story:
   date: 2016-02-09
   id: 2016-02-09-soup-in-the-beard
@@ -83,4 +212,4 @@ story:
     \ urchins from the lower orders down the mines, so his cold black heart is in\
     \ the right place.\nNext week\_: Egg-On-The-Waistcoat."
   title: Soup-In-The-Beard
-word_count: 466
+word_count: 465

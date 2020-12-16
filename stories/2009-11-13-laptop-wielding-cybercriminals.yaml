@@ -1,28 +1,43 @@
 ngrams:
-- - mastermind
-  - cackles
-  - evilly
-- - technowhizz
-  - sidekick
-  - upload
 - - sidekick
   - nods
   - taps
-- - featuring
-  - laptop-wielding
-  - cybercriminals
 - - criminal
   - mastermind
   - cackles
 - - vista
   - criminal
   - mastermind
-- - films
-  - featuring
-  - laptop-wielding
 - - windows
   - vista
   - criminal
+- - pcs
+  - using
+  - windows
+- - using
+  - windows
+  - vista
+- - please
+  - wait
+  - windows
+- - message
+  - appears
+  - please
+- - watching
+  - die
+  - hard
+- - appears
+  - please
+  - wait
+- - possibly
+  - hours
+  - during
+- - while
+  - watching
+  - die
+- - little
+  - whirring
+  - noises
 story:
   date: 2009-11-13
   id: 2009-11-13-laptop-wielding-cybercriminals

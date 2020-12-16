@@ -1,7 +1,4 @@
 ngrams:
-- - big
-  - zoomable
-  - image
 - - outer
   - circle
   - nothing
@@ -17,6 +14,18 @@ ngrams:
 - - earth
   - above
   - day
+- - here
+  - many
+  - thanks
+- - all
+  - system
+  - according
+- - holy
+  - scriptures
+  - this
+- - by
+  - isaac
+  - frost
 story:
   date: 2010-04-18
   id: 2010-04-18-muggletonian-cosmos
@@ -27,4 +36,4 @@ story:
     \ can be found here, and another of Isaac Frost's Muggletonian engravings is here.\
     \ Many thanks to Ed Baxter for drawing them to my attention."
   title: Muggletonian Cosmos
-word_count: 78
+word_count: 77

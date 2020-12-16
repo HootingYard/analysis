@@ -1,22 +1,10 @@
 ngrams:
-- - subjugated
-  - knowledges
-  - lite
-- - witter
-  - faceditch
-  - dobsonpamphlet
-- - faceditch
-  - dobsonpamphlet
-  - piffle
+- - michel
+  - foucault's
+  - insurrection
 - - grassy
   - knoll
   - stunning
-- - knoll
-  - stunning
-  - passers-by
-- - dobsonpamphlet
-  - piffle
-  - skippy
 - - piffle
   - skippy
   - zippy
@@ -44,6 +32,45 @@ ngrams:
 - - since
   - december
   - learning
+- - single
+  - word
+  - posted
+- - remain
+  - inactive
+  - until
+- - yard
+  - service
+  - pack
+- - rereading
+  - every
+  - single
+- - yard
+  - since
+  - december
+- - every
+  - single
+  - word
+- - web
+  - drivel
+  - such
+- - integrate
+  - hooting
+  - yard
+- - download
+  - hooting
+  - yard
+- - hooting
+  - yard
+  - service
+- - hooting
+  - yard
+  - experience
+- - hooting
+  - yard
+  - since
+- - your
+  - habitual
+  - sobbing
 story:
   date: 2009-10-21
   id: 2009-10-21-service-pack-six
@@ -64,4 +91,4 @@ story:
     \ not be confused with other zones into which you may be enticed from time to\
     \ time."
   title: Service Pack Six
-word_count: 198
+word_count: 197

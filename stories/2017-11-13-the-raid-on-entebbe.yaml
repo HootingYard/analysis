@@ -1,19 +1,7 @@
 ngrams:
-- - strong
-  - hamstery
-  - odour
-- - terms
-  - intermittent
-  - hamster-blindness
 - - profession
   - terms
   - intermittent
-- - israeli
-  - defence
-  - force
-- - israeli
-  - defence
-  - force
 - - medical
   - profession
   - terms
@@ -32,18 +20,108 @@ ngrams:
 - - incident
   - starring
   - peter
-- - hostage-rescue
-  - mission
-  - carried
-- - journalist
-  - interviewing
-  - pebblehead
 - - intravenous
   - drugs
   - eye
 - - latest
   - potboiler
   - invisible
+- - drugs
+  - eye
+  - drops
+- - pet
+  - hamster
+  - kept
+- - finch
+  - whose
+  - surname
+- - peter
+  - finch
+  - whose
+- - hamster
+  - thus
+  - challenged
+- - cage
+  - almost
+  - covered
+- - actual
+  - hamster
+  - thus
+- - asleep
+  - blimey
+  - said
+- - small
+  - cage
+  - over
+- - looked
+  - undoubtedly
+  - like
+- - african
+  - airfields
+  - do
+- - airfields
+  - do
+  - drop
+- - entebbe
+  - can
+  - refer
+- - hostages
+  - who
+  - need
+- - do
+  - drop
+  - us
+- - what
+  - you're
+  - talking
+- - what
+  - looked
+  - undoubtedly
+- - you're
+  - talking
+  - about
+- - bashing
+  - out
+  - potboilers
+- - mission
+  - carried
+  - out
+- - example
+  - bashing
+  - out
+- - any
+  - hostages
+  - who
+- - week
+  - incidentally
+  - all
+- - know
+  - what
+  - you're
+- - don't
+  - know
+  - what
+- - an
+  - actual
+  - hamster
+- - has
+  - been
+  - suffering
+- - over
+  - there
+  - fitted
+- - cage
+  - over
+  - there
+- - an
+  - interview
+  - why
+- - some
+  - time
+  - now
+- - excelsior
+  - or
+  - wood
 story:
   date: 2017-11-13
   id: 2017-11-13-the-raid-on-entebbe
@@ -74,4 +152,4 @@ story:
     \ latest potboiler, Invisible Hamster Mayhem!, is now available from all good\
     \ petshops."
   title: The Raid On Entebbe
-word_count: 334
+word_count: 329

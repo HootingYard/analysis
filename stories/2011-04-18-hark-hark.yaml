@@ -2,12 +2,18 @@ ngrams:
 - - ark
   - noah
   - decides
+- - noah's
+  - ark
+  - noah
 - - hark
   - hark
   - hark
 - - hark
   - hark
   - hark
+- - herman
+  - melville's
+  - tar
 - - dulcet
   - flute
   - played
@@ -23,21 +29,33 @@ ngrams:
 - - hairy
   - band
   - called
+- - he'd
+  - long
+  - ago
 - - name
   - emblazoned
   - once
-- - d
-  - long
-  - ago
 - - long
   - ago
   - lost
 - - jethro
   - tull
   - now
+- - tull
+  - now
+  - he's
 - - dogs
   - do
   - bark
+- - muzzle
+  - them
+  - helped
+- - do
+  - bark
+  - upon
+- - rendered
+  - mute
+  - so
 story:
   date: 2011-04-18
   id: 2011-04-18-hark-hark
@@ -85,4 +103,4 @@ story:
 
     And he''d long ago lost his aqualung.'
   title: Hark! Hark!
-word_count: 158
+word_count: 152

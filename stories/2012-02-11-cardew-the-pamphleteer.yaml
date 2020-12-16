@@ -1,25 +1,10 @@
 ngrams:
-- - randolph
-  - nettleby
-  - landowner
-- - nettleby
-  - landowner
-  - enthusiastic
-- - landowner
-  - enthusiastic
-  - bird-shooter
 - - maoist
   - avant
   - garde
 - - avant
   - garde
   - composers
-- - colegate
-  - gently
-  - teasing
-- - isobel
-  - colegate
-  - gently
 - - upper
   - class
   - englishman
@@ -29,6 +14,36 @@ ngrams:
 - - james
   - mason
   - plays
+- - english
+  - maoist
+  - avant
+- - dorking
+  - earlier
+  - gielgud
+- - cardew
+  - mere
+  - coincidence
+- - cornelius
+  - cardew
+  - mere
+- - mason
+  - plays
+  - sir
+- - shooting
+  - party
+  - based
+- - alan
+  - bridges
+  - film
+- - budding
+  - pamphleteer
+  - john
+- - class
+  - englishman
+  - given
+- - pamphleteering
+  - tips
+  - having
 story:
   date: 2012-02-11
   id: 2012-02-11-cardew-the-pamphleteer
@@ -44,4 +59,4 @@ story:
     \ any other instances of fictional characters being given the names of English\
     \ Maoist avant garde composers?"
   title: Cardew The Pamphleteer
-word_count: 126
+word_count: 123

@@ -1,13 +1,19 @@
 ngrams:
-- - kibbo
-  - kift
-  - exhibition
-- - kibbo
-  - kift
-  - advent
-- - advent
-  - calendar
-  - xx
+- - book
+  - the
+  - kindred
+- - the
+  - kindred
+  - of
+- - kindred
+  - of
+  - the
+- - the
+  - kindred
+  - of
+- - kindred
+  - of
+  - the
 story:
   date: 2015-12-20
   id: 2015-12-20-kibbo-kift-advent-calendar-xx

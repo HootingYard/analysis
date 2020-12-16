@@ -1,22 +1,31 @@
 ngrams:
-- - splendid
-  - bestiary
-  - posted
-- - owl
-  - outa
-  - spaceman
-- - died
-  - ten
-  - years
 - - once
   - again
   - indebted
-- - ten
-  - years
-  - ago
 - - years
   - ago
   - yesterday
+- - am
+  - once
+  - again
+- - ago
+  - yesterday
+  - would
+- - it's
+  - an
+  - owl
+- - either
+  - an
+  - owl
+- - think
+  - it's
+  - an
+- - head
+  - at
+  - least
+- - head
+  - had
+  - she
 story:
   date: 2012-11-15
   id: 2012-11-15-louise-brooks-with-an-owl-on-her-head
@@ -28,4 +37,4 @@ story:
     At least I think it''s an owl. Outa_Spaceman, to whom I am once again indebted
     for alerting me to the snap, thinks it is either an owl or a hawk of some kind.'
   title: Louise Brooks With An Owl On Her Head
-word_count: 76
+word_count: 75

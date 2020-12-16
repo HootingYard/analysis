@@ -2,21 +2,9 @@ ngrams:
 - - wondrous
   - accidental
   - meeting
-- - fey
-  - ethereal
-  - beauty
-- - purpose
-  - agence
-  - goron
 - - detective
   - agency
   - commissioned
-- - newly-confident
-  - child-headed
-  - swan
-- - reader
-  - fitzmaurice
-  - trenery
 - - notable
   - authors
   - sitting
@@ -26,24 +14,93 @@ ngrams:
 - - breaking
   - swan
   - author
-- - news
-  - reader
-  - fitzmaurice
-- - child-headed
-  - swan
-  - seems
-- - pending
-  - further
-  - investigations
 - - swan
   - author
   - news
+- - pending
+  - further
+  - investigations
 - - author
   - news
   - reader
 - - shall
   - reserve
   - judgement
+- - hold
+  - pending
+  - further
+- - embrace
+  - each
+  - chimera
+- - indeed
+  - show
+  - raymond
+- - startling
+  - conclusion
+  - mr
+- - two
+  - benighted
+  - creatures
+- - snap
+  - does
+  - indeed
+- - studying
+  - very
+  - carefully
+- - does
+  - indeed
+  - show
+- - conclusion
+  - mr
+  - key
+- - mr
+  - key
+  - contrary
+- - very
+  - carefully
+  - number
+- - swan
+  - see
+  - how
+- - been
+  - studying
+  - very
+- - they
+  - embrace
+  - each
+- - its
+  - part
+  - has
+- - how
+  - they
+  - embrace
+- - relationship
+  - after
+  - all
+- - has
+  - been
+  - studying
+- - carefully
+  - number
+  - one
+- - what
+  - then
+  - though
+- - see
+  - how
+  - they
+- - ethereal
+  - beauty
+  - but
+- - an
+  - altogether
+  - more
+- - then
+  - what
+  - then
+- - commissioned
+  - by
+  - roussel
 story:
   date: 2010-01-21
   id: 2010-01-21-breaking-swan-author-news
@@ -69,4 +126,4 @@ story:
     \ commissioned by Roussel to find and negotiate with an illustrator to provide\
     \ the drawings for New Impressions Of Africa (1932)."
   title: Breaking Swan/Author News
-word_count: 278
+word_count: 273

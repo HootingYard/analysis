@@ -1,10 +1,4 @@
 ngrams:
-- - hermione
-  - eyre
-  - brilliantly
-- - quincey
-  - hermione
-  - eyre
 - - eyre
   - brilliantly
   - describes
@@ -14,9 +8,6 @@ ngrams:
 - - american
   - editor
   - considering
-- - de
-  - quincey
-  - hermione
 - - shorter
   - potted
   - brief
@@ -44,6 +35,123 @@ ngrams:
 - - coherent
   - sentence
   - together
+- - fact
+  - reduced
+  - circumstances
+- - rising
+  - high
+  - above
+- - early
+  - work
+  - wondered
+- - make
+  - pomposity
+  - easier
+- - swore
+  - 'off'
+  - booze
+- - most
+  - surely
+  - pompous
+- - fantasy
+  - last
+  - year
+- - much
+  - perpetually
+  - drunk
+- - very
+  - limited
+  - income
+- - pretty
+  - much
+  - perpetually
+- - very
+  - boring
+  - unless
+- - broke
+  - see
+  - above
+- - having
+  - little
+  - justification
+- - achieve
+  - having
+  - little
+- - brief
+  - lives
+  - might
+- - boring
+  - unless
+  - like
+- - very
+  - frugal
+  - life
+- - unless
+  - like
+  - thomas
+- - lives
+  - might
+  - become
+- - like
+  - thomas
+  - de
+- - mr
+  - key
+  - let
+- - pontificating
+  - particularly
+  - upon
+- - particularly
+  - upon
+  - subjects
+- - key
+  - let
+  - us
+- - article
+  - here
+  - while
+- - am
+  - deeply
+  - grateful
+- - brilliantly
+  - describes
+  - him
+- - reduced
+  - circumstances
+  - can
+- - drop
+  - since
+  - then
+- - let
+  - us
+  - take
+- - very
+  - very
+  - boring
+- - other
+  - way
+  - high
+- - can
+  - make
+  - pomposity
+- - circumstances
+  - can
+  - make
+- - sensible
+  - pursuit
+  - if
+- - thing
+  - about
+  - drunks
+- - work
+  - wondered
+  - if
+- - de
+  - quincey
+  - we
+- - left
+  - me
+  - unable
 story:
   date: 2016-06-17
   id: 2016-06-17-broke-pompous-and-high-as-a-kite
@@ -77,4 +185,4 @@ story:
     \ those booze-memoirs, but the thing about drunks \_and druggies is that we are\
     \ very, very boring. Unless, like Thomas De Quincey, we are touched by genius."
   title: Broke, Pompous, And High As A Kite
-word_count: 417
+word_count: 413

@@ -1,16 +1,4 @@
 ngrams:
-- - depict
-  - irish-american
-  - cops
-- - fake
-  - swirling
-  - celtic
-- - terraced
-  - housing
-  - hollywood
-- - housing
-  - hollywood
-  - contributes
 - - senior
   - belfast
   - ira
@@ -20,30 +8,120 @@ ngrams:
 - - moody
   - irish
   - terrorists
-- - nobly
-  - moody
-  - irish
 - - irish
   - terrorists
   - allegedly
-- - swirling
-  - celtic
-  - tat
-- - relentless
-  - mindless
-  - gabbling
-- - allegedly
-  - facing
-  - agonising
-- - deeply
-  - unattractive
-  - fusion
 - - bars
   - dingy
   - irish
 - - belfast
   - ira
   - figures
+- - republican
+  - catholic
+  - people's
+- - intimidating
+  - drunks
+  - cutting
+- - drunks
+  - cutting
+  - republican
+- - dingy
+  - irish
+  - theme
+- - irish
+  - theme
+  - pubs
+- - catholic
+  - people's
+  - throats
+- - ira
+  - figures
+  - stabbed
+- - cultural
+  - format
+  - consisting
+- - assumed
+  - global
+  - notoriety
+- - sacred
+  - causes
+  - religion
+- - cutting
+  - republican
+  - catholic
+- - occasional
+  - minor
+  - irish
+- - emerald
+  - isle
+  - drink
+- - irish
+  - poet
+  - winning
+- - minor
+  - irish
+  - poet
+- - metropolitan
+  - british
+  - media
+- - isle
+  - drink
+  - plays
+- - discovered
+  - senior
+  - belfast
+- - weird
+  - cultural
+  - format
+- - truly
+  - weird
+  - cultural
+- - celebrate
+  - st
+  - patrick's
+- - celebrated
+  - visual
+  - art
+- - literature
+  - various
+  - provincial
+- - rebel
+  - songs
+  - although
+- - political
+  - graffiti
+  - known
+- - realism
+  - departs
+  - once
+- - west
+  - end
+  - stage
+- - evenings
+  - these
+  - places
+- - global
+  - notoriety
+  - after
+- - just
+  - plain
+  - irish
+- - only
+  - partially
+  - drowns
+- - only
+  - celebrated
+  - visual
+- - st
+  - patrick's
+  - day
+- - violence
+  - where
+  - people
+- - patrick's
+  - day
+  - here
 story:
   date: 2011-03-17
   id: 2011-03-17-emerald-isle
@@ -76,4 +154,4 @@ story:
     \ with their arms rigid at their sides, has even made it on to the West End stage\
     \ in London."
   title: Emerald Isle
-word_count: 338
+word_count: 335

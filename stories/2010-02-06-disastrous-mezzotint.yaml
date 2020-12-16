@@ -1,25 +1,13 @@
 ngrams:
-- - mezzotintist
-  - rex
-  - tint
 - - egg
   - la
   - blavatsky
-- - noted
-  - mezzotintist
-  - rex
 - - cornflakes
   - n
   - egg
 - - n
   - egg
   - la
-- - sloshed
-  - ice-cold
-  - water
-- - having
-  - sloshed
-  - ice-cold
 - - munich
   - air
   - disaster
@@ -38,6 +26,39 @@ ngrams:
 - - remember
   - too
   - rex
+- - disastrous
+  - mezzotint
+  - upon
+- - mezzotint
+  - upon
+  - waking
+- - let
+  - us
+  - remember
+- - rex
+  - tint
+  - who
+- - tint
+  - who
+  - lost
+- - day
+  - let
+  - us
+- - interest
+  - 'no'
+  - piece
+- - piece
+  - about
+  - mezzotints
+- - interesting
+  - piece
+  - about
+- - us
+  - remember
+  - them
+- - busby
+  - babes
+  - so
 story:
   date: 2010-02-06
   id: 2010-02-06-disastrous-mezzotint

@@ -1,19 +1,4 @@
 ngrams:
-- - gustibus
-  - non
-  - est
-- - non
-  - est
-  - disputandum
-- - est
-  - disputandum
-  - raindrops
-- - thirty-sixth
-  - piano
-  - concerto
-- - thirteenth
-  - piano
-  - concerto
 - - rudderless
   - rudders
   - snapped
@@ -23,27 +8,144 @@ ngrams:
 - - longest
   - piano
   - concerto
-- - tenth
-  - piano
-  - concertos
-- - choosing
-  - plinked
-  - twice
-- - heebie
-  - jeebies
-  - binder
 - - piano
   - concerto
   - calls
 - - christopher
   - plummer
   - imagined
-- - piano
-  - concertos
-  - binder
 - - electronically
   - modified
   - cat
+- - third
+  - piano
+  - concerto
+- - de
+  - gustibus
+  - non
+- - concerto
+  - de
+  - gustibus
+- - piano
+  - concerto
+  - de
+- - raindrops
+  - kept
+  - falling
+- - grown
+  - men
+  - weep
+- - fourth
+  - gave
+  - binder
+- - second
+  - piano
+  - concerto
+- - full
+  - performance
+  - lasting
+- - choppy
+  - waters
+  - towards
+- - important
+  - stationary
+  - mountain
+- - makes
+  - grown
+  - men
+- - performance
+  - lasting
+  - several
+- - often
+  - confused
+  - performed
+- - sixth
+  - proper
+  - rather
+- - rudders
+  - snapped
+  - 'off'
+- - snapped
+  - 'off'
+  - boats
+- - through
+  - choppy
+  - waters
+- - first
+  - piano
+  - concerto
+- - abandon
+  - before
+  - sinking
+- - worm
+  - binder
+  - said
+- - lasting
+  - several
+  - years
+- - wild
+  - abandon
+  - before
+- - submarine
+  - let
+  - us
+- - island
+  - where
+  - brutes
+- - let
+  - us
+  - draw
+- - gallops
+  - along
+  - like
+- - way
+  - through
+  - choppy
+- - proper
+  - rather
+  - than
+- - piano
+  - concerto
+  - 'no'
+- - modified
+  - cat
+  - 'no'
+- - cat
+  - 'no'
+  - animals
+- - 'no'
+  - piano
+  - part
+- - animals
+  - were
+  - harmed
+- - its
+  - way
+  - through
+- - concertos
+  - are
+  - audible
+- - piano
+  - concertos
+  - are
+- - boats
+  - are
+  - repeatedly
+- - before
+  - sinking
+  - into
+- - an
+  - electronically
+  - modified
+- - features
+  - an
+  - electronically
+- - an
+  - important
+  - stationary
+- - written
+  - atop
+  - an
 story:
   date: 2016-02-16
   id: 2016-02-16-binder-the-39-piano-concertos
@@ -79,4 +181,4 @@ story:
     \ its way through choppy waters towards an island where brutes disport themselves\
     \ in wild abandon before sinking into the sea."
   title: "Binder\_: The 39 Piano Concertos"
-word_count: 405
+word_count: 399

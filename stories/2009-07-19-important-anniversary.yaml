@@ -1,13 +1,4 @@
 ngrams:
-- - wafer-thin
-  - organic
-  - potato-trifle-flavour
-- - potato-trifle-flavour
-  - rectangular
-  - ready-toasted
-- - organic
-  - potato-trifle-flavour
-  - rectangular
 - - legally
   - inescapable
   - health
@@ -17,9 +8,6 @@ ngrams:
 - - inescapable
   - health
   - warnings
-- - rectangular
-  - ready-toasted
-  - smokers
 - - incorporates
   - mezzotints
   - showing
@@ -32,18 +20,63 @@ ngrams:
 - - dense
   - madagascan
   - cigarette
-- - smokers
-  - poptart
-  - decade
-- - ready-toasted
-  - smokers
-  - poptarts
-- - madagascan
-  - cigarette
-  - smoke
 - - island
   - legally
   - inescapable
+- - madagascan
+  - cigarette
+  - smoke
+- - showing
+  - noteworthy
+  - historical
+- - noteworthy
+  - historical
+  - figures
+- - historical
+  - figures
+  - simultaneously
+- - figures
+  - simultaneously
+  - smoking
+- - machine
+  - gun
+  - kelly
+- - primitive
+  - blood
+  - sacrifice
+- - blodgett
+  - island
+  - legally
+- - toothsome
+  - breakfast
+  - solution
+- - whose
+  - design
+  - incorporates
+- - tint
+  - whose
+  - design
+- - rex
+  - tint
+  - whose
+- - gun
+  - kelly
+  - nor
+- - important
+  - anniversary
+  - here
+- - first
+  - ever
+  - batch
+- - very
+  - well
+  - expect
+- - kelly
+  - nor
+  - am
+- - commemorate
+  - what
+  - social
 story:
   date: 2009-07-19
   id: 2009-07-19-important-anniversary

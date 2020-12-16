@@ -1,16 +1,7 @@
 ngrams:
-- - violins
-  - bugles
-  - accordions
-- - banjos
-  - violins
-  - bugles
 - - organs
   - banjos
   - violins
-- - photos
-  - plaster
-  - busts
 - - fabric
   - clocks
   - pianos
@@ -23,21 +14,48 @@ ngrams:
 - - dressmaking
   - dummies
   - painted
-- - pinup
-  - girl
-  - photos
-- - painted
-  - portraits
-  - pinup
 - - dummies
   - painted
   - portraits
-- - portraits
-  - pinup
-  - girl
 - - bowling
   - balls
   - camera
+- - girl
+  - photos
+  - plaster
+- - doll
+  - carriage
+  - rusted
+- - tinkering
+  - tapestries
+  - hundreds
+- - balls
+  - camera
+  - equipment
+- - included
+  - baby
+  - carriages
+- - glass
+  - chandeliers
+  - bowling
+- - guns
+  - glass
+  - chandeliers
+- - collecting
+  - items
+  - removed
+- - rusty
+  - bed
+  - springs
+- - human
+  - organs
+  - pickled
+- - eight
+  - live
+  - cats
+- - jars
+  - eight
+  - live
 story:
   date: 2012-01-28
   id: 2012-01-28-collecting
@@ -57,4 +75,4 @@ story:
     from the Wikipedia article on the Collyer brothers, brought to my attention by
     R., to whom many thanks.'
   title: Collecting
-word_count: 161
+word_count: 159

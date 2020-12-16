@@ -1,13 +1,10 @@
 ngrams:
-- - music
-  - letta
-  - mbulu
-- - monday
-  - music
-  - letta
-- - letta
-  - mbulu
-  - what
+- - what
+  - is
+  - wrong
+- - is
+  - wrong
+  - with
 story:
   date: 2017-09-11
   id: 2017-09-11-monday-music

@@ -1,13 +1,13 @@
 ngrams:
-- - earth-shuddering
-  - ramifications
-  - occasioned
 - - psychology
   - diagram
   - ornithologists
 - - munching
   - filberts
   - click
+- - wing
+  - d
+  - airborne
 - - puny
   - humans
   - apprehend
@@ -17,24 +17,39 @@ ngrams:
 - - diagram
   - ornithologists
   - throughout
-- - corrected
-  - version
-  - appears
-- - wing
-  - d
-  - airborne
 - - d
   - airborne
   - pals
 - - beak
   - d
   - wing
+- - d
+  - wing
+  - d
+- - corrected
+  - version
+  - appears
 - - historic
   - bird
   - psychology
 - - version
   - appears
   - below
+- - bird
+  - psychology
+  - diagram
+- - anniversary
+  - astonishingly
+  - today
+- - inexplicably
+  - several
+  - errors
+- - several
+  - errors
+  - crept
+- - ago
+  - update
+  - inexplicably
 story:
   date: 2011-03-11
   id: 2011-03-11-ornithological-anniversary
@@ -51,4 +66,4 @@ story:
     \ of Bl\xF6tzmann's diagram. The corrected version appears below, and will, again,\
     \ loom larger should you click upon it.\n"
   title: Ornithological Anniversary
-word_count: 146
+word_count: 143

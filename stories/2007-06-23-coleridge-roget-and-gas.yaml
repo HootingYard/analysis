@@ -1,16 +1,22 @@
 ngrams:
-- - rennison
-  - steven
-  - poole
-- - nick
-  - rennison
-  - steven
 - - roget
   - studied
   - medicine
 - - poole
   - notes
   - roget
+- - steven
+  - poole
+  - notes
+- - inhalation
+  - gas
+  - therapy
+- - wonderfully
+  - named
+  - pneumatic
+- - notes
+  - roget
+  - studied
 story:
   date: 2007-06-23
   id: 2007-06-23-coleridge-roget-and-gas

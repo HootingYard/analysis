@@ -1,13 +1,19 @@
 ngrams:
-- - town
-  - toyshop
-  - thanks
-- - pointy
+- - only
+  - item
+  - in
+- - the
+  - pointy
   - town
-  - toyshop
-- - pointy
+- - the
+  - pointy
   - town
-  - toyshop
+- - the
+  - only
+  - item
+- - item
+  - in
+  - the
 story:
   date: 2013-07-28
   id: 2013-07-28-pointy

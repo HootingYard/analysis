@@ -5,30 +5,12 @@ ngrams:
 - - diseases
   - kidney
   - cancer
-- - evangelical
-  - christians
-  - maybe
-- - baroness
-  - margaret
-  - thatcher
-- - baroness
-  - skin
-  - diseases
 - - skin
   - diseases
   - kidney
-- - problems
-  - baroness
-  - skin
-- - fairy
-  - tale
-  - baddie
 - - depression
   - stress
   - heart
-- - heart
-  - problems
-  - baroness
 - - stress
   - heart
   - problems
@@ -44,6 +26,60 @@ ngrams:
 - - margaret
   - thatcher
   - though
+- - strike
+  - every
+  - five
+- - satan
+  - plague
+  - us
+- - every
+  - five
+  - minutes
+- - card
+  - popped
+  - through
+- - course
+  - it's
+  - hard
+- - new
+  - alliance
+  - between
+- - aristocracy
+  - against
+  - us
+- - only
+  - does
+  - satan
+- - read
+  - every
+  - person
+- - card
+  - then
+  - turned
+- - cure
+  - 'no'
+  - peace
+- - think
+  - i'd
+  - like
+- - hope
+  - 'no'
+  - cure
+- - some
+  - new
+  - alliance
+- - initial
+  - surmise
+  - about
+- - difference
+  - incidentally
+  - when
+- - morning
+  - star
+  - about
+- - sermons
+  - would
+  - consist
 story:
   date: 2007-05-15
   id: 2007-05-15-every-person-is-victimised-by-satan-apparently
@@ -65,4 +101,4 @@ story:
     \ Mitteleuropean quality about it that \u2018Lord\u2019 or \u2018Earl\u2019 or\
     \ \u2018Duke\u2019 somehow lack."
   title: Every Person Is Victimised By Satan (Apparently)
-word_count: 218
+word_count: 216

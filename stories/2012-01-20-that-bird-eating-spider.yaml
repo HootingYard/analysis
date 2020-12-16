@@ -1,16 +1,22 @@
 ngrams:
-- - goliath
-  - bird-eating
-  - spider
-- - bird-eating
-  - spider
-  - courtesy
 - - lunchtime
   - snack
   - taken
-- - pouchet
-  - m
-  - d
+- - mike
+  - jennings
+  - here
+- - its
+  - lunchtime
+  - snack
+- - become
+  - its
+  - lunchtime
+- - about
+  - note
+  - too
+- - snack
+  - taken
+  - from
 story:
   date: 2012-01-20
   id: 2012-01-20-that-bird-eating-spider

@@ -1,34 +1,13 @@
 ngrams:
-- - marmalade-style
-  - pipless
-  - jellied-eel
-- - coast
-  - crop-dusting
-  - co-pilot
-- - ivory
-  - coast
-  - crop-dusting
-- - pipless
-  - jellied-eel
-  - goo
-- - nine
-  - miles
-  - south-east
 - - absolutely
   - seething
   - pausing
 - - church
   - st
-  - margaret
+  - margaret's
 - - table
   - absolutely
   - seething
-- - seething
-  - often
-  - seethe
-- - inamorata
-  - marigold
-  - chew
 - - marigold
   - chew
   - observed
@@ -44,6 +23,81 @@ ngrams:
 - - almost
   - immediately
   - lost
+- - pamphleteer
+  - became
+  - almost
+- - round
+  - tower
+  - though
+- - pausing
+  - before
+  - spooning
+- - seething
+  - pausing
+  - before
+- - norfolk
+  - said
+  - marigold
+- - seething
+  - dobson
+  - indeed
+- - shall
+  - shouted
+  - dobson
+- - norwich
+  - its
+  - church
+- - said
+  - marigold
+  - chew
+- - said
+  - marigold
+  - chew
+- - its
+  - church
+  - st
+- - her
+  - mouth
+  - dobson's
+- - seething
+  - dobson
+  - dobson
+- - st
+  - margaret's
+  - has
+- - dobson
+  - said
+  - marigold
+- - am
+  - oh
+  - light
+- - about
+  - nine
+  - miles
+- - chew
+  - about
+  - nine
+- - marigold
+  - chew
+  - about
+- - immediately
+  - lost
+  - when
+- - lost
+  - when
+  - eventually
+- - would
+  - happily
+  - recite
+- - century's
+  - great
+  - out
+- - downpour
+  - so
+  - heavy
+- - teeming
+  - downpour
+  - so
 story:
   date: 2016-01-23
   id: 2016-01-23-seething-dobson
@@ -70,4 +124,4 @@ story:
     \ Seething at all. Dobson had wandered as far as the county of Cornwall, and found\
     \ himself in the tiny village of Splat.\nDobson was splatting.\n"
   title: Seething Dobson
-word_count: 275
+word_count: 271

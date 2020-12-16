@@ -2,12 +2,18 @@ ngrams:
 - - resolved
   - et
   - voila
-- - pansy
-  - cradledew
-  - r
-- - cradledew
-  - r
+- - r
   - noted
+  - let
+- - noted
+  - let
+  - us
+- - let
+  - us
+  - hope
+- - will
+  - appear
+  - whereupon
 story:
   date: 2016-08-05
   id: 2016-08-05-the-remainder-of-the-horse
@@ -15,4 +21,4 @@ story:
     \ \u201CLet us hope that tomorrow the remainder of the horse will appear, whereupon\
     \ the enigma will be resolved\u201D. Et voila!\n"
   title: The Remainder Of The Horse
-word_count: 38
+word_count: 37

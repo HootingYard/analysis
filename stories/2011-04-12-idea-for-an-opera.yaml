@@ -1,49 +1,184 @@
 ngrams:
-- - jester
-  - rigoletto
-  - rigoletto
-- - mortally
-  - wounded
-  - gilda
 - - magnifico
   - uncannily
   - transported
-- - court
-  - jester
-  - rigoletto
 - - hunchbacked
   - court
   - jester
-- - goatherd
-  - manqu
-  - peered
 - - boulevard
   - magnifico
   - uncannily
 - - titanic
   - operatic
   - masterpieces
-- - desolate
-  - moor
-  - forgive
 - - italianate
   - suit
   - waving
-- - stood
-  - tragically
-  - goatless
-- - goatherd
-  - stood
-  - tragically
 - - noble
   - fellow
   - repair
 - - alone
   - weeping
   - subsisting
-- - moors
-  - alone
-  - weeping
+- - fat
+  - stars
+  - twinkling
+- - 'true'
+  - boulevard
+  - magnifico
+- - torment
+  - since
+  - job
+- - brother
+  - none
+  - knows
+- - wondered
+  - whatever
+  - became
+- - strolled
+  - stylishly
+  - across
+- - moonlit
+  - night
+  - allow
+- - pointy
+  - beard
+  - dressed
+- - stars
+  - twinkling
+  - across
+- - yet
+  - noble
+  - silhouetted
+- - yet
+  - noble
+  - fellow
+- - grunt
+  - ah
+  - well
+- - another
+  - whatever
+  - became
+- - feed
+  - 'off'
+  - nettles
+- - clear
+  - still
+  - moonlit
+- - garb
+  - after
+  - receiving
+- - man's
+  - garb
+  - after
+- - stones
+  - after
+  - opening
+- - sack
+  - after
+  - finding
+- - still
+  - moonlit
+  - night
+- - suffered
+  - such
+  - torment
+- - opera
+  - far
+  - away
+- - none
+  - knows
+  - where
+- - such
+  - torment
+  - since
+- - operatic
+  - masterpieces
+  - has
+- - after
+  - being
+  - beaten
+- - ah
+  - well
+  - said
+- - any
+  - man
+  - suffered
+- - man
+  - suffered
+  - such
+- - puddles
+  - 'no'
+  - matter
+- - any
+  - other
+  - planet
+- - 'no'
+  - matter
+  - soon
+- - being
+  - beaten
+  - up
+- - stars
+  - has
+  - any
+- - since
+  - job
+  - there
+- - night
+  - allow
+  - me
+- - job
+  - there
+  - came
+- - an
+  - italianate
+  - suit
+- - has
+  - any
+  - man
+- - we
+  - shall
+  - set
+- - far
+  - away
+  - out
+- - any
+  - other
+  - time
+- - write
+  - an
+  - opera
+- - reached
+  - this
+  - land
+- - an
+  - opera
+  - far
+- - stylishly
+  - across
+  - this
+- - across
+  - this
+  - desolate
+- - this
+  - night
+  - clear
+- - yet
+  - reached
+  - this
+- - but
+  - grunt
+  - ah
+- - this
+  - clear
+  - still
+- - own
+  - ruin
+  - but
+- - have
+  - taken
+  - rooms
 story:
   date: 2011-04-12
   id: 2011-04-12-idea-for-an-opera
@@ -85,4 +220,4 @@ story:
     \ the titanic operatic masterpieces of this or any other time, of this or any\
     \ other planet."
   title: Idea For An Opera
-word_count: 488
+word_count: 484

@@ -5,12 +5,21 @@ ngrams:
 - - roman
   - numerals
   - please
+- - iii
+  - today's
+  - advent
+- - calendar
+  - iii
+  - today's
 - - picture
   - deploy
   - roman
 - - advent
   - calendar
   - iii
+- - today's
+  - advent
+  - calendar
 - - black
   - marker
   - pen
@@ -20,6 +29,9 @@ ngrams:
 - - advent
   - calendar
   - picture
+- - appropriate
+  - number
+  - above
 story:
   date: 2011-12-03
   id: 2011-12-03-hooting-yard-advent-calendar-iii
@@ -31,4 +43,4 @@ story:
     \ should use a thick black marker pen to write the appropriate number above, below,\
     \ or to the side of the picture. Deploy Roman numerals, please.\n"
   title: Hooting Yard Advent Calendar (iii)
-word_count: 95
+word_count: 94

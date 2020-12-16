@@ -1,19 +1,28 @@
 ngrams:
+- - gertrude
+  - stein's
+  - tender
+- - stein's
+  - tender
+  - buttons
 - - mentioned
   - gertrude
-  - stein
+  - stein's
 - - magnificent
   - button
   - shop
 - - told
   - tender
   - buttons
-- - fiftieth
-  - anniversary
-  - should
 - - york
   - city
   - last
+- - new
+  - york
+  - city
+- - city
+  - last
+  - year
 story:
   date: 2015-04-06
   id: 2015-04-06-tender-buttons
@@ -27,4 +36,4 @@ story:
 
     '
   title: Tender Buttons
-word_count: 66
+word_count: 65

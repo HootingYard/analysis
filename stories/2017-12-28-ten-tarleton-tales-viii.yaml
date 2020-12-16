@@ -5,12 +5,6 @@ ngrams:
 - - careful
   - aim
   - tosses
-- - pinky-russet
-  - mountains
-  - shimmer
-- - carlsbad
-  - plumstones
-  - lie
 - - squeaking
   - imaginary
   - bats
@@ -20,30 +14,114 @@ ngrams:
 - - returning
   - crusaders
   - brought
-- - tales
-  - viii
-  - exciting
 - - toss
   - tarleton
   - turns
 - - taking
   - careful
   - aim
-- - tarleton
-  - tales
-  - viii
-- - viii
-  - exciting
-  - news
-- - ten
-  - tarleton
-  - tales
-- - wooden
-  - leg
-  - tarleton
 - - exciting
   - news
   - tarleton
+- - champions
+  - arrayed
+  - along
+- - shallow
+  - pool
+  - around
+- - acquired
+  - since
+  - last
+- - though
+  - acquired
+  - since
+- - only
+  - dimly
+  - remembers
+- - did
+  - heroically
+  - losing
+- - cathedrals
+  - tarleton
+  - did
+- - never
+  - once
+  - missed
+- - dimly
+  - remembers
+  - more
+- - too
+  - since
+  - last
+- - remembers
+  - more
+  - vivid
+- - fountain
+  - how
+  - many
+- - how
+  - many
+  - carlsbad
+- - 'no'
+  - piratical
+  - parrot
+- - fortitude
+  - 'no'
+  - wonder
+- - show
+  - fortitude
+  - 'no'
+- - 'no'
+  - wonder
+  - tarleton
+- - long
+  - time
+  - since
+- - has
+  - though
+  - acquired
+- - time
+  - too
+  - since
+- - long
+  - time
+  - too
+- - adoring
+  - peasants
+  - there
+- - there
+  - barely
+  - submerged
+- - lie
+  - there
+  - barely
+- - peasants
+  - there
+  - remain
+- - has
+  - never
+  - once
+- - fort
+  - toity
+  - so
+- - balcony
+  - down
+  - into
+- - last
+  - we
+  - met
+- - since
+  - last
+  - we
+- - this
+  - balcony
+  - eating
+- - brief
+  - we
+  - might
+- - so
+  - long
+  - ago
 story:
   date: 2017-12-28
   id: 2017-12-28-ten-tarleton-tales-viii
@@ -78,4 +156,4 @@ story:
     He has never once missed a toss. Tarleton turns and withdraws into his chamber.
     His head is full of squeaking imaginary bats.'
   title: "Ten Tarleton Tales\u2014VIII"
-word_count: 336
+word_count: 334

@@ -1,13 +1,19 @@
 ngrams:
-- - yer
-  - lug
-  - oles
-- - back
-  - yer
-  - lug
-- - pin
+- - comment
+  - yesterday's
+  - broadcast
+- - episode
+  - pin
   - back
-  - yer
+- - air
+  - available
+  - here
+- - puppies
+  - were
+  - strangled
+- - this
+  - comment
+  - yesterday's
 story:
   date: 2017-02-03
   id: 2017-02-03-episode-38
@@ -16,4 +22,4 @@ story:
     \ carefully. I would like to point out that no puppies were strangled in the making\
     \ of this programme."
   title: Episode 38
-word_count: 43
+word_count: 41

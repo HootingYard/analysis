@@ -1,22 +1,10 @@
 ngrams:
-- - elegantes
-  - formarum
-  - spectatrices
 - - scotian
   - seabird
   - tagging
-- - laudator
-  - temporis
-  - acti
 - - nova
   - scotian
   - seabird
-- - acti
-  - michael
-  - gilleland
-- - temporis
-  - acti
-  - michael
 - - foothills
   - chris
   - mullin
@@ -32,9 +20,6 @@ ngrams:
 - - reminiscences
   - chapter
   - x
-- - michael
-  - gilleland
-  - posted
 - - austrian
   - postal
   - service
@@ -44,6 +29,123 @@ ngrams:
 - - mullin
   - mp
   - writes
+- - mp
+  - writes
+  - prescott's
+- - literary
+  - reminiscences
+  - chapter
+- - identical
+  - legs
+  - wordsworth
+- - prescott
+  - yesterday
+  - v
+- - chapter
+  - x
+  - william
+- - wordsworth
+  - de
+  - quincey
+- - evening
+  - dress
+  - parties
+- - william
+  - wordsworth
+  - de
+- - wearing
+  - unmatching
+  - shoes
+- - unlike
+  - john
+  - prescott
+- - serviceable
+  - legs
+  - beyond
+- - patrol
+  - unlike
+  - john
+- - prescott's
+  - black
+  - mood
+- - plastic
+  - bag
+  - containing
+- - de
+  - quincey
+  - seems
+- - writes
+  - prescott's
+  - black
+- - morning
+  - wearing
+  - unmatching
+- - legs
+  - wordsworth
+  - must
+- - wordsworth
+  - dobson
+  - prescott
+- - marigold
+  - chew
+  - indeed
+- - these
+  - identical
+  - legs
+- - dobson
+  - prescott
+  - yesterday
+- - boots
+  - dobson
+  - trudged
+- - even
+  - physical
+  - disgust
+- - acute
+  - even
+  - physical
+- - boots
+  - including
+  - those
+- - dobson
+  - trudged
+  - around
+- - other
+  - stimulants
+  - whatsoever
+- - caused
+  - her
+  - acute
+- - heard
+  - lecture
+  - upon
+- - force
+  - itself
+  - upon
+- - often
+  - caused
+  - her
+- - calculate
+  - upon
+  - good
+- - upon
+  - good
+  - data
+- - boots
+  - can
+  - pull
+- - 'no'
+  - absolute
+  - deformity
+- - lend
+  - their
+  - friendly
+- - their
+  - friendly
+  - aid
+- - 'no'
+  - boots
+  - lend
 story:
   date: 2009-02-25
   id: 2009-02-25-wordsworth-dobson-prescott
@@ -79,4 +181,4 @@ story:
     \ the meeting a minion appears with a plastic bag containing an assortment of\
     \ shoes.\u201D"
   title: Wordsworth, Dobson, Prescott
-word_count: 394
+word_count: 393

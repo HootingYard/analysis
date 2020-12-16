@@ -1,19 +1,13 @@
 ngrams:
-- - maxwell
-  - chatto
-  - windus
-- - xii
-  - dearest
-  - alyse
 - - archetypal
   - posh
   - communist
-- - warner
-  - superb
-  - novelist
 - - townsend
   - warner
   - superb
+- - warner
+  - superb
+  - novelist
 - - townsend
   - warner
   - ed
@@ -23,27 +17,162 @@ ngrams:
 - - sylvia
   - townsend
   - warner
-- - beautiful
-  - clean
-  - sweet-smelling
-- - william
-  - maxwell
-  - chatto
-- - bare
-  - wood-smelling
-  - chambers
-- - especially
-  - neat
-  - charming
+- - pastor's
+  - wife
+  - gazes
 - - wife
   - gazes
   - abstractedly
 - - ed
   - william
   - maxwell
+- - especially
+  - neat
+  - charming
 - - warner
   - ed
   - william
+- - sing
+  - lutheran
+  - hymns
+- - lutheran
+  - bell
+  - calling
+- - matchbox
+  - signed
+  - p
+- - posh
+  - communist
+  - received
+- - empty
+  - rectangular
+  - expanse
+- - matchbox
+  - stamps
+  - 'yes'
+- - chambers
+  - walls
+  - floor
+- - walls
+  - floor
+  - ceiling
+- - signed
+  - p
+  - s
+- - 'yes'
+  - 'yes'
+  - menacingly
+- - string
+  - 'yes'
+  - 'yes'
+- - charming
+  - things
+  - neat
+- - lutheran
+  - hymns
+  - while
+- - 'yes'
+  - menacingly
+  - too
+- - very
+  - scarlet
+  - muffler
+- - too
+  - happy
+  - sitting
+- - menacingly
+  - too
+  - often
+- - ask
+  - myself
+  - why
+- - enjoy
+  - being
+  - given
+- - should
+  - enjoy
+  - being
+- - far
+  - too
+  - happy
+- - some
+  - graceless
+  - comparison
+- - say
+  - carried
+  - away
+- - often
+  - thought
+  - how
+- - such
+  - charming
+  - things
+- - artfulness
+  - has
+  - gone
+- - evergreen
+  - while
+  - she
+- - human
+  - artfulness
+  - has
+- - while
+  - she
+  - wonders
+- - never
+  - happened
+  - before
+- - thought
+  - how
+  - much
+- - opened
+  - your
+  - matchbox
+- - norway
+  - what
+  - pleasure
+- - never
+  - seen
+  - such
+- - has
+  - never
+  - happened
+- - ceiling
+  - all
+  - wood
+- - bell
+  - calling
+  - me
+- - floor
+  - ceiling
+  - all
+- - ever
+  - been
+  - sent
+- - sitting
+  - there
+  - listening
+- - p
+  - s
+  - there
+- - outside
+  - sitting
+  - there
+- - into
+  - those
+  - bare
+- - never
+  - been
+  - given
+- - half
+  - so
+  - convenient
+- - walk
+  - into
+  - those
+- - an
+  - agreeable
+  - likeness
 story:
   date: 2014-05-08
   id: 2014-05-08-norwegian-wood
@@ -82,4 +211,4 @@ story:
     \ in the background is magnificent.\nThe Letters of Sylvia Townsend Warner, ed.\
     \ William Maxwell (Chatto & Windus 1982)"
   title: Norwegian Wood
-word_count: 471
+word_count: 469

@@ -2,15 +2,6 @@ ngrams:
 - - degenerate
   - gelatinous
   - fermentation
-- - acid
-  - ichors
-  - oozing
-- - amoebal
-  - vaguely
-  - moulded
-- - sticky
-  - acid
-  - ichors
 - - broad
   - phantasmal
   - lineaments
@@ -23,9 +14,6 @@ ngrams:
 - - unwholesome
   - vats
   - crammed
-- - lovecraft
-  - describes
-  - manhattan
 - - y
   - c
   - lovecraft
@@ -44,6 +32,60 @@ ngrams:
 - - lower
   - east
   - side
+- - p
+  - lovecraft
+  - against
+- - eyes
+  - ears
+  - nose
+- - point
+  - h
+  - p
+- - belknap
+  - long
+  - cited
+- - frank
+  - belknap
+  - long
+- - every
+  - point
+  - h
+- - world
+  - against
+  - life
+- - any
+  - living
+  - face
+- - awful
+  - cesspool
+  - could
+- - some
+  - stinking
+  - viscous
+- - collectively
+  - devastating
+  - which
+- - devastating
+  - which
+  - left
+- - one
+  - leprous
+  - cataclysm
+- - infesting
+  - worms
+  - or
+- - but
+  - infesting
+  - worms
+- - abnormally
+  - bubbling
+  - from
+- - vaguely
+  - moulded
+  - from
+- - bubbling
+  - from
+  - monstrous
 story:
   date: 2013-06-21
   id: 2013-06-21-n-y-c-lovecraft
@@ -67,4 +109,4 @@ story:
     \ Side in a letter to Frank Belknap Long, cited in H. P. Lovecraft\_: Against\
     \ The World, Against Life by Michel Houellebecq (1991, 2005)"
   title: N. Y. C. Lovecraft
-word_count: 236
+word_count: 232

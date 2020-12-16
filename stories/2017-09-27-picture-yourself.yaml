@@ -1,19 +1,7 @@
 ngrams:
-- - gold-rimmed
-  - granny
-  - glasses
 - - bolshevik
   - psychopath
   - lenin
-- - famed
-  - ocean-going
-  - sailor
-- - gibberish
-  - goo-goo-g
-  - joob
-- - universally
-  - pronounced
-  - rawley
 - - confuse
   - clarice
   - starling
@@ -23,9 +11,9 @@ ngrams:
 - - granny
   - glasses
   - beside
-- - ocean-going
-  - sailor
-  - sir
+- - meant
+  - lenin's
+  - successor
 - - sir
   - walter
   - raleigh
@@ -35,15 +23,120 @@ ngrams:
 - - sailor
   - sir
   - walter
-- - round
-  - gold-rimmed
-  - granny
 - - second
   - apartment
   - solely
 - - young
   - persons
   - confuse
+- - yourself
+  - picture
+  - yourself
+- - rally
+  - nowadays
+  - people
+- - picture
+  - yourself
+  - picture
+- - perhaps
+  - bernard
+  - levin
+- - people
+  - usually
+  - pronounce
+- - nowadays
+  - people
+  - usually
+- - same
+  - young
+  - persons
+- - gently
+  - until
+  - whatever
+- - i'm
+  - getting
+  - things
+- - psychopath
+  - lenin
+  - these
+- - topple
+  - over
+  - capsizing
+- - tad
+  - just
+  - enough
+- - yours
+  - now
+  - i'm
+- - now
+  - i'm
+  - getting
+- - float
+  - downstream
+  - then
+- - who
+  - confuse
+  - clarice
+- - walter
+  - raleigh
+  - who
+- - persons
+  - who
+  - confuse
+- - imagine
+  - 'no'
+  - possessions
+- - young
+  - persons
+  - who
+- - your
+  - successor
+  - stalin
+- - blurt
+  - your
+  - wife
+- - your
+  - wife
+  - looks
+- - river
+  - your
+  - wife
+- - your
+  - mind
+  - relax
+- - open
+  - your
+  - mouth
+- - perilous
+  - if
+  - performed
+- - write
+  - them
+  - nor
+- - turn
+  - your
+  - mind
+- - head
+  - just
+  - like
+- - your
+  - head
+  - falls
+- - turn
+  - 'off'
+  - your
+- - 'off'
+  - your
+  - mind
+- - things
+  - all
+  - mixed
+- - inside
+  - your
+  - head
+- - getting
+  - things
+  - all
 story:
   date: 2017-09-27
   id: 2017-09-27-picture-yourself
@@ -75,4 +168,4 @@ story:
     \ I meant Lenin's successor, not yours. Now I'm getting things all mixed up in\
     \ my head. Just like you. Well, you wrote a lot of nonsense too."
   title: Picture Yourself
-word_count: 373
+word_count: 370

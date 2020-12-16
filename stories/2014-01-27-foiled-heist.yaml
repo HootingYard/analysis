@@ -1,49 +1,82 @@
 ngrams:
-- - rufty
-  - tufty
-  - henchmen
 - - stocking
   - masks
   - burst
-- - nota
-  - bene
-  - ms
-- - quick
-  - tableau
-  - vivant
-- - stunned
-  - staring
-  - goggle-eyed
-- - pansy
-  - cradledew
-  - fretted
-- - bene
-  - ms
-  - cradledew
-- - yours
-  - pansy
-  - cradledew
 - - foiled
   - heist
   - earlier
-- - says
-  - utterly
-  - invalidates
-- - bus
-  - nota
-  - bene
-- - mother
-  - died
-  - twenty
-- - hard
-  - john
-  - mctiernan
-- - die
-  - hard
-  - john
 - - summon
   - detective
   - captain
+- - die
+  - hard
+  - john
+- - bank
+  - several
+  - chaps
+- - heist
+  - earlier
+  - today
+- - rather
+  - large
+  - sum
+- - simple
+  - enough
+  - matter
+- - under
+  - arrest
+  - while
+- - got
+  - back
+  - safe
+- - large
+  - sum
+  - may
+- - she
+  - says
+  - utterly
+- - henchmen
+  - who
+  - placed
+- - dropping
+  - their
+  - guns
+- - them
+  - under
+  - arrest
+- - placed
+  - them
+  - under
+- - were
+  - stunned
+  - staring
+- - their
+  - guns
+  - after
+- - which
+  - involved
+  - taking
+- - who
+  - placed
+  - them
+- - which
+  - she
+  - says
+- - do
+  - which
+  - involved
+- - has
+  - asked
+  - me
+- - scene
+  - from
+  - die
+- - fact
+  - which
+  - she
+- - from
+  - die
+  - hard
 story:
   date: 2014-01-27
   id: 2014-01-27-foiled-heist
@@ -63,4 +96,4 @@ story:
     \ that my mother died twenty years ago, a fact which she says utterly invalidates\
     \ my swearage. That may well be so, but I know my onions."
   title: Foiled Heist!
-word_count: 210
+word_count: 208

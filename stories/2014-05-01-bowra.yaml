@@ -1,7 +1,4 @@
 ngrams:
-- - sir
-  - maurice
-  - bowra
 - - actor
   - david
   - warner
@@ -23,12 +20,6 @@ ngrams:
 - - party
   - whose
   - name
-- - bowra
-  - last
-  - night
-- - man
-  - named
-  - henderson
 - - sleep
   - last
   - night
@@ -41,6 +32,39 @@ ngrams:
 - - today
   - among
   - other
+- - better
+  - kick
+  - them
+- - among
+  - other
+  - things
+- - knew
+  - anything
+  - about
+- - had
+  - lank
+  - sandy
+- - booming
+  - voice
+  - this
+- - look
+  - him
+  - up
+- - anything
+  - about
+  - him
+- - awoke
+  - this
+  - morning
+- - had
+  - better
+  - kick
+- - david
+  - warner
+  - but
+- - pass
+  - this
+  - way
 story:
   date: 2014-05-01
   id: 2014-05-01-bowra

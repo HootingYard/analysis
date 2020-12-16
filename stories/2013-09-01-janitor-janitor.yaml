@@ -3,9 +3,6 @@ ngrams:
   - boney
   - boney
 - - boney
-  - trapeze
-  - artiste
-- - boney
   - boney
   - trapeze
 - - interminable
@@ -26,24 +23,99 @@ ngrams:
 - - above
   - dirigibles
   - loom
-- - gas-filled
-  - balloons
-  - above
 - - skies
   - above
   - dirigibles
 - - drop
   - janitor
   - janitor
+- - mop
+  - janitor
+  - janitor
+- - mop
+  - janitor
+  - janitor
 - - blue
   - blue
   - skies
-- - mop
+- - janitor
   - janitor
   - janitor
-- - mop
+- - janitor
   - janitor
   - janitor
+- - blue
+  - skies
+  - above
+- - question
+  - drop
+  - janitor
+- - compendium
+  - four
+  - hundred
+- - keys
+  - oh
+  - please
+- - christ's
+  - sake
+  - let
+- - rustics
+  - cavort
+  - around
+- - oh
+  - please
+  - please
+- - please
+  - please
+  - let
+- - drag
+  - themselves
+  - away
+- - new
+  - compendium
+  - four
+- - maypole
+  - before
+  - slumping
+- - before
+  - slumping
+  - exhausted
+- - matter
+  - drop
+  - these
+- - where
+  - rustics
+  - cavort
+- - cupboards
+  - where
+  - keys
+- - england
+  - where
+  - rustics
+- - dirigibles
+  - loom
+  - like
+- - janitor
+  - janitor
+  - where
+- - janitor
+  - janitor
+  - where
+- - janitor
+  - janitor
+  - where
+- - janitor
+  - janitor
+  - where
+- - dark
+  - hours
+  - before
+- - first
+  - two
+  - verses
+- - their
+  - interminable
+  - corridors
 story:
   date: 2013-09-01
   id: 2013-09-01-janitor-janitor
@@ -72,4 +144,4 @@ story:
     \ by cupboards, where keys are rattled, and buckets and pails and mops are mislaid,\
     \ and there is terrible weeping in the dark hours before the dawn."
   title: Janitor, Janitor
-word_count: 314
+word_count: 312

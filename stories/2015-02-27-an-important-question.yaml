@@ -1,7 +1,4 @@
 ngrams:
-- - bbc
-  - radio
-  - four
 - - paying
   - close
   - enough
@@ -11,6 +8,15 @@ ngrams:
 - - farming
   - today
   - how
+- - answer
+  - readers
+  - may
+- - may
+  - perhaps
+  - wish
+- - readers
+  - may
+  - perhaps
 story:
   date: 2015-02-27
   id: 2015-02-27-an-important-question
@@ -22,4 +28,4 @@ story:
     I am afraid I was not paying close enough attention and so did not learn the answer.
     Readers may perhaps wish to give their own replies in the comments.'
   title: An Important Question
-word_count: 51
+word_count: 50

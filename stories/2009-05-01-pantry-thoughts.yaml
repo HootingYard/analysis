@@ -1,25 +1,22 @@
 ngrams:
-- - breadbin
-  - thereagain
-  - maybe
 - - bright
   - electric
   - bulb
+- - pantry
+  - it's
+  - lucky
 - - illegal
   - wattage
   - without
+- - don't
+  - keep
+  - dough
 - - frame
   - without
   - purpose
-- - t
-  - keep
-  - dough
 - - pantry
   - door
   - 'off'
-- - don
-  - t
-  - keep
 - - buffed
   - every
   - day
@@ -44,6 +41,30 @@ ngrams:
 - - without
   - purpose
   - but
+- - sack
+  - you
+  - hang
+- - pantry
+  - whenever
+  - you
+- - dough
+  - you
+  - open
+- - dough
+  - you
+  - don't
+- - whenever
+  - you
+  - need
+- - you
+  - don't
+  - keep
+- - maybe
+  - my
+  - brain
+- - imagine
+  - my
+  - brain
 story:
   date: 2009-05-01
   id: 2009-05-01-pantry-thoughts
@@ -60,4 +81,4 @@ story:
     \ the frame, without purpose. But visible, and buffed every day, with a rag.\xC2\
     \_"
   title: Pantry Thoughts
-word_count: 183
+word_count: 181

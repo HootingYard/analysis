@@ -20,6 +20,15 @@ ngrams:
 - - space
   - frequently
   - help
+- - frequently
+  - help
+  - themselves
+- - laundry
+  - soap
+  - remember
+- - soap
+  - theft
+  - more
 story:
   date: 2007-02-16
   id: 2007-02-16-soap-theft
@@ -31,4 +40,4 @@ story:
     \ with rings and necklaces emerging from the launderette, you can make a citizen's\
     \ arrest and cart it off to your secret underground lab."
   title: Soap Theft
-word_count: 87
+word_count: 84

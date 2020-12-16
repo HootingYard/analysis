@@ -1,22 +1,7 @@
 ngrams:
-- - translator
-  - philomen
-  - holland
-- - philomen
-  - holland
-  - uses
-- - blowes
-  - addendum
-  - pliny
-- - phrase
-  - barton
-  - mue
-- - seventeenth-century
-  - english
-  - translator
-- - english
-  - translator
-  - philomen
+- - pliny's
+  - parrot
+  - conjure
 - - pliny
   - holland
   - says
@@ -26,15 +11,45 @@ ngrams:
 - - natural
   - history
   - telling
-- - betoga
-  - d
-  - fellow
-- - d
-  - fellow
-  - beating
 - - history
   - telling
   - us
+- - take
+  - every
+  - opportunity
+- - parrots
+  - she
+  - hath
+- - speak
+  - she
+  - must
+- - parrot
+  - conjure
+  - up
+- - iron
+  - bar
+  - 'no'
+- - ancient
+  - world
+  - do
+- - says
+  - elsewhere
+  - your
+- - elsewhere
+  - your
+  - memory
+- - read
+  - your
+  - pliny
+- - your
+  - pliny
+  - here
+- - us
+  - about
+  - parrots
+- - telling
+  - us
+  - about
 story:
   date: 2010-08-04
   id: 2010-08-04-plinys-parrot
@@ -50,4 +65,4 @@ story:
     \ says elsewhere, your \u201Cmemory is so shittle, [you] will soone forget the\
     \ same againe\u201D."
   title: Pliny's Parrot
-word_count: 144
+word_count: 141

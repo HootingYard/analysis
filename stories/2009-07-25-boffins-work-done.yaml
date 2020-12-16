@@ -1,34 +1,22 @@
 ngrams:
-- - tired
-  - dull
-  - pasty-faced
-- - spent
-  - hours
-  - crafting
 - - pointless
   - accuracy
   - also
 - - long
   - grey
   - beard
-- - dull
-  - pasty-faced
-  - hooting
 - - old
   - tired
   - dull
 - - boffins
   - work
   - done
-- - lot
-  - won
-  - t
 - - own
   - eyes
   - actually
-- - pasty-faced
-  - hooting
-  - yard
+- - lot
+  - won't
+  - even
 - - may
   - look
   - identical
@@ -38,6 +26,39 @@ ngrams:
 - - also
   - any
   - comments
+- - any
+  - comments
+  - made
+- - new
+  - hooting
+  - yard
+- - anything
+  - has
+  - happened
+- - yard
+  - may
+  - look
+- - won't
+  - even
+  - know
+- - who
+  - spent
+  - hours
+- - readers
+  - who
+  - spent
+- - ask
+  - readers
+  - who
+- - even
+  - know
+  - anything
+- - hooting
+  - yard
+  - may
+- - completed
+  - their
+  - work
 story:
   date: 2009-07-25
   id: 2009-07-25-boffins-work-done
@@ -54,4 +75,4 @@ story:
     It is at times like this we all ought to whistle along to Time, forward! by Gyorgy\
     \ Sviridov (1915\u20131998)"
   title: "Boffins\u2019 Work Done"
-word_count: 161
+word_count: 160

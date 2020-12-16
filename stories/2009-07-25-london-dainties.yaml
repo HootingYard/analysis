@@ -1,28 +1,13 @@
 ngrams:
-- - sour
-  - draff
-  - lowered
-- - tallowy
-  - rancid
-  - mass
 - - windows
   - spittle
   - snot
-- - foul
-  - rinsings
-  - discharged
 - - deleterious
   - paste
   - mixed
-- - dainties
-  - originally
-  - posted
 - - bruised
   - snails
   - carried
-- - london
-  - dainties
-  - originally
 - - open
   - pails
   - exposed
@@ -41,9 +26,57 @@ ngrams:
 - - mass
   - called
   - butter
-- - hot
-  - water
-  - frothed
+- - snails
+  - carried
+  - through
+- - paste
+  - mixed
+  - up
+- - their
+  - fresh
+  - eggs
+- - trash
+  - chucked
+  - into
+- - this
+  - precious
+  - mixture
+- - conclude
+  - this
+  - catalogue
+- - shall
+  - conclude
+  - this
+- - imported
+  - from
+  - france
+- - discharged
+  - from
+  - doors
+- - eggs
+  - imported
+  - from
+- - by
+  - tobias
+  - smollett
+- - humphry
+  - clinker
+  - by
+- - clinker
+  - by
+  - tobias
+- - should
+  - not
+  - pass
+- - milk
+  - should
+  - not
+- - with
+  - chalk
+  - alum
+- - with
+  - bruised
+  - snails
 story:
   date: 2009-07-25
   id: 2009-07-25-london-dainties
@@ -66,4 +99,4 @@ story:
     \ from France and Scotland.\nFrom\_The Expedition Of Humphry Clinker by Tobias\
     \ Smollett (1771)"
   title: London Dainties
-word_count: 213
+word_count: 212

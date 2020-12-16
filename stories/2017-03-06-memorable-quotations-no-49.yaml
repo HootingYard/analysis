@@ -2,16 +2,22 @@ ngrams:
 - - musician
   - max
   - d
-- - max
-  - d
-  - charn
-- - charn
-  - o
+- - o
   - sting
+  - where
+- - memorable
+  - quotations
+  - 'no'
+- - quotations
+  - 'no'
+  - today's
+- - 'no'
+  - today's
+  - quotation
 story:
   date: 2017-03-06
   id: 2017-03-06-memorable-quotations-no-49
   text: "Today's quotation is from the writer and musician Max D\xE9charn\xE9.\n\n\
     \u201CO Sting! Where is thy death?\u201D"
   title: Memorable Quotations No. 49
-word_count: 21
+word_count: 20

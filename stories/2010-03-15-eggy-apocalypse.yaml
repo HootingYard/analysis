@@ -1,22 +1,19 @@
 ngrams:
-- - richard
-  - carter
-  - fcd
 - - sadly
   - orwell
   - recorded
 - - writes
   - sadly
   - orwell
+- - orwell's
+  - egg
+  - counting
 - - egg
   - counting
   - lasted
 - - accurate
   - account
   - stretching
-- - important
-  - anniversary
-  - occured
 - - lost
   - accurate
   - count
@@ -32,12 +29,33 @@ ngrams:
 - - own
   - pitiful
   - attempt
-- - anniversary
-  - occured
-  - while
 - - counting
   - lasted
   - much
+- - lasted
+  - much
+  - longer
+- - note
+  - how
+  - useful
+- - stretching
+  - over
+  - months
+- - over
+  - months
+  - useful
+- - account
+  - stretching
+  - over
+- - now
+  - lost
+  - accurate
+- - hooting
+  - yard
+  - readers
+- - much
+  - longer
+  - than
 story:
   date: 2010-03-15
   id: 2010-03-15-eggy-apocalypse
@@ -54,4 +72,4 @@ story:
     \ I am sure all Hooting Yard readers will share my sense of loss, knowing there\
     \ are no further egg tallies to pore over."
   title: Eggy Apocalypse
-word_count: 160
+word_count: 158

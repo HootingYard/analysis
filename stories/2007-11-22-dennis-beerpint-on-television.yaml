@@ -5,18 +5,12 @@ ngrams:
 - - aircraft
   - swooping
   - low
-- - television
-  - tanquod
-  - shuddery
-- - -part
-  - television
-  - drama
+- - paving
+  - slab
+  - don't
 - - drama
   - series
   - twee
-- - paving
-  - slab
-  - don
 - - series
   - twee
   - poet
@@ -26,15 +20,39 @@ ngrams:
 - - light
   - aircraft
   - swooping
+- - slab
+  - don't
+  - miss
 - - television
   - drama
   - series
 - - poetical
   - whimsy
   - indeed
-- - exciting
-  - new
-  - -part
+- - swooping
+  - low
+  - over
+- - low
+  - over
+  - clumps
+- - aircraft
+  - swooping
+  - upon
+- - swooping
+  - upon
+  - cows
+- - frame
+  - hove
+  - into
+- - hove
+  - into
+  - view
+- - understand
+  - will
+  - dennis
+- - will
+  - dennis
+  - get
 story:
   date: 2007-11-22
   id: 2007-11-22-dennis-beerpint-on-television
@@ -50,4 +68,4 @@ story:
     \ 26-part television drama series Twee Poet In A Light Aircraft Swooping Upon\
     \ Cows."
   title: Dennis Beerpint On Television
-word_count: 149
+word_count: 146

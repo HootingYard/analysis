@@ -1,7 +1,4 @@
 ngrams:
-- - mention
-  - marshal
-  - petain
 - - capitalist
   - music
   - cuttings
@@ -17,12 +14,27 @@ ngrams:
 - - rags
   - please
   - note
-- - importance
-  - bloch
-  - himself
-- - great
-  - steve
-  - bloch
+- - beat
+  - combo
+  - ever
+- - most
+  - important
+  - beat
+- - young
+  - mr
+  - key
+- - some
+  - cuttings
+  - culled
+- - first
+  - two
+  - reviews
+- - them
+  - second
+  - unfortunately
+- - mr
+  - key
+  - did
 story:
   date: 2011-04-21
   id: 2011-04-21-your-capitalist-music-cuttings-for-today
@@ -34,4 +46,4 @@ story:
     \ note that a young Mr Key did not write either of them.\n\n\nSecond, unfortunately\
     \ as low in resolution as he was high in importance, Bloch himself, on stage.\n"
   title: Your Capitalist Music Cuttings For Today
-word_count: 105
+word_count: 103

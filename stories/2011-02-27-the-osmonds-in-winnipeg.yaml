@@ -1,16 +1,4 @@
 ngrams:
-- - virl
-  - merrill
-  - wayne
-- - merrill
-  - wayne
-  - jay
-- - atelier
-  - tovar
-  - selected
-- - tovar
-  - selected
-  - writings
 - - wayne
   - jay
   - et
@@ -20,30 +8,102 @@ ngrams:
 - - guy
   - maddin
   - inveigled
-- - osmonds
-  - guy
-  - maddin
 - - winnipeggers
   - pride
   - ourselves
-- - permafrost
-  - forty
-  - degrees
 - - newly
   - arrived
   - celebrities
 - - arrived
   - celebrities
   - cope
-- - chilled
-  - cargo
-  - hold
-- - abc
-  - television
+- - walker
+  - theatre
+  - i'm
+- - real
+  - parents
+  - george
+- - cold
+  - simply
+  - kill
+- - fear
+  - since
+  - late
+- - maddin
+  - inveigled
+  - himself
+- - inveigled
+  - himself
+  - onto
+- - first
+  - biting
+  - mouthful
+- - since
+  - late
+  - last
+- - late
+  - last
+  - night
+- - last
+  - night
+  - real
+- - olive
+  - now
+  - elderly
+- - descended
+  - upon
+  - winnipeg
+- - real
+  - now
+  - aged
+- - television
   - descended
-- - osmonds
-  - themselves
-  - o-day
+  - upon
+- - visit
+  - us
+  - how
+- - unsuspecting
+  - who
+  - visit
+- - simply
+  - kill
+  - them
+- - their
+  - nose
+  - hairs
+- - into
+  - one's
+  - nostrils
+- - stab
+  - into
+  - one's
+- - cold
+  - rips
+  - into
+- - swallowed
+  - scissor
+  - will
+- - who
+  - visit
+  - us
+- - brought
+  - them
+  - here
+- - we
+  - winnipeggers
+  - pride
+- - popsters
+  - would
+  - stand
+- - would
+  - stand
+  - aside
+- - hairs
+  - are
+  - twisted
+- - nose
+  - hairs
+  - are
 story:
   date: 2011-02-27
   id: 2011-02-27-the-osmonds-in-winnipeg
@@ -69,4 +129,4 @@ story:
     \ brought them here as warm and loving parents?\nFrom \u201CDeath In Winnipeg\u201D\
     , collected in From The Atelier Tovar\_: Selected Writings by Guy Maddin (2003)"
   title: The Osmonds In Winnipeg
-word_count: 285
+word_count: 282

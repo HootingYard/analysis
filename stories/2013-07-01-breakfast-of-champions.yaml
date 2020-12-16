@@ -1,13 +1,19 @@
 ngrams:
-- - eno
-  - advertising
-  - catfood
 - - breakfast
   - cereal
   - click
 - - buy
   - breakfast
   - cereal
+- - daughter
+  - urging
+  - us
+- - champions
+  - first
+  - we
+- - brian
+  - one
+  - brain
 story:
   date: 2013-07-01
   id: 2013-07-01-breakfast-of-champions
@@ -16,4 +22,4 @@ story:
     \ of times to enlarge.)\n\nMany thanks to Glyn Webster for drawing this to my\
     \ attention."
   title: Breakfast Of Champions
-word_count: 42
+word_count: 41

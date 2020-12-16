@@ -1,13 +1,7 @@
 ngrams:
-- - william
-  - bodham
-  - donne
 - - poet
   - ovid
   - condemned
-- - barbarians
-  - william
-  - bodham
 - - gaping
   - barbarians
   - william
@@ -35,15 +29,57 @@ ngrams:
 - - without
   - special
   - leave
-- - bodham
-  - donne
-  - old
 - - donne
   - old
   - roads
 - - found
   - himself
   - unexpectedly
+- - poet's
+  - only
+  - solace
+- - affairs
+  - found
+  - himself
+- - unfortunate
+  - poet's
+  - only
+- - every
+  - roman
+  - indeed
+- - very
+  - particular
+  - attentions
+- - qualified
+  - himself
+  - before
+- - gentleman
+  - who
+  - declined
+- - fine
+  - gentleman
+  - who
+- - who
+  - declined
+  - taking
+- - an
+  - imperial
+  - rescript
+- - declined
+  - taking
+  - an
+- - taking
+  - an
+  - active
+- - an
+  - active
+  - part
+- - so
+  - many
+  - reams
+- - sent
+  - so
+  - many
 story:
   date: 2010-07-13
   id: 2010-07-13-for-want-of-fitting-audience
@@ -65,4 +101,4 @@ story:
     \ couplets to circles of gaping barbarians.\u201D\nWilliam Bodham Donne, Old Roads\
     \ And New Roads (1852)"
   title: For Want Of Fitting Audience
-word_count: 224
+word_count: 223

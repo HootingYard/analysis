@@ -1,28 +1,10 @@
 ngrams:
-- - emb
-  - tement
-  - blanc
-- - l
-  - emb
-  - tement
-- - oven
-  - arthur
-  - rimbaud
-- - pointlessness
-  - l
-  - emb
-- - moustache
-  - forming
-  - stalactites
-- - white
-  - pointlessness
-  - l
+- - supposed
+  - trail
+  - you'd
 - - ears
   - nearly
   - torn
-- - else
-  - arthur
-  - rimbaud
 - - somebody
   - else
   - arthur
@@ -32,9 +14,42 @@ ngrams:
 - - nearly
   - torn
   - 'off'
-- - alpine
-  - rimbaud
-  - here
+- - even
+  - though
+  - surrounded
+- - raise
+  - your
+  - nose
+- - your
+  - neck
+  - swollen
+- - wind
+  - your
+  - eyelashes
+- - north
+  - wind
+  - your
+- - your
+  - ears
+  - nearly
+- - raise
+  - your
+  - eyes
+- - swollen
+  - without
+  - your
+- - your
+  - own
+  - shadow
+- - enormous
+  - objects
+  - there
+- - torn
+  - 'off'
+  - your
+- - 'off'
+  - your
+  - neck
 story:
   date: 2012-05-10
   id: 2012-05-10-alpine-rimbaud
@@ -50,4 +65,4 @@ story:
     \ the Alps in 1878, quoted in Somebody Else\_: Arthur Rimbaud In Africa 1880\u2013\
     91 by Charles Nicholl (1997)"
   title: Alpine Rimbaud
-word_count: 145
+word_count: 143

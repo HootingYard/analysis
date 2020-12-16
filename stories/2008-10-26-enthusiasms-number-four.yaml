@@ -8,6 +8,12 @@ ngrams:
 - - replicas
   - by
   - rustic
+- - by
+  - rustic
+  - hinge
+- - four
+  - replicas
+  - by
 story:
   date: 2008-10-26
   id: 2008-10-26-enthusiasms-number-four

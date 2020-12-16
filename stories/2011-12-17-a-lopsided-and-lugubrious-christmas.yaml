@@ -1,15 +1,9 @@
 ngrams:
-- - hour-long
-  - slightly
-  - edited
 - - money
   - via
   - paypal
 - - slightly
   - edited
-  - recording
-- - complete
-  - unedited
   - recording
 - - christmas
   - money
@@ -29,6 +23,27 @@ ngrams:
 - - relive
   - those
   - golden
+- - those
+  - golden
+  - moments
+- - sending
+  - mr
+  - key
+- - available
+  - shortly
+  - after
+- - hooting
+  - yard
+  - christmas
+- - attend
+  - can
+  - hear
+- - cheer
+  - yourselves
+  - up
+- - rend
+  - your
+  - garments
 story:
   date: 2011-12-17
   id: 2011-12-17-a-lopsided-and-lugubrious-christmas
@@ -42,4 +57,4 @@ story:
     \ money, via PayPal.\nA podcast of the complete, unedited recording will be available\
     \ shortly after the broadcast, and I will of course post a link to it here."
   title: A Lopsided And Lugubrious Christmas
-word_count: 124
+word_count: 123

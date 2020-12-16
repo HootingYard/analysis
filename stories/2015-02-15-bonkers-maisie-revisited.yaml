@@ -1,25 +1,34 @@
 ngrams:
-- - large-scale
-  - orchestral
-  - variations
 - - bonkers
   - maisie
   - revisited
-- - ear-splitting
-  - choral
-  - version
 - - posted
   - bonkers
   - maisie
-- - ago
-  - pansy
-  - cradledew
 - - weeks
   - ago
   - pansy
 - - bonkers
   - maisie
   - here
+- - fine
+  - rendition
+  - here
+- - rendition
+  - here
+  - next
+- - said
+  - i'd
+  - like
+- - maisie
+  - revisited
+  - when
+- - here
+  - next
+  - up
+- - now
+  - been
+  - set
 story:
   date: 2015-02-15
   id: 2015-02-15-bonkers-maisie-revisited
@@ -30,4 +39,4 @@ story:
     \ Variations On A Theme Of Bonkers Maisie By Outa_Spaceman, and perhaps an ear-splitting\
     \ choral version, but I suppose that is too much to ask."
   title: Bonkers Maisie Revisited
-word_count: 86
+word_count: 85

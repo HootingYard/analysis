@@ -1,7 +1,7 @@
 ngrams:
-- - say
-  - jack
-  - spraggins
+- - england's
+  - mountains
+  - green
 - - woolly
   - socks
   - before
@@ -20,21 +20,36 @@ ngrams:
 - - green
   - just
   - try
-- - don
-  - t
+- - don't
   - give
+  - two
 - - its
   - fleece
   - spun
 - - feet
   - walked
   - did
+- - walk
+  - upon
+  - england's
+- - upon
+  - england's
+  - mountains
 - - put
   - those
   - socks
-- - walk
-  - upon
-  - england
+- - those
+  - feet
+  - well
+- - feet
+  - well
+  - did
+- - did
+  - those
+  - feet
+- - those
+  - feet
+  - did
 story:
   date: 2013-07-18
   id: 2013-07-18-jerusalem
@@ -48,4 +63,4 @@ story:
     Jack Spraggins. And I will put those socks on my feet and I will walk, yes, I
     will walk upon England's mountains green. Just try to stop me, buster.
   title: Jerusalem
-word_count: 147
+word_count: 142

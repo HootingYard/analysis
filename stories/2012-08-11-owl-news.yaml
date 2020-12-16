@@ -1,13 +1,19 @@
 ngrams:
-- - elsie
-  - schrotthaufen
-  - discovers
 - - mary
   - frances
   - strong
-- - news
-  - elsie
-  - schrotthaufen
+- - by
+  - mary
+  - frances
+- - superb
+  - book
+  - by
+- - book
+  - by
+  - mary
+- - discovers
+  - a
+  - superb
 story:
   date: 2012-08-11
   id: 2012-08-11-owl-news

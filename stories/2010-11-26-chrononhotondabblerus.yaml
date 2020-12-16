@@ -1,25 +1,37 @@
 ngrams:
-- - chrononhotondabblerus
-  - tis
-  - friday
-- - queen
-  - henry
-  - carey
-- - henry
-  - carey
-  - c
+- - year's
+  - christmas
+  - panto
 - - spinney
   - variety
   - theatre
-- - carey
-  - c
-  - together
 - - king
   - queen
   - henry
 - - tis
   - friday
   - morning
+- - old
+  - thespians
+  - among
+- - finds
+  - something
+  - new
+- - readership
+  - word
+  - has
+- - variety
+  - theatre
+  - will
+- - friday
+  - morning
+  - which
+- - morning
+  - which
+  - means
+- - this
+  - year's
+  - christmas
 story:
   date: 2010-11-26
   id: 2010-11-26-chrononhotondabblerus
@@ -31,4 +43,4 @@ story:
     \ Theatre will be mounting a star-studded production of the play in lieu of this\
     \ year's Christmas panto."
   title: Chrononhotondabblerus
-word_count: 90
+word_count: 88

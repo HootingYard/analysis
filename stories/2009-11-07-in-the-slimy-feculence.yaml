@@ -1,28 +1,10 @@
 ngrams:
-- - up-root
-  - highgate
-  - archway
-- - chapel
-  - spitalfields
-  - mile-end
 - - metropolis
   - murders
   - actions
-- - mile-end
-  - bow
-  - stepney
-- - bow
-  - stepney
-  - wapping
-- - spitalfields
-  - mile-end
-  - bow
 - - alarming
   - riots
   - robberies
-- - honey-lane
-  - market
-  - hay-hill
 - - generic
   - crimes
   - exaggeration
@@ -35,15 +17,174 @@ ngrams:
 - - seduction
   - fierce
   - theological
-- - piccadilly
-  - square
-  - honey-lane
 - - telegraph
   - monday
   - october
-- - square
-  - honey-lane
-  - market
+- - monday
+  - october
+  - quoted
+- - theological
+  - dissensions
+  - followed
+- - bethnal
+  - green
+  - jacob's
+- - accurate
+  - topographical
+  - knowledge
+- - britain
+  - cloth
+  - fair
+- - green
+  - jacob's
+  - island
+- - daily
+  - telegraph
+  - monday
+- - whose
+  - ferocious
+  - snouts
+- - worlds
+  - within
+  - worlds
+- - ridicule
+  - often
+  - attach
+- - seemed
+  - however
+  - fated
+- - highgate
+  - archway
+  - while
+- - run
+  - wild
+  - among
+- - chase
+  - still
+  - roam
+- - london
+  - public
+  - should
+- - adult
+  - person
+  - under
+- - most
+  - recent
+  - tidings
+- - public
+  - should
+  - hear
+- - little
+  - britain
+  - cloth
+- - should
+  - hear
+  - enough
+- - assaults
+  - such
+  - eventualities
+- - murderous
+  - assaults
+  - such
+- - separated
+  - its
+  - districts
+- - widely
+  - separated
+  - its
+- - its
+  - generic
+  - crimes
+- - its
+  - special
+  - mysteries
+- - our
+  - readers
+  - thousands
+- - every
+  - day
+  - convince
+- - among
+  - our
+  - readers
+- - our
+  - most
+  - recent
+- - londoner
+  - who
+  - prides
+- - day
+  - convince
+  - us
+- - who
+  - dwell
+  - therein
+- - london
+  - might
+  - well
+- - indeed
+  - too
+  - much
+- - picking
+  - up
+  - shells
+- - their
+  - grunting
+  - seriously
+- - run
+  - their
+  - race
+- - been
+  - lately
+  - added
+- - readers
+  - thousands
+  - who
+- - has
+  - seemed
+  - however
+- - who
+  - prides
+  - himself
+- - ferocious
+  - snouts
+  - will
+- - us
+  - who
+  - dwell
+- - before
+  - him
+  - lies
+- - hear
+  - enough
+  - if
+- - has
+  - its
+  - special
+- - so
+  - widely
+  - separated
+- - metropolis
+  - so
+  - innumerable
+- - are
+  - undiscovered
+  - patches
+- - topographical
+  - knowledge
+  - which
+- - shore
+  - while
+  - all
+- - archway
+  - while
+  - they
+- - black
+  - swine
+  - which
+- - people
+  - are
+  - born
 story:
   date: 2009-11-07
   id: 2009-11-07-in-the-slimy-feculence
@@ -87,4 +228,4 @@ story:
     \ In The Sewers Of Hampstead\_: Beneath The Surface Of Victorian Sensationalism\
     \ by Thomas Boyle (1989)"
   title: In The Slimy Feculence
-word_count: 502
+word_count: 501

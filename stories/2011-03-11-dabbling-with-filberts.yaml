@@ -2,9 +2,6 @@ ngrams:
 - - submerged
   - hazelnut
   - hedge
-- - late
-  - eighteenth-century
-  - including
 - - door
   - crashed
   - open
@@ -20,6 +17,21 @@ ngrams:
 - - your
   - dear
   - departed
+- - filberts
+  - imagine
+  - your
+- - imagine
+  - your
+  - distress
+- - consternation
+  - if
+  - awaiting
+- - distress
+  - if
+  - during
+- - read
+  - about
+  - these
 story:
   date: 2011-03-11
   id: 2011-03-11-dabbling-with-filberts
@@ -33,4 +45,4 @@ story:
     late eighteenth-century, including the discovery of a submerged hazelnut hedge,
     in my cupboard at The Dabbler this week.'
   title: Dabbling With Filberts
-word_count: 90
+word_count: 89

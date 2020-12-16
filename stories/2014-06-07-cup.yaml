@@ -1,16 +1,25 @@
 ngrams:
-- - foopball
-  - tournament
-  - preview
-- - euro
-  - foopball
-  - tournament
 - - commentators
   - startling
   - insights
 - - world
   - cup
   - preview
+- - exclusive
+  - world
+  - cup
+- - startling
+  - insights
+  - how
+- - insights
+  - how
+  - long
+- - cup
+  - preview
+  - which
+- - cup
+  - over
+  - at
 story:
   date: 2014-06-07
   id: 2014-06-07-cup

@@ -1,7 +1,4 @@
 ngrams:
-- - pipe-smoking
-  - cardigan-wearing
-  - weakling
 - - celebrity
   - flibbertigibbet
   - attic
@@ -23,27 +20,165 @@ ngrams:
 - - scrawny
   - television
   - producer
-- - ground-breaking
-  - television
-  - concept
 - - montenegrin
   - hunting
   - boots
-- - fledging
-  - television
-  - programme
-- - dozen
-  - well-known
-  - persons
-- - tundist
-  - owl
-  - library
+- - illegal
+  - butcher's
+  - shop
+- - dobson's
+  - spittle
+  - landed
+- - dobson's
+  - importunate
+  - grasp
 - - immediately
   - stop
   - filming
 - - skiffle
   - club
   - milk
+- - gather
+  - together
+  - roughly
+- - club
+  - milk
+  - bar
+- - called
+  - celebrity
+  - flibbertigibbet
+- - easily
+  - distracted
+  - further
+- - morning
+  - skiffle
+  - club
+- - allotted
+  - places
+  - set
+- - early
+  - morning
+  - skiffle
+- - weekly
+  - cranium
+  - rather
+- - butcher's
+  - shop
+  - nor
+- - further
+  - reading
+  - inadvisable
+- - pie
+  - shop
+  - nor
+- - distracted
+  - further
+  - reading
+- - owl
+  - library
+  - nor
+- - too
+  - easily
+  - distracted
+- - morning
+  - went
+  - downstairs
+- - filming
+  - these
+  - confounded
+- - cordon
+  - dobson
+  - identified
+- - security
+  - cordon
+  - dobson
+- - flibbertigibbet
+  - attic
+  - dobson
+- - point
+  - several
+  - swans
+- - these
+  - confounded
+  - swans
+- - most
+  - popular
+  - show
+- - stop
+  - filming
+  - these
+- - suggest
+  - continued
+  - dobson
+- - prescient
+  - man
+  - imagine
+- - titles
+  - like
+  - nunc
+- - far
+  - too
+  - easily
+- - contain
+  - titles
+  - like
+- - mud
+  - towards
+  - where
+- - cranium
+  - rather
+  - than
+- - rather
+  - than
+  - pap
+- - producer
+  - seized
+  - him
+- - utterly
+  - consumed
+  - him
+- - thumped
+  - back
+  - through
+- - very
+  - prescient
+  - man
+- - very
+  - prescient
+  - man
+- - places
+  - set
+  - upon
+- - weakling
+  - who
+  - crumpled
+- - some
+  - swans
+  - near
+- - their
+  - allotted
+  - places
+- - upon
+  - dobson
+  - whooping
+- - absolutely
+  - 'no'
+  - doubt
+- - attic
+  - dobson
+  - could
+- - several
+  - swans
+  - who
+- - documentary
+  - about
+  - swans
+- - set
+  - up
+  - cameras
+- - completely
+  - forgotten
+  - about
 story:
   date: 2007-03-13
   id: 2007-03-13-celebrity-flibbertigibbet-attic
@@ -84,4 +219,4 @@ story:
     \ He could be, as I said, a very prescient man, but he was far too easily distracted.\n\
     Further reading\_: inadvisable."
   title: Celebrity Flibbertigibbet Attic
-word_count: 491
+word_count: 487

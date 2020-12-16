@@ -2,24 +2,18 @@ ngrams:
 - - style
   - council
   - gig
-- - river
-  - idyll
-  - marred
 - - jam
   - song
   - deafening
-- - pig
-  - river
-  - idyll
 - - style
   - council
   - days
-- - old
-  - record
-  - player
 - - big
   - iron
   - key
+- - old
+  - record
+  - player
 - - never
   - gone
   - near
@@ -44,6 +38,45 @@ ngrams:
 - - paddling
   - splashing
   - about
+- - record
+  - player
+  - if
+- - player
+  - if
+  - truth
+- - ran
+  - outside
+  - into
+- - me
+  - paddling
+  - splashing
+- - pig
+  - beside
+  - me
+- - we
+  - ran
+  - outside
+- - riverbank
+  - where
+  - we
+- - sang
+  - tales
+  - from
+- - opposite
+  - bank
+  - at
+- - had
+  - never
+  - gone
+- - by
+  - paul
+  - weller
+- - marred
+  - by
+  - paul
+- - by
+  - paul
+  - weller
 story:
   date: 2010-05-27
   id: 2010-05-27-tales-from-the-riverbank

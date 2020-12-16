@@ -1,49 +1,97 @@
 ngrams:
-- - inartistic
-  - incoherent
-  - unquotably
-- - incoherent
-  - unquotably
-  - nasty
 - - dickens
   - et
   - cetera
-- - defies
-  - accurate
-  - transcription
 - - canon
   - jane
   - austen
+- - defies
+  - accurate
+  - transcription
 - - tackle
   - ulysses
   - casting
-- - guttural
-  - flemish
-  - expostulation
-- - clotted
-  - nonsense
-  - teachers
 - - eliot
   - dickens
   - et
+- - clotted
+  - nonsense
+  - teachers
 - - criminal
   - lunatic
   - asylum
-- - james
-  - joyce
-  - dat
-- - gogh
-  - james
-  - joyce
 - - sphere
   - james
   - joyce
 - - george
   - eliot
   - dickens
-- - vincent
+- - s
+  - george
+  - eliot
+- - joyce
+  - always
+  - pronounced
+- - james
+  - joyce
+  - always
+- - nonsense
+  - teachers
+  - world
+- - loathsome
+  - book
+  - issued
+- - name
+  - vincent
   - van
-  - gogh
+- - maddest
+  - muddiest
+  - most
+- - muddiest
+  - most
+  - loathsome
+- - two
+  - contemporary
+  - reviews
+- - late
+  - mother
+  - made
+- - few
+  - days
+  - late
+- - following
+  - addenda
+  - here
+- - most
+  - loathsome
+  - book
+- - et
+  - cetera
+  - she
+- - improve
+  - her
+  - english
+- - ways
+  - she
+  - chose
+- - cetera
+  - she
+  - eventually
+- - pages
+  - she
+  - declared
+- - she
+  - eventually
+  - decided
+- - belgium
+  - she
+  - came
+- - few
+  - pages
+  - she
+- - joyce's
+  - ulysses
+  - 'no'
 story:
   date: 2011-05-16
   id: 2011-05-16-oolississ
@@ -68,4 +116,4 @@ story:
     \ pronunciation in Flemish of the final part of the name Vincent Van Gogh\u2014\
     \u201CJames Joyce\u2014dat man is a fool!\u201D\n"
   title: Oolississ
-word_count: 252
+word_count: 250

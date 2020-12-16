@@ -1,49 +1,115 @@
 ngrams:
-- - westm
-  - gaz
-  - apr
-- - gaz
-  - apr
-  - sideshows
-- - mathematical
-  - bran-tub
-  - bran-pie
-- - parry
-  - mem
-  - vii
-- - colonist
-  - victoria
-  - brit
-- - victoria
-  - brit
-  - columbia
-- - second-rate
-  - presents
-  - gifts
-- - brit
-  - columbia
-  - july
 - - quote
   - ambrose
   - bierce
-- - e
-  - parry
-  - mem
 - - v
   - woolf
   - waves
-- - lit
-  - suppl
-  - apr
-- - article
-  - westm
-  - gaz
-- - oblong
-  - washing-tub
-  - filled
 - - pie
   - v
   - woolf
+- - bran
+  - pie
+  - v
+- - fig
+  - c
+  - parry
+- - articles
+  - peel
+  - city
+- - city
+  - guardian
+  - dec
+- - oxford
+  - english
+  - dictionary
+- - peel
+  - city
+  - guardian
+- - english
+  - dictionary
+  - definition
+- - blue
+  - ribbon
+  - girls
+- - guardian
+  - dec
+  - sometimes
+- - small
+  - articles
+  - peel
+- - christmas
+  - tree
+  - daily
+- - hidden
+  - small
+  - articles
+- - small
+  - gifts
+  - hidden
+- - also
+  - fig
+  - c
+- - unpacked
+  - each
+  - separate
+- - n
+  - also
+  - fig
+- - must
+  - dig
+  - furiously
+- - each
+  - separate
+  - article
+- - quite
+  - showy
+  - enough
+- - see
+  - leads
+  - directly
+- - family
+  - mag
+  - may
+- - dig
+  - furiously
+  - like
+- - can
+  - see
+  - leads
+- - dec
+  - sometimes
+  - what
+- - ribbon
+  - girls
+  - will
+- - were
+  - hidden
+  - small
+- - july
+  - all
+  - sorts
+- - oed
+  - can
+  - such
+- - quite
+  - reminded
+  - me
+- - talking
+  - about
+  - here
+- - can
+  - such
+  - things
+- - bran
+  - tub
+  - this
+- - am
+  - talking
+  - about
+- - tub
+  - this
+  - week
 story:
   date: 2011-08-19
   id: 2011-08-19-dabbling-in-a-bran-tub
@@ -72,4 +138,4 @@ story:
     \ neither bittybob (without a hyphen) nor bitty-bob (with a hyphen) is defined\
     \ in the OED. Can such things be?, to quote Ambrose Bierce."
   title: Dabbling In A Bran Tub
-word_count: 302
+word_count: 300

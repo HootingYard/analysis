@@ -5,9 +5,9 @@ ngrams:
 - - alfred
   - hitchcock
   - plump
-- - smallholding
-  - produce
-  - frankly
+- - george
+  - orwell's
+  - attitude
 - - orwellian
   - dabbling
   - devoted
@@ -16,7 +16,10 @@ ngrams:
   - george
 - - entitled
   - george
-  - orwell
+  - orwell's
+- - orwell's
+  - attitude
+  - towards
 - - mean
   - daily
   - daily
@@ -29,15 +32,30 @@ ngrams:
 - - perhaps
   - someone
   - else
-- - devoted
-  - hooting
-  - yardists
 - - two
   - titanic
   - figures
 - - dabbling
   - devoted
   - hooting
+- - towards
+  - eggs
+  - perhaps
+- - such
+  - wildly
+  - divergent
+- - someone
+  - else
+  - could
+- - else
+  - could
+  - take
+- - biographical
+  - research
+  - which
+- - an
+  - egg
+  - lover
 story:
   date: 2011-07-15
   id: 2011-07-15-orwellian-dabbling
@@ -54,4 +72,4 @@ story:
     \ would be necessary to write a monograph entitled George Orwell's Attitude Towards\
     \ Eggs. Perhaps someone else could take on that important task."
   title: Orwellian Dabbling
-word_count: 158
+word_count: 156

@@ -1,16 +1,4 @@
 ngrams:
-- - hermann
-  - gessler
-  - austrian
-- - gessler
-  - austrian
-  - vogt
-- - psychological
-  - commonplace
-  - goatherds
-- - quick-thinking
-  - son
-  - unlatched
 - - win
   - prize
   - monies
@@ -26,24 +14,159 @@ ngrams:
 - - chocolate
   - swiss
   - roll
-- - gobletful
-  - shortly
-  - afterwards
-- - entire
-  - gobletful
-  - shortly
 - - fruit
   - balanced
   - atop
-- - walter
-  - became
-  - low-spirited
 - - spell
   - walter
   - became
 - - books
   - coco
   - failed
+- - turmoil
+  - against
+  - harmless
+- - ancient
+  - books
+  - coco
+- - against
+  - harmless
+  - poultry
+- - inner
+  - turmoil
+  - against
+- - ancient
+  - books
+  - walter
+- - altdorf
+  - came
+  - riding
+- - explaining
+  - why
+  - walter
+- - books
+  - walter
+  - took
+- - apple
+  - 'off'
+  - walter's
+- - many
+  - crossbow
+  - tournaments
+- - entered
+  - many
+  - crossbow
+- - shrink
+  - walter's
+  - head
+- - ancient
+  - books
+  - though
+- - man
+  - named
+  - ruskin
+- - repute
+  - like
+  - caspar
+- - coco
+  - could
+  - afford
+- - still
+  - coursing
+  - through
+- - walter's
+  - neck
+  - could
+- - strengthened
+  - rather
+  - than
+- - 'off'
+  - walter's
+  - head
+- - hotelier
+  - who
+  - pioneered
+- - son
+  - walter
+  - has
+- - more
+  - ancient
+  - books
+- - who
+  - pioneered
+  - winter
+- - him
+  - carry
+  - pieces
+- - named
+  - ruskin
+  - who
+- - ruskin
+  - who
+  - says
+- - fled
+  - alongside
+  - their
+- - coco
+  - delved
+  - into
+- - must
+  - now
+  - go
+- - when
+  - threatened
+  - desperate
+- - violent
+  - when
+  - threatened
+- - make
+  - him
+  - carry
+- - delved
+  - into
+  - ancient
+- - goes
+  - some
+  - way
+- - into
+  - ancient
+  - books
+- - yelled
+  - kill
+  - they
+- - she
+  - could
+  - discover
+- - kill
+  - they
+  - immediately
+- - called
+  - me
+  - guglielmo
+- - monies
+  - so
+  - coco
+- - prize
+  - monies
+  - so
+- - know
+  - about
+  - switzerland
+- - hens
+  - towards
+  - which
+- - an
+  - effective
+  - spell
+- - discover
+  - an
+  - effective
+- - drank
+  - an
+  - entire
+- - italy
+  - where
+  - they
 story:
   date: 2010-02-13
   id: 2010-02-13-the-statement-of-william-tell
@@ -81,4 +204,4 @@ story:
     \ I know about Switzerland to a man named Ruskin, who says he is writing a book\
     \ about this fair country."
   title: The Statement Of William Tell
-word_count: 459
+word_count: 455

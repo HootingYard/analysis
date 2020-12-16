@@ -5,18 +5,6 @@ ngrams:
 - - hirsute
   - root
   - vegetables
-- - william
-  - gaddis
-  - superb
-- - tom
-  - wolfe
-  - paperback
-- - fat
-  - tom
-  - wolfe
-- - miss
-  - hathorn
-  - wouldn
 - - polish
   - tusk
   - news
@@ -32,15 +20,48 @@ ngrams:
 - - next
   - prime
   - minister
-- - peasant
-  - called
-  - hoouhmne
 - - party
   - why
-  - haven
-- - hathorn
-  - wouldn
-  - t
+  - haven't
+- - peasants
+  - party
+  - why
+- - here
+  - i'd
+  - vote
+- - party
+  - here
+  - i'd
+- - peasants
+  - party
+  - here
+- - american
+  - novel
+  - than
+- - well
+  - find
+  - incomprehensible
+- - donald
+  - tusk
+  - could
+- - tusk
+  - sound
+  - more
+- - prime
+  - minister
+  - who
+- - her
+  - own
+  - medal
+- - strike
+  - her
+  - own
+- - may
+  - well
+  - find
+- - sound
+  - more
+  - like
 story:
   date: 2007-10-22
   id: 2007-10-22-polish-tusk-news
@@ -57,4 +78,4 @@ story:
     \ who would award honours for the cultivation of Curiously Lumpen And Hirsute\
     \ Root Vegetables so that Miss Hathorn wouldn't have to strike her own medal."
   title: Polish Tusk News
-word_count: 174
+word_count: 170

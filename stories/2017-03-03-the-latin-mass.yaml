@@ -1,37 +1,19 @@
 ngrams:
-- - recalcitrant
-  - diehards
-  - notable
-- - colourfully
-  - embroidered
-  - raiment
 - - chairs
   - temporarily
   - aligned
 - - refrigerator
   - central
   - heating
-- - weekly
-  - repetition
-  - comfortingly
-- - star
-  - melvin
-  - gibson
 - - telephone
   - refrigerator
   - central
 - - dull
   - pinched
   - grey
-- - max
-  - star
-  - melvin
 - - deeply
   - deeply
   - serious
-- - repetition
-  - comfortingly
-  - familiar
 - - stopped
   - attending
   - mass
@@ -41,9 +23,207 @@ ngrams:
 - - catholic
   - church
   - mass
-- - various
-  - liberalising
-  - reforms
+- - main
+  - bar
+  - area
+- - numinous
+  - childhood
+  - experience
+- - mad
+  - max
+  - star
+- - latin
+  - mass
+  - although
+- - retrospect
+  - profound
+  - part
+- - remember
+  - albeit
+  - dimly
+- - nothing
+  - remotely
+  - swinging
+- - sunday
+  - mass
+  - thus
+- - estate
+  - thus
+  - passed
+- - faltering
+  - yet
+  - determined
+- - most
+  - paltry
+  - excitements
+- - religion
+  - how
+  - preposterous
+- - herded
+  - home
+  - around
+- - home
+  - comforts
+  - life
+- - man
+  - dressed
+  - improbably
+- - mass
+  - thus
+  - every
+- - those
+  - sunday
+  - mornings
+- - bar
+  - after
+  - mass
+- - something
+  - quite
+  - magical
+- - host
+  - our
+  - sunday
+- - our
+  - sunday
+  - mass
+- - own
+  - faltering
+  - yet
+- - council
+  - estate
+  - where
+- - thus
+  - every
+  - week
+- - those
+  - days
+  - intoning
+- - thus
+  - something
+  - quite
+- - yet
+  - determined
+  - way
+- - any
+  - circumstances
+  - indeed
+- - many
+  - years
+  - afterwards
+- - other
+  - home
+  - comforts
+- - gibson
+  - who
+  - cling
+- - bore
+  - 'no'
+  - relation
+- - 'no'
+  - catholic
+  - church
+- - beige
+  - time
+  - yet
+- - 'no'
+  - television
+  - telephone
+- - notable
+  - among
+  - them
+- - remotely
+  - swinging
+  - about
+- - towels
+  - were
+  - draped
+- - congregation
+  - when
+  - required
+- - attending
+  - mass
+  - when
+- - recall
+  - what
+  - served
+- - now
+  - look
+  - back
+- - passing
+  - strange
+  - about
+- - when
+  - pope
+  - john
+- - am
+  - old
+  - enough
+- - cannot
+  - recall
+  - what
+- - were
+  - herded
+  - home
+- - vernacular
+  - came
+  - about
+- - sunday
+  - mornings
+  - we
+- - mornings
+  - we
+  - gathered
+- - among
+  - them
+  - being
+- - priest
+  - would
+  - deliver
+- - has
+  - now
+  - dawned
+- - estate
+  - would
+  - host
+- - whalebone
+  - lane
+  - we
+- - voice
+  - responses
+  - would
+- - we
+  - heard
+  - elsewhere
+- - were
+  - many
+  - catholics
+- - about
+  - those
+  - sunday
+- - years
+  - afterwards
+  - if
+- - anything
+  - we
+  - heard
+- - lane
+  - we
+  - used
+- - strange
+  - about
+  - those
+- - world
+  - we
+  - inhabited
+- - were
+  - draped
+  - over
+- - circumstances
+  - indeed
+  - there
+- - priest
+  - too
+  - would
 story:
   date: 2017-03-03
   id: 2017-03-03-the-latin-mass
@@ -93,4 +273,4 @@ story:
     \ this numinous childhood experience by babbling, once a week, in Hooting Yard\
     \ On The Air on ResonanceFM."
   title: The Latin Mass
-word_count: 603
+word_count: 602

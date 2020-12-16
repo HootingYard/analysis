@@ -2,21 +2,30 @@ ngrams:
 - - caf
   - gallery
   - bermondsey
-- - november
-  - woolfson
-  - tay
 - - compositions
   - friday
   - november
-- - friday
-  - november
-  - woolfson
 - - gallery
   - bermondsey
   - square
-- - legendary
-  - outa
-  - spaceman
+- - spaceman
+  - singing
+  - selections
+- - london
+  - se
+  - un
+- - bermondsey
+  - square
+  - london
+- - square
+  - london
+  - se
+- - unmissable
+  - it's
+  - unmissable
+- - mere
+  - fiver
+  - bring
 story:
   date: 2011-10-03
   id: 2011-10-03-unmissable
@@ -28,4 +37,4 @@ story:
     \ and spread the word (to avert the exquisite horror of nobody actually turning\
     \ up\u2026)\nTo book your place, go here"
   title: Unmissable!
-word_count: 76
+word_count: 75

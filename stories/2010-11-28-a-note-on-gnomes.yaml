@@ -5,12 +5,6 @@ ngrams:
 - - hallucinatory
   - facial
   - expressions
-- - half-competent
-  - gnome
-  - tally
-- - pipe-cleaner
-  - gnomes
-  - jumping
 - - tally
   - ms
   - atkinson
@@ -20,17 +14,14 @@ ngrams:
 - - gnome
   - tally
   - ms
+- - kate
+  - atkinson's
+  - novel
 - - gnome
   - occupations
   - bl
 - - snack
   - preparation
-  - gnomes
-- - exhausted
-  - pipe-cleaner
-  - gnomes
-- - exhausted
-  - pipe-cleaner
   - gnomes
 - - disturbing
   - invisible
@@ -38,12 +29,117 @@ ngrams:
 - - creepy
   - invisible
   - gnomes
-- - tzmann
-  - reputation
-  - protection
 - - curiously
   - disturbing
   - invisible
+- - potting
+  - shed
+  - snack
+- - shed
+  - snack
+  - preparation
+- - atkinson's
+  - novel
+  - started
+- - common
+  - gnome
+  - occupations
+- - janitor
+  - gnomes
+  - directly
+- - novel
+  - started
+  - early
+- - overlooks
+  - others
+  - entirely
+- - terrible
+  - terrible
+  - bl
+- - doesn't
+  - bear
+  - thinking
+- - different
+  - varieties
+  - including
+- - others
+  - entirely
+  - consider
+- - pipes
+  - until
+  - nightfall
+- - clean
+  - pipes
+  - until
+- - until
+  - nightfall
+  - gnomes
+- - started
+  - early
+  - took
+- - busy
+  - little
+  - fellows
+- - begrudge
+  - these
+  - gnomes
+- - hardly
+  - begrudge
+  - these
+- - norwegian
+  - lager
+  - after
+- - knowledge
+  - these
+  - busy
+- - unleashes
+  - those
+  - terrible
+- - question
+  - unleashes
+  - those
+- - those
+  - terrible
+  - terrible
+- - any
+  - authoritative
+  - list
+- - these
+  - busy
+  - little
+- - can
+  - hardly
+  - begrudge
+- - ms
+  - atkinson
+  - has
+- - well
+  - being
+  - able
+- - although
+  - she
+  - does
+- - she
+  - does
+  - note
+- - wider
+  - world
+  - more
+- - world
+  - more
+  - successfully
+- - deliberately
+  - concealed
+  - their
+- - gnomes
+  - their
+  - pots
+- - concealed
+  - their
+  - existence
+- - their
+  - sharpened
+  - pins
 story:
   date: 2010-11-28
   id: 2010-11-28-a-note-on-gnomes
@@ -78,4 +174,4 @@ story:
     tzmann Reputation Protection gnomes, with their sharpened pins and hallucinatory\
     \ facial expressions."
   title: A Note On Gnomes
-word_count: 383
+word_count: 377

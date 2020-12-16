@@ -1,34 +1,19 @@
 ngrams:
-- - petiver
-  - buddle
-  - doody
-- - buddle
-  - doody
-  - withering
-- - doody
-  - withering
-  - rousseau
 - - relevant
   - quotes
-  - rousseau
-- - incongruously
-  - formal
-  - clothes
+  - rousseau's
+- - quotes
+  - rousseau's
+  - extreme
 - - sported
   - childish
   - jests
-- - elliston
-  - allen
-  - seeking
 - - holmesian
   - deductive
   - skills
 - - allen
   - seeking
   - enlightenment
-- - dick
-  - biscuit
-  - mcgillivray
 - - entry
   - buckland
   - concealed
@@ -38,12 +23,93 @@ ngrams:
 - - philip
   - henry
   - gosse
-- - huttonian
-  - theory
-  - buckland
 - - buckland
   - robert
   - dick
+- - formal
+  - clothes
+  - robert
+- - withering
+  - rousseau's
+  - wife
+- - jamaica
+  - e
+  - delivered
+- - journey
+  - philip
+  - gosse
+- - puns
+  - devised
+  - peculiar
+- - devised
+  - peculiar
+  - contraptions
+- - clothes
+  - robert
+  - dick
+- - philip
+  - gosse
+  - diary
+- - buckland
+  - concealed
+  - hammer
+- - robert
+  - dick
+  - biscuit
+- - diary
+  - entry
+  - buckland
+- - gosse
+  - diary
+  - entry
+- - theory
+  - buckland
+  - robert
+- - received
+  - green
+  - swallow
+- - henry
+  - gosse
+  - became
+- - diary
+  - received
+  - green
+- - peculiar
+  - contraptions
+  - went
+- - mysterious
+  - blue
+  - bag
+- - interest
+  - others
+  - however
+- - nature
+  - notes
+  - another
+- - field
+  - wearing
+  - quite
+- - oddly
+  - truncated
+  - man
+- - many
+  - ways
+  - buckland
+- - similar
+  - fashion
+  - never
+- - only
+  - sustenance
+  - philip
+- - notes
+  - another
+  - thing
+- - fashion
+  - never
+  - knew
+- - very
+  - curious
+  - person
 story:
   date: 2010-08-30
   id: 2010-08-30-nature-notes
@@ -73,4 +139,4 @@ story:
     \ remarkable entry in his diary: \u2018Received green swallow from Jamaica. E\
     \ delivered of a son.'\u201D"
   title: Nature Notes
-word_count: 304
+word_count: 301

@@ -1,7 +1,4 @@
 ngrams:
-- - er
-  - mount
-  - ararat
 - - august
   - bank
   - holiday
@@ -14,18 +11,33 @@ ngrams:
 - - floating
   - zoo
   - oh
-- - aerostat
-  - hovering
-  - o
-- - o
-  - er
-  - mount
-- - hovering
-  - o
-  - er
-- - m
+- - got
+  - befuddled
+  - i'm
+- - noah
+  - i'm
   - key
-  - empuddled
+- - zoo
+  - oh
+  - look
+- - outside
+  - too
+  - upon
+- - brolly
+  - between
+  - them
+- - them
+  - before
+  - nightfall
+- - grows
+  - dark
+  - we
+- - between
+  - them
+  - before
+- - drown
+  - all
+  - life
 story:
   date: 2014-08-25
   id: 2014-08-25-thoughts-on-a-characteristically-english-august-bank-holiday
@@ -38,4 +50,4 @@ story:
     \ Key, empuddled\n  The rain it raineth in my brain\n  The rain it raineth, come\
     \ rain or rain"
   title: Thoughts On A Characteristically English August Bank Holiday
-word_count: 117
+word_count: 111

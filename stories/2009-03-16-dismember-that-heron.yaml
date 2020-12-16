@@ -1,31 +1,16 @@
 ngrams:
-- - deer
-  - lesche
-  - leach
-- - heron
-  - carving
-  - wynkyn
-- - hen
-  - frusche
-  - fruss
-- - wynkyn
-  - de
-  - worde
-- - carving
-  - wynkyn
-  - de
-- - de
-  - worde
-  - printed
+- - e
+  - s
+  - dallas
+- - s
+  - dallas
+  - london
 - - small
   - birds
   - timber
 - - manner
   - small
   - birds
-- - here
-  - followeth
-  - break
 - - lobster
   - here
   - endeth
@@ -41,9 +26,51 @@ ngrams:
 - - words
   - are
   - curious
-- - carving
-  - from
-  - kettner
+- - corrupted
+  - by
+  - process
+- - table
+  - by
+  - e
+- - by
+  - e
+  - s
+- - have
+  - been
+  - corrupted
+- - throw
+  - light
+  - 'on'
+- - been
+  - corrupted
+  - by
+- - dishes
+  - which
+  - have
+- - but
+  - not
+  - otherwise
+- - meaning
+  - is
+  - quite
+- - is
+  - quite
+  - plain
+- - which
+  - have
+  - been
+- - unlace
+  - that
+  - coney
+- - that
+  - coney
+  - dismember
+- - coney
+  - dismember
+  - that
+- - that
+  - tench
+  - splay
 story:
   date: 2009-03-16
   id: 2009-03-16-dismember-that-heron
@@ -65,4 +92,4 @@ story:
     tame that crab\u2014barb that lobster. Here endeth the goodly terms of Carving.\u201D\
     \nFrom Kettner's Book Of The Table by E S Dallas (London, 1877)"
   title: Dismember That Heron
-word_count: 199
+word_count: 198

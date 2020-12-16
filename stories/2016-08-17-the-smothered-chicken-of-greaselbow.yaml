@@ -1,10 +1,4 @@
 ngrams:
-- - dongelbraacke
-  - vicar
-  - prebendary
-- - id
-  - est
-  - poultry
 - - details
   - seldom
   - vary
@@ -14,24 +8,12 @@ ngrams:
 - - pillow
   - vanished
   - replaced
-- - reverend
-  - joost
-  - van
-- - joost
-  - van
-  - dongelbraacke
 - - frank
   - reply
   - acknowledging
-- - eggs
-  - id
-  - est
-- - van
-  - dongelbraacke
-  - vicar
-- - eating
-  - eggs
-  - oi
+- - reverend
+  - joost
+  - van
 - - someone
   - eating
   - eggs
@@ -44,6 +26,102 @@ ngrams:
 - - oh
   - lord
   - save
+- - lord
+  - save
+  - us
+- - poultry
+  - even
+  - keen
+- - its
+  - pillow
+  - lifting
+- - shell
+  - then
+  - closes
+- - those
+  - eggs
+  - come
+- - lump
+  - under
+  - its
+- - under
+  - its
+  - pillow
+- - has
+  - expired
+  - due
+- - then
+  - closes
+  - around
+- - child
+  - picks
+  - up
+- - their
+  - eggs
+  - id
+- - did
+  - those
+  - eggs
+- - who
+  - rarely
+  - let
+- - who
+  - don't
+  - give
+- - shout
+  - where
+  - did
+- - fig
+  - about
+  - poultry
+- - hurtles
+  - heavenward
+  - when
+- - people
+  - who
+  - don't
+- - child
+  - climbs
+  - into
+- - windy
+  - night
+  - when
+- - where
+  - did
+  - those
+- - about
+  - poultry
+  - even
+- - an
+  - unusual
+  - lump
+- - senses
+  - an
+  - unusual
+- - scoffing
+  - an
+  - egg
+- - cot
+  - one
+  - wild
+- - might
+  - counter
+  - there
+- - always
+  - an
+  - orphan
+- - without
+  - scoffing
+  - an
+- - has
+  - been
+  - told
+- - child
+  - usually
+  - but
+- - which
+  - has
+  - expired
 story:
   date: 2016-08-17
   id: 2016-08-17-the-smothered-chicken-of-greaselbow
@@ -72,4 +150,4 @@ story:
     That was a Thought For The Day by the Reverend Joost Van Dongelbraacke, vicar\
     \ prebendary of St Bibblybibdib's."
   title: The Smothered Chicken Of Greaselbow
-word_count: 337
+word_count: 335

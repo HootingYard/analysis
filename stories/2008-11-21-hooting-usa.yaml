@@ -1,13 +1,4 @@
 ngrams:
-- - suggestion
-  - http
-  - tinyurl
-- - tinyurl
-  - com
-  - avg
-- - http
-  - tinyurl
-  - com
 - - mere
   - suggestion
   - http
@@ -23,6 +14,27 @@ ngrams:
 - - magnetic
   - mute
   - blind
+- - mute
+  - blind
+  - love
+- - unspeakable
+  - desolation
+  - story
+- - blind
+  - love
+  - monkeys
+- - words
+  - magnetic
+  - mute
+- - case
+  - it's
+  - overlooked
+- - desolation
+  - story
+  - read
+- - piece
+  - below
+  - here
 story:
   date: 2008-11-21
   id: 2008-11-21-hooting-usa
@@ -36,4 +48,4 @@ story:
     \ particularly the way he intones the words \u201Cmagnetic \u2026 mute \u2026\
     \ blind \u2026 love monkeys\u201D.\_"
   title: Hooting USA
-word_count: 105
+word_count: 103

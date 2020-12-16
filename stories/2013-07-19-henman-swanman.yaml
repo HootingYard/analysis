@@ -2,39 +2,21 @@ ngrams:
 - - wimbledon
   - tennis
   - championships
-- - henman
-  - swanman
-  - newspaper
 - - bbc
   - cameras
   - drifted
-- - fellow-commentator
-  - tim
-  - henman
-- - creatures
-  - whereupon
-  - fellow-commentator
 - - aggressive
   - creatures
   - whereupon
-- - whereupon
-  - fellow-commentator
-  - tim
-- - swanman
-  - newspaper
-  - reports
-- - hen-man
-  - swan
-  - upping
 - - annual
   - swan
   - upping
+- - met
+  - anybody
+  - who's
 - - henman
   - whose
   - surname
-- - amusing
-  - swan-related
-  - matter
 - - whose
   - surname
   - suggests
@@ -44,6 +26,54 @@ ngrams:
 - - breaks
   - between
   - sets
+- - sunbathers
+  - sprawled
+  - also
+- - someone
+  - always
+  - points
+- - swan
+  - someone
+  - always
+- - sprawled
+  - also
+  - present
+- - game
+  - exactly
+  - though
+- - cameras
+  - drifted
+  - 'off'
+- - ever
+  - met
+  - anybody
+- - cameras
+  - then
+  - returned
+- - belying
+  - their
+  - elegance
+- - tot
+  - who
+  - looked
+- - their
+  - arm
+  - broken
+- - breaking
+  - your
+  - arm
+- - tiny
+  - tot
+  - who
+- - thames
+  - reminded
+  - me
+- - least
+  - about
+  - poultry
+- - always
+  - points
+  - out
 story:
   date: 2013-07-19
   id: 2013-07-19-henman-swanman
@@ -64,4 +94,4 @@ story:
     \ not treated to any further swan-talk from Hen-man.\n\nSwan upping in the last\
     \ century"
   title: Henman, Swanman
-word_count: 209
+word_count: 206

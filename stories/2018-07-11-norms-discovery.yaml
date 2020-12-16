@@ -8,6 +8,12 @@ ngrams:
 - - great
   - norm
   - sherman
+- - discovery
+  - there
+  - seem
+- - important
+  - discovery
+  - there
 story:
   date: 2018-07-11
   id: 2018-07-11-norms-discovery
@@ -15,4 +21,4 @@ story:
     \ important discovery \u2026\n\n\n\n\n\nThere seem to be plenty of copies available\
     \ on eBay \u2026"
   title: Norm's Discovery
-word_count: 27
+word_count: 26

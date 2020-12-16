@@ -5,12 +5,6 @@ ngrams:
 - - otter
   - sanctuary
   - dismissing
-- - critic
-  - gervase
-  - cravat
-- - wild-eyed
-  - auteur
-  - horst
 - - imminent
   - cinema
   - release
@@ -20,9 +14,6 @@ ngrams:
 - - watching
   - repeat
   - screenings
-- - auteur
-  - horst
-  - gack
 - - sordid
   - rustic
   - backwater
@@ -32,18 +23,171 @@ ngrams:
 - - greatest
   - practitioner
   - unlike
-- - dun-hued
-  - mud
-  - effigy
 - - dance
   - band
   - tunes
 - - fiery
   - explosions
   - mud
+- - practitioner
+  - unlike
+  - film
+- - unlike
+  - film
+  - noir
+- - big
+  - loud
+  - fiery
+- - gripping
+  - experience
+  - wrote
+- - film
+  - digest
+  - magazine
+- - between
+  - watching
+  - repeat
+- - sequel
+  - further
+  - mud
+- - boy
+  - oh
+  - boy
+- - issue
+  - last
+  - month
+- - better
+  - subject
+  - matter
+- - having
+  - seen
+  - horst
+- - oh
+  - boy
+  - let
+- - prostrate
+  - myself
+  - several
+- - course
+  - invented
+  - film
+- - brand
+  - new
+  - film
+- - several
+  - hours
+  - later
+- - home
+  - several
+  - hours
+- - got
+  - home
+  - several
+- - myself
+  - several
+  - times
+- - after
+  - watching
+  - mud
+- - three
+  - score
+  - years
+- - only
+  - proper
+  - approach
+- - never
+  - seen
+  - horst
+- - band
+  - tunes
+  - did
+- - its
+  - greatest
+  - practitioner
+- - its
+  - sequel
+  - further
+- - fault
+  - rather
+  - than
+- - than
+  - mud
+  - thus
+- - whistling
+  - some
+  - dance
+- - certain
+  - humility
+  - then
+- - some
+  - dance
+  - band
+- - every
+  - day
+  - since
+- - same
+  - old
+  - way
+- - same
+  - way
+  - ever
+- - same
+  - way
+  - ever
+- - done
+  - every
+  - day
+- - day
+  - after
+  - watching
+- - way
+  - ever
+  - again
+- - way
+  - ever
+  - again
 - - mud
-  - wholly
-  - dun
+  - just
+  - like
+- - 'no'
+  - better
+  - subject
+- - neck
+  - forgot
+  - about
+- - next
+  - day
+  - after
+- - very
+  - next
+  - day
+- - rustic
+  - backwater
+  - when
+- - indeed
+  - been
+  - looking
+- - am
+  - like
+  - unto
+- - thought
+  - popped
+  - into
+- - highly
+  - disconcerting
+  - so
+- - head
+  - gosh
+  - what
+- - boy
+  - let
+  - me
+- - would
+  - prostrate
+  - myself
+- - let
+  - me
+  - tell
 story:
   date: 2013-05-10
   id: 2013-05-10-mud
@@ -84,4 +228,4 @@ story:
     \ of Mud. This I have done, every day since, and boy oh boy, let me tell you,\
     \ filmgoers, I am like unto a man transformed."
   title: Mud
-word_count: 512
+word_count: 507

@@ -1,16 +1,25 @@
 ngrams:
+- - yesterday's
+  - show
+  - includes
+- - home
+  - yesterday's
+  - show
+- - each
+  - week's
+  - episode
 - - broadcast
   - delve
   - through
 - - come
   - home
-  - yesterday
-- - cows
-  - come
-  - home
+  - yesterday's
 - - mr
   - key
   - babbling
+- - cows
+  - come
+  - home
 - - been
   - broadcast
   - delve
@@ -20,6 +29,9 @@ ngrams:
 - - key
   - babbling
   - into
+- - today's
+  - dabbler
+  - so
 story:
   date: 2016-01-08
   id: 2016-01-08-on-the-air-and-in-the-dabbler
@@ -30,4 +42,4 @@ story:
     69th birthday, and the text appears in today's Dabbler, so if you wish you can
     read and listen at the same time.
   title: On the Air And In The Dabbler
-word_count: 92
+word_count: 89

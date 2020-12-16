@@ -8,12 +8,12 @@ ngrams:
 - - surprisingly
   - knocked
   - venus
-- - office
-  - mural
-  - painted
 - - wimbledon
   - yesterday
   - hails
+- - office
+  - mural
+  - painted
 - - plovdiv
   - central
   - post
@@ -23,6 +23,21 @@ ngrams:
 - - central
   - post
   - office
+- - plovdiv
+  - fivesome
+  - perhaps
+- - rarely
+  - take
+  - note
+- - fivesome
+  - perhaps
+  - too
+- - owes
+  - her
+  - success
+- - hooting
+  - yard
+  - imprimatur
 story:
   date: 2010-06-30
   id: 2010-06-30-from-plovdiv
@@ -35,4 +50,4 @@ story:
     his pal Ulf in Old Plovdiv. I like to think she owes her success to these things,
     which have been given the all-important Hooting Yard imprimatur.
   title: From Plovdiv
-word_count: 107
+word_count: 106

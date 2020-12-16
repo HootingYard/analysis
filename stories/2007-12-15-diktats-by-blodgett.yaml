@@ -1,4 +1,7 @@
 ngrams:
+- - conrad's
+  - novella
+  - francis
 - - husbandry
   - crop
   - rotation
@@ -8,9 +11,6 @@ ngrams:
 - - fists
   - velveteen
   - cummerbund
-- - francis
-  - ford
-  - coppola
 - - planets
   - celestial
   - bodies
@@ -23,9 +23,6 @@ ngrams:
 - - celestial
   - bodies
   - tend
-- - marlon
-  - brando
-  - anyway
 - - hairy
   - fists
   - velveteen
@@ -44,6 +41,168 @@ ngrams:
 - - late
   - anthony
   - burgess
+- - fictional
+  - alter
+  - ego
+- - library
+  - dutifully
+  - paid
+- - rotation
+  - rural
+  - post
+- - fictional
+  - maniac
+  - reborn
+- - rural
+  - post
+  - office
+- - post
+  - office
+  - opening
+- - initial
+  - common
+  - sense
+- - office
+  - opening
+  - hours
+- - heroic
+  - infant
+  - tiny
+- - infant
+  - tiny
+  - enid
+- - great
+  - hairy
+  - fists
+- - order
+  - having
+  - resolved
+- - common
+  - sense
+  - soon
+- - sneakily
+  - looking
+  - things
+- - sense
+  - soon
+  - gave
+- - blodgett
+  - blodgett
+  - went
+- - booming
+  - voice
+  - great
+- - voice
+  - great
+  - hairy
+- - countryside
+  - subsistence
+  - how
+- - lofty
+  - indifference
+  - first
+- - indifference
+  - first
+  - baffled
+- - diktats
+  - became
+  - ever
+- - subsistence
+  - how
+  - blodgett
+- - first
+  - baffled
+  - blodgett
+- - chose
+  - another
+  - book
+- - denying
+  - such
+  - subterfuge
+- - how
+  - blodgett
+  - knew
+- - soon
+  - gave
+  - way
+- - casting
+  - apocalypse
+  - now
+- - book
+  - next
+  - week
+- - another
+  - book
+  - next
+- - very
+  - own
+  - heart
+- - burgess
+  - rather
+  - than
+- - then
+  - returned
+  - heart
+- - such
+  - subterfuge
+  - perhaps
+- - polymath
+  - rather
+  - like
+- - same
+  - man
+  - again
+- - much
+  - snuffling
+  - where
+- - their
+  - lofty
+  - indifference
+- - enid
+  - who
+  - arrived
+- - way
+  - back
+  - across
+- - ever
+  - more
+  - ludicrous
+- - tiny
+  - enid
+  - who
+- - became
+  - ever
+  - more
+- - diktats
+  - were
+  - surprisingly
+- - muster
+  - when
+  - denying
+- - when
+  - casting
+  - apocalypse
+- - were
+  - surprisingly
+  - sensible
+- - very
+  - next
+  - day
+- - into
+  - line
+  - impressed
+- - passed
+  - muster
+  - when
+- - rapidly
+  - fell
+  - into
+- - fell
+  - into
+  - line
+- - looking
+  - things
+  - up
 story:
   date: 2007-12-15
   id: 2007-12-15-diktats-by-blodgett
@@ -94,4 +253,4 @@ story:
     Scarlet Letter by Nathaniel Hawthorne, and convincing himself he was the reincarnation,
     not of Mister Kurtz, but of Hester Prynne.'
   title: Diktats By Blodgett
-word_count: 550
+word_count: 546

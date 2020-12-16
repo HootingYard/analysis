@@ -5,12 +5,21 @@ ngrams:
 - - public
   - domain
   - review
-- - must
-  - shirley
-  - hibberd
-- - well-cut
-  - peacock
+- - peacock
   - may
+  - take
+- - neither
+  - kick
+  - him
+- - him
+  - nor
+  - abuse
+- - nor
+  - abuse
+  - him
+- - kick
+  - him
+  - nor
 story:
   date: 2011-08-05
   id: 2011-08-05-topiary

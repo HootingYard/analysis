@@ -1,13 +1,19 @@
 ngrams:
-- - sharper
+- - boxer
+  - dandy
+  - fl
+- - card
+  - sharper
   - lumberjack
-  - bricoleur
-- - chauffeur
-  - fabian
-  - avenarius
-- - fl
-  - neur
-  - forger
+- - professor
+  - boxer
+  - dandy
+- - forger
+  - critic
+  - sailor
+- - thief
+  - editor
+  - chauffeur
 story:
   date: 2012-06-10
   id: 2012-06-10-poet-professor-boxer-dandy-flaneur-forger-critic-sailor-prospector-card-sharper-lumberjack-bricoleur-thief-editor-chauffeur

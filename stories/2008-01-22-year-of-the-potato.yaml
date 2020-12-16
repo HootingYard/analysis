@@ -1,13 +1,4 @@
 ngrams:
-- - pink
-  - fir
-  - apples
-- - belle
-  - de
-  - fontenays
-- - potato-related
-  - activities
-  - hooting
 - - activities
   - hooting
   - yard
@@ -32,6 +23,33 @@ ngrams:
 - - mentioned
   - this
   - earlier
+- - energy
+  - this
+  - year
+- - premieres
+  - or
+  - rockets
+- - apples
+  - or
+  - premieres
+- - javelins
+  - or
+  - pink
+- - wonders
+  - or
+  - harmonies
+- - or
+  - golden
+  - wonders
+- - golden
+  - wonders
+  - or
+- - or
+  - belle
+  - de
+- - pinks
+  - or
+  - king
 story:
   date: 2008-01-22
   id: 2008-01-22-year-of-the-potato
@@ -46,4 +64,4 @@ story:
     Hooting Yard will be getting into the groove with a series of potato-postings
     as the months go by, so keep your eyes peeled.
   title: Year Of The Potato
-word_count: 140
+word_count: 139

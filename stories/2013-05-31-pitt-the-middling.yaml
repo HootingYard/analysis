@@ -1,7 +1,4 @@
 ngrams:
-- - not-pitts
-  - contemporaries
-  - coevals
 - - middling
   - pitt
   - middling
@@ -17,9 +14,6 @@ ngrams:
 - - casting
   - further
   - afield
-- - not-pitts
-  - whose
-  - lives
 - - presence
   - however
   - vivid
@@ -41,9 +35,57 @@ ngrams:
 - - never
   - really
   - die
-- - many
-  - not-pitts
-  - whose
+- - life
+  - vampire
+  - too
+- - any
+  - existing
+  - biography
+- - judiciously
+  - constructed
+  - such
+- - never
+  - having
+  - really
+- - neglected
+  - him
+  - presumably
+- - middling
+  - history
+  - has
+- - history
+  - has
+  - neglected
+- - book
+  - might
+  - tell
+- - then
+  - still
+  - pitt
+- - might
+  - tell
+  - us
+- - him
+  - presumably
+  - because
+- - than
+  - any
+  - existing
+- - street
+  - tip
+  - your
+- - earth
+  - then
+  - still
+- - tip
+  - your
+  - hat
+- - frankenstein's
+  - monster
+  - into
+- - tell
+  - us
+  - more
 story:
   date: 2013-05-31
   id: 2013-05-31-pitt-the-middling
@@ -68,4 +110,4 @@ story:
     still, Pitt the Middling. If you glimpse his shadow, prancing down the street,
     tip your hat to him, toss him a coin. He deserves that much.'
   title: Pitt The Middling
-word_count: 237
+word_count: 236

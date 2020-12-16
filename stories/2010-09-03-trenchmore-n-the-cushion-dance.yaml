@@ -1,16 +1,4 @@
 ngrams:
-- - omnium
-  - gatherum
-  - tolly
-- - gatherum
-  - tolly
-  - polly
-- - tolly
-  - polly
-  - hoyte
-- - selden
-  - apropos
-  - brit
 - - dance
   - omnium
   - gatherum
@@ -23,9 +11,33 @@ ngrams:
 - - john
   - selden
   - apropos
-- - john
-  - evelyn
-  - complained
+- - england
+  - whose
+  - prodigious
+- - assail
+  - us
+  - addendum
+- - words
+  - clearly
+  - things
+- - other
+  - civilized
+  - nations
+- - yet
+  - assail
+  - us
+- - k
+  - charles
+  - time
+- - king
+  - james
+  - time
+- - james
+  - time
+  - things
+- - what
+  - fresh
+  - hell
 story:
   date: 2010-09-03
   id: 2010-09-03-trenchmore-n-the-cushion-dance
@@ -40,4 +52,4 @@ story:
     \ unheard of extravagancies far surpasse the madnesse of all other civilized Nations\
     \ whatsoever\u201D."
   title: Trenchmore & The Cushion Dance
-word_count: 112
+word_count: 111

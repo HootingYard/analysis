@@ -1,7 +1,4 @@
 ngrams:
-- - git
-  - punches
-  - crusty
 - - clue
   - reads
   - incidents
@@ -17,15 +14,33 @@ ngrams:
 - - reads
   - incidents
   - where
-- - where
-  - git
-  - punches
-- - incidents
-  - where
-  - git
+- - other
+  - newspapers
+  - today
 - - things
   - behind
   - back
+- - can
+  - look
+  - forward
+- - lot
+  - can
+  - look
+- - been
+  - particularly
+  - impressed
+- - occasional
+  - forays
+  - into
+- - forays
+  - into
+  - those
+- - an
+  - aide
+  - memoire
+- - readers
+  - will
+  - know
 story:
   date: 2015-05-01
   id: 2015-05-01-incidents-in-the-life-of-a-git

@@ -23,15 +23,33 @@ ngrams:
 - - enter
   - vladimir
   - estragon
-- - invoke
-  - sumai
-  - enter
 - - vladimir
   - estragon
   - giving
 - - exhausted
   - rests
   - tries
+- - stiff
+  - strides
+  - legs
+- - strides
+  - legs
+  - wide
+- - band
+  - orchestra
+  - crooners
+- - short
+  - stiff
+  - strides
+- - everything
+  - estragon
+  - interrupting
+- - legs
+  - wide
+  - apart
+- - wide
+  - apart
+  - i'm
 story:
   date: 2014-10-06
   id: 2014-10-06-invoking-sumai-2
@@ -47,4 +65,4 @@ story:
     \ clowns, etc, who proceed to put on some tiptop variety entertainment for the\
     \ next two hours.\nCurtain"
   title: Invoking Sumai (2)
-word_count: 139
+word_count: 136

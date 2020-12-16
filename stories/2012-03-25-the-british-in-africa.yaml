@@ -1,19 +1,7 @@
 ngrams:
-- - sidi
-  - el
-  - muktar
 - - dreadful
   - malady
   - somewhat
-- - backbone
-  - five
-  - sabre
-- - five
-  - sabre
-  - cuts
-- - five
-  - sabre
-  - cuts
 - - malady
   - somewhat
   - similar
@@ -26,15 +14,6 @@ ngrams:
 - - important
   - geographical
   - information
-- - shall
-  - gordon
-  - laing
-- - hand
-  - cut
-  - three-fourths
-- - cut
-  - three-fourths
-  - across
 - - spent
   - nine
   - days
@@ -44,6 +23,96 @@ ngrams:
 - - nevertheless
   - doing
   - well
+- - very
+  - unsightly
+  - wound
+- - back
+  - slightly
+  - grazing
+- - bones
+  - cut
+  - through
+- - much
+  - important
+  - geographical
+- - ever
+  - shall
+  - gordon
+- - should
+  - die
+  - while
+- - through
+  - three
+  - cuts
+- - cut
+  - through
+  - three
+- - possessed
+  - any
+  - nor
+- - hand
+  - now
+  - healed
+- - nor
+  - ever
+  - shall
+- - am
+  - nevertheless
+  - doing
+- - left
+  - hand
+  - now
+- - never
+  - possessed
+  - any
+- - any
+  - nor
+  - ever
+- - healed
+  - up
+  - almost
+- - bone
+  - has
+  - come
+- - much
+  - bone
+  - has
+- - temple
+  - all
+  - fractures
+- - made
+  - its
+  - way
+- - its
+  - way
+  - through
+- - left
+  - temple
+  - all
+- - has
+  - come
+  - away
+- - cheek
+  - which
+  - fractured
+- - which
+  - slightly
+  - grazed
+- - now
+  - healed
+  - up
+- - neck
+  - which
+  - slightly
+- - left
+  - cheek
+  - which
+- - days
+  - so
+  - ill
+- - nine
+  - days
+  - so
 story:
   date: 2012-03-25
   id: 2012-03-25-the-british-in-africa
@@ -70,4 +139,4 @@ story:
     \ his sister, \u201C\u2018Tis true, I never possessed any, nor ever shall.\u201D\
     \nGordon Laing in Africa in 1825, from Barrow's Boys by Fergus Fleming (1998)"
   title: The British In Africa
-word_count: 309
+word_count: 308

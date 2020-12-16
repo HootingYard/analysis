@@ -1,22 +1,7 @@
 ngrams:
-- - krzysztof
-  - kie
-  - lowski
 - - sunflower
   - buttercup
   - secondly
-- - unashamedly
-  - populist
-  - entertainment
-- - chim-chim-cheroo
-  - singer
-  - receives
-- - veteran
-  - chim-chim-cheroo
-  - singer
-- - kie
-  - lowski
-  - films
 - - fourth
   - bungled
   - heist
@@ -44,6 +29,126 @@ ngrams:
 - - dick
   - van
   - dyke
+- - corner
+  - urchins
+  - anyway
+- - otter
+  - correspondence
+  - dear
+- - street
+  - corner
+  - urchins
+- - bodies
+  - dear
+  - ms
+- - dear
+  - ms
+  - funnel
+- - named
+  - dick
+  - van
+- - sherlock
+  - holmes
+  - story
+- - box
+  - office
+  - hit
+- - laundry
+  - basket
+  - full
+- - called
+  - sunflower
+  - buttercup
+- - tod
+  - baxter's
+  - three
+- - killer
+  - called
+  - sunflower
+- - unforgivable
+  - crimes
+  - always
+- - write
+  - foolish
+  - letters
+- - serial
+  - killer
+  - called
+- - key
+  - writes
+  - olivia
+- - olivia
+  - funnel
+  - perhaps
+- - tree
+  - spirits
+  - does
+- - every
+  - dvd
+  - sold
+- - buttercup
+  - secondly
+  - while
+- - great
+  - dick
+  - van
+- - crimes
+  - always
+  - remember
+- - funnel
+  - replies
+  - mr
+- - correspondence
+  - dear
+  - mr
+- - half
+  - way
+  - literate
+- - replies
+  - mr
+  - key
+- - communes
+  - lack
+  - any
+- - lack
+  - any
+  - instinct
+- - mr
+  - key
+  - writes
+- - sold
+  - even
+  - pirated
+- - dvd
+  - sold
+  - even
+- - populist
+  - entertainment
+  - such
+- - dear
+  - mr
+  - key
+- - even
+  - pirated
+  - ones
+- - crime
+  - just
+  - because
+- - criminal
+  - enterprise
+  - could
+- - laundry
+  - basket
+  - could
+- - basket
+  - could
+  - prove
+- - fact
+  - after
+  - reading
+- - man
+  - after
+  - whom
 story:
   date: 2009-08-09
   id: 2009-08-09-otter-correspondence
@@ -78,4 +183,4 @@ story:
     \ plan was for the fourth bungled heist, and would not need to write foolish letters\
     \ to Hooting Yard."
   title: Otter Correspondence
-word_count: 409
+word_count: 406

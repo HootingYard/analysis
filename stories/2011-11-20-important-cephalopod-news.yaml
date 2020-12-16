@@ -2,15 +2,24 @@ ngrams:
 - - porpoises
   - rescue
   - dick
-- - giant
-  - prehistoric
-  - krakens
-- - pesky
+- - dick
+  - van
+  - dyke
+- - rescue
+  - dick
+  - van
+- - important
+  - cephalopod
+  - news
+- - cephalopod
+  - news
+  - many
+- - those
+  - pesky
   - giant
-  - krakens
-- - sculpted
-  - self-portraits
-  - using
+- - news
+  - many
+  - thanks
 story:
   date: 2011-11-20
   id: 2011-11-20-important-cephalopod-news
@@ -24,4 +33,4 @@ story:
 
     '
   title: Important Cephalopod News
-word_count: 57
+word_count: 56

@@ -1,10 +1,4 @@
 ngrams:
-- - severely-limited
-  - edition
-  - cassette
-- - mentioned
-  - biff
-  - chomsky
 - - sentimental
   - ballads
   - entitled
@@ -23,6 +17,24 @@ ngrams:
 - - those
   - drowned
   - kittens
+- - god
+  - knows
+  - how
+- - knows
+  - how
+  - many
+- - how
+  - many
+  - years
+- - will
+  - understand
+  - why
+- - one
+  - lonely
+  - night
+- - lonely
+  - night
+  - this
 story:
   date: 2017-01-31
   id: 2017-01-31-those-drowned-kittens
@@ -35,4 +47,4 @@ story:
     \ have a listen to Mike's death-wish songand you will understand why I was struck\
     \ by a spooky sense of connection to the past."
   title: Those Drowned Kittens
-word_count: 104
+word_count: 102

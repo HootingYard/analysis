@@ -1,11 +1,8 @@
 ngrams:
-- - excellent
-  - catch-all
-  - response
 - - rather
   - taken
   - aback
-- - m
+- - i'm
   - just
   - interested
 - - student
@@ -14,9 +11,18 @@ ngrams:
 - - said
   - rather
   - taken
-- - runology
-  - how
-  - do
+- - said
+  - i'm
+  - just
+- - then
+  - said
+  - i'm
+- - bit
+  - then
+  - said
+- - about
+  - any
+  - question
 story:
   date: 2009-10-02
   id: 2009-10-02-finlandia
@@ -27,4 +33,4 @@ story:
     \ me that \u201Ci know people in Finland\u201D is an excellent catch-all response\
     \ to just about any question."
   title: Finlandia
-word_count: 72
+word_count: 70

@@ -2,9 +2,6 @@ ngrams:
 - - interesting
   - narrative
   - technique
-- - thomas
-  - de
-  - quincey
 - - fresh
   - incident
   - whatever
@@ -29,9 +26,30 @@ ngrams:
 - - an
   - interesting
   - narrative
+- - one
+  - nights
+  - fodder
 - - lamp
   - has
   - been
+- - it's
+  - an
+  - interesting
+- - has
+  - been
+  - once
+- - ever
+  - will
+  - now
+- - upholstery
+  - how
+  - this
+- - how
+  - this
+  - saloon
+- - said
+  - it's
+  - an
 story:
   date: 2009-04-15
   id: 2009-04-15-a-mere-record-of-upholstery
@@ -46,4 +64,4 @@ story:
     \ an interesting narrative technique, if one has a particular readership, such\
     \ as upholsterers, in mind. But I don't."
   title: A Mere Record Of Upholstery
-word_count: 139
+word_count: 136

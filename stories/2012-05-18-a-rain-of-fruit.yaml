@@ -1,31 +1,22 @@
 ngrams:
-- - square-toed
-  - shoes
-  - pointing
-- - snow
-  - jacquetta
-  - hawkes
 - - scientific
   - spirit
   - clearing
 - - sir
   - isaac
   - newton
-- - properly
-  - scientific
-  - spirit
 - - buried
   - anyone
   - examining
+- - properly
+  - scientific
+  - spirit
 - - sir
   - isaac
   - comes
 - - sir
   - isaac
   - fell
-- - small
-  - swarthy
-  - russets
 - - deduce
   - certain
   - facts
@@ -35,15 +26,60 @@ ngrams:
 - - isaac
   - fell
   - longer
-- - long
-  - square-toed
-  - shoes
 - - bath
   - found
   - immediately
 - - fell
   - longer
   - ago
+- - where
+  - sir
+  - isaac
+- - time
+  - relative
+  - ages
+- - then
+  - buried
+  - anyone
+- - came
+  - before
+  - snow
+- - snow
+  - time
+  - relative
+- - longer
+  - ago
+  - than
+- - found
+  - immediately
+  - over
+- - apple
+  - time
+  - came
+- - lay
+  - above
+  - them
+- - before
+  - snow
+  - time
+- - interesting
+  - piece
+  - about
+- - fruit
+  - if
+  - instead
+- - time
+  - came
+  - before
+- - observer
+  - would
+  - want
+- - relative
+  - ages
+  - are
+- - shoes
+  - pointing
+  - so
 story:
   date: 2012-05-18
   id: 2012-05-18-a-rain-of-fruit

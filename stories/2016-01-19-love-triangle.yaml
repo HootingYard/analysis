@@ -1,13 +1,19 @@
 ngrams:
-- - chim-in-ey
+- - love
+  - triangle
   - chim
-  - chimpanzee
-- - chim
-  - chim-in-ey
-  - chimpanzee
-- - chim-in-ey
-  - chim
-  - chim-in-ey
+- - dick
+  - van
+  - dyke
+- - chimpanzee
+  - go
+  - take
+- - hike
+  - there's
+  - 'no'
+- - there's
+  - 'no'
+  - room
 story:
   date: 2016-01-19
   id: 2016-01-19-love-triangle
@@ -15,4 +21,4 @@ story:
     \ monkey out of me\n  Chim chim-in-ey chimpanzee, go take a hike\n  There's no\
     \ room in my heart for both you and Dick Van Dyke"
   title: Love Triangle
-word_count: 38
+word_count: 37

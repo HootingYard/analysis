@@ -1,37 +1,13 @@
 ngrams:
-- - satirist
-  - juvenal
-  - mocks
-- - multi-millionaire
-  - stoic
-  - philosopher
 - - dialogue
   - cicero
   - shines
 - - philosophical
   - dialogue
   - cicero
-- - ad
-  - multi-millionaire
-  - stoic
-- - bc
-  - ad
-  - multi-millionaire
-- - victims
-  - shriek
-  - bathers
 - - emit
   - shrill
   - wheezes
-- - skill
-  - determination
-  - self-control
-- - wimbledon
-  - finalists
-  - provided
-- - female
-  - gladiators
-  - taught
 - - minimal
   - functional
   - grunting
@@ -41,9 +17,129 @@ ngrams:
 - - stiff
   - upper
   - lip
-- - shriek
-  - bathers
-  - singing
+- - c
+  - bc
+  - ad
+- - younger
+  - c
+  - bc
+- - extent
+  - cicero
+  - goes
+- - matter
+  - discussing
+  - mastery
+- - analogy
+  - between
+  - bracing
+- - weights
+  - whether
+  - actually
+- - functional
+  - grunting
+  - perhaps
+- - whether
+  - actually
+  - working
+- - real
+  - thing
+  - grunt
+- - ears
+  - quite
+  - apart
+- - comprehensive
+  - world
+  - history
+- - unfortunate
+  - lodgings
+  - over
+- - those
+  - taking
+  - exercise
+- - pain
+  - may
+  - release
+- - thing
+  - grunt
+  - while
+- - grunt
+  - may
+  - help
+- - hawking
+  - their
+  - wares
+- - their
+  - opponent
+  - emit
+- - their
+  - victims
+  - shriek
+- - mend
+  - their
+  - ways
+- - making
+  - their
+  - victims
+- - people
+  - hawking
+  - their
+- - if
+  - crowds
+  - grunted
+- - ways
+  - if
+  - crowds
+- - singing
+  - out
+  - loud
+- - message
+  - look
+  - what
+- - they
+  - emit
+  - shrill
+- - breath
+  - they
+  - emit
+- - actually
+  - working
+  - out
+- - heroic
+  - effort
+  - we
+- - might
+  - mend
+  - their
+- - grunt
+  - away
+  - when
+- - splashing
+  - about
+  - those
+- - about
+  - those
+  - working
+- - grunt
+  - while
+  - they
+- - those
+  - working
+  - out
+- - sees
+  - an
+  - analogy
+- - provided
+  - an
+  - admirable
+- - an
+  - admirable
+  - example
+- - an
+  - analogy
+  - between
+- - baths
+  - which
+  - made
 story:
   date: 2015-07-22
   id: 2015-07-22-classical-grunting
@@ -78,4 +174,4 @@ story:
     I feel inspired by this to write a fat and comprehensive World History Of Grunts\
     \ And Grunting. Watch this space."
   title: Classical Grunting
-word_count: 382
+word_count: 381

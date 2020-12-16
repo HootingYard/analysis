@@ -1,13 +1,7 @@
 ngrams:
-- - unillustrated
-  - ray
-  - bradbury
 - - starring
   - rod
   - steiger
-- - chump
-  - unillustrated
-  - ray
 - - film
   - starring
   - rod
@@ -41,6 +35,33 @@ ngrams:
 - - did
   - boiling
   - frustration
+- - mr
+  - steiger
+  - still
+- - frustration
+  - very
+  - well
+- - illustrated
+  - man
+  - made
+- - mr
+  - steiger
+  - did
+- - might
+  - cannot
+  - get
+- - chump
+  - who
+  - try
+- - rod
+  - steiger
+  - were
+- - steiger
+  - were
+  - mr
+- - were
+  - mr
+  - steiger
 story:
   date: 2011-09-16
   id: 2011-09-16-flapperdabbling
@@ -58,4 +79,4 @@ story:
     his training in the Method would no doubt have stood him in good stead. Alas,\
     \ it is not to be."
   title: Flapperdabbling
-word_count: 169
+word_count: 168

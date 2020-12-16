@@ -1,28 +1,19 @@
 ngrams:
-- - marshall
-  - herff
-  - applewhite
 - - lu
   - nettles
   - ti
 - - bonnie
   - lu
   - nettles
+- - heaven's
+  - gate
+  - suicides
 - - bath
   - oliver
   - biscuit
-- - played
-  - lieutenant
-  - uhura
 - - original
   - star
   - trek
-- - century
-  - mao
-  - tse-tung
-- - eighteenth
-  - century
-  - mao
 - - dr
   - william
   - oliver
@@ -35,15 +26,66 @@ ngrams:
 - - generate
   - further
   - reports
-- - pea-sized
-  - yet
-  - pulsating
 - - soon
   - generate
   - further
-- - mao
-  - tse-tung
-  - never
+- - teeth
+  - nor
+  - took
+- - trotsky
+  - first
+  - met
+- - yet
+  - pulsating
+  - brain
+- - seems
+  - only
+  - polite
+- - meantime
+  - readers
+  - may
+- - world
+  - o
+  - hooting
+- - first
+  - met
+  - each
+- - o
+  - hooting
+  - yard
+- - became
+  - grubby
+  - more
+- - grubby
+  - more
+  - soon
+- - nettles
+  - ti
+  - who
+- - ti
+  - who
+  - hoped
+- - who
+  - played
+  - lieutenant
+- - met
+  - each
+  - other
+- - fresh
+  - insights
+  - into
+- - hot
+  - towels
+  - when
+- - readers
+  - may
+  - like
+- - rub
+  - him
+  - down
+- - will
+  - soon
+  - generate
 story:
   date: 2007-05-07
   id: 2007-05-07-fools-paradise
@@ -66,4 +108,4 @@ story:
     \ factotum was employed to rub him down with hot towels when he became grubby.\n\
     More soon\u2026"
   title: Fool's Paradise
-word_count: 241
+word_count: 237

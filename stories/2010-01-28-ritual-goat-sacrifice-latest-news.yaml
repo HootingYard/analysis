@@ -1,34 +1,13 @@
 ngrams:
-- - spokesman
-  - farhatullah
-  - babar
 - - asif
   - ali
   - zardari
-- - coup
-  - patricia
-  - hewitt
-- - farhatullah
-  - babar
-  - confirmed
-- - president
-  - practises
-  - sadiqa
-- - political
-  - masters
-  - indulging
 - - president
   - asif
   - ali
-- - tippy-tapping
-  - conspiratorial
-  - drivel
-- - busy
-  - tippy-tapping
-  - conspiratorial
-- - record
-  - spokesman
-  - farhatullah
+- - political
+  - masters
+  - indulging
 - - japanese
   - prime
   - minister
@@ -44,6 +23,87 @@ ngrams:
 - - ritual
   - goat
   - sacrifice
+- - ritual
+  - goat
+  - sacrifice
+- - sacrifice
+  - latest
+  - news
+- - goat
+  - sacrifice
+  - latest
+- - dawn
+  - pakistan
+  - s
+- - animal
+  - whose
+  - meat
+- - pakistan
+  - s
+  - paper
+- - black
+  - goat
+  - killed
+- - black
+  - magic
+  - according
+- - gordon
+  - brown's
+  - thing
+- - goat
+  - sacrifice
+  - perhaps
+- - against
+  - black
+  - magic
+- - goat
+  - killed
+  - every
+- - fend
+  - 'off'
+  - malevolent
+- - latest
+  - news
+  - last
+- - 'off'
+  - malevolent
+  - spirits
+- - protect
+  - himself
+  - against
+- - ward
+  - 'off'
+  - evil
+- - quite
+  - often
+  - according
+- - news
+  - last
+  - week
+- - our
+  - political
+  - masters
+- - quite
+  - often
+  - 'yes'
+- - himself
+  - against
+  - black
+- - 'off'
+  - evil
+  - eyes
+- - like
+  - geoff
+  - hoon
+- - someone
+  - like
+  - geoff
+- - denied
+  - its
+  - purpose
+- - killed
+  - every
+  - day
 story:
   date: 2010-01-28
   id: 2010-01-28-ritual-goat-sacrifice-latest-news
@@ -70,4 +130,4 @@ story:
     \ 1 and Miliband 2, they strike me more as the type to interpret the bloody entrails\
     \ of ritually slaughtered poultry."
   title: "Ritual Goat Sacrifice\_: Latest News"
-word_count: 285
+word_count: 280

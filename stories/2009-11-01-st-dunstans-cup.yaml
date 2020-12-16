@@ -1,7 +1,4 @@
 ngrams:
-- - uncle
-  - lfheah
-  - bishop
 - - modern
   - sanitary
   - methods
@@ -10,7 +7,13 @@ ngrams:
   - columns
 - - ditches
   - st
-  - dunstan
+  - dunstan's
+- - st
+  - dunstan's
+  - tongs
+- - st
+  - dunstan's
+  - tongs
 - - pick
   - st
   - dunstan
@@ -20,9 +23,24 @@ ngrams:
 - - sunday
   - newspapers
   - published
+- - st
+  - dunstan's
+  - cup
+- - dunstan's
+  - cup
+  - st
 - - cup
   - st
-  - dunstan
+  - dunstan's
+- - st
+  - dunstan's
+  - cup
+- - st
+  - dunstan's
+  - cup
+- - dunstan's
+  - tongs
+  - written
 - - minutes
   - st
   - dunstan
@@ -32,18 +50,54 @@ ngrams:
 - - become
   - st
   - dunstan
-- - week
-  - st
-  - dymphna
 - - called
   - st
-  - dunstan
+  - dunstan's
 - - game
   - called
   - st
-- - wassail-and-carousing
-  - practice
+- - continue
+  - until
+  - everybody
+- - practice
   - once
+  - popular
+- - impenetrable
+  - prose
+  - next
+- - until
+  - everybody
+  - present
+- - few
+  - minutes
+  - st
+- - next
+  - week
+  - st
+- - cesspit
+  - after
+  - wallowing
+- - prose
+  - next
+  - week
+- - pit
+  - crawl
+  - back
+- - st
+  - dunstan
+  - other
+- - more
+  - complicated
+  - pastime
+- - then
+  - pick
+  - st
+- - some
+  - sunday
+  - newspapers
+- - then
+  - heave
+  - himself
 story:
   date: 2009-11-01
   id: 2009-11-01-st-dunstans-cup
@@ -70,4 +124,4 @@ story:
     \ to the strategy and tactics of St Dunstan's Tongs, written in impenetrable prose.\n\
     Next week\_: St Dymphna's Pinking Shears."
   title: St Dunstan's Cup
-word_count: 274
+word_count: 268

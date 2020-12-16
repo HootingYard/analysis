@@ -1,46 +1,67 @@
 ngrams:
-- - tich
-  - wynken
-  - blynken
 - - dee
   - dozy
   - beaky
 - - dee
   - dozy
   - beaky
-- - mick
-  - tich
-  - wynken
-- - sweetheart
-  - captivity
-  - waite
 - - beaky
   - mick
   - tich
 - - beaky
   - mick
   - tich
-- - dozy
-  - beaky
-  - mick
-- - dozy
-  - beaky
-  - mick
 - - whack
   - dave
   - dee
+- - dozy
+  - beaky
+  - mick
+- - dozy
+  - beaky
+  - mick
 - - dave
   - dee
   - dozy
 - - dave
   - dee
   - dozy
-- - wynken
-  - blynken
-  - nod
-- - blynken
-  - nod
+- - nod
   - dave
+  - dee
+- - childhood
+  - sweetheart
+  - captivity
+- - nod
+  - beaky
+  - replied
+- - witch's
+  - countenance
+  - became
+- - countenance
+  - became
+  - twisted
+- - mortal
+  - lives
+  - gone
+- - took
+  - heavenward
+  - flight
+- - star
+  - took
+  - heavenward
+- - pop
+  - star
+  - took
+- - each
+  - pop
+  - star
+- - brick
+  - after
+  - brick
+- - brick
+  - after
+  - brick
 story:
   date: 2010-10-15
   id: 2010-10-15-dave-dee-dozy-beaky-mick-n-tich-n-wynken-blynken-n-nod
@@ -57,4 +78,4 @@ story:
     \ the night the soul of each pop star took heavenward flight. Their mortal lives\
     \ gone, they sat next to God, despatched by the bricklaying witch with her hod."
   title: Dave Dee, Dozy, Beaky, Mick & Tich & Wynken, Blynken & Nod
-word_count: 173
+word_count: 170

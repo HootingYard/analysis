@@ -1,10 +1,10 @@
 ngrams:
-- - proto-surrealist
-  - raymond
-  - roussel
 - - sheer
   - weirdness
   - compares
+- - phil
+  - baker's
+  - excellent
 - - potboiler
   - realistic
   - details
@@ -17,9 +17,6 @@ ngrams:
 - - unlike
   - james
   - bond
-- - mind-bogglingly
-  - improbable
-  - cold
 - - attempted
   - science
   - fiction
@@ -35,6 +32,30 @@ ngrams:
 - - cold
   - war
   - potboiler
+- - give
+  - telepathic
+  - orders
+- - whose
+  - sheer
+  - weirdness
+- - moments
+  - whose
+  - sheer
+- - wheatley
+  - love
+  - story
+- - quite
+  - unlike
+  - james
+- - machine
+  - again
+  - pressed
+- - science
+  - fiction
+  - again
+- - story
+  - quite
+  - unlike
 story:
   date: 2011-12-14
   id: 2011-12-14-wheatley-as-roussel
@@ -52,4 +73,4 @@ story:
     \ came, \u2018Music while you work\u2019, followed by the rumba.\u201D\nWheatley\
     \ never attempted science fiction again."
   title: Wheatley As Roussel
-word_count: 155
+word_count: 153

@@ -1,13 +1,19 @@
 ngrams:
-- - episode
-  - swan
-  - registry
-- - swan
-  - registry
-  - version
+- - yesterday's
+  - exciting
+  - episode
 - - air
   - click
   - here
+- - hooting
+  - yard
+  - 'on'
+- - to
+  - yesterday's
+  - exciting
+- - listen
+  - to
+  - yesterday's
 story:
   date: 2017-03-03
   id: 2017-03-03-episode-44-swan-registry-version
@@ -16,4 +22,4 @@ story:
 
     '
   title: Episode 44 (Swan Registry Version)
-word_count: 19
+word_count: 18

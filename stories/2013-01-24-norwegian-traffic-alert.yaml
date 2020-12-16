@@ -1,22 +1,31 @@
 ngrams:
-- - kjell
-  - bjoern
-  - vinje
-- - kjell
-  - bjoern
-  - vinje
 - - cheesy
   - gusts
   - luckily
-- - goaty
-  - cheesy
-  - gusts
 - - norwegian
   - traffic
   - alert
 - - public
   - roads
   - administration
+- - norwegian
+  - public
+  - roads
+- - gusts
+  - luckily
+  - standing
+- - goat
+  - cheese
+  - billowed
+- - norwegian
+  - goat
+  - cheese
+- - bbc
+  - news
+  - reporter
+- - roads
+  - administration
+  - tell
 story:
   date: 2013-01-24
   id: 2013-01-24-norwegian-traffic-alert

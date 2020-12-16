@@ -1,13 +1,7 @@
 ngrams:
-- - popstrel
-  - toyah
-  - willcox
 - - uber
   - toyah
   - silo
-- - one-time
-  - popstrel
-  - toyah
 - - separate
   - apartment
   - solely
@@ -23,9 +17,6 @@ ngrams:
 - - fur
   - coats
   - perhaps
-- - mythtery
-  - sure
-  - enough
 - - print
   - pamphleteer
   - also
@@ -38,6 +29,33 @@ ngrams:
 - - outside
   - looks
   - just
+- - every
+  - last
+  - scrap
+- - keep
+  - her
+  - collection
+- - coats
+  - perhaps
+  - she
+- - while
+  - her
+  - husband
+- - imagining
+  - 'no'
+  - possessions
+- - 'no'
+  - possessions
+  - yoko
+- - looks
+  - just
+  - like
+- - she
+  - still
+  - does
+- - perhaps
+  - she
+  - still
 story:
   date: 2009-10-11
   id: 2009-10-11-in-the-other-house
@@ -53,4 +71,4 @@ story:
     possibly a barn, or a chalet\u2014but we have no idea what he kept in there. Furs?\
     \ Frippabilia? It'th a mythtery, sure enough.\nI shall do some research."
   title: In The Other House
-word_count: 156
+word_count: 153

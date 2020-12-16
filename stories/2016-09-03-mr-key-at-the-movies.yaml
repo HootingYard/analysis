@@ -23,6 +23,21 @@ ngrams:
 - - mr
   - key
   - babbling
+- - key
+  - babbling
+  - away
+- - dobson
+  - marigold
+  - chew
+- - rare
+  - forays
+  - into
+- - radio
+  - about
+  - dobson
+- - about
+  - dobson
+  - marigold
 story:
   date: 2016-09-03
   id: 2016-09-03-mr-key-at-the-movies
@@ -34,4 +49,4 @@ story:
     \ about Dobson, Marigold Chew, squirrels, and seagulls. I had no idea this existed.\
     \ I suppose it also counts as one of my rare forays into the world of ART.\n"
   title: Mr Key At The Movies
-word_count: 105
+word_count: 104

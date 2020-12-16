@@ -1,31 +1,46 @@
 ngrams:
-- - bopp
-  - burc
-  - bals
-- - burc
-  - bals
-  - roolf
-- - bux
-  - orry
-  - raga
-- - orry
-  - raga
-  - saerck
-- - bals
-  - roolf
-  - pauline
-- - roolf
-  - pauline
-  - bux
-- - pauline
-  - bux
-  - orry
-- - buss
-  - bopp
-  - burc
-- - arson
-  - buss
-  - bopp
+- - range
+  - ernest
+  - arson
+- - eccentric
+  - range
+  - ernest
+- - la
+  - seine
+  - contains
+- - especially
+  - eccentric
+  - range
+- - names
+  - la
+  - seine
+- - odd
+  - names
+  - crop
+- - naming
+  - names
+  - odd
+- - names
+  - odd
+  - names
+- - each
+  - final
+  - choice
+- - these
+  - names
+  - footnote
+- - other
+  - names
+  - la
+- - then
+  - invariably
+  - replaced
+- - manuscripts
+  - offer
+  - 'no'
+- - offer
+  - 'no'
+  - indication
 story:
   date: 2010-01-18
   id: 2010-01-18-naming-names
@@ -39,4 +54,4 @@ story:
     \ indication as to how he arrived at these names.\u201D\nFootnote in Raymond Roussel\
     \ And The Republic Of Dreams by Mark Ford (2000)"
   title: Naming Names
-word_count: 114
+word_count: 112

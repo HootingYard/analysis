@@ -1,10 +1,4 @@
 ngrams:
-- - virtual
-  - acrid
-  - serbian
-- - handheld
-  - device
-  - imonkey
 - - scriabin
   - cornelius
   - cardew
@@ -14,24 +8,45 @@ ngrams:
 - - lumbering
   - magnetic
   - robots
-- - acrid
-  - serbian
-  - pipe
 - - serbian
   - pipe
   - tobacco
-- - colour
-  - schemes
-  - background
-- - dotcom
-  - startup
-  - run
-- - latest
-  - effusion
-  - pouring
 - - schemes
   - background
   - music
+- - big
+  - lumbering
+  - magnetic
+- - outer
+  - space
+  - note
+- - pipe
+  - tobacco
+  - water
+- - dothraki
+  - exciting
+  - new
+- - yard
+  - red
+  - button
+- - yard
+  - red
+  - button
+- - fantastic
+  - innovation
+  - here
+- - works
+  - while
+  - reading
+- - yard
+  - experience
+  - among
+- - hooting
+  - yard
+  - experience
+- - hooting
+  - yard
+  - red
 story:
   date: 2013-05-18
   id: 2013-05-18-the-red-button
@@ -47,4 +62,4 @@ story:
     \ is the \u201Comega\u201D version of the technology, and may not work properly\
     \ on your computer, handheld device, iMonkey, or pneumatic parpophone."
   title: The Red Button
-word_count: 132
+word_count: 130

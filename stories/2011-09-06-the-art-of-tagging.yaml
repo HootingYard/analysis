@@ -1,13 +1,10 @@
 ngrams:
-- - eject
-  - carol
-  - ann
 - - carol
   - ann
   - duffy
 - - poetic
   - potential
-  - shouldn
+  - shouldn't
 - - latest
   - witterings
   - argue
@@ -29,12 +26,33 @@ ngrams:
 - - quite
   - possibly
   - ignorance
-- - potential
-  - shouldn
-  - t
 - - reason
   - quite
   - possibly
+- - than
+  - garbled
+  - barbarism
+- - only
+  - six
+  - posts
+- - potential
+  - shouldn't
+  - she
+- - her
+  - stead
+  - note
+- - literacy
+  - rather
+  - than
+- - rather
+  - than
+  - garbled
+- - corker
+  - time
+  - surely
+- - skilled
+  - tagger
+  - can
 story:
   date: 2011-09-06
   id: 2011-09-06-the-art-of-tagging
@@ -51,4 +69,4 @@ story:
     \ txt-spk has poetic potential. Shouldn't she be promoting literacy rather than\
     \ garbled barbarism?"
   title: The Art Of Tagging
-word_count: 148
+word_count: 146

@@ -1,28 +1,16 @@
 ngrams:
-- - miriam
-  - burstein
-  - directs
 - - neon
   - foreshadowing
   - ensues
-- - honorable
-  - laura
-  - mapleson
 - - neon
   - foreshadowing
   - kicks
 - - flashing
   - neon
   - foreshadowing
-- - mapleson
-  - shoots
-  - lizzie
 - - flashing
   - neon
   - foreshadowing
-- - laura
-  - mapleson
-  - shoots
 - - rippling
   - stream
   - righteous
@@ -38,9 +26,39 @@ ngrams:
 - - female
   - protagonists
   - nearly
-- - langton
-  - george
-  - vere
+- - righteous
+  - smiting
+  - soon
+- - smiting
+  - soon
+  - follows
+- - soon
+  - follows
+  - laura
+- - infuriated
+  - insects
+  - while
+- - old
+  - disused
+  - quarry
+- - two
+  - female
+  - protagonists
+- - two
+  - female
+  - protagonists
+- - insects
+  - while
+  - trying
+- - much
+  - flashing
+  - neon
+- - quarry
+  - much
+  - flashing
+- - disused
+  - quarry
+  - where
 story:
   date: 2009-10-17
   id: 2009-10-17-wasp-watch
@@ -59,4 +77,4 @@ story:
     \ the palefaced girl, had stood and shuddered, as she thought of the horror of\
     \ a fall into that dreadful darkness!\u201D (231)\u201D"
   title: Wasp Watch
-word_count: 168
+word_count: 166

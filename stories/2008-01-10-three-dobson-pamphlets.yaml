@@ -5,9 +5,6 @@ ngrams:
 - - washington
   - dc
   - behold
-- - writes
-  - daniel
-  - tomasch
 - - exceedingly
   - rare
   - items
@@ -20,6 +17,21 @@ ngrams:
 - - withers
   - pamphlets
   - appear
+- - dear
+  - frank
+  - writes
+- - pamphlets
+  - dear
+  - frank
+- - print
+  - daniel
+  - says
+- - pamphlet
+  - unfortunately
+  - appears
+- - bird
+  - pamphlet
+  - unfortunately
 story:
   date: 2008-01-10
   id: 2008-01-10-three-dobson-pamphlets

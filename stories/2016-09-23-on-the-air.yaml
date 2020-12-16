@@ -1,13 +1,19 @@
 ngrams:
 - - archive
   - including
-  - yesterday
+  - yesterday's
+- - including
+  - yesterday's
+  - show
 - - full
   - archive
   - including
 - - listening
   - pleasure
   - go
+- - made
+  - available
+  - online
 story:
   date: 2016-09-23
   id: 2016-09-23-on-the-air
@@ -15,4 +21,4 @@ story:
     ResonanceFM is almost immediately made available online for your listening pleasure.
     Go to Mixcloud for the full archive, including yesterday's show here.
   title: On The Air
-word_count: 41
+word_count: 40

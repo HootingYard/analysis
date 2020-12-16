@@ -1,28 +1,10 @@
 ngrams:
-- - bride-to-be
-  - andrew
-  - clutterbuck
-- - fellow-me-lad
-  - gael
-  - hello
-- - worthy
-  - suitor
-  - gael
-- - imminent
-  - betrothal
-  - andrew
 - - suitor
   - ian
   - anderson
 - - okay
   - ian
   - laughing
-- - ian
-  - hello
-  - gael
-- - hello
-  - gael
-  - hello
 - - ian
   - anderson
   - minstrel
@@ -35,15 +17,141 @@ ngrams:
 - - andrew
   - hello
   - ian
-- - er
-  - um
-  - gael
 - - son
   - andrew
   - crestfallen
-- - gael
-  - hello
+- - glittering
+  - thespian
+  - career
+- - hello
   - papa
+  - andrew
+- - papa
+  - andrew
+  - hello
+- - thespian
+  - career
+  - ian
+- - enter
+  - ian
+  - anderson
+- - andrew
+  - lincoln
+  - born
+- - sing
+  - wassail
+  - curtain
+- - papa
+  - andrew
+  - thank
+- - andrew
+  - crestfallen
+  - i'm
+- - com
+  - sir
+  - ian
+- - approach
+  - enter
+  - ian
+- - anderson
+  - minstrel
+  - father
+- - rock
+  - band
+  - andrew
+- - dot
+  - com
+  - sir
+- - dark
+  - cloud
+  - passes
+- - poor
+  - sweet
+  - child
+- - preposterous
+  - since
+  - crest
+- - andrew
+  - oh
+  - okay
+- - oh
+  - okay
+  - ian
+- - walking
+  - dead
+  - ian
+- - week
+  - andrew
+  - gives
+- - band
+  - andrew
+  - oh
+- - 'yes'
+  - really
+  - papa
+- - dead
+  - ian
+  - really
+- - sir
+  - ian
+  - let
+- - soon
+  - enough
+  - hark
+- - confusing
+  - mr
+  - clutterbuck
+- - sonny
+  - andrew
+  - well
+- - flute
+  - while
+  - standing
+- - fought
+  - many
+  - zombies
+- - walking
+  - dead
+  - every
+- - every
+  - week
+  - andrew
+- - exacting
+  - man
+  - darling
+- - gives
+  - those
+  - zombies
+- - andrew
+  - gives
+  - those
+- - summer's
+  - day
+  - sonny
+- - dead
+  - every
+  - week
+- - day
+  - sonny
+  - andrew
+- - cloud
+  - passes
+  - over
+- - lovely
+  - summer's
+  - day
+- - ian
+  - let
+  - us
+- - let
+  - us
+  - celebrate
+- - clutterbuck
+  - her
+  - suitor
+- - andrew
+  - clutterbuck
+  - her
 story:
   date: 2018-03-19
   id: 2018-03-19-the-betrothal-a-playlet
@@ -78,4 +186,4 @@ story:
     \ Dot Com sir!\nIAN\_: Let us celebrate by singing a few snatches from Aqualung,\
     \ the 1971 album release by my rock band.\nThey sing & wassail.\nCurtain.\n"
   title: "The Betrothal\_: A Playlet"
-word_count: 415
+word_count: 413

@@ -1,49 +1,124 @@
 ngrams:
-- - ser
-  - oswell
-  - whent
-- - pre-publication
-  - vetting
-  - protocol
-- - vetting
-  - protocol
-  - headed
 - - protocol
   - headed
   - notepaper
 - - writer
   - fully
   - conversant
-- - self-important
-  - dabbler
-  - pre-publication
-- - dabbler
-  - pre-publication
-  - vetting
-- - laughably
-  - self-important
-  - dabbler
 - - peasants
   - reel
   - turn
 - - savage
   - almost
   - demonic
-- - paper
-  - bag
-  - danceathon
+- - frank
+  - key
+  - academy
 - - cannot
   - help
   - wondering
 - - strain
   - every
   - sinew
-- - frank
-  - key
-  - academy
 - - paper
   - bag
   - 'yes'
+- - help
+  - wondering
+  - why
+- - academy
+  - dear
+  - mr
+- - town
+  - paper
+  - bag
+- - headed
+  - notepaper
+  - much
+- - pointy
+  - town
+  - paper
+- - serious
+  - matters
+  - after
+- - bag
+  - 'yes'
+  - mr
+- - must
+  - strain
+  - every
+- - dear
+  - mr
+  - key
+- - 'yes'
+  - mr
+  - key
+- - few
+  - days
+  - ago
+- - boast
+  - upon
+  - receipt
+- - idle
+  - boast
+  - upon
+- - protect
+  - our
+  - readers
+- - lecture
+  - our
+  - readers
+- - mr
+  - key
+  - before
+- - some
+  - booby
+  - these
+- - passing
+  - your
+  - piece
+- - all
+  - contributions
+  - contacted
+- - vet
+  - all
+  - contributions
+- - contributions
+  - contacted
+  - me
+- - were
+  - savage
+  - almost
+- - call
+  - into
+  - question
+- - make
+  - your
+  - escape
+- - tow
+  - wild
+  - they
+- - dance
+  - your
+  - way
+- - demonic
+  - we
+  - soon
+- - almost
+  - demonic
+  - we
+- - wild
+  - horses
+  - would
+- - we
+  - soon
+  - got
+- - we
+  - must
+  - strain
+- - an
+  - idle
+  - boast
 story:
   date: 2011-07-01
   id: 2011-07-01-do-the-dabble
@@ -71,4 +146,4 @@ story:
     \ wild horses in tow. Wild? They were savage, almost demonic. We soon got the\
     \ matter settled, and I doubt I shall be hearing from that little twerp in future."
   title: Do The Dabble
-word_count: 327
+word_count: 326

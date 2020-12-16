@@ -11,9 +11,6 @@ ngrams:
 - - reportage
   - sweeping
   - paragraphs
-- - occasional
-  - thousandish-word
-  - essay
 - - diary
   - entries
   - theme
@@ -26,6 +23,21 @@ ngrams:
 - - occasional
   - diary
   - entry
+- - entries
+  - theme
+  - beyond
+- - daily
+  - diary
+  - entries
+- - become
+  - somewhat
+  - restrictive
+- - also
+  - unforgivably
+  - dull
+- - scrapings
+  - may
+  - include
 story:
   date: 2013-02-02
   id: 2013-02-02-diaries

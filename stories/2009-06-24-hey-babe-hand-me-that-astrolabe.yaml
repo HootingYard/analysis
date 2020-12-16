@@ -1,19 +1,25 @@
 ngrams:
-- - astrolabe
-  - mollie
-  - panter-downes
-- - astrolabe
-  - swinburne
-  - boasted
-- - helpfully
-  - astrolabe
-  - mollie
 - - hey
   - babe
   - hand
-- - very
+- - who
+  - also
+  - provides
+- - babe
+  - hand
+  - me
+- - one
+  - serious
+  - rhyme
+- - eccentric
+  - book
+  - by
+- - not
+  - very
   - helpfully
-  - astrolabe
+- - his
+  - putney
+  - visit
 story:
   date: 2009-06-24
   id: 2009-06-24-hey-babe-hand-me-that-astrolabe
@@ -24,4 +30,4 @@ story:
     \ magnificent and eccentric book by Nige, who also provides a link to Max Beerbohm's\
     \ account of his Putney visit."
   title: Hey Babe, Hand Me That Astrolabe
-word_count: 64
+word_count: 63

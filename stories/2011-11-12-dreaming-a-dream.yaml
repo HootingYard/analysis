@@ -14,9 +14,6 @@ ngrams:
 - - emerson
   - lake
   - parker
-- - palmer
-  - absent
-  - lake
 - - peel
   - invariably
   - referred
@@ -32,18 +29,48 @@ ngrams:
 - - therapy
   - emerson
   - present
-- - rigorous
-  - recovered
-  - memory
 - - present
   - palmer
   - absent
+- - rigorous
+  - recovered
+  - memory
 - - facebook
   - facecloth
   - answer
 - - john
   - peel
   - invariably
+- - emerson
+  - present
+  - lake
+- - lake
+  - present
+  - palmer
+- - sound
+  - reproduction
+  - boffins
+- - band
+  - john
+  - peel
+- - present
+  - lake
+  - present
+- - format
+  - yet
+  - dreamed
+- - particularly
+  - bewildering
+  - point
+- - cd
+  - form
+  - nor
+- - facecloth
+  - answer
+  - came
+- - pram
+  - cellar
+  - being
 story:
   date: 2011-11-12
   id: 2011-11-12-dreaming-a-dream
@@ -63,4 +90,4 @@ story:
     \ their music in LP or CD form, nor indeed in cassette or 8-track or mp3, nor\
     \ in any other format yet dreamed up by sound reproduction boffins."
   title: Dreaming A Dream
-word_count: 201
+word_count: 198

@@ -1,7 +1,4 @@
 ngrams:
-- - volunteer
-  - ambulance-based
-  - medicos
 - - competition
   - rival
   - teams
@@ -11,9 +8,6 @@ ngrams:
 - - wreck
   - competition
   - rival
-- - exclusive
-  - pre-contest
-  - interview
 - - spinney
   - wreck
   - competition
@@ -23,27 +17,66 @@ ngrams:
 - - annual
   - spinney
   - wreck
-- - ambulance-based
-  - medicos
-  - wearing
-- - single-handedly
-  - sent
-  - packing
-- - age-old
-  - blood
-  - feud
+- - illegal
+  - butcher's
+  - shop
 - - wearing
   - special
   - armbands
-- - medicos
-  - wearing
-  - special
 - - gambling
   - den
   - behind
 - - bandage
   - shop
   - mrs
+- - shop
+  - mrs
+  - gubbins
+- - wholly
+  - inappropriate
+  - because
+- - hoping
+  - things
+  - pass
+- - urchins
+  - scampering
+  - 'off'
+- - daybreak
+  - old
+  - farmer
+- - scampering
+  - 'off'
+  - across
+- - told
+  - our
+  - reporter
+- - things
+  - pass
+  - 'off'
+- - interview
+  - she
+  - told
+- - before
+  - daybreak
+  - old
+- - utmost
+  - secrecy
+  - their
+- - am
+  - hoping
+  - things
+- - she
+  - told
+  - our
+- - special
+  - armbands
+  - will
+- - mrs
+  - gubbins
+  - will
+- - gubbins
+  - will
+  - again
 story:
   date: 2007-03-01
   id: 2007-03-01-wrecks
@@ -65,4 +98,4 @@ story:
     \ available from the illegal gambling den behind the illegal butcher's shop on\
     \ the plaza."
   title: Wrecks
-word_count: 215
+word_count: 209

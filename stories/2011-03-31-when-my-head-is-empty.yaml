@@ -1,19 +1,28 @@
 ngrams:
-- - muse
-  - flees
-  - o
-- - flees
-  - o
-  - er
-- - o
-  - er
-  - hill
 - - integuments
   - get
   - clogged
 - - cranial
   - integuments
   - get
+- - get
+  - clogged
+  - up
+- - all
+  - goes
+  - well
+- - other
+  - words
+  - when
+- - shall
+  - deploy
+  - this
+- - syndrome
+  - if
+  - all
+- - if
+  - all
+  - goes
 story:
   date: 2011-03-31
   id: 2011-03-31-when-my-head-is-empty
@@ -23,4 +32,4 @@ story:
     \ words, when I am felled by vacancy-between-the-ears syndrome. If all goes well\
     \ you should not see it too often.\n"
   title: When My Head Is Empty
-word_count: 66
+word_count: 65

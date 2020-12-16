@@ -8,6 +8,12 @@ ngrams:
 - - brand
   - new
   - superhero
+- - this
+  - brand
+  - new
+- - matchbox
+  - man
+  - this
 story:
   date: 2013-01-20
   id: 2013-01-20-matchbox-man
@@ -17,4 +23,4 @@ story:
 
     '
   title: Matchbox Man
-word_count: 40
+word_count: 39

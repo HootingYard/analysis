@@ -1,49 +1,112 @@
 ngrams:
-- - unexpectedtales
-  - dramatis
-  - personae
-- - dramatis
-  - personae
-  - signor
-- - signor
-  - fears
-  - upsetting
-- - personae
-  - signor
-  - ploppo
-- - ambrose
-  - whyfore
-  - dost
-- - exit
-  - ploppo
-  - ambrose
-- - whyfore
-  - dost
-  - thou
-- - drama
-  - signor
-  - ploppo
 - - curd
   - ambrose
   - perchance
-- - beg
-  - thee
-  - signor
-- - lemon
-  - curd
-  - ploppo
-- - snack
-  - exit
-  - ploppo
 - - extract
   - snapshot
   - courtesy
 - - lemon
   - curd
   - ambrose
-- - verse
+- - hell
+  - ambrose
+  - aside
+- - short
+  - extract
+  - snapshot
+- - hands
+  - i'd
+  - clap
+- - want
+  - lemon
+  - curd
+- - thou
+  - want
+  - lemon
+- - bird
+  - ambrose
+  - bring
+- - goes
+  - against
+  - everything
+- - cash
+  - aside
+  - should
+- - tarry
+  - anymore
+  - go
+- - own
+  - cash
+  - aside
+- - new
+  - verse
   - drama
-  - signor
+- - shop
+  - never
+  - shuts
+- - curd
+  - shop
+  - never
+- - great
+  - now
+  - hurry
+- - really
+  - great
+  - now
+- - 'no'
+  - money
+  - ambrose
+- - your
+  - snack
+  - exit
+- - now
+  - hurry
+  - before
+- - haunts
+  - him
+  - yet
+- - ambrose
+  - aside
+  - if
+- - 'no'
+  - buts
+  - go
+- - fears
+  - upsetting
+  - me
+- - your
+  - own
+  - cash
+- - loins
+  - however
+  - if
+- - ambrose
+  - bring
+  - me
+- - buy
+  - me
+  - curd
+- - aside
+  - can
+  - such
+- - when
+  - birds
+  - attack
+- - use
+  - your
+  - own
+- - called
+  - when
+  - birds
+- - can
+  - such
+  - things
+- - so
+  - far
+  - ambrose
+- - ambrose
+  - perchance
+  - this
 story:
   date: 2010-07-12
   id: 2010-07-12-ambrose-and-ploppo
@@ -69,4 +132,4 @@ story:
     : I will do as you ask and pay for your snack.\nExit PLOPPO\nAMBROSE\_: The next\
     \ scene is called \u201CWhen Birds Attack!\u201D"
   title: Ambrose And Ploppo
-word_count: 294
+word_count: 290

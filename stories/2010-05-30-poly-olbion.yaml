@@ -1,7 +1,4 @@
 ngrams:
-- - warwickshire
-  - county
-  - council
 - - exceedingly
   - lengthy
   - work
@@ -17,6 +14,15 @@ ngrams:
 - - shall
   - see
   - meanwhile
+- - see
+  - meanwhile
+  - here
+- - agno
+  - we
+  - shall
+- - this
+  - exceedingly
+  - lengthy
 story:
   date: 2010-05-30
   id: 2010-05-30-poly-olbion
@@ -27,4 +33,4 @@ story:
     \ We shall see\u2026\nMeanwhile, here is the title page of the copy held by Warwickshire\
     \ County Council:\n"
   title: Poly-Olbion
-word_count: 72
+word_count: 70

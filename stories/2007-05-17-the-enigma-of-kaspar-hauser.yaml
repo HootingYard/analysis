@@ -1,13 +1,4 @@
 ngrams:
-- - kaspar
-  - hauser
-  - daumer
-- - hauser
-  - daumer
-  - plied
-- - daumer
-  - plied
-  - kaspar
 - - plied
   - kaspar
   - hauser
@@ -23,6 +14,30 @@ ngrams:
 - - spiders
   - snakes
   - flowers
+- - quiet
+  - noises
+  - squeezed
+- - noises
+  - squeezed
+  - cheese
+- - brandy
+  - loud
+  - noises
+- - bright
+  - daylight
+  - beer
+- - moon
+  - brandy
+  - loud
+- - squeezed
+  - cheese
+  - bright
+- - noises
+  - quiet
+  - noises
+- - cheese
+  - bright
+  - daylight
 story:
   date: 2007-05-17
   id: 2007-05-17-the-enigma-of-kaspar-hauser
@@ -36,4 +51,4 @@ story:
     \ colour black, and comedy.\u201D\nFrom Savage Girls And Wild Boys\_: A History\
     \ Of Feral Children by Michael Newton\n"
   title: The Enigma Of Kaspar Hauser
-word_count: 106
+word_count: 105

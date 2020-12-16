@@ -1,49 +1,73 @@
 ngrams:
-- - on-air
-  - fund
-  - raiser
-- - donation
-  - pledge
-  - bequest
-- - shrigley
-  - bob
-  - roberta
-- - fund
-  - raiser
-  - runs
-- - roberta
-  - smith
-  - glen
-- - annual
-  - on-air
-  - fund
 - - baxter
   - benign
   - dictator
-- - bob
-  - roberta
+- - roberta
   - smith
+  - glen
 - - ed
   - baxter
   - benign
-- - pledge
-  - bequest
-  - gift
 - - smith
   - glen
   - baxter
-- - resonancefm
-  - com
-  - auction-
+- - bob
+  - roberta
+  - smith
 - - wine
   - services
   - etc
-- - emailing
-  - auction
-  - resonancefm
-- - regular
-  - on-air
-  - advertising
+- - baxter
+  - resonance
+  - fm's
+- - records
+  - wine
+  - services
+- - resonance
+  - fm's
+  - annual
+- - anniversary
+  - resonance
+  - urgently
+- - rare
+  - records
+  - wine
+- - presenters
+  - please
+  - support
+- - love
+  - resonance
+  - fm
+- - dr
+  - baxter
+  - resonance
+- - says
+  - dr
+  - baxter
+- - week
+  - till
+  - midnight
+- - urgently
+  - need
+  - funds
+- - week
+  - progresses
+  - visit
+- - resonance
+  - urgently
+  - need
+- - usual
+  - we're
+  - having
+- - air
+  - says
+  - dr
+- - support
+  - us
+  - via
+- - please
+  - support
+  - us
 story:
   date: 2012-02-14
   id: 2012-02-14-important
@@ -63,4 +87,4 @@ story:
     \ and make a bid by emailing auction@resonancefm.com.\nOr why not simply phone\
     \ us with a pledge on 020 7407 1210?\nMany thanks."
   title: Important!
-word_count: 195
+word_count: 191

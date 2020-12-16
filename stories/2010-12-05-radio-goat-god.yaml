@@ -5,15 +5,21 @@ ngrams:
 - - occasional
   - radio
   - helpmeet
-- - both
-  - norm
-  - sherman
 - - goat
   - god
   - catechism
+- - both
+  - norm
+  - sherman
 - - radio
   - goat
   - god
+- - radio
+  - helpmeet
+  - mr
+- - telephone
+  - device
+  - many
 story:
   date: 2010-12-05
   id: 2010-12-05-radio-goat-god

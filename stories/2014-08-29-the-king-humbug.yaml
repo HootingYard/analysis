@@ -1,17 +1,23 @@
 ngrams:
-- - smartweed
-  - pierce
-  - click
-- - dr
-  - smartweed
-  - pierce
 - - king
   - humbug
-  - don
+  - don't
+- - humbug
+  - don't
+  - get
+- - don't
+  - get
+  - fooled
+- - fooled
+  - by
+  - dr
+- - get
+  - fooled
+  - by
 story:
   date: 2014-08-29
   id: 2014-08-29-the-king-humbug
   text: "Don't get fooled by \u201CDr.\u201D Smartweed Pierce! (Click to enlarge and\
     \ make legible.)\n\nMy thanks to Poppy Nisbet."
   title: The King Humbug
-word_count: 22
+word_count: 21

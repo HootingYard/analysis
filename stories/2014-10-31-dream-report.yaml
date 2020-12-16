@@ -1,13 +1,13 @@
 ngrams:
-- - alas
-  - nota
-  - bene
-- - direction
-  - alas
-  - nota
 - - digest
   - magazine
   - recite
+- - reader's
+  - digest
+  - magazine
+- - reader's
+  - digest
+  - magazine
 - - young
   - idiot
   - savant
@@ -17,6 +17,18 @@ ngrams:
 - - dream
   - report
   - last
+- - every
+  - single
+  - issue
+- - dream
+  - veered
+  - 'off'
+- - digest
+  - magazine
+  - see
+- - report
+  - last
+  - night
 story:
   date: 2014-10-31
   id: 2014-10-31-dream-report
@@ -27,4 +39,4 @@ story:
     \ alas.\nNOTA BENE : For the correct placement of the apostrophe in the title\
     \ of Reader's Digest magazine, see this potsage [sic]."
   title: Dream Report
-word_count: 83
+word_count: 81

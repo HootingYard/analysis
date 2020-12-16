@@ -1,4 +1,7 @@
 ngrams:
+- - brewer's
+  - bar
+  - recorded
 - - bar
   - recorded
   - last
@@ -11,6 +14,9 @@ ngrams:
 - - yard
   - live
   - part
+- - live
+  - part
+  - two
 story:
   date: 2016-04-20
   id: 2016-04-20-hooting-yard-live-part-two
@@ -19,4 +25,4 @@ story:
     until then, here is the second part of Hooting Yard Live At Brewer's Bar, recorded
     last month. Listen and learn.
   title: Hooting Yard Live! (Part Two)
-word_count: 56
+word_count: 55

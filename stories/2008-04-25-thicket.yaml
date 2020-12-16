@@ -5,20 +5,20 @@ ngrams:
 - - devil
   - satan
   - left
+- - candle
+  - light
+  - it's
 - - whaler
   - soon
-  - don
+  - don't
 - - pitch
   - black
   - night
-- - soon
-  - don
-  - t
-- - t
+- - don't
   - go
   - hiking
-- - don
-  - t
+- - soon
+  - don't
   - go
 - - whaler
   - some
@@ -26,7 +26,10 @@ ngrams:
 - - some
   - use
   - tallow
-- - ve
+- - fortnight
+  - i've
+  - been
+- - i've
   - been
   - hiking
 - - about
@@ -38,6 +41,21 @@ ngrams:
 - - devil
   - keep
   - your
+- - thinking
+  - about
+  - blubber
+- - thinking
+  - about
+  - blubber
+- - devil
+  - trapped
+  - me
+- - satan
+  - left
+  - me
+- - am
+  - thinking
+  - about
 story:
   date: 2008-04-25
   id: 2008-04-25-thicket
@@ -52,4 +70,4 @@ story:
     wild and windy moors to think of blubber candle light, for the devil trapped me
     in this thicket and it is a pitch black night.
   title: Thicket
-word_count: 163
+word_count: 155

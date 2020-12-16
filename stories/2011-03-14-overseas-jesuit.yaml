@@ -1,19 +1,28 @@
 ngrams:
-- - tragically
-  - unrealised
-  - aztec
+- - charlotte
+  - bach's
+  - tragically
 - - benighted
   - continents
   - converting
-- - unrealised
-  - aztec
-  - board
 - - childhood
   - overseas
   - jesuit
+- - dr
+  - charlotte
+  - bach's
 - - aztec
   - board
   - game
+- - board
+  - game
+  - summoned
+- - overseas
+  - jesuit
+  - mention
+- - moved
+  - one's
+  - counter
 story:
   date: 2011-03-14
   id: 2011-03-14-overseas-jesuit
@@ -23,4 +32,4 @@ story:
     continents, converting the heathen hordes by fire and sword. So simple were the
     rules that the game was suitable for even the tiniest young Catholic.
   title: Overseas Jesuit
-word_count: 69
+word_count: 67

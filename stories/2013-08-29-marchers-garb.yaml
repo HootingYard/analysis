@@ -1,13 +1,19 @@
 ngrams:
-- - marchers
-  - garb
-  - comparing
 - - better
   - dressed
   - everybody
 - - struck
   - most
   - forcefully
+- - much
+  - better
+  - dressed
+- - how
+  - much
+  - better
+- - speech
+  - what
+  - struck
 story:
   date: 2013-08-29
   id: 2013-08-29-marchers-garb
@@ -15,4 +21,4 @@ story:
     \ of the \u201CI Have A Dream\u201D speech, what struck most forcefully was how\
     \ much better dressed everybody was fifty years ago."
   title: "Marchers\u2019 Garb"
-word_count: 35
+word_count: 34

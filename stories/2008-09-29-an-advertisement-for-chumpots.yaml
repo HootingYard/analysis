@@ -1,16 +1,7 @@
 ngrams:
-- - patent
-  - rarefied
-  - pigfat
 - - boaters
   - pipes
   - clenched
-- - bebonneted
-  - ladies
-  - blushed
-- - hampers
-  - bebonneted
-  - ladies
 - - furious
   - picnickers
   - reaching
@@ -23,12 +14,6 @@ ngrams:
 - - pastes
   - specifically
   - designed
-- - pigfat
-  - n
-  - sourdough
-- - rarefied
-  - pigfat
-  - n
 - - meadow
   - pipe
   - clenched
@@ -38,12 +23,123 @@ ngrams:
 - - early
   - promotional
   - leaflets
-- - picnic
-  - hampers
-  - bebonneted
 - - n
   - sourdough
   - paste
+- - wearing
+  - boaters
+  - pipes
+- - toothsome
+  - pastes
+  - usually
+- - sourdough
+  - paste
+  - comes
+- - appropriate
+  - picnic
+  - snacks
+- - solidified
+  - milk
+  - sludge
+- - perfect
+  - picnic
+  - snack
+- - bring
+  - due
+  - decorum
+- - men
+  - wearing
+  - boaters
+- - pipes
+  - clenched
+  - between
+- - picnickers
+  - reaching
+  - across
+- - end
+  - picnic
+  - unpleasantness
+- - picnic
+  - unpleasantness
+  - good
+- - properly
+  - begun
+  - because
+- - usually
+  - quite
+  - edible
+- - pastes
+  - usually
+  - quite
+- - great
+  - moral
+  - purpose
+- - maelstrom
+  - stepped
+  - old
+- - stepped
+  - old
+  - pa
+- - fury
+  - many
+  - meadows
+- - unseemly
+  - imprecations
+  - many
+- - snacks
+  - how
+  - common
+- - picnic
+  - snacks
+  - how
+- - those
+  - early
+  - promotional
+- - milk
+  - sludge
+  - many
+- - between
+  - two
+  - slices
+- - clunky
+  - slogans
+  - such
+- - town
+  - old
+  - pa
+- - even
+  - properly
+  - begun
+- - dainty
+  - hands
+  - over
+- - past
+  - our
+  - pastes
+- - more
+  - unwarranted
+  - tweaking
+- - pointy
+  - town
+  - old
+- - some
+  - cases
+  - swooned
+- - idyllic
+  - picnic
+  - has
+- - their
+  - clunky
+  - slogans
+- - venting
+  - their
+  - fury
+- - their
+  - teeth
+  - venting
+- - teeth
+  - venting
+  - their
 story:
   date: 2008-09-29
   id: 2008-09-29-an-advertisement-for-chumpots
@@ -77,4 +173,4 @@ story:
     \ that still bears his name has continued to manufacture exciting and toothsome\
     \ pastes, usually quite edible, for use at picnics. We are proud to do so."
   title: An Advertisement For Chumpot's
-word_count: 387
+word_count: 383

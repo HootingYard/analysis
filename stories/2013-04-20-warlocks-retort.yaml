@@ -1,19 +1,19 @@
 ngrams:
-- - callest
-  - trousers
-  - pants
 - - occasional
   - prolonged
   - retention
-- - thou
-  - callest
-  - trousers
+- - butler's
+  - poem
+  - psalm
+- - samuel
+  - butler's
+  - poem
 - - trousers
   - pants
   - whereas
-- - owls
-  - thou
-  - callest
+- - harley
+  - street
+  - doctor's
 - - composer
   - peter
   - warlock
@@ -26,12 +26,27 @@ ngrams:
 - - prolonged
   - retention
   - according
-- - harley
-  - street
-  - doctor
+- - street
+  - doctor's
+  - report
 - - therefore
   - thou
   - art
+- - lord
+  - pity
+  - thee
+- - peter
+  - warlock
+  - real
+- - seemingly
+  - fit
+  - young
+- - military
+  - service
+  - during
+- - name
+  - philip
+  - heseltine
 story:
   date: 2013-04-20
   id: 2013-04-20-warlocks-retort
@@ -48,4 +63,4 @@ story:
     \ whereas I call them \u2018trousers\u2019,\n  Therefore thou art in hell-fire,\
     \ and may the Lord pity thee!\n"
   title: Warlock's Retort
-word_count: 135
+word_count: 131

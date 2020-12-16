@@ -1,7 +1,4 @@
 ngrams:
-- - gallipoli
-  - alongside
-  - tens
 - - gnat
   - ah
   - god
@@ -23,6 +20,24 @@ ngrams:
 - - would
   - almost
   - certainly
+- - got
+  - there
+  - however
+- - almost
+  - certainly
+  - have
+- - war
+  - not
+  - quite
+- - world
+  - war
+  - not
+- - have
+  - been
+  - slaughtered
+- - been
+  - slaughtered
+  - at
 story:
   date: 2010-06-02
   id: 2010-06-02-brookes-gnat
@@ -34,4 +49,4 @@ story:
     \ at Gallipoli alongside tens of thousands of others. Before he got there, however,\
     \ he was bitten on the lip by a gnat, and died of blood poisoning."
   title: Brooke's Gnat
-word_count: 105
+word_count: 104

@@ -1,19 +1,28 @@
 ngrams:
-- - brose
-  - juliana
-  - mcgovern
-- - juliana
-  - mcgovern
-  - dupre
-- - mcgovern
-  - dupre
-  - wendy
-- - dupre
-  - wendy
-  - tocher
-- - wendy
-  - tocher
-  - kohler
+- - dickinson
+  - homestead
+  - nancy
+- - homestead
+  - nancy
+  - harris
+- - wentworth
+  - higginson
+  - reported
+- - emily
+  - dickinson
+  - profile
+- - puddings
+  - emily's
+  - correspondent
+- - thomas
+  - wentworth
+  - higginson
+- - critic
+  - thomas
+  - wentworth
+- - poet
+  - told
+  - him
 story:
   date: 2011-11-20
   id: 2011-11-20-the-necessity-of-puddings
@@ -25,4 +34,4 @@ story:
     \ Dupre, Wendy Tocher Kohler, and the Resident-Curator, Jean McClure Mudge (Amherst,\
     \ 1976)"
   title: The Necessity Of Puddings
-word_count: 69
+word_count: 68

@@ -1,13 +1,4 @@
 ngrams:
-- - kelly
-  - le
-  - cornu
-- - pointytown
-  - com
-  - ca
-- - johnny
-  - osikomiwasa
-  - proud
 - - promised
   - web
   - presence
@@ -16,7 +7,7 @@ ngrams:
   - driver
 - - fictional
   - character
-  - isn
+  - isn't
 - - town
   - hugs
   - kelly
@@ -35,15 +26,102 @@ ngrams:
 - - pointy
   - town
   - hi
-- - putting
-  - pointy
-  - town
 - - most
   - assiduous
   - reader
-- - character
-  - isn
-  - t
+- - putting
+  - pointy
+  - town
+- - pointy
+  - town
+  - news
+- - yukon
+  - territory
+  - here
+- - hugs
+  - kelly
+  - very
+- - promoting
+  - well
+  - actually
+- - kelly
+  - very
+  - tired
+- - real
+  - pointy
+  - town
+- - comments
+  - appended
+  - here
+- - yard
+  - gone
+  - mad
+- - yard
+  - today
+  - news
+- - assiduous
+  - reader
+  - might
+- - now
+  - kelly
+  - le
+- - reader
+  - might
+  - miss
+- - buried
+  - gem
+  - like
+- - watch
+  - now
+  - kelly
+- - news
+  - much
+  - pointy
+- - more
+  - prominent
+  - airing
+- - fire
+  - watch
+  - now
+- - hooting
+  - yard
+  - gone
+- - much
+  - pointy
+  - town
+- - hooting
+  - yard
+  - today
+- - our
+  - pointy
+  - town
+- - am
+  - looking
+  - forward
+- - some
+  - wag
+  - put
+- - it's
+  - like
+  - hooting
+- - your
+  - attention
+  - occasionally
+- - pointy
+  - town
+  - has
+- - day
+  - it's
+  - like
+- - other
+  - day
+  - it's
+- - has
+  - just
+  - elected
+- - like
+  - hooting
+  - yard
 story:
   date: 2007-03-06
   id: 2007-03-06-pointy-town-news
@@ -71,4 +149,4 @@ story:
     \ anyone would like to start planning an outing, let me know. As some wag put\
     \ it the other day, \u201Cit's like Hooting Yard gone mad!\u201D"
   title: Pointy Town News
-word_count: 334
+word_count: 330

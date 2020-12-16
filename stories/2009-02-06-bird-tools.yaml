@@ -1,16 +1,4 @@
 ngrams:
-- - rotors
-  - buzzard
-  - extractors
-- - tern
-  - rotors
-  - buzzard
-- - tacks
-  - flamingo
-  - hasps
-- - flamingo
-  - hasps
-  - grebe
 - - basins
   - coot
   - clips
@@ -20,9 +8,6 @@ ngrams:
 - - bunting
   - tacks
   - flamingo
-- - hasps
-  - grebe
-  - locks
 - - coot
   - clips
   - teal
@@ -38,6 +23,42 @@ ngrams:
 - - credit
   - crunchy
   - mongers
+- - lapwing
+  - nozzles
+  - lark
+- - wit
+  - guillemot
+  - bolts
+- - corncrake
+  - hinges
+  - raven
+- - horns
+  - corncrake
+  - hinges
+- - pins
+  - bittern
+  - jacks
+- - hinges
+  - raven
+  - sticks
+- - clips
+  - teal
+  - pins
+- - teal
+  - pins
+  - bittern
+- - bittern
+  - jacks
+  - snow
+- - jacks
+  - snow
+  - bunting
+- - snow
+  - bunting
+  - tacks
+- - avian
+  - cousins
+  - things
 story:
   date: 2009-02-06
   id: 2009-02-06-bird-tools

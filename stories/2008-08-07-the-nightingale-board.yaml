@@ -1,16 +1,4 @@
 ngrams:
-- - rev
-  - lowland
-  - stammerer
-- - lowland
-  - stammerer
-  - intriguingly
-- - perky-uppy
-  - expectorant
-  - fluid
-- - arthur
-  - pearson
-  - ltd
 - - digging
   - aimless
   - lolloping
@@ -26,24 +14,141 @@ ngrams:
 - - c
   - arthur
   - pearson
-- - roland
-  - clare
-  - drawing
 - - paid
   - companion
   - husbands
-- - waldemar
-  - leverton
-  - published
-- - mrs
-  - waldemar
-  - leverton
-- - mrs
-  - waldemar
-  - leverton
 - - husbands
   - voodoo
   - pigs
+- - nightingale
+  - board
+  - elsewhere
+- - ditch
+  - digging
+  - aimless
+- - husbandry
+  - ditch
+  - digging
+- - splendid
+  - passage
+  - instructing
+- - wingspans
+  - song
+  - variations
+- - hummingbird
+  - board
+  - alas
+- - toy
+  - owl
+  - construction
+- - equally
+  - tireless
+  - band
+- - patterns
+  - wingspans
+  - song
+- - owl
+  - construction
+  - according
+- - voodoo
+  - pig
+  - husbandry
+- - voodoo
+  - pig
+  - husbandry
+- - nightingale
+  - board
+  - call
+- - different
+  - nightingale
+  - board
+- - completely
+  - different
+  - nightingale
+- - entitled
+  - small
+  - homes
+- - pig
+  - husbandry
+  - ditch
+- - verve
+  - having
+  - farmed
+- - words
+  - nightingale
+  - board
+- - hummingbird
+  - board
+  - though
+- - nightingale
+  - board
+  - mr
+- - yard
+  - reader
+  - roland
+- - fact
+  - set
+  - aside
+- - paid
+  - companion
+  - made
+- - expectorant
+  - fluid
+  - after
+- - fluid
+  - after
+  - vomiting
+- - first
+  - nightingale
+  - board
+- - book
+  - entitled
+  - small
+- - postponed
+  - yet
+  - again
+- - great
+  - diligence
+  - mr
+- - other
+  - nightingale
+  - board
+- - hooting
+  - yard
+  - reader
+- - devote
+  - valuable
+  - time
+- - very
+  - first
+  - nightingale
+- - who
+  - devote
+  - valuable
+- - eminent
+  - persons
+  - who
+- - persons
+  - who
+  - devote
+- - populations
+  - their
+  - habitats
+- - nightingale
+  - populations
+  - their
+- - persons
+  - who
+  - count
+- - their
+  - habitats
+  - flight
+- - bash
+  - out
+  - thousands
+- - having
+  - farmed
+  - out
 story:
   date: 2008-08-07
   id: 2008-08-07-the-nightingale-board
@@ -80,4 +185,4 @@ story:
     \ I must lollop aimlessly now, in despair, while my paid companion husbands voodoo\
     \ pigs and digs a ditch."
   title: The Nightingale Board
-word_count: 405
+word_count: 404

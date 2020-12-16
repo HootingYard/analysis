@@ -10,10 +10,13 @@ ngrams:
   - exercises
 - - seated
   - position
-  - wasn
+  - wasn't
 - - five
   - minutes
   - twirling
+- - position
+  - wasn't
+  - good
 - - work
   - highly
   - recommended
@@ -23,27 +26,45 @@ ngrams:
 - - once
   - discovered
   - jumping
-- - position
-  - wasn
-  - t
+- - wasn't
+  - good
+  - enough
 - - wall
   - most
   - amusing
 - - every
   - second
   - hour
-- - labours
-  - after
-  - protracted
-- - philosophical
-  - labours
-  - after
 - - after
   - protracted
   - studies
-- - wasn
-  - t
-  - good
+- - curious
+  - dabbling
+  - over
+- - most
+  - amusing
+  - perhaps
+- - hooting
+  - yard
+  - readers
+- - fight
+  - each
+  - other
+- - spinoza
+  - would
+  - unbend
+- - studies
+  - spinoza
+  - would
+- - which
+  - baruch
+  - spinoza
+- - who
+  - could
+  - reach
+- - try
+  - who
+  - could
 story:
   date: 2011-09-23
   id: 2011-09-23-curious-dabbling
@@ -62,4 +83,4 @@ story:
     \ fight each other; he observed their combats with so much interest, that he was\
     \ often seized with immoderate fits of laughter."
   title: Curious Dabbling
-word_count: 181
+word_count: 180

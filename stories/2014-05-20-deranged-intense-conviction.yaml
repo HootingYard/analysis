@@ -1,31 +1,31 @@
 ngrams:
-- - dien
-  - bien
-  - phu
 - - deranged
   - intense
   - conviction
-- - conviction
-  - james
-  - delingpole
 - - intense
   - conviction
   - james
 - - throw
   - conventional
   - wisdom
+- - maybe
+  - they're
+  - right
 - - deranged
   - idea
   - pursued
 - - spectator
   - suggests
   - why
-- - suggests
-  - why
-  - game
 - - key
   - cranium
   - seems
+- - suggests
+  - why
+  - game
+- - done
+  - they'll
+  - say
 - - get
   - things
   - done
@@ -35,6 +35,24 @@ ngrams:
 - - cranium
   - seems
   - like
+- - proving
+  - them
+  - wrong
+- - pursue
+  - your
+  - deranged
+- - your
+  - deranged
+  - idea
+- - conventional
+  - wisdom
+  - out
+- - recent
+  - days
+  - when
+- - so
+  - unutterably
+  - fabulous
 story:
   date: 2014-05-20
   id: 2014-05-20-deranged-intense-conviction
@@ -52,4 +70,4 @@ story:
     admit, not in recent days, when the Key Cranium seems like a vast and sleepy hollow.
     I shall try to channel the Lannisters. They know how to get things done.'
   title: Deranged Intense Conviction
-word_count: 150
+word_count: 147

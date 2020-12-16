@@ -1,13 +1,19 @@
 ngrams:
-- - aguirre
-  - el
-  - loco
 - - spanish
   - conquistador
   - lope
-- - coloured
-  - hyperrealist
-  - mezzotint
+- - shows
+  - spanish
+  - conquistador
+- - lope
+  - de
+  - aguirre
+- - de
+  - aguirre
+  - el
+- - conquistador
+  - lope
+  - de
 story:
   date: 2012-12-20
   id: 2012-12-20-conquistador

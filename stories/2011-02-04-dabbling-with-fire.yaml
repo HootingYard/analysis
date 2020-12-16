@@ -11,12 +11,21 @@ ngrams:
 - - lime
   - your
   - sewing
+- - your
+  - monkey's
+  - nuts
+- - monkey's
+  - nuts
+  - your
 - - nuts
   - your
   - cargo
 - - monkey
   - your
-  - monkey
+  - monkey's
+- - so
+  - inventive
+  - salutary
 story:
   date: 2011-02-04
   id: 2011-02-04-dabbling-with-fire
@@ -27,4 +36,4 @@ story:
     \ keep a watchful eye on your monkey, your monkey's nuts, your cargo of lime,\
     \ your sewing, your rats and your ants.\n"
   title: Dabbling With Fire
-word_count: 75
+word_count: 74

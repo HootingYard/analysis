@@ -1,7 +1,4 @@
 ngrams:
-- - pussy
-  - riot
-  - trio
 - - hast
   - thou
   - forsaken
@@ -20,6 +17,21 @@ ngrams:
 - - riot
   - trio
   - god
+- - possess
+  - oh
+  - lord
+- - why
+  - hast
+  - thou
+- - lord
+  - oh
+  - lord
+- - god's
+  - punishment
+  - last
+- - lord
+  - why
+  - hast
 story:
   date: 2012-08-18
   id: 2012-08-18-gods-punishment
@@ -31,4 +43,4 @@ story:
     \ I too am being deprived of what common sense I might possess. Oh Lord, Oh Lord,\
     \ why hast Thou forsaken me?"
   title: God's Punishment
-word_count: 90
+word_count: 89

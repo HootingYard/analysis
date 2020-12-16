@@ -8,6 +8,12 @@ ngrams:
 - - monday
   - music
   - caucasian
+- - music
+  - caucasian
+  - bird
+- - teenage
+  - mr
+  - key
 story:
   date: 2017-08-28
   id: 2017-08-28-monday-music
@@ -15,4 +21,4 @@ story:
     \ The singer is Julie Tippetts, and the words are by Paul Haines, held in very\
     \ high esteem by the teenage Mr Key."
   title: Monday Music
-word_count: 34
+word_count: 33

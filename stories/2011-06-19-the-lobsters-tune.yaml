@@ -1,13 +1,4 @@
 ngrams:
-- - lovell
-  - beddoes
-  - isbrand
-- - beddoes
-  - isbrand
-  - asks
-- - gruntless
-  - fairy
-  - hog
 - - thomas
   - lovell
   - beddoes
@@ -20,6 +11,27 @@ ngrams:
 - - act
   - iii
   - scene
+- - any
+  - contemporary
+  - cover
+- - any
+  - reader
+  - point
+- - important
+  - question
+  - what
+- - tune
+  - can
+  - any
+- - can
+  - any
+  - reader
+- - reader
+  - point
+  - me
+- - right
+  - direction
+  - are
 story:
   date: 2011-06-19
   id: 2011-06-19-the-lobsters-tune
@@ -31,4 +43,4 @@ story:
     \ tune. Can any reader point me in the right direction? Are there any contemporary\
     \ cover versions?"
   title: The Lobster's Tune
-word_count: 94
+word_count: 89

@@ -1,19 +1,4 @@
 ngrams:
-- - classic
-  - oulipoesque
-  - keyiana
-- - rer
-  - megacorp
-  - catalogue
-- - legendary
-  - rer
-  - quarterlies
-- - rer
-  - quarterlies
-  - incidentally
-- - quarterlies
-  - incidentally
-  - besotted
 - - incidentally
   - besotted
   - devotees
@@ -23,18 +8,51 @@ ngrams:
 - - malice
   - aforethought
   - press
+- - maison
+  - de
+  - t
 - - booklet
   - originally
   - published
-- - r
-  - benthine
-  - earlier
 - - la
   - maison
   - de
+- - de
+  - t
+  - r
 - - 'true'
   - rarity
   - nigh
+- - mr
+  - cutler's
+  - emporium
+- - send
+  - mr
+  - cutler
+- - besotted
+  - devotees
+  - may
+- - copies
+  - available
+  - may
+- - devotees
+  - may
+  - wish
+- - cutler's
+  - emporium
+  - has
+- - cutler
+  - your
+  - monies
+- - your
+  - heaving
+  - bosom
+- - available
+  - here
+  - then
+- - place
+  - your
+  - order
 story:
   date: 2011-04-27
   id: 2011-04-27-la-maison-de-terebenthine
@@ -50,4 +68,4 @@ story:
     \ bosom a true rarity, nigh on a quarter of a century old. I suggest you hie hence\
     \ and place your order and send Mr Cutler your monies."
   title: "La Maison De T\xE9r\xE9benthine"
-word_count: 146
+word_count: 145

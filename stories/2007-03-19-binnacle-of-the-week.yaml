@@ -1,13 +1,19 @@
 ngrams:
-- - week
-  - s
-  - binnacle
 - - this
-  - week
-  - s
+  - week's
+  - binnacle
 - - week
   - here
   - is
+- - is
+  - this
+  - week's
+- - here
+  - is
+  - this
+- - the
+  - week
+  - here
 story:
   date: 2007-03-19
   id: 2007-03-19-binnacle-of-the-week
@@ -15,4 +21,4 @@ story:
 
     '
   title: Binnacle Of The Week
-word_count: 10
+word_count: 9

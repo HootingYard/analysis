@@ -1,37 +1,28 @@
 ngrams:
-- - sludge-banks
-  - hi
-  - ho
 - - hi
   - ho
   - hi
 - - hi
   - ho
   - hi
-- - drank
-  - copious
-  - draughts
 - - ho
   - hi
   - ho
 - - ho
   - hi
   - ho
-- - flown
-  - thwack
-  - straight
 - - vast
   - lake
   - bordering
 - - song
   - hi
   - ho
+- - hi
+  - ho
+  - it's
 - - diminutive
   - persuasion
   - instead
-- - duck
-  - d
-  - -d
 - - work
   - song
   - hi
@@ -44,6 +35,108 @@ ngrams:
 - - resuming
   - our
   - lyrical
+- - ho
+  - it's
+  - 'off'
+- - jaunty
+  - song
+  - much
+- - us
+  - little
+  - folk
+- - our
+  - work
+  - song
+- - before
+  - resuming
+  - our
+- - only
+  - too
+  - well
+- - seven
+  - dwarves
+  - when
+- - know
+  - only
+  - too
+- - fiends
+  - we
+  - witnessed
+- - we
+  - smoked
+  - pipes
+- - legal
+  - fiends
+  - we
+- - tune
+  - we
+  - borrowed
+- - any
+  - who
+  - pirate
+- - verse
+  - we
+  - danced
+- - woods
+  - we
+  - smoked
+- - persuasion
+  - instead
+  - we
+- - we
+  - collaborated
+  - during
+- - instead
+  - we
+  - sing
+- - we
+  - shall
+  - wreak
+- - words
+  - we
+  - collaborated
+- - we
+  - danced
+  - around
+- - say
+  - we
+  - hopped
+- - would
+  - suit
+  - us
+- - work
+  - we
+  - go
+- - go
+  - we
+  - work
+- - rather
+  - say
+  - we
+- - second
+  - we
+  - know
+- - so
+  - despite
+  - our
+- - work
+  - first
+  - we
+- - we
+  - go
+  - 'off'
+- - estuary
+  - we
+  - do
+- - other
+  - insects
+  - which
+- - duplicate
+  - or
+  - cause
+- - copy
+  - or
+  - duplicate
 story:
   date: 2009-03-14
   id: 2009-03-14-the-sludge-banks
@@ -74,4 +167,4 @@ story:
     \ or copy or duplicate or cause to be babbled or you-know-what the words of our\
     \ work song. Hi ho, hi ho."
   title: The Sludge-Banks
-word_count: 371
+word_count: 368

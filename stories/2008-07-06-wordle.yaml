@@ -1,19 +1,19 @@
 ngrams:
-- - didn
-  - t
-  - seem
+- - see
+  - it's
+  - based
 - - yard
   - entries
   - rather
 - - hooting
   - yard
   - entries
-- - most
-  - recent
-  - hooting
 - - recent
   - hooting
   - yard
+- - most
+  - recent
+  - hooting
 - - entries
   - rather
   - than
@@ -26,12 +26,27 @@ ngrams:
 - - rather
   - than
   - just
+- - can
+  - see
+  - it's
+- - if
+  - it's
+  - possible
 - - n
   - b
   - there
 - - than
   - just
   - some
+- - tell
+  - me
+  - how
+- - rather
+  - than
+  - all
+- - second
+  - one
+  - here
 story:
   date: 2008-07-06
   id: 2008-07-06-wordle
@@ -45,4 +60,4 @@ story:
     \ to do a Wordle of all of Hooting Yard, rather than just some of it.\nN.B.\u2014\
     There is a second one here."
   title: Wordle
-word_count: 134
+word_count: 131

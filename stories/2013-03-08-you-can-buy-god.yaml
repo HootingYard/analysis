@@ -1,8 +1,26 @@
-date: 2013-03-08
-id: 2013-03-08-you-can-buy-god
-text: "In the song \u201CJoe The Lion\u201D on his \u2018Heroes\u2019 album, David\
-  \ Bowie tells us that \u201CYou can buy God\u201D. I had always thought he was spouting\
-  \ twaddle, and pernicious twaddle at that, until I saw, in a New York shop window,\
-  \ the baby Jesus for sale, with a price tag tied to his elbow. Alas, the shop was\
-  \ shut, and I was unable to make purchase.\n"
-title: You Can Buy God
+ngrams:
+- - price
+  - tag
+  - tied
+- - album
+  - david
+  - bowie
+- - heroes
+  - album
+  - david
+- - david
+  - bowie
+  - tells
+- - york
+  - shop
+  - window
+story:
+  date: 2013-03-08
+  id: 2013-03-08-you-can-buy-god
+  text: "In the song \u201CJoe The Lion\u201D on his \u2018Heroes\u2019 album, David\
+    \ Bowie tells us that \u201CYou can buy God\u201D. I had always thought he was\
+    \ spouting twaddle, and pernicious twaddle at that, until I saw, in a New York\
+    \ shop window, the baby Jesus for sale, with a price tag tied to his elbow. Alas,\
+    \ the shop was shut, and I was unable to make purchase.\n"
+  title: You Can Buy God
+word_count: 70

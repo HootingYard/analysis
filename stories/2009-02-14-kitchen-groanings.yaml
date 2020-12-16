@@ -1,15 +1,54 @@
-date: 2009-02-14
-id: 2009-02-14-kitchen-groanings
-text: "\u201CKitchen Groanings addressed to the Parlour\_: a pamphlet so called, published\
-  \ fifty years ago. It is the spirited remonstrance of some angry cook-wench, or\
-  \ discontented housemaid, against lazy footmen with their ruffles, their canes,\
-  \ their bags, and powdered heads, who run away with the pecuniary perquisites, or,\
-  \ as they were at that period called, vails, without having their due proportion\
-  \ of the hard work of the house. This publication is said to have been actually\
-  \ produced by one of the sisterhood, whose cause it pleads; and, considering the\
-  \ quarter from whence it issued, is not badly written.\u201D\nFrom Anecdotiana;\
-  \ or, A Library of Anecdote. Facts and Opinions, Historical, Biographical, Critical\
-  \ &c. Collected and Recorded by An Eminent Literary Character (I. J. Chidley, London\
-  \ 1841)\nI am not quite sure, but I think Dobson may have produced a Kitchen Groanings\
-  \ pamphlet of his own."
-title: Kitchen Groanings
+ngrams:
+- - opinions
+  - historical
+  - biographical
+- - historical
+  - biographical
+  - critical
+- - groanings
+  - kitchen
+  - groanings
+- - biographical
+  - critical
+  - c
+- - kitchen
+  - groanings
+  - addressed
+- - j
+  - chidley
+  - london
+- - critical
+  - c
+  - collected
+- - kitchen
+  - groanings
+  - kitchen
+- - eminent
+  - literary
+  - character
+- - discontented
+  - housemaid
+  - against
+- - housemaid
+  - against
+  - lazy
+- - against
+  - lazy
+  - footmen
+story:
+  date: 2009-02-14
+  id: 2009-02-14-kitchen-groanings
+  text: "\u201CKitchen Groanings addressed to the Parlour\_: a pamphlet so called,\
+    \ published fifty years ago. It is the spirited remonstrance of some angry cook-wench,\
+    \ or discontented housemaid, against lazy footmen with their ruffles, their canes,\
+    \ their bags, and powdered heads, who run away with the pecuniary perquisites,\
+    \ or, as they were at that period called, vails, without having their due proportion\
+    \ of the hard work of the house. This publication is said to have been actually\
+    \ produced by one of the sisterhood, whose cause it pleads; and, considering the\
+    \ quarter from whence it issued, is not badly written.\u201D\nFrom Anecdotiana;\
+    \ or, A Library of Anecdote. Facts and Opinions, Historical, Biographical, Critical\
+    \ &c. Collected and Recorded by An Eminent Literary Character (I. J. Chidley,\
+    \ London 1841)\nI am not quite sure, but I think Dobson may have produced a Kitchen\
+    \ Groanings pamphlet of his own."
+  title: Kitchen Groanings
+word_count: 144

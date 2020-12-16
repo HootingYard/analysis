@@ -1,12 +1,30 @@
-date: 2015-04-06
-id: 2015-04-06-tender-buttons
-text: 'The other day I mentioned Gertrude Stein''s Tender Buttons. I feel it only
-  right that you should be told Tender Buttons is also the name of a magnificent button
-  shop in New York City. Last year it celebrated its fiftieth anniversary. Should
-  you find yourself in that fair city I wholeheartedly recommend you pay it a visit
-  and buy some buttons. I did.
+ngrams:
+- - mentioned
+  - gertrude
+  - stein
+- - magnificent
+  - button
+  - shop
+- - told
+  - tender
+  - buttons
+- - fiftieth
+  - anniversary
+  - should
+- - york
+  - city
+  - last
+story:
+  date: 2015-04-06
+  id: 2015-04-06-tender-buttons
+  text: 'The other day I mentioned Gertrude Stein''s Tender Buttons. I feel it only
+    right that you should be told Tender Buttons is also the name of a magnificent
+    button shop in New York City. Last year it celebrated its fiftieth anniversary.
+    Should you find yourself in that fair city I wholeheartedly recommend you pay
+    it a visit and buy some buttons. I did.
 
 
 
-  '
-title: Tender Buttons
+    '
+  title: Tender Buttons
+word_count: 66

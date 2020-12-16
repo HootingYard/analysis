@@ -1,10 +1,31 @@
-date: 2009-11-20
-id: 2009-11-20-reproachful-n-splotchy
-text: 'A spur to completing the cryptic crossword in the paper each day is the knowledge
-  that the solutions may provide inspiration for a piece of prose. Today, for example,
-  having cracked the Guardian Crossword No. 24,862 set by Brummie, I find myself considering
-  if any useful embroidery can be done with this:
+ngrams:
+- - reproachful
+  - spinster
+  - clambered
+- - supine
+  - organism
+  - watched
+- - example
+  - having
+  - cracked
+- - find
+  - myself
+  - considering
+- - any
+  - useful
+  - embroidery
+- - solutions
+  - may
+  - provide
+story:
+  date: 2009-11-20
+  id: 2009-11-20-reproachful-n-splotchy
+  text: 'A spur to completing the cryptic crossword in the paper each day is the knowledge
+    that the solutions may provide inspiration for a piece of prose. Today, for example,
+    having cracked the Guardian Crossword No. 24,862 set by Brummie, I find myself
+    considering if any useful embroidery can be done with this:
 
-  In Dartmouth, against a background of shamanic doo-wop, a supine organism watched
-  as Splotchy Astrid, the reproachful spinster, clambered up the wall of a marl-pit.'
-title: Reproachful & Splotchy
+    In Dartmouth, against a background of shamanic doo-wop, a supine organism watched
+    as Splotchy Astrid, the reproachful spinster, clambered up the wall of a marl-pit.'
+  title: Reproachful & Splotchy
+word_count: 78

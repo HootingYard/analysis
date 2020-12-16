@@ -1,7 +1,19 @@
-date: 2010-06-30
-id: 2010-06-30-gruel
-text: "Reader Mike Jennings, usually in exile in a pompous land, is sojourning in\
-  \ Dublin, from where he sends this splendid holiday snap. There is something infinitely\
-  \ pleasing about a sign lit by neon gas advertising that most toothsome of delicacies\u2026\
-  \ gruel!\n"
-title: Gruel!
+ngrams:
+- - neon
+  - gas
+  - advertising
+- - mike
+  - jennings
+  - usually
+- - reader
+  - mike
+  - jennings
+story:
+  date: 2010-06-30
+  id: 2010-06-30-gruel
+  text: "Reader Mike Jennings, usually in exile in a pompous land, is sojourning in\
+    \ Dublin, from where he sends this splendid holiday snap. There is something infinitely\
+    \ pleasing about a sign lit by neon gas advertising that most toothsome of delicacies\u2026\
+    \ gruel!\n"
+  title: Gruel!
+word_count: 42

@@ -1,7 +1,19 @@
-date: 2017-12-15
-id: 2017-12-15-dobson-on-googie
-text: 'An important out of print Dobson pamphlet, with a cover design by Marigold
-  Chew Daniel Tomasch.
+ngrams:
+- - chew
+  - daniel
+  - tomasch
+- - marigold
+  - chew
+  - daniel
+- - print
+  - dobson
+  - pamphlet
+story:
+  date: 2017-12-15
+  id: 2017-12-15-dobson-on-googie
+  text: 'An important out of print Dobson pamphlet, with a cover design by Marigold
+    Chew Daniel Tomasch.
 
-  '
-title: Dobson On Googie
+    '
+  title: Dobson On Googie
+word_count: 19

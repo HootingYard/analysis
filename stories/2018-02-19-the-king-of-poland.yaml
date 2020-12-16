@@ -1,4 +1,13 @@
-date: 2018-02-19
-id: 2018-02-19-the-king-of-poland
-text: ''
-title: The King Of Poland
+ngrams:
+- - king
+  - of
+  - poland
+- - the
+  - king
+  - of
+story:
+  date: 2018-02-19
+  id: 2018-02-19-the-king-of-poland
+  text: ''
+  title: The King Of Poland
+word_count: 4

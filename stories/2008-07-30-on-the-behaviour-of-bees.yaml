@@ -1,5 +1,17 @@
-date: 2008-07-30
-id: 2008-07-30-on-the-behaviour-of-bees
-text: "\u201CThere are differences in the ways serial killers and bees behave, obviously.\u201D\
-  \u2014Dr Nigel Rayne, bee-and-serial-killer expert, on Radio 4 this morning."
-title: On The Behaviour Of Bees
+ngrams:
+- - nigel
+  - rayne
+  - bee-and-serial-killer
+- - rayne
+  - bee-and-serial-killer
+  - expert
+- - ways
+  - serial
+  - killers
+story:
+  date: 2008-07-30
+  id: 2008-07-30-on-the-behaviour-of-bees
+  text: "\u201CThere are differences in the ways serial killers and bees behave, obviously.\u201D\
+    \u2014Dr Nigel Rayne, bee-and-serial-killer expert, on Radio 4 this morning."
+  title: On The Behaviour Of Bees
+word_count: 26

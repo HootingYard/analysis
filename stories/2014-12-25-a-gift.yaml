@@ -1,10 +1,25 @@
-date: 2014-12-25
-id: 2014-12-25-a-gift
-text: 'Although it is not compulsory (yet) for devoted readers to shower Mr Key with
-  gifts, it is certainly advisable. I was very pleased to find this lapel accoutrement
-  in my Christmas sock, and would encourage all of you to spend the best part of 2015
-  considering carefully how you might demonstrate your fealty next time Yuletide comes
-  around.
+ngrams:
+- - yuletide
+  - comes
+  - around
+- - considering
+  - carefully
+  - how
+- - shower
+  - mr
+  - key
+- - time
+  - yuletide
+  - comes
+story:
+  date: 2014-12-25
+  id: 2014-12-25-a-gift
+  text: 'Although it is not compulsory (yet) for devoted readers to shower Mr Key
+    with gifts, it is certainly advisable. I was very pleased to find this lapel accoutrement
+    in my Christmas sock, and would encourage all of you to spend the best part of
+    2015 considering carefully how you might demonstrate your fealty next time Yuletide
+    comes around.
 
-  '
-title: A Gift
+    '
+  title: A Gift
+word_count: 59

@@ -1,6 +1,18 @@
-date: 2013-06-16
-id: 2013-06-16-eric-the-finicky-cat
-text: "Thanks to OutaSpaceman for alerting me to this old magazine advert. Clearly\
-  \ the world o\u2019 catfood advertising has been deprived of Brian's presence for\
-  \ far too long. He really ought to get back to doing what he does best.\n"
-title: Eric, The Finicky Cat
+ngrams:
+- - finicky
+  - cat
+  - thanks
+- - magazine
+  - advert
+  - clearly
+- - o
+  - catfood
+  - advertising
+story:
+  date: 2013-06-16
+  id: 2013-06-16-eric-the-finicky-cat
+  text: "Thanks to OutaSpaceman for alerting me to this old magazine advert. Clearly\
+    \ the world o\u2019 catfood advertising has been deprived of Brian's presence\
+    \ for far too long. He really ought to get back to doing what he does best.\n"
+  title: Eric, The Finicky Cat
+word_count: 44

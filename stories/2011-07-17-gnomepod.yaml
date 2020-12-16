@@ -1,6 +1,18 @@
-date: 2011-07-17
-id: 2011-07-17-gnomepod
-text: 'A Note On Gnomes
+ngrams:
+- - note
+  - 'on'
+  - gnomes
+- - gnomepod
+  - a
+  - note
+- - a
+  - note
+  - 'on'
+story:
+  date: 2011-07-17
+  id: 2011-07-17-gnomepod
+  text: 'A Note On Gnomes
 
-  '
-title: Gnomepod
+    '
+  title: Gnomepod
+word_count: 5

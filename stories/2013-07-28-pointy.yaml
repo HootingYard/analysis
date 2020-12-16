@@ -1,8 +1,20 @@
-date: 2013-07-28
-id: 2013-07-28-pointy
-text: 'The bestselling item in the Pointy Town Toyshop. The only item in the Pointy
-  Town Toyshop.
+ngrams:
+- - town
+  - toyshop
+  - thanks
+- - pointy
+  - town
+  - toyshop
+- - pointy
+  - town
+  - toyshop
+story:
+  date: 2013-07-28
+  id: 2013-07-28-pointy
+  text: 'The bestselling item in the Pointy Town Toyshop. The only item in the Pointy
+    Town Toyshop.
 
 
-  Thanks to OutaSpaceman.'
-title: Pointy
+    Thanks to OutaSpaceman.'
+  title: Pointy
+word_count: 20

@@ -1,8 +1,20 @@
-date: 2012-07-29
-id: 2012-07-29-mesmerism
-text: 'As we know, Gerard Manley Hopkins mesmerised a duck. However, he may have practised
-  beforehand, like this little chap:
+ngrams:
+- - manley
+  - hopkins
+  - mesmerised
+- - gerard
+  - manley
+  - hopkins
+- - know
+  - gerard
+  - manley
+story:
+  date: 2012-07-29
+  id: 2012-07-29-mesmerism
+  text: 'As we know, Gerard Manley Hopkins mesmerised a duck. However, he may have
+    practised beforehand, like this little chap:
 
 
-  from Elsie Schrotthaufen'
-title: Mesmerism
+    from Elsie Schrotthaufen'
+  title: Mesmerism
+word_count: 23

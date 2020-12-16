@@ -1,9 +1,24 @@
-date: 2010-02-09
-id: 2010-02-09-hens-o-feb
-text: 'In 1946, Jorge Luis Borges was appointed as poultry inspector for the Buenos
-  Aires municipal market. He resigned immediately. Thus it was J W Gwin, rather than
-  Borges, who went on to write Experiences Of A Poultry Literature Collector.
+ngrams:
+- - jorge
+  - luis
+  - borges
+- - buenos
+  - aires
+  - municipal
+- - j
+  - w
+  - gwin
+- - aires
+  - municipal
+  - market
+story:
+  date: 2010-02-09
+  id: 2010-02-09-hens-o-feb
+  text: 'In 1946, Jorge Luis Borges was appointed as poultry inspector for the Buenos
+    Aires municipal market. He resigned immediately. Thus it was J W Gwin, rather
+    than Borges, who went on to write Experiences Of A Poultry Literature Collector.
 
 
-  Thanks to My Ear-Trumpet Has Been Struck By Lightning for illustrative matter.'
-title: "Hens O\u2019 Feb"
+    Thanks to My Ear-Trumpet Has Been Struck By Lightning for illustrative matter.'
+  title: "Hens O\u2019 Feb"
+word_count: 53

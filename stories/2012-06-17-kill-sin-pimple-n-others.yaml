@@ -1,10 +1,35 @@
-date: 2012-06-17
-id: 2012-06-17-kill-sin-pimple-n-others
-text: "A splendid postage over at Ptak Science Books gives us some compelling seventeenth-century\
-  \ religious nicknames.\n\u201CChrist Came Into the World to Save\u201D Barebone\n\
-  Accepted Trevor, of Norsham\nRedeemed Compton, of Battle\nFaint Not Hewit, of Hearthfield\n\
-  Make Peace Heaton of Hare\nGod Reward Smart, of Firehurst\nEarth Adams, of Warbleton\n\
-  Called Lower of Warbleton\nKill Sin Pimple, of Witham\nReturn Spelman, of Watling\n\
-  Fly Debate Roberts, of Britling\nBe Faithful Joiner, of Britling\nMore Fruit Fowler,\
-  \ of East Hadley\nWeep Not Billing, of Lewes\nMeek Brewer, of Okeham"
-title: Kill Sin Pimple & Others
+ngrams:
+- - norsham
+  - redeemed
+  - compton
+- - lewes
+  - meek
+  - brewer
+- - barebone
+  - accepted
+  - trevor
+- - seventeenth-century
+  - religious
+  - nicknames
+- - warbleton
+  - kill
+  - sin
+- - kill
+  - sin
+  - pimple
+- - compelling
+  - seventeenth-century
+  - religious
+story:
+  date: 2012-06-17
+  id: 2012-06-17-kill-sin-pimple-n-others
+  text: "A splendid postage over at Ptak Science Books gives us some compelling seventeenth-century\
+    \ religious nicknames.\n\u201CChrist Came Into the World to Save\u201D Barebone\n\
+    Accepted Trevor, of Norsham\nRedeemed Compton, of Battle\nFaint Not Hewit, of\
+    \ Hearthfield\nMake Peace Heaton of Hare\nGod Reward Smart, of Firehurst\nEarth\
+    \ Adams, of Warbleton\nCalled Lower of Warbleton\nKill Sin Pimple, of Witham\n\
+    Return Spelman, of Watling\nFly Debate Roberts, of Britling\nBe Faithful Joiner,\
+    \ of Britling\nMore Fruit Fowler, of East Hadley\nWeep Not Billing, of Lewes\n\
+    Meek Brewer, of Okeham"
+  title: Kill Sin Pimple & Others
+word_count: 92

@@ -1,7 +1,19 @@
-date: 2014-02-16
-id: 2014-02-16-toy-nun
-text: 'I want one of these. A toy nun fashioned from a clothespeg by the elderly father
-  of Gregory Vincent St Thomasino, Brooklyn poet and Jubilate Agno enthusiast.
+ngrams:
+- - jubilate
+  - agno
+  - enthusiast
+- - thomasino
+  - brooklyn
+  - poet
+- - toy
+  - nun
+  - fashioned
+story:
+  date: 2014-02-16
+  id: 2014-02-16-toy-nun
+  text: 'I want one of these. A toy nun fashioned from a clothespeg by the elderly
+    father of Gregory Vincent St Thomasino, Brooklyn poet and Jubilate Agno enthusiast.
 
-  '
-title: Toy Nun
+    '
+  title: Toy Nun
+word_count: 29

@@ -1,6 +1,12 @@
-date: 2011-08-11
-id: 2011-08-11-podmonkeys
-text: 'Monkey-Annoyance Expert
+ngrams:
+- - podmonkeys
+  - monkey-annoyance
+  - expert
+story:
+  date: 2011-08-11
+  id: 2011-08-11-podmonkeys
+  text: 'Monkey-Annoyance Expert
 
-  '
-title: Podmonkeys
+    '
+  title: Podmonkeys
+word_count: 3

@@ -1,8 +1,20 @@
-date: 2011-02-24
-id: 2011-02-24-arschloch
-text: 'For no particular reason, Vogel with the late Ivor Cutler. Genius at work.
+ngrams:
+- - ivor
+  - cutler
+  - genius
+- - late
+  - ivor
+  - cutler
+- - particular
+  - reason
+  - vogel
+story:
+  date: 2011-02-24
+  id: 2011-02-24-arschloch
+  text: 'For no particular reason, Vogel with the late Ivor Cutler. Genius at work.
 
-  Arschloch (click to listen)
+    Arschloch (click to listen)
 
-  '
-title: Arschloch
+    '
+  title: Arschloch
+word_count: 18

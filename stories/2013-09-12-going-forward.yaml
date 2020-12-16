@@ -1,12 +1,46 @@
-date: 2013-09-12
-id: 2013-09-12-going-forward
-text: "As far as I am aware, we have not yet mastered the art of travelling backwards\
-  \ in time. That being so, why is it that no politician, of whatever stripe, can\
-  \ open their mouth without uttering the redundant phrase \u201Cgoing forward\u201D\
-  , often repeatedly? Listen to any current affairs programme for a few minutes and\
-  \ you will hear it.\nThe only solution is for the whole sorry lot of them to have\
-  \ some kind of contraption fitted to their heads which delivers a high-voltage electro-convulsive\
-  \ shock each and every time they use the phrase. Perhaps\u2014in the future\u2014\
-  this will happen. (\u201CIn the future\u201D is an archaic term. It used to be what\
-  \ people said where they now say \u201Cgoing forward\u201D.)"
-title: Going Forward
+ngrams:
+- - high-voltage
+  - electro-convulsive
+  - shock
+- - current
+  - affairs
+  - programme
+- - whole
+  - sorry
+  - lot
+- - redundant
+  - phrase
+  - going
+- - forward
+  - often
+  - repeatedly
+- - often
+  - repeatedly
+  - listen
+- - phrase
+  - going
+  - forward
+- - electro-convulsive
+  - shock
+  - each
+- - mouth
+  - without
+  - uttering
+- - going
+  - forward
+  - often
+story:
+  date: 2013-09-12
+  id: 2013-09-12-going-forward
+  text: "As far as I am aware, we have not yet mastered the art of travelling backwards\
+    \ in time. That being so, why is it that no politician, of whatever stripe, can\
+    \ open their mouth without uttering the redundant phrase \u201Cgoing forward\u201D\
+    , often repeatedly? Listen to any current affairs programme for a few minutes\
+    \ and you will hear it.\nThe only solution is for the whole sorry lot of them\
+    \ to have some kind of contraption fitted to their heads which delivers a high-voltage\
+    \ electro-convulsive shock each and every time they use the phrase. Perhaps\u2014\
+    in the future\u2014this will happen. (\u201CIn the future\u201D is an archaic\
+    \ term. It used to be what people said where they now say \u201Cgoing forward\u201D\
+    .)"
+  title: Going Forward
+word_count: 122

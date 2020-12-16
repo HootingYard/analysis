@@ -1,6 +1,18 @@
-date: 2013-04-25
-id: 2013-04-25-the-wooden-pod
-text: 'The Wooden Lake
+ngrams:
+- - the
+  - wooden
+  - pod
+- - wooden
+  - pod
+  - the
+- - pod
+  - the
+  - wooden
+story:
+  date: 2013-04-25
+  id: 2013-04-25-the-wooden-pod
+  text: 'The Wooden Lake
 
-  '
-title: The Wooden Pod
+    '
+  title: The Wooden Pod
+word_count: 6

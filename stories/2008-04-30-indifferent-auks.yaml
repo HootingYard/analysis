@@ -1,9 +1,30 @@
-date: 2008-04-30
-id: 2008-04-30-indifferent-auks
-text: "\n\u201CAh, but look! The stricken ship has been abandoned by its crew. Their\
-  \ puddings had been over-egged and they all fell into the sea. And they were swallowed\
-  \ up each one, and fed the monsters of the deep. Now not a trace of them remains,\
-  \ except bones strewn on the ocean floor, and their stricken ship above, pecked\
-  \ at by indifferent auks.\u201D\nFrom The Contaminated Eggy Pudding Eaten By Incautious\
-  \ Sailors And Other Maritime Tragedies by Dennis Beerpint"
-title: Indifferent Auks
+ngrams:
+- - indifferent
+  - auks
+  - ah
+- - contaminated
+  - eggy
+  - pudding
+- - eggy
+  - pudding
+  - eaten
+- - except
+  - bones
+  - strewn
+- - remains
+  - except
+  - bones
+- - ship
+  - above
+  - pecked
+story:
+  date: 2008-04-30
+  id: 2008-04-30-indifferent-auks
+  text: "\n\u201CAh, but look! The stricken ship has been abandoned by its crew. Their\
+    \ puddings had been over-egged and they all fell into the sea. And they were swallowed\
+    \ up each one, and fed the monsters of the deep. Now not a trace of them remains,\
+    \ except bones strewn on the ocean floor, and their stricken ship above, pecked\
+    \ at by indifferent auks.\u201D\nFrom The Contaminated Eggy Pudding Eaten By Incautious\
+    \ Sailors And Other Maritime Tragedies by Dennis Beerpint"
+  title: Indifferent Auks
+word_count: 80

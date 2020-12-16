@@ -1,12 +1,43 @@
-date: 2010-10-26
-id: 2010-10-26-that-terrible-well
-text: "\nOne has to ask\_: did Ambrose Bierce grow up on Scroonhoonpooge Farmyard,\
-  \ or an eerily exact replica of it? \u201CThe Old Oaken Bucket\u201D\u2014published\
-  \ \_in The Wasp, 3rd November 1883\u2014begins thus:\nWith what anguish of mind\
-  \ I remember my childhood Recalled in the light of knowledge since gained, The malarious\
-  \ farm, the wet, fungus-grown wildwood, The chills then contracted that since have\
-  \ remained; The scum-covered duck pond, the pigsty close by it, The ditch where\
-  \ the sour-smelling house drainage fell, The damp, shaded dwelling, the foul barnyard\
-  \ nigh it\u2014But worse than all else was that terrible well, And the old oaken\
-  \ bucket, the mould-crusted bucket, That moss-covered bucket that hung in the well."
-title: That Terrible Well
+ngrams:
+- - eerily
+  - exact
+  - replica
+- - ambrose
+  - bierce
+  - grow
+- - damp
+  - shaded
+  - dwelling
+- - wasp
+  - rd
+  - november
+- - foul
+  - barnyard
+  - nigh
+- - rd
+  - november
+  - begins
+- - wet
+  - fungus-grown
+  - wildwood
+- - oaken
+  - bucket
+  - published
+- - scum-covered
+  - duck
+  - pond
+story:
+  date: 2010-10-26
+  id: 2010-10-26-that-terrible-well
+  text: "\nOne has to ask\_: did Ambrose Bierce grow up on Scroonhoonpooge Farmyard,\
+    \ or an eerily exact replica of it? \u201CThe Old Oaken Bucket\u201D\u2014published\
+    \ \_in The Wasp, 3rd November 1883\u2014begins thus:\nWith what anguish of mind\
+    \ I remember my childhood Recalled in the light of knowledge since gained, The\
+    \ malarious farm, the wet, fungus-grown wildwood, The chills then contracted that\
+    \ since have remained; The scum-covered duck pond, the pigsty close by it, The\
+    \ ditch where the sour-smelling house drainage fell, The damp, shaded dwelling,\
+    \ the foul barnyard nigh it\u2014But worse than all else was that terrible well,\
+    \ And the old oaken bucket, the mould-crusted bucket, That moss-covered bucket\
+    \ that hung in the well."
+  title: That Terrible Well
+word_count: 117

@@ -1,6 +1,18 @@
-date: 2018-07-13
-id: 2018-07-13-a-warning-to-cartographers
-text: "\u201CI think that the constant study of maps is apt to disturb men's reasoning\
-  \ powers.\u201D\nPrime Minister Lord Salisbury in 1890, quoted in Empire by Niall\
-  \ Ferguson (2003)"
-title: A Warning To Cartographers
+ngrams:
+- - reasoning
+  - powers
+  - prime
+- - powers
+  - prime
+  - minister
+- - minister
+  - lord
+  - salisbury
+story:
+  date: 2018-07-13
+  id: 2018-07-13-a-warning-to-cartographers
+  text: "\u201CI think that the constant study of maps is apt to disturb men's reasoning\
+    \ powers.\u201D\nPrime Minister Lord Salisbury in 1890, quoted in Empire by Niall\
+    \ Ferguson (2003)"
+  title: A Warning To Cartographers
+word_count: 31

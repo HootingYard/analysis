@@ -1,10 +1,34 @@
-date: 2018-05-17
-id: 2018-05-17-string-and-wood-and-tin
-text: 'Lonely, he made a companion of string and wood and tin, and sat her at his
-  window, as if she were looking out. And whenever he returned from tiresome jaunts,
-  she was there, framed in the window, to welcome him home.
+ngrams:
+- - immobile
+  - yet
+  - desperate
+- - go
+  - frolicking
+  - dizzily
+- - outside
+  - world
+  - immobile
+- - world
+  - immobile
+  - yet
+- - tiresome
+  - jaunts
+  - she
+- - welcome
+  - him
+  - home
+- - frolicking
+  - dizzily
+  - into
+story:
+  date: 2018-05-17
+  id: 2018-05-17-string-and-wood-and-tin
+  text: 'Lonely, he made a companion of string and wood and tin, and sat her at his
+    window, as if she were looking out. And whenever he returned from tiresome jaunts,
+    she was there, framed in the window, to welcome him home.
 
-  But when he was at home, she had her back turned to him. She was facing the outside
-  world, immobile, yet desperate to go frolicking dizzily into that world, where other
-  things of string and wood and tin were surely to be found.'
-title: String And Wood And Tin
+    But when he was at home, she had her back turned to him. She was facing the outside
+    world, immobile, yet desperate to go frolicking dizzily into that world, where
+    other things of string and wood and tin were surely to be found.'
+  title: String And Wood And Tin
+word_count: 89

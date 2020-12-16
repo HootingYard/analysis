@@ -1,7 +1,19 @@
-date: 2011-11-04
-id: 2011-11-04-savile-dabble
-text: '
+ngrams:
+- - sir
+  - jimmy
+  - savile
+- - super
+  - soaraway
+  - dabbler
+- - s
+  - super
+  - soaraway
+story:
+  date: 2011-11-04
+  id: 2011-11-04-savile-dabble
+  text: '
 
-  In today''s super soaraway Dabbler, I mark the death of Sir Jimmy Savile by fixing
-  it for readers.'
-title: Savile Dabble
+    In today''s super soaraway Dabbler, I mark the death of Sir Jimmy Savile by fixing
+    it for readers.'
+  title: Savile Dabble
+word_count: 21

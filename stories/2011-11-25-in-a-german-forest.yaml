@@ -1,18 +1,33 @@
-date: 2011-11-25
-id: 2011-11-25-in-a-german-forest
-text: 'In a German forest, sunk in gloom
+ngrams:
+- - german
+  - forest
+  - sunk
+- - german
+  - killer
+  - bees
+- - these
+  - fritzes
+  - horsts
+- - men
+  - who
+  - spell
+story:
+  date: 2011-11-25
+  id: 2011-11-25-in-a-german-forest
+  text: 'In a German forest, sunk in gloom
 
-  Surrounded by men who spell my doom
+    Surrounded by men who spell my doom
 
-  All these Fritzes, Horsts and Kurts
+    All these Fritzes, Horsts and Kurts
 
-  Explain the depth of my Weltschmerz
+    Explain the depth of my Weltschmerz
 
-  But then they all fall to their knees
+    But then they all fall to their knees
 
-  Attacked by German killer bees
+    Attacked by German killer bees
 
-  And now my spirits are surely buoyed
+    And now my spirits are surely buoyed
 
-  As I am filled with Schadenfreude'
-title: In A German Forest
+    As I am filled with Schadenfreude'
+  title: In A German Forest
+word_count: 56

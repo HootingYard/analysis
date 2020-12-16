@@ -1,4 +1,16 @@
-date: 2013-05-13
-id: 2013-05-13-musical-pig-poll
-text: '[An online poll was here. It is now closed.]'
-title: Musical Pig Poll
+ngrams:
+- - musical
+  - pig
+  - poll
+- - poll
+  - an
+  - online
+- - an
+  - online
+  - poll
+story:
+  date: 2013-05-13
+  id: 2013-05-13-musical-pig-poll
+  text: '[An online poll was here. It is now closed.]'
+  title: Musical Pig Poll
+word_count: 12

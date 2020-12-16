@@ -1,5 +1,17 @@
-date: 2008-03-27
-id: 2008-03-27-innards
-text: "\nFrom Morbid Anatomy, \u201Csurveying the interstices of art and medicine,\
-  \ death and culture\u201D."
-title: Innards
+ngrams:
+- - morbid
+  - anatomy
+  - surveying
+- - from
+  - morbid
+  - anatomy
+- - innards
+  - from
+  - morbid
+story:
+  date: 2008-03-27
+  id: 2008-03-27-innards
+  text: "\nFrom Morbid Anatomy, \u201Csurveying the interstices of art and medicine,\
+    \ death and culture\u201D."
+  title: Innards
+word_count: 14

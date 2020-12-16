@@ -1,5 +1,17 @@
-date: 2009-04-03
-id: 2009-04-03-socks-observation
-text: "\u201CAttention to and gratitude for socks is not a commonly expressed attitude.\u201D\
-  \_ \u2013 Theodore Dalrymple in the New English Review."
-title: Socks Observation
+ngrams:
+- - attitude
+  - theodore
+  - dalrymple
+- - expressed
+  - attitude
+  - theodore
+- - commonly
+  - expressed
+  - attitude
+story:
+  date: 2009-04-03
+  id: 2009-04-03-socks-observation
+  text: "\u201CAttention to and gratitude for socks is not a commonly expressed attitude.\u201D\
+    \_ \u2013 Theodore Dalrymple in the New English Review."
+  title: Socks Observation
+word_count: 21

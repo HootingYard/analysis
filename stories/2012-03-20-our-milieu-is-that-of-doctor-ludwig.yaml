@@ -1,8 +1,26 @@
-date: 2012-03-20
-id: 2012-03-20-our-milieu-is-that-of-doctor-ludwig
-text: "Last night I dreamed that I was walking in Saint Chad's Park, past a music\
-  \ rehearsal studio, within which I could hear a beat combo practising. The song\
-  \ I overheard\u2014which, in dreamland, I understood to be a Sleater-Kinney cover\
-  \ version\u2014consisted of a single line, repeated over and over again: \u201C\
-  Our milieu is that of Doctor Ludwig\u201D. Very melodious."
-title: Our Milieu Is That Of Doctor Ludwig
+ngrams:
+- - beat
+  - combo
+  - practising
+- - music
+  - rehearsal
+  - studio
+- - sleater-kinney
+  - cover
+  - version
+- - cover
+  - version
+  - consisted
+- - rehearsal
+  - studio
+  - within
+story:
+  date: 2012-03-20
+  id: 2012-03-20-our-milieu-is-that-of-doctor-ludwig
+  text: "Last night I dreamed that I was walking in Saint Chad's Park, past a music\
+    \ rehearsal studio, within which I could hear a beat combo practising. The song\
+    \ I overheard\u2014which, in dreamland, I understood to be a Sleater-Kinney cover\
+    \ version\u2014consisted of a single line, repeated over and over again: \u201C\
+    Our milieu is that of Doctor Ludwig\u201D. Very melodious."
+  title: Our Milieu Is That Of Doctor Ludwig
+word_count: 68

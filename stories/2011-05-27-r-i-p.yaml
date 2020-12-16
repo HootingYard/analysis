@@ -1,7 +1,19 @@
-date: 2011-05-27
-id: 2011-05-27-r-i-p
-text: 'Just weeks after we celebrated her 94th birthday, we mourn the passing of Leonora
-  Carrington.
+ngrams:
+- - p
+  - just
+  - weeks
+- - celebrated
+  - her
+  - th
+- - her
+  - th
+  - birthday
+story:
+  date: 2011-05-27
+  id: 2011-05-27-r-i-p
+  text: 'Just weeks after we celebrated her 94th birthday, we mourn the passing of
+    Leonora Carrington.
 
-  '
-title: R.I.P.
+    '
+  title: R.I.P.
+word_count: 18

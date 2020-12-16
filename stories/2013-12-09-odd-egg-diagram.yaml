@@ -1,6 +1,18 @@
-date: 2013-12-09
-id: 2013-12-09-odd-egg-diagram
-text: '
+ngrams:
+- - odd
+  - egg
+  - diagram
+- - egg
+  - diagram
+  - go
+- - diagram
+  - go
+  - here
+story:
+  date: 2013-12-09
+  id: 2013-12-09-odd-egg-diagram
+  text: '
 
-  Go here for enlightenment.'
-title: Odd Egg Diagram
+    Go here for enlightenment.'
+  title: Odd Egg Diagram
+word_count: 7

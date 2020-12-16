@@ -1,7 +1,19 @@
-date: 2018-01-02
-id: 2018-01-02-eeuurrgghh
-text: "The old year came to an end with me vomiting on arrival at Heathrow Airport.\
-  \ The new year, thus far, has continued in much the same vein. I am confined to\
-  \ bed, whimpering occasionally. Normal Hooting Yard service will resume when I feel\
-  \ vaguely human again \u2026"
-title: Eeuurrgghh
+ngrams:
+- - whimpering
+  - occasionally
+  - normal
+- - bed
+  - whimpering
+  - occasionally
+- - feel
+  - vaguely
+  - human
+story:
+  date: 2018-01-02
+  id: 2018-01-02-eeuurrgghh
+  text: "The old year came to an end with me vomiting on arrival at Heathrow Airport.\
+    \ The new year, thus far, has continued in much the same vein. I am confined to\
+    \ bed, whimpering occasionally. Normal Hooting Yard service will resume when I\
+    \ feel vaguely human again \u2026"
+  title: Eeuurrgghh
+word_count: 47

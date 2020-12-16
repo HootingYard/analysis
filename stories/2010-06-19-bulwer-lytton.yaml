@@ -1,5 +1,17 @@
-date: 2010-06-19
-id: 2010-06-19-bulwer-lytton
-text: "\u201CTo have read nothing by Bulwer-Lytton can give a man a solid sense of\
-  \ accomplishment.\u201D\nPeter De Vries, The Prick Of Noon (1985)\n"
-title: Bulwer-Lytton
+ngrams:
+- - peter
+  - de
+  - vries
+- - accomplishment
+  - peter
+  - de
+- - bulwer-lytton
+  - can
+  - give
+story:
+  date: 2010-06-19
+  id: 2010-06-19-bulwer-lytton
+  text: "\u201CTo have read nothing by Bulwer-Lytton can give a man a solid sense\
+    \ of accomplishment.\u201D\nPeter De Vries, The Prick Of Noon (1985)\n"
+  title: Bulwer-Lytton
+word_count: 23

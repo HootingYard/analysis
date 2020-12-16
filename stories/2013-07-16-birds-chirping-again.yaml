@@ -1,9 +1,21 @@
-date: 2013-07-16
-id: 2013-07-16-birds-chirping-again
-text: 'First, we had this:
+ngrams:
+- - birds
+  - chirping
+  - again
+- - chirping
+  - again
+  - first
+- - again
+  - first
+  - we
+story:
+  date: 2013-07-16
+  id: 2013-07-16-birds-chirping-again
+  text: 'First, we had this:
 
 
-  Now, we have this:
+    Now, we have this:
 
-  '
-title: (Birds Chirping) (Again)
+    '
+  title: (Birds Chirping) (Again)
+word_count: 11

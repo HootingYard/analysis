@@ -1,4 +1,16 @@
-date: 2013-01-22
-id: 2013-01-22-charging-ostrich-pod
-text: "For your listening pleasure\u2026\nCharging Ostrich Of Fire\n"
-title: Charging Ostrich Pod
+ngrams:
+- - pleasure
+  - charging
+  - ostrich
+- - charging
+  - ostrich
+  - pod
+- - listening
+  - pleasure
+  - charging
+story:
+  date: 2013-01-22
+  id: 2013-01-22-charging-ostrich-pod
+  text: "For your listening pleasure\u2026\nCharging Ostrich Of Fire\n"
+  title: Charging Ostrich Pod
+word_count: 11

@@ -1,4 +1,16 @@
-date: 2010-05-14
-id: 2010-05-14-the-neurasthenic-and-his-inner-concrete-lining
-text: '[An online poll was here. It is now closed.]'
-title: The Neurasthenic And His Inner Concrete Lining
+ngrams:
+- - inner
+  - concrete
+  - lining
+- - concrete
+  - lining
+  - an
+- - lining
+  - an
+  - online
+story:
+  date: 2010-05-14
+  id: 2010-05-14-the-neurasthenic-and-his-inner-concrete-lining
+  text: '[An online poll was here. It is now closed.]'
+  title: The Neurasthenic And His Inner Concrete Lining
+word_count: 16

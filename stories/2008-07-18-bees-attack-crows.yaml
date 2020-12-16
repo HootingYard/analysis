@@ -1,9 +1,24 @@
-date: 2008-07-18
-id: 2008-07-18-bees-attack-crows
-text: 'Hooting Yard has a number of bee monitors who keep us up to speed with various
-  bee doings around the globe. Many thanks, then, to Tristan Shuddery (Bee Monitor
-  No. 56A) for alerting us to this article which tells us about some Japanese bees
-  and their tendency to attack anything dark-coloured that approaches their hives.
+ngrams:
+- - tristan
+  - shuddery
+  - bee
+- - shuddery
+  - bee
+  - monitor
+- - bees
+  - attack
+  - crows
+- - attack
+  - anything
+  - dark-coloured
+story:
+  date: 2008-07-18
+  id: 2008-07-18-bees-attack-crows
+  text: 'Hooting Yard has a number of bee monitors who keep us up to speed with various
+    bee doings around the globe. Many thanks, then, to Tristan Shuddery (Bee Monitor
+    No. 56A) for alerting us to this article which tells us about some Japanese bees
+    and their tendency to attack anything dark-coloured that approaches their hives.
 
-  '
-title: Bees Attack Crows!
+    '
+  title: Bees Attack Crows!
+word_count: 58

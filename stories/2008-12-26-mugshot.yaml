@@ -1,7 +1,19 @@
-date: 2008-12-26
-id: 2008-12-26-mugshot
-text: 'One lucky reader received this spectacular gift for Christmas. Not, I hasten
-  to add, from me.
+ngrams:
+- - lucky
+  - reader
+  - received
+- - mugshot
+  - one
+  - lucky
+- - this
+  - spectacular
+  - gift
+story:
+  date: 2008-12-26
+  id: 2008-12-26-mugshot
+  text: 'One lucky reader received this spectacular gift for Christmas. Not, I hasten
+    to add, from me.
 
-  '
-title: Mugshot
+    '
+  title: Mugshot
+word_count: 17

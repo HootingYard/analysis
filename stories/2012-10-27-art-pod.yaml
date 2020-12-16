@@ -1,8 +1,20 @@
-date: 2012-10-27
-id: 2012-10-27-art-pod
-text: 'The latest podcast is available over at Resonance104.4FM.
+ngrams:
+- - fm
+  - art
+  - squad
+- - resonance
+  - fm
+  - art
+- - at
+  - resonance
+  - fm
+story:
+  date: 2012-10-27
+  id: 2012-10-27-art-pod
+  text: 'The latest podcast is available over at Resonance104.4FM.
 
-  Art Squad
+    Art Squad
 
-  '
-title: Art Pod
+    '
+  title: Art Pod
+word_count: 13

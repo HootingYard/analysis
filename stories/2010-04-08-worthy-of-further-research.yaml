@@ -1,9 +1,27 @@
-date: 2010-04-08
-id: 2010-04-08-worthy-of-further-research
-text: "\u201CI not only investigated the so-called supernatural powers of the child\
-  \ known as the Infant Magnet, but, on a public stage, during the performance of\
-  \ certain mysterious phenomena by a young lady who shall be nameless, I consented\
-  \ to be locked up in a dark cabinet with that interesting maiden, whose toilette\
-  \ was superb.\u201D\nWilliam Manning, Recollections Of Robert-Houdin, Clockmaker,\
-  \ Electrician, Conjuror (1890)"
-title: "Worthy Of Further Research\u2026"
+ngrams:
+- - robert-houdin
+  - clockmaker
+  - electrician
+- - clockmaker
+  - electrician
+  - conjuror
+- - william
+  - manning
+  - recollections
+- - superb
+  - william
+  - manning
+- - so-called
+  - supernatural
+  - powers
+story:
+  date: 2010-04-08
+  id: 2010-04-08-worthy-of-further-research
+  text: "\u201CI not only investigated the so-called supernatural powers of the child\
+    \ known as the Infant Magnet, but, on a public stage, during the performance of\
+    \ certain mysterious phenomena by a young lady who shall be nameless, I consented\
+    \ to be locked up in a dark cabinet with that interesting maiden, whose toilette\
+    \ was superb.\u201D\nWilliam Manning, Recollections Of Robert-Houdin, Clockmaker,\
+    \ Electrician, Conjuror (1890)"
+  title: "Worthy Of Further Research\u2026"
+word_count: 66

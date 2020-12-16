@@ -1,4 +1,16 @@
-date: 2012-06-07
-id: 2012-06-07-lars-pod-three
-text: "Obsequies For Lars Talc, Struck By Lightning\_: Part Three\n"
-title: Lars Pod Three
+ngrams:
+- - lars
+  - talc
+  - struck
+- - pod
+  - three
+  - obsequies
+- - lars
+  - pod
+  - three
+story:
+  date: 2012-06-07
+  id: 2012-06-07-lars-pod-three
+  text: "Obsequies For Lars Talc, Struck By Lightning\_: Part Three\n"
+  title: Lars Pod Three
+word_count: 12

@@ -1,6 +1,18 @@
-date: 2015-01-08
-id: 2015-01-08-a-soul-above-buttons
-text: "My father was an eminent buttonmaker\u2026 but I had a soul above buttons\u2026\
-  \ and panted for a liberal profession.\nSylvester Daggerwood, 1795. My thanks to\
-  \ Poppy Nisbet for this important quotation."
-title: A Soul Above Buttons
+ngrams:
+- - profession
+  - sylvester
+  - daggerwood
+- - liberal
+  - profession
+  - sylvester
+- - soul
+  - above
+  - buttons
+story:
+  date: 2015-01-08
+  id: 2015-01-08-a-soul-above-buttons
+  text: "My father was an eminent buttonmaker\u2026 but I had a soul above buttons\u2026\
+    \ and panted for a liberal profession.\nSylvester Daggerwood, 1795. My thanks\
+    \ to Poppy Nisbet for this important quotation."
+  title: A Soul Above Buttons
+word_count: 34

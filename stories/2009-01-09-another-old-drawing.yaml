@@ -1,4 +1,10 @@
-date: 2009-01-09
-id: 2009-01-09-another-old-drawing
-text: ''
-title: Another Old Drawing
+ngrams:
+- - another
+  - old
+  - drawing
+story:
+  date: 2009-01-09
+  id: 2009-01-09-another-old-drawing
+  text: ''
+  title: Another Old Drawing
+word_count: 3

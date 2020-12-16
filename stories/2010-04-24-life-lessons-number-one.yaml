@@ -1,11 +1,41 @@
-date: 2010-04-24
-id: 2010-04-24-life-lessons-number-one
-text: "I think it is time for Hooting Yard to provide readers with life-lessons, some\
-  \ simple rules of conduct for prancing through a complicated world with elegance\
-  \ and brio. Mr Key is, of course, far too ignorant to be able to cobble together\
-  \ any such rules himself, so he will rely on the tried and tested wisdom of others.\
-  \ And to begin with, we have this unarguable rule to live by:\nNever, ever question\
-  \ Higgins\u2019 safety nous.\nMake of that what you will, but bear in mind the awful\
-  \ fate of the last person who dared to question Higgins\u2019 safety nous. Thereby\
-  \ hangs a tale to curdle the stomach and derange the collywobbles."
-title: Life-Lessons, Number One
+ngrams:
+- - nous
+  - thereby
+  - hangs
+- - higgins
+  - safety
+  - nous
+- - higgins
+  - safety
+  - nous
+- - safety
+  - nous
+  - thereby
+- - question
+  - higgins
+  - safety
+- - question
+  - higgins
+  - safety
+- - safety
+  - nous
+  - make
+- - ever
+  - question
+  - higgins
+- - brio
+  - mr
+  - key
+story:
+  date: 2010-04-24
+  id: 2010-04-24-life-lessons-number-one
+  text: "I think it is time for Hooting Yard to provide readers with life-lessons,\
+    \ some simple rules of conduct for prancing through a complicated world with elegance\
+    \ and brio. Mr Key is, of course, far too ignorant to be able to cobble together\
+    \ any such rules himself, so he will rely on the tried and tested wisdom of others.\
+    \ And to begin with, we have this unarguable rule to live by:\nNever, ever question\
+    \ Higgins\u2019 safety nous.\nMake of that what you will, but bear in mind the\
+    \ awful fate of the last person who dared to question Higgins\u2019 safety nous.\
+    \ Thereby hangs a tale to curdle the stomach and derange the collywobbles."
+  title: Life-Lessons, Number One
+word_count: 115

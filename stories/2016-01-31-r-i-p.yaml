@@ -1,4 +1,16 @@
-date: 2016-01-31
-id: 2016-01-31-r-i-p
-text: "Jacques Rivette 1928\u20142016\n"
-title: R.I.P.
+ngrams:
+- - p
+  - jacques
+  - rivette
+- - i
+  - p
+  - jacques
+- - r
+  - i
+  - p
+story:
+  date: 2016-01-31
+  id: 2016-01-31-r-i-p
+  text: "Jacques Rivette 1928\u20142016\n"
+  title: R.I.P.
+word_count: 5

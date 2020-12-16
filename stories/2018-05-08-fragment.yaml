@@ -1,8 +1,26 @@
-date: 2018-05-08
-id: 2018-05-08-fragment
-text: Sick at heart and improperly trousered, the vicar galumphed across the fields
-  towards the viaduct. Not for nothing was he known as the vicar of the viaduct. Air
-  wafted about his head, tiny little flying insects perched ephemerally in his hair.
-  He had his sermon all prepared, committed to memory, for the service of the blessing
-  of the crutches. The sun blazed down. Brave Helios!
-title: Fragment
+ngrams:
+- - insects
+  - perched
+  - ephemerally
+- - flying
+  - insects
+  - perched
+- - viaduct
+  - air
+  - wafted
+- - vicar
+  - galumphed
+  - across
+- - little
+  - flying
+  - insects
+story:
+  date: 2018-05-08
+  id: 2018-05-08-fragment
+  text: Sick at heart and improperly trousered, the vicar galumphed across the fields
+    towards the viaduct. Not for nothing was he known as the vicar of the viaduct.
+    Air wafted about his head, tiny little flying insects perched ephemerally in his
+    hair. He had his sermon all prepared, committed to memory, for the service of
+    the blessing of the crutches. The sun blazed down. Brave Helios!
+  title: Fragment
+word_count: 66

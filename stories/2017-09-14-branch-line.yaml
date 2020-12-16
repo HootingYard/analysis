@@ -1,6 +1,18 @@
-date: 2017-09-14
-id: 2017-09-14-branch-line
-text: '
+ngrams:
+- - branch
+  - line
+  - further
+- - line
+  - further
+  - details
+- - further
+  - details
+  - here
+story:
+  date: 2017-09-14
+  id: 2017-09-14-branch-line
+  text: '
 
-  Further details here.'
-title: Branch Line
+    Further details here.'
+  title: Branch Line
+word_count: 5

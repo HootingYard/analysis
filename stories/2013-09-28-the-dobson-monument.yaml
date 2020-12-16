@@ -1,7 +1,19 @@
-date: 2013-09-28
-id: 2013-09-28-the-dobson-monument
-text: 'In the course of an arduous hiking escapade, somewhere far far away Salim Fadhley
-  stumbled upon this mysterious monument.
+ngrams:
+- - salim
+  - fadhley
+  - stumbled
+- - arduous
+  - hiking
+  - escapade
+- - hiking
+  - escapade
+  - somewhere
+story:
+  date: 2013-09-28
+  id: 2013-09-28-the-dobson-monument
+  text: 'In the course of an arduous hiking escapade, somewhere far far away Salim
+    Fadhley stumbled upon this mysterious monument.
 
-  '
-title: The Dobson Monument
+    '
+  title: The Dobson Monument
+word_count: 22

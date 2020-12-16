@@ -1,6 +1,15 @@
-date: 2012-04-28
-id: 2012-04-28-marzipan-pod
-text: 'Marzipan Wolf
+ngrams:
+- - marzipan
+  - pod
+  - marzipan
+- - pod
+  - marzipan
+  - wolf
+story:
+  date: 2012-04-28
+  id: 2012-04-28-marzipan-pod
+  text: 'Marzipan Wolf
 
-  '
-title: Marzipan Pod
+    '
+  title: Marzipan Pod
+word_count: 4

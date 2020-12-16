@@ -1,5 +1,17 @@
-date: 2013-01-11
-id: 2013-01-11-mabel
-text: "Chapter XX of Ronald Firbank's Inclinations (1916), in its entirety:\n\u201C\
-  Mabel! Mabel! Mabel! Mabel!\n    Mabel! Mabel! Mabel! Mabel!\u201D"
-title: Mabel
+ngrams:
+- - entirety
+  - mabel
+  - mabel
+- - mabel
+  - mabel
+  - mabel
+- - mabel
+  - mabel
+  - mabel
+story:
+  date: 2013-01-11
+  id: 2013-01-11-mabel
+  text: "Chapter XX of Ronald Firbank's Inclinations (1916), in its entirety:\n\u201C\
+    Mabel! Mabel! Mabel! Mabel!\n    Mabel! Mabel! Mabel! Mabel!\u201D"
+  title: Mabel
+word_count: 19

@@ -1,8 +1,23 @@
-date: 2014-07-27
-id: 2014-07-27-world-of-interiors
-text: 'I don''t believe any one of you would like to live in a room with a murdered
-  man in the cupboard, however well preserved chemically:- even with a sunflower growing
-  out at the top of a head.
+ngrams:
+- - fors
+  - clavigera
+  - vol
+- - preserved
+  - chemically
+  - '-'
+- - clavigera
+  - vol
+  - ii
+- - vol
+  - ii
+  - august
+story:
+  date: 2014-07-27
+  id: 2014-07-27-world-of-interiors
+  text: 'I don''t believe any one of you would like to live in a room with a murdered
+    man in the cupboard, however well preserved chemically:- even with a sunflower
+    growing out at the top of a head.
 
-  John Ruskin, Fors Clavigera, Vol. II, August 1871'
-title: World Of Interiors
+    John Ruskin, Fors Clavigera, Vol. II, August 1871'
+  title: World Of Interiors
+word_count: 49

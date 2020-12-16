@@ -1,10 +1,34 @@
-date: 2011-11-22
-id: 2011-11-22-speaking-of-bird-scarifiers
-text: "\u2026 as I was just now, in The Wooden Lake, reminds me to bring to your attention\
-  \ a weekend postage at The Dabbler, where Mahlerman tells us about Havergal Brian's\
-  \ Gothic Symphony, which\ncalls for up to one thousand performers, including nine\
-  \ choirs, four offstage brass bands, and the normal orchestra size doubled-up to\
-  \ about 150 players. A vast percussion section includes chains, a thunder machine\
-  \ and a bird scare.\nThat Brian was one of the great British eccentrics has never\
-  \ been in doubt\n"
-title: "Speaking Of Bird Scarifiers\u2026"
+ngrams:
+- - offstage
+  - brass
+  - bands
+- - percussion
+  - section
+  - includes
+- - section
+  - includes
+  - chains
+- - orchestra
+  - size
+  - doubled-up
+- - vast
+  - percussion
+  - section
+- - normal
+  - orchestra
+  - size
+- - including
+  - nine
+  - choirs
+story:
+  date: 2011-11-22
+  id: 2011-11-22-speaking-of-bird-scarifiers
+  text: "\u2026 as I was just now, in The Wooden Lake, reminds me to bring to your\
+    \ attention a weekend postage at The Dabbler, where Mahlerman tells us about Havergal\
+    \ Brian's Gothic Symphony, which\ncalls for up to one thousand performers, including\
+    \ nine choirs, four offstage brass bands, and the normal orchestra size doubled-up\
+    \ to about 150 players. A vast percussion section includes chains, a thunder machine\
+    \ and a bird scare.\nThat Brian was one of the great British eccentrics has never\
+    \ been in doubt\n"
+  title: "Speaking Of Bird Scarifiers\u2026"
+word_count: 87

@@ -1,6 +1,18 @@
-date: 2007-03-19
-id: 2007-03-19-binnacle-of-the-week
-text: 'Here is this week''s binnacle:
+ngrams:
+- - week
+  - s
+  - binnacle
+- - this
+  - week
+  - s
+- - week
+  - here
+  - is
+story:
+  date: 2007-03-19
+  id: 2007-03-19-binnacle-of-the-week
+  text: 'Here is this week''s binnacle:
 
-  '
-title: Binnacle Of The Week
+    '
+  title: Binnacle Of The Week
+word_count: 10

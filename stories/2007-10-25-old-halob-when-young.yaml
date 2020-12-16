@@ -1,7 +1,19 @@
-date: 2007-10-25
-id: 2007-10-25-old-halob-when-young
-text: "A daguerrotype has come into my possession of legendary cantankerous athletics\
-  \ coach Old Halob, taken when he was young. Curiously, he was already known as \u201C\
-  Old Halob\u201D when posing for this picture in what was then a revolutionary pole-vaulting\
-  \ kit.\n"
-title: Old Halob When Young
+ngrams:
+- - revolutionary
+  - pole-vaulting
+  - kit
+- - legendary
+  - cantankerous
+  - athletics
+- - cantankerous
+  - athletics
+  - coach
+story:
+  date: 2007-10-25
+  id: 2007-10-25-old-halob-when-young
+  text: "A daguerrotype has come into my possession of legendary cantankerous athletics\
+    \ coach Old Halob, taken when he was young. Curiously, he was already known as\
+    \ \u201COld Halob\u201D when posing for this picture in what was then a revolutionary\
+    \ pole-vaulting kit.\n"
+  title: Old Halob When Young
+word_count: 44

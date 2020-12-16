@@ -1,7 +1,22 @@
-date: 2016-12-23
-id: 2016-12-23-slow-djinn
-text: "There was an item on Radio Four's Farming Today this morning about a slow djinn.\
-  \ I have no idea why, in the run-up to Christmas, the BBC's premier agricultural\
-  \ radio slot is banging on about a dull-witted Arabian demon, but I suppose it must\
-  \ be something to do with \u201Cdiversity\u201D."
-title: Slow Djinn
+ngrams:
+- - dull-witted
+  - arabian
+  - demon
+- - premier
+  - agricultural
+  - radio
+- - agricultural
+  - radio
+  - slot
+- - 'no'
+  - idea
+  - why
+story:
+  date: 2016-12-23
+  id: 2016-12-23-slow-djinn
+  text: "There was an item on Radio Four's Farming Today this morning about a slow\
+    \ djinn. I have no idea why, in the run-up to Christmas, the BBC's premier agricultural\
+    \ radio slot is banging on about a dull-witted Arabian demon, but I suppose it\
+    \ must be something to do with \u201Cdiversity\u201D."
+  title: Slow Djinn
+word_count: 54

@@ -1,6 +1,18 @@
-date: 2015-12-19
-id: 2015-12-19-kibbo-kift-advent-calendar-xix
-text: '
+ngrams:
+- - kibbo
+  - kift
+  - advent
+- - advent
+  - calendar
+  - xix
+- - kift
+  - advent
+  - calendar
+story:
+  date: 2015-12-19
+  id: 2015-12-19-kibbo-kift-advent-calendar-xix
+  text: '
 
-  Read the book, See the exhibition.'
-title: "Kibbo Kift Advent Calendar\u2014XIX"
+    Read the book, See the exhibition.'
+  title: "Kibbo Kift Advent Calendar\u2014XIX"
+word_count: 11

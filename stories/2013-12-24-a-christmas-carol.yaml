@@ -1,6 +1,18 @@
-date: 2013-12-24
-id: 2013-12-24-a-christmas-carol
-text: "Away in a manger, no crib for a bed\n  The little Lord Jesus lay down his sweet\
-  \ head\n  And then Tinie Tempah walked into the shed\n  So I picked up a shovel\
-  \ and bashed in his head."
-title: A Christmas Carol
+ngrams:
+- - tinie
+  - tempah
+  - walked
+- - lord
+  - jesus
+  - lay
+- - christmas
+  - carol
+  - away
+story:
+  date: 2013-12-24
+  id: 2013-12-24-a-christmas-carol
+  text: "Away in a manger, no crib for a bed\n  The little Lord Jesus lay down his\
+    \ sweet head\n  And then Tinie Tempah walked into the shed\n  So I picked up a\
+    \ shovel and bashed in his head."
+  title: A Christmas Carol
+word_count: 40

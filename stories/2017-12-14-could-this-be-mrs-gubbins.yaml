@@ -1,7 +1,19 @@
-date: 2017-12-14
-id: 2017-12-14-could-this-be-mrs-gubbins
-text: '
+ngrams:
+- - be
+  - mrs
+  - gubbins
+- - this
+  - be
+  - mrs
+- - could
+  - this
+  - be
+story:
+  date: 2017-12-14
+  id: 2017-12-14-could-this-be-mrs-gubbins
+  text: '
 
 
-  '
-title: Could This Be Mrs Gubbins?
+    '
+  title: Could This Be Mrs Gubbins?
+word_count: 5

@@ -1,6 +1,18 @@
-date: 2016-08-05
-id: 2016-08-05-the-remainder-of-the-horse
-text: "Commenting on yesterday's scene from the life of Pansy Cradledew, R. noted\
-  \ \u201CLet us hope that tomorrow the remainder of the horse will appear, whereupon\
-  \ the enigma will be resolved\u201D. Et voila!\n"
-title: The Remainder Of The Horse
+ngrams:
+- - resolved
+  - et
+  - voila
+- - pansy
+  - cradledew
+  - r
+- - cradledew
+  - r
+  - noted
+story:
+  date: 2016-08-05
+  id: 2016-08-05-the-remainder-of-the-horse
+  text: "Commenting on yesterday's scene from the life of Pansy Cradledew, R. noted\
+    \ \u201CLet us hope that tomorrow the remainder of the horse will appear, whereupon\
+    \ the enigma will be resolved\u201D. Et voila!\n"
+  title: The Remainder Of The Horse
+word_count: 38

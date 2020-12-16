@@ -1,6 +1,18 @@
-date: 2011-03-27
-id: 2011-03-27-the-funnel-volume-two
-text: Queasy woodpecker. Ergot root. Toxic yeast. Unimaginable idiocy. Orange pips.
-  Albino starling. Death flotilla. Gushing hazard. Jellied kohl. Lethal zookeeper.
-  X-rayed clinker. Vertiginous banisters. Nothing more.
-title: The Funnel, Volume Two
+ngrams:
+- - flotilla
+  - gushing
+  - hazard
+- - hazard
+  - jellied
+  - kohl
+- - gushing
+  - hazard
+  - jellied
+story:
+  date: 2011-03-27
+  id: 2011-03-27-the-funnel-volume-two
+  text: Queasy woodpecker. Ergot root. Toxic yeast. Unimaginable idiocy. Orange pips.
+    Albino starling. Death flotilla. Gushing hazard. Jellied kohl. Lethal zookeeper.
+    X-rayed clinker. Vertiginous banisters. Nothing more.
+  title: The Funnel, Volume Two
+word_count: 30

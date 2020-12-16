@@ -1,5 +1,17 @@
-date: 2014-08-30
-id: 2014-08-30-accidental-pod
-text: "The second part of a tale from the last century \u2026\nAccidental Deaths Of\
-  \ Twelve Cartographers (Part Two)\n"
-title: Accidental Pod
+ngrams:
+- - century
+  - accidental
+  - deaths
+- - twelve
+  - cartographers
+  - part
+- - last
+  - century
+  - accidental
+story:
+  date: 2014-08-30
+  id: 2014-08-30-accidental-pod
+  text: "The second part of a tale from the last century \u2026\nAccidental Deaths\
+    \ Of Twelve Cartographers (Part Two)\n"
+  title: Accidental Pod
+word_count: 19

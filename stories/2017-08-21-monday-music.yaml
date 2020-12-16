@@ -1,5 +1,17 @@
-date: 2017-08-21
-id: 2017-08-21-monday-music
-text: "\u201CDesde\xF1osa\u201D by Lhasa De Sela (1972\u20142010), with a vocal performance\
-  \ that is, er, quite intense."
-title: Monday Music
+ngrams:
+- - lhasa
+  - de
+  - sela
+- - music
+  - desde
+  - osa
+- - monday
+  - music
+  - desde
+story:
+  date: 2017-08-21
+  id: 2017-08-21-monday-music
+  text: "\u201CDesde\xF1osa\u201D by Lhasa De Sela (1972\u20142010), with a vocal\
+    \ performance that is, er, quite intense."
+  title: Monday Music
+word_count: 17

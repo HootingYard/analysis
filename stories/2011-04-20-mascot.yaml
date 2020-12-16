@@ -1,17 +1,65 @@
-date: 2011-04-20
-id: 2011-04-20-mascot
-text: "\nAt last, a proper job! It is with some pride that I announce my adoption\
-  \ by an American baseball team as their mascot. According to the Baltimore Orioles,\
-  \ I am \u201Ca family friendly character\u201D, and apparently I was unveiled just\
-  \ last week, though I must admit I don't recall the event. Perhaps I was taking\
-  \ a nap at the time.\nParticularly exciting is that I have been given my own army,\
-  \ known as \u201CFrank Key's Army\u201D. I think I shall lead them on manoeuvres\
-  \ in the near future, though rather than deploying them to one of the world's trouble\
-  \ spots it might be more satisfying to set them, armed to the teeth, upon defenceless\
-  \ persons I abhor. Luckily, I do not detest quite so many people as Percy Grainger\
-  \ did, so the world is (relatively) safe in my hands.\nOf course, becoming a deeply\
-  \ adored mascot would cause a swimming in the head for an unstable or partly deranged\
-  \ person, so I will be careful to keep a proper perspective. Now I must go and drill\
-  \ the troops and issue them with their blunderbusses, muskets, and surface-to-air\
-  \ missiles.\n"
-title: Mascot
+ngrams:
+- - deeply
+  - adored
+  - mascot
+- - american
+  - baseball
+  - team
+- - family
+  - friendly
+  - character
+- - partly
+  - deranged
+  - person
+- - own
+  - army
+  - known
+- - near
+  - future
+  - though
+- - don
+  - t
+  - recall
+- - percy
+  - grainger
+  - did
+- - future
+  - though
+  - rather
+- - proper
+  - perspective
+  - now
+- - teeth
+  - upon
+  - defenceless
+- - upon
+  - defenceless
+  - persons
+- - unveiled
+  - just
+  - last
+- - last
+  - week
+  - though
+- - rather
+  - than
+  - deploying
+story:
+  date: 2011-04-20
+  id: 2011-04-20-mascot
+  text: "\nAt last, a proper job! It is with some pride that I announce my adoption\
+    \ by an American baseball team as their mascot. According to the Baltimore Orioles,\
+    \ I am \u201Ca family friendly character\u201D, and apparently I was unveiled\
+    \ just last week, though I must admit I don't recall the event. Perhaps I was\
+    \ taking a nap at the time.\nParticularly exciting is that I have been given my\
+    \ own army, known as \u201CFrank Key's Army\u201D. I think I shall lead them on\
+    \ manoeuvres in the near future, though rather than deploying them to one of the\
+    \ world's trouble spots it might be more satisfying to set them, armed to the\
+    \ teeth, upon defenceless persons I abhor. Luckily, I do not detest quite so many\
+    \ people as Percy Grainger did, so the world is (relatively) safe in my hands.\n\
+    Of course, becoming a deeply adored mascot would cause a swimming in the head\
+    \ for an unstable or partly deranged person, so I will be careful to keep a proper\
+    \ perspective. Now I must go and drill the troops and issue them with their blunderbusses,\
+    \ muskets, and surface-to-air missiles.\n"
+  title: Mascot
+word_count: 192

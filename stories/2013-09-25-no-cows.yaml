@@ -1,7 +1,19 @@
-date: 2013-09-25
-id: 2013-09-25-no-cows
-text: 'We are mistaken if we think that there is, in ultimate reality, any such thing
-  as a cow.
+ngrams:
+- - cow
+  - arthur
+  - machen
+- - ultimate
+  - reality
+  - any
+- - reality
+  - any
+  - such
+story:
+  date: 2013-09-25
+  id: 2013-09-25-no-cows
+  text: 'We are mistaken if we think that there is, in ultimate reality, any such
+    thing as a cow.
 
-  Arthur Machen, The London Adventure or The Art Of Wandering (1924)'
-title: No Cows
+    Arthur Machen, The London Adventure or The Art Of Wandering (1924)'
+  title: No Cows
+word_count: 30

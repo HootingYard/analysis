@@ -1,10 +1,37 @@
-date: 2014-04-30
-id: 2014-04-30-as
-text: "There was a story in the paper the other day about a new breakthrough in the\
-  \ development of AI, or Artificial Intelligence. My own view is that if boffins\
-  \ want to create a machine that convincingly apes a human being, they ought to concentrate\
-  \ on AS, or Artificial Stupidity.\nI can imagine a big lumbering clanking robot\
-  \ which, when hidden behind a screen, would engage in a \u201Cconversation\u201D\
-  \ which experts would be hard put to tell from the barbaric grunting of the average\
-  \ person in the street\u2014at least the streets around where I live.\n"
-title: AS
+ngrams:
+- - lumbering
+  - clanking
+  - robot
+- - big
+  - lumbering
+  - clanking
+- - streets
+  - around
+  - where
+- - when
+  - hidden
+  - behind
+- - if
+  - boffins
+  - want
+- - screen
+  - would
+  - engage
+- - clanking
+  - robot
+  - which
+- - conversation
+  - which
+  - experts
+story:
+  date: 2014-04-30
+  id: 2014-04-30-as
+  text: "There was a story in the paper the other day about a new breakthrough in\
+    \ the development of AI, or Artificial Intelligence. My own view is that if boffins\
+    \ want to create a machine that convincingly apes a human being, they ought to\
+    \ concentrate on AS, or Artificial Stupidity.\nI can imagine a big lumbering clanking\
+    \ robot which, when hidden behind a screen, would engage in a \u201Cconversation\u201D\
+    \ which experts would be hard put to tell from the barbaric grunting of the average\
+    \ person in the street\u2014at least the streets around where I live.\n"
+  title: AS
+word_count: 96

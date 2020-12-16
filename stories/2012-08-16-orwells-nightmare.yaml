@@ -1,7 +1,19 @@
-date: 2012-08-16
-id: 2012-08-16-orwells-nightmare
-text: 'George Orwell''s worst nightmare . . .
+ngrams:
+- - nightmare
+  - george
+  - orwell
+- - worst
+  - nightmare
+  - see
+- - nightmare
+  - see
+  - here
+story:
+  date: 2012-08-16
+  id: 2012-08-16-orwells-nightmare
+  text: 'George Orwell''s worst nightmare . . .
 
 
-  (See here for clarification.)'
-title: Orwell's Nightmare
+    (See here for clarification.)'
+  title: Orwell's Nightmare
+word_count: 12

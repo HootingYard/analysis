@@ -1,9 +1,24 @@
-date: 2010-04-12
-id: 2010-04-12-stationery
-text: "\u201Cout of insecurity and boredom I developed an elaborate form of displacement\
-  \ activity, a self-estranging technique, creating what I called \u2018angel trap\
-  \ stationery\u2019 \u2014 paper painted with symbols and impregnated with scents\
-  \ designed to attract various powers and dominions of the air to aid me in the act\
-  \ of composition.\u201D\nPeter Blegvad, interviewed in The Believer, November/December\
-  \ 2009"
-title: Stationery
+ngrams:
+- - self-estranging
+  - technique
+  - creating
+- - believer
+  - november
+  - december
+- - angel
+  - trap
+  - stationery
+- - peter
+  - blegvad
+  - interviewed
+story:
+  date: 2010-04-12
+  id: 2010-04-12-stationery
+  text: "\u201Cout of insecurity and boredom I developed an elaborate form of displacement\
+    \ activity, a self-estranging technique, creating what I called \u2018angel trap\
+    \ stationery\u2019 \u2014 paper painted with symbols and impregnated with scents\
+    \ designed to attract various powers and dominions of the air to aid me in the\
+    \ act of composition.\u201D\nPeter Blegvad, interviewed in The Believer, November/December\
+    \ 2009"
+  title: Stationery
+word_count: 58

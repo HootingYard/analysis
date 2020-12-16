@@ -1,4 +1,16 @@
-date: 2011-01-17
-id: 2011-01-17-r-i-p
-text: "\nNat Lofthouse (right), 1925\u20132011"
-title: R.I.P.
+ngrams:
+- - p
+  - nat
+  - lofthouse
+- - nat
+  - lofthouse
+  - right
+- - i
+  - p
+  - nat
+story:
+  date: 2011-01-17
+  id: 2011-01-17-r-i-p
+  text: "\nNat Lofthouse (right), 1925\u20132011"
+  title: R.I.P.
+word_count: 6

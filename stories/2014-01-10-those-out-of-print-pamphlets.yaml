@@ -1,8 +1,29 @@
-date: 2014-01-10
-id: 2014-01-10-those-out-of-print-pamphlets
-text: "If you wish to listen to Mr Key reading out the titles of all 168 out of print\
-  \ pamphlets by Dobson\u2014and you do!, you do!\u2014then all you have to do is\
-  \ point the pointy thing on your computer screen here, sit back, wring out your\
-  \ ears, and wallow for half an hour in the sheer glorious foolishness of it all.\n\
-  \nPamphlet cover design by Daniel Tomasch"
-title: Those Out Of Print Pamphlets
+ngrams:
+- - sheer
+  - glorious
+  - foolishness
+- - pamphlet
+  - cover
+  - design
+- - computer
+  - screen
+  - here
+- - sit
+  - back
+  - wring
+- - screen
+  - here
+  - sit
+- - mr
+  - key
+  - reading
+story:
+  date: 2014-01-10
+  id: 2014-01-10-those-out-of-print-pamphlets
+  text: "If you wish to listen to Mr Key reading out the titles of all 168 out of\
+    \ print pamphlets by Dobson\u2014and you do!, you do!\u2014then all you have to\
+    \ do is point the pointy thing on your computer screen here, sit back, wring out\
+    \ your ears, and wallow for half an hour in the sheer glorious foolishness of\
+    \ it all.\n\nPamphlet cover design by Daniel Tomasch"
+  title: Those Out Of Print Pamphlets
+word_count: 72

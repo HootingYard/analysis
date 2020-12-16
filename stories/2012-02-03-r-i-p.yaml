@@ -1,4 +1,16 @@
-date: 2012-02-03
-id: 2012-02-03-r-i-p
-text: "Dorothea Tanning, 1910\u20132012\n"
-title: R.I.P.
+ngrams:
+- - p
+  - dorothea
+  - tanning
+- - i
+  - p
+  - dorothea
+- - r
+  - i
+  - p
+story:
+  date: 2012-02-03
+  id: 2012-02-03-r-i-p
+  text: "Dorothea Tanning, 1910\u20132012\n"
+  title: R.I.P.
+word_count: 5

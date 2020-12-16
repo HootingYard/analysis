@@ -1,9 +1,21 @@
-date: 2015-05-26
-id: 2015-05-26-muggletonian-pod
-text: 'Sooner or later I will start spouting forth prose again, but meanwhile here
-  is the latest Hooting Yard podcast release from ResonanceFM.
+ngrams:
+- - muggletonian
+  - pod
+  - sooner
+- - start
+  - spouting
+  - forth
+- - spouting
+  - forth
+  - prose
+story:
+  date: 2015-05-26
+  id: 2015-05-26-muggletonian-pod
+  text: 'Sooner or later I will start spouting forth prose again, but meanwhile here
+    is the latest Hooting Yard podcast release from ResonanceFM.
 
-  Muggletonians
+    Muggletonians
 
-  '
-title: Muggletonian Pod
+    '
+  title: Muggletonian Pod
+word_count: 25

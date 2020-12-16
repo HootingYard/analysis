@@ -1,9 +1,21 @@
-date: 2010-10-24
-id: 2010-10-24-thunderbolt
-text: 'Waspish playwright Maud Wasp, holding a tin trident atop Pilgarlic Tor, struck
-  by a thunderbolt.
+ngrams:
+- - thunderbolt
+  - waspish
+  - playwright
+- - waspish
+  - playwright
+  - maud
+- - trident
+  - atop
+  - pilgarlic
+story:
+  date: 2010-10-24
+  id: 2010-10-24-thunderbolt
+  text: 'Waspish playwright Maud Wasp, holding a tin trident atop Pilgarlic Tor, struck
+    by a thunderbolt.
 
 
-  A drawing, like almost all my drawings, from the last century. It is a detail from
-  the 1992 Hooting Yard Calendar, wherein Maud Wasp hid behind a pseudonym.'
-title: Thunderbolt!
+    A drawing, like almost all my drawings, from the last century. It is a detail
+    from the 1992 Hooting Yard Calendar, wherein Maud Wasp hid behind a pseudonym.'
+  title: Thunderbolt!
+word_count: 43

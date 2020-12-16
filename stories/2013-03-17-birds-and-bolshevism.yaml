@@ -1,10 +1,31 @@
-date: 2013-03-17
-id: 2013-03-17-birds-and-bolshevism
-text: "I am indebted to Ruth Bosch for drawing to my attention this photograph from\
-  \ Paraphilia Magazine, captioned \u201CRussian children taking part in a parade\
-  \ celebrating birds helpful to farming, 1934\u201D. It is instructive to realise\
-  \ that Soviet Communism was not an unalloyed disaster, at least in ornithological\
-  \ terms. Needless to say, I am agog to learn precisely which birds were deemed \u201C\
-  helpful to farming\u201D. Skylarks? Peewits? Pratincoles? Any readers equally expert\
-  \ in birds and Bolshevism should contact me immediately.\n"
-title: Birds And Bolshevism
+ngrams:
+- - skylarks
+  - peewits
+  - pratincoles
+- - farming
+  - skylarks
+  - peewits
+- - ornithological
+  - terms
+  - needless
+- - paraphilia
+  - magazine
+  - captioned
+- - magazine
+  - captioned
+  - russian
+- - captioned
+  - russian
+  - children
+story:
+  date: 2013-03-17
+  id: 2013-03-17-birds-and-bolshevism
+  text: "I am indebted to Ruth Bosch for drawing to my attention this photograph from\
+    \ Paraphilia Magazine, captioned \u201CRussian children taking part in a parade\
+    \ celebrating birds helpful to farming, 1934\u201D. It is instructive to realise\
+    \ that Soviet Communism was not an unalloyed disaster, at least in ornithological\
+    \ terms. Needless to say, I am agog to learn precisely which birds were deemed\
+    \ \u201Chelpful to farming\u201D. Skylarks? Peewits? Pratincoles? Any readers\
+    \ equally expert in birds and Bolshevism should contact me immediately.\n"
+  title: Birds And Bolshevism
+word_count: 81

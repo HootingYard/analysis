@@ -1,9 +1,27 @@
-date: 2008-03-04
-id: 2008-03-04-trevor-howard
-text: "From yesterday's Grauniad:\nTrevor Howard, the star of the 1945 movie Brief\
-  \ Encounter, earned the respect of his peers recounting his brave military past,\
-  \ parachuting into Nazi-occupied Norway and taking part in the Allied invasion of\
-  \ Sicily. After his death, Public Record Office files revealed that he had been\
-  \ invalided out of the army and judged to be mentally unstable with a \u201Cpsychopathic\
-  \ personality\u201D.\n\n\_"
-title: Trevor Howard
+ngrams:
+- - grauniad
+  - trevor
+  - howard
+- - movie
+  - brief
+  - encounter
+- - brief
+  - encounter
+  - earned
+- - office
+  - files
+  - revealed
+- - record
+  - office
+  - files
+story:
+  date: 2008-03-04
+  id: 2008-03-04-trevor-howard
+  text: "From yesterday's Grauniad:\nTrevor Howard, the star of the 1945 movie Brief\
+    \ Encounter, earned the respect of his peers recounting his brave military past,\
+    \ parachuting into Nazi-occupied Norway and taking part in the Allied invasion\
+    \ of Sicily. After his death, Public Record Office files revealed that he had\
+    \ been invalided out of the army and judged to be mentally unstable with a \u201C\
+    psychopathic personality\u201D.\n\n\_"
+  title: Trevor Howard
+word_count: 66

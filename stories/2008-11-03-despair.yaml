@@ -1,5 +1,17 @@
-date: 2008-11-03
-id: 2008-11-03-despair
-text: "\u201CThey might mistake\_eg\_for egg and little things like that can confuse\
-  \ people.\u201D\nWords fail me this time. Read it and weep.\n\_"
-title: Despair
+ngrams:
+- - confuse
+  - people
+  - words
+- - people
+  - words
+  - fail
+- - might
+  - mistake
+  - eg
+story:
+  date: 2008-11-03
+  id: 2008-11-03-despair
+  text: "\u201CThey might mistake\_eg\_for egg and little things like that can confuse\
+    \ people.\u201D\nWords fail me this time. Read it and weep.\n\_"
+  title: Despair
+word_count: 24

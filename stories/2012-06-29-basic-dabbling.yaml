@@ -1,9 +1,24 @@
-date: 2012-06-29
-id: 2012-06-29-basic-dabbling
-text: '
+ngrams:
+- - dosh
+  - booze
+  - foopball
+- - non-hooting
+  - yardy
+  - topics
+- - booze
+  - foopball
+  - politics
+- - flautist
+  - ian
+  - anderson
+story:
+  date: 2012-06-29
+  id: 2012-06-29-basic-dabbling
+  text: '
 
-  Over at The Dabbler this week, I am prompted to discuss such non-Hooting Yardy topics
-  as dosh, booze, foopball, politics, and seventies rock. All at one fell swoop. You
-  will be pleased to note that my piece is illustrated with a not entirely gratuitous
-  photograph of monopod Jethro Tull flautist Ian Anderson.'
-title: Basic Dabbling
+    Over at The Dabbler this week, I am prompted to discuss such non-Hooting Yardy
+    topics as dosh, booze, foopball, politics, and seventies rock. All at one fell
+    swoop. You will be pleased to note that my piece is illustrated with a not entirely
+    gratuitous photograph of monopod Jethro Tull flautist Ian Anderson.'
+  title: Basic Dabbling
+word_count: 54

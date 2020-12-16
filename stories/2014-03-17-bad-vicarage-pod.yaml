@@ -1,8 +1,20 @@
-date: 2014-03-17
-id: 2014-03-17-bad-vicarage-pod
-text: 'Hot on the heels of the last podcast from Resonamce104.4FM, another podcast!
+ngrams:
+- - bad
+  - vicarage
+  - pod
+- - vicarage
+  - pod
+  - hot
+- - resonamce
+  - fm
+  - another
+story:
+  date: 2014-03-17
+  id: 2014-03-17-bad-vicarage-pod
+  text: 'Hot on the heels of the last podcast from Resonamce104.4FM, another podcast!
 
-  On The Bad Vicarage
+    On The Bad Vicarage
 
-  '
-title: Bad Vicarage Pod
+    '
+  title: Bad Vicarage Pod
+word_count: 20

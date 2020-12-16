@@ -1,10 +1,31 @@
-date: 2015-01-04
-id: 2015-01-04-death-room-decoration
-text: "In her letter yesterday, Poppy Nisbet mentioned the decoration of the \u201C\
-  Zeitgeist\u201D Death Room, consisting in part of portrait paintings (by Marjorie\
-  \ Monroe) \u201Cof subjects who all looked like characters from Agatha Christie\u201D\
-  \ from which \u201Cthe faces [were] cut out and the rest of the image left intact\u201D\
-  . Ms Nisbet has now provided photographic evidence of what she is talking about,\
-  \ so you lot can better appreciate the spookiness.\nLeft\_: intact portrait, Right\_\
-  : wrecked portrait.\n"
-title: Death Room Decoration
+ngrams:
+- - intact
+  - ms
+  - nisbet
+- - provided
+  - photographic
+  - evidence
+- - poppy
+  - nisbet
+  - mentioned
+- - yesterday
+  - poppy
+  - nisbet
+- - portrait
+  - right
+  - wrecked
+- - right
+  - wrecked
+  - portrait
+story:
+  date: 2015-01-04
+  id: 2015-01-04-death-room-decoration
+  text: "In her letter yesterday, Poppy Nisbet mentioned the decoration of the \u201C\
+    Zeitgeist\u201D Death Room, consisting in part of portrait paintings (by Marjorie\
+    \ Monroe) \u201Cof subjects who all looked like characters from Agatha Christie\u201D\
+    \ from which \u201Cthe faces [were] cut out and the rest of the image left intact\u201D\
+    . Ms Nisbet has now provided photographic evidence of what she is talking about,\
+    \ so you lot can better appreciate the spookiness.\nLeft\_: intact portrait, Right\_\
+    : wrecked portrait.\n"
+  title: Death Room Decoration
+word_count: 78

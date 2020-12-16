@@ -1,6 +1,18 @@
-date: 2018-07-11
-id: 2018-07-11-norms-discovery
-text: "The great Norm Sherman of the (recently revived) Drabblecast reports on an\
-  \ important discovery \u2026\n\n\n\n\n\nThere seem to be plenty of copies available\
-  \ on eBay \u2026"
-title: Norm's Discovery
+ngrams:
+- - revived
+  - drabblecast
+  - reports
+- - recently
+  - revived
+  - drabblecast
+- - great
+  - norm
+  - sherman
+story:
+  date: 2018-07-11
+  id: 2018-07-11-norms-discovery
+  text: "The great Norm Sherman of the (recently revived) Drabblecast reports on an\
+    \ important discovery \u2026\n\n\n\n\n\nThere seem to be plenty of copies available\
+    \ on eBay \u2026"
+  title: Norm's Discovery
+word_count: 27

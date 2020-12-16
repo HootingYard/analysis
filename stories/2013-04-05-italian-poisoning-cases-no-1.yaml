@@ -1,9 +1,24 @@
-date: 2013-04-05
-id: 2013-04-05-italian-poisoning-cases-no-1
-text: 'The man admits putting poison in his wife''s water but denies trying to kill
-  her. He told police he had been trying to make her a little unwell to ease her obsessional
-  interest in planning pilgrimages and listening to the Catholic radio station Radio
-  Maria.
+ngrams:
+- - admits
+  - putting
+  - poison
+- - italian
+  - poisoning
+  - cases
+- - station
+  - radio
+  - maria
+- - catholic
+  - radio
+  - station
+story:
+  date: 2013-04-05
+  id: 2013-04-05-italian-poisoning-cases-no-1
+  text: 'The man admits putting poison in his wife''s water but denies trying to kill
+    her. He told police he had been trying to make her a little unwell to ease her
+    obsessional interest in planning pilgrimages and listening to the Catholic radio
+    station Radio Maria.
 
-  from today''s Grauniad'
-title: Italian Poisoning Cases, No. 1
+    from today''s Grauniad'
+  title: Italian Poisoning Cases, No. 1
+word_count: 54

@@ -1,7 +1,19 @@
-date: 2011-11-08
-id: 2011-11-08-miss-may-storey
-text: '
+ngrams:
+- - may
+  - storey
+  - click
+- - miss
+  - may
+  - storey
+- - other
+  - curious
+  - objects
+story:
+  date: 2011-11-08
+  id: 2011-11-08-miss-may-storey
+  text: '
 
-  Click the image for a bigger version. From the breathtaking The Englishman Who Posted
-  Himself & Other Curious Objects'
-title: Miss May Storey
+    Click the image for a bigger version. From the breathtaking The Englishman Who
+    Posted Himself & Other Curious Objects'
+  title: Miss May Storey
+word_count: 21

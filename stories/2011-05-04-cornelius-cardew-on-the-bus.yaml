@@ -1,11 +1,38 @@
-date: 2011-05-04
-id: 2011-05-04-cornelius-cardew-on-the-bus
-text: "On the bus\_: I have to write to distract me from the woman, the warm pressure\
-  \ of the femme de trente ans, her softest arm. Boulez\u2014rescue\u2014your programme\
-  \ note must curb my corpuscular eruptions.\nCornelius Cardew, aged twenty-two, in\
-  \ his journal, quoted in Cornelius Cardew\_: A Life Unfinished by John Tilbury (2008).\
-  \ I have just begun reading this book, which\u2014at over a thousand pages\u2014\
-  is clearly both a Herculean labour of love (thirty years in the writing) and mildly\
-  \ bonkers. In other words, the best kind of biography. Expect further reports as\
-  \ I wade through it.\n"
-title: Cornelius Cardew On The Bus
+ngrams:
+- - corpuscular
+  - eruptions
+  - cornelius
+- - eruptions
+  - cornelius
+  - cardew
+- - cardew
+  - aged
+  - twenty-two
+- - cornelius
+  - cardew
+  - aged
+- - softest
+  - arm
+  - boulez
+- - arm
+  - boulez
+  - rescue
+- - femme
+  - de
+  - trente
+- - de
+  - trente
+  - ans
+story:
+  date: 2011-05-04
+  id: 2011-05-04-cornelius-cardew-on-the-bus
+  text: "On the bus\_: I have to write to distract me from the woman, the warm pressure\
+    \ of the femme de trente ans, her softest arm. Boulez\u2014rescue\u2014your programme\
+    \ note must curb my corpuscular eruptions.\nCornelius Cardew, aged twenty-two,\
+    \ in his journal, quoted in Cornelius Cardew\_: A Life Unfinished by John Tilbury\
+    \ (2008). I have just begun reading this book, which\u2014at over a thousand pages\u2014\
+    is clearly both a Herculean labour of love (thirty years in the writing) and mildly\
+    \ bonkers. In other words, the best kind of biography. Expect further reports\
+    \ as I wade through it.\n"
+  title: Cornelius Cardew On The Bus
+word_count: 102

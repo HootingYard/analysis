@@ -1,14 +1,29 @@
-date: 2018-03-17
-id: 2018-03-17-riddle
-text: 'My first is in Blenkinsop but not in Xavier Cugat.
+ngrams:
+- - whole
+  - passeth
+  - beyond
+- - human
+  - understanding
+  - what
+- - passeth
+  - beyond
+  - all
+- - all
+  - human
+  - understanding
+story:
+  date: 2018-03-17
+  id: 2018-03-17-riddle
+  text: 'My first is in Blenkinsop but not in Xavier Cugat.
 
-  My second is in cheesegrater but not in thurible.
+    My second is in cheesegrater but not in thurible.
 
-  My third is in collapsed lung but not in owl.
+    My third is in collapsed lung but not in owl.
 
-  My fourth is in Petula Clark but not in puff pastry.
+    My fourth is in Petula Clark but not in puff pastry.
 
-  My whole passeth beyond all human understanding.
+    My whole passeth beyond all human understanding.
 
-  What am I?'
-title: Riddle
+    What am I?'
+  title: Riddle
+word_count: 51

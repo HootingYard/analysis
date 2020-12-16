@@ -1,6 +1,18 @@
-date: 2013-05-21
-id: 2013-05-21-status-update
-text: 'Like unto a prune . . .
+ngrams:
+- - status
+  - update
+  - like
+- - update
+  - like
+  - unto
+- - unto
+  - a
+  - prune
+story:
+  date: 2013-05-21
+  id: 2013-05-21-status-update
+  text: 'Like unto a prune . . .
 
-  '
-title: Status Update
+    '
+  title: Status Update
+word_count: 6

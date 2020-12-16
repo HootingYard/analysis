@@ -1,9 +1,31 @@
-date: 2008-07-17
-id: 2008-07-17-a-digestive-biscuit
-text: "Following on from Corncrake Project, the first in a series of what might be\
-  \ called Hooting Yard's Readers\u2019 Digest-style digested news stories, here is\
-  \ another one. Actually, this one is so digested that I have plucked just a single\
-  \ phrase from it.\n\u2026 tinkering with a generator, while handling a sausage \u2026\
-  \nIf I end up posting more of these enticing little bagatelles, they will need a\
-  \ proper collective name. \u201CHooting Yard Digestive Biscuits\u201D, perhaps."
-title: A Digestive Biscuit
+ngrams:
+- - digest-style
+  - digested
+  - news
+- - digestive
+  - biscuit
+  - following
+- - digested
+  - news
+  - stories
+- - readers
+  - digest-style
+  - digested
+- - digestive
+  - biscuits
+  - perhaps
+- - generator
+  - while
+  - handling
+story:
+  date: 2008-07-17
+  id: 2008-07-17-a-digestive-biscuit
+  text: "Following on from Corncrake Project, the first in a series of what might\
+    \ be called Hooting Yard's Readers\u2019 Digest-style digested news stories, here\
+    \ is another one. Actually, this one is so digested that I have plucked just a\
+    \ single phrase from it.\n\u2026 tinkering with a generator, while handling a\
+    \ sausage \u2026\nIf I end up posting more of these enticing little bagatelles,\
+    \ they will need a proper collective name. \u201CHooting Yard Digestive Biscuits\u201D\
+    , perhaps."
+  title: A Digestive Biscuit
+word_count: 77

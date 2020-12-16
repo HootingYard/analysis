@@ -1,11 +1,26 @@
-date: 2012-05-11
-id: 2012-05-11-pontoppidabble
-text: '
+ngrams:
+- - periwigged
+  - kraken
+  - expert
+- - kraken
+  - expert
+  - et
+- - expert
+  - et
+  - voila
+- - posting
+  - another
+  - picture
+story:
+  date: 2012-05-11
+  id: 2012-05-11-pontoppidabble
+  text: '
 
-  In The Dabbler this week my cupboard contains a shorter version of the piece on
-  Pontoppidan from the other day. So nothing new there for Hooting Yard readers, though
-  it does provide me with a pretext for posting another picture of the periwigged
-  kraken expert. Et voila!
+    In The Dabbler this week my cupboard contains a shorter version of the piece on
+    Pontoppidan from the other day. So nothing new there for Hooting Yard readers,
+    though it does provide me with a pretext for posting another picture of the periwigged
+    kraken expert. Et voila!
 
-  '
-title: Pontoppidabble
+    '
+  title: Pontoppidabble
+word_count: 48

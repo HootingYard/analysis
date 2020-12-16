@@ -1,9 +1,24 @@
-date: 2011-03-10
-id: 2011-03-10-important-signage
-text: 'The world may be going to hell in a handcart, but there is at least once certainty
-  to which we can cling. Things fall apart, the centre cannot hold, but every day
-  Outa_Spaceman staples into place a new cardboard sign. And I am inordinately pleased
-  with the latest one, for obvious reasons:
+ngrams:
+- - outa
+  - spaceman
+  - staples
+- - centre
+  - cannot
+  - hold
+- - cling
+  - things
+  - fall
+- - things
+  - fall
+  - apart
+story:
+  date: 2011-03-10
+  id: 2011-03-10-important-signage
+  text: 'The world may be going to hell in a handcart, but there is at least once
+    certainty to which we can cling. Things fall apart, the centre cannot hold, but
+    every day Outa_Spaceman staples into place a new cardboard sign. And I am inordinately
+    pleased with the latest one, for obvious reasons:
 
-  '
-title: Important Signage
+    '
+  title: Important Signage
+word_count: 55

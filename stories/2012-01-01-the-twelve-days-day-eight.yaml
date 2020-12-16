@@ -1,20 +1,32 @@
-date: 2012-01-01
-id: 2012-01-01-the-twelve-days-day-eight
-text: 'On the eighth day of Christmas Old Halob gave to me
+ngrams:
+- - bindweed
+  - seven
+  - mordant
+- - seven
+  - mordant
+  - herons
+- - bat
+  - gods
+  - ecto-oplasm
+story:
+  date: 2012-01-01
+  id: 2012-01-01-the-twelve-days-day-eight
+  text: 'On the eighth day of Christmas Old Halob gave to me
 
-  Eight tufts of bindweed,
+    Eight tufts of bindweed,
 
-  Seven mordant herons,
+    Seven mordant herons,
 
-  Six hideous bat gods,
+    Six hideous bat gods,
 
-  Ecto-oplasm!
+    Ecto-oplasm!
 
-  Four dead chaffinches,
+    Four dead chaffinches,
 
-  Three poptarts,
+    Three poptarts,
 
-  Two cardboard pigs,
+    Two cardboard pigs,
 
-  And a viper, a shrew and a bee.'
-title: "The Twelve Days\_: Day Eight"
+    And a viper, a shrew and a bee.'
+  title: "The Twelve Days\_: Day Eight"
+word_count: 44

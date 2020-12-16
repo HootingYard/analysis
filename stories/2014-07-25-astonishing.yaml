@@ -1,11 +1,29 @@
-date: 2014-07-25
-id: 2014-07-25-astonishing
-text: 'I was intrigued by this snippet in the diary column of the Guardian. Yesterday,
-  we were told, was
+ngrams:
+- - th
+  - century
+  - belgian
+- - century
+  - belgian
+  - saint
+- - ponds
+  - while
+  - preaching
+- - while
+  - preaching
+  - clearly
+- - belgian
+  - saint
+  - who
+story:
+  date: 2014-07-25
+  id: 2014-07-25-astonishing
+  text: 'I was intrigued by this snippet in the diary column of the Guardian. Yesterday,
+    we were told, was
 
-  the feast day of Christina the Astonishing, a 12th century Belgian saint who could
-  fly and occasionally lived in holes, ovens, and ponds while preaching.
+    the feast day of Christina the Astonishing, a 12th century Belgian saint who could
+    fly and occasionally lived in holes, ovens, and ponds while preaching.
 
-  Clearly I am going to have to do further research, and when I have, I will let you
-  lot know what I have discovered.'
-title: Astonishing
+    Clearly I am going to have to do further research, and when I have, I will let
+    you lot know what I have discovered.'
+  title: Astonishing
+word_count: 68

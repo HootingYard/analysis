@@ -1,6 +1,18 @@
-date: 2013-07-08
-id: 2013-07-08-inadvertent
-text: I appear to be having one of those occasional unplanned and inadvertent Hooting
-  Yard holidays. I must say it is all very relaxing. I shall return soon enough, meanwhile
-  you lot can trawl through the archives to maintain your sanity.
-title: Inadvertent
+ngrams:
+- - soon
+  - enough
+  - meanwhile
+- - return
+  - soon
+  - enough
+- - shall
+  - return
+  - soon
+story:
+  date: 2013-07-08
+  id: 2013-07-08-inadvertent
+  text: I appear to be having one of those occasional unplanned and inadvertent Hooting
+    Yard holidays. I must say it is all very relaxing. I shall return soon enough,
+    meanwhile you lot can trawl through the archives to maintain your sanity.
+  title: Inadvertent
+word_count: 41

@@ -1,13 +1,46 @@
-date: 2010-05-31
-id: 2010-05-31-teeth-and-sparrows
-text: "\u201CThe small bones of poultry, preserved in a hole in a wall, the medullary\
-  \ channel being left intact, will immediately cure tooth-ache, they say, if the\
-  \ tooth is touched or the gum scarified therewith, care being taken to throw away\
-  \ the bone the moment the operation is performed. A similar result is obtained by\
-  \ using raven's dung, wrapped in wool and attached to the body, or else sparrow's\
-  \ dung, warmed with oil and injected into the ear on the side affected. This last\
-  \ remedy, however, is productive of an intolerable itching, for which reason it\
-  \ is considered a better plan to rub the part with the ashes of young sparrows burnt\
-  \ upon twigs, mixed with vinegar for the purpose.\u201D\nPliny The Elder, The Natural\
-  \ History (AD 77\u201379)"
-title: Teeth And Sparrows
+ngrams:
+- - gum
+  - scarified
+  - therewith
+- - scarified
+  - therewith
+  - care
+- - immediately
+  - cure
+  - tooth-ache
+- - young
+  - sparrows
+  - burnt
+- - natural
+  - history
+  - ad
+- - medullary
+  - channel
+  - being
+- - therewith
+  - care
+  - being
+- - last
+  - remedy
+  - however
+- - being
+  - left
+  - intact
+- - channel
+  - being
+  - left
+story:
+  date: 2010-05-31
+  id: 2010-05-31-teeth-and-sparrows
+  text: "\u201CThe small bones of poultry, preserved in a hole in a wall, the medullary\
+    \ channel being left intact, will immediately cure tooth-ache, they say, if the\
+    \ tooth is touched or the gum scarified therewith, care being taken to throw away\
+    \ the bone the moment the operation is performed. A similar result is obtained\
+    \ by using raven's dung, wrapped in wool and attached to the body, or else sparrow's\
+    \ dung, warmed with oil and injected into the ear on the side affected. This last\
+    \ remedy, however, is productive of an intolerable itching, for which reason it\
+    \ is considered a better plan to rub the part with the ashes of young sparrows\
+    \ burnt upon twigs, mixed with vinegar for the purpose.\u201D\nPliny The Elder,\
+    \ The Natural History (AD 77\u201379)"
+  title: Teeth And Sparrows
+word_count: 131

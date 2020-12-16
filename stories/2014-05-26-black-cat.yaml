@@ -1,6 +1,18 @@
-date: 2014-05-26
-id: 2014-05-26-black-cat
-text: Shortly after the death of Constant Lambert in 1951, during a concert performance
-  of his Eight Poems By Li Po, a black cat appeared on the stage, sat patiently during
-  the music, then walked off, and was never seen again.
-title: Black Cat
+ngrams:
+- - stage
+  - sat
+  - patiently
+- - sat
+  - patiently
+  - during
+- - black
+  - cat
+  - shortly
+story:
+  date: 2014-05-26
+  id: 2014-05-26-black-cat
+  text: Shortly after the death of Constant Lambert in 1951, during a concert performance
+    of his Eight Poems By Li Po, a black cat appeared on the stage, sat patiently
+    during the music, then walked off, and was never seen again.
+  title: Black Cat
+word_count: 41

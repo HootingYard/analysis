@@ -1,14 +1,50 @@
-date: 2010-05-28
-id: 2010-05-28-what-news-of-moptops
-text: "It has long been my conviction that newspapers in this age o\u2019 pap \u2018\
-  n\u2019 barbarism are written and edited by numbskulls, dimwits, airheads and know-noughts.\
-  \ The sort of people who think \u201Cprima donna\u201D is spelled, and means, \u201C\
-  pre-Madonna\u201D and who are indeed wholly ignorant of almost everything that happened\
-  \ before about 1985.\nHere is a picture of Ringo Starr. I need not explain to Hooting\
-  \ Yard readers who he is.\n\nRingo was visiting the Chelsea Flower Show this week.\
-  \ A snap appeared in the Telegraph. The caption? \u201CRingo Starr, the narrator\
-  \ of Thomas the Tank Engine, with his wife Barbara Bach at the Chelsea Flower Show\
-  \ 2010.\u201D [My italics.]\nCruel it may be, but one is tempted to force these\
-  \ nitwits to listen to \u201COctopus's Garden\u201D over and over and over again,\
-  \ until the cows come home."
-title: What News Of Moptops?
+ngrams:
+- - numbskulls
+  - dimwits
+  - airheads
+- - caption
+  - ringo
+  - starr
+- - wife
+  - barbara
+  - bach
+- - pap
+  - n
+  - barbarism
+- - chelsea
+  - flower
+  - show
+- - chelsea
+  - flower
+  - show
+- - o
+  - pap
+  - n
+- - age
+  - o
+  - pap
+- - indeed
+  - wholly
+  - ignorant
+- - think
+  - prima
+  - donna
+- - force
+  - these
+  - nitwits
+story:
+  date: 2010-05-28
+  id: 2010-05-28-what-news-of-moptops
+  text: "It has long been my conviction that newspapers in this age o\u2019 pap \u2018\
+    n\u2019 barbarism are written and edited by numbskulls, dimwits, airheads and\
+    \ know-noughts. The sort of people who think \u201Cprima donna\u201D is spelled,\
+    \ and means, \u201Cpre-Madonna\u201D and who are indeed wholly ignorant of almost\
+    \ everything that happened before about 1985.\nHere is a picture of Ringo Starr.\
+    \ I need not explain to Hooting Yard readers who he is.\n\nRingo was visiting\
+    \ the Chelsea Flower Show this week. A snap appeared in the Telegraph. The caption?\
+    \ \u201CRingo Starr, the narrator of Thomas the Tank Engine, with his wife Barbara\
+    \ Bach at the Chelsea Flower Show 2010.\u201D [My italics.]\nCruel it may be,\
+    \ but one is tempted to force these nitwits to listen to \u201COctopus's Garden\u201D\
+    \ over and over and over again, until the cows come home."
+  title: What News Of Moptops?
+word_count: 140

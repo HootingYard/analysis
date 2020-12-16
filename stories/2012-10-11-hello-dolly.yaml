@@ -1,7 +1,19 @@
-date: 2012-10-11
-id: 2012-10-11-hello-dolly
-text: 'Many thanks to Claire Harmer for alerting me to this doll.
+ngrams:
+- - hello
+  - dolly
+  - many
+- - dolly
+  - many
+  - thanks
+- - this
+  - doll
+  - available
+story:
+  date: 2012-10-11
+  id: 2012-10-11-hello-dolly
+  text: 'Many thanks to Claire Harmer for alerting me to this doll.
 
 
-  Available on Amazon for just $137.77!'
-title: Hello Dolly
+    Available on Amazon for just $137.77!'
+  title: Hello Dolly
+word_count: 18

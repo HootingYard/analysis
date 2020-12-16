@@ -1,7 +1,19 @@
-date: 2014-03-16
-id: 2014-03-16-scenes-from-the-life-of-blodgett-no-1
-text: 'Blodgett (wearing a wig) surprises Mrs Pepinstow in her boudoir. But who is
-  the mysterious figure looming in the background?
+ngrams:
+- - wig
+  - surprises
+  - mrs
+- - surprises
+  - mrs
+  - pepinstow
+- - mysterious
+  - figure
+  - looming
+story:
+  date: 2014-03-16
+  id: 2014-03-16-scenes-from-the-life-of-blodgett-no-1
+  text: 'Blodgett (wearing a wig) surprises Mrs Pepinstow in her boudoir. But who
+    is the mysterious figure looming in the background?
 
-  '
-title: Scenes From The Life Of Blodgett, No. 1
+    '
+  title: Scenes From The Life Of Blodgett, No. 1
+word_count: 27

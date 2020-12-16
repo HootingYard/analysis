@@ -1,9 +1,21 @@
-date: 2012-10-02
-id: 2012-10-02-return-of-the-pod
-text: 'After an inexplicable hiatus, the Hooting Yard podcast returns! Pin back your
-  ears and listen . . .
+ngrams:
+- - podcast
+  - returns
+  - pin
+- - listen
+  - real
+  - orghast
+- - yard
+  - podcast
+  - returns
+story:
+  date: 2012-10-02
+  id: 2012-10-02-return-of-the-pod
+  text: 'After an inexplicable hiatus, the Hooting Yard podcast returns! Pin back
+    your ears and listen . . .
 
-  Real Orghast
+    Real Orghast
 
-  '
-title: Return Of The Pod
+    '
+  title: Return Of The Pod
+word_count: 21

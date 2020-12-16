@@ -1,8 +1,26 @@
-date: 2009-05-18
-id: 2009-05-18-four-types-of-reader
-text: "An eighteenth-century subscription library in London* divided its readers into\
-  \ four categories: the Sedate, the Historian, the Theatrical Amateur, and the Gay\
-  \ and Volatile.\nIf I can destroy the blockage which has made Hooting Yard fall\
-  \ silent in recent days, I shall devise a quiz so you can work out which type of\
-  \ reader you are.\n*NOTE\_: Not the London Library (see above)."
-title: Four Types Of Reader
+ngrams:
+- - eighteenth-century
+  - subscription
+  - library
+- - yard
+  - fall
+  - silent
+- - london
+  - library
+  - see
+- - library
+  - see
+  - above
+- - london
+  - divided
+  - its
+story:
+  date: 2009-05-18
+  id: 2009-05-18-four-types-of-reader
+  text: "An eighteenth-century subscription library in London* divided its readers\
+    \ into four categories: the Sedate, the Historian, the Theatrical Amateur, and\
+    \ the Gay and Volatile.\nIf I can destroy the blockage which has made Hooting\
+    \ Yard fall silent in recent days, I shall devise a quiz so you can work out which\
+    \ type of reader you are.\n*NOTE\_: Not the London Library (see above)."
+  title: Four Types Of Reader
+word_count: 67

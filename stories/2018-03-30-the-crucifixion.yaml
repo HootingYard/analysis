@@ -1,6 +1,18 @@
-date: 2018-03-30
-id: 2018-03-30-the-crucifixion
-text: 'For Good Friday, The Crucifixion by Horace Pippin (1943).
+ngrams:
+- - crucifixion
+  - by
+  - horace
+- - by
+  - horace
+  - pippin
+- - crucifixion
+  - for
+  - good
+story:
+  date: 2018-03-30
+  id: 2018-03-30-the-crucifixion
+  text: 'For Good Friday, The Crucifixion by Horace Pippin (1943).
 
-  '
-title: The Crucifixion
+    '
+  title: The Crucifixion
+word_count: 10

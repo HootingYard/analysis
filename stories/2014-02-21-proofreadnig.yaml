@@ -1,7 +1,19 @@
-date: 2014-02-21
-id: 2014-02-21-proofreadnig
-text: '
+ngrams:
+- - titanic
+  - figure
+  - from
+- - proofreadnig
+  - over
+  - at
+- - dabbler
+  - i
+  - introduce
+story:
+  date: 2014-02-21
+  id: 2014-02-21-proofreadnig
+  text: '
 
-  Over at The Dabbler, I introduce readers to a titanic figure from the pernickety
-  world of proofreadnig.'
-title: Proofreadnig
+    Over at The Dabbler, I introduce readers to a titanic figure from the pernickety
+    world of proofreadnig.'
+  title: Proofreadnig
+word_count: 18

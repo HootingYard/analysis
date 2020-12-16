@@ -1,10 +1,25 @@
-date: 2011-01-14
-id: 2011-01-14-dabblehub
-text: '
+ngrams:
+- - black-and-white
+  - juddery
+  - camera-work
+- - faffing-about
+  - network
+  - aaron
+- - network
+  - aaron
+  - sorkin
+- - antisocial
+  - faffing-about
+  - network
+story:
+  date: 2011-01-14
+  id: 2011-01-14-dabblehub
+  text: '
 
-  Unlock the door of this week''s Dabbler cupboard, and when it creaks open you will
-  find instructions on how to join DABBLEHUB, the exciting new antisocial faffing-about
-  network. Aaron Sorkin is already at work on a feature film (silent, black-and-white,
-  juddery camera-work) which will chronicle the troubled gestation of this most dabbly
-  of hubs.'
-title: Dabblehub
+    Unlock the door of this week''s Dabbler cupboard, and when it creaks open you
+    will find instructions on how to join DABBLEHUB, the exciting new antisocial faffing-about
+    network. Aaron Sorkin is already at work on a feature film (silent, black-and-white,
+    juddery camera-work) which will chronicle the troubled gestation of this most
+    dabbly of hubs.'
+  title: Dabblehub
+word_count: 56

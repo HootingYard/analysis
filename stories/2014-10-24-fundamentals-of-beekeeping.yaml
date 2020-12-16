@@ -1,6 +1,18 @@
-date: 2014-10-24
-id: 2014-10-24-fundamentals-of-beekeeping
-text: "A pigeon arrives bearing a note and a snippage from OutaSpaceman. \u201CI felt\
-  \ you needed to see this picture\u201D, reads the note. Seldom has a man been more\
-  \ correct in his hunch.\n"
-title: Fundamentals Of Beekeeping
+ngrams:
+- - pigeon
+  - arrives
+  - bearing
+- - note
+  - seldom
+  - has
+- - been
+  - more
+  - correct
+story:
+  date: 2014-10-24
+  id: 2014-10-24-fundamentals-of-beekeeping
+  text: "A pigeon arrives bearing a note and a snippage from OutaSpaceman. \u201C\
+    I felt you needed to see this picture\u201D, reads the note. Seldom has a man\
+    \ been more correct in his hunch.\n"
+  title: Fundamentals Of Beekeeping
+word_count: 35

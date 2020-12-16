@@ -1,5 +1,17 @@
-date: 2013-05-13
-id: 2013-05-13-a-just-war
-text: "A just war, according to Jean Racine, is occasioned when \u201Ca King's puissance\
-  \ is ruin'd in the eyes of strangers\u201D."
-title: A Just War
+ngrams:
+- - just
+  - war
+  - according
+- - king
+  - s
+  - puissance
+- - jean
+  - racine
+  - is
+story:
+  date: 2013-05-13
+  id: 2013-05-13-a-just-war
+  text: "A just war, according to Jean Racine, is occasioned when \u201Ca King's puissance\
+    \ is ruin'd in the eyes of strangers\u201D."
+  title: A Just War
+word_count: 25

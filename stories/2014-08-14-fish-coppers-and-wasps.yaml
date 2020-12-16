@@ -1,7 +1,19 @@
-date: 2014-08-14
-id: 2014-08-14-fish-coppers-and-wasps
-text: 'I missed this story in the papers. Today I learned that
+ngrams:
+- - missed
+  - this
+  - story
+- - fish
+  - tank
+  - from
+- - by
+  - police
+  - investigating
+story:
+  date: 2014-08-14
+  id: 2014-08-14-fish-coppers-and-wasps
+  text: 'I missed this story in the papers. Today I learned that
 
-  A man sought by police investigating the theft of a fish tank from a furniture shop
-  in Leeds hid in a bush and was attacked by a swarm of wasps.'
-title: Fish, Coppers, And Wasps
+    A man sought by police investigating the theft of a fish tank from a furniture
+    shop in Leeds hid in a bush and was attacked by a swarm of wasps.'
+  title: Fish, Coppers, And Wasps
+word_count: 45

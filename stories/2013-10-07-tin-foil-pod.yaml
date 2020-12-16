@@ -1,6 +1,18 @@
-date: 2013-10-07
-id: 2013-10-07-tin-foil-pod
-text: 'On Tin Foil
+ngrams:
+- - tin
+  - foil
+  - pod
+- - foil
+  - pod
+  - 'on'
+- - 'on'
+  - tin
+  - foil
+story:
+  date: 2013-10-07
+  id: 2013-10-07-tin-foil-pod
+  text: 'On Tin Foil
 
-  '
-title: Tin Foil Pod
+    '
+  title: Tin Foil Pod
+word_count: 6

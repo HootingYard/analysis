@@ -1,6 +1,18 @@
-date: 2010-06-06
-id: 2010-06-06-when-mr-key-went-feral
-text: You will recall that last week Mr Key (and Pansy Cradledew) took part in a broadcast
-  performance by Phil Minton's Feral Choir on ResonanceFM. Now you can listen to a
-  recording of the programme here.
-title: When Mr Key Went Feral
+ngrams:
+- - pansy
+  - cradledew
+  - took
+- - cradledew
+  - took
+  - part
+- - key
+  - went
+  - feral
+story:
+  date: 2010-06-06
+  id: 2010-06-06-when-mr-key-went-feral
+  text: You will recall that last week Mr Key (and Pansy Cradledew) took part in a
+    broadcast performance by Phil Minton's Feral Choir on ResonanceFM. Now you can
+    listen to a recording of the programme here.
+  title: When Mr Key Went Feral
+word_count: 41

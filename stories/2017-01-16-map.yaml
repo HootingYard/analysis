@@ -1,6 +1,18 @@
-date: 2017-01-16
-id: 2017-01-16-map
-text: 'A hand-drawn map by my son Sam. Click to enlarge.
+ngrams:
+- - son
+  - sam
+  - click
+- - hand-drawn
+  - map
+  - by
+- - my
+  - son
+  - sam
+story:
+  date: 2017-01-16
+  id: 2017-01-16-map
+  text: 'A hand-drawn map by my son Sam. Click to enlarge.
 
-  '
-title: Map
+    '
+  title: Map
+word_count: 11

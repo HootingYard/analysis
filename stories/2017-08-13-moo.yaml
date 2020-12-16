@@ -1,8 +1,20 @@
-date: 2017-08-13
-id: 2017-08-13-moo
-text: 'Aficionados of 1970s Marxist art-rock collectives may be intrigued by this
-  book cover.
+ngrams:
+- - marxist
+  - art-rock
+  - collectives
+- - henry
+  - cow
+  - page
+- - book
+  - cover
+  - via
+story:
+  date: 2017-08-13
+  id: 2017-08-13-moo
+  text: 'Aficionados of 1970s Marxist art-rock collectives may be intrigued by this
+    book cover.
 
 
-  Via the Henry Cow page on Facecloth.'
-title: Moo
+    Via the Henry Cow page on Facecloth.'
+  title: Moo
+word_count: 21

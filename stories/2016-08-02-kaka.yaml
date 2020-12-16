@@ -1,9 +1,27 @@
-date: 2016-08-02
-id: 2016-08-02-kaka
-text: 'Back in 2007, and then again in 2010, I wrote about Kaka. Although I did not
-  mention it specifically, I was at the time under the impression that Kaka was a
-  foopballer. I have now learned that Kaka is, in fact, a bird. This sheds an entirely
-  new light on things, and I fear I must go back to the drawing-board.
+ngrams:
+- - entirely
+  - new
+  - light
+- - must
+  - go
+  - back
+- - about
+  - kaka
+  - although
+- - wrote
+  - about
+  - kaka
+- - sheds
+  - an
+  - entirely
+story:
+  date: 2016-08-02
+  id: 2016-08-02-kaka
+  text: 'Back in 2007, and then again in 2010, I wrote about Kaka. Although I did
+    not mention it specifically, I was at the time under the impression that Kaka
+    was a foopballer. I have now learned that Kaka is, in fact, a bird. This sheds
+    an entirely new light on things, and I fear I must go back to the drawing-board.
 
-  '
-title: Kaka
+    '
+  title: Kaka
+word_count: 60

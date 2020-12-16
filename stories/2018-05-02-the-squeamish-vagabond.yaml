@@ -1,8 +1,29 @@
-date: 2018-05-02
-id: 2018-05-02-the-squeamish-vagabond
-text: "I am the squeamish vagabond\n  I swoon when I see blood\n  And I see blood\
-  \ aplenty\n  As I trudge through slime and mud\n  As I roam from copse to spinney\n\
-  \  I see corpses widely strewn\n  Of slaughtered tramps and vagrants\n  I fear I'll\
-  \ join them soon\n  For I'm pursued by a violent foe\n  A fiend from the bottomless\
-  \ pond\n  I tremble and piddle in my pants\n  I'm the squeamish vagabond"
-title: The Squeamish Vagabond
+ngrams:
+- - corpses
+  - widely
+  - strewn
+- - see
+  - corpses
+  - widely
+- - trudge
+  - through
+  - slime
+- - see
+  - blood
+  - aplenty
+- - ll
+  - join
+  - them
+- - join
+  - them
+  - soon
+story:
+  date: 2018-05-02
+  id: 2018-05-02-the-squeamish-vagabond
+  text: "I am the squeamish vagabond\n  I swoon when I see blood\n  And I see blood\
+    \ aplenty\n  As I trudge through slime and mud\n  As I roam from copse to spinney\n\
+    \  I see corpses widely strewn\n  Of slaughtered tramps and vagrants\n  I fear\
+    \ I'll join them soon\n  For I'm pursued by a violent foe\n  A fiend from the\
+    \ bottomless pond\n  I tremble and piddle in my pants\n  I'm the squeamish vagabond"
+  title: The Squeamish Vagabond
+word_count: 76

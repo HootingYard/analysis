@@ -1,9 +1,25 @@
-date: 2018-02-10
-id: 2018-02-10-annals-of-print
-text: 'Conducting research into the world of children''s comics, I learned that several
-  decades ago there was a brouhaha in the offices of a popular comic for girls. The
-  subeditors and junior reporters rose up in rebellion against the formidable editrix,
-  and ejected her from the building. This became known as The Mutiny On The Bunty.
+ngrams:
+- - junior
+  - reporters
+  - rose
+- - print
+  - conducting
+  - research
+- - several
+  - decades
+  - ago
+- - reporters
+  - rose
+  - up
+story:
+  date: 2018-02-10
+  id: 2018-02-10-annals-of-print
+  text: 'Conducting research into the world of children''s comics, I learned that
+    several decades ago there was a brouhaha in the offices of a popular comic for
+    girls. The subeditors and junior reporters rose up in rebellion against the formidable
+    editrix, and ejected her from the building. This became known as The Mutiny On
+    The Bunty.
 
-  '
-title: Annals Of Print
+    '
+  title: Annals Of Print
+word_count: 59

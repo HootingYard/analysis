@@ -1,6 +1,18 @@
-date: 2010-01-19
-id: 2010-01-19-a-bowl-of-slops-and-pap
-text: '
+ngrams:
+- - by
+  - outa
+  - spaceman
+- - led
+  - by
+  - outa
+- - was
+  - led
+  - by
+story:
+  date: 2010-01-19
+  id: 2010-01-19-a-bowl-of-slops-and-pap
+  text: '
 
-  Courtesy of ImageChef, to which I was led by Outa_Spaceman.'
-title: A Bowl Of Slops And Pap
+    Courtesy of ImageChef, to which I was led by Outa_Spaceman.'
+  title: A Bowl Of Slops And Pap
+word_count: 17

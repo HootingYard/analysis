@@ -1,10 +1,22 @@
-date: 2011-02-18
-id: 2011-02-18-breakfast-muffin-dabble
-text: '
+ngrams:
+- - dominion
+  - continues
+  - apace
+- - global
+  - dominion
+  - continues
+- - elsewhere
+  - global
+  - dominion
+story:
+  date: 2011-02-18
+  id: 2011-02-18-breakfast-muffin-dabble
+  text: '
 
-  Over at The Dabbler this week, the muffin dilemma of De Quincey''s lieutenant-colonel,
-  one of the greatest of all breakfast anecdotes.
+    Over at The Dabbler this week, the muffin dilemma of De Quincey''s lieutenant-colonel,
+    one of the greatest of all breakfast anecdotes.
 
-  Elsewhere, global dominion continues apace with my diverse and vibrant wittering
-  on Episode 72 of The Pod Delusion.'
-title: Breakfast Muffin Dabble
+    Elsewhere, global dominion continues apace with my diverse and vibrant wittering
+    on Episode 72 of The Pod Delusion.'
+  title: Breakfast Muffin Dabble
+word_count: 42

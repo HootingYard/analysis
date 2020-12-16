@@ -1,4 +1,17 @@
-date: 2017-02-10
-id: 2017-02-10-episode-141-point-2
-text: Yesterday's episode of Hooting Yard On The Air. May contain plums. Listen here.
-title: Episode 141 Point 2
+ngrams:
+- - contain
+  - plums
+  - listen
+- - episode
+  - point
+  - yesterday
+- - plums
+  - listen
+  - here
+story:
+  date: 2017-02-10
+  id: 2017-02-10-episode-141-point-2
+  text: Yesterday's episode of Hooting Yard On The Air. May contain plums. Listen
+    here.
+  title: Episode 141 Point 2
+word_count: 16

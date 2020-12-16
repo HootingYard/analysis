@@ -1,11 +1,39 @@
-date: 2007-05-17
-id: 2007-05-17-the-enigma-of-kaspar-hauser
-text: "\u201CDaumer plied [Kaspar] Hauser with a succession of substances, gauging\
-  \ each time his strong and hypersensitive reactions. Anything might throw the boy\
-  \ into a fit, cause cramps or compulsive shivers, or plunge him into a sudden unconsciousness.\
-  \ Daumer wondered at the odd succession of the boy's sensitivities. Thunderstorms,\
-  \ the full moon, brandy, loud noises, quiet noises, squeezed cheese, bright daylight,\
-  \ beer, cats, spiders, snakes, flowers and grape juice\u2014all these things powerfully\
-  \ moved him. He was also found to dislike beards, the colour black, and comedy.\u201D\
-  \nFrom Savage Girls And Wild Boys\_: A History Of Feral Children by Michael Newton\n"
-title: The Enigma Of Kaspar Hauser
+ngrams:
+- - kaspar
+  - hauser
+  - daumer
+- - hauser
+  - daumer
+  - plied
+- - daumer
+  - plied
+  - kaspar
+- - plied
+  - kaspar
+  - hauser
+- - beer
+  - cats
+  - spiders
+- - cats
+  - spiders
+  - snakes
+- - daylight
+  - beer
+  - cats
+- - spiders
+  - snakes
+  - flowers
+story:
+  date: 2007-05-17
+  id: 2007-05-17-the-enigma-of-kaspar-hauser
+  text: "\u201CDaumer plied [Kaspar] Hauser with a succession of substances, gauging\
+    \ each time his strong and hypersensitive reactions. Anything might throw the\
+    \ boy into a fit, cause cramps or compulsive shivers, or plunge him into a sudden\
+    \ unconsciousness. Daumer wondered at the odd succession of the boy's sensitivities.\
+    \ Thunderstorms, the full moon, brandy, loud noises, quiet noises, squeezed cheese,\
+    \ bright daylight, beer, cats, spiders, snakes, flowers and grape juice\u2014\
+    all these things powerfully moved him. He was also found to dislike beards, the\
+    \ colour black, and comedy.\u201D\nFrom Savage Girls And Wild Boys\_: A History\
+    \ Of Feral Children by Michael Newton\n"
+  title: The Enigma Of Kaspar Hauser
+word_count: 106

@@ -1,10 +1,28 @@
-date: 2015-03-17
-id: 2015-03-17-penguin-research
-text: 'There was an item on the Today programme on BBC Radio Four this morning about
-  a new scientific study of penguins. I am afraid I was not paying due attention so
-  cannot enlighten you. However, it did serve to remind me that, in the long ago,
-  when I used to draw pictures, I once depicted, in the medium of pen and ink, a scientific
-  experiment upon a penguin.
+ngrams:
+- - bbc
+  - radio
+  - four
+- - paying
+  - due
+  - attention
+- - new
+  - scientific
+  - study
+- - scientific
+  - experiment
+  - upon
+- - penguin
+  - research
+  - there
+story:
+  date: 2015-03-17
+  id: 2015-03-17-penguin-research
+  text: 'There was an item on the Today programme on BBC Radio Four this morning about
+    a new scientific study of penguins. I am afraid I was not paying due attention
+    so cannot enlighten you. However, it did serve to remind me that, in the long
+    ago, when I used to draw pictures, I once depicted, in the medium of pen and ink,
+    a scientific experiment upon a penguin.
 
-  '
-title: Penguin Research
+    '
+  title: Penguin Research
+word_count: 70

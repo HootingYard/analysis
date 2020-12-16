@@ -1,13 +1,50 @@
-date: 2009-04-21
-id: 2009-04-21-shepperton-and-hampstead
-text: "I haven't read anything by J G Ballard since I was a teenager. Nor have I read,\
-  \ or enjoyed, much science fiction. A simple statement by Ballard, filmed in 2006\
-  \ and shown on a Channel Four News obituary last night, makes me suspect I've been\
-  \ missing something. He said:\n\u201CThe great thing about science fiction is that\
-  \ nobody lives in Hampstead.\u201D\nCompare and contrast with this extract from\
-  \ a book review by some airhead a few years ago, which I shall have to paraphrase\
-  \ because I cannot track down the exact quote:\n\u201CThis is a perfectly-observed\
-  \ portrait of North London literary life, with such telling details as the copy\
-  \ of the weekend Guardian Guide on the coffee table.\u201D\nI don't recall which\
-  \ novel was under review, but it could have been one among hundreds, couldn't it?"
-title: Shepperton And Hampstead
+ngrams:
+- - j
+  - g
+  - ballard
+- - weekend
+  - guardian
+  - guide
+- - north
+  - london
+  - literary
+- - g
+  - ballard
+  - since
+- - four
+  - news
+  - obituary
+- - channel
+  - four
+  - news
+- - among
+  - hundreds
+  - couldn
+- - london
+  - literary
+  - life
+- - news
+  - obituary
+  - last
+- - hundreds
+  - couldn
+  - t
+- - enjoyed
+  - much
+  - science
+story:
+  date: 2009-04-21
+  id: 2009-04-21-shepperton-and-hampstead
+  text: "I haven't read anything by J G Ballard since I was a teenager. Nor have I\
+    \ read, or enjoyed, much science fiction. A simple statement by Ballard, filmed\
+    \ in 2006 and shown on a Channel Four News obituary last night, makes me suspect\
+    \ I've been missing something. He said:\n\u201CThe great thing about science fiction\
+    \ is that nobody lives in Hampstead.\u201D\nCompare and contrast with this extract\
+    \ from a book review by some airhead a few years ago, which I shall have to paraphrase\
+    \ because I cannot track down the exact quote:\n\u201CThis is a perfectly-observed\
+    \ portrait of North London literary life, with such telling details as the copy\
+    \ of the weekend Guardian Guide on the coffee table.\u201D\nI don't recall which\
+    \ novel was under review, but it could have been one among hundreds, couldn't\
+    \ it?"
+  title: Shepperton And Hampstead
+word_count: 142

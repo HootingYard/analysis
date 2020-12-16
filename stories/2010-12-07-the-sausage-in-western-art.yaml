@@ -1,8 +1,26 @@
-date: 2010-12-07
-id: 2010-12-07-the-sausage-in-western-art
-text: "From far California, my brother has sent me a snap of something so sausagey\
-  \ and preposterous that I feel compelled to share it with you. Constructed by a\
-  \ drama teacher who once put my nephew through his thespian paces, this is a Christian\
-  \ nativity scene made entirely from sausages and bacon. Warning\_: may contain sausages\
-  \ and bacon.\n"
-title: The Sausage In Western Art
+ngrams:
+- - christian
+  - nativity
+  - scene
+- - nativity
+  - scene
+  - made
+- - scene
+  - made
+  - entirely
+- - bacon
+  - warning
+  - may
+- - warning
+  - may
+  - contain
+story:
+  date: 2010-12-07
+  id: 2010-12-07-the-sausage-in-western-art
+  text: "From far California, my brother has sent me a snap of something so sausagey\
+    \ and preposterous that I feel compelled to share it with you. Constructed by\
+    \ a drama teacher who once put my nephew through his thespian paces, this is a\
+    \ Christian nativity scene made entirely from sausages and bacon. Warning\_: may\
+    \ contain sausages and bacon.\n"
+  title: The Sausage In Western Art
+word_count: 62

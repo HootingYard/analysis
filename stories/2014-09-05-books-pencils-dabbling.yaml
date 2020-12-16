@@ -1,7 +1,22 @@
-date: 2014-09-05
-id: 2014-09-05-books-pencils-dabbling
-text: "\nMr Key has been feeling somewhat debilitated for the past few days\u2014\
-  not unconnected, perhaps, to sci-fi hero Lantus Solostar and the Humalog\u2014hence\
-  \ the Hooting Yard silence. Over at The Dabbler today, however, there is a brief\
-  \ note on books and pencils (and in praise of Henry Petroski)."
-title: Books. Pencils. Dabbling.
+ngrams:
+- - hero
+  - lantus
+  - solostar
+- - sci-fi
+  - hero
+  - lantus
+- - feeling
+  - somewhat
+  - debilitated
+- - books
+  - pencils
+  - dabbling
+story:
+  date: 2014-09-05
+  id: 2014-09-05-books-pencils-dabbling
+  text: "\nMr Key has been feeling somewhat debilitated for the past few days\u2014\
+    not unconnected, perhaps, to sci-fi hero Lantus Solostar and the Humalog\u2014\
+    hence the Hooting Yard silence. Over at The Dabbler today, however, there is a\
+    \ brief note on books and pencils (and in praise of Henry Petroski)."
+  title: Books. Pencils. Dabbling.
+word_count: 52

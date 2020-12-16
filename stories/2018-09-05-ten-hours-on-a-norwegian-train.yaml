@@ -1,4 +1,16 @@
-date: 2018-09-05
-id: 2018-09-05-ten-hours-on-a-norwegian-train
-text: ''
-title: Ten Hours On A Norwegian Train
+ngrams:
+- - ten
+  - hours
+  - 'on'
+- - a
+  - norwegian
+  - train
+- - 'on'
+  - a
+  - norwegian
+story:
+  date: 2018-09-05
+  id: 2018-09-05-ten-hours-on-a-norwegian-train
+  text: ''
+  title: Ten Hours On A Norwegian Train
+word_count: 6

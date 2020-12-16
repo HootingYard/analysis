@@ -1,7 +1,19 @@
-date: 2014-02-03
-id: 2014-02-03-gruesome-bird-fact
-text: 'Grey herons eat moles.
+ngrams:
+- - herons
+  - eat
+  - moles
+- - grey
+  - herons
+  - eat
+- - eat
+  - moles
+  - snap
+story:
+  date: 2014-02-03
+  id: 2014-02-03-gruesome-bird-fact
+  text: 'Grey herons eat moles.
 
 
-  Snap by George Nisbet'
-title: Gruesome Bird Fact
+    Snap by George Nisbet'
+  title: Gruesome Bird Fact
+word_count: 11

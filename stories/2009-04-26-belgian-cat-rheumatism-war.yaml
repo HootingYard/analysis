@@ -1,8 +1,26 @@
-date: 2009-04-26
-id: 2009-04-26-belgian-cat-rheumatism-war
-text: "\u201CThe inhabitants of Southwark considered a particular remedy, such as\
-  \ the use of cat skin as a remedy for rheumatism and chest complaints, as \u2018\
-  traditional\u2019 when it had in fact been newly introduced to the Borough of Southwark\
-  \ by Belgian refugees during the First World War.\u201D\nReligious belief and popular\
-  \ culture in Southwark, c. 1880\u20131939 by S C Williams (OUP, 1999)"
-title: Belgian + Cat + Rheumatism + War
+ngrams:
+- - c
+  - williams
+  - oup
+- - belgian
+  - cat
+  - rheumatism
+- - war
+  - religious
+  - belief
+- - cat
+  - rheumatism
+  - war
+- - belgian
+  - refugees
+  - during
+story:
+  date: 2009-04-26
+  id: 2009-04-26-belgian-cat-rheumatism-war
+  text: "\u201CThe inhabitants of Southwark considered a particular remedy, such as\
+    \ the use of cat skin as a remedy for rheumatism and chest complaints, as \u2018\
+    traditional\u2019 when it had in fact been newly introduced to the Borough of\
+    \ Southwark by Belgian refugees during the First World War.\u201D\nReligious belief\
+    \ and popular culture in Southwark, c. 1880\u20131939 by S C Williams (OUP, 1999)"
+  title: Belgian + Cat + Rheumatism + War
+word_count: 63

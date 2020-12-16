@@ -1,7 +1,23 @@
-date: 2014-10-19
-id: 2014-10-19-standard-irish-poem-no-1
-text: "I can see my father now\n  With his spade\n  Digging up potatoes\n  In a field\n\
-  \  As rain pours down\n  Then trudging back\n  His boots in the muck\n  To the filthy\
-  \ cottage\n  Where my mother clutches her rosary beads\n  And prays to the Blessed\
-  \ Virgin\n  For more rain\n  And more potatoes\n  To feed the visiting priest"
-title: Standard Irish Poem No.1
+ngrams:
+- - standard
+  - irish
+  - poem
+- - rain
+  - pours
+  - down
+- - filthy
+  - cottage
+  - where
+- - clutches
+  - her
+  - rosary
+story:
+  date: 2014-10-19
+  id: 2014-10-19-standard-irish-poem-no-1
+  text: "I can see my father now\n  With his spade\n  Digging up potatoes\n  In a\
+    \ field\n  As rain pours down\n  Then trudging back\n  His boots in the muck\n\
+    \  To the filthy cottage\n  Where my mother clutches her rosary beads\n  And prays\
+    \ to the Blessed Virgin\n  For more rain\n  And more potatoes\n  To feed the visiting\
+    \ priest"
+  title: Standard Irish Poem No.1
+word_count: 59

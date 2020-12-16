@@ -1,11 +1,38 @@
-date: 2012-01-31
-id: 2012-01-31-eggpal
-text: "This morning I received an email from PayPal containing\u2014among other things\u2014\
-  this curious claim:\n\nIt had never before occurred to me that, when seeking to\
-  \ identify birds\u2019 eggs, the first port of call should be a PayPal customer\
-  \ services person. However, now I know, and I shall be bombarding them with all\
-  \ my birds\u2019 egg identification quandaries. You should do likewise.\nADDENDUM\_\
-  : While you're there checking your birds\u2019 eggs, don't forget to give alms to\
-  \ the Hooting Yard Fighting Fund. (I'm not sure yet who or what we're fighting,\
-  \ but don't you worry about that.)"
-title: EggPal
+ngrams:
+- - paypal
+  - customer
+  - services
+- - egg
+  - identification
+  - quandaries
+- - customer
+  - services
+  - person
+- - paypal
+  - containing
+  - among
+- - birds
+  - egg
+  - identification
+- - identify
+  - birds
+  - eggs
+- - likewise
+  - addendum
+  - while
+- - services
+  - person
+  - however
+story:
+  date: 2012-01-31
+  id: 2012-01-31-eggpal
+  text: "This morning I received an email from PayPal containing\u2014among other\
+    \ things\u2014this curious claim:\n\nIt had never before occurred to me that,\
+    \ when seeking to identify birds\u2019 eggs, the first port of call should be\
+    \ a PayPal customer services person. However, now I know, and I shall be bombarding\
+    \ them with all my birds\u2019 egg identification quandaries. You should do likewise.\n\
+    ADDENDUM\_: While you're there checking your birds\u2019 eggs, don't forget to\
+    \ give alms to the Hooting Yard Fighting Fund. (I'm not sure yet who or what we're\
+    \ fighting, but don't you worry about that.)"
+  title: EggPal
+word_count: 102

@@ -1,6 +1,18 @@
-date: 2012-10-26
-id: 2012-10-26-crap-vox-tv-pock-po-po
-text: 'What does it all mean?
+ngrams:
+- - pock
+  - po
+  - po
+- - crap
+  - vox
+  - tv
+- - vox
+  - tv
+  - pock
+story:
+  date: 2012-10-26
+  id: 2012-10-26-crap-vox-tv-pock-po-po
+  text: 'What does it all mean?
 
-  '
-title: Crap Vox TV Pock Po Po
+    '
+  title: Crap Vox TV Pock Po Po
+word_count: 11

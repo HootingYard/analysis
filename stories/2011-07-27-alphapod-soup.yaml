@@ -1,6 +1,15 @@
-date: 2011-07-27
-id: 2011-07-27-alphapod-soup
-text: 'Alphabet Soup
+ngrams:
+- - alphapod
+  - soup
+  - alphabet
+- - soup
+  - alphabet
+  - soup
+story:
+  date: 2011-07-27
+  id: 2011-07-27-alphapod-soup
+  text: 'Alphabet Soup
 
-  '
-title: Alphapod Soup
+    '
+  title: Alphapod Soup
+word_count: 4

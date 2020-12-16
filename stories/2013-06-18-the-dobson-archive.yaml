@@ -1,9 +1,21 @@
-date: 2013-06-18
-id: 2013-06-18-the-dobson-archive
-text: 'An exceedingly rare snap of august Dobsonist Aloysius Nestingbird trying to
-  locate a particular title among the crammed shelves of the out of print pamphleteer''s
-  teeming archive.
+ngrams:
+- - dobsonist
+  - aloysius
+  - nestingbird
+- - august
+  - dobsonist
+  - aloysius
+- - aloysius
+  - nestingbird
+  - trying
+story:
+  date: 2013-06-18
+  id: 2013-06-18-the-dobson-archive
+  text: 'An exceedingly rare snap of august Dobsonist Aloysius Nestingbird trying
+    to locate a particular title among the crammed shelves of the out of print pamphleteer''s
+    teeming archive.
 
 
-  Or possibly the old Cincinnati Library.'
-title: The Dobson Archive
+    Or possibly the old Cincinnati Library.'
+  title: The Dobson Archive
+word_count: 37

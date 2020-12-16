@@ -1,12 +1,42 @@
-date: 2009-05-05
-id: 2009-05-05-further-information-required
-text: "Alan Bristow, whose obituary appears in today's Guardian, was clearly quite\
-  \ a character. Here was a man who once threw Douglas Bader into a swimming pool\
-  \ (pity it wasn't a pond, I sighed) and called him a \u201Ctin-legged git\u201D\
-  . I was particularly struck by one little detail, maddeningly not expanded upon,\
-  \ one of those asides that have you clamouring for more information.\nBristow survived\
-  \ into old age to die at 85, just a decade after licensing for production a patent\
-  \ \u201Cwater bed\u201D for cows\u2026\nWhat? What what what? It is sometimes said\
-  \ that Hooting Yard is \u201Codd\u201D or \u201Cwacky\u201D, but the \u201Creal\
-  \ world\u201D is infinitely more strange."
-title: Further Information Required
+ngrams:
+- - threw
+  - douglas
+  - bader
+- - required
+  - alan
+  - bristow
+- - information
+  - bristow
+  - survived
+- - swimming
+  - pool
+  - pity
+- - information
+  - required
+  - alan
+- - bristow
+  - whose
+  - obituary
+- - alan
+  - bristow
+  - whose
+- - whose
+  - obituary
+  - appears
+- - further
+  - information
+  - required
+story:
+  date: 2009-05-05
+  id: 2009-05-05-further-information-required
+  text: "Alan Bristow, whose obituary appears in today's Guardian, was clearly quite\
+    \ a character. Here was a man who once threw Douglas Bader into a swimming pool\
+    \ (pity it wasn't a pond, I sighed) and called him a \u201Ctin-legged git\u201D\
+    . I was particularly struck by one little detail, maddeningly not expanded upon,\
+    \ one of those asides that have you clamouring for more information.\nBristow\
+    \ survived into old age to die at 85, just a decade after licensing for production\
+    \ a patent \u201Cwater bed\u201D for cows\u2026\nWhat? What what what? It is sometimes\
+    \ said that Hooting Yard is \u201Codd\u201D or \u201Cwacky\u201D, but the \u201C\
+    real world\u201D is infinitely more strange."
+  title: Further Information Required
+word_count: 111

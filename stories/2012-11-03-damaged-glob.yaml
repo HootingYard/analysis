@@ -1,6 +1,18 @@
-date: 2012-11-03
-id: 2012-11-03-damaged-glob
-text: '
+ngrams:
+- - ptak
+  - science
+  - books
+- - damaged
+  - glob
+  - from
+- - glob
+  - from
+  - ptak
+story:
+  date: 2012-11-03
+  id: 2012-11-03-damaged-glob
+  text: '
 
-  from Ptak Science Books'
-title: Damaged Glob
+    from Ptak Science Books'
+  title: Damaged Glob
+word_count: 6

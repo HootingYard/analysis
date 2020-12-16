@@ -1,6 +1,18 @@
-date: 2011-05-22
-id: 2011-05-22-h2o-pod
-text: 'H to O
+ngrams:
+- - h
+  - o
+  - pod
+- - o
+  - pod
+  - h
+- - pod
+  - h
+  - to
+story:
+  date: 2011-05-22
+  id: 2011-05-22-h2o-pod
+  text: 'H to O
 
-  '
-title: H2O Pod
+    '
+  title: H2O Pod
+word_count: 6

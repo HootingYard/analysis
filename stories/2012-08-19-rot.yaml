@@ -1,17 +1,65 @@
-date: 2012-08-19
-id: 2012-08-19-rot
-text: "Gentlemen, you are now about to embark on a course of studies which will occupy\
-  \ you for two years. Together, they form a noble adventure. But I would like to\
-  \ remind you of an important point. Some of you, when you go down from the University,\
-  \ will go into the Church, or to the Bar, or to the House of Commons, or to the\
-  \ Home Civil Service, or to the Indian or Colonial Services, or into various professions.\
-  \ Some may go into the Army, some into industry and commerce; some may become country\
-  \ gentlemen. A few\u2014I hope a very few\u2014will become teachers or dons. Let\
-  \ me make this clear to you. Except for those in the last category, nothing that\
-  \ you will learn in the course of your studies will be of the slightest possible\
-  \ use to you in after life\u2014save only this\u2014that if you work hard and intelligently\
-  \ you should be able to detect when a man is talking rot, and that, in my view,\
-  \ is the main, if not the sole, purpose of education.\nJohn Alexander Smith, Waynflete\
-  \ Professor of Moral and Metaphysical Philosophy at Oxford, introducing a series\
-  \ of lectures in 1914."
-title: Rot
+ngrams:
+- - alexander
+  - smith
+  - waynflete
+- - smith
+  - waynflete
+  - professor
+- - john
+  - alexander
+  - smith
+- - education
+  - john
+  - alexander
+- - become
+  - country
+  - gentlemen
+- - slightest
+  - possible
+  - use
+- - home
+  - civil
+  - service
+- - last
+  - category
+  - nothing
+- - may
+  - become
+  - country
+- - after
+  - life
+  - save
+- - life
+  - save
+  - only
+- - various
+  - professions
+  - some
+- - two
+  - years
+  - together
+- - important
+  - point
+  - some
+- - into
+  - various
+  - professions
+story:
+  date: 2012-08-19
+  id: 2012-08-19-rot
+  text: "Gentlemen, you are now about to embark on a course of studies which will\
+    \ occupy you for two years. Together, they form a noble adventure. But I would\
+    \ like to remind you of an important point. Some of you, when you go down from\
+    \ the University, will go into the Church, or to the Bar, or to the House of Commons,\
+    \ or to the Home Civil Service, or to the Indian or Colonial Services, or into\
+    \ various professions. Some may go into the Army, some into industry and commerce;\
+    \ some may become country gentlemen. A few\u2014I hope a very few\u2014will become\
+    \ teachers or dons. Let me make this clear to you. Except for those in the last\
+    \ category, nothing that you will learn in the course of your studies will be\
+    \ of the slightest possible use to you in after life\u2014save only this\u2014\
+    that if you work hard and intelligently you should be able to detect when a man\
+    \ is talking rot, and that, in my view, is the main, if not the sole, purpose\
+    \ of education.\nJohn Alexander Smith, Waynflete Professor of Moral and Metaphysical\
+    \ Philosophy at Oxford, introducing a series of lectures in 1914."
+  title: Rot
+word_count: 199

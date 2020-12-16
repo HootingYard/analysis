@@ -1,5 +1,17 @@
-date: 2015-11-12
-id: 2015-11-12-on-the-blink
-text: Mr Key's computer is on the blink. It is to be hoped normal service will be
-  resumed as soon as possible,
-title: On The Blink
+ngrams:
+- - hoped
+  - normal
+  - service
+- - blink
+  - mr
+  - key
+- - normal
+  - service
+  - will
+story:
+  date: 2015-11-12
+  id: 2015-11-12-on-the-blink
+  text: Mr Key's computer is on the blink. It is to be hoped normal service will be
+    resumed as soon as possible,
+  title: On The Blink
+word_count: 25

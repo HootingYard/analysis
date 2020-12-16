@@ -1,7 +1,19 @@
-date: 2010-04-10
-id: 2010-04-10-thog-from-the-planet-barg
-text: '
+ngrams:
+- - extremely
+  - rare
+  - out
+- - an
+  - extremely
+  - rare
+- - one
+  - day
+  - left
+story:
+  date: 2010-04-10
+  id: 2010-04-10-thog-from-the-planet-barg
+  text: '
 
-  A gentle reminder that you have one day left to bid for an extremely rare out of
-  print pamphlet.'
-title: Thog From The Planet Barg
+    A gentle reminder that you have one day left to bid for an extremely rare out
+    of print pamphlet.'
+  title: Thog From The Planet Barg
+word_count: 24

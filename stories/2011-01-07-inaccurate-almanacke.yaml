@@ -1,13 +1,49 @@
-date: 2011-01-07
-id: 2011-01-07-inaccurate-almanacke
-text: "\nThis week over at The Dabbler I am afraid I have had to issue a set of corrections\
-  \ and clarifications to Old Key's Almanacke for 2011. As I point out, the errors\
-  \ in the original were probably due to the wrong kind of ectoplasm on the line,\
-  \ the \u201Cline\u201D in this case being an invisible thread strung between the\
-  \ corporeal world and the eldritch realms inhabited by the shade of Old Key himself.\n\
-  The mysterious prognosticator can, however, already claim a triumph of foresight\
-  \ in the first week of the year. Old Key noted that birds fall out of the sky when\
-  \ petulant Ozymandias, King of Kings, gets one of his temper tantrums, and what\
-  \ do we find? In Arkansas, blackbirds have plummeted from the blue, while flocks\
-  \ of jackdaws have crashed to earth in Sweden."
-title: Inaccurate Almanacke
+ngrams:
+- - eldritch
+  - realms
+  - inhabited
+- - invisible
+  - thread
+  - strung
+- - petulant
+  - ozymandias
+  - king
+- - thread
+  - strung
+  - between
+- - however
+  - already
+  - claim
+- - blue
+  - while
+  - flocks
+- - old
+  - key
+  - noted
+- - year
+  - old
+  - key
+- - old
+  - key
+  - himself
+- - mysterious
+  - prognosticator
+  - can
+- - prognosticator
+  - can
+  - however
+story:
+  date: 2011-01-07
+  id: 2011-01-07-inaccurate-almanacke
+  text: "\nThis week over at The Dabbler I am afraid I have had to issue a set of\
+    \ corrections and clarifications to Old Key's Almanacke for 2011. As I point out,\
+    \ the errors in the original were probably due to the wrong kind of ectoplasm\
+    \ on the line, the \u201Cline\u201D in this case being an invisible thread strung\
+    \ between the corporeal world and the eldritch realms inhabited by the shade of\
+    \ Old Key himself.\nThe mysterious prognosticator can, however, already claim\
+    \ a triumph of foresight in the first week of the year. Old Key noted that birds\
+    \ fall out of the sky when petulant Ozymandias, King of Kings, gets one of his\
+    \ temper tantrums, and what do we find? In Arkansas, blackbirds have plummeted\
+    \ from the blue, while flocks of jackdaws have crashed to earth in Sweden."
+  title: Inaccurate Almanacke
+word_count: 138

@@ -1,8 +1,20 @@
-date: 2018-04-08
-id: 2018-04-08-baby-shoes
-text: 'I''ve always admired my sister''s way with an anecdote, and her latest post
-  at Dispatches From The Former New World is what I think they call a zinger. Find
-  out the sordid truth behind Downy Baby Shoes here.
+ngrams:
+- - downy
+  - baby
+  - shoes
+- - behind
+  - downy
+  - baby
+- - truth
+  - behind
+  - downy
+story:
+  date: 2018-04-08
+  id: 2018-04-08-baby-shoes
+  text: 'I''ve always admired my sister''s way with an anecdote, and her latest post
+    at Dispatches From The Former New World is what I think they call a zinger. Find
+    out the sordid truth behind Downy Baby Shoes here.
 
-  '
-title: Baby Shoes
+    '
+  title: Baby Shoes
+word_count: 42

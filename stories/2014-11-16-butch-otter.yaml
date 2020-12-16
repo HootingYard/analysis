@@ -1,7 +1,22 @@
-date: 2014-11-16
-id: 2014-11-16-butch-otter
-text: I was delighted to learn that the Governor of Idaho is named Butch Otter. Mr
-  Otter is not to be confused with his namesake, the character who made occasional
-  appearances in the Unconscious Squirrel cartoon strip, along with his anthropomorphic
-  pals Milksop Weasel, Mordant Heron, Smarmy Badger, and Rancorous Peewit.
-title: Butch Otter
+ngrams:
+- - mordant
+  - heron
+  - smarmy
+- - anthropomorphic
+  - pals
+  - milksop
+- - weasel
+  - mordant
+  - heron
+- - milksop
+  - weasel
+  - mordant
+story:
+  date: 2014-11-16
+  id: 2014-11-16-butch-otter
+  text: I was delighted to learn that the Governor of Idaho is named Butch Otter.
+    Mr Otter is not to be confused with his namesake, the character who made occasional
+    appearances in the Unconscious Squirrel cartoon strip, along with his anthropomorphic
+    pals Milksop Weasel, Mordant Heron, Smarmy Badger, and Rancorous Peewit.
+  title: Butch Otter
+word_count: 52

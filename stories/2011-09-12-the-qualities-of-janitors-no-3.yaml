@@ -1,5 +1,17 @@
-date: 2011-09-12
-id: 2011-09-12-the-qualities-of-janitors-no-3
-text: The alchemical janitor drinks a pint of potable gold before taking his pail
-  and mop out of the cupboard.
-title: The Qualities Of Janitors, No. 3
+ngrams:
+- - alchemical
+  - janitor
+  - drinks
+- - potable
+  - gold
+  - before
+- - gold
+  - before
+  - taking
+story:
+  date: 2011-09-12
+  id: 2011-09-12-the-qualities-of-janitors-no-3
+  text: The alchemical janitor drinks a pint of potable gold before taking his pail
+    and mop out of the cupboard.
+  title: The Qualities Of Janitors, No. 3
+word_count: 24

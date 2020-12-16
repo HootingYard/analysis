@@ -1,6 +1,18 @@
-date: 2011-02-24
-id: 2011-02-24-hookes-flea
-text: '
+ngrams:
+- - ptak
+  - science
+  - books
+- - science
+  - books
+  - click
+- - flea
+  - from
+  - ptak
+story:
+  date: 2011-02-24
+  id: 2011-02-24-hookes-flea
+  text: '
 
-  From Ptak Science Books. Click and click again to see the enormous version.'
-title: Hooke's Flea
+    From Ptak Science Books. Click and click again to see the enormous version.'
+  title: Hooke's Flea
+word_count: 16

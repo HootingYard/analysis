@@ -1,5 +1,18 @@
-date: 2009-12-21
-id: 2009-12-21-machines-of-interest-number-one
-text: "\u201C\u2026 they went up to a machine behind whose glass were small and crude\
-  \ images of moustached footballers.\u201D\nPatrick Hamilton, The West Pier (1951)"
-title: Machines Of Interest, Number One
+ngrams:
+- - moustached
+  - footballers
+  - patrick
+- - footballers
+  - patrick
+  - hamilton
+- - behind
+  - whose
+  - glass
+story:
+  date: 2009-12-21
+  id: 2009-12-21-machines-of-interest-number-one
+  text: "\u201C\u2026 they went up to a machine behind whose glass were small and\
+    \ crude images of moustached footballers.\u201D\nPatrick Hamilton, The West Pier\
+    \ (1951)"
+  title: Machines Of Interest, Number One
+word_count: 27

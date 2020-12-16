@@ -1,10 +1,31 @@
-date: 2010-10-21
-id: 2010-10-21-shoes-of-disillusionment
-text: "Reader Mark Patterson alerts me to the usefulness of the robe in modern Druidic\
-  \ practice\u2014with an important caveat.\nIn The Living Stones (1957), Ithell Colquhoun\
-  \ wrote\_: \u201CIt disguises imperfections of figure: round shoulders, bosoms of\
-  \ unmodish size or shape, pigeon-chests, pot-bellies, too-insistent buttocks, knock\
-  \ knees and bandy legs, all are mitigated in the merciful folds of the robe. But\
-  \ whatever the type of robe\u2026 its effect is often destroyed by disillusioning\
-  \ shoes.\u201D"
-title: Shoes Of Disillusionment
+ngrams:
+- - pigeon-chests
+  - pot-bellies
+  - too-insistent
+- - pot-bellies
+  - too-insistent
+  - buttocks
+- - too-insistent
+  - buttocks
+  - knock
+- - stones
+  - ithell
+  - colquhoun
+- - buttocks
+  - knock
+  - knees
+- - shape
+  - pigeon-chests
+  - pot-bellies
+story:
+  date: 2010-10-21
+  id: 2010-10-21-shoes-of-disillusionment
+  text: "Reader Mark Patterson alerts me to the usefulness of the robe in modern Druidic\
+    \ practice\u2014with an important caveat.\nIn The Living Stones (1957), Ithell\
+    \ Colquhoun wrote\_: \u201CIt disguises imperfections of figure: round shoulders,\
+    \ bosoms of unmodish size or shape, pigeon-chests, pot-bellies, too-insistent\
+    \ buttocks, knock knees and bandy legs, all are mitigated in the merciful folds\
+    \ of the robe. But whatever the type of robe\u2026 its effect is often destroyed\
+    \ by disillusioning shoes.\u201D"
+  title: Shoes Of Disillusionment
+word_count: 75

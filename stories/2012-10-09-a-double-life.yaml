@@ -1,8 +1,27 @@
-date: 2012-10-09
-id: 2012-10-09-a-double-life
-text: "From his exile across the water, regular commenter Banished To A Pompous Land\
-  \ sends this intriguing snapshot. It was taken at a \u201CBritish Pub\u201D in the\
-  \ state of Virginia, and seems to suggest that, as Mr B. puts it, \u201Cthe individual\
-  \ named at the bottom right is doing a tour of U.S. \u2018British Pubs\u2019 dispensing\
-  \ mellifluous vocals and deeply reactionary art criticism\u201D.\n"
-title: A Double Life
+ngrams:
+- - dispensing
+  - mellifluous
+  - vocals
+- - pubs
+  - dispensing
+  - mellifluous
+- - regular
+  - commenter
+  - banished
+- - british
+  - pubs
+  - dispensing
+- - reactionary
+  - art
+  - criticism
+story:
+  date: 2012-10-09
+  id: 2012-10-09-a-double-life
+  text: "From his exile across the water, regular commenter Banished To A Pompous\
+    \ Land sends this intriguing snapshot. It was taken at a \u201CBritish Pub\u201D\
+    \ in the state of Virginia, and seems to suggest that, as Mr B. puts it, \u201C\
+    the individual named at the bottom right is doing a tour of U.S. \u2018British\
+    \ Pubs\u2019 dispensing mellifluous vocals and deeply reactionary art criticism\u201D\
+    .\n"
+  title: A Double Life
+word_count: 66

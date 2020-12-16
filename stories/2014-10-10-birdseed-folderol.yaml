@@ -1,7 +1,19 @@
-date: 2014-10-10
-id: 2014-10-10-birdseed-folderol
-text: 'Several years after Sirinuntananon & Bewg published Dobson''s birdseed folderol,
-  a second edition was issued by Ladybird Books.
+ngrams:
+- - sirinuntananon
+  - bewg
+  - published
+- - birdseed
+  - folderol
+  - several
+- - after
+  - sirinuntananon
+  - bewg
+story:
+  date: 2014-10-10
+  id: 2014-10-10-birdseed-folderol
+  text: 'Several years after Sirinuntananon & Bewg published Dobson''s birdseed folderol,
+    a second edition was issued by Ladybird Books.
 
-  '
-title: Birdseed Folderol
+    '
+  title: Birdseed Folderol
+word_count: 20

@@ -1,7 +1,19 @@
-date: 2010-12-19
-id: 2010-12-19-at-the-seaside
-text: "\u201CI used to go to the seaside on holiday and expect beauty\_: now I observed\
-  \ more closely the infinite cruelty and indifference of the sea.\u201D\u2014\_The\
-  \ \u201Creligious cobbler\u201D in The Professor by Rex Warner (1938)\n\u201CThe\
-  \ sea is harder than the land.\u201D\u2014Dermot Todd, Filth (1987)"
-title: At The Seaside
+ngrams:
+- - dermot
+  - todd
+  - filth
+- - land
+  - dermot
+  - todd
+- - expect
+  - beauty
+  - now
+story:
+  date: 2010-12-19
+  id: 2010-12-19-at-the-seaside
+  text: "\u201CI used to go to the seaside on holiday and expect beauty\_: now I observed\
+    \ more closely the infinite cruelty and indifference of the sea.\u201D\u2014\_\
+    The \u201Creligious cobbler\u201D in The Professor by Rex Warner (1938)\n\u201C\
+    The sea is harder than the land.\u201D\u2014Dermot Todd, Filth (1987)"
+  title: At The Seaside
+word_count: 47

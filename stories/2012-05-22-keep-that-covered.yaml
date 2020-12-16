@@ -1,7 +1,19 @@
-date: 2012-05-22
-id: 2012-05-22-keep-that-covered
-text: 'Another still from the (Birds Chirping) film. That''s John Le Mesurier dressed
-  as a funeral director.
+ngrams:
+- - le
+  - mesurier
+  - dressed
+- - john
+  - le
+  - mesurier
+- - birds
+  - chirping
+  - film
+story:
+  date: 2012-05-22
+  id: 2012-05-22-keep-that-covered
+  text: 'Another still from the (Birds Chirping) film. That''s John Le Mesurier dressed
+    as a funeral director.
 
-  '
-title: Keep That Covered!
+    '
+  title: Keep That Covered!
+word_count: 20

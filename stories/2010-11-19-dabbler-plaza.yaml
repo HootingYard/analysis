@@ -1,10 +1,22 @@
-date: 2010-11-19
-id: 2010-11-19-dabbler-plaza
-text: '
+ngrams:
+- - coming
+  - monday
+  - marks
+- - john
+  - f
+  - kennedy
+- - provide
+  - full
+  - instructions
+story:
+  date: 2010-11-19
+  id: 2010-11-19-dabbler-plaza
+  text: '
 
-  This coming Monday marks the forty-seventh anniversary of the assassination of John
-  F Kennedy. In The Dabbler this week, I provide full instructions for the construction
-  of your very own model of Dealey Plaza made from cardboard and plasticine.
+    This coming Monday marks the forty-seventh anniversary of the assassination of
+    John F Kennedy. In The Dabbler this week, I provide full instructions for the
+    construction of your very own model of Dealey Plaza made from cardboard and plasticine.
 
-  '
-title: Dabbler Plaza
+    '
+  title: Dabbler Plaza
+word_count: 41

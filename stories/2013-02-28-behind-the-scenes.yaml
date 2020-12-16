@@ -1,6 +1,18 @@
-date: 2013-02-28
-id: 2013-02-28-behind-the-scenes
-text: 'A typical afternoon in the studios at ResonanceFM . .
+ngrams:
+- - studios
+  - at
+  - resonancefm
+- - typical
+  - afternoon
+  - in
+- - scenes
+  - a
+  - typical
+story:
+  date: 2013-02-28
+  id: 2013-02-28-behind-the-scenes
+  text: 'A typical afternoon in the studios at ResonanceFM . .
 
-  '
-title: Behind The Scenes
+    '
+  title: Behind The Scenes
+word_count: 11

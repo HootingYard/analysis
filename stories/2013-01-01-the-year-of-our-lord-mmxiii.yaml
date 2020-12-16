@@ -1,6 +1,18 @@
-date: 2013-01-01
-id: 2013-01-01-the-year-of-our-lord-mmxiii
-text: "Today is the day we must recall these splendid words from Peter Hitchens, written\
-  \ in 2010 but oh so timely: \u201CI am actively hostile to the \u2018New Year\u2019\
-  .\u201D\n"
-title: The Year Of Our Lord MMXIII
+ngrams:
+- - peter
+  - hitchens
+  - written
+- - lord
+  - mmxiii
+  - today
+- - recall
+  - these
+  - splendid
+story:
+  date: 2013-01-01
+  id: 2013-01-01-the-year-of-our-lord-mmxiii
+  text: "Today is the day we must recall these splendid words from Peter Hitchens,\
+    \ written in 2010 but oh so timely: \u201CI am actively hostile to the \u2018\
+    New Year\u2019.\u201D\n"
+  title: The Year Of Our Lord MMXIII
+word_count: 33

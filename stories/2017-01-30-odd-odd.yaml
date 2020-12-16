@@ -1,11 +1,33 @@
-date: 2017-01-30
-id: 2017-01-30-odd-odd
-text: 'Occasionally I like to make note here of mentions of Hooting Yard from elsewhere
-  in Interwebshire. I see this as a boon to scholars in years to come, who will not
-  have to look quite so hard for references when compiling the fat magnificent doorstoppers
-  devoted to Mr Key with which bookshelves of the future will surely teem.
+ngrams:
+- - rachael
+  - k
+  - jones
+- - k
+  - jones
+  - frank
+- - fat
+  - magnificent
+  - doorstoppers
+- - surely
+  - teem
+  - anyway
+- - magnificent
+  - doorstoppers
+  - devoted
+- - odd
+  - odd
+  - author
+story:
+  date: 2017-01-30
+  id: 2017-01-30-odd-odd
+  text: 'Occasionally I like to make note here of mentions of Hooting Yard from elsewhere
+    in Interwebshire. I see this as a boon to scholars in years to come, who will
+    not have to look quite so hard for references when compiling the fat magnificent
+    doorstoppers devoted to Mr Key with which bookshelves of the future will surely
+    teem.
 
-  Anyway, here is the view of Rachael K. Jones:
+    Anyway, here is the view of Rachael K. Jones:
 
-  Frank Key is an odd, odd author.'
-title: Odd, Odd
+    Frank Key is an odd, odd author.'
+  title: Odd, Odd
+word_count: 76

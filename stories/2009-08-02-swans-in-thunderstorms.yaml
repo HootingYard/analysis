@@ -1,10 +1,34 @@
-date: 2009-08-02
-id: 2009-08-02-swans-in-thunderstorms
-text: "\u201CThere is a superstitious belief that swans cannot hatch their eggs unless\
-  \ a storm is raging, the sky mad with lightning bolts and thunderclaps. I suspect\
-  \ this is true, for on the countless occasions I have gone blundering into swans\u2019\
-  \ nests, I have never seen eggs hatching, and the weather has invariably been balmy,\
-  \ for that is the kind of weather I prefer when blundering about among the nests\
-  \ of swans.\u201D\nFrom Quite A Few Things I Know About Swans by Dobson (out of\
-  \ print)"
-title: Swans In Thunderstorms
+ngrams:
+- - swans
+  - cannot
+  - hatch
+- - seen
+  - eggs
+  - hatching
+- - never
+  - seen
+  - eggs
+- - weather
+  - has
+  - invariably
+- - invariably
+  - been
+  - balmy
+- - hatch
+  - their
+  - eggs
+- - their
+  - eggs
+  - unless
+story:
+  date: 2009-08-02
+  id: 2009-08-02-swans-in-thunderstorms
+  text: "\u201CThere is a superstitious belief that swans cannot hatch their eggs\
+    \ unless a storm is raging, the sky mad with lightning bolts and thunderclaps.\
+    \ I suspect this is true, for on the countless occasions I have gone blundering\
+    \ into swans\u2019 nests, I have never seen eggs hatching, and the weather has\
+    \ invariably been balmy, for that is the kind of weather I prefer when blundering\
+    \ about among the nests of swans.\u201D\nFrom Quite A Few Things I Know About\
+    \ Swans by Dobson (out of print)"
+  title: Swans In Thunderstorms
+word_count: 88

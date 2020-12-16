@@ -1,7 +1,19 @@
-date: 2016-02-27
-id: 2016-02-27-mr-key-aged-ten
-text: 'Thanks to my brother for resurrecting this photograph, taken in Brighton many
-  moons ago.
+ngrams:
+- - aged
+  - ten
+  - thanks
+- - key
+  - aged
+  - ten
+- - brighton
+  - many
+  - moons
+story:
+  date: 2016-02-27
+  id: 2016-02-27-mr-key-aged-ten
+  text: 'Thanks to my brother for resurrecting this photograph, taken in Brighton
+    many moons ago.
 
-  '
-title: Mr Key, Aged Ten
+    '
+  title: Mr Key, Aged Ten
+word_count: 18

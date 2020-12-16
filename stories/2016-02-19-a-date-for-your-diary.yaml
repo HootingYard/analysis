@@ -1,4 +1,16 @@
-date: 2016-02-19
-id: 2016-02-19-a-date-for-your-diary
-text: ''
-title: A Date For Your Diary
+ngrams:
+- - date
+  - for
+  - your
+- - for
+  - your
+  - diary
+- - a
+  - date
+  - for
+story:
+  date: 2016-02-19
+  id: 2016-02-19-a-date-for-your-diary
+  text: ''
+  title: A Date For Your Diary
+word_count: 5

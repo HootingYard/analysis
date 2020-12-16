@@ -1,6 +1,18 @@
-date: 2009-01-16
-id: 2009-01-16-from-the-original-flemish
-text: My mother's brooch was blue. She took me to the lake and punched my jaw. She
-  threw my breakfast into a pond. I banged my head against a barge the day she showed
-  me the canal.
-title: From The Original Flemish
+ngrams:
+- - jaw
+  - she
+  - threw
+- - blue
+  - she
+  - took
+- - day
+  - she
+  - showed
+story:
+  date: 2009-01-16
+  id: 2009-01-16-from-the-original-flemish
+  text: My mother's brooch was blue. She took me to the lake and punched my jaw. She
+    threw my breakfast into a pond. I banged my head against a barge the day she showed
+    me the canal.
+  title: From The Original Flemish
+word_count: 41

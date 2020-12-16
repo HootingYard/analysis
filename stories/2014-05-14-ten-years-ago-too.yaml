@@ -1,14 +1,54 @@
-date: 2014-05-14
-id: 2014-05-14-ten-years-ago-too
-text: "Another item that appeared on Hooting Yard ten years ago today was this:\n\
-  Colossal, crude, terrible and sublime, Brann opened the ears of the people by the\
-  \ mighty power of his untamed language, by the smashing fury of his wrath of words\u2026\
-  \ Waste, futile and planless, mere howling, empty, chaotic waste, for no purpose\
-  \ under heaven but to serve as food for idle fancies as to what might have been\u2014\
-  such to me is the death of Brann, and my throat chokes with sorrow and my soul is\
-  \ sick with vain despair.\nThat is a quotation from Milo Hastings\u2019 preface\
-  \ to Brann The Iconoclast, a collection of pieces by William Cowper Brann (1855\u2014\
-  1898). You can read the whole thing here, or you might prefer, as I do, to repair\
-  \ to a deserted windswept promontory and shout those colossal, crude, terrible and\
-  \ sublime words at the sky, and watch birds drop down dead.\n"
-title: Ten Years Ago Too
+ngrams:
+- - milo
+  - hastings
+  - preface
+- - william
+  - cowper
+  - brann
+- - deserted
+  - windswept
+  - promontory
+- - sublime
+  - brann
+  - opened
+- - colossal
+  - crude
+  - terrible
+- - colossal
+  - crude
+  - terrible
+- - planless
+  - mere
+  - howling
+- - howling
+  - empty
+  - chaotic
+- - empty
+  - chaotic
+  - waste
+- - mere
+  - howling
+  - empty
+- - words
+  - waste
+  - futile
+- - purpose
+  - under
+  - heaven
+story:
+  date: 2014-05-14
+  id: 2014-05-14-ten-years-ago-too
+  text: "Another item that appeared on Hooting Yard ten years ago today was this:\n\
+    Colossal, crude, terrible and sublime, Brann opened the ears of the people by\
+    \ the mighty power of his untamed language, by the smashing fury of his wrath\
+    \ of words\u2026 Waste, futile and planless, mere howling, empty, chaotic waste,\
+    \ for no purpose under heaven but to serve as food for idle fancies as to what\
+    \ might have been\u2014such to me is the death of Brann, and my throat chokes\
+    \ with sorrow and my soul is sick with vain despair.\nThat is a quotation from\
+    \ Milo Hastings\u2019 preface to Brann The Iconoclast, a collection of pieces\
+    \ by William Cowper Brann (1855\u20141898). You can read the whole thing here,\
+    \ or you might prefer, as I do, to repair to a deserted windswept promontory and\
+    \ shout those colossal, crude, terrible and sublime words at the sky, and watch\
+    \ birds drop down dead.\n"
+  title: Ten Years Ago Too
+word_count: 155

@@ -1,10 +1,34 @@
-date: 2007-06-21
-id: 2007-06-21-the-lion-of-the-olympics
-text: "I have been giving further thought to that logo\u2014or brand\u2014for the\
-  \ 2012 Olympics. Clearly the \xA3400,000 design is a hideous mistake and will have\
-  \ to be ditched and replaced at some point within the next five years. My own view\
-  \ is that the organising committee ought to take a cheerful, jolly image from an\
-  \ already proven successful brand, slap the Olympic rings on it somewhere, and have\
-  \ done with it. What could be better than a picture of a lion being attacked by\
-  \ a swarm of Africanised killer bees?\n"
-title: The Lion Of The Olympics
+ngrams:
+- - cheerful
+  - jolly
+  - image
+- - proven
+  - successful
+  - brand
+- - successful
+  - brand
+  - slap
+- - africanised
+  - killer
+  - bees
+- - already
+  - proven
+  - successful
+- - organising
+  - committee
+  - ought
+- - lion
+  - being
+  - attacked
+story:
+  date: 2007-06-21
+  id: 2007-06-21-the-lion-of-the-olympics
+  text: "I have been giving further thought to that logo\u2014or brand\u2014for the\
+    \ 2012 Olympics. Clearly the \xA3400,000 design is a hideous mistake and will\
+    \ have to be ditched and replaced at some point within the next five years. My\
+    \ own view is that the organising committee ought to take a cheerful, jolly image\
+    \ from an already proven successful brand, slap the Olympic rings on it somewhere,\
+    \ and have done with it. What could be better than a picture of a lion being attacked\
+    \ by a swarm of Africanised killer bees?\n"
+  title: The Lion Of The Olympics
+word_count: 94

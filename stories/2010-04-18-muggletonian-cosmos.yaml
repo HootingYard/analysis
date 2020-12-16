@@ -1,9 +1,30 @@
-date: 2010-04-18
-id: 2010-04-18-muggletonian-cosmos
-text: "The giant ball of the earth. Above, day, and a tiny sun. Below, night, and\
-  \ stars, and the moon. Beyond the outer circle, nothing, nothing at all. \u201C\
-  System According To The Holy Scriptures\u201D. This is the Muggletonian Cosmos,\
-  \ as depicted in the nineteenth century by Isaac Frost.\n\nA big zoomable image\
-  \ can be found here, and another of Isaac Frost's Muggletonian engravings is here.\
-  \ Many thanks to Ed Baxter for drawing them to my attention."
-title: Muggletonian Cosmos
+ngrams:
+- - big
+  - zoomable
+  - image
+- - outer
+  - circle
+  - nothing
+- - sun
+  - below
+  - night
+- - tiny
+  - sun
+  - below
+- - circle
+  - nothing
+  - nothing
+- - earth
+  - above
+  - day
+story:
+  date: 2010-04-18
+  id: 2010-04-18-muggletonian-cosmos
+  text: "The giant ball of the earth. Above, day, and a tiny sun. Below, night, and\
+    \ stars, and the moon. Beyond the outer circle, nothing, nothing at all. \u201C\
+    System According To The Holy Scriptures\u201D. This is the Muggletonian Cosmos,\
+    \ as depicted in the nineteenth century by Isaac Frost.\n\nA big zoomable image\
+    \ can be found here, and another of Isaac Frost's Muggletonian engravings is here.\
+    \ Many thanks to Ed Baxter for drawing them to my attention."
+  title: Muggletonian Cosmos
+word_count: 78

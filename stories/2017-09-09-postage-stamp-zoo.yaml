@@ -1,6 +1,18 @@
-date: 2017-09-09
-id: 2017-09-09-postage-stamp-zoo
-text: 'This is a drawing from the last century.
+ngrams:
+- - postage
+  - stamp
+  - zoo
+- - stamp
+  - zoo
+  - this
+- - zoo
+  - this
+  - is
+story:
+  date: 2017-09-09
+  id: 2017-09-09-postage-stamp-zoo
+  text: 'This is a drawing from the last century.
 
-  '
-title: Postage Stamp Zoo
+    '
+  title: Postage Stamp Zoo
+word_count: 11

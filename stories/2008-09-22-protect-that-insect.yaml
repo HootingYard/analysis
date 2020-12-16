@@ -1,9 +1,30 @@
-date: 2008-09-22
-id: 2008-09-22-protect-that-insect
-text: "According to today's Guardian, back in 1964 an Israeli newspaper reported that\
-  \ the music of the Beatles included \u201Cyeah-yeah-yeah howls which are capable\
-  \ of striking dead a real beetle\u201D. I am sure Yoko takes a very dim view of\
-  \ gratuitous cruelty to insects, and I look forward to the full-page advertisements\
-  \ she will surely be taking out in the world's major newspapers to express her,\
-  \ and her bespectacled husband's, devotion to our creepy-crawly friends."
-title: Protect That Insect!
+ngrams:
+- - included
+  - yeah-yeah-yeah
+  - howls
+- - beatles
+  - included
+  - yeah-yeah-yeah
+- - israeli
+  - newspaper
+  - reported
+- - sure
+  - yoko
+  - takes
+- - our
+  - creepy-crawly
+  - friends
+- - very
+  - dim
+  - view
+story:
+  date: 2008-09-22
+  id: 2008-09-22-protect-that-insect
+  text: "According to today's Guardian, back in 1964 an Israeli newspaper reported\
+    \ that the music of the Beatles included \u201Cyeah-yeah-yeah howls which are\
+    \ capable of striking dead a real beetle\u201D. I am sure Yoko takes a very dim\
+    \ view of gratuitous cruelty to insects, and I look forward to the full-page advertisements\
+    \ she will surely be taking out in the world's major newspapers to express her,\
+    \ and her bespectacled husband's, devotion to our creepy-crawly friends."
+  title: Protect That Insect!
+word_count: 79

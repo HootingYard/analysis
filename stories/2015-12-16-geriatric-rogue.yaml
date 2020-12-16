@@ -1,9 +1,24 @@
-date: 2015-12-16
-id: 2015-12-16-geriatric-rogue
-text: 'American TV executives have announced a sequel to the hit series Breaking Bad.
-  Creaking Cad will follow the adventures of a geriatric rogue as he breaks the hearts
-  of innocent ladies in New Mexico. Rumours of further series, including Freaking
-  Fad and Wreaking Wad, are thus far unconfirmed.
+ngrams:
+- - geriatric
+  - rogue
+  - american
+- - american
+  - tv
+  - executives
+- - rogue
+  - american
+  - tv
+- - including
+  - freaking
+  - fad
+story:
+  date: 2015-12-16
+  id: 2015-12-16-geriatric-rogue
+  text: 'American TV executives have announced a sequel to the hit series Breaking
+    Bad. Creaking Cad will follow the adventures of a geriatric rogue as he breaks
+    the hearts of innocent ladies in New Mexico. Rumours of further series, including
+    Freaking Fad and Wreaking Wad, are thus far unconfirmed.
 
-  '
-title: Geriatric Rogue
+    '
+  title: Geriatric Rogue
+word_count: 50

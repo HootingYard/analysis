@@ -1,6 +1,18 @@
-date: 2009-12-19
-id: 2009-12-19-a-bee-fact
-text: "I didn't know this. In Koba The Dread, Martin Amis tells us: \u201CHitler's\
-  \ father (somehow very appropriately) was more and more obsessed, as he grew older,\
-  \ by bee-keeping.\u201D"
-title: A Bee Fact
+ngrams:
+- - dread
+  - martin
+  - amis
+- - martin
+  - amis
+  - tells
+- - tells
+  - us
+  - hitler
+story:
+  date: 2009-12-19
+  id: 2009-12-19-a-bee-fact
+  text: "I didn't know this. In Koba The Dread, Martin Amis tells us: \u201CHitler's\
+    \ father (somehow very appropriately) was more and more obsessed, as he grew older,\
+    \ by bee-keeping.\u201D"
+  title: A Bee Fact
+word_count: 33

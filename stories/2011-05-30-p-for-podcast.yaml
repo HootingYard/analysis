@@ -1,4 +1,16 @@
-date: 2011-05-30
-id: 2011-05-30-p-for-podcast
-text: "The alphabet continues\u2026\nP to V\n"
-title: P For Podcast
+ngrams:
+- - alphabet
+  - continues
+  - p
+- - p
+  - for
+  - podcast
+- - continues
+  - p
+  - to
+story:
+  date: 2011-05-30
+  id: 2011-05-30-p-for-podcast
+  text: "The alphabet continues\u2026\nP to V\n"
+  title: P For Podcast
+word_count: 9

@@ -1,6 +1,18 @@
-date: 2013-01-26
-id: 2013-01-26-bones
-text: 'My son Ed has been sketching in the Hunterian Museum.
+ngrams:
+- - son
+  - ed
+  - has
+- - has
+  - been
+  - sketching
+- - ed
+  - has
+  - been
+story:
+  date: 2013-01-26
+  id: 2013-01-26-bones
+  text: 'My son Ed has been sketching in the Hunterian Museum.
 
-  '
-title: Bones
+    '
+  title: Bones
+word_count: 11

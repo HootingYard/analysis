@@ -1,7 +1,19 @@
-date: 2014-08-05
-id: 2014-08-05-eclectric-oil
-text: 'Many thanks to reader Ruthie Bosch for this:
+ngrams:
+- - reader
+  - ruthie
+  - bosch
+- - eclectric
+  - oil
+  - many
+- - oil
+  - many
+  - thanks
+story:
+  date: 2014-08-05
+  id: 2014-08-05-eclectric-oil
+  text: 'Many thanks to reader Ruthie Bosch for this:
 
 
-  '
-title: Eclectric Oil
+    '
+  title: Eclectric Oil
+word_count: 10

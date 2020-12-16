@@ -1,14 +1,41 @@
-date: 2010-02-06
-id: 2010-02-06-three-types-of-incey-wincey
-text: 'Incey-wincey badger, scrubbling in the dirt. Puts some sticks together and
-  builds himself a yurt. He''s a New Age badger, his name is Little Kurt. Careful
-  now, his feelings are very easily hurt.
+ngrams:
+- - hurt
+  - incey-wincey
+  - goat-boy
+- - incey-wincey
+  - goat-boy
+  - drowning
+- - incey-wincey
+  - goat-boy
+  - creature
+- - easily
+  - hurt
+  - incey-wincey
+- - incey-wincey
+  - lobster
+  - clacking
+- - moat
+  - incey-wincey
+  - lobster
+- - incey-wincey
+  - badger
+  - scrubbling
+- - incey-wincey
+  - incey-wincey
+  - badger
+story:
+  date: 2010-02-06
+  id: 2010-02-06-three-types-of-incey-wincey
+  text: 'Incey-wincey badger, scrubbling in the dirt. Puts some sticks together and
+    builds himself a yurt. He''s a New Age badger, his name is Little Kurt. Careful
+    now, his feelings are very easily hurt.
 
-  Incey-wincey goat-boy, creature of two realms. We can see you darting in between
-  the elms. Half of you is human, the other half''s a goat. Incey-wincey goat-boy,
-  drowning in a moat.
+    Incey-wincey goat-boy, creature of two realms. We can see you darting in between
+    the elms. Half of you is human, the other half''s a goat. Incey-wincey goat-boy,
+    drowning in a moat.
 
-  Incey-wincey lobster, clacking in the sea. His brain''s completely alien to that
-  of you and me. Incey-wincey lobster, much bigger than a bee. The lobster''s very
-  strange, and is never ever twee.'
-title: Three Types Of Incey-Wincey
+    Incey-wincey lobster, clacking in the sea. His brain''s completely alien to that
+    of you and me. Incey-wincey lobster, much bigger than a bee. The lobster''s very
+    strange, and is never ever twee.'
+  title: Three Types Of Incey-Wincey
+word_count: 104

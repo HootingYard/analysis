@@ -1,14 +1,53 @@
-date: 2013-09-24
-id: 2013-09-24-one-of-the-best-refrigerators-in-india
-text: "Weeks after posting a link to my first set of Brief Lives over at The Dabbler,\
-  \ a comment arrives. Rahul tells us that he (she?) is \u201Cusing one of the best\
-  \ refrigerators in India\u201D. Apparently it is fitted with the \u201Clatest sensation\
-  \ technology\u201D. It is not clear if this is related to L'Oreal's light-reflecting\
-  \ booster technology, but I am sure it must be so.\nThe refrigerator alluded to\
-  \ in my postage was the one in Michael Tippett's kitchen which he called \u201C\
-  Bernard Levin\u201D. I cannot help wondering if that model, too, had the most up\
-  \ to date sensation technology of its era. Again, I would like to think that was\
-  \ the case.\nI do not know what Tippett's fellow composer Peter Maxwell Davies calls\
-  \ his refrigerator, but no doubt it, too, is a state of the art model, crammed with\
-  \ electrocuted swans."
-title: One Of The Best Refrigerators In India
+ngrams:
+- - light-reflecting
+  - booster
+  - technology
+- - maxwell
+  - davies
+  - calls
+- - comment
+  - arrives
+  - rahul
+- - arrives
+  - rahul
+  - tells
+- - peter
+  - maxwell
+  - davies
+- - composer
+  - peter
+  - maxwell
+- - date
+  - sensation
+  - technology
+- - latest
+  - sensation
+  - technology
+- - fellow
+  - composer
+  - peter
+- - art
+  - model
+  - crammed
+- - called
+  - bernard
+  - levin
+- - cannot
+  - help
+  - wondering
+story:
+  date: 2013-09-24
+  id: 2013-09-24-one-of-the-best-refrigerators-in-india
+  text: "Weeks after posting a link to my first set of Brief Lives over at The Dabbler,\
+    \ a comment arrives. Rahul tells us that he (she?) is \u201Cusing one of the best\
+    \ refrigerators in India\u201D. Apparently it is fitted with the \u201Clatest\
+    \ sensation technology\u201D. It is not clear if this is related to L'Oreal's\
+    \ light-reflecting booster technology, but I am sure it must be so.\nThe refrigerator\
+    \ alluded to in my postage was the one in Michael Tippett's kitchen which he called\
+    \ \u201CBernard Levin\u201D. I cannot help wondering if that model, too, had the\
+    \ most up to date sensation technology of its era. Again, I would like to think\
+    \ that was the case.\nI do not know what Tippett's fellow composer Peter Maxwell\
+    \ Davies calls his refrigerator, but no doubt it, too, is a state of the art model,\
+    \ crammed with electrocuted swans."
+  title: One Of The Best Refrigerators In India
+word_count: 153

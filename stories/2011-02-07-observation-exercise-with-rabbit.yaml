@@ -1,6 +1,18 @@
-date: 2011-02-07
-id: 2011-02-07-observation-exercise-with-rabbit
-text: '
+ngrams:
+- - elsie
+  - schrotthaufen
+  - s
+- - schrotthaufen
+  - s
+  - book
+- - with
+  - rabbit
+  - courtesy
+story:
+  date: 2011-02-07
+  id: 2011-02-07-observation-exercise-with-rabbit
+  text: '
 
-  Courtesy of Elsie Schrotthaufen''s Book Of Wonders'
-title: Observation Exercise, With Rabbit
+    Courtesy of Elsie Schrotthaufen''s Book Of Wonders'
+  title: Observation Exercise, With Rabbit
+word_count: 12

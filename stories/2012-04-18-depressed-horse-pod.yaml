@@ -1,6 +1,18 @@
-date: 2012-04-18
-id: 2012-04-18-depressed-horse-pod
-text: 'Depressed Horse Never Knew Saucepans
+ngrams:
+- - depressed
+  - horse
+  - pod
+- - horse
+  - pod
+  - depressed
+- - pod
+  - depressed
+  - horse
+story:
+  date: 2012-04-18
+  id: 2012-04-18-depressed-horse-pod
+  text: 'Depressed Horse Never Knew Saucepans
 
-  '
-title: Depressed Horse Pod
+    '
+  title: Depressed Horse Pod
+word_count: 8

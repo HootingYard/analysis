@@ -1,10 +1,34 @@
-date: 2014-08-17
-id: 2014-08-17-mavis-miles-n-cab
-text: "Miles Davis dials Mavis\n  To blow his trumpet in her ear\n  Mavis slams the\
-  \ phone down\n  And sheds a bitter tear\n  She's a little old woman who lives in\
-  \ a shoe\n  And she's feeling kind of blue.\nCab Calloway calls a cab for her\n\
-  \  And drives her to the future\n  Now she's no longer Mavis\n  Instead she's Minnie\
-  \ the Moocher\nShe mooches and she smooches\n  Does fandangos in the aisles\n  Goodbye\
-  \ to that confounded shoe\n  {And thank the Lord!)\n  \u2018She didn't take that\
-  \ call from Miles"
-title: Mavis, Miles, & Cab
+ngrams:
+- - davis
+  - dials
+  - mavis
+- - cab
+  - calloway
+  - calls
+- - ear
+  - mavis
+  - slams
+- - miles
+  - davis
+  - dials
+- - cab
+  - miles
+  - davis
+- - mavis
+  - miles
+  - cab
+- - blue
+  - cab
+  - calloway
+story:
+  date: 2014-08-17
+  id: 2014-08-17-mavis-miles-n-cab
+  text: "Miles Davis dials Mavis\n  To blow his trumpet in her ear\n  Mavis slams\
+    \ the phone down\n  And sheds a bitter tear\n  She's a little old woman who lives\
+    \ in a shoe\n  And she's feeling kind of blue.\nCab Calloway calls a cab for her\n\
+    \  And drives her to the future\n  Now she's no longer Mavis\n  Instead she's\
+    \ Minnie the Moocher\nShe mooches and she smooches\n  Does fandangos in the aisles\n\
+    \  Goodbye to that confounded shoe\n  {And thank the Lord!)\n  \u2018She didn't\
+    \ take that call from Miles"
+  title: Mavis, Miles, & Cab
+word_count: 94

@@ -1,11 +1,38 @@
-date: 2015-02-03
-id: 2015-02-03-pseudonymous-inaccuracy
-text: "When James Newell Osterberg Jr was a tiny infant, he was fed on a diet of mashed\
-  \ up pap made from eggs. It was the piquant memory of these slops that informed\
-  \ his later decision, when embarking upon a career as a musical performer, to adopt\
-  \ the pseudonym Eggy Pap. A typographic error\u2014or rather two typographic errors\u2014\
-  rendered the name differently on the label of his first vinyl waxing. Deploying\
-  \ one of Brian Eno's Oblique Strategies avant la lettre, Osterberg determined to\
-  \ \u201Chonour [his] error as a hidden intention\u201D, and retained the inaccurate\
-  \ pseudonym throughout his subsequent career."
-title: Pseudonymous Inaccuracy
+ngrams:
+- - newell
+  - osterberg
+  - jr
+- - vinyl
+  - waxing
+  - deploying
+- - oblique
+  - strategies
+  - avant
+- - typographic
+  - errors
+  - rendered
+- - lettre
+  - osterberg
+  - determined
+- - pseudonym
+  - eggy
+  - pap
+- - la
+  - lettre
+  - osterberg
+- - james
+  - newell
+  - osterberg
+story:
+  date: 2015-02-03
+  id: 2015-02-03-pseudonymous-inaccuracy
+  text: "When James Newell Osterberg Jr was a tiny infant, he was fed on a diet of\
+    \ mashed up pap made from eggs. It was the piquant memory of these slops that\
+    \ informed his later decision, when embarking upon a career as a musical performer,\
+    \ to adopt the pseudonym Eggy Pap. A typographic error\u2014or rather two typographic\
+    \ errors\u2014rendered the name differently on the label of his first vinyl waxing.\
+    \ Deploying one of Brian Eno's Oblique Strategies avant la lettre, Osterberg determined\
+    \ to \u201Chonour [his] error as a hidden intention\u201D, and retained the inaccurate\
+    \ pseudonym throughout his subsequent career."
+  title: Pseudonymous Inaccuracy
+word_count: 102

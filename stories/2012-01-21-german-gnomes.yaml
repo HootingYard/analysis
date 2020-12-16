@@ -1,8 +1,27 @@
-date: 2012-01-21
-id: 2012-01-21-german-gnomes
-text: "I am indebted to Mike Jennings for further useful illustrative material from\
-  \ The Universe or The Infinitely Great and the Infinitely Little by F A Pouchet\
-  \ M.D. (1882). In this picture, we see gnomes of German legend laying bare the skeleton\
-  \ of an ichthyosaurus. As Mr Jennings so rightly says, \u201Cthe mind boggles\u2026\
-  \ well, mine doesn't boggle so much these days, but yours might\u201D.\n"
-title: German Gnomes
+ngrams:
+- - legend
+  - laying
+  - bare
+- - german
+  - legend
+  - laying
+- - useful
+  - illustrative
+  - material
+- - pouchet
+  - m
+  - d
+- - further
+  - useful
+  - illustrative
+story:
+  date: 2012-01-21
+  id: 2012-01-21-german-gnomes
+  text: "I am indebted to Mike Jennings for further useful illustrative material from\
+    \ The Universe or The Infinitely Great and the Infinitely Little by F A Pouchet\
+    \ M.D. (1882). In this picture, we see gnomes of German legend laying bare the\
+    \ skeleton of an ichthyosaurus. As Mr Jennings so rightly says, \u201Cthe mind\
+    \ boggles\u2026 well, mine doesn't boggle so much these days, but yours might\u201D\
+    .\n"
+  title: German Gnomes
+word_count: 67

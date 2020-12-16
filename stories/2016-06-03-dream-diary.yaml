@@ -1,13 +1,31 @@
-date: 2016-06-03
-id: 2016-06-03-dream-diary
-text: 'Last night, Abi Ofarim was presented with a sheep.
+ngrams:
+- - smiling
+  - abi
+  - circa
+- - abi
+  - circa
+  - taking
+- - night
+  - abi
+  - ofarim
+- - dream
+  - diary
+  - last
+- - last
+  - night
+  - abi
+story:
+  date: 2016-06-03
+  id: 2016-06-03-dream-diary
+  text: 'Last night, Abi Ofarim was presented with a sheep.
 
-  There was a broader context to this exciting scene, but alas it was obliterated
-  the instant I awoke. All that remains is a smiling Abi, circa 1967, taking in his
-  arms a non-smiling sheep.
+    There was a broader context to this exciting scene, but alas it was obliterated
+    the instant I awoke. All that remains is a smiling Abi, circa 1967, taking in
+    his arms a non-smiling sheep.
 
-  I would be pleased to hear from any brain-quacks who feel competent to interpret
-  this phantasm.
+    I would be pleased to hear from any brain-quacks who feel competent to interpret
+    this phantasm.
 
-  '
-title: Dream Diary
+    '
+  title: Dream Diary
+word_count: 60

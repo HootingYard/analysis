@@ -1,6 +1,15 @@
-date: 2011-08-30
-id: 2011-08-30-podgoblins
-text: 'Goblin Colour Codes
+ngrams:
+- - podgoblins
+  - goblin
+  - colour
+- - goblin
+  - colour
+  - codes
+story:
+  date: 2011-08-30
+  id: 2011-08-30-podgoblins
+  text: 'Goblin Colour Codes
 
-  '
-title: Podgoblins
+    '
+  title: Podgoblins
+word_count: 4

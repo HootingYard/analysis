@@ -1,6 +1,18 @@
-date: 2011-09-04
-id: 2011-09-04-research
-text: I have decided to devote the next few days to research. I want to understand
-  the inner workings of the brain of a lobster. I shall present my findings here in
-  due course.
-title: Research
+ngrams:
+- - next
+  - few
+  - days
+- - present
+  - my
+  - findings
+- - shall
+  - present
+  - my
+story:
+  date: 2011-09-04
+  id: 2011-09-04-research
+  text: I have decided to devote the next few days to research. I want to understand
+    the inner workings of the brain of a lobster. I shall present my findings here
+    in due course.
+  title: Research
+word_count: 34

@@ -1,6 +1,18 @@
-date: 2012-03-27
-id: 2012-03-27-popular-lectures
-text: '
+ngrams:
+- - popular
+  - lectures
+  - from
+- - the
+  - new
+  - psalmanazar
+- - lectures
+  - from
+  - the
+story:
+  date: 2012-03-27
+  id: 2012-03-27-popular-lectures
+  text: '
 
-  from The New Psalmanazar'
-title: Popular Lectures
+    from The New Psalmanazar'
+  title: Popular Lectures
+word_count: 6

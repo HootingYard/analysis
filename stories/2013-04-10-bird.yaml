@@ -1,6 +1,15 @@
-date: 2013-04-10
-id: 2013-04-10-bird
-text: '
+ngrams:
+- - thanks
+  - to
+  - outaspaceman
+- - bird
+  - thanks
+  - to
+story:
+  date: 2013-04-10
+  id: 2013-04-10-bird
+  text: '
 
-  Thanks to OutaSpaceMan'
-title: Bird
+    Thanks to OutaSpaceMan'
+  title: Bird
+word_count: 4

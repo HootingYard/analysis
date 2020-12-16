@@ -1,7 +1,19 @@
-date: 2015-01-09
-id: 2015-01-09-dabbler-dad
-text: '
+ngrams:
+- - dabbler
+  - dad
+  - today
+- - th
+  - birthday
+  - over
+- - piece
+  - first
+  - posted
+story:
+  date: 2015-01-09
+  id: 2015-01-09-dabbler-dad
+  text: '
 
-  Today would have been my father''s 90th birthday. Over at The Dabbler, I remember
-  him in a version of a piece first posted here three years ago.'
-title: Dabbler Dad
+    Today would have been my father''s 90th birthday. Over at The Dabbler, I remember
+    him in a version of a piece first posted here three years ago.'
+  title: Dabbler Dad
+word_count: 30

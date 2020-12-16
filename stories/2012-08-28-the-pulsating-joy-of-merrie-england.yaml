@@ -1,10 +1,31 @@
-date: 2012-08-28
-id: 2012-08-28-the-pulsating-joy-of-merrie-england
-text: "A further snippet from Piers Brendon's Eminent Edwardians (1979):\nElegant\
-  \ and well-born (\u201CAll our family go to Heaven\u201D), Emmeline Pethick-Lawrence\
-  \ became treasurer of the WPSU. Like other Suffragettes she had previously been\
-  \ engaged in a bizarre form of Edwardian philanthropy, the endeavour to restore\
-  \ to the brutalized urban masses their lost sense of the pulsating joy of Merrie\
-  \ England by means of folk songs and Morris dances.\nIs it too late to try this\
-  \ again?\n"
-title: The Pulsating Joy Of Merrie England
+ngrams:
+- - brutalized
+  - urban
+  - masses
+- - eminent
+  - edwardians
+  - elegant
+- - heaven
+  - emmeline
+  - pethick-lawrence
+- - emmeline
+  - pethick-lawrence
+  - became
+- - pethick-lawrence
+  - became
+  - treasurer
+- - our
+  - family
+  - go
+story:
+  date: 2012-08-28
+  id: 2012-08-28-the-pulsating-joy-of-merrie-england
+  text: "A further snippet from Piers Brendon's Eminent Edwardians (1979):\nElegant\
+    \ and well-born (\u201CAll our family go to Heaven\u201D), Emmeline Pethick-Lawrence\
+    \ became treasurer of the WPSU. Like other Suffragettes she had previously been\
+    \ engaged in a bizarre form of Edwardian philanthropy, the endeavour to restore\
+    \ to the brutalized urban masses their lost sense of the pulsating joy of Merrie\
+    \ England by means of folk songs and Morris dances.\nIs it too late to try this\
+    \ again?\n"
+  title: The Pulsating Joy Of Merrie England
+word_count: 81

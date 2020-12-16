@@ -1,12 +1,39 @@
-date: 2009-11-13
-id: 2009-11-13-laptop-wielding-cybercriminals
-text: "While watching Die Hard 4.0 the other day, it occurred to me that things might\
-  \ pan out very differently if, in films featuring laptop-wielding cybercriminals,\
-  \ the malefactors had to rely on PCs using Windows Vista.\nCriminal mastermind cackles\
-  \ evilly and issues a command to his technowhizz sidekick.\n\u201CUpload the virus\
-  \ now!\u201D\nSidekick nods, taps the keys\u2026 and on his screen, a message appears:\n\
-  \u201CPlease wait. Windows is checking for updates and carrying out several other\
-  \ incomprehensible and purposeless activities. This may take a few minutes, or possibly\
-  \ hours, during which time your computer will make little whirring noises. Do not\
-  \ power off or unplug your machine.\u201D"
-title: Laptop-Wielding Cybercriminals
+ngrams:
+- - mastermind
+  - cackles
+  - evilly
+- - technowhizz
+  - sidekick
+  - upload
+- - sidekick
+  - nods
+  - taps
+- - featuring
+  - laptop-wielding
+  - cybercriminals
+- - criminal
+  - mastermind
+  - cackles
+- - vista
+  - criminal
+  - mastermind
+- - films
+  - featuring
+  - laptop-wielding
+- - windows
+  - vista
+  - criminal
+story:
+  date: 2009-11-13
+  id: 2009-11-13-laptop-wielding-cybercriminals
+  text: "While watching Die Hard 4.0 the other day, it occurred to me that things\
+    \ might pan out very differently if, in films featuring laptop-wielding cybercriminals,\
+    \ the malefactors had to rely on PCs using Windows Vista.\nCriminal mastermind\
+    \ cackles evilly and issues a command to his technowhizz sidekick.\n\u201CUpload\
+    \ the virus now!\u201D\nSidekick nods, taps the keys\u2026 and on his screen,\
+    \ a message appears:\n\u201CPlease wait. Windows is checking for updates and carrying\
+    \ out several other incomprehensible and purposeless activities. This may take\
+    \ a few minutes, or possibly hours, during which time your computer will make\
+    \ little whirring noises. Do not power off or unplug your machine.\u201D"
+  title: Laptop-Wielding Cybercriminals
+word_count: 107

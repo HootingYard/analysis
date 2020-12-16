@@ -1,11 +1,35 @@
-date: 2009-03-20
-id: 2009-03-20-blurb-envy
-text: "\nYesterday postie delivered From The Atelier Tovar\_: Selected Writings by\
-  \ Guy Maddin. Readers may recall I enthused about Mr Maddin last year. I am looking\
-  \ forward to reading this collection of journals, journalism and film treatments\
-  \ by the Winnipegite, but for the time being there are two phrases from the back\
-  \ cover blurbs of which I am inordinately envious. How can one not delight in a\
-  \ book of which it is said: \u201Chis treatments are deadpan whatsits of the highest\
-  \ order\u201D and \u201Cyou have arrived there, at the Atelier Tovar. Galoshes recommended\u201D\
-  ?"
-title: Blurb Envy
+ngrams:
+- - atelier
+  - tovar
+  - galoshes
+- - atelier
+  - tovar
+  - selected
+- - tovar
+  - selected
+  - writings
+- - tovar
+  - galoshes
+  - recommended
+- - blurb
+  - envy
+  - yesterday
+- - envy
+  - yesterday
+  - postie
+- - yesterday
+  - postie
+  - delivered
+story:
+  date: 2009-03-20
+  id: 2009-03-20-blurb-envy
+  text: "\nYesterday postie delivered From The Atelier Tovar\_: Selected Writings\
+    \ by Guy Maddin. Readers may recall I enthused about Mr Maddin last year. I am\
+    \ looking forward to reading this collection of journals, journalism and film\
+    \ treatments by the Winnipegite, but for the time being there are two phrases\
+    \ from the back cover blurbs of which I am inordinately envious. How can one not\
+    \ delight in a book of which it is said: \u201Chis treatments are deadpan whatsits\
+    \ of the highest order\u201D and \u201Cyou have arrived there, at the Atelier\
+    \ Tovar. Galoshes recommended\u201D?"
+  title: Blurb Envy
+word_count: 94

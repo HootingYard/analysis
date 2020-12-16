@@ -1,7 +1,22 @@
-date: 2011-02-01
-id: 2011-02-01-hair-and-birds-in-new-orleans
-text: "\u201CIt is dangerous to throw hair-combings away instead of burning them,\
-  \ because birds may weave them into their nests and while the nest remains the person\
-  \ to whom the hair belonged will have a continual headache.\u201D\nLafcadio Hearn,\
-  \ \u201CNew Orleans Superstitions\u201D Harper's Weekly, 25 December 1886"
-title: Hair And Birds In New Orleans
+ngrams:
+- - headache
+  - lafcadio
+  - hearn
+- - orleans
+  - superstitions
+  - harper
+- - continual
+  - headache
+  - lafcadio
+- - lafcadio
+  - hearn
+  - new
+story:
+  date: 2011-02-01
+  id: 2011-02-01-hair-and-birds-in-new-orleans
+  text: "\u201CIt is dangerous to throw hair-combings away instead of burning them,\
+    \ because birds may weave them into their nests and while the nest remains the\
+    \ person to whom the hair belonged will have a continual headache.\u201D\nLafcadio\
+    \ Hearn, \u201CNew Orleans Superstitions\u201D Harper's Weekly, 25 December 1886"
+  title: Hair And Birds In New Orleans
+word_count: 51

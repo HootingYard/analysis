@@ -1,7 +1,19 @@
-date: 2012-10-07
-id: 2012-10-07-sunday-dabbling
-text: "\nEach weekend in The Dabbler there is a \u201CLazy Sunday Afternoon\u201D\
-  \ postage of music choices. This week I have contributed a selection including Captain\
-  \ Beefheart, Henry Cow, 1970s-era Scritti Politti, and Joanna Newsome. Hie thee\
-  \ hence and pin back your ears!"
-title: Sunday Dabbling
+ngrams:
+- - s-era
+  - scritti
+  - politti
+- - joanna
+  - newsome
+  - hie
+- - newsome
+  - hie
+  - thee
+story:
+  date: 2012-10-07
+  id: 2012-10-07-sunday-dabbling
+  text: "\nEach weekend in The Dabbler there is a \u201CLazy Sunday Afternoon\u201D\
+    \ postage of music choices. This week I have contributed a selection including\
+    \ Captain Beefheart, Henry Cow, 1970s-era Scritti Politti, and Joanna Newsome.\
+    \ Hie thee hence and pin back your ears!"
+  title: Sunday Dabbling
+word_count: 43

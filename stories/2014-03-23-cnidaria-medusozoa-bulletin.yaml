@@ -1,6 +1,18 @@
-date: 2014-03-23
-id: 2014-03-23-cnidaria-medusozoa-bulletin
-text: '
+ngrams:
+- - cnidaria
+  - medusozoa
+  - bulletin
+- - medusozoa
+  - bulletin
+  - thanks
+- - outa
+  - spaceman
+  - for
+story:
+  date: 2014-03-23
+  id: 2014-03-23-cnidaria-medusozoa-bulletin
+  text: '
 
-  Thanks to Outa_Spaceman for drawing this to my attention'
-title: Cnidaria Medusozoa Bulletin
+    Thanks to Outa_Spaceman for drawing this to my attention'
+  title: Cnidaria Medusozoa Bulletin
+word_count: 13

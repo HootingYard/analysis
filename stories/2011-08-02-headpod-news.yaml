@@ -1,8 +1,20 @@
-date: 2011-08-02
-id: 2011-08-02-headpod-news
-text: 'Headline News
+ngrams:
+- - porpoises
+  - rescue
+  - dick
+- - headpod
+  - news
+  - headline
+- - dick
+  - van
+  - dyke
+story:
+  date: 2011-08-02
+  id: 2011-08-02-headpod-news
+  text: 'Headline News
 
-  (the headline being, of course, Porpoises Rescue Dick Van Dyke)
+    (the headline being, of course, Porpoises Rescue Dick Van Dyke)
 
-  '
-title: Headpod News
+    '
+  title: Headpod News
+word_count: 14

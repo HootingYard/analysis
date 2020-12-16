@@ -1,6 +1,18 @@
-date: 2011-07-30
-id: 2011-07-30-counterfeit-owls
-text: 'These are not real owls. Find out where they are perched here.
+ngrams:
+- - real
+  - owls
+  - find
+- - counterfeit
+  - owls
+  - these
+- - owls
+  - find
+  - out
+story:
+  date: 2011-07-30
+  id: 2011-07-30-counterfeit-owls
+  text: 'These are not real owls. Find out where they are perched here.
 
-  '
-title: Counterfeit Owls
+    '
+  title: Counterfeit Owls
+word_count: 14

@@ -1,6 +1,18 @@
-date: 2008-07-23
-id: 2008-07-23-enthusiasms-number-three
-text: '
+ngrams:
+- - three
+  - earlier
+  - enthusiasms
+- - enthusiasms
+  - number
+  - three
+- - number
+  - three
+  - earlier
+story:
+  date: 2008-07-23
+  id: 2008-07-23-enthusiasms-number-three
+  text: '
 
-  Earlier enthusiasms are here and here.'
-title: Enthusiasms, Number Three
+    Earlier enthusiasms are here and here.'
+  title: Enthusiasms, Number Three
+word_count: 9

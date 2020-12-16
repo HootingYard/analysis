@@ -1,7 +1,19 @@
-date: 2013-02-03
-id: 2013-02-03-pebbleheads-typewriter
-text: "Pebblehead's typewriter after the bestselling paperback potboilerist completed\
-  \ a particularly strenuous bout of key-thumping in his chalet o\u2019 prose.\n\n\
-  (The picture found its way on to London's Lost Rivers, where I found it thanks to\
-  \ Marina Organ.)"
-title: Pebblehead's Typewriter
+ngrams:
+- - paperback
+  - potboilerist
+  - completed
+- - bestselling
+  - paperback
+  - potboilerist
+- - particularly
+  - strenuous
+  - bout
+story:
+  date: 2013-02-03
+  id: 2013-02-03-pebbleheads-typewriter
+  text: "Pebblehead's typewriter after the bestselling paperback potboilerist completed\
+    \ a particularly strenuous bout of key-thumping in his chalet o\u2019 prose.\n\
+    \n(The picture found its way on to London's Lost Rivers, where I found it thanks\
+    \ to Marina Organ.)"
+  title: Pebblehead's Typewriter
+word_count: 42

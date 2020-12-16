@@ -1,10 +1,34 @@
-date: 2010-01-16
-id: 2010-01-16-eggs-soaked-in-tea
-text: "Nowadays, if I understand these things correctly, long distance runners rehydrate\
-  \ themselves by glugging lots of water during a race. Such namby-pamby methods were\
-  \ alien to the doughty amateurs who ran the twenty-six mile Marathon at the 1908\
-  \ Olympic Games in London. Among their refreshments along the route were muscatel\
-  \ grapes, calves\u2019 foot jelly with lemon, new-laid eggs soaked in tea, orange\
-  \ segments, brandy, champagne, and small doses of strychnine.\nSo I learned from\
-  \ The First London Olympics 1908 by Rebecca Jenkins (2008)\n"
-title: Eggs Soaked In Tea
+ngrams:
+- - muscatel
+  - grapes
+  - calves
+- - segments
+  - brandy
+  - champagne
+- - orange
+  - segments
+  - brandy
+- - twenty-six
+  - mile
+  - marathon
+- - distance
+  - runners
+  - rehydrate
+- - grapes
+  - calves
+  - foot
+- - runners
+  - rehydrate
+  - themselves
+story:
+  date: 2010-01-16
+  id: 2010-01-16-eggs-soaked-in-tea
+  text: "Nowadays, if I understand these things correctly, long distance runners rehydrate\
+    \ themselves by glugging lots of water during a race. Such namby-pamby methods\
+    \ were alien to the doughty amateurs who ran the twenty-six mile Marathon at the\
+    \ 1908 Olympic Games in London. Among their refreshments along the route were\
+    \ muscatel grapes, calves\u2019 foot jelly with lemon, new-laid eggs soaked in\
+    \ tea, orange segments, brandy, champagne, and small doses of strychnine.\nSo\
+    \ I learned from The First London Olympics 1908 by Rebecca Jenkins (2008)\n"
+  title: Eggs Soaked In Tea
+word_count: 84

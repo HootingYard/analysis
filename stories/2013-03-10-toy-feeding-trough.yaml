@@ -1,4 +1,16 @@
-date: 2013-03-10
-id: 2013-03-10-toy-feeding-trough
-text: "An ancient Egyptian toy farmyard feeding trough (birds\u2019-eye view).\n"
-title: Toy Feeding Trough
+ngrams:
+- - toy
+  - feeding
+  - trough
+- - farmyard
+  - feeding
+  - trough
+- - egyptian
+  - toy
+  - farmyard
+story:
+  date: 2013-03-10
+  id: 2013-03-10-toy-feeding-trough
+  text: "An ancient Egyptian toy farmyard feeding trough (birds\u2019-eye view).\n"
+  title: Toy Feeding Trough
+word_count: 13

@@ -1,9 +1,28 @@
-date: 2010-06-04
-id: 2010-06-04-wondring-aloud
-text: 'As I lumber about this world of ours, by turns perky and despondent, I often
-  find myself wondering if it would be possible to enjoy all the comforts of twenty-first
-  century western civilisation were I to be uprooted and cast, by some inexplicable
-  agency, to live out the rest of my days on one of those far distant giant gas planets.
+ngrams:
+- - wond
+  - ring
+  - aloud
+- - giant
+  - gas
+  - planets
+- - century
+  - western
+  - civilisation
+- - twenty-first
+  - century
+  - western
+- - distant
+  - giant
+  - gas
+story:
+  date: 2010-06-04
+  id: 2010-06-04-wondring-aloud
+  text: 'As I lumber about this world of ours, by turns perky and despondent, I often
+    find myself wondering if it would be possible to enjoy all the comforts of twenty-first
+    century western civilisation were I to be uprooted and cast, by some inexplicable
+    agency, to live out the rest of my days on one of those far distant giant gas
+    planets.
 
-  Probably not.'
-title: Wond'ring Aloud
+    Probably not.'
+  title: Wond'ring Aloud
+word_count: 66

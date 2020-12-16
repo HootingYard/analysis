@@ -1,6 +1,18 @@
-date: 2011-06-22
-id: 2011-06-22-the-correct-way-to-travel
-text: '
+ngrams:
+- - travel
+  - further
+  - details
+- - at
+  - futility
+  - closet
+- - details
+  - at
+  - futility
+story:
+  date: 2011-06-22
+  id: 2011-06-22-the-correct-way-to-travel
+  text: '
 
-  Further details at Futility Closet'
-title: The Correct Way To Travel
+    Further details at Futility Closet'
+  title: The Correct Way To Travel
+word_count: 10

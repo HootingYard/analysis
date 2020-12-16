@@ -1,6 +1,21 @@
-date: 2007-02-09
-id: 2007-02-09-new-nozzles-for-nobody
-text: Nobody got new nozzles on No New Nozzles Day. It was ever thus, even in ages
-  past, long long ago, when the Hobgoblin Princeling ruled all the lands as far as
-  a chaffinch can fly from dawn to dusk, when the chaffinch is gravid.
-title: New Nozzles For Nobody
+ngrams:
+- - hobgoblin
+  - princeling
+  - ruled
+- - nobody
+  - nobody
+  - got
+- - ages
+  - past
+  - long
+- - got
+  - new
+  - nozzles
+story:
+  date: 2007-02-09
+  id: 2007-02-09-new-nozzles-for-nobody
+  text: Nobody got new nozzles on No New Nozzles Day. It was ever thus, even in ages
+    past, long long ago, when the Hobgoblin Princeling ruled all the lands as far
+    as a chaffinch can fly from dawn to dusk, when the chaffinch is gravid.
+  title: New Nozzles For Nobody
+word_count: 48

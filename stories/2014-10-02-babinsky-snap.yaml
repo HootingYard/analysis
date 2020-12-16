@@ -1,7 +1,19 @@
-date: 2014-10-02
-id: 2014-10-02-babinsky-snap
-text: 'A rare snap of a surprisingly sprightly Babinsky, the psychopathic walrus-moustached
-  serial killer, fleeing the scene of one of his enormities. (Click to enhuge.)
+ngrams:
+- - psychopathic
+  - walrus-moustached
+  - serial
+- - walrus-moustached
+  - serial
+  - killer
+- - serial
+  - killer
+  - fleeing
+story:
+  date: 2014-10-02
+  id: 2014-10-02-babinsky-snap
+  text: 'A rare snap of a surprisingly sprightly Babinsky, the psychopathic walrus-moustached
+    serial killer, fleeing the scene of one of his enormities. (Click to enhuge.)
 
-  '
-title: Babinsky Snap
+    '
+  title: Babinsky Snap
+word_count: 26

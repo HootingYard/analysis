@@ -1,12 +1,33 @@
-date: 2009-08-21
-id: 2009-08-21-dapper-elegant
-text: 'As we sink further into barbarism, it is pleasing to be given reminders that
-  the dapper and the elegant can survive, sometimes in the unlikeliest of places.
-  I am not at all sure I would wish to live in Vietnam, but I would certainly like
-  to see us copy their toilet signage. Would it not lift your spirits, ever so slightly,
-  to see our public conveniences marked with these silhouettes?
+ngrams:
+- - public
+  - conveniences
+  - marked
+- - via
+  - david
+  - thompson
+- - signs
+  - here
+  - via
+- - here
+  - via
+  - david
+- - our
+  - public
+  - conveniences
+- - see
+  - us
+  - copy
+story:
+  date: 2009-08-21
+  id: 2009-08-21-dapper-elegant
+  text: 'As we sink further into barbarism, it is pleasing to be given reminders that
+    the dapper and the elegant can survive, sometimes in the unlikeliest of places.
+    I am not at all sure I would wish to live in Vietnam, but I would certainly like
+    to see us copy their toilet signage. Would it not lift your spirits, ever so slightly,
+    to see our public conveniences marked with these silhouettes?
 
 
 
-  Some other signs here (via David Thompson).'
-title: Dapper, Elegant
+    Some other signs here (via David Thompson).'
+  title: Dapper, Elegant
+word_count: 79

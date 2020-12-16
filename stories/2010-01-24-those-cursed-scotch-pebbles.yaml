@@ -1,12 +1,42 @@
-date: 2010-01-24
-id: 2010-01-24-those-cursed-scotch-pebbles
-text: "\u201CI am sorry there are such occasions to clean your pebbles; you must make\
-  \ use of the powder to them by putting it in anything of substance, wherein it will\
-  \ not swim a-top of the water.\u201D\nThe father, feeling unwell, frequently took\
-  \ water gruel. This was a proper vehicle for the powder.\n\u201COn Sunday morning,\
-  \ I again examined Mr Blandy. He seemed much relieved, but, on viewing his fundament,\
-  \ I found it almost surrounded with gleety excoriations and ulcers.\u201D\n\u201C\
-  I always thought there was mischief in those cursed Scotch pebbles.\u201D\nFour\
-  \ extracts from an account of the case of Mary Blandy, given in Tales Of The Newgate\
-  \ Calendar by Rayner Heppenstall (1981)"
-title: Those Cursed Scotch Pebbles
+ngrams:
+- - feeling
+  - unwell
+  - frequently
+- - cursed
+  - scotch
+  - pebbles
+- - cursed
+  - scotch
+  - pebbles
+- - father
+  - feeling
+  - unwell
+- - scotch
+  - pebbles
+  - four
+- - pebbles
+  - four
+  - extracts
+- - mary
+  - blandy
+  - given
+- - unwell
+  - frequently
+  - took
+- - examined
+  - mr
+  - blandy
+story:
+  date: 2010-01-24
+  id: 2010-01-24-those-cursed-scotch-pebbles
+  text: "\u201CI am sorry there are such occasions to clean your pebbles; you must\
+    \ make use of the powder to them by putting it in anything of substance, wherein\
+    \ it will not swim a-top of the water.\u201D\nThe father, feeling unwell, frequently\
+    \ took water gruel. This was a proper vehicle for the powder.\n\u201COn Sunday\
+    \ morning, I again examined Mr Blandy. He seemed much relieved, but, on viewing\
+    \ his fundament, I found it almost surrounded with gleety excoriations and ulcers.\u201D\
+    \n\u201CI always thought there was mischief in those cursed Scotch pebbles.\u201D\
+    \nFour extracts from an account of the case of Mary Blandy, given in Tales Of\
+    \ The Newgate Calendar by Rayner Heppenstall (1981)"
+  title: Those Cursed Scotch Pebbles
+word_count: 115

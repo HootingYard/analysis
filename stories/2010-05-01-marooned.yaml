@@ -1,5 +1,17 @@
-date: 2010-05-01
-id: 2010-05-01-marooned
-text: Games on baize were my great joy, and ball games using sticks. Ah! I treasure
-  memories of billiards and hockey as the waves crash on the rocks.
-title: Marooned
+ngrams:
+- - ball
+  - games
+  - using
+- - games
+  - using
+  - sticks
+- - using
+  - sticks
+  - ah
+story:
+  date: 2010-05-01
+  id: 2010-05-01-marooned
+  text: Games on baize were my great joy, and ball games using sticks. Ah! I treasure
+    memories of billiards and hockey as the waves crash on the rocks.
+  title: Marooned
+word_count: 28

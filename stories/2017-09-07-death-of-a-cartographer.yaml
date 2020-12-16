@@ -1,8 +1,26 @@
-date: 2017-09-07
-id: 2017-09-07-death-of-a-cartographer
-text: "Can it be that a quarter of a century has passed since the publication of the\
-  \ Hooting Yard Calendar 1992? Tempus bloody well fugit, and no mistake. The calendar\
-  \ that year was entitled \u201CAccidental Deaths Of Twelve Cartographers\u201D,\
-  \ and here is one such accidental death, that of Underbath, who, we are told, was\
-  \ impaled by a javelin in Bodger's Spinney on February the fifth 1907.\n"
-title: Death Of A Cartographer
+ngrams:
+- - entitled
+  - accidental
+  - deaths
+- - calendar
+  - tempus
+  - bloody
+- - tempus
+  - bloody
+  - well
+- - bloody
+  - well
+  - fugit
+- - yard
+  - calendar
+  - tempus
+story:
+  date: 2017-09-07
+  id: 2017-09-07-death-of-a-cartographer
+  text: "Can it be that a quarter of a century has passed since the publication of\
+    \ the Hooting Yard Calendar 1992? Tempus bloody well fugit, and no mistake. The\
+    \ calendar that year was entitled \u201CAccidental Deaths Of Twelve Cartographers\u201D\
+    , and here is one such accidental death, that of Underbath, who, we are told,\
+    \ was impaled by a javelin in Bodger's Spinney on February the fifth 1907.\n"
+  title: Death Of A Cartographer
+word_count: 68

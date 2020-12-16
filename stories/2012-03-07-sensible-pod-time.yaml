@@ -1,6 +1,18 @@
-date: 2012-03-07
-id: 2012-03-07-sensible-pod-time
-text: 'Sensible Quiz Time
+ngrams:
+- - time
+  - sensible
+  - quiz
+- - sensible
+  - quiz
+  - time
+- - sensible
+  - pod
+  - time
+story:
+  date: 2012-03-07
+  id: 2012-03-07-sensible-pod-time
+  text: 'Sensible Quiz Time
 
-  '
-title: Sensible Pod Time
+    '
+  title: Sensible Pod Time
+word_count: 6

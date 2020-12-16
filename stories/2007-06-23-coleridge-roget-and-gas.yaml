@@ -1,7 +1,22 @@
-date: 2007-06-23
-id: 2007-06-23-coleridge-roget-and-gas
-text: "Reviewing a new biography of Peter Mark Roget by Nick Rennison, Steven Poole\
-  \ notes \u201CRoget studied medicine at Edinburgh University and began work at the\
-  \ wonderfully named Pneumatic Institution for Inhalation Gas Therapy, where he probably\
-  \ knew Coleridge, who loved to suck on the nitrous oxide\u201D."
-title: Coleridge, Roget, And Gas
+ngrams:
+- - rennison
+  - steven
+  - poole
+- - nick
+  - rennison
+  - steven
+- - roget
+  - studied
+  - medicine
+- - poole
+  - notes
+  - roget
+story:
+  date: 2007-06-23
+  id: 2007-06-23-coleridge-roget-and-gas
+  text: "Reviewing a new biography of Peter Mark Roget by Nick Rennison, Steven Poole\
+    \ notes \u201CRoget studied medicine at Edinburgh University and began work at\
+    \ the wonderfully named Pneumatic Institution for Inhalation Gas Therapy, where\
+    \ he probably knew Coleridge, who loved to suck on the nitrous oxide\u201D."
+  title: Coleridge, Roget, And Gas
+word_count: 50

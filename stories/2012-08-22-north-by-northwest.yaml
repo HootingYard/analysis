@@ -1,7 +1,19 @@
-date: 2012-08-22
-id: 2012-08-22-north-by-northwest
-text: 'Two pages from my son Ed''s magnificent book North By Northwest. Paint and
-  brown paper. Click for enormous version.
+ngrams:
+- - brown
+  - paper
+  - click
+- - magnificent
+  - book
+  - north
+- - northwest
+  - two
+  - pages
+story:
+  date: 2012-08-22
+  id: 2012-08-22-north-by-northwest
+  text: 'Two pages from my son Ed''s magnificent book North By Northwest. Paint and
+    brown paper. Click for enormous version.
 
-  '
-title: North By Northwest
+    '
+  title: North By Northwest
+word_count: 23

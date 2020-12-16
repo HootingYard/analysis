@@ -1,6 +1,18 @@
-date: 2011-04-26
-id: 2011-04-26-your-guide-to-vitamins-part-one
-text: '
+ngrams:
+- - tool
+  - dim
+  - bulb
+- - dull
+  - tool
+  - dim
+- - vitamins
+  - part
+  - one
+story:
+  date: 2011-04-26
+  id: 2011-04-26-your-guide-to-vitamins-part-one
+  text: '
 
-  From Dull Tool Dim Bulb'
-title: Your Guide To Vitamins, Part One
+    From Dull Tool Dim Bulb'
+  title: Your Guide To Vitamins, Part One
+word_count: 11

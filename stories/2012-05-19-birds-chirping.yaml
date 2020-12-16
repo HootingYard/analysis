@@ -1,9 +1,21 @@
-date: 2012-05-19
-id: 2012-05-19-birds-chirping
-text: 'There will be a prize for the first reader to identify the film from which
-  this still is taken:
+ngrams:
+- - birds
+  - chirping
+  - there
+- - chirping
+  - there
+  - will
+- - which
+  - this
+  - still
+story:
+  date: 2012-05-19
+  id: 2012-05-19-birds-chirping
+  text: 'There will be a prize for the first reader to identify the film from which
+    this still is taken:
 
-  Click to enlarge.
+    Click to enlarge.
 
-  '
-title: (Birds Chirping)
+    '
+  title: (Birds Chirping)
+word_count: 24

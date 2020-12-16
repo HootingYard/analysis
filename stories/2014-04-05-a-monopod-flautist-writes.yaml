@@ -1,9 +1,21 @@
-date: 2014-04-05
-id: 2014-04-05-a-monopod-flautist-writes
-text: 'Never, never admit to being a flute-player with a rock band.
+ngrams:
+- - monopod
+  - flautist
+  - dispenses
+- - flautist
+  - dispenses
+  - advice
+- - monopod
+  - flautist
+  - writes
+story:
+  date: 2014-04-05
+  id: 2014-04-05-a-monopod-flautist-writes
+  text: 'Never, never admit to being a flute-player with a rock band.
 
-  The monopod flautist dispenses advice for travellers. (Thanks to Alasdair Dickson
-  for drawing this to my attention. Now I must go and listen to Aqualung.)
+    The monopod flautist dispenses advice for travellers. (Thanks to Alasdair Dickson
+    for drawing this to my attention. Now I must go and listen to Aqualung.)
 
-  '
-title: A Monopod Flautist Writes
+    '
+  title: A Monopod Flautist Writes
+word_count: 40

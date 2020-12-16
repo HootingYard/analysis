@@ -1,7 +1,19 @@
-date: 2010-07-20
-id: 2010-07-20-animal-paisible-et-puissant
-text: 'Look, tinies, look! A cow from Gaul!
+ngrams:
+- - paisible
+  - et
+  - puissant
+- - animal
+  - paisible
+  - et
+- - et
+  - puissant
+  - look
+story:
+  date: 2010-07-20
+  id: 2010-07-20-animal-paisible-et-puissant
+  text: 'Look, tinies, look! A cow from Gaul!
 
 
-  From Agence Eureka'
-title: Animal Paisible Et Puissant
+    From Agence Eureka'
+  title: Animal Paisible Et Puissant
+word_count: 14

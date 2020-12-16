@@ -1,8 +1,27 @@
-date: 2013-07-29
-id: 2013-07-29-rustic-wisdom
-text: "On Farming Today on BBC Radio 4 this morning, I heard the following piece of\
-  \ rustic wisdom, or perhaps it was a spell or incantation:\nI see the chicken\u2014\
-  good thing happens.\nI have decided to test this by taking the first opportunity\
-  \ that presents itself to look at a chicken. I will then wait for something good\
-  \ to happen, and\u2014whatever the eventuality\u2014will report back, in vivid detail.\n"
-title: Rustic Wisdom
+ngrams:
+- - chicken
+  - good
+  - thing
+- - good
+  - thing
+  - happens
+- - eventuality
+  - will
+  - report
+- - will
+  - report
+  - back
+- - bbc
+  - radio
+  - this
+story:
+  date: 2013-07-29
+  id: 2013-07-29-rustic-wisdom
+  text: "On Farming Today on BBC Radio 4 this morning, I heard the following piece\
+    \ of rustic wisdom, or perhaps it was a spell or incantation:\nI see the chicken\u2014\
+    good thing happens.\nI have decided to test this by taking the first opportunity\
+    \ that presents itself to look at a chicken. I will then wait for something good\
+    \ to happen, and\u2014whatever the eventuality\u2014will report back, in vivid\
+    \ detail.\n"
+  title: Rustic Wisdom
+word_count: 71

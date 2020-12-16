@@ -1,9 +1,21 @@
-date: 2012-10-15
-id: 2012-10-15-pod
-text: 'Originally broadcast almost exactly a year ago, the latest Hooting Yard podcast
-  includes a highly amusing list of recommended Victorian camping equipment.
+ngrams:
+- - victorian
+  - camping
+  - equipment
+- - recommended
+  - victorian
+  - camping
+- - pod
+  - originally
+  - broadcast
+story:
+  date: 2012-10-15
+  id: 2012-10-15-pod
+  text: 'Originally broadcast almost exactly a year ago, the latest Hooting Yard podcast
+    includes a highly amusing list of recommended Victorian camping equipment.
 
-  The Distance Between The Aerodrome And The Zoo
+    The Distance Between The Aerodrome And The Zoo
 
-  '
-title: Pod!
+    '
+  title: Pod!
+word_count: 31

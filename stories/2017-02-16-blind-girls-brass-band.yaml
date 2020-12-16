@@ -1,6 +1,18 @@
-date: 2017-02-16
-id: 2017-02-16-blind-girls-brass-band
-text: 'Spotted at beyond the coda:
+ngrams:
+- - girls
+  - brass
+  - band
+- - blind
+  - girls
+  - brass
+- - brass
+  - band
+  - spotted
+story:
+  date: 2017-02-16
+  id: 2017-02-16-blind-girls-brass-band
+  text: 'Spotted at beyond the coda:
 
-  '
-title: Blind Girls Brass Band
+    '
+  title: Blind Girls Brass Band
+word_count: 9

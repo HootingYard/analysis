@@ -1,6 +1,18 @@
-date: 2011-09-14
-id: 2011-09-14-janitor-lobster
-text: 'The janitor rattles his bunch of keys.
+ngrams:
+- - rattles
+  - his
+  - bunch
+- - janitor
+  - rattles
+  - his
+- - bunch
+  - of
+  - keys
+story:
+  date: 2011-09-14
+  id: 2011-09-14-janitor-lobster
+  text: 'The janitor rattles his bunch of keys.
 
-  The lobster knows the secrets of the sea.'
-title: Janitor / Lobster
+    The lobster knows the secrets of the sea.'
+  title: Janitor / Lobster
+word_count: 17

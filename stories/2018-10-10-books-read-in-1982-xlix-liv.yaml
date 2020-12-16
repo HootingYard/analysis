@@ -1,10 +1,22 @@
-date: 2018-10-10
-id: 2018-10-10-books-read-in-1982-xlix-liv
-text: '
+ngrams:
+- - in
+  - xlix
+  - liv
+- - read
+  - in
+  - xlix
+- - books
+  - read
+  - in
+story:
+  date: 2018-10-10
+  id: 2018-10-10-books-read-in-1982-xlix-liv
+  text: '
 
 
 
 
 
-  '
-title: "Books Read In 1982 (xlix\u2014liv)"
+    '
+  title: "Books Read In 1982 (xlix\u2014liv)"
+word_count: 5

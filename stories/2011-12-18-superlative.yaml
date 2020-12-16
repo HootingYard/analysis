@@ -1,6 +1,18 @@
-date: 2011-12-18
-id: 2011-12-18-superlative
-text: "\nThe greatest novel ever written, by anyone, anywhere.\nGilbert Adair on Franz\
-  \ Kafka's (unfinished) Amerika, in his essay \u201COn Actemes\u201D, collected in\
-  \ Surfing The Zeitgeist (1997)"
-title: Superlative
+ngrams:
+- - anywhere
+  - gilbert
+  - adair
+- - anyone
+  - anywhere
+  - gilbert
+- - greatest
+  - novel
+  - ever
+story:
+  date: 2011-12-18
+  id: 2011-12-18-superlative
+  text: "\nThe greatest novel ever written, by anyone, anywhere.\nGilbert Adair on\
+    \ Franz Kafka's (unfinished) Amerika, in his essay \u201COn Actemes\u201D, collected\
+    \ in Surfing The Zeitgeist (1997)"
+  title: Superlative
+word_count: 27

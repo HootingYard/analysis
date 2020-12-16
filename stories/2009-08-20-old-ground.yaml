@@ -1,14 +1,53 @@
-date: 2009-08-20
-id: 2009-08-20-old-ground
-text: "Here are some of the topics I have considered writing about today, in no particular\
-  \ order\u2026\nThe interior workings of the brain of a moose.\nThe delivery of a\
-  \ brand new Snodgrass-Ponsonby Machine, to replace one sent for repair.\nTwo Mossad\
-  \ agents playing pingpong in a dismal hangar.\nNelson Eddy, by a waterfall, calling\
-  \ \u201Cyou-oo-oo-oo\u201D, to Jeanette Macdonald, because he has sprained his ankle\
-  \ and wants her to call an air ambulance.\nA map of Vange, with all its unmarked\
-  \ pathways marked.\nA discursive yet exhaustive history of the unbutton.\n\u2026\
-  \ but each of these subjects has been done to death by Dobson, in a series of pamphlets.\
-  \ It is true that the pamphlets are out of print, but it's old ground, old ground.\
-  \ I think I shall instead turn my hand to a mashed potato waltz, and whistle down\
-  \ the wind."
-title: Old Ground
+ngrams:
+- - hangar
+  - nelson
+  - eddy
+- - unmarked
+  - pathways
+  - marked
+- - dismal
+  - hangar
+  - nelson
+- - waterfall
+  - calling
+  - you-oo-oo-oo
+- - agents
+  - playing
+  - pingpong
+- - mossad
+  - agents
+  - playing
+- - mashed
+  - potato
+  - waltz
+- - jeanette
+  - macdonald
+  - because
+- - discursive
+  - yet
+  - exhaustive
+- - brand
+  - new
+  - snodgrass-ponsonby
+- - two
+  - mossad
+  - agents
+- - repair
+  - two
+  - mossad
+story:
+  date: 2009-08-20
+  id: 2009-08-20-old-ground
+  text: "Here are some of the topics I have considered writing about today, in no\
+    \ particular order\u2026\nThe interior workings of the brain of a moose.\nThe\
+    \ delivery of a brand new Snodgrass-Ponsonby Machine, to replace one sent for\
+    \ repair.\nTwo Mossad agents playing pingpong in a dismal hangar.\nNelson Eddy,\
+    \ by a waterfall, calling \u201Cyou-oo-oo-oo\u201D, to Jeanette Macdonald, because\
+    \ he has sprained his ankle and wants her to call an air ambulance.\nA map of\
+    \ Vange, with all its unmarked pathways marked.\nA discursive yet exhaustive history\
+    \ of the unbutton.\n\u2026 but each of these subjects has been done to death by\
+    \ Dobson, in a series of pamphlets. It is true that the pamphlets are out of print,\
+    \ but it's old ground, old ground. I think I shall instead turn my hand to a mashed\
+    \ potato waltz, and whistle down the wind."
+  title: Old Ground
+word_count: 144

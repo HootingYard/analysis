@@ -1,7 +1,19 @@
-date: 2016-09-24
-id: 2016-09-24-myrna-loy-revisited
-text: 'South Coast minstrels The Flying Aspidistras perform a rousing version of Dismantled
-  Wooden Myrna Loy. Watch it here.
+ngrams:
+- - myrna
+  - loy
+  - revisited
+- - loy
+  - revisited
+  - south
+- - flying
+  - aspidistras
+  - perform
+story:
+  date: 2016-09-24
+  id: 2016-09-24-myrna-loy-revisited
+  text: 'South Coast minstrels The Flying Aspidistras perform a rousing version of
+    Dismantled Wooden Myrna Loy. Watch it here.
 
-  '
-title: Myrna Loy Revisited
+    '
+  title: Myrna Loy Revisited
+word_count: 21

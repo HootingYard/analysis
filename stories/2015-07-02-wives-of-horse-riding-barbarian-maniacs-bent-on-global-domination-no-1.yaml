@@ -1,8 +1,20 @@
-date: 2015-07-02
-id: 2015-07-02-wives-of-horse-riding-barbarian-maniacs-bent-on-global-domination-no-1
-text: 'In the first of our series devoted to the wives of horse-riding barbarian maniacs
-  bent on global domination, we celebrate the intriguingly-named Borte, dearly beloved
-  of Genghis Khan.
+ngrams:
+- - intriguingly-named
+  - borte
+  - dearly
+- - borte
+  - dearly
+  - beloved
+- - horse-riding
+  - barbarian
+  - maniacs
+story:
+  date: 2015-07-02
+  id: 2015-07-02-wives-of-horse-riding-barbarian-maniacs-bent-on-global-domination-no-1
+  text: 'In the first of our series devoted to the wives of horse-riding barbarian
+    maniacs bent on global domination, we celebrate the intriguingly-named Borte,
+    dearly beloved of Genghis Khan.
 
-  '
-title: Wives Of Horse-Riding Barbarian Maniacs Bent On Global Domination, No. 1
+    '
+  title: Wives Of Horse-Riding Barbarian Maniacs Bent On Global Domination, No. 1
+word_count: 38

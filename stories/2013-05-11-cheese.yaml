@@ -1,8 +1,30 @@
-date: 2013-05-11
-id: 2013-05-11-cheese
-text: "Cheese was rarely consumed on an allegorical level in the seventeenth century.\n\
-  E. de Jongh, cited in The Embarrassment Of Riches\_: An Interpretation Of Dutch\
-  \ Culture In The Golden Age (1987) by Simon Schama. Lucky for me that I did not\
-  \ live in that place at that time, as my own consumption of cheese is pursued almost\
-  \ exclusively on an allegorical level. I shall have more to say on this matter shortly."
-title: Cheese
+ngrams:
+- - simon
+  - schama
+  - lucky
+- - de
+  - jongh
+  - cited
+- - e
+  - de
+  - jongh
+- - seventeenth
+  - century
+  - e
+- - pursued
+  - almost
+  - exclusively
+- - century
+  - e
+  - de
+story:
+  date: 2013-05-11
+  id: 2013-05-11-cheese
+  text: "Cheese was rarely consumed on an allegorical level in the seventeenth century.\n\
+    E. de Jongh, cited in The Embarrassment Of Riches\_: An Interpretation Of Dutch\
+    \ Culture In The Golden Age (1987) by Simon Schama. Lucky for me that I did not\
+    \ live in that place at that time, as my own consumption of cheese is pursued\
+    \ almost exclusively on an allegorical level. I shall have more to say on this\
+    \ matter shortly."
+  title: Cheese
+word_count: 72

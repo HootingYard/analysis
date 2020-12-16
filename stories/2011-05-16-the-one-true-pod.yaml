@@ -1,6 +1,18 @@
-date: 2011-05-16
-id: 2011-05-16-the-one-true-pod
-text: 'A-H
+ngrams:
+- - 'true'
+  - pod
+  - a-h
+- - one
+  - 'true'
+  - pod
+- - the
+  - one
+  - 'true'
+story:
+  date: 2011-05-16
+  id: 2011-05-16-the-one-true-pod
+  text: 'A-H
 
-  '
-title: The One True Pod
+    '
+  title: The One True Pod
+word_count: 5

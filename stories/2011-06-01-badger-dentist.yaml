@@ -1,6 +1,18 @@
-date: 2011-06-01
-id: 2011-06-01-badger-dentist
-text: '
+ngrams:
+- - badger
+  - dentist
+  - spotted
+- - at
+  - elsie
+  - schrotthaufen
+- - spotted
+  - at
+  - elsie
+story:
+  date: 2011-06-01
+  id: 2011-06-01-badger-dentist
+  text: '
 
-  Spotted at Elsie Schrotthaufen''s Book Of Wonders'
-title: Badger Dentist
+    Spotted at Elsie Schrotthaufen''s Book Of Wonders'
+  title: Badger Dentist
+word_count: 10

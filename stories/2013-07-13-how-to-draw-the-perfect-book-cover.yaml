@@ -1,8 +1,20 @@
-date: 2013-07-13
-id: 2013-07-13-how-to-draw-the-perfect-book-cover
-text: 'Many thanks to Ruthie Bosch for alerting me to this gallery of Edward Gorey
-  book cover designs, of which the one reproduced below may well be the finest ever,
-  by anybody, anywhere.
+ngrams:
+- - edward
+  - gorey
+  - book
+- - gorey
+  - book
+  - cover
+- - book
+  - cover
+  - designs
+story:
+  date: 2013-07-13
+  id: 2013-07-13-how-to-draw-the-perfect-book-cover
+  text: 'Many thanks to Ruthie Bosch for alerting me to this gallery of Edward Gorey
+    book cover designs, of which the one reproduced below may well be the finest ever,
+    by anybody, anywhere.
 
-  '
-title: How To Draw The Perfect Book Cover
+    '
+  title: How To Draw The Perfect Book Cover
+word_count: 39

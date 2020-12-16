@@ -1,16 +1,62 @@
-date: 2019-04-24
-id: 2019-04-24-reading
-text: "One consequence of my hopeless eyesight is that, over the past couple of years,\
-  \ reading has become somewhat difficult. Even armed with industrial-strength magnifying\
-  \ spectacles, issued by my eye doctors, it is a strain to read standard size type.\n\
-  I have always loved books as physical objects, and eschewed their digital, electronic\
-  \ counterparts. But having been given a Kindle Fire tablet as a birthday gift, I\
-  \ have become\u2014of necessity\u2014a convert to the e-book. I can read again,\
-  \ voraciously, without having to peer like a little mole.\nThus, in the last few\
-  \ months, I've been splurging, my reading life as demented and enthusiastic as ever\
-  \ it was. I've reread Beckett (Molloy) and Kafka (America), Henry Fielding and Mickey\
-  \ Spillane, read Theodore Dalrymple's marvellous book on litter (Litter\_: The Remains\
-  \ Of Our Culture), Melanie Phillips\u2019 memoir Guardian Angel, Francis Iles, Derek\
-  \ Raymond, and James Hadley Chase, H P Lovecaft, William Hazlitt, and Sir Thomas\
-  \ Browne, and am currently bingeing on Georges Simenon. What a wonder he is."
-title: Reading
+ngrams:
+- - iles
+  - derek
+  - raymond
+- - francis
+  - iles
+  - derek
+- - digital
+  - electronic
+  - counterparts
+- - industrial-strength
+  - magnifying
+  - spectacles
+- - melanie
+  - phillips
+  - memoir
+- - reread
+  - beckett
+  - molloy
+- - culture
+  - melanie
+  - phillips
+- - angel
+  - francis
+  - iles
+- - lovecaft
+  - william
+  - hazlitt
+- - magnifying
+  - spectacles
+  - issued
+- - phillips
+  - memoir
+  - guardian
+- - america
+  - henry
+  - fielding
+- - hadley
+  - chase
+  - h
+- - james
+  - hadley
+  - chase
+story:
+  date: 2019-04-24
+  id: 2019-04-24-reading
+  text: "One consequence of my hopeless eyesight is that, over the past couple of\
+    \ years, reading has become somewhat difficult. Even armed with industrial-strength\
+    \ magnifying spectacles, issued by my eye doctors, it is a strain to read standard\
+    \ size type.\nI have always loved books as physical objects, and eschewed their\
+    \ digital, electronic counterparts. But having been given a Kindle Fire tablet\
+    \ as a birthday gift, I have become\u2014of necessity\u2014a convert to the e-book.\
+    \ I can read again, voraciously, without having to peer like a little mole.\n\
+    Thus, in the last few months, I've been splurging, my reading life as demented\
+    \ and enthusiastic as ever it was. I've reread Beckett (Molloy) and Kafka (America),\
+    \ Henry Fielding and Mickey Spillane, read Theodore Dalrymple's marvellous book\
+    \ on litter (Litter\_: The Remains Of Our Culture), Melanie Phillips\u2019 memoir\
+    \ Guardian Angel, Francis Iles, Derek Raymond, and James Hadley Chase, H P Lovecaft,\
+    \ William Hazlitt, and Sir Thomas Browne, and am currently bingeing on Georges\
+    \ Simenon. What a wonder he is."
+  title: Reading
+word_count: 171

@@ -1,21 +1,42 @@
-date: 2017-12-18
-id: 2017-12-18-translated-from-memory
-text: 'An old Latvian folk song, translated from memory. To be sung when gathered
-  round a blazing hearth on a bitter winter''s night.
+ngrams:
+- - forked
+  - lightning
+  - blasts
+- - latvian
+  - folk
+  - song
+- - folk
+  - song
+  - translated
+- - old
+  - latvian
+  - folk
+- - something
+  - something
+  - milk
+- - golden
+  - hair
+  - she
+story:
+  date: 2017-12-18
+  id: 2017-12-18-translated-from-memory
+  text: 'An old Latvian folk song, translated from memory. To be sung when gathered
+    round a blazing hearth on a bitter winter''s night.
 
-  There is a shepherd in the hills
+    There is a shepherd in the hills
 
-  There is a [something] green
+    There is a [something] green
 
-  But black is the crow in the [something] tree
+    But black is the crow in the [something] tree
 
-  And forked lightning blasts the sky
+    And forked lightning blasts the sky
 
-  The shepherd''s lass has golden hair
+    The shepherd''s lass has golden hair
 
-  She [something something] milk
+    She [something something] milk
 
-  But the crow has flown away, my love
+    But the crow has flown away, my love
 
-  And the ducks have left the lake'
-title: Translated From Memory
+    And the ducks have left the lake'
+  title: Translated From Memory
+word_count: 79

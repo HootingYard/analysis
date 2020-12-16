@@ -1,6 +1,18 @@
-date: 2013-12-20
-id: 2013-12-20-four-generations
-text: 'My sister, my mother, my grandmother, and my great-grandmother.
+ngrams:
+- - generations
+  - my
+  - sister
+- - mother
+  - my
+  - grandmother
+- - sister
+  - my
+  - mother
+story:
+  date: 2013-12-20
+  id: 2013-12-20-four-generations
+  text: 'My sister, my mother, my grandmother, and my great-grandmother.
 
-  '
-title: Four Generations
+    '
+  title: Four Generations
+word_count: 11

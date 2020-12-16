@@ -1,7 +1,19 @@
-date: 2017-12-04
-id: 2017-12-04-gardening-tips
-text: 'Received in the post, seasonal tips for gardeners, peasants, and yokels from
-  those lovely people at eBay.
+ngrams:
+- - gardening
+  - tips
+  - received
+- - post
+  - seasonal
+  - tips
+- - those
+  - lovely
+  - people
+story:
+  date: 2017-12-04
+  id: 2017-12-04-gardening-tips
+  text: 'Received in the post, seasonal tips for gardeners, peasants, and yokels from
+    those lovely people at eBay.
 
-  '
-title: Gardening Tips
+    '
+  title: Gardening Tips
+word_count: 19

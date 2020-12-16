@@ -1,13 +1,37 @@
-date: 2012-02-21
-id: 2012-02-21-phantoms-or-bees
-text: '
+ngrams:
+- - oliver
+  - lawson
+  - dick
+- - verily
+  - believe
+  - thomas
+- - believe
+  - thomas
+  - allen
+- - lives
+  - edition
+  - edited
+- - aubrey
+  - brief
+  - lives
+- - times
+  - astrologer
+  - mathematician
+- - john
+  - aubrey
+  - brief
+story:
+  date: 2012-02-21
+  id: 2012-02-21-phantoms-or-bees
+  text: '
 
-  In those dark times, astrologer, mathematician and conjuror were accounted the same
-  things, and the vulgar did verily believe [Thomas Allen] to be a conjuror. He had
-  a great many mathematical instruments and glasses in his chamber, which did also
-  confirm the ignorant in their opinion, and his servitor (to impose on freshmen and
-  simple people) would tell them that sometimes he should meet the spirits, coming
-  up his stairs like bees.
+    In those dark times, astrologer, mathematician and conjuror were accounted the
+    same things, and the vulgar did verily believe [Thomas Allen] to be a conjuror.
+    He had a great many mathematical instruments and glasses in his chamber, which
+    did also confirm the ignorant in their opinion, and his servitor (to impose on
+    freshmen and simple people) would tell them that sometimes he should meet the
+    spirits, coming up his stairs like bees.
 
-  from John Aubrey, Brief Lives (1972 edition edited by Oliver Lawson Dick)'
-title: Phantoms Or Bees?
+    from John Aubrey, Brief Lives (1972 edition edited by Oliver Lawson Dick)'
+  title: Phantoms Or Bees?
+word_count: 86

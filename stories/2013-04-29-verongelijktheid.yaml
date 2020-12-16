@@ -1,16 +1,61 @@
-date: 2013-04-29
-id: 2013-04-29-verongelijktheid
-text: "There is a Dutch word . . . verongelijktheid, to be wronged, not by an individual\
-  \ so much as by the world at large. You often see it in the way the much-heralded\
-  \ national team plays soccer.\nProud of their superior skills, their multicultural\
-  \ makeup, the almost mocking manner of their free-flowing play, maddening the players\
-  \ of more prosaic teams, like Germany, the stars of Dutch soccer usually start their\
-  \ games with all the swagger of swinging Amsterdam. In their playful individualism,\
-  \ their progressive daringness, they know they are the best. And sometimes they\
-  \ are. But when things go against them and the plodding Germans, or the bloody-minded\
-  \ Italians, or the cussed English, go up a goal or two, the heads slump, the bickering\
-  \ starts, and the game is lost in a sour mood of verongelijktheid. Why did this\
-  \ have to happen to us? What did we do to deserve this? Aren't we the best? Well,\
-  \ fuck you!\nIan Buruma, Murder In Amsterdam\_: The Death Of Theo Van Gogh And The\
-  \ Limits Of Tolerance (2006)"
-title: Verongelijktheid
+ngrams:
+- - plays
+  - soccer
+  - proud
+- - ian
+  - buruma
+  - murder
+- - team
+  - plays
+  - soccer
+- - much-heralded
+  - national
+  - team
+- - free-flowing
+  - play
+  - maddening
+- - national
+  - team
+  - plays
+- - theo
+  - van
+  - gogh
+- - dutch
+  - soccer
+  - usually
+- - soccer
+  - usually
+  - start
+- - dutch
+  - word
+  - verongelijktheid
+- - almost
+  - mocking
+  - manner
+- - cussed
+  - english
+  - go
+- - best
+  - well
+  - fuck
+- - prosaic
+  - teams
+  - like
+story:
+  date: 2013-04-29
+  id: 2013-04-29-verongelijktheid
+  text: "There is a Dutch word . . . verongelijktheid, to be wronged, not by an individual\
+    \ so much as by the world at large. You often see it in the way the much-heralded\
+    \ national team plays soccer.\nProud of their superior skills, their multicultural\
+    \ makeup, the almost mocking manner of their free-flowing play, maddening the\
+    \ players of more prosaic teams, like Germany, the stars of Dutch soccer usually\
+    \ start their games with all the swagger of swinging Amsterdam. In their playful\
+    \ individualism, their progressive daringness, they know they are the best. And\
+    \ sometimes they are. But when things go against them and the plodding Germans,\
+    \ or the bloody-minded Italians, or the cussed English, go up a goal or two, the\
+    \ heads slump, the bickering starts, and the game is lost in a sour mood of verongelijktheid.\
+    \ Why did this have to happen to us? What did we do to deserve this? Aren't we\
+    \ the best? Well, fuck you!\nIan Buruma, Murder In Amsterdam\_: The Death Of Theo\
+    \ Van Gogh And The Limits Of Tolerance (2006)"
+  title: Verongelijktheid
+word_count: 173

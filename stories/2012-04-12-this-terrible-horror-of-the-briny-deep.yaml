@@ -1,8 +1,24 @@
-date: 2012-04-12
-id: 2012-04-12-this-terrible-horror-of-the-briny-deep
-text: 'Further to yesterday''s postage about the RMS Titanic, here is the title page
-  of a 1912 book about the disaster. I miss the days when books had lengthy and descriptive
-  titles. More sunken gigantic ocean liner material at The Public Domain Review.
+ngrams:
+- - sunken
+  - gigantic
+  - ocean
+- - gigantic
+  - ocean
+  - liner
+- - ocean
+  - liner
+  - material
+- - public
+  - domain
+  - review
+story:
+  date: 2012-04-12
+  id: 2012-04-12-this-terrible-horror-of-the-briny-deep
+  text: 'Further to yesterday''s postage about the RMS Titanic, here is the title
+    page of a 1912 book about the disaster. I miss the days when books had lengthy
+    and descriptive titles. More sunken gigantic ocean liner material at The Public
+    Domain Review.
 
-  '
-title: This Terrible Horror Of The Briny Deep
+    '
+  title: This Terrible Horror Of The Briny Deep
+word_count: 49

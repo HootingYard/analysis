@@ -1,24 +1,39 @@
-date: 2012-01-03
-id: 2012-01-03-the-twelve-days-day-ten
-text: 'On the tenth day of Christmas Old Halob gave to me
+ngrams:
+- - sickbags
+  - eight
+  - tufts
+- - rusty
+  - nozzles
+  - nine
+- - bindweed
+  - seven
+  - mordant
+- - seven
+  - mordant
+  - herons
+story:
+  date: 2012-01-03
+  id: 2012-01-03-the-twelve-days-day-ten
+  text: 'On the tenth day of Christmas Old Halob gave to me
 
-  Ten rusty nozzles,
+    Ten rusty nozzles,
 
-  Nine paper sickbags,
+    Nine paper sickbags,
 
-  Eight tufts of bindweed,,
+    Eight tufts of bindweed,,
 
-  Seven mordant herons,
+    Seven mordant herons,
 
-  Six hideous bat gods,
+    Six hideous bat gods,
 
-  Ecto-oplasm!
+    Ecto-oplasm!
 
-  Four dead chaffinches,
+    Four dead chaffinches,
 
-  Three poptarts,
+    Three poptarts,
 
-  Two cardboard pigs,
+    Two cardboard pigs,
 
-  And a viper, a shrew and a bee.'
-title: "The Twelve Days\_: Day Ten"
+    And a viper, a shrew and a bee.'
+  title: "The Twelve Days\_: Day Ten"
+word_count: 50

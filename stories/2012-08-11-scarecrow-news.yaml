@@ -1,7 +1,19 @@
-date: 2012-08-11
-id: 2012-08-11-scarecrow-news
-text: 'I wrote about scarecrows recently. Now I learn that there is a scarecrow festival
-  in Kettlewell, North Yorkshire. Very, very spooky.
+ngrams:
+- - kettlewell
+  - north
+  - yorkshire
+- - north
+  - yorkshire
+  - very
+- - scarecrows
+  - recently
+  - now
+story:
+  date: 2012-08-11
+  id: 2012-08-11-scarecrow-news
+  text: 'I wrote about scarecrows recently. Now I learn that there is a scarecrow
+    festival in Kettlewell, North Yorkshire. Very, very spooky.
 
-  '
-title: Scarecrow News
+    '
+  title: Scarecrow News
+word_count: 23

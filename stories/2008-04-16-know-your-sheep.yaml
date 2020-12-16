@@ -1,6 +1,19 @@
-date: 2008-04-16
-id: 2008-04-16-know-your-sheep
-text: "\u201CI was once advised by an old man of the hills that \u2018sheep have only\
-  \ one ambition in life and that is to die\u2019. No truer words were ever spoken\
-  \ about this nervous and confused animal.\u201D\u2014Paul Heiney in today's Times"
-title: Know Your Sheep
+ngrams:
+- - animal
+  - paul
+  - heiney
+- - confused
+  - animal
+  - paul
+- - die
+  - 'no'
+  - truer
+story:
+  date: 2008-04-16
+  id: 2008-04-16-know-your-sheep
+  text: "\u201CI was once advised by an old man of the hills that \u2018sheep have\
+    \ only one ambition in life and that is to die\u2019. No truer words were ever\
+    \ spoken about this nervous and confused animal.\u201D\u2014Paul Heiney in today's\
+    \ Times"
+  title: Know Your Sheep
+word_count: 45

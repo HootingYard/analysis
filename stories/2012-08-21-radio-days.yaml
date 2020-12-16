@@ -1,7 +1,19 @@
-date: 2012-08-21
-id: 2012-08-21-radio-days
-text: 'Thanks to Outa_Spaceman for this snapshot of a typical recording session at
-  Resonance104.4FM.
+ngrams:
+- - typical
+  - recording
+  - session
+- - radio
+  - days
+  - thanks
+- - recording
+  - session
+  - at
+story:
+  date: 2012-08-21
+  id: 2012-08-21-radio-days
+  text: 'Thanks to Outa_Spaceman for this snapshot of a typical recording session
+    at Resonance104.4FM.
 
-  '
-title: Radio Days
+    '
+  title: Radio Days
+word_count: 17

@@ -1,8 +1,20 @@
-date: 2013-08-02
-id: 2013-08-02-dabbling-today
-text: '
+ngrams:
+- - bbc
+  - radio
+  - four
+- - piece
+  - also
+  - includes
+- - dabbler
+  - this
+  - week
+story:
+  date: 2013-08-02
+  id: 2013-08-02-dabbling-today
+  text: '
 
-  In my cupboard at The Dabbler this week, I investigate the unfathomable mysteries
-  of BBC Radio Four''s Farming Today. The piece also includes a lengthy list of birds,
-  for the ornithologically-minded among you.'
-title: Dabbling Today
+    In my cupboard at The Dabbler this week, I investigate the unfathomable mysteries
+    of BBC Radio Four''s Farming Today. The piece also includes a lengthy list of
+    birds, for the ornithologically-minded among you.'
+  title: Dabbling Today
+word_count: 36

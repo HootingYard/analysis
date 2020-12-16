@@ -1,4 +1,16 @@
-date: 2008-07-03
-id: 2008-07-03-twelve-million-bees
-text: What a headline! Lorry carrying 12m bees overturns.
-title: Twelve Million Bees
+ngrams:
+- - headline
+  - lorry
+  - carrying
+- - twelve
+  - million
+  - bees
+- - lorry
+  - carrying
+  - m
+story:
+  date: 2008-07-03
+  id: 2008-07-03-twelve-million-bees
+  text: What a headline! Lorry carrying 12m bees overturns.
+  title: Twelve Million Bees
+word_count: 11

@@ -1,5 +1,17 @@
-date: 2012-04-13
-id: 2012-04-13-a-toc-h-dabble
-text: "\nOver at The Dabbler this week, a brief note on a topic dear, I am sure, to\
-  \ all our hearts\u2014the Toc H lamp!\n"
-title: A Toc H Dabble
+ngrams:
+- - toc
+  - h
+  - dabble
+- - toc
+  - h
+  - lamp
+- - h
+  - dabble
+  - over
+story:
+  date: 2012-04-13
+  id: 2012-04-13-a-toc-h-dabble
+  text: "\nOver at The Dabbler this week, a brief note on a topic dear, I am sure,\
+    \ to all our hearts\u2014the Toc H lamp!\n"
+  title: A Toc H Dabble
+word_count: 28

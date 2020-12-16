@@ -1,7 +1,22 @@
-date: 2011-11-25
-id: 2011-11-25-its-all-about-me-isnt-it
-text: "At first glance, I assumed this headline was about me, and booked up for some\
-  \ Recovered Memory Syndrome therapy to try to recall what I'd done\u2026\nPower\
-  \ crazy Key diverts plane\nBut, alas, it was\u2014remarkably\u2014about someone\
-  \ else entirely."
-title: It's All About Me, Isn't It?
+ngrams:
+- - memory
+  - syndrome
+  - therapy
+- - recovered
+  - memory
+  - syndrome
+- - done
+  - power
+  - crazy
+- - someone
+  - else
+  - entirely
+story:
+  date: 2011-11-25
+  id: 2011-11-25-its-all-about-me-isnt-it
+  text: "At first glance, I assumed this headline was about me, and booked up for\
+    \ some Recovered Memory Syndrome therapy to try to recall what I'd done\u2026\n\
+    Power crazy Key diverts plane\nBut, alas, it was\u2014remarkably\u2014about someone\
+    \ else entirely."
+  title: It's All About Me, Isn't It?
+word_count: 49

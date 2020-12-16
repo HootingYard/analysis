@@ -1,15 +1,36 @@
-date: 2015-07-17
-id: 2015-07-17-buzz
-text: '
+ngrams:
+- - terrible
+  - vacancy
+  - between
+- - pulsating
+  - brain
+  - finally
+- - pea-sized
+  - yet
+  - pulsating
+- - devoted
+  - readers
+  - ought
+- - buzz
+  - dear
+  - mr
+- - still
+  - alive
+  - dear
+story:
+  date: 2015-07-17
+  id: 2015-07-17-buzz
+  text: '
 
-  Dear Mr Key, Are you still alive?
+    Dear Mr Key, Are you still alive?
 
-  Dear Mr Key, Has your pea-sized yet pulsating brain finally given up the ghost?
+    Dear Mr Key, Has your pea-sized yet pulsating brain finally given up the ghost?
 
-  Ahoy there Key!, Is there a terrible vacancy between your ears we devoted readers
-  ought to know about?
+    Ahoy there Key!, Is there a terrible vacancy between your ears we devoted readers
+    ought to know about?
 
-  These are just some of the letters I have received in response to the eerie silence
-  which has fallen over Hooting Yard like a leaden pall. The awful truth is revealed
-  in today''s Dabbler, and it is all about bees!'
-title: Buzz!
+    These are just some of the letters I have received in response to the eerie silence
+    which has fallen over Hooting Yard like a leaden pall. The awful truth is revealed
+    in today''s Dabbler, and it is all about bees!'
+  title: Buzz!
+word_count: 81

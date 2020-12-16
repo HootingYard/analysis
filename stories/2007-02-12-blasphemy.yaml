@@ -1,12 +1,42 @@
-date: 2007-02-12
-id: 2007-02-12-blasphemy
-text: "There is another flurry of outrage, in Cambridge this time, because someone\
-  \ has published a picture of a seventh-century mystic. Apparently, it is absolutely\
-  \ forbidden to draw pictures of \u201Cthe prophet Mohammed\u201D, as the mystic\
-  \ is known. (I worry about that definite article, as I'm sure there have been other\
-  \ prophets from time to time.) Back in September 2006 (scroll down to Blodgett's\
-  \ Jihad) we published a picture of this fellow, and it seems like a good idea to\
-  \ reprint it now, if only to remind readers just how outrageous such depictions\
-  \ are. When you have stopped quaking with fury\u2014and outrage, of course\u2014\
-  you can go and read this.\n"
-title: Blasphemy
+ngrams:
+- - seventh-century
+  - mystic
+  - apparently
+- - september
+  - scroll
+  - down
+- - outrageous
+  - such
+  - depictions
+- - remind
+  - readers
+  - just
+- - just
+  - how
+  - outrageous
+- - someone
+  - has
+  - published
+- - how
+  - outrageous
+  - such
+- - readers
+  - just
+  - how
+- - time
+  - because
+  - someone
+story:
+  date: 2007-02-12
+  id: 2007-02-12-blasphemy
+  text: "There is another flurry of outrage, in Cambridge this time, because someone\
+    \ has published a picture of a seventh-century mystic. Apparently, it is absolutely\
+    \ forbidden to draw pictures of \u201Cthe prophet Mohammed\u201D, as the mystic\
+    \ is known. (I worry about that definite article, as I'm sure there have been\
+    \ other prophets from time to time.) Back in September 2006 (scroll down to Blodgett's\
+    \ Jihad) we published a picture of this fellow, and it seems like a good idea\
+    \ to reprint it now, if only to remind readers just how outrageous such depictions\
+    \ are. When you have stopped quaking with fury\u2014and outrage, of course\u2014\
+    you can go and read this.\n"
+  title: Blasphemy
+word_count: 112

@@ -1,6 +1,18 @@
-date: 2011-08-15
-id: 2011-08-15-sepulchral-ever-burning-lamps
-text: 'Another essential book now online at the The Public Domain Review
+ngrams:
+- - public
+  - domain
+  - review
+- - lamps
+  - another
+  - essential
+- - burning
+  - lamps
+  - another
+story:
+  date: 2011-08-15
+  id: 2011-08-15-sepulchral-ever-burning-lamps
+  text: 'Another essential book now online at the The Public Domain Review
 
-  '
-title: Sepulchral Ever Burning Lamps
+    '
+  title: Sepulchral Ever Burning Lamps
+word_count: 15

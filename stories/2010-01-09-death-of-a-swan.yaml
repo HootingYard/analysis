@@ -1,4 +1,13 @@
-date: 2010-01-09
-id: 2010-01-09-death-of-a-swan
-text: ''
-title: Death Of A Swan
+ngrams:
+- - of
+  - a
+  - swan
+- - death
+  - of
+  - a
+story:
+  date: 2010-01-09
+  id: 2010-01-09-death-of-a-swan
+  text: ''
+  title: Death Of A Swan
+word_count: 4

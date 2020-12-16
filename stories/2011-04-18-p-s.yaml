@@ -1,12 +1,39 @@
-date: 2011-04-18
-id: 2011-04-18-p-s
-text: 'Men do not, as a rule, use postscripts, and it is significant that artists
-  and persons inclined toward the arts are much more given to postscripts than other
-  kinds of men. One might almost say that women correspond by postscript; some of
-  them put the subject of the letter in the postscript, as the scorpion keeps his
-  poison in his tail. I have before me letters from Case 58, with two postscripts,
-  and one extraordinary letter from Case 11, with four postscripts and a sentence
-  written outside the envelope. This is the apogee of superficiality.
+ngrams:
+- - superficiality
+  - w
+  - l
+- - persons
+  - inclined
+  - toward
+- - w
+  - l
+  - george
+- - rule
+  - use
+  - postscripts
+- - sentence
+  - written
+  - outside
+- - might
+  - almost
+  - say
+- - postscripts
+  - than
+  - other
+- - than
+  - other
+  - kinds
+story:
+  date: 2011-04-18
+  id: 2011-04-18-p-s
+  text: 'Men do not, as a rule, use postscripts, and it is significant that artists
+    and persons inclined toward the arts are much more given to postscripts than other
+    kinds of men. One might almost say that women correspond by postscript; some of
+    them put the subject of the letter in the postscript, as the scorpion keeps his
+    poison in his tail. I have before me letters from Case 58, with two postscripts,
+    and one extraordinary letter from Case 11, with four postscripts and a sentence
+    written outside the envelope. This is the apogee of superficiality.
 
-  W L George, The Intelligence Of Woman (1916)'
-title: P.S.
+    W L George, The Intelligence Of Woman (1916)'
+  title: P.S.
+word_count: 102

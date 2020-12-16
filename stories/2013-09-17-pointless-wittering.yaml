@@ -1,6 +1,21 @@
-date: 2013-09-17
-id: 2013-09-17-pointless-wittering
-text: "She done him wrong, so he took revenge.\n  He put her on the bus to Penge.\n\
-  \  She sat down on the upper deck\n  And bid farewell to Tooting Bec.\n  But the\
-  \ driver got lost and went to Hendon.\n  That seems the perfect note to end on."
-title: Pointless Wittering
+ngrams:
+- - driver
+  - got
+  - lost
+- - pointless
+  - wittering
+  - she
+- - penge
+  - she
+  - sat
+- - wittering
+  - she
+  - done
+story:
+  date: 2013-09-17
+  id: 2013-09-17-pointless-wittering
+  text: "She done him wrong, so he took revenge.\n  He put her on the bus to Penge.\n\
+    \  She sat down on the upper deck\n  And bid farewell to Tooting Bec.\n  But the\
+    \ driver got lost and went to Hendon.\n  That seems the perfect note to end on."
+  title: Pointless Wittering
+word_count: 48

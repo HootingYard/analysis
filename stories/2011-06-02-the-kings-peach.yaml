@@ -1,6 +1,18 @@
-date: 2011-06-02
-id: 2011-06-02-the-kings-peach
-text: '
+ngrams:
+- - peach
+  - see
+  - below
+- - king
+  - s
+  - peach
+- - s
+  - peach
+  - see
+story:
+  date: 2011-06-02
+  id: 2011-06-02-the-kings-peach
+  text: '
 
-  See below. My thanks to Hannah Brown.'
-title: The King's Peach
+    See below. My thanks to Hannah Brown.'
+  title: The King's Peach
+word_count: 11

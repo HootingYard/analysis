@@ -1,6 +1,18 @@
-date: 2012-05-03
-id: 2012-05-03-the-little-pod
-text: 'The Little Stint
+ngrams:
+- - the
+  - little
+  - stint
+- - the
+  - little
+  - pod
+- - little
+  - pod
+  - the
+story:
+  date: 2012-05-03
+  id: 2012-05-03-the-little-pod
+  text: 'The Little Stint
 
-  '
-title: The Little Pod
+    '
+  title: The Little Pod
+word_count: 6

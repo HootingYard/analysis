@@ -1,5 +1,17 @@
-date: 2007-07-03
-id: 2007-07-03-quote-of-the-day
-text: "\u201CIt's a good thing to be shifty in a new country\u201D\u2014Johnson Hooper,\
-  \ Some Adventures of Captain Simon Suggs (1845)."
-title: Quote Of The Day
+ngrams:
+- - country
+  - johnson
+  - hooper
+- - captain
+  - simon
+  - suggs
+- - new
+  - country
+  - johnson
+story:
+  date: 2007-07-03
+  id: 2007-07-03-quote-of-the-day
+  text: "\u201CIt's a good thing to be shifty in a new country\u201D\u2014Johnson\
+    \ Hooper, Some Adventures of Captain Simon Suggs (1845)."
+  title: Quote Of The Day
+word_count: 24

@@ -1,12 +1,45 @@
-date: 2013-02-18
-id: 2013-02-18-are-you-being-savaged
-text: "Are You Being Savaged? was a popular television situation comedy in the 1970s.\
-  \ It was set in an eerie and mist-enshrouded forest clearing, where a cast of regular\
-  \ characters were attacked by a variety of wild beasts. Much of the humour derives\
-  \ from the attempts of the cast to fight off savage and blood-crazed panthers, lions,\
-  \ bears, etcetera, armed only with a tape measure.\nAmong the show's memorable catchphrases\
-  \ were \u201CUnhand me, you brute!\u201D, \u201CEek! My windpipe has just been slashed\
-  \ by the razor-sharp claws of a wild hog!\u201D and \u201CLet's put the kettle on\
-  \ for a nice piping hot cup of tea\u201D.\nToday DVD copies of the first two series\
-  \ are particularly popular with zoo monkeys."
-title: Are You Being Savaged?
+ngrams:
+- - blood-crazed
+  - panthers
+  - lions
+- - panthers
+  - lions
+  - bears
+- - mist-enshrouded
+  - forest
+  - clearing
+- - lions
+  - bears
+  - etcetera
+- - television
+  - situation
+  - comedy
+- - bears
+  - etcetera
+  - armed
+- - popular
+  - television
+  - situation
+- - nice
+  - piping
+  - hot
+- - piping
+  - hot
+  - cup
+- - today
+  - dvd
+  - copies
+story:
+  date: 2013-02-18
+  id: 2013-02-18-are-you-being-savaged
+  text: "Are You Being Savaged? was a popular television situation comedy in the 1970s.\
+    \ It was set in an eerie and mist-enshrouded forest clearing, where a cast of\
+    \ regular characters were attacked by a variety of wild beasts. Much of the humour\
+    \ derives from the attempts of the cast to fight off savage and blood-crazed panthers,\
+    \ lions, bears, etcetera, armed only with a tape measure.\nAmong the show's memorable\
+    \ catchphrases were \u201CUnhand me, you brute!\u201D, \u201CEek! My windpipe\
+    \ has just been slashed by the razor-sharp claws of a wild hog!\u201D and \u201C\
+    Let's put the kettle on for a nice piping hot cup of tea\u201D.\nToday DVD copies\
+    \ of the first two series are particularly popular with zoo monkeys."
+  title: Are You Being Savaged?
+word_count: 123

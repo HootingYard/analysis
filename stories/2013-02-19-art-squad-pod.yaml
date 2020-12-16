@@ -1,6 +1,18 @@
-date: 2013-02-19
-id: 2013-02-19-art-squad-pod
-text: 'Art Squad!
+ngrams:
+- - art
+  - squad
+  - pod
+- - squad
+  - pod
+  - art
+- - pod
+  - art
+  - squad
+story:
+  date: 2013-02-19
+  id: 2013-02-19-art-squad-pod
+  text: 'Art Squad!
 
-  '
-title: Art Squad Pod
+    '
+  title: Art Squad Pod
+word_count: 5

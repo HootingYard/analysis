@@ -1,10 +1,34 @@
-date: 2008-01-28
-id: 2008-01-28-evil-stalks-the-land
-text: "It is easy to laugh at the English judiciary, with all those bewigged judges\
-  \ who seemingly know nothing of the wider world outside their chambers. But they\
-  \ know how to turn a phrase, those judges. With Nicholas Van Hoogstraten back in\
-  \ the news, it is worth recalling that many years ago he was described in court\
-  \ as \u201Ca self-styled emissary of Beelzebub\u201D. I wouldn't be surprised if\
-  \ he's used that phrase ever since when filling in his \u201COccupation\u201D on\
-  \ documents."
-title: Evil Stalks The Land
+ngrams:
+- - nicholas
+  - van
+  - hoogstraten
+- - wider
+  - world
+  - outside
+- - those
+  - bewigged
+  - judges
+- - phrase
+  - those
+  - judges
+- - van
+  - hoogstraten
+  - back
+- - phrase
+  - ever
+  - since
+- - seemingly
+  - know
+  - nothing
+story:
+  date: 2008-01-28
+  id: 2008-01-28-evil-stalks-the-land
+  text: "It is easy to laugh at the English judiciary, with all those bewigged judges\
+    \ who seemingly know nothing of the wider world outside their chambers. But they\
+    \ know how to turn a phrase, those judges. With Nicholas Van Hoogstraten back\
+    \ in the news, it is worth recalling that many years ago he was described in court\
+    \ as \u201Ca self-styled emissary of Beelzebub\u201D. I wouldn't be surprised\
+    \ if he's used that phrase ever since when filling in his \u201COccupation\u201D\
+    \ on documents."
+  title: Evil Stalks The Land
+word_count: 86

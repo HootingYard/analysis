@@ -1,14 +1,50 @@
-date: 2014-10-06
-id: 2014-10-06-invoking-sumai-2
-text: "Here is an example of the way in which invoking Sumai can liven up the most\
-  \ tedious of evenings.\nA country road. A tree. Evening.\nEstragon, sitting on a\
-  \ low mound, is trying to take off his boot. He pulls at it with both hands, panting.\
-  \ He gives up, exhausted, rests, tries again.\nAs before.\nEnter Vladimir.\nESTRAGON:\
-  \ (giving up again) Nothing to be done.\nVLADIMIR: (advancing with short, stiff\
-  \ strides, legs wide apart) I'm beginning to come round to that opinion. All my\
-  \ life I've tried to put it from me, saying Vladimir, be reasonable, you haven't\
-  \ yet tried everything.\nESTRAGON\_: (interrupting) I invoke Sumai!\nEnter a big\
-  \ band orchestra, crooners, chorus girls, dancers, acrobats, jugglers, clowns, etc,\
-  \ who proceed to put on some tiptop variety entertainment for the next two hours.\n\
-  Curtain"
-title: Invoking Sumai (2)
+ngrams:
+- - dancers
+  - acrobats
+  - jugglers
+- - acrobats
+  - jugglers
+  - clowns
+- - girls
+  - dancers
+  - acrobats
+- - orchestra
+  - crooners
+  - chorus
+- - crooners
+  - chorus
+  - girls
+- - chorus
+  - girls
+  - dancers
+- - jugglers
+  - clowns
+  - etc
+- - enter
+  - vladimir
+  - estragon
+- - invoke
+  - sumai
+  - enter
+- - vladimir
+  - estragon
+  - giving
+- - exhausted
+  - rests
+  - tries
+story:
+  date: 2014-10-06
+  id: 2014-10-06-invoking-sumai-2
+  text: "Here is an example of the way in which invoking Sumai can liven up the most\
+    \ tedious of evenings.\nA country road. A tree. Evening.\nEstragon, sitting on\
+    \ a low mound, is trying to take off his boot. He pulls at it with both hands,\
+    \ panting. He gives up, exhausted, rests, tries again.\nAs before.\nEnter Vladimir.\n\
+    ESTRAGON: (giving up again) Nothing to be done.\nVLADIMIR: (advancing with short,\
+    \ stiff strides, legs wide apart) I'm beginning to come round to that opinion.\
+    \ All my life I've tried to put it from me, saying Vladimir, be reasonable, you\
+    \ haven't yet tried everything.\nESTRAGON\_: (interrupting) I invoke Sumai!\n\
+    Enter a big band orchestra, crooners, chorus girls, dancers, acrobats, jugglers,\
+    \ clowns, etc, who proceed to put on some tiptop variety entertainment for the\
+    \ next two hours.\nCurtain"
+  title: Invoking Sumai (2)
+word_count: 139

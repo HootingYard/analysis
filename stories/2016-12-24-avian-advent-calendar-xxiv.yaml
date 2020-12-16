@@ -1,6 +1,18 @@
-date: 2016-12-24
-id: 2016-12-24-avian-advent-calendar-xxiv
-text: 'Two Red Brow Finches. Their brows are red.
+ngrams:
+- - red
+  - brow
+  - finches
+- - advent
+  - calendar
+  - xxiv
+- - avian
+  - advent
+  - calendar
+story:
+  date: 2016-12-24
+  id: 2016-12-24-avian-advent-calendar-xxiv
+  text: 'Two Red Brow Finches. Their brows are red.
 
-  '
-title: "Avian Advent Calendar\u2014XXIV"
+    '
+  title: "Avian Advent Calendar\u2014XXIV"
+word_count: 12

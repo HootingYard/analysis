@@ -1,6 +1,18 @@
-date: 2015-03-30
-id: 2015-03-30-two-views-of-an-infant-with-an-apple
-text: '
+ngrams:
+- - with
+  - an
+  - apple
+- - an
+  - infant
+  - with
+- - infant
+  - with
+  - an
+story:
+  date: 2015-03-30
+  id: 2015-03-30-two-views-of-an-infant-with-an-apple
+  text: '
 
-  '
-title: Two Views Of An Infant With An Apple
+    '
+  title: Two Views Of An Infant With An Apple
+word_count: 8

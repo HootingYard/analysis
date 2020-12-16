@@ -1,4 +1,16 @@
-date: 2011-03-25
-id: 2011-03-25-unutterable-genius
-text: "Outa_Spaceman excels himself. Watch, listen, and learn\u2026 and shudder."
-title: Unutterable Genius
+ngrams:
+- - outa
+  - spaceman
+  - excels
+- - unutterable
+  - genius
+  - outa
+- - genius
+  - outa
+  - spaceman
+story:
+  date: 2011-03-25
+  id: 2011-03-25-unutterable-genius
+  text: "Outa_Spaceman excels himself. Watch, listen, and learn\u2026 and shudder."
+  title: Unutterable Genius
+word_count: 12

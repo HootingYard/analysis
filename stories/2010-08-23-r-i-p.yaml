@@ -1,6 +1,18 @@
-date: 2010-08-23
-id: 2010-08-23-r-i-p
-text: "\nR.I.P. Bruno S. \u201C\u2026a man of phenomenal abilities and phenomenal\
-  \ depth and suffering. It translates on the screen like nothing I have ever done\
-  \ translates on to a screen.\u201D\u2014Werner Herzog"
-title: R.I.P.
+ngrams:
+- - screen
+  - werner
+  - herzog
+- - ever
+  - done
+  - translates
+- - screen
+  - like
+  - nothing
+story:
+  date: 2010-08-23
+  id: 2010-08-23-r-i-p
+  text: "\nR.I.P. Bruno S. \u201C\u2026a man of phenomenal abilities and phenomenal\
+    \ depth and suffering. It translates on the screen like nothing I have ever done\
+    \ translates on to a screen.\u201D\u2014Werner Herzog"
+  title: R.I.P.
+word_count: 36

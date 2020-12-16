@@ -1,7 +1,19 @@
-date: 2017-11-10
-id: 2017-11-10-babbling-about-a-bint
-text: '
+ngrams:
+- - single
+  - nocturnal
+  - pig
+- - bint
+  - treat
+  - your
+- - treat
+  - your
+  - ears
+story:
+  date: 2017-11-10
+  id: 2017-11-10-babbling-about-a-bint
+  text: '
 
-  Treat your ears to this week''s episode of Hooting Yard On The Air, featuring a
-  bint, a conquistador, a horseman, and not a single nocturnal pig.'
-title: Babbling About A Bint
+    Treat your ears to this week''s episode of Hooting Yard On The Air, featuring
+    a bint, a conquistador, a horseman, and not a single nocturnal pig.'
+  title: Babbling About A Bint
+word_count: 31

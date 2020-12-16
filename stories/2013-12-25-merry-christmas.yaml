@@ -1,6 +1,18 @@
-date: 2013-12-25
-id: 2013-12-25-merry-christmas
-text: 'A very merry space age Christmas to all our readers!
+ngrams:
+- - merry
+  - space
+  - age
+- - space
+  - age
+  - christmas
+- - very
+  - merry
+  - space
+story:
+  date: 2013-12-25
+  id: 2013-12-25-merry-christmas
+  text: 'A very merry space age Christmas to all our readers!
 
-  '
-title: Merry Christmas
+    '
+  title: Merry Christmas
+word_count: 12

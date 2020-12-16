@@ -1,9 +1,21 @@
-date: 2008-12-03
-id: 2008-12-03-belated-headline-news
-text: 'Glyn Webster writes to alert me, belatedly, to a splendid headline from the
-  New Scientist two years ago:
+ngrams:
+- - glyn
+  - webster
+  - writes
+- - belated
+  - headline
+  - news
+- - news
+  - glyn
+  - webster
+story:
+  date: 2008-12-03
+  id: 2008-12-03-belated-headline-news
+  text: 'Glyn Webster writes to alert me, belatedly, to a splendid headline from the
+    New Scientist two years ago:
 
-  Moths drink the tears of sleeping birds
+    Moths drink the tears of sleeping birds
 
-  Read the story here.'
-title: Belated Headline News
+    Read the story here.'
+  title: Belated Headline News
+word_count: 32

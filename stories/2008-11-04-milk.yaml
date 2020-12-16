@@ -1,8 +1,23 @@
-date: 2008-11-04
-id: 2008-11-04-milk
-text: "Dan Chambers alerts me to this. Do people really buy mik from Amazon? Do they\
-  \ really write reviews of the milk they buy? Are those reviews really such utter\
-  \ twaddle? It is often said that Hooting Yard is \u201Ca bit weird\u201D or \u201C\
-  eccentric\u201D or \u201Codd\u201D, but the so-called \u201Creal world\u201D is\
-  \ a much, much stranger place."
-title: Milk
+ngrams:
+- - dan
+  - chambers
+  - alerts
+- - milk
+  - dan
+  - chambers
+- - really
+  - buy
+  - mik
+- - really
+  - write
+  - reviews
+story:
+  date: 2008-11-04
+  id: 2008-11-04-milk
+  text: "Dan Chambers alerts me to this. Do people really buy mik from Amazon? Do\
+    \ they really write reviews of the milk they buy? Are those reviews really such\
+    \ utter twaddle? It is often said that Hooting Yard is \u201Ca bit weird\u201D\
+    \ or \u201Ceccentric\u201D or \u201Codd\u201D, but the so-called \u201Creal world\u201D\
+    \ is a much, much stranger place."
+  title: Milk
+word_count: 57

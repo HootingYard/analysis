@@ -1,11 +1,35 @@
-date: 2011-03-07
-id: 2011-03-07-glass-eye-cardboard-crown
-text: "Charles Johnson:\nAn austere character\u2014he deemed jam \u201Ceffeminate\u201D\
-  \ and replaced his lost eye with a glass one from a stuffed albatross\nHis grandson,\
-  \ Anthony Brooke:\n[was] supercilious, reluctant to take advice and had displayed\
-  \ a tendency to judge officers according to their horoscopes\u2026 The unreliable\
-  \ Ranee later alleged that Anthony had been guilty of folie de grandeur, having\
-  \ cardboard crowns pinned to his car and ordering traffic to draw aside as he approached.\
-  \ Anthony denied this.\nFrom an obituary in the Telegraph, to which I was led by\
-  \ Peter Risdon."
-title: Glass Eye, Cardboard Crown
+ngrams:
+- - grandson
+  - anthony
+  - brooke
+- - deemed
+  - jam
+  - effeminate
+- - approached
+  - anthony
+  - denied
+- - crown
+  - charles
+  - johnson
+- - folie
+  - de
+  - grandeur
+- - judge
+  - officers
+  - according
+- - cardboard
+  - crowns
+  - pinned
+story:
+  date: 2011-03-07
+  id: 2011-03-07-glass-eye-cardboard-crown
+  text: "Charles Johnson:\nAn austere character\u2014he deemed jam \u201Ceffeminate\u201D\
+    \ and replaced his lost eye with a glass one from a stuffed albatross\nHis grandson,\
+    \ Anthony Brooke:\n[was] supercilious, reluctant to take advice and had displayed\
+    \ a tendency to judge officers according to their horoscopes\u2026 The unreliable\
+    \ Ranee later alleged that Anthony had been guilty of folie de grandeur, having\
+    \ cardboard crowns pinned to his car and ordering traffic to draw aside as he\
+    \ approached. Anthony denied this.\nFrom an obituary in the Telegraph, to which\
+    \ I was led by Peter Risdon."
+  title: Glass Eye, Cardboard Crown
+word_count: 95

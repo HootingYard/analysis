@@ -1,4 +1,16 @@
-date: 2010-10-17
-id: 2010-10-17-archival-sludge
-text: "Exhumed from the Archives, for no particular reason\u2026\n\n"
-title: Archival Sludge
+ngrams:
+- - archival
+  - sludge
+  - exhumed
+- - 'no'
+  - particular
+  - reason
+- - sludge
+  - exhumed
+  - from
+story:
+  date: 2010-10-17
+  id: 2010-10-17-archival-sludge
+  text: "Exhumed from the Archives, for no particular reason\u2026\n\n"
+  title: Archival Sludge
+word_count: 10

@@ -1,8 +1,20 @@
-date: 2014-04-07
-id: 2014-04-07-unbridled-hilarity
-text: 'This is probably the funniest thing I have read since oh! I don''t know when.
+ngrams:
+- - read
+  - since
+  - oh
+- - don
+  - t
+  - know
+- - unbridled
+  - hilarity
+  - this
+story:
+  date: 2014-04-07
+  id: 2014-04-07-unbridled-hilarity
+  text: 'This is probably the funniest thing I have read since oh! I don''t know when.
 
-  An Index of the 1970s
+    An Index of the 1970s
 
-  '
-title: Unbridled Hilarity
+    '
+  title: Unbridled Hilarity
+word_count: 23

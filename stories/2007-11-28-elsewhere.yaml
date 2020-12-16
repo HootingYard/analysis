@@ -1,6 +1,18 @@
-date: 2007-11-28
-id: 2007-11-28-elsewhere
-text: "\u201CI've often wondered at what point a political leaning becomes a performance,\
-  \ then a pantomime, and finally a mental health issue.\u201D\u2014David Thompson,\
-  \ Phantom Guilt Syndrome"
-title: "Elsewhere\u2026"
+ngrams:
+- - thompson
+  - phantom
+  - guilt
+- - phantom
+  - guilt
+  - syndrome
+- - political
+  - leaning
+  - becomes
+story:
+  date: 2007-11-28
+  id: 2007-11-28-elsewhere
+  text: "\u201CI've often wondered at what point a political leaning becomes a performance,\
+    \ then a pantomime, and finally a mental health issue.\u201D\u2014David Thompson,\
+    \ Phantom Guilt Syndrome"
+  title: "Elsewhere\u2026"
+word_count: 28

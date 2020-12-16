@@ -1,6 +1,18 @@
-date: 2014-01-29
-id: 2014-01-29-preposterous-birds
-text: 'A pair of blue-footed boobies, from Paradise Of Birds:
+ngrams:
+- - blue-footed
+  - boobies
+  - from
+- - boobies
+  - from
+  - paradise
+- - preposterous
+  - birds
+  - a
+story:
+  date: 2014-01-29
+  id: 2014-01-29-preposterous-birds
+  text: 'A pair of blue-footed boobies, from Paradise Of Birds:
 
-  '
-title: Preposterous Birds
+    '
+  title: Preposterous Birds
+word_count: 11

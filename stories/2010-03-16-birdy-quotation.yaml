@@ -1,5 +1,17 @@
-date: 2010-03-16
-id: 2010-03-16-birdy-quotation
-text: "\u201CI will not be afraid, for I am of more value than many sparrows.\u201D\
-  \nSo wrote Thomas Chalmers in 1817. More from him shortly\u2026\n"
-title: Birdy Quotation
+ngrams:
+- - wrote
+  - thomas
+  - chalmers
+- - value
+  - than
+  - many
+- - than
+  - many
+  - sparrows
+story:
+  date: 2010-03-16
+  id: 2010-03-16-birdy-quotation
+  text: "\u201CI will not be afraid, for I am of more value than many sparrows.\u201D\
+    \nSo wrote Thomas Chalmers in 1817. More from him shortly\u2026\n"
+  title: Birdy Quotation
+word_count: 25

@@ -1,9 +1,27 @@
-date: 2010-10-02
-id: 2010-10-02-dreadful
-text: "Another brief interruption to the alphabetic schedule. I am reading Chris Mullin's\
-  \ Decline And Fall\_: Diaries 2005\u20142010, packed with amusing anecdotes and\
-  \ observations. Most are of course political, but I was struck by this literary\
-  \ snippet:\n\u201CWednesday, 10 December 2008. To the Almeida theatre in Islington\
-  \ for Pat Kavanagh's memorial meeting. Strictly by invitation to exclude the Evening\
-  \ Standard and the dreadful Jeanette Winterson.\u201D"
-title: Dreadful
+ngrams:
+- - dreadful
+  - jeanette
+  - winterson
+- - snippet
+  - wednesday
+  - december
+- - memorial
+  - meeting
+  - strictly
+- - literary
+  - snippet
+  - wednesday
+- - fall
+  - diaries
+  - packed
+story:
+  date: 2010-10-02
+  id: 2010-10-02-dreadful
+  text: "Another brief interruption to the alphabetic schedule. I am reading Chris\
+    \ Mullin's Decline And Fall\_: Diaries 2005\u20142010, packed with amusing anecdotes\
+    \ and observations. Most are of course political, but I was struck by this literary\
+    \ snippet:\n\u201CWednesday, 10 December 2008. To the Almeida theatre in Islington\
+    \ for Pat Kavanagh's memorial meeting. Strictly by invitation to exclude the Evening\
+    \ Standard and the dreadful Jeanette Winterson.\u201D"
+  title: Dreadful
+word_count: 64

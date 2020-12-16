@@ -1,7 +1,23 @@
-date: 2014-04-19
-id: 2014-04-19-mad-as-a-badger
-text: "Having ploughed his way through The Literary Churchill\_: Author, Reader, Actor\
-  \ by Jonathan Rose, Sam Leith in The Spectator comes to the conclusion:\nYou come\
-  \ away, finally \u2026 with the reconfirmed notion that Churchill was as mad as\
-  \ a badger. And that, bizarre but true, posterity should be grateful that he was."
-title: Mad As A Badger
+ngrams:
+- - rose
+  - sam
+  - leith
+- - jonathan
+  - rose
+  - sam
+- - literary
+  - churchill
+  - author
+- - churchill
+  - author
+  - reader
+story:
+  date: 2014-04-19
+  id: 2014-04-19-mad-as-a-badger
+  text: "Having ploughed his way through The Literary Churchill\_: Author, Reader,\
+    \ Actor by Jonathan Rose, Sam Leith in The Spectator comes to the conclusion:\n\
+    You come away, finally \u2026 with the reconfirmed notion that Churchill was as\
+    \ mad as a badger. And that, bizarre but true, posterity should be grateful that\
+    \ he was."
+  title: Mad As A Badger
+word_count: 55

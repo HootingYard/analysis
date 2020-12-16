@@ -1,4 +1,16 @@
-date: 2007-12-16
-id: 2007-12-16-poll
-text: '[An online poll was here. It is now closed.]'
-title: Poll
+ngrams:
+- - poll
+  - an
+  - online
+- - an
+  - online
+  - poll
+- - online
+  - poll
+  - was
+story:
+  date: 2007-12-16
+  id: 2007-12-16-poll
+  text: '[An online poll was here. It is now closed.]'
+  title: Poll
+word_count: 10

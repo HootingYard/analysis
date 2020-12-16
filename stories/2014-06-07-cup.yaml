@@ -1,8 +1,23 @@
-date: 2014-06-07
-id: 2014-06-07-cup
-text: "\nOver at The Dabbler you can read my exclusive World Cup 2014 preview, which\
-  \ is uncannily similar to my Euro 2012 Foopball Tournament preview of a couple of\
-  \ years back. I am hoping to bring you the best of the commentators\u2019 startling\
-  \ insights (\u201CHow long is it since Ronaldo was marked by an anagram of himself?\u201D\
-  ) in the coming weeks."
-title: Cup
+ngrams:
+- - foopball
+  - tournament
+  - preview
+- - euro
+  - foopball
+  - tournament
+- - commentators
+  - startling
+  - insights
+- - world
+  - cup
+  - preview
+story:
+  date: 2014-06-07
+  id: 2014-06-07-cup
+  text: "\nOver at The Dabbler you can read my exclusive World Cup 2014 preview, which\
+    \ is uncannily similar to my Euro 2012 Foopball Tournament preview of a couple\
+    \ of years back. I am hoping to bring you the best of the commentators\u2019 startling\
+    \ insights (\u201CHow long is it since Ronaldo was marked by an anagram of himself?\u201D\
+    ) in the coming weeks."
+  title: Cup
+word_count: 59

@@ -1,8 +1,26 @@
-date: 2011-10-02
-id: 2011-10-02-foopball
-text: "Twice in the season, incidentally, I saw West Ham (The Hammers) in opposition\
-  \ to Sheffield Wednesday (The Owls), a fixture I found too rich in unfortunate imagery.\
-  \ I didn't mind foxes beating magpies, or gunners beating spurs, but the idea of\
-  \ owls being beaten by hammers still affects me to this day.\nLynne Truss, Get Her\
-  \ Off The Pitch!\_: How Sport Took Over My Life (2009)"
-title: Foopball
+ngrams:
+- - gunners
+  - beating
+  - spurs
+- - foxes
+  - beating
+  - magpies
+- - mind
+  - foxes
+  - beating
+- - saw
+  - west
+  - ham
+- - lynne
+  - truss
+  - get
+story:
+  date: 2011-10-02
+  id: 2011-10-02-foopball
+  text: "Twice in the season, incidentally, I saw West Ham (The Hammers) in opposition\
+    \ to Sheffield Wednesday (The Owls), a fixture I found too rich in unfortunate\
+    \ imagery. I didn't mind foxes beating magpies, or gunners beating spurs, but\
+    \ the idea of owls being beaten by hammers still affects me to this day.\nLynne\
+    \ Truss, Get Her Off The Pitch!\_: How Sport Took Over My Life (2009)"
+  title: Foopball
+word_count: 67

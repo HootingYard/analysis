@@ -1,7 +1,19 @@
-date: 2017-09-08
-id: 2017-09-08-death-of-another-cartographer
-text: 'Here is another picture from the Hooting Yard Calendar 1992. This one shows
-  Pinmouth toppling from the basket of her hot air balloon on May the fourth 1894.
+ngrams:
+- - shows
+  - pinmouth
+  - toppling
+- - hot
+  - air
+  - balloon
+- - another
+  - cartographer
+  - here
+story:
+  date: 2017-09-08
+  id: 2017-09-08-death-of-another-cartographer
+  text: 'Here is another picture from the Hooting Yard Calendar 1992. This one shows
+    Pinmouth toppling from the basket of her hot air balloon on May the fourth 1894.
 
-  '
-title: Death Of Another Cartographer
+    '
+  title: Death Of Another Cartographer
+word_count: 30

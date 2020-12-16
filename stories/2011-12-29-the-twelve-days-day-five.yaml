@@ -1,14 +1,26 @@
-date: 2011-12-29
-id: 2011-12-29-the-twelve-days-day-five
-text: 'On the fifth day of Christmas, Old Halob gave to me
+ngrams:
+- - chaffinches
+  - three
+  - poptarts
+- - four
+  - dead
+  - chaffinches
+- - ectoplasm
+  - four
+  - dead
+story:
+  date: 2011-12-29
+  id: 2011-12-29-the-twelve-days-day-five
+  text: 'On the fifth day of Christmas, Old Halob gave to me
 
-  Ectoplasm!
+    Ectoplasm!
 
-  Four dead chaffinches,
+    Four dead chaffinches,
 
-  Three poptarts,
+    Three poptarts,
 
-  Two cardboard pigs,
+    Two cardboard pigs,
 
-  And a viper, a shrew, and a bee.'
-title: "The Twelve Days\_: Day Five"
+    And a viper, a shrew, and a bee.'
+  title: "The Twelve Days\_: Day Five"
+word_count: 33

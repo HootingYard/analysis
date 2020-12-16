@@ -1,10 +1,22 @@
-date: 2011-04-21
-id: 2011-04-21-two-bodies-of-water
-text: 'Lac D''Indiference
+ngrams:
+- - d
+  - indiference
+  - mer
+- - indiference
+  - mer
+  - d
+- - mer
+  - d
+  - inimitie
+story:
+  date: 2011-04-21
+  id: 2011-04-21-two-bodies-of-water
+  text: 'Lac D''Indiference
 
 
-  Mer D''Inimitie
+    Mer D''Inimitie
 
 
-  From Ptak Science Books'
-title: Two Bodies Of Water
+    From Ptak Science Books'
+  title: Two Bodies Of Water
+word_count: 14

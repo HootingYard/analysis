@@ -1,12 +1,46 @@
-date: 2010-07-03
-id: 2010-07-03-idiots-of-the-marshes
-text: "\u201CSix thousand years have passed since we were set to till the ground,\
-  \ from which we were taken. How much of it is tilled? How much of that which is,\
-  \ wisely or well? In the very centre and chief garden of Europe\u2014where the two\
-  \ forms of parent Christianity have had their fortresses\u2014where the noble Catholics\
-  \ of the Forest Cantons, and the noble Protestants of the Vaudois valleys, have\
-  \ maintained, for dateless ages, their faiths and liberties\u2014there the unchecked\
-  \ Alpine rivers yet run wild in devastation ; and the marshes, which a few hundred\
-  \ men could redeem with a year's labour, still blast their helpless inhabitants\
-  \ into fevered idiotism.\u201D\nJohn Ruskin, The Mystery Of Life And Its Arts (1868)"
-title: Idiots Of The Marshes
+ngrams:
+- - unchecked
+  - alpine
+  - rivers
+- - fevered
+  - idiotism
+  - john
+- - idiotism
+  - john
+  - ruskin
+- - marshes
+  - six
+  - thousand
+- - alpine
+  - rivers
+  - yet
+- - labour
+  - still
+  - blast
+- - rivers
+  - yet
+  - run
+- - few
+  - hundred
+  - men
+- - yet
+  - run
+  - wild
+- - six
+  - thousand
+  - years
+story:
+  date: 2010-07-03
+  id: 2010-07-03-idiots-of-the-marshes
+  text: "\u201CSix thousand years have passed since we were set to till the ground,\
+    \ from which we were taken. How much of it is tilled? How much of that which is,\
+    \ wisely or well? In the very centre and chief garden of Europe\u2014where the\
+    \ two forms of parent Christianity have had their fortresses\u2014where the noble\
+    \ Catholics of the Forest Cantons, and the noble Protestants of the Vaudois valleys,\
+    \ have maintained, for dateless ages, their faiths and liberties\u2014there the\
+    \ unchecked Alpine rivers yet run wild in devastation ; and the marshes, which\
+    \ a few hundred men could redeem with a year's labour, still blast their helpless\
+    \ inhabitants into fevered idiotism.\u201D\nJohn Ruskin, The Mystery Of Life And\
+    \ Its Arts (1868)"
+  title: Idiots Of The Marshes
+word_count: 124

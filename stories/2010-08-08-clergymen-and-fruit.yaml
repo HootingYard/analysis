@@ -1,8 +1,27 @@
-date: 2010-08-08
-id: 2010-08-08-clergymen-and-fruit
-text: "\u201CMinisters of religion have always been attached to their orchards. Ever\
-  \ since the Serpent induced Eve to eat of a particular apple and Eve tempted Adam\
-  \ to do the same, the livelihood of the clergy has depended upon a proper appreciation\
-  \ of fruit.\u201D\nHesketh Pearson, in his potted biography of the Reverend Samuel\
-  \ Ogden, \u201CBoswell's Bedside Author\u201D, in Extraordinary People (1965)"
-title: Clergymen And Fruit
+ngrams:
+- - reverend
+  - samuel
+  - ogden
+- - samuel
+  - ogden
+  - boswell
+- - serpent
+  - induced
+  - eve
+- - eve
+  - tempted
+  - adam
+- - fruit
+  - hesketh
+  - pearson
+story:
+  date: 2010-08-08
+  id: 2010-08-08-clergymen-and-fruit
+  text: "\u201CMinisters of religion have always been attached to their orchards.\
+    \ Ever since the Serpent induced Eve to eat of a particular apple and Eve tempted\
+    \ Adam to do the same, the livelihood of the clergy has depended upon a proper\
+    \ appreciation of fruit.\u201D\nHesketh Pearson, in his potted biography of the\
+    \ Reverend Samuel Ogden, \u201CBoswell's Bedside Author\u201D, in Extraordinary\
+    \ People (1965)"
+  title: Clergymen And Fruit
+word_count: 64

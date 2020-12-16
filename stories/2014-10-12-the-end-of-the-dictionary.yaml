@@ -1,24 +1,72 @@
-date: 2014-10-12
-id: 2014-10-12-the-end-of-the-dictionary
-text: "\u201CThe dictionary ends sooner than the soul.\u201D\u2014Frederic Myers,\
-  \ letter to Arthur Sidgwick, 14 July 1867.\nWhen we reach the end of the dictionary,\
-  \ there are no more words. We have exhausted them. We are left, then, with three\
-  \ choices.\nWe may lapse into silence. This is a strategy much favoured by anchorites\
-  \ and hermits and some saints and saintly persons. I have, myself, been described\
-  \ as a Diogenesian recluse, and not without good reason.\nWe may resort to barbaric\
-  \ grunting. This seems to be a popular choice among many of the shuffling scowling\
-  \ denizens of my bailiwick. Whenever I go sashaying forth\u2014for even a recluse\
-  \ must sashay forth from time to time\u2014I hear more grunts than words. But where\
-  \ once I thumbed my nose in patrician contempt at those grunters, now I understand\
-  \ that they have been reduced to their barbarism because they have used up all the\
-  \ words in the dictionary, from A to Z. They reached the end.\nWe may invent new\
-  \ words. We may coin new sounds. Glogscheen, snup, parapapahooft, swarfoogie. Some\
-  \ might say we are thus babbling nonsense. Others would counter that our nonce-words\
-  \ are divinely inspired, that we are \u201Cspeaking in tongues\u201D. Once towards\
-  \ the end of the last century, I sat in a hall in a meeting of the religiously devout,\
-  \ several of whose members loomed over me and so spoke in tongues, to cure me of\
-  \ my woes. Those woes are past, and I may doubt that incoherent babbling was the\
-  \ cause of their passing, but can I ever be sure?\nThere is a fourth choice. When\
-  \ we reach the end of the dictionary, we turn back to the beginning, where each\
-  \ and every word awaits us anew."
-title: The End Of The Dictionary
+ngrams:
+- - glogscheen
+  - snup
+  - parapapahooft
+- - snup
+  - parapapahooft
+  - swarfoogie
+- - shuffling
+  - scowling
+  - denizens
+- - arthur
+  - sidgwick
+  - july
+- - sounds
+  - glogscheen
+  - snup
+- - soul
+  - frederic
+  - myers
+- - dictionary
+  - ends
+  - sooner
+- - frederic
+  - myers
+  - letter
+- - babbling
+  - nonsense
+  - others
+- - whose
+  - members
+  - loomed
+- - religiously
+  - devout
+  - several
+- - popular
+  - choice
+  - among
+- - thus
+  - babbling
+  - nonsense
+- - recluse
+  - must
+  - sashay
+- - must
+  - sashay
+  - forth
+story:
+  date: 2014-10-12
+  id: 2014-10-12-the-end-of-the-dictionary
+  text: "\u201CThe dictionary ends sooner than the soul.\u201D\u2014Frederic Myers,\
+    \ letter to Arthur Sidgwick, 14 July 1867.\nWhen we reach the end of the dictionary,\
+    \ there are no more words. We have exhausted them. We are left, then, with three\
+    \ choices.\nWe may lapse into silence. This is a strategy much favoured by anchorites\
+    \ and hermits and some saints and saintly persons. I have, myself, been described\
+    \ as a Diogenesian recluse, and not without good reason.\nWe may resort to barbaric\
+    \ grunting. This seems to be a popular choice among many of the shuffling scowling\
+    \ denizens of my bailiwick. Whenever I go sashaying forth\u2014for even a recluse\
+    \ must sashay forth from time to time\u2014I hear more grunts than words. But\
+    \ where once I thumbed my nose in patrician contempt at those grunters, now I\
+    \ understand that they have been reduced to their barbarism because they have\
+    \ used up all the words in the dictionary, from A to Z. They reached the end.\n\
+    We may invent new words. We may coin new sounds. Glogscheen, snup, parapapahooft,\
+    \ swarfoogie. Some might say we are thus babbling nonsense. Others would counter\
+    \ that our nonce-words are divinely inspired, that we are \u201Cspeaking in tongues\u201D\
+    . Once towards the end of the last century, I sat in a hall in a meeting of the\
+    \ religiously devout, several of whose members loomed over me and so spoke in\
+    \ tongues, to cure me of my woes. Those woes are past, and I may doubt that incoherent\
+    \ babbling was the cause of their passing, but can I ever be sure?\nThere is a\
+    \ fourth choice. When we reach the end of the dictionary, we turn back to the\
+    \ beginning, where each and every word awaits us anew."
+  title: The End Of The Dictionary
+word_count: 291

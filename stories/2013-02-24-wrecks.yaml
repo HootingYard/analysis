@@ -1,9 +1,21 @@
-date: 2013-02-24
-id: 2013-02-24-wrecks
-text: 'Take Hooting Yar''s online quiz.
+ngrams:
+- - henry
+  - wadsworth
+  - longfellow
+- - quincey
+  - henry
+  - wadsworth
+- - gerard
+  - manley
+  - hopkins
+story:
+  date: 2013-02-24
+  id: 2013-02-24-wrecks
+  text: 'Take Hooting Yar''s online quiz.
 
 
-  Before making your choice, you may wish to familiarise yourself fully with each
-  wreck. Click on the links for Thomas de Quincey, Henry Wadsworth Longfellow, and
-  Father Gerard Manley Hopkins S.J.'
-title: Wrecks
+    Before making your choice, you may wish to familiarise yourself fully with each
+    wreck. Click on the links for Thomas de Quincey, Henry Wadsworth Longfellow, and
+    Father Gerard Manley Hopkins S.J.'
+  title: Wrecks
+word_count: 39

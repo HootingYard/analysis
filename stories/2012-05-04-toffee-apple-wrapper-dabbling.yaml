@@ -1,13 +1,37 @@
-date: 2012-05-04
-id: 2012-05-04-toffee-apple-wrapper-dabbling
-text: '
+ngrams:
+- - toffee
+  - apple
+  - wrappers
+- - apple
+  - wrapper
+  - dabbling
+- - toffee
+  - apple
+  - wrapper
+- - means
+  - important
+  - questions
+- - yet
+  - remaining
+  - forever
+- - following
+  - night
+  - until
+- - 'no'
+  - means
+  - important
+story:
+  date: 2012-05-04
+  id: 2012-05-04-toffee-apple-wrapper-dabbling
+  text: '
 
-  This week in my cupboard at The Dabbler, a memoir of the toffee apple wrappers of
-  my childhood. Is it a true memory, or have I just made it up? And will you ever
-  know? These are by no means important questions, and yet you may find them niggling
-  away at you as the day goes on, and the night, and the following day, and the following
-  night, until you are driven to distraction, desperate to know the answers once and
-  for all, yet remaining forever in doubt.
+    This week in my cupboard at The Dabbler, a memoir of the toffee apple wrappers
+    of my childhood. Is it a true memory, or have I just made it up? And will you
+    ever know? These are by no means important questions, and yet you may find them
+    niggling away at you as the day goes on, and the night, and the following day,
+    and the following night, until you are driven to distraction, desperate to know
+    the answers once and for all, yet remaining forever in doubt.
 
-  '
-title: Toffee Apple Wrapper Dabbling
+    '
+  title: Toffee Apple Wrapper Dabbling
+word_count: 92

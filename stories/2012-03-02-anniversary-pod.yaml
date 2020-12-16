@@ -1,9 +1,21 @@
-date: 2012-03-02
-id: 2012-03-02-anniversary-pod
-text: 'Thirty minutes of audible babbling courtesy of ResonanceFM. Featuring the golden
-  voice of Pansy Cradledew.
+ngrams:
+- - audible
+  - babbling
+  - courtesy
+- - pansy
+  - cradledew
+  - anniversary
+- - anniversary
+  - pod
+  - thirty
+story:
+  date: 2012-03-02
+  id: 2012-03-02-anniversary-pod
+  text: 'Thirty minutes of audible babbling courtesy of ResonanceFM. Featuring the
+    golden voice of Pansy Cradledew.
 
-  Anniversary
+    Anniversary
 
-  '
-title: Anniversary Pod
+    '
+  title: Anniversary Pod
+word_count: 18

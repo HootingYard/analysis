@@ -1,6 +1,18 @@
-date: 2008-06-24
-id: 2008-06-24-beware-of-blackbirds
-text: 'More exciting ornithology news from the Telegraph!
+ngrams:
+- - exciting
+  - ornithology
+  - news
+- - blackbirds
+  - more
+  - exciting
+- - more
+  - exciting
+  - ornithology
+story:
+  date: 2008-06-24
+  id: 2008-06-24-beware-of-blackbirds
+  text: 'More exciting ornithology news from the Telegraph!
 
-  '
-title: Beware Of Blackbirds
+    '
+  title: Beware Of Blackbirds
+word_count: 10

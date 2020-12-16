@@ -1,11 +1,35 @@
-date: 2010-09-01
-id: 2010-09-01-77-words
-text: "The history of Britain, 1939\u20132010, in seventy-seven words:\n\u201CThe\
-  \ British soul was at its zenith when everyone had clipped accents and sex was furtive\
-  \ and all men wore hats and leapt onto steam locomotives as they pulled out of the\
-  \ station (before\_alighting at Boxhill and Westhumble) and thin-moustached officers\
-  \ in\_tropical outposts sweated gin-and-tonic and quoted Latin proverbs; and everything\
-  \ that's happened since, from the welfare state to\_The X Factor to the Guardian\
-  \ website, has been unmistakeably symptomatic of our purposeless spiritual decline.\u201D\
-  \nThus Brit, over at The Dabbler."
-title: 77 Words
+ngrams:
+- - outposts
+  - sweated
+  - gin-and-tonic
+- - tropical
+  - outposts
+  - sweated
+- - purposeless
+  - spiritual
+  - decline
+- - onto
+  - steam
+  - locomotives
+- - quoted
+  - latin
+  - proverbs
+- - leapt
+  - onto
+  - steam
+- - men
+  - wore
+  - hats
+story:
+  date: 2010-09-01
+  id: 2010-09-01-77-words
+  text: "The history of Britain, 1939\u20132010, in seventy-seven words:\n\u201CThe\
+    \ British soul was at its zenith when everyone had clipped accents and sex was\
+    \ furtive and all men wore hats and leapt onto steam locomotives as they pulled\
+    \ out of the station (before\_alighting at Boxhill and Westhumble) and thin-moustached\
+    \ officers in\_tropical outposts sweated gin-and-tonic and quoted Latin proverbs;\
+    \ and everything that's happened since, from the welfare state to\_The X Factor\
+    \ to the Guardian website, has been unmistakeably symptomatic of our purposeless\
+    \ spiritual decline.\u201D\nThus Brit, over at The Dabbler."
+  title: 77 Words
+word_count: 92

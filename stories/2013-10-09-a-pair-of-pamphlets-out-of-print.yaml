@@ -1,7 +1,20 @@
-date: 2013-10-09
-id: 2013-10-09-a-pair-of-pamphlets-out-of-print
-text: 'Further fossicking in the archives unearthed this pair of pamphlets from 2006.
+ngrams:
+- - print
+  - further
+  - fossicking
+- - archives
+  - unearthed
+  - this
+- - unearthed
+  - this
+  - pair
+story:
+  date: 2013-10-09
+  id: 2013-10-09-a-pair-of-pamphlets-out-of-print
+  text: 'Further fossicking in the archives unearthed this pair of pamphlets from
+    2006.
 
 
-  '
-title: A Pair Of Pamphlets (Out Of Print)
+    '
+  title: A Pair Of Pamphlets (Out Of Print)
+word_count: 18

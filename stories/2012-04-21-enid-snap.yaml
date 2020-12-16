@@ -1,6 +1,18 @@
-date: 2012-04-21
-id: 2012-04-21-enid-snap
-text: 'A rare photograph of plucky fascist tot Tiny Enid.
+ngrams:
+- - plucky
+  - fascist
+  - tot
+- - fascist
+  - tot
+  - tiny
+- - tot
+  - tiny
+  - enid
+story:
+  date: 2012-04-21
+  id: 2012-04-21-enid-snap
+  text: 'A rare photograph of plucky fascist tot Tiny Enid.
 
-  '
-title: Enid Snap
+    '
+  title: Enid Snap
+word_count: 11

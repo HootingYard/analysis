@@ -1,7 +1,19 @@
-date: 2014-01-01
-id: 2014-01-01-the-year-of-our-lord-mmxiv
-text: "As is traditional at Hooting Yard, on the first of January we bring you the\
-  \ resounding words of Peter Hitchens, first uttered in the Year of Our Lord MMX\
-  \ but ever worth recalling:\n\nI am actively hostile to the \u2018New Year\u2019\
-  ."
-title: The Year Of Our Lord MMXIV
+ngrams:
+- - ever
+  - worth
+  - recalling
+- - hitchens
+  - first
+  - uttered
+- - peter
+  - hitchens
+  - first
+story:
+  date: 2014-01-01
+  id: 2014-01-01-the-year-of-our-lord-mmxiv
+  text: "As is traditional at Hooting Yard, on the first of January we bring you the\
+    \ resounding words of Peter Hitchens, first uttered in the Year of Our Lord MMX\
+    \ but ever worth recalling:\n\nI am actively hostile to the \u2018New Year\u2019\
+    ."
+  title: The Year Of Our Lord MMXIV
+word_count: 47

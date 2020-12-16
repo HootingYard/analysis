@@ -1,7 +1,19 @@
-date: 2013-06-28
-id: 2013-06-28-sheep
-text: 'There will be no reportage from Hooting Yard for a few days. Mr Key will be
-  out in the field, in Cumbria to be precise, communing with sheep.
+ngrams:
+- - days
+  - mr
+  - key
+- - few
+  - days
+  - mr
+- - mr
+  - key
+  - will
+story:
+  date: 2013-06-28
+  id: 2013-06-28-sheep
+  text: 'There will be no reportage from Hooting Yard for a few days. Mr Key will
+    be out in the field, in Cumbria to be precise, communing with sheep.
 
-  '
-title: Sheep
+    '
+  title: Sheep
+word_count: 29

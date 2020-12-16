@@ -1,8 +1,20 @@
-date: 2011-10-08
-id: 2011-10-08-sheer-common-sense
-text: 'My father never went anywhere without a large potato in his pocket.
+ngrams:
+- - sheer
+  - common
+  - sense
+- - went
+  - anywhere
+  - without
+- - never
+  - went
+  - anywhere
+story:
+  date: 2011-10-08
+  id: 2011-10-08-sheer-common-sense
+  text: 'My father never went anywhere without a large potato in his pocket.
 
-  Spotted by ZMKC
+    Spotted by ZMKC
 
-  '
-title: Sheer Common Sense
+    '
+  title: Sheer Common Sense
+word_count: 18

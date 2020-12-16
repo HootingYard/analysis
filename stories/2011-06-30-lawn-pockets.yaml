@@ -1,6 +1,18 @@
-date: 2011-06-30
-id: 2011-06-30-lawn-pockets
-text: 'Another thrilling sphairistike-related picture from the London Library:
+ngrams:
+- - thrilling
+  - sphairistike-related
+  - picture
+- - another
+  - thrilling
+  - sphairistike-related
+- - lawn
+  - pockets
+  - another
+story:
+  date: 2011-06-30
+  id: 2011-06-30-lawn-pockets
+  text: 'Another thrilling sphairistike-related picture from the London Library:
 
-  '
-title: Lawn Pockets
+    '
+  title: Lawn Pockets
+word_count: 10

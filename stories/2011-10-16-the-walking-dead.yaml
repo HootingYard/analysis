@@ -1,12 +1,37 @@
-date: 2011-10-16
-id: 2011-10-16-the-walking-dead
-text: '
+ngrams:
+- - deputy
+  - rick
+  - grimes
+- - andrew
+  - lincoln
+  - pictured
+- - luminary
+  - ian
+  - anderson
+- - jethro
+  - tull
+  - luminary
+- - tull
+  - luminary
+  - ian
+- - apocalyptic
+  - zombie
+  - drama
+- - actor
+  - andrew
+  - lincoln
+story:
+  date: 2011-10-16
+  id: 2011-10-16-the-walking-dead
+  text: '
 
-  Now that the second series of apocalyptic zombie drama The Walking Dead hits the
-  TV screens, I consider it my duty to inform Hooting Yard readers of an important
-  fact. Lead actor Andrew Lincoln, pictured above in the guise of his character, sheriff''s
-  deputy Rick Grimes, is the son-in-law of Jethro Tull luminary Ian Anderson.
+    Now that the second series of apocalyptic zombie drama The Walking Dead hits the
+    TV screens, I consider it my duty to inform Hooting Yard readers of an important
+    fact. Lead actor Andrew Lincoln, pictured above in the guise of his character,
+    sheriff''s deputy Rick Grimes, is the son-in-law of Jethro Tull luminary Ian Anderson.
 
-  I hope the scriptwriters have taken inspiration from the family connection. In a
-  future episode I shall expect to see a flute-playing zombie standing on one leg.'
-title: The Walking Dead
+    I hope the scriptwriters have taken inspiration from the family connection. In
+    a future episode I shall expect to see a flute-playing zombie standing on one
+    leg.'
+  title: The Walking Dead
+word_count: 86

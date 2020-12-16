@@ -1,6 +1,18 @@
-date: 2011-06-19
-id: 2011-06-19-proper-kings-including-dagobert
-text: '
+ngrams:
+- - kings
+  - including
+  - dagobert
+- - proper
+  - kings
+  - including
+- - from
+  - agence
+  - eureka
+story:
+  date: 2011-06-19
+  id: 2011-06-19-proper-kings-including-dagobert
+  text: '
 
-  From Agence Eureka'
-title: Proper Kings, Including Dagobert
+    From Agence Eureka'
+  title: Proper Kings, Including Dagobert
+word_count: 7

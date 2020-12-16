@@ -1,6 +1,18 @@
-date: 2012-07-20
-id: 2012-07-20-dabbling-with-lodowicke
-text: "\nTo celebrate the \u201CLittle Holiday\u201D yesterday, my piece in The Dabbler\
-  \ this week is a potted history of the Muggletonians. Read, and learn, and declaim\
-  \ curses!\n"
-title: Dabbling With Lodowicke
+ngrams:
+- - little
+  - holiday
+  - yesterday
+- - dabbler
+  - this
+  - week
+- - holiday
+  - yesterday
+  - my
+story:
+  date: 2012-07-20
+  id: 2012-07-20-dabbling-with-lodowicke
+  text: "\nTo celebrate the \u201CLittle Holiday\u201D yesterday, my piece in The\
+    \ Dabbler this week is a potted history of the Muggletonians. Read, and learn,\
+    \ and declaim curses!\n"
+  title: Dabbling With Lodowicke
+word_count: 29

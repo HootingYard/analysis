@@ -1,15 +1,51 @@
-date: 2013-04-20
-id: 2013-04-20-warlocks-retort
-text: "The composer Peter Warlock (1894\u20131930)\u2014real name Philip Heseltine\u2014\
-  was declared unfit for military service during the First World War on account of\
-  \ general neurasthenia and \u201Can inability to micturate when mentally excited,\
-  \ and especially in the presence of other people, with the consequence that he has\
-  \ had occasional prolonged retention\u201D, according to a Harley Street doctor's\
-  \ report.\nAs a seemingly fit young man swanning about London, he was subjected\
-  \ to insults from \u201Cofficious patriots\u201D. His common retort to such persons\
-  \ was to declaim one of his favourite quotations, from Samuel Butler's poem Psalm\
-  \ Of Montreal:\nO brother-in-law to Mr. Spurgeon's haberdasher,\n  Who seasonest\
-  \ also the skins of Canadian owls,\n  Thou callest trousers \u2018pants,\u2019 whereas\
-  \ I call them \u2018trousers\u2019,\n  Therefore thou art in hell-fire, and may\
-  \ the Lord pity thee!\n"
-title: Warlock's Retort
+ngrams:
+- - callest
+  - trousers
+  - pants
+- - occasional
+  - prolonged
+  - retention
+- - thou
+  - callest
+  - trousers
+- - trousers
+  - pants
+  - whereas
+- - owls
+  - thou
+  - callest
+- - composer
+  - peter
+  - warlock
+- - canadian
+  - owls
+  - thou
+- - trousers
+  - therefore
+  - thou
+- - prolonged
+  - retention
+  - according
+- - harley
+  - street
+  - doctor
+- - therefore
+  - thou
+  - art
+story:
+  date: 2013-04-20
+  id: 2013-04-20-warlocks-retort
+  text: "The composer Peter Warlock (1894\u20131930)\u2014real name Philip Heseltine\u2014\
+    was declared unfit for military service during the First World War on account\
+    \ of general neurasthenia and \u201Can inability to micturate when mentally excited,\
+    \ and especially in the presence of other people, with the consequence that he\
+    \ has had occasional prolonged retention\u201D, according to a Harley Street doctor's\
+    \ report.\nAs a seemingly fit young man swanning about London, he was subjected\
+    \ to insults from \u201Cofficious patriots\u201D. His common retort to such persons\
+    \ was to declaim one of his favourite quotations, from Samuel Butler's poem Psalm\
+    \ Of Montreal:\nO brother-in-law to Mr. Spurgeon's haberdasher,\n  Who seasonest\
+    \ also the skins of Canadian owls,\n  Thou callest trousers \u2018pants,\u2019\
+    \ whereas I call them \u2018trousers\u2019,\n  Therefore thou art in hell-fire,\
+    \ and may the Lord pity thee!\n"
+  title: Warlock's Retort
+word_count: 135

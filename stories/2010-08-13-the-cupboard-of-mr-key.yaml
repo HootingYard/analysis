@@ -1,8 +1,20 @@
-date: 2010-08-13
-id: 2010-08-13-the-cupboard-of-mr-key
-text: '
+ngrams:
+- - cases
+  - dr
+  - watson
+- - dr
+  - watson
+  - mentioned
+- - week
+  - sherlock
+  - holmes
+story:
+  date: 2010-08-13
+  id: 2010-08-13-the-cupboard-of-mr-key
+  text: '
 
-  In my cupboard at The Dabbler this week, Sherlock Holmes and the singular affair
-  of the aluminium crutch, and all the other cases Dr Watson mentioned in passing
-  but never got round to recording in full.'
-title: The Cupboard Of Mr Key
+    In my cupboard at The Dabbler this week, Sherlock Holmes and the singular affair
+    of the aluminium crutch, and all the other cases Dr Watson mentioned in passing
+    but never got round to recording in full.'
+  title: The Cupboard Of Mr Key
+word_count: 41

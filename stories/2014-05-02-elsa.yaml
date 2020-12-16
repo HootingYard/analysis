@@ -1,7 +1,19 @@
-date: 2014-05-02
-id: 2014-05-02-elsa
-text: 'Over at The Dabbler today, I sing the praises of Elsa von Freytag-Loringhoven
-  (and am snippy about that git Damien Hirst).
+ngrams:
+- - elsa
+  - von
+  - freytag-loringhoven
+- - git
+  - damien
+  - hirst
+- - am
+  - snippy
+  - about
+story:
+  date: 2014-05-02
+  id: 2014-05-02-elsa
+  text: 'Over at The Dabbler today, I sing the praises of Elsa von Freytag-Loringhoven
+    (and am snippy about that git Damien Hirst).
 
-  '
-title: Elsa!
+    '
+  title: Elsa!
+word_count: 22

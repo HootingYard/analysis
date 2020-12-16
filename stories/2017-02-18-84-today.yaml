@@ -1,10 +1,25 @@
-date: 2017-02-18
-id: 2017-02-18-84-today
-text: 'No doubt you will be busy today organising a street party, hanging out streams
-  of bunting, distributing paper plates piled high with sausage rolls and slices of
-  fairy cake, and arranging entertainments featuring high-pitched discordant screaming,
-  the cutting off of clothes, and world peace. Yes! It''s Yoko Ono''s 84th birthday.
-  Rejoice!
+ngrams:
+- - arranging
+  - entertainments
+  - featuring
+- - entertainments
+  - featuring
+  - high-pitched
+- - featuring
+  - high-pitched
+  - discordant
+- - high-pitched
+  - discordant
+  - screaming
+story:
+  date: 2017-02-18
+  id: 2017-02-18-84-today
+  text: 'No doubt you will be busy today organising a street party, hanging out streams
+    of bunting, distributing paper plates piled high with sausage rolls and slices
+    of fairy cake, and arranging entertainments featuring high-pitched discordant
+    screaming, the cutting off of clothes, and world peace. Yes! It''s Yoko Ono''s
+    84th birthday. Rejoice!
 
-  '
-title: 84 Today!
+    '
+  title: 84 Today!
+word_count: 54

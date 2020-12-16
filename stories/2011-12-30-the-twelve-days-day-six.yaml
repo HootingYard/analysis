@@ -1,16 +1,28 @@
-date: 2011-12-30
-id: 2011-12-30-the-twelve-days-day-six
-text: 'On the sixth day of Christmas, Old Halob gave to me
+ngrams:
+- - hideous
+  - bat-gods
+  - ectoplasm
+- - six
+  - hideous
+  - bat-gods
+- - bat-gods
+  - ectoplasm
+  - four
+story:
+  date: 2011-12-30
+  id: 2011-12-30-the-twelve-days-day-six
+  text: 'On the sixth day of Christmas, Old Halob gave to me
 
-  Six hideous bat-gods,
+    Six hideous bat-gods,
 
-  Ectoplasm!
+    Ectoplasm!
 
-  Four dead chaffinches,
+    Four dead chaffinches,
 
-  Three poptarts,
+    Three poptarts,
 
-  Two cardboard pigs,
+    Two cardboard pigs,
 
-  And a viper, a shrew, and a bee.'
-title: "The Twelve Days\_: Day Six"
+    And a viper, a shrew, and a bee.'
+  title: "The Twelve Days\_: Day Six"
+word_count: 36

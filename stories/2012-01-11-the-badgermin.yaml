@@ -1,9 +1,21 @@
-date: 2012-01-11
-id: 2012-01-11-the-badgermin
-text: 'Is it a badger? Is it a theremin? No, it''s the badgermin, quite possibly the
-  finest badger-related electronic musical instrument ever devised.
+ngrams:
+- - mechanical
+  - sculptures
+  - robots
+- - instruments
+  - mechanical
+  - sculptures
+- - sculptures
+  - robots
+  - etc
+story:
+  date: 2012-01-11
+  id: 2012-01-11-the-badgermin
+  text: 'Is it a badger? Is it a theremin? No, it''s the badgermin, quite possibly
+    the finest badger-related electronic musical instrument ever devised.
 
 
-  You can see more of David Cranmer''s electrical instruments, mechanical sculptures,
-  robots, etc., on his website.'
-title: The Badgermin
+    You can see more of David Cranmer''s electrical instruments, mechanical sculptures,
+    robots, etc., on his website.'
+  title: The Badgermin
+word_count: 42

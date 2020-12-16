@@ -1,15 +1,46 @@
-date: 2011-02-17
-id: 2011-02-17-polish-logic-1920-1939
-text: 'There used to be a library cataloguing methodology called the Dewey Decimal
-  System, which could result in books with enormously long references: A.832.102.098/67
-  might be an example. Instead, every book fanatic knows that the quaint, humane system
-  used in the London Library is much clearer: all the interesting stuff is in Science
-  and Miscellaneous and arranged alphabetically. Fruit Farming follows Flagellation.
+ngrams:
+- - farming
+  - follows
+  - flagellation
+- - dewey
+  - decimal
+  - system
+- - quaint
+  - humane
+  - system
+- - library
+  - cataloguing
+  - methodology
+- - alphabetically
+  - fruit
+  - farming
+- - photograph
+  - shows
+  - snapshot
+- - arranged
+  - alphabetically
+  - fruit
+- - fruit
+  - farming
+  - follows
+- - cataloguing
+  - methodology
+  - called
+story:
+  date: 2011-02-17
+  id: 2011-02-17-polish-logic-1920-1939
+  text: 'There used to be a library cataloguing methodology called the Dewey Decimal
+    System, which could result in books with enormously long references: A.832.102.098/67
+    might be an example. Instead, every book fanatic knows that the quaint, humane
+    system used in the London Library is much clearer: all the interesting stuff is
+    in Science and Miscellaneous and arranged alphabetically. Fruit Farming follows
+    Flagellation.
 
-  Thus Stephen Bayley, in the Telegraph, while bemoaning the decimalisation of our
-  currency forty years ago. The London Library''s idiosyncratic approach to cataloguing
-  is indeed a thing of wonder, as the juxtaposition in this photograph shows.
+    Thus Stephen Bayley, in the Telegraph, while bemoaning the decimalisation of our
+    currency forty years ago. The London Library''s idiosyncratic approach to cataloguing
+    is indeed a thing of wonder, as the juxtaposition in this photograph shows.
 
 
-  Snapshot from the London Library''s set for St Valentine''s Day'
-title: "Polish Logic 1920\u20131939"
+    Snapshot from the London Library''s set for St Valentine''s Day'
+  title: "Polish Logic 1920\u20131939"
+word_count: 112

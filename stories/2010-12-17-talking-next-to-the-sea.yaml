@@ -1,7 +1,22 @@
-date: 2010-12-17
-id: 2010-12-17-talking-next-to-the-sea
-text: "\u201CIt is true that he spoke our tongue incorrectly and in an anglicised\
-  \ way, like all those whose mouths are more accustomed to chewing anglo-saxon pebbles\
-  \ and to talking next to the sea.\u201D\nJules Barbey D'Aurevilly, On Dandyism And\
-  \ George Brummell (1845), translation by George Walden (2002)"
-title: Talking Next To The Sea
+ngrams:
+- - george
+  - brummell
+  - translation
+- - chewing
+  - anglo-saxon
+  - pebbles
+- - barbey
+  - d
+  - aurevilly
+- - jules
+  - barbey
+  - d
+story:
+  date: 2010-12-17
+  id: 2010-12-17-talking-next-to-the-sea
+  text: "\u201CIt is true that he spoke our tongue incorrectly and in an anglicised\
+    \ way, like all those whose mouths are more accustomed to chewing anglo-saxon\
+    \ pebbles and to talking next to the sea.\u201D\nJules Barbey D'Aurevilly, On\
+    \ Dandyism And George Brummell (1845), translation by George Walden (2002)"
+  title: Talking Next To The Sea
+word_count: 51

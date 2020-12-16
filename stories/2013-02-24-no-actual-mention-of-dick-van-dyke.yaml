@@ -1,7 +1,20 @@
-date: 2013-02-24
-id: 2013-02-24-no-actual-mention-of-dick-van-dyke
-text: 'A very pleasing cryptic crossword in the Grauniad yesterday, where clues yielded
-  the words SOUP, a COLLIE, FRIDGE, ELASTIC, EGGS, PEAS, HALITOSIS and MARY POPPINS.
+ngrams:
+- - collie
+  - fridge
+  - elastic
+- - pleasing
+  - cryptic
+  - crossword
+- - dick
+  - van
+  - dyke
+story:
+  date: 2013-02-24
+  id: 2013-02-24-no-actual-mention-of-dick-van-dyke
+  text: 'A very pleasing cryptic crossword in the Grauniad yesterday, where clues
+    yielded the words SOUP, a COLLIE, FRIDGE, ELASTIC, EGGS, PEAS, HALITOSIS and MARY
+    POPPINS.
 
-  '
-title: No Actual Mention Of Dick Van Dyke
+    '
+  title: No Actual Mention Of Dick Van Dyke
+word_count: 32

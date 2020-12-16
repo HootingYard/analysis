@@ -1,7 +1,19 @@
-date: 2015-02-18
-id: 2015-02-18-82-today
-text: 'The world''s leading exponent of avant garde oriental shadow puppetry celebrates
-  her birthday today. Let''s all send her some money!
+ngrams:
+- - avant
+  - garde
+  - oriental
+- - shadow
+  - puppetry
+  - celebrates
+- - garde
+  - oriental
+  - shadow
+story:
+  date: 2015-02-18
+  id: 2015-02-18-82-today
+  text: 'The world''s leading exponent of avant garde oriental shadow puppetry celebrates
+    her birthday today. Let''s all send her some money!
 
-  '
-title: 82 Today!
+    '
+  title: 82 Today!
+word_count: 23

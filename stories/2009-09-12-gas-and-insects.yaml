@@ -1,7 +1,22 @@
-date: 2009-09-12
-id: 2009-09-12-gas-and-insects
-text: "When the entomologist Harold Maxwell Lefroy\u2014scourge of the house fly and\
-  \ founder of Rentokil\u2014choked to death on a gas insecticide of his own invention,\
-  \ his last words were: \u201CThe little beggars got the best of me this time!\u201D\
-  \nIan Pindar, reviewing Bugs And The Victorians by J F M Clark"
-title: Gas And Insects
+ngrams:
+- - maxwell
+  - lefroy
+  - scourge
+- - pindar
+  - reviewing
+  - bugs
+- - harold
+  - maxwell
+  - lefroy
+- - ian
+  - pindar
+  - reviewing
+story:
+  date: 2009-09-12
+  id: 2009-09-12-gas-and-insects
+  text: "When the entomologist Harold Maxwell Lefroy\u2014scourge of the house fly\
+    \ and founder of Rentokil\u2014choked to death on a gas insecticide of his own\
+    \ invention, his last words were: \u201CThe little beggars got the best of me\
+    \ this time!\u201D\nIan Pindar, reviewing Bugs And The Victorians by J F M Clark"
+  title: Gas And Insects
+word_count: 55

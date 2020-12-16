@@ -1,6 +1,18 @@
-date: 2007-03-12
-id: 2007-03-12-withers
-text: "Did any British star of stage and screen ever have such a marvellous name as\
-  \ Googie Withers? Say it\u2026 Googie. Withers. Googie Withers. Here at Hooting\
-  \ Yard, we salute Googie, still unwithered, for today is her ninetieth birthday.\n"
-title: Withers
+ngrams:
+- - googie
+  - withers
+  - googie
+- - withers
+  - googie
+  - withers
+- - googie
+  - still
+  - unwithered
+story:
+  date: 2007-03-12
+  id: 2007-03-12-withers
+  text: "Did any British star of stage and screen ever have such a marvellous name\
+    \ as Googie Withers? Say it\u2026 Googie. Withers. Googie Withers. Here at Hooting\
+    \ Yard, we salute Googie, still unwithered, for today is her ninetieth birthday.\n"
+  title: Withers
+word_count: 39

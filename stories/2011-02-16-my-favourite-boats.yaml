@@ -1,8 +1,20 @@
-date: 2011-02-16
-id: 2011-02-16-my-favourite-boats
-text: 'From Celine And Julie Go Boating (Jacques Rivette, 1974) and Twilight Of The
-  Ice Nymphs (Guy Maddin, 1997)
+ngrams:
+- - boating
+  - jacques
+  - rivette
+- - nymphs
+  - guy
+  - maddin
+- - ice
+  - nymphs
+  - guy
+story:
+  date: 2011-02-16
+  id: 2011-02-16-my-favourite-boats
+  text: 'From Celine And Julie Go Boating (Jacques Rivette, 1974) and Twilight Of
+    The Ice Nymphs (Guy Maddin, 1997)
 
 
-  '
-title: My Favourite Boats
+    '
+  title: My Favourite Boats
+word_count: 19

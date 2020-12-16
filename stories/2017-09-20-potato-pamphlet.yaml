@@ -1,6 +1,18 @@
-date: 2017-09-20
-id: 2017-09-20-potato-pamphlet
-text: '
+ngrams:
+- - potato
+  - pamphlet
+  - many
+- - pamphlet
+  - many
+  - thanks
+- - salim
+  - fadhley
+  - for
+story:
+  date: 2017-09-20
+  id: 2017-09-20-potato-pamphlet
+  text: '
 
-  Many thanks to Salim Fadhley for drawing this to my attention.'
-title: Potato Pamphlet
+    Many thanks to Salim Fadhley for drawing this to my attention.'
+  title: Potato Pamphlet
+word_count: 13

@@ -1,9 +1,31 @@
-date: 2014-11-14
-id: 2014-11-14-invisible-crowe
-text: "\nMrs Catherine Crowe, who wrote the best-selling Night Side Of Nature [1848],\
-  \ an enormous compilation of ghost stories, was found \u2018in the street, clothed\
-  \ only in her chastity, a pocket-handkerchief, and a visiting-card. She had been\
-  \ informed, it appeared, by the spirits, that if she went in that trim she would\
-  \ be invisible\u2019,\nfrom The Spiritualists\_: The Passion For The Occult In The\
-  \ Nineteenth And Twentieth Centuries by Ruth Brandon (Weidenfeld & Nicolson, 1983)"
-title: Invisible Crowe
+ngrams:
+- - brandon
+  - weidenfeld
+  - nicolson
+- - ruth
+  - brandon
+  - weidenfeld
+- - crowe
+  - mrs
+  - catherine
+- - mrs
+  - catherine
+  - crowe
+- - invisible
+  - crowe
+  - mrs
+- - best-selling
+  - night
+  - side
+story:
+  date: 2014-11-14
+  id: 2014-11-14-invisible-crowe
+  text: "\nMrs Catherine Crowe, who wrote the best-selling Night Side Of Nature [1848],\
+    \ an enormous compilation of ghost stories, was found \u2018in the street, clothed\
+    \ only in her chastity, a pocket-handkerchief, and a visiting-card. She had been\
+    \ informed, it appeared, by the spirits, that if she went in that trim she would\
+    \ be invisible\u2019,\nfrom The Spiritualists\_: The Passion For The Occult In\
+    \ The Nineteenth And Twentieth Centuries by Ruth Brandon (Weidenfeld & Nicolson,\
+    \ 1983)"
+  title: Invisible Crowe
+word_count: 73

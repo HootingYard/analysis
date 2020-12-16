@@ -1,10 +1,34 @@
-date: 2015-01-22
-id: 2015-01-22-the-importance-of-the-gannet
-text: "According to a six-DVD set on the subject of British Birds made by the ornithologist\
-  \ Paul Doherty, the gannet is \u201Cthe most pointy bird to be found in Britain\u201D\
-  .\nI am indebted to Andy Martin for bringing this critically important information\
-  \ to my attention. Mr Martin adds: \u201CI wish to pass a motion that the gannet\
-  \ be adopted as the official emblem of Pointy Town, to appear on any heraldic designs,\
-  \ flags, and stationery\u201D. I think we can consider that carried, nem. con.\n\
-  \nThe gannet\_: exceedingly pointy"
-title: The Importance Of The Gannet
+ngrams:
+- - heraldic
+  - designs
+  - flags
+- - ornithologist
+  - paul
+  - doherty
+- - carried
+  - nem
+  - con
+- - critically
+  - important
+  - information
+- - gannet
+  - exceedingly
+  - pointy
+- - mr
+  - martin
+  - adds
+- - attention
+  - mr
+  - martin
+story:
+  date: 2015-01-22
+  id: 2015-01-22-the-importance-of-the-gannet
+  text: "According to a six-DVD set on the subject of British Birds made by the ornithologist\
+    \ Paul Doherty, the gannet is \u201Cthe most pointy bird to be found in Britain\u201D\
+    .\nI am indebted to Andy Martin for bringing this critically important information\
+    \ to my attention. Mr Martin adds: \u201CI wish to pass a motion that the gannet\
+    \ be adopted as the official emblem of Pointy Town, to appear on any heraldic\
+    \ designs, flags, and stationery\u201D. I think we can consider that carried,\
+    \ nem. con.\n\nThe gannet\_: exceedingly pointy"
+  title: The Importance Of The Gannet
+word_count: 92

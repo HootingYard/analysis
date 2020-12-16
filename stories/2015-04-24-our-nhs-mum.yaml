@@ -1,8 +1,26 @@
-date: 2015-04-24
-id: 2015-04-24-our-nhs-mum
-text: "\nIn The Dabbler this week I have a good moan about a couple of current exasperations,\
-  \ the phrase \u201Cour NHS\u201D and the word \u201Cmum\u201D. The piece ought to\
-  \ have been far more vituperative and indeed unsuitable for family reading, but\
-  \ the editor chose to illustrate it with a photograph of that lovely cuddly character\
-  \ John Lydon, so I suppose it's fortuitous that I toned down my invective."
-title: Our NHS Mum
+ngrams:
+- - lovely
+  - cuddly
+  - character
+- - character
+  - john
+  - lydon
+- - cuddly
+  - character
+  - john
+- - our
+  - nhs
+  - mum
+- - phrase
+  - our
+  - nhs
+story:
+  date: 2015-04-24
+  id: 2015-04-24-our-nhs-mum
+  text: "\nIn The Dabbler this week I have a good moan about a couple of current exasperations,\
+    \ the phrase \u201Cour NHS\u201D and the word \u201Cmum\u201D. The piece ought\
+    \ to have been far more vituperative and indeed unsuitable for family reading,\
+    \ but the editor chose to illustrate it with a photograph of that lovely cuddly\
+    \ character John Lydon, so I suppose it's fortuitous that I toned down my invective."
+  title: Our NHS Mum
+word_count: 71

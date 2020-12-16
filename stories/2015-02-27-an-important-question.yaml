@@ -1,9 +1,25 @@
-date: 2015-02-27
-id: 2015-02-27-an-important-question
-text: 'An important question was posed this morning on BBC Radio Four''s Farming Today:
+ngrams:
+- - bbc
+  - radio
+  - four
+- - paying
+  - close
+  - enough
+- - close
+  - enough
+  - attention
+- - farming
+  - today
+  - how
+story:
+  date: 2015-02-27
+  id: 2015-02-27-an-important-question
+  text: 'An important question was posed this morning on BBC Radio Four''s Farming
+    Today:
 
-  How do you find wheat?
+    How do you find wheat?
 
-  I am afraid I was not paying close enough attention and so did not learn the answer.
-  Readers may perhaps wish to give their own replies in the comments.'
-title: An Important Question
+    I am afraid I was not paying close enough attention and so did not learn the answer.
+    Readers may perhaps wish to give their own replies in the comments.'
+  title: An Important Question
+word_count: 51

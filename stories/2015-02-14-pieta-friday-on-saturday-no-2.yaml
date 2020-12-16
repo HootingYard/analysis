@@ -1,8 +1,26 @@
-date: 2015-02-14
-id: 2015-02-14-pieta-friday-on-saturday-no-2
-text: "\nI ought to have posted a Piet\xE0 yesterday, but events of the past few days\
-  \ have led me to leave Hooting Yard untended. First there was an eye test involving\
-  \ blurring-effect droppages, then a three-hour marathon radio broadcast as part\
-  \ of the ResonanceFM fundraiser week, and certain other matters which I may go into\
-  \ at a later date. Onwards and upwards!"
-title: "Piet\xE0 Friday (On Saturday) No.2"
+ngrams:
+- - involving
+  - blurring-effect
+  - droppages
+- - test
+  - involving
+  - blurring-effect
+- - three-hour
+  - marathon
+  - radio
+- - marathon
+  - radio
+  - broadcast
+- - eye
+  - test
+  - involving
+story:
+  date: 2015-02-14
+  id: 2015-02-14-pieta-friday-on-saturday-no-2
+  text: "\nI ought to have posted a Piet\xE0 yesterday, but events of the past few\
+    \ days have led me to leave Hooting Yard untended. First there was an eye test\
+    \ involving blurring-effect droppages, then a three-hour marathon radio broadcast\
+    \ as part of the ResonanceFM fundraiser week, and certain other matters which\
+    \ I may go into at a later date. Onwards and upwards!"
+  title: "Piet\xE0 Friday (On Saturday) No.2"
+word_count: 66

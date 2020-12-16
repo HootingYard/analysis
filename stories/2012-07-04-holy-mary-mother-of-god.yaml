@@ -1,6 +1,18 @@
-date: 2012-07-04
-id: 2012-07-04-holy-mary-mother-of-god
-text: 'Every so often it''s important to sit and contemplate a picture of the BVM.
+ngrams:
+- - holy
+  - mary
+  - mother
+- - god
+  - every
+  - so
+- - every
+  - so
+  - often
+story:
+  date: 2012-07-04
+  id: 2012-07-04-holy-mary-mother-of-god
+  text: 'Every so often it''s important to sit and contemplate a picture of the BVM.
 
-  '
-title: Holy Mary Mother Of God!
+    '
+  title: Holy Mary Mother Of God!
+word_count: 20

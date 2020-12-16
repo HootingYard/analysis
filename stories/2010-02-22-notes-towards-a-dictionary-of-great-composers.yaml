@@ -1,9 +1,31 @@
-date: 2010-02-22
-id: 2010-02-22-notes-towards-a-dictionary-of-great-composers
-text: "Here are two things I learned today, which, taken together, have planted in\
-  \ my brain the idea of writing A Dictionary Of Great Composers. These would be the\
-  \ complete entries for those named, and dozens, nay, hundreds of others would be\
-  \ similarly brief:\nSchubert, Franz. Upon his deathbed, his final wish was that\
-  \ someone would bring him some books by James Fenimore Cooper.\nTippett, Michael.\
-  \ He referred to the refrigerator in his kitchen as \u201CBernard Levin\u201D."
-title: Notes Towards A Dictionary Of Great Composers
+ngrams:
+- - fenimore
+  - cooper
+  - tippett
+- - cooper
+  - tippett
+  - michael
+- - james
+  - fenimore
+  - cooper
+- - brief
+  - schubert
+  - franz
+- - similarly
+  - brief
+  - schubert
+- - dozens
+  - nay
+  - hundreds
+story:
+  date: 2010-02-22
+  id: 2010-02-22-notes-towards-a-dictionary-of-great-composers
+  text: "Here are two things I learned today, which, taken together, have planted\
+    \ in my brain the idea of writing A Dictionary Of Great Composers. These would\
+    \ be the complete entries for those named, and dozens, nay, hundreds of others\
+    \ would be similarly brief:\nSchubert, Franz. Upon his deathbed, his final wish\
+    \ was that someone would bring him some books by James Fenimore Cooper.\nTippett,\
+    \ Michael. He referred to the refrigerator in his kitchen as \u201CBernard Levin\u201D\
+    ."
+  title: Notes Towards A Dictionary Of Great Composers
+word_count: 83

@@ -1,7 +1,19 @@
-date: 2011-06-16
-id: 2011-06-16-an-immense-mass-of-clotted-nonsense
-text: '* The title of this postage is made plain here.
+ngrams:
+- - plain
+  - here
+  - bloomsday
+- - made
+  - plain
+  - here
+- - an
+  - immense
+  - mass
+story:
+  date: 2011-06-16
+  id: 2011-06-16-an-immense-mass-of-clotted-nonsense
+  text: '* The title of this postage is made plain here.
 
 
-  Bloomsday at the London Library'
-title: An Immense Mass Of Clotted Nonsense*
+    Bloomsday at the London Library'
+  title: An Immense Mass Of Clotted Nonsense*
+word_count: 20

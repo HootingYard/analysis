@@ -1,11 +1,38 @@
-date: 2008-09-27
-id: 2008-09-27-could-it-be
-text: "Dear Mr Key, writes Dr Stan Bismark, Whilst ripping out an old fireplace in\
-  \ my very own hovel I found, amongst a lot of bird poop, dead crows and other muck,\
-  \ a small package tied up with rusty wire.\_ On opening\_ the package all it contained\
-  \ was\_a small card-mounted photo of a style which I think is called carte de visite.\_\
-  \ On the back of the photo in green ink was written the following: \u201CDobson,\
-  \ shortly befor he died\u201D [sic].\_ Do you think this could be your very own\
-  \ pamphleteer?\_ I attach a copy of the photo.\n\n\_\n\_\n\_\n\_\n\_\n\_\n\_\n\_\
-  \n\_\n\_\n\_\n\_\n\_\n\_\n\_\n\_\n\_\n\_\n\_"
-title: "Could It Be\u2026 ?"
+ngrams:
+- - stan
+  - bismark
+  - whilst
+- - bismark
+  - whilst
+  - ripping
+- - carte
+  - de
+  - visite
+- - dr
+  - stan
+  - bismark
+- - writes
+  - dr
+  - stan
+- - small
+  - card-mounted
+  - photo
+- - poop
+  - dead
+  - crows
+- - small
+  - package
+  - tied
+story:
+  date: 2008-09-27
+  id: 2008-09-27-could-it-be
+  text: "Dear Mr Key, writes Dr Stan Bismark, Whilst ripping out an old fireplace\
+    \ in my very own hovel I found, amongst a lot of bird poop, dead crows and other\
+    \ muck, a small package tied up with rusty wire.\_ On opening\_ the package all\
+    \ it contained was\_a small card-mounted photo of a style which I think is called\
+    \ carte de visite.\_ On the back of the photo in green ink was written the following:\
+    \ \u201CDobson, shortly befor he died\u201D [sic].\_ Do you think this could be\
+    \ your very own pamphleteer?\_ I attach a copy of the photo.\n\n\_\n\_\n\_\n\_\
+    \n\_\n\_\n\_\n\_\n\_\n\_\n\_\n\_\n\_\n\_\n\_\n\_\n\_\n\_\n\_"
+  title: "Could It Be\u2026 ?"
+word_count: 101

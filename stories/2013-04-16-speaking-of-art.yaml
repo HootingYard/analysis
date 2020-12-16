@@ -1,7 +1,19 @@
-date: 2013-04-16
-id: 2013-04-16-speaking-of-art
-text: 'Oh, one more thing about art. Here is a review of the book, from a magazine
-  called Mousse. Click and click again to make large and legible.
+ngrams:
+- - called
+  - mousse
+  - click
+- - magazine
+  - called
+  - mousse
+- - thing
+  - about
+  - art
+story:
+  date: 2013-04-16
+  id: 2013-04-16-speaking-of-art
+  text: 'Oh, one more thing about art. Here is a review of the book, from a magazine
+    called Mousse. Click and click again to make large and legible.
 
-  '
-title: "Speaking Of Art\u2026"
+    '
+  title: "Speaking Of Art\u2026"
+word_count: 30

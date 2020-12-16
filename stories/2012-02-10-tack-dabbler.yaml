@@ -1,9 +1,27 @@
-date: 2012-02-10
-id: 2012-02-10-tack-dabbler
-text: '
+ngrams:
+- - trilogy
+  - featuring
+  - ponies
+- - director
+  - pabstus
+  - tack
+- - film
+  - director
+  - pabstus
+- - your
+  - heart
+  - guaranteed
+- - come
+  - back
+  - here
+story:
+  date: 2012-02-10
+  id: 2012-02-10-tack-dabbler
+  text: '
 
-  In The Dabbler today I consider the film director Pabstus Tack, with a look at his
-  trilogy featuring ponies and bees and bats. Well, a pony and a bee and a bat, to
-  be precise. Go and read it and then come back here and hit that Donate button. You
-  will feel a warm glow in the cockles of your heart, guaranteed.'
-title: Tack Dabbler
+    In The Dabbler today I consider the film director Pabstus Tack, with a look at
+    his trilogy featuring ponies and bees and bats. Well, a pony and a bee and a bat,
+    to be precise. Go and read it and then come back here and hit that Donate button.
+    You will feel a warm glow in the cockles of your heart, guaranteed.'
+  title: Tack Dabbler
+word_count: 64

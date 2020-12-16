@@ -1,5 +1,17 @@
-date: 2017-07-21
-id: 2017-07-21-episode-god-knows-what
-text: Point your pointy pointer towards Mixcloud to listen to yesterday's episode
-  of Hooting Yard On The Air, brought to you by ResonanceFM.
-title: Episode God-Knows-What
+ngrams:
+- - pointer
+  - towards
+  - mixcloud
+- - episode
+  - god-knows-what
+  - point
+- - pointy
+  - pointer
+  - towards
+story:
+  date: 2017-07-21
+  id: 2017-07-21-episode-god-knows-what
+  text: Point your pointy pointer towards Mixcloud to listen to yesterday's episode
+    of Hooting Yard On The Air, brought to you by ResonanceFM.
+  title: Episode God-Knows-What
+word_count: 25

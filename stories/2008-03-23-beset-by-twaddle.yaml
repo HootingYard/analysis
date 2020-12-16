@@ -1,6 +1,18 @@
-date: 2008-03-23
-id: 2008-03-23-beset-by-twaddle
-text: "\u201COverwhelmed with words and imagery, harangued with opinion, beset by\
-  \ twaddle, my brain hungered for simplicity and found it.\u201D\nFrom Cruel And\
-  \ Usual Punishment by Gene Weingarten"
-title: Beset By Twaddle
+ngrams:
+- - by
+  - gene
+  - weingarten
+- - punishment
+  - by
+  - gene
+- - opinion
+  - beset
+  - by
+story:
+  date: 2008-03-23
+  id: 2008-03-23-beset-by-twaddle
+  text: "\u201COverwhelmed with words and imagery, harangued with opinion, beset by\
+    \ twaddle, my brain hungered for simplicity and found it.\u201D\nFrom Cruel And\
+    \ Usual Punishment by Gene Weingarten"
+  title: Beset By Twaddle
+word_count: 30

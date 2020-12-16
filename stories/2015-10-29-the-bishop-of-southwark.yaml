@@ -1,14 +1,53 @@
-date: 2015-10-29
-id: 2015-10-29-the-bishop-of-southwark
-text: "\nAn unseemly number of enquiries arrive at Hooting Yard HQ asking why yesterday's\
-  \ postage In Ponga makes reference to the Bishop of Southwark. The answer is simple,\
-  \ and is given in the form of an exclusive extract from Mr Key's Shorter Potted\
-  \ Brief, Brief Lives, available now from all good bookshops, both actual and virtual.\n\
-  Butler, Tom (English bishop, b. 1940). In December 2006, Paul and Nicola Sumpter\
-  \ were sitting in a bar near Southwark Cathedral when they heard their car alarm\
-  \ go off. Rushing outside, they found a grey-haired man in the back seat of the\
-  \ car, throwing the toys of their infant son out of the window. When challenged,\
-  \ the man said \u201CI'm the bishop of Southwark. It's what I do\u201D. He then\
-  \ got out of the car and disappeared into the night, leaving behind a bag containing,\
-  \ among other things, his crucifix."
-title: The Bishop Of Southwark
+ngrams:
+- - virtual
+  - butler
+  - tom
+- - butler
+  - tom
+  - english
+- - tom
+  - english
+  - bishop
+- - shorter
+  - potted
+  - brief
+- - near
+  - southwark
+  - cathedral
+- - bar
+  - near
+  - southwark
+- - english
+  - bishop
+  - b
+- - potted
+  - brief
+  - brief
+- - ponga
+  - makes
+  - reference
+- - brief
+  - brief
+  - lives
+- - brief
+  - lives
+  - available
+- - bookshops
+  - both
+  - actual
+story:
+  date: 2015-10-29
+  id: 2015-10-29-the-bishop-of-southwark
+  text: "\nAn unseemly number of enquiries arrive at Hooting Yard HQ asking why yesterday's\
+    \ postage In Ponga makes reference to the Bishop of Southwark. The answer is simple,\
+    \ and is given in the form of an exclusive extract from Mr Key's Shorter Potted\
+    \ Brief, Brief Lives, available now from all good bookshops, both actual and virtual.\n\
+    Butler, Tom (English bishop, b. 1940). In December 2006, Paul and Nicola Sumpter\
+    \ were sitting in a bar near Southwark Cathedral when they heard their car alarm\
+    \ go off. Rushing outside, they found a grey-haired man in the back seat of the\
+    \ car, throwing the toys of their infant son out of the window. When challenged,\
+    \ the man said \u201CI'm the bishop of Southwark. It's what I do\u201D. He then\
+    \ got out of the car and disappeared into the night, leaving behind a bag containing,\
+    \ among other things, his crucifix."
+  title: The Bishop Of Southwark
+word_count: 151

@@ -1,5 +1,17 @@
-date: 2013-05-03
-id: 2013-05-03-brilliantly-eccentric
-text: Hooting Yard is not mentioned, alas, but this piece in Time Out provides an
-  insight into the unique thing that is ResonanceFM. Recommended reading.
-title: Brilliantly Eccentric
+ngrams:
+- - resonancefm
+  - recommended
+  - reading
+- - brilliantly
+  - eccentric
+  - hooting
+- - eccentric
+  - hooting
+  - yard
+story:
+  date: 2013-05-03
+  id: 2013-05-03-brilliantly-eccentric
+  text: Hooting Yard is not mentioned, alas, but this piece in Time Out provides an
+    insight into the unique thing that is ResonanceFM. Recommended reading.
+  title: Brilliantly Eccentric
+word_count: 26

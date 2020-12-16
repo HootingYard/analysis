@@ -1,8 +1,26 @@
-date: 2008-01-06
-id: 2008-01-06-three-birds-and-their-diets
-text: "Plovers eat the wind.\nTurtle-doves eat juniper seeds and sweet-smelling herbs.\n\
-  Larks eat only pebbles and sand.\nFrom Le M\xE9nagier De Paris (1393), cited in\
-  \ the Oddities section of the excellent Medieval Cookery website.\nNOTE\_: Though\
-  \ let us not forget that, as Christopher Smart reminds us in Jubilate Agno, \u201C\
-  For mustard is the proper food of birds\u201D."
-title: Three Birds And Their Diets
+ngrams:
+- - sweet-smelling
+  - herbs
+  - larks
+- - excellent
+  - medieval
+  - cookery
+- - medieval
+  - cookery
+  - website
+- - christopher
+  - smart
+  - reminds
+- - turtle-doves
+  - eat
+  - juniper
+story:
+  date: 2008-01-06
+  id: 2008-01-06-three-birds-and-their-diets
+  text: "Plovers eat the wind.\nTurtle-doves eat juniper seeds and sweet-smelling\
+    \ herbs.\nLarks eat only pebbles and sand.\nFrom Le M\xE9nagier De Paris (1393),\
+    \ cited in the Oddities section of the excellent Medieval Cookery website.\nNOTE\_\
+    : Though let us not forget that, as Christopher Smart reminds us in Jubilate Agno,\
+    \ \u201CFor mustard is the proper food of birds\u201D."
+  title: Three Birds And Their Diets
+word_count: 62

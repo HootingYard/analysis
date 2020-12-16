@@ -1,9 +1,30 @@
-date: 2008-12-04
-id: 2008-12-04-hq
-text: "For some time now, all of us here at Team Hooting Yard have been readying ourselves\
-  \ for a move to new headquarters. Well, at long last the builders and painters and\
-  \ plumbers and decorators and sundry other artisans have finished their labours,\
-  \ and we can move in! By chance, a snap of our fantastic new base in its finished\
-  \ state has appeared on the Unmitigated England blog. Here it is, in all its glory:\n\
-  \n\_\n\_\n\_\n\_\n\_\n\_\n\_\n\_"
-title: HQ
+ngrams:
+- - unmitigated
+  - england
+  - blog
+- - fantastic
+  - new
+  - base
+- - england
+  - blog
+  - here
+- - sundry
+  - other
+  - artisans
+- - new
+  - headquarters
+  - well
+- - team
+  - hooting
+  - yard
+story:
+  date: 2008-12-04
+  id: 2008-12-04-hq
+  text: "For some time now, all of us here at Team Hooting Yard have been readying\
+    \ ourselves for a move to new headquarters. Well, at long last the builders and\
+    \ painters and plumbers and decorators and sundry other artisans have finished\
+    \ their labours, and we can move in! By chance, a snap of our fantastic new base\
+    \ in its finished state has appeared on the Unmitigated England blog. Here it\
+    \ is, in all its glory:\n\n\_\n\_\n\_\n\_\n\_\n\_\n\_\n\_"
+  title: HQ
+word_count: 75

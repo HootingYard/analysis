@@ -1,6 +1,18 @@
-date: 2015-03-31
-id: 2015-03-31-new-yorkers-ii
-text: 'Two more New Yorkers encountered in the Metropolitan Museum of Art.
+ngrams:
+- - new
+  - yorkers
+  - ii
+- - new
+  - yorkers
+  - encountered
+- - yorkers
+  - ii
+  - two
+story:
+  date: 2015-03-31
+  id: 2015-03-31-new-yorkers-ii
+  text: 'Two more New Yorkers encountered in the Metropolitan Museum of Art.
 
-  '
-title: New Yorkers (ii)
+    '
+  title: New Yorkers (ii)
+word_count: 14

@@ -1,6 +1,18 @@
-date: 2011-06-08
-id: 2011-06-08-mimmspod
-text: 'W to Z to South Mimms
+ngrams:
+- - mimmspod
+  - w
+  - to
+- - w
+  - to
+  - z
+- - to
+  - south
+  - mimms
+story:
+  date: 2011-06-08
+  id: 2011-06-08-mimmspod
+  text: 'W to Z to South Mimms
 
-  '
-title: Mimmspod
+    '
+  title: Mimmspod
+word_count: 7

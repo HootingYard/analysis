@@ -1,6 +1,18 @@
-date: 2013-03-27
-id: 2013-03-27-atomic-robot-man
-text: '
+ngrams:
+- - ptak
+  - science
+  - books
+- - atomic
+  - robot
+  - man
+- - from
+  - ptak
+  - science
+story:
+  date: 2013-03-27
+  id: 2013-03-27-atomic-robot-man
+  text: '
 
-  From Ptak Science Books'
-title: Atomic Robot Man!
+    From Ptak Science Books'
+  title: Atomic Robot Man!
+word_count: 7

@@ -1,6 +1,18 @@
-date: 2010-08-31
-id: 2010-08-31-attention-to-detail
-text: "\u201CWe studied the whole theory of flight in very great detail, spending,\
-  \ I remember, more than a month in an examination of the wing of an albatross\u201D\
-  \nRex Warner, The Aerodrome (1941)"
-title: Attention To Detail
+ngrams:
+- - albatross
+  - rex
+  - warner
+- - great
+  - detail
+  - spending
+- - very
+  - great
+  - detail
+story:
+  date: 2010-08-31
+  id: 2010-08-31-attention-to-detail
+  text: "\u201CWe studied the whole theory of flight in very great detail, spending,\
+    \ I remember, more than a month in an examination of the wing of an albatross\u201D\
+    \nRex Warner, The Aerodrome (1941)"
+  title: Attention To Detail
+word_count: 34

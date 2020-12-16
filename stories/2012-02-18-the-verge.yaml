@@ -1,8 +1,23 @@
-date: 2012-02-18
-id: 2012-02-18-the-verge
-text: "In Elizabethan England, \u201Cthe verge\u201D was an area of legal jurisdiction,\
-  \ defined as the territory within a twelve-mile radius of the body of the Queen,\
-  \ wherever she happened to be. Thus, a sort of legal, royal \u201Caura\u201D.\n\
-  Does anybody know if the verge still exists in the present day, at least in (legal)\
-  \ theory?\n"
-title: The Verge
+ngrams:
+- - legal
+  - jurisdiction
+  - defined
+- - legal
+  - royal
+  - aura
+- - royal
+  - aura
+  - does
+- - aura
+  - does
+  - anybody
+story:
+  date: 2012-02-18
+  id: 2012-02-18-the-verge
+  text: "In Elizabethan England, \u201Cthe verge\u201D was an area of legal jurisdiction,\
+    \ defined as the territory within a twelve-mile radius of the body of the Queen,\
+    \ wherever she happened to be. Thus, a sort of legal, royal \u201Caura\u201D.\n\
+    Does anybody know if the verge still exists in the present day, at least in (legal)\
+    \ theory?\n"
+  title: The Verge
+word_count: 56

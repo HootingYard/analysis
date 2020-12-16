@@ -1,4 +1,16 @@
-date: 2016-02-23
-id: 2016-02-23-vagabond-pod
-text: "Oh look! A newly available podcast!\nThe Vagabonds\u2019 Regatta\n"
-title: Vagabond Pod
+ngrams:
+- - newly
+  - available
+  - podcast
+- - vagabond
+  - pod
+  - oh
+- - pod
+  - oh
+  - look
+story:
+  date: 2016-02-23
+  id: 2016-02-23-vagabond-pod
+  text: "Oh look! A newly available podcast!\nThe Vagabonds\u2019 Regatta\n"
+  title: Vagabond Pod
+word_count: 11

@@ -1,6 +1,18 @@
-date: 2012-11-08
-id: 2012-11-08-earth-shattering
-text: 'Thanks to Neil Dyer for alerting me to this earth-shattering news headline.
+ngrams:
+- - earth-shattering
+  - news
+  - headline
+- - this
+  - earth-shattering
+  - news
+- - neil
+  - dyer
+  - for
+story:
+  date: 2012-11-08
+  id: 2012-11-08-earth-shattering
+  text: 'Thanks to Neil Dyer for alerting me to this earth-shattering news headline.
 
-  '
-title: Earth-Shattering
+    '
+  title: Earth-Shattering
+word_count: 13

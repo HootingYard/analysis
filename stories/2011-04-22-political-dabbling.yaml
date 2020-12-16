@@ -1,10 +1,28 @@
-date: 2011-04-22
-id: 2011-04-22-political-dabbling
-text: '
+ngrams:
+- - sir
+  - isaac
+  - newton
+- - parliamentarian
+  - albeit
+  - brief
+- - more
+  - loathsome
+  - specimens
+- - scientist
+  - who
+  - dabbled
+- - dabbler
+  - this
+  - week
+story:
+  date: 2011-04-22
+  id: 2011-04-22-political-dabbling
+  text: '
 
-  In The Dabbler this week I examine in breathtaking detail the parliamentary career
-  of a scientist who dabbled in politics. Dabbler he may have been, but Sir Isaac
-  Newton''s record as a parliamentarian, albeit brief, was exemplary, and ought to
-  serve as a model for some of the more loathsome specimens at large in the Palace
-  of Westminster today.'
-title: Political Dabbling
+    In The Dabbler this week I examine in breathtaking detail the parliamentary career
+    of a scientist who dabbled in politics. Dabbler he may have been, but Sir Isaac
+    Newton''s record as a parliamentarian, albeit brief, was exemplary, and ought
+    to serve as a model for some of the more loathsome specimens at large in the Palace
+    of Westminster today.'
+  title: Political Dabbling
+word_count: 62

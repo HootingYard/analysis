@@ -1,7 +1,22 @@
-date: 2011-05-09
-id: 2011-05-09-matters-of-a-poddy-nature
-text: "Pin back your ears and listen to the latest Hooting Yard podcast, featuring\
-  \ John Ruskin, Robin Hod the bricklaying outlaw, Dr W B Crow, Grand Master of the\
-  \ Order of the Holy Wisdom, and some stuff about the light in Cornwall\u2026\nSword\
-  \ Of Wisdom\n"
-title: Matters Of A Poddy Nature
+ngrams:
+- - ruskin
+  - robin
+  - hod
+- - poddy
+  - nature
+  - pin
+- - bricklaying
+  - outlaw
+  - dr
+- - crow
+  - grand
+  - master
+story:
+  date: 2011-05-09
+  id: 2011-05-09-matters-of-a-poddy-nature
+  text: "Pin back your ears and listen to the latest Hooting Yard podcast, featuring\
+    \ John Ruskin, Robin Hod the bricklaying outlaw, Dr W B Crow, Grand Master of\
+    \ the Order of the Holy Wisdom, and some stuff about the light in Cornwall\u2026\
+    \nSword Of Wisdom\n"
+  title: Matters Of A Poddy Nature
+word_count: 49

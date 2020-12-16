@@ -1,6 +1,18 @@
-date: 2008-07-06
-id: 2008-07-06-tennis-news
-text: "Quote of the day from the BBC's Andrew Castle at Wimbledon. A few minutes ago,\
-  \ he just said: \u201CTim Henman\u2014like a molecule in a box!\u201D My thoughts\
-  \ exactly."
-title: Tennis News
+ngrams:
+- - tennis
+  - news
+  - quote
+- - few
+  - minutes
+  - ago
+- - said
+  - tim
+  - henman
+story:
+  date: 2008-07-06
+  id: 2008-07-06-tennis-news
+  text: "Quote of the day from the BBC's Andrew Castle at Wimbledon. A few minutes\
+    \ ago, he just said: \u201CTim Henman\u2014like a molecule in a box!\u201D My\
+    \ thoughts exactly."
+  title: Tennis News
+word_count: 32

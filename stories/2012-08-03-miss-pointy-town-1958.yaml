@@ -1,7 +1,20 @@
-date: 2012-08-03
-id: 2012-08-03-miss-pointy-town-1958
-text: 'Outa_Spaceman, who is currently serialising an issue of Men Only from 1958,
-  sends in a picture of that year''s winner of the Miss Pointy Town contest . . .
+ngrams:
+- - town
+  - outa
+  - spaceman
+- - pointy
+  - town
+  - contest
+- - pointy
+  - town
+  - outa
+story:
+  date: 2012-08-03
+  id: 2012-08-03-miss-pointy-town-1958
+  text: 'Outa_Spaceman, who is currently serialising an issue of Men Only from 1958,
+    sends in a picture of that year''s winner of the Miss Pointy Town contest . .
+    .
 
-  '
-title: Miss Pointy Town 1958
+    '
+  title: Miss Pointy Town 1958
+word_count: 30

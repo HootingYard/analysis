@@ -1,8 +1,20 @@
-date: 2011-12-26
-id: 2011-12-26-the-twelve-days-day-two
-text: 'On the second day of Christmas, Old Halob gave to me
+ngrams:
+- - christmas
+  - old
+  - halob
+- - old
+  - halob
+  - gave
+- - two
+  - cardboard
+  - pigs
+story:
+  date: 2011-12-26
+  id: 2011-12-26-the-twelve-days-day-two
+  text: 'On the second day of Christmas, Old Halob gave to me
 
-  Two cardboard pigs,
+    Two cardboard pigs,
 
-  And a viper, a shrew, and a bee.'
-title: "The Twelve Days\_: Day Two"
+    And a viper, a shrew, and a bee.'
+  title: "The Twelve Days\_: Day Two"
+word_count: 27

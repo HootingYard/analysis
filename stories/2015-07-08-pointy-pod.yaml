@@ -1,8 +1,20 @@
-date: 2015-07-08
-id: 2015-07-08-pointy-pod
-text: 'A particularly thrilling new podcast from ResonanceFM.
+ngrams:
+- - thrilling
+  - new
+  - podcast
+- - particularly
+  - thrilling
+  - new
+- - podcast
+  - from
+  - resonancefm
+story:
+  date: 2015-07-08
+  id: 2015-07-08-pointy-pod
+  text: 'A particularly thrilling new podcast from ResonanceFM.
 
-  On Pointy Town
+    On Pointy Town
 
-  '
-title: Pointy Pod
+    '
+  title: Pointy Pod
+word_count: 12

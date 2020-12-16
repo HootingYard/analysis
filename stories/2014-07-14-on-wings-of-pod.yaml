@@ -1,8 +1,20 @@
-date: 2014-07-14
-id: 2014-07-14-on-wings-of-pod
-text: 'A new Hooting Yard podcast is now available from ResonanceFM:
+ngrams:
+- - hooting
+  - yard
+  - podcast
+- - new
+  - hooting
+  - yard
+- - available
+  - from
+  - resonancefm
+story:
+  date: 2014-07-14
+  id: 2014-07-14-on-wings-of-pod
+  text: 'A new Hooting Yard podcast is now available from ResonanceFM:
 
-  On Wings Of Song
+    On Wings Of Song
 
-  '
-title: On Wings Of Pod
+    '
+  title: On Wings Of Pod
+word_count: 18

@@ -1,8 +1,20 @@
-date: 2014-03-10
-id: 2014-03-10-nomenclature
-text: 'In the first draft of Gone With The Wind, Scarlett O''Hara''s given name was
-  not Scarlett. It was Pansy.
+ngrams:
+- - scarlett
+  - o
+  - hara
+- - pansy
+  - o
+  - hara
+- - pansy
+  - pansy
+  - o
+story:
+  date: 2014-03-10
+  id: 2014-03-10-nomenclature
+  text: 'In the first draft of Gone With The Wind, Scarlett O''Hara''s given name
+    was not Scarlett. It was Pansy.
 
 
-  Pansy O''Hara'
-title: Nomenclature
+    Pansy O''Hara'
+  title: Nomenclature
+word_count: 25

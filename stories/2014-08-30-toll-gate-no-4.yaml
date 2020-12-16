@@ -1,9 +1,24 @@
-date: 2014-08-30
-id: 2014-08-30-toll-gate-no-4
-text: 'Here is another cutting from Poppy Nisbet. (As before, click to enlarge.) There
-  is something utterly compelling about this list. Any sense of vague coherence it
-  may have collapses, beautifully. It cries out to be incorporated into a piece of
-  prose, and that is the goal I have set for myself tomorrow.
+ngrams:
+- - something
+  - utterly
+  - compelling
+- - list
+  - any
+  - sense
+- - toll
+  - gate
+  - 'no'
+- - utterly
+  - compelling
+  - about
+story:
+  date: 2014-08-30
+  id: 2014-08-30-toll-gate-no-4
+  text: 'Here is another cutting from Poppy Nisbet. (As before, click to enlarge.)
+    There is something utterly compelling about this list. Any sense of vague coherence
+    it may have collapses, beautifully. It cries out to be incorporated into a piece
+    of prose, and that is the goal I have set for myself tomorrow.
 
-  '
-title: Toll Gate No. 4
+    '
+  title: Toll Gate No. 4
+word_count: 55

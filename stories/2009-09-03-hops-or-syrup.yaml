@@ -1,8 +1,26 @@
-date: 2009-09-03
-id: 2009-09-03-hops-or-syrup
-text: "It is encouraging to note that a universal panacea for all ills* was discovered\
-  \ as long ago as 1883. Following a morally uplifing tale of gruel, the North Otago\
-  \ Times (at Papers Past) carries a recommendation for hop bitters.\n\nAnd if they\
-  \ don't work, keep reading, and discover the benefits of German Syrup.\n*NOTE\_\
-  : If you're going to practise tautology, do it properly!"
-title: Hops Or Syrup
+ngrams:
+- - morally
+  - uplifing
+  - tale
+- - north
+  - otago
+  - times
+- - german
+  - syrup
+  - note
+- - papers
+  - past
+  - carries
+- - work
+  - keep
+  - reading
+story:
+  date: 2009-09-03
+  id: 2009-09-03-hops-or-syrup
+  text: "It is encouraging to note that a universal panacea for all ills* was discovered\
+    \ as long ago as 1883. Following a morally uplifing tale of gruel, the North Otago\
+    \ Times (at Papers Past) carries a recommendation for hop bitters.\n\nAnd if they\
+    \ don't work, keep reading, and discover the benefits of German Syrup.\n*NOTE\_\
+    : If you're going to practise tautology, do it properly!"
+  title: Hops Or Syrup
+word_count: 67

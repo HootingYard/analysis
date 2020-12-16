@@ -1,12 +1,39 @@
-date: 2010-04-01
-id: 2010-04-01-wooden-pig
-text: 'Wooden pig, oh wooden pig! Wallowing in the wooden mud. The sky is made of
-  harder wood and the sea is harder still. The wooden sty is by the sea, the promenade
-  is varnished. The grunting of the wooden pigs drowns out the cries of sailors. Wooden
-  mariners on wooden ships, wrecked against the rocks. Will they make it safe to shore?
-  Can they swim the wooden sea? The wooden moon hangs in the sky. The varnish shows
-  its blisters.
+ngrams:
+- - blisters
+  - petrified
+  - sailors
+- - petrified
+  - sailors
+  - petrified
+- - sailors
+  - wooden
+  - mariners
+- - wooden
+  - ships
+  - wrecked
+- - wooden
+  - moon
+  - hangs
+- - wooden
+  - pigs
+  - drowns
+- - ships
+  - wrecked
+  - against
+- - petrified
+  - sea
+  - petrified
+story:
+  date: 2010-04-01
+  id: 2010-04-01-wooden-pig
+  text: 'Wooden pig, oh wooden pig! Wallowing in the wooden mud. The sky is made of
+    harder wood and the sea is harder still. The wooden sty is by the sea, the promenade
+    is varnished. The grunting of the wooden pigs drowns out the cries of sailors.
+    Wooden mariners on wooden ships, wrecked against the rocks. Will they make it
+    safe to shore? Can they swim the wooden sea? The wooden moon hangs in the sky.
+    The varnish shows its blisters.
 
-  Petrified sailors, petrified sea. Petrified pigs in wooden mud. No clocks tock,
-  and all is still. Close the wooden shutters.'
-title: Wooden Pig
+    Petrified sailors, petrified sea. Petrified pigs in wooden mud. No clocks tock,
+    and all is still. Close the wooden shutters.'
+  title: Wooden Pig
+word_count: 102

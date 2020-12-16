@@ -1,12 +1,45 @@
-date: 2011-11-16
-id: 2011-11-16-magnetic-cows
-text: Many thanks to Salim Fadhley for drawing to my attention this whole flapdoodle
-  about magnetically aligned cows. Personally, I have always been convinced of the
-  unbreakable link between cows and magnetism, ever since an episode in a field during
-  a picnic when I was a child. The memory grows dim, for I was but tiny, but magnets
-  and cows were both involved, inextricably, I think. My father, too, and one of my
-  sisters, and a priest who had joined us for the picnic, clad in his black soutane,
-  but non-magnetic. If I could recall the exact date I could check the weather conditions
-  pertaining at the time, if, that is, I could remember precisely where we were, at
-  picnic, near cows, and magnets.
-title: Magnetic Cows
+ngrams:
+- - weather
+  - conditions
+  - pertaining
+- - memory
+  - grows
+  - dim
+- - magnetically
+  - aligned
+  - cows
+- - aligned
+  - cows
+  - personally
+- - unbreakable
+  - link
+  - between
+- - both
+  - involved
+  - inextricably
+- - picnic
+  - near
+  - cows
+- - link
+  - between
+  - cows
+- - magnetism
+  - ever
+  - since
+- - magnetic
+  - cows
+  - many
+story:
+  date: 2011-11-16
+  id: 2011-11-16-magnetic-cows
+  text: Many thanks to Salim Fadhley for drawing to my attention this whole flapdoodle
+    about magnetically aligned cows. Personally, I have always been convinced of the
+    unbreakable link between cows and magnetism, ever since an episode in a field
+    during a picnic when I was a child. The memory grows dim, for I was but tiny,
+    but magnets and cows were both involved, inextricably, I think. My father, too,
+    and one of my sisters, and a priest who had joined us for the picnic, clad in
+    his black soutane, but non-magnetic. If I could recall the exact date I could
+    check the weather conditions pertaining at the time, if, that is, I could remember
+    precisely where we were, at picnic, near cows, and magnets.
+  title: Magnetic Cows
+word_count: 125

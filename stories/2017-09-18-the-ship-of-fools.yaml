@@ -1,7 +1,19 @@
-date: 2017-09-18
-id: 2017-09-18-the-ship-of-fools
-text: 'A drawing which originally served as the cover of one of the ReR Quarterly
-  magazines towards the end of the last century.
+ngrams:
+- - rer
+  - quarterly
+  - magazines
+- - quarterly
+  - magazines
+  - towards
+- - which
+  - originally
+  - served
+story:
+  date: 2017-09-18
+  id: 2017-09-18-the-ship-of-fools
+  text: 'A drawing which originally served as the cover of one of the ReR Quarterly
+    magazines towards the end of the last century.
 
-  '
-title: The Ship Of Fools
+    '
+  title: The Ship Of Fools
+word_count: 26

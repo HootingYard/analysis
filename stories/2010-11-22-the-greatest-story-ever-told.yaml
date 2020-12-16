@@ -1,14 +1,54 @@
-date: 2010-11-22
-id: 2010-11-22-the-greatest-story-ever-told
-text: 'I must apologise for the dearth of decisive prose at Hooting Yard over the
-  last while. At first I attributed the absence of fizzing sparks in my cranium to
-  my becoming enwrapped in M P Shiel, but I am beginning to think there is another
-  cause. My mind is haunted, haunted I tell you!, by the image of those friendly porpoises
-  pushing octogenarian surfboard man Dick Van Dyke safely to shore from his imperilment
-  upon the sea. Is there any other subject worthy of the attentions of the writer
-  of today? I think not. But then, how to treat, in mere prose, an incident that seems
-  to me more and more numinous and mythic?
+ngrams:
+- - pushing
+  - octogenarian
+  - surfboard
+- - friendly
+  - porpoises
+  - pushing
+- - porpoises
+  - pushing
+  - octogenarian
+- - dick
+  - van
+  - dyke
+- - van
+  - dyke
+  - safely
+- - m
+  - p
+  - shiel
+- - octogenarian
+  - surfboard
+  - man
+- - surfboard
+  - man
+  - dick
+- - those
+  - friendly
+  - porpoises
+- - greatest
+  - story
+  - ever
+- - greatest
+  - story
+  - ever
+- - man
+  - dick
+  - van
+story:
+  date: 2010-11-22
+  id: 2010-11-22-the-greatest-story-ever-told
+  text: 'I must apologise for the dearth of decisive prose at Hooting Yard over the
+    last while. At first I attributed the absence of fizzing sparks in my cranium
+    to my becoming enwrapped in M P Shiel, but I am beginning to think there is another
+    cause. My mind is haunted, haunted I tell you!, by the image of those friendly
+    porpoises pushing octogenarian surfboard man Dick Van Dyke safely to shore from
+    his imperilment upon the sea. Is there any other subject worthy of the attentions
+    of the writer of today? I think not. But then, how to treat, in mere prose, an
+    incident that seems to me more and more numinous and mythic?
 
-  No doubt I will shake off this sluggishness and return to the fray, but right now
-  I feel hampered by my sheer inability to do justice to The Greatest Story Ever Told.'
-title: The Greatest Story Ever Told
+    No doubt I will shake off this sluggishness and return to the fray, but right
+    now I feel hampered by my sheer inability to do justice to The Greatest Story
+    Ever Told.'
+  title: The Greatest Story Ever Told
+word_count: 151

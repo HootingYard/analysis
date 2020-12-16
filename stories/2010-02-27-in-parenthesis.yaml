@@ -1,11 +1,38 @@
-date: 2010-02-27
-id: 2010-02-27-in-parenthesis
-text: "The greatest parenthesis in literature has already been written, and will never\
-  \ be improved upon. It is from Lolita, where Nabokov writes: \u201CMy very photogenic\
-  \ mother died in a freak accident (picnic, lightning) when I was three.\u201D\n\
-  But one must always be on the lookout for superb phrases, or complete sentences,\
-  \ in parentheses, and there is a fine example in today's Guardian. Into her review\
-  \ of The Woman Who Shot Mussolini by Frances Stonor Saunders, Lucy Hughes-Hallett\
-  \ drops this marvel: \u201C(Rumour had it he kept a tortoise in his sporran.)\u201D\
-  \n(One day I must set to work on an anthology of great parentheses.)"
-title: In Parenthesis
+ngrams:
+- - stonor
+  - saunders
+  - lucy
+- - saunders
+  - lucy
+  - hughes-hallett
+- - frances
+  - stonor
+  - saunders
+- - lucy
+  - hughes-hallett
+  - drops
+- - freak
+  - accident
+  - picnic
+- - photogenic
+  - mother
+  - died
+- - accident
+  - picnic
+  - lightning
+- - very
+  - photogenic
+  - mother
+story:
+  date: 2010-02-27
+  id: 2010-02-27-in-parenthesis
+  text: "The greatest parenthesis in literature has already been written, and will\
+    \ never be improved upon. It is from Lolita, where Nabokov writes: \u201CMy very\
+    \ photogenic mother died in a freak accident (picnic, lightning) when I was three.\u201D\
+    \nBut one must always be on the lookout for superb phrases, or complete sentences,\
+    \ in parentheses, and there is a fine example in today's Guardian. Into her review\
+    \ of The Woman Who Shot Mussolini by Frances Stonor Saunders, Lucy Hughes-Hallett\
+    \ drops this marvel: \u201C(Rumour had it he kept a tortoise in his sporran.)\u201D\
+    \n(One day I must set to work on an anthology of great parentheses.)"
+  title: In Parenthesis
+word_count: 106

@@ -1,7 +1,22 @@
-date: 2016-08-21
-id: 2016-08-21-in-dubrovnik
-text: "Learning that the cathedral in Dubrovnik houses a holy relic of Christ's nappy\
-  \ inspired me to write the first verse of a brand new Christmas carol.\nBaby Jesus\n\
-  \  You make me happy\n  In Dubrovnik\n  They've got your nappy\nReaders may wish\
-  \ to add further verses in the Comments."
-title: In Dubrovnik
+ngrams:
+- - carol
+  - baby
+  - jesus
+- - christmas
+  - carol
+  - baby
+- - add
+  - further
+  - verses
+- - new
+  - christmas
+  - carol
+story:
+  date: 2016-08-21
+  id: 2016-08-21-in-dubrovnik
+  text: "Learning that the cathedral in Dubrovnik houses a holy relic of Christ's\
+    \ nappy inspired me to write the first verse of a brand new Christmas carol.\n\
+    Baby Jesus\n  You make me happy\n  In Dubrovnik\n  They've got your nappy\nReaders\
+    \ may wish to add further verses in the Comments."
+  title: In Dubrovnik
+word_count: 52

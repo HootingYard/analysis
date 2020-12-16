@@ -1,7 +1,19 @@
-date: 2013-12-27
-id: 2013-12-27-king-wenceslas
-text: '
+ngrams:
+- - super
+  - soaraway
+  - dabbler
+- - traditional
+  - christmas
+  - story
+- - king
+  - wenceslas
+  - over
+story:
+  date: 2013-12-27
+  id: 2013-12-27-king-wenceslas
+  text: '
 
-  Over at the super soaraway Dabbler there is a traditional Christmas story in Key''s
-  cupboard.'
-title: King Wenceslas
+    Over at the super soaraway Dabbler there is a traditional Christmas story in Key''s
+    cupboard.'
+  title: King Wenceslas
+word_count: 18

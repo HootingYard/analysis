@@ -1,6 +1,18 @@
-date: 2011-06-16
-id: 2011-06-16-spookpod
-text: 'Further Spookiness At South Mimms
+ngrams:
+- - spookpod
+  - further
+  - spookiness
+- - spookiness
+  - at
+  - south
+- - at
+  - south
+  - mimms
+story:
+  date: 2011-06-16
+  id: 2011-06-16-spookpod
+  text: 'Further Spookiness At South Mimms
 
-  '
-title: Spookpod
+    '
+  title: Spookpod
+word_count: 6

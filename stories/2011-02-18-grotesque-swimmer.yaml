@@ -1,7 +1,19 @@
-date: 2011-02-18
-id: 2011-02-18-grotesque-swimmer
-text: '
+ngrams:
+- - grotesque
+  - swimmer
+  - thanks
+- - to
+  - elsie
+  - schrotthaufen
+- - swimmer
+  - thanks
+  - to
+story:
+  date: 2011-02-18
+  id: 2011-02-18-grotesque-swimmer
+  text: '
 
 
-  Thanks to Elsie Schrotthaufen'
-title: Grotesque Swimmer
+    Thanks to Elsie Schrotthaufen'
+  title: Grotesque Swimmer
+word_count: 6

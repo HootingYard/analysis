@@ -1,6 +1,19 @@
-date: 2014-06-24
-id: 2014-06-24-pigs-and-plums
-text: "I am indebted to Richard Carter for drawing to my attention this snapshot from\
-  \ the Tweeting account of Andrew Ray (@Some_landscapes). Mr Ray has been reading\
-  \ News from the English Countryside 1750\u20131850 compiled by Clifford Morsley:\n"
-title: Pigs (And Plums)
+ngrams:
+- - english
+  - countryside
+  - compiled
+- - landscapes
+  - mr
+  - ray
+- - ray
+  - some
+  - landscapes
+story:
+  date: 2014-06-24
+  id: 2014-06-24-pigs-and-plums
+  text: "I am indebted to Richard Carter for drawing to my attention this snapshot\
+    \ from the Tweeting account of Andrew Ray (@Some_landscapes). Mr Ray has been\
+    \ reading News from the English Countryside 1750\u20131850 compiled by Clifford\
+    \ Morsley:\n"
+  title: Pigs (And Plums)
+word_count: 39

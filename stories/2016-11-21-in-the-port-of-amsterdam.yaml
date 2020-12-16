@@ -1,9 +1,30 @@
-date: 2016-11-21
-id: 2016-11-21-in-the-port-of-amsterdam
-text: "I am determined to get Hooting Yard back on track from this unconscionable\
-  \ hiatus, and I have some exciting doo-dah to tell you about Dobson and Istvan and\
-  \ Zoltan. Unfortunately, my energy levels are barely above those of a comatose patient\
-  \ etherised upon a table. In spite of this, I am heading off to Amsterdam for a\
-  \ few days in hope of revivification. I shall sit next to a canal and strive for\
-  \ renewed perkiness. Back soon \u2026"
-title: In The Port Of Amsterdam
+ngrams:
+- - comatose
+  - patient
+  - etherised
+- - renewed
+  - perkiness
+  - back
+- - shall
+  - sit
+  - next
+- - perkiness
+  - back
+  - soon
+- - barely
+  - above
+  - those
+- - patient
+  - etherised
+  - upon
+story:
+  date: 2016-11-21
+  id: 2016-11-21-in-the-port-of-amsterdam
+  text: "I am determined to get Hooting Yard back on track from this unconscionable\
+    \ hiatus, and I have some exciting doo-dah to tell you about Dobson and Istvan\
+    \ and Zoltan. Unfortunately, my energy levels are barely above those of a comatose\
+    \ patient etherised upon a table. In spite of this, I am heading off to Amsterdam\
+    \ for a few days in hope of revivification. I shall sit next to a canal and strive\
+    \ for renewed perkiness. Back soon \u2026"
+  title: In The Port Of Amsterdam
+word_count: 82

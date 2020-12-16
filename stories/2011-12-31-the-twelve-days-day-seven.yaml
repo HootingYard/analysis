@@ -1,18 +1,30 @@
-date: 2011-12-31
-id: 2011-12-31-the-twelve-days-day-seven
-text: 'On the seventh day of Christmas, Old Halob gave to me
+ngrams:
+- - hideous
+  - bat-gods
+  - ectoplasm
+- - seven
+  - mordant
+  - herons
+- - mordant
+  - herons
+  - six
+story:
+  date: 2011-12-31
+  id: 2011-12-31-the-twelve-days-day-seven
+  text: 'On the seventh day of Christmas, Old Halob gave to me
 
-  Seven mordant herons,
+    Seven mordant herons,
 
-  Six hideous bat-gods,
+    Six hideous bat-gods,
 
-  Ectoplasm!
+    Ectoplasm!
 
-  Four dead chaffinches,
+    Four dead chaffinches,
 
-  Three poptarts,
+    Three poptarts,
 
-  Two cardboard pigs,
+    Two cardboard pigs,
 
-  And a viper, a shrew, and a bee.'
-title: "The Twelve Days\_: Day Seven"
+    And a viper, a shrew, and a bee.'
+  title: "The Twelve Days\_: Day Seven"
+word_count: 39

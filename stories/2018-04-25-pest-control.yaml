@@ -1,7 +1,19 @@
-date: 2018-04-25
-id: 2018-04-25-pest-control
-text: I'm afraid the maleficent cyberpests are still lurking within the innards of
-  your favourite website. It is hoped to obliterate them with extreme prejudice this
-  coming weekend. Meanwhile, I am reluctant to post anything new until the problem
-  has been sorted out.
-title: Pest Control
+ngrams:
+- - coming
+  - weekend
+  - meanwhile
+- - still
+  - lurking
+  - within
+- - post
+  - anything
+  - new
+story:
+  date: 2018-04-25
+  id: 2018-04-25-pest-control
+  text: I'm afraid the maleficent cyberpests are still lurking within the innards
+    of your favourite website. It is hoped to obliterate them with extreme prejudice
+    this coming weekend. Meanwhile, I am reluctant to post anything new until the
+    problem has been sorted out.
+  title: Pest Control
+word_count: 45

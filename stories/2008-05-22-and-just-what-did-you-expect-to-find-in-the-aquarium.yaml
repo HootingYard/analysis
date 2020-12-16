@@ -1,7 +1,25 @@
-date: 2008-05-22
-id: 2008-05-22-and-just-what-did-you-expect-to-find-in-the-aquarium
-text: "Yesterday's Guardian reported on the trip to London made by alleged bomb plotter\
-  \ Waheed Ali in December 2004. He claimed that on the second day he and others visited\
-  \ the London Eye and the London Aquarium. Of the latter, he said: \u201CI'd give\
-  \ it one out of ten. It was just fish swimming around.\u201D"
-title: And Just What Did You Expect To Find In The Aquarium?
+ngrams:
+- - plotter
+  - waheed
+  - ali
+- - bomb
+  - plotter
+  - waheed
+- - alleged
+  - bomb
+  - plotter
+- - fish
+  - swimming
+  - around
+- - just
+  - fish
+  - swimming
+story:
+  date: 2008-05-22
+  id: 2008-05-22-and-just-what-did-you-expect-to-find-in-the-aquarium
+  text: "Yesterday's Guardian reported on the trip to London made by alleged bomb\
+    \ plotter Waheed Ali in December 2004. He claimed that on the second day he and\
+    \ others visited the London Eye and the London Aquarium. Of the latter, he said:\
+    \ \u201CI'd give it one out of ten. It was just fish swimming around.\u201D"
+  title: And Just What Did You Expect To Find In The Aquarium?
+word_count: 66

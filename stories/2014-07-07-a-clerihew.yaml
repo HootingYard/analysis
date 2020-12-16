@@ -1,6 +1,18 @@
-date: 2014-07-07
-id: 2014-07-07-a-clerihew
-text: "A little belated, but here is a topical clerihew:\nYasmin Alibhai-Brown\n \
-  \ Was a columnist of some renown\n  But it was a TV appearance, rather than something\
-  \ she wrote,\n  That prompted Michael Fabricant to want to punch her in the throat."
-title: A Clerihew
+ngrams:
+- - clerihew
+  - yasmin
+  - alibhai-brown
+- - topical
+  - clerihew
+  - yasmin
+- - prompted
+  - michael
+  - fabricant
+story:
+  date: 2014-07-07
+  id: 2014-07-07-a-clerihew
+  text: "A little belated, but here is a topical clerihew:\nYasmin Alibhai-Brown\n\
+    \  Was a columnist of some renown\n  But it was a TV appearance, rather than something\
+    \ she wrote,\n  That prompted Michael Fabricant to want to punch her in the throat."
+  title: A Clerihew
+word_count: 42

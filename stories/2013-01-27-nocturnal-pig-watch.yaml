@@ -1,7 +1,19 @@
-date: 2013-01-27
-id: 2013-01-27-nocturnal-pig-watch
-text: 'At dead of night, out on the cold bleak desolate windswept moors, there was
-  only one thing to do. . .
+ngrams:
+- - desolate
+  - windswept
+  - moors
+- - bleak
+  - desolate
+  - windswept
+- - cold
+  - bleak
+  - desolate
+story:
+  date: 2013-01-27
+  id: 2013-01-27-nocturnal-pig-watch
+  text: 'At dead of night, out on the cold bleak desolate windswept moors, there was
+    only one thing to do. . .
 
-  '
-title: Nocturnal Pig Watch
+    '
+  title: Nocturnal Pig Watch
+word_count: 22

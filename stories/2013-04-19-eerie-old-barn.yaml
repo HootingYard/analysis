@@ -1,7 +1,23 @@
-date: 2013-04-19
-id: 2013-04-19-eerie-old-barn
-text: "Eerie old barn, wherein I lay sprawled,\n  The farm that it stands on, what\
-  \ is it called?\n  It goes by the name of Scroonhoonpooge Farmyard.\n  There, you\
-  \ see, that was not so hard.\n  But other questions we might raise\n  In these squalid,\
-  \ sordid days\n  In this eerie barn of woe\n  Have answers we will never know."
-title: Eerie Old Barn
+ngrams:
+- - squalid
+  - sordid
+  - days
+- - these
+  - squalid
+  - sordid
+- - old
+  - barn
+  - wherein
+- - eerie
+  - old
+  - barn
+story:
+  date: 2013-04-19
+  id: 2013-04-19-eerie-old-barn
+  text: "Eerie old barn, wherein I lay sprawled,\n  The farm that it stands on, what\
+    \ is it called?\n  It goes by the name of Scroonhoonpooge Farmyard.\n  There,\
+    \ you see, that was not so hard.\n  But other questions we might raise\n  In these\
+    \ squalid, sordid days\n  In this eerie barn of woe\n  Have answers we will never\
+    \ know."
+  title: Eerie Old Barn
+word_count: 59

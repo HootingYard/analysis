@@ -1,7 +1,22 @@
-date: 2013-03-20
-id: 2013-03-20-milk-film-still
-text: "Here is a still from the film adaptation of Pebblehead's The Stupid Milk. In\
-  \ this shot, one glass tumbler contains normal milk, and the other\u2014eek!\u2014\
-  contains the stupid milk. But which is which? You will have to see the film to find\
-  \ out.\n"
-title: Milk Film Still
+ngrams:
+- - tumbler
+  - contains
+  - normal
+- - glass
+  - tumbler
+  - contains
+- - contains
+  - normal
+  - milk
+- - milk
+  - film
+  - still
+story:
+  date: 2013-03-20
+  id: 2013-03-20-milk-film-still
+  text: "Here is a still from the film adaptation of Pebblehead's The Stupid Milk.\
+    \ In this shot, one glass tumbler contains normal milk, and the other\u2014eek!\u2014\
+    contains the stupid milk. But which is which? You will have to see the film to\
+    \ find out.\n"
+  title: Milk Film Still
+word_count: 48

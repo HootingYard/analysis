@@ -1,9 +1,22 @@
-date: 2008-11-19
-id: 2008-11-19-a-few-owls
-text: 'Eared. Earless. Horned. Saw-whet. Eagle. Mindanao eagle. Fish. Pygmy. Bare-legged.
-  Maned. Crested. Elf. Scops. Giant scops. Jamaican. Caribbean giant. Australasian
-  hawk. Papuan hawk. Northern hawk. Palau. Mascarene. Long-whiskered. Laughing. White-faced.
-  Spectacled. Striped. Stilt. Fearful. Screech. Cuban screech. Tawny. Barn.
+ngrams:
+- - palau
+  - mascarene
+  - long-whiskered
+- - pygmy
+  - bare-legged
+  - maned
+- - bare-legged
+  - maned
+  - crested
+story:
+  date: 2008-11-19
+  id: 2008-11-19-a-few-owls
+  text: 'Eared. Earless. Horned. Saw-whet. Eagle. Mindanao eagle. Fish. Pygmy. Bare-legged.
+    Maned. Crested. Elf. Scops. Giant scops. Jamaican. Caribbean giant. Australasian
+    hawk. Papuan hawk. Northern hawk. Palau. Mascarene. Long-whiskered. Laughing.
+    White-faced. Spectacled. Striped. Stilt. Fearful. Screech. Cuban screech. Tawny.
+    Barn.
 
-  Memorise, and repeat.'
-title: A Few Owls
+    Memorise, and repeat.'
+  title: A Few Owls
+word_count: 45

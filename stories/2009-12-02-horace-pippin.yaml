@@ -1,6 +1,18 @@
-date: 2009-12-02
-id: 2009-12-02-horace-pippin
-text: '
+ngrams:
+- - horace
+  - pippin
+  - lots
+- - pippin
+  - lots
+  - more
+- - lots
+  - more
+  - here
+story:
+  date: 2009-12-02
+  id: 2009-12-02-horace-pippin
+  text: '
 
-  Lots more here.'
-title: Horace Pippin
+    Lots more here.'
+  title: Horace Pippin
+word_count: 5

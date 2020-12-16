@@ -1,7 +1,19 @@
-date: 2010-09-05
-id: 2010-09-05-important-poultry-publication
-text: '
+ngrams:
+- - poultry
+  - publication
+  - via
+- - via
+  - mark
+  - pack
+- - publication
+  - via
+  - mark
+story:
+  date: 2010-09-05
+  id: 2010-09-05-important-poultry-publication
+  text: '
 
-  Via Mark Pack, who has some useful information about the contents. Many thanks to
-  Gaw for drawing it to my attention.'
-title: Important Poultry Publication
+    Via Mark Pack, who has some useful information about the contents. Many thanks
+    to Gaw for drawing it to my attention.'
+  title: Important Poultry Publication
+word_count: 24

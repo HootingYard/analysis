@@ -1,4 +1,16 @@
-date: 2010-03-04
-id: 2010-03-04-books-i-havent-read-no-2
-text: ''
-title: Books I Haven't Read, No. 2
+ngrams:
+- - haven
+  - t
+  - read
+- - t
+  - read
+  - 'no'
+- - books
+  - i
+  - haven
+story:
+  date: 2010-03-04
+  id: 2010-03-04-books-i-havent-read-no-2
+  text: ''
+  title: Books I Haven't Read, No. 2
+word_count: 6

@@ -1,10 +1,22 @@
-date: 2015-04-19
-id: 2015-04-19-dogs-vultures-bats-pods
-text: 'While I continue my titanic struggle against an attack of Not-Updating-Hooting-Yard
-  Syndrome, here, as a sop to you lot, is a brand new podcast from those lovely people
-  at ResonanceFM.
+ngrams:
+- - vultures
+  - bats
+  - pods
+- - resonancefm
+  - dogs
+  - vultures
+- - dogs
+  - vultures
+  - bats
+story:
+  date: 2015-04-19
+  id: 2015-04-19-dogs-vultures-bats-pods
+  text: 'While I continue my titanic struggle against an attack of Not-Updating-Hooting-Yard
+    Syndrome, here, as a sop to you lot, is a brand new podcast from those lovely
+    people at ResonanceFM.
 
-  Dogs, Vultures, Bats
+    Dogs, Vultures, Bats
 
-  '
-title: Dogs, Vultures, Bats, Pods
+    '
+  title: Dogs, Vultures, Bats, Pods
+word_count: 37

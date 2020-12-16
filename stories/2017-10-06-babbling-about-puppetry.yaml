@@ -1,9 +1,30 @@
-date: 2017-10-06
-id: 2017-10-06-babbling-about-puppetry
-text: "\nListen here\_to yesterday's edition of Hooting Yard On The Air which devotes\
-  \ much time to puppets, both shadow- and glove-, neither of which are usually found\
-  \ on the radio, for obvious reasons. The show includes rather ramshackle recitations\
-  \ of From The Mountains To The Sea, A Family Of Goatherds Unparalleled In Their\
-  \ Rapacity, Two Sparrows, A Person Of Unhinged Mien, Tuesday Weld Goes Berserk,\
-  \ and New Verse By Dennis Beerpint."
-title: Babbling About Puppetry
+ngrams:
+- - unhinged
+  - mien
+  - tuesday
+- - mien
+  - tuesday
+  - weld
+- - weld
+  - goes
+  - berserk
+- - tuesday
+  - weld
+  - goes
+- - puppets
+  - both
+  - shadow-
+- - rather
+  - ramshackle
+  - recitations
+story:
+  date: 2017-10-06
+  id: 2017-10-06-babbling-about-puppetry
+  text: "\nListen here\_to yesterday's edition of Hooting Yard On The Air which devotes\
+    \ much time to puppets, both shadow- and glove-, neither of which are usually\
+    \ found on the radio, for obvious reasons. The show includes rather ramshackle\
+    \ recitations of From The Mountains To The Sea, A Family Of Goatherds Unparalleled\
+    \ In Their Rapacity, Two Sparrows, A Person Of Unhinged Mien, Tuesday Weld Goes\
+    \ Berserk, and New Verse By Dennis Beerpint."
+  title: Babbling About Puppetry
+word_count: 75

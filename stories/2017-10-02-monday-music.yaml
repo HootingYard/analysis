@@ -1,7 +1,19 @@
-date: 2017-10-02
-id: 2017-10-02-monday-music
-text: "\u201CSeasons\u201D by Future Islands. I picked this not so much for the music\
-  \ as for the, er, idiosyncratic performance by singer Stanley Kowalski\u2014sorry,\
-  \ I mean Samuel T. Herring. At 3:28 he executes an almost perfect impersonation\
-  \ of the Grunty Man."
-title: Monday Music
+ngrams:
+- - singer
+  - stanley
+  - kowalski
+- - stanley
+  - kowalski
+  - sorry
+- - er
+  - idiosyncratic
+  - performance
+story:
+  date: 2017-10-02
+  id: 2017-10-02-monday-music
+  text: "\u201CSeasons\u201D by Future Islands. I picked this not so much for the\
+    \ music as for the, er, idiosyncratic performance by singer Stanley Kowalski\u2014\
+    sorry, I mean Samuel T. Herring. At 3:28 he executes an almost perfect impersonation\
+    \ of the Grunty Man."
+  title: Monday Music
+word_count: 42

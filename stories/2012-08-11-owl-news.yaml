@@ -1,6 +1,18 @@
-date: 2012-08-11
-id: 2012-08-11-owl-news
-text: 'Elsie Schrotthaufen discovers a superb book by Mary Frances Strong.
+ngrams:
+- - elsie
+  - schrotthaufen
+  - discovers
+- - mary
+  - frances
+  - strong
+- - news
+  - elsie
+  - schrotthaufen
+story:
+  date: 2012-08-11
+  id: 2012-08-11-owl-news
+  text: 'Elsie Schrotthaufen discovers a superb book by Mary Frances Strong.
 
-  '
-title: Owl News
+    '
+  title: Owl News
+word_count: 12

@@ -1,6 +1,18 @@
-date: 2009-12-23
-id: 2009-12-23-a-burning-goat-in-the-north
-text: Good heavens!, or, as it might be, Lumme guvnor, what a turn up, eh? I fear
-  we must conclude that Swedish civic officials are peculiarly inept in the matter
-  of yellow straw goat safety measures.
-title: A Burning Goat In The North
+ngrams:
+- - swedish
+  - civic
+  - officials
+- - goat
+  - safety
+  - measures
+- - straw
+  - goat
+  - safety
+story:
+  date: 2009-12-23
+  id: 2009-12-23-a-burning-goat-in-the-north
+  text: Good heavens!, or, as it might be, Lumme guvnor, what a turn up, eh? I fear
+    we must conclude that Swedish civic officials are peculiarly inept in the matter
+    of yellow straw goat safety measures.
+  title: A Burning Goat In The North
+word_count: 41

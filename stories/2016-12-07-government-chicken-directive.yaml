@@ -1,8 +1,30 @@
-date: 2016-12-07
-id: 2016-12-07-government-chicken-directive
-text: "I learn from the BBC that chickens are to be kept indoors to create a Bird-Flu-Free-Zone.\
-  \ This prompts a little song we can all sing as we round up our chickens (if we\
-  \ have any):\nBring in your chickens!\n  It's Indoor Poultry Week.\n  Pop your chicken\
-  \ on the couch\n  And pat its little beak.\nApparently we should also be on the\
-  \ lookout for dead or debilitated swans, and report any sightings to the police."
-title: Government Chicken Directive
+ngrams:
+- - government
+  - chicken
+  - directive
+- - indoor
+  - poultry
+  - week
+- - poultry
+  - week
+  - pop
+- - little
+  - beak
+  - apparently
+- - report
+  - any
+  - sightings
+- - pat
+  - its
+  - little
+story:
+  date: 2016-12-07
+  id: 2016-12-07-government-chicken-directive
+  text: "I learn from the BBC that chickens are to be kept indoors to create a Bird-Flu-Free-Zone.\
+    \ This prompts a little song we can all sing as we round up our chickens (if we\
+    \ have any):\nBring in your chickens!\n  It's Indoor Poultry Week.\n  Pop your\
+    \ chicken on the couch\n  And pat its little beak.\nApparently we should also\
+    \ be on the lookout for dead or debilitated swans, and report any sightings to\
+    \ the police."
+  title: Government Chicken Directive
+word_count: 78

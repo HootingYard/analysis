@@ -1,10 +1,22 @@
-date: 2018-10-04
-id: 2018-10-04-books-read-in-1982-xiii-xviii
-text: '
+ngrams:
+- - in
+  - xiii
+  - xviii
+- - read
+  - in
+  - xiii
+- - books
+  - read
+  - in
+story:
+  date: 2018-10-04
+  id: 2018-10-04-books-read-in-1982-xiii-xviii
+  text: '
 
 
 
 
 
-  '
-title: "Books Read In 1982 (xiii\u2014xviii)"
+    '
+  title: "Books Read In 1982 (xiii\u2014xviii)"
+word_count: 5

@@ -1,9 +1,21 @@
-date: 2012-07-27
-id: 2012-07-27-fifty-shades-of-dabbling
-text: '
+ngrams:
+- - steve
+  - bruce
+  - collide
+- - e
+  - l
+  - james
+- - when
+  - e
+  - l
+story:
+  date: 2012-07-27
+  id: 2012-07-27-fifty-shades-of-dabbling
+  text: '
 
-  Over in my cupboard at The Dabbler, find out what happens when E L James and Steve
-  Bruce collide!
+    Over in my cupboard at The Dabbler, find out what happens when E L James and Steve
+    Bruce collide!
 
-  '
-title: Fifty Shades Of Dabbling
+    '
+  title: Fifty Shades Of Dabbling
+word_count: 23

@@ -1,6 +1,18 @@
-date: 2011-03-08
-id: 2011-03-08-one-fine-morning-on-blister-lane
-text: '
+ngrams:
+- - wholly
+  - sensible
+  - snap
+- - one
+  - fine
+  - morning
+- - sensible
+  - snap
+  - from
+story:
+  date: 2011-03-08
+  id: 2011-03-08-one-fine-morning-on-blister-lane
+  text: '
 
-  A wholly sensible snap from The Pavilion Of Innocent Pastimes'
-title: One Fine Morning On Blister Lane
+    A wholly sensible snap from The Pavilion Of Innocent Pastimes'
+  title: One Fine Morning On Blister Lane
+word_count: 16

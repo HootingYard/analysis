@@ -1,6 +1,18 @@
-date: 2013-01-16
-id: 2013-01-16-the-breadcrumbs-pod
-text: 'The Breadcrumbs Man
+ngrams:
+- - the
+  - breadcrumbs
+  - pod
+- - breadcrumbs
+  - pod
+  - the
+- - pod
+  - the
+  - breadcrumbs
+story:
+  date: 2013-01-16
+  id: 2013-01-16-the-breadcrumbs-pod
+  text: 'The Breadcrumbs Man
 
-  '
-title: The Breadcrumbs Pod
+    '
+  title: The Breadcrumbs Pod
+word_count: 6

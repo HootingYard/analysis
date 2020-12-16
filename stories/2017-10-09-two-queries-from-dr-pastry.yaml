@@ -1,13 +1,49 @@
-date: 2017-10-09
-id: 2017-10-09-two-queries-from-dr-pastry
-text: "Ahoy there, Mr Key!, writes Dr Ruth Pastry, I very much enjoyed reading your\
-  \ piece Unspeakable. For me, the thunderclap moment was the mention of the cravatteuse's\
-  \ dog. I am sure I cannot be alone among your readers in hankering for more dog-detail.\
-  \ Would you, for example, be in possession of a picture of this fabled canine?\n\
-  On another matter, with reference to your piece Hendiadys In Mudchute, am I correct\
-  \ in thinking that there is a figure of speech, or it might be a disease of poultry,\
-  \ called chickendiadys?\nI look forward to hearing from you regarding both these\
-  \ riveting topics.\nIn answer to Dr Pastry's queries, the one about the dog being\
-  \ (A) and the one about the chicken being (B), my responses are:\n\n(A) Yes\_\n\
-  \    and (B) No."
-title: Two Queries From Dr Pastry
+ngrams:
+- - dr
+  - pastry
+  - ahoy
+- - dr
+  - ruth
+  - pastry
+- - writes
+  - dr
+  - ruth
+- - poultry
+  - called
+  - chickendiadys
+- - key
+  - writes
+  - dr
+- - these
+  - riveting
+  - topics
+- - chicken
+  - being
+  - b
+- - much
+  - enjoyed
+  - reading
+- - both
+  - these
+  - riveting
+- - mr
+  - key
+  - writes
+- - regarding
+  - both
+  - these
+story:
+  date: 2017-10-09
+  id: 2017-10-09-two-queries-from-dr-pastry
+  text: "Ahoy there, Mr Key!, writes Dr Ruth Pastry, I very much enjoyed reading your\
+    \ piece Unspeakable. For me, the thunderclap moment was the mention of the cravatteuse's\
+    \ dog. I am sure I cannot be alone among your readers in hankering for more dog-detail.\
+    \ Would you, for example, be in possession of a picture of this fabled canine?\n\
+    On another matter, with reference to your piece Hendiadys In Mudchute, am I correct\
+    \ in thinking that there is a figure of speech, or it might be a disease of poultry,\
+    \ called chickendiadys?\nI look forward to hearing from you regarding both these\
+    \ riveting topics.\nIn answer to Dr Pastry's queries, the one about the dog being\
+    \ (A) and the one about the chicken being (B), my responses are:\n\n(A) Yes\_\n\
+    \    and (B) No."
+  title: Two Queries From Dr Pastry
+word_count: 138

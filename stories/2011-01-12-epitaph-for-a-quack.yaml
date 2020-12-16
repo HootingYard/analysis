@@ -1,15 +1,58 @@
-date: 2011-01-12
-id: 2011-01-12-epitaph-for-a-quack
-text: "Over at The Dabbler, Gaw has been taking a stroll through the \u201Ctended\
-  \ decadence\u201D of Abney Park Cemetery, prompting Nige to recall a fine gravestone\
-  \ epitaph in his local churchyard. Which in turn prompts me to recall one of my\
-  \ own favourite epitaphs, that of the quack doctor Lionel Lockyer (1600\u20131672),\
-  \ whose miracle pills included sunbeams among their ingredients, in Southwark Cathedral:\n\
-  Here Lockyer; lies interr'd enough; his name\nSpeakes one hath few competitors in\
-  \ fame;\nA name soe Great, soe Generall't may scorne\nInscriptions whch doe vulgar\
-  \ tombs adorne.\nA diminution 'tis to write in verse\nHis eulogies whch most mens\
-  \ mouths rehearse.\nHis virtues and his PILLS are soe well known..\nThat envy can't\
-  \ confine them vnder stone.\nBut they'll survive his dust and not expire\nTill all\
-  \ things else at th'universall fire.\nThis verse is lost, his PILL Embalmes him\
-  \ safe\nTo future times without an Epitaph\n\nPhoto courtesy of Nick Garrod"
-title: Epitaph For A Quack
+ngrams:
+- - scorne
+  - inscriptions
+  - whch
+- - inscriptions
+  - whch
+  - doe
+- - whch
+  - doe
+  - vulgar
+- - vulgar
+  - tombs
+  - adorne
+- - doe
+  - vulgar
+  - tombs
+- - mens
+  - mouths
+  - rehearse
+- - cemetery
+  - prompting
+  - nige
+- - epitaph
+  - photo
+  - courtesy
+- - lockyer
+  - lies
+  - interr
+- - pills
+  - included
+  - sunbeams
+- - doctor
+  - lionel
+  - lockyer
+- - miracle
+  - pills
+  - included
+- - quack
+  - doctor
+  - lionel
+story:
+  date: 2011-01-12
+  id: 2011-01-12-epitaph-for-a-quack
+  text: "Over at The Dabbler, Gaw has been taking a stroll through the \u201Ctended\
+    \ decadence\u201D of Abney Park Cemetery, prompting Nige to recall a fine gravestone\
+    \ epitaph in his local churchyard. Which in turn prompts me to recall one of my\
+    \ own favourite epitaphs, that of the quack doctor Lionel Lockyer (1600\u2013\
+    1672), whose miracle pills included sunbeams among their ingredients, in Southwark\
+    \ Cathedral:\nHere Lockyer; lies interr'd enough; his name\nSpeakes one hath few\
+    \ competitors in fame;\nA name soe Great, soe Generall't may scorne\nInscriptions\
+    \ whch doe vulgar tombs adorne.\nA diminution 'tis to write in verse\nHis eulogies\
+    \ whch most mens mouths rehearse.\nHis virtues and his PILLS are soe well known..\n\
+    That envy can't confine them vnder stone.\nBut they'll survive his dust and not\
+    \ expire\nTill all things else at th'universall fire.\nThis verse is lost, his\
+    \ PILL Embalmes him safe\nTo future times without an Epitaph\n\nPhoto courtesy\
+    \ of Nick Garrod"
+  title: Epitaph For A Quack
+word_count: 163

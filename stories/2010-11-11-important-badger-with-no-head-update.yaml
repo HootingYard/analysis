@@ -1,11 +1,29 @@
-date: 2010-11-11
-id: 2010-11-11-important-badger-with-no-head-update
-text: 'On Sunday, you will recall, I expressed the hope that Samuel Wesley''s haunting
-  by an apparition of a badger with no head would inspire Bob Drake to craft a song.
-  And lo! it came to pass.
+ngrams:
+- - inspire
+  - bob
+  - drake
+- - bob
+  - delicately
+  - wrenching
+- - would
+  - inspire
+  - bob
+- - 'no'
+  - head
+  - update
+- - head
+  - would
+  - inspire
+story:
+  date: 2010-11-11
+  id: 2010-11-11-important-badger-with-no-head-update
+  text: 'On Sunday, you will recall, I expressed the hope that Samuel Wesley''s haunting
+    by an apparition of a badger with no head would inspire Bob Drake to craft a song.
+    And lo! it came to pass.
 
-  Here is a picture of Bob delicately wrenching a chunk of metal from a cymbal using
-  a pair of bolt cutters, and here is his song.
+    Here is a picture of Bob delicately wrenching a chunk of metal from a cymbal using
+    a pair of bolt cutters, and here is his song.
 
-  '
-title: Important Badger With No Head Update
+    '
+  title: Important Badger With No Head Update
+word_count: 69

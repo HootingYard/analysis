@@ -1,7 +1,19 @@
-date: 2011-04-22
-id: 2011-04-22-hippies
-text: 'You won''t find them on the Wikipedia, which is kudos in itself. The original
-  sleeve is here.
+ngrams:
+- - won
+  - t
+  - find
+- - t
+  - find
+  - them
+- - hippies
+  - you
+  - won
+story:
+  date: 2011-04-22
+  id: 2011-04-22-hippies
+  text: 'You won''t find them on the Wikipedia, which is kudos in itself. The original
+    sleeve is here.
 
-  '
-title: Hippies!
+    '
+  title: Hippies!
+word_count: 19

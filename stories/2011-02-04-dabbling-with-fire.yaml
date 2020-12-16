@@ -1,9 +1,30 @@
-date: 2011-02-04
-id: 2011-02-04-dabbling-with-fire
-text: "\nIn my cupboard at The Dabbler this week, you will be able to discover the\
-  \ causes of thousands of mid-nineteenth-century fires in an unnamed bailiwick served\
-  \ by \u201Cthe Brigade\u201D. Prometheus was never so busy a bee, nor so inventive.\
-  \ Salutary warnings are implicit in this list, and I recommend you keep a watchful\
-  \ eye on your monkey, your monkey's nuts, your cargo of lime, your sewing, your\
-  \ rats and your ants.\n"
-title: Dabbling With Fire
+ngrams:
+- - inventive
+  - salutary
+  - warnings
+- - unnamed
+  - bailiwick
+  - served
+- - sewing
+  - your
+  - rats
+- - lime
+  - your
+  - sewing
+- - nuts
+  - your
+  - cargo
+- - monkey
+  - your
+  - monkey
+story:
+  date: 2011-02-04
+  id: 2011-02-04-dabbling-with-fire
+  text: "\nIn my cupboard at The Dabbler this week, you will be able to discover the\
+    \ causes of thousands of mid-nineteenth-century fires in an unnamed bailiwick\
+    \ served by \u201Cthe Brigade\u201D. Prometheus was never so busy a bee, nor so\
+    \ inventive. Salutary warnings are implicit in this list, and I recommend you\
+    \ keep a watchful eye on your monkey, your monkey's nuts, your cargo of lime,\
+    \ your sewing, your rats and your ants.\n"
+  title: Dabbling With Fire
+word_count: 75

@@ -1,9 +1,33 @@
-date: 2018-03-30
-id: 2018-03-30-a-general-air-of-decrepitude
-text: Yesterday's episode of Hooting Yard On The Air (aka A General Air Of Decrepitude)
-  was a packed show. Mr Key read the stories A Dream, At Night, and An Old Manuscript,
-  and he was joined for a performance of the one-act play Overheard In A Supermarket
-  by Miss Blossom Partridge, aka Pansy Cradledew, who also read The Coronation and
-  joined Mr Key for a recital of In Gath. In addition, there was a brief discussion
-  of Scritti Politti, an old French saying, and new verse by Dennis Beerpint.
-title: A General Air Of Decrepitude
+ngrams:
+- - blossom
+  - partridge
+  - aka
+- - partridge
+  - aka
+  - pansy
+- - aka
+  - pansy
+  - cradledew
+- - one-act
+  - play
+  - overheard
+- - miss
+  - blossom
+  - partridge
+- - old
+  - french
+  - saying
+- - packed
+  - show
+  - mr
+story:
+  date: 2018-03-30
+  id: 2018-03-30-a-general-air-of-decrepitude
+  text: Yesterday's episode of Hooting Yard On The Air (aka A General Air Of Decrepitude)
+    was a packed show. Mr Key read the stories A Dream, At Night, and An Old Manuscript,
+    and he was joined for a performance of the one-act play Overheard In A Supermarket
+    by Miss Blossom Partridge, aka Pansy Cradledew, who also read The Coronation and
+    joined Mr Key for a recital of In Gath. In addition, there was a brief discussion
+    of Scritti Politti, an old French saying, and new verse by Dennis Beerpint.
+  title: A General Air Of Decrepitude
+word_count: 94

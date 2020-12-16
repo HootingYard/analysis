@@ -1,8 +1,26 @@
-date: 2009-04-02
-id: 2009-04-02-fort-for-the-day
-text: "You know, in a very real sense, if Jesus were here today, faced with global\
-  \ financial meltdown and other topical newspaper headlines, he would, I think, wear\
-  \ a chunky knitted cardigan. Most sensible folk would do the same.\nMr Key, on the\
-  \ other hand, is going to barricade himself inside Fort Hoity. Or possibly Fort\
-  \ Toity.\n\n\_"
-title: Fort For The Day
+ngrams:
+- - global
+  - financial
+  - meltdown
+- - chunky
+  - knitted
+  - cardigan
+- - topical
+  - newspaper
+  - headlines
+- - inside
+  - fort
+  - hoity
+- - possibly
+  - fort
+  - toity
+story:
+  date: 2009-04-02
+  id: 2009-04-02-fort-for-the-day
+  text: "You know, in a very real sense, if Jesus were here today, faced with global\
+    \ financial meltdown and other topical newspaper headlines, he would, I think,\
+    \ wear a chunky knitted cardigan. Most sensible folk would do the same.\nMr Key,\
+    \ on the other hand, is going to barricade himself inside Fort Hoity. Or possibly\
+    \ Fort Toity.\n\n\_"
+  title: Fort For The Day
+word_count: 60

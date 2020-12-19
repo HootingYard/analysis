@@ -5,12 +5,12 @@ ngrams:
 - - safely
   - ignore
   - flying
-- - haunting
-  - melody
-  - played
 - - melody
   - grew
   - louder
+- - haunting
+  - melody
+  - played
 - - brute
   - reality
   - peering
@@ -26,15 +26,15 @@ ngrams:
 - - song
   - collector
   - tick
-- - airship
-  - disaster
-  - news
 - - daily
   - airship
   - disaster
 - - song
   - collecting
   - collecting
+- - airship
+  - disaster
+  - news
 - - folk
   - song
   - collector
@@ -44,33 +44,33 @@ ngrams:
 - - folk
   - song
   - collecting
-- - hall
-  - variety
-  - stars
-- - hall
-  - variety
-  - act
 - - possibly
   - fort
   - toity
+- - hall
+  - variety
+  - act
 - - fort
   - toity
   - either
 - - toity
   - either
   - fort
-- - folk
-  - song
-  - collected
-- - music
-  - hall
-  - variety
-- - music
-  - hall
-  - variety
 - - local
   - rustic
   - persons
+- - folk
+  - song
+  - collected
+- - hall
+  - variety
+  - stars
+- - music
+  - hall
+  - variety
+- - music
+  - hall
+  - variety
 - - thus
   - safely
   - ignore
@@ -107,42 +107,42 @@ ngrams:
 - - land
   - between
   - fort
-- - collecting
-  - collecting
-  - old
-- - grew
-  - closer
-  - still
-- - stars
-  - mr
-  - peevish
 - - act
   - mr
   - peevish
+- - stars
+  - mr
+  - peevish
+- - grew
+  - closer
+  - still
 - - collecting
+  - collecting
   - old
-  - folk
+- - variety
+  - act
+  - mr
 - - steadying
   - himself
   - against
 - - variety
   - stars
   - mr
-- - variety
-  - act
-  - mr
-- - old
+- - collecting
+  - old
   - folk
-  - songs
-- - old
-  - folk
-  - songs
-- - old
-  - folk
-  - songs
 - - these
   - putative
   - peasants
+- - old
+  - folk
+  - songs
+- - old
+  - folk
+  - songs
+- - old
+  - folk
+  - songs
 - - old
   - folk
   - song
@@ -158,45 +158,45 @@ ngrams:
 - - ask
   - these
   - putative
-- - clattering
-  - through
-  - red
 - - being
   - local
   - rustic
+- - clattering
+  - through
+  - red
 - - our
   - captains
   - brave
 - - fort
   - our
   - captains
-- - shiver
-  - ran
-  - down
 - - reality
   - peering
   - over
+- - shiver
+  - ran
+  - down
 - - than
   - pipe
   - tobacco
 - - singer
   - came
   - ever
-- - came
-  - ever
-  - closer
 - - barely
   - even
   - aware
+- - came
+  - ever
+  - closer
 - - words
   - here
   - sleeps
-- - come
-  - clattering
-  - through
 - - hid
   - oh
   - such
+- - come
+  - clattering
+  - through
 - - must
   - ask
   - these
@@ -206,6 +206,9 @@ ngrams:
 - - could
   - thus
   - safely
+- - indeed
+  - both
+  - might
 - - straw
   - oh
   - do
@@ -215,27 +218,24 @@ ngrams:
 - - them
   - closely
   - regarding
-- - far
-  - far
-  - away
-- - indeed
-  - both
-  - might
 - - both
   - might
   - once
+- - far
+  - far
+  - away
 - - question
   - them
   - closely
 - - their
   - song
   - commemorates
-- - what
-  - damnable
-  - tune
 - - trousers
   - what
   - damnable
+- - what
+  - damnable
+  - tune
 - - wife
   - gwendolyn
   - what
@@ -248,15 +248,15 @@ ngrams:
 - - interests
   - other
   - than
+- - other
+  - than
+  - pipe
 - - interests
   - were
   - pipe
 - - were
   - pipe
   - tobacco
-- - other
-  - than
-  - pipe
 - - heaved
   - himself
   - up

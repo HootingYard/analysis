@@ -23,15 +23,18 @@ ngrams:
 - - piercing
   - wind
   - blew
-- - merry
-  - school
-  - children
 - - prose
   - petals
   - tireless
+- - merry
+  - school
+  - children
 - - passionate
   - sometimes
   - hallucinatory
+- - hallucinatory
+  - prose
+  - unlike
 - - children
   - laughed
   - brought
@@ -41,51 +44,48 @@ ngrams:
 - - th
   - century
   - novels
-- - hallucinatory
-  - prose
-  - unlike
 - - woman
   - strange
   - weird
 - - strange
   - weird
   - music
-- - sometimes
-  - hallucinatory
-  - prose
 - - prose
   - unlike
   - anything
-- - abandoned
-  - house
-  - sat
+- - sometimes
+  - hallucinatory
+  - prose
 - - snow
   - shining
   - under
 - - few
   - hurrying
   - pedestrians
-- - school
-  - children
-  - going
 - - gethsemane
   - again
   - swept
+- - school
+  - children
+  - going
+- - abandoned
+  - house
+  - sat
 - - once
   - children
   - laughed
-- - small
-  - room
-  - blue
 - - old
   - gypsy
   - tune
-- - eaten
-  - crumbs
-  - little
+- - small
+  - room
+  - blue
 - - weird
   - old
   - gypsy
+- - eaten
+  - crumbs
+  - little
 - - little
   - fool
   - muttered
@@ -95,12 +95,12 @@ ngrams:
 - - muttering
   - old
   - woman
-- - stories
-  - abridged
-  - through
 - - hour's
   - skating
   - before
+- - stories
+  - abridged
+  - through
 - - old
   - woman
   - strange
@@ -110,48 +110,48 @@ ngrams:
 - - children
   - going
   - down
-- - now
-  - abandoned
-  - house
-- - again
-  - swept
-  - over
-- - some
-  - siberian
-  - prison
 - - thinking
   - too
   - much
+- - again
+  - swept
+  - over
+- - now
+  - abandoned
+  - house
+- - some
+  - siberian
+  - prison
 - - some
   - merry
   - school
 - - hummed
   - some
   - weird
-- - tears
-  - she
-  - saw
 - - emotional
   - essentials
   - who
-- - she
-  - also
-  - wrote
+- - tears
+  - she
+  - saw
 - - their
   - emotional
   - essentials
 - - cobbled
   - them
   - together
+- - she
+  - also
+  - wrote
+- - if
+  - bulky
+  - th
 - - through
   - her
   - tears
 - - some
   - weird
   - old
-- - if
-  - bulky
-  - th
 - - discover
   - anything
   - about

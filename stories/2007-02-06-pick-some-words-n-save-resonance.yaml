@@ -1,13 +1,10 @@
 ngrams:
-- - world's
-  - finest
-  - radio
 - - station
   - resonance
   - fm
-- - week's
-  - show
-  - send
+- - world's
+  - finest
+  - radio
 - - finest
   - radio
   - station
@@ -17,6 +14,9 @@ ngrams:
 - - radio
   - station
   - resonance
+- - week's
+  - show
+  - send
 - - sponsoring
   - next
   - week's

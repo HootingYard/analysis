@@ -1,25 +1,25 @@
 ngrams:
-- - dane
-  - vice
-  - principal
 - - alan
   - dane
   - tempting
+- - dane
+  - vice
+  - principal
 - - sincerely
+  - alan
+  - dane
+- - wishes
   - alan
   - dane
 - - diversity
   - awareness
   - hub
-- - wishes
-  - alan
-  - dane
-- - academy
-  - internally
-  - yours
 - - alan
   - dane
   - vice
+- - academy
+  - internally
+  - yours
 - - internally
   - yours
   - sincerely
@@ -44,15 +44,15 @@ ngrams:
 - - write
   - boilerplate
   - sentences
+- - setting
+  - walking
+  - past
 - - following
   - reply
   - dear
 - - none
   - six
   - months
-- - setting
-  - walking
-  - past
 - - good
   - wishes
   - alan
@@ -65,27 +65,27 @@ ngrams:
 - - really
   - quite
   - appalling
-- - english
-  - reply
-  - came
 - - locate
   - mr
   - dane's
 - - mr
   - dane's
   - response
+- - english
+  - reply
+  - came
 - - school
   - locate
   - mr
 - - sign
   - mr
   - dane's
-- - mr
-  - dane's
-  - office
 - - existing
   - sign
   - mr
+- - mr
+  - dane's
+  - office
 - - dear
   - mr
   - dane
@@ -101,39 +101,39 @@ ngrams:
 - - manufacture
   - our
   - signs
+- - prince
+  - charles
+  - might
+- - dear
+  - mr
+  - key
+- - dear
+  - mr
+  - key
 - - our
   - public
   - signs
 - - educational
   - institution
   - did
-- - dear
-  - mr
-  - key
-- - dear
-  - mr
-  - key
-- - prince
-  - charles
-  - might
 - - institution
   - did
   - nobody
-- - wrote
-  - back
-  - it's
-- - common
-  - these
-  - days
 - - key
   - many
   - thanks
-- - nobody
-  - noticed
-  - now
+- - common
+  - these
+  - days
 - - than
   - write
   - boilerplate
+- - wrote
+  - back
+  - it's
+- - nobody
+  - noticed
+  - now
 - - too
   - common
   - these
@@ -143,27 +143,27 @@ ngrams:
 - - rather
   - than
   - write
-- - company
-  - who
-  - design
-- - mr
-  - key
-  - many
 - - charles
   - might
   - say
-- - academy
-  - raise
-  - their
+- - mr
+  - key
+  - many
+- - company
+  - who
+  - design
 - - brain
   - rather
   - than
-- - sentences
-  - why
-  - do
+- - academy
+  - raise
+  - their
 - - raise
   - their
   - concern
+- - sentences
+  - why
+  - do
 - - raise
   - your
   - concern

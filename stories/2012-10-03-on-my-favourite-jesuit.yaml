@@ -2,12 +2,12 @@ ngrams:
 - - desperately
   - stifled
   - giggles
-- - cartoon
-  - nazi
-  - villain
 - - channel
   - ignatius
   - loyola
+- - cartoon
+  - nazi
+  - villain
 - - gerard
   - manley
   - hopkins
@@ -32,18 +32,18 @@ ngrams:
 - - opined
   - stood
   - alongside
-- - stood
-  - alongside
-  - wordsworth
-- - classical
-  - music
-  - reciting
-- - barred
-  - father
-  - hopkins
 - - television
   - shows
   - pertaining
+- - stood
+  - alongside
+  - wordsworth
+- - ninian
+  - didn't
+  - seem
+- - classical
+  - music
+  - reciting
 - - michael
   - palin's
   - voice
@@ -53,21 +53,21 @@ ngrams:
 - - michael
   - palin
   - voice
+- - barred
+  - father
+  - hopkins
 - - natural
   - performer
   - father
-- - ninian
-  - didn't
-  - seem
 - - music
   - reciting
   - poetry
-- - father
-  - ninian
-  - didn't
 - - seemed
   - mildly
   - amused
+- - father
+  - ninian
+  - didn't
 - - voted
   - top
   - jesuit
@@ -89,30 +89,27 @@ ngrams:
 - - oh
   - lord
   - ooh
-- - episode
-  - three
-  - guests
 - - damned
   - good
   - actor
 - - need
   - hardly
   - add
-- - system
-  - under
-  - j
 - - quite
   - frankly
   - unforgettable
+- - episode
+  - three
+  - guests
 - - damn
   - thing
   - verses
+- - system
+  - under
+  - j
 - - gonna
   - fall
   - without
-- - father
-  - ninian
-  - took
 - - quite
   - magnificent
   - jesuit
@@ -122,57 +119,60 @@ ngrams:
 - - least
   - top
   - jesuit
+- - father
+  - ninian
+  - took
 - - course
   - gerard
   - manley
+- - whole
+  - damn
+  - thing
 - - possibly
   - explains
   - why
 - - most
   - excruciating
   - episodes
-- - whole
-  - damn
-  - thing
-- - immortal
-  - souls
-  - most
 - - ever
   - mentioning
   - politics
 - - ninian
   - ever
   - mentioning
+- - immortal
+  - souls
+  - most
 - - television
   - producer
   - still
-- - every
-  - single
-  - episode
 - - much
   - bob
   - dylan
+- - every
+  - single
+  - episode
 - - father
   - ninian
   - ever
 - - many
   - english
   - jesuits
-- - each
-  - episode
-  - three
 - - tape
   - recorder
   - after
-- - chorus
-  - very
-  - slowly
 - - bob
   - dylan
   - before
+- - chorus
+  - very
+  - slowly
 - - recorder
   - after
   - leaving
+- - each
+  - episode
+  - three
 - - our
   - cultural
   - improvement
@@ -185,15 +185,15 @@ ngrams:
 - - after
   - leaving
   - school
+- - dylan
+  - before
+  - sir
 - - after
   - school
   - club
 - - most
   - persuasive
   - case
-- - dylan
-  - before
-  - sir
 - - indeed
   - christ
   - come
@@ -203,27 +203,27 @@ ngrams:
 - - before
   - boy
   - george
-- - doubt
-  - our
-  - immortal
 - - much
   - however
   - ignorance
-- - votes
-  - after
-  - reading
+- - doubt
+  - our
+  - immortal
 - - club
   - meeting
   - where
-- - like
-  - michael
-  - palin's
+- - votes
+  - after
+  - reading
 - - school
   - club
   - where
 - - never
   - saw
   - father
+- - like
+  - michael
+  - palin's
 - - few
   - votes
   - after
@@ -239,24 +239,24 @@ ngrams:
 - - other
   - age
   - father
-- - enriching
-  - our
-  - little
-- - declamatory
-  - rather
-  - like
 - - top
   - jesuit
   - time
+- - declamatory
+  - rather
+  - like
 - - rather
   - like
   - michael
-- - our
+- - enriching
+  - our
   - little
-  - brains
 - - board
   - himself
   - now
+- - our
+  - little
+  - brains
 - - pick
   - him
   - apparently
@@ -269,21 +269,21 @@ ngrams:
 - - very
   - much
   - however
-- - where
-  - our
-  - chaplain
 - - any
   - thought
   - yet
+- - where
+  - our
+  - chaplain
 - - club
   - where
   - our
-- - energies
-  - were
-  - devoted
 - - any
   - other
   - age
+- - energies
+  - were
+  - devoted
 - - done
   - their
   - best
@@ -299,39 +299,33 @@ ngrams:
 - - letter
   - inviting
   - me
-- - gave
-  - him
-  - any
 - - chaplain
   - would
   - lead
 - - writers
   - whom
   - we
+- - gave
+  - him
+  - any
 - - already
   - there
   - dylan
+- - second
+  - choice
+  - would
 - - 'no'
   - doubt
   - our
 - - spectacles
   - which
   - lent
-- - second
-  - choice
-  - would
-- - sensible
-  - outcome
-  - which
 - - him
   - any
   - thought
-- - outcome
+- - sensible
+  - outcome
   - which
-  - possibly
-- - which
-  - possibly
-  - explains
 - - didn't
   - take
   - me
@@ -341,6 +335,12 @@ ngrams:
 - - our
   - benefit
   - if
+- - outcome
+  - which
+  - possibly
+- - which
+  - possibly
+  - explains
 story:
   date: 2012-10-03
   id: 2012-10-03-on-my-favourite-jesuit

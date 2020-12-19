@@ -1,10 +1,10 @@
 ngrams:
-- - fragile
-  - bespectacled
-  - bluestocking
 - - tristram
   - shandy
   - gentleman
+- - fragile
+  - bespectacled
+  - bluestocking
 - - benign
   - edward
   - gorey
@@ -44,24 +44,24 @@ ngrams:
 - - consider
   - themselves
   - artists
-- - lamp
-  - last
-  - weekend
-- - take
-  - regular
-  - holidays
 - - too
   - hideously
   - crowded
+- - take
+  - regular
+  - holidays
+- - lamp
+  - last
+  - weekend
 - - own
   - mother
   - spoke
-- - remember
-  - sat
-  - behind
 - - still
   - adore
   - st
+- - remember
+  - sat
+  - behind
 - - century
   - having
   - published
@@ -74,12 +74,6 @@ ngrams:
 - - quite
   - understood
   - how
-- - her
-  - husband
-  - jan
-- - sold
-  - her
-  - artworks
 - - never
   - quite
   - understood
@@ -89,48 +83,54 @@ ngrams:
 - - work
   - while
   - often
-- - left
-  - any
-  - trace
 - - more
   - benign
   - edward
+- - left
+  - any
+  - trace
+- - her
+  - husband
+  - jan
+- - sold
+  - her
+  - artworks
+- - having
+  - published
+  - over
+- - artworks
+  - some
+  - paintings
 - - order
   - her
   - bestseller
 - - behind
   - her
   - desk
-- - artworks
-  - some
-  - paintings
-- - having
-  - published
-  - over
-- - sat
-  - behind
-  - her
+- - husband
+  - jan
+  - who
 - - different
   - order
   - her
 - - she
   - also
   - sold
-- - also
-  - sold
-  - her
-- - husband
-  - jan
-  - who
 - - jan
   - who
   - died
-- - books
-  - she
-  - also
+- - sat
+  - behind
+  - her
+- - also
+  - sold
+  - her
 - - who
   - died
   - earlier
+- - books
+  - she
+  - also
 - - translating
   - into
   - dutch
@@ -143,21 +143,18 @@ ngrams:
 - - her
   - accent
   - she
-- - her
-  - artworks
-  - some
 - - think
   - exactly
   - what
 - - years
   - translating
   - into
+- - her
+  - artworks
+  - some
 - - went
   - there
   - regularly
-- - change
-  - which
-  - given
 - - gorey
   - an
   - additional
@@ -167,6 +164,9 @@ ngrams:
 - - an
   - additional
   - pleasure
+- - change
+  - which
+  - given
 - - would
   - think
   - exactly
@@ -176,12 +176,12 @@ ngrams:
 - - died
   - earlier
   - this
-- - earlier
-  - this
-  - year
 - - summer
   - one
   - does
+- - earlier
+  - this
+  - year
 story:
   date: 2014-10-04
   id: 2014-10-04-the-mirror-n-the-lamp

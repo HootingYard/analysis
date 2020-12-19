@@ -8,21 +8,21 @@ ngrams:
 - - tram
   - collision
   - resulting
-- - situations
-  - vacant
-  - column
 - - injured
   - tram
   - passengers
-- - innate
-  - heat
-  - benefits
-- - chaplain
-  - tickets
-  - remarkably
+- - situations
+  - vacant
+  - column
 - - vibrant
   - pneuma
   - apply
+- - chaplain
+  - tickets
+  - remarkably
+- - innate
+  - heat
+  - benefits
 - - goateed
   - trust
   - fund
@@ -32,12 +32,15 @@ ngrams:
 - - dying
   - wounded
   - scarred
-- - airport
-  - chaplain
-  - tickets
 - - oversized
   - uruguayan
   - fair
+- - airport
+  - chaplain
+  - tickets
+- - uruguayan
+  - fair
+  - trade
 - - swat
   - team
   - wannabes
@@ -47,15 +50,15 @@ ngrams:
 - - heat
   - benefits
   - include
-- - uruguayan
-  - fair
-  - trade
 - - swat
   - team
   - descending
 - - animating
   - spirit
   - drawn
+- - absolutely
+  - fantastic
+  - pneuma
 - - team
   - missions
   - replied
@@ -65,27 +68,21 @@ ngrams:
 - - benefits
   - include
   - free
-- - absolutely
-  - fantastic
-  - pneuma
 - - hopeful
   - felt
   - crushed
-- - wanted
-  - swat
-  - team
-- - duly
-  - appeared
-  - remarkably
 - - peasant
   - theatre
   - adaptation
+- - duly
+  - appeared
+  - remarkably
+- - wanted
+  - swat
+  - team
 - - tram
   - passengers
   - marigold
-- - dobson's
-  - swat
-  - team
 - - include
   - free
   - pamphlets
@@ -95,36 +92,21 @@ ngrams:
 - - sometimes
   - roam
   - wildly
-- - dead
-  - dying
-  - wounded
+- - dobson's
+  - swat
+  - team
 - - appeared
   - remarkably
   - free
-- - shiny
-  - black
-  - helmets
+- - dead
+  - dying
+  - wounded
 - - different
   - tack
   - assuming
-- - smug
-  - marigold
-  - chew
-- - marigold
-  - chew
-  - alighted
-- - belligerent
-  - marigold
-  - chew
-- - became
-  - belligerent
-  - marigold
-- - passengers
-  - marigold
-  - chew
-- - looked
-  - smug
-  - marigold
+- - shiny
+  - black
+  - helmets
 - - ancient
   - greek
   - sense
@@ -137,21 +119,30 @@ ngrams:
 - - wild
   - roaming
   - cows
-- - roaming
-  - cows
-  - marigold
 - - received
   - several
   - applications
+- - became
+  - belligerent
+  - marigold
+- - looked
+  - smug
+  - marigold
 - - marigold
   - chew
-  - pointed
-- - marigold
+  - alighted
+- - belligerent
+  - marigold
   - chew
-  - pointed
-- - marigold
+- - roaming
+  - cows
+  - marigold
+- - smug
+  - marigold
   - chew
-  - pointed
+- - passengers
+  - marigold
+  - chew
 - - roaming
   - cows
   - dead
@@ -161,78 +152,102 @@ ngrams:
 - - later
   - wanted
   - swat
+- - marigold
+  - chew
+  - pointed
+- - marigold
+  - chew
+  - pointed
+- - marigold
+  - chew
+  - pointed
 - - perilous
   - applicants
   - should
-- - bus
-  - marigold
-  - chew
-- - dobson's
-  - decision
-  - called
-- - cows
-  - marigold
-  - chew
 - - seconds
   - until
   - corrected
+- - bus
+  - marigold
+  - chew
 - - sofa
   - last
   - trump
 - - own
   - swat
   - team
+- - dobson's
+  - decision
+  - called
+- - cows
+  - marigold
+  - chew
 - - new
   - oversized
   - uruguayan
-- - big
-  - black
-  - boots
 - - evening
   - sofa
   - last
+- - big
+  - black
+  - boots
 - - hours
   - later
   - wanted
 - - marigold
   - chew
   - set
-- - oncoming
-  - tram
-  - dobson
-- - asking
-  - dobson
-  - pointedly
-- - physically
-  - impossible
-  - dobson
-- - missions
-  - replied
-  - dobson
 - - tram
   - ploughed
   - through
-- - replied
-  - dobson
-  - excitedly
-- - swat
-  - team
-  - dobson
-- - action
-  - films
-  - dobson
 - - roam
   - wildly
   - through
 - - many
   - action
   - films
+- - tram
+  - might
+  - collide
+- - tram
+  - might
+  - collide
+- - oncoming
+  - tram
+  - dobson
+- - physically
+  - impossible
+  - dobson
+- - asking
+  - dobson
+  - pointedly
+- - missions
+  - replied
+  - dobson
+- - replied
+  - dobson
+  - excitedly
+- - action
+  - films
+  - dobson
+- - swat
+  - team
+  - dobson
+- - noises
+  - before
+  - clambering
+- - grunting
+  - noises
+  - before
 - - ensuing
   - weeks
   - dobson
 - - performance
   - space
   - dobson
+- - few
+  - seconds
+  - until
 - - space
   - dobson
   - suggested
@@ -248,66 +263,51 @@ ngrams:
 - - weeks
   - dobson
   - received
-- - noises
-  - before
-  - clambering
-- - tram
-  - might
-  - collide
-- - tram
-  - might
-  - collide
-- - grunting
-  - noises
-  - before
-- - few
-  - seconds
-  - until
 - - few
   - hours
   - later
-- - town
-  - dobson
-  - composed
-- - place
-  - dobson
-  - countered
-- - dobson
-  - received
-  - several
 - - watching
   - far
   - too
-- - airport
-  - chaplain
-  - she
-- - impossible
+- - town
   - dobson
-  - thought
+  - composed
+- - dobson
+  - received
+  - several
 - - roaming
   - cows
   - did
-- - chaplain
-  - she
-  - tried
-- - did
-  - sometimes
-  - roam
 - - could
   - conceivably
   - roam
-- - dobson
-  - passed
-  - each
-- - particularly
-  - demented
+- - place
+  - dobson
+  - countered
+- - did
+  - sometimes
+  - roam
+- - impossible
+  - dobson
+  - thought
+- - airport
+  - chaplain
   - she
 - - too
   - many
   - action
-- - improvise
-  - some
-  - unconvincing
+- - chaplain
+  - she
+  - tried
+- - cows
+  - did
+  - sometimes
+- - dobson
+  - passed
+  - each
+- - chew
+  - then
+  - landed
 story:
   date: 2007-10-24
   id: 2007-10-24-dobsons-swat-team

@@ -17,9 +17,6 @@ ngrams:
 - - meadow
   - pipe
   - clenched
-- - teeth
-  - moustache
-  - bristling
 - - early
   - promotional
   - leaflets
@@ -29,12 +26,15 @@ ngrams:
 - - toothsome
   - pastes
   - usually
-- - sourdough
-  - paste
-  - comes
+- - teeth
+  - moustache
+  - bristling
 - - appropriate
   - picnic
   - snacks
+- - sourdough
+  - paste
+  - comes
 - - solidified
   - milk
   - sludge
@@ -62,12 +62,12 @@ ngrams:
 - - properly
   - begun
   - because
-- - usually
-  - quite
-  - edible
 - - pastes
   - usually
   - quite
+- - usually
+  - quite
+  - edible
 - - great
   - moral
   - purpose
@@ -95,18 +95,18 @@ ngrams:
 - - milk
   - sludge
   - many
-- - between
-  - two
-  - slices
 - - clunky
   - slogans
   - such
-- - town
-  - old
-  - pa
+- - between
+  - two
+  - slices
 - - even
   - properly
   - begun
+- - town
+  - old
+  - pa
 - - dainty
   - hands
   - over
@@ -137,9 +137,9 @@ ngrams:
 - - teeth
   - venting
   - their
-- - been
-  - manufacturing
-  - pastes
+- - their
+  - picnic
+  - hampers
 story:
   date: 2008-09-29
   id: 2008-09-29-an-advertisement-for-chumpots

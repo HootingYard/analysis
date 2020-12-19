@@ -1,13 +1,4 @@
 ngrams:
-- - vans
-  - trucks
-  - lorries
-- - vans
-  - trucks
-  - lorries
-- - vans
-  - trucks
-  - lorries
 - - lorries
   - buses
   - coaches
@@ -17,6 +8,15 @@ ngrams:
 - - lorries
   - buses
   - coaches
+- - vans
+  - trucks
+  - lorries
+- - vans
+  - trucks
+  - lorries
+- - vans
+  - trucks
+  - lorries
 - - trucks
   - lorries
   - buses
@@ -32,9 +32,6 @@ ngrams:
 - - circular
   - placard
   - resembling
-- - cars
-  - vans
-  - trucks
 - - cars
   - vans
   - trucks
@@ -44,6 +41,9 @@ ngrams:
 - - speeding
   - cars
   - vans
+- - cars
+  - vans
+  - trucks
 - - callow
   - cub
   - reporter
@@ -89,12 +89,6 @@ ngrams:
 - - police
   - procedurals
   - maverick
-- - maverick
-  - detective
-  - detective
-- - maverick
-  - detective
-  - detective
 - - lollipop
   - lady
   - similar
@@ -104,18 +98,24 @@ ngrams:
 - - forget
   - thrilling
   - detail
+- - maverick
+  - detective
+  - detective
+- - maverick
+  - detective
+  - detective
+- - film
+  - duel
+  - starring
+- - film
+  - duel
+  - starring
+- - film
+  - duel
+  - starring
 - - thrilling
   - fictional
   - potential
-- - film
-  - duel
-  - starring
-- - film
-  - duel
-  - starring
-- - film
-  - duel
-  - starring
 - - weekly
   - magazine
   - devoted
@@ -125,8 +125,14 @@ ngrams:
 - - weekly
   - magazine
   - devoted
+- - prose
+  - pipe
+  - clenched
 - - servants
   - whose
+  - procedures
+- - following
+  - police
   - procedures
 - - o'
   - prose
@@ -134,12 +140,6 @@ ngrams:
 - - chalet
   - o'
   - prose
-- - prose
-  - pipe
-  - clenched
-- - following
-  - police
-  - procedures
 - - public
   - servants
   - whose
@@ -149,12 +149,6 @@ ngrams:
 - - surprisingly
   - dainty
   - hand
-- - detective
-  - detective
-  - captain
-- - detective
-  - detective
-  - captain
 - - pipe
   - clenched
   - between
@@ -170,6 +164,12 @@ ngrams:
 - - second
   - film
   - duel
+- - detective
+  - detective
+  - captain
+- - detective
+  - detective
+  - captain
 - - magazine
   - also
   - includes
@@ -194,33 +194,33 @@ ngrams:
 - - without
   - being
   - squashed
+- - road
+  - without
+  - being
+- - australia
+  - readers
+  - may
 - - forgetting
   - her
   - circular
 - - her
   - circular
   - placard
-- - road
-  - without
-  - being
 - - lollipop
   - lady
   - she
-- - australia
-  - readers
-  - may
 - - awareness
   - hubs
   - can
 - - weaver
   - can
   - safely
-- - how
-  - many
-  - paperbacks
-- - call
-  - her
-  - mrs
+- - hubs
+  - can
+  - cross
+- - can
+  - safely
+  - reach
 story:
   date: 2013-09-11
   id: 2013-09-11-pebblehead-breaks-new-ground

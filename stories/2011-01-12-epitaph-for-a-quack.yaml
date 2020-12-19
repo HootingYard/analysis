@@ -14,9 +14,6 @@ ngrams:
 - - miracle
   - pills
   - included
-- - quack
-  - doctor
-  - lionel
 - - fine
   - gravestone
   - epitaph
@@ -26,18 +23,21 @@ ngrams:
 - - park
   - cemetery
   - prompting
+- - quack
+  - doctor
+  - lionel
 - - whose
   - miracle
   - pills
-- - '-'
-  - whose
-  - miracle
 - - included
   - sunbeams
   - among
 - - hath
   - few
   - competitors
+- - '-'
+  - whose
+  - miracle
 - - most
   - mens
   - mouths

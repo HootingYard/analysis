@@ -5,33 +5,27 @@ ngrams:
 - - debilitating
   - psychological
   - trauma
-- - butcher's
-  - apron
-  - soaked
-- - spider
-  - harold
-  - wilson
-- - julian
-  - assange
-  - currently
-- - assange
-  - currently
-  - languishing
-- - fractious
-  - hysteria
-  - mama
 - - zurich
   - butcher's
   - gnome
+- - spider
+  - harold
+  - wilson
+- - butcher's
+  - apron
+  - soaked
+- - assange
+  - currently
+  - languishing
+- - julian
+  - assange
+  - currently
 - - currently
   - languishing
   - imprisoned
-- - haunted
-  - butcher's
-  - shops
-- - hitherto
-  - invisible
-  - gnome
+- - fractious
+  - hysteria
+  - mama
 - - lovely
   - julian
   - assange
@@ -50,108 +44,114 @@ ngrams:
 - - lovely
   - julian
   - assange
+- - hitherto
+  - invisible
+  - gnome
+- - haunted
+  - butcher's
+  - shops
+- - fat
+  - spider
+  - harold
 - - contains
   - compromising
   - details
 - - fantastic
   - beings
   - imperceptible
-- - fat
-  - spider
-  - harold
+- - lovely
+  - lovely
+  - julian
 - - actual
   - gnomes
   - invisible
 - - invisible
   - gnome
   - failed
-- - lovely
-  - lovely
-  - julian
-- - butcher's
-  - apprentice
-  - stood
-- - gnome
-  - standing
-  - slap
 - - feel
   - laughably
   - confident
+- - gnome
+  - standing
+  - slap
 - - free
   - sausage
   - samples
-- - huge
-  - sharp
-  - cleavers
+- - butcher's
+  - apprentice
+  - stood
 - - standing
   - slap
   - bang
-- - please
-  - oblige
-  - yours
-- - fat
-  - spidery
-  - ones
-- - invisible
-  - gnome
-  - standing
 - - swiss
   - sausage
   - atop
-- - agreeable
-  - english
-  - country
+- - huge
+  - sharp
+  - cleavers
+- - invisible
+  - gnome
+  - standing
+- - fat
+  - spidery
+  - ones
 - - squalid
   - business
   - sorry
+- - please
+  - oblige
+  - yours
+- - agreeable
+  - english
+  - country
 - - hard
   - lesson
   - driven
-- - driven
-  - half
-  - insane
 - - lesson
   - driven
   - half
+- - driven
+  - half
+  - insane
 - - papa's
   - paper
   - plate
 - - whole
   - squalid
   - business
-- - big
-  - fat
-  - spidery
 - - william
   - tell
   - aiming
 - - big
   - fat
+  - spidery
+- - big
+  - fat
   - spider
+- - switzerland
+  - william
+  - tell
+- - switzerland
+  - william
+  - tell
 - - left
   - zurich
   - forever
-- - switzerland
-  - william
-  - tell
-- - switzerland
-  - william
-  - tell
-- - english
-  - country
-  - house
-- - tell
-  - third
-  - statement
 - - invisible
   - gnomes
   - among
-- - william
-  - tell
+- - tell
   - third
+  - statement
 - - butcher's
   - gnome
   - nor
+- - william
+  - tell
+  - third
+- - english
+  - country
+  - house
 - - key
   - please
   - oblige
@@ -167,15 +167,12 @@ ngrams:
 - - oblige
   - yours
   - yet
-- - yard
-  - data
-  - silo
 - - butcher's
   - shop
   - perhaps
-- - included
-  - two
-  - statements
+- - yard
+  - data
+  - silo
 - - tender
   - age
   - too
@@ -185,6 +182,9 @@ ngrams:
 - - particulars
   - dear
   - mr
+- - included
+  - two
+  - statements
 - - say
   - lovely
   - julian
@@ -194,6 +194,9 @@ ngrams:
 - - cannot
   - imagine
   - why
+- - particulars
+  - mr
+  - key
 - - many
   - free
   - sausage
@@ -203,69 +206,66 @@ ngrams:
 - - tell
   - ever
   - communed
-- - particulars
-  - mr
+- - mr
   - key
+  - writes
 - - yet
   - again
   - forgive
 - - political
   - leaders
   - even
-- - yours
-  - yet
-  - again
-- - mr
-  - key
-  - writes
-- - unexpected
-  - reason
-  - our
 - - mr
   - key
   - please
 - - dear
   - mr
   - key
+- - yours
+  - yet
+  - again
+- - unexpected
+  - reason
+  - our
 - - reason
   - our
   - visit
 - - parents
   - incessantly
   - now
+- - other
+  - fantastic
+  - beings
 - - two
   - hours
   - later
+- - mentioned
+  - earlier
+  - now
 - - hooting
   - yard
   - data
 - - hooting
   - yard
   - canon
-- - other
-  - fantastic
-  - beings
-- - mentioned
-  - earlier
-  - now
 - - entire
   - hooting
   - yard
-- - gnomes
-  - among
-  - other
 - - rather
   - than
   - telling
+- - gnomes
+  - among
+  - other
+- - spidery
+  - ones
+  - can
 - - among
   - other
   - fantastic
 - - some
   - significant
   - clue
-- - spidery
-  - ones
-  - can
 - - ought
   - never
   - ever
@@ -296,36 +296,48 @@ ngrams:
 - - girly
   - fangs
   - into
-- - switzerland
-  - were
-  - presented
 - - details
   - about
   - lovely
+- - switzerland
+  - were
+  - presented
 - - time
   - having
   - read
-- - statement
-  - has
-  - never
-- - can
-  - only
-  - ascribe
 - - exactly
   - what
   - kind
 - - blood
   - handing
   - out
-- - demands
-  - they
-  - whisked
+- - can
+  - only
+  - ascribe
+- - statement
+  - has
+  - never
 - - taken
   - bites
   - out
+- - demands
+  - they
+  - whisked
 - - swiss
   - bankers
   - they
+- - particulars
+  - would
+  - address
+- - them
+  - even
+  - cooked
+- - apprentice
+  - stood
+  - there
+- - gore
+  - would
+  - shut
 - - were
   - great
   - admirers
@@ -338,42 +350,33 @@ ngrams:
 - - papa
   - were
   - great
-- - them
-  - even
-  - cooked
-- - apprentice
-  - stood
-  - there
-- - particulars
-  - would
-  - address
 - - bankers
   - they
   - knew
 - - truth
   - they
   - decided
-- - gore
-  - would
-  - shut
-- - find
-  - out
-  - exactly
-- - which
-  - rudolf
-  - steiner
-- - psychological
-  - trauma
-  - which
 - - rudolf
   - steiner
   - so
+- - find
+  - out
+  - exactly
 - - we
   - left
   - zurich
 - - again
   - forgive
   - me
+- - which
+  - rudolf
+  - steiner
+- - psychological
+  - trauma
+  - which
+- - oh
+  - so
+  - briefly
 - - sordid
   - details
   - which
@@ -383,15 +386,12 @@ ngrams:
 - - shop
   - perhaps
   - they
-- - details
-  - which
-  - ought
-- - oh
-  - so
-  - briefly
 - - whisked
   - me
   - 'off'
+- - details
+  - which
+  - ought
 - - theosophy
   - an
   - introduction

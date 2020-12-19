@@ -23,27 +23,27 @@ ngrams:
 - - seconds
   - then
   - eat
-- - other
-  - quantity
-  - let
 - - done
   - too
   - much
+- - other
+  - quantity
+  - let
 - - then
   - take
   - cabbage
 - - other
   - meat
   - two
-- - two
-  - seconds
-  - then
-- - done
-  - then
-  - take
 - - much
   - then
   - slice
+- - done
+  - then
+  - take
+- - two
+  - seconds
+  - then
 - - any
   - other
   - quantity
@@ -53,12 +53,12 @@ ngrams:
 - - much
   - done
   - then
-- - forget
-  - your
-  - book
 - - too
   - much
   - then
+- - forget
+  - your
+  - book
 - - half
   - an
   - hour

@@ -14,36 +14,36 @@ ngrams:
 - - vaguely
   - disquieting
   - tales
+- - god's
+  - ineffable
+  - mercy
 - - hopkins
   - poem
   - declaimed
 - - cloudy
   - gaseous
   - green
-- - god's
-  - ineffable
-  - mercy
 - - manley
   - hopkins
   - poem
+- - monster
+  - references
+  - hidden
 - - alarming
   - stories
   - yarns
 - - mildly
   - alarming
   - stories
-- - monster
-  - references
-  - hidden
 - - panting
   - urchin
   - telling
-- - colleague
-  - father
-  - gerard
 - - heels
   - father
   - ninian
+- - colleague
+  - father
+  - gerard
 - - monsters
   - father
   - ninian
@@ -53,24 +53,21 @@ ngrams:
 - - father
   - gerard
   - manley
+- - distinctively
+  - bewildering
+  - prose
 - - follows
   - father
   - ninian
+- - ninian
+  - shows
+  - none
 - - finished
   - saying
   - mass
 - - father
   - ninian
   - shows
-- - ninian
-  - shows
-  - none
-- - distinctively
-  - bewildering
-  - prose
-- - chalet
-  - o'
-  - prose
 - - various
   - scattered
   - pieces
@@ -80,6 +77,9 @@ ngrams:
 - - real
   - historical
   - figure
+- - chalet
+  - o'
+  - prose
 - - thousand
   - pages
   - fat
@@ -97,16 +97,13 @@ ngrams:
   - instantly
 - - sea
   - monster
-  - peril
+  - references
 - - sea
   - monster
-  - references
+  - peril
 - - almost
   - exactly
   - despite
-- - makes
-  - note
-  - based
 - - literature's
   - indeed
   - life's
@@ -119,39 +116,42 @@ ngrams:
 - - historically
   - accurate
   - indeed
-- - life's
-  - great
-  - tragedies
 - - elucidate
   - various
   - sea
+- - makes
+  - note
+  - based
 - - sea
   - monsters
   - father
 - - sea
   - monster
   - usually
+- - life's
+  - great
+  - tragedies
 - - various
   - sea
   - monster
-- - must
-  - lie
-  - squarely
 - - airport
   - book
   - kiosks
+- - must
+  - lie
+  - squarely
 - - blame
   - must
   - lie
 - - steamers
   - bewildering
   - too
-- - ends
-  - each
-  - piece
 - - fictional
   - probably
   - because
+- - ends
+  - each
+  - piece
 - - exactly
   - despite
   - being
@@ -170,81 +170,84 @@ ngrams:
 - - pulp
   - magazines
   - such
-- - still
-  - find
-  - traces
 - - never
   - brought
   - together
+- - still
+  - find
+  - traces
 - - very
   - bewildering
   - person
-- - o'
-  - prose
-  - day
 - - does
   - three
   - things
 - - perched
   - upon
   - branches
+- - o'
+  - prose
+  - day
 - - bewildering
   - person
   - even
 - - note
   - based
   - upon
-- - monster
-  - peril
-  - has
-- - makes
-  - some
-  - attempt
 - - sea
   - monster
   - then
-- - panting
-  - urchin
-  - who
+- - makes
+  - some
+  - attempt
+- - monster
+  - peril
+  - has
 - - despite
   - being
   - over
-- - urchin
+- - panting
+  - urchin
   - who
-  - brought
 - - just
   - walking
   - down
-- - monsters
-  - who
-  - appeared
-- - their
-  - pleasure
-  - steamers
 - - even
   - just
   - walking
+- - urchin
+  - who
+  - brought
+- - their
+  - pleasure
+  - steamers
+- - monsters
+  - who
+  - appeared
 - - aboard
   - their
   - pleasure
-- - struck
-  - shrivel
-  - up
 - - after
   - day
   - consider
+- - struck
+  - shrivel
+  - up
+- - prose
+  - day
+  - after
 - - its
   - being
   - broken
 - - sea
   - monster
   - has
-- - prose
-  - day
-  - after
 - - sea
   - monsters
   - who
+- - person
+  - even
+  - just
 - - been
   - sighted
   - either
@@ -254,36 +257,33 @@ ngrams:
 - - raise
   - your
   - blood
-- - person
-  - even
-  - just
-- - poem
-  - shouting
-  - into
 - - when
   - struck
   - shrivel
-- - scattered
-  - pieces
-  - were
-- - although
-  - what
-  - research
+- - poem
+  - shouting
+  - into
 - - saying
   - mass
   - when
+- - although
+  - what
+  - research
+- - scattered
+  - pieces
+  - were
 - - been
   - done
   - seems
 - - has
   - just
   - finished
+- - reliable
+  - biography
+  - we
 - - careful
   - readers
   - will
-- - being
-  - broken
-  - up
 story:
   date: 2010-07-19
   id: 2010-07-19-the-soutane-attired-nemesis-of-sea-monsters

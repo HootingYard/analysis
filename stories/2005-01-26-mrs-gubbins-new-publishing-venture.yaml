@@ -1,22 +1,16 @@
 ngrams:
-- - state
-  - condoleezza
-  - rice
 - - mean
   - oily
   - chalk
+- - state
+  - condoleezza
+  - rice
 - - french
   - means
   - chalk
 - - indefatigable
   - crone
   - mrs
-- - bathsheba
-  - gubbins
-  - mrs
-- - crone
-  - mrs
-  - gubbins
 - - possible
   - shown
   - holding
@@ -29,6 +23,12 @@ ngrams:
 - - spine
   - probably
   - devoted
+- - bathsheba
+  - gubbins
+  - mrs
+- - crone
+  - mrs
+  - gubbins
 - - left
   - condoleezza
   - rice
@@ -71,21 +71,21 @@ ngrams:
 - - each
   - issue
   - should
+- - upon
+  - velcro
+  - dubbin
 - - combining
   - two
   - words
 - - stiff
   - hooks
   - like
-- - soft
-  - loops
-  - like
 - - stormy
   - night
   - just
-- - upon
-  - velcro
-  - dubbin
+- - soft
+  - loops
+  - like
 - - other
   - waxes
   - hence
@@ -98,30 +98,27 @@ ngrams:
 - - gubbins
   - has
   - announced
-- - mrs
-  - gubbins
-  - has
 - - few
   - pages
   - then
-- - been
-  - moths
-  - anyway
+- - mrs
+  - gubbins
+  - has
 - - before
   - going
   - back
+- - been
+  - moths
+  - anyway
 - - about
   - velcro
-  - dubbin
-- - magazine
-  - here
-  - she
-- - spread
-  - about
   - dubbin
 - - digest
   - about
   - velcro
+- - spread
+  - about
+  - dubbin
 - - pleasant
   - smell
   - when
@@ -134,24 +131,27 @@ ngrams:
 - - daily
   - digest
   - about
+- - magazine
+  - here
+  - she
 - - picture
   - spread
   - about
 - - binney
   - came
   - up
-- - night
-  - just
-  - like
-- - quick
-  - note
-  - about
 - - celebrity
   - if
   - possible
 - - if
   - possible
   - shown
+- - quick
+  - note
+  - about
+- - night
+  - just
+  - like
 - - moths
   - anyway
   - all
@@ -176,12 +176,12 @@ ngrams:
 - - an
   - exciting
   - article
-- - storminess
-  - had
-  - ceased
 - - decided
   - one
   - side
+- - storminess
+  - had
+  - ceased
 - - velcro
   - dubbin
   - or

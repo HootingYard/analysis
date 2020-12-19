@@ -1,10 +1,13 @@
 ngrams:
-- - ambrose
-  - bierce
-  - edited
 - - sylvia
   - townsend
   - warner
+- - ambrose
+  - bierce
+  - edited
+- - maltese
+  - collected
+  - essays
 - - peter
   - gay
   - treatise
@@ -14,9 +17,6 @@ ngrams:
 - - h
   - l
   - mencken
-- - maltese
-  - collected
-  - essays
 - - mark
   - ford
   - signs
@@ -50,15 +50,15 @@ ngrams:
 - - purchases
   - carted
   - back
+- - sell
+  - both
+  - new
 - - paul
   - de
   - man
 - - worth
   - living
   - here
-- - sell
-  - both
-  - new
 - - 'no'
   - particular
   - order

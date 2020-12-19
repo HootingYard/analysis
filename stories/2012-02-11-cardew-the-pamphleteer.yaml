@@ -14,18 +14,18 @@ ngrams:
 - - james
   - mason
   - plays
-- - english
-  - maoist
-  - avant
 - - dorking
   - earlier
   - gielgud
-- - cardew
-  - mere
-  - coincidence
+- - english
+  - maoist
+  - avant
 - - cornelius
   - cardew
   - mere
+- - cardew
+  - mere
+  - coincidence
 - - mason
   - plays
   - sir
@@ -41,9 +41,9 @@ ngrams:
 - - pamphleteering
   - tips
   - having
-- - teasing
+- - gently
+  - teasing
   - another
-  - upper
 story:
   date: 2012-02-11
   id: 2012-02-11-cardew-the-pamphleteer

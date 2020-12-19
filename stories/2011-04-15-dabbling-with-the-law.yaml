@@ -8,12 +8,12 @@ ngrams:
 - - dispense
   - legal
   - advice
-- - reliable
-  - legal
-  - advice
 - - street
   - corners
   - haranguing
+- - reliable
+  - legal
+  - advice
 - - unwashed
   - masses
   - gathered
@@ -26,27 +26,27 @@ ngrams:
 - - free
   - online
   - legal
-- - masses
-  - gathered
-  - below
 - - deep
   - textual
   - study
+- - masses
+  - gathered
+  - below
 - - shuns
   - human
   - company
 - - human
   - company
   - aloft
-- - occasionally
-  - become
-  - entangled
-- - ivorian
-  - turret
-  - given
 - - several
   - obscure
   - crimes
+- - ivorian
+  - turret
+  - given
+- - occasionally
+  - become
+  - entangled
 - - under
   - arrest
   - rightly
@@ -62,21 +62,21 @@ ngrams:
 - - still
   - heinous
   - acts
-- - obscure
-  - crimes
-  - most
 - - pointy
   - town
   - equivalent
+- - obscure
+  - crimes
+  - most
 - - legal
   - precepts
+  - through
+- - legal
+  - tips
   - through
 - - little
   - white
   - balls
-- - legal
-  - tips
-  - through
 - - many
   - matters
   - legal
@@ -95,60 +95,63 @@ ngrams:
 - - hang
   - upside
   - down
-- - still
-  - placed
-  - under
 - - tannoy
   - whether
   - those
-- - light
-  - little
-  - white
-- - ivory
-  - tower
-  - such
 - - legal
   - tips
   - even
-- - dobson's
-  - pamphlet
-  - how
-- - like
-  - bing
-  - bang
-- - few
-  - hours
-  - why
-- - bats
-  - like
-  - bludgeons
+- - still
+  - placed
+  - under
+- - ivory
+  - tower
+  - such
+- - light
+  - little
+  - white
 - - tower
   - such
   - persons
+- - dobson's
+  - pamphlet
+  - how
 - - balcony
   - spitting
   - upon
-- - big
-  - bats
+- - few
+  - hours
+  - why
+- - like
+  - bing
+  - bang
+- - bats
   - like
+  - bludgeons
 - - criminality
   - even
   - though
+- - big
+  - bats
+  - like
 - - statute
   - book
   - such
 - - nothing
   - better
   - than
-- - hours
-  - why
-  - only
 - - something
   - like
   - bing
 - - qualified
   - practitioners
   - who
+- - hours
+  - why
+  - only
+- - therefore
+  - can
+  - almost
 - - like
   - nothing
   - better
@@ -161,9 +164,6 @@ ngrams:
 - - our
   - first
   - topic
-- - therefore
-  - can
-  - almost
 - - roughed
   - somebody
   - up
@@ -185,30 +185,30 @@ ngrams:
 - - when
   - dispensing
   - advice
-- - dragged
-  - him
-  - 'off'
-- - fill
-  - your
-  - brain
-- - worth
-  - pointing
-  - out
 - - view
   - unfortunately
   - if
-- - before
-  - charging
-  - him
 - - wrongly
   - particularly
   - if
-- - day
-  - may
-  - come
+- - worth
+  - pointing
+  - out
+- - dragged
+  - him
+  - 'off'
 - - particularly
   - if
   - detective
+- - fill
+  - your
+  - brain
+- - day
+  - may
+  - come
+- - before
+  - charging
+  - him
 story:
   date: 2011-04-15
   id: 2011-04-15-dabbling-with-the-law

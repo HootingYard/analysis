@@ -5,18 +5,18 @@ ngrams:
 - - buttons
   - velcro
   - zips
-- - facing
-  - serious
-  - criminal
 - - serious
   - criminal
   - charges
-- - item
-  - mrs
-  - gubbins
+- - facing
+  - serious
+  - criminal
 - - popular
   - item
   - mrs
+- - item
+  - mrs
+  - gubbins
 - - leave
   - readers
   - bereft
@@ -38,9 +38,9 @@ ngrams:
 - - buttons
   - our
   - popular
-- - her
-  - colleague
-  - matilda
+- - other
+  - fastening
+  - methods
 story:
   date: 2004-04-01
   id: 2004-04-01-mrs-gubbins-and-her-infatuation-with-buttons

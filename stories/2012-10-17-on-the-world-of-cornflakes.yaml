@@ -11,123 +11,120 @@ ngrams:
 - - indelible
   - marker
   - pen
-- - hopeless
-  - grief
-  - '-'
 - - ford
   - madox
   - ford
 - - ford
   - madox
   - ford
+- - ford
+  - madox
+  - brown
+- - ford
+  - madox
+  - brown
 - - madcap
   - serial
   - killer
-- - crumpled
-  - clothing
-  - '-'
-- - ford
-  - madox
-  - brown
-- - ford
-  - madox
-  - brown
-- - keen
-  - stamp
-  - collector
 - - wholly
   - hopelessly
   - immersed
-- - upright
-  - '-'
-  - i'm
+- - keen
+  - stamp
+  - collector
 - - huge
   - urban
   - sprawl
-- - '-'
-  - i'm
-  - afraid
 - - cartons
   - became
   - horribly
 - - became
   - horribly
   - entangled
-- - stamp
-  - collection
-  - gave
 - - became
   - wholly
   - hopelessly
-- - black
-  - bold
-  - indelible
-- - black
-  - bold
-  - indelible
+- - stamp
+  - collection
+  - gave
 - - seaside
   - resort
   - early
+- - black
+  - bold
+  - indelible
+- - black
+  - bold
+  - indelible
 - - particular
   - breakfast
   - cereal
-- - during
-  - john
-  - major's
-- - nearby
-  - facility
-  - called
+- - hopeless
+  - grief
+  - '-'
+- - crumpled
+  - clothing
+  - '-'
 - - thin
   - crisp
   - air
+- - during
+  - john
+  - major's
+- - upright
+  - '-'
+  - i'm
+- - nearby
+  - facility
+  - called
 - - cold
   - hard
   - floor
 - - cold
   - hard
   - floor
-- - changed
-  - '-'
-  - good
-- - himself
-  - upright
-  - '-'
+- - eventually
+  - oh
+  - eventually
+- - eventually
+  - oh
+  - eventually
+- - '-'
+  - i'm
+  - afraid
 - - transformed
   - later
   - sitting
-- - eventually
-  - oh
-  - eventually
-- - eventually
-  - oh
-  - eventually
-- - world
-  - changed
-  - '-'
-- - big
-  - black
-  - bold
-- - big
-  - black
-  - bold
 - - hold
   - himself
   - upright
 - - cornflakes
   - soon
   - enough
+- - big
+  - black
+  - bold
+- - big
+  - black
+  - bold
 - - thoughts
   - turning
   - again
+- - changed
+  - '-'
+  - good
 - - injected
   - every
   - single
-- - '-'
-  - good
-  - morning
+- - himself
+  - upright
+  - '-'
 - - good
   - morning
   - sir
+- - world
+  - changed
+  - '-'
 - - major's
   - first
   - term
@@ -137,30 +134,33 @@ ngrams:
 - - shortly
   - after
   - sunrise
-- - our
-  - kippers
-  - poisonous
 - - pronounced
   - our
   - kippers
-- - john
-  - major's
-  - first
-- - ever
-  - saw
-  - cornflakes
 - - yet
   - always
   - managed
+- - our
+  - kippers
+  - poisonous
+- - ever
+  - saw
+  - cornflakes
+- - john
+  - major's
+  - first
 - - shabbier
   - village
   - here
-- - man
-  - transformed
-  - later
+- - '-'
+  - good
+  - morning
 - - less
   - tragic
   - than
+- - man
+  - transformed
+  - later
 - - morning
   - shortly
   - after
@@ -173,21 +173,21 @@ ngrams:
 - - restful
   - night
   - said
-- - day
-  - during
-  - john
 - - hens
   - like
   - eggs
+- - day
+  - during
+  - john
 - - these
   - years
   - stuffing
-- - sea
-  - like
-  - kippers
 - - did
   - indeed
   - thank
+- - sea
+  - like
+  - kippers
 - - guest
   - who
   - pointed
@@ -197,33 +197,33 @@ ngrams:
 - - 'no'
   - longer
   - whacked
-- - found
-  - him
-  - slumped
-- - found
-  - him
-  - slumped
 - - gave
   - up
   - peering
+- - found
+  - him
+  - slumped
+- - found
+  - him
+  - slumped
 - - collection
   - gave
   - up
 - - another
   - guest
   - who
-- - thoughts
-  - were
-  - concentrated
-- - god's
-  - children
-  - were
 - - spent
   - much
   - time
+- - thoughts
+  - were
+  - concentrated
 - - massive
   - hotel
   - when
+- - god's
+  - children
+  - were
 - - wild
   - conjecture
   - were
@@ -245,12 +245,12 @@ ngrams:
 - - hotelier
   - things
   - were
-- - some
-  - other
-  - tragedies
 - - breakfast
   - parlour
   - all
+- - some
+  - other
+  - tragedies
 - - birds
   - forgot
   - all
@@ -266,9 +266,6 @@ ngrams:
 - - missing
   - all
   - these
-- - like
-  - kippers
-  - were
 - - an
   - inland
   - bailiwick
@@ -278,9 +275,6 @@ ngrams:
 - - forearm
   - an
   - amateur
-- - an
-  - amateur
-  - tattoo
 - - forearm
   - an
   - amateur
@@ -288,17 +282,23 @@ ngrams:
   - amateur
   - tattoo
 - - an
-  - insalubrious
-  - hotel
-- - why
-  - they
-  - found
+  - amateur
+  - tattoo
+- - like
+  - kippers
+  - were
 - - things
   - were
   - never
+- - an
+  - insalubrious
+  - hotel
 - - madox
   - brown
   - one
+- - why
+  - they
+  - found
 - - where
   - they
   - sprung
@@ -314,33 +314,33 @@ ngrams:
 - - could
   - see
   - 'no'
+- - madox
+  - ford
+  - or
+- - or
+  - ford
+  - madox
+- - madox
+  - ford
+  - or
+- - or
+  - ford
+  - madox
+- - ford
+  - or
+  - ford
+- - ford
+  - or
+  - ford
 - - all
   - these
   - years
-- - who
-  - pointed
-  - out
 - - imagine
   - one
   - without
-- - breakfast
-  - this
-  - morning
-- - did
-  - they
-  - come
-- - madox
-  - ford
-  - or
-- - or
-  - ford
-  - madox
-- - madox
-  - ford
-  - or
-- - or
-  - ford
-  - madox
+- - who
+  - pointed
+  - out
 story:
   date: 2012-10-17
   id: 2012-10-17-on-the-world-of-cornflakes

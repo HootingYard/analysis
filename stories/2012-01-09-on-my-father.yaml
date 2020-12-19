@@ -14,99 +14,99 @@ ngrams:
 - - manchester
   - united
   - match
-- - father's
-  - th
-  - birthday
 - - soviet
   - propaganda
   - magazine
-- - hideous
-  - plastic
-  - rose
 - - evening
   - standard
   - ringing
-- - manchester
-  - accent
-  - became
+- - father's
+  - th
+  - birthday
+- - hideous
+  - plastic
+  - rose
 - - summer
   - garden
   - parties
-- - norman
-  - st
-  - john
+- - manchester
+  - accent
+  - became
 - - big
   - florid
   - curly
+- - norman
+  - st
+  - john
 - - called
   - carlton
   - premium
 - - cigarettes
   - called
   - carlton
+- - almost
+  - died
+  - shortly
 - - magazine
   - called
   - sputnik
 - - propaganda
   - magazine
   - called
-- - almost
-  - died
-  - shortly
 - - sentences
   - each
   - beginning
 - - made
   - disparaging
   - remarks
-- - first
-  - signs
-  - leading
 - - bus
   - fare
   - how
+- - first
+  - signs
+  - leading
 - - never
   - speak
   - ill
 - - died
   - shortly
   - before
-- - died
-  - two
-  - days
 - - support
   - any
   - particular
 - - any
   - particular
   - team
+- - died
+  - two
+  - days
 - - hooting
   - yard
   - guff
 - - little
   - red
   - book
+- - should
+  - never
+  - speak
 - - it's
   - like
   - blackpool
 - - usual
   - hooting
   - yard
-- - should
-  - never
-  - speak
 - - two
   - days
   - later
 - - saying
   - it's
   - like
-- - cry
-  - only
-  - once
 - - yard
   - guff
   - here
+- - cry
+  - only
+  - once
 - - him
   - dusting
   - individually
@@ -166,49 +166,49 @@ ngrams:
   - sitting
 - - remember
   - him
+  - taking
+- - remember
+  - him
+  - taking
+- - remember
+  - him
   - using
-- - remember
-  - him
-  - taking
-- - remember
-  - him
-  - taking
-- - him
-  - wandering
-  - around
 - - 'no'
   - particular
   - order
 - - disparaging
   - remarks
   - about
+- - him
+  - wandering
+  - around
 - - insistence
   - when
   - maudling
-- - bread
-  - mashed
-  - into
-- - about
-  - dr
-  - rhodes
 - - exaggerated
   - when
   - speaking
+- - bread
+  - mashed
+  - into
 - - when
   - maudling
   - died
+- - about
+  - dr
+  - rhodes
 - - remarks
   - about
   - dr
+- - any
+  - more
+  - pots
 - - shoulder
   - calling
   - out
 - - clarity
   - about
   - right
-- - any
-  - more
-  - pots
 - - anything
   - other
   - than
@@ -224,33 +224,39 @@ ngrams:
 - - been
   - very
   - ill
-- - him
-  - look
-  - like
 - - father
   - today
   - would
-- - telling
-  - me
-  - how
+- - him
+  - look
+  - like
 - - calling
   - out
   - any
+- - telling
+  - me
+  - how
 - - ringing
   - him
   - up
-- - red
-  - book
-  - which
 - - only
   - once
   - when
+- - red
+  - book
+  - which
 - - an
   - empty
   - room
 - - had
   - dentures
   - fitted
+- - reginald
+  - maudling
+  - but
+- - python
+  - but
+  - loved
 - - him
   - showing
   - me
@@ -260,48 +266,42 @@ ngrams:
 - - him
   - telling
   - me
-- - reginald
-  - maudling
-  - but
 - - him
   - taking
   - me
 - - him
   - taking
   - me
-- - python
-  - but
-  - loved
-- - him
-  - up
-  - after
 - - one
   - should
   - always
+- - him
+  - up
+  - after
 - - when
   - talking
   - about
-- - united
-  - match
-  - at
-- - teeth
-  - extracted
-  - at
 - - maudling
   - but
   - also
-- - garden
-  - parties
+- - united
+  - match
   - at
 - - out
   - any
   - more
-- - one
-  - should
-  - never
+- - teeth
+  - extracted
+  - at
+- - garden
+  - parties
+  - at
 - - context
   - or
   - how
+- - one
+  - should
+  - never
 story:
   date: 2012-01-09
   id: 2012-01-09-on-my-father

@@ -1,19 +1,19 @@
 ngrams:
-- - somewhat
-  - fraught
-  - relationship
 - - proof
   - egg
   - nog
+- - somewhat
+  - fraught
+  - relationship
+- - slow
+  - lumbering
+  - bears
 - - poor
   - rex's
   - tomb
 - - blind
   - woodcutter
   - cackled
-- - slow
-  - lumbering
-  - bears
 - - therefore
   - remain
   - wedged
@@ -23,27 +23,27 @@ ngrams:
 - - dr
   - ruth
   - pastry
-- - th
-  - century
-  - suicide
-- - anonymous
-  - th
-  - century
 - - tin
   - wood
   - grease
 - - eyes
   - gleamed
   - dangerously
-- - sightless
-  - eyes
-  - gleamed
-- - whose
-  - pen
-  - streams
 - - egg
   - nog
   - don't
+- - sightless
+  - eyes
+  - gleamed
+- - th
+  - century
+  - suicide
+- - anonymous
+  - th
+  - century
+- - whose
+  - pen
+  - streams
 - - dark
   - dark
   - woods
@@ -56,12 +56,12 @@ ngrams:
 - - dark
   - dark
   - woods
-- - approaching
-  - mania
-  - three
 - - questions
   - present
   - themselves
+- - approaching
+  - mania
+  - three
 - - dr
   - pastry
   - seemed
@@ -71,45 +71,45 @@ ngrams:
 - - century
   - suicide
   - note
-- - mania
-  - three
-  - questions
 - - tiny
   - biting
   - creatures
-- - bright
-  - blue
-  - eyes
+- - mania
+  - three
+  - questions
 - - something
   - approaching
   - mania
+- - bright
+  - blue
+  - eyes
 - - soviet
   - union
   - long
 - - union
   - long
   - collapsed
-- - three
-  - questions
-  - present
 - - walked
   - each
   - step
-- - nog
-  - don't
-  - get
+- - three
+  - questions
+  - present
 - - sky
   - within
   - minutes
+- - nog
+  - don't
+  - get
+- - myself
+  - hopelessly
+  - lost
 - - too
   - busy
   - putting
 - - each
   - step
   - taking
-- - myself
-  - hopelessly
-  - lost
 - - again
   - dr
   - pastry
@@ -119,21 +119,21 @@ ngrams:
 - - relationship
   - many
   - moons
-- - old
-  - blind
-  - woodcutter
-- - old
-  - blind
-  - woodcutter
-- - hands
-  - still
-  - stink
 - - fraught
   - relationship
   - many
+- - hands
+  - still
+  - stink
 - - buzzing
   - away
   - trying
+- - old
+  - blind
+  - woodcutter
+- - old
+  - blind
+  - woodcutter
 - - wandering
   - these
   - dark
@@ -143,21 +143,21 @@ ngrams:
 - - mind
   - buzzing
   - away
-- - unbuttoning
-  - business
-  - first
 - - business
   - first
   - flared
-- - these
-  - dark
-  - dark
+- - unbuttoning
+  - business
+  - first
 - - railway
   - accident
   - very
 - - again
   - set
   - foot
+- - these
+  - dark
+  - dark
 - - rapidly
   - torn
   - down
@@ -167,78 +167,60 @@ ngrams:
 - - hours
   - after
   - cycling
-- - blue
-  - eyes
-  - two
 - - many
   - moons
   - ago
 - - may
   - therefore
   - remain
-- - woodcutter
-  - cackled
-  - now
 - - those
   - exceptions
   - however
+- - woodcutter
+  - cackled
+  - now
+- - blue
+  - eyes
+  - two
 - - dr
   - pastry
   - down
 - - end
   - suddenly
   - made
-- - eyes
-  - two
-  - hours
 - - passing
   - years
   - took
-- - bagshaw
-  - met
-  - her
+- - eyes
+  - two
+  - hours
+- - much
+  - alive
+  - though
 - - investigate
   - now
+  - dr
+- - think
+  - again
   - dr
 - - now
   - dr
   - pastry
-- - invited
-  - her
-  - help
-- - much
-  - alive
-  - though
-- - think
-  - again
-  - dr
 - - single
   - day
   - since
-- - change
+- - bagshaw
+  - met
   - her
-  - mind
 - - how
   - old
   - ma
 - - ever
   - again
   - set
-- - given
+- - invited
   - her
-  - fondness
-- - enjoy
-  - given
-  - her
-- - only
-  - ever
-  - imagined
-- - her
-  - end
-  - suddenly
-- - met
-  - her
-  - end
+  - help
 - - accident
   - very
   - much
@@ -248,33 +230,51 @@ ngrams:
 - - cackled
   - now
   - though
-- - citizens
-  - who
-  - collect
+- - only
+  - ever
+  - imagined
+- - change
+  - her
+  - mind
 - - every
   - single
   - day
+- - citizens
+  - who
+  - collect
+- - given
+  - her
+  - fondness
+- - enjoy
+  - given
+  - her
 - - two
   - hours
   - after
+- - her
+  - end
+  - suddenly
+- - well
+  - never
+  - again
+- - met
+  - her
+  - end
 - - our
   - dispute
   - only
 - - inquiring
   - mind
   - who
-- - well
-  - never
-  - again
-- - ask
-  - him
-  - face
 - - someone
   - else
   - who
 - - am
   - too
   - busy
+- - ask
+  - him
+  - face
 - - nostrums
   - can
   - go
@@ -284,18 +284,18 @@ ngrams:
 - - were
   - exchanged
   - saucepans
-- - ever
-  - imagined
-  - him
-- - took
-  - their
-  - toll
 - - remain
   - wedged
   - into
 - - promise
   - partly
   - out
+- - took
+  - their
+  - toll
+- - ever
+  - imagined
+  - him
 - - worth
   - writing
   - about
@@ -305,108 +305,108 @@ ngrams:
 - - heaven
   - key
   - what
-- - those
-  - citizens
-  - who
 - - key
   - what
   - makes
 - - cycling
   - into
   - town
+- - those
+  - citizens
+  - who
 - - three
   - questions
   - about
+- - biting
+  - creatures
+  - there
 - - unforgivable
   - words
   - were
 - - words
   - were
   - exchanged
-- - been
-  - wandering
-  - these
 - - step
   - taking
   - me
-- - biting
-  - creatures
-  - there
-- - discovering
-  - them
-  - now
-- - feud
-  - between
-  - me
+- - been
+  - wandering
+  - these
 - - else
   - who
   - might
+- - feud
+  - between
+  - me
+- - discovering
+  - them
+  - now
 - - me
   - safely
   - home
-- - imposing
-  - sculpture
-  - which
-- - taking
-  - me
-  - further
 - - moons
   - ago
   - we
-- - are
-  - rapidly
-  - torn
+- - taking
+  - me
+  - further
+- - would
+  - enjoy
+  - given
+- - imposing
+  - sculpture
+  - which
 - - years
   - took
   - their
 - - after
   - cycling
   - into
+- - are
+  - rapidly
+  - torn
 - - get
   - me
   - wrong
-- - would
-  - enjoy
-  - given
-- - nostrums
-  - they
-  - too
 - - story
   - about
   - how
+- - nostrums
+  - they
+  - too
 - - don't
   - get
   - me
-- - suicide
-  - note
-  - which
-- - note
-  - which
-  - reads
 - - ago
   - we
   - got
 - - see
   - me
   - safely
+- - suicide
+  - note
+  - which
+- - note
+  - which
+  - reads
 - - never
   - again
   - your
 - - set
   - 'off'
   - into
+- - we
+  - swear
+  - never
 - - an
   - imposing
   - sculpture
-- - who
-  - collect
-  - them
-- - sand
-  - an
-  - imposing
 - - made
   - we
   - swear
+- - who
+  - collect
+  - them
 story:
   date: 2005-06-06
   id: 2005-06-06-a-pedants-righteous-nostrums

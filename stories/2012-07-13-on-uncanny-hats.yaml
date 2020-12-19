@@ -5,15 +5,15 @@ ngrams:
 - - stylish
   - italian
   - hoity
+- - italian
+  - hoity
+  - toity
 - - weary
   - limbs
   - chose
 - - butcher's
   - shops
   - prey
-- - italian
-  - hoity
-  - toity
 - - fairly
   - typical
   - butcher's
@@ -23,108 +23,108 @@ ngrams:
 - - wear
   - uncanny
   - hats
-- - bit
-  - uncanny
-  - peckish
 - - hoity
   - toity
   - boots
+- - bit
+  - uncanny
+  - peckish
 - - certain
   - niggling
   - vexations
 - - supernatural
   - character
   - mysterious
-- - typical
-  - butcher's
-  - hat
 - - carrier
   - bag
   - crammed
-- - overcast
-  - sky
-  - threatening
+- - typical
+  - butcher's
+  - hat
 - - certain
   - unseemly
   - stains
-- - boulevard
-  - butcher
-  - whose
-- - frightening
-  - fairy
-  - story
-- - nearly
-  - four
-  - decades
-- - character
-  - mysterious
-  - weird
+- - overcast
+  - sky
+  - threatening
 - - persons
   - wearing
   - hats
+- - character
+  - mysterious
+  - weird
+- - frightening
+  - fairy
+  - story
+- - boulevard
+  - butcher
+  - whose
+- - nearly
+  - four
+  - decades
 - - piping
   - hot
   - tea
 - - bed
   - certain
   - niggling
-- - knowledge
-  - nearly
-  - four
 - - sky
   - threatening
   - rain
 - - unseemly
   - stains
   - under
-- - itself
-  - seemed
-  - uncanny
-- - sopping
-  - wet
-  - however
-- - single
-  - uncanny
-  - hat
+- - knowledge
+  - nearly
+  - four
 - - pointy
   - beard
   - dressed
+- - sopping
+  - wet
+  - however
+- - itself
+  - seemed
+  - uncanny
+- - single
+  - uncanny
+  - hat
 - - wet
   - however
   - dry
-- - butcher
-  - whose
-  - hat
-- - hat
-  - question
-  - matters
 - - supernatural
   - character
   - given
-- - later
-  - slurping
-  - tea
+- - hat
+  - question
+  - matters
+- - butcher
+  - whose
+  - hat
 - - felt
   - sure
   - peter
+- - later
+  - slurping
+  - tea
 - - least
   - bit
   - uncanny
-- - people
-  - wearing
-  - hats
 - - mysterious
   - nor
   - weird
+- - people
+  - wearing
+  - hats
+- - neither
+  - mysterious
+  - nor
 - - told
   - later
   - slurping
 - - uncanny
   - sure
   - enough
-- - neither
-  - mysterious
-  - nor
 - - wearing
   - hats
   - perhaps
@@ -140,54 +140,54 @@ ngrams:
 - - own
   - bat
   - whether
-- - uncanny
-  - hats
-  - many
+- - nor
+  - weird
+  - nor
 - - those
   - cursed
   - umbrellas
 - - understand
   - why
   - almost
-- - nor
-  - weird
-  - nor
-- - very
-  - methodical
-  - approach
+- - uncanny
+  - hats
+  - many
 - - question
   - while
   - sitting
-- - penny
-  - those
-  - parts
+- - very
+  - methodical
+  - approach
 - - atop
   - somebody's
   - head
-- - little
-  - tyrolean
-  - number
-- - hat
-  - flying
-  - 'off'
+- - penny
+  - those
+  - parts
 - - those
   - questions
   - sung
-- - take
-  - another
-  - nap
 - - new
   - vantage
   - point
-- - hour
-  - before
-  - spotting
 - - questions
   - before
   - proceeding
+- - take
+  - another
+  - nap
+- - hour
+  - before
+  - spotting
+- - hat
+  - flying
+  - 'off'
 - - easy
   - matter
   - how
+- - little
+  - tyrolean
+  - number
 - - little
   - pointy
   - beard
@@ -221,6 +221,12 @@ ngrams:
 - - hats
   - many
   - years
+- - somebody's
+  - head
+  - being
+- - head
+  - being
+  - worn
 - - proceeding
   - some
   - questions
@@ -230,48 +236,45 @@ ngrams:
 - - posed
   - some
   - questions
-- - somebody's
-  - head
-  - being
-- - head
-  - being
-  - worn
 - - angular
   - somethings
   - who
-- - some
-  - hats
-  - looked
 - - matter
   - how
   - many
 - - plopped
   - them
   - atop
+- - some
+  - hats
+  - looked
 - - lolloping
   - fellow
   - who
-- - somethings
-  - who
-  - knows
-- - has
-  - already
-  - dawned
 - - 'no'
   - noticeable
   - increase
+- - head
+  - might
+  - remain
 - - many
   - years
   - ago
+- - somethings
+  - who
+  - knows
 - - proving
   - 'no'
   - easy
 - - has
-  - certain
-  - unseemly
+  - already
+  - dawned
 - - their
   - weary
   - limbs
+- - persons
+  - wearing
+  - them
 - - those
   - years
   - ago
@@ -281,60 +284,57 @@ ngrams:
 - - first
   - heard
   - those
-- - persons
-  - wearing
-  - them
+- - has
+  - certain
+  - unseemly
 - - brought
   - 'no'
   - noticeable
-- - fellow
-  - who
-  - seemed
 - - sitting
   - indoors
   - 'no'
 - - carrying
   - their
   - hats
-- - head
-  - might
-  - remain
+- - fellow
+  - who
+  - seemed
 - - rest
   - their
   - weary
 - - many
   - other
   - calls
-- - wore
-  - 'no'
-  - hat
 - - atop
   - their
   - heads
-- - people
-  - who
-  - wore
+- - wore
+  - 'no'
+  - hat
 - - rain
   - brought
   - 'no'
 - - 'no'
   - easy
   - matter
+- - people
+  - who
+  - wore
 - - perhaps
   - who
   - eschewed
-- - uncomfortable
-  - hats
-  - were
-- - sally
-  - forth
-  - into
 - - about
   - hats
   - peter
+- - sally
+  - forth
+  - into
 - - persons
   - perhaps
   - who
+- - uncomfortable
+  - hats
+  - were
 - - questions
   - about
   - hats
@@ -347,159 +347,159 @@ ngrams:
 - - unfamiliar
   - none
   - were
-- - posed
-  - dobson
-  - has
-- - before
-  - proceeding
-  - some
-- - none
-  - were
-  - mysterious
+- - hats
+  - more
+  - than
 - - can't
   - remember
   - what
 - - nap
   - instead
   - when
-- - hats
-  - more
-  - than
+- - before
+  - proceeding
+  - some
+- - none
+  - were
+  - mysterious
 - - many
   - more
   - days
 - - sausages
   - answering
   - all
+- - posed
+  - dobson
+  - has
 - - beard
   - dressed
   - all
 - - remember
   - what
   - kind
-- - me
-  - unfamiliar
-  - none
 - - strode
   - out
   - under
+- - me
+  - unfamiliar
+  - none
 - - talking
   - about
   - should
-- - been
-  - posed
-  - dobson
 - - about
   - should
   - listen
 - - work
   - cut
   - out
-- - now
-  - plopped
-  - them
-- - hour
-  - all
-  - told
 - - boulevard
   - instead
   - there
 - - how
   - many
   - more
-- - niggling
-  - vexations
-  - which
-- - instead
-  - there
-  - appeared
+- - now
+  - plopped
+  - them
+- - hour
+  - all
+  - told
+- - been
+  - posed
+  - dobson
 - - so
   - sausages
   - digested
+- - instead
+  - there
+  - appeared
 - - their
   - heads
   - where
+- - niggling
+  - vexations
+  - which
 - - all
   - told
   - later
 - - bothering
   - me
   - ever
-- - knew
-  - all
-  - too
 - - could
   - rest
   - their
-- - an
-  - unnervingly
-  - elvish
 - - go
   - out
   - again
+- - knew
+  - all
+  - too
+- - an
+  - unnervingly
+  - elvish
 - - me
   - ever
   - since
-- - who
-  - wore
-  - 'no'
 - - limbs
   - chose
   - one
-- - who
-  - eschewed
-  - their
-- - provide
-  - an
-  - answer
 - - one
   - wear
   - uncanny
-- - mind
-  - all
-  - those
-- - pondering
-  - this
-  - smoking
-- - has
-  - many
-  - other
-- - this
-  - boulevard
-  - butcher
-- - an
-  - overcast
-  - sky
-- - an
-  - important
-  - boulevard
-- - them
-  - atop
-  - their
-- - half
-  - an
-  - hour
-- - an
-  - earlier
-  - century
 - - am
   - talking
   - about
+- - pondering
+  - this
+  - smoking
+- - mind
+  - all
+  - those
+- - this
+  - boulevard
+  - butcher
+- - provide
+  - an
+  - answer
+- - who
+  - eschewed
+  - their
+- - who
+  - wore
+  - 'no'
+- - them
+  - atop
+  - their
+- - an
+  - important
+  - boulevard
+- - an
+  - overcast
+  - sky
 - - all
   - too
   - well
+- - an
+  - earlier
+  - century
+- - has
+  - many
+  - other
+- - half
+  - an
+  - hour
 - - heads
   - where
   - they
+- - important
+  - boulevard
+  - one
 - - under
   - an
   - overcast
-- - some
-  - questions
-  - about
-- - some
-  - questions
-  - about
+- - too
+  - well
+  - there
 story:
   date: 2012-07-13
   id: 2012-07-13-on-uncanny-hats

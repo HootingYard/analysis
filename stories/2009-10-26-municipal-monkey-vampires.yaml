@@ -17,15 +17,15 @@ ngrams:
 - - council
   - tax
   - promptly
-- - quality
-  - singularly
-  - lacking
 - - boilerplate
   - municipal
   - jargon
 - - alderman
   - spandau
   - alongside
+- - quality
+  - singularly
+  - lacking
 - - civic
   - functionary
   - emerged
@@ -38,12 +38,12 @@ ngrams:
 - - current
   - council
   - administration
-- - pound
-  - supervisor
-  - proved
 - - municipal
   - pride
   - expressed
+- - pound
+  - supervisor
+  - proved
 - - park
   - benches
   - signage
@@ -53,42 +53,42 @@ ngrams:
 - - majestic
   - frontage
   - gosh
-- - avoid
-  - becoming
-  - engulfed
-- - bins
-  - park
-  - benches
-- - threw
-  - pickle
-  - jars
 - - municipal
   - doings
   - therein
-- - feeling
-  - somewhat
-  - belittled
+- - bins
+  - park
+  - benches
+- - avoid
+  - becoming
+  - engulfed
+- - threw
+  - pickle
+  - jars
 - - impounded
   - monkey
   - vampires
-- - carpathians
-  - others
-  - preferred
+- - feeling
+  - somewhat
+  - belittled
 - - transparent
   - monkey
   - vampires
 - - monkey
   - pound
   - supervisor
+- - carpathians
+  - others
+  - preferred
+- - municipal
+  - monkey
+  - vampires
 - - gosh
   - feeling
   - somewhat
 - - pretty
   - momentous
   - visit
-- - municipal
-  - monkey
-  - vampires
 - - municipal
   - monkey
   - pound
@@ -101,12 +101,15 @@ ngrams:
 - - others
   - threw
   - pickle
-- - darkness
-  - others
-  - threw
 - - less
   - grubby
   - cravat
+- - darkness
+  - others
+  - threw
+- - monkey
+  - vampires
+  - themselves
 - - alderman
   - spandau
   - whose
@@ -116,78 +119,81 @@ ngrams:
 - - lapel
   - five
   - minutes
-- - monkey
-  - vampires
-  - themselves
 - - seen
   - sucking
   - moisture
-- - couldn't
-  - help
-  - thinking
 - - hall
   - numberless
   - times
-- - unfailingly
-  - helpful
-  - person
-- - nuts
-  - left
-  - unattended
-- - real
-  - ones
-  - grew
-- - council
-  - person
-  - emerged
-- - brazil
-  - nuts
-  - left
+- - couldn't
+  - help
+  - thinking
 - - suppose
   - anybody
   - else
+- - real
+  - ones
+  - grew
 - - unseemly
   - traffic
   - between
+- - unfailingly
+  - helpful
+  - person
 - - council
   - person
-  - replied
-- - word
-  - dignitary
-  - comes
+  - emerged
+- - nuts
+  - left
+  - unattended
 - - almost
   - transparent
   - monkey
+- - council
+  - person
+  - replied
+- - brazil
+  - nuts
+  - left
+- - word
+  - dignitary
+  - comes
 - - town
   - hall
   - numberless
-- - council
-  - person
-  - gave
 - - several
   - contaminated
   - eggs
-- - brains
-  - removed
-  - let
+- - council
+  - person
+  - gave
+- - control
+  - though
+  - reassured
 - - everything
   - under
   - control
-- - another
-  - german
-  - prison
-- - stare
-  - each
-  - wore
-- - read
-  - concerned
-  - alderman
-- - bin
-  - provided
-  - each
 - - tree
   - enthusiast
   - rather
+- - another
+  - german
+  - prison
+- - brains
+  - removed
+  - let
+- - read
+  - concerned
+  - alderman
+- - immediate
+  - concern
+  - though
+- - stare
+  - each
+  - wore
+- - bin
+  - provided
+  - each
 - - park
   - bench
   - next
@@ -197,60 +203,51 @@ ngrams:
 - - councillors
   - put
   - together
-- - control
-  - though
-  - reassured
 - - bloody
   - big
   - piece
-- - immediate
-  - concern
-  - though
 - - five
   - minutes
   - later
-- - most
-  - unfailingly
-  - helpful
 - - along
   - corridors
   - towards
-- - cousin
-  - although
-  - yet
-- - tiny
-  - almost
-  - transparent
+- - most
+  - unfailingly
+  - helpful
 - - numberless
   - times
   - without
-- - times
-  - without
-  - paying
+- - cousin
+  - although
+  - yet
 - - certain
   - disdain
   - perhaps
+- - times
+  - without
+  - paying
+- - tiny
+  - almost
+  - transparent
 - - hours
   - without
   - seeing
 - - town
   - hall
   - both
+- - town
+  - hall
+  - without
 - - monkey
   - vampires
   - these
 - - arrangement
   - thereof
   - those
-- - town
-  - hall
-  - without
 - - under
   - control
   - though
-- - made
-  - judicious
-  - use
 - - yet
   - another
   - german
@@ -263,147 +260,150 @@ ngrams:
 - - minor
   - upkeep
   - such
+- - made
+  - judicious
+  - use
 - - birds
   - ever
   - flew
-- - although
-  - yet
-  - another
-- - removed
-  - let
-  - us
-- - wait
-  - before
-  - taking
 - - such
   - glistening
   - buttons
+- - although
+  - yet
+  - another
+- - wait
+  - before
+  - taking
+- - removed
+  - let
+  - us
 - - own
   - little
   - sphere
 - - person
   - gave
   - 'off'
-- - train
-  - like
-  - lenin
 - - its
   - majestic
   - frontage
-- - sealed
-  - train
-  - like
 - - eyes
   - glazing
   - over
+- - train
+  - like
+  - lenin
 - - any
   - sane
   - person
+- - sealed
+  - train
+  - like
 - - won
   - more
   - votes
-- - know
-  - quite
-  - unbeknown
-- - place
-  - any
-  - litter
 - - engage
   - more
   - fully
-- - enough
-  - just
-  - past
-- - quite
-  - pin
-  - down
-- - sure
-  - enough
-  - just
-- - us
-  - say
-  - modified
 - - monkey
   - vampires
   - could
-- - thereof
-  - those
-  - too
-- - sometimes
-  - very
-  - tiny
+- - place
+  - any
+  - litter
+- - know
+  - quite
+  - unbeknown
+- - enough
+  - just
+  - past
 - - enthusiast
   - rather
   - than
-- - very
-  - tiny
-  - almost
+- - sure
+  - enough
+  - just
+- - quite
+  - pin
+  - down
+- - us
+  - say
+  - modified
+- - thereof
+  - those
+  - too
 - - often
   - remarked
   - upon
-- - our
-  - new
-  - volunteer
-- - waste
-  - time
-  - talking
-- - other
-  - councillors
-  - put
 - - such
   - problem
   - indeed
+- - sometimes
+  - very
+  - tiny
+- - waste
+  - time
+  - talking
 - - such
   - things
   - skippy
+- - very
+  - tiny
+  - almost
+- - our
+  - new
+  - volunteer
+- - other
+  - councillors
+  - put
 - - sane
   - person
   - could
+- - ever
+  - flew
+  - over
 - - monkey
   - vampires
   - some
 - - without
   - other
   - duties
-- - ever
-  - flew
-  - over
 - - hall
   - without
   - other
-- - conversation
-  - has
-  - fallen
-- - has
-  - fallen
-  - flat
-- - german
-  - prison
-  - who
-- - skippy
-  - has
-  - everything
 - - person
   - could
   - wish
+- - conversation
+  - has
+  - fallen
+- - german
+  - prison
+  - who
+- - has
+  - fallen
+  - flat
+- - skippy
+  - has
+  - everything
 - - let
   - us
   - say
-- - reportedly
-  - devising
-  - their
-- - 'no'
-  - civic
-  - significance
 - - just
   - any
   - monkeys
-- - anybody
-  - else
-  - who
+- - 'no'
+  - civic
+  - significance
+- - reportedly
+  - devising
+  - their
 - - their
   - entire
   - workforce
+- - anybody
+  - else
+  - who
 - - time
   - understand
   - why
@@ -413,152 +413,149 @@ ngrams:
 - - their
   - brains
   - removed
-- - been
-  - meant
-  - unkindly
-- - wouldn't
-  - worry
-  - your
 - - than
   - any
   - sane
 - - what
   - alderman
   - spandau
-- - field
-  - lined
-  - up
-- - cousin
-  - who
-  - also
-- - has
-  - everything
-  - under
+- - been
+  - meant
+  - unkindly
 - - complaints
   - about
   - surliness
+- - field
+  - lined
+  - up
+- - wouldn't
+  - worry
+  - your
+- - cousin
+  - who
+  - also
 - - who
   - also
   - bore
+- - has
+  - everything
+  - under
+- - thinking
+  - what
+  - alderman
 - - things
   - skippy
   - has
-- - were
-  - weirdly
-  - gash
 - - high
   - window
   - up
+- - about
+  - bins
+  - park
+- - about
+  - food
+  - poisoning
+- - were
+  - weirdly
+  - gash
 - - were
   - reportedly
   - devising
 - - weeds
   - were
   - weirdly
-- - thinking
-  - what
-  - alderman
-- - about
-  - food
-  - poisoning
-- - about
-  - bins
-  - park
 - - what
   - i'm
   - talking
-- - taken
-  - them
-  - home
-- - bit
-  - about
-  - bins
 - - much
   - time
   - spent
-- - i'm
-  - talking
-  - about
-- - vampires
-  - themselves
-  - were
-- - help
-  - thinking
-  - what
-- - themselves
-  - were
-  - fascinating
 - - crumbly
   - bits
   - if
+- - bit
+  - about
+  - bins
+- - taken
+  - them
+  - home
+- - more
+  - votes
+  - than
 - - prompted
   - when
   - sitting
+- - i'm
+  - talking
+  - about
+- - help
+  - thinking
+  - what
 - - devising
   - their
   - own
 - - any
   - attention
   - now
-- - more
-  - votes
-  - than
+- - vampires
+  - themselves
+  - were
+- - themselves
+  - were
+  - fascinating
+- - their
+  - own
+  - calendar
 - - else
   - who
   - read
 - - were
   - pictured
   - together
-- - were
-  - qualitatively
-  - different
-- - told
-  - were
-  - velveteen
-- - their
-  - own
-  - calendar
 - - times
   - when
   - conversation
-- - been
-  - home
-  - since
-- - into
-  - several
-  - languages
-- - all
-  - matters
-  - pertaining
-- - translated
-  - into
-  - several
 - - mantelpiece
   - itself
   - if
-- - opinion
-  - suggesting
-  - they
+- - were
+  - qualitatively
+  - different
+- - into
+  - several
+  - languages
+- - told
+  - were
+  - velveteen
+- - translated
+  - into
+  - several
 - - also
   - much
   - time
-- - skippy
-  - apart
-  - they
+- - all
+  - matters
+  - pertaining
 - - least
   - when
   - visible
-- - worry
-  - your
-  - little
+- - opinion
+  - suggesting
+  - they
+- - been
+  - home
+  - since
 - - alderman
   - spandau
   - would
-- - hand
-  - held
-  - out
+- - skippy
+  - apart
+  - they
 - - hurled
   - myself
+  - out
+- - hand
+  - held
   - out
 - - tidy
   - up
@@ -566,21 +563,30 @@ ngrams:
 - - needs
   - must
   - when
-- - ushered
-  - me
-  - towards
-- - window
-  - up
-  - here
-- - sign
-  - placed
-  - there
 - - might
   - call
   - them
+- - sign
+  - placed
+  - there
+- - ushered
+  - me
+  - towards
+- - worry
+  - your
+  - little
+- - window
+  - up
+  - here
+- - 'no'
+  - such
+  - problem
 - - 'no'
   - birds
   - ever
+- - would
+  - need
+  - dusting
 - - these
   - were
   - qualitatively
@@ -590,15 +596,219 @@ ngrams:
 - - aerosol
   - sprays
   - which
-- - 'no'
-  - such
-  - problem
 - - council
   - which
   - implored
+- - hall
+  - both
+  - would
 - - spandau
   - alongside
   - which
+- - were
+  - impounded
+  - here
+- - minutes
+  - later
+  - we
+- - are
+  - desperately
+  - trying
+- - an
+  - active
+  - citizen
+- - wore
+  - an
+  - unfortunate
+- - me
+  - our
+  - bailiwick
+- - albeit
+  - an
+  - amateur
+- - an
+  - expert
+  - albeit
+- - expert
+  - albeit
+  - an
+- - breathing
+  - apparatus
+  - one
+- - votes
+  - than
+  - all
+- - therein
+  - this
+  - impulse
+- - replaced
+  - this
+  - leaflet
+- - monkey
+  - vampires
+  - one
+- - time
+  - talking
+  - about
+- - know
+  - wanted
+  - all
+- - an
+  - inner
+  - pocket
+- - whatever
+  - we
+  - might
+- - doings
+  - therein
+  - this
+- - glistening
+  - buttons
+  - this
+- - buttons
+  - this
+  - council
+- - about
+  - such
+  - things
+- - we
+  - might
+  - call
+- - so
+  - called
+  - because
+- - this
+  - council
+  - person
+- - been
+  - rounded
+  - up
+- - authorities
+  - had
+  - trained
+- - when
+  - conversation
+  - has
+- - municipal
+  - authorities
+  - had
+- - each
+  - wore
+  - an
+- - had
+  - worked
+  - wonders
+- - advice
+  - or
+  - commands
+- - monkey
+  - vampires
+  - had
+- - monkey
+  - vampires
+  - had
+- - head
+  - about
+  - such
+- - instructions
+  - or
+  - pieces
+- - commands
+  - or
+  - whatever
+- - those
+  - too
+  - would
+- - statuary
+  - but
+  - nonetheless
+- - vampires
+  - had
+  - learned
+- - civic
+  - statuary
+  - but
+- - civic
+  - statuary
+  - but
+- - told
+  - me
+  - more
+- - brightly
+  - but
+  - needs
+- - had
+  - sat
+  - beside
+- - civic
+  - significance
+  - but
+- - understand
+  - why
+  - this
+- - but
+  - monkey
+  - vampires
+- - council
+  - person
+  - had
+- - monkeys
+  - but
+  - monkey
+- - council
+  - person
+  - or
+- - hair
+  - oil
+  - but
+- - sucking
+  - moisture
+  - from
+- - suck
+  - moisture
+  - from
+- - functionary
+  - emerged
+  - from
+- - refrain
+  - from
+  - smoking
+- - me
+  - up
+  - staircases
+- - from
+  - vampire
+  - monkeys
+- - greeting
+  - seldom
+  - have
+- - know
+  - more
+  - about
+- - dignitary
+  - comes
+  - from
+- - bin
+  - i'd
+  - have
+- - have
+  - noticed
+  - unseemly
+- - apparatus
+  - one
+  - day
+- - influence
+  - one
+  - day
+- - led
+  - me
+  - up
+- - all
+  - been
+  - rounded
+- - qualitatively
+  - different
+  - from
 story:
   date: 2009-10-26
   id: 2009-10-26-municipal-monkey-vampires

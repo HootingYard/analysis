@@ -5,30 +5,27 @@ ngrams:
 - - cauliflower
   - green
   - peas
-- - iron
-  - pail
-  - direct
-- - green
-  - peas
-  - c
-- - strained
-  - whole
-  - pepper
 - - j
   - o
   - mill
+- - iron
+  - pail
+  - direct
+- - strained
+  - whole
+  - pepper
+- - green
+  - peas
+  - c
 - - distribute
   - written
   - notes
-- - chew
-  - mrs
-  - j
 - - mrs
   - j
   - o
-- - marigold
-  - chew
+- - chew
   - mrs
+  - j
 - - found
   - generally
   - applicable
@@ -38,6 +35,9 @@ ngrams:
 - - stock
   - must
   - therefore
+- - marigold
+  - chew
+  - mrs
 - - sugar
   - look
   - almost
@@ -59,27 +59,24 @@ ngrams:
 - - see
   - nd
   - march
+- - several
+  - details
+  - each
 - - little
   - purple
   - ears
 - - first
   - glance
   - salt
-- - several
-  - details
-  - each
 - - added
   - before
   - bringing
-- - very
-  - hot
-  - mustard
 - - even
   - wells
   - harbour
-- - every
-  - kitchen
-  - must
+- - very
+  - hot
+  - mustard
 - - even
   - wings
   - whereas
@@ -89,6 +86,9 @@ ngrams:
 - - shed
   - such
   - consternation
+- - every
+  - kitchen
+  - must
 - - best
   - try
   - never
@@ -101,99 +101,99 @@ ngrams:
 - - five
   - years
   - old
-- - some
-  - soup
-  - recipes
 - - grit
   - some
   - soup
+- - some
+  - soup
+  - recipes
 - - years
   - old
   - readers
 - - very
   - very
   - hot
-- - circumstance
-  - some
-  - people
 - - than
   - five
   - years
 - - far
   - too
   - many
+- - circumstance
+  - some
+  - people
 - - details
   - each
   - time
-- - your
-  - nasty
-  - fat
 - - grudge
   - having
   - them
-- - been
-  - boiled
-  - should
+- - your
+  - nasty
+  - fat
 - - thackeray
   - will
   - wonder
-- - wells
-  - harbour
-  - all
+- - more
+  - than
+  - five
 - - sugar
   - will
   - help
 - - following
   - directions
   - will
-- - wings
-  - whereas
+- - wells
+  - harbour
   - all
-- - more
-  - than
-  - five
-- - harbour
-  - all
-  - sorts
+- - been
+  - boiled
+  - should
 - - will
   - distribute
   - written
+- - wings
+  - whereas
+  - all
+- - harbour
+  - all
+  - sorts
 - - thackeray
   - will
   - remember
 - - some
   - people
   - think
-- - back
-  - your
-  - nasty
-- - know
-  - their
-  - thackeray
-- - pin
-  - back
-  - your
 - - thus
   - blame
   - me
-- - all
-  - vegetables
-  - should
+- - know
+  - their
+  - thackeray
 - - pavement
   - grease
   - so
-- - household
-  - are
-  - alike
 - - generally
   - applicable
   - so
-- - which
-  - cauliflower
-  - green
-- - little
-  - sugar
-  - will
+- - back
+  - your
+  - nasty
+- - pin
+  - back
+  - your
+- - all
+  - vegetables
+  - should
+- - grease
+  - so
+  - bear
+- - household
+  - are
+  - alike
+- - soup
+  - so
+  - pin
 story:
   date: 2004-03-11
   id: 2004-03-11-soup-a-chewist-text

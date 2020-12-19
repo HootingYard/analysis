@@ -8,21 +8,18 @@ ngrams:
 - - earthly
   - socket
   - lasts
-- - anna
-  - seward
-  - '-'
 - - drunk
   - anna
   - seward
 - - boswell
   - drunk
   - anna
-- - impression
-  - studiously
-  - adopted
 - - intellectual
   - torch
   - wavered
+- - impression
+  - studiously
+  - adopted
 - - samuel
   - johnson
   - trod
@@ -44,21 +41,24 @@ ngrams:
 - - whom
   - samuel
   - johnson
-- - duck
-  - whom
-  - samuel
-- - master
-  - duck
-  - whom
 - - purple
   - prose
   - writers
+- - duck
+  - whom
+  - samuel
 - - others
   - sir
   - walter
+- - master
+  - duck
+  - whom
 - - dr
   - johnson
   - duck
+- - anna
+  - seward
+  - '-'
 - - people
   - hesketh
   - pearson
@@ -74,24 +74,24 @@ ngrams:
 - - lies
   - good
   - master
-- - good
-  - master
-  - duck
 - - own
   - earthly
   - socket
 - - johnson's
   - own
   - authority
-- - terrible
-  - tiny
-  - samuel
+- - good
+  - master
+  - duck
 - - ducks
   - died
   - under
 - - among
   - others
   - sir
+- - terrible
+  - tiny
+  - samuel
 - - death
   - edited
   - three
@@ -113,42 +113,42 @@ ngrams:
 - - than
   - boswell
   - drunk
-- - may
-  - boswell
-  - seems
 - - while
   - yet
   - unlike
+- - may
+  - boswell
+  - seems
 - - its
   - earthly
   - socket
+- - upon
+  - dr
+  - johnson's
+- - refute
+  - upon
+  - dr
+- - very
+  - few
+  - woodcocks
+- - already
+  - stamped
+  - upon
+- - great
+  - strangers
+  - here
 - - execrable
   - her
   - journal
+- - good
+  - while
+  - yet
 - - absolutely
   - execrable
   - her
 - - letters
   - confirm
   - her
-- - very
-  - few
-  - woodcocks
-- - great
-  - strangers
-  - here
-- - refute
-  - upon
-  - dr
-- - upon
-  - dr
-  - johnson's
-- - already
-  - stamped
-  - upon
-- - her
-  - death
-  - edited
 story:
   date: 2010-08-11
   id: 2010-08-11-dr-johnson-duck-killer

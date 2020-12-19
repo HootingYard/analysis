@@ -8,24 +8,24 @@ ngrams:
 - - prof
   - demonstrates
   - convincingly
-- - contraband
-  - caraway
-  - seeds
 - - pestle
   - await
   - inert
-- - velikovsky
-  - pipsqueak
-  - professor
+- - contraband
+  - caraway
+  - seeds
 - - intractable
   - psychological
   - horrors
-- - illegal
-  - arrowroot
-  - biscuits
+- - velikovsky
+  - pipsqueak
+  - professor
 - - legal
   - grocery
   - whereas
+- - illegal
+  - arrowroot
+  - biscuits
 - - pestle
   - recently
   - reissued
@@ -59,12 +59,12 @@ ngrams:
 - - film
   - noir
   - streets
-- - brown
-  - paper
-  - bags
 - - mean
   - film
   - noir
+- - brown
+  - paper
+  - bags
 - - themselves
   - violent
   - men
@@ -110,24 +110,24 @@ ngrams:
 - - potential
   - violence
   - just
-- - kitchen
-  - indeed
-  - without
 - - cowboy
   - might
   - crush
-- - professor
-  - velikovsky
-  - may
+- - kitchen
+  - indeed
+  - without
 - - noir
   - world
   - yet
-- - noir
-  - streets
-  - down
+- - professor
+  - velikovsky
+  - may
 - - any
   - meaningful
   - existence
+- - noir
+  - streets
+  - down
 - - velikovsky
   - may
   - wish
@@ -167,27 +167,18 @@ ngrams:
 - - more
   - time
   - discussing
-- - will
-  - almost
-  - certainly
 - - spend
   - more
   - time
+- - will
+  - almost
+  - certainly
 - - so
   - throb
   - velikovsky
 - - necessity
   - so
   - throb
-- - are
-  - absent
-  - velikovsky
-- - mobster
-  - are
-  - absent
-- - western
-  - genre
-  - are
 - - horses
   - so
   - essential
@@ -195,28 +186,37 @@ ngrams:
   - topic
   - so
 - - are
+  - absent
+  - velikovsky
+- - mobster
+  - are
+  - absent
+- - horses
+  - horses
+  - so
+- - western
+  - genre
+  - are
+- - are
   - empty
   - concealing
 - - kitchen
   - shadows
   - are
-- - cast
-  - shadows
-  - which
 - - shadows
   - are
   - empty
-- - horses
-  - horses
-  - so
-- - sparkling
-  - prose
-  - which
 - - know
   - what
   - manner
-- - kitchen
-  - outside
+- - cast
+  - shadows
+  - which
+- - sure
+  - will
+  - find
+- - sparkling
+  - prose
   - which
 story:
   date: 2011-01-09

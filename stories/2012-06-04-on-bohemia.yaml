@@ -2,18 +2,12 @@ ngrams:
 - - rifles
   - revolvers
   - submachine
-- - arthur
-  - conan
-  - doyle
 - - bribe
   - bohemian
   - border
 - - revolvers
   - submachine
   - guns
-- - gormless
-  - facial
-  - expression
 - - submachine
   - guns
   - truncheons
@@ -26,63 +20,69 @@ ngrams:
 - - bohemian
   - border
   - guards
+- - arthur
+  - conan
+  - doyle
+- - gormless
+  - facial
+  - expression
 - - insalubrious
   - bohemian
   - alleyway
 - - forged
   - papers
   - purporting
-- - accident
-  - insurance
-  - institute
 - - practice
   - suitcase
   - packing
 - - device
   - planted
   - therein
+- - accident
+  - insurance
+  - institute
 - - avoid
   - becoming
   - embroiled
 - - bohemian
   - border
   - hut
-- - sir
-  - arthur
-  - conan
-- - listening
-  - device
-  - planted
 - - guards
   - consider
   - foreigners
+- - listening
+  - device
+  - planted
+- - sir
+  - arthur
+  - conan
+- - border
+  - guards
+  - consider
 - - doomed
   - love
   - affair
 - - doomed
   - love
   - affairs
-- - border
-  - guards
-  - consider
-- - possibly
-  - involving
-  - consumptive
 - - consider
   - foreigners
   - stupid
 - - rickety
   - table
   - alignment
+- - possibly
+  - involving
+  - consumptive
 - - disgusting
   - otherwise
   - enjoy
-- - hands
-  - scandal
-  - erupt
 - - asbestos
   - works
   - armed
+- - hands
+  - scandal
+  - erupt
 - - times
   - per
   - minute
@@ -101,33 +101,33 @@ ngrams:
 - - wooden
   - table
   - inside
-- - chews
-  - each
-  - mouthful
 - - distraction
   - should
   - rescue
-- - another
-  - major
-  - river
-- - small
-  - connecting
-  - room
 - - scandals
   - both
   - possibly
-- - extra
-  - precaution
-  - find
-- - connecting
-  - room
-  - within
+- - chews
+  - each
+  - mouthful
 - - both
   - possibly
   - involving
+- - another
+  - major
+  - river
+- - extra
+  - precaution
+  - find
 - - should
   - remain
   - polite
+- - connecting
+  - room
+  - within
+- - small
+  - connecting
+  - room
 - - frozen
   - tiny
   - hands
@@ -149,30 +149,30 @@ ngrams:
 - - conan
   - doyle
   - before
-- - water
-  - go
-  - straight
 - - guards
   - might
   - slip
 - - border
   - guards
   - might
+- - water
+  - go
+  - straight
 - - deflect
   - any
   - pertinent
-- - may
-  - occur
-  - fortunately
 - - therefore
   - deflect
   - any
-- - any
-  - hard
-  - questions
+- - may
+  - occur
+  - fortunately
 - - against
   - any
   - eruption
+- - any
+  - hard
+  - questions
 - - guard
   - against
   - any
@@ -182,12 +182,12 @@ ngrams:
 - - hand
   - such
   - distraction
-- - other
-  - hands
-  - scandal
 - - both
   - may
   - occur
+- - other
+  - hands
+  - scandal
 - - even
   - frozen
   - tiny
@@ -200,33 +200,30 @@ ngrams:
 - - such
   - distraction
   - should
-- - some
-  - practice
-  - suitcase
 - - bohemians
   - can
   - throw
 - - can
   - avoid
   - becoming
+- - some
+  - practice
+  - suitcase
 - - then
   - guard
   - against
 - - course
   - before
   - actually
-- - very
-  - very
-  - neatly
 - - its
   - own
   - share
+- - very
+  - very
+  - neatly
 - - contents
   - very
   - very
-- - want
-  - him
-  - asking
 - - conan
   - doyle
   - 'no'
@@ -239,27 +236,36 @@ ngrams:
 - - doyle
   - 'no'
   - friend
+- - want
+  - him
+  - asking
+- - did
+  - much
+  - research
+- - known
+  - its
+  - own
+- - very
+  - neatly
+  - upon
+- - tiny
+  - hands
+  - do
 - - your
   - scarf
   - tighter
 - - unpack
   - your
   - suitcase
-- - known
-  - its
-  - own
+- - much
+  - more
+  - neatly
 - - wrap
   - your
   - scarf
 - - emptied
   - your
   - suitcase
-- - did
-  - much
-  - research
-- - tiny
-  - hands
-  - do
 - - corridors
   - wrap
   - your
@@ -269,51 +275,42 @@ ngrams:
 - - biting
   - your
   - tongue
+- - scarf
+  - tighter
+  - about
+- - pay
+  - 'no'
+  - attention
 - - enjoy
   - your
   - stay
 - - guide
   - your
   - conduct
-- - very
-  - neatly
-  - upon
 - - present
   - your
   - credentials
-- - rest
-  - your
-  - weary
-- - pay
-  - 'no'
-  - attention
-- - otherwise
-  - enjoy
-  - your
-- - scarf
-  - tighter
-  - about
-- - who
-  - chews
-  - each
-- - much
-  - more
-  - neatly
-- - crossing
-  - into
-  - bohemia
 - - shock
   - when
   - squeezed
 - - electric
   - shock
   - when
+- - rest
+  - your
+  - weary
+- - otherwise
+  - enjoy
+  - your
+- - crossing
+  - into
+  - bohemia
+- - who
+  - chews
+  - each
 - - physical
   - crossing
   - into
-- - shade
-  - your
-  - eyes
 - - proper
   - into
   - bohemia
@@ -326,84 +323,87 @@ ngrams:
 - - trick
   - question
   - about
-- - has
-  - gone
-  - well
-- - hard
-  - questions
-  - about
 - - more
   - neatly
   - than
+- - shade
+  - your
+  - eyes
+- - hard
+  - questions
+  - about
 - - 'no'
   - account
   - should
+- - has
+  - gone
+  - well
 - - device
   - into
   - water
-- - well
-  - your
-  - papers
-- - been
-  - swept
-  - away
 - - scandal
   - erupt
   - there
 - - occur
   - fortunately
   - there
-- - very
-  - first
-  - day
 - - rowing
   - boats
   - there
-- - well
-  - worth
-  - your
-- - gone
-  - well
-  - your
 - - heath
   - perhaps
   - if
+- - very
+  - first
+  - day
+- - well
+  - your
+  - papers
+- - been
+  - swept
+  - away
+- - might
+  - scoop
+  - up
+- - well
+  - worth
+  - your
+- - can
+  - then
+  - guard
+- - gone
+  - well
+  - your
 - - umbrage
   - they
   - give
 - - they
   - give
   - vent
-- - can
-  - then
-  - guard
-- - might
-  - scoop
-  - up
-- - your
-  - weary
-  - head
-- - think
-  - about
-  - offering
-- - tongue
-  - so
-  - forcefully
-- - your
-  - homburg
-  - down
-- - do
-  - some
-  - practice
 - - bohemia
   - if
   - ever
-- - border
-  - guards
-  - are
+- - tongue
+  - so
+  - forcefully
+- - think
+  - about
+  - offering
 - - foreigners
   - stupid
   - so
+- - your
+  - weary
+  - head
+- - border
+  - guards
+  - are
+- - do
+  - some
+  - practice
+- - manners
+  - are
+  - disgusting
 story:
   date: 2012-06-04
   id: 2012-06-04-on-bohemia

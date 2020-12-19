@@ -1,10 +1,4 @@
 ngrams:
-- - gillespie's
-  - vital
-  - nerve
-- - gillespie's
-  - vital
-  - nerve
 - - vital
   - nerve
   - powders
@@ -14,6 +8,12 @@ ngrams:
 - - oxygen
   - mask
   - deployment
+- - gillespie's
+  - vital
+  - nerve
+- - gillespie's
+  - vital
+  - nerve
 - - oxygen
   - mask
   - deploying
@@ -23,21 +23,21 @@ ngrams:
 - - pallid
   - sickly
   - wretch
-- - sickly
-  - wretch
-  - suffering
 - - hailstorm
   - won't
   - fix
+- - sickly
+  - wretch
+  - suffering
 - - moral
   - sentiments
   - excuse
-- - hallucinatory
-  - toads
-  - vanished
 - - exclamation
   - mark
   - appended
+- - hallucinatory
+  - toads
+  - vanished
 - - broadcasting
   - disgusting
   - language
@@ -59,36 +59,36 @@ ngrams:
 - - wednesday
   - afternoon
   - bringing
-- - golden
-  - poisonous
-  - toads
-- - golden
-  - poisonous
-  - toad
-- - baxter's
-  - terrible
-  - fluid
-- - dr
-  - gillespie's
-  - vital
 - - plum
   - bowl
   - sprinkled
-- - dr
-  - gillespie's
-  - vital
-- - giant
-  - golden
+- - baxter's
+  - terrible
+  - fluid
+- - golden
   - poisonous
-- - giant
-  - golden
+  - toad
+- - golden
   - poisonous
-- - limited
-  - edition
-  - version
+  - toads
 - - podcast
   - becomes
   - available
+- - dr
+  - gillespie's
+  - vital
+- - dr
+  - gillespie's
+  - vital
+- - limited
+  - edition
+  - version
+- - giant
+  - golden
+  - poisonous
+- - giant
+  - golden
+  - poisonous
 - - carpet
   - beetle
   - near
@@ -101,78 +101,78 @@ ngrams:
 - - metal
   - tapping
   - machine
-- - th
-  - century
-  - suicide
-- - anonymous
-  - th
-  - century
 - - edition
   - version
   - including
+- - clonked
+  - oh
+  - sorry
 - - dead
   - carpet
   - beetle
 - - line
   - i'm
   - sick
-- - clonked
-  - oh
-  - sorry
-- - house
-  - somehow
-  - managing
-- - warm
-  - soapy
-  - water
+- - th
+  - century
+  - suicide
+- - anonymous
+  - th
+  - century
 - - cleared
   - everything
   - seemed
 - - interval
   - that's
   - better
+- - warm
+  - soapy
+  - water
+- - house
+  - somehow
+  - managing
 - - that's
   - better
   - i'll
 - - won't
   - fix
   - put
-- - nerve
-  - powders
-  - took
-- - century
-  - suicide
-  - note
-- - alien
-  - thought
-  - processes
 - - winnipeg
   - hotel
   - key
-- - great
-  - tv
-  - themes
+- - nerve
+  - powders
+  - took
+- - alien
+  - thought
+  - processes
+- - century
+  - suicide
+  - note
 - - frightening
   - enough
   - particularly
-- - brisk
-  - walk
-  - around
+- - great
+  - tv
+  - themes
 - - few
   - unsteady
   - steps
-- - teeth
-  - without
-  - success
-- - big
-  - legendary
-  - bird
-- - few
-  - scribbled
-  - lines
+- - brisk
+  - walk
+  - around
 - - world's
   - toads
   - though
+- - teeth
+  - without
+  - success
+- - few
+  - scribbled
+  - lines
+- - big
+  - legendary
+  - bird
 - - air
   - radio
   - show
@@ -185,87 +185,96 @@ ngrams:
 - - better
   - i'll
   - get
+- - lethal
+  - something
+  - almost
 - - three
   - days
   - whenever
 - - little
   - legs
   - hopelessly
-- - lethal
-  - something
-  - almost
 - - being
   - suddenly
   - zapped
-- - radio
-  - transcript
-  - here
 - - almost
   - too
   - awful
 - - gate
   - before
   - collapsing
-- - why
-  - should
-  - insects
+- - radio
+  - transcript
+  - here
 - - tears
   - stop
   - being
-- - vitamin
-  - soup
-  - before
+- - why
+  - should
+  - insects
 - - head
   - cleared
   - everything
+- - vitamin
+  - soup
+  - before
 - - teacher
   - years
   - ago
 - - garden
   - gate
   - before
-- - just
-  - four
-  - seconds
 - - good
   - teacher
   - years
+- - much
+  - better
+  - moment
+- - just
+  - four
+  - seconds
 - - mask
   - deploying
   - now
+- - its
+  - repellent
+  - handwriting
+- - already
+  - swelling
+  - where
 - - next
   - three
   - days
 - - hotel
   - room
   - through
-- - its
-  - repellent
-  - handwriting
-- - much
-  - better
-  - moment
-- - poisonous
-  - snake
-  - she
-- - already
-  - swelling
-  - where
 - - i'll
   - get
   - back
+- - something
+  - almost
+  - too
 - - yesterday's
   - hooting
   - yard
+- - poisonous
+  - snake
+  - she
+- - conference
+  - pear
+  - can
 - - snake
   - she
   - says
 - - she
   - says
   - what's
-- - something
-  - almost
-  - too
+- - did
+  - indeed
+  - clamber
+- - can
+  - carpet
+  - beetles
 - - legendary
   - bird
   - like
@@ -275,90 +284,87 @@ ngrams:
 - - some
   - blasphemous
   - execration
-- - screeched
-  - some
-  - blasphemous
-- - conference
-  - pear
-  - can
 - - deploying
   - now
   - put
+- - screeched
+  - some
+  - blasphemous
 - - many
   - little
   - legs
-- - did
-  - indeed
-  - clamber
-- - can
-  - carpet
-  - beetles
-- - now
-  - put
-  - yourself
 - - do
   - today's
   - show
-- - again
-  - like
-  - wings
+- - now
+  - put
+  - yourself
 - - learned
   - among
   - other
+- - again
+  - like
+  - wings
+- - might
+  - ask
+  - how
 - - sobbed
   - some
   - hours
 - - arms
   - again
   - like
-- - signs
-  - who
-  - knows
-- - who
-  - knows
-  - apart
 - - air
   - can
   - carpet
 - - more
   - lethal
   - something
-- - might
-  - ask
-  - how
-- - pear
-  - can
-  - work
 - - far
   - more
   - lethal
+- - signs
+  - who
+  - knows
+- - pear
+  - can
+  - work
+- - who
+  - knows
+  - apart
 - - can
   - work
   - wonders
-- - 'no'
-  - apparent
-  - purpose
 - - stop
   - being
   - such
 - - 'no'
-  - giant
-  - golden
+  - apparent
+  - purpose
 - - wiggling
   - its
   - many
-- - been
-  - writer's
-  - block
+- - 'no'
+  - giant
+  - golden
 - - among
   - other
   - things
-- - your
-  - moral
-  - sentiments
+- - been
+  - writer's
+  - block
 - - now
   - think
   - yourself
+- - winnipeg
+  - what
+  - awaited
+- - still
+  - even
+  - though
+- - your
+  - moral
+  - sentiments
 - - inspire
   - your
   - moral
@@ -368,15 +374,12 @@ ngrams:
 - - some
   - hours
   - later
-- - winnipeg
-  - what
-  - awaited
-- - your
-  - mouth
-  - what's
 - - times
   - like
   - these
+- - your
+  - mouth
+  - what's
 - - already
   - been
   - bitten
@@ -386,18 +389,12 @@ ngrams:
 - - been
   - clonked
   - oh
-- - still
-  - even
-  - though
 - - were
   - angel's
   - wings
 - - many
   - many
   - little
-- - thousand
-  - forks
-  - were
 - - wednesday
   - afternoon
   - when
@@ -407,9 +404,9 @@ ngrams:
 - - crying
   - out
   - loud
-- - your
-  - brain
-  - problems
+- - thousand
+  - forks
+  - were
 - - something
   - far
   - more
@@ -419,99 +416,99 @@ ngrams:
 - - radio
   - show
   - when
-- - were
-  - frightening
-  - enough
-- - sentiments
-  - excuse
-  - me
 - - some
   - might
   - choose
-- - room
-  - through
-  - some
+- - your
+  - brain
+  - problems
 - - couldn't
   - remember
   - if
-- - through
-  - some
-  - kind
-- - whereof
-  - they
-  - speak
-- - hoist
-  - myself
-  - into
+- - sentiments
+  - excuse
+  - me
+- - were
+  - frightening
+  - enough
 - - looming
   - there
   - reproachful
-- - were
-  - visions
-  - because
 - - fevered
   - brow
   - there
+- - hoist
+  - myself
+  - into
 - - more
   - eyes
   - than
-- - fall
-  - into
-  - place
 - - out
   - loud
   - key
+- - through
+  - some
+  - kind
 - - write
   - some
   - might
-- - its
-  - many
-  - many
+- - room
+  - through
+  - some
+- - whereof
+  - they
+  - speak
+- - fall
+  - into
+  - place
+- - were
+  - visions
+  - because
 - - brain
   - problems
   - will
-- - hours
-  - later
-  - when
+- - its
+  - many
+  - many
 - - sensitive
   - ears
   - would
-- - immerse
-  - your
-  - head
+- - hours
+  - later
+  - when
 - - envelope
   - some
   - more
-- - skyscraper
-  - which
-  - houses
-- - fuming
-  - brain
-  - they
-- - gleaming
-  - skyscraper
-  - which
-- - wondering
-  - why
-  - all
-- - skirting
-  - board
-  - which
-- - been
-  - something
-  - far
-- - crawled
-  - back
-  - into
-- - what
-  - words
-  - come
 - - overcame
   - what
   - might
+- - immerse
+  - your
+  - head
+- - fuming
+  - brain
+  - they
 - - apparent
   - purpose
   - so
+- - what
+  - words
+  - come
+- - crawled
+  - back
+  - into
+- - wondering
+  - why
+  - all
+- - skyscraper
+  - which
+  - houses
+- - been
+  - something
+  - far
+- - gleaming
+  - skyscraper
+  - which
 - - think
   - yourself
   - into
@@ -521,54 +518,75 @@ ngrams:
 - - amusing
   - film
   - so
-- - suicide
-  - note
+- - skirting
+  - board
   - which
 - - sulk
   - while
   - we
-- - say
-  - what
-  - words
 - - still
   - looming
   - there
 - - words
   - come
   - out
-- - called
-  - graham
-  - which
+- - say
+  - what
+  - words
 - - go
   - there
   - immediately
+- - suicide
+  - note
+  - which
 - - find
   - out
   - come
-- - stalk
+- - called
+  - graham
   - which
-  - again
 - - an
   - exclamation
   - mark
-- - are
-  - wondering
-  - why
 - - situation
   - what
   - do
+- - stalk
+  - which
+  - again
+- - are
+  - wondering
+  - why
 - - this
   - writer's
   - block
-- - half
-  - an
-  - hour
 - - air
   - will
   - know
 - - its
   - entirety
   - all
+- - half
+  - an
+  - hour
+- - must
+  - go
+  - there
+- - call
+  - this
+  - writer's
+- - brow
+  - there
+  - now
+- - least
+  - one
+  - acquaintance
+- - one
+  - called
+  - graham
+- - this
+  - show
+  - otherwise
 - - note
   - which
   - read
@@ -578,27 +596,72 @@ ngrams:
 - - has
   - already
   - been
-- - call
-  - this
-  - writer's
-- - must
-  - go
-  - there
+- - writer's
+  - block
+  - or
+- - writer's
+  - block
+  - or
 - - had
   - stopped
   - sobbing
-- - one
-  - called
-  - graham
-- - brow
+- - magic
+  - mountain
+  - or
+- - terrible
+  - fluid
+  - or
+- - do
+  - anyway
   - there
-  - now
-- - this
-  - show
-  - otherwise
-- - least
-  - one
+- - heart
+  - attacks
+  - or
+- - mask
+  - deployment
+  - but
+- - deployment
+  - but
+  - what's
+- - or
+  - dr
+  - gillespie's
+- - fluid
+  - or
+  - dr
+- - dissolving
+  - slowly
+  - but
+- - read
+  - so
+  - much
+- - foolish
+  - but
+  - amusing
+- - one
   - acquaintance
+  - made
+- - but
+  - amusing
+  - film
+- - wretch
+  - suffering
+  - from
+- - made
+  - this
+  - accusation
+- - acquaintance
+  - made
+  - this
+- - oxygen
+  - masks
+  - have
+- - nearly
+  - falling
+  - from
+- - carpet
+  - beetles
+  - have
 story:
   date: 2006-08-31
   id: 2006-08-31-radio-transcript

@@ -2,21 +2,15 @@ ngrams:
 - - slain
   - rembrandt
   - derived
-- - daniel
-  - '-'
-  - '-'
 - - jerusalem
   - rembrandt
   - shows
-- - '-'
-  - '-'
-  - tells
-- - paintings
-  - notes
-  - courtesy
 - - national
   - gallery
   - london
+- - paintings
+  - notes
+  - courtesy
 - - banquet
   - belshazzar
   - king
@@ -29,6 +23,12 @@ ngrams:
 - - ben
   - israel
   - yet
+- - daniel
+  - '-'
+  - '-'
+- - '-'
+  - '-'
+  - tells
 - - phrase
   - only
   - daniel

@@ -26,12 +26,12 @@ ngrams:
 - - mouth
   - destroys
   - mountains
-- - gold
-  - tin
-  - bronze
 - - furthest
   - extent
   - king
+- - gold
+  - tin
+  - bronze
 - - silver
   - gold
   - tin
@@ -83,24 +83,24 @@ ngrams:
 - - over
   - again
   - palace
-- - lordly
-  - attack
-  - has
 - - who
   - shakes
   - resistance
-- - wonderful
-  - shepherd
-  - who
 - - champion
   - who
   - shakes
-- - has
-  - forced
-  - fierce
+- - wonderful
+  - shepherd
+  - who
 - - merciless
   - champion
   - who
+- - lordly
+  - attack
+  - has
+- - has
+  - forced
+  - fierce
 - - attack
   - has
   - forced
@@ -113,9 +113,6 @@ ngrams:
 - - celebrated
   - prince
   - who
-- - gods
-  - who
-  - help
 - - 'no'
   - significant
   - variation
@@ -125,36 +122,39 @@ ngrams:
 - - king
   - who
   - acts
-- - hand
-  - has
-  - conquered
-- - hand
-  - has
-  - conquered
+- - gods
+  - who
+  - help
 - - received
   - their
   - tribute
-- - king
-  - who
-  - makes
 - - their
   - tribute
   - taking
+- - hand
+  - has
+  - conquered
+- - hand
+  - has
+  - conquered
+- - king
+  - who
+  - makes
 - - 'no'
   - equal
   - among
 - - lord
   - who
   - called
-- - whose
-  - hand
-  - has
-- - whose
-  - hand
-  - has
 - - fallen
   - into
   - ruins
+- - whose
+  - hand
+  - has
+- - whose
+  - hand
+  - has
 - - brought
   - into
   - submission
@@ -167,30 +167,30 @@ ngrams:
 - - conquered
   - all
   - lands
+- - carved
+  - repeatedly
+  - all
 - - valiant
   - man
   - who
 - - man
   - who
   - acts
-- - carved
-  - repeatedly
-  - all
+- - there
+  - silver
+  - gold
 - - who
   - makes
   - those
 - - makes
   - those
   - who
-- - there
-  - silver
-  - gold
-- - placed
-  - there
-  - silver
 - - omitted
   - otherwise
   - there
+- - placed
+  - there
+  - silver
 - - bronze
   - all
   - around
@@ -212,78 +212,78 @@ ngrams:
 - - lands
   - who
   - has
-- - great
-  - flood
-  - which
-- - down
-  - all
-  - foes
-- - who
-  - has
-  - brought
-- - has
-  - 'no'
-  - equal
 - - over
   - all
   - countries
-- - repeatedly
-  - all
-  - over
-- - king
-  - who
-  - has
 - - acknowledge
   - one
   - rule
+- - down
+  - all
+  - foes
+- - repeatedly
+  - all
+  - over
+- - has
+  - 'no'
+  - equal
+- - great
+  - flood
+  - which
 - - power
   - over
   - all
+- - who
+  - has
+  - brought
 - - foundations
   - one
   - hundred
+- - king
+  - who
+  - has
 - - bc
   - had
   - carved
 - - had
   - carved
   - repeatedly
+- - set
+  - them
+  - up
+- - has
+  - brought
+  - into
 - - city
   - had
   - fallen
 - - has
-  - brought
-  - into
-- - set
-  - them
-  - up
+  - subjugated
+  - all
+- - has
+  - subjugated
+  - all
+- - has
+  - conquered
+  - all
 - - hand
   - had
   - conquered
-- - has
-  - subjugated
-  - all
-- - has
-  - subjugated
-  - all
-- - has
-  - conquered
-  - all
-- - all
-  - lands
-  - who
 - - who
   - preceded
   - me
+- - all
+  - lands
+  - who
+- - them
+  - settle
+  - there
 - - merciless
   - kings
   - from
 - - who
   - help
   - me
-- - them
-  - settle
-  - there
 - - lands
   - from
   - beyond
@@ -302,12 +302,12 @@ ngrams:
 - - those
   - who
   - are
-- - read
-  - here
-  - from
-- - at
-  - its
-  - gates
+- - my
+  - royal
+  - residence
+- - my
+  - lordly
+  - pleasure
 story:
   date: 2013-09-10
   id: 2013-09-10-all-over-the-palace

@@ -8,21 +8,18 @@ ngrams:
 - - rookie
   - lets
   - loose
-- - stephen
-  - hawker
-  - '-'
 - - rock
   - titans
   - steeleye
+- - werewolves
+  - grave
+  - desecration
 - - reputable
   - literary
   - journal
 - - dobsonian
   - cranium
   - needs
-- - werewolves
-  - grave
-  - desecration
 - - invisible
   - rays
   - aimed
@@ -44,42 +41,45 @@ ngrams:
 - - h
   - p
   - lovecraft
-- - weird
-  - invisible
-  - rays
-- - weird
-  - invisible
-  - rays
-- - weird
-  - invisible
-  - rays
 - - eccentric
   - country
   - vicar
+- - weird
+  - invisible
+  - rays
+- - weird
+  - invisible
+  - rays
+- - weird
+  - invisible
+  - rays
 - - cereal
   - free
   - gift
 - - usually
   - ate
   - bloaters
-- - together
-  - hairline
-  - fractures
 - - breakfast
   - cereal
   - booklet
+- - together
+  - hairline
+  - fractures
 - - possibly
   - feared
   - unless
+- - generate
+  - further
+  - controversy
 - - breakfast
   - cereal
   - free
 - - english
   - folk
   - song
-- - generate
-  - further
-  - controversy
+- - stephen
+  - hawker
+  - '-'
 - - heads
   - together
   - hairline
@@ -107,39 +107,42 @@ ngrams:
 - - brain
   - rays
   - note
+- - large
+  - pig
+  - thus
 - - these
   - putative
   - rays
 - - sending
   - these
   - putative
-- - large
-  - pig
-  - thus
-- - rays
-  - dobson
-  - feared
-- - invisible
-  - rays
-  - dobson
-- - invisible
-  - rays
-  - dobson
 - - saints
   - many
   - novels
-- - clifftop
-  - hut
-  - made
-- - aggressive
-  - letters
-  - dobson
 - - rays
   - nor
   - why
 - - rays
   - dobson
+  - feared
+- - clifftop
+  - hut
+  - made
+- - invisible
+  - rays
+  - dobson
+- - invisible
+  - rays
+  - dobson
+- - aggressive
+  - letters
+  - dobson
+- - rays
+  - dobson
   - possibly
+- - booklet
+  - given
+  - away
 - - dobson
   - possibly
   - feared
@@ -149,81 +152,78 @@ ngrams:
 - - letters
   - dobson
   - usually
-- - booklet
-  - given
-  - away
 - - us
   - without
   - wishing
 - - breakfast
   - cereal
   - may
-- - just
-  - fooling
-  - around
-- - very
-  - large
-  - pig
 - - further
   - controversy
   - over
+- - very
+  - large
+  - pig
+- - just
+  - fooling
+  - around
 - - where
   - common
   - sense
-- - said
-  - booklet
-  - nor
 - - more
   - hysterical
   - passages
+- - said
+  - booklet
+  - nor
 - - time
   - smoking
   - opium
-- - old
-  - man
-  - picks
 - - point
   - where
   - common
 - - more
   - curious
   - pamphlets
-- - convinced
-  - some
-  - critics
+- - old
+  - man
+  - picks
 - - dobson's
   - more
   - curious
+- - convinced
+  - some
+  - critics
 - - canon
   - has
   - gained
+- - might
+  - just
+  - allow
+- - journal
+  - read
+  - like
 - - ted
   - cack
   - has
 - - cack
   - has
   - pointed
-- - journal
-  - read
-  - like
+- - steeleye
+  - span
+  - their
+- - country
+  - vicar
+  - who
 - - dobson
   - feared
   - may
 - - has
   - gained
   - ground
-- - country
-  - vicar
-  - who
 - - vicar
   - who
   - spent
-- - steeleye
-  - span
-  - their
-- - might
-  - just
-  - allow
 - - span
   - their
   - version
@@ -239,12 +239,12 @@ ngrams:
 - - picks
   - out
   - flaws
-- - dobson
-  - studies
-  - can
 - - copied
   - out
   - random
+- - out
+  - random
+  - paragraphs
 story:
   date: 2008-07-24
   id: 2008-07-24-all-around-my-hat

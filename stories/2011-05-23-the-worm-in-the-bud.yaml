@@ -8,12 +8,12 @@ ngrams:
 - - sudden
   - disturbance
   - discombobulated
-- - fast
-  - asleep
-  - unaware
 - - headquarters
   - elsewhere
   - elsewhere
+- - fast
+  - asleep
+  - unaware
 - - woke
   - suddenly
   - barking
@@ -53,12 +53,12 @@ ngrams:
 - - remote
   - woodland
   - far
-- - soon
-  - enough
-  - fell
 - - enormity
   - oh
   - perhaps
+- - soon
+  - enough
+  - fell
 - - battle
   - being
   - fought
@@ -71,24 +71,30 @@ ngrams:
 - - go
   - striding
   - across
-- - sleep
-  - troubled
-  - only
 - - seaside
   - resort
   - just
 - - course
   - under
   - cover
-- - move
-  - 'off'
-  - towards
 - - even
   - woodcraft
   - folk
+- - sleep
+  - troubled
+  - only
+- - move
+  - 'off'
+  - towards
 - - where
   - tinies
   - gather
+- - fingertips
+  - fastened
+  - upon
+- - intent
+  - upon
+  - entering
 - - tiny
   - battle
   - being
@@ -98,39 +104,33 @@ ngrams:
 - - its
   - hallway
   - hook
-- - fingertips
-  - fastened
-  - upon
-- - intent
-  - upon
-  - entering
 - - tracked
   - down
   - within
-- - remained
-  - visible
-  - now
 - - clearly
   - intent
   - upon
+- - remained
+  - visible
+  - now
 - - dogs
   - better
   - than
 - - nor
   - even
   - woodcraft
-- - yet
-  - taken
-  - 'off'
 - - might
   - go
   - striding
-- - space
-  - some
-  - engage
+- - yet
+  - taken
+  - 'off'
 - - do
   - humans
   - sometimes
+- - space
+  - some
+  - engage
 - - whizzing
   - 'off'
   - down
@@ -140,30 +140,27 @@ ngrams:
 - - damp
   - soil
   - 'no'
-- - assumed
-  - been
-  - committed
 - - soil
   - 'no'
   - longer
-- - dogs
-  - were
-  - sniffing
-- - dogs
-  - were
-  - driven
+- - assumed
+  - been
+  - committed
 - - when
   - dusk
   - approached
+- - dogs
+  - were
+  - sniffing
 - - found
   - 'no'
   - trace
+- - dogs
+  - were
+  - driven
 - - stare
   - into
   - space
-- - sprig
-  - were
-  - whole
 - - upon
   - its
   - hallway
@@ -173,10 +170,13 @@ ngrams:
 - - hung
   - upon
   - its
-- - beekeeping
+- - sprig
+  - were
+  - whole
+- - responses
   - some
   - might
-- - responses
+- - beekeeping
   - some
   - might
 - - thirst
@@ -188,15 +188,6 @@ ngrams:
 - - some
   - might
   - pour
-- - enough
-  - fell
-  - into
-- - been
-  - cordoned
-  - 'off'
-- - barely
-  - thought
-  - about
 - - loose
   - end
   - if
@@ -206,6 +197,12 @@ ngrams:
 - - would
   - emerge
   - triumphant
+- - barely
+  - thought
+  - about
+- - enough
+  - fell
+  - into
 - - dusk
   - approached
   - we
@@ -216,38 +213,41 @@ ngrams:
   - out
   - another
 - - been
+  - cordoned
+  - 'off'
+- - been
   - allowed
   - through
-- - tube
-  - which
-  - connects
-- - pneumatic
-  - tube
-  - which
 - - approached
   - we
   - called
-- - were
-  - driven
-  - back
 - - some
   - might
   - go
 - - tiny
   - depredation
   - would
-- - hands
-  - are
-  - hairy
+- - tube
+  - which
+  - connects
+- - pneumatic
+  - tube
+  - which
+- - were
+  - driven
+  - back
 - - might
   - stare
   - into
-- - am
-  - 'no'
-  - botanist
 - - might
   - pour
   - out
+- - am
+  - 'no'
+  - botanist
+- - hands
+  - are
+  - hairy
 - - an
   - abomination
   - mentioned
@@ -260,66 +260,69 @@ ngrams:
 - - worm
   - this
   - worm
+- - would
+  - defy
+  - even
 - - an
   - enormity
   - oh
 - - we
   - called
   - 'off'
-- - had
-  - lain
-  - concealed
-- - had
-  - lain
-  - concealed
-- - would
-  - defy
-  - even
-- - worm
-  - had
-  - lain
-- - dogs
-  - had
-  - sniffed
-- - into
-  - space
-  - some
 - - pillow
   - towards
   - one
 - - so
   - much
   - better
-- - bud
+- - into
+  - space
+  - some
+- - had
+  - lain
+  - concealed
+- - had
+  - lain
+  - concealed
+- - worm
   - had
-  - become
-- - all
-  - along
-  - now
-- - were
-  - 'no'
-  - scouts
+  - lain
 - - carpentry
   - or
   - beekeeping
-- - work
-  - so
-  - much
 - - scouts
   - or
   - guides
+- - dogs
+  - had
+  - sniffed
 - - scout
   - or
   - girl
-- - emerge
-  - triumphant
-  - but
 - - or
   - girl
   - guide
+- - all
+  - along
+  - now
+- - work
+  - so
+  - much
 - - boy
   - scout
   - or
+- - were
+  - 'no'
+  - scouts
+- - emerge
+  - triumphant
+  - but
+- - bud
+  - had
+  - become
+- - but
+  - four
+  - examples
 - - worm
   - emerged
   - from
@@ -329,48 +332,48 @@ ngrams:
 - - even
   - an
   - amateur
-- - but
-  - four
-  - examples
-- - like
-  - an
-  - abomination
-- - has
-  - been
-  - said
-- - experts
-  - at
-  - loose
-- - creeping
-  - like
-  - an
-- - at
-  - loose
-  - ends
 - - otherwise
   - have
   - impeded
+- - experts
+  - at
+  - loose
+- - at
+  - loose
+  - ends
 - - give
   - but
   - four
-- - woodland
-  - far
-  - from
-- - harrowed
-  - by
-  - thirst
+- - like
+  - an
+  - abomination
+- - creeping
+  - like
+  - an
+- - has
+  - been
+  - said
 - - would
   - sprout
   - were
+- - harrowed
+  - by
+  - thirst
+- - woodland
+  - far
+  - from
 - - we
   - found
   - 'no'
-- - had
-  - occasion
-  - now
 - - by
   - coppers
   - following
+- - me
+  - there
+  - stirred
+- - had
+  - occasion
+  - now
 - - far
   - from
   - town
@@ -380,66 +383,63 @@ ngrams:
 - - town
   - far
   - from
-- - me
-  - there
-  - stirred
-- - from
-  - where
-  - tinies
-- - found
-  - myself
-  - at
 - - chaperoned
   - might
   - have
-- - there
-  - all
-  - along
+- - found
+  - myself
+  - at
+- - from
+  - where
+  - tinies
 - - not
   - yet
   - taken
+- - might
+  - be
+  - intimidated
+- - there
+  - all
+  - along
 - - much
   - better
   - at
+- - or
+  - beekeeping
+  - some
 - - cordoned
   - 'off'
   - by
 - - 'off'
   - by
   - coppers
-- - might
-  - be
-  - intimidated
-- - or
-  - beekeeping
-  - some
-- - had
-  - been
-  - cordoned
-- - psychopath
-  - had
-  - been
-- - area
-  - had
-  - been
-- - had
-  - been
-  - allowed
+- - botanist
+  - not
+  - even
 - - bedbug
   - my
   - barking
-- - troubled
-  - only
-  - by
 - - my
   - fingertips
   - fastened
-- - slept
-  - my
-  - untroubled
 - - neglecting
   - my
   - duties
+- - slept
+  - my
+  - untroubled
+- - drained
+  - my
+  - tumbler
+- - my
+  - assistant
+  - zoltan
+- - my
+  - sniffer
+  - dogs
+- - my
+  - untroubled
+  - sleep
 story:
   date: 2011-05-23
   id: 2011-05-23-the-worm-in-the-bud

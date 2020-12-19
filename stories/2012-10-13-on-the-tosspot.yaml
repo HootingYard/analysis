@@ -17,24 +17,24 @@ ngrams:
 - - blavatsky
   - hpb
   - herself
-- - ink
-  - gets
-  - smudged
 - - gets
   - smudged
   - tone
+- - ink
+  - gets
+  - smudged
 - - mentioned
   - quibbles
   - casting
 - - comparison
   - somewhat
   - surprisingly
-- - voice
-  - beware
-  - beware
 - - blithering
   - chaotic
   - order
+- - voice
+  - beware
+  - beware
 - - pretty
   - undignified
   - figure
@@ -44,27 +44,27 @@ ngrams:
 - - fantastically
   - splendid
   - report
-- - naive
-  - young
-  - reporter
 - - rain
   - ink
   - gets
+- - naive
+  - young
+  - reporter
 - - snorting
   - sometimes
   - deafeningly
 - - perfect
   - flap
   - either
+- - fruit
+  - looms
+  - large
 - - splendid
   - report
   - writer
 - - certain
   - obscure
   - texts
-- - fruit
-  - looms
-  - large
 - - milky
   - grey
   - eyes
@@ -86,21 +86,21 @@ ngrams:
 - - tosspot
   - himself
   - presents
-- - use
-  - real
-  - items
-- - having
-  - mentioned
-  - quibbles
 - - quibbles
   - quite
   - apart
-- - again
+- - having
+  - mentioned
   - quibbles
-  - aside
+- - use
+  - real
+  - items
 - - acolytes
   - guffaw
   - though
+- - again
+  - quibbles
+  - aside
 - - smudged
   - tone
   - though
@@ -113,15 +113,15 @@ ngrams:
 - - else
   - again
   - quibbles
-- - most
-  - fantastically
-  - splendid
 - - case
   - tosspot
   - does
 - - make
   - one's
   - selection
+- - most
+  - fantastically
+  - splendid
 - - just
   - witter
   - adoringly
@@ -131,63 +131,63 @@ ngrams:
 - - socks
   - never
   - existed
-- - old
-  - writer
-  - using
 - - speak
   - having
   - given
 - - acolytes
   - before
   - proceeding
+- - old
+  - writer
+  - using
 - - every
   - lower
   - case
-- - those
-  - trousers
-  - alone
 - - most
   - important
   - fruit
+- - those
+  - trousers
+  - alone
 - - very
   - specific
   - order
 - - shall
   - go
   - straight
-- - best
-  - way
-  - believe
 - - tone
   - though
   - come
+- - best
+  - way
+  - believe
 - - times
   - those
   - trousers
 - - shall
   - ever
   - pick
-- - witter
-  - adoringly
-  - like
 - - something
   - else
   - again
-- - very
-  - worst
-  - thing
+- - witter
+  - adoringly
+  - like
 - - order
   - otherwise
   - even
 - - quite
   - frankly
   - after
-- - thing
-  - however
-  - while
+- - very
+  - worst
+  - thing
 - - plums
   - then
   - bananas
+- - thing
+  - however
+  - while
 - - matter
   - much
   - thought
@@ -200,69 +200,69 @@ ngrams:
 - - any
   - subject
   - under
-- - cut
-  - some
-  - capers
-- - tosspot
-  - has
-  - acolytes
-- - cannot
-  - read
-  - just
-- - her
-  - words
-  - meanings
 - - report
   - writer
   - can
-- - tackle
-  - him
-  - fruit
-- - tackle
-  - him
-  - fruit
+- - cannot
+  - read
+  - just
+- - cut
+  - some
+  - capers
 - - quibbles
   - casting
   - them
+- - tosspot
+  - has
+  - acolytes
 - - any
   - old
   - writer
+- - tackle
+  - him
+  - fruit
+- - tackle
+  - him
+  - fruit
 - - wrong
   - very
   - very
 - - very
   - very
   - wrong
+- - her
+  - words
+  - meanings
 - - greengrocer
   - lined
   - up
 - - 'no'
   - avail
   - eventually
-- - case
-  - tosspot
-  - has
 - - rearing
   - their
   - heads
 - - writer
   - can
   - get
-- - kept
-  - rearing
-  - their
 - - easier
   - said
   - than
+- - kept
+  - rearing
+  - their
+- - case
+  - tosspot
+  - has
 - - report
   - about
   - bike
-- - lined
-  - up
-  - along
 - - said
   - than
   - done
+- - lined
+  - up
+  - along
 - - set
   - halfway
   - up
@@ -281,18 +281,18 @@ ngrams:
 - - guffawed
   - myself
   - when
-- - help
-  - me
-  - settle
-- - they
-  - kept
-  - rearing
 - - quibbles
   - aside
   - there
+- - help
+  - me
+  - settle
 - - would
   - defy
   - anyone
+- - they
+  - kept
+  - rearing
 - - lupins
   - would
   - help
@@ -305,35 +305,44 @@ ngrams:
 - - about
   - those
   - acolytes
-- - been
-  - apparent
-  - even
 - - few
   - words
   - about
+- - been
+  - apparent
+  - even
 - - trousers
   - alone
   - are
 - - fruit
   - approach
   - which
-- - latin
-  - they
-  - being
 - - way
   - believe
   - me
-- - words
-  - meanings
-  - which
+- - latin
+  - they
+  - being
+- - without
+  - saying
+  - so
 - - alone
   - are
   - enough
 - - words
   - about
   - those
-- - mistake
-  - again
+- - saying
+  - so
+  - why
+- - would
+  - just
+  - witter
+- - acolyte
+  - would
+  - just
+- - words
+  - meanings
   - which
 - - report
   - an
@@ -341,33 +350,24 @@ ngrams:
 - - tosspot
   - are
   - something
-- - without
-  - saying
-  - so
-- - saying
-  - so
-  - why
-- - table
+- - mistake
+  - again
   - which
-  - took
-- - would
-  - just
-  - witter
-- - acolyte
-  - would
-  - just
-- - which
-  - took
-  - hours
 - - order
   - one
   - derived
-- - are
-  - something
-  - else
+- - table
+  - which
+  - took
 - - specific
   - order
   - one
+- - are
+  - something
+  - else
+- - which
+  - took
+  - hours
 - - using
   - this
   - method
@@ -377,51 +377,51 @@ ngrams:
 - - write
   - this
   - report
-- - meanings
-  - which
-  - may
 - - worst
   - thing
   - one
 - - shove
   - them
   - out
+- - meanings
+  - which
+  - may
 - - reporter
   - would
   - do
-- - can
-  - get
-  - into
-- - from
-  - undignified
-  - trousers
-- - one
-  - thing
-  - however
 - - chaotic
   - order
   - or
-- - straight
-  - from
-  - undignified
-- - report
-  - suffered
-  - from
-- - unclear
-  - what
-  - if
+- - can
+  - get
+  - into
+- - one
+  - thing
+  - however
 - - fruit
   - approach
   - but
-- - fruit
-  - bought
-  - from
+- - unclear
+  - what
+  - if
+- - from
+  - undignified
+  - trousers
 - - 'no'
   - idea
   - if
-- - madame
-  - blavatsky
-  - at
+- - straight
+  - from
+  - undignified
+- - what
+  - if
+  - anything
+- - so
+  - why
+  - did
+- - report
+  - suffered
+  - from
 story:
   date: 2012-10-13
   id: 2012-10-13-on-the-tosspot

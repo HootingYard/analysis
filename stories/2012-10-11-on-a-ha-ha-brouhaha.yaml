@@ -2,24 +2,15 @@ ngrams:
 - - pant
   - pant
   - panted
-- - hedges
-  - duly
-  - pruned
 - - pant
   - pant
   - pant
+- - hedges
+  - duly
+  - pruned
 - - bubbling
   - slime
   - stretched
-- - '-'
-  - pant
-  - pant
-- - '-'
-  - christ's
-  - wounds
-- - filbert
-  - hedges
-  - '-'
 - - pant
   - panted
   - slop
@@ -29,9 +20,6 @@ ngrams:
 - - squelchy
   - throbbing
   - sucking
-- - wailed
-  - slop
-  - '-'
 - - tracks
   - landscape
   - gardeners
@@ -41,15 +29,12 @@ ngrams:
 - - foul
   - bubbling
   - slime
-- - ned
-  - slop
-  - cowered
-- - baron
-  - '-'
-  - pant
 - - baron
   - plunkett
   - sighed
+- - ned
+  - slop
+  - cowered
 - - christ's
   - wounds
   - cried
@@ -59,81 +44,84 @@ ngrams:
 - - plunkett
   - hall
   - slop
+- - baron
+  - strode
+  - forward
 - - green
   - translucent
   - foul
 - - baron
-  - strode
-  - forward
+  - plunkett
+  - pointed
 - - cry
   - ah
   - ah
-- - slop
-  - '-'
-  - fear
-- - baron
-  - plunkett
-  - pointed
 - - huge
   - leather
   - bound
-- - slop
-  - stood
-  - panting
 - - twisted
   - beyond
   - recognition
+- - slop
+  - stood
+  - panting
 - - leather
   - bound
   - copy
-- - explanations
-  - '-'
-  - ought
 - - feel
   - duty
   - bound
-- - dead
-  - distorted
-  - bodies
 - - evening
   - scrubbing
   - boots
+- - dead
+  - distorted
+  - bodies
 - - winters
   - slop
   - knew
-- - creaking
-  - factotum
-  - whose
-- - factotum
-  - whose
-  - movements
-- - asked
-  - slop
-  - '-'
-- - hall
-  - 'true'
-  - hurry
-- - plunkett
-  - hall
-  - 'true'
 - - several
   - planetoids
   - rejoiced
+- - '-'
+  - pant
+  - pant
+- - hall
+  - 'true'
+  - hurry
+- - '-'
+  - christ's
+  - wounds
+- - creaking
+  - factotum
+  - whose
+- - filbert
+  - hedges
+  - '-'
+- - factotum
+  - whose
+  - movements
+- - wailed
+  - slop
+  - '-'
+- - plunkett
+  - hall
+  - 'true'
+- - baron
+  - '-'
+  - pant
 - - majestic
   - lawns
   - towards
 - - tome
   - sir
   - asked
-- - sir
-  - asked
-  - slop
-- - hedges
-  - '-'
-  - let
 - - slime
   - stretched
   - across
+- - sir
+  - asked
+  - slop
 - - explicit
   - good
   - slop
@@ -143,42 +131,54 @@ ngrams:
 - - same
   - awful
   - fate
+- - slop
+  - '-'
+  - fear
+- - explanations
+  - '-'
+  - ought
 - - century
   - person
   - strolling
-- - found
-  - baron
-  - plunkett
+- - peasant
+  - nor
+  - poacher
 - - indeed
   - cry
   - ah
 - - unexpectedly
   - come
   - clunk
-- - peasant
-  - nor
-  - poacher
-- - '-'
-  - come
+- - found
+  - baron
+  - plunkett
+- - asked
   - slop
-- - each
-  - twisted
-  - beyond
-- - well
-  - slop
-  - fetch
+  - '-'
 - - neither
   - peasant
   - nor
+- - well
+  - slop
+  - fetch
+- - each
+  - twisted
+  - beyond
 - - take
   - whatever
   - steps
+- - hedges
+  - '-'
+  - let
 - - knew
   - every
   - inch
 - - slop
   - knew
   - every
+- - '-'
+  - come
+  - slop
 - - quite
   - another
   - kidney
@@ -188,192 +188,192 @@ ngrams:
 - - duly
   - pruned
   - said
-- - feet
-  - '-'
-  - very
 - - trail
   - slop
   - said
-- - '-'
-  - let
-  - us
-- - slop
-  - let
-  - us
-- - poacher
-  - now
-  - pray
 - - wrought
   - such
   - hideous
-- - let
+- - slop
+  - let
   - us
-  - follow
-- - toppled
-  - poacher
-  - now
-- - don't
-  - rightly
-  - know
-- - '-'
-  - get
-  - 'off'
 - - such
   - hideous
   - horror
-- - let
-  - us
-  - return
-- - almost
-  - dusk
-  - before
-- - other
-  - tasks
-  - appropriate
+- - poacher
+  - now
+  - pray
+- - toppled
+  - poacher
+  - now
 - - shall
   - read
   - further
+- - let
+  - us
+  - follow
+- - ah
+  - upon
+  - arriving
+- - almost
+  - dusk
+  - before
+- - don't
+  - rightly
+  - know
+- - other
+  - tasks
+  - appropriate
+- - let
+  - us
+  - return
 - - its
   - magnificent
   - parkland
 - - magnificent
   - parkland
   - its
-- - sunken
-  - wall
-  - its
-- - now
-  - pray
-  - leave
-- - ah
-  - upon
-  - arriving
-- - far
-  - away
-  - distant
-- - revered
-  - pontoppidan
-  - could
 - - ah
   - ah
   - upon
-- - doing
-  - other
-  - tasks
-- - good
-  - slop
-  - said
+- - sunken
+  - wall
+  - its
+- - revered
+  - pontoppidan
+  - could
+- - feet
+  - '-'
+  - very
+- - far
+  - away
+  - distant
+- - now
+  - pray
+  - leave
 - - pontoppidan
   - could
   - explain
 - - stately
   - home
   - than
+- - doing
+  - other
+  - tasks
+- - good
+  - slop
+  - said
+- - '-'
+  - let
+  - us
 - - wall
   - its
   - top
-- - '-'
-  - very
-  - well
-- - short
-  - distance
-  - then
 - - very
   - well
   - slop
+- - short
+  - distance
+  - then
+- - '-'
+  - get
+  - 'off'
 - - did
   - indeed
   - cry
-- - may
-  - take
-  - whatever
-- - ground
-  - some
-  - yards
 - - upon
   - something
   - untoward
-- - rightly
-  - know
-  - how
+- - may
+  - take
+  - whatever
 - - more
   - explicit
   - good
+- - '-'
+  - very
+  - well
 - - far
   - far
   - away
+- - rightly
+  - know
+  - how
+- - ground
+  - some
+  - yards
 - - know
   - full
   - well
-- - slop
-  - '-'
-  - 'no'
 - - forth
   - 'no'
   - sir
 - - your
   - baronial
   - magnificence
-- - fetch
-  - your
-  - tome
-- - your
-  - tome
-  - sir
-- - your
-  - lowly
-  - station
-- - please
-  - your
-  - baronial
-- - doorway
-  - '-'
-  - what
-- - surprise
-  - 'no'
-  - different
 - - came
   - upon
   - something
-- - some
-  - yards
-  - away
+- - surprise
+  - 'no'
+  - different
+- - fetch
+  - your
+  - tome
+- - slop
+  - '-'
+  - 'no'
+- - your
+  - lowly
+  - station
+- - your
+  - tome
+  - sir
 - - bashing
   - up
   - against
+- - please
+  - your
+  - baronial
 - - 'no'
   - good
   - slop
+- - some
+  - yards
+  - away
 - - movements
   - were
   - akin
+- - baron
+  - when
+  - eventually
+- - doorway
+  - '-'
+  - what
 - - your
   - eyes
   - thither
 - - cast
   - your
   - eyes
-- - baron
-  - when
-  - eventually
 - - whose
   - movements
   - were
-- - course
-  - took
-  - him
 - - pray
   - leave
   - me
+- - course
+  - took
+  - him
 - - eventually
   - they
   - reached
 - - yet
   - sir
   - if
-- - unseen
-  - barrier
-  - which
+- - filbert
+  - hedges
+  - so
 story:
   date: 2012-10-11
   id: 2012-10-11-on-a-ha-ha-brouhaha

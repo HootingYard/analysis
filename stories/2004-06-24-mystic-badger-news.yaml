@@ -35,18 +35,18 @@ ngrams:
 - - television
   - series
   - love
-- - nd
-  - june
-  - little
 - - persuade
-  - little
-  - severin
-- - june
   - little
   - severin
 - - much
   - criticism
   - typical
+- - nd
+  - june
+  - little
+- - june
+  - little
+  - severin
 - - show
   - little
   - severin
@@ -77,21 +77,21 @@ ngrams:
 - - little
   - severin
   - will
-- - letter
-  - which
-  - appeared
 - - course
   - what
   - mr
+- - letter
+  - which
+  - appeared
+- - 'no'
+  - more
+  - idea
 - - an
   - occasional
   - basis
 - - badger
   - has
   - 'no'
-- - 'no'
-  - more
-  - idea
 story:
   date: 2004-06-24
   id: 2004-06-24-mystic-badger-news

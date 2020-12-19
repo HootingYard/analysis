@@ -1,7 +1,4 @@
 ngrams:
-- - lovell
-  - beddoes
-  - '-'
 - - forbes
   - kelsall
   - january
@@ -20,15 +17,18 @@ ngrams:
 - - haunted
   - ruin
   - thomas
-- - beddoes
-  - '-'
-  - letter
 - - dramatists
   - better
   - poets
+- - lovell
+  - beddoes
+  - '-'
 - - whole
   - fifth
   - act
+- - beddoes
+  - '-'
+  - letter
 - - better
   - dramatists
   - better
@@ -59,33 +59,33 @@ ngrams:
 - - however
   - good
   - these
-- - fatal
-  - dowry
-  - has
 - - even
   - however
   - good
+- - fatal
+  - dowry
+  - has
 - - dare
   - say
   - than
+- - great
+  - deal
+  - more
 - - trampling
   - fellow
   - 'no'
 - - fellow
   - 'no'
   - creeper
-- - great
-  - deal
-  - more
 - - than
   - any
   - contemporary
 - - their
   - necks
   - say
-- - shouldered
-  - himself
+- - himself
   - into
+  - toleration
 story:
   date: 2010-08-10
   id: 2010-08-10-the-fatal-dowry

@@ -1,46 +1,19 @@
 ngrams:
-- - stevens
-  - '-'
-  - hartford
-- - '-'
-  - ives
-  - myrick
-- - kafka
-  - '-'
-  - workers'
-- - wallace
-  - stevens
-  - '-'
-- - ives
-  - '-'
-  - ives
-- - franz
-  - kafka
-  - '-'
 - - hartford
   - accident
   - indemnity
 - - workers'
   - accident
   - insurance
-- - '-'
-  - workers'
-  - accident
-- - '-'
-  - hartford
-  - accident
-- - accident
-  - insurance
-  - institute
 - - poet
   - wallace
   - stevens
+- - accident
+  - insurance
+  - institute
 - - interesting
   - insurance
   - executives
-- - charles
-  - ives
-  - '-'
 - - writer
   - franz
   - kafka
@@ -62,12 +35,12 @@ ngrams:
 - - stopped
   - sobbing
   - allow
-- - indemnity
-  - it's
-  - conceivable
 - - fictional
   - insurance
   - convention
+- - indemnity
+  - it's
+  - conceivable
 - - ditch
   - insurance
   - writer
@@ -80,18 +53,45 @@ ngrams:
 - - thrown
   - unexpectedly
   - together
+- - stevens
+  - '-'
+  - hartford
+- - '-'
+  - ives
+  - myrick
+- - wallace
+  - stevens
+  - '-'
+- - kafka
+  - '-'
+  - workers'
+- - ives
+  - '-'
+  - ives
+- - franz
+  - kafka
+  - '-'
 - - second
   - string
   - quartet
 - - pearls
   - among
   - swine
-- - hall
-  - pearls
-  - among
+- - '-'
+  - hartford
+  - accident
+- - '-'
+  - workers'
+  - accident
+- - charles
+  - ives
+  - '-'
 - - among
   - swine
   - shortly
+- - hall
+  - pearls
+  - among
 - - different
   - title
   - unfortunately
@@ -140,12 +140,12 @@ ngrams:
 - - never
   - got
   - round
-- - other
-  - characters
-  - teeming
 - - reconciled
   - then
   - stride
+- - other
+  - characters
+  - teeming
 story:
   date: 2005-02-12
   id: 2005-02-12-majestic-prose-in-dustbin

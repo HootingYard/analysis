@@ -14,54 +14,60 @@ ngrams:
 - - puce
   - watches
   - cowards
-- - whimpers
-  - puce
-  - bangs
 - - spits
   - puce
   - clanks
+- - whimpers
+  - puce
+  - bangs
 - - tod
   - puce
   - murmurs
 - - barbarian
   - anguish
   - pops
-- - retiring
-  - football
-  - ace
-- - waterfront
-  - puce
-  - reads
-- - puce
-  - reads
-  - simone
-- - circumstance
-  - zig
-  - spits
-- - bob
-  - stokoe
-  - memorial
-- - quarry
-  - puce
-  - spies
-- - zig
-  - meets
-  - tod
-- - auction
-  - zig
-  - melds
 - - puce
   - clanks
   - zig
 - - zig
   - whimpers
   - puce
-- - meets
+- - auction
+  - zig
+  - melds
+- - zig
+  - meets
   - tod
-  - puce
+- - circumstance
+  - zig
+  - spits
 - - zig
   - spits
   - puce
+- - waterfront
+  - puce
+  - reads
+- - puce
+  - reads
+  - simone
+- - quarry
+  - puce
+  - spies
+- - meets
+  - tod
+  - puce
+- - retiring
+  - football
+  - ace
+- - bob
+  - stokoe
+  - memorial
+- - clanks
+  - zig
+  - et
+- - puce
+  - keeps
+  - milking
 - - crunches
   - twigs
   - underfoot
@@ -71,27 +77,12 @@ ngrams:
 - - disease
   - puce
   - clings
-- - puce
-  - keeps
-  - milking
-- - clanks
-  - zig
-  - et
 - - chief
   - puce
   - watches
-- - clunk
-  - puce
-  - keeps
-- - nest
-  - puce
-  - whittles
 - - intertitles
   - zig
   - et
-- - gum
-  - disease
-  - puce
 - - zig
   - et
   - puce
@@ -116,35 +107,44 @@ ngrams:
 - - zig
   - et
   - puce
+- - nest
+  - puce
+  - whittles
+- - clunk
+  - puce
+  - keeps
 - - pan
   - zig
   - clocks
+- - gum
+  - disease
+  - puce
 - - mavis
   - nest
   - puce
 - - children's
   - comic
   - zig
-- - american
-  - circumstance
-  - zig
-- - stokoe
-  - memorial
-  - bucket
-- - leg
-  - zig
-  - meets
 - - comic
   - zig
   - et
+- - stokoe
+  - memorial
+  - bucket
+- - swiss
+  - canton
+  - zig
+- - american
+  - circumstance
+  - zig
 - - latin
   - intertitles
   - zig
+- - leg
+  - zig
+  - meets
 - - banned
   - issue
-  - zig
-- - swiss
-  - canton
   - zig
 story:
   date: 2009-09-18

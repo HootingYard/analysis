@@ -2,45 +2,45 @@ ngrams:
 - - stern
   - protestant
   - rectitude
-- - recite
-  - prayer
-  - drunken
-- - intoxicated
-  - rage
-  - urchin
 - - foxglove
   - prudence
   - foxglove
+- - recite
+  - prayer
+  - drunken
 - - drunken
   - brute
   - bedazzled
+- - intoxicated
+  - rage
+  - urchin
+- - prudence
+  - foxglove
+  - prudence
 - - bludgeon
   - drunken
   - brute
-- - advancement
+- - brute
   - urchin
-  - begins
+  - exits
 - - social
   - advancement
   - urchin
 - - napkins
   - enter
   - urchin
-- - brute
+- - advancement
   - urchin
-  - exits
-- - prudence
-  - foxglove
-  - prudence
+  - begins
 - - prayer
   - drunken
   - brute
-- - drunken
-  - brute
-  - urchin
 - - enter
   - prudence
   - foxglove
+- - drunken
+  - brute
+  - urchin
 - - gloom
   - drunken
   - brute
@@ -83,12 +83,12 @@ ngrams:
 - - early
   - railway
   - accident
-- - benighted
-  - hellhole
-  - note
 - - different
   - drunken
   - brute
+- - benighted
+  - hellhole
+  - note
 - - ears
   - urchin
   - 'yes'
@@ -122,30 +122,30 @@ ngrams:
 - - drunken
   - brute
   - go
-- - kindly
-  - old
-  - ma
 - - quite
   - understandable
   - given
+- - kindly
+  - old
+  - ma
 - - hellhole
   - note
   - too
-- - victorian
-  - genius
-  - after
 - - head
   - drunken
   - brute
+- - victorian
+  - genius
+  - after
 - - filthier
   - hovel
   - where
-- - cast
-  - our
-  - eyes
 - - urchin
   - oh
   - did
+- - cast
+  - our
+  - eyes
 - - shall
   - cast
   - our
@@ -155,24 +155,24 @@ ngrams:
 - - some
   - comic
   - business
+- - upon
+  - another
+  - scene
 - - posh
   - lady
   - who
 - - lady
   - who
   - pounced
-- - upon
+- - eyes
+  - upon
   - another
-  - scene
 - - does
   - some
   - comic
 - - brute
   - does
   - some
-- - eyes
-  - upon
-  - another
 - - oh
   - did
   - ever
@@ -182,15 +182,15 @@ ngrams:
 - - drunken
   - brute
   - what
-- - i'll
-  - box
-  - your
 - - beam
   - down
   - upon
 - - authoress
   - barge
   - into
+- - i'll
+  - box
+  - your
 - - box
   - your
   - ears

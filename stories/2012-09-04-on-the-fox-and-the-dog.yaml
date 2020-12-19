@@ -14,24 +14,24 @@ ngrams:
 - - brown
   - fox
   - jumps
+- - overdue
+  - critical
+  - edition
 - - critical
   - edition
   - annotated
 - - fox
   - exactly
   - quickness
-- - overdue
-  - critical
-  - edition
 - - quick
   - brown
   - fox
-- - late
-  - iris
-  - murdoch
 - - school
   - moderator
   - hoping
+- - late
+  - iris
+  - murdoch
 - - character
   - melanie
   - daniels
@@ -53,72 +53,72 @@ ngrams:
 - - notes
   - early
   - drafts
-- - round
-  - metal
-  - tag
-- - eight
-  - hundred
-  - pages
 - - remonstrance
   - recipients
   - among
 - - working
   - notes
   - early
-- - none
-  - return
-  - except
+- - round
+  - metal
+  - tag
+- - eight
+  - hundred
+  - pages
 - - damned
   - dog
   - anyway
-- - hundred
-  - pages
-  - including
+- - none
+  - return
+  - except
 - - necessarily
   - want
   - everything
-- - cry
-  - aha
-  - look
+- - hundred
+  - pages
+  - including
 - - want
   - everything
   - handed
+- - cry
+  - aha
+  - look
 - - beg
   - further
   - questions
-- - savage
-  - frenzied
-  - birds
-- - steam
-  - train
-  - does
 - - several
   - questions
   - directly
+- - steam
+  - train
+  - does
+- - savage
+  - frenzied
+  - birds
 - - alfred
   - hitchcock
   - why
-- - least
-  - eight
-  - hundred
-- - small
-  - round
-  - metal
-- - long
-  - overdue
-  - critical
 - - perhaps
   - merely
   - playful
-- - most
-  - harebrained
-  - dimwit
+- - least
+  - eight
+  - hundred
+- - long
+  - overdue
+  - critical
+- - small
+  - round
+  - metal
 - - make
   - abject
   - promises
 - - almost
   - certainly
   - dead
+- - most
+  - harebrained
+  - dimwit
 - - given
   - beg
   - further
@@ -131,12 +131,12 @@ ngrams:
 - - laziness
   - tells
   - us
-- - put
-  - aside
-  - both
 - - cheetah
   - without
   - having
+- - put
+  - aside
+  - both
 - - being
   - equally
   - stupid
@@ -146,6 +146,9 @@ ngrams:
 - - questions
   - how
   - quick
+- - tale
+  - well
+  - told
 - - our
   - wrist
   - matches
@@ -155,36 +158,33 @@ ngrams:
 - - exercise
   - our
   - imaginations
-- - us
-  - answer
-  - none
-- - help
-  - us
-  - answer
-- - detail
-  - ever
-  - since
 - - fox
   - jumps
   - over
-- - tale
-  - well
-  - told
+- - us
+  - answer
+  - none
+- - detail
+  - ever
+  - since
 - - fox
   - jumping
   - over
 - - ultimately
   - dissatisfied
   - even
+- - help
+  - us
+  - answer
 - - any
   - moving
   - object
-- - given
-  - two
-  - snippets
 - - homeless
   - stray
   - where
+- - given
+  - two
+  - snippets
 - - aha
   - look
   - how
@@ -194,93 +194,93 @@ ngrams:
 - - further
   - questions
   - how
+- - even
+  - less
+  - satisfactory
 - - overcome
   - its
   - idleness
 - - its
   - basic
   - outline
-- - even
-  - less
-  - satisfactory
 - - both
   - those
   - snippets
 - - where
   - none
   - return
-- - her
-  - character
-  - melanie
 - - too
   - many
   - unanswered
-- - leaves
-  - too
-  - many
-- - tells
-  - us
-  - little
 - - having
   - any
   - moving
+- - leaves
+  - too
+  - many
 - - harebrained
   - dimwit
   - can
-- - dimwit
-  - can
-  - understand
-- - its
-  - name
-  - engraved
-- - rather
-  - than
-  - fictional
+- - tells
+  - us
+  - little
+- - her
+  - character
+  - melanie
 - - real
   - rather
   - than
+- - dimwit
+  - can
+  - understand
+- - rather
+  - than
+  - fictional
 - - name
   - engraved
   - upon
 - - them
   - jeanette
   - winterson
-- - us
-  - little
-  - given
+- - its
+  - name
+  - engraved
 - - slower
   - than
   - say
-- - those
-  - snippets
-  - may
+- - us
+  - little
+  - given
 - - without
   - having
   - any
+- - those
+  - snippets
+  - may
 - - mend
   - their
   - ways
-- - most
-  - people
-  - know
 - - recipients
   - among
   - them
-- - has
-  - always
-  - puzzled
 - - among
   - them
   - jeanette
+- - most
+  - people
+  - know
 - - 'no'
   - apparent
   - reason
-- - been
-  - recently
-  - fed
 - - chekhov
   - story
   - 'no'
+- - has
+  - always
+  - puzzled
+- - been
+  - recently
+  - fed
 - - know
   - its
   - basic
@@ -293,9 +293,6 @@ ngrams:
 - - winterson
   - will
   - self
-- - where
-  - her
-  - character
 - - flesh
   - out
   - details
@@ -305,30 +302,24 @@ ngrams:
 - - know
   - how
   - many
+- - where
+  - her
+  - character
 - - people
   - know
   - its
-- - add
-  - your
-  - own
-- - only
-  - other
-  - thing
-- - your
-  - own
-  - fictional
-- - birds
-  - where
-  - her
 - - basic
   - outline
   - there
 - - sorry
   - specimen
   - we
-- - story
-  - will
-  - help
+- - add
+  - your
+  - own
+- - only
+  - other
+  - thing
 - - fox
   - invisible
   - we
@@ -341,51 +332,60 @@ ngrams:
 - - questions
   - multiply
   - we
+- - your
+  - own
+  - fictional
+- - story
+  - will
+  - help
 - - were
   - real
   - rather
-- - next
-  - step
-  - will
-- - always
-  - puzzled
-  - me
-- - how
-  - many
-  - more
 - - earth
   - melanie
   - would
-- - iris
-  - murdoch
-  - are
-- - are
-  - ultimately
-  - dissatisfied
-- - ever
-  - learn
-  - about
-- - are
-  - innumerable
-  - shades
-- - sophisticated
-  - readers
-  - we
+- - birds
+  - where
+  - her
+- - next
+  - step
+  - will
+- - how
+  - many
+  - more
+- - always
+  - puzzled
+  - me
 - - pickings
   - thus
   - we
 - - so
   - minded
   - frankly
+- - ever
+  - learn
+  - about
+- - sophisticated
+  - readers
+  - we
+- - iris
+  - murdoch
+  - are
+- - are
+  - ultimately
+  - dissatisfied
+- - are
+  - innumerable
+  - shades
 - - we
   - put
   - aside
 - - became
   - so
   - exasperated
-- - do
-  - know
-  - how
+- - readers
+  - we
+  - want
 story:
   date: 2012-09-04
   id: 2012-09-04-on-the-fox-and-the-dog

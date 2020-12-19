@@ -50,45 +50,51 @@ ngrams:
 - - heart
   - already
   - thumping
+- - several
+  - bells
+  - dangling
 - - church
   - door
   - sits
 - - church
   - sometimes
   - atop
-- - several
-  - bells
-  - dangling
 - - die
   - later
   - tonight
-- - something
-  - terribly
-  - dispiriting
 - - buffeted
   - yet
   - spry
+- - something
+  - terribly
+  - dispiriting
 - - prance
   - buffeted
   - yet
 - - yet
   - spry
   - ahead
-- - lovely
-  - old
-  - church
-- - lovely
-  - old
-  - church
 - - damn
   - well
   - ought
+- - lovely
+  - old
+  - church
+- - lovely
+  - old
+  - church
 - - tiny
   - scurrying
   - things
 - - old
   - church
   - sometimes
+- - flaws
+  - ruination
+  - even
+- - clunk
+  - any
+  - clunk
 - - upside
   - down
   - resting
@@ -98,36 +104,30 @@ ngrams:
 - - thrilling
   - moment
   - just
-- - cap
-  - down
-  - snug
-- - clunk
-  - any
-  - clunk
-- - flaws
-  - ruination
-  - even
 - - ruination
   - even
   - doom
+- - cap
+  - down
+  - snug
 - - long
   - last
   - somebody
 - - even
   - doom
   - imagine
-- - down
-  - snug
-  - against
+- - darkness
+  - swooped
+  - upon
 - - its
   - magnificent
   - belfry
 - - down
+  - snug
+  - against
+- - down
   - resting
   - between
-- - darkness
-  - swooped
-  - upon
 - - pointy
   - cap
   - down
@@ -140,9 +140,6 @@ ngrams:
 - - david
   - carpenter
   - who
-- - crack
-  - has
-  - appeared
 - - grasps
   - their
   - sally
@@ -152,33 +149,36 @@ ngrams:
 - - moment
   - just
   - before
+- - crack
+  - has
+  - appeared
 - - see
   - now
   - sprawled
-- - your
-  - pet
-  - cat
-- - some
-  - point
-  - during
-- - terribly
-  - dispiriting
-  - about
 - - ant
   - many
   - more
-- - been
-  - touched
-  - since
+- - terribly
+  - dispiriting
+  - about
 - - many
   - more
   - ants
+- - some
+  - point
+  - during
+- - your
+  - pet
+  - cat
 - - resting
   - between
   - their
 - - between
   - their
   - nocturnal
+- - been
+  - touched
+  - since
 - - snug
   - against
   - your
@@ -194,15 +194,15 @@ ngrams:
 - - ants
   - will
   - die
-- - will
-  - die
-  - later
-- - metal
-  - fatigue
-  - there
 - - life
   - wondering
   - if
+- - metal
+  - fatigue
+  - there
+- - will
+  - die
+  - later
 - - expected
   - there
   - comes
@@ -230,27 +230,42 @@ ngrams:
 - - killing
   - an
   - ant
-- - were
-  - last
-  - here
 - - one
   - particularly
   - dispiriting
+- - were
+  - last
+  - here
 - - more
   - ants
   - will
-- - bats
-  - are
-  - said
-- - yours
-  - do
-  - they
+- - vain
+  - squirrels
+  - or
 - - departed
   - this
   - life
+- - eat
+  - or
+  - depending
+- - bats
+  - are
+  - said
 - - this
   - life
   - wondering
+- - yours
+  - do
+  - they
+- - or
+  - metal
+  - fatigue
+- - owl
+  - or
+  - screech
+- - or
+  - screech
+  - owl
 - - one
   - last
   - preen
@@ -260,33 +275,18 @@ ngrams:
 - - an
   - ant
   - many
-- - vain
-  - squirrels
-  - or
-- - or
-  - metal
-  - fatigue
-- - verb
-  - derived
-  - from
-- - eat
-  - or
-  - depending
-- - owl
-  - or
-  - screech
-- - or
-  - screech
-  - owl
-- - your
-  - cranium
-  - out
 - - owl
   - perched
   - but
+- - or
+  - otherwise
+  - making
 - - bat
   - fruit
   - but
+- - verb
+  - derived
+  - from
 story:
   date: 2012-01-11
   id: 2012-01-11-on-clunks

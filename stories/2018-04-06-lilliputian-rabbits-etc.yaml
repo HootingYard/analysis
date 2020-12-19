@@ -1,10 +1,10 @@
 ngrams:
-- - shelley
-  - coleridge
-  - distracted
 - - ann
   - radcliffe
   - sought
+- - shelley
+  - coleridge
+  - distracted
 - - eating
   - frog
   - fricassee
@@ -20,18 +20,18 @@ ngrams:
 - - laughing
   - gas
   - ann
-- - quincey
-  - john
-  - keats
 - - dreams
   - lamb
   - spoke
-- - thomas
-  - de
-  - quincey
+- - quincey
+  - john
+  - keats
 - - splendid
   - dreams
   - lamb
+- - thomas
+  - de
+  - quincey
 - - obtain
   - splendid
   - dreams
@@ -47,33 +47,33 @@ ngrams:
 - - terrible
   - night
   - visions
-- - night
-  - visions
-  - mrs
 - - read
   - poetry
   - badly
-- - three
-  - possible
-  - lives
 - - fog
   - read
   - poetry
+- - three
+  - possible
+  - lives
+- - night
+  - visions
+  - mrs
 - - paper
   - while
   - transcribing
-- - reinforce
-  - her
-  - terrible
 - - own
   - mother
   - through
-- - her
-  - terrible
-  - night
-- - stabbed
+- - reinforce
   - her
-  - own
+  - terrible
+- - others
+  - who
+  - helped
+- - who
+  - helped
+  - themselves
 story:
   date: 2018-04-06
   id: 2018-04-06-lilliputian-rabbits-etc

@@ -8,24 +8,24 @@ ngrams:
 - - ornate
   - cornflake
   - packets
-- - riveting
-  - dan
-  - corbett
-- - correspondence
-  - columns
-  - pleading
 - - heavily
   - alarmed
   - multiple
+- - correspondence
+  - columns
+  - pleading
+- - riveting
+  - dan
+  - corbett
 - - cornflake
   - packets
   - dripping
-- - doddery
-  - octogenarian
-  - crone
 - - hedge
   - fund
   - managers
+- - doddery
+  - octogenarian
+  - crone
 - - sanctuary
   - worker
   - hauled
@@ -47,63 +47,57 @@ ngrams:
 - - corbett
   - weather
   - forecast
-- - dan
-  - corbett
-  - weather
-- - shoulder
-  - fourth
-  - heist
 - - engulfing
   - mist
   - descended
-- - exactly
-  - o'
-  - clock
+- - shoulder
+  - fourth
+  - heist
+- - dan
+  - corbett
+  - weather
 - - klaxon
   - third
   - heist
+- - laundry
+  - basket
+  - unfortunately
 - - lying
   - low
   - fifth
 - - crow
   - sanctuary
   - prices
-- - laundry
-  - basket
-  - unfortunately
 - - secluded
   - lane
   - technically
-- - albeit
-  - valuable
-  - ones
-- - managers
-  - peckish
-  - blodgett
 - - unfathomable
   - repute
   - everything
+- - albeit
+  - valuable
+  - ones
+- - possibly
+  - fatal
+  - injury
+- - exactly
+  - o'
+  - clock
+- - due
+  - speed
+  - cackling
+- - particularly
+  - riveting
+  - dan
+- - managers
+  - peckish
+  - blodgett
 - - stygian
   - blackness
   - blodgett
 - - heist
   - intelligencer
   - blodgett
-- - possibly
-  - fatal
-  - injury
-- - heist
-  - blodgett
-  - joined
-- - particularly
-  - riveting
-  - dan
-- - due
-  - speed
-  - cackling
-- - peckish
-  - blodgett
-  - opened
 - - plate
   - glass
   - window
@@ -113,111 +107,114 @@ ngrams:
 - - second
   - worker
   - slit
-- - mrs
-  - gubbins
-  - herself
-- - third
-  - heist
-  - blodgett
 - - heist
   - blodgett
-  - returned
-- - gang
-  - spent
-  - weeks
+  - joined
 - - seaside
   - resort
   - letters
+- - peckish
+  - blodgett
+  - opened
+- - gang
+  - spent
+  - weeks
+- - heist
+  - blodgett
+  - returned
+- - third
+  - heist
+  - blodgett
+- - mrs
+  - gubbins
+  - herself
+- - within
+  - seconds
+  - blackjack
 - - spent
   - weeks
   - hidden
 - - summoned
   - detective
   - captain
-- - within
-  - seconds
-  - blackjack
 - - calling
   - detective
   - captain
-- - second
-  - heist
-  - blodgett
 - - weeks
   - hidden
   - behind
-- - repute
-  - everything
-  - went
-- - sixth
-  - heist
-  - took
 - - scene
   - within
   - seconds
-- - fatal
-  - injury
-  - another
-- - gang
-  - left
+- - second
+  - heist
   - blodgett
-- - worker
-  - slit
-  - each
-- - injury
-  - another
-  - member
-- - o'
-  - clock
-  - each
-- - big
-  - important
-  - bank
+- - repute
+  - everything
+  - went
 - - milk
   - thus
   - destroying
+- - fatal
+  - injury
+  - another
+- - sixth
+  - heist
+  - took
+- - injury
+  - another
+  - member
+- - worker
+  - slit
+  - each
 - - cornflakes
   - dry
   - without
-- - entire
-  - operation
-  - took
+- - big
+  - important
+  - bank
 - - alarming
   - violence
   - until
+- - entire
+  - operation
+  - took
 - - everything
   - went
   - according
+- - gang
+  - left
+  - blodgett
 - - course
   - heavily
   - alarmed
 - - pay
   - attention
   - however
-- - most
-  - ingenious
-  - inspired
-- - violence
-  - until
-  - blodgett
+- - o'
+  - clock
+  - each
 - - dry
   - without
   - milk
 - - instead
   - holed
   - himself
-- - slit
-  - each
-  - bag
+- - most
+  - ingenious
+  - inspired
 - - sawdust
   - bridge
   - while
+- - slit
+  - each
+  - bag
+- - violence
+  - until
+  - blodgett
 - - blodgett
   - carried
   - quite
-- - last
-  - count
-  - blodgett
 - - thought
   - detective
   - captain
@@ -227,6 +224,9 @@ ngrams:
 - - years
   - lying
   - low
+- - last
+  - count
+  - blodgett
 - - heist
   - took
   - place
@@ -239,15 +239,15 @@ ngrams:
 - - without
   - milk
   - thus
-- - see
-  - second
-  - heist
 - - much
   - less
   - flimsy
 - - brutes
   - much
   - less
+- - see
+  - second
+  - heist
 - - yet
   - another
   - gang
@@ -263,12 +263,18 @@ ngrams:
 - - toppled
   - over
   - instead
-- - fewer
-  - than
-  - six
 - - less
   - flimsy
   - than
+- - fewer
+  - than
+  - six
+- - mist
+  - descended
+  - upon
+- - tidy
+  - sum
+  - could
 - - her
   - knitting
   - needles
@@ -281,45 +287,39 @@ ngrams:
 - - her
   - klaxon
   - third
-- - mist
-  - descended
-  - upon
-- - tidy
-  - sum
-  - could
-- - blodgett
-  - she
-  - poked
 - - her
   - taking
   - advantage
-- - thump
-  - her
-  - taking
 - - dislodged
   - some
   - wiring
+- - thump
+  - her
+  - taking
 - - some
   - wiring
   - causing
+- - blodgett
+  - she
+  - poked
 - - drove
   - 'off'
   - through
-- - she
-  - creaked
-  - along
-- - man
-  - first
-  - heist
-- - time
-  - blodgett
-  - carried
-- - doing
-  - dislodged
-  - some
 - - gatekeeper
   - disabling
   - them
+- - time
+  - blodgett
+  - carried
+- - she
+  - creaked
+  - along
+- - doing
+  - dislodged
+  - some
+- - man
+  - first
+  - heist
 - - trade
   - who
   - tricked
@@ -329,138 +329,138 @@ ngrams:
 - - has
   - already
   - splashed
-- - gain
-  - some
-  - idea
 - - destroying
   - their
   - value
+- - gain
+  - some
+  - idea
 - - gang
   - broke
   - their
 - - their
   - expert
   - fence
-- - man
-  - blodgett
-  - did
 - - then
   - drove
   - 'off'
+- - man
+  - blodgett
+  - did
 - - blodgett
   - opened
   - up
 - - took
   - place
   - more
-- - into
-  - stygian
-  - blackness
-- - burrowing
-  - equipment
-  - were
 - - thus
   - destroying
   - their
+- - into
+  - stygian
+  - blackness
+- - if
+  - unfathomable
+  - repute
+- - figures
+  - when
+  - thumped
 - - plunged
   - into
   - stygian
+- - burrowing
+  - equipment
+  - were
+- - practice
+  - figures
+  - when
+- - lethal
+  - effect
+  - when
+- - criminal
+  - career
+  - when
+- - peering
+  - hopelessly
+  - into
 - - gang
   - were
   - helpless
 - - bags
   - were
   - chucked
-- - figures
-  - when
-  - thumped
-- - some
-  - years
-  - lying
-- - peering
-  - hopelessly
-  - into
-- - been
-  - called
-  - otters
-- - practice
-  - figures
-  - when
-- - criminal
-  - career
-  - when
-- - if
-  - unfathomable
-  - repute
-- - lethal
-  - effect
-  - when
-- - empty
-  - bags
-  - were
-- - her
-  - bag
-  - before
-- - holed
-  - himself
-  - up
 - - heist
   - tempted
   - out
 - - when
   - thumped
   - neither
-- - important
-  - bank
-  - into
+- - some
+  - years
+  - lying
+- - holed
+  - himself
+  - up
+- - empty
+  - bags
+  - were
+- - been
+  - called
+  - otters
 - - already
   - splashed
   - out
-- - could
-  - deploy
-  - her
+- - important
+  - bank
+  - into
+- - her
+  - bag
+  - before
 - - operation
   - took
   - about
-- - they
-  - summoned
-  - detective
-- - were
-  - set
-  - fair
-- - broke
-  - their
-  - way
-- - all
-  - due
-  - speed
-- - gatekeeper
-  - were
-  - great
-- - effect
-  - when
-  - set
 - - multiple
   - sensors
   - would
-- - them
-  - toppled
-  - over
+- - broke
+  - their
+  - way
+- - effect
+  - when
+  - set
 - - gang
   - would
   - snatch
-- - instead
-  - they
-  - thumped
-- - she
-  - poked
-  - him
+- - them
+  - toppled
+  - over
 - - sensors
   - would
   - pick
+- - they
+  - summoned
+  - detective
+- - all
+  - due
+  - speed
+- - were
+  - set
+  - fair
+- - could
+  - deploy
+  - her
 - - gang
   - would
   - hide
+- - great
+  - if
+  - unfathomable
+- - gatekeeper
+  - were
+  - great
+- - place
+  - more
+  - than
 story:
   date: 2009-08-09
   id: 2009-08-09-bungled-heists

@@ -8,66 +8,60 @@ ngrams:
 - - tapping
   - machine
   - message
+- - metal
+  - tapping
+  - machine
 - - mrs
   - gubbins
   - insisted
 - - studies
   - mrs
   - gubbins
-- - metal
-  - tapping
-  - machine
 - - mrs
   - gubbins
   - tied
-- - four
-  - o'
-  - clock
-- - sent
-  - mrs
-  - gubbins
 - - unbearable
   - tension
   - often
+- - four
+  - o'
+  - clock
 - - dear
   - reader
   - listen
+- - sent
+  - mrs
+  - gubbins
 - - tryst
   - under
   - sawdust
-- - editor
-  - dear
-  - readers
 - - under
   - sawdust
   - bridge
-- - representative
-  - little
-  - severin
+- - editor
+  - dear
+  - readers
 - - reader
   - listen
   - perhaps
+- - representative
+  - little
+  - severin
 - - little
   - severin
   - returned
 - - prose
   - little
   - severin
-- - mrs
-  - gubbins
-  - 'off'
-- - dobson
-  - studies
-  - mrs
 - - pounds
   - our
   - representative
-- - dobson
-  - mrs
-  - gubbins
 - - little
   - cloth
   - bag
+- - mrs
+  - gubbins
+  - 'off'
 - - only
   - audio
   - recording
@@ -77,6 +71,12 @@ ngrams:
 - - mysterious
   - messenger
   - said
+- - dobson
+  - studies
+  - mrs
+- - dobson
+  - mrs
+  - gubbins
 - - our
   - representative
   - little
@@ -95,48 +95,48 @@ ngrams:
 - - your
   - gullible
   - editor
-- - thinking
-  - about
-  - chrysanthemums
 - - devil
   - drives
   - if
+- - thinking
+  - about
+  - chrysanthemums
 - - dumbfounded
   - if
   - 'true'
-- - does
-  - she
-  - know
-- - haemoglobin
-  - towers
-  - we
 - - genuine
   - would
   - prompt
+- - haemoglobin
+  - towers
+  - we
+- - does
+  - she
+  - know
+- - mystic
+  - badger
+  - would
 - - needs
   - must
   - when
 - - towers
   - we
   - sent
-- - mystic
-  - badger
-  - would
 - - we
   - sent
   - mrs
-- - arrangements
-  - were
-  - made
 - - resort
   - some
   - time
+- - arrangements
+  - were
+  - made
+- - faked
+  - perhaps
+  - there
 - - conflagration
   - which
   - laid
-- - saying
-  - correctly
-  - which
 story:
   date: 2005-06-08
   id: 2005-06-08-the-voice-of-dobson

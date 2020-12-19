@@ -2,6 +2,9 @@ ngrams:
 - - about
   - them
   - deckhand
+- - all
+  - about
+  - them
 - - deckhand
   - with
   - pod
@@ -11,9 +14,6 @@ ngrams:
 - - deckhand
   - with
   - mop
-- - all
-  - about
-  - them
 story:
   date: 2011-11-15
   id: 2011-11-15-deckhand-with-pod

@@ -1,40 +1,31 @@
 ngrams:
-- - katherine
-  - mansfield
-  - '-'
-- - players
-  - apiece
-  - sketching
-- - katherine
-  - mansfield
-  - fetched
-- - vultures
-  - circled
-  - overhead
 - - shovels
   - spades
   - hoes
-- - agony
-  - volunteer
-  - ambulance
-- - brutal
-  - impassioned
-  - fight
-- - gaggle
-  - o'
-  - peasantry
-- - volunteer
-  - ambulance
-  - services
+- - players
+  - apiece
+  - sketching
+- - vultures
+  - circled
+  - overhead
+- - katherine
+  - mansfield
+  - fetched
 - - pension
   - aloud
   - huddled
+- - agony
+  - volunteer
+  - ambulance
+- - volunteer
+  - ambulance
+  - services
+- - brutal
+  - impassioned
+  - fight
 - - astrological
   - birth
   - chart
-- - o'
-  - peasantry
-  - beat
 - - students
   - offer
   - triage
@@ -47,48 +38,48 @@ ngrams:
 - - lines
   - crosses
   - squares
-- - central
-  - circle
-  - showed
-- - medical
-  - students
-  - offer
-- - dangerous
-  - contact
-  - sport
-- - hen
-  - coops
-  - legend
 - - german
   - pension
   - aloud
+- - hen
+  - coops
+  - legend
+- - medical
+  - students
+  - offer
+- - central
+  - circle
+  - showed
+- - dangerous
+  - contact
+  - sport
+- - gaggle
+  - o'
+  - peasantry
 - - passing
   - fortune
   - teller
-- - tivol
-  - won
-  - fame
 - - carrion
   - crows
   - swept
+- - tivol
+  - won
+  - fame
+- - o'
+  - peasantry
+  - beat
 - - contact
   - sport
   - played
-- - top
-  - teams
-  - limber
 - - tactical
   - tips
   - including
-- - lane
-  - gaggle
-  - o'
+- - top
+  - teams
+  - limber
 - - various
   - tactical
   - tips
-- - pang
-  - hill
-  - orphanage
 - - blister
   - lane
   - gaggle
@@ -98,33 +89,42 @@ ngrams:
 - - mansfield
   - fictional
   - athlete
-- - broken
-  - blood
-  - flows
-- - young
-  - medical
-  - students
+- - lane
+  - gaggle
+  - o'
+- - pang
+  - hill
+  - orphanage
 - - lower
   - level
   - order
-- - keen
-  - young
+- - young
   - medical
+  - students
+- - broken
+  - blood
+  - flows
+- - katherine
+  - mansfield
+  - '-'
 - - fortune
   - teller
   - saw
-- - regulations
-  - often
-  - arbitrary
+- - keen
+  - young
+  - medical
 - - different
   - farm
   - implements
-- - night
-  - katherine
-  - mansfield
+- - regulations
+  - often
+  - arbitrary
 - - rural
   - backwaters
   - across
+- - night
+  - katherine
+  - mansfield
 - - winter
   - night
   - katherine
@@ -137,15 +137,15 @@ ngrams:
 - - aloud
   - huddled
   - around
-- - three
-  - broken
-  - bones
 - - jaws
   - get
   - broken
 - - peasants
   - whacking
   - each
+- - three
+  - broken
+  - bones
 - - peasants
   - smashing
   - each
@@ -155,12 +155,12 @@ ngrams:
 - - ever
   - mansfield
   - tournament
-- - cantankerous
-  - trainer
-  - old
 - - ridiculous
   - old
   - fraud
+- - cantankerous
+  - trainer
+  - old
 - - get
   - broken
   - blood
@@ -173,42 +173,39 @@ ngrams:
 - - such
   - enticing
   - details
-- - sport
-  - like
-  - lacrosse
-- - mansfield
-  - '-'
-  - its
-- - '-'
-  - its
-  - central
 - - its
   - central
   - circle
-- - uncanny
-  - coincidence
-  - she
-- - coincidence
-  - she
-  - died
+- - sport
+  - like
+  - lacrosse
 - - time
   - carpet
   - salesman
+- - uncanny
+  - coincidence
+  - she
 - - its
   - modern
   - form
+- - coincidence
+  - she
+  - died
+- - mansfield
+  - '-'
+  - its
 - - first
   - ever
   - mansfield
+- - '-'
+  - its
+  - central
 - - many
   - years
   - mansfield
 - - did
   - find
   - treatment
-- - coops
-  - legend
-  - has
 - - whacking
   - each
   - other
@@ -218,6 +215,9 @@ ngrams:
 - - smashing
   - each
   - other
+- - coops
+  - legend
+  - has
 - - bash
   - each
   - other
@@ -230,12 +230,12 @@ ngrams:
 - - chopping
   - up
   - carrots
-- - mansfield
-  - fetched
-  - up
 - - their
   - shovels
   - jaws
+- - mansfield
+  - fetched
+  - up
 - - other
   - head
   - injuries
@@ -251,51 +251,51 @@ ngrams:
 - - else
   - could
   - see
-- - fontainebleau
-  - where
-  - she
 - - peasants
   - were
   - embroiled
 - - teller
   - saw
   - what
-- - hundred
-  - peasants
-  - were
+- - more
+  - than
+  - double
 - - infant's
   - story
   - about
+- - fontainebleau
+  - where
+  - she
 - - story
   - about
   - popsy
 - - their
   - own
   - beauty
-- - benefit
-  - her
-  - she
-- - more
-  - than
-  - double
+- - hundred
+  - peasants
+  - were
 - - rules
   - ditching
   - all
+- - six
+  - more
+  - than
 - - ditching
   - all
   - farm
 - - all
   - farm
   - implements
-- - six
-  - more
-  - than
-- - she
-  - did
-  - find
+- - benefit
+  - her
+  - she
 - - cows
   - would
   - benefit
+- - gathered
+  - cows
+  - would
 story:
   date: 2006-08-02
   id: 2006-08-02-mansfield

@@ -8,36 +8,36 @@ ngrams:
 - - glaring
   - narrative
   - error
-- - bilgewater
-  - elegies
-  - th
-- - elegies
-  - th
-  - july
 - - sir
   - matt
   - busby
+- - bilgewater
+  - elegies
+  - th
 - - dennis
   - wheatley
   - anthony
+- - elegies
+  - th
+  - july
 - - shabby
   - taverns
   - cows
-- - although
-  - sir
-  - matt
 - - tim
   - thurn
   - dear
+- - although
+  - sir
+  - matt
 - - english
   - football
   - although
-- - football
-  - although
-  - sir
 - - counts
   - flags
   - during
+- - football
+  - although
+  - sir
 - - munich
   - air
   - disaster
@@ -53,12 +53,12 @@ ngrams:
 - - learn
   - tim
   - read
+- - thurn
+  - dear
+  - mr
 - - ever
   - tim
   - thurn
-- - error
-  - dobson
-  - counts
 story:
   date: 2005-08-04
   id: 2005-08-04-a-pedant-writes

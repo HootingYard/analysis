@@ -32,12 +32,12 @@ ngrams:
 - - direction
   - when
   - earlier
-- - 'no'
-  - two
-  - owls
 - - same
   - direction
   - when
+- - 'no'
+  - two
+  - owls
 - - owl
   - 'no'
   - two
@@ -65,18 +65,18 @@ ngrams:
 - - tall
   - lighthouse
   - at
-- - bosky
-  - hillside
-  - by
 - - few
   - puzzles
   - have
-- - fly
-  - away
-  - from
+- - bosky
+  - hillside
+  - by
 - - lighthouse
   - at
   - each
+- - at
+  - each
+  - step
 story:
   date: 2004-08-20
   id: 2004-08-20-blodgetts-fishpaste-conundrum

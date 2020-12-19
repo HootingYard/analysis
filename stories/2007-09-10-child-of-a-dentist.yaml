@@ -2,33 +2,33 @@ ngrams:
 - - vacuum
   - cleaner
   - salesman
-- - cleaner
-  - salesman
-  - named
 - - f
   - kennedy
   - incidentally
+- - cleaner
+  - salesman
+  - named
 - - salesman
   - named
   - don
+- - young
+  - vacuum
+  - cleaner
 - - john
   - f
   - kennedy
 - - president
   - john
   - f
-- - young
-  - vacuum
-  - cleaner
-- - named
-  - don
-  - van
 - - c
   - s
   - lewis
 - - s
   - lewis
   - died
+- - named
+  - don
+  - van
 - - end
   - this
   - squib
@@ -47,12 +47,12 @@ ngrams:
 - - incidentally
   - not
   - long
-- - van
-  - driver
-  - for
 - - not
   - long
   - before
+- - as
+  - captain
+  - beefheart
 story:
   date: 2007-09-10
   id: 2007-09-10-child-of-a-dentist

@@ -14,39 +14,39 @@ ngrams:
 - - brian
   - simpson
   - obituary
-- - simpson
-  - obituary
-  - february
-- - comedy
-  - routines
-  - i've
 - - benighted
   - infancy
   - suggests
-- - deathly
-  - seriousness
-  - whenever
-- - f
-  - x
-  - spray
 - - reservoir
   - maintenance
   - wasn't
+- - comedy
+  - routines
+  - i've
+- - deathly
+  - seriousness
+  - whenever
+- - simpson
+  - obituary
+  - february
 - - reservoir
   - maintenance
   - bound
+- - f
+  - x
+  - spray
 - - camping
   - stool
   - atop
 - - soaking
   - wet
   - hemp
-- - soaking
-  - wet
-  - sacks
 - - bold
   - illustrations
   - ducks
+- - soaking
+  - wet
+  - sacks
 - - soaking
   - wet
   - corpses
@@ -59,27 +59,27 @@ ngrams:
 - - arguments
   - extremely
   - difficult
-- - late
-  - brian
-  - simpson
 - - rex
   - tint
   - showing
-- - fathoms
-  - deep
-  - containing
-- - geology
-  - history
-  - archaeology
+- - late
+  - brian
+  - simpson
 - - anybody
   - sees
   - fit
-- - geography
-  - geology
-  - history
+- - fathoms
+  - deep
+  - containing
 - - hysterically
   - overwrought
   - prose
+- - geology
+  - history
+  - archaeology
+- - geography
+  - geology
+  - history
 - - drives
   - sensible
   - persons
@@ -89,48 +89,48 @@ ngrams:
 - - legal
   - history
   - conference
-- - dobson's
-  - arguments
-  - extremely
-- - reservoir
-  - maintenance
-  - began
 - - public
   - speaking
   - meant
 - - ducks
   - disporting
   - themselves
+- - reservoir
+  - maintenance
+  - began
+- - dobson's
+  - arguments
+  - extremely
 - - british
   - legal
   - history
-- - water
-  - management
-  - engineering
-- - illustrated
-  - field
-  - guide
 - - j
   - b
   - post
-- - field
+- - illustrated
+  - field
   - guide
-  - suitable
 - - overwrought
   - prose
   - possibly
+- - field
+  - guide
+  - suitable
+- - water
+  - management
+  - engineering
 - - prose
   - possibly
   - inspired
 - - crimes
   - bound
   - hand
-- - general
-  - water
-  - management
 - - thumbprint
   - almost
   - certainly
+- - general
+  - water
+  - management
 - - almost
   - certainly
   - belonging
@@ -143,48 +143,48 @@ ngrams:
 - - doctor
   - post
   - does
-- - good
-  - doctor
-  - post
-- - surface
-  - while
-  - patches
 - - course
   - anybody
   - sees
-- - reading
-  - dobson's
-  - pamphlet
+- - surface
+  - while
+  - patches
+- - good
+  - doctor
+  - post
 - - routines
   - i've
   - ever
+- - reading
+  - dobson's
+  - pamphlet
 - - leaves
   - us
   - unclear
 - - sacks
   - many
   - fathoms
-- - dam
-  - dobson
-  - toppled
+- - maintenance
+  - wasn't
+  - just
 - - hundred
   - nay
   - two
 - - nay
   - two
   - hundred
-- - maintenance
-  - wasn't
-  - just
+- - those
+  - ineffable
+  - mysteries
 - - many
   - fathoms
   - deep
 - - wet
   - sacks
   - many
-- - those
-  - ineffable
-  - mysteries
+- - dam
+  - dobson
+  - toppled
 - - hundred
   - years
   - hence
@@ -197,42 +197,42 @@ ngrams:
 - - i've
   - ever
   - seen
-- - wearing
-  - our
-  - blinkers
-- - maintenance
-  - began
-  - after
-- - wasn't
-  - just
-  - learned
-- - ever
-  - having
-  - ascertained
 - - even
   - mildly
   - amusing
 - - read
   - several
   - times
+- - wasn't
+  - just
+  - learned
+- - wearing
+  - our
+  - blinkers
+- - ever
+  - having
+  - ascertained
+- - maintenance
+  - began
+  - after
 - - st
   - mungo's
   - day
-- - print
-  - pamphleteer
-  - dobson
-- - its
-  - statistical
-  - tables
 - - same
   - reservoir
   - after
+- - its
+  - statistical
+  - tables
 - - research
   - without
   - ever
 - - pet
   - subject
   - even
+- - print
+  - pamphleteer
+  - dobson
 - - after
   - reading
   - dobson's
@@ -242,12 +242,12 @@ ngrams:
 - - conference
   - many
   - years
-- - two
-  - hundred
-  - years
 - - pamphleteer
   - could
   - hardly
+- - two
+  - hundred
+  - years
 - - after
   - being
   - convicted
@@ -269,6 +269,9 @@ ngrams:
 - - 'no'
   - connection
   - whatsoever
+- - might
+  - even
+  - continue
 - - spray
   - who
   - lost
@@ -281,9 +284,6 @@ ngrams:
 - - wrote
   - 'no'
   - fewer
-- - might
-  - even
-  - continue
 - - about
   - matching
   - tallies
@@ -299,39 +299,39 @@ ngrams:
 - - hemp
   - inserted
   - into
-- - scholar
-  - has
-  - ever
 - - mildly
   - amusing
   - if
 - - fields
   - other
   - than
-- - were
-  - collected
-  - together
+- - scholar
+  - has
+  - ever
 - - amusing
   - if
   - anything
+- - were
+  - collected
+  - together
 - - equal
   - certainty
   - we
-- - dobson
-  - wrote
-  - 'no'
 - - gathers
   - if
   - read
 - - 'no'
   - fewer
   - than
+- - their
+  - services
+  - such
 - - them
   - alas
   - now
-- - ascertained
-  - which
-  - dam
+- - new
+  - research
+  - into
 story:
   date: 2011-02-05
   id: 2011-02-05-the-maintenance-of-reservoirs

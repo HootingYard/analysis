@@ -14,9 +14,6 @@ ngrams:
 - - material
   - mewling
   - infant
-- - malefactors
-  - plotting
-  - dark
 - - idiot
   - child
   - drool
@@ -26,6 +23,9 @@ ngrams:
 - - various
   - arcane
   - symbols
+- - malefactors
+  - plotting
+  - dark
 - - scratched
   - various
   - arcane
@@ -44,12 +44,12 @@ ngrams:
 - - glinka
   - became
   - friends
-- - ancient
-  - mystic
-  - city
 - - shoe
   - shop
   - clearly
+- - ancient
+  - mystic
+  - city
 - - unleashing
   - several
   - malign
@@ -92,12 +92,12 @@ ngrams:
 - - cup
   - after
   - scribbling
-- - sake
-  - let
-  - us
 - - libel
   - suit
   - did
+- - sake
+  - let
+  - us
 - - tin
   - cup
   - after
@@ -107,21 +107,21 @@ ngrams:
 - - she
   - finally
   - spilled
-- - bashed
-  - her
-  - repeatedly
 - - time
   - champion
   - wrestler
+- - bashed
+  - her
+  - repeatedly
 - - never
   - ever
   - remove
-- - again
-  - like
-  - watching
 - - those
   - very
   - realms
+- - again
+  - like
+  - watching
 - - 'no'
   - ordinary
   - dustbin
@@ -137,27 +137,27 @@ ngrams:
 - - spooky
   - dragged
   - out
+- - frequently
+  - got
+  - into
 - - been
   - dead
   - since
 - - were
   - drawn
   - together
-- - frequently
-  - got
-  - into
-- - she
-  - must
-  - never
+- - end
+  - when
+  - glinka
 - - deeds
   - they
   - hid
 - - dismal
   - deeds
   - they
-- - end
-  - when
-  - glinka
+- - she
+  - must
+  - never
 - - too
   - end
   - up
@@ -170,12 +170,12 @@ ngrams:
 - - an
   - electric
   - toaster
-- - an
-  - unfinished
-  - novel
 - - watching
   - an
   - idiot
+- - an
+  - unfinished
+  - novel
 - - an
   - idiot
   - child
@@ -185,27 +185,27 @@ ngrams:
 - - within
   - an
   - inch
+- - full
+  - one
+  - hundred
+- - dipsy
+  - saw
+  - this
 - - algernon
   - spooky
   - had
 - - had
   - algernon
   - spooky
-- - full
-  - one
-  - hundred
-- - immortal
-  - soul
-  - had
-- - dipsy
-  - saw
-  - this
-- - quest
-  - which
-  - only
 - - willis
   - or
   - freeman
+- - willis
+  - or
+  - freeman
+- - freeman
+  - or
+  - hardy
 story:
   date: 2016-01-12
   id: 2016-01-12-gluck-glinka-and-buxtehude

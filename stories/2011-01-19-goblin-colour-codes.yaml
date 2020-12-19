@@ -2,39 +2,39 @@ ngrams:
 - - digital
   - twittering
   - bim
+- - teutonic
+  - forest
+  - goblins
 - - goblins
   - yellow
   - pilfering
 - - yellow
   - pilfering
   - goblins
-- - teutonic
-  - forest
-  - goblins
 - - sinks
   - indigo
   - wet
-- - hobgoblins
-  - orange
-  - fat
 - - pilfering
   - goblins
   - green
-- - red
-  - hobgoblins
+- - hobgoblins
   - orange
+  - fat
 - - goblins
   - green
   - teutonic
-- - orange
-  - fat
-  - goblins
 - - indigo
   - wet
+  - goblins
+- - orange
+  - fat
   - goblins
 - - wet
   - goblins
   - violet
+- - red
+  - hobgoblins
+  - orange
 - - aides
   - de
   - camp
@@ -68,12 +68,12 @@ ngrams:
 - - rapporteurs
   - nor
   - aides
-- - bim
-  - nor
-  - bam
 - - bam
   - nor
   - mat
+- - bim
+  - nor
+  - bam
 - - thought
   - julian
   - assange
@@ -95,6 +95,12 @@ ngrams:
 - - new
   - system
   - alternatively
+- - nor
+  - mat
+  - nor
+- - nor
+  - bam
+  - nor
 - - new
   - scheme
   - comes
@@ -104,12 +110,6 @@ ngrams:
 - - goblins
   - found
   - under
-- - nor
-  - bam
-  - nor
-- - nor
-  - mat
-  - nor
 - - use
   - another
   - word
@@ -128,33 +128,33 @@ ngrams:
 - - mat
   - nor
   - any
-- - release
-  - some
-  - months
-- - press
-  - release
-  - some
-- - goblin
-  - identification
-  - has
 - - de
   - camp
   - can
+- - press
+  - release
+  - some
+- - release
+  - some
+  - months
+- - goblin
+  - identification
+  - has
 - - retired
   - blacksmiths
   - who
 - - camp
   - can
   - remember
-- - some
-  - months
-  - ago
 - - their
   - special
   - rapporteurs
-- - 'no'
-  - longer
-  - angle
+- - some
+  - months
+  - ago
+- - other
+  - way
+  - whatsoever
 story:
   date: 2011-01-19
   id: 2011-01-19-goblin-colour-codes

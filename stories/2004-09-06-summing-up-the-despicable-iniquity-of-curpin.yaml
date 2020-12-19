@@ -2,39 +2,39 @@ ngrams:
 - - spraying
   - wiggling
   - unnecessarily
-- - infection
-  - spraying
-  - wiggling
 - - ginger
   - facade
   - decked
 - - hostess
   - punched
   - drilled
-- - dental
-  - irregularities
-  - employment
+- - infection
+  - spraying
+  - wiggling
 - - virulent
   - infection
   - spraying
-- - incredible
-  - roped
-  - sledge
+- - dental
+  - irregularities
+  - employment
 - - botanical
   - gardens
   - bamboozlement
-- - incandescent
-  - tubular
-  - lamps
 - - strung
   - drying
   - hazelnuts
+- - incredible
+  - roped
+  - sledge
 - - tubular
   - lamps
   - shone
 - - pressure
   - ridges
   - smashing
+- - incandescent
+  - tubular
+  - lamps
 - - quahog
   - berry
   - candles
@@ -47,24 +47,24 @@ ngrams:
 - - indigenous
   - cable
   - plate
-- - cable
-  - plate
-  - softened
 - - mealy
   - primrose
   - blown
-- - harder
-  - rarefied
-  - tremendous
-- - berry
-  - candles
-  - safely
+- - cable
+  - plate
+  - softened
 - - fist
   - dental
   - irregularities
 - - sweaty
   - fist
   - dental
+- - berry
+  - candles
+  - safely
+- - harder
+  - rarefied
+  - tremendous
 - - honked
   - twice
   - slipped
@@ -77,39 +77,33 @@ ngrams:
 - - lamps
   - shone
   - ahead
-- - teeth
-  - virulent
-  - infection
 - - finger
   - ring
   - embedded
 - - concrete
   - piles
   - driven
-- - damp
-  - grey
-  - relics
-- - fine
-  - convenient
-  - perch
 - - bone
   - finger
   - ring
-- - railway
-  - timetables
-  - glowing
+- - fine
+  - convenient
+  - perch
+- - damp
+  - grey
+  - relics
+- - teeth
+  - virulent
+  - infection
 - - animals
   - implacable
   - dribbling
-- - pouring
-  - forth
-  - incandescent
-- - syrup
-  - bottle
-  - provided
 - - forging
   - railway
   - timetables
+- - railway
+  - timetables
+  - glowing
 - - railway
   - harder
   - rarefied
@@ -119,24 +113,30 @@ ngrams:
 - - twice
   - slipped
   - beneath
-- - inelegant
-  - farmyard
-  - animals
+- - syrup
+  - bottle
+  - provided
+- - pouring
+  - forth
+  - incandescent
 - - bad
   - deeds
   - abnormal
+- - inelegant
+  - farmyard
+  - animals
+- - burned
+  - fish
+  - approaching
+- - farmyard
+  - animals
+  - implacable
 - - gondola
   - living
   - rooms
 - - living
   - rooms
   - flanked
-- - farmyard
-  - animals
-  - implacable
-- - burned
-  - fish
-  - approaching
 - - blue
   - invalid
   - jetty
@@ -146,63 +146,63 @@ ngrams:
 - - wooden
   - crates
   - knitting
-- - boots
-  - pouring
-  - forth
 - - bad
   - bad
   - deeds
+- - boots
+  - pouring
+  - forth
 - - shaking
   - sobs
   - turned
-- - procuring
-  - big
-  - booty
-- - streams
-  - procuring
-  - big
 - - incandescent
   - light
   - quietude
+- - procuring
+  - big
+  - booty
 - - suffered
   - tortures
   - best
+- - streams
+  - procuring
+  - big
 - - seminole
   - formidable
   - enough
-- - winter
-  - dog
-  - travel
-- - became
-  - dusty
-  - blue
-- - candles
-  - safely
-  - past
-- - forth
-  - incandescent
-  - light
 - - grossest
   - kind
   - clutching
-- - safely
+- - winter
+  - dog
+  - travel
+- - candles
+  - safely
   - past
-  - rocks
-- - seven
-  - terrible
-  - weeks
 - - balaclava
   - leaning
   - against
-- - following
-  - bad
-  - bad
+- - safely
+  - past
+  - rocks
+- - forth
+  - incandescent
+  - light
+- - seven
+  - terrible
+  - weeks
 - - past
   - burning
   - heather
+- - became
+  - dusty
+  - blue
 - - thundered
   - past
   - burning
+- - following
+  - bad
+  - bad
 - - summer
   - often
   - charmless
@@ -218,15 +218,15 @@ ngrams:
 - - smashing
   - great
   - blocks
-- - tortures
-  - best
-  - left
-- - wild
-  - sabbath
-  - night
 - - entire
   - continents
   - without
+- - wild
+  - sabbath
+  - night
+- - tortures
+  - best
+  - left
 - - raise
   - great
   - clouds

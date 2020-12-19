@@ -8,6 +8,9 @@ ngrams:
 - - hobgoblin
   - non
   - grata
+- - twit
+  - twit
+  - twit
 - - drying
   - combinations
   - touched
@@ -17,9 +20,6 @@ ngrams:
 - - blyton's
   - biographical
   - sketches
-- - twit
-  - twit
-  - twit
 - - divan
   - piled
   - stockings
@@ -47,9 +47,6 @@ ngrams:
 - - disused
   - underground
   - railway
-- - mrs
-  - blyton's
-  - biographical
 - - concerted
   - effort
   - eventually
@@ -59,90 +56,93 @@ ngrams:
 - - effort
   - eventually
   - successful
-- - became
-  - hobgoblin
-  - non
+- - mrs
+  - blyton's
+  - biographical
 - - wooden
   - toy
   - noddy
 - - wooden
   - toy
   - noddy
-- - swiftly
-  - became
-  - hobgoblin
-- - particularly
-  - fractious
-  - hobgoblin
-- - regime
-  - began
-  - flexing
-- - underground
-  - railway
-  - station
 - - t
   - s
   - eliot
+- - particularly
+  - fractious
+  - hobgoblin
+- - became
+  - hobgoblin
+  - non
+- - swiftly
+  - became
+  - hobgoblin
+- - underground
+  - railway
+  - station
+- - regime
+  - began
+  - flexing
 - - improbably
   - enormous
   - ears
-- - burning
-  - burning
-  - burning
-- - burning
-  - burning
-  - burning
 - - poet
   - t
   - s
-- - food
-  - chain
-  - although
 - - toy
   - noddy
   - written
+- - burning
+  - burning
+  - burning
+- - burning
+  - burning
+  - burning
 - - lil's
   - husband
   - got
-- - although
-  - mrs
-  - blyton
 - - brown
   - land
   - unheard
 - - lumpy
   - bumpy
   - part
+- - food
+  - chain
+  - although
+- - although
+  - mrs
+  - blyton
 - - hobgoblin
   - assembly
   - under
-- - asked
-  - mrs
-  - blyton
 - - toy
   - noddy
   - under
-- - big
-  - ears
-  - addresses
 - - exceptional
   - vista
   - rather
+- - big
+  - ears
+  - addresses
 - - feature
   - quite
   - prominently
-- - yourself
-  - big
-  - ears
+- - asked
+  - mrs
+  - blyton
 - - due
   - care
   - however
-- - sun's
-  - last
-  - rays
+- - yourself
+  - big
+  - ears
 - - heading
   - across
   - mud
+- - sun's
+  - last
+  - rays
 - - under
   - whose
   - jurisdiction
@@ -158,87 +158,105 @@ ngrams:
 - - brownie
   - also
   - known
-- - spent
-  - seven
-  - long
 - - railway
   - station
   - well
-- - new
-  - regime
-  - began
-- - deemed
-  - too
-  - big
-- - blyton
-  - never
-  - mentioned
 - - waste
   - land
   - though
-- - once
-  - asked
-  - mrs
+- - spent
+  - seven
+  - long
+- - new
+  - regime
+  - began
+- - blyton
+  - never
+  - mentioned
+- - deemed
+  - too
+  - big
 - - enchanted
   - wood
   - just
-- - mrs
-  - blyton
-  - never
+- - once
+  - asked
+  - mrs
 - - after
   - falling
   - foul
-- - our
-  - improbably
-  - enormous
-- - see
-  - although
-  - mrs
+- - mrs
+  - blyton
+  - never
 - - better
   - 'off'
   - spending
-- - last
-  - straw
-  - came
-- - wood
-  - just
-  - outside
-- - spring
-  - over
-  - distant
-- - toadstool
-  - house
-  - before
+- - our
+  - improbably
+  - enormous
 - - either
   - too
   - pointy
+- - last
+  - straw
+  - came
+- - spring
+  - over
+  - distant
+- - see
+  - although
+  - mrs
+- - wood
+  - just
+  - outside
+- - over
+  - distant
+  - mountains
 - - go
   - without
   - saying
 - - noddy
   - never
   - went
-- - over
-  - distant
-  - mountains
+- - toadstool
+  - house
+  - before
 - - flexing
   - its
   - muscles
-- - toy
-  - like
-  - noddy
-- - her
-  - drying
-  - combinations
-- - blyton
-  - her
-  - opinion
 - - other
   - withered
   - stumps
+- - toy
+  - like
+  - noddy
+- - house
+  - before
+  - taking
+- - town
+  - very
+  - similar
 - - distracted
   - she
   - mistook
+- - began
+  - flexing
+  - its
+- - seven
+  - long
+  - years
+- - her
+  - drying
+  - combinations
+- - wooden
+  - toy
+  - like
+- - blyton
+  - her
+  - opinion
+- - vista
+  - rather
+  - than
 - - spread
   - her
   - drying
@@ -248,54 +266,36 @@ ngrams:
 - - busy
   - typing
   - her
-- - house
-  - before
-  - taking
+- - somewhere
+  - more
+  - suitable
 - - typing
   - her
   - food
-- - town
-  - very
-  - similar
+- - should
+  - go
+  - without
+- - many
+  - years
+  - nay
 - - her
   - food
   - laid
 - - mrs
   - blyton
   - her
-- - wooden
-  - toy
-  - like
-- - began
-  - flexing
-  - its
-- - seven
-  - long
-  - years
-- - vista
-  - rather
-  - than
-- - should
-  - go
-  - without
-- - somewhere
-  - more
-  - suitable
-- - many
-  - years
-  - nay
 - - time
   - plotting
   - against
 - - know
   - noddy
   - never
-- - bore
-  - 'no'
-  - responsibility
 - - days
   - somewhere
   - more
+- - bore
+  - 'no'
+  - responsibility
 - - s
   - eliot
   - who

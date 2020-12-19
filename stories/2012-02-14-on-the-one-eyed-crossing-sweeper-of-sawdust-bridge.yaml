@@ -5,57 +5,57 @@ ngrams:
 - - muggy
   - summer
   - morn
+- - kellogg's
+  - cornflakes
+  - carton
+- - kellogg's
+  - cornflakes
+  - carton
 - - robert
   - ludlum
   - potboiler
-- - kellogg's
-  - cornflakes
-  - carton
-- - kellogg's
-  - cornflakes
-  - carton
 - - chaff
   - enter
   - realm
 - - monocular
   - factotum
   - article
-- - sawdust
-  - bridge
-  - cyclops
-- - monocular
-  - factotum
-  - magazine
 - - broom
   - sweeping
   - sweeping
+- - monocular
+  - factotum
+  - magazine
+- - sawdust
+  - bridge
+  - cyclops
 - - scribbled
   - sawdust
   - bridge
 - - filthy
   - canal
   - sprawling
-- - tatty
-  - damp
-  - pages
 - - television
   - chat
   - shows
 - - cyclops
   - business
   - alive
-- - ted
-  - cack
-  - says
+- - tatty
+  - damp
+  - pages
 - - sawdust
   - bridge
   - armed
-- - speech
-  - seemed
-  - impervious
 - - whole
   - sorry
   - interlude
+- - ted
+  - cack
+  - says
+- - speech
+  - seemed
+  - impervious
 - - young
   - ted
   - cack
@@ -68,27 +68,27 @@ ngrams:
 - - career
   - popularly
   - known
+- - unpublished
+  - research
+  - paper
 - - working
   - methods
   - during
 - - leave
   - young
   - ted
-- - unpublished
-  - research
-  - paper
 - - jot
   - nor
   - scintilla
-- - broom
-  - dobson's
-  - pamphlet
 - - magazine
   - article
   - word
 - - spoke
   - nor
   - responded
+- - broom
+  - dobson's
+  - pamphlet
 - - realm
   - myself
   - via
@@ -98,36 +98,36 @@ ngrams:
 - - familiar
   - turf
   - having
-- - yet
-  - decisively
-  - unrelated
 - - several
   - journals
   - learned
+- - yet
+  - decisively
+  - unrelated
 - - perhaps
   - somewhat
   - mischievous
-- - six
-  - days
-  - thereafter
-- - sawdust
-  - bridge
-  - came
 - - shabby
   - yet
   - sinister
+- - sawdust
+  - bridge
+  - came
 - - neither
   - spoke
   - nor
-- - dawn
-  - until
-  - dusk
+- - six
+  - days
+  - thereafter
 - - own
   - unpublished
   - research
 - - turf
   - having
   - written
+- - dawn
+  - until
+  - dusk
 - - yet
   - sinister
   - figure
@@ -146,15 +146,15 @@ ngrams:
 - - own
   - forthcoming
   - pamphlet
+- - further
+  - six
+  - days
 - - cornflakes
   - carton
   - dobson
 - - dobson
   - scribbled
   - sawdust
-- - further
-  - six
-  - days
 - - once
   - thought
   - consumed
@@ -170,27 +170,24 @@ ngrams:
 - - ted
   - cack
   - may
-- - last
-  - without
-  - fear
-- - crumbling
-  - yet
-  - still
-- - first
-  - mentioned
-  - pamphlet
 - - pointy
   - town
   - again
+- - crumbling
+  - yet
+  - still
+- - last
+  - without
+  - fear
 - - yet
   - still
   - majestic
+- - first
+  - mentioned
+  - pamphlet
 - - both
   - these
   - pamphlets
-- - every
-  - last
-  - word
 - - town
   - again
   - again
@@ -200,6 +197,9 @@ ngrams:
 - - very
   - few
   - efforts
+- - every
+  - last
+  - word
 - - never
   - come
   - hell
@@ -221,36 +221,33 @@ ngrams:
 - - very
   - realm
   - dobson
-- - know
-  - dobson
-  - chose
-- - sinister
-  - figure
-  - who
-- - adverbs
-  - dobson
-  - did
 - - 'no'
   - holds
   - barred
+- - sinister
+  - figure
+  - who
+- - know
+  - dobson
+  - chose
+- - adverbs
+  - dobson
+  - did
 - - figure
   - who
   - appeared
 - - due
   - respect
   - up
-- - dobson
-  - did
-  - actually
 - - ever
   - more
   - convinced
 - - describes
   - what
   - sparked
-- - been
-  - fortunate
-  - enough
+- - dobson
+  - did
+  - actually
 - - become
   - ever
   - more
@@ -260,36 +257,39 @@ ngrams:
 - - copying
   - out
   - verbatim
+- - been
+  - fortunate
+  - enough
 - - callow
   - upstart
   - will
-- - these
-  - papers
-  - has
 - - them
   - still
   - available
-- - without
-  - him
-  - having
 - - out
   - magazine
   - article
-- - actually
-  - enter
-  - into
 - - simply
   - copying
   - out
+- - actually
+  - enter
+  - into
+- - without
+  - him
+  - having
 - - upstart
   - will
   - lay
-- - all
-  - accounts
-  - hovered
+- - these
+  - papers
+  - has
 - - copy
   - out
   - magazine
+- - all
+  - accounts
+  - hovered
 - - all
   - due
   - respect
@@ -302,36 +302,36 @@ ngrams:
 - - saying
   - lessons
   - would
+- - him
+  - having
+  - any
 - - conflagration
   - which
   - laid
 - - him
-  - having
-  - any
+  - nor
+  - did
 - - which
   - ted
   - cack
 - - which
   - laid
   - waste
-- - him
-  - nor
-  - did
 - - sawdust
   - bridge
   - which
-- - bridge
-  - which
-  - appeared
 - - just
   - copy
   - out
-- - politicians
-  - are
-  - also
+- - bridge
+  - which
+  - appeared
 - - also
   - so
   - fond
+- - politicians
+  - are
+  - also
 - - an
   - exclamation
   - mark
@@ -341,24 +341,27 @@ ngrams:
 - - an
   - astonishing
   - tale
-- - has
-  - been
-  - questioned
-- - papers
-  - has
-  - been
 - - one
   - entitled
   - cyclops
-- - which
-  - dobson
-  - scribbled
+- - has
+  - been
+  - questioned
 - - century
   - this
   - cyclops
+- - papers
+  - has
+  - been
 - - these
   - pamphlets
   - are
+- - mumbo
+  - jumbo
+  - or
+- - which
+  - dobson
+  - scribbled
 - - had
   - apparently
   - transfixed
@@ -368,24 +371,21 @@ ngrams:
 - - this
   - crumbling
   - yet
-- - mumbo
-  - jumbo
+- - business
+  - alive
   - or
-- - pamphlets
-  - are
-  - now
+- - hell
+  - or
+  - high
 - - every
   - single
   - one
-- - winnow
-  - wheat
-  - from
-- - wheat
-  - from
-  - chaff
-- - from
-  - chaff
-  - enter
+- - alive
+  - or
+  - dead
+- - pamphlets
+  - are
+  - now
 story:
   date: 2012-02-14
   id: 2012-02-14-on-the-one-eyed-crossing-sweeper-of-sawdust-bridge

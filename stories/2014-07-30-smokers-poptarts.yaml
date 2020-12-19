@@ -11,48 +11,48 @@ ngrams:
 - - supermarkets
   - hypermarkets
   - corner
-- - bakeries
-  - pastry
-  - shops
 - - general
   - grocers
   - supermarkets
-- - hypermarkets
-  - corner
-  - shops
 - - grubby
   - mendicant
   - sprawled
 - - extremis
   - tim
   - thurn
-- - tim
-  - thurn
-  - hey
+- - hypermarkets
+  - corner
+  - shops
 - - shops
   - general
   - grocers
+- - tim
+  - thurn
+  - hey
+- - bakeries
+  - pastry
+  - shops
 - - corner
   - shops
   - charity
-- - tim
-  - thurn
-  - tim
 - - incandescent
   - bus
   - passenger
-- - pastry
-  - shops
-  - general
-- - tried
-  - bakeries
-  - pastry
+- - tim
+  - thurn
+  - tim
 - - bus
   - passenger
   - obviously
+- - pastry
+  - shops
+  - general
 - - finding
   - anything
   - pertinent
+- - tried
+  - bakeries
+  - pastry
 - - suddenly
   - felt
   - impelled
@@ -77,12 +77,12 @@ ngrams:
 - - recent
   - past
   - actually
-- - breakfast
-  - item
-  - called
 - - pertinent
   - though
   - obviously
+- - breakfast
+  - item
+  - called
 - - without
   - finding
   - anything
@@ -98,15 +98,15 @@ ngrams:
 - - find
   - myself
   - salivating
+- - thurn
+  - tim
+  - might
 - - drooling
   - spittle
   - over
 - - thursday
   - just
   - gone
-- - thurn
-  - tim
-  - might
 - - just
   - gone
   - although
@@ -122,21 +122,21 @@ ngrams:
 - - stuff
   - like
   - flour
-- - usually
-  - read
-  - hooting
 - - many
   - another
   - type
+- - usually
+  - read
+  - hooting
 - - mr
   - key
   - every
-- - some
-  - eldritch
-  - force
 - - tim
   - might
   - find
+- - some
+  - eldritch
+  - force
 - - think
   - mr
   - key
@@ -146,12 +146,12 @@ ngrams:
 - - years
   - now
   - since
-- - were
-  - numerous
-  - smokers
 - - when
   - seemingly
   - everybody
+- - were
+  - numerous
+  - smokers
 - - lord
   - knows
   - what
@@ -167,15 +167,15 @@ ngrams:
 - - your
   - own
   - packet
-- - many
-  - years
-  - now
-- - wolf
-  - them
-  - down
 - - thurn
   - hey
   - there
+- - wolf
+  - them
+  - down
+- - many
+  - years
+  - now
 - - stuff
   - them
   - down
@@ -185,33 +185,33 @@ ngrams:
 - - discover
   - whether
   - there
-- - head
-  - repeatedly
-  - into
-- - make
-  - your
-  - own
 - - terrible
   - morning
   - would
+- - head
+  - repeatedly
+  - into
 - - though
   - obviously
   - there
 - - hey
   - there
   - mr
+- - make
+  - your
+  - own
 - - am
   - 'no'
   - longer
+- - there
+  - mr
+  - key
 - - hooting
   - yard
   - when
 - - sensible
   - man
   - would
-- - there
-  - mr
-  - key
 - - one
   - remaining
   - hope

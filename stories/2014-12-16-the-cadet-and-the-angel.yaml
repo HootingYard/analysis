@@ -11,12 +11,12 @@ ngrams:
 - - martello
   - tower
   - cadet
-- - tower
-  - cadet
-  - vig
 - - individual
   - sheet
   - affixed
+- - tower
+  - cadet
+  - vig
 - - shining
   - points
   - rained
@@ -26,36 +26,27 @@ ngrams:
 - - points
   - cadet
   - vig
+- - angel
+  - puny
+  - neurasthenic
+- - toity
+  - points
+  - cadet
 - - puny
   - neurasthenic
   - cadet
 - - angel
-  - puny
-  - neurasthenic
-- - angel
   - slamming
   - shut
-- - toity
-  - points
-  - cadet
 - - consciousness
   - innumerable
   - golden
-- - thousands
-  - nay
-  - millions
 - - innumerable
   - golden
   - shining
-- - months
-  - stretching
-  - ahead
-- - burning
-  - coals
-  - points
-- - teeming
-  - thousands
+- - thousands
   - nay
+  - millions
 - - fort
   - toity
   - points
@@ -65,6 +56,15 @@ ngrams:
 - - merely
   - quaked
   - points
+- - burning
+  - coals
+  - points
+- - teeming
+  - thousands
+  - nay
+- - months
+  - stretching
+  - ahead
 - - television
   - dramas
   - points
@@ -90,11 +90,11 @@ ngrams:
   - captain
   - nitty
 - - duty
-  - roster
-  - captain
-- - duty
   - outside
   - fort
+- - duty
+  - roster
+  - captain
 - - sentry
   - box
   - outside
@@ -104,36 +104,36 @@ ngrams:
 - - sentry
   - post
   - outside
-- - starry
-  - starry
-  - night
 - - captain
   - nitty
   - discovered
 - - box
   - outside
   - fort
+- - starry
+  - starry
+  - night
 - - post
   - outside
   - fort
-- - stars
-  - glittered
-  - across
 - - sudden
   - bright
   - idea
+- - stars
+  - glittered
+  - across
 - - cadet
   - vig
   - again
 - - each
   - individual
   - sheet
-- - cadet
-  - under
-  - captain
 - - fort
   - toity
   - far
+- - cadet
+  - under
+  - captain
 - - quaked
   - points
   - well
@@ -149,12 +149,12 @@ ngrams:
 - - said
   - cadet
   - vig
-- - points
-  - rained
-  - down
 - - hoity
   - said
   - cadet
+- - points
+  - rained
+  - down
 - - fort
   - hoity
   - said
@@ -170,30 +170,30 @@ ngrams:
 - - here
   - clanking
   - towards
-- - now
-  - cadet
-  - vig
 - - before
   - captain
   - nitty
-- - awarded
-  - now
-  - cadet
+- - point
+  - rummaged
+  - through
 - - its
   - earthly
   - visitation
 - - its
   - celestial
   - halls
-- - point
-  - rummaged
-  - through
+- - now
+  - cadet
+  - vig
 - - angel
   - reopened
   - its
-- - its
-  - brow
-  - furrowed
+- - awarded
+  - now
+  - cadet
+- - toity
+  - far
+  - away
 story:
   date: 2014-12-16
   id: 2014-12-16-the-cadet-and-the-angel

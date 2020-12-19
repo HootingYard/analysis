@@ -1,43 +1,43 @@
 ngrams:
-- - ayn
-  - rand
-  - faulty
 - - slapdash
   - grammar
   - misspellings
+- - ayn
+  - rand
+  - faulty
 - - collector
   - ayn
   - rand
-- - stamp
-  - collector
-  - ayn
-- - spongiform
-  - grey
-  - blob
 - - social
   - ineptitude
   - alarmed
+- - spongiform
+  - grey
+  - blob
+- - stamp
+  - collector
+  - ayn
 - - dangerous
   - wolves
   - packs
-- - pal
-  - professor
-  - fang
 - - curious
   - sentimental
   - affection
-- - james
-  - lovelock
-  - drawn
 - - madcap
   - boffin
   - devised
-- - professor
+- - pal
+  - professor
   - fang
-  - announced
+- - james
+  - lovelock
+  - drawn
 - - postage
   - stamp
   - collector
+- - professor
+  - fang
+  - announced
 - - replied
   - professor
   - fang
@@ -50,21 +50,21 @@ ngrams:
 - - thick
   - woolly
   - socks
-- - enid
-  - feeding
-  - spurious
 - - ancient
   - greek
   - pantheon
-- - daily
-  - wolf
-  - attacks
-- - daily
-  - wolf
-  - attacks
+- - enid
+  - feeding
+  - spurious
 - - fruit
   - fly
   - analogy
+- - daily
+  - wolf
+  - attacks
+- - daily
+  - wolf
+  - attacks
 - - cub
   - reporter
   - became
@@ -74,36 +74,36 @@ ngrams:
 - - minutes
   - replied
   - professor
-- - metal
-  - tapping
-  - machine
 - - mysterious
   - mentor
   - possibly
-- - gas
-  - sprays
-  - 'yes'
+- - metal
+  - tapping
+  - machine
 - - further
   - catapult
   - ammo
-- - pebble
-  - supply
-  - give
-- - mentor
-  - whose
-  - advice
+- - gas
+  - sprays
+  - 'yes'
 - - collecting
   - further
   - catapult
+- - pebble
+  - supply
+  - give
 - - pretty
   - safe
   - ground
-- - mysterious
-  - mentor
-  - whose
 - - sprays
   - 'yes'
   - 'yes'
+- - mentor
+  - whose
+  - advice
+- - mysterious
+  - mentor
+  - whose
 - - andy
   - burnham's
   - brain
@@ -113,33 +113,36 @@ ngrams:
 - - woods
   - clarion
   - having
-- - fang
-  - announced
-  - tiny
 - - boffin
   - devised
   - both
-- - biodiversity
+- - supports
+  - both
+  - fruit
+- - fang
+  - announced
   - tiny
-  - enid
 - - word
   - power
   - reader
+- - biodiversity
+  - tiny
+  - enid
 - - buns
   - tiny
   - enid
 - - tiny
   - enid
   - felled
-- - tiny
-  - enid
-  - succeeded
-- - supports
-  - both
+- - both
   - fruit
+  - flies
 - - tapping
   - machine
   - tiny
+- - tiny
+  - enid
+  - succeeded
 - - tiny
   - enid
   - feeding
@@ -149,15 +152,12 @@ ngrams:
 - - machine
   - tiny
   - enid
-- - both
-  - fruit
-  - flies
-- - tiny
-  - enid
-  - spent
 - - mentor
   - possibly
   - because
+- - tiny
+  - enid
+  - spent
 - - shrill
   - shouty
   - way
@@ -167,18 +167,18 @@ ngrams:
 - - placating
   - wolves
   - through
-- - obviously
-  - set
-  - tiny
-- - just
-  - games
-  - consoles
 - - pantheon
   - never
   - forget
+- - just
+  - games
+  - consoles
 - - andy
   - burnham's
   - head
+- - obviously
+  - set
+  - tiny
 - - set
   - tiny
   - enid
@@ -188,15 +188,18 @@ ngrams:
 - - thinking
   - how
   - fruit
-- - fly
-  - analogy
-  - may
 - - broad
   - education
   - even
+- - fly
+  - analogy
+  - may
 - - less
   - savage
   - after
+- - fruit
+  - might
+  - help
 - - seen
   - just
   - games
@@ -206,114 +209,93 @@ ngrams:
 - - its
   - cub
   - reporter
-- - trusty
-  - blunderbuss
-  - she
-- - her
-  - trusty
-  - blunderbuss
-- - attacks
-  - she
-  - sighed
-- - her
-  - shrill
-  - shouty
 - - other
   - downmarket
   - rags
-- - fruit
-  - might
-  - help
-- - wolf
-  - population
-  - she
-- - her
-  - pal
-  - professor
-- - wolf
-  - attacks
-  - she
-- - occasion
-  - she
-  - deferred
 - - savaged
   - any
   - number
-- - spraying
-  - her
-  - gas
+- - trusty
+  - blunderbuss
+  - she
+- - attacks
+  - she
+  - sighed
+- - precious
+  - time
+  - collecting
 - - her
-  - mysterious
-  - mentor
+  - trusty
+  - blunderbuss
+- - wolf
+  - population
+  - she
+- - wolf
+  - attacks
+  - she
+- - her
+  - shrill
+  - shouty
+- - occasion
+  - she
+  - deferred
+- - want
+  - two
+  - things
+- - rather
+  - than
+  - killing
+- - waste
+  - precious
+  - time
+- - her
+  - pal
+  - professor
 - - weird
   - woods
   - she
 - - her
-  - metal
-  - tapping
-- - help
+  - mysterious
+  - mentor
+- - spraying
   - her
-  - placate
-- - want
-  - two
-  - things
-- - her
-  - jalopy
-  - round
-- - population
-  - she
-  - instead
-- - precious
-  - time
-  - collecting
-- - turned
-  - her
-  - jalopy
-- - she
-  - instead
-  - seek
-- - woods
-  - she
-  - turned
-- - waste
-  - precious
-  - time
-- - rather
-  - than
-  - killing
-- - whose
-  - advice
-  - she
+  - gas
 - - how
   - many
   - hikers
 - - where
   - tiny
   - enid
-- - near
-  - where
-  - tiny
+- - help
+  - her
+  - placate
+- - population
+  - she
+  - instead
 - - shouty
   - way
   - first
-- - advice
+- - her
+  - metal
+  - tapping
+- - near
+  - where
+  - tiny
+- - her
+  - jalopy
+  - round
+- - she
+  - instead
+  - seek
+- - turned
+  - her
+  - jalopy
+- - woods
   - she
-  - often
-- - attacks
-  - she
-  - took
+  - turned
 - - knows
   - how
   - many
-- - catapult
-  - ammo
-  - who
-- - before
-  - heading
-  - 'off'
-- - who
-  - blundered
-  - foolishly
 - - burnham's
   - head
   - through
@@ -323,30 +305,45 @@ ngrams:
 - - time
   - collecting
   - further
-- - enid
-  - spent
-  - some
+- - before
+  - heading
+  - 'off'
+- - whose
+  - advice
+  - she
+- - catapult
+  - ammo
+  - who
+- - how
+  - fruit
+  - might
+- - who
+  - blundered
+  - foolishly
+- - advice
+  - she
+  - often
+- - another
+  - more
+  - ghastly
 - - types
   - who
   - blundered
 - - mentor
   - who
   - suggested
-- - ammo
-  - who
-  - knows
-- - another
-  - more
-  - ghastly
-- - possibly
-  - because
+- - enid
+  - spent
+  - some
+- - attacks
   - she
-- - how
-  - fruit
-  - might
+  - took
 - - am
   - scrabbling
   - around
+- - ammo
+  - who
+  - knows
 - - can
   - support
   - both
@@ -356,18 +353,21 @@ ngrams:
 - - their
   - thick
   - woolly
-- - she
-  - often
-  - took
-- - pebbles
-  - just
-  - now
-- - 'no'
-  - particular
-  - love
+- - possibly
+  - because
+  - she
 - - making
   - them
   - less
+- - 'no'
+  - particular
+  - love
+- - pebbles
+  - just
+  - now
+- - she
+  - often
+  - took
 story:
   date: 2008-10-30
   id: 2008-10-30-wolves-and-fruit

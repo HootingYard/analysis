@@ -11,30 +11,30 @@ ngrams:
 - - tuesday
   - injection
   - clinic
+- - swish
+  - sophisticated
+  - cocktail
+- - swish
+  - sophisticated
+  - cocktail
 - - entire
   - procedure
   - passes
-- - swish
-  - sophisticated
-  - cocktail
-- - swish
-  - sophisticated
-  - cocktail
 - - tuesday
   - injection
   - club
-- - john
-  - f
-  - kennedy
 - - sophisticated
   - cocktail
   - party
-- - met
-  - john
+- - john
   - f
+  - kennedy
 - - lean
   - insouciantly
   - against
+- - met
+  - john
+  - f
 - - mad
   - cow
   - disease
@@ -83,12 +83,12 @@ ngrams:
 - - gambit
   - let
   - us
-- - eye
-  - again
-  - last
 - - cocktail
   - party
   - where
+- - eye
+  - again
+  - last
 - - let
   - us
   - imagine
@@ -101,24 +101,24 @@ ngrams:
 - - every
   - two
   - weeks
-- - mantelpiece
-  - now
-  - picture
 - - various
   - other
   - guests
-- - now
+- - mantelpiece
+  - now
   - picture
-  - various
 - - say
   - well
   - that's
-- - picture
-  - various
-  - other
 - - fortnight
   - rather
   - than
+- - can
+  - lean
+  - insouciantly
+- - now
+  - picture
+  - various
 story:
   date: 2016-08-14
   id: 2016-08-14-eye-eye-again

@@ -2,18 +2,24 @@ ngrams:
 - - diplomat
   - joe
   - strummer
-- - edgar
-  - allan
-  - poe
 - - wimbledon
   - champion
   - stan
 - - species
   - homo
   - sapiens
+- - edgar
+  - allan
+  - poe
+- - fulgencio
+  - hammersmith
+  - palais
 - - tourists
   - vacantly
   - wandering
+- - discrete
+  - separate
+  - interchangeable
 - - champion
   - stan
   - smith
@@ -23,33 +29,27 @@ ngrams:
 - - jethro
   - tull
   - flautists
-- - fulgencio
-  - hammersmith
-  - palais
-- - discrete
-  - separate
-  - interchangeable
 - - arthur
   - gordon
   - pym
 - - dispatch
   - fairly
   - rapidly
-- - frenchman
-  - says
-  - palais
-- - office
-  - diplomat
-  - joe
 - - standard
   - issue
   - bipedal
-- - preparatory
-  - homework
-  - please
+- - office
+  - diplomat
+  - joe
+- - frenchman
+  - says
+  - palais
 - - prince
   - fulgencio
   - hammersmith
+- - preparatory
+  - homework
+  - please
 - - band
   - jethro
   - tull
@@ -59,21 +59,21 @@ ngrams:
 - - provide
   - photographic
   - evidence
-- - m
-  - c
-  - hammer
 - - common
   - surname
+  - hammer
+- - m
+  - c
   - hammer
 - - fully
   - appreciate
   - white
-- - issue
-  - bipedal
-  - men
 - - s
   - equally
   - stressed
+- - issue
+  - bipedal
+  - men
 - - surname
   - hammer
   - less
@@ -86,42 +86,45 @@ ngrams:
 - - separate
   - interchangeable
   - word
-- - three
-  - jethro
-  - tull
 - - differentiate
   - between
   - types
 - - short
   - word
   - indicating
-- - dobson's
-  - pamphlet
-  - arithmetic
+- - three
+  - jethro
+  - tull
 - - often
   - ungainly
   - manner
+- - dobson's
+  - pamphlet
+  - arithmetic
 - - difference
   - thus
   - white
-- - proper
-  - name
-  - referring
-- - prince
-  - fulgencio
-  - himself
 - - cigarette
   - paper
   - between
+- - prince
+  - fulgencio
+  - himself
 - - well
   - pronounce
   - hammersmith
+- - proper
+  - name
+  - referring
 - - homework
   - please
   - read
 - - ungainly
   - manner
   - while
+- - exasperating
+  - enough
+  - having
 - - leg
   - while
   - playing
@@ -131,150 +134,147 @@ ngrams:
 - - clash
   - next
   - week
-- - exasperating
-  - enough
-  - having
 - - manner
   - while
   - listening
-- - fulgencio
-  - himself
-  - left
 - - risks
   - being
   - thrown
-- - please
-  - read
-  - dobson's
+- - fulgencio
+  - himself
+  - left
 - - contained
   - within
   - something
+- - please
+  - read
+  - dobson's
 - - qualifying
   - adjective
   - before
-- - another
-  - customer
-  - because
 - - say
   - palace
   - usually
-- - read
-  - dobson's
-  - pamphlet
-- - appreciate
-  - white
-  - man
+- - another
+  - customer
+  - because
 - - speech
   - because
   - quite
 - - because
   - quite
   - frankly
-- - within
-  - something
-  - else
+- - read
+  - dobson's
+  - pamphlet
 - - talcum
   - powder
   - over
 - - well
   - worth
   - reading
+- - within
+  - something
+  - else
+- - appreciate
+  - white
+  - man
 - - let
   - us
   - wrap
-- - says
-  - palais
-  - where
-- - mosh
-  - pit
-  - where
 - - say
   - hammersmith
   - rather
+- - says
+  - palais
+  - where
 - - makes
   - any
   - difference
-- - two
-  - words
-  - hammer
+- - mosh
+  - pit
+  - where
 - - translucent
   - than
   - white
-- - london
-  - now
-  - natives
 - - smith
   - might
   - use
 - - firm
   - grasp
   - upon
-- - thus
-  - white
-  - man
-- - its
-  - raw
-  - state
+- - two
+  - words
+  - hammer
+- - london
+  - now
+  - natives
 - - where
   - young
   - persons
-- - means
-  - next
+- - any
+  - difference
+  - thus
+- - its
+  - raw
+  - state
+- - thus
+  - white
   - man
 - - very
   - thin
   - thing
-- - any
-  - difference
-  - thus
 - - hammersmith
   - rather
   - than
+- - means
+  - next
+  - man
 - - can
   - dispatch
   - fairly
-- - stricken
-  - man
-  - 'off'
 - - can
   - provide
   - photographic
 - - can
   - grasp
   - fully
-- - has
-  - reportedly
-  - confessed
-- - place
-  - where
-  - young
 - - may
   - well
   - pronounce
-- - thin
-  - thing
-  - like
+- - place
+  - where
+  - young
 - - anvil
   - once
   - upon
-- - adjective
-  - before
+- - stricken
   - man
+  - 'off'
 - - london
   - may
   - well
+- - has
+  - reportedly
+  - confessed
+- - thin
+  - thing
+  - like
+- - adjective
+  - before
+  - man
 - - very
   - very
   - thin
 - - can
   - differentiate
   - between
-- - go
-  - further
-  - down
 - - readers
   - can
   - provide
+- - go
+  - further
+  - down
 - - prefix
   - jammed
   - up
@@ -287,9 +287,6 @@ ngrams:
 - - your
   - preparatory
   - homework
-- - next
-  - man
-  - man
 - - 'no'
   - attention
   - whatsoever
@@ -302,150 +299,153 @@ ngrams:
 - - indomitably
   - white
   - what
-- - may
-  - now
-  - press
+- - next
+  - man
+  - man
+- - inn
+  - conversely
+  - if
+- - allan
+  - poe
+  - if
 - - 'no'
   - space
   - between
 - - monopod
   - what
   - else
-- - allan
-  - poe
-  - if
-- - inn
-  - conversely
-  - if
 - - hammer
   - when
   - beating
+- - may
+  - now
+  - press
+- - when
+  - prince
+  - fulgencio
 - - leg
   - when
   - playing
 - - what
   - white
   - means
-- - when
-  - prince
-  - fulgencio
-- - occasion
-  - when
-  - prince
 - - more
   - translucent
   - than
+- - occasion
+  - when
+  - prince
 - - case
   - when
   - responding
-- - all
-  - front
-  - men
 - - would
   - gather
   - en
-- - over
-  - our
-  - head
 - - english
   - equivalent
   - would
 - - any
   - readers
   - can
-- - say
-  - usefully
-  - about
 - - persons
   - would
   - gather
-- - our
+- - over
+  - our
   - head
-  - now
 - - all
-  - fried
-  - things
+  - front
+  - men
+- - say
+  - usefully
+  - about
 - - jethro
   - tull
   - so
-- - powder
-  - over
-  - your
-- - up
-  - against
-  - man
-- - when
-  - beating
-  - say
 - - young
   - persons
   - would
+- - when
+  - beating
+  - say
+- - all
+  - fried
+  - things
+- - our
+  - head
+  - now
 - - we
   - shall
   - examine
-- - being
-  - thrown
-  - out
+- - up
+  - against
+  - man
+- - powder
+  - over
+  - your
 - - less
   - so
   - instances
+- - being
+  - thrown
+  - out
 - - hammer
   - less
   - so
-- - who
-  - has
-  - reportedly
 - - mention
   - though
   - we
 - - week
   - we
   - shall
-- - an
-  - inn
-  - conversely
-- - next
-  - week
-  - we
 - - we
   - say
   - usefully
-- - fried
-  - things
-  - are
+- - next
+  - week
+  - we
 - - equivalent
   - would
   - say
-- - has
-  - 'no'
-  - significance
-- - enters
-  - one
-  - parched
+- - an
+  - inn
+  - conversely
 - - would
   - say
   - palace
 - - tull
   - so
   - far
+- - who
+  - has
+  - reportedly
+- - enters
+  - one
+  - parched
+- - fried
+  - things
+  - are
 - - before
   - we
   - upended
-- - are
-  - too
-  - numerous
-- - former
-  - are
-  - too
-- - things
-  - are
-  - white
-- - tub
-  - before
-  - we
 - - if
   - any
   - readers
+- - tub
+  - before
+  - we
+- - latter
+  - we
+  - might
+- - has
+  - 'no'
+  - significance
+- - we
+  - must
+  - get
+- - one
+  - leg
+  - playing
 story:
   date: 2016-09-18
   id: 2016-09-18-white-man-in-hammersmith-palais

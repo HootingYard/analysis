@@ -1,26 +1,26 @@
 ngrams:
-- - workers'
-  - anarchist
-  - collective
 - - procession
   - mawkish
   - mournful
-- - revolutionary
-  - workers'
-  - anarchist
+- - twit
+  - twit
+  - twit
 - - mawkish
   - mournful
   - woebegone
 - - workers'
+  - anarchist
+  - collective
+- - revolutionary
+  - workers'
+  - anarchist
+- - anarchist
   - collective
   - steering
 - - workers'
   - collective
   - steering
-- - twit
-  - twit
-  - twit
-- - anarchist
+- - workers'
   - collective
   - steering
 - - width
@@ -32,30 +32,30 @@ ngrams:
 - - birth
   - certificates
   - measles
-- - funeral
-  - procession
-  - mawkish
-- - undertaker's
-  - mute
-  - trilogy
-- - undertaker's
-  - mute
-  - trilogy
 - - twit
   - twit
   - jug
-- - collective
-  - steering
-  - committee
-- - collective
-  - steering
-  - committee
-- - collective
-  - steering
-  - committee
+- - undertaker's
+  - mute
+  - trilogy
+- - undertaker's
+  - mute
+  - trilogy
+- - funeral
+  - procession
+  - mawkish
 - - adult
   - undertaker's
   - mute
+- - collective
+  - steering
+  - committee
+- - collective
+  - steering
+  - committee
+- - collective
+  - steering
+  - committee
 - - twit
   - jug
   - jug
@@ -71,15 +71,18 @@ ngrams:
 - - jug
   - jug
   - jug
-- - record
-  - exists
-  - anywhere
 - - add
   - ezra
   - pound
+- - record
+  - exists
+  - anywhere
 - - ragamuffin
   - street
   - urchin
+- - peculiarly
+  - vindictive
+  - lot
 - - street
   - urchin
   - plucked
@@ -89,9 +92,6 @@ ngrams:
 - - documentation
   - including
   - birth
-- - peculiarly
-  - vindictive
-  - lot
 - - including
   - birth
   - certificates
@@ -107,42 +107,42 @@ ngrams:
 - - funeral
   - procession
   - making
-- - publishing
-  - house
-  - based
 - - eliot
   - didn't
   - write
-- - mysterious
-  - publishing
-  - house
+- - anonymous
+  - several
+  - critics
 - - mute
   - further
   - reminiscences
 - - undertaker's
   - mute
   - further
-- - anonymous
-  - several
-  - critics
-- - fact
-  - surely
-  - coincidental
+- - publishing
+  - house
+  - based
+- - mysterious
+  - publishing
+  - house
 - - remained
   - anonymous
   - several
+- - fact
+  - surely
+  - coincidental
 - - also
   - notoriously
   - contains
 - - top
   - hat
   - usually
-- - himself
-  - remained
-  - anonymous
 - - own
   - daughter
   - argued
+- - himself
+  - remained
+  - anonymous
 - - once
   - breaking
   - step
@@ -158,39 +158,39 @@ ngrams:
 - - most
   - vivid
   - dreams
-- - planted
-  - last
-  - year
 - - waste
   - land
   - great
+- - planted
+  - last
+  - year
 - - land
   - great
   - play
-- - funeral
-  - after
-  - funeral
 - - books
   - ever
   - issued
+- - funeral
+  - after
+  - funeral
 - - hat
   - usually
   - too
 - - shamefully
   - subject
   - never
-- - usually
-  - too
-  - big
 - - subject
   - never
   - existed
-- - first
-  - volume
-  - appeared
+- - usually
+  - too
+  - big
 - - any
   - contemporary
   - comment
+- - first
+  - volume
+  - appeared
 - - now
   - adult
   - undertaker's
@@ -203,24 +203,24 @@ ngrams:
 - - pound
   - probably
   - did
+- - cases
+  - even
+  - death
 - - never
   - once
   - breaking
 - - funeral
   - never
   - once
-- - cases
-  - even
-  - death
 - - other
   - obscure
   - works
-- - let
-  - us
-  - remember
 - - procession
   - making
   - its
+- - let
+  - us
+  - remember
 - - more
   - safe
   - inside
@@ -233,87 +233,87 @@ ngrams:
 - - can
   - speak
   - funeral
-- - buy
-  - him
-  - oysters
 - - after
   - funeral
   - never
+- - them
+  - ezra
+  - pound
 - - through
   - funeral
   - after
+- - any
+  - way
+  - commemorated
+- - buy
+  - him
+  - oysters
 - - abroad
   - who
   - persist
 - - nutters
   - abroad
   - who
-- - them
-  - ezra
-  - pound
-- - any
-  - way
-  - commemorated
 - - only
   - books
   - ever
 - - primped
   - up
   - togged
-- - 'no'
-  - record
-  - exists
 - - once
   - more
   - safe
+- - 'no'
+  - record
+  - exists
 - - write
   - them
   - ezra
-- - has
-  - used
-  - exactly
 - - didn't
   - write
   - them
 - - its
   - way
   - slowly
-- - bow
-  - their
-  - heads
 - - ever
   - more
   - fanciful
+- - bow
+  - their
+  - heads
+- - has
+  - used
+  - exactly
 - - making
   - its
   - way
-- - remember
-  - has
-  - used
+- - vow
+  - revenge
+  - when
 - - very
   - same
   - day
-- - own
-  - grandfather
-  - who
 - - into
   - vertiginous
   - flights
 - - persuaded
   - into
   - vertiginous
-- - vow
-  - revenge
-  - when
+- - own
+  - grandfather
+  - who
 - - mute
   - trilogy
   - if
-- - cry
-  - out
-  - insults
+- - remember
+  - has
+  - used
 - - if
   - eliot
   - didn't
+- - cry
+  - out
+  - insults
 - - if
   - compelling
   - evidence
@@ -323,27 +323,12 @@ ngrams:
 - - some
   - cases
   - even
-- - us
-  - remember
-  - has
 - - pointing
   - out
   - however
-- - say
-  - who
-  - wrote
 - - words
   - when
   - referring
-- - cannot
-  - say
-  - who
-- - revenge
-  - when
-  - once
-- - everywhere
-  - else
-  - they
 - - undertaker's
   - mute
   - would
@@ -353,6 +338,21 @@ ngrams:
 - - mute
   - would
   - cry
+- - us
+  - remember
+  - has
+- - revenge
+  - when
+  - once
+- - say
+  - who
+  - wrote
+- - cannot
+  - say
+  - who
+- - everywhere
+  - else
+  - they
 - - committee
   - minutes
   - we

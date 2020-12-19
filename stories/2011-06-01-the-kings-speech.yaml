@@ -8,30 +8,30 @@ ngrams:
 - - king's
   - speech
   - hello
-- - sire
-  - king
-  - '-'
 - - occasion
   - entirely
   - innocent
 - - entirely
   - innocent
   - parts
-- - 'yes'
-  - please
-  - sire
 - - scruffy
   - ingrate
   - tell
+- - 'yes'
+  - please
+  - sire
 - - please
   - sire
   - king
-- - sausage
-  - further
-  - bolts
 - - ears
   - o
   - peasants
+- - sausage
+  - further
+  - bolts
+- - sire
+  - king
+  - '-'
 - - glorious
   - words
   - travel
@@ -41,11 +41,14 @@ ngrams:
 - - own
   - kingly
   - voice
+- - enemy
+  - impaled
+  - upon
 - - these
   - glorious
   - words
-- - enemy
-  - impaled
+- - special
+  - cushion
   - upon
 - - speaking
   - now
@@ -53,69 +56,63 @@ ngrams:
 - - words
   - travel
   - through
-- - special
-  - cushion
-  - upon
 - - well
   - back
   - unless
-- - king
-  - '-'
-  - then
-- - standing
-  - well
-  - back
 - - conversation
   - might
   - go
+- - standing
+  - well
+  - back
 - - some
   - remote
   - village
+- - king
+  - '-'
+  - then
 - - show
   - him
   - mercy
+- - might
+  - go
+  - something
 - - now
   - travel
   - through
 - - invented
   - many
   - other
-- - might
-  - go
-  - something
 - - your
   - business
   - tilling
 - - kingly
   - voice
   - what
+- - applied
+  - if
+  - necessary
 - - go
   - something
   - like
 - - your
-  - left
-  - arm
-- - your
   - ears
   - o
-- - comes
-  - into
-  - contact
-- - applied
-  - if
-  - necessary
 - - better
   - check
   - what
-- - king
-  - '-'
-  - when
-- - many
-  - other
-  - things
+- - comes
+  - into
+  - contact
 - - o
   - peasants
   - into
+- - your
+  - left
+  - arm
+- - many
+  - other
+  - things
 - - sprinting
   - they
   - fawn
@@ -128,18 +125,21 @@ ngrams:
 - - am
   - like
   - unto
+- - king
+  - '-'
+  - when
 - - speech
   - hello
   - there
 - - hails
   - alas
   - there
-- - travel
-  - through
-  - your
 - - ingrate
   - tell
   - me
+- - travel
+  - through
+  - your
 - - help
   - me
   - remember
@@ -161,18 +161,21 @@ ngrams:
 - - laid
   - waste
   - this
+- - incorrect
+  - dress
+  - or
 - - this
   - king
   - '-'
 - - had
   - better
   - check
-- - incorrect
-  - dress
-  - or
 - - cushion
   - upon
   - which
+- - me
+  - how
+  - such
 - - about
   - your
   - business
@@ -185,42 +188,39 @@ ngrams:
 - - kingdom
   - from
   - whence
-- - me
-  - how
-  - such
-- - are
-  - some
-  - aren't
+- - have
+  - finished
+  - skipping
+- - if
+  - necessary
+  - when
 - - waste
   - this
   - very
 - - this
   - very
   - hour
-- - have
-  - finished
-  - skipping
+- - are
+  - some
+  - aren't
 - - impaled
   - upon
   - an
 - - impaled
   - upon
   - an
-- - if
-  - necessary
-  - when
 - - upon
   - an
   - iron
 - - upon
   - an
   - iron
-- - go
-  - about
-  - your
 - - shall
   - do
   - so
+- - be
+  - laid
+  - waste
 story:
   date: 2011-06-01
   id: 2011-06-01-the-kings-speech

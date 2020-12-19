@@ -5,30 +5,18 @@ ngrams:
 - - tunnel
   - causing
   - agamemnon
-- - spiny
-  - poisonous
-  - foliage
 - - gruesome
   - flora
   - sweat
+- - spiny
+  - poisonous
+  - foliage
 - - replied
   - chastened
   - um
-- - unspeakable
-  - desolation
-  - pouring
-- - hello
-  - hello
-  - hello
 - - terrific
   - private
   - investigator
-- - clean
-  - pansy
-  - assures
-- - gigantic
-  - spiny
-  - poisonous
 - - astounded
   - we're
   - getting
@@ -38,120 +26,132 @@ ngrams:
 - - sopping
   - heat
   - feeling
-- - wiped
-  - clean
-  - pansy
+- - hello
+  - hello
+  - hello
 - - foreign
   - tongue
   - er
-- - aunt
+- - gigantic
+  - spiny
+  - poisonous
+- - clean
   - pansy
-  - tells
+  - assures
+- - unspeakable
+  - desolation
+  - pouring
 - - nine
   - seconds
   - elapse
+- - wiped
+  - clean
+  - pansy
 - - hello
   - hello
   - ah
 - - hello
   - ah
   - hello
+- - aunt
+  - pansy
+  - tells
 - - nerve
   - gas
   - seeped
-- - retainer
-  - named
-  - mister
 - - shattered
   - retainer
   - named
 - - wind
   - tunnel
   - causing
-- - named
+- - retainer
+  - named
   - mister
-  - patch
-- - poor
-  - mister
-  - patch
 - - theory
   - prove
   - correct
-- - pause
-  - i'm
-  - afraid
 - - simply
   - wiped
   - clean
-- - telephone
-  - hello
-  - 'yes'
 - - complete
   - memory
   - loss
+- - poor
+  - mister
+  - patch
+- - pause
+  - i'm
+  - afraid
+- - telephone
+  - hello
+  - 'yes'
 - - bad
   - play
   - hello
+- - named
+  - mister
+  - patch
 - - else
   - aunt
   - pansy
-- - become
-  - temporarily
-  - deaf
 - - almost
   - inaudible
   - croak
-- - six
-  - minutes
-  - elapsed
 - - almost
   - insanely
   - thorough
+- - become
+  - temporarily
+  - deaf
+- - six
+  - minutes
+  - elapsed
+- - everything
+  - else
+  - aunt
 - - didn't
   - bear
   - thinking
 - - box
   - barely
   - held
-- - everything
-  - else
-  - aunt
 - - damp
   - bare
   - room
-- - minutes
-  - elapsed
-  - during
-- - hello
-  - 'yes'
-  - 'yes'
 - - cardboard
   - box
   - barely
+- - hello
+  - 'yes'
+  - 'yes'
+- - minutes
+  - elapsed
+  - during
 - - ponds
   - 'yes'
   - 'yes'
 - - barely
   - held
   - together
-- - tried
-  - everything
-  - else
 - - demanded
   - oh
   - 'yes'
+- - tried
+  - everything
+  - else
 - - phone
   - breathing
   - rather
 - - breathing
   - rather
   - heavily
-- - let
-  - nine
-  - seconds
 - - minute
   - passes
   - without
+- - let
+  - nine
+  - seconds
 - - myself
   - comfortable
   - wait
@@ -164,18 +164,18 @@ ngrams:
 - - name
   - shoe
   - size
-- - middle
-  - name
-  - shoe
 - - umpteenth
   - attempt
   - something
-- - using
-  - another
-  - anagram
+- - middle
+  - name
+  - shoe
 - - telephone
   - again
   - wait
+- - using
+  - another
+  - anagram
 - - reasons
   - best
   - known
@@ -191,75 +191,72 @@ ngrams:
 - - long
   - silence
   - although
-- - see
-  - aunt
-  - pansy
-- - letter
-  - i'm
-  - something
-- - tremendously
-  - exciting
-  - little
 - - guess
   - i'd
   - say
-- - exciting
-  - little
-  - holiday
-- - front
-  - door
-  - without
 - - 'yes'
   - well
   - isn't
+- - letter
+  - i'm
+  - something
+- - see
+  - aunt
+  - pansy
+- - front
+  - door
+  - without
+- - tremendously
+  - exciting
+  - little
 - - afternoon
   - 'yes'
   - well
+- - exciting
+  - little
+  - holiday
 - - receiver
   - i'm
   - back
 - - seconds
   - elapse
   - before
-- - desolation
-  - pouring
-  - down
 - - very
   - pretty
   - speech
-- - pass
-  - before
-  - prompting
-- - track
-  - down
-  - matilda
-- - only
-  - mild
-  - ones
-- - any
-  - distinguishing
-  - features
-- - cupboard
-  - accessible
-  - only
-- - minute
-  - pass
-  - before
 - - rather
   - badly
   - well
+- - pass
+  - before
+  - prompting
+- - any
+  - distinguishing
+  - features
 - - hopeless
   - quest
   - even
 - - make
   - myself
   - comfortable
+- - desolation
+  - pouring
+  - down
+- - minute
+  - pass
+  - before
+- - track
+  - down
+  - matilda
+- - cupboard
+  - accessible
+  - only
+- - only
+  - mild
+  - ones
 - - let
   - us
   - proceed
-- - er
-  - i'd
-  - like
 - - head
   - west
   - towards
@@ -269,159 +266,156 @@ ngrams:
 - - never
   - let
   - drop
+- - er
+  - i'd
+  - like
+- - problem
+  - now
+  - i'm
+- - many
+  - long
+  - talks
+- - good
+  - news
+  - just
+- - now
+  - i'm
+  - afraid
 - - her
   - conservatory
   - peering
 - - cleared
   - her
   - throat
-- - problem
-  - now
-  - i'm
 - - she
   - announced
   - chapter
-- - now
-  - i'm
-  - afraid
-- - many
-  - long
-  - talks
-- - her
-  - nerve
-  - gas
-- - good
-  - news
-  - just
 - - inhuman
   - however
   - now
 - - very
   - well
   - thank
-- - thanked
-  - him
-  - profusely
+- - her
+  - nerve
+  - gas
 - - said
   - using
   - another
-- - panic
-  - injured
+- - thanked
   - him
+  - profusely
 - - other
   - end
   - followed
 - - voice
   - said
   - something
-- - she
-  - indeed
-  - possessed
+- - panic
+  - injured
+  - him
 - - looks
   - very
   - much
-- - fig
-  - her
-  - name
 - - mulling
   - over
   - these
 - - private
   - investigator
   - who
-- - great
-  - fig
-  - her
-- - truth
-  - some
-  - five
-- - however
-  - now
-  - look
+- - she
+  - indeed
+  - possessed
 - - other
   - end
   - oh
-- - him
-  - lord
-  - knows
-- - each
-  - other
-  - stop
 - - over
   - these
   - questions
-- - say
-  - it's
-  - only
-- - has
-  - become
-  - temporarily
+- - truth
+  - some
+  - five
 - - make
   - any
   - sense
-- - her
-  - little
-  - experiments
+- - however
+  - now
+  - look
+- - each
+  - other
+  - stop
+- - him
+  - lord
+  - knows
+- - say
+  - it's
+  - only
 - - difficulty
   - summoning
   - up
+- - fig
+  - her
+  - name
+- - great
+  - fig
+  - her
+- - has
+  - become
+  - temporarily
 - - cried
   - tell
   - him
-- - overlooked
-  - her
-  - how
 - - him
   - rather
   - badly
 - - injured
   - him
   - rather
-- - some
-  - good
-  - news
-- - again
-  - now
-  - let
-- - tell
-  - him
-  - it's
-- - afraid
-  - your
-  - agamemnon
-- - gnashing
-  - your
-  - teeth
-- - i'll
-  - get
-  - him
 - - pulmonary
   - thrombosis
   - what
+- - again
+  - now
+  - let
+- - some
+  - good
+  - news
+- - tell
+  - him
+  - it's
+- - i'll
+  - get
+  - him
+- - her
+  - little
+  - experiments
 - - news
   - just
   - now
-- - possible
+- - afraid
   - your
   - agamemnon
-- - bare
-  - room
-  - 'no'
-- - been
-  - simply
-  - wiped
 - - room
   - 'no'
   - bigger
-- - i'm
-  - afraid
+- - bare
+  - room
+  - 'no'
+- - gnashing
   - your
+  - teeth
 - - thrombosis
   - what
   - i'm
-- - someone
-  - using
+- - overlooked
+  - her
+  - how
+- - been
+  - simply
+  - wiped
+- - possible
   - your
+  - agamemnon
 - - what
   - i'm
   - sorry
@@ -431,114 +425,120 @@ ngrams:
 - - floating
   - about
   - somewhere
+- - i'm
+  - afraid
+  - your
+- - someone
+  - using
+  - your
 - - obviously
   - given
   - up
 - - shall
   - hang
   - up
+- - conservatory
+  - peering
+  - out
 - - gas
   - seeped
   - into
 - - now
   - look
   - here
-- - conservatory
-  - peering
-  - out
 - - bear
   - thinking
   - about
 - - could
   - only
   - imagine
-- - she
-  - cleared
-  - her
-- - before
-  - prompting
-  - him
 - - crestfallen
   - air
   - about
-- - telephone
-  - room
-  - into
-- - feeling
-  - all
-  - resolute
 - - agamemnon
   - helps
   - me
+- - before
+  - prompting
+  - him
+- - feeling
+  - all
+  - resolute
+- - telephone
+  - room
+  - into
 - - replied
   - all
   - suave
 - - heat
   - feeling
   - all
-- - using
-  - your
-  - name
-- - get
-  - him
-  - while
-- - here
-  - who
-  - claim
-- - pansy
-  - tells
-  - me
 - - three
   - what
   - else
+- - pansy
+  - tells
+  - me
 - - do
   - next
   - how
-- - said
-  - something
-  - like
+- - here
+  - who
+  - claim
 - - worked
   - their
   - way
-- - call
-  - me
-  - matilda
+- - get
+  - him
+  - while
 - - we're
   - getting
   - there
-- - mister
-  - patch
-  - we
 - - string
   - hello
   - there
-- - her
-  - how
-  - much
 - - comfortable
   - wait
   - there
-- - gravel
-  - they
-  - call
+- - using
+  - your
+  - name
+- - call
+  - me
+  - matilda
+- - said
+  - something
+  - like
+- - mister
+  - patch
+  - we
 - - would
   - mister
   - patch
-- - process
-  - give
-  - me
-- - correct
-  - would
-  - mister
-- - very
-  - much
-  - like
-- - writing
-  - them
-  - down
 - - prove
   - correct
   - would
+- - correct
+  - would
+  - mister
+- - she
+  - cleared
+  - her
+- - process
+  - give
+  - me
+- - gravel
+  - they
+  - call
+- - very
+  - much
+  - like
+- - lord
+  - knows
+  - we
+- - writing
+  - them
+  - down
 - - up
   - any
   - distinguishing
@@ -548,57 +548,144 @@ ngrams:
 - - 'no'
   - bigger
   - than
-- - lord
-  - knows
-  - we
+- - her
+  - how
+  - much
 - - patch
   - we
   - sometimes
-- - get
-  - me
-  - agamemnon
-- - poisonous
-  - foliage
-  - which
-- - hang
-  - up
-  - such
 - - we
   - sometimes
   - play
-- - enormous
-  - bittern
-  - which
-- - your
-  - teeth
-  - said
+- - hang
+  - up
+  - such
+- - get
+  - me
+  - agamemnon
 - - reply
   - get
   - me
 - - collapsed
   - back
   - into
-- - are
-  - four
-  - agamemnon
+- - poisonous
+  - foliage
+  - which
+- - enormous
+  - bittern
+  - which
+- - your
+  - teeth
+  - said
 - - something
   - worked
   - there
-- - paper
-  - which
-  - looks
-- - pouring
-  - 'off'
-  - me
+- - quest
+  - even
+  - if
 - - still
   - there
   - hanging
-- - other
-  - stop
-  - your
+- - are
+  - four
+  - agamemnon
+- - pouring
+  - 'off'
+  - me
+- - us
+  - proceed
+  - we
+- - paper
+  - which
+  - looks
 - - after
   - all
   - staying
+- - me
+  - see
+  - dear
+- - other
+  - stop
+  - your
+- - end
+  - oh
+  - so
+- - an
+  - enormous
+  - bittern
+- - all
+  - suave
+  - may
+- - house's
+  - one
+  - telephone
+- - are
+  - eight
+  - came
+- - deafness
+  - this
+  - total
+- - this
+  - total
+  - amnesia
+- - one
+  - telephone
+  - removed
+- - croaking
+  - one
+  - eventually
+- - if
+  - she
+  - succeeded
+- - are
+  - still
+  - determined
+- - an
+  - exhausted
+  - voice
+- - didn't
+  - know
+  - there
+- - let
+  - me
+  - see
+- - an
+  - afternoon
+  - 'yes'
+- - an
+  - almost
+  - inaudible
+- - wait
+  - there
+  - said
+- - wind
+  - tunnel
+  - this
+- - what
+  - else
+  - can
+- - so
+  - after
+  - clearing
+- - ack
+  - so
+  - after
+- - your
+  - agamemnon
+  - has
+- - said
+  - actually
+  - there
+- - had
+  - pulmonary
+  - thrombosis
+- - has
+  - been
+  - simply
+- - tunnel
+  - this
+  - morning
 story:
   date: 2004-09-06
   id: 2004-09-06-unspeakable-desolation-pouring-down-from-the-stars-chapter-twelve

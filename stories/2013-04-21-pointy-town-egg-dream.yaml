@@ -8,18 +8,18 @@ ngrams:
 - - unattended
   - machine
   - tool
-- - collapsing
-  - abandoned
-  - swimming
 - - trench
   - grabbed
   - hold
-- - abandoned
+- - collapsing
+  - abandoned
   - swimming
-  - pool
 - - jug
   - band
   - arrangement
+- - abandoned
+  - swimming
+  - pool
 - - blister
   - lane
   - bypass
@@ -32,12 +32,12 @@ ngrams:
 - - lorries
   - thundering
   - along
-- - hand
-  - eggless
-  - blood
 - - deft
   - roadworks
   - until
+- - hand
+  - eggless
+  - blood
 - - town
   - egg
   - dream
@@ -50,6 +50,9 @@ ngrams:
 - - town
   - itself
   - near
+- - pointy
+  - town
+  - egg
 - - egg
   - dream
   - last
@@ -61,19 +64,16 @@ ngrams:
   - lorries
 - - pointy
   - town
-  - egg
-- - pointy
-  - town
   - itself
 - - dream
   - last
   - night
-- - its
-  - distorting
-  - acoustics
 - - pointy
   - town
   - again
+- - its
+  - distorting
+  - acoustics
 - - lane
   - bypass
   - where
@@ -98,33 +98,33 @@ ngrams:
 - - out
   - crumbly
   - slabs
-- - roadworks
-  - were
-  - taking
-- - quickly
-  - pulled
-  - out
 - - more
   - copiously
   - than
+- - quickly
+  - pulled
+  - out
+- - roadworks
+  - were
+  - taking
 - - important
   - roadworks
   - were
-- - jug
-  - band
-  - they
-- - life
-  - been
-  - within
 - - thing
   - about
   - dreams
 - - make
   - 'no'
   - sense
+- - jug
+  - band
+  - they
 - - clambered
   - back
   - up
+- - life
+  - been
+  - within
 - - band
   - they
   - played
@@ -143,9 +143,9 @@ ngrams:
 - - discovered
   - an
   - egg
-- - geological
-  - significance
-  - from
+- - trench
+  - this
+  - being
 story:
   date: 2013-04-21
   id: 2013-04-21-pointy-town-egg-dream

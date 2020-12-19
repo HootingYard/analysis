@@ -23,9 +23,6 @@ ngrams:
 - - cash
   - after
   - counting
-- - after
-  - nightfall
-  - armed
 - - prefer
   - guns
   - before
@@ -38,18 +35,21 @@ ngrams:
 - - guns
   - before
   - butter
+- - after
+  - nightfall
+  - armed
 - - gun
   - that's
   - where
 - - away
   - without
   - understanding
-- - that's
-  - where
-  - you're
 - - want
   - butter
   - before
+- - that's
+  - where
+  - you're
 - - translate
   - its
   - twittering
@@ -83,27 +83,27 @@ ngrams:
 - - butter
   - before
   - then
-- - ideas
-  - up
-  - good
 - - any
   - other
   - type
-- - always
-  - been
-  - partial
+- - ideas
+  - up
+  - good
 - - asked
   - what
   - ailed
-- - shoot
-  - him
-  - through
-- - began
-  - chattering
-  - into
 - - butter
   - more
   - than
+- - always
+  - been
+  - partial
+- - began
+  - chattering
+  - into
+- - shoot
+  - him
+  - through
 - - still
   - propping
   - up
@@ -140,42 +140,42 @@ ngrams:
 - - about
   - these
   - things
-- - an
-  - international
-  - arms
 - - one
   - grim
   - overcast
+- - an
+  - international
+  - arms
 - - will
   - come
   - back
-- - little
-  - else
-  - so
 - - just
   - so
   - happens
+- - little
+  - else
+  - so
 - - know
   - about
   - these
-- - will
-  - shoot
-  - him
 - - would
   - hand
   - over
-- - butter
-  - had
-  - become
-- - or
-  - grebe
-  - landed
 - - peewit
   - or
   - grebe
+- - or
+  - grebe
+  - landed
+- - will
+  - shoot
+  - him
 - - persuasive
   - argument
   - but
+- - butter
+  - had
+  - become
 - - obtain
   - butter
   - from
@@ -188,18 +188,18 @@ ngrams:
 - - what
   - ailed
   - me
-- - fetch
-  - from
-  - under
-- - cad
-  - looked
-  - at
 - - great
   - sum
   - but
 - - be
   - cautious
   - meet
+- - cad
+  - looked
+  - at
+- - fetch
+  - from
+  - under
 - - am
   - an
   - international
@@ -209,24 +209,24 @@ ngrams:
 - - you
   - prefer
   - guns
-- - gun
-  - you
-  - want
-- - don't
-  - you
-  - give
-- - should
-  - you
-  - prefer
 - - course
   - but
   - think
-- - why
-  - don't
+- - gun
   - you
+  - want
 - - my
   - worldly
   - wealth
+- - don't
+  - you
+  - give
+- - containing
+  - my
+  - worldly
+- - should
+  - you
+  - prefer
 story:
   date: 2015-02-21
   id: 2015-02-21-butter-before-guns

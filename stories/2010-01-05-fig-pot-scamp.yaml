@@ -5,42 +5,42 @@ ngrams:
 - - nil
   - arnold
   - bax
-- - lop
-  - lop
-  - lop
 - - arnold
   - bax
   - triumph
-- - snippers
-  - bowls
-  - wells
-- - o'
-  - holland
-  - custard
+- - lop
+  - lop
+  - lop
 - - ski
   - slope
   - smudge
+- - snippers
+  - bowls
+  - wells
 - - padding
   - pink
   - forlorn
-- - lawn
-  - championship
-  - grub
-- - shrimp
-  - tag
-  - flap
 - - padding
   - padding
   - pink
+- - lawn
+  - championship
+  - grub
 - - kettle
   - flail
   - gust
+- - shrimp
+  - tag
+  - flap
 - - lip
   - stripe
   - bloom
 - - coathanger
   - lip
   - stripe
+- - nitwit
+  - kettle
+  - flail
 - - tilly
   - tilly
   - tilly
@@ -53,75 +53,75 @@ ngrams:
 - - crisp
   - man's
   - plod
-- - tilly
-  - tilly
-  - lamp
 - - bowls
   - wells
   - pips
-- - phantom
-  - hob
-  - sock
-- - nitwit
-  - kettle
-  - flail
 - - beast
   - padding
   - padding
-- - grease
-  - lawn
-  - championship
-- - beating
-  - beating
-  - beating
+- - tilly
+  - tilly
+  - lamp
 - - vim
   - vim
   - vim
+- - beating
+  - beating
+  - beating
+- - phantom
+  - hob
+  - sock
 - - horn
   - coathanger
   - lip
+- - hoop
+  - rag
+  - prune
+- - grease
+  - lawn
+  - championship
 - - vile
   - vile
   - popsicle
+- - dim
+  - dim
+  - bulb
 - - glug
   - football
   - results
 - - tilly
   - lamp
   - smashed
-- - hoop
-  - rag
-  - prune
-- - dim
-  - dim
-  - bulb
-- - paste
-  - horn
-  - coathanger
 - - championship
   - grub
   - dust
-- - chart
-  - map
-  - o'
-- - map
-  - o'
-  - holland
-- - dust
-  - shrimp
-  - tag
-- - tag
-  - flap
-  - pod
+- - paste
+  - horn
+  - coathanger
 - - spin
   - pop
   - glug
+- - dust
+  - shrimp
+  - tag
+- - bin
+  - hoop
+  - rag
+- - dim
+  - bulb
+  - awful
 - - flies
   - shredded
   - wheat
-- - flap
+- - tag
+  - flap
   - pod
-  - grease
+- - pop
+  - glug
+  - football
+- - blur
+  - wool
+  - snagged
 - - fig
   - pot
   - scamp
@@ -137,36 +137,36 @@ ngrams:
 - - pod
   - grease
   - lawn
-- - pop
-  - glug
-  - football
-- - bin
-  - hoop
-  - rag
-- - dim
-  - bulb
-  - awful
+- - flap
+  - pod
+  - grease
+- - stripe
+  - bloom
+  - o
+- - o'
+  - holland
+  - custard
 - - flail
   - gust
   - gas
-- - blur
-  - wool
-  - snagged
-- - pie
-  - chart
-  - map
-- - rag
-  - prune
-  - dust
-- - awful
-  - flies
-  - shredded
 - - bulb
   - awful
   - flies
+- - awful
+  - flies
+  - shredded
+- - rag
+  - prune
+  - dust
 - - slope
   - smudge
   - everything
+- - pie
+  - chart
+  - map
+- - bloom
+  - o
+  - vile
 story:
   date: 2010-01-05
   id: 2010-01-05-fig-pot-scamp

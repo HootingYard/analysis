@@ -2,12 +2,12 @@ ngrams:
 - - conklin
   - statue
   - flailing
-- - statue
-  - flailing
-  - impromptu
 - - dough
   - platter
   - sneaking
+- - statue
+  - flailing
+  - impromptu
 - - tar
   - paraguayan
   - cigarettes
@@ -29,9 +29,6 @@ ngrams:
 - - green
   - crushed
   - crepe
-- - tremendous
-  - potato
-  - urgency
 - - sweeping
   - arm
   - movements
@@ -41,6 +38,9 @@ ngrams:
 - - elegant
   - sweeping
   - arm
+- - tremendous
+  - potato
+  - urgency
 - - gold
   - green
   - crushed
@@ -50,21 +50,24 @@ ngrams:
 - - red
   - river
   - meets
-- - poisoned
-  - potato
-  - pastry
 - - enid
   - slumped
   - onto
 - - pastry
   - persons
   - queuing
-- - potato
-  - pastry
-  - pie
 - - patient
   - pastry
   - persons
+- - pebbles
+  - piled
+  - close
+- - high
+  - tar
+  - paraguayan
+- - poisoned
+  - potato
+  - pastry
 - - pastry
   - shop
   - proprietor
@@ -74,75 +77,72 @@ ngrams:
 - - pastry
   - shop
   - queue
-- - high
-  - tar
-  - paraguayan
 - - crushed
   - crepe
   - hat
-- - pebbles
-  - piled
-  - close
 - - crushed
   - crepe
   - hat
 - - pastry
   - shop
   - shutters
-- - pastry
-  - shop
-  - thumping
-- - piping
-  - hot
+- - potato
   - pastry
-- - swiftly
-  - located
-  - behind
+  - pie
 - - paraguayan
   - cigarettes
   - soon
-- - killer
-  - bees
-  - appeared
+- - pastry
+  - shop
+  - thumping
+- - swiftly
+  - located
+  - behind
 - - persons
   - queuing
   - outside
+- - piping
+  - hot
+  - pastry
+- - killer
+  - bees
+  - appeared
 - - shop
   - proprietor
   - appeared
-- - sprightly
-  - black
-  - gold
-- - sprightly
-  - black
-  - gold
 - - city
   - lost
   - unnerved
-- - black
+- - sprightly
+  - black
   - gold
-  - green
-- - black
+- - sprightly
+  - black
   - gold
-  - green
 - - single
   - piping
   - hot
 - - verdant
   - parkland
   - tiny
-- - grim
-  - march
-  - morning
+- - black
+  - gold
+  - green
+- - black
+  - gold
+  - green
 - - elegant
   - sweep
   - tiny
-- - patient
-  - pastry
-  - people
 - - found
   - verdant
   - parkland
+- - grim
+  - march
+  - morning
+- - patient
+  - pastry
+  - people
 - - criminal
   - mad
   - person
@@ -164,12 +164,12 @@ ngrams:
 - - sweep
   - tiny
   - enid
-- - pastry
-  - pie
-  - tiny
 - - tiny
   - enid
   - awoke
+- - pastry
+  - pie
+  - tiny
 - - tiny
   - enid
   - slumped
@@ -179,36 +179,36 @@ ngrams:
 - - car
   - tiny
   - enid
-- - tuffet
-  - dusted
-  - 'off'
-- - every
-  - single
-  - piping
 - - later
   - having
   - dumped
+- - every
+  - single
+  - piping
 - - counter
   - every
   - single
+- - tuffet
+  - dusted
+  - 'off'
 - - tiny
   - heroine
   - took
 - - morning
   - tiny
   - enid
-- - seeking
-  - nor
-  - why
 - - head
   - swiftly
   - located
-- - potato
-  - urgency
-  - here
+- - seeking
+  - nor
+  - why
 - - old
   - woman
   - wearing
+- - potato
+  - urgency
+  - here
 - - driven
   - around
   - until
@@ -227,6 +227,9 @@ ngrams:
 - - hat
   - down
   - low
+- - our
+  - tiny
+  - heroine
 - - bludgeon
   - she
   - incapacitated
@@ -234,68 +237,65 @@ ngrams:
   - bludgeon
   - she
 - - her
-  - widow's
-  - weeds
-- - her
   - girly
   - bludgeon
 - - her
+  - widow's
+  - weeds
+- - her
   - rented
   - booster
 - - her
   - rented
   - booster
-- - cracked
-  - her
-  - awake
-- - pulled
-  - her
-  - sprightly
 - - movements
   - she
   - pulled
 - - arm
   - movements
   - she
-- - her
-  - booster
-  - car
 - - canvas
   - sack
   - she
 - - visit
   - she
   - limped
+- - cracked
+  - her
+  - awake
+- - pulled
+  - her
+  - sprightly
 - - her
-  - elegant
-  - sweeping
-- - our
-  - tiny
-  - heroine
+  - booster
+  - car
 - - sack
   - she
   - dragged
 - - her
+  - elegant
   - sweeping
-  - arm
 - - queue
   - she
   - wanted
-- - car
-  - won
-  - her
 - - premises
   - she
   - felt
+- - sped
+  - away
+  - just
+- - pastry
+  - shop
+  - could
+- - car
+  - won
+  - her
+- - her
+  - sweeping
+  - arm
 - - wearing
   - her
   - widow's
-- - her
-  - high
-  - tar
-- - cigarettes
-  - soon
-  - she
 story:
   date: 2007-02-17
   id: 2007-02-17-tremendous-potato-urgency

@@ -68,18 +68,18 @@ ngrams:
 - - smash
   - hit
   - single
-- - pass
-  - it's
-  - rife
-- - wooden
-  - chair
-  - near
-- - heart
-  - sank
-  - 'yes'
 - - several
   - sins
   - lust
+- - pass
+  - it's
+  - rife
+- - heart
+  - sank
+  - 'yes'
+- - wooden
+  - chair
+  - near
 - - potters
   - between
   - chalet
@@ -95,63 +95,63 @@ ngrams:
 - - soft
   - flesh
   - just
+- - beat
+  - very
+  - fast
 - - hairy
   - man
   - repeatedly
 - - hairy
   - man
   - hairy
-- - cried
-  - hairy
-  - man
-- - beat
-  - very
-  - fast
-- - our
-  - jolly
-  - catch
 - - folk
   - club
   - here
+- - our
+  - jolly
+  - catch
+- - cried
+  - hairy
+  - man
 - - sing
   - our
   - jolly
 - - little
   - potters
   - between
-- - water
-  - being
-  - sprayed
 - - flesh
   - just
   - above
-- - two
-  - persons
-  - whose
-- - fangs
-  - right
-  - through
 - - eye
   - swam
   - before
-- - let
-  - us
-  - confess
+- - water
+  - being
+  - sprayed
+- - fangs
+  - right
+  - through
+- - two
+  - persons
+  - whose
 - - bins
   - let
   - us
+- - let
+  - us
+  - confess
 - - patch
   - let
   - us
 - - let
   - us
   - sing
-- - cold
-  - water
-  - being
 - - stabbed
   - its
   - fangs
+- - cold
+  - water
+  - being
 - - our
   - several
   - sins
@@ -170,27 +170,27 @@ ngrams:
 - - us
   - confess
   - our
-- - man
-  - hairy
-  - man
 - - us
   - sing
   - our
 - - musical
   - talent
   - who
+- - man
+  - hairy
+  - man
 - - folk
   - clubs
   - up
 - - their
   - lit
   - cigarette
-- - courage
-  - your
-  - legs
 - - obsessive
   - maniacal
   - about
+- - courage
+  - your
+  - legs
 - - lengthy
   - dirge
   - about
@@ -218,39 +218,33 @@ ngrams:
 - - melody
   - so
   - beautiful
-- - being
-  - sprayed
-  - into
-- - little
-  - song
-  - about
-- - very
-  - fast
-  - what
-- - talent
-  - who
-  - could
 - - chalet
   - almost
   - there
+- - being
+  - sprayed
+  - into
+- - very
+  - fast
+  - what
+- - little
+  - song
+  - about
+- - talent
+  - who
+  - could
+- - babbled
+  - what
+  - know
 - - song
   - were
   - ever
 - - man
   - repeatedly
   - into
-- - babbled
-  - what
-  - know
 - - said
   - other
   - than
-- - an
-  - asp
-  - crawls
-- - an
-  - enraged
-  - viper
 - - words
   - so
   - perfectly
@@ -260,15 +254,21 @@ ngrams:
 - - its
   - belly
   - if
+- - an
+  - asp
+  - crawls
+- - an
+  - enraged
+  - viper
 - - singer
   - than
   - me
-- - questions
-  - what
-  - do
 - - collaborator
   - one
   - evening
+- - questions
+  - what
+  - do
 - - an
   - hour
   - later
@@ -284,60 +284,63 @@ ngrams:
 - - had
   - brought
   - tears
-- - whose
-  - songs
-  - had
-- - banjo
-  - upon
-  - which
-- - an
-  - hairy
-  - man
-- - an
-  - hairy
-  - man
-- - what
-  - about
-  - vipers
 - - sung
   - but
   - let's
-- - fast
-  - what
-  - about
 - - collaborators
   - whether
   - or
-- - your
-  - legs
-  - will
+- - banjo
+  - upon
+  - which
+- - what
+  - about
+  - vipers
+- - whose
+  - songs
+  - had
+- - fast
+  - what
+  - about
 - - but
   - let's
   - face
+- - an
+  - hairy
+  - man
+- - an
+  - hairy
+  - man
 - - but
   - nobody
   - seemed
-- - viper
-  - like
-  - an
-- - like
-  - an
-  - asp
+- - your
+  - legs
+  - will
 - - faces
   - gazing
   - at
-- - vain
-  - at
-  - dawn
 - - be
   - obsessive
   - maniacal
+- - vain
+  - at
+  - dawn
+- - like
+  - an
+  - asp
+- - viper
+  - like
+  - an
 - - gathered
   - about
   - me
 - - nowhere
   - not
   - knowing
+- - or
+  - two
+  - persons
 - - kiosks
   - at
   - both
@@ -347,9 +350,6 @@ ngrams:
 - - hour
   - later
   - at
-- - or
-  - two
-  - persons
 story:
   date: 2012-10-21
   id: 2012-10-21-on-bugloss-and-vipers

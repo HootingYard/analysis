@@ -5,12 +5,12 @@ ngrams:
 - - plunkett
   - postage
   - stamp
-- - postage
-  - stamp
-  - collection
 - - advent
   - calendar
   - today's
+- - postage
+  - stamp
+  - collection
 - - calendar
   - today's
   - picture
@@ -42,11 +42,11 @@ ngrams:
   - yard
   - advent
 - - an
-  - improbable
-  - length
-- - an
   - abortive
   - calendar
+- - an
+  - improbable
+  - length
 story:
   date: 2011-12-13
   id: 2011-12-13-hooting-yard-advent-calendar-xiii

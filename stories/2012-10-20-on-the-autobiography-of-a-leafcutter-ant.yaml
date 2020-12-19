@@ -23,30 +23,30 @@ ngrams:
 - - central
   - american
   - citrus
-- - parental
-  - fungus
-  - garden
 - - livid
   - citrus
   - fruit
+- - parental
+  - fungus
+  - garden
 - - american
   - citrus
   - fruit
 - - rich
   - vegetation
   - near
+- - citrus
+  - fruit
+  - farmer
+- - citrus
+  - fruit
+  - farmer
+- - citrus
+  - fruit
+  - farmer
 - - bit
   - ungrateful
   - anyway
-- - citrus
-  - fruit
-  - farmer
-- - citrus
-  - fruit
-  - farmer
-- - citrus
-  - fruit
-  - farmer
 - - entire
   - citrus
   - tree
@@ -56,6 +56,30 @@ ngrams:
 - - began
   - cutting
   - bits
+- - across
+  - treacherous
+  - terrain
+- - across
+  - treacherous
+  - terrain
+- - across
+  - treacherous
+  - terrain
+- - across
+  - treacherous
+  - terrain
+- - marching
+  - across
+  - treacherous
+- - marching
+  - across
+  - treacherous
+- - marching
+  - across
+  - treacherous
+- - marching
+  - across
+  - treacherous
 - - fungus
   - garden
   - towards
@@ -71,36 +95,12 @@ ngrams:
 - - garden
   - mother
   - looked
-- - across
-  - treacherous
-  - terrain
-- - across
-  - treacherous
-  - terrain
-- - across
-  - treacherous
-  - terrain
-- - across
-  - treacherous
-  - terrain
-- - marching
-  - across
-  - treacherous
-- - marching
-  - across
-  - treacherous
-- - marching
-  - across
-  - treacherous
-- - marching
-  - across
-  - treacherous
-- - three
-  - hundred
-  - million
 - - fruit
   - farmer
   - whose
+- - three
+  - hundred
+  - million
 - - most
   - winged
   - female
@@ -116,26 +116,26 @@ ngrams:
 - - fend
   - 'off'
   - attacks
-- - little
-  - fungus
-  - garden
-- - little
-  - fungus
-  - garden
-- - little
-  - fungus
-  - garden
-- - little
-  - fungus
-  - garden
 - - new
   - tree
   - unfortunately
-- - ungrateful
-  - anyway
-  - after
+- - little
+  - fungus
+  - garden
+- - little
+  - fungus
+  - garden
+- - little
+  - fungus
+  - garden
+- - little
+  - fungus
+  - garden
 - - majors
   - shortly
+  - after
+- - ungrateful
+  - anyway
   - after
 - - come
   - marching
@@ -158,15 +158,15 @@ ngrams:
 - - threatened
   - our
   - food
-- - our
-  - food
-  - source
 - - itself
   - luckily
   - just
 - - protected
   - us
   - given
+- - our
+  - food
+  - source
 - - fungus
   - garden
   - such
@@ -179,21 +179,9 @@ ngrams:
 - - our
   - next
   - visit
-- - lost
-  - her
-  - wings
-- - she
-  - needed
-  - during
-- - needed
-  - during
-  - her
 - - our
   - previous
   - course
-- - mother
-  - lost
-  - her
 - - stomped
   - 'off'
   - back
@@ -209,24 +197,36 @@ ngrams:
 - - our
   - little
   - fungus
+- - she
+  - needed
+  - during
+- - lost
+  - her
+  - wings
+- - same
+  - time
+  - fend
+- - same
+  - time
+  - fend
+- - same
+  - time
+  - fend
+- - same
+  - time
+  - fend
+- - needed
+  - during
+  - her
+- - mother
+  - lost
+  - her
 - - fetch
   - some
   - form
 - - exactly
   - because
   - like
-- - same
-  - time
-  - fend
-- - same
-  - time
-  - fend
-- - same
-  - time
-  - fend
-- - same
-  - time
-  - fend
 - - like
   - most
   - winged
@@ -266,12 +266,12 @@ ngrams:
 - - time
   - fend
   - 'off'
-- - because
-  - like
-  - most
 - - sat
   - about
   - munching
+- - because
+  - like
+  - most
 - - made
   - our
   - way
@@ -284,27 +284,21 @@ ngrams:
 - - made
   - our
   - way
-- - her
-  - wings
-  - she
+- - our
+  - way
+  - back
+- - our
+  - way
+  - back
+- - our
+  - way
+  - back
+- - our
+  - way
+  - back
 - - virtually
   - all
   - antibiotics
-- - our
-  - way
-  - back
-- - our
-  - way
-  - back
-- - our
-  - way
-  - back
-- - our
-  - way
-  - back
-- - were
-  - quite
-  - tired
 - - colony
   - we
   - deposited
@@ -320,27 +314,33 @@ ngrams:
 - - slaughtering
   - device
   - we
-- - splendid
-  - thing
-  - about
+- - were
+  - quite
+  - tired
 - - vegetation
   - we
   - headed
-- - set
-  - about
-  - doing
 - - device
   - we
   - quickly
-- - all
-  - antibiotics
-  - used
+- - set
+  - about
+  - doing
+- - splendid
+  - thing
+  - about
 - - ant
   - call
   - me
+- - all
+  - antibiotics
+  - used
 - - heard
   - all
   - sorts
+- - her
+  - wings
+  - she
 - - chance
   - would
   - lay
@@ -374,12 +374,12 @@ ngrams:
 - - morning
   - we
   - decided
-- - we
-  - found
-  - chaos
-- - our
-  - backs
-  - when
+- - again
+  - we
+  - marched
+- - again
+  - we
+  - marched
 story:
   date: 2012-10-20
   id: 2012-10-20-on-the-autobiography-of-a-leafcutter-ant

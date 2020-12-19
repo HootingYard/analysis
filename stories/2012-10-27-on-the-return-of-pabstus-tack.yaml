@@ -14,21 +14,21 @@ ngrams:
 - - eels
   - lovely
   - eels
-- - moustache
-  - drew
-  - pictures
 - - wide
   - magnificent
   - boulevards
-- - strange
-  - elongated
-  - beasts
+- - moustache
+  - drew
+  - pictures
 - - green
   - coloured
   - pictures
 - - lovely
   - eels
   - cried
+- - strange
+  - elongated
+  - beasts
 - - vast
   - wet
   - subterranean
@@ -44,35 +44,44 @@ ngrams:
 - - eels
   - electric
   - asked
+- - passable
+  - 'yes'
+  - beyond
 - - seen
   - eels
   - swimming
-- - passable
+- - eels
   - 'yes'
   - beyond
 - - door
   - clanged
   - shut
-- - eels
-  - 'yes'
-  - beyond
 - - dusk
   - rain
   - began
-- - bible
-  - having
-  - doubted
 - - ribbon
   - running
   - along
-- - eels
-  - another
-  - symposium
+- - bible
+  - having
+  - doubted
+- - wet
+  - subterranean
+  - sea
 - - distant
   - land
   - beyond
-- - wet
-  - subterranean
+- - eels
+  - another
+  - symposium
+- - vast
+  - wet
+  - sea
+- - vast
+  - wet
+  - sea
+- - vast
+  - wet
   - sea
 - - elongated
   - beasts
@@ -80,24 +89,15 @@ ngrams:
 - - tack
   - set
   - free
-- - vast
-  - wet
-  - sea
-- - vast
-  - wet
-  - sea
-- - vast
-  - wet
-  - sea
 - - clanged
   - shut
   - once
-- - seen
-  - heading
-  - towards
 - - wet
   - sea
   - 'yes'
+- - seen
+  - heading
+  - towards
 - - long
   - hard
   - trial
@@ -110,18 +110,18 @@ ngrams:
 - - slunk
   - 'off'
   - together
-- - goggle
-  - eyes
-  - these
 - - mountains
   - loomed
   - over
-- - eyes
+- - goggle
+  - eyes
   - these
-  - pictures
 - - where
   - eels
   - roamed
+- - eyes
+  - these
+  - pictures
 - - let
   - us
   - winkle
@@ -134,18 +134,12 @@ ngrams:
 - - came
   - back
   - he'd
-- - tack
-  - came
-  - back
 - - light
   - where
   - eels
-- - kerfuffle
-  - seemed
-  - like
-- - remember
-  - let
-  - us
+- - tack
+  - came
+  - back
 - - canvas
   - shoes
   - could
@@ -158,144 +152,147 @@ ngrams:
 - - subterranean
   - sea
   - where
+- - remember
+  - let
+  - us
+- - kerfuffle
+  - seemed
+  - like
 - - where
   - villagers
   - came
+- - hand
+  - pressed
+  - upon
+- - hand
+  - pressed
+  - upon
+- - hand
+  - pressed
+  - upon
 - - said
   - come
   - clean
-- - hand
-  - pressed
-  - upon
-- - hand
-  - pressed
-  - upon
-- - hand
-  - pressed
-  - upon
-- - implausible
-  - man
-  - back
 - - running
   - along
   - its
 - - come
   - clean
   - did
-- - inquisitive
-  - villager
-  - who
 - - guards
   - smuggled
   - them
 - - none
   - could
   - remember
+- - implausible
+  - man
+  - back
+- - inquisitive
+  - villager
+  - who
 - - shut
   - once
   - more
 - - sheet
   - rolled
   - up
-- - asked
-  - each
-  - other
-- - having
-  - doubted
-  - him
-- - withdraw
-  - your
-  - phantasm
 - - could
   - remember
   - let
-- - lapped
-  - up
-  - everything
+- - asked
+  - each
+  - other
 - - 'yes'
   - beyond
   - them
-- - panel
-  - withdraw
-  - your
-- - its
-  - back
-  - formed
+- - lapped
+  - up
+  - everything
+- - having
+  - doubted
+  - him
 - - us
   - winkle
   - more
-- - shot
-  - up
-  - above
+- - its
+  - back
+  - formed
+- - withdraw
+  - your
+  - phantasm
+- - panel
+  - withdraw
+  - your
 - - told
   - them
   - 'yes'
-- - runs
-  - into
-  - gutters
+- - shot
+  - up
+  - above
 - - how
   - could
   - anything
-- - him
-  - two
-  - sketches
+- - runs
+  - into
+  - gutters
+- - when
+  - closely
+  - questioned
 - - hand
   - shot
   - up
 - - mountains
   - were
   - passable
-- - when
-  - closely
-  - questioned
-- - showed
-  - him
-  - two
-- - pictures
-  - were
-  - vast
-- - your
-  - hand
-  - pressed
 - - rain
   - runs
   - into
-- - were
-  - passable
-  - 'yes'
+- - him
+  - two
+  - sketches
 - - along
   - its
   - back
-- - given
-  - up
-  - hope
+- - pictures
+  - were
+  - vast
 - - village
   - when
   - closely
+- - showed
+  - him
+  - two
+- - were
+  - passable
+  - 'yes'
+- - given
+  - up
+  - hope
+- - your
+  - hand
+  - pressed
 - - arraigned
   - him
   - before
 - - doubted
   - him
   - before
-- - man
-  - who
-  - claimed
-- - eels
-  - swimming
-  - all
-- - man
-  - back
-  - before
-- - were
-  - vast
-  - almost
-- - swimming
-  - all
-  - sorts
 - - told
   - them
   - too
+- - eels
+  - swimming
+  - all
+- - were
+  - vast
+  - almost
+- - man
+  - back
+  - before
+- - swimming
+  - all
+  - sorts
 - - tack
   - they
   - arraigned
@@ -305,24 +302,27 @@ ngrams:
 - - bible
   - they
   - commanded
+- - man
+  - who
+  - claimed
 - - he'd
   - been
   - away
-- - back
-  - he'd
-  - been
 - - yet
   - given
   - up
-- - free
-  - they
-  - gave
 - - land
   - they
   - babbled
+- - free
+  - they
+  - gave
 - - splotch
   - they
   - asked
+- - back
+  - he'd
+  - been
 - - first
   - how
   - could
@@ -335,27 +335,27 @@ ngrams:
 - - they
   - felt
   - sure
-- - know
-  - him
-  - why
-- - were
-  - last
-  - seen
+- - vast
+  - so
+  - wet
+- - vast
+  - so
+  - wet
 - - until
   - they
   - splashed
 - - set
   - free
   - they
-- - vast
-  - so
-  - wet
-- - vast
-  - so
-  - wet
-- - down
-  - into
-  - drains
+- - were
+  - last
+  - seen
+- - know
+  - him
+  - why
+- - got
+  - there
+  - asked
 - - sea
   - they
   - asked

@@ -14,24 +14,24 @@ ngrams:
 - - richard
   - dickie
   - finds
+- - remain
+  - insoluble
+  - problems
 - - metal
   - tacks
   - staples
 - - coins
   - metal
   - tacks
-- - remain
-  - insoluble
-  - problems
+- - sir
+  - richard
+  - dickie
+- - sir
+  - richard
+  - dickie
 - - copper
   - coins
   - metal
-- - sir
-  - richard
-  - dickie
-- - sir
-  - richard
-  - dickie
 - - plain
   - handkerchief
   - probably
@@ -41,9 +41,6 @@ ngrams:
 - - reportedly
   - particularly
   - stupid
-- - blazing
-  - bird
-  - burn
 - - awful
   - fiery
   - death
@@ -53,39 +50,42 @@ ngrams:
 - - domestic
   - birdcage
   - thus
+- - blazing
+  - bird
+  - burn
 - - same
   - awful
   - fiery
 - - bird
   - finding
   - itself
-- - particularly
-  - stupid
-  - birds
 - - transformation
   - thus
   - however
+- - particularly
+  - stupid
+  - birds
 - - thus
   - however
   - unlikely
 - - another
   - matter
   - entirely
-- - cage
-  - too
-  - small
-- - fire
-  - ostriches
-  - being
 - - matter
   - entirely
   - though
-- - fire
-  - how
-  - common
+- - cage
+  - too
+  - small
 - - explosion
   - might
   - occur
+- - fire
+  - ostriches
+  - being
+- - fire
+  - how
+  - common
 - - bigger
   - than
   - canaries
@@ -98,12 +98,12 @@ ngrams:
 - - underwent
   - its
   - transformation
-- - argue
-  - two
-  - things
 - - concede
   - its
   - possibility
+- - argue
+  - two
+  - things
 - - larger
   - bird
   - than
@@ -125,21 +125,21 @@ ngrams:
 - - must
   - concede
   - its
-- - imagine
-  - them
-  - facing
 - - much
   - bigger
   - than
+- - imagine
+  - them
+  - facing
 - - some
   - comparatively
   - tiny
-- - us
-  - now
-  - sing
 - - having
   - resolved
   - some
+- - us
+  - now
+  - sing
 - - their
   - thousands
   - perched
@@ -155,84 +155,84 @@ ngrams:
 - - their
   - talons
   - thus
-- - burst
-  - into
-  - flame
-- - let
-  - us
-  - now
-- - canary
-  - turns
-  - into
 - - can
   - well
   - imagine
+- - burst
+  - into
+  - flame
+- - canary
+  - turns
+  - into
+- - let
+  - us
+  - now
+- - flame
+  - if
+  - anything
 - - transformed
   - itself
   - into
 - - bath
   - were
   - full
-- - flame
-  - if
-  - anything
 - - birdcage
   - thus
   - if
 - - burgeoning
   - ostrich
   - would
-- - there
-  - remain
-  - insoluble
 - - canaries
   - would
   - prove
-- - know
-  - their
-  - ornithology
+- - there
+  - remain
+  - insoluble
 - - ostrich
   - would
   - simply
-- - clear
-  - there
-  - remain
 - - would
   - simply
   - cause
-- - thing
-  - those
-  - who
+- - clear
+  - there
+  - remain
+- - know
+  - their
+  - ornithology
 - - talons
   - thus
   - we
-- - are
-  - reportedly
-  - particularly
-- - our
-  - backs
-  - when
+- - thing
+  - those
+  - who
 - - stupid
   - birds
   - would
 - - we
   - must
   - concede
+- - our
+  - backs
+  - when
+- - are
+  - reportedly
+  - particularly
 - - event
   - we
   - must
-- - sure
-  - ostriches
-  - which
 - - ornithology
   - will
   - know
-- - describes
-  - an
-  - ostrich
-- - an
-  - ostrich
-  - confined
+- - sure
+  - ostriches
+  - which
+- - if
+  - anything
+  - such
+- - two
+  - things
+  - if
 story:
   date: 2011-11-07
   id: 2011-11-07-charging-ostrich-of-fire

@@ -19,16 +19,16 @@ ngrams:
   - pond
 - - jim
   - pond
-  - ps
-- - jim
-  - pond
   - decamped
-- - adviser
-  - jim
-  - pond
 - - huge
   - wicker
   - statue
+- - adviser
+  - jim
+  - pond
+- - jim
+  - pond
+  - ps
 - - nixon's
   - six
   - crises
@@ -53,39 +53,42 @@ ngrams:
 - - old
   - rascal
   - waving
-- - see
-  - july
-  - extending
 - - next
   - year
   - yours
+- - see
+  - july
+  - extending
 - - appointment
   - see
   - july
-- - kindly
-  - sent
-  - us
 - - very
   - earnestly
   - jim
 - - dick
   - let
   - himself
+- - kindly
+  - sent
+  - us
 - - yours
   - very
   - earnestly
-- - our
-  - ornithological
-  - adviser
 - - ho
   - until
   - next
+- - our
+  - ornithological
+  - adviser
 - - our
   - drama
   - team
 - - ways
   - our
   - drama
+- - palindromic
+  - meditation
+  - upon
 - - house
   - lawn
   - here
@@ -95,21 +98,18 @@ ngrams:
 - - until
   - next
   - year
-- - palindromic
-  - meditation
-  - upon
 - - jim
   - has
   - kindly
 - - helicopter
   - just
   - before
-- - has
-  - kindly
-  - sent
 - - let
   - himself
   - down
+- - has
+  - kindly
+  - sent
 story:
   date: 2004-08-09
   id: 2004-08-09-lest-we-forget

@@ -23,30 +23,30 @@ ngrams:
 - - ditch
   - rain
   - falls
-- - bus
-  - stop
-  - detective
 - - passing
   - pig
   - roots
+- - bus
+  - stop
+  - detective
 - - bones
   - detective
   - captain
 - - detective
   - story
   - bones
-- - bird
-  - bones
-  - detective
-- - stop
-  - detective
-  - captain
 - - night
   - vision
   - goggles
 - - seaside
   - detective
   - captain
+- - stop
+  - detective
+  - captain
+- - bird
+  - bones
+  - detective
 - - bird
   - bones
   - against
@@ -80,12 +80,12 @@ ngrams:
 - - has
   - inexplicably
   - vanished
-- - bus
-  - has
-  - inexplicably
 - - sent
   - them
   - packing
+- - bus
+  - has
+  - inexplicably
 - - tally
   - up
   - locations
@@ -119,21 +119,21 @@ ngrams:
 - - inexplicably
   - vanished
   - this
-- - her
-  - team
-  - are
 - - slurps
   - cocoa
   - from
 - - flask
   - confiscated
   - from
-- - spinney
-  - from
-  - underneath
 - - them
   - up
   - back
+- - spinney
+  - from
+  - underneath
+- - her
+  - team
+  - are
 - - bigwigs
   - have
   - sent
@@ -149,11 +149,11 @@ ngrams:
 - - does
   - not
   - immediately
-- - years
-  - old
-  - but
 - - more
   - sausages
+  - but
+- - years
+  - old
   - but
 - - there
   - are
@@ -170,14 +170,20 @@ ngrams:
 - - thumps
   - his
   - fist
-- - his
-  - top
-  - forensics
 - - vision
   - goggles
   - 'on'
 - - who
   - were
+  - there
+- - old
+  - but
+  - 'no'
+- - his
+  - top
+  - forensics
+- - sausages
+  - but
   - there
 - - his
   - fist
@@ -185,27 +191,21 @@ ngrams:
 - - fist
   - against
   - his
-- - trains
-  - his
-  - night
 - - logbook
   - across
   - his
+- - trains
+  - his
+  - night
+- - bones
+  - as
+  - being
+- - as
+  - being
+  - bones
 - - his
   - night
   - vision
-- - upstairs
-  - he
-  - throws
-- - tags
-  - he
-  - returns
-- - old
-  - but
-  - 'no'
-- - dates
-  - he
-  - taps
 story:
   date: 2009-03-03
   id: 2009-03-03-detective-story

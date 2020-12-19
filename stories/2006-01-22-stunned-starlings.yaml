@@ -5,114 +5,114 @@ ngrams:
 - - joe's
   - firing
   - squads
-- - impending
-  - flu
-  - jab
 - - son's
   - worldwide
   - smash
+- - impending
+  - flu
+  - jab
 - - stunned
   - starlings
   - sampled
-- - uncle
-  - joe's
-  - vocals
-- - sampled
-  - uncle
-  - joe's
 - - stunned
   - starlings
   - pockmarked
+- - sampled
+  - uncle
+  - joe's
+- - uncle
+  - joe's
+  - vocals
+- - rex
+  - harrison's
+  - son's
+- - joe
+  - starling
+  - stepped
 - - joe
   - starling
   - startled
 - - joe
-  - starling
-  - stepped
+  - liked
+  - curlews
+- - worldwide
+  - smash
+  - hit
 - - uncle
   - joe's
   - firing
-- - joe
-  - liked
-  - curlews
-- - rex
-  - harrison's
-  - son's
 - - tyrant
   - uncle
   - joe
+- - institute's
+  - somewhat
+  - bedraggled
 - - national
   - poet
   - igor
 - - starlings
   - sampled
   - uncle
-- - worldwide
-  - smash
-  - hit
-- - uncle
-  - joe
-  - starling
-- - uncle
-  - joe
-  - starling
-- - uncle
-  - joe
-  - starling
-- - corpse
-  - uncle
-  - joe
-- - bonkers
-  - evil
-  - tyrant
-- - institute's
-  - somewhat
-  - bedraggled
-- - uncle
-  - joe
-  - liked
 - - smash
   - hit
   - sadly
+- - uncle
+  - joe
+  - starling
+- - uncle
+  - joe
+  - starling
+- - uncle
+  - joe
+  - starling
+- - bonkers
+  - evil
+  - tyrant
 - - actor
   - rex
   - harrison
-- - evil
-  - tyrant
+- - corpse
   - uncle
+  - joe
+- - uncle
+  - joe
+  - liked
 - - lightning
   - utterly
   - obliterated
+- - evil
+  - tyrant
+  - uncle
+- - rex
+  - harrison
+  - rex
 - - korean
   - dance
   - band
 - - harrison
   - research
   - institute
-- - rex
-  - harrison
-  - rex
-- - dance
-  - band
-  - leader
 - - somewhat
   - bedraggled
   - tent
+- - dance
+  - band
+  - leader
+- - ceremonial
+  - picnic
+  - lunch
 - - red
   - pneumatic
   - knob
 - - music
   - download
   - resources
-- - ceremonial
-  - picnic
-  - lunch
-- - band
-  - leader
-  - park
 - - rex
   - harrison
   - research
+- - band
+  - leader
+  - park
 - - online
   - music
   - download
@@ -122,18 +122,15 @@ ngrams:
 - - feckless
   - young
   - peasants
+- - require
+  - further
+  - investigation
 - - young
   - peasant
   - couples
 - - feckless
   - young
   - peasant
-- - require
-  - further
-  - investigation
-- - soup
-  - maker
-  - whose
 - - within
   - seconds
   - creaking
@@ -143,15 +140,18 @@ ngrams:
 - - balcony
   - within
   - seconds
+- - soup
+  - maker
+  - whose
 - - field
   - somewhere
   - near
+- - wives
+  - both
+  - real
 - - cackled
   - together
   - often
-- - churning
-  - black
-  - water
 - - cruel
   - men
   - both
@@ -161,33 +161,33 @@ ngrams:
 - - blue
   - sky
   - above
-- - wives
-  - both
-  - real
+- - churning
+  - black
+  - water
+- - both
+  - important
+  - matters
 - - birds
   - vanished
   - behind
 - - yard
   - rex
   - harrison
-- - both
-  - important
-  - matters
 - - sky
   - again
   - flying
 - - rex
   - harrison
   - see
-- - little
-  - red
-  - pneumatic
-- - most
-  - feckless
-  - young
 - - tape
   - recording
   - years
+- - most
+  - feckless
+  - young
+- - little
+  - red
+  - pneumatic
 - - few
   - teeth
   - left
@@ -206,93 +206,90 @@ ngrams:
 - - mind
   - made
   - famous
-- - man
-  - whose
-  - tunic
-- - crumpled
-  - man
-  - whose
 - - afternoon
   - said
   - uncle
 - - recording
   - years
   - later
+- - man
+  - whose
+  - tunic
 - - many
   - wives
   - both
-- - her
-  - impending
-  - flu
-- - her
-  - beat
-  - combo
+- - crumpled
+  - man
+  - whose
 - - somewhere
   - near
   - where
 - - now
   - listen
   - carefully
-- - hooting
-  - yard
-  - rex
-- - hold
-  - now
-  - listen
 - - again
   - flying
   - back
-- - scene
-  - her
-  - beat
-- - other
-  - online
-  - music
 - - liked
   - curlews
   - more
+- - hold
+  - now
+  - listen
+- - her
+  - impending
+  - flu
+- - hooting
+  - yard
+  - rex
+- - other
+  - online
+  - music
+- - her
+  - beat
+  - combo
+- - scene
+  - her
+  - beat
 - - served
   - him
   - curlew
 - - him
   - uncle
   - joe
-- - him
-  - curlew
-  - soup
 - - apparatchik
   - who
   - served
-- - vanished
-  - behind
-  - some
-- - above
-  - him
-  - uncle
-- - behind
-  - some
-  - trees
+- - him
+  - curlew
+  - soup
 - - where
   - many
   - sinister
+- - vanished
+  - behind
+  - some
 - - volunteer
   - sidles
   - up
+- - behind
+  - some
+  - trees
+- - above
+  - him
+  - uncle
 - - leader
   - park
   - 'no'
-- - who
-  - became
-  - famous
 - - park
   - 'no'
   - lip
 - - near
   - where
   - many
-- - sky
-  - above
-  - him
+- - who
+  - became
+  - famous
 - - their
   - record
   - failed
@@ -302,24 +299,27 @@ ngrams:
 - - their
   - cover
   - version
-- - your
-  - bones
-  - creak
+- - sky
+  - above
+  - him
 - - can
   - however
   - tell
+- - your
+  - bones
+  - creak
 - - sadly
   - however
   - their
-- - however
-  - their
-  - record
 - - cackled
   - when
   - starling
 - - when
   - starling
   - cackled
+- - however
+  - their
+  - record
 story:
   date: 2006-01-22
   id: 2006-01-22-stunned-starlings

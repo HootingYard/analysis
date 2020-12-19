@@ -5,18 +5,18 @@ ngrams:
 - - foiled
   - heist
   - earlier
-- - summon
-  - detective
-  - captain
-- - die
-  - hard
-  - john
 - - bank
   - several
   - chaps
+- - summon
+  - detective
+  - captain
 - - heist
   - earlier
   - today
+- - die
+  - hard
+  - john
 - - rather
   - large
   - sum
@@ -56,24 +56,24 @@ ngrams:
 - - who
   - placed
   - them
-- - which
-  - she
-  - says
-- - do
-  - which
-  - involved
 - - has
   - asked
   - me
+- - do
+  - which
+  - involved
 - - scene
   - from
   - die
-- - fact
-  - which
-  - she
 - - from
   - die
   - hard
+- - which
+  - she
+  - says
+- - shouting
+  - at
+  - everyone
 story:
   date: 2014-01-27
   id: 2014-01-27-foiled-heist

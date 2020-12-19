@@ -5,12 +5,12 @@ ngrams:
 - - peasant's
   - diary
   - bc
-- - muddy
-  - red
-  - rubicon
 - - diary
   - bc
   - woke
+- - muddy
+  - red
+  - rubicon
 - - shallow
   - muddy
   - red
@@ -20,6 +20,9 @@ ngrams:
 - - graceful
   - aspect
   - appeared
+- - o
+  - mighty
+  - caesar
 - - face
   - hail
   - rude
@@ -32,9 +35,6 @@ ngrams:
 - - aspect
   - appeared
   - close
-- - o
-  - mighty
-  - caesar
 - - italy
   - that's
   - right
@@ -59,21 +59,21 @@ ngrams:
 - - enemies
   - call
   - us
-- - exclaimed
-  - let
-  - us
 - - replied
   - cowering
   - even
-- - our
-  - enemies
-  - call
 - - much
   - else
   - happened
 - - hovel
   - nothing
   - much
+- - exclaimed
+  - let
+  - us
+- - our
+  - enemies
+  - call
 - - nothing
   - much
   - else
@@ -83,39 +83,39 @@ ngrams:
 - - let
   - us
   - go
-- - gave
-  - him
-  - pause
 - - italy
   - then
   - took
+- - gave
+  - him
+  - pause
 - - bc
   - woke
   - up
-- - julius
-  - caesar
-  - what
 - - am
   - quite
   - learned
-- - now
-  - bore
-  - down
-- - rubicon
-  - into
-  - italy
+- - julius
+  - caesar
+  - what
 - - bore
   - down
   - upon
+- - now
+  - bore
+  - down
 - - cried
   - what
   - river
-- - were
-  - linnets
-  - starlings
+- - rubicon
+  - into
+  - italy
 - - seemed
   - unsure
   - what
+- - were
+  - linnets
+  - starlings
 - - red
   - rubicon
   - into
@@ -125,15 +125,15 @@ ngrams:
 - - other
   - side
   - upon
+- - cisalpine
+  - gaul
+  - so
 - - legion
   - who
   - now
 - - who
   - now
   - bore
-- - cisalpine
-  - gaul
-  - so
 - - cannot
   - say
   - what
@@ -161,18 +161,18 @@ ngrams:
 - - at
   - dusk
   - alas
-- - also
-  - flocked
-  - from
 - - down
   - upon
   - me
-- - they
-  - were
-  - linnets
 - - upon
   - this
   - caesar
+- - also
+  - flocked
+  - from
+- - sky
+  - at
+  - dusk
 story:
   date: 2013-01-10
   id: 2013-01-10-a-peasants-diary-10-1-49-bc

@@ -2,39 +2,39 @@ ngrams:
 - - senior
   - belfast
   - ira
-- - terrorists
-  - allegedly
-  - facing
 - - moody
   - irish
   - terrorists
 - - irish
   - terrorists
   - allegedly
+- - terrorists
+  - allegedly
+  - facing
 - - bars
   - dingy
   - irish
-- - belfast
-  - ira
-  - figures
 - - republican
   - catholic
   - people's
+- - belfast
+  - ira
+  - figures
 - - intimidating
   - drunks
   - cutting
-- - drunks
-  - cutting
-  - republican
-- - dingy
-  - irish
-  - theme
 - - irish
   - theme
   - pubs
+- - drunks
+  - cutting
+  - republican
 - - catholic
   - people's
   - throats
+- - dingy
+  - irish
+  - theme
 - - ira
   - figures
   - stabbed
@@ -44,33 +44,30 @@ ngrams:
 - - assumed
   - global
   - notoriety
-- - sacred
-  - causes
-  - religion
 - - cutting
   - republican
   - catholic
-- - robert
-  - mccartney
-  - '-'
+- - sacred
+  - causes
+  - religion
 - - occasional
   - minor
   - irish
 - - emerald
   - isle
   - drink
-- - irish
-  - poet
-  - winning
-- - minor
-  - irish
-  - poet
-- - metropolitan
-  - british
-  - media
 - - isle
   - drink
   - plays
+- - metropolitan
+  - british
+  - media
+- - minor
+  - irish
+  - poet
+- - irish
+  - poet
+  - winning
 - - discovered
   - senior
   - belfast
@@ -92,12 +89,15 @@ ngrams:
 - - rebel
   - songs
   - although
-- - realism
-  - departs
-  - once
+- - robert
+  - mccartney
+  - '-'
 - - west
   - end
   - stage
+- - realism
+  - departs
+  - once
 - - evenings
   - these
   - places

@@ -8,30 +8,30 @@ ngrams:
 - - approval
   - sheer
   - idleness
-- - seek
-  - editorial
-  - approval
 - - editorial
   - approval
   - sheer
+- - seek
+  - editorial
+  - approval
+- - valid
+  - emotional
+  - response
+- - valid
+  - emotional
+  - response
 - - worse
   - examples
   - littered
-- - valid
-  - emotional
-  - response
-- - valid
-  - emotional
-  - response
-- - doctor
-  - baxter's
-  - invigorating
 - - interweb
   - doesn't
   - appeal
 - - online
   - literary
   - magazines
+- - doctor
+  - baxter's
+  - invigorating
 - - correct
   - invalid
   - response
@@ -53,24 +53,24 @@ ngrams:
 - - sheer
   - idleness
   - also
-- - examples
-  - littered
-  - around
 - - unusual
   - thought
   - provoking
+- - examples
+  - littered
+  - around
 - - weird
   - unusual
   - thought
 - - while
   - shakily
   - downing
-- - also
-  - encouraged
-  - note
 - - generally
   - feel
   - something
+- - also
+  - encouraged
+  - note
 - - much
   - worse
   - examples
@@ -86,9 +86,6 @@ ngrams:
 - - one's
   - first
   - port
-- - term
-  - our
-  - stories
 - - than
   - vice
   - versa
@@ -98,24 +95,27 @@ ngrams:
 - - response
   - where
   - invalid
-- - plays
-  - its
-  - part
-- - rather
-  - than
-  - vice
+- - term
+  - our
+  - stories
 - - am
   - occasionally
   - cajoled
+- - rather
+  - than
+  - vice
+- - plays
+  - its
+  - part
 - - also
   - plays
   - its
-- - here
-  - one's
-  - first
 - - am
   - happy
   - enough
+- - here
+  - one's
+  - first
 - - 'no'
   - means
   - alone

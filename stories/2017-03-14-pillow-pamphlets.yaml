@@ -8,42 +8,39 @@ ngrams:
 - - quick
   - search
   - confirmed
-- - abandoned
-  - swimming
-  - pool
+- - elderly
+  - peasant
+  - twister
 - - pillow
   - pamphlets
   - updating
 - - taking
   - daytime
   - naps
-- - terrible
-  - personal
-  - habits
-- - elderly
-  - peasant
-  - twister
+- - abandoned
+  - swimming
+  - pool
 - - practical
   - pillow
   - research
+- - terrible
+  - personal
+  - habits
 - - philosopher
   - gone
   - scurrying
 - - badger
   - rescue
   - station
-- - suddenly
-  - felt
-  - intimidated
 - - single
   - manageable
   - subsection
+- - suddenly
+  - felt
+  - intimidated
 - - cart
   - piled
   - high
-- - daytime
-  - naps
-  - during
 - - greaseproof
   - paper
   - jackets
@@ -53,6 +50,9 @@ ngrams:
 - - vast
   - unwieldy
   - subject
+- - daytime
+  - naps
+  - during
 - - yoko
   - ono
   - wrote
@@ -74,9 +74,6 @@ ngrams:
 - - pillow
   - history
   - since
-- - marigold
-  - chew
-  - sitting
 - - johnson
   - himself
   - moonlighting
@@ -86,6 +83,12 @@ ngrams:
 - - advances
   - mankind
   - must
+- - marigold
+  - chew
+  - sitting
+- - elegant
+  - yet
+  - tubercular
 - - cataclysmic
   - world
   - events
@@ -95,9 +98,6 @@ ngrams:
 - - subject
   - matter
   - marigold
-- - elegant
-  - yet
-  - tubercular
 - - dobson's
   - brain
   - contained
@@ -107,42 +107,42 @@ ngrams:
 - - shuttered
   - 'off'
   - licence
+- - many
+  - dreams
+  - dreamt
 - - earnings
   - dobson
   - posited
 - - thespian
   - earnings
   - dobson
-- - licence
-  - dobson
-  - suddenly
 - - announced
   - bustling
   - through
-- - many
-  - dreams
-  - dreamt
-- - pillow
-  - project
-  - dobson
-- - gone
-  - scurrying
-  - 'off'
 - - took
   - another
   - nap
-- - dobson
+- - gone
+  - scurrying
+  - 'off'
+- - licence
+  - dobson
   - suddenly
-  - felt
-- - 'off'
-  - licence
-  - door
 - - barely
   - recall
   - much
+- - pillow
+  - project
+  - dobson
 - - even
   - comas
   - pausing
+- - 'off'
+  - licence
+  - door
+- - dobson
+  - suddenly
+  - felt
 - - 'yes'
   - six
   - years
@@ -152,15 +152,12 @@ ngrams:
 - - mobile
   - library
   - said
-- - thousand
-  - years
-  - ago
-- - asked
-  - 'yes'
-  - dobson
 - - pettifogging
   - digression
   - upon
+- - thousand
+  - years
+  - ago
 - - brain
   - contained
   - many
@@ -170,165 +167,168 @@ ngrams:
 - - too
   - must
   - doubt
-- - said
-  - marigold
-  - chew
-- - said
-  - marigold
-  - chew
+- - asked
+  - 'yes'
+  - dobson
 - - very
   - thing
   - maybe
+- - said
+  - marigold
+  - chew
+- - said
+  - marigold
+  - chew
 - - long
   - long
   - ago
-- - marigold
-  - chew
-  - did
 - - mobile
   - library
   - more
-- - 'off'
-  - licence
-  - dobson
-- - how
-  - many
-  - pillows
+- - marigold
+  - chew
+  - did
 - - never
   - much
   - cop
+- - how
+  - many
+  - pillows
 - - contained
   - many
   - many
-- - many
-  - many
-  - pockets
 - - how
   - many
   - dreams
+- - many
+  - many
+  - pockets
+- - remember
+  - things
+  - might
+- - 'off'
+  - licence
+  - dobson
+- - forgetfulness
+  - preceded
+  - them
 - - how
   - many
   - heads
 - - other
   - birds
   - beginning
-- - forgetfulness
-  - preceded
-  - them
 - - century
   - how
   - many
-- - personal
-  - habits
-  - who
 - - course
   - said
   - marigold
+- - personal
+  - habits
+  - who
 - - habits
   - who
   - bore
-- - remember
-  - things
-  - might
-- - project
-  - dobson
-  - said
-- - library
-  - said
-  - dobson
-- - ditch
-  - said
-  - dobson
 - - 'no'
   - previous
   - inkling
 - - posted
   - here
   - over
-- - dobson
+- - project
+  - dobson
   - said
-  - marigold
-- - never
-  - written
-  - down
+- - library
+  - said
+  - dobson
 - - follow
   - every
   - time
-- - wrote
-  - her
-  - book
+- - ditch
+  - said
+  - dobson
+- - never
+  - written
+  - down
 - - what
   - advances
   - mankind
+- - dobson
+  - said
+  - marigold
 - - any
   - other
   - interlocutor
-- - promised
-  - findings
-  - were
+- - wrote
+  - her
+  - book
 - - given
   - 'no'
   - opportunity
-- - took
-  - him
-  - past
+- - promised
+  - findings
+  - were
 - - opening
   - line
   - about
-- - been
-  - johnson
-  - himself
+- - took
+  - him
+  - past
 - - eventually
   - abandoned
+  - when
+- - first
+  - came
+  - upon
+- - library
+  - more
+  - than
+- - early
+  - s
   - when
 - - morning
   - casting
   - about
-- - first
-  - came
-  - upon
-- - task
-  - before
-  - him
-- - library
-  - more
-  - than
+- - been
+  - johnson
+  - himself
 - - thus
   - given
   - 'no'
-- - early
-  - s
-  - when
 - - halted
   - me
   - i've
-- - book
-  - what
-  - advances
 - - sometimes
   - wonder
   - if
+- - task
+  - before
+  - him
 - - intervening
   - millennium
   - there
+- - book
+  - what
+  - advances
 - - pillow
   - book
   - what
+- - book
+  - about
+  - pillows
+- - book
+  - about
+  - pillows
+- - book
+  - about
+  - pillows
+- - book
+  - about
+  - pillows
 - - about
   - pillows
   - long
-- - book
-  - about
-  - pillows
-- - book
-  - about
-  - pillows
-- - book
-  - about
-  - pillows
-- - book
-  - about
-  - pillows
 - - all
   - pillow
   - books
@@ -344,48 +344,48 @@ ngrams:
 - - world
   - events
   - out
-- - about
-  - dobson
-  - discovering
+- - much
+  - much
+  - more
 - - more
   - than
   - once
 - - time
   - how
   - many
-- - much
-  - much
-  - more
+- - about
+  - dobson
+  - discovering
+- - must
+  - write
+  - out
 - - findings
   - were
   - never
+- - millennium
+  - there
+  - must
 - - line
   - about
   - dobson
 - - mobile
   - library
   - which
-- - must
-  - write
-  - out
-- - write
-  - about
-  - dobson
-- - millennium
-  - there
-  - must
-- - were
-  - never
-  - written
 - - about
   - pillows
   - such
-- - an
-  - equally
-  - elegant
+- - were
+  - never
+  - written
+- - write
+  - about
+  - dobson
 - - one
   - fabulously
   - dreary
+- - an
+  - equally
+  - elegant
 - - boots
   - grabbed
   - an
@@ -401,18 +401,18 @@ ngrams:
 - - writing
   - an
   - opening
+- - breakfast
+  - one
+  - fabulously
 - - moment
   - dobson
   - would
 - - ono
   - wrote
   - an
-- - like
-  - all
-  - pillow
-- - breakfast
-  - one
-  - fabulously
+- - we
+  - too
+  - must
 - - wrote
   - an
   - entire

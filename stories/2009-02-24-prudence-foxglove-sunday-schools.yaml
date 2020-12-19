@@ -8,96 +8,93 @@ ngrams:
 - - stern
   - protestant
   - kidney
-- - steve
-  - bloomer
-  - '-'
 - - appointed
   - tweedy
   - bespectacled
-- - fifth
-  - birthdays
-  - onwards
 - - apt
   - caves
   - kitted
+- - fifth
+  - birthdays
+  - onwards
 - - birthdays
   - onwards
   - learning
 - - elf
   - locks
   - completed
-- - nation's
-  - moral
-  - resurgence
-- - ferocious
-  - passions
-  - prudence
-- - tweedy
-  - bespectacled
-  - types
-- - grandma's
-  - sunday
-  - schools
 - - allowing
   - prudence
   - foxglove
-- - minister
-  - balls
-  - sought
+- - nation's
+  - moral
+  - resurgence
+- - tweedy
+  - bespectacled
+  - types
+- - ferocious
+  - passions
+  - prudence
+- - grandma's
+  - sunday
+  - schools
 - - foxglove
   - sunday
   - schools
+- - minister
+  - balls
+  - sought
 - - government
   - minister
   - balls
 - - moral
   - education
   - hubs
-- - decisive
-  - moral
-  - rectitude
+- - prudence
+  - foxglove
+  - sunday
+- - prudence
+  - foxglove
+  - sunday
 - - education
   - hub
   - scheme
-- - ed
-  - balls
-  - incidentally
 - - identify
   - caves
   - suitable
-- - prudence
-  - foxglove
-  - sunday
-- - prudence
-  - foxglove
-  - sunday
-- - agricultural
-  - waste
-  - materials
-- - passions
-  - prudence
-  - herself
-- - grim
-  - forbidding
-  - rock
 - - fellow
   - manipulating
   - figs
-- - current
-  - government
-  - minister
-- - postage
-  - stamp
-  - scandal
+- - decisive
+  - moral
+  - rectitude
+- - ed
+  - balls
+  - incidentally
+- - passions
+  - prudence
+  - herself
+- - agricultural
+  - waste
+  - materials
 - - tinies
   - allowing
   - prudence
-- - sunday
-  - school
-  - furniture
+- - current
+  - government
+  - minister
+- - grim
+  - forbidding
+  - rock
 - - foxglove
   - sunday
   - school
+- - postage
+  - stamp
+  - scandal
+- - sunday
+  - school
+  - furniture
 - - magnificent
   - obsession
   - remained
@@ -110,45 +107,48 @@ ngrams:
 - - wharf
   - branch
   - line
-- - cadet
-  - loitering
-  - near
-- - curious
-  - postage
-  - stamp
 - - prudence
   - foxglove
   - fell
-- - blind
-  - prudence
-  - swept
 - - prudence
   - herself
   - familiar
+- - cadet
+  - loitering
+  - near
+- - blind
+  - prudence
+  - swept
+- - curious
+  - postage
+  - stamp
 - - postage
   - stamp
   - business
-- - meet
-  - walter
-  - mad
 - - else
   - besides
   - convinced
+- - meet
+  - walter
+  - mad
 - - land
   - prudence
   - foxglove
-- - football
-  - ace
-  - known
+- - steve
+  - bloomer
+  - '-'
+- - pedagogy
+  - conducted
+  - within
+- - pedagogy
+  - conducted
+  - within
 - - walter
   - mad
   - mad
-- - pedagogy
-  - conducted
-  - within
-- - pedagogy
-  - conducted
-  - within
+- - football
+  - ace
+  - known
 - - walter
   - mad
   - seemed
@@ -158,183 +158,171 @@ ngrams:
 - - almost
   - blind
   - prudence
+- - publish
+  - including
+  - several
 - - good
   - cheer
   - albeit
 - - tiny
   - cadet
   - loitering
-- - matted
-  - black
-  - hair
-- - publish
-  - including
-  - several
 - - seismological
   - trauma
   - until
+- - matted
+  - black
+  - hair
 - - foxglove
   - fell
   - under
 - - sunday
   - schools
   - because
+- - balls
+  - incidentally
+  - though
 - - lavish
   - too
   - grandiose
 - - seemed
   - quite
   - oblivious
-- - balls
-  - incidentally
-  - though
-- - warfare
-  - two
-  - generations
-- - submarine
-  - warfare
-  - two
 - - blast
   - brand
   - new
 - - brand
   - new
   - caves
-- - mad
-  - seemed
-  - quite
-- - prudence
-  - swept
-  - away
 - - branch
   - line
   - mr
-- - forbidding
-  - rock
-  - how
+- - mad
+  - seemed
+  - quite
+- - submarine
+  - warfare
+  - two
+- - warfare
+  - two
+  - generations
+- - prudence
+  - swept
+  - away
 - - key
   - clearly
   - does
+- - forbidding
+  - rock
+  - how
 - - grandma
   - saw
   - too
-- - only
-  - grim
-  - forbidding
-- - grandma's
-  - attention
-  - being
 - - much
   - else
   - besides
-- - than
-  - competent
-  - judge
-- - stood
-  - only
-  - grim
+- - grandma's
+  - attention
+  - being
 - - line
   - mr
   - key
 - - mr
   - key
   - clearly
+- - than
+  - competent
+  - judge
+- - only
+  - grim
+  - forbidding
 - - caves
   - where
   - tinies
-- - its
-  - elf
-  - locks
-- - see
-  - himself
-  - acting
+- - stood
+  - only
+  - grim
+- - than
+  - walter
+  - mad
+- - than
+  - walter
+  - mad
 - - too
   - lavish
   - too
-- - rectitude
-  - she
-  - fretted
-- - bloomer
-  - '-'
-  - she
-- - dereliction
-  - she
-  - witnessed
-- - than
-  - walter
-  - mad
-- - than
-  - walter
-  - mad
-- - '-'
-  - she
-  - listed
 - - less
   - than
   - competent
+- - see
+  - himself
+  - acting
+- - its
+  - elf
+  - locks
+- - saw
+  - much
+  - else
+- - moral
+  - resurgence
+  - could
+- - more
+  - alarming
+  - passages
+- - rectitude
+  - she
+  - fretted
+- - dereliction
+  - she
+  - witnessed
+- - other
+  - cave
+  - seem
+- - cave
+  - seem
+  - like
 - - moral
   - dereliction
   - she
 - - moral
   - rectitude
   - she
-- - saw
-  - much
-  - else
-- - her
-  - sunday
-  - schools
 - - project
   - she
   - fired
+- - rather
+  - than
+  - walter
+- - her
+  - sunday
+  - schools
 - - she
   - fired
   - questions
-- - cave
-  - seem
-  - like
-- - moral
-  - resurgence
-  - could
-- - other
-  - cave
-  - seem
-- - more
-  - alarming
-  - passages
+- - some
+  - extent
+  - vindicated
 - - 'true'
   - visionary
   - she
 - - visionary
   - she
   - wrote
-- - she
-  - fretted
-  - however
-- - some
-  - extent
-  - vindicated
-- - rather
-  - than
-  - walter
 - - many
   - many
   - pins
-- - she
-  - arrived
-  - home
-- - reality
-  - she
-  - took
-- - she
-  - thought
-  - usher
-- - schools
-  - because
+- - bloomer
+  - '-'
   - she
 - - new
   - caves
   - where
+- - she
+  - fretted
+  - however
+- - '-'
+  - she
+  - listed
 - - caves
   - kitted
   - them
@@ -344,9 +332,18 @@ ngrams:
 - - every
   - other
   - cave
-- - her
-  - own
-  - version
+- - she
+  - thought
+  - usher
+- - she
+  - arrived
+  - home
+- - reality
+  - she
+  - took
+- - schools
+  - because
+  - she
 - - makes
   - every
   - other
@@ -359,15 +356,12 @@ ngrams:
 - - their
   - meeting
   - convinced
-- - wrote
-  - her
+- - her
   - own
+  - version
 - - them
   - almost
   - blind
-- - she
-  - ever
-  - learned
 - - sunday
   - schools
   - what
@@ -377,33 +371,39 @@ ngrams:
 - - twee
   - drivel
   - about
+- - wrote
+  - her
+  - own
 - - about
   - fluffy
   - animals
-- - now
-  - stood
-  - only
 - - caves
   - where
   - now
+- - she
+  - ever
+  - learned
 - - resurgence
   - could
   - only
-- - where
-  - now
-  - stood
-- - threw
-  - herself
-  - into
-- - trauma
-  - until
-  - 'no'
 - - out
   - apt
   - caves
+- - now
+  - stood
+  - only
 - - sought
   - out
   - apt
+- - balls
+  - sought
+  - out
+- - trauma
+  - until
+  - 'no'
+- - where
+  - now
+  - stood
 story:
   date: 2009-02-24
   id: 2009-02-24-prudence-foxglove-sunday-schools

@@ -2,48 +2,48 @@ ngrams:
 - - nitty
   - albeit
   - silently
-- - staggeringly
-  - insignificant
-  - figure
 - - fat
   - fee
   - demanded
-- - plate
-  - depicting
-  - captain
-- - depicting
-  - captain
-  - nitty
+- - staggeringly
+  - insignificant
+  - figure
 - - almost
   - staggeringly
   - insignificant
+- - depicting
+  - captain
+  - nitty
 - - captain
   - nitty
   - interestingly
-- - loss
-  - regarding
+- - plate
+  - depicting
   - captain
+- - guard
+  - against
+  - befuddlement
 - - captain
   - nitty
   - albeit
 - - duly
   - cooled
   - however
-- - guard
-  - against
-  - befuddlement
+- - loss
+  - regarding
+  - captain
 - - regarding
   - captain
   - nitty
+- - nitty
+  - interestingly
+  - enough
 - - mere
   - figment
   - note
 - - saint
   - veronica
   - used
-- - nitty
-  - interestingly
-  - enough
 - - coolant
   - brain
   - duly
@@ -80,27 +80,27 @@ ngrams:
 - - rex
   - tint
   - never
-- - actual
-  - pots
-  - our
-- - pots
-  - our
-  - brains
-- - never
-  - actually
-  - existed
 - - might
   - refer
   - potted
+- - actual
+  - pots
+  - our
+- - never
+  - actually
+  - existed
+- - pots
+  - our
+  - brains
 - - cows
   - come
   - home
-- - figment
-  - note
-  - those
 - - note
   - those
   - figs
+- - figment
+  - note
+  - those
 - - witter
   - away
   - until
@@ -131,33 +131,39 @@ ngrams:
 - - should
   - tell
   - us
-- - tell
-  - us
-  - something
 - - how
   - much
   - easier
+- - tell
+  - us
+  - something
 - - plate
   - how
   - much
 - - tint
   - never
   - made
-- - depict
-  - him
-  - whether
-- - course
-  - innumerable
-  - other
 - - could
   - simply
   - point
+- - course
+  - innumerable
+  - other
+- - depict
+  - him
+  - whether
+- - might
+  - tell
+  - us
+- - might
+  - tell
+  - us
 - - 'no'
   - potted
   - biography
-- - knowing
-  - who
-  - captain
+- - could
+  - witter
+  - away
 - - captain
   - nitty
   - who
@@ -167,36 +173,33 @@ ngrams:
 - - who
   - captain
   - nitty
+- - knowing
+  - who
+  - captain
 - - pot
   - like
   - say
-- - could
-  - witter
-  - away
-- - might
-  - tell
-  - us
-- - might
-  - tell
-  - us
-- - ask
-  - who
-  - captain
-- - nor
-  - has
-  - anybody
 - - plate
   - then
   - how
 - - do
   - something
   - else
+- - nor
+  - has
+  - anybody
+- - ask
+  - who
+  - captain
 - - anybody
   - how
   - do
 - - befuddled
   - about
   - wood
+- - more
+  - import
+  - such
 - - has
   - ever
   - cared
@@ -209,9 +212,6 @@ ngrams:
 - - nobody
   - has
   - ever
-- - has
-  - ever
-  - wanted
 story:
   date: 2013-02-07
   id: 2013-02-07-who-was-captain-nitty

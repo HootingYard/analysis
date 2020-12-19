@@ -5,15 +5,15 @@ ngrams:
 - - imaginary
   - angels
   - dancing
+- - intractable
+  - german
+  - philosophy
+- - intractable
+  - german
+  - philosophy
 - - lung
   - frostbitten
   - fingers
-- - intractable
-  - german
-  - philosophy
-- - intractable
-  - german
-  - philosophy
 - - needlessly
   - complicate
   - matters
@@ -44,24 +44,24 @@ ngrams:
 - - spend
   - every
   - waking
-- - bedside
-  - table
-  - next
-- - bedside
-  - table
-  - next
 - - needs
   - must
   - spend
+- - bedside
+  - table
+  - next
+- - bedside
+  - table
+  - next
+- - immensely
+  - fat
+  - book
+- - immensely
+  - fat
+  - book
 - - every
   - waking
   - hour
-- - immensely
-  - fat
-  - book
-- - immensely
-  - fat
-  - book
 - - far
   - gone
   - spinning
@@ -80,9 +80,6 @@ ngrams:
 - - must
   - spend
   - every
-- - her
-  - mania
-  - spins
 - - any
   - sense
   - whatsoever
@@ -92,6 +89,9 @@ ngrams:
 - - head
   - close
   - enough
+- - her
+  - mania
+  - spins
 - - round
   - her
   - wits
@@ -101,24 +101,24 @@ ngrams:
 - - pin
   - alongside
   - them
-- - her
-  - wits
-  - long
 - - make
   - any
   - sense
 - - forcing
   - its
   - way
+- - her
+  - wits
+  - long
+- - am
+  - much
+  - exercised
 - - 'no'
   - means
   - clear
 - - really
   - know
   - where
-- - am
-  - much
-  - exercised
 - - time
   - dance
   - upon
@@ -128,15 +128,18 @@ ngrams:
 - - will
   - almost
   - certainly
-- - are
-  - ineffable
-  - mysteries
 - - madness
   - so
   - happy
+- - are
+  - ineffable
+  - mysteries
 - - angels
   - who
   - can
+- - head
+  - will
+  - keep
 - - imagining
   - an
   - imaginary
@@ -152,81 +155,78 @@ ngrams:
 - - an
   - immensely
   - fat
-- - head
-  - will
-  - keep
 - - imagined
   - an
   - egg
 - - wonder
   - which
   - came
-- - buffet
-  - them
-  - about
 - - am
   - sure
   - what
+- - buffet
+  - them
+  - about
 - - example
   - one
   - secret
 - - them
   - about
   - inside
+- - ditch
+  - or
+  - join
+- - counting
+  - angels
+  - but
 - - its
   - way
   - into
+- - complicate
+  - matters
+  - but
+- - angels
+  - but
+  - alas
+- - been
+  - wondering
+  - if
 - - her
   - madness
   - so
 - - which
   - came
   - first
-- - counting
-  - angels
-  - but
-- - complicate
-  - matters
-  - but
-- - been
-  - wondering
-  - if
-- - ditch
-  - or
-  - join
 - - german
   - philosophy
-  - from
-- - angels
-  - but
-  - alas
-- - short
-  - break
   - from
 - - its
   - head
   - will
-- - agricultural
-  - economy
-  - at
-- - certainly
-  - fall
-  - from
 - - nothing
   - but
   - spin
 - - mind
   - alone
   - but
-- - economy
+- - agricultural
+  - economy
   - at
-  - least
-- - be
-  - held
-  - close
+- - short
+  - break
+  - from
+- - certainly
+  - fall
+  - from
 - - does
   - nothing
   - but
+- - be
+  - held
+  - close
+- - be
+  - better
+  - occupied
 story:
   date: 2013-09-08
   id: 2013-09-08-hedger-and-ditcher-revisited

@@ -20,93 +20,93 @@ ngrams:
 - - drop
   - juicy
   - wounded
-- - lower
-  - floors
-  - housed
-- - dainty
-  - china
-  - cups
 - - terrific
   - mezzotints
   - tinted
-- - winter
-  - horrors
-  - vowing
+- - lower
+  - floors
+  - housed
 - - dusty
   - springfield
   - liked
+- - dainty
+  - china
+  - cups
+- - winter
+  - horrors
+  - vowing
 - - killer
   - icicles
   - dangling
 - - tuesday
   - lunchtime
   - incorrigible
-- - wide
-  - awaiting
-  - mama
 - - distinguished
   - publishing
   - company
-- - serial
-  - killer
-  - committing
 - - mezzotints
   - tinted
   - especially
+- - wide
+  - awaiting
+  - mama
+- - serial
+  - killer
+  - committing
+- - seek
+  - commercial
+  - publication
+- - seek
+  - commercial
+  - publication
+- - seek
+  - commercial
+  - publication
 - - serial
   - killer
   - icicles
 - - psychopathic
   - serial
   - killer
-- - seek
-  - commercial
-  - publication
-- - seek
-  - commercial
-  - publication
-- - seek
-  - commercial
-  - publication
-- - terrific
-  - authors
-  - unfortunately
 - - publishing
   - concern
   - based
+- - terrific
+  - authors
+  - unfortunately
 - - planet
   - googie
   - withers
 - - equally
   - terrific
   - authors
-- - beaks
-  - opened
-  - wide
 - - opened
   - wide
   - awaiting
-- - science
-  - fiction
-  - yarn
+- - beaks
+  - opened
+  - wide
 - - spoke
   - barely
   - audible
 - - savage
   - fellow
   - slid
+- - science
+  - fiction
+  - yarn
 - - fellow
   - generously
   - allowed
-- - fiction
-  - yarn
-  - entitled
-- - yarn
-  - entitled
-  - attack
 - - market
   - forces
   - whatever
+- - yarn
+  - entitled
+  - attack
+- - fiction
+  - yarn
+  - entitled
 - - exciting
   - science
   - fiction
@@ -122,63 +122,54 @@ ngrams:
 - - desolate
   - winter's
   - morning
-- - marigold
-  - chew
-  - raised
-- - called
-  - market
-  - forces
-- - large
-  - important
-  - buildings
 - - idea
   - albeit
   - foolish
-- - pamphlets
-  - marigold
+- - large
+  - important
+  - buildings
+- - called
+  - market
+  - forces
+- - marigold
   - chew
+  - raised
 - - curdled
   - life
   - churning
-- - large
-  - important
-  - building
 - - assistance
   - good
   - sir
-- - next
-  - tuesday
-  - lunchtime
-- - barely
-  - audible
-  - words
+- - large
+  - important
+  - building
 - - given
   - due
   - consideration
-- - marigold
+- - barely
+  - audible
+  - words
+- - pamphlets
+  - marigold
   - chew
-  - later
+- - next
+  - tuesday
+  - lunchtime
 - - make
   - snap
   - decisions
-- - revolutionary
-  - new
-  - type
-- - revolutionary
-  - new
-  - type
 - - good
   - idea
   - albeit
-- - scurrying
-  - beetle
-  - dobson
-- - beetle
-  - dobson
-  - stamped
-- - homburg
-  - dobson
-  - crashed
+- - revolutionary
+  - new
+  - type
+- - revolutionary
+  - new
+  - type
+- - marigold
+  - chew
+  - later
 - - print
   - pamphlets
   - until
@@ -188,21 +179,27 @@ ngrams:
 - - usefully
   - pause
   - here
-- - building
-  - hello
-  - dobson
-- - shouting
-  - shouted
-  - dobson
-- - those
-  - terrific
-  - authors
-- - same
-  - space
-  - because
 - - several
   - hours
   - later
+- - those
+  - terrific
+  - authors
+- - might
+  - usefully
+  - pause
+- - scurrying
+  - beetle
+  - dobson
+- - beetle
+  - dobson
+  - stamped
+- - same
+  - space
+  - because
+- - homburg
+  - dobson
+  - crashed
 - - china
   - cups
   - before
@@ -215,222 +212,222 @@ ngrams:
 - - hours
   - later
   - having
-- - might
-  - usefully
-  - pause
+- - building
+  - hello
+  - dobson
+- - shouting
+  - shouted
+  - dobson
 - - distinguished
   - publishers
   - where
+- - those
+  - terrific
+  - books
 - - gullets
   - let
   - us
 - - let
   - us
   - ponder
-- - dobson
-  - went
-  - crashing
-- - those
-  - terrific
-  - books
-- - like
-  - dusty
-  - springfield
-- - let
-  - us
-  - watch
-- - let
-  - us
-  - watch
-- - stopped
-  - speaking
-  - than
 - - space
   - because
   - mr
+- - stopped
+  - speaking
+  - than
+- - let
+  - us
+  - watch
+- - let
+  - us
+  - watch
 - - hamster
   - pound
   - its
+- - like
+  - dusty
+  - springfield
 - - its
   - lower
   - floors
-- - minutes
-  - later
-  - dobson
-- - pound
-  - its
-  - lower
-- - distrait
-  - she
-  - replied
-- - wall
-  - like
-  - dusty
-- - ponder
-  - its
-  - broken
+- - dobson
+  - went
+  - crashing
 - - eternity
   - never
   - came
-- - instead
-  - let
-  - us
+- - pound
+  - its
+  - lower
+- - ponder
+  - its
+  - broken
 - - came
   - crashing
   - through
-- - house
+- - instead
   - let
   - us
-- - said
-  - marigold
-  - chew
+- - wall
+  - like
+  - dusty
+- - lane
+  - just
+  - along
 - - go
   - swanning
   - 'off'
 - - marigold
   - chew
   - over
-- - lane
-  - just
-  - along
-- - later
+- - minutes
+  - later
   - dobson
-  - went
-- - word
-  - distrait
+- - house
+  - let
+  - us
+- - said
+  - marigold
+  - chew
+- - distrait
   - she
+  - replied
 - - know
   - several
   - hours
 - - proposed
   - pamphlet
   - then
-- - dobson
-  - shouted
+- - later
   - dobson
+  - went
 - - need
   - know
   - several
 - - building
   - came
   - such
+- - word
+  - distrait
+  - she
 - - going
   - like
   - mad
-- - poppet
-  - said
-  - dobson
 - - repellent
   - how
   - may
-- - hello
-  - dobson
-  - said
-- - allow
-  - him
-  - beyond
 - - world
   - need
   - know
+- - dobson
+  - shouted
+  - dobson
+- - allow
+  - him
+  - beyond
 - - loomed
   - behind
   - him
+- - poppet
+  - said
+  - dobson
 - - fledglings
   - screech
   - their
-- - us
-  - ponder
-  - its
-- - dobson
+- - hello
+  - dobson
   - said
-  - marigold
 - - screech
   - their
   - beaks
-- - built
-  - their
-  - nests
+- - us
+  - ponder
+  - its
 - - savage
   - 'no'
   - sooner
+- - built
+  - their
+  - nests
 - - their
   - beaks
   - opened
-- - him
-  - quite
-  - plainly
-- - publish
-  - your
-  - birdseed
 - - am
   - instead
   - let
 - - tell
   - them
   - apart
-- - understand
-  - him
+- - him
   - quite
+  - plainly
+- - dobson
+  - said
+  - marigold
+- - publish
+  - your
+  - birdseed
 - - door
   - how
   - did
+- - understand
+  - him
+  - quite
 - - wounded
   - worms
   - into
+- - churning
+  - out
+  - unread
 - - their
   - gullets
   - let
-- - am
-  - dobson
-  - shouted
 - - fellow
   - slid
   - into
 - - slid
   - into
   - view
-- - churning
-  - out
-  - unread
+- - am
+  - dobson
+  - shouted
 - - pamphleteer
   - ejected
   - into
-- - dobson's
-  - pamphlets
-  - were
-- - street
-  - dobson
-  - has
 - - told
   - them
   - something
 - - pained
   - me
   - exceedingly
-- - has
-  - happened
-  - here
-- - audible
-  - words
-  - into
+- - dobson's
+  - pamphlets
+  - were
 - - went
   - crashing
   - out
-- - dobson
+- - audible
+  - words
+  - into
+- - street
+  - dobson
   - has
-  - left
-- - forces
-  - whatever
-  - they
 - - more
   - opportune
   - time
-- - life
-  - churning
-  - out
+- - has
+  - happened
+  - here
+- - forces
+  - whatever
+  - they
 - - somewhere
   - upstairs
   - there
+- - life
+  - churning
+  - out
 - - upstairs
   - there
   - comes
@@ -440,108 +437,96 @@ ngrams:
 - - down
   - their
   - cups
-- - they
-  - both
-  - occupy
-- - upper
-  - floors
-  - which
 - - dobson
-  - crashed
-  - into
+  - has
+  - left
 - - snap
   - decisions
   - so
+- - they
+  - both
+  - occupy
 - - they
   - run
   - both
 - - never
   - drunk
   - out
-- - sign
-  - dobson
-  - will
+- - upper
+  - floors
+  - which
+- - dobson
+  - crashed
+  - into
 - - they
   - both
   - left
-- - which
-  - adventurous
-  - birds
+- - sign
+  - dobson
+  - will
 - - committing
   - an
   - enormity
-- - killer
-  - committing
-  - an
-- - raised
-  - an
-  - eyebrow
-- - sleeve
-  - an
-  - exciting
 - - grandmother
   - so
   - long
-- - below
-  - we
-  - see
+- - raised
+  - an
+  - eyebrow
 - - can
   - tell
   - them
+- - killer
+  - committing
+  - an
+- - which
+  - adventurous
+  - birds
+- - we
+  - might
+  - usefully
+- - below
+  - we
+  - see
 - - one
   - desolate
   - winter's
+- - sleeve
+  - an
+  - exciting
+- - whatever
+  - they
+  - might
 - - an
   - exciting
   - science
 - - 'no'
   - longer
   - him
-- - chew
-  - raised
-  - an
-- - we
-  - might
-  - usefully
 - - this
   - fellow
   - generously
-- - whatever
-  - they
-  - might
-- - towards
-  - me
-  - only
+- - chew
+  - raised
+  - an
 - - so
   - long
   - ago
-- - an
-  - enormity
-  - perhaps
+- - towards
+  - me
+  - only
 - - one
   - occasion
   - however
+- - an
+  - enormity
+  - perhaps
 - - now
   - below
   - we
 - - them
   - apart
   - when
-- - now
-  - through
-  - what
-- - into
-  - their
-  - gullets
-- - worms
-  - into
-  - their
-- - pamphlet
-  - then
-  - they
-- - then
-  - they
-  - told
 - - birdseed
   - or
   - millet
@@ -554,12 +539,27 @@ ngrams:
 - - mama
   - or
   - papa
+- - now
+  - through
+  - what
 - - but
   - illustrious
   - redolent
-- - decisions
-  - about
-  - what
+- - into
+  - their
+  - gullets
+- - potted
+  - but
+  - illustrious
+- - worms
+  - into
+  - their
+- - pamphlet
+  - then
+  - they
+- - then
+  - they
+  - told
 story:
   date: 2014-10-09
   id: 2014-10-09-sirinuntananon-n-bewg

@@ -5,6 +5,9 @@ ngrams:
 - - singer
   - gladys
   - knight
+- - summon
+  - gladys
+  - knight
 - - gently
   - swaying
   - gaps
@@ -29,9 +32,6 @@ ngrams:
 - - squirt
   - chris
   - bringing
-- - summon
-  - gladys
-  - knight
 - - pips
   - papa's
   - ferocious
@@ -41,18 +41,18 @@ ngrams:
 - - papa's
   - ferocious
   - countenance
-- - ferocious
-  - countenance
-  - hid
-- - infancy
-  - wise
-  - papa
 - - windswept
   - desolate
   - expanse
+- - ferocious
+  - countenance
+  - hid
 - - developed
   - fully
   - whereby
+- - infancy
+  - wise
+  - papa
 - - caterwauling
   - papa
   - papa
@@ -71,39 +71,39 @@ ngrams:
 - - unsuspecting
   - children
   - wandering
+- - wet
+  - impacted
+  - sand
+- - wet
+  - impacted
+  - sand
+- - wet
+  - impacted
+  - sand
 - - children
   - sang
   - continually
-- - wet
-  - impacted
-  - sand
-- - wet
-  - impacted
-  - sand
-- - wet
-  - impacted
-  - sand
 - - remained
   - obstinately
   - empty
-- - children
-  - returning
-  - curiously
-- - largest
-  - child
-  - replied
-- - shouted
-  - foolish
-  - tots
-- - vanished
-  - children
-  - returning
 - - awful
   - singing
   - papa
+- - shouted
+  - foolish
+  - tots
+- - largest
+  - child
+  - replied
+- - children
+  - returning
+  - curiously
 - - future
   - pips
   - entered
+- - vanished
+  - children
+  - returning
 - - cotton
   - wool
   - stuffed
@@ -128,57 +128,57 @@ ngrams:
 - - wild
   - windswept
   - desolate
-- - seven
-  - children
-  - sang
 - - papa
   - looked
   - haunted
+- - seven
+  - children
+  - sang
+- - wagons
+  - rumbling
+  - past
+- - wagons
+  - rumbling
+  - past
+- - vast
+  - wild
+  - windswept
+- - vast
+  - wild
+  - windswept
+- - vast
+  - wild
+  - windswept
+- - vast
+  - wild
+  - windswept
+- - vast
+  - wild
+  - windswept
+- - vast
+  - wild
+  - windswept
+- - vast
+  - wild
+  - windswept
 - - bubba
   - papa
   - knew
-- - wagons
-  - rumbling
-  - past
-- - wagons
-  - rumbling
-  - past
-- - vast
-  - wild
-  - windswept
-- - vast
-  - wild
-  - windswept
-- - vast
-  - wild
-  - windswept
-- - vast
-  - wild
-  - windswept
-- - vast
-  - wild
-  - windswept
-- - vast
-  - wild
-  - windswept
-- - vast
-  - wild
-  - windswept
-- - singing
-  - papa
-  - looked
 - - pips
   - asked
   - uncomprehending
+- - singing
+  - papa
+  - looked
 - - rumbled
   - past
   - frightened
-- - asked
-  - uncomprehending
-  - papa
 - - wagon
   - rolled
   - past
+- - asked
+  - uncomprehending
+  - papa
 - - cottage
   - rumpus
   - room
@@ -203,54 +203,48 @@ ngrams:
 - - brief
   - pips
   - asked
+- - safely
+  - escorted
+  - across
+- - rumbling
+  - past
+  - trying
 - - room
   - happily
   - playing
 - - garden
   - fence
   - sometimes
-- - rumbling
-  - past
-  - trying
-- - safely
-  - escorted
-  - across
-- - room
-  - cotton
-  - wool
-- - road
-  - coming
-  - towards
 - - mysterious
   - tinies
   - asked
+- - road
+  - coming
+  - towards
+- - room
+  - cotton
+  - wool
 - - cannot
   - stop
   - singing
 - - tell
   - papa
   - thinking
-- - road
-  - papa
-  - let
-- - fools
-  - get
-  - tired
-- - get
-  - tired
-  - papa
 - - papa
   - came
   - charging
-- - children
-  - tiny
-  - tots
+- - fools
+  - get
+  - tired
+- - road
+  - papa
+  - let
+- - get
+  - tired
+  - papa
 - - past
   - trying
   - somehow
-- - tiny
-  - tots
-  - seven
 - - cottage
   - gibbering
   - until
@@ -260,35 +254,44 @@ ngrams:
 - - entire
   - days
   - gazing
+- - tiny
+  - tots
+  - seven
+- - children
+  - tiny
+  - tots
+- - yet
+  - developed
+  - fully
 - - last
   - wagon
   - rolled
 - - door
   - asked
   - papa
-- - yet
-  - developed
-  - fully
 - - spent
   - entire
   - days
-- - took
-  - bubba's
-  - story
 - - until
   - papa
   - gave
-- - little
-  - squirt
-  - chris
 - - something
   - extraordinary
   - happened
+- - took
+  - bubba's
+  - story
 - - too
   - careful
   - carry
+- - little
+  - squirt
+  - chris
 - - gladys
   - knight
+  - never
+- - desolate
+  - expanse
   - never
 - - helps
   - these
@@ -308,9 +311,6 @@ ngrams:
 - - through
   - gently
   - swaying
-- - desolate
-  - expanse
-  - never
 - - wagon
   - after
   - wagon
@@ -323,30 +323,27 @@ ngrams:
 - - wagon
   - after
   - wagon
-- - these
-  - mysterious
-  - children
-- - lady
-  - gets
-  - here
-- - children
-  - through
-  - gently
-- - papa
-  - knew
-  - little
-- - tots
-  - said
-  - bubba
 - - might
   - accompany
   - gladys
+- - lady
+  - gets
+  - here
+- - these
+  - mysterious
+  - children
+- - children
+  - through
+  - gently
+- - tots
+  - said
+  - bubba
 - - after
   - wagon
   - passed
-- - our
-  - soup
-  - tonight
+- - papa
+  - knew
+  - little
 - - lollipop
   - lady
   - said
@@ -356,6 +353,12 @@ ngrams:
 - - lady
   - said
   - papa
+- - our
+  - soup
+  - tonight
+- - beyond
+  - words
+  - though
 - - papa
   - never
   - asked
@@ -368,27 +371,24 @@ ngrams:
 - - otherwise
   - our
   - soup
-- - beyond
-  - words
-  - though
 - - old
   - something
   - extraordinary
-- - her
-  - pips
-  - papa's
-- - days
-  - gazing
-  - through
-- - night
-  - every
-  - night
-- - day
-  - become
-  - pips
 - - knight
   - never
   - came
+- - days
+  - gazing
+  - through
+- - day
+  - become
+  - pips
+- - night
+  - every
+  - night
+- - her
+  - pips
+  - papa's
 - - its
   - vast
   - wild
@@ -401,69 +401,69 @@ ngrams:
 - - think
   - these
   - children
-- - our
-  - little
-  - hearts
 - - us
   - ever
   - got
+- - our
+  - little
+  - hearts
+- - after
+  - wagon
+  - after
+- - after
+  - wagon
+  - after
 - - sing
   - our
   - little
-- - after
-  - wagon
-  - after
-- - after
-  - wagon
-  - after
-- - truth
-  - has
-  - dawned
-- - foolish
-  - tots
-  - who
 - - could
   - fools
   - get
+- - foolish
+  - tots
+  - who
+- - truth
+  - has
+  - dawned
 - - horrible
   - truth
   - has
-- - psychiatrist
-  - has
-  - asked
 - - chris
   - bringing
   - up
 - - years
   - old
   - something
-- - been
-  - safely
-  - escorted
-- - tots
-  - who
-  - cannot
 - - them
   - getting
   - lost
-- - who
+- - psychiatrist
+  - has
+  - asked
+- - tots
+  - who
   - cannot
-  - stop
+- - been
+  - safely
+  - escorted
 - - how
   - could
   - fools
+- - who
+  - cannot
+  - stop
 - - said
   - papa
   - now
-- - were
-  - countless
-  - tales
 - - less
   - about
   - motown
-- - gladys
-  - knight
-  - will
+- - wagon
+  - when
+  - eventually
+- - were
+  - countless
+  - tales
 story:
   date: 2018-02-15
   id: 2018-02-15-children-on-a-country-road

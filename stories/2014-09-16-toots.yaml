@@ -2,12 +2,12 @@ ngrams:
 - - wartime
   - aeroplane
   - pilots
-- - daredevil
-  - wartime
-  - aeroplane
 - - toots
   - toots
   - clattered
+- - daredevil
+  - wartime
+  - aeroplane
 - - marbles
   - toots
   - you'll
@@ -23,12 +23,12 @@ ngrams:
 - - counter
   - sore
   - perplexed
-- - delivering
-  - sundry
-  - items
 - - exaggeratedly
   - precise
   - movements
+- - delivering
+  - sundry
+  - items
 - - dogs
   - bloodhounds
   - tracking
@@ -43,40 +43,31 @@ ngrams:
   - incident
 - - postal
   - service
-  - thrown
-- - postage
-  - stamp
-  - plopped
+  - engaged
 - - postal
   - service
-  - engaged
-- - gaunt
-  - iron
-  - gates
+  - thrown
 - - communist
   - party
   - rally
+- - postage
+  - stamp
+  - plopped
 - - office
   - counter
   - sore
-- - office
-  - dogs
-  - bloodhounds
+- - gaunt
+  - iron
+  - gates
 - - lengthy
   - communist
   - party
+- - office
+  - dogs
+  - bloodhounds
 - - land
   - vans
   - scouring
-- - house
-  - toots
-  - slumped
-- - whose
-  - sore
-  - perplexity
-- - toots
-  - whose
-  - sore
 - - post
   - office
   - runners
@@ -86,33 +77,39 @@ ngrams:
 - - post
   - office
   - woebegone
-- - single
-  - postage
-  - stamp
-- - tucked
-  - almost
-  - imperceptibly
+- - whose
+  - sore
+  - perplexity
+- - toots
+  - whose
+  - sore
+- - house
+  - toots
+  - slumped
 - - post
   - office
   - counter
+- - tucked
+  - almost
+  - imperceptibly
+- - single
+  - postage
+  - stamp
 - - service
   - thrown
   - behind
-- - assistance
-  - toots
-  - went
 - - post
   - office
   - dogs
+- - assistance
+  - toots
+  - went
 - - aeroplane
   - pilots
   - across
 - - different
   - deeper
   - pocket
-- - big
-  - house
-  - toots
 - - iron
   - key
   - inserted
@@ -125,32 +122,41 @@ ngrams:
 - - gloomy
   - corridor
   - until
+- - big
+  - house
+  - toots
 - - persons
   - among
   - whom
-- - huge
-  - iron
-  - key
 - - post
   - offices
   - across
+- - huge
+  - iron
+  - key
 - - door
   - tucked
   - almost
-- - too
-  - close
-  - proximity
 - - several
   - persons
   - among
+- - too
+  - close
+  - proximity
 - - big
   - house
   - along
 - - know
   - notices
   - slapped
+- - fairy
+  - grotto
+  - over
 - - tracking
   - said
+  - toots
+- - any
+  - assistance
   - toots
 - - perplexed
   - said
@@ -158,12 +164,6 @@ ngrams:
 - - sore
   - perplexed
   - said
-- - fairy
-  - grotto
-  - over
-- - any
-  - assistance
-  - toots
 - - etched
   - deeper
   - than
@@ -176,33 +176,33 @@ ngrams:
 - - said
   - toots
   - whose
-- - scrub
-  - she
-  - announced
-- - scullery
-  - she
-  - heard
 - - am
   - sore
   - perplexed
+- - scrub
+  - she
+  - announced
 - - track
   - down
   - something
 - - scullery
   - she
-  - took
-- - down
-  - something
-  - lost
-- - door
-  - behind
-  - her
-- - corridor
-  - until
-  - she
+  - heard
 - - deeper
   - than
   - ever
+- - down
+  - something
+  - lost
+- - scullery
+  - she
+  - took
+- - queue
+  - behind
+  - him
+- - corridor
+  - until
+  - she
 story:
   date: 2014-09-16
   id: 2014-09-16-toots

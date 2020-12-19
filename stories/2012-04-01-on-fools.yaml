@@ -1,100 +1,100 @@
 ngrams:
-- - debbie
-  - reynolds
-  - ali
 - - wallace
   - lon
   - chaney
+- - debbie
+  - reynolds
+  - ali
 - - lon
   - chaney
   - senior
 - - annie
   - nightingale
   - ronnie
+- - chaney
+  - senior
+  - wallace
 - - susan
   - boyle
   - philip
 - - edgar
   - wallace
   - lon
-- - chaney
-  - senior
-  - wallace
-- - otto
-  - von
-  - bismarck
 - - enraged
   - retired
   - colonel
+- - otto
+  - von
+  - bismarck
+- - hopeless
+  - despair
+  - munching
+- - broadcasts
+  - fools
+  - jelly
 - - japan
   - william
   - harvey
+- - argentinian
+  - public
+  - baths
 - - envelope
   - scribbled
   - cicely
 - - foolishness
   - yours
   - sincerely
-- - hopeless
-  - despair
-  - munching
-- - argentinian
-  - public
-  - baths
-- - broadcasts
-  - fools
-  - jelly
 - - anecdotes
   - regarding
   - acts
-- - despair
-  - munching
-  - cake
 - - utter
   - foolishness
   - yours
 - - radio
   - broadcaster
   - gilbert
+- - despair
+  - munching
+  - cake
 - - radio
   - broadcasts
   - fools
 - - nightingale
   - ronnie
   - lane
-- - william
-  - harvey
-  - john
-- - feel
-  - duty
-  - bound
 - - fool
   - research
   - risked
 - - conducting
   - fool
   - research
+- - feel
+  - duty
+  - bound
 - - ronnie
   - lane
   - david
+- - william
+  - harvey
+  - john
 - - fool
   - please
   - reply
-- - jelly
-  - water
-  - slipped
 - - almost
   - pleasant
   - conversation
 - - pamphlet
   - putatively
   - entitled
-- - fools
-  - jelly
+- - jelly
   - water
+  - slipped
 - - wrote
   - identical
   - letters
+- - fools
+  - jelly
+  - water
 - - capacious
   - pamphleteering
   - brain
@@ -107,12 +107,12 @@ ngrams:
 - - wednesday
   - morning
   - shortly
-- - foolishness
-  - rummaging
-  - around
 - - wet
   - wednesday
   - morning
+- - foolishness
+  - rummaging
+  - around
 - - wet
   - thursday
   - morning
@@ -128,54 +128,54 @@ ngrams:
 - - away
   - dear
   - cicely
-- - yours
-  - sincerely
-  - dobson
 - - scribbling
   - away
   - dear
-- - theory
-  - dobson
-  - embarked
 - - cried
   - how
   - dare
 - - last
   - known
   - address
-- - sick
-  - man
-  - allow
 - - shortly
   - after
   - shoving
+- - yours
+  - sincerely
+  - dobson
+- - theory
+  - dobson
+  - embarked
 - - took
   - great
   - pains
-- - tea
-  - dobson
-  - offered
-- - only
-  - recently
-  - recovered
-- - track
-  - down
-  - anecdotes
 - - living
   - recipients
   - might
-- - conducting
-  - any
-  - research
+- - sick
+  - man
+  - allow
 - - might
   - feel
   - duty
-- - get
-  - another
-  - word
+- - tea
+  - dobson
+  - offered
+- - track
+  - down
+  - anecdotes
+- - conducting
+  - any
+  - research
+- - only
+  - recently
+  - recovered
 - - foolishness
   - its
   - subtitle
+- - get
+  - another
+  - word
 - - its
   - subtitle
   - gives
@@ -197,12 +197,12 @@ ngrams:
 - - might
   - take
   - exception
-- - see
-  - replied
-  - dobson
 - - then
   - wrote
   - identical
+- - see
+  - replied
+  - dobson
 - - dobson
   - took
   - great
@@ -233,60 +233,60 @@ ngrams:
 - - could
   - only
   - gaze
-- - dobson
-  - offered
-  - him
 - - got
   - 'no'
   - further
-- - see
-  - said
-  - dobson
-- - destroyed
-  - all
-  - records
 - - sat
   - gazing
   - out
+- - destroyed
+  - all
+  - records
+- - dobson
+  - offered
+  - him
+- - see
+  - said
+  - dobson
 - - word
   - out
   - jack
 - - correspondents
   - were
   - still
-- - were
-  - still
-  - alive
-- - take
-  - into
-  - account
 - - penurious
   - scribbler
   - so
-- - these
-  - letters
+- - take
   - into
+  - account
+- - were
+  - still
+  - alive
 - - another
   - word
   - out
-- - feet
-  - back
+- - these
+  - letters
   - into
 - - 'no'
   - further
   - than
-- - shoving
-  - all
-  - these
-- - can
-  - see
-  - said
 - - anecdotes
   - would
   - come
+- - feet
+  - back
+  - into
 - - project
   - so
   - soon
+- - can
+  - see
+  - said
+- - shoving
+  - all
+  - these
 - - only
   - gaze
   - out
@@ -296,21 +296,21 @@ ngrams:
 - - after
   - shoving
   - all
-- - very
-  - man
-  - who
 - - man
   - allow
   - me
-- - life
-  - which
-  - demonstrate
 - - an
   - enraged
   - retired
+- - very
+  - man
+  - who
 - - an
   - envelope
   - scribbled
+- - life
+  - which
+  - demonstrate
 - - all
   - fools
   - day
@@ -320,9 +320,6 @@ ngrams:
 - - munching
   - cake
   - one
-- - spent
-  - an
-  - hour
 - - stuffed
   - this
   - missive
@@ -332,6 +329,9 @@ ngrams:
 - - one
   - wet
   - thursday
+- - spent
+  - an
+  - hour
 - - so
   - much
   - evidence
@@ -341,12 +341,12 @@ ngrams:
 - - allow
   - me
   - time
-- - fools
-  - day
-  - are
-- - day
-  - are
-  - fools
+- - incidents
+  - or
+  - episodes
+- - dilemma
+  - sooner
+  - or
 story:
   date: 2012-04-01
   id: 2012-04-01-on-fools

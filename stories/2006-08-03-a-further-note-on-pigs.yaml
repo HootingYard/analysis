@@ -1,25 +1,25 @@
 ngrams:
-- - frantically
-  - typed
-  - missive
 - - embedding
   - robust
   - initiatives
-- - futuristic
-  - ray
-  - gun
-- - futuristic
-  - ray
-  - gun
-- - futuristic
-  - ray
-  - gun
+- - frantically
+  - typed
+  - missive
 - - graphic
   - directional
   - pointing
 - - directional
   - pointing
   - emblem
+- - futuristic
+  - ray
+  - gun
+- - futuristic
+  - ray
+  - gun
+- - futuristic
+  - ray
+  - gun
 - - pointing
   - emblem
   - regrettable
@@ -41,42 +41,48 @@ ngrams:
 - - coding
   - system
   - plain
-- - christ
-  - ruth
-  - pastry
 - - toffee
   - apple
   - shouted
-- - pneumatic
-  - power
-  - tower
 - - golden
   - blazer
   - buttons
+- - pneumatic
+  - power
+  - tower
 - - toffee
   - apple
   - struck
-- - bleak
-  - winter
-  - sun
+- - christ
+  - ruth
+  - pastry
 - - gleaming
   - golden
   - buttons
 - - someone's
   - fancy
   - fictional
-- - winter
-  - sun
-  - rose
 - - sun
   - rose
   - higher
-- - correspondent
-  - dr
-  - ruth
+- - bleak
+  - winter
+  - sun
+- - winter
+  - sun
+  - rose
 - - bold
   - green
   - type
+- - correspondent
+  - dr
+  - ruth
+- - pale
+  - blue
+  - dot
+- - mere
+  - fictional
+  - pretend
 - - pastry
   - dr
   - entertaining
@@ -86,105 +92,96 @@ ngrams:
 - - ruth
   - pastry
   - dr
-- - pale
-  - blue
-  - dot
-- - mere
-  - fictional
-  - pretend
 - - real
   - living
   - breathing
-- - fancy
-  - fictional
-  - pigs
 - - pig
   - sty
   - twice
-- - carl
-  - sagan
-  - called
-- - big
-  - unexplained
-  - building
+- - fancy
+  - fictional
+  - pigs
 - - need
   - explicit
   - guidance
-- - living
-  - breathing
-  - pig
 - - pig
   - sty
   - alas
+- - carl
+  - sagan
+  - called
+- - living
+  - breathing
+  - pig
+- - big
+  - unexplained
+  - building
+- - education
+  - hubs
+  - rather
+- - fictional
+  - pretend
+  - pig
 - - system
   - plain
   - black
 - - plain
   - black
   - text
-- - fictional
-  - pretend
-  - pig
 - - another
   - frantically
   - typed
-- - education
-  - hubs
-  - rather
 - - continue
   - trudging
   - across
-- - cap
-  - set
-  - straight
-- - must
-  - trudge
-  - onward
-- - golden
-  - buttons
-  - nor
-- - emblem
-  - regrettable
-  - though
-- - badgers
-  - both
-  - real
-- - badgers
-  - both
-  - real
-- - pig
-  - known
-  - throughout
 - - concerned
   - o
   - key
+- - emblem
+  - regrettable
+  - though
+- - cap
+  - set
+  - straight
+- - golden
+  - buttons
+  - nor
+- - badgers
+  - both
+  - real
+- - badgers
+  - both
+  - real
+- - must
+  - trudge
+  - onward
 - - fictional
   - pigs
   - need
-- - still
-  - lying
-  - unread
+- - pig
+  - known
+  - throughout
 - - goes
   - without
   - saying
+- - still
+  - lying
+  - unread
 - - too
   - busy
   - rolling
-- - does
-  - sometimes
-  - seem
 - - dr
   - entertaining
   - though
-- - inspector
-  - dobson
-  - eyed
+- - does
+  - sometimes
+  - seem
+- - pointy
+  - cap
+  - set
 - - challenge
   - champion
   - these
-- - yard
-  - correspondent
-  - dr
 - - fictional
   - still
   - lying
@@ -194,39 +191,45 @@ ngrams:
 - - feed
   - these
   - fallen
-- - pointy
-  - cap
-  - set
 - - fictional
   - pig
   - rather
+- - yard
+  - correspondent
+  - dr
+- - inspector
+  - dobson
+  - eyed
 - - these
   - parts
   - empty
 - - learn
   - nothing
   - because
-- - made
-  - passing
-  - mention
 - - yet
   - another
   - frantically
+- - made
+  - passing
+  - mention
 - - made
   - important
   - decisions
 - - distant
   - lands
   - where
-- - dobson
-  - trudged
-  - across
 - - far
   - too
   - busy
 - - lands
   - where
   - important
+- - dobson
+  - trudged
+  - across
+- - way
+  - armed
+  - once
 - - hooting
   - yard
   - correspondent
@@ -236,12 +239,6 @@ ngrams:
 - - fictional
   - like
   - popsy
-- - way
-  - armed
-  - once
-- - advice
-  - unlike
-  - her
 - - important
   - people
   - made
@@ -257,54 +254,57 @@ ngrams:
 - - find
   - those
   - pamphlets
-- - many
-  - many
-  - subjects
-- - pig
-  - sty
-  - then
 - - though
   - such
   - rants
+- - advice
+  - unlike
+  - her
 - - entertaining
   - though
   - such
-- - where
-  - important
-  - people
-- - ignored
-  - until
-  - now
-- - key
-  - she
-  - writes
+- - pig
+  - sty
+  - then
+- - many
+  - many
+  - subjects
 - - am
   - gone
   - eat
-- - blinkered
-  - nitwits
-  - who
 - - set
   - straight
   - upon
+- - where
+  - important
+  - people
 - - can
   - barely
   - imagine
-- - covet
-  - them
-  - mark
 - - pig
   - rather
   - than
+- - ignored
+  - until
+  - now
+- - blinkered
+  - nitwits
+  - who
+- - covet
+  - them
+  - mark
+- - key
+  - she
+  - writes
 - - o
   - key
   - she
-- - 'no'
-  - feeding
-  - inspector
 - - buttons
   - nor
   - do
+- - 'no'
+  - feeding
+  - inspector
 - - away
   - far
   - away
@@ -314,6 +314,12 @@ ngrams:
 - - armed
   - once
   - more
+- - such
+  - rants
+  - may
+- - 'no'
+  - mere
+  - fictional
 - - your
   - sprained
   - ankle
@@ -324,20 +330,23 @@ ngrams:
   - some
   - kind
 - - 'no'
-  - mere
-  - fictional
-- - such
-  - rants
-  - may
+  - pointy
+  - cap
+- - need
+  - 'no'
+  - feeding
 - - your
   - pockets
   - stuffed
 - - your
-  - superiors
-  - works
-- - your
   - position
   - sprawled
+- - your
+  - superiors
+  - works
+- - what
+  - you're
+  - talking
 - - your
   - future
   - readership
@@ -347,33 +356,18 @@ ngrams:
 - - parts
   - empty
   - your
-- - need
-  - 'no'
-  - feeding
-- - what
-  - you're
-  - talking
-- - 'no'
-  - pointy
-  - cap
 - - ray
   - gun
   - into
+- - makeshift
+  - stretcher
+  - out
 - - pigs
   - need
   - 'no'
 - - you're
   - talking
   - about
-- - makeshift
-  - stretcher
-  - out
-- - dobson
-  - eyed
-  - him
-- - people
-  - remember
-  - who
 - - sty
   - alas
   - when
@@ -383,114 +377,120 @@ ngrams:
 - - absolutely
   - clear
   - what
-- - your
-  - pointy
-  - cap
-- - important
-  - decisions
-  - about
 - - mark
   - them
   - well
+- - important
+  - decisions
+  - about
+- - people
+  - remember
+  - who
 - - about
   - real
   - pigs
-- - carry
-  - them
-  - away
-- - been
-  - ignored
-  - until
-- - until
-  - your
-  - sprained
+- - your
+  - pointy
+  - cap
 - - other
   - creatures
   - upon
+- - carry
+  - them
+  - away
+- - pig
+  - when
+  - popsy
 - - future
   - readership
   - will
 - - dobson
-  - who
-  - fed
-- - pig
-  - when
-  - popsy
-- - your
-  - superiors
-  - must
+  - eyed
+  - him
+- - been
+  - ignored
+  - until
 - - will
   - live
   - forever
+- - until
+  - your
+  - sprained
 - - caused
   - me
   - anguish
-- - soup
-  - until
-  - your
 - - idea
   - about
   - real
+- - your
+  - superiors
+  - must
+- - dobson
+  - who
+  - fed
 - - will
   - need
   - explicit
 - - readership
   - will
   - need
-- - remember
-  - who
-  - see
-- - your
-  - words
-  - readers
-- - ditch
-  - get
-  - into
+- - soup
+  - until
+  - your
 - - anyone
   - would
   - confuse
-- - your
-  - pockets
-  - dobson
 - - make
   - plain
   - what
+- - remember
+  - who
+  - see
+- - ditch
+  - get
+  - into
+- - your
+  - words
+  - readers
+- - them
+  - away
+  - far
 - - your
   - way
   - armed
 - - could
   - reduce
   - him
-- - them
-  - away
-  - far
 - - name
   - will
   - live
 - - educational
   - standards
   - are
-- - standards
-  - are
-  - falling
+- - your
+  - pockets
+  - dobson
 - - who
   - could
   - reduce
-- - are
-  - profoundly
-  - ignorant
+- - upon
+  - their
+  - bellies
+- - creep
+  - upon
+  - their
 - - they
   - learn
   - nothing
-- - pamphlets
-  - which
-  - addressed
-- - are
+- - standards
+  - are
   - falling
-  - apart
-- - when
-  - dobson
-  - returned
+- - are
+  - profoundly
+  - ignorant
+- - field
+  - so
+  - reluctantly
 story:
   date: 2006-08-03
   id: 2006-08-03-a-further-note-on-pigs

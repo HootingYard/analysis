@@ -5,33 +5,33 @@ ngrams:
 - - bulk
   - frag
   - mint
-- - foo
-  - ack
-  - ret
 - - fret
   - sip
   - pipi
 - - hod
   - bulk
   - frag
+- - foo
+  - ack
+  - ret
 - - lop
   - fret
   - sip
 - - tog
   - hoo
   - flap
-- - hoo
-  - flap
-  - toggle
-- - hag
-  - ack
-  - ack
-- - nip
-  - pap
-  - lop
 - - spun
   - dig
   - hod
+- - hoo
+  - flap
+  - toggle
+- - nip
+  - pap
+  - lop
+- - hag
+  - ack
+  - ack
 story:
   date: 2013-10-13
   id: 2013-10-13-bewildering

@@ -5,27 +5,27 @@ ngrams:
 - - gore
   - magnus
   - moves
-- - shawl
-  - tungsten
-  - manufacture
 - - applied
   - subtle
   - dyes
+- - shawl
+  - tungsten
+  - manufacture
 - - manufacture
   - continues
   - apace
-- - woodland
-  - stunned
-  - unconscious
 - - tungsten
   - manufacture
   - continues
-- - drained
-  - paddling
-  - pool
+- - woodland
+  - stunned
+  - unconscious
 - - electrical
   - wiring
   - systems
+- - drained
+  - paddling
+  - pool
 - - taller
   - buildings
   - electrical
@@ -50,12 +50,12 @@ ngrams:
 - - marine
   - biology
   - neither
-- - whole
-  - clove
-  - encased
 - - goats
   - run
   - amok
+- - whole
+  - clove
+  - encased
 - - lunchtime
   - rain
   - clouds
@@ -68,12 +68,12 @@ ngrams:
 - - cold
   - alien
   - eye
-- - brew
-  - across
-  - parks
 - - vantage
   - point
   - sees
+- - brew
+  - across
+  - parks
 - - flippers
   - nor
   - fins
@@ -83,12 +83,12 @@ ngrams:
 - - omelette
   - without
   - breaking
-- - pod
-  - slung
-  - around
 - - arms
   - nor
   - flippers
+- - pod
+  - slung
+  - around
 - - high
   - vantage
   - point
@@ -98,15 +98,15 @@ ngrams:
 - - demersal
   - being
   - opens
-- - old
-  - red
-  - shawl
 - - nor
   - fins
   - nor
 - - nor
   - flippers
   - nor
+- - old
+  - red
+  - shawl
 - - people
   - don't
   - need
@@ -116,48 +116,45 @@ ngrams:
 - - west
   - before
   - lunchtime
-- - before
-  - lunchtime
-  - rain
 - - even
   - applied
   - subtle
-- - good
-  - old
-  - mama
-- - good
-  - old
-  - mama
+- - before
+  - lunchtime
+  - rain
 - - such
   - blob
   - clung
-- - beacon
-  - status
-  - now
-- - blob
-  - clung
-  - like
-- - born
-  - here
-  - today
+- - good
+  - old
+  - mama
+- - good
+  - old
+  - mama
 - - breaking
   - any
   - eggs
-- - snapped
-  - 'off'
-  - long
+- - beacon
+  - status
+  - now
+- - born
+  - here
+  - today
+- - blob
+  - clung
+  - like
 - - lie
   - scattered
   - upon
+- - snapped
+  - 'off'
+  - long
 - - moved
   - towards
   - where
 - - its
   - high
   - vantage
-- - fields
-  - her
-  - arms
 - - fins
   - nor
   - even
@@ -176,27 +173,30 @@ ngrams:
 - - checking
   - some
   - paperwork
-- - 'off'
-  - long
-  - ago
-- - lawns
-  - shows
-  - him
+- - fields
+  - her
+  - arms
 - - many
   - many
   - goats
+- - 'off'
+  - long
+  - ago
 - - sea
   - towards
   - where
-- - lanyard
-  - behind
+- - lawns
+  - shows
   - him
-- - use
-  - now
-  - both
 - - 'no'
   - demersal
   - blobs
+- - use
+  - now
+  - both
+- - lanyard
+  - behind
+  - him
 story:
   date: 2009-05-01
   id: 2009-05-01-before-lunchtime

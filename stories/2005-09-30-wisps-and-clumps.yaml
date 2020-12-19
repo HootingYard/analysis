@@ -8,36 +8,36 @@ ngrams:
 - - helpless
   - helpless
   - helpless
+- - catholic
+  - martyr
+  - guy
 - - countless
   - fumes
   - gaseous
 - - roman
   - catholic
   - martyr
-- - catholic
-  - martyr
-  - guy
-- - squashed
-  - underfoot
-  - crushed
 - - guy
   - fawkes
   - engulfed
+- - squashed
+  - underfoot
+  - crushed
 - - smoke
   - inhalation
   - wear
 - - underfoot
   - crushed
   - beneath
+- - david
+  - crosby's
+  - moustache
 - - poet
   - william
   - blake
 - - visionary
   - poet
   - william
-- - david
-  - crosby's
-  - moustache
 - - stills
   - nash
   - young
@@ -47,12 +47,12 @@ ngrams:
 - - choking
   - helplessly
   - remember
-- - stinging
-  - eyes
-  - chances
 - - king
   - james
   - bible
+- - stinging
+  - eyes
+  - chances
 - - wisps
   - nor
   - clumps
@@ -62,36 +62,36 @@ ngrams:
 - - blazed
   - having
   - arrived
-- - called
-  - clods
-  - particularly
 - - reading
   - don't
   - bother
-- - nearby
-  - ditch
-  - let
 - - neither
   - wisps
   - nor
+- - called
+  - clods
+  - particularly
+- - nearby
+  - ditch
+  - let
 - - often
   - called
   - clods
 - - substances
   - take
   - longer
-- - characteristics
-  - these
-  - wisps
 - - brings
   - us
   - neatly
-- - inhalation
-  - wear
-  - 'off'
+- - characteristics
+  - these
+  - wisps
 - - further
   - reading
   - don't
+- - inhalation
+  - wear
+  - 'off'
 - - sing
   - long
   - ago
@@ -104,45 +104,45 @@ ngrams:
 - - having
   - arrived
   - far
-- - next
-  - few
-  - minutes
 - - still
   - blazing
   - perhaps
+- - next
+  - few
+  - minutes
 - - placed
   - any
   - noxious
-- - let
-  - us
-  - assume
 - - too
   - brief
   - life
-- - ditch
-  - let
+- - let
   - us
+  - assume
 - - mud
   - such
   - clumps
 - - arrived
   - far
   - too
-- - front
-  - face
-  - down
-- - feel
-  - like
-  - choking
+- - ditch
+  - let
+  - us
 - - far
   - too
   - early
-- - its
-  - matchless
-  - wonder
 - - too
   - early
   - while
+- - front
+  - face
+  - down
+- - its
+  - matchless
+  - wonder
+- - feel
+  - like
+  - choking
 - - much
   - else
   - because
@@ -155,105 +155,99 @@ ngrams:
 - - clumps
   - clumps
   - can
-- - like
-  - choking
-  - indeed
 - - any
   - further
   - reading
-- - very
-  - own
-  - eyes
+- - like
+  - choking
+  - indeed
 - - ground
   - perhaps
   - even
-- - scamp
-  - has
-  - placed
+- - very
+  - own
+  - eyes
 - - see
   - any
   - wisps
 - - william
   - blake
   - who
+- - scamp
+  - has
+  - placed
 - - better
   - introduction
   - some
-- - place
-  - some
-  - substances
 - - solid
   - things
   - do
-- - blake
-  - who
-  - wrote
-- - some
+- - place
+  - some
   - substances
-  - take
 - - may
   - even
   - choke
+- - blake
+  - who
+  - wrote
 - - digress
   - basically
   - what
-- - open
-  - your
-  - stinging
-- - billowing
-  - making
-  - your
-- - insight
-  - into
-  - wisps
+- - some
+  - substances
+  - take
 - - solid
   - melts
   - into
-- - direct
-  - your
-  - attention
+- - insight
+  - into
+  - wisps
 - - occasional
   - forays
   - into
 - - valuable
   - insight
   - into
+- - open
+  - your
+  - stinging
 - - forays
   - into
   - bee
-- - your
-  - stinging
-  - eyes
-- - your
-  - front
-  - face
-- - may
-  - feel
-  - like
 - - dying
   - bonfire
   - if
-- - nash
-  - young
-  - were
+- - billowing
+  - making
+  - your
+- - direct
+  - your
+  - attention
+- - may
+  - feel
+  - like
+- - your
+  - stinging
+  - eyes
 - - pamphlet
   - about
   - wisps
-- - making
-  - your
-  - eyes
-- - eyes
+- - your
+  - front
+  - face
+- - nash
+  - young
   - were
-  - streaming
 - - introduction
   - some
   - might
-- - your
-  - eyes
-  - water
 - - some
   - might
   - talk
+- - eyes
+  - were
+  - streaming
 - - melts
   - into
   - air
@@ -266,33 +260,39 @@ ngrams:
 - - melt
   - into
   - air
+- - making
+  - your
+  - eyes
 - - into
   - both
   - wisps
-- - their
-  - characteristics
-  - these
 - - insight
   - into
   - both
+- - their
+  - characteristics
+  - these
 - - into
   - air
   - according
-- - some
-  - other
-  - fume
 - - do
   - any
   - further
-- - has
-  - placed
-  - any
+- - your
+  - eyes
+  - water
 - - into
   - bee
   - world
-- - first
-  - place
-  - some
+- - some
+  - other
+  - fume
+- - has
+  - placed
+  - any
+- - were
+  - standing
+  - next
 story:
   date: 2005-09-30
   id: 2005-09-30-wisps-and-clumps

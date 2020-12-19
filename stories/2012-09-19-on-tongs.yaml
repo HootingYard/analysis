@@ -11,24 +11,27 @@ ngrams:
 - - guitar
   - bass
   - drums
-- - papa's
-  - papa's
-  - papa
+- - deeply
+  - deeply
+  - annoying
 - - basic
   - guitar
   - bass
 - - bass
   - drums
   - trio
-- - deeply
-  - deeply
-  - annoying
 - - drums
   - trio
   - augmented
+- - papa's
+  - papa's
+  - papa
 - - coal
   - sugar
   - dab
+- - significant
+  - passes
+  - sleight
 - - infusions
   - demarcation
   - lines
@@ -38,12 +41,6 @@ ngrams:
 - - sandy
   - bottom
   - awaiting
-- - significant
-  - passes
-  - sleight
-- - bottom
-  - coal
-  - sugar
 - - mere
   - humdrum
   - manipulations
@@ -53,6 +50,9 @@ ngrams:
 - - movements
   - significant
   - passes
+- - bottom
+  - coal
+  - sugar
 - - sugar
   - lumps
   - save
@@ -83,39 +83,39 @@ ngrams:
 - - nor
   - sugar
   - lumps
-- - tiny
-  - infant
-  - fist
 - - burning
   - coals
   - nor
-- - whispered
-  - long
-  - invisible
-- - whispered
-  - long
-  - invisible
-- - long
-  - invisible
-  - tongs
-- - long
-  - invisible
-  - tongs
-- - another
-  - hereditary
-  - post
+- - tiny
+  - infant
+  - fist
 - - bottom
   - awaiting
   - though
+- - another
+  - hereditary
+  - post
+- - whispered
+  - long
+  - invisible
+- - whispered
+  - long
+  - invisible
+- - long
+  - invisible
+  - tongs
+- - long
+  - invisible
+  - tongs
 - - castle
   - stringent
   - too
-- - sugar
-  - dab
-  - these
 - - came
   - lumbering
   - towards
+- - sugar
+  - dab
+  - these
 - - sandy
   - bottom
   - being
@@ -137,93 +137,84 @@ ngrams:
 - - sugar
   - lumps
   - those
-- - old
-  - hands
-  - drawn
 - - wriggle
   - before
   - allowing
-- - poured
-  - unwanted
-  - down
-- - properly
-  - set
-  - far
-- - back
-  - generations
-  - since
-- - generations
-  - since
-  - first
+- - old
+  - hands
+  - drawn
 - - coal
   - might
   - pop
+- - burning
+  - coal
+  - might
+- - properly
+  - set
+  - far
+- - poured
+  - unwanted
+  - down
 - - sweetened
   - than
   - poured
 - - than
   - poured
   - unwanted
-- - burning
-  - coal
-  - might
 - - inconceivable
   - distance
   - even
+- - back
+  - generations
+  - since
+- - generations
+  - since
+  - first
 - - distance
   - even
   - papa
-- - past
-  - too
-  - often
 - - set
   - far
   - better
+- - past
+  - too
+  - often
 - - almost
   - empty
   - head
-- - pause
-  - then
-  - haltingly
 - - subject
   - upon
   - entering
+- - pause
+  - then
+  - haltingly
 - - asking
   - too
   - much
-- - tongs
-  - see
-  - see
 - - village
   - subject
   - upon
+- - tongs
+  - see
+  - see
+- - too
+  - much
+  - thus
 - - see
   - see
   - whether
 - - litany
   - generations
   - who
-- - too
-  - much
-  - thus
-- - pop
-  - group
-  - who
 - - then
   - haltingly
   - until
+- - pop
+  - group
+  - who
 - - group
   - who
   - played
-- - him
-  - further
-  - tricks
-- - taught
-  - him
-  - further
-- - code
-  - drawn
-  - up
 - - too
   - much
   - far
@@ -233,45 +224,54 @@ ngrams:
 - - far
   - too
   - much
+- - him
+  - further
+  - tricks
+- - code
+  - drawn
+  - up
+- - taught
+  - him
+  - further
 - - felt
   - their
   - pinch
+- - too
+  - often
+  - then
+- - writes
+  - merely
+  - what
 - - tongs
   - were
   - forged
+- - invisible
+  - tongs
+  - when
 - - demarcation
   - lines
   - were
 - - lines
   - were
   - stringent
-- - writes
-  - merely
-  - what
-- - too
-  - often
-  - then
 - - were
   - mere
   - humdrum
-- - invisible
-  - tongs
-  - when
 - - been
   - properly
   - set
 - - about
   - really
   - best
+- - tapped
+  - out
+  - nothing
 - - ponsonby
   - hooter
   - they
 - - grounds
   - they
   - settled
-- - tapped
-  - out
-  - nothing
 - - castle
   - grounds
   - they
@@ -281,42 +281,42 @@ ngrams:
 - - new
   - dab
   - into
+- - until
+  - such
+  - time
 - - out
   - nothing
   - left
 - - seldom
   - days
   - they
-- - until
-  - such
-  - time
 - - days
   - they
   - carry
-- - were
-  - old
-  - hands
-- - lumps
-  - those
-  - were
-- - those
-  - were
-  - mere
 - - haltingly
   - until
   - there
+- - lumps
+  - those
+  - were
+- - were
+  - old
+  - hands
 - - empty
   - head
   - when
+- - those
+  - were
+  - mere
+- - so
+  - seldom
+  - days
 - - 'off'
   - they
   - flutter
 - - all
   - those
   - papas
-- - so
-  - seldom
-  - days
 - - an
   - inconceivable
   - distance

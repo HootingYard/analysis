@@ -1,25 +1,25 @@
 ngrams:
-- - renting
-  - sedge
-  - warblers
 - - lefty
   - airhead
   - nestling
-- - warbler
-  - renting
+- - renting
   - sedge
+  - warblers
 - - plaques
   - dotted
   - hither
-- - temporary
+- - warbler
+  - renting
   - sedge
-  - warbler
-- - bludgeon
-  - heigh
-  - ho
 - - armchair
   - lefty
   - airhead
+- - bludgeon
+  - heigh
+  - ho
+- - temporary
+  - sedge
+  - warbler
 - - hedge
   - maze
   - slap
@@ -32,12 +32,12 @@ ngrams:
 - - high
   - hedge
   - maze
-- - blue
-  - plaques
-  - themselves
 - - airhead
   - nestling
   - within
+- - blue
+  - plaques
+  - themselves
 - - bank
   - manager
   - took
@@ -56,24 +56,30 @@ ngrams:
 - - minutes
   - wandering
   - through
-- - those
-  - high
-  - hedges
 - - such
   - marketing
   - ploy
+- - those
+  - high
+  - hedges
 - - hedges
   - higher
   - than
-- - very
-  - simple
-  - reason
 - - simple
   - reason
   - those
+- - very
+  - simple
+  - reason
 - - reason
   - those
   - high
+- - immensely
+  - then
+  - enough
+- - higher
+  - than
+  - mr
 - - him
   - utterly
   - senseless
@@ -83,21 +89,15 @@ ngrams:
 - - bash
   - him
   - utterly
-- - immensely
-  - then
-  - enough
-- - higher
-  - than
-  - mr
 - - quite
   - immensely
   - then
-- - own
-  - talents
-  - do
 - - then
   - enough
   - enough
+- - own
+  - talents
+  - do
 - - your
   - forehead
   - tattooed
@@ -116,9 +116,6 @@ ngrams:
 - - some
   - such
   - marketing
-- - those
-  - who
-  - needed
 - - tourist
   - hub
   - there
@@ -128,6 +125,9 @@ ngrams:
 - - civic
   - functionary
   - would
+- - those
+  - who
+  - needed
 - - nestling
   - within
   - me
@@ -140,42 +140,42 @@ ngrams:
 - - historical
   - interest
   - which
-- - made
-  - me
-  - embrace
-- - quite
-  - some
-  - time
-- - ever
-  - think
-  - up
 - - functionary
   - would
   - ever
+- - made
+  - me
+  - embrace
+- - ever
+  - think
+  - up
+- - quite
+  - some
+  - time
 - - maze
   - being
   - there
-- - loon
-  - has
-  - been
 - - effect
   - that's
   - one
+- - loon
+  - has
+  - been
 - - that's
   - one
   - reason
 - - having
   - an
   - inner
-- - manager
-  - took
-  - one
 - - corporate
   - logo
   - or
-- - one
-  - reason
-  - why
+- - manager
+  - took
+  - one
+- - shops
+  - or
+  - restaurants
 story:
   date: 2010-08-04
   id: 2010-08-04-enlightenment-through-hedges

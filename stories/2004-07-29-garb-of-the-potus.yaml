@@ -1,19 +1,19 @@
 ngrams:
+- - dull
+  - business
+  - suits
 - - potus
   - john
   - kerry
 - - wannabe
   - potus
   - john
-- - dull
-  - business
-  - suits
-- - john
-  - kerry
-  - announced
 - - extremely
   - dull
   - business
+- - john
+  - kerry
+  - announced
 - - grand
   - vizier
   - because
@@ -38,24 +38,24 @@ ngrams:
 - - when
   - gathered
   - always
-- - just
-  - like
-  - us
 - - potus
   - yesterday
   - we
+- - just
+  - like
+  - us
 - - yesterday
   - we
   - published
 - - vizier
   - because
   - they
-- - see
-  - an
-  - array
 - - or
   - less
   - accordingly
+- - see
+  - an
+  - array
 story:
   date: 2004-07-29
   id: 2004-07-29-garb-of-the-potus

@@ -8,15 +8,15 @@ ngrams:
 - - swordfish
   - jet
   - planes
-- - ungodly
-  - beeping
-  - noise
 - - surprisingly
   - comfortable
   - bunk
 - - standard
   - banishment
   - procedure
+- - ungodly
+  - beeping
+  - noise
 - - military
   - markings
   - dozens
@@ -26,6 +26,9 @@ ngrams:
 - - complicated
   - palace
   - communication
+- - howler
+  - monkeys
+  - learning
 - - flaps
   - material
   - flaps
@@ -35,15 +38,12 @@ ngrams:
 - - elegance
   - third
   - howler
-- - howler
-  - monkeys
-  - learning
-- - grimy
-  - yellow
-  - ceiling
 - - gulping
   - sobs
   - everything
+- - grimy
+  - yellow
+  - ceiling
 - - imagination
   - run
   - riot
@@ -59,24 +59,24 @@ ngrams:
 - - thousand
   - howler
   - monkeys
-- - bunk
-  - completely
-  - spent
-- - hundred
-  - thousand
-  - howler
-- - howler
-  - monkeys
-  - passed
 - - third
   - howler
   - monkey
-- - tremendously
-  - large
-  - building
+- - howler
+  - monkeys
+  - passed
+- - bunk
+  - completely
+  - spent
 - - equally
   - elegant
   - ears
+- - hundred
+  - thousand
+  - howler
+- - tremendously
+  - large
+  - building
 - - shelves
   - stacked
   - oh
@@ -92,42 +92,42 @@ ngrams:
 - - second
   - howler
   - monkey
-- - days
-  - o'
-  - cellophane
-- - magnificent
-  - blue
-  - sky
-- - cupboard
-  - door
-  - shut
 - - quite
   - relaxed
   - staring
-- - quite
-  - involuntary
-  - none
+- - cupboard
+  - door
+  - shut
+- - magnificent
+  - blue
+  - sky
+- - days
+  - o'
+  - cellophane
 - - felt
   - quite
   - relaxed
-- - couldn't
-  - stop
-  - myself
+- - quite
+  - involuntary
+  - none
 - - immediately
   - came
   - charging
+- - couldn't
+  - stop
+  - myself
 - - pocket
   - flaps
   - because
-- - inadvertent
-  - little
-  - jump
-- - take
-  - six
-  - packets
 - - done
   - nothing
   - wrong
+- - take
+  - six
+  - packets
+- - inadvertent
+  - little
+  - jump
 - - came
   - charging
   - towards
@@ -137,21 +137,21 @@ ngrams:
 - - sky
   - once
   - inside
-- - six
-  - packets
-  - two
-- - blue
-  - sky
-  - once
 - - read
   - nothing
   - sinister
-- - first
-  - howler
-  - monkey
+- - blue
+  - sky
+  - once
+- - six
+  - packets
+  - two
 - - much
   - less
   - grimy
+- - first
+  - howler
+  - monkey
 - - less
   - grimy
   - after
@@ -161,12 +161,9 @@ ngrams:
 - - tell
   - first
   - howler
-- - only
-  - certain
-  - areas
-- - packets
-  - two
-  - each
+- - racket
+  - without
+  - much
 - - elegant
   - hands
   - over
@@ -176,21 +173,21 @@ ngrams:
 - - than
   - six
   - packets
-- - racket
-  - without
-  - much
 - - without
   - much
   - success
-- - now
-  - appeared
-  - wheeling
+- - only
+  - certain
+  - areas
+- - packets
+  - two
+  - each
 - - should
   - read
   - nothing
-- - large
-  - building
-  - now
+- - now
+  - appeared
+  - wheeling
 - - touch
   - more
   - elegance
@@ -200,18 +197,21 @@ ngrams:
 - - more
   - elegance
   - third
-- - some
-  - gruesome
-  - fate
-- - many
-  - many
-  - shelves
-- - another
-  - cupboard
-  - where
+- - large
+  - building
+  - now
 - - stop
   - myself
   - even
+- - another
+  - cupboard
+  - where
+- - many
+  - many
+  - shelves
+- - some
+  - gruesome
+  - fate
 - - shall
   - see
   - once
@@ -239,27 +239,27 @@ ngrams:
 - - never
   - seen
   - before
-- - been
-  - ferried
-  - aboard
 - - could
   - take
   - six
 - - howl
   - just
   - like
+- - been
+  - ferried
+  - aboard
 - - already
   - given
   - them
+- - more
+  - before
+  - falling
 - - who
   - immediately
   - came
 - - like
   - since
   - before
-- - more
-  - before
-  - falling
 - - their
   - next
   - move
@@ -269,12 +269,6 @@ ngrams:
 - - beeping
   - turned
   - out
-- - up
-  - spitting
-  - most
-- - nothing
-  - sinister
-  - into
 - - taking
   - more
   - than
@@ -284,198 +278,204 @@ ngrams:
 - - more
   - than
   - six
-- - corridor
-  - they
-  - slammed
+- - up
+  - spitting
+  - most
+- - nothing
+  - sinister
+  - into
 - - legs
   - lifted
   - me
+- - corridor
+  - they
+  - slammed
 - - howling
   - they
   - grabbed
-- - feet
-  - bundled
-  - me
 - - planes
   - came
   - into
+- - feet
+  - bundled
+  - me
 - - into
   - another
   - corridor
 - - monkeys
   - passed
   - me
-- - banishment
-  - they
-  - turned
-- - completely
-  - spent
-  - they
+- - howler
+  - monkey
+  - we
 - - me
   - second
   - howler
+- - banishment
+  - they
+  - turned
+- - charging
+  - towards
+  - me
+- - monkey
+  - we
+  - arrived
+- - mouth
+  - shut
+  - there
 - - since
   - they
   - ejected
+- - completely
+  - spent
+  - they
 - - inventions
   - were
   - still
 - - were
   - still
   - welcomed
-- - charging
-  - towards
+- - shut
+  - behind
   - me
-- - howler
-  - monkey
-  - we
 - - gurney
+  - they
+  - told
+- - towards
+  - me
+  - howling
+- - some
+  - more
+  - milkshake
+- - turned
+  - into
+  - another
+- - flaps
   - they
   - told
 - - spent
   - they
   - gave
-- - towards
-  - me
-  - howling
-- - shut
-  - behind
-  - me
-- - flaps
-  - they
-  - told
-- - some
-  - more
-  - milkshake
-- - mouth
-  - shut
-  - there
-- - turned
-  - into
-  - another
-- - monkey
-  - we
-  - arrived
-- - nuts
-  - they
-  - told
 - - came
   - into
   - land
+- - nuts
+  - they
+  - told
 - - all
   - quite
   - involuntary
-- - thursday
-  - morning
-  - they
-- - behind
-  - me
-  - second
 - - also
   - caused
   - me
-- - them
-  - now
-  - appeared
-- - understood
-  - why
+- - behind
+  - me
+  - second
+- - thursday
+  - morning
   - they
-- - get
-  - myself
-  - into
 - - flaps
   - we
   - shall
+- - them
+  - now
+  - appeared
 - - floor
   - so
   - desperate
-- - could
-  - dredge
-  - up
+- - get
+  - myself
+  - into
+- - understood
+  - why
+  - they
 - - stacked
   - oh
   - so
+- - could
+  - dredge
+  - up
 - - carrying
   - 'no'
   - more
-- - which
-  - formed
-  - part
 - - lifted
-  - me
-  - 'off'
-- - morning
-  - they
-  - came
-- - an
-  - ungodly
-  - beeping
-- - carried
   - me
   - 'off'
 - - oh
   - so
   - high
+- - which
+  - formed
+  - part
+- - morning
+  - they
+  - came
+- - carried
+  - me
+  - 'off'
+- - an
+  - ungodly
+  - beeping
 - - its
   - workings
   - were
-- - plane
-  - which
-  - took
 - - all
   - very
   - curious
-- - me
-  - 'off'
-  - towards
 - - standing
   - there
   - being
 - - me
   - any
   - explanation
+- - plane
+  - which
+  - took
 - - giving
   - me
   - any
+- - me
+  - 'off'
+  - towards
 - - beeping
   - noise
   - this
+- - myself
+  - even
+  - when
 - - heard
   - an
   - ungodly
 - - bit
   - weedy
   - one
-- - just
-  - like
-  - them
-- - myself
-  - even
-  - when
-- - serum
-  - this
-  - gave
-- - were
-  - many
-  - many
-- - we
-  - shall
-  - see
 - - cupboard
   - where
   - there
-- - then
-  - they
-  - strapped
+- - serum
+  - this
+  - gave
+- - we
+  - shall
+  - see
+- - just
+  - like
+  - them
+- - were
+  - many
+  - many
 - - other
   - flaps
   - we
-- - then
-  - they
-  - lifted
+- - any
+  - explanation
+  - so
 - - cram
   - them
   - into
+- - then
+  - they
+  - strapped
 - - them
   - what
   - help

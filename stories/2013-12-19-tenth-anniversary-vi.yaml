@@ -1,7 +1,4 @@
 ngrams:
-- - sociopath
-  - lothar
-  - preen
 - - tra
   - la
   - lee
@@ -14,6 +11,9 @@ ngrams:
 - - breathtakingly
   - pompous
   - essay
+- - sociopath
+  - lothar
+  - preen
 - - september
   - tra
   - la
@@ -29,21 +29,21 @@ ngrams:
 - - songs
   - tra
   - la
-- - contralto
-  - voice
-  - sings
 - - various
   - clifftop
   - paths
-- - la
-  - lee
-  - dennis
 - - rarely
   - goes
   - amiss
+- - contralto
+  - voice
+  - sings
 - - rough
   - tough
   - seaside
+- - la
+  - lee
+  - dennis
 - - rich
   - contralto
   - voice
@@ -62,36 +62,30 @@ ngrams:
 - - preen
   - often
   - claimed
-- - preen
-  - also
-  - claimed
 - - sings
   - words
   - torn
-- - hoping
-  - against
-  - hope
 - - along
   - various
   - clifftop
+- - hoping
+  - against
+  - hope
+- - preen
+  - also
+  - claimed
 - - riding
   - along
   - various
-- - music
-  - preen
-  - also
+- - calendar
+  - year
+  - today
 - - horseback
   - while
   - riding
 - - voice
   - sings
   - words
-- - horse
-  - called
-  - dennis
-- - calendar
-  - year
-  - today
 - - bailiffs
   - sometimes
   - across
@@ -101,27 +95,39 @@ ngrams:
 - - tavern
   - while
   - avoiding
+- - music
+  - preen
+  - also
+- - horse
+  - called
+  - dennis
 - - songs
   - while
   - holed
-- - year
-  - today
-  - four
 - - tuberculosis
   - new
   - research
-- - composed
-  - these
-  - towering
 - - seaside
   - tavern
   - while
+- - composed
+  - these
+  - towering
+- - year
+  - today
+  - four
 - - new
   - research
   - shows
+- - superior
+  - wisdom
+  - much
 - - these
   - towering
   - pieces
+- - few
+  - seconds
+  - ago
 - - lothar
   - preen
   - never
@@ -140,12 +146,6 @@ ngrams:
 - - four
   - last
   - songs
-- - superior
-  - wisdom
-  - much
-- - few
-  - seconds
-  - ago
 - - while
   - riding
   - along
@@ -155,15 +155,15 @@ ngrams:
 - - today
   - four
   - last
+- - suspicious
+  - stains
+  - upon
 - - last
   - songs
   - while
 - - life
   - being
   - pursued
-- - suspicious
-  - stains
-  - upon
 - - even
   - considered
   - writing
@@ -185,42 +185,42 @@ ngrams:
 - - goat
   - rather
   - than
-- - very
-  - arrogant
-  - man
 - - nor
   - could
   - lothar
-- - each
-  - hooting
-  - yard
+- - very
+  - arrogant
+  - man
 - - preen
   - never
   - even
 - - never
   - even
   - considered
+- - each
+  - hooting
+  - yard
 - - coughing
   - up
   - blood
 - - loopy
   - loo
   - what
-- - up
-  - blood
-  - dennis
 - - another
   - nor
   - could
+- - up
+  - blood
+  - dennis
+- - much
+  - more
+  - sense
 - - lothar
   - preen
   - if
 - - message
   - tapped
   - out
-- - much
-  - more
-  - sense
 - - believed
   - up
   - until

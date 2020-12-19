@@ -2,12 +2,12 @@ ngrams:
 - - chandeliers
   - rococo
   - ironwork
-- - rococo
-  - ironwork
-  - railings
 - - brightly
   - polished
   - grating
+- - rococo
+  - ironwork
+  - railings
 - - occasional
   - disoriented
   - scavenger
@@ -20,57 +20,57 @@ ngrams:
 - - ants
   - locusts
   - grasshoppers
-- - bugs
-  - bees
-  - mosquitoes
 - - lord's
   - enormous
   - squirming
-- - beetles
-  - bugs
+- - bugs
   - bees
+  - mosquitoes
 - - pretty
   - firm
   - kibosh
+- - beetles
+  - bugs
+  - bees
 - - bees
   - mosquitoes
   - ants
+- - fantastic
+  - sewage
+  - system
 - - enormous
   - squirming
   - sack
 - - enormous
   - burlap
   - sack
-- - fantastic
-  - sewage
-  - system
-- - insect
-  - history
-  - hovers
-- - recent
-  - scholarship
-  - carried
 - - barely
   - habitable
   - nature
-- - prospect
-  - conceals
-  - however
+- - recent
+  - scholarship
+  - carried
+- - insect
+  - history
+  - hovers
 - - squelchy
   - wasteland
   - between
+- - prospect
+  - conceals
+  - however
 - - sturdy
   - wooden
   - post
-- - history
-  - hovers
-  - above
 - - lord
   - appeared
   - carrying
 - - further
   - afield
   - incidentally
+- - history
+  - hovers
+  - above
 - - afield
   - incidentally
   - given
@@ -80,39 +80,39 @@ ngrams:
 - - close
   - link
   - between
-- - office
-  - hangs
-  - around
 - - village
   - nor
   - hamlet
+- - office
+  - hangs
+  - around
 - - wasteland
   - between
   - town
 - - sack
   - well
   - tied
+- - nor
+  - hamlet
+  - nor
 - - wooden
   - post
   - should
 - - huge
   - sack
   - well
-- - nor
-  - hamlet
-  - nor
 - - neither
   - town
   - nor
 - - town
   - nor
   - village
-- - polished
-  - grating
-  - down
 - - nor
   - village
   - nor
+- - polished
+  - grating
+  - down
 - - perhaps
   - best
   - known
@@ -125,15 +125,15 @@ ngrams:
 - - rained
   - upon
   - incessantly
+- - muck
+  - roosted
+  - upon
 - - its
   - gorgeous
   - sewers
 - - other
   - curious
   - deeds
-- - muck
-  - roosted
-  - upon
 - - those
   - distant
   - days
@@ -143,27 +143,27 @@ ngrams:
 - - now
   - seems
   - certain
-- - woad
-  - her
-  - name
-- - very
-  - first
-  - shaft
 - - though
   - rained
   - upon
-- - insect
-  - history
-  - has
+- - very
+  - first
+  - shaft
 - - creatures
   - who
   - fly
-- - lord
-  - who
-  - dug
 - - their
   - chandeliers
   - rococo
+- - insect
+  - history
+  - has
+- - lord
+  - who
+  - dug
+- - woad
+  - her
+  - name
 - - grating
   - down
   - down
@@ -182,48 +182,51 @@ ngrams:
 - - same
   - lord
   - who
-- - history
-  - has
-  - put
 - - fumes
   - released
   - when
-- - always
-  - been
-  - shunned
+- - history
+  - has
+  - put
 - - scholarship
   - carried
   - out
+- - always
+  - been
+  - shunned
 - - soldering
   - person
   - will
-- - performed
-  - some
-  - other
 - - burlap
   - sack
   - there
 - - sewage
   - system
   - we
+- - performed
+  - some
+  - other
 - - gathered
   - together
   - all
-- - some
-  - other
-  - curious
 - - upon
   - incessantly
   - has
-- - other
-  - creatures
-  - who
+- - some
+  - other
+  - curious
 - - drainage
   - engineers
   - so
+- - other
+  - creatures
+  - who
 - - can
   - look
   - like
+- - know
+  - much
+  - more
 - - essential
   - details
   - are
@@ -233,9 +236,6 @@ ngrams:
 - - boots
   - are
   - advisable
-- - know
-  - much
-  - more
 - - details
   - are
   - covered
@@ -248,15 +248,18 @@ ngrams:
 - - 'no'
   - such
   - thing
+- - week
+  - out
+  - through
 - - an
   - airship
   - tethered
 - - an
   - adamantine
   - slab
-- - week
-  - out
-  - through
+- - one
+  - puzzling
+  - aspect
 - - an
   - enormous
   - burlap
@@ -269,9 +272,6 @@ ngrams:
 - - carrying
   - an
   - enormous
-- - one
-  - puzzling
-  - aspect
 - - midden
   - are
   - far

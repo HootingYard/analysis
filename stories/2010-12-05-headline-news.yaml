@@ -2,12 +2,12 @@ ngrams:
 - - presenter
   - adrian
   - chiles
-- - porpoises
-  - rescue
-  - dick
 - - headline
   - porpoises
   - rescue
+- - porpoises
+  - rescue
+  - dick
 - - television
   - presenter
   - adrian
@@ -32,21 +32,21 @@ ngrams:
 - - largest
   - sea
   - creature
-- - news
-  - story
-  - alongside
 - - alongside
   - sea
   - creatures
 - - news
+  - story
+  - alongside
+- - news
   - roundup
   - under
-- - exciting
-  - news
-  - story
 - - adrian
   - chiles
   - read
+- - exciting
+  - news
+  - story
 - - story
   - alongside
   - sea
@@ -62,12 +62,12 @@ ngrams:
 - - havoc
   - upon
   - dick
-- - very
-  - sea
-  - creatures
 - - mental
   - havoc
   - upon
+- - very
+  - sea
+  - creatures
 story:
   date: 2010-12-05
   id: 2010-12-05-headline-news

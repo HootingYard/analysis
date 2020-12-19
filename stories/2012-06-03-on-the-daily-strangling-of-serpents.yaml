@@ -2,21 +2,21 @@ ngrams:
 - - ultimately
   - worthless
   - toil
-- - creaking
-  - tatty
-  - bristly
 - - jane
   - welsh
   - carlyle
 - - jane
   - carlyle
   - clapped
-- - boa
-  - constrictor
-  - laughing
+- - creaking
+  - tatty
+  - bristly
 - - welsh
   - carlyle
   - climbed
+- - boa
+  - constrictor
+  - laughing
 - - angular
   - dusty
   - creaking
@@ -26,15 +26,15 @@ ngrams:
 - - serpent
   - sank
   - limp
+- - parlour
+  - jane
+  - skipping
 - - tall
   - angular
   - dusty
 - - scottish
   - sage
   - crackers
-- - parlour
-  - jane
-  - skipping
 - - parlour
   - jane
   - welsh
@@ -56,30 +56,30 @@ ngrams:
 - - thomas
   - pleaded
   - jane
-- - wife
-  - jane
-  - welsh
 - - serpent
   - strangling
   - thomas
+- - wife
+  - jane
+  - welsh
+- - tatty
+  - bristly
+  - fellow
 - - glee
   - thomas
   - glowering
 - - jane
   - returned
   - lugging
-- - tatty
-  - bristly
-  - fellow
+- - mysterious
+  - oriental
+  - flute
 - - unbearably
   - thrilling
   - cried
 - - scotch
   - ones
   - dusty
-- - mysterious
-  - oriental
-  - flute
 - - mysterious
   - oriental
   - origin
@@ -89,150 +89,153 @@ ngrams:
 - - thrilling
   - cried
   - jane
-- - boa
-  - constrictor
-  - please
 - - overexcited
   - child
   - tip
+- - boa
+  - constrictor
+  - please
 - - ones
   - dusty
   - dim
-- - damned
-  - noise
-  - shouted
 - - shouted
   - thomas
   - carlyle
 - - tad
   - early
   - growled
+- - damned
+  - noise
+  - shouted
+- - thomas
+  - merely
+  - grunted
 - - top
   - serpent
   - strangling
 - - noise
   - shouted
   - thomas
-- - thomas
-  - merely
-  - grunted
-- - constrictor
-  - please
-  - shouted
 - - tip
   - top
   - serpent
+- - constrictor
+  - please
+  - shouted
 - - please
   - shouted
   - jane
 - - cheerful
   - voice
   - thomas
-- - husband
-  - sat
-  - scribbling
 - - irascible
   - polymath
   - oh
+- - husband
+  - sat
+  - scribbling
 - - giggly
   - jane
   - give
-- - child
-  - tip
-  - top
 - - grunted
   - oh
   - you're
-- - 'yes'
-  - mrs
-  - carlyle
-- - tad
-  - early
-  - 'yes'
+- - child
+  - tip
+  - top
 - - jane
   - climbed
   - further
+- - tad
+  - early
+  - 'yes'
 - - serpents
   - alone
   - together
-- - big
-  - hairy
-  - fists
-- - bristly
-  - fellow
-  - whose
-- - jane
-  - welsh
-  - went
 - - merely
   - grunted
   - oh
+- - 'yes'
+  - mrs
+  - carlyle
+- - jane
+  - welsh
+  - went
+- - bristly
+  - fellow
+  - whose
+- - big
+  - hairy
+  - fists
 - - oh
   - thomas
   - thomas
 - - snake
   - charmer
   - took
-- - early
-  - 'yes'
-  - mrs
-- - polymath
-  - oh
-  - don't
 - - train
   - whistles
   - both
+- - polymath
+  - oh
+  - don't
+- - early
+  - 'yes'
+  - mrs
 - - preferences
   - today
   - asked
-- - leave
-  - i'll
-  - let
 - - armchair
   - getting
   - himself
 - - silence
   - until
   - jane
+- - leave
+  - i'll
+  - let
 - - until
   - jane
   - returned
-- - idle
-  - chitchat
-  - while
 - - jane
   - while
   - humming
-- - fellow
-  - whose
-  - eyes
-- - parlour
-  - go
-  - thither
+- - idle
+  - chitchat
+  - while
 - - fetch
   - mr
   - carlyle
+- - parlour
+  - go
+  - thither
 - - make
   - idle
   - chitchat
+- - fellow
+  - whose
+  - eyes
 - - old
   - snakey
   - replacing
-- - old
-  - snakey
-  - i'd
-- - parlour
-  - old
-  - snakey
-- - should
-  - stop
-  - short
 - - yelled
   - well
   - that's
 - - damned
   - hens
   - make
+- - should
+  - stop
+  - short
+- - old
+  - snakey
+  - i'd
+- - parlour
+  - old
+  - snakey
+- - hardly
+  - listening
+  - well
 - - rattlesnake
   - ooh
   - how
@@ -242,21 +245,18 @@ ngrams:
 - - how
   - unbearably
   - thrilling
-- - hardly
-  - listening
-  - well
 - - turn
   - thomas
   - come
 - - great
   - oh
   - thomas
-- - i'll
-  - let
-  - myself
 - - much
   - damned
   - noise
+- - i'll
+  - let
+  - myself
 - - sat
   - scribbling
   - away
@@ -293,6 +293,15 @@ ngrams:
 - - than
   - jane
   - sprang
+- - jane
+  - sprang
+  - upon
+- - go
+  - thither
+  - while
+- - gone
+  - than
+  - jane
 - - weary
   - writing
   - down
@@ -302,24 +311,27 @@ ngrams:
 - - like
   - fathomless
   - whirlpools
-- - go
-  - thither
-  - while
-- - snakey
-  - i'd
-  - like
-- - today
-  - asked
-  - old
-- - pleaded
-  - jane
-  - she
-- - gone
-  - than
-  - jane
 - - gripped
   - its
   - throat
+- - today
+  - asked
+  - old
+- - any
+  - preferences
+  - today
+- - snakey
+  - i'd
+  - like
+- - while
+  - old
+  - snakey
+- - oh
+  - you're
+  - such
+- - pleaded
+  - jane
+  - she
 - - wicker
   - baskets
   - she
@@ -329,48 +341,36 @@ ngrams:
 - - constrictor
   - laughing
   - her
-- - jane
-  - sprang
-  - upon
-- - while
-  - old
-  - snakey
 - - strangling
   - thomas
   - she
-- - any
-  - preferences
-  - today
 - - snakey
   - she
   - cried
-- - thomas
-  - she
-  - yelled
 - - snakey
   - she
   - added
+- - thomas
+  - she
+  - yelled
 - - gloom
   - she
   - opened
+- - old
+  - snakey
+  - made
 - - thomas
   - thomas
   - she
 - - thomas
   - she
   - cried
-- - oh
-  - you're
-  - such
-- - clapped
-  - her
-  - hands
-- - her
-  - husband
-  - sat
-- - old
-  - snakey
-  - made
+- - head
+  - still
+  - stuffed
+- - am
+  - weary
+  - writing
 story:
   date: 2012-06-03
   id: 2012-06-03-on-the-daily-strangling-of-serpents

@@ -17,15 +17,15 @@ ngrams:
 - - planned
   - prequel
   - glove
-- - purely
-  - coincidental
-  - tuesday
 - - david
   - seabrook
   - granta
 - - pink
   - duffel
   - coat
+- - purely
+  - coincidental
+  - tuesday
 - - weld
   - glove
   - puppet
@@ -41,12 +41,12 @@ ngrams:
 - - berserk
   - tuesday
   - weld
-- - actor
-  - charles
-  - hawtrey
 - - british
   - pianist
   - actor
+- - actor
+  - charles
+  - hawtrey
 - - glove
   - puppet
   - shows
@@ -56,81 +56,84 @@ ngrams:
 - - tuesday
   - weld
   - glove
-- - arrest
-  - tuesday
-  - weld
 - - googie
   - withers
   - tuesday
+- - arrest
+  - tuesday
+  - weld
 - - withers
   - tuesday
   - weld
-- - afterwards
-  - tuesday
-  - weld
-- - proved
-  - equally
-  - controversial
-- - tuesday
-  - weld
-  - gets
 - - demented
   - violence
   - dot
+- - proved
+  - equally
+  - controversial
+- - afterwards
+  - tuesday
+  - weld
+- - tuesday
+  - weld
+  - gets
 - - puppet
   - shows
   - weekly
-- - weld
-  - goes
-  - berserk
-- - weld
-  - goes
-  - berserk
-- - weld
-  - goes
-  - berserk
-- - weld
-  - goes
-  - berserk
 - - withers
   - goes
   - haywire
-- - charles
-  - hawtrey
-  - described
-- - coat
+- - weld
   - goes
-  - cavorting
-- - scene
-  - lasts
-  - anywhere
+  - berserk
+- - weld
+  - goes
+  - berserk
+- - weld
+  - goes
+  - berserk
+- - weld
+  - goes
+  - berserk
 - - wet
   - impacted
   - sand
 - - goes
   - berserk
   - bashing
-- - duffel
-  - coat
+- - coat
   - goes
-- - wearing
-  - pink
-  - duffel
+  - cavorting
+- - scene
+  - lasts
+  - anywhere
 - - googie
   - withers
   - goes
-- - goes
-  - berserk
-  - tuesday
+- - charles
+  - hawtrey
+  - described
+- - wearing
+  - pink
+  - duffel
+- - duffel
+  - coat
+  - goes
 - - opening
   - scene
   - lasts
-- - police
-  - officer
-  - attempts
+- - goes
+  - berserk
+  - tuesday
 - - magazine
   - characters
   - ignored
+- - police
+  - officer
+  - attempts
+- - immediately
+  - afterwards
+  - tuesday
 - - tuesday
   - weld
   - goes
@@ -143,9 +146,6 @@ ngrams:
 - - tuesday
   - weld
   - goes
-- - glove
-  - puppet
-  - show
 story:
   date: 2017-08-25
   id: 2017-08-25-tuesday-weld-goes-berserk

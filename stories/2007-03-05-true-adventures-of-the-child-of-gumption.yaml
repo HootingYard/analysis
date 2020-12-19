@@ -38,9 +38,6 @@ ngrams:
 - - yea
   - young
   - tinker
-- - gallops
-  - gets
-  - lost
 - - awfulness
   - o
   - mighty
@@ -56,6 +53,9 @@ ngrams:
 - - understand
   - o
   - ye
+- - gallops
+  - gets
+  - lost
 - - o
   - mighty
   - prince
@@ -68,12 +68,12 @@ ngrams:
 - - big
   - frightening
   - horse
-- - small
-  - heroic
-  - person
 - - thou
   - speakest
   - well
+- - small
+  - heroic
+  - person
 - - legions
   - most
   - foul
@@ -89,9 +89,9 @@ ngrams:
 - - come
   - close
   - small
-- - gulch
-  - only
-  - half
+- - shall
+  - next
+  - week
 story:
   date: 2007-03-05
   id: 2007-03-05-true-adventures-of-the-child-of-gumption

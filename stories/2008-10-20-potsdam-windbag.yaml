@@ -17,63 +17,63 @@ ngrams:
 - - books
   - happily
   - clog
-- - potsdam
-  - windbag
-  - story
 - - unread
   - books
   - happily
-- - dense
-  - sometimes
-  - incomprehensible
+- - potsdam
+  - windbag
+  - story
 - - 'true'
   - master
   - admittedly
+- - dense
+  - sometimes
+  - incomprehensible
 - - windbag
   - story
   - sadly
 - - postal
   - pouch
   - person
-- - pouch
-  - person
-  - employed
 - - selection
   - tales
   - told
+- - pouch
+  - person
+  - employed
 - - pointless
   - often
   - idiotic
 - - baffling
   - pointless
   - often
-- - called
-  - stephen
-  - fry
-- - century
-  - wrote
-  - acres
 - - beloved
   - potsdam
   - nor
+- - called
+  - stephen
+  - fry
 - - sometimes
   - incomprehensible
   - prose
+- - century
+  - wrote
+  - acres
+- - fractured
+  - english
+  - rather
+- - ungrammatical
+  - sentence
+  - perhaps
 - - four
   - hundred
   - pages
 - - character
   - called
   - stephen
-- - fractured
-  - english
-  - rather
 - - shall
   - share
   - soup
-- - ungrammatical
-  - sentence
-  - perhaps
 - - world
   - becomes
   - convinced
@@ -95,30 +95,30 @@ ngrams:
 - - these
   - teeming
   - thousands
-- - despite
-  - never
-  - leaving
 - - before
   - stopping
   - abruptly
+- - despite
+  - never
+  - leaving
 - - through
   - persistent
   - study
 - - should
   - fall
   - under
-- - our
-  - recent
-  - thunderstorms
-- - characteristically
-  - our
-  - author
 - - author
   - never
   - makes
 - - real
   - name
   - does
+- - our
+  - recent
+  - thunderstorms
+- - characteristically
+  - our
+  - author
 - - english
   - except
   - those
@@ -146,12 +146,12 @@ ngrams:
 - - brain
   - characteristically
   - our
-- - over
-  - four
-  - hundred
 - - read
   - through
   - persistent
+- - over
+  - four
+  - hundred
 - - many
   - should
   - fall
@@ -161,15 +161,15 @@ ngrams:
 - - am
   - currently
   - adopting
+- - thought
+  - might
+  - account
 - - could
   - barely
   - bring
 - - english
   - rather
   - than
-- - thought
-  - might
-  - account
 - - watch
   - him
   - vanish
@@ -182,15 +182,15 @@ ngrams:
 - - having
   - hired
   - him
-- - know
-  - little
-  - yet
 - - arresting
   - facts
   - about
 - - potsdam
   - windbag
   - when
+- - know
+  - little
+  - yet
 - - tears
   - dropping
   - into
@@ -200,12 +200,12 @@ ngrams:
 - - peasant
   - will
   - awake
-- - will
-  - awake
-  - soon
 - - fighting
   - their
   - way
+- - will
+  - awake
+  - soon
 - - yet
   - worked
   - out
@@ -218,18 +218,21 @@ ngrams:
 - - awake
   - soon
   - we
+- - yet
+  - what
+  - does
+- - we
+  - shall
+  - share
+- - are
+  - baffling
+  - pointless
 - - grunts
   - which
   - littered
 - - guttural
   - grunts
   - which
-- - yet
-  - what
-  - does
-- - are
-  - baffling
-  - pointless
 - - are
   - sparse
   - born
@@ -239,86 +242,83 @@ ngrams:
 - - biographical
   - details
   - are
-- - stories
-  - are
-  - baffling
-- - we
-  - shall
-  - share
 - - something
   - about
   - himself
+- - stories
+  - are
+  - baffling
 - - dropping
   - into
   - our
 - - incomprehensible
   - prose
   - are
+- - soon
+  - we
+  - shall
 - - into
   - our
   - soup
 - - little
   - yet
   - what
-- - soon
-  - we
-  - shall
 - - say
   - something
   - about
+- - their
+  - way
+  - through
 - - currently
   - adopting
   - an
 - - an
   - ungrammatical
   - sentence
-- - their
-  - way
-  - through
+- - new
+  - anthology
+  - so
 - - merely
   - an
   - average
-- - this
-  - pandemic
-  - delusion
 - - pitiless
   - length
   - one
+- - this
+  - pandemic
+  - delusion
 - - english
   - speakers
   - one
 - - this
   - bulging
   - anthology
-- - new
-  - anthology
-  - so
-- - has
-  - been
-  - collected
 - - we
   - know
   - communicating
 - - time
   - other
   - than
+- - case
+  - why
+  - so
 - - an
   - idiot
   - known
 - - adopting
   - an
   - air
+- - has
+  - been
+  - collected
 - - facts
   - about
   - him
-- - him
-  - vanish
-  - into
-- - case
-  - why
-  - so
-- - an
-  - early
+- - one
+  - example
+  - included
+- - length
+  - one
   - example
 story:
   date: 2008-10-20

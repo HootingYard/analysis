@@ -14,30 +14,30 @@ ngrams:
 - - willow
   - warbler
   - becomes
-- - warbler
-  - becomes
-  - critical
 - - uncommonly
   - piercing
   - vision
+- - warbler
+  - becomes
+  - critical
 - - verdant
   - willow
   - trees
-- - becomes
-  - critical
-  - bear
 - - distinctive
   - warbling
   - sound
+- - becomes
+  - critical
+  - bear
 - - local
   - lending
   - library
-- - near
-  - willow
-  - trees
 - - willow
   - trees
   - likely
+- - near
+  - willow
+  - trees
 - - hear
   - anything
   - resembling
@@ -83,12 +83,6 @@ ngrams:
 - - spend
   - profitable
   - time
-- - some
-  - willow
-  - saplings
-- - some
-  - tape
-  - recordings
 - - can
   - spend
   - profitable
@@ -101,105 +95,111 @@ ngrams:
 - - several
   - other
   - types
-- - other
-  - warbling
-  - birds
-- - garden
-  - some
+- - some
   - willow
+  - saplings
 - - after
   - much
   - diligent
+- - some
+  - tape
+  - recordings
 - - ornithologist
   - after
   - much
+- - other
+  - warbling
+  - birds
+- - can
+  - simply
+  - sprawl
 - - floor
   - several
   - other
 - - profitable
   - time
   - reading
+- - garden
+  - some
+  - willow
 - - its
   - name
   - suggests
-- - can
-  - simply
-  - sprawl
 - - 'no'
   - willow
   - trees
+- - take
+  - many
+  - years
 - - strain
   - your
   - feeble
 - - your
   - physical
   - robustness
-- - take
-  - many
-  - years
 - - your
   - local
   - lending
+- - willow
+  - saplings
+  - if
 - - your
   - propelling
   - pencil
-- - willow
-  - saplings
+- - debilitated
+  - limbs
   - if
 - - may
   - take
   - many
-- - debilitated
-  - limbs
-  - if
 - - wait
   - some
   - years
 - - lanyard
   - around
   - your
-- - around
-  - your
-  - neck
+- - reading
+  - books
+  - about
 - - take
   - your
   - binoculars
 - - take
   - your
   - notebook
-- - reading
-  - books
-  - about
-- - both
+- - around
   - your
-  - eyes
+  - neck
 - - only
   - do
   - several
 - - books
   - about
   - birds
-- - some
-  - willows
-  - do
-- - warbler
-  - which
-  - differentiates
+- - both
+  - your
+  - eyes
 - - do
   - several
   - other
+- - some
+  - willows
+  - do
+- - warbling
+  - birds
+  - there
+- - warbler
+  - which
+  - differentiates
+- - those
+  - concepts
+  - into
 - - willow
   - warbler
   - which
 - - where
   - your
   - ability
-- - those
-  - concepts
-  - into
-- - warbling
-  - birds
-  - there
 - - can
   - then
   - take
@@ -209,32 +209,32 @@ ngrams:
 - - time
   - reading
   - up
-- - your
-  - garden
-  - some
+- - one
+  - willow
+  - tree
 - - achieve
   - this
   - result
 - - lack
   - thereof
   - this
-- - one
-  - willow
-  - tree
-- - birds
-  - are
-  - known
 - - far
   - oh
   - so
 - - oh
   - so
   - far
+- - birds
+  - are
+  - known
+- - your
+  - garden
+  - some
+- - birds
+  - there
+  - might
 - - then
   - take
-  - your
-- - prick
-  - up
   - your
 story:
   date: 2014-04-08

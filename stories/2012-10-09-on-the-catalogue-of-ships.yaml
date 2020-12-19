@@ -17,36 +17,48 @@ ngrams:
 - - including
   - fishing
   - smacks
-- - ships
-  - including
-  - fishing
 - - spot
   - counting
   - captains
-- - four
+- - ships
+  - including
   - fishing
-  - smacks
 - - wet
   - wednesday
   - evening
 - - thousand
   - ships
   - including
+- - four
+  - fishing
+  - smacks
+- - seaside
+  - spot
+  - counting
 - - disguise
   - four
   - fishing
 - - writer
   - since
   - homer
-- - seaside
-  - spot
-  - counting
 - - half
   - thousand
   - ships
 - - greatest
   - writer
   - since
+- - similar
+  - seaside
+  - spot
+- - probably
+  - cheating
+  - making
+- - don't
+  - ask
+  - growled
+- - brightly
+  - don't
+  - ask
 - - marigold
   - chew
   - dallied
@@ -55,22 +67,10 @@ ngrams:
   - chew
 - - marigold
   - chew
-  - brightly
+  - leaned
 - - marigold
   - chew
-  - leaned
-- - don't
-  - ask
-  - growled
-- - brightly
-  - don't
-  - ask
-- - probably
-  - cheating
-  - making
-- - similar
-  - seaside
-  - spot
+  - brightly
 - - chew
   - brightly
   - don't
@@ -98,15 +98,21 @@ ngrams:
 - - read
   - homer
   - marigold
+- - actually
+  - read
+  - homer
 - - long
   - homer
   - sat
 - - ages
   - wherever
   - two
-- - actually
-  - read
-  - homer
+- - whole
+  - cloth
+  - well
+- - foul
+  - temper
+  - how
 - - going
   - asked
   - marigold
@@ -116,18 +122,12 @@ ngrams:
 - - two
   - thousand
   - ships
-- - foul
-  - temper
-  - how
-- - whole
-  - cloth
-  - well
-- - ask
-  - growled
-  - dobson
 - - great
   - nor
   - nearly
+- - ask
+  - growled
+  - dobson
 - - ship
   - after
   - ship
@@ -137,42 +137,42 @@ ngrams:
 - - chew
   - leaned
   - over
+- - learn
+  - after
+  - breakfast
 - - after
   - captain
   - ship
 - - captain
   - ship
   - after
-- - learn
-  - after
-  - breakfast
 - - its
   - famous
   - grove
 - - october
   - first
   - let
-- - until
-  - dobson
-  - calculated
 - - how
   - long
   - homer
-- - said
-  - marigold
-  - chew
 - - doubt
   - its
   - veracity
 - - captain
   - after
   - captain
-- - ship
-  - until
+- - pamphleteer
+  - gazed
+  - upon
+- - until
   - dobson
+  - calculated
 - - cloth
   - well
   - two
+- - said
+  - marigold
+  - chew
 - - veracity
   - long
   - after
@@ -182,15 +182,15 @@ ngrams:
 - - went
   - captain
   - after
-- - pamphleteer
-  - gazed
-  - upon
-- - after
-  - ship
-  - until
 - - thousand
   - ships
   - then
+- - after
+  - ship
+  - until
+- - ship
+  - until
+  - dobson
 - - morning
   - over
   - breakfast
@@ -200,63 +200,63 @@ ngrams:
 - - its
   - place
   - pulled
-- - its
-  - veracity
-  - long
 - - maiden
   - bore
   - them
+- - its
+  - veracity
+  - long
 - - some
   - similar
   - seaside
+- - homer
+  - 'no'
+  - strike
+- - temper
+  - how
+  - did
 - - wharf
   - said
   - dobson
+- - up
+  - inventing
+  - captains
+- - who
+  - dwell
+  - beyond
 - - ships
   - said
   - dobson
 - - after
   - breakfast
   - dobson
-- - homer
+- - since
+  - homer
   - 'no'
-  - strike
-- - who
-  - dwell
-  - beyond
-- - temper
-  - how
-  - did
-- - up
-  - inventing
-  - captains
 - - your
   - accumulated
   - pamphleteering
 - - him
   - later
   - sitting
-- - breakfast
-  - dobson
-  - did
-- - since
-  - homer
-  - 'no'
 - - door
   - behind
   - him
-- - behind
-  - him
-  - later
-- - their
-  - left
-  - ajax
+- - breakfast
+  - dobson
+  - did
 - - tallied
   - up
   - almost
+- - their
+  - left
+  - ajax
 - - mars
   - secretly
   - into
+- - behind
+  - him
+  - later
 - - know
   - how
   - long
@@ -266,24 +266,24 @@ ngrams:
 - - their
   - chieftains
   - came
-- - learn
-  - she
-  - said
 - - things
   - up
   - inventing
-- - marigold
-  - chew
-  - what
 - - nobody
   - will
   - dare
-- - ships
-  - all
-  - blotted
+- - marigold
+  - chew
+  - what
+- - learn
+  - she
+  - said
 - - worth
   - nobody
   - will
+- - ships
+  - all
+  - blotted
 - - making
   - things
   - up
@@ -293,24 +293,24 @@ ngrams:
 - - were
   - stationed
   - next
-- - asked
-  - dobson
-  - who
+- - well
+  - two
+  - can
+- - tallied
+  - up
+  - over
+- - their
+  - names
+  - after
 - - she
   - said
   - read
 - - said
   - dobson
   - where
-- - well
-  - two
-  - can
-- - their
-  - names
-  - after
-- - tallied
-  - up
-  - over
+- - asked
+  - dobson
+  - who
 - - will
   - become
   - known
@@ -320,36 +320,33 @@ ngrams:
 - - they
   - also
   - held
-- - dobson
-  - will
-  - resound
 - - persons
   - are
   - gathered
+- - dobson
+  - will
+  - resound
+- - nor
+  - nearly
+  - so
 - - are
   - gathered
   - together
 - - will
   - resound
   - down
-- - nor
-  - nearly
-  - so
-- - an
-  - upper
-  - chamber
 - - nearly
   - so
   - great
+- - an
+  - upper
+  - chamber
 - - chew
   - what
   - time
 - - this
   - wet
   - wednesday
-- - three
-  - captains
-  - one
 - - so
   - great
   - nor
@@ -359,15 +356,18 @@ ngrams:
 - - these
   - there
   - came
+- - three
+  - captains
+  - one
 - - 'no'
   - question
   - about
+- - mighty
+  - voices
+  - but
 - - door
   - where
   - are
-- - here
-  - all
-  - day
 story:
   date: 2012-10-09
   id: 2012-10-09-on-the-catalogue-of-ships

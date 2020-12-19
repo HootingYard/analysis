@@ -20,27 +20,27 @@ ngrams:
 - - cows
   - stood
   - dazed
-- - ferocious
-  - tyrant
-  - known
 - - sure
   - muttering
   - darkly
 - - drunken
   - despair
   - within
-- - tod
-  - whose
-  - office
+- - ferocious
+  - tyrant
+  - known
 - - credulous
   - foreign
   - person
-- - despair
-  - within
-  - seconds
 - - gibbering
   - along
   - hollyhock
+- - despair
+  - within
+  - seconds
+- - tod
+  - whose
+  - office
 - - buttercups
   - nor
   - tod
@@ -59,15 +59,15 @@ ngrams:
 - - indeed
   - pretty
   - muttered
+- - neither
+  - buttercups
+  - nor
 - - you'll
   - find
   - sneered
 - - pamphleteer
   - whose
   - pamphlets
-- - neither
-  - buttercups
-  - nor
 - - bells
   - still
   - clanged
@@ -80,42 +80,36 @@ ngrams:
 - - yours
   - ran
   - away
-- - sawdust
-  - dobson
-  - answered
 - - those
   - benighted
   - bells
+- - bells
+  - o
+  - how
+- - sawdust
+  - dobson
+  - answered
+- - away
+  - gibbering
+  - along
+- - stunned
+  - our
+  - fields
 - - mute
   - dobson
   - sat
 - - speech
   - young
   - dobson
-- - bells
-  - o
-  - how
-- - stunned
-  - our
-  - fields
-- - away
-  - gibbering
-  - along
 - - think
   - you'll
   - find
 - - village
-  - dobson
-  - came
-- - village
   - far
   - away
-- - some
-  - credulous
-  - foreign
-- - answered
-  - him
-  - regardless
+- - village
+  - dobson
+  - came
 - - many
   - cows
   - too
@@ -125,96 +119,102 @@ ngrams:
 - - too
   - many
   - cows
+- - some
+  - credulous
+  - foreign
 - - shall
   - find
   - old
-- - many
-  - many
-  - cows
+- - answered
+  - him
+  - regardless
 - - them
   - fully
   - occupied
+- - many
+  - many
+  - cows
 - - came
   - here
   - once
 - - many
   - years
   - ago
-- - pretty
-  - fields
-  - who
 - - kept
   - them
   - fully
+- - pretty
+  - fields
+  - who
 - - business
   - kept
   - them
-- - made
-  - her
-  - examination
-- - other
-  - mute
-  - dobson
-- - find
-  - old
-  - man
 - - foreign
   - person
   - who
-- - dobson
-  - came
-  - here
+- - find
+  - old
+  - man
+- - other
+  - mute
+  - dobson
 - - years
   - now
   - since
-- - woman
-  - made
+- - dobson
+  - came
+  - here
+- - made
   - her
-- - your
-  - pretty
-  - fields
-- - your
-  - speech
-  - young
+  - examination
 - - far
   - away
   - where
+- - your
+  - pretty
+  - fields
 - - brains
   - sucked
   - into
+- - your
+  - speech
+  - young
 - - sucked
   - into
   - space
-- - dobson
-  - answered
-  - him
+- - woman
+  - made
+  - her
 - - were
   - numberless
   - cows
-- - person
-  - who
-  - came
 - - clanged
   - ceaselessly
   - all
-- - whose
-  - pamphlets
-  - were
-- - they
-  - clanged
-  - ceaselessly
+- - person
+  - who
+  - came
+- - dobson
+  - answered
+  - him
 - - count
   - all
   - dazed
-- - her
-  - examination
-  - do
+- - they
+  - clanged
+  - ceaselessly
+- - whose
+  - pamphlets
+  - were
 - - hollyhock
   - lane
   - they
 - - lane
   - they
   - recovered
+- - week
+  - later
+  - when
 story:
   date: 2005-06-13
   id: 2005-06-13-those-gubernatorial-bells

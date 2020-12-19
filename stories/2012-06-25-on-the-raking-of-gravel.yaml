@@ -26,33 +26,33 @@ ngrams:
 - - electrified
   - fence
   - mindful
-- - rented
-  - country
-  - cottage
 - - local
   - historical
   - significance
+- - rented
+  - country
+  - cottage
 - - towards
   - midday
   - returning
-- - fence
-  - towards
-  - midday
-- - electrified
-  - fence
-  - towards
 - - rake
   - leaning
   - against
-- - living
-  - room
-  - crowded
+- - fence
+  - towards
+  - midday
 - - clappers
   - along
   - twisting
 - - along
   - twisting
   - bosky
+- - electrified
+  - fence
+  - towards
+- - living
+  - room
+  - crowded
 - - animated
   - discussion
   - around
@@ -62,15 +62,15 @@ ngrams:
 - - too
   - systematic
   - fashion
-- - room
-  - crowded
-  - around
-- - historical
-  - significance
-  - ever
 - - rustic
   - interest
   - though
+- - historical
+  - significance
+  - ever
+- - room
+  - crowded
+  - around
 - - hours
   - until
   - evening
@@ -83,87 +83,87 @@ ngrams:
 - - significance
   - ever
   - taken
-- - low
-  - wall
-  - after
 - - bafflement
   - over
   - lunch
+- - low
+  - wall
+  - after
 - - day
   - trudging
   - disconsolately
-- - disconsolately
-  - after
-  - breakfast
-- - stroll
-  - after
-  - breakfast
 - - any
   - queries
   - regarding
+- - disconsolately
+  - after
+  - breakfast
 - - than
   - rake
   - gravel
-- - after
+- - stroll
+  - after
   - breakfast
-  - peering
 - - quite
   - different
   - set
+- - after
+  - breakfast
+  - peering
 - - shortly
   - after
   - breakfast
 - - fields
   - belong
   - where
+- - its
+  - electrified
+  - fence
+- - its
+  - electrified
+  - fence
+- - its
+  - electrified
+  - fence
+- - its
+  - electrified
+  - fence
+- - its
+  - electrified
+  - fence
 - - drive
   - 'off'
   - again
-- - its
-  - electrified
-  - fence
-- - its
-  - electrified
-  - fence
-- - its
-  - electrified
-  - fence
-- - its
-  - electrified
-  - fence
-- - its
-  - electrified
-  - fence
-- - ever
-  - taken
-  - place
 - - discover
   - other
   - points
-- - belong
+- - ever
+  - taken
+  - place
+- - brake
   - where
   - does
-- - brake
+- - belong
   - where
   - does
 - - next
   - day
   - trudging
-- - after
-  - breakfast
-  - again
 - - without
   - any
   - sign
+- - after
+  - breakfast
+  - again
 - - pass
   - without
   - any
-- - next
-  - morning
-  - after
 - - make
   - any
   - queries
+- - next
+  - morning
+  - after
 - - spot
   - him
   - raking
@@ -173,12 +173,18 @@ ngrams:
 - - over
   - lunch
   - before
-- - slap
-  - up
-  - lunch
 - - much
   - hogwash
   - now
+- - slap
+  - up
+  - lunch
+- - served
+  - their
+  - purpose
+- - most
+  - dangerous
+  - time
 - - load
   - your
   - luggage
@@ -188,102 +194,90 @@ ngrams:
 - - discuss
   - your
   - bafflement
-- - served
-  - their
-  - purpose
-- - your
-  - delegate
-  - managed
-- - most
-  - dangerous
-  - time
 - - slap
   - up
   - breakfast
-- - your
-  - afternoon
-  - nap
-- - your
-  - afternoon
-  - nap
 - - spinney
   - what
   - legends
-- - name
-  - who
-  - pays
-- - any
-  - other
-  - focus
+- - your
+  - delegate
+  - managed
 - - mild
   - outrage
   - when
-- - some
-  - hours
-  - until
+- - your
+  - afternoon
+  - nap
+- - your
+  - afternoon
+  - nap
 - - bosky
   - lanes
   - when
-- - other
-  - than
-  - rake
-- - see
-  - him
-  - raking
 - - friendly
   - if
   - condescending
-- - him
-  - how
-  - extensive
-- - joy
-  - when
-  - shortly
+- - any
+  - other
+  - focus
+- - name
+  - who
+  - pays
+- - other
+  - than
+  - rake
 - - if
   - condescending
   - conversation
+- - joy
+  - when
+  - shortly
+- - some
+  - hours
+  - until
+- - see
+  - him
+  - raking
 - - suggested
   - question
   - about
+- - him
+  - how
+  - extensive
 - - electrified
   - fence
   - will
 - - wages
   - what
   - does
+- - evening
+  - when
+  - looking
 - - will
   - peek
   - inside
+- - will
+  - feel
+  - yourselves
+- - ears
+  - will
+  - prick
+- - breakfast
+  - peering
+  - out
+- - fence
+  - will
+  - seem
+- - question
+  - about
+  - whether
 - - first
   - meet
   - him
 - - put
   - your
   - questions
-- - will
-  - feel
-  - yourselves
-- - evening
-  - when
-  - looking
-- - ears
-  - will
-  - prick
-- - fence
-  - will
-  - seem
-- - breakfast
-  - peering
-  - out
-- - question
-  - about
-  - whether
-- - has
-  - any
-  - event
-- - will
-  - hear
-  - outside
 - - electrified
   - fence
   - there
@@ -293,78 +287,84 @@ ngrams:
 - - interest
   - though
   - what
-- - see
-  - him
-  - again
+- - will
+  - hear
+  - outside
 - - peek
   - inside
   - there
+- - has
+  - any
+  - event
 - - until
   - evening
   - when
+- - see
+  - him
+  - again
 - - will
   - pass
   - without
+- - ensues
+  - later
+  - there
+- - gravel
+  - will
+  - go
 - - lunch
   - before
   - your
+- - legends
+  - are
+  - associated
 - - after
   - your
   - afternoon
 - - gnomic
   - utterance
   - which
-- - legends
-  - are
-  - associated
 - - your
   - bafflement
   - over
-- - gravel
-  - will
-  - go
-- - before
-  - your
-  - afternoon
 - - end
   - has
   - any
-- - ensues
-  - later
-  - there
+- - before
+  - your
+  - afternoon
 - - may
   - open
   - up
-- - will
-  - drive
-  - 'off'
 - - those
   - questions
   - about
 - - when
   - shortly
   - after
+- - will
+  - drive
+  - 'off'
 - - day
   - before
   - then
 - - will
   - first
   - meet
-- - only
-  - response
-  - will
 - - 'no'
   - more
   - attention
-- - pay
-  - him
-  - 'no'
-- - all
-  - those
-  - questions
+- - only
+  - response
+  - will
 - - day
   - will
   - pass
+- - all
+  - those
+  - questions
+- - following
+  - day
+  - will
 story:
   date: 2012-06-25
   id: 2012-06-25-on-the-raking-of-gravel

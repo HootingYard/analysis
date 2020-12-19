@@ -8,12 +8,12 @@ ngrams:
 - - kiosk
   - selling
   - tickets
-- - verdant
-  - vale
-  - below
 - - pig's
   - sickness
   - tried
+- - verdant
+  - vale
+  - below
 - - curing
   - sick
   - pigs
@@ -26,48 +26,48 @@ ngrams:
 - - sick
   - pig
   - ailed
-- - piggery
-  - person
-  - felled
 - - sick
   - pig
   - cured
-- - gigantic
-  - mythical
-  - bird
-- - assistant
-  - piggery
-  - person
-- - assistant
-  - piggery
-  - person
 - - piggery
   - person
-  - studied
+  - felled
 - - pig
   - stayed
   - sick
 - - piggery
   - person
+  - studied
+- - assistant
+  - piggery
+  - person
+- - assistant
+  - piggery
+  - person
+- - piggery
+  - person
   - bashed
-- - pocket
-  - six
-  - weeks
+- - gigantic
+  - mythical
+  - bird
 - - second
   - pie
   - shop
+- - pocket
+  - six
+  - weeks
 - - piggery
   - person
   - looked
-- - big
-  - black
-  - beetle
 - - long
   - bony
   - finger
 - - piggery
   - person
   - whose
+- - big
+  - black
+  - beetle
 - - six
   - weeks
   - later
@@ -86,21 +86,21 @@ ngrams:
 - - sick
   - pig
   - once
-- - person
-  - whose
-  - pig
 - - many
   - diplomas
   - hanging
 - - skipping
   - jauntily
   - back
-- - dobson
-  - pamphlets
-  - scattered
+- - person
+  - whose
+  - pig
 - - long
   - journey
   - across
+- - dobson
+  - pamphlets
+  - scattered
 - - same
   - moment
   - far
@@ -125,6 +125,9 @@ ngrams:
 - - sick
   - pig
   - now
+- - surgery
+  - even
+  - though
 - - undergone
   - many
   - years
@@ -137,39 +140,36 @@ ngrams:
 - - town
   - far
   - away
+- - far
+  - away
+  - across
+- - far
+  - away
+  - across
+- - far
+  - away
+  - across
+- - far
+  - away
+  - across
 - - bigger
   - plucked
   - him
-- - surgery
-  - even
-  - though
-- - far
-  - away
-  - across
-- - far
-  - away
-  - across
-- - far
-  - away
-  - across
-- - far
-  - away
-  - across
-- - person
-  - felled
-  - him
+- - pig
+  - once
+  - upon
 - - vet
   - rolled
   - up
 - - person
-  - bashed
+  - felled
   - him
 - - many
   - diplomas
   - now
-- - pig
-  - once
-  - upon
+- - person
+  - bashed
+  - him
 - - woman
   - who
   - gave
@@ -179,15 +179,15 @@ ngrams:
 - - vet
   - who
   - put
+- - remembered
+  - hearing
+  - about
 - - green
   - who
   - set
 - - diplomas
   - were
   - displayed
-- - remembered
-  - hearing
-  - about
 - - hammered
   - nails
   - into
@@ -197,18 +197,18 @@ ngrams:
 - - leafed
   - through
   - some
-- - person
-  - looked
-  - up
 - - sickness
   - tried
   - out
-- - looming
-  - over
-  - him
+- - person
+  - looked
+  - up
 - - knocked
   - me
   - aside
+- - looming
+  - over
+  - him
 - - carried
   - them
   - back
@@ -221,48 +221,39 @@ ngrams:
 - - hills
   - there
   - lived
-- - man
-  - who
-  - put
-- - many
-  - diplomas
-  - were
 - - say
   - about
   - pigs
-- - jauntily
-  - back
-  - into
+- - man
+  - who
+  - put
 - - owl
   - sanctuary
   - so
+- - many
+  - diplomas
+  - were
+- - jauntily
+  - back
+  - into
 - - became
   - so
   - engrossed
 - - soared
   - down
   - into
-- - man
-  - dressed
-  - all
-- - man
-  - dressed
-  - all
-- - man
-  - dressed
-  - all
-- - who
-  - gave
-  - him
 - - about
   - pigs
   - now
-- - an
-  - owl
-  - sanctuary
-- - an
-  - ironmongery
-  - beyond
+- - man
+  - dressed
+  - all
+- - man
+  - dressed
+  - all
+- - man
+  - dressed
+  - all
 - - path
   - again
   - so
@@ -273,11 +264,20 @@ ngrams:
   - while
   - waiting
 - - who
-  - set
+  - gave
   - him
+- - an
+  - owl
+  - sanctuary
+- - an
+  - ironmongery
+  - beyond
 - - me
   - aside
   - now
+- - who
+  - set
+  - him
 - - bashed
   - him
   - about
@@ -287,66 +287,66 @@ ngrams:
 - - vet
   - had
   - demonstrated
-- - had
-  - twice
-  - encountered
 - - shoved
   - them
   - into
-- - piggery
-  - person
-  - had
+- - had
+  - twice
+  - encountered
 - - tony
   - buzan
   - but
-- - vet's
-  - surgery
-  - from
 - - but
   - bigger
   - plucked
+- - piggery
+  - person
+  - had
+- - vet's
+  - surgery
+  - from
 - - rolled
   - up
   - all
-- - tips
-  - from
-  - books
 - - bony
   - finger
   - at
-- - had
-  - undergone
-  - many
-- - skills
-  - at
-  - curing
 - - vet's
   - skills
   - at
+- - skills
+  - at
+  - curing
 - - at
   - curing
   - sick
+- - tips
+  - from
+  - books
+- - had
+  - undergone
+  - many
 - - took
   - tips
   - from
-- - by
-  - tony
-  - buzan
 - - town
   - one
   - day
 - - by
+  - tony
+  - buzan
+- - by
   - iron
   - butterfly
+- - even
+  - giraffes
+  - but
 - - books
   - by
   - tony
 - - twice
   - you
   - knocked
-- - even
-  - giraffes
-  - but
 story:
   date: 2007-06-20
   id: 2007-06-20-the-sick-pig

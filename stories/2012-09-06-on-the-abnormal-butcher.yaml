@@ -8,18 +8,18 @@ ngrams:
 - - haste
   - blossom
   - partridge
-- - impromptu
-  - boxing
-  - match
-- - impromptu
-  - boxing
-  - match
-- - impromptu
-  - boxing
-  - match
 - - storage
   - facility
   - adjacent
+- - impromptu
+  - boxing
+  - match
+- - impromptu
+  - boxing
+  - match
+- - impromptu
+  - boxing
+  - match
 - - slightly
   - higher
   - slope
@@ -32,36 +32,36 @@ ngrams:
 - - slightly
   - lower
   - slope
-- - special
-  - offer
-  - whereby
 - - utterly
   - magnificent
   - potboiler
-- - detective
-  - fiction
-  - genre
-- - detective
-  - fiction
-  - genre
+- - special
+  - offer
+  - whereby
 - - simple
   - narrative
   - ineptitude
-- - boxing
-  - match
-  - try
+- - detective
+  - fiction
+  - genre
+- - detective
+  - fiction
+  - genre
 - - fiction
   - genre
   - consider
-- - extended
-  - essay
-  - entitled
+- - boxing
+  - match
+  - try
 - - accompanying
   - letter
   - reads
 - - stout
   - walking
   - boots
+- - extended
+  - essay
+  - entitled
 - - large
   - storage
   - facility
@@ -71,24 +71,24 @@ ngrams:
 - - central
   - character
   - ned
-- - o'
-  - prose
-  - bashing
 - - eye
   - ned
   - mossop
 - - private
   - eye
   - ned
-- - chalet
-  - o'
+- - o'
   - prose
+  - bashing
 - - riveted
   - really
   - really
 - - really
   - really
   - riveted
+- - chalet
+  - o'
+  - prose
 - - books
   - others
   - crop
@@ -131,21 +131,21 @@ ngrams:
 - - few
   - dozen
   - further
-- - frustrating
-  - our
-  - desires
 - - head
   - finally
   - draining
+- - purpose
+  - why
+  - does
+- - frustrating
+  - our
+  - desires
 - - our
   - dainty
   - teacup
 - - draining
   - our
   - dainty
-- - purpose
-  - why
-  - does
 - - finally
   - draining
   - our
@@ -155,27 +155,36 @@ ngrams:
 - - our
   - stout
   - walking
-- - regret
-  - our
-  - fit
 - - even
   - minimally
   - coherent
-- - being
-  - short
-  - instead
+- - regret
+  - our
+  - fit
 - - dear
   - mr
   - key
+- - being
+  - short
+  - instead
+- - diverting
+  - our
+  - attention
 - - our
   - bare
   - hands
 - - potboilers
   - now
   - numbering
-- - diverting
-  - our
-  - attention
+- - howling
+  - gale
+  - then
+- - given
+  - over
+  - wholly
+- - only
+  - exasperating
+  - thing
 - - digest
   - her
   - accompanying
@@ -188,27 +197,21 @@ ngrams:
 - - weekly
   - digest
   - her
-- - howling
-  - gale
-  - then
 - - her
   - accompanying
   - letter
-- - only
-  - exasperating
-  - thing
-- - given
-  - over
-  - wholly
 - - novel
   - each
   - day
-- - undone
-  - him
-  - postscript
 - - being
   - examined
   - through
+- - undone
+  - him
+  - postscript
+- - mr
+  - key
+  - much
 - - him
   - postscript
   - blossom
@@ -221,30 +224,27 @@ ngrams:
 - - critics
   - who
   - claim
-- - mr
-  - key
-  - much
-- - b
-  - who
-  - won
 - - our
   - head
   - finally
+- - b
+  - who
+  - won
 - - calmed
   - down
   - over
 - - 'no'
   - apparent
   - purpose
+- - popping
+  - their
+  - heads
 - - distance
   - getting
   - up
 - - others
   - crop
   - up
-- - popping
-  - their
-  - heads
 - - 'no'
   - space
   - available
@@ -254,21 +254,18 @@ ngrams:
 - - their
   - heads
   - above
-- - sally
-  - forth
-  - into
-- - time
-  - being
-  - short
 - - alpine
   - crevasse
   - when
+- - time
+  - being
+  - short
 - - when
   - ned
   - mossop
-- - examined
-  - through
-  - some
+- - sally
+  - forth
+  - into
 - - jot
   - whether
   - what
@@ -278,15 +275,15 @@ ngrams:
 - - produces
   - will
   - sell
+- - examined
+  - through
+  - some
 - - prose
   - bashing
   - out
 - - neither
   - scene
   - out
-- - through
-  - some
-  - sort
 - - unreadable
   - later
   - when
@@ -296,6 +293,9 @@ ngrams:
 - - sits
   - there
   - puffing
+- - through
+  - some
+  - sort
 - - offer
   - whereby
   - we
@@ -308,9 +308,6 @@ ngrams:
 - - biscuits
   - we
   - regret
-- - crop
-  - up
-  - here
 - - we
   - sally
   - forth
@@ -320,42 +317,45 @@ ngrams:
 - - nuns
   - we
   - met
-- - caligula
-  - snodgrass
-  - are
-- - blossom
-  - partridge
-  - which
+- - crop
+  - up
+  - here
 - - baker's
   - dozen
   - so
-- - snodgrass
+- - caligula
+  - snodgrass
   - are
-  - engaged
 - - biscuits
   - we
   - put
-- - partridge
+- - snodgrass
+  - are
+  - engaged
+- - blossom
+  - partridge
   - which
-  - appeared
 - - publication
   - because
   - there
-- - has
-  - undone
-  - him
 - - many
   - more
   - than
 - - out
   - our
   - shopping
+- - partridge
+  - which
+  - appeared
 - - pad
   - out
   - our
 - - several
   - issues
   - are
+- - has
+  - undone
+  - him
 - - issues
   - are
   - given
@@ -365,23 +365,23 @@ ngrams:
 - - an
   - alpine
   - crevasse
-- - miss
-  - an
-  - issue
 - - caring
   - one
   - jot
+- - miss
+  - an
+  - issue
 - - we
   - regret
   - our
 - - snap
   - them
   - up
-- - merely
-  - stated
-  - this
 - - argued
   - precisely
+  - this
+- - merely
+  - stated
   - this
 story:
   date: 2012-09-06

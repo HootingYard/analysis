@@ -1,31 +1,19 @@
 ngrams:
-- - horace
-  - '-'
-  - unwary
 - - tense
   - spy
   - thriller
-- - '-'
-  - tense
-  - spy
-- - prehistoric
-  - jazz
-  - adventure
 - - dinah
   - shore
   - ruled
+- - prehistoric
+  - jazz
+  - adventure
 - - aka
   - china
   - girl
-- - girl
-  - '-'
-  - tense
 - - buckingham
   - palace
   - leagues
-- - china
-  - girl
-  - '-'
 - - priceless
   - dinner
   - plates
@@ -35,15 +23,12 @@ ngrams:
 - - service
   - aka
   - china
-- - roman
-  - poet
-  - quintus
 - - terrifying
   - prehistoric
   - jazz
-- - hyde
-  - park
-  - '-'
+- - roman
+  - poet
+  - quintus
 - - sir
   - idly
   - browsing
@@ -53,21 +38,36 @@ ngrams:
 - - remain
   - etc
   - max
-- - gravy
-  - '-'
-  - fear
 - - absolutely
   - terrifying
   - prehistoric
+- - horace
+  - '-'
+  - unwary
+- - '-'
+  - tense
+  - spy
+- - girl
+  - '-'
+  - tense
+- - china
+  - girl
+  - '-'
+- - hyde
+  - park
+  - '-'
+- - gravy
+  - '-'
+  - fear
+- - palace
+  - leagues
+  - under
 - - '-'
   - absolutely
   - terrifying
 - - earth
   - '-'
   - absolutely
-- - palace
-  - leagues
-  - under
 - - mr
   - hyde
   - park

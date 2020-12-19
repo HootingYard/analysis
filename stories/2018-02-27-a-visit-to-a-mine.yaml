@@ -1,37 +1,37 @@
 ngrams:
-- - valentine
-  - ackland
-  - memorial
-- - ackland
-  - memorial
-  - college
 - - spiteful
   - incontinent
   - peevish
 - - incontinent
   - peevish
   - lippy
-- - townsend
-  - warner
+- - ackland
+  - memorial
+  - college
+- - valentine
+  - ackland
   - memorial
 - - peevish
   - lippy
   - rancorous
+- - townsend
+  - warner
+  - memorial
 - - warner
   - memorial
   - shaft
-- - wretched
-  - spiteful
-  - incontinent
 - - sylvia
   - townsend
   - warner
-- - properties
-  - closely
-  - resembling
+- - wretched
+  - spiteful
+  - incontinent
 - - outright
   - idiotic
   - chief
+- - properties
+  - closely
+  - resembling
 - - g
   - gordon
   - liddy
@@ -41,57 +41,57 @@ ngrams:
 - - idiotic
   - chief
   - engineers
-- - salt
-  - you've
-  - mined
 - - e
   - howard
   - hunt
 - - watergate
   - hearings
   - shortly
+- - salt
+  - you've
+  - mined
 - - winding
   - horrible
   - tunnel
+- - oppressive
+  - bureaucracy
+  - consider
+- - weird
+  - hunched
+  - albino
 - - white's
   - seven
   - mining
 - - seven
   - mining
   - dwarves
-- - robert
-  - c
-  - mardian
-- - weird
-  - hunched
-  - albino
-- - oppressive
-  - bureaucracy
-  - consider
-- - chief
-  - engineers
-  - arrived
 - - h
   - r
   - haldeman
-- - engineers
+- - chief
+  - engineers
   - arrived
-  - excellent
-- - john
-  - martha
-  - mitchell
-- - drew
-  - sharp
-  - pointed
 - - fellow
   - chief
   - engineers
+- - robert
+  - c
+  - mardian
+- - engineers
+  - arrived
+  - excellent
+- - drew
+  - sharp
+  - pointed
 - - seven
   - chief
   - engineers
 - - huge
   - underground
   - aviary
+- - john
+  - martha
+  - mitchell
 - - players
   - including
   - nixon
@@ -104,30 +104,30 @@ ngrams:
 - - hunched
   - albino
   - men
+- - o
+  - weird
+  - hunched
 - - dark
   - winding
   - horrible
 - - safe
   - side
   - volunteered
-- - o
-  - weird
-  - hunched
 - - don't
   - care
   - besides
-- - engineers
-  - went
-  - pootling
 - - whole
   - sorry
   - business
 - - engineers
-  - lippy
-  - called
+  - went
+  - pootling
 - - chief
   - engineers
   - went
+- - engineers
+  - lippy
+  - called
 - - salt
   - lippy
   - went
@@ -143,15 +143,18 @@ ngrams:
 - - including
   - nixon
   - himself
+- - horrible
+  - tunnel
+  - go
 - - excessively
   - long
   - dark
 - - long
   - dark
   - winding
-- - horrible
-  - tunnel
-  - go
+- - dissemble
+  - well
+  - o
 - - lippy
   - addressing
   - us
@@ -164,9 +167,9 @@ ngrams:
 - - us
   - drew
   - sharp
-- - dissemble
-  - well
+- - well
   - o
+  - weird
 - - much
   - salt
   - you've
@@ -176,9 +179,6 @@ ngrams:
 - - assume
   - these
   - names
-- - well
-  - o
-  - weird
 - - besides
   - our
   - shift
@@ -188,12 +188,12 @@ ngrams:
 - - said
   - lippy
   - addressing
-- - care
-  - besides
-  - our
 - - excellent
   - said
   - lippy
+- - care
+  - besides
+  - our
 - - called
   - us
   - miners
@@ -203,12 +203,12 @@ ngrams:
 - - went
   - pootling
   - 'off'
-- - arrived
-  - excellent
-  - said
 - - pit
   - said
   - lippy
+- - arrived
+  - excellent
+  - said
 - - lippy
   - went
   - back
@@ -218,117 +218,117 @@ ngrams:
 - - like
   - snow
   - white's
-- - only
-  - three
-  - miners
 - - shortly
   - before
   - going
+- - only
+  - three
+  - miners
 - - omit
   - our
   - own
 - - engineers
   - yet
   - only
+- - how
+  - much
+  - salt
 - - our
   - own
   - names
 - - tunnel
   - go
   - down
-- - how
-  - much
-  - salt
-- - pootling
-  - 'off'
-  - down
-- - drive
-  - them
-  - insane
-- - tad
-  - just
-  - before
 - - might
   - assume
   - these
-- - yet
-  - only
-  - three
+- - drive
+  - them
+  - insane
+- - pootling
+  - 'off'
+  - down
+- - tad
+  - just
+  - before
 - - lippy
   - then
   - perhaps
-- - salt
-  - down
-  - here
 - - reflect
   - their
   - personalities
+- - yet
+  - only
+  - three
+- - salt
+  - down
+  - here
 - - consult
   - their
   - academic
 - - their
   - academic
   - reports
-- - your
-  - fellow
-  - chief
 - - blown
   - over
   - now
 - - over
   - now
   - faced
+- - your
+  - fellow
+  - chief
 - - before
   - going
   - down
 - - chief
   - engineers
   - were
+- - said
+  - lippy
+  - then
 - - mind
   - your
   - step
 - - actually
   - been
   - looking
-- - said
-  - lippy
-  - then
 - - other
   - six
   - said
-- - two
-  - colleagues
-  - who
 - - find
   - 'no'
   - salt
-- - engineers
-  - were
-  - known
+- - two
+  - colleagues
+  - who
 - - see
   - them
   - coming
+- - engineers
+  - were
+  - known
 - - them
   - coming
   - back
+- - vernon
+  - walters
+  - we
 - - shift
   - will
   - soon
 - - fellows
   - they
   - finished
+- - chief
+  - engineers
+  - we
+- - nixon
+  - administration
+  - we
 - - mine
   - they
   - descended
-- - vernon
-  - walters
-  - we
-- - gnome
-  - they
-  - stood
-- - they
-  - stood
-  - puffing
 story:
   date: 2018-02-27
   id: 2018-02-27-a-visit-to-a-mine

@@ -11,21 +11,21 @@ ngrams:
 - - inhuman
   - speed
   - hairy
-- - evening
-  - pursuit
-  - thomas
 - - rustic
   - evening
   - pursuit
-- - sheet
-  - music
-  - tucked
+- - evening
+  - pursuit
+  - thomas
 - - evening
   - fear
   - stalks
 - - countryside
   - especially
   - fear
+- - sheet
+  - music
+  - tucked
 - - thomas
   - hardy
   - wrote
@@ -41,12 +41,12 @@ ngrams:
 - - particularly
   - during
   - rainfall
-- - grunty
-  - man's
-  - tiny
 - - lair
   - until
   - lured
+- - grunty
+  - man's
+  - tiny
 - - man's
   - tiny
   - hot
@@ -56,18 +56,18 @@ ngrams:
 - - tom
   - sails
   - away
-- - man
-  - teasingly
-  - pelted
+- - every
+  - single
+  - evening
 - - haystack
   - knocking
   - back
 - - work
   - particularly
   - during
-- - every
-  - single
-  - evening
+- - man
+  - teasingly
+  - pelted
 - - grunty
   - man
   - teasingly
@@ -80,48 +80,48 @@ ngrams:
 - - come
   - far
   - tied
-- - songs
-  - always
-  - made
 - - graveyards
   - far
   - away
-- - man
-  - came
-  - bounding
+- - songs
+  - always
+  - made
 - - until
   - lured
   - back
-- - grunty
-  - man
+- - man
   - came
+  - bounding
 - - other
   - rustic
   - evening
-- - came
-  - bounding
-  - down
-- - like
-  - christ
-  - during
+- - grunty
+  - man
+  - came
 - - rather
   - than
   - removing
+- - came
+  - bounding
+  - down
 - - sets
   - can
   - resemble
-- - look
-  - like
-  - christ
 - - can
   - resemble
   - christ
+- - like
+  - christ
+  - during
 - - woods
   - where
   - once
 - - sun
   - sets
   - can
+- - look
+  - like
+  - christ
 - - many
   - many
   - pebbles
@@ -143,87 +143,93 @@ ngrams:
 - - leaned
   - their
   - spades
-- - their
-  - day's
-  - digging
 - - latter
   - can
   - look
+- - their
+  - day's
+  - digging
 - - those
   - years
   - ago
 - - their
   - spades
   - tied
-- - passion
-  - carrying
-  - their
-- - carrying
-  - their
-  - spades
 - - tied
   - their
   - donkeys
-- - glade
-  - some
-  - came
-- - their
+- - carrying
+  - their
   - spades
-  - remain
-- - tease
-  - him
-  - rather
+- - passion
+  - carrying
+  - their
 - - spectator
   - make
   - then
+- - their
+  - spades
+  - remain
+- - glade
+  - some
+  - came
 - - brought
   - their
   - spades
+- - tease
+  - him
+  - rather
 - - held
   - their
   - fear
-- - 'no'
-  - longer
-  - looked
 - - their
   - spades
   - against
-- - let
-  - their
-  - spades
+- - 'no'
+  - longer
+  - looked
 - - songs
   - trooping
   - into
-- - trooping
-  - into
-  - dennis
-- - made
-  - him
-  - flee
 - - tough
   - cloth
   - if
-- - man
-  - many
-  - many
-- - him
-  - flee
-  - back
-- - music
-  - tucked
+- - let
+  - their
+  - spades
+- - trooping
   - into
+  - dennis
 - - will
   - wear
   - overalls
 - - hardy
   - wrote
   - about
+- - music
+  - tucked
+  - into
+- - man
+  - many
+  - many
+- - made
+  - him
+  - flee
 - - far
   - tied
   - their
+- - him
+  - flee
+  - back
+- - lane
+  - particularly
+  - if
 - - choir
   - all
   - singing
+- - christ
+  - however
+  - if
 - - gatherings
   - they
   - leaned
@@ -239,30 +245,30 @@ ngrams:
 - - stockbridge
   - they
   - sang
+- - perfectly
+  - what
+  - must
 - - they
   - sang
   - marie
-- - they
-  - sang
-  - tom
 - - eagle
   - they
   - sang
 - - they
   - sang
+  - tom
+- - they
+  - sang
   - luck
-- - sick
-  - eagle
-  - they
+- - wessex
+  - woods
+  - there
 - - silent
   - they
   - stooped
-- - lane
-  - particularly
-  - if
-- - perfectly
-  - what
-  - must
+- - sick
+  - eagle
+  - they
 - - mother
   - taught
   - me
@@ -275,66 +281,60 @@ ngrams:
 - - will
   - wear
   - black
-- - christ
-  - however
-  - if
-- - always
-  - made
-  - him
-- - wessex
-  - woods
-  - there
-- - flee
-  - back
-  - up
-- - stray
-  - although
-  - they
 - - than
   - removing
   - them
-- - fell
-  - silent
-  - they
-- - some
-  - other
-  - rustic
 - - thomas
   - hardy
   - would
-- - gathered
-  - together
-  - they
+- - flee
+  - back
+  - up
 - - choir
   - would
   - line
+- - stray
+  - although
+  - they
+- - fell
+  - silent
+  - they
+- - always
+  - made
+  - him
+- - some
+  - other
+  - rustic
+- - gathered
+  - together
+  - they
 - - together
   - they
   - began
-- - can
-  - look
-  - like
 - - glade
   - they
   - came
+- - upon
+  - their
+  - tough
+- - can
+  - look
+  - like
 - - him
   - rather
   - than
 - - they
   - came
   - directly
-- - although
-  - they
-  - let
-- - next
-  - they
-  - gathered
 - - grunting
   - until
   - they
-- - upon
-  - their
-  - tough
+- - next
+  - they
+  - gathered
+- - although
+  - they
+  - let
 - - muck
   - muck
   - which

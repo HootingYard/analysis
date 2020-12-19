@@ -1,7 +1,4 @@
 ngrams:
-- - samuel
-  - butler
-  - '-'
 - - website
   - samuel
   - butler
@@ -11,15 +8,18 @@ ngrams:
 - - happily
   - butler
   - writes
-- - custard
-  - below
-  - refers
 - - ned
   - ward
   - mentioned
 - - butler
   - poor
   - ned
+- - custard
+  - below
+  - refers
+- - samuel
+  - butler
+  - '-'
 - - particular
   - hat
   - confident
@@ -41,48 +41,48 @@ ngrams:
 - - rather
   - than
   - fail
-- - hooting
-  - yard
-  - readers
 - - can
   - therefore
   - draw
+- - hooting
+  - yard
+  - readers
 - - week
   - rather
   - than
-- - therefore
-  - draw
-  - your
 - - disparage
   - their
   - best
+- - therefore
+  - draw
+  - your
 - - hurl
   - your
   - copy
 - - draw
   - your
   - attention
-- - devise
-  - your
-  - own
 - - suit
   - me
   - splendidly
+- - devise
+  - your
+  - own
 - - yellow
   - goo
   - we
 - - am
   - now
   - going
-- - complete
-  - illustration
-  - which
 - - brief
   - quotation
   - so
 - - world
   - expect
   - me
+- - complete
+  - illustration
+  - which
 - - couplets
   - which
   - became
@@ -110,12 +110,12 @@ ngrams:
 - - all
   - hooting
   - yard
-- - yard
-  - readers
-  - are
 - - this
   - morning
   - unless
+- - yard
+  - readers
+  - are
 - - or
   - hat
   - historian
@@ -128,30 +128,30 @@ ngrams:
 - - closer
   - look
   - at
-- - by
-  - samuel
-  - butler
 - - we
   - were
   - concerned
-- - they
-  - will
-  - defy
 - - will
   - suit
   - me
+- - by
+  - samuel
+  - butler
 - - goo
   - we
   - were
-- - fail
-  - they
-  - will
-- - by
-  - ned
-  - ward
 - - hats
   - at
   - least
+- - they
+  - will
+  - defy
+- - be
+  - better
+  - placed
+- - fail
+  - they
+  - will
 story:
   date: 2006-02-08
   id: 2006-02-08-the-hat-of-hudibras

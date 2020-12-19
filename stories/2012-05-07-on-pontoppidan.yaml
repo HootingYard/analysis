@@ -1,10 +1,10 @@
 ngrams:
-- - theologians
-  - danish
-  - bishops
 - - categories
   - danish
   - theologians
+- - theologians
+  - danish
+  - bishops
 - - bishops
   - danish
   - ornithologists
@@ -26,45 +26,45 @@ ngrams:
 - - scandinavian
   - crime
   - fiction
-- - help
-  - eradicate
-  - superstition
-- - crisp
-  - white
-  - ruff
 - - tyrolean
   - jacket
   - similar
-- - reasonably
-  - comprehensive
-  - picture
-- - following
-  - categories
-  - danish
+- - crisp
+  - white
+  - ruff
+- - help
+  - eradicate
+  - superstition
 - - party
   - leaning
   - insouciantly
+- - following
+  - categories
+  - danish
+- - reasonably
+  - comprehensive
+  - picture
+- - sophisticated
+  - cocktail
+  - party
 - - stray
   - reference
   - led
 - - english
   - translation
   - available
-- - religious
-  - knowledge
-  - third
-- - state
-  - church
-  - explanation
-- - sophisticated
-  - cocktail
-  - party
-- - cheap
-  - paperback
-  - copy
 - - cocktail
   - party
   - leaning
+- - state
+  - church
+  - explanation
+- - cheap
+  - paperback
+  - copy
+- - religious
+  - knowledge
+  - third
 - - official
   - state
   - church
@@ -80,12 +80,12 @@ ngrams:
 - - catholic
   - relics
   - among
-- - important
-  - theological
-  - works
 - - leaning
   - insouciantly
   - against
+- - important
+  - theological
+  - works
 - - lutheran
   - bishops
   - people
@@ -104,24 +104,24 @@ ngrams:
 - - another
   - person's
   - soul
-- - please
-  - please
-  - tell
 - - danish
   - hymn
   - book
+- - please
+  - please
+  - tell
 - - great
   - destructive
   - power
 - - own
   - facecloth
   - page
-- - century
-  - peasant
-  - life
 - - rather
   - dry
   - reading
+- - century
+  - peasant
+  - life
 - - explanations
   - these
   - appear
@@ -146,33 +146,33 @@ ngrams:
 - - please
   - tell
   - us
+- - upon
+  - close
+  - observation
 - - pontoppidan
   - like
   - absolutely
 - - like
   - absolutely
   - everybody
-- - pontoppidan
-  - looked
-  - like
-- - upon
-  - close
-  - observation
 - - based
   - upon
   - close
 - - thinking
   - based
   - upon
+- - pontoppidan
+  - looked
+  - like
 - - mr
   - key
   - well
-- - then
-  - reappear
-  - among
 - - might
   - sashay
   - away
+- - then
+  - reappear
+  - among
 - - human
   - form
   - then
@@ -182,6 +182,9 @@ ngrams:
 - - victim
   - murder
   - their
+- - might
+  - even
+  - throw
 - - population
   - their
   - ways
@@ -197,9 +200,6 @@ ngrams:
 - - what
   - tormented
   - phantasms
-- - might
-  - even
-  - throw
 - - wonders
   - what
   - tormented
@@ -209,12 +209,12 @@ ngrams:
 - - like
   - mr
   - key
-- - your
-  - mind's
-  - eye
 - - tormented
   - phantasms
   - were
+- - your
+  - mind's
+  - eye
 - - been
   - preserved
   - among
@@ -224,12 +224,12 @@ ngrams:
 - - enough
   - about
   - pontoppidan
-- - cocktail
-  - party
-  - will
 - - copy
   - out
   - bits
+- - cocktail
+  - party
+  - will
 - - phantasms
   - were
   - going
@@ -242,27 +242,27 @@ ngrams:
 - - reference
   - led
   - me
-- - 'no'
-  - human
-  - being
 - - can
   - then
   - dazzle
+- - 'no'
+  - human
+  - being
 - - read
   - about
   - half
 - - cry
   - will
   - go
-- - facecloth
-  - page
-  - which
-- - being
-  - has
-  - ever
 - - tell
   - us
   - what
+- - being
+  - has
+  - ever
+- - facecloth
+  - page
+  - which
 - - down
   - into
   - sin
@@ -275,57 +275,57 @@ ngrams:
 - - victim
   - down
   - into
+- - every
+  - word
+  - there
 - - an
   - enthusiastic
   - naturalist
+- - could
+  - about
+  - pontoppidan
 - - an
   - extensive
   - description
 - - gives
   - an
   - extensive
-- - every
-  - word
-  - there
-- - an
-  - english
-  - translation
-- - could
-  - about
-  - pontoppidan
 - - lutheran
   - catechism
   - one
-- - other
-  - works
-  - were
+- - an
+  - english
+  - translation
 - - sin
   - one
   - wonders
-- - has
-  - been
-  - preserved
-- - material
-  - has
-  - been
 - - so
   - often
   - does
+- - other
+  - works
+  - were
 - - nowhere
   - near
   - one
+- - could
+  - copy
+  - out
 - - white
   - ruff
   - this
+- - has
+  - been
+  - preserved
 - - near
   - one
   - thousand
 - - will
   - then
   - remain
-- - could
-  - copy
-  - out
+- - material
+  - has
+  - been
 - - also
   - an
   - enthusiastic
@@ -335,45 +335,45 @@ ngrams:
 - - ruff
   - this
   - piece
-- - found
-  - out
-  - now
 - - could
   - point
   - out
+- - found
+  - out
+  - now
 - - one
   - thousand
   - words
-- - transcribed
-  - from
-  - tombstones
 - - seventh
   - but
   - short
-- - gathered
-  - from
-  - clergy
-- - information
-  - gathered
-  - from
 - - creature
   - itself
   - but
+- - transcribed
+  - from
+  - tombstones
 - - catechism
   - one
   - might
+- - gathered
+  - from
+  - clergy
 - - dry
   - reading
   - but
-- - bishops
-  - people
+- - information
+  - gathered
   - from
-- - from
-  - clergy
-  - around
+- - country
+  - but
+  - also
 - - will
   - reply
   - if
+- - bishops
+  - people
+  - from
 story:
   date: 2012-05-07
   id: 2012-05-07-on-pontoppidan

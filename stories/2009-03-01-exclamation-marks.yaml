@@ -1,22 +1,22 @@
 ngrams:
-- - astoundingly
-  - unreadable
-  - novels
 - - pulp
   - novelist
   - harry
+- - astoundingly
+  - unreadable
+  - novels
 - - sport
   - outrageous
   - accents
 - - novelist
   - harry
   - stephen
-- - green
-  - wax
-  - seal
 - - outrageous
   - accents
   - sitting
+- - green
+  - wax
+  - seal
 - - whom
   - sport
   - outrageous
@@ -32,15 +32,15 @@ ngrams:
 - - makes
   - perfect
   - sense
+- - rather
+  - breathless
+  - tone
 - - posthumous
   - big
   - tin
 - - big
   - tin
   - medal
-- - rather
-  - breathless
-  - tone
 - - talking
   - oh
   - 'yes'
@@ -50,12 +50,12 @@ ngrams:
 - - most
   - astoundingly
   - unreadable
-- - yard
-  - sainthood
-  - committee
 - - rather
   - shamefaced
   - note
+- - yard
+  - sainthood
+  - committee
 - - unreadable
   - novels
   - ever
@@ -114,11 +114,11 @@ ngrams:
   - these
   - chapter
 - - these
-  - novels
-  - were
-- - these
   - pages
   - about
+- - these
+  - novels
+  - were
 story:
   date: 2009-03-01
   id: 2009-03-01-exclamation-marks

@@ -17,21 +17,21 @@ ngrams:
 - - flash
   - comes
   - straight
-- - during
-  - fogs
-  - rains
 - - million
   - times
   - faster
+- - during
+  - fogs
+  - rains
 - - electricity
   - rub
   - together
-- - building
-  - high
-  - chimneys
 - - lars
   - talc
   - struck
+- - building
+  - high
+  - chimneys
 - - electricity
   - comes
   - near
@@ -44,69 +44,69 @@ ngrams:
 - - different
   - forms
   - sometimes
-- - why
-  - lightning
-  - rods
-- - negative
-  - electricity
-  - come
-- - small
-  - pieces
-  - sometimes
-- - likes
-  - pointed
-  - things
-- - thus
-  - become
-  - worthless
 - - negative
   - electricity
   - though
 - - several
   - different
   - forms
-- - high
-  - house
-  - during
+- - negative
+  - electricity
+  - come
+- - why
+  - lightning
+  - rods
+- - thus
+  - become
+  - worthless
+- - likes
+  - pointed
+  - things
 - - sometimes
   - several
   - miles
-- - high
-  - chimneys
-  - should
+- - small
+  - pieces
+  - sometimes
 - - moist
   - air
   - against
-- - electricity
-  - come
-  - near
+- - high
+  - chimneys
+  - should
 - - air
   - against
   - dry
 - - against
   - dry
   - air
+- - high
+  - house
+  - during
+- - electricity
+  - come
+  - near
 - - because
   - dry
   - earth
+- - mile
+  - away
+  - lightning
 - - because
   - light
   - travels
 - - little
   - spark
   - gives
-- - mile
-  - away
-  - lightning
+- - pointed
+  - things
+  - better
 - - lightning
   - because
   - light
 - - rods
   - lead
   - 'off'
-- - pointed
-  - things
-  - better
 - - too
   - human
   - beings
@@ -119,15 +119,18 @@ ngrams:
 - - lightning
   - passes
   - through
+- - several
+  - miles
+  - long
 - - pieces
   - sometimes
   - too
 - - pass
   - quicker
   - through
-- - several
-  - miles
-  - long
+- - lightning
+  - might
+  - leap
 - - flow
   - silently
   - down
@@ -146,39 +149,36 @@ ngrams:
 - - any
   - tall
   - object
-- - lightning
-  - might
-  - leap
 - - generally
   - tell
   - how
 - - tall
   - object
   - such
-- - come
-  - near
-  - each
 - - electricity
   - comes
   - over
-- - comes
-  - straight
-  - down
 - - well
   - because
   - dry
+- - come
+  - near
+  - each
+- - comes
+  - straight
+  - down
 - - passes
   - through
   - air
+- - faster
+  - than
+  - sound
 - - discharge
   - its
   - electricity
 - - through
   - thick
   - air
-- - faster
-  - than
-  - sound
 - - times
   - faster
   - than
@@ -194,33 +194,30 @@ ngrams:
 - - sometimes
   - its
   - flash
-- - forms
-  - sometimes
-  - its
 - - better
   - than
   - round
+- - forms
+  - sometimes
+  - its
 - - thinnest
   - thus
   - its
 - - noting
   - how
   - much
-- - tell
-  - how
-  - far
 - - can
   - pass
   - quicker
 - - light
   - travels
   - more
+- - tell
+  - how
+  - far
 - - thus
   - its
   - path
-- - then
-  - called
-  - rolling
 - - lightning
   - can
   - pass
@@ -230,30 +227,33 @@ ngrams:
 - - can
   - count
   - five
-- - only
-  - difference
-  - being
-- - wind
-  - more
-  - water
+- - then
+  - called
+  - rolling
 - - things
   - better
   - than
-- - near
-  - each
-  - other
+- - wind
+  - more
+  - water
+- - only
+  - difference
+  - being
 - - can
   - generally
   - tell
-- - too
-  - far
-  - 'off'
+- - near
+  - each
+  - other
 - - through
   - thin
   - than
 - - thin
   - than
   - through
+- - too
+  - far
+  - 'off'
 - - than
   - through
   - thick
@@ -275,36 +275,36 @@ ngrams:
 - - when
   - lightning
   - passes
-- - will
-  - flow
-  - silently
 - - lightning
   - when
   - lightning
 - - spark
   - gives
   - out
-- - electricity
-  - will
+- - will
   - flow
+  - silently
 - - travels
   - more
   - than
-- - into
-  - damp
-  - earth
+- - electricity
+  - will
+  - flow
 - - rub
   - together
   - when
+- - into
+  - damp
+  - earth
 - - damp
   - earth
   - if
-- - into
-  - small
-  - pieces
 - - see
   - 'no'
   - flash
+- - into
+  - small
+  - pieces
 - - silently
   - down
   - them
@@ -323,24 +323,27 @@ ngrams:
 - - cold
   - weather
   - there
-- - earth
-  - will
-  - always
 - - how
   - much
   - time
+- - earth
+  - will
+  - always
 - - rubbing
   - glass
   - so
+- - we
+  - feel
+  - sure
+- - lightning
+  - rods
+  - are
+- - lightning
+  - rods
+  - are
 - - rods
   - are
   - safe
-- - lightning
-  - rods
-  - are
-- - lightning
-  - rods
-  - are
 - - fires
   - are
   - burning
@@ -350,12 +353,9 @@ ngrams:
 - - rods
   - are
   - usually
-- - we
-  - feel
-  - sure
-- - animals
-  - are
-  - struck
+- - great
+  - crash
+  - we
 story:
   date: 2017-10-15
   id: 2017-10-15-obsequies-for-lars-talc-struck-by-lightning-v

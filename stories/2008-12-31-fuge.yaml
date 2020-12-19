@@ -17,15 +17,15 @@ ngrams:
 - - words
   - '-'
   - think
-- - '-'
-  - think
-  - how
 - - well
   - make
   - use
 - - think
   - how
   - absolutely
+- - '-'
+  - think
+  - how
 - - hardy
   - complaining
   - about
@@ -35,12 +35,12 @@ ngrams:
 - - how
   - absolutely
   - out
-- - are
-  - such
-  - words
 - - indeed
   - are
   - such
+- - are
+  - such
+  - words
 story:
   date: 2008-12-31
   id: 2008-12-31-fuge

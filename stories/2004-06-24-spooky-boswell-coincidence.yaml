@@ -11,21 +11,18 @@ ngrams:
 - - l'oreal's
   - secret
   - ingredient
-- - boswell's
-  - london
-  - journal
 - - literary
   - figures
   - theory
-- - london
-  - journal
-  - '-'
-- - james
-  - boswell's
+- - boswell's
   - london
+  - journal
 - - figures
   - theory
   - unfortunately
+- - james
+  - boswell's
+  - london
 - - low
   - inn
   - sat
@@ -38,27 +35,24 @@ ngrams:
 - - hair
   - products
   - including
-- - note
-  - poppy
-  - nisbet
 - - l'oreal
   - advert
   - readers
+- - note
+  - poppy
+  - nisbet
 - - reading
   - james
   - boswell's
 - - currently
   - reading
   - james
-- - '-'
-  - indeed
-  - max
+- - london
+  - journal
+  - '-'
 - - further
   - suggestions
   - dr
-- - journal
-  - '-'
-  - indeed
 - - mind
   - note
   - poppy
@@ -71,12 +65,18 @@ ngrams:
 - - ridiculous
   - new
   - product
-- - advert
-  - readers
-  - should
+- - '-'
+  - indeed
+  - max
+- - journal
+  - '-'
+  - indeed
 - - whatever
   - ridiculous
   - new
+- - advert
+  - readers
+  - should
 - - confounded
   - company
   - see
@@ -125,12 +125,12 @@ ngrams:
 - - their
   - hair
   - products
-- - your
-  - l'oreal's
-  - secret
 - - applaud
   - their
   - use
+- - your
+  - l'oreal's
+  - secret
 - - correct
   - what
   - appears

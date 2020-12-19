@@ -8,12 +8,12 @@ ngrams:
 - - advice
   - regarding
   - eggs
-- - dish
-  - fit
-  - only
 - - regarding
   - eggs
   - here
+- - dish
+  - fit
+  - only
 - - without
   - any
   - ceremony
@@ -29,12 +29,12 @@ ngrams:
 - - easier
   - said
   - than
-- - ask
-  - your
-  - friend
 - - said
   - than
   - done
+- - ask
+  - your
+  - friend
 - - rough
   - food
   - if
@@ -62,27 +62,27 @@ ngrams:
 - - poured
   - all
   - over
-- - served
-  - what
-  - do
 - - will
   - even
   - ask
-- - has
-  - copied
-  - out
+- - served
+  - what
+  - do
 - - hooting
   - yard
   - we
+- - has
+  - copied
+  - out
 - - plaintive
   - plea
   - from
 - - plea
   - from
   - reader
-- - from
-  - reader
-  - tim
+- - question
+  - from
+  - rambles
 story:
   date: 2011-10-16
   id: 2011-10-16-advice-regarding-eggs

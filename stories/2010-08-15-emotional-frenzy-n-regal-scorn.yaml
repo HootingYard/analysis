@@ -1,37 +1,37 @@
 ngrams:
+- - intrepid
+  - actress
+  - emerge
 - - accustomed
   - roles
   - bernard
 - - frenzy
   - regal
   - scorn
-- - intrepid
-  - actress
-  - emerge
 - - emotional
   - frenzy
   - regal
 - - former
   - scornful
   - bearing
-- - triumphs
-  - james
-  - murdoch
 - - brushed
   - aside
   - murdoch's
 - - lady
   - macbeth
   - nay
+- - triumphs
+  - james
+  - murdoch
 - - aside
   - murdoch's
   - objections
-- - shining
-  - triumphs
-  - james
 - - leading
   - shakespearean
   - characters
+- - shining
+  - triumphs
+  - james
 - - regal
   - scorn
   - sent
@@ -41,12 +41,12 @@ ngrams:
 - - length
   - poor
   - macbeth
-- - scorn
-  - sent
-  - pit
 - - scored
   - heavily
   - 'true'
+- - scorn
+  - sent
+  - pit
 - - eyes
   - darting
   - contemptuous
@@ -80,12 +80,15 @@ ngrams:
 - - dark
   - head
   - stretched
-- - few
-  - hours
-  - later
 - - fine
   - dark
   - head
+- - few
+  - hours
+  - later
+- - curtain
+  - descended
+  - upon
 - - word
   - reminded
   - after
@@ -95,48 +98,42 @@ ngrams:
 - - those
   - lovely
   - eyes
-- - her
-  - former
-  - scornful
+- - any
+  - known
+  - playwright
+- - more
+  - accustomed
+  - roles
 - - scornful
   - bearing
   - she
 - - her
-  - shining
-  - triumphs
-- - curtain
-  - descended
-  - upon
-- - elegant
-  - her
-  - exhibition
+  - former
+  - scornful
 - - shakespearean
   - characters
   - she
-- - any
-  - known
-  - playwright
+- - her
+  - shining
+  - triumphs
+- - elegant
+  - her
+  - exhibition
 - - her
   - memory
   - continuously
+- - matter
+  - any
+  - known
 - - refreshing
   - her
   - memory
-- - more
-  - accustomed
-  - roles
 - - characters
   - she
   - felt
 - - heavily
   - 'true'
   - she
-- - matter
-  - any
-  - known
-- - her
-  - word
-  - reminded
 - - murdoch
   - has
   - rewarded
@@ -144,14 +141,20 @@ ngrams:
   - rewarded
   - posterity
 - - her
+  - word
+  - reminded
+- - james
+  - murdoch
+  - has
+- - poor
+  - macbeth
+  - who
+- - her
   - ordeal
   - without
 - - bearing
   - she
   - took
-- - james
-  - murdoch
-  - has
 - - performance
   - she
   - came
@@ -164,18 +167,15 @@ ngrams:
 - - she
   - knew
   - nothing
-- - poor
-  - macbeth
-  - who
 - - she
   - must
   - live
 - - her
   - most
   - appropriate
-- - before
-  - she
-  - uttered
+- - curtain
+  - went
+  - up
 story:
   date: 2010-08-15
   id: 2010-08-15-emotional-frenzy-n-regal-scorn

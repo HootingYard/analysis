@@ -14,15 +14,15 @@ ngrams:
 - - fascist
   - bent
   - chronologically
-- - pencil
-  - sharpener
-  - confronting
 - - psychedelic
   - pop
   - group
 - - pop
   - group
   - turquoise
+- - pencil
+  - sharpener
+  - confronting
 - - basil
   - groove
   - says
@@ -35,61 +35,58 @@ ngrams:
 - - female
   - child
   - armed
-- - independent
-  - spirit
-  - although
-- - enid
-  - adventure
-  - stories
 - - group
   - turquoise
   - eye
+- - enid
+  - adventure
+  - stories
+- - independent
+  - spirit
+  - although
 - - mysterious
   - mentor
   - whom
 - - infant
   - heroine
   - whose
-- - small
-  - female
-  - child
-- - year
-  - entitled
-  - scenes
 - - ethereal
   - woo
   - does
-- - tiny
-  - contemporary
-  - fans
+- - year
+  - entitled
+  - scenes
+- - small
+  - female
+  - child
 - - often
   - seem
   - embarrassed
 - - pay
   - due
   - attention
-- - plucky
-  - tot
-  - tiny
+- - tiny
+  - contemporary
+  - fans
 - - memory
   - alive
   - often
+- - plucky
+  - tot
+  - tiny
 - - alive
   - often
   - seem
 - - tiny
   - enid
   - avant
-- - tiny
-  - enid
-  - adventure
 - - morning
   - milk
   - slops
-- - tot
-  - tiny
+- - tiny
   - enid
-- - earlier
+  - adventure
+- - tot
   - tiny
   - enid
 - - king
@@ -98,15 +95,18 @@ ngrams:
 - - lobster
   - king
   - having
-- - tiny
+- - earlier
+  - tiny
   - enid
-  - during
 - - past
   - life
   - hallucinations
 - - doddery
   - old
   - foolish
+- - tiny
+  - enid
+  - during
 - - heroic
   - infant
   - those
@@ -119,21 +119,27 @@ ngrams:
 - - child
   - armed
   - only
-- - sage
-  - counsel
-  - she
 - - see
   - tiny
   - enid
-- - telegram
-  - alerting
-  - her
-- - dreadful
-  - knight
-  - she
 - - many
   - ways
   - tiny
+- - lived
+  - before
+  - under
+- - sage
+  - counsel
+  - she
+- - dreadful
+  - knight
+  - she
+- - head
+  - thereafter
+  - every
+- - telegram
+  - alerting
+  - her
 - - valued
   - her
   - mysterious
@@ -143,48 +149,42 @@ ngrams:
 - - her
   - mysterious
   - mentor
-- - her
-  - previous
-  - lives
 - - although
   - she
   - valued
-- - lived
-  - before
-  - under
+- - her
+  - previous
+  - lives
 - - her
   - memory
   - alive
-- - spirit
-  - although
-  - she
-- - head
-  - thereafter
-  - every
-- - she
-  - became
-  - convinced
-- - keep
-  - her
-  - memory
 - - under
   - other
   - guises
-- - woo
-  - does
-  - her
+- - spirit
+  - although
+  - she
+- - she
+  - became
+  - convinced
 - - rescued
   - some
   - ducks
-- - counsel
-  - she
-  - also
+- - keep
+  - her
+  - memory
 - - basil
   - groove
   - has
-- - life
-  - hallucinations
-  - she
+- - depict
+  - figures
+  - who
+- - never
+  - before
+  - occurred
+- - woo
+  - does
+  - her
 story:
   date: 2009-01-19
   id: 2009-01-19-scenes-from-the-past-lives-of-tiny-enid

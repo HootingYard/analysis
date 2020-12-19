@@ -1,31 +1,31 @@
 ngrams:
+- - athletics
+  - reserves
+  - jamboree
+- - athletics
+  - reserves
+  - jamboree
+- - athletics
+  - reserves
+  - jamboree
+- - athletics
+  - reserves
+  - jamboree
+- - reserves
+  - jamboree
+  - annual
+- - jamboree
+  - annual
+  - newsletter
+- - reserves
+  - jamboree
+  - annual
+- - jamboree
+  - annual
+  - newsletter
 - - tony
   - blair's
   - memoir
-- - athletics
-  - reserves
-  - jamboree
-- - athletics
-  - reserves
-  - jamboree
-- - athletics
-  - reserves
-  - jamboree
-- - athletics
-  - reserves
-  - jamboree
-- - reserves
-  - jamboree
-  - annual
-- - jamboree
-  - annual
-  - newsletter
-- - reserves
-  - jamboree
-  - annual
-- - jamboree
-  - annual
-  - newsletter
 - - mile
   - dash
   - congratulations
@@ -38,15 +38,12 @@ ngrams:
 - - amateur
   - athletics
   - reserves
-- - acoustic
-  - analysis
-  - suggests
 - - amateur
   - athletics
   - reserves
-- - dogs
-  - gazelles
-  - stoats
+- - acoustic
+  - analysis
+  - suggests
 - - rigorous
   - training
   - regime
@@ -56,6 +53,9 @@ ngrams:
 - - menagerie
   - yapping
   - dogs
+- - dogs
+  - gazelles
+  - stoats
 - - bypass
   - amateur
   - athletics
@@ -71,18 +71,12 @@ ngrams:
 - - incredible
   - amazing
   - journey
-- - tivol
-  - '-'
-  - puffed
 - - raw
   - meat
   - tied
 - - raw
   - meat
   - tied
-- - journey
-  - hack
-  - '-'
 - - local
   - menagerie
   - yapping
@@ -104,9 +98,18 @@ ngrams:
 - - looked
   - decidedly
   - calamitous
-- - hack
-  - '-'
-  - fictional
+- - lane
+  - bypass
+  - amateur
+- - lane
+  - bypass
+  - amateur
+- - lane
+  - bypass
+  - amateur
+- - lane
+  - bypass
+  - amateur
 - - weeks
   - somewhat
   - terrifyingly
@@ -122,45 +125,30 @@ ngrams:
 - - blister
   - lane
   - bypass
-- - lane
-  - bypass
-  - amateur
-- - lane
-  - bypass
-  - amateur
-- - lane
-  - bypass
-  - amateur
-- - lane
-  - bypass
-  - amateur
-- - public
-  - image
-  - i'm
 - - congratulations
   - fictional
   - athlete
 - - calamitous
   - fictional
   - athlete
-- - '-'
+- - public
+  - image
+  - i'm
+- - heels
   - fictional
   - athlete
 - - race
   - fictional
   - athlete
-- - heels
-  - fictional
-  - athlete
 - - television
   - show
   - contestants
-- - fictional
-  - champ
-  - mention
 - - wolves
   - fictional
   - athlete
+- - fictional
+  - champ
+  - mention
 - - olympic
   - games
   - behind
@@ -176,9 +164,21 @@ ngrams:
 - - same
   - metaphor
   - automatically
+- - journey
+  - hack
+  - '-'
+- - tivol
+  - '-'
+  - puffed
 - - laces
   - came
   - undone
+- - hack
+  - '-'
+  - fictional
+- - '-'
+  - fictional
+  - athlete
 - - tell
   - fictional
   - athlete
@@ -194,36 +194,33 @@ ngrams:
 - - owls
   - while
   - smoking
-- - few
-  - weeks
-  - somewhat
 - - things
   - looked
   - decidedly
-- - hack
-  - hailing
-  - old
 - - undone
   - things
   - looked
-- - hissy
+- - hack
+  - hailing
   - old
-  - magnetic
-- - again
-  - fictional
-  - athlete
-- - speedy
-  - creatures
-  - old
+- - few
+  - weeks
+  - somewhat
 - - worth
   - noting
   - too
+- - again
+  - fictional
+  - athlete
+- - hissy
+  - old
+  - magnetic
+- - speedy
+  - creatures
+  - old
 - - tremendous
   - race
   - how
-- - various
-  - owls
-  - hooting
 - - well
   - fictional
   - athlete
@@ -233,51 +230,54 @@ ngrams:
 - - you've
   - just
   - won
-- - tivol
-  - you've
-  - just
+- - various
+  - owls
+  - hooting
 - - done
   - again
   - fictional
+- - tivol
+  - you've
+  - just
 - - came
   - undone
   - things
-- - amazing
-  - journey
-  - our
 - - learned
   - well
   - fictional
+- - amazing
+  - journey
+  - our
 - - trudging
   - 'off'
   - towards
-- - stop
-  - kneel
-  - down
 - - usually
   - before
   - dawn
+- - stop
+  - kneel
+  - down
 - - sprinting
   - 'off'
   - across
-- - hack
-  - set
-  - 'off'
 - - quizzed
   - while
   - still
-- - while
-  - still
-  - puffing
 - - bit
   - faster
   - than
-- - speedy
-  - creatures
-  - other
+- - hack
+  - set
+  - 'off'
+- - while
+  - still
+  - puffing
 - - than
   - wolves
   - fictional
+- - speedy
+  - creatures
+  - other
 - - well
   - done
   - again
@@ -296,21 +296,18 @@ ngrams:
 - - before
   - sprinting
   - 'off'
-- - get
-  - something
-  - 'off'
 - - do
   - several
   - laps
+- - get
+  - something
+  - 'off'
 - - him
   - fictional
   - athlete
 - - anybody
   - who
   - appears
-- - saw
-  - him
-  - trudging
 - - their
   - incredible
   - amazing
@@ -326,39 +323,42 @@ ngrams:
 - - can
   - tell
   - fictional
-- - running
-  - just
-  - now
+- - saw
+  - him
+  - trudging
 - - olympic
   - athletes
   - what
 - - blair's
   - memoir
   - what
-- - time
-  - again
-  - during
+- - running
+  - just
+  - now
 - - regime
   - what
   - strikes
 - - training
   - regime
   - what
+- - time
+  - again
+  - during
 - - began
   - 'no'
   - doubt
-- - your
-  - heels
-  - fictional
 - - race
   - how
   - do
+- - must
+  - do
+  - several
+- - your
+  - heels
+  - fictional
 - - were
   - sufficiently
   - tight
-- - find
-  - him
-  - fictional
 story:
   date: 2012-08-13
   id: 2012-08-13-on-a-journey

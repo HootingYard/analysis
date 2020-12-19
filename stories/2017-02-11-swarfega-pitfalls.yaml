@@ -8,42 +8,42 @@ ngrams:
 - - seething
   - roiling
   - churning
+- - lecturer
+  - giving
+  - talks
 - - squelchy
   - cleansing
   - agent
 - - wettest
   - waterfalls
   - holding
-- - lecturer
-  - giving
-  - talks
-- - bottomless
-  - pits
-  - riddled
 - - personally
   - collected
   - perilously
+- - bottomless
+  - pits
+  - riddled
 - - hecklers
   - pay
   - closer
 - - perky
   - interns
   - fall
-- - churning
-  - sloshing
-  - foot
 - - mighty
   - tumbling
   - cataract
+- - churning
+  - sloshing
+  - foot
 - - ninny
   - held
   - aloft
-- - pits
-  - near
-  - waterfalls
 - - marmalade
   - jar
   - emptied
+- - pits
+  - near
+  - waterfalls
 - - interns
   - fall
   - silent
@@ -53,36 +53,33 @@ ngrams:
 - - previous
   - occasions
   - whether
-- - tumbling
-  - water
-  - akin
 - - pay
   - closer
   - attention
 - - tumbling
-  - cataract
-  - called
+  - water
+  - akin
 - - victoria
   - falls
   - often
+- - tumbling
+  - cataract
+  - called
 - - found
   - convincing
   - evidence
-- - containing
-  - water
-  - water
 - - needs
   - must
   - address
+- - containing
+  - water
+  - water
 - - complaint
   - these
   - nitwits
 - - announce
   - breezily
   - many
-- - man
-  - similarly
-  - leaped
 - - many
   - perilous
   - pits
@@ -98,27 +95,30 @@ ngrams:
 - - bouffant
   - just
   - moments
+- - man
+  - similarly
+  - leaped
 - - these
   - pits
   - near
-- - jar
-  - man
-  - similarly
 - - regularly
   - report
   - back
 - - moments
   - after
   - getting
-- - marmalade
-  - jar
+- - jar
   - man
-- - fat
-  - book
-  - called
+  - similarly
 - - second
   - lot
   - make
+- - fat
+  - book
+  - called
+- - marmalade
+  - jar
+  - man
 - - such
   - ninny
   - held
@@ -134,60 +134,60 @@ ngrams:
 - - named
   - more
   - worryingly
-- - now
-  - containing
-  - water
 - - another
   - such
   - ninny
-- - how
-  - many
-  - perilous
 - - falls
   - another
   - such
+- - now
+  - containing
+  - water
 - - latter
   - pitfalls
   - can
-- - pioneer
-  - group
-  - has
+- - how
+  - many
+  - perilous
 - - just
   - moments
   - after
+- - rarely
+  - satisfies
+  - them
+- - nitwits
+  - can
+  - become
+- - didn't
+  - warn
+  - them
+- - pioneer
+  - group
+  - has
 - - majestic
   - bouffant
   - has
 - - group
   - has
   - fallen
-- - rarely
-  - satisfies
-  - them
-- - didn't
-  - warn
-  - them
-- - nitwits
-  - can
-  - become
-- - date
-  - none
-  - has
 - - idea
   - how
   - many
+- - date
+  - none
+  - has
 - - demanding
   - their
   - money
-- - has
-  - found
-  - convincing
 - - can
   - become
   - quite
-- - none
-  - has
+- - has
   - found
+  - convincing
+- - pitfalls
+  - faced
+  - when
 - - these
   - nitwits
   - can
@@ -197,21 +197,18 @@ ngrams:
 - - people
   - demanding
   - their
-- - pitfalls
-  - faced
-  - when
 - - fallen
   - into
   - bottomless
-- - has
-  - almost
-  - always
-- - has
-  - ever
-  - emerged
 - - calmly
   - pointing
   - out
+- - none
+  - has
+  - found
+- - has
+  - almost
+  - always
 - - will
   - announce
   - breezily
@@ -224,30 +221,33 @@ ngrams:
 - - faced
   - when
   - using
-- - simply
-  - talking
-  - about
 - - faced
   - when
   - simply
-- - none
-  - has
+- - simply
+  - talking
+  - about
+- - has
   - ever
-- - nincompoops
-  - were
-  - right
+  - emerged
 - - face
   - when
   - searching
-- - audience
-  - will
-  - pipe
 - - when
   - simply
   - talking
 - - single
   - occasion
   - when
+- - audience
+  - will
+  - pipe
+- - nincompoops
+  - were
+  - right
+- - none
+  - has
+  - ever
 - - audience
   - who
   - think
@@ -260,48 +260,48 @@ ngrams:
 - - physically
   - attack
   - me
-- - almost
-  - always
-  - been
-- - they
-  - physically
-  - attack
-- - end
-  - when
-  - someone
-- - they
-  - regularly
-  - report
-- - won't
-  - stop
-  - me
 - - windswept
   - marquees
   - there
+- - end
+  - when
+  - someone
 - - perilous
   - pits
   - there
+- - they
+  - physically
+  - attack
 - - occasion
   - when
   - having
+- - almost
+  - always
+  - been
+- - won't
+  - stop
+  - me
 - - fan
   - out
   - across
 - - fan
   - out
   - across
+- - they
+  - regularly
+  - report
 - - either
   - bashing
   - me
+- - time
+  - first
+  - though
 - - began
   - thumping
   - me
 - - their
   - money
   - back
-- - time
-  - first
-  - though
 - - must
   - address
   - when
@@ -314,15 +314,15 @@ ngrams:
 - - 'no'
   - idea
   - how
+- - waterfall
+  - so
+  - named
+- - pit
+  - so
+  - cavernous
 - - are
   - gaping
   - chasms
-- - pitfalls
-  - are
-  - gaping
-- - talks
-  - are
-  - interrupted
 story:
   date: 2017-02-11
   id: 2017-02-11-swarfega-pitfalls

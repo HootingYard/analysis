@@ -1,19 +1,19 @@
 ngrams:
-- - detours
-  - bobbed
-  - haired
 - - bobbed
   - haired
   - bandit
+- - detours
+  - bobbed
+  - haired
 - - flann
   - o'brien's
   - masterpiece
-- - malfi
-  - archaic
-  - medical
 - - lager
   - medical
   - dramas
+- - malfi
+  - archaic
+  - medical
 - - soap
   - opera
   - pubs
@@ -35,30 +35,30 @@ ngrams:
 - - b
   - grammatical
   - errors
+- - o'brien's
+  - masterpiece
+  - clearly
 - - news
   - bulletins
   - presenters
 - - answer
   - detours
   - bobbed
-- - o'brien's
-  - masterpiece
-  - clearly
 - - city
   - provide
   - endless
 - - thomas
   - de
   - quincey
+- - smith
+  - since
+  - publication
 - - require
   - clarification
   - note
 - - failure
   - note
   - isn't
-- - smith
-  - since
-  - publication
 - - written
   - answer
   - detours
@@ -83,15 +83,15 @@ ngrams:
 - - ah
   - 'yes'
   - book
-- - product
-  - placement
-  - here
-- - those
-  - bedridden
-  - patients
 - - most
   - television
   - persons
+- - those
+  - bedridden
+  - patients
+- - product
+  - placement
+  - here
 - - those
   - soap
   - opera
@@ -104,15 +104,15 @@ ngrams:
 - - doing
   - much
   - shove
-- - two
-  - zero
-  - however
 - - much
   - less
   - fun
 - - that's
   - much
   - less
+- - two
+  - zero
+  - however
 - - such
   - product
   - placement
@@ -125,27 +125,27 @@ ngrams:
 - - caused
   - such
   - controversy
-- - bulletins
-  - presenters
-  - like
 - - reading
   - ever
   - since
-- - medical
-  - dramas
-  - like
-- - shown
-  - going
-  - back
 - - rely
   - upon
   - government
-- - less
-  - fun
-  - than
+- - bulletins
+  - presenters
+  - like
 - - upon
   - government
   - action
+- - less
+  - fun
+  - than
+- - shown
+  - going
+  - back
+- - medical
+  - dramas
+  - like
 - - smith
   - errors
   - do
@@ -164,9 +164,9 @@ ngrams:
 - - nurse
   - their
   - pint
-- - each
-  - other
-  - instead
+- - shuffle
+  - their
+  - papers
 story:
   date: 2006-04-08
   id: 2006-04-08-prattle-about-reading

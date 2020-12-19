@@ -5,33 +5,33 @@ ngrams:
 - - blears
   - finger
   - puppets
-- - maxwell
-  - davies
-  - eating
 - - ono
   - googie
   - withers
-- - peter
-  - maxwell
+- - maxwell
   - davies
+  - eating
 - - yoko
   - ono
   - googie
-- - assassination
-  - peter
-  - maxwell
 - - hindenburg
   - disaster
   - yoko
+- - peter
+  - maxwell
+  - davies
+- - assassination
+  - peter
+  - maxwell
+- - profound
+  - psychological
+  - reasons
 - - disaster
   - yoko
   - ono
 - - kennedy
   - assassination
   - peter
-- - profound
-  - psychological
-  - reasons
 - - googie
   - withers
   - david
@@ -83,9 +83,9 @@ ngrams:
 - - hooting
   - yard
   - archives
-- - some
-  - profound
-  - psychological
+- - person
+  - might
+  - become
 story:
   date: 2008-11-05
   id: 2008-11-05-preoccupations

@@ -14,18 +14,15 @@ ngrams:
 - - proffered
   - radish
   - popped
-- - recent
-  - dental
-  - checkup
 - - smiting
   - mine
   - enemies
+- - recent
+  - dental
+  - checkup
 - - judith
   - holofernes
   - picked
-- - potato
-  - pulp
-  - diluted
 - - shouted
   - holofernes
   - holofernes
@@ -44,12 +41,15 @@ ngrams:
 - - doings
   - shouted
   - holofernes
-- - matters
-  - shouted
-  - holofernes
+- - potato
+  - pulp
+  - diluted
 - - municipal
   - park
   - bench
+- - matters
+  - shouted
+  - holofernes
 - - dr
   - stephen
   - lynn
@@ -71,21 +71,21 @@ ngrams:
 - - friend
   - dr
   - stephen
-- - army
-  - woman
-  - shouted
-- - big
-  - sword
-  - ooh
 - - king
   - nebuchadnezzar
   - lives
-- - mighty
-  - army
+- - army
   - woman
+  - shouted
 - - sweat
   - lodge
   - kind
+- - big
+  - sword
+  - ooh
+- - mighty
+  - army
+  - woman
 - - encampment
   - holofernes
   - later
@@ -98,12 +98,12 @@ ngrams:
 - - rain
   - began
   - teeming
-- - judith
-  - holofernes
-  - put
 - - holofernes
   - holofernes
   - always
+- - judith
+  - holofernes
+  - put
 - - clearly
   - saw
   - scraps
@@ -137,12 +137,12 @@ ngrams:
 - - needed
   - little
   - persuading
-- - judith
-  - two
-  - minutes
 - - very
   - bristly
   - holofernes
+- - judith
+  - two
+  - minutes
 - - shouted
   - after
   - swallowing
@@ -152,48 +152,48 @@ ngrams:
 - - said
   - judith
   - coquettishly
+- - brief
+  - encounter
+  - after
 - - ructions
-  - holofernes
-  - said
-- - bristly
   - holofernes
   - said
 - - ooh
   - said
   - judith
-- - brief
-  - encounter
-  - after
+- - bristly
+  - holofernes
+  - said
+- - holofernes
+  - said
+  - judith
+- - said
+  - judith
+  - holofernes
+- - holofernes
+  - said
+  - judith
+- - said
+  - judith
+  - holofernes
+- - holofernes
+  - said
+  - judith
+- - holofernes
+  - said
+  - judith
+- - holofernes
+  - said
+  - judith
+- - holofernes
+  - said
+  - judith
+- - said
+  - judith
+  - holofernes
 - - sword
   - ooh
   - said
-- - holofernes
-  - said
-  - judith
-- - said
-  - judith
-  - holofernes
-- - holofernes
-  - said
-  - judith
-- - said
-  - judith
-  - holofernes
-- - holofernes
-  - said
-  - judith
-- - holofernes
-  - said
-  - judith
-- - holofernes
-  - said
-  - judith
-- - holofernes
-  - said
-  - judith
-- - said
-  - judith
-  - holofernes
 - - tarpaulin
   - said
   - judith
@@ -203,81 +203,81 @@ ngrams:
 - - said
   - judith
   - you'll
-- - down
-  - quick
-  - holofernes
 - - decisive
   - said
   - judith
-- - pity
-  - holofernes
-  - said
-- - never
-  - mind
-  - holofernes
-- - teeming
-  - down
-  - quick
 - - babylon
   - holofernes
   - where
-- - general
+- - never
+  - mind
+  - holofernes
+- - pity
   - holofernes
   - said
+- - down
+  - quick
+  - holofernes
 - - such
   - countercultural
   - doings
+- - teeming
+  - down
+  - quick
+- - general
+  - holofernes
+  - said
 - - general
   - oh
   - never
 - - tea
   - said
   - judith
-- - two
-  - minutes
-  - later
-- - shall
-  - dry
-  - 'off'
-- - began
-  - teeming
-  - down
-- - checkup
-  - holofernes
-  - she
 - - such
   - matters
   - shouted
+- - shall
+  - dry
+  - 'off'
 - - widow
   - woman
   - such
+- - two
+  - minutes
+  - later
+- - began
+  - teeming
+  - down
+- - oh
+  - never
+  - mind
 - - know
   - oh
   - you're
 - - oh
-  - never
-  - mind
+  - you're
+  - such
+- - checkup
+  - holofernes
+  - she
 - - holofernes
   - put
   - down
-- - oh
-  - you're
-  - such
-- - big
-  - sword
-  - she
-- - holofernes
-  - she
-  - asked
-- - sword
-  - she
-  - used
 - - set
   - 'off'
   - across
 - - borrowed
   - some
   - interesting
+- - holofernes
+  - she
+  - asked
+- - big
+  - sword
+  - she
+- - sword
+  - she
+  - used
 - - some
   - interesting
   - pamphlets
@@ -293,12 +293,12 @@ ngrams:
 - - said
   - judith
   - just
-- - however
-  - see
-  - here
 - - pay
   - 'no'
   - heed
+- - however
+  - see
+  - here
 - - holofernes
   - how
   - now
@@ -311,12 +311,12 @@ ngrams:
 - - safely
   - covered
   - up
-- - your
-  - encampment
-  - holofernes
 - - just
   - like
   - laura
+- - judith
+  - just
+  - like
 story:
   date: 2008-12-19
   id: 2008-12-19-judith-and-holofernes

@@ -23,42 +23,42 @@ ngrams:
 - - hideous
   - slithering
   - slimy
-- - slimy
-  - body
-  - bred
-- - slimy
-  - silent
-  - mass
 - - silent
   - mass
   - imagining
-- - threw
-  - meat
-  - potatoes
+- - slimy
+  - silent
+  - mass
+- - slimy
+  - body
+  - bred
 - - swish
   - metropolitan
   - hotel
+- - threw
+  - meat
+  - potatoes
 - - hideous
   - silent
   - savagery
 - - human
   - slugs
   - bred
-- - ends
-  - appeared
-  - divided
-- - doesn't
-  - mean
-  - you're
 - - globe
   - less
   - lonesome
-- - moving
-  - creatures
-  - white
+- - doesn't
+  - mean
+  - you're
+- - ends
+  - appeared
+  - divided
 - - eerie
   - silence
   - parts
+- - moving
+  - creatures
+  - white
 - - violet
   - light
   - phenomena
@@ -68,27 +68,27 @@ ngrams:
 - - become
   - familiar
   - figures
-- - saw
-  - minuscule
-  - blue
-- - light
-  - phenomena
-  - seemed
 - - hitherto
   - unnoticed
   - life
+- - light
+  - phenomena
+  - seemed
+- - saw
+  - minuscule
+  - blue
 - - mean
   - you're
   - going
+- - monstrous
+  - slugs
+  - though
 - - light
   - violet
   - light
 - - seeing
   - nothing
   - less
-- - monstrous
-  - slugs
-  - though
 - - longer
   - attack
   - people
@@ -98,12 +98,12 @@ ngrams:
 - - yet
   - managed
   - wholly
-- - most
-  - unearthly
-  - sight
 - - surprising
   - rapidity
   - these
+- - most
+  - unearthly
+  - sight
 - - breaking
   - 'off'
   - slowly
@@ -131,45 +131,45 @@ ngrams:
 - - madame
   - curie
   - may
-- - only
-  - limited
-  - knowledge
 - - hinder
   - ends
   - where
 - - eerily
   - silent
   - even
+- - only
+  - limited
+  - knowledge
 - - past
   - hundred
   - years
-- - flickering
-  - bunches
-  - now
-- - first
-  - weed
-  - person
-- - other
-  - flickering
-  - bunches
-- - weed
-  - people
-  - first
-- - rapidity
-  - these
-  - things
-- - new
-  - free
-  - world
 - - ghastly
   - attacks
   - upon
-- - each
-  - two
-  - short
+- - first
+  - weed
+  - person
+- - flickering
+  - bunches
+  - now
+- - other
+  - flickering
+  - bunches
+- - rapidity
+  - these
+  - things
+- - weed
+  - people
+  - first
+- - new
+  - free
+  - world
 - - things
   - below
   - us
+- - each
+  - two
+  - short
 - - these
   - things
   - below
@@ -182,39 +182,39 @@ ngrams:
 - - do
   - launch
   - ghastly
-- - only
-  - home
-  - since
 - - nothing
   - less
   - than
 - - just
   - how
   - lonesome
-- - people
-  - first
-  - came
-- - us
-  - stared
-  - down
+- - only
+  - home
+  - since
 - - spasm
   - came
   - upon
+- - people
+  - first
+  - came
 - - understand
   - just
   - how
 - - possessed
   - its
   - own
+- - us
+  - stared
+  - down
 - - learned
   - some
   - manners
-- - some
-  - extent
-  - second
 - - little
   - human
   - head
+- - some
+  - extent
+  - second
 - - their
   - movements
   - lacked
@@ -233,78 +233,72 @@ ngrams:
 - - 'no'
   - don't
   - worry
-- - persuaded
-  - your
-  - fellow
 - - stared
   - down
   - upon
-- - were
-  - initially
-  - fascinated
-- - divided
-  - into
-  - hateful
-- - don't
-  - worry
+- - persuaded
   - your
-- - our
-  - only
-  - home
-- - creatures
-  - moved
-  - about
+  - fellow
 - - when
   - attacking
   - sailors
+- - divided
+  - into
+  - hateful
+- - creatures
+  - moved
+  - about
 - - ask
   - what
   - prompted
+- - were
+  - initially
+  - fascinated
+- - our
+  - only
+  - home
+- - don't
+  - worry
+  - your
 - - movements
   - were
   - somewhat
-- - appeared
-  - divided
-  - into
-- - visions
-  - were
-  - real
-- - above
-  - were
-  - adapted
 - - their
   - stomachs
   - yet
 - - stomachs
   - yet
   - their
-- - yet
-  - their
-  - movements
+- - appeared
+  - divided
+  - into
 - - then
   - suddenly
   - even
+- - yet
+  - their
+  - movements
+- - visions
+  - were
+  - real
+- - above
+  - were
+  - adapted
 - - valley
   - all
   - beneath
 - - five
   - hours
   - when
-- - all
-  - kinds
-  - milk
-- - worry
-  - your
-  - little
 - - we
   - drifted
   - beside
 - - mass
   - imagining
   - we
-- - pulsating
-  - they
-  - looked
+- - all
+  - kinds
+  - milk
 - - we
   - discovered
   - wilhelm
@@ -314,117 +308,123 @@ ngrams:
 - - grown
   - feet
   - there
+- - pulsating
+  - they
+  - looked
+- - worry
+  - your
+  - little
+- - extent
+  - second
+  - we
 - - were
   - real
   - because
-- - your
-  - little
-  - human
+- - we
+  - cannot
+  - underestimate
 - - take
   - into
   - account
 - - all
   - it's
   - important
-- - extent
-  - second
+- - hodgson
+  - thus
   - we
-- - tentacles
-  - which
-  - slid
-- - which
-  - slid
-  - hither
-- - we
-  - cannot
-  - underestimate
 - - feet
   - there
   - seemed
 - - me
   - without
   - premonition
-- - extraordinary
-  - disgust
-  - which
 - - that's
   - right
   - we
-- - hodgson
-  - thus
-  - we
-- - are
-  - eerily
-  - silent
-- - seething
-  - continued
-  - which
+- - your
+  - little
+  - human
 - - upon
   - their
   - stomachs
 - - crawling
   - upon
   - their
+- - which
+  - slid
+  - hither
+- - tentacles
+  - which
+  - slid
 - - apprehension
   - there
   - came
+- - are
+  - eerily
+  - silent
+- - extraordinary
+  - disgust
+  - which
 - - second
   - we
   - cannot
+- - seething
+  - continued
+  - which
 - - into
   - account
   - first
-- - real
-  - because
-  - they
-- - because
-  - they
-  - seemed
-- - small
-  - tentacles
-  - which
-- - human
-  - head
-  - about
-- - all
-  - beneath
-  - us
 - - good
   - question
   - there
 - - even
   - when
   - attacking
+- - human
+  - head
+  - about
+- - real
+  - because
+  - they
+- - because
+  - they
+  - seemed
 - - silent
   - even
   - when
+- - all
+  - beneath
+  - us
+- - small
+  - tentacles
+  - which
 - - deemed
   - an
   - historic
+- - about
+  - other
+  - parts
+- - thus
+  - we
+  - each
 - - an
   - historic
   - interview
 - - an
   - unforgivable
   - social
-- - about
-  - other
-  - parts
-- - were
-  - somewhat
-  - like
 - - eyes
   - so
   - big
-- - thus
-  - we
-  - each
 - - hundred
   - years
   - we
 - - one
   - mortally
   - stricken
+- - more
+  - intense
+  - when
 - - learned
   - about
   - other

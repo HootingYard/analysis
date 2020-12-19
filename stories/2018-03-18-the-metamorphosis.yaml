@@ -8,69 +8,69 @@ ngrams:
 - - gregor
   - samsa
   - awoke
-- - blubber
-  - candles
-  - sputtered
 - - geology
   - origami
   - athletics
-- - lugubrious
-  - liverpudlian
-  - accent
 - - struggle
   - fortunately
   - gregor
-- - uphill
-  - struggle
-  - fortunately
+- - lugubrious
+  - liverpudlian
+  - accent
 - - ornithology
   - geology
   - origami
-- - origami
-  - athletics
-  - trellis
+- - uphill
+  - struggle
+  - fortunately
+- - blubber
+  - candles
+  - sputtered
 - - ringo
   - starr
   - circa
+- - origami
+  - athletics
+  - trellis
 - - argumentative
   - german
   - improvised
 - - consult
   - separate
   - experts
-- - lemon
-  - meringue
-  - pie
 - - legs
   - wriggling
   - helplessly
-- - german
-  - improvised
-  - racket
+- - lemon
+  - meringue
+  - pie
 - - handy
   - bullet
   - points
-- - panicky
-  - questions
-  - throbbed
+- - german
+  - improvised
+  - racket
 - - unusual
   - flying
   - creature
+- - panicky
+  - questions
+  - throbbed
 - - highly
   - unusual
   - flying
+- - daily
+  - voodoo
+  - dolly
+- - daily
+  - voodoo
+  - dolly
 - - feet
   - thrice
   - pierced
 - - archery
   - tournament
   - looking
-- - daily
-  - voodoo
-  - dolly
-- - daily
-  - voodoo
-  - dolly
 - - future
   - dispensation
   - shed
@@ -104,33 +104,33 @@ ngrams:
 - - clamber
   - across
   - scree
+- - mama
+  - nor
+  - papa
 - - athletics
   - trellis
   - work
 - - night
   - train
   - chugged
-- - mama
-  - nor
-  - papa
-- - four
-  - hours
-  - faffing
+- - mighty
+  - sea
+  - beast
 - - early
   - morning
   - concert
 - - cold
   - moonlit
   - air
-- - mighty
-  - sea
-  - beast
-- - state
-  - hours
-  - passed
 - - characteristic
   - fill
   - until
+- - four
+  - hours
+  - faffing
+- - state
+  - hours
+  - passed
 - - mountainside
   - panting
   - until
@@ -146,30 +146,36 @@ ngrams:
 - - helicopter
   - police
   - find
-- - remembered
-  - little
-  - save
+- - nor
+  - papa
+  - nor
 - - important
   - mountain
   - every
 - - pondered
   - how
   - curious
-- - hundred
-  - miles
-  - away
+- - remembered
+  - little
+  - save
 - - spare
   - first
   - dumping
-- - nor
-  - papa
-  - nor
+- - hundred
+  - miles
+  - away
 - - blubber
   - candles
   - here
 - - found
   - himself
   - transformed
+- - kerfuffle
+  - blows
+  - over
+- - climbed
+  - ever
+  - further
 - - gregor
   - crikey
   - said
@@ -179,135 +185,123 @@ ngrams:
 - - said
   - mama
   - we've
-- - climbed
-  - ever
-  - further
-- - kerfuffle
-  - blows
-  - over
 - - fill
   - until
   - once
-- - mistake
-  - there's
-  - only
 - - creature
   - said
   - mama
 - - our
   - lives
   - depending
+- - mistake
+  - there's
+  - only
+- - young
+  - body
+  - much
+- - flying
+  - creature
+  - said
 - - promptly
   - shut
   - down
 - - shut
   - down
   - propelling
-- - flying
-  - creature
-  - said
 - - crashed
   - right
   - through
-- - young
-  - body
-  - much
-- - airborne
-  - being
-  - let
-- - head
-  - became
-  - filled
 - - gave
   - any
   - indication
+- - head
+  - became
+  - filled
+- - airborne
+  - being
+  - let
 - - let
   - us
   - fell
+- - than
+  - shedding
+  - light
 - - third
   - transformation
   - now
 - - chalet
   - ceiling
   - now
-- - than
-  - shedding
-  - light
 - - other
   - panicky
   - questions
-- - human
-  - starling
-  - now
-- - stretched
-  - her
-  - young
-- - now
-  - become
-  - ringo
-- - see
-  - several
-  - tiny
 - - more
   - uneasy
   - dreams
-- - until
-  - once
-  - again
-- - come
-  - scrambling
-  - down
-- - rather
-  - than
-  - shedding
-- - her
-  - young
-  - body
-- - entirely
-  - new
-  - being
-- - shed
-  - light
-  - upon
 - - own
   - innards
   - might
+- - human
+  - starling
+  - now
+- - rather
+  - than
+  - shedding
+- - see
+  - several
+  - tiny
+- - now
+  - become
+  - ringo
+- - until
+  - once
+  - again
+- - shed
+  - light
+  - upon
 - - darkness
   - rather
   - than
-- - hair
-  - now
-  - become
-- - mountain
-  - every
-  - day
+- - come
+  - scrambling
+  - down
+- - entirely
+  - new
+  - being
 - - shedding
   - light
   - then
+- - mountain
+  - every
+  - day
+- - stretched
+  - her
+  - young
+- - hair
+  - now
+  - become
 - - some
   - future
   - dispensation
 - - owl
   - through
   - years
-- - turn
-  - around
-  - now
+- - her
+  - young
+  - body
 - - could
   - indeed
   - fly
-- - turned
-  - back
-  - back
-- - being
-  - let
-  - us
+- - turn
+  - around
+  - now
 - - dumping
   - their
   - bows
-- - shut
-  - behind
-  - him
+- - turned
+  - back
+  - back
 - - stuffing
   - their
   - gobs
@@ -317,267 +311,273 @@ ngrams:
 - - correlate
   - their
   - findings
-- - 'no'
-  - mistake
-  - there's
+- - being
+  - let
+  - us
 - - their
   - carriage
   - stuffing
 - - carriage
   - stuffing
   - their
+- - 'no'
+  - mistake
+  - there's
 - - their
   - daughter
   - sprang
-- - nocturnal
-  - being
-  - like
 - - journey
   - their
   - daughter
-- - ferry
+- - shut
+  - behind
   - him
-  - across
-- - him
-  - swooping
-  - across
-- - their
-  - feet
-  - thrice
-- - tournament
-  - looking
-  - up
 - - any
   - way
   - different
-- - become
-  - some
-  - kind
-- - become
-  - some
-  - kind
-- - table
-  - stuffing
-  - their
+- - nocturnal
+  - being
+  - like
+- - their
+  - feet
+  - thrice
+- - ferry
+  - him
+  - across
 - - tell
   - them
   - tales
+- - table
+  - stuffing
+  - their
+- - tournament
+  - looking
+  - up
+- - him
+  - swooping
+  - across
+- - become
+  - some
+  - kind
+- - become
+  - some
+  - kind
 - - some
   - point
   - during
-- - her
-  - feet
-  - first
-- - into
-  - merciful
-  - unconsciousness
 - - merciful
   - unconsciousness
   - when
+- - into
+  - merciful
+  - unconsciousness
 - - what
   - neither
   - mama
-- - sky
-  - just
-  - like
 - - sister
   - were
   - returning
-- - took
-  - their
-  - bows
-- - what
-  - we've
-  - done
-- - unconsciousness
-  - when
-  - eventually
+- - sky
+  - just
+  - like
 - - could
   - see
   - several
-- - train
-  - chugged
-  - out
-- - hours
-  - faffing
-  - about
-- - propelling
-  - him
-  - back
-- - hole
-  - up
-  - until
+- - unconsciousness
+  - when
+  - eventually
+- - what
+  - we've
+  - done
+- - took
+  - their
+  - bows
 - - wisdom
   - if
   - necessary
 - - rustic
   - wisdom
   - if
+- - train
+  - chugged
+  - out
+- - hours
+  - faffing
+  - about
+- - her
+  - feet
+  - first
 - - floor
   - wondering
   - if
-- - tank
-  - engine
-  - all
-- - down
-  - propelling
+- - hole
+  - up
+  - until
+- - propelling
   - him
+  - back
 - - could
   - while
   - away
+- - tank
+  - engine
+  - all
 - - chugged
   - out
   - towards
 - - their
   - new
   - dreams
-- - them
-  - each
-  - took
-- - called
-  - out
-  - quietly
-- - they
-  - barely
-  - noticed
-- - barricaded
-  - himself
-  - into
 - - tidy
   - sum
   - we
 - - years
   - upon
   - years
-- - first
-  - dumping
-  - their
+- - them
+  - each
+  - took
 - - voodoo
   - dolly
   - would
-- - klieg
-  - lights
-  - would
+- - down
+  - propelling
+  - him
 - - ringo
   - starr
   - would
-- - last
-  - were
-  - translated
-- - things
-  - up
-  - good
-- - through
-  - years
-  - upon
+- - called
+  - out
+  - quietly
+- - klieg
+  - lights
+  - would
+- - barricaded
+  - himself
+  - into
 - - sinister
   - compound
   - would
-- - each
-  - took
+- - they
+  - barely
+  - noticed
+- - through
+  - years
+  - upon
+- - first
+  - dumping
   - their
 - - unseemly
   - hotel
   - there
-- - flee
-  - all
-  - three
 - - watch
   - would
   - spit
 - - helicopter
   - police
   - would
-- - previous
-  - day
-  - 'no'
-- - ever
-  - further
+- - things
   - up
-- - seaside
-  - they
-  - sat
+  - good
+- - each
+  - took
+  - their
+- - last
+  - were
+  - translated
 - - lost
   - consciousness
   - there
-- - police
-  - find
-  - out
-- - day
+- - ever
+  - further
+  - up
+- - previous
+  - day
   - 'no'
-  - longer
+- - flee
+  - all
+  - three
+- - seaside
+  - they
+  - sat
 - - jelly
   - so
   - concentrated
-- - back
-  - into
-  - merciful
-- - rose
-  - so
-  - fast
+- - police
+  - find
+  - out
 - - asked
   - himself
   - if
+- - rose
+  - so
+  - fast
+- - day
+  - 'no'
+  - longer
+- - back
+  - into
+  - merciful
 - - they
   - come
   - scrambling
-- - transformation
-  - which
-  - appeared
-- - let's
-  - go
-  - they
 - - then
   - correlate
   - their
-- - engine
-  - all
-  - these
+- - let's
+  - go
+  - they
+- - transformation
+  - which
+  - appeared
 - - village
   - we
   - should
+- - engine
+  - all
+  - these
 - - we
   - turn
   - around
 - - day
   - staring
   - out
+- - monitor
+  - himself
+  - so
+- - miles
+  - away
+  - there
+- - can
+  - hole
+  - up
+- - an
+  - uphill
+  - struggle
+- - scurry
+  - an
+  - insect
+- - deployed
+  - an
+  - array
+- - beetle
+  - scurry
+  - an
 - - carpet
   - across
   - which
 - - birds
   - which
   - flit
-- - scurry
-  - an
-  - insect
-- - an
-  - uphill
-  - struggle
-- - beetle
-  - scurry
-  - an
-- - deployed
-  - an
-  - array
-- - miles
-  - away
-  - there
-- - monitor
-  - himself
-  - so
+- - samsa
+  - awoke
+  - one
 - - were
   - like
   - jelly
-- - legs
-  - were
-  - like
-- - can
-  - hole
-  - up
-- - hoist
-  - him
-  - up
+- - strange
+  - an
+  - airborne
 story:
   date: 2018-03-18
   id: 2018-03-18-the-metamorphosis

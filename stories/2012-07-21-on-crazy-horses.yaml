@@ -23,9 +23,6 @@ ngrams:
 - - finished
   - reciting
   - aloud
-- - include
-  - president
-  - nixon
 - - son
   - asks
   - pa
@@ -35,9 +32,9 @@ ngrams:
 - - pa
   - sleep
   - soundly
-- - mormon
-  - says
-  - wayne
+- - include
+  - president
+  - nixon
 - - sit
   - alan
   - wayne
@@ -47,30 +44,33 @@ ngrams:
 - - mormon
   - marriage
   - mean
-- - younger
-  - ones
-  - frolic
+- - mormon
+  - says
+  - wayne
 - - pa
   - ma
   - nods
-- - says
-  - alan
-  - blushing
+- - younger
+  - ones
+  - frolic
 - - pierre
   - hotel
   - heist
+- - says
+  - alan
+  - blushing
 - - din
   - asks
   - ma
 - - says
   - alan
   - hello
-- - speak
-  - son
-  - asks
 - - says
   - alan
   - pa
+- - speak
+  - son
+  - asks
 - - parts
   - stranger
   - says
@@ -80,6 +80,9 @@ ngrams:
 - - party
   - says
   - jay
+- - judicious
+  - question
+  - chosen
 - - sir
   - says
   - alan
@@ -89,6 +92,9 @@ ngrams:
 - - sir
   - says
   - alan
+- - communist
+  - party
+  - says
 - - sir
   - says
   - alan
@@ -98,42 +104,36 @@ ngrams:
 - - ma
   - says
   - alan
+- - classic
+  - unlike
+  - anything
 - - ma
   - says
   - pa
 - - says
   - pa
   - ma
-- - judicious
-  - question
-  - chosen
 - - four
   - million
   - dollars
-- - communist
-  - party
-  - says
 - - approximately
   - four
   - million
-- - house
-  - president
-  - nixon
-- - classic
-  - unlike
-  - anything
+- - terrible
+  - dreams
+  - dreams
 - - making
   - final
   - preparations
 - - bedtime
   - don't
   - forget
-- - terrible
-  - dreams
-  - dreams
 - - today
   - alan
   - pipes
+- - house
+  - president
+  - nixon
 - - side
   - sit
   - alan
@@ -149,15 +149,12 @@ ngrams:
 - - salt
   - flats
   - past
-- - 'yes'
-  - sir
-  - says
-- - white
-  - house
-  - president
 - - corner
   - between
   - marie
+- - 'yes'
+  - sir
+  - says
 - - deposit
   - boxes
   - across
@@ -167,6 +164,9 @@ ngrams:
 - - corner
   - between
   - pa
+- - white
+  - house
+  - president
 - - idea
   - says
   - alan
@@ -182,15 +182,15 @@ ngrams:
 - - secretary
   - general
   - also
-- - good
-  - says
-  - pa
 - - song
   - however
   - remains
 - - without
   - speaking
   - gazing
+- - good
+  - says
+  - pa
 - - point
   - ma
   - says
@@ -200,27 +200,9 @@ ngrams:
 - - solemn
   - well
   - titans
-- - litter
-  - little
-  - jimmy
 - - asks
   - pa
   - well
-- - little
-  - jimmy
-  - sits
-- - little
-  - jimmy
-  - toss
-- - together
-  - each
-  - firing
-- - that's
-  - new
-  - year's
-- - new
-  - secretary
-  - general
 - - pa
   - well
   - that's
@@ -230,63 +212,81 @@ ngrams:
 - - pa
   - well
   - sir
-- - each
-  - other's
-  - eyes
-- - says
-  - pa
-  - well
-- - says
-  - pa
-  - well
-- - says
+- - together
+  - each
+  - firing
+- - litter
   - little
   - jimmy
-- - paddock
-  - says
-  - little
+- - new
+  - secretary
+  - general
+- - that's
+  - new
+  - year's
+- - little
+  - jimmy
+  - sits
+- - says
+  - pa
+  - well
+- - says
+  - pa
+  - well
+- - little
+  - jimmy
+  - toss
 - - mistake
   - good
   - point
-- - these
-  - parts
-  - stranger
+- - each
+  - other's
+  - eyes
 - - well
   - sir
   - says
+- - these
+  - parts
+  - stranger
 - - good
   - point
   - ma
 - - parlay
   - those
   - terrors
+- - paddock
+  - says
+  - little
+- - says
+  - little
+  - jimmy
 - - just
   - finished
   - reciting
-- - crazy
-  - horses
-  - those
 - - inspiring
   - yet
   - also
 - - yet
   - also
   - solemn
+- - crazy
+  - horses
+  - those
 - - also
   - solemn
   - well
-- - night
-  - while
-  - ma
 - - perhaps
   - while
   - wayne
-- - know
-  - says
-  - marie
+- - night
+  - while
+  - ma
 - - rightly
   - know
   - sir
+- - know
+  - says
+  - marie
 - - temple
   - that's
   - where
@@ -299,21 +299,15 @@ ngrams:
 - - don't
   - rightly
   - know
-- - nods
-  - her
-  - assent
 - - little
   - jimmy
   - find
-- - ma
-  - nods
-  - her
 - - well
   - that's
   - new
-- - goes
-  - she
-  - says
+- - nods
+  - her
+  - assent
 - - table
   - long
   - years
@@ -323,12 +317,18 @@ ngrams:
 - - then
   - says
   - pa
-- - surely
-  - do
-  - cataclysmic
+- - ma
+  - nods
+  - her
 - - feet
   - could
   - carry
+- - surely
+  - do
+  - cataclysmic
+- - goes
+  - she
+  - says
 - - our
   - memories
   - most
@@ -338,78 +338,78 @@ ngrams:
 - - new
   - year's
   - day
+- - jimmy
+  - can
+  - question
+- - net
+  - them
+  - approximately
 - - little
   - jimmy
   - over
 - - us
   - old
   - enough
-- - net
-  - them
-  - approximately
-- - jimmy
-  - can
-  - question
-- - case
-  - her
-  - question
-- - her
-  - assent
-  - too
 - - its
   - composition
   - make
-- - their
-  - mormon
-  - underpants
-- - their
-  - mormon
-  - underpants
-- - them
-  - sir
-  - says
 - - can
   - tell
   - ma
+- - their
+  - mormon
+  - underpants
+- - their
+  - mormon
+  - underpants
 - - them
-  - approximately
-  - four
-- - alan
-  - pipes
-  - up
+  - sir
+  - says
 - - their
   - arrival
   - alan
+- - alan
+  - pipes
+  - up
+- - them
+  - approximately
+  - four
 - - hear
   - them
   - sir
-- - wearing
-  - their
-  - mormon
-- - wearing
-  - their
-  - mormon
+- - case
+  - her
+  - question
 - - year's
   - day
   - over
-- - 'no'
-  - ma
-  - says
+- - wearing
+  - their
+  - mormon
+- - wearing
+  - their
+  - mormon
+- - her
+  - assent
+  - too
 - - go
   - then
   - says
-- - their
-  - fragile
-  - young
-- - time
-  - little
-  - jimmy
+- - 'no'
+  - ma
+  - says
 - - jay
   - what
   - brings
+- - their
+  - fragile
+  - young
 - - could
   - carry
   - us
+- - time
+  - little
+  - jimmy
 - - says
   - jay
   - what
@@ -431,9 +431,9 @@ ngrams:
 - - speaking
   - gazing
   - into
-- - our
-  - feet
-  - could
+- - can
+  - parlay
+  - those
 story:
   date: 2012-07-21
   id: 2012-07-21-on-crazy-horses

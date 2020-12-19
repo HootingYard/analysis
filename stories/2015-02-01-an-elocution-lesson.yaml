@@ -8,15 +8,15 @@ ngrams:
 - - speaking
   - aloud
   - announced
-- - aloud
-  - announced
-  - miss
 - - announced
   - miss
   - blossom
 - - miss
   - blossom
   - paid
+- - aloud
+  - announced
+  - miss
 - - battered
   - tobacco
   - tin
@@ -47,15 +47,9 @@ ngrams:
 - - air
   - every
   - week
-- - she
-  - immediately
-  - squirrelled
 - - most
   - important
   - thing
-- - present
-  - hooting
-  - yard
 - - duly
   - did
   - several
@@ -65,6 +59,12 @@ ngrams:
 - - time
   - miss
   - blossom
+- - she
+  - immediately
+  - squirrelled
+- - present
+  - hooting
+  - yard
 - - did
   - several
   - minutes
@@ -80,30 +80,30 @@ ngrams:
 - - blossom
   - paid
   - 'no'
-- - has
-  - passed
-  - since
 - - even
   - said
   - hello
+- - has
+  - passed
+  - since
 - - paid
   - 'no'
   - attention
-- - panting
-  - before
-  - she
-- - lapse
-  - into
-  - blessed
 - - elocution
   - lesson
   - when
-- - into
+- - lapse
+  - into
   - blessed
-  - silence
 - - when
   - speaking
   - aloud
+- - into
+  - blessed
+  - silence
+- - panting
+  - before
+  - she
 - - lesson
   - began
   - when

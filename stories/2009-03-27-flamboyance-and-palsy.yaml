@@ -44,33 +44,33 @@ ngrams:
 - - large
   - important
   - buildings
-- - leaning
-  - against
-  - large
 - - collapse
   - thought
   - apt
+- - leaning
+  - against
+  - large
 - - physical
   - collapse
   - thought
 - - hot
   - morning
   - cutting
-- - palsy
-  - while
-  - dining
 - - naked
   - eye
   - nor
-- - hapless
-  - waiter
-  - away
-- - sometimes
-  - mistakenly
-  - thought
+- - palsy
+  - while
+  - dining
 - - against
   - large
   - important
+- - sometimes
+  - mistakenly
+  - thought
+- - hapless
+  - waiter
+  - away
 - - withered
   - away
   - consider
@@ -80,48 +80,48 @@ ngrams:
 - - these
   - attributes
   - present
-- - elected
-  - potus
-  - might
 - - flamboyant
   - paragon
   - might
-- - make
-  - people
-  - gasp
+- - elected
+  - potus
+  - might
 - - eye
   - nor
   - indeed
-- - certainly
-  - never
-  - cut
+- - make
+  - people
+  - gasp
 - - such
   - effortless
   - poise
-- - knew
-  - precisely
-  - how
+- - certainly
+  - never
+  - cut
 - - witness
   - such
   - flamboyance
+- - knew
+  - precisely
+  - how
 - - indeed
   - wither
   - away
+- - even
+  - swoon
+  - merely
 - - both
   - these
   - qualities
 - - ancient
   - languages
   - may
-- - even
-  - swoon
-  - merely
-- - apt
-  - other
-  - diners
 - - show
   - such
   - effortless
+- - apt
+  - other
+  - diners
 - - himself
   - paraded
   - through
@@ -131,30 +131,33 @@ ngrams:
 - - indeed
   - many
   - others
-- - try
-  - again
-  - back
 - - tad
   - more
   - difficult
-- - fluting
-  - voice
-  - more
+- - try
+  - again
+  - back
 - - voice
   - more
   - oysters
+- - fluting
+  - voice
+  - more
 - - did
   - indeed
   - wither
-- - flamboyance
-  - deserted
-  - him
 - - may
   - yet
   - prove
 - - nor
   - show
   - such
+- - potus
+  - might
+  - say
+- - flamboyance
+  - deserted
+  - him
 - - thought
   - apt
   - other
@@ -164,42 +167,39 @@ ngrams:
 - - gentleman
   - who
   - shook
-- - potus
-  - might
-  - say
 - - again
   - back
   - came
-- - seldom
-  - made
-  - any
 - - might
   - say
   - 'yes'
+- - seldom
+  - made
+  - any
 - - must
   - go
   - back
-- - 'no'
-  - doubt
-  - pertinent
 - - many
   - others
   - such
+- - 'no'
+  - doubt
+  - pertinent
 - - made
   - any
   - sense
-- - your
-  - present
-  - adversity
 - - effortless
   - poise
   - when
-- - moved
-  - into
-  - cool
+- - your
+  - present
+  - adversity
 - - poise
   - when
   - leaning
+- - moved
+  - into
+  - cool
 - - bones
   - were
   - tossed
@@ -236,56 +236,53 @@ ngrams:
 - - all
   - these
   - attributes
+- - style
+  - so
+  - later
 - - are
   - using
   - text
 - - head
   - appeared
   - were
-- - style
-  - so
-  - later
 - - raised
   - an
   - eyebrow
 - - an
   - extra
   - lobster
+- - one
+  - maintain
+  - flamboyance
 - - means
   - an
   - impossibility
 - - merely
   - raised
   - an
-- - one
-  - maintain
-  - flamboyance
 - - magnifico
   - we
   - know
 - - we
   - must
   - go
-- - an
-  - impossibility
-  - take
-- - who
-  - when
-  - felled
 - - we
   - might
   - look
+- - who
+  - when
+  - felled
+- - an
+  - impossibility
+  - take
 - - limb
   - or
   - limbs
-- - had
-  - himself
-  - paraded
-- - gilt
-  - platter
-  - but
 - - martial
   - chops
+  - but
+- - gilt
+  - platter
   - but
 - - maintain
   - flamboyance
@@ -296,39 +293,42 @@ ngrams:
 - - content
   - but
   - lapped
-- - had
-  - great
-  - poise
-- - delivery
-  - had
-  - great
 - - c
   - lan
   - but
 - - one's
   - flamboyance
   - but
+- - had
+  - himself
+  - paraded
 - - this
   - seldom
   - made
-- - ancient
-  - world
-  - had
 - - say
   - 'yes'
   - one
-- - were
-  - tossed
-  - into
+- - had
+  - great
+  - poise
 - - have
   - lacked
   - virtue
+- - delivery
+  - had
+  - great
 - - perspicuity
   - aids
   - at
 - - flamboyance
   - but
   - also
+- - but
+  - also
+  - poise
+- - were
+  - tossed
+  - into
 story:
   date: 2009-03-27
   id: 2009-03-27-flamboyance-and-palsy

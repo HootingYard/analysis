@@ -23,27 +23,27 @@ ngrams:
 - - proved
   - surprisingly
   - salty
+- - quick
+  - sharp
+  - blows
 - - checking
   - team
   - bim
 - - team
   - bim
   - bam
-- - quick
-  - sharp
-  - blows
 - - unparalleled
   - genius
   - accompanied
+- - hopelessly
+  - hopelessly
+  - hopelessly
+- - hopelessly
+  - hopelessly
+  - hopelessly
 - - interim
   - report
   - hopeless
-- - hopelessly
-  - hopelessly
-  - hopelessly
-- - hopelessly
-  - hopelessly
-  - hopelessly
 - - orphan
   - recently
   - discharged
@@ -52,10 +52,10 @@ ngrams:
   - closer
 - - distant
   - buildings
-  - hence
+  - ahead
 - - distant
   - buildings
-  - ahead
+  - hence
 - - watery
   - ditch
   - alongside
@@ -65,30 +65,24 @@ ngrams:
 - - distant
   - buildings
   - grew
-- - extensive
-  - field
-  - containing
 - - grew
   - closer
   - none
 - - hope
   - shortly
   - afterwards
-- - write
-  - hopelessly
-  - thrice
 - - wormy
   - maggoty
   - kind
+- - extensive
+  - field
+  - containing
 - - almost
   - translucent
   - writhing
-- - famished
-  - lucky
-  - bird
-- - judge
-  - yours
-  - lost
+- - write
+  - hopelessly
+  - thrice
 - - lost
   - hopelessly
   - hopelessly
@@ -98,27 +92,33 @@ ngrams:
 - - hopelessly
   - hopelessly
   - lost
-- - letter
-  - arrives
-  - dear
-- - pale
-  - almost
-  - translucent
 - - yum
   - thus
   - fortified
+- - judge
+  - yours
+  - lost
+- - pale
+  - almost
+  - translucent
+- - famished
+  - lucky
+  - bird
+- - letter
+  - arrives
+  - dear
 - - fact
   - checking
   - mission
 - - fact
   - checking
   - mission
-- - three
-  - equal
-  - portions
 - - fact
   - checking
   - team
+- - three
+  - equal
+  - portions
 - - devoted
   - fact
   - checking
@@ -128,111 +128,111 @@ ngrams:
 - - tininess
   - having
   - plucked
+- - possible
+  - yum
+  - thus
 - - another
   - gastric
   - malady
 - - wormy
   - maggoty
   - thing
-- - possible
-  - yum
-  - thus
-- - faces
-  - let
-  - alone
 - - containing
   - several
   - cows
-- - few
-  - quick
-  - sharp
+- - faces
+  - let
+  - alone
 - - field
   - containing
   - several
 - - retain
   - hope
   - nor
+- - few
+  - quick
+  - sharp
 - - small
   - pale
   - almost
-- - few
-  - hundred
-  - yards
 - - same
   - fact
   - checking
+- - few
+  - hundred
+  - yards
+- - dear
+  - beloved
+  - mr
 - - two
   - similarly
   - discharged
 - - appreciate
   - how
   - greedily
-- - dear
-  - beloved
-  - mr
 - - bus
   - chugged
   - away
+- - hopeless
+  - nor
+  - indeed
 - - ditch
   - alongside
   - us
 - - two
   - retain
   - hope
-- - six
-  - eyes
-  - around
-- - hopeless
-  - nor
-  - indeed
+- - beloved
+  - mr
+  - key
 - - see
   - various
   - clumps
-- - our
-  - thirst
-  - raged
-- - swallowed
-  - our
-  - thirst
-- - drank
-  - our
-  - fill
 - - yet
   - hopeless
   - nor
 - - yet
   - close
   - enough
-- - buildings
-  - hence
+- - our
+  - thirst
+  - raged
+- - six
+  - eyes
+  - around
+- - swallowed
   - our
+  - thirst
+- - drank
+  - our
+  - fill
 - - malady
   - gastric
   - may
-- - beloved
-  - mr
-  - key
-- - being
-  - hopelessly
-  - lost
 - - blundered
   - onwards
   - even
+- - buildings
+  - hence
+  - our
+- - being
+  - hopelessly
+  - lost
 - - nor
   - indeed
   - lost
-- - little
-  - less
-  - oh
 - - matter
   - how
   - hard
-- - turned
-  - our
-  - attentions
+- - little
+  - less
+  - oh
 - - hence
   - our
   - hope
+- - turned
+  - our
+  - attentions
 - - our
   - hope
   - shortly
@@ -248,27 +248,27 @@ ngrams:
 - - while
   - two
   - retain
-- - made
-  - short
-  - work
 - - hopeless
   - while
   - two
-- - our
-  - faces
-  - let
-- - our
-  - six
-  - eyes
-- - get
-  - our
-  - bearings
+- - made
+  - short
+  - work
 - - our
   - helping
   - rather
 - - nothing
   - bigger
   - than
+- - our
+  - faces
+  - let
+- - get
+  - our
+  - bearings
+- - our
+  - six
+  - eyes
 - - rather
   - than
   - bolting
@@ -278,102 +278,105 @@ ngrams:
 - - indeed
   - lost
   - after
-- - its
-  - tininess
-  - having
 - - onwards
   - even
   - though
+- - its
+  - tininess
+  - having
 - - lucky
   - bird
   - then
-- - pass
-  - may
-  - take
 - - man's
   - life
   - upon
-- - our
-  - attentions
-  - back
 - - us
   - might
   - bash
+- - pass
+  - may
+  - take
+- - our
+  - attentions
+  - back
 - - only
   - just
   - alighted
-- - see
-  - our
-  - hands
 - - other
   - cows
   - came
-- - now
-  - beset
-  - us
+- - see
+  - our
+  - hands
 - - liquid
   - oozing
   - up
-- - alongside
+- - now
+  - beset
   - us
-  - like
 - - can
   - put
   - yourself
+- - alongside
+  - us
+  - like
 - - among
   - them
   - pangs
+- - upon
+  - our
+  - knees
 - - take
   - some
   - explaining
 - - two
   - could
   - hold
-- - hopeless
-  - your
-  - devoted
-- - upon
-  - our
-  - knees
-- - encountered
-  - 'no'
-  - further
-- - 'no'
-  - further
-  - puddles
 - - borne
   - down
   - upon
+- - encountered
+  - 'no'
+  - further
 - - could
   - see
   - various
-- - were
-  - famished
-  - lucky
+- - 'no'
+  - further
+  - puddles
+- - hopeless
+  - your
+  - devoted
 - - cow
   - 'no'
   - matter
-- - were
-  - hopelessly
-  - hopelessly
-- - fell
-  - upon
-  - our
 - - mortal
   - coil
   - if
+- - fell
+  - upon
+  - our
+- - were
+  - famished
+  - lucky
+- - were
+  - hopelessly
+  - hopelessly
 - - been
   - birds
   - nesting
 - - your
   - devoted
   - fact
-- - into
-  - three
-  - equal
 - - thus
   - fortified
   - if
+- - might
+  - come
+  - upon
+- - into
+  - three
+  - equal
 - - minimally
   - we
   - toiled
@@ -392,9 +395,6 @@ ngrams:
 - - we
   - pondered
   - killing
-- - even
-  - see
-  - our
 - - salty
   - we
   - encountered
@@ -404,30 +404,30 @@ ngrams:
 - - flight
   - we
   - peered
-- - might
-  - come
-  - upon
-- - recent
-  - rainwater
-  - we
 - - puddle
   - we
   - chopped
 - - buildings
   - ahead
   - we
+- - recent
+  - rainwater
+  - we
+- - even
+  - see
+  - our
+- - would
+  - prove
+  - fatal
 - - pebbles
   - we
   - dismissed
-- - distant
-  - buildings
-  - there
-- - distant
-  - buildings
-  - there
 - - shortly
   - afterwards
   - we
+- - rock
+  - would
+  - kill
 story:
   date: 2012-09-10
   id: 2012-09-10-on-being-hopelessly-lost

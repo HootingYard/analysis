@@ -8,12 +8,12 @@ ngrams:
 - - expert
   - jeff
   - daniels
-- - criminal
-  - mania
-  - keanu
 - - regional
   - dish
   - greasy
+- - criminal
+  - mania
+  - keanu
 - - speed
   - reportedly
   - earned
@@ -23,37 +23,37 @@ ngrams:
 - - hopper
   - eating
   - greasy
-- - cackling
-  - evildoer
-  - dennis
 - - dish
   - greasy
   - doings
-- - dennis
-  - hopper
-  - spends
 - - inhumanly
   - sensible
   - chap
+- - cackling
+  - evildoer
+  - dennis
 - - dennis
   - hopper
-  - scenes
+  - spends
 - - greasy
   - doings
   - obviously
-- - shown
-  - dennis
-  - hopper
 - - eating
   - greasy
   - doings
+- - dennis
+  - hopper
+  - scenes
 - - television
   - reporter
   - describes
-- - model
+- - shown
   - dennis
   - hopper
 - - speed
+  - dennis
+  - hopper
+- - model
   - dennis
   - hopper
 - - dennis
@@ -71,24 +71,24 @@ ngrams:
 - - minutes
   - staring
   - vacantly
-- - miles
-  - per
-  - hour
-- - miles
-  - per
-  - hour
 - - less
   - perilous
   - incentive
+- - miles
+  - per
+  - hour
+- - miles
+  - per
+  - hour
 - - film
   - speed
   - jan
-- - evildoer
-  - dennis
-  - don't
 - - either
   - jan
   - de
+- - evildoer
+  - dennis
+  - don't
 - - common
   - sense
   - persuades
@@ -98,24 +98,24 @@ ngrams:
 - - sheer
   - common
   - sense
-- - greasy
-  - doings
-  - look
-- - dennis
-  - don't
-  - try
 - - write
   - deathless
   - prose
 - - hopper
   - rather
   - overdoes
+- - greasy
+  - doings
+  - look
 - - indeed
   - keanu
   - reeves
 - - earn
   - millions
   - having
+- - dennis
+  - don't
+  - try
 - - readers
   - feel
   - impelled
@@ -128,12 +128,12 @@ ngrams:
 - - perhaps
   - earn
   - millions
-- - per
-  - hour
-  - having
 - - dennis
   - hopper
   - rather
+- - per
+  - hour
+  - having
 - - gobbling
   - snacks
   - while
@@ -152,24 +152,24 @@ ngrams:
 - - crows
   - grows
   - ever
-- - yard
-  - paypal
-  - account
 - - hopper
   - spends
   - much
+- - yard
+  - paypal
+  - account
 - - grisly
   - end
   - because
+- - jeff
+  - daniels
+  - might
 - - those
   - snacks
   - greasy
 - - stop
   - writing
   - well
-- - jeff
-  - daniels
-  - might
 - - end
   - because
   - it's
@@ -185,45 +185,45 @@ ngrams:
 - - greasy
   - doings
   - now
-- - hooting
-  - yard
-  - paypal
 - - further
   - research
   - before
+- - hooting
+  - yard
+  - paypal
 - - british
   - chaps
   - could
+- - am
+  - suggesting
+  - cowardice
 - - time
   - gobbling
   - snacks
-- - millions
-  - having
-  - said
 - - screen
   - time
   - gobbling
 - - any
   - readers
   - feel
-- - am
-  - suggesting
-  - cowardice
+- - millions
+  - having
+  - said
 - - doings
   - look
   - like
-- - keep
-  - her
-  - foot
-- - sandra
-  - bullock
-  - has
 - - himself
   - chuckling
   - now
+- - sandra
+  - bullock
+  - has
 - - other
   - great
   - mainstay
+- - keep
+  - her
+  - foot
 - - should
   - any
   - readers
@@ -239,45 +239,42 @@ ngrams:
 - - shall
   - do
   - right
-- - some
-  - point
-  - during
 - - what
   - greasy
   - doings
+- - some
+  - point
+  - during
 - - its
   - makers
   - over
 - - passengers
   - tucking
   - into
-- - fiendish
-  - quandary
-  - into
 - - tucking
   - into
   - greasy
-- - could
-  - only
-  - devise
-- - into
-  - greasy
-  - doings
+- - fiendish
+  - quandary
+  - into
 - - speed
   - hinges
   - when
+- - into
+  - greasy
+  - doings
+- - could
+  - only
+  - devise
 - - empire
   - without
   - their
-- - without
-  - their
-  - cups
 - - sandra
   - bullock
   - will
-- - having
-  - been
-  - primed
+- - without
+  - their
+  - cups
 - - will
   - earn
   - millions
@@ -290,45 +287,51 @@ ngrams:
 - - clearly
   - popular
   - when
+- - having
+  - been
+  - primed
 - - hour
   - having
   - been
 - - has
   - just
   - occurred
-- - sense
-  - persuades
-  - me
 - - hoping
   - would
   - fuel
 - - everyone
   - would
   - agree
-- - hinges
-  - when
-  - last
-- - do
-  - right
-  - now
-- - predictability
-  - has
-  - its
-- - persuades
+- - sense
+  - persuades
   - me
-  - however
 - - kingdom
   - come
   - if
-- - which
-  - sandra
-  - bullock
+- - hinges
+  - when
+  - last
+- - persuades
+  - me
+  - however
+- - do
+  - right
+  - now
 - - whim
   - unfold
   - so
+- - predictability
+  - has
+  - its
 - - keanu
   - reeves
   - are
+- - anything
+  - so
+  - foolhardy
+- - which
+  - sandra
+  - bullock
 - - reeves
   - are
   - aboard
@@ -338,18 +341,15 @@ ngrams:
 - - are
   - shown
   - dennis
-- - anything
-  - so
-  - foolhardy
-- - doing
-  - yet
-  - all
 - - blather
   - about
   - than
-- - don't
-  - know
-  - about
+- - doing
+  - yet
+  - all
+- - film
+  - perhaps
+  - we
 story:
   date: 2012-01-26
   id: 2012-01-26-on-speed

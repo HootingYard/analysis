@@ -5,15 +5,9 @@ ngrams:
 - - viscous
   - spume
   - breathed
-- - presumed
-  - truths
-  - '-'
 - - commonly
   - presumed
   - truths
-- - serpents
-  - pp
-  - '-'
 - - double
   - namely
   - outwardly
@@ -26,21 +20,21 @@ ngrams:
 - - forehead
   - bone
   - petrified
-- - earthy
-  - temper
-  - living
 - - brightest
   - jewel
   - inside
+- - earthy
+  - temper
+  - living
 - - stone
   - contained
   - therein
-- - brownish
-  - sometimes
-  - reddish
 - - reddish
   - sometimes
   - yellowish
+- - brownish
+  - sometimes
+  - reddish
 - - yellowish
   - sometimes
   - greenish
@@ -50,6 +44,12 @@ ngrams:
 - - plain
   - sometimes
   - hollow
+- - presumed
+  - truths
+  - '-'
+- - serpents
+  - pp
+  - '-'
 - - flat
   - white
   - stone
@@ -65,21 +65,21 @@ ngrams:
 - - divers
   - opinions
   - also
-- - stone
-  - commonly
-  - called
-- - sometimes
-  - brownish
-  - sometimes
 - - sometimes
   - reddish
   - sometimes
 - - sometimes
   - yellowish
   - sometimes
+- - sometimes
+  - brownish
+  - sometimes
 - - another
   - belief
   - conceiving
+- - stone
+  - commonly
+  - called
 - - side
   - sometimes
   - plain
@@ -104,63 +104,63 @@ ngrams:
 - - others
   - doe
   - make
-- - creatures
-  - two
-  - manner
-- - living
-  - creatures
-  - two
 - - old
   - toad
   - others
-- - many
-  - received
-  - tenets
 - - circumspection
   - receive
   - those
-- - receive
-  - those
-  - stones
-- - toad
-  - others
-  - say
+- - many
+  - received
+  - tenets
+- - creatures
+  - two
+  - manner
 - - thing
   - impossible
   - nor
+- - living
+  - creatures
+  - two
+- - toad
+  - others
+  - say
+- - receive
+  - those
+  - stones
 - - many
   - late
   - writers
 - - head
   - hath
   - placed
-- - said
-  - cloth
-  - whereby
-- - surely
-  - very
-  - rare
-- - hee
-  - may
-  - easily
-- - many
-  - toads
-  - whose
-- - back
-  - nature
-  - near
 - - much
   - less
   - believe
+- - surely
+  - very
+  - rare
+- - said
+  - cloth
+  - whereby
+- - hee
+  - may
+  - easily
+- - back
+  - nature
+  - near
+- - many
+  - toads
+  - whose
 - - both
   - these
   - stones
-- - both
-  - these
-  - reports
 - - any
   - substantial
   - reason
+- - both
+  - these
+  - reports
 - - also
   - much
   - confirmed
@@ -170,54 +170,54 @@ ngrams:
 - - may
   - sometimes
   - happen
-- - doe
-  - make
-  - two
 - - bone
   - petrified
   - then
+- - doe
+  - make
+  - two
 - - name
   - much
   - less
-- - water
-  - these
-  - things
 - - insect
   - rather
   - than
+- - water
+  - these
+  - things
 - - every
   - day
   - kill
-- - some
-  - secrete
-  - hole
-- - easily
-  - every
-  - day
 - - may
   - easily
   - every
+- - easily
+  - every
+  - day
+- - some
+  - secrete
+  - hole
 - - every
   - where
   - visible
+- - time
+  - grew
+  - hard
 - - other
   - side
   - sometimes
-- - time
-  - grew
+- - found
+  - such
   - hard
 - - very
   - many
   - toads
-- - found
-  - such
-  - hard
-- - sometimes
-  - greenish
-  - some
 - - very
   - many
   - received
+- - sometimes
+  - greenish
+  - some
 - - sometimes
   - hollow
   - some
@@ -230,90 +230,84 @@ ngrams:
 - - could
   - scarce
   - find
-- - two
-  - other
-  - quotations
 - - bladder
   - now
   - how
-- - she
-  - run
-  - away
+- - two
+  - other
+  - quotations
 - - many
   - could
   - scarce
-- - about
-  - precious
-  - stones
 - - any
   - such
   - stone
-- - hollow
-  - some
-  - say
+- - she
+  - run
+  - away
+- - about
+  - precious
+  - stones
 - - really
   - any
   - such
-- - some
-  - say
-  - feeding
 - - spume
   - breathed
   - out
-- - through
+- - hollow
   - some
-  - secrete
+  - say
 - - fields
   - lastly
   - if
-- - her
-  - head
-  - against
+- - some
+  - say
+  - feeding
+- - through
+  - some
+  - secrete
 - - stretch
   - out
   - themselves
-- - stony
-  - substance
-  - all
-- - instantly
-  - they
-  - sup
 - - any
   - such
   - thing
-- - they
-  - attribute
-  - unto
+- - stony
+  - substance
+  - all
+- - her
+  - head
+  - against
 - - happen
   - thus
   - when
-- - pp
-  - '-'
-  - there
+- - instantly
+  - they
+  - sup
+- - they
+  - attribute
+  - unto
 - - cloth
   - they
   - cast
 - - we
   - daily
   - observe
-- - middle
-  - sometimes
-  - all
 - - their
   - back
   - nature
-- - are
-  - divers
-  - opinions
-- - writers
-  - which
-  - doe
+- - middle
+  - sometimes
+  - all
+- - pp
+  - '-'
+  - there
 - - opinions
   - also
   - they
-- - stones
-  - which
-  - commonly
+- - are
+  - divers
+  - opinions
 - - picky
   - sweet
   - are
@@ -323,9 +317,27 @@ ngrams:
 - - opinions
   - because
   - they
+- - writers
+  - which
+  - doe
+- - stones
+  - which
+  - commonly
 - - belch
   - up
   - its
+- - they
+  - further
+  - write
+- - know
+  - about
+  - precious
+- - 'no'
+  - bigger
+  - then
+- - up
+  - its
+  - stone
 - - which
   - commonly
   - bear
@@ -335,270 +347,330 @@ ngrams:
 - - late
   - writers
   - which
-- - they
-  - further
-  - write
-- - she
-  - lift
-  - up
-- - lift
-  - up
-  - her
 - - some
   - other
   - place
-- - know
-  - about
-  - precious
-- - up
-  - its
-  - stone
-- - lost
-  - which
-  - consisted
-- - are
-  - sometimes
-  - brownish
-- - 'no'
-  - bigger
-  - then
-- - considered
-  - we
-  - must
 - - lastly
   - if
   - any
-- - wherein
-  - they
-  - say
-- - they
-  - attribute
-  - much
-- - they
-  - make
-  - doubt
-- - an
-  - earthy
-  - temper
+- - considered
+  - we
+  - must
+- - are
+  - sometimes
+  - brownish
+- - lost
+  - which
+  - consisted
+- - she
+  - lift
+  - up
 - - where
   - visible
   - if
-- - we
-  - shall
-  - end
+- - lift
+  - up
+  - her
+- - they
+  - attribute
+  - much
 - - if
   - both
   - these
+- - they
+  - make
+  - doubt
+- - we
+  - shall
+  - end
+- - wherein
+  - they
+  - say
 - - place
   - we
   - shall
+- - an
+  - earthy
+  - temper
 - - we
   - first
   - conceive
-- - if
-  - she
-  - lift
-- - stones
-  - one
-  - resembling
 - - animal
   - we
   - first
-- - if
-  - she
-  - run
-- - this
-  - stone
-  - saith
+- - stones
+  - one
+  - resembling
 - - there
   - any
   - substantial
+- - if
+  - she
+  - lift
 - - this
-  - opinion
-  - saying
-- - great
-  - are
-  - sometimes
-- - commonly
-  - bear
-  - this
+  - stone
+  - saith
 - - toad
   - there
   - may
-- - also
-  - they
-  - say
+- - much
+  - delighted
+  - so
+- - this
+  - opinion
+  - saying
+- - commonly
+  - bear
+  - this
+- - if
+  - she
+  - run
 - - try
   - this
   - experiment
 - - bluish
   - eye
   - this
-- - much
-  - delighted
-  - so
+- - also
+  - they
+  - say
+- - great
+  - are
+  - sometimes
 - - names
   - this
   - stone
-- - little
-  - blood
-  - so
 - - are
   - much
   - delighted
+- - little
+  - blood
+  - so
 - - toads
   - are
   - much
 - - cold
   - this
   - stone
-- - an
-  - insect
-  - rather
-- - those
-  - stones
-  - which
 - - eye
   - this
   - stone
-- - into
-  - very
-  - many
 - - gotten
   - against
   - this
+- - an
+  - insect
+  - rather
 - - against
   - this
   - opinion
+- - into
+  - very
+  - many
 - - yet
   - both
   - are
-- - search
-  - had
-  - discovered
-- - which
-  - hee
-  - may
+- - those
+  - stones
+  - which
 - - like
   - we
   - daily
-- - up
-  - her
-  - head
-- - them
-  - through
-  - some
+- - prevent
+  - or
+  - cure
 - - scarce
   - find
   - one
 - - will
   - cure
   - them
-- - an
-  - old
-  - toad
-- - an
-  - old
-  - toad
-- - adversity
-  - which
-  - like
-- - this
-  - stone
-  - should
-- - this
-  - stone
-  - should
-- - bear
-  - this
-  - name
-- - bear
-  - this
-  - name
-- - prevent
-  - or
-  - cure
+- - which
+  - hee
+  - may
+- - them
+  - through
+  - some
+- - search
+  - had
+  - discovered
+- - or
+  - blew
+  - spot
+- - or
+  - blew
+  - spot
 - - such
   - thing
   - there
-- - these
-  - stones
-  - one
-- - toad
-  - but
-  - let's
-- - quotes
-  - from
-  - edward
-- - other
-  - place
-  - we
-- - or
-  - blew
-  - spot
-- - or
-  - blew
-  - spot
-- - quotes
-  - from
-  - thomas
 - - eye
   - or
   - blew
-- - long
-  - search
-  - had
+- - this
+  - stone
+  - should
+- - this
+  - stone
+  - should
+- - an
+  - old
+  - toad
+- - an
+  - old
+  - toad
+- - toad
+  - but
+  - let's
+- - up
+  - her
+  - head
+- - bear
+  - this
+  - name
+- - bear
+  - this
+  - name
 - - white
   - stone
   - or
+- - these
+  - stones
+  - one
 - - if
   - any
   - such
+- - other
+  - place
+  - we
+- - adversity
+  - which
+  - like
+- - or
+  - blackish
+  - having
+- - quotes
+  - from
+  - edward
 - - say
   - this
   - stone
 - - how
   - this
   - stone
+- - quotes
+  - from
+  - thomas
 - - find
   - one
   - nor
+- - stone
+  - or
+  - rather
+- - though
+  - she
+  - would
+- - long
+  - search
+  - had
+- - are
+  - every
+  - where
+- - them
+  - so
+  - saith
 - - greenish
   - some
   - are
 - - took
   - an
   - old
-- - though
-  - she
-  - would
-- - are
-  - every
-  - where
-- - or
-  - blackish
-  - having
-- - them
-  - so
-  - saith
-- - others
-  - have
-  - delivered
 - - cure
   - them
   - so
-- - be
-  - picky
-  - sweet
-- - also
-  - quotes
-  - from
-- - stone
-  - or
-  - rather
+- - others
+  - have
+  - delivered
 - - stone
   - but
   - rather
+- - be
+  - picky
+  - sweet
+- - dare
+  - not
+  - conclude
+- - stones
+  - be
+  - held
+- - also
+  - quotes
+  - from
+- - be
+  - doubted
+  - whether
+- - be
+  - satisfied
+  - whether
+- - this
+  - name
+  - much
+- - thereof
+  - be
+  - lost
+- - this
+  - stone
+  - now
+- - not
+  - conclude
+  - either
+- - toad
+  - be
+  - dead
+- - be
+  - gotten
+  - against
+- - are
+  - 'no'
+  - bigger
+- - visible
+  - if
+  - they
+- - toads
+  - if
+  - we
+- - they
+  - stretch
+  - out
+- - its
+  - names
+  - this
+- - or
+  - swallowed
+  - down
+- - they
+  - cast
+  - out
+- - head
+  - but
+  - instantly
+- - stone
+  - but
+  - after
+- - if
+  - we
+  - want
+- - should
+  - be
+  - gotten
+- - earth
+  - by
+  - thundering
+- - or
+  - really
+  - any
+- - rarity
+  - but
+  - may
 story:
   date: 2009-09-14
   id: 2009-09-14-precious-stones-embedded-in-the-heads-of-toads

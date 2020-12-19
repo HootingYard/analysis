@@ -8,24 +8,24 @@ ngrams:
 - - jah
   - rastafari
   - assumes
-- - rastafari
-  - similarly
-  - indirectly
 - - selassie
   - jah
   - rastafari
+- - rastafari
+  - similarly
+  - indirectly
 - - haile
   - selassie
   - jah
 - - fruitless
   - conjecture
   - fruitlessness
-- - ignores
-  - emperor
-  - haile
 - - jah
   - rastafari
   - similarly
+- - ignores
+  - emperor
+  - haile
 - - emperor
   - haile
   - selassie
@@ -41,90 +41,96 @@ ngrams:
 - - emperor
   - haile
   - selassie
-- - coats
-  - waves
-  - lap
 - - natty
   - dread
   - natty
 - - dreadlocked
   - rasta
   - slumped
-- - leavis
-  - issued
-  - dub
 - - dread
   - natty
   - dread
+- - coats
+  - waves
+  - lap
+- - leavis
+  - issued
+  - dub
 - - canonical
   - authors
   - albeit
-- - issued
-  - dub
-  - versions
-- - require
-  - nine
-  - typewriters
 - - regarding
   - haile
   - selassie
+- - issued
+  - dub
+  - versions
 - - conclusions
   - regarding
   - haile
-- - jane
-  - austen
-  - george
-- - other's
-  - hairy
-  - coats
-- - james
-  - joseph
-  - conrad
-- - austen
-  - george
-  - eliot
-- - dub
-  - versions
-  - setting
-- - austen
-  - eliot
-  - james
+- - require
+  - nine
+  - typewriters
 - - tradition
   - wholly
   - ignores
+- - dub
+  - versions
+  - setting
+- - other's
+  - hairy
+  - coats
+- - jane
+  - austen
+  - george
+- - austen
+  - george
+  - eliot
+- - austen
+  - eliot
+  - james
+- - james
+  - joseph
+  - conrad
 - - eliot
   - james
   - conrad
-- - hairy
-  - coats
-  - waves
 - - wholly
   - ignores
   - emperor
+- - hairy
+  - coats
+  - waves
+- - f
+  - r
+  - leavis
+- - f
+  - r
+  - leavis
+- - f
+  - r
+  - leavis
 - - propel
   - f
   - r
-- - f
-  - r
-  - leavis
-- - f
-  - r
-  - leavis
-- - f
-  - r
-  - leavis
-- - foliage
-  - monkeys
-  - cavort
 - - d
   - h
   - lawrence
-- - henry
-  - james
-  - joseph
+- - foliage
+  - monkeys
+  - cavort
+- - demented
+  - d
+  - h
 - - george
   - eliot
   - henry
+- - versions
+  - setting
+  - aside
+- - henry
+  - james
+  - joseph
 - - eliot
   - henry
   - james
@@ -140,48 +146,39 @@ ngrams:
 - - poor
   - demented
   - lawrence
-- - third
-  - desperate
-  - trawl
-- - versions
-  - setting
-  - aside
-- - demented
-  - d
-  - h
-- - emerging
-  - empty
-  - handed
-- - jah
-  - incidentally
-  - except
-- - higher
-  - foliage
-  - monkeys
 - - business
   - natty
   - dread
-- - james
-  - conrad
-  - poor
+- - emerging
+  - empty
+  - handed
+- - third
+  - desperate
+  - trawl
+- - higher
+  - foliage
+  - monkeys
+- - jah
+  - incidentally
+  - except
 - - poor
   - demented
   - d
+- - james
+  - conrad
+  - poor
 - - nearest
   - typewriter
   - shop
-- - occasional
-  - rest
-  - breaks
-- - shop
-  - nine
-  - secondhand
 - - monkeys
   - nine
   - monkeys
-- - taking
-  - occasional
+- - shop
+  - nine
+  - secondhand
+- - occasional
   - rest
+  - breaks
 - - waves
   - lap
   - against
@@ -191,6 +188,9 @@ ngrams:
 - - rasta
   - slumped
   - against
+- - taking
+  - occasional
+  - rest
 - - trees
   - using
   - fruit
@@ -230,54 +230,54 @@ ngrams:
 - - conjecture
   - fruitlessness
   - must
-- - each
-  - other's
-  - hairy
 - - fruitlessness
   - soon
   - enough
+- - each
+  - other's
+  - hairy
 - - great
   - tradition
   - wholly
-- - find
-  - stray
-  - references
-- - great
-  - english
-  - novelists
 - - proper
   - place
   - atop
 - - again
   - emerging
   - empty
-- - under
-  - western
-  - eyes
+- - find
+  - stray
+  - references
+- - great
+  - english
+  - novelists
 - - actually
   - takes
   - rather
+- - under
+  - western
+  - eyes
 - - monkeys
   - typing
   - away
-- - sheer
-  - amount
-  - these
 - - less
   - cogent
   - well
+- - sheer
+  - amount
+  - these
 - - away
   - taking
   - occasional
 - - fruitlessness
   - must
   - always
-- - our
-  - canonical
-  - authors
 - - those
   - curious
   - coincidences
+- - our
+  - canonical
+  - authors
 - - witnessing
   - watching
   - our
@@ -287,12 +287,12 @@ ngrams:
 - - our
   - monkeys
   - typing
-- - watching
-  - our
-  - monkeys
 - - where
   - emperor
   - haile
+- - watching
+  - our
+  - monkeys
 - - course
   - always
   - possible
@@ -302,30 +302,27 @@ ngrams:
 - - probably
   - also
   - find
+- - typewriters
+  - heaped
+  - upon
 - - new
   - great
   - tradition
 - - amount
   - these
   - people
-- - natty
-  - dread
-  - like
-- - brand
-  - new
-  - great
 - - any
   - less
   - cogent
-- - typewriters
-  - heaped
-  - upon
+- - brand
+  - new
+  - great
+- - natty
+  - dread
+  - like
 - - also
   - find
   - room
-- - our
-  - barrow
-  - under
 - - definition
   - indirect
   - could
@@ -335,30 +332,33 @@ ngrams:
 - - write
   - any
   - english
-- - these
-  - people
-  - wrote
 - - thinking
   - any
   - less
-- - any
-  - thinking
-  - person
+- - our
+  - barrow
+  - under
+- - these
+  - people
+  - wrote
 - - actually
   - write
   - any
 - - batty
   - rather
   - than
-- - found
-  - any
-  - trace
 - - rather
   - than
   - natty
+- - any
+  - thinking
+  - person
 - - teensy
   - bit
   - more
+- - bit
+  - more
+  - cogently
 story:
   date: 2012-05-27
   id: 2012-05-27-on-natty-dread

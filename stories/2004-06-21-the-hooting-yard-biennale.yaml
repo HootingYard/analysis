@@ -11,30 +11,27 @@ ngrams:
 - - rufus
   - hinge
   - reads
-- - ono
-  - ayn
-  - rand
 - - columbus
   - christopher
   - plummer
+- - ono
+  - ayn
+  - rand
+- - christopher
+  - columbus
+  - christopher
 - - author
   - francoise
   - sagan
 - - yoko
   - ono
   - ayn
-- - christopher
-  - columbus
-  - christopher
 - - late
   - lamented
   - astronomer
 - - french
   - author
   - francoise
-- - pond
-  - draining
-  - skipping
 - - tull
   - late
   - lamented
@@ -44,21 +41,24 @@ ngrams:
 - - dancing
   - balaclava
   - wearing
-- - ferocious
-  - giant
-  - invisible
 - - jethro
   - tull
   - late
+- - ferocious
+  - giant
+  - invisible
+- - pond
+  - draining
+  - skipping
 - - child
   - method
   - actor
-- - including
-  - agamemnon
-  - thomas
 - - parts
   - including
   - agamemnon
+- - including
+  - agamemnon
+  - thomas
 - - balaclava
   - wearing
   - pond

@@ -2,30 +2,30 @@ ngrams:
 - - lorries
   - thundered
   - fortunately
-- - container
-  - lorries
-  - thundered
-- - inhumane
-  - slaughtering
-  - methods
 - - unexploded
   - mines
   - therein
 - - florid
   - chubby
   - deranged
-- - major
-  - arterial
-  - thoroughfare
+- - container
+  - lorries
+  - thundered
+- - inhumane
+  - slaughtering
+  - methods
 - - freezing
   - minuscule
   - organisms
-- - sharp
-  - knives
-  - axes
+- - major
+  - arterial
+  - thoroughfare
 - - falling
   - shard
   - sliced
+- - sharp
+  - knives
+  - axes
 - - roll
   - gathering
   - pace
@@ -65,6 +65,9 @@ ngrams:
 - - sexton
   - whose
   - beard
+- - arterial
+  - thoroughfare
+  - along
 - - necessity
   - holy
   - water
@@ -74,27 +77,24 @@ ngrams:
 - - following
   - months
   - usually
-- - arterial
-  - thoroughfare
-  - along
 - - burrowed
   - tiny
   - tunnels
 - - pulled
   - across
   - lawns
-- - let
-  - forth
-  - monsters
 - - lead
   - does
   - wonders
-- - garden
-  - gate
-  - however
+- - let
+  - forth
+  - monsters
 - - few
   - pitiable
   - belongings
+- - garden
+  - gate
+  - however
 - - fortunately
   - though
   - perplexingly
@@ -104,12 +104,12 @@ ngrams:
 - - forth
   - monsters
   - though
-- - regular
-  - swimming
-  - while
 - - village
   - greens
   - until
+- - regular
+  - swimming
+  - while
 - - swimming
   - while
   - wearing
@@ -128,12 +128,12 @@ ngrams:
 - - minuscule
   - imagine
   - how
-- - steep
-  - hillsides
-  - down
 - - propped
   - jauntily
   - over
+- - steep
+  - hillsides
+  - down
 - - short
   - life
   - things
@@ -143,20 +143,23 @@ ngrams:
 - - lived
   - far
   - far
-- - our
-  - hotel
-  - during
 - - eggs
   - before
   - death
-- - through
-  - much
-  - travail
+- - our
+  - hotel
+  - during
 - - much
   - much
   - worse
+- - through
+  - much
+  - travail
 - - passed
   - through
+  - much
+- - get
+  - much
   - much
 - - up
   - one's
@@ -164,45 +167,39 @@ ngrams:
 - - build
   - up
   - one's
-- - get
-  - much
-  - much
 - - laid
   - their
   - eggs
 - - splashed
   - about
   - bawling
-- - microscopically
-  - wee
-  - were
-- - organisms
-  - were
-  - minuscule
 - - survived
   - into
   - toddlerhood
+- - microscopically
+  - wee
+  - were
 - - riddled
   - swam
   - into
+- - organisms
+  - were
+  - minuscule
 - - were
   - minuscule
   - imagine
-- - who
-  - took
-  - both
 - - caution
   - served
   - me
+- - who
+  - took
+  - both
 - - tiny
   - tunnels
   - into
 - - wherein
   - they
   - laid
-- - into
-  - toddlerhood
-  - around
 - - sexton
   - gave
   - me
@@ -212,6 +209,9 @@ ngrams:
 - - would
   - roll
   - gathering
+- - into
+  - toddlerhood
+  - around
 - - death
   - claimed
   - me

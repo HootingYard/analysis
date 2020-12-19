@@ -1,10 +1,10 @@
 ngrams:
-- - baruch
-  - spinoza
-  - hello
 - - inmost
   - hub
   - grandma
+- - baruch
+  - spinoza
+  - hello
 - - zoo
   - unemployed
   - penniless
@@ -26,39 +26,36 @@ ngrams:
 - - tall
   - circus
   - pole
+- - lovely
+  - zoo
+  - unemployed
 - - throat
   - you're
   - fired
 - - sounds
   - highly
   - entertaining
-- - lovely
-  - zoo
-  - unemployed
 - - bargain
   - bin
   - p
 - - bin
   - p
   - vulture
-- - ring
-  - below
-  - accepting
 - - can't
   - stand
   - whining
+- - ring
+  - below
+  - accepting
 - - seaside
   - resort
   - jostling
-- - james
-  - stern
-  - everything
 - - municipal
   - seaside
   - dustbin
-- - became
-  - hopelessly
-  - entangled
+- - james
+  - stern
+  - everything
 - - hereditary
   - memory
   - passed
@@ -68,6 +65,9 @@ ngrams:
 - - eventually
   - arrived
   - panting
+- - became
+  - hopelessly
+  - entangled
 - - field
   - slap
   - bang
@@ -80,12 +80,12 @@ ngrams:
 - - identity
   - number
   - tattooed
-- - big
-  - top
-  - happier
 - - geraldine
   - also
   - punched
+- - big
+  - top
+  - happier
 - - big
   - top
   - pitched
@@ -95,30 +95,30 @@ ngrams:
 - - slap
   - bang
   - next
+- - yourself
+  - actually
+  - don't
 - - every
   - depth
   - flooding
 - - depth
   - flooding
   - every
-- - name
-  - spoken
-  - aloud
 - - filling
   - every
   - depth
-- - yourself
-  - actually
+- - name
+  - spoken
+  - aloud
+- - actually
   - don't
+  - answer
 - - flooding
   - every
   - shore
 - - yea
   - unto
   - every
-- - actually
-  - don't
-  - answer
 - - unto
   - every
   - generation
@@ -128,21 +128,21 @@ ngrams:
 - - absolutely
   - still
   - chin
+- - stand
+  - absolutely
+  - still
 - - dainty
   - little
   - fist
 - - little
   - fist
   - won
-- - stand
-  - absolutely
-  - still
-- - realm
-  - last
-  - week
 - - avenged
   - falling
   - back
+- - realm
+  - last
+  - week
 - - dobson's
   - pamphlet
   - things
@@ -152,21 +152,18 @@ ngrams:
 - - ran
   - away
   - oh
+- - town
+  - while
+  - running
 - - muggy
   - summer's
   - day
 - - our
   - circus
   - tent
-- - town
-  - while
-  - running
 - - highly
   - entertaining
   - said
-- - dobson
-  - really
-  - seemed
 - - throat
   - years
   - ago
@@ -176,66 +173,69 @@ ngrams:
 - - open
   - arms
   - before
+- - pointy
+  - town
+  - while
+- - dobson
+  - really
+  - seemed
 - - memory
   - passed
   - down
 - - suggested
   - two
   - things
-- - her
-  - funeral
-  - costs
-- - pointy
-  - town
-  - while
-- - pay
-  - her
-  - funeral
+- - visit
+  - though
+  - years
 - - presented
   - myself
   - before
 - - arms
   - before
   - going
-- - visit
-  - though
-  - years
-- - she
-  - became
-  - hopelessly
-- - knitting
-  - she
-  - looked
+- - her
+  - funeral
+  - costs
 - - took
   - several
   - years
+- - pay
+  - her
+  - funeral
 - - bin
   - prices
   - can
+- - knitting
+  - she
+  - looked
+- - she
+  - became
+  - hopelessly
 - - him
   - drowning
   - irretrievably
-- - whose
-  - feet
-  - she
-- - week
-  - she
-  - became
-- - away
-  - oh
-  - how
 - - swan
   - can
   - break
+- - away
+  - oh
+  - how
+- - circus
+  - ringmaster
+  - who
 - - ran
   - some
   - weeks
 - - feel
   - him
   - drowning
-- - circus
-  - ringmaster
-  - who
+- - whose
+  - feet
+  - she
+- - week
+  - she
+  - became
 - - their
   - offspring
   - yea
@@ -248,9 +248,12 @@ ngrams:
 - - ringmaster
   - who
   - went
-- - last
-  - week
-  - she
+- - am
+  - little
+  - minnie
+- - wondered
+  - what
+  - qualified
 - - join
   - your
   - circus
@@ -260,21 +263,15 @@ ngrams:
 - - your
   - circus
   - act
+- - last
+  - week
+  - she
 - - your
   - arm
   - according
-- - am
-  - little
-  - minnie
-- - wondered
-  - what
-  - qualified
 - - your
   - feet
   - deal
-- - throat
-  - she
-  - said
 - - seagulls
   - were
   - asleep
@@ -284,138 +281,144 @@ ngrams:
 - - vulture
   - will
   - hack
+- - throat
+  - she
+  - said
 - - still
   - chin
   - up
 - - throwing
   - calmed
   - me
+- - flew
+  - away
+  - up
+- - flew
+  - away
+  - up
 - - all
   - wax
   - removed
-- - flew
-  - away
-  - up
-- - flew
-  - away
-  - up
-- - ever
-  - been
-  - goodbye
 - - hooted
   - deafeningly
   - we
-- - came
-  - swimming
-  - into
 - - funeral
   - costs
-  - we
-- - fatal
-  - results
   - we
 - - vulture
   - would
   - hack
+- - fatal
+  - results
+  - we
+- - came
+  - swimming
+  - into
+- - ever
+  - been
+  - goodbye
+- - would
+  - hack
+  - dennis
+- - feet
+  - would
+  - allow
 - - last
   - were
   - translated
 - - never
   - been
   - employed
-- - would
-  - hack
-  - dennis
-- - her
-  - like
-  - again
-- - feet
-  - would
-  - allow
 - - shoved
   - me
   - along
-- - door
-  - behind
-  - me
 - - stand
   - whining
   - so
-- - circus
-  - act
-  - which
 - - results
   - we
   - shall
-- - see
-  - her
-  - like
-- - let
-  - myself
-  - out
+- - door
+  - behind
+  - me
 - - there
   - came
   - swimming
-- - are
-  - savage
-  - wild
+- - let
+  - myself
+  - out
+- - her
+  - like
+  - again
+- - circus
+  - act
+  - which
 - - talking
   - about
   - over
+- - are
+  - savage
+  - wild
 - - see
   - me
   - welcomed
-- - she
-  - looked
-  - up
-- - will
-  - only
-  - whine
 - - pamphlet
   - back
   - into
+- - will
+  - only
+  - whine
+- - see
+  - her
+  - like
 - - an
   - aviary
   - assistant
-- - an
-  - instant
-  - success
+- - she
+  - looked
+  - up
+- - before
+  - going
+  - into
 - - birds
   - are
   - savage
+- - an
+  - instant
+  - success
 - - difficulty
   - finding
   - an
+- - one
+  - muggy
+  - summer's
 - - expect
   - birds
   - are
 - - calmed
   - me
   - down
-- - before
-  - going
-  - into
 - - an
   - available
   - vulture
 - - finding
   - an
   - available
-- - one
-  - muggy
-  - summer's
-- - me
-  - down
-  - leaving
-- - can
-  - break
-  - your
 - - we
   - pitched
   - our
+- - me
+  - down
+  - leaving
 - - this
   - mortal
   - realm
+- - can
+  - break
+  - your
+- - any
+  - vulture
+  - would
 - - feet
   - what
   - do
@@ -425,27 +428,24 @@ ngrams:
 - - day
   - we
   - pitched
-- - are
-  - selling
-  - 'off'
-- - beyond
-  - this
-  - mortal
-- - any
-  - vulture
-  - would
 - - descended
   - upon
   - me
 - - sure
   - would
   - see
-- - shut
-  - which
-  - made
-- - passed
-  - beyond
+- - beyond
   - this
+  - mortal
+- - are
+  - selling
+  - 'off'
+- - me
+  - more
+  - furious
+- - any
+  - capacity
+  - so
 story:
   date: 2018-03-03
   id: 2018-03-03-the-vulture

@@ -1,25 +1,25 @@
 ngrams:
-- - blasphemous
-  - heraldic
-  - devices
 - - darts
   - woe
   - betide
 - - prince's
   - henchmen
   - patrolled
+- - blasphemous
+  - heraldic
+  - devices
 - - blow
   - poisoned
   - darts
-- - showing
-  - blasphemous
-  - heraldic
 - - poisoned
   - darts
   - woe
 - - martial
   - bearing
   - clanking
+- - showing
+  - blasphemous
+  - heraldic
 - - pragmatic
   - dismissing
   - george
@@ -47,15 +47,21 @@ ngrams:
 - - interviews
   - prince
   - fulgencio
-- - entertainment
-  - prince
-  - fulgencio
-- - proven
-  - track
-  - record
 - - immediately
   - surrounded
   - overpowered
+- - entertainment
+  - prince
+  - fulgencio
+- - unwise
+  - decision
+  - o
+- - proven
+  - track
+  - record
+- - becoming
+  - restive
+  - o
 - - manacle
   - wanted
   - fool
@@ -65,54 +71,48 @@ ngrams:
 - - fool
   - prince
   - fulgencio
-- - unwise
-  - decision
-  - o
-- - metal
-  - tapping
-  - machine
-- - daily
-  - manacle
-  - wanted
-- - becoming
-  - restive
-  - o
-- - delivering
-  - merrymaking
-  - within
 - - restive
   - o
   - prince
-- - mingled
-  - incognito
-  - among
 - - decision
   - o
   - prince
+- - daily
+  - manacle
+  - wanted
+- - metal
+  - tapping
+  - machine
+- - delivering
+  - merrymaking
+  - within
 - - o
   - prince
   - meanwhile
-- - called
-  - george
-  - kaplan
+- - mingled
+  - incognito
+  - among
 - - given
   - regular
   - breaks
+- - called
+  - george
+  - kaplan
 - - crows
   - whose
   - heads
 - - bearing
   - clanking
   - around
+- - nor
+  - high
+  - jinks
 - - banners
   - flying
   - every
 - - prince
   - fulgencio
   - himself
-- - nor
-  - high
-  - jinks
 - - delivered
   - while
   - dragging
@@ -128,69 +128,69 @@ ngrams:
 - - castle
   - battlements
   - through
-- - man
-  - named
-  - selwyn
 - - each
   - given
   - regular
 - - dragging
   - himself
   - around
-- - journey
-  - through
-  - space
 - - betide
   - any
   - interloper
+- - man
+  - named
+  - selwyn
+- - journey
+  - through
+  - space
 - - woe
   - betide
   - any
-- - while
-  - dragging
-  - himself
 - - o
   - prince
   - many
-- - went
-  - creeping
-  - down
+- - while
+  - dragging
+  - himself
 - - battlements
   - through
   - every
+- - went
+  - creeping
+  - down
 - - through
   - every
   - hour
 - - fulgencio
   - himself
   - did
+- - them
+  - showing
+  - blasphemous
 - - malfi
   - who
   - mingled
 - - who
   - mingled
   - incognito
-- - them
-  - showing
-  - blasphemous
 - - exceeding
   - glum
   - 'no'
-- - princely
-  - your
-  - helicopter
 - - other
   - planetoids
   - much
-- - restive
-  - your
-  - henchmen
-- - shouting
-  - their
-  - heads
 - - what
   - secrets
   - lurked
+- - shouting
+  - their
+  - heads
+- - princely
+  - your
+  - helicopter
+- - restive
+  - your
+  - henchmen
 - - discover
   - what
   - secrets
@@ -200,12 +200,15 @@ ngrams:
 - - successful
   - candidate
   - will
-- - interloper
-  - who
-  - made
 - - heraldic
   - devices
   - all
+- - interloper
+  - who
+  - made
+- - will
+  - o
+  - prince
 - - though
   - restive
   - your
@@ -220,9 +223,6 @@ ngrams:
   - they
 - - they
   - hacked
-  - prince
-- - will
-  - o
   - prince
 - - any
   - interloper
@@ -245,30 +245,30 @@ ngrams:
 - - are
   - becoming
   - restive
-- - girly
-  - planet
-  - which
 - - henchmen
   - are
   - fanatically
-- - castle
-  - which
-  - reflects
 - - henchmen
   - are
   - becoming
+- - castle
+  - which
+  - reflects
 - - were
   - each
   - given
+- - girly
+  - planet
+  - which
 - - their
   - like
   - elsewhere
 - - heads
   - were
   - back
-- - jester
-  - an
-  - entertainer
+- - might
+  - find
+  - their
 story:
   date: 2006-04-08
   id: 2006-04-08-lugubrious-fool

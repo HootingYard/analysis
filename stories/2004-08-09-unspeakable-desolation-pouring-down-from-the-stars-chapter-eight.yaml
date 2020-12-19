@@ -14,102 +14,108 @@ ngrams:
 - - blond
   - windswept
   - lad
-- - philatelist
-  - istvan
-  - plunkett
-- - indoor
-  - hockey
-  - pitch
 - - hockey
   - pitch
   - ok
-- - pitch
-  - ok
-  - yelled
-- - quarry
-  - istvan
-  - plunkett
-- - scheming
-  - there's
-  - paperwork
+- - indoor
+  - hockey
+  - pitch
 - - society
   - rudyard
   - splint
-- - unspeakable
-  - desolation
-  - pouring
+- - scheming
+  - there's
+  - paperwork
+- - pitch
+  - ok
+  - yelled
 - - towering
   - brute
   - stomped
-- - tall
-  - blond
-  - windswept
 - - plotting
   - fantastic
   - calamities
-- - sainted
-  - mister
-  - patch
-- - abandoned
-  - indoor
-  - hockey
+- - tall
+  - blond
+  - windswept
+- - philatelist
+  - istvan
+  - plunkett
+- - quarry
+  - istvan
+  - plunkett
+- - unspeakable
+  - desolation
+  - pouring
 - - tenebrous
   - interior
   - dressed
+- - abandoned
+  - indoor
+  - hockey
+- - plumbing
+  - fanatic
+  - eventually
 - - noted
   - philatelist
   - istvan
+- - sainted
+  - mister
+  - patch
 - - dictaphone
   - tape
   - ran
 - - understatement
   - flabbergasted
   - please
-- - plumbing
-  - fanatic
-  - eventually
 - - flabbergasted
   - please
   - forgive
-- - chapter
-  - eight
-  - hello
-- - stamp
-  - collection
-  - stolen
 - - invented
   - brilliantly
   - i'm
-- - nurse
-  - says
-  - he's
 - - various
   - dank
   - corridors
+- - stamp
+  - collection
+  - stolen
 - - wooden
   - stool
   - frantic
-- - it's
-  - incredibly
-  - complicated
+- - chapter
+  - eight
+  - hello
+- - nurse
+  - says
+  - he's
 - - film
   - actress
   - vilma
+- - it's
+  - incredibly
+  - complicated
 - - inhuman
   - patience
   - 'yes'
-- - stars
-  - chapter
-  - eight
-- - iron
-  - spigot
-  - standing
 - - spigot
   - standing
   - alone
+- - iron
+  - spigot
+  - standing
+- - noted
+  - philatelist
+  - 'yes'
 - - huge
   - iron
   - spigot
+- - stars
+  - chapter
+  - eight
+- - dark
+  - wooden
+  - furnishings
 - - alternate
   - weeks
   - mrs
@@ -119,75 +125,69 @@ ngrams:
 - - mrs
   - skim
   - comes
-- - noted
-  - philatelist
-  - 'yes'
-- - dark
-  - wooden
-  - furnishings
+- - luckily
+  - i've
+  - done
 - - almost
   - inhuman
   - patience
 - - brute
   - stomped
   - towards
-- - room
-  - wherein
-  - lurked
-- - luckily
-  - i've
-  - done
 - - someone
   - else
   - takes
-- - adjacent
-  - room
-  - stuffed
-- - boy
-  - seemed
-  - convinced
 - - added
   - desperately
   - oh
+- - boy
+  - seemed
+  - convinced
+- - room
+  - wherein
+  - lurked
+- - adjacent
+  - room
+  - stuffed
 - - seemed
   - convinced
   - fire
-- - huge
-  - dark
-  - wooden
-- - everyone
-  - else
-  - seems
 - - discovered
   - further
   - supplies
+- - everyone
+  - else
+  - seems
+- - huge
+  - dark
+  - wooden
 - - mike
   - oh
   - 'yes'
-- - mind
-  - everyone
-  - else
 - - forgive
   - another
   - hiatus
-- - small
-  - dictaphone
-  - don't
-- - door
-  - crashed
-  - open
+- - mind
+  - everyone
+  - else
 - - get
   - horribly
   - drunk
+- - door
+  - crashed
+  - open
+- - small
+  - dictaphone
+  - don't
 - - paraphrase
   - question
   - number
-- - devils
-  - i'll
-  - get
 - - flue
   - brothers
   - each
+- - devils
+  - i'll
+  - get
 - - few
   - churlish
   - efforts
@@ -197,69 +197,75 @@ ngrams:
 - - dank
   - corridors
   - until
-- - biro
-  - great
-  - heavens
 - - fetch
   - another
   - tape
+- - biro
+  - great
+  - heavens
 - - i'll
   - get
   - someone
-- - please
-  - forgive
-  - another
-- - eventually
-  - found
-  - oblivion
-- - wooden
-  - furnishings
-  - each
 - - goings
   - mr
   - slop
-- - most
-  - irritating
-  - laughter
-- - managed
-  - i've
-  - come
+- - eventually
+  - found
+  - oblivion
+- - please
+  - forgive
+  - another
 - - hummed
   - gently
   - mr
-- - soon
-  - discovered
-  - further
-- - he's
-  - too
-  - ill
-- - taking
-  - place
-  - inside
 - - gently
   - mr
   - plunkett
-- - unbelievably
-  - tedious
-  - little
-- - tedious
-  - little
-  - dialogue
+- - wooden
+  - furnishings
+  - each
+- - soon
+  - discovered
+  - further
+- - most
+  - irritating
+  - laughter
+- - he's
+  - too
+  - ill
+- - managed
+  - i've
+  - come
 - - well
   - luckily
   - i've
 - - ah
   - well
   - luckily
-- - great
-  - film
-  - actress
+- - taking
+  - place
+  - inside
 - - forms
   - ah
   - well
+- - great
+  - film
+  - actress
 - - cannot
   - proceed
   - without
+- - unbelievably
+  - tedious
+  - little
+- - tedious
+  - little
+  - dialogue
+- - always
+  - hated
+  - people
+- - says
+  - he's
+  - too
 - - people
   - whose
   - names
@@ -267,338 +273,428 @@ ngrams:
   - look
   - surely
 - - always
-  - hated
-  - people
-- - says
-  - he's
-  - too
-- - always
   - prided
   - myself
-- - man
-  - reappeared
-  - crikey
 - - another
   - tape
   - look
 - - convinced
   - fire
   - away
+- - man
+  - reappeared
+  - crikey
 - - found
   - myself
   - imagining
-- - 'off'
-  - it's
-  - incredibly
-- - called
-  - i've
-  - come
 - - hour
   - traipsing
   - through
+- - 'off'
+  - it's
+  - incredibly
 - - tap
   - after
   - waiting
-- - shifts
-  - i'm
-  - here
+- - called
+  - i've
+  - come
 - - traipsing
   - through
   - various
-- - through
-  - various
-  - dank
-- - look
-  - look
-  - look
 - - tap
   - myself
   - come
-- - six
-  - months
-  - 'off'
+- - through
+  - various
+  - dank
 - - ever
   - heard
   - anyway
-- - athletic
-  - young
-  - man
-- - young
-  - man
-  - reappeared
-- - desolation
-  - pouring
-  - down
+- - shifts
+  - i'm
+  - here
 - - questions
   - i'll
   - just
-- - months
-  - 'off'
-  - it's
+- - proceed
+  - without
+  - mr
 - - said
   - scheming
   - there's
 - - action
   - yet
   - again
+- - look
+  - look
+  - look
+- - six
+  - months
+  - 'off'
+- - months
+  - 'off'
+  - it's
+- - desolation
+  - pouring
+  - down
 - - never
   - mind
   - everyone
-- - proceed
-  - without
-  - mr
-- - found
-  - myself
-  - face
-- - number
-  - two
-  - names
+- - young
+  - man
+  - reappeared
+- - athletic
+  - young
+  - man
 - - takes
   - over
   - there's
-- - anyway
-  - never
-  - mind
 - - heard
   - anyway
   - never
-- - room
-  - i've
+- - anyway
   - never
+  - mind
 - - felt
   - triumphant
   - over
-- - i'll
-  - just
-  - note
-- - sit
-  - yourself
-  - down
-- - said
-  - slowly
-  - trying
+- - found
+  - myself
+  - face
+- - room
+  - i've
+  - never
+- - number
+  - two
+  - names
 - - triumphant
   - over
   - half
-- - question
-  - number
-  - two
-- - she
-  - drawled
-  - detaching
+- - i'll
+  - just
+  - note
+- - said
+  - slowly
+  - trying
+- - sit
+  - yourself
+  - down
 - - else
   - takes
   - over
-- - her
-  - lips
-  - er
+- - question
+  - number
+  - two
 - - point
   - imagine
   - how
-- - two
-  - people
-  - whose
-- - yourself
-  - she
-  - breathed
-- - nurse
-  - now
-  - sat
+- - she
+  - drawled
+  - detaching
 - - away
   - old
   - bean
-- - that's
-  - fine
-  - she
-- - you've
-  - come
-  - here
+- - nurse
+  - now
+  - sat
 - - great
   - fists
   - those
-- - 'yes'
-  - she
-  - drawled
-- - astonishing
-  - 'yes'
-  - she
+- - two
+  - people
+  - whose
+- - you've
+  - come
+  - here
 - - cravat
   - do
   - alternate
-- - she
-  - asked
-  - switching
+- - her
+  - lips
+  - er
+- - yourself
+  - she
+  - breathed
 - - fire
   - away
   - old
-- - edged
-  - past
-  - her
+- - that's
+  - fine
+  - she
+- - time
+  - that's
+  - fine
 - - do
   - shifts
   - i'm
 - - do
   - alternate
   - weeks
-- - loudly
-  - enough
+- - 'yes'
   - she
-- - hated
-  - people
-  - like
-- - time
-  - that's
-  - fine
-- - witness
-  - him
-  - signing
+  - drawled
+- - astonishing
+  - 'yes'
+  - she
 - - then
   - someone
   - else
+- - hated
+  - people
+  - like
+- - she
+  - asked
+  - switching
+- - witness
+  - him
+  - signing
 - - said
   - look
   - look
+- - loudly
+  - enough
+  - she
+- - edged
+  - past
+  - her
 - - do
   - six
   - months
-- - rudyard
-  - splint
-  - who
-- - servant
-  - who
-  - ushered
 - - second
   - time
   - that's
 - - touch
   - them
   - scum
-- - replied
-  - mister
+- - rudyard
+  - splint
   - who
-- - enough
-  - she
-  - got
-- - their
-  - gilt
-  - frames
+- - servant
+  - who
+  - ushered
 - - i've
   - never
   - even
+- - replied
+  - mister
+  - who
+- - their
+  - gilt
+  - frames
+- - enough
+  - she
+  - got
 - - brothers
   - each
   - do
-- - see
-  - she
-  - replied
-- - each
-  - do
-  - six
 - - mr
   - cravat
   - do
 - - fetched
   - up
   - outside
+- - never
+  - even
+  - seen
+- - each
+  - do
+  - six
 - - imagining
   - what
   - fig
+- - shorts
+  - carrying
+  - what
+- - see
+  - she
+  - replied
 - - your
   - stuff
   - i'll
 - - half
   - been
   - mucking
-- - never
-  - even
-  - seen
-- - shorts
-  - carrying
-  - what
 - - flagstones
   - were
   - partially
-- - misapprehension
-  - she
-  - said
 - - room
   - stuffed
   - up
-- - say
-  - she
-  - asked
 - - vestibule
   - were
   - hung
-- - she
-  - said
-  - you're
-- - she
-  - said
-  - gazing
-- - were
-  - partially
-  - hidden
-- - fine
-  - she
-  - said
-- - seen
-  - him
-  - myself
-- - now
-  - sat
-  - down
 - - said
   - then
   - remembering
-- - bit
+- - were
+  - partially
+  - hidden
+- - seen
+  - him
+  - myself
+- - misapprehension
   - she
   - said
-- - after
-  - some
-  - blather
 - - ran
   - out
   - excuse
-- - been
-  - spilled
-  - next
+- - now
+  - sat
+  - down
+- - say
+  - she
+  - asked
 - - tape
   - ran
   - out
+- - she
+  - said
+  - gazing
+- - she
+  - said
+  - you're
+- - after
+  - some
+  - blather
 - - 'no'
   - mr
   - plunkett
-- - boom
-  - all
-  - bonhomie
 - - more
   - difficult
   - than
-- - screen
-  - all
-  - kitted
+- - fine
+  - she
+  - said
 - - myself
   - imagining
   - what
-- - said
-  - now
-  - let
-- - silver
-  - screen
+- - been
+  - spilled
+  - next
+- - bit
+  - she
+  - said
+- - boom
   - all
+  - bonhomie
 - - seemed
   - completely
   - out
-- - side
-  - after
-  - some
+- - screen
+  - all
+  - kitted
+- - silver
+  - screen
+  - all
+- - said
+  - now
+  - let
 - - finished
   - knocking
   - me
+- - side
+  - after
+  - some
 - - there
   - sport
   - yelled
+- - i've
+  - come
+  - about
+- - i've
+  - come
+  - about
+- - hear
+  - all
+  - sorts
+- - stomped
+  - towards
+  - me
+- - mister
+  - who
+  - did
+- - even
+  - seen
+  - him
+- - don't
+  - know
+  - who
+- - rest
+  - your
+  - little
+- - little
+  - head
+  - she
+- - turned
+  - towards
+  - me
+- - are
+  - losing
+  - patience
+- - let
+  - me
+  - understand
+- - just
+  - rest
+  - your
+- - which
+  - hummed
+  - gently
+- - moment
+  - so
+  - i'll
+- - scribbled
+  - down
+  - what
+- - until
+  - we
+  - fetched
+- - corridors
+  - until
+  - we
+- - machine
+  - which
+  - hummed
+- - know
+  - who
+  - work
+- - i've
+  - done
+  - so
+- - minutes
+  - which
+  - consisted
+- - like
+  - him
+  - always
+- - place
+  - we
+  - got
+- - me
+  - think
+  - there's
+- - think
+  - there's
+  - me
+- - house
+  - which
+  - bore
+- - all
+  - those
+  - resident
+- - interrupted
+  - him
+  - who
+- - an
+  - understatement
+  - flabbergasted
+- - an
+  - unbelievably
+  - tedious
+- - so
+  - i'll
+  - take
 story:
   date: 2004-08-09
   id: 2004-08-09-unspeakable-desolation-pouring-down-from-the-stars-chapter-eight

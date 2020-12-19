@@ -2,12 +2,12 @@ ngrams:
 - - sniffing
   - glue
   - ulf
-- - pal
-  - ulf
-  - ugo
 - - saint
   - hector's
   - cathedral
+- - pal
+  - ulf
+  - ugo
 - - ugo
   - turns
   - blue
@@ -35,24 +35,24 @@ ngrams:
 - - ack
   - said
   - ugo
-- - said
-  - ulf
-  - ugo
 - - tack
   - ack
   - said
+- - said
+  - ulf
+  - ugo
 - - said
   - ugo
   - i'll
 - - saint
   - hector's
   - day
-- - ugo
-  - went
-  - 'off'
 - - ma
   - said
   - ulf
+- - ugo
+  - went
+  - 'off'
 - - blue
   - ack
   - said
@@ -68,15 +68,15 @@ ngrams:
 - - ugo
   - has
   - turned
+- - been
+  - sniffing
+  - glue
+- - has
+  - turned
+  - blue
 - - she
   - jumped
   - 'off'
-- - 'off'
-  - her
-  - stool
-- - jumped
-  - 'off'
-  - her
 story:
   date: 2004-10-07
   id: 2004-10-07-ugo-turns-blue

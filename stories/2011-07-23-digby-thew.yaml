@@ -20,12 +20,12 @@ ngrams:
 - - railway
   - line
   - filling
-- - alone
-  - leaving
-  - aside
 - - issuing
   - dockets
   - oh
+- - alone
+  - leaving
+  - aside
 - - almost
   - physically
   - sick
@@ -44,12 +44,12 @@ ngrams:
 - - shall
   - prance
   - along
-- - first
-  - class
-  - compartments
 - - plays
   - myself
   - indeed
+- - first
+  - class
+  - compartments
 - - oodles
   - our
   - quandary
@@ -74,27 +74,27 @@ ngrams:
 - - more
   - learned
   - colleagues
+- - am
+  - almost
+  - physically
 - - conductor
   - who
   - wreaked
 - - who
   - wreaked
   - untold
-- - am
-  - almost
-  - physically
 - - them
   - alone
   - leaving
 - - well
   - then
   - digby
-- - its
-  - first
-  - class
 - - tilling
   - arbogast
   - what
+- - its
+  - first
+  - class
 - - when
   - tilling
   - arbogast
@@ -104,9 +104,6 @@ ngrams:
 - - fill
   - out
   - dockets
-- - were
-  - kept
-  - awake
 - - boldness
   - if
   - everything
@@ -116,45 +113,48 @@ ngrams:
 - - if
   - everything
   - worked
-- - attending
-  - will
-  - help
+- - were
+  - kept
+  - awake
 - - everything
   - worked
   - out
+- - attending
+  - will
+  - help
 - - what's
   - your
   - take
 - - kept
   - awake
   - all
+- - very
+  - well
+  - then
 - - arbogast
   - what
   - say
 - - like
   - very
   - much
-- - very
-  - well
-  - then
 - - some
   - other
   - line
 - - awake
   - all
   - night
-- - never
-  - been
-  - within
 - - conclusions
   - there
   - set
-- - found
-  - some
-  - other
+- - never
+  - been
+  - within
 - - till
   - 'no'
   - more
+- - found
+  - some
+  - other
 - - all
   - night
   - long
@@ -176,15 +176,15 @@ ngrams:
 - - sleep
   - they
   - were
-- - they
-  - were
-  - kept
-- - car
-  - by
-  - hacking
 - - train
   - at
   - least
+- - car
+  - by
+  - hacking
+- - they
+  - were
+  - kept
 story:
   date: 2011-07-23
   id: 2011-07-23-digby-thew

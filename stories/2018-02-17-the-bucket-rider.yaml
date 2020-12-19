@@ -11,48 +11,48 @@ ngrams:
 - - et
   - cetera
   - et
-- - yoko
-  - ono
-  - physically
-- - flapper
-  - flossie
-  - von
 - - bucket
   - rider
   - coal
+- - flapper
+  - flossie
+  - von
+- - yoko
+  - ono
+  - physically
+- - nisbet
+  - spotting
+  - society
+- - nisbet
+  - spotting
+  - society
 - - stove
   - burning
   - heated
 - - diminutive
   - yoko
   - hence
-- - nisbet
-  - spotting
-  - society
-- - nisbet
-  - spotting
-  - society
-- - weather
-  - forecast
-  - dropped
-- - digest
-  - weather
-  - forecast
 - - lovely
   - chalet
   - heated
+- - digest
+  - weather
+  - forecast
+- - weather
+  - forecast
+  - dropped
 - - cold
   - et
   - cetera
+- - greeting
+  - thank
+  - st
 - - exponentially
   - flossie
   - seemed
 - - flossie
   - seemed
   - unperturbed
-- - greeting
-  - thank
-  - st
 - - ice
   - mountains
   - queuing
@@ -77,75 +77,75 @@ ngrams:
 - - ice
   - mountains
   - apparently
-- - don't
-  - thrive
-  - except
 - - sky
   - speaks
   - french
-- - ice
-  - mountains
-  - news
-- - thrive
+- - don't
+  - thrive
   - except
-  - right
-- - daily
-  - ice
-  - mountains
 - - silver
   - shield
   - against
-- - week
-  - we're
-  - hoping
+- - daily
+  - ice
+  - mountains
+- - ice
+  - mountains
+  - news
 - - often
   - senseless
   - tosh
+- - week
+  - we're
+  - hoping
+- - thrive
+  - except
+  - right
 - - shield
   - against
   - anyone
-- - special
-  - week
-  - we're
+- - town
+  - nisbet
+  - spotting
+- - town
+  - nisbet
+  - spotting
 - - spotting
   - high
   - high
 - - morning
   - parachutes
   - lying
+- - special
+  - week
+  - we're
 - - good
   - luck
   - cheerio
-- - town
-  - nisbet
-  - spotting
-- - town
-  - nisbet
-  - spotting
 - - knots
   - both
   - sturdy
-- - leaving
-  - behind
-  - everything
 - - going
   - somewhat
   - shamefacedly
-- - except
-  - right
-  - near
+- - leaving
+  - behind
+  - everything
 - - chalet
   - high
   - high
-- - door
-  - burst
-  - open
 - - mammals
   - came
   - waltzing
 - - good
   - deal
   - bigger
+- - door
+  - burst
+  - open
+- - except
+  - right
+  - near
 - - milk
   - slops
   - left
@@ -158,141 +158,135 @@ ngrams:
 - - town's
   - most
   - notorious
-- - most
-  - notorious
-  - flapper
+- - pointy
+  - town
+  - nisbet
+- - pointy
+  - town
+  - nisbet
 - - few
   - milk
   - slops
-- - two
-  - coats
-  - ideally
+- - most
+  - notorious
+  - flapper
 - - read
   - please
   - join
-- - pointy
-  - town
-  - nisbet
-- - pointy
-  - town
-  - nisbet
+- - two
+  - coats
+  - ideally
 - - first
   - authenticated
   - spotting
-- - please
-  - join
-  - us
 - - morning
   - it's
   - going
+- - please
+  - join
+  - us
 - - chalet
   - each
   - morning
-- - finnish
-  - verbs
-  - only
 - - pointy
   - town's
   - most
-- - each
-  - morning
-  - it's
-- - three
-  - days
-  - ago
+- - finnish
+  - verbs
+  - only
 - - see
   - pointy
   - town's
+- - each
+  - morning
+  - it's
 - - bigger
   - than
   - diminutive
 - - than
   - diminutive
   - yoko
-- - bucket
-  - let
-  - us
+- - three
+  - days
+  - ago
 - - deal
   - bigger
   - than
+- - bucket
+  - let
+  - us
+- - very
+  - special
+  - week
+- - very
+  - special
+  - week
 - - three
   - days
   - until
-- - very
-  - special
-  - week
-- - very
-  - special
-  - week
 - - door
   - shut
   - before
 - - went
   - back
   - inside
-- - two
-  - coats
-  - made
 - - very
   - few
   - milk
-- - before
-  - rushing
-  - 'off'
+- - two
+  - coats
+  - made
 - - learned
   - more
   - recently
-- - let
-  - us
-  - go
+- - am
+  - lost
+  - forever
+- - before
+  - rushing
+  - 'off'
 - - very
   - first
   - authenticated
+- - let
+  - us
+  - go
 - - date
   - because
   - now
 - - almost
   - spent
   - then
-- - am
-  - lost
-  - forever
 - - anyone
   - who
   - looks
-- - days
-  - ago
-  - now
 - - shout
   - their
   - slogan
+- - days
+  - ago
+  - now
 - - wrap
   - up
   - warm
 - - nisbet
   - higher
   - up
+- - am
+  - lifted
+  - too
 - - burning
   - heated
   - up
 - - against
   - anyone
   - who
-- - am
-  - lifted
-  - too
 - - sky
   - offered
   - 'no'
 - - long
   - time
   - ago
-- - exactly
-  - she
-  - said
-- - she
-  - said
-  - that's
 - - stove
   - breathing
   - out
@@ -308,6 +302,12 @@ ngrams:
 - - out
   - cold
   - et
+- - exactly
+  - she
+  - said
+- - she
+  - said
+  - that's
 - - it's
   - chilly
   - out
@@ -317,12 +317,12 @@ ngrams:
 - - those
   - who
   - damn
-- - coal
-  - all
-  - spent
 - - because
   - now
   - even
+- - coal
+  - all
+  - spent
 - - few
   - essentials
   - into
@@ -341,24 +341,24 @@ ngrams:
 - - apparently
   - they
   - don't
-- - door
-  - behind
-  - me
-- - funicular
-  - railway
-  - which
-- - behind
-  - me
-  - within
-- - me
-  - within
-  - hours
 - - almost
   - spent
   - there
 - - would
   - really
   - give
+- - door
+  - behind
+  - me
+- - behind
+  - me
+  - within
+- - me
+  - within
+  - hours
+- - funicular
+  - railway
+  - which
 - - lavender
   - series
   - are

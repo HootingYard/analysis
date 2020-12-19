@@ -5,12 +5,6 @@ ngrams:
 - - scarlet
   - tanagers
   - grackles
-- - gray
-  - egrets
-  - loons
-- - gray
-  - egrets
-  - loons
 - - egrets
   - loons
   - scarlet
@@ -23,6 +17,12 @@ ngrams:
 - - loons
   - scarlet
   - tanagers
+- - gray
+  - egrets
+  - loons
+- - gray
+  - egrets
+  - loons
 - - inaugural
   - malice
   - aforethought
@@ -41,12 +41,12 @@ ngrams:
 - - fantasy
   - horror
   - guff
-- - evil
-  - clown
-  - spirit
 - - malice
   - aforethought
   - press
+- - evil
+  - clown
+  - spirit
 - - tree
   - plus
   - gongs
@@ -65,12 +65,12 @@ ngrams:
 - - page
   - stephen
   - king
-- - aforethought
-  - press
-  - pamphlet
 - - key
   - cranium
   - rifling
+- - aforethought
+  - press
+  - pamphlet
 - - stephen
   - king
   - books
@@ -86,24 +86,24 @@ ngrams:
 - - few
   - stephen
   - king
-- - fanatically
-  - devoted
-  - hooting
 - - specify
   - whether
   - book
-- - cranium
-  - rifling
-  - through
 - - mr
   - king's
   - books
-- - these
-  - matters
-  - anyway
+- - fanatically
+  - devoted
+  - hooting
+- - cranium
+  - rifling
+  - through
 - - rather
   - important
   - matter
+- - these
+  - matters
+  - anyway
 - - rummaged
   - through
   - past
@@ -113,39 +113,39 @@ ngrams:
 - - point
   - mr
   - key
+- - king
+  - books
+  - over
 - - its
   - present
   - contents
 - - devoted
   - hooting
   - yard
-- - king
-  - books
-  - over
 - - hooting
   - yard
   - reader
 - - being
   - rummaged
   - through
-- - has
-  - sold
-  - millions
-- - correspondent
-  - who
-  - wishes
 - - say
   - mr
   - key
+- - correspondent
+  - who
+  - wishes
+- - has
+  - sold
+  - millions
 - - employing
   - some
   - kind
-- - let
-  - us
-  - say
 - - way
   - how
   - does
+- - let
+  - us
+  - say
 - - us
   - say
   - rather
@@ -155,9 +155,6 @@ ngrams:
 - - world
   - clearly
   - then
-- - young
-  - boy
-  - who
 - - too
   - am
   - puzzled
@@ -167,18 +164,21 @@ ngrams:
 - - then
   - mr
   - king
+- - young
+  - boy
+  - who
 - - rather
   - some
   - kind
 - - attention
   - your
   - secret
-- - say
-  - rather
-  - some
 - - would
   - guarantee
   - instant
+- - say
+  - rather
+  - some
 - - some
   - other
   - high
@@ -188,18 +188,18 @@ ngrams:
 - - craft
   - so
   - during
-- - pamphlet
-  - which
-  - unleashed
 - - wrens
   - so
   - tell
 - - gubbins
   - we
   - find
-- - press
-  - pamphlet
+- - key
+  - so
+  - pay
+- - pamphlet
   - which
+  - unleashed
 story:
   date: 2014-08-28
   id: 2014-08-28-bird-king

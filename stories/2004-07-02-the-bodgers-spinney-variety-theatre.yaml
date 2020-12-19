@@ -1,10 +1,10 @@
 ngrams:
-- - prussian
-  - quack
-  - entomologist
 - - prunes
   - paxo
   - stuffing
+- - prussian
+  - quack
+  - entomologist
 - - infamous
   - prussian
   - quack
@@ -14,24 +14,24 @@ ngrams:
 - - cork
   - effigy
   - interviewed
-- - sponge
-  - hood
-  - claude
 - - satisfactorily
   - resolved
   - more's
-- - grotesque
-  - sponge
-  - hood
-- - grotesque
-  - sponge
-  - hood
 - - highly
   - infectious
   - renshaw
 - - highly
   - infectious
   - renshaw
+- - grotesque
+  - sponge
+  - hood
+- - grotesque
+  - sponge
+  - hood
+- - sponge
+  - hood
+  - claude
 - - burst
   - appendix
   - twins
@@ -47,51 +47,45 @@ ngrams:
 - - clanged
   - whenever
   - nobby
-- - uncle
-  - demented
-  - wenceslas
 - - aged
   - infirm
   - sick
 - - infirm
   - sick
   - halt
+- - uncle
+  - demented
+  - wenceslas
+- - physical
+  - agility
+  - apart
+- - quack
+  - entomologist
+  - devoted
+- - proper
+  - caution
+  - plagued
+- - infectious
+  - renshaw
+  - family
+- - infectious
+  - renshaw
+  - family
 - - demented
   - wenceslas
   - gubbins
 - - nose
   - carefully
   - varnished
-- - quack
-  - entomologist
-  - devoted
-- - physical
-  - agility
-  - apart
-- - infectious
-  - renshaw
-  - family
-- - infectious
-  - renshaw
-  - family
-- - proper
-  - caution
-  - plagued
 - - bells
   - clanged
   - whenever
-- - underwater
-  - pencil
-  - sharpening
-- - plunging
-  - metal
-  - objects
-- - ostriches
-  - underwater
-  - pencil
 - - age
   - nobby
   - puck
+- - underwater
+  - pencil
+  - sharpening
 - - reasons
   - unknown
   - adept
@@ -101,30 +95,33 @@ ngrams:
 - - magnet
   - magnet
   - boy
-- - near
-  - ostriches
+- - ostriches
   - underwater
+  - pencil
 - - lame
   - mad
   - harry
-- - spinney
-  - variety
-  - theatre
-- - spinney
-  - variety
-  - theatre
-- - spinney
-  - variety
-  - theatre
 - - variety
   - theatre
   - walk
 - - cream
   - crackers
   - whenever
-- - stamp
-  - mad
-  - harry
+- - plunging
+  - metal
+  - objects
+- - near
+  - ostriches
+  - underwater
+- - spinney
+  - variety
+  - theatre
+- - spinney
+  - variety
+  - theatre
+- - spinney
+  - variety
+  - theatre
 - - pity
   - magnet
   - boy
@@ -140,12 +137,9 @@ ngrams:
 - - famous
   - magnet
   - boy
-- - mad
+- - stamp
+  - mad
   - harry
-  - gubbins
-- - mad
-  - harry
-  - gubbins
 - - library
   - ticket
   - removed
@@ -155,63 +149,69 @@ ngrams:
 - - golden
   - age
   - nobby
-- - postage
-  - stamp
-  - mad
 - - magnet
   - boy
   - act
-- - gigantic
-  - tin
-  - fork
+- - mad
+  - harry
+  - gubbins
+- - mad
+  - harry
+  - gubbins
+- - postage
+  - stamp
+  - mad
 - - whose
   - foppish
   - mannerisms
-- - kept
-  - tucked
-  - inside
+- - gigantic
+  - tin
+  - fork
 - - laughing
   - stock
   - almost
-- - variety
-  - theatre
-  - during
-- - small
-  - plasticine
-  - badger
-- - wooden
-  - nose
-  - following
+- - kept
+  - tucked
+  - inside
 - - lost
   - property
   - office
-- - tea
-  - strainers
-  - wrote
+- - variety
+  - theatre
+  - during
+- - wooden
+  - nose
+  - following
+- - small
+  - plasticine
+  - badger
 - - bounce
   - across
   - wide
-- - across
-  - wide
-  - canals
 - - important
   - railway
   - station
+- - across
+  - wide
+  - canals
+- - tea
+  - strainers
+  - wrote
 - - stock
   - almost
   - certainly
-- - deposited
-  - four
-  - hours
 - - sharp
   - knife
   - came
-- - whose
-  - real
-  - names
+- - deposited
+  - four
+  - hours
 - - piping
   - hot
   - town
+- - whose
+  - real
+  - names
 - - variety
   - theatre
   - why
@@ -221,57 +221,57 @@ ngrams:
 - - thrilled
   - two
   - continents
-- - little
-  - titanium
-  - jar
-- - command
-  - little
-  - children
-- - most
-  - popular
-  - act
 - - never
   - satisfactorily
   - resolved
+- - most
+  - popular
+  - act
+- - little
+  - titanium
+  - jar
+- - popular
+  - act
+  - ever
+- - command
+  - little
+  - children
 - - four
   - hours
   - later
 - - harry
   - gubbins
   - made
-- - popular
-  - act
-  - ever
 - - very
   - sharp
   - knife
-- - ride
-  - halfway
-  - down
 - - trailing
   - bandage
   - over
+- - ride
+  - halfway
+  - down
 - - entomologist
   - devoted
   - over
+- - upon
+  - buckwheat
+  - gelatine
+- - feeding
+  - upon
+  - buckwheat
 - - gala
   - days
   - made
 - - down
   - memory
   - lane
-- - upon
-  - buckwheat
-  - gelatine
-- - her
-  - trailing
-  - bandage
-- - feeding
-  - upon
-  - buckwheat
 - - its
   - golden
   - age
+- - her
+  - trailing
+  - bandage
 - - theatre
   - during
   - its
@@ -281,18 +281,18 @@ ngrams:
 - - years
   - many
   - scholars
-- - enticing
-  - acts
-  - who
 - - could
   - begin
   - however
-- - la
-  - maudling
+- - enticing
+  - acts
   - who
 - - very
   - very
   - sharp
+- - la
+  - maudling
+  - who
 - - where
   - being
   - fed
@@ -308,18 +308,15 @@ ngrams:
 - - happily
   - chew
   - their
-- - hooting
-  - yard
-  - just
-- - objects
-  - into
-  - basins
 - - mannerisms
   - when
   - hoisting
 - - foppish
   - mannerisms
   - when
+- - hooting
+  - yard
+  - just
 - - rufus
   - corncrake
   - when
@@ -329,12 +326,15 @@ ngrams:
 - - when
   - rufus
   - corncrake
+- - objects
+  - into
+  - basins
 - - peas
   - when
   - feeding
-- - renshaw
-  - family
-  - were
+- - curl
+  - himself
+  - up
 story:
   date: 2004-07-02
   id: 2004-07-02-the-bodgers-spinney-variety-theatre

@@ -17,18 +17,9 @@ ngrams:
 - - dispensed
   - judicious
   - advice
-- - o'
-  - clock
-  - sharp
 - - thoughts
   - agricultural
   - horticultural
-- - eight
-  - o'
-  - clock
-- - eight
-  - o'
-  - clock
 - - dry
   - crumbly
   - soil
@@ -44,9 +35,18 @@ ngrams:
 - - ancient
   - greek
   - fabulist
+- - o'
+  - clock
+  - sharp
 - - moment
   - aesop
   - swallowed
+- - eight
+  - o'
+  - clock
+- - eight
+  - o'
+  - clock
 - - aesop
   - lay
   - sprawled
@@ -59,45 +59,45 @@ ngrams:
 - - empty
   - vase
   - stood
-- - aesop's
-  - tin
-  - hut
+- - barricaded
+  - indoors
+  - behind
+- - barricaded
+  - indoors
+  - behind
 - - whose
   - quandaries
   - skitter
-- - tin
+- - aesop's
+  - tin
   - hut
-  - smothered
-- - barricaded
-  - indoors
-  - behind
-- - barricaded
-  - indoors
-  - behind
 - - indoors
   - behind
   - shutters
 - - indoors
   - behind
   - shutters
-- - quandaries
-  - skitter
-  - within
 - - separate
   - issues
   - important
+- - tin
+  - hut
+  - smothered
+- - quandaries
+  - skitter
+  - within
 - - knew
   - happily
   - wolf
 - - pebbles
   - within
   - expanses
-- - always
-  - dispensed
-  - judicious
 - - sparta
   - nor
   - carthage
+- - always
+  - dispensed
+  - judicious
 - - rome
   - nor
   - sparta
@@ -110,15 +110,18 @@ ngrams:
 - - door
   - creaked
   - open
-- - hut
-  - smothered
-  - under
 - - gobbling
   - paper
   - bag
+- - hut
+  - smothered
+  - under
 - - perfect
   - fit
   - night
+- - greek
+  - fabulist
+  - though
 - - ancient
   - greeks
   - nor
@@ -134,36 +137,33 @@ ngrams:
 - - untold
   - creeping
   - things
+- - own
+  - unsolicited
+  - advice
+- - yet
+  - separate
+  - issues
+- - purview
+  - soon
+  - enough
+- - pretty
+  - thick
+  - quite
 - - soil
   - possibly
   - night
 - - possibly
   - night
   - soil
-- - black
-  - vacant
-  - eyes
-- - night
-  - soil
-  - men
-- - purview
-  - soon
-  - enough
-- - own
-  - unsolicited
-  - advice
-- - greek
-  - fabulist
-  - though
-- - yet
-  - separate
-  - issues
-- - pretty
-  - thick
-  - quite
 - - related
   - yet
   - separate
+- - night
+  - soil
+  - men
+- - black
+  - vacant
+  - eyes
 - - fall
   - soon
   - soon
@@ -173,87 +173,87 @@ ngrams:
 - - approached
   - ever
   - closer
-- - bright
-  - new
-  - uniform
 - - heard
   - though
   - faintly
+- - bright
+  - new
+  - uniform
 - - nor
   - sparta
   - nor
 - - nor
   - carthage
   - nor
-- - soil
-  - those
-  - dealing
 - - fabulist
   - though
   - people
-- - two
-  - minds
-  - whether
+- - soil
+  - those
+  - dealing
 - - though
   - people
   - invariably
+- - two
+  - minds
+  - whether
 - - very
   - moment
+  - aesop
+- - carpet
+  - where
   - aesop
 - - happily
   - wolf
   - down
-- - carpet
-  - where
-  - aesop
 - - tin
   - hut
   - just
 - - those
   - whose
   - quandaries
-- - currents
-  - later
-  - back
 - - where
   - aesop
   - lay
+- - currents
+  - later
+  - back
+- - snorting
+  - like
+  - bears
+- - snorting
+  - like
+  - bears
 - - night
   - soil
   - man
-- - snorting
-  - like
-  - bears
-- - snorting
-  - like
-  - bears
-- - absolutely
-  - awful
-  - like
 - - studied
   - more
   - profitably
-- - pine
-  - those
-  - being
+- - absolutely
+  - awful
+  - like
 - - may
   - seem
   - though
+- - pine
+  - those
+  - being
 - - any
   - old
   - burnings
 - - pal
   - aesop
   - who
-- - her
-  - own
-  - unsolicited
 - - aesop
   - who
   - lives
 - - acquaintance
   - who
   - goes
+- - her
+  - own
+  - unsolicited
 - - ignorant
   - pair
   - who
@@ -278,120 +278,120 @@ ngrams:
 - - forget
   - exactly
   - what
-- - who
-  - knew
-  - nothing
 - - adepts
   - were
   - silent
-- - manners
-  - were
-  - absolutely
 - - about
   - soil
   - possibly
-- - were
+- - who
+  - knew
+  - nothing
+- - manners
+  - were
   - absolutely
-  - awful
 - - soil
   - into
   - mud
+- - were
+  - absolutely
+  - awful
+- - other
+  - hand
+  - might
 - - table
   - manners
   - were
 - - see
   - him
   - taking
-- - other
-  - hand
-  - might
-- - miraculous
-  - thing
-  - about
 - - thing
   - about
   - aesop
-- - something
+- - miraculous
+  - thing
   - about
-  - soil
-- - ooh
-  - ferocious
-  - we
 - - appleyard
   - aesop
   - would
-- - making
-  - me
-  - wince
-- - many
-  - years
-  - she
+- - ooh
+  - ferocious
+  - we
+- - something
+  - about
+  - soil
 - - clock
   - sharp
   - we
+- - making
+  - me
+  - wince
 - - vim
   - making
   - me
-- - whether
-  - they
-  - drummed
 - - threw
   - myself
   - out
+- - whether
+  - they
+  - drummed
 - - rooftop
   - what
   - say
+- - many
+  - years
+  - she
 - - does
   - fixed
   - me
-- - years
-  - she
-  - did
-- - about
-  - soil
-  - those
-- - adepts
-  - we
-  - shall
 - - would
   - fall
   - soon
+- - adepts
+  - we
+  - shall
+- - about
+  - soil
+  - those
 - - ferocious
   - we
   - shall
-- - tree
-  - which
-  - grow
 - - sharp
   - we
   - shall
-- - into
-  - mud
-  - through
-- - should
-  - point
-  - out
 - - we
   - shall
   - stand
-- - see
-  - once
-  - been
 - - fit
   - night
   - would
+- - should
+  - point
+  - out
 - - night
   - would
   - fall
-- - me
-  - two
-  - loaves
-- - give
-  - me
-  - something
+- - into
+  - mud
+  - through
+- - tree
+  - which
+  - grow
+- - years
+  - she
+  - did
 - - we
   - shall
   - want
+- - me
+  - two
+  - loaves
+- - see
+  - once
+  - been
+- - give
+  - me
+  - something
 - - hyacinth
   - an
   - aesthetic
@@ -416,45 +416,45 @@ ngrams:
 - - case
   - after
   - all
-- - an
-  - adept
-  - himself
 - - could
   - advise
   - me
+- - an
+  - adept
+  - himself
 - - drummed
   - him
   - out
-- - they
-  - drummed
-  - him
-- - she
-  - let
-  - me
-- - her
-  - brother
-  - so
-- - bears
-  - or
-  - conversely
 - - windowsill
   - or
   - mantelpiece
+- - bears
+  - or
+  - conversely
 - - organic
   - or
   - machine
-- - from
-  - sweetie
-  - appleyard
-- - seek
-  - counsel
-  - from
 - - or
   - machine
   - circumstances
 - - whether
   - organic
   - or
+- - they
+  - drummed
+  - him
+- - clutches
+  - but
+  - either
+- - she
+  - let
+  - me
+- - from
+  - sweetie
+  - appleyard
+- - her
+  - brother
+  - so
 story:
   date: 2010-05-25
   id: 2010-05-25-o-to-be-in-pepinstow

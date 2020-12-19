@@ -32,12 +32,12 @@ ngrams:
 - - old
   - shoes
   - battered
-- - old
-  - iron
-  - rotten
 - - sewage
   - old
   - iron
+- - old
+  - iron
+  - rotten
 - - every
   - unclean
   - thing
@@ -80,15 +80,15 @@ ngrams:
 - - only
   - knows
   - what
-- - are
-  - now
-  - mostly
 - - rot
   - or
   - rust
-- - over
-  - all
-  - these
+- - newspaper
+  - advertisement
+  - or
+- - building
+  - or
+  - cut
 story:
   date: 2008-10-18
   id: 2008-10-18-ruskin-goes-to-croxsted-lane

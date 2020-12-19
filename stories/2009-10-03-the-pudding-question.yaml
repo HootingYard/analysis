@@ -17,15 +17,15 @@ ngrams:
 - - chap
   - clearly
   - enunciating
-- - municipal
-  - park
-  - bench
-- - municipal
-  - park
-  - bench
 - - eggy
   - pudding
   - merely
+- - municipal
+  - park
+  - bench
+- - municipal
+  - park
+  - bench
 - - moment
   - dare
   - compare
@@ -35,9 +35,6 @@ ngrams:
 - - council
   - officials
   - reading
-- - same
-  - regrettable
-  - civilizational
 - - s
   - bus
   - passenger
@@ -47,15 +44,18 @@ ngrams:
 - - pudding
   - question
   - whenever
+- - same
+  - regrettable
+  - civilizational
 - - seen
   - received
   - pronunciation
-- - hardly
-  - surprising
-  - people
 - - dare
   - compare
   - myself
+- - hardly
+  - surprising
+  - people
 - - clearly
   - enunciating
   - every
@@ -77,21 +77,21 @@ ngrams:
 - - our
   - radio
   - broadcasts
-- - enunciating
-  - every
-  - last
-- - every
-  - last
-  - syllable
 - - said
   - eggy
   - pudding
-- - just
-  - don't
-  - seem
+- - enunciating
+  - every
+  - last
 - - egg
   - might
   - mean
+- - every
+  - last
+  - syllable
+- - just
+  - don't
+  - seem
 - - recipe
   - where
   - possible
@@ -101,12 +101,15 @@ ngrams:
 - - other
   - people's
   - eggs
-- - people
-  - just
-  - don't
 - - am
   - alfred
   - hitchcock's
+- - people
+  - just
+  - don't
+- - might
+  - well
+  - turf
 - - our
   - eggs
   - indeed
@@ -116,21 +119,18 @@ ngrams:
 - - pudding
   - can
   - disconcert
-- - might
-  - well
-  - turf
 - - how
   - many
   - eggs
-- - writers
-  - who
-  - trot
-- - eggs
-  - even
-  - too
 - - think
   - egg
   - might
+- - eggs
+  - even
+  - too
+- - writers
+  - who
+  - trot
 - - go
   - further
   - than
@@ -143,12 +143,12 @@ ngrams:
 - - can
   - disconcert
   - those
-- - precisely
-  - what
-  - sort
 - - even
   - too
   - many
+- - precisely
+  - what
+  - sort
 - - make
   - 'no'
   - excuses
@@ -164,21 +164,21 @@ ngrams:
 - - bench
   - occupant
   - would
-- - being
-  - talked
-  - about
-- - civilizational
-  - decline
-  - which
 - - much
   - about
   - puddings
-- - are
-  - council
-  - officials
+- - being
+  - talked
+  - about
 - - aloud
   - so
   - keen
+- - are
+  - council
+  - officials
+- - civilizational
+  - decline
+  - which
 story:
   date: 2009-10-03
   id: 2009-10-03-the-pudding-question

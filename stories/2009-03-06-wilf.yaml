@@ -14,9 +14,6 @@ ngrams:
 - - unread
   - academic
   - journal
-- - '-'
-  - doctor
-  - mirabilis
 - - academic
   - journal
   - wilf
@@ -26,9 +23,6 @@ ngrams:
 - - include
   - wilf
   - self
-- - bacon
-  - c
-  - '-'
 - - risking
   - lead
   - poisoning
@@ -41,9 +35,6 @@ ngrams:
 - - frack
   - memorial
   - essay
-- - c
-  - '-'
-  - doctor
 - - farmer
   - wilf
   - frack
@@ -65,27 +56,36 @@ ngrams:
 - - dear
   - frank
   - writes
+- - bacon
+  - c
+  - '-'
 - - information
   - stored
   - within
+- - '-'
+  - doctor
+  - mirabilis
 - - confirm
   - nor
   - deny
 - - need
   - neither
   - confirm
+- - c
+  - '-'
+  - doctor
 - - wilf
   - frack
   - himself
+- - neither
+  - confirm
+  - nor
 - - dropping
   - great
   - clanging
 - - great
   - clanging
   - hints
-- - neither
-  - confirm
-  - nor
 - - himself
   - tim
   - thurn
@@ -95,87 +95,87 @@ ngrams:
 - - counts
   - yours
   - ever
+- - ever
+  - tim
+  - thurn
+- - old
+  - farmer
+  - wilf
+- - purgative
+  - old
+  - farmer
+- - yours
+  - ever
+  - tim
+- - old
+  - farmer
+  - frack
+- - despite
+  - being
+  - incredibly
 - - uncle
   - whose
   - name
 - - wilf
   - dobson
   - wilf
-- - ever
-  - tim
-  - thurn
-- - purgative
-  - old
-  - farmer
-- - old
-  - farmer
-  - wilf
-- - yours
-  - ever
-  - tim
-- - despite
-  - being
-  - incredibly
-- - old
-  - farmer
-  - frack
 - - wilf
   - blodgett
   - old
-- - dobson
-  - wilf
-  - blodgett
-- - blodgett
-  - old
-  - ma
 - - cement
   - copy
   - being
-- - yard
-  - characters
-  - whose
 - - name
   - also
   - happens
 - - whole
   - cloth
   - these
+- - yard
+  - characters
+  - whose
+- - blodgett
+  - old
+  - ma
 - - drool
   - dribbling
   - down
-- - given
+- - dobson
   - wilf
-  - dobson
-- - whose
-  - name
-  - also
-- - these
-  - people
-  - despite
-- - characters
-  - whose
-  - first
-- - cloth
-  - these
-  - people
-- - few
-  - times
-  - around
+  - blodgett
 - - never
   - given
   - wilf
+- - cloth
+  - these
+  - people
+- - whose
+  - name
+  - also
+- - characters
+  - whose
+  - first
+- - these
+  - people
+  - despite
+- - few
+  - times
+  - around
 - - people
   - despite
   - being
 - - whose
   - first
   - names
-- - hooting
-  - yard
-  - characters
+- - given
+  - wilf
+  - dobson
 - - case
   - mr
   - key
+- - hooting
+  - yard
+  - characters
 - - tim
   - thurn
   - who
@@ -191,21 +191,21 @@ ngrams:
 - - ever
   - existed
   - some
-- - doubt
-  - your
-  - word
 - - having
   - invented
   - your
+- - doubt
+  - your
+  - word
 - - these
   - people
   - do
 - - existed
   - some
   - may
-- - were
-  - dropping
-  - great
+- - judges
+  - would
+  - include
 story:
   date: 2009-03-06
   id: 2009-03-06-wilf

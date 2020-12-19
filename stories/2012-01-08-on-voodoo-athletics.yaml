@@ -26,51 +26,57 @@ ngrams:
 - - surprisingly
   - dainty
   - napkin
+- - voodoo
+  - athletics
+  - coach
 - - rigorous
   - training
   - regime
 - - athletics
   - coaching
   - based
-- - voodoo
-  - athletics
-  - coach
-- - vipers
-  - shrews
-  - bees
 - - entertaining
   - reader's
   - digest
 - - imaginable
   - voodoo
   - purpose
+- - vipers
+  - shrews
+  - bees
 - - reader's
   - digest
   - article
-- - burning
-  - incense
-  - sticks
 - - voodoo
   - purpose
   - whatsoever
+- - burning
+  - incense
+  - sticks
 - - contemporary
   - newspaper
   - report
 - - priest
   - finished
   - shouting
-- - sporty
-  - priest
-  - father
 - - fictional
   - athletics
   - coaching
-- - priest
-  - father
-  - spikes
 - - vast
   - crowd
   - gathered
+- - sporty
+  - priest
+  - father
+- - priest
+  - father
+  - spikes
+- - important
+  - stadium
+  - gasped
+- - voodoo
+  - practice
+  - particularly
 - - tivol
   - kept
   - winning
@@ -80,21 +86,15 @@ ngrams:
 - - hideous
   - bat
   - gods
-- - important
-  - stadium
-  - gasped
-- - voodoo
-  - practice
-  - particularly
 - - purpose
   - whatsoever
   - although
-- - god
-  - sends
-  - except
 - - question
   - leaving
   - aside
+- - god
+  - sends
+  - except
 - - reason
   - fictional
   - athlete
@@ -110,24 +110,21 @@ ngrams:
 - - stadium
   - while
   - tethered
-- - given
-  - fictional
-  - athlete
-- - wooden
-  - bar
-  - set
 - - indeed
   - bat
   - gods
+- - wooden
+  - bar
+  - set
+- - given
+  - fictional
+  - athlete
 - - important
   - stadium
   - let
 - - somebody
   - believed
   - old
-- - doctor
-  - ever
-  - succeeded
 - - us
   - remind
   - ourselves
@@ -137,54 +134,54 @@ ngrams:
 - - many
   - sprint
   - races
-- - these
-  - germane
-  - points
 - - too
   - real
   - coach
-- - rascals
-  - never
-  - bother
+- - doctor
+  - ever
+  - succeeded
+- - these
+  - germane
+  - points
 - - important
   - stadium
   - while
-- - real
-  - coach
-  - old
+- - rascals
+  - never
+  - bother
 - - swept
   - aside
   - much
+- - real
+  - coach
+  - old
 - - ogre
   - might
   - sweep
-- - however
-  - these
-  - germane
 - - might
   - sweep
   - aside
+- - however
+  - these
+  - germane
+- - bar
+  - set
+  - ever
 - - stadium
   - let
   - us
+- - dead
+  - chaffinches
+  - might
 - - let
   - us
   - remind
 - - brain
   - doctor
   - ever
-- - bar
-  - set
-  - ever
 - - other
   - casually
   - referring
-- - dead
-  - chaffinches
-  - might
-- - her
-  - entertaining
-  - reader's
 - - give
   - somebody
   - such
@@ -194,33 +191,33 @@ ngrams:
 - - germane
   - points
   - could
-- - these
-  - rascals
-  - never
 - - chaffinches
   - might
   - come
-- - has
-  - swirled
-  - persistently
-- - magazine
-  - her
-  - piece
+- - her
+  - entertaining
+  - reader's
+- - these
+  - rascals
+  - never
 - - never
   - gone
   - away
-- - her
-  - piece
-  - appeared
-- - whatsoever
-  - although
-  - some
-- - him
-  - sprinting
-  - round
+- - has
+  - swirled
+  - persistently
 - - ever
   - higher
   - even
+- - whatsoever
+  - although
+  - some
+- - magazine
+  - her
+  - piece
+- - him
+  - sprinting
+  - round
 - - serves
   - 'no'
   - imaginable
@@ -230,60 +227,63 @@ ngrams:
 - - please
   - check
   - them
+- - her
+  - piece
+  - appeared
 - - absolutely
   - 'no'
   - notice
 - - athletics
   - coach
   - what
-- - your
-  - local
-  - library
 - - precisely
   - what
   - voodoo
-- - incense
-  - sticks
-  - into
-- - when
-  - sporty
-  - priest
 - - athletics
   - when
   - performed
+- - when
+  - sporty
+  - priest
+- - incense
+  - sticks
+  - into
+- - your
+  - local
+  - library
 - - 'no'
   - brain
   - doctor
-- - into
-  - various
-  - orifices
-- - took
-  - absolutely
-  - 'no'
-- - what
-  - voodoo
-  - use
 - - when
   - father
   - spikes
-- - what
-  - sane
-  - person
-- - sticks
-  - into
+- - into
   - various
+  - orifices
+- - what
+  - voodoo
+  - use
+- - took
+  - absolutely
+  - 'no'
 - - fictional
   - athletics
   - when
-- - into
-  - question
-  - leaving
+- - what
+  - sane
+  - person
 - - local
   - library
   - if
+- - sticks
+  - into
+  - various
 - - some
   - might
   - argue
+- - into
+  - question
+  - leaving
 - - although
   - some
   - might
@@ -317,39 +317,39 @@ ngrams:
 - - kept
   - winning
   - so
-- - will
-  - still
-  - hear
 - - should
   - point
   - out
+- - will
+  - still
+  - hear
+- - person
+  - would
+  - give
 - - now
   - what
   - sane
 - - all
   - too
   - real
-- - person
-  - would
-  - give
-- - remember
-  - which
-  - issue
-- - thing
-  - about
-  - old
-- - can't
-  - remember
-  - which
-- - those
-  - hours
-  - when
-- - undergoing
-  - an
-  - exorcism
 - - higher
   - even
   - if
+- - thing
+  - about
+  - old
+- - those
+  - hours
+  - when
+- - remember
+  - which
+  - issue
+- - can't
+  - remember
+  - which
+- - undergoing
+  - an
+  - exorcism
 - - an
   - incalculable
   - amount
@@ -362,21 +362,21 @@ ngrams:
 - - point
   - out
   - here
-- - when
-  - she
-  - writes
 - - voodoo
   - athletics
   - this
+- - when
+  - she
+  - writes
 - - an
   - olympic
   - year
-- - trust
-  - me
-  - now
 - - so
   - many
   - sprint
+- - winning
+  - so
+  - many
 story:
   date: 2012-01-08
   id: 2012-01-08-on-voodoo-athletics

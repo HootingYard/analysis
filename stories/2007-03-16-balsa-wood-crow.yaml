@@ -11,9 +11,15 @@ ngrams:
 - - yours
   - sincerely
   - insert
+- - lack
+  - ornithological
+  - confidence
 - - balsa
   - wood
   - awaits
+- - shaped
+  - balsa
+  - wood
 - - enthusiastic
   - balsa
   - wood
@@ -23,39 +29,33 @@ ngrams:
 - - donated
   - balsa
   - wood
-- - shaped
-  - balsa
-  - wood
-- - lack
-  - ornithological
-  - confidence
 - - spare
   - balsa
   - wood
-- - crow
-  - yours
-  - sincerely
 - - various
   - invigorating
   - syrups
 - - various
   - charitable
   - institutions
+- - crow
+  - yours
+  - sincerely
+- - wood
+  - working
+  - methodically
 - - using
   - donated
   - balsa
 - - assistance
   - dear
   - insert
-- - wood
-  - working
-  - methodically
-- - toy
-  - crow
-  - yours
 - - drinking
   - various
   - invigorating
+- - toy
+  - crow
+  - yours
 - - balsa
   - wood
   - working
@@ -68,30 +68,30 @@ ngrams:
 - - balsa
   - wood
   - crow
+- - balsa
+  - wood
+  - pieces
+- - fall
+  - apart
+  - paint
 - - exciting
   - craft
   - project
 - - balsa
   - wood
-  - pieces
-- - balsa
-  - wood
   - i'm
-- - fall
-  - apart
-  - paint
-- - crow
-  - using
-  - donated
 - - police
   - immediately
   - okay
-- - balsa
-  - wood
-  - imagine
 - - deceased
   - film
   - actor
+- - crow
+  - using
+  - donated
+- - balsa
+  - wood
+  - imagine
 - - similar
   - facilities
   - although
@@ -101,63 +101,63 @@ ngrams:
 - - gumming
   - together
   - bits
-- - try
-  - drinking
-  - various
 - - word
   - qualified
   - quacks
+- - try
+  - drinking
+  - various
 - - cannot
   - countenance
   - frittering
 - - balsa
   - wood
   - taken
-- - try
-  - writing
-  - letters
 - - reattach
   - whatever
   - part
 - - really
   - doesn't
   - matter
-- - hot
-  - water
-  - tap
+- - try
+  - writing
+  - letters
+- - doesn't
+  - matter
+  - whether
 - - paintbrush
   - mendicants
   - should
 - - returned
   - home
   - safely
-- - doesn't
-  - matter
-  - whether
+- - hot
+  - water
+  - tap
 - - balsa
   - wood
   - work
 - - read
   - atlas
   - shrugged
-- - balsa
-  - wood
-  - next
 - - inordinate
   - detail
   - because
-- - three
-  - times
-  - replace
-- - dear
-  - insert
-  - name
-- - look
-  - further
-  - afield
+- - balsa
+  - wood
+  - next
 - - reference
   - book
   - preferably
+- - three
+  - times
+  - replace
+- - look
+  - further
+  - afield
+- - dear
+  - insert
+  - name
 - - apprehended
   - while
   - trying
@@ -167,21 +167,18 @@ ngrams:
 - - old
   - alike
   - follow
-- - fuse
-  - two
-  - pieces
 - - reference
   - book
   - picture
-- - fired
-  - 'off'
-  - letters
+- - fuse
+  - two
+  - pieces
 - - invigorating
   - syrups
   - those
-- - toy
-  - crow
-  - made
+- - fired
+  - 'off'
+  - letters
 - - paintbrush
   - very
   - thoroughly
@@ -194,159 +191,174 @@ ngrams:
 - - example
   - place
   - together
-- - little
-  - cupboard
-  - near
-- - already
-  - fired
-  - 'off'
+- - toy
+  - crow
+  - made
 - - chosen
   - adhesive
   - before
-- - wood
-  - crow
-  - here
+- - already
+  - fired
+  - 'off'
+- - little
+  - cupboard
+  - near
 - - crow
   - make
   - sure
-- - matter
-  - how
-  - exciting
+- - wood
+  - crow
+  - here
 - - film
   - actor
   - here
+- - matter
+  - how
+  - exciting
 - - potions
   - may
   - seem
-- - impasse
-  - help
-  - may
 - - various
   - potions
   - may
-- - piles
-  - putting
-  - like
+- - impasse
+  - help
+  - may
 - - very
   - thoroughly
   - under
+- - piles
+  - putting
+  - like
+- - cannot
+  - condone
+  - even
 - - art
   - garfunkel
+  - now
+- - more
+  - productive
+  - citizens
+- - part
+  - may
+  - break
+- - filth
+  - please
   - now
 - - crow
   - looks
   - like
-- - filth
-  - please
-  - now
-- - own
-  - two
-  - feet
-- - cannot
-  - condone
-  - even
 - - insert
   - name
   - here
-- - part
-  - may
-  - break
 - - sort
   - just
   - use
-- - more
-  - productive
-  - citizens
-- - splurge
-  - more
-  - glue
 - - happens
   - splurge
   - more
-- - looks
-  - like
-  - don't
+- - own
+  - two
+  - feet
+- - splurge
+  - more
+  - glue
 - - wealthy
   - people
   - such
-- - further
-  - afield
-  - now
 - - whole
   - thing
   - just
-- - disastrous
-  - only
-  - last
+- - further
+  - afield
+  - now
+- - bit
+  - more
+  - vim
+- - looks
+  - like
+  - don't
+- - evidence
+  - just
+  - go
+- - pictures
+  - just
+  - make
+- - sure
+  - other
+  - retailers
 - - some
   - preliminary
   - strengthening
 - - weakling
   - some
   - preliminary
-- - evidence
-  - just
-  - go
-- - sure
-  - other
-  - retailers
-- - bit
-  - more
-  - vim
-- - pictures
-  - just
-  - make
-- - thing
-  - just
-  - remember
-- - some
-  - balsa
-  - wood
 - - better
   - more
   - productive
+- - disastrous
+  - only
+  - last
+- - thing
+  - just
+  - remember
 - - could
   - try
   - writing
 - - can
   - try
   - drinking
-- - wealthy
-  - individuals
-  - who
+- - some
+  - balsa
+  - wood
 - - kettle
   - any
   - old
+- - wealthy
+  - individuals
+  - who
 - - individuals
   - who
   - share
-- - only
-  - last
-  - week
-- - may
-  - break
-  - 'off'
-- - some
-  - black
-  - paint
 - - just
   - make
   - sure
 - - imagine
   - them
   - gnashing
-- - need
-  - some
-  - balsa
-- - any
-  - old
-  - table
+- - may
+  - break
+  - 'off'
 - - become
   - better
   - more
+- - any
+  - old
+  - table
+- - only
+  - last
+  - week
+- - some
+  - black
+  - paint
+- - need
+  - some
+  - balsa
 - - gnashing
   - their
   - teeth
+- - their
+  - various
+  - potions
+- - easier
+  - said
+  - than
+- - weakling
+  - 'no'
+  - matter
+- - accommodate
+  - much
+  - more
 - - your
   - benefactor
   - enclosing
@@ -356,9 +368,24 @@ ngrams:
 - - admire
   - your
   - handiwork
+- - any
+  - sort
+  - just
+- - now
+  - before
+  - slapping
+- - garfunkel
+  - now
+  - before
 - - wash
   - your
   - paintbrush
+- - quite
+  - right
+  - do
+- - example
+  - imagine
+  - them
 - - sincerely
   - insert
   - your
@@ -371,132 +398,105 @@ ngrams:
 - - countenance
   - frittering
   - your
-- - their
-  - various
-  - potions
 - - your
   - chosen
   - adhesive
 - - your
   - spare
   - balsa
-- - weakling
-  - 'no'
-  - matter
-- - easier
-  - said
-  - than
-- - paint
-  - onto
-  - your
-- - garfunkel
-  - now
-  - before
-- - now
-  - before
-  - slapping
-- - your
-  - balsa
-  - wood
-- - your
-  - balsa
-  - wood
-- - your
-  - balsa
-  - wood
-- - your
-  - balsa
-  - wood
-- - quite
-  - right
-  - do
-- - onto
-  - your
-  - crow
-- - any
-  - sort
-  - just
-- - exciting
-  - their
-  - various
 - - 'no'
   - further
   - mollycoddling
-- - example
-  - imagine
-  - them
-- - accommodate
-  - much
-  - more
-- - probably
-  - been
-  - working
+- - exciting
+  - their
+  - various
+- - paint
+  - onto
+  - your
 - - your
+  - balsa
+  - wood
+- - your
+  - balsa
+  - wood
+- - your
+  - balsa
+  - wood
+- - your
+  - balsa
+  - wood
+- - onto
+  - your
   - crow
-  - using
 - - into
   - discreet
   - piles
+- - crow's
+  - anatomy
+  - if
+- - counterfeit
+  - documents
+  - if
+- - said
+  - than
+  - done
+- - probably
+  - been
+  - working
+- - if
+  - necessary
+  - assemble
+- - butterfingers
+  - incidentally
+  - if
+- - wood
+  - into
+  - discreet
+- - your
+  - crow
+  - using
 - - get
   - some
   - black
+- - balsa
+  - wood
+  - into
 - - your
   - kitchen
   - table
 - - wood
-  - into
-  - discreet
-- - said
-  - than
-  - done
-- - crow's
-  - anatomy
+  - pieces
   - if
-- - balsa
-  - wood
-  - into
-- - counterfeit
-  - documents
-  - if
-- - butterfingers
-  - incidentally
-  - if
-- - if
-  - necessary
-  - assemble
-- - your
-  - example
-  - imagine
-- - following
-  - your
-  - example
-- - will
-  - follow
-  - trust
 - - need
   - 'no'
   - further
-- - insert
-  - your
-  - name
-- - wood
-  - pieces
-  - if
-- - name
-  - here
-  - like
-- - your
-  - own
-  - devices
-- - picture
-  - if
-  - necessary
-- - entirely
-  - sure
-  - what
+- - will
+  - follow
+  - trust
 - - kitchen
   - table
   - if
+- - picture
+  - if
+  - necessary
+- - your
+  - example
+  - imagine
+- - entirely
+  - sure
+  - what
+- - following
+  - your
+  - example
+- - name
+  - here
+  - like
+- - insert
+  - your
+  - name
+- - your
+  - own
+  - devices
 - - else
   - will
   - follow
@@ -509,21 +509,21 @@ ngrams:
 - - please
   - send
   - me
-- - your
-  - crow
-  - make
 - - how
   - exciting
   - their
-- - 'no'
-  - matter
-  - how
 - - facilities
   - although
   - there
-- - made
-  - your
+- - your
   - crow
+  - make
+- - 'no'
+  - matter
+  - how
+- - think
+  - about
+  - emulating
 story:
   date: 2007-03-16
   id: 2007-03-16-balsa-wood-crow

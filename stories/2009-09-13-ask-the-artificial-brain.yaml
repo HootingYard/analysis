@@ -44,27 +44,24 @@ ngrams:
 - - toad
   - appeared
   - disconcerted
-- - violent
-  - rainstorm
-  - began
 - - cloche
   - hat
   - becomes
-- - p
-  - v
-  - dear
+- - violent
+  - rainstorm
+  - began
 - - hat
   - becomes
   - dislodged
+- - p
+  - v
+  - dear
 - - yellow
   - ribbon
   - round
 - - question
   - p
   - v
-- - question
-  - mrs
-  - gubbins
 - - oak
   - tree
   - today
@@ -77,18 +74,21 @@ ngrams:
 - - artificial
   - brain
   - built
+- - question
+  - mrs
+  - gubbins
 - - sea
   - slug
   - dear
 - - mere
   - artificial
   - brain
-- - titanium
-  - every
-  - sunday
 - - hero
   - inside
   - myself
+- - titanium
+  - every
+  - sunday
 - - inside
   - myself
   - tomorrow
@@ -110,42 +110,42 @@ ngrams:
 - - than
   - albino
   - stalinists
-- - shortly
-  - after
-  - taking
 - - rarer
   - than
   - albino
+- - shortly
+  - after
+  - taking
 - - too
   - great
   - enthusiasm
-- - like
-  - west
-  - bromwich
 - - despite
   - its
   - amphibious
+- - like
+  - west
+  - bromwich
 - - after
   - taking
   - part
 - - its
   - amphibious
   - nature
-- - thus
-  - cannot
-  - see
 - - better
   - than
   - anybody
+- - thus
+  - cannot
+  - see
 - - more
   - particularly
   - unmoored
-- - something
-  - like
-  - west
 - - than
   - anybody
   - old
+- - something
+  - like
+  - west
 - - track
   - coughing
   - up
@@ -164,15 +164,15 @@ ngrams:
 - - dislodged
   - what
   - advice
-- - glue
-  - your
-  - hat
 - - capital
   - city
   - when
 - - life
   - can
   - also
+- - glue
+  - your
+  - hat
 - - precisely
   - what
   - sort
@@ -182,9 +182,6 @@ ngrams:
 - - brain
   - built
   - out
-- - boil
-  - your
-  - head
 - - well
   - poopy
   - if
@@ -194,12 +191,15 @@ ngrams:
 - - hopped
   - away
   - out
-- - your
+- - boil
+  - your
   - head
-  - dear
 - - friends
   - are
   - electric
+- - cannot
+  - see
+  - what
 story:
   date: 2009-09-13
   id: 2009-09-13-ask-the-artificial-brain

@@ -2,18 +2,18 @@ ngrams:
 - - vladimir
   - nabokov
   - liked
+- - dmitri
+  - shostakovich
+  - died
 - - subconscious
   - duck
   - avoidance
-- - dmitri
-  - shostakovich
+- - ezra
+  - pound
   - died
 - - stray
   - duck
   - investigating
-- - ezra
-  - pound
-  - died
 - - cause
   - mental
   - turmoil
@@ -23,21 +23,21 @@ ngrams:
 - - year
   - dmitri
   - shostakovich
-- - year
-  - ezra
-  - pound
 - - subconscious
   - particularly
   - one's
+- - year
+  - ezra
+  - pound
 - - somehow
   - replenishes
   - itself
-- - walking
-  - boots
-  - right
 - - aquatic
   - creature
   - nor
+- - walking
+  - boots
+  - right
 - - possible
   - subject
   - matter
@@ -50,60 +50,66 @@ ngrams:
 - - past
   - four
   - decades
-- - current
-  - log
-  - book
 - - log
   - books
   - both
+- - current
+  - log
+  - book
 - - thing
   - worth
   - saying
-- - ezra
-  - pound
-  - ever
 - - books
   - both
   - child
+- - ezra
+  - pound
+  - ever
 - - particularly
   - one's
   - own
 - - one's
   - own
   - don't
+- - presence
+  - nor
+  - indeed
 - - shostakovich
   - ever
   - write
 - - pound
   - ever
   - write
-- - characteristic
-  - sound
-  - made
-- - presence
-  - nor
-  - indeed
 - - life
   - without
   - ducks
+- - characteristic
+  - sound
+  - made
 - - book
   - perhaps
   - essayed
-- - equally
-  - say
-  - since
 - - log
   - book
   - perhaps
+- - equally
+  - say
+  - since
 - - log
   - books
   - through
 - - did
   - ezra
   - pound
+- - might
+  - scarper
+  - behind
 - - should
   - make
   - sketches
+- - nervous
+  - ones
+  - such
 - - often
   - prance
   - through
@@ -116,15 +122,9 @@ ngrams:
 - - died
   - did
   - ezra
-- - nervous
-  - ones
-  - such
 - - pound
   - died
   - did
-- - might
-  - scarper
-  - behind
 - - its
   - former
   - glory
@@ -146,12 +146,12 @@ ngrams:
 - - teal
   - nor
   - any
-- - only
-  - thing
-  - worth
 - - reaching
   - its
   - end
+- - only
+  - thing
+  - worth
 - - think
   - since
   - last
@@ -164,90 +164,90 @@ ngrams:
 - - may
   - wonder
   - why
-- - seeing
-  - some
-  - ducks
-- - four
-  - decades
-  - do
-- - consciously
-  - avoided
-  - them
-- - consciously
-  - avoided
-  - them
 - - ducks
   - can
   - wait
-- - its
-  - end
-  - either
 - - nor
   - any
   - kind
+- - seeing
+  - some
+  - ducks
+- - consciously
+  - avoided
+  - them
+- - consciously
+  - avoided
+  - them
+- - its
+  - end
+  - either
+- - four
+  - decades
+  - do
 - - did
   - shostakovich
   - ever
+- - nor
+  - indeed
+  - any
 - - did
   - see
   - circa
 - - 'no'
   - rational
   - explanation
-- - looked
-  - like
-  - something
 - - ever
   - reaching
   - its
-- - nor
-  - indeed
-  - any
+- - looked
+  - like
+  - something
 - - shows
   - 'no'
   - sign
-- - give
-  - some
-  - idea
 - - avoided
   - them
   - nor
 - - could
   - equally
   - say
+- - give
+  - some
+  - idea
+- - avoided
+  - them
+  - though
 - - divertimento
   - about
   - ducks
 - - any
   - other
   - aquatic
-- - avoided
-  - them
-  - though
+- - hence
+  - when
+  - poring
 - - poem
   - about
   - ducks
 - - nor
   - their
   - habitats
-- - hence
-  - when
-  - poring
-- - saw
-  - 'no'
-  - need
 - - more
   - dull
   - than
+- - saw
+  - 'no'
+  - need
 - - light
   - upon
   - such
-- - former
-  - glory
-  - they
 - - any
   - time
   - since
+- - former
+  - glory
+  - they
 - - indeed
   - any
   - other
@@ -263,159 +263,159 @@ ngrams:
 - - would
   - cause
   - mental
-- - like
-  - something
-  - other
 - - append
   - captions
   - so
 - - how
   - much
   - time
-- - are
-  - innumerable
-  - sketches
-- - stop
-  - me
-  - going
 - - vietnamese
   - duck
   - so
+- - like
+  - something
+  - other
 - - years
   - hence
   - when
-- - which
-  - ducks
-  - happily
-- - time
-  - has
-  - passed
-- - certain
-  - attributes
-  - which
+- - stop
+  - me
+  - going
+- - are
+  - innumerable
+  - sketches
 - - done
   - so
   - subconsciously
+- - which
+  - ducks
+  - happily
 - - when
   - poring
   - over
 - - would
   - pass
   - without
+- - time
+  - has
+  - passed
 - - only
   - slightly
   - if
-- - know
-  - enough
-  - about
+- - certain
+  - attributes
+  - which
 - - way
   - we
   - represent
 - - its
   - psychology
   - if
-- - books
-  - through
-  - all
+- - know
+  - enough
+  - about
 - - usual
   - way
   - we
 - - they
   - might
   - scarper
-- - glory
-  - they
-  - might
 - - years
   - would
   - pass
+- - glory
+  - they
+  - might
 - - duck
   - so
   - far
+- - books
+  - through
+  - all
 - - has
   - been
   - drained
-- - wholly
-  - unidentifiable
-  - had
 - - much
   - time
   - has
 - - right
   - this
   - minute
-- - boots
-  - right
-  - this
-- - all
-  - these
-  - years
 - - them
   - nor
   - their
-- - through
-  - all
-  - these
-- - still
-  - extant
-  - one
-- - am
-  - asleep
-  - there
+- - boots
+  - right
+  - this
+- - wholly
+  - unidentifiable
+  - had
 - - stray
   - merganser
   - or
 - - or
   - goblins
   - replace
+- - all
+  - these
+  - years
 - - heath
   - government
   - or
+- - am
+  - asleep
+  - there
+- - through
+  - all
+  - these
+- - still
+  - extant
+  - one
 - - asleep
   - there
   - can
-- - 'no'
-  - idea
-  - what
-- - many
-  - years
-  - would
-- - some
-  - ducks
-  - there
-- - another
-  - duck
-  - had
-- - flee
-  - from
-  - humans
-- - duck
-  - flee
-  - from
 - - replenishes
   - itself
   - or
+- - many
+  - years
+  - would
 - - itself
   - or
   - goblins
+- - 'no'
+  - idea
+  - what
 - - government
   - or
   - since
+- - some
+  - ducks
+  - there
+- - flee
+  - from
+  - humans
+- - subconsciously
+  - but
+  - nothing
 - - so
   - many
   - years
-- - some
-  - beasts
-  - which
 - - have
   - consciously
   - avoided
+- - duck
+  - flee
+  - from
+- - another
+  - duck
+  - had
+- - subject
+  - matter
+  - but
 - - hamfisted
   - sketcher
   - at
-- - are
-  - some
-  - beasts
 story:
   date: 2012-05-20
   id: 2012-05-20-on-life-without-ducks

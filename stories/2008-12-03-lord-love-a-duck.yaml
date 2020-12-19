@@ -1,13 +1,13 @@
 ngrams:
-- - troy
-  - clytemnestra
-  - castor
 - - cockney
   - cheeky
   - chappie
 - - duckling
   - apostles
   - bowed
+- - troy
+  - clytemnestra
+  - castor
 - - aquatic
   - avian
   - characteristics
@@ -29,12 +29,12 @@ ngrams:
 - - urchins
   - shouting
   - lord
-- - dobson's
-  - ornithological
-  - ignorance
 - - exclaim
   - lord
   - love
+- - dobson's
+  - ornithological
+  - ignorance
 - - whose
   - womb
   - wiggles
@@ -50,42 +50,45 @@ ngrams:
 - - link
   - between
   - gods
-- - half
-  - duck
-  - half
-- - east
-  - end
-  - ponds
 - - print
   - pamphleteer
   - plodded
-- - letter
-  - marigold
-  - chew
+- - east
+  - end
+  - ponds
+- - half
+  - duck
+  - half
 - - mortals
   - must
   - obey
 - - added
   - perhaps
   - unkindly
+- - letter
+  - marigold
+  - chew
 - - relationship
   - between
   - god
-- - marigold
-  - chew
-  - wrote
 - - mere
   - mortals
   - must
 - - must
   - obey
   - occasionally
-- - pamphleteer
-  - plodded
-  - around
 - - another
   - topic
   - entirely
+- - marigold
+  - chew
+  - wrote
+- - pamphleteer
+  - plodded
+  - around
+- - overheard
+  - many
+  - ragamuffins
 - - cockney
   - haunts
   - dobson
@@ -95,9 +98,6 @@ ngrams:
 - - cousin
   - basil
   - dobson
-- - overheard
-  - many
-  - ragamuffins
 - - most
   - famous
   - example
@@ -113,39 +113,36 @@ ngrams:
 - - seems
   - little
   - need
+- - its
+  - boundless
+  - love
+- - plodded
+  - around
+  - those
 - - her
   - cousin
   - basil
 - - ponds
   - she
   - reported
-- - plodded
-  - around
-  - those
-- - its
-  - boundless
-  - love
-- - her
-  - husband
-  - king
 - - time
   - exclaim
   - lord
-- - dobson
-  - overheard
-  - many
+- - her
+  - husband
+  - king
 - - scribble
   - some
   - twaddle
-- - end
-  - ponds
-  - she
 - - wondering
   - just
   - how
 - - large
   - ducks
   - do
+- - dobson
+  - overheard
+  - many
 - - cheeky
   - chappie
   - who
@@ -155,66 +152,69 @@ ngrams:
 - - those
   - very
   - ponds
+- - end
+  - ponds
+  - she
 - - around
   - those
   - very
 - - love
   - upon
   - any
-- - divine
-  - seed
-  - will
 - - upon
   - any
   - particular
+- - divine
+  - seed
+  - will
 - - just
   - how
   - many
-- - basil
-  - dobson
-  - has
-- - into
-  - whose
-  - womb
-- - dobson
-  - has
-  - returned
 - - seed
   - will
   - eventually
+- - into
+  - whose
+  - womb
 - - duck
   - into
   - whose
 - - will
   - eventually
   - lay
+- - basil
+  - dobson
+  - has
 - - twaddle
   - about
   - another
-- - about
-  - another
-  - topic
 - - humankind
   - we
   - tend
+- - about
+  - another
+  - topic
+- - dobson
+  - has
+  - returned
 - - would
   - probably
   - emit
-- - swan
-  - although
-  - there
-- - never
-  - wrote
-  - up
 - - whole
   - theory
   - would
-- - waters
-  - are
-  - muddied
+- - swan
+  - although
+  - there
 - - would
   - command
   - god
+- - never
+  - wrote
+  - up
+- - waters
+  - are
+  - muddied
 - - are
   - muddied
   - somewhat

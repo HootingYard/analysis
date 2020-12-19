@@ -1,37 +1,37 @@
 ngrams:
-- - colonic
-  - irrigation
-  - theme
 - - regional
   - accents
   - choosing
-- - edgar
-  - allan
-  - poe
-- - pinhead
-  - person's
-  - plinth
+- - colonic
+  - irrigation
+  - theme
 - - accents
   - choosing
   - regions
-- - vim
-  - adenoidal
-  - youths
 - - performing
   - pinhead
   - person's
+- - vim
+  - adenoidal
+  - youths
+- - pinhead
+  - person's
+  - plinth
+- - edgar
+  - allan
+  - poe
 - - tallow
   - candles
   - shivering
 - - terrific
   - gatefold
   - sleeve
-- - dancing
-  - ghouls
-  - harry
 - - arthur
   - gordon
   - pym
+- - dancing
+  - ghouls
+  - harry
 - - manufacture
   - breathtaking
   - ornithological
@@ -68,18 +68,18 @@ ngrams:
 - - grim
   - iron
   - gates
-- - tour
-  - de
-  - force
-- - dobson's
-  - finest
-  - bravest
 - - pamphleteer
   - persistence
   - pays
+- - tour
+  - de
+  - force
 - - de
   - force
   - albeit
+- - dobson's
+  - finest
+  - bravest
 - - joke
   - pamphlet
   - dubbed
@@ -89,51 +89,48 @@ ngrams:
 - - lengthy
   - conversation
   - between
-- - iron
-  - gates
-  - past
 - - beasts
   - perish
   - along
 - - print
   - pamphleteer
   - persistence
+- - iron
+  - gates
+  - past
 - - swiftly
   - apparent
   - once
-- - most
-  - estimates
-  - conclude
-- - carved
-  - dobson's
-  - name
 - - pamphlet
   - begins
   - thus
-- - bravest
-  - most
-  - valiant
 - - mighty
   - text
   - rather
+- - most
+  - estimates
+  - conclude
+- - bravest
+  - most
+  - valiant
 - - finest
   - bravest
   - most
 - - neglected
   - most
   - estimates
-- - prog
-  - rock
-  - ever
+- - carved
+  - dobson's
+  - name
 - - rock
   - ever
   - adapted
+- - prog
+  - rock
+  - ever
 - - persistence
   - pays
   - 'off'
-- - dobson
-  - disastrously
-  - tries
 - - text
   - often
   - called
@@ -143,180 +140,183 @@ ngrams:
 - - 'off'
   - ted
   - cack
+- - dobson
+  - disastrously
+  - tries
 - - years
   - hard
   - slog
-- - our
-  - hapless
-  - hell
-- - seven
-  - years
-  - hard
 - - knew
   - nothing
   - indeed
-- - manner
-  - our
-  - moorings
+- - seven
+  - years
+  - hard
+- - our
+  - hapless
+  - hell
 - - probably
   - just
   - showing
 - - choosing
   - regions
   - where
-- - most
-  - valiant
-  - work
+- - manner
+  - our
+  - moorings
 - - parallel
   - universe
   - where
-- - any
-  - sensitive
-  - reader
+- - most
+  - valiant
+  - work
 - - clearly
   - any
   - sensitive
+- - any
+  - sensitive
+  - reader
 - - soul
   - after
   - death
 - - soul
   - clearly
   - any
-- - few
-  - readers
-  - because
-- - her
-  - crumbling
-  - shed
-- - its
-  - opening
-  - lines
 - - protagonists
   - upon
   - familiar
 - - upon
   - familiar
   - dobsonian
-- - only
-  - three
-  - copies
+- - few
+  - readers
+  - because
 - - pamphlet
   - dubbed
   - such
+- - its
+  - opening
+  - lines
 - - work
   - itself
   - being
-- - being
-  - neglected
-  - most
-- - does
-  - dobson
-  - tell
 - - itself
   - being
   - thought
-- - name
-  - indicated
-  - said
+- - only
+  - three
+  - copies
+- - being
+  - neglected
+  - most
 - - more
   - startling
   - works
-- - nor
-  - does
-  - dobson
+- - name
+  - indicated
+  - said
+- - her
+  - crumbling
+  - shed
 - - three
   - protagonists
   - upon
+- - does
+  - dobson
+  - tell
 - - dubbed
   - such
   - because
-- - just
-  - showing
-  - 'off'
 - - text
   - rather
   - than
+- - just
+  - showing
+  - 'off'
+- - nor
+  - does
+  - dobson
+- - because
+  - its
+  - opening
 - - maelstrom
   - like
   - something
 - - ted
   - cack
   - has
-- - because
-  - its
-  - opening
+- - graves
+  - chop
+  - up
 - - dobson
   - tell
   - us
 - - cack
   - has
   - gone
-- - graves
-  - chop
-  - up
-- - pamphlet
-  - has
-  - attracted
 - - swallows
   - up
   - arthur
-- - up
-  - arthur
-  - gordon
 - - their
   - physical
   - bodies
+- - up
+  - arthur
+  - gordon
 - - their
   - school
   - desks
 - - pamphlet
   - has
-  - led
+  - attracted
+- - such
+  - things
+  - came
 - - away
   - away
   - away
 - - slog
   - sitting
   - up
-- - such
-  - things
-  - came
-- - long
-  - chalk
-  - some
+- - pamphlet
+  - has
+  - led
 - - what
   - vim
   - adenoidal
 - - universe
   - where
   - such
+- - long
+  - chalk
+  - some
 - - about
   - tapping
   - gum
 - - arguing
   - their
   - case
+- - ghoul
+  - wanders
+  - out
 - - chalk
   - some
   - think
 - - copies
   - were
   - bashed
-- - ghoul
-  - wanders
-  - out
 - - each
   - arguing
   - their
 - - their
   - case
   - against
-- - could
-  - take
-  - us
 - - point
   - about
   - tapping
+- - could
+  - take
+  - us
 story:
   date: 2009-03-07
   id: 2009-03-07-the-joke-pamphlet

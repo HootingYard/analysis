@@ -26,6 +26,24 @@ ngrams:
 - - miss
   - blossom
   - partridge
+- - digest
+  - miss
+  - blossom
+- - geographically
+  - obtuse
+  - woman
+- - late
+  - husband's
+  - papers
+- - mad
+  - hysterical
+  - screeds
+- - weekly
+  - digest
+  - miss
+- - poor
+  - benighted
+  - creatures
 - - missionary
   - mrs
   - diphtheria
@@ -44,87 +62,69 @@ ngrams:
 - - mrs
   - diphtheria
   - croak
-- - geographically
-  - obtuse
-  - woman
-- - late
-  - husband's
-  - papers
-- - digest
-  - miss
-  - blossom
-- - mad
-  - hysterical
-  - screeds
-- - poor
-  - benighted
-  - creatures
-- - weekly
-  - digest
-  - miss
-- - mrs
-  - croak
-  - died
-- - country
-  - parsonage
-  - garden
-- - remote
-  - atoll
-  - following
 - - visible
   - horizon
   - thinking
+- - remote
+  - atoll
+  - following
+- - country
+  - parsonage
+  - garden
 - - chippy
   - '''s'
   - death
+- - mrs
+  - croak
+  - died
+- - forbidding
+  - cliffs
+  - several
 - - parsonage
   - garden
   - mrs
-- - garden
-  - mrs
-  - croak
 - - cold
   - white
   - expanse
+- - garden
+  - mrs
+  - croak
 - - series
   - entitled
   - female
 - - fascinating
   - series
   - entitled
-- - forbidding
-  - cliffs
-  - several
-- - right
-  - mrs
-  - croak
-- - big
-  - kangaroo
-  - heads
 - - sea
   - voyages
   - sooner
+- - big
+  - kangaroo
+  - heads
+- - vast
+  - pitiless
+  - sea
+- - right
+  - mrs
+  - croak
+- - kept
+  - several
+  - bibles
 - - told
   - mrs
   - croak
 - - direction
   - often
   - leaving
-- - vast
-  - pitiless
-  - sea
-- - kept
-  - several
-  - bibles
 - - orphans
   - penge
   - read
-- - eye
-  - doctor
-  - thus
 - - far
   - stranger
   - kidney
+- - eye
+  - doctor
+  - thus
 - - grown
   - colder
   - still
@@ -134,96 +134,99 @@ ngrams:
 - - own
   - account
   - paralysed
+- - albino
+  - kangaroo
+  - much
 - - fateful
   - voyage
   - being
 - - permission
   - being
   - granted
-- - albino
-  - kangaroo
-  - much
 - - these
   - poor
   - benighted
-- - made
-  - mention
-  - inter
-- - husband's
-  - papers
-  - after
 - - pitiless
   - sea
   - yet
-- - those
-  - giant
-  - albino
 - - diphtheria
   - croak
   - might
+- - husband's
+  - papers
+  - after
+- - made
+  - mention
+  - inter
+- - those
+  - giant
+  - albino
 - - cliffs
   - several
   - years
 - - first
   - became
   - aware
-- - themselves
-  - only
-  - bigger
 - - christ
   - our
   - lord
-- - few
-  - yards
-  - away
 - - sea
   - yet
   - within
-- - she
-  - sailed
-  - hither
+- - themselves
+  - only
+  - bigger
+- - few
+  - yards
+  - away
 - - christ
   - jesus
   - now
+- - several
+  - years
+  - later
+- - she
+  - sailed
+  - hither
 - - accompany
   - her
   - husband
 - - gift
   - she
   - intended
-- - mrs
-  - croak
-  - she
-- - reticule
-  - she
-  - kept
-- - cabin
-  - she
-  - spent
 - - eventually
   - she
   - ended
-- - several
-  - years
-  - later
-- - her
-  - senseless
-  - series
-- - her
-  - eye
-  - doctor
-- - '''s'
-  - death
+- - reticule
   - she
-- - blighty
+  - kept
+- - mrs
+  - croak
   - she
-  - wrote
+- - set
+  - 'off'
+  - across
+- - cabin
+  - she
+  - spent
 - - spy
   - land
   - she
+- - '''s'
+  - death
+  - she
+- - her
+  - senseless
+  - series
+- - blighty
+  - she
+  - wrote
 - - blighty
   - she
   - asked
+- - being
+  - granted
+  - after
 - - her
   - lost
   - husband
@@ -233,162 +236,159 @@ ngrams:
 - - she
   - further
   - reasoned
-- - set
-  - 'off'
-  - across
-- - later
-  - she
-  - reasoned
-- - sailors
-  - she
-  - set
-- - being
-  - granted
-  - after
+- - her
+  - eye
+  - doctor
 - - blossom
   - partridge
   - has
-- - she
-  - kept
-  - several
-- - landfall
-  - some
-  - hours
+- - later
+  - she
+  - reasoned
 - - amateur
   - wrestler
   - who
-- - land
+- - sailors
   - she
-  - further
+  - set
+- - landfall
+  - some
+  - hours
+- - she
+  - kept
+  - several
 - - obtuse
   - woman
   - who
-- - has
-  - abandoned
-  - none
-- - lord
-  - has
-  - abandoned
-- - her
-  - own
-  - account
 - - their
   - abominable
   - godless
-- - peasant
-  - who
-  - lived
+- - land
+  - she
+  - further
+- - lord
+  - has
+  - abandoned
 - - wrap
   - up
   - warm
-- - years
-  - she
-  - sailed
+- - has
+  - abandoned
+  - none
+- - peasant
+  - who
+  - lived
 - - kangaroo
   - much
   - like
 - - ended
   - up
   - eating
-- - she
-  - spent
-  - most
-- - among
-  - them
-  - bringing
-- - wrestler
-  - who
-  - went
-- - some
-  - instinct
-  - must
 - - demanding
   - ever
   - more
+- - among
+  - them
+  - bringing
 - - easier
   - said
   - than
-- - seven
-  - years
-  - she
 - - ever
   - more
   - powerful
+- - her
+  - own
+  - account
 - - ice
   - 'no'
   - wonder
 - - some
-  - hours
-  - later
-- - colder
-  - still
-  - some
-- - still
-  - some
   - instinct
+  - must
+- - wrestler
+  - who
+  - went
+- - years
+  - she
+  - sailed
 - - much
   - like
   - themselves
-- - their
-  - big
-  - kangaroo
-- - seen
-  - 'no'
-  - signs
-- - benighted
-  - creatures
-  - what
 - - absolutely
   - 'no'
   - sense
+- - benighted
+  - creatures
+  - what
 - - better
   - wrap
   - up
-- - board
-  - your
-  - ship
+- - colder
+  - still
+  - some
+- - seen
+  - 'no'
+  - signs
+- - still
+  - some
+  - instinct
+- - their
+  - big
+  - kangaroo
 - - should
   - abandon
   - them
-- - like
-  - themselves
-  - only
-- - made
-  - landfall
-  - some
-- - spot
-  - hopping
-  - about
+- - some
+  - hours
+  - later
+- - she
+  - spent
+  - most
+- - seven
+  - years
+  - she
 - - said
   - than
   - done
-- - titanic
-  - she
-  - did
-- - she
-  - set
-  - 'off'
-- - night
-  - through
-  - her
+- - spot
+  - hopping
+  - about
+- - board
+  - your
+  - ship
+- - made
+  - landfall
+  - some
+- - like
+  - themselves
+  - only
 - - article
   - torn
   - out
-- - her
-  - goodwill
-  - she
-- - her
-  - reticule
-  - she
 - - creatures
   - what
   - kind
-- - upon
-  - her
-  - senseless
+- - together
+  - when
+  - marooned
+- - wrote
+  - when
+  - sorting
+- - titanic
+  - she
+  - did
+- - soul
+  - together
+  - when
 - - she
   - embarked
   - upon
+- - she
+  - set
+  - 'off'
+- - me
+  - gainfully
+  - occupied
 story:
   date: 2012-09-26
   id: 2012-09-26-on-giant-albino-kangaroos

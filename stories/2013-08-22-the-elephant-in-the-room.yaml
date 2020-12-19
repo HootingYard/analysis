@@ -8,12 +8,12 @@ ngrams:
 - - busying
   - itself
   - pushing
-- - big
-  - galumphing
-  - elephant
 - - elephant
   - neither
   - knows
+- - big
+  - galumphing
+  - elephant
 - - pretty
   - straightforward
   - matter
@@ -29,15 +29,15 @@ ngrams:
 - - large
   - door
   - sufficient
-- - reasonably
-  - big
-  - room
 - - knows
   - nor
   - cares
 - - box
   - without
   - crushing
+- - reasonably
+  - big
+  - room
 - - neither
   - knows
   - nor
@@ -47,18 +47,18 @@ ngrams:
 - - everything
   - might
   - change
-- - exercising
-  - its
-  - trunk
 - - food
   - everything
   - might
-- - its
+- - exercising
+  - its
   - trunk
-  - whether
 - - more
   - intelligent
   - members
+- - its
+  - trunk
+  - whether
 - - elephant
   - has
   - chosen
@@ -74,6 +74,9 @@ ngrams:
 - - their
   - brains
   - cannot
+- - vitamins
+  - any
+  - more
 - - about
   - food
   - everything
@@ -83,9 +86,6 @@ ngrams:
 - - thinking
   - about
   - food
-- - vitamins
-  - any
-  - more
 - - time
   - being
   - while
@@ -98,45 +98,45 @@ ngrams:
 - - rocket
   - science
   - so
-- - science
-  - elephants
-  - are
 - - might
   - find
   - some
-- - science
-  - so
-  - anyway
 - - nor
   - cares
   - we
+- - science
+  - so
+  - anyway
+- - science
+  - elephants
+  - are
 - - elephants
   - are
   - among
-- - receive
-  - an
-  - elephant
-- - prefer
-  - an
-  - unsullied
-- - lobby
-  - an
-  - envelope
 - - any
   - more
   - than
-- - an
+- - prefer
+  - an
   - unsullied
-  - space
-- - an
-  - enormous
-  - box
+- - receive
+  - an
+  - elephant
+- - lobby
+  - an
+  - envelope
 - - cares
   - we
   - might
 - - we
   - might
   - surmise
+- - an
+  - unsullied
+  - space
+- - an
+  - enormous
+  - box
 - - box
   - they
   - may
@@ -146,24 +146,24 @@ ngrams:
 - - put
   - there
   - before
-- - we
-  - can
-  - assume
-- - coupon
-  - snipped
-  - from
 - - empty
   - or
   - contains
-- - animal
-  - kingdom
-  - but
-- - box
-  - we
+- - we
   - can
+  - assume
 - - sealed
   - or
   - open
+- - animal
+  - kingdom
+  - but
+- - trunk
+  - whether
+  - or
+- - box
+  - we
+  - can
 story:
   date: 2013-08-22
   id: 2013-08-22-the-elephant-in-the-room

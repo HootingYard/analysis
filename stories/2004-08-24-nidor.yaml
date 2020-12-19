@@ -1,10 +1,10 @@
 ngrams:
-- - gillespie's
-  - aromatic
-  - camphor
 - - aromatic
   - camphor
   - myrrh
+- - gillespie's
+  - aromatic
+  - camphor
 - - camphor
   - myrrh
   - preparation
@@ -50,6 +50,9 @@ ngrams:
 - - spout
   - forth
   - much
+- - forth
+  - much
+  - wisdom
 - - very
   - effective
   - ritual
@@ -59,33 +62,30 @@ ngrams:
 - - scrub
   - never
   - goes
-- - forth
-  - much
-  - wisdom
-- - old
-  - pal
-  - note
 - - shouldn't
   - put
   - too
-- - making
-  - very
-  - careful
+- - old
+  - pal
+  - note
 - - fitful
   - sleep
   - than
-- - very
+- - making
+  - very
   - careful
-  - use
-- - seems
-  - only
-  - fair
-- - amiss
-  - now
-  - tie
 - - several
   - very
   - effective
+- - very
+  - careful
+  - use
+- - amiss
+  - now
+  - tie
+- - seems
+  - only
+  - fair
 - - put
   - too
   - big
@@ -101,11 +101,11 @@ ngrams:
 - - animal
   - do
   - tidy
-- - packaging
-  - some
-  - wailing
 - - bit
   - more
+  - wailing
+- - packaging
+  - some
   - wailing
 - - can
   - improvise
@@ -125,9 +125,9 @@ ngrams:
 - - consumed
   - your
   - sacrificial
-- - build
+- - tie
   - your
-  - altar
+  - bison
 story:
   date: 2004-08-24
   id: 2004-08-24-nidor

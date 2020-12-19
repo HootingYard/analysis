@@ -2,33 +2,33 @@ ngrams:
 - - guglielmo
   - boffo
   - sunglasses
-- - tough
-  - material
-  - sisal
 - - numberless
   - savage
   - enormities
+- - tough
+  - material
+  - sisal
+- - peasants
+  - brandishing
+  - pitchforks
 - - committed
   - numberless
   - savage
 - - tarry
   - burning
   - torches
-- - peasants
-  - brandishing
-  - pitchforks
-- - pastry
-  - gathering
-  - crumbs
+- - pulped
+  - unidentifiable
+  - fruit
 - - burning
   - torches
   - roam
 - - elegant
   - sweeping
   - motion
-- - pulped
-  - unidentifiable
-  - fruit
+- - pastry
+  - gathering
+  - crumbs
 - - path
   - becomes
   - steeper
@@ -68,21 +68,21 @@ ngrams:
 - - bag
   - spread
   - flat
-- - glorious
-  - morning
-  - daylight
 - - waste
   - bin
   - today
+- - glorious
+  - morning
+  - daylight
 - - greaseproof
   - paper
   - bag
-- - information
-  - leaflet
-  - without
 - - material
   - sisal
   - perhaps
+- - information
+  - leaflet
+  - without
 - - leaflet
   - without
   - looking
@@ -104,39 +104,39 @@ ngrams:
 - - himself
   - says
   - nothing
-- - few
-  - polite
-  - words
-- - trudge
-  - our
-  - sisal
 - - shortly
   - after
   - midday
+- - few
+  - polite
+  - words
+- - maisie
+  - shortly
+  - after
+- - trudge
+  - our
+  - sisal
+- - returned
+  - after
+  - theft
 - - flash
   - our
   - coupon
 - - schloss
   - flash
   - our
-- - maisie
-  - shortly
-  - after
-- - returned
-  - after
-  - theft
-- - move
-  - our
-  - mattress
 - - ack
   - until
   - perhaps
-- - hammer
+- - move
   - our
-  - aglets
+  - mattress
 - - our
   - pipe
   - indomitable
+- - hammer
+  - our
+  - aglets
 - - puff
   - our
   - pipe
@@ -146,84 +146,87 @@ ngrams:
 - - horrors
   - long
   - long
-- - pull
-  - our
-  - hat
-- - its
-  - attendant
-  - earflaps
-- - flanks
-  - its
-  - owner
-- - where
-  - perched
-  - somehow
-- - scan
-  - our
-  - eyes
-- - having
-  - first
-  - threaded
 - - copper
   - cone
   - upon
 - - shattered
   - upon
   - balconies
-- - need
+- - where
+  - perched
+  - somehow
+- - pull
   - our
-  - coupon
-- - light
-  - our
-  - pipe
+  - hat
+- - its
+  - attendant
+  - earflaps
 - - prosecute
   - dozens
   - upon
-- - its
-  - majestic
-  - carved
-- - enter
+- - flanks
   - its
-  - majestic
+  - owner
+- - having
+  - first
+  - threaded
 - - lie
   - shattered
   - upon
+- - scan
+  - our
+  - eyes
 - - dozens
   - upon
   - dozens
-- - care
-  - having
-  - first
+- - need
+  - our
+  - coupon
+- - its
+  - majestic
+  - carved
+- - light
+  - our
+  - pipe
+- - enter
+  - its
+  - majestic
 - - earflaps
   - more
   - snugly
 - - attendant
   - earflaps
   - more
-- - long
-  - long
-  - ago
+- - care
+  - having
+  - first
 - - upon
   - balconies
   - today
+- - long
+  - long
+  - ago
 - - interior
   - gloom
   - can
 - - long
   - ago
   - these
-- - first
-  - threaded
-  - through
 - - donkeys
   - sometimes
   - do
-- - before
-  - being
-  - pitched
+- - first
+  - threaded
+  - through
 - - portal
   - before
   - being
+- - before
+  - being
+  - pitched
+- - head
+  - height
+  - through
 - - post
   - some
   - yards
@@ -233,18 +236,15 @@ ngrams:
 - - who
   - committed
   - numberless
-- - head
-  - height
-  - through
 - - 'no'
   - inelegant
   - pratfalls
-- - little
-  - further
-  - down
 - - 'no'
   - longer
   - prance
+- - little
+  - further
+  - down
 - - 'no'
   - longer
   - recall
@@ -272,18 +272,15 @@ ngrams:
 - - its
   - flanks
   - its
-- - man
-  - who
-  - stole
 - - peasants
   - will
   - fall
-- - boffo
-  - sunglasses
-  - they
 - - can
   - never
   - remember
+- - boffo
+  - sunglasses
+  - they
 - - steeper
   - we
   - pant
@@ -293,105 +290,108 @@ ngrams:
 - - gradient
   - we
   - trudge
+- - man
+  - who
+  - stole
 - - midday
   - we
   - arrive
-- - becomes
-  - steeper
-  - we
 - - alpine
   - climate
   - we
-- - donned
+- - becomes
+  - steeper
   - we
-  - step
 - - tobacco
   - we
   - gaze
+- - donned
+  - we
+  - step
 - - balcony
   - we
   - pull
+- - sadly
+  - necessary
+  - we
 - - climate
   - we
   - begin
-- - sadly
-  - necessary
+- - unidentifiable
+  - fruit
   - we
 - - hold
   - firm
   - there
-- - unidentifiable
-  - fruit
-  - we
 - - chalet
   - balcony
-  - we
-- - boots
-  - donned
   - we
 - - would
   - lie
   - shattered
+- - boots
+  - donned
+  - we
 - - harm
   - we
   - stop
-- - birds
-  - peasants
-  - will
-- - balcony
-  - once
-  - out
 - - late
   - date
   - we
 - - fruit
   - we
   - sit
-- - morning
-  - daylight
-  - they
+- - balcony
+  - once
+  - out
+- - birds
+  - peasants
+  - will
 - - done
   - we
   - scatter
 - - balconies
   - today
   - we
-- - today
-  - we
-  - don
 - - anorak
   - so
   - apt
 - - enormities
   - we
   - told
+- - today
+  - we
+  - don
 - - bin
   - today
   - there
-- - being
-  - pitched
-  - into
+- - morning
+  - daylight
+  - they
 - - schloss
   - later
   - we
+- - being
+  - pitched
+  - into
 - - necessary
   - we
   - need
+- - we
+  - shall
+  - climb
+- - sisal
+  - perhaps
+  - we
 - - snugly
   - about
   - our
 - - we
-  - shall
-  - climb
-- - our
-  - aglets
-  - into
-- - sisal
-  - perhaps
-  - we
-- - when
-  - our
-  - munching
+  - must
+  - confront
+- - we
+  - must
+  - descend
 story:
   date: 2012-08-31
   id: 2012-08-31-on-a-museum-piece

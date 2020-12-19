@@ -8,42 +8,42 @@ ngrams:
 - - squelchy
   - sparks
   - remorselessly
-- - sank
-  - remorselessly
-  - emitting
 - - emitting
   - squelchy
   - sparks
 - - wing
   - coverts
   - displayed
-- - outermost
-  - throat
-  - spots
+- - sank
+  - remorselessly
+  - emitting
 - - cassette
   - recorder
   - concealed
+- - outermost
+  - throat
+  - spots
 - - upperparts
   - buff
   - throat
 - - purple
   - cheek
   - patches
-- - grey
-  - upperparts
-  - buff
 - - upturned
   - barrel
   - surrounded
-- - dozen
-  - bumper
-  - multipacks
+- - grey
+  - upperparts
+  - buff
 - - dozen
   - bumper
   - multipacks
 - - canned
   - fizzy
   - drink
+- - dozen
+  - bumper
+  - multipacks
 - - outer
   - web
   - whereas
@@ -80,12 +80,12 @@ ngrams:
 - - whistling
   - crackly
   - song
-- - contrasting
-  - white
-  - panel
 - - escaped
   - unscathed
   - probably
+- - contrasting
+  - white
+  - panel
 - - blister
   - lane
   - bypass
@@ -95,18 +95,18 @@ ngrams:
 - - half
   - dozen
   - multipacks
-- - half
-  - dozen
-  - bumper
 - - white
   - outer
   - edge
-- - outside
-  - tail
-  - feathers
+- - half
+  - dozen
+  - bumper
 - - flight
   - call
   - cursing
+- - outside
+  - tail
+  - feathers
 - - voice
   - shortly
   - afterwards
@@ -116,6 +116,12 @@ ngrams:
 - - black
   - shaft
   - streak
+- - unscathed
+  - probably
+  - due
+- - several
+  - sizes
+  - smaller
 - - small
   - purple
   - cheek
@@ -125,99 +131,93 @@ ngrams:
 - - displayed
   - small
   - purple
-- - blue
-  - forgotten
-  - hills
-- - blue
-  - forgotten
-  - hills
-- - blue
-  - forgotten
-  - hills
 - - forgotten
   - hills
   - looking
-- - unscathed
-  - probably
-  - due
-- - several
-  - sizes
-  - smaller
+- - blue
+  - forgotten
+  - hills
+- - blue
+  - forgotten
+  - hills
+- - blue
+  - forgotten
+  - hills
 - - called
   - throat
   - spots
-- - throat
-  - called
-  - throat
+- - along
+  - yoko
+  - ono
+- - along
+  - yoko
+  - ono
 - - fisherman
   - observing
   - birds
-- - along
-  - yoko
-  - ono
-- - along
-  - yoko
-  - ono
 - - yellow
   - fringes
   - along
-- - light
-  - green
-  - body
 - - weight
   - somewhere
   - between
+- - throat
+  - called
+  - throat
+- - light
+  - green
+  - body
 - - wedges
   - each
   - wing
+- - shoes
+  - until
+  - midday
 - - further
   - half
   - dozen
 - - inches
   - long
   - weighed
-- - shoes
-  - until
-  - midday
 - - long
   - weighed
   - roughly
+- - lightning
+  - several
+  - times
 - - each
   - cheek
   - patch
-- - three
-  - black
-  - spots
 - - fisherman's
   - shoes
   - while
 - - white
   - wedges
   - each
-- - lightning
-  - several
-  - times
+- - three
+  - black
+  - spots
+- - shoes
+  - while
+  - walking
 - - black
   - spots
   - across
 - - another
   - half
   - dozen
-- - shoes
-  - while
-  - walking
 - - two
   - outermost
   - throat
+- - electrical
+  - storm
+  - see
+- - electrical
+  - storm
+  - see
 - - two
   - outer
   - feathers
-- - electrical
-  - storm
-  - see
-- - electrical
-  - storm
-  - see
 - - agony
   - surging
   - through
@@ -230,9 +230,6 @@ ngrams:
 - - very
   - canny
   - fisherman
-- - storm
-  - see
-  - below
 - - spots
   - across
   - each
@@ -241,46 +238,52 @@ ngrams:
   - straight
 - - storm
   - see
-  - above
-- - blackish
-  - stripes
-  - down
-- - jotted
-  - down
-  - linnet
+  - below
 - - think
   - straight
   - due
+- - blackish
+  - stripes
+  - down
+- - storm
+  - see
+  - above
 - - saw
   - several
   - birds
+- - jotted
+  - down
+  - linnet
 - - reeking
   - wharf
   - where
 - - sizes
   - smaller
   - than
-- - across
-  - each
-  - side
 - - over
   - sawdust
   - bridge
 - - over
   - sawdust
   - bridge
-- - those
-  - whose
-  - domain
 - - smaller
   - than
   - mine
-- - go
-  - walking
-  - again
+- - across
+  - each
+  - side
 - - than
   - mine
   - walking
+- - go
+  - walking
+  - again
+- - those
+  - whose
+  - domain
+- - illustrated
+  - treatise
+  - upon
 - - walking
   - again
   - away
@@ -290,24 +293,24 @@ ngrams:
 - - flashes
   - its
   - wings
-- - illustrated
-  - treatise
-  - upon
-- - yellow
-  - flashes
-  - its
-- - yellow
-  - flashes
-  - its
 - - morning
   - shortly
   - after
+- - yellow
+  - flashes
+  - its
+- - yellow
+  - flashes
+  - its
 - - far
   - too
   - small
 - - its
   - flight
   - call
+- - treatise
+  - upon
+  - birds
 - - sky
   - only
   - later
@@ -317,9 +320,6 @@ ngrams:
 - - approached
   - him
   - swinging
-- - treatise
-  - upon
-  - birds
 - - rumps
   - while
   - its
@@ -329,30 +329,30 @@ ngrams:
 - - their
   - proper
   - names
-- - only
-  - later
-  - back
-- - writing
-  - their
-  - proper
 - - could
   - barely
   - think
+- - writing
+  - their
+  - proper
+- - only
+  - later
+  - back
+- - walking
+  - about
+  - peering
+- - especially
+  - when
+  - trafficking
 - - spots
   - were
   - situated
 - - throat
   - spots
   - were
-- - walking
-  - about
-  - peering
 - - tail
   - feathers
   - were
-- - especially
-  - when
-  - trafficking
 - - flight
   - feathers
   - were
@@ -362,24 +362,30 @@ ngrams:
 - - were
   - dark
   - grey
-- - pay
-  - him
-  - 'off'
 - - feathers
   - were
   - dark
-- - face
-  - were
-  - yellow
-- - feathers
-  - were
-  - black
+- - pay
+  - him
+  - 'off'
 - - were
   - several
   - sizes
+- - face
+  - were
+  - yellow
 - - sloshing
   - sea
   - into
+- - feathers
+  - were
+  - black
+- - upon
+  - birds
+  - did
+- - ploy
+  - would
+  - obviously
 - - feet
   - were
   - several
@@ -392,30 +398,24 @@ ngrams:
 - - about
   - inches
   - long
-- - upon
-  - birds
-  - did
-- - ploy
-  - would
-  - obviously
-- - while
-  - walking
-  - about
 - - budgerigar
   - clearly
   - there
+- - while
+  - walking
+  - about
 - - yet
   - thought
   - up
 - - let
   - me
   - borrow
-- - then
-  - bring
-  - him
 - - things
   - turned
   - out
+- - then
+  - bring
+  - him
 - - feet
   - back
   - into
@@ -449,6 +449,15 @@ ngrams:
 - - each
   - side
   - which
+- - me
+  - being
+  - far
+- - made
+  - me
+  - long
+- - one
+  - morning
+  - shortly
 - - had
   - communed
   - simultaneously
@@ -458,57 +467,39 @@ ngrams:
 - - primaries
   - had
   - pale
+- - following
+  - him
+  - about
 - - inner
   - primaries
   - had
 - - ornithological
   - education
   - had
-- - made
-  - me
-  - long
-- - me
-  - being
-  - far
-- - following
-  - him
-  - about
-- - had
-  - pale
-  - yellow
-- - had
-  - white
-  - wedges
-- - one
-  - morning
-  - shortly
-- - most
-  - people
-  - are
 - - this
   - point
   - unfortunately
-- - second
-  - bird
-  - this
 - - had
-  - always
-  - yearned
+  - pale
+  - yellow
+- - most
+  - people
+  - are
+- - had
+  - white
+  - wedges
 - - would
   - then
   - bring
-- - had
-  - seen
-  - neither
 - - extortion
   - but
   - nodded
 - - but
   - nodded
   - agreement
-- - each
-  - wing
-  - had
+- - second
+  - bird
+  - this
 - - fizzy
   - drink
   - but
@@ -518,12 +509,21 @@ ngrams:
 - - but
   - eventually
   - agreed
-- - creatures
-  - below
-  - but
 - - hard
   - bargain
   - but
+- - had
+  - always
+  - yearned
+- - creatures
+  - below
+  - but
+- - had
+  - seen
+  - neither
+- - each
+  - wing
+  - had
 - - were
   - 'no'
   - good

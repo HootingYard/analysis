@@ -17,36 +17,33 @@ ngrams:
 - - clack
   - clack
   - rapid
-- - rubbish
-  - dump
-  - babylon
 - - postwar
   - vienna
   - wheels
+- - rubbish
+  - dump
+  - babylon
 - - underfoot
   - buck
   - collar
-- - cathedral
-  - choir
-  - nunc
 - - buck
   - collar
   - snug
-- - lark
-  - bob
-  - bobolink
+- - cathedral
+  - choir
+  - nunc
 - - frisky
   - terrier
   - lumbering
+- - lark
+  - bob
+  - bobolink
 - - terrier
   - lumbering
   - hound
 - - orphan
   - choir
   - sings
-- - bob
-  - lark
-  - bob
 - - sparrow
   - bob
   - lark
@@ -56,18 +53,21 @@ ngrams:
 - - bob
   - sparrow
   - bob
+- - bob
+  - lark
+  - bob
 - - rubbish
   - dump
   - lit
 - - dump
   - lit
   - lantern
-- - hallows
-  - eve
-  - pictures
 - - visibility
   - stygian
   - pebbles
+- - hallows
+  - eve
+  - pictures
 - - stygian
   - pebbles
   - underfoot
@@ -80,15 +80,15 @@ ngrams:
 - - hour
   - timetabled
   - clack
-- - crow
-  - bob
-  - lark
 - - distant
   - incomprehensible
   - keening
 - - ditch
   - frisky
   - terrier
+- - crow
+  - bob
+  - lark
 - - bob
   - crow
   - bob
@@ -97,13 +97,13 @@ ngrams:
   - bob
 - - bob
   - crow
+  - bob
+- - orphans
+  - sing
   - bob
 - - marble
   - giants
   - wind
-- - orphans
-  - sing
-  - bob
 - - babylon
   - crows
   - fly

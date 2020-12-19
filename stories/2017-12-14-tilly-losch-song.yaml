@@ -14,12 +14,6 @@ ngrams:
 - - collected
   - surrealist
   - art
-- - ned
-  - young
-  - edward
-- - young
-  - edward
-  - james
 - - oh
   - tilly
   - tilly
@@ -32,6 +26,12 @@ ngrams:
 - - wide
   - oh
   - tilly
+- - ned
+  - young
+  - edward
+- - young
+  - edward
+  - james
 story:
   date: 2017-12-14
   id: 2017-12-14-tilly-losch-song

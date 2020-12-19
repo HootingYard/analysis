@@ -20,12 +20,12 @@ ngrams:
 - - sprite
   - leaping
   - between
-- - within
-  - jiffy
-  - bags
 - - leaping
   - between
   - jiffy
+- - within
+  - jiffy
+  - bags
 - - between
   - jiffy
   - bags
@@ -50,9 +50,6 @@ ngrams:
 - - bag
   - sprites
   - they
-- - sprite
-  - which
-  - dwells
 - - are
   - cottingley
   - fairies
@@ -62,6 +59,9 @@ ngrams:
 - - sprites
   - are
   - reluctant
+- - sprite
+  - which
+  - dwells
 - - they
   - become
   - oh
@@ -71,12 +71,12 @@ ngrams:
 - - which
   - dwells
   - within
-- - she
-  - has
-  - yet
 - - become
   - oh
   - so
+- - ever
+  - so
+  - silently
 story:
   date: 2004-10-28
   id: 2004-10-28-tex-mex-jiffy-bag-sprites

@@ -17,42 +17,42 @@ ngrams:
 - - tree
   - falling
   - landed
+- - o
+  - estate
+  - agent
 - - fell
   - slap
   - bang
 - - estate
   - agent
   - lay
-- - o
-  - estate
-  - agent
-- - schloss
-  - blodgett
-  - decided
 - - making
   - strange
   - explosive
+- - schloss
+  - blodgett
+  - decided
 - - occasionally
   - making
   - strange
-- - wednesday
-  - morning
-  - loud
 - - minutes
   - occasionally
   - making
-- - simply
-  - stay
-  - put
-- - schloss
-  - while
-  - devising
-- - outside
-  - birds
-  - landed
+- - wednesday
+  - morning
+  - loud
 - - evil
   - deed
   - though
+- - schloss
+  - while
+  - devising
+- - simply
+  - stay
+  - put
+- - outside
+  - birds
+  - landed
 - - desk
   - outside
   - birds
@@ -74,21 +74,21 @@ ngrams:
 - - yet
   - another
   - thump
-- - only
-  - dimly
-  - aware
 - - where
   - eagles
   - dare
+- - only
+  - dimly
+  - aware
 - - little
   - birds
   - squawked
-- - estate
-  - agent
-  - did
 - - pox
   - upon
   - circuses
+- - estate
+  - agent
+  - did
 - - film
   - where
   - eagles
@@ -113,6 +113,9 @@ ngrams:
 - - some
   - evil
   - deed
+- - himself
+  - against
+  - any
 - - unseasonal
   - galoshes
   - who
@@ -122,9 +125,6 @@ ngrams:
 - - estate
   - agent
   - who
-- - himself
-  - against
-  - any
 - - then
   - once
   - inside
@@ -134,18 +134,18 @@ ngrams:
 - - blodgett
   - ended
   - up
-- - slap
-  - bang
-  - into
 - - gondola
   - lift
   - if
-- - what
-  - i'm
-  - looking
+- - slap
+  - bang
+  - into
 - - about
   - o
   - estate
+- - what
+  - i'm
+  - looking
 - - talking
   - about
   - o
@@ -197,6 +197,21 @@ ngrams:
 - - had
   - strong
   - views
+- - or
+  - gondola
+  - lift
+- - or
+  - gondola
+  - lift
+- - or
+  - gondola
+  - lift
+- - bailiffs
+  - or
+  - law
+- - or
+  - law
+  - officers
 - - circus
   - blodgett
   - had
@@ -206,62 +221,47 @@ ngrams:
 - - which
   - little
   - birds
-- - or
-  - gondola
-  - lift
-- - or
-  - gondola
-  - lift
-- - or
-  - gondola
-  - lift
-- - birds
-  - had
-  - flown
-- - bailiffs
-  - or
-  - law
-- - an
-  - honest
-  - man
-- - or
-  - law
-  - officers
 - - point
   - also
   - one
+- - an
+  - honest
+  - man
 - - would
   - allow
   - him
-- - had
-  - flown
-  - away
 - - wrong
   - tree
   - but
+- - birds
+  - had
+  - flown
 - - glass
   - frontage
   - at
 - - frontage
   - at
   - precisely
-- - leisure
-  - hours
-  - at
+- - had
+  - flown
+  - away
 - - have
   - seen
   - replied
-- - officers
-  - by
-  - pelting
-- - youth
-  - unnerved
-  - by
+- - leisure
+  - hours
+  - at
 - - viewing
   - at
   - least
+- - officers
+  - by
+  - pelting
 - - dare
   - directed
+  - by
+- - youth
+  - unnerved
   - by
 story:
   date: 2008-01-06

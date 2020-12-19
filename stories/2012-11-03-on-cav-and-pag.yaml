@@ -5,12 +5,12 @@ ngrams:
 - - deceptively
   - ramshackle
   - huts
-- - blaring
-  - siren
-  - drowned
 - - clowns
   - chucked
   - pails
+- - blaring
+  - siren
+  - drowned
 - - low
   - electronic
   - hum
@@ -29,33 +29,33 @@ ngrams:
 - - pag
   - equally
   - gorgeously
-- - national
-  - security
-  - facility
 - - rustic
   - patients
   - showered
 - - curiously
   - impelled
   - impelled
-- - clown
-  - hospital
-  - lying
-- - fashioned
-  - magnetic
-  - tape
+- - national
+  - security
+  - facility
 - - wake
   - pag
   - proved
+- - clown
+  - hospital
+  - lying
 - - tape
   - recordings
   - served
-- - separate
-  - holding
-  - cells
 - - proper
   - blaring
   - siren
+- - separate
+  - holding
+  - cells
+- - fashioned
+  - magnetic
+  - tape
 - - sang
   - pag
   - equally
@@ -83,36 +83,36 @@ ngrams:
 - - park
   - bench
   - mere
-- - sinister
-  - operative
-  - began
 - - siren
   - song
   - hoping
-- - fence
-  - buzzed
-  - open
 - - proved
   - less
   - tractable
 - - song
   - grew
   - restive
+- - sinister
+  - operative
+  - began
+- - fence
+  - buzzed
+  - open
 - - pag
   - proved
   - less
-- - top
-  - secret
-  - national
+- - impelled
+  - impelled
+  - oh
+- - impelled
+  - oh
+  - impelled
 - - top
   - secret
   - facility
-- - impelled
-  - impelled
-  - oh
-- - impelled
-  - oh
-  - impelled
+- - top
+  - secret
+  - national
 - - huge
   - loudspeakers
   - sat
@@ -128,12 +128,12 @@ ngrams:
 - - mere
   - seconds
   - later
-- - forded
-  - every
-  - stream
 - - pag
   - though
   - outwardly
+- - forded
+  - every
+  - stream
 - - every
   - stream
   - singing
@@ -146,12 +146,12 @@ ngrams:
 - - too
   - sang
   - pag
-- - old
-  - fashioned
-  - magnetic
 - - shall
   - keep
   - watch
+- - old
+  - fashioned
+  - magnetic
 - - pag
   - heard
   - each
@@ -161,12 +161,12 @@ ngrams:
 - - doesn't
   - always
   - work
-- - ways
-  - towards
-  - each
 - - pathways
   - many
   - miles
+- - ways
+  - towards
+  - each
 - - beds
   - many
   - miles
@@ -191,33 +191,30 @@ ngrams:
 - - two
   - different
   - clinics
+- - mast
+  - towering
+  - over
 - - wards
   - hearing
   - only
 - - recordings
   - served
   - only
-- - mast
-  - towering
-  - over
 - - clowning
   - around
   - still
 - - around
   - still
   - bandaged
-- - other's
-  - part
-  - through
 - - any
   - physical
   - cause
 - - toppling
   - over
   - eventually
-- - hearing
-  - only
-  - half
+- - other's
+  - part
+  - through
 - - kept
   - toppling
   - over
@@ -233,18 +230,21 @@ ngrams:
 - - ambulance
   - its
   - blaring
-- - water
-  - over
-  - pag
-- - came
-  - tumbling
-  - after
+- - hearing
+  - only
+  - half
 - - park
   - bench
   - upon
+- - water
+  - over
+  - pag
 - - clowns
   - even
   - further
+- - came
+  - tumbling
+  - after
 - - over
   - pag
   - both
@@ -257,18 +257,18 @@ ngrams:
 - - became
   - too
   - much
-- - brutes
-  - who
-  - turfed
-- - each
-  - other
-  - backwards
-- - summon
-  - brutes
-  - who
 - - them
   - hoping
   - thereby
+- - each
+  - other
+  - backwards
+- - brutes
+  - who
+  - turfed
+- - summon
+  - brutes
+  - who
 - - duet
   - each
   - could
@@ -296,30 +296,24 @@ ngrams:
 - - escape
   - their
   - clutches
-- - their
-  - bandages
-  - removed
-- - heard
-  - each
-  - other
-- - their
-  - holding
-  - cells
 - - silent
   - their
   - earpieces
 - - their
+  - holding
+  - cells
+- - their
   - hidden
   - earpieces
 - - their
   - hidden
   - earpieces
+- - their
+  - bandages
+  - removed
 - - rang
   - their
   - bells
-- - their
-  - broken
-  - crowns
 - - stream
   - singing
   - their
@@ -329,18 +323,24 @@ ngrams:
 - - singing
   - their
   - hearts
-- - towards
+- - their
+  - broken
+  - crowns
+- - heard
   - each
   - other
+- - each
+  - could
+  - hear
 - - facility
   - their
   - hidden
 - - their
   - separate
   - holding
-- - each
-  - could
-  - hear
+- - rubbed
+  - their
+  - heads
 story:
   date: 2012-11-03
   id: 2012-11-03-on-cav-and-pag

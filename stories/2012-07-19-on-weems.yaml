@@ -8,51 +8,54 @@ ngrams:
 - - agency
   - atelier
   - weems
+- - submarine
+  - weems
+  - travelled
 - - roll
   - sales
   - rep
 - - accomplished
   - piccolo
   - player
-- - submarine
-  - weems
-  - travelled
-- - communique
-  - weems
-  - poured
 - - containers
   - weems
   - insisted
+- - communique
+  - weems
+  - poured
 - - atelier
   - weems
   - liked
 - - duties
   - included
   - mopping
-- - jars
-  - contained
-  - ink
-- - playing
-  - becalmed
-  - simon
 - - chocolate
   - swiss
   - roll
+- - playing
+  - becalmed
+  - simon
 - - swiss
   - roll
   - sales
+- - jars
+  - contained
+  - ink
 - - secret
   - agency
   - atelier
+- - janitorial
+  - patter
+  - eventually
 - - glass
   - la
   - paltrow
 - - weems
   - tried
   - patter
-- - janitorial
-  - patter
-  - eventually
+- - bigger
+  - storage
+  - jar
 - - secret
   - agent
   - weems
@@ -68,9 +71,6 @@ ngrams:
 - - psychiatrist
   - anywhere
   - near
-- - bigger
-  - storage
-  - jar
 - - panel
   - weems
   - tried
@@ -86,30 +86,30 @@ ngrams:
 - - agent
   - weems
   - since
-- - whose
-  - duties
-  - included
 - - blond
   - mop
   - sometimes
+- - lowly
+  - submariners
+  - among
+- - lid
+  - several
+  - containers
 - - agent
   - weems
   - wrote
 - - crew
   - whose
   - duties
-- - lowly
-  - submariners
-  - among
+- - whose
+  - duties
+  - included
 - - hair
   - oil
   - according
 - - small
   - storage
   - jars
-- - lid
-  - several
-  - containers
 - - memoirs
   - reveal
   - nothing
@@ -119,18 +119,15 @@ ngrams:
 - - better
   - occupied
   - doing
-- - captain
-  - weems
-  - knew
-- - once
-  - blindfolded
-  - simon
 - - weems
   - once
   - blindfolded
-- - simon
+- - once
+  - blindfolded
+  - simon
+- - captain
   - weems
-  - once
+  - knew
 - - reserve
   - another
   - mop
@@ -140,6 +137,9 @@ ngrams:
 - - storage
   - jar
   - also
+- - simon
+  - weems
+  - once
 - - doing
   - something
   - germane
@@ -164,15 +164,18 @@ ngrams:
 - - weems
   - last
   - week
-- - snippy
-  - man
-  - depending
 - - ink
   - being
   - invisible
+- - snippy
+  - man
+  - depending
 - - blindfolded
   - see
   - above
+- - minute
+  - before
+  - embarking
 - - patter
   - see
   - above
@@ -185,9 +188,6 @@ ngrams:
 - - see
   - above
   - weems
-- - minute
-  - before
-  - embarking
 - - head
   - directly
   - below
@@ -197,15 +197,12 @@ ngrams:
 - - pulled
   - wool
   - over
-- - deployed
-  - those
-  - three
 - - wooden
   - pole
   - such
-- - her
-  - website
-  - goop
+- - deployed
+  - those
+  - three
 - - those
   - containers
   - having
@@ -215,27 +212,18 @@ ngrams:
 - - paltrow
   - then
   - subjected
-- - la
-  - paltrow
-  - then
 - - could
   - prove
   - critical
 - - lid
   - could
   - prove
-- - very
-  - last
-  - minute
+- - la
+  - paltrow
+  - then
 - - empty
   - weems
   - could
-- - its
-  - small
-  - storage
-- - last
-  - minute
-  - before
 - - rather
   - than
   - unscrewing
@@ -245,21 +233,36 @@ ngrams:
 - - mission
   - rather
   - than
+- - her
+  - website
+  - goop
+- - very
+  - last
+  - minute
+- - its
+  - small
+  - storage
+- - last
+  - minute
+  - before
+- - weems
+  - since
+  - then
 - - betrayed
   - him
   - hauled
 - - mishap
   - betrayed
   - him
-- - weems
-  - since
-  - then
 - - then
   - further
   - information
 - - anywhere
   - near
   - him
+- - brain
+  - rather
+  - than
 - - since
   - then
   - further
@@ -272,42 +275,39 @@ ngrams:
 - - assumed
   - backed
   - up
-- - brain
-  - rather
-  - than
-- - further
-  - information
-  - has
 - - 'no'
   - clear
   - guidance
+- - further
+  - information
+  - has
 - - above
   - who
   - seemed
 - - sometimes
   - did
   - just
-- - were
-  - lowly
-  - submariners
-- - information
-  - has
-  - come
 - - modified
   - lids
   - when
 - - were
-  - empty
-  - weems
+  - lowly
+  - submariners
 - - submarine
   - clambering
   - out
-- - storage
-  - jar
-  - into
+- - information
+  - has
+  - come
 - - lids
   - when
   - possible
+- - storage
+  - jar
+  - into
+- - were
+  - empty
+  - weems
 - - secret
   - agent
   - if
@@ -323,66 +323,66 @@ ngrams:
 - - see
   - above
   - who
-- - weems
-  - wrote
-  - all
 - - mop
   - weems
   - would
+- - weems
+  - wrote
+  - all
 - - hair
   - oil
   - there
-- - occasions
-  - where
-  - 'no'
-- - these
-  - feelings
-  - were
 - - raspberry
   - dye
   - so
+- - occasions
+  - where
+  - 'no'
 - - dye
   - so
   - pale
+- - these
+  - feelings
+  - were
+- - where
+  - 'no'
+  - clear
 - - viral
   - attack
   - which
 - - which
   - jars
   - contained
-- - where
-  - 'no'
-  - clear
+- - thus
+  - visible
+  - so
 - - hair
   - oil
   - which
 - - attack
   - which
   - seems
-- - tell
-  - which
-  - jars
 - - were
   - occasions
   - where
-- - oil
+- - tell
   - which
-  - look
-- - thus
-  - visible
-  - so
+  - jars
 - - canny
   - an
   - operator
 - - an
   - accomplished
   - piccolo
-- - those
-  - three
-  - were
+- - oil
+  - which
+  - look
 - - ghost
   - an
   - unconvincing
+- - could
+  - move
+  - about
 story:
   date: 2012-07-19
   id: 2012-07-19-on-weems

@@ -8,18 +8,18 @@ ngrams:
 - - susan
   - sontag
   - ipsy
-- - maternity
-  - ward
-  - mishap
 - - dipsy
   - doo
   - dah
-- - intellectual
-  - gadfly
-  - slobodan
 - - sontag
   - ipsy
   - dipsy
+- - intellectual
+  - gadfly
+  - slobodan
+- - maternity
+  - ward
+  - mishap
 - - ipsy
   - dipsy
   - doo
@@ -41,6 +41,9 @@ ngrams:
 - - enjoy
   - ping
   - pong
+- - wholly
+  - imaginary
+  - scoring
 - - ping
   - pong
   - imagined
@@ -62,30 +65,27 @@ ngrams:
 - - ping
   - pong
   - ball
-- - wholly
-  - imaginary
-  - scoring
 - - turnings
   - red
   - herrings
 - - imaginary
   - scoring
   - system
-- - indoor
-  - sport
-  - played
 - - starts
   - wrong
   - turnings
+- - indoor
+  - sport
+  - played
 - - actual
   - scoring
   - system
-- - 'false'
-  - starts
-  - wrong
 - - insurmountable
   - difficulties
   - due
+- - 'false'
+  - starts
+  - wrong
 - - ping
   - pong
   - bat
@@ -95,36 +95,36 @@ ngrams:
 - - ping
   - pong
   - bat
-- - tour
-  - de
-  - force
 - - susan
   - sontag
   - writing
-- - fire
-  - brigade
-  - arrived
+- - tour
+  - de
+  - force
 - - wrong
   - turnings
   - red
-- - entire
-  - chapter
-  - devoted
+- - fire
+  - brigade
+  - arrived
 - - different
   - maternity
   - ward
 - - example
   - gadfly
   - recounts
+- - entire
+  - chapter
+  - devoted
 - - slightly
   - different
   - maternity
-- - mental
-  - groping
-  - towards
 - - agreement
   - thus
   - proving
+- - mental
+  - groping
+  - towards
 - - scoring
   - system
   - used
@@ -140,27 +140,27 @@ ngrams:
 - - also
   - enjoy
   - ping
-- - pong
-  - ball
-  - around
 - - alternative
   - universe
   - without
 - - without
   - ping
   - pong
-- - exists
-  - why
-  - pretend
 - - universe
   - without
   - ping
-- - game
-  - exists
+- - exists
   - why
+  - pretend
+- - pong
+  - ball
+  - around
 - - book
   - beardy
   - intellectual
+- - game
+  - exists
+  - why
 - - highly
   - unusual
   - book
@@ -170,18 +170,18 @@ ngrams:
 - - wholly
   - new
   - type
-- - first
-  - ping
-  - pong
 - - cat's
   - book
   - does
-- - almost
-  - every
-  - particular
+- - first
+  - ping
+  - pong
 - - medicine
   - ball
   - head
+- - almost
+  - every
+  - particular
 - - pong
   - ball
   - head
@@ -194,21 +194,24 @@ ngrams:
 - - page
   - after
   - page
-- - picture
-  - how
-  - different
 - - almost
   - spherical
   - head
-- - its
-  - tragic
-  - undertone
+- - picture
+  - how
+  - different
 - - new
   - book
   - beardy
+- - its
+  - tragic
+  - undertone
 - - fascinating
   - new
   - book
+- - us
+  - new
+  - insights
 - - hooting
   - yard
   - rating
@@ -218,99 +221,96 @@ ngrams:
 - - challenged
   - every
   - man
-- - us
-  - new
-  - insights
-- - every
-  - man
-  - jack
-- - may
-  - also
-  - enjoy
 - - fire
   - brigade
   - could
+- - may
+  - also
+  - enjoy
+- - every
+  - man
+  - jack
 - - how
   - different
   - things
 - - such
   - people
   - trying
-- - give
-  - us
-  - new
-- - these
-  - questions
-  - made
 - - cat
   - could
   - write
-- - balls
-  - gadfly
-  - has
+- - give
+  - us
+  - new
 - - more
   - importantly
   - tell
 - - sensible
   - book
   - than
+- - these
+  - questions
+  - made
 - - thump
   - them
   - smartly
+- - balls
+  - gadfly
+  - has
+- - much
+  - bigger
+  - than
 - - groping
   - towards
   - some
 - - necessity
   - 'no'
   - ping
-- - much
-  - bigger
-  - than
 - - 'no'
   - ping
   - pong
-- - has
-  - done
-  - meat
 - - more
   - sensible
   - book
 - - far
   - more
   - difficult
-- - towards
-  - some
-  - sort
+- - has
+  - done
+  - meat
 - - am
   - often
   - asked
-- - life
-  - has
-  - presented
+- - towards
+  - some
+  - sort
 - - world
   - very
   - much
+- - life
+  - has
+  - presented
 - - insights
   - into
   - feline
-- - brigade
-  - could
-  - only
 - - into
   - existence
   - laughably
+- - brigade
+  - could
+  - only
 - - could
   - only
   - nod
 - - jeanette
   - winterson
   - will
-- - bring
-  - into
-  - existence
 - - winterson
   - will
   - self
+- - bring
+  - into
+  - existence
 - - never
   - has
   - existed
@@ -320,21 +320,24 @@ ngrams:
 - - always
   - carry
   - about
-- - like
-  - our
-  - own
-- - into
-  - feline
-  - life
 - - ping
   - pong
   - there
+- - into
+  - feline
+  - life
+- - like
+  - our
+  - own
 - - mental
   - agony
   - there
 - - they
   - already
   - exist
+- - often
+  - asked
+  - if
 - - very
   - much
   - like
@@ -344,15 +347,18 @@ ngrams:
 - - all
   - good
   - bookshops
-- - much
-  - like
-  - our
-- - often
-  - asked
-  - if
 - - piffling
   - enough
   - there
+- - much
+  - like
+  - our
+- - asked
+  - if
+  - life
+- - book
+  - quite
+  - what
 - - sontag
   - are
   - missing
@@ -362,54 +368,48 @@ ngrams:
 - - which
   - ping
   - pong
-- - asked
-  - if
-  - life
 - - scoring
   - system
   - which
-- - book
-  - quite
-  - what
-- - system
-  - which
-  - turns
 - - about
   - such
   - niceties
 - - universe
   - must
   - we
+- - system
+  - which
+  - turns
 - - we
   - accept
   - mr
-- - still
-  - go
-  - about
 - - digress
   - even
   - if
-- - questions
-  - made
-  - me
-- - has
-  - 'no'
-  - concept
+- - still
+  - go
+  - about
 - - different
   - things
   - would
 - - cat's
   - book
   - so
-- - an
-  - entire
-  - chapter
-- - indoor
-  - one
-  - played
+- - questions
+  - made
+  - me
 - - would
   - go
   - further
+- - has
+  - 'no'
+  - concept
+- - indoor
+  - one
+  - played
+- - an
+  - entire
+  - chapter
 - - this
   - alternative
   - universe

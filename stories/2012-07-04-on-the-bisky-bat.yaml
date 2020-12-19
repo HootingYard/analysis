@@ -1,13 +1,13 @@
 ngrams:
-- - asian
-  - 'false'
-  - vampire
-- - wooly
-  - 'false'
-  - vampire
 - - effective
   - disinfectant
   - preparation
+- - wooly
+  - 'false'
+  - vampire
+- - asian
+  - 'false'
+  - vampire
 - - breathing
   - exercises
   - gibberish
@@ -23,68 +23,65 @@ ngrams:
 - - underwood's
   - mastiff
   - bat
-- - buffy
-  - flower
-  - bat
 - - lesser
   - horseshoe
+  - bat
+- - buffy
+  - flower
   - bat
 - - western
   - mastiff
   - bat
-- - asian
-  - painted
-  - bat
 - - coastal
   - tomb
   - bat
-- - navigation
-  - system
-  - bats
 - - greater
   - bulldog
-  - bat
-- - 'false'
-  - vampire
-  - bat
-- - 'false'
-  - vampire
-  - bat
-- - 'false'
-  - vampire
   - bat
 - - greater
   - horseshoe
   - bat
+- - asian
+  - painted
+  - bat
+- - 'false'
+  - vampire
+  - bat
+- - 'false'
+  - vampire
+  - bat
+- - 'false'
+  - vampire
+  - bat
+- - navigation
+  - system
+  - bats
 - - system
   - bats
   - rely
-- - shortly
-  - beforehand
-  - named
 - - giant
   - indian
   - fruit
+- - shortly
+  - beforehand
+  - named
+- - golden
+  - horseshoe
+  - bat
 - - southern
   - yellow
   - bat
 - - various
   - smoky
   - bats
-- - robust
-  - yellow
-  - bat
-- - golden
-  - horseshoe
-  - bat
-- - northern
-  - yellow
-  - bat
 - - particularly
   - effective
   - disinfectant
-- - desert
-  - red
+- - robust
+  - yellow
+  - bat
+- - northern
+  - yellow
   - bat
 - - mexican
   - fruit
@@ -95,6 +92,9 @@ ngrams:
 - - egyptian
   - fruit
   - bat
+- - desert
+  - red
+  - bat
 - - honduran
   - white
   - bat
@@ -104,12 +104,12 @@ ngrams:
 - - rarely
   - need
   - prompting
-- - big
-  - brown
-  - bat
 - - party
   - piece
   - lasts
+- - big
+  - brown
+  - bat
 - - edward
   - lear
   - himself
@@ -119,24 +119,18 @@ ngrams:
 - - bat
   - research
   - however
-- - world
-  - o'
-  - bats
-- - tiny
-  - yellow
-  - bat
 - - fruit
   - bat
   - nor
+- - tiny
+  - yellow
+  - bat
 - - former
   - though
   - bat
-- - little
-  - brown
-  - bat
-- - hairy
-  - little
-  - fruit
+- - world
+  - o'
+  - bats
 - - does
   - indeed
   - exist
@@ -144,11 +138,17 @@ ngrams:
   - much
   - resemblance
 - - little
-  - fruit
+  - brown
   - bat
+- - hairy
+  - little
+  - fruit
 - - make
   - profitable
   - use
+- - little
+  - fruit
+  - bat
 - - very
   - odd
   - edward
@@ -209,111 +209,114 @@ ngrams:
 - - common
   - adjective
   - all
-- - prompting
-  - now
-  - some
-- - existence
-  - believe
-  - me
 - - am
   - now
   - working
 - - standard
   - dictionaries
   - there
-- - now
-  - some
-  - bats
+- - existence
+  - believe
+  - me
 - - way
   - 'no'
   - doubt
-- - 'no'
-  - matter
-  - how
 - - guide
   - would
   - control
-- - some
-  - bats
-  - then
-- - need
-  - do
+- - prompting
   - now
+  - some
+- - now
+  - some
+  - bats
+- - 'no'
+  - matter
+  - how
 - - persons
   - would
   - subject
+- - need
+  - do
+  - now
+- - some
+  - bats
+  - then
+- - understand
+  - what
+  - might
 - - before
   - sinking
   - into
 - - party
   - pieces
   - which
-- - understand
-  - what
-  - might
 - - an
   - entire
   - genus
+- - victorian
+  - naturalist
+  - one
 - - means
   - an
   - exhaustive
 - - an
   - exhaustive
   - list
-- - victorian
-  - naturalist
-  - one
-- - has
-  - been
-  - neglected
-- - spirit
-  - guide
-  - this
 - - guide
   - this
   - guide
+- - spirit
+  - guide
+  - this
+- - yellow
+  - bat
+  - this
+- - has
+  - been
+  - neglected
 - - all
   - other
   - standard
 - - which
   - never
   - fails
-- - yellow
-  - bat
-  - this
 - - pieces
   - which
   - never
+- - or
+  - shortly
+  - beforehand
 - - who
   - knows
   - if
+- - or
+  - whether
+  - lear
 - - yet
   - they
   - did
+- - bat
+  - or
+  - whether
 - - had
   - also
   - spotted
 - - or
-  - shortly
-  - beforehand
+  - since
+  - seems
+- - lear
+  - himself
+  - or
 - - arm
   - suspended
   - from
-- - or
-  - whether
-  - lear
 - - would
   - never
   - know
-- - bat
-  - or
-  - whether
 - - standard
   - dictionaries
   - have
-- - or
-  - since
-  - seems
 - - hardly
   - have
   - invented
@@ -323,30 +326,33 @@ ngrams:
 - - have
   - somehow
   - overlooked
-- - lear
-  - himself
-  - or
 - - be
   - edward
   - lear
+- - batty
+  - biscuit
+  - not
 - - text
   - so
   - who
 - - so
   - who
   - knows
-- - batty
-  - biscuit
-  - not
 - - work
   - out
   - what
-- - bat
-  - now
-  - this
 - - always
   - have
   - trouble
+- - bat
+  - now
+  - this
+- - or
+  - perhaps
+  - another
+- - himself
+  - or
+  - perhaps
 - - identified
   - by
   - lear
@@ -356,36 +362,30 @@ ngrams:
 - - identified
   - by
   - edward
-- - from
-  - these
-  - trances
-- - from
-  - these
-  - trances
-- - trance
-  - by
-  - means
-- - emerge
-  - from
-  - these
-- - emerge
-  - from
-  - these
-- - not
-  - hear
-  - mentioned
-- - or
-  - perhaps
-  - another
-- - himself
-  - or
-  - perhaps
-- - not
-  - need
-  - prompting
 - - nobody
   - before
   - or
+- - not
+  - hear
+  - mentioned
+- - not
+  - need
+  - prompting
+- - trance
+  - by
+  - means
+- - from
+  - these
+  - trances
+- - from
+  - these
+  - trances
+- - before
+  - or
+  - since
+- - emerge
+  - from
+  - these
 story:
   date: 2012-07-04
   id: 2012-07-04-on-the-bisky-bat

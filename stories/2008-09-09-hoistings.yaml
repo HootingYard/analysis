@@ -14,12 +14,12 @@ ngrams:
 - - makers
   - farmyard
   - freaks
-- - funeral
-  - parlour
-  - idly
 - - peasants
   - shifty
   - knaves
+- - funeral
+  - parlour
+  - idly
 - - squirrel
   - stranglers
   - shove
@@ -50,54 +50,51 @@ ngrams:
 - - particularly
   - dobson's
   - hoisting
-- - mother's
-  - death
-  - blodgett
 - - almost
   - daily
   - basis
 - - mother's
   - horrible
   - home
-- - same
-  - mistakes
-  - fell
 - - concerns
   - himself
   - solely
+- - same
+  - mistakes
+  - fell
+- - mother's
+  - death
+  - blodgett
 - - something
   - else's
   - petard
 - - sea
   - captain
   - maroons
-- - inexplicable
-  - mystery
-  - why
 - - decisive
   - sea
   - captain
+- - inexplicable
+  - mystery
+  - why
 - - daily
   - basis
   - things
 - - laughed
   - hid
   - away
-- - two
-  - o'
-  - clock
 - - horrible
   - home
   - town
 - - old
   - family
   - firm
+- - two
+  - o'
+  - clock
 - - young
   - blodgett
   - once
-- - hapless
-  - blodgett
-  - made
 - - see
   - anything
   - odd
@@ -107,6 +104,9 @@ ngrams:
 - - once
   - again
   - hanging
+- - hapless
+  - blodgett
+  - made
 - - blodgett
   - once
   - again
@@ -116,48 +116,45 @@ ngrams:
 - - several
   - years
   - blodgett
-- - did
-  - blodgett
-  - manage
-- - attend
-  - her
-  - funeral
 - - year
   - particularly
   - after
-- - himself
-  - just
-  - continued
+- - did
+  - blodgett
+  - manage
 - - more
   - precise
   - gaps
+- - himself
+  - just
+  - continued
+- - attend
+  - her
+  - funeral
+- - next
+  - several
+  - years
 - - blodgett
   - himself
   - just
 - - death
   - blodgett
   - did
-- - next
-  - several
-  - years
+- - mean
+  - more
+  - particularly
 - - him
   - sobbed
   - laughed
 - - after
   - being
   - hoist
-- - mean
-  - more
-  - particularly
-- - implements
-  - sent
-  - him
 - - more
   - particularly
   - dobson's
-- - how
-  - did
-  - blodgett
+- - implements
+  - sent
+  - him
 - - being
   - hoist
   - upon
@@ -167,33 +164,36 @@ ngrams:
 - - can
   - yet
   - fill
-- - person
-  - who
-  - seemed
+- - how
+  - did
+  - blodgett
 - - traps
   - blundered
   - into
-- - marry
-  - him
-  - 'off'
-- - mistakes
-  - fell
-  - into
+- - person
+  - who
+  - seemed
 - - lot
   - recently
   - about
 - - anything
   - odd
   - about
+- - mistakes
+  - fell
+  - into
+- - marry
+  - him
+  - 'off'
+- - scrape
+  - so
+  - similar
 - - only
   - person
   - who
 - - say
   - about
   - blodgett
-- - scrape
-  - so
-  - similar
 - - own
   - scribblings
   - they
@@ -206,6 +206,9 @@ ngrams:
 - - ways
   - if
   - only
+- - each
+  - scrape
+  - so
 - - an
   - undertaker's
   - mute
@@ -215,48 +218,45 @@ ngrams:
 - - petard
   - an
   - incident
-- - each
-  - scrape
-  - so
+- - first
+  - hoisting
+  - we
 - - an
   - illuminating
   - essay
+- - other
+  - ways
+  - if
 - - remains
   - an
   - inexplicable
-- - september
-  - afternoon
-  - an
 - - an
   - impressionable
   - age
 - - an
   - inexplicable
   - mystery
-- - first
-  - hoisting
-  - we
+- - september
+  - afternoon
+  - an
 - - afternoon
   - an
   - afternoon
-- - other
-  - ways
-  - if
 - - abandoning
   - this
   - puny
 - - considered
   - abandoning
   - this
-- - this
-  - puny
-  - attempt
-- - only
-  - evidence
-  - we
 - - so
   - many
   - scrapes
+- - only
+  - evidence
+  - we
+- - this
+  - puny
+  - attempt
 - - mean
   - this
   - afternoon
@@ -275,27 +275,27 @@ ngrams:
 - - scribblings
   - they
   - can
-- - an
-  - old
-  - family
-- - her
-  - funeral
-  - which
-- - own
-  - this
-  - says
 - - 'no'
   - more
   - than
+- - own
+  - this
+  - says
 - - an
-  - hour
-  - before
+  - old
+  - family
 - - am
   - so
   - cowed
+- - an
+  - hour
+  - before
 - - this
   - says
   - much
+- - or
+  - something
+  - else's
 story:
   date: 2008-09-09
   id: 2008-09-09-hoistings

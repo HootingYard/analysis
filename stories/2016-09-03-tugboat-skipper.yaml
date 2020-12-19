@@ -8,78 +8,72 @@ ngrams:
 - - chlorine
   - winslow
   - mossop
+- - tugboat
+  - captains
+  - extravagantly
 - - tentacles
   - thrashing
   - violently
 - - infants
   - rubbing
   - shoulders
-- - tugboat
-  - captains
-  - extravagantly
-- - heroic
-  - infants
-  - rubbing
 - - pony
   - predations
   - digest
-- - eldritch
-  - viscous
-  - goo
-- - dockside
-  - taverns
-  - jesuit
-- - taverns
-  - jesuit
-  - priests
+- - heroic
+  - infants
+  - rubbing
 - - skipper's
   - mental
   - weakness
+- - dockside
+  - taverns
+  - jesuit
+- - eldritch
+  - viscous
+  - goo
 - - community
   - learning
   - hubs
 - - grunting
   - ogres
   - drinking
-- - jesuit
+- - taverns
+  - jesuit
   - priests
-  - lurking
 - - tugboat
   - skipper's
   - mental
-- - gigantic
-  - son
-  - disappeared
-- - squid
-  - named
-  - neville
+- - jesuit
+  - priests
+  - lurking
 - - legendary
   - atoll
   - jesuit
-- - horrible
-  - gurgling
-  - noise
 - - memory
   - catholic
   - theology
-- - named
-  - neville
-  - mossop
-- - iron
-  - chains
-  - tugging
-- - mrs
-  - chlorine
-  - winslow
-- - daily
-  - pony
-  - predations
+- - gigantic
+  - son
+  - disappeared
 - - remote
   - atoll
   - exhausted
-- - gods
-  - haunting
-  - abandoned
+- - squid
+  - named
+  - neville
+- - horrible
+  - gurgling
+  - noise
+- - daily
+  - pony
+  - predations
+- - iron
+  - chains
+  - tugging
+- - named
+  - neville
+  - mossop
 - - landing
   - party
   - capture
@@ -89,57 +83,69 @@ ngrams:
 - - piers
   - bat
   - gods
-- - haunting
+- - gods
+  - haunting
   - abandoned
-  - potato
 - - bat
   - gods
   - haunting
-- - enormous
-  - squid
-  - named
 - - huge
   - grunting
   - ogres
-- - son
-  - mrs
+- - mrs
   - chlorine
-- - hideous
-  - lovecraftian
-  - manner
+  - winslow
 - - stations
   - huge
   - grunting
+- - hideous
+  - lovecraftian
+  - manner
+- - enormous
+  - squid
+  - named
 - - skipper
   - managed
   - somehow
 - - already
   - frayed
   - tether
-- - potato
-  - research
-  - stations
 - - crew
   - crackers
   - eventually
+- - haunting
+  - abandoned
+  - potato
+- - son
+  - mrs
+  - chlorine
 - - abandoned
   - seaside
   - piers
-- - research
-  - stations
-  - huge
 - - seaside
   - piers
   - bat
-- - abandoned
-  - potato
+- - potato
   - research
-- - unfortunate
-  - episodes
-  - big
+  - stations
+- - research
+  - stations
+  - huge
 - - single
   - awful
   - gulp
+- - unfortunate
+  - episodes
+  - big
+- - several
+  - unfortunate
+  - episodes
+- - abandoned
+  - potato
+  - research
+- - merciless
+  - sea
+  - amen
 - - tug
   - big
   - majestic
@@ -155,27 +161,21 @@ ngrams:
 - - big
   - majestic
   - ships
-- - merciless
-  - sea
-  - amen
-- - several
-  - unfortunate
-  - episodes
 - - fantastic
   - idea
   - cried
 - - ceased
   - keening
   - without
+- - atoll
+  - jesuit
+  - came
 - - science
   - officer
   - took
 - - cannot
   - tug
   - big
-- - atoll
-  - jesuit
-  - came
 - - frayed
   - tether
   - well
@@ -185,21 +185,21 @@ ngrams:
 - - kept
   - himself
   - alive
-- - twee
-  - little
-  - pony
-- - guillemots
-  - these
-  - incidents
-- - deranged
-  - guillemots
-  - these
 - - without
   - further
   - ado
 - - keening
   - without
   - further
+- - guillemots
+  - these
+  - incidents
+- - twee
+  - little
+  - pony
+- - deranged
+  - guillemots
+  - these
 - - spaceman
   - described
   - hooting
@@ -209,12 +209,12 @@ ngrams:
 - - many
   - tugboat
   - captains
-- - majestic
-  - ships
-  - being
 - - tether
   - well
   - captain
+- - majestic
+  - ships
+  - being
 - - well
   - captain
   - replied
@@ -233,78 +233,78 @@ ngrams:
 - - seen
   - many
   - tugboat
-- - made
-  - neville
-  - look
 - - scuppering
   - upon
   - sandbanks
-- - tentacles
-  - she
-  - emitted
-- - her
-  - tentacles
-  - thrashing
 - - prey
   - upon
   - ponies
-- - find
-  - something
-  - else
-- - chains
-  - tugging
-  - her
-- - tugboat
-  - her
-  - tentacles
-- - tugging
-  - her
-  - son
+- - made
+  - neville
+  - look
 - - upon
   - ponies
   - that's
+- - find
+  - something
+  - else
+- - longer
+  - prey
+  - upon
 - - tugging
   - something
   - just
 - - its
   - awful
   - hideous
-- - described
-  - hooting
-  - yard
 - - shore
   - then
   - attach
-- - longer
-  - prey
-  - upon
+- - tentacles
+  - she
+  - emitted
 - - her
-  - son
-  - mrs
-- - myself
-  - how
-  - right
+  - tentacles
+  - thrashing
 - - blavatsky
   - lost
   - its
-- - neville
-  - look
-  - like
+- - myself
+  - how
+  - right
+- - chains
+  - tugging
+  - her
+- - tugboat
+  - her
+  - tentacles
+- - described
+  - hooting
+  - yard
+- - tugging
+  - her
+  - son
 - - lost
   - its
   - purpose
 - - tugboat
   - skipper
   - some
+- - neville
+  - look
+  - like
+- - her
+  - son
+  - mrs
 - - last
   - second
   - just
-- - hooting
-  - yard
-  - thus
 - - very
   - last
   - second
+- - hooting
+  - yard
+  - thus
 - - him
   - aside
   - bundled

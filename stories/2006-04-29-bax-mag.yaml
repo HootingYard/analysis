@@ -1,10 +1,4 @@
 ngrams:
-- - arnold
-  - bax
-  - '-'
-- - bax
-  - '-'
-  - issue
 - - peter
   - maxwell
   - davies
@@ -14,21 +8,27 @@ ngrams:
 - - composer
   - sir
   - arnold
-- - special
-  - mezzotint
-  - reproduction
-- - monthly
-  - magazine
-  - market
 - - rex
   - tint
   - plus
+- - monthly
+  - magazine
+  - market
+- - special
+  - mezzotint
+  - reproduction
 - - scamp
   - sir
   - peter
 - - sir
   - peter
   - maxwell
+- - arnold
+  - bax
+  - '-'
+- - bax
+  - '-'
+  - issue
 - - title
   - devoted
   - entirely

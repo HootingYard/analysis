@@ -17,9 +17,6 @@ ngrams:
 - - person's
   - coffee
   - table
-- - house
-  - waving
-  - pitchforks
 - - dog
   - analysis
   - kit
@@ -29,6 +26,9 @@ ngrams:
 - - dog
   - biscuit
   - drooling
+- - house
+  - waving
+  - pitchforks
 - - dog
   - advice
   - person's
@@ -86,24 +86,24 @@ ngrams:
 - - began
   - its
   - unearthly
-- - bored
-  - him
-  - senseless
 - - am
   - neither
   - amused
+- - dog
+  - began
+  - its
+- - bored
+  - him
+  - senseless
+- - said
+  - packing
+  - away
 - - crackers
   - bored
   - him
 - - man
   - leafed
   - through
-- - dog
-  - began
-  - its
-- - said
-  - packing
-  - away
 - - dog
   - bored
   - him
@@ -119,21 +119,21 @@ ngrams:
 - - articles
   - about
   - international
-- - even
-  - its
-  - unearthly
 - - senseless
   - even
   - its
+- - even
+  - its
+  - unearthly
 - - drooled
   - when
   - chewing
-- - up
-  - until
-  - sunrise
 - - can
   - say
   - beyond
+- - up
+  - until
+  - sunrise
 - - kept
   - up
   - until
@@ -158,12 +158,12 @@ ngrams:
 - - man
   - became
   - so
-- - advice
-  - person
-  - had
 - - wake
   - up
   - when
+- - kit
+  - while
+  - this
 story:
   date: 2009-04-09
   id: 2009-04-09-the-boring-dog

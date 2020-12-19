@@ -5,36 +5,36 @@ ngrams:
 - - lecturing
   - poster
   - campaigns
-- - stakeholder
-  - consultancy
-  - initiative
 - - origami
   - stakeholder
   - consultancy
-- - joe's
-  - madcap
-  - schemes
+- - stakeholder
+  - consultancy
+  - initiative
 - - fantastically
   - intricate
   - oriental
+- - joe's
+  - madcap
+  - schemes
 - - sharply
   - divide
   - opinion
-- - adverts
-  - mass
-  - mailings
 - - outlaws
   - amateur
   - origami
-- - uncle
-  - joe's
-  - madcap
-- - intricate
-  - oriental
-  - fashion
+- - adverts
+  - mass
+  - mailings
 - - minister
   - outlaws
   - amateur
+- - intricate
+  - oriental
+  - fashion
+- - uncle
+  - joe's
+  - madcap
 - - holland
   - park
   - cobbling
@@ -53,39 +53,39 @@ ngrams:
 - - leaves
   - either
   - intricately
-- - eat
-  - five
-  - portions
 - - state
   - adding
   - buttons
 - - origami
   - whichever
   - side
+- - eat
+  - five
+  - portions
 - - vicar's
   - dog
   - collar
+- - separate
+  - leaves
+  - either
 - - intricate
   - oriental
   - paper
 - - origami
   - become
   - compulsory
-- - separate
-  - leaves
-  - either
 - - different
   - jargon
   - plans
 - - park
   - cobbling
   - together
-- - setting
-  - aside
-  - half
 - - oriental
   - paper
   - squirrels
+- - setting
+  - aside
+  - half
 - - encouraging
   - origami
   - among
@@ -95,27 +95,27 @@ ngrams:
 - - dystopian
   - vision
   - perhaps
-- - authors
-  - take
-  - sides
-- - authors
-  - take
-  - sides
-- - rip
-  - each
-  - page
-- - immediately
-  - rip
-  - each
 - - moot
   - point
   - whether
-- - entitled
-  - authors
+- - authors
   - take
+  - sides
+- - authors
+  - take
+  - sides
+- - immediately
+  - rip
+  - each
+- - rip
+  - each
+  - page
 - - book
   - entitled
   - authors
+- - entitled
+  - authors
+  - take
 - - new
   - national
   - origami
@@ -140,6 +140,9 @@ ngrams:
 - - divide
   - opinion
   - just
+- - bod
+  - might
+  - decide
 - - little
   - less
   - megalomaniac
@@ -152,66 +155,63 @@ ngrams:
 - - already
   - cajoled
   - through
-- - bod
-  - might
-  - decide
 - - us
   - under
   - arrest
-- - hour
-  - per
-  - day
 - - any
   - purpose
   - whatsoever
+- - hour
+  - per
+  - day
 - - set
   - aside
   - say
 - - even
   - less
   - resemblance
-- - forgotten
-  - she
-  - topped
 - - routine
   - then
   - inevitably
-- - list
-  - she
-  - recited
 - - smack
   - too
   - much
-- - place
-  - us
-  - under
-- - vegetables
-  - each
-  - day
-- - some
-  - intricate
-  - oriental
-- - other
-  - hand
-  - origami
+- - forgotten
+  - she
+  - topped
 - - leaflet
   - itself
   - could
-- - government
-  - can
-  - lead
+- - place
+  - us
+  - under
 - - new
   - bod
   - might
+- - vegetables
+  - each
+  - day
+- - list
+  - she
+  - recited
+- - other
+  - hand
+  - origami
+- - some
+  - intricate
+  - oriental
+- - government
+  - can
+  - lead
 - - day
   - while
   - setting
-- - vision
-  - perhaps
-  - she
 - - vegetable
   - police
   - who
+- - vision
+  - perhaps
+  - she
 - - 'no'
   - resemblance
   - whatsoever
@@ -221,9 +221,6 @@ ngrams:
 - - bear
   - 'no'
   - resemblance
-- - big
-  - questions
-  - who
 - - using
   - up
   - sheet
@@ -236,27 +233,30 @@ ngrams:
 - - citizenry
   - faffed
   - about
-- - your
-  - five
-  - fruits
 - - leaflet
   - about
   - origami
+- - big
+  - questions
+  - who
 - - about
   - origami
   - plop
-- - eat
-  - your
-  - five
-- - slotted
-  - happily
-  - into
-- - faffed
-  - about
-  - using
 - - origami
   - ostrich
   - if
+- - slotted
+  - happily
+  - into
+- - your
+  - five
+  - fruits
+- - faffed
+  - about
+  - using
+- - eat
+  - your
+  - five
 - - butterfingers
   - into
   - paper
@@ -269,12 +269,12 @@ ngrams:
 - - under
   - arrest
   - if
-- - government's
-  - role
-  - we
 - - megalomaniac
   - would
   - origami
+- - government's
+  - role
+  - we
 - - shores
   - would
   - smack
@@ -284,63 +284,63 @@ ngrams:
 - - exclamation
   - mark
   - there
-- - been
-  - persuaded
-  - through
-- - questions
-  - who
-  - said
+- - would
+  - immediately
+  - rip
 - - up
   - sheet
   - after
+- - less
+  - megalomaniac
+  - would
+- - too
+  - literally
+  - if
+- - we
+  - eat
+  - five
+- - questions
+  - who
+  - said
+- - been
+  - persuaded
+  - through
+- - become
+  - compulsory
+  - would
+- - each
+  - page
+  - out
+- - comply
+  - so
+  - maybe
+- - would
+  - origami
+  - become
 - - through
   - your
   - letterbox
 - - plop
   - through
   - your
-- - would
-  - immediately
-  - rip
-- - we
-  - eat
-  - five
-- - each
-  - page
-  - out
-- - less
-  - megalomaniac
-  - would
-- - do
-  - some
-  - intricate
-- - too
-  - literally
-  - if
-- - comply
-  - so
-  - maybe
-- - become
-  - compulsory
-  - would
-- - would
-  - origami
-  - become
 - - fashion
   - thus
   - there
-- - their
-  - first
-  - morning
-- - eyes
-  - whether
-  - they
+- - do
+  - some
+  - intricate
 - - sure
   - we
   - eat
-- - are
-  - already
-  - cajoled
+- - their
+  - first
+  - morning
+- - thus
+  - there
+  - ought
+- - eyes
+  - whether
+  - they
 story:
   date: 2012-01-23
   id: 2012-01-23-on-government-controlled-origami

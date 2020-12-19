@@ -20,48 +20,48 @@ ngrams:
 - - implacable
   - malevolent
   - sand
+- - remaining
+  - vanbrugh
+  - chicken
+- - plodding
+  - creaking
+  - steps
 - - operational
   - sand
   - robot
 - - prototype
   - sand
   - robot
-- - plodding
-  - creaking
-  - steps
 - - running
   - pell
   - mell
 - - malevolent
   - sand
   - robot
-- - remaining
-  - vanbrugh
-  - chicken
 - - screaming
   - terrified
   - holidaymakers
 - - awesome
   - destructive
   - power
-- - sand
-  - robot
-  - bearing
-- - sand
-  - robot
-  - pursued
 - - fully
   - operational
   - sand
-- - excitement
-  - running
-  - pell
+- - sand
+  - robot
+  - pursued
 - - sand
   - robot
   - lethal
+- - sand
+  - robot
+  - bearing
 - - humanoid
   - shape
   - nine
+- - excitement
+  - running
+  - pell
 - - strange
   - sandy
   - synapses
@@ -71,9 +71,6 @@ ngrams:
 - - strange
   - sandy
   - artificial
-- - huge
-  - implacable
-  - malevolent
 - - wet
   - becomes
   - impacted
@@ -83,63 +80,66 @@ ngrams:
 - - wet
   - impacted
   - sand
+- - huge
+  - implacable
+  - malevolent
 - - sand
   - robot
   - entire
-- - nine
-  - feet
-  - tall
+- - vanbrugh
+  - chicken
+  - eggs
 - - seaside
   - resort
   - ingenuity
-- - railway
-  - station
-  - intending
 - - seaside
   - resort
   - hawker
 - - unparalleled
   - seaside
   - resort
-- - shape
-  - nine
-  - feet
-- - vanbrugh
-  - chicken
-  - eggs
 - - selling
   - eggs
   - laid
+- - railway
+  - station
+  - intending
+- - nine
+  - feet
+  - tall
+- - inserted
+  - various
+  - bits
+- - seaside
+  - resort
+  - bench
+- - shape
+  - nine
+  - feet
+- - jaws
+  - dropped
+  - open
 - - sun
   - dipped
   - below
 - - insalubrious
   - guest
   - house
-- - jaws
-  - dropped
-  - open
-- - inserted
-  - various
-  - bits
 - - holidaymakers
   - whose
   - jaws
-- - seaside
-  - resort
-  - bench
 - - whose
   - jaws
   - dropped
 - - holidaymakers
   - later
   - attested
-- - control
-  - panel
-  - small
 - - later
   - attested
   - ignatz
+- - control
+  - panel
+  - small
 - - destructive
   - power
   - within
@@ -155,6 +155,9 @@ ngrams:
 - - sandy
   - artificial
   - brain
+- - holidaymakers
+  - having
+  - fled
 - - scientific
   - brain
   - instantly
@@ -164,9 +167,6 @@ ngrams:
 - - power
   - within
   - seconds
-- - holidaymakers
-  - having
-  - fled
 - - artificial
   - brain
   - snapped
@@ -176,39 +176,39 @@ ngrams:
 - - keen
   - scientific
   - brain
-- - sand
-  - robot
-  - took
 - - cold
   - pitiless
   - sea
-- - robot
-  - entire
-  - days
 - - mop
   - factory
   - nor
 - - wrong
   - train
   - thus
+- - sand
+  - robot
+  - took
+- - robot
+  - entire
+  - days
 - - artificial
   - yet
   - malevolent
-- - panel
-  - small
-  - enough
 - - entire
   - days
   - passed
+- - panel
+  - small
+  - enough
 - - while
   - wet
   - solid
-- - us
-  - remind
-  - ourselves
 - - approaching
   - too
   - close
+- - us
+  - remind
+  - ourselves
 - - look
   - round
   - towards
@@ -245,30 +245,30 @@ ngrams:
 - - stuff
   - falling
   - through
-- - only
-  - vaguely
-  - resemble
 - - yet
   - malevolent
   - life
-- - robot
-  - bearing
-  - down
+- - only
+  - vaguely
+  - resemble
 - - shoreline
   - slowly
   - over
+- - robot
+  - bearing
+  - down
 - - seen
   - how
   - ignatz
 - - those
   - holidaymakers
   - whose
-- - only
-  - sitting
-  - surrounded
 - - let
   - us
   - remind
+- - only
+  - sitting
+  - surrounded
 - - pursued
   - its
   - creator
@@ -290,18 +290,18 @@ ngrams:
 - - could
   - remain
   - solid
-- - place
-  - given
-  - two
-- - breakage
-  - then
-  - sat
-- - some
-  - flashing
-  - lights
 - - chicken
   - eggs
   - then
+- - breakage
+  - then
+  - sat
+- - place
+  - given
+  - two
+- - some
+  - flashing
+  - lights
 - - first
   - place
   - given
@@ -311,27 +311,27 @@ ngrams:
 - - relentless
   - followed
   - him
-- - resort
-  - who
-  - conceived
 - - never
   - noted
   - before
-- - seaside
-  - resort
+- - resort
   - who
+  - conceived
 - - dried
   - leaping
   - up
+- - seaside
+  - resort
+  - who
 - - picked
   - up
   - handfuls
-- - always
-  - terrified
-  - him
 - - mountains
   - 'no'
   - snow
+- - always
+  - terrified
+  - him
 - - its
   - first
   - steps
@@ -341,15 +341,12 @@ ngrams:
 - - stirring
   - into
   - artificial
-- - adhesive
-  - agent
-  - were
 - - snapped
   - into
   - artificial
-- - agent
+- - adhesive
+  - agent
   - were
-  - added
 - - remain
   - solid
   - when
@@ -362,6 +359,9 @@ ngrams:
 - - feet
   - tall
   - when
+- - agent
+  - were
+  - added
 - - took
   - its
   - first
@@ -371,33 +371,33 @@ ngrams:
 - - into
   - glass
   - however
+- - scientific
+  - initiatives
+  - there
 - - brain
   - snapped
   - into
 - - into
   - artificial
   - life
-- - scientific
-  - initiatives
-  - there
-- - now
-  - engulfed
-  - him
-- - into
-  - something
-  - solid
-- - into
-  - artificial
-  - yet
 - - happy
   - accidents
   - we
-- - never
-  - gave
-  - up
+- - into
+  - artificial
+  - yet
+- - into
+  - something
+  - solid
 - - would
   - build
   - fell
+- - never
+  - gave
+  - up
+- - now
+  - engulfed
+  - him
 - - turned
   - into
   - something
@@ -410,24 +410,24 @@ ngrams:
 - - were
   - many
   - 'false'
-- - wet
-  - sand
-  - which
 - - factory
   - nor
   - would
+- - wet
+  - sand
+  - which
 - - so
   - having
   - booked
+- - its
+  - creator
+  - into
 - - creating
   - an
   - automaton
 - - an
   - insalubrious
   - guest
-- - its
-  - creator
-  - into
 - - an
   - adhesive
   - agent

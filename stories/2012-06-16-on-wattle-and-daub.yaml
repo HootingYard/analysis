@@ -10,9 +10,6 @@ ngrams:
   - similarly
 - - gritty
   - northern
-  - sleuth
-- - gritty
-  - northern
   - gardener
 - - daub
   - whoever
@@ -20,27 +17,30 @@ ngrams:
 - - alcoholic
   - widow
   - estranged
+- - gritty
+  - northern
+  - sleuth
 - - drama
   - premiere
   - sob
 - - female
   - amateur
   - sleuths
+- - prehistoric
+  - british
+  - druid
+- - prehistoric
+  - british
+  - mosque
 - - crime
   - drama
   - wattle
 - - prehistoric
   - british
-  - mosque
-- - prehistoric
-  - british
-  - druid
+  - gardening
 - - involving
   - wattle
   - falling
-- - prehistoric
-  - british
-  - gardening
 - - solve
   - prehistoric
   - british
@@ -62,33 +62,36 @@ ngrams:
 - - class
   - wear
   - stout
-- - faintly
-  - ridiculous
-  - figure
 - - stout
   - walking
   - shoes
 - - wear
   - stout
   - walking
-- - northern
-  - sleuth
-  - goes
 - - police
   - hierarchy
   - guffaw
+- - faintly
+  - ridiculous
+  - figure
 - - impeccably
   - middle
   - class
-- - scene
-  - involving
-  - wattle
+- - northern
+  - sleuth
+  - goes
 - - thick
   - swirling
   - mist
+- - scene
+  - involving
+  - wattle
 - - sympathetic
   - gay
   - couple
+- - weather
+  - conditions
+  - occasionally
 - - television
   - crime
   - drama
@@ -98,9 +101,6 @@ ngrams:
 - - seems
   - unarguably
   - authentic
-- - weather
-  - conditions
-  - occasionally
 - - lengthy
   - scene
   - involving
@@ -110,15 +110,15 @@ ngrams:
 - - detective
   - heads
   - screwed
+- - particularly
+  - thick
+  - swirling
 - - likeable
   - grunty
   - men
 - - roaming
   - grunty
   - men
-- - particularly
-  - thick
-  - swirling
 - - sun
   - hats
   - seem
@@ -128,12 +128,12 @@ ngrams:
 - - blind
   - pig
   - escapes
-- - grunty
-  - men
-  - seems
 - - tongue
   - both
   - dotty
+- - grunty
+  - men
+  - seems
 - - should
   - trixie
   - daub
@@ -146,123 +146,126 @@ ngrams:
 - - watch
   - both
   - shows
-- - grunty
-  - men
-  - going
-- - go
-  - blackberry
-  - picking
-- - hats
-  - seem
-  - rather
-- - also
-  - looking
-  - forward
-- - together
-  - both
-  - sunk
 - - asian
   - characters
   - though
 - - characters
   - though
   - admittedly
-- - cases
-  - together
+- - hats
+  - seem
+  - rather
+- - together
   - both
+  - sunk
+- - go
+  - blackberry
+  - picking
+- - grunty
+  - men
+  - going
+- - also
+  - looking
+  - forward
 - - tacks
   - though
   - neither
+- - cases
+  - together
+  - both
+- - several
+  - people
+  - pointed
 - - new
   - detective
   - drama
 - - scrape
   - bark
   - 'off'
-- - several
-  - people
-  - pointed
 - - new
   - television
   - crime
 - - spotted
   - many
   - actors
+- - both
+  - dotty
+  - yet
 - - conditions
   - occasionally
   - made
+- - both
+  - shows
+  - again
 - - daub
   - themselves
   - being
 - - themselves
   - being
   - ladies
-- - daub
-  - last
-  - night
 - - sleuth
   - goes
   - back
-- - both
-  - dotty
-  - yet
-- - both
-  - shows
-  - again
+- - daub
+  - last
+  - night
 - - blackberry
   - picking
   - only
+- - such
+  - verbal
+  - constructions
 - - television
   - last
   - night
 - - daub
   - armed
   - only
-- - such
-  - verbal
-  - constructions
+- - stumble
+  - upon
+  - clues
 - - other
   - perceived
   - anachronisms
 - - other
   - drama
   - premiere
-- - stumble
-  - upon
-  - clues
 - - yesterday's
   - other
   - drama
-- - her
-  - teenage
-  - son
 - - used
   - such
   - verbal
 - - more
   - likeable
   - grunty
-- - last
-  - night
-  - though
 - - rather
   - than
   - speeding
 - - malefactors
   - rather
   - than
+- - her
+  - teenage
+  - son
+- - last
+  - night
+  - though
 - - than
   - speeding
   - around
-- - being
-  - dragged
-  - 'off'
 - - capitalism
   - even
   - though
+- - being
+  - dragged
+  - 'off'
 - - never
   - quite
   - work
+- - more
+  - careful
+  - look
 - - het
   - internet
   - has
@@ -272,24 +275,18 @@ ngrams:
 - - chief
   - druid
   - who
-- - more
-  - careful
-  - look
 - - druid
   - who
   - looks
 - - their
   - insatiable
   - curiosity
-- - up
-  - north
-  - sob
-- - how
-  - her
-  - rescue
 - - am
   - also
   - looking
+- - up
+  - north
+  - sob
 - - park
   - their
   - car
@@ -302,39 +299,42 @@ ngrams:
 - - simply
   - park
   - their
+- - how
+  - her
+  - rescue
 - - handled
   - similarly
   - when
+- - gritty
+  - town
+  - up
 - - detective
   - drama
   - about
 - - wattle
   - falling
   - into
-- - gritty
-  - town
-  - up
 - - bustle
   - shouting
   - into
 - - bustle
   - shouting
   - into
-- - work
-  - their
-  - insatiable
-- - than
-  - her
-  - gun
 - - town
   - up
   - north
-- - detective
-  - work
+- - work
   - their
+  - insatiable
 - - into
   - hair
   - salons
+- - detective
+  - work
+  - their
+- - than
+  - her
+  - gun
 - - shouting
   - into
   - hair

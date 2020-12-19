@@ -14,24 +14,24 @@ ngrams:
 - - hon
   - correspondence
   - secretary
-- - pictorial
-  - collector's
-  - cards
 - - hon
   - picnics
   - secretary
-- - extensive
-  - lecture
-  - tour
+- - pictorial
+  - collector's
+  - cards
 - - soldier
   - stands
   - guard
-- - phantom
-  - limbs
-  - additional
+- - extensive
+  - lecture
+  - tour
 - - spidery
   - charabanc
   - driver
+- - phantom
+  - limbs
+  - additional
 - - evil
   - spidery
   - charabanc
@@ -65,18 +65,18 @@ ngrams:
 - - fan
   - club
   - hired
-- - return
-  - vangie
-  - harper
+- - character
+  - jojo
+  - holcomb
 - - fan
   - club
   - conducted
 - - character
-  - jojo
-  - holcomb
-- - character
   - bobby
   - jo
+- - return
+  - vangie
+  - harper
 - - weld
   - fan
   - club
@@ -95,27 +95,30 @@ ngrams:
 - - weld
   - fan
   - club
-- - secretary
-  - mrs
-  - blears
 - - civic
   - gritting
   - persons
 - - dr
   - gillespie's
   - powders
-- - correspondence
-  - secretary
-  - mrs
-- - picnics
-  - secretary
-  - mrs
 - - wooden
   - frame
   - coated
 - - sentry
   - box
   - beside
+- - secretary
+  - mrs
+  - blears
+- - correspondence
+  - secretary
+  - mrs
+- - rain
+  - falls
+  - directly
+- - picnics
+  - secretary
+  - mrs
 - - remained
   - submerged
   - below
@@ -128,21 +131,24 @@ ngrams:
 - - plain
   - wooden
   - frame
-- - rain
-  - falls
-  - directly
 - - club
   - conducted
   - themselves
-- - tuesday
-  - weld
-  - appeared
 - - feature
   - film
   - soldier
+- - tuesday
+  - weld
+  - appeared
 - - circa
   - during
   - production
+- - feature
+  - film
+  - i'll
+- - weld
+  - taken
+  - circa
 - - whose
   - badge
   - declares
@@ -152,33 +158,27 @@ ngrams:
 - - soup
   - piping
   - hot
-- - weld
-  - taken
-  - circa
-- - feature
-  - film
-  - i'll
 - - fathomless
   - mysteries
   - known
 - - tuesday
   - weld
   - taken
-- - mrs
-  - blears
-  - call
-- - inadvertent
-  - part
-  - played
-- - town
-  - civic
-  - gritting
-- - trustworthy
-  - brain
-  - powders
 - - pride
   - unto
   - pointy
+- - town
+  - civic
+  - gritting
+- - inadvertent
+  - part
+  - played
+- - mrs
+  - blears
+  - call
+- - trustworthy
+  - brain
+  - powders
 - - crow
   - flies
   - past
@@ -191,18 +191,6 @@ ngrams:
 - - shattered
   - bones
   - set
-- - none
-  - took
-  - cognizance
-- - clambered
-  - forth
-  - each
-- - i'll
-  - take
-  - sweden
-- - hide
-  - nor
-  - hair
 - - hon
   - treasurer
   - mr
@@ -212,138 +200,153 @@ ngrams:
 - - beadle
   - mr
   - flail
+- - none
+  - took
+  - cognizance
+- - clambered
+  - forth
+  - each
+- - i'll
+  - take
+  - sweden
 - - mr
   - flail
   - perished
-- - most
-  - erudite
-  - member
-- - common
-  - acclaim
-  - mr
+- - hide
+  - nor
+  - hair
 - - pointy
   - town
   - civic
-- - late
-  - beadle
+- - common
+  - acclaim
   - mr
-- - learned
-  - books
-  - among
-- - hummed
-  - tunes
-  - made
 - - unto
   - pointy
   - town
+- - late
+  - beadle
+  - mr
+- - most
+  - erudite
+  - member
 - - pointy
   - town
   - chapter
-- - film
-  - i'll
-  - take
-- - tunes
-  - made
-  - famous
-- - gained
-  - much
-  - expedition
+- - learned
+  - books
+  - among
 - - fleeing
   - gained
   - much
+- - gained
+  - much
+  - expedition
+- - film
+  - i'll
+  - take
+- - hummed
+  - tunes
+  - made
+- - tunes
+  - made
+  - famous
 - - charabanc
   - assisted
   - those
 - - efforts
   - might
   - allow
-- - grown
-  - such
-  - plants
-- - ever
-  - seen
-  - whole
-- - tomb
-  - now
-  - gleaming
 - - might
   - call
   - rally
+- - grown
+  - such
+  - plants
 - - brimstone
   - might
   - call
-- - its
-  - twisted
-  - wreckage
+- - ever
+  - seen
+  - whole
 - - many
   - learned
   - books
-- - weld
-  - her
-  - contemporaries
-- - said
-  - feature
-  - film
-- - madhouse
-  - wherein
-  - she
+- - its
+  - twisted
+  - wreckage
 - - falls
   - directly
   - upon
-- - tuesday
-  - weld
-  - her
-- - exhausted
-  - her
-  - supply
+- - said
+  - feature
+  - film
+- - tomb
+  - now
+  - gleaming
 - - considerable
   - time
   - elapsed
+- - madhouse
+  - wherein
+  - she
+- - weld
+  - her
+  - contemporaries
+- - mr
+  - brimstone
+  - might
 - - ever
   - seen
   - again
+- - tuesday
+  - weld
+  - her
 - - within
   - its
   - twisted
+- - exhausted
+  - her
+  - supply
+- - remained
+  - within
+  - its
+- - provided
+  - some
+  - shelter
+- - threw
+  - himself
+  - upon
 - - within
   - her
   - handbag
 - - canister
   - within
   - her
-- - remained
-  - within
-  - its
-- - her
-  - garden
-  - behind
-- - provided
-  - some
-  - shelter
-- - mr
-  - brimstone
-  - might
-- - threw
-  - himself
-  - upon
 - - charabanc
   - excited
   - them
-- - some
-  - four
-  - miles
-- - remains
-  - unknown
-  - who
+- - her
+  - garden
+  - behind
 - - 'no'
   - pecuniary
   - advantage
-- - ditch
-  - some
-  - four
 - - gain
   - 'no'
   - pecuniary
+- - remains
+  - unknown
+  - who
+- - some
+  - four
+  - miles
+- - said
+  - driver
+  - might
+- - ditch
+  - some
+  - four
 - - aside
   - their
   - differences
@@ -353,102 +356,102 @@ ngrams:
 - - putting
   - aside
   - their
-- - said
-  - driver
-  - might
-- - who
-  - remained
-  - within
 - - kept
   - their
   - spirits
-- - wounds
-  - were
-  - bandaged
+- - who
+  - remained
+  - within
 - - books
   - among
   - them
+- - wounds
+  - were
+  - bandaged
+- - time
+  - elapsed
+  - before
 - - brimstone
   - were
   - putting
 - - emotion
   - were
   - shed
-- - gigantic
-  - spider
+- - visible
+  - heels
   - were
 - - heels
   - were
   - accompanied
-- - visible
-  - heels
-  - were
-- - were
-  - putting
-  - aside
-- - time
-  - elapsed
-  - before
 - - fan
   - club
   - into
-- - jollies
+- - gigantic
+  - spider
   - were
-  - brought
-- - she
-  - did
-  - knit
-- - were
-  - brought
-  - cruelly
-- - wherein
-  - she
-  - did
-- - were
-  - nevertheless
-  - present
 - - way
   - yet
   - did
 - - were
+  - putting
+  - aside
+- - jollies
+  - were
+  - brought
+- - were
+  - brought
+  - cruelly
+- - were
+  - nevertheless
+  - present
+- - she
+  - did
+  - knit
+- - were
   - shaking
   - hands
-- - man
-  - who
-  - dwelt
+- - wherein
+  - she
+  - did
+- - though
+  - these
+  - could
+- - make
+  - their
+  - escape
 - - assisted
   - those
   - who
 - - splints
   - they
   - clambered
-- - grunty
-  - man
-  - who
-- - make
-  - their
-  - escape
 - - ordinary
   - daylight
   - they
+- - man
+  - who
+  - dwelt
 - - those
   - who
   - remained
-- - though
-  - these
-  - could
 - - they
   - clambered
   - forth
 - - all
   - dr
   - gillespie's
-- - among
-  - them
-  - being
+- - grunty
+  - man
+  - who
 - - when
   - dawn
   - came
+- - among
+  - them
+  - being
+- - their
+  - efforts
+  - might
 - - go
   - plunging
   - into
@@ -461,54 +464,51 @@ ngrams:
 - - lost
   - their
   - way
-- - their
-  - efforts
-  - might
-- - which
-  - tuesday
-  - weld
-- - which
-  - tuesday
-  - weld
 - - lived
   - if
   - ever
 - - 'no'
   - roof
   - upon
-- - their
-  - way
-  - yet
 - - another
   - would
   - respond
 - - feature
   - film
   - so
-- - wild
-  - wind
-  - which
+- - their
+  - way
+  - yet
+- - which
+  - tuesday
+  - weld
+- - which
+  - tuesday
+  - weld
 - - such
   - jollies
   - were
+- - wild
+  - wind
+  - which
 - - an
   - extensive
   - lecture
+- - accident
+  - would
+  - never
 - - an
   - alphabet
   - unknown
 - - an
   - enormous
   - block
-- - accident
-  - would
-  - never
 - - thereafter
   - wrote
   - an
-- - wrote
-  - an
-  - account
+- - such
+  - accident
+  - would
 - - this
   - spinning
   - earth

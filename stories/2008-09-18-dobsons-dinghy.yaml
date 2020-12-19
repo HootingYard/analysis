@@ -8,12 +8,12 @@ ngrams:
 - - untold
   - savagery
   - cursing
-- - desk
-  - nib
-  - gleaming
 - - crows
   - seldom
   - fails
+- - desk
+  - nib
+  - gleaming
 - - ruined
   - ship
   - chandler's
@@ -26,12 +26,12 @@ ngrams:
 - - writing
   - condition
   - hunched
-- - paper
-  - hindenburg
-  - airships
 - - different
   - nouns
   - whimsically
+- - paper
+  - hindenburg
+  - airships
 - - blank
   - rectangular
   - paper
@@ -50,12 +50,12 @@ ngrams:
 - - victorian
   - everyday
   - book
-- - dobson's
-  - dinghy
-  - every
 - - feel
   - impelled
   - yet
+- - dobson's
+  - dinghy
+  - every
 - - find
   - different
   - uses
@@ -71,18 +71,18 @@ ngrams:
 - - very
   - rare
   - occasions
-- - once
-  - again
-  - baffled
 - - condition
   - hunched
   - over
-- - after
-  - folding
-  - half
+- - once
+  - again
+  - baffled
 - - impelled
   - yet
   - again
+- - after
+  - folding
+  - half
 - - alarming
   - any
   - ducks
@@ -98,81 +98,60 @@ ngrams:
 - - found
   - myself
   - once
-- - myself
-  - once
-  - again
 - - across
   - alarming
   - any
+- - myself
+  - once
+  - again
 - - did
   - yesterday
   - morning
-- - dobson
-  - never
-  - launched
 - - briny
   - dobson
   - never
+- - dobson
+  - never
+  - launched
 - - put
   - dobson
   - himself
-- - has
-  - aborted
-  - works
 - - other
   - writers
   - find
+- - has
+  - aborted
+  - works
+- - dinghy
+  - every
+  - time
 - - their
   - discarded
   - scribblings
 - - skull
   - seized
   - up
-- - dinghy
-  - every
-  - time
 - - coots
   - who
   - got
-- - fancy
-  - took
-  - him
 - - everyday
   - book
   - some
 - - any
   - ducks
   - such
+- - fancy
+  - took
+  - him
 - - hopeless
   - novella
   - into
 - - manuscripts
   - into
   - toy
-- - crows
-  - were
-  - stalking
 - - into
   - toy
   - forms
-- - abandoned
-  - manuscripts
-  - into
-- - ever
-  - has
-  - aborted
-- - about
-  - dobson's
-  - dinghy
-- - about
-  - dobson's
-  - dinghy
-- - about
-  - dobson's
-  - dinghy
-- - about
-  - dobson's
-  - dinghy
 - - cleverly
   - crossed
   - out
@@ -182,27 +161,48 @@ ngrams:
 - - rare
   - occasions
   - when
+- - crows
+  - were
+  - stalking
+- - abandoned
+  - manuscripts
+  - into
+- - about
+  - dobson's
+  - dinghy
+- - about
+  - dobson's
+  - dinghy
+- - about
+  - dobson's
+  - dinghy
+- - about
+  - dobson's
+  - dinghy
+- - ever
+  - has
+  - aborted
 - - window
   - crows
   - were
-- - turned
-  - into
-  - scrap
 - - into
   - paper
   - aeroplanes
+- - turned
+  - into
+  - scrap
 - - prose
-  - about
-  - dobson's
-- - write
-  - about
-  - dobson's
-- - write
   - about
   - dobson's
 - - writing
   - about
   - sometimes
+- - write
+  - about
+  - dobson's
+- - write
+  - about
+  - dobson's
 - - were
   - stalking
   - across
@@ -221,15 +221,15 @@ ngrams:
 - - book
   - some
   - might
-- - seized
-  - up
-  - like
 - - years
   - when
   - trying
-- - made
-  - into
-  - paper
+- - seized
+  - up
+  - like
+- - some
+  - might
+  - say
 story:
   date: 2008-09-18
   id: 2008-09-18-dobsons-dinghy

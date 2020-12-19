@@ -14,108 +14,99 @@ ngrams:
 - - reads
   - infernal
   - gazebo
-- - filbert
-  - hedge
-  - planted
 - - grand
   - baronial
   - edifice
+- - filbert
+  - hedge
+  - planted
 - - built
   - baffles
   - chippy
 - - solving
   - today's
   - cryptic
-- - today's
-  - cryptic
-  - crossword
 - - beg
   - pardon
   - baron
-- - ned
-  - slop
-  - bowed
+- - today's
+  - cryptic
+  - crossword
+- - awful
+  - deafening
+  - roar
 - - baron
   - plunkett
   - scrawled
+- - ned
+  - slop
+  - bowed
 - - baron
   - plunkett
   - confronted
 - - baron
   - plunkett
   - ordered
-- - awful
-  - deafening
-  - roar
 - - ned
   - slop
   - waved
+- - factotum
+  - ned
+  - slop
+- - factotum
+  - ned
+  - slop
 - - plunkett
   - hall
   - gazebo
-- - plunkett
-  - hall
-  - '-'
-- - factotum
-  - ned
-  - slop
-- - factotum
-  - ned
-  - slop
-- - fathomless
-  - doom
-  - poor
 - - drainage
   - ditch
   - draining
-- - doom
+- - fathomless
+  - doom
   - poor
-  - ned
-- - factotum
-  - '-'
-  - whatever
-- - poor
-  - ned
-  - slop
 - - plunkett
   - hall
   - occurred
+- - poor
+  - ned
+  - slop
 - - library
   - baron
   - plunkett
+- - doom
+  - poor
+  - ned
 - - pit
   - baron
   - plunkett
-- - ancient
-  - factotum
-  - ned
-- - ancient
-  - factotum
-  - ned
 - - fallen
   - stick
   - waving
-- - yawning
-  - crater
-  - full
+- - ancient
+  - factotum
+  - ned
+- - ancient
+  - factotum
+  - ned
 - - ned
   - slop
   - fell
+- - yawning
+  - crater
+  - full
 - - events
   - historians
   - call
-- - right
-  - reads
-  - infernal
-- - baron
-  - plunkett
-  - looked
 - - century
   - baron
   - plunkett
-- - cadaverous
-  - hand
-  - '-'
+- - baron
+  - plunkett
+  - looked
+- - right
+  - reads
+  - infernal
 - - heard
   - distant
   - rumbling
@@ -128,48 +119,57 @@ ngrams:
 - - possibly
   - wrong
   - wrong
+- - plunkett
+  - hall
+  - '-'
 - - unremarkable
   - gazebo
   - having
-- - alien
-  - brain
-  - pulsating
 - - tottered
   - slowly
   - across
 - - infernal
   - gazebo
   - indeed
+- - alien
+  - brain
+  - pulsating
+- - factotum
+  - '-'
+  - whatever
 - - don't
   - bear
   - thinking
-- - plunkett
-  - hall
-  - took
 - - slop
   - came
   - panting
-- - black
-  - black
-  - globules
+- - ditch
+  - quite
+  - unharmed
 - - brain
   - pulsating
   - inside
 - - ned
   - slop
   - came
-- - ditch
+- - drainage
+  - ditch
   - quite
-  - unharmed
+- - plunkett
+  - hall
+  - took
 - - minutes
   - later
   - dressed
 - - great
   - baronial
   - hall
-- - drainage
-  - ditch
-  - quite
+- - black
+  - black
+  - globules
+- - cadaverous
+  - hand
+  - '-'
 - - attention
   - birds
   - ponds
@@ -185,21 +185,18 @@ ngrams:
 - - few
   - weeks
   - ago
-- - baffles
-  - chippy
-  - only
 - - haunted
   - forever
   - after
-- - veered
-  - 'off'
-  - towards
+- - baffles
+  - chippy
+  - only
 - - looked
   - pretty
   - much
-- - book
-  - '-'
-  - must
+- - veered
+  - 'off'
+  - towards
 - - baffles
   - chippy
   - did
@@ -215,135 +212,138 @@ ngrams:
 - - other
   - awful
   - phantoms
+- - book
+  - '-'
+  - must
 - - next
   - day
   - apprised
 - - draining
   - can
   - cope
-- - our
-  - last
-  - visit
 - - ditch
   - draining
   - can
+- - our
+  - last
+  - visit
 - - intact
   - rose
   - up
 - - their
   - midst
   - stood
-- - been
-  - haunted
-  - forever
 - - pretty
   - much
   - like
-- - your
-  - untold
-  - decades
+- - been
+  - haunted
+  - forever
 - - plunkett
   - looked
   - up
+- - your
+  - untold
+  - decades
 - - chippy
   - only
   - now
 - - infernal
   - gazebo
   - when
-- - burst
-  - into
-  - flames
 - - when
   - solving
   - today's
-- - feet
-  - were
-  - naked
-- - gazebo
-  - having
-  - been
-- - stick
-  - burst
+- - burst
   - into
+  - flames
 - - designed
   - rarely
   - if
-- - bear
-  - thinking
-  - about
-- - having
-  - been
-  - designed
 - - shaking
   - more
   - than
-- - when
-  - finished
-  - looked
-- - note
-  - when
-  - solving
+- - stick
+  - burst
+  - into
+- - feet
+  - were
+  - naked
+- - bear
+  - thinking
+  - about
+- - gazebo
+  - having
+  - been
 - - more
   - than
   - usual
-- - hedge
-  - planted
-  - all
+- - when
+  - finished
+  - looked
+- - having
+  - been
+  - designed
+- - note
+  - when
+  - solving
 - - quite
   - honest
   - what
 - - pester
   - me
   - slop
-- - they
-  - built
-  - baffles
-- - gazebo
-  - they
-  - built
-- - write
-  - today
-  - about
-- - baronial
-  - edifice
-  - we
-- - something
-  - remarkable
-  - about
-- - weeks
-  - later
-  - when
+- - hedge
+  - planted
+  - all
 - - worth
   - reading
   - if
+- - baronial
+  - edifice
+  - we
+- - they
+  - built
+  - baffles
+- - write
+  - today
+  - about
+- - gazebo
+  - they
+  - built
+- - weeks
+  - later
+  - when
+- - something
+  - remarkable
+  - about
+- - edifice
+  - we
+  - learned
 - - were
   - black
   - black
 - - eyes
   - were
   - black
-- - edifice
-  - we
-  - learned
-- - planted
-  - all
-  - around
-- - much
-  - like
-  - any
 - - if
   - ever
   - reflected
-- - so
-  - ned
-  - slop
-- - hall
-  - gazebo
-  - which
 - - rarely
   - if
   - ever
+- - so
+  - ned
+  - slop
+- - much
+  - like
+  - any
+- - planted
+  - all
+  - around
+- - hall
+  - gazebo
+  - which
 - - are
   - worth
   - reading
@@ -353,36 +353,39 @@ ngrams:
 - - like
   - any
   - other
-- - inner
-  - life
-  - which
-- - an
-  - awful
-  - deafening
-- - took
-  - place
-  - there
-- - monstrous
-  - one
-  - riddled
 - - intentions
   - they
   - might
+- - took
+  - place
+  - there
+- - an
+  - awful
+  - deafening
+- - monstrous
+  - one
+  - riddled
+- - inner
+  - life
+  - which
+- - we
+  - learned
+  - how
 - - sundry
   - one
   - afternoon
 - - this
   - chippy
   - insisted
-- - we
-  - learned
-  - how
 - - seldom
   - did
   - they
 - - remarkable
   - about
   - him
+- - them
+  - toppling
+  - into
 - - had
   - sprouted
   - horns
@@ -392,9 +395,6 @@ ngrams:
 - - an
   - inner
   - life
-- - peasant
-  - stock
-  - had
 story:
   date: 2012-10-16
   id: 2012-10-16-on-the-infernal-gazebo

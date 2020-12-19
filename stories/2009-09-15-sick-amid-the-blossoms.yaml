@@ -1,10 +1,10 @@
 ngrams:
-- - proprietary
-  - nerve
-  - tonics
 - - waterproof
   - pouches
   - strung
+- - proprietary
+  - nerve
+  - tonics
 - - mortal
   - dilemma
   - toughened
@@ -14,18 +14,15 @@ ngrams:
 - - detection
   - technology
   - calibrated
-- - hi
-  - ho
-  - hi
 - - negotiate
   - bramble
   - patches
+- - hi
+  - ho
+  - hi
 - - consulting
   - extensively
   - detailed
-- - ho
-  - hi
-  - ho
 - - extensively
   - detailed
   - maps
@@ -35,6 +32,9 @@ ngrams:
 - - dale
   - munching
   - toffee
+- - ho
+  - hi
+  - ho
 - - indefatigable
   - orphan
   - hikers
@@ -50,21 +50,21 @@ ngrams:
 - - added
   - harmonic
   - jouissance
-- - piping
-  - orphan
-  - voices
-- - piping
-  - orphan
-  - voices
+- - orphan
+  - hiking
+  - fad
 - - newspaper
   - cutting
   - claiming
 - - counterfeit
   - newspaper
   - cutting
-- - orphan
-  - hiking
-  - fad
+- - piping
+  - orphan
+  - voices
+- - piping
+  - orphan
+  - voices
 - - fad
   - continued
   - thereafter
@@ -80,69 +80,66 @@ ngrams:
 - - hiking
   - fad
   - continued
-- - others
-  - suffocated
-  - mama
 - - vault
   - dry
   - stone
-- - feverish
-  - figure
-  - sprawled
-- - figure
-  - sprawled
-  - amid
-- - avalanche
-  - thou
-  - art
+- - others
+  - suffocated
+  - mama
 - - passage
   - absolutely
   - pertinent
+- - avalanche
+  - thou
+  - art
 - - renewed
   - hope
   - medically
-- - hiking
-  - orphans
-  - children
+- - feverish
+  - figure
+  - sprawled
 - - savage
   - angry
   - swans
-- - seven
-  - dwarves
-  - information
+- - figure
+  - sprawled
+  - amid
+- - hiking
+  - orphans
+  - children
 - - art
   - sick
   - amid
 - - art
   - sick
   - amid
-- - orphan
-  - hikers
-  - following
-- - hi
-  - ho
-  - it's
-- - hikers
-  - following
-  - publication
 - - sound
   - detection
   - technology
 - - sound
   - detection
   - technology
-- - dry
-  - stone
-  - walls
 - - feverish
   - pamphleteer
   - amid
-- - places
-  - beyond
-  - imagining
+- - seven
+  - dwarves
+  - information
+- - hi
+  - ho
+  - it's
+- - orphan
+  - hikers
+  - following
+- - dry
+  - stone
+  - walls
 - - hope
   - medically
   - ignorant
+- - hikers
+  - following
+  - publication
 - - thou
   - art
   - sick
@@ -164,84 +161,87 @@ ngrams:
 - - thou
   - art
   - sick
+- - places
+  - beyond
+  - imagining
+- - fantastic
+  - sound
+  - detection
+- - fantastic
+  - sound
+  - detection
 - - forging
   - death
   - certificates
-- - fantastic
-  - sound
-  - detection
-- - fantastic
-  - sound
-  - detection
-- - abandoned
-  - unusually
-  - dobson's
 - - swiss
   - film
   - masterpiece
-- - grim
-  - black
-  - mountainous
-- - black
-  - mountainous
-  - horror
-- - hiking
-  - orphan
-  - knew
+- - abandoned
+  - unusually
+  - dobson's
 - - circulating
   - often
   - secreted
+- - hiking
+  - orphan
+  - knew
 - - oppressive
   - parents
   - god
 - - print
   - run
   - pulped
+- - grim
+  - black
+  - mountainous
+- - black
+  - mountainous
+  - horror
 - - important
   - seven
   - dwarves
+- - generic
+  - chant
+  - along
+- - forgotten
+  - today
+  - inspired
 - - death
   - certificates
   - others
 - - terrifying
   - grim
   - black
-- - forgotten
-  - today
-  - inspired
-- - became
-  - dab
-  - hands
 - - plaintive
   - recitation
   - let
-- - generic
-  - chant
-  - along
-- - unusually
-  - dobson's
-  - pamphlet
-- - dobson's
-  - illegal
-  - pamphlet
 - - swoon
   - nor
   - spasm
 - - fugitive
   - swoon
   - nor
+- - became
+  - dab
+  - hands
 - - fraudulent
   - orphan
   - having
-- - dobson's
-  - pamphlet
-  - included
 - - tots
   - taking
   - part
+- - unusually
+  - dobson's
+  - pamphlet
+- - dobson's
+  - illegal
+  - pamphlet
 - - parents
   - god
   - rest
+- - dobson's
+  - pamphlet
+  - included
 - - care
   - let
   - thy
@@ -260,21 +260,24 @@ ngrams:
 - - every
   - hiking
   - orphan
-- - due
-  - care
-  - let
-- - almost
-  - forgotten
-  - today
 - - blossoms
   - well
   - vincenzo
+- - almost
+  - forgotten
+  - today
+- - due
+  - care
+  - let
 - - most
   - extensively
   - detailed
 - - pamphleteer
   - himself
   - continues
+- - next
+  - line
+  - o
 - - big
   - wet
   - sea
@@ -287,138 +290,135 @@ ngrams:
 - - necks
   - these
   - maps
-- - interesting
-  - little
-  - chap
-- - next
-  - line
-  - o
-- - little
-  - band
-  - crossed
 - - having
   - driven
   - home
-- - dobson
-  - lies
-  - crumpled
+- - interesting
+  - little
+  - chap
+- - little
+  - band
+  - crossed
 - - sea
   - every
   - hiking
-- - dobson
-  - thou
-  - art
-- - dobson
-  - thou
-  - art
-- - ho
-  - it's
-  - 'off'
-- - cereal
-  - dobson
-  - became
 - - hikes
   - well
   - able
-- - blossoms
-  - o
-  - dobson
 - - wet
   - sea
   - every
+- - ho
+  - it's
+  - 'off'
+- - dobson
+  - lies
+  - crumpled
+- - blossoms
+  - o
+  - dobson
 - - hiked
   - note
   - see
-- - breakfast
-  - cereal
-  - dobson
-- - o
-  - dobson
-  - thou
-- - o
-  - dobson
-  - thou
-- - recitation
-  - made
-  - oh
 - - extensively
   - detailed
   - than
+- - o
+  - dobson
+  - thou
+- - o
+  - dobson
+  - thou
+- - dobson
+  - thou
+  - art
+- - dobson
+  - thou
+  - art
+- - recitation
+  - made
+  - oh
+- - lacking
+  - such
+  - kit
+- - breakfast
+  - cereal
+  - dobson
+- - cereal
+  - dobson
+  - became
 - - recitation
   - let
   - us
 - - went
   - marching
   - 'off'
-- - lacking
-  - such
-  - kit
 - - commands
   - our
   - attention
-- - few
-  - yards
-  - away
 - - reinforce
   - its
   - seriousness
+- - orphans
+  - stumbled
+  - upon
+- - few
+  - yards
+  - away
 - - orphans
   - reinforce
   - its
 - - our
   - often
   - repressed
-- - orphans
-  - stumbled
-  - upon
 - - other
   - hiking
   - orphans
-- - own
-  - little
-  - collection
-- - also
-  - commands
-  - our
 - - even
   - further
   - afield
-- - marvel
-  - more
-  - extensively
-- - more
-  - extensively
-  - detailed
 - - simply
   - tripped
   - upon
+- - marvel
+  - more
+  - extensively
+- - own
+  - little
+  - collection
+- - more
+  - extensively
+  - detailed
+- - also
+  - commands
+  - our
 - - more
   - indefatigable
   - orphan
 - - such
   - air
   - ambulances
-- - little
-  - recitation
-  - made
 - - rarer
   - still
   - those
 - - maps
   - ever
   - made
-- - our
-  - little
-  - band
-- - some
-  - became
-  - dab
+- - little
+  - recitation
+  - made
 - - hikers
   - who
   - pored
+- - some
+  - became
+  - dab
 - - orphan
   - hikers
   - who
+- - our
+  - little
+  - band
 - - orphans
   - who
   - stumbled

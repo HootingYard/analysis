@@ -74,30 +74,30 @@ ngrams:
 - - 'yes'
   - it's
   - sieve
-- - holes
-  - 'yes'
-  - it's
-- - called
-  - sporting
-  - events
 - - cable
   - strung
   - across
+- - holes
+  - 'yes'
+  - it's
 - - working
   - class
   - person
 - - working
   - class
   - person
+- - called
+  - sporting
+  - events
 - - life
   - ralph
   - miliband
 - - eric
   - hobsbawm
-  - get
+  - thought
 - - eric
   - hobsbawm
-  - thought
+  - get
 - - often
   - violent
   - free
@@ -107,42 +107,42 @@ ngrams:
 - - stephen
   - fry
   - again
-- - clamber
-  - each
-  - aboard
 - - weed
   - going
   - round
-- - hooter
-  - sounds
-  - again
 - - everybody
   - else
   - does
+- - hooter
+  - sounds
+  - again
+- - clamber
+  - each
+  - aboard
 - - own
   - particular
   - stench
 - - water
   - weed
   - going
-- - dawn
-  - inside
-  - each
-- - inside
-  - each
-  - barn
-- - see
-  - eric
-  - hobsbawm
 - - well
   - worth
   - shoving
-- - past
-  - few
-  - months
+- - inside
+  - each
+  - barn
+- - dawn
+  - inside
+  - each
+- - see
+  - eric
+  - hobsbawm
 - - ungainly
   - fashion
   - back
+- - past
+  - few
+  - months
 - - it's
   - well
   - worth
@@ -153,20 +153,20 @@ ngrams:
   - everybody
   - else
 - - vagabonds
-  - driven
-  - down
+  - might
+  - somehow
 - - riverbank
   - mud
   - after
-- - sporting
-  - events
-  - over
-- - vagabonds
-  - might
-  - somehow
 - - might
   - somehow
   - manage
+- - vagabonds
+  - driven
+  - down
+- - sporting
+  - events
+  - over
 - - fly
   - after
   - several
@@ -185,15 +185,9 @@ ngrams:
 - - particular
   - stench
   - then
-- - go
-  - down
-  - courageously
 - - d
   - rather
   - than
-- - vagabonds
-  - go
-  - down
 - - spaces
   - it's
   - time
@@ -203,6 +197,12 @@ ngrams:
 - - sieve
   - time
   - it's
+- - go
+  - down
+  - courageously
+- - vagabonds
+  - go
+  - down
 - - dash
   - now
   - because
@@ -218,9 +218,6 @@ ngrams:
 - - just
   - before
   - dawn
-- - regatta
-  - some
-  - people
 - - their
   - oars
   - entangled
@@ -230,126 +227,129 @@ ngrams:
 - - their
   - shattered
   - faces
+- - regatta
+  - some
+  - people
 - - getting
   - their
   - oars
 - - some
   - people
   - pay
-- - dignitas
-  - casting
-  - your
-- - your
-  - official
-  - regatta
-- - open
-  - their
-  - barns
 - - their
   - barns
   - outside
+- - glorious
+  - even
+  - than
+- - open
+  - their
+  - barns
+- - dignitas
+  - casting
+  - your
 - - their
   - form
   - ned
+- - regatta
+  - itself
+  - up
 - - throw
   - open
   - their
-- - regatta
-  - itself
+- - your
+  - official
+  - regatta
+- - example
+  - 'no'
+  - fixed
+- - time
+  - it's
+  - well
+- - vagabonds
+  - reading
+  - up
+- - faces
+  - light
   - up
 - - been
   - anywhere
   - near
-- - glorious
-  - even
-  - than
-- - example
-  - 'no'
-  - fixed
-- - faces
-  - light
-  - up
-- - vagabonds
-  - reading
-  - up
-- - casting
-  - your
-  - eye
 - - chaotically
   - bumping
   - into
-- - time
-  - it's
-  - well
 - - headphones
   - jammed
   - into
-- - shrill
-  - cries
-  - when
 - - cries
   - when
   - confronted
-- - interview
-  - some
-  - years
+- - shrill
+  - cries
+  - when
 - - surviving
   - vagabonds
   - if
-- - get
-  - their
-  - tickets
+- - casting
+  - your
+  - eye
 - - lord
   - knows
   - what
-- - out
-  - free
-  - tickets
+- - interview
+  - some
+  - years
 - - more
   - glorious
   - even
+- - get
+  - their
+  - tickets
+- - out
+  - free
+  - tickets
 - - lala
   - land
   - when
-- - they
-  - row
-  - chaotically
 - - regatta
   - brutes
   - they
+- - they
+  - row
+  - chaotically
 - - some
   - years
   - ago
-- - who
-  - never
-  - met
 - - rowing
   - boats
   - they
+- - who
+  - never
+  - met
 - - see
   - their
   - shattered
-- - house
-  - who
-  - never
-- - bumping
-  - into
-  - each
 - - hand
   - out
   - free
+- - bumping
+  - into
+  - each
+- - attend
+  - though
+  - if
+- - house
+  - who
+  - never
+- - few
+  - months
+  - when
 - - bouffant
   - never
   - been
 - - never
   - been
   - anywhere
-- - few
-  - months
-  - when
-- - attend
-  - though
-  - if
 - - sunrise
   - grows
   - so
@@ -362,15 +362,15 @@ ngrams:
 - - tender
   - so
   - utterly
+- - foul
+  - air
+  - there
+- - grows
+  - so
+  - near
 - - earphones
   - back
   - into
-- - farmers
-  - are
-  - paid
-- - should
-  - see
-  - their
 story:
   date: 2012-10-02
   id: 2012-10-02-on-the-vagabonds-regatta

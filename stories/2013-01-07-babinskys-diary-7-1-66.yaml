@@ -1,25 +1,25 @@
 ngrams:
+- - flammable
+  - jelly
+  - smear
 - - withered
   - paw
   - outstretched
 - - feeling
   - murderous
   - preened
-- - flammable
-  - jelly
-  - smear
 - - grubby
   - withered
   - paw
 - - flaming
   - sword
   - setting
-- - psychopathic
-  - serial
-  - killer
 - - gunny
   - sack
   - slung
+- - psychopathic
+  - serial
+  - killer
 - - majestic
   - sixth
   - symphony
@@ -32,18 +32,18 @@ ngrams:
 - - single
   - finnish
   - church
-- - relentless
-  - detective
-  - captain
 - - beggar
   - person
   - approached
-- - air
-  - ambulance
-  - won't
+- - relentless
+  - detective
+  - captain
 - - street
   - several
   - puppies
+- - air
+  - ambulance
+  - won't
 - - presence
   - yet
   - except
@@ -59,21 +59,21 @@ ngrams:
 - - run
   - 'off'
   - screaming
-- - old
-  - testament
-  - times
 - - recently
   - came
   - across
-- - any
-  - finnish
-  - churches
-- - any
-  - finnish
-  - churches
+- - old
+  - testament
+  - times
 - - pointy
   - town
   - town
+- - any
+  - finnish
+  - churches
+- - any
+  - finnish
+  - churches
 - - few
   - little
   - chops
@@ -95,15 +95,15 @@ ngrams:
 - - life
   - just
   - having
+- - slicer
+  - tossed
+  - them
 - - irritating
   - constable
   - who
 - - constable
   - who
   - demanded
-- - slicer
-  - tossed
-  - them
 - - currently
   - cooped
   - up
@@ -113,9 +113,6 @@ ngrams:
 - - woke
   - up
   - feeling
-- - smote
-  - him
-  - again
 - - easier
   - said
   - than
@@ -125,6 +122,9 @@ ngrams:
 - - before
   - going
   - back
+- - smote
+  - him
+  - again
 - - finnish
   - church
   - what
@@ -134,18 +134,18 @@ ngrams:
 - - puppies
   - were
   - frolicking
-- - gob
-  - broke
-  - into
 - - said
   - than
   - done
-- - came
-  - across
-  - some
+- - gob
+  - broke
+  - into
 - - 'no'
   - panglossian
   - far
+- - came
+  - across
+  - some
 - - church
   - what
   - kind
@@ -164,54 +164,54 @@ ngrams:
 - - birds
   - were
   - singing
-- - blue
-  - birds
-  - were
 - - penny
   - upon
   - him
+- - blue
+  - birds
+  - were
 - - go
   - into
   - hiding
 - - person
   - approached
   - me
-- - 'off'
-  - screaming
-  - into
 - - felt
   - so
   - chipper
+- - 'off'
+  - screaming
+  - into
+- - am
+  - 'no'
+  - panglossian
 - - were
   - any
   - finnish
 - - they
   - scampered
   - away
-- - am
-  - 'no'
-  - panglossian
-- - going
-  - back
-  - into
 - - back
   - into
   - town
+- - going
+  - back
+  - into
 - - one
   - particularly
   - inquisitive
-- - only
-  - been
-  - here
 - - told
   - me
   - where
+- - only
+  - been
+  - here
+- - tossed
+  - them
+  - into
 - - coppers
   - had
   - arrived
-- - had
-  - arrived
-  - headed
 story:
   date: 2013-01-07
   id: 2013-01-07-babinskys-diary-7-1-66

@@ -8,33 +8,30 @@ ngrams:
 - - squealing
   - hissing
   - whining
-- - ailing
-  - badgers
-  - stoats
-- - badgers
-  - stoats
-  - hedgehogs
 - - peculiar
   - justice
   - tempered
 - - shipwrecks
   - tugboat
   - accidents
-- - lighthouse
-  - keeper
-  - offers
-- - lighthouse
-  - equipment
-  - warehouse
-- - veterinary
-  - surgeon
-  - entered
-- - burst
-  - cartons
-  - '-'
+- - ailing
+  - badgers
+  - stoats
+- - badgers
+  - stoats
+  - hedgehogs
 - - declaim
   - instructive
   - passages
+- - lighthouse
+  - keeper
+  - offers
+- - veterinary
+  - surgeon
+  - entered
+- - lighthouse
+  - equipment
+  - warehouse
 - - lighthouse
   - administration
   - activities
@@ -47,72 +44,75 @@ ngrams:
 - - disasters
   - general
   - nautical
-- - continent
-  - buckets
-  - filled
 - - result
   - chaos
   - pure
+- - continent
+  - buckets
+  - filled
 - - general
   - nautical
   - mayhem
 - - hedgehogs
   - lampreys
   - pigs
-- - lampreys
-  - pigs
-  - cormorants
 - - filthy
   - harbour
   - south
-- - churning
-  - waters
-  - below
+- - lampreys
+  - pigs
+  - cormorants
 - - hundreds
   - nay
   - thousands
-- - lighthouse
-  - keeper
-  - using
+- - churning
+  - waters
+  - below
 - - simple
   - chaos
   - leading
-- - voice
-  - growing
-  - louder
 - - godforsaken
   - seaside
   - resort
+- - lighthouse
+  - keeper
+  - using
+- - voice
+  - growing
+  - louder
 - - answer
   - merely
   - clamping
-- - clifftop
-  - paths
-  - whose
-- - nine
-  - hundred
-  - pages
-- - gestured
-  - violently
-  - towards
 - - wholly
   - ignorant
   - ask
+- - clifftop
+  - paths
+  - whose
 - - evil
   - land
   - astride
+- - gestured
+  - violently
+  - towards
+- - nine
+  - hundred
+  - pages
+- - burst
+  - cartons
+  - '-'
 - - cowering
   - animals
   - tell
 - - farewell
   - within
   - seconds
-- - along
-  - clifftop
-  - paths
 - - administration
   - activities
   - key
+- - along
+  - clifftop
+  - paths
 - - almost
   - wholly
   - ignorant
@@ -122,27 +122,27 @@ ngrams:
 - - wastepaper
   - basket
   - does
-- - ordained
-  - clergyman
-  - indeed
 - - speed
   - along
   - clifftop
+- - ordained
+  - clergyman
+  - indeed
 - - alarming
   - speed
   - along
-- - godless
-  - world
-  - bereft
-- - each
-  - lighthouse
-  - keeper
 - - simply
   - common
   - sense
+- - godless
+  - world
+  - bereft
 - - every
   - continent
   - buckets
+- - each
+  - lighthouse
+  - keeper
 - - timetable
   - each
   - setting
@@ -158,123 +158,123 @@ ngrams:
 - - these
   - sickly
   - beasts
-- - dobson
-  - memorial
-  - lecture
 - - trusty
   - steed
   - through
-- - these
-  - foul
-  - beasts
 - - gone
   - galloping
   - away
+- - these
+  - foul
+  - beasts
 - - sickly
   - beasts
   - here
-- - man
-  - hardly
-  - knows
+- - dobson
+  - memorial
+  - lecture
 - - own
   - timetable
   - each
-- - rules
-  - laid
-  - down
 - - few
   - days
   - due
+- - rules
+  - laid
+  - down
+- - man
+  - hardly
+  - knows
 - - thumping
   - great
   - book
-- - over
-  - nine
-  - hundred
 - - barely
   - imaginable
   - such
-- - keeper
-  - feels
-  - like
-- - its
-  - lights
-  - flashing
-- - question
-  - many
-  - times
-- - just
-  - call
-  - round
+- - over
+  - nine
+  - hundred
 - - indeed
   - much
   - taller
-- - setting
-  - its
+- - just
+  - call
+  - round
+- - question
+  - many
+  - times
+- - its
   - lights
-- - felt
+  - flashing
+- - keeper
+  - feels
   - like
-  - dashing
 - - effect
   - upon
   - beasts
-- - then
-  - emitting
-  - whimpers
-- - should
-  - ever
-  - want
-- - book
-  - key
-  - indeed
-- - she
-  - wishes
-  - picture
 - - key
   - indeed
   - though
-- - harsh
-  - man
-  - while
-- - lighthouse
-  - keepers
-  - do
+- - setting
+  - its
+  - lights
+- - book
+  - key
+  - indeed
+- - then
+  - emitting
+  - whimpers
+- - felt
+  - like
+  - dashing
+- - should
+  - ever
+  - want
 - - more
   - thrilling
   - details
+- - lighthouse
+  - keepers
+  - do
+- - harsh
+  - man
+  - while
 - - must
   - make
   - sure
 - - even
   - set
   - foot
+- - she
+  - wishes
+  - picture
 - - keeper
   - offers
   - him
 - - some
   - godforsaken
   - seaside
-- - its
-  - own
-  - timetable
 - - bigger
   - than
   - most
-- - each
-  - setting
-  - its
-- - them
-  - hundreds
-  - nay
 - - its
-  - immensity
-  - still
+  - own
+  - timetable
 - - am
   - almost
   - wholly
+- - them
+  - hundreds
+  - nay
+- - each
+  - setting
+  - its
 - - much
   - stronger
   - than
+- - its
+  - immensity
+  - still
 - - wishes
   - picture
   - them
@@ -284,105 +284,105 @@ ngrams:
 - - their
   - regular
   - hampers
-- - beg
-  - your
-  - pardon
 - - 'no'
   - conceivable
   - reason
-- - stood
-  - up
-  - towering
 - - way
   - through
   - life
-- - badger
-  - among
-  - them
-- - than
-  - most
-  - people
 - - better
   - 'off'
   - than
+- - stood
+  - up
+  - towering
+- - than
+  - most
+  - people
+- - badger
+  - among
+  - them
+- - beg
+  - your
+  - pardon
 - - films
   - about
   - swinging
-- - where
-  - both
-  - man
-- - catechism
-  - tucked
-  - into
+- - never
+  - even
+  - set
 - - suffer
   - humiliation
   - when
 - - about
   - swinging
   - london
-- - never
-  - even
-  - set
-- - bring
-  - them
-  - things
-- - strike
-  - terror
+- - catechism
+  - tucked
   - into
 - - sleep
   - overnight
   - when
+- - where
+  - both
+  - man
+- - bring
+  - them
+  - things
 - - could
   - burn
   - down
-- - manual
-  - why
-  - 'no'
-- - hooting
-  - yard
-  - where
+- - strike
+  - terror
+  - into
 - - lord
   - knows
   - what
 - - s
   - films
   - about
+- - manual
+  - why
+  - 'no'
 - - priests
   - will
   - ride
 - - will
   - suffer
   - humiliation
+- - hooting
+  - yard
+  - where
 - - their
   - work
   - according
-- - your
-  - manual
-  - why
 - - smite
   - them
   - think
-- - tracked
-  - him
-  - down
 - - bidding
   - me
   - farewell
-- - been
-  - kind
-  - enough
-- - unconcerned
-  - they
-  - regard
-- - humiliation
-  - when
-  - called
 - - scares
   - me
   - fair
+- - humiliation
+  - when
+  - called
+- - your
+  - manual
+  - why
+- - unconcerned
+  - they
+  - regard
 - - talk
   - prompted
   - me
+- - been
+  - kind
+  - enough
+- - tracked
+  - him
+  - down
 - - every
   - word
   - 'no'
@@ -395,102 +395,102 @@ ngrams:
 - - 'no'
   - better
   - 'off'
-- - up
-  - towering
-  - over
-- - animals
-  - tell
-  - me
 - - vexing
   - oh
   - there
+- - animals
+  - tell
+  - me
+- - up
+  - towering
+  - over
 - - commands
   - are
   - onerous
-- - beasts
-  - which
-  - quiver
-- - foul
-  - beasts
-  - which
 - - again
   - about
   - life
+- - beasts
+  - which
+  - quiver
 - - once
   - again
   - about
+- - foul
+  - beasts
+  - which
 - - keepers
   - are
   - following
-- - are
-  - simply
-  - common
 - - them
   - things
   - such
+- - are
+  - simply
+  - common
+- - world
+  - we
+  - wish
 - - keepers
   - do
   - their
 - - what
   - other
   - kinds
-- - world
-  - we
-  - wish
 - - an
   - ordained
   - clergyman
-- - accept
-  - an
-  - invitation
 - - knows
   - what
   - other
-- - which
-  - each
-  - lighthouse
+- - accept
+  - an
+  - invitation
 - - towering
   - over
   - me
 - - stronger
   - than
   - me
-- - are
-  - onerous
-  - most
+- - which
+  - each
+  - lighthouse
 - - pursue
   - this
   - comment
 - - this
   - talk
   - prompted
-- - do
-  - their
-  - work
+- - are
+  - onerous
+  - most
 - - when
   - called
   - upon
+- - do
+  - their
+  - work
 - - this
   - evil
   - land
-- - has
-  - been
-  - kind
 - - give
   - this
   - talk
-- - mattress
-  - upon
-  - which
-- - well
-  - they
-  - might
+- - has
+  - been
+  - kind
 - - ponds
   - or
   - badgers
 - - broken
   - or
   - uprooted
+- - well
+  - they
+  - might
+- - deranged
+  - violence
+  - but
 story:
   date: 2012-02-03
   id: 2012-02-03-on-the-administration-of-lighthouses

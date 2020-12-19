@@ -38,30 +38,30 @@ ngrams:
 - - thrilling
   - science
   - fiction
+- - generally
+  - speaking
+  - dogs
 - - special
   - fantasy
   - science
 - - pins
   - special
   - fantasy
-- - generally
-  - speaking
-  - dogs
-- - science
-  - fiction
-  - pins
 - - fantasy
   - unlike
   - spot
+- - science
+  - fiction
+  - pins
 - - resounding
   - prose
   - exactly
-- - children's
-  - television
-  - series
 - - needed
   - neither
   - spot
+- - children's
+  - television
+  - series
 - - newcastle
   - written
   - entirely
@@ -71,12 +71,6 @@ ngrams:
 - - behind
   - john
   - lennon
-- - room
-  - floor
-  - anderson
-- - cutting
-  - room
-  - floor
 - - times
   - unlike
   - spot
@@ -86,9 +80,15 @@ ngrams:
 - - confused
   - between
   - yesterday
+- - room
+  - floor
+  - anderson
 - - fiction
   - adventure
   - set
+- - cutting
+  - room
+  - floor
 - - else
   - somewhere
   - else
@@ -98,51 +98,51 @@ ngrams:
 - - floor
   - anderson
   - himself
-- - show
-  - called
-  - spot
 - - neither
   - spot
   - nor
+- - show
+  - called
+  - spot
 - - never
   - coherently
   - defined
 - - television
   - series
   - though
-- - two
-  - confused
-  - between
-- - thin
-  - book
-  - indeed
 - - might
   - emulate
   - one's
+- - thin
+  - book
+  - indeed
+- - two
+  - confused
+  - between
 - - spotted
   - just
   - behind
-- - blasted
-  - heath
-  - like
-- - just
-  - behind
-  - john
-- - unimaginable
-  - other
-  - dimensions
-- - coherent
-  - than
-  - anything
 - - might
   - best
   - describe
-- - its
-  - special
-  - pleasures
+- - coherent
+  - than
+  - anything
+- - unimaginable
+  - other
+  - dimensions
+- - just
+  - behind
+  - john
+- - blasted
+  - heath
+  - like
 - - emulate
   - one's
   - other
+- - its
+  - special
+  - pleasures
 - - pin
   - down
   - having
@@ -152,36 +152,36 @@ ngrams:
 - - heath
   - imagine
   - then
-- - several
-  - other
-  - dimensions
 - - brainbox
   - claims
   - can
+- - several
+  - other
+  - dimensions
 - - some
   - weird
   - rip
 - - possibly
   - several
   - other
-- - him
-  - either
-  - coherence
-- - emulate
-  - him
-  - either
 - - just
   - very
   - thin
-- - creatures
-  - who
-  - occupy
-- - de
-  - botton
-  - has
 - - learned
   - many
   - many
+- - him
+  - either
+  - coherence
+- - creatures
+  - who
+  - occupy
+- - emulate
+  - him
+  - either
+- - de
+  - botton
+  - has
 - - other
   - dimensions
   - most
@@ -191,15 +191,15 @@ ngrams:
 - - unlike
   - spot
   - who
+- - could
+  - equally
+  - well
 - - cut
   - up
   - despairing
 - - bewildered
   - cut
   - up
-- - could
-  - equally
-  - well
 - - spot
   - mixed
   - up
@@ -218,27 +218,27 @@ ngrams:
 - - were
   - doubly
   - erroneous
+- - if
+  - equally
+  - unsuccessful
+- - prose
+  - exactly
+  - what
 - - lines
   - were
   - doubly
+- - what
+  - it's
+  - worth
+- - more
+  - coherent
+  - than
 - - opening
   - lines
   - were
 - - down
   - having
   - said
-- - prose
-  - exactly
-  - what
-- - what
-  - it's
-  - worth
-- - if
-  - equally
-  - unsuccessful
-- - more
-  - coherent
-  - than
 - - interest
   - if
   - equally
@@ -254,57 +254,57 @@ ngrams:
 - - things
   - more
   - than
-- - has
-  - its
-  - special
-- - coherently
-  - defined
-  - so
 - - spot
   - spot
   - we
+- - coherently
+  - defined
+  - so
 - - often
   - when
   - having
-- - are
-  - incontrovertibly
-  - visible
-- - dogs
-  - are
-  - incontrovertibly
+- - has
+  - its
+  - special
 - - other
   - things
   - more
-- - only
-  - your
-  - likely
-- - spot
-  - are
-  - essentially
-- - speaking
-  - dogs
-  - are
+- - are
+  - incontrovertibly
+  - visible
 - - we
   - shall
   - deal
-- - happens
-  - all
-  - too
+- - dogs
+  - are
+  - incontrovertibly
 - - too
   - often
   - when
+- - spot
+  - are
+  - essentially
 - - many
   - more
   - than
+- - speaking
+  - dogs
+  - are
+- - happens
+  - all
+  - too
+- - only
+  - your
+  - likely
 - - can
   - only
   - think
-- - are
-  - also
-  - unconfirmed
 - - bad
   - end
   - so
+- - are
+  - also
+  - unconfirmed
 - - all
   - too
   - often
@@ -320,15 +320,15 @@ ngrams:
 - - either
   - an
   - astounding
-- - an
-  - earthy
-  - dog
 - - say
   - deceptively
   - so
-- - will
-  - go
-  - through
+- - an
+  - earthy
+  - dog
+- - more
+  - interest
+  - if
 story:
   date: 2012-10-08
   id: 2012-10-08-on-thog

@@ -8,15 +8,15 @@ ngrams:
 - - hoary
   - indiana
   - northern
-- - 'false'
-  - vampire
-  - hoary
 - - greater
   - horseshoe
   - brandt
 - - tentatively
   - feeling
   - punctures
+- - 'false'
+  - vampire
+  - hoary
 - - pallid
   - western
   - mastiff
@@ -50,12 +50,12 @@ ngrams:
 - - egyptian
   - fruit
   - red
-- - brown
-  - evening
-  - yellow
 - - evening
   - yellow
   - spotted
+- - brown
+  - evening
+  - yellow
 - - lon
   - chaney
   - note
@@ -65,24 +65,24 @@ ngrams:
 - - example
   - playing
   - lawn
-- - big
-  - brown
-  - evening
 - - vampire
   - bat
   - remember
+- - big
+  - brown
+  - evening
 - - blood
   - uninterrupted
   - until
 - - make
   - reassuring
   - noises
-- - little
-  - brown
-  - pallid
 - - without
   - warning
   - however
+- - little
+  - brown
+  - pallid
 - - alarmed
   - many
   - folk
@@ -122,6 +122,12 @@ ngrams:
 - - your
   - vital
   - gore
+- - vital
+  - gore
+  - if
+- - stories
+  - about
+  - waking
 - - your
   - blood
   - uninterrupted
@@ -134,15 +140,9 @@ ngrams:
 - - suck
   - your
   - blood
-- - stories
-  - about
-  - waking
 - - foolish
   - stories
   - about
-- - vital
-  - gore
-  - if
 story:
   date: 2004-12-27
   id: 2004-12-27-bats

@@ -1,43 +1,43 @@
 ngrams:
-- - ps
-  - price
-  - tag
 - - culture
   - secretary
   - tessa
+- - ps
+  - price
+  - tag
 - - reduced
   - gruel
   - rations
-- - severely
-  - reduced
-  - gruel
 - - diminutive
   - culture
   - secretary
-- - octogenarian
-  - crone
-  - mrs
+- - severely
+  - reduced
+  - gruel
 - - hill
   - orphanage
   - insisted
-- - pang
-  - hill
-  - orphanage
-- - crone
-  - mrs
-  - gubbins
 - - money
   - anything
   - tessa
+- - octogenarian
+  - crone
+  - mrs
+- - pang
+  - hill
+  - orphanage
 - - flap
   - sorry
   - it's
-- - mrs
+- - crone
+  - mrs
   - gubbins
-  - looked
 - - shores
   - acting
   - both
+- - mrs
+  - gubbins
+  - looked
 - - great
   - literary
   - giant
@@ -68,18 +68,18 @@ ngrams:
 - - beyond
   - our
   - shores
-- - every
-  - last
-  - detail
 - - doubt
   - just
   - ask
-- - hooting
-  - yard
-  - brand
+- - every
+  - last
+  - detail
 - - cost
   - slightly
   - more
+- - hooting
+  - yard
+  - brand
 - - world
   - beyond
   - our
@@ -95,12 +95,12 @@ ngrams:
 - - gubbins
   - looked
   - up
-- - who
-  - still
-  - swears
 - - what
   - i'm
   - talking
+- - who
+  - still
+  - swears
 story:
   date: 2007-06-05
   id: 2007-06-05-that-olympics-logo

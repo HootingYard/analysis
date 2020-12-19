@@ -5,6 +5,9 @@ ngrams:
 - - dipsy
   - doo
   - prolix
+- - ipsy
+  - dipsy
+  - doo
 - - prolix
   - pirates
   - shiver
@@ -14,9 +17,6 @@ ngrams:
 - - self
   - timbers
   - planks
-- - ipsy
-  - dipsy
-  - doo
 - - selling
   - tobacco
   - confectionery
@@ -56,12 +56,12 @@ ngrams:
 - - usually
   - also
   - selling
-- - old
-  - english
-  - accusative
 - - itself
   - usually
   - also
+- - old
+  - english
+  - accusative
 - - pirates
   - every
   - week

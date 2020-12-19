@@ -2,9 +2,6 @@ ngrams:
 - - anomalous
   - passage
   - pp
-- - passage
-  - pp
-  - '-'
 - - espionage
   - romantic
   - science
@@ -32,12 +29,15 @@ ngrams:
 - - almost
   - identical
   - scenes
-- - four
-  - hundred
-  - pages
+- - passage
+  - pp
+  - '-'
 - - owl
   - thus
   - begins
+- - four
+  - hundred
+  - pages
 - - big
   - black
   - boot
@@ -74,6 +74,9 @@ ngrams:
 - - drank
   - too
   - many
+- - am
+  - hoping
+  - announced
 - - black
   - boot
   - upon
@@ -83,18 +86,15 @@ ngrams:
 - - published
   - its
   - four
-- - am
-  - hoping
-  - announced
 - - ever
   - published
   - after
-- - stalked
-  - 'off'
-  - down
 - - other
   - material
   - because
+- - stalked
+  - 'off'
+  - down
 - - ever
   - published
   - its
@@ -119,15 +119,15 @@ ngrams:
 - - might
   - have
   - expected
-- - we
-  - are
-  - told
 - - did
   - not
   - claim
 - - book
   - but
   - like
+- - we
+  - are
+  - told
 - - have
   - expected
   - him
@@ -143,27 +143,27 @@ ngrams:
 - - detective
   - blockbuster
   - with
-- - his
-  - chalet
-  - o'
-- - above
-  - his
-  - spats
+- - set
+  - upon
+  - by
 - - macaroni
   - 'on'
   - horseback
 - - preening
   - fop
   - 'on'
+- - his
+  - chalet
+  - o'
+- - above
+  - his
+  - spats
 - - stamped
   - his
   - big
-- - set
-  - upon
-  - by
-- - his
-  - big
-  - black
+- - shall
+  - move
+  - 'on'
 - - bestseller
   - apparently
   - he

@@ -1,19 +1,16 @@
 ngrams:
-- - hubbub
-  - monitor
-  - praising
 - - noisy
   - aggressive
   - germans
 - - tristram
   - shandy
   - gentleman
+- - hubbub
+  - monitor
+  - praising
 - - cracking
   - dialogue
   - displaying
-- - eric
-  - fogg
-  - '-'
 - - unsuccessful
   - cartoon
   - strip
@@ -23,33 +20,33 @@ ngrams:
 - - narcoleptic
   - squirrel
   - snuggled
-- - adventures
-  - featuring
-  - brave
 - - unsuspecting
   - squirrel
   - eats
 - - featuring
   - brave
   - driver
+- - adventures
+  - featuring
+  - brave
 - - bravura
   - manner
   - investing
 - - angling
   - magazine
   - minnows
+- - unconscious
+  - squirrel
+  - potboiler
 - - forgotten
   - cartoon
   - strip
 - - unconscious
   - squirrel
-  - potboiler
+  - created
 - - daily
   - hubbub
   - monitor
-- - unconscious
-  - squirrel
-  - created
 - - eric
   - fogg
   - fell
@@ -65,15 +62,15 @@ ngrams:
 - - mark
   - early
   - reviews
-- - exclamation
-  - mark
-  - early
 - - magazine
   - entitled
   - potboilers
 - - disgusting
   - table
   - manners
+- - exclamation
+  - mark
+  - early
 - - existing
   - fictional
   - characters
@@ -83,6 +80,9 @@ ngrams:
 - - stephen
   - fry
   - sometimes
+- - eric
+  - fogg
+  - '-'
 - - breakfast
   - doctor
   - slop
@@ -92,12 +92,12 @@ ngrams:
 - - already
   - felt
   - impelled
-- - inner
-  - pocket
-  - gave
 - - squirrel
   - snuggled
   - against
+- - inner
+  - pocket
+  - gave
 - - almost
   - forgotten
   - cartoon
@@ -158,15 +158,15 @@ ngrams:
 - - approval
   - its
   - lack
-- - unconscious
-  - squirrel
-  - now
-- - something
-  - something
-  - behind
 - - took
   - much
   - notice
+- - something
+  - something
+  - behind
+- - unconscious
+  - squirrel
+  - now
 - - become
   - very
   - real
@@ -179,51 +179,51 @@ ngrams:
 - - biographer
   - rather
   - than
-- - eats
-  - some
-  - poisoned
 - - even
   - remember
   - writing
-- - interviewer
-  - taxed
-  - him
+- - eats
+  - some
+  - poisoned
 - - having
   - now
   - unfurled
-- - squirrel
-  - eats
-  - some
 - - give
   - too
   - much
+- - squirrel
+  - eats
+  - some
 - - indeed
   - 'true'
   - said
+- - interviewer
+  - taxed
+  - him
 - - fascist
   - podcaster
-  - who
-- - unconscious
-  - squirrel
-  - has
-- - folk
-  - who
-  - compile
-- - dedicated
-  - folk
   - who
 - - characters
   - before
   - many
+- - never
+  - expressed
+  - any
+- - folk
+  - who
+  - compile
+- - unconscious
+  - squirrel
+  - has
+- - dedicated
+  - folk
+  - who
 - - english
   - composer
   - who
 - - some
   - reason
   - neither
-- - never
-  - expressed
-  - any
 - - composer
   - who
   - fell
@@ -236,15 +236,15 @@ ngrams:
 - - cartoon
   - strip
   - about
-- - about
-  - doctor
-  - slop
 - - swoon
   - into
   - unconsciousness
 - - hindenburg
   - disaster
   - when
+- - about
+  - doctor
+  - slop
 - - stories
   - about
   - doctor
@@ -257,15 +257,12 @@ ngrams:
 - - railway
   - station
   - into
-- - has
-  - never
-  - expressed
 - - them
   - ever
   - comes
-- - podcaster
-  - who
-  - first
+- - has
+  - never
+  - expressed
 - - will
   - recall
   - digby
@@ -281,57 +278,60 @@ ngrams:
 - - knew
   - anything
   - about
-- - nor
-  - about
-  - english
+- - podcaster
+  - who
+  - first
 - - aggressive
   - germans
   - we
+- - nor
+  - about
+  - english
 - - thing
   - about
   - squirrels
-- - who
-  - first
-  - appeared
 - - squirrel
   - readers
   - will
+- - who
+  - first
+  - appeared
 - - readers
   - will
   - recall
 - - allotment
   - will
   - come
-- - which
-  - eric
-  - fogg
-- - something
-  - similar
-  - will
-- - contaminated
-  - nuts
-  - which
 - - sort
   - we
   - expect
+- - something
+  - similar
+  - will
 - - germans
   - we
   - shall
-- - nuts
+- - which
+  - eric
+  - fogg
+- - contaminated
+  - nuts
   - which
-  - cause
 - - ek
   - they
   - too
-- - something
-  - behind
-  - me
+- - nuts
+  - which
+  - cause
 - - does
   - so
   - indefatigable
 - - wonders
   - does
   - so
+- - something
+  - behind
+  - me
 - - displaying
   - an
   - enviable

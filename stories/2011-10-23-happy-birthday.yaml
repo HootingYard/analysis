@@ -8,12 +8,12 @@ ngrams:
 - - celebrated
   - adam's
   - birthday
-- - nine
-  - o'
-  - clock
 - - french
   - university
   - education
+- - nine
+  - o'
+  - clock
 - - october
   - b
   - c
@@ -23,12 +23,12 @@ ngrams:
 - - work
   - dr
   - john
-- - great
-  - work
-  - dr
 - - year
   - being
   - majestic
+- - great
+  - work
+  - dr
 - - pol
   - pot
   - did
@@ -47,9 +47,6 @@ ngrams:
 - - what
   - year
   - being
-- - has
-  - been
-  - suggested
 - - all
   - its
   - kinks
@@ -59,6 +56,9 @@ ngrams:
 - - happy
   - birthday
   - this
+- - has
+  - been
+  - suggested
 - - so
   - said
   - andrew
@@ -68,24 +68,24 @@ ngrams:
 - - this
   - work
   - took
-- - at
-  - nine
-  - o'
 - - c
   - at
   - nine
+- - at
+  - nine
+  - o'
 - - b
   - c
   - at
 - - were
   - created
   - all
-- - morning
-  - at
-  - nine
 - - think
   - we
   - can
+- - morning
+  - at
+  - nine
 story:
   date: 2011-10-23
   id: 2011-10-23-happy-birthday

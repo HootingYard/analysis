@@ -5,12 +5,6 @@ ngrams:
 - - motor
   - mower
   - cycling
-- - fallopian
-  - tube
-  - transplant
-- - tube
-  - transplant
-  - whippet
 - - disposable
   - nappy
   - mice
@@ -20,93 +14,99 @@ ngrams:
 - - leicester
   - lively
   - circles
+- - fallopian
+  - tube
+  - transplant
+- - tube
+  - transplant
+  - whippet
 - - nappy
   - mice
   - racing
-- - spencer
-  - durham
-  - etc
-- - radios
-  - computer
-  - nurses
-- - harvest
-  - festival
-  - nudist
 - - lively
   - circles
   - motor
-- - frills
-  - harvest
-  - festival
+- - radios
+  - computer
+  - nurses
+- - spencer
+  - durham
+  - etc
 - - mower
   - cycling
   - drive
 - - brighton
   - sex
   - kent
-- - lamp
-  - fallopian
-  - tube
-- - smooth
-  - silky
-  - moving
+- - frills
+  - harvest
+  - festival
+- - harvest
+  - festival
+  - nudist
 - - static
   - oblong
   - opposite
 - - devon
   - opposite
   - formal
+- - smooth
+  - silky
+  - moving
+- - lamp
+  - fallopian
+  - tube
 - - inventions
   - etc
   - reveal
 - - etc
   - reveal
   - innate
-- - nudist
-  - beach
-  - carol
-- - nurses
-  - strike
-  - etc
-- - claims
-  - court
-  - nspcc
 - - computer
   - nurses
   - strike
+- - claims
+  - court
+  - nspcc
+- - nurses
+  - strike
+  - etc
 - - innate
   - area
   - psychology
-- - mass
-  - smooth
-  - silky
-- - festival
-  - nudist
+- - nudist
   - beach
+  - carol
 - - carol
   - service
   - devon
+- - mass
+  - smooth
+  - silky
 - - society
   - tortoise
   - olympics
 - - reveal
   - innate
   - area
+- - festival
+  - nudist
+  - beach
 - - kart
   - map
   - cb
-- - test
-  - tube
-  - baby
 - - service
   - devon
   - opposite
-- - golden
-  - frills
-  - harvest
+- - test
+  - tube
+  - baby
 - - cb
   - radio
   - speedway
+- - golden
+  - frills
+  - harvest
 story:
   date: 2011-07-07
   id: 2011-07-07-british-psychology

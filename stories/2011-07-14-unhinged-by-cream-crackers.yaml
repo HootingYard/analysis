@@ -2,45 +2,48 @@ ngrams:
 - - quilty
   - lemuel
   - gulliver
-- - ronnie
-  - bostock
-  - ebin
 - - lupin
   - pooter
   - dolores
+- - ronnie
+  - bostock
+  - ebin
 - - arturo
   - ui
   - winston
-- - grabber
-  - myra
-  - breckinridge
-- - ackroyd
-  - evadne
-  - mount
 - - gruber
   - wendy
   - hale
-- - hans
-  - gruber
-  - wendy
+- - grabber
+  - myra
+  - breckinridge
 - - pooter
   - dolores
   - haze
-- - sara
-  - lund
-  - inspector
+- - hans
+  - gruber
+  - wendy
+- - ackroyd
+  - evadne
+  - mount
+- - roger
+  - ackroyd
+  - evadne
 - - lund
   - inspector
   - truscott
 - - zaleski
   - roger
   - ackroyd
-- - roger
-  - ackroyd
-  - evadne
+- - sara
+  - lund
+  - inspector
 - - ui
   - winston
   - smith
+- - slop
+  - sara
+  - lund
 - - bovary
   - martin
   - chuzzlewit
@@ -50,15 +53,12 @@ ngrams:
 - - emma
   - bovary
   - martin
-- - slop
-  - sara
-  - lund
-- - evadne
-  - mount
-  - arthur
 - - smith
   - grimes
   - pinkie
+- - evadne
+  - mount
+  - arthur
 - - winston
   - smith
   - grimes
@@ -71,93 +71,87 @@ ngrams:
 - - mount
   - arthur
   - gordon
-- - lemuel
-  - gulliver
-  - doctor
 - - grimes
   - pinkie
   - brown
 - - truscott
   - ned
   - stark
-- - inspector
-  - truscott
-  - ned
-- - poppy
-  - nisbet
-  - poppy
-- - poppy
-  - nisbet
-  - poppy
-- - poppy
-  - nisbet
-  - poppy
-- - poppy
-  - nisbet
-  - poppy
-- - poppy
-  - nisbet
-  - poppy
-- - doctor
-  - slop
-  - sara
 - - clump
   - alignment
   - shenanigans
-- - gulliver
-  - doctor
-  - slop
 - - wendy
   - hale
   - chance
+- - poppy
+  - nisbet
+  - poppy
+- - poppy
+  - nisbet
+  - poppy
+- - poppy
+  - nisbet
+  - poppy
+- - poppy
+  - nisbet
+  - poppy
+- - poppy
+  - nisbet
+  - poppy
 - - chance
   - hale
   - watt
-- - crazy
-  - nuts
-  - insane
 - - instructive
   - cream
   - cracker
 - - hale
   - chance
   - hale
+- - inspector
+  - truscott
+  - ned
 - - selby
   - mike
   - hammer
-- - nuts
-  - insane
-  - deranged
-- - watt
-  - prince
-  - zaleski
-- - biscuit
-  - tales
-  - alternatively
 - - cream
   - cracker
   - tally
-- - nisbet
-  - poppy
-  - nisbet
-- - nisbet
-  - poppy
-  - nisbet
-- - nisbet
-  - poppy
-  - nisbet
-- - nisbet
-  - poppy
-  - nisbet
-- - nisbet
-  - poppy
-  - nisbet
 - - sleeping
   - car
   - attendant
+- - nisbet
+  - poppy
+  - nisbet
+- - crazy
+  - nuts
+  - insane
+- - nisbet
+  - poppy
+  - nisbet
+- - nisbet
+  - poppy
+  - nisbet
+- - nisbet
+  - poppy
+  - nisbet
+- - nisbet
+  - poppy
+  - nisbet
+- - watt
+  - prince
+  - zaleski
+- - lemuel
+  - gulliver
+  - doctor
+- - biscuit
+  - tales
+  - alternatively
 - - hale
   - watt
   - prince
+- - nuts
+  - insane
+  - deranged
 - - prince
   - zaleski
   - roger
@@ -167,6 +161,12 @@ ngrams:
 - - cream
   - crackers
   - assuming
+- - doctor
+  - slop
+  - sara
+- - gulliver
+  - doctor
+  - slop
 - - pym
   - de
   - selby
@@ -182,57 +182,57 @@ ngrams:
 - - writes
   - poppy
   - nisbet
+- - tree
+  - clump
+  - alignment
 - - german
   - railway
   - sleeping
 - - railway
   - sleeping
   - car
-- - tree
-  - clump
-  - alignment
-- - avenue
-  - de
-  - cream
 - - described
   - cream
   - crackers
-- - mad
-  - crazy
-  - nuts
+- - avenue
+  - de
+  - cream
 - - either
   - fearsomely
   - strong
 - - link
   - either
   - fearsomely
+- - mad
+  - crazy
+  - nuts
 - - song
   - poppy
   - nisbet
 - - ineffably
   - mysterious
   - tree
-- - de
-  - cream
-  - crackers
 - - folk
   - song
   - poppy
+- - de
+  - cream
+  - crackers
 - - cream
   - crackers
   - dear
-- - german
-  - railway
-  - system
 - - dr
   - z
   - stand
-- - already
-  - exist
-  - invented
+- - german
+  - railway
+  - system
 - - mysterious
   - tree
   - clump
+- - already
+  - exist
+  - invented
 - - cardboard
   - sign
   - depressed
@@ -242,63 +242,63 @@ ngrams:
 - - sign
   - depressed
   - horse
+- - gossamer
+  - thread
+  - between
+- - cream
+  - cracker
+  - story
+- - obviously
+  - fictional
+  - names
 - - boulevard
   - du
   - water
-- - glorified
-  - water
-  - biscuit
 - - treat
   - commonly
   - known
 - - glorified
   - water
+  - biscuit
+- - glorified
+  - water
   - biscuits
-- - cream
-  - cracker
-  - story
 - - du
   - water
   - biscuits
 - - water
   - biscuits
   - plural
-- - gossamer
-  - thread
-  - between
-- - obviously
-  - fictional
-  - names
+- - certain
+  - tree
+  - clumps
+- - biscuit
+  - 'yes'
+  - 'yes'
 - - cases
   - water
   - biscuits
 - - water
   - biscuit
   - tales
-- - biscuit
-  - 'yes'
-  - 'yes'
-- - certain
-  - tree
-  - clumps
-- - poppy
-  - nisbet
-  - let
-- - root
-  - around
-  - desperately
 - - key
   - writes
   - poppy
-- - presumably
-  - under
-  - cover
-- - water
-  - biscuit
-  - 'yes'
+- - poppy
+  - nisbet
+  - let
 - - different
   - fictional
   - characters
+- - presumably
+  - under
+  - cover
+- - root
+  - around
+  - desperately
+- - water
+  - biscuit
+  - 'yes'
 - - yet
   - unpublished
   - manuscript
@@ -308,108 +308,108 @@ ngrams:
 - - every
   - cream
   - cracker
-- - around
-  - desperately
-  - trying
 - - too
   - beggars
   - belief
-- - 'true'
-  - life
-  - heroes
+- - around
+  - desperately
+  - trying
 - - well
   - poppy
   - nisbet
 - - 'true'
   - life
+  - heroes
+- - 'true'
+  - life
   - cream
-- - 'off'
-  - lassitude
-  - blockage
-- - fighting
-  - 'off'
-  - lassitude
-- - three
-  - different
-  - real
-- - different
-  - real
-  - people
 - - crackers
   - dear
   - mr
-- - through
+- - 'off'
   - lassitude
   - blockage
+- - three
+  - different
+  - real
+- - fighting
+  - 'off'
+  - lassitude
+- - different
+  - real
+  - people
 - - way
   - madness
   - lies
+- - through
+  - lassitude
+  - blockage
 - - project
   - through
   - lassitude
-- - old
-  - folk
-  - song
 - - very
   - lengthy
   - screed
+- - old
+  - folk
+  - song
 - - book
   - presumably
   - under
 - - depressed
   - horse
   - never
+- - mr
+  - key
+  - writes
+- - even
+  - mildly
+  - entertaining
 - - may
   - beggar
   - belief
 - - never
   - knew
   - saucepans
-- - poppy
-  - nisbet
-  - may
-- - even
-  - mildly
-  - entertaining
-- - mr
-  - key
-  - writes
-- - any
-  - publisher
-  - worth
 - - dear
   - mr
   - key
-- - word
-  - association
-  - just
+- - poppy
+  - nisbet
+  - may
+- - any
+  - publisher
+  - worth
 - - any
   - publisher
   - happy
-- - very
-  - same
-  - pseudonyms
+- - word
+  - association
+  - just
 - - book
   - well
   - poppy
-- - horse
-  - never
-  - knew
+- - very
+  - same
+  - pseudonyms
 - - nisbet
   - may
   - wish
-- - two
-  - 'true'
-  - life
+- - horse
+  - never
+  - knew
 - - say
   - mr
   - x
-- - could
-  - provide
-  - invaluable
 - - least
   - any
   - publisher
+- - could
+  - provide
+  - invaluable
+- - two
+  - 'true'
+  - life
 - - misunderstandings
   - can
   - occur
@@ -428,15 +428,15 @@ ngrams:
 - - need
   - find
   - only
+- - 'no'
+  - connection
+  - whatsoever
 - - some
   - cases
   - water
 - - only
   - two
   - 'true'
-- - 'no'
-  - connection
-  - whatsoever
 story:
   date: 2011-07-14
   id: 2011-07-14-unhinged-by-cream-crackers

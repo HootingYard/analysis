@@ -20,15 +20,15 @@ ngrams:
 - - sight
   - insert
   - ellipsis
+- - path
+  - winding
+  - alongside
 - - unknown
   - trees
   - dulcie
 - - short
   - stubby
   - bill
-- - path
-  - winding
-  - alongside
 - - odd
   - somehow
   - menacing
@@ -44,18 +44,18 @@ ngrams:
 - - paper
   - package
   - containing
-- - plover
-  - seems
-  - neither
 - - hissed
   - between
   - munches
-- - fancies
-  - blinding
-  - night
+- - plover
+  - seems
+  - neither
 - - both
   - rudolf
   - steiner
+- - fancies
+  - blinding
+  - night
 - - bird
   - woman
   - chuckled
@@ -71,63 +71,63 @@ ngrams:
 - - find
   - hissed
   - dulcie
-- - bird
-  - woman
-  - sat
-- - again
-  - shot
-  - forth
 - - nor
   - less
   - lively
 - - sparky
   - plover
   - too
+- - again
+  - shot
+  - forth
 - - bird
   - woman
-  - whose
+  - sat
 - - something
   - gone
   - awry
+- - bird
+  - woman
+  - whose
 - - sparky
   - little
   - plover
-- - bird
-  - woman
-  - look
 - - scampered
   - 'off'
   - toward
+- - bird
+  - woman
+  - look
 - - whose
   - every
   - utterance
+- - plover
+  - nor
+  - indeed
 - - say
   - continued
   - dulcie
 - - mysterious
   - light
   - perhaps
-- - particularly
-  - sparky
-  - little
-- - plover
-  - nor
-  - indeed
-- - estuary
-  - scattered
-  - here
-- - woman
-  - whose
-  - every
 - - might
   - emit
   - sparks
 - - plover
   - might
   - emit
+- - estuary
+  - scattered
+  - here
+- - particularly
+  - sparky
+  - little
 - - robot
   - plover
   - might
+- - woman
+  - whose
+  - every
 - - such
   - spiders
   - web
@@ -140,9 +140,6 @@ ngrams:
 - - very
   - interesting
   - bird
-- - protested
-  - she
-  - fixed
 - - wading
   - birds
   - here
@@ -155,42 +152,33 @@ ngrams:
 - - herself
   - then
   - hissed
-- - day
-  - observing
-  - birds
+- - protested
+  - she
+  - fixed
+- - am
+  - woefully
+  - ignorant
 - - night
   - where
   - sparky
 - - blinding
   - night
   - where
-- - woman
-  - she
-  - stood
 - - lay
   - any
   - further
-- - other
-  - wading
-  - bird
-- - bird
-  - she
-  - hissed
-- - am
-  - woefully
-  - ignorant
-- - some
-  - sparky
-  - fancies
+- - day
+  - observing
+  - birds
 - - could
   - possibly
   - lead
-- - interesting
+- - other
+  - wading
   - bird
-  - she
-- - she
-  - hissed
-  - between
+- - some
+  - sparky
+  - fancies
 - - other
   - plover
   - nor
@@ -200,54 +188,60 @@ ngrams:
 - - seems
   - neither
   - more
+- - woman
+  - she
+  - stood
+- - bird
+  - she
+  - hissed
+- - she
+  - hissed
+  - between
+- - interesting
+  - bird
+  - she
 - - hissed
   - dulcie
   - who
-- - birds
-  - here
-  - take
-- - course
-  - she
-  - hissed
 - - different
   - sense
   - then
-- - 'no'
-  - children's
-  - comic
-- - away
-  - she
-  - chucked
-- - neither
-  - more
-  - nor
+- - birds
+  - here
+  - take
 - - nor
   - indeed
   - than
-- - walking
-  - away
-  - she
+- - neither
+  - more
+  - nor
+- - 'no'
+  - children's
+  - comic
 - - more
   - nor
   - less
-- - your
-  - sparky
-  - plover
-- - your
-  - sparky
-  - plover
-- - stood
-  - up
-  - hoisted
+- - course
+  - she
+  - hissed
 - - vivacious
   - than
   - any
+- - stood
+  - up
+  - hoisted
+- - away
+  - she
+  - chucked
 - - your
-  - plover
-  - seems
-- - bag
-  - your
   - sparky
+  - plover
+- - your
+  - sparky
+  - plover
+- - walking
+  - away
+  - she
 - - any
   - other
   - wading
@@ -257,30 +251,36 @@ ngrams:
 - - stubby
   - bill
   - into
-- - over
-  - her
-  - shoulder
 - - opened
   - them
   - again
+- - your
+  - plover
+  - seems
 - - bag
-  - over
-  - her
-- - perhaps
   - your
   - sparky
+- - over
+  - her
+  - shoulder
 - - indeed
   - than
   - any
+- - perhaps
+  - your
+  - sparky
 - - merely
   - going
   - about
+- - bag
+  - over
+  - her
 - - observing
   - birds
   - when
-- - were
-  - standing
-  - having
+- - fool
+  - would
+  - build
 story:
   date: 2013-02-25
   id: 2013-02-25-sparky-plover

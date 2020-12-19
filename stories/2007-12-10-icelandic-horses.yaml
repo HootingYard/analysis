@@ -20,15 +20,15 @@ ngrams:
 - - shiny
   - shiny
   - shoes
-- - remained
-  - quiet
-  - confused
-- - shiny
-  - shoes
-  - incidentally
 - - horse's
   - unflappable
   - character
+- - shiny
+  - shoes
+  - incidentally
+- - remained
+  - quiet
+  - confused
 - - ancient
   - icelandic
   - law
@@ -53,36 +53,39 @@ ngrams:
 - - crashed
   - around
   - inside
-- - yard
-  - categories
-  - listed
 - - another
   - country
   - nobody
+- - yard
+  - categories
+  - listed
 - - categories
   - being
   - assigned
 - - customs
   - being
   - blind
-- - right
-  - despite
-  - two
-- - yard
-  - readers
-  - pay
 - - legislation
   - prevents
   - any
 - - prevents
   - any
   - icelandic
+- - yard
+  - readers
+  - pay
+- - right
+  - despite
+  - two
 - - vain
   - such
   - incomprehensible
 - - postings
   - however
   - just
+- - any
+  - icelandic
+  - horse
 - - its
   - quizzical
   - solemnity
@@ -95,48 +98,45 @@ ngrams:
 - - moon
   - made
   - night
-- - any
-  - icelandic
-  - horse
-- - only
-  - horseshoes
-  - left
 - - gallop
   - over
   - water
+- - only
+  - horseshoes
+  - left
 - - hooting
   - yard
   - categories
 - - hooting
   - yard
   - comment
-- - hooting
-  - yard
-  - readers
 - - around
   - inside
   - did
-- - its
-  - proper
-  - place
-- - text
-  - coding
-  - has
+- - hooting
+  - yard
+  - readers
 - - make
   - any
   - attempt
+- - its
+  - proper
+  - place
 - - two
   - such
   - categories
+- - such
+  - categories
+  - being
+- - text
+  - coding
+  - has
 - - here
   - why
   - because
 - - despite
   - two
   - such
-- - such
-  - categories
-  - being
 - - their
   - shiny
   - shiny
@@ -152,60 +152,60 @@ ngrams:
 - - read
   - them
   - avidly
+- - icelandic
+  - law
+  - when
+- - nobody
+  - knows
+  - what
 - - horseshoes
   - were
   - fed
 - - authorities
   - some
   - say
-- - icelandic
-  - law
-  - when
-- - your
-  - right
-  - despite
-- - nobody
-  - knows
-  - what
 - - knows
   - what
   - became
-- - horseshoes
-  - left
-  - were
+- - your
+  - right
+  - despite
+- - horse
+  - cry
+  - out
 - - resists
   - all
   - attempts
 - - enough
   - horseshoes
   - were
-- - horse
-  - cry
-  - out
 - - me
   - sleepless
   - nights
+- - horseshoes
+  - left
+  - were
 - - stood
   - there
   - serenely
 - - give
   - me
   - sleepless
-- - dilemma
-  - which
-  - resists
 - - horse
   - stood
   - there
-- - which
-  - enough
-  - horseshoes
+- - dilemma
+  - which
+  - resists
 - - alarmed
   - even
   - when
-- - left
-  - were
-  - those
+- - which
+  - enough
+  - horseshoes
+- - made
+  - night
+  - into
 story:
   date: 2007-12-10
   id: 2007-12-10-icelandic-horses

@@ -29,27 +29,30 @@ ngrams:
 - - singing
   - twins
   - horst
-- - opera
-  - special
-  - extravaganza
-- - terrifying
-  - singing
-  - twins
 - - church
   - leaning
   - insouciantly
+- - terrifying
+  - singing
+  - twins
+- - opera
+  - special
+  - extravaganza
 - - chicken
   - sanctuary
   - holding
-- - german
-  - opera
-  - special
 - - jug
   - band
   - accompanied
 - - dirge
   - entirely
   - waiting
+- - german
+  - opera
+  - special
+- - unperformed
+  - several
+  - extracts
 - - bird
   - curd
   - furred
@@ -59,63 +62,54 @@ ngrams:
 - - jamboree
   - bag
   - available
-- - act
-  - seven
-  - scene
-- - unperformed
-  - several
-  - extracts
 - - leaning
   - insouciantly
   - against
+- - act
+  - seven
+  - scene
 - - fact
   - added
   - nine
 - - plaintive
   - ballad
   - must
-- - find
-  - nimrod
-  - alone
 - - scene
   - yet
   - completed
+- - find
+  - nimrod
+  - alone
 - - most
   - magnificent
   - dirge
 - - sanctuary
   - ever
   - committed
-- - furred
-  - bird
-  - again
 - - chicken
   - sanctuary
   - ever
-- - write
-  - scenes
-  - two
-- - hunt
-  - down
-  - pinion
+- - furred
+  - bird
+  - again
 - - sharply
   - divided
   - over
-- - mighty
-  - hunter
-  - before
+- - hunt
+  - down
+  - pinion
+- - write
+  - scenes
+  - two
 - - swim
   - yet
   - again
+- - mighty
+  - hunter
+  - before
 - - twee
   - verses
   - where
-- - nimrod
-  - exits
-  - she
-- - exits
-  - she
-  - appears
 - - verses
   - where
   - heard
@@ -125,12 +119,18 @@ ngrams:
 - - more
   - exclamation
   - marks
+- - nimrod
+  - exits
+  - she
 - - nine
   - more
   - exclamation
 - - added
   - nine
   - more
+- - exits
+  - she
+  - appears
 - - recorded
   - extracts
   - can
@@ -155,9 +155,9 @@ ngrams:
 - - has
   - heard
   - much
-- - ingmar
-  - hetty
-  - are
+- - scene
+  - four
+  - we
 story:
   date: 2018-09-15
   id: 2018-09-15-tales-of-duntblau-iv

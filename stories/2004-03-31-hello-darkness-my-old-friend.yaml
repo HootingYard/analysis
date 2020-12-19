@@ -1,10 +1,10 @@
 ngrams:
-- - reynolds
-  - reynolds
-  - reynolds
 - - edgar
   - allan
   - poe's
+- - reynolds
+  - reynolds
+  - reynolds
 - - echoing
   - edgar
   - allan
@@ -17,12 +17,12 @@ ngrams:
 - - slab
   - weighed
   - heavy
-- - iron
-  - slab
-  - weighed
 - - grew
   - louder
   - knowing
+- - iron
+  - slab
+  - weighed
 - - hen
   - grew
   - louder
@@ -38,15 +38,15 @@ ngrams:
 - - words
   - reynolds
   - reynolds
+- - morning
+  - rustic
+  - farmyard
 - - poe's
   - dying
   - words
 - - dying
   - words
   - reynolds
-- - morning
-  - rustic
-  - farmyard
 - - bright
   - morning
   - rustic

@@ -2,12 +2,12 @@ ngrams:
 - - finance
   - technological
   - wizardry
-- - helter
-  - skelter
-  - adventure
 - - glistening
   - torrential
   - showers
+- - helter
+  - skelter
+  - adventure
 - - unnamed
   - protagonists
   - examine
@@ -20,18 +20,18 @@ ngrams:
 - - beetle
   - meteorological
   - records
-- - decisive
-  - mustachios
-  - january
-- - flying
-  - beetle
-  - meteorological
 - - teeming
   - rainfall
   - lasted
 - - easily
   - rent
   - forensic
+- - flying
+  - beetle
+  - meteorological
+- - decisive
+  - mustachios
+  - january
 - - exhausted
   - heap
   - onto
@@ -41,21 +41,21 @@ ngrams:
 - - jim
   - pond
   - sees
-- - dobson's
-  - fleeting
-  - fads
 - - high
   - finance
   - technological
 - - intrigue
   - high
   - finance
-- - hands
-  - decisive
-  - mustachios
+- - dobson's
+  - fleeting
+  - fads
 - - international
   - intrigue
   - high
+- - hands
+  - decisive
+  - mustachios
 - - unknown
   - pie
   - shop
@@ -80,12 +80,6 @@ ngrams:
 - - rainfall
   - lasted
   - until
-- - granted
-  - each
-  - chapter
-- - novel
-  - granted
-  - each
 - - having
   - cast
   - aside
@@ -95,93 +89,99 @@ ngrams:
 - - afternoon
   - having
   - cast
+- - novel
+  - granted
+  - each
 - - soaking
   - wet
   - world
+- - granted
+  - each
+  - chapter
 - - few
   - working
   - notes
+- - scheme
+  - writes
+  - mr
 - - dobson's
   - few
   - attempts
 - - two
   - unnamed
   - protagonists
-- - scheme
-  - writes
-  - mr
 - - new
   - scheme
   - writes
-- - fractious
-  - gales
-  - dobson
 - - article
   - mr
   - pond
 - - mr
   - pond
   - points
-- - aborted
-  - novel
-  - dobson
 - - writes
   - mr
   - pond
 - - mr
   - pond
   - notes
-- - least
-  - four
-  - hours
 - - later
   - having
   - somehow
+- - least
+  - four
+  - hours
 - - shop
   - these
   - diverted
-- - little
-  - hands
-  - decisive
-- - very
-  - elegant
-  - smudge
-- - smudges
-  - go
-  - look
-- - pie
-  - shop
-  - these
-- - smudge
-  - only
-  - occurs
-- - wrote
-  - another
-  - word
-- - triumph
-  - over
-  - adversity
-- - hours
-  - later
-  - having
 - - alexander
   - scriabin
   - might
+- - very
+  - elegant
+  - smudge
+- - fractious
+  - gales
+  - dobson
+- - pie
+  - shop
+  - these
+- - smudges
+  - go
+  - look
+- - aborted
+  - novel
+  - dobson
+- - little
+  - hands
+  - decisive
+- - triumph
+  - over
+  - adversity
+- - wrote
+  - another
+  - word
+- - hours
+  - later
+  - having
+- - smudge
+  - only
+  - occurs
 - - only
   - international
   - airport
-- - press
-  - note
-  - see
-- - gales
-  - dobson
-  - often
-- - list
-  - only
-  - international
 - - lasted
   - until
   - well
+- - press
+  - note
+  - see
+- - list
+  - only
+  - international
+- - gales
+  - dobson
+  - often
 - - notes
   - list
   - only
@@ -194,9 +194,6 @@ ngrams:
 - - tiny
   - little
   - hands
-- - smudge
-  - tossed
-  - her
 - - last
   - three
   - words
@@ -206,15 +203,18 @@ ngrams:
 - - note
   - see
   - tiny
+- - smudge
+  - tossed
+  - her
 - - scribbled
   - those
   - last
-- - only
-  - occurs
-  - once
 - - never
   - wrote
   - another
+- - only
+  - occurs
+  - once
 - - mr
   - pond
   - dobson
@@ -227,30 +227,30 @@ ngrams:
 - - those
   - last
   - three
-- - see
-  - tiny
-  - little
 - - occurs
   - once
   - more
-- - down
-  - note
-  - dobson
-- - did
-  - dobson
-  - really
-- - been
-  - utterly
-  - convinced
+- - see
+  - tiny
+  - little
 - - tell
   - us
   - where
+- - been
+  - utterly
+  - convinced
+- - did
+  - dobson
+  - really
+- - down
+  - note
+  - dobson
 - - some
   - hours
   - later
-- - tossed
-  - her
-  - head
+- - elegant
+  - smudges
+  - were
 story:
   date: 2006-02-07
   id: 2006-02-07-elegant-smudges

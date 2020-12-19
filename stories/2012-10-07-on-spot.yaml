@@ -17,48 +17,48 @@ ngrams:
 - - truly
   - impoverished
   - scribbler
-- - hopeless
-  - canine
-  - despair
 - - needless
   - extra
   - paragraphs
+- - hopeless
+  - canine
+  - despair
 - - ambulance
   - bell
   - clanging
 - - somewhat
   - unwieldy
   - subtitle
-- - stakhanovite
-  - thousand
-  - ish
 - - unreconstructed
   - stalinist
   - press
+- - stakhanovite
+  - thousand
+  - ish
 - - camp
   - fence
   - political
-- - yap
-  - yap
-  - says
-- - yap
-  - yap
-  - says
 - - lars
   - likes
   - tanks
+- - yap
+  - yap
+  - says
+- - yap
+  - yap
+  - says
+- - spot
+  - yap
+  - yap
+- - spot
+  - yap
+  - yap
 - - imperialist
   - running
   - dogs
 - - impoverished
   - scribbler
   - please
-- - spot
-  - yap
-  - yap
-- - spot
-  - yap
-  - yap
 - - communist
   - party
   - meeting
@@ -71,17 +71,11 @@ ngrams:
 - - lars
   - lars
   - likes
-- - yap
-  - says
-  - spot
-- - yap
-  - says
-  - spot
-- - says
-  - spot
-  - noisy
 - - lars
   - trap
+  - spot
+- - lars
+  - shove
   - spot
 - - lars
   - drag
@@ -89,15 +83,21 @@ ngrams:
 - - surprising
   - emotional
   - sense
+- - yap
+  - says
+  - spot
+- - yap
+  - says
+  - spot
 - - spot
   - makes
   - noisy
 - - makes
   - noisy
   - spot
-- - lars
-  - shove
+- - says
   - spot
+  - noisy
 - - spot
   - noisy
   - spot
@@ -110,15 +110,15 @@ ngrams:
 - - hear
   - spot
   - yap
-- - tinier
-  - infants
-  - among
 - - hear
   - spot
   - howl
 - - net
   - hear
   - spot
+- - tinier
+  - infants
+  - among
 - - finished
   - reading
   - francis
@@ -131,12 +131,12 @@ ngrams:
 - - worth
   - reading
   - aloud
-- - admirable
-  - good
-  - manners
 - - recently
   - finished
   - reading
+- - admirable
+  - good
+  - manners
 - - spot
   - run
   - hear
@@ -146,72 +146,72 @@ ngrams:
 - - ish
   - words
   - goal
-- - ish
-  - words
-  - per
 - - spot
   - hear
   - spot
+- - ish
+  - words
+  - per
 - - shows
   - admirable
   - good
-- - unwieldy
-  - subtitle
-  - why
 - - rather
   - advanced
   - level
-- - subtitle
+- - unwieldy
+  - subtitle
   - why
-  - despite
-- - thousand
-  - ish
-  - words
-- - thousand
-  - ish
-  - words
-- - long
-  - speech
-  - rant
 - - though
   - numerous
   - extracts
-- - why
+- - thousand
+  - ish
+  - words
+- - thousand
+  - ish
+  - words
+- - subtitle
+  - why
   - despite
-  - everything
+- - long
+  - speech
+  - rant
 - - make
   - surprising
   - emotional
+- - why
+  - despite
+  - everything
 - - sign
   - saying
   - something
-- - likes
-  - tanks
-  - see
 - - something
   - either
   - significant
+- - likes
+  - tanks
+  - see
+- - give
+  - generously
+  - though
 - - canine
   - despair
   - see
 - - pals
   - pant
   - see
-- - bell
-  - clanging
-  - see
-- - give
-  - generously
-  - though
-- - tanks
-  - see
-  - lars
-- - splendid
-  - stories
-  - well
 - - stories
   - well
   - worth
+- - splendid
+  - stories
+  - well
+- - bell
+  - clanging
+  - see
+- - tanks
+  - see
+  - lars
 - - see
   - lars
   - clap
@@ -226,31 +226,31 @@ ngrams:
   - trap
 - - see
   - lars
-  - drag
-- - preen
-  - see
-  - lars
-- - see
-  - spot
-  - politically
-- - running
-  - dogs
-  - see
-- - see
-  - lars
   - shove
 - - see
   - lars
-  - drive
-- - despair
-  - see
+  - drag
+- - see
   - lars
+  - drive
 - - see
   - lars
   - agree
+- - see
+  - spot
+  - politically
+- - else
+  - something
+  - either
+- - despair
+  - see
+  - lars
 - - rare
   - occasions
   - being
+- - meeting
+  - see
+  - lars
 - - noisy
   - spot
   - see
@@ -260,45 +260,39 @@ ngrams:
 - - see
   - lars
   - catch
-- - clanging
-  - see
-  - spot
-- - meeting
-  - see
-  - lars
 - - spot
   - howl
   - see
 - - howl
   - see
   - spot
-- - lars
-  - drive
-  - 'off'
-- - else
-  - something
-  - either
+- - clanging
+  - see
+  - spot
+- - running
+  - dogs
+  - see
 - - speech
   - see
   - lars
-- - many
-  - bright
-  - coins
-- - see
-  - spot
-  - preen
-- - spot
-  - preen
-  - see
-- - camp
-  - see
-  - spot
+- - lars
+  - drive
+  - 'off'
 - - party
   - meeting
   - see
 - - extra
   - paragraphs
   - just
+- - camp
+  - see
+  - spot
+- - many
+  - bright
+  - coins
+- - preen
+  - see
+  - lars
 - - meeting
   - see
   - spot
@@ -308,24 +302,30 @@ ngrams:
 - - see
   - lars
   - park
+- - see
+  - spot
+  - preen
+- - spot
+  - preen
+  - see
+- - speech
+  - rant
+  - might
 - - sign
   - see
+  - lars
+- - see
+  - lars
   - lars
 - - see
   - lars
   - listen
 - - see
   - lars
-  - lars
-- - see
-  - lars
   - leave
-- - corner
-  - shop
+- - run
   - see
-- - corner
-  - shop
-  - see
+  - lars
 story:
   date: 2012-10-07
   id: 2012-10-07-on-spot

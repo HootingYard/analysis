@@ -2,12 +2,12 @@ ngrams:
 - - bazookas
   - fewer
   - vans
-- - grim
-  - horrifying
-  - alleyways
 - - fewer
   - vans
   - fewer
+- - grim
+  - horrifying
+  - alleyways
 - - terrific
   - transport
   - problems
@@ -17,12 +17,12 @@ ngrams:
 - - corncrake
   - expert
   - hiding
-- - hedges
-  - atop
-  - buildings
 - - woods
   - remained
   - unconvinced
+- - hedges
+  - atop
+  - buildings
 - - cream
   - vans
   - remained
@@ -35,12 +35,51 @@ ngrams:
 - - regulations
   - none
   - dared
-- - cream
-  - van
-  - differs
 - - gradually
   - dispersed
   - due
+- - unregistered
+  - ice
+  - cream
+- - unregistered
+  - ice
+  - cream
+- - unregistered
+  - ice
+  - cream
+- - unregistered
+  - ice
+  - cream
+- - devised
+  - whereby
+  - ice
+- - whereby
+  - ice
+  - cream
+- - ice
+  - cream
+  - vans
+- - ice
+  - cream
+  - vans
+- - registered
+  - ice
+  - cream
+- - ice
+  - cream
+  - vans
+- - ice
+  - cream
+  - vans
+- - ice
+  - cream
+  - vans
+- - choc
+  - ice
+  - peering
+- - cream
+  - van
+  - differs
 - - cream
   - van
   - investigator
@@ -56,60 +95,21 @@ ngrams:
 - - cream
   - van
   - drivers
-- - choc
-  - ice
-  - peering
-- - devised
-  - whereby
-  - ice
-- - unregistered
-  - ice
-  - cream
-- - unregistered
-  - ice
-  - cream
-- - unregistered
-  - ice
-  - cream
-- - unregistered
-  - ice
-  - cream
-- - whereby
-  - ice
-  - cream
-- - ice
-  - cream
-  - vans
-- - ice
-  - cream
-  - vans
-- - ice
-  - cream
-  - vans
-- - ice
-  - cream
-  - vans
-- - ice
-  - cream
-  - vans
-- - registered
-  - ice
-  - cream
-- - ice
-  - cream
-  - despite
 - - stupid
   - ice
   - cream
 - - boots
   - immediately
   - hauled
-- - ancient
-  - regulations
-  - none
+- - ice
+  - cream
+  - despite
 - - original
   - ice
   - cream
+- - ancient
+  - regulations
+  - none
 - - ice
   - cream
   - van
@@ -152,69 +152,69 @@ ngrams:
 - - vans
   - again
   - braved
+- - investigator
+  - though
+  - cousins
 - - west
   - bim
   - found
 - - cream
   - van
   - went
-- - lanes
-  - around
-  - pang
-- - few
-  - vehicles
-  - remained
 - - cream
   - vans
   - again
-- - investigator
-  - though
-  - cousins
 - - both
   - ice
   - cream
+- - few
+  - vehicles
+  - remained
+- - lanes
+  - around
+  - pang
 - - bird
   - person
   - hefty
-- - around
-  - pang
-  - hill
 - - van
   - investigator
   - though
-- - dissembling
-  - many
-  - evasions
+- - around
+  - pang
+  - hill
 - - contained
   - much
   - dissembling
+- - dissembling
+  - many
+  - evasions
 - - replies
   - contained
   - much
 - - search
   - party
   - ever
-- - many
-  - ice
-  - cream
 - - forest
   - before
   - completing
-- - van
-  - drivers
-  - those
 - - yet
   - another
   - medal
+- - many
+  - ice
+  - cream
 - - awarded
   - yet
   - another
-- - down
-  - grim
-  - horrifying
 - - drivers
   - those
   - whom
+- - van
+  - drivers
+  - those
+- - down
+  - grim
+  - horrifying
 - - vanishing
   - points
   - down
@@ -233,18 +233,18 @@ ngrams:
 - - drivers
   - could
   - apply
-- - double
-  - then
-  - triple
 - - agents
   - could
   - pull
-- - van
-  - drivers
-  - could
+- - double
+  - then
+  - triple
 - - sky
   - upon
   - branches
+- - van
+  - drivers
+  - could
 - - more
   - stupid
   - ice
@@ -254,36 +254,33 @@ ngrams:
 - - 'no'
   - robin
   - specialist
-- - him
-  - however
-  - frantically
-- - cadet
-  - who
-  - happened
-- - fourth
-  - day
-  - after
 - - any
   - means
   - being
+- - fourth
+  - day
+  - after
+- - cadet
+  - who
+  - happened
+- - him
+  - however
+  - frantically
 - - 'no'
   - apparent
   - purpose
 - - 'no'
   - search
   - party
+- - means
+  - being
+  - more
 - - results
   - were
   - plotted
 - - firearms
   - were
   - removed
-- - means
-  - being
-  - more
-- - found
-  - him
-  - however
 - - windswept
   - plains
   - out
@@ -293,12 +290,15 @@ ngrams:
 - - plains
   - out
   - west
-- - somewhat
-  - disorientated
-  - out
 - - attracting
   - more
   - than
+- - somewhat
+  - disorientated
+  - out
+- - found
+  - him
+  - however
 - - their
   - own
   - lack
@@ -308,33 +308,33 @@ ngrams:
 - - committee's
   - slogan
   - they
-- - some
-  - years
-  - ago
 - - frantically
   - they
   - crashed
 - - were
   - both
   - fanatically
+- - some
+  - years
+  - ago
+- - cream
+  - vans
+  - would
 - - ever
   - been
   - attacked
+- - been
+  - done
+  - yet
 - - ever
   - found
   - him
 - - van
   - ever
   - been
-- - been
-  - done
-  - yet
-- - your
-  - van
-  - ever
-- - cream
-  - vans
-  - would
+- - interrogations
+  - however
+  - they
 story:
   date: 2009-04-28
   id: 2009-04-28-unregistered-ice-cream-vans

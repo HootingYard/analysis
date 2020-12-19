@@ -1,62 +1,59 @@
 ngrams:
+- - contains
+  - emotional
+  - intensity
 - - plane
   - crash
   - flashback
 - - eternally
   - famous
   - blasphemous
-- - lothar
-  - preen
-  - thinks
-- - contains
-  - emotional
-  - intensity
-- - blonde
-  - dye
-  - running
 - - band's
   - record
   - sales
+- - packing
+  - salted
+  - fish
+- - blonde
+  - dye
+  - running
+- - sobbing
+  - trembling
+  - lower
 - - exchange
   - meaningful
   - looks
 - - looks
   - stricken
   - flashback
-- - packing
-  - salted
-  - fish
-- - sobbing
-  - trembling
-  - lower
-- - doctor
-  - fang
-  - dies
 - - tivol
   - exchange
   - meaningful
+- - trembling
+  - lower
+  - lip
 - - maritime
   - matters
   - flashback
 - - raft
   - despite
   - knowing
-- - trembling
-  - lower
-  - lip
-- - crashing
-  - doctor
-  - fang
-- - famous
-  - blasphemous
-  - ted
+- - lothar
+  - preen
+  - thinks
 - - stomach
   - cramps
   - dennis
+- - famous
+  - blasphemous
+  - ted
 - - hospital
   - corridor
   - carrying
-- - tells
+- - doctor
+  - fang
+  - dies
+- - crashing
   - doctor
   - fang
 - - except
@@ -68,29 +65,23 @@ ngrams:
 - - spade
   - goes
   - clunk
-- - lap
-  - uninjured
-  - marigold
+- - tells
+  - doctor
+  - fang
 - - maritime
   - matters
   - dennis
-- - mrs
-  - gubbins
-  - wanders
-- - doctor
-  - fang
-  - says
-- - stricken
-  - flashback
-  - marigold
-- - emotional
-  - intensity
+- - lap
+  - uninjured
   - marigold
 - - dying
   - mother
   - holding
-- - hospital
-  - staff
+- - emotional
+  - intensity
+  - marigold
+- - stricken
+  - flashback
   - marigold
 - - shouts
   - fictional
@@ -101,93 +92,99 @@ ngrams:
 - - asks
   - fictional
   - athlete
-- - blodgett
-  - island
-  - normal
-- - tivol
-  - asks
+- - hospital
+  - staff
   - marigold
 - - doctor
   - fang
-  - it's
-- - matters
-  - flashback
-  - marigold
-- - doctor
-  - fang
-  - marigold
+  - says
+- - mrs
+  - gubbins
+  - wanders
 - - drowned
   - fictional
   - athlete
 - - bottles
   - got
   - mixed
-- - croaking
-  - help
-  - help
+- - police
+  - officer
+  - sitting
+- - tivol
+  - asks
+  - marigold
 - - beach
   - fictional
   - athlete
-- - says
-  - dramatically
+- - matters
+  - flashback
   - marigold
 - - tells
   - fictional
   - athlete
-- - says
-  - please
-  - talk
+- - croaking
+  - help
+  - help
 - - thinks
   - he's
   - dead
-- - police
-  - officer
-  - sitting
 - - letter
   - that's
   - waiting
-- - near
-  - future
-  - meanwhile
-- - enid
-  - says
+- - blodgett
+  - island
+  - normal
+- - doctor
+  - fang
+  - it's
+- - says
+  - dramatically
+  - marigold
+- - says
   - please
-- - enid
-  - tells
+  - talk
+- - doctor
+  - fang
   - marigold
 - - officer
   - sitting
   - outside
+- - near
+  - future
+  - meanwhile
+- - leave
+  - tomorrow
+  - marigold
 - - gubbins
   - wanders
   - past
 - - hair
   - aha
   - it's
-- - flashback
+- - enid
+  - tells
   - marigold
-  - chew
-- - flashback
+- - enid
+  - says
+  - please
+- - won't
+  - tell
+  - anybody
+- - aha
+  - it's
   - marigold
-  - chew
-- - leave
-  - tomorrow
+- - moves
+  - nor
+  - breathes
+- - tivol
+  - says
   - marigold
 - - uninjured
   - marigold
   - chew
-- - tivol
-  - says
-  - marigold
 - - dramatically
   - marigold
   - chew
-- - aha
-  - it's
-  - marigold
-- - marigold
-  - chew
-  - sobs
 - - marigold
   - chew
   - cares
@@ -197,159 +194,159 @@ ngrams:
 - - marigold
   - chew
   - admits
-- - raft
-  - marigold
-  - chew
-- - raft
-  - marigold
-  - chew
-- - raft
-  - marigold
-  - chew
-- - asks
-  - marigold
-  - chew
-- - asks
-  - marigold
-  - chew
 - - marigold
   - chew
-  - runs
-- - marigold
-  - chew
-  - runs
-- - marigold
-  - chew
-  - runs
-- - staff
+  - sobs
+- - flashback
   - marigold
   - chew
-- - fang
+- - flashback
   - marigold
   - chew
 - - called
   - monster
   - eats
-- - hospital
-  - marigold
-  - chew
-- - suddenly
-  - says
-  - don't
-- - won't
-  - tell
-  - anybody
-- - tells
-  - marigold
-  - chew
 - - despite
   - knowing
   - nothing
-- - blodgett
-  - exactly
-  - it's
-- - tomorrow
-  - marigold
-  - chew
 - - bag
   - open
   - shaking
-- - anybody
+- - raft
   - marigold
   - chew
-- - moves
-  - nor
-  - breathes
+- - raft
+  - marigold
+  - chew
+- - raft
+  - marigold
+  - chew
+- - marigold
+  - chew
+  - runs
+- - suddenly
+  - says
+  - don't
+- - marigold
+  - chew
+  - runs
+- - marigold
+  - chew
+  - runs
+- - asks
+  - marigold
+  - chew
+- - asks
+  - marigold
+  - chew
+- - staff
+  - marigold
+  - chew
 - - wanders
   - past
   - looking
+- - fang
+  - marigold
+  - chew
+- - hospital
+  - marigold
+  - chew
+- - tomorrow
+  - marigold
+  - chew
+- - anybody
+  - marigold
+  - chew
+- - tells
+  - marigold
+  - chew
 - - toy
   - aeroplane
   - tiny
-- - marigold
-  - chew
-  - says
-- - marigold
-  - chew
-  - says
-- - says
-  - marigold
-  - chew
-- - says
-  - marigold
-  - chew
-- - exciting
-  - series
-  - blodgett
 - - nothing
   - except
   - herself
+- - blodgett
+  - exactly
+  - it's
+- - tivol
+  - knows
+  - nothing
 - - says
   - don't
   - open
+- - neither
+  - moves
+  - nor
+- - marigold
+  - chew
+  - says
+- - marigold
+  - chew
+  - says
+- - says
+  - marigold
+  - chew
+- - says
+  - marigold
+  - chew
 - - aeroplane
   - tiny
   - enid
 - - fishing
   - tiny
   - enid
-- - pals
-  - hanging
-  - around
-- - tivol
-  - knows
-  - nothing
-- - it's
-  - marigold
-  - chew
 - - raft
   - because
   - he's
-- - water
-  - bottles
-  - got
+- - pals
+  - hanging
+  - around
 - - tell
   - anybody
   - marigold
+- - exciting
+  - series
+  - blodgett
 - - something
   - spooky
   - occur
-- - tiny
-  - enid
-  - tells
-- - world
-  - thinks
-  - he's
-- - neither
-  - moves
-  - nor
 - - different
   - number
   - plates
+- - world
+  - thinks
+  - he's
+- - it's
+  - marigold
+  - chew
+- - water
+  - bottles
+  - got
 - - tiny
   - enid
-  - says
-- - tiny
-  - enid
-  - says
-- - leave
-  - tiny
-  - enid
+  - tells
 - - flashback
   - still
   - digging
-- - small
-  - box
-  - full
 - - spot
   - i'll
   - get
+- - leave
+  - tiny
+  - enid
+- - tiny
+  - enid
+  - says
+- - tiny
+  - enid
+  - says
+- - small
+  - box
+  - full
 - - idea
   - marigold
   - chew
-- - thing
-  - blodgett
-  - exactly
 - - everyone
   - else
   - once
@@ -362,6 +359,15 @@ ngrams:
 - - rescue
   - us
   - we'll
+- - writing
+  - songs
+  - again
+- - thing
+  - blodgett
+  - exactly
+- - finishing
+  - touches
+  - being
 - - didn't
   - poison
   - old
@@ -371,159 +377,153 @@ ngrams:
 - - island
   - normal
   - hooting
-- - finishing
-  - touches
-  - being
-- - writing
-  - songs
-  - again
-- - marigold
-  - chew
-  - next
 - - still
   - digging
   - marigold
-- - marigold
-  - chew
-  - why
-- - man
-  - lothar
-  - preen
-- - thing
-  - don't
-  - open
-- - chew
-  - runs
-  - away
-- - chew
-  - runs
-  - away
 - - justice
   - much
   - talk
-- - raft
-  - dobson
-  - says
+- - thing
+  - don't
+  - open
+- - marigold
+  - chew
+  - next
 - - after
   - they're
   - rescued
 - - heads
   - 'off'
   - angrily
-- - grunty
-  - man
-  - lothar
+- - chew
+  - runs
+  - away
+- - chew
+  - runs
+  - away
+- - marigold
+  - chew
+  - why
 - - drive
   - i'll
   - just
-- - 'off'
-  - shouts
-  - fictional
-- - weeks
-  - dobson
-  - wonders
-- - pilot
-  - possibly
-  - dobson
 - - think
   - i'm
   - capable
-- - possibly
-  - dobson
-  - asks
+- - 'off'
+  - shouts
+  - fictional
 - - island
   - after
   - surviving
-- - dobson
-  - asks
-  - marigold
-- - ground
-  - dobson
-  - tends
-- - leave
+- - man
+  - lothar
+  - preen
+- - i'll
+  - just
+  - run
+- - grunty
+  - man
+  - lothar
+- - mysterious
+  - island
+  - after
+- - raft
   - dobson
   - says
 - - before
   - crashing
   - doctor
-- - i'll
-  - just
-  - run
-- - dobson
-  - blodgett
-  - says
-- - mysterious
-  - island
-  - after
-- - car
-  - looking
-  - through
-- - future
-  - meanwhile
-  - here
 - - meaningful
   - looks
   - over
-- - see
-  - marigold
-  - chew
+- - pilot
+  - possibly
+  - dobson
+- - weeks
+  - dobson
+  - wonders
+- - car
+  - looking
+  - through
+- - possibly
+  - dobson
+  - asks
+- - future
+  - meanwhile
+  - here
 - - such
   - narrative
   - complexity
+- - ground
+  - dobson
+  - tends
+- - dobson
+  - asks
+  - marigold
+- - leave
+  - dobson
+  - says
+- - ah
+  - such
+  - narrative
 - - very
   - near
   - future
+- - see
+  - marigold
+  - chew
 - - touches
   - being
   - put
 - - foot
   - down
   - ready
-- - ah
-  - such
-  - narrative
-- - three
-  - weeks
-  - dobson
-- - joins
-  - her
-  - strumming
-- - tack
-  - joins
-  - her
-- - car
-  - she
-  - yells
-- - she
-  - didn't
-  - poison
-- - doctor
-  - fang
-  - she
-- - she
-  - needs
-  - doctor
-- - tells
-  - her
-  - he's
-- - she
-  - tells
-  - doctor
-- - normal
-  - hooting
-  - yard
+- - dobson
+  - blodgett
+  - says
+- - then
+  - starts
+  - croaking
 - - first
   - raft
   - because
-- - puts
+- - doesn't
+  - get
+  - very
+- - three
+  - weeks
+  - dobson
+- - normal
+  - hooting
+  - yard
+- - weep
+  - now
+  - marigold
+- - joins
   - her
-  - foot
+  - strumming
+- - idea
+  - ah
+  - such
+- - hooting
+  - yard
+  - service
+- - car
+  - she
+  - yells
+- - tack
+  - joins
+  - her
+- - she
+  - didn't
+  - poison
+- - far
+  - before
+  - crashing
 - - goes
   - clunk
   - she
-- - says
-  - she
-  - wants
 story:
   date: 2006-01-06
   id: 2006-01-06-a-third-episode-of-blodgett-island

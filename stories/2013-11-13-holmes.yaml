@@ -8,102 +8,102 @@ ngrams:
 - - victor
   - lynch
   - vittoria
-- - forger
-  - victor
-  - lynch
-- - darlington
-  - substitution
-  - scandal
 - - vincent
   - harden
   - archie
-- - cardinal
-  - tosca
-  - wilson
+- - forger
+  - victor
+  - lynch
 - - carruthers
   - brooks
   - woodhouse
-- - notorious
-  - muller
-  - lefevre
+- - darlington
+  - substitution
+  - scandal
 - - vatican
   - cameos
   - wilson
 - - colonel
   - carruthers
   - brooks
+- - notorious
+  - muller
+  - lefevre
+- - cardinal
+  - tosca
+  - wilson
 - - circus
   - belle
   - vanderbilt
 - - bank
   - robbery
   - adams
-- - boulevard
-  - assassin
-  - arthur
 - - grosvenor
   - square
   - furniture
-- - arthur
-  - h
-  - staunton
-- - assassin
+- - boulevard
+  - assassin
   - arthur
-  - h
 - - nonpareil
   - club
   - madame
 - - amateur
   - mendicant
   - society
-- - ship
-  - matilda
-  - briggs
-- - district
-  - messenger
-  - office
+- - arthur
+  - h
+  - staunton
+- - assassin
+  - arthur
+  - h
 - - abominable
   - memory
   - matthews
-- - john
-  - watson's
-  - chronicle
-- - john
-  - vincent
-  - harden
-- - millionaire
-  - john
-  - vincent
+- - district
+  - messenger
+  - office
+- - ship
+  - matilda
+  - briggs
 - - abominable
   - wife
   - baron
-- - tobacco
-  - millionaire
-  - john
 - - margate
   - woman
   - colonel
 - - woman
   - colonel
   - carruthers
-- - sir
-  - george
-  - lewis
 - - cave
   - mystery
   - abrahams
+- - john
+  - watson's
+  - chronicle
 - - scandinavian
   - royal
   - family
-- - dutch
-  - royal
-  - family
-- - square
-  - furniture
-  - van
+- - john
+  - vincent
+  - harden
+- - sir
+  - george
+  - lewis
+- - millionaire
+  - john
+  - vincent
 - - insurance
   - money
   - similar
+- - dutch
+  - royal
+  - family
+- - tobacco
+  - millionaire
+  - john
+- - square
+  - furniture
+  - van
 - - money
   - similar
   - cases
@@ -113,9 +113,6 @@ ngrams:
 - - island
   - cave
   - mystery
-- - blue
-  - carbuncle
-  - mrs
 - - wonder
   - sir
   - george
@@ -125,15 +122,18 @@ ngrams:
 - - dr
   - john
   - watson's
-- - holmes
-  - dr
-  - john
 - - makes
   - passing
   - mention
+- - blue
+  - carbuncle
+  - mrs
 - - murder
   - charge
   - against
+- - holmes
+  - dr
+  - john
 - - french
   - government
   - case
@@ -152,24 +152,24 @@ ngrams:
 - - commission
   - two
   - coptic
-- - scandal
-  - two
-  - murders
 - - old
   - baron
   - dowson
+- - scandal
+  - two
+  - murders
 - - new
   - orleans
   - van
 - - club
   - scandal
   - two
-- - others
-  - little
-  - russia
 - - old
   - russian
   - woman
+- - others
+  - little
+  - russia
 - - against
   - her
   - daughter

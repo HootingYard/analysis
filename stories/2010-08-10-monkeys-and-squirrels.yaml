@@ -5,36 +5,36 @@ ngrams:
 - - provided
   - emergency
   - medical
+- - deceased
+  - weasel
+  - alas
 - - medical
   - assistance
   - despite
 - - recently
   - deceased
   - weasel
-- - deceased
-  - weasel
-  - alas
-- - maimed
-  - flying
-  - squirrel
-- - news
-  - signally
-  - fails
 - - macaque
   - monkey
   - scampering
-- - insight
-  - news
+- - maimed
+  - flying
+  - squirrel
+- - japanese
+  - macaque
+  - monkey
+- - japanese
+  - macaque
+  - monkey
+- - news
   - signally
+  - fails
 - - flying
   - squirrel
   - insight
-- - japanese
-  - macaque
-  - monkey
-- - japanese
-  - macaque
-  - monkey
+- - insight
+  - news
+  - signally
 - - tull
   - song
   - lyric
@@ -48,23 +48,23 @@ ngrams:
   - lane
   - bypass
 - - squirrel
-  - insight
-  - news
-- - squirrel
   - sanctuary
   - close
 - - squirrel
-  - blood
-  - dripping
+  - insight
+  - news
 - - monkey
   - flying
   - squirrel
-- - small
-  - japanese
-  - macaque
+- - squirrel
+  - blood
+  - dripping
 - - collective
   - title
   - various
+- - small
+  - japanese
+  - macaque
 - - small
   - wounded
   - animals
@@ -86,96 +86,99 @@ ngrams:
 - - shallow
   - grave
   - every
-- - told
-  - marigold
-  - chew
 - - squirrel
   - sanctuary
   - while
+- - told
+  - marigold
+  - chew
 - - title
   - various
   - things
 - - monkey
   - scampering
   - away
-- - fence
-  - dobson
-  - chanced
-- - perimeter
-  - fence
-  - dobson
 - - written
   - possibly
   - because
 - - wounded
   - animals
   - after
+- - fence
+  - dobson
+  - chanced
+- - perimeter
+  - fence
+  - dobson
+- - must
+  - quite
+  - frankly
 - - down
   - applied
   - liniment
 - - knelt
   - down
   - applied
-- - must
-  - quite
-  - frankly
-- - ever
-  - written
-  - possibly
 - - department
   - stores
   - where
+- - ever
+  - written
+  - possibly
 - - rain
   - imprecations
   - down
-- - brick
-  - its
-  - significance
 - - never
   - got
   - round
+- - brick
+  - its
+  - significance
 - - never
   - told
   - marigold
 - - pamphleteer
   - put
   - two
-- - her
-  - recently
-  - deceased
-- - replace
-  - her
-  - recently
 - - rather
   - than
   - typeset
 - - printed
   - rather
   - than
-- - winkle
-  - some
-  - meaning
-- - read
-  - dobson
-  - today
+- - her
+  - recently
+  - deceased
+- - replace
+  - her
+  - recently
 - - grave
   - every
   - day
+- - winkle
+  - some
+  - meaning
 - - maimed
   - after
   - being
-- - accompanies
-  - has
-  - eluded
 - - after
   - being
   - pursued
+- - read
+  - dobson
+  - today
+- - accompanies
+  - has
+  - eluded
 - - painstaking
   - research
   - has
 - - research
   - has
   - shown
+- - together
+  - then
+  - quite
 - - did
   - dobson
   - apply
@@ -188,30 +191,27 @@ ngrams:
 - - dobson
   - chanced
   - upon
-- - together
-  - then
-  - quite
-- - him
-  - last
-  - saturday
-- - has
-  - eluded
-  - every
-- - needed
-  - him
-  - last
-- - absolutely
-  - factual
-  - what
 - - imprecations
   - down
   - upon
 - - down
   - upon
   - puppies
+- - absolutely
+  - factual
+  - what
+- - much
+  - more
+  - likely
+- - has
+  - eluded
+  - every
 - - factual
   - what
   - happened
+- - him
+  - last
+  - saturday
 story:
   date: 2010-08-10
   id: 2010-08-10-monkeys-and-squirrels

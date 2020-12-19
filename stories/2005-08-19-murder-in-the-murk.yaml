@@ -35,15 +35,18 @@ ngrams:
 - - red
   - yellow
   - green
+- - however
+  - chlorine
+  - winslow
 - - dobson's
   - pamphlets
   - murder
 - - yellow
   - green
   - blue
-- - however
-  - chlorine
-  - winslow
+- - winslow's
+  - prose
+  - particularly
 - - six
   - hats
   - system
@@ -53,51 +56,48 @@ ngrams:
 - - large
   - red
   - yellow
-- - winslow's
-  - prose
-  - particularly
+- - both
+  - chocolate
+  - swiss
 - - detective
   - invariably
   - known
 - - boof
   - boof
   - himself
-- - both
-  - chocolate
-  - swiss
-- - called
-  - invisible
-  - detective
 - - prose
   - however
   - chlorine
 - - leaden
   - prose
   - however
+- - called
+  - invisible
+  - detective
 - - buried
   - library
   - under
 - - winslow
   - gives
   - each
-- - murdering
-  - many
-  - winslow
 - - berserk
   - murdering
   - many
+- - murdering
+  - many
+  - winslow
 - - many
   - operas
   - opera
 - - many
   - winslow
   - gives
-- - cowpoke
-  - poultry
-  - man
 - - get
   - sidetracked
   - perhaps
+- - cowpoke
+  - poultry
+  - man
 - - page
   - after
   - page
@@ -107,84 +107,84 @@ ngrams:
 - - probably
   - know
   - winslow
-- - invariably
-  - known
-  - only
 - - callow
   - alas
   - like
+- - invariably
+  - known
+  - only
 - - its
   - title
   - indicates
-- - particularly
-  - her
-  - dialogue
 - - time
   - boof
   - visited
-- - her
-  - leaden
-  - prose
 - - alas
   - like
   - dobson's
 - - like
   - dobson's
   - pamphlets
-- - managers
-  - implored
-  - him
 - - may
   - remember
   - reading
+- - her
+  - leaden
+  - prose
+- - particularly
+  - her
+  - dialogue
+- - managers
+  - implored
+  - him
 - - detective
   - some
   - critics
-- - prose
-  - particularly
-  - her
 - - invisible
   - detective
   - some
+- - prose
+  - particularly
+  - her
 - - after
   - page
   - just
-- - her
-  - most
-  - famous
 - - thrills
   - pile
   - up
-- - mist
-  - her
-  - most
 - - never
   - went
   - back
 - - pile
   - up
   - page
-- - write
-  - another
-  - time
 - - can
   - wait
   - because
-- - page
-  - just
-  - like
+- - write
+  - another
+  - time
+- - her
+  - most
+  - famous
+- - mist
+  - her
+  - most
 - - birdseed
   - preferences
   - about
+- - page
+  - just
+  - like
 - - went
   - back
   - even
 - - meringue
   - pie
   - about
-- - preferences
+- - hats
+  - system
   - about
-  - six
 story:
   date: 2005-08-19
   id: 2005-08-19-murder-in-the-murk

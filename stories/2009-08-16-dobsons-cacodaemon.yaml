@@ -5,12 +5,12 @@ ngrams:
 - - voluminous
   - diaries
   - occasionally
-- - devil
-  - figure
-  - brandishing
 - - startling
   - opening
   - sentence
+- - devil
+  - figure
+  - brandishing
 - - spit
   - fork
   - usually
@@ -26,18 +26,18 @@ ngrams:
 - - drizzly
   - april
   - morning
-- - april
-  - morning
-  - doings
 - - fork
   - usually
   - done
-- - writes
-  - marigold
-  - chew
+- - april
+  - morning
+  - doings
 - - marigold
   - chew
   - surely
+- - writes
+  - marigold
+  - chew
 - - without
   - additional
   - written
@@ -47,9 +47,6 @@ ngrams:
 - - itself
   - bringing
   - himself
-- - unearthly
-  - sheen
-  - dobson
 - - pointy
   - stick
   - against
@@ -59,27 +56,27 @@ ngrams:
 - - times
   - further
   - light
-- - sheen
-  - dobson
-  - gives
 - - those
   - enigmatic
   - symbols
+- - unearthly
+  - sheen
+  - dobson
 - - deciphered
   - after
   - decades
 - - wider
   - world
   - nor
-- - study
-  - group
-  - dobson
 - - wrote
   - indeed
   - certain
 - - never
   - mentioned
   - elsewhere
+- - sheen
+  - dobson
+  - gives
 - - merely
   - shimmers
   - before
@@ -89,18 +86,33 @@ ngrams:
 - - wring
   - any
   - meaning
-- - dobson
-  - itself
-  - alas
+- - study
+  - group
+  - dobson
 - - happily
   - acknowledged
   - even
-- - pamphleteer
-  - peers
-  - down
 - - study
   - dobson's
   - head
+- - dobson
+  - itself
+  - alas
+- - pamphleteer
+  - peers
+  - down
+- - its
+  - unearthly
+  - sheen
+- - dull
+  - its
+  - unearthly
+- - nor
+  - how
+  - terrible
+- - than
+  - anyone
+  - else
 - - significant
   - dobson
   - does
@@ -108,77 +120,65 @@ ngrams:
   - dobson
   - itself
 - - its
-  - unearthly
-  - sheen
+  - startling
+  - opening
 - - print
   - pamphleteer
   - dobson
-- - dull
-  - its
-  - unearthly
-- - knew
-  - dobson
-  - better
 - - diaries
   - occasionally
   - like
-- - nor
-  - how
-  - terrible
-- - its
-  - startling
-  - opening
-- - than
-  - anyone
-  - else
-- - ever
-  - wrote
-  - indeed
-- - pours
-  - more
-  - bleach
 - - better
   - than
   - anyone
-- - those
-  - times
-  - further
+- - pours
+  - more
+  - bleach
 - - making
   - demands
   - upon
+- - ever
+  - wrote
+  - indeed
 - - rag
   - pours
   - more
-- - itself
-  - alas
-  - now
+- - knew
+  - dobson
+  - better
 - - upon
   - itself
   - bringing
+- - those
+  - times
+  - further
 - - rather
   - than
   - gloss
 - - matt
   - rather
   - than
-- - nickname
-  - aligning
-  - him
+- - itself
+  - alas
+  - now
 - - find
   - any
   - reference
+- - nickname
+  - aligning
+  - him
 - - scholars
   - has
   - difficulty
 - - halt
   - just
   - before
-- - others
-  - has
-  - recommended
 - - time
   - without
   - additional
+- - others
+  - has
+  - recommended
 - - their
   - significance
   - revealed
@@ -191,105 +191,102 @@ ngrams:
 - - tell
   - us
   - where
+- - then
+  - recounts
+  - how
+- - head
+  - its
+  - innards
 - - woman
   - who
   - knew
+- - dobson
+  - better
+  - than
 - - among
   - others
   - has
 - - dobson
-  - better
-  - than
-- - then
-  - recounts
-  - how
-- - dobson
   - then
   - recounts
-- - head
-  - its
-  - innards
-- - group
-  - dobson
-  - then
-- - scholarship
-  - were
-  - flimsy
 - - various
   - absurdities
   - what
+- - scholarship
+  - were
+  - flimsy
+- - group
+  - dobson
+  - then
 - - dobson's
   - head
   - its
 - - world
   - nor
   - do
-- - like
-  - other
-  - indefatigable
-- - thing
-  - who
-  - knew
-- - dobson
-  - scholars
-  - has
 - - its
   - impact
   - upon
 - - prose
   - were
   - paint
+- - thing
+  - who
+  - knew
+- - like
+  - other
+  - indefatigable
+- - whole
+  - thing
+  - up
 - - occasionally
   - like
   - other
 - - shimmers
   - before
   - him
-- - whole
-  - thing
-  - up
+- - dobson
+  - scholars
+  - has
 - - him
   - after
   - breakfast
-- - who
-  - knew
-  - dobson
-- - who
-  - knew
-  - dobson
 - - him
   - nor
   - how
-- - can
-  - conclude
-  - she
 - - demands
   - upon
   - him
+- - can
+  - conclude
+  - she
+- - who
+  - knew
+  - dobson
+- - who
+  - knew
+  - dobson
 - - been
   - deciphered
   - after
+- - anyone
+  - else
+  - would
 - - 'no'
-  - back
-  - story
+  - such
+  - invitation
 - - further
   - light
   - will
 - - 'no'
-  - such
-  - invitation
+  - back
+  - story
 - - preposterous
   - about
   - dobson
 - - us
   - where
   - she
-- - anyone
-  - else
-  - would
-- - she
-  - has
-  - gone
 - - ink
   - which
   - appears
@@ -299,27 +296,30 @@ ngrams:
 - - been
   - its
   - impact
-- - ask
-  - if
-  - dobson
+- - she
+  - has
+  - gone
 - - certain
   - passages
   - are
-- - she
-  - did
-  - know
-- - before
-  - him
-  - after
+- - ask
+  - if
+  - dobson
 - - if
   - heard
   - through
-- - tell
-  - us
-  - all
+- - before
+  - him
+  - after
+- - she
+  - did
+  - know
 - - pamphlet
   - even
   - when
+- - tell
+  - us
+  - all
 - - alas
   - now
   - out

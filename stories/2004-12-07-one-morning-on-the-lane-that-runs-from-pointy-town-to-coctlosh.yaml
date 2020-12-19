@@ -29,24 +29,24 @@ ngrams:
 - - hopkins
   - father
   - hopkins
-- - four
-  - disorders
-  - impetigo
 - - hopkins
   - s
   - j
-- - suddenly
-  - father
-  - hopkins
 - - jesuit
   - priest
   - sitting
-- - fatal
-  - four
+- - suddenly
+  - father
+  - hopkins
+- - four
   - disorders
+  - impetigo
 - - school
   - suddenly
   - father
+- - fatal
+  - four
+  - disorders
 - - falcon
   - flew
   - past
@@ -92,21 +92,21 @@ ngrams:
 - - nearly
   - fell
   - 'off'
-- - these
-  - four
-  - disorders
 - - head
   - pining
   - continued
+- - these
+  - four
+  - disorders
 - - monstrous
   - proportions
   - could
-- - shoulder
-  - how
-  - far
 - - thy
   - more
   - boisterous
+- - shoulder
+  - how
+  - far
 - - initiative
   - till
   - time
@@ -134,27 +134,27 @@ ngrams:
 - - dead
   - then
   - said
-- - shouting
-  - all
-  - thy
-- - duty
-  - all
-  - ended
 - - hopkins
   - tapped
   - me
+- - duty
+  - all
+  - ended
+- - shouting
+  - all
+  - thy
 - - words
   - were
   - yelled
-- - little
-  - primer
-  - when
 - - yelled
   - so
   - loudly
-- - wondered
-  - about
-  - these
+- - little
+  - primer
+  - when
+- - boisterous
+  - years
+  - when
 story:
   date: 2004-12-07
   id: 2004-12-07-one-morning-on-the-lane-that-runs-from-pointy-town-to-coctlosh

@@ -11,45 +11,45 @@ ngrams:
 - - verdant
   - parkland
   - mopping
-- - soft
-  - plush
-  - cushions
 - - boundless
   - fraternal
   - devotion
+- - soft
+  - plush
+  - cushions
 - - jet
   - fighters
   - swooping
 - - vile
   - border
   - outpost
-- - innumerable
-  - soft
-  - plush
 - - '''s'
   - official
   - classification
-- - finally
-  - collapsed
+- - innumerable
+  - soft
+  - plush
+- - double
+  - kings
   - umberto
 - - official
   - idiot
   - classification
-- - double
-  - kings
+- - finally
+  - collapsed
   - umberto
 - - idiot
   - deemed
   - suitable
-- - bleak
-  - vile
-  - border
-- - fighters
-  - swooping
-  - low
 - - maternal
   - songs
   - ricocheting
+- - fighters
+  - swooping
+  - low
+- - bleak
+  - vile
+  - border
 - - swooping
   - low
   - overhead
@@ -59,24 +59,24 @@ ngrams:
 - - classification
   - system
   - obtaining
-- - sudden
-  - thunderstorm
-  - mama
 - - idiot
   - classification
   - system
-- - horrible
-  - maternal
-  - songs
+- - sudden
+  - thunderstorm
+  - mama
 - - songs
   - ricocheting
   - forever
-- - parting
-  - happened
-  - unexpectedly
+- - horrible
+  - maternal
+  - songs
 - - picnic
   - blanket
   - deafened
+- - parting
+  - happened
+  - unexpectedly
 - - ricocheting
   - forever
   - inside
@@ -89,24 +89,30 @@ ngrams:
 - - land
   - idiotically
   - chained
+- - fuddled
+  - bureaucracy
+  - several
 - - pitting
   - spiders
   - against
+- - bureaucracy
+  - several
+  - doctors
 - - writing
   - opinion
   - pieces
 - - hasty
   - potato
   - print
-- - fuddled
-  - bureaucracy
-  - several
-- - bureaucracy
-  - several
-  - doctors
 - - happened
   - unexpectedly
   - during
+- - post
+  - office
+  - floor
+- - axe
+  - having
+  - wiped
 - - march
   - morning
   - cavorting
@@ -116,33 +122,27 @@ ngrams:
 - - fateful
   - march
   - morning
-- - post
-  - office
-  - floor
 - - windy
   - march
   - morning
-- - axe
-  - having
-  - wiped
-- - left
-  - behind
-  - drooling
 - - birds
   - including
   - linnets
-- - psychotic
-  - knew
-  - nothing
 - - good
   - woman
   - sang
-- - long
-  - insanitary
-  - decades
+- - psychotic
+  - knew
+  - nothing
+- - left
+  - behind
+  - drooling
 - - reader's
   - digest
   - every
+- - long
+  - insanitary
+  - decades
 - - last
   - legs
   - umberto
@@ -155,15 +155,15 @@ ngrams:
 - - most
   - effective
   - treatment
+- - postage
+  - stamps
+  - well
 - - long
   - corridors
   - sitting
 - - four
   - times
   - during
-- - postage
-  - stamps
-  - well
 - - spiders
   - against
   - each
@@ -173,6 +173,9 @@ ngrams:
 - - official
   - classification
   - after
+- - mama
+  - though
+  - perhaps
 - - fed
   - very
   - occasionally
@@ -185,24 +188,21 @@ ngrams:
 - - border
   - outpost
   - where
-- - mama
-  - though
-  - perhaps
+- - such
+  - murderous
+  - techniques
 - - those
   - mad
   - horrible
 - - years
   - later
   - chained
-- - god
-  - help
-  - us
-- - such
-  - murderous
-  - techniques
 - - day
   - entire
   - flocks
+- - god
+  - help
+  - us
 - - like
   - baruch
   - spinoza
@@ -221,36 +221,33 @@ ngrams:
 - - digest
   - every
   - day
-- - some
-  - postage
-  - stamps
 - - classification
   - after
   - years
 - - every
   - day
   - entire
-- - combat
-  - ignatz
-  - has
-- - bought
-  - some
+- - some
   - postage
-- - reached
-  - him
-  - via
+  - stamps
 - - then
   - word
   - reached
-- - its
-  - last
-  - legs
+- - bought
+  - some
+  - postage
+- - combat
+  - ignatz
+  - has
+- - reached
+  - him
+  - via
 - - those
   - very
   - songs
-- - ignatz
-  - has
-  - taken
+- - its
+  - last
+  - legs
 - - parkland
   - mopping
   - up
@@ -263,93 +260,99 @@ ngrams:
 - - their
   - puppet
   - leader
-- - word
-  - reached
-  - him
-- - don't
-  - know
-  - how
 - - mopping
   - up
   - filth
+- - don't
+  - know
+  - how
+- - ignatz
+  - has
+  - taken
 - - chained
   - up
   - sprawled
+- - ever
+  - more
+  - heinous
+- - word
+  - reached
+  - him
 - - against
   - each
   - other
 - - their
   - parting
   - happened
-- - ever
-  - more
-  - heinous
 - - steal
   - them
   - having
-- - been
-  - parted
-  - since
 - - helicoptered
   - into
   - exile
-- - later
-  - chained
-  - up
-- - bucolic
-  - glory
-  - when
-- - other
-  - such
-  - murderous
 - - tunes
   - if
   - tunes
+- - bucolic
+  - glory
+  - when
+- - been
+  - parted
+  - since
+- - later
+  - chained
+  - up
+- - other
+  - such
+  - murderous
 - - indeed
   - their
   - tunes
 - - office
   - floor
   - what
-- - yet
-  - like
-  - us
-- - him
-  - nor
-  - indeed
 - - pap
   - such
   - then
-- - know
-  - how
-  - many
-- - dropping
-  - dead
-  - out
-- - slobber
-  - over
-  - him
-- - time
+- - him
+  - nor
+  - indeed
+- - yet
   - like
-  - baruch
+  - us
 - - much
   - buy
   - them
-- - brain
-  - she
-  - did
+- - dropping
+  - dead
+  - out
+- - know
+  - how
+  - many
+- - time
+  - like
+  - baruch
+- - slobber
+  - over
+  - him
 - - nor
   - indeed
   - their
-- - parted
-  - since
-  - they
 - - vowed
   - if
   - once
+- - parted
+  - since
+  - they
+- - brain
+  - she
+  - did
 - - them
   - having
   - first
+- - convenience
+  - we
+  - shall
 - - are
   - coherent
   - conversations
@@ -359,48 +362,48 @@ ngrams:
 - - precisely
   - which
   - classification
-- - convenience
-  - we
-  - shall
 - - regarding
   - precisely
   - which
-- - are
-  - dropping
-  - dead
-- - only
-  - been
-  - able
 - - we
   - shall
   - call
+- - are
+  - dropping
+  - dead
 - - perhaps
   - we
   - ought
+- - only
+  - been
+  - able
+- - delude
+  - myself
+  - are
 - - anarchy
   - an
   - ideal
 - - an
   - ideal
   - playground
-- - birds
-  - are
-  - dropping
-- - delude
-  - myself
-  - are
 - - myself
   - are
   - coherent
+- - birds
+  - are
+  - dropping
+- - granted
+  - an
+  - audience
 - - turns
   - up
   - some
 - - chopped
   - him
   - up
-- - granted
-  - an
-  - audience
+- - though
+  - perhaps
+  - we
 - - wherever
   - one
   - looks
@@ -410,9 +413,15 @@ ngrams:
 - - this
   - windy
   - march
-- - though
-  - perhaps
-  - we
+- - so
+  - much
+  - buy
+- - an
+  - axe
+  - having
+- - least
+  - one
+  - bid
 - - council
   - had
   - freed
@@ -422,18 +431,9 @@ ngrams:
 - - regime
   - had
   - finally
-- - had
-  - finally
-  - collapsed
-- - an
-  - axe
-  - having
-- - serial
-  - killer
-  - had
-- - so
-  - much
-  - buy
+- - head
+  - which
+  - bore
 story:
   date: 2012-01-18
   id: 2012-01-18-on-babinskys-idiot-half-brother

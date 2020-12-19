@@ -5,12 +5,12 @@ ngrams:
 - - calm
   - eerily
   - calm
-- - deleted
-  - items
-  - reinstated
 - - lips
   - pursed
   - emitting
+- - deleted
+  - items
+  - reinstated
 - - sideboard
   - drawer
   - mother's
@@ -20,12 +20,12 @@ ngrams:
 - - glad
   - mother
   - crossed
-- - drawer
-  - mother's
-  - pencil
 - - diary
   - returned
   - mother's
+- - drawer
+  - mother's
+  - pencil
 - - returned
   - mother's
   - pencil
@@ -38,15 +38,15 @@ ngrams:
 - - affectionate
   - towards
   - eastern
-- - devoted
-  - six
-  - decades
-- - towards
-  - eastern
-  - europe
 - - past
   - infraction
   - committed
+- - towards
+  - eastern
+  - europe
+- - devoted
+  - six
+  - decades
 - - plan
   - mother
   - looked
@@ -92,9 +92,6 @@ ngrams:
 - - mad
   - old
   - bat
-- - made
-  - thursday
-  - afternoon
 - - ever
   - ask
   - mother
@@ -107,9 +104,12 @@ ngrams:
 - - certainly
   - never
   - needed
-- - mother
-  - first
-  - lay
+- - made
+  - thursday
+  - afternoon
+- - ants
+  - than
+  - horace
 - - list
   - shortly
   - after
@@ -119,9 +119,9 @@ ngrams:
 - - ever
   - having
   - encountered
-- - ants
-  - than
-  - horace
+- - mother
+  - first
+  - lay
 - - diary
   - years
   - ago
@@ -131,15 +131,6 @@ ngrams:
 - - asked
   - myself
   - because
-- - her
-  - scratchings
-  - rewritten
-- - ignored
-  - her
-  - scratchings
-- - prompted
-  - her
-  - disapproval
 - - wring
   - any
   - sense
@@ -149,21 +140,45 @@ ngrams:
 - - mother
   - looked
   - over
-- - straw
-  - she
-  - peered
-- - she
-  - recently
-  - ingested
-- - cause
-  - her
-  - grief
 - - need
   - never
   - hear
 - - its
   - likely
   - duration
+- - nor
+  - wring
+  - any
+- - her
+  - scratchings
+  - rewritten
+- - prompted
+  - her
+  - disapproval
+- - ignored
+  - her
+  - scratchings
+- - straw
+  - she
+  - peered
+- - ever
+  - visited
+  - these
+- - she
+  - recently
+  - ingested
+- - am
+  - gradually
+  - working
+- - cause
+  - her
+  - grief
+- - make
+  - those
+  - visits
+- - without
+  - ever
+  - having
 - - park
   - her
   - grave
@@ -173,225 +188,210 @@ ngrams:
 - - understand
   - her
   - reply
-- - ever
-  - visited
-  - these
-- - nor
-  - wring
-  - any
-- - worms
-  - got
-  - her
-- - make
-  - those
-  - visits
-- - without
-  - ever
-  - having
-- - am
-  - gradually
-  - working
-- - same
-  - park
-  - her
-- - first
-  - place
-  - quite
-- - her
-  - grave
-  - set
 - - grave
   - set
   - upon
+- - first
+  - place
+  - quite
+- - worms
+  - got
+  - her
 - - little
   - hillock
   - where
-- - times
-  - she
-  - used
 - - do
   - anything
   - else
+- - am
+  - sure
+  - mother
+- - am
+  - rather
+  - glad
+- - same
+  - park
+  - her
 - - some
   - past
   - infraction
 - - faraway
   - japan
   - 'no'
-- - am
-  - sure
-  - mother
 - - years
   - without
   - ever
-- - made
-  - any
-  - notes
+- - her
+  - grave
+  - set
 - - never
   - did
   - pursue
-- - am
-  - rather
-  - glad
-- - ask
-  - mother
-  - who
+- - times
+  - she
+  - used
+- - made
+  - any
+  - notes
 - - did
   - pursue
   - those
-- - japan
-  - 'no'
-  - doubt
 - - never
   - hear
   - any
+- - japan
+  - 'no'
+  - doubt
+- - ask
+  - mother
+  - who
 - - could
   - never
   - interpret
-- - let
-  - her
-  - read
 - - planet
   - wondering
   - what
-- - list
-  - through
-  - her
-- - usually
-  - after
-  - she
 - - mother
   - what
   - prompted
-- - egg
-  - she
-  - might
 - - ask
   - mother
   - what
+- - egg
+  - she
+  - might
+- - let
+  - her
+  - read
+- - usually
+  - after
+  - she
+- - collect
+  - even
+  - more
 - - crows
   - when
   - mother
+- - even
+  - more
+  - ants
 - - hear
   - any
   - other
+- - more
+  - ants
+  - than
 - - mother
   - scratched
   - out
+- - list
+  - through
+  - her
 - - wondering
   - what
   - word
 - - never
   - did
   - find
-- - collect
-  - even
-  - more
-- - even
-  - more
-  - ants
-- - more
-  - ants
-  - than
-- - such
-  - times
-  - she
-- - her
-  - pencil
-  - she
-- - then
-  - allowing
-  - her
-- - take
-  - your
-  - pick
-- - never
-  - made
-  - any
-- - ever
-  - been
-  - granted
 - - heard
   - more
   - than
+- - never
+  - made
+  - any
+- - such
+  - times
+  - she
 - - more
   - than
   - enough
+- - take
+  - your
+  - pick
+- - ever
+  - been
+  - granted
+- - then
+  - allowing
+  - her
 - - something
   - particular
   - about
 - - ask
   - myself
   - if
+- - find
+  - out
+  - exactly
+- - part
+  - incoherent
+  - there
+- - her
+  - pencil
+  - she
 - - whatever
   - they
   - call
 - - always
   - answered
   - me
-- - what
-  - made
-  - thursday
-- - find
-  - out
-  - exactly
 - - stopped
   - me
   - going
-- - part
-  - incoherent
-  - there
+- - what
+  - made
+  - thursday
 - - park
   - so
   - decisive
-- - which
-  - mother
-  - scratched
-- - word
-  - they
-  - use
 - - sure
   - mother
   - would
 - - ride
   - perhaps
   - there
+- - word
+  - they
+  - use
 - - when
   - mother
   - first
-- - list
-  - which
+- - which
   - mother
+  - scratched
+- - something
+  - would
+  - cause
 - - perhaps
   - they
   - call
 - - me
   - remember
   - why
-- - something
-  - would
-  - cause
-- - what
-  - prompted
-  - her
-- - exactly
-  - what
-  - she
+- - list
+  - which
+  - mother
 - - an
   - ocean
   - voyage
-- - her
-  - babblings
-  - were
-- - which
-  - birds
-  - perched
+- - would
+  - sometimes
+  - go
 - - recently
   - ingested
   - an
+- - what
+  - prompted
+  - her
 - - ingested
   - an
   - egg
+- - exactly
+  - what
+  - she
+- - which
+  - birds
+  - perched
 - - boil
   - an
   - egg
@@ -401,36 +401,36 @@ ngrams:
 - - eaten
   - an
   - egg
-- - would
-  - sometimes
-  - go
-- - this
-  - tingling
-  - planet
 - - first
   - lay
   - there
+- - this
+  - tingling
+  - planet
 - - lay
   - there
   - before
+- - her
+  - babblings
+  - were
 - - servants
   - so
   - many
-- - made
-  - me
-  - take
-- - had
-  - pleasant
-  - dreams
 - - are
   - pretty
   - much
-- - she
-  - would
-  - stab
+- - made
+  - me
+  - take
 - - did
   - find
   - out
+- - had
+  - pleasant
+  - dreams
+- - she
+  - would
+  - stab
 story:
   date: 2012-03-18
   id: 2012-03-18-on-bravura-bunkum

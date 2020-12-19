@@ -41,12 +41,12 @@ ngrams:
 - - or
   - cabbage
   - cream
-- - four
-  - or
-  - five
 - - or
   - five
   - times
+- - four
+  - or
+  - five
 - - cream
   - be
   - laid
@@ -59,15 +59,15 @@ ngrams:
 - - be
   - very
   - thin
-- - every
-  - laying
-  - you
 - - from
   - creaming
   - then
 - - you
   - must
   - scour
+- - every
+  - laying
+  - you
 story:
   date: 2004-01-01
   id: 2004-01-01-todays-recipe

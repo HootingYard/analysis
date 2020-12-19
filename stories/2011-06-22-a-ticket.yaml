@@ -5,27 +5,27 @@ ngrams:
 - - puzzles
   - kinetic
   - sculptures
-- - maidens
-  - jigsaw
-  - puzzles
-- - albinos
-  - bloating
-  - crises
 - - kinetic
   - sculptures
   - lemonade
+- - albinos
+  - bloating
+  - crises
+- - maidens
+  - jigsaw
+  - puzzles
 - - harris
   - douglas
   - bader
 - - rolf
   - harris
   - douglas
-- - nixon
-  - dungeness
-  - moths
 - - emulate
   - spandau
   - ballet
+- - nixon
+  - dungeness
+  - moths
 - - flotillas
   - grease
   - hens
@@ -35,36 +35,36 @@ ngrams:
 - - ice
   - maidens
   - jigsaw
-- - bloating
-  - crises
-  - six
 - - hens
   - ice
   - maidens
+- - bloating
+  - crises
+  - six
 - - grease
   - hens
   - ice
 - - fortune
   - you've
   - got
-- - open
-  - country
-  - overlying
 - - shrieked
   - almost
   - vomiting
+- - open
+  - country
+  - overlying
 - - politician
   - john
   - s
 - - john
   - s
   - wold
-- - special
-  - field
-  - buster
 - - fond
   - hope
   - eventually
+- - special
+  - field
+  - buster
 - - good
   - fortune
   - you've
@@ -86,42 +86,42 @@ ngrams:
 - - indeed
   - young
   - whippersnapper
-- - little
-  - runic
-  - symbol
 - - hope
   - eventually
   - having
-- - fall
-  - due
-  - because
+- - little
+  - runic
+  - symbol
 - - well
   - that's
   - obvious
+- - fall
+  - due
+  - because
 - - clear
   - sitting
   - next
-- - own
-  - special
-  - field
 - - counter
   - however
   - because
-- - vomiting
-  - too
-  - right
+- - own
+  - special
+  - field
 - - many
   - distractions
   - apart
+- - vomiting
+  - too
+  - right
 - - after
   - poring
   - pointlessly
-- - buster
-  - after
-  - poring
 - - almost
   - vomiting
   - too
+- - buster
+  - after
+  - poring
 - - question
   - well
   - that's
@@ -138,11 +138,11 @@ ngrams:
   - buster
   - after
 - - like
-  - nixon
-  - dungeness
-- - like
   - spandau
   - ballet
+- - like
+  - nixon
+  - dungeness
 - - ticket
   - like
   - spandau
@@ -152,36 +152,36 @@ ngrams:
 - - whole
   - week
   - before
-- - number
-  - like
-  - nixon
 - - living
   - rather
   - than
+- - number
+  - like
+  - nixon
 - - paid
   - more
   - attention
+- - tiny
+  - misprint
+  - could
 - - swedish
   - statistician
   - who
 - - norwegian
   - politician
   - who
-- - tiny
-  - misprint
-  - could
+- - cost
+  - rather
+  - more
+- - hours
+  - upon
+  - end
 - - politician
   - who
   - died
 - - statistician
   - who
   - met
-- - hours
-  - upon
-  - end
-- - cost
-  - rather
-  - more
 - - spandau
   - ballet
   - into
@@ -191,45 +191,42 @@ ngrams:
 - - clear
   - when
   - unexpectedly
-- - man
-  - who
-  - sold
 - - cast
   - into
   - black
-- - going
-  - into
-  - details
-- - unexpectedly
-  - all
-  - became
 - - become
   - clear
   - when
 - - denmark
   - would
   - cost
+- - going
+  - into
+  - details
+- - man
+  - who
+  - sold
 - - more
   - than
   - going
+- - unexpectedly
+  - all
+  - became
 - - needs
   - must
   - when
-- - things
-  - were
-  - looking
-- - all
-  - became
-  - clear
 - - rather
   - more
   - than
 - - luckier
   - still
   - if
-- - specify
-  - which
-  - wold
+- - things
+  - were
+  - looking
+- - all
+  - became
+  - clear
 - - devil
   - drives
   - so
@@ -242,6 +239,15 @@ ngrams:
 - - look
   - surely
   - there
+- - specify
+  - which
+  - wold
+- - would
+  - cost
+  - rather
+- - would
+  - become
+  - clear
 - - down
   - 'no'
   - further
@@ -251,12 +257,6 @@ ngrams:
 - - thought
   - things
   - were
-- - would
-  - become
-  - clear
-- - would
-  - cost
-  - rather
 - - surely
   - there
   - must
@@ -266,21 +266,18 @@ ngrams:
 - - however
   - because
   - there
-- - an
-  - intractable
-  - order
 - - there
   - ever
   - since
-- - so
-  - many
-  - distractions
+- - an
+  - intractable
+  - order
 - - so
   - much
   - harris
-- - had
-  - actually
-  - bought
+- - so
+  - many
+  - distractions
 - - lincolnshire
   - wolds
   - or
@@ -290,24 +287,27 @@ ngrams:
 - - lincolnshire
   - or
   - yorkshire
-- - norway
-  - or
-  - sweden
 - - sweden
   - or
   - denmark
-- - made
-  - an
-  - appointment
+- - norway
+  - or
+  - sweden
 - - limestone
   - or
   - chalk
-- - much
-  - an
-  - aficionado
 - - states
   - or
   - norway
+- - united
+  - states
+  - or
+- - american
+  - composer
+  - or
+- - s
+  - wold
+  - or
 story:
   date: 2011-06-22
   id: 2011-06-22-a-ticket

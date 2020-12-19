@@ -2,15 +2,15 @@ ngrams:
 - - incomplete
   - samuel
   - taylor
-- - samuel
-  - taylor
-  - coleridge
-- - samuel
-  - taylor
-  - coleridge
 - - hammering
   - wheezing
   - snorting
+- - samuel
+  - taylor
+  - coleridge
+- - samuel
+  - taylor
+  - coleridge
 - - banging
   - hammering
   - wheezing
@@ -47,39 +47,39 @@ ngrams:
 - - octogenarian
   - film
   - director
-- - ringo
-  - starr
-  - right
 - - lengthy
   - poem
   - clear
-- - taylor
-  - coleridge
-  - left
+- - ringo
+  - starr
+  - right
 - - film
   - director
   - james
 - - mind
   - famously
   - beginning
+- - taylor
+  - coleridge
+  - left
 - - returned
   - oddly
   - enough
-- - famous
-  - occasion
-  - dobson
 - - never
   - returned
   - oddly
+- - famous
+  - occasion
+  - dobson
+- - coleridge
+  - got
+  - back
 - - dobson
   - actually
   - travelled
 - - occasion
   - dobson
   - actually
-- - coleridge
-  - got
-  - back
 - - pod
   - person
   - many
@@ -107,12 +107,12 @@ ngrams:
 - - can
   - only
   - guess
-- - him
-  - being
-  - taken
 - - pamphleteer
   - carried
   - out
+- - him
+  - being
+  - taken
 - - police
   - were
   - called

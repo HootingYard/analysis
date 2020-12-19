@@ -11,15 +11,15 @@ ngrams:
 - - wife
   - gazes
   - abstractedly
-- - ed
-  - william
-  - maxwell
 - - especially
   - neat
   - charming
 - - warner
   - ed
   - william
+- - ed
+  - william
+  - maxwell
 - - sing
   - lutheran
   - hymns
@@ -35,15 +35,15 @@ ngrams:
 - - matchbox
   - stamps
   - 'yes'
+- - signed
+  - p
+  - s
 - - chambers
   - walls
   - floor
 - - walls
   - floor
   - ceiling
-- - signed
-  - p
-  - s
 - - 'yes'
   - 'yes'
   - menacingly
@@ -59,12 +59,12 @@ ngrams:
 - - 'yes'
   - menacingly
   - too
-- - very
-  - scarlet
-  - muffler
 - - too
   - happy
   - sitting
+- - very
+  - scarlet
+  - muffler
 - - menacingly
   - too
   - often
@@ -74,15 +74,12 @@ ngrams:
 - - enjoy
   - being
   - given
-- - should
-  - enjoy
-  - being
 - - far
   - too
   - happy
-- - some
-  - graceless
-  - comparison
+- - should
+  - enjoy
+  - being
 - - say
   - carried
   - away
@@ -92,84 +89,87 @@ ngrams:
 - - such
   - charming
   - things
-- - artfulness
-  - has
-  - gone
-- - evergreen
-  - while
-  - she
-- - human
-  - artfulness
-  - has
-- - while
-  - she
-  - wonders
+- - some
+  - graceless
+  - comparison
 - - never
   - happened
   - before
+- - artfulness
+  - has
+  - gone
+- - human
+  - artfulness
+  - has
+- - evergreen
+  - while
+  - she
 - - thought
   - how
   - much
-- - opened
-  - your
-  - matchbox
+- - while
+  - she
+  - wonders
 - - norway
   - what
   - pleasure
 - - never
   - seen
   - such
-- - has
-  - never
-  - happened
-- - ceiling
-  - all
-  - wood
+- - opened
+  - your
+  - matchbox
 - - bell
   - calling
   - me
+- - ceiling
+  - all
+  - wood
+- - has
+  - never
+  - happened
 - - floor
   - ceiling
   - all
-- - ever
-  - been
-  - sent
 - - sitting
   - there
   - listening
 - - p
   - s
   - there
+- - ever
+  - been
+  - sent
 - - outside
   - sitting
   - there
-- - into
-  - those
-  - bare
-- - never
-  - been
-  - given
 - - half
   - so
   - convenient
+- - into
+  - those
+  - bare
 - - walk
   - into
   - those
+- - never
+  - been
+  - given
+- - still
+  - sitting
+  - there
 - - an
   - agreeable
   - likeness
 - - been
   - given
   - such
-- - still
-  - sitting
-  - there
-- - gregory
-  - an
-  - empty
 - - an
   - empty
   - matchbox
+- - gregory
+  - an
+  - empty
 - - she
   - wonders
   - if

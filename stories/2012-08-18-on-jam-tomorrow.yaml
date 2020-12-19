@@ -5,12 +5,12 @@ ngrams:
 - - roving
   - goon
   - squads
-- - eric
-  - sykes
-  - statue
 - - hattie
   - jacques
   - memorial
+- - eric
+  - sykes
+  - statue
 - - hattie
   - jacques
   - gazed
@@ -47,12 +47,12 @@ ngrams:
 - - black
   - block
   - capitals
-- - bold
-  - black
-  - block
 - - promised
   - jam
   - today
+- - bold
+  - black
+  - block
 - - mind
   - played
   - tricks
@@ -62,54 +62,54 @@ ngrams:
 - - myself
   - somehow
   - expecting
-- - big
-  - bold
-  - black
-- - hallucination
-  - another
-  - sign
-- - merely
-  - another
-  - hallucination
-- - string
-  - tied
-  - around
-- - grim
-  - yet
-  - puckish
-- - jam
-  - until
-  - tomorrow
 - - several
   - different
   - padlocks
+- - hallucination
+  - another
+  - sign
+- - grim
+  - yet
+  - puckish
+- - merely
+  - another
+  - hallucination
 - - jam
   - several
   - different
+- - jam
+  - until
+  - tomorrow
+- - string
+  - tied
+  - around
+- - big
+  - bold
+  - black
+- - took
+  - several
+  - picnics
 - - old
   - peasants
   - nowadays
 - - face
   - grim
   - yet
-- - took
-  - several
-  - picnics
-- - two
-  - blank
-  - stone
+- - new
+  - peasant
+  - army
+- - new
+  - peasant
+  - army
+- - new
+  - peasant
+  - army
 - - memorial
   - field
   - still
-- - new
-  - peasant
-  - army
-- - new
-  - peasant
-  - army
-- - new
-  - peasant
-  - army
+- - two
+  - blank
+  - stone
 - - orderly
   - queue
   - those
@@ -119,60 +119,57 @@ ngrams:
 - - first
   - flickering
   - sign
-- - exchange
-  - our
-  - coupons
 - - square
   - shortly
   - after
+- - exchange
+  - our
+  - coupons
 - - shortly
   - after
   - dawn
 - - very
   - spot
   - tomorrow
-- - leg
-  - just
-  - above
 - - find
   - myself
   - somehow
+- - leg
+  - just
+  - above
 - - peasants
   - nowadays
   - where
 - - corner
   - where
   - stands
-- - left
-  - leg
-  - just
 - - gazed
   - kindly
   - upon
+- - left
+  - leg
+  - just
 - - peasant
   - how
   - does
-- - four
-  - corners
-  - even
-- - like
-  - gold
-  - dust
 - - next
   - nor
   - indeed
+- - four
+  - corners
+  - even
 - - radios
   - silenced
   - then
+- - like
+  - gold
+  - dust
 - - first
   - few
   - picnics
 - - another
   - day
   - isn't
-- - new
-  - peasant
-  - how
 - - could
   - barely
   - imagine
@@ -182,6 +179,9 @@ ngrams:
 - - corners
   - even
   - though
+- - new
+  - peasant
+  - how
 - - can
   - form
   - orderly
@@ -218,27 +218,33 @@ ngrams:
 - - descent
   - into
   - madness
-- - were
-  - jam
-  - pangs
-- - were
-  - saying
-  - buck
 - - appear
   - miraculously
   - when
+- - were
+  - jam
+  - pangs
 - - make
   - our
   - way
-- - quince
-  - marmalade
-  - will
+- - were
+  - saying
+  - buck
 - - am
   - patted
   - down
+- - quince
+  - marmalade
+  - will
 - - can
   - only
   - conclude
+- - jam
+  - tomorrow
+  - there
+- - shortly
+  - thereafter
+  - we
 - - present
   - climate
   - they
@@ -251,39 +257,33 @@ ngrams:
 - - all
   - four
   - corners
-- - jam
-  - tomorrow
-  - there
-- - shortly
-  - thereafter
-  - we
-- - they
-  - passed
-  - close
 - - can
   - still
   - see
+- - they
+  - passed
+  - close
 - - further
   - depredation
   - they
-- - all
-  - good
-  - citizens
 - - last
   - minute
   - out
+- - all
+  - good
+  - citizens
 - - too
   - were
   - saying
 - - kiosk
   - will
   - take
-- - coupons
-  - are
-  - forgeries
 - - 'no'
   - kiosk
   - did
+- - coupons
+  - are
+  - forgeries
 - - me
   - salivating
   - once
@@ -299,27 +299,30 @@ ngrams:
 - - nor
   - indeed
   - will
-- - grown
-  - so
-  - used
 - - hard
   - so
   - hard
-- - will
-  - take
-  - place
+- - grown
+  - so
+  - used
 - - takes
   - 'no'
   - time
-- - thugs
-  - after
-  - all
 - - course
   - mean
   - there
+- - will
+  - take
+  - place
+- - thugs
+  - after
+  - all
 - - good
   - citizens
   - are
+- - until
+  - tomorrow
+  - so
 - - an
   - orderly
   - queue
@@ -329,51 +332,48 @@ ngrams:
 - - lost
   - 'no'
   - time
-- - until
-  - tomorrow
-  - so
 - - form
   - an
   - orderly
-- - has
-  - been
-  - revived
 - - out
   - then
   - heaving
-- - minute
-  - out
-  - then
 - - would
   - find
   - myself
+- - minute
+  - out
+  - then
 - - kiosks
   - where
   - we
-- - up
-  - buck
-  - up
 - - kindly
   - upon
   - me
+- - has
+  - been
+  - revived
+- - up
+  - buck
+  - up
 - - had
   - finished
   - smashing
-- - she
-  - too
-  - were
-- - had
-  - done
-  - packing
-- - if
-  - she
-  - too
+- - or
+  - shortly
+  - thereafter
 - - mind
   - this
   - idea
+- - thereafter
+  - we
+  - can
 - - wrong
   - perhaps
   - this
+- - had
+  - done
+  - packing
 story:
   date: 2012-08-18
   id: 2012-08-18-on-jam-tomorrow

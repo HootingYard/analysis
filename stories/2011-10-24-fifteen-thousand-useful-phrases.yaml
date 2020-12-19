@@ -2,18 +2,15 @@ ngrams:
 - - expressions
   - striking
   - similes
-- - invaluable
-  - resource
-  - '-'
 - - similes
   - literary
   - commercial
-- - pertinent
-  - expressions
-  - striking
 - - literary
   - commercial
   - conversational
+- - pertinent
+  - expressions
+  - striking
 - - striking
   - similes
   - literary
@@ -29,33 +26,36 @@ ngrams:
 - - burning
   - rock
   - spread
-- - thousand
-  - useful
-  - phrases
-- - thousand
-  - useful
-  - phrases
-- - thousand
-  - useful
-  - phrases
 - - immortal
   - soul
   - majestic
+- - thousand
+  - useful
+  - phrases
+- - thousand
+  - useful
+  - phrases
+- - thousand
+  - useful
+  - phrases
 - - impossibly
   - distant
   - burning
+- - dilapidated
+  - seaside
+  - resort
 - - soul
   - majestic
   - sweeping
 - - distant
   - burning
   - rock
-- - dilapidated
-  - seaside
-  - resort
 - - laughing
   - further
   - tweaks
+- - invaluable
+  - resource
+  - '-'
 - - you're
   - laughing
   - further
@@ -74,30 +74,33 @@ ngrams:
 - - spiritual
   - exertions
   - take
-- - occasional
-  - proper
-  - name
 - - one's
   - own
   - crop
 - - own
   - majestic
   - sweeping
-- - sweeping
-  - paragraphs
-  - while
+- - occasional
+  - proper
+  - name
 - - pick
   - one's
   - own
-- - new
-  - useful
-  - phrases
+- - sweeping
+  - paragraphs
+  - while
 - - extremely
   - helpful
   - new
+- - new
+  - useful
+  - phrases
 - - helpful
   - new
   - useful
+- - ask
+  - well
+  - thanks
 - - yard
   - research
   - fellow
@@ -107,18 +110,15 @@ ngrams:
 - - first
   - experiment
   - delivered
-- - ask
-  - well
-  - thanks
 - - very
   - inner
   - core
-- - yard
-  - prose
-  - comes
 - - very
   - rarely
   - allow
+- - yard
+  - prose
+  - comes
 - - stars
   - those
   - glittering
@@ -131,21 +131,18 @@ ngrams:
 - - useful
   - phrases
   - such
-- - '-'
-  - hooting
-  - yard
 - - webster
   - hooting
   - yard
 - - hooting
   - yard
   - material
-- - hooting
-  - yard
-  - research
 - - very
   - own
   - majestic
+- - hooting
+  - yard
+  - research
 - - hooting
   - yard
   - prose
@@ -155,6 +152,9 @@ ngrams:
 - - acquired
   - some
   - useful
+- - '-'
+  - hooting
+  - yard
 - - some
   - useful
   - experience
@@ -176,12 +176,12 @@ ngrams:
 - - module
   - came
   - up
-- - persons
-  - who
-  - read
 - - rock
   - spread
   - out
+- - persons
+  - who
+  - read
 - - exertions
   - take
   - their

@@ -8,66 +8,66 @@ ngrams:
 - - anecdotes
   - select
   - extracts
-- - topographical
-  - descriptions
-  - novels
 - - oven
   - numerous
   - herbs
 - - biographical
   - memoirs
   - sketches
+- - topographical
+  - descriptions
+  - novels
 - - historical
   - narratives
   - biographical
 - - society
   - topographical
   - descriptions
-- - herbs
-  - spices
-  - c
-- - sciences
-  - useful
-  - domestic
 - - essays
   - historical
   - narratives
-- - useful
+- - sciences
+  - useful
   - domestic
-  - hints
+- - herbs
+  - spices
+  - c
 - - tales
   - anecdotes
   - select
-- - domestic
+- - useful
+  - domestic
   - hints
-  - c
 - - public
   - journals
   - discoveries
+- - domestic
+  - hints
+  - c
 - - instruction
   - containing
   - original
-- - c
-  - c
-  - vol
-- - hints
-  - c
-  - c
-- - expensive
-  - works
-  - poetry
 - - original
   - essays
   - historical
+- - c
+  - c
+  - vol
+- - expensive
+  - works
+  - poetry
 - - containing
   - original
   - essays
-- - c
+- - hints
   - c
   - c
 - - works
   - poetry
   - original
+- - c
+  - c
+  - c
 - - fat
   - cracklings
   - sometimes

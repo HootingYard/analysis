@@ -5,12 +5,12 @@ ngrams:
 - - brian
   - blessed
   - yelling
-- - commentary
-  - there's
-  - rap
 - - novelist
   - international
   - travelling
+- - commentary
+  - there's
+  - rap
 - - there's
   - emperor
   - ming
@@ -23,12 +23,12 @@ ngrams:
 - - working
   - protective
   - voodoo
-- - track
-  - player
-  - sends
 - - playing
   - flash
   - gordon
+- - track
+  - player
+  - sends
 - - flash
   - gordon
   - apparently
@@ -41,48 +41,48 @@ ngrams:
 - - actor
   - playing
   - flash
-- - saint
-  - armchair
-  - theatre
-- - eight
-  - track
-  - player
 - - voracious
   - bad
   - magic
-- - notorious
-  - record
-  - recently
+- - saint
+  - armchair
+  - theatre
 - - bad
   - magic
   - summoned
+- - notorious
+  - record
+  - recently
+- - eight
+  - track
+  - player
 - - genuinely
   - scary
   - film
 - - really
   - identify
   - properly
-- - didn't
-  - really
-  - identify
 - - shows
   - department
   - s
-- - love
-  - capsule
-  - music
-- - got
-  - atmosphere
-  - fizzing
-- - funny
-  - scene
-  - near
+- - didn't
+  - really
+  - identify
 - - jason
   - king
   - managed
+- - got
+  - atmosphere
+  - fizzing
+- - love
+  - capsule
+  - music
 - - box
   - someone's
   - ears
+- - funny
+  - scene
+  - near
 - - slight
   - story
   - there's
@@ -92,51 +92,51 @@ ngrams:
 - - same
   - casual
   - insouciance
-- - narrow
-  - minded
-  - among
 - - highly
   - enough
   - spoiler
+- - narrow
+  - minded
+  - among
 - - acting
   - colleagues
   - often
-- - full
-  - mad
-  - frothing
 - - it's
   - slightly
   - likely
-- - voice
-  - didn't
-  - really
+- - full
+  - mad
+  - frothing
 - - department
   - s
   - series
+- - voice
+  - didn't
+  - really
 - - didn't
   - really
   - sound
 - - got
   - halted
   - really
-- - good
-  - jumpy
-  - moments
 - - mocked
   - quite
   - harshly
-- - theatre
-  - work
-  - abroad
-- - people
-  - weren't
-  - ready
+- - good
+  - jumpy
+  - moments
 - - gracefully
   - launching
   - himself
+- - theatre
+  - work
+  - abroad
 - - emperor
   - ming
   - himself
+- - people
+  - weren't
+  - ready
 - - ming
   - himself
   - max
@@ -146,21 +146,21 @@ ngrams:
 - - also
   - remain
   - blissful
-- - himself
-  - max
-  - von
 - - astonishingly
   - arrogant
   - yet
+- - himself
+  - max
+  - von
+- - film
+  - highly
+  - enough
 - - identify
   - properly
   - until
 - - wall
   - came
   - tumbling
-- - film
-  - highly
-  - enough
 - - it's
   - quite
   - shameful
@@ -191,414 +191,462 @@ ngrams:
 - - most
   - perfect
   - films
-- - 'off'
-  - leather
-  - pants
-- - unreal
-  - how
-  - silly
 - - perfect
   - films
   - ever
+- - unreal
+  - how
+  - silly
 - - handle
   - too
   - large
-- - got
-  - hot
-  - under
-- - secret
-  - among
-  - people
-- - camp
-  - how
-  - unreal
-- - people
-  - got
-  - hot
-- - being
-  - gay
-  - wasn't
-- - yard
-  - daily
-  - essays
-- - gets
-  - bored
-  - being
+- - 'off'
+  - leather
+  - pants
 - - obviously
   - unreal
   - way
-- - mean
-  - look
+- - camp
+  - how
+  - unreal
+- - got
+  - hot
+  - under
+- - being
+  - gay
+  - wasn't
+- - secret
+  - among
   - people
+- - people
+  - got
+  - hot
+- - gets
+  - bored
+  - being
+- - yard
+  - daily
+  - essays
 - - same
   - person
   - it's
+- - mean
+  - look
+  - people
 - - old
   - eight
   - track
-- - carry
-  - 'off'
-  - leather
-- - loving
-  - those
-  - cheekbones
 - - launching
   - himself
   - across
-- - wasn't
-  - acting
-  - very
+- - loving
+  - those
+  - cheekbones
+- - carry
+  - 'off'
+  - leather
+- - head
+  - teacher
+  - margaret
 - - pregnant
   - pauses
   - before
 - - before
   - gracefully
   - launching
-- - bloody
-  - shame
-  - after
-- - head
-  - teacher
-  - margaret
+- - wasn't
+  - acting
+  - very
 - - yet
   - also
   - vulnerable
-- - pauses
-  - before
-  - evil
 - - arrogant
   - yet
   - also
-- - moustache
-  - very
-  - obviously
-- - those
-  - sudden
-  - '-'
+- - bloody
+  - shame
+  - after
 - - never
   - really
   - connected
-- - occasionally
-  - very
-  - clever
+- - pauses
+  - before
+  - evil
 - - never
   - really
   - recovered
-- - you're
-  - talking
-  - here
+- - moustache
+  - very
+  - obviously
+- - occasionally
+  - very
+  - clever
 - - removed
   - shortly
   - after
-- - times
-  - being
-  - mocked
-- - floor
-  - loving
-  - those
 - - inquisitive
   - head
   - i'm
 - - think
   - it's
   - slightly
-- - really
-  - recovered
+- - times
+  - being
+  - mocked
+- - you're
+  - talking
   - here
 - - whole
   - soundtrack
   - just
-- - minded
-  - among
-  - us
+- - floor
+  - loving
+  - those
+- - really
+  - recovered
+  - here
 - - today
   - how
   - camp
+- - minded
+  - among
+  - us
 - - brilliant
   - actor
   - may
 - - sam
   - jones
   - did
-- - very
-  - funny
-  - full
 - - merely
   - dribbling
   - over
-- - very
-  - slight
-  - story
 - - acting
   - than
   - anyone
-- - voice
-  - putting
-  - down
-- - many
-  - people
-  - dislike
-- - jones
-  - did
-  - fine
-- - despite
-  - always
-  - being
+- - very
+  - funny
+  - full
+- - very
+  - slight
+  - story
 - - presence
   - such
   - confidence
-- - silly
-  - now
-  - you're
+- - jones
+  - did
+  - fine
+- - many
+  - people
+  - dislike
 - - being
   - mocked
   - quite
-- - its
-  - initial
-  - release
-- - concept
-  - album
-  - its
+- - voice
+  - putting
+  - down
 - - jason
   - king
   - where
+- - despite
+  - always
+  - being
+- - silly
+  - now
+  - you're
+- - its
+  - initial
+  - release
+- - those
+  - sudden
+  - '-'
+- - concept
+  - album
+  - its
 - - glide
-  - through
-  - life
-- - sail
   - through
   - life
 - - those
   - tv
   - days
+- - sail
+  - through
+  - life
+- - more
+  - pregnant
+  - pauses
 - - now
   - you're
   - talking
 - - look
   - people
   - make
-- - more
-  - pregnant
-  - pauses
-- - first
-  - picture
-  - does
 - - then
   - there's
   - emperor
+- - first
+  - picture
+  - does
+- - head
+  - whatsoever
+  - why
 - - those
   - few
   - seconds
 - - three
   - years
   - ago
+- - even
+  - thought
+  - provoking
 - - sound
   - like
   - george
+- - acting
+  - very
+  - well
 - - hooting
   - yard
   - daily
-- - head
-  - whatsoever
-  - why
 - - back
   - long
   - live
-- - her
-  - instead
-  - hence
-- - films
-  - ever
-  - made
 - - drifted
   - away
   - just
 - - how
   - unreal
   - how
-- - even
-  - thought
-  - provoking
-- - acting
-  - very
-  - well
-- - really
-  - sound
-  - like
-- - some
-  - orange
-  - juice
+- - film
+  - more
+  - pregnant
+- - films
+  - ever
+  - made
 - - how
   - camp
   - how
 - - did
   - get
   - cowed
-- - end
-  - she
-  - summons
-- - getting
-  - going
-  - now
 - - doing
   - more
   - evil
-- - film
-  - more
-  - pregnant
-- - did
-  - get
-  - burned
-- - these
-  - things
-  - going
+- - really
+  - sound
+  - like
+- - some
+  - orange
+  - juice
 - - any
   - great
   - detail
-- - got
-  - back
-  - long
+- - these
+  - things
+  - going
+- - did
+  - get
+  - burned
+- - getting
+  - going
+  - now
 - - hero
   - also
   - now
-- - didn't
-  - paint
-  - him
 - - doing
   - very
   - well
+- - got
+  - back
+  - long
+- - her
+  - instead
+  - hence
 - - really
   - did
   - get
-- - against
-  - her
-  - instead
-- - someone
-  - who
-  - violently
-- - see
-  - clothes
-  - even
+- - didn't
+  - paint
+  - him
+- - end
+  - she
+  - summons
 - - else
   - can
   - carry
+- - see
+  - clothes
+  - even
 - - people
   - make
   - much
+- - someone
+  - who
+  - violently
 - - do
   - theatre
   - work
+- - against
+  - her
+  - instead
+- - everywhere
+  - every
+  - time
+- - how
+  - silly
+  - now
 - - some
   - people
   - weren't
 - - some
   - good
   - jumpy
-- - rarely
-  - seen
-  - him
-- - how
-  - silly
-  - now
-- - everywhere
-  - every
-  - time
-- - don't
-  - know
-  - how
 - - magic
   - summoned
   - up
+- - don't
+  - know
+  - how
+- - rarely
+  - seen
+  - him
 - - then
   - again
   - it's
-- - knew
-  - him
-  - since
+- - its
+  - inquisitive
+  - head
 - - after
   - its
   - initial
 - - its
   - very
   - funny
-- - its
-  - inquisitive
-  - head
 - - album
   - its
   - very
-- - since
-  - some
-  - people
-- - some
-  - people
-  - got
-- - shortly
-  - after
-  - its
 - - its
   - head
   - whatsoever
+- - shortly
+  - after
+  - its
+- - knew
+  - him
+  - since
+- - since
+  - some
+  - people
+- - such
+  - presence
+  - such
+- - some
+  - people
+  - got
 - - clothes
   - even
   - now
+- - halted
+  - really
+  - what
 - - leather
   - trousers
   - were
 - - trousers
   - were
   - active
-- - often
-  - called
-  - him
-- - halted
-  - really
-  - what
-- - such
-  - presence
-  - such
 - - know
   - how
   - long
-- - feast
-  - your
-  - eyes
 - - something
   - then
   - again
 - - can
   - carry
   - 'off'
+- - often
+  - called
+  - him
 - - laugh
   - out
   - loud
-- - been
-  - dead
-  - since
-- - say
-  - things
-  - like
+- - feast
+  - your
+  - eyes
 - - haven't
   - looked
   - into
+- - say
+  - things
+  - like
+- - been
+  - dead
+  - since
 - - life
   - around
   - him
 - - they
   - hadn't
   - expected
-- - indeed
-  - been
-  - dead
-- - they
-  - didn't
-  - paint
-- - up
-  - while
-  - doing
 - - 'no'
   - idea
   - why
+- - up
+  - while
+  - doing
+- - properly
+  - until
+  - about
+- - they
+  - didn't
+  - paint
+- - indeed
+  - been
+  - dead
+- - fine
+  - they
+  - didn't
+- - get
+  - burned
+  - into
+- - handkerchief
+  - would
+  - remain
+- - would
+  - sincerely
+  - love
+- - completely
+  - beyond
+  - me
+- - before
+  - some
+  - people
+- - best
+  - actors
+  - we
+- - so
+  - disarming
+  - fun
+- - cheered
+  - up
+  - even
+- - flash
+  - gordon
+  - so
+- - all
+  - getting
+  - going
+- - me
+  - actually
+  - want
+- - been
+  - very
+  - familiar
+- - until
+  - about
+  - three
+- - jason
+  - king
+  - so
 story:
   date: 2012-02-16
   id: 2012-02-16-on-the-magnificence-of-peter-wyngarde

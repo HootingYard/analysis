@@ -1,10 +1,10 @@
 ngrams:
-- - exquisitely
-  - refined
-  - sensibilities
 - - politeness
   - enforcement
   - patrols
+- - exquisitely
+  - refined
+  - sensibilities
 - - wannabe
   - chandlers
   - fix
@@ -17,48 +17,48 @@ ngrams:
 - - shady
   - rogue
   - jump
-- - dictaphone
-  - 'false'
-  - identification
 - - dinghy
   - maintenance
   - instructor
 - - civic
   - politeness
   - enforcement
+- - dictaphone
+  - 'false'
+  - identification
 - - cheap
   - rented
   - accommodation
 - - cheap
   - rented
   - accommodation
-- - hub
-  - outreach
-  - staff
 - - class
   - listed
   - bombard
+- - hub
+  - outreach
+  - staff
 - - lifelong
   - learning
   - hub
-- - 'false'
-  - identification
-  - papers
-- - community
-  - lifelong
-  - learning
 - - dinghy
   - maintenance
   - class
 - - maintenance
   - class
   - listed
-- - rented
-  - accommodation
-  - waiting
+- - community
+  - lifelong
+  - learning
+- - 'false'
+  - identification
+  - papers
 - - avoid
   - hunger
   - pangs
+- - rented
+  - accommodation
+  - waiting
 - - insalubrious
   - streets
   - waving
@@ -80,12 +80,6 @@ ngrams:
 - - remain
   - afloat
   - especially
-- - banishment
-  - order
-  - citing
-- - ancient
-  - municipal
-  - banishment
 - - maintenance
   - evening
   - class
@@ -95,39 +89,45 @@ ngrams:
 - - evening
   - class
   - consult
+- - banishment
+  - order
+  - citing
+- - ancient
+  - municipal
+  - banishment
 - - young
   - wannabe
   - chandlers
-- - perky
-  - young
-  - wannabe
 - - municipal
   - banishment
   - order
-- - use
-  - wheedling
-  - tactics
+- - perky
+  - young
+  - wannabe
 - - less
   - salubrious
   - parts
-- - watch
-  - perky
-  - young
+- - use
+  - wheedling
+  - tactics
 - - hammer
   - keep
   - chasing
+- - watch
+  - perky
+  - young
 - - relax
   - outside
   - looking
 - - job
   - despite
   - having
-- - hunger
-  - pangs
-  - while
 - - watch
   - perhaps
   - smoking
+- - hunger
+  - pangs
+  - while
 - - pangs
   - while
   - concealed
@@ -137,12 +137,12 @@ ngrams:
 - - creep
   - quietly
   - away
-- - first
-  - session
-  - employ
 - - enforcement
   - patrols
   - after
+- - first
+  - session
+  - employ
 - - pipe
   - after
   - eating
@@ -155,18 +155,18 @@ ngrams:
 - - outside
   - looking
   - through
-- - despite
-  - having
-  - little
 - - such
   - instructors
   - live
-- - most
-  - prudent
-  - course
 - - maintenance
   - techniques
   - upon
+- - despite
+  - having
+  - little
+- - most
+  - prudent
+  - course
 - - concealment
   - could
   - betray
@@ -179,39 +179,39 @@ ngrams:
 - - dinghies
   - can
   - suffer
-- - shameless
-  - charlatans
-  - who
-- - charlatans
-  - who
-  - bluff
 - - most
   - such
   - instructors
+- - shameless
+  - charlatans
+  - who
 - - can
   - stand
   - outside
+- - charlatans
+  - who
+  - bluff
 - - can
   - use
   - wheedling
-- - chopped
-  - up
-  - radishes
 - - imperil
   - their
   - ability
-- - hat
-  - most
-  - such
+- - chopped
+  - up
+  - radishes
 - - keep
   - chasing
   - them
-- - 'no'
-  - maritime
-  - knowledge
+- - hat
+  - most
+  - such
 - - 'no'
   - pipe
   - smoking
+- - 'no'
+  - maritime
+  - knowledge
 - - your
   - exquisitely
   - refined
@@ -230,9 +230,9 @@ ngrams:
 - - betray
   - your
   - presence
-- - knowledge
-  - your
-  - gumshoe
+- - chasing
+  - them
+  - until
 story:
   date: 2008-11-20
   id: 2008-11-20-dinghy-maintenance

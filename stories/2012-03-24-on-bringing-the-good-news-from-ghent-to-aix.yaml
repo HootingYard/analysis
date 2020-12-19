@@ -11,24 +11,24 @@ ngrams:
 - - somewhat
   - crumbling
   - gent
-- - faintly
-  - dispiriting
-  - news
 - - nameless
   - roan
   - tried
 - - late
   - lamented
   - granted
-- - lark
-  - anyway
-  - late
+- - faintly
+  - dispiriting
+  - news
+- - frantic
+  - o
+  - calamity
 - - view
   - shortly
   - afterwards
-- - horse
-  - hospital
-  - mattered
+- - lark
+  - anyway
+  - late
 - - future
   - fate
   - headed
@@ -38,12 +38,12 @@ ngrams:
 - - cold
   - peasants
   - rule
-- - frantic
-  - o
-  - calamity
 - - realm
   - horses
   - pass
+- - horse
+  - hospital
+  - mattered
 - - whatever
   - realm
   - horses
@@ -56,36 +56,36 @@ ngrams:
 - - towns
   - between
   - ghent
-- - given
-  - potted
-  - biographies
 - - least
   - spread
   - unwelcome
+- - given
+  - potted
+  - biographies
 - - lamented
   - granted
   - both
-- - called
-  - roland
-  - unlike
-- - post
-  - office
-  - hot
-- - post
-  - office
-  - hot
 - - spout
   - encouraging
   - words
+- - post
+  - office
+  - hot
+- - post
+  - office
+  - hot
+- - called
+  - roland
+  - unlike
+- - hot
+  - air
+  - balloon
+- - hot
+  - air
+  - balloon
 - - great
   - speed
   - jealous
-- - hot
-  - air
-  - balloon
-- - hot
-  - air
-  - balloon
 - - office
   - person
   - fell
@@ -113,12 +113,12 @@ ngrams:
 - - galloped
   - ever
   - onward
-- - heard
-  - good
-  - report
 - - saw
   - hide
   - nor
+- - heard
+  - good
+  - report
 - - post
   - office
   - came
@@ -152,12 +152,15 @@ ngrams:
 - - such
   - raving
   - afflicted
-- - never
-  - saw
-  - hide
 - - both
   - well
   - dream
+- - never
+  - saw
+  - hide
+- - might
+  - plot
+  - against
 - - its
   - puncture
   - repaired
@@ -170,15 +173,12 @@ ngrams:
 - - very
   - least
   - spread
-- - came
-  - crashing
-  - through
 - - tell
   - yet
   - again
-- - might
-  - plot
-  - against
+- - came
+  - crashing
+  - through
 - - any
   - case
   - mounted
@@ -188,15 +188,9 @@ ngrams:
 - - black
   - like
   - silhouettes
-- - her
-  - chest
-  - saw
 - - air
   - balloon
   - its
-- - looked
-  - black
-  - like
 - - horse
   - nor
   - even
@@ -206,18 +200,24 @@ ngrams:
 - - such
   - adjustments
   - while
-- - some
-  - unfathomable
-  - reason
-- - balloon
-  - has
-  - suffered
 - - upon
   - another
   - mission
 - - make
   - such
   - adjustments
+- - her
+  - chest
+  - saw
+- - looked
+  - black
+  - like
+- - some
+  - unfathomable
+  - reason
+- - balloon
+  - has
+  - suffered
 - - yanked
   - him
   - round
@@ -230,12 +230,12 @@ ngrams:
 - - news
   - 'no'
   - sooner
-- - air
-  - balloon
-  - has
 - - played
   - their
   - parts
+- - air
+  - balloon
+  - has
 - - up
   - outside
   - feeding
@@ -251,48 +251,45 @@ ngrams:
 - - same
   - time
   - let
-- - been
-  - paying
-  - attention
-- - left
-  - them
-  - behind
 - - repaired
   - hove
   - into
-- - fibs
-  - were
-  - meant
 - - shadow
   - puppetry
   - when
+- - left
+  - them
+  - behind
 - - upon
   - whose
   - back
-- - how
-  - now
-  - shall
+- - been
+  - paying
+  - attention
 - - 'no'
   - longer
   - able
 - - hove
   - into
   - view
-- - good
-  - news
-  - 'no'
+- - fibs
+  - were
+  - meant
+- - how
+  - now
+  - shall
 - - into
   - whatever
   - realm
+- - good
+  - news
+  - 'no'
 - - into
   - view
   - shortly
 - - horses
   - pass
   - into
-- - her
-  - haunches
-  - she
 - - never
   - did
   - find
@@ -305,27 +302,33 @@ ngrams:
 - - raving
   - afflicted
   - me
-- - see
-  - 'no'
-  - harm
 - - me
   - casting
   - significant
+- - see
+  - 'no'
+  - harm
 - - roland
   - unlike
   - me
 - - cannot
   - remember
   - what
-- - good
-  - news
-  - into
 - - them
   - both
   - well
+- - good
+  - news
+  - into
 - - they
   - somehow
   - managed
+- - her
+  - haunches
+  - she
+- - would
+  - probably
+  - dub
 - - beyond
   - all
   - help
@@ -335,75 +338,72 @@ ngrams:
 - - cows
   - all
   - looked
-- - would
-  - probably
-  - dub
-- - all
-  - looked
-  - black
-- - throat
-  - than
-  - up
 - - am
   - called
   - upon
-- - were
-  - any
-  - demand
-- - good
-  - news
-  - would
+- - throat
+  - than
+  - up
+- - all
+  - looked
+  - black
 - - can
   - make
   - such
+- - good
+  - news
+  - would
+- - were
+  - any
+  - demand
 - - will
   - need
   - us
-- - an
-  - anecdote
-  - nobody
 - - we
   - sped
   - through
 - - skilled
   - horseman
   - one
-- - evening
-  - an
-  - official
 - - they
   - might
   - plot
+- - an
+  - anecdote
+  - nobody
 - - we
   - untied
   - our
+- - evening
+  - an
+  - official
 - - peasants
   - rule
   - one
 - - we
   - passed
   - through
-- - story
-  - an
-  - anecdote
-- - which
-  - nobody
-  - ever
-- - repeat
-  - this
-  - evening
-- - good
-  - after
-  - all
 - - nor
   - even
   - if
+- - story
+  - an
+  - anecdote
+- - repeat
+  - this
+  - evening
 - - behind
   - they
   - might
 - - we
   - must
   - go
+- - good
+  - after
+  - all
+- - which
+  - nobody
+  - ever
 - - could
   - see
   - 'no'
@@ -419,33 +419,42 @@ ngrams:
 - - good
   - report
   - this
-- - another
-  - story
-  - an
-- - this
-  - mortal
-  - world
 - - time
   - we
   - reached
-- - glugging
-  - from
-  - tankards
-- - rule
-  - one
-  - never
+- - this
+  - mortal
+  - world
+- - another
+  - story
+  - an
 - - even
   - know
   - if
+- - stone
+  - whether
+  - or
+- - rule
+  - one
+  - never
 - - one
   - never
   - trust
+- - glugging
+  - from
+  - tankards
+- - different
+  - anecdote
+  - but
+- - persons
+  - say
+  - this
+- - evening
+  - there
+  - has
 - - dispiriting
   - news
   - from
-- - had
-  - heard
-  - good
 - - news
   - from
   - ghent
@@ -464,36 +473,27 @@ ngrams:
 - - whispered
   - news
   - from
-- - evening
-  - there
-  - has
-- - persons
-  - say
-  - this
-- - outside
-  - feeding
-  - from
-- - outside
-  - feeding
-  - from
-- - stone
-  - whether
-  - or
 - - them
   - behind
   - they
-- - different
-  - anecdote
-  - but
-- - only
-  - one
-  - tale
-- - at
-  - children's
-  - parties
 - - pass
   - into
   - when
+- - had
+  - heard
+  - good
+- - hear
+  - about
+  - if
+- - outside
+  - feeding
+  - from
+- - outside
+  - feeding
+  - from
+- - at
+  - children's
+  - parties
 story:
   date: 2012-03-24
   id: 2012-03-24-on-bringing-the-good-news-from-ghent-to-aix

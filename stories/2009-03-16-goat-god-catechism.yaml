@@ -11,18 +11,18 @@ ngrams:
 - - goat
   - god's
   - cloven
-- - foul
-  - inexplicable
-  - gas
-- - foul
-  - inexplicable
-  - gas
-- - foul
-  - inexplicable
-  - gas
 - - rendered
   - deaf
   - 'yes'
+- - foul
+  - inexplicable
+  - gas
+- - foul
+  - inexplicable
+  - gas
+- - foul
+  - inexplicable
+  - gas
 - - small
   - mammals
   - scurry
@@ -32,57 +32,57 @@ ngrams:
 - - clap
   - one's
   - hands
-- - inexplicable
-  - gas
-  - 'yes'
 - - cover
   - one's
   - ears
+- - inexplicable
+  - gas
+  - 'yes'
 - - god
   - appears
   - looming
-- - goat
-  - god
-  - catechism
 - - notepaper
   - nor
   - pens
+- - goat
+  - god
+  - catechism
 - - pens
   - nor
   - pencils
 - - goat
   - god
   - accompanied
-- - small
-  - mammals
-  - 'yes'
-- - earth
-  - become
-  - confused
-- - goat
-  - god
-  - appears
 - - deliberately
   - inserted
   - words
+- - small
+  - mammals
+  - 'yes'
+- - goat
+  - god
+  - appears
+- - earth
+  - become
+  - confused
 - - shall
   - issue
   - forth
-- - deafened
-  - birds
-  - fall
-- - horror
-  - takes
-  - place
-- - words
-  - amiss
-  - wait
-- - goat
-  - god
-  - appeared
 - - neither
   - notepaper
   - nor
+- - deafened
+  - birds
+  - fall
+- - words
+  - amiss
+  - wait
+- - horror
+  - takes
+  - place
+- - goat
+  - god
+  - appeared
 - - goat
   - god
   - 'yes'
@@ -95,12 +95,12 @@ ngrams:
 - - natural
   - world
   - 'yes'
-- - old
-  - ma
-  - purgative
 - - nor
   - pens
   - nor
+- - old
+  - ma
+  - purgative
 - - god
   - take
   - pleasure
@@ -119,21 +119,6 @@ ngrams:
 - - causing
   - such
   - havoc
-- - these
-  - deafened
-  - birds
-- - hands
-  - clapped
-  - over
-- - clatter
-  - its
-  - cloven
-- - its
-  - harsh
-  - bray
-- - its
-  - cloven
-  - hooves
 - - wreak
   - vengeance
   - upon
@@ -143,51 +128,66 @@ ngrams:
 - - cloven
   - hooves
   - upon
+- - these
+  - deafened
+  - birds
+- - hands
+  - clapped
+  - over
+- - clatter
+  - its
+  - cloven
 - - over
   - one's
   - ears
+- - its
+  - cloven
+  - hooves
+- - its
+  - harsh
+  - bray
 - - one's
   - hands
   - over
 - - hands
   - over
   - one's
-- - her
-  - pie
-  - recipes
 - - must
   - tremble
   - how
 - - tremble
   - how
   - must
-- - dreadful
-  - majesty
-  - some
-- - trick
-  - her
-  - readers
+- - her
+  - pie
+  - recipes
 - - anything
   - more
   - frightening
 - - think
   - old
   - ma
-- - gas
-  - has
-  - dispersed
-- - foul
-  - gas
-  - has
+- - dreadful
+  - majesty
+  - some
+- - trick
+  - her
+  - readers
 - - goat
   - god
   - do
-- - their
-  - dreadful
-  - majesty
+- - gas
+  - has
+  - dispersed
 - - do
   - gosh
   - indeed
+- - foul
+  - gas
+  - has
+- - their
+  - dreadful
+  - majesty
 - - wildlife
   - why
   - do
@@ -197,9 +197,6 @@ ngrams:
 - - goat
   - god
   - has
-- - god
-  - has
-  - appeared
 - - their
   - upper
   - half
@@ -209,6 +206,9 @@ ngrams:
 - - mammals
   - scurry
   - about
+- - god
+  - has
+  - appeared
 - - flat
   - what
   - explains

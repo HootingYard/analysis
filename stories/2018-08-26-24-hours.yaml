@@ -1,19 +1,19 @@
 ngrams:
-- - holiday
-  - monday
-  - august
 - - bank
   - holiday
   - monday
 - - eerily
   - quiet
   - summer
-- - hours
-  - exciting
-  - news
+- - holiday
+  - monday
+  - august
 - - frank
   - key
   - writer
+- - hours
+  - exciting
+  - news
 - - quiet
   - summer
   - here
@@ -26,9 +26,9 @@ ngrams:
 - - exciting
   - news
   - from
-- - been
-  - an
-  - eerily
+- - summer
+  - here
+  - at
 story:
   date: 2018-08-26
   id: 2018-08-26-24-hours

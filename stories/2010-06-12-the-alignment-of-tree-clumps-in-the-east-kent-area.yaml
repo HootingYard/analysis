@@ -14,15 +14,6 @@ ngrams:
 - - goal
   - described
   - calmly
-- - west
-  - kent
-  - area
-- - west
-  - kent
-  - area
-- - east
-  - kent
-  - area
 - - east
   - kent
   - area
@@ -35,12 +26,21 @@ ngrams:
 - - one's
   - rambling
   - gear
-- - clumps
-  - reproduces
-  - exactly
+- - east
+  - kent
+  - area
+- - west
+  - kent
+  - area
+- - west
+  - kent
+  - area
 - - significant
   - patterns
   - created
+- - clumps
+  - reproduces
+  - exactly
 - - capital
   - letters
   - emblazoned
@@ -53,66 +53,66 @@ ngrams:
 - - block
   - capital
   - letters
-- - poison
-  - pen
-  - letters
 - - tree
   - clumps
   - depends
-- - tree
-  - clumps
-  - piles
 - - kent
   - tree
   - clumps
 - - eastern
   - tree
   - clumps
+- - poison
+  - pen
+  - letters
+- - tree
+  - clumps
+  - piles
 - - east
   - kent
   - tree
-- - clump
-  - alignment
-  - news
 - - tree
   - clump
   - alignment
 - - hobgoblin
   - tree
   - spirit
+- - clump
+  - alignment
+  - news
+- - tree
+  - clump
+  - project
+- - tree
+  - clump
+  - project
 - - flames
   - obviously
   - although
-- - tree
-  - clump
-  - project
-- - tree
-  - clump
-  - project
 - - identify
   - itself
   - specifically
-- - woods
-  - makes
-  - mention
 - - tree
   - spirit
   - green
-- - sixth
-  - floor
-  - window
-- - big
-  - bold
-  - block
+- - woods
+  - makes
+  - mention
 - - clumps
   - form
   - merely
-- - rambling
-  - gear
-  - among
+- - sixth
+  - floor
+  - window
 - - tree
   - clumps
   - form
+- - rambling
+  - gear
+  - among
+- - big
+  - bold
+  - block
 - - journeyman
   - hiking
   - between
@@ -122,15 +122,15 @@ ngrams:
 - - called
   - assassination
   - clumps
-- - same
-  - tree
-  - clumps
-- - same
-  - tree
-  - clumps
 - - letters
   - emblazoned
   - across
+- - same
+  - tree
+  - clumps
+- - same
+  - tree
+  - clumps
 - - kent
   - area
   - while
@@ -146,60 +146,60 @@ ngrams:
 - - zapruder
   - badge
   - man
-- - badge
-  - man
-  - umbrella
 - - most
   - important
   - moments
+- - badge
+  - man
+  - umbrella
 - - extremely
   - stupid
   - those
 - - reveal
   - themselves
   - through
-- - writer
-  - identified
-  - only
+- - sport
+  - yet
+  - again
 - - letters
   - here
   - alas
 - - fateful
   - november
   - day
-- - sport
-  - yet
-  - again
-- - through
-  - close
-  - study
 - - religious
   - tirade
   - where
+- - through
+  - close
+  - study
+- - writer
+  - identified
+  - only
 - - themselves
   - through
   - close
-- - only
-  - call
-  - chaotic
 - - those
   - obtaining
   - between
+- - only
+  - call
+  - chaotic
 - - another
   - angle
   - these
-- - other
-  - airship
-  - owners
-- - its
-  - giant
-  - hangar
 - - making
   - much
   - use
+- - other
+  - airship
+  - owners
 - - making
   - such
   - admirable
+- - its
+  - giant
+  - hangar
 - - yet
   - again
   - seen
@@ -209,33 +209,33 @@ ngrams:
 - - very
   - same
   - tree
-- - such
-  - admirable
-  - use
-- - other
-  - tree
-  - clumps
 - - patterns
   - could
   - reveal
+- - such
+  - admirable
+  - use
 - - significantly
   - more
   - intriguing
-- - clumps
-  - more
-  - easterly
 - - significant
   - patterns
   - could
+- - clumps
+  - more
+  - easterly
+- - other
+  - tree
+  - clumps
 - - airship
   - owners
   - do
-- - could
-  - reveal
-  - themselves
 - - airship
   - rather
   - than
+- - could
+  - reveal
+  - themselves
 - - tree
   - clumps
   - more
@@ -245,9 +245,6 @@ ngrams:
 - - emblazoned
   - across
   - its
-- - man
-  - umbrella
-  - man
 - - angle
   - these
   - very
@@ -263,6 +260,9 @@ ngrams:
 - - kent
   - area
   - has
+- - man
+  - umbrella
+  - man
 - - area
   - has
   - rightly
@@ -275,21 +275,21 @@ ngrams:
 - - these
   - very
   - same
-- - when
-  - south
-  - africa
 - - fleeing
   - if
   - represented
+- - when
+  - south
+  - africa
 - - tolkien
   - twaddle
   - if
-- - moment
-  - when
-  - south
 - - more
   - intriguing
   - than
+- - moment
+  - when
+  - south
 - - can
   - only
   - call
@@ -299,21 +299,21 @@ ngrams:
 - - some
   - other
   - airship
-- - clumps
-  - are
-  - aligned
 - - proved
   - so
   - toxic
 - - will
   - next
   - turn
-- - some
-  - our
-  - most
+- - clumps
+  - are
+  - aligned
 - - are
   - extremely
   - stupid
+- - some
+  - our
+  - most
 - - tree
   - clumps
   - are

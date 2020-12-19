@@ -2,36 +2,36 @@ ngrams:
 - - milton
   - keynes
   - puffery
-- - incredibly
-  - detailed
-  - descriptive
 - - relative
   - mo
   - linnets
+- - incredibly
+  - detailed
+  - descriptive
 - - civic
   - milton
   - keynes
 - - detailed
   - descriptive
   - passages
-- - keynes
-  - puffery
-  - chapter
-- - milton
-  - keynes
-  - chapter
 - - milton
   - keynes
   - silent
 - - la
   - sherlock
   - holmes
+- - keynes
+  - puffery
+  - chapter
 - - cousin
   - untold
   - millions
 - - distant
   - relative
   - mo
+- - milton
+  - keynes
+  - chapter
 - - distant
   - cousin
   - packs
@@ -53,12 +53,6 @@ ngrams:
 - - distant
   - cousin
   - untold
-- - extremely
-  - detailed
-  - information
-- - nut
-  - chapter
-  - eight
 - - keynes
   - tree
   - cathedral
@@ -68,129 +62,123 @@ ngrams:
 - - keynes
   - tree
   - cathedral
-- - thoroughly
-  - bewildering
-  - manner
-- - tree
-  - description
-  - interspersed
 - - excessively
   - detailed
   - tree
+- - extremely
+  - detailed
+  - information
 - - detailed
   - tree
   - descriptions
-- - chapter
-  - chapter
-  - nine
-- - previous
-  - chapter
-  - chapter
+- - tree
+  - description
+  - interspersed
+- - thoroughly
+  - bewildering
+  - manner
 - - police
   - officer
   - snaps
-- - prince
-  - zaleski
-  - unlike
-- - tree
-  - specialist
-  - chapter
 - - flowery
   - descriptive
   - prose
-- - puffery
-  - chapter
-  - five
-- - police
-  - officers
-  - happens
-- - silent
-  - monkey
-  - leaps
+- - prince
+  - zaleski
+  - unlike
 - - keynes
   - silent
   - monkey
 - - silent
   - monkey
   - cue
+- - silent
+  - monkey
+  - leaps
+- - nut
+  - chapter
+  - eight
 - - mute
   - monkey
   - hero
-- - tree
-  - cathedral
-  - lead
+- - police
+  - officers
+  - happens
 - - silent
   - monkey
   - swinging
 - - typical
   - silent
   - monkey
-- - touch
+- - tree
+  - cathedral
+  - lead
+- - chapter
   - chapter
-  - six
+  - nine
+- - tree
+  - specialist
+  - chapter
+- - previous
+  - chapter
+  - chapter
+- - puffery
+  - chapter
+  - five
+- - silent
+  - monkey
+  - silent
 - - doorstopper
   - novels
   - written
 - - entire
   - plot
   - including
-- - four
-  - gratuitous
-  - passages
-- - silent
-  - monkey
-  - silent
 - - tree
   - cathedral
   - usually
-- - chapter
-  - four
-  - gratuitous
-- - huge
-  - readership
-  - wish
-- - scene
-  - usually
-  - takes
-- - letter
-  - clearly
-  - intended
-- - crime
-  - chapter
-  - four
-- - person
-  - tangentially
-  - involved
 - - monkey
   - silent
   - monkey
-- - light
-  - touch
+- - touch
   - chapter
+  - six
+- - four
+  - gratuitous
+  - passages
+- - scene
+  - usually
+  - takes
+- - huge
+  - readership
+  - wish
+- - letter
+  - clearly
+  - intended
 - - somebody
   - else
   - entirely
+- - person
+  - tangentially
+  - involved
+- - mo
+  - linnets
+  - key
+- - mo
+  - linnets
+  - key
+- - chapter
+  - four
+  - gratuitous
 - - possibly
   - somebody
   - else
 - - fictional
   - monkey
   - detective
-- - fictional
-  - human
-  - detectives
-- - mo
-  - linnets
-  - key
-- - mo
-  - linnets
-  - key
-- - consternation
+- - light
+  - touch
   - chapter
-  - three
-- - given
-  - valuable
-  - insight
 - - silent
   - monkey
   - books
@@ -200,6 +188,15 @@ ngrams:
 - - silent
   - monkey
   - itself
+- - crime
+  - chapter
+  - four
+- - given
+  - valuable
+  - insight
+- - fictional
+  - human
+  - detectives
 - - dizzyingly
   - successful
   - having
@@ -212,117 +209,120 @@ ngrams:
 - - rather
   - unexpected
   - alignment
+- - consternation
+  - chapter
+  - three
 - - arboreal
   - science
   - indeed
-- - few
-  - choice
-  - morsels
 - - rather
   - unexpected
   - information
 - - sure
   - whether
   - mo
+- - few
+  - choice
+  - morsels
 - - highly
   - formulaic
   - though
 - - usually
   - takes
   - place
-- - again
-  - chapter
-  - seven
+- - tree
+  - descriptions
+  - though
 - - general
   - reader
   - rather
-- - course
-  - directly
-  - related
-- - eight
-  - while
-  - swinging
 - - perhaps
   - less
   - eeriness
 - - entirely
   - sure
   - whether
+- - course
+  - directly
+  - related
+- - eight
+  - while
+  - swinging
+- - again
+  - chapter
+  - seven
 - - heads
   - again
+  - chapter
+- - silent
+  - monkey
+  - book
+- - monkey
+  - book
   - chapter
 - - chapter
   - eight
   - while
-- - tree
-  - descriptions
-  - though
-- - monkey
-  - book
-  - chapter
-- - specialist
-  - chapter
-  - two
-- - silent
-  - monkey
-  - book
-- - bestsellers
-  - flying
-  - 'off'
 - - zaleski
   - unlike
   - these
 - - marjorie
   - nor
   - indeed
-- - chapter
+- - bestsellers
+  - flying
+  - 'off'
+- - specialist
+  - chapter
   - two
-  - somewhere
-- - wicker
-  - man
-  - resonance
-- - never
-  - met
-  - mo
 - - monkey
   - cue
   - much
 - - committed
   - often
   - though
+- - never
+  - met
+  - mo
+- - wicker
+  - man
+  - resonance
+- - chapter
+  - two
+  - somewhere
 - - unlike
   - these
   - fictional
 - - tree
   - cathedral
   - after
-- - certain
-  - wicker
-  - man
-- - new
-  - information
-  - given
-- - these
-  - fictional
-  - human
 - - any
   - loose
   - ends
+- - new
+  - information
+  - given
+- - certain
+  - wicker
+  - man
+- - these
+  - fictional
+  - human
 - - plot
   - including
   - any
 - - including
   - any
   - loose
+- - descriptions
+  - though
+  - these
 - - silent
   - its
   - ratiocination
 - - its
   - trees
   - rapt
-- - descriptions
-  - though
-  - these
 - - nor
   - indeed
   - why
@@ -332,9 +332,9 @@ ngrams:
 - - monkey
   - then
   - leaps
-- - some
-  - flowery
-  - descriptive
+- - met
+  - mo
+  - am
 - - very
   - well
   - wittering
@@ -347,9 +347,9 @@ ngrams:
 - - silent
   - monkey
   - then
-- - met
-  - mo
-  - am
+- - some
+  - flowery
+  - descriptive
 - - reader
   - rather
   - than
@@ -371,9 +371,9 @@ ngrams:
 - - them
   - under
   - arrest
-- - nickname
-  - linnets
-  - what
+- - cue
+  - much
+  - more
 story:
   date: 2012-02-27
   id: 2012-02-27-on-silent-monkey

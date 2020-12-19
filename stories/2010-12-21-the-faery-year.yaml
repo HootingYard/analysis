@@ -8,21 +8,21 @@ ngrams:
 - - leaden
   - lake
   - thrushes
-- - grey
-  - stormy
-  - march
-- - lake
-  - thrushes
-  - singing
 - - cirrostratus
   - snow
   - mountains
-- - stormy
+- - lake
+  - thrushes
+  - singing
+- - grey
+  - stormy
   - march
-  - dawn
 - - hysterical
   - news
   - reports
+- - stormy
+  - march
+  - dawn
 - - awful
   - blue
   - august
@@ -50,33 +50,33 @@ ngrams:
 - - new
   - ice
   - age
-- - field
-  - away
-  - swans
 - - stratus
   - creeping
   - over
-- - perspective
-  - let
-  - us
+- - field
+  - away
+  - swans
 - - too
   - shall
   - pass
+- - perspective
+  - let
+  - us
 - - thrushes
   - singing
   - like
-- - let
-  - us
-  - turn
-- - its
-  - strange
-  - dance
 - - rainbow
   - dewdrops
   - then
+- - let
+  - us
+  - turn
 - - must
   - make
   - men
+- - its
+  - strange
+  - dance
 - - singing
   - like
   - mad
@@ -104,15 +104,15 @@ ngrams:
 - - marsh
   - or
   - heath
-- - state
-  - quotes
-  - from
 - - might
   - think
   - we
 - - ice
   - age
   - but
+- - state
+  - quotes
+  - from
 story:
   date: 2010-12-21
   id: 2010-12-21-the-faery-year

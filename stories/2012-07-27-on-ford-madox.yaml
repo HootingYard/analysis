@@ -14,22 +14,16 @@ ngrams:
 - - goose
   - quill
   - manuscripts
-- - advertising
-  - poster
-  - repeatedly
-- - aka
-  - ford
-  - madox
 - - ford
   - madox
   - logistics
-- - belt
+- - aka
   - ford
   - madox
-- - madox
-  - ford
-  - '-'
-- - '-'
+- - advertising
+  - poster
+  - repeatedly
+- - belt
   - ford
   - madox
 - - painter
@@ -59,12 +53,6 @@ ngrams:
 - - madox
   - ford
   - ford
-- - madox
-  - brown
-  - '-'
-- - brown
-  - '-'
-  - ford
 - - ford
   - madox
   - brown
@@ -77,27 +65,27 @@ ngrams:
 - - ford
   - madox
   - followed
-- - ford
-  - madox
-  - detective
 - - police
   - stations
   - altering
 - - ford
   - madox
   - green
-- - named
+- - ford
   - madox
-  - ford
+  - detective
 - - shabby
   - provincial
   - police
-- - police
-  - stations
-  - crossing
+- - named
+  - madox
+  - ford
 - - writers
   - stick
   - loyally
+- - police
+  - stations
+  - crossing
 - - 'yes'
   - sebastian
   - faulks
@@ -113,6 +101,9 @@ ngrams:
 - - tasks
   - sound
   - complex
+- - provincial
+  - police
+  - station
 - - newfangled
   - space
   - age
@@ -122,9 +113,6 @@ ngrams:
 - - notable
   - persons
   - named
-- - provincial
-  - police
-  - station
 - - persons
   - named
   - madox
@@ -134,213 +122,225 @@ ngrams:
 - - liquid
   - paper
   - correction
-- - paper
-  - correction
-  - fluid
 - - police
   - station
   - beat
-- - detective
-  - captain's
-  - hands
+- - paper
+  - correction
+  - fluid
 - - captain
   - ford
   - madox
 - - captain
   - ford
   - madox
-- - use
-  - goose
-  - quills
 - - simple
   - tasks
   - sound
+- - use
+  - goose
+  - quills
+- - detective
+  - captain's
+  - hands
 - - ford
   - madox
   - black
-- - final
-  - logistics
-  - note
+- - madox
+  - ford
+  - '-'
+- - '-'
+  - ford
+  - madox
+- - sharp
+  - pointy
+  - blades
+- - sharp
+  - pointy
+  - blade
 - - madox
   - detective
   - captain
-- - correction
-  - fluid
-  - look
+- - madox
+  - brown
+  - '-'
 - - detective
   - captain
   - ford
 - - detective
   - captain
   - ford
-- - called
-  - correction
-  - fluid
 - - case
   - files
   - scratching
+- - brown
+  - '-'
+  - ford
+- - final
+  - logistics
+  - note
+- - correction
+  - fluid
+  - look
+- - different
+  - police
+  - stations
 - - correction
   - fluid
   - given
 - - called
+  - correction
+  - fluid
+- - called
   - ford
   - madox
-- - sharp
-  - pointy
-  - blade
-- - sharp
-  - pointy
-  - blades
-- - different
-  - police
-  - stations
-- - anybody
-  - called
-  - ford
 - - oh
   - 'yes'
   - sebastian
-- - ford
-  - '-'
-  - nor
+- - anybody
+  - called
+  - ford
 - - recent
   - days
   - inviting
+- - games
+  - without
+  - logistics
+- - games
+  - without
+  - logistics
+- - olympic
+  - games
+  - without
+- - olympic
+  - games
+  - without
 - - madox
   - spins
   - around
-- - games
-  - without
-  - logistics
-- - games
-  - without
-  - logistics
-- - olympic
-  - games
-  - without
-- - olympic
-  - games
-  - without
-- - exciting
-  - cases
-  - under
 - - name
   - ford
   - madox
+- - exciting
+  - cases
+  - under
 - - german
   - casting
   - around
 - - called
   - liquid
   - paper
-- - left
-  - detective
-  - captain
 - - without
   - actually
   - gashing
 - - blade
   - without
   - actually
-- - stations
-  - altering
-  - old
-- - sounded
-  - too
-  - german
-- - too
-  - german
-  - casting
-- - sounded
-  - too
-  - foolish
-- - used
-  - typewriters
-  - rather
 - - several
   - different
   - police
-- - suddenly
-  - vanishes
-  - away
-- - make
-  - simple
-  - tasks
+- - sounded
+  - too
+  - german
+- - left
+  - detective
+  - captain
+- - sounded
+  - too
+  - foolish
+- - too
+  - german
+  - casting
+- - stations
+  - altering
+  - old
+- - used
+  - typewriters
+  - rather
+- - ford
+  - '-'
+  - nor
 - - pointy
   - blade
   - without
-- - detective
-  - captain
-  - once
+- - suddenly
+  - vanishes
+  - away
 - - pointy
   - thing
   - scratching
+- - make
+  - simple
+  - tasks
+- - sharp
+  - pointy
+  - thing
+- - detective
+  - captain
+  - once
 - - these
   - newfangled
   - space
+- - few
+  - paragraphs
+  - ago
+- - without
+  - success
+  - nor
 - - something
   - called
   - correction
 - - found
   - anybody
   - called
-- - few
-  - paragraphs
-  - ago
-- - sharp
-  - pointy
-  - thing
 - - captain's
   - hands
   - away
-- - without
-  - success
-  - nor
-- - still
-  - use
-  - goose
-- - name
-  - oh
-  - 'yes'
-- - hands
-  - away
-  - sorry
 - - mr
   - key
   - softly
-- - two
-  - different
-  - types
+- - name
+  - oh
+  - 'yes'
+- - still
+  - use
+  - goose
+- - hands
+  - away
+  - sorry
 - - facts
   - before
   - leaving
-- - altering
-  - old
-  - case
 - - far
   - without
   - success
+- - two
+  - different
+  - types
+- - altering
+  - old
+  - case
 - - old
   - case
   - files
 - - old
   - case
   - files
-- - once
-  - again
-  - alone
-- - our
-  - main
-  - business
 - - difference
   - between
   - these
-- - thing
-  - scratching
-  - away
+- - once
+  - again
+  - alone
 - - any
   - notable
   - persons
+- - our
+  - main
+  - business
+- - thing
+  - scratching
+  - away
 - - before
   - liquid
   - paper
@@ -362,12 +362,12 @@ ngrams:
 - - get
   - nowhere
   - just
-- - these
-  - two
-  - products
 - - typewriters
   - rather
   - than
+- - these
+  - two
+  - products
 - - nowhere
   - just
   - make
@@ -389,9 +389,9 @@ ngrams:
 - - some
   - writers
   - stick
-- - future
-  - tells
-  - him
+- - than
+  - these
+  - newfangled
 - - between
   - these
   - two

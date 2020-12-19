@@ -8,69 +8,66 @@ ngrams:
 - - critic
   - bernard
   - levin
-- - mythical
-  - island
-  - o'
 - - squirt
   - pulls
   - apart
 - - la
   - belle
   - dent
-- - island
-  - o'
-  - werewolves
-- - ted
-  - cack
-  - ignores
 - - general
   - brainpan
   - dislodgement
 - - ted
   - cack
-  - tries
+  - ignores
 - - werewolves
   - apparently
   - copied
-- - annotated
-  - works
-  - bulging
-- - heavily
-  - annotated
-  - works
-- - 'false'
-  - memory
-  - nugget
+- - ted
+  - cack
+  - tries
 - - mystery
   - primrose
   - dent
+- - annotated
+  - works
+  - bulging
+- - 'false'
+  - memory
+  - nugget
+- - heavily
+  - annotated
+  - works
 - - wholly
   - imaginary
   - island
+- - mythical
+  - island
+  - o'
+- - island
+  - o'
+  - werewolves
 - - werewolves
   - roam
   - trying
 - - complete
   - drivel
   - ah
-- - address
-  - dobson's
-  - motives
-- - fruit
-  - ted
-  - cack
 - - breakfast
   - cereal
   - tellingly
+- - fruit
+  - ted
+  - cack
 - - man's
   - fallen
   - state
+- - address
+  - dobson's
+  - motives
 - - free
   - bus
   - passes
-- - bernard
-  - levin
-  - wrote
 - - hoist
   - umpteen
   - times
@@ -80,12 +77,15 @@ ngrams:
 - - gleaned
   - almost
   - exclusively
-- - question
-  - ted
-  - cack
+- - bernard
+  - levin
+  - wrote
 - - whole
   - confounded
   - business
+- - question
+  - ted
+  - cack
 - - separate
   - pamphlet
   - thereafter
@@ -95,36 +95,36 @@ ngrams:
 - - wrong
   - wrong
   - wrong
-- - earlier
-  - werewolf
-  - pamphlet
 - - pimpled
   - youngster
   - does
-- - five
-  - hundred
-  - pages
-- - marigold
-  - chew
-  - broke
+- - earlier
+  - werewolf
+  - pamphlet
 - - live
   - god
   - willing
+- - having
+  - jewels
+  - embedded
+- - five
+  - hundred
+  - pages
+- - collected
+  - several
+  - free
+- - toads
+  - having
+  - jewels
+- - marigold
+  - chew
+  - broke
 - - marigold
   - chew
   - designed
 - - shed
   - marigold
   - chew
-- - having
-  - jewels
-  - embedded
-- - toads
-  - having
-  - jewels
-- - collected
-  - several
-  - free
 - - life
   - james
   - mason
@@ -134,78 +134,63 @@ ngrams:
 - - denied
   - having
   - written
-- - fact
-  - marigold
-  - chew
-- - dobson's
-  - work
-  - takes
-- - most
-  - heavily
-  - annotated
 - - wrong
   - yet
   - unbelievably
 - - gently
   - until
   - whatever
-- - little
-  - squirt
-  - pulls
+- - most
+  - heavily
+  - annotated
+- - dobson's
+  - work
+  - takes
 - - too
   - ted
   - cack
+- - fact
+  - marigold
+  - chew
 - - investigate
   - further
   - let
 - - stow
   - away
   - aboard
+- - little
+  - squirt
+  - pulls
 - - ever
   - ate
   - bloaters
-- - away
-  - aboard
-  - ships
-- - dobson
-  - rarity
-  - coveted
 - - far
   - less
   - horrifying
-- - cereal
-  - tellingly
-  - dobson
-- - always
-  - denied
-  - having
+- - away
+  - aboard
+  - ships
 - - fate
   - far
   - less
+- - always
+  - denied
+  - having
 - - dobson's
   - most
   - heavily
 - - ears
   - little
   - squirt
+- - dobson
+  - rarity
+  - coveted
+- - cereal
+  - tellingly
+  - dobson
 - - thursday
   - mornings
   - before
-- - only
-  - james
-  - mason
-- - print
-  - dobson
-  - claims
-- - dobson
-  - actually
-  - believed
-- - apparently
-  - copied
-  - down
-- - us
-  - whose
-  - knowledge
 - - harbours
   - where
   - werewolves
@@ -215,18 +200,24 @@ ngrams:
 - - horrifying
   - than
   - primrose
-- - first
-  - werewolf
-  - pamphlet
-- - mythical
-  - island
-  - where
-- - mythical
-  - island
-  - where
+- - only
+  - james
+  - mason
+- - apparently
+  - copied
+  - down
 - - callow
   - than
   - ted
+- - mythical
+  - island
+  - where
+- - mythical
+  - island
+  - where
+- - us
+  - whose
+  - knowledge
 - - mornings
   - before
   - breakfast
@@ -236,42 +227,51 @@ ngrams:
 - - island
   - where
   - werewolves
-- - tellingly
-  - dobson
-  - does
-- - dobson
-  - always
-  - denied
-- - than
-  - ted
-  - cack
+- - first
+  - werewolf
+  - pamphlet
 - - television
   - reporter
   - even
-- - god
-  - willing
-  - before
-- - work
-  - takes
-  - years
+- - than
+  - ted
+  - cack
+- - dobson
+  - actually
+  - believed
+- - print
+  - dobson
+  - claims
 - - upon
   - werewolves
   - demonstrating
-- - never
-  - got
-  - round
 - - pronouncements
   - upon
   - werewolves
+- - god
+  - willing
+  - before
 - - less
   - horrifying
   - than
-- - terrifying
-  - than
-  - marigold
+- - never
+  - got
+  - round
+- - tellingly
+  - dobson
+  - does
+- - work
+  - takes
+  - years
 - - film
   - bigger
   - than
+- - dobson
+  - always
+  - denied
+- - terrifying
+  - than
+  - marigold
 - - james
   - mason
   - could
@@ -281,9 +281,6 @@ ngrams:
 - - further
   - let
   - us
-- - chew
-  - broke
-  - her
 - - our
   - own
   - conclusions
@@ -293,9 +290,6 @@ ngrams:
 - - draw
   - our
   - own
-- - made
-  - dobson
-  - deceive
 - - bigger
   - than
   - life
@@ -305,75 +299,81 @@ ngrams:
 - - umpteen
   - times
   - more
-- - shaking
-  - him
-  - gently
 - - times
   - more
   - terrifying
-- - cack
-  - has
-  - bitten
-- - only
-  - ever
-  - ate
-- - standing
+- - chew
+  - broke
+  - her
+- - shaking
   - him
-  - upside
+  - gently
 - - werewolves
   - demonstrating
   - them
+- - made
+  - dobson
+  - deceive
+- - only
+  - ever
+  - ate
+- - cack
+  - has
+  - bitten
+- - standing
+  - him
+  - upside
+- - where
+  - werewolves
+  - think
+- - where
+  - werewolves
+  - think
 - - ted
   - cack
   - has
 - - werewolf
   - some
   - sort
-- - where
-  - werewolves
-  - think
-- - where
-  - werewolves
-  - think
-- - before
-  - breakfast
-  - dobson
 - - breakfast
   - dobson
   - might
-- - treatment
-  - been
-  - applied
+- - before
+  - breakfast
+  - dobson
 - - evidence
   - piled
   - up
 - - has
   - collected
   - several
+- - treatment
+  - been
+  - applied
 - - every
   - werewolf
   - some
-- - him
-  - gently
-  - until
-- - after
-  - long
-  - years
 - - much
   - more
   - shocking
-- - has
-  - bitten
-  - yet
-- - piled
-  - up
-  - against
+- - after
+  - long
+  - years
+- - him
+  - gently
+  - until
 - - paragraph
   - about
   - werewolves
+- - piled
+  - up
+  - against
 - - gutta
   - percha
   - into
+- - has
+  - bitten
+  - yet
 - - about
   - werewolves
   - apparently
@@ -389,21 +389,21 @@ ngrams:
 - - reporter
   - even
   - more
-- - been
-  - applied
-  - perhaps
-- - stop
-  - writing
-  - about
 - - more
   - terrifying
   - than
-- - him
-  - upside
-  - down
+- - stop
+  - writing
+  - about
+- - been
+  - applied
+  - perhaps
 - - dobson
   - might
   - never
+- - him
+  - upside
+  - down
 story:
   date: 2010-05-04
   id: 2010-05-04-the-mythical-island

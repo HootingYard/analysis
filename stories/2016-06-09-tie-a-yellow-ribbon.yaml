@@ -14,33 +14,33 @@ ngrams:
 - - oak
   - tree
   - yellow
-- - tree
-  - yellow
-  - ribbon
 - - oak
   - tree
   - armed
+- - tree
+  - yellow
+  - ribbon
 - - coming
   - gale
   - ask
-- - gale
-  - ask
-  - yourself
 - - yellow
   - ribbon
   - round
+- - gale
+  - ask
+  - yourself
 - - oak
   - tree
   - having
 - - once
   - remarked
   - yellow
-- - scurry
-  - away
-  - cackling
 - - bash
   - mr
   - snippy
+- - scurry
+  - away
+  - cackling
 - - old
   - oak
   - tree
@@ -53,6 +53,9 @@ ngrams:
 - - old
   - oak
   - tree
+- - give
+  - mr
+  - snippy
 - - away
   - cackling
   - looking
@@ -62,9 +65,6 @@ ngrams:
 - - first
   - faint
   - stirrings
-- - give
-  - mr
-  - snippy
 - - honestly
   - say
   - 'yes'
@@ -74,15 +74,15 @@ ngrams:
 - - oak
   - tree
   - now
+- - tree
+  - having
+  - first
 - - may
   - give
   - yourself
 - - other
   - trees
   - pick
-- - tree
-  - having
-  - first
 - - tool
   - then
   - give
@@ -95,6 +95,9 @@ ngrams:
 - - trees
   - pick
   - up
+- - then
+  - give
+  - mr
 - - convinced
   - your
   - knot
@@ -104,21 +107,18 @@ ngrams:
 - - consider
   - your
   - handiwork
-- - then
-  - give
-  - mr
-- - give
-  - your
-  - ribbon
 - - can
   - honestly
   - say
-- - will
-  - snip
-  - snip
 - - yellow
   - ribbon
   - if
+- - give
+  - your
+  - ribbon
+- - will
+  - snip
+  - snip
 - - ask
   - yourself
   - if

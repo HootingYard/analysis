@@ -14,12 +14,12 @@ ngrams:
 - - alpine
   - mountain
   - declivity
-- - mountain
-  - declivity
-  - calling
 - - calling
   - calling
   - hopelessly
+- - mountain
+  - declivity
+  - calling
 - - danny
   - boy
   - broadsword
@@ -47,36 +47,36 @@ ngrams:
 - - danny
   - boy
   - comes
-- - blue
-  - blue
-  - tyrolean
-- - railway
-  - tracks
-  - above
 - - tyrolean
   - sky
   - beneath
+- - railway
+  - tracks
+  - above
 - - blue
+  - blue
   - tyrolean
-  - sky
 - - broadsword
   - nor
   - danny
+- - blue
+  - tyrolean
+  - sky
 - - camouflage
   - himself
   - broadsword
 - - himself
   - broadsword
   - perches
-- - blue
-  - blue
-  - sky
 - - nor
   - danny
   - boy
 - - neither
   - broadsword
   - nor
+- - blue
+  - blue
+  - sky
 story:
   date: 2013-05-28
   id: 2013-05-28-broadsword-calling-danny-boy

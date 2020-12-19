@@ -2,32 +2,32 @@ ngrams:
 - - seaweed
   - fatima
   - ok
-- - sibelius
-  - symphonies
-  - recorded
 - - hollow
   - laughter
   - gulls
+- - sibelius
+  - symphonies
+  - recorded
 - - beat
   - combo
   - brute
-- - puff
-  - pastry
-  - fatima
-- - apparently
-  - fatima
-  - survived
 - - combo
   - brute
   - beauty
-- - seven
-  - sibelius
-  - symphonies
+- - apparently
+  - fatima
+  - survived
 - - throes
   - update
   - apparently
+- - seven
+  - sibelius
+  - symphonies
 - - update
   - apparently
+  - fatima
+- - puff
+  - pastry
   - fatima
 - - hungry
   - band
@@ -35,48 +35,48 @@ ngrams:
 - - band
   - hollow
   - laughter
-- - mythical
-  - giant
-  - crows
 - - gulls
   - seem
   - tense
+- - mythical
+  - giant
+  - crows
 - - anyway
   - let's
   - talk
 - - choc
   - ice
   - ms
+- - resort
+  - cocktail
+  - sausages
+- - seaside
+  - pier
+  - fatima
+- - crumbling
+  - seaside
+  - pier
 - - top
   - beat
   - combo
 - - seaside
-  - pier
-  - fatima
-- - resort
+  - resort
   - cocktail
-  - sausages
-- - crumbling
-  - seaside
-  - pier
 - - album
   - band
   - wait
 - - pier
   - fatima
   - it's
-- - pastry
-  - fatima
-  - 'yes'
 - - band
   - split
   - due
 - - death
   - throes
   - update
-- - seaside
-  - resort
-  - cocktail
+- - pastry
+  - fatima
+  - 'yes'
 - - windy
   - band
   - 'yes'
@@ -92,21 +92,21 @@ ngrams:
 - - air
   - pride
   - plume
+- - sound
+  - art
+  - band
 - - always
   - hungry
   - fatima
 - - rapacious
   - scavenging
   - birds
-- - sound
-  - art
+- - scavenging
+  - birds
   - band
 - - next
   - album
   - fatima
-- - scavenging
-  - birds
-  - band
 - - curious
   - perhaps
   - they're
@@ -119,6 +119,9 @@ ngrams:
 - - fatima
   - well
   - anyway
+- - well
+  - anyway
+  - let's
 - - act
   - oh
   - air
@@ -128,18 +131,15 @@ ngrams:
 - - these
   - rapacious
   - scavenging
-- - well
-  - anyway
-  - let's
 - - new
   - album
   - band
 - - album
   - fatima
   - how
-- - new
-  - release
-  - it's
+- - pretty
+  - much
+  - defined
 story:
   date: 2009-09-05
   id: 2009-09-05-interview-on-a-pier

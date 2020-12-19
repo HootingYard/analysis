@@ -11,12 +11,12 @@ ngrams:
 - - japanese
   - artist
   - called
-- - called
-  - yoko
-  - ono
 - - artist
   - called
   - yoko
+- - called
+  - yoko
+  - ono
 - - efforts
   - fail
   - until
@@ -35,6 +35,9 @@ ngrams:
 - - new
   - york
   - while
+- - york
+  - while
+  - back
 - - her
   - financial
   - problems
@@ -47,9 +50,6 @@ ngrams:
 - - road
   - she
   - writes
-- - york
-  - while
-  - back
 - - letter
   - ordering
   - them

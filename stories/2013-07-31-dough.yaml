@@ -8,18 +8,24 @@ ngrams:
 - - nun
   - specifically
   - maria
-- - basin
-  - haircut
-  - istvan
 - - maps
   - lugubrious
   - insanitary
 - - unbecoming
   - features
   - twisted
+- - basin
+  - haircut
+  - istvan
 - - brothers
   - johnson
   - sang
+- - dough
+  - companion
+  - gently
+- - sofa
+  - slowly
+  - waving
 - - unbecoming
   - personal
   - appearance
@@ -29,30 +35,24 @@ ngrams:
 - - pudding
   - basin
   - haircut
-- - dough
-  - companion
-  - gently
-- - sofa
-  - slowly
-  - waving
-- - istvan
-  - grew
-  - dissatisfied
 - - babbling
   - gibberish
   - istvan
 - - prepared
   - sufficient
   - dough
-- - pastry
-  - christopher
-  - plummer
-- - pastry
-  - christopher
-  - plummer
+- - istvan
+  - grew
+  - dissatisfied
 - - living
   - dough
   - julie
+- - pastry
+  - christopher
+  - plummer
+- - pastry
+  - christopher
+  - plummer
 - - eerie
   - baker
   - picked
@@ -77,57 +77,57 @@ ngrams:
 - - lumbered
   - towards
   - istvan
+- - important
+  - mountain
+  - range
+- - important
+  - mountain
+  - range
+- - insalubrious
+  - provincial
+  - town
+- - insalubrious
+  - provincial
+  - town
 - - baker
   - whose
   - pastry
 - - minutes
   - istvan
   - sat
-- - important
-  - mountain
-  - range
-- - important
-  - mountain
-  - range
-- - insalubrious
-  - provincial
-  - town
-- - insalubrious
-  - provincial
-  - town
-- - longer
-  - felt
-  - alone
 - - julie
   - andrews
   - having
-- - door
-  - swung
-  - open
-- - huge
-  - important
-  - mountain
-- - whose
-  - pastry
-  - shop
+- - longer
+  - felt
+  - alone
 - - andrews
   - having
   - prepared
+- - huge
+  - important
+  - mountain
+- - door
+  - swung
+  - open
 - - having
   - prepared
   - sufficient
+- - whose
+  - pastry
+  - shop
 - - town
   - don't
   - forget
+- - clear
+  - bright
+  - days
 - - pastry
   - shop
   - came
 - - most
   - maps
   - lugubrious
-- - clear
-  - bright
-  - days
 - - away
   - istvan
   - dared
@@ -140,36 +140,36 @@ ngrams:
 - - baker
   - fell
   - back
-- - wizardy
-  - man
-  - turned
-- - back
-  - room
-  - swishing
-- - istvan
-  - never
-  - saw
 - - greater
   - than
   - istvan
-- - many
-  - women
-  - among
+- - wizardy
+  - man
+  - turned
 - - unbecoming
   - than
   - usual
+- - istvan
+  - never
+  - saw
 - - than
   - merely
   - sprawl
+- - back
+  - room
+  - swishing
 - - happy
   - happier
   - than
-- - insanitary
-  - person
-  - did
+- - many
+  - women
+  - among
 - - baking
   - time
   - elapsed
+- - insanitary
+  - person
+  - did
 - - returned
   - more
   - intense
@@ -203,45 +203,45 @@ ngrams:
 - - 'no'
   - longer
   - felt
-- - him
-  - again
-  - barely
-- - sign
-  - though
-  - some
 - - fell
   - back
   - upon
+- - sign
+  - though
+  - some
+- - him
+  - again
+  - barely
 - - already
   - preheated
   - what
-- - were
-  - happy
-  - happier
-- - evenings
-  - were
-  - happy
-- - saw
-  - him
-  - again
-- - than
-  - istvan
-  - could
-- - mysterious
-  - fellow
-  - into
 - - even
   - more
   - unbecoming
+- - than
+  - istvan
+  - could
 - - more
   - unbecoming
   - than
 - - more
   - intense
   - than
+- - were
+  - happy
+  - happier
+- - evenings
+  - were
+  - happy
+- - mysterious
+  - fellow
+  - into
 - - appearance
   - even
   - more
+- - saw
+  - him
+  - again
 - - 'no'
   - sign
   - though
@@ -251,42 +251,42 @@ ngrams:
 - - black
   - cape
   - out
-- - then
-  - shoved
-  - her
-- - never
-  - saw
-  - him
 - - christopher
   - plummer
   - there
 - - bright
   - days
   - when
+- - never
+  - saw
+  - him
+- - then
+  - shoved
+  - her
 - - though
   - some
   - say
-- - do
-  - indeed
-  - said
 - - dough
   - dear
   - would
+- - do
+  - indeed
+  - said
 - - were
   - many
   - women
-- - horror
-  - they
-  - found
 - - nun
   - made
   - out
+- - horror
+  - they
+  - found
+- - ladies
+  - though
+  - there
 - - all
   - hurried
   - away
-- - pastries
-  - if
-  - only
 story:
   date: 2013-07-31
   id: 2013-07-31-dough

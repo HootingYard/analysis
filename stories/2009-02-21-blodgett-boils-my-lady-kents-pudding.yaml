@@ -1,10 +1,10 @@
 ngrams:
-- - dressmaker
-  - abraham
-  - zapruder
 - - pompously
   - sylvester
   - patridge
+- - dressmaker
+  - abraham
+  - zapruder
 - - poplars
   - pompously
   - sylvester
@@ -23,15 +23,15 @@ ngrams:
 - - lee
   - harvey
   - oswald
-- - pd
-  - mm
-  - bell
-- - culinary
-  - king's
-  - crash
 - - model
   - pd
   - mm
+- - culinary
+  - king's
+  - crash
+- - pd
+  - mm
+  - bell
 - - allow
   - indentations
   - irrespective
@@ -59,39 +59,39 @@ ngrams:
 - - hammer
   - tent
   - pegs
-- - john
-  - fitzgerald
-  - kennedy
-- - president
-  - john
-  - fitzgerald
-- - blodgett
-  - scraped
-  - shorthand
 - - pretty
   - sorry
   - excuse
-- - boiled
-  - pudding
-  - thoughts
 - - finished
   - pudding
   - caused
+- - boiled
+  - pudding
+  - thoughts
+- - john
+  - fitzgerald
+  - kennedy
 - - wrong
   - shape
   - likewise
+- - president
+  - john
+  - fitzgerald
 - - boiled
   - pudding
   - matters
-- - shot
-  - president
-  - john
+- - blodgett
+  - scraped
+  - shorthand
 - - series
   - movie
   - camera
 - - director
   - series
   - movie
+- - shot
+  - president
+  - john
 - - puddings
   - since
   - infancy
@@ -113,39 +113,39 @@ ngrams:
 - - dallas
   - bang
   - next
-- - puddings
-  - went
-  - blodgett
-- - lady
-  - kent
-  - should
-- - countryside
-  - around
-  - cuxhaven
 - - yet
   - strangely
   - adorable
 - - exasperating
   - yet
   - strangely
+- - lady
+  - kent
+  - should
+- - countryside
+  - around
+  - cuxhaven
 - - book
   - depository
   - specifically
+- - puddings
+  - went
+  - blodgett
+- - recipe
+  - book
+  - depository
+- - recipe
+  - book
+  - depository
+- - recipe
+  - book
+  - depository
+- - recipe
+  - book
+  - depository
 - - once
   - merely
   - salivated
-- - recipe
-  - book
-  - depository
-- - recipe
-  - book
-  - depository
-- - recipe
-  - book
-  - depository
-- - recipe
-  - book
-  - depository
 - - texas
   - recipe
   - book
@@ -155,24 +155,21 @@ ngrams:
 - - texas
   - recipe
   - book
-- - king's
-  - crash
-  - course
 - - cuxhaven
   - while
   - canvas
-- - blodgett
-  - knew
-  - almost
-- - effect
-  - simply
-  - because
-- - went
-  - blodgett
-  - knew
+- - king's
+  - crash
+  - course
 - - example
   - quite
   - deliberately
+- - effect
+  - simply
+  - because
+- - blodgett
+  - knew
+  - almost
 - - sharpened
   - twig
   - years
@@ -182,24 +179,27 @@ ngrams:
 - - ever
   - shot
   - anyone
-- - old
-  - recipe
-  - books
+- - went
+  - blodgett
+  - knew
 - - add
   - allegedly
   - after
+- - old
+  - recipe
+  - books
 - - steamed
   - before
   - boiling
 - - pudding
   - named
   - after
-- - merely
-  - salivated
-  - over
 - - dented
   - such
   - reservations
+- - merely
+  - salivated
+  - over
 - - twig
   - years
   - later
@@ -209,81 +209,81 @@ ngrams:
 - - salivated
   - over
   - blodgett
-- - blodgett
-  - blodgett
-  - first
-- - over
-  - blodgett
-  - stumbled
 - - dallas
   - just
   - along
+- - over
+  - blodgett
+  - stumbled
 - - any
   - student
   - whose
 - - blodgett
+  - blodgett
+  - first
+- - blodgett
   - stumbled
   - upon
-- - blodgett
-  - first
-  - came
 - - ears
   - because
   - here
+- - smooth
+  - edges
+  - can
+- - correct
+  - boiling
+  - time
+- - blodgett
+  - first
+  - came
 - - being
   - fobbed
   - 'off'
 - - rummaging
   - through
   - old
-- - correct
-  - boiling
-  - time
-- - through
-  - old
-  - recipe
-- - smooth
-  - edges
-  - can
 - - recipe
   - books
   - could
+- - through
+  - old
+  - recipe
 - - years
   - later
   - far
+- - notebook
+  - embellished
+  - them
+- - know
+  - ever
+  - shot
 - - abraham
   - zapruder
   - who
 - - zapruder
   - who
   - filmed
-- - know
-  - ever
-  - shot
-- - notebook
-  - embellished
-  - them
-- - blodgett
-  - could
-  - tell
 - - eater
   - may
   - think
 - - may
   - think
   - rightly
+- - blodgett
+  - could
+  - tell
 - - occasion
   - who
   - sprawled
-- - been
-  - outrageously
-  - dented
 - - books
   - could
   - himself
 - - though
   - blodgett
   - could
+- - been
+  - outrageously
+  - dented
 - - having
   - them
   - forage
@@ -293,120 +293,120 @@ ngrams:
 - - talked
   - about
   - puddings
-- - pegs
-  - into
-  - campsite
 - - conversation
   - about
   - puddings
-- - students
-  - were
-  - huddled
+- - pegs
+  - into
+  - campsite
 - - lengthy
   - conversation
   - about
-- - were
-  - wiped
-  - clean
-- - tent
-  - pegs
-  - into
-- - thoughts
-  - were
-  - wiped
 - - pedagogy
   - beforehand
   - if
-- - blodgett
-  - talked
-  - about
-- - pudding
-  - thoughts
+- - tent
+  - pegs
+  - into
+- - students
   - were
+  - huddled
+- - were
+  - wiped
+  - clean
+- - bash
+  - out
+  - dents
+- - thoughts
+  - were
+  - wiped
 - - into
   - campsite
   - mud
 - - misshapen
   - blackbirds
   - will
-- - bash
-  - out
-  - dents
+- - blodgett
+  - talked
+  - about
 - - student
   - fell
   - into
-- - escapade
-  - when
-  - blodgett
+- - pudding
+  - thoughts
+  - were
 - - will
   - cause
   - revulsion
+- - escapade
+  - when
+  - blodgett
 - - blackbirds
   - will
   - cause
-- - more
-  - said
-  - blodgett
 - - first
   - came
   - upon
 - - pan
   - matter
   - if
+- - more
+  - said
+  - blodgett
 - - get
   - bashed
   - about
-- - we
-  - allow
-  - indentations
 - - helpful
   - hints
   - we
+- - we
+  - allow
+  - indentations
+- - would
+  - add
+  - allegedly
 - - man
   - who
   - knew
 - - blodgett
   - all
   - ears
-- - would
-  - add
-  - allegedly
 - - all
   - likelihood
   - given
-- - two
-  - about
-  - boiling
-- - been
-  - sent
-  - back
 - - pudding
   - tell
   - me
 - - 'no'
   - idea
   - how
-- - are
-  - cogent
-  - arguments
+- - two
+  - about
+  - boiling
 - - posner
   - nobody
   - so
+- - been
+  - sent
+  - back
+- - are
+  - cogent
+  - arguments
 - - reservations
   - are
   - likely
 - - all
   - ears
   - because
+- - own
+  - pans
+  - would
 - - should
   - we
   - allow
 - - original
   - should
   - we
-- - own
-  - pans
-  - would
 - - such
   - escapade
   - when
@@ -419,12 +419,12 @@ ngrams:
 - - nobody
   - so
   - far
-- - said
-  - blodgett
-  - all
-- - blodgett
-  - all
-  - over
+- - there
+  - any
+  - cases
+- - any
+  - cases
+  - we
 story:
   date: 2009-02-21
   id: 2009-02-21-blodgett-boils-my-lady-kents-pudding

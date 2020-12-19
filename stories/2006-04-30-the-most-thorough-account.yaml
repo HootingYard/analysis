@@ -1,10 +1,10 @@
 ngrams:
-- - inspirational
-  - sport
-  - statues
 - - revolution
   - jesus
   - inspirational
+- - inspirational
+  - sport
+  - statues
 - - jesus
   - inspirational
   - sport
@@ -20,18 +20,18 @@ ngrams:
 - - included
   - space
   - prevents
-- - pencil
-  - revolution
-  - jesus
 - - reprinting
   - whole
   - swathes
-- - corrugated
-  - cardboard
-  - stacks
+- - pencil
+  - revolution
+  - jesus
 - - cardboard
   - stacks
   - grabbed
+- - corrugated
+  - cardboard
+  - stacks
 - - wassail
   - instead
   - plumping
@@ -50,12 +50,12 @@ ngrams:
 - - serial
   - story
   - testimony
-- - hurl
-  - used
-  - batteries
 - - right
   - shoulder
   - worldly
+- - hurl
+  - used
+  - batteries
 - - soggy
   - november
   - morning
@@ -74,9 +74,6 @@ ngrams:
 - - wears
   - another
   - hat
-- - vest
-  - whose
-  - name
 - - came
   - hurtling
   - towards
@@ -86,30 +83,33 @@ ngrams:
 - - most
   - thorough
   - account
+- - vest
+  - whose
+  - name
 - - obtuse
   - yet
   - however
 - - yet
   - however
   - unforgivable
-- - account
-  - episode
-  - two
 - - already
   - turning
   - away
+- - account
+  - episode
+  - two
 - - announce
   - our
   - identity
-- - every
-  - last
-  - nuance
 - - rather
   - too
   - loudly
 - - perhaps
   - best
   - given
+- - every
+  - last
+  - nuance
 - - shouted
   - rather
   - too
@@ -122,21 +122,21 @@ ngrams:
 - - spoken
   - those
   - words
-- - remember
-  - every
-  - last
 - - hogwash
   - then
   - sprang
+- - remember
+  - every
+  - last
+- - turned
+  - back
+  - once
 - - mumbled
   - some
   - hogwash
 - - dissembling
   - mumbled
   - some
-- - turned
-  - back
-  - once
 - - gives
   - some
   - indication
@@ -146,24 +146,21 @@ ngrams:
 - - above
   - gives
   - some
+- - shirt
+  - 'no'
+  - jumper
 - - has
   - cut
   - loose
 - - peasant
   - frailty
   - who
-- - shirt
-  - 'no'
-  - jumper
 - - wore
   - 'no'
   - shirt
 - - never
   - seen
   - before
-- - beg
-  - your
-  - pardon
 - - then
   - sprang
   - away
@@ -173,15 +170,18 @@ ngrams:
 - - grabbed
   - what
   - batteries
+- - beg
+  - your
+  - pardon
 - - easy
   - make
   - do
-- - has
-  - become
-  - almost
 - - 'no'
   - jumper
   - nor
+- - has
+  - become
+  - almost
 - - dig
   - out
   - binder
@@ -200,15 +200,15 @@ ngrams:
 - - has
   - knelt
   - before
-- - those
-  - who
-  - wear
-- - all
-  - peasant
-  - frailty
 - - space
   - prevents
   - me
+- - all
+  - peasant
+  - frailty
+- - those
+  - who
+  - wear
 - - back
   - once
   - more
@@ -230,6 +230,9 @@ ngrams:
 - - some
   - such
   - words
+- - insight
+  - would
+  - put
 - - copy
   - let
   - me
@@ -239,15 +242,15 @@ ngrams:
 - - eyes
   - were
   - still
-- - insight
-  - would
-  - put
 - - thing
   - we
   - absolutely
 - - many
   - will
   - fall
+- - make
+  - do
+  - then
 - - frailty
   - who
   - has
@@ -260,90 +263,87 @@ ngrams:
 - - who
   - has
   - sucked
+- - let
+  - me
+  - take
 - - who
   - has
   - crushed
 - - flag
   - who
   - has
-- - make
-  - do
-  - then
 - - who
   - has
   - cut
-- - let
-  - me
-  - take
 - - so
   - easy
   - make
-- - 'no'
-  - shirt
-  - 'no'
 - - would
   - probably
   - never
 - - though
   - many
   - will
-- - curiosity
-  - had
-  - driven
+- - 'no'
+  - shirt
+  - 'no'
 - - our
   - identity
   - so
 - - jammed
   - them
   - into
+- - curiosity
+  - had
+  - driven
 - - all
   - can
   - seek
-- - man
-  - who
-  - has
 - - this
   - astonishing
   - book
 - - these
   - signs
   - an
+- - man
+  - who
+  - has
 - - stolen
   - batteries
   - from
 - - string
   - hung
   - from
+- - 'no'
+  - cult
+  - we
 - - cut
   - loose
   - from
 - - from
   - reprinting
   - whole
-- - 'no'
-  - cult
-  - we
 - - twig
   - rail
   - at
 - - rail
   - at
   - flies
-- - vest
-  - now
-  - this
-- - be
-  - continued
-  - detours
 - - research
   - but
   - also
+- - be
+  - continued
+  - detours
+- - vest
+  - now
+  - this
 - - used
   - batteries
   - at
-- - had
-  - never
-  - seen
+- - wharf
+  - if
+  - they
 story:
   date: 2006-04-30
   id: 2006-04-30-the-most-thorough-account

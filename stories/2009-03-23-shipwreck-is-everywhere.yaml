@@ -2,15 +2,18 @@ ngrams:
 - - jaunty
   - sporting
   - occasions
-- - weekly
-  - shipwreck
-  - news
-- - shipwreck
-  - news
-  - collected
 - - everywhere
   - nobody
   - considered
+- - weekly
+  - shipwreck
+  - news
+- - tint
+  - neither
+  - partridge
+- - shipwreck
+  - news
+  - collected
 - - voice
   - piping
   - valves
@@ -20,21 +23,18 @@ ngrams:
 - - news
   - collected
   - accounts
-- - share
-  - dobson's
-  - macabre
-- - tint
-  - neither
-  - partridge
-- - hens
-  - became
-  - hysterical
 - - rex
   - tint
   - neither
 - - better
   - lifeboat
   - provision
+- - share
+  - dobson's
+  - macabre
+- - hens
+  - became
+  - hysterical
 - - door
   - offering
   - blandishments
@@ -47,33 +47,33 @@ ngrams:
 - - partridge
   - nor
   - peacock
-- - dobson's
-  - door
-  - offering
-- - interest
-  - marigold
-  - chew
 - - creepy
   - cousins
   - came
 - - cousins
   - came
   - banging
+- - dobson's
+  - door
+  - offering
 - - fictional
   - usually
   - written
+- - interest
+  - marigold
+  - chew
 - - similar
   - initiatives
   - quite
-- - although
-  - both
-  - partridge
-- - petronius
-  - indeed
-  - late
 - - neither
   - partridge
   - nor
+- - petronius
+  - indeed
+  - late
+- - although
+  - both
+  - partridge
 - - held
   - himself
   - aloof
@@ -86,36 +86,36 @@ ngrams:
 - - words
   - during
   - rehearsals
+- - considers
+  - how
+  - devoted
 - - mezzotints
   - dobson
   - clipped
 - - marigold
   - chew
   - once
-- - considers
-  - how
-  - devoted
 - - every
   - tuesday
   - morning
-- - themselves
-  - invented
-  - dobson
 - - pamphleteer
   - never
   - succumbed
+- - themselves
+  - invented
+  - dobson
 - - chew
   - once
   - set
-- - print
-  - pamphleteer
-  - dobson
 - - happy
   - gatherings
   - such
 - - cows
   - toppled
   - over
+- - print
+  - pamphleteer
+  - dobson
 - - many
   - years
   - partridge
@@ -125,27 +125,27 @@ ngrams:
 - - invented
   - dobson
   - never
-- - word
-  - although
-  - she
-- - dobson
-  - never
-  - wrote
 - - never
   - succumbed
   - even
-- - pair
-  - who
-  - relished
 - - sea
   - nor
   - did
+- - word
+  - although
+  - she
 - - shipwrecks
   - clapping
   - their
+- - pair
+  - who
+  - relished
 - - gruesome
   - pair
   - who
+- - dobson
+  - never
+  - wrote
 - - up
   - happy
   - gatherings
@@ -158,15 +158,12 @@ ngrams:
 - - unseemly
   - glee
   - when
-- - particular
-  - winter
-  - when
 - - penned
   - more
   - than
-- - although
-  - she
-  - did
+- - particular
+  - winter
+  - when
 - - winter
   - when
   - either
@@ -176,6 +173,9 @@ ngrams:
 - - abandoned
   - when
   - cows
+- - although
+  - she
+  - did
 - - maritime
   - disaster
   - they

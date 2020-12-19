@@ -8,12 +8,12 @@ ngrams:
 - - starring
   - peter
   - finch
-- - invisible
-  - hamster
-  - mayhem
 - - potboiler
   - invisible
   - hamster
+- - invisible
+  - hamster
+  - mayhem
 - - fast
   - asleep
   - blimey
@@ -35,30 +35,30 @@ ngrams:
 - - finch
   - whose
   - surname
-- - peter
-  - finch
-  - whose
 - - hamster
   - thus
   - challenged
-- - cage
-  - almost
-  - covered
+- - peter
+  - finch
+  - whose
 - - actual
   - hamster
   - thus
+- - cage
+  - almost
+  - covered
 - - asleep
   - blimey
   - said
 - - small
   - cage
   - over
-- - looked
-  - undoubtedly
-  - like
 - - african
   - airfields
   - do
+- - looked
+  - undoubtedly
+  - like
 - - airfields
   - do
   - drop
@@ -104,24 +104,24 @@ ngrams:
 - - an
   - actual
   - hamster
-- - has
-  - been
-  - suffering
 - - over
   - there
   - fitted
 - - cage
   - over
   - there
+- - has
+  - been
+  - suffering
 - - an
   - interview
   - why
-- - some
-  - time
-  - now
 - - excelsior
   - or
   - wood
+- - some
+  - time
+  - now
 story:
   date: 2017-11-13
   id: 2017-11-13-the-raid-on-entebbe

@@ -1,13 +1,7 @@
 ngrams:
-- - o'
-  - cartographic
-  - excitement
 - - frolicking
   - outdoors
   - begins
-- - summer
-  - o'
-  - cartographic
 - - holiday
   - cartographic
   - excitement
@@ -23,12 +17,18 @@ ngrams:
 - - cartographic
   - excitement
   - project
+- - o'
+  - cartographic
+  - excitement
 - - dell
   - hotel
   - carpark
 - - school
   - community
   - education
+- - summer
+  - o'
+  - cartographic
 - - entire
   - landscape
   - showing
@@ -44,12 +44,12 @@ ngrams:
 - - themselves
   - drawing
   - maps
-- - busy
-  - themselves
-  - drawing
 - - tivol
   - sprinted
   - round
+- - busy
+  - themselves
+  - drawing
 - - chalet
   - o'
   - prose
@@ -62,12 +62,12 @@ ngrams:
 - - indeed
   - inaccurately
   - represent
-- - holidays
-  - surprisingly
-  - few
 - - coming
   - weeks
   - thus
+- - holidays
+  - surprisingly
+  - few
 - - busy
   - until
   - summer's
@@ -77,18 +77,18 @@ ngrams:
 - - read
   - everything
   - possibly
-- - few
-  - children
-  - today
 - - until
   - summer's
   - end
-- - children
+- - few
+  - children
   - today
-  - take
 - - investigations
   - posted
   - here
+- - children
+  - today
+  - take
 - - running
   - track
   - where
@@ -104,12 +104,12 @@ ngrams:
 - - possibly
   - twice
   - then
-- - twice
-  - then
-  - give
 - - tinies
   - can
   - busy
+- - twice
+  - then
+  - give
 story:
   date: 2010-07-27
   id: 2010-07-27-summer-o-cartographic-excitement

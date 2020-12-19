@@ -5,27 +5,27 @@ ngrams:
 - - occur
   - bruce
   - willis
-- - america
-  - editor
-  - michael
 - - screw
   - repeatedly
   - referred
-- - roman
-  - empire
-  - c
-- - television
-  - reviewer
-  - sam
+- - america
+  - editor
+  - michael
 - - fatuous
   - television
   - reviewer
-- - presiding
-  - evil
-  - spirit
+- - television
+  - reviewer
+  - sam
 - - television
   - reviewer
   - addressing
+- - roman
+  - empire
+  - c
+- - presiding
+  - evil
+  - spirit
 - - general
   - knowledge
   - henry
@@ -59,15 +59,15 @@ ngrams:
 - - knowledge
   - today's
   - case
+- - thought
+  - anybody
+  - employed
 - - called
   - general
   - knowledge
 - - reviewing
   - last
   - night's
-- - thought
-  - anybody
-  - employed
 - - night's
   - new
   - sherlock
@@ -113,18 +113,18 @@ ngrams:
 - - fat
   - lot
   - more
-- - stopped
-  - right
-  - then
 - - very
   - different
   - book
-- - first
-  - great
-  - work
+- - stopped
+  - right
+  - then
 - - monday
   - morning
   - time
+- - first
+  - great
+  - work
 - - roman
   - empire
   - 'no'
@@ -137,18 +137,15 @@ ngrams:
 - - never
   - more
   - wrong
-- - course
-  - anyone
-  - who
-- - who
-  - sets
-  - us
-- - planets
-  - will
-  - continue
 - - makes
   - if
   - lacking
+- - course
+  - anyone
+  - who
+- - planets
+  - will
+  - continue
 - - rarely
   - right
   - about
@@ -158,6 +155,9 @@ ngrams:
 - - lot
   - more
   - than
+- - who
+  - sets
+  - us
 - - right
   - about
   - anything
@@ -173,12 +173,12 @@ ngrams:
 - - tombstone
   - again
   - we
+- - wrong
+  - than
+  - when
 - - only
   - makes
   - if
-- - vex
-  - me
-  - those
 story:
   date: 2010-07-26
   id: 2010-07-26-monday-morning-rant

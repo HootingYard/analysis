@@ -8,12 +8,12 @@ ngrams:
 - - neil
   - postman
   - gives
-- - neglected
-  - genius
-  - freddie
 - - pier
   - majestically
   - lugubrious
+- - neglected
+  - genius
+  - freddie
 - - providing
   - unnecessary
   - detail
@@ -29,12 +29,6 @@ ngrams:
 - - masterpiece
   - funny
   - bones
-- - age
-  - o'
-  - pap
-- - current
-  - age
-  - o'
 - - entertainment
   - television
   - shows
@@ -47,30 +41,36 @@ ngrams:
 - - panel
   - show
   - regulars
-- - death
-  - neil
-  - postman
+- - age
+  - o'
+  - pap
 - - seaside
   - resort
   - gift
+- - current
+  - age
+  - o'
 - - resort
   - gift
   - shop
+- - death
+  - neil
+  - postman
+- - television
+  - shows
+  - including
 - - including
   - channel
   - news
 - - excruciating
   - light
   - entertainment
-- - television
-  - shows
-  - including
-- - davies
-  - older
-  - readers
 - - particular
   - living
   - owl
+- - davies
+  - older
+  - readers
 - - light
   - entertainment
   - television
@@ -80,12 +80,12 @@ ngrams:
 - - dead
   - owl
   - stuffed
-- - green
-  - light
-  - straight
 - - sparkling
   - good
   - health
+- - green
+  - light
+  - straight
 - - basis
   - alone
   - however
@@ -95,12 +95,12 @@ ngrams:
 - - people
   - held
   - spellbound
-- - whose
-  - eyes
-  - gleam
 - - watch
   - people
   - talking
+- - whose
+  - eyes
+  - gleam
 - - numberless
   - things
   - called
@@ -116,42 +116,42 @@ ngrams:
 - - usual
   - suspects
   - our
-- - every
-  - week
-  - four
 - - cannot
   - come
   - soon
-- - our
-  - current
-  - age
-- - come
-  - soon
-  - enough
+- - every
+  - week
+  - four
 - - resort
   - where
   - freddie
+- - come
+  - soon
+  - enough
 - - any
   - television
   - network
-- - editors
-  - read
-  - hooting
+- - our
+  - current
+  - age
 - - seaside
   - resort
   - where
-- - older
-  - readers
-  - may
+- - editors
+  - read
+  - hooting
 - - chairman
   - then
   - ideally
-- - other
-  - television
-  - shows
+- - older
+  - readers
+  - may
 - - president
   - indeed
   - before
+- - other
+  - television
+  - shows
 - - where
   - people
   - wail
@@ -176,12 +176,12 @@ ngrams:
 - - day
   - cannot
   - come
-- - read
-  - hooting
-  - yard
 - - some
   - further
   - particulars
+- - read
+  - hooting
+  - yard
 - - lose
   - their
   - audiences
@@ -191,9 +191,6 @@ ngrams:
 - - about
   - owls
   - uninterrupted
-- - these
-  - people
-  - like
 - - fanatical
   - glee
   - when
@@ -209,27 +206,24 @@ ngrams:
 - - faffing
   - objections
   - will
+- - these
+  - people
+  - like
+- - further
+  - particulars
+  - if
 - - intelligence
   - they
   - signally
 - - they
   - signally
   - lack
-- - chairs
-  - into
-  - place
-- - further
-  - particulars
-  - if
-- - enthusiasts
-  - who
-  - may
 - - parker
   - would
   - haunt
-- - may
-  - recall
-  - him
+- - chairs
+  - into
+  - place
 - - bruno
   - parker
   - would
@@ -239,27 +233,30 @@ ngrams:
 - - neglected
   - genius
   - would
+- - enthusiasts
+  - who
+  - may
 - - news
   - would
   - lose
 - - channel
   - news
   - would
+- - may
+  - recall
+  - him
 - - television
   - set
   - will
 - - take
   - into
   - account
-- - editors
-  - are
-  - paying
-- - salt
-  - would
-  - give
 - - would
   - actually
   - sing
+- - salt
+  - would
+  - give
 - - unnecessary
   - detail
   - so
@@ -272,75 +269,78 @@ ngrams:
 - - hours
   - long
   - if
+- - editors
+  - are
+  - paying
+- - so
+  - panel
+  - show
 - - show
   - regulars
   - are
 - - regulars
   - are
   - kept
-- - so
-  - panel
-  - show
+- - certainly
+  - hope
+  - so
+- - something
+  - we
+  - miss
+- - each
+  - episode
+  - would
 - - are
   - already
   - plenty
 - - are
   - paying
   - attention
-- - something
-  - we
-  - miss
 - - our
   - panels
   - will
-- - each
-  - episode
-  - would
-- - certainly
-  - hope
-  - so
-- - genius
-  - pitching
-  - an
 - - if
   - any
   - television
-- - an
-  - unusual
-  - event
-- - into
-  - place
-  - just
-- - are
-  - numberless
-  - things
 - - don't
   - know
   - if
+- - genius
+  - pitching
+  - an
+- - into
+  - place
+  - just
+- - an
+  - unusual
+  - event
+- - are
+  - numberless
+  - things
 - - hope
   - so
   - because
 - - one
   - owl
   - alive
-- - pitching
-  - an
-  - idea
 - - living
   - owl
   - one
 - - one
   - particular
   - living
-- - surely
-  - all
-  - other
-- - all
-  - other
-  - television
+- - pitching
+  - an
+  - idea
 - - owl
   - one
   - kept
+- - owl
+  - clearly
+  - this
+- - detail
+  - so
+  - here
 story:
   date: 2012-07-09
   id: 2012-07-09-on-my-favourite-owl

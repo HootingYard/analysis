@@ -11,33 +11,33 @@ ngrams:
 - - astrological
   - courts
   - worked
-- - nixon
-  - vile
-  - dribbling
 - - vile
   - dribbling
   - goblins
+- - nixon
+  - vile
+  - dribbling
 - - vice
   - aged
   - women
-- - broken
-  - harps
-  - nixon
 - - vengefully
   - tim
   - thurn
-- - pet
-  - stoat
-  - throw
-- - yours
-  - vengefully
-  - tim
-- - similar
-  - complaints
-  - gnashing
 - - eerie
   - blasted
   - landscape
+- - similar
+  - complaints
+  - gnashing
+- - pet
+  - stoat
+  - throw
+- - broken
+  - harps
+  - nixon
+- - yours
+  - vengefully
+  - tim
 - - forever
   - yours
   - vengefully
@@ -47,12 +47,12 @@ ngrams:
 - - construction
   - fruitbat
   - try
-- - thee
-  - horoscope
-  - reader
 - - canal
   - vengeful
   - thoughts
+- - thee
+  - horoscope
+  - reader
 - - mental
   - turmoil
   - yesterday
@@ -62,24 +62,24 @@ ngrams:
 - - horoscope
   - reader
   - alone
-- - blodgett
-  - astrological
-  - system
-- - afternoon
-  - pay
-  - special
 - - pitying
   - god
   - amid
+- - afternoon
+  - pay
+  - special
+- - blodgett
+  - astrological
+  - system
 - - upturned
   - faces
   - among
-- - boys
-  - whose
-  - looks
 - - commendable
   - honesty
   - given
+- - boys
+  - whose
+  - looks
 - - under
   - construction
   - fruitbat
@@ -92,12 +92,12 @@ ngrams:
 - - hosts
   - shall
   - bend
-- - html
-  - site
-  - under
 - - pay
   - special
   - attention
+- - html
+  - site
+  - under
 - - site
   - under
   - construction
@@ -116,102 +116,102 @@ ngrams:
 - - stoat
   - throw
   - away
-- - old
-  - canal
-  - vengeful
-- - astrology
-  - eight
-  - years
-- - these
-  - broken
-  - harps
-- - life
-  - difficult
-  - today
-- - how
-  - grindingly
-  - slowly
-- - ever
-  - felt
-  - reproached
 - - moorland
   - far
   - oh
+- - old
+  - canal
+  - vengeful
+- - ever
+  - felt
+  - reproached
+- - life
+  - difficult
+  - today
+- - astrology
+  - eight
+  - years
+- - how
+  - grindingly
+  - slowly
+- - these
+  - broken
+  - harps
 - - difficult
   - today
   - why
-- - old
-  - men
-  - ruined
 - - remembered
   - every
   - word
+- - finally
+  - make
+  - sense
 - - old
   - tune
   - voice
 - - old
   - men
-  - crushed
-- - finally
-  - make
-  - sense
-- - don't
-  - go
-  - near
+  - ruined
 - - old
-  - horoscope
-  - today
-- - every
-  - word
-  - dear
+  - men
+  - crushed
 - - loitering
   - make
   - sure
-- - following
+- - every
+  - word
+  - dear
+- - old
   - horoscope
-  - here
-- - sense
-  - don't
+  - today
+- - don't
   - go
-- - tune
-  - voice
-  - after
+  - near
 - - word
   - dear
   - mr
-- - proved
-  - over
-  - eight
-- - make
-  - sense
+- - sense
   - don't
-- - young
-  - men
-  - made
-- - forecasts
-  - made
-  - under
+  - go
+- - following
+  - horoscope
+  - here
 - - dear
   - mr
   - key
-- - over
-  - eight
-  - hundred
-- - hours
-  - before
-  - twilight
-- - voice
-  - after
+- - tune
   - voice
+  - after
+- - make
+  - sense
+  - don't
+- - proved
+  - over
+  - eight
 - - near
   - any
   - buildings
+- - hours
+  - before
+  - twilight
+- - over
+  - eight
+  - hundred
 - - make
   - life
   - difficult
 - - any
   - buildings
   - large
+- - forecasts
+  - made
+  - under
+- - voice
+  - after
+  - voice
+- - young
+  - men
+  - made
 - - its
   - eternal
   - punishment
@@ -224,27 +224,21 @@ ngrams:
 - - hooting
   - yard
   - yesterday
-- - years
-  - forecasts
-  - made
 - - many
   - years
   - forecasts
+- - years
+  - forecasts
+  - made
+- - times
+  - more
+  - reliable
 - - rage
   - threats
   - some
 - - yard
   - our
   - horoscopes
-- - times
-  - more
-  - reliable
-- - has
-  - incalculable
-  - effects
-- - stupidity
-  - has
-  - incalculable
 - - six
   - rather
   - than
@@ -254,33 +248,39 @@ ngrams:
 - - puny
   - person
   - could
-- - know
-  - how
-  - grindingly
-- - go
-  - near
-  - any
 - - going
   - postal
   - more
-- - signs
-  - over
-  - many
+- - has
+  - incalculable
+  - effects
+- - stupidity
+  - has
+  - incalculable
+- - go
+  - near
+  - any
+- - know
+  - how
+  - grindingly
 - - may
   - ask
   - well
-- - has
-  - already
-  - stamped
-- - sin
-  - has
-  - already
+- - signs
+  - over
+  - many
 - - already
   - stamped
   - them
 - - their
   - upturned
   - faces
+- - has
+  - already
+  - stamped
+- - sin
+  - has
+  - already
 - - preachers
   - strike
   - up
@@ -290,15 +290,21 @@ ngrams:
 - - their
   - judgement
   - arrived
-- - coathanger
-  - your
-  - recurrent
-- - russians
-  - love
-  - their
 - - yesterday
   - their
   - judgement
+- - russians
+  - love
+  - their
+- - faces
+  - among
+  - them
+- - coathanger
+  - your
+  - recurrent
+- - absolutely
+  - splendid
+  - up
 - - bracken
   - coathanger
   - your
@@ -308,72 +314,66 @@ ngrams:
 - - devote
   - your
   - energies
-- - faces
-  - among
-  - them
-- - your
-  - pet
-  - stoat
-- - absolutely
-  - splendid
-  - up
 - - love
   - their
   - children
+- - today
+  - why
+  - am
+- - your
+  - pet
+  - stoat
 - - recurrent
   - nightmares
   - about
 - - should
   - ignore
   - them
-- - today
-  - why
-  - am
-- - hooting
-  - yard
-  - our
-- - changed
-  - into
-  - beasts
-- - were
-  - similar
-  - complaints
 - - mind
   - how
   - could
-- - assail
-  - your
-  - brain
+- - changed
+  - into
+  - beasts
+- - hooting
+  - yard
+  - our
 - - blotted
   - out
   - forever
-- - letters
-  - were
+- - were
   - similar
+  - complaints
+- - more
+  - reliable
+  - than
+- - postal
+  - more
+  - than
+- - out
+  - forever
+  - yours
 - - thoughts
   - will
   - assail
 - - vengeful
   - thoughts
   - will
-- - hen
-  - will
-  - finally
-- - make
-  - some
-  - sort
 - - albino
   - hen
   - will
-- - more
-  - reliable
-  - than
-- - out
-  - forever
-  - yours
+- - hen
+  - will
+  - finally
 - - destiny
   - will
   - begin
+- - letters
+  - were
+  - similar
+- - make
+  - some
+  - sort
 story:
   date: 2012-09-14
   id: 2012-09-14-on-astrology

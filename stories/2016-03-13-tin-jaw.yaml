@@ -11,12 +11,12 @@ ngrams:
 - - name
   - tin
   - jaw
-- - being
-  - surgically
-  - fitted
 - - wish
   - mr
   - jaw
+- - being
+  - surgically
+  - fitted
 - - jaw
   - 'no'
   - ill
@@ -38,9 +38,9 @@ ngrams:
 - - an
   - iron
   - jaw
-- - say
-  - an
-  - iron
+- - iron
+  - jaw
+  - but
 story:
   date: 2016-03-13
   id: 2016-03-13-tin-jaw

@@ -8,9 +8,6 @@ ngrams:
 - - witless
   - prog
   - noodling
-- - o'
-  - rock
-  - u
 - - rock
   - u
   - coldplay
@@ -20,6 +17,9 @@ ngrams:
 - - truth
   - universally
   - acknowledged
+- - o'
+  - rock
+  - u
 - - invariably
   - mention
   - harry
@@ -32,12 +32,12 @@ ngrams:
 - - foreign
   - footballers
   - particularly
-- - early
-  - soft
-  - machine
 - - community
   - radio
   - station
+- - early
+  - soft
+  - machine
 - - borough
   - high
   - street
@@ -47,15 +47,15 @@ ngrams:
 - - interesting
   - alternative
   - look
-- - world
-  - o'
-  - rock
-- - regular
-  - show
-  - called
 - - also
   - early
   - soft
+- - regular
+  - show
+  - called
+- - world
+  - o'
+  - rock
 - - our
   - native
   - footballers
@@ -74,42 +74,42 @@ ngrams:
 - - am
   - extremely
   - grateful
-- - hooting
-  - yard
-  - readers
 - - where
   - mr
   - davis
-- - yard
+- - hooting
+  - yard
   - readers
-  - never
-- - read
-  - any
-  - books
 - - station
   - where
   - mr
+- - read
+  - any
+  - books
+- - yard
+  - readers
+  - never
 - - up
   - steve
   - davis
 - - snap
   - up
   - steve
-- - many
-  - other
-  - recommended
 - - street
   - snap
   - up
+- - many
+  - other
+  - recommended
 - - ever
   - read
   - any
-- - mr
-  - davis
-  - has
 - - andy
   - mcnab
   - if
+- - mr
+  - davis
+  - has
 story:
   date: 2010-02-17
   id: 2010-02-17-when-baize-and-prog-collide

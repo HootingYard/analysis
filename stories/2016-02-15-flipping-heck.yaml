@@ -5,12 +5,12 @@ ngrams:
 - - heck
   - flipping
   - heck
-- - terrifying
-  - winds
-  - howl
 - - occasionally
   - escaped
   - convicts
+- - terrifying
+  - winds
+  - howl
 - - strange
   - guttural
   - tongue
@@ -29,6 +29,9 @@ ngrams:
 - - sunday
   - morning
   - sermons
+- - flipping
+  - heck
+  - quite
 - - anything
   - else
   - unless
@@ -38,18 +41,15 @@ ngrams:
 - - small
   - village
   - equidistant
-- - flipping
-  - heck
+- - heck
   - quite
+  - apart
 - - during
   - certain
   - phases
 - - village
   - equidistant
   - between
-- - heck
-  - quite
-  - apart
 - - lesser
   - yet
   - significant
@@ -59,63 +59,63 @@ ngrams:
 - - village
   - tavern
   - along
-- - own
-  - strange
-  - guttural
-- - most
-  - comparable
-  - towns
-- - make
-  - flipping
-  - heck
 - - equidistant
   - between
   - pointy
 - - marshland
   - between
   - pointy
+- - make
+  - flipping
+  - heck
+- - own
+  - strange
+  - guttural
 - - rather
   - shouts
   - oh
+- - most
+  - comparable
+  - towns
+- - reach
+  - both
+  - pointy
 - - certain
   - light
   - during
 - - light
   - during
   - certain
-- - reach
-  - both
-  - pointy
 - - milky
   - light
   - far
 - - certainly
   - far
   - less
-- - shouts
-  - oh
-  - how
 - - between
   - pointy
   - town
 - - between
+  - pointy
+  - town
+- - town
+  - pointy
+  - town
+- - shouts
+  - oh
+  - how
+- - both
   - pointy
   - town
 - - than
   - flipping
   - heck
-- - town
-  - pointy
-  - town
-- - town
-  - certainly
-  - far
 - - far
   - less
   - pointy
-- - both
-  - pointy
-  - town
+- - town
+  - certainly
+  - far
 - - overseas
   - far
   - far
@@ -131,15 +131,15 @@ ngrams:
 - - far
   - far
   - above
+- - pointy
+  - than
+  - flipping
 - - flipping
   - heck
   - more
 - - light
   - far
   - far
-- - pointy
-  - than
-  - flipping
 - - now
   - dead
   - vicar
@@ -149,57 +149,54 @@ ngrams:
 - - often
   - remarked
   - upon
-- - its
-  - twin
-  - town
 - - less
   - pointy
   - than
-- - very
-  - little
-  - evidence
-- - than
-  - most
-  - comparable
+- - its
+  - twin
+  - town
+- - pointy
+  - than
+  - pointy
 - - heck
   - more
   - pointy
 - - oodles
   - more
   - pointy
-- - vicar
-  - who
-  - preceded
-- - pointy
-  - than
-  - pointy
 - - than
   - pointy
   - town
+- - than
+  - most
+  - comparable
+- - very
+  - little
+  - evidence
+- - vicar
+  - who
+  - preceded
 - - far
   - far
   - away
 - - signposts
   - nor
   - do
+- - morning
+  - sermons
+  - can
 - - axe
   - behind
   - him
 - - behind
   - him
   - singing
-- - morning
-  - sermons
-  - can
-- - dead
-  - vicar
-  - who
 - - cup
   - their
   - tankards
-- - their
-  - big
-  - hairy
+- - dead
+  - vicar
+  - who
 - - above
   - their
   - heads
@@ -209,6 +206,9 @@ ngrams:
 - - into
   - flipping
   - heck
+- - their
+  - big
+  - hairy
 - - 'no'
   - signposts
   - nor

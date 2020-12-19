@@ -2,12 +2,12 @@ ngrams:
 - - catholicism
   - versus
   - muscular
-- - causeway
-  - geographical
-  - precision
 - - versus
   - muscular
   - christianity
+- - causeway
+  - geographical
+  - precision
 - - whiff
   - klaxons
   - blaring
@@ -32,12 +32,12 @@ ngrams:
 - - marching
   - salvation
   - army
-- - geographical
-  - precision
-  - pins
 - - pier
   - ventriloquist
   - stuffing
+- - geographical
+  - precision
+  - pins
 - - cottage
   - robert
   - robinson
@@ -53,96 +53,102 @@ ngrams:
 - - clifftop
   - path
   - candles
-- - salvation
-  - army
-  - band
 - - army
   - band
   - catholicism
-- - remit
-  - ancient
-  - laws
-- - blue
-  - expanse
-  - fussing
-- - ancient
-  - laws
-  - woolly
-- - robert
-  - robinson
-  - says
-- - robert
-  - robinson
-  - says
-- - wooden
-  - posts
-  - onions
-- - path
-  - candles
-  - lit
-- - underused
-  - seaside
-  - civic
-- - plastic
-  - ono
+- - salvation
+  - army
   - band
 - - tarleton
   - oil
   - paintings
-- - loose
-  - police
-  - brutality
-- - muscular
-  - christianity
-  - it's
-- - grey
-  - blue
-  - expanse
+- - remit
+  - ancient
+  - laws
+- - underused
+  - seaside
+  - civic
+- - ancient
+  - laws
+  - woolly
 - - tales
   - tarleton
   - plays
-- - blank
-  - grey
-  - blue
+- - wooden
+  - posts
+  - onions
+- - loose
+  - police
+  - brutality
+- - blue
+  - expanse
+  - fussing
+- - path
+  - candles
+  - lit
+- - muscular
+  - christianity
+  - it's
+- - robert
+  - robinson
+  - says
+- - robert
+  - robinson
+  - says
+- - plastic
+  - ono
+  - band
 - - police
   - car
   - screeches
 - - local
   - boy
   - blond
-- - teeth
-  - loose
-  - police
+- - grey
+  - blue
+  - expanse
+- - blank
+  - grey
+  - blue
 - - seaside
   - civic
   - hall
+- - tarleton
+  - tales
+  - tarleton
+- - teeth
+  - loose
+  - police
 - - white
   - cloud
   - appears
 - - railway
   - line
   - beneath
-- - tarleton
-  - tales
-  - tarleton
-- - during
-  - lent
-  - fish
 - - reading
   - ruskin's
   - numbered
-- - left
-  - ajar
-  - repent
-- - prayer
-  - mouth
-  - full
-- - breath
-  - tarleton
-  - dead
 - - sawdust
   - o
   - lord
+- - during
+  - lent
+  - fish
+- - left
+  - ajar
+  - repent
+- - o
+  - lord
+  - o
+- - breath
+  - tarleton
+  - dead
+- - lord
+  - o
+  - lord
+- - prayer
+  - mouth
+  - full
 - - length
   - sea
   - sloshes
@@ -152,57 +158,51 @@ ngrams:
 - - breakfast
   - during
   - lent
-- - lord
-  - o
-  - lord
 - - hopeful
   - crone
   - came
-- - why
-  - hast
-  - thou
 - - crone
   - came
   - clutching
-- - o
-  - lord
-  - o
-- - tiny
-  - white
-  - cloud
+- - why
+  - hast
+  - thou
 - - elegant
   - horse
   - along
 - - ajar
   - repent
   - while
+- - tiny
+  - white
+  - cloud
+- - sea
+  - sloshes
+  - against
 - - lord
   - why
   - hast
 - - kidney
   - pie
   - while
-- - sea
-  - sloshes
-  - against
 - - whole
   - damn
   - thing
 - - six
   - hundred
   - birds
-- - two
-  - helicopters
-  - promised
 - - away
   - salt
   - stains
-- - 'off'
-  - robert
-  - robinson
 - - o
   - lord
   - why
+- - two
+  - helicopters
+  - promised
+- - 'off'
+  - robert
+  - robinson
 - - sent
   - away
   - salt
@@ -215,36 +215,36 @@ ngrams:
 - - tarleton
   - dead
   - these
-- - tarleton
-  - plays
-  - only
 - - leg
   - shorter
   - than
-- - corkscrew
-  - tail
-  - like
+- - tarleton
+  - plays
+  - only
 - - rub
   - its
   - snout
 - - its
   - corkscrew
   - tail
+- - corkscrew
+  - tail
+  - like
 - - over
   - six
   - hundred
 - - now
   - working
   - perfectly
-- - winding
-  - sheet
-  - she
 - - arm
   - now
   - working
 - - more
   - limbs
   - paralysed
+- - winding
+  - sheet
+  - she
 - - dead
   - these
   - many
@@ -263,12 +263,12 @@ ngrams:
 - - can
   - repent
   - while
-- - these
-  - many
-  - years
 - - afterthought
   - fills
   - out
+- - these
+  - many
+  - years
 - - has
   - flown
   - away
@@ -293,9 +293,6 @@ ngrams:
 - - has
   - set
   - 'off'
-- - sheet
-  - she
-  - has
 - - flown
   - away
   - into
@@ -308,6 +305,9 @@ ngrams:
 - - shutters
   - are
   - shut
+- - sheet
+  - she
+  - has
 - - will
   - run
   - away
@@ -317,12 +317,12 @@ ngrams:
 - - are
   - left
   - ajar
-- - heaven
-  - are
-  - left
 - - an
   - afterthought
   - fills
+- - heaven
+  - are
+  - left
 - - birds
   - are
   - shrieking
@@ -341,21 +341,21 @@ ngrams:
 - - an
   - underused
   - seaside
-- - really
-  - an
-  - underused
-- - an
-  - impossible
-  - blue
-- - christianity
-  - it's
-  - an
 - - breathless
   - one
   - leg
-- - it's
+- - one
+  - leg
+  - shorter
+- - really
   - an
-  - endless
+  - underused
+- - intelligence
+  - one
+  - arm
+- - christianity
+  - it's
+  - an
 story:
   date: 2017-12-30
   id: 2017-12-30-ten-tarleton-tales-x

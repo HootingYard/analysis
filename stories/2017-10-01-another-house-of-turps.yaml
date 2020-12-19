@@ -32,9 +32,6 @@ ngrams:
 - - widow's
   - peak
   - looks
-- - '-'
-  - ned
-  - hellhound
 - - grin
   - sets
   - forth
@@ -47,36 +44,33 @@ ngrams:
 - - lengthy
   - narrative
   - poem
-- - guest
-  - potato
-  - smith
-- - crutches
-  - painted
-  - yellow
+- - malice
+  - aforethought
+  - press
+- - demented
+  - band
+  - bids
 - - bites
   - ice
   - grips
 - - winter
   - flag
   - he's
-- - demented
-  - band
-  - bids
-- - malice
-  - aforethought
-  - press
 - - shining
   - dazzling
   - bright
-- - obscure
-  - he's
-  - lived
+- - crutches
+  - painted
+  - yellow
 - - act
   - agitator
   - he's
-- - appears
-  - '-'
-  - ned
+- - guest
+  - potato
+  - smith
+- - obscure
+  - he's
+  - lived
 - - winter
   - bites
   - ice
@@ -86,12 +80,12 @@ ngrams:
 - - dr
   - rufus
   - glubb
-- - there's
-  - dr
-  - rufus
 - - grotesque
   - fellow
   - watch
+- - there's
+  - dr
+  - rufus
 - - mad
   - guest
   - potato
@@ -101,15 +95,18 @@ ngrams:
 - - black
   - pants
   - she's
-- - coat
-  - black
-  - pants
 - - slow
   - trudge
   - towards
+- - coat
+  - black
+  - pants
 - - turps
   - older
   - readers
+- - '-'
+  - ned
+  - hellhound
 - - home
   - kith
   - kin
@@ -119,90 +116,93 @@ ngrams:
 - - pants
   - she's
   - also
-- - wears
-  - black
-  - hat
+- - appears
+  - '-'
+  - ned
 - - agitator
   - he's
   - quite
+- - sue
+  - though
+  - dumb
+- - wears
+  - black
+  - hat
 - - hat
   - black
   - coat
 - - until
   - he's
   - counted
-- - sue
-  - though
-  - dumb
-- - black
-  - coat
-  - black
 - - every
   - winter
   - primrose
-- - long
-  - slow
-  - trudge
 - - gate
   - until
   - he's
+- - long
+  - slow
+  - trudge
 - - barks
   - go
   - flee
 - - print
   - pamphlet
   - published
-- - each
-  - mad
-  - guest
 - - fare
   - thee
   - well
+- - black
+  - coat
+  - black
+- - each
+  - mad
+  - guest
 - - huge
   - registration
   - book
 - - she's
   - also
   - known
-- - black
-  - hat
-  - black
 - - consider
   - each
   - mad
 - - land
   - each
   - member
-- - until
-  - yesterday
-  - house
+- - black
+  - hat
+  - black
 - - lost
   - until
   - yesterday
+- - until
+  - yesterday
+  - house
 - - here
   - lascelles
   - distemper
 - - he's
   - lived
   - here
-- - also
-  - called
-  - house
-- - mustard
-  - our
-  - fourth
-- - our
-  - fourth
-  - pal
-- - visionary
-  - world
-  - each
 - - can't
   - buy
   - those
+- - mustard
+  - our
+  - fourth
 - - trudge
   - over
   - gravel
+- - visionary
+  - world
+  - each
+- - our
+  - fourth
+  - pal
+- - also
+  - called
+  - house
 - - our
   - demented
   - band
@@ -215,9 +215,30 @@ ngrams:
 - - cracked
   - he's
   - such
+- - grow
+  - warts
+  - upon
 - - lived
   - here
   - since
+- - sets
+  - forth
+  - upon
+- - other
+  - guests
+  - loathe
+- - world
+  - each
+  - year
+- - now
+  - we've
+  - met
+- - international
+  - banker
+  - then
+- - banker
+  - then
+  - there's
 - - lingua
   - franca
   - she
@@ -230,60 +251,39 @@ ngrams:
 - - she
   - murdered
   - hector
-- - world
-  - each
-  - year
-- - other
-  - guests
-  - loathe
-- - religious
-  - nutter
-  - she
-- - grow
-  - warts
-  - upon
-- - now
-  - we've
-  - met
-- - sets
-  - forth
-  - upon
-- - international
-  - banker
-  - then
-- - legs
-  - like
-  - others
-- - banker
-  - then
-  - there's
-- - wooden
-  - legs
-  - like
-- - here
-  - every
-  - winter
-- - fluttered
-  - round
-  - her
 - - too
   - much
   - custard
 - - shut
   - then
   - barks
-- - house
+- - religious
+  - nutter
   - she
-  - speaks
-- - buy
-  - those
-  - things
-- - its
-  - incandescent
-  - light
 - - eating
   - too
   - much
+- - here
+  - every
+  - winter
+- - buy
+  - those
+  - things
+- - legs
+  - like
+  - others
+- - wooden
+  - legs
+  - like
+- - upon
+  - several
+  - sheets
+- - its
+  - incandescent
+  - light
+- - over
+  - every
+  - syllable
 story:
   date: 2017-10-01
   id: 2017-10-01-another-house-of-turps

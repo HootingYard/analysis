@@ -5,75 +5,75 @@ ngrams:
 - - recurrent
   - airway
   - obstruction
-- - contagious
-  - equine
-  - metritis
 - - stretchy
   - sinewy
   - guts
-- - sickness
-  - recurrent
-  - airway
+- - contagious
+  - equine
+  - metritis
 - - hereditary
   - equine
   - regional
+- - sickness
+  - recurrent
+  - airway
 - - fever
   - contagious
   - equine
-- - uncomfortable
-  - cushion
-  - penitence
 - - glanders
   - headshaking
   - lethal
+- - uncomfortable
+  - cushion
+  - penitence
 - - hallucinatory
   - scribble
   - reconstruction
-- - lavender
-  - foal
-  - syndrome
-- - asthenia
-  - choke
-  - grass
 - - agon
   - sounded
   - remarkably
-- - choke
+- - lavender
+  - foal
+  - syndrome
+- - slobber
+  - slobber
+  - slobber
+- - slobber
+  - slobber
+  - slobber
+- - slobber
+  - slobber
+  - slobber
+- - asthenia
+  - choke
   - grass
-  - sickness
-- - grass
-  - sickness
-  - recurrent
 - - shining
   - mane
   - riding
-- - alexander
-  - haig
-  - christopher
-- - slobber
+- - grass
+  - sickness
+  - recurrent
+- - choke
+  - grass
+  - sickness
+- - princeling
   - slobber
   - slobber
-- - slobber
+- - princeling
   - slobber
   - slobber
-- - slobber
+- - princeling
   - slobber
   - slobber
 - - haig
   - christopher
   - hitchens
+- - alexander
+  - haig
+  - christopher
 - - sickly
   - pipsqueak
   - son
-- - princeling
-  - slobber
-  - slobber
-- - princeling
-  - slobber
-  - slobber
-- - princeling
-  - slobber
-  - slobber
 - - rode
   - slobbering
   - onto
@@ -89,48 +89,39 @@ ngrams:
 - - documents
   - getting
   - uncomfortable
-- - getting
-  - uncomfortable
-  - cushions
 - - embroidered
   - pillows
   - stuffed
-- - general
-  - alexander
-  - haig
-- - horse's
-  - magnificent
-  - shining
-- - thee
-  - hence
-  - slobbering
-- - magnificent
-  - shining
-  - mane
+- - getting
+  - uncomfortable
+  - cushions
 - - fort
   - toity
   - freed
 - - frighteningly
   - efficient
   - fellow
+- - thee
+  - hence
+  - slobbering
+- - general
+  - alexander
+  - haig
+- - horse's
+  - magnificent
+  - shining
+- - magnificent
+  - shining
+  - mane
 - - princeling
   - sprawled
   - pallid
-- - clovis
-  - agamemnon
-  - de
 - - blazing
   - fort
   - toity
 - - stupid
   - furry
   - creatures
-- - speak
-  - coherently
-  - arpad
-- - polished
-  - magnetic
-  - pebbles
 - - slobber
   - slobber
   - prince
@@ -140,237 +131,246 @@ ngrams:
 - - fort
   - toity
   - roaring
-- - mud
-  - fever
-  - contagious
-- - ferocious
-  - horses
-  - bringing
+- - polished
+  - magnetic
+  - pebbles
+- - speak
+  - coherently
+  - arpad
 - - dusk
   - occasionally
   - jaunty
-- - wind
-  - arpad
-  - helped
-- - christopher
-  - hitchens
-  - described
-- - slobber
-  - prince
-  - fulgencio
-- - slobber
-  - prince
-  - fulgencio
-- - syndrome
-  - mud
-  - fever
 - - paperback
   - potted
   - biography
+- - christopher
+  - hitchens
+  - described
+- - ferocious
+  - horses
+  - bringing
+- - mud
+  - fever
+  - contagious
+- - clovis
+  - agamemnon
+  - de
+- - slobber
+  - prince
+  - fulgencio
+- - slobber
+  - prince
+  - fulgencio
+- - fort
+  - toity
+  - summer
+- - fort
+  - toity
+  - summer
+- - enacted
+  - o
+  - slobbering
 - - scribble
   - reconstruction
   - sitting
-- - fort
-  - toity
-  - summer
-- - fort
-  - toity
-  - summer
-- - bitter
-  - wind
+- - syndrome
+  - mud
+  - fever
+- - wind
   - arpad
+  - helped
 - - father's
   - majestic
   - horses
-- - father's
-  - ear
-  - prince
-- - follows
-  - prince
-  - fulgencio
-- - blind
-  - stupid
-  - furry
-- - headshaking
-  - lethal
-  - white
+- - bitter
+  - wind
+  - arpad
 - - fine
   - ferocious
   - horses
-- - beat
-  - music
-  - combos
+- - headshaking
+  - lethal
+  - white
+- - blind
+  - stupid
+  - furry
+- - follows
+  - prince
+  - fulgencio
+- - father's
+  - ear
+  - prince
 - - lethal
   - white
   - syndrome
 - - ear
   - prince
   - fulgencio
-- - wealthy
-  - beat
-  - music
-- - ancient
-  - documents
-  - getting
-- - slobbering
-  - became
-  - uncontrollable
-- - ways
-  - prince
-  - fulgencio
 - - personal
   - picnic
   - basket
+- - ways
+  - prince
+  - fulgencio
+- - ancient
+  - documents
+  - getting
+- - beat
+  - music
+  - combos
 - - proudly
   - proclaimed
   - itself
-- - reproachful
-  - father
-  - prince
-- - enacted
-  - o
-  - slobbering
+- - slobbering
+  - became
+  - uncontrollable
+- - wealthy
+  - beat
+  - music
 - - evil
   - ways
   - prince
 - - everybody
   - including
   - prince
-- - terrible
-  - reproachful
+- - reproachful
   - father
+  - prince
 - - including
   - prince
   - fulgencio
-- - father
-  - prince
-  - fulgencio
-- - others
-  - including
-  - arpad
 - - jaunty
   - sometimes
   - pounding
-- - heir
-  - whose
-  - official
+- - others
+  - including
+  - arpad
+- - terrible
+  - reproachful
+  - father
+- - father
+  - prince
+  - fulgencio
 - - white
   - syndrome
   - mud
+- - heir
+  - whose
+  - official
+- - occasionally
+  - jaunty
+  - sometimes
 - - eradicate
   - sickness
   - among
 - - common
   - horse
   - disease
-- - occasionally
-  - jaunty
-  - sometimes
 - - eradicating
   - disease
   - among
 - - horses
   - bringing
   - death
+- - several
+  - horses
+  - borrowed
+- - entirely
+  - different
+  - versions
 - - smooth
   - death
   - metal
 - - agamemnon
   - de
   - pig
-- - entirely
-  - different
-  - versions
-- - several
-  - horses
-  - borrowed
-- - place
-  - poisoning
-  - wells
 - - otherwise
   - puzzling
   - fact
-- - small
-  - blind
-  - stupid
-- - whose
-  - official
-  - title
 - - beetles
   - scurrying
   - across
 - - fulgencio
   - good
   - grief
-- - darkened
-  - room
-  - kept
 - - command
   - also
   - arpad
+- - place
+  - poisoning
+  - wells
+- - small
+  - blind
+  - stupid
+- - whose
+  - official
+  - title
 - - morning
   - prince
   - fulgencio
-- - de
-  - pig
-  - de
+- - darkened
+  - room
+  - kept
 - - family
   - reading
   - according
+- - de
+  - pig
+  - de
+- - cushion
+  - penitence
+  - though
 - - prince
   - fulgencio
   - good
 - - music
   - thus
   - created
-- - few
-  - scattered
-  - clumps
 - - passing
   - resemblance
   - indeed
-- - cushion
-  - penitence
-  - though
-- - prince
-  - fulgencio
-  - came
+- - few
+  - scattered
+  - clumps
 - - prince
   - fulgencio
   - himself
+- - prince
+  - fulgencio
+  - came
 - - brain
   - grown
   - hot
 - - pig
   - de
   - pig
-- - stop
-  - slobbering
-  - long
 - - fulgencio
   - well
   - slobbering
 - - again
   - 'yes'
   - slobbering
-- - long
-  - hot
-  - summer
-- - another
-  - common
-  - horse
-- - different
-  - versions
-  - because
+- - stop
+  - slobbering
+  - long
 - - prince
   - fulgencio
   - well
-- - own
-  - jottings
-  - give
+- - different
+  - versions
+  - because
+- - another
+  - common
+  - horse
 - - much
   - agon
   - sounded
+- - own
+  - jottings
+  - give
+- - long
+  - hot
+  - summer
 - - fulgencio
   - himself
   - called
@@ -386,6 +386,9 @@ ngrams:
 - - peasantry
   - how
   - likely
+- - typical
+  - exchange
+  - might
 - - grief
   - ever
   - since
@@ -395,105 +398,102 @@ ngrams:
 - - including
   - arpad
   - here
-- - metal
-  - before
-  - summer's
-- - typical
-  - exchange
-  - might
 - - uncomfortable
   - cushions
   - where
-- - wrote
-  - two
-  - entirely
-- - two
-  - yonder
-  - across
-- - two
-  - entirely
-  - different
+- - metal
+  - before
+  - summer's
 - - good
   - grief
   - ever
+- - two
+  - entirely
+  - different
 - - fort
   - hoity
   - where
+- - two
+  - yonder
+  - across
+- - wrote
+  - two
+  - entirely
 - - actually
   - wrote
   - two
-- - sounded
-  - remarkably
-  - like
+- - balcony
+  - gazing
+  - upon
 - - elsewhere
   - may
   - hear
-- - death
-  - metal
-  - before
+- - sounded
+  - remarkably
+  - like
 - - crimes
   - other
   - writers
 - - before
   - summer's
   - end
-- - balcony
-  - gazing
-  - upon
+- - death
+  - metal
+  - before
 - - nothing
   - new
   - under
-- - many
-  - another
-  - common
 - - slobber
   - slobber
   - then
+- - many
+  - another
+  - common
 - - princeling
   - bore
   - more
 - - such
   - small
   - blind
-- - beat
-  - down
-  - once
 - - writing
   - even
   - during
-- - some
-  - musicians
-  - players
-- - hooting
-  - yard
-  - readers
 - - exchange
   - might
   - go
+- - beat
+  - down
+  - once
+- - some
+  - musicians
+  - players
 - - cut
   - some
   - capers
-- - first
-  - few
-  - days
+- - hooting
+  - yard
+  - readers
 - - its
   - few
   - scattered
+- - first
+  - few
+  - days
 - - slobber
   - then
   - came
-- - its
-  - most
-  - slobbery
-- - princeling
-  - who
-  - cut
 - - know
   - full
   - well
 - - outwit
   - them
   - certainly
+- - its
+  - most
+  - slobbery
+- - princeling
+  - who
+  - cut
 - - weedy
   - princeling
   - up
@@ -506,99 +506,144 @@ ngrams:
 - - their
   - latest
   - disc
-- - been
-  - hearing
-  - noises
 - - shut
   - up
   - fort
-- - confusing
-  - him
-  - perhaps
 - - jottings
   - give
   - 'no'
+- - confusing
+  - him
+  - perhaps
 - - 'no'
   - longer
   - play
-- - cushions
-  - were
-  - uncomfortable
+- - been
+  - hearing
+  - noises
 - - mane
   - riding
   - into
+- - poisoning
+  - wells
+  - when
+- - cushions
+  - were
+  - uncomfortable
+- - toity
+  - summer
+  - when
 - - coppers
   - were
   - closing
 - - balcony
   - cushions
   - were
-- - poisoning
-  - wells
-  - when
 - - give
   - 'no'
   - sense
-- - toity
-  - summer
-  - when
 - - need
   - 'no'
   - longer
-- - himself
-  - called
-  - him
 - - any
   - case
   - even
 - - bore
   - more
   - than
+- - himself
+  - called
+  - him
 - - your
   - own
   - wing
 - - years
   - behind
   - him
-- - been
-  - slobbering
-  - away
-- - down
-  - once
-  - upon
 - - there
   - yawning
   - pits
-- - say
-  - 'no'
-  - music
-- - go
-  - bustling
-  - about
-- - time
-  - such
-  - small
+- - down
+  - once
+  - upon
 - - castle
   - blunkett
   - there
+- - time
+  - such
+  - small
+- - been
+  - slobbering
+  - away
+- - go
+  - bustling
+  - about
 - - prince
   - fulgencio
   - there
 - - prince
   - fulgencio
   - there
+- - say
+  - 'no'
+  - music
 - - out
   - great
   - swathes
 - - wipe
   - out
   - great
-- - most
-  - slobbery
-  - when
 - - lolling
   - upon
   - them
+- - most
+  - slobbery
+  - when
+- - disease
+  - so
+  - healthy
+- - am
+  - set
+  - upon
+- - since
+  - we
+  - arrived
+- - villages
+  - so
+  - begin
+- - later
+  - life
+  - when
+- - basket
+  - so
+  - happy
+- - picnic
+  - basket
+  - so
+- - until
+  - they
+  - glistened
+- - penitence
+  - though
+  - they
+- - horse
+  - disease
+  - so
+- - so
+  - others
+  - including
+- - rag
+  - until
+  - they
+- - him
+  - confusing
+  - him
+- - enjoying
+  - himself
+  - so
+- - play
+  - upon
+  - your
 story:
   date: 2010-04-07
   id: 2010-04-07-slobbering-dauphin

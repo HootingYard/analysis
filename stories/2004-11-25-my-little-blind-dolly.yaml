@@ -2,27 +2,27 @@ ngrams:
 - - jethro
   - tull
   - doctor
-- - blind
-  - dolly's
-  - cloth
 - - mysterious
   - childhood
   - illness
+- - blind
+  - dolly's
+  - cloth
 - - blind
   - dolly
   - stuffed
 - - mind
   - map
   - maker
-- - black
-  - boot
-  - polish
-- - black
-  - boot
-  - polish
 - - breathing
   - mind
   - map
+- - black
+  - boot
+  - polish
+- - black
+  - boot
+  - polish
 - - living
   - breathing
   - mind
@@ -41,12 +41,12 @@ ngrams:
 - - decided
   - against
   - doing
-- - blind
-  - dolly
-  - once
 - - five
   - minutes
   - ago
+- - blind
+  - dolly
+  - once
 - - become
   - detached
   - perhaps
@@ -77,12 +77,12 @@ ngrams:
 - - dolly's
   - cloth
   - head
-- - little
-  - black
-  - cape
 - - cape
   - only
   - smaller
+- - little
+  - black
+  - cape
 - - boot
   - polish
   - than
@@ -95,66 +95,66 @@ ngrams:
 - - blind
   - dolly
   - she
+- - only
+  - smaller
+  - because
 - - tossed
   - her
   - aside
 - - her
   - cloth
   - foot
-- - only
-  - smaller
-  - because
 - - some
   - ungrateful
   - infant
-- - more
-  - black
-  - boot
-- - her
-  - name
-  - embroidered
 - - dolly
   - once
   - upon
-- - smaller
-  - because
-  - she
-- - ungrateful
-  - infant
-  - who
+- - more
+  - black
+  - boot
 - - noticed
   - other
   - things
-- - didn't
-  - ask
-  - him
-- - infant
+- - ungrateful
+  - infant
   - who
-  - tossed
 - - other
   - things
   - including
-- - named
-  - her
-  - yet
+- - infant
+  - who
+  - tossed
+- - didn't
+  - ask
+  - him
+- - smaller
+  - because
+  - she
 - - got
   - more
   - black
+- - her
+  - name
+  - embroidered
 - - blind
   - dolly
   - 'no'
 - - dolly
   - 'no'
   - doubt
+- - named
+  - her
+  - yet
 - - just
   - like
   - tony
-- - two
-  - names
-  - she
 - - wear
   - just
   - like
+- - two
+  - names
+  - she
 - - been
   - abandoned
   - possibly
@@ -173,15 +173,12 @@ ngrams:
 - - out
   - limping
   - because
-- - all
-  - rooting
-  - around
 - - think
   - about
   - sewing
-- - who
-  - tossed
-  - her
+- - all
+  - rooting
+  - around
 - - frighten
   - me
   - again
@@ -194,39 +191,42 @@ ngrams:
 - - ever
   - frighten
   - me
+- - who
+  - tossed
+  - her
 - - often
   - think
   - about
-- - has
-  - her
-  - name
+- - against
+  - doing
+  - so
 - - tells
   - me
   - how
 - - nothing
   - will
   - ever
-- - against
-  - doing
-  - so
-- - an
-  - ungrateful
-  - infant
 - - case
   - they
   - come
+- - an
+  - ungrateful
+  - infant
+- - has
+  - her
+  - name
+- - half
+  - an
+  - hour
+- - half
+  - an
+  - hour
 - - has
   - been
   - robbed
-- - half
+- - ground
+  - half
   - an
-  - hour
-- - half
-  - an
-  - hour
-- - names
-  - she
-  - will
 story:
   date: 2004-11-25
   id: 2004-11-25-my-little-blind-dolly

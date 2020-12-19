@@ -5,12 +5,12 @@ ngrams:
 - - beetles
   - dragonflies
   - crickets
-- - states
-  - winning
-  - plaudits
 - - crickets
   - grasshoppers
   - ants
+- - states
+  - winning
+  - plaudits
 - - slaughter
   - remarks
   - they're
@@ -20,12 +20,12 @@ ngrams:
 - - explicit
   - moral
   - judgements
-- - united
-  - states
-  - winning
 - - american
   - snipe
   - clint
+- - united
+  - states
+  - winning
 - - theme
   - american
   - snipe
@@ -50,12 +50,12 @@ ngrams:
 - - horse
   - flies
   - deer
-- - crane
-  - flies
-  - horse
 - - film
   - american
   - snipe
+- - crane
+  - flies
+  - horse
 story:
   date: 2015-02-01
   id: 2015-02-01-american-snipe

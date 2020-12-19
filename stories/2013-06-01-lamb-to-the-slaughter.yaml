@@ -5,24 +5,24 @@ ngrams:
 - - loud
   - shrieks
   - approached
-- - mother
-  - lifeless
-  - pierced
 - - helpless
   - infirm
   - mother
+- - mother
+  - lifeless
+  - pierced
 - - menacing
   - manner
   - pursued
 - - dreadful
   - scene
   - presented
-- - respectable
-  - jury
-  - sat
 - - cries
   - quickly
   - brought
+- - respectable
+  - jury
+  - sat
 - - young
   - lady
   - seized
@@ -32,12 +32,12 @@ ngrams:
 - - lunacy
   - morning
   - chronicle
-- - morning
-  - chronicle
-  - september
 - - case
   - knife
   - laying
+- - morning
+  - chronicle
+  - september
 - - above
   - unfortunate
   - young
@@ -80,12 +80,21 @@ ngrams:
 - - shrieks
   - approached
   - her
-- - chair
-  - her
-  - daughter
+- - too
+  - much
+  - business
 - - her
   - cries
   - quickly
+- - chair
+  - her
+  - daughter
+- - venerable
+  - old
+  - man
+- - observed
+  - some
+  - symptoms
 - - her
   - father
   - weeping
@@ -95,39 +104,30 @@ ngrams:
 - - her
   - brother
   - early
-- - venerable
-  - old
-  - man
 - - her
   - carriage
   - towards
 - - carriage
   - towards
   - her
-- - too
-  - much
-  - business
-- - observed
-  - some
-  - symptoms
 - - towards
   - her
   - mother
-- - her
-  - daughter
-  - yet
 - - their
   - verdict
   - lunacy
 - - her
-  - side
-  - himself
-- - little
-  - girl
-  - her
+  - daughter
+  - yet
 - - been
   - madly
   - hurling
+- - probability
+  - been
+  - prevented
+- - quickly
+  - brought
+  - up
 story:
   date: 2013-06-01
   id: 2013-06-01-lamb-to-the-slaughter

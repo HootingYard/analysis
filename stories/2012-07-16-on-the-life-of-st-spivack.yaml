@@ -2,48 +2,48 @@ ngrams:
 - - sang
   - rousing
   - hymns
-- - profoundly
-  - ignorant
-  - staggeringly
-- - profoundly
-  - ignorant
-  - staggeringly
-- - blessed
-  - virgin
-  - mary
-- - blessed
-  - virgin
-  - mary
 - - staggeringly
   - stupid
   - breathtakingly
-- - spectral
-  - gleaming
-  - holy
-- - gleaming
-  - holy
-  - tweezers
+- - profoundly
+  - ignorant
+  - staggeringly
+- - profoundly
+  - ignorant
+  - staggeringly
+- - blessed
+  - virgin
+  - mary
+- - blessed
+  - virgin
+  - mary
 - - sing
   - rousing
   - hymns
+- - gleaming
+  - holy
+  - tweezers
+- - spectral
+  - gleaming
+  - holy
 - - ignorant
   - staggeringly
   - stupid
 - - ignorant
   - staggeringly
   - stupid
-- - profoundly
-  - ignorant
-  - peasants
-- - pious
-  - martyr
-  - st
-- - forever
-  - falling
-  - prey
 - - staggeringly
   - stupid
   - peasants
+- - profoundly
+  - ignorant
+  - peasants
+- - forever
+  - falling
+  - prey
+- - pious
+  - martyr
+  - st
 - - pious
   - prisoner
   - st
@@ -74,15 +74,15 @@ ngrams:
 - - sordid
   - backwater
   - during
+- - unearthly
+  - blinding
+  - light
 - - dark
   - ages
   - st
 - - monuments
   - popularly
   - known
-- - unearthly
-  - blinding
-  - light
 - - blinding
   - light
   - squirrels
@@ -95,33 +95,33 @@ ngrams:
 - - took
   - holy
   - orders
+- - though
+  - nowhere
+  - near
 - - unspeakable
   - matter
   - found
 - - certain
   - squirrely
   - something
-- - though
-  - nowhere
-  - near
-- - sermons
-  - converted
-  - many
-- - word
-  - simple
-  - does
-- - existence
-  - poor
-  - little
 - - pointy
   - town
   - st
+- - word
+  - simple
+  - does
+- - sermons
+  - converted
+  - many
 - - town
   - came
   - galloping
 - - miracle
   - took
   - place
+- - existence
+  - poor
+  - little
 - - men
   - whose
   - life
@@ -131,21 +131,21 @@ ngrams:
 - - poor
   - little
   - st
+- - passing
+  - movements
+  - over
+- - pointy
+  - town
+  - came
 - - let
   - us
   - rephrase
 - - suffice
   - let
   - us
-- - passing
-  - movements
-  - over
 - - dark
   - ages
   - day
-- - pointy
-  - town
-  - came
 - - dinner
   - table
   - where
@@ -167,12 +167,12 @@ ngrams:
 - - memory
   - several
   - other
-- - copied
-  - down
-  - many
 - - several
   - other
   - books
+- - copied
+  - down
+  - many
 - - matter
   - found
   - upon
@@ -182,27 +182,27 @@ ngrams:
 - - astride
   - their
   - seeing
-- - mislaid
-  - their
-  - infant
 - - ignorant
   - peasants
   - 'no'
+- - mislaid
+  - their
+  - infant
 - - their
   - seeing
   - horses
-- - were
-  - profoundly
-  - ignorant
-- - were
-  - profoundly
-  - ignorant
-- - were
-  - profoundly
-  - ignorant
 - - completely
   - forgot
   - about
+- - were
+  - profoundly
+  - ignorant
+- - were
+  - profoundly
+  - ignorant
+- - were
+  - profoundly
+  - ignorant
 - - parents
   - were
   - profoundly
@@ -218,48 +218,45 @@ ngrams:
 - - were
   - forever
   - falling
+- - more
+  - pious
+  - than
+- - ever
+  - after
+  - those
 - - bones
   - were
   - buried
+- - were
+  - simple
+  - peasants
 - - parents
   - were
   - simple
 - - met
   - were
   - struck
-- - were
-  - simple
-  - peasants
-- - ever
-  - after
-  - those
-- - more
-  - pious
-  - than
 - - now
   - could
   - recite
 - - they
   - laid
   - siege
+- - would
+  - describe
+  - visions
 - - seeing
   - horses
   - they
 - - horses
   - they
   - laid
-- - they
-  - dragged
-  - st
-- - would
-  - describe
-  - visions
 - - there
   - followed
   - squirrels
-- - she
-  - handed
-  - him
+- - they
+  - dragged
+  - st
 - - train
   - there
   - followed
@@ -272,33 +269,36 @@ ngrams:
 - - things
   - turn
   - out
+- - she
+  - handed
+  - him
 - - were
   - many
   - ants
-- - which
-  - dark
-  - ages
 - - tar
   - pit
   - which
-- - old
-  - they
-  - mislaid
+- - which
+  - dark
+  - ages
 - - ages
   - day
   - when
+- - old
+  - they
+  - mislaid
 - - home
   - we
   - need
+- - point
+  - home
+  - we
 - - whose
   - life
   - we
 - - an
   - unearthly
   - blinding
-- - point
-  - home
-  - we
 - - forth
   - an
   - unearthly
@@ -308,21 +308,21 @@ ngrams:
 - - suffered
   - an
   - attack
-- - year
-  - old
-  - they
-- - carried
-  - him
-  - up
 - - day
   - into
   - pointy
+- - year
+  - old
+  - they
 - - easter
   - sunday
   - one
 - - an
   - extremely
   - high
+- - carried
+  - him
+  - up
 - - one
   - dark
   - ages
@@ -332,12 +332,15 @@ ngrams:
 - - against
   - suffered
   - an
-- - plunged
-  - him
-  - into
 - - sunday
   - one
   - year
+- - plunged
+  - him
+  - into
+- - debilitating
+  - palsy
+  - or
 - - nuts
   - then
   - they
@@ -347,24 +350,21 @@ ngrams:
 - - one
   - year
   - later
-- - they
-  - plunged
-  - him
 - - converted
   - many
   - an
-- - debilitating
-  - palsy
-  - or
+- - they
+  - plunged
+  - him
 - - many
   - an
   - ignorant
-- - beetles
-  - from
-  - grains
 - - often
   - did
   - so
+- - beetles
+  - from
+  - grains
 - - reciting
   - from
   - memory
@@ -380,9 +380,9 @@ ngrams:
 - - vision
   - one
   - day
-- - from
-  - memory
-  - several
+- - would
+  - do
+  - well
 story:
   date: 2012-07-16
   id: 2012-07-16-on-the-life-of-st-spivack

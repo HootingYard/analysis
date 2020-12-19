@@ -2,12 +2,12 @@ ngrams:
 - - transforms
   - honorable
   - citizens
-- - beer
-  - keg
-  - completing
 - - brutes
   - transforms
   - honorable
+- - beer
+  - keg
+  - completing
 - - keg
   - completing
   - fig
@@ -50,9 +50,9 @@ ngrams:
 - - honorable
   - citizens
   - into
-- - citizens
-  - into
-  - murderers
+- - into
+  - brutes
+  - transforms
 story:
   date: 2006-03-09
   id: 2006-03-09-i-am-going-to-outline-for-you

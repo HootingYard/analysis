@@ -17,21 +17,21 @@ ngrams:
 - - weirdest
   - deepest
   - parts
-- - counterfeit
-  - burning
-  - woes
 - - wove
   - pretty
   - wicker
+- - counterfeit
+  - burning
+  - woes
 - - disgusting
   - deafening
   - noises
-- - railway
-  - stations
-  - handing
 - - pretty
   - wicker
   - baskets
+- - railway
+  - stations
+  - handing
 - - forest
   - creatures
   - crinkly
@@ -44,12 +44,12 @@ ngrams:
 - - startling
   - forest
   - creatures
-- - piping
-  - hot
-  - cocoa
 - - woodcutter
   - neither
   - watched
+- - piping
+  - hot
+  - cocoa
 - - gave
   - quizzical
   - looks
@@ -68,27 +68,27 @@ ngrams:
 - - hot
   - cocoa
   - sometimes
-- - foresty
-  - routines
-  - took
-- - roaring
-  - nor
-  - buzzing
 - - unreliable
   - sources
   - indeed
+- - roaring
+  - nor
+  - buzzing
+- - foresty
+  - routines
+  - took
 - - burned
   - nor
   - listened
 - - forest
   - beings
   - put
-- - great
-  - thumping
-  - hooves
 - - neither
   - roaring
   - nor
+- - great
+  - thumping
+  - hooves
 - - weird
   - mad
   - people
@@ -101,12 +101,12 @@ ngrams:
 - - chair
   - taking
   - great
-- - gone
-  - loopy
-  - long
 - - again
   - making
   - disgusting
+- - gone
+  - loopy
+  - long
 - - grown
   - too
   - large
@@ -116,6 +116,9 @@ ngrams:
 - - forest
   - being
   - matriarch
+- - long
+  - pointy
+  - claws
 - - very
   - taciturn
   - woodcutter
@@ -125,21 +128,18 @@ ngrams:
 - - loopy
   - long
   - ago
-- - long
-  - pointy
-  - claws
 - - quizzical
   - looks
   - first
 - - very
   - clever
   - plan
-- - tracking
-  - down
-  - benny
 - - never
   - answered
   - either
+- - tracking
+  - down
+  - benny
 - - journey
   - tracking
   - down
@@ -149,66 +149,63 @@ ngrams:
 - - many
   - bulbous
   - eyes
-- - print
-  - dobson
-  - described
+- - wreak
+  - vengeance
+  - upon
 - - long
   - long
   - journey
 - - confined
   - any
   - longer
-- - being
-  - burned
-  - nor
-- - wreak
-  - vengeance
-  - upon
 - - seagulls
   - blown
   - upon
+- - print
+  - dobson
+  - described
+- - being
+  - burned
+  - nor
 - - she
   - loomed
   - huge
-- - brought
-  - some
-  - charcoal
 - - letting
   - them
   - rend
+- - brought
+  - some
+  - charcoal
 - - described
   - them
   - differently
-- - keep
-  - him
-  - occupied
+- - might
+  - well
+  - tell
 - - many
   - years
   - ago
 - - whet
   - their
   - appetites
+- - keep
+  - him
+  - occupied
 - - popinjay
   - cocked
   - their
 - - their
   - numberless
   - orifices
-- - ago
-  - sacked
-  - him
-- - their
-  - separate
-  - foresty
 - - forest
   - kept
   - them
+- - their
+  - separate
+  - foresty
 - - noises
   - their
   - antennae
-- - might
-  - well
-  - tell
 - - deafening
   - noises
   - their
@@ -218,9 +215,15 @@ ngrams:
 - - their
   - antennae
   - picked
+- - ago
+  - sacked
+  - him
 - - antennae
   - picked
   - up
+- - barn
+  - their
+  - fur
 - - picked
   - up
   - signals
@@ -230,42 +233,36 @@ ngrams:
 - - space
   - their
   - inability
-- - barn
-  - their
-  - fur
-- - outer
-  - space
-  - their
 - - their
   - pop
   - group
+- - outer
+  - space
+  - their
 - - cocked
   - their
   - ears
-- - she
-  - too
-  - heard
+- - ladybirds
+  - where
+  - such
 - - people
   - who
   - dwelt
 - - routines
   - took
   - them
-- - ladybirds
-  - where
-  - such
 - - beings
   - put
   - them
 - - known
   - spectrum
   - their
+- - she
+  - too
+  - heard
 - - mad
   - people
   - who
-- - were
-  - startling
-  - forest
 - - pot
   - bellies
   - when
@@ -275,135 +272,138 @@ ngrams:
 - - poured
   - out
   - cocoa
-- - now
-  - she
-  - loomed
-- - smoke
-  - poured
-  - out
 - - them
   - both
   - past
+- - smoke
+  - poured
+  - out
 - - happily
   - poured
   - out
-- - course
-  - she
-  - too
+- - were
+  - startling
+  - forest
 - - when
   - neither
   - roaring
-- - eggs
-  - were
-  - grown
 - - handing
   - out
   - pamphlets
-- - air
-  - around
-  - them
+- - eggs
+  - were
+  - grown
 - - when
   - full
   - grown
+- - pointy
+  - claws
+  - when
 - - took
   - them
   - both
-- - dobson
-  - described
+- - air
+  - around
   - them
+- - course
+  - she
+  - too
+- - now
+  - she
+  - loomed
+- - well
+  - tell
+  - them
+- - up
+  - again
+  - making
+- - trotskyist
+  - days
+  - when
 - - roared
   - they
   - blotted
 - - beans
   - they
   - reasoned
-- - up
-  - again
-  - making
 - - buzzing
   - they
   - howled
-- - pointy
-  - claws
-  - when
 - - wake
   - they
   - stank
 - - hunchbacked
   - they
   - moved
-- - trotskyist
-  - days
-  - when
+- - dobson
+  - described
+  - them
+- - straw
+  - there
+  - nestled
 - - inhuman
   - speed
   - they
-- - well
-  - tell
-  - them
 - - their
   - many
   - bulbous
 - - spectrum
   - their
   - many
-- - straw
-  - there
-  - nestled
-- - signed
-  - their
-  - first
-- - boiling
-  - hot
-  - they
-- - their
-  - first
-  - recording
 - - their
   - long
   - pointy
 - - them
   - such
   - fury
-- - cocoa
-  - sometimes
-  - they
-- - full
-  - grown
-  - they
-- - sometimes
-  - they
-  - dropped
+- - signed
+  - their
+  - first
+- - their
+  - first
+  - recording
 - - caused
   - them
   - such
-- - were
-  - grown
-  - too
-- - speed
+- - boiling
+  - hot
   - they
-  - left
+- - cocoa
+  - sometimes
+  - they
 - - vengeance
   - upon
   - them
-- - popinjay
-  - these
-  - were
+- - sometimes
+  - they
+  - dropped
+- - full
+  - grown
+  - they
+- - were
+  - grown
+  - too
 - - forest
   - where
   - 'no'
-- - earth
+- - speed
   - they
-  - turned
+  - left
+- - popinjay
+  - these
+  - were
 - - nor
   - buzzing
   - they
-- - forest
-  - beings
-  - which
+- - earth
+  - they
+  - turned
 - - they
   - each
   - claimed
+- - forest
+  - beings
+  - which
 story:
   date: 2008-12-18
   id: 2008-12-18-woodcutter

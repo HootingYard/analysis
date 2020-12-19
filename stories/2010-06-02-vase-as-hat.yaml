@@ -5,12 +5,12 @@ ngrams:
 - - de
   - rigueur
   - receipt
-- - hat
-  - pauper
-  - conundrum
 - - swish
   - cocktail
   - party
+- - hat
+  - pauper
+  - conundrum
 - - stuck
   - fast
   - try
@@ -35,15 +35,15 @@ ngrams:
 - - priorities
   - right
   - later
-- - sordid
-  - little
-  - allotment
 - - next
   - week
   - teabag
 - - shudder
   - next
   - week
+- - sordid
+  - little
+  - allotment
 - - sink
   - go
   - outside
@@ -53,60 +53,60 @@ ngrams:
 - - dip
   - each
   - end
-- - floor
-  - embarrassingly
-  - just
 - - stick
   - those
   - chaotically
-- - vase
-  - upside
-  - down
+- - floor
+  - embarrassingly
+  - just
 - - king's
   - levee
   - any
+- - vase
+  - upside
+  - down
 - - allotment
   - before
   - doing
-- - very
-  - near
-  - future
 - - gather
   - such
   - items
-- - reprint
-  - her
-  - excellent
-- - upside
-  - down
-  - remember
-- - her
-  - excellent
-  - advice
+- - very
+  - near
+  - future
 - - levee
   - any
   - kind
 - - too
   - well
   - aware
+- - upside
+  - down
+  - remember
 - - vase
   - instead
   - now
-- - wrap
-  - some
-  - rags
-- - upside
-  - down
-  - go
-- - instead
-  - now
-  - turn
-- - little
-  - allotment
-  - before
+- - reprint
+  - her
+  - excellent
+- - her
+  - excellent
+  - advice
 - - given
   - much
   - thought
+- - instead
+  - now
+  - turn
+- - upside
+  - down
+  - go
+- - wrap
+  - some
+  - rags
+- - little
+  - allotment
+  - before
 - - meanest
   - midden
   - has
@@ -116,41 +116,32 @@ ngrams:
 - - then
   - dip
   - each
-- - fatima
-  - has
-  - given
 - - vase
   - then
   - make
 - - boiled
   - up
   - earlier
-- - plunge
-  - your
-  - arm
+- - fatima
+  - has
+  - given
 - - up
   - earlier
   - press
-- - your
-  - impecunious
-  - state
+- - plunge
+  - your
+  - arm
 - - only
   - too
   - well
 - - your
-  - hat
-  - afterwards
-- - your
-  - priorities
-  - right
-- - turn
-  - your
-  - vase
-- - fiendish
-  - claws
-  - into
+  - impecunious
+  - state
 - - sweep
   - elegantly
+  - into
+- - fiendish
+  - claws
   - into
 - - into
   - seething
@@ -161,15 +152,36 @@ ngrams:
 - - plunged
   - into
   - seething
+- - mirror
+  - fragments
+  - if
+- - turn
+  - your
+  - vase
+- - your
+  - hat
+  - afterwards
+- - your
+  - priorities
+  - right
+- - even
+  - more
+  - stylish
+- - whisking
+  - eggs
+  - if
 - - always
   - been
   - impressed
 - - lanyard
   - under
   - your
-- - mirror
-  - fragments
-  - if
+- - simply
+  - dashing
+  - out
+- - 'no'
+  - sink
+  - go
 - - under
   - your
   - chin
@@ -179,69 +191,63 @@ ngrams:
 - - tucked
   - under
   - your
-- - even
-  - more
-  - stylish
-- - get
-  - your
-  - priorities
-- - 'no'
-  - sink
-  - go
-- - whisking
-  - eggs
-  - if
-- - simply
-  - dashing
-  - out
-- - your
-  - own
-  - enchanted
 - - such
   - can
   - fluster
+- - get
+  - your
+  - priorities
+- - your
+  - own
+  - enchanted
 - - will
   - soon
   - die
-- - your
-  - sordid
-  - little
 - - weep
   - over
   - them
-- - call
-  - your
-  - own
 - - will
   - probably
   - want
+- - call
+  - your
+  - own
 - - function
   - all
   - eyes
 - - has
   - given
   - much
-- - must
-  - get
-  - your
-- - am
-  - only
-  - too
-- - hat
-  - there
-  - comes
+- - your
+  - sordid
+  - little
 - - dry
   - so
   - wrap
-- - vase
-  - are
-  - clean
+- - hat
+  - there
+  - comes
 - - pan
   - so
   - gather
+- - am
+  - only
+  - too
+- - vase
+  - are
+  - clean
+- - must
+  - get
+  - your
+- - can
+  - now
+  - place
 - - each
   - end
   - into
+- - stylish
+  - hat
+  - so
 - - are
   - stuck
   - fast
@@ -254,54 +260,48 @@ ngrams:
 - - simple
   - solution
   - which
-- - can
-  - now
-  - place
-- - stylish
-  - hat
-  - so
 - - those
   - chaotically
   - all
 - - bearing
   - an
   - invitation
-- - place
-  - until
-  - they
 - - chaotically
   - all
   - over
-- - lane
-  - bearing
-  - an
+- - place
+  - until
+  - they
 - - incredible
   - adhesiveness
   - this
+- - lane
+  - bearing
+  - an
 - - some
   - rags
   - about
 - - before
   - doing
   - so
-- - so
-  - gather
-  - such
-- - flowers
-  - perhaps
-  - this
 - - loop
   - or
   - lanyard
-- - about
-  - your
-  - fist
-- - rags
-  - about
-  - your
+- - so
+  - gather
+  - such
 - - or
   - lanyard
   - fixed
+- - municipal
+  - function
+  - or
+- - windowsill
+  - or
+  - mantelpiece
+- - windowsill
+  - or
+  - mantelpiece
 story:
   date: 2010-06-02
   id: 2010-06-02-vase-as-hat

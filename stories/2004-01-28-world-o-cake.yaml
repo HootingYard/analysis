@@ -6,20 +6,11 @@ ngrams:
   - swiss
   - roll
 - - january
-  - th
-  - january
-- - january
   - reader
   - ruth
-- - below
-  - january
+- - january
   - th
-- - o'
-  - cake
-  - following
-- - th
   - january
-  - reader
 - - reader
   - ruth
   - pastry
@@ -29,6 +20,15 @@ ngrams:
 - - invigorating
   - debate
   - note
+- - th
+  - january
+  - reader
+- - below
+  - january
+  - th
+- - o'
+  - cake
+  - following
 - - cherry
   - surprise
   - point

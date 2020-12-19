@@ -41,30 +41,33 @@ ngrams:
 - - majestic
   - sweeping
   - paragraphs
-- - article
-  - entitled
-  - abstract
 - - funny
   - business
   - involving
-- - dobson's
-  - oed
-  - carries
 - - contains
   - neither
   - practical
+- - article
+  - entitled
+  - abstract
 - - neither
   - practical
   - tips
 - - makes
   - glancing
   - reference
-- - cardboard
-  - display
-  - models
 - - familiar
   - majestic
   - sweeping
+- - mantelpiece
+  - contains
+  - neither
+- - dobson's
+  - oed
+  - carries
+- - cardboard
+  - display
+  - models
 - - cardboard
   - display
   - models
@@ -77,39 +80,33 @@ ngrams:
 - - watched
   - various
   - crew
-- - mantelpiece
-  - contains
-  - neither
 - - various
   - crew
   - members
-- - magazine
-  - article
-  - entitled
 - - cardboard
   - display
   - model
+- - magazine
+  - article
+  - entitled
 - - shattered
   - ship's
   - captain
 - - shattered
   - ship's
   - captain
-- - cannot
-  - withstand
-  - repeated
 - - cranium
   - cannot
   - withstand
+- - cannot
+  - withstand
+  - repeated
 - - lovecraft
   - warning
   - enough
 - - certain
   - frankish
   - king
-- - ugly
-  - shenanigans
-  - took
 - - keep
   - cardboard
   - display
@@ -119,15 +116,18 @@ ngrams:
 - - keep
   - cardboard
   - display
-- - simply
-  - flipping
-  - past
-- - practical
-  - tips
-  - nor
 - - writing
   - sensible
   - prose
+- - practical
+  - tips
+  - nor
+- - simply
+  - flipping
+  - past
+- - ugly
+  - shenanigans
+  - took
 - - adamantine
   - hardness
   - until
@@ -158,162 +158,147 @@ ngrams:
 - - pharmacies
   - tucked
   - away
-- - most
-  - charitable
-  - reader
 - - title
   - makes
   - great
+- - most
+  - charitable
+  - reader
 - - appended
   - these
   - items
-- - suspect
-  - dobson
-  - appended
 - - watched
   - being
   - performed
-- - shenanigans
-  - took
-  - place
-- - suppose
-  - dobson
-  - addresses
-- - entitled
-  - abstract
-  - dobson
-- - five
-  - dobson
-  - announces
-- - bashing
-  - without
-  - having
 - - met
   - history
   - well
+- - bashing
+  - without
+  - having
+- - shenanigans
+  - took
+  - place
+- - suspect
+  - dobson
+  - appended
 - - world
   - another
   - oed
-- - atoll
-  - populated
-  - only
-- - down
-  - sordid
-  - alleyways
-- - very
-  - sinister
-  - ship
-- - telephone
-  - call
-  - made
-- - page
-  - five
+- - suppose
   - dobson
-- - pamphleteer
-  - watched
-  - being
-- - sordid
-  - alleyways
-  - may
+  - addresses
 - - one's
   - head
   - repeatedly
-- - bash
-  - one's
-  - head
 - - pretty
   - much
   - anything
+- - bash
+  - one's
+  - head
+- - entitled
+  - abstract
+  - dobson
+- - down
+  - sordid
+  - alleyways
+- - pamphleteer
+  - watched
+  - being
+- - atoll
+  - populated
+  - only
+- - very
+  - sinister
+  - ship
+- - sordid
+  - alleyways
+  - may
+- - five
+  - dobson
+  - announces
+- - telephone
+  - call
+  - made
 - - scratching
   - our
   - heads
+- - never
+  - entirely
+  - clear
+- - our
+  - heads
+  - wondering
+- - fact
+  - pretty
+  - much
 - - sensible
   - man
   - writing
 - - man
   - writing
   - sensible
-- - our
-  - heads
-  - wondering
-- - never
-  - entirely
-  - clear
-- - does
+- - page
+  - five
   - dobson
-  - grant
 - - simply
   - see
   - pamphlet
-- - nowhere
-  - does
-  - dobson
-- - fact
-  - pretty
-  - much
-- - told
-  - simply
-  - see
-- - dobson
-  - however
-  - tried
-- - print
-  - pamphleteer
-  - dobson
-- - left
-  - scratching
-  - our
-- - like
-  - practical
-  - tips
-- - head
-  - repeatedly
-  - against
-- - other
-  - paying
-  - passengers
 - - embarks
   - upon
   - passages
+- - head
+  - repeatedly
+  - against
 - - paying
   - passengers
   - upon
+- - told
+  - simply
+  - see
+- - other
+  - paying
+  - passengers
 - - wiser
   - regarding
   - its
-- - pamphleteer
+- - does
   - dobson
-  - however
-- - means
-  - clear
-  - over
+  - grant
 - - cardboard
   - head
   - lost
+- - left
+  - scratching
+  - our
+- - nowhere
+  - does
+  - dobson
+- - means
+  - clear
+  - over
+- - like
+  - practical
+  - tips
+- - print
+  - pamphleteer
+  - dobson
+- - dobson
+  - however
+  - tried
 - - regarding
   - its
   - purpose
 - - took
   - place
   - until
+- - pamphleteer
+  - dobson
+  - however
 - - charitable
   - reader
   - could
-- - dobson
-  - grant
-  - us
-- - dobson
-  - appended
-  - these
-- - abstract
-  - mode
-  - some
-- - some
-  - illegal
-  - pharmacists
-- - mode
-  - some
-  - illegal
 - - more
   - familiar
   - majestic
@@ -323,24 +308,39 @@ ngrams:
 - - several
   - other
   - paying
-- - history
-  - well
-  - dobson
+- - abstract
+  - mode
+  - some
+- - some
+  - illegal
+  - pharmacists
+- - mode
+  - some
+  - illegal
 - - consumed
   - many
   - many
+- - dobson
+  - grant
+  - us
+- - dobson
+  - appended
+  - these
+- - history
+  - well
+  - dobson
 - - away
   - down
   - sordid
-- - tucked
-  - away
-  - down
-- - its
-  - own
-  - risks
 - - head
   - lost
   - too
+- - its
+  - own
+  - risks
+- - tucked
+  - away
+  - down
 - - pamphleteer
   - gets
   - some
@@ -353,69 +353,69 @@ ngrams:
 - - own
   - risks
   - some
-- - your
-  - mantelpiece
-  - contains
 - - scarcely
   - justifiable
   - what
-- - fear
-  - your
-  - cranium
 - - 'no'
   - means
   - clear
 - - resuming
   - their
   - reading
+- - your
+  - mantelpiece
+  - contains
 - - interminable
   - paragraph
   - about
+- - fear
+  - your
+  - cranium
+- - heads
+  - wondering
+  - what
+- - ancient
+  - times
+  - up
+- - ancient
+  - times
+  - up
+- - year's
+  - eve
+  - if
 - - because
   - anybody
   - who
-- - ancient
-  - times
-  - up
-- - ancient
-  - times
-  - up
-- - heads
-  - wondering
+- - entirely
+  - clear
   - what
 - - your
   - cranium
   - cannot
-- - year's
-  - eve
-  - if
 - - about
   - dobson's
   - theory
-- - entirely
-  - clear
-  - what
-- - beetle
-  - fell
-  - out
-- - scrapers
-  - perform
-  - all
 - - sensible
   - prose
   - when
+- - beetle
+  - fell
+  - out
 - - ah
   - 'yes'
   - if
+- - scrapers
+  - perform
+  - all
+- - seen
+  - whether
+  - what
 - - some
   - sense
   - back
 - - perform
   - all
   - sorts
-- - seen
-  - whether
-  - what
 story:
   date: 2010-09-23
   id: 2010-09-23-j

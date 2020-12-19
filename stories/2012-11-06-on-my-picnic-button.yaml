@@ -23,39 +23,30 @@ ngrams:
 - - rival
   - theories
   - regarding
-- - containing
-  - grey
-  - mullet
-- - merchants
-  - containing
-  - grey
 - - softly
   - sing
   - edelweiss
+- - containing
+  - grey
+  - mullet
 - - carrier
   - bags
   - containing
-- - leaflet
+- - merchants
   - containing
-  - advice
+  - grey
 - - entire
   - worldly
   - goods
-- - button
-  - '-'
-  - wherein
+- - leaflet
+  - containing
+  - advice
 - - brown
   - envelopes
   - empty
 - - containing
   - snow
   - bunting
-- - envelope
-  - containing
-  - bits
-- - snow
-  - bunting
-  - feathers
 - - picnic
   - historian
   - fired
@@ -64,85 +55,94 @@ ngrams:
   - picnic
 - - envelope
   - containing
-  - snow
-- - various
-  - brown
-  - envelopes
-- - slate
-  - pen
-  - various
+  - bits
+- - snow
+  - bunting
+  - feathers
 - - cream
   - crackers
   - sausages
+- - envelope
+  - containing
+  - snow
+- - slate
+  - pen
+  - various
+- - various
+  - brown
+  - envelopes
 - - heirloom
   - picnic
   - button
-- - cheese
-  - box
-  - containing
-- - picnic
-  - keen
-  - picnickers
 - - acquired
   - picnic
   - button
 - - picnic
-  - button
-  - '-'
+  - keen
+  - picnickers
 - - etiquette
   - everybody
   - else
+- - cheese
+  - box
+  - containing
 - - pen
   - various
   - brown
-- - music
-  - robert
-  - wise
-- - four
-  - supermarket
-  - carrier
-- - four
-  - supermarket
-  - carrier
 - - picnic
   - button
   - curiously
 - - similar
   - picnic
   - predators
-- - buttons
-  - became
-  - snagged
+- - music
+  - robert
+  - wise
 - - picnic
   - button
   - apart
+- - buttons
+  - became
+  - snagged
+- - four
+  - supermarket
+  - carrier
+- - four
+  - supermarket
+  - carrier
 - - r
   - s
   - thomas
-- - wild
-  - blue
-  - yonder
-- - spare
-  - button
-  - taken
 - - late
   - r
   - s
-- - number
-  - matched
-  - exactly
+- - wild
+  - blue
+  - yonder
 - - written
   - picnic
   - reminiscences
+- - spare
+  - button
+  - taken
 - - example
   - swooping
   - crows
+- - number
+  - matched
+  - exactly
 - - similar
   - pointy
   - brambly
+- - button
+  - '-'
+  - wherein
 - - pointy
   - brambly
   - bit
+- - picnic
+  - button
+  - '-'
 - - pocket
   - written
   - picnic
@@ -167,87 +167,87 @@ ngrams:
 - - historian
   - fired
   - back
-- - gigantic
-  - wicker
-  - man
 - - picnic
   - button
   - these
 - - matched
   - exactly
   - those
+- - gigantic
+  - wicker
+  - man
 - - picnic
   - blanket
   - before
-- - lost
-  - many
-  - buttons
-- - button
-  - any
-  - swooping
-- - any
-  - swooping
-  - crow
-- - week
-  - after
-  - uncle
 - - might
   - otherwise
   - grasp
+- - button
+  - any
+  - swooping
+- - lost
+  - many
+  - buttons
+- - any
+  - swooping
+  - crow
 - - investigate
   - further
   - after
-- - blanket
-  - its
-  - brightness
 - - picnic
   - essentials
   - such
+- - week
+  - after
+  - uncle
+- - blanket
+  - its
+  - brightness
 - - very
   - rarely
   - among
 - - its
   - savage
   - talons
+- - picnic
+  - embarked
+  - upon
 - - among
   - any
   - complement
 - - picnic
   - blanket
   - its
-- - picnic
-  - embarked
-  - upon
-- - wicker
-  - man
-  - still
 - - its
   - attention
   - distracted
+- - wicker
+  - man
+  - still
+- - thus
+  - lost
+  - upon
 - - these
   - isles
   - where
 - - button
   - these
   - may
-- - thus
-  - lost
-  - upon
+- - their
+  - exact
+  - purpose
 - - been
   - comprehensively
   - demolished
 - - their
-  - exact
-  - purpose
-- - their
   - number
   - matched
-- - controversy
-  - has
-  - yet
 - - 'no'
   - longer
   - clear
+- - controversy
+  - has
+  - yet
 - - glitter
   - were
   - designed
@@ -275,15 +275,15 @@ ngrams:
 - - will
   - investigate
   - further
-- - years
-  - 'no'
-  - picnic
 - - carrier
   - bags
   - we
 - - uncle
   - quentin
   - would
+- - years
+  - 'no'
+  - picnic
 - - would
   - softly
   - sing
@@ -299,24 +299,27 @@ ngrams:
 - - ever
   - been
   - called
+- - button
+  - perhaps
+  - there
 - - picnic
   - reminiscences
   - are
 - - died
   - we
   - found
-- - button
-  - perhaps
+- - postwar
+  - years
   - there
+- - us
+  - there
+  - gathered
 - - paint
   - brushes
   - an
 - - brushes
   - an
   - envelope
-- - postwar
-  - years
-  - there
 - - hare
   - an
   - envelope
@@ -329,9 +332,6 @@ ngrams:
 - - an
   - envelope
   - containing
-- - us
-  - there
-  - gathered
 - - envelopes
   - empty
   - an
@@ -341,31 +341,31 @@ ngrams:
 - - none
   - an
   - exercise
-- - has
-  - been
-  - comprehensively
-- - theory
-  - has
-  - been
-- - are
-  - two
-  - rival
-- - these
-  - days
-  - they
-- - button
-  - apart
-  - this
+- - undone
+  - so
+  - many
 - - picnic
   - button
   - one
+- - button
+  - apart
+  - this
 - - button
   - would
   - only
 - - apart
   - this
   - collection
-- - undone
+- - these
+  - days
+  - they
+- - has
+  - been
+  - comprehensively
+- - many
+  - buttons
+  - so
+- - buttons
   - so
   - many
 - - picnic

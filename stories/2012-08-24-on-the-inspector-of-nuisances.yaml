@@ -1,37 +1,37 @@
 ngrams:
-- - overturned
-  - bleach
-  - bottle
-- - bleach
-  - bottle
-  - mishaps
 - - sordid
   - undergrowth
   - beside
+- - overturned
+  - bleach
+  - bottle
 - - weekly
   - visits
   - clanging
+- - bleach
+  - bottle
+  - mishaps
 - - strange
   - voodoo
   - idols
-- - pang
-  - hill
-  - orphanage
-- - pang
-  - hill
-  - orphanage
 - - whereas
   - pang
   - hill
+- - pang
+  - hill
+  - orphanage
+- - pang
+  - hill
+  - orphanage
+- - spotted
+  - half
+  - hidden
 - - withered
   - gent
   - whose
 - - roughly
   - six
   - hundred
-- - spotted
-  - half
-  - hidden
 - - gent
   - whose
   - approach
@@ -44,18 +44,21 @@ ngrams:
 - - trudge
   - around
   - nameless
-- - around
-  - nameless
-  - pond
 - - unpleasant
   - hobby
   - while
-- - withered
-  - oh
-  - look
 - - too
   - thickly
   - entangled
+- - withered
+  - oh
+  - look
+- - around
+  - nameless
+  - pond
+- - come
+  - dabbling
+  - close
 - - name
   - i'm
   - afraid
@@ -65,24 +68,21 @@ ngrams:
 - - milky
   - eyes
   - good
-- - come
-  - dabbling
-  - close
+- - order
+  - pointy
+  - town
 - - morning
   - trudge
   - around
 - - parents
   - never
   - divulged
-- - after
-  - chris
-  - cutler
 - - those
   - overturned
   - bleach
-- - order
-  - pointy
-  - town
+- - after
+  - chris
+  - cutler
 - - after
   - cornelius
   - cardew
@@ -101,12 +101,12 @@ ngrams:
 - - prostrating
   - themselves
   - before
-- - devoted
-  - many
-  - hours
 - - mysterious
   - place
   - mr
+- - devoted
+  - many
+  - hours
 - - themselves
   - before
   - strange
@@ -119,48 +119,48 @@ ngrams:
 - - those
   - pointy
   - bits
-- - wrung
-  - its
-  - neck
 - - awaiting
   - any
   - kind
-- - very
-  - mysterious
-  - place
-- - very
-  - mysterious
-  - place
+- - wrung
+  - its
+  - neck
 - - place
   - mr
   - key
+- - very
+  - mysterious
+  - place
+- - very
+  - mysterious
+  - place
 - - without
   - awaiting
   - any
 - - pang
   - hill
   - could
-- - imperialism
-  - among
-  - other
 - - first
   - ever
   - survey
+- - imperialism
+  - among
+  - other
 - - next
   - day
   - armed
-- - said
-  - without
-  - looking
 - - across
   - very
   - often
-- - among
-  - other
-  - works
+- - said
+  - without
+  - looking
 - - nor
   - any
   - sense
+- - among
+  - other
+  - works
 - - quite
   - other
   - types
@@ -176,9 +176,6 @@ ngrams:
 - - their
   - iron
   - cots
-- - raising
-  - your
-  - eyebrows
 - - many
   - hours
   - over
@@ -194,60 +191,63 @@ ngrams:
 - - hill
   - could
   - ever
-- - man
-  - could
-  - reasonably
+- - raising
+  - your
+  - eyebrows
 - - shabby
   - genteel
   - about
+- - man
+  - could
+  - reasonably
 - - occasionally
   - reads
   - about
 - - beadle
   - what
   - became
+- - am
+  - mr
+  - key
+- - am
+  - very
+  - pleased
 - - years
   - many
   - many
 - - many
   - many
   - years
-- - 'no'
-  - idea
-  - whether
-- - am
-  - very
-  - pleased
 - - more
   - plainly
   - than
+- - 'no'
+  - idea
+  - whether
 - - duck
   - after
   - some
-- - am
-  - mr
-  - key
-- - after
-  - some
-  - minutes
 - - withering
   - slowed
   - me
 - - over
   - many
   - many
-- - your
-  - name
-  - i'm
+- - after
+  - some
+  - minutes
 - - drove
   - me
   - crackers
-- - been
-  - too
-  - exhausted
 - - bits
   - drove
   - me
+- - been
+  - too
+  - exhausted
+- - your
+  - name
+  - i'm
 - - never
   - divulged
   - what
@@ -257,54 +257,54 @@ ngrams:
 - - them
   - nor
   - any
-- - days
-  - behind
-  - me
-- - pond
-  - so
-  - close
 - - mr
   - key
   - when
 - - so
   - withered
   - oh
+- - pond
+  - so
+  - close
+- - days
+  - behind
+  - me
 - - believe
   - me
   - mr
 - - surveying
   - all
   - those
-- - slowed
-  - me
-  - down
 - - me
   - mr
   - key
+- - slowed
+  - me
+  - down
+- - bottle
+  - mishaps
+  - one
 - - wore
   - me
   - down
 - - me
   - down
   - slowly
-- - met
-  - an
-  - enormous
-- - bottle
-  - mishaps
-  - one
-- - one
-  - working
-  - lifetime
-- - orphanage
-  - day
-  - they
 - - mishaps
   - one
   - occasionally
 - - one
+  - working
+  - lifetime
+- - one
   - occasionally
   - reads
+- - met
+  - an
+  - enormous
+- - orphanage
+  - day
+  - they
 - - all
   - those
   - pointy
@@ -320,9 +320,6 @@ ngrams:
 - - least
   - one
   - fixed
-- - now
-  - so
-  - withered
 - - teal
   - or
   - mergansers
@@ -332,6 +329,9 @@ ngrams:
 - - parental
   - choices
   - but
+- - now
+  - so
+  - withered
 - - lifetime
   - but
   - whereas
@@ -341,24 +341,24 @@ ngrams:
 - - but
   - whereas
   - pang
-- - had
-  - come
-  - dabbling
+- - works
+  - or
+  - possibly
 - - searched
   - but
   - eventually
 - - slowly
   - but
   - surely
-- - works
+- - mergansers
   - or
-  - possibly
+  - indeed
+- - had
+  - come
+  - dabbling
 - - have
   - leaned
   - forward
-- - orphans
-  - at
-  - pang
 story:
   date: 2012-08-24
   id: 2012-08-24-on-the-inspector-of-nuisances

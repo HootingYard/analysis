@@ -29,12 +29,12 @@ ngrams:
 - - wide
   - white
   - trousers
-- - beard
-  - tall
-  - white
 - - trousers
   - hoisted
   - high
+- - beard
+  - tall
+  - white
 - - peculiar
   - notions
   - during
@@ -50,15 +50,15 @@ ngrams:
 - - grew
   - obsessive
   - during
+- - railways
+  - spreading
+  - across
 - - tall
   - white
   - hat
 - - hoisted
   - high
   - above
-- - railways
-  - spreading
-  - across
 - - spreading
   - across
   - holy
@@ -83,6 +83,9 @@ ngrams:
 - - most
   - conservative
   - member
+- - deluded
+  - individuals
+  - might
 - - obviously
   - very
   - loyal
@@ -92,36 +95,33 @@ ngrams:
 - - fabric
   - our
   - matchless
-- - parliament
-  - ever
-  - known
 - - glorious
   - fabric
   - our
-- - deluded
-  - individuals
-  - might
-- - ever
+- - parliament
+  - ever
   - known
-  - setting
-- - sanction
-  - any
-  - attempts
-- - innovation
-  - regarding
-  - even
 - - individuals
   - might
   - bring
+- - sanction
+  - any
+  - attempts
+- - ever
+  - known
+  - setting
+- - innovation
+  - regarding
+  - even
+- - might
+  - bring
+  - forward
 - - against
   - anything
   - new
 - - later
   - years
   - beginning
-- - might
-  - bring
-  - forward
 - - sinister
   - through
   - having
@@ -131,24 +131,24 @@ ngrams:
 - - its
   - present
   - perfection
-- - terrible
-  - blunder
-  - she
 - - other
   - familiar
   - terms
 - - reached
   - its
   - present
+- - terrible
+  - blunder
+  - she
 - - some
   - admirable
   - qualities
-- - cord
-  - distinguished
-  - him
 - - way
   - sinister
   - through
+- - cord
+  - distinguished
+  - him
 - - idiot
   - who
   - proclaimed
@@ -161,12 +161,12 @@ ngrams:
 - - has
   - written
   - affectionately
-- - been
-  - born
-  - outside
 - - abuse
   - were
   - greeted
+- - been
+  - born
+  - outside
 - - some
   - way
   - sinister
@@ -176,18 +176,18 @@ ngrams:
 - - find
   - their
   - visions
-- - having
-  - been
-  - born
-- - across
-  - him
-  - again
-- - come
-  - across
-  - him
 - - their
   - visions
   - go
+- - having
+  - been
+  - born
+- - election
+  - asked
+  - if
+- - across
+  - him
+  - again
 story:
   date: 2010-07-21
   id: 2010-07-21-sibthorp

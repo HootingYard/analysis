@@ -2,12 +2,12 @@ ngrams:
 - - idiotic
   - wittering
   - equine
-- - mancunian
-  - polymath
-  - anthony
 - - assertion
   - idiotic
   - wittering
+- - mancunian
+  - polymath
+  - anthony
 - - polymath
   - anthony
   - burgess
@@ -29,27 +29,27 @@ ngrams:
 - - vast
   - scholarly
   - apparatus
+- - accepted
+  - wisdom
+  - regarding
 - - early
   - faltering
   - stabs
 - - defunct
   - magazine
   - beasts
-- - accepted
-  - wisdom
-  - regarding
 - - majestic
   - sweeping
   - paragraphs
 - - wild
   - assertion
   - idiotic
-- - received
-  - gently
-  - pointed
 - - entitled
   - somewhat
   - inelegantly
+- - received
+  - gently
+  - pointed
 - - dallas
   - entitled
   - somewhat
@@ -80,18 +80,18 @@ ngrams:
 - - without
   - fatally
   - undermining
-- - stuff
-  - without
-  - fatally
-- - pigs
-  - alas
-  - later
-- - yet
-  - dramatic
-  - shifting
 - - though
   - factually
   - inaccurate
+- - stuff
+  - without
+  - fatally
+- - yet
+  - dramatic
+  - shifting
+- - pigs
+  - alas
+  - later
 - - important
   - pamphlet
   - published
@@ -107,39 +107,39 @@ ngrams:
 - - finished
   - piece
   - without
-- - tiny
-  - tiny
-  - beings
 - - bore
   - through
   - cement
-- - collapsed
-  - after
-  - attack
+- - tiny
+  - tiny
+  - beings
 - - tiny
   - yet
   - dramatic
 - - without
   - inserting
   - something
-- - print
-  - dobson
-  - begins
+- - collapsed
+  - after
+  - attack
 - - being
   - smothered
   - under
+- - print
+  - dobson
+  - begins
 - - like
   - mancunian
   - polymath
 - - typewriter
   - like
   - mancunian
-- - now
-  - defunct
-  - magazine
 - - less
   - than
   - perfect
+- - now
+  - defunct
+  - magazine
 - - could
   - easily
   - delete
@@ -149,42 +149,42 @@ ngrams:
 - - inaccurate
   - has
   - served
-- - little
-  - less
-  - than
 - - way
   - these
   - words
+- - little
+  - less
+  - than
 - - science
   - has
   - yet
-- - written
-  - about
-  - hay
 - - gently
   - pointed
   - out
-- - will
-  - completely
-  - overturn
+- - written
+  - about
+  - hay
 - - piece
   - about
   - swill
+- - will
+  - completely
+  - overturn
 - - editors
   - were
   - kind
 - - incomprehensible
   - gibberish
   - all
+- - inserting
+  - something
+  - about
 - - all
   - reasonable
   - doubt
 - - beyond
   - all
   - reasonable
-- - inserting
-  - something
-  - about
 - - something
   - about
   - hay
@@ -200,15 +200,15 @@ ngrams:
 - - will
   - always
   - remain
-- - pamphleteer
-  - will
-  - always
 - - metabolism
   - so
   - extraordinary
 - - scribbled
   - so
   - decisively
+- - pamphleteer
+  - will
+  - always
 - - realm
   - are
   - backed
@@ -224,12 +224,12 @@ ngrams:
 - - july
   - this
   - fragment
-- - fiction
-  - july
-  - this
 - - so
   - many
   - beginners
+- - fiction
+  - july
+  - this
 - - had
   - ceased
   - publication
@@ -239,30 +239,30 @@ ngrams:
 - - magazine
   - had
   - ceased
+- - 'no'
+  - matter
+  - what
 - - field
   - had
   - collapsed
 - - round
   - table
   - had
-- - 'no'
-  - matter
-  - what
 - - later
   - date
   - had
 - - faltering
   - stabs
   - at
+- - prose
+  - but
+  - oh
 - - stabs
   - at
   - composition
 - - balcony
   - gazing
   - at
-- - had
-  - collapsed
-  - after
 story:
   date: 2010-08-01
   id: 2010-08-01-hay-in-nosebags

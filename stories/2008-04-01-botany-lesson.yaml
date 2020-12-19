@@ -8,39 +8,30 @@ ngrams:
 - - dried
   - citrus
   - husks
-- - ale
-  - pastries
-  - dried
+- - targeted
+  - electrical
+  - voltage
 - - bold
   - hectoring
   - typeface
 - - glove
   - pigmentation
   - chart
-- - targeted
-  - electrical
-  - voltage
+- - ale
+  - pastries
+  - dried
 - - meat
   - oats
   - barley
-- - baked
-  - turnips
-  - cocoa
-- - pastries
-  - dried
-  - citrus
-- - unidentified
-  - meat
-  - oats
-- - turnips
-  - cocoa
-  - powder
 - - voltage
   - delivery
   - contraption
-- - pies
-  - cereals
-  - chunks
+- - unidentified
+  - meat
+  - oats
+- - pastries
+  - dried
+  - citrus
 - - electrical
   - voltage
   - delivery
@@ -50,30 +41,39 @@ ngrams:
 - - attach
   - electrical
   - wires
+- - pies
+  - cereals
+  - chunks
+- - baked
+  - turnips
+  - cocoa
+- - delivery
+  - contraption
+  - specially
 - - crackers
   - clam
   - chowder
 - - nasal
   - passages
   - cleared
-- - delivery
-  - contraption
-  - specially
+- - turnips
+  - cocoa
+  - powder
 - - rubber
   - glove
   - pigmentation
-- - sharp
-  - exemplary
-  - slicing
 - - spoon
   - plums
   - balsamic
-- - balsamic
-  - vinegar
-  - toffee
+- - sharp
+  - exemplary
+  - slicing
 - - plums
   - balsamic
   - vinegar
+- - balsamic
+  - vinegar
+  - toffee
 - - winter
   - storage
   - baked
@@ -83,12 +83,12 @@ ngrams:
 - - rubber
   - gloves
   - worn
-- - lemon
-  - curd
-  - bog
 - - animal
   - innards
   - gravy
+- - lemon
+  - curd
+  - bog
 - - funnel
   - rubber
   - gloves
@@ -98,6 +98,9 @@ ngrams:
 - - vinegar
   - toffee
   - pudding
+- - oranges
+  - various
+  - animal
 - - powder
   - blood
   - oranges
@@ -110,21 +113,18 @@ ngrams:
 - - cocoa
   - powder
   - blood
-- - oranges
-  - various
-  - animal
 - - various
   - animal
   - innards
 - - light
   - ale
   - pastries
-- - big
-  - sharp
-  - exemplary
 - - become
   - apparent
   - immersion
+- - big
+  - sharp
+  - exemplary
 - - blood
   - oranges
   - various
@@ -152,15 +152,15 @@ ngrams:
 - - our
   - nasal
   - passages
-- - our
-  - rubber
-  - gloves
-- - immediately
-  - after
-  - lunch
 - - real
   - world
   - thus
+- - immediately
+  - after
+  - lunch
+- - our
+  - rubber
+  - gloves
 - - take
   - place
   - immediately
@@ -173,15 +173,15 @@ ngrams:
 - - pails
   - then
   - transferred
-- - place
-  - immediately
-  - after
 - - world
   - thus
   - far
-- - pigmentation
-  - chart
-  - has
+- - place
+  - immediately
+  - after
+- - before
+  - being
+  - poured
 story:
   date: 2008-04-01
   id: 2008-04-01-botany-lesson

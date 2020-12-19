@@ -44,9 +44,6 @@ ngrams:
 - - religious
   - priest
   - virgin
-- - special
-  - cult
-  - enumeration
 - - saint
   - mungo
   - dating
@@ -56,33 +53,36 @@ ngrams:
 - - saints
   - religious
   - priest
+- - special
+  - cult
+  - enumeration
 - - title
   - fasti
   - sanctorum
-- - saint
-  - mungo's
-  - mother
 - - various
   - saints
   - religious
-- - sixth
-  - century
-  - mungo
+- - saint
+  - mungo's
+  - mother
 - - importance
   - presents
   - itself
+- - sixth
+  - century
+  - mungo
 - - hill
   - outside
   - edinburgh
 - - saints
   - whose
   - acts
-- - collection
-  - begun
-  - during
 - - same
   - documents
   - barbarous
+- - collection
+  - begun
+  - during
 - - saints
   - whose
   - lives
@@ -134,12 +134,12 @@ ngrams:
 - - jealous
   - classmates
   - who
-- - because
-  - she
-  - survived
 - - classmates
   - who
   - hoped
+- - because
+  - she
+  - survived
 - - coracle
   - fetching
   - up
@@ -152,30 +152,30 @@ ngrams:
 - - may
   - give
   - us
-- - our
-  - readers
-  - may
 - - under
   - their
   - patronage
+- - our
+  - readers
+  - may
 - - placed
   - under
   - their
 - - work
   - takes
   - up
-- - our
-  - own
-  - day
 - - author
   - if
   - anything
-- - been
-  - either
-  - found
+- - our
+  - own
+  - day
 - - holy
   - scripture
   - there
+- - been
+  - either
+  - found
 - - scripture
   - there
   - explained
@@ -188,6 +188,12 @@ ngrams:
 - - been
   - made
   - questions
+- - ago
+  - we
+  - noted
+- - are
+  - especially
+  - invoked
 - - supplementary
   - volumes
   - which
@@ -197,36 +203,30 @@ ngrams:
 - - pet
   - robin
   - which
-- - are
-  - especially
-  - invoked
-- - explained
-  - points
-  - which
-- - ago
-  - we
-  - noted
 - - we
   - shall
   - return
-- - antwerp
-  - an
-  - alphabetical
+- - explained
+  - points
+  - which
 - - days
   - ago
   - we
+- - antwerp
+  - an
+  - alphabetical
 - - contains
   - an
   - appendix
-- - an
-  - alphabetical
-  - list
 - - manuscript
   - collections
   - this
-- - has
-  - been
-  - printed
+- - an
+  - alphabetical
+  - list
+- - an
+  - important
+  - topic
 story:
   date: 2005-01-16
   id: 2005-01-16-saint-mungo-read-and-learn

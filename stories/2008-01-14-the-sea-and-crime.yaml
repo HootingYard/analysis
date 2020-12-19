@@ -3,6 +3,9 @@ ngrams:
   - se
   - tosspot
 - - submarine
+  - heist
+  - movie
+- - submarine
   - pump
   - authenticity
 - - se
@@ -11,9 +14,6 @@ ngrams:
 - - everyday
   - unlettered
   - learning
-- - submarine
-  - heist
-  - movie
 - - heist
   - movie
   - employed
@@ -23,33 +23,33 @@ ngrams:
 - - provide
   - valuable
   - insights
-- - pacing
-  - below
-  - decks
 - - abandoned
   - submarine
   - heist
+- - pacing
+  - below
+  - decks
 - - pump
   - looking
   - mordant
-- - heist
-  - genre
-  - although
-- - vinegary
-  - seaside
-  - resort
 - - particular
   - romantic
   - vision
-- - socks
-  - placed
-  - carefully
+- - vinegary
+  - seaside
+  - resort
+- - heist
+  - genre
+  - although
 - - rain
   - listening
   - rapt
 - - torrential
   - rain
   - listening
+- - socks
+  - placed
+  - carefully
 - - submarine
   - drama
   - whether
@@ -68,18 +68,18 @@ ngrams:
 - - resort
   - under
   - torrential
-- - under
-  - torrential
-  - rain
 - - significant
   - sense
   - oh
-- - seaside
-  - resort
-  - under
+- - under
+  - torrential
+  - rain
 - - film
   - leaning
   - against
+- - seaside
+  - resort
+  - under
 - - pebbles
   - 'true'
   - enough
@@ -125,15 +125,15 @@ ngrams:
 - - criminal
   - has
   - always
-- - has
-  - always
-  - held
 - - about
   - pumps
   - authenticity
 - - tips
   - about
   - pumps
+- - has
+  - always
+  - held
 - - plans
   - were
   - dashed
@@ -152,27 +152,27 @@ ngrams:
 - - movie
   - employed
   - me
-- - few
-  - tips
-  - about
 - - enough
   - more
   - than
-- - 'no'
-  - such
-  - allure
+- - few
+  - tips
+  - about
 - - more
   - than
   - once
+- - 'no'
+  - such
+  - allure
+- - food
+  - poisoning
+  - so
 - - learned
   - what
   - little
 - - always
   - held
   - me
-- - food
-  - poisoning
-  - so
 - - tinies
   - are
   - intrigued
@@ -182,81 +182,81 @@ ngrams:
 - - time
   - their
   - testimony
+- - when
+  - its
+  - skipper
+- - tugboat
+  - when
+  - its
 - - inhabits
   - an
   - utterly
 - - an
   - urban
   - alleyway
-- - when
-  - its
-  - skipper
 - - boat
   - inhabits
   - an
-- - tugboat
-  - when
-  - its
-- - an
-  - utterly
-  - different
 - - am
   - talking
   - about
+- - an
+  - utterly
+  - different
 - - crime
   - those
   - are
-- - things
-  - they
-  - may
-- - had
-  - hoped
-  - today
 - - tramp
   - steamer
   - or
 - - conrad
   - or
   - herman
-- - or
-  - herman
-  - melville
 - - joseph
   - conrad
   - or
 - - or
+  - herman
+  - melville
+- - or
   - break
   - success
+- - things
+  - they
+  - may
 - - or
   - pacing
   - below
-- - bivouac
-  - below
-  - but
 - - submarines
   - whether
   - or
 - - drama
   - whether
   - or
-- - genre
-  - although
-  - from
+- - had
+  - hoped
+  - today
+- - bivouac
+  - below
+  - but
 - - below
   - but
   - alas
 - - talking
   - about
   - when
+- - genre
+  - although
+  - from
 - - they
   - sign
   - up
 - - sign
   - up
   - they
-- - had
-  - polished
-  - many
+- - break
+  - success
+  - at
 story:
   date: 2008-01-14
   id: 2008-01-14-the-sea-and-crime

@@ -2,81 +2,81 @@ ngrams:
 - - aquarium
   - guidebook
   - squids
-- - implants
-  - clytemnestra
-  - hated
 - - thunderstorms
   - tornadoes
   - forked
 - - corned
   - beef
   - wars
-- - electronic
-  - implants
-  - clytemnestra
 - - harris
   - carolina
   - herbst
+- - implants
+  - clytemnestra
+  - hated
 - - sandra
   - harris
   - carolina
+- - electronic
+  - implants
+  - clytemnestra
 - - invalid
   - postscript
   - font
-- - geological
-  - strata
-  - underneath
+- - papoose
+  - boo
+  - boo
+- - papoose
+  - boo
+  - boo
 - - pierce
   - marvin
   - suicide
-- - clytemnestra
-  - duggleby
-  - attested
-- - luncheon
-  - anagram
-  - aka
-- - papoose
-  - boo
-  - boo
-- - papoose
-  - boo
-  - boo
 - - submerged
   - aquarium
   - hewn
+- - clytemnestra
+  - duggleby
+  - attested
 - - michael
   - pierce
   - marvin
+- - luncheon
+  - anagram
+  - aka
+- - geological
+  - strata
+  - underneath
 - - marvin
   - suicide
   - chris
-- - suicide
-  - chris
-  - weaver
 - - anagram
   - sandra
   - harris
-- - northern
-  - hemisphere
-  - chaos
+- - suicide
+  - chris
+  - weaver
 - - show's
   - theme
   - tune
-- - sunlight
-  - dan
-  - corbett
+- - northern
+  - hemisphere
+  - chaos
 - - begins
   - rendered
   - placid
-- - famously
-  - begins
-  - rendered
+- - sunlight
+  - dan
+  - corbett
 - - tornadoes
   - forked
   - lightning
 - - forked
   - lightning
   - slush
+- - famously
+  - begins
+  - rendered
 - - boo
   - boo
   - singing
@@ -86,93 +86,90 @@ ngrams:
 - - theme
   - tune
   - features
-- - magnificent
-  - dan
-  - corbett
-- - winter
-  - sunlight
-  - dan
 - - freakish
   - weather
   - conditions
-- - c
-  - j
-  - halo
 - - extreme
   - weather
   - conditions
-- - aquatic
-  - beings
-  - actual
+- - magnificent
+  - dan
+  - corbett
 - - antediluvian
   - beast
   - listening
+- - winter
+  - sunlight
+  - dan
 - - beast
   - listening
   - distractedly
+- - c
+  - j
+  - halo
 - - oregano
   - wars
   - bear
+- - aquatic
+  - beings
+  - actual
 - - halo
   - goat
   - luncheon
 - - spills
   - window
   - sills
+- - thrills
+  - spills
+  - window
 - - goat
   - luncheon
   - anagram
 - - revolutionary
   - lolita
   - trying
-- - thrills
-  - spills
-  - window
-- - anagram
-  - aka
-  - john
 - - j
   - halo
   - goat
 - - watched
   - dan
   - visit
-- - beings
-  - actual
-  - size
 - - wild
   - hogs
   - otters
-- - dan
-  - visit
-  - that's
-- - winds
-  - ice
-  - chaos
+- - beings
+  - actual
+  - size
+- - anagram
+  - aka
+  - john
 - - various
   - janitorial
   - doings
+- - winds
+  - ice
+  - chaos
 - - weather
   - conditions
   - seem
 - - early
   - podcast
   - release
-- - blister
-  - lane
-  - bypass
 - - size
   - including
   - squid
-- - alphabetical
-  - order
-  - pansy
-- - kevin
-  - costner
-  - film
 - - costner
   - film
   - zip
+- - kevin
+  - costner
+  - film
+- - dan
+  - visit
+  - that's
+- - blister
+  - lane
+  - bypass
 - - rainfall
   - wild
   - winds
@@ -182,12 +179,12 @@ ngrams:
 - - actual
   - size
   - including
+- - alphabetical
+  - order
+  - pansy
 - - weather
   - rainfall
   - wild
-- - profound
-  - apologies
-  - note
 - - bring
   - rain
   - downpour
@@ -197,51 +194,54 @@ ngrams:
 - - stoats
   - pigs
   - wild
-- - warnings
-  - waverly
-  - person
-- - weather
-  - ah
-  - 'yes'
-- - wild
-  - winds
-  - ice
+- - profound
+  - apologies
+  - note
 - - cod
   - wars
   - between
-- - wars
-  - between
-  - ireland
 - - beef
   - wars
   - between
 - - wars
   - between
+  - ireland
+- - weather
+  - ah
+  - 'yes'
+- - warnings
+  - waverly
+  - person
+- - wild
+  - winds
+  - ice
+- - wars
+  - between
   - britain
-- - cold
-  - snap
-  - it's
 - - rain
   - sometimes
   - torrential
-- - jot
-  - nor
-  - scintilla
+- - cold
+  - snap
+  - it's
 - - wayward
   - reflexes
   - quite
-- - tsunami
-  - incidentally
-  - let
+- - jot
+  - nor
+  - scintilla
+- - hemisphere
+  - chaos
+  - indeed
 - - sometimes
   - torrential
   - sometimes
 - - snap
   - it's
   - 'true'
-- - hemisphere
-  - chaos
-  - indeed
+- - tsunami
+  - incidentally
+  - let
 - - why
   - zip
   - accepted
@@ -254,12 +254,12 @@ ngrams:
 - - suggested
   - words
   - appear
-- - podcast
-  - release
-  - go
 - - simple
   - yet
   - brilliant
+- - podcast
+  - release
+  - go
 - - amazed
   - little
   - severin
@@ -269,18 +269,21 @@ ngrams:
 - - weather
   - little
   - severin
-- - newspapers
-  - last
-  - week
 - - back
   - indoors
   - voila
+- - newspapers
+  - last
+  - week
 - - indoors
   - voila
   - those
 - - reflexes
   - quite
   - why
+- - it's
+  - 'true'
+  - though
 - - quite
   - why
   - zip
@@ -293,9 +296,6 @@ ngrams:
 - - mystic
   - badger
   - those
-- - it's
-  - 'true'
-  - though
 - - any
   - oregano
   - wars
@@ -305,66 +305,66 @@ ngrams:
 - - related
   - thrillers
   - such
-- - around
-  - little
-  - severin
 - - cabin
   - somewhere
   - over
-- - incidentally
-  - let
-  - us
-- - flying
-  - around
-  - little
 - - voila
   - those
   - able
+- - incidentally
+  - let
+  - us
+- - around
+  - little
+  - severin
 - - know
   - whether
   - tomorrow
+- - flying
+  - around
+  - little
 - - muck
   - like
   - badgers
-- - waverly
-  - person
-  - now
-- - some
-  - spastic
-  - hound
 - - am
   - hardly
   - qualified
+- - waverly
+  - person
+  - now
 - - severin
   - can
   - predict
+- - some
+  - spastic
+  - hound
 - - some
   - antediluvian
   - beast
 - - let
   - us
   - take
-- - mystic
-  - badger
-  - has
-- - who
-  - donated
-  - money
-- - little
-  - severin
-  - did
-- - others
-  - who
-  - wished
 - - am
   - pretty
   - sure
+- - who
+  - donated
+  - money
+- - mystic
+  - badger
+  - has
+- - little
+  - severin
+  - did
 - - their
   - papoose
   - boo
 - - their
   - thrills
   - spills
+- - others
+  - who
+  - wished
 - - their
   - cash
   - follows
@@ -377,39 +377,39 @@ ngrams:
 - - braithwaite
   - who
   - called
-- - little
-  - severin
-  - can
 - - talk
   - about
   - extreme
 - - about
   - extreme
   - weather
+- - little
+  - severin
+  - can
 - - mystic
   - badger
   - about
-- - listeners
-  - were
-  - invited
-- - among
-  - many
-  - other
-- - aquarium
-  - hewn
-  - out
 - - dan
   - corbett
   - if
+- - aquarium
+  - hewn
+  - out
+- - listeners
+  - were
+  - invited
 - - mystic
   - badger
   - when
+- - among
+  - many
+  - other
 - - predict
   - more
   - than
-- - been
-  - flying
-  - around
+- - tomorrow
+  - will
+  - bring
 story:
   date: 2007-02-14
   id: 2007-02-14-ice-chaos

@@ -5,87 +5,87 @@ ngrams:
 - - bulk
   - frag
   - mint
-- - foo
-  - ack
-  - ret
 - - fret
   - sip
   - pipi
 - - hod
   - bulk
   - frag
+- - foo
+  - ack
+  - ret
 - - lop
   - fret
   - sip
 - - tog
   - hoo
   - flap
-- - hoo
-  - flap
-  - toggle
-- - hag
-  - ack
-  - ack
-- - nip
-  - pap
-  - lop
 - - spun
   - dig
   - hod
-- - enthralling
-  - serial
-  - unspeakable
+- - hoo
+  - flap
+  - toggle
+- - nip
+  - pap
+  - lop
+- - hag
+  - ack
+  - ack
+- - dig
+  - hod
+  - bulk
 - - pap
   - lop
   - fret
 - - ack
   - spun
   - dig
-- - dig
-  - hod
-  - bulk
-- - serial
-  - unspeakable
-  - desolation
-- - unspeakable
-  - desolation
-  - pouring
 - - snap
   - tog
   - tog
 - - rag
   - snout
   - cot
-- - ack
-  - pan
-  - fop
+- - enthralling
+  - serial
+  - unspeakable
 - - flap
   - toggle
   - bin
-- - tot
-  - foo
-  - ack
 - - sap
   - tot
   - foo
-- - pan
-  - fop
-  - chap
 - - toggle
   - bin
   - pan
+- - tot
+  - foo
+  - ack
+- - ack
+  - pan
+  - fop
+- - pan
+  - fop
+  - chap
+- - serial
+  - unspeakable
+  - desolation
+- - unspeakable
+  - desolation
+  - pouring
 - - pin
   - pan
   - sap
+- - pan
+  - sap
+  - tot
 - - nod
   - goo
   - pin
 - - mercifully
   - brief
   - extract
-- - pan
-  - sap
-  - tot
 story:
   date: 2004-08-02
   id: 2004-08-02-the-spangles-reference-library

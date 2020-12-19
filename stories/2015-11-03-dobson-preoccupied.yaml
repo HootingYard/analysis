@@ -29,9 +29,6 @@ ngrams:
 - - dusty
   - springfield
   - method
-- - foreign
-  - ministry
-  - '-'
 - - empire
   - foreign
   - ministry
@@ -47,18 +44,15 @@ ngrams:
 - - sudden
   - departure
   - leaving
-- - dobson's
-  - seeming
-  - residence
 - - ticket
   - collector's
   - boots
-- - title
-  - andy
-  - martin
 - - scarf
   - tighter
   - round
+- - title
+  - andy
+  - martin
 - - bus
   - ticket
   - collector's
@@ -68,30 +62,33 @@ ngrams:
 - - smithereens
   - lay
   - scattered
+- - dobson's
+  - seeming
+  - residence
 - - working
   - title
   - andy
 - - breakfast
   - unfinished
   - unfortunately
-- - thunderclaps
-  - marigold
-  - chew
 - - severely
   - myopic
   - thus
+- - foreign
+  - ministry
+  - '-'
 - - hysterical
   - force
   - against
 - - wall
   - several
   - smithereens
+- - thunderclaps
+  - marigold
+  - chew
 - - several
   - smithereens
   - lay
-- - marigold
-  - chew
-  - whatever
 - - visible
   - universe
   - does
@@ -103,22 +100,25 @@ ngrams:
   - force
 - - marigold
   - chew
-  - became
+  - whatever
 - - few
   - inches
   - ahead
-- - breakfast
-  - marigold
-  - chew
 - - several
   - weeks
   - passed
-- - asked
+- - breakfast
   - marigold
   - chew
+- - marigold
+  - chew
+  - became
 - - dobson's
   - pamphlet
   - breakfast
+- - asked
+  - marigold
+  - chew
 - - own
   - myopia
   - whether
@@ -128,13 +128,10 @@ ngrams:
 - - see
   - andy
   - martin
-- - terribly
-  - preoccupied
-  - dobson
 - - ah
   - good
   - morning
-- - seem
+- - terribly
   - preoccupied
   - dobson
 - - different
@@ -146,6 +143,9 @@ ngrams:
 - - inwardly
   - tussling
   - said
+- - seem
+  - preoccupied
+  - dobson
 - - unparalleled
   - gorgeousness
   - said
@@ -158,66 +158,78 @@ ngrams:
 - - find
   - himself
   - hopelessly
-- - after
-  - dobson's
-  - return
-- - few
-  - inches
-  - away
-- - weeks
-  - passed
-  - before
 - - such
   - ducks
   - tended
+- - weeks
+  - passed
+  - before
+- - few
+  - inches
+  - away
+- - after
+  - dobson's
+  - return
 - - blundered
   - towards
   - where
-- - said
-  - marigold
-  - chew
-- - said
-  - marigold
-  - chew
-- - said
-  - marigold
-  - chew
-- - marigold
-  - chew
-  - over
-- - chew
-  - over
-  - breakfast
-- - over
-  - breakfast
-  - marigold
-- - morning
-  - after
-  - dobson's
 - - am
   - inwardly
   - tussling
+- - over
+  - breakfast
+  - marigold
+- - chew
+  - over
+  - breakfast
+- - marigold
+  - chew
+  - over
+- - said
+  - marigold
+  - chew
+- - said
+  - marigold
+  - chew
+- - said
+  - marigold
+  - chew
+- - morning
+  - after
+  - dobson's
 - - stretch
   - very
   - far
 - - following
   - morning
   - over
+- - morning
+  - over
+  - breakfast
+- - morning
+  - over
+  - breakfast
 - - found
   - himself
   - too
-- - morning
-  - over
-  - breakfast
-- - morning
-  - over
-  - breakfast
 - - himself
   - too
   - once
 - - found
   - dabbling
   - upon
+- - discuss
+  - indeed
+  - could
+- - very
+  - far
+  - indeed
+- - once
+  - more
+  - preoccupied
+- - ever
+  - said
+  - marigold
 - - tussling
   - said
   - dobson
@@ -230,48 +242,36 @@ ngrams:
 - - preoccupied
   - dobson
   - said
-- - discuss
-  - indeed
-  - could
 - - method
   - said
+  - dobson
+- - floor
+  - before
   - dobson
 - - said
   - dobson
   - getting
-- - floor
-  - before
-  - dobson
 - - dreams
   - said
   - dobson
-- - ever
-  - said
-  - marigold
-- - once
-  - more
-  - preoccupied
+- - optometrist
+  - know
+  - only
 - - swans
   - said
   - dobson
 - - wonder
   - said
   - dobson
-- - very
-  - far
-  - indeed
-- - optometrist
-  - know
-  - only
-- - dobson
-  - said
-  - marigold
-- - dobson
-  - said
-  - marigold
 - - been
   - terribly
   - preoccupied
+- - dobson
+  - said
+  - marigold
+- - dobson
+  - said
+  - marigold
 - - too
   - well
   - dobson

@@ -17,24 +17,21 @@ ngrams:
 - - brutish
   - british
   - butcher
-- - spartan
-  - schloss
-  - run
 - - shouting
   - marching
   - marching
+- - spartan
+  - schloss
+  - run
 - - electrified
   - cordon
   - using
-- - cordon
-  - using
-  - electricity
 - - separated
   - lars
   - talc
-- - big
-  - bellicose
-  - brutish
+- - cordon
+  - using
+  - electricity
 - - haphazard
   - attention
   - distracted
@@ -56,18 +53,21 @@ ngrams:
 - - lars
   - talc
   - lars
+- - big
+  - bellicose
+  - brutish
 - - marching
   - marching
   - past
 - - several
   - sentences
   - missing
-- - differences
-  - also
-  - talmudic
 - - marching
   - past
   - lars
+- - differences
+  - also
+  - talmudic
 - - biblical
   - differences
   - also
@@ -92,12 +92,12 @@ ngrams:
 - - paying
   - only
   - haphazard
-- - only
-  - haphazard
-  - attention
 - - nest
   - now
   - populated
+- - only
+  - haphazard
+  - attention
 - - never
   - seen
   - eye
@@ -107,21 +107,21 @@ ngrams:
 - - been
   - identical
   - twins
-- - been
-  - separated
-  - lars
 - - now
   - bare
   - head
+- - been
+  - separated
+  - lars
+- - make
+  - more
+  - sense
 - - found
   - him
   - sitting
 - - were
   - identical
   - twins
-- - make
-  - more
-  - sense
 - - they
   - discussed
   - exterminating
@@ -134,12 +134,12 @@ ngrams:
 - - cocktail
   - sausages
   - there
-- - foregoing
-  - sentences
-  - which
 - - might
   - make
   - more
+- - we
+  - shall
+  - drive
 story:
   date: 2016-08-03
   id: 2016-08-03-lars-talc-lars-talc

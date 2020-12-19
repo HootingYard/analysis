@@ -8,24 +8,24 @@ ngrams:
 - - jack
   - warner's
   - fantastic
+- - christie's
+  - mystery
+  - potatoes
+- - christie's
+  - mystery
+  - potatoes
 - - red
   - dye
   - till
-- - christie's
-  - mystery
-  - potatoes
-- - christie's
-  - mystery
-  - potatoes
 - - yesterday
   - jack
   - warner's
-- - wartime
-  - collection
-  - entitled
 - - making
   - imitation
   - bacon
+- - wartime
+  - collection
+  - entitled
 - - mentioned
   - yesterday
   - jack
@@ -35,12 +35,12 @@ ngrams:
 - - famous
   - people
   - contribute
-- - red
-  - paste
-  - three
 - - war
   - famous
   - people
+- - red
+  - paste
+  - three
 - - mingled
   - sorts
   - every
@@ -53,6 +53,9 @@ ngrams:
 - - every
   - red
   - between
+- - bacon
+  - then
+  - dry
 - - crime
   - contemplating
   - her
@@ -62,15 +65,12 @@ ngrams:
 - - her
   - mysterious
   - potatoes
-- - bacon
-  - then
-  - dry
-- - marzipan
-  - who
-  - wouldn't
 - - red
   - between
   - then
+- - between
+  - then
+  - cut
 story:
   date: 2012-05-25
   id: 2012-05-25-agatha-christies-mystery-potatoes

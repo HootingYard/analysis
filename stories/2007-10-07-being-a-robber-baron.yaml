@@ -2,60 +2,60 @@ ngrams:
 - - bribes
   - leftover
   - buns
-- - clinking
-  - glistening
-  - baubles
-- - robberies
-  - opinions
-  - differ
 - - frothy
   - alcoholic
   - potion
 - - baronetcy
   - secure
   - ish
+- - robberies
+  - opinions
+  - differ
+- - clinking
+  - glistening
+  - baubles
 - - ruinous
   - military
   - expeditions
-- - nearby
-  - baronial
-  - halls
 - - lethal
   - blades
   - displayed
+- - nearby
+  - baronial
+  - halls
 - - spindly
   - orphan
   - beavering
-- - potion
-  - gigantic
-  - flagons
 - - dappled
   - sunlight
   - shining
-- - alcoholic
-  - potion
-  - gigantic
 - - military
   - expeditions
   - obviously
 - - robber
   - baron's
   - castle
+- - potion
+  - gigantic
+  - flagons
+- - alcoholic
+  - potion
+  - gigantic
 - - occasionally
   - masked
   - outriders
 - - robber
   - baron
   - needs
-- - burnished
-  - golden
-  - helmet
 - - expeditions
   - obviously
   - whenever
 - - woodland
   - path
   - astride
+- - burnished
+  - golden
+  - helmet
 - - shields
   - carried
   - proudly
@@ -68,21 +68,24 @@ ngrams:
 - - empty
   - saddlebags
   - ready
-- - show
-  - nearby
-  - baronial
 - - baron
   - died
   - hundreds
+- - show
+  - nearby
+  - baronial
+- - mighty
+  - steed
+  - possibly
 - - comely
   - damsel
   - use
 - - small
   - bribes
   - leftover
-- - mighty
-  - steed
-  - possibly
+- - itself
+  - sufficient
+  - claim
 - - offer
   - small
   - bribes
@@ -92,18 +95,15 @@ ngrams:
 - - number
   - gets
   - uppity
-- - itself
-  - sufficient
-  - claim
 - - right
   - career
   - choice
-- - withers
-  - look
-  - closely
 - - cantering
   - gently
   - along
+- - withers
+  - look
+  - closely
 - - almost
   - certainly
   - unhorsed
@@ -116,84 +116,84 @@ ngrams:
 - - masked
   - outriders
   - around
-- - blaze
-  - each
-  - outrider
-- - steed
-  - choosing
-  - once
 - - masked
   - outriders
   - until
 - - robbing
   - another
   - baron
+- - blaze
+  - each
+  - outrider
 - - another
   - baron
   - preferably
 - - own
   - masked
   - outriders
-- - great
-  - determined
-  - strides
+- - steed
+  - choosing
+  - once
 - - baronial
   - castle
   - get
 - - rob
   - someone
   - himself
+- - great
+  - determined
+  - strides
 - - find
   - buns
   - irresistible
-- - mighty
-  - steed
-  - should
 - - cannot
   - emphasise
   - enough
+- - mighty
+  - steed
+  - should
 - - wait
   - until
   - nightfall
-- - horses
-  - find
-  - buns
 - - own
   - mighty
   - steed
-- - should
-  - show
-  - nearby
+- - horses
+  - find
+  - buns
 - - far
   - distant
   - lands
 - - preparatory
   - work
   - done
-- - waylay
-  - little
-  - bands
-- - last
-  - baron
-  - died
+- - should
+  - show
+  - nearby
 - - golden
   - helmet
   - while
 - - orphan
   - beavering
   - away
-- - map
-  - should
-  - show
-- - look
-  - good
-  - emblazoned
+- - last
+  - baron
+  - died
 - - while
   - sitting
   - astride
+- - map
+  - should
+  - show
+- - waylay
+  - little
+  - bands
 - - helmet
   - while
   - sitting
+- - look
+  - good
+  - emblazoned
 - - these
   - lethal
   - blades
@@ -206,21 +206,21 @@ ngrams:
 - - never
   - dropping
   - litter
-- - first
-  - baronial
-  - robbery
 - - ago
   - without
   - issue
+- - horses
+  - too
+  - either
+- - first
+  - baronial
+  - robbery
 - - issue
   - many
   - barons
 - - another
   - baron
   - later
-- - horses
-  - too
-  - either
 - - sunlight
   - shining
   - through
@@ -230,156 +230,171 @@ ngrams:
 - - many
   - barons
   - fell
-- - each
-  - outrider
-  - should
 - - very
   - occasionally
   - masked
+- - each
+  - outrider
+  - should
 - - finished
   - very
   - occasionally
 - - masked
   - outriders
   - may
-- - need
-  - these
-  - accomplices
 - - easier
   - than
   - designing
-- - emphasise
-  - enough
-  - just
+- - need
+  - these
+  - accomplices
 - - engulfing
   - darkness
   - such
+- - emphasise
+  - enough
+  - just
 - - darkness
   - such
   - features
-- - its
-  - mane
-  - fetlocks
 - - blades
   - displayed
   - upon
+- - its
+  - mane
+  - fetlocks
 - - robber
   - baron
   - like
-- - now
-  - nearly
-  - ready
-- - without
-  - issue
-  - many
 - - those
   - heraldry
   - words
-- - come
-  - 'off'
-  - worse
-- - masks
-  - just
-  - yet
+- - without
+  - issue
+  - many
+- - now
+  - nearly
+  - ready
 - - more
   - masked
   - outriders
-- - feeding
-  - more
-  - logs
+- - come
+  - 'off'
+  - worse
 - - robber
   - baron
   - could
+- - masks
+  - just
+  - yet
+- - feeding
+  - more
+  - logs
 - - regularly
   - feeding
   - more
 - - baron
   - could
   - expect
-- - its
-  - musculature
-  - remember
 - - unsuspecting
   - baron
   - do
+- - its
+  - musculature
+  - remember
 - - years
   - ago
   - without
-- - how
-  - many
-  - masked
 - - baronetcy
   - such
   - things
+- - how
+  - many
+  - masked
 - - baron
   - do
   - bear
-- - heraldry
-  - words
-  - like
-- - words
-  - like
-  - azure
 - - outriders
   - may
   - well
-- - has
-  - moral
-  - qualms
-- - like
-  - another
-  - baron
-- - worthwhile
-  - stripping
-  - them
 - - any
   - case
   - nothing
-- - has
-  - empty
-  - saddlebags
-- - youngsters
-  - who
-  - seek
+- - words
+  - like
+  - azure
+- - heraldry
+  - words
+  - like
+- - worthwhile
+  - stripping
+  - them
 - - buff
   - them
   - regularly
+- - like
+  - another
+  - baron
+- - has
+  - moral
+  - qualms
 - - very
   - first
   - step
-- - everyone
-  - has
-  - empty
+- - youngsters
+  - who
+  - seek
 - - just
   - make
   - sure
+- - has
+  - empty
+  - saddlebags
 - - just
   - how
   - important
-- - judge
-  - their
-  - readiness
-- - question
-  - youngsters
-  - who
-- - enough
-  - just
-  - how
+- - everyone
+  - has
+  - empty
 - - well
   - come
   - 'off'
+- - enough
+  - just
+  - how
+- - judge
+  - their
+  - readiness
 - - studying
   - their
   - faces
-- - nothing
-  - like
-  - another
-- - some
-  - experience
-  - under
+- - question
+  - youngsters
+  - who
+- - case
+  - nothing
+  - could
 - - woodland
   - path
   - their
+- - far
+  - more
+  - common
+- - nothing
+  - like
+  - another
+- - wearing
+  - their
+  - masks
+- - some
+  - experience
+  - under
+- - astride
+  - its
+  - back
+- - pulling
+  - them
+  - along
 - - establish
   - your
   - baronetcy
@@ -410,33 +425,36 @@ ngrams:
 - - your
   - masked
   - outriders
-- - wearing
-  - their
-  - masks
-- - case
-  - nothing
-  - could
+- - their
+  - human
+  - guards
 - - fill
   - your
   - saddlebags
-- - astride
-  - its
-  - back
+- - robberies
+  - without
+  - them
 - - choose
   - your
   - steed
 - - gather
   - your
   - masked
-- - far
-  - more
-  - common
+- - may
+  - well
+  - come
 - - your
   - baronial
   - castle
 - - your
   - baronial
   - castle
+- - needed
+  - let
+  - them
+- - path
+  - their
+  - blood
 - - your
   - baronial
   - hall
@@ -446,132 +464,114 @@ ngrams:
 - - mentioned
   - your
   - masked
-- - their
-  - human
-  - guards
 - - your
   - castle
   - nearly
-- - pulling
-  - them
-  - along
 - - your
   - mighty
   - steed
 - - your
   - mighty
   - steed
-- - needed
-  - let
-  - them
-- - robberies
-  - without
-  - them
-- - path
-  - their
-  - blood
-- - your
-  - bus
-  - fare
-- - your
-  - prospective
-  - horse
-- - paying
-  - your
-  - bus
-- - abduct
-  - your
-  - horse
-- - castle
-  - your
-  - mighty
-- - may
-  - well
-  - come
-- - don't
-  - fuddle
-  - your
 - - its
   - new
   - home
+- - head
+  - too
+  - much
 - - their
   - number
   - gets
+- - your
+  - bus
+  - fare
+- - lethal
+  - blades
+  - if
+- - paying
+  - your
+  - bus
+- - castle
+  - your
+  - mighty
+- - your
+  - prospective
+  - horse
+- - moral
+  - qualms
+  - if
+- - abduct
+  - your
+  - horse
+- - robber
+  - baron
+  - if
+- - don't
+  - fuddle
+  - your
 - - your
   - goblets
   - together
 - - strike
   - terror
   - into
-- - head
-  - too
-  - much
-- - none
-  - among
-  - their
-- - lethal
-  - blades
-  - if
 - - camaraderie
   - stamp
   - out
-- - moral
-  - qualms
-  - if
-- - under
-  - your
-  - belt
+- - none
+  - among
+  - their
 - - masked
   - outriders
   - will
-- - robber
-  - baron
-  - if
 - - point
   - up
   - goes
-- - your
-  - castle
-  - however
-- - your
-  - preparatory
-  - work
 - - into
   - question
   - youngsters
-- - experience
-  - under
-  - your
-- - among
-  - their
-  - number
-- - set
-  - your
-  - horses
-- - take
-  - their
-  - horses
+- - your
+  - castle
+  - however
 - - sort
   - conscientious
   - when
-- - human
-  - guards
-  - will
-- - their
-  - horses
-  - too
+- - under
+  - your
+  - belt
 - - can
   - even
   - hire
+- - among
+  - their
+  - number
+- - take
+  - their
+  - horses
+- - your
+  - preparatory
+  - work
+- - experience
+  - under
+  - your
+- - their
+  - horses
+  - too
+- - human
+  - guards
+  - will
+- - set
+  - your
+  - horses
 - - castle
   - nearly
   - all
 - - nearly
   - all
   - horses
-- - your
-  - steed
-  - well
+- - baronial
+  - hall
+  - they
 story:
   date: 2007-10-07
   id: 2007-10-07-being-a-robber-baron

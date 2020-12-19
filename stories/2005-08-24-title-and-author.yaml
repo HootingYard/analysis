@@ -4,9 +4,6 @@ ngrams:
   - glob
 - - v
   - glob
-  - '-'
-- - v
-  - glob
   - bog
 - - p
   - v
@@ -29,6 +26,9 @@ ngrams:
 - - blue
   - paperback
   - spine
+- - v
+  - glob
+  - '-'
 - - author
   - wait
   - until
@@ -38,33 +38,33 @@ ngrams:
 - - boots
   - squelch
   - through
-- - like
-  - glob
-  - glob
 - - particular
   - relish
   - even
 - - these
   - words
   - printed
+- - like
+  - glob
+  - glob
 - - stopped
   - raining
   - then
-- - do
-  - listen
-  - carefully
 - - relish
   - even
   - though
+- - do
+  - listen
+  - carefully
+- - raining
+  - then
+  - put
 - - something
   - like
   - glob
 - - has
   - stopped
   - raining
-- - raining
-  - then
-  - put
 - - your
   - nearest
   - bog

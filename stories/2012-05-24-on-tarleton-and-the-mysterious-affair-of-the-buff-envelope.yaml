@@ -5,18 +5,18 @@ ngrams:
 - - africa
   - antarctica
   - asia
-- - colleague
-  - junior
-  - partner
-- - betsy
-  - berliner
-  - format
-- - offence
-  - displeasure
-  - anger
 - - beanbag
   - spluttering
   - sidekick
+- - betsy
+  - berliner
+  - format
+- - colleague
+  - junior
+  - partner
+- - offence
+  - displeasure
+  - anger
 - - asia
   - australia
   - europe
@@ -26,135 +26,135 @@ ngrams:
 - - impart
   - spurious
   - depth
-- - glossary
-  - grief
-  - hardship
 - - investment
   - capital
   - overseas
+- - glossary
+  - grief
+  - hardship
 - - herman
   - melville
   - fireplace
+- - occult
+  - continental
+  - location
 - - enigmatic
   - smile
   - cliche
 - - hurt
   - harm
   - mischief
-- - occult
-  - continental
-  - location
+- - introduced
+  - hesitantly
+  - toss
 - - visitor
   - glossary
   - grief
 - - companion
   - colleague
   - junior
-- - introduced
-  - hesitantly
-  - toss
 - - grief
   - hardship
   - suffering
 - - suffering
   - hurt
   - harm
-- - containing
-  - synthetic
-  - beans
 - - backs
   - enigmatic
   - smile
 - - hesitantly
   - toss
   - bid
-- - buff
-  - orpington
-  - envelope
-- - plate
-  - glossary
-  - plate
-- - buff
-  - envelope
-  - glossary
 - - hissing
   - spitting
   - coal
+- - buff
+  - orpington
+  - envelope
+- - containing
+  - synthetic
+  - beans
+- - buff
+  - envelope
+  - glossary
+- - plate
+  - glossary
+  - plate
 - - australia
   - europe
   - north
-- - america
-  - south
-  - america
 - - junior
   - partner
   - straight
 - - nightfall
   - wherein
   - terrors
-- - orpington
-  - duck
-  - hesitantly
-- - europe
-  - north
+- - amateur
+  - consulting
+  - rooms
+- - america
+  - south
   - america
 - - consulting
   - rooms
   - clutching
-- - seething
-  - unrest
-  - throughout
-- - amateur
-  - consulting
-  - rooms
-- - consulting
-  - rooms
-  - address
+- - orpington
+  - duck
+  - hesitantly
 - - discomfort
   - mental
   - pain
-- - buff
-  - orpington
-  - duck
+- - seething
+  - unrest
+  - throughout
+- - europe
+  - north
+  - america
 - - mental
   - pain
   - distress
-- - north
-  - america
-  - south
-- - violent
-  - sorrow
-  - caused
-- - rooms
+- - consulting
+  - rooms
   - address
-  - unknown
-- - april
-  - fourth
-  - month
+- - buff
+  - orpington
+  - duck
 - - bid
   - awful
   - toast
 - - toss
   - bid
   - awful
+- - violent
+  - sorrow
+  - caused
+- - north
+  - america
+  - south
 - - cat
   - buff
   - envelope
-- - enigmatic
-  - smile
-  - played
-- - padding
-  - fellow
-  - clutching
-- - press
-  - generic
-  - term
+- - rooms
+  - address
+  - unknown
 - - awry
   - crowned
   - heads
+- - padding
+  - fellow
+  - clutching
+- - enigmatic
+  - smile
+  - played
 - - envelope
   - glossary
   - tarleton
+- - press
+  - generic
+  - term
+- - april
+  - fourth
+  - month
 - - buff
   - envelope
   - tarleton
@@ -164,63 +164,66 @@ ngrams:
 - - mouth
   - buff
   - envelope
+- - ideological
+  - reasons
+  - evening
 - - doubt
   - alfred
   - hitchcock
 - - alphabetical
   - order
   - africa
-- - ideological
-  - reasons
-  - evening
 - - eventually
   - nightfall
   - wherein
-- - cover
-  - continent
-  - seven
 - - art
   - bears
   - hint
+- - cover
+  - continent
+  - seven
 - - upheavals
   - unrest
   - second
-- - during
-  - revolutionary
-  - upheavals
+- - reasons
+  - evening
+  - latter
 - - henry
   - cow
   - released
-- - bag
-  - containing
-  - synthetic
-- - violently
-  - during
-  - revolutionary
 - - complete
   - list
   - beanbag
+- - during
+  - revolutionary
+  - upheavals
+- - bag
+  - containing
+  - synthetic
 - - closer
   - it's
   - easy
 - - sealed
   - bag
   - containing
+- - violently
+  - during
+  - revolutionary
 - - unrest
   - second
   - album
 - - smile
   - cliche
   - used
-- - reasons
-  - evening
-  - latter
 - - papers
   - top
   - secret
 - - buff
   - envelope
   - remember
+- - lips
+  - important
+  - parts
 - - fictional
   - character
   - lips
@@ -230,105 +233,102 @@ ngrams:
 - - connecting
   - wire
   - often
-- - lips
-  - important
-  - parts
-- - large
-  - sealed
-  - bag
-- - continent
-  - seven
-  - known
-- - night
-  - padding
-  - moving
-- - newspapers
-  - both
-  - tabloid
 - - crowned
   - heads
   - done
-- - good
-  - grief
-  - spluttered
+- - newspapers
+  - both
+  - tabloid
+- - large
+  - sealed
+  - bag
 - - famous
   - story
   - tarleton
+- - character
+  - lips
+  - important
+- - good
+  - grief
+  - spluttered
+- - several
+  - crowned
+  - heads
 - - hitchcock
   - good
   - grief
 - - alfred
   - hitchcock
   - good
-- - character
-  - lips
-  - important
+- - night
+  - padding
+  - moving
 - - town
   - april
   - fourth
+- - continent
+  - seven
+  - known
 - - another
   - damaged
   - inflicted
-- - sore
-  - place
-  - physical
 - - duck
   - asked
   - tarleton
+- - sore
+  - place
+  - physical
+- - evening
+  - latter
+  - part
 - - place
   - physical
   - pain
 - - year
   - abolished
   - during
-- - several
-  - crowned
-  - heads
-- - evening
-  - latter
-  - part
-- - look
-  - closer
-  - it's
-- - case
-  - papers
-  - top
 - - regulated
   - accordingly
   - though
+- - case
+  - papers
+  - top
+- - look
+  - closer
+  - it's
 - - having
   - everything
   - handed
-- - go
-  - awry
-  - crowned
 - - tarleton
   - without
   - opening
+- - go
+  - awry
+  - crowned
 - - often
   - located
   - within
 - - new
   - masters
   - spectacles
-- - identified
-  - beyond
-  - every
-- - yet
-  - identified
-  - beyond
-- - beyond
-  - every
-  - shadow
 - - pointy
   - town
   - april
-- - something
-  - lost
-  - remorse
+- - yet
+  - identified
+  - beyond
+- - identified
+  - beyond
+  - every
+- - beyond
+  - every
+  - shadow
 - - must
   - act
   - immediately
+- - something
+  - lost
+  - remorse
 - - times
   - go
   - awry
@@ -338,39 +338,39 @@ ngrams:
 - - persons
   - see
   - dickens
-- - partner
-  - straight
-  - man
 - - without
   - quite
   - mentioning
-- - beanbags
-  - see
-  - above
-- - tracks
-  - without
-  - quite
 - - tarleton
   - himself
   - thus
+- - tracks
+  - without
+  - quite
+- - himself
+  - thus
+  - everything
+- - beanbags
+  - see
+  - above
+- - partner
+  - straight
+  - man
 - - see
   - above
   - collapse
 - - papers
   - see
   - above
-- - face
-  - you'll
-  - see
-- - himself
-  - thus
-  - everything
 - - any
   - organism
   - animate
-- - buff
-  - envelope
-  - said
+- - face
+  - you'll
+  - see
+- - any
+  - decent
+  - dictionary
 story:
   date: 2012-05-24
   id: 2012-05-24-on-tarleton-and-the-mysterious-affair-of-the-buff-envelope

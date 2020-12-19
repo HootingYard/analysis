@@ -11,33 +11,33 @@ ngrams:
 - - windows
   - vista
   - computer
-- - pulp
-  - fiction
-  - perchance
 - - bony
   - fingers
   - demanding
-- - final
-  - countdown
-  - tempest
+- - pulp
+  - fiction
+  - perchance
 - - babble
   - sufficient
   - nonsense
+- - final
+  - countdown
+  - tempest
 - - swooping
   - feathered
   - beings
 - - european
   - band
   - sweden
-- - suddenly
-  - diverted
-  - pointing
-- - swedish
-  - band
-  - europe
 - - remembered
   - yea
   - unto
+- - swedish
+  - band
+  - europe
+- - suddenly
+  - diverted
+  - pointing
 - - american
   - pulp
   - fiction
@@ -47,27 +47,27 @@ ngrams:
 - - band
   - sweden
   - sorry
-- - abandoned
-  - farm
-  - implements
 - - majestic
   - sweeping
   - paragraphs
-- - rusty
-  - abandoned
+- - abandoned
   - farm
+  - implements
 - - usually
   - babble
   - sufficient
 - - felt
   - curiously
   - impelled
-- - greatest
-  - living
-  - writer
 - - farm
   - populated
   - entirely
+- - rusty
+  - abandoned
+  - farm
+- - greatest
+  - living
+  - writer
 - - gradually
   - taking
   - shape
@@ -77,30 +77,30 @@ ngrams:
 - - attention
   - suddenly
   - diverted
-- - beggar's
-  - farm
-  - today
 - - english
   - prose
   - apart
+- - beggar's
+  - farm
+  - today
 - - anderson's
   - case
   - footstep
 - - machinery
   - growing
   - nothing
-- - sometimes
-  - overlooked
-  - possibly
 - - sashaying
   - along
   - humming
-- - tull
-  - god
-  - knows
+- - sometimes
+  - overlooked
+  - possibly
 - - grammatically
   - incorrect
   - nor
+- - tull
+  - god
+  - knows
 - - give
   - due
   - credit
@@ -134,21 +134,21 @@ ngrams:
 - - sky
   - oh
   - look
-- - god
-  - knows
-  - why
-- - found
-  - myself
-  - fretting
 - - probably
   - well
   - aware
-- - yard
-  - readers
-  - pant
+- - found
+  - myself
+  - fretting
+- - god
+  - knows
+  - why
 - - our
   - windows
   - vista
+- - yard
+  - readers
+  - pant
 - - least
   - while
   - playing
@@ -164,45 +164,48 @@ ngrams:
 - - how
   - perhaps
   - ian
-- - went
-  - our
-  - separate
-- - hooting
-  - yard
-  - creative
-- - hooting
-  - yard
-  - creative
-- - first
-  - few
-  - releases
 - - ian
   - anderson
   - could
+- - went
+  - our
+  - separate
+- - first
+  - few
+  - releases
 - - more
   - accurately
   - signal
+- - hooting
+  - yard
+  - creative
+- - hooting
+  - yard
+  - creative
+- - am
+  - merely
+  - plodding
+- - am
+  - usually
+  - reluctant
 - - arrive
   - each
   - day
 - - mojo
   - circa
   - some
-- - am
-  - merely
-  - plodding
+- - even
+  - earlier
+  - perhaps
+- - some
+  - majestic
+  - sweeping
 - - hooting
   - yard
   - readers
 - - am
-  - usually
-  - reluctant
-- - some
-  - majestic
-  - sweeping
-- - even
-  - earlier
-  - perhaps
+  - often
+  - accosted
 - - assailant
   - who
   - allows
@@ -212,18 +215,15 @@ ngrams:
 - - maniacs
   - who
   - block
-- - am
-  - often
-  - accosted
-- - write
-  - some
-  - majestic
-- - fellow
-  - how
-  - may
 - - say
   - even
   - earlier
+- - fellow
+  - how
+  - may
+- - write
+  - some
+  - majestic
 - - bracken
   - rattling
   - their
@@ -233,15 +233,15 @@ ngrams:
 - - their
   - tin
   - cups
-- - your
-  - latest
-  - scribblings
 - - bony
   - fingers
   - what
 - - very
   - first
   - thought
+- - your
+  - latest
+  - scribblings
 - - those
   - first
   - few
@@ -251,48 +251,36 @@ ngrams:
 - - sweeping
   - paragraphs
   - about
-- - like
-  - any
-  - sensible
 - - envisage
   - dozens
   - if
+- - like
+  - any
+  - sensible
 - - lit
   - up
   - each
 - - long
   - long
   - time
-- - overexcited
-  - readers
-  - into
 - - make
   - 'no'
   - mistake
-- - mistake
-  - me
-  - '-'
-- - uncle
-  - me
-  - '-'
-- - questions
-  - me
-  - '-'
+- - overexcited
+  - readers
+  - into
 - - write
   - about
   - today
-- - readers
-  - into
-  - thinking
-- - me
-  - '-'
-  - although
-- - topic
-  - answer
-  - me
 - - wretches
   - would
   - demand
+- - readers
+  - into
+  - thinking
+- - topic
+  - answer
+  - me
 - - mean
   - questions
   - me
@@ -302,21 +290,33 @@ ngrams:
 - - fretting
   - away
   - about
+- - mistake
+  - me
+  - '-'
+- - uncle
+  - me
+  - '-'
 - - let
   - me
   - reproduce
-- - computer
-  - screens
-  - are
+- - questions
+  - me
+  - '-'
+- - me
+  - '-'
+  - although
 - - reminds
   - me
   - why
-- - screens
+- - computer
+  - screens
   - are
-  - lit
 - - truth
   - let
   - me
+- - screens
+  - are
+  - lit
 - - up
   - each
   - day
@@ -332,54 +332,54 @@ ngrams:
 - - whichever
   - date
   - one
+- - more
+  - limbs
+  - if
 - - debut
   - album
   - this
 - - one
   - gradually
   - taking
-- - more
-  - limbs
-  - if
-- - are
-  - called
-  - birds
 - - work
   - out
   - where
 - - are
   - probably
   - well
+- - are
+  - called
+  - birds
 - - we
   - went
   - our
-- - we
-  - hooting
-  - yard
 - - dialogue
   - verbatim
   - or
 - - et
   - origo
   - or
-- - who
-  - allows
-  - me
+- - we
+  - hooting
+  - yard
 - - sprawled
   - or
   - lolloping
 - - beggars
   - sprawled
   - or
-- - this
-  - morning
-  - however
 - - circa
   - some
   - would
-- - stumps
-  - resulting
-  - from
+- - this
+  - morning
+  - however
+- - who
+  - allows
+  - me
+- - just
+  - one
+  - beggar
 story:
   date: 2012-06-15
   id: 2012-06-15-on-beggars-farm

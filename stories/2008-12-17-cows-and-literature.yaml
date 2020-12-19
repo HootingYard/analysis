@@ -17,12 +17,12 @@ ngrams:
 - - dickinson
   - charles
   - darwin
-- - emily
-  - dickinson
-  - charles
 - - miss
   - stein
   - likes
+- - emily
+  - dickinson
+  - charles
 - - miss
   - stein's
   - mood
@@ -62,9 +62,9 @@ ngrams:
 - - daily
   - routines
   - how
-- - trollope
-  - neither
-  - dobson
+- - new
+  - blog
+  - among
 story:
   date: 2008-12-17
   id: 2008-12-17-cows-and-literature

@@ -1,16 +1,16 @@
 ngrams:
-- - flaming
-  - swords
-  - portending
 - - inquiry
   - silences
   - reasoning
-- - swords
+- - flaming
+  - swords
   - portending
-  - destruction
 - - armies
   - fighting
   - meteors
+- - swords
+  - portending
+  - destruction
 - - spirits
   - charms
   - miracles
@@ -23,24 +23,24 @@ ngrams:
 - - ignorance
   - implicit
   - faith
-- - noises
-  - chiefly
-  - claiming
 - - unchanged
   - circumstances
   - recurring
+- - noises
+  - chiefly
+  - claiming
 - - produce
   - occasional
   - lights
-- - generate
-  - hydrogen
-  - gas
-- - mice
-  - weasels
-  - c
 - - circumstances
   - recurring
   - lights
+- - mice
+  - weasels
+  - c
+- - generate
+  - hydrogen
+  - gas
 - - sir
   - richard
   - phillips
@@ -56,18 +56,18 @@ ngrams:
 - - phosphoric
   - matter
   - naturally
-- - sometimes
-  - partial
-  - insanity
 - - matter
   - naturally
   - generated
-- - inflamed
-  - during
-  - calm
+- - sometimes
+  - partial
+  - insanity
 - - chiefly
   - claiming
   - attention
+- - inflamed
+  - during
+  - calm
 - - further
   - inquiry
   - silences
@@ -77,36 +77,36 @@ ngrams:
 - - difficulties
   - prevents
   - further
-- - during
-  - calm
-  - weather
-- - weasels
-  - c
-  - whose
-- - local
-  - disease
-  - sometimes
-- - c
-  - whose
-  - activity
 - - parties
   - thus
   - anciently
 - - effects
   - thus
   - augmented
+- - local
+  - disease
+  - sometimes
+- - during
+  - calm
+  - weather
+- - weasels
+  - c
+  - whose
 - - ears
   - sometimes
   - diseases
+- - c
+  - whose
+  - activity
+- - thus
+  - houses
+  - shut
 - - also
   - produce
   - diseases
 - - under
   - unchanged
   - circumstances
-- - thus
-  - houses
-  - shut
 - - buildings
   - must
   - frequently
@@ -119,12 +119,12 @@ ngrams:
 - - night
   - thus
   - houses
-- - manner
-  - old
-  - houses
 - - must
   - frequently
   - give
+- - manner
+  - old
+  - houses
 - - produce
   - those
   - effects
@@ -146,12 +146,12 @@ ngrams:
 - - protection
   - their
   - irritability
-- - like
-  - manner
-  - old
 - - houses
   - shut
   - up
+- - like
+  - manner
+  - old
 - - their
   - eyes
   - till
@@ -164,51 +164,51 @@ ngrams:
 - - northern
   - lights
   - were
-- - lights
-  - were
-  - mistaken
 - - hydrogen
   - gas
   - when
 - - gas
   - when
   - inflamed
+- - lights
+  - were
+  - mistaken
 - - nervous
   - affections
   - will
 - - situation
   - will
   - produce
-- - when
-  - inflamed
-  - during
 - - out
   - large
   - quantities
-- - supernatural
-  - appearances
-  - they
+- - when
+  - inflamed
+  - during
 - - frequently
   - give
   - out
-- - all
-  - reasoning
-  - sir
 - - eye
   - will
   - change
+- - supernatural
+  - appearances
+  - they
+- - all
+  - reasoning
+  - sir
 - - all
   - arise
   - either
+- - give
+  - out
+  - large
 - - similar
   - causes
   - they
 - - same
   - situation
   - will
-- - give
-  - out
-  - large
 - - affections
   - will
   - also
@@ -218,45 +218,45 @@ ngrams:
 - - flit
   - before
   - their
-- - detonations
-  - which
-  - produce
-- - external
-  - causes
-  - which
-- - which
-  - belief
-  - concurring
+- - empty
+  - houses
+  - so
 - - visual
   - organs
   - are
-- - demons
-  - which
-  - belief
 - - senses
   - are
   - furnished
-- - which
-  - produce
-  - occasional
-- - noises
+- - detonations
   - which
-  - arise
+  - produce
 - - are
   - buried
   - cemeteries
 - - houses
   - are
   - generally
+- - which
+  - belief
+  - concurring
+- - external
+  - causes
+  - which
 - - organs
   - are
   - accompanied
-- - easy
-  - passage
+- - demons
   - which
-- - empty
-  - houses
-  - so
+  - belief
+- - before
+  - their
+  - eyes
+- - which
+  - produce
+  - occasional
+- - noises
+  - which
+  - arise
 story:
   date: 2010-04-19
   id: 2010-04-19-ghosts

@@ -11,51 +11,51 @@ ngrams:
 - - gregory
   - peck
   - protein
-- - ejected
-  - crooked
-  - timber
 - - genre
   - vibrant
   - vivacious
+- - ejected
+  - crooked
+  - timber
 - - bandit
   - musicians
   - soviet
 - - weren't
   - cutting
   - throats
-- - frostbitten
-  - limbs
-  - sappho
-- - trembled
-  - uncontrollably
-  - burst
-- - frostbitten
-  - limbs
-  - sappho
 - - pounding
   - drums
   - backing
+- - frostbitten
+  - limbs
+  - sappho
+- - frostbitten
+  - limbs
+  - sappho
 - - formidable
   - glockenspiel
   - technique
-- - rightly
-  - acknowledge
-  - geist
+- - trembled
+  - uncontrollably
+  - burst
 - - musicians
   - soviet
   - collective
+- - rightly
+  - acknowledge
+  - geist
 - - army
   - glockenspiel
   - instructor
-- - bassoonist
-  - ned
-  - nightshade
-- - lascivious
-  - phone
-  - calls
 - - vibrant
   - vivacious
   - vivid
+- - lascivious
+  - phone
+  - calls
+- - bassoonist
+  - ned
+  - nightshade
 - - bolivian
   - army
   - glockenspiel
@@ -65,9 +65,6 @@ ngrams:
 - - fractious
   - recording
   - sessions
-- - dave
-  - pod
-  - puts
 - - army
   - glockenspiel
   - training
@@ -77,51 +74,51 @@ ngrams:
 - - army
   - cadet
   - urbane
+- - collective
+  - farm
+  - administrators
+- - farm
+  - administrators
+  - compared
+- - dave
+  - pod
+  - puts
 - - vengeful
   - dismissed
   - member
-- - issues
-  - despite
-  - extensive
+- - provincial
+  - towns
+  - playing
 - - legendary
   - bolivian
   - army
 - - bolivian
   - army
   - cadet
-- - provincial
-  - towns
-  - playing
+- - issues
+  - despite
+  - extensive
 - - won
   - mass
   - acceptance
-- - farm
-  - administrators
-  - compared
-- - collective
-  - farm
-  - administrators
-- - grey
-  - tasteless
-  - paste
 - - lps
   - played
   - concerts
 - - glockenspiel
   - training
   - school
+- - soviet
+  - collective
+  - farm
+- - grey
+  - tasteless
+  - paste
 - - agent
   - george
   - kaplan
 - - violent
-  - gales
-  - throughout
-- - violent
   - thugs
   - incidentally
-- - soviet
-  - collective
-  - farm
 - - covered
   - wagon
   - roll
@@ -134,72 +131,78 @@ ngrams:
 - - covered
   - wagon
   - roll
-- - pitiful
-  - wasted
-  - body
-- - de
-  - leo
-  - sayer
 - - jazz
   - folk
   - rock
-- - supposed
-  - agent
-  - george
-- - hopelessly
-  - entangled
-  - unable
+- - violent
+  - gales
+  - throughout
 - - mark
   - e
   - smith
+- - hopelessly
+  - entangled
+  - unable
 - - police
   - operation
   - foiled
-- - studio
-  - wear
-  - bells
-- - wasted
+- - de
+  - leo
+  - sayer
+- - pitiful
+  - wasted
   - body
-  - collapsed
-- - tattoos
-  - early
-  - patent
-- - military
-  - career
-  - except
-- - cary
-  - grant
-  - character
+- - supposed
+  - agent
+  - george
 - - character
   - roger
   - thornhill
-- - early
+- - tattoos
+  - early
   - patent
-  - illustrations
-- - international
-  - police
-  - operation
+- - cary
+  - grant
+  - character
+- - studio
+  - wear
+  - bells
 - - protein
   - imbalance
   - song
-- - exciting
-  - sporting
-  - events
+- - military
+  - career
+  - except
+- - early
+  - patent
+  - illustrations
 - - grant
   - character
   - roger
+- - wasted
+  - body
+  - collapsed
+- - international
+  - police
+  - operation
 - - eurovision
   - song
   - contest
 - - bells
   - sorely
   - tried
+- - exciting
+  - sporting
+  - events
 - - hundred
   - songs
   - shanties
-- - tongue
-  - became
-  - puffy
+- - making
+  - lascivious
+  - phone
+- - stage
+  - musical
+  - version
 - - blister
   - lane
   - bypass
@@ -209,24 +212,24 @@ ngrams:
 - - doldrums
   - bad
   - gas
-- - making
-  - lascivious
-  - phone
-- - stage
-  - musical
-  - version
+- - tongue
+  - became
+  - puffy
 - - glockenspiel
   - instructor
   - captain
-- - during
-  - breaks
-  - geist
 - - perpetuity
   - countless
   - times
 - - pronounced
   - dead
   - reportedly
+- - during
+  - breaks
+  - geist
+- - song
+  - city
+  - ladies
 - - wrote
   - beam
   - geist
@@ -236,54 +239,42 @@ ngrams:
 - - frostbitten
   - limbs
   - wrote
-- - song
-  - city
-  - ladies
-- - events
-  - during
-  - breaks
-- - limbs
-  - wrote
-  - beam
-- - sporting
-  - events
-  - during
-- - become
-  - hopelessly
-  - entangled
-- - black
-  - rubber
-  - beelzebub
-- - single
-  - month
-  - containing
-- - prematurely
-  - white
-  - hair
 - - almost
   - total
   - loss
+- - limbs
+  - wrote
+  - beam
+- - events
+  - during
+  - breaks
+- - become
+  - hopelessly
+  - entangled
+- - sporting
+  - events
+  - during
+- - single
+  - month
+  - containing
 - - reputation
   - released
   - within
 - - television
   - show
   - pop
-- - office
-  - floor
-  - near
-- - pamphlet
-  - entitled
-  - nomenclature
+- - prematurely
+  - white
+  - hair
+- - black
+  - rubber
+  - beelzebub
 - - between
   - yoko
   - ono
-- - either
-  - dead
-  - imprisoned
-- - century
-  - popular
-  - music
+- - pamphlet
+  - entitled
+  - nomenclature
 - - cross
   - between
   - yoko
@@ -299,36 +290,36 @@ ngrams:
 - - wagon
   - roll
   - along
-- - post
-  - office
+- - either
+  - dead
+  - imprisoned
+- - office
+  - floor
   - near
+- - range
+  - roll
+  - along
 - - month
   - containing
   - between
+- - sang
+  - roll
+  - along
 - - peasant
   - band
   - became
 - - post
   - office
+  - near
+- - post
+  - office
   - floor
-- - range
-  - roll
-  - along
-- - sang
-  - roll
-  - along
-- - covered
-  - wagon
-  - going
-- - home
-  - covered
-  - wagon
 - - breath
   - roll
   - along
-- - song
-  - black
-  - rubber
+- - century
+  - popular
+  - music
 - - mine
   - roll
   - along
@@ -347,57 +338,66 @@ ngrams:
 - - along
   - covered
   - wagon
-- - appropriate
-  - word
-  - although
-- - ranch
-  - house
-  - door
-- - three
-  - lps
-  - although
+- - covered
+  - wagon
+  - going
+- - home
+  - covered
+  - wagon
+- - roll
+  - along
+  - covered
+- - roll
+  - along
+  - covered
+- - roll
+  - along
+  - covered
+- - roll
+  - along
+  - covered
+- - roll
+  - along
+  - covered
 - - breaks
   - geist
   - himself
-- - roll
-  - along
-  - covered
-- - roll
-  - along
-  - covered
-- - roll
-  - along
-  - covered
-- - roll
-  - along
-  - covered
-- - roll
-  - along
-  - covered
+- - song
+  - black
+  - rubber
+- - appropriate
+  - word
+  - although
 - - became
   - improbably
   - enough
-- - pal
-  - let's
-  - get
-- - everyone
-  - should
-  - devote
-- - bolivian
-  - army
-  - because
-- - same
-  - appellation
-  - sometimes
-- - changed
-  - personnel
-  - must
 - - timber
   - though
   - artistically
 - - crooked
   - timber
   - though
+- - pal
+  - let's
+  - get
+- - bolivian
+  - army
+  - because
+- - ranch
+  - house
+  - door
+- - everyone
+  - should
+  - devote
+- - three
+  - lps
+  - although
+- - same
+  - appellation
+  - sometimes
+- - changed
+  - personnel
+  - must
 - - print
   - pamphlet
   - entitled
@@ -416,147 +416,144 @@ ngrams:
 - - roll
   - along
   - note
-- - old
-  - timers
-  - coral
 - - song
   - contest
   - something
 - - old
   - timers
-  - heading
+  - coral
 - - geist
   - got
   - himself
-- - old
-  - pal
-  - let's
 - - wagon
   - going
   - home
+- - old
+  - timers
+  - heading
+- - roll
+  - along
+  - going
+- - going
+  - roll
+  - along
+- - old
+  - pal
+  - let's
 - - tears
   - every
   - five
 - - geist
   - always
   - put
-- - roll
-  - along
-  - going
-- - going
-  - roll
-  - along
-- - prematurely
-  - white
-  - most
-- - every
-  - five
-  - minutes
-- - own
-  - band
-  - became
-- - force
-  - fed
-  - us
-- - going
-  - home
-  - covered
-- - never
-  - satisfactorily
-  - answered
-- - thugs
-  - incidentally
-  - dobson
-- - entertaining
-  - scheme
-  - many
-- - see
-  - below
-  - detours
-- - get
-  - going
-  - roll
-- - let's
-  - get
-  - going
 - - much
   - speculation
   - regarding
+- - prematurely
+  - white
+  - most
+- - own
+  - band
+  - became
+- - never
+  - satisfactorily
+  - answered
+- - going
+  - home
+  - covered
+- - every
+  - five
+  - minutes
+- - force
+  - fed
+  - us
+- - entertaining
+  - scheme
+  - many
+- - let's
+  - get
+  - going
+- - get
+  - going
+  - roll
 - - i'll
   - never
   - stray
 - - never
   - won
   - mass
-- - bee
-  - flew
-  - back
+- - see
+  - below
+  - detours
 - - glockenspiel
   - technique
   - after
+- - head
+  - flushed
+  - purple
 - - almost
   - every
   - country
+- - bee
+  - flew
+  - back
 - - personnel
   - must
   - always
+- - roll
+  - along
+  - come
+- - those
+  - fractious
+  - recording
 - - yet
   - whose
   - heart
 - - those
-  - fractious
-  - recording
-- - those
   - bells
   - sorely
-- - head
-  - flushed
-  - purple
-- - roll
-  - along
-  - come
-- - truth
-  - see
-  - below
+- - thugs
+  - incidentally
+  - dobson
 - - most
   - appropriate
   - word
-- - music
-  - never
-  - won
-- - got
-  - little
-  - sleep
 - - over
   - bracken
   - whistling
+- - truth
+  - see
+  - below
+- - music
+  - never
+  - won
+- - any
+  - genre
+  - vibrant
 - - nettles
   - over
   - bracken
 - - many
   - times
   - notably
-- - any
-  - genre
-  - vibrant
-- - incidentally
-  - dobson
-  - wrote
+- - got
+  - little
+  - sleep
 - - covered
   - wagon
   - over
+- - than
+  - subtle
+  - comment
 - - own
   - recipe
   - every
 - - along
-  - old
-  - pal
-- - along
   - going
   - home
-- - than
-  - subtle
-  - comment
+- - along
+  - old
+  - pal
 - - did
   - teach
   - geist
@@ -566,9 +563,6 @@ ngrams:
 - - did
   - notoriously
   - attempt
-- - our
-  - eye
-  - teeth
 - - exactly
   - did
   - teach
@@ -578,18 +572,24 @@ ngrams:
 - - its
   - hive
   - geist
-- - promote
-  - its
-  - release
-- - himself
-  - spent
-  - most
+- - incidentally
+  - dobson
+  - wrote
+- - our
+  - eye
+  - teeth
 - - less
   - than
   - subtle
+- - promote
+  - its
+  - release
 - - along
   - come
   - along
+- - himself
+  - spent
+  - most
 - - told
   - many
   - times
@@ -599,6 +599,33 @@ ngrams:
 - - years
   - ago
   - today
+- - worked
+  - within
+  - such
+- - lanyards
+  - around
+  - our
+- - around
+  - our
+  - necks
+- - within
+  - such
+  - fields
+- - given
+  - our
+  - eye
+- - must
+  - always
+  - go
+- - such
+  - great
+  - joy
+- - reading
+  - those
+  - words
+- - come
+  - along
+  - old
 story:
   date: 2006-03-21
   id: 2006-03-21-the-crooked-timber-of-humanity

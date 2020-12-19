@@ -1,28 +1,25 @@
 ngrams:
-- - slaughtered
-  - lamb
-  - '-'
-- - sunday
-  - th
-  - june
 - - street
   - london
   - ec
 - - sutton
   - street
   - london
+- - sunday
+  - th
+  - june
 - - magazine
   - entitled
   - polarity
 - - london
   - launch
   - party
-- - death
-  - vs
-  - taxes
 - - rare
   - public
   - appearance
+- - death
+  - vs
+  - taxes
 - - bird
   - masks
   - optional
@@ -32,18 +29,21 @@ ngrams:
 - - issue
   - death
   - vs
+- - slaughtered
+  - lamb
+  - '-'
 - - london
   - ec
   - among
-- - '-'
-  - great
-  - sutton
-- - lamb
-  - '-'
-  - great
 - - print
   - aficionados
   - among
+- - year's
+  - lulu
+  - book
+- - masks
+  - optional
+  - while
 story:
   date: 2010-06-20
   id: 2010-06-20-bird-masks-optional

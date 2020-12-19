@@ -5,12 +5,12 @@ ngrams:
 - - redundant
   - cash
   - registers
-- - inexplicable
-  - machines
-  - redundant
 - - machines
   - redundant
   - cash
+- - inexplicable
+  - machines
+  - redundant
 - - narrow
   - corridor
   - littered
@@ -23,9 +23,6 @@ ngrams:
 - - magnetic
   - recording
   - devices
-- - mister
-  - verdigris
-  - appears
 - - distant
   - insistent
   - pounding
@@ -35,18 +32,21 @@ ngrams:
 - - derelict
   - outbuildings
   - including
-- - balsa
-  - wood
-  - factory
-- - balsa
-  - wood
-  - factory
-- - mysterious
-  - gurgling
-  - noise
+- - mister
+  - verdigris
+  - appears
 - - eerily
   - silent
   - save
+- - mysterious
+  - gurgling
+  - noise
+- - balsa
+  - wood
+  - factory
+- - balsa
+  - wood
+  - factory
 - - forgotten
   - magnetic
   - recording
@@ -59,12 +59,12 @@ ngrams:
 - - saw
   - pinocchio
   - dexterously
-- - blue
-  - blue
-  - glow
 - - attic
   - past
   - boxes
+- - blue
+  - blue
+  - glow
 - - hat
   - kicked
   - open
@@ -74,12 +74,12 @@ ngrams:
 - - mister
   - verdigris
   - took
-- - big
-  - blue
-  - lake
 - - outing
   - listen
   - tiny
+- - big
+  - blue
+  - lake
 - - gurgling
   - noise
   - until
@@ -89,81 +89,81 @@ ngrams:
 - - tiny
   - shoes
   - making
-- - lake
-  - every
-  - thursday
 - - another
   - afternoon
   - trying
-- - every
-  - thursday
-  - afternoon
 - - new
   - fountain
   - pen
-- - blue
-  - lake
+- - lake
   - every
+  - thursday
+- - every
+  - thursday
+  - afternoon
 - - fat
   - new
   - fountain
+- - blue
+  - lake
+  - every
 - - old
   - balsa
   - wood
 - - recording
   - devices
   - through
-- - bottle
-  - never
-  - opened
 - - two
   - o
   - clock
+- - bottle
+  - never
+  - opened
 - - each
   - tiny
   - fly
-- - our
-  - tour
-  - guide
 - - spend
   - yet
   - another
+- - our
+  - tour
+  - guide
 - - yet
   - another
   - afternoon
 - - thursday
   - afternoons
   - even
+- - upon
+  - shelves
+  - stacked
+- - shelves
+  - upon
+  - shelves
 - - its
   - cavernous
   - interior
 - - its
   - surface
   - polished
-- - upon
-  - shelves
-  - stacked
-- - glow
-  - like
-  - heaven
-- - shelves
-  - upon
-  - shelves
 - - desk
   - its
   - surface
+- - glow
+  - like
+  - heaven
 - - blue
   - glow
   - like
 - - itself
   - its
   - cavernous
-- - factory
-  - itself
-  - its
 - - afternoons
   - even
   - tiny
+- - factory
+  - itself
+  - its
 - - even
   - tiny
   - shoes

@@ -1,7 +1,4 @@
 ngrams:
-- - ron
-  - ron
-  - da
 - - da
   - doo
   - ron
@@ -13,11 +10,14 @@ ngrams:
   - ron
 - - ron
   - ron
-  - ron
+  - da
 - - doo
   - ron
   - ron
 - - doo
+  - ron
+  - ron
+- - ron
   - ron
   - ron
 - - rule
@@ -38,12 +38,12 @@ ngrams:
 - - alan
   - suddenly
   - popped
-- - gone
-  - da
-  - doo
 - - leash
   - usually
   - alan
+- - gone
+  - da
+  - doo
 - - pouring
   - rain
   - sprawled
@@ -110,12 +110,12 @@ ngrams:
 - - medical
   - institution
   - could
-- - go
-  - trudging
-  - through
 - - rain
   - sprawled
   - upon
+- - go
+  - trudging
+  - through
 - - myopic
   - rather
   - than
@@ -125,27 +125,27 @@ ngrams:
 - - smaller
   - than
   - himself
-- - disfigured
-  - him
-  - allowing
-- - something
-  - smaller
-  - than
 - - rather
   - than
   - blind
-- - him
-  - feel
-  - useful
-- - some
-  - circumstances
-  - clear
-- - makes
+- - something
+  - smaller
+  - than
+- - disfigured
   - him
-  - feel
+  - allowing
 - - am
   - myopic
   - rather
+- - some
+  - circumstances
+  - clear
+- - him
+  - feel
+  - useful
+- - makes
+  - him
+  - feel
 - - hiding
   - holed
   - up
@@ -155,33 +155,33 @@ ngrams:
 - - am
   - being
   - indulgent
-- - into
-  - hiding
-  - holed
-- - pet
-  - weasel
-  - were
 - - hotel
   - never
   - more
+- - into
+  - hiding
+  - holed
+- - hospital
+  - when
+  - alan
 - - weasel
   - forced
   - into
 - - forced
   - into
   - hiding
-- - hospital
-  - when
-  - alan
 - - when
   - alan
   - suddenly
-- - alan
-  - will
-  - scurry
+- - pet
+  - weasel
+  - were
 - - city
   - road
   - when
+- - alan
+  - will
+  - scurry
 - - eye
   - hospital
   - when
@@ -194,12 +194,12 @@ ngrams:
 - - solitary
   - all
   - alone
-- - some
-  - sorts
-  - like
 - - remained
   - above
   - me
+- - some
+  - sorts
+  - like
 - - corrective
   - lenses
   - so
@@ -209,12 +209,12 @@ ngrams:
 - - pavement
   - there
   - came
-- - will
-  - scurry
-  - just
 - - never
   - more
   - than
+- - will
+  - scurry
+  - just
 story:
   date: 2014-02-02
   id: 2014-02-02-pop

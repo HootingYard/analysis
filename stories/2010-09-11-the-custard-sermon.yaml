@@ -2,12 +2,12 @@ ngrams:
 - - matthew
   - repent
   - ye
-- - stew
-  - prunes
-  - john
 - - st
   - matthew
   - repent
+- - stew
+  - prunes
+  - john
 - - make
   - custards
   - marmalade
@@ -26,12 +26,15 @@ ngrams:
 - - tell
   - me
   - sir
-- - which
-  - dissolves
-  - gold
 - - purpose
   - together
   - would
+- - which
+  - dissolves
+  - gold
+- - custards
+  - marmalade
+  - or
 - - now
   - tell
   - me
@@ -41,9 +44,6 @@ ngrams:
 - - when
   - 'no'
   - body
-- - custards
-  - marmalade
-  - or
 - - blunt
   - business
   - but
@@ -59,12 +59,12 @@ ngrams:
 - - could
   - have
   - taught
-- - at
-  - hand
-  - now
 - - also
   - not
   - very
+- - at
+  - hand
+  - now
 - - repent
   - ye
   - for
@@ -80,9 +80,9 @@ ngrams:
 - - people
   - 'on'
   - purpose
-- - his
-  - parishioners
-  - how
+- - be
+  - taken
+  - out
 story:
   date: 2010-09-11
   id: 2010-09-11-the-custard-sermon

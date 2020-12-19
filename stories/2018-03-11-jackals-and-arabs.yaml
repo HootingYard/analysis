@@ -8,12 +8,12 @@ ngrams:
 - - winsome
   - duo
   - sang
-- - growing
-  - increasingly
-  - irritated
 - - desert
   - department
   - store
+- - growing
+  - increasingly
+  - irritated
 - - savage
   - yapping
   - jackals
@@ -44,6 +44,9 @@ ngrams:
 - - slow
   - significant
   - passing
+- - star
+  - trek
+  - whatever
 - - large
   - desert
   - department
@@ -53,9 +56,6 @@ ngrams:
 - - strange
   - slow
   - significant
-- - star
-  - trek
-  - whatever
 - - seemed
   - strangely
   - quiet
@@ -65,84 +65,84 @@ ngrams:
 - - death
   - doom
   - despair
-- - darkness
-  - death
-  - doom
-- - black
-  - smoke
-  - belched
-- - television
-  - series
-  - star
 - - nitwits
   - 'yes'
   - o
-- - yapping
-  - jackals
-  - let
+- - black
+  - smoke
+  - belched
+- - darkness
+  - death
+  - doom
+- - television
+  - series
+  - star
 - - walked
   - determinedly
   - along
+- - yapping
+  - jackals
+  - let
 - - camping
   - movement
   - took
 - - himself
   - growing
   - exasperated
-- - pit
-  - came
-  - leaping
-- - passed
-  - without
-  - incident
 - - mr
   - crowley
   - barked
 - - greetings
   - mr
   - crowley
-- - new
-  - camping
-  - movement
+- - pit
+  - came
+  - leaping
+- - passed
+  - without
+  - incident
 - - while
   - babbling
   - guttural
 - - new
   - camping
+  - movement
+- - new
+  - camping
   - companion
-- - two
-  - walked
-  - determinedly
 - - ever
   - ornithology
   - served
-- - new
-  - tent
-  - unfortunately
 - - pit
   - while
   - babbling
+- - new
+  - tent
+  - unfortunately
+- - two
+  - walked
+  - determinedly
 - - until
   - towards
   - nightfall
-- - sausages
-  - reminded
-  - us
-- - two
-  - seemed
-  - strangely
-- - six
-  - days
-  - ago
 - - 'yes'
   - o
   - great
-- - made
-  - strange
-  - slow
+- - sausages
+  - reminded
+  - us
 - - camping
   - companion
   - very
+- - six
+  - days
+  - ago
+- - two
+  - seemed
+  - strangely
+- - made
+  - strange
+  - slow
 - - escape
   - above
   - us
@@ -152,42 +152,42 @@ ngrams:
 - - our
   - desert
   - crossing
-- - share
-  - our
-  - cocoa
 - - days
   - passed
   - without
+- - share
+  - our
+  - cocoa
+- - short
+  - while
+  - ago
+- - cook
+  - our
+  - sausages
 - - few
   - days
   - passed
 - - chewed
   - our
   - sausages
-- - cook
-  - our
-  - sausages
-- - short
-  - while
-  - ago
-- - see
-  - standing
-  - behind
 - - department
   - store
   - where
-- - jackals
-  - let
-  - us
-- - lull
-  - outside
-  - our
-- - companions
-  - let
-  - us
 - - passing
   - movements
   - over
+- - see
+  - standing
+  - behind
+- - lull
+  - outside
+  - our
+- - jackals
+  - let
+  - us
+- - companions
+  - let
+  - us
 - - let
   - us
   - push
@@ -197,27 +197,27 @@ ngrams:
 - - its
   - reporters
   - interviewed
-- - its
-  - inspiration
-  - partly
 - - bounding
   - dozens
   - upon
+- - its
+  - inspiration
+  - partly
 - - new
   - jackals
   - well
-- - let
-  - us
-  - call
-- - two
-  - greetings
-  - mr
 - - dozens
   - upon
   - dozens
+- - two
+  - greetings
+  - mr
 - - never
   - raised
   - again
+- - let
+  - us
+  - call
 - - jackals
   - could
   - wait
@@ -245,27 +245,27 @@ ngrams:
 - - took
   - its
   - inspiration
-- - some
-  - telepathic
-  - means
 - - movement
   - took
   - its
-- - watched
-  - him
-  - carefully
-- - two
-  - told
-  - us
+- - some
+  - telepathic
+  - means
 - - raised
   - again
   - now
-- - tack
-  - who
-  - countered
+- - two
+  - told
+  - us
 - - outside
   - our
   - new
+- - watched
+  - him
+  - carefully
+- - tack
+  - who
+  - countered
 - - day
   - until
   - towards
@@ -275,87 +275,78 @@ ngrams:
 - - aeroplanes
   - 'no'
   - control
-- - 'no'
-  - control
-  - tower
 - - could
   - wait
   - until
 - - wait
   - until
   - then
-- - assembling
-  - their
-  - horrible
+- - 'no'
+  - control
+  - tower
 - - new
   - jackals
   - could
+- - assembling
+  - their
+  - horrible
 - - their
   - horrible
   - equipment
 - - happily
   - packed
   - up
-- - we've
-  - been
-  - hearing
 - - thought
   - our
   - new
-- - us
-  - very
-  - little
+- - we've
+  - been
+  - hearing
 - - feature
   - article
   - about
+- - us
+  - very
+  - little
 - - old
   - man
   - much
 - - come
   - over
   - here
-- - us
-  - call
-  - him
 - - between
   - them
   - came
 - - mobile
   - library
   - will
-- - jackal
-  - all
-  - hail
 - - reporters
   - interviewed
   - me
+- - jackal
+  - all
+  - hail
 - - abrupt
   - end
   - when
-- - picture
-  - will
-  - appear
-- - about
-  - himself
-  - growing
+- - us
+  - call
+  - him
 - - knew
   - more
   - than
 - - leash
   - hey
   - there
+- - picture
+  - will
+  - appear
 - - lately
   - we
   - confessed
-- - push
-  - your
-  - little
-- - your
-  - little
-  - pals
-- - us
-  - push
-  - your
+- - about
+  - himself
+  - growing
 - - oasis
   - we
   - noticed
@@ -365,45 +356,54 @@ ngrams:
 - - conversation
   - we
   - chewed
-- - two
-  - looked
-  - up
-- - horrible
-  - equipment
-  - we
-- - last
-  - were
-  - translated
 - - magazine's
   - cover
   - we
-- - nightfall
+- - horrible
+  - equipment
   - we
-  - arrived
 - - we
   - happily
   - packed
+- - nightfall
+  - we
+  - arrived
 - - tent
   - unfortunately
   - we
-- - about
-  - new
-  - jackals
-- - about
-  - new
-  - jackals
-- - cover
-  - we
-  - promised
 - - pit
   - baffled
   - we
+- - cover
+  - we
+  - promised
+- - about
+  - new
+  - jackals
+- - about
+  - new
+  - jackals
 - - jot
   - about
   - new
+- - us
+  - push
+  - your
+- - two
+  - looked
+  - up
+- - push
+  - your
+  - little
 - - article
   - about
   - new
+- - last
+  - were
+  - translated
+- - your
+  - little
+  - pals
 - - please
   - call
   - me

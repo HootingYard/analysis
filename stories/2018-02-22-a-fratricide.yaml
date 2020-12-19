@@ -38,27 +38,27 @@ ngrams:
 - - office
   - queues
   - bore
-- - instinct
-  - therefore
-  - led
 - - police
   - officers
   - puppies
 - - brother's
   - blazer
   - pocket
+- - instinct
+  - therefore
+  - led
 - - thumped
   - police
   - officers
-- - marshland
-  - children
-  - terrifying
 - - understand
   - foreign
   - signage
 - - prison
   - hulk
   - due
+- - marshland
+  - children
+  - terrifying
 - - shuffling
   - backwards
   - instead
@@ -77,12 +77,15 @@ ngrams:
 - - hid
   - among
   - reeds
-- - brother
-  - whose
-  - birthday
 - - rosary
   - beads
   - thus
+- - brother
+  - whose
+  - birthday
+- - thumped
+  - both
+  - tubs
 - - blue
   - sky
   - migrating
@@ -92,30 +95,27 @@ ngrams:
 - - tiny
   - wriggling
   - unidentified
-- - thumped
-  - both
-  - tubs
 - - post
   - office
   - floor
 - - birds
   - swooped
   - overhead
-- - during
-  - certain
-  - phases
 - - town
   - hall
   - clock
+- - during
+  - certain
+  - phases
 - - occasionally
   - waylaying
   - tiny
-- - tiny
-  - marshland
-  - children
 - - certain
   - post
   - office
+- - tiny
+  - marshland
+  - children
 - - own
   - skull
   - feeling
@@ -146,36 +146,36 @@ ngrams:
 - - prison
   - hulk
   - after
+- - mentioned
+  - thus
+  - far
 - - very
   - slowly
   - turning
 - - slowly
   - very
   - slowly
-- - mentioned
-  - thus
-  - far
-- - very
-  - moment
-  - bearing
 - - fingers
   - delicately
   - over
+- - very
+  - moment
+  - bearing
 - - few
   - things
   - beginning
-- - dobson
-  - pamphlet
-  - running
 - - any
   - phrenologist
   - worth
-- - moment
-  - bearing
-  - down
 - - lands
   - far
   - far
+- - moment
+  - bearing
+  - down
+- - dobson
+  - pamphlet
+  - running
 - - little
   - mites
   - still
@@ -200,24 +200,24 @@ ngrams:
 - - bells
   - accompanying
   - him
-- - lightly
-  - led
-  - him
 - - who
   - stepping
   - lightly
+- - lightly
+  - led
+  - him
 - - policeman
   - who
   - stepping
+- - far
+  - far
+  - away
 - - other
   - things
   - beginning
 - - other
   - lands
   - far
-- - far
-  - far
-  - away
 - - paid
   - 'no'
   - heed
@@ -242,18 +242,18 @@ ngrams:
 - - skull
   - were
   - indicative
-- - continued
-  - interminably
-  - were
-- - then
-  - pausing
-  - only
 - - bloodied
   - club
   - into
 - - slowly
   - turning
   - into
+- - then
+  - pausing
+  - only
+- - continued
+  - interminably
+  - were
 - - 'no'
   - malfeasance
   - great
@@ -278,21 +278,21 @@ ngrams:
 - - would
   - attest
   - screamed
-- - too
-  - obvious
-  - what
-- - last
-  - were
-  - translated
 - - would
   - steal
   - toffee
-- - number
-  - riding
-  - all
 - - salt
   - would
   - attest
+- - too
+  - obvious
+  - what
+- - number
+  - riding
+  - all
+- - last
+  - were
+  - translated
 - - lost
   - all
   - sense
@@ -305,15 +305,18 @@ ngrams:
 - - egg
   - so
   - high
+- - far
+  - away
+  - when
 - - scratched
   - an
   - irritant
-- - an
-  - eerily
-  - deserted
 - - route
   - an
   - eerily
+- - an
+  - eerily
+  - deserted
 - - queues
   - bore
   - an
@@ -326,9 +329,6 @@ ngrams:
 - - bore
   - an
   - astonishing
-- - far
-  - away
-  - when
 - - nightmare
   - this
   - reminded
@@ -341,60 +341,60 @@ ngrams:
 - - brother
   - had
   - escaped
-- - which
-  - any
-  - phrenologist
 - - ticket
   - or
   - hang
+- - which
+  - any
+  - phrenologist
 - - children
   - or
   - forge
 - - crippled
   - children
   - or
-- - apples
-  - from
-  - crippled
-- - toffee
-  - apples
-  - from
-- - ditch
-  - but
-  - righted
 - - bus
   - ticket
   - or
-- - from
-  - crippled
-  - children
-- - from
-  - sawdust
-  - bridge
-- - view
+- - ditch
+  - but
+  - righted
+- - apples
   - from
-  - sawdust
+  - crippled
 - - who
   - would
   - steal
+- - toffee
+  - apples
+  - from
 - - criminal
   - who
   - would
-- - behind
-  - him
-  - there
-- - from
-  - certain
-  - angles
-- - deserted
-  - terminus
-  - at
 - - god
   - but
   - forgotten
+- - malfeasance
+  - great
+  - or
+- - from
+  - sawdust
+  - bridge
+- - from
+  - crippled
+  - children
+- - view
+  - from
+  - sawdust
+- - behind
+  - him
+  - there
 - - have
   - continued
   - interminably
+- - deserted
+  - terminus
+  - at
 story:
   date: 2018-02-22
   id: 2018-02-22-a-fratricide

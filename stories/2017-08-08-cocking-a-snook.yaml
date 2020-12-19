@@ -29,33 +29,33 @@ ngrams:
 - - wah
   - pedal
   - bin
-- - fiery
-  - fiery
-  - fido
 - - protocol
   - baffling
   - fiery
+- - fiery
+  - fiery
+  - fido
 - - natty
   - dread
   - roughly
-- - sow's
-  - ear
-  - wah
-- - ear
-  - wah
-  - wah
-- - baffling
-  - fiery
-  - fiery
 - - teabag
   - hen
   - coop
+- - baffling
+  - fiery
+  - fiery
 - - hen
   - coop
   - protocol
 - - dread
   - roughly
   - translated
+- - sow's
+  - ear
+  - wah
+- - ear
+  - wah
+  - wah
 - - rhone
   - sow's
   - ear
@@ -77,33 +77,39 @@ ngrams:
 - - fido
   - sit
   - pictures
+- - early
+  - scritti
+  - natty
 - - burial
   - early
   - scritti
 - - urn
   - burial
   - early
-- - early
-  - scritti
-  - natty
 - - thick
   - thick
   - mist
 - - vision
   - following
   - swiftly
+- - gathering
+  - oh
+  - thick
 - - oo
   - look
   - teabag
-- - gathering
-  - oh
+- - oh
+  - thick
   - thick
 - - look
   - teabag
   - hen
-- - oh
-  - thick
-  - thick
+- - ancient
+  - pointy
+  - towner
+- - ancient
+  - pointy
+  - towner
 - - getting
   - somewhere
   - oh
@@ -113,12 +119,6 @@ ngrams:
 - - pedal
   - bin
   - birds
-- - ancient
-  - pointy
-  - towner
-- - ancient
-  - pointy
-  - towner
 - - ears
   - oo
   - look
@@ -128,21 +128,21 @@ ngrams:
 - - without
   - ears
   - oo
-- - night
-  - oh
-  - hug
-- - another
-  - vision
-  - following
 - - pointy
   - town
   - harking
-- - pointy
-  - towner
-  - put
+- - night
+  - oh
+  - hug
 - - specifically
   - pointy
   - town
+- - pointy
+  - towner
+  - put
+- - another
+  - vision
+  - following
 - - sure
   - oh
   - 'yes'
@@ -170,24 +170,24 @@ ngrams:
 - - thick
   - mist
   - such
-- - tells
-  - us
-  - something
 - - head
   - nor
   - tail
-- - babbling
-  - incoherently
-  - 'no'
+- - tells
+  - us
+  - something
 - - snook
   - can
   - both
-- - do
-  - i'm
-  - quite
+- - babbling
+  - incoherently
+  - 'no'
 - - make
   - head
   - nor
+- - do
+  - i'm
+  - quite
 story:
   date: 2017-08-08
   id: 2017-08-08-cocking-a-snook

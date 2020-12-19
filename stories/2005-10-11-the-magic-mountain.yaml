@@ -5,9 +5,6 @@ ngrams:
 - - rock
   - formation
   - disappearing
-- - william
-  - hurlstone
-  - '-'
 - - preserved
   - william
   - hurlstone
@@ -17,12 +14,12 @@ ngrams:
 - - inexplicable
   - purple
   - mists
-- - rock
-  - faces
-  - solo
 - - wintry
   - wintry
   - weather
+- - rock
+  - faces
+  - solo
 - - foothills
   - eating
   - porridge
@@ -38,78 +35,81 @@ ngrams:
 - - sheer
   - rock
   - faces
-- - majestic
-  - rock
-  - formation
 - - keen
   - mountaineer
   - keen
-- - mighty
-  - peak
-  - engulfed
+- - majestic
+  - rock
+  - formation
 - - frankly
   - somewhat
   - dubious
-- - giant
-  - terrifying
-  - mountains
-- - broiling
-  - high
-  - altitude
+- - mighty
+  - peak
+  - engulfed
 - - general
   - mental
   - impression
+- - broiling
+  - high
+  - altitude
+- - giant
+  - terrifying
+  - mountains
 - - giant
   - terrifying
   - mountain
 - - giant
   - terrifying
   - mountain
-- - whose
-  - bassoon
-  - sonata
-- - hurlstone
-  - '-'
-  - whose
-- - '-'
-  - whose
-  - bassoon
 - - high
   - altitude
   - mist
+- - whose
+  - bassoon
+  - sonata
 - - lakehurst
   - naval
   - air
-- - three
-  - bears
-  - approaching
+- - william
+  - hurlstone
+  - '-'
 - - birds
   - circling
   - overhead
-- - mountain
-  - number
-  - eight
-- - mountain
-  - number
-  - eight
 - - terrifying
   - mountain
   - number
 - - terrifying
   - mountain
   - number
+- - three
+  - bears
+  - approaching
+- - mountain
+  - number
+  - eight
+- - mountain
+  - number
+  - eight
 - - naval
   - air
   - station
 - - tent
   - within
   - minutes
-- - alone
-  - testing
-  - himself
 - - railway
   - station
   - along
+- - alone
+  - testing
+  - himself
+- - hurlstone
+  - '-'
+  - whose
+- - '-'
+  - whose
+  - bassoon
 - - beyond
   - doubt
   - however
@@ -125,18 +125,12 @@ ngrams:
 - - saw
   - three
   - bears
-- - roamed
-  - these
-  - foothills
-- - voluminous
-  - kitbag
-  - dobson
-- - bassoon
-  - sonata
-  - made
 - - testing
   - himself
   - against
+- - roamed
+  - these
+  - foothills
 - - scuttle
   - away
   - happy
@@ -146,33 +140,36 @@ ngrams:
 - - bears
   - roamed
   - these
+- - bassoon
+  - sonata
+  - made
+- - voluminous
+  - kitbag
+  - dobson
 - - kitbag
   - dobson
   - thank
-- - press
-  - conference
-  - dobson
-- - man
-  - alone
-  - testing
 - - pocket
   - bustling
   - through
-- - let
+- - man
   - alone
-  - something
+  - testing
+- - press
+  - conference
+  - dobson
 - - find
   - myself
   - wondering
+- - let
+  - alone
+  - something
 - - know
   - bears
   - roamed
 - - dobson
   - that's
   - 'true'
-- - glory
-  - dobson
-  - let
 - - always
   - bustle
   - through
@@ -182,66 +179,69 @@ ngrams:
 - - purple
   - mists
   - like
-- - heaven's
-  - name
-  - dobson
 - - look
   - very
   - puny
 - - mountain
   - its
   - peak
-- - haunted
-  - mountain
-  - its
 - - often
   - find
   - myself
-- - guess
-  - how
-  - long
+- - haunted
+  - mountain
+  - its
 - - since
   - childhood
   - where
+- - glory
+  - dobson
+  - let
+- - guess
+  - how
+  - long
+- - heaven's
+  - name
+  - dobson
 - - those
   - things
   - beginning
+- - people
+  - know
+  - however
+- - magic
+  - mountain
+  - some
 - - dobson
   - bustled
   - through
 - - dobson
   - never
   - spoke
-- - magic
-  - mountain
-  - some
-- - people
-  - know
-  - however
-- - mists
-  - like
-  - something
 - - some
   - broiling
   - high
-- - bears
-  - who
-  - roam
+- - mists
+  - like
+  - something
 - - other
   - things
   - beginning
+- - bears
+  - who
+  - roam
 - - few
   - people
   - know
-- - mountain
-  - some
-  - readers
 - - publicity
   - each
   - time
 - - clambering
   - up
   - sheer
+- - mountain
+  - some
+  - readers
 - - tent
   - peer
   - up
@@ -251,12 +251,15 @@ ngrams:
 - - bones
   - 'no'
   - bears
-- - life
-  - dobson
-  - never
 - - been
   - preserved
   - william
+- - life
+  - dobson
+  - never
+- - about
+  - glue
+  - breadcrumbs
 - - 'no'
   - bears
   - nothing
@@ -266,156 +269,153 @@ ngrams:
 - - saw
   - 'no'
   - bones
-- - about
-  - glue
-  - breadcrumbs
-- - pamphlets
-  - about
-  - glue
-- - found
-  - 'no'
-  - trace
 - - wintry
   - weather
   - when
-- - sonata
-  - made
-  - him
-- - doing
-  - hanging
+- - pamphlets
   - about
-- - made
-  - him
-  - weep
+  - glue
 - - magical
   - mountain
   - if
+- - found
+  - 'no'
+  - trace
+- - doing
+  - hanging
+  - about
 - - wondered
   - if
   - puny
-- - man
-  - who
-  - invented
+- - sonata
+  - made
+  - him
+- - made
+  - him
+  - weep
 - - infancy
   - awaited
   - me
-- - who
-  - roam
-  - those
-- - human
-  - being
-  - has
 - - really
   - cut
   - out
-- - has
-  - ever
-  - seen
-- - all
-  - due
-  - respect
 - - mountain
   - if
   - asked
-- - seen
-  - things
-  - up
-- - transcript
-  - ends
-  - there
+- - who
+  - roam
+  - those
 - - ocular
   - sciences
   - would
+- - transcript
+  - ends
+  - there
+- - man
+  - who
+  - invented
+- - all
+  - due
+  - respect
 - - there
   - puny
   - mountaineer
-- - sciences
-  - would
-  - suggest
-- - 'no'
-  - human
-  - being
+- - has
+  - ever
+  - seen
+- - seen
+  - things
+  - up
 - - myself
   - wondering
   - if
+- - sciences
+  - would
+  - suggest
+- - human
+  - being
+  - has
 - - if
   - nothing
   - else
 - - quite
   - sure
   - what
-- - these
-  - foothills
-  - were
-- - b
-  - dobson
-  - what
-- - hindenburg
-  - which
-  - exploded
+- - 'no'
+  - human
+  - being
 - - recruit
   - so
   - wretched
+- - these
+  - foothills
+  - were
 - - all
   - let
   - alone
-- - spectacles
-  - are
-  - extremely
+- - b
+  - dobson
+  - what
 - - let
   - me
   - stop
+- - hindenburg
+  - which
+  - exploded
+- - spectacles
+  - are
+  - extremely
 - - are
   - myopic
   - added
-- - being
-  - has
-  - ever
 - - are
   - extremely
   - thick
+- - being
+  - has
+  - ever
 - - let
   - me
   - look
 - - more
   - bears
   - up
-- - an
-  - oversensitive
-  - digestive
 - - would
   - scuttle
   - away
 - - would
   - come
   - face
+- - an
+  - oversensitive
+  - digestive
 - - mist
   - an
   - impression
+- - awaited
+  - me
+  - even
 - - were
   - those
   - things
 - - their
   - conversation
   - has
-- - awaited
-  - me
-  - even
 - - has
   - been
   - preserved
-- - conversation
-  - has
-  - been
-- - dobson
-  - let
-  - me
-- - write
-  - an
-  - account
 - - 'no'
   - bones
   - 'no'
+- - conversation
+  - has
+  - been
+- - write
+  - an
+  - account
+- - dobson
+  - let
+  - me
 - - enough
   - an
   - hour

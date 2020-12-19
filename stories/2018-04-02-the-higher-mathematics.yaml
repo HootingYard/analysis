@@ -5,36 +5,33 @@ ngrams:
 - - coupled
   - clusters
   - orientational
-- - clusters
-  - orientational
-  - aspects
 - - reactive
   - scattering
   - laser
-- - stratified
-  - media
-  - singular
+- - clusters
+  - orientational
+  - aspects
 - - smectic
   - bookshelf
   - structure
 - - smectic
   - bookshelf
   - structure
-- - scattering
-  - laser
-  - excited
-- - media
-  - singular
-  - interaction
 - - bookshelf
   - structure
   - quantum
+- - stratified
+  - media
+  - singular
+- - scattering
+  - laser
+  - excited
 - - ordinary
   - differential
   - operators
-- - functions
-  - quantum
-  - states
+- - media
+  - singular
+  - interaction
 - - stochastic
   - wave
   - functions
@@ -44,48 +41,51 @@ ngrams:
 - - wave
   - functions
   - quantum
+- - functions
+  - quantum
+  - states
 - - singular
   - interaction
   - problems
-- - laser
-  - excited
-  - wave
 - - boundary
   - value
   - problems
-- - parameters
-  - sharp
-  - regularity
-- - sharp
-  - regularity
-  - estimates
-- - data
-  - polar
-  - materials
 - - derivative
   - problem
   - instability
 - - problem
   - instability
   - modes
+- - laser
+  - excited
+  - wave
+- - oblique
+  - derivative
+  - problem
 - - basic
   - boundary
   - value
+- - data
+  - polar
+  - materials
+- - parameters
+  - sharp
+  - regularity
+- - sharp
+  - regularity
+  - estimates
 - - evaluation
   - material
   - tensors
 - - chap
   - norman
   - davies
-- - oblique
-  - derivative
-  - problem
 - - integral
   - evaluation
   - material
-- - excited
-  - wave
-  - packets
+- - quantum
+  - dot
+  - heterostructures
 - - hodge
   - theory
   - elliptic

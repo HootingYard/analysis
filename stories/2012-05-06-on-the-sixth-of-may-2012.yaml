@@ -1,25 +1,25 @@
 ngrams:
-- - pulsating
-  - hairless
-  - cranium
 - - artificial
   - subterranean
   - utopia
+- - pulsating
+  - hairless
+  - cranium
 - - windows
   - vista
   - cranial
 - - het
   - internet
   - assuming
-- - gigantic
-  - pulsating
-  - hairless
 - - separate
   - unrelated
   - subjects
 - - gleaming
   - artificial
   - subterranean
+- - gigantic
+  - pulsating
+  - hairless
 - - primitive
   - mental
   - blinkers
@@ -32,12 +32,12 @@ ngrams:
 - - huge
   - pulsating
   - advanced
-- - science
-  - fiction
-  - films
 - - future
   - windows
   - vista
+- - science
+  - fiction
+  - films
 - - shiny
   - red
   - button
@@ -62,12 +62,12 @@ ngrams:
 - - white
   - science
   - fiction
-- - four
-  - separate
-  - unrelated
 - - cab
   - calloway
   - number
+- - four
+  - separate
+  - unrelated
 - - four
   - specific
   - topics
@@ -77,6 +77,9 @@ ngrams:
 - - conscious
   - mind
   - yesterday
+- - primrose
+  - dent
+  - does
 - - big
   - shiny
   - red
@@ -86,21 +89,21 @@ ngrams:
 - - jazz
   - standard
   - called
-- - primrose
-  - dent
-  - does
 - - mind
   - yesterday
   - afternoon
 - - spats
   - really
   - does
-- - same
-  - space
-  - age
 - - really
   - does
   - exist
+- - same
+  - space
+  - age
+- - serves
+  - mr
+  - baker's
 - - without
   - particular
   - intention
@@ -110,9 +113,6 @@ ngrams:
 - - number
   - later
   - adapted
-- - serves
-  - mr
-  - baker's
 - - memory
   - serves
   - mr
@@ -134,138 +134,135 @@ ngrams:
 - - 'off'
   - het
   - internet
-- - turns
-  - 'off'
-  - het
 - - quite
   - different
   - list
-- - mr
-  - baker's
-  - point
-- - our
-  - primitive
-  - mental
-- - find
-  - myself
-  - wondering
+- - turns
+  - 'off'
+  - het
 - - jazz
   - buff
   - might
+- - mr
+  - baker's
+  - point
+- - find
+  - myself
+  - wondering
 - - nicholson
   - baker
   - where
+- - our
+  - primitive
+  - mental
 - - nicholson
   - baker
   - did
 - - find
   - myself
   - thinking
-- - those
-  - four
-  - specific
+- - fiction
+  - films
+  - where
 - - last
   - without
   - particular
 - - those
   - four
+  - specific
+- - those
+  - four
   - separate
-- - fiction
-  - films
-  - where
-- - reads
-  - these
-  - words
 - - such
   - science
   - fiction
+- - reads
+  - these
+  - words
 - - other
   - leisure
   - pursuits
-- - its
-  - gigantic
-  - pulsating
 - - too
   - though
   - probably
+- - its
+  - gigantic
+  - pulsating
 - - particular
   - intention
   - upon
+- - might
+  - dream
+  - does
 - - het
   - internet
   - then
 - - cannot
   - even
   - begin
+- - future
+  - might
+  - indeed
 - - thus
   - those
   - four
-- - might
-  - dream
-  - does
 - - essays
   - project
   - time
 - - ideal
   - world
   - where
-- - future
-  - might
+- - might
   - indeed
+  - write
+- - fiction
+  - writer
+  - can
+- - having
+  - other
+  - leisure
+- - can
+  - clearly
+  - trace
+- - writer
+  - can
+  - iron
 - - our
   - children
   - too
 - - humankind
   - has
   - evolved
-- - having
-  - other
-  - leisure
-- - fiction
-  - writer
-  - can
-- - writer
-  - can
-  - iron
-- - might
-  - indeed
-  - write
-- - can
-  - clearly
-  - trace
 - - hooting
   - yard
   - quite
-- - some
-  - jazz
-  - person
-- - occupying
-  - their
-  - respective
 - - stumble
   - upon
   - hooting
+- - occupying
+  - their
+  - respective
 - - then
   - quite
   - possibly
+- - some
+  - jazz
+  - person
 - - same
   - day
   - go
-- - their
-  - respective
-  - brains
-- - words
-  - some
-  - jazz
-- - where
-  - our
-  - descendants
 - - don't
   - know
   - much
 - - their
-  - children's
-  - children
+  - respective
+  - brains
+- - where
+  - our
+  - descendants
+- - words
+  - some
+  - jazz
 - - films
   - where
   - our
@@ -273,68 +270,74 @@ ngrams:
   - their
   - titles
 - - their
+  - children's
+  - children
+- - their
   - future
   - windows
-- - been
-  - posting
-  - pieces
 - - course
   - between
   - now
 - - perplexity
   - wondering
   - what
-- - long
-  - time
-  - since
+- - been
+  - posting
+  - pieces
 - - topics
   - bustling
   - about
+- - long
+  - time
+  - since
 - - absolutely
   - 'no'
   - idea
 - - when
   - untold
   - generations
-- - been
-  - easy
-  - enough
 - - thinking
   - about
   - w
-- - children's
-  - children
-  - when
-- - things
-  - occupying
-  - their
-- - children
-  - when
-  - untold
-- - day
-  - before
-  - because
-- - day
-  - go
-  - through
 - - if
   - memory
   - serves
-- - 'no'
-  - certainly
-  - without
-- - afternoon
-  - will
-  - occupy
+- - children's
+  - children
+  - when
+- - children
+  - when
+  - untold
+- - things
+  - occupying
+  - their
+- - been
+  - easy
+  - enough
+- - day
+  - before
+  - because
 - - distant
   - future
   - when
-- - long
-  - long
-  - time
+- - 'no'
+  - certainly
+  - without
+- - day
+  - go
+  - through
+- - afternoon
+  - will
+  - occupy
 - - nobody
   - will
   - bother
+- - time
+  - too
+  - though
+- - long
+  - long
+  - time
 - - mountains
   - nobody
   - will
@@ -344,117 +347,114 @@ ngrams:
 - - last
   - time
   - too
-- - never
-  - has
-  - although
-- - time
-  - too
-  - though
 - - their
   - children
   - too
 - - titles
   - all
   - begin
+- - never
+  - has
+  - although
 - - some
   - such
   - science
+- - myself
+  - wondering
+  - if
+- - climb
+  - them
+  - any
+- - any
+  - more
+  - having
+- - opportunities
+  - ones
+  - we
+- - go
+  - about
+  - mountaineering
 - - these
   - words
   - some
 - - been
   - pootling
   - 'off'
-- - climb
-  - them
-  - any
-- - go
-  - about
-  - mountaineering
-- - opportunities
-  - ones
-  - we
-- - myself
-  - wondering
-  - if
-- - any
-  - more
-  - having
 - - bash
   - out
   - around
-- - them
-  - down
-  - together
-- - write
-  - them
-  - down
 - - far
   - future
   - when
+- - them
+  - down
+  - together
 - - much
   - about
   - jazz
-- - unrelated
-  - subjects
-  - which
-- - listed
-  - are
-  - uppermost
+- - write
+  - them
+  - down
 - - more
   - having
   - other
 - - ones
   - we
   - cannot
+- - listed
+  - are
+  - uppermost
+- - unrelated
+  - subjects
+  - which
 - - are
   - merely
   - brains
-- - distant
-  - future
-  - which
 - - are
   - fairly
   - clear
+- - distant
+  - future
+  - which
 - - an
   - accurate
   - prediction
 - - an
   - unimaginable
   - consciousness
+- - will
+  - stumble
+  - upon
 - - an
   - unimaginably
   - distant
 - - spats
   - which
   - though
-- - will
-  - stumble
-  - upon
 - - roughly
   - one
   - thousand
-- - are
-  - still
-  - mountains
-- - go
-  - into
-  - here
-- - children
-  - too
-  - are
-- - then
-  - write
-  - about
-- - has
-  - been
-  - thinking
 - - might
   - go
   - about
-- - subjects
-  - which
-  - just
+- - go
+  - into
+  - here
+- - are
+  - still
+  - mountains
+- - then
+  - write
+  - about
+- - children
+  - too
+  - are
+- - can
+  - iron
+  - out
+- - know
+  - much
+  - about
 story:
   date: 2012-05-06
   id: 2012-05-06-on-the-sixth-of-may-2012

@@ -14,90 +14,90 @@ ngrams:
 - - franciscan
   - nuns
   - hiding
-- - seawater
-  - hoon
-  - yelled
-- - sloshing
-  - seawater
-  - hoon
 - - ignorant
   - nuns
   - franciscan
 - - franciscan
   - nuns
   - aboard
+- - sloshing
+  - seawater
+  - hoon
+- - seawater
+  - hoon
+  - yelled
 - - bend
   - forward
   - resting
-- - impossibly
-  - valiant
-  - hoon
 - - mate
   - hoon
   - weedy
 - - enthusiasts
   - detail
   - fluff
+- - impossibly
+  - valiant
+  - hoon
 - - hoon
   - hoon
   - scrub
-- - staggering
-  - below
-  - decks
-- - seamanship
-  - hoon
-  - cried
 - - sopping
   - wet
   - drenched
+- - seamanship
+  - hoon
+  - cried
 - - sudden
   - calm
   - prompted
-- - hooter
-  - message
-  - regarding
+- - hms
+  - wither
+  - art
+- - hms
+  - wither
+  - art
+- - hms
+  - wither
+  - art
+- - hms
+  - wither
+  - art
 - - franciscan
   - nuns
   - including
+- - hooter
+  - message
+  - regarding
 - - bent
   - forward
   - resting
-- - hms
-  - wither
-  - art
-- - hms
-  - wither
-  - art
-- - hms
-  - wither
-  - art
-- - hms
-  - wither
-  - art
-- - five
-  - stowaway
-  - franciscan
+- - staggering
+  - below
+  - decks
 - - expect
   - yelled
   - hoon
 - - five
+  - stowaway
   - franciscan
-  - nuns
 - - waters
   - hoon
   - cried
+- - five
+  - franciscan
+  - nuns
 - - prompted
   - five
   - stowaway
 - - calm
   - prompted
   - five
-- - bridge
-  - staggering
-  - below
 - - radio
   - enthusiasts
   - detail
+- - bridge
+  - staggering
+  - below
 - - captain
   - struggled
   - manfully
@@ -107,84 +107,93 @@ ngrams:
 - - drowning
   - captain
   - plunkett
+- - attitude
+  - almost
+  - identical
+- - attitude
+  - almost
+  - identical
 - - captain
   - yelled
   - hoon
 - - fluff
   - cried
   - captain
-- - attitude
-  - almost
-  - identical
-- - attitude
-  - almost
-  - identical
-- - bridge
-  - captain
-  - plunkett
-- - cried
-  - captain
-  - plunkett
 - - cried
   - captain
   - plunkett
 - - hooter
   - cried
   - captain
+- - cried
+  - captain
+  - plunkett
+- - versus
+  - stormy
+  - sea
+- - bridge
+  - captain
+  - plunkett
 - - captain
   - plunkett
   - believe
 - - presence
   - captain
   - plunkett
-- - versus
-  - stormy
-  - sea
-- - called
-  - fluff
-  - cried
 - - stormy
   - sea
   - meanwhile
-- - good
-  - seamanship
-  - hoon
 - - shows
   - good
   - seamanship
+- - good
+  - seamanship
+  - hoon
+- - called
+  - fluff
+  - cried
 - - ship's
   - captain
   - captain
-- - captain
-  - captain
-  - plunkett
 - - hoon
   - came
   - staggering
-- - few
-  - precious
-  - moments
+- - captain
+  - captain
+  - plunkett
 - - valiant
   - hoon
   - came
-- - neurasthenic
-  - yet
-  - impossibly
+- - few
+  - precious
+  - moments
 - - yet
   - impossibly
   - valiant
-- - whose
-  - presence
-  - captain
+- - neurasthenic
+  - yet
+  - impossibly
 - - cried
   - aloud
   - again
+- - whose
+  - presence
+  - captain
 - - captain
   - plunkett
   - took
 - - slow
   - unsteady
   - way
+- - perilously
+  - first
+  - mate
+- - mate
+  - first
+  - mate
+- - crew
+  - safely
+  - through
 - - man
   - versus
   - stormy
@@ -194,36 +203,27 @@ ngrams:
 - - battle
   - man
   - versus
-- - perilously
-  - first
+- - first
   - mate
-- - mate
-  - first
+  - hoon
+- - first
   - mate
+  - hoon
 - - man
   - versus
   - storm
-- - crew
-  - safely
-  - through
-- - first
-  - mate
-  - hoon
-- - first
-  - mate
-  - hoon
 - - any
   - stowaway
   - franciscan
 - - first
   - mate
   - looked
-- - every
-  - last
-  - inch
 - - appreciate
   - such
   - recognition
+- - every
+  - last
+  - inch
 - - search
   - every
   - last
@@ -239,51 +239,51 @@ ngrams:
 - - perhaps
   - man
   - versus
-- - wither
-  - art
-  - then
 - - am
   - ignorant
   - nuns
+- - wither
+  - art
+  - then
 - - better
   - perhaps
   - man
 - - first
   - mate
   - first
-- - has
-  - suddenly
-  - occurred
 - - 'no'
   - franciscan
   - nuns
-- - been
-  - torn
-  - loose
-- - been
-  - torn
-  - loose
-- - been
-  - torn
-  - loose
-- - mate
-  - looked
-  - up
+- - has
+  - suddenly
+  - occurred
 - - pop
   - their
   - heads
+- - mate
+  - looked
+  - up
+- - been
+  - torn
+  - loose
+- - been
+  - torn
+  - loose
+- - been
+  - torn
+  - loose
+- - clattering
+  - about
+  - perilously
+- - clattering
+  - about
+  - perilously
+- - clattering
+  - about
+  - perilously
 - - your
   - cap
   - thank
-- - clattering
-  - about
-  - perilously
-- - clattering
-  - about
-  - perilously
-- - clattering
-  - about
-  - perilously
 - - nest
   - saw
   - what
@@ -302,12 +302,12 @@ ngrams:
 - - believe
   - me
   - captain
-- - let
-  - me
-  - pin
 - - being
   - tossed
   - about
+- - let
+  - me
+  - pin
 - - about
   - perilously
   - first
@@ -320,21 +320,21 @@ ngrams:
 - - all
   - too
   - aware
-- - were
-  - any
-  - stowaway
 - - would
   - go
   - unheard
+- - were
+  - any
+  - stowaway
 - - message
   - would
   - go
-- - tossed
-  - about
-  - like
 - - brain
   - so
   - rapidly
+- - tossed
+  - about
+  - like
 - - an
   - elemental
   - battle

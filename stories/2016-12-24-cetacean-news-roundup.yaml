@@ -2,12 +2,12 @@ ngrams:
 - - presenter
   - adrian
   - chiles
-- - porpoises
-  - rescue
-  - dick
 - - headline
   - porpoises
   - rescue
+- - porpoises
+  - rescue
+  - dick
 - - newspaper
   - headline
   - porpoises
@@ -35,21 +35,21 @@ ngrams:
 - - largest
   - sea
   - creature
-- - news
-  - story
-  - alongside
 - - alongside
   - sea
   - creatures
 - - news
+  - story
+  - alongside
+- - news
   - roundup
   - under
-- - exciting
-  - news
-  - story
 - - adrian
   - chiles
   - read
+- - exciting
+  - news
+  - story
 - - story
   - alongside
   - sea
@@ -59,24 +59,24 @@ ngrams:
 - - jealousy
   - ever
   - since
-- - originally
-  - appeared
-  - here
 - - bear
   - yet
   - rather
-- - appeared
+- - originally
+  - appeared
   - here
-  - six
 - - havoc
   - upon
   - dick
-- - very
-  - sea
-  - creatures
+- - appeared
+  - here
+  - six
 - - mental
   - havoc
   - upon
+- - very
+  - sea
+  - creatures
 story:
   date: 2016-12-24
   id: 2016-12-24-cetacean-news-roundup

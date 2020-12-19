@@ -2,17 +2,17 @@ ngrams:
 - - mount
   - st
   - bernard
-- - instructive
-  - moral
-  - stories
 - - highest
   - inhabited
   - spot
-- - st
-  - bernard
-  - dog
+- - instructive
+  - moral
+  - stories
 - - pretty
   - pet
+  - dog
+- - st
+  - bernard
   - dog
 - - good
   - water
@@ -29,15 +29,15 @@ ngrams:
 - - any
   - traveller
   - benighted
-- - neglect
-  - her
-  - books
-- - those
-  - little
-  - lap
 - - find
   - any
   - traveller
+- - those
+  - little
+  - lap
+- - neglect
+  - her
+  - books
 - - mean
   - those
   - little
@@ -47,12 +47,12 @@ ngrams:
 - - say
   - well
   - well
-- - your
-  - friends
-  - growler
 - - other
   - duties
   - just
+- - your
+  - friends
+  - growler
 - - alps
   - into
   - italy
@@ -62,12 +62,12 @@ ngrams:
 - - up
   - until
   - rescued
-- - her
-  - other
-  - duties
 - - them
   - perform
   - many
+- - her
+  - other
+  - duties
 - - lap
   - dogs
   - they
@@ -77,12 +77,12 @@ ngrams:
 - - your
   - little
   - friends
-- - jet
-  - black
-  - they
 - - monks
   - go
   - out
+- - jet
+  - black
+  - they
 - - them
   - could
   - hold
@@ -104,9 +104,9 @@ ngrams:
 - - will
   - neglect
   - her
-- - are
-  - very
-  - intelligent
+- - can
+  - make
+  - them
 story:
   date: 2004-02-03
   id: 2004-02-03-you-know-what-a-pleasure-it-is

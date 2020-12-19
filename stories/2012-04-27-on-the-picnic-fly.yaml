@@ -11,6 +11,9 @@ ngrams:
 - - brake
   - containing
   - picnickers
+- - reappear
+  - hovering
+  - directly
 - - bare
   - flesh
   - paraded
@@ -20,9 +23,6 @@ ngrams:
 - - bloater
   - paste
   - sandwiches
-- - reappear
-  - hovering
-  - directly
 - - suddenly
   - reappear
   - hovering
@@ -41,12 +41,12 @@ ngrams:
 - - bee
   - picnic
   - wasp
-- - picnic
-  - fly
-  - bee
 - - terms
   - picnic
   - fool
+- - picnic
+  - fly
+  - bee
 - - picnic
   - blanket
   - taking
@@ -59,90 +59,90 @@ ngrams:
 - - fully
   - assembled
   - thus
-- - ground
-  - immediately
-  - below
 - - loose
   - end
   - awaiting
+- - ground
+  - immediately
+  - below
 - - picnic
   - flies
   - note
-- - tiny
-  - suckered
-  - feet
 - - suckered
   - feet
   - across
+- - tiny
+  - suckered
+  - feet
 - - thick
   - hefty
   - book
-- - charge
-  - each
-  - picnic
 - - make
   - darting
   - flights
-- - most
-  - vexing
-  - creatures
+- - charge
+  - each
+  - picnic
 - - each
   - picnic
   - fly
+- - most
+  - vexing
+  - creatures
 - - vexing
   - creatures
   - ever
 - - creatures
   - ever
   - created
-- - flies
-  - usually
-  - go
 - - carries
   - much
   - weight
 - - argument
   - carries
   - much
-- - item
-  - being
-  - laid
 - - flies
-  - being
-  - smaller
-- - first
-  - aid
-  - kit
+  - usually
+  - go
 - - make
   - foolish
   - picnic
-- - adult
-  - head
-  - height
-- - adult
-  - head
-  - height
-- - activity
-  - described
-  - first
-- - darting
-  - flights
-  - down
-- - picnic
-  - flies
+- - flies
   - being
+  - smaller
+- - item
+  - being
+  - laid
+- - first
+  - aid
+  - kit
+- - adult
+  - head
+  - height
+- - adult
+  - head
+  - height
 - - way
   - picnic
   - flies
-- - folding
-  - chairs
-  - may
-- - find
-  - myself
-  - wondering
+- - activity
+  - described
+  - first
+- - picnic
+  - flies
+  - being
+- - darting
+  - flights
+  - down
 - - sting
   - any
   - patches
+- - find
+  - myself
+  - wondering
+- - folding
+  - chairs
+  - may
 - - hovering
   - directly
   - over
@@ -158,57 +158,54 @@ ngrams:
 - - determined
   - than
   - bees
-- - flasks
-  - other
-  - flasks
+- - picnicking
+  - appurtenances
+  - upon
+- - describe
+  - such
+  - persons
 - - myself
   - wondering
   - how
-- - flights
-  - down
-  - towards
-- - picnicking
-  - appurtenances
+- - flasks
+  - other
+  - flasks
+- - contents
+  - arranged
   - upon
 - - its
   - unseemly
   - feeding
-- - describe
-  - such
-  - persons
 - - feet
   - across
   - say
-- - contents
-  - arranged
-  - upon
-- - now
-  - watch
-  - carefully
 - - such
   - persons
   - neither
-- - last
-  - item
-  - being
+- - flights
+  - down
+  - towards
 - - icing
   - then
   - suck
+- - now
+  - watch
+  - carefully
 - - more
   - vexing
   - flying
-- - note
-  - two
-  - things
+- - last
+  - item
+  - being
 - - done
   - its
   - unseemly
+- - note
+  - two
+  - things
 - - aid
   - kit
   - can
-- - her
-  - free
-  - hand
 - - let
   - loose
   - upon
@@ -218,156 +215,162 @@ ngrams:
 - - regurgitate
   - some
   - sort
-- - right
-  - minds
-  - some
+- - her
+  - free
+  - hand
 - - more
   - relentless
   - each
-- - their
-  - picnicking
-  - appurtenances
+- - right
+  - minds
+  - some
 - - head
   - height
   - over
-- - been
-  - fully
-  - assembled
+- - their
+  - picnicking
+  - appurtenances
 - - blanket
   - taking
   - their
-- - taking
-  - their
-  - turns
 - - what
   - dastardly
   - eventualities
+- - taking
+  - their
+  - turns
+- - been
+  - fully
+  - assembled
 - - bandied
   - carelessly
   - about
-- - their
-  - right
-  - minds
-- - brain
-  - has
-  - sent
 - - swallow
   - what
   - remains
+- - their
+  - right
+  - minds
 - - knows
   - what
   - dastardly
 - - wonder
   - what
   - moved
-- - their
-  - tiny
-  - suckered
 - - what
   - usually
   - happens
 - - picnicking
   - eye
   - what
+- - brain
+  - has
+  - sent
+- - their
+  - tiny
+  - suckered
+- - more
+  - vexing
+  - than
 - - about
   - human
   - adult
-- - their
-  - right
-  - mind
 - - flasks
   - will
   - contain
 - - more
-  - vexing
+  - determined
   - than
+- - their
+  - right
+  - mind
 - - ground
   - when
   - uttering
+- - firm
+  - ground
+  - when
 - - flies
   - will
   - disperse
 - - will
   - suddenly
   - reappear
-- - firm
-  - ground
-  - when
-- - potato
-  - snacks
-  - will
-- - more
-  - determined
-  - than
 - - laid
   - out
   - near
-- - wind
-  - stones
+- - potato
+  - snacks
   - will
-- - flies
-  - will
-  - suddenly
-- - will
-  - contain
-  - tea
 - - can
   - sting
   - any
-- - those
-  - who
-  - tumble
+- - flies
+  - will
+  - suddenly
+- - wind
+  - stones
+  - will
+- - will
+  - contain
+  - tea
+- - picnic
+  - flies
+  - will
+- - picnic
+  - flies
+  - will
+- - picnic
+  - flies
+  - will
+- - picnic
+  - flies
+  - will
+- - picnic
+  - fly
+  - will
 - - flies
   - will
   - return
-- - picnic
-  - fly
-  - will
-- - picnic
-  - flies
-  - will
-- - picnic
-  - flies
-  - will
-- - picnic
-  - flies
-  - will
-- - picnic
-  - flies
-  - will
-- - course
-  - swallow
-  - what
+- - those
+  - who
+  - tumble
 - - cutlery
   - cutlery
   - there
-- - icing
-  - back
-  - up
+- - course
+  - swallow
+  - what
 - - think
   - up
   - fashion
+- - icing
+  - back
+  - up
 - - picnic
   - demographic
   - there
-- - small
-  - swarms
-  - they
 - - few
   - seconds
   - if
-- - usually
-  - go
-  - about
 - - picnic
   - fly
   - there
+- - usually
+  - go
+  - about
+- - small
+  - swarms
+  - they
 - - air
   - temporarily
   - they
 - - all
   - takes
   - place
+- - mind
+  - would
+  - lay
 - - picnickers
   - are
   - necessarily
@@ -377,12 +380,12 @@ ngrams:
 - - suck
   - back
   - into
-- - mind
-  - would
-  - lay
 - - being
   - laid
   - out
+- - right
+  - mind
+  - would
 - - picnic
   - hornets
   - are
@@ -395,63 +398,60 @@ ngrams:
 - - will
   - climb
   - back
-- - right
-  - mind
-  - would
 - - persons
   - neither
   - are
 - - two
   - things
   - about
-- - brain
-  - which
-  - cause
-- - are
-  - pretty
-  - tiny
-- - terms
-  - which
-  - should
 - - what
   - then
   - happens
-- - other
-  - flasks
-  - will
-- - icing
-  - she
-  - will
-- - fly
-  - will
-  - now
-- - sated
-  - this
-  - grouplet
 - - will
   - disperse
   - upon
-- - momentarily
-  - sated
-  - this
-- - comparison
-  - harmless
-  - this
+- - are
+  - pretty
+  - tiny
+- - brain
+  - which
+  - cause
 - - eye
   - what
   - then
+- - sated
+  - this
+  - grouplet
+- - momentarily
+  - sated
+  - this
+- - terms
+  - which
+  - should
+- - other
+  - flasks
+  - will
+- - comparison
+  - harmless
+  - this
 - - harmless
   - this
   - argument
+- - fly
+  - will
+  - now
 - - this
   - argument
   - carries
-- - will
-  - now
-  - watch
+- - demographic
+  - there
+  - may
 - - blanket
   - where
   - they
+- - will
+  - now
+  - watch
 story:
   date: 2012-04-27
   id: 2012-04-27-on-the-picnic-fly

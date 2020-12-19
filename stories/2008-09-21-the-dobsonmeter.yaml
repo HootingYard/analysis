@@ -2,15 +2,12 @@ ngrams:
 - - dogged
   - researcher
   - gordon
-- - antarctic
-  - survey
-  - scientist
 - - norwegian
   - polar
   - institute
-- - scientist
-  - september
-  - contains
+- - antarctic
+  - survey
+  - scientist
 - - instrument
   - maker
   - r
@@ -23,69 +20,72 @@ ngrams:
 - - british
   - antarctic
   - survey
-- - london's
-  - science
-  - museum
-- - maker
-  - r
-  - j
 - - london
   - instrument
   - maker
+- - maker
+  - r
+  - j
+- - scientist
+  - september
+  - contains
+- - london's
+  - science
+  - museum
 - - survey
   - scientist
   - managed
 - - writes
   - richard
   - carter
-- - frank
-  - writes
-  - richard
 - - shed
   - outside
   - oxford
+- - frank
+  - writes
+  - richard
 - - dear
   - frank
   - writes
 - - affinity
   - without
   - joe
-- - another
-  - dogged
-  - researcher
 - - definite
   - affinity
   - without
+- - another
+  - dogged
+  - researcher
 - - pamphleteer
   - whose
   - doings
 - - number
   - dobson's
   - original
-- - week's
-  - new
-  - scientist
 - - make
   - global
   - measurements
+- - rather
+  - stirring
+  - story
+- - week's
+  - new
+  - scientist
 - - print
   - pamphleteer
   - whose
 - - new
   - scientist
   - september
-- - rather
-  - stirring
-  - story
+- - ozone
+  - layer
+  - might
 - - researcher
   - gordon
   - dobson
 - - new
   - scientist
   - piece
-- - ozone
-  - layer
-  - might
 - - certain
   - gordon
   - dobson
@@ -119,9 +119,9 @@ ngrams:
 - - oxford
   - more
   - than
-- - gordon
-  - dobson
-  - who
+- - ozone
+  - layer
+  - they
 story:
   date: 2008-09-21
   id: 2008-09-21-the-dobsonmeter

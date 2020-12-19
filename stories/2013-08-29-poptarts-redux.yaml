@@ -2,33 +2,18 @@ ngrams:
 - - footwear
   - adviser
   - misconstrued
-- - '-'
-  - luke
-  - '-'
-- - fishes
-  - matthew
-  - '-'
 - - former
   - soviet
   - union
 - - galoshes
   - thoughtfully
   - provided
-- - mark
-  - '-'
-  - luke
 - - audience
   - largely
   - unfamiliar
-- - matthew
-  - '-'
-  - mark
 - - brochures
   - information
   - sheets
-- - '-'
-  - mark
-  - '-'
 - - hotel
   - chef
   - rustled
@@ -41,51 +26,57 @@ ngrams:
 - - reasonably
   - happy
   - crowd
+- - earliest
+  - opportunity
+  - alas
 - - celebrities
   - standing
   - nearby
 - - snack
   - item
   - apparently
-- - earliest
-  - opportunity
-  - alas
 - - wearing
   - spats
   - unfortunately
-- - john
-  - '-'
-  - except
 - - hotel
   - wearing
   - galoshes
 - - sophisticated
   - hotel
   - wearing
-- - oh
-  - puddles
-  - innumerable
-- - black
-  - smoke
-  - rose
-- - puddles
-  - oh
-  - puddles
 - - choked
   - several
   - celebrities
+- - fishes
+  - matthew
+  - '-'
+- - oh
+  - puddles
+  - innumerable
+- - puddles
+  - oh
+  - puddles
+- - black
+  - smoke
+  - rose
+- - mark
+  - '-'
+  - luke
+- - matthew
+  - '-'
+  - mark
 - - breakfast
   - product
   - instead
-- - weeks
-  - ago
-  - reposted
 - - several
   - celebrities
   - standing
 - - swish
   - nor
   - sophisticated
+- - weeks
+  - ago
+  - reposted
 - - throng
   - without
   - incident
@@ -95,15 +86,24 @@ ngrams:
 - - neither
   - swish
   - nor
+- - john
+  - '-'
+  - except
 - - key
   - prose
   - experience
 - - key
   - prose
   - experience
+- - '-'
+  - luke
+  - '-'
 - - new
   - product
   - launch
+- - '-'
+  - mark
+  - '-'
 - - delicious
   - new
   - breakfast
@@ -119,6 +119,9 @@ ngrams:
 - - can't
   - always
   - get
+- - utter
+  - mr
+  - key
 - - accepted
   - our
   - brochures
@@ -128,60 +131,57 @@ ngrams:
 - - our
   - brochures
   - information
-- - utter
-  - mr
+- - mr
   - key
+  - prose
+- - mr
+  - key
+  - prose
 - - ago
   - reposted
   - here
-- - mr
-  - key
-  - prose
-- - mr
-  - key
-  - prose
 - - home
   - through
   - certain
-- - hooting
-  - yard
-  - reader
 - - squeak
   - rather
   - than
 - - rather
   - than
   - bread
-- - much
-  - last
-  - week
+- - hooting
+  - yard
+  - reader
 - - am
   - neither
   - swish
+- - much
+  - last
+  - week
 - - chef
   - rustled
   - up
 - - way
   - home
   - through
-- - been
-  - yoko
-  - ono
 - - band
   - started
   - up
 - - adviser
   - misconstrued
   - what
+- - been
+  - yoko
+  - ono
 - - glitterati
   - got
   - their
-- - been
-  - looking
-  - forward
 - - got
   - their
   - shoes
+- - been
+  - looking
+  - forward
 - - do
   - took
   - place
@@ -203,15 +203,15 @@ ngrams:
 - - last
   - week
   - when
-- - reader
-  - who
-  - can
 - - would
   - cut
   - something
 - - who
   - can
   - spot
+- - reader
+  - who
+  - can
 - - all
   - growing
   - very
@@ -221,15 +221,15 @@ ngrams:
 - - an
   - audience
   - largely
+- - we
+  - accepted
+  - our
 - - munching
   - this
   - delicious
 - - prepare
   - this
   - toothsome
-- - we
-  - accepted
-  - our
 story:
   date: 2013-08-29
   id: 2013-08-29-poptarts-redux

@@ -17,12 +17,12 @@ ngrams:
 - - pal
   - ulf
   - asked
-- - plovdiv
-  - ugo
-  - went
 - - ugo
   - went
   - loopy
+- - plovdiv
+  - ugo
+  - went
 - - pal
   - ulf
   - 'off'
@@ -47,15 +47,15 @@ ngrams:
 - - ma
   - said
   - ulf
-- - it's
-  - only
-  - ugo
-- - ulf
-  - it's
-  - only
 - - cow
   - wow
   - said
+- - said
+  - ulf
+  - it's
+- - ulf
+  - it's
+  - only
 story:
   date: 2004-10-26
   id: 2004-10-26-ugo-goes-loopy

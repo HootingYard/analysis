@@ -1,19 +1,19 @@
 ngrams:
-- - adulterers
-  - divorcees
-  - milkmen
+- - privateers
+  - signalmen
+  - costermongers
 - - adulterers
   - divorcees
   - milkmen
 - - privateers
   - signalmen
   - costermongers
+- - adulterers
+  - divorcees
+  - milkmen
 - - rapporteurs
   - adulterers
   - divorcees
-- - privateers
-  - signalmen
-  - costermongers
 - - rapporteurs
   - adulterers
   - divorcees
@@ -29,174 +29,174 @@ ngrams:
 - - hippies
   - swamis
   - gurus
-- - assassins
-  - diplomats
-  - remittance
-- - assassins
-  - diplomats
-  - remittance
+- - gumshoes
+  - ski
+  - instructors
 - - gumshoes
   - ski
   - instructors
 - - cashiered
   - cadets
   - shanghaied
-- - gumshoes
-  - ski
-  - instructors
 - - cashiered
   - cadets
   - shanghaied
+- - assassins
+  - diplomats
+  - remittance
+- - hermits
+  - anchorites
+  - movers
+- - assassins
+  - diplomats
+  - remittance
+- - hermits
+  - anchorites
+  - movers
 - - docents
   - governesses
   - papal
 - - docents
   - governesses
   - papal
-- - snowmen
-  - chimney
-  - sweeps
-- - chimney
-  - sweeps
-  - gangmasters
-- - hermits
-  - anchorites
-  - movers
-- - snowmen
-  - chimney
-  - sweeps
-- - chimney
-  - sweeps
-  - gangmasters
-- - hermits
-  - anchorites
-  - movers
-- - sweeps
-  - gangmasters
-  - snipers
+- - airmen
+  - balloonists
+  - hod
 - - airmen
   - balloonists
   - hod
 - - sweeps
   - gangmasters
   - snipers
-- - airmen
-  - balloonists
+- - sweeps
+  - gangmasters
+  - snipers
+- - hosts
+  - cashiered
+  - cadets
+- - balloonists
   - hod
-- - aesthetes
-  - charges
-  - d'affaires
+  - carriers
+- - hosts
+  - cashiered
+  - cadets
 - - balloonists
   - hod
   - carriers
 - - hod
   - carriers
   - birdwatchers
-- - aesthetes
-  - charges
-  - d'affaires
-- - balloonists
-  - hod
-  - carriers
 - - hod
   - carriers
   - birdwatchers
+- - snowmen
+  - chimney
+  - sweeps
+- - chimney
+  - sweeps
+  - gangmasters
+- - snowmen
+  - chimney
+  - sweeps
+- - chimney
+  - sweeps
+  - gangmasters
 - - flappers
   - floozies
   - defrocked
+- - aesthetes
+  - charges
+  - d'affaires
 - - flappers
   - floozies
   - defrocked
-- - hosts
-  - cashiered
-  - cadets
+- - aesthetes
+  - charges
+  - d'affaires
 - - charges
   - d'affaires
   - rapporteurs
-- - hosts
-  - cashiered
-  - cadets
 - - charges
   - d'affaires
   - rapporteurs
+- - mavericks
+  - cowpokes
+  - jewel
+- - mavericks
+  - cowpokes
+  - jewel
+- - captains
+  - mavericks
+  - cowpokes
+- - prospectors
+  - mining
+  - engineers
+- - captains
+  - mavericks
+  - cowpokes
+- - prospectors
+  - mining
+  - engineers
 - - hunters
   - expats
   - spies
 - - hunters
   - expats
   - spies
-- - dacoits
-  - thugs
-  - assassins
-- - dacoits
-  - thugs
-  - assassins
-- - thugs
-  - assassins
-  - diplomats
-- - mavericks
-  - cowpokes
-  - jewel
-- - thugs
-  - assassins
-  - diplomats
-- - mavericks
-  - cowpokes
-  - jewel
-- - prospectors
-  - mining
-  - engineers
-- - prospectors
-  - mining
-  - engineers
-- - wives
-  - cripples
-  - mendicants
-- - captains
-  - mavericks
-  - cowpokes
-- - wives
-  - cripples
-  - mendicants
-- - captains
-  - mavericks
-  - cowpokes
 - - makers
   - traitors
   - frankish
 - - makers
   - traitors
   - frankish
+- - wives
+  - cripples
+  - mendicants
+- - wives
+  - cripples
+  - mendicants
+- - brevet
+  - colonels
+  - elephant
 - - colonels
   - elephant
   - hunters
 - - elephant
   - hunters
   - expats
+- - brevet
+  - colonels
+  - elephant
 - - colonels
   - elephant
   - hunters
 - - elephant
   - hunters
   - expats
-- - sprinters
-  - vampires
-  - zombies
+- - dacoits
+  - thugs
+  - assassins
 - - vampires
   - zombies
   - psychopaths
-- - sprinters
-  - vampires
-  - zombies
+- - dacoits
+  - thugs
+  - assassins
 - - vampires
   - zombies
   - psychopaths
-- - cripples
-  - mendicants
-  - sisters
-- - cripples
-  - mendicants
-  - sisters
+- - thugs
+  - assassins
+  - diplomats
+- - sprinters
+  - vampires
+  - zombies
+- - thugs
+  - assassins
+  - diplomats
+- - sprinters
+  - vampires
+  - zombies
 story:
   date: 2011-04-28
   id: 2011-04-28-thursday-morning-thriller

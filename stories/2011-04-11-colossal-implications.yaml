@@ -14,12 +14,12 @@ ngrams:
 - - sophisticated
   - modern
   - world
-- - teensy
-  - bit
-  - too
 - - sw
   - reading
   - perhaps
+- - teensy
+  - bit
+  - too
 - - our
   - mightiest
   - machines
@@ -41,9 +41,6 @@ ngrams:
 - - could
   - influence
   - inanimate
-- - century
-  - she
-  - uttered
 - - more
   - sophisticated
   - modern
@@ -53,21 +50,24 @@ ngrams:
 - - bit
   - too
   - much
-- - reading
-  - perhaps
-  - just
 - - contemporaneous
   - report
   - can
+- - century
+  - she
+  - uttered
+- - reading
+  - perhaps
+  - just
 - - underpants
   - burn
   - them
-- - who
-  - secured
-  - herself
 - - make
   - our
   - whole
+- - who
+  - secured
+  - herself
 story:
   date: 2011-04-11
   id: 2011-04-11-colossal-implications

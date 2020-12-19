@@ -1,10 +1,10 @@
 ngrams:
-- - bush
-  - australasian
-  - bush
 - - larks
   - sparrow
   - larks
+- - bush
+  - australasian
+  - bush
 - - sparrow
   - larks
   - sparrow
@@ -23,12 +23,12 @@ ngrams:
 - - malabar
   - sun
   - tawny
-- - ancient
-  - latvian
-  - pals
 - - today's
   - date
   - gosh
+- - ancient
+  - latvian
+  - pals
 - - lark
   - information
   - imagine
@@ -44,12 +44,12 @@ ngrams:
 - - ask
   - plaintively
   - 'yes'
-- - display
-  - flights
-  - often
 - - speckled
   - eggs
   - sometimes
+- - display
+  - flights
+  - often
 - - often
   - extravagant
   - songs
@@ -65,12 +65,12 @@ ngrams:
 - - must
   - confess
   - i'm
-- - small
-  - terrestrial
-  - birds
 - - whimper
   - well
   - that's
+- - small
+  - terrestrial
+  - birds
 - - blazing
   - eyes
   - quite
@@ -83,12 +83,12 @@ ngrams:
 - - think
   - it's
   - definitely
-- - laying
-  - between
-  - two
 - - eyes
   - quite
   - sure
+- - laying
+  - between
+  - two
 - - information
   - imagine
   - just
@@ -98,27 +98,27 @@ ngrams:
 - - now
   - amity
   - restored
-- - seeds
-  - now
-  - amity
 - - predominantly
   - old
   - world
+- - seeds
+  - now
+  - amity
 - - set
   - 'off'
   - arm
 - - ancient
   - latvia
   - now
-- - latvia
-  - hooting
-  - yard
 - - old
   - world
   - family
 - - little
   - although
   - perhaps
+- - latvia
+  - hooting
+  - yard
 - - latvia
   - now
   - look
@@ -131,15 +131,15 @@ ngrams:
 - - know
   - full
   - well
-- - your
-  - ancient
-  - latvian
-- - your
-  - ancient
-  - latvian
 - - am
   - well
   - aware
+- - your
+  - ancient
+  - latvian
+- - your
+  - ancient
+  - latvian
 - - has
   - flown
   - away
@@ -149,18 +149,24 @@ ngrams:
 - - get
   - into
   - arguments
-- - festival
-  - which
-  - commemorates
 - - larks
   - are
   - passerine
 - - sparrow
   - lark
   - are
+- - telling
+  - me
+  - next
 - - larks
   - are
   - fairly
+- - entirely
+  - sure
+  - there
+- - festival
+  - which
+  - commemorates
 - - are
   - fairly
   - dull
@@ -170,12 +176,6 @@ ngrams:
 - - has
   - now
   - taken
-- - telling
-  - me
-  - next
-- - entirely
-  - sure
-  - there
 - - now
   - taken
   - up
@@ -185,20 +185,20 @@ ngrams:
 - - an
   - ancient
   - latvian
-- - most
-  - larks
-  - are
 - - lark
   - over
   - there
+- - most
+  - larks
+  - are
 - - so
   - many
   - different
-- - larks
-  - being
-  - an
 - - tibetan
   - mongolian
+  - or
+- - masked
+  - dunn's
   - or
 story:
   date: 2004-03-24

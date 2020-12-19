@@ -8,36 +8,27 @@ ngrams:
 - - superior
   - baton
   - flailing
-- - psychopathic
-  - personality
-  - disorder
 - - flailing
   - baton
   - psychopathic
-- - baton
-  - flailing
-  - technique
+- - psychopathic
+  - personality
+  - disorder
 - - bouffant
   - flailing
   - baton
+- - baton
+  - flailing
+  - technique
 - - seemingly
   - inevitable
   - descent
-- - maestro
-  - lothar
-  - preen
 - - criminal
   - gangs
   - planning
-- - screen
-  - lothar
-  - preen
 - - world's
   - current
   - financial
-- - charles
-  - hawtrey
-  - '-'
 - - precocious
   - musical
   - genius
@@ -53,6 +44,12 @@ ngrams:
 - - majestic
   - bouffant
   - flailing
+- - maestro
+  - lothar
+  - preen
+- - screen
+  - lothar
+  - preen
 - - heaven
   - eight
   - nine
@@ -65,45 +62,42 @@ ngrams:
 - - mother
   - lay
   - dying
-- - lothar
-  - preen
-  - today
-- - remember
-  - lothar
-  - preen
 - - gathering
   - together
   - thousands
+- - lothar
+  - preen
+  - today
+- - charles
+  - hawtrey
+  - '-'
+- - remember
+  - lothar
+  - preen
 - - death
   - various
   - lawyers
-- - five
-  - six
-  - seven
-- - foul
-  - october
-  - night
 - - vomit
   - vomit
   - indeed
+- - five
+  - six
+  - seven
 - - without
   - strong
   - stomachs
+- - foul
+  - october
+  - night
 - - maestro
   - himself
   - lothar
-- - himself
-  - lothar
-  - preen
-- - lothar
-  - preen
-  - himself
 - - single
   - drink
   - during
-- - four
-  - five
-  - six
+- - bank
+  - vault
+  - though
 - - grisly
   - doings
   - few
@@ -113,24 +107,30 @@ ngrams:
 - - own
   - adventures
   - initially
-- - bank
-  - vault
-  - though
+- - himself
+  - lothar
+  - preen
+- - lothar
+  - preen
+  - himself
+- - four
+  - five
+  - six
 - - vomit
   - indeed
   - seems
-- - three
-  - four
-  - five
-- - little
-  - convent
-  - hospital
 - - next
   - seen
   - adorning
+- - little
+  - convent
+  - hospital
 - - still
   - pitch
   - dark
+- - three
+  - four
+  - five
 - - pretty
   - little
   - convent
@@ -146,27 +146,27 @@ ngrams:
 - - pretty
   - little
   - towpath
-- - lothar
-  - preen
-  - after
 - - doings
   - few
   - people
 - - those
   - worms
   - beneath
-- - insalubrious
-  - taverns
-  - down
+- - lothar
+  - preen
+  - after
 - - drunk
   - before
   - giving
-- - during
-  - these
-  - nights
 - - keel
   - over
   - drunk
+- - insalubrious
+  - taverns
+  - down
+- - during
+  - these
+  - nights
 - - first
   - became
   - conscious
@@ -176,36 +176,36 @@ ngrams:
 - - good
   - children
   - go
-- - preen
-  - after
-  - death
-- - little
-  - towpath
-  - next
-- - after
-  - death
-  - save
-- - its
-  - anonymous
-  - purchaser
 - - oodles
   - upon
   - oodles
-- - two
-  - three
-  - four
+- - preen
+  - after
+  - death
+- - after
+  - death
+  - save
+- - little
+  - towpath
+  - next
+- - its
+  - anonymous
+  - purchaser
 - - simply
   - unique
   - did
+- - more
+  - insalubrious
+  - taverns
 - - those
   - without
   - strong
 - - more
-  - insalubrious
-  - taverns
-- - more
   - humane
   - moments
+- - two
+  - three
+  - four
 - - few
   - months
   - after
@@ -221,15 +221,15 @@ ngrams:
 - - verbally
   - taunting
   - them
+- - its
+  - own
+  - adventures
 - - anonymous
   - purchaser
   - who
 - - know
   - how
   - fortunate
-- - its
-  - own
-  - adventures
 - - bucket
   - beside
   - them
@@ -263,15 +263,15 @@ ngrams:
 - - preen
   - himself
   - has
-- - been
-  - kept
-  - busy
 - - who
   - quite
   - apart
 - - inevitable
   - descent
   - into
+- - been
+  - kept
+  - busy
 - - sale
   - chopped
   - into
@@ -293,90 +293,90 @@ ngrams:
 - - before
   - giving
   - them
-- - six
-  - seven
-  - all
-- - musical
-  - genius
-  - there
-- - never
-  - been
-  - depicted
 - - cinema
   - would
   - dare
-- - man
-  - remember
-  - who
-- - these
-  - words
-  - has
+- - musical
+  - genius
+  - there
 - - maestro
   - would
   - hold
-- - song
-  - cycle
-  - we
 - - would
   - hold
   - court
+- - song
+  - cycle
+  - we
+- - six
+  - seven
+  - all
+- - never
+  - been
+  - depicted
+- - these
+  - words
+  - has
+- - cycle
+  - we
+  - remember
+- - man
+  - remember
+  - who
 - - been
   - buried
   - just
+- - we
+  - remember
+  - lothar
+- - preen
+  - today
+  - we
 - - himself
   - has
   - never
 - - pretty
   - then
   - some
-- - conductor's
-  - baton
-  - which
-- - cycle
-  - we
-  - remember
-- - preen
-  - today
-  - we
-- - we
-  - remember
-  - lothar
-- - all
-  - good
-  - children
 - - seven
   - all
   - good
+- - all
+  - good
+  - children
+- - conductor's
+  - baton
+  - which
 - - can
   - see
   - here
 - - absurd
   - until
   - we
-- - left
-  - behind
-  - there
 - - until
   - we
   - pause
 - - today
   - we
   - remember
+- - left
+  - behind
+  - there
 - - know
   - what
   - became
-- - how
-  - fortunate
-  - they
 - - look
   - so
   - pretty
-- - birds
-  - are
-  - savaged
+- - how
+  - fortunate
+  - they
 - - why
   - we
   - remember
+- - worms
+  - so
+  - great
 story:
   date: 2012-05-28
   id: 2012-05-28-on-lothar-preen

@@ -50,12 +50,12 @@ ngrams:
 - - bird's
   - feathers
   - are
-- - gas
-  - which
-  - obeys
-- - which
-  - obeys
-  - gas
+- - feathers
+  - are
+  - replaced
+- - are
+  - commonly
+  - covered
 story:
   date: 2004-05-07
   id: 2004-05-07-bird-news

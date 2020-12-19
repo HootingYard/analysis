@@ -1,40 +1,40 @@
 ngrams:
-- - ballet
-  - stadium
-  - gig
-- - spandau
-  - ballet
-  - stadium
 - - uptown
   - gulls
   - greeted
+- - spandau
+  - ballet
+  - stadium
+- - ballet
+  - stadium
+  - gig
 - - puddles
   - recalcitrant
   - flocks
-- - suitably
-  - authoritative
-  - manner
 - - fantastic
   - uptown
   - gulls
+- - suitably
+  - authoritative
+  - manner
 - - duties
   - included
   - leaning
 - - funicular
   - railway
   - connecting
-- - enormous
-  - puddles
-  - recalcitrant
-- - timetables
-  - enormous
-  - puddles
 - - authoritative
   - manner
   - akin
 - - filthy
   - laundry
   - bowls
+- - enormous
+  - puddles
+  - recalcitrant
+- - timetables
+  - enormous
+  - puddles
 - - thunderstorms
   - defective
   - bus
@@ -47,9 +47,6 @@ ngrams:
 - - anywhere
   - near
   - uptown
-- - near
-  - uptown
-  - save
 - - milk
   - slops
   - slices
@@ -59,141 +56,144 @@ ngrams:
 - - curdled
   - milk
   - slops
-- - allowed
-  - anywhere
-  - near
+- - near
+  - uptown
+  - save
 - - bus
   - timetables
   - enormous
+- - allowed
+  - anywhere
+  - near
 - - lost
   - alas
   - puffing
 - - included
   - leaning
   - against
+- - pointy
+  - towners
+  - armed
+- - reasonably
+  - pointy
+  - corner
+- - print
+  - pamphleteer
+  - ranking
 - - walked
   - slowly
   - among
 - - appeared
   - simply
   - filled
-- - print
-  - pamphleteer
-  - ranking
-- - reasonably
-  - pointy
-  - corner
 - - ranking
   - contest
   - took
-- - pointy
-  - towners
-  - armed
-- - board
-  - game
-  - called
 - - notebook
   - since
   - lost
-- - thing
-  - completely
-  - immobile
-- - game
+- - board
+  - game
   - called
-  - picnic
-- - since
-  - lost
-  - alas
-- - completely
-  - immobile
-  - until
 - - dank
   - though
   - reasonably
 - - fumes
   - artificial
   - though
-- - big
-  - pointy
-  - plaster
+- - since
+  - lost
+  - alas
+- - thing
+  - completely
+  - immobile
 - - less
   - pointy
   - bits
+- - completely
+  - immobile
+  - until
+- - big
+  - pointy
+  - plaster
+- - game
+  - called
+  - picnic
+- - uptown
+  - pointy
+  - town
 - - gloomy
   - pamphleteer
   - indeed
-- - uptown
-  - pointy
-  - town
-- - most
-  - tiresome
-  - pamphlets
-- - judge
-  - these
-  - contests
 - - pointy
   - town
   - gulls
+- - judge
+  - these
+  - contests
 - - ranking
   - judge
   - these
-- - wristwatches
-  - glittered
-  - dobson
-- - uptown
-  - gulls
-  - dobson
-- - dobson's
-  - most
+- - most
   - tiresome
+  - pamphlets
+- - paris
+  - pointy
+  - thing
+- - paris
+  - pointy
+  - thing
 - - much
   - frowning
   - slumped
-- - paris
+- - though
+  - reasonably
   - pointy
+- - pointy
   - thing
-- - paris
-  - pointy
-  - thing
+  - completely
+- - dobson's
+  - most
+  - tiresome
 - - contests
-  - took
-  - place
-- - contest
   - took
   - place
 - - place
   - quite
   - properly
+- - wristwatches
+  - glittered
+  - dobson
+- - contest
+  - took
+  - place
 - - those
   - fumes
   - artificial
-- - pointy
-  - thing
-  - completely
-- - top
-  - ranking
+- - uptown
+  - gulls
   - dobson
-- - five
-  - years
-  - wore
-- - though
-  - reasonably
-  - pointy
 - - those
   - fantastic
   - uptown
-- - imagine
-  - dobson
-  - breathing
-- - very
-  - occasionally
-  - contributed
 - - lengthy
   - delay
   - before
+- - very
+  - occasionally
+  - contributed
+- - five
+  - years
+  - wore
 - - never
   - actually
   - attended
+- - imagine
+  - dobson
+  - breathing
+- - top
+  - ranking
+  - dobson
 - - place
   - every
   - five
@@ -206,9 +206,6 @@ ngrams:
 - - dog
   - show
   - dobson
-- - following
-  - day
-  - blodgett
 - - next
   - five
   - years
@@ -218,18 +215,24 @@ ngrams:
 - - took
   - place
   - every
-- - town
-  - dobson
-  - knew
+- - oh
+  - those
+  - pointy
+- - following
+  - day
+  - blodgett
 - - every
   - five
   - years
 - - place
   - where
   - cummerbunds
-- - oh
-  - those
+- - town
+  - dobson
+  - knew
+- - those
   - pointy
+  - town
 - - never
   - ever
   - invited
@@ -239,24 +242,21 @@ ngrams:
 - - day
   - blodgett
   - having
-- - those
-  - pointy
-  - town
 - - gulls
   - greeted
   - him
+- - gulls
+  - do
+  - oh
+- - first
+  - place
+  - quite
 - - dobson
   - knew
   - well
 - - quite
   - why
   - dobson
-- - first
-  - place
-  - quite
-- - gulls
-  - do
-  - oh
 - - did
   - much
   - frowning
@@ -278,15 +278,21 @@ ngrams:
 - - alas
   - puffing
   - up
-- - pamphleteer
-  - ranking
-  - their
 - - some
   - dank
   - though
+- - pamphleteer
+  - ranking
+  - their
 - - like
   - quite
   - why
+- - touristy
+  - inclinations
+  - if
+- - absolutely
+  - 'no'
+  - idea
 - - ranked
   - were
   - rank
@@ -296,51 +302,45 @@ ngrams:
 - - were
   - rank
   - bags
-- - absolutely
-  - 'no'
-  - idea
 - - whatnot
   - were
   - gathered
-- - touristy
-  - inclinations
-  - if
-- - now
-  - both
-  - dobson
 - - having
   - been
   - jetted
-- - can
-  - imagine
-  - dobson
 - - melodramatic
   - piece
   - about
-- - blodgett
-  - having
-  - been
+- - now
+  - both
+  - dobson
+- - can
+  - imagine
+  - dobson
 - - do
   - oh
   - those
-- - they
-  - thunderstorms
-  - defective
 - - simply
   - filled
   - out
+- - they
+  - thunderstorms
+  - defective
 - - those
   - who
   - entered
+- - blodgett
+  - having
+  - been
 - - they
   - laundry
   - bags
-- - will
-  - understand
-  - why
 - - often
   - strolled
   - there
+- - will
+  - understand
+  - why
 - - occasionally
   - contributed
   - so
@@ -353,6 +353,9 @@ ngrams:
 - - where
   - cummerbunds
   - were
+- - these
+  - events
+  - there
 - - an
   - adequate
   - judge
@@ -362,9 +365,6 @@ ngrams:
 - - an
   - exclusive
   - resort
-- - these
-  - events
-  - there
 - - an
   - arena
   - filled

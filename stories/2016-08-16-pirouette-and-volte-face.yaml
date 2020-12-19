@@ -20,24 +20,24 @@ ngrams:
 - - ma
   - brimstone
   - insisted
-- - physical
-  - body
-  - degrees
-- - hate
-  - cold
-  - mush
-- - original
-  - physical
-  - position
 - - dells
   - eggs
   - funk
-- - liver
+- - hate
+  - cold
   - mush
-  - gone
+- - physical
+  - body
+  - degrees
+- - original
+  - physical
+  - position
 - - degrees
   - one's
   - mental
+- - liver
+  - mush
+  - gone
 - - hard
   - jutting
   - solid
@@ -45,53 +45,38 @@ ngrams:
   - corrugated
   - cardboard
 - - one's
+  - mental
+  - position
+- - one's
   - original
   - physical
 - - bright
   - battering
   - sun
-- - one's
-  - mental
-  - position
 - - love
   - swans
   - adore
-- - sandal
-  - oh
-  - hello
 - - entirely
   - vacant
   - whatever
+- - sandal
+  - oh
+  - hello
 - - vanished
   - behind
   - thunderous
-- - mush
-  - gone
-  - cold
 - - almost
   - inhumanly
   - complicated
+- - mush
+  - gone
+  - cold
 - - eggs
   - funk
   - music
 - - thunderous
   - black
   - clouds
-- - black
-  - clouds
-  - sweeping
-- - front
-  - door
-  - sopping
-- - marigold
-  - chew
-  - reminded
-- - door
-  - sopping
-  - wet
-- - foul
-  - sunlit
-  - morning
 - - placards
   - trudging
   - along
@@ -101,93 +86,111 @@ ngrams:
 - - breakfast
   - table
   - gazing
+- - front
+  - door
+  - sopping
+- - door
+  - sopping
+  - wet
+- - black
+  - clouds
+  - sweeping
+- - foul
+  - sunlit
+  - morning
 - - print
   - pamphleteer
   - spun
 - - print
   - pamphleteer
   - donned
+- - marigold
+  - chew
+  - reminded
+- - inhumanly
+  - complicated
+  - thought
+- - clouds
+  - sweeping
+  - across
 - - fascist
   - tot
   - tiny
 - - plucky
   - tot
   - tiny
-- - inhumanly
-  - complicated
-  - thought
-- - chew
-  - between
-  - mouthfuls
 - - always
   - hated
   - swans
-- - clouds
-  - sweeping
-  - across
-- - tiny
-  - enid
-  - applauded
-- - pirouetting
-  - technique
-  - each
-- - behind
-  - thunderous
-  - black
+- - chew
+  - between
+  - mouthfuls
 - - complicated
   - thought
   - process
-- - ballet
-  - school
-  - next
-- - ballet
-  - school
-  - next
-- - ballet
-  - school
-  - next
+- - pirouetting
+  - technique
+  - each
 - - battering
   - sun
   - having
-- - tot
-  - tiny
+- - tiny
   - enid
-- - tot
-  - tiny
-  - enid
+  - applauded
+- - ballet
+  - school
+  - next
+- - ballet
+  - school
+  - next
+- - ballet
+  - school
+  - next
+- - behind
+  - thunderous
+  - black
 - - sun
   - having
   - vanished
-- - thinking
-  - asked
-  - marigold
-- - marigold
-  - chew
-  - oh
-- - asked
-  - marigold
-  - chew
+- - tot
+  - tiny
+  - enid
+- - tot
+  - tiny
+  - enid
 - - elegant
   - yet
   - savage
+- - thinking
+  - asked
+  - marigold
 - - canal
   - elegant
   - yet
-- - recall
-  - tiny
-  - enid
 - - marigold
   - chew
-  - between
-- - having
-  - vanished
-  - behind
+  - oh
 - - mud
   - several
   - hours
+- - asked
+  - marigold
+  - chew
+- - recall
+  - tiny
+  - enid
+- - having
+  - vanished
+  - behind
 - - hated
   - swans
   - well
+- - marigold
+  - chew
+  - between
+- - while
+  - spinning
+  - round
 - - qualifications
   - old
   - ma
@@ -197,24 +200,18 @@ ngrams:
 - - old
   - ma
   - brimstone
-- - while
-  - spinning
-  - round
-- - continued
-  - through
-  - degrees
 - - head
   - aztecs
   - bleach
-- - through
-  - degrees
-  - one's
 - - several
   - hours
   - later
-- - filthy
-  - canal
-  - dobson
+- - continued
+  - through
+  - degrees
+- - through
+  - degrees
+  - one's
 - - sopping
   - wet
   - just
@@ -224,90 +221,93 @@ ngrams:
 - - marigold
   - chew
   - well
-- - round
-  - through
-  - degrees
 - - spun
   - round
   - through
+- - round
+  - through
+  - degrees
 - - halfway
   - round
   - through
+- - filthy
+  - canal
+  - dobson
+- - himself
+  - while
+  - spinning
 - - away
   - marigold
   - chew
+- - force
+  - himself
+  - while
+- - turned
+  - away
+  - marigold
+- - cold
+  - mush
+  - said
+- - face
+  - continued
+  - through
 - - oh
   - hello
   - dobson
 - - late
   - s
   - dobson
-- - turned
-  - away
-  - marigold
-- - canal
-  - dobson
-  - turned
-- - himself
-  - while
-  - spinning
 - - marigold
   - chew
   - how
-- - face
-  - continued
-  - through
-- - force
-  - himself
-  - while
-- - s
-  - dobson
-  - sat
-- - cold
-  - mush
-  - said
-- - later
-  - dobson
-  - crashed
-- - only
-  - halfway
-  - round
-- - hers
-  - said
-  - marigold
+- - swans
+  - well
+  - perhaps
 - - without
   - another
   - word
 - - enough
   - just
   - ahead
-- - swans
-  - well
-  - perhaps
+- - canal
+  - dobson
+  - turned
+- - only
+  - halfway
+  - round
+- - hers
+  - said
+  - marigold
+- - s
+  - dobson
+  - sat
 - - ever
   - again
   - cried
-- - matter
-  - dobson
-  - asked
-- - ethereal
-  - plane
-  - she
-- - rotating
-  - her
-  - physical
 - - office
   - ever
   - again
-- - she
-  - taught
-  - herself
-- - again
-  - cried
+- - later
   - dobson
+  - crashed
+- - post
+  - office
+  - where
+- - matter
+  - dobson
+  - asked
 - - said
   - marigold
   - chew
+- - said
+  - marigold
+  - chew
+- - ethereal
+  - plane
+  - she
+- - again
+  - cried
+  - dobson
 story:
   date: 2016-08-16
   id: 2016-08-16-pirouette-and-volte-face

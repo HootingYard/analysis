@@ -2,12 +2,12 @@ ngrams:
 - - drunken
   - sailor
   - sidney
-- - drunken
-  - sailors
-  - dancing
 - - simpson
   - memorably
   - recorded
+- - drunken
+  - sailors
+  - dancing
 - - hyperactive
   - toddler
   - bent
@@ -38,12 +38,12 @@ ngrams:
 - - sidney
   - paste
   - often
-- - september
-  - morning
-  - pale
 - - morning
   - pale
   - sunlight
+- - september
+  - morning
+  - pale
 - - sidney
   - paste
   - always
@@ -53,12 +53,12 @@ ngrams:
 - - always
   - leapt
   - straight
-- - ice
-  - cold
-  - water
 - - something
   - sidney
   - paste
+- - ice
+  - cold
+  - water
 - - paste
   - often
   - thought
@@ -80,12 +80,12 @@ ngrams:
 - - known
   - much
   - pain
-- - some
-  - hyperactive
-  - toddler
 - - past
   - never
   - having
+- - some
+  - hyperactive
+  - toddler
 - - given
   - much
   - thought
@@ -98,18 +98,15 @@ ngrams:
 - - found
   - him
   - leaping
-- - often
-  - been
-  - posed
 - - drunkenly
   - squeezing
   - out
-- - her
-  - way
-  - home
 - - leapt
   - straight
   - out
+- - often
+  - been
+  - posed
 - - sidney
   - paste
   - will
@@ -119,6 +116,9 @@ ngrams:
 - - paste
   - will
   - meet
+- - her
+  - way
+  - home
 - - they
   - danced
   - sidney
@@ -137,30 +137,30 @@ ngrams:
 - - never
   - having
   - been
-- - muck
-  - about
-  - like
 - - city
   - so
   - tiny
+- - muck
+  - about
+  - like
 - - canada
   - where
   - they
 - - this
   - september
   - morn
-- - day
-  - like
-  - some
 - - meet
   - this
   - pale
 - - story
   - what
   - do
-- - drunken
-  - sailors
-  - had
+- - street
+  - so
+  - many
+- - day
+  - like
+  - some
 story:
   date: 2004-09-22
   id: 2004-09-22-pale-flapper-a-love-story

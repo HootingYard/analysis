@@ -29,9 +29,6 @@ ngrams:
 - - percent
   - certain
   - doing
-- - tiny
-  - cell
-  - maybe
 - - open
   - country
   - taking
@@ -41,27 +38,30 @@ ngrams:
 - - cannot
   - really
   - argue
-- - call
-  - elbow
-  - room
+- - tiny
+  - cell
+  - maybe
 - - header
   - hey
   - why
-- - room
+- - call
   - elbow
   - room
-- - found
-  - yourself
-  - engulfed
 - - puny
   - yet
   - pulsating
-- - thing
-  - happen
-  - believe
 - - actually
   - write
   - anything
+- - found
+  - yourself
+  - engulfed
+- - thing
+  - happen
+  - believe
+- - room
+  - elbow
+  - room
 - - hey
   - why
   - don't
@@ -71,15 +71,15 @@ ngrams:
 - - elbow
   - room
   - perhaps
-- - take
-  - elbow
-  - room
-- - tiny
-  - tiny
-  - cell
 - - many
   - standard
   - geometrical
+- - tiny
+  - tiny
+  - cell
+- - take
+  - elbow
+  - room
 - - reader
   - still
   - standing
@@ -104,21 +104,24 @@ ngrams:
 - - elbow
   - room
   - now
+- - am
+  - unclear
+  - either
 - - sit
   - down
   - again
 - - am
-  - unclear
-  - either
+  - confident
+  - enough
 - - can
   - test
   - whether
-- - am
-  - confident
-  - enough
 - - elbow
   - room
   - can
+- - yet
+  - decided
+  - upon
 - - should
   - never
   - take
@@ -128,9 +131,6 @@ ngrams:
 - - argument
   - next
   - time
-- - yet
-  - decided
-  - upon
 - - can
   - always
   - test
@@ -140,54 +140,54 @@ ngrams:
 - - hands
   - keeping
   - them
-- - your
-  - elbows
-  - akimbo
-- - your
-  - elbows
-  - outwards
-- - extend
-  - your
-  - elbows
-- - your
-  - fellows
-  - en
 - - squashed
   - up
   - bear
-- - draw
-  - your
-  - elbows
 - - can
   - find
   - eternity
+- - your
+  - elbows
+  - outwards
+- - your
+  - elbows
+  - akimbo
+- - extend
+  - your
+  - elbows
 - - less
   - squashed
   - up
+- - your
+  - fellows
+  - en
 - - could
   - ever
   - imagine
-- - raising
+- - draw
   - your
-  - hands
+  - elbows
 - - scrunched
   - up
   - against
-- - body
-  - your
-  - arms
-- - shouting
-  - your
-  - heads
-- - your
-  - hands
-  - keeping
 - - any
   - other
   - situation
+- - shouting
+  - your
+  - heads
+- - raising
+  - your
+  - hands
+- - body
+  - your
+  - arms
 - - hectic
   - dreams
   - if
+- - your
+  - hands
+  - keeping
 - - police
   - kitted
   - out
@@ -200,35 +200,26 @@ ngrams:
 - - arms
   - will
   - form
-- - will
-  - benefit
-  - both
 - - would
   - challenge
   - anyone
+- - will
+  - benefit
+  - both
 - - writing
   - about
   - things
+- - we
+  - call
+  - elbow
 - - about
   - something
   - else
 - - writing
   - about
   - something
-- - your
-  - heads
-  - 'off'
-- - we
-  - call
-  - elbow
-- - verify
-  - assertions
-  - which
 - - benefit
   - both
-  - me
-- - please
-  - tell
   - me
 - - geometrical
   - terms
@@ -236,24 +227,33 @@ ngrams:
 - - terms
   - so
   - apex
+- - please
+  - tell
+  - me
+- - your
+  - heads
+  - 'off'
+- - verify
+  - assertions
+  - which
 - - are
   - less
   - squashed
-- - then
-  - raising
-  - your
-- - situation
-  - which
-  - does
 - - certain
   - doing
   - so
-- - are
-  - indeed
-  - statements
 - - write
   - about
   - where
+- - then
+  - raising
+  - your
+- - are
+  - indeed
+  - statements
+- - situation
+  - which
+  - does
 story:
   date: 2006-03-23
   id: 2006-03-23-elbow-room

@@ -17,15 +17,15 @@ ngrams:
 - - diseases
   - fires
   - murders
-- - blight
-  - blight
-  - worms
 - - untroubled
   - bucolic
   - peace
 - - beelzebub
   - personally
   - allotted
+- - blight
+  - blight
+  - worms
 - - tractor
   - belching
   - smoke
@@ -38,6 +38,9 @@ ngrams:
 - - feeble
   - lamp
   - puddles
+- - countryside
+  - exorcist
+  - stepping
 - - verbatim
   - record
   - covering
@@ -47,72 +50,63 @@ ngrams:
 - - ravings
   - carefully
   - transcribed
-- - countryside
-  - exorcist
-  - stepping
-- - eccles
-  - c
-  - '-'
-- - blight
-  - worms
-  - eating
 - - specifically
   - farmyard
   - fiends
-- - infernal
-  - farmyard
-  - acts
-- - red
-  - tractor
-  - belching
 - - average
   - countryside
   - exorcist
+- - blight
+  - worms
+  - eating
+- - infernal
+  - farmyard
+  - acts
 - - monthly
   - magazine
   - glimpses
 - - verdant
   - squirrel
   - sanctuary
+- - red
+  - tractor
+  - belching
+- - inexplicable
+  - barn
+  - collapses
 - - farmyard
   - fiends
   - ah
 - - nights
   - flooded
   - fields
-- - golden
-  - wheat
-  - gleaming
 - - lonely
   - cave
   - remote
-- - inexplicable
-  - barn
-  - collapses
+- - golden
+  - wheat
+  - gleaming
 - - slightly
   - shorter
   - version
-- - rusty
-  - iron
-  - pail
 - - popular
   - monthly
   - magazine
-- - bright
-  - red
-  - tractor
-- - john
-  - eccles
-  - c
-- - c
-  - '-'
-  - father
+- - rusty
+  - iron
+  - pail
 - - various
   - infernal
   - farmyard
 - - fiends
   - extremely
   - hard
+- - bright
+  - red
+  - tractor
+- - john
+  - eccles
+  - c
 - - fiends
   - ah
   - 'yes'
@@ -122,54 +116,60 @@ ngrams:
 - - widow
   - popsicle
   - among
+- - happy
+  - happy
+  - pigs
+- - happy
+  - happy
+  - pigs
 - - dead
   - tree
   - blasts
-- - covering
-  - four
-  - hundred
-- - farmyard
-  - regularly
-  - used
 - - dead
   - tree
   - flit
-- - happy
-  - happy
-  - pigs
-- - happy
-  - happy
-  - pigs
+- - eccles
+  - c
+  - '-'
+- - farmyard
+  - regularly
+  - used
+- - covering
+  - four
+  - hundred
 - - big
   - bright
   - red
-- - ah
-  - 'yes'
-  - note
 - - allotted
   - each
   - fiend
+- - c
+  - '-'
+  - father
 - - personally
   - allotted
   - each
-- - chew
-  - often
-  - pressed
+- - ah
+  - 'yes'
+  - note
+- - close
+  - enough
+  - close
+- - close
+  - enough
+  - close
 - - devil's
   - long
   - poking
+- - chew
+  - often
+  - pressed
 - - once
   - popular
   - monthly
 - - long
   - poking
   - fork
-- - close
-  - enough
-  - close
-- - close
-  - enough
-  - close
 - - own
   - farmyard
   - regularly
@@ -182,60 +182,60 @@ ngrams:
 - - new
   - buckets
   - replacing
-- - last
-  - brief
-  - flash
-- - took
-  - six
-  - months
-- - gleaming
-  - new
-  - buckets
-- - wrinkled
-  - old
-  - helpmeet
-- - marigold
-  - chew
-  - often
 - - far
   - flung
   - fields
+- - last
+  - brief
+  - flash
+- - gleaming
+  - new
+  - buckets
 - - wheat
   - gleaming
   - new
-- - old
-  - rusty
-  - pails
+- - wrinkled
+  - old
+  - helpmeet
 - - flung
   - fields
   - go
+- - old
+  - rusty
+  - pails
+- - took
+  - six
+  - months
 - - enough
   - close
   - enough
 - - enough
   - close
   - enough
+- - marigold
+  - chew
+  - often
 - - old
   - ma
   - purgative
+- - exorcist
+  - stepping
+  - through
 - - indeed
   - marigold
   - chew
 - - old
   - rusty
   - iron
-- - exorcist
-  - stepping
-  - through
 - - those
   - crop
   - failures
-- - horses
-  - never
-  - resurrect
 - - resurrected
   - horses
   - never
+- - horses
+  - never
+  - resurrect
 - - our
   - bosky
   - rural
@@ -245,138 +245,138 @@ ngrams:
 - - very
   - large
   - hog
+- - close
+  - enough
+  - too
 - - expel
   - every
   - last
 - - every
   - last
   - vestige
-- - close
-  - enough
-  - too
 - - horse
   - never
   - pass
-- - wrote
-  - many
-  - letters
 - - very
   - different
   - resident
 - - dead
   - tree
   - think
-- - agricultural
-  - kidney
-  - she
+- - wrote
+  - many
+  - letters
 - - ruination
   - visited
   - upon
 - - its
   - sinister
   - squirrel
-- - her
-  - verdant
-  - squirrel
-- - two
-  - indeed
-  - marigold
 - - its
   - demons
   - cast
-- - pages
+- - two
+  - indeed
+  - marigold
+- - agricultural
+  - kidney
   - she
-  - scribbled
 - - comparing
   - these
   - two
+- - her
+  - verdant
+  - squirrel
 - - marigold
   - chew
   - did
-- - these
-  - two
-  - pictures
 - - think
   - too
   - hard
+- - these
+  - two
+  - pictures
+- - pages
+  - she
+  - scribbled
 - - don't
   - think
   - too
-- - once
-  - its
-  - sinister
 - - its
   - own
   - fiend
-- - being
-  - given
-  - away
+- - once
+  - its
+  - sinister
 - - years
   - even
   - decades
+- - being
+  - given
+  - away
 - - lightning
   - 'no'
   - diesel
-- - often
-  - pressed
-  - him
-- - gain
-  - attention
-  - who
 - - very
   - very
   - different
+- - gain
+  - attention
+  - who
+- - often
+  - pressed
+  - him
 - - harrow
   - feed
   - your
-- - your
-  - farmyard
-  - fiend
-- - lighting
-  - your
-  - path
-- - feed
-  - your
-  - horses
 - - plural
   - what
   - happens
 - - your
-  - mind's
-  - eye
-- - every
   - farmyard
-  - has
-- - rural
-  - domains
-  - were
+  - fiend
+- - may
+  - spit
+  - upon
+- - lighting
+  - your
+  - path
 - - newspaper
   - cuttings
   - about
+- - feed
+  - your
+  - horses
 - - relapsed
   - into
   - inanity
 - - about
   - hideous
   - devastations
-- - your
-  - happy
-  - happy
 - - cuttings
   - about
   - hideous
-- - may
-  - spit
-  - upon
-- - questions
+- - rural
+  - domains
   - were
-  - answered
+- - your
+  - mind's
+  - eye
+- - every
+  - farmyard
+  - has
+- - your
+  - happy
+  - happy
 - - tree
   - flit
   - into
 - - demons
   - cast
   - out
+- - questions
+  - were
+  - answered
 story:
   date: 2012-06-19
   id: 2012-06-19-on-fiends-of-the-farmyard

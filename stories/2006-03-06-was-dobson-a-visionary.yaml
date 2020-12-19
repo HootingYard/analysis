@@ -2,12 +2,12 @@ ngrams:
 - - couplet
   - hedgehog
   - lover
-- - hedgehog
-  - lover
-  - rod
 - - illegible
   - couplet
   - hedgehog
+- - hedgehog
+  - lover
+  - rod
 - - pantomime
   - poisonous
   - toads
@@ -23,12 +23,12 @@ ngrams:
 - - bloody
   - fangs
   - fresh
-- - jazz
-  - improvisation
-  - although
 - - malfi
   - gloves
   - fruit
+- - jazz
+  - improvisation
+  - although
 - - blood
   - gravel
   - pathways
@@ -41,15 +41,15 @@ ngrams:
 - - love
   - badgers
   - blood
+- - poem
+  - mornings
+  - enough
 - - william
   - blake
   - saw
 - - three
   - exclamation
   - marks
-- - poem
-  - mornings
-  - enough
 - - print
   - pamphleteer
   - poses
@@ -89,77 +89,77 @@ ngrams:
 - - line
   - dobson
   - chose
-- - sweeping
-  - prose
-  - dobson
-- - prose
-  - dobson
-  - notes
 - - bravura
   - performance
   - even
+- - sweeping
+  - prose
+  - dobson
 - - wonders
   - too
   - why
-- - though
+- - prose
   - dobson
-  - refuses
-- - other
-  - trees
-  - elsewhere
+  - notes
 - - mornings
   - enough
   - where
+- - other
+  - trees
+  - elsewhere
+- - though
+  - dobson
+  - refuses
 - - exclamation
   - marks
   - do
-- - silence
-  - why
-  - did
 - - performance
   - even
   - though
+- - silence
+  - why
+  - did
 - - why
   - she
   - treasures
 - - has
   - praised
   - dobson's
+- - see
+  - other
+  - angels
 - - did
   - dobson
   - choose
 - - like
   - dobson
   - invite
-- - see
-  - other
-  - angels
+- - know
+  - never
+  - went
 - - wonders
   - how
   - she
 - - how
   - she
   - arrived
-- - know
-  - never
-  - went
-- - been
-  - since
-  - birth
 - - about
   - love
   - badgers
-- - too
-  - why
-  - she
-- - why
-  - did
-  - dobson
+- - been
+  - since
+  - birth
+- - trees
+  - elsewhere
+  - if
 - - questions
   - about
   - love
 - - even
   - though
+  - dobson
+- - why
+  - did
   - dobson
 story:
   date: 2006-03-06

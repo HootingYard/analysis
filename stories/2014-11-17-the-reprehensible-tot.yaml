@@ -1,22 +1,22 @@
 ngrams:
-- - rich
-  - brocade
-  - garish
 - - fairies
   - fairies
   - stained
+- - rich
+  - brocade
+  - garish
 - - reprehensible
   - tot
   - whence
-- - brocade
-  - garish
-  - bright
 - - uncountable
   - thereafter
   - peasants
 - - witch's
   - familiar
   - keening
+- - brocade
+  - garish
+  - bright
 - - prince
   - fulgencio
   - hated
@@ -29,24 +29,24 @@ ngrams:
 - - prince
   - fulgencio
   - thrown
-- - phantom
-  - version
-  - born
 - - cried
   - prince
   - fulgencio
+- - phantom
+  - version
+  - born
 - - tot
   - whence
   - comes
 - - news
   - prince
   - fulgencio
-- - prince
-  - fulgencio
-  - gave
 - - reprehensible
   - tot
   - itself
+- - prince
+  - fulgencio
+  - gave
 - - tot
   - itself
   - grown
@@ -56,24 +56,24 @@ ngrams:
 - - tell
   - prince
   - fulgencio
-- - glugging
-  - great
-  - flagons
 - - coherent
   - words
   - gazing
-- - deafening
-  - keening
-  - why
 - - own
   - princely
   - effulgence
-- - words
-  - gazing
-  - directly
+- - glugging
+  - great
+  - flagons
+- - deafening
+  - keening
+  - why
 - - neither
   - tethers
   - nor
+- - words
+  - gazing
+  - directly
 - - prince's
   - visions
   - yet
@@ -128,15 +128,18 @@ ngrams:
 - - now
   - came
   - scampering
-- - these
-  - commands
-  - down
-- - see
-  - circling
-  - over
 - - am
   - become
   - unhinged
+- - see
+  - circling
+  - over
+- - these
+  - commands
+  - down
+- - much
+  - smaller
+  - than
 - - reprehensible
   - tot
   - who
@@ -146,9 +149,6 @@ ngrams:
 - - many
   - pantries
   - where
-- - much
-  - smaller
-  - than
 - - fairies
   - meanwhile
   - up
@@ -170,54 +170,54 @@ ngrams:
 - - closely
   - dissolved
   - into
-- - henchmen
-  - were
-  - sprawled
 - - gazing
   - directly
   - into
 - - familiar
   - keening
   - into
-- - were
-  - neither
-  - tethers
-- - belched
-  - up
-  - another
+- - henchmen
+  - were
+  - sprawled
 - - sudden
   - broke
   - into
+- - belched
+  - up
+  - another
 - - visions
   - yet
   - 'no'
+- - were
+  - neither
+  - tethers
 - - having
   - been
   - delivered
-- - tot
-  - having
-  - been
 - - broke
   - into
   - human
 - - into
   - human
   - speech
-- - hated
-  - all
-  - tots
-- - all
-  - tots
-  - infants
-- - fulgencio
-  - hated
-  - all
+- - tot
+  - having
+  - been
 - - yet
   - 'no'
   - less
+- - hated
+  - all
+  - tots
 - - nor
   - hinges
   - about
+- - fulgencio
+  - hated
+  - all
+- - all
+  - tots
+  - infants
 - - came
   - scampering
   - into
@@ -227,12 +227,6 @@ ngrams:
 - - thereafter
   - peasants
   - would
-- - tot
-  - who
-  - now
-- - other
-  - henchmen
-  - who
 - - princely
   - effulgence
   - so
@@ -242,15 +236,21 @@ ngrams:
 - - unabated
   - so
   - terrific
-- - were
-  - many
-  - holes
+- - tot
+  - who
+  - now
+- - other
+  - henchmen
+  - who
 - - them
   - then
   - clanked
-- - long
-  - thereafter
-  - all
+- - peasants
+  - would
+  - often
+- - forget
+  - them
+  - then
 story:
   date: 2014-11-17
   id: 2014-11-17-the-reprehensible-tot

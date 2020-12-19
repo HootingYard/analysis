@@ -14,135 +14,135 @@ ngrams:
 - - broonzy
   - bucks
   - fizz
+- - heinz
+  - karl
+  - gruber
 - - augustus
   - pablo
   - bela
 - - psychedelic
   - furs
   - omara
-- - rorem
-  - quicksilver
-  - messenger
-- - heinz
-  - karl
-  - gruber
-- - bucks
-  - fizz
-  - augustus
 - - fizz
   - augustus
   - pablo
 - - karl
   - gruber
   - sibelius
-- - bela
-  - bartok
-  - cliff
-- - warlock
-  - carl
-  - ruggles
-- - conway
-  - twitty
-  - scriabin
+- - bucks
+  - fizz
+  - augustus
+- - rorem
+  - quicksilver
+  - messenger
 - - mercedes
   - sosa
   - jacques
 - - sosa
   - jacques
   - brel
-- - rocky
-  - outcrop
-  - buffeted
+- - bela
+  - bartok
+  - cliff
 - - jacques
   - brel
   - schubert
-- - shadows
-  - morton
-  - feldman
-- - perfumed
-  - dimity
-  - deckhand
+- - conway
+  - twitty
+  - scriabin
+- - warlock
+  - carl
+  - ruggles
+- - rocky
+  - outcrop
+  - buffeted
 - - dimity
   - deckhand
   - who'd
-- - bill
-  - broonzy
-  - bucks
-- - clock
-  - joan
-  - baez
-- - distract
-  - tugboat
-  - crews
+- - perfumed
+  - dimity
+  - deckhand
+- - shadows
+  - morton
+  - feldman
 - - gruber
   - sibelius
   - petula
+- - bill
+  - broonzy
+  - bucks
+- - distract
+  - tugboat
+  - crews
 - - clark
   - conway
   - twitty
+- - rented
+  - tugboat
+  - bagshaw
+- - clock
+  - joan
+  - baez
+- - civic
+  - coastline
+  - management
 - - strawberry
   - alarm
   - clock
 - - alarm
   - clock
   - joan
-- - rented
-  - tugboat
-  - bagshaw
-- - civic
-  - coastline
-  - management
 - - glagolitic
   - mass
   - blaring
+- - quicksilver
+  - messenger
+  - service
 - - george
   - formby
   - mercedes
+- - morton
+  - feldman
+  - charles
+- - sibelius
+  - petula
+  - clark
+- - tugboat
+  - crew
+  - playtime
+- - tugboat
+  - crew
+  - playtime
+- - petula
+  - clark
+  - conway
 - - dynamite
   - george
   - formby
 - - ned
   - rorem
   - quicksilver
-- - morton
-  - feldman
-  - charles
-- - quicksilver
-  - messenger
-  - service
-- - bartok
-  - cliff
-  - richard
 - - audio
   - dynamite
   - george
+- - bartok
+  - cliff
+  - richard
 - - feldman
   - charles
   - ives
-- - tugboat
-  - crew
-  - playtime
-- - tugboat
-  - crew
-  - playtime
-- - seafaring
-  - information
-  - channels
-- - sibelius
-  - petula
-  - clark
-- - petula
-  - clark
-  - conway
-- - omara
-  - portuondo
-  - burning
 - - spear
   - peter
   - warlock
 - - peter
   - warlock
   - carl
+- - seafaring
+  - information
+  - channels
+- - omara
+  - portuondo
+  - burning
 - - portuondo
   - burning
   - spear
@@ -155,63 +155,60 @@ ngrams:
 - - fashionable
   - fat
   - fountain
-- - ahab
-  - figure
-  - obsessed
 - - deckhand
   - who'd
   - cut
-- - puffin
-  - boy
-  - retune
+- - ahab
+  - figure
+  - obsessed
 - - memphis
   - jug
   - band
 - - puffin
   - boy
-  - blundered
-- - fat
-  - fountain
-  - pen
-- - fat
-  - fountain
-  - pen
-- - tugboat
-  - crew
-  - members
+  - retune
 - - seaside
   - bureaucrat
   - representative
+- - tugboat
+  - crew
+  - members
+- - fat
+  - fountain
+  - pen
+- - fat
+  - fountain
+  - pen
 - - jug
   - band
   - al
+- - puffin
+  - boy
+  - blundered
+- - chong
+  - neutral
+  - milk
 - - radio
   - cabin
   - forbidding
 - - burning
   - spear
   - peter
-- - chong
-  - neutral
-  - milk
 - - demonic
   - badger
   - whatever
 - - ones
   - rotting
   - ones
-- - gleaming
-  - ones
-  - ones
 - - crew
   - particularly
   - puffin
-- - big
-  - audio
-  - dynamite
-- - ives
-  - big
-  - audio
+- - gleaming
+  - ones
+  - ones
+- - neutral
+  - milk
+  - hotel
 - - dyspeptic
   - tugboat
   - captain
@@ -219,38 +216,47 @@ ngrams:
   - captain
   - bagshaw
 - - big
-  - bill
-  - broonzy
-- - neutral
-  - milk
-  - hotel
-- - sinister
-  - black
-  - woollen
-- - black
-  - woollen
-  - gloves
+  - audio
+  - dynamite
+- - ives
+  - big
+  - audio
 - - malevolence
   - i've
   - done
 - - particularly
   - puffin
   - boy
+- - big
+  - bill
+  - broonzy
 - - important
   - seafaring
   - information
 - - explained
   - whoever
   - wrote
-- - charles
-  - ives
-  - big
+- - sinister
+  - black
+  - woollen
+- - black
+  - woollen
+  - gloves
+- - main
+  - business
+  - seemed
 - - captain's
   - black
   - gloves
+- - charles
+  - ives
+  - big
 - - black
   - gloves
   - scribbling
+- - cubbyhole
+  - squeezed
+  - under
 - - sinister
   - black
   - gloves
@@ -260,12 +266,6 @@ ngrams:
 - - wore
   - sinister
   - black
-- - main
-  - business
-  - seemed
-- - cubbyhole
-  - squeezed
-  - under
 - - tugboat
   - tales
   - number
@@ -287,72 +287,72 @@ ngrams:
 - - darn
   - something
   - malevolently
-- - tiny
-  - ones
-  - rotting
-- - often
-  - became
-  - tattered
-- - deck
-  - let
-  - alone
-- - brian
-  - dennis
-  - brain
-- - seen
-  - captain
-  - bagshaw
 - - story
   - clearly
   - felt
-- - blue
-  - months
-  - later
-- - long
-  - paragraph
-  - leaden
+- - brian
+  - dennis
+  - brain
+- - often
+  - became
+  - tattered
+- - seen
+  - captain
+  - bagshaw
+- - tiny
+  - ones
+  - rotting
+- - deck
+  - let
+  - alone
 - - admittedly
   - gloves
   - yet
 - - radio
   - cabin
   - quite
+- - long
+  - paragraph
+  - leaden
+- - blue
+  - months
+  - later
 - - mind
   - however
   - i'm
-- - captain's
-  - enigmatic
-  - little
-- - however
-  - i'm
-  - sure
 - - say
   - siegfried
   - sassoon
-- - enigmatic
+- - however
+  - i'm
+  - sure
+- - captain's
+  - enigmatic
   - little
-  - ways
 - - malevolently
   - though
   - god
+- - enigmatic
+  - little
+  - ways
 - - world
   - big
   - ones
 - - waves
   - peering
   - through
-- - found
-  - himself
-  - soaring
 - - though
   - god
   - knows
-- - cabin
-  - forbidding
-  - any
+- - found
+  - himself
+  - soaring
 - - something
   - malevolently
   - though
+- - cabin
+  - forbidding
+  - any
 - - woollen
   - gloves
   - even
@@ -365,6 +365,9 @@ ngrams:
 - - months
   - after
   - reading
+- - old
+  - sea
+  - dog
 - - puffin
   - boy
   - now
@@ -374,108 +377,105 @@ ngrams:
 - - now
   - puffin
   - boy
-- - old
-  - sea
-  - dog
 - - can't
   - remember
   - where
-- - its
-  - crew
-  - particularly
-- - very
-  - long
-  - paragraph
-- - factual
-  - rather
-  - than
 - - might
   - darn
   - something
+- - its
+  - crew
+  - particularly
+- - factual
+  - rather
+  - than
 - - rather
   - than
   - malevolent
-- - slip
-  - some
-  - coinage
+- - very
+  - long
+  - paragraph
 - - anything
   - more
   - complicated
+- - tugboat
+  - even
+  - though
+- - slip
+  - some
+  - coinage
 - - him
   - screeching
   - madly
 - - words
   - like
   - orb
-- - tugboat
-  - even
-  - though
 - - him
   - puffin
   - boy
 - - mellifluous
   - voices
   - who
-- - who
-  - wore
-  - sinister
 - - time
   - called
   - tugboat
-- - call
-  - him
-  - puffin
+- - who
+  - wore
+  - sinister
 - - who
   - played
   - tunes
-- - let's
-  - call
-  - him
-- - voices
-  - who
-  - played
 - - carried
   - 'off'
   - over
+- - call
+  - him
+  - puffin
 - - convenience
   - 'no'
   - let's
-- - only
-  - just
-  - occurred
+- - voices
+  - who
+  - played
+- - let's
+  - call
+  - him
 - - cabin
   - 'no'
   - illustrations
 - - 'no'
   - illustrations
   - accompanied
+- - only
+  - just
+  - occurred
 - - their
   - tugboat
   - duties
 - - administrators
   - their
   - main
-- - tugboat
-  - captain
-  - who
 - - radio
   - cabin
   - 'no'
+- - tugboat
+  - captain
+  - who
 - - captain
   - who
   - wore
-- - around
-  - him
-  - screeching
-- - only
-  - years
-  - later
-- - only
-  - did
-  - puffin
 - - their
   - main
   - business
+- - only
+  - did
+  - puffin
+- - only
+  - years
+  - later
+- - around
+  - him
+  - screeching
 - - gathered
   - around
   - him
@@ -494,45 +494,45 @@ ngrams:
 - - about
   - manage
   - simple
+- - boy
+  - blundered
+  - into
 - - him
   - say
   - siegfried
-- - boy
-  - blundered
+- - struck
+  - fear
   - into
 - - crew
   - certainly
   - were
-- - struck
-  - fear
-  - into
 - - certainly
   - were
   - except
-- - carried
-  - him
-  - through
+- - glistening
+  - sea
+  - into
 - - black
   - gloves
   - were
+- - carried
+  - him
+  - through
 - - call
   - him
   - say
 - - made
   - him
   - less
-- - glistening
-  - sea
-  - into
 - - birds
   - were
   - gathered
-- - were
-  - gathered
-  - around
 - - would
   - include
   - works
+- - were
+  - gathered
+  - around
 story:
   date: 2007-05-18
   id: 2007-05-18-tugboat-tales-number-one

@@ -26,12 +26,12 @@ ngrams:
 - - country
   - lane
   - unlikely
-- - paper
-  - stars
-  - glued
 - - dipsy
   - limping
   - along
+- - paper
+  - stars
+  - glued
 - - literary
   - awards
   - under
@@ -44,30 +44,30 @@ ngrams:
 - - story
   - however
   - improbable
+- - pointy
+  - red
+  - hat
 - - however
   - improbable
   - however
 - - find
   - ourselves
   - walking
-- - pointy
-  - red
-  - hat
 - - little
   - details
   - reappear
 - - care
   - two
   - pins
-- - lane
-  - little
-  - details
 - - ceiling
   - long
   - ago
 - - already
   - tempted
   - us
+- - lane
+  - little
+  - details
 - - our
   - bellies
   - warm
@@ -77,21 +77,21 @@ ngrams:
 - - say
   - whose
   - infelicities
-- - bed
-  - our
-  - bellies
 - - accepts
   - such
   - improbabilities
-- - her
-  - belt
-  - introduces
+- - bed
+  - our
+  - bellies
 - - our
   - eyes
   - fixed
 - - milk
   - our
   - eyes
+- - her
+  - belt
+  - introduces
 - - some
   - magical
   - cure
@@ -110,18 +110,18 @@ ngrams:
 - - erupt
   - accompanied
   - 'no'
-- - 'no'
-  - compelling
-  - reason
-- - accompanied
-  - 'no'
-  - doubt
 - - might
   - even
   - chuck
 - - might
   - even
   - happen
+- - 'no'
+  - compelling
+  - reason
+- - accompanied
+  - 'no'
+  - doubt
 - - totter
   - about
   - fumbling
@@ -161,15 +161,15 @@ ngrams:
 - - neck
   - we
   - simply
+- - so
+  - equally
+  - quickly
 - - night
   - sky
   - will
 - - are
   - growing
   - increasingly
-- - so
-  - equally
-  - quickly
 - - we
   - find
   - ourselves
@@ -188,9 +188,6 @@ ngrams:
 - - us
   - if
   - ever
-- - they
-  - fade
-  - like
 - - long
   - ago
   - so
@@ -200,12 +197,12 @@ ngrams:
 - - moment
   - where
   - we
+- - they
+  - fade
+  - like
 - - ever
   - we
   - find
-- - them
-  - happily
-  - into
 - - accept
   - them
   - when
@@ -215,21 +212,24 @@ ngrams:
 - - indeed
   - one
   - continues
-- - children
-  - we
-  - do
+- - them
+  - happily
+  - into
 - - dipsy
   - dutch
   - or
 - - dutch
   - or
   - flemish
-- - printed
-  - nonsense
-  - from
+- - children
+  - we
+  - do
 - - where
   - we
   - say
+- - printed
+  - nonsense
+  - from
 story:
   date: 2014-01-27
   id: 2014-01-27-the-brass-necked-goose

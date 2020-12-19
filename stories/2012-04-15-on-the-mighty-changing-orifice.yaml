@@ -11,24 +11,24 @@ ngrams:
 - - cloth
   - paper
   - scissors
+- - difference
+  - between
+  - improved
+- - boiling
+  - hot
+  - tea
 - - pour
   - boiling
   - water
 - - pouring
   - boiling
   - water
-- - boiling
-  - hot
-  - tea
-- - difference
-  - between
-  - improved
-- - wrap
-  - wrapping
-  - around
 - - empty
   - spoon
   - under
+- - wrap
+  - wrapping
+  - around
 - - whirling
   - quite
   - apart
@@ -50,6 +50,9 @@ ngrams:
 - - whose
   - words
   - hold
+- - hook
+  - nor
+  - indeed
 - - leafing
   - idly
   - through
@@ -59,9 +62,6 @@ ngrams:
 - - found
   - myself
   - riveted
-- - hook
-  - nor
-  - indeed
 - - sure
   - enough
   - nothing
@@ -74,78 +74,78 @@ ngrams:
 - - us
   - care
   - enough
-- - very
-  - small
-  - standard
 - - make
   - another
   - cup
+- - very
+  - small
+  - standard
 - - other
   - makers
   - ms
-- - now
-  - empty
-  - spoon
 - - explain
   - its
   - mightiness
+- - now
+  - empty
+  - spoon
 - - its
   - mightiness
   - sure
+- - boiling
+  - water
+  - upon
+- - boiling
+  - water
+  - upon
 - - some
   - orifices
   - require
-- - boiling
-  - water
-  - upon
-- - boiling
-  - water
-  - upon
-- - turned
-  - her
-  - attention
 - - rest
   - until
   - such
+- - turned
+  - her
+  - attention
 - - brought
   - up
   - ashford
-- - hers
-  - like
-  - those
 - - confounded
   - orifices
   - what
+- - hers
+  - like
+  - those
 - - discount
   - them
   - because
 - - mighty
   - what
   - changes
+- - cutlery
+  - drawer
+  - when
 - - room
   - picked
   - up
 - - were
   - dashed
   - ms
-- - cutlery
-  - drawer
-  - when
 - - subtitled
   - it's
   - about
-- - about
-  - making
-  - yarn
-- - up
-  - ashford
-  - again
 - - crying
   - out
   - loud
+- - about
+  - making
+  - yarn
 - - wished
   - if
   - possible
+- - up
+  - ashford
+  - again
 - - sure
   - what
   - precisely
@@ -158,27 +158,24 @@ ngrams:
 - - care
   - enough
   - about
-- - now
-  - she
-  - turned
-- - hold
-  - me
-  - spellbound
-- - she
-  - turned
-  - her
-- - cast
-  - all
-  - thoughts
 - - then
   - could
   - predict
-- - tea
-  - prompted
+- - hold
   - me
+  - spellbound
+- - cast
+  - all
+  - thoughts
 - - draining
   - board
   - there
+- - tea
+  - prompted
+  - me
+- - now
+  - she
+  - turned
 - - sheep
   - told
   - me
@@ -194,180 +191,180 @@ ngrams:
 - - until
   - such
   - time
+- - speed
+  - so
+  - keen
+- - she
+  - turned
+  - her
 - - become
   - clear
   - they
 - - words
   - hold
   - me
-- - speed
-  - so
-  - keen
-- - their
-  - other
-  - titles
 - - would
   - become
   - clear
 - - high
   - speed
   - so
-- - undergone
-  - all
-  - these
+- - their
+  - other
+  - titles
 - - came
   - there
   - none
 - - answer
   - came
   - there
+- - undergone
+  - all
+  - these
 - - told
   - me
   - something
 - - all
   - these
   - questions
-- - about
-  - her
-  - admittedly
+- - among
+  - their
+  - other
 - - orifices
   - require
   - an
 - - an
   - arresting
   - confession
-- - among
-  - their
-  - other
 - - an
   - american
   - publication
-- - an
-  - article
-  - entitled
+- - about
+  - her
+  - admittedly
 - - either
   - an
   - improved
-- - designed
-  - an
-  - open
 - - anything
   - so
   - long
+- - an
+  - article
+  - entitled
+- - designed
+  - an
+  - open
 - - hand
   - an
   - american
-- - something
-  - about
-  - her
 - - all
   - becoming
   - more
 - - would
   - explain
   - its
-- - this
-  - because
-  - jonathan
 - - thumping
   - or
   - bouncing
-- - non
-  - sequitur
-  - but
-- - other
-  - titles
-  - are
 - - encounter
   - thumping
   - or
-- - kettle
-  - had
-  - come
+- - this
+  - because
+  - jonathan
+- - something
+  - about
+  - her
+- - non
+  - sequitur
+  - but
+- - half
+  - moon
+  - or
 - - mine
   - but
   - pansy
+- - sheep
+  - but
+  - answer
+- - other
+  - titles
+  - are
+- - nor
+  - indeed
+  - one
 - - idly
   - through
   - one
 - - american
   - publication
   - from
-- - nor
-  - indeed
-  - one
-- - half
-  - moon
-  - or
-- - sheep
-  - but
-  - answer
+- - kettle
+  - had
+  - come
 - - do
   - anything
   - so
-- - had
-  - done
-  - away
-- - do
-  - so
-  - often
 - - ashford
   - again
   - but
-- - sofa
-  - at
-  - high
-- - them
-  - because
-  - they
-- - at
-  - high
-  - speed
-- - they
-  - were
-  - dashed
-- - quite
-  - apart
-  - from
-- - touch
-  - not
-  - afforded
 - - tea
   - or
   - until
+- - do
+  - so
+  - often
 - - but
   - answer
   - came
+- - touch
+  - not
+  - afforded
+- - sofa
+  - at
+  - high
+- - at
+  - high
+  - speed
+- - them
+  - because
+  - they
+- - not
+  - careful
+  - encounter
+- - quite
+  - apart
+  - from
+- - had
+  - done
+  - away
+- - they
+  - were
+  - dashed
+- - be
+  - told
+  - orifices
 - - by
   - ashford
   - kromski
 - - not
-  - careful
-  - encounter
-- - riveted
-  - by
-  - ms
+  - particularly
+  - surprised
 - - gain
   - at
   - least
-- - be
-  - told
-  - orifices
+- - riveted
+  - by
+  - ms
 - - clear
   - they
   - were
-- - not
-  - particularly
-  - surprised
-- - them
-  - after
-  - all
-- - she
-  - had
-  - mentioned
 - - can't
   - do
   - this
+- - them
+  - after
+  - all
 - - making
   - yarn
   - by
@@ -377,50 +374,53 @@ ngrams:
 - - me
   - something
   - about
-- - yarn
-  - by
-  - hand
-- - myself
-  - riveted
-  - by
-- - have
-  - scampered
-  - back
 - - not
   - yet
   - ponder
-- - all
-  - would
-  - become
-- - process
-  - so
-  - all
+- - yarn
+  - by
+  - hand
+- - have
+  - scampered
+  - back
 - - might
   - have
   - guessed
-- - not
-  - another
-  - word
+- - myself
+  - riveted
+  - by
+- - she
+  - had
+  - mentioned
 - - hook
   - or
   - do
+- - all
+  - would
+  - become
+- - not
+  - another
+  - word
+- - process
+  - so
+  - all
 - - me
   - what
   - might
-- - made
-  - by
-  - ashford
 - - least
   - not
   - yet
+- - made
+  - by
+  - ashford
 - - tie
   - my
   - shoelaces
-- - what
-  - changes
-  - had
 - - avoid
   - spilling
+  - my
+- - draining
+  - board
   - my
 story:
   date: 2012-04-15

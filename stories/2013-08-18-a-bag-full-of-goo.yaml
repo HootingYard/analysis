@@ -1,22 +1,22 @@
 ngrams:
-- - analysis
-  - casts
-  - daddy
 - - daddy
   - sylvia
   - plath
+- - analysis
+  - casts
+  - daddy
 - - fearless
   - textual
   - analysis
 - - textual
   - analysis
   - casts
-- - incomprehension
-  - aeroplane
-  - engine
 - - military
   - aviation
   - services
+- - incomprehension
+  - aeroplane
+  - engine
 - - national
   - military
   - aviation
@@ -83,60 +83,57 @@ ngrams:
 - - note
   - goo
   - must
-- - person
-  - should
-  - either
 - - aviation
   - services
   - might
-- - dead
-  - man
-  - restored
+- - person
+  - should
+  - either
 - - squeezy
   - tubes
   - than
-- - consistency
-  - any
-  - goo
 - - such
   - fearless
   - textual
+- - consistency
+  - any
+  - goo
+- - store
+  - such
+  - fearless
+- - goods
+  - store
+  - such
 - - many
   - different
   - purposes
 - - many
   - different
   - types
-- - store
-  - such
-  - fearless
 - - god
   - just
   - wander
-- - goods
-  - store
-  - such
-- - our
-  - puny
-  - human
-- - our
-  - puny
-  - human
+- - dead
+  - man
+  - restored
 - - likely
   - proposition
   - than
 - - just
   - wander
   - along
+- - our
+  - puny
+  - human
+- - our
+  - puny
+  - human
 - - its
   - original
   - container
 - - against
   - miracles
   - where
-- - her
-  - mad
-  - poem
 - - more
   - likely
   - proposition
@@ -149,54 +146,57 @@ ngrams:
 - - can
   - apply
   - david
+- - her
+  - mad
+  - poem
+- - sylvia
+  - plath
+  - has
 - - typesetting
   - error
   - has
 - - error
   - has
   - persisted
-- - sylvia
-  - plath
-  - has
 - - gwyneth
   - paltrow
   - who
-- - somebody
-  - has
-  - managed
 - - error
   - has
   - occurred
+- - somebody
+  - has
+  - managed
 - - other
   - uses
   - too
 - - could
   - get
   - hold
-- - your
-  - nearest
-  - supermarket
 - - far
   - more
   - likely
 - - what
   - plath
   - originally
-- - more
-  - often
-  - found
+- - your
+  - nearest
+  - supermarket
 - - too
   - goo
   - can
+- - more
+  - often
+  - found
 - - its
   - consistency
   - any
+- - aeroplane
+  - engines
+  - if
 - - articles
   - about
   - poor
-- - original
-  - container
-  - into
 story:
   date: 2013-08-18
   id: 2013-08-18-a-bag-full-of-goo

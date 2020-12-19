@@ -5,15 +5,15 @@ ngrams:
 - - packaging
   - paint
   - plasticine
+- - flies
+  - midges
+  - ticks
 - - cashew
   - nuts
   - delicately
 - - nuts
   - delicately
   - carved
-- - flies
-  - midges
-  - ticks
 - - plastic
   - packaging
   - paint
@@ -26,21 +26,21 @@ ngrams:
 - - using
   - firewood
   - netting
-- - historical
-  - records
-  - meant
 - - thousands
   - scattered
   - hither
+- - historical
+  - records
+  - meant
 - - model
   - using
   - firewood
-- - pang
-  - hill
-  - orphanage
 - - scale
   - model
   - using
+- - pang
+  - hill
+  - orphanage
 - - dobson's
   - model
   - nod
@@ -56,18 +56,27 @@ ngrams:
 - - corrugated
   - cardboard
   - among
-- - similar
-  - tiny
-  - flying
 - - things
   - careful
   - analysis
+- - similar
+  - tiny
+  - flying
 - - holy
   - land
   - nor
 - - swept
   - away
   - swept
+- - many
+  - flies
+  - midges
+- - extraterrestrial
+  - spaceship
+  - here
+- - first
+  - murderer
+  - lived
 - - brother
   - abel
   - dobson
@@ -77,63 +86,54 @@ ngrams:
 - - pitch
   - dobson
   - built
-- - extraterrestrial
-  - spaceship
-  - here
-- - many
-  - flies
-  - midges
+- - built
+  - nod
+  - before
 - - burning
   - pitch
   - dobson
 - - building
   - dobson
   - believed
-- - first
-  - murderer
-  - lived
-- - built
-  - nod
-  - before
-- - such
-  - painstaking
-  - miniature
 - - land
   - nor
   - indeed
-- - nod
-  - before
-  - writing
+- - such
+  - painstaking
+  - miniature
 - - larger
   - forms
   - such
+- - nod
+  - before
+  - writing
 - - miserable
   - days
   - here
-- - before
-  - marigold
-  - chew
 - - other
   - historical
   - records
+- - before
+  - marigold
+  - chew
 - - course
   - never
   - travelled
 - - away
   - swept
   - away
-- - hill
-  - orphanage
-  - some
 - - cardboard
   - among
   - other
+- - hill
+  - orphanage
+  - some
 - - scholars
   - who
   - accuse
-- - biblical
-  - scholars
-  - who
+- - other
+  - things
+  - careful
 story:
   date: 2004-10-28
   id: 2004-10-28-with-dobson-in-the-land-of-nod

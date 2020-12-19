@@ -8,12 +8,12 @@ ngrams:
 - - thundering
   - ocean
   - dashed
-- - flames
-  - roared
-  - pitilessly
 - - prodigal
   - daughter
   - returning
+- - flames
+  - roared
+  - pitilessly
 - - crashing
   - waves
   - tumbled
@@ -29,15 +29,18 @@ ngrams:
 - - spirits
   - cotton
   - goods
-- - scarcely
-  - waited
-  - till
 - - articles
   - equally
   - combustible
+- - scarcely
+  - waited
+  - till
 - - dry
   - provisions
   - spirits
+- - equally
+  - combustible
+  - burned
 - - vessel
   - disappeared
   - dawn
@@ -47,78 +50,75 @@ ngrams:
 - - moving
   - ourselves
   - slowly
-- - equally
-  - combustible
-  - burned
-- - timetables
-  - soup
-  - recipes
-- - thousand
-  - deranged
-  - baby
-- - covered
-  - bodies
-  - despite
-- - ship
-  - proved
-  - unsuccessful
 - - startlingly
   - modern
   - approach
-- - deranged
+- - thousand
+  - deranged
   - baby
-  - pigs
+- - timetables
+  - soup
+  - recipes
 - - seaside
   - museum
   - unvisited
+- - covered
+  - bodies
+  - despite
+- - deranged
+  - baby
+  - pigs
 - - godforsaken
   - seaside
   - museum
+- - ship
+  - proved
+  - unsuccessful
 - - angel
   - appeared
   - momentarily
-- - railway
-  - timetables
-  - soup
 - - solid
   - ground
   - absorbed
+- - railway
+  - timetables
+  - soup
 - - pie
   - shop
   - pantry
-- - frequently
-  - hailed
-  - during
 - - shop
   - pantry
   - thoughts
+- - frequently
+  - hailed
+  - during
 - - discovering
   - land
   - ahead
 - - got
   - ashore
   - therefore
-- - use
-  - biblical
-  - numbers
-- - th
-  - century
-  - author
 - - ocean
   - dashed
   - against
 - - dashed
   - against
   - rocks
+- - use
+  - biblical
+  - numbers
+- - th
+  - century
+  - author
+- - paddles
+  - good
+  - victorians
 - - dobson's
   - amanuensis
   - marigold
 - - amanuensis
   - marigold
   - chew
-- - paddles
-  - good
-  - victorians
 - - infected
   - parents
   - home
@@ -131,45 +131,45 @@ ngrams:
 - - passengers
   - encouraged
   - each
-- - black
-  - forbidding
-  - sky
-- - destruction
-  - great
-  - crashing
-- - great
-  - crashing
-  - waves
-- - become
-  - almost
-  - intolerable
-- - absorbed
-  - every
-  - feeling
 - - party
   - having
   - retired
-- - own
-  - narrow
-  - escape
+- - become
+  - almost
+  - intolerable
+- - destruction
+  - great
+  - crashing
 - - neither
   - bread
   - nor
-- - feeling
+- - black
+  - forbidding
+  - sky
+- - great
+  - crashing
+  - waves
+- - absorbed
   - every
   - feeling
+- - own
+  - narrow
+  - escape
+- - heavy
+  - rain
+  - having
 - - things
   - railway
   - timetables
 - - however
   - soon
   - ceased
-- - heavy
-  - rain
-  - having
 - - mundane
   - things
   - railway
+- - feeling
+  - every
+  - feeling
 - - same
   - title
   - published
@@ -179,111 +179,117 @@ ngrams:
 - - next
   - moment
   - leaving
-- - take
-  - fire
-  - drove
 - - ground
   - absorbed
   - every
+- - take
+  - fire
+  - drove
 - - subjects
   - most
   - suitable
 - - vessel
   - neared
   - us
-- - greenland
-  - little
-  - knowing
 - - bread
   - nor
   - water
-- - old
-  - salt
-  - developed
-- - most
-  - astute
-  - reader
+- - greenland
+  - little
+  - knowing
 - - rain
   - still
   - poured
+- - old
+  - salt
+  - developed
 - - aquatic
   - being
   - resembling
+- - most
+  - astute
+  - reader
 - - rocks
   - convinced
   - us
-- - eldritch
-  - aquatic
-  - being
-- - ferocious
-  - cataclysm
-  - made
 - - parents
   - home
   - home
+- - eldritch
+  - aquatic
+  - being
 - - astonishing
   - how
   - determined
-- - biblical
-  - numbers
-  - many
 - - ashore
   - therefore
   - many
+- - biblical
+  - numbers
+  - many
+- - ferocious
+  - cataclysm
+  - made
 - - masts
   - after
   - swaying
-- - last
-  - four
-  - months
-- - moment
-  - dazzling
-  - us
 - - myself
   - took
   - comfort
+- - moment
+  - dazzling
+  - us
 - - ourselves
   - slowly
   - through
 - - set
   - sail
   - once
-- - soon
-  - take
-  - fire
+- - perished
+  - before
+  - assistance
 - - our
   - inexpressible
   - distress
 - - considerably
   - diminished
   - our
+- - soon
+  - take
+  - fire
+- - last
+  - four
+  - months
 - - moment
   - leaving
   - us
-- - perished
-  - before
-  - assistance
 - - excited
   - our
   - deepest
 - - mayhem
   - our
   - ship's
-- - rose
-  - our
-  - anxiety
+- - proved
+  - very
+  - useful
 - - our
   - ship's
   - artist
+- - rose
+  - our
+  - anxiety
 - - our
   - hectic
   - progress
 - - hectic
   - progress
   - our
-- - proved
-  - very
-  - useful
+- - waves
+  - tumbled
+  - over
+- - circumstances
+  - those
+  - circumstances
 - - progress
   - our
   - situation
@@ -293,45 +299,39 @@ ngrams:
 - - our
   - partially
   - covered
-- - waves
-  - tumbled
-  - over
-- - darkness
-  - relieved
-  - only
-- - circumstances
-  - those
-  - circumstances
+- - new
+  - text
+  - within
+- - once
+  - again
+  - step
+- - any
+  - imaginable
+  - planet
 - - after
   - dobson's
   - amanuensis
 - - our
   - stately
   - ship
-- - once
-  - again
-  - step
-- - new
-  - text
-  - within
-- - diminished
-  - our
-  - feet
 - - every
   - feeling
   - every
+- - darkness
+  - relieved
+  - only
+- - diminished
+  - our
+  - feet
 - - sun
   - rose
   - our
-- - any
-  - imaginable
-  - planet
-- - our
-  - feet
-  - nevertheless
 - - hammocks
   - soon
   - after
+- - our
+  - feet
+  - nevertheless
 - - great
   - violence
   - while
@@ -341,264 +341,396 @@ ngrams:
 - - blustered
   - around
   - us
-- - our
-  - th
-  - century
 - - soft
   - now
   - deafeningly
-- - three
-  - oars
-  - those
-- - now
-  - deafeningly
-  - loud
-- - vessel
-  - lest
-  - she
 - - its
   - shelves
   - stacked
-- - few
-  - paddles
-  - made
-- - seething
-  - noises
-  - like
-- - only
-  - three
+- - now
+  - deafeningly
+  - loud
+- - our
+  - th
+  - century
+- - three
   - oars
-- - other
-  - articles
-  - equally
-- - pigs
-  - now
-  - soft
+  - those
 - - ourselves
   - should
   - never
-- - baby
-  - pigs
-  - now
-- - its
-  - embroidered
-  - scene
-- - our
-  - social
-  - home
+- - few
+  - paddles
+  - made
+- - other
+  - articles
+  - equally
+- - seething
+  - noises
+  - like
 - - then
   - considerably
   - diminished
-- - us
-  - every
-  - means
-- - shop
-  - its
-  - shelves
-- - bringing
-  - away
-  - two
-- - pie
-  - shop
-  - its
-- - perilous
-  - indeed
-  - only
-- - truly
-  - magnificent
-  - could
-- - our
-  - great
-  - relief
+- - pigs
+  - now
+  - soft
+- - its
+  - embroidered
+  - scene
+- - baby
+  - pigs
+  - now
 - - jar
   - upon
   - jar
-- - time
-  - extremely
-  - perilous
 - - our
-  - own
-  - narrow
+  - social
+  - home
+- - shop
+  - its
+  - shelves
+- - us
+  - every
+  - means
+- - vessel
+  - lest
+  - she
+- - only
+  - three
+  - oars
+- - truly
+  - magnificent
+  - could
+- - pie
+  - shop
+  - its
 - - own
   - circumstances
   - those
+- - perilous
+  - indeed
+  - only
 - - jungle
   - without
   - any
+- - time
+  - extremely
+  - perilous
+- - bringing
+  - away
+  - two
 - - discerned
   - more
   - clearly
+- - our
+  - own
+  - narrow
+- - our
+  - great
+  - relief
 - - more
   - alone
   - bound
-- - expressed
-  - some
-  - unwillingness
-- - our
-  - own
-  - circumstances
-- - battering
-  - orb
-  - some
-- - again
-  - step
-  - over
-- - some
-  - eldritch
-  - aquatic
 - - without
   - any
   - appearance
-- - our
-  - account
-  - should
+- - again
+  - step
+  - over
 - - great
   - probability
   - even
 - - probability
   - even
   - yet
-- - us
-  - our
-  - stately
-- - object
-  - before
-  - us
+- - our
+  - own
+  - circumstances
+- - our
+  - account
+  - should
+- - expressed
+  - some
+  - unwillingness
+- - battering
+  - orb
+  - some
+- - some
+  - eldritch
+  - aquatic
 - - astute
   - reader
   - can
-- - some
-  - godforsaken
-  - seaside
-- - lest
-  - she
-  - should
-- - she
-  - should
-  - explode
+- - object
+  - before
+  - us
+- - us
+  - our
+  - stately
 - - vessel
   - assuring
   - them
+- - even
+  - yet
+  - although
 - - tumbled
   - over
   - us
+- - some
+  - godforsaken
+  - seaside
 - - encouraged
   - each
   - other
 - - wily
   - sailor
   - who
-- - even
-  - yet
-  - although
-- - ladies
-  - who
-  - bore
 - - should
   - never
   - again
-- - author
-  - who
-  - ignores
 - - cabin
   - just
   - before
-- - our
-  - first
-  - object
+- - ladies
+  - who
+  - bore
 - - every
   - other
   - sentence
+- - author
+  - who
+  - ignores
+- - our
+  - first
+  - object
 - - damned
   - our
   - first
+- - sail
+  - once
+  - more
+- - lest
+  - she
+  - should
+- - she
+  - should
+  - explode
 - - jesuit
   - priest
   - who
 - - our
   - wants
   - before
-- - chew
-  - who
-  - pioneered
-- - sail
-  - once
-  - more
-- - their
-  - vessel
-  - assuring
 - - dresses
   - supplied
   - their
+- - their
+  - vessel
+  - assuring
 - - supplied
   - their
   - supernumerary
-- - indeed
-  - only
-  - once
 - - their
   - supernumerary
   - articles
 - - animate
   - their
   - spirits
+- - indeed
+  - only
+  - once
 - - their
   - spirits
   - throwing
-- - let
-  - us
-  - just
-- - century
-  - author
-  - who
 - - once
   - more
   - alone
-- - around
+- - chew
+  - who
+  - pioneered
+- - let
   - us
-  - after
-- - never
-  - again
-  - see
+  - just
 - - nor
   - water
   - could
-- - marigold
-  - chew
+- - century
+  - author
   - who
-- - been
-  - child's
-  - play
+- - never
+  - again
+  - see
 - - neared
   - us
   - more
-- - been
-  - taking
-  - confessions
+- - around
+  - us
+  - after
 - - their
   - hammocks
   - soon
+- - been
+  - child's
+  - play
+- - marigold
+  - chew
+  - who
 - - chat
   - about
   - mundane
 - - canister
   - about
   - noon
+- - been
+  - taking
+  - confessions
+- - before
+  - assistance
+  - could
 - - were
   - greatly
   - relieved
-- - our
-  - rest
-  - now
+- - dreadful
+  - crash
+  - into
 - - were
   - frequently
   - hailed
 - - were
   - gradually
   - consumed
+- - our
+  - rest
+  - now
+- - gas
+  - canister
+  - about
+- - situation
+  - were
+  - greatly
 - - sides
   - were
   - consumed
+- - porter
+  - were
+  - handed
+- - nevertheless
+  - were
+  - drenched
+- - us
+  - just
+  - say
+- - contents
+  - were
+  - gradually
+- - circumstances
+  - were
+  - perilous
+- - very
+  - next
+  - day
+- - board
+  - were
+  - astonished
+- - were
+  - drenched
+  - except
+- - got
+  - 'no'
+  - further
+- - now
+  - soft
+  - now
+- - four
+  - months
+  - been
+- - only
+  - once
+  - before
+- - about
+  - four
+  - score
+- - feet
+  - nevertheless
+  - were
+- - two
+  - ladies
+  - who
+- - can
+  - only
+  - guess
+- - port
+  - all
+  - exertions
+- - before
+  - us
+  - our
+- - inexpressible
+  - distress
+  - we
+- - reader
+  - can
+  - only
+- - roared
+  - pitilessly
+  - we
+- - about
+  - mundane
+  - things
+- - them
+  - our
+  - situation
+- - we
+  - scarcely
+  - waited
+- - we
+  - happily
+  - succeeded
+- - were
+  - perilous
+  - indeed
+- - aboard
+  - we
+  - cursed
+- - bodies
+  - despite
+  - there
+- - boat
+  - we
+  - assisted
+- - noon
+  - we
+  - reached
+- - tempest
+  - struck
+  - we
+- - distress
+  - we
+  - discovered
+- - circumstances
+  - would
+  - admit
+- - made
+  - their
+  - escape
+- - struck
+  - we
+  - happily
+- - boats
+  - we
+  - tried
+- - we
+  - abandoned
+  - ship
+- - more
+  - than
+  - once
+- - raged
+  - so
+  - fiercely
+- - up
+  - our
+  - spirits
 story:
   date: 2004-09-08
   id: 2004-09-08-escape-from-a-ship-on-fire

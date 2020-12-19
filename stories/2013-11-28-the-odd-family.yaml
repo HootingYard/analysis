@@ -2,15 +2,15 @@ ngrams:
 - - solomon
   - roger
   - james
+- - roger
+  - james
+  - matthew
+- - roger
+  - james
+  - matthew
 - - eccentricities
   - volume
   - ii
-- - roger
-  - james
-  - matthew
-- - roger
-  - james
-  - matthew
 - - recovered
   - roger
   - james
@@ -29,12 +29,12 @@ ngrams:
 - - event
   - remarkably
   - good
-- - left
-  - ear
-  - bit
 - - christian
   - names
   - always
+- - left
+  - ear
+  - bit
 - - every
   - event
   - remarkably
@@ -53,27 +53,27 @@ ngrams:
 - - odd
   - circumstances
   - never
-- - ear
-  - bit
-  - 'off'
 - - circumstances
   - never
   - occurred
+- - ear
+  - bit
+  - 'off'
 - - white
   - yet
   - every
-- - only
-  - three
-  - fingers
 - - five
   - days
   - after
-- - her
-  - person
-  - manner
+- - only
+  - three
+  - fingers
 - - never
   - occurred
   - before
+- - her
+  - person
+  - manner
 - - their
   - christian
   - names
@@ -95,24 +95,24 @@ ngrams:
 - - wife
   - refusing
   - all
-- - children
-  - all
-  - boys
 - - iii
   - there
   - resided
-- - seven
-  - children
+- - children
   - all
+  - boys
 - - william
   - iii
   - there
-- - days
-  - after
-  - him
 - - borough
   - would
   - listen
+- - seven
+  - children
+  - all
+- - days
+  - after
+  - him
 - - all
   - these
   - except

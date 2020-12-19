@@ -32,18 +32,18 @@ ngrams:
 - - remote
   - control
   - device
-- - superb
-  - hairy
-  - beard
 - - whirring
   - robot
   - version
-- - strikingly
-  - disconcerting
-  - news
+- - superb
+  - hairy
+  - beard
 - - tremendous
   - hairy
   - beard
+- - strikingly
+  - disconcerting
+  - news
 - - grand
   - vizier
   - wanted
@@ -53,12 +53,12 @@ ngrams:
 - - metal
   - tapping
   - machine
-- - big
-  - bill
-  - broonzy
 - - clearly
   - considered
   - plan
+- - big
+  - bill
+  - broonzy
 - - grand
   - vizier
   - asked
@@ -128,12 +128,12 @@ ngrams:
 - - took
   - him
   - four
-- - him
-  - four
-  - years
 - - ayatollah
   - went
   - out
+- - him
+  - four
+  - years
 - - journey
   - hand
   - me
@@ -161,6 +161,9 @@ ngrams:
 - - been
   - left
   - out
+- - went
+  - out
+  - into
 - - orchids
   - by
   - briars
@@ -170,9 +173,6 @@ ngrams:
 - - narcissus
   - by
   - orchids
-- - went
-  - out
-  - into
 - - obscured
   - by
   - burgeoning
@@ -194,33 +194,33 @@ ngrams:
 - - soon
   - obscured
   - by
-- - robot
-  - had
-  - been
-- - had
-  - been
-  - left
-- - had
-  - been
-  - able
 - - my
   - clearly
   - considered
+- - robot
+  - had
+  - been
 - - control
   - device
   - for
+- - had
+  - been
+  - able
 - - hairy
   - beard
   - for
+- - had
+  - been
+  - left
+- - abnormal
+  - growth
+  - 'on'
 - - ayatollah
   - stroked
   - his
-- - stroking
-  - his
-  - superb
-- - carpet
-  - his
-  - impatience
+- - helicopter
+  - idling
+  - 'on'
 story:
   date: 2005-07-03
   id: 2005-07-03-bronchitis-persons-helicopter-journey

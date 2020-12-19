@@ -17,15 +17,15 @@ ngrams:
 - - rotating
   - planet
   - alive
+- - halfwit
+  - lab
+  - cupboard
 - - subterranean
   - engineering
   - works
 - - mad
   - crazed
   - lunatic
-- - halfwit
-  - lab
-  - cupboard
 - - bleak
   - car
   - park
@@ -59,12 +59,12 @@ ngrams:
 - - surely
   - too
   - beautiful
-- - carpets
-  - whose
-  - name
 - - dammit
   - every
   - single
+- - carpets
+  - whose
+  - name
 - - reporting
   - these
   - matters
@@ -74,39 +74,39 @@ ngrams:
 - - never
   - tossed
   - anything
-- - two
-  - different
-  - brains
 - - every
   - single
   - person
-- - most
-  - working
-  - days
+- - two
+  - different
+  - brains
 - - idea
   - aside
   - much
+- - most
+  - working
+  - days
 - - having
   - first
   - removed
 - - badger
   - having
   - first
-- - drawn
-  - any
-  - water
 - - larger
   - more
   - distressingly
 - - more
   - distressingly
   - bleak
-- - its
-  - place
-  - implanted
+- - drawn
+  - any
+  - water
 - - person
   - present
   - upon
+- - its
+  - place
+  - implanted
 - - salesman
   - who
   - dealt
@@ -140,18 +140,18 @@ ngrams:
 - - tossed
   - anything
   - into
-- - single
-  - secretary
-  - into
-- - secretary
-  - into
-  - whose
 - - several
   - dotted
   - about
+- - single
+  - secretary
+  - into
 - - earlier
   - century
   - when
+- - secretary
+  - into
+  - whose
 - - were
   - several
   - dotted
@@ -170,6 +170,9 @@ ngrams:
 - - different
   - cupboards
   - would
+- - least
+  - so
+  - similar
 - - into
   - whose
   - head
@@ -179,21 +182,21 @@ ngrams:
 - - humble
   - biro
   - an
-- - least
-  - so
-  - similar
 - - this
   - boffin
   - habitually
-- - an
-  - earlier
-  - century
 - - tuesday
   - this
   - boffin
 - - previous
   - tuesday
   - this
+- - an
+  - earlier
+  - century
+- - one
+  - night
+  - malfeasance
 - - bellhop
   - had
   - implanted
@@ -206,54 +209,51 @@ ngrams:
 - - removed
   - brains
   - had
-- - one
-  - night
-  - malfeasance
-- - an
-  - old
-  - pal
-- - had
-  - three
-  - keys
-- - night
-  - malfeasance
-  - had
 - - planet
   - alive
   - or
-- - many
-  - an
-  - hotel
+- - an
+  - old
+  - pal
 - - would
   - prevent
   - him
-- - cord
-  - cut
-  - from
-- - been
-  - carried
-  - out
-- - thus
+- - night
+  - malfeasance
   - had
+- - had
   - three
-- - after
-  - this
-  - enormity
-- - himself
-  - had
-  - heard
+  - keys
+- - many
+  - an
+  - hotel
 - - one
   - might
   - toss
-- - had
-  - never
-  - tossed
-- - own
-  - brain
-  - had
+- - been
+  - carried
+  - out
+- - after
+  - this
+  - enormity
+- - cord
+  - cut
+  - from
 - - working
   - days
   - but
+- - thus
+  - had
+  - three
+- - himself
+  - had
+  - heard
+- - 'no'
+  - use
+  - there
+- - had
+  - never
+  - tossed
 story:
   date: 2018-05-16
   id: 2018-05-16-bellhops-catbrain

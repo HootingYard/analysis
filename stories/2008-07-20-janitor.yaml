@@ -8,12 +8,12 @@ ngrams:
 - - creative
   - titan
   - deems
-- - jabbering
-  - chanting
-  - hooded
 - - poets
   - novelists
   - composers
+- - jabbering
+  - chanting
+  - hooded
 - - mimsy
   - henbane
   - code
@@ -23,48 +23,48 @@ ngrams:
 - - italian
   - castrato
   - opera
-- - tee
-  - shirt
-  - worn
+- - japanese
+  - tee
+  - shirts
+- - titan
+  - deems
+  - janitors
 - - castrato
   - opera
   - singer
 - - opera
   - singer
   - luigi
-- - japanese
-  - tee
-  - shirts
-- - miniature
-  - wax
-  - effigies
-- - inspired
-  - poets
-  - novelists
-- - duties
-  - seriously
-  - excessively
 - - trendy
   - japanese
   - tee
+- - duties
+  - seriously
+  - excessively
+- - tee
+  - shirt
+  - worn
+- - inspired
+  - poets
+  - novelists
 - - tough
   - homosexual
   - sailors
 - - tough
   - homosexual
   - sailors
-- - titan
-  - deems
-  - janitors
-- - anthony
-  - burgess
-  - struggled
-- - karen
-  - carpenter
-  - incident
 - - deems
   - janitors
   - worthy
+- - miniature
+  - wax
+  - effigies
+- - karen
+  - carpenter
+  - incident
+- - anthony
+  - burgess
+  - struggled
 - - spooky
   - midnight
   - ceremonies
@@ -77,12 +77,6 @@ ngrams:
 - - passable
   - swimming
   - skills
-- - collapsible
-  - medical
-  - chair
-- - collapsible
-  - medical
-  - chair
 - - tough
   - foreign
   - dockyard
@@ -92,30 +86,36 @@ ngrams:
 - - mimsy
   - henbane
   - herself
+- - collapsible
+  - medical
+  - chair
+- - collapsible
+  - medical
+  - chair
 - - fists
   - beating
   - hopelessly
-- - bright
-  - summertime
-  - lawns
-- - medical
-  - chair
-  - surrounded
 - - charitable
   - board
   - director
+- - bright
+  - summertime
+  - lawns
 - - burnished
   - golden
   - helmet
+- - medical
+  - chair
+  - surrounded
 - - japanese
   - trendies
   - dennis
-- - magnesia
-  - research
-  - laboratory
 - - dying
   - janitor
   - rejoiced
+- - magnesia
+  - research
+  - laboratory
 - - trendies
   - neither
   - ploy
@@ -131,6 +131,12 @@ ngrams:
 - - whatever
   - lugubrious
   - dismay
+- - condensed
+  - milk
+  - canning
+- - japanese
+  - trendies
+  - neither
 - - pay
   - social
   - calls
@@ -140,93 +146,87 @@ ngrams:
 - - ask
   - mimsy
   - henbane
-- - japanese
-  - trendies
-  - neither
-- - condensed
-  - milk
-  - canning
-- - extra
-  - crunchy
-  - hard
-- - extra
-  - crunchy
-  - hard
 - - milk
   - canning
   - plant
-- - postage
-  - stamp
-  - mystery
+- - extra
+  - crunchy
+  - hard
+- - extra
+  - crunchy
+  - hard
 - - puny
   - boy
   - scout
 - - puny
   - boy
   - scout
-- - greedily
-  - outstretched
-  - hands
-- - hot
-  - damp
-  - greenhouse
-- - milk
-  - factory
-  - employee
-- - young
-  - japanese
-  - trendies
-- - young
-  - japanese
-  - trendies
 - - novelists
   - composers
   - film
+- - postage
+  - stamp
+  - mystery
+- - hot
+  - damp
+  - greenhouse
 - - composers
   - film
   - makers
-- - untimely
-  - death
-  - rainer
-- - evaporated
-  - milk
+- - milk
   - factory
-- - evaporated
-  - milk
-  - factory
-- - evaporated
-  - milk
-  - factory
-- - evaporated
-  - milk
-  - factory
-- - evaporated
-  - milk
-  - factory
-- - evaporated
-  - milk
-  - factory
-- - evaporated
-  - milk
-  - factory
+  - employee
 - - occasional
   - evaporated
   - milk
+- - greedily
+  - outstretched
+  - hands
+- - evaporated
+  - milk
+  - factory
+- - evaporated
+  - milk
+  - factory
+- - evaporated
+  - milk
+  - factory
+- - evaporated
+  - milk
+  - factory
+- - evaporated
+  - milk
+  - factory
+- - evaporated
+  - milk
+  - factory
+- - evaporated
+  - milk
+  - factory
+- - young
+  - japanese
+  - trendies
+- - young
+  - japanese
+  - trendies
+- - untimely
+  - death
+  - rainer
+- - particular
+  - dying
+  - janitor
 - - knew
   - mimsy
   - henbane
 - - boiling
   - hot
   - summer
-- - death
-  - seeking
-  - volunteers
 - - hot
   - summer
   - sunday
-- - particular
-  - dying
-  - janitor
+- - death
+  - seeking
+  - volunteers
 - - foreign
   - dockyard
   - full
@@ -236,36 +236,36 @@ ngrams:
 - - during
   - spooky
   - midnight
-- - looked
-  - unbelievably
-  - ancient
 - - empty
   - cracker
   - bag
 - - dying
   - janitor
   - sat
-- - certainly
-  - looked
+- - looked
   - unbelievably
+  - ancient
 - - neck
   - round
   - slightly
 - - beating
   - hopelessly
   - against
-- - miserable
-  - morning
-  - sobbing
+- - certainly
+  - looked
+  - unbelievably
 - - profoundly
   - ignorant
   - between
-- - torn
-  - between
-  - duty
+- - miserable
+  - morning
+  - sobbing
 - - clifftop
   - superstore
   - having
+- - torn
+  - between
+  - duty
 - - against
   - wooden
   - panels
@@ -284,9 +284,6 @@ ngrams:
 - - case
   - whatever
   - lugubrious
-- - because
-  - i've
-  - checked
 - - indolent
   - janitor
   - rather
@@ -299,30 +296,39 @@ ngrams:
 - - started
   - working
   - myself
+- - because
+  - i've
+  - checked
 - - bag
   - torn
   - between
-- - place
-  - seemed
-  - deserted
 - - bed
   - early
   - often
 - - supposed
   - contentedly
   - while
+- - place
+  - seemed
+  - deserted
+- - wearing
+  - dentures
+  - far
 - - doing
   - something
   - selfless
 - - ever
   - increasing
   - ferocity
-- - wearing
-  - dentures
-  - far
+- - propped
+  - myself
+  - against
 - - wooden
   - cupboard
   - next
+- - lengthy
+  - hike
+  - away
 - - another
   - bag
   - torn
@@ -332,12 +338,6 @@ ngrams:
 - - little
   - fists
   - beating
-- - lengthy
-  - hike
-  - away
-- - propped
-  - myself
-  - against
 - - smile
   - never
   - wavered
@@ -347,87 +347,120 @@ ngrams:
 - - dentures
   - too
   - big
-- - three
-  - whole
-  - days
-- - dobson
-  - entitled
-  - tips
-- - shake
-  - 'off'
-  - due
-- - henbane
-  - code
-  - before
 - - mouth
   - much
   - larger
+- - henbane
+  - code
+  - before
 - - say
   - foolish
   - names
-- - little
-  - wooden
-  - cupboard
+- - towards
+  - pointy
+  - town
+- - shake
+  - 'off'
+  - due
+- - three
+  - whole
+  - days
 - - i've
   - checked
   - before
+- - several
+  - feet
+  - long
+- - little
+  - wooden
+  - cupboard
 - - mimsy
   - henbane
   - said
 - - those
   - gigantic
   - teeth
-- - several
-  - feet
-  - long
-- - towards
-  - pointy
-  - town
-- - long
-  - days
-  - working
-- - towards
-  - old
-  - ma
-- - down
-  - countryside
-  - lanes
-- - boiling
-  - day
-  - propped
 - - myself
   - too
   - lugubrious
-- - bleak
-  - way
-  - towards
+- - long
+  - days
+  - working
 - - dobson
-  - pamphlet
+  - entitled
   - tips
 - - midnight
   - ceremonies
   - where
-- - life
-  - ever
-  - addressed
-- - entirely
-  - clear
-  - just
+- - bleak
+  - way
+  - towards
+- - boiling
+  - day
+  - propped
+- - down
+  - countryside
+  - lanes
+- - towards
+  - old
+  - ma
 - - dentures
   - far
   - too
-- - easy
-  - life
-  - little
+- - entirely
+  - clear
+  - just
+- - life
+  - ever
+  - addressed
+- - fortune
+  - smiled
+  - upon
 - - outstretched
   - hands
   - over
+- - dobson
+  - pamphlet
+  - tips
 - - those
   - lucky
   - enough
+- - easy
+  - life
+  - little
+- - having
+  - first
+  - twisted
+- - feel
+  - towards
+  - those
 - - dripping
   - foliage
   - like
+- - other
+  - collapsed
+  - lung
+- - seen
+  - any
+  - staff
+- - glass
+  - having
+  - first
+- - must
+  - say
+  - foolish
+- - then
+  - fortune
+  - smiled
+- - any
+  - kind
+  - despite
+- - foliage
+  - like
+  - general
+- - next
+  - few
+  - days
 - - excessive
   - fees
   - she
@@ -437,168 +470,459 @@ ngrams:
 - - fees
   - she
   - charged
-- - fortune
-  - smiled
-  - upon
 - - extra
   - charges
   - she
-- - her
-  - anthony
-  - burgess
-- - other
-  - collapsed
-  - lung
+- - may
+  - feel
+  - towards
 - - she
   - fully
   - deserves
-- - feel
-  - towards
-  - those
-- - having
-  - first
-  - twisted
+- - far
+  - too
+  - big
+- - her
+  - anthony
+  - burgess
+- - thought
+  - myself
+  - too
 - - her
   - mercy
   - homes
 - - her
   - mercy
   - homes
+- - any
+  - case
+  - whatever
 - - her
   - dan
   - brown
-- - foliage
-  - like
-  - general
-- - seen
+- - janitor
+  - rather
+  - than
+- - know
+  - because
+  - i've
+- - find
   - any
-  - staff
-- - glass
-  - having
-  - first
-- - next
-  - few
-  - days
-- - then
-  - fortune
-  - smiled
-- - must
-  - say
-  - foolish
-- - any
-  - kind
-  - despite
+  - posts
 - - herself
   - devoted
   - her
 - - devoted
   - her
   - latter
-- - may
-  - feel
-  - towards
-- - far
-  - too
-  - big
-- - know
-  - because
-  - i've
-- - thought
-  - myself
-  - too
-- - any
-  - case
-  - whatever
-- - find
-  - any
-  - posts
-- - janitor
-  - rather
-  - than
 - - leisure
   - time
   - making
 - - other
   - nocturnal
   - birds
-- - has
-  - inspired
-  - poets
 - - before
   - being
   - appointed
 - - happened
   - many
   - years
-- - 'off'
-  - towards
-  - old
 - - activities
   - before
   - being
-- - '-'
-  - who
-  - irrespective
-- - loomed
-  - above
-  - him
-- - above
-  - him
-  - lugubrious
-- - janitors
-  - who
-  - dying
+- - has
+  - inspired
+  - poets
+- - 'off'
+  - towards
+  - old
 - - clear
   - just
   - how
-- - who
-  - dying
-  - died
-- - those
-  - days
-  - far
-- - 'no'
-  - creative
-  - titan
-- - time
-  - nor
-  - energy
 - - much
   - larger
   - than
+- - time
+  - nor
+  - energy
+- - those
+  - days
+  - far
+- - janitors
+  - who
+  - dying
+- - loomed
+  - above
+  - him
+- - 'no'
+  - creative
+  - titan
+- - above
+  - him
+  - lugubrious
+- - who
+  - dying
+  - died
 - - brown
   - 'no'
   - creative
 - - story
   - has
   - inspired
-- - 'no'
-  - longer
-  - smiling
 - - janitor
   - propped
   - up
-- - her
-  - latter
-  - years
-- - fetch
-  - him
-  - another
+- - 'no'
+  - longer
+  - smiling
 - - ignorant
   - between
   - them
-- - having
-  - armed
-  - him
+- - '-'
+  - who
+  - irrespective
 - - instead
   - marching
   - up
-- - pamphleteer
-  - like
-  - dobson
+- - having
+  - armed
+  - him
+- - fetch
+  - him
+  - another
+- - any
+  - others
+  - such
+- - mimsy
+  - henbane
+  - when
+- - tet
+  - offensive
+  - when
+- - any
+  - other
+  - patients
+- - her
+  - latter
+  - years
+- - strode
+  - majestically
+  - into
+- - dash
+  - when
+  - entering
+- - crackers
+  - gratefully
+  - into
+- - into
+  - miniature
+  - wax
+- - prodded
+  - into
+  - speech
+- - felt
+  - about
+  - failing
+- - ornithological
+  - education
+  - if
+- - just
+  - how
+  - old
+- - their
+  - crunchiness
+  - indeed
+- - pins
+  - into
+  - miniature
+- - poked
+  - pins
+  - into
+- - churn
+  - out
+  - innumerable
 - - him
   - another
   - bag
+- - pamphleteer
+  - like
+  - dobson
+- - dobson
+  - rather
+  - than
+- - unbelievably
+  - ancient
+  - when
+- - out
+  - innumerable
+  - essays
+- - boy
+  - scout
+  - into
+- - boy
+  - scout
+  - into
+- - more
+  - than
+  - outweighed
+- - names
+  - were
+  - inscribed
+- - milk
+  - factory
+  - when
+- - many
+  - years
+  - before
+- - many
+  - years
+  - before
+- - brighten
+  - their
+  - last
+- - because
+  - their
+  - names
+- - seen
+  - any
+  - other
+- - life
+  - little
+  - more
+- - ploy
+  - fooled
+  - me
+- - like
+  - dobson
+  - rather
+- - seen
+  - pushed
+  - into
+- - day
+  - many
+  - years
+- - always
+  - plenty
+  - about
+- - her
+  - life
+  - ever
+- - sent
+  - him
+  - 'off'
+- - always
+  - liked
+  - about
+- - liked
+  - about
+  - people
+- - period
+  - helped
+  - me
+- - countryside
+  - lanes
+  - all
+- - janitor
+  - awaited
+  - me
+- - there
+  - smiling
+  - weakly
+- - those
+  - janitors
+  - who
+- - mimsy
+  - henbane
+  - would
+- - henbane
+  - would
+  - approve
+- - henbane
+  - when
+  - next
+- - him
+  - 'off'
+  - towards
+- - all
+  - instead
+  - marching
+- - if
+  - nothing
+  - else
+- - presence
+  - would
+  - lift
+- - foolish
+  - names
+  - they
+- - chair
+  - took
+  - out
+- - gigantic
+  - teeth
+  - would
+- - sat
+  - there
+  - smiling
+- - milk
+  - factory
+  - there
+- - think
+  - what
+  - wiped
+- - their
+  - last
+  - days
+- - still
+  - felt
+  - about
+- - bed
+  - early
+  - there
+- - seriously
+  - excessively
+  - so
+- - towards
+  - those
+  - who
+- - janitor
+  - sat
+  - there
+- - day
+  - propped
+  - up
+- - all
+  - night
+  - incapable
+- - lanes
+  - all
+  - night
+- - naught
+  - so
+  - despite
+- - so
+  - selflessly
+  - apart
+- - crunchiness
+  - indeed
+  - they
+- - little
+  - more
+  - than
+- - round
+  - slightly
+  - so
+- - if
+  - those
+  - gigantic
+- - print
+  - which
+  - helped
+- - about
+  - any
+  - field
+- - those
+  - who
+  - think
+- - her
+  - story
+  - has
+- - who
+  - years
+  - before
+- - board's
+  - director
+  - an
+- - imaginative
+  - powers
+  - an
+- - powers
+  - an
+  - opera
+- - an
+  - indolent
+  - janitor
+- - an
+  - erudite
+  - janitor
+- - cantos
+  - about
+  - her
+- - about
+  - her
+  - anthony
+- - could
+  - churn
+  - out
+- - plenty
+  - about
+  - her
+- - an
+  - evaporated
+  - milk
+- - we
+  - know
+  - naught
+- - ways
+  - one
+  - boiling
+- - smiled
+  - upon
+  - me
+- - seemed
+  - deserted
+  - one
+- - one
+  - boiling
+  - hot
+- - this
+  - particular
+  - dying
+- - this
+  - particular
+  - sunday
+- - film
+  - about
+  - her
+- - different
+  - calling
+  - one
+- - other
+  - patients
+  - there
+- - years
+  - before
+  - when
+- - know
+  - naught
+  - so
+- - toggled
+  - tribe
+  - had
+- - mimsy
+  - henbane
+  - had
+- - scout
+  - had
+  - passable
+- - had
+  - passable
+  - swimming
+- - were
+  - some
+  - pigs
+- - birth
+  - certificate
+  - had
+- - an
+  - easy
+  - life
+- - about
+  - her
+  - set
+- - just
+  - about
+  - any
 story:
   date: 2008-07-20
   id: 2008-07-20-janitor

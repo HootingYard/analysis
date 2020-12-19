@@ -1,10 +1,10 @@
 ngrams:
-- - influenza
-  - diphtheria
-  - plague
 - - diphtheria
   - plague
   - tappings
+- - influenza
+  - diphtheria
+  - plague
 - - impending
   - flu
   - jab
@@ -68,42 +68,54 @@ ngrams:
 - - usual
   - after
   - sitting
-- - her
-  - wince
-  - wince
 - - way
   - home
   - armed
-- - her
-  - embroidery
-  - projects
-- - her
-  - unparalleled
-  - preventative
-- - her
-  - impending
-  - flu
-- - her
-  - impending
-  - flu
-- - her
-  - flu
-  - jab
-- - her
-  - flu
-  - jab
+- - sometimes
+  - even
+  - swoon
+- - time
+  - traipsing
+  - aimlessly
 - - preventative
   - techniques
   - she
+- - her
+  - wince
+  - wince
 - - jab
   - afterwards
   - she
 - - her
+  - unparalleled
+  - preventative
+- - her
+  - embroidery
+  - projects
+- - her
+  - impending
+  - flu
+- - her
+  - impending
+  - flu
+- - her
+  - flu
+  - jab
+- - her
+  - flu
+  - jab
+- - often
+  - than
+  - usual
+- - her
   - futile
   - existence
-- - gnash
-  - her
-  - teeth
+- - canal
+  - then
+  - picked
+- - two
+  - much
+  - ivy
 - - her
   - teeth
   - wince
@@ -116,24 +128,12 @@ ngrams:
 - - gnash
   - her
   - teeth
-- - sometimes
-  - even
-  - swoon
+- - gnash
+  - her
+  - teeth
 - - she
   - concentrated
   - hard
-- - afterwards
-  - she
-  - spent
-- - time
-  - traipsing
-  - aimlessly
-- - often
-  - than
-  - usual
-- - two
-  - much
-  - ivy
 story:
   date: 2004-09-12
   id: 2004-09-12-the-lactose-intolerant-jezebel-of-botnia-her-impending-flu-jab-and-the-howling-of-wolves-at-dusk

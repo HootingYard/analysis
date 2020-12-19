@@ -11,21 +11,18 @@ ngrams:
 - - divers
   - chefs
   - snipers
-- - philosophers
-  - scientists
-  - novelists
 - - historian
   - sagely
   - sagely
-- - priests
-  - anthropologists
-  - cartographers
+- - philosophers
+  - scientists
+  - novelists
 - - chefs
   - snipers
   - ornithologists
-- - burlap
-  - sacking
-  - adorned
+- - priests
+  - anthropologists
+  - cartographers
 - - actors
   - clowns
   - jugglers
@@ -38,186 +35,186 @@ ngrams:
 - - novelists
   - artists
   - actors
+- - artists
+  - actors
+  - clowns
+- - burlap
+  - sacking
+  - adorned
 - - snipers
   - ornithologists
   - sundry
 - - passages
   - spookily
   - prophetic
-- - artists
-  - actors
-  - clowns
+- - directors
+  - engineers
+  - podcast
+- - dim
+  - tyrant
+  - revisited
+- - tyrant
+  - king's
+  - birdseed
 - - hippy
   - shawl
   - surrounded
 - - tyrant
   - king's
-  - birdseed
-- - dim
-  - tyrant
-  - revisited
-- - directors
-  - engineers
-  - podcast
+  - whim
 - - nay
   - repeated
   - visits
-- - tyrant
-  - king's
-  - whim
-- - quote
-  - fateful
-  - combination
 - - ate
   - sparingly
   - birdseed
+- - quote
+  - fateful
+  - combination
 - - plain
   - burlap
   - sacking
-- - palace
-  - leeches
-  - revealing
-- - dangling
-  - bells
-  - sunday's
-- - o'
-  - clock
-  - sharp
-- - gorgeous
-  - embroidered
-  - flapping
 - - birdseed
   - r
   - relive
+- - gorgeous
+  - embroidered
+  - flapping
+- - dangling
+  - bells
+  - sunday's
 - - coherent
   - sentence
   - unquote
+- - palace
+  - leeches
+  - revealing
 - - whichever
   - dinner
   - jacket
-- - millet
-  - mostly
-  - accompanied
-- - dinner
-  - jackets
-  - dinner
-- - king's
-  - birdseed
-  - r
 - - dim
   - tyrant
   - posted
+- - king's
+  - birdseed
+  - r
+- - millet
+  - mostly
+  - accompanied
 - - barn
   - burner
   - mistakenly
-- - mike
-  - jennings
-  - writes
+- - dinner
+  - jackets
+  - dinner
 - - available
   - rolf
   - harris
-- - visit
-  - nay
-  - repeated
-- - earlier
-  - passages
-  - spookily
-- - flapping
-  - wonder
-  - thursday's
+- - mike
+  - jennings
+  - writes
 - - royal
   - barn
   - burner
 - - ornithologists
   - sundry
   - persons
-- - repeated
-  - visits
-  - study
+- - earlier
+  - passages
+  - spookily
+- - flapping
+  - wonder
+  - thursday's
+- - visit
+  - nay
+  - repeated
 - - embroidered
   - flapping
   - wonder
+- - repeated
+  - visits
+  - study
+- - o'
+  - clock
+  - sharp
 - - fa
   - cup
   - final
-- - body
-  - sits
-  - atop
-- - table
-  - talk
-  - penetrated
 - - film
   - directors
   - engineers
+- - body
+  - sits
+  - atop
 - - banqueting
   - table
   - babbling
 - - king
   - ate
   - sparingly
-- - four
-  - o'
-  - clock
-- - palace
-  - treasury
-  - instead
-- - land
-  - mike
-  - jennings
+- - table
+  - talk
+  - penetrated
 - - tyrant
   - king
   - ate
+- - land
+  - mike
+  - jennings
 - - pompous
   - land
   - mike
-- - entertained
-  - during
-  - dinner
+- - palace
+  - treasury
+  - instead
 - - cobble
   - together
   - hundreds
-- - human
-  - apprehension
-  - whatever
+- - entertained
+  - during
+  - dinner
 - - piece
   - dim
   - tyrant
-- - palace
-  - spigot
-  - today
-- - slightly
-  - different
-  - tack
-- - beyond
-  - human
-  - apprehension
 - - sea
   - divers
   - chefs
+- - human
+  - apprehension
+  - whatever
+- - slightly
+  - different
+  - tack
+- - palace
+  - spigot
+  - today
+- - beyond
+  - human
+  - apprehension
+- - four
+  - o'
+  - clock
 - - answer
   - simple
   - questions
-- - burner
-  - mistakenly
-  - put
 - - coherent
   - sentence
   - thus
+- - burner
+  - mistakenly
+  - put
 - - deep
   - sea
   - divers
-- - clock
-  - sharp
-  - every
 - - different
   - tack
   - however
+- - clock
+  - sharp
+  - every
 - - last
   - golden
   - coin
-- - jolly
-  - little
-  - museum
 - - says
   - mr
   - jennings
@@ -227,33 +224,36 @@ ngrams:
 - - table
   - babbling
   - take
+- - jolly
+  - little
+  - museum
 - - museum
   - hidden
   - away
-- - little
-  - museum
-  - hidden
 - - sudden
   - says
   - mr
-- - atrociously
-  - stupid
-  - man
-- - stupid
-  - man
-  - ruled
-- - pig
-  - spent
-  - every
+- - little
+  - museum
+  - hidden
 - - tyrant
   - posted
   - here
-- - seem
-  - very
-  - relevant
+- - atrociously
+  - stupid
+  - man
+- - pig
+  - spent
+  - every
+- - stupid
+  - man
+  - ruled
 - - mr
   - jennings
   - given
+- - seem
+  - very
+  - relevant
 - - plane
   - just
   - beyond
@@ -284,27 +284,27 @@ ngrams:
 - - babbling
   - take
   - away
-- - another
-  - plane
-  - just
 - - simple
   - questions
   - such
+- - another
+  - plane
+  - just
 - - its
   - earlier
   - passages
-- - burn
-  - down
-  - every
-- - some
-  - hippy
-  - shawl
-- - sharp
-  - every
-  - day
 - - dinner
   - jackets
   - can
+- - burn
+  - down
+  - every
+- - angels
+  - can
+  - dance
+- - some
+  - hippy
+  - shawl
 - - how
   - many
   - angels

@@ -17,30 +17,30 @@ ngrams:
 - - cat
   - we'd
   - love
-- - terrible
-  - poetry
-  - accompanied
-- - james
-  - stern
-  - everything
 - - wig
   - 'yes'
   - you'll
 - - trendy
   - milk
   - bar
-- - full
-  - wording
-  - etched
+- - james
+  - stern
+  - everything
+- - terrible
+  - poetry
+  - accompanied
+- - groovy
+  - milk
+  - bar
+- - groovy
+  - milk
+  - bar
 - - 'yes'
   - you'll
   - stay
-- - groovy
-  - milk
-  - bar
-- - groovy
-  - milk
-  - bar
+- - full
+  - wording
+  - etched
 - - forever
   - drinking
   - milk
@@ -71,15 +71,15 @@ ngrams:
 - - cup
   - oh
   - child
+- - milk
+  - bar
+  - within
 - - drank
   - another
   - tumbler
 - - stalin
   - came
   - limping
-- - milk
-  - bar
-  - within
 - - hysterical
   - naked
   - because
@@ -95,12 +95,12 @@ ngrams:
 - - neither
   - elegant
   - nor
-- - pockmarked
-  - little
-  - squirt
 - - young
   - stalin
   - came
+- - pockmarked
+  - little
+  - squirt
 - - another
   - poem
   - best
@@ -113,42 +113,42 @@ ngrams:
 - - hitting
   - those
   - bongos
-- - you'll
-  - stay
-  - here
-- - several
-  - hours
-  - later
-- - maps
-  - showing
-  - those
 - - much
   - terrible
   - poetry
-- - here
-  - forever
-  - drinking
+- - several
+  - hours
+  - later
+- - you'll
+  - stay
+  - here
+- - maps
+  - showing
+  - those
 - - restrained
   - myself
   - take
-- - stay
-  - here
-  - forever
-- - awful
-  - grunty
-  - man
 - - showing
   - those
   - parts
+- - here
+  - forever
+  - drinking
+- - stay
+  - here
+  - forever
 - - young
   - stalin
   - 'off'
-- - little
-  - speech
-  - almost
 - - under
   - new
   - management
+- - awful
+  - grunty
+  - man
+- - little
+  - speech
+  - almost
 - - thumping
   - bongos
   - where
@@ -170,12 +170,18 @@ ngrams:
 - - other
   - beatnik
   - twaddle
-- - other
-  - seven
-  - fingers
 - - could
   - send
   - pockmarked
+- - other
+  - seven
+  - fingers
+- - nor
+  - tubercular
+  - its
+- - nor
+  - tubercular
+  - its
 - - our
   - land
   - work
@@ -185,12 +191,6 @@ ngrams:
 - - took
   - myself
   - 'off'
-- - nor
-  - tubercular
-  - its
-- - nor
-  - tubercular
-  - its
 - - back
   - again
   - later
@@ -200,39 +200,36 @@ ngrams:
 - - squirt
   - who
   - bore
-- - likely
-  - alan
-  - has
 - - horse
   - back
   - just
+- - likely
+  - alan
+  - has
 - - those
   - parts
   - where
 - - their
   - horses
   - armed
-- - night
-  - who
-  - poverty
-- - sat
-  - up
-  - smoking
 - - duly
   - turned
   - up
+- - sat
+  - up
+  - smoking
+- - night
+  - who
+  - poverty
 - - your
   - library
   - ticket
-- - shanks
-  - were
-  - despicable
 - - finger
   - sharply
   - into
-- - using
-  - your
-  - library
+- - shanks
+  - were
+  - despicable
 - - high
   - sat
   - up
@@ -242,78 +239,81 @@ ngrams:
 - - were
   - playing
   - bongos
-- - mind
+- - using
   - your
-  - cup
-- - your
-  - cup
-  - oh
+  - library
 - - many
   - many
   - many
-- - little
-  - squirt
-  - who
 - - naked
   - because
   - their
-- - fetch
-  - him
-  - back
 - - turned
   - up
   - several
-- - actually
-  - been
-  - taken
+- - your
+  - cup
+  - oh
+- - mind
+  - your
+  - cup
+- - up
+  - several
+  - hours
 - - because
   - their
   - horses
 - - could
   - only
   - hope
-- - up
-  - several
-  - hours
+- - little
+  - squirt
+  - who
+- - actually
+  - been
+  - taken
+- - fetch
+  - him
+  - back
+- - lasso
+  - if
+  - need
+- - home
+  - about
+  - sorry
 - - best
   - mind
   - your
 - - him
   - back
   - using
-- - home
-  - about
-  - sorry
-- - lasso
-  - if
-  - need
-- - write
-  - home
-  - about
-- - write
-  - home
-  - about
-- - last
-  - were
-  - translated
 - - anyway
   - we
   - won't
-- - came
-  - limping
-  - out
 - - bar
   - anyway
   - we
+- - came
+  - limping
+  - out
+- - write
+  - home
+  - about
+- - write
+  - home
+  - about
 - - would
   - bring
   - alan
-- - been
-  - taken
-  - away
+- - last
+  - were
+  - translated
 - - immensely
   - satisfying
   - so
+- - land
+  - work
+  - out
 story:
   date: 2018-03-20
   id: 2018-03-20-the-departure

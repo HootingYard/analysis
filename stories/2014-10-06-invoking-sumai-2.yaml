@@ -8,12 +8,12 @@ ngrams:
 - - girls
   - dancers
   - acrobats
-- - orchestra
-  - crooners
-  - chorus
 - - crooners
   - chorus
   - girls
+- - orchestra
+  - crooners
+  - chorus
 - - chorus
   - girls
   - dancers
@@ -32,12 +32,12 @@ ngrams:
 - - stiff
   - strides
   - legs
-- - strides
-  - legs
-  - wide
 - - band
   - orchestra
   - crooners
+- - strides
+  - legs
+  - wide
 - - short
   - stiff
   - strides
@@ -47,9 +47,9 @@ ngrams:
 - - legs
   - wide
   - apart
-- - wide
-  - apart
-  - i'm
+- - tree
+  - evening
+  - estragon
 story:
   date: 2014-10-06
   id: 2014-10-06-invoking-sumai-2

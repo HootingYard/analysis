@@ -8,9 +8,6 @@ ngrams:
 - - sobbed
   - convulsively
   - grubby
-- - homicidal
-  - maniac
-  - outwit
 - - brian
   - eno's
   - oblique
@@ -20,51 +17,57 @@ ngrams:
 - - chap
   - blinked
   - sized
-- - impossibly
-  - intelligent
-  - homicidal
-- - impossibly
-  - intelligent
-  - homicidal
-- - intelligent
-  - homicidal
+- - homicidal
   - maniac
-- - intelligent
-  - homicidal
-  - maniac
-- - increasingly
-  - frantic
-  - searching
+  - outwit
 - - baldy
   - beardy
   - chap
+- - impossibly
+  - intelligent
+  - homicidal
+- - impossibly
+  - intelligent
+  - homicidal
+- - intelligent
+  - homicidal
+  - maniac
+- - intelligent
+  - homicidal
+  - maniac
 - - quantity
   - surveyor
   - heading
-- - decoy
-  - airships
-  - fly
+- - increasingly
+  - frantic
+  - searching
 - - raggy
   - power
   - radiated
-- - hideous
-  - gloomy
-  - cavern
-- - hideous
-  - gloomy
-  - cavern
-- - hideous
-  - gloomy
-  - cavern
-- - hideous
-  - gloomy
-  - cavern
+- - decoy
+  - airships
+  - fly
 - - shortly
   - afterwards
   - dapper
 - - squelchy
   - path
   - squelch
+- - hideous
+  - gloomy
+  - cavern
+- - hideous
+  - gloomy
+  - cavern
+- - hideous
+  - gloomy
+  - cavern
+- - hideous
+  - gloomy
+  - cavern
+- - frantic
+  - searching
+  - eventually
 - - overcame
   - using
   - skill
@@ -74,18 +77,9 @@ ngrams:
 - - poisoned
   - choc
   - ice
-- - frantic
-  - searching
-  - eventually
 - - overcome
   - using
   - skill
-- - dense
-  - dark
-  - woods
-- - dense
-  - dark
-  - woods
 - - swish
   - cocktail
   - party
@@ -98,15 +92,18 @@ ngrams:
 - - party
   - shortly
   - afterwards
+- - dense
+  - dark
+  - woods
+- - dense
+  - dark
+  - woods
 - - ice
   - cream
   - kiosk
 - - ice
   - cream
   - kiosk
-- - surveyor
-  - heading
-  - home
 - - rag
   - common
   - sense
@@ -116,6 +113,9 @@ ngrams:
 - - friendly
   - sea
   - creatures
+- - surveyor
+  - heading
+  - home
 - - mysterious
   - important
   - mountain
@@ -134,51 +134,51 @@ ngrams:
 - - vast
   - pitiless
   - sea
-- - giants
-  - each
-  - taller
-- - giants
-  - each
-  - taller
 - - walking
   - across
   - sawdust
 - - across
   - sawdust
   - bridge
+- - giants
+  - each
+  - taller
+- - giants
+  - each
+  - taller
 - - stricken
   - valley
   - great
 - - stricken
   - valley
   - great
-- - slay
-  - each
-  - giant
-- - slay
-  - each
-  - giant
-- - hot
-  - air
-  - balloon
-- - hot
-  - air
-  - balloon
 - - voice
   - both
   - sepulchral
-- - seven
-  - giants
+- - hot
+  - air
+  - balloon
+- - hot
+  - air
+  - balloon
+- - slay
   - each
-- - seven
-  - giants
+  - giant
+- - slay
   - each
+  - giant
 - - land
   - friendly
   - sea
 - - land
   - friendly
   - sea
+- - seven
+  - giants
+  - each
+- - seven
+  - giants
+  - each
 - - trouser
   - pocket
   - until
@@ -200,42 +200,42 @@ ngrams:
 - - important
   - mountain
   - until
-- - night
-  - came
-  - crashing
-- - chortling
-  - man
-  - dressed
-- - chortling
-  - man
-  - dressed
 - - sea
   - creatures
   - came
-- - bridge
-  - here
-  - sonny
+- - night
+  - came
+  - crashing
 - - path
   - squelch
   - through
 - - must
   - swim
   - across
-- - sawdust
-  - bridge
+- - bridge
   - here
-- - recover
-  - our
-  - rags
+  - sonny
+- - chortling
+  - man
+  - dressed
+- - chortling
+  - man
+  - dressed
 - - say
   - you've
   - lost
-- - face
-  - many
-  - perils
+- - sawdust
+  - bridge
+  - here
 - - fate
   - make
   - sure
+- - recover
+  - our
+  - rags
+- - face
+  - many
+  - perils
 - - must
   - slay
   - each
@@ -257,39 +257,42 @@ ngrams:
 - - turned
   - upside
   - down
-- - tiny
-  - chortling
-  - man
-- - tiny
-  - chortling
-  - man
 - - another
   - chap
   - how
-- - turn
-  - armed
-  - only
-- - turn
-  - armed
-  - only
 - - its
   - raggy
   - power
-- - its
-  - mysterious
-  - grubby
+- - tiny
+  - chortling
+  - man
+- - tiny
+  - chortling
+  - man
+- - turn
+  - armed
+  - only
+- - turn
+  - armed
+  - only
+- - oblique
+  - strategies
+  - then
+- - oblique
+  - strategies
+  - then
 - - forgot
   - those
   - words
-- - oblique
-  - strategies
-  - then
-- - oblique
-  - strategies
-  - then
+- - its
+  - mysterious
+  - grubby
 - - must
   - find
   - within
+- - same
+  - drawer
+  - where
 - - here
   - sonny
   - take
@@ -299,33 +302,30 @@ ngrams:
 - - its
   - hot
   - bloody
-- - same
-  - drawer
-  - where
+- - pencil
+  - sharpener
+  - then
+- - pencil
+  - sharpener
+  - then
+- - important
+  - mountain
+  - upon
+- - important
+  - mountain
+  - upon
 - - came
   - crashing
   - down
-- - pencil
-  - sharpener
-  - then
-- - pencil
-  - sharpener
-  - then
 - - next
   - day
   - harm
-- - mumbled
-  - some
-  - blather
-- - important
-  - mountain
-  - upon
-- - important
-  - mountain
-  - upon
 - - world
   - over
   - discovered
+- - mumbled
+  - some
+  - blather
 - - just
   - say
   - you've
@@ -335,42 +335,42 @@ ngrams:
 - - never
   - forgot
   - those
-- - cocktail
-  - party
-  - some
 - - more
   - eyes
   - obviously
-- - answered
-  - them
-  - correctly
 - - time
   - ago
   - dapper
+- - answered
+  - them
+  - correctly
+- - cocktail
+  - party
+  - some
 - - beardy
   - chap
   - who
-- - special
-  - day
-  - years
-- - answer
-  - them
-  - correctly
-- - ancient
-  - who
-  - pressed
 - - find
   - yourself
   - upon
+- - answer
+  - them
+  - correctly
+- - special
+  - day
+  - years
 - - their
   - chat
   - oblivious
-- - safe
-  - 'no'
-  - harm
 - - could
   - go
   - hang
+- - ancient
+  - who
+  - pressed
+- - safe
+  - 'no'
+  - harm
 - - 'no'
   - ordinary
   - swan
@@ -383,33 +383,48 @@ ngrams:
 - - who
   - dwells
   - within
-- - your
-  - crunchy
-  - crossing
-- - long
-  - ago
-  - now
-- - ears
-  - pricked
-  - up
-- - complete
-  - your
-  - crunchy
 - - found
   - myself
   - upon
+- - ears
+  - pricked
+  - up
+- - long
+  - ago
+  - now
 - - sense
   - could
   - go
+- - your
+  - crunchy
+  - crossing
+- - complete
+  - your
+  - crunchy
+- - when
+  - cormorant
+  - hunting
+- - accident
+  - when
+  - cormorant
+- - those
+  - words
+  - even
 - - regain
   - your
   - lost
 - - you've
   - lost
   - your
-- - when
-  - cormorant
-  - hunting
+- - even
+  - more
+  - sepulchral
+- - very
+  - next
+  - day
+- - must
+  - answer
+  - them
 - - lost
   - your
   - rag
@@ -419,54 +434,36 @@ ngrams:
 - - your
   - lost
   - rag
-- - accident
-  - when
-  - cormorant
-- - very
-  - next
-  - day
-- - those
-  - words
-  - even
-- - must
-  - answer
-  - them
-- - even
-  - more
-  - sepulchral
-- - found
-  - within
-  - them
 - - noticed
   - even
   - more
-- - man
-  - who
-  - dwells
-- - man
-  - who
-  - dwells
+- - found
+  - within
+  - them
+- - even
+  - more
+  - ancient
+- - out
+  - early
+  - snow
+- - voice
+  - even
+  - more
 - - green
   - will
   - meet
 - - blinked
   - sized
   - me
+- - ago
+  - now
+  - even
 - - find
   - within
   - them
 - - nestled
   - protecting
   - me
-- - ago
-  - now
-  - even
-- - out
-  - early
-  - snow
-- - even
-  - more
-  - ancient
 - - harm
   - befell
   - me
@@ -479,30 +476,18 @@ ngrams:
 - - conjuring
   - tricks
   - they
-- - voice
-  - even
-  - more
-- - grunty
-  - man
-  - who
-- - grunty
-  - man
-  - who
 - - swan
   - into
   - whose
 - - swan
   - into
   - whose
-- - find
-  - your
-  - rag
-- - find
-  - your
-  - rag
-- - must
-  - complete
-  - your
+- - man
+  - who
+  - dwells
+- - man
+  - who
+  - dwells
 - - pitiless
   - sea
   - out
@@ -512,93 +497,135 @@ ngrams:
 - - gloomy
   - cavern
   - there
-- - valley
-  - great
-  - were
+- - find
+  - your
+  - rag
+- - find
+  - your
+  - rag
+- - grunty
+  - man
+  - who
+- - grunty
+  - man
+  - who
 - - green
   - met
   - me
-- - sea
-  - creatures
-  - will
-- - whose
-  - head
-  - has
+- - must
+  - complete
+  - your
 - - sawdust
   - bridge
   - there
-- - past
-  - me
-  - hugging
+- - sea
+  - creatures
+  - will
+- - valley
+  - great
+  - were
 - - set
   - out
   - alone
+- - past
+  - me
+  - hugging
 - - set
   - out
   - early
 - - swept
   - past
   - me
+- - whose
+  - head
+  - has
+- - sense
+  - would
+  - suggest
 - - trudged
   - away
   - into
 - - creatures
   - will
   - come
-- - stricken
-  - valley
-  - which
-- - stricken
-  - valley
-  - which
+- - common
+  - sense
+  - would
+- - air
+  - balloon
+  - there
+- - air
+  - balloon
+  - there
+- - will
+  - find
+  - yourself
 - - me
   - three
   - questions
 - - will
-  - find
-  - yourself
-- - sense
-  - would
-  - suggest
-- - will
   - ever
   - befall
-- - party
-  - some
-  - time
 - - harm
   - will
   - ever
-- - air
-  - balloon
-  - there
-- - air
-  - balloon
-  - there
-- - common
-  - sense
-  - would
-- - choc
-  - ice
-  - which
-- - choc
-  - ice
-  - which
-- - asked
-  - me
-  - three
-- - ice
-  - which
-  - sent
-- - some
+- - party
+  - some
   - time
-  - ago
+- - stricken
+  - valley
+  - which
+- - stricken
+  - valley
+  - which
 - - lost
   - rag
   - so
+- - asked
+  - me
+  - three
+- - choc
+  - ice
+  - which
+- - choc
+  - ice
+  - which
 - - must
   - set
   - out
+- - some
+  - time
+  - ago
+- - ice
+  - which
+  - sent
+- - into
+  - whose
+  - head
+- - into
+  - whose
+  - head
+- - were
+  - very
+  - pointy
+- - said
+  - what
+  - does
+- - sacrificed
+  - an
+  - albino
+- - sacrifice
+  - an
+  - albino
+- - an
+  - impossibly
+  - intelligent
+- - an
+  - impossibly
+  - intelligent
+- - make
+  - your
+  - way
 story:
   date: 2011-06-03
   id: 2011-06-03-i-lost-my-rag

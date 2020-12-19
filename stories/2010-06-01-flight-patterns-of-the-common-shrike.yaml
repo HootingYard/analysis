@@ -14,54 +14,54 @@ ngrams:
 - - overcast
   - grey
   - immensity
-- - highly
-  - accurate
-  - rendering
 - - flight
   - patterns
   - represented
-- - friday
-  - saturday
-  - sunday
+- - highly
+  - accurate
+  - rendering
 - - saturday
   - sunday
   - monday
+- - friday
+  - saturday
+  - sunday
 - - hollyhock
   - patch
   - beside
-- - thursday
-  - friday
-  - saturday
 - - latvian
   - ice
   - rink
 - - sunday
   - monday
   - tuesday
+- - thursday
+  - friday
+  - saturday
 - - thorn
   - bush
   - near
-- - enormous
-  - ornithological
-  - reference
 - - differing
   - breakfast
   - menus
+- - enormous
+  - ornithological
+  - reference
 - - clouds
   - falls
   - rain
-- - motion
-  - using
-  - keen
 - - ornithological
   - reference
   - library
-- - nests
-  - built
-  - high
 - - high
   - tar
   - cigarettes
+- - motion
+  - using
+  - keen
+- - nests
+  - built
+  - high
 - - fantastic
   - news
   - cried
@@ -77,6 +77,12 @@ ngrams:
 - - talons
   - insects
   - small
+- - wild
+  - embrace
+  - marigold
+- - fellow
+  - bird
+  - researcher
 - - despondent
   - marigold
   - chew
@@ -86,9 +92,6 @@ ngrams:
 - - marigold
   - chew
   - sighed
-- - wild
-  - embrace
-  - marigold
 - - shrike
   - marigold
   - chew
@@ -98,45 +101,45 @@ ngrams:
 - - marigold
   - chew
   - brandishing
-- - fellow
-  - bird
-  - researcher
 - - marigold
   - chew
   - waving
-- - chew
-  - asked
-  - pointedly
 - - munching
   - done
   - marigold
-- - thorn
-  - bush
-  - next
 - - scudding
   - clouds
   - birds
-- - clouds
-  - birds
-  - soar
-- - flight
-  - without
-  - needing
-- - returned
-  - home
-  - crushed
 - - reference
   - library
   - reading
-- - pamphlet
-  - decisively
-  - written
-- - places
-  - quite
-  - potty
+- - clouds
+  - birds
+  - soar
+- - thorn
+  - bush
+  - next
+- - flight
+  - without
+  - needing
 - - print
   - munching
   - done
+- - places
+  - quite
+  - potty
+- - chew
+  - asked
+  - pointedly
+- - pamphlet
+  - decisively
+  - written
+- - returned
+  - home
+  - crushed
+- - marigold
+  - chew
+  - o
 - - ornithological
   - reference
   - work
@@ -149,18 +152,24 @@ ngrams:
 - - shrews
   - once
   - caught
-- - library
-  - asked
-  - marigold
-- - marigold
-  - chew
-  - o
 - - again
   - tomorrow
   - staring
+- - library
+  - asked
+  - marigold
+- - quite
+  - potty
+  - probably
 - - done
   - marigold
   - chew
+- - potty
+  - probably
+  - because
+- - away
+  - thereupon
+  - executing
 - - marigold
   - chew
   - asked
@@ -173,18 +182,9 @@ ngrams:
 - - asked
   - marigold
   - chew
-- - quite
-  - potty
-  - probably
 - - five
   - hundred
   - days
-- - away
-  - thereupon
-  - executing
-- - potty
-  - probably
-  - because
 - - library
   - reading
   - room
@@ -197,132 +197,156 @@ ngrams:
 - - insects
   - small
   - birds
-- - violent
-  - little
-  - birdie
-- - violent
-  - little
-  - birdie
-- - marigold
-  - chew
-  - let
 - - fly
   - away
   - thereupon
 - - shrike
   - fly
   - away
+- - violent
+  - little
+  - birdie
+- - violent
+  - little
+  - birdie
+- - marigold
+  - chew
+  - let
+- - these
+  - clouds
+  - falls
+- - dobson's
+  - text
+  - far
+- - descending
+  - well
+  - asked
+- - airborne
+  - through
+  - keen
 - - eggy
   - buns
   - dobson
 - - digested
   - dobson
   - clambered
-- - these
-  - clouds
-  - falls
 - - tar
   - cigarettes
   - dobson
 - - fully
   - digested
   - dobson
-- - dobson's
-  - text
-  - far
-- - pip
-  - free
-  - dobson
 - - dobson
   - ate
   - lobster
-- - airborne
-  - through
-  - keen
-- - descending
-  - well
-  - asked
+- - breakfast
+  - while
+  - marigold
+- - pip
+  - free
+  - dobson
+- - most
+  - important
+  - pamphlets
 - - course
   - marigold
   - chew
-- - chew
-  - sighed
-  - dobson
+- - poor
+  - tiny
+  - thing
 - - while
   - marigold
   - chew
+- - even
+  - teeny
+  - weeny
+- - even
+  - teeny
+  - weeny
+- - itself
+  - airborne
+  - through
+- - very
+  - sharp
+  - pencil
 - - replied
   - dobson
   - research
 - - s
   - dobson
   - awoke
-- - news
-  - cried
-  - dobson
-- - breakfast
-  - while
-  - marigold
-- - poor
-  - tiny
-  - thing
-- - most
-  - important
-  - pamphlets
-- - very
-  - sharp
-  - pencil
-- - pratincole
-  - asked
-  - dobson
-- - shrike
-  - today
-  - dobson
-- - itself
-  - airborne
-  - through
-- - even
-  - teeny
-  - weeny
-- - even
-  - teeny
-  - weeny
-- - second
-  - thursday
-  - dobson
-- - well
-  - asked
-  - marigold
 - - go
   - flitting
   - until
-- - vast
-  - expanse
-  - said
+- - well
+  - asked
+  - marigold
 - - many
   - different
   - types
-- - pamphlet
-  - yourself
-  - dobson
-- - pamphleteer
-  - replied
-  - after
 - - wherein
   - such
   - goos
+- - chew
+  - sighed
+  - dobson
+- - vast
+  - expanse
+  - said
 - - repel
   - such
   - creatures
+- - news
+  - cried
+  - dobson
 - - cabinet
   - wherein
   - such
+- - pamphleteer
+  - replied
+  - after
+- - shrike
+  - today
+  - dobson
+- - catalogued
+  - over
+  - breakfast
+- - pratincole
+  - asked
+  - dobson
+- - misery
+  - etched
+  - upon
 - - long
   - pause
   - while
-- - morning
+- - gaze
+  - admiringly
+  - upon
+- - upon
+  - sharp
+  - thorns
+- - upon
+  - sharp
+  - thorns
+- - breakfast
+  - table
+  - after
+- - impales
+  - its
+  - victim
+- - impales
+  - its
+  - victim
+- - second
+  - thursday
   - dobson
-  - ate
+- - victim
+  - upon
+  - sharp
+- - victim
+  - upon
+  - sharp
 - - weeny
   - mammals
   - like
@@ -332,192 +356,159 @@ ngrams:
 - - marigold
   - chew
   - just
-- - catalogued
-  - over
-  - breakfast
-- - impales
-  - its
-  - victim
-- - impales
-  - its
-  - victim
-- - creatures
-  - said
-  - marigold
-- - munched
-  - her
-  - kedgeree
-- - few
-  - days
-  - later
+- - its
+  - talons
+  - insects
+- - its
+  - talons
+  - insects
 - - entirety
   - now
   - tinies
-- - breakfast
-  - table
-  - after
-- - its
-  - talons
-  - insects
-- - its
-  - talons
-  - insects
-- - misery
-  - etched
-  - upon
+- - pamphlet
+  - yourself
+  - dobson
+- - creatures
+  - said
+  - marigold
+- - few
+  - days
+  - later
 - - those
   - days
   - libraries
-- - upon
-  - sharp
-  - thorns
-- - upon
-  - sharp
-  - thorns
-- - gaze
-  - admiringly
-  - upon
-- - victim
-  - upon
-  - sharp
-- - victim
-  - upon
-  - sharp
-- - free
+- - morning
   - dobson
-  - took
+  - ate
 - - eggs
   - said
   - marigold
-- - said
-  - marigold
-  - chew
-- - said
-  - marigold
-  - chew
-- - said
-  - marigold
-  - chew
-- - said
-  - marigold
-  - chew
-- - said
-  - marigold
-  - chew
 - - falls
   - rain
   - now
 - - following
   - morning
   - after
+- - said
+  - marigold
+  - chew
+- - said
+  - marigold
+  - chew
+- - said
+  - marigold
+  - chew
+- - said
+  - marigold
+  - chew
+- - said
+  - marigold
+  - chew
+- - munched
+  - her
+  - kedgeree
 - - face
   - now
   - transformed
-- - chew
-  - waving
-  - her
-- - found
-  - poring
-  - over
+- - free
+  - dobson
+  - took
 - - time
   - dusk
   - descended
-- - next
-  - morning
-  - dobson
-- - waving
+- - found
+  - poring
+  - over
+- - tiny
+  - mammal
+  - upon
+- - shrike
+  - can
+  - return
+- - shrike
+  - can
+  - return
+- - chew
+  - waving
   - her
-  - hand
-- - now
-  - tinies
-  - let
 - - other
   - tiny
   - mammal
-- - tiny
-  - mammal
-  - upon
+- - now
+  - tinies
+  - let
+- - next
+  - morning
+  - dobson
+- - marigold
+  - chew
+  - could
 - - reputed
   - ornithologist
   - has
-- - shrike
-  - can
-  - return
-- - shrike
-  - can
-  - return
-- - marigold
-  - chew
-  - could
-- - expanse
-  - said
-  - dobson
+- - waving
+  - her
+  - hand
 - - very
   - very
   - sharp
-- - while
-  - she
-  - munched
 - - chew
   - could
   - tell
-- - her
-  - hand
-  - towards
-- - gore
-  - how
-  - did
-- - chew
-  - just
-  - after
-- - human
-  - eye
-  - some
-- - dobson's
-  - very
-  - very
 - - do
   - o
   - light
+- - gore
+  - how
+  - did
+- - expanse
+  - said
+  - dobson
+- - chew
+  - just
+  - after
+- - dobson's
+  - very
+  - very
+- - human
+  - eye
+  - some
+- - while
+  - she
+  - munched
 - - mashed
   - up
   - cake
-- - sighed
-  - dobson
-  - she
-- - some
-  - minutes
-  - later
-- - marigold
-  - chew
-  - who
-- - their
-  - wild
-  - embrace
+- - her
+  - hand
+  - towards
 - - tiny
   - thing
   - upon
+- - their
+  - wild
+  - embrace
 - - some
-  - go
-  - flitting
+  - minutes
+  - later
 - - what
   - pratt
   - dubbed
 - - such
   - creatures
   - said
-- - o'
-  - mine
-  - what
+- - some
+  - go
+  - flitting
+- - marigold
+  - chew
+  - who
 - - until
   - some
   - minutes
-- - said
-  - dobson
-  - across
-- - life
-  - said
-  - dobson
+- - o'
+  - mine
+  - what
 - - libraries
   - were
   - havens
@@ -527,6 +518,18 @@ ngrams:
 - - eye
   - some
   - come
+- - sighed
+  - dobson
+  - she
+- - said
+  - dobson
+  - across
+- - flesh
+  - into
+  - smaller
+- - flesh
+  - into
+  - smaller
 - - did
   - said
   - marigold
@@ -536,69 +539,102 @@ ngrams:
 - - wednesday
   - were
   - identical
-- - flesh
-  - into
-  - smaller
-- - flesh
-  - into
-  - smaller
 - - swooped
   - into
   - view
-- - sky
-  - some
-  - go
-- - its
-  - entirety
-  - now
+- - life
+  - said
+  - dobson
 - - shall
   - mop
   - up
-- - she
-  - munched
-  - her
 - - its
   - victim
   - upon
 - - its
   - victim
   - upon
+- - its
+  - entirety
+  - now
+- - sky
+  - some
+  - go
 - - marigold
   - chew
   - what
-- - morning
-  - each
-  - has
+- - possibly
+  - out
+  - loud
 - - get
   - close
   - up
 - - today
   - were
   - clad
-- - bird
-  - swooped
-  - into
-- - possibly
-  - out
-  - loud
 - - pamphleteer
   - headed
   - out
+- - bird
+  - swooped
+  - into
 - - birds
   - many
   - more
-- - she
-  - asked
-  - did
-- - do
-  - said
-  - marigold
-- - all
-  - particulars
-  - except
+- - morning
+  - each
+  - has
 - - marigold
   - chew
   - when
+- - all
+  - particulars
+  - except
+- - do
+  - said
+  - marigold
+- - can
+  - smear
+  - upon
+- - days
+  - libraries
+  - were
+- - ornithologist
+  - has
+  - said
+- - she
+  - asked
+  - did
+- - she
+  - munched
+  - her
+- - time
+  - its
+  - call
+- - time
+  - its
+  - call
+- - hundred
+  - days
+  - out
+- - myself
+  - possibly
+  - out
+- - later
+  - time
+  - its
+- - later
+  - time
+  - its
+- - some
+  - fluid
+  - she
+- - come
+  - into
+  - land
+- - tinies
+  - let
+  - me
 story:
   date: 2010-06-01
   id: 2010-06-01-flight-patterns-of-the-common-shrike

@@ -5,6 +5,9 @@ ngrams:
 - - indigenous
   - hungarian
   - dramaturge
+- - telepathic
+  - arts
+  - chuckled
 - - bob
   - dep
   - cue
@@ -14,21 +17,18 @@ ngrams:
 - - deputy
   - dramaturge
   - bob
-- - telepathic
-  - arts
-  - chuckled
 - - expertise
   - bob
   - dep
 - - bob
   - dep
   - peered
-- - astonishingly
-  - tall
-  - renaissance
 - - seemingly
   - endless
   - blathering
+- - astonishingly
+  - tall
+  - renaissance
 - - hungarian
   - toxic
   - sludge
@@ -47,6 +47,9 @@ ngrams:
 - - pet
   - wasp
   - martin
+- - usage
+  - merely
+  - reflects
 - - toxic
   - sludge
   - disaster
@@ -56,9 +59,6 @@ ngrams:
 - - fast
   - pals
   - nan
-- - usage
-  - merely
-  - reflects
 - - sludge
   - disaster
   - ballet
@@ -68,12 +68,12 @@ ngrams:
 - - swiss
   - dramaturgy
   - fall
-- - mrs
-  - robert
-  - fripp
 - - became
   - strangely
   - fractious
+- - mrs
+  - robert
+  - fripp
 - - began
   - babbling
   - excitedly
@@ -86,9 +86,6 @@ ngrams:
 - - few
   - minutes
   - rolf
-- - performing
-  - arts
-  - how
 - - much
   - mwah
   - mwah
@@ -101,36 +98,48 @@ ngrams:
 - - pointy
   - town
   - police
+- - performing
+  - arts
+  - how
 - - tall
   - renaissance
   - man
+- - robert
+  - fripp
+  - might
 - - renaissance
   - man
   - peter
 - - cheeks
   - immediately
   - after
-- - said
-  - bob
-  - dep
 - - improved
   - said
   - nan
-- - suggest
-  - said
-  - rolf
-- - robert
-  - fripp
-  - might
+- - said
+  - bob
+  - dep
 - - dep
   - peered
   - where
+- - suggest
+  - said
+  - rolf
 - - commit
   - such
   - crimes
 - - such
   - fast
   - pals
+- - fripp
+  - might
+  - put
+- - swiss
+  - dramaturge
+  - could
+- - lady
+  - then
+  - contemplated
 - - resume
   - her
   - seemingly
@@ -143,15 +152,6 @@ ngrams:
 - - her
   - pet
   - wasp
-- - fripp
-  - might
-  - put
-- - swiss
-  - dramaturge
-  - could
-- - lady
-  - then
-  - contemplated
 - - ask
   - her
   - opinion
@@ -164,27 +164,24 @@ ngrams:
 - - ponder
   - next
   - time
-- - new
-  - ballet
-  - she
 - - their
   - features
   - reluctantly
-- - obscure
-  - their
-  - features
-- - such
-  - said
-  - bob
 - - might
   - commit
   - such
+- - obscure
+  - their
+  - features
+- - new
+  - ballet
+  - she
+- - such
+  - said
+  - bob
 - - endless
   - blathering
   - about
-- - deputy
-  - dramaturge
-  - were
 - - babbling
   - excitedly
   - about
@@ -197,48 +194,51 @@ ngrams:
 - - bob
   - dep
   - if
-- - she
-  - could
-  - concentrate
-- - dramaturge
+- - deputy
+  - dramaturge
   - were
-  - each
 - - hungarian
   - dramaturge
   - would
+- - she
+  - could
+  - concentrate
+- - switzerland
+  - 'no'
+  - might
+- - dramaturge
+  - were
+  - each
+- - something
+  - other
+  - than
 - - they
   - became
   - strangely
 - - trio
   - they
   - became
-- - something
-  - other
-  - than
-- - switzerland
-  - 'no'
-  - might
 - - pointy
   - town
   - when
 - - bob
   - dep
   - so
-- - current
-  - preoccupation
-  - which
 - - so
   - swiss
   - dramaturge
-- - next
-  - time
-  - she
-- - been
-  - such
-  - fast
 - - wasp
   - would
   - put
+- - current
+  - preoccupation
+  - which
+- - been
+  - such
+  - fast
+- - next
+  - time
+  - she
 story:
   date: 2010-10-10
   id: 2010-10-10-kew-turge

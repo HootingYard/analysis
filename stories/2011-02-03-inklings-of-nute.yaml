@@ -1,22 +1,25 @@
 ngrams:
+- - rollo
+  - rollo
+  - grunts
+- - rollo
+  - grunts
+  - rollo
 - - barbarous
   - islanders
   - survived
-- - rollo
-  - rollo
-  - grunts
-- - rollo
-  - grunts
-  - rollo
-- - eben
-  - j
-  - hunt
-- - eben
-  - j
-  - hunt
 - - grunting
   - rollo
   - rollo
+- - eben
+  - j
+  - hunt
+- - eben
+  - j
+  - hunt
+- - resort
+  - henry
+  - holden
 - - henry
   - holden
   - tells
@@ -26,81 +29,78 @@ ngrams:
 - - kenilworth
   - blavatsky
   - entitled
-- - resort
-  - henry
-  - holden
-- - constance
-  - pulp
-  - entitled
 - - ogden
   - spray
+  - entitled
+- - constance
+  - pulp
   - entitled
 - - unlikely
   - source
   - materials
-- - american
-  - ship
-  - mentor
 - - indefatigable
   - research
   - skills
-- - figure
-  - named
-  - rollo
 - - public
   - resort
   - henry
+- - american
+  - ship
+  - mentor
 - - cold
   - benj
   - h
+- - figure
+  - named
+  - rollo
 - - narrator
   - hands
   - rollo
 - - clothes
   - already
   - concealed
-- - personages
-  - whose
-  - deeds
 - - entitled
   - character
   - sketches
-- - men
-  - named
-  - rollo
-- - intrepid
-  - men
-  - named
 - - run
   - cold
   - benj
 - - spray
   - entitled
   - character
-- - short
-  - blonde
-  - hair
+- - personages
+  - whose
+  - deeds
 - - invented
   - greaseproof
   - paper
-- - mysterious
-  - figure
+- - men
   - named
+  - rollo
+- - intrepid
+  - men
+  - named
+- - short
+  - blonde
+  - hair
 - - among
   - barbarous
   - islanders
+- - mysterious
+  - figure
+  - named
 - - marooned
   - among
   - barbarous
-- - further
-  - dozen
-  - inklings
-- - sea
-  - voyage
-  - enlisting
 - - joy
   - several
   - passages
+- - sea
+  - voyage
+  - enlisting
+- - further
+  - dozen
+  - inklings
 - - stowaway
   - hiding
   - under
@@ -140,60 +140,81 @@ ngrams:
 - - each
   - other's
   - eyes
-- - once
-  - marooned
-  - among
 - - going
   - without
   - clothes
-- - scampers
-  - away
-  - towards
+- - once
+  - marooned
+  - among
 - - through
   - evidence
   - scattered
 - - very
   - intrepid
   - fellow
-- - strung
-  - between
-  - two
+- - scampers
+  - away
+  - towards
 - - work
   - mr
   - hunt
+- - strung
+  - between
+  - two
 - - finest
   - linen
   - where
-- - tells
-  - us
-  - nothing
-- - almost
-  - two
-  - hundred
-- - between
-  - two
-  - trees
 - - detective
   - work
   - mr
-- - once
-  - again
-  - call
-- - unusual
-  - devastation
-  - she
-- - away
-  - towards
-  - further
+- - tells
+  - us
+  - nothing
+- - between
+  - two
+  - trees
+- - almost
+  - two
+  - hundred
 - - hunt
   - stumbled
   - upon
+- - once
+  - again
+  - call
 - - never
   - reconciled
   - himself
+- - away
+  - towards
+  - further
 - - man
   - without
   - clothes
+- - several
+  - passages
+  - where
+- - shall
+  - once
+  - again
+- - unusual
+  - devastation
+  - she
+- - than
+  - hiding
+  - under
+- - seemed
+  - like
+  - passion
+- - rather
+  - than
+  - hiding
+- - other
+  - personages
+  - whose
+- - two
+  - years
+  - afterwards
 - - arms
   - stroking
   - her
@@ -203,42 +224,21 @@ ngrams:
 - - her
   - short
   - blonde
-- - seemed
-  - like
-  - passion
-- - shall
-  - once
-  - again
-- - several
-  - passages
-  - where
-- - other
-  - personages
-  - whose
-- - than
-  - hiding
-  - under
-- - two
-  - years
-  - afterwards
-- - rather
-  - than
-  - hiding
-- - two
-  - hundred
-  - years
 - - more
   - hunt
   - looked
+- - two
+  - hundred
+  - years
+- - did
+  - indeed
+  - seem
 - - tossed
   - him
   - overboard
 - - intrepid
   - rollo
   - has
-- - did
-  - indeed
-  - seem
 - - rollo
   - who
   - reluctantly
@@ -248,33 +248,33 @@ ngrams:
 - - hunt
   - has
   - followed
-- - named
-  - rollo
-  - who
 - - rollo
   - some
   - kind
+- - named
+  - rollo
+  - who
 - - under
   - some
   - mats
-- - been
-  - fastened
-  - repeatedly
 - - own
   - name
   - where
+- - been
+  - fastened
+  - repeatedly
 - - who
   - reluctantly
   - without
 - - who
   - once
   - marooned
-- - afterwards
-  - were
-  - subjected
 - - mr
   - hunt
   - has
+- - afterwards
+  - were
+  - subjected
 - - centuries
   - only
   - then
@@ -296,48 +296,48 @@ ngrams:
 - - where
   - rather
   - than
-- - fastened
-  - repeatedly
-  - they
-- - naked
-  - who
-  - only
 - - we
   - narrowly
   - averted
-- - into
-  - each
-  - other's
+- - fastened
+  - repeatedly
+  - they
 - - henry
   - holden
   - we
-- - who
+- - into
+  - each
+  - other's
+- - naked
+  - who
   - only
-  - recently
 - - five
   - inklings
   - would
 - - already
   - concealed
   - there
+- - who
+  - only
+  - recently
+- - haunt
+  - us
+  - if
+- - magisterial
+  - are
+  - glimpses
 - - years
   - afterwards
   - were
 - - were
   - cast
   - away
-- - magisterial
-  - are
-  - glimpses
-- - man
-  - who
-  - once
-- - haunt
-  - us
-  - if
 - - look
   - into
   - each
+- - man
+  - who
+  - once
 - - call
   - magisterial
   - are

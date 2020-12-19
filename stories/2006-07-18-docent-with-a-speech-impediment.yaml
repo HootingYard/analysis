@@ -1,19 +1,19 @@
 ngrams:
+- - glub
+  - glub
+  - glub
 - - lovecraft
   - glub
   - glub
 - - proprietor
   - ian
   - anderson
-- - glub
-  - glub
-  - glub
-- - low
-  - growled
-  - monotonous
 - - jarring
   - speech
   - impediment
+- - low
+  - growled
+  - monotonous
 - - taught
   - legendary
   - striker
@@ -26,15 +26,15 @@ ngrams:
 - - p
   - lovecraft
   - glub
-- - hungarian
-  - football
-  - club
 - - sherlock
   - holmes
   - devoted
 - - jethro
   - tull
   - songs
+- - hungarian
+  - football
+  - club
 - - rare
   - goats
   - eschewed
@@ -71,12 +71,21 @@ ngrams:
 - - fearsomely
   - complicated
   - yet
-- - fish
-  - farm
-  - man
 - - gorgeous
   - sunset
   - over
+- - fish
+  - farm
+  - man
+- - never
+  - entirely
+  - clear
+- - explaining
+  - every
+  - last
+- - every
+  - last
+  - spark
 - - umbrella
   - man
   - right
@@ -86,33 +95,24 @@ ngrams:
 - - right
   - umbrella
   - man
-- - explaining
-  - every
-  - last
-- - every
-  - last
-  - spark
 - - umbrella
   - man
   - left
+- - saying
+  - let
+  - us
 - - farm
   - man
   - note
-- - never
-  - entirely
-  - clear
+- - like
+  - sherlock
+  - holmes
 - - man
   - left
   - fish
 - - man
   - note
   - wind
-- - like
-  - sherlock
-  - holmes
-- - saying
-  - let
-  - us
 - - could
   - almost
   - guarantee
@@ -125,27 +125,27 @@ ngrams:
 - - very
   - very
   - familiar
-- - us
-  - now
-  - examine
 - - time
   - explaining
   - every
+- - us
+  - now
+  - examine
+- - familiar
+  - about
+  - umbrella
+- - speech
+  - impediment
+  - when
 - - something
   - very
   - very
 - - let
   - us
   - now
-- - familiar
-  - about
-  - umbrella
 - - note
   - wind
   - up
-- - speech
-  - impediment
-  - when
 - - doesn't
   - matter
   - what
@@ -155,36 +155,36 @@ ngrams:
 - - moustache
   - sometimes
   - when
+- - zapruder
+  - footage
+  - there
 - - were
   - always
   - puckered
 - - lips
   - were
   - always
-- - zapruder
-  - footage
-  - there
 - - sensible
   - words
   - were
 - - issue
   - forth
   - would
-- - words
-  - were
-  - turned
 - - footage
   - there
   - seems
-- - lunchtime
-  - preferences
-  - which
+- - words
+  - were
+  - turned
 - - about
   - umbrella
   - man
-- - matter
-  - what
-  - made
+- - lunchtime
+  - preferences
+  - which
+- - very
+  - familiar
+  - about
 story:
   date: 2006-07-18
   id: 2006-07-18-docent-with-a-speech-impediment

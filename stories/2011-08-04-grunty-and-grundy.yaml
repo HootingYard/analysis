@@ -5,9 +5,6 @@ ngrams:
 - - brown
   - helpfully
   - enclosed
-- - ms
-  - brown
-  - helpfully
 - - miss
   - dimity
   - cashew
@@ -17,9 +14,9 @@ ngrams:
 - - albeit
   - tentatively
   - regarding
-- - emily
-  - post's
-  - mrs
+- - ms
+  - brown
+  - helpfully
 - - poor
   - lonely
   - souls
@@ -32,27 +29,30 @@ ngrams:
 - - rest
   - albeit
   - tentatively
+- - emily
+  - post's
+  - mrs
 - - one's
   - extended
   - family
-- - family
-  - ties
-  - dear
 - - different
   - correspondent
   - raises
+- - family
+  - ties
+  - dear
 - - matter
   - ms
   - brown
 - - whom
   - emily
   - post
-- - emily
-  - post
-  - wrote
 - - moot
   - point
   - anyway
+- - emily
+  - post
+  - wrote
 - - both
   - one's
   - extended
@@ -68,24 +68,24 @@ ngrams:
 - - manual
   - regrettably
   - make
-- - concerning
-  - two
-  - legendary
-- - ever
-  - dared
-  - enter
 - - ties
   - dear
   - mr
+- - ever
+  - dared
+  - enter
+- - concerning
+  - two
+  - legendary
 - - two
   - characters
   - related
-- - excluding
-  - those
-  - poor
 - - curiously
   - because
   - quite
+- - excluding
+  - those
+  - poor
 - - those
   - poor
   - lonely
@@ -95,66 +95,66 @@ ngrams:
 - - dear
   - mr
   - key
-- - grunty
-  - man
-  - does
 - - say
   - curiously
   - because
-- - curiously
-  - she
-  - picked
-- - neither
-  - curiously
-  - she
-- - because
-  - quite
-  - why
+- - grunty
+  - man
+  - does
 - - more
   - recent
   - incarnations
+- - because
+  - quite
+  - why
+- - dimity
+  - cashew
+  - can
+- - curiously
+  - she
+  - picked
 - - these
   - two
   - characters
-- - grunty
-  - man
-  - too
+- - neither
+  - curiously
+  - she
 - - helpfully
   - enclosed
   - some
 - - enclosed
   - some
   - snapshots
-- - dimity
-  - cashew
-  - can
+- - grunty
+  - man
+  - too
+- - rarely
+  - allows
+  - them
 - - dimity
   - cashew
   - who
 - - nightmares
   - who
   - lurks
-- - jackal
-  - nobody
-  - has
 - - lonely
   - souls
   - who
 - - children's
   - nightmares
   - who
-- - rarely
-  - allows
-  - them
+- - jackal
+  - nobody
+  - has
 - - who
   - lurks
   - alone
-- - put
-  - her
-  - mind
 - - cashew
   - can
   - put
+- - put
+  - her
+  - mind
 story:
   date: 2011-08-04
   id: 2011-08-04-grunty-and-grundy

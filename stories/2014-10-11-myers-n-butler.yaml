@@ -5,21 +5,24 @@ ngrams:
 - - eager
   - temperament
   - restrained
-- - february
-  - myers
-  - devotes
-- - contagious
-  - diseases
-  - acts
 - - mirror
   - devoutly
   - praying
-- - mrs
-  - josephine
-  - butler
+- - contagious
+  - diseases
+  - acts
+- - february
+  - myers
+  - devotes
+- - slim
+  - form
+  - stretched
 - - liverpool
   - college
   - mrs
+- - mrs
+  - josephine
+  - butler
 - - college
   - mrs
   - butler
@@ -29,9 +32,6 @@ ngrams:
 - - mrs
   - butler
   - repeatedly
-- - slim
-  - form
-  - stretched
 - - friends
   - hardly
   - knew
@@ -41,12 +41,12 @@ ngrams:
 - - myers
   - devotes
   - himself
-- - mrs
-  - butler
-  - later
 - - simple
   - having
   - aroused
+- - mrs
+  - butler
+  - later
 - - own
   - inner
   - trials
@@ -68,33 +68,36 @@ ngrams:
 - - salvation
   - only
   - men
-- - aroused
-  - her
-  - quarry
-- - her
-  - mirror
-  - devoutly
-- - her
-  - exciting
-  - concern
-- - men
-  - her
-  - religion
-- - her
-  - slim
-  - form
 - - coolest
   - heads
   - could
+- - aroused
+  - her
+  - quarry
 - - heads
   - could
   - resist
 - - rather
   - than
   - dogmatic
+- - her
+  - mirror
+  - devoutly
 - - emotional
   - rather
   - than
+- - her
+  - exciting
+  - concern
+- - her
+  - slim
+  - form
+- - men
+  - her
+  - religion
+- - next
+  - few
+  - years
 - - her
   - campaign
   - against
@@ -104,12 +107,9 @@ ngrams:
 - - having
   - aroused
   - her
-- - next
-  - few
-  - years
-- - find
-  - her
-  - kneeling
+- - instance
+  - call
+  - him
 story:
   date: 2014-10-11
   id: 2014-10-11-myers-n-butler

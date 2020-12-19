@@ -14,32 +14,32 @@ ngrams:
 - - reader's
   - digest
   - repair
-- - wear
-  - plumed
-  - hats
-- - wear
-  - plumed
-  - hats
-- - satraps
-  - hold
-  - councils
 - - unbound
   - periodicals
   - including
 - - satraps
-  - carry
-  - tally
+  - hold
+  - councils
+- - wear
+  - plumed
+  - hats
+- - wear
+  - plumed
+  - hats
 - - satraps
   - carry
   - tally
 - - satraps
   - carry
   - tally
-- - periodical
-  - entitled
-  - satraps
+- - satraps
+  - carry
+  - tally
 - - periodicals
   - including
+  - satraps
+- - periodical
+  - entitled
   - satraps
 - - remote
   - prison
@@ -47,15 +47,15 @@ ngrams:
 - - fascinating
   - periodical
   - entitled
-- - carry
-  - tally
-  - sticks
-- - carry
-  - tally
-  - sticks
 - - latest
   - reader's
   - digest
+- - carry
+  - tally
+  - sticks
+- - carry
+  - tally
+  - sticks
 - - carry
   - tally
   - sticks
@@ -83,18 +83,18 @@ ngrams:
 - - digest
   - repair
   - work
-- - flightless
-  - birds
-  - fall
 - - consider
   - flightless
   - birds
-- - subject
-  - flightless
+- - flightless
   - birds
+  - fall
 - - side
   - panel
   - thus
+- - subject
+  - flightless
+  - birds
 - - dangerous
   - new
   - fluid
@@ -116,18 +116,18 @@ ngrams:
 - - use
   - different
   - words
-- - short
-  - while
-  - ago
 - - issue
   - might
   - include
-- - prison
-  - island
-  - where
+- - short
+  - while
+  - ago
 - - future
   - issue
   - might
+- - prison
+  - island
+  - where
 - - other
   - hats
   - sported
@@ -137,15 +137,15 @@ ngrams:
 - - periodicals
   - more
   - vivid
+- - am
+  - extremely
+  - keen
 - - later
   - today
   - after
 - - some
   - fascinating
   - linguistic
-- - am
-  - extremely
-  - keen
 - - include
   - some
   - maps
@@ -167,51 +167,48 @@ ngrams:
 - - 'no'
   - previous
   - interest
-- - face
-  - 'no'
-  - clashes
-- - maps
-  - just
-  - like
 - - their
   - hats
   - according
-- - tie
-  - their
-  - hair
-- - tie
-  - their
-  - hair
-- - tie
-  - their
-  - hair
-- - tie
-  - their
-  - hair
-- - count
-  - them
-  - often
+- - face
+  - 'no'
+  - clashes
 - - vivid
   - even
   - than
+- - count
+  - them
+  - often
+- - maps
+  - just
+  - like
+- - tie
+  - their
+  - hair
+- - tie
+  - their
+  - hair
+- - tie
+  - their
+  - hair
+- - tie
+  - their
+  - hair
 - - within
   - their
   - purview
-- - fall
-  - within
-  - their
-- - any
-  - other
-  - hats
 - - ever
   - even
   - though
 - - any
   - other
+  - hats
+- - fall
+  - within
+  - their
+- - any
+  - other
   - country
-- - take
-  - 'no'
-  - notice
 - - periodical
   - even
   - more
@@ -224,12 +221,15 @@ ngrams:
 - - more
   - vivid
   - than
-- - look
-  - like
-  - any
+- - take
+  - 'no'
+  - notice
 - - might
   - include
   - some
+- - look
+  - like
+  - any
 - - they
   - owe
   - fealty
@@ -251,54 +251,54 @@ ngrams:
 - - they
   - consider
   - flightless
-- - what
-  - these
-  - mountains
-- - expect
-  - they
-  - use
-- - use
-  - words
-  - when
 - - would
   - count
   - although
+- - what
+  - these
+  - mountains
+- - use
+  - words
+  - when
+- - expect
+  - they
+  - use
 - - learn
   - what
   - these
-- - been
-  - won
-  - over
 - - clashes
   - are
   - conducted
-- - racks
-  - here
-  - were
+- - been
+  - won
+  - over
 - - least
   - they
   - act
 - - they
   - count
   - nor
-- - here
-  - were
-  - stacked
 - - brains
   - are
   - wired
-- - satraps
-  - because
-  - they
-- - they
-  - use
-  - different
-- - because
-  - they
-  - wear
 - - quirks
   - because
   - there
+- - satraps
+  - because
+  - they
+- - racks
+  - here
+  - were
+- - they
+  - use
+  - different
+- - here
+  - were
+  - stacked
+- - because
+  - they
+  - wear
 - - are
   - subject
   - flightless
@@ -308,18 +308,18 @@ ngrams:
 - - are
   - discussed
   - important
-- - they
-  - devise
-  - many
-- - mountains
-  - are
-  - called
-- - like
-  - any
-  - other
 - - am
   - 'no'
   - longer
+- - they
+  - devise
+  - many
+- - like
+  - any
+  - other
+- - mountains
+  - are
+  - called
 - - birds
   - are
   - poultry
@@ -332,18 +332,21 @@ ngrams:
 - - known
   - birds
   - are
-- - promising
-  - convicts
-  - had
-- - these
-  - mountains
-  - are
 - - some
   - maps
   - when
+- - these
+  - mountains
+  - are
 - - an
   - airport
   - quite
+- - promising
+  - convicts
+  - had
+- - plumed
+  - hats
+  - or
 - - do
   - they
   - devise
@@ -353,72 +356,69 @@ ngrams:
 - - such
   - clashes
   - are
-- - made
-  - an
-  - excellent
-- - plumed
-  - hats
-  - or
 - - particulars
   - but
   - mostly
-- - create
-  - laws
-  - but
 - - either
   - satraps
   - or
+- - create
+  - laws
+  - but
 - - periodicals
   - whether
   - or
+- - made
+  - an
+  - excellent
 - - knots
   - this
   - much
+- - satraps
+  - have
+  - dominion
 - - because
   - they
   - do
 - - they
   - tie
   - their
-- - satraps
-  - have
-  - dominion
-- - sluicing
-  - had
-  - much
-- - mezzanine
-  - level
-  - at
-- - mezzanine
-  - level
-  - at
 - - one
   - flies
   - over
+- - mezzanine
+  - level
+  - at
+- - mezzanine
+  - level
+  - at
 - - hold
   - councils
   - at
+- - sluicing
+  - had
+  - much
 - - not
   - create
   - laws
-- - when
-  - they
-  - count
+- - called
+  - or
+  - indeed
 - - have
   - both
   - plumed
 - - not
   - carry
   - tally
-- - their
-  - brains
-  - are
+- - when
+  - they
+  - count
 - - hats
   - sported
   - by
-- - called
-  - or
-  - indeed
+- - their
+  - brains
+  - are
 - - whether
   - they
   - were

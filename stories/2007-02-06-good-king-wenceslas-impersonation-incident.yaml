@@ -11,66 +11,66 @@ ngrams:
 - - stainless
   - steel
   - installed
-- - hovels
-  - hail
-  - stooping
 - - steel
   - guttering
   - chaps
+- - hovels
+  - hail
+  - stooping
 - - hearken
   - ye
   - stooped
 - - impersonation
   - incident
   - hearken
-- - kingly
-  - tone
-  - stoop
-- - natterjack
-  - man's
-  - ragged
 - - ye
   - stooped
   - mendicant
 - - wenceslas
   - impersonation
   - incident
+- - kingly
+  - tone
+  - stoop
+- - natterjack
+  - man's
+  - ragged
 - - man's
   - ragged
   - sleeve
-- - sporting
-  - legend
-  - weighed
 - - cantankerous
   - training
   - manager
 - - provoke
   - visions
   - depending
+- - sporting
+  - legend
+  - weighed
 - - gold
   - medals
   - famed
-- - nearest
-  - athletics
-  - stadium
 - - incident
   - hearken
   - ye
+- - nearest
+  - athletics
+  - stadium
 - - rigorous
   - exercise
   - regime
-- - local
-  - stainless
-  - steel
 - - athletics
   - coach
   - stumbled
-- - stone
-  - staircase
-  - impeded
 - - legendary
   - athletics
   - coach
+- - local
+  - stainless
+  - steel
+- - stone
+  - staircase
+  - impeded
 - - highest
   - chamber
   - higher
@@ -80,63 +80,63 @@ ngrams:
 - - medals
   - famed
   - beyond
-- - swung
-  - open
-  - eerily
-- - round
-  - unstoppable
-  - rashly
-- - frozen
-  - white
-  - expanse
 - - king
   - wenceslas
   - impersonation
+- - round
+  - unstoppable
+  - rashly
 - - king
   - wenceslas
   - laughed
-- - battered
-  - tin
-  - crown
-- - top
-  - championship
-  - athlete
-- - local
-  - mendicants
-  - spent
-- - astonishingly
-  - incisive
-  - mind
-- - castle
-  - swung
-  - open
-- - open
-  - eerily
-  - silent
-- - huge
-  - iron
-  - doors
-- - hot
-  - salty
-  - tears
-- - tin
-  - crown
-  - atop
+- - frozen
+  - white
+  - expanse
 - - gate
   - o
   - wretch
+- - swung
+  - open
+  - eerily
+- - top
+  - championship
+  - athlete
+- - battered
+  - tin
+  - crown
+- - local
+  - mendicants
+  - spent
+- - castle
+  - swung
+  - open
+- - astonishingly
+  - incisive
+  - mind
+- - open
+  - eerily
+  - silent
+- - hot
+  - salty
+  - tears
+- - points
+  - westward
+  - learned
+- - tin
+  - crown
+  - atop
+- - huge
+  - iron
+  - doors
+- - famed
+  - beyond
+  - common
 - - horrible
   - woods
   - beyond
 - - badgers
   - whose
   - domain
-- - points
-  - westward
-  - learned
-- - famed
-  - beyond
-  - common
 - - plastic
   - beaker
   - towards
@@ -146,24 +146,18 @@ ngrams:
 - - castle
   - days
   - moping
-- - found
-  - puffing
-  - cigarettes
 - - beyond
   - common
   - sense
-- - lying
-  - around
-  - groaning
+- - found
+  - puffing
+  - cigarettes
 - - staircase
   - impeded
   - every
-- - last
-  - toes
-  - crushed
-- - pictured
-  - himself
-  - standing
+- - lying
+  - around
+  - groaning
 - - good
   - king
   - wenceslas
@@ -182,9 +176,15 @@ ngrams:
 - - counterfeit
   - good
   - king
+- - pictured
+  - himself
+  - standing
 - - fictional
   - charge
   - nor
+- - last
+  - toes
+  - crushed
 - - new
   - stainless
   - steel
@@ -194,6 +194,9 @@ ngrams:
 - - gleaming
   - new
   - stainless
+- - toad
+  - though
+  - none
 - - constricting
   - galoshes
   - old
@@ -206,9 +209,6 @@ ngrams:
 - - rented
   - chambers
   - old
-- - toad
-  - though
-  - none
 - - foreseen
   - how
   - grievously
@@ -224,45 +224,45 @@ ngrams:
 - - getting
   - carried
   - away
-- - too
-  - gently
-  - towards
 - - mendicants
   - spent
   - much
-- - legend
-  - weighed
-  - down
+- - too
+  - gently
+  - towards
 - - impeded
   - every
   - few
+- - legend
+  - weighed
+  - down
+- - between
+  - these
+  - extremities
 - - coach
   - stumbled
   - down
 - - every
   - few
   - steps
-- - between
-  - these
-  - extremities
 - - galoshes
   - between
   - these
-- - long
-  - last
-  - toes
 - - chamber
   - higher
   - than
-- - stooped
-  - now
-  - unbeknown
-- - mendicant
-  - stooped
-  - now
+- - long
+  - last
+  - toes
 - - running
   - track
   - than
+- - mendicant
+  - stooped
+  - now
+- - stooped
+  - now
+  - unbeknown
 - - distant
   - hills
   - where
@@ -275,57 +275,54 @@ ngrams:
 - - other
   - withered
   - arm
-- - natterjack
-  - man
-  - still
-- - man
-  - still
-  - stooped
 - - castle
   - yet
   - here
-- - its
-  - black
-  - throat
 - - shall
   - pass
   - over
-- - new
-  - surroundings
-  - those
+- - natterjack
+  - man
+  - still
 - - licked
   - can
   - provoke
+- - man
+  - still
+  - stooped
 - - can
   - provoke
   - visions
+- - new
+  - surroundings
+  - those
+- - its
+  - black
+  - throat
 - - natterjack
   - man
   - made
 - - surprise
   - felled
   - him
-- - some
-  - distant
-  - hills
 - - its
   - own
   - spigot
-- - propelled
-  - him
-  - towards
+- - some
+  - distant
+  - hills
 - - tone
   - stoop
   - 'no'
-- - time
-  - lying
-  - around
 - - galoshes
   - could
   - still
-- - their
-  - hot
-  - salty
+- - time
+  - lying
+  - around
+- - propelled
+  - him
+  - towards
 - - am
   - good
   - king
@@ -335,30 +332,33 @@ ngrams:
 - - even
   - any
   - tracks
+- - their
+  - hot
+  - salty
 - - higher
   - than
   - even
-- - already
-  - been
-  - lying
-- - been
-  - paying
-  - attention
-- - drifted
-  - into
-  - clumps
-- - exercise
-  - regime
-  - into
 - - thus
   - far
   - more
-- - transform
-  - him
-  - through
+- - drifted
+  - into
+  - clumps
+- - already
+  - been
+  - lying
+- - exercise
+  - regime
+  - into
+- - been
+  - paying
+  - attention
 - - none
   - other
   - than
+- - transform
+  - him
+  - through
 - - 'no'
   - reason
   - why
@@ -371,48 +371,48 @@ ngrams:
 - - paying
   - attention
   - will
+- - sprained
+  - ankle
+  - would
+- - tivol
+  - would
+  - sprint
 - - made
   - 'no'
   - reply
 - - all
   - conscience
   - call
-- - sprained
-  - ankle
-  - would
-- - put
-  - him
-  - through
-- - tivol
-  - would
-  - sprint
 - - bears
   - wait
   - there
-- - 'no'
-  - fewer
-  - than
 - - would
   - sprint
   - round
-- - plastic
-  - beaker
-  - which
+- - put
+  - him
+  - through
+- - 'no'
+  - fewer
+  - than
 - - surveyed
   - though
   - all
+- - we
+  - shall
+  - pass
+- - plastic
+  - beaker
+  - which
+- - stoop
+  - 'no'
+  - more
 - - crows
   - which
   - perched
 - - which
   - fictional
   - athlete
-- - we
-  - shall
-  - pass
-- - stoop
-  - 'no'
-  - more
 - - their
   - time
   - lying

@@ -5,39 +5,39 @@ ngrams:
 - - vultures
   - emily
   - reuben
-- - viennese
-  - vultures
-  - emily
 - - gin
   - victoria
   - julian
+- - viennese
+  - vultures
+  - emily
 - - cheese
   - triangles
   - lindsey
 - - drank
   - copious
   - quantities
+- - startlingly
+  - rough
+  - crossing
 - - boiled
   - viennese
   - beans
 - - emily
   - reuben
   - threw
-- - startlingly
-  - rough
-  - crossing
 - - replied
   - jon
   - lindsey
-- - hamper
-  - replied
-  - jon
 - - rich
   - cemetery
   - soil
 - - rare
   - viennese
   - vultures
+- - hamper
+  - replied
+  - jon
 - - reuben
   - threw
   - pebbles
@@ -56,51 +56,51 @@ ngrams:
 - - four
   - newsreader
   - picnics
-- - annual
-  - channel
-  - four
 - - previous
   - year
   - krishnan
-- - cabbage
-  - water
-  - sprinkled
+- - annual
+  - channel
+  - four
 - - crystal
   - clear
   - i'm
 - - special
   - picnic
   - songs
-- - asked
-  - nicholas
-  - glass
+- - cabbage
+  - water
+  - sprinkled
 - - however
   - drank
   - copious
-- - banjo
-  - case
-  - supplied
 - - moot
   - point
   - gary
+- - asked
+  - nicholas
+  - glass
+- - banjo
+  - case
+  - supplied
 - - channel
   - four
   - news
-- - pitting
-  - himself
-  - against
-- - viennese
-  - worms
-  - made
 - - anglers
   - though
   - whether
+- - pitting
+  - himself
+  - against
 - - point
   - gary
   - himself
 - - make
   - crystal
   - clear
+- - viennese
+  - worms
+  - made
 - - himself
   - against
   - nature
@@ -110,21 +110,21 @@ ngrams:
 - - said
   - lindsay
   - taylor
-- - nicholas
-  - ate
-  - only
-- - basket
-  - said
-  - carl
-- - grave
-  - here
-  - music
 - - even
   - fairer
   - hopes
+- - basket
+  - said
+  - carl
+- - nicholas
+  - ate
+  - only
 - - should
   - picnic
   - next
+- - grave
+  - here
+  - music
 - - any
   - socks
   - earlier
@@ -146,27 +146,24 @@ ngrams:
 - - destination
   - after
   - much
-- - simon
-  - israel
-  - who
 - - am
   - sure
   - lindsey
+- - simon
+  - israel
+  - who
 - - them
   - jon
   - snow
-- - alongside
-  - them
-  - carrying
 - - walking
   - alongside
   - them
+- - alongside
+  - them
+  - carrying
 - - sure
   - lindsey
   - can
-- - music
-  - has
-  - buried
 - - up
   - simon
   - israel
@@ -176,15 +173,18 @@ ngrams:
 - - choose
   - their
   - destination
-- - tombstone
-  - who
-  - wrote
-- - vienna
-  - between
-  - them
+- - music
+  - has
+  - buried
 - - between
   - them
   - jon
+- - vienna
+  - between
+  - them
+- - tombstone
+  - who
+  - wrote
 - - them
   - however
   - drank
@@ -221,18 +221,9 @@ ngrams:
 - - all
   - picnicking
   - happily
-- - case
-  - she
-  - said
-- - any
-  - case
-  - she
 - - cemetery
   - soil
   - they
-- - here
-  - music
-  - has
 - - things
   - about
   - channel
@@ -242,21 +233,30 @@ ngrams:
 - - interesting
   - things
   - about
+- - any
+  - case
+  - she
+- - case
+  - she
+  - said
+- - here
+  - music
+  - has
 - - their
   - destination
   - after
-- - been
-  - much
-  - muttering
 - - thought
   - peering
   - out
-- - much
+- - been
+  - much
   - muttering
-  - about
 - - would
   - best
   - define
+- - much
+  - muttering
+  - about
 - - food
   - so
   - jon
@@ -266,30 +266,30 @@ ngrams:
 - - parts
   - were
   - very
-- - decided
-  - they
-  - should
 - - they
   - should
   - picnic
-- - way
+- - decided
   - they
-  - distributed
+  - should
 - - would
   - play
   - once
+- - way
+  - they
+  - distributed
 - - an
   - impromptu
   - translation
 - - said
   - your
   - name
+- - this
+  - year's
+  - pro
 - - islam
   - doing
   - an
-- - doing
-  - an
-  - impromptu
 story:
   date: 2008-11-12
   id: 2008-11-12-channel-four-news-at-schuberts-grave

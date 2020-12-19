@@ -32,42 +32,42 @@ ngrams:
 - - supersonic
   - milk
   - bar
-- - fictional
-  - athlete
-  - catches
 - - large
   - fierce
   - wolf
-- - dreaming
-  - don't
-  - worry
-- - instead
-  - growing
-  - bored
-- - familiar
-  - running
-  - track
-- - fangs
-  - fictional
-  - athlete
 - - fictional
-  - characters
-  - intriguing
-- - stars
-  - appeared
-  - revolving
+  - athlete
+  - catches
 - - dreams
   - aren't
   - real
-- - deep
-  - deep
-  - meaning
-- - anybody
-  - else
-  - pleasing
+- - instead
+  - growing
+  - bored
 - - milk
   - bar
   - pantry
+- - familiar
+  - running
+  - track
+- - dreaming
+  - don't
+  - worry
+- - anybody
+  - else
+  - pleasing
+- - fictional
+  - characters
+  - intriguing
+- - deep
+  - deep
+  - meaning
+- - fangs
+  - fictional
+  - athlete
+- - stars
+  - appeared
+  - revolving
 - - swapped
   - identities
   - thus
@@ -77,33 +77,33 @@ ngrams:
 - - art
   - fictional
   - athlete
-- - futile
-  - god
-  - alone
-- - always
-  - insufferably
-  - boring
 - - else
   - pleasing
   - 'yes'
+- - always
+  - insufferably
+  - boring
+- - futile
+  - god
+  - alone
 - - pretty
   - stars
   - oh
+- - key
+  - comes
+  - charging
+- - writer
+  - frank
+  - key
+- - perhaps
+  - rightly
+  - fascinated
 - - god
   - alone
   - knows
 - - sometimes
   - futile
   - god
-- - writer
-  - frank
-  - key
-- - key
-  - comes
-  - charging
-- - perhaps
-  - rightly
-  - fascinated
 - - own
   - viennese
   - quack
@@ -116,27 +116,27 @@ ngrams:
 - - really
   - don't
   - want
+- - sleeping
+  - brain
+  - probably
 - - fictional
   - sleeping
   - brain
 - - sufficiently
   - engaged
   - find
-- - sleeping
-  - brain
-  - probably
 - - appeared
   - revolving
   - around
 - - almost
   - always
   - insufferably
-- - another
-  - reason
-  - i'm
 - - late
   - mr
   - kinnear
+- - another
+  - reason
+  - i'm
 - - poem
   - these
   - poems
@@ -147,23 +147,23 @@ ngrams:
   - while
   - taking
 - - dream
-  - tells
-  - us
-- - dream
-  - tells
-  - us
-- - dream
   - end
   - having
+- - dream
+  - tells
+  - us
+- - dream
+  - tells
+  - us
+- - runner
+  - just
+  - ahead
 - - fevered
   - brow
   - first
 - - latest
   - poem
   - these
-- - runner
-  - just
-  - ahead
 - - our
   - memories
   - distort
@@ -173,21 +173,18 @@ ngrams:
 - - brow
   - first
   - taking
-- - barely
-  - know
-  - insists
 - - through
   - art
   - consider
+- - barely
+  - know
+  - insists
 - - stars
   - oh
   - how
 - - fictional
   - dream
   - head
-- - her
-  - thrum
-  - nightcap
 - - milk
   - bar
   - where
@@ -203,6 +200,9 @@ ngrams:
 - - grandmother
   - then
   - takes
+- - her
+  - thrum
+  - nightcap
 - - our
   - own
   - viennese
@@ -218,15 +218,15 @@ ngrams:
 - - kinnear
   - bashing
   - him
-- - viennese
-  - quack
-  - who
 - - memories
   - distort
   - them
 - - distort
   - them
   - pluck
+- - viennese
+  - quack
+  - who
 - - first
   - taking
   - 'off'
@@ -242,45 +242,45 @@ ngrams:
 - - athlete
   - catches
   - up
-- - 'off'
-  - her
-  - thrum
 - - dreams
   - churn
   - up
+- - write
+  - them
+  - dreams
+- - ask
+  - how
+  - did
 - - up
   - wrong
   - bending
 - - laced
   - up
   - wrong
-- - ask
-  - how
-  - did
-- - write
-  - them
-  - dreams
 - - their
   - latest
   - poem
-- - takes
-  - 'off'
-  - her
-- - door
-  - behind
-  - him
 - - tells
   - us
   - more
 - - then
   - takes
   - 'off'
-- - shoes
-  - were
-  - laced
+- - door
+  - behind
+  - him
+- - 'off'
+  - her
+  - thrum
 - - sinks
   - when
   - somebody
+- - takes
+  - 'off'
+  - her
+- - shoes
+  - were
+  - laced
 - - tivol
   - runs
   - into
@@ -290,33 +290,33 @@ ngrams:
 - - heart
   - sinks
   - when
+- - might
+  - ask
+  - then
 - - tivol
   - runs
   - out
 - - dream
   - meant
   - if
-- - might
-  - ask
-  - then
 - - they
   - twinkled
   - enchanted
-- - bashing
-  - him
-  - over
-- - bashing
-  - him
-  - over
 - - children's
   - comic
   - they
+- - bashing
+  - him
+  - over
+- - bashing
+  - him
+  - over
+- - growing
+  - bored
+  - we
 - - arm
   - they
   - repair
-- - drinks
-  - they
-  - sit
 story:
   date: 2018-02-18
   id: 2018-02-18-a-dream

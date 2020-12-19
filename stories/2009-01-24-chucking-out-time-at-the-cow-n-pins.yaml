@@ -1,10 +1,10 @@
 ngrams:
-- - canalside
-  - shrub
-  - beds
 - - ne
   - plus
   - ultra
+- - canalside
+  - shrub
+  - beds
 - - hooter
   - dismantling
   - squadron
@@ -14,15 +14,15 @@ ngrams:
 - - beakers
   - disgusting
   - bilge
-- - cripple
-  - plucking
-  - flowers
 - - gold
   - lame
   - tuxedos
 - - watching
   - coaches
   - rattle
+- - cripple
+  - plucking
+  - flowers
 - - official
   - documents
   - poking
@@ -32,42 +32,42 @@ ngrams:
 - - hooter
   - hoot
   - twice
-- - pins
-  - freeman
-  - hardy
 - - singularly
   - squalid
   - tavern
 - - rare
   - expensive
   - brandies
+- - pins
+  - freeman
+  - hardy
 - - previous
   - landlord
   - arm
+- - police
+  - officers
+  - blundered
 - - gigantic
   - fierce
   - beasts
 - - tammy
   - wynette
   - gone
-- - police
-  - officers
-  - blundered
 - - edith
   - sitwell
   - gone
-- - six
-  - continents
-  - foolishly
 - - poor
   - innocent
   - orphan
-- - dented
-  - tin
-  - beakers
 - - efficient
   - canal
   - system
+- - six
+  - continents
+  - foolishly
+- - dented
+  - tin
+  - beakers
 - - blood
   - relentlessly
   - pumps
@@ -83,21 +83,21 @@ ngrams:
 - - trio
   - themselves
   - gigantic
-- - dobson's
-  - preferred
-  - tavern
-- - themselves
-  - gigantic
-  - fierce
 - - snow
   - white
   - spats
+- - themselves
+  - gigantic
+  - fierce
 - - cow
   - pins
   - freeman
 - - stolen
   - 'yes'
   - friends
+- - dobson's
+  - preferred
+  - tavern
 - - canal
   - others
   - falling
@@ -107,21 +107,21 @@ ngrams:
 - - cow
   - pins
   - easily
-- - cow
-  - pins
-  - opened
 - - single
   - vast
   - trough
+- - cow
+  - pins
+  - opened
 - - deep
   - deep
   - pit
-- - muck
-  - whose
-  - merest
 - - ears
   - assailed
   - instead
+- - muck
+  - whose
+  - merest
 - - cow
   - pins
   - stood
@@ -131,138 +131,138 @@ ngrams:
 - - raucous
   - place
   - perilous
+- - continents
+  - foolishly
+  - though
 - - helm
   - things
   - changed
 - - second
   - past
   - closing
-- - across
-  - six
-  - continents
 - - read
   - improving
   - literature
-- - continents
-  - foolishly
-  - though
+- - across
+  - six
+  - continents
+- - remain
+  - insensible
+  - until
 - - every
   - tavern
   - keeper
 - - scattered
   - across
   - six
-- - remain
-  - insensible
-  - until
 - - taverner
   - ever
   - dared
+- - most
+  - powerful
+  - hooter
 - - human
   - scum
   - once
 - - most
-  - powerful
-  - hooter
-- - most
   - recently
   - adorned
-- - course
-  - dobson's
-  - preferred
-- - sinners
-  - being
-  - tormented
 - - nobody
   - ever
   - dared
-- - disgusting
-  - bilge
-  - made
-- - missiles
-  - slicing
-  - through
-- - subterranean
-  - microphones
-  - back
+- - sinners
+  - being
+  - tormented
+- - course
+  - dobson's
+  - preferred
 - - tavern
   - much
   - frequented
-- - landlord
-  - after
-  - chopping
+- - missiles
+  - slicing
+  - through
 - - squalid
   - tavern
   - much
-- - never
-  - slept
-  - filled
+- - disgusting
+  - bilge
+  - made
+- - subterranean
+  - microphones
+  - back
+- - landlord
+  - after
+  - chopping
 - - print
   - pamphleteer
   - came
+- - never
+  - slept
+  - filled
 - - busy
   - being
   - mad
 - - fed
   - wires
   - down
+- - important
+  - vein
+  - through
 - - scum
   - once
   - long
 - - most
   - exciting
   - part
-- - important
-  - vein
-  - through
-- - new
-  - landlord
-  - took
-- - psychopathic
-  - ever
-  - set
-- - ever
-  - set
-  - foot
 - - might
   - charitably
   - call
+- - psychopathic
+  - ever
+  - set
+- - new
+  - landlord
+  - took
+- - ever
+  - set
+  - foot
 - - most
   - days
   - sometimes
-- - now
-  - held
-  - sway
 - - pockets
   - these
   - things
 - - opened
   - its
   - doors
-- - pins
-  - opened
-  - its
-- - hooter
-  - just
-  - once
-- - once
-  - long
-  - ago
+- - now
+  - held
+  - sway
 - - weedy
   - toper
   - could
 - - relentlessly
   - pumps
   - then
-- - shall
-  - never
-  - hear
 - - well
   - say
   - eek
+- - pins
+  - opened
+  - its
+- - shall
+  - never
+  - hear
 - - toper
   - could
   - sit
+- - hooter
+  - just
+  - once
+- - once
+  - long
+  - ago
 - - too
   - busy
   - being
@@ -290,117 +290,123 @@ ngrams:
 - - times
   - more
   - hideous
-- - thousand
-  - times
-  - more
-- - brutes
-  - who
-  - patrolled
-- - past
-  - closing
-  - time
-- - weedy
-  - toper
-  - who
-- - wreckage
-  - who
-  - hearing
 - - set
   - foot
   - upon
-- - time
-  - trio
-  - three
-- - recently
-  - adorned
-  - them
-- - who
-  - lived
-  - happily
+- - thousand
+  - times
+  - more
+- - past
+  - closing
+  - time
+- - brutes
+  - who
+  - patrolled
+- - weedy
+  - toper
+  - who
 - - more
   - likely
   - however
-- - salubrious
-  - lot
-  - who
-- - lot
-  - who
-  - drank
-- - adorned
+- - recently
+  - adorned
   - them
-  - gone
+- - wreckage
+  - who
+  - hearing
+- - time
+  - trio
+  - three
 - - can
   - bear
   - whether
+- - adorned
+  - them
+  - gone
 - - mind
   - can
   - bear
-- - psychopath
+- - salubrious
+  - lot
   - who
-  - became
 - - who
-  - drank
-  - tea
-- - human
-  - wreckage
-  - who
-- - pigs
-  - who
   - lived
+  - happily
+- - lot
+  - who
+  - drank
 - - their
   - rank
   - stink
 - - aboard
   - their
   - barges
+- - who
+  - drank
+  - tea
 - - their
   - gold
   - lame
-- - cow
-  - pins
+- - psychopath
   - who
-- - they'd
-  - been
-  - gulping
+  - became
+- - pigs
+  - who
+  - lived
+- - human
+  - wreckage
+  - who
 - - scum
   - their
   - brains
 - - witching
   - hour
   - their
+- - cow
+  - pins
+  - who
+- - they'd
+  - been
+  - gulping
 - - netherworld
   - their
   - ears
 - - their
   - ears
   - assailed
-- - pins
-  - who
-  - used
-- - three
-  - brutes
-  - who
 - - hour
   - their
   - horses
 - - human
   - scum
   - their
-- - been
-  - stolen
-  - 'yes'
+- - pins
+  - who
+  - used
+- - three
+  - brutes
+  - who
 - - officers
   - blundered
   - about
 - - ladled
   - into
   - dented
+- - been
+  - stolen
+  - 'yes'
 - - any
   - other
   - universe
 - - any
   - other
   - planet
+- - expensive
+  - brandies
+  - out
+- - documents
+  - poking
+  - out
 - - vast
   - trough
   - into
@@ -410,141 +416,135 @@ ngrams:
 - - knew
   - what
   - punishment
-- - expensive
-  - brandies
-  - out
-- - documents
-  - poking
-  - out
+- - may
+  - well
+  - say
+- - himself
+  - allowed
+  - 'no'
+- - upon
+  - its
+  - rotten
+- - nobody
+  - could
+  - even
 - - wynette
   - gone
   - were
 - - sitwell
   - gone
   - were
-- - himself
-  - allowed
-  - 'no'
 - - into
   - dented
   - tin
-- - may
-  - well
-  - say
-- - little
-  - way
-  - down
 - - nobody
   - knew
   - what
-- - upon
-  - its
-  - rotten
-- - got
-  - into
-  - fights
-- - nobody
-  - could
-  - even
-- - god
-  - knows
-  - what
-- - 'no'
-  - taverner
-  - ever
 - - more
   - hideous
   - than
-- - who
-  - never
-  - slept
 - - foot
   - upon
   - its
-- - sty
-  - some
-  - said
+- - little
+  - way
+  - down
+- - god
+  - knows
+  - what
+- - got
+  - into
+  - fights
+- - 'no'
+  - taverner
+  - ever
+- - who
+  - never
+  - slept
 - - occasionally
   - got
   - into
+- - could
+  - even
+  - remember
+- - sty
+  - some
+  - said
 - - whistles
   - they
   - blew
 - - piercing
   - whistles
   - they
-- - speakers
-  - placed
-  - all
-- - tavern
-  - they
-  - tumbled
-- - horses
-  - were
-  - called
 - - brandies
   - out
   - went
-- - their
-  - pockets
-  - these
-- - could
-  - even
-  - remember
-- - gibberish
-  - out
-  - went
+- - speakers
+  - placed
+  - all
 - - toper
   - who
   - might
-- - after
-  - chopping
-  - up
-- - time
-  - nobody
-  - could
-- - side
+- - gibberish
+  - out
+  - went
+- - tavern
   - they
-  - buried
+  - tumbled
+- - their
+  - pockets
+  - these
+- - horses
+  - were
+  - called
 - - would
   - remain
   - insensible
+- - time
+  - nobody
+  - could
+- - after
+  - chopping
+  - up
+- - side
+  - they
+  - buried
 - - safe
   - side
   - they
 - - know
   - their
   - swill
+- - their
+  - backs
+  - where
+- - discs
+  - inside
+  - so
 - - been
   - gulping
   - down
 - - their
-  - backs
-  - where
+  - barges
+  - upon
 - - things
   - were
   - enough
-- - placed
-  - all
-  - around
-- - 'no'
-  - other
-  - fluid
-- - discs
-  - inside
-  - so
-- - allowed
-  - 'no'
-  - other
-- - their
-  - barges
-  - upon
 - - broken
   - so
   - nobody
-- - which
-  - probably
-  - accounted
+- - 'no'
+  - other
+  - fluid
+- - placed
+  - all
+  - around
+- - allowed
+  - 'no'
+  - other
+- - who
+  - might
+  - once
 story:
   date: 2009-01-24
   id: 2009-01-24-chucking-out-time-at-the-cow-n-pins

@@ -38,18 +38,18 @@ ngrams:
 - - games
   - using
   - dice
-- - complicated
-  - games
-  - using
-- - fractious
-  - fractious
-  - cows
-- - exciting
-  - board
-  - games
 - - fraught
   - business
   - believe
+- - fractious
+  - fractious
+  - cows
+- - complicated
+  - games
+  - using
+- - exciting
+  - board
+  - games
 - - deeply
   - lovely
   - voice
@@ -71,24 +71,24 @@ ngrams:
 - - ear
   - most
   - acolytes
-- - most
-  - ferocious
-  - ones
-- - cow
-  - meadow
-  - while
-- - heightened
-  - emotion
-  - many
 - - much
   - heightened
   - emotion
-- - emotion
+- - cow
+  - meadow
+  - while
+- - most
+  - ferocious
+  - ones
+- - heightened
+  - emotion
   - many
-  - tears
 - - expect
   - much
   - heightened
+- - emotion
+  - many
+  - tears
 - - circumstances
   - just
   - lie
@@ -101,15 +101,15 @@ ngrams:
 - - cows
   - come
   - home
-- - house
-  - another
-  - thing
-- - may
-  - consider
-  - packing
 - - such
   - tender
   - places
+- - may
+  - consider
+  - packing
+- - house
+  - another
+  - thing
 - - other
   - tinned
   - goods
@@ -119,12 +119,12 @@ ngrams:
 - - then
   - fencing
   - contests
-- - ear
-  - too
-  - little
 - - pointless
   - too
   - much
+- - ear
+  - too
+  - little
 - - can
   - properly
   - adjudge
@@ -149,33 +149,30 @@ ngrams:
 - - give
   - them
   - access
-- - having
-  - him
-  - blinded
 - - against
   - them
   - rifle
 - - guard
   - against
   - them
-- - many
-  - other
-  - games
-- - your
-  - acolytes
-  - save
 - - whom
   - can
   - also
-- - your
-  - acolyte
-  - armed
+- - having
+  - him
+  - blinded
+- - many
+  - other
+  - games
 - - most
   - acolytes
   - can
 - - your
-  - side
-  - choosing
+  - acolytes
+  - save
+- - your
+  - acolyte
+  - armed
 - - their
   - tails
   - between
@@ -185,54 +182,51 @@ ngrams:
 - - spray
   - canisters
   - when
+- - between
+  - their
+  - legs
 - - pour
   - vinegar
   - into
 - - pouring
   - vinegar
   - into
-- - between
-  - their
-  - legs
 - - your
-  - guard
-  - against
-- - meadow
-  - will
-  - soothe
-- - given
-  - your
-  - preening
+  - side
+  - choosing
 - - can
   - expect
   - much
-- - once
-  - their
-  - carrying
+- - meadow
+  - will
+  - soothe
+- - your
+  - guard
+  - against
 - - canisters
   - when
   - making
-- - when
-  - making
-  - preparations
-- - mind
-  - when
-  - choosing
 - - problematic
   - particularly
   - if
+- - when
+  - making
+  - preparations
+- - once
+  - their
+  - carrying
+- - mind
+  - when
+  - choosing
+- - given
+  - your
+  - preening
 - - entertain
   - those
   - who
-- - your
-  - ear
-  - too
 - - bag
   - when
   - making
-- - your
-  - ear
-  - most
 - - will
   - thus
   - require
@@ -241,25 +235,31 @@ ngrams:
   - want
 - - your
   - ear
-  - through
+  - too
+- - your
+  - ear
+  - most
+- - those
+  - who
+  - need
 - - tilting
   - your
   - head
+- - them
+  - may
+  - become
 - - tilt
   - your
   - head
 - - your
   - tilted
   - head
-- - those
-  - who
-  - need
 - - your
   - head
   - shaking
-- - them
-  - may
-  - become
+- - your
+  - ear
+  - through
 - - are
   - clingy
   - clinging
@@ -281,9 +281,6 @@ ngrams:
 - - voice
   - geese
   - are
-- - process
-  - during
-  - which
 - - acolyte
   - who
   - can
@@ -296,6 +293,9 @@ ngrams:
 - - even
   - been
   - known
+- - process
+  - during
+  - which
 - - affixing
   - an
   - acolyte

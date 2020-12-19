@@ -8,15 +8,15 @@ ngrams:
 - - filthy
   - rag
   - besmirched
-- - food
-  - soup
-  - stains
-- - rapidly
-  - became
-  - frayed
 - - clearest
   - possible
   - view
+- - rapidly
+  - became
+  - frayed
+- - food
+  - soup
+  - stains
 - - beat
   - further
   - discombobulating
@@ -35,12 +35,12 @@ ngrams:
 - - gone
   - see
   - resignation
-- - two
-  - corners
-  - between
 - - where
   - attempted
   - bamboozlement
+- - two
+  - corners
+  - between
 - - quarter
   - where
   - attempted
@@ -82,16 +82,13 @@ ngrams:
   - like
 - - cloth
   - would
-  - reply
+  - snap
 - - cloth
   - would
-  - snap
+  - reply
 - - 'no'
   - quarter
   - where
-- - cloth
-  - which
-  - rapidly
 - - sentry
   - who
   - could
@@ -101,93 +98,96 @@ ngrams:
 - - let
   - me
   - help
+- - cloth
+  - which
+  - rapidly
 - - which
   - rapidly
   - became
+- - rifle
+  - would
+  - say
+- - cloth
+  - would
+  - say
 - - could
   - do
   - little
 - - an
   - enormity
   - carrying
-- - rifle
-  - would
-  - say
 - - disconcerted
   - what
   - do
-- - cloth
-  - would
-  - say
-- - nobby
-  - stiles
-  - this
-- - stiles
-  - this
-  - sentry
 - - would
   - snap
   - back
+- - stiles
+  - this
+  - sentry
+- - nobby
+  - stiles
+  - this
 - - say
   - let
   - me
 - - this
   - particular
   - sentry
+- - would
+  - say
+  - let
 - - beside
   - him
   - when
 - - would
   - say
-  - let
+  - something
 - - particular
   - sentry
   - had
-- - would
-  - say
-  - something
 - - man
   - would
   - say
-- - sentry
-  - had
-  - long
 - - would
   - work
   - like
+- - mettle
+  - who
+  - would
 - - from
   - awful
   - nightmares
 - - suffered
   - from
   - awful
-- - mettle
-  - who
-  - would
 - - who
   - could
   - do
+- - sentry
+  - had
+  - long
 - - had
   - long
   - ago
-- - still
-  - suffered
-  - from
 - - little
   - but
   - shake
 - - have
   - resigned
   - himself
+- - still
+  - suffered
+  - from
 - - see
   - resignation
   - from
-- - will
-  - let
-  - me
 - - not
   - yet
   - scrunched
+- - will
+  - let
+  - me
 - - identify
   - himself
   - by
@@ -200,27 +200,27 @@ ngrams:
 - - have
   - now
   - seen
-- - besmirched
-  - with
-  - remnants
 - - would
   - say
   - would
-- - his
-  - ankle
-  - mended
-- - cocking
-  - his
-  - rifle
+- - do
+  - little
+  - but
+- - besmirched
+  - with
+  - remnants
 - - rag
   - besmirched
   - with
 - - infamy
   - armed
   - with
-- - do
-  - little
-  - but
+- - see
+  - my
+  - cloth
+- - his
+  - ankle
+  - mended
 story:
   date: 2017-02-26
   id: 2017-02-26-a-man-of-the-cloth

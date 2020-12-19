@@ -5,12 +5,12 @@ ngrams:
 - - hardy
   - afternoon's
   - minion
-- - cunning
-  - inhuman
-  - patience
 - - rage
   - unworthy
   - princeling
+- - cunning
+  - inhuman
+  - patience
 - - kingly
   - boom
   - growing
@@ -59,15 +59,15 @@ ngrams:
 - - minions
   - having
   - nabbed
-- - took
-  - regular
-  - slurps
 - - ancient
   - dotage
   - does
 - - times
   - told
   - lovelier
+- - took
+  - regular
+  - slurps
 - - billion
   - times
   - told
@@ -101,18 +101,18 @@ ngrams:
 - - rather
   - too
   - big
-- - regular
-  - slurps
-  - then
 - - lovelier
   - more
   - dangerous
-- - other
-  - heir
-  - nor
+- - regular
+  - slurps
+  - then
 - - told
   - lovelier
   - more
+- - other
+  - heir
+  - nor
 - - them
   - safely
   - imprisoned
@@ -122,12 +122,15 @@ ngrams:
 - - pounced
   - leaping
   - out
-- - dragged
-  - him
-  - 'off'
 - - more
   - dangerous
   - than
+- - dragged
+  - him
+  - 'off'
+- - plot
+  - though
+  - what
 - - net
   - over
   - him
@@ -137,15 +140,12 @@ ngrams:
 - - came
   - prancing
   - into
-- - plot
-  - though
-  - what
-- - king
-  - ran
-  - me
 - - stood
   - there
   - twisted
+- - king
+  - ran
+  - me
 - - simply
   - stood
   - there
@@ -161,15 +161,15 @@ ngrams:
 - - one
   - freeman
   - hardy
+- - imprecations
+  - upon
+  - me
 - - has
   - been
   - plotting
 - - dawn
   - behind
   - an
-- - imprecations
-  - upon
-  - me
 - - this
   - morning
   - morning's
@@ -182,12 +182,12 @@ ngrams:
 - - until
   - one
   - fell
-- - fire
-  - broke
-  - from
 - - nabbed
   - freeman
   - at
+- - fire
+  - broke
+  - from
 - - leftovers
   - at
   - sight
@@ -197,18 +197,18 @@ ngrams:
 - - willis
   - by
   - similar
-- - by
-  - similar
-  - means
 - - dotage
   - does
   - not
+- - by
+  - similar
+  - means
 - - does
   - not
   - seem
-- - from
-  - before
-  - dawn
+- - not
+  - yet
+  - formed
 story:
   date: 2011-06-26
   id: 2011-06-26-variation-on-a-theme-of-gerard-manley-hopkins

@@ -56,15 +56,15 @@ ngrams:
 - - gentlemanly
   - sport
   - perhaps
+- - linseed
+  - oil
+  - though
 - - dubbin
   - each
   - month
 - - find
   - dubbin
   - amusing
-- - linseed
-  - oil
-  - though
 - - own
   - barbaric
   - age
@@ -92,27 +92,27 @@ ngrams:
 - - amuse
   - us
   - today
-- - member
-  - number
-  - two
 - - any
   - sporting
   - activity
 - - join
   - may
   - express
-- - inherently
-  - funny
-  - now
+- - member
+  - number
+  - two
 - - than
   - football
   - boots
-- - its
-  - sadly
-  - curtailed
+- - inherently
+  - funny
+  - now
 - - today
   - because
   - perhaps
+- - its
+  - sadly
+  - curtailed
 - - different
   - world
   - though
@@ -125,42 +125,36 @@ ngrams:
 - - splendid
   - line
   - now
-- - uncertain
-  - other
-  - side
 - - oil
   - having
   - said
+- - spikes
+  - rather
+  - than
+- - uncertain
+  - other
+  - side
+- - rather
+  - than
+  - football
 - - us
   - today
   - because
 - - our
   - own
   - barbaric
-- - spikes
-  - rather
-  - than
-- - rather
-  - than
-  - football
 - - indeed
   - dead
   - before
+- - before
+  - being
+  - consigned
 - - other
   - hand
   - comes
 - - two
   - members
   - before
-- - period
-  - has
-  - expired
-- - before
-  - being
-  - consigned
-- - minimum
-  - period
-  - has
 - - decency
   - who
   - amuse
@@ -170,18 +164,21 @@ ngrams:
 - - recall
   - very
   - little
-- - school
-  - cormorant
+- - period
+  - has
+  - expired
+- - minimum
+  - period
   - has
 - - two
   - weeks
   - before
+- - school
+  - cormorant
+  - has
 - - weeks
   - before
   - being
-- - now
-  - two
-  - boys
 - - their
   - clipped
   - accents
@@ -191,12 +188,15 @@ ngrams:
 - - their
   - cricket
   - bats
-- - line
-  - now
+- - now
   - two
+  - boys
 - - their
   - football
   - boots
+- - line
+  - now
+  - two
 - - few
   - years
   - after
@@ -212,33 +212,33 @@ ngrams:
 - - linseed
   - oil
   - into
-- - rubbed
-  - into
-  - boots
 - - section
   - if
   - sufficient
-- - were
-  - doing
-  - wasting
 - - comments
   - section
   - if
 - - if
   - sufficient
   - numbers
+- - rubbed
+  - into
+  - boots
 - - club
   - petered
   - out
+- - petered
+  - out
+  - due
+- - were
+  - doing
+  - wasting
 - - who
   - amuse
   - us
 - - been
   - found
   - rubbing
-- - petered
-  - out
-  - due
 - - will
   - either
   - share
@@ -257,39 +257,39 @@ ngrams:
 - - signed
   - up
   - over
-- - about
-  - two
-  - weeks
-- - are
-  - intrinsic
-  - elements
 - - me
   - nor
   - member
+- - so
+  - impossibly
+  - distant
+- - about
+  - two
+  - weeks
+- - seem
+  - so
+  - impossibly
+- - are
+  - intrinsic
+  - elements
 - - oil
   - are
   - intrinsic
 - - linseed
   - oil
   - are
-- - so
-  - impossibly
-  - distant
-- - seem
-  - so
-  - impossibly
-- - perhaps
-  - they
-  - seem
 - - importantly
   - we
   - should
-- - sure
-  - what
-  - made
 - - we
   - should
   - decide
+- - perhaps
+  - they
+  - seem
+- - sure
+  - what
+  - made
 - - are
   - important
   - elements
@@ -302,57 +302,63 @@ ngrams:
 - - an
   - ephemeral
   - private
-- - express
-  - an
-  - interest
-- - because
-  - perhaps
-  - they
 - - roughly
   - contemporaneous
   - one
-- - never
-  - been
-  - much
+- - because
+  - perhaps
+  - they
 - - then
   - rubbed
   - into
-- - members
-  - purchase
-  - one
+- - express
+  - an
+  - interest
 - - think
   - we
   - ought
-- - still
-  - understand
-  - which
-- - total
+- - never
+  - been
+  - much
+- - members
+  - purchase
   - one
-  - tin
 - - lost
   - world
   - so
-- - very
-  - little
-  - about
+- - total
+  - one
+  - tin
 - - purchase
   - one
   - tin
 - - years
   - later
   - there
+- - very
+  - little
+  - about
 - - dead
   - before
   - we
-- - boots
-  - these
-  - are
-- - member
-  - number
-  - one
+- - still
+  - understand
+  - which
 - - funny
   - now
   - we
+- - member
+  - number
+  - one
+- - boots
+  - these
+  - are
+- - goos
+  - or
+  - unguents
+- - unguents
+  - or
+  - substances
 - - friend
   - david
   - had
@@ -362,12 +368,6 @@ ngrams:
 - - oil
   - into
   - their
-- - goos
-  - or
-  - unguents
-- - unguents
-  - or
-  - substances
 story:
   date: 2012-02-22
   id: 2012-02-22-on-the-dubbin-club

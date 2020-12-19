@@ -8,36 +8,36 @@ ngrams:
 - - rush
   - rush
   - rushing
+- - rush
+  - rush
+  - rush
 - - tony
   - blair
   - chamberlain
 - - united
   - nations
   - sire
-- - rush
-  - rush
-  - rush
-- - united
-  - nations
+- - king's
+  - chamberlain
   - chamberlain
 - - security
   - council
   - clearance
 - - united
   - nations
+  - chamberlain
+- - united
+  - nations
   - headquarters
-- - king's
-  - chamberlain
-  - chamberlain
 - - writer
   - racine
   - chamberlain
-- - ho
-  - ho
-  - ho
 - - sob
   - bats
   - swoop
+- - ho
+  - ho
+  - ho
 - - french
   - writer
   - racine
@@ -57,158 +57,152 @@ ngrams:
   - metal
   - tapping
 - - sire
-  - grave
-  - news
-- - moment
-  - sire
-  - truly
-- - sire
   - king
   - crikey
-- - council
-  - clearance
-  - already
 - - frontier
   - sire
   - king
 - - nations
   - sire
   - king
-- - tapping
-  - machine
-  - ready
-- - means
-  - war
-  - chamberlain
-- - metal
-  - tapping
-  - machine
-- - hell
-  - really
-  - chamberlain
+- - moment
+  - sire
+  - truly
+- - sire
+  - grave
+  - news
+- - council
+  - clearance
+  - already
+- - bold
+  - o
+  - majestic
 - - foes
   - king
   - excellent
-- - grave
-  - news
-  - grave
+- - dazzling
+  - presence
+  - o
+- - means
+  - war
+  - chamberlain
+- - dazzling
+  - presence
+  - o
+- - tapping
+  - machine
+  - ready
+- - hell
+  - really
+  - chamberlain
 - - king
   - ho
   - ho
 - - puissance
   - king
   - ah
+- - grave
+  - news
+  - grave
+- - metal
+  - tapping
+  - machine
 - - bloody
   - hell
   - really
-- - black
-  - ops
-  - unit
-- - got
-  - security
-  - council
-- - bring
-  - grave
-  - news
-- - bring
-  - grave
-  - news
-- - bold
-  - o
-  - majestic
-- - dazzling
-  - presence
-  - o
-- - dazzling
-  - presence
-  - o
-- - news
-  - grave
-  - news
 - - king
   - bloody
   - hell
+- - got
+  - security
+  - council
+- - black
+  - ops
+  - unit
 - - king
   - excellent
   - sir
+- - bring
+  - grave
+  - news
+- - bring
+  - grave
+  - news
+- - presence
+  - o
+  - mighty
+- - presence
+  - o
+  - mighty
 - - sire
   - king
   - really
+- - news
+  - grave
+  - news
 - - clearance
   - already
   - king
-- - presence
-  - o
+- - o
   - mighty
-- - presence
-  - o
+  - king
+- - o
   - mighty
+  - king
 - - king
   - 'yes'
   - sir
-- - once
-  - sire
-  - exit
+- - mighty
+  - king
+  - king
+- - mighty
+  - king
+  - king
 - - mine
   - chamberlain
   - indeed
-- - mighty
-  - king
-  - king
-- - mighty
-  - king
-  - king
-- - o
-  - mighty
-  - king
-- - o
-  - mighty
-  - king
-- - come
-  - rush
-  - rush
-- - king
-  - 'yes'
-  - 'yes'
-- - king
-  - 'yes'
-  - 'yes'
-- - already
-  - king
-  - 'yes'
-- - king
-  - king
-  - 'yes'
-- - king
-  - king
-  - 'yes'
+- - once
+  - sire
+  - exit
 - - fresh
   - air
   - o
+- - king
+  - 'yes'
+  - 'yes'
+- - king
+  - 'yes'
+  - 'yes'
+- - king
+  - king
+  - 'yes'
+- - king
+  - king
+  - 'yes'
+- - come
+  - rush
+  - rush
+- - already
+  - king
+  - 'yes'
+- - air
+  - o
+  - lord
 - - great
   - french
   - writer
-- - doing
-  - galumphing
-  - around
 - - bewildering
   - instrument
   - go
 - - grave
   - news
   - indeed
+- - doing
+  - galumphing
+  - around
 - - must
   - immediately
   - prepare
-- - air
-  - o
-  - lord
-- - chamberlain
-  - scene
-  - two
-- - court
-  - wizardy
-  - man
 - - too
   - close
   - sir
@@ -218,12 +212,18 @@ ngrams:
 - - effulgence
   - quite
   - quite
+- - chamberlain
+  - scene
+  - two
 - - 'yes'
   - 'yes'
   - come
 - - 'yes'
   - 'yes'
   - come
+- - court
+  - wizardy
+  - man
 - - vision
   - reflected
   - back
@@ -236,12 +236,12 @@ ngrams:
 - - chamberlain
   - chamberlain
   - may
-- - terms
-  - laid
-  - down
 - - said
   - sire
   - grave
+- - terms
+  - laid
+  - down
 - - very
   - simple
   - reason
@@ -278,12 +278,18 @@ ngrams:
 - - joking
   - now
   - 'off'
+- - am
+  - well
+  - aware
 - - your
   - duties
   - lie
 - - your
   - regal
   - presence
+- - only
+  - joking
+  - now
 - - your
   - dazzling
   - presence
@@ -293,30 +299,24 @@ ngrams:
 - - your
   - chamberlain
   - sir
-- - only
-  - joking
-  - now
 - - been
   - doing
   - galumphing
-- - am
-  - well
-  - aware
-- - your
-  - puissance
-  - king
-- - your
-  - foes
-  - king
+- - racine
+  - chamberlain
+  - if
 - - king
   - crikey
   - what
 - - sire
   - king
   - what
-- - racine
-  - chamberlain
-  - if
+- - your
+  - puissance
+  - king
+- - your
+  - foes
+  - king
 story:
   date: 2013-05-13
   id: 2013-05-13-the-tragedie-of-king-alphonso

@@ -20,15 +20,15 @@ ngrams:
 - - radical
   - playwright
   - geoff
+- - pant
+  - pant
+  - pant
 - - improv
   - jazz
   - ensemble
 - - sweaty
   - myopic
   - plagued
-- - pant
-  - pant
-  - pant
 - - brandishing
   - flaming
   - torches
@@ -38,78 +38,84 @@ ngrams:
 - - circles
   - brandishing
   - flaming
-- - await
-  - calm
-  - seas
-- - headed
-  - falsely
-  - negative
 - - das
   - boot
   - interpreted
+- - await
+  - calm
+  - seas
 - - playwright
   - geoff
   - beard
-- - plays
-  - novels
-  - poems
+- - headed
+  - falsely
+  - negative
 - - watching
   - pant
   - pant
-- - weekend
-  - workshops
-  - item
-- - entry
-  - headed
-  - falsely
-- - society
-  - weekend
-  - workshops
+- - plays
+  - novels
+  - poems
 - - emotionally
   - wrenching
   - speech
+- - society
+  - weekend
+  - workshops
+- - entry
+  - headed
+  - falsely
+- - weekend
+  - workshops
+  - item
 - - films
   - plays
   - novels
-- - wikipedia
-  - entry
-  - headed
 - - dozen
   - axe
   - murders
+- - wikipedia
+  - entry
+  - headed
+- - participants
+  - cut
+  - capers
 - - novels
   - poems
   - pop
 - - entitled
   - falsely
   - negative
-- - participants
-  - cut
-  - capers
-- - social
-  - skills
-  - item
-- - figure
-  - tall
-  - blond
 - - section
   - entitled
   - falsely
-- - wikipedia
-  - section
-  - entitled
+- - social
+  - skills
+  - item
 - - bus
   - fare
   - evasion
-- - heroic
-  - figure
+- - figure
   - tall
+  - blond
+- - wikipedia
+  - section
+  - entitled
 - - poems
   - pop
   - songs
+- - heroic
+  - figure
+  - tall
 - - het
   - internet
   - imagine
+- - pop
+  - songs
+  - television
+- - film
+  - das
+  - boot
 - - captain
   - hans
   - gruber
@@ -119,27 +125,12 @@ ngrams:
 - - call
   - het
   - internet
-- - film
-  - das
-  - boot
-- - pop
-  - songs
-  - television
-- - pals
-  - call
-  - het
 - - indefatigable
   - research
   - clearly
-- - chanting
-  - item
-  - captain
-- - small
-  - scurrying
-  - mammals
-- - item
-  - captain
-  - hans
+- - pals
+  - call
+  - het
 - - war
   - film
   - das
@@ -149,51 +140,60 @@ ngrams:
 - - second
   - class
   - horst
-- - dentist's
-  - waiting
-  - room
+- - chanting
+  - item
+  - captain
+- - item
+  - captain
+  - hans
+- - small
+  - scurrying
+  - mammals
 - - same
   - academic
   - furrow
+- - dentist's
+  - waiting
+  - room
 - - under
   - intense
   - scrutiny
-- - big
-  - hefty
-  - boots
+- - zone
+  - several
+  - persons
 - - film
   - die
   - hard
+- - big
+  - hefty
+  - boots
+- - characters
+  - quite
+  - negatively
+- - flailing
+  - mentally
+  - perhaps
 - - mentally
   - flailing
   - around
 - - physically
   - flailing
   - around
-- - zone
-  - several
-  - persons
 - - flailing
   - around
   - seeking
-- - flailing
-  - mentally
-  - perhaps
 - - intense
   - scrutiny
   - each
-- - characters
-  - quite
-  - negatively
 - - thought
   - someone
   - else
-- - put
-  - under
-  - intense
 - - lot
   - another
   - seemed
+- - put
+  - under
+  - intense
 - - war
   - two
   - submarines
@@ -230,21 +230,21 @@ ngrams:
 - - just
   - how
   - fantastic
-- - mysterious
-  - ways
-  - some
 - - them
   - physically
   - flailing
+- - mysterious
+  - ways
+  - some
 - - certain
   - points
   - some
-- - portrayed
-  - their
-  - characters
 - - posted
   - their
   - findings
+- - portrayed
+  - their
+  - characters
 - - been
   - watching
   - pant
@@ -257,6 +257,9 @@ ngrams:
 - - their
   - big
   - hefty
+- - absolutely
+  - 'no'
+  - idea
 - - him
   - while
   - dancing
@@ -266,39 +269,36 @@ ngrams:
 - - ruffians
   - who
   - take
-- - absolutely
-  - 'no'
-  - idea
-- - who
-  - take
-  - pleasure
 - - actually
   - looked
   - up
+- - who
+  - take
+  - pleasure
 - - persons
   - were
   - disporting
-- - were
-  - disporting
-  - themselves
-- - could
-  - track
-  - down
 - - their
   - characters
   - quite
+- - could
+  - track
+  - down
+- - were
+  - disporting
+  - themselves
 - - they
   - await
   - calm
 - - several
   - persons
   - were
-- - over
-  - some
-  - hours
 - - theatre
   - space
   - there
+- - over
+  - some
+  - hours
 - - last
   - century
   - when

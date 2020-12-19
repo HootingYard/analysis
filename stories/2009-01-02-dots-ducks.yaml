@@ -5,12 +5,12 @@ ngrams:
 - - martial
   - arts
   - expert
-- - traumatic
-  - childhood
-  - incidents
 - - bluestocking
   - polymath
   - dot
+- - traumatic
+  - childhood
+  - incidents
 - - gainfully
   - employed
   - whereas
@@ -20,18 +20,21 @@ ngrams:
 - - rex
   - gainfully
   - employed
-- - rex
-  - tint
-  - snubbed
 - - polymath
   - dot
   - tint
+- - rex
+  - tint
+  - snubbed
+- - dot
+  - pays
+  - rex
 - - keeping
   - rex
   - gainfully
 - - dot
-  - pays
-  - rex
+  - tint
+  - watched
 - - rex
   - tint
   - i'd
@@ -41,9 +44,6 @@ ngrams:
 - - magazine
   - traumatic
   - childhood
-- - dot
-  - tint
-  - watched
 - - distinctive
   - tint
   - family
@@ -62,36 +62,36 @@ ngrams:
 - - gruesome
   - seaside
   - resort
-- - child
-  - thereafter
-  - held
 - - forgotten
   - magazine
   - article
-- - tint
-  - family
-  - cast
-- - magazine
-  - article
-  - makes
+- - child
+  - thereafter
+  - held
 - - whether
   - dot
   - pays
+- - tint
+  - family
+  - cast
 - - belgian
   - money
   - whether
-- - tint
-  - cannot
-  - seriously
+- - magazine
+  - article
+  - makes
 - - money
   - whether
   - dot
-- - cannot
+- - tint
+  - cannot
   - seriously
-  - believe
 - - beard
   - thus
   - obscuring
+- - cannot
+  - seriously
+  - believe
 - - dot
   - tint
   - cannot
@@ -107,39 +107,51 @@ ngrams:
 - - aquatic
   - birds
   - entitled
-- - rowing
-  - boat
-  - away
 - - often
   - quite
   - gratuitously
-- - second
-  - curious
-  - thing
 - - mezzotints
   - often
   - quite
+- - second
+  - curious
+  - thing
+- - rowing
+  - boat
+  - away
 - - despite
   - being
   - offered
 - - very
   - large
   - amount
-- - infant
-  - glee
-  - she
 - - its
   - dust
   - jacket
+- - pages
+  - upon
+  - pages
+- - without
+  - any
+  - qualification
+- - very
+  - curious
+  - things
+- - infant
+  - glee
+  - she
+- - offered
+  - without
+  - any
+- - glee
+  - she
+  - stopped
 - - catch
   - her
   - breath
 - - boat
   - her
   - eyesight
-- - glee
-  - she
-  - stopped
 - - rowing
   - boat
   - her
@@ -152,123 +164,111 @@ ngrams:
 - - seaside
   - resort
   - she
-- - very
-  - curious
-  - things
-- - without
-  - any
-  - qualification
-- - pages
-  - upon
-  - pages
-- - offered
-  - without
-  - any
+- - compelling
+  - book
+  - than
 - - six
   - years
   - old
 - - turn
   - work
   - down
-- - snubbed
-  - him
-  - despite
-- - tint
-  - snubbed
-  - him
 - - two
   - very
   - curious
-- - compelling
-  - book
-  - than
-- - without
-  - her
-  - patronage
+- - tint
+  - snubbed
+  - him
+- - snubbed
+  - him
+  - despite
 - - until
   - now
   - provided
-- - whereas
-  - without
-  - her
+- - cynics
+  - who
+  - claim
 - - dot
   - tint
   - has
 - - has
   - recently
   - grown
-- - cynics
-  - who
-  - claim
-- - ducks
-  - has
-  - led
+- - without
+  - her
+  - patronage
 - - who
   - claim
   - dot
 - - more
   - compelling
   - book
-- - been
-  - absolutely
-  - riddled
+- - whereas
+  - without
+  - her
+- - ducks
+  - has
+  - led
 - - could
   - clearly
   - make
-- - water
-  - their
-  - habitat
+- - been
+  - absolutely
+  - riddled
 - - piercing
   - back
   - then
-- - her
-  - next
-  - book
-- - material
-  - about
-  - owls
+- - water
+  - their
+  - habitat
 - - about
   - dot
   - tint
+- - material
+  - about
+  - owls
 - - about
   - owls
   - owls
 - - beach
   - when
   - panting
-- - owls
-  - were
-  - ducks
 - - tint
   - apparently
   - when
-- - him
-  - despite
-  - being
 - - even
   - more
   - compelling
-- - where
-  - she
-  - saw
+- - owls
+  - were
+  - ducks
+- - her
+  - next
+  - book
+- - him
+  - despite
+  - being
 - - them
   - before
   - shelling
-- - sea
-  - where
-  - she
-- - she
-  - could
-  - clearly
 - - falling
   - out
   - between
 - - curious
   - thing
   - about
+- - where
+  - she
+  - saw
 - - curious
   - things
   - about
+- - sea
+  - if
+  - anything
+- - sea
+  - where
+  - she
 story:
   date: 2009-01-02
   id: 2009-01-02-dots-ducks

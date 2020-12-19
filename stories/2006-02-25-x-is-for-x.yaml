@@ -1,22 +1,22 @@
 ngrams:
-- - incredibly
-  - powerful
-  - poisonous
-- - powerful
-  - poisonous
-  - dart
 - - aquatic
   - monster
   - costume
+- - powerful
+  - poisonous
+  - dart
+- - incredibly
+  - powerful
+  - poisonous
+- - terrifying
+  - aquatic
+  - monster
 - - rambling
   - drivel
   - detective
 - - deranged
   - potato
   - scientist
-- - terrifying
-  - aquatic
-  - monster
 - - email
   - headed
   - please
@@ -62,12 +62,12 @@ ngrams:
 - - outwit
   - her
   - detective
-- - her
-  - detective
-  - captain
 - - thus
   - outwit
   - her
+- - her
+  - detective
+  - captain
 - - your
   - tongue
   - screeched
@@ -77,15 +77,15 @@ ngrams:
 - - culprit
   - fled
   - into
-- - detectives
-  - were
-  - occupied
 - - about
   - whom
   - legends
 - - sleuth
   - about
   - whom
+- - detectives
+  - were
+  - occupied
 - - will
   - reply
   - individually
@@ -98,12 +98,12 @@ ngrams:
 - - stop
   - calling
   - me
-- - two
-  - detectives
-  - were
 - - please
   - tell
   - me
+- - two
+  - detectives
+  - were
 - - inconsequential
   - objects
   - which

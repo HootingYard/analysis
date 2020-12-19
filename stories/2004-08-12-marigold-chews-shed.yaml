@@ -8,30 +8,33 @@ ngrams:
 - - flimsy
   - magazine
   - rack
-- - dark
-  - brooding
-  - vegetable
-- - slaughtered
-  - cormorants
-  - held
-- - rectangular
-  - box
-  - housing
 - - opposite
   - corner
   - spread
-- - paste
-  - stood
-  - clustered
+- - rectangular
+  - box
+  - housing
+- - slaughtered
+  - cormorants
+  - held
+- - dark
+  - brooding
+  - vegetable
 - - titanic
   - cedar
   - tree
+- - paste
+  - stood
+  - clustered
 - - illegible
   - paste
   - stood
 - - dozen
   - pencil
   - drawings
+- - purpose
+  - remains
+  - unknown
 - - spontaneous
   - human
   - combustion
@@ -41,9 +44,6 @@ ngrams:
 - - wire
   - fence
   - stood
-- - purpose
-  - remains
-  - unknown
 - - working
   - notes
   - ned
@@ -56,12 +56,12 @@ ngrams:
 - - wrote
   - somewhat
   - melodramatically
-- - aviatrix
-  - marigold
-  - chew
 - - big
   - red
   - rectangular
+- - aviatrix
+  - marigold
+  - chew
 - - machine
   - chew
   - spent
@@ -71,12 +71,12 @@ ngrams:
 - - narrow
   - gate
   - set
-- - marigold
-  - chew
-  - spent
 - - chew
   - wrote
   - somewhat
+- - marigold
+  - chew
+  - spent
 - - reader's
   - digest
   - each
@@ -95,42 +95,42 @@ ngrams:
 - - shed
   - much
   - banging
+- - never
+  - allowed
+  - anyone
 - - magazine
   - rack
   - made
 - - rack
   - made
   - entirely
-- - never
-  - allowed
-  - anyone
 - - allowed
   - anyone
   - through
-- - hours
-  - locked
-  - away
-- - spent
-  - years
-  - building
 - - blue
   - shed
   - much
+- - hours
+  - locked
+  - away
 - - every
   - waking
   - thought
+- - spent
+  - years
+  - building
 - - ms
   - chew
   - never
 - - chew
   - never
   - allowed
-- - chew
-  - spent
-  - years
 - - many
   - hours
   - locked
+- - chew
+  - spent
+  - years
 - - chew
   - spent
   - many
@@ -149,15 +149,15 @@ ngrams:
 - - untimely
   - death
   - did
-- - her
-  - tools
-  - including
 - - its
   - purpose
   - remains
 - - her
-  - untimely
-  - death
+  - tools
+  - including
+- - scribbled
+  - marginalia
+  - some
 story:
   date: 2004-08-12
   id: 2004-08-12-marigold-chews-shed

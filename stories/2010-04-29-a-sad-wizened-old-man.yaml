@@ -5,36 +5,36 @@ ngrams:
 - - ethel
   - florence
   - nee
-- - guise
-  - '-'
-  - army
 - - wife
   - ethel
   - florence
-- - '-'
-  - army
-  - officer
 - - atheist
   - attended
   - church
 - - attended
   - church
   - services
-- - john
-  - guise
-  - '-'
-- - sir
-  - john
-  - guise
-- - christian
-  - dear
-  - frank
 - - peter
   - christian
   - dear
+- - christian
+  - dear
+  - frank
+- - sir
+  - john
+  - guise
 - - ship
   - john
   - won
+- - guise
+  - '-'
+  - army
+- - '-'
+  - army
+  - officer
+- - john
+  - guise
+  - '-'
 - - yard
   - origins
   - manifest
@@ -53,15 +53,15 @@ ngrams:
 - - been
   - somehow
   - stealing
+- - nee
+  - prowse
+  - when
 - - somehow
   - stealing
   - your
 - - your
   - unpublished
   - works
-- - nee
-  - prowse
-  - when
 story:
   date: 2010-04-29
   id: 2010-04-29-a-sad-wizened-old-man

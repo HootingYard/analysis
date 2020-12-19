@@ -1,25 +1,28 @@
 ngrams:
-- - emerson
-  - marina
-  - oswald
 - - marina
   - oswald
   - fbi
 - - mannlicher
   - carcano
   - rifle
-- - lee
-  - harvey
-  - oswald's
+- - emerson
+  - marina
+  - oswald
 - - garage
   - blah
   - blah
+- - lee
+  - harvey
+  - oswald's
 - - irving
   - oswald
   - stayed
 - - loch
   - ness
   - monster
+- - blah
+  - blah
+  - blah
 - - ness
   - monster
   - hunters
@@ -29,9 +32,6 @@ ngrams:
 - - questionable
   - personal
   - habits
-- - blah
-  - blah
-  - blah
 - - oswald
   - fbi
   - agent
@@ -41,18 +41,18 @@ ngrams:
 - - oswald's
   - wife
   - marina
-- - robert
-  - treat
-  - paine
-- - robert
-  - treat
-  - paine
 - - harvey
   - oswald's
   - wife
 - - independence
   - robert
   - treat
+- - robert
+  - treat
+  - paine
+- - robert
+  - treat
+  - paine
 - - fbi
   - agent
   - james

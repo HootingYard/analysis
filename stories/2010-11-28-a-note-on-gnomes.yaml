@@ -5,12 +5,12 @@ ngrams:
 - - hallucinatory
   - facial
   - expressions
-- - tally
-  - ms
-  - atkinson
 - - reputation
   - protection
   - gnomes
+- - tally
+  - ms
+  - atkinson
 - - gnome
   - tally
   - ms
@@ -20,10 +20,10 @@ ngrams:
 - - snack
   - preparation
   - gnomes
-- - disturbing
+- - creepy
   - invisible
   - gnomes
-- - creepy
+- - disturbing
   - invisible
   - gnomes
 - - curiously
@@ -32,24 +32,24 @@ ngrams:
 - - potting
   - shed
   - snack
+- - common
+  - gnome
+  - occupations
 - - shed
   - snack
   - preparation
 - - atkinson's
   - novel
   - started
-- - common
-  - gnome
-  - occupations
 - - janitor
   - gnomes
   - directly
-- - novel
-  - started
-  - early
 - - overlooks
   - others
   - entirely
+- - novel
+  - started
+  - early
 - - doesn't
   - bear
   - thinking
@@ -62,21 +62,21 @@ ngrams:
 - - pipes
   - until
   - nightfall
-- - clean
-  - pipes
-  - until
 - - until
   - nightfall
   - gnomes
+- - clean
+  - pipes
+  - until
 - - started
   - early
   - took
-- - busy
-  - little
-  - fellows
 - - begrudge
   - these
   - gnomes
+- - busy
+  - little
+  - fellows
 - - hardly
   - begrudge
   - these
@@ -104,24 +104,21 @@ ngrams:
 - - can
   - hardly
   - begrudge
-- - ms
-  - atkinson
-  - has
 - - well
   - being
   - able
-- - although
-  - she
-  - does
-- - she
-  - does
-  - note
+- - ms
+  - atkinson
+  - has
 - - wider
   - world
   - more
 - - world
   - more
   - successfully
+- - although
+  - she
+  - does
 - - deliberately
   - concealed
   - their
@@ -134,9 +131,12 @@ ngrams:
 - - their
   - sharpened
   - pins
-- - previously
-  - been
-  - recorded
+- - she
+  - does
+  - note
+- - successfully
+  - even
+  - than
 story:
   date: 2010-11-28
   id: 2010-11-28-a-note-on-gnomes

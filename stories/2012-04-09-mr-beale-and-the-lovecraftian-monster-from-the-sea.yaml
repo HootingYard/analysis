@@ -2,12 +2,12 @@ ngrams:
 - - sensation
   - extremely
   - sickening
-- - ferocious
-  - animal
-  - induced
 - - alice
   - thomas
   - ellis
+- - ferocious
+  - animal
+  - induced
 - - extraordinary
   - animal
   - creeping
@@ -17,12 +17,12 @@ ngrams:
 - - good
   - red
   - herring
-- - mr
-  - beale
-  - states
 - - imagined
   - mr
   - beale
+- - mr
+  - beale
+  - states
 - - readily
   - imagined
   - mr
@@ -41,12 +41,12 @@ ngrams:
 - - its
   - powerful
   - beak
-- - made
-  - great
-  - efforts
 - - its
   - eight
   - legs
+- - made
+  - great
+  - efforts
 - - then
   - grabbed
   - hold
@@ -62,6 +62,9 @@ ngrams:
 - - go
   - its
   - hold
+- - bonin
+  - islands
+  - when
 - - let
   - go
   - its
@@ -71,27 +74,24 @@ ngrams:
 - - victorians
   - were
   - notoriously
-- - bonin
-  - islands
-  - when
 - - what
   - mr
   - beale
 - - so
   - tenaciously
   - adhered
-- - unusually
-  - intelligent
-  - which
 - - cephalopods
   - are
   - unusually
-- - intelligent
-  - which
-  - strikes
 - - are
   - unusually
   - intelligent
+- - unusually
+  - intelligent
+  - which
+- - intelligent
+  - which
+  - strikes
 - - don't
   - know
   - what
@@ -101,29 +101,29 @@ ngrams:
 - - this
   - unexpected
   - assault
-- - eat
-  - this
-  - octopus
-- - which
-  - strikes
-  - us
 - - know
   - what
   - mr
+- - eat
+  - this
+  - octopus
 - - are
   - against
   - things
+- - which
+  - strikes
+  - us
 - - rock
   - this
   - seemed
 - - beale
   - had
   - expected
+- - strange
+  - but
+  - caused
 - - lovecraftian
   - monster
-  - from
-- - victorian
-  - naturalist
   - from
 story:
   date: 2012-04-09

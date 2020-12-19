@@ -5,69 +5,69 @@ ngrams:
 - - muscle
   - damage
   - ostriches
-- - poorly
-  - planned
-  - capture
 - - actor
   - lance
   - percival
 - - strong
   - herding
   - instinct
+- - poorly
+  - planned
+  - capture
 - - low
   - ambient
   - temperature
 - - handle
   - ostriches
   - roughly
-- - planned
-  - capture
-  - operation
-- - plastic
-  - capture
-  - boma
 - - avoid
   - excessive
   - exertion
+- - planned
+  - capture
+  - operation
 - - capture
   - operation
   - ensure
+- - plastic
+  - capture
+  - boma
 - - haven't
   - finished
   - lancelot
 - - capture
   - stress
   - usually
-- - capture
-  - boma
-  - using
 - - handlers
   - large
   - aggressive
 - - large
   - aggressive
   - males
-- - net
-  - broken
-  - legs
+- - capture
+  - boma
+  - using
 - - wild
   - hogs
   - careering
-- - high
-  - ambient
-  - temperatures
 - - stress
   - usually
   - die
+- - high
+  - ambient
+  - temperatures
+- - net
+  - broken
+  - legs
 - - damp
   - i'm
   - afraid
-- - successful
-  - young
-  - ostriches
 - - capture
   - otherwise
   - sudden
+- - successful
+  - young
+  - ostriches
 - - handling
   - during
   - capture
@@ -80,12 +80,12 @@ ngrams:
 - - ostriches
   - roughly
   - during
-- - lukewarm
-  - tap
-  - water
 - - become
   - dry
   - lancelot
+- - lukewarm
+  - tap
+  - water
 - - during
   - capture
   - otherwise
@@ -98,15 +98,18 @@ ngrams:
 - - eventually
   - become
   - dry
-- - ambient
-  - temperature
-  - around
 - - otherwise
   - sudden
   - death
+- - ambient
+  - temperature
+  - around
 - - useful
   - hints
   - tiny
+- - birds
+  - gently
+  - forward
 - - dribble
   - let
   - alone
@@ -116,9 +119,6 @@ ngrams:
 - - large
   - groups
   - called
-- - birds
-  - gently
-  - forward
 - - hints
   - tiny
   - enid
@@ -173,108 +173,99 @@ ngrams:
 - - points
   - never
   - capture
-- - let
-  - alone
-  - tiny
 - - see
   - wild
   - hogs
-- - tiny
-  - enid
-  - tiny
-- - very
-  - useful
-  - hints
-- - paused
-  - again
-  - took
-- - minimized
-  - capture
-  - only
 - - final
   - points
   - never
+- - very
+  - useful
+  - hints
+- - let
+  - alone
+  - tiny
+- - paused
+  - again
+  - took
+- - tiny
+  - enid
+  - tiny
 - - gulping
   - down
   - tumblers
 - - running
   - birds
   - once
+- - minimized
+  - capture
+  - only
 - - said
   - avoid
   - excessive
-- - very
-  - successful
-  - young
-- - procedure
-  - never
-  - use
 - - secondary
   - problems
   - such
+- - procedure
+  - never
+  - use
+- - very
+  - successful
+  - young
 - - good
   - idea
   - tiny
-- - together
-  - gulping
-  - down
 - - maim
   - its
   - captors
+- - together
+  - gulping
+  - down
 - - problematic
   - these
   - should
-- - lancelot
-  - she
-  - advised
 - - its
   - captors
   - stay
-- - her
-  - mania
-  - cropped
+- - lancelot
+  - she
+  - advised
 - - occurs
   - she
   - paused
-- - dry
-  - lancelot
-  - she
-- - finished
-  - lancelot
-  - she
-- - her
-  - chair
-  - kissed
 - - factor
   - said
   - tiny
 - - ambient
   - temperatures
   - do
+- - finished
+  - lancelot
+  - she
+- - her
+  - mania
+  - cropped
+- - dry
+  - lancelot
+  - she
+- - her
+  - chair
+  - kissed
 - - walked
   - away
   - years
-- - wild
-  - she
-  - continued
-- - said
-  - tiny
-  - enid
-- - said
-  - tiny
-  - enid
 - - creche
   - units
   - can
 - - aggressive
   - males
   - can
-- - tap
-  - water
-  - she
-- - her
-  - water
-  - rose
+- - said
+  - tiny
+  - enid
+- - said
+  - tiny
+  - enid
 - - units
   - can
   - easily
@@ -284,27 +275,36 @@ ngrams:
 - - very
   - good
   - idea
-- - birds
-  - occurs
+- - wild
   - she
-- - water
-  - she
-  - gave
-- - some
-  - final
-  - points
+  - continued
 - - during
   - capture
   - do
 - - bird's
   - back
   - those
+- - some
+  - final
+  - points
+- - males
+  - can
+  - sometimes
 - - trample
   - each
   - other
-- - she
-  - paused
-  - again
+- - tap
+  - water
+  - she
+- - case
+  - said
+  - tiny
+- - her
+  - water
+  - rose
+- - away
+  - years
+  - later
 story:
   date: 2004-11-30
   id: 2004-11-30-the-adventures-of-tiny-enid

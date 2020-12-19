@@ -1,49 +1,52 @@
 ngrams:
-- - dirigible
-  - marmite
-  - canary
 - - galumphing
   - peanuts
   - macadamia
+- - dirigible
+  - marmite
+  - canary
 - - creosote
   - limehouse
   - mucking
-- - pining
-  - locusts
-  - bandage
-- - wharf
-  - galumphing
-  - peanuts
 - - flapping
   - dirigible
   - marmite
-- - marmite
-  - canary
-  - wharf
-- - canary
-  - wharf
-  - galumphing
 - - mudchute
   - looming
   - pagans
+- - wharf
+  - galumphing
+  - peanuts
 - - cutlery
   - monitor
   - lizards
-- - looming
-  - pagans
-  - whirling
+- - marmite
+  - canary
+  - wharf
+- - pining
+  - locusts
+  - bandage
 - - flickering
   - savagery
   - nesting
-- - nesting
-  - habits
-  - custom
+- - looming
+  - pagans
+  - whirling
+- - canary
+  - wharf
+  - galumphing
 - - poplar
   - clattering
   - mordant
+- - nesting
+  - habits
+  - custom
 - - national
   - treasures
   - overseas
+- - shipping
+  - forecast
+  - broadcast
 - - cyprus
   - choking
   - yoko
@@ -53,21 +56,18 @@ ngrams:
 - - catafalque
   - west
   - india
-- - shipping
-  - forecast
-  - broadcast
 - - mordant
   - starlings
   - catafalque
-- - bandage
-  - paste
-  - poplar
-- - peanuts
-  - macadamia
-  - nuts
 - - splendidly
   - detailed
   - entry
+- - peanuts
+  - macadamia
+  - nuts
+- - clattering
+  - mordant
+  - starlings
 story:
   date: 2005-08-16
   id: 2005-08-16-railway-forecast

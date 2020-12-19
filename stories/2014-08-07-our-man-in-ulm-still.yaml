@@ -17,12 +17,12 @@ ngrams:
 - - gas
   - leak
   - still
-- - thinks
-  - how
-  - easily
 - - these
   - sausages
   - indoors
+- - thinks
+  - how
+  - easily
 - - eat
   - these
   - sausages
@@ -50,57 +50,54 @@ ngrams:
 - - never
   - come
   - across
-- - bone
-  - dry
-  - 'no'
 - - always
   - damp
   - can
+- - bone
+  - dry
+  - 'no'
 - - little
   - more
   - prone
 - - damp
   - squib
   - if
-- - entirely
-  - sure
-  - what
 - - some
   - might
   - describe
+- - entirely
+  - sure
+  - what
 - - blame
   - me
   - blame
-- - don't
-  - blame
-  - me
 - - sprawled
   - there
   - eating
+- - don't
+  - blame
+  - me
 - - cannot
   - remember
   - when
-- - remember
-  - when
-  - last
 - - sausages
   - so
   - suitable
+- - remember
+  - when
+  - last
+- - so
+  - don't
+  - blame
 - - easily
   - available
   - are
 - - available
   - are
   - sausages
-- - so
-  - don't
-  - blame
 - - your
   - reading
   - over
-- - being
-  - your
-  - man
 - - more
   - galling
   - when
@@ -110,12 +107,12 @@ ngrams:
 - - legally
   - there
   - may
+- - being
+  - your
+  - man
 - - has
   - blotted
   - out
-- - made
-  - us
-  - all
 - - let
   - alone
   - one
@@ -128,9 +125,15 @@ ngrams:
 - - sausages
   - indoors
   - or
+- - made
+  - us
+  - all
 - - moist
   - or
   - wet
+- - wet
+  - or
+  - drenched
 - - wet
   - or
   - soaking
@@ -140,15 +143,12 @@ ngrams:
 - - soaking
   - wet
   - or
-- - wet
-  - or
-  - drenched
 - - one
   - thinks
   - how
-- - symptoms
-  - have
-  - abated
+- - or
+  - drenched
+  - let
 story:
   date: 2014-08-07
   id: 2014-08-07-our-man-in-ulm-still

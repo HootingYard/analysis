@@ -11,72 +11,78 @@ ngrams:
 - - nauseating
   - pink
   - worm
-- - leaf
-  - tremendous
-  - splattering
 - - christ's
   - sake
   - content
+- - leaf
+  - tremendous
+  - splattering
 - - lacks
   - gold
   - leaf
-- - ink
-  - lupine
-  - howling
-- - pet
-  - mole
-  - pound
-- - emblems
-  - gain
-  - moral
-- - gold
-  - leaf
-  - tremendous
 - - preclude
   - proper
   - digestion
-- - gain
-  - moral
-  - heft
+- - pet
+  - mole
+  - pound
 - - proper
   - digestion
   - mukherjee
+- - emblems
+  - gain
+  - moral
+- - gain
+  - moral
+  - heft
+- - gold
+  - leaf
+  - tremendous
+- - ink
+  - lupine
+  - howling
+- - response
+  - preclude
+  - proper
 - - mole
   - pound
   - writes
 - - poor
   - ink
   - lupine
-- - response
-  - preclude
-  - proper
 - - bobbed
   - hair
   - preserved
 - - streets
   - run
   - mile
-- - pound
-  - writes
-  - somewhere
-- - innocent
-  - streets
-  - run
 - - lost
   - swollen
   - blobs
+- - innocent
+  - streets
+  - run
 - - sometimes
   - lamps
   - dazzle
-- - big
-  - expansive
-  - seas
-- - mother
-  - bobbed
-  - hair
+- - pound
+  - writes
+  - somewhere
 - - spurious
   - bird
   - motifs
+- - mother
+  - bobbed
+  - hair
+- - big
+  - expansive
+  - seas
+- - heft
+  - several
+  - ditches
+- - moral
+  - heft
+  - several
 - - dead
   - mother
   - bobbed
@@ -86,24 +92,18 @@ ngrams:
 - - end
   - inanity
   - brooks
-- - heft
-  - several
-  - ditches
-- - prison
-  - gang
-  - look
-- - moral
-  - heft
-  - several
 - - same
   - rag
   - frostbitten
-- - gang
+- - prison
+  - gang
   - look
-  - carefully
 - - lamps
   - dazzle
   - rather
+- - gang
+  - look
+  - carefully
 - - dust
   - always
   - wiped
@@ -134,15 +134,12 @@ ngrams:
 - - used
   - sparingly
   - most
-- - little
-  - spurious
-  - bird
 - - stretched
   - over
   - wretched
-- - those
-  - big
-  - expansive
+- - little
+  - spurious
+  - bird
 - - frankly
   - middling
   - than
@@ -152,51 +149,54 @@ ngrams:
 - - bells
   - hanging
   - where
-- - over
-  - wretched
-  - men
+- - those
+  - big
+  - expansive
 - - middling
   - than
   - otherwise
-- - other
-  - fangs
-  - bared
 - - gulf
   - between
   - head
-- - beak
-  - its
-  - beak
+- - over
+  - wretched
+  - men
 - - mile
   - upon
   - mile
-- - need
-  - only
-  - examine
-- - its
+- - other
+  - fangs
+  - bared
+- - beak
+  - its
   - beak
-  - golden
-- - bird
-  - motif
-  - even
-- - than
-  - otherwise
-  - none
 - - run
   - mile
   - upon
+- - than
+  - otherwise
+  - none
+- - bird
+  - motif
+  - even
+- - its
+  - beak
+  - golden
+- - need
+  - only
+  - examine
 - - night
   - stretched
   - over
+- - more
+  - documents
+  - beneath
 - - now
   - lost
   - swollen
 - - lectures
   - now
   - lost
-- - more
-  - documents
-  - beneath
 - - rather
   - than
   - illuminate
@@ -209,18 +209,18 @@ ngrams:
 - - water
   - like
   - living
-- - dust
-  - covered
-  - some
-- - each
-  - other
-  - fangs
 - - wetter
   - than
   - ever
-- - like
-  - living
-  - things
+- - dust
+  - covered
+  - some
+- - than
+  - ever
+  - shoes
+- - each
+  - other
+  - fangs
 story:
   date: 2017-12-12
   id: 2017-12-12-emblems-of-inanity

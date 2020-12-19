@@ -2,9 +2,6 @@ ngrams:
 - - tv
   - tosh
   - symphony
-- - vitamin
-  - pills
-  - twice
 - - symphony
   - binder
   - drags
@@ -14,12 +11,15 @@ ngrams:
 - - symphony
   - binder
   - donned
-- - abandoned
-  - aircraft
-  - hangar
+- - vitamin
+  - pills
+  - twice
 - - majestic
   - fifth
   - owes
+- - abandoned
+  - aircraft
+  - hangar
 - - final
   - symphony
   - binder
@@ -38,12 +38,12 @@ ngrams:
 - - binder
   - drags
   - us
-- - frightens
-  - both
-  - birds
 - - fifth
   - owes
   - much
+- - frightens
+  - both
+  - birds
 - - far
   - frightens
   - both
@@ -86,15 +86,15 @@ ngrams:
 - - least
   - so
   - quiet
+- - quiet
+  - one
+  - strains
 - - an
   - abandoned
   - aircraft
 - - an
   - orphan
   - child
-- - quiet
-  - one
-  - strains
 - - one
   - strains
   - one's
@@ -125,36 +125,36 @@ ngrams:
 - - mule
   - or
   - like
-- - binder
-  - had
-  - him
-- - had
-  - him
-  - shot
 - - by
   - far
   - frightens
 - - symphony
   - by
   - far
+- - binder
+  - had
+  - him
+- - had
+  - him
+  - shot
 - - be
   - heard
   - through
-- - score
-  - for
-  - symphony
 - - groovy
   - you
   - might
+- - score
+  - for
+  - symphony
 - - you
   - might
   - die
 - - buttons
   - calls
   - for
-- - his
-  - ninth
-  - symphony
+- - so
+  - quiet
+  - one
 story:
   date: 2009-07-25
   id: 2009-07-25-binder-the-forty-nine-symphonies

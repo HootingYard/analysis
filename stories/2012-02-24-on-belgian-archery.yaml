@@ -17,18 +17,24 @@ ngrams:
 - - fired
   - arrows
   - alongside
+- - legendary
+  - swiss
+  - archer
 - - fairly
   - easily
   - accomplished
 - - usual
   - eggy
   - fare
-- - legendary
-  - swiss
-  - archer
 - - swiss
   - archer
   - william
+- - pretty
+  - fair
+  - whack
+- - swiss
+  - alps
+  - speaking
 - - targets
   - hubert
   - van
@@ -38,12 +44,6 @@ ngrams:
 - - fire
   - arrows
   - indiscriminately
-- - pretty
-  - fair
-  - whack
-- - swiss
-  - alps
-  - speaking
 - - nevertheless
   - possible
   - luckily
@@ -56,27 +56,27 @@ ngrams:
 - - tragedy
   - cut
   - short
-- - won
-  - six
-  - gold
+- - arrows
+  - throw
+  - open
 - - during
   - archery
   - accidents
 - - arrows
-  - throw
-  - open
+  - during
+  - archery
+- - won
+  - six
+  - gold
 - - louis
   - van
   - de
-- - arrows
-  - during
-  - archery
-- - stray
-  - arrows
-  - during
 - - belgian
   - archery
   - today
+- - stray
+  - arrows
+  - during
 - - moving
   - bird
   - targets
@@ -89,66 +89,66 @@ ngrams:
 - - moving
   - bird
   - targets
-- - avoid
-  - moving
-  - bird
-- - city
-  - boulevards
-  - full
-- - archer
-  - william
-  - tell
 - - silver
   - medals
   - between
+- - city
+  - boulevards
+  - full
+- - avoid
+  - moving
+  - bird
+- - archer
+  - william
+  - tell
 - - three
   - silver
   - medals
-- - also
-  - profitably
-  - sport
 - - arrow
   - without
   - harming
-- - morning
-  - hubert
-  - van
+- - also
+  - profitably
+  - sport
 - - celebratory
   - early
   - morning
 - - early
   - morning
   - hubert
+- - morning
+  - hubert
+  - van
 - - bird
   - targets
   - actually
+- - belgian
+  - archer
+  - though
 - - connects
   - people
   - using
 - - air
   - taking
   - care
-- - belgian
-  - archer
-  - though
-- - most
-  - successful
-  - archer
 - - archer
   - though
   - van
-- - these
-  - stray
-  - arrows
+- - most
+  - successful
+  - archer
 - - between
   - another
   - archer
-- - ripe
-  - old
-  - age
+- - these
+  - stray
+  - arrows
 - - goes
   - equally
   - well
+- - ripe
+  - old
+  - age
 - - stand
   - between
   - another
@@ -161,42 +161,42 @@ ngrams:
 - - set
   - new
   - standards
-- - fire
-  - our
-  - celebratory
-- - our
-  - celebratory
-  - early
-- - avoid
-  - any
-  - moving
 - - mountainous
   - regions
   - such
+- - avoid
+  - any
+  - moving
+- - our
+  - celebratory
+  - early
+- - fire
+  - our
+  - celebratory
 - - bed
   - before
   - dawn
 - - also
   - took
   - part
-- - already
-  - made
-  - clear
 - - such
   - tragedy
   - cut
+- - already
+  - made
+  - clear
 - - other
   - targets
   - hubert
-- - any
-  - moving
-  - bird
 - - actually
   - such
   - avoidance
 - - targets
   - actually
   - such
+- - any
+  - moving
+  - bird
 - - stray
   - arrows
   - could
@@ -224,66 +224,66 @@ ngrams:
 - - who
   - fired
   - arrows
+- - can
+  - sashay
+  - along
 - - made
   - clear
   - here
 - - can
-  - sashay
-  - along
-- - can
   - also
   - profitably
-- - took
-  - some
-  - paces
-- - their
-  - fellow
-  - archers
 - - arrows
   - could
   - well
-- - met
-  - their
-  - deaths
-- - possible
-  - luckily
-  - 'no'
 - - could
   - well
   - strike
+- - their
+  - fellow
+  - archers
+- - possible
+  - luckily
+  - 'no'
+- - met
+  - their
+  - deaths
+- - took
+  - some
+  - paces
 - - easily
   - accomplished
   - what
-- - birthday
-  - arrows
-  - into
-- - directions
-  - other
-  - than
 - - olympic
   - games
   - when
-- - arrows
-  - flying
-  - into
 - - fair
   - whack
   - when
-- - some
-  - paces
-  - back
+- - directions
+  - other
+  - than
+- - birthday
+  - arrows
+  - into
+- - arrows
+  - flying
+  - into
+- - if
+  - hubert
+  - van
 - - do
   - our
   - ablutions
+- - some
+  - paces
+  - back
 - - into
   - breakfast
   - eschewing
 - - tuck
   - into
   - breakfast
-- - if
-  - hubert
-  - van
 - - all
   - aspire
   - whether
@@ -299,27 +299,27 @@ ngrams:
 - - luckily
   - 'no'
   - such
-- - these
-  - medals
-  - were
 - - today
   - we
   - celebrate
 - - history
   - we
   - ought
+- - these
+  - medals
+  - were
 - - archers
   - are
   - sensible
 - - incidents
   - are
   - rare
-- - then
-  - took
-  - some
 - - know
   - if
   - hubert
+- - we
+  - take
+  - care
 story:
   date: 2012-02-24
   id: 2012-02-24-on-belgian-archery

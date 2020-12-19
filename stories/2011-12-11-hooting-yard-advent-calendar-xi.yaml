@@ -17,27 +17,27 @@ ngrams:
 - - heavy
   - concrete
   - statue
-- - ruth
-  - bosch
-  - writes
 - - mary
   - swat
   - team
+- - ruth
+  - bosch
+  - writes
 - - poppy
   - nisbet
-  - dear
-- - chosen
-  - households
-  - looked
-- - bosch
-  - writes
   - dear
 - - wobbling
   - virgin
   - actually
+- - chosen
+  - households
+  - looked
 - - hope
   - ms
   - nisbet
+- - bosch
+  - writes
+  - dear
 - - proved
   - impossible
   - instead
@@ -62,15 +62,15 @@ ngrams:
 - - advent
   - calendar
   - very
-- - splendid
-  - our
-  - lady
-- - equally
-  - splendid
-  - our
 - - dear
   - mr
   - key
+- - dear
+  - mr
+  - key
+- - splendid
+  - our
+  - lady
 story:
   date: 2011-12-11
   id: 2011-12-11-hooting-yard-advent-calendar-xi

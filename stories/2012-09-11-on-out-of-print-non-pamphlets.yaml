@@ -8,24 +8,24 @@ ngrams:
 - - sell
   - stapled
   - sheets
-- - richard
-  - boston
-  - boston
-- - het
-  - internet
-  - remarkably
-- - school
-  - teacher
-  - recruitment
 - - fewer
   - fewer
   - interestingly
-- - edward
-  - gorey
-  - unfortunately
+- - het
+  - internet
+  - remarkably
+- - richard
+  - boston
+  - boston
 - - remembered
   - duly
   - encouraged
+- - school
+  - teacher
+  - recruitment
+- - edward
+  - gorey
+  - unfortunately
 - - british
   - pub
   - beer
@@ -41,15 +41,15 @@ ngrams:
 - - splendid
   - desperate
   - bicycles
-- - late
-  - richard
-  - boston
 - - alternative
   - approach
   - occurred
 - - stevedore
   - taking
   - charge
+- - late
+  - richard
+  - boston
 - - fiery
   - furnace
   - instead
@@ -74,42 +74,45 @@ ngrams:
 - - lord
   - god
   - almighty
-- - magazine
-  - called
-  - vole
 - - desperate
   - bicycles
   - having
-- - monthly
-  - magazine
-  - called
-- - short
-  - story
-  - followed
-- - journalist
-  - whose
-  - writing
 - - else
   - actually
   - happens
+- - short
+  - story
+  - followed
+- - magazine
+  - called
+  - vole
+- - journalist
+  - whose
+  - writing
+- - monthly
+  - magazine
+  - called
 - - five
   - pages
   - together
 - - each
   - paragraph
   - consisted
-- - top
-  - left
-  - corner
-- - somehow
-  - convinced
-  - myself
 - - anything
   - else
   - actually
+- - somehow
+  - convinced
+  - myself
+- - top
+  - left
+  - corner
 - - bicycles
   - having
   - written
+- - aforethought
+  - press
+  - mr
 - - piece
   - called
   - jonathan
@@ -119,45 +122,42 @@ ngrams:
 - - mine
   - good
   - god
-- - aforethought
-  - press
-  - mr
 - - second
   - piece
   - written
 - - remember
   - nothing
   - else
-- - crate
-  - being
-  - hoisted
 - - example
   - waited
   - until
 - - myself
   - lord
   - god
-- - first
-  - vague
-  - outlines
+- - crate
+  - being
+  - hoisted
 - - far
   - better
   - publication
+- - first
+  - vague
+  - outlines
 - - before
   - het
   - internet
-- - publication
-  - remember
-  - these
 - - shall
   - always
   - remember
-- - wrote
-  - back
-  - offering
+- - publication
+  - remember
+  - these
 - - whole
   - thing
   - took
+- - wrote
+  - back
+  - offering
 - - think
   - anything
   - else
@@ -170,39 +170,39 @@ ngrams:
 - - same
   - name
   - nor
-- - press
-  - publishing
-  - now
 - - less
   - successful
   - than
 - - back
   - offering
   - words
-- - thing
-  - took
-  - place
-- - first
-  - person
-  - outside
+- - press
+  - publishing
+  - now
+- - better
+  - publication
+  - than
 - - first
   - selling
   - perhaps
 - - days
   - before
   - het
-- - better
-  - publication
-  - than
+- - first
+  - person
+  - outside
+- - thing
+  - took
+  - place
+- - nor
+  - any
+  - relation
 - - more
   - interesting
   - influenced
 - - more
   - amateurish
   - project
-- - nor
-  - any
-  - relation
 - - being
   - hoisted
   - 'off'
@@ -212,69 +212,63 @@ ngrams:
 - - people
   - even
   - wrote
+- - rather
+  - than
+  - done
+- - advertised
+  - them
+  - elsewhere
 - - must
   - now
   - confess
 - - some
   - passing
   - interest
-- - advertised
-  - them
-  - elsewhere
-- - rather
-  - than
-  - done
-- - has
-  - suddenly
-  - brought
-- - interestingly
-  - 'no'
-  - alternative
 - - might
   - call
   - hooting
+- - interestingly
+  - 'no'
+  - alternative
 - - fewer
   - interestingly
   - 'no'
-- - other
-  - hand
-  - given
 - - name
   - nor
   - any
 - - 'no'
   - alternative
   - approach
+- - other
+  - hand
+  - given
+- - has
+  - suddenly
+  - brought
 - - may
   - indeed
   - make
 - - even
   - wrote
   - back
+- - indeed
+  - make
+  - such
 - - waxed
   - nostalgic
   - about
 - - these
   - people
   - even
-- - indeed
-  - make
-  - such
-- - about
-  - five
-  - replies
 - - keen
   - if
   - naive
+- - about
+  - five
+  - replies
 - - deliberately
   - laid
   - out
-- - received
-  - about
-  - five
-- - brought
-  - howling
-  - into
 - - even
   - more
   - amateurish
@@ -284,27 +278,33 @@ ngrams:
 - - if
   - naive
   - reader
-- - friends
-  - who
-  - ever
+- - received
+  - about
+  - five
+- - brought
+  - howling
+  - into
 - - them
   - these
   - masterworks
 - - similar
   - even
   - more
-- - hooting
-  - yard
-  - could
-- - nothing
-  - else
-  - about
-- - its
-  - other
-  - readers
+- - friends
+  - who
+  - ever
 - - bassoon
   - recital
   - would
+- - nothing
+  - else
+  - about
+- - hooting
+  - yard
+  - could
+- - its
+  - other
+  - readers
 - - bashed
   - out
   - another
@@ -329,9 +329,9 @@ ngrams:
 - - so
   - each
   - paragraph
-- - hooting
-  - yard
-  - were
+- - so
+  - please
+  - get
 - - placed
   - an
   - ad
@@ -341,18 +341,21 @@ ngrams:
 - - vole
   - an
   - early
-- - so
-  - please
-  - get
+- - hooting
+  - yard
+  - were
 - - five
   - replies
   - one
-- - called
-  - vole
-  - an
+- - we
+  - might
+  - call
 - - suddenly
   - brought
   - this
+- - called
+  - vole
+  - an
 - - an
   - original
   - idea
@@ -362,30 +365,27 @@ ngrams:
 - - what
   - has
   - suddenly
-- - an
-  - advert
-  - again
-- - we
-  - might
-  - call
 - - this
   - story
   - whatsoever
-- - pair
-  - had
-  - sprung
 - - cobbled
   - them
   - into
-- - had
-  - become
-  - discouraged
+- - an
+  - advert
+  - again
+- - p
+  - nameless
+  - or
+- - pair
+  - had
+  - sprung
 - - we
   - can
   - dignify
-- - other
-  - readers
-  - would
+- - but
+  - fewer
+  - fewer
 story:
   date: 2012-09-11
   id: 2012-09-11-on-out-of-print-non-pamphlets

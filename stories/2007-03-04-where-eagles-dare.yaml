@@ -2,9 +2,6 @@ ngrams:
 - - burton
   - clint
   - eastwood
-- - schloss
-  - adler
-  - '-'
 - - exquisitely
   - accurate
   - impersonation
@@ -23,45 +20,45 @@ ngrams:
 - - somewhat
   - higher
   - pitched
-- - adler
-  - '-'
-  - marigold
 - - particularly
   - dobsonian
   - kidney
 - - dobson's
   - foolishness
   - showed
-- - mere
-  - chimera
-  - although
 - - remote
   - seaside
   - resort
+- - mere
+  - chimera
+  - although
 - - film
   - starring
   - richard
-- - cup
-  - dobson's
-  - mania
-- - eagles
-  - dare
-  - today
 - - treacherous
   - plots
   - against
-- - '-'
-  - marigold
-  - chew
-- - marigold
-  - chew
-  - reasoned
+- - eagles
+  - dare
+  - today
+- - schloss
+  - adler
+  - '-'
+- - cup
+  - dobson's
+  - mania
 - - local
   - bird
   - counting
+- - marigold
+  - chew
+  - reasoned
 - - chew
   - became
   - desperate
+- - adler
+  - '-'
+  - marigold
 - - paper
   - cup
   - dobson's
@@ -74,18 +71,21 @@ ngrams:
 - - bird
   - counting
   - person
-- - given
-  - further
-  - fuel
 - - wrens
   - make
   - prey
-- - end
-  - marigold
-  - chew
+- - given
+  - further
+  - fuel
 - - course
   - somewhat
   - higher
+- - '-'
+  - marigold
+  - chew
+- - end
+  - marigold
+  - chew
 - - proved
   - once
   - again
@@ -119,57 +119,57 @@ ngrams:
 - - dobson's
   - where
   - eagles
-- - michael
-  - hordern
-  - her
-- - desperate
-  - she
-  - consulted
-- - hordern
-  - her
-  - voice
-- - tracked
-  - down
-  - indeed
-- - became
-  - desperate
-  - she
 - - same
   - period
   - where
+- - desperate
+  - she
+  - consulted
+- - tracked
+  - down
+  - indeed
+- - michael
+  - hordern
+  - her
 - - its
   - full
   - extent
 - - pamphleteer
   - could
   - overcome
-- - her
-  - wit's
-  - end
+- - hordern
+  - her
+  - voice
+- - became
+  - desperate
+  - she
+- - make
+  - prey
+  - where
 - - alistair
   - maclean
   - who
 - - many
   - years
   - marigold
-- - make
-  - prey
-  - where
+- - her
+  - wit's
+  - end
 - - foolishness
   - showed
   - 'no'
-- - chew
-  - who
-  - hoped
 - - showed
   - 'no'
   - sign
-- - dobson
-  - dobson's
-  - where
+- - chew
+  - who
+  - hoped
 - - single
   - copy
   - has
+- - counting
+  - person
+  - who
 story:
   date: 2007-03-04
   id: 2007-03-04-where-eagles-dare

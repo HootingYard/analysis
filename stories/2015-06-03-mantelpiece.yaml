@@ -2,15 +2,15 @@ ngrams:
 - - sheridan
   - le
   - fanu
-- - ether
-  - hood
-  - emily
 - - sandpapering
   - rough
   - surfaces
-- - hood
+- - ether
+  - hood
   - emily
-  - dickinson
+- - acute
+  - authorial
+  - observation
 - - uncertain
   - bewitched
   - bothered
@@ -20,9 +20,9 @@ ngrams:
 - - occasional
   - epistolary
   - dialogues
-- - acute
-  - authorial
-  - observation
+- - hood
+  - emily
+  - dickinson
 - - emergency
   - postman's
   - jacket
@@ -32,18 +32,21 @@ ngrams:
 - - ecstasy
   - gerard
   - manley
-- - bowie
-  - sucked
-  - innumerable
 - - le
   - fanu
   - e
+- - bowie
+  - sucked
+  - innumerable
 - - knitting
   - sandpapering
   - rough
 - - fanu
   - e
   - f
+- - attending
+  - swish
+  - sophisticated
 - - gerard
   - manley
   - hopkins
@@ -53,36 +56,66 @@ ngrams:
 - - synthesis
   - david
   - bowie
-- - psychopathic
-  - serial
-  - killer
 - - gain
   - entry
   - knocking
-- - attending
-  - swish
-  - sophisticated
 - - lean
   - insouciantly
   - job
 - - david
   - bowie
   - sucked
-- - grip
-  - altogether
-  - anyway
+- - psychopathic
+  - serial
+  - killer
 - - emotionally
   - shattering
   - experience
+- - grip
+  - altogether
+  - anyway
 - - pebbles
   - samuel
   - beckett
 - - forever
   - attending
   - swish
+- - swish
+  - sophisticated
+  - cocktail
+- - swish
+  - sophisticated
+  - cocktail
+- - swish
+  - sophisticated
+  - cocktail
+- - swish
+  - sophisticated
+  - cocktail
+- - swish
+  - sophisticated
+  - cocktail
+- - swish
+  - sophisticated
+  - cocktail
+- - swish
+  - sophisticated
+  - cocktail
+- - swish
+  - sophisticated
+  - cocktail
+- - swish
+  - sophisticated
+  - cocktail
 - - sucked
   - innumerable
   - pebbles
+- - sophisticated
+  - cocktail
+  - parties
+- - sophisticated
+  - cocktail
+  - parties
 - - enacting
   - short
   - extracts
@@ -92,357 +125,324 @@ ngrams:
 - - r
   - james
   - sheridan
-- - yellow
-  - notebook
-  - fifth
-- - violent
-  - coughing
-  - fit
-- - sophisticated
-  - cocktail
-  - parties
-- - sophisticated
-  - cocktail
-  - parties
 - - authorial
   - observation
   - consider
-- - swish
-  - sophisticated
-  - cocktail
-- - swish
-  - sophisticated
-  - cocktail
-- - swish
-  - sophisticated
-  - cocktail
-- - swish
-  - sophisticated
-  - cocktail
-- - swish
-  - sophisticated
-  - cocktail
-- - swish
-  - sophisticated
-  - cocktail
-- - swish
-  - sophisticated
-  - cocktail
-- - swish
-  - sophisticated
-  - cocktail
-- - swish
-  - sophisticated
-  - cocktail
+- - violent
+  - coughing
+  - fit
+- - yellow
+  - notebook
+  - fifth
 - - strange
   - unnatural
   - beauty
+- - party
+  - leaning
+  - insouciantly
+- - party
+  - leaning
+  - insouciantly
 - - unnatural
   - beauty
   - eventually
-- - m
-  - r
-  - james
-- - party
-  - leaning
-  - insouciantly
-- - party
-  - leaning
-  - insouciantly
 - - particularly
   - acute
   - authorial
-- - ground
-  - uncertain
-  - bewitched
-- - system
-  - yellow
-  - notebook
-- - shaky
-  - ground
-  - uncertain
+- - m
+  - r
+  - james
 - - purely
   - fictional
   - maniac
-- - letter
-  - plops
-  - onto
-- - meet
-  - eating
-  - fish
-- - fictional
-  - maniac
-  - dreamed
+- - ground
+  - uncertain
+  - bewitched
+- - sophisticated
+  - cocktail
+  - party
+- - sophisticated
+  - cocktail
+  - party
+- - sophisticated
+  - cocktail
+  - party
+- - sophisticated
+  - cocktail
+  - party
+- - sophisticated
+  - cocktail
+  - party
+- - sophisticated
+  - cocktail
+  - party
+- - sophisticated
+  - cocktail
+  - party
+- - shaky
+  - ground
+  - uncertain
 - - real
   - lumbering
   - relentlessly
-- - sophisticated
-  - cocktail
+- - meet
+  - eating
+  - fish
+- - letter
+  - plops
+  - onto
+- - cocktail
   - party
-- - sophisticated
-  - cocktail
+  - leaning
+- - cocktail
   - party
-- - sophisticated
-  - cocktail
-  - party
+  - leaning
+- - fictional
+  - maniac
+  - dreamed
+- - system
+  - yellow
+  - notebook
 - - explicitly
   - fictional
   - characters
-- - sophisticated
-  - cocktail
-  - party
-- - sophisticated
-  - cocktail
-  - party
-- - sophisticated
-  - cocktail
-  - party
-- - sophisticated
-  - cocktail
-  - party
-- - full
-  - swing
-  - grab
-- - cocktail
-  - party
-  - leaning
-- - cocktail
-  - party
-  - leaning
 - - specific
   - order
   - based
+- - full
+  - swing
+  - grab
+- - eating
+  - fish
+  - heads
 - - notebook
   - fifth
   - series
 - - emily
   - dickinson
   - taken
-- - eating
-  - fish
-  - heads
-- - dickinson
-  - taken
-  - pictures
 - - leaned
   - insouciantly
   - against
 - - lean
   - insouciantly
   - against
-- - lumbering
-  - relentlessly
-  - towards
 - - insouciantly
   - job
   - done
+- - dickinson
+  - taken
+  - pictures
+- - lumbering
+  - relentlessly
+  - towards
+- - leaning
+  - insouciantly
+  - against
+- - leaning
+  - insouciantly
+  - against
 - - recent
   - weeks
   - gone
-- - leaning
-  - insouciantly
-  - against
-- - leaning
-  - insouciantly
-  - against
-- - paris
-  - hotel
-  - room
-- - distinction
-  - between
-  - frank
 - - key
   - conducts
   - occasional
 - - mantelpiece
   - clean
   - enough
+- - distinction
+  - between
+  - frank
 - - crowley
   - having
   - ticked
 - - fomented
   - entirely
   - within
+- - paris
+  - hotel
+  - room
 - - frank
   - key
   - element
 - - mantelpiece
   - frank
   - key
-- - frank
-  - key
-  - author
 - - myself
   - repeatedly
   - gazing
-- - something
-  - inexplicably
-  - menacing
+- - frank
+  - key
+  - author
 - - simply
   - common
   - sense
-- - saw
-  - silhouetted
-  - against
+- - something
+  - inexplicably
+  - menacing
 - - several
   - different
   - areas
 - - mr
   - cutler
   - asserts
-- - cocktail
-  - party
-  - without
+- - saw
+  - silhouetted
+  - against
 - - blog
   - vs
   - mr
-- - little
-  - ether
-  - hood
-- - cutler
-  - asserts
-  - how
+- - cocktail
+  - party
+  - without
 - - between
   - frank
   - key
 - - fifth
   - series
   - though
-- - great
-  - god
-  - pan
+- - little
+  - ether
+  - hood
+- - cutler
+  - asserts
+  - how
 - - too
   - real
   - lumbering
+- - great
+  - god
+  - pan
 - - very
   - specific
   - orders
+- - vs
+  - mr
+  - key
 - - altogether
   - anyway
   - here
 - - already
   - planned
   - how
-- - vs
-  - mr
-  - key
-- - last
-  - breath
-  - having
 - - erase
   - any
   - traces
+- - last
+  - breath
+  - having
 - - very
   - specific
   - order
-- - received
-  - any
-  - invitations
 - - dear
   - mr
   - key
-- - first
-  - person
-  - narratives
+- - received
+  - any
+  - invitations
 - - having
   - ticked
   - these
-- - room
-  - after
-  - casting
 - - first
   - person
-  - narrator
-- - thus
-  - found
-  - myself
-- - hotel
-  - room
-  - after
+  - narratives
 - - himself
   - dear
   - mr
+- - first
+  - person
+  - narrator
+- - room
+  - after
+  - casting
+- - thus
+  - found
+  - myself
 - - frank
   - key
   - first
-- - need
-  - only
-  - bash
-- - person
-  - narrator
-  - may
-- - main
+- - hotel
   - room
-  - where
+  - after
 - - more
   - piquant
   - farewell
-- - hooting
-  - yard
-  - scene
+- - person
+  - narrator
+  - may
+- - need
+  - only
+  - bash
+- - order
+  - based
+  - upon
+- - main
+  - room
+  - where
 - - stand
   - then
   - sashay
 - - umbrella
   - stand
   - then
-- - hair
-  - take
-  - 'off'
-- - order
-  - based
-  - upon
 - - dreams
   - yet
   - here
-- - ticked
-  - these
-  - 'off'
 - - debauch
   - nor
   - did
-- - clinician
-  - has
-  - dubbed
-- - do
-  - hell
-  - 'yes'
+- - hooting
+  - yard
+  - scene
+- - hair
+  - take
+  - 'off'
+- - ticked
+  - these
+  - 'off'
 - - more
   - salubrious
   - part
+- - do
+  - hell
+  - 'yes'
+- - clinician
+  - has
+  - dubbed
 - - has
   - dubbed
   - crumbling
+- - am
+  - almost
+  - certainly
 - - them
   - m
   - r
 - - their
   - jokes
   - laughing
-- - am
-  - almost
-  - certainly
-- - has
-  - particularly
-  - struck
 - - maniac
   - dreamed
   - up
-- - always
-  - believed
-  - him
-- - stand
-  - up
-  - dab
-- - many
-  - years
-  - something
+- - has
+  - particularly
+  - struck
 - - recluse
   - can
   - yet
+- - stand
+  - up
+  - dab
 - - can
   - yet
   - summon
+- - many
+  - years
+  - something
+- - always
+  - believed
+  - him
 - - cheek
   - spraying
   - what
@@ -452,6 +452,9 @@ ngrams:
 - - inexplicably
   - menacing
   - about
+- - ultimately
+  - beneficial
+  - if
 - - peered
   - into
   - framed
@@ -464,117 +467,114 @@ ngrams:
 - - repeatedly
   - gazing
   - into
-- - ultimately
-  - beneficial
-  - if
-- - hooting
-  - yard
-  - where
 - - careful
   - when
   - drawing
-- - alley
-  - towards
-  - what
 - - evening
   - stopping
   - when
-- - having
-  - been
-  - felled
-- - breath
-  - having
-  - been
-- - entirely
-  - within
-  - your
+- - alley
+  - towards
+  - what
+- - hooting
+  - yard
+  - where
+- - such
+  - details
+  - could
 - - weeks
   - gone
   - about
 - - gone
   - about
   - wearing
+- - having
+  - been
+  - felled
 - - calls
   - into
   - question
+- - breath
+  - having
+  - been
+- - entirely
+  - within
+  - your
+- - when
+  - key
+  - conducts
 - - readers
   - may
   - like
-- - such
-  - details
-  - could
 - - fictional
   - having
   - been
 - - sailors
   - all
   - meet
-- - your
-  - correspondents
-  - while
-- - when
-  - key
-  - conducts
-- - all
-  - meet
-  - eating
-- - duck's
-  - blood
-  - all
-- - also
-  - calls
-  - into
-- - footsteps
-  - following
-  - me
 - - ed
   - miliband
   - would
-- - inveigle
-  - your
-  - way
+- - all
+  - meet
+  - eating
 - - would
   - lean
   - insouciantly
+- - also
+  - calls
+  - into
+- - your
+  - correspondents
+  - while
+- - duck's
+  - blood
+  - all
+- - footsteps
+  - following
+  - me
 - - would
   - gain
   - entry
+- - would
+  - lie
+  - awake
+- - reality
+  - otherwise
+  - we
+- - beneficial
+  - if
+  - mr
 - - particularly
   - struck
   - me
 - - may
   - like
   - mr
-- - would
-  - lie
-  - awake
+- - inveigle
+  - your
+  - way
 - - relentlessly
   - towards
   - me
-- - reality
-  - otherwise
-  - we
 - - all
   - likelihood
   - end
-- - been
-  - very
-  - careful
 - - take
   - into
   - account
-- - your
-  - head
-  - absent
-- - beneficial
-  - if
-  - mr
-- - leaners
-  - are
-  - explicitly
+- - been
+  - very
+  - careful
 - - don't
   - get
   - out
+- - we
+  - deliberately
+  - left
+- - your
+  - head
+  - absent
 story:
   date: 2015-06-03
   id: 2015-06-03-mantelpiece

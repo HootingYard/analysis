@@ -1,16 +1,13 @@
 ngrams:
-- - alexander
-  - scriabin
-  - '-'
-- - composer
-  - alexander
-  - scriabin
 - - neurasthenic
   - russian
   - cultivated
 - - grandiose
   - religious
   - synthesis
+- - composer
+  - alexander
+  - scriabin
 - - everyone
   - appreciated
   - scriabin
@@ -32,6 +29,9 @@ ngrams:
 - - orchestra
   - dance
   - light
+- - alexander
+  - scriabin
+  - '-'
 - - supremely
   - bonkers
   - piece
@@ -41,12 +41,12 @@ ngrams:
 - - total
   - art
   - work
-- - short
-  - fraught
-  - life
 - - art
   - work
   - involving
+- - short
+  - fraught
+  - life
 - - decisive
   - mustachios
   - much
@@ -59,36 +59,36 @@ ngrams:
 - - symphony
   - complained
   - after
-- - little
-  - hands
-  - decisive
 - - before
   - spinal
   - tap
+- - little
+  - hands
+  - decisive
 - - two
   - occasions
   - during
 - - considers
   - how
   - tiny
+- - hands
+  - larger
+  - than
 - - himalayas
   - its
   - playing
 - - its
   - playing
   - ushering
-- - tiny
-  - little
-  - hands
-- - tiny
-  - little
-  - hands
-- - hands
-  - larger
-  - than
 - - mad
   - any
   - moment
+- - tiny
+  - little
+  - hands
+- - tiny
+  - little
+  - hands
 - - such
   - music
   - help

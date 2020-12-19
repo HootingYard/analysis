@@ -11,9 +11,6 @@ ngrams:
 - - parlour
   - glugging
   - sherry
-- - grim
-  - authoritarian
-  - household
 - - forbidding
   - grim
   - authoritarian
@@ -23,6 +20,9 @@ ngrams:
 - - informative
   - documentary
   - films
+- - grim
+  - authoritarian
+  - household
 - - watching
   - informative
   - documentary
@@ -50,12 +50,12 @@ ngrams:
 - - books
   - preferably
   - illustrated
-- - character
-  - references
-  - bear
 - - adding
   - oh
   - silly
+- - character
+  - references
+  - bear
 - - reference
   - books
   - preferably
@@ -65,15 +65,15 @@ ngrams:
 - - recently
   - spent
   - five
-- - five
-  - hours
-  - atop
 - - authoritarian
   - household
   - next
 - - household
   - next
   - acquire
+- - five
+  - hours
+  - atop
 - - hours
   - god
   - sends
@@ -98,15 +98,15 @@ ngrams:
 - - served
   - piecemeal
   - after
+- - exclaim
+  - before
+  - blinking
 - - combing
   - through
   - reference
 - - kitchen
   - toiling
   - through
-- - exclaim
-  - before
-  - blinking
 - - very
   - tricky
   - effect
@@ -128,24 +128,24 @@ ngrams:
 - - kinship
   - grouplet
   - do
-- - kinship
-  - grouplet
-  - who
-- - can
-  - wear
-  - dark
-- - can
-  - busy
-  - themselves
 - - over
   - several
   - days
-- - skivvies
-  - drive
-  - them
+- - can
+  - busy
+  - themselves
+- - can
+  - wear
+  - dark
 - - possibly
   - can
   - wear
+- - skivvies
+  - drive
+  - them
+- - kinship
+  - grouplet
+  - who
 - - after
   - supper
   - over
@@ -164,30 +164,30 @@ ngrams:
 - - your
   - extended
   - family
-- - your
-  - dining
-  - table
-- - finished
-  - making
-  - your
 - - any
   - other
   - condition
-- - can
-  - just
-  - dismiss
+- - your
+  - dining
+  - table
 - - adult
   - wolf
   - if
-- - film
-  - about
-  - spooks
 - - successfully
   - especially
   - if
 - - broom
   - if
   - necessary
+- - can
+  - just
+  - dismiss
+- - film
+  - about
+  - spooks
+- - finished
+  - making
+  - your
 - - least
   - what
   - passes

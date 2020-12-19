@@ -1,43 +1,43 @@
 ngrams:
-- - percussionist
-  - zoltan
-  - taplow
 - - stooping
   - forensics
   - specialist
 - - experimental
-  - percussionist
-  - zoltan
-- - experimental
   - percussionists
   - tends
-- - bona
-  - fide
-  - detectives
 - - temperate
   - zone
   - inland
-- - tweed
-  - suits
-  - massive
-- - tall
-  - stooping
-  - forensics
+- - percussionist
+  - zoltan
+  - taplow
 - - beagle
   - breeding
   - compound
-- - suits
+- - tweed
+  - suits
   - massive
-  - walrus
-- - critical
-  - faculties
-  - deserted
-- - alfred
-  - hitchcock
-  - hitchcock
+- - experimental
+  - percussionist
+  - zoltan
+- - bona
+  - fide
+  - detectives
 - - dappling
   - sunlight
   - examination
+- - tall
+  - stooping
+  - forensics
+- - critical
+  - faculties
+  - deserted
+- - suits
+  - massive
+  - walrus
+- - alfred
+  - hitchcock
+  - hitchcock
 - - director
   - alfred
   - hitchcock
@@ -53,72 +53,72 @@ ngrams:
 - - swooping
   - crows
   - magpies
-- - reconditioned
-  - metal
-  - drums
 - - career
   - chewing
   - toffee
 - - hampers
   - bear
   - badges
+- - reconditioned
+  - metal
+  - drums
 - - career
   - aboard
   - ships
-- - pang
-  - hill
-  - pathways
+- - eggs
+  - alfred
+  - hitchcock
 - - meteorological
   - records
   - show
+- - pang
+  - hill
+  - pathways
 - - state
   - carefully
   - monitored
 - - psychological
   - state
   - carefully
-- - eggs
-  - alfred
-  - hitchcock
-- - pang
-  - hill
-  - orphanage
-- - pang
-  - hill
-  - orphanage
 - - earlier
   - features
   - detective
 - - records
   - call
   - humid
-- - forks
-  - wrote
-  - sidney
+- - pang
+  - hill
+  - orphanage
+- - pang
+  - hill
+  - orphanage
 - - film
   - director
   - alfred
+- - forks
+  - wrote
+  - sidney
+- - play
+  - suitable
+  - picnic
+- - fourth
+  - year
+  - onwards
 - - wrote
   - sidney
   - cack
 - - refreshing
   - barley
   - water
-- - fourth
-  - year
-  - onwards
-- - play
-  - suitable
-  - picnic
 - - suitable
   - picnic
   - music
-- - features
-  - detective
-  - captain
 - - trucks
   - growling
   - along
+- - features
+  - detective
+  - captain
 - - almost
   - insane
   - detail
@@ -152,69 +152,69 @@ ngrams:
 - - frighten
   - 'off'
   - swooping
-- - missed
-  - two
-  - earlier
 - - likely
   - too
   - unless
-- - nerves
-  - never
-  - recovered
-- - two
-  - earlier
-  - features
-- - year
-  - come
-  - hell
-- - 'off'
-  - swooping
-  - crows
 - - along
   - despite
   - having
+- - nerves
+  - never
+  - recovered
+- - year
+  - come
+  - hell
+- - missed
+  - two
+  - earlier
+- - 'off'
+  - swooping
+  - crows
+- - two
+  - earlier
+  - features
 - - still
   - anxious
   - eyes
-- - water
-  - come
-  - rain
 - - immediately
   - after
   - completing
+- - water
+  - come
+  - rain
 - - high
   - water
   - come
 - - detectives
   - eve
   - where
+- - thumping
+  - upon
+  - reconditioned
+- - energetic
+  - thumping
+  - upon
 - - became
   - legendary
   - over
 - - its
   - startling
   - calendrical
-- - thumping
-  - upon
-  - reconditioned
-- - other
-  - scavenging
-  - creatures
-- - energetic
-  - thumping
-  - upon
 - - factory
   - far
   - away
+- - upon
+  - reconditioned
+  - metal
+- - other
+  - scavenging
+  - creatures
 - - those
   - taking
   - part
 - - those
   - resounding
   - words
-- - upon
-  - reconditioned
-  - metal
 - - did
   - use
   - cutlery
@@ -230,36 +230,36 @@ ngrams:
 - - spent
   - too
   - much
-- - faculties
-  - deserted
-  - him
-- - surprising
-  - given
-  - its
 - - less
   - than
   - three
+- - surprising
+  - given
+  - its
+- - faculties
+  - deserted
+  - him
 - - flans
   - some
   - fruit
-- - anomaly
-  - has
-  - fascinated
 - - some
   - fruit
   - crackers
+- - anomaly
+  - has
+  - fascinated
 - - forensics
   - specialist
-  - who
-- - annual
-  - event
-  - has
-- - detectives
-  - buffs
   - who
 - - calendrical
   - significance
   - who
+- - detectives
+  - buffs
+  - who
+- - annual
+  - event
+  - has
 - - hooting
   - yard
   - without
@@ -269,6 +269,9 @@ ngrams:
 - - very
   - first
   - picnic
+- - today
+  - can
+  - imagine
 - - breeding
   - compound
   - their
@@ -278,84 +281,81 @@ ngrams:
 - - event
   - has
   - become
-- - today
-  - can
-  - imagine
-- - significance
-  - who
-  - today
 - - their
   - psychological
   - state
+- - significance
+  - who
+  - today
 - - five
   - pitched
   - up
+- - badly
+  - injured
+  - when
 - - were
   - bona
   - fide
+- - injured
+  - when
+  - attacked
+- - having
+  - 'no'
+  - background
 - - under
   - their
   - caking
 - - glisten
   - under
   - their
-- - badly
-  - injured
-  - when
-- - pies
-  - were
-  - eaten
-- - having
-  - 'no'
-  - background
 - - confused
   - into
   - assuming
-- - injured
-  - when
-  - attacked
 - - despite
   - having
   - 'no'
+- - pies
+  - were
+  - eaten
+- - spent
+  - what
+  - ought
 - - remarkably
   - little
   - has
 - - little
   - has
   - changed
-- - spent
-  - what
-  - ought
 - - part
   - were
   - bona
 - - fide
   - detectives
   - all
-- - taking
-  - part
-  - were
-- - has
-  - changed
-  - over
 - - more
   - than
   - four
-- - hampers
-  - were
-  - each
 - - there
   - meteorological
   - records
-- - were
-  - each
-  - emblazoned
+- - taking
+  - part
+  - were
 - - afternoon
   - there
   - meteorological
-- - badges
-  - which
-  - glisten
+- - has
+  - changed
+  - over
+- - hampers
+  - were
+  - each
+- - were
+  - each
+  - emblazoned
+- - film
+  - came
+  - out
 - - infirm
   - ancients
   - are
@@ -365,27 +365,27 @@ ngrams:
 - - ancients
   - are
   - pushed
-- - film
-  - came
-  - out
 - - pack
   - are
   - bred
-- - opinion
-  - which
-  - suggests
-- - lobster
-  - pots
-  - are
-- - detectives
-  - were
-  - first
-- - bear
-  - badges
-  - which
 - - 'no'
   - less
   - than
+- - badges
+  - which
+  - glisten
+- - lobster
+  - pots
+  - are
+- - those
+  - hampers
+  - if
+- - opinion
+  - which
+  - suggests
+- - detectives
+  - were
+  - first
 story:
   date: 2005-06-25
   id: 2005-06-25-picnic-for-detectives

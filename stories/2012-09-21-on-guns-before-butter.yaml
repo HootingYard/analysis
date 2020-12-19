@@ -8,24 +8,15 @@ ngrams:
 - - contestant
   - swallowing
   - nervously
-- - contestant
-  - um
-  - smarmy
 - - entertainment
   - commissioning
   - editors
+- - contestant
+  - um
+  - smarmy
 - - applause
   - hooters
   - klaxons
-- - um
-  - smarmy
-  - host
-- - resonant
-  - bell
-  - clangs
-- - graham
-  - smarmy
-  - host
 - - smarmy
   - host
   - okay
@@ -35,9 +26,18 @@ ngrams:
 - - trevor
   - smarmy
   - host
+- - graham
+  - smarmy
+  - host
+- - um
+  - smarmy
+  - host
 - - hooters
   - klaxons
   - screaming
+- - resonant
+  - bell
+  - clangs
 - - boo
   - smarmy
   - host
@@ -47,237 +47,252 @@ ngrams:
 - - butter
   - contestant
   - swallowing
-- - smarmy
-  - host
-  - you've
 - - dax
   - smarmy
   - host
 - - rolf
   - smarmy
   - host
-- - noisily
-  - contestant
-  - looks
-- - incredibly
-  - incredibly
-  - stupid
-- - host
-  - okay
-  - let's
-- - bob
-  - smarmy
-  - host
 - - contestant
   - horst
   - smarmy
-- - seconds
-  - contestant
-  - um
-- - seconds
-  - contestant
+- - smarmy
+  - host
+  - you've
+- - host
   - okay
-- - contestant
-  - looks
-  - solemn
-- - butter
-  - bob
+  - let's
+- - incredibly
+  - incredibly
+  - stupid
+- - bob
   - smarmy
+  - host
 - - incredibly
   - stupid
   - contestant
+- - noisily
+  - contestant
+  - looks
 - - smarmy
   - host
   - guns
 - - alan
   - smarmy
   - host
+- - butter
+  - bob
+  - smarmy
+- - seconds
+  - contestant
+  - okay
 - - host
   - okay
   - horst
 - - contestant
+  - looks
+  - solemn
+- - seconds
+  - contestant
+  - um
+- - contestant
   - horst
   - let's
-- - smarmy
-  - host
-  - nine
-- - studio
-  - audience
-  - hisses
 - - butter
   - smarmy
   - host
 - - horst
   - smarmy
   - host
+- - smarmy
+  - host
+  - nine
 - - screaming
   - smarmy
   - host
-- - typical
-  - episode
-  - smarmy
-- - butter
-  - loud
-  - resonant
-- - brian
-  - camera
-  - shot
+- - studio
+  - audience
+  - hisses
+- - smarmy
+  - host
+  - fantastic
+- - smarmy
+  - host
+  - fantastic
 - - expect
   - contestant
   - chuckling
-- - loud
+- - butter
+  - loud
   - resonant
-  - bell
-- - brutes
-  - appear
-  - onstage
-- - looks
-  - solemn
-  - gazing
-- - final
-  - decision
-  - contestant
-- - smarmy
-  - host
-  - fantastic
-- - smarmy
-  - host
-  - fantastic
-- - choose
-  - butter
-  - bob
-- - grave
-  - smarmy
-  - host
-- - bell
-  - clangs
-  - audience
 - - audience
   - smarmy
   - host
-- - horst
-  - contestant
-  - looks
+- - brian
+  - camera
+  - shot
+- - grave
+  - smarmy
+  - host
 - - horst
   - audience
   - groans
+- - typical
+  - episode
+  - smarmy
+- - looks
+  - solemn
+  - gazing
+- - brutes
+  - appear
+  - onstage
+- - bell
+  - clangs
+  - audience
+- - choose
+  - butter
+  - bob
+- - final
+  - decision
+  - contestant
+- - horst
+  - contestant
+  - looks
+- - loud
+  - resonant
+  - bell
 - - seconds
   - horst
   - contestant
-- - seven
-  - contestant
-  - okay
 - - episode
   - smarmy
   - host
-- - contestant
-  - okay
-  - i'm
 - - clangs
   - audience
   - silent
+- - seven
+  - contestant
+  - okay
+- - contestant
+  - okay
+  - i'm
 - - smarmy
   - host
   - that's
-- - host
-  - nine
-  - eight
 - - okay
   - let's
   - play
+- - host
+  - nine
+  - eight
+- - possible
+  - dramatic
+  - tension
+- - horst
+  - brutes
+  - appear
 - - souvenir
   - propelling
   - pencil
 - - okay
   - horst
   - i'm
-- - horst
-  - brutes
-  - appear
 - - smarmy
   - host
   - i'm
-- - possible
-  - dramatic
-  - tension
 - - let's
   - play
   - guns
+- - swallowing
+  - nervously
+  - 'yes'
+- - contestant
+  - 'yes'
+  - smarmy
 - - eight
   - seven
   - contestant
-- - swallowing
-  - nervously
+- - decision
+  - contestant
   - 'yes'
 - - host
   - i'm
   - sorry
-- - nine
-  - eight
-  - seven
-- - contestant
-  - 'yes'
-  - smarmy
 - - i'm
   - sorry
   - horst
-- - decision
-  - contestant
-  - 'yes'
-- - smarmy
-  - host
-  - it's
 - - 'yes'
   - smarmy
   - host
-- - bell
+- - smarmy
+  - host
   - it's
-  - louder
 - - contestant
   - 'yes'
   - butter
-- - knew
-  - graham
-  - smarmy
+- - nine
+  - eight
+  - seven
 - - answer
   - horst
   - audience
+- - bell
+  - it's
+  - louder
+- - knew
+  - graham
+  - smarmy
 - - game
   - show
   - guns
 - - success
   - stop
   - press
-- - light
-  - entertainment
-  - commissioning
-- - contestant
-  - big
-  - deafening
-- - seconds
-  - horst
-  - half
 - - 'yes'
   - butter
   - loud
-- - big
-  - clock
-  - starts
-- - right
-  - brian
-  - camera
-- - right
-  - smarmy
-  - host
-- - butter
-  - you've
-  - got
+- - light
+  - entertainment
+  - commissioning
 - - wrong
   - answer
   - horst
+- - seconds
+  - horst
+  - half
+- - right
+  - smarmy
+  - host
+- - contestant
+  - big
+  - deafening
+- - right
+  - brian
+  - camera
+- - butter
+  - you've
+  - got
+- - smarmy
+  - host
+  - remember
 - - 'yes'
   - ted
   - that's
+- - big
+  - clock
+  - starts
+- - contestant
+  - there's
+  - part
+- - host
+  - remember
+  - guns
+- - television
+  - game
+  - show
+- - waste
+  - paper
+  - bin
 - - that's
   - right
   - smarmy
@@ -287,48 +302,33 @@ ngrams:
 - - contestant
   - that's
   - right
-- - smarmy
-  - host
-  - remember
-- - television
-  - game
-  - show
-- - radio
-  - four
-  - marcus
-- - contestant
-  - there's
-  - part
-- - that's
-  - right
-  - brian
-- - host
-  - remember
-  - guns
 - - television
   - screens
   - right
-- - waste
-  - paper
-  - bin
-- - ted
-  - that's
+- - radio
+  - four
+  - marcus
+- - that's
   - right
+  - brian
 - - television
   - light
   - entertainment
 - - small
   - business
   - manufacturing
+- - ted
+  - that's
+  - right
 - - bbc
   - radio
   - four
 - - prowls
   - around
   - commissioning
-- - big
-  - deafening
-  - round
+- - horst
+  - i'm
+  - sure
 - - okay
   - i'm
   - going

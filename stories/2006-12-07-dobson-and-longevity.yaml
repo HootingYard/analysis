@@ -5,66 +5,66 @@ ngrams:
 - - consumption
   - convulsions
   - croup
-- - putrid
-  - fever
-  - putrid
 - - beaver
   - fur
   - headgear
+- - putrid
+  - fever
+  - putrid
 - - fever
   - consumption
   - convulsions
-- - ayn
-  - rand
-  - exposition
 - - fatty
   - liver
   - flux
-- - sickness
-  - malignant
-  - fever
 - - fever
   - putrid
   - sore
+- - sickness
+  - malignant
+  - fever
 - - lung
   - sickness
   - malignant
-- - fever
-  - lung
-  - sickness
-- - haemoglobin
-  - towers
-  - fanning
-- - disease
-  - putrid
-  - fever
-- - discarded
-  - hurled
-  - enwrapped
-- - massive
-  - dropsy
-  - recited
+- - ayn
+  - rand
+  - exposition
 - - lights
   - debility
   - diphtheria
+- - massive
+  - dropsy
+  - recited
+- - fever
+  - lung
+  - sickness
+- - discarded
+  - hurled
+  - enwrapped
 - - lung
   - fever
   - lung
-- - hospital
+- - disease
+  - putrid
   - fever
-  - hydrocephalus
+- - extravagant
+  - picnicking
+  - occasions
 - - inhabited
   - discarded
   - hurled
 - - putrid
   - sore
   - throat
+- - hospital
+  - fever
+  - hydrocephalus
+- - haemoglobin
+  - towers
+  - fanning
 - - alien
   - pathways
   - anonymous
-- - extravagant
-  - picnicking
-  - occasions
 - - bells
   - clanged
   - lamentations
@@ -80,69 +80,69 @@ ngrams:
 - - lemon
   - meringue
   - pie
+- - duffel
+  - coat
+  - wherever
 - - sick
   - poisoning
   - resulting
 - - apparent
   - funeral
   - shroud
-- - duffel
-  - coat
-  - wherever
-- - scrofula
-  - septic
-  - ship
-- - septic
-  - ship
-  - fever
 - - spotted
   - fever
   - summer
 - - god's
   - sake
   - shouted
+- - scrofula
+  - septic
+  - ship
+- - septic
+  - ship
+  - fever
 - - picnic
   - supplies
   - boutique
-- - email
-  - below
-  - promised
 - - white
   - snake
   - root
-- - blood
-  - bilious
-  - fever
 - - belgian
   - cadet
   - boots
 - - picnic
   - boutique
   - hoping
+- - blood
+  - bilious
+  - fever
+- - email
+  - below
+  - promised
 - - less
   - salubrious
   - corners
-- - salt
-  - tears
-  - ran
 - - meningitis
   - milk
   - sick
+- - salt
+  - tears
+  - ran
 - - milk
   - sick
   - poisoning
-- - livid
-  - purple
-  - death
-- - purple
-  - death
-  - rays
-- - bad
-  - blood
-  - bilious
 - - asthenia
   - bad
   - blood
+- - livid
+  - purple
+  - death
+- - bad
+  - blood
+  - bilious
+- - purple
+  - death
+  - rays
 - - pamphlets
   - propped
   - open
@@ -155,33 +155,33 @@ ngrams:
 - - print
   - pamphlets
   - propped
-- - beyond
-  - blister
-  - lane
 - - forces
   - thus
   - nourishing
-- - air
-  - sucking
-  - drops
 - - pointy
   - triangular
   - cap
+- - beyond
+  - blister
+  - lane
+- - air
+  - sucking
+  - drops
 - - along
   - alien
   - pathways
-- - trudging
-  - along
-  - alien
 - - invisible
   - forces
   - thus
-- - boil
-  - brain
-  - fever
+- - trudging
+  - along
+  - alien
 - - print
   - pamphleteer
   - cheated
+- - boil
+  - brain
+  - fever
 - - pamphleteer
   - cheated
   - death
@@ -194,9 +194,6 @@ ngrams:
 - - perhaps
   - ill
   - tempered
-- - certainly
-  - marigold
-  - chew
 - - once
   - inhabited
   - discarded
@@ -206,135 +203,132 @@ ngrams:
 - - world
   - wide
   - interweb
+- - certainly
+  - marigold
+  - chew
 - - heard
   - enough
   - sorry
-- - marigold
-  - chew
-  - cannot
 - - blister
   - lane
   - next
 - - mere
   - stage
   - name
-- - soup
-  - kiosk
-  - once
-- - kiosk
-  - once
-  - stood
 - - most
   - grizzled
   - countenance
-- - dropsy
-  - recited
-  - little
+- - marigold
+  - chew
+  - cannot
+- - kiosk
+  - once
+  - stood
+- - soup
+  - kiosk
+  - once
 - - pip
   - also
   - known
+- - dropsy
+  - recited
+  - little
 - - also
   - known
   - rising
 - - plodding
   - ever
   - forward
-- - involved
-  - unlike
-  - little
 - - new
   - picnic
   - hamper
-- - undead
-  - dobson
-  - remained
-- - alone
-  - should
-  - give
+- - involved
+  - unlike
+  - little
 - - just
   - spam
   - sigh
+- - alone
+  - should
+  - give
 - - jonathan
   - just
   - forwarded
-- - sake
-  - shouted
-  - dobson
 - - fact
   - alone
   - should
-- - followed
-  - dobson
-  - slumped
-- - dobson
-  - remained
-  - invisible
 - - whose
   - real
   - name
+- - undead
+  - dobson
+  - remained
+- - sake
+  - shouted
+  - dobson
+- - followed
+  - dobson
+  - slumped
 - - give
   - us
   - pause
-- - ever
-  - forward
-  - towards
-- - strode
-  - 'off'
-  - towards
-- - undead
-  - dead
-  - man
+- - dobson
+  - remained
+  - invisible
 - - diseases
   - peering
   - over
-- - dead
-  - man
-  - plodding
-- - something
-  - something
-  - spooky
+- - ever
+  - forward
+  - towards
 - - actually
   - jonathan
   - just
-- - terrible
-  - gods
-  - before
+- - something
+  - something
+  - spooky
 - - grizzled
   - countenance
   - where
-- - gods
-  - before
-  - whom
 - - drizzle
   - such
   - excursions
+- - strode
+  - 'off'
+  - towards
 - - such
   - excursions
   - battered
+- - terrible
+  - gods
+  - before
+- - gods
+  - before
+  - whom
+- - undead
+  - dead
+  - man
+- - dead
+  - man
+  - plodding
+- - skewed
+  - commentary
+  - upon
 - - tears
   - ran
   - down
+- - fume
+  - borne
+  - upon
+- - hills
+  - where
+  - bats
 - - urchin
   - took
   - two
 - - boiling
   - sea
   - dobson
-- - hills
-  - where
-  - bats
-- - her
-  - widow's
-  - weeds
-- - sported
-  - her
-  - widow's
-- - skewed
-  - commentary
-  - upon
-- - fume
-  - borne
-  - upon
 - - our
   - dear
   - pamphleteer
@@ -347,36 +341,48 @@ ngrams:
 - - its
   - cardboard
   - packaging
+- - more
+  - brazil
+  - nuts
+- - more
+  - brazil
+  - nuts
+- - sported
+  - her
+  - widow's
+- - her
+  - widow's
+  - weeds
 - - should
   - give
   - us
-- - more
-  - brazil
-  - nuts
-- - more
-  - brazil
-  - nuts
-- - still
-  - living
-  - dobson
-- - man
-  - plodding
-  - ever
-- - some
-  - skewed
-  - commentary
 - - tell
   - us
   - something
 - - thought
   - our
   - dear
-- - two
-  - met
-  - just
+- - man
+  - plodding
+  - ever
+- - some
+  - skewed
+  - commentary
+- - still
+  - living
+  - dobson
 - - picnic
   - hamper
   - can
+- - two
+  - met
+  - just
+- - must
+  - now
+  - refer
+- - us
+  - something
+  - something
 - - who
   - dispensed
   - bowls
@@ -386,120 +392,111 @@ ngrams:
 - - making
   - some
   - skewed
-- - must
-  - now
-  - refer
 - - conspirators
   - who
   - replaced
-- - us
-  - something
-  - something
 - - penny
   - circus
   - who
 - - circus
   - who
   - promised
-- - some
-  - distant
-  - land
-- - sisters
-  - 'no'
-  - hang
-- - dobson
-  - lived
-  - where
 - - think
   - anyway
   - where
+- - sisters
+  - 'no'
+  - hang
+- - some
+  - distant
+  - land
 - - suet
   - puddings
   - up
+- - dobson
+  - lived
+  - where
 - - 'no'
   - mere
   - stage
 - - been
   - involved
   - unlike
-- - other
-  - human
-  - being
-- - matter
-  - some
-  - thought
 - - could
   - ever
   - question
+- - other
+  - human
+  - being
 - - shroud
   - when
   - backs
-- - been
-  - certainly
-  - marigold
-- - when
-  - bells
-  - clanged
+- - matter
+  - some
+  - thought
 - - widow's
   - weeds
   - if
-- - has
-  - ever
-  - trod
+- - when
+  - bells
+  - clanged
 - - towers
   - fanning
   - out
-- - came
-  - upon
-  - little
-- - known
-  - him
-  - yet
 - - could
   - such
   - conspirators
-- - will
-  - seek
-  - shelter
-- - investigations
-  - will
-  - continue
-- - backs
-  - were
-  - turned
+- - came
+  - upon
+  - little
 - - even
   - more
   - brazil
-- - she
-  - sported
-  - her
-- - dobson
-  - who
-  - hurried
+- - been
+  - certainly
+  - marigold
+- - has
+  - ever
+  - trod
+- - investigations
+  - will
+  - continue
+- - will
+  - seek
+  - shelter
+- - known
+  - him
+  - yet
+- - backs
+  - were
+  - turned
 - - post
   - office
   - into
-- - human
-  - being
-  - has
 - - indeed
   - what
   - followed
+- - dobson
+  - who
+  - hurried
 - - fanning
   - out
   - across
-- - day
-  - only
-  - dobson
 - - tent
   - pitched
   - there
+- - human
+  - being
+  - has
+- - she
+  - sported
+  - her
+- - day
+  - only
+  - dobson
 - - been
   - followed
   - dobson
-- - wires
-  - which
-  - transmit
 - - been
   - any
   - suggestion
@@ -509,57 +506,60 @@ ngrams:
 - - cranial
   - integuments
   - are
-- - dobson
-  - slumped
-  - into
-- - bats
-  - are
-  - legion
-- - rags
-  - who
-  - could
-- - being
-  - has
-  - ever
 - - below
   - promised
   - so
+- - wires
+  - which
+  - transmit
+- - rags
+  - who
+  - could
+- - bats
+  - are
+  - legion
 - - little
   - more
   - than
+- - those
+  - unread
+  - out
+- - dobson
+  - slumped
+  - into
+- - being
+  - has
+  - ever
 - - if
   - dobson
   - lived
 - - down
   - inclines
   - into
-- - those
-  - unread
-  - out
-- - dobson
-  - then
-  - did
-- - doesn't
-  - matter
-  - which
-- - 'no'
-  - other
-  - human
 - - once
   - stood
   - there
-- - who
-  - replaced
-  - him
+- - 'no'
+  - other
+  - human
+- - dobson
+  - then
+  - did
 - - some
   - thought
   - could
-- - all
-  - those
-  - unread
 - - ever
   - trod
   - there
+- - doesn't
+  - matter
+  - which
+- - all
+  - those
+  - unread
+- - who
+  - replaced
+  - him
 - - forwarded
   - an
   - email

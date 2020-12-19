@@ -20,9 +20,6 @@ ngrams:
 - - r
   - previous
   - episodes
-- - inhuman
-  - speed
-  - detective
 - - report
   - we've
   - caught
@@ -32,24 +29,27 @@ ngrams:
 - - i've
   - finished
   - speaking
-- - social
-  - class
-  - it's
+- - inhuman
+  - speed
+  - detective
 - - police
   - station
   - basement
-- - isn't
-  - detective
-  - captain
-- - simple
-  - don't
-  - mess
-- - midnight
-  - detective
-  - captain
+- - social
+  - class
+  - it's
 - - minute
   - past
   - midnight
+- - simple
+  - don't
+  - mess
+- - isn't
+  - detective
+  - captain
+- - midnight
+  - detective
+  - captain
 - - speed
   - detective
   - captain
@@ -59,27 +59,27 @@ ngrams:
 - - larder
   - another
   - bigger
+- - almost
+  - fused
+  - together
 - - minutes
   - later
   - pinned
 - - another
   - phosphorescent
   - pin
-- - almost
-  - fused
-  - together
 - - limp
   - thief
   - come
 - - night
   - i'm
   - pleased
-- - name
-  - isn't
-  - detective
 - - thief
   - thanks
   - once
+- - name
+  - isn't
+  - detective
 - - class
   - it's
   - quite
@@ -119,27 +119,36 @@ ngrams:
 - - before
   - i've
   - finished
-- - last
-  - night
-  - i'm
 - - phosphorus
   - possibly
   - before
-- - wall
-  - ouch
-  - said
 - - thanks
   - once
   - again
-- - possibly
-  - before
-  - i've
+- - wall
+  - ouch
+  - said
 - - even
   - social
   - class
+- - last
+  - night
+  - i'm
+- - possibly
+  - before
+  - i've
 - - kitchen
   - pierced
   - like
+- - more
+  - securely
+  - affix
+- - think
+  - we'll
+  - find
+- - awareness
+  - more
+  - unusually
 - - like
   - st
   - sebastian
@@ -149,51 +158,42 @@ ngrams:
 - - bones
   - like
   - jelly
-- - think
-  - we'll
-  - find
-- - more
-  - securely
-  - affix
-- - awareness
-  - more
-  - unusually
-- - we'll
-  - find
-  - our
 - - bit
   - more
   - roughing
 - - morning
   - upon
   - discovering
+- - we'll
+  - find
+  - our
 - - forgiveness
   - said
   - old
 - - said
   - old
   - pappy
-- - thieves
-  - who
-  - stole
 - - we've
   - caught
   - them
-- - has
-  - certainly
-  - raised
+- - thieves
+  - who
+  - stole
 - - more
   - unusually
   - perhaps
 - - stashed
   - their
   - loot
-- - vanished
-  - away
-  - like
+- - has
+  - certainly
+  - raised
 - - boys
   - roughing
   - up
+- - vanished
+  - away
+  - like
 - - importantly
   - your
   - bags
@@ -206,18 +206,18 @@ ngrams:
 - - been
   - cobbled
   - together
+- - scene
+  - sniffing
+  - about
 - - their
   - den
   - under
 - - thieves
   - broke
   - into
-- - scene
-  - sniffing
-  - about
-- - find
-  - our
-  - man
+- - caught
+  - them
+  - well
 story:
   date: 2014-08-18
   id: 2014-08-18-gay-limp-thief

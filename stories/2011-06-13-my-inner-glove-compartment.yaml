@@ -1,13 +1,13 @@
 ngrams:
+- - directions
+  - cars
+  - zoom
 - - glove
   - compartment
   - salvaged
 - - major
   - arterial
   - thoroughfare
-- - directions
-  - cars
-  - zoom
 - - secondhand
   - glove
   - compartment
@@ -26,21 +26,18 @@ ngrams:
 - - physical
   - glove
   - compartment
-- - grim
-  - bleak
-  - institution
 - - mental
   - cogs
   - whirring
+- - grim
+  - bleak
+  - institution
 - - solid
   - physical
   - glove
 - - toffee
   - apple
   - wrapper
-- - bleak
-  - institution
-  - perched
 - - inner
   - glove
   - compartment
@@ -68,6 +65,9 @@ ngrams:
 - - discarded
   - mental
   - wrapping
+- - bleak
+  - institution
+  - perched
 - - discarded
   - toffee
   - apple
@@ -92,21 +92,21 @@ ngrams:
 - - complete
   - mental
   - collapse
-- - making
-  - strenuous
-  - efforts
-- - metal
-  - tapping
-  - machine
-- - metal
-  - tapping
-  - machine
 - - real
   - solid
   - physical
+- - making
+  - strenuous
+  - efforts
 - - glove
   - compartment
   - since
+- - metal
+  - tapping
+  - machine
+- - metal
+  - tapping
+  - machine
 - - arterial
   - thoroughfare
   - along
@@ -152,105 +152,102 @@ ngrams:
 - - its
   - glove
   - compartment
-- - compartment
-  - she
-  - waved
-- - its
-  - corresponding
-  - item
-- - glove
-  - compartment
-  - she
 - - much
   - easier
   - things
+- - its
+  - corresponding
+  - item
 - - free
   - rein
   - could
-- - against
-  - its
-  - corresponding
-- - could
-  - shove
-  - various
+- - compartment
+  - she
+  - waved
+- - glove
+  - compartment
+  - she
 - - compartments
   - rather
   - than
+- - could
+  - shove
+  - various
+- - against
+  - its
+  - corresponding
+- - how
+  - much
+  - easier
+- - carton
+  - how
+  - much
+- - probably
+  - why
+  - before
+- - its
+  - own
+  - glove
 - - her
   - hand
   - dismissively
 - - waved
   - her
   - hand
-- - how
-  - much
-  - easier
-- - probably
-  - why
-  - before
-- - carton
-  - how
-  - much
-- - sure
-  - her
-  - view
-- - its
-  - own
-  - glove
-- - colleague
-  - who
-  - suggested
 - - car
   - asking
   - them
+- - colleague
+  - who
+  - suggested
+- - sure
+  - her
+  - view
 - - remove
   - them
   - lay
+- - their
+  - glove
+  - compartments
 - - showing
   - 'no'
   - signs
 - - their
+  - actual
   - glove
-  - compartments
 - - said
   - our
   - session
-- - their
-  - actual
-  - glove
 - - knew
   - who
   - owned
-- - her
-  - again
-  - during
-- - quite
-  - sure
-  - her
-- - saw
-  - her
-  - again
 - - certainly
   - showing
   - 'no'
 - - didn't
   - even
   - know
-- - been
-  - making
-  - strenuous
+- - quite
+  - sure
+  - her
+- - her
+  - again
+  - during
 - - get
   - through
   - before
+- - saw
+  - her
+  - again
+- - been
+  - making
+  - strenuous
 - - about
   - various
   - cars
 - - mental
   - collapse
   - if
-- - she
-  - waved
-  - her
 - - lodged
   - inside
   - me
@@ -263,33 +260,36 @@ ngrams:
 - - would
   - surely
   - approve
+- - she
+  - waved
+  - her
 - - revelation
   - which
   - necessitated
-- - gave
-  - me
-  - something
 - - easier
   - things
   - would
+- - gave
+  - me
+  - something
 - - could
   - pick
   - up
-- - thoroughfare
-  - along
-  - which
-- - has
-  - its
-  - own
-- - compartment
-  - after
-  - all
 - - specific
   - about
   - its
 - - about
   - its
   - location
+- - compartment
+  - after
+  - all
+- - thoroughfare
+  - along
+  - which
+- - has
+  - its
+  - own
 - - an
   - outer
   - glove
@@ -308,30 +308,30 @@ ngrams:
 - - this
   - immensely
   - difficult
-- - again
-  - during
-  - which
 - - avail
   - this
   - led
 - - all
   - its
   - forms
+- - look
+  - out
+  - upon
 - - up
   - their
   - glove
-- - know
-  - has
-  - its
+- - again
+  - during
+  - which
 - - summon
   - up
   - their
 - - having
   - an
   - outer
-- - look
-  - out
-  - upon
+- - know
+  - has
+  - its
 story:
   date: 2011-06-13
   id: 2011-06-13-my-inner-glove-compartment

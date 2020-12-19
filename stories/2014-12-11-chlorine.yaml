@@ -50,6 +50,9 @@ ngrams:
 - - survival
   - after
   - death
+- - upon
+  - chlorine
+  - winslow
 - - first
   - sitting
   - mrs
@@ -59,30 +62,24 @@ ngrams:
 - - its
   - successor
   - commemorated
-- - upon
-  - chlorine
-  - winslow
-- - losing
-  - consciousness
-  - she
 - - lit
   - upon
   - chlorine
 - - hooting
   - yard
   - aficionados
+- - losing
+  - consciousness
+  - she
 - - hooting
   - yard
   - calendar
-- - consciousness
-  - she
-  - saw
 - - yard
   - aficionados
   - may
-- - her
-  - forehead
-  - once
+- - consciousness
+  - she
+  - saw
 - - having
   - decided
   - upon
@@ -92,21 +89,24 @@ ngrams:
 - - cartographers
   - while
   - its
-- - remember
-  - nothing
-  - she
-- - who
-  - gave
-  - medical
-- - medium
-  - who
-  - gave
 - - forehead
   - once
   - more
 - - could
   - remember
   - nothing
+- - medium
+  - who
+  - gave
+- - who
+  - gave
+  - medical
+- - her
+  - forehead
+  - once
+- - remember
+  - nothing
+  - she
 story:
   date: 2014-12-11
   id: 2014-12-11-chlorine

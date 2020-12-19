@@ -11,27 +11,27 @@ ngrams:
 - - barns
   - imperial
   - military
-- - gerard
-  - manley
-  - hopkins
 - - imperial
   - bathroom
   - puddles
+- - gerard
+  - manley
+  - hopkins
 - - palace
   - fanatically
   - loyal
-- - imperial
-  - palace
-  - fanatically
 - - floors
   - gorgeous
   - windows
-- - unreliable
-  - train
-  - carriages
+- - imperial
+  - palace
+  - fanatically
 - - senior
   - strategists
   - expect
+- - unreliable
+  - train
+  - carriages
 - - lower
   - floors
   - gorgeous
@@ -47,54 +47,48 @@ ngrams:
 - - insurgent
   - rifle
   - fire
+- - train
+  - carriages
+  - sit
 - - bathroom
   - floor
   - tiles
 - - rifle
   - fire
   - krishnan
-- - carriages
-  - sit
-  - abandoned
-- - train
-  - carriages
-  - sit
 - - imperial
   - bathroom
   - floor
 - - imperial
   - army
   - boots
-- - yellow
-  - plastic
-  - ones
-- - upper
-  - floor
-  - beneath
+- - carriages
+  - sit
+  - abandoned
 - - present
   - live
   - updates
-- - real
-  - living
-  - breathing
+- - upper
+  - floor
+  - beneath
+- - yellow
+  - plastic
+  - ones
 - - imperial
   - palace
   - itself
-- - lovely
-  - house
-  - perched
+- - real
+  - living
+  - breathing
 - - groups
   - fighting
   - among
+- - lovely
+  - house
+  - perched
 - - channel
   - four
   - news
-- - house
-  - perched
-  - high
-- - water
-  - already
-  - scented
 - - fighting
   - among
   - themselves
@@ -104,21 +98,27 @@ ngrams:
 - - updates
   - under
   - trying
+- - house
+  - perched
+  - high
+- - water
+  - already
+  - scented
 - - under
   - trying
   - conditions
-- - tank
-  - above
-  - under
 - - get
   - wet
   - stamping
-- - minutes
-  - let
-  - alone
+- - tank
+  - above
+  - under
 - - most
   - senior
   - strategists
+- - minutes
+  - let
+  - alone
 - - ducks
   - each
   - duck
@@ -134,12 +134,12 @@ ngrams:
 - - lilac
   - cascaded
   - over
-- - 'off'
-  - water
-  - gushes
 - - cannot
   - say
   - events
+- - 'off'
+  - water
+  - gushes
 - - turned
   - 'off'
   - water
@@ -164,33 +164,36 @@ ngrams:
 - - palace
   - itself
   - some
-- - imperial
-  - eye
-  - has
 - - 'no'
   - wars
   - rage
 - - their
   - elegantly
   - shaped
+- - imperial
+  - eye
+  - has
 - - summons
   - their
   - elegantly
-- - four
-  - news
-  - has
 - - predict
   - what
   - lies
+- - four
+  - news
+  - has
 - - emperor
   - splashes
   - about
-- - them
-  - water
-  - already
 - - what
   - lies
   - ahead
+- - them
+  - water
+  - already
+- - mighty
+  - empire
+  - what
 - - orson
   - welles
   - were
@@ -200,24 +203,21 @@ ngrams:
 - - military
   - strategists
   - were
-- - mighty
-  - empire
-  - what
+- - more
+  - gruesome
+  - than
 - - welles
   - were
   - either
 - - still
   - 'no'
   - wars
-- - peace
-  - still
-  - 'no'
-- - more
-  - gruesome
-  - than
 - - where
   - wars
   - do
+- - peace
+  - still
+  - 'no'
 - - fool
   - would
   - predict
@@ -233,18 +233,18 @@ ngrams:
 - - lines
   - are
   - unreliable
-- - which
-  - ducks
-  - splash
 - - are
   - unreliable
   - train
-- - supply
-  - lines
-  - are
 - - imperial
   - ducks
   - are
+- - supply
+  - lines
+  - are
+- - which
+  - ducks
+  - splash
 - - splashes
   - about
   - like
@@ -254,9 +254,9 @@ ngrams:
 - - an
   - upper
   - floor
-- - has
-  - been
-  - helicoptered
+- - we
+  - cannot
+  - say
 story:
   date: 2010-10-12
   id: 2010-10-12-where-is-the-emperor

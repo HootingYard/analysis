@@ -5,12 +5,12 @@ ngrams:
 - - handsome
   - promising
   - boy
-- - lie
-  - awake
-  - sick
 - - short
   - absence
   - wrecked
+- - lie
+  - awake
+  - sick
 - - ears
   - grow
   - heavy
@@ -35,21 +35,21 @@ ngrams:
 - - listening
   - till
   - their
-- - children
-  - growing
-  - up
-- - children
-  - growing
-  - up
 - - their
   - hope
   - fades
-- - till
-  - their
-  - ears
+- - children
+  - growing
+  - up
+- - children
+  - growing
+  - up
 - - their
   - ears
   - grow
+- - till
+  - their
+  - ears
 story:
   date: 2006-07-24
   id: 2006-07-24-i-see-the-children-growing-up-i

@@ -26,27 +26,24 @@ ngrams:
 - - park
   - bench
   - buffeted
-- - possibly
-  - balon
-  - greyjoy
-- - snow
-  - falling
-  - windy
 - - barbaric
   - dothraki
   - present
+- - possibly
+  - balon
+  - greyjoy
 - - minions
   - currently
   - available
-- - municipal
-  - park
-  - bench
+- - snow
+  - falling
+  - windy
 - - king's
   - landing
   - wearing
-- - battered
-  - tin
-  - crown
+- - municipal
+  - park
+  - bench
 - - minions
   - lay
   - sprawled
@@ -56,60 +53,63 @@ ngrams:
 - - turn
   - dripped
   - poison
+- - battered
+  - tin
+  - crown
 - - easy
   - prey
   - particularly
 - - lane
   - municipal
   - park
-- - guns
-  - shot
-  - above
 - - sound
   - grew
   - louder
-- - cameras
-  - present
-  - during
+- - guns
+  - shot
+  - above
 - - scoffing
   - breakfast
   - eggs
-- - least
-  - robb
-  - stark
-- - breakfast
-  - eggs
-  - plus
 - - pointy
   - sticks
   - knits
+- - breakfast
+  - eggs
+  - plus
+- - least
+  - robb
+  - stark
+- - cameras
+  - present
+  - during
 - - brutish
   - good
   - health
-- - became
-  - hopelessly
-  - lost
 - - pointy
   - sticks
   - alas
-- - sock
-  - each
-  - emblazoned
+- - became
+  - hopelessly
+  - lost
 - - hopelessly
   - lost
   - lost
 - - rather
   - spoke
   - aloud
+- - sock
+  - each
+  - emblazoned
 - - rightful
   - place
   - sitting
-- - barely
-  - bring
-  - myself
 - - ditch
   - somewhere
   - along
+- - barely
+  - bring
+  - myself
 - - yet
   - remained
   - innumerable
@@ -119,24 +119,27 @@ ngrams:
 - - snow
   - falls
   - far
+- - pointy
+  - sticks
+  - thus
 - - stalinist
   - creeping
   - away
 - - falling
   - snow
   - while
-- - pointy
-  - sticks
-  - thus
 - - acquitted
   - themselves
   - well
-- - fighting
-  - 'off'
-  - wolves
 - - kingly
   - way
   - knowing
+- - fighting
+  - 'off'
+  - wolves
+- - much
+  - alive
+  - alive
 - - violence
   - being
   - armed
@@ -149,9 +152,6 @@ ngrams:
 - - sock
   - after
   - sock
-- - much
-  - alive
-  - alive
 - - happy
   - here
   - fighting
@@ -173,12 +173,6 @@ ngrams:
 - - dragons
   - other
   - claimants
-- - beatle
-  - she
-  - married
-- - she
-  - married
-  - ha
 - - baby
   - dragons
   - other
@@ -188,54 +182,48 @@ ngrams:
 - - set
   - 'off'
   - alone
-- - her
-  - grunting
-  - savages
 - - while
   - still
   - sitting
-- - after
-  - sock
-  - each
 - - kingly
   - air
   - even
 - - knitting
   - group
   - could
+- - after
+  - sock
+  - each
+- - beatle
+  - she
+  - married
+- - she
+  - married
+  - ha
 - - those
   - sticks
   - until
 - - pointy
   - sticks
   - did
+- - her
+  - grunting
+  - savages
 - - could
   - barely
   - bring
-- - present
-  - during
-  - her
 - - here
   - fighting
   - 'off'
-- - minions
-  - ordering
-  - them
-- - very
-  - much
-  - alive
-- - innumerable
-  - claimants
-  - who
 - - came
   - bashing
   - upon
-- - after
-  - sock
-  - after
-- - after
-  - sock
-  - after
+- - very
+  - much
+  - alive
+- - minions
+  - ordering
+  - them
 - - nothing
   - could
   - fall
@@ -248,6 +236,18 @@ ngrams:
 - - nothing
   - could
   - fall
+- - after
+  - sock
+  - after
+- - after
+  - sock
+  - after
+- - innumerable
+  - claimants
+  - who
+- - present
+  - during
+  - her
 - - reward
   - little
   - did
@@ -260,24 +260,27 @@ ngrams:
 - - corpses
   - piled
   - up
-- - been
-  - stannis
-  - baratheon
-- - been
-  - initially
-  - attracted
-- - during
-  - her
-  - own
 - - 'no'
   - longer
   - stake
+- - been
+  - stannis
+  - baratheon
 - - made
   - any
   - sense
+- - been
+  - initially
+  - attracted
 - - though
   - nothing
   - could
+- - during
+  - her
+  - own
+- - psychotic
+  - temperament
+  - if
 - - dripped
   - poison
   - into
@@ -287,33 +290,27 @@ ngrams:
 - - piled
   - up
   - along
-- - psychotic
-  - temperament
-  - if
-- - after
-  - breakfast
-  - then
 - - am
   - happy
   - here
-- - her
-  - far
-  - away
+- - after
+  - breakfast
+  - then
 - - what
   - history
   - books
 - - craziness
   - rather
   - what
+- - knits
+  - me
+  - sock
 - - spidery
   - pen
   - all
 - - all
   - minions
   - currently
-- - knits
-  - me
-  - sock
 - - pen
   - all
   - minions
@@ -323,39 +320,60 @@ ngrams:
 - - gustatory
   - feat
   - we
-- - some
-  - other
-  - minions
+- - her
+  - far
+  - away
+- - minions
+  - would
+  - hang
 - - park
   - we
   - routed
 - - bloody
   - unfortunately
   - there
-- - minions
-  - would
-  - hang
-- - their
-  - first
-  - task
-- - picked
-  - some
-  - other
 - - municipal
   - park
   - we
+- - their
+  - first
+  - task
+- - some
+  - other
+  - minions
 - - work
   - cut
   - out
-- - definite
-  - advantage
-  - which
+- - picked
+  - some
+  - other
 - - harrenhal
   - truly
   - so
 - - truly
   - so
   - attired
+- - mighty
+  - so
+  - cheered
+- - did
+  - their
+  - knitting
+- - history
+  - books
+  - would
+- - sticks
+  - did
+  - their
+- - books
+  - would
+  - call
+- - definite
+  - advantage
+  - which
+- - mighty
+  - these
+  - were
 - - publication
   - which
   - lists
@@ -365,21 +383,9 @@ ngrams:
 - - yoko
   - ono
   - which
-- - did
-  - their
-  - knitting
-- - sticks
-  - did
-  - their
-- - mighty
-  - these
-  - were
-- - mighty
-  - so
-  - cheered
-- - history
-  - books
-  - would
+- - throne
+  - there
+  - yet
 - - sticks
   - until
   - they
@@ -389,27 +395,21 @@ ngrams:
 - - into
   - our
   - flagons
-- - books
-  - would
-  - call
-- - poison
-  - into
-  - our
-- - throne
-  - there
-  - yet
-- - were
-  - many
-  - oh
 - - there
   - yet
   - remained
-- - me
-  - sock
-  - after
+- - poison
+  - into
+  - our
+- - were
+  - many
+  - oh
 - - am
   - 'no'
   - king
+- - me
+  - sock
+  - after
 - - greyjoy
   - whichever
   - one

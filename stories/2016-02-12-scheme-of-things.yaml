@@ -23,6 +23,9 @@ ngrams:
 - - hat
   - also
   - wooden
+- - nor
+  - elm
+  - nor
 - - little
   - italian
   - boy
@@ -32,18 +35,15 @@ ngrams:
 - - little
   - wooden
   - italian
-- - nor
-  - elm
-  - nor
-- - italian
-  - boy
-  - made
-- - italian
-  - boy
-  - made
 - - pointy
   - hat
   - also
+- - italian
+  - boy
+  - made
+- - italian
+  - boy
+  - made
 - - months
   - passed
   - before
@@ -62,12 +62,12 @@ ngrams:
 - - walked
   - deep
   - into
-- - tables
-  - were
-  - turned
 - - him
   - well
   - better
+- - tables
+  - were
+  - turned
 - - all
   - neither
   - pine
@@ -95,18 +95,18 @@ ngrams:
 - - wooden
   - boy
   - but
-- - had
-  - burned
-  - down
 - - pondered
   - pondering
   - by
-- - they
-  - all
-  - burn
+- - had
+  - burned
+  - down
 - - wooden
   - not
   - wooden
+- - they
+  - all
+  - burn
 - - wood
   - they
   - all
@@ -116,9 +116,6 @@ ngrams:
 - - pond
   - not
   - made
-- - had
-  - been
-  - stolen
 - - not
   - nor
   - ever
@@ -128,30 +125,33 @@ ngrams:
 - - my
   - chalet
   - perched
+- - had
+  - been
+  - stolen
 - - could
   - not
   - drive
-- - somewhat
-  - unnerving
-  - for
 - - could
   - not
   - fit
+- - somewhat
+  - unnerving
+  - for
 - - chalet
   - perched
   - 'on'
 - - perfectly
   - still
   - as
-- - grand
-  - illusion
-  - he
-- - illusion
-  - he
-  - walked
 - - burned
   - down
   - my
+- - did
+  - not
+  - know
+- - down
+  - my
+  - chalet
 story:
   date: 2016-02-12
   id: 2016-02-12-scheme-of-things

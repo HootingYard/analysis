@@ -29,9 +29,6 @@ ngrams:
 - - science
   - fiction
   - writers
-- - o'
-  - prose
-  - slicing
 - - weekly
   - live
   - recording
@@ -41,6 +38,9 @@ ngrams:
 - - orphan
   - using
   - fair
+- - o'
+  - prose
+  - slicing
 - - mention
   - various
   - industrial
@@ -68,12 +68,12 @@ ngrams:
 - - without
   - attracting
   - looks
-- - nuts
-  - also
-  - suggested
 - - suppose
   - ought
   - better
+- - nuts
+  - also
+  - suggested
 - - really
   - isn't
   - good
@@ -86,12 +86,12 @@ ngrams:
 - - third
   - world
   - orphan
-- - world
-  - orphan
-  - using
 - - well
   - maybe
   - maybe
+- - world
+  - orphan
+  - using
 - - find
   - yourself
   - wondering
@@ -113,33 +113,33 @@ ngrams:
 - - read
   - nearly
   - enough
-- - radio
-  - show
-  - hooting
 - - paperbacks
   - either
   - way
-- - air
-  - every
-  - thursday
 - - hear
   - somebody
   - say
-- - those
-  - science
-  - fiction
+- - air
+  - every
+  - thursday
+- - radio
+  - show
+  - hooting
 - - reproach
   - while
   - having
-- - scientific
-  - dimwit
-  - like
-- - roots
-  - foisted
-  - upon
+- - those
+  - science
+  - fiction
 - - might
   - occasionally
   - hear
+- - roots
+  - foisted
+  - upon
+- - scientific
+  - dimwit
+  - like
 - - world
   - without
   - people
@@ -149,42 +149,42 @@ ngrams:
 - - few
   - feet
   - 'off'
-- - show
-  - hooting
-  - yard
 - - those
   - circumstances
   - though
 - - lot
   - more
   - complicated
-- - some
-  - science
-  - fiction
+- - show
+  - hooting
+  - yard
 - - might
   - find
   - yourself
-- - our
-  - being
-  - alas
+- - some
+  - science
+  - fiction
 - - air
   - rather
   - than
+- - our
+  - being
+  - alas
 - - hobble
   - their
   - understanding
 - - 'no'
   - doubt
   - expecting
+- - earth
+  - could
+  - make
 - - enthusiastic
   - about
   - plastics
 - - waxed
   - enthusiastic
   - about
-- - earth
-  - could
-  - make
 - - people
   - do
   - quite
@@ -197,45 +197,45 @@ ngrams:
 - - rather
   - than
   - just
-- - when
-  - somebody
-  - says
-- - like
-  - themselves
-  - such
-- - prose
-  - slicing
-  - into
-- - bear
-  - thinking
-  - about
 - - even
   - more
   - unbearable
+- - when
+  - somebody
+  - says
 - - more
   - unbearable
   - than
+- - prose
+  - slicing
+  - into
 - - more
   - complicated
   - than
+- - bear
+  - thinking
+  - about
+- - like
+  - themselves
+  - such
 - - can
   - also
   - find
 - - wonder
   - what
   - sort
-- - them
-  - scattered
-  - here
-- - listeners
-  - asking
-  - me
-- - offered
-  - me
-  - nuts
 - - soon
   - discover
   - if
+- - listeners
+  - asking
+  - me
+- - them
+  - scattered
+  - here
+- - offered
+  - me
+  - nuts
 - - clear
   - up
   - while
@@ -245,12 +245,12 @@ ngrams:
 - - somebody
   - says
   - they
-- - just
-  - ended
-  - up
 - - air
   - particularly
   - when
+- - just
+  - ended
+  - up
 - - come
   - into
   - existence
@@ -260,12 +260,12 @@ ngrams:
 - - something
   - else
   - about
-- - will
-  - certainly
-  - put
 - - thinking
   - about
   - well
+- - will
+  - certainly
+  - put
 - - possible
   - future
   - would
@@ -275,30 +275,33 @@ ngrams:
 - - those
   - few
   - who
-- - today's
-  - essay
-  - which
 - - your
   - step
   - such
+- - today's
+  - essay
+  - which
 - - all
   - too
   - clearly
-- - some
-  - people
-  - do
 - - make
   - me
   - wonder
-- - somebody
-  - say
-  - they
-- - so
-  - without
-  - attracting
 - - world
   - would
   - probably
+- - so
+  - without
+  - attracting
+- - somebody
+  - say
+  - they
+- - some
+  - people
+  - do
+- - real
+  - even
+  - if
 - - know
   - enough
   - about
@@ -308,96 +311,93 @@ ngrams:
 - - are
   - foretelling
   - things
-- - real
-  - even
-  - if
 - - does
   - make
   - me
 - - think
   - we
   - ought
-- - something
-  - so
-  - important
-- - like
-  - me
-  - thinks
-- - dimwit
-  - like
-  - me
-- - foisted
-  - upon
-  - me
-- - air
-  - without
-  - which
 - - war
   - there
   - might
+- - something
+  - so
+  - important
+- - foisted
+  - upon
+  - me
 - - every
   - so
   - often
 - - air
   - every
   - so
+- - dimwit
+  - like
+  - me
+- - like
+  - me
+  - thinks
 - - often
   - do
   - what
-- - so
-  - many
-  - people
+- - air
+  - without
+  - which
 - - chlorine
   - elementary
   - or
-- - or
-  - waxed
-  - enthusiastic
 - - informative
   - or
   - enlightening
+- - or
+  - waxed
+  - enthusiastic
 - - cigarette
   - or
   - waxed
 - - purchase
   - or
   - leeway
-- - who
-  - harangued
-  - me
-- - who
-  - they
-  - suffer
-- - them
-  - literally
-  - they
-- - receive
-  - requests
-  - from
-- - requests
-  - from
-  - listeners
-- - one
-  - thing
-  - however
+- - so
+  - many
+  - people
 - - happy
   - medium
   - or
 - - anything
   - informative
   - or
-- - from
-  - listeners
-  - asking
+- - hybrids
+  - or
+  - whether
 - - today's
   - essay
   - but
 - - accurate
   - consider
   - but
-- - hybrids
+- - who
+  - harangued
+  - me
+- - one
+  - thing
+  - however
+- - them
+  - literally
+  - they
+- - misty
+  - morning
   - or
-  - whether
+- - who
+  - they
+  - suffer
+- - requests
+  - from
+  - listeners
+- - receive
+  - requests
+  - from
 story:
   date: 2012-03-01
   id: 2012-03-01-on-the-air

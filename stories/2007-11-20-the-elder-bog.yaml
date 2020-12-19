@@ -17,45 +17,45 @@ ngrams:
 - - bus
   - company
   - decided
-- - called
-  - lamont
-  - baxter
 - - spasming
   - actually
   - although
-- - artists
-  - whose
-  - names
 - - thousands
   - file
   - past
-- - truth
-  - platform
-  - during
 - - actually
   - although
   - nowadays
+- - signposts
+  - nor
+  - placards
 - - bog
   - among
   - bogs
 - - among
   - bogs
   - bog
-- - signposts
-  - nor
-  - placards
+- - called
+  - lamont
+  - baxter
+- - truth
+  - platform
+  - during
+- - artists
+  - whose
+  - names
 - - elixir
   - somewhere
   - among
 - - somewhere
   - among
   - lamont
-- - countryside
-  - saying
-  - known
 - - witch
   - trials
   - another
+- - countryside
+  - saying
+  - known
 - - bus
   - company
   - person
@@ -65,27 +65,27 @@ ngrams:
 - - bus
   - stopped
   - going
-- - longer
-  - get
-  - safely
 - - wish
   - spend
   - days
-- - company
-  - person
-  - took
+- - longer
+  - get
+  - safely
 - - passengers
   - ever
   - wanted
+- - company
+  - person
+  - took
 - - old
   - countryside
   - saying
-- - attracted
-  - those
-  - artists
 - - bog
   - looks
   - much
+- - attracted
+  - those
+  - artists
 - - trials
   - another
   - thing
@@ -101,33 +101,33 @@ ngrams:
 - - old
   - bog
   - among
-- - day
-  - thousands
-  - file
 - - boots
   - make
   - sure
-- - those
-  - artists
-  - whose
+- - day
+  - thousands
+  - file
 - - repute
   - ever
   - thought
 - - probably
   - die
   - before
+- - those
+  - artists
+  - whose
 - - few
   - passengers
   - ever
-- - bus
-  - still
-  - took
-- - among
-  - those
-  - bogs
 - - skipping
   - along
   - through
+- - among
+  - those
+  - bogs
+- - bus
+  - still
+  - took
 - - other
   - younger
   - bogs
@@ -149,27 +149,30 @@ ngrams:
 - - long
   - long
   - ago
+- - bog
+  - elsewhere
+  - more
 - - ages
   - long
   - after
 - - go
   - wandering
   - through
+- - elsewhere
+  - more
+  - popular
 - - those
   - bogs
   - while
 - - spasms
   - only
   - come
-- - bog
-  - elsewhere
-  - more
-- - elsewhere
-  - more
-  - popular
 - - each
   - day
   - thousands
+- - any
+  - old
+  - bog
 - - elder
   - bog
   - has
@@ -179,27 +182,24 @@ ngrams:
 - - bog
   - has
   - attracted
-- - bog
-  - has
-  - drawn
-- - any
-  - old
-  - bog
 - - long
   - ago
   - before
+- - bog
+  - has
+  - drawn
 - - bogs
   - putting
   - up
 - - only
   - come
   - once
-- - your
-  - mother's
-  - womb
 - - looks
   - much
   - like
+- - your
+  - mother's
+  - womb
 - - your
   - guardian
   - warned
@@ -209,81 +209,84 @@ ngrams:
 - - 'no'
   - signposts
   - nor
-- - younger
-  - bogs
-  - were
-- - pewter
-  - panel
-  - were
 - - support
   - their
   - case
+- - elder
+  - bog
+  - when
 - - hold
   - 'no'
   - key
 - - still
   - can
   - young
-- - elder
-  - bog
-  - when
-- - who
-  - ever
-  - alighted
-- - your
-  - big
-  - boots
-- - bogs
+- - younger
+  - bogs
   - were
-  - already
+- - pewter
+  - panel
+  - were
 - - fall
   - when
   - speaking
+- - who
+  - ever
+  - alighted
 - - much
   - like
   - another
+- - bogs
+  - were
+  - already
+- - 'no'
+  - longer
+  - get
 - - were
   - born
   - imagine
+- - names
+  - will
+  - resound
+- - flipped
+  - when
+  - told
+- - can
+  - only
+  - envy
+- - your
+  - big
+  - boots
+- - through
+  - any
+  - old
+- - least
+  - that's
+  - what
+- - spasms
+  - will
+  - probably
 - - your
   - boots
   - among
 - - 'no'
   - longer
-  - get
-- - tiny
-  - your
-  - parents
-- - can
-  - only
-  - envy
-- - names
-  - will
-  - resound
-- - through
-  - any
-  - old
-- - has
-  - attracted
-  - those
-- - flipped
-  - when
-  - told
-- - 'no'
-  - longer
   - take
-- - spasms
-  - will
-  - probably
-- - least
-  - that's
-  - what
 - - showed
   - me
   - paperwork
+- - tiny
+  - your
+  - parents
 - - will
   - probably
   - die
+- - has
+  - attracted
+  - those
+- - just
+  - through
+  - any
 - - elder
   - bog
   - they
@@ -293,111 +296,105 @@ ngrams:
 - - panel
   - were
   - both
-- - just
-  - through
-  - any
 - - through
   - 'no'
   - artist
-- - person
-  - who
-  - ever
 - - puddles
   - they
   - grew
-- - country
-  - they
-  - hang
-- - whose
-  - names
-  - will
 - - let
   - fall
   - when
+- - country
+  - they
+  - hang
+- - person
+  - who
+  - ever
+- - whose
+  - names
+  - will
 - - your
   - boots
   - make
-- - only
-  - person
-  - who
-- - pearls
-  - they
-  - let
 - - gaze
   - upon
   - them
-- - they
+- - pearls
+  - they
   - let
-  - fall
-- - will
-  - probably
-  - come
 - - due
   - awe
   - so
+- - will
+  - probably
+  - come
+- - only
+  - person
+  - who
+- - they
+  - let
+  - fall
 - - longer
   - take
   - me
-- - person
-  - took
-  - me
-- - told
-  - me
-  - because
-- - will
-  - resound
-  - down
-- - are
-  - called
-  - lamont
-- - bogs
-  - are
-  - called
-- - all
-  - just
-  - bogs
-- - bog
-  - are
-  - among
-- - cuddy
-  - both
-  - so
-- - there
-  - too
-  - except
 - - statues
   - even
   - if
+- - cuddy
+  - both
+  - so
 - - both
   - there
   - part
-- - so
-  - few
-  - passengers
-- - discover
-  - an
-  - elixir
+- - told
+  - me
+  - because
+- - person
+  - took
+  - me
+- - there
+  - too
+  - except
+- - will
+  - resound
+  - down
+- - all
+  - just
+  - bogs
 - - bogs
   - because
   - so
-- - an
-  - easy
-  - mistake
+- - so
+  - few
+  - passengers
+- - bog
+  - are
+  - among
+- - are
+  - called
+  - lamont
 - - already
   - there
   - too
+- - bogs
+  - are
+  - called
 - - can
   - 'no'
   - longer
-- - still
-  - took
-  - me
+- - discover
+  - an
+  - elixir
+- - an
+  - easy
+  - mistake
 - - muchness
   - one
   - bog
-- - has
-  - been
-  - painted
+- - still
+  - took
+  - me
 - - one
   - bog
   - looks
@@ -410,6 +407,9 @@ ngrams:
 - - there
   - long
   - long
+- - has
+  - been
+  - painted
 - - are
   - stomping
   - through
@@ -419,24 +419,12 @@ ngrams:
 - - because
   - so
   - few
-- - putting
-  - up
-  - your
-- - took
-  - me
-  - down
-- - up
-  - your
-  - tent
 - - both
   - so
   - new
-- - bogs
-  - so
-  - now
-- - an
-  - old
-  - countryside
+- - took
+  - me
+  - down
 - - lamont
   - or
   - baxter
@@ -446,6 +434,18 @@ ngrams:
 - - pa
   - or
   - guardian
+- - putting
+  - up
+  - your
+- - up
+  - your
+  - tent
+- - bogs
+  - so
+  - now
+- - ma
+  - or
+  - pa
 story:
   date: 2007-11-20
   id: 2007-11-20-the-elder-bog

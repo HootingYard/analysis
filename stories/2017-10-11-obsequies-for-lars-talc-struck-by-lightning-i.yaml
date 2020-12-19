@@ -5,54 +5,54 @@ ngrams:
 - - poland
   - czechoslovakia
   - austria
+- - ad
+  - lib
+  - addenda
 - - formidable
   - maroon
   - envelopes
 - - exquisitely
   - comfortable
   - armchairs
-- - ad
-  - lib
-  - addenda
 - - czechoslovakia
   - austria
   - northern
 - - typically
   - finnish
   - concoction
+- - hammocks
+  - bins
+  - easels
+- - brackets
+  - hammocks
+  - bins
 - - rusted
   - machinery
   - sheds
 - - austria
   - northern
   - italy
-- - brackets
-  - hammocks
-  - bins
-- - hammocks
-  - bins
-  - easels
-- - sheds
-  - huts
-  - outbuildings
 - - ivory
   - coast
   - penk
+- - sheds
+  - huts
+  - outbuildings
+- - lectern
+  - finnish
+  - timber
 - - sad
   - sad
   - tumbles
 - - machinery
   - sheds
   - huts
-- - lectern
-  - finnish
-  - timber
-- - clock
-  - nailed
-  - askew
 - - packet
   - steamer
   - foisted
+- - clock
+  - nailed
+  - askew
 - - sucking
   - boiled
   - sweets
@@ -68,30 +68,36 @@ ngrams:
 - - club
   - haplessly
   - wedged
-- - chamber
-  - sucking
-  - boiled
 - - sarcastic
   - comments
   - suggested
+- - chamber
+  - sucking
+  - boiled
 - - poached
   - egg
   - mustard
 - - financial
   - matters
   - topics
-- - fireplace
-  - struck
-  - noon
 - - comments
   - suggested
   - texts
 - - avenue
   - ack
   - lars
+- - fireplace
+  - struck
+  - noon
 - - club's
   - business
   - correspondence
+- - club
+  - members
+  - exercised
+- - circus
+  - impresario
+  - usually
 - - colleagues
   - fired
   - questions
@@ -101,33 +107,27 @@ ngrams:
 - - spend
   - months
   - boning
-- - club
-  - members
-  - exercised
-- - circus
-  - impresario
-  - usually
-- - future
-  - papers
-  - complaints
 - - club's
   - character
   - changed
-- - strict
-  - alphabetical
-  - order
+- - future
+  - papers
+  - complaints
 - - surely
   - topics
   - drawn
+- - strict
+  - alphabetical
+  - order
+- - gunny
+  - sack
+  - lars
 - - received
   - financial
   - matters
 - - wooden
   - clock
   - nailed
-- - gunny
-  - sack
-  - lars
 - - nailed
   - askew
   - above
@@ -137,24 +137,30 @@ ngrams:
 - - june
   - lars
   - talc
-- - boredom
-  - maladies
-  - death
-- - unexpectedly
-  - hot
-  - tuesday
-- - character
-  - changed
-  - slowly
-- - cellophane
-  - during
-  - rainstorms
 - - attention
   - satin
   - timidity
+- - character
+  - changed
+  - slowly
+- - unexpectedly
+  - hot
+  - tuesday
 - - certain
   - architectural
   - niceties
+- - boredom
+  - maladies
+  - death
+- - cellophane
+  - during
+  - rainstorms
+- - lars
+  - talc
+  - opened
+- - sack
+  - lars
+  - talc
 - - enormous
   - wooden
   - clock
@@ -163,16 +169,10 @@ ngrams:
   - sent
 - - lars
   - talc
-  - opened
+  - struck
 - - during
   - rainstorms
   - ignorant
-- - sack
-  - lars
-  - talc
-- - lars
-  - talc
-  - struck
 - - haplessly
   - wedged
   - between
@@ -197,6 +197,9 @@ ngrams:
 - - penk
   - drank
   - himself
+- - spacious
+  - though
+  - colder
 - - president's
   - mental
   - life
@@ -206,9 +209,6 @@ ngrams:
 - - distributed
   - each
   - member
-- - spacious
-  - though
-  - colder
 - - meeting
   - each
   - member
@@ -218,114 +218,114 @@ ngrams:
 - - chair
   - armed
   - himself
-- - fascinating
-  - prize
-  - last
 - - mental
   - life
   - occasionally
+- - fascinating
+  - prize
+  - last
 - - most
   - enthralling
   - aspect
 - - prize
   - last
   - month
+- - still
+  - kept
+  - tucked
 - - objections
   - made
   - sarcastic
 - - meeting
   - began
   - last
-- - began
-  - last
-  - month
-- - still
-  - kept
-  - tucked
-- - through
-  - boredom
-  - maladies
-- - raised
-  - objections
-  - made
-- - taxi
-  - barged
-  - through
-- - made
-  - sarcastic
-  - comments
 - - many
   - tables
   - chairs
+- - through
+  - boredom
+  - maladies
+- - taxi
+  - barged
+  - through
+- - began
+  - last
+  - month
 - - finland
   - through
   - russia
+- - raised
+  - objections
+  - made
+- - made
+  - sarcastic
+  - comments
 - - filthy
   - hand
   - found
 - - reconnoitering
   - trails
   - before
-- - coast
-  - penk
-  - before
 - - ruin
   - gave
   - way
+- - coast
+  - penk
+  - before
 - - after
   - drawing
   - lots
 - - member
   - after
   - drawing
-- - last
-  - month
-  - having
 - - trails
   - before
   - passing
+- - last
+  - month
+  - having
 - - old
   - members
   - left
 - - last
   - taken
   - part
+- - maroon
+  - envelopes
+  - upon
 - - left
   - through
   - boredom
+- - unravel
+  - its
+  - mysteries
 - - members
   - left
   - through
 - - corner
   - lay
   - down
-- - unravel
-  - its
-  - mysteries
-- - maroon
-  - envelopes
-  - upon
 - - 'off'
   - another
   - bottle
 - - hard
   - let
   - us
-- - let
-  - us
-  - call
 - - any
   - small
   - private
+- - let
+  - us
+  - call
+- - more
+  - practical
+  - application
 - - top
   - 'off'
   - another
 - - now
   - late
   - afternoon
-- - more
-  - practical
-  - application
 - - few
   - words
   - should
@@ -350,54 +350,54 @@ ngrams:
 - - steamer
   - foisted
   - some
-- - him
-  - raised
-  - objections
-- - very
-  - last
-  - second
 - - other
   - complaints
   - indeed
-- - its
-  - early
-  - days
+- - very
+  - last
+  - second
+- - him
+  - raised
+  - objections
 - - them
   - treasure
   - maps
 - - its
+  - early
+  - days
+- - its
   - mysteries
   - while
+- - more
+  - spacious
+  - though
 - - friday
   - just
   - over
 - - sipped
   - their
   - tumblers
-- - exercised
-  - their
-  - minds
 - - call
   - them
   - treasure
-- - more
-  - spacious
-  - though
+- - exercised
+  - their
+  - minds
 - - members
   - exercised
   - their
 - - months
   - boning
   - up
-- - locomotive
-  - took
-  - him
 - - where
   - stopping
   - only
 - - track
   - down
   - over
+- - locomotive
+  - took
+  - him
 - - took
   - him
   - south
@@ -413,12 +413,12 @@ ngrams:
 - - apparent
   - what
   - else
-- - become
-  - apparent
-  - what
 - - meetings
   - any
   - more
+- - become
+  - apparent
+  - what
 - - could
   - even
   - begin
@@ -431,12 +431,18 @@ ngrams:
 - - us
   - call
   - them
-- - words
-  - were
-  - inscribed
 - - pocket
   - looked
   - out
+- - wider
+  - trough
+  - would
+- - finnish
+  - luckily
+  - we
+- - trough
+  - would
+  - engage
 - - will
   - become
   - apparent
@@ -449,72 +455,66 @@ ngrams:
 - - let
   - out
   - yelps
+- - words
+  - were
+  - inscribed
 - - hooch
   - let
   - out
 - - drank
   - himself
   - into
-- - finnish
-  - luckily
-  - we
-- - wider
-  - trough
-  - would
-- - eyes
-  - were
-  - different
-- - trough
-  - would
-  - engage
-- - early
-  - days
-  - when
 - - would
   - suggest
   - topics
 - - drawing
   - lots
   - would
+- - early
+  - days
+  - when
 - - members
   - would
   - gather
 - - members
   - would
   - spend
-- - would
-  - spend
-  - months
 - - alone
   - would
   - suggest
+- - eyes
+  - were
+  - different
+- - would
+  - spend
+  - months
 - - members
   - would
   - form
+- - detail
+  - so
+  - garish
 - - same
   - words
   - were
 - - stroke
   - now
   - 'no'
-- - detail
-  - so
-  - garish
 - - toiled
   - so
   - hard
 - - oh
   - so
   - futile
-- - cardboard
-  - hat
-  - which
 - - underestimated
   - after
   - all
-- - were
-  - its
-  - accoutrements
+- - hours
+  - oh
+  - so
+- - cardboard
+  - hat
+  - which
 story:
   date: 2017-10-11
   id: 2017-10-11-obsequies-for-lars-talc-struck-by-lightning-i

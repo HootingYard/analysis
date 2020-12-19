@@ -11,99 +11,99 @@ ngrams:
 - - youthful
   - gordon
   - sumner
-- - neurasthenic
-  - alexander
-  - scriabin
 - - bass
   - drum
   - dreaming
 - - gordon
   - sumner
   - wealthy
-- - adult
-  - gordon
-  - sumner
 - - grunted
   - alan
   - slobbered
+- - adult
+  - gordon
+  - sumner
+- - neurasthenic
+  - alexander
+  - scriabin
 - - nap
   - howled
   - backing
 - - master
   - tapes
   - destroyed
-- - recording
-  - session
-  - curled
 - - win
   - social
   - acceptance
+- - recording
+  - session
+  - curled
+- - levels
+  - alan
+  - woke
 - - rock
   - opera
   - subsequently
-- - emerson
-  - lake
-  - palmer
-- - emerson
-  - lake
-  - palmer
 - - household
   - pets
   - die
 - - grotesque
   - grunting
   - ogre
-- - levels
-  - alan
-  - woke
 - - miniature
   - rock
   - opera
-- - peter
-  - maxwell
-  - davies
-- - puny
-  - neurasthenic
-  - alexander
 - - terror
   - alan
   - snoozed
+- - peter
+  - maxwell
+  - davies
+- - emerson
+  - lake
+  - palmer
+- - emerson
+  - lake
+  - palmer
+- - puny
+  - neurasthenic
+  - alexander
 - - minute
   - miniature
   - rock
-- - grunty
-  - man's
-  - satisfaction
-- - situation
-  - completely
-  - calm
-- - inside
-  - carl
-  - palmer's
 - - band
   - stumbled
   - reluctantly
+- - grunty
+  - man's
+  - satisfaction
+- - inside
+  - carl
+  - palmer's
+- - situation
+  - completely
+  - calm
 - - makes
   - household
   - pets
-- - presence
-  - greg
-  - lake
 - - merely
   - grunting
   - horribly
-- - prog
-  - rock
-  - including
 - - sumner
   - wealthy
   - beyond
-- - grunting
-  - makes
-  - household
+- - presence
+  - greg
+  - lake
+- - prog
+  - rock
+  - including
 - - less
   - herman's
   - hermits
+- - grunting
+  - makes
+  - household
 - - satisfaction
   - less
   - herman's
@@ -122,87 +122,87 @@ ngrams:
 - - phosphorescent
   - light
   - levels
-- - blasted
-  - towards
-  - saturn
 - - light
   - levels
   - alan
+- - blasted
+  - towards
+  - saturn
 - - rock
   - including
   - future
-- - immortal
-  - fate
-  - note
-- - including
-  - future
-  - members
 - - guide
   - dog
   - refreshed
-- - latin
-  - primer
-  - used
 - - subject
   - merely
   - grunting
-- - three
-  - minute
-  - miniature
+- - including
+  - future
+  - members
+- - latin
+  - primer
+  - used
+- - immortal
+  - fate
+  - note
 - - brain
   - salad
   - surgery
 - - guide
   - dog
   - somehow
+- - three
+  - minute
+  - miniature
 - - dog
   - somehow
   - managed
-- - majestic
-  - three
-  - minute
 - - spooky
   - tooth
   - also
 - - tapes
   - destroyed
   - another
-- - tiny
-  - children
-  - tuneless
-- - unleashed
-  - great
-  - bellows
+- - majestic
+  - three
+  - minute
 - - pants
   - until
   - coaxed
 - - loon
   - pants
   - until
+- - unleashed
+  - great
+  - bellows
+- - tiny
+  - children
+  - tuneless
 - - tooth
   - also
   - present
 - - grunting
   - frenzy
   - until
-- - children
-  - tuneless
-  - once
 - - himself
   - remains
   - silent
 - - vocal
   - while
   - alan
+- - children
+  - tuneless
+  - once
 - - lead
   - vocal
   - while
-- - little
-  - sumner
-  - whimpered
 - - ever
   - forgot
   - eschewing
+- - little
+  - sumner
+  - whimpered
 - - himself
   - blasted
   - towards
@@ -212,21 +212,24 @@ ngrams:
 - - finished
   - old
   - ted
-- - little
-  - sumner
-  - boy
-- - see
-  - th
-  - january
 - - track
   - finished
   - old
 - - janitor
   - old
   - ted
+- - little
+  - sumner
+  - boy
+- - see
+  - th
+  - january
 - - man
   - grunted
   - alan
+- - get
+  - himself
+  - blasted
 - - grunty
   - man
   - deferred
@@ -239,15 +242,21 @@ ngrams:
 - - grunty
   - man
   - grunted
+- - opposed
+  - any
+  - reissue
 - - grunty
   - man
   - arranged
-- - get
-  - himself
-  - blasted
+- - make
+  - brain
+  - salad
 - - grunty
   - man
   - apparently
+- - salad
+  - surgery
+  - such
 - - hands
   - see
   - th
@@ -257,36 +266,30 @@ ngrams:
 - - man
   - kept
   - bellowing
-- - grunty
-  - man
-  - decided
-- - opposed
-  - any
-  - reissue
-- - grunty
-  - man
-  - kept
-- - make
-  - brain
-  - salad
-- - salad
-  - surgery
-  - such
 - - dog
   - refreshed
   - after
-- - gordon
-  - sumner
-  - now
+- - grunty
+  - man
+  - decided
+- - grunty
+  - man
+  - kept
 - - sophisticated
   - being
   - having
+- - gordon
+  - sumner
+  - now
 - - grunty
   - man
   - went
-- - man
-  - unleashed
-  - great
+- - herman's
+  - hermits
+  - more
+- - hermits
+  - more
+  - scriabin
 - - tiny
   - hands
   - see
@@ -294,44 +297,41 @@ ngrams:
   - calling
   - himself
 - - man
+  - unleashed
+  - great
+- - man
   - himself
   - remains
 - - grunty
   - man
   - himself
-- - herman's
-  - hermits
-  - more
-- - hermits
-  - more
-  - scriabin
-- - sumner
-  - now
-  - known
 - - somewhat
   - more
   - sophisticated
 - - wanted
   - too
   - much
-- - thousand
-  - years
-  - old
+- - sumner
+  - now
+  - known
 - - too
   - much
   - certainly
+- - thousand
+  - years
+  - old
 - - childhood
   - nightmares
   - has
-- - grunty
-  - man
-  - down
 - - tuneless
   - once
   - more
 - - their
   - mundane
   - doldrums
+- - session
+  - curled
+  - up
 story:
   date: 2006-08-08
   id: 2006-08-08-song-of-the-grunty-man

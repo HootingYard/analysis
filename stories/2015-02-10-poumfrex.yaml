@@ -2,24 +2,18 @@ ngrams:
 - - condor
   - sydney
   - pollack
+- - strainer
+  - manufacturing
+  - dynasty
 - - cia
   - analyst
   - joe
 - - analyst
   - joe
   - turner
-- - strainer
-  - manufacturing
-  - dynasty
 - - harvest
   - mervyn
   - leroy
-- - ronald
-  - colman
-  - '-'
-- - colman
-  - '-'
-  - sports
 - - random
   - harvest
   - mervyn
@@ -38,18 +32,18 @@ ngrams:
 - - usually
   - unkind
   - remark
-- - robert
-  - redford
-  - b
 - - provoked
   - remark
   - usually
-- - charles
-  - rainier
-  - played
+- - robert
+  - redford
+  - b
 - - significant
   - difference
   - charles
+- - charles
+  - rainier
+  - played
 - - minutes
   - bidding
   - farewell
@@ -62,27 +56,21 @@ ngrams:
 - - gnomes
   - hiding
   - behind
-- - strainer
-  - house
-  - family
+- - ronald
+  - colman
+  - '-'
+- - colman
+  - '-'
+  - sports
 - - saw
   - gnomes
   - hiding
 - - home
   - blowing
   - kisses
-- - house
+- - strainer
+  - house
   - family
-  - pile
-- - tea
-  - strainer
-  - house
-- - tea
-  - strainer
-  - house
-- - tea
-  - strainer
-  - house
 - - beloved
   - home
   - blowing
@@ -95,6 +83,18 @@ ngrams:
 - - wailing
   - nor
   - keening
+- - house
+  - family
+  - pile
+- - tea
+  - strainer
+  - house
+- - tea
+  - strainer
+  - house
+- - tea
+  - strainer
+  - house
 - - several
   - minutes
   - bidding
@@ -110,15 +110,15 @@ ngrams:
 - - unexpected
   - return
   - home
+- - idea
+  - impressed
+  - itself
 - - weeping
   - gushing
   - great
 - - childhood
   - memories
   - came
-- - idea
-  - impressed
-  - itself
 - - felt
   - himself
   - touched
@@ -131,33 +131,33 @@ ngrams:
 - - mervyn
   - leroy
   - just
-- - tokenism
-  - left
-  - 'off'
-- - pollack
-  - where
-  - cia
 - - sydney
   - pollack
   - where
+- - pollack
+  - where
+  - cia
 - - where
   - cia
   - analyst
+- - tokenism
+  - left
+  - 'off'
 - - longer
   - any
   - weeping
 - - nor
   - keening
   - just
+- - after
+  - several
+  - minutes
 - - came
   - flooding
   - back
 - - gave
   - little
   - thought
-- - after
-  - several
-  - minutes
 - - where
   - tokenism
   - left
@@ -176,15 +176,15 @@ ngrams:
 - - weeping
   - 'no'
   - wailing
+- - 'off'
+  - after
+  - several
 - - gardener
   - who
   - looked
 - - left
   - 'off'
   - after
-- - 'off'
-  - after
-  - several
 - - great
   - watering
   - can
@@ -200,33 +200,33 @@ ngrams:
 - - b
   - pops
   - out
+- - more
+  - intensity
+  - upon
 - - happily
   - remembering
   - all
 - - head
   - gardener
   - who
-- - more
-  - intensity
-  - upon
 - - we
   - weep
   - uncontrollably
 - - any
   - weeping
   - 'no'
+- - 'no'
+  - longer
+  - any
+- - youth
+  - when
+  - first
 - - weeping
   - which
   - greeted
 - - copious
   - weeping
   - which
-- - 'no'
-  - longer
-  - any
-- - gardens
-  - here
-  - were
 story:
   date: 2015-02-10
   id: 2015-02-10-poumfrex

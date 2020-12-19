@@ -2,36 +2,36 @@ ngrams:
 - - eugenics
   - aeroplanes
   - submarines
-- - lunacy
-  - priests
-  - eugenics
 - - aeroplanes
   - submarines
   - hygiene
-- - incorporating
-  - flexible
-  - leather
 - - erasmus
   - darwin
   - grandfather
+- - lunacy
+  - priests
+  - eugenics
+- - incorporating
+  - flexible
+  - leather
 - - witches
   - lunacy
   - priests
-- - priests
-  - eugenics
-  - aeroplanes
 - - haunts
   - antique
   - fairs
+- - priests
+  - eugenics
+  - aeroplanes
+- - drainage
+  - incorporating
+  - flexible
 - - trade
   - witches
   - lunacy
 - - slave
   - trade
   - witches
-- - drainage
-  - incorporating
-  - flexible
 - - moss
   - drainage
   - incorporating
@@ -68,12 +68,12 @@ ngrams:
 - - rigorous
   - scholarly
   - study
-- - luminous
-  - music
-  - fogs
 - - animals
   - modern
   - novels
+- - luminous
+  - music
+  - fogs
 - - electricity
   - wooden
   - chessmen
@@ -95,9 +95,6 @@ ngrams:
 - - following
   - dobson's
   - instructions
-- - moss
-  - dobson's
-  - pamphlet
 - - artificial
   - birds
   - perpetual
@@ -107,6 +104,9 @@ ngrams:
 - - gusty
   - wet
   - morning
+- - moss
+  - dobson's
+  - pamphlet
 - - six
   - weeks
   - during
@@ -116,21 +116,18 @@ ngrams:
 - - titan
   - gives
   - us
-- - ever
-  - met
-  - anyone
 - - late
   - too
   - late
+- - ever
+  - met
+  - anyone
 - - entirely
   - new
   - system
 - - artificial
   - birds
   - without
-- - jar
-  - circles
-  - dobson
 - - birds
   - without
   - weeping
@@ -144,32 +141,35 @@ ngrams:
   - our
   - pamphleteering
 - - jar
-  - named
-  - after
+  - circles
+  - dobson
 - - without
   - weeping
   - well
+- - jar
+  - named
+  - after
 - - came
   - late
   - too
+- - moss
+  - grew
+  - upon
 - - circles
   - dobson
   - came
 - - only
   - known
   - record
-- - moss
-  - grew
-  - upon
 - - dobson
   - came
   - late
-- - people
-  - made
-  - use
 - - time
   - moss
   - grew
+- - people
+  - made
+  - use
 - - anything
   - more
   - moist
@@ -182,15 +182,15 @@ ngrams:
 - - who
   - haunts
   - antique
-- - anyone
-  - who
-  - owns
 - - equipment
   - just
   - before
 - - any
   - old
   - study
+- - anyone
+  - who
+  - owns
 - - just
   - before
   - dawn
@@ -218,24 +218,21 @@ ngrams:
 - - efforts
   - were
   - swept
-- - language
-  - will
-  - o'
 - - more
   - moist
   - than
-- - worth
-  - pointing
-  - out
 - - moss
   - if
   - anything
+- - worth
+  - pointing
+  - out
 - - might
   - look
   - like
-- - named
-  - after
-  - him
+- - language
+  - will
+  - o'
 - - just
   - any
   - old
@@ -245,6 +242,9 @@ ngrams:
 - - gives
   - us
   - 'no'
+- - named
+  - after
+  - him
 story:
   date: 2010-08-10
   id: 2010-08-10-jars-and-moss

@@ -38,18 +38,18 @@ ngrams:
 - - embittered
   - dentist
   - sat
-- - embittered
-  - dentist
-  - turned
 - - cellophane
   - package
   - itself
-- - corner
-  - shop
-  - clutching
+- - embittered
+  - dentist
+  - turned
 - - interconnected
   - prose
   - pieces
+- - corner
+  - shop
+  - clutching
 - - local
   - corner
   - shop
@@ -59,30 +59,30 @@ ngrams:
 - - small
   - rubber
   - toad
-- - crackers
-  - concentrate
-  - look
-- - size
-  - opening
-  - hours
 - - embittered
   - dentist
   - along
-- - concentrate
+- - size
+  - opening
+  - hours
+- - crackers
+  - concentrate
   - look
-  - carefully
 - - further
   - packaged
   - inside
-- - right
-  - towards
-  - ruins
+- - concentrate
+  - look
+  - carefully
 - - itself
   - further
   - packaged
 - - package
   - itself
   - further
+- - right
+  - towards
+  - ruins
 - - yard
   - forever
   - overcast
@@ -92,21 +92,21 @@ ngrams:
 - - embittered
   - dentist
   - made
-- - dentist
-  - made
-  - purchase
 - - grand
   - palace
   - much
+- - dentist
+  - made
+  - purchase
 - - paces
   - before
   - wheeling
-- - our
-  - embittered
-  - dentist
 - - neatly
   - our
   - embittered
+- - our
+  - embittered
+  - dentist
 - - towards
   - ruins
   - these
@@ -125,21 +125,21 @@ ngrams:
 - - did
   - including
   - neatly
+- - downpour
+  - upon
+  - leaving
 - - its
   - ownership
   - size
 - - its
   - forehead
   - suddenly
-- - downpour
-  - upon
-  - leaving
-- - hooting
-  - yard
-  - forever
 - - actually
   - located
   - upon
+- - hooting
+  - yard
+  - forever
 - - nook
   - affording
   - some
@@ -152,12 +152,12 @@ ngrams:
 - - its
   - customers
   - did
-- - ruins
-  - were
-  - ancient
 - - sat
   - down
   - upon
+- - ruins
+  - were
+  - ancient
 story:
   date: 2018-02-04
   id: 2018-02-04-embittered-dentist-riven-by-crackers

@@ -2,21 +2,21 @@ ngrams:
 - - entertained
   - murderous
   - fantasies
-- - ellis
-  - sharp
-  - latterly
 - - illegal
   - weekend
   - photocopying
+- - ellis
+  - sharp
+  - latterly
+- - spotted
+  - malice
+  - aforethought
 - - shattered
   - max's
   - beat
 - - friend
   - chris
   - cutler
-- - spotted
-  - malice
-  - aforethought
 - - electronic
   - typewriter
   - worked
@@ -44,6 +44,9 @@ ngrams:
 - - decade
   - earlier
   - max
+- - press
+  - group
+  - hero
 - - john
   - nicholson
   - max
@@ -52,106 +55,103 @@ ngrams:
   - nicholson
 - - press
   - group
-  - hero
+  - friend
 - - istvan
   - simply
   - jammed
-- - press
-  - group
-  - friend
 - - ellis
   - lived
   - near
 - - ah
   - 'yes'
   - sales
-- - max
-  - alone
-  - brought
 - - sale
   - ah
   - 'yes'
+- - max
+  - alone
+  - brought
 - - press
   - publishing
   - history
-- - canada
-  - whose
-  - north
 - - hope
   - useful
   - members
-- - whose
-  - north
-  - american
 - - boss
   - thus
   - stab
+- - canada
+  - whose
+  - north
+- - resonance
+  - fm
+  - thus
+- - whose
+  - north
+  - american
+- - weekend
+  - photocopying
+  - later
 - - small
   - press
   - yearbooks
 - - thriving
   - small
   - press
-- - weekend
-  - photocopying
-  - later
 - - small
   - press
   - publishing
-- - resonance
-  - fm
-  - thus
-- - small
-  - press
-  - group
-- - small
-  - press
-  - group
+- - individual
+  - pieces
+  - between
 - - small
   - press
   - group
 - - paperback
   - small
   - press
-- - individual
-  - pieces
-  - between
-- - possibly
-  - four
-  - paperback
-- - phone
-  - call
-  - during
+- - small
+  - press
+  - group
+- - small
+  - press
+  - group
 - - printed
   - word
   - neither
+- - possibly
+  - four
+  - paperback
 - - ellis
   - sharp
   - work
-- - small
-  - press
-  - scene
-- - other's
-  - work
-  - general
+- - phone
+  - call
+  - during
 - - truth
   - both
   - stab
 - - press
   - group
   - along
-- - liked
-  - each
-  - other's
-- - four
-  - paperback
-  - small
-- - arranged
-  - book
-  - fairs
+- - small
+  - press
+  - scene
+- - other's
+  - work
+  - general
 - - landscape
   - though
   - max
+- - liked
+  - each
+  - other's
+- - arranged
+  - book
+  - fairs
+- - four
+  - paperback
+  - small
 - - fortuitous
   - choice
   - too
@@ -167,18 +167,18 @@ ngrams:
 - - lights
   - another
   - small
-- - another
-  - small
-  - press
 - - press
   - yearbooks
   - these
-- - publish
-  - others
-  - these
+- - another
+  - small
+  - press
 - - first
   - ellis
   - sharp
+- - publish
+  - others
+  - these
 - - recalled
   - here
   - inspired
@@ -188,45 +188,45 @@ ngrams:
 - - each
   - other's
   - work
-- - our
-  - imprint
-  - max
-- - resources
-  - only
-  - marginally
-- - jammed
-  - our
-  - individual
-- - aforethought
-  - press
-  - here
 - - before
   - het
   - internet
+- - aforethought
+  - press
+  - here
+- - jammed
+  - our
+  - individual
+- - our
+  - imprint
+  - max
 - - yourself
   - very
   - fortunate
-- - young
-  - man
-  - acting
 - - never
   - actually
   - collaborated
-- - our
-  - individual
-  - pieces
+- - imagined
+  - might
+  - buy
+- - resources
+  - only
+  - marginally
 - - much
   - else
   - stand
+- - our
+  - individual
+  - pieces
+- - young
+  - man
+  - acting
 - - quarterly
   - chris
   - did
 - - simply
   - jammed
   - our
-- - imagined
-  - might
-  - buy
 - - first
   - piece
   - credited
@@ -236,48 +236,48 @@ ngrams:
 - - only
   - marginally
   - better
-- - matchless
-  - genius
-  - other
-- - her
-  - friend
-  - chris
-- - these
-  - pamphlets
-  - came
 - - marginally
   - better
   - than
-- - long
-  - long
-  - ago
-- - hair
-  - she
-  - introduced
-- - single
-  - while
-  - still
+- - matchless
+  - genius
+  - other
+- - these
+  - pamphlets
+  - came
 - - too
   - much
   - struggle
+- - single
+  - while
+  - still
 - - time
   - ed
   - baxter
-- - own
-  - stuff
-  - here
+- - long
+  - long
+  - ago
 - - scene
   - then
   - extant
+- - own
+  - stuff
+  - here
+- - her
+  - friend
+  - chris
 - - issued
   - our
   - own
-- - our
-  - own
-  - works
 - - press
   - scene
   - then
+- - our
+  - own
+  - works
+- - hair
+  - she
+  - introduced
 - - only
   - too
   - conscious
@@ -287,36 +287,42 @@ ngrams:
 - - years
   - before
   - het
-- - recall
-  - some
-  - copies
+- - several
+  - more
+  - followed
 - - them
   - het
   - internet
 - - same
   - time
   - ed
+- - recall
+  - some
+  - copies
 - - very
   - first
   - appearance
-- - several
-  - more
-  - followed
 - - without
   - too
   - much
-- - 'yes'
-  - sales
-  - who
-- - she
-  - introduced
-  - us
 - - head
   - without
   - too
+- - 'yes'
+  - sales
+  - who
 - - cannot
   - recall
   - some
+- - whirling
+  - ever
+  - more
+- - than
+  - our
+  - friends
+- - ever
+  - more
+  - rapidly
 - - stab
   - your
   - employer
@@ -329,45 +335,39 @@ ngrams:
 - - stab
   - your
   - employer
+- - she
+  - introduced
+  - us
+- - your
+  - employer
+  - popped
 - - max's
   - beat
   - your
 - - beat
   - your
   - relatives
-- - your
-  - employer
-  - popped
-- - than
-  - our
-  - friends
-- - hooting
-  - yard
-  - made
-- - whirling
-  - ever
-  - more
-- - ever
-  - more
-  - rapidly
-- - some
-  - cases
-  - last
 - - murderous
   - fantasies
   - about
+- - some
+  - cases
+  - last
+- - hooting
+  - yard
+  - made
 - - last
   - years
   - before
-- - tirelessly
-  - bringing
-  - into
-- - employer
-  - popped
-  - into
 - - better
   - than
   - our
+- - employer
+  - popped
+  - into
+- - tirelessly
+  - bringing
+  - into
 story:
   date: 2012-04-16
   id: 2012-04-16-on-the-malice-aforethought-press

@@ -11,45 +11,48 @@ ngrams:
 - - saved
   - whittaker
   - chambers
-- - shabby
-  - stained
-  - suit
-- - trapped
-  - hissing
-  - asp
 - - avert
   - zoo
   - asp
-- - rotten
-  - infected
-  - teeth
+- - trapped
+  - hissing
+  - asp
+- - shabby
+  - stained
+  - suit
+- - zoo
+  - asp
+  - mayhem
+- - zoo
+  - asp
+  - mayhem
 - - mystic
   - oriental
   - technique
-- - zoo
-  - asp
-  - mayhem
-- - zoo
-  - asp
-  - mayhem
-- - consulting
-  - rooms
-  - carrying
 - - local
   - rascally
   - illegal
-- - remained
-  - utterly
-  - unruffled
 - - bargain
   - tarleton
   - nodded
+- - consulting
+  - rooms
+  - carrying
+- - rotten
+  - infected
+  - teeth
+- - remained
+  - utterly
+  - unruffled
 - - calls
   - occasionally
   - glancing
 - - sudden
   - urgent
   - knocking
+- - hissing
+  - asp
+  - tarleton
 - - working
   - scale
   - model
@@ -59,9 +62,6 @@ ngrams:
 - - met
   - alger
   - hiss
-- - hissing
-  - asp
-  - tarleton
 - - poison
   - pen
   - letters
@@ -74,18 +74,18 @@ ngrams:
 - - tarleton
   - met
   - alger
-- - rascal
-  - tarleton
-  - placed
 - - mystery
   - tarleton
   - determined
-- - somewhat
-  - misleading
-  - title
+- - rascal
+  - tarleton
+  - placed
 - - power
   - station
   - putting
+- - somewhat
+  - misleading
+  - title
 - - best
   - regulated
   - zoos
@@ -107,15 +107,15 @@ ngrams:
 - - however
   - poked
   - free
+- - hydroelectric
+  - power
+  - having
 - - door
   - crashed
   - open
 - - asp
   - expert
   - took
-- - hydroelectric
-  - power
-  - having
 - - strained
   - every
   - sinew
@@ -125,9 +125,6 @@ ngrams:
 - - make
   - illegal
   - disposal
-- - tarleton
-  - little
-  - wiser
 - - several
   - hours
   - hours
@@ -137,30 +134,33 @@ ngrams:
 - - suit
   - never
   - forgave
+- - tarleton
+  - little
+  - wiser
 - - stained
   - suit
   - never
-- - leaving
-  - tarleton
-  - little
 - - never
   - forgave
   - tarleton
+- - leaving
+  - tarleton
+  - little
 - - haircut
   - before
   - solving
 - - before
   - gained
   - mastery
-- - phone
-  - down
-  - leaving
-- - after
-  - making
-  - arrangements
 - - occasionally
   - glancing
   - over
+- - after
+  - making
+  - arrangements
+- - phone
+  - down
+  - leaving
 - - kindly
   - sir
   - said
@@ -185,78 +185,81 @@ ngrams:
 - - succeeding
   - years
   - these
+- - might
+  - ask
+  - why
 - - certain
   - other
   - matters
 - - things
   - let
   - us
-- - him
-  - profitably
-  - occupied
-- - might
-  - ask
-  - why
 - - years
   - before
   - gained
-- - kept
-  - him
+- - him
   - profitably
+  - occupied
 - - little
   - wiser
   - than
+- - kept
+  - him
+  - profitably
 - - under
   - its
   - dead
 - - tackling
   - some
   - kind
+- - might
+  - mention
+  - here
+- - might
+  - mention
+  - here
 - - let
   - us
   - say
 - - other
   - matters
   - too
-- - might
-  - mention
-  - here
-- - might
-  - mention
-  - here
 - - such
   - things
   - let
 - - corpse
   - its
   - head
-- - asp
-  - some
-  - say
 - - utterly
   - unruffled
   - when
 - - hydroelectric
   - power
   - when
-- - asps
-  - having
-  - been
-- - having
-  - been
-  - created
+- - asp
+  - some
+  - say
 - - its
   - head
   - however
 - - time
   - said
   - corpse
+- - asps
+  - having
+  - been
+- - having
+  - been
+  - created
 - - power
   - station
   - out
 - - asp
   - mayhem
   - all
+- - asked
+  - tarleton
+  - if
 - - know
   - nothing
   - more
@@ -266,18 +269,15 @@ ngrams:
 - - immediately
   - set
   - about
-- - asked
-  - tarleton
-  - if
-- - set
-  - about
-  - making
 - - consulting
   - rooms
   - would
 - - rooms
   - would
   - release
+- - set
+  - about
+  - making
 - - about
   - making
   - another
@@ -290,87 +290,87 @@ ngrams:
 - - main
   - three
   - we
+- - mentioned
+  - are
+  - considered
 - - which
   - tarleton
   - needed
 - - tarleton
   - replied
   - which
-- - mentioned
-  - are
-  - considered
-- - now
-  - been
-  - collected
 - - first
   - time
   - said
-- - those
-  - who
-  - say
 - - hour
   - why
   - would
-- - arm's
-  - length
-  - an
+- - now
+  - been
+  - collected
+- - those
+  - who
+  - say
 - - an
   - asp
   - expert
+- - arm's
+  - length
+  - an
+- - one
+  - inadvertent
+  - consequence
 - - carrying
   - an
   - asp
 - - length
   - an
   - asp
-- - one
-  - inadvertent
-  - consequence
 - - hiss
   - one
   - inadvertent
 - - one
   - working
   - scale
-- - were
-  - certain
-  - other
+- - we
+  - might
+  - mention
+- - we
+  - might
+  - mention
 - - busy
   - time
   - when
-- - some
-  - nonsense
-  - about
 - - one
   - occasion
   - tarleton
-- - about
-  - such
-  - things
-- - we
-  - might
-  - mention
-- - we
-  - might
-  - mention
-- - sat
-  - one
-  - evening
 - - pocket
   - we
   - might
-- - asp
-  - tarleton
-  - had
+- - about
+  - such
+  - things
+- - were
+  - certain
+  - other
+- - some
+  - nonsense
+  - about
+- - sat
+  - one
+  - evening
+- - three
+  - we
+  - might
 - - those
   - mentioned
   - are
 - - come
   - carrying
   - an
-- - three
-  - we
-  - might
+- - asp
+  - tarleton
+  - had
 - - second
   - call
   - this

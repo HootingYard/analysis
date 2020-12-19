@@ -11,42 +11,45 @@ ngrams:
 - - international
   - newspaper
   - dedicated
+- - quick
+  - brown
+  - fox
+- - quick
+  - brown
+  - fox
 - - national
   - newspaper
   - worthy
-- - quick
-  - brown
-  - fox
-- - quick
-  - brown
-  - fox
-- - serious
-  - national
-  - newspaper
 - - culture
   - weather
   - tv
+- - serious
+  - national
+  - newspaper
 - - business
   - culture
   - weather
 - - inferior
   - literary
   - piece
-- - same
-  - media
-  - coverage
-- - roughly
-  - divided
-  - between
 - - event
   - actually
   - occurred
+- - roughly
+  - divided
+  - between
+- - same
+  - media
+  - coverage
 - - name
   - momentarily
   - slips
 - - human
   - significance
   - today
+- - important
+  - update
+  - several
 - - lay
   - people
   - average
@@ -59,60 +62,57 @@ ngrams:
 - - too
   - eagerly
   - lapped
-- - important
-  - update
-  - several
 - - moral
   - implications
   - far
-- - whose
-  - name
-  - momentarily
 - - new
   - photographic
   - evidence
-- - drivel
-  - whose
-  - name
 - - new
   - video
   - evidence
 - - people
   - really
   - want
-- - most
-  - pertinent
-  - questions
-- - two
-  - latter
-  - schools
-- - entirely
-  - new
-  - avenues
-- - rethink
-  - many
-  - interpretation
 - - spawn
   - much
   - renewed
-- - actual
-  - jump
-  - how
+- - entirely
+  - new
+  - avenues
 - - much
   - inferior
   - literary
-- - feed
-  - much
-  - renewed
+- - whose
+  - name
+  - momentarily
 - - less
   - well
   - researched
+- - feed
+  - much
+  - renewed
+- - rethink
+  - many
+  - interpretation
+- - most
+  - pertinent
+  - questions
 - - fox
   - does
   - indeed
+- - drivel
+  - whose
+  - name
+- - actual
+  - jump
+  - how
 - - damned
   - well
   - ought
+- - two
+  - latter
+  - schools
 - - well
   - researched
   - story
@@ -125,18 +125,27 @@ ngrams:
 - - does
   - indeed
   - appear
-- - exciting
-  - times
-  - mr
-- - our
-  - mental
-  - reproduction
-- - fox
-  - jumps
-  - over
 - - dearest
   - mr
   - key
+- - exciting
+  - times
+  - mr
+- - fox
+  - jumps
+  - over
+- - our
+  - mental
+  - reproduction
+- - very
+  - real
+  - implications
+- - any
+  - serious
+  - national
+- - update
+  - several
+  - years
 - - long
   - hard
   - look
@@ -145,100 +154,91 @@ ngrams:
   - down
 - - very
   - real
-  - implications
-- - very
-  - real
   - social
-- - any
-  - serious
-  - national
-- - update
-  - several
-  - years
+- - times
+  - mr
+  - key
 - - brown
   - fox
   - did
+- - implications
+  - far
+  - too
 - - shall
   - sleep
   - little
 - - video
   - documentation
   - now
-- - now
-  - agree
-  - renders
-- - implications
-  - far
-  - too
-- - times
-  - mr
-  - key
 - - upon
   - careful
   - scrutiny
-- - documentation
-  - now
-  - published
+- - now
+  - agree
+  - renders
 - - answered
   - upon
   - careful
 - - should
   - feed
   - much
-- - sleep
-  - little
-  - while
 - - even
   - means
   - anything
-- - may
-  - hope
-  - open
+- - documentation
+  - now
+  - published
 - - more
   - specialized
   - journals
 - - several
   - years
   - ago
+- - may
+  - hope
+  - open
+- - sleep
+  - little
+  - while
 - - more
   - compelling
   - comment
 - - indeed
   - jump
   - over
-- - did
-  - indeed
-  - jump
-- - only
-  - too
-  - eagerly
 - - fox
   - did
   - indeed
+- - did
+  - indeed
+  - jump
 - - jump
   - how
   - many
+- - only
+  - too
+  - eagerly
 - - other
   - words
   - brothers
-- - must
-  - now
-  - agree
 - - light
   - could
   - possibly
+- - must
+  - now
+  - agree
 - - further
   - perhaps
   - even
+- - further
+  - light
+  - could
 - - their
   - media
   - flair
 - - eagerly
   - lapped
   - up
-- - further
-  - light
-  - could
 - - more
   - interest
   - perhaps
@@ -248,36 +248,36 @@ ngrams:
 - - where
   - any
   - serious
-- - open
-  - up
-  - entirely
 - - future
   - where
   - any
+- - open
+  - up
+  - entirely
 - - hope
   - open
   - up
 - - other
   - hand
   - see
-- - occurring
-  - will
-  - spawn
-- - 'no'
-  - further
-  - light
-- - their
-  - own
-  - opinions
-- - video
-  - give
-  - about
 - - even
   - more
   - specialized
+- - occurring
+  - will
+  - spawn
 - - even
   - more
   - compelling
+- - their
+  - own
+  - opinions
+- - 'no'
+  - further
+  - light
+- - video
+  - give
+  - about
 - - renewed
   - interest
   - will
@@ -290,12 +290,15 @@ ngrams:
 - - form
   - their
   - own
-- - has
-  - very
-  - real
 - - up
   - entirely
   - new
+- - has
+  - very
+  - real
+- - perhaps
+  - even
+  - more
 - - story
   - has
   - very
@@ -305,24 +308,21 @@ ngrams:
 - - has
   - now
   - added
-- - perhaps
-  - even
-  - more
+- - might
+  - speculate
+  - about
+- - will
+  - spawn
+  - much
 - - which
   - frankly
   - blows
 - - sic
   - which
   - frankly
-- - photographic
-  - evidence
-  - which
 - - will
   - force
   - us
-- - might
-  - speculate
-  - about
 story:
   date: 2017-01-13
   id: 2017-01-13-the-fox-and-the-dog-an-important-update

@@ -8,27 +8,30 @@ ngrams:
 - - sheridan
   - le
   - fanu
+- - jacking
+  - toilet
+  - tissue
 - - flumes
   - pigeons
   - gutta
 - - tectonic
   - plates
   - anteaters
-- - jacking
-  - toilet
-  - tissue
-- - pigeons
-  - gutta
-  - percha
 - - verses
   - willy
   - nilly
+- - pigeons
+  - gutta
+  - percha
 - - percha
   - tectonic
   - plates
 - - aloof
   - critical
   - detachment
+- - rigs
+  - shoeburyness
+  - herons
 - - toilet
   - tissue
   - bales
@@ -36,56 +39,56 @@ ngrams:
   - aloof
   - critical
 - - bales
-  - bales
-  - baxter's
-- - bales
   - baxter's
   - invigorating
-- - rigs
-  - shoeburyness
-  - herons
+- - bales
+  - bales
+  - baxter's
 - - rising
   - lobsters
   - futurist
 - - boxer
   - rising
   - lobsters
+- - publishers
+  - dub
+  - hefty
 - - baxter's
   - invigorating
   - fluid
 - - preposterous
   - mancunian
   - polymath
-- - publishers
-  - dub
-  - hefty
-- - j
-  - sheridan
-  - le
-- - anteaters
-  - william
-  - betty
 - - dub
   - hefty
   - apparatus
 - - bank
   - intellectual
   - ferment
-- - scharnhorst
-  - inexplicable
-  - flapping
 - - pips
   - sledgehammer
   - wit
+- - j
+  - sheridan
+  - le
 - - oil
   - rigs
   - shoeburyness
+- - scharnhorst
+  - inexplicable
+  - flapping
+- - anteaters
+  - william
+  - betty
 - - feast
   - oil
   - rigs
 - - straw
   - bales
   - bales
+- - car
+  - jacking
+  - toilet
 - - plates
   - anteaters
   - william
@@ -95,9 +98,6 @@ ngrams:
 - - h
   - l
   - mencken
-- - car
-  - jacking
-  - toilet
 - - director
   - george
   - lucas
@@ -113,60 +113,60 @@ ngrams:
 - - park
   - benches
   - clutching
-- - boy
-  - scouts
-  - dirigibles
-- - futurist
-  - boy
-  - scouts
-- - municipal
-  - park
-  - benches
-- - shoeburyness
-  - herons
-  - space
-- - flimsy
-  - poetry
-  - pamphlets
-- - lobsters
-  - futurist
-  - boy
 - - literary
   - types
   - prefer
-- - westphalia
-  - various
-  - paps
-- - dick
-  - van
-  - dyke
+- - municipal
+  - park
+  - benches
+- - boy
+  - scouts
+  - dirigibles
 - - fruit
   - pips
   - sledgehammer
+- - futurist
+  - boy
+  - scouts
 - - mencken
   - fruit
   - pips
-- - van
-  - dyke
-  - faith
 - - l
   - mencken
   - fruit
-- - herons
+- - lobsters
+  - futurist
+  - boy
+- - flimsy
+  - poetry
+  - pamphlets
+- - westphalia
+  - various
+  - paps
+- - shoeburyness
+  - herons
   - space
-  - travel
 - - weekly
   - magazine
   - farmers
+- - herons
+  - space
+  - travel
+- - dick
+  - van
+  - dyke
+- - van
+  - dyke
+  - faith
 - - lengthy
   - section
   - entitled
-- - surrealist
-  - automatic
-  - writing
 - - dyke
   - faith
   - hope
+- - surrealist
+  - automatic
+  - writing
 - - section
   - entitled
   - mental
@@ -179,45 +179,45 @@ ngrams:
 - - single
   - poem
   - nestled
-- - high
-  - german
-  - blunkett
-- - earth
-  - theory
-  - gloves
 - - child's
   - eye
   - view
+- - high
+  - german
+  - blunkett
 - - film
   - director
   - george
-- - left
-  - bank
-  - intellectual
+- - earth
+  - theory
+  - gloves
 - - poem
   - nestled
   - within
+- - left
+  - bank
+  - intellectual
 - - same
   - hairstyles
   - eating
-- - six
-  - hundred
-  - pages
 - - air
   - balloons
   - fish
 - - willy
   - nilly
   - without
+- - six
+  - hundred
+  - pages
 - - publishers
   - get
   - upset
-- - hot
-  - air
-  - balloons
 - - nilly
   - without
   - care
+- - hot
+  - air
+  - balloons
 - - untethered
   - brain
   - gone
@@ -254,87 +254,90 @@ ngrams:
 - - le
   - fanu
   - now
+- - languishing
+  - upon
+  - municipal
 - - its
   - voluminous
   - footnotes
-- - like
-  - stamp
-  - collecting
 - - cottingley
   - fairies
   - other
 - - fairies
   - other
   - fairies
-- - fanu
-  - now
-  - listen
-- - languishing
-  - upon
-  - municipal
-- - casting
-  - any
-  - light
-- - entirety
-  - where
-  - oh
 - - any
   - sense
   - whatsoever
 - - upon
   - municipal
   - park
-- - anthony
-  - burgess
-  - could
+- - entirety
+  - where
+  - oh
+- - casting
+  - any
+  - light
+- - fanu
+  - now
+  - listen
+- - like
+  - stamp
+  - collecting
 - - burgess
   - could
   - babble
-- - soul
-  - yet
-  - these
+- - anthony
+  - burgess
+  - could
 - - more
   - impenetrable
   - gallic
+- - soul
+  - yet
+  - these
 - - very
   - tiny
   - type
 - - while
   - being
   - repeatedly
-- - its
-  - six
-  - hundred
-- - nestled
-  - within
-  - its
-- - look
-  - alarmingly
-  - like
-- - very
-  - fat
-  - book
 - - am
   - perfectly
   - willing
+- - very
+  - fat
+  - book
+- - nestled
+  - within
+  - its
+- - its
+  - six
+  - hundred
 - - those
   - old
   - frauds
+- - look
+  - alarmingly
+  - like
 - - within
   - its
   - six
-- - some
-  - interest
-  - giving
 - - its
   - own
   - admission
+- - some
+  - interest
+  - giving
 - - acolytes
   - who
   - express
 - - fanatical
   - acolytes
   - who
+- - get
+  - upset
+  - then
 - - sounds
   - like
   - something
@@ -347,60 +350,60 @@ ngrams:
 - - over
   - two
   - hundred
-- - get
-  - upset
-  - then
 - - their
   - bosoms
   - pretending
 - - express
   - their
   - devotion
+- - might
+  - even
+  - call
 - - very
   - very
   - tiny
 - - about
   - onions
   - birdseed
-- - has
-  - read
-  - widely
-- - been
-  - following
-  - dennis
 - - repeatedly
   - beaten
   - about
-- - footnotes
-  - were
-  - penned
 - - its
   - entirety
   - where
-- - valuable
-  - insight
-  - into
-- - might
-  - even
-  - call
 - - widely
   - if
   - haphazardly
+- - has
+  - read
+  - widely
+- - valuable
+  - insight
+  - into
+- - footnotes
+  - were
+  - penned
 - - out
   - verses
   - willy
-- - knocking
-  - out
-  - verses
 - - where
   - oh
   - where
-- - mancunian
-  - polymath
-  - will
+- - been
+  - following
+  - dennis
+- - knocking
+  - out
+  - verses
 - - books
   - about
   - onions
+- - mancunian
+  - polymath
+  - will
+- - automatic
+  - writing
+  - if
 - - time
   - lying
   - down
@@ -410,24 +413,21 @@ ngrams:
 - - exciting
   - moment
   - when
-- - automatic
-  - writing
-  - if
 - - essay
   - itself
   - if
-- - magnifying
-  - glass
-  - they
 - - voluminous
   - footnotes
   - there
-- - dressing
-  - like
-  - him
-- - alarmingly
-  - like
-  - him
+- - magnifying
+  - glass
+  - they
+- - we
+  - literary
+  - types
+- - read
+  - widely
+  - if
 story:
   date: 2009-11-12
   id: 2009-11-12-new-beerpint-book

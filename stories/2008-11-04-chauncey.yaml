@@ -2,24 +2,24 @@ ngrams:
 - - andy
   - burnham
   - chat
-- - horseback
-  - wreaking
-  - mayhem
 - - atavistic
   - impulse
   - impelled
+- - horseback
+  - wreaking
+  - mayhem
 - - hidey
   - hey
   - ho
 - - barbaric
   - bloodlust
   - decisively
-- - unleash
-  - pitiless
-  - violence
 - - biographical
   - dictionary
   - chauncey
+- - unleash
+  - pitiless
+  - violence
 - - snack
   - zone
   - fought
@@ -47,57 +47,57 @@ ngrams:
 - - magnificently
   - hairy
   - beard
+- - barn
+  - hey
+  - ho
 - - west
   - leaving
   - ruination
 - - chauncey
   - eventually
   - succumbed
-- - barn
-  - hey
-  - ho
-- - england
-  - family
-  - destined
-- - asiatic
-  - song
-  - contest
 - - dictionary
   - chauncey
   - eventually
+- - asiatic
+  - song
+  - contest
+- - england
+  - family
+  - destined
 - - heart
   - sprightly
   - numbers
 - - slaughtered
   - animals
   - usually
-- - horde
-  - throughout
-  - history
 - - times
   - wreaking
   - ruination
-- - barbarian
-  - horde
-  - whose
+- - horde
+  - throughout
+  - history
 - - composition
   - usually
   - taking
 - - past
   - chauncey
   - boarded
+- - barbarian
+  - horde
+  - whose
 - - instilling
   - camaraderie
   - among
 - - destroyed
   - village
   - somewhere
-- - white
-  - star
-  - line
 - - inappropriate
   - continent
   - thus
+- - white
+  - star
+  - line
 - - big
   - battered
   - bits
@@ -107,18 +107,18 @@ ngrams:
 - - subject
   - matter
   - episodes
-- - ho
-  - boys
-  - let
-- - ho
-  - boys
-  - let
-- - ho
-  - boys
-  - let
 - - horde
   - swept
   - across
+- - ho
+  - boys
+  - let
+- - ho
+  - boys
+  - let
+- - ho
+  - boys
+  - let
 - - weedy
   - chauncey
   - himself
@@ -131,15 +131,15 @@ ngrams:
 - - wealthy
   - new
   - england
-- - horde
-  - whose
-  - name
 - - chauncey
   - himself
   - however
 - - few
   - reference
   - books
+- - horde
+  - whose
+  - name
 - - new
   - england
   - family
@@ -155,30 +155,36 @@ ngrams:
 - - big
   - fat
   - book
-- - only
-  - bloodthirsty
-  - thugs
 - - fat
   - book
   - called
-- - choose
-  - only
+- - only
   - bloodthirsty
+  - thugs
 - - boston
   - brahmin
   - than
+- - choose
+  - only
+  - bloodthirsty
 - - animals
   - usually
   - those
-- - yet
-  - again
-  - dozens
-- - let
-  - us
-  - pillage
 - - pitiless
   - violence
   - even
+- - yet
+  - again
+  - dozens
+- - sprightly
+  - numbers
+  - such
+- - let
+  - us
+  - pillage
+- - swish
+  - hotel
+  - where
 - - let
   - us
   - burn
@@ -191,15 +197,9 @@ ngrams:
 - - boys
   - let
   - us
-- - sprightly
-  - numbers
-  - such
 - - certainly
   - knew
   - how
-- - swish
-  - hotel
-  - where
 - - let
   - us
   - cast
@@ -233,66 +233,63 @@ ngrams:
 - - us
   - burn
   - down
-- - some
-  - godforsaken
-  - village
 - - bloodthirsty
   - thugs
   - who
+- - some
+  - godforsaken
+  - village
 - - barbarian
   - chieftains
   - who
 - - chieftains
   - who
   - swept
-- - suffered
-  - 'no'
-  - mutinies
-- - thugs
-  - who
-  - sat
-- - asia
-  - picking
-  - up
-- - picking
-  - up
-  - ruffians
-- - new
-  - england
-  - upon
-- - their
-  - wake
-  - chauncey
 - - well
   - upon
   - horses
-- - horse
-  - some
-  - sort
+- - new
+  - england
+  - upon
+- - suffered
+  - 'no'
+  - mutinies
+- - asia
+  - picking
+  - up
 - - their
-  - sweeping
-  - progress
-- - some
-  - weeks
-  - later
-- - distributed
-  - among
-  - them
+  - wake
+  - chauncey
+- - picking
+  - up
+  - ruffians
+- - thugs
+  - who
+  - sat
 - - sat
   - well
   - upon
+- - their
+  - sweeping
+  - progress
+- - distributed
+  - among
+  - them
+- - horse
+  - some
+  - sort
+- - some
+  - weeks
+  - later
+- - swept
+  - across
+  - them
+- - swept
+  - across
+  - them
 - - who
   - swept
   - across
-- - swept
-  - across
-  - them
-- - swept
-  - across
-  - them
-- - been
-  - stashed
-  - soon
 - - article
   - about
   - chauncey
@@ -308,48 +305,51 @@ ngrams:
 - - socialite
   - when
   - giving
-- - their
-  - subject
-  - matter
 - - when
   - giving
   - orders
-- - charged
-  - terrified
-  - out
+- - their
+  - subject
+  - matter
+- - been
+  - stashed
+  - soon
 - - when
   - chauncey
   - felt
+- - charged
+  - terrified
+  - out
 - - browse
   - through
   - them
-- - who
-  - sat
-  - well
 - - library
   - books
   - into
-- - sounded
-  - more
-  - like
-- - they
-  - wrought
-  - mayhem
+- - who
+  - sat
+  - well
 - - across
   - them
   - again
 - - point
   - when
   - chauncey
+- - sounded
+  - more
+  - like
 - - across
   - them
   - yet
 - - they
-  - laid
-  - waste
+  - wrought
+  - mayhem
 - - them
   - yet
   - again
+- - they
+  - laid
+  - waste
 - - would
   - sprawl
   - wearing
@@ -362,57 +362,57 @@ ngrams:
 - - appears
   - there
   - came
-- - plains
-  - across
-  - which
 - - learn
   - about
   - such
 - - an
   - inappropriate
   - continent
+- - plains
+  - across
+  - which
 - - such
   - things
   - been
 - - has
   - been
   - argued
-- - chieftain
-  - chauncey
-  - had
-- - barbarian
-  - horde
-  - had
 - - drummed
   - into
   - him
-- - horde
-  - had
-  - swept
-- - pop
-  - charts
-  - had
 - - one
   - called
   - chauncey
 - - one
   - vile
   - morning
-- - chap
-  - this
-  - morning
-- - which
-  - might
-  - catch
-- - reference
-  - books
+- - chieftain
+  - chauncey
   - had
-- - anything
-  - which
-  - might
+- - barbarian
+  - horde
+  - had
 - - eurovision
   - or
   - asiatic
+- - chap
+  - this
+  - morning
+- - horde
+  - had
+  - swept
+- - which
+  - might
+  - catch
+- - pop
+  - charts
+  - had
+- - banking
+  - sector
+  - but
+- - anything
+  - which
+  - might
 story:
   date: 2008-11-04
   id: 2008-11-04-chauncey

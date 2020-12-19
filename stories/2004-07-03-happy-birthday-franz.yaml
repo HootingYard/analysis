@@ -5,9 +5,6 @@ ngrams:
 - - slower
   - rate
   - secondly
-- - horace
-  - fletcher
-  - '-'
 - - pallid
   - neurasthenic
   - wreck
@@ -23,33 +20,36 @@ ngrams:
 - - blindness
   - john
   - dalton
-- - john
-  - dalton
-  - '-'
-- - henry
-  - james
-  - incidentally
 - - happy
   - birthday
   - franz
+- - henry
+  - james
+  - incidentally
 - - john
   - d
   - rockefeller
 - - liquid
   - goo
   - means
-- - included
-  - john
-  - d
 - - subject
   - extraordinary
   - facts
-- - birthday
-  - franz
-  - today
+- - included
+  - john
+  - d
+- - horace
+  - fletcher
+  - '-'
 - - table
   - manners
   - trying
+- - birthday
+  - franz
+  - today
+- - john
+  - dalton
+  - '-'
 - - each
   - tooth
   - horace
@@ -65,27 +65,27 @@ ngrams:
 - - mr
   - k
   - although
-- - st
-  - birthday
-  - two
 - - right
   - mr
   - dalton
-- - two
-  - hundred
-  - miles
 - - mr
   - kafka
   - right
 - - kafka
   - right
   - mr
-- - years
-  - became
-  - deluded
 - - left
   - mr
   - kafka
+- - st
+  - birthday
+  - two
+- - two
+  - hundred
+  - miles
+- - years
+  - became
+  - deluded
 - - find
   - quite
   - arresting

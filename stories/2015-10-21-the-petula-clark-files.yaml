@@ -17,24 +17,39 @@ ngrams:
 - - manly
   - jack
   - hawkins
-- - waves
-  - crashed
-  - relentlessly
+- - secure
+  - storage
+  - facility
+- - secure
+  - storage
+  - facility
 - - amateur
   - electrician
   - walter
-- - secure
-  - storage
-  - facility
-- - secure
-  - storage
-  - facility
+- - waves
+  - crashed
+  - relentlessly
 - - blazing
   - summer
   - morn
 - - efficient
   - storage
   - method
+- - petula
+  - clark
+  - files
+- - petula
+  - clark
+  - files
+- - petula
+  - clark
+  - files
+- - petula
+  - clark
+  - files
+- - petula
+  - clark
+  - files
 - - petula
   - clark
   - underneath
@@ -44,30 +59,12 @@ ngrams:
 - - remote
   - secure
   - storage
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
 - - eat
   - celebratory
   - choc
 - - attack
   - savagely
   - anybody
-- - press
-  - clippings
-  - related
 - - clark
   - press
   - clipping
@@ -77,12 +74,12 @@ ngrams:
 - - clark
   - files
   - remain
+- - press
+  - clippings
+  - related
 - - petula
   - clark
   - matters
-- - electrician
-  - walter
-  - mad
 - - clark
   - files
   - deep
@@ -92,21 +89,24 @@ ngrams:
 - - petula
   - clark
   - press
+- - electrician
+  - walter
+  - mad
 - - files
   - remain
   - safe
+- - buff
+  - cardboard
+  - folders
+- - buff
+  - cardboard
+  - folders
+- - buff
+  - cardboard
+  - folders
 - - petula
   - clark
   - inside
-- - buff
-  - cardboard
-  - folders
-- - buff
-  - cardboard
-  - folders
-- - buff
-  - cardboard
-  - folders
 - - asking
   - walter
   - mad
@@ -122,33 +122,33 @@ ngrams:
 - - ice
   - cream
   - kiosk
-- - six
-  - press
-  - clippings
-- - desk
-  - drawer
-  - outside
 - - savagely
   - anybody
   - else
+- - desk
+  - drawer
+  - outside
 - - writing
   - petula
   - clark
+- - six
+  - press
+  - clippings
 - - including
   - walter
   - mad
 - - cardboard
   - folders
   - close
+- - crashed
+  - relentlessly
+  - against
 - - mad
   - saving
   - half
 - - else
   - including
   - walter
-- - crashed
-  - relentlessly
-  - against
 - - lost
   - forever
   - hence
@@ -185,12 +185,12 @@ ngrams:
 - - most
   - newspaper
   - photographs
-- - following
-  - few
-  - months
 - - speed
   - while
   - wearing
+- - following
+  - few
+  - months
 - - days
   - later
   - tucked
@@ -209,15 +209,15 @@ ngrams:
 - - broke
   - our
   - contented
+- - never
+  - particularly
+  - interested
 - - our
   - contented
   - silence
 - - clark
   - looking
   - back
-- - never
-  - particularly
-  - interested
 - - sound
   - once
   - home
@@ -233,33 +233,33 @@ ngrams:
 - - usually
   - did
   - stop
-- - minutes
-  - each
-  - way
 - - more
   - efficient
   - storage
 - - petula
   - clark
   - then
-- - three
-  - years
-  - later
+- - minutes
+  - each
+  - way
 - - then
   - lived
   - announcing
+- - three
+  - years
+  - later
 - - some
   - fairly
   - stout
 - - very
   - much
   - depends
-- - mad
-  - has
-  - hatched
 - - years
   - passed
   - before
+- - mad
+  - has
+  - hatched
 - - walter
   - mad
   - has
@@ -269,99 +269,99 @@ ngrams:
 - - press
   - clipping
   - 'no'
-- - did
-  - stop
-  - 'off'
 - - then
   - eat
   - while
+- - did
+  - stop
+  - 'off'
 - - spent
   - far
   - more
 - - shall
   - never
   - know
-- - some
-  - days
-  - later
 - - more
   - years
   - passed
-- - photographs
-  - themselves
-  - were
+- - some
+  - days
+  - later
 - - heard
   - many
   - more
-- - 'no'
-  - great
-  - interest
 - - walter
   - mad
   - if
 - - mad
   - if
   - wolves
-- - complete
-  - about
-  - three
+- - photographs
+  - themselves
+  - were
+- - 'no'
+  - great
+  - interest
 - - example
   - thinking
   - about
-- - cuttings
-  - all
-  - five
+- - complete
+  - about
+  - three
 - - facility
   - we
   - drove
-- - can
-  - she
-  - swim
+- - cuttings
+  - all
+  - five
 - - yet
   - complete
   - about
-- - continued
-  - can
-  - she
-- - expect
-  - she
-  - can
 - - lost
   - all
   - interest
-- - were
-  - most
-  - newspaper
-- - many
-  - more
-  - years
-- - she
-  - can
-  - 'yes'
 - - more
   - than
   - once
+- - many
+  - more
+  - years
+- - can
+  - she
+  - swim
 - - while
   - staring
   - out
+- - expect
+  - she
+  - can
+- - continued
+  - can
+  - she
+- - were
+  - most
+  - newspaper
 - - these
   - were
   - illustrated
+- - she
+  - can
+  - 'yes'
+- - walter
+  - mad
+  - so
 - - which
   - petula
   - clark
 - - choc
   - ice
   - which
-- - walter
-  - mad
-  - so
-- - about
-  - three
-  - years
 - - am
   - 'no'
   - expert
+- - about
+  - three
+  - years
 - - wolves
   - are
   - able
@@ -371,27 +371,27 @@ ngrams:
 - - we
   - drove
   - back
-- - shop
-  - which
-  - took
-- - via
-  - an
-  - ice
-- - an
-  - ice
-  - cream
 - - one
   - blazing
   - summer
 - - we
   - digested
   - our
+- - via
+  - an
+  - ice
 - - wolf
   - this
   - saddened
+- - an
+  - ice
+  - cream
 - - eventually
   - one
   - blazing
+- - shop
+  - which
+  - took
 - - wolves
   - eventually
   - one

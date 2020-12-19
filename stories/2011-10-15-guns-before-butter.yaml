@@ -8,6 +8,9 @@ ngrams:
 - - spoons
   - stove
   - utensils
+- - oiled
+  - broom
+  - canned
 - - beef
   - dried
   - beeswax
@@ -17,15 +20,6 @@ ngrams:
 - - dates
   - dippers
   - dishes
-- - oiled
-  - broom
-  - canned
-- - lemons
-  - liniment
-  - lunch
-- - comb
-  - compass
-  - condensed
 - - broom
   - canned
   - goods
@@ -35,222 +29,228 @@ ngrams:
 - - butcher
   - lemons
   - liniment
+- - lemons
+  - liniment
+  - lunch
+- - comb
+  - compass
+  - condensed
+- - pens
+  - pepper
+  - pickles
 - - strings
   - slippers
   - soap
 - - harness
   - examine
   - hatchet
+- - towels
+  - twine
+  - vinegar
+- - k
+  - buttered
+  - toast
+- - drawers
+  - dried
+  - fruits
 - - beeswax
   - bible
   - blacking
 - - brush
   - blankets
   - boxes
-- - towels
-  - twine
-  - vinegar
-- - pens
-  - pepper
-  - pickles
-- - drawers
-  - dried
-  - fruits
 - - dutch
   - oven
   - envelopes
 - - goods
   - chalk
   - cheese
-- - bottle
-  - knives
-  - sheath
+- - spade
+  - spoons
+  - stove
+- - bloodied
+  - lip
+  - luckily
 - - dried
   - beeswax
   - bible
 - - blankets
   - boxes
   - bread
-- - k
-  - buttered
-  - toast
-- - spade
-  - spoons
-  - stove
-- - portable
-  - bottle
+- - bottle
   - knives
-- - bloodied
-  - lip
-  - luckily
+  - sheath
 - - dried
   - fruits
   - dutch
-- - fruits
-  - dutch
-  - oven
 - - plates
   - shirts
   - shoes
+- - fruits
+  - dutch
+  - oven
+- - portable
+  - bottle
+  - knives
 - - tents
   - tent
   - poles
-- - stamps
-  - postal
-  - cards
 - - safe
   - marline
   - meal
 - - rope
   - rubber
   - blanket
-- - ink
-  - portable
-  - bottle
-- - portfolio
-  - postage
-  - stamps
+- - stamps
+  - postal
+  - cards
 - - rubber
   - blanket
   - rubber
-- - ferocious
-  - bears
-  - frantically
-- - postal
-  - cards
-  - rope
 - - catch
   - thee
   - perch
-- - cards
+- - postal
+  - cards
   - rope
-  - rubber
+- - portfolio
+  - postage
+  - stamps
 - - blanket
   - rubber
   - coat
-- - pot
-  - comb
-  - compass
-- - rubber
-  - coat
+- - ferocious
+  - bears
+  - frantically
+- - cards
+  - rope
   - rubber
-- - pickles
-  - pins
-  - portfolio
 - - chambers
   - fully
   - loaded
+- - pickles
+  - pins
+  - portfolio
+- - rubber
+  - coat
+  - rubber
+- - pot
+  - comb
+  - compass
 - - pepper
   - pickles
   - pins
-- - postage
-  - stamps
-  - postal
-- - minor
-  - variants
-  - special
+- - ink
+  - portable
+  - bottle
 - - molasses
   - money
   - change
-- - tent
-  - poles
-  - tent
+- - postage
+  - stamps
+  - postal
 - - fish
   - salt
   - pork
-- - variants
+- - tent
+  - poles
+  - tent
+- - minor
+  - variants
   - special
-  - k
-- - special
-  - k
-  - buttered
 - - plate
   - bowl
   - nutcracker
-- - poles
-  - tent
-  - pins
 - - twine
   - vinegar
   - watch
+- - special
+  - k
+  - buttered
+- - variants
+  - special
+  - k
 - - late
   - valet
   - bless
-- - terrible
-  - indigestion
-  - thereafter
-- - pins
-  - portfolio
-  - postage
 - - bacon
   - barometer
   - pocket
-- - knives
-  - sheath
-  - table
+- - poles
+  - tent
+  - pins
+- - pins
+  - portfolio
+  - postage
+- - terrible
+  - indigestion
+  - thereafter
 - - needs
   - one's
   - guns
+- - knives
+  - sheath
+  - table
 - - salt
   - salt
   - fish
 - - salt
   - fish
   - salt
-- - doing
-  - conjuring
-  - tricks
 - - compass
   - condensed
   - milk
-- - sugar
-  - tea
-  - tents
-- - taking
-  - religious
-  - orders
 - - condensed
   - milk
   - cups
+- - doing
+  - conjuring
+  - tricks
+- - taking
+  - religious
+  - orders
 - - coat
   - rubber
   - boots
-- - bags
-  - sugar
+- - sugar
   - tea
-- - bag
-  - beef
-  - dried
-- - taking
-  - pot
-  - shots
+  - tents
 - - less
   - exacting
   - activity
+- - taking
+  - pot
+  - shots
+- - bag
+  - beef
+  - dried
+- - bags
+  - sugar
+  - tea
 - - tea
   - tents
   - tent
-- - bears
-  - became
-  - cowardly
 - - paper
   - collars
   - pens
+- - bears
+  - became
+  - cowardly
 - - following
   - gould's
   - system
 - - ferocious
   - bears
   - became
+- - sheath
+  - table
+  - pocket
 - - butter
   - dish
   - second
 - - four
   - essential
   - items
-- - sheath
-  - table
-  - pocket
 - - saw
   - looming
   - ahead
@@ -263,102 +263,102 @@ ngrams:
 - - pails
   - paper
   - paper
-- - firearms
-  - while
-  - chewing
 - - key
   - pails
   - paper
-- - last
-  - packed
-  - butter
+- - firearms
+  - while
+  - chewing
 - - physiological
   - reason
   - why
+- - last
+  - packed
+  - butter
 - - few
   - yards
   - beyond
-- - two
-  - maps
-  - matches
 - - brand
   - new
   - dictionary
+- - two
+  - maps
+  - matches
 - - patch
   - between
   - myself
-- - arms
-  - torn
-  - 'off'
 - - hiking
   - trip
   - first
+- - arms
+  - torn
+  - 'off'
 - - mucilage
   - immediately
   - after
+- - guns
+  - before
+  - butter
+- - guns
+  - before
+  - butter
+- - butter
+  - before
+  - guns
+- - guns
+  - before
+  - butter
+- - guns
+  - before
+  - butter
+- - butter
+  - before
+  - guns
 - - putting
   - guns
   - before
-- - guns
-  - before
-  - butter
-- - guns
-  - before
-  - butter
-- - butter
-  - before
-  - guns
-- - guns
-  - before
-  - butter
-- - guns
-  - before
-  - butter
-- - butter
-  - before
-  - guns
 - - immediately
   - after
   - guns
 - - felt
   - very
   - fortunate
-- - section
-  - just
-  - above
 - - guns
   - over
   - butter
 - - toppled
   - over
   - giving
-- - because
-  - last
-  - packed
-- - before
-  - taking
-  - religious
+- - section
+  - just
+  - above
 - - indigestion
   - thereafter
   - such
 - - exacting
   - activity
   - such
-- - learned
-  - through
-  - experience
+- - before
+  - taking
+  - religious
 - - new
   - dictionary
   - rather
+- - learned
+  - through
+  - experience
+- - because
+  - last
+  - packed
 - - text
   - just
   - above
-- - show
-  - how
-  - right
 - - page
   - where
   - guns
+- - show
+  - how
+  - right
 - - same
   - every
   - morning
@@ -368,12 +368,12 @@ ngrams:
 - - breakfast
   - table
   - before
-- - put
-  - guns
-  - before
 - - very
   - fortunate
   - indeed
+- - put
+  - guns
+  - before
 - - put
   - butter
   - before
@@ -395,30 +395,30 @@ ngrams:
 - - then
   - painstakingly
   - tried
-- - then
-  - following
-  - gould's
-- - foot
-  - even
-  - going
-- - guns
-  - then
-  - following
 - - g
   - rather
   - than
 - - dictionary
   - rather
   - than
-- - leaf
-  - back
-  - through
+- - foot
+  - even
+  - going
+- - then
+  - following
+  - gould's
+- - guns
+  - then
+  - following
 - - butter
   - even
   - though
 - - rather
   - than
   - simply
+- - leaf
+  - back
+  - through
 - - some
   - butter
   - early
@@ -431,15 +431,18 @@ ngrams:
 - - any
   - old
   - order
-- - example
-  - summon
-  - him
 - - up
   - shrieking
   - oddly
 - - wake
   - up
   - shrieking
+- - example
+  - summon
+  - him
+- - before
+  - butter
+  - even
 - - up
   - rustic
   - lore
@@ -449,9 +452,6 @@ ngrams:
 - - 'no'
   - longer
   - afford
-- - before
-  - butter
-  - even
 - - picked
   - up
   - rustic
@@ -461,45 +461,42 @@ ngrams:
 - - then
   - leaf
   - back
-- - edict
-  - drummed
-  - into
-- - military
-  - chaplains
-  - were
-- - military
-  - chaplains
-  - were
 - - priority
   - when
   - laying
+- - edict
+  - drummed
+  - into
 - - did
   - wonder
   - where
-- - toast
-  - when
-  - you're
+- - military
+  - chaplains
+  - were
+- - military
+  - chaplains
+  - were
 - - takes
   - priority
   - when
+- - toast
+  - when
+  - you're
 - - still
   - occasionally
   - has
-- - got
-  - 'no'
-  - further
 - - garden
   - gate
   - when
+- - got
+  - 'no'
+  - further
 - - cut
   - out
   - guns
 - - will
   - usually
   - handle
-- - toast
-  - checking
-  - they
 - - might
   - add
   - some
@@ -509,12 +506,18 @@ ngrams:
 - - when
   - you're
   - going
-- - chaplains
-  - were
-  - indeed
+- - toast
+  - checking
+  - they
 - - thursday
   - morning
   - when
+- - chaplains
+  - were
+  - indeed
+- - net
+  - result
+  - would
 - - were
   - indeed
   - correct
@@ -524,21 +527,18 @@ ngrams:
 - - called
   - into
   - question
-- - net
-  - result
-  - would
 - - never
   - butter
   - your
 - - into
   - question
   - though
+- - mind
+  - clearly
+  - there
 - - always
   - struck
   - me
-- - which
-  - takes
-  - priority
 story:
   date: 2011-10-15
   id: 2011-10-15-guns-before-butter

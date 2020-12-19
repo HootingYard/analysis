@@ -11,21 +11,21 @@ ngrams:
 - - brown
   - fox
   - jumps
+- - quick
+  - brown
+  - fox
+- - quick
+  - brown
+  - fox
+- - quick
+  - brown
+  - fox
+- - quick
+  - brown
+  - fox
 - - standard
   - horsey
   - noises
-- - quick
-  - brown
-  - fox
-- - quick
-  - brown
-  - fox
-- - quick
-  - brown
-  - fox
-- - quick
-  - brown
-  - fox
 - - huge
   - locomotives
   - thundered
@@ -38,21 +38,21 @@ ngrams:
 - - pearl
   - white
   - star
-- - individual
-  - horse
-  - spots
 - - station
   - master
   - holding
+- - individual
+  - horse
+  - spots
+- - whatever
+  - dogs
+  - dream
 - - thundered
   - implacably
   - towards
 - - audience
   - knows
   - deep
-- - whatever
-  - dogs
-  - dream
 - - fat
   - bulk
   - oh
@@ -62,30 +62,30 @@ ngrams:
 - - lazy
   - fictional
   - dog
-- - astonishingly
-  - each
-  - individual
 - - sight
   - having
   - scurried
+- - astonishingly
+  - each
+  - individual
 - - found
   - herself
   - tied
-- - each
-  - individual
-  - horse
 - - make
   - standard
   - horsey
+- - each
+  - individual
+  - horse
+- - horses
+  - make
+  - standard
 - - sometimes
   - found
   - herself
 - - having
   - scurried
   - under
-- - horses
-  - make
-  - standard
 - - never
   - gratuitously
   - kill
@@ -104,42 +104,42 @@ ngrams:
 - - knows
   - deep
   - down
-- - end
-  - here
-  - leaving
-- - deep
-  - down
-  - don't
 - - shifting
   - its
   - fat
+- - end
+  - here
+  - leaving
 - - its
   - fat
   - bulk
+- - deep
+  - down
+  - don't
 - - dog
   - down
   - merely
-- - implacably
-  - towards
-  - her
-- - towards
-  - her
-  - except
 - - its
   - rider
   - indeed
+- - implacably
+  - towards
+  - her
 - - its
   - own
   - lassitude
-- - silver
-  - screen
-  - who
 - - far
   - far
   - away
+- - towards
+  - her
+  - except
 - - merely
   - its
   - own
+- - silver
+  - screen
+  - who
 - - 'no'
   - ropes
   - tie

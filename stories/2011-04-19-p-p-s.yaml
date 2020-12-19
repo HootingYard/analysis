@@ -1,22 +1,22 @@
 ngrams:
-- - mincing
-  - unmanly
-  - fop
 - - effeminate
   - prancing
   - ninny
+- - mincing
+  - unmanly
+  - fop
 - - imperial
   - mission
   - ps
 - - stained
   - outer
   - flap
-- - w
-  - l
-  - george
 - - british
   - imperial
   - mission
+- - w
+  - l
+  - george
 - - ps
   - dr
   - anderson
@@ -38,12 +38,12 @@ ngrams:
 - - p
   - s
   - yesterday
-- - night
-  - drinking
-  - ale
 - - requires
   - further
   - study
+- - night
+  - drinking
+  - ale
 - - mills
   - dead
   - since
@@ -59,24 +59,24 @@ ngrams:
 - - last
   - night
   - drinking
-- - late
-  - last
-  - night
 - - l
   - george
   - any
+- - late
+  - last
+  - night
 - - girly
   - like
   - case
 - - any
   - man
   - exhibiting
-- - george
-  - any
-  - man
 - - man
   - exhibiting
   - such
+- - george
+  - any
+  - man
 story:
   date: 2011-04-19
   id: 2011-04-19-p-p-s

@@ -1,28 +1,25 @@
 ngrams:
-- - reasonably
-  - moderate
-  - rate
 - - ha
   - ha
   - ha
+- - reasonably
+  - moderate
+  - rate
 - - private
   - cabin
   - interestingly
-- - damp
-  - thursday
-  - afternoon
-- - somewhat
-  - damp
-  - thursday
-- - pudding
-  - discussion
-  - held
 - - crystal
   - clear
   - snippy
-- - clear
-  - snippy
-  - '-'
+- - pudding
+  - discussion
+  - held
+- - somewhat
+  - damp
+  - thursday
+- - damp
+  - thursday
+  - afternoon
 - - appearance
   - usually
   - fairly
@@ -38,6 +35,9 @@ ngrams:
 - - pudding
   - please
   - call
+- - clear
+  - snippy
+  - '-'
 - - high
   - seas
   - almost
@@ -80,12 +80,12 @@ ngrams:
 - - absolutely
   - 'no'
   - idea
-- - made
-  - up
-  - woven
 - - them
   - perhaps
   - once
+- - made
+  - up
+  - woven
 - - pudding
   - will
   - make
@@ -98,21 +98,21 @@ ngrams:
 - - resembles
   - an
   - egg
+- - am
+  - talking
+  - about
 - - an
   - appearance
   - usually
+- - pudding
+  - discussion
+  - this
 - - has
   - been
   - roving
 - - tape
   - has
   - been
-- - pudding
-  - discussion
-  - this
-- - am
-  - talking
-  - about
 - - has
   - been
   - kept
@@ -125,6 +125,9 @@ ngrams:
 - - make
   - an
   - appearance
+- - deployed
+  - whether
+  - or
 - - up
   - woven
   - out
@@ -137,23 +140,20 @@ ngrams:
 - - genuine
   - extract
   - from
-- - deployed
-  - whether
-  - or
 - - an
   - eventuality
   - such
+- - once
+  - or
+  - twice
 - - whole
   - cloth
   - from
-- - pudding
-  - discussion
-  - at
 - - any
   - rate
   - this
-- - discussion
-  - held
+- - pudding
+  - discussion
   - at
 story:
   date: 2013-10-28

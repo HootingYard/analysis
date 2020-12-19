@@ -11,12 +11,12 @@ ngrams:
 - - catastrophe
   - someone
   - calling
-- - drinking
-  - game
-  - involving
 - - game
   - involving
   - random
+- - drinking
+  - game
+  - involving
 - - they're
   - usually
   - meaningless
@@ -35,12 +35,12 @@ ngrams:
 - - art
   - press
   - releases
-- - someone
-  - calling
-  - themselves
 - - random
   - art
   - press
+- - someone
+  - calling
+  - themselves
 - - they're
   - used
   - pretty
@@ -53,6 +53,9 @@ ngrams:
 - - press
   - releases
   - every
+- - much
+  - randomly
+  - they're
 - - you'll
   - see
   - they're
@@ -62,15 +65,12 @@ ngrams:
 - - conclusions
   - ever
   - seem
-- - much
-  - randomly
-  - they're
-- - randomly
-  - they're
-  - just
 - - pretty
   - much
   - randomly
+- - randomly
+  - they're
+  - just
 - - beckon
   - very
   - quickly
@@ -104,12 +104,12 @@ ngrams:
 - - because
   - these
   - words
-- - calling
-  - themselves
-  - who
 - - releases
   - every
   - time
+- - calling
+  - themselves
+  - who
 - - direct
   - your
   - attention

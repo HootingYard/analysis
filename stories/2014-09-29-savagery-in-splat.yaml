@@ -8,84 +8,81 @@ ngrams:
 - - physics
   - geology
   - alchemy
+- - arithmetic
+  - rhetoric
+  - logic
 - - merchant
   - banking
   - astronomy
 - - baking
   - botany
   - chemistry
-- - arithmetic
-  - rhetoric
-  - logic
 - - unsuccessful
   - educational
   - initiative
 - - dub
   - kaspar
   - hauser
+- - comprehensive
+  - pedagogical
+  - regime
 - - bread
   - baking
   - botany
 - - botany
   - chemistry
   - religious
-- - greek
-  - bread
-  - baking
-- - comprehensive
-  - pedagogical
-  - regime
 - - entomology
   - knitting
   - forensic
-- - chemistry
-  - religious
-  - instruction
+- - greek
+  - bread
+  - baking
 - - rhetoric
   - logic
   - latin
-- - religious
+- - chemistry
+  - religious
   - instruction
-  - conspiracy
 - - knitting
   - forensic
   - medicine
-- - bristol
-  - grammar
-  - school
+- - religious
+  - instruction
+  - conspiracy
 - - theory
   - merchant
   - banking
-- - logic
-  - latin
-  - greek
+- - bristol
+  - grammar
+  - school
 - - conspiracy
   - theory
   - merchant
+- - logic
+  - latin
+  - greek
+- - instruction
+  - conspiracy
+  - theory
 - - added
   - physics
   - geology
 - - latin
   - greek
   - bread
-- - instruction
-  - conspiracy
-  - theory
-- - kindly
-  - doctor
-  - fascinated
-- - woefully
-  - inaccurate
-  - stories
 - - fame
   - spread
   - throughout
-- - spread
-  - throughout
-  - europe
+- - woefully
+  - inaccurate
+  - stories
 - - disinfectant
   - bath
   - dressed
+- - spread
+  - throughout
+  - europe
 - - remained
   - incorrigibly
   - savage
@@ -95,15 +92,15 @@ ngrams:
 - - writes
   - octavia
   - funnel
-- - pious
-  - christian
-  - child
-- - pious
-  - christian
-  - child
 - - kindly
   - doctor
-  - arrived
+  - fascinated
+- - pious
+  - christian
+  - child
+- - pious
+  - christian
+  - child
 - - child
   - remained
   - incorrigibly
@@ -116,81 +113,84 @@ ngrams:
 - - disembodied
   - voice
   - provided
+- - kindly
+  - doctor
+  - arrived
 - - help
   - ms
   - funnel
-- - comfortable
-  - splat
-  - house
-- - chew
-  - crackers
-  - countless
 - - doubt
   - tragic
   - circumstances
 - - right
   - kaspar
   - hauser
+- - chew
+  - crackers
+  - countless
+- - comfortable
+  - splat
+  - house
 - - ping
   - pong
   - during
 - - soon
   - added
   - physics
-- - amanuensis
-  - marigold
-  - chew
-- - splat
-  - house
-  - fell
-- - drive
-  - marigold
-  - chew
-- - drive
-  - marigold
-  - chew
 - - field
   - outside
   - splat
 - - successive
   - days
   - improvising
-- - marigold
-  - chew
-  - crackers
-- - marigold
-  - chew
-  - crackers
 - - days
   - improvising
   - brilliantly
+- - amanuensis
+  - marigold
+  - chew
+- - splat
+  - house
+  - fell
 - - small
   - child
   - roaring
 - - key
   - writes
   - octavia
-- - next
-  - day's
-  - entertainment
+- - drive
+  - marigold
+  - chew
+- - drive
+  - marigold
+  - chew
 - - countryside
   - filth
   - along
-- - once
-  - comfortable
-  - splat
+- - marigold
+  - chew
+  - crackers
+- - marigold
+  - chew
+  - crackers
+- - next
+  - day's
+  - entertainment
 - - passing
   - trawler
   - nor
+- - once
+  - comfortable
+  - splat
 - - ancient
   - decades
   - later
-- - tiny
-  - stricken
-  - village
 - - improvising
   - brilliantly
   - mr
+- - tiny
+  - stricken
+  - village
 - - most
   - distinguished
   - intellectuals
@@ -203,15 +203,21 @@ ngrams:
 - - days
   - crashing
   - around
-- - our
-  - bits
-  - separately
-- - muggy
-  - summer's
-  - day
 - - pedagogical
   - regime
   - over
+- - mr
+  - key
+  - writes
+- - muggy
+  - summer's
+  - day
+- - our
+  - bits
+  - separately
+- - dear
+  - mr
+  - key
 - - trundled
   - 'off'
   - towards
@@ -221,126 +227,120 @@ ngrams:
 - - our
   - double
   - act
-- - mr
-  - key
-  - writes
 - - present
   - our
   - double
-- - dear
-  - mr
-  - key
 - - than
   - feral
   - child
-- - her
-  - metaphysics
-  - arithmetic
+- - again
+  - dear
+  - mr
 - - hornets
   - too
   - still
+- - muck
+  - its
+  - gender
+- - speak
+  - two
+  - words
+- - feral
+  - child
+  - like
+- - larger
+  - town
+  - where
+- - her
+  - metaphysics
+  - arithmetic
+- - baptism
+  - she
+  - nearly
+- - adult
+  - she
+  - celebrated
 - - splat
   - her
   - fame
 - - teach
   - her
   - metaphysics
-- - baptism
+- - savage
+  - adult
   - she
-  - nearly
-- - speak
-  - two
-  - words
-- - adult
+- - pillow
+  - thereafter
   - she
-  - celebrated
-- - again
-  - dear
-  - mr
-- - witnessed
-  - her
-  - seething
-- - her
-  - fame
-  - spread
 - - she
   - nearly
   - drowned
 - - nearly
   - drowned
   - she
-- - savage
-  - adult
-  - she
+- - witnessed
+  - her
+  - seething
 - - drowned
   - she
   - entered
-- - muck
-  - its
-  - gender
-- - pillow
-  - thereafter
-  - she
-- - she
-  - died
-  - craggy
-- - feral
-  - child
-  - like
-- - sank
-  - her
-  - teeth
-- - bath
-  - dressed
-  - her
-- - thereafter
-  - she
-  - spent
-- - larger
-  - town
-  - where
-- - same
-  - two
-  - words
-- - long
-  - long
-  - life
+- - her
+  - fame
+  - spread
 - - confined
   - rather
   - than
 - - rather
   - than
   - feral
+- - she
+  - died
+  - craggy
+- - same
+  - two
+  - words
+- - bath
+  - dressed
+  - her
+- - sank
+  - her
+  - teeth
 - - grammar
   - school
   - can
-- - decades
-  - later
+- - thereafter
   - she
-- - her
-  - days
-  - crashing
-- - crashing
-  - around
-  - like
+  - spent
+- - long
+  - long
+  - life
 - - can
   - help
   - ms
-- - spent
-  - her
-  - days
+- - crashing
+  - around
+  - like
+- - decades
+  - later
+  - she
 - - spluttering
   - tot
   - who
 - - latter
   - who
   - persuaded
-- - old
-  - hooting
-  - yard
+- - her
+  - days
+  - crashing
+- - spent
+  - her
+  - days
 - - 'no'
   - doubt
   - tragic
+- - old
+  - hooting
+  - yard
 - - doctor
   - makes
   - 'no'

@@ -14,99 +14,105 @@ ngrams:
 - - storage
   - facility
   - guarded
+- - secure
+  - storage
+  - facility
+- - secure
+  - storage
+  - facility
+- - secure
+  - storage
+  - facility
+- - secure
+  - storage
+  - facility
+- - petula
+  - clark
+  - minefield
+- - petula
+  - clark
+  - minefield
+- - petula
+  - clark
+  - minefield
+- - petula
+  - clark
+  - minefield
+- - petula
+  - clark
+  - minefield
+- - petula
+  - clark
+  - minefield
+- - petula
+  - clark
+  - minefield
 - - clark
   - minefield
   - bringing
-- - secure
-  - storage
-  - facility
-- - secure
-  - storage
-  - facility
-- - secure
-  - storage
-  - facility
-- - secure
-  - storage
-  - facility
-- - amateur
-  - electrician
-  - skills
-- - petula
-  - clark
-  - minefield
-- - petula
-  - clark
-  - minefield
-- - petula
-  - clark
-  - minefield
-- - petula
-  - clark
-  - minefield
-- - petula
-  - clark
-  - minefield
-- - petula
-  - clark
-  - minefield
-- - petula
-  - clark
-  - minefield
 - - laminated
   - petula
   - clark
+- - amateur
+  - electrician
+  - skills
 - - boon
   - companion
   - walter
-- - electrical
-  - gubbins
-  - concocted
+- - petula
+  - clark
+  - files
+- - petula
+  - clark
+  - files
+- - petula
+  - clark
+  - files
+- - petula
+  - clark
+  - files
+- - remote
+  - secure
+  - storage
+- - remote
+  - secure
+  - storage
+- - remote
+  - secure
+  - storage
+- - remote
+  - secure
+  - storage
 - - bolshevik
   - ballet
   - school
-- - remote
-  - secure
-  - storage
-- - remote
-  - secure
-  - storage
-- - remote
-  - secure
-  - storage
-- - remote
-  - secure
-  - storage
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - giant
-  - cement
-  - statue
 - - laminated
   - press
   - clipping
 - - press
   - clippings
   - laminated
-- - seven
-  - customers
-  - simultaneously
+- - giant
+  - cement
+  - statue
 - - medium
   - size
   - companies
+- - electrical
+  - gubbins
+  - concocted
 - - petula
   - clark
   - singing
+- - seven
+  - customers
+  - simultaneously
+- - petula
+  - clark
+  - project
+- - petula
+  - clark
+  - project
 - - clark
   - press
   - clippings
@@ -115,61 +121,55 @@ ngrams:
   - clippings
 - - petula
   - clark
-  - project
+  - press
 - - petula
   - clark
-  - project
-- - van
-  - owner
-  - drove
+  - press
 - - moaned
   - walter
   - mad
-- - petula
-  - clark
-  - press
-- - petula
-  - clark
-  - press
-- - seven
-  - petula
-  - clark
 - - buff
   - cardboard
   - folder
-- - elderly
-  - mad
-  - uncle
-- - companion
-  - walter
-  - mad
-- - pang
-  - hill
-  - orphanage
-- - blister
-  - lane
-  - bypass
 - - seven
-  - press
-  - clippings
-- - seven
-  - press
-  - clippings
+  - petula
+  - clark
+- - van
+  - owner
+  - drove
 - - awful
   - countryside
   - weather
+- - companion
+  - walter
+  - mad
+- - seven
+  - press
+  - clippings
+- - seven
+  - press
+  - clippings
+- - elderly
+  - mad
+  - uncle
+- - blister
+  - lane
+  - bypass
 - - size
   - companies
   - imagine
+- - pang
+  - hill
+  - orphanage
 - - field
   - moaned
   - walter
-- - magnetic
-  - field
-  - moaned
 - - activities
   - seems
   - utterly
+- - magnetic
+  - field
+  - moaned
 - - walter
   - mad
   - using
@@ -182,84 +182,90 @@ ngrams:
 - - lane
   - bypass
   - past
+- - seven
+  - pointy
+  - sticks
 - - customers
   - simultaneously
   - each
 - - successfully
   - locate
   - each
-- - seven
-  - pointy
-  - sticks
 - - weather
   - once
   - laminated
+- - simultaneously
+  - each
+  - armed
+- - pointy
+  - stick
+  - six
 - - laminated
   - each
   - press
 - - each
   - press
   - clipping
-- - simultaneously
-  - each
-  - armed
-- - countryside
-  - weather
-  - once
-- - pointy
-  - stick
-  - six
-- - past
-  - half
-  - century
 - - single
   - pointy
   - stick
-- - minefield
-  - through
-  - walter
+- - countryside
+  - weather
+  - once
+- - past
+  - half
+  - century
 - - mines
   - submerged
   - just
+- - minefield
+  - through
+  - walter
 - - clark
   - minefield
   - through
 - - clark
   - minefield
   - just
-- - submerged
-  - just
-  - below
-- - pace
-  - wound
-  - down
 - - pointy
   - stick
   - each
+- - submerged
+  - just
+  - below
 - - once
   - laminated
   - each
+- - pace
+  - wound
+  - down
 - - inadvertently
   - tread
   - upon
-- - clark
-  - singing
-  - her
+- - more
+  - significant
+  - landmarks
 - - its
   - buff
   - cardboard
 - - cried
   - later
   - over
-- - more
-  - significant
-  - landmarks
-- - long
-  - last
-  - put
 - - later
   - over
   - tea
+- - clark
+  - singing
+  - her
+- - long
+  - last
+  - put
+- - listed
+  - several
+  - more
+- - several
+  - more
+  - significant
 - - jason
   - bourne
   - has
@@ -269,12 +275,6 @@ ngrams:
 - - petula
   - clark
   - has
-- - listed
-  - several
-  - more
-- - several
-  - more
-  - significant
 - - owner
   - drove
   - up
@@ -284,33 +284,33 @@ ngrams:
 - - protect
   - them
   - against
-- - your
-  - boon
-  - companion
 - - files
   - downtown
   - what
+- - your
+  - boon
+  - companion
 - - can
   - too
   - especially
 - - clipping
   - about
   - petula
-- - your
-  - activities
-  - seems
 - - about
   - petula
   - clark
-- - press
-  - clipping
-  - about
 - - electrician
   - skills
   - when
+- - press
+  - clipping
+  - about
 - - their
   - pointy
   - sticks
+- - your
+  - activities
+  - seems
 - - must
   - now
   - make

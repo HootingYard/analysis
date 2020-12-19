@@ -11,12 +11,12 @@ ngrams:
 - - buildings
   - properly
   - fitted
-- - thunderstorm
-  - james
-  - joyce
 - - generally
   - positive
   - electricity
+- - thunderstorm
+  - james
+  - joyce
 - - points
   - buildings
   - properly
@@ -29,12 +29,12 @@ ngrams:
 - - stormy
   - weather
   - james
-- - storms
-  - dr
-  - franklin
 - - usually
   - negative
   - electricity
+- - storms
+  - dr
+  - franklin
 - - electrical
   - storms
   - dr
@@ -44,18 +44,18 @@ ngrams:
 - - flash
   - comes
   - straight
-- - during
-  - fogs
-  - rains
 - - million
   - times
   - faster
 - - during
-  - electrical
-  - storms
+  - fogs
+  - rains
 - - electricity
   - rush
   - together
+- - during
+  - electrical
+  - storms
 - - building
   - high
   - chimneys
@@ -65,12 +65,12 @@ ngrams:
 - - enough
   - cowering
   - beneath
-- - called
-  - rolling
-  - thunder
 - - safe
   - enough
   - cowering
+- - called
+  - rolling
+  - thunder
 - - table
   - during
   - electrical
@@ -80,51 +80,54 @@ ngrams:
 - - different
   - forms
   - sometimes
-- - why
-  - lightning
-  - rods
-- - negative
-  - electricity
-  - come
-- - thus
-  - become
-  - worthless
 - - negative
   - electricity
   - though
 - - several
   - different
   - forms
-- - high
-  - house
-  - during
+- - negative
+  - electricity
+  - come
+- - why
+  - lightning
+  - rods
+- - thus
+  - become
+  - worthless
 - - sometimes
   - several
   - miles
-- - high
-  - chimneys
-  - should
 - - moist
   - air
   - against
-- - electricity
-  - come
-  - near
+- - high
+  - chimneys
+  - should
 - - air
   - against
   - dry
 - - against
   - dry
   - air
+- - high
+  - house
+  - during
+- - electricity
+  - come
+  - near
+- - because
+  - dry
+  - earth
 - - tiny
   - pieces
   - sometimes
 - - because
-  - dry
-  - earth
-- - because
   - light
   - travels
+- - likes
+  - pointy
+  - things
 - - little
   - spark
   - gives
@@ -134,45 +137,45 @@ ngrams:
 - - lightning
   - because
   - light
+- - sound
+  - both
+  - light
 - - rods
   - lead
   - 'off'
 - - being
   - james
   - joyce
-- - sound
-  - both
-  - light
+- - rolling
+  - thunder
+  - just
 - - too
   - human
   - beings
-- - likes
-  - pointy
-  - things
 - - franklin
   - first
   - showed
 - - quicker
   - through
   - thin
-- - rolling
-  - thunder
-  - just
 - - joyce
   - say
   - taking
 - - lightning
   - passes
   - through
+- - several
+  - miles
+  - long
 - - pieces
   - sometimes
   - too
 - - pass
   - quicker
   - through
-- - several
-  - miles
-  - long
+- - lightning
+  - might
+  - leap
 - - flow
   - silently
   - down
@@ -182,63 +185,63 @@ ngrams:
 - - being
   - pushed
   - together
-- - human
-  - being
-  - james
+- - incredibly
+  - faster
+  - than
 - - sometimes
   - too
   - human
 - - cloud
   - may
   - discharge
-- - incredibly
-  - faster
-  - than
+- - human
+  - being
+  - james
 - - any
   - tall
   - object
-- - lightning
-  - might
-  - leap
 - - generally
   - tell
   - how
 - - tall
   - object
   - such
-- - come
-  - near
-  - each
 - - electricity
   - comes
   - over
-- - comes
-  - straight
-  - down
 - - well
   - because
   - dry
+- - come
+  - near
+  - each
+- - pointy
+  - things
+  - rather
+- - comes
+  - straight
+  - down
 - - passes
   - through
   - air
+- - faster
+  - than
+  - sound
 - - discharge
   - its
   - electricity
 - - through
   - thick
   - air
-- - faster
-  - than
-  - sound
-- - pointy
-  - things
-  - rather
 - - times
   - faster
   - than
 - - very
   - great
   - charge
+- - rather
+  - than
+  - blunt
 - - often
   - pass
   - down
@@ -251,114 +254,111 @@ ngrams:
 - - forms
   - sometimes
   - its
-- - rather
-  - than
-  - blunt
 - - thinnest
   - thus
   - its
 - - noting
   - how
   - much
-- - tell
-  - how
-  - far
-- - can
-  - pass
-  - quicker
 - - than
   - sound
   - both
+- - can
+  - pass
+  - quicker
 - - light
   - travels
   - more
+- - tell
+  - how
+  - far
 - - thus
   - its
   - path
-- - then
-  - called
-  - rolling
 - - lightning
   - can
   - pass
 - - time
   - elapses
   - between
-- - only
-  - difference
-  - being
+- - then
+  - called
+  - rolling
 - - wind
   - more
   - water
-- - near
-  - each
-  - other
+- - only
+  - difference
+  - being
 - - can
   - generally
   - tell
-- - too
-  - far
-  - 'off'
+- - near
+  - each
+  - other
 - - through
   - thin
   - than
 - - thin
   - than
   - through
-- - than
-  - through
-  - thick
+- - too
+  - far
+  - 'off'
 - - can
   - feel
   - sure
-- - forces
-  - its
-  - way
+- - than
+  - through
+  - thick
 - - things
   - rather
   - than
-- - thunder
-  - just
-  - like
+- - forces
+  - its
+  - way
 - - hear
   - 'no'
   - thunder
 - - how
   - far
   - 'off'
+- - thunder
+  - just
+  - like
 - - much
   - time
   - elapses
-- - may
-  - discharge
-  - its
 - - can
   - probably
   - come
+- - may
+  - discharge
+  - its
 - - when
   - lightning
   - passes
-- - will
-  - flow
-  - silently
 - - lightning
   - when
   - lightning
 - - spark
   - gives
   - out
-- - electricity
-  - will
+- - will
   - flow
+  - silently
 - - travels
   - more
   - than
-- - into
-  - damp
-  - earth
+- - electricity
+  - will
+  - flow
 - - rush
   - together
   - when
+- - into
+  - damp
+  - earth
 - - damp
   - earth
   - if
@@ -368,18 +368,18 @@ ngrams:
 - - blasted
   - into
   - tiny
-- - silently
-  - down
-  - them
-- - into
-  - tiny
-  - pieces
 - - almighty
   - crash
   - we
+- - silently
+  - down
+  - them
 - - electricity
   - will
   - often
+- - into
+  - tiny
+  - pieces
 - - its
   - way
   - through

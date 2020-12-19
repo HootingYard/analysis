@@ -17,42 +17,42 @@ ngrams:
 - - actor
   - claude
   - rains
-- - hollywood
-  - actor
-  - claude
-- - gazette
-  - doctor
-  - gillespie
 - - preposterously
   - limited
   - range
+- - hollywood
+  - actor
+  - claude
 - - dazzling
   - adventures
   - shem
+- - feature
+  - neville
+  - chamberlain
 - - penned
   - anonymous
   - fan
 - - catastrophic
   - flood
   - fiction
-- - register
-  - gazette
-  - doctor
-- - feature
-  - neville
-  - chamberlain
 - - modernists
   - james
   - joyce
 - - till
   - dusk
   - conjuring
-- - glue
-  - factory
-  - japheth
+- - gazette
+  - doctor
+  - gillespie
 - - singular
   - literary
   - career
+- - glue
+  - factory
+  - japheth
+- - register
+  - gazette
+  - doctor
 - - placed
   - shem
   - ham
@@ -71,30 +71,30 @@ ngrams:
 - - shabby
   - apartment
   - building
-- - barns
-  - near
-  - orchards
 - - anonymous
   - fan
   - letters
+- - barns
+  - near
+  - orchards
 - - dawn
   - till
   - dusk
 - - preposterously
   - limited
   - subject
-- - century
-  - onwards
-  - glob
-- - ate
-  - soup
-  - crackers
 - - occasionally
   - tried
   - hawking
+- - century
+  - onwards
+  - glob
 - - else
   - incoherent
   - babble
+- - ate
+  - soup
+  - crackers
 - - king
   - vincenzo
   - announced
@@ -110,69 +110,69 @@ ngrams:
 - - story
   - based
   - vaguely
-- - noah's
-  - three
-  - sons
-- - called
-  - vincenzo
-  - presented
 - - war
   - critics
   - today
-- - towards
-  - war
-  - minnie
+- - noah's
+  - three
+  - sons
 - - exact
   - contemporaries
   - both
+- - called
+  - vincenzo
+  - presented
 - - limited
   - subject
   - matter
+- - towards
+  - war
+  - minnie
+- - contemporaries
+  - both
+  - born
+- - actual
+  - site
+  - given
 - - tale
   - called
   - japheth
 - - writing
   - career
   - began
-- - actual
-  - site
-  - given
-- - contemporaries
-  - both
-  - born
 - - publishers
   - without
   - success
-- - europe
-  - edged
-  - once
 - - bible
   - praise
   - indeed
+- - europe
+  - edged
+  - once
 - - broken
   - pen
   - nor
-- - hair
-  - turned
-  - white
 - - nincompoops
   - nearly
   - every
+- - hair
+  - turned
+  - white
 - - great
   - modernists
   - james
-- - great
-  - war
-  - critics
-- - few
-  - months
-  - previously
 - - buried
   - alive
   - again
+- - great
+  - war
+  - critics
 - - nearly
   - every
   - writer
+- - few
+  - months
+  - previously
 - - conjuring
   - new
   - adventures
@@ -191,51 +191,48 @@ ngrams:
 - - also
   - called
   - vincenzo
-- - two
-  - periodicals
-  - devoted
-- - every
-  - thursday
-  - writing
 - - every
   - door
   - slammed
+- - every
+  - thursday
+  - writing
 - - war
   - cynics
   - say
-- - again
-  - towards
-  - war
-- - war
-  - years
-  - hiding
+- - two
+  - periodicals
+  - devoted
 - - go
   - pig
   - hunting
+- - war
+  - years
+  - hiding
+- - again
+  - towards
+  - war
 - - shares
   - those
   - dates
-- - strange
-  - little
-  - stories
 - - magazines
   - folded
   - after
-- - little
-  - else
-  - incoherent
 - - second
   - story
   - nor
+- - little
+  - else
+  - incoherent
+- - strange
+  - little
+  - stories
 - - king
   - also
   - called
 - - edged
   - once
   - again
-- - writing
-  - strange
-  - little
 - - potted
   - paste
   - before
@@ -245,6 +242,9 @@ ngrams:
 - - paste
   - before
   - running
+- - writing
+  - strange
+  - little
 - - waste
   - chute
   - over
@@ -254,33 +254,48 @@ ngrams:
 - - away
   - without
   - paying
-- - two
-  - great
-  - modernists
 - - running
   - away
   - without
+- - majestic
+  - hotel
+  - where
+- - new
+  - king
+  - also
+- - two
+  - great
+  - modernists
+- - once
+  - again
+  - towards
+- - now
+  - forgotten
+  - minnie
+- - other
+  - characters
+  - feature
+- - somewhere
+  - like
+  - dubrovnik
+- - never
+  - again
+  - picked
 - - rakish
   - sneer
   - she
 - - sneer
   - she
   - penned
-- - genesis
-  - she
-  - tore
-- - majestic
-  - hotel
-  - where
 - - she
   - babbled
   - incessantly
+- - genesis
+  - she
+  - tore
 - - hallucinatory
   - miasma
   - she
-- - claude
-  - rains
-  - her
 - - daze
   - she
   - babbled
@@ -290,114 +305,111 @@ ngrams:
 - - she
   - penned
   - anonymous
-- - carted
-  - her
-  - lover
-- - her
-  - shabby
-  - apartment
-- - her
-  - shabby
-  - apartment
 - - bill
   - she
   - exchanged
+- - nights
+  - ark
+  - time
+- - pen
+  - nor
+  - any
+- - claude
+  - rains
+  - her
+- - carted
+  - her
+  - lover
 - - vincenzo
   - presented
   - her
+- - minnie
+  - more
+  - modern
+- - her
+  - shabby
+  - apartment
+- - her
+  - shabby
+  - apartment
 - - rains
   - her
   - shabby
 - - her
   - sole
   - publisher
-- - once
-  - again
-  - towards
-- - now
-  - forgotten
-  - minnie
 - - her
   - singular
   - literary
-- - new
-  - king
-  - also
 - - curiously
   - her
   - writings
 - - larch
   - painted
   - her
+- - hit
+  - her
+  - stride
 - - painted
   - her
   - portrait
 - - her
   - active
   - career
-- - hit
-  - her
-  - stride
-- - somewhere
-  - like
-  - dubrovnik
+- - invention
+  - she
+  - continued
+- - she
+  - placed
+  - shem
 - - her
   - career
   - minnie
 - - exchanged
   - her
   - collection
-- - she
-  - placed
-  - shem
-- - invention
-  - she
-  - continued
-- - other
-  - characters
-  - feature
 - - eat
   - her
   - fill
+- - text
+  - she
+  - needed
+- - more
+  - cease
+  - writing
 - - her
   - broken
   - pen
 - - blue
   - she
   - pondered
-- - never
-  - again
-  - picked
 - - country
   - curiously
   - her
-- - text
-  - she
-  - needed
-- - began
-  - her
-  - singular
 - - she
   - pondered
   - writing
-- - nights
-  - ark
-  - time
+- - long
+  - last
+  - found
+- - began
+  - her
+  - singular
 - - career
   - began
   - she
 - - medal
   - she
   - wrote
-- - minnie
-  - more
-  - modern
+- - before
+  - running
+  - away
+- - miasma
+  - she
+  - told
 - - her
   - writing
   - career
-- - pen
-  - nor
-  - any
 - - since
   - her
   - release
@@ -407,171 +419,159 @@ ngrams:
 - - become
   - her
   - sole
-- - miasma
-  - she
-  - told
-- - within
-  - her
-  - daze
-- - long
-  - last
-  - found
-- - her
-  - criminal
-  - past
-- - her
-  - second
-  - tale
-- - mentor
-  - she
-  - went
-- - more
-  - cease
-  - writing
-- - her
-  - face
-  - seemed
-- - her
-  - hair
-  - turned
-- - home
-  - she
-  - bought
-- - before
-  - running
-  - away
-- - since
-  - her
-  - writing
-- - hayloft
-  - indeed
-  - she
 - - folded
   - after
   - just
+- - within
+  - her
+  - daze
 - - her
-  - work
-  - except
+  - criminal
+  - past
+- - mentor
+  - she
+  - went
 - - her
   - second
-  - story
-- - done
-  - since
-  - her
-- - indeed
-  - she
-  - spoke
-- - frenzy
-  - until
-  - her
+  - tale
+- - prison
+  - just
+  - before
 - - monomaniac
   - who
   - stuck
-- - thus
-  - began
-  - her
+- - hayloft
+  - indeed
+  - she
 - - writer
   - who
   - shares
+- - tried
+  - hawking
+  - them
+- - home
+  - she
+  - bought
+- - tint
+  - who
+  - recommended
+- - her
+  - hair
+  - turned
+- - her
+  - face
+  - seemed
+- - since
+  - her
+  - writing
+- - indeed
+  - she
+  - spoke
+- - them
+  - ate
+  - soup
+- - character
+  - who
+  - purported
+- - done
+  - since
+  - her
+- - third
+  - writer
+  - who
+- - 'no'
+  - clues
+  - throughout
+- - announce
+  - their
+  - failure
+- - her
+  - second
+  - story
+- - frenzy
+  - until
+  - her
+- - her
+  - work
+  - except
+- - thus
+  - began
+  - her
+- - similar
+  - city
+  - who
+- - alive
+  - again
+  - her
 - - mark
   - her
   - name
 - - her
   - last
   - illness
-- - alive
-  - again
-  - her
-- - prison
-  - just
-  - before
-- - tint
-  - who
-  - recommended
 - - find
   - her
   - scribbling
-- - tried
-  - hawking
-  - them
-- - must
-  - mark
-  - her
-- - character
-  - who
-  - purported
-- - third
-  - writer
-  - who
-- - them
-  - ate
-  - soup
-- - too
-  - her
-  - career
-- - again
-  - her
-  - hair
-- - 'no'
-  - clues
-  - throughout
-- - she
-  - babbled
-  - away
-- - similar
-  - city
-  - who
-- - announce
-  - their
-  - failure
-- - her
-  - scribbling
-  - away
-- - next
-  - week
-  - she
 - - took
   - some
   - solace
-- - until
+- - must
+  - mark
   - her
-  - second
 - - criminal
   - past
   - has
 - - fictional
   - character
   - who
+- - she
+  - babbled
+  - away
+- - too
+  - her
+  - career
+- - again
+  - her
+  - hair
 - - your
   - deranged
   - jottings
-- - publish
-  - your
-  - deranged
-- - she
-  - passed
-  - away
-- - those
-  - two
-  - great
 - - writings
   - give
   - 'no'
 - - give
   - 'no'
   - clues
-- - she
-  - ever
-  - wrote
-- - babbled
-  - incessantly
-  - about
-- - long
-  - some
-  - close
+- - those
+  - two
+  - great
+- - her
+  - scribbling
+  - away
+- - publish
+  - your
+  - deranged
+- - next
+  - week
+  - she
 - - am
   - undone
   - these
+- - until
+  - her
+  - second
+- - babbled
+  - incessantly
+  - about
+- - she
+  - passed
+  - away
+- - stories
+  - about
+  - noah's
+- - long
+  - some
+  - close
 story:
   date: 2005-06-29
   id: 2005-06-29-shem-ham-japheth-and-minnie-crunlop

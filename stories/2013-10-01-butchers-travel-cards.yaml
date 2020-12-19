@@ -1,13 +1,10 @@
 ngrams:
-- - whim
-  - freely
-  - roving
 - - freely
   - roving
   - butchers
-- - laminated
-  - plastic
-  - rectangle
+- - whim
+  - freely
+  - roving
 - - card
   - butchers
   - cleared
@@ -15,8 +12,14 @@ ngrams:
   - butcher
   - forces
 - - travel
+  - card
+  - butchers
+- - travel
   - cards
   - flouncing
+- - laminated
+  - plastic
+  - rectangle
 - - bloody
   - apron
   - waving
@@ -26,54 +29,51 @@ ngrams:
 - - bloody
   - cleaver
   - roaring
-- - travel
-  - card
-  - butchers
 - - horrible
   - inhuman
   - cries
-- - yellow
-  - laminated
-  - plastic
 - - free
   - roaming
   - butcher
 - - butchers
   - required
   - special
+- - yellow
+  - laminated
+  - plastic
 - - system
   - falls
   - apart
 - - properly
   - confined
   - within
-- - card
-  - under
-  - 'false'
-- - services
-  - available
-  - within
 - - cards
   - flouncing
   - along
-- - travel
-  - card
-  - under
+- - services
+  - available
+  - within
 - - also
   - rogue
   - shopkeepers
 - - doors
   - charges
   - across
+- - card
+  - under
+  - 'false'
+- - travel
+  - card
+  - under
 - - available
   - within
   - among
-- - took
-  - particular
-  - note
 - - passed
   - far
   - beyond
+- - took
+  - particular
+  - note
 - - butcher
   - before
   - handing
@@ -83,39 +83,39 @@ ngrams:
 - - sensible
   - measure
   - after
+- - unnerving
+  - than
+  - boarding
 - - only
   - spare
   - seat
 - - go
   - riding
   - around
-- - unnerving
-  - than
-  - boarding
 - - safe
   - than
   - sorry
-- - cards
-  - like
-  - confetti
-- - travel
-  - cards
-  - like
 - - street
   - where
   - stood
+- - cards
+  - like
+  - confetti
 - - confetti
   - without
   - first
-- - within
-  - among
-  - these
-- - experiences
-  - more
-  - unnerving
+- - travel
+  - cards
+  - like
 - - better
   - safe
   - than
+- - experiences
+  - more
+  - unnerving
+- - within
+  - among
+  - these
 - - without
   - first
   - making
@@ -143,9 +143,6 @@ ngrams:
 - - their
   - travel
   - passes
-- - been
-  - properly
-  - confined
 - - taking
   - 'no'
   - notice
@@ -155,6 +152,9 @@ ngrams:
 - - beyond
   - their
   - immediate
+- - been
+  - properly
+  - confined
 - - only
   - later
   - back
@@ -182,12 +182,12 @@ ngrams:
 - - are
   - rogue
   - butchers
-- - passes
-  - are
-  - issued
 - - travel
   - passes
   - are
+- - passes
+  - are
+  - issued
 - - are
   - issued
   - otherwise
@@ -206,6 +206,12 @@ ngrams:
 - - an
   - ox
   - does
+- - certificate
+  - or
+  - warrant
+- - or
+  - warrant
+  - signed
 - - had
   - special
   - permission
@@ -218,12 +224,6 @@ ngrams:
 - - butchers
   - who
   - will
-- - certificate
-  - or
-  - warrant
-- - or
-  - warrant
-  - signed
 - - bewildering
   - but
   - admirable

@@ -23,66 +23,66 @@ ngrams:
 - - free
   - toffee
   - apples
-- - blue
-  - dyed
-  - burlap
 - - accorded
   - due
   - respect
 - - joyous
   - song
   - fiery
+- - blue
+  - dyed
+  - burlap
+- - evaporated
+  - milk
+  - factory
 - - watch
   - children
   - cycle
 - - central
   - lever
   - became
-- - evaporated
-  - milk
-  - factory
 - - central
   - lever
   - 'true'
 - - song
   - fiery
   - stars
-- - became
-  - somehow
-  - irrelevant
 - - children
   - cycle
   - round
+- - became
+  - somehow
+  - irrelevant
 - - lever
   - became
   - somehow
+- - slightly
+  - different
+  - shade
 - - lever
   - 'true'
   - stories
 - - lever
   - pulling
   - person
-- - slightly
-  - different
-  - shade
-- - common
-  - purpose
-  - blodgett
 - - guardian
   - february
   - readers
+- - common
+  - purpose
+  - blodgett
 - - occasionally
   - allowed
   - past
-- - sky
-  - blodgett
-  - waited
 - - given
   - free
   - cabins
 - - bellowing
   - engines
   - came
+- - sky
+  - blodgett
+  - waited
 - - fulfilling
   - lives
   - without
@@ -140,6 +140,12 @@ ngrams:
 - - none
   - who
   - saw
+- - lives
+  - without
+  - them
+- - burst
+  - into
+  - joyous
 - - levers
   - were
   - accorded
@@ -149,48 +155,45 @@ ngrams:
 - - levers
   - were
   - nowadays
-- - lives
-  - without
-  - them
-- - burst
-  - into
-  - joyous
 - - railings
   - burst
   - into
 - - many
   - many
   - years
-- - were
-  - accorded
-  - due
-- - into
-  - joyous
-  - song
-- - time
-  - just
-  - thinking
-- - others
-  - were
-  - paid
 - - useful
   - if
   - failed
-- - lasted
-  - more
-  - than
 - - if
   - failed
   - attempt
+- - lasted
+  - more
+  - than
+- - time
+  - just
+  - thinking
+- - into
+  - joyous
+  - song
+- - were
+  - accorded
+  - due
+- - others
+  - were
+  - paid
+- - without
+  - them
+  - without
 - - those
   - who
   - snuffle
 - - forgive
   - those
   - who
-- - without
-  - them
-  - without
+- - makes
+  - me
+  - hanker
 - - who
   - snuffle
   - before
@@ -200,54 +203,51 @@ ngrams:
 - - paperback
   - they
   - selected
-- - makes
-  - me
-  - hanker
 - - certain
   - age
   - will
-- - they
-  - cycle
-  - round
 - - age
   - will
   - remember
+- - they
+  - cycle
+  - round
 - - makes
   - me
   - want
 - - scheme
   - so
   - abstruse
-- - were
-  - paid
-  - 'off'
 - - abstruse
   - so
   - utterly
-- - central
-  - lever
-  - are
 - - so
   - utterly
   - bewildering
-- - first
-  - time
-  - just
-- - were
-  - pure
-  - after
 - - so
   - please
   - forgive
 - - weep
   - so
   - please
+- - central
+  - lever
+  - are
+- - first
+  - time
+  - just
+- - were
+  - paid
+  - 'off'
 - - will
   - ever
   - forget
 - - just
   - thinking
   - about
+- - were
+  - pure
+  - after
 - - were
   - very
   - occasionally
@@ -260,12 +260,12 @@ ngrams:
 - - job
   - before
   - they
-- - course
-  - which
-  - changed
 - - an
   - evaporated
   - milk
+- - course
+  - which
+  - changed
 story:
   date: 2007-02-24
   id: 2007-02-24-the-central-lever

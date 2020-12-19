@@ -14,16 +14,19 @@ ngrams:
 - - low
   - mordant
   - grunting
-- - hear
-  - relentless
-  - dinning
-- - tattered
-  - quilt
-  - 'yes'
 - - o
   - baleful
   - baleful
 - - shock
+  - o
+  - baleful
+- - tattered
+  - quilt
+  - 'yes'
+- - hear
+  - relentless
+  - dinning
+- - puddle
   - o
   - baleful
 - - oh
@@ -35,18 +38,12 @@ ngrams:
 - - baleful
   - baleful
   - pig
-- - puddle
-  - o
-  - baleful
 - - baleful
   - pig
   - r
 - - champion
   - pig
   - fair
-- - pig
-  - picture
-  - sewn
 - - o
   - baleful
   - pig
@@ -62,6 +59,9 @@ ngrams:
 - - o
   - baleful
   - pig
+- - pig
+  - picture
+  - sewn
 - - shabby
   - old
   - bunting
@@ -98,12 +98,12 @@ ngrams:
 - - look
   - more
   - like
-- - bags
-  - they
-  - let
 - - so
   - i've
   - embroidered
+- - bags
+  - they
+  - let
 story:
   date: 2010-12-03
   id: 2010-12-03-o-baleful-pig

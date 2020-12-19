@@ -11,12 +11,12 @@ ngrams:
 - - capital
   - letters
   - annotated
-- - iron
-  - vest
-  - twice
 - - double
   - marathon
   - wearing
+- - iron
+  - vest
+  - twice
 - - smoked
   - four
   - packets
@@ -50,6 +50,9 @@ ngrams:
 - - day
   - dressed
   - always
+- - rather
+  - than
+  - alongside
 - - even
   - three
   - stars
@@ -62,9 +65,6 @@ ngrams:
 - - tobacco
   - every
   - day
-- - rather
-  - than
-  - alongside
 - - every
   - day
   - dressed
@@ -104,27 +104,27 @@ ngrams:
 - - an
   - express
   - train
-- - an
-  - iron
-  - vest
 - - run
   - an
   - uphill
 - - marathon
   - wearing
   - an
+- - an
+  - iron
+  - vest
 - - tivol
   - run
   - an
 - - wearing
   - an
   - iron
-- - were
-  - 'no'
-  - trains
 - - trains
   - express
   - or
+- - were
+  - 'no'
+  - trains
 - - express
   - or
   - otherwise

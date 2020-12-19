@@ -11,12 +11,12 @@ ngrams:
 - - boats
   - fishing
   - smacks
-- - smaller
-  - boats
-  - fishing
 - - gulls
   - screeched
   - guillemots
+- - smaller
+  - boats
+  - fishing
 - - ancient
   - crumbling
   - bridges
@@ -26,15 +26,15 @@ ngrams:
 - - actually
   - existed
   - outside
-- - tiny
-  - wriggling
-  - worms
 - - myself
   - striding
   - purposefully
 - - birds
   - gulls
   - screeched
+- - tiny
+  - wriggling
+  - worms
 - - ancient
   - bridges
   - across
@@ -50,9 +50,6 @@ ngrams:
 - - mould
   - these
   - dialogues
-- - breadcrumbs
-  - man
-  - haunts
 - - found
   - myself
   - striding
@@ -61,16 +58,19 @@ ngrams:
   - conversations
 - - breadcrumbs
   - man
+  - haunts
+- - breadcrumbs
+  - man
   - followed
 - - man
   - somehow
   - paler
-- - breadcrumbs
-  - man
-  - somehow
 - - crumbling
   - bridges
   - over
+- - breadcrumbs
+  - man
+  - somehow
 - - never
   - actually
   - existed
@@ -80,36 +80,36 @@ ngrams:
 - - somehow
   - paler
   - than
+- - might
+  - present
+  - themselves
 - - packing
   - things
   - away
 - - ancient
   - city
   - where
-- - might
-  - present
-  - themselves
 - - container
   - ships
   - some
-- - who
-  - looms
-  - largest
 - - remember
   - any
   - birds
 - - paler
   - than
   - ever
+- - who
+  - looms
+  - largest
+- - any
+  - birds
+  - always
 - - characters
   - who
   - stalked
 - - other
   - living
   - things
-- - any
-  - birds
-  - always
 - - than
   - ever
   - almost
@@ -119,18 +119,18 @@ ngrams:
 - - 'no'
   - longer
   - appears
-- - lev
-  - yashin
-  - about
 - - could
   - never
   - utter
-- - animated
-  - discussions
+- - lev
+  - yashin
   - about
 - - discussions
   - about
   - communism
+- - animated
+  - discussions
+  - about
 - - trio
   - about
   - communism
@@ -143,57 +143,57 @@ ngrams:
 - - breadcrumbs
   - were
   - scattered
-- - were
-  - huge
-  - tankers
 - - any
   - other
   - living
-- - saw
-  - him
-  - again
 - - about
   - communism
   - sometimes
+- - were
+  - huge
+  - tankers
 - - did
   - likewise
   - then
+- - saw
+  - him
+  - again
 - - communism
   - sometimes
   - when
-- - eyes
-  - were
-  - milky
 - - never
   - visited
   - them
-- - breadcrumbs
-  - man
-  - who
-- - who
-  - never
-  - spoke
 - - gaze
   - shunning
   - me
-- - they
-  - floated
-  - neglected
+- - eyes
+  - were
+  - milky
+- - who
+  - never
+  - spoke
 - - visited
   - them
   - before
+- - they
+  - floated
+  - neglected
 - - followed
   - me
   - wherever
+- - breadcrumbs
+  - man
+  - who
 - - were
   - birds
   - gulls
-- - never
-  - saw
-  - him
 - - yashin
   - about
   - long
+- - never
+  - saw
+  - him
 - - who
   - never
   - actually
@@ -215,21 +215,24 @@ ngrams:
 - - coat
   - they
   - too
-- - man
-  - who
-  - never
 - - years
   - later
   - when
+- - done
+  - so
+  - since
 - - man
   - haunts
   - me
 - - man
+  - who
+  - never
+- - man
   - followed
   - me
-- - done
-  - so
-  - since
+- - would
+  - recall
+  - these
 - - followed
   - me
   - down
@@ -239,15 +242,12 @@ ngrams:
 - - where
   - they
   - floated
-- - would
-  - recall
-  - these
-- - waters
-  - where
-  - they
 - - one
   - summer
   - afternoon
+- - waters
+  - where
+  - they
 - - since
   - one
   - summer

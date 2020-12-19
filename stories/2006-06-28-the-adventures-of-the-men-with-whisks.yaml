@@ -14,18 +14,15 @@ ngrams:
 - - united
   - nations
   - boutros
-- - united
-  - manager
-  - matt
 - - manchester
   - united
   - manager
+- - united
+  - manager
+  - matt
 - - whisks
   - beat
   - benfica
-- - beat
-  - benfica
-  - '-'
 - - toothpaste
   - factory
   - perished
@@ -38,39 +35,42 @@ ngrams:
 - - unaccountably
   - caked
   - dr
-- - busby
-  - became
-  - adept
-- - spinney
-  - trying
-  - desperately
 - - european
   - cup
   - final
 - - giant
   - invisible
   - squirrel
+- - busby
+  - became
+  - adept
+- - spinney
+  - trying
+  - desperately
 - - crash
   - busby
   - became
-- - caked
-  - dr
-  - pastry
-- - dr
-  - ruth
-  - pastry
 - - children's
   - books
   - ruth
+- - caked
+  - dr
+  - pastry
 - - become
   - unaccountably
   - caked
-- - books
+- - dr
   - ruth
   - pastry
 - - seemingly
   - forgotten
   - series
+- - books
+  - ruth
+  - pastry
+- - beat
+  - benfica
+  - '-'
 - - dr
   - pastry
   - goes
@@ -83,12 +83,12 @@ ngrams:
 - - ethereal
   - monotone
   - these
-- - battered
-  - old
-  - copies
 - - almost
   - complete
   - set
+- - battered
+  - old
+  - copies
 - - busby
   - himself
   - under
@@ -113,15 +113,15 @@ ngrams:
 - - wreckage
   - its
   - contents
-- - last
-  - two
-  - volumes
-- - monotone
-  - these
-  - last
 - - see
   - below
   - quite
+- - monotone
+  - these
+  - last
+- - last
+  - two
+  - volumes
 - - like
   - dr
   - ruth
@@ -131,18 +131,21 @@ ngrams:
 - - last
   - two
   - written
-- - visited
-  - during
-  - her
-- - during
-  - her
-  - sleep
-- - her
-  - infantile
-  - brain
 - - whisks
   - set
   - upon
+- - visited
+  - during
+  - her
+- - any
+  - battered
+  - old
+- - during
+  - her
+  - sleep
+- - attic
+  - dig
+  - them
 - - matt
   - busby
   - who
@@ -152,51 +155,48 @@ ngrams:
 - - tack
   - who
   - dictated
-- - any
-  - battered
-  - old
-- - attic
-  - dig
-  - them
+- - her
+  - infantile
+  - brain
 - - ruth
   - pastry
   - who
 - - their
   - memories
   - stirred
-- - these
-  - last
-  - two
-- - your
-  - attic
-  - dig
-- - pastry
-  - who
-  - remember
 - - aliens
   - 'no'
   - matter
+- - these
+  - last
+  - two
+- - pastry
+  - who
+  - remember
+- - your
+  - attic
+  - dig
 - - many
   - like
   - dr
-- - been
-  - visited
-  - during
 - - whisks
   - tuck
   - into
+- - been
+  - visited
+  - during
 - - cup
   - final
   - were
+- - final
+  - were
+  - written
 - - upon
   - her
   - infantile
 - - whisks
   - upon
   - her
-- - final
-  - were
-  - written
 - - 'no'
   - matter
   - how
@@ -206,9 +206,9 @@ ngrams:
 - - whisks
   - are
   - attacked
-- - an
-  - affidavit
-  - signed
+- - print
+  - yet
+  - there
 story:
   date: 2006-06-28
   id: 2006-06-28-the-adventures-of-the-men-with-whisks

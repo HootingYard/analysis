@@ -2,12 +2,12 @@ ngrams:
 - - noxious
   - sci
   - fi
-- - breast
-  - earnestly
-  - raining
 - - sci
   - fi
   - potboiler
+- - breast
+  - earnestly
+  - raining
 - - fontanelle
   - bernard
   - le
@@ -32,24 +32,24 @@ ngrams:
 - - t
   - incidentally
   - tone
+- - s
+  - lewis
+  - differing
 - - turgid
   - heavy
   - metal
 - - heavy
   - metal
   - monsters
-- - s
+- - c
+  - s
   - lewis
-  - differing
+- - c
+  - s
+  - lewis
 - - became
   - commercial
   - success
-- - c
-  - s
-  - lewis
-- - c
-  - s
-  - lewis
 - - dr
   - t
   - incidentally
@@ -68,21 +68,18 @@ ngrams:
 - - same
   - task
   - yourself
-- - popular
-  - music
-  - remember
 - - yet
   - valiant
   - albums
+- - popular
+  - music
+  - remember
 - - say
   - arresting
   - ornithological
 - - s
   - lewis
   - make
-- - pirated
-  - dobson
-  - pamphlets
 - - great
   - good
   - fortune
@@ -92,6 +89,9 @@ ngrams:
 - - memoir
   - ends
   - before
+- - pirated
+  - dobson
+  - pamphlets
 - - two
   - different
   - authors
@@ -101,12 +101,12 @@ ngrams:
 - - s
   - upon
   - mister
-- - authors
-  - then
-  - lord
 - - memoir
   - rather
   - than
+- - authors
+  - then
+  - lord
 - - then
   - lord
   - love
@@ -125,15 +125,15 @@ ngrams:
 - - same
   - after
   - being
+- - second
+  - book
+  - could
 - - deaf
   - readers
   - who
 - - readers
   - who
   - prefer
-- - second
-  - book
-  - could
 - - 'no'
   - particular
   - order
@@ -146,21 +146,21 @@ ngrams:
 - - very
   - special
   - time
-- - me
-  - fontanelle
-  - bernard
 - - early
   - s
   - when
+- - me
+  - fontanelle
+  - bernard
 - - has
   - just
   - published
-- - metal
-  - monsters
-  - they
 - - call
   - me
   - fontanelle
+- - metal
+  - monsters
+  - they
 - - they
   - became
   - commercial
@@ -176,42 +176,42 @@ ngrams:
 - - sentences
   - are
   - jumbled
-- - are
-  - curiously
-  - absent
 - - when
   - sorting
   - through
+- - are
+  - curiously
+  - absent
 - - dobson
   - pamphlets
   - when
-- - songs
-  - are
-  - taken
-- - so
-  - does
-  - mister
 - - index
   - even
   - if
+- - so
+  - does
+  - mister
+- - songs
+  - are
+  - taken
 - - we
   - say
   - arresting
-- - were
-  - never
-  - quite
 - - way
   - we
   - listened
+- - were
+  - never
+  - quite
 - - knock
   - me
   - down
 - - this
   - lamentable
   - christian
-- - an
-  - ignominious
-  - end
+- - shall
+  - we
+  - say
 story:
   date: 2004-06-28
   id: 2004-06-28-the-teutonic-memory-banks-of-mister-blatfinch

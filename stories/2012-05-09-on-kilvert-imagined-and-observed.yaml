@@ -38,12 +38,12 @@ ngrams:
 - - ruined
   - church
   - incidentally
-- - recounting
-  - wild
-  - sad
 - - quiet
   - english
   - countryside
+- - recounting
+  - wild
+  - sad
 - - wild
   - sad
   - sweet
@@ -59,12 +59,12 @@ ngrams:
 - - white
   - victorian
   - beard
-- - began
-  - drawing
-  - sundry
 - - alan
   - taylor
   - since
+- - began
+  - drawing
+  - sundry
 - - longer
   - ruinous
   - below
@@ -74,24 +74,24 @@ ngrams:
 - - observed
   - remembered
   - best
+- - rev
+  - also
+  - devotes
 - - called
   - imagined
   - observed
 - - ongoing
   - project
   - called
-- - rev
-  - also
-  - devotes
 - - project
   - called
   - imagined
-- - birds
-  - unlike
-  - pontoppidan
 - - rustic
   - rev
   - also
+- - birds
+  - unlike
+  - pontoppidan
 - - natural
   - world
   - gentle
@@ -101,12 +101,12 @@ ngrams:
 - - three
   - volumes
   - between
-- - long
-  - white
-  - victorian
 - - natural
   - history
   - though
+- - long
+  - white
+  - victorian
 - - history
   - though
   - occasionally
@@ -116,27 +116,27 @@ ngrams:
 - - inner
   - life
   - nor
-- - very
-  - paradise
-  - hence
 - - beard
   - well
   - sort
+- - very
+  - paradise
+  - hence
 - - shortly
   - after
   - returning
-- - live
-  - long
-  - enough
 - - anybody
   - ever
   - written
-- - country
-  - vicar
-  - after
 - - much
   - social
   - history
+- - live
+  - long
+  - enough
+- - country
+  - vicar
+  - after
 - - first
   - published
   - shortly
@@ -152,27 +152,27 @@ ngrams:
 - - comic
   - scenes
   - such
-- - along
-  - these
-  - lines
 - - mr
   - b
   - himself
-- - since
-  - first
-  - published
-- - since
-  - first
-  - published
-- - conference
-  - now
-  - there's
-- - welsh
-  - borders
-  - other
+- - along
+  - these
+  - lines
 - - upon
   - stray
   - references
+- - since
+  - first
+  - published
+- - since
+  - first
+  - published
+- - welsh
+  - borders
+  - other
+- - conference
+  - now
+  - there's
 - - print
   - since
   - first
@@ -185,33 +185,33 @@ ngrams:
 - - also
   - devotes
   - over
-- - murdered
-  - children
-  - time
 - - rather
   - than
   - drawings
-- - still
-  - read
-  - because
+- - murdered
+  - children
+  - time
 - - life
   - nor
   - much
-- - disporting
-  - himself
-  - upon
 - - prose
   - rather
   - than
-- - original
-  - manuscript
-  - has
+- - disporting
+  - himself
+  - upon
+- - still
+  - read
+  - because
 - - come
   - upon
   - stray
 - - very
   - very
   - carefully
+- - original
+  - manuscript
+  - has
 - - far
   - more
   - comprehensive
@@ -224,6 +224,9 @@ ngrams:
 - - borders
   - other
   - than
+- - ruinous
+  - below
+  - if
 - - has
   - anybody
   - ever
@@ -233,45 +236,45 @@ ngrams:
 - - two
   - lovers
   - who
-- - ruinous
-  - below
-  - if
+- - about
+  - sea
+  - monsters
 - - none
   - were
   - published
 - - widow
   - who
   - never
-- - about
-  - sea
-  - monsters
-- - children
-  - time
-  - now
 - - standard
   - selection
   - we
+- - children
+  - time
+  - now
 - - ago
   - today
   - about
-- - about
-  - two
-  - lovers
 - - vicar
   - we
   - learn
+- - about
+  - two
+  - lovers
 - - first
   - swam
   - into
 - - today
   - about
   - two
-- - shall
-  - find
-  - out
 - - concerned
   - though
   - there
+- - shall
+  - find
+  - out
+- - selection
+  - we
+  - think
 - - cloak
   - an
   - anthology
@@ -284,33 +287,24 @@ ngrams:
 - - an
   - ongoing
   - project
-- - an
-  - earlier
-  - paramour
-- - selection
-  - we
-  - think
 - - we
   - learn
   - little
+- - an
+  - earlier
+  - paramour
 - - coffin
   - an
   - account
+- - planning
+  - one
+  - hundred
 - - has
   - been
   - compared
 - - manuscript
   - has
   - been
-- - planning
-  - one
-  - hundred
-- - writing
-  - has
-  - been
-- - has
-  - been
-  - lost
 - - real
   - one
   - particularly
@@ -320,51 +314,57 @@ ngrams:
 - - after
   - all
   - though
-- - see
-  - an
-  - assembly
-- - made
-  - an
-  - assignation
-- - made
-  - an
-  - assignation
+- - writing
+  - has
+  - been
+- - has
+  - been
+  - lost
 - - or
   - deliberately
   - destroyed
-- - print
-  - one
-  - thing
 - - lore
   - or
   - wisdom
-- - ruined
-  - churches
-  - but
 - - rustic
   - lore
   - or
-- - now
-  - we
-  - find
-- - poems
+- - ruined
+  - churches
   - but
-  - none
-- - has
-  - never
-  - been
+- - see
+  - an
+  - assembly
+- - print
+  - one
+  - thing
 - - lost
   - or
   - deliberately
-- - studying
-  - at
-  - oxford
-- - disease
-  - conducted
-  - at
+- - made
+  - an
+  - assignation
+- - made
+  - an
+  - assignation
+- - poems
+  - but
+  - none
+- - now
+  - we
+  - find
 - - editions
   - have
   - followed
+- - studying
+  - at
+  - oxford
+- - has
+  - never
+  - been
+- - disease
+  - conducted
+  - at
 story:
   date: 2012-05-09
   id: 2012-05-09-on-kilvert-imagined-and-observed

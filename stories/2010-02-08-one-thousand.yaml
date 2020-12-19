@@ -1,28 +1,28 @@
 ngrams:
-- - straining
-  - wheedling
-  - pining
 - - gargling
   - straining
   - wheedling
+- - straining
+  - wheedling
+  - pining
 - - enlist
   - nobby
   - stiles
-- - wheedling
-  - pining
-  - flailing
-- - disused
-  - aeroplane
-  - hangars
 - - rogue
   - distributing
   - alms
 - - disused
   - aeroplane
-  - hangar
+  - hangars
+- - wheedling
+  - pining
+  - flailing
 - - ineffable
   - gargling
   - straining
+- - disused
+  - aeroplane
+  - hangar
 - - vomiting
   - preening
   - polishing
@@ -32,123 +32,120 @@ ngrams:
 - - rinsing
   - lettuce
   - closing
-- - restricted
-  - medical
-  - facilities
-- - haemoglobin
-  - towers
-  - furiously
 - - smoking
   - genuflecting
   - pootling
-- - mennonite
-  - faith
-  - engage
 - - plus
   - additional
   - meanings
-- - entering
-  - restricted
+- - mennonite
+  - faith
+  - engage
+- - restricted
   - medical
-- - rough
-  - vomiting
-  - preening
-- - dishes
-  - spreading
-  - jam
+  - facilities
 - - ringo
   - starr
   - toiling
-- - valid
-  - dobsonian
-  - response
+- - rough
+  - vomiting
+  - preening
+- - entering
+  - restricted
+  - medical
+- - dishes
+  - spreading
+  - jam
 - - k
   - plus
   - additional
+- - valid
+  - dobsonian
+  - response
+- - haemoglobin
+  - towers
+  - furiously
 - - hearsay
   - tavern
   - mutterings
 - - perilous
   - journey
   - downstream
-- - getting
-  - nobby
-  - stiles
 - - editorial
   - advisory
   - board
-- - threatening
-  - sinister
-  - publication
-- - popular
-  - manchester
-  - united
+- - getting
+  - nobby
+  - stiles
 - - thousandth
   - postage
   - celebration
-- - mysteriously
-  - bleached
-  - bones
+- - threatening
+  - sinister
+  - publication
 - - jotter
   - pausing
   - occasionally
+- - popular
+  - manchester
+  - united
+- - mysteriously
+  - bleached
+  - bones
 - - sun
   - shines
   - piling
-- - watergate
-  - building
-  - casting
-- - sinister
-  - publication
-  - cake
-- - love
-  - chopping
-  - celery
-- - unfathomable
-  - la
-  - gubbins
-- - perilous
-  - ice
-  - declivity
 - - drainage
   - ditch
   - tallying
-- - paupers
-  - looking
-  - shifty
+- - watergate
+  - building
+  - casting
+- - perilous
+  - ice
+  - declivity
+- - love
+  - chopping
+  - celery
+- - sinister
+  - publication
+  - cake
 - - memorial
   - perilous
   - ice
-- - beatnik
-  - poet
-  - dennis
 - - et
   - de
   - tobogganing
-- - cake
-  - burning
-  - wax
+- - paupers
+  - looking
+  - shifty
+- - unfathomable
+  - la
+  - gubbins
 - - stop
   - smoking
   - genuflecting
+- - beatnik
+  - poet
+  - dennis
 - - urban
   - living
   - pod
-- - publication
-  - cake
-  - burning
 - - making
   - whoopee
   - burgling
-- - looking
-  - shifty
-  - holding
-- - leave
-  - la
-  - gubbins
+- - cake
+  - burning
+  - wax
+- - publication
+  - cake
+  - burning
 - - otherwise
   - fantastic
   - scheme
+- - looking
+  - shifty
+  - holding
 - - gutters
   - making
   - hay
@@ -158,90 +155,93 @@ ngrams:
 - - bag
   - crunching
   - numbers
-- - medical
-  - facilities
-  - second
+- - leave
+  - la
+  - gubbins
 - - chum
   - magazine
   - it's
+- - medical
+  - facilities
+  - second
 - - person's
   - thoughts
   - turn
 - - purpose
   - making
   - whoopee
-- - barely
-  - alive
-  - following
 - - intoning
   - spells
   - against
-- - anyone
-  - else
-  - alive
 - - vans
   - driving
   - past
+- - barely
+  - alive
+  - following
+- - anyone
+  - else
+  - alive
 - - bus
   - stop
   - smoking
+- - additional
+  - meanings
+  - thus
 - - magazine
   - it's
   - interesting
 - - lost
   - love
   - chopping
-- - additional
-  - meanings
-  - thus
-- - chronological
-  - order
-  - making
 - - dobsonian
   - response
   - however
+- - chronological
+  - order
+  - making
 - - going
   - rogue
   - distributing
 - - barn
   - door
   - glorying
-- - chopping
-  - celery
-  - going
 - - past
   - recently
   - announcing
+- - chopping
+  - celery
+  - going
 - - generic
   - answer
   - write
-- - nobby
-  - returning
-  - home
 - - driving
   - past
   - recently
+- - nobby
+  - returning
+  - home
 - - almost
   - invisible
   - beneath
-- - used
-  - wool
-  - market
 - - returning
   - home
   - via
-- - facilities
-  - second
-  - series
+- - used
+  - wool
+  - market
 - - achieved
   - without
   - conflict
-- - found
-  - snugly
-  - ensconced
+- - facilities
+  - second
+  - series
 - - order
   - making
   - notes
+- - found
+  - snugly
+  - ensconced
 - - should
   - enlist
   - nobby
@@ -251,24 +251,24 @@ ngrams:
 - - single
   - word
   - nobby
+- - cannot
+  - recall
+  - precisely
 - - another
   - criminal
   - scheme
 - - independent
   - because
   - ignorant
-- - cannot
-  - recall
-  - precisely
-- - blind
-  - person
-  - looking
 - - yet
   - curiously
   - pokey
 - - eventually
   - arrived
   - home
+- - blind
+  - person
+  - looking
 - - every
   - waking
   - hour
@@ -284,6 +284,9 @@ ngrams:
 - - every
   - single
   - guest
+- - seemed
+  - unlikely
+  - though
 - - good
   - idea
   - anyway
@@ -293,96 +296,105 @@ ngrams:
 - - being
   - ringo
   - starr
-- - old
-  - farmer
-  - frack
 - - making
   - hay
   - while
-- - yard
-  - postage
-  - including
-- - seemed
-  - unlikely
-  - though
-- - readers
-  - should
-  - sit
-- - la
-  - gubbins
-  - being
+- - old
+  - farmer
+  - frack
 - - much
   - biographical
   - information
-- - complete
-  - dobson
-  - canon
+- - yard
+  - postage
+  - including
 - - thus
   - far
   - unrevealed
 - - meanings
   - thus
   - far
+- - readers
+  - should
+  - sit
+- - la
+  - gubbins
+  - being
 - - after
   - england
   - hoisted
-- - pitch
-  - after
-  - england
 - - much
   - worse
   - state
-- - airheads
-  - say
-  - taken
-- - said
-  - nobby
-  - returning
+- - pitch
+  - after
+  - england
 - - recall
   - precisely
   - how
+- - complete
+  - dobson
+  - canon
+- - airheads
+  - say
+  - taken
 - - yet
   - another
   - criminal
 - - any
   - vans
   - driving
-- - only
-  - barely
-  - alive
-- - doing
-  - plunging
-  - down
+- - said
+  - nobby
+  - returning
 - - any
   - bright
   - ideas
+- - only
+  - barely
+  - alive
+- - any
+  - difference
+  - neither
 - - point
   - feeling
   - 'off'
 - - state
   - than
   - aloysius
-- - any
-  - difference
-  - neither
-- - far
-  - too
-  - complicated
 - - say
   - rather
   - hysterical
-- - unnerving
-  - gaze
-  - like
+- - doing
+  - plunging
+  - down
+- - far
+  - too
+  - complicated
 - - worse
   - state
   - than
 - - wring
   - any
   - sense
+- - than
+  - anyone
+  - else
+- - unnerving
+  - gaze
+  - like
+- - seen
+  - any
+  - vans
 - - wholly
   - pictorial
   - other
+- - wasted
+  - day
+  - however
+- - sanctum
+  - though
+  - just
 - - hooting
   - yard
   - thousandth
@@ -392,138 +404,135 @@ ngrams:
 - - hooting
   - yard
   - devotees
-- - postage
-  - celebration
-  - she
 - - numerous
   - hooting
   - yard
-- - seen
-  - any
-  - vans
-- - than
-  - anyone
-  - else
-- - wasted
-  - day
-  - however
+- - more
+  - unfathomable
+  - la
 - - hooting
   - yard
   - fan
+- - idea
+  - anyway
+  - where
+- - aeroplane
+  - hangar
+  - do
 - - hooting
   - yard
   - postage
 - - hooting
   - yard
   - postage
-- - sanctum
-  - though
-  - just
+- - postage
+  - celebration
+  - she
+- - hooting
+  - yard
+  - otherwise
+- - should
+  - sit
+  - down
+- - more
+  - seemly
+  - times
+- - licking
+  - some
+  - stamps
+- - some
+  - stamps
+  - darning
+- - bins
+  - licking
+  - some
 - - celebration
   - she
   - looked
 - - hooting
   - yard
-  - otherwise
-- - aeroplane
-  - hangar
-  - do
-- - more
-  - unfathomable
-  - la
-- - idea
-  - anyway
-  - where
-- - should
-  - sit
-  - down
-- - some
-  - stamps
-  - darning
-- - licking
-  - some
-  - stamps
-- - hooting
-  - yard
   - since
-- - bins
-  - licking
-  - some
 - - other
   - engagements
   - put
-- - more
-  - seemly
-  - times
-- - precisely
-  - how
-  - many
 - - word
   - nobby
   - then
+- - precisely
+  - how
+  - many
 - - screeds
   - typeset
   - them
-- - other
-  - things
-  - calling
-- - her
-  - sanctum
-  - though
-- - very
-  - very
-  - occasionally
-- - de
-  - tobogganing
-  - who
-- - made
-  - any
-  - difference
-- - ever
-  - heard
-  - before
 - - am
   - sensible
   - enough
+- - other
+  - things
+  - calling
+- - very
+  - very
+  - occasionally
 - - don't
   - even
   - go
-- - dobson
-  - than
-  - anyone
-- - their
-  - fullest
-  - extent
+- - ever
+  - heard
+  - before
+- - made
+  - any
+  - difference
 - - never
   - even
   - collected
-- - up
-  - rough
-  - vomiting
-- - sponges
-  - cutting
-  - up
+- - de
+  - tobogganing
+  - who
+- - their
+  - fullest
+  - extent
 - - typeset
   - them
   - print
+- - up
+  - rough
+  - vomiting
+- - her
+  - sanctum
+  - though
+- - sponges
+  - cutting
+  - up
 - - cutting
   - up
   - rough
-- - words
-  - whereas
-  - some
-- - your
-  - towels
-  - voting
-- - your
-  - pills
-  - repairing
-- - folding
-  - your
-  - towels
+- - dobson
+  - than
+  - anyone
 - - ditch
   - tallying
   - up
+- - words
+  - whereas
+  - some
+- - proving
+  - prohibitive
+  - what
+- - can
+  - always
+  - turn
+- - your
+  - towels
+  - voting
+- - folding
+  - your
+  - towels
+- - been
+  - wholly
+  - pictorial
+- - your
+  - pills
+  - repairing
 - - your
   - shirts
   - describing
@@ -536,69 +545,213 @@ ngrams:
 - - shrubbery
   - gathering
   - your
-- - been
-  - wholly
-  - pictorial
+- - 'no'
+  - purpose
+  - making
+- - ask
+  - 'no'
+  - questions
+- - looked
+  - up
+  - fixed
+- - genuflecting
+  - pootling
+  - about
+- - pootling
+  - about
+  - milking
 - - boiling
   - your
   - shirts
 - - gathering
   - your
   - wits
-- - proving
-  - prohibitive
-  - what
-- - looked
-  - up
-  - fixed
-- - can
-  - always
-  - turn
-- - your
-  - wits
-  - burning
-- - your
-  - feet
-  - remembering
-- - ask
-  - 'no'
-  - questions
-- - 'no'
-  - purpose
-  - making
-- - genuflecting
-  - pootling
-  - about
-- - times
-  - like
-  - these
-- - pootling
-  - about
-  - milking
-- - taking
-  - your
-  - pills
 - - pestilence
   - mucking
   - about
+- - yard
+  - even
+  - though
+- - those
+  - more
+  - seemly
+- - mucking
+  - about
+  - boiling
+- - your
+  - wits
+  - burning
+- - when
+  - entering
+  - restricted
+- - times
+  - like
+  - these
+- - your
+  - feet
+  - remembering
+- - taking
+  - your
+  - pills
+- - employed
+  - when
+  - entering
+- - what
+  - doing
+  - nobby
+- - pictorial
+  - other
+  - than
 - - your
   - ledger
   - doing
 - - attic
   - taking
   - your
-- - mucking
-  - about
-  - boiling
-- - those
+- - squeezing
+  - out
+  - sponges
+- - trepanning
+  - squeezing
+  - out
+- - could
+  - wring
+  - any
+- - did
+  - knit
+  - now
+- - fluid
+  - bubbled
+  - out
+- - out
+  - sponges
+  - cutting
+- - if
+  - memory
+  - serves
+- - what
+  - mrs
+  - gubbins
+- - shifty
+  - holding
+  - out
+- - even
   - more
-  - seemly
-- - when
-  - entering
-  - restricted
-- - yard
+  - unfathomable
+- - infallible
+  - working
+  - out
+- - hooting
+  - yard
   - even
-  - though
+- - whereas
+  - some
+  - very
+- - engagements
+  - put
+  - your
+- - she
+  - did
+  - knit
+- - some
+  - very
+  - occasionally
+- - all
+  - proving
+  - prohibitive
+- - seemed
+  - even
+  - more
+- - accident
+  - quite
+  - what
+- - she
+  - went
+  - back
+- - now
+  - she
+  - unravels
+- - knit
+  - now
+  - she
+- - same
+  - response
+  - when
+- - bubbled
+  - out
+  - between
+- - time
+  - don't
+  - even
+- - put
+  - your
+  - feet
+- - party
+  - all
+  - proving
+- - devote
+  - your
+  - every
+- - your
+  - every
+  - waking
+- - all
+  - possible
+  - meanings
+- - title
+  - allocating
+  - all
+- - containing
+  - all
+  - possible
+- - all
+  - doing
+  - nobby
+- - nobby
+  - then
+  - she
+- - logistics
+  - someone
+  - would
+- - guidance
+  - given
+  - will
+- - lot
+  - would
+  - cancel
+- - ended
+  - up
+  - back
+- - yard
+  - postage
+  - what
+- - sensible
+  - answer
+  - we
+- - croak
+  - so
+  - weak
+- - 'no'
+  - idea
+  - how
+- - where
+  - once
+  - she
+- - some
+  - other
+  - form
+- - copper
+  - let
+  - me
+- - once
+  - she
+  - did
+- - thousand
+  - today
+  - there
+- - then
+  - she
+  - went
 story:
   date: 2010-02-08
   id: 2010-02-08-one-thousand

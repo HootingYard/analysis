@@ -20,18 +20,18 @@ ngrams:
 - - mentioning
   - glanders
   - headshaking
-- - sickness
-  - recurrent
-  - airway
-- - sickness
-  - recurrent
-  - airway
 - - hereditary
   - equine
   - regional
 - - hereditary
   - equine
   - regional
+- - sickness
+  - recurrent
+  - airway
+- - sickness
+  - recurrent
+  - airway
 - - fever
   - contagious
   - equine
@@ -59,18 +59,18 @@ ngrams:
 - - asthenia
   - choke
   - grass
-- - choke
-  - grass
+- - grass
   - sickness
+  - recurrent
 - - grass
   - sickness
   - recurrent
 - - choke
   - grass
   - sickness
-- - grass
+- - choke
+  - grass
   - sickness
-  - recurrent
 - - basic
   - horsey
   - types
@@ -110,12 +110,12 @@ ngrams:
 - - diseases
   - listed
   - above
-- - huge
-  - gleaming
-  - teeth
 - - dentistry
   - best
   - avoided
+- - huge
+  - gleaming
+  - teeth
 - - white
   - syndrome
   - mud
@@ -146,33 +146,33 @@ ngrams:
 - - these
   - basic
   - horsey
-- - generally
-  - speaking
-  - hooting
-- - another
-  - often
-  - jarringly
 - - motto
   - well
   - it's
+- - another
+  - often
+  - jarringly
+- - generally
+  - speaking
+  - hooting
 - - must
   - finish
   - reading
-- - weeks
-  - ago
-  - having
-- - ago
-  - having
-  - spent
 - - read
   - thus
   - immersed
+- - weeks
+  - ago
+  - having
 - - fight
   - one's
   - way
 - - blog
   - without
   - having
+- - ago
+  - having
+  - spent
 - - few
   - weeks
   - ago
@@ -185,108 +185,105 @@ ngrams:
 - - never
   - actually
   - sees
-- - page
-  - after
-  - page
 - - rarely
   - any
   - pattern
-- - shall
-  - perhaps
-  - write
 - - again
   - though
   - exactly
+- - shall
+  - perhaps
+  - write
+- - page
+  - after
+  - page
+- - else
+  - again
+  - though
 - - something
   - else
   - again
 - - googie
   - sounds
   - like
-- - else
-  - again
-  - though
+- - other
+  - fictional
+  - genre
+- - am
+  - insufficiently
+  - interested
+- - after
+  - page
+  - without
 - - speaking
   - hooting
   - yard
 - - hooting
   - yard
   - horses
-- - other
-  - fictional
-  - genre
-- - after
-  - page
-  - without
-- - am
-  - insufficiently
-  - interested
-- - addition
-  - some
-  - horses
 - - can
   - fall
   - prey
-- - she
-  - knew
-  - less
 - - one's
   - way
   - through
-- - shall
-  - never
-  - again
 - - horses
   - can
   - fall
-- - every
-  - few
-  - years
+- - shall
+  - never
+  - again
+- - addition
+  - some
+  - horses
 - - burden
   - choose
   - them
+- - every
+  - few
+  - years
 - - choose
   - them
   - quickly
 - - vary
   - them
   - that's
-- - title
-  - something
-  - like
+- - she
+  - knew
+  - less
 - - time
   - without
   - bothering
-- - indeed
-  - she
-  - knew
+- - title
+  - something
+  - like
 - - flitting
   - has
   - often
+- - indeed
+  - she
+  - knew
 - - think
   - having
   - said
 - - about
   - crazy
   - horses
-- - other
-  - than
-  - tuberculosis
 - - few
   - years
   - even
-- - saw
-  - 'no'
-  - reason
-- - than
-  - she
-  - wants
-- - often
-  - been
-  - determined
+- - other
+  - than
+  - tuberculosis
 - - am
   - very
   - glad
+- - years
+  - even
+  - though
+- - saw
+  - 'no'
+  - reason
 - - any
   - other
   - type
@@ -296,81 +293,84 @@ ngrams:
 - - consider
   - any
   - other
-- - horses
-  - than
-  - she
 - - writing
   - about
   - crazy
-- - years
-  - even
-  - though
 - - really
   - about
   - horses
 - - any
   - other
   - fictional
-- - careful
-  - rereading
-  - will
+- - often
+  - been
+  - determined
 - - less
   - about
   - horses
-- - horse
-  - other
-  - than
+- - careful
+  - rereading
+  - will
+- - than
+  - she
+  - wants
 - - bash
   - out
   - page
 - - what
   - hitchens
   - does
+- - horse
+  - other
+  - than
+- - horses
+  - than
+  - she
 - - rereading
   - will
   - show
-- - divided
-  - into
-  - three
 - - knew
   - less
   - about
-- - into
+- - divided
+  - into
   - three
-  - main
-- - once
-  - saw
-  - 'no'
-- - 'no'
-  - reason
-  - ever
 - - read
   - much
   - more
+- - once
+  - saw
+  - 'no'
+- - into
+  - three
+  - main
 - - though
   - exactly
   - what
-- - some
-  - other
-  - occasion
-- - sick
-  - horses
-  - there
+- - 'no'
+  - reason
+  - ever
 - - peter
   - hitchens
   - would
-- - example
-  - alerted
-  - me
 - - am
   - more
   - interested
-- - more
-  - than
-  - once
+- - sick
+  - horses
+  - there
+- - example
+  - alerted
+  - me
 - - hitchens
   - would
   - probably
+- - some
+  - other
+  - occasion
+- - more
+  - than
+  - once
 - - lead
   - us
   - into
@@ -383,24 +383,24 @@ ngrams:
 - - some
   - horses
   - can
-- - out
-  - page
-  - after
 - - about
   - horses
   - than
+- - out
+  - page
+  - after
 - - would
   - lead
   - us
-- - withers
-  - are
-  - something
-- - do
-  - turn
-  - up
 - - earth
   - so
   - shall
+- - having
+  - done
+  - so
+- - do
+  - turn
+  - up
 story:
   date: 2012-07-30
   id: 2012-07-30-on-horses

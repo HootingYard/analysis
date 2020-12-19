@@ -8,54 +8,48 @@ ngrams:
 - - pc
   - nisbet
   - farewell
-- - manley
-  - hopkins
-  - famously
 - - numberless
   - ornithological
   - opportunities
 - - barrage
   - balloons
   - wondering
-- - gerard
-  - manley
+- - manley
   - hopkins
-- - male
-  - calls
-  - relentlessly
+  - famously
 - - bid
   - pc
   - nisbet
+- - male
+  - calls
+  - relentlessly
+- - gerard
+  - manley
+  - hopkins
 - - kiosk
   - selling
   - refreshments
 - - reasonably
   - pebbly
   - pebbles
-- - desperate
-  - heartfelt
-  - message
-- - perpendicular
-  - metal
-  - poles
 - - shortly
   - forensic
   - officers
 - - bench
   - pc
   - nisbet
-- - temporary
-  - perpendicular
-  - metal
+- - desperate
+  - heartfelt
+  - message
 - - fine
   - upstanding
   - member
 - - attendant
   - swan
   - removal
-- - grimy
-  - police
-  - cell
+- - perpendicular
+  - metal
+  - poles
 - - pc
   - nisbet
   - cover
@@ -65,42 +59,48 @@ ngrams:
 - - specially
   - modified
   - police
-- - portable
+- - temporary
+  - perpendicular
   - metal
-  - tapping
+- - grimy
+  - police
+  - cell
 - - possibly
   - inaccurate
   - reckoning
-- - six
-  - reasonably
-  - pebbly
 - - modified
   - police
   - helmet
+- - police
+  - tape
+  - reeled
+- - police
+  - tape
+  - reeled
 - - grease
   - mud
   - beetles
-- - police
-  - tape
-  - reeled
-- - police
-  - tape
-  - reeled
-- - police
-  - bee
-  - enthusiast
+- - six
+  - reasonably
+  - pebbly
+- - portable
+  - metal
+  - tapping
 - - reed
   - bed
   - hoping
+- - police
+  - bee
+  - enthusiast
 - - below
   - cloud
   - level
-- - desired
-  - effect
-  - although
 - - forest
   - floor
   - duff
+- - desired
+  - effect
+  - although
 - - metal
   - tapping
   - machine
@@ -110,51 +110,48 @@ ngrams:
 - - yellow
   - police
   - tape
-- - cell
-  - door
-  - clanged
+- - florid
+  - sergeant
+  - told
+- - mesmeric
+  - subject
+  - swan
 - - police
   - officer
   - whom
 - - loud
   - booming
   - call
-- - bird
-  - management
-  - officers
-- - mesmeric
-  - subject
-  - swan
-- - florid
-  - sergeant
-  - told
+- - cell
+  - door
+  - clanged
 - - large
   - irregular
   - ears
+- - bird
+  - management
+  - officers
 - - saw
   - pc
   - nisbet
-- - metal
-  - poles
-  - sometimes
-- - poles
-  - sometimes
-  - police
-- - door
-  - clanged
-  - shut
 - - stick
   - pretty
   - close
-- - stride
-  - majestically
-  - home
 - - police
   - station
   - entirely
-- - under
-  - immediate
-  - arrest
+- - poles
+  - sometimes
+  - police
+- - metal
+  - poles
+  - sometimes
+- - door
+  - clanged
+  - shut
+- - stride
+  - majestically
+  - home
 - - shall
   - stride
   - majestically
@@ -164,57 +161,60 @@ ngrams:
 - - ornithological
   - opportunities
   - given
-- - large
-  - white
-  - swan
+- - under
+  - immediate
+  - arrest
 - - within
   - shouting
   - distance
-- - frightening
-  - composing
-  - myself
 - - calls
   - relentlessly
   - both
-- - pc
-  - nisbet
-  - took
-- - soon
-  - became
-  - apparent
-- - placed
-  - under
-  - immediate
+- - large
+  - white
+  - swan
+- - frightening
+  - composing
+  - myself
 - - rather
   - unsatisfactory
   - conversation
-- - tape
-  - reeled
-  - around
 - - thought
   - pc
   - nisbet
+- - pc
+  - nisbet
+  - took
+- - placed
+  - under
+  - immediate
+- - soon
+  - became
+  - apparent
+- - bittern
+  - boom
+  - though
+- - tape
+  - reeled
+  - around
 - - hot
   - air
   - balloons
+- - purpose
+  - having
+  - devised
+- - hid
+  - myself
+  - deep
 - - balloons
   - wondering
   - why
 - - sat
   - within
   - shouting
-- - hid
-  - myself
-  - deep
-- - purpose
-  - having
-  - devised
 - - further
   - progress
   - since
-- - bittern
-  - boom
-  - though
 - - above
   - sea
   - level
@@ -227,39 +227,39 @@ ngrams:
 - - barrage
   - balloons
   - still
-- - birds
-  - stick
-  - pretty
 - - surviving
   - remarkably
   - well
-- - began
-  - walking
-  - around
-- - pebbles
-  - somewhere
-  - every
+- - birds
+  - stick
+  - pretty
 - - quite
   - possibly
   - due
-- - without
-  - further
-  - delay
+- - pebbles
+  - somewhere
+  - every
 - - different
   - purpose
   - having
+- - began
+  - walking
+  - around
+- - without
+  - further
+  - delay
 - - see
   - pc
   - nisbet
+- - plan
+  - without
+  - further
 - - often
   - sat
   - within
 - - being
   - peckish
   - bought
-- - plan
-  - without
-  - further
 - - too
   - began
   - walking
@@ -267,14 +267,11 @@ ngrams:
   - conducted
   - after
 - - very
-  - frightening
-  - composing
-- - very
   - clever
   - modification
-- - fiendishly
-  - difficult
-  - man
+- - very
+  - frightening
+  - composing
 - - myself
   - placed
   - under
@@ -287,15 +284,18 @@ ngrams:
 - - found
   - myself
   - locked
+- - travelled
+  - much
+  - above
+- - fiendishly
+  - difficult
+  - man
 - - huddles
   - just
   - below
 - - just
   - below
   - cloud
-- - travelled
-  - much
-  - above
 - - jabbering
   - even
   - harder
@@ -308,72 +308,81 @@ ngrams:
 - - made
   - further
   - progress
-- - every
-  - last
-  - detail
+- - utmost
+  - dismay
+  - upon
 - - sky
   - above
   - us
 - - set
   - 'off'
   - hotfoot
-- - sky
-  - just
-  - below
-- - suffer
-  - greatly
-  - like
-- - utmost
-  - dismay
-  - upon
+- - every
+  - last
+  - detail
 - - dismay
   - upon
   - arrival
 - - understand
   - than
   - usual
+- - sky
+  - just
+  - below
 - - entire
   - day
   - passed
+- - suffer
+  - greatly
+  - like
 - - its
   - loud
   - booming
-- - grubs
-  - how
-  - long
-- - her
-  - advice
-  - moved
-- - many
-  - birds
-  - stick
 - - much
   - above
   - sea
-- - tell
-  - every
-  - last
+- - grubs
+  - how
+  - long
+- - many
+  - birds
+  - stick
 - - very
   - clever
   - things
-- - free
-  - man
-  - again
-- - most
-  - effective
-  - way
-- - relentlessly
-  - both
-  - day
+- - tell
+  - every
+  - last
 - - am
   - surviving
   - remarkably
+- - relentlessly
+  - both
+  - day
+- - most
+  - effective
+  - way
 - - repel
   - rather
   - than
 - - more
   - brutish
   - age
+- - free
+  - man
+  - again
+- - very
+  - well
+  - manage
+- - her
+  - advice
+  - moved
+- - read
+  - many
+  - times
+- - more
+  - sensible
+  - reason
 - - some
   - regret
   - curtailed
@@ -381,35 +390,26 @@ ngrams:
   - some
   - moisture
 - - very
-  - well
-  - manage
-- - read
-  - many
-  - times
-- - three
-  - months
-  - now
-- - more
-  - sensible
-  - reason
+  - clever
+  - way
+- - very
+  - clever
+  - way
 - - somewhere
   - every
   - day
-- - very
-  - clever
-  - way
-- - very
-  - clever
-  - way
-- - idle
-  - fancy
-  - has
+- - three
+  - months
+  - now
 - - another
   - like
   - bats
-- - took
-  - her
-  - advice
+- - idle
+  - fancy
+  - has
+- - friendlier
+  - way
+  - than
 - - pc
   - nisbet
   - who
@@ -419,185 +419,503 @@ ngrams:
 - - nisbet
   - who
   - confessed
-- - months
-  - now
-  - every
 - - them
   - sudden
   - ferocious
-- - friendlier
-  - way
-  - than
+- - months
+  - now
+  - every
 - - time
   - swans
   - among
-- - very
-  - moment
-  - back
 - - 'no'
   - avail
   - snapping
+- - very
+  - moment
+  - back
 - - relief
   - their
   - looming
-- - hoodies
-  - who
-  - used
-- - know
-  - before
-  - dawn
-- - their
-  - looming
-  - presence
-- - met
-  - up
-  - halfway
-- - station
-  - roughing
-  - up
-- - desk
-  - sergeant
-  - been
+- - took
+  - her
+  - advice
 - - case
   - after
   - much
-- - fancy
-  - has
-  - always
+- - their
+  - looming
+  - presence
+- - know
+  - before
+  - dawn
+- - station
+  - roughing
+  - up
+- - met
+  - up
+  - halfway
+- - hoodies
+  - who
+  - used
 - - day
   - passed
   - before
 - - shall
   - deploy
   - them
-- - years
-  - now
-  - since
+- - desk
+  - sergeant
+  - been
 - - swans
   - among
   - them
-- - find
-  - some
-  - swans
+- - fancy
+  - has
+  - always
+- - much
+  - more
+  - babbling
 - - ordinary
   - about
   - pc
+- - years
+  - now
+  - since
 - - clanged
   - shut
   - what
 - - about
   - pc
   - nisbet
+- - find
+  - some
+  - swans
+- - what
+  - large
+  - irregular
+- - if
+  - barrage
+  - balloons
+- - saw
+  - 'no'
+  - swans
+- - time
+  - after
+  - upbraiding
+- - swans
+  - swanning
+  - about
 - - were
   - temporary
   - perpendicular
 - - were
   - barrage
   - balloons
-- - much
-  - more
-  - babbling
-- - saw
-  - 'no'
-  - swans
-- - what
-  - large
-  - irregular
-- - time
-  - after
-  - upbraiding
-- - hoped
-  - were
-  - temporary
-- - swans
-  - swanning
-  - about
-- - been
-  - unfortunate
-  - enough
-- - pockets
-  - were
-  - packed
-- - thinking
-  - about
-  - kippers
-- - if
-  - barrage
-  - balloons
 - - am
   - very
   - frightening
+- - thinking
+  - about
+  - kippers
+- - hoped
+  - were
+  - temporary
+- - might
+  - very
+  - well
+- - been
+  - unfortunate
+  - enough
 - - myself
   - locked
   - up
+- - pockets
+  - were
+  - packed
 - - began
   - babbling
   - about
 - - stop
   - thinking
   - about
+- - became
+  - inflamed
+  - if
+- - police
+  - station
+  - into
 - - were
   - closed
   - instead
 - - shall
   - find
   - some
-- - police
-  - station
-  - into
-- - became
-  - inflamed
-  - if
-- - after
-  - another
-  - like
-- - might
-  - very
-  - well
-- - tape
-  - reeled
-  - all
 - - enthralled
   - me
   - gerard
-- - thuggish
-  - patrols
-  - they
+- - after
+  - another
+  - like
 - - me
   - gerard
   - manley
+- - tape
+  - reeled
+  - all
 - - give
   - myself
   - up
+- - thuggish
+  - patrols
+  - they
 - - power
   - enthralled
   - me
-- - every
-  - day
-  - now
-- - patrols
-  - they
-  - pass
 - - unstoppable
   - jabbering
   - there
-- - many
-  - years
-  - now
 - - personally
   - we
   - belonged
-- - 'no'
-  - longer
-  - see
-- - some
-  - other
-  - feature
+- - pc
+  - nisbet
+  - would
 - - equipment
   - would
   - arrive
+- - patrols
+  - they
+  - pass
+- - every
+  - day
+  - now
+- - many
+  - years
+  - now
 - - words
   - tumbling
+  - out
+- - 'no'
+  - longer
+  - see
+- - lit
+  - upon
+  - some
+- - sergeant
+  - told
+  - me
+- - some
+  - other
+  - feature
+- - forest
+  - floor
+  - there
+- - me
+  - however
+  - unjust
+- - station
+  - entirely
+  - there
+- - ears
+  - would
+  - surely
+- - all
+  - bird
+  - songs
+- - some
+  - more
+  - berries
+- - upon
+  - them
+  - sudden
+- - visit
+  - upon
+  - them
+- - up
+  - halfway
+  - where
+- - ate
+  - some
+  - more
+- - after
+  - much
+  - more
+- - pockets
+  - so
+  - eager
+- - inexplicable
+  - violence
+  - so
+- - see
+  - if
+  - barrage
+- - him
+  - now
+  - using
+- - violence
+  - so
+  - packed
+- - could
+  - stop
+  - him
+- - barrage
+  - balloons
+  - which
+- - these
+  - were
+  - matters
+- - could
+  - ask
+  - him
+- - swans
+  - these
+  - were
+- - wondering
+  - why
+  - there
+- - leaf
+  - if
+  - only
+- - sea
+  - level
+  - so
+- - him
+  - imploring
+  - him
+- - could
+  - 'no'
+  - longer
+- - floor
+  - there
+  - must
+- - once
+  - told
+  - me
+- - having
+  - so
+  - savage
+- - them
+  - now
+  - though
+- - after
+  - upbraiding
+  - me
+- - very
+  - morning
+  - when
+- - some
+  - relief
+  - their
+- - an
+  - ordinary
+  - copper
+- - kippers
+  - an
+  - entire
+- - they
+  - pass
+  - through
+- - bright
+  - an
+  - expanse
+- - way
+  - towards
+  - me
+- - halfway
+  - where
+  - there
+- - which
+  - still
+  - loomed
+- - balloons
+  - which
+  - still
+- - an
+  - essential
+  - part
+- - every
+  - so
+  - often
+- - head
+  - which
+  - throbbed
+- - removal
+  - techniques
+  - had
+- - upon
+  - some
+  - other
+- - stockpile
+  - had
+  - grown
+- - ask
+  - him
+  - about
+- - techniques
+  - had
+  - descended
+- - how
+  - long
+  - would
+- - had
+  - numberless
+  - ornithological
+- - sole
+  - success
+  - had
+- - looming
+  - presence
+  - had
+- - clever
+  - things
+  - one
+- - had
+  - gone
+  - unwashed
+- - terrible
+  - crime
+  - had
+- - afforded
+  - me
+  - some
+- - lowly
+  - functionary
+  - but
+- - me
+  - some
+  - relief
+- - presence
+  - had
+  - cast
+- - has
+  - always
+  - been
+- - but
+  - pc
+  - nisbet
+- - pc
+  - nisbet
+  - but
+- - bee
+  - enthusiast
+  - but
+- - medieval
+  - saint
+  - but
+- - clouds
+  - or
+  - whether
+- - functionary
+  - but
+  - clearly
+- - subject
+  - but
+  - pc
+- - hand
+  - grenades
+  - or
+- - now
+  - though
+  - they
+- - am
+  - sure
+  - there
+- - go
+  - one
+  - better
+- - eke
+  - from
+  - pc
+- - hoodies
+  - fled
+  - from
+- - from
+  - pc
+  - nisbet
+- - ordinary
+  - copper
+  - from
+- - further
+  - delay
+  - but
+- - suck
+  - from
+  - leaves
+- - head
+  - this
+  - dislodged
+- - bang
+  - me
+  - up
+- - mouth
+  - one
+  - after
+- - puffed
+  - out
+  - when
+- - winding
+  - lane
+  - from
+- - still
+  - had
+  - numberless
+- - an
+  - entire
+  - day
+- - viewed
+  - from
+  - above
+- - from
+  - leaves
+  - although
+- - now
+  - every
+  - so
+- - completely
+  - futile
+  - at
+- - at
+  - club
+  - picnics
+- - we
+  - met
+  - up
+- - had
+  - once
+  - told
+- - from
+  - detective
+  - captain
+- - clever
+  - modification
+  - not
+- - pc
+  - claimed
+  - not
+- - modification
+  - not
+  - apparent
+- - shoving
+  - me
+  - into
+- - from
+  - deep
+  - within
+- - times
+  - from
+  - hot
+- - most
+  - unusual
+  - but
+- - same
+  - time
+  - which
+- - be
+  - pebbles
+  - somewhere
+- - flush
+  - me
   - out
 story:
   date: 2008-01-16

@@ -53,6 +53,9 @@ ngrams:
 - - golden
   - summer
   - evening
+- - better
+  - occupied
+  - smashing
 - - exotic
   - tunisian
   - black
@@ -62,24 +65,21 @@ ngrams:
 - - tunisian
   - black
   - market
-- - better
-  - occupied
-  - smashing
 - - black
   - market
   - cigarettes
 - - fixed
   - everything
   - sometimes
-- - tarry
-  - black
-  - heart
-- - proletarian
-  - heroics
-  - without
 - - fellow
   - workers
   - often
+- - proletarian
+  - heroics
+  - without
+- - tarry
+  - black
+  - heart
 - - heroics
   - without
   - parallel
@@ -104,39 +104,36 @@ ngrams:
 - - most
   - hero
   - workers
-- - surprisingly
-  - little
-  - resentment
 - - complex
   - set
   - within
-- - teenage
-  - repair
-  - man
+- - surprisingly
+  - little
+  - resentment
 - - never
   - bashed
   - bongos
 - - bongo
   - practice
   - after
+- - teenage
+  - repair
+  - man
 - - worker
   - shortly
   - after
+- - bongos
+  - again
+  - though
 - - beatnik
   - clubs
   - where
 - - clubs
   - where
   - bongos
-- - bongos
-  - again
-  - though
 - - much
   - guilt
   - among
-- - two
-  - weeks
-  - later
 - - railway
   - tracks
   - even
@@ -146,18 +143,21 @@ ngrams:
 - - often
   - those
   - singled
-- - throbbing
-  - sounded
-  - like
-- - workers
-  - often
-  - those
 - - party
   - bigwigs
   - did
+- - workers
+  - often
+  - those
 - - caverns
   - far
   - away
+- - two
+  - weeks
+  - later
+- - throbbing
+  - sounded
+  - like
 - - everything
   - sometimes
   - before
@@ -179,57 +179,57 @@ ngrams:
 - - only
   - two
   - weeks
-- - who
-  - fixed
-  - everything
 - - preened
   - their
   - goatees
 - - tracks
   - even
   - here
-- - behind
-  - their
-  - backs
+- - who
+  - fixed
+  - everything
 - - could
   - make
   - real
-- - bigwigs
-  - were
-  - disconcerted
-- - hero
-  - worker
-  - were
+- - behind
+  - their
+  - backs
 - - about
   - obtaining
   - thousands
 - - vim
   - into
   - endless
-- - been
-  - better
-  - occupied
-- - bongos
+- - bigwigs
   - were
-  - bashed
+  - disconcerted
 - - suffer
   - what
   - looked
+- - hero
+  - worker
+  - were
+- - bongos
+  - were
+  - bashed
+- - been
+  - better
+  - occupied
+- - precisely
+  - what
+  - happened
+- - grow
+  - into
+  - local
+- - bit
+  - holy
+  - about
 - - party
   - bigwigs
   - were
 - - party
   - were
   - loathed
-- - grow
-  - into
-  - local
-- - precisely
-  - what
-  - happened
-- - bit
-  - holy
-  - about
 - - muttered
   - about
   - behind
@@ -239,21 +239,21 @@ ngrams:
 - - into
   - endless
   - hours
-- - head
-  - only
-  - two
 - - them
   - never
   - bashed
 - - set
   - about
   - obtaining
-- - they
-  - smoked
-  - exotic
 - - later
   - grow
   - into
+- - they
+  - smoked
+  - exotic
+- - head
+  - only
+  - two
 story:
   date: 2009-04-06
   id: 2009-04-06-bongos-for-babinsky

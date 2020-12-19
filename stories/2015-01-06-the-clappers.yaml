@@ -2,12 +2,6 @@ ngrams:
 - - eternally
   - awfully
   - deafeningly
-- - '-'
-  - secker
-  - warburg
-- - slang
-  - '-'
-  - secker
 - - clunk
   - eternally
   - awfully
@@ -26,33 +20,33 @@ ngrams:
 - - bridge
   - platform
   - debating
-- - topics
-  - addressed
-  - hell
-- - yesterday
-  - dave
-  - asks
 - - damned
   - languish
   - forever
+- - topics
+  - addressed
+  - hell
 - - patrol
   - yesterday
   - dave
 - - peewit
   - patrol
   - yesterday
-- - ring
-  - says
-  - theophrastus
-- - addressed
-  - hell
-  - bells
+- - yesterday
+  - dave
+  - asks
 - - sawdust
   - bridge
   - platform
 - - public
   - school
   - chaps
+- - addressed
+  - hell
+  - bells
+- - ring
+  - says
+  - theophrastus
 - - pretty
   - horrible
   - pathways
@@ -65,81 +59,87 @@ ngrams:
 - - force
   - public
   - school
-- - remaining
-  - half
-  - smeared
 - - occasionally
   - stuff
   - cotton
-- - designated
-  - bell
-  - dobson's
-- - originally
-  - posted
-  - five
 - - stuff
   - cotton
   - wool
+- - remaining
+  - half
+  - smeared
+- - originally
+  - posted
+  - five
 - - seems
   - equally
   - viable
 - - moonlight
   - seems
   - equally
+- - designated
+  - bell
+  - dobson's
 - - secker
   - warburg
   - further
+- - '-'
+  - secker
+  - warburg
+- - slang
+  - '-'
+  - secker
 - - warburg
   - further
   - citations
 - - school
   - chaps
   - during
-- - habitually
-  - seen
-  - fit
 - - further
   - citations
   - suggest
-- - wanderings
-  - god
-  - knows
+- - habitually
+  - seen
+  - fit
 - - piece
   - originally
   - posted
+- - wanderings
+  - god
+  - knows
 - - trot
   - nor
   - scamper
 - - royal
   - air
   - force
-- - bell
-  - dobson's
-  - pamphlet
-- - dobson's
-  - pamphlet
-  - hell
 - - air
   - force
   - public
+- - bell
+  - dobson's
+  - pamphlet
 - - run
   - nor
   - trot
+- - dobson's
+  - pamphlet
+  - hell
 - - twisting
   - lane
   - far
 - - posted
   - five
   - long
+- - nor
+  - trot
+  - nor
 - - second
   - world
   - war
 - - last
   - century
   - devoted
-- - nor
-  - trot
-  - nor
 - - subject
   - fanatical
   - hooting
@@ -152,30 +152,30 @@ ngrams:
 - - god
   - knows
   - how
-- - these
-  - authorities
-  - each
-- - never
-  - got
-  - round
 - - stinking
   - mould
   - upon
-- - phrase
-  - running
-  - like
-- - hell
-  - its
-  - bells
-- - hell
-  - its
-  - bells
+- - never
+  - got
+  - round
+- - these
+  - authorities
+  - each
 - - say
   - while
   - optrex
+- - hell
+  - its
+  - bells
+- - hell
+  - its
+  - bells
 - - pathways
   - pathways
   - more
+- - phrase
+  - running
+  - like
 - - five
   - long
   - years
@@ -191,36 +191,36 @@ ngrams:
 - - knows
   - how
   - hooting
-- - dobson
-  - never
-  - investigated
-- - long
-  - years
-  - ago
-- - mystery
-  - dobson
-  - never
 - - very
   - much
   - hinged
-- - some
-  - pretty
-  - horrible
-- - april
-  - led
-  - him
-- - generations
-  - has
-  - collected
+- - long
+  - years
+  - ago
+- - dobson
+  - never
+  - investigated
 - - its
   - own
   - belfry
-- - wrists
-  - each
-  - time
+- - some
+  - pretty
+  - horrible
+- - mystery
+  - dobson
+  - never
+- - generations
+  - has
+  - collected
+- - april
+  - led
+  - him
 - - can
   - both
   - surrender
+- - wrists
+  - each
+  - time
 - - their
   - designated
   - bell
@@ -230,24 +230,24 @@ ngrams:
 - - dave
   - asks
   - about
-- - has
-  - collected
-  - why
 - - them
   - numbered
   - each
+- - has
+  - collected
+  - why
 - - other
   - hand
   - just
 - - very
   - very
   - much
+- - hinges
+  - upon
+  - them
 - - can
   - rain
   - like
-- - nor
-  - scamper
-  - all
 story:
   date: 2015-01-06
   id: 2015-01-06-the-clappers

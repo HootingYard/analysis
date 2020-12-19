@@ -5,60 +5,60 @@ ngrams:
 - - bails
   - crimping
   - irons
-- - varnish
-  - whisks
-  - expropriated
 - - aimless
   - discussions
   - venables
+- - varnish
+  - whisks
+  - expropriated
 - - urns
   - varnish
   - whisks
-- - hoods
-  - blankets
-  - bandages
 - - narrow
   - vertical
   - crevice
-- - shallow
-  - basin
-  - spilling
-- - irons
-  - doilies
-  - electric
-- - incandescent
-  - liquid
-  - spurt
-- - explodes
-  - tying
-  - endless
 - - knit
   - furiously
   - doling
-- - cones
-  - operating
-  - tables
+- - explodes
+  - tying
+  - endless
+- - irons
+  - doilies
+  - electric
+- - hoods
+  - blankets
+  - bandages
+- - incandescent
+  - liquid
+  - spurt
+- - shallow
+  - basin
+  - spilling
 - - rosary
   - beads
   - starch
+- - cones
+  - operating
+  - tables
 - - menace
   - muttering
   - threats
+- - tying
+  - endless
+  - knots
 - - nose
   - cones
   - operating
 - - whisks
   - expropriated
   - jam
-- - tying
-  - endless
-  - knots
-- - discussions
-  - venables
-  - announced
 - - contaminated
   - waving
   - farewell
+- - discussions
+  - venables
+  - announced
 - - electric
   - shoes
   - febrifuge
@@ -71,117 +71,117 @@ ngrams:
 - - liquid
   - spurt
   - forth
+- - starch
+  - talc
+  - urns
+- - talc
+  - urns
+  - varnish
 - - febrifuge
   - grey
   - bags
-- - brown
-  - canvas
-  - flags
 - - category
   - c
   - supplies
 - - shoes
   - febrifuge
   - grey
-- - bearded
-  - broken
-  - sunglasses
-- - heavily
-  - bearded
-  - broken
 - - massive
   - walrus
   - moustache
-- - talc
-  - urns
-  - varnish
-- - starch
-  - talc
-  - urns
-- - surly
-  - curator
-  - named
 - - earlier
   - translators
   - ng
-- - strange
-  - blueish
-  - flecks
-- - cowboy
-  - songbook
-  - met
-- - category
-  - b
-  - supplies
-- - geological
-  - interest
-  - helga
-- - furious
-  - venables
-  - wanted
-- - broken
+- - brown
+  - canvas
+  - flags
+- - bearded
+  - broken
   - sunglasses
-  - hanging
 - - beads
   - starch
   - talc
+- - category
+  - b
+  - supplies
+- - cowboy
+  - songbook
+  - met
+- - heavily
+  - bearded
+  - broken
+- - geological
+  - interest
+  - helga
+- - surly
+  - curator
+  - named
+- - strange
+  - blueish
+  - flecks
+- - lars
+  - heavily
+  - bearded
+- - muttering
+  - threats
+  - lars
+- - party
+  - venables
+  - piccolo
+- - furious
+  - venables
+  - wanted
+- - watch
+  - incandescent
+  - liquid
+- - saying
+  - glubb
+  - marched
+- - broken
+  - sunglasses
+  - hanging
 - - curator
   - named
   - mungo
 - - terribly
   - crumbly
   - van
-- - muttering
-  - threats
-  - lars
-- - watch
-  - incandescent
-  - liquid
 - - red
   - shelves
   - stacked
-- - lars
-  - heavily
-  - bearded
-- - precipice
-  - van
-  - gob
-- - party
-  - venables
-  - piccolo
-- - crumbly
-  - van
-  - gob
-- - named
-  - mungo
-  - gifts
-- - saying
-  - glubb
-  - marched
-- - van
-  - gob
-  - brandished
-- - melt
-  - mungo's
-  - cold
-- - tin
-  - telescope
-  - witlessly
 - - exhausted
   - category
   - b
+- - melt
+  - mungo's
+  - cold
+- - named
+  - mungo
+  - gifts
+- - precipice
+  - van
+  - gob
+- - crumbly
+  - van
+  - gob
+- - van
+  - gob
+  - brandished
 - - pebbles
   - lying
   - scattered
 - - unlike
   - earlier
   - translators
-- - seemed
-  - terribly
-  - crumbly
+- - tin
+  - telescope
+  - witlessly
 - - hungarian
   - unlike
   - earlier
+- - seemed
+  - terribly
+  - crumbly
 - - threats
   - lars
   - merely
@@ -200,69 +200,72 @@ ngrams:
 - - eyes
   - gleamed
   - dangerously
-- - telescope
-  - witlessly
-  - left
-- - battered
-  - tin
-  - cup
 - - rapid
   - progress
   - towards
 - - enough
   - oxygen
   - tents
-- - three
-  - distinct
-  - categories
+- - battered
+  - tin
+  - cup
+- - telescope
+  - witlessly
+  - left
 - - gulp
   - moments
   - later
-- - seen
-  - red
-  - shelves
-- - mungo's
-  - cold
-  - black
+- - three
+  - distinct
+  - categories
 - - sterling
   - work
   - shoring
-- - entire
-  - water
-  - supply
+- - seen
+  - red
+  - shelves
 - - brought
   - enough
   - oxygen
-- - vital
+- - mungo's
+  - cold
+  - black
+- - entire
+  - water
   - supply
-  - each
 - - along
   - various
   - stages
-- - vanished
-  - without
-  - trace
 - - snapshots
   - along
   - various
+- - vanished
+  - without
+  - trace
+- - vital
+  - supply
+  - each
 - - cold
   - black
   - heart
 - - burning
   - clay
   - until
-- - set
-  - swinging
-  - high
 - - booming
   - voice
   - quite
+- - set
+  - swinging
+  - high
 - - make
   - hoods
   - blankets
 - - voice
   - quite
   - unlike
+- - along
+  - thus
+  - consigning
 - - marched
   - away
   - uphill
@@ -275,84 +278,78 @@ ngrams:
 - - urging
   - us
   - onward
-- - along
-  - thus
-  - consigning
-- - called
-  - home
-  - glubb
 - - heroic
   - urging
   - us
+- - called
+  - home
+  - glubb
 - - us
   - onward
   - whenever
 - - manuscript
   - breaks
   - 'off'
-- - sunglasses
-  - hanging
-  - 'off'
-- - made
-  - rapid
-  - progress
 - - look
   - rather
   - surprised
-- - while
-  - everyone
-  - else
 - - took
   - snapshots
   - along
+- - sunglasses
+  - hanging
+  - 'off'
+- - while
+  - everyone
+  - else
+- - made
+  - rapid
+  - progress
 - - see
   - lars
   - heavily
 - - cracked
   - basin
   - back
-- - black
-  - heart
-  - should
 - - many
   - earlier
   - pilgrims
-- - offered
-  - mass
-  - just
 - - next
   - morning
   - lars
+- - black
+  - heart
+  - should
 - - gear
   - before
   - diving
+- - offered
+  - mass
+  - just
 - - us
   - lars
   - carried
 - - away
   - uphill
   - towards
-- - our
-  - vital
-  - supply
-- - only
-  - incoherent
-  - wheezing
 - - wheelchair
   - over
   - ravines
-- - lame
-  - horse
-  - through
+- - our
+  - vital
+  - supply
 - - over
   - concealed
   - heaps
 - - stumbled
   - over
   - concealed
-- - songbook
-  - met
-  - only
+- - only
+  - incoherent
+  - wheezing
+- - lame
+  - horse
+  - through
 - - thus
   - consigning
   - us
@@ -368,30 +365,30 @@ ngrams:
 - - gob
   - did
   - sterling
+- - songbook
+  - met
+  - only
 - - kept
   - our
   - spirits
-- - charming
-  - japes
-  - like
-- - only
-  - sour
-  - note
-- - heard
-  - only
-  - incoherent
 - - moments
   - later
   - just
-- - her
-  - bunsen
-  - burner
 - - van
   - gob
   - did
+- - charming
+  - japes
+  - like
+- - heard
+  - only
+  - incoherent
 - - eyes
   - glazed
   - over
+- - only
+  - sour
+  - note
 - - tension
   - mounted
   - then
@@ -401,39 +398,42 @@ ngrams:
 - - mounted
   - then
   - horst
-- - last
-  - delaying
-  - only
+- - her
+  - bunsen
+  - burner
 - - then
   - horst
   - discovered
 - - did
   - sterling
   - work
-- - some
-  - aimless
-  - discussions
-- - painted
-  - crimson
-  - some
-- - us
-  - after
-  - extricating
 - - could
   - hardly
   - hear
-- - him
-  - charming
-  - japes
+- - some
+  - aimless
+  - discussions
+- - last
+  - delaying
+  - only
+- - us
+  - after
+  - extricating
 - - eighth
   - day
   - while
-- - some
-  - strange
-  - blueish
+- - painted
+  - crimson
+  - some
 - - day
   - while
   - everyone
+- - him
+  - charming
+  - japes
+- - some
+  - strange
+  - blueish
 - - very
   - little
   - snow
@@ -452,51 +452,33 @@ ngrams:
 - - crevasse
   - halfway
   - up
-- - sky
-  - has
-  - vanished
 - - supply
   - each
   - time
+- - sky
+  - has
+  - vanished
 - - invariably
   - been
   - shat
-- - your
-  - sight
-  - farewell
 - - shall
   - never
   - know
+- - your
+  - sight
+  - farewell
 - - limped
   - away
   - some
+- - worried
+  - about
+  - lars
 - - were
   - furious
   - venables
 - - tempers
   - were
   - frayed
-- - meeting
-  - tempers
-  - were
-- - some
-  - days
-  - later
-- - crimson
-  - some
-  - years
-- - worried
-  - about
-  - lars
-- - ear
-  - struggling
-  - into
-- - were
-  - mere
-  - gasps
-- - were
-  - discovered
-  - wedged
 - - walrus
   - moustache
   - when
@@ -509,48 +491,66 @@ ngrams:
 - - furiously
   - doling
   - out
-- - saw
-  - him
-  - again
-- - became
-  - worried
-  - about
+- - meeting
+  - tempers
+  - were
+- - ear
+  - struggling
+  - into
+- - crimson
+  - some
+  - years
 - - when
   - dennis
   - spotting
 - - some
-  - years
-  - earlier
+  - days
+  - later
+- - were
+  - mere
+  - gasps
+- - became
+  - worried
+  - about
+- - were
+  - discovered
+  - wedged
 - - next
   - day
   - before
-- - after
-  - some
-  - aimless
-- - strategy
-  - after
-  - some
 - - occurred
   - when
   - dennis
+- - some
+  - years
+  - earlier
+- - after
+  - some
+  - aimless
+- - saw
+  - him
+  - again
+- - strategy
+  - after
+  - some
 - - chrysanthemums
   - inveigle
   - me
-- - were
-  - four
-  - hundred
 - - inventory
   - into
   - three
 - - into
   - three
   - distinct
-- - away
-  - some
-  - days
+- - communion
+  - wafer
+  - we
 - - will
   - exhaust
   - within
+- - pitched
+  - tents
+  - we
 story:
   date: 2004-07-21
   id: 2004-07-21-the-ascent-of-the-mountain-at-hoon

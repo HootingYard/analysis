@@ -17,9 +17,6 @@ ngrams:
 - - gurgling
   - wheezing
   - bubbling
-- - drumming
-  - piping
-  - squealing
 - - grinding
   - hammering
   - giggling
@@ -41,18 +38,21 @@ ngrams:
 - - investigator
   - algernon
   - spooky
-- - calla
-  - lilies
-  - hanging
+- - drumming
+  - piping
+  - squealing
 - - muffins
   - algernon
   - spooky
-- - knocking
-  - drumming
-  - piping
 - - hammering
   - giggling
   - puffing
+- - calla
+  - lilies
+  - hanging
+- - knocking
+  - drumming
+  - piping
 - - spooky
   - declared
   - confidently
@@ -68,33 +68,33 @@ ngrams:
 - - wheezing
   - bubbling
   - grunting
+- - bubbling
+  - grunting
+  - sucking
 - - albino
   - ghost
   - trailing
 - - inexplicable
   - hissing
   - buzzing
-- - bubbling
-  - grunting
-  - sucking
 - - sucking
   - noises
   - distressed
 - - algernon
   - spooky
   - accompanied
-- - toffee
-  - sweets
-  - removed
-- - monstrous
-  - invisible
-  - spider
 - - algernon
   - spooky
   - speaking
+- - toffee
+  - sweets
+  - removed
 - - invisible
   - spider
   - lurking
+- - monstrous
+  - invisible
+  - spider
 - - grunting
   - sucking
   - noises
@@ -110,27 +110,27 @@ ngrams:
 - - sopping
   - wet
   - thursday
-- - distressed
-  - beyond
-  - measure
 - - somewhat
   - shady
   - character
+- - distressed
+  - beyond
+  - measure
 - - noises
   - distressed
   - beyond
 - - crumbling
   - manor
   - house
-- - disused
-  - billiards
-  - room
-- - puny
-  - human
-  - senses
 - - paper
   - wrappers
   - throughout
+- - puny
+  - human
+  - senses
+- - disused
+  - billiards
+  - room
 - - lurking
   - within
   - unseen
@@ -155,27 +155,27 @@ ngrams:
 - - unseen
   - why
   - precisely
-- - kept
-  - excusing
-  - himself
 - - another
   - chicken
   - entirely
+- - kept
+  - excusing
+  - himself
 - - passed
   - without
   - apparent
 - - hooting
   - gnashing
   - gurgling
+- - most
+  - perplexing
+  - cases
 - - whistling
   - hooting
   - gnashing
 - - puffing
   - whistling
   - hooting
-- - most
-  - perplexing
-  - cases
 - - within
   - unseen
   - why
@@ -209,42 +209,36 @@ ngrams:
 - - than
   - impressive
   - bouffant
-- - realms
-  - beyond
-  - our
-- - stood
-  - puzzling
-  - over
 - - incident
   - after
   - breakfast
+- - stood
+  - puzzling
+  - over
 - - pencil
   - poised
   - over
-- - beyond
+- - realms
+  - beyond
   - our
-  - puny
 - - phenomena
   - over
   - tea
+- - beyond
+  - our
+  - puny
+- - less
+  - than
+  - impressive
+- - less
+  - than
+  - impressive
 - - our
   - puny
   - human
-- - her
-  - notepad
-  - preparatory
-- - less
-  - than
-  - impressive
-- - less
-  - than
-  - impressive
 - - than
   - wonderment
   - don't
-- - papa
-  - her
-  - propelling
 - - better
   - than
   - wonderment
@@ -255,14 +249,20 @@ ngrams:
   - could
   - utter
 - - her
+  - notepad
+  - preparatory
+- - papa
+  - her
   - propelling
-  - pencil
+- - its
+  - wake
+  - several
 - - her
   - propelling
   - pencil
 - - her
-  - mouth
-  - beside
+  - propelling
+  - pencil
 story:
   date: 2016-01-22
   id: 2016-01-22-the-unsucked-toffee

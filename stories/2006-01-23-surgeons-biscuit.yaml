@@ -8,12 +8,12 @@ ngrams:
 - - average
   - surgeon
   - albeit
-- - famous
-  - surgeon
-  - despite
 - - rough
   - tough
   - parents
+- - famous
+  - surgeon
+  - despite
 - - wondered
   - slowly
   - moving
@@ -23,12 +23,12 @@ ngrams:
 - - spacious
   - important
   - consulting
-- - single
-  - medical
-  - journal
 - - important
   - consulting
   - rooms
+- - single
+  - medical
+  - journal
 - - black
   - beetle
   - crawled
@@ -38,9 +38,6 @@ ngrams:
 - - black
   - beetle
   - disease
-- - rare
-  - black
-  - beetle
 - - numinous
   - almost
   - golden
@@ -50,6 +47,9 @@ ngrams:
 - - opened
   - packet
   - towards
+- - rare
+  - black
+  - beetle
 - - beetle
   - crawled
   - across
@@ -62,12 +62,12 @@ ngrams:
 - - black
   - beetle
   - sat
-- - misspelled
-  - name
-  - dying
 - - seconds
   - without
   - paying
+- - misspelled
+  - name
+  - dying
 - - nine
   - seconds
   - without
@@ -77,6 +77,9 @@ ngrams:
 - - name
   - appeared
   - misspelled
+- - appeared
+  - misspelled
+  - yet
 - - past
   - three
   - decades
@@ -86,51 +89,48 @@ ngrams:
 - - most
   - famous
   - surgeon
-- - appeared
-  - misspelled
-  - yet
-- - expected
-  - little
-  - vladimir
 - - medical
   - journal
   - ever
-- - old
-  - parlour
-  - game
-- - journal
-  - ever
-  - managed
-- - beetle
-  - sat
-  - still
-- - surgeon
-  - despite
-  - being
+- - expected
+  - little
+  - vladimir
 - - think
   - surgeon's
   - biscuit
-- - column
-  - two
-  - line
-- - despite
-  - being
-  - referred
+- - journal
+  - ever
+  - managed
+- - old
+  - parlour
+  - game
+- - beetle
+  - sat
+  - still
 - - almost
   - golden
   - thing
+- - surgeon
+  - despite
+  - being
+- - despite
+  - being
+  - referred
+- - column
+  - two
+  - line
 - - six
   - column
   - two
-- - seen
-  - two
-  - thirds
 - - great
   - biscuit
   - rather
 - - misspelled
   - yet
   - again
+- - seen
+  - two
+  - thirds
 - - haemoglobin
   - monitor
   - where
@@ -146,21 +146,21 @@ ngrams:
 - - its
   - dead
   - shell
-- - escaped
-  - its
-  - dead
-- - yet
-  - again
-  - why
 - - rather
   - than
   - bite
+- - escaped
+  - its
+  - dead
 - - biscuit
   - rather
   - than
 - - pack
   - without
   - even
+- - yet
+  - again
+  - why
 - - surgeon's
   - biscuit
   - some
@@ -176,24 +176,24 @@ ngrams:
 - - black
   - beetles
   - do
-- - tough
-  - hovel
-  - who
 - - least
   - attention
   - now
+- - tough
+  - hovel
+  - who
 - - ate
   - them
   - straight
-- - biscuit
-  - some
-  - people
 - - their
   - rough
   - tough
 - - spark
   - lit
   - up
+- - biscuit
+  - some
+  - people
 - - thing
   - some
   - quirk

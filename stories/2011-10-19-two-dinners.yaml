@@ -11,12 +11,12 @@ ngrams:
 - - pullets
   - ducklings
   - teal
-- - venomous
-  - reptile
-  - defiers
 - - ducklings
   - teal
   - peacocks
+- - venomous
+  - reptile
+  - defiers
 - - eaters
   - venomous
   - reptile
@@ -26,18 +26,15 @@ ngrams:
 - - figs
   - dates
   - prunes
-- - cherries
-  - pears
-  - apples
 - - defiers
   - sword
   - swallowers
+- - cherries
+  - pears
+  - apples
 - - reptile
   - defiers
   - sword
-- - apples
-  - damsons
-  - oranges
 - - ian
   - donaldson
   - reviewed
@@ -47,30 +44,33 @@ ngrams:
 - - teal
   - peacocks
   - rabbits
+- - apples
+  - damsons
+  - oranges
 - - poison
   - eaters
   - venomous
 - - prawns
   - salmon
   - salt
-- - center
-  - lamp
-  - oil
 - - lamp
   - oil
   - wick
-- - turtles
-  - rats
-  - bats
+- - center
+  - lamp
+  - oil
 - - flies
   - crickets
   - grasshoppers
-- - partridges
-  - owls
-  - cuckoos
 - - crickets
   - grasshoppers
   - church
+- - turtles
+  - rats
+  - bats
+- - partridges
+  - owls
+  - cuckoos
 - - grasshoppers
   - church
   - beetles
@@ -92,27 +92,27 @@ ngrams:
 - - welcome
   - prince
   - henry
-- - ostriches
-  - strong
-  - men
 - - swallowers
   - human
   - ostriches
 - - sword
   - swallowers
   - human
+- - ostriches
+  - strong
+  - men
 - - strong
   - men
   - etc
-- - human
-  - ostriches
-  - strong
 - - spider
   - webs
   - full
 - - hanging
   - side
   - lamps
+- - human
+  - ostriches
+  - strong
 - - small
   - explosive
   - squibs

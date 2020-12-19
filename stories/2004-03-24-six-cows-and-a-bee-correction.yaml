@@ -1,13 +1,13 @@
 ngrams:
-- - friday
-  - th
-  - march
 - - completely
   - erroneous
   - wool
 - - bee
   - correction
   - due
+- - friday
+  - th
+  - march
 - - spring
   - mrs
   - gubbins
@@ -32,12 +32,12 @@ ngrams:
 - - were
   - completely
   - erroneous
-- - th
-  - march
-  - were
 - - march
   - were
   - completely
+- - th
+  - march
+  - were
 story:
   date: 2004-03-24
   id: 2004-03-24-six-cows-and-a-bee-correction

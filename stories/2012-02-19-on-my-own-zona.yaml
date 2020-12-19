@@ -2,18 +2,15 @@ ngrams:
 - - echoing
   - geoff
   - dyer
-- - lynn
-  - alec's
-  - colleague
 - - zona
   - echoing
   - geoff
+- - lynn
+  - alec's
+  - colleague
 - - harvest
   - mervyn
   - leroy
-- - brooding
-  - jacobean
-  - tragedy
 - - boating
   - jacques
   - rivette
@@ -23,96 +20,81 @@ ngrams:
 - - al
   - powell
   - parked
-- - howard
-  - '-'
-  - sergeant
+- - brooding
+  - jacobean
+  - tragedy
 - - torchlit
   - nocturnal
   - masked
 - - stephen
   - lynn
   - alec's
-- - '-'
-  - sergeant
-  - al
 - - masked
   - ball
   - morag
 - - random
   - harvest
   - mervyn
-- - johnson
-  - '-'
-  - dolly
 - - compellingly
   - obvious
   - hans
-- - nocturnal
-  - masked
-  - ball
 - - obvious
   - hans
   - gruber
-- - exasperating
-  - friend
-  - dolly
+- - nocturnal
+  - masked
+  - ball
 - - ruthless
   - german
   - criminals
 - - german
   - criminals
   - pitted
+- - exasperating
+  - friend
+  - dolly
 - - pirate
   - castle
   - musicians
-- - geoff
-  - dyer
-  - cast
 - - strategies
   - seem
   - compellingly
-- - dark
-  - brooding
-  - jacobean
+- - geoff
+  - dyer
+  - cast
 - - encounter
   - david
   - lean
-- - cop
-  - john
-  - mcclane
-- - professional
-  - medical
-  - knowledge
 - - powell
   - parked
   - close
+- - dark
+  - brooding
+  - jacobean
 - - seem
   - compellingly
   - obvious
-- - york
-  - cop
-  - john
+- - professional
+  - medical
+  - knowledge
 - - avengers
   - dr
   - alec
-- - chaplin
-  - '-'
-  - dr
+- - cop
+  - john
+  - mcclane
 - - dr
   - alec
   - harvey
-- - '-'
-  - dr
-  - alec
+- - york
+  - cop
+  - john
 - - dr
   - stephen
   - lynn
 - - dr
   - stephen
   - lynn
-- - '-'
-  - dr
-  - stephen
 - - brief
   - encounter
   - david
@@ -125,99 +107,117 @@ ngrams:
 - - chronological
   - order
   - brief
-- - whose
-  - sepulchral
-  - tones
 - - alphabetical
   - order
   - brief
-- - actor
-  - whose
-  - sepulchral
-- - order
-  - brief
-  - encounter
 - - criminals
   - pitted
   - against
+- - whose
+  - sepulchral
+  - tones
+- - order
+  - brief
+  - encounter
+- - actor
+  - whose
+  - sepulchral
+- - '-'
+  - sergeant
+  - al
+- - howard
+  - '-'
+  - sergeant
+- - johnson
+  - '-'
+  - dolly
 - - dwarfs
   - started
   - small
 - - radio
   - series
   - appointment
-- - die
-  - hard
-  - john
-- - together
-  - various
-  - combinations
 - - bbc
   - radio
   - series
+- - together
+  - various
+  - combinations
 - - cobble
   - together
   - various
+- - die
+  - hard
+  - john
 - - trains
   - nor
   - albert
 - - female
   - pirates
   - both
-- - junction
-  - tea
-  - room
 - - steam
   - trains
   - nor
-- - lynn
-  - perhaps
-  - applying
-- - jacobean
-  - tragedy
-  - should
+- - chaplin
+  - '-'
+  - dr
+- - '-'
+  - dr
+  - alec
 - - pirate
   - gang
   - rather
+- - lynn
+  - perhaps
+  - applying
+- - junction
+  - tea
+  - room
+- - jacobean
+  - tragedy
+  - should
 - - stephen
   - lynn
   - perhaps
-- - tragedy
-  - should
-  - serve
+- - '-'
+  - dr
+  - stephen
 - - own
   - zona
   - echoing
-- - action
-  - takes
-  - place
+- - tragedy
+  - should
+  - serve
 - - young
   - persons
   - call
+- - action
+  - takes
+  - place
 - - each
   - colliding
   - happily
+- - certain
+  - scenes
+  - reading
+- - remember
+  - certain
+  - scenes
 - - long
   - movie
   - summary
 - - tragedy
   - long
   - attributed
-- - remember
-  - certain
-  - scenes
-- - certain
-  - scenes
-  - reading
 - - julie
   - go
   - boating
-- - john
-  - mcclane
-  - should
 - - go
   - boating
   - jacques
+- - john
+  - mcclane
+  - should
 - - new
   - york
   - cop
@@ -230,30 +230,30 @@ ngrams:
 - - sepulchral
   - tones
   - made
+- - pirates
+  - both
+  - perhaps
 - - dark
   - somewhere
   - too
 - - tea
   - room
   - nor
-- - pirates
-  - both
-  - perhaps
-- - bit
-  - carried
-  - away
 - - much
   - anything
   - directed
-- - mick
-  - jagger
-  - said
+- - bit
+  - carried
+  - away
 - - any
   - jacobean
   - tragedies
 - - pretty
   - much
   - anything
+- - mick
+  - jagger
+  - said
 - - any
   - steam
   - trains
@@ -263,15 +263,15 @@ ngrams:
 - - even
   - dwarfs
   - started
-- - still
-  - remember
-  - certain
-- - godard
-  - he's
-  - such
 - - similar
   - approach
   - might
+- - godard
+  - he's
+  - such
+- - still
+  - remember
+  - certain
 - - new
   - book
   - zona
@@ -284,36 +284,36 @@ ngrams:
 - - criminal
   - gang
   - could
-- - alec
-  - harvey
-  - can
 - - gang
   - rather
   - than
+- - alec
+  - harvey
+  - can
 - - harvey
   - can
   - sit
-- - ever
-  - sit
-  - down
 - - can
   - cobble
   - together
-- - john
-  - mcclane
-  - who
-- - canal
-  - just
-  - before
+- - ever
+  - sit
+  - down
 - - otherwise
   - stirred
   - them
-- - made
-  - something
-  - new
+- - canal
+  - just
+  - before
+- - john
+  - mcclane
+  - who
 - - stirred
   - them
   - together
+- - made
+  - something
+  - new
 story:
   date: 2012-02-19
   id: 2012-02-19-on-my-own-zona

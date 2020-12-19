@@ -44,12 +44,12 @@ ngrams:
 - - seems
   - scarcely
   - solid
-- - fictional
-  - loot
-  - hidden
 - - somebody
   - else
   - arthur
+- - fictional
+  - loot
+  - hidden
 - - director
   - dear
   - sir
@@ -59,57 +59,57 @@ ngrams:
 - - sails
   - billowing
   - nothing
-- - three
-  - brisk
-  - capers
 - - dusty
   - ethiopian
   - air
+- - three
+  - brisk
+  - capers
 - - lot
   - four
   - tusks
 - - aboard
   - thus
   - arthur
-- - right
-  - leg
-  - present
 - - shipping
   - lines
   - going
 - - loot
   - hidden
   - under
-- - brisk
-  - capers
-  - around
-- - lot
-  - three
-  - tusks
-- - night
-  - vast
-  - illimitable
+- - right
+  - leg
+  - present
 - - recorded
   - words
   - dictated
 - - carried
   - aboard
   - thus
+- - night
+  - vast
+  - illimitable
+- - brisk
+  - capers
+  - around
+- - lot
+  - three
+  - tusks
 - - hidden
   - under
   - snow
-- - distant
-  - city
-  - across
 - - hot
   - nor
   - dusty
-- - phantom
-  - ship
-  - perhaps
+- - distant
+  - city
+  - across
 - - correct
   - though
   - numbed
+- - phantom
+  - ship
+  - perhaps
 - - neither
   - hot
   - nor
@@ -119,9 +119,6 @@ ngrams:
 - - must
   - begin
   - somewhere
-- - two
-  - thousand
-  - poisoned
 - - own
   - right
   - leg
@@ -131,6 +128,9 @@ ngrams:
 - - lot
   - two
   - tusks
+- - two
+  - thousand
+  - poisoned
 - - ship
   - whose
   - name
@@ -140,18 +140,15 @@ ngrams:
 - - our
   - shoulder
   - mindful
+- - glistens
+  - even
+  - shimmers
 - - solid
   - beneath
   - our
 - - last
   - recorded
   - words
-- - glistens
-  - even
-  - shimmers
-- - africa
-  - '-'
-  - where
 - - leave
   - our
   - cabin
@@ -161,78 +158,81 @@ ngrams:
 - - cold
   - even
   - icy
-- - our
-  - right
-  - leg
-- - our
-  - right
-  - leg
 - - bitter
   - cold
   - even
-- - pointless
-  - journey
-  - like
+- - our
+  - right
+  - leg
+- - our
+  - right
+  - leg
 - - something
   - tells
   - us
+- - pointless
+  - journey
+  - like
+- - africa
+  - '-'
+  - where
 - - face
   - death
   - before
 - - hobble
   - our
   - own
+- - am
+  - completely
+  - paralysed
+- - could
+  - equally
+  - mean
 - - may
   - face
   - death
 - - room
   - like
   - boswell
-- - could
-  - equally
-  - mean
-- - left
-  - her
-  - homeland
-- - am
-  - completely
-  - paralysed
 - - parlay
   - our
   - way
 - - our
   - own
   - right
+- - left
+  - her
+  - homeland
 - - sailor
   - who
   - carries
 - - japanese
   - student
   - who
-- - too
-  - may
-  - face
 - - billowing
   - nothing
   - can
-- - see
-  - our
-  - right
-- - time
-  - please
-  - let
+- - too
+  - may
+  - face
 - - good
   - time
   - please
-- - its
-  - wrecking
-  - 'off'
-- - over
-  - our
-  - shoulder
+- - time
+  - please
+  - let
 - - nothing
   - can
   - stop
+- - see
+  - our
+  - right
+- - over
+  - our
+  - shoulder
+- - its
+  - wrecking
+  - 'off'
 - - student
   - who
   - left
@@ -248,24 +248,18 @@ ngrams:
 - - collapse
   - upon
   - our
+- - don't
+  - even
+  - know
 - - tusks
   - divided
   - into
 - - surely
   - do
   - us
-- - don't
-  - even
-  - know
-- - captain
-  - your
-  - tusks
 - - questions
   - about
   - shipping
-- - carry
-  - him
-  - away
 - - hides
   - hung
   - out
@@ -275,6 +269,9 @@ ngrams:
 - - can
   - stop
   - us
+- - captain
+  - your
+  - tusks
 - - divided
   - into
   - five
@@ -284,15 +281,18 @@ ngrams:
 - - five
   - lots
   - into
+- - carry
+  - him
+  - away
 - - ask
   - questions
   - about
-- - our
-  - way
-  - through
 - - rest
   - flat
   - out
+- - our
+  - way
+  - through
 - - us
   - 'no'
   - harm
@@ -305,36 +305,36 @@ ngrams:
 - - uncertainty
   - we
   - dismiss
-- - incinerator
-  - we
-  - awake
 - - docks
   - we
   - lean
+- - incinerator
+  - we
+  - awake
 - - we
   - haul
   - ourselves
 - - cabin
   - we
   - collapse
-- - street
-  - will
-  - tell
 - - voyage
   - we
   - thank
-- - lots
-  - we
-  - reply
 - - berth
   - we
   - wait
-- - greets
-  - us
-  - what
+- - lots
+  - we
+  - reply
+- - street
+  - will
+  - tell
 - - hard
   - bunk
   - we
+- - greets
+  - us
+  - what
 - - five
   - lots
   - we
@@ -344,39 +344,39 @@ ngrams:
 - - lines
   - going
   - all
-- - your
-  - tusks
-  - may
-- - are
-  - honest
-  - capable
+- - quite
+  - sure
+  - if
 - - completely
   - paralysed
   - so
 - - are
-  - shipping
-  - lines
+  - honest
+  - capable
 - - please
   - let
   - me
-- - quite
-  - sure
-  - if
-- - phantom
-  - ship
-  - which
+- - are
+  - shipping
+  - lines
 - - ship
   - look
   - there
 - - begin
   - somewhere
   - so
-- - who
-  - left
-  - her
-- - are
-  - soon
-  - asleep
+- - your
+  - tusks
+  - may
+- - though
+  - numbed
+  - would
+- - phantom
+  - ship
+  - which
+- - we
+  - must
+  - begin
 story:
   date: 2012-05-16
   id: 2012-05-16-on-aphinar

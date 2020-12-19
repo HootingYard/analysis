@@ -2,12 +2,12 @@ ngrams:
 - - travelling
   - rug
   - salesman
-- - medical
-  - literature
-  - warns
 - - demonstrates
   - r
   - '''s'
+- - medical
+  - literature
+  - warns
 - - correspondent
   - r
   - shares
@@ -26,9 +26,6 @@ ngrams:
 - - becomes
   - rug
   - thus
-- - three
-  - letters
-  - reverse
 - - carpets
   - quite
   - literally
@@ -38,6 +35,9 @@ ngrams:
 - - especially
   - carpets
   - quite
+- - three
+  - letters
+  - reverse
 - - gurdjieff
   - began
   - life
@@ -62,15 +62,15 @@ ngrams:
 - - first
   - three
   - letters
-- - see
-  - how
-  - human
 - - human
   - destinies
   - can
 - - destinies
   - can
   - sometimes
+- - see
+  - how
+  - human
 - - letters
   - reverse
   - them
@@ -89,9 +89,9 @@ ngrams:
 - - wonder
   - if
   - r
-- - getting
-  - all
-  - worked
+- - comment
+  - takes
+  - me
 story:
   date: 2009-06-18
   id: 2009-06-18-a-note-on-rugs

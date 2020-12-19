@@ -2,12 +2,12 @@ ngrams:
 - - giuseppe
   - fonseca
   - suits
-- - knitters
-  - needing
-  - peace
 - - knot
   - knitters
   - needing
+- - knitters
+  - needing
+  - peace
 - - proprietary
   - cleansing
   - spray
@@ -17,45 +17,42 @@ ngrams:
 - - strained
   - adams
   - apple
-- - boffo
-  - splendido
-  - shoes
 - - knot
   - knitter
   - brutes
-- - j
-  - alfred
-  - prufrock
+- - boffo
+  - splendido
+  - shoes
 - - peculiar
   - knitting
   - styles
-- - adult
-  - crime
-  - thriller
-- - weekly
-  - heist
-  - intelligencer
 - - civic
   - knot
   - knitters
-- - italian
-  - detectives
-  - push
+- - weekly
+  - heist
+  - intelligencer
+- - j
+  - alfred
+  - prufrock
+- - adult
+  - crime
+  - thriller
 - - challenging
   - expertise
   - needed
-- - horrid
-  - teeth
-  - bungled
+- - italian
+  - detectives
+  - push
 - - knitting
   - styles
   - therefore
 - - stylishly
   - dressed
   - italian
-- - gubbins
-  - seventh
-  - heist
+- - hurrying
+  - brute
+  - refer
 - - adoptive
   - parents
   - perished
@@ -65,12 +62,15 @@ ngrams:
 - - observant
   - getting
   - distracted
-- - hurrying
-  - brute
-  - refer
 - - cobbled
   - street
   - toward
+- - horrid
+  - teeth
+  - bungled
+- - gubbins
+  - seventh
+  - heist
 - - police
   - investigators
   - tramping
@@ -80,84 +80,81 @@ ngrams:
 - - mine
   - aren't
   - getting
-- - telepathic
-  - team
-  - spirit
 - - italian
   - police
   - investigators
-- - somewhat
-  - troublesome
-  - task
+- - telepathic
+  - team
+  - spirit
 - - debut
   - monkey
   - sale
-- - thumbs
-  - seven
-  - fingers
+- - somewhat
+  - troublesome
+  - task
 - - narrator
   - doesn't
   - seem
-- - investigation
-  - specialist
-  - ask
-- - character
-  - gets
-  - obsessed
-- - main
-  - character
-  - searches
 - - sale
   - character
   - flaw
-- - sludge
-  - hall
-  - farm
-- - sludge
-  - hall
-  - farm
-- - sludge
-  - hall
-  - farm
-- - sludge
-  - hall
-  - farm
-- - sludge
-  - hall
-  - farm
-- - sludge
-  - hall
-  - farm
-- - sludge
-  - hall
-  - farm
-- - mrs
-  - gubbins
-  - seventh
-- - seems
-  - remarkably
-  - calm
-- - greasy
-  - matted
-  - hair
-- - dressed
-  - italian
-  - police
-- - can't
-  - speak
-  - properly
-- - detectives
-  - push
-  - open
+- - investigation
+  - specialist
+  - ask
+- - thumbs
+  - seven
+  - fingers
 - - main
   - character
+  - searches
+- - character
   - gets
-- - knitter
-  - brutes
-  - don't
+  - obsessed
+- - sludge
+  - hall
+  - farm
+- - sludge
+  - hall
+  - farm
+- - sludge
+  - hall
+  - farm
+- - sludge
+  - hall
+  - farm
+- - sludge
+  - hall
+  - farm
+- - sludge
+  - hall
+  - farm
+- - sludge
+  - hall
+  - farm
 - - monkey
   - rental
   - lives
+- - dressed
+  - italian
+  - police
+- - seems
+  - remarkably
+  - calm
+- - main
+  - character
+  - gets
+- - can't
+  - speak
+  - properly
+- - greasy
+  - matted
+  - hair
+- - knitter
+  - brutes
+  - don't
+- - detectives
+  - push
+  - open
 - - truck
   - driver
   - instead
@@ -167,30 +164,30 @@ ngrams:
 - - brutes
   - don't
   - exist
-- - stealing
-  - bird
-  - seed
+- - monkey
+  - sale
+  - character
+- - mrs
+  - gubbins
+  - seventh
 - - post
   - office
   - robbery
 - - main
   - character
   - says
-- - monkey
-  - sale
-  - character
-- - cave
-  - behind
-  - ramparts
+- - stealing
+  - bird
+  - seed
 - - monkeys
   - strolled
   - behind
+- - cave
+  - behind
+  - ramparts
 - - special
   - drink
   - form
-- - mrs
-  - gubbins
-  - blodgett
 - - almost
   - telepathic
   - team
@@ -206,51 +203,51 @@ ngrams:
 - - door
   - monkey
   - salesman
-- - fool
-  - detective
-  - captain
 - - descriptive
   - piece
   - including
-- - guttural
-  - speech
-  - going
-- - fiction
-  - imitation
-  - people
 - - doesn't
   - really
   - matter
-- - going
-  - fast
-  - slow
+- - guttural
+  - speech
+  - going
+- - fool
+  - detective
+  - captain
 - - quick
   - stroll
   - across
+- - going
+  - fast
+  - slow
 - - quite
   - intriguing
   - extension
-- - blodgett
-  - detective
-  - captain
-- - story
-  - sometimes
-  - talks
+- - fiction
+  - imitation
+  - people
 - - main
   - characters
   - point
+- - mrs
+  - gubbins
+  - blodgett
+- - story
+  - sometimes
+  - talks
 - - investigation
   - specialist
   - again
-- - bullying
-  - because
-  - lots
-- - story
-  - immediately
-  - comes
 - - prince
   - hamlet
   - nor
+- - story
+  - immediately
+  - comes
+- - bullying
+  - because
+  - lots
 - - knot
   - without
   - getting
@@ -263,6 +260,9 @@ ngrams:
 - - character
   - throughout
   - does
+- - blodgett
+  - detective
+  - captain
 - - without
   - getting
   - caught
@@ -272,216 +272,222 @@ ngrams:
 - - topic
   - because
   - everyone
-- - imitation
-  - people
-  - don't
-- - tad
-  - strange
-  - because
-- - detective
-  - trio
-  - until
-- - most
-  - horrific
-  - illness
-- - immediately
-  - comes
-  - across
 - - several
   - monkeys
   - behind
-- - describe
-  - each
-  - character
+- - imitation
+  - people
+  - don't
+- - detective
+  - trio
+  - until
+- - tad
+  - strange
+  - because
+- - immediately
+  - comes
+  - across
 - - line
   - really
   - does
-- - townsfolk
-  - veered
-  - away
+- - most
+  - horrific
+  - illness
 - - serious
   - matter
   - also
 - - clearly
   - quite
   - strange
-- - people
-  - don't
-  - understand
+- - townsfolk
+  - veered
+  - away
+- - quite
+  - light
+  - hearted
+- - describe
+  - each
+  - character
+- - himself
+  - sound
+  - stupid
 - - sound
   - clever
   - because
 - - bit
   - odd
   - because
-- - dilapidated
-  - old
-  - habitation
-- - quite
-  - light
-  - hearted
-- - himself
-  - sound
-  - stupid
+- - people
+  - don't
+  - understand
 - - sound
   - stupid
   - because
-- - potion
-  - wore
-  - 'off'
+- - dilapidated
+  - old
+  - habitation
 - - story
   - comes
   - across
-- - two
-  - thumbs
-  - seven
-- - guide
-  - starts
+- - potion
+  - wore
   - 'off'
 - - being
   - observant
   - getting
-- - same
-  - thing
-  - knitting
 - - making
   - himself
   - sound
-- - took
-  - three
-  - months
+- - same
+  - thing
+  - knitting
+- - guide
+  - starts
+  - 'off'
+- - two
+  - thumbs
+  - seven
 - - very
   - strained
   - adams
 - - very
   - secluded
   - environment
-- - product
-  - called
-  - something
 - - just
   - generally
   - talks
-- - o'clock
-  - every
-  - night
+- - product
+  - called
+  - something
 - - dwelling
   - before
   - accepting
+- - o'clock
+  - every
+  - night
+- - though
+  - rather
+  - repetitive
 - - happen
   - many
   - thoughts
-- - very
-  - dangerous
-  - gang
+- - took
+  - three
+  - months
 - - just
   - sounds
   - stupid
+- - very
+  - dangerous
+  - gang
 - - our
   - hearts
   - flutter
 - - very
   - bad
   - relationship
-- - find
-  - another
-  - rampart
 - - monkey
   - salesman
   - after
-- - intriguing
-  - house
-  - made
 - - don't
   - normally
   - think
-- - though
-  - rather
-  - repetitive
-- - own
-  - special
-  - place
-- - papers
-  - just
-  - ask
-- - impugned
-  - many
-  - times
-- - seems
-  - strange
-  - how
-- - very
-  - nice
-  - picture
-- - young
-  - child
-  - being
-- - only
-  - appears
-  - briefly
-- - clearly
-  - very
-  - regular
+- - find
+  - another
+  - rampart
 - - any
   - hooved
   - beasts
 - - remarkably
   - calm
   - even
+- - impugned
+  - many
+  - times
 - - aren't
   - any
   - main
+- - papers
+  - just
+  - ask
 - - comedy
   - sketch
   - than
+- - own
+  - special
+  - place
 - - secluded
   - haven
+  - such
+- - clearly
+  - very
+  - regular
+- - cleansing
+  - spray
   - such
 - - aren't
   - getting
   - any
+- - hurrying
+  - brute
+  - even
+- - seems
+  - strange
+  - how
 - - actually
   - happen
   - many
-- - cleansing
-  - spray
+- - very
+  - nice
+  - picture
+- - young
+  - child
+  - being
+- - getting
+  - any
+  - younger
+- - hooved
+  - beasts
   - such
 - - really
   - just
   - act
-- - being
-  - caught
-  - seen
-- - getting
-  - any
-  - younger
-- - hurrying
-  - brute
-  - even
-- - hooved
-  - beasts
-  - such
-- - story
-  - just
-  - generally
 - - any
   - main
   - characters
-- - funny
-  - because
-  - most
-- - peasant
-  - went
-  - away
+- - intriguing
+  - house
+  - made
 - - only
-  - real
-  - problem
+  - appears
+  - briefly
+- - being
+  - caught
+  - seen
 - - office
   - robbery
   - than
+- - story
+  - just
+  - generally
+- - really
+  - does
+  - make
+- - peasant
+  - went
+  - away
 - - very
   - descriptive
   - piece
+- - funny
+  - because
+  - most
+- - completely
+  - nonsense
+  - such
+- - fast
+  - slow
+  - did
 - - our
   - hearts
   - whether
@@ -491,99 +497,96 @@ ngrams:
 - - whether
   - our
   - hearts
-- - doesn't
-  - really
-  - know
-- - fast
-  - slow
-  - did
 - - story
   - very
   - odd
+- - doesn't
+  - really
+  - know
 - - escalator
   - just
   - going
-- - completely
-  - nonsense
-  - such
-- - turn
-  - upside
-  - down
-- - isn't
-  - like
-  - drugs
-- - hearts
-  - flutter
-  - like
-- - really
-  - does
-  - make
-- - because
-  - most
-  - stories
 - - piece
   - including
   - many
+- - only
+  - real
+  - problem
 - - throughout
   - does
   - many
+- - turn
+  - upside
+  - down
+- - recall
+  - any
+  - dreams
+- - because
+  - most
+  - stories
 - - knot
   - without
   - being
-- - like
-  - normal
-  - hay
-- - snapped
-  - its
-  - chain
 - - being
   - quite
   - stupid
+- - hearts
+  - flutter
+  - like
+- - isn't
+  - like
+  - drugs
+- - snapped
+  - its
+  - chain
 - - does
   - many
   - strange
 - - without
   - being
   - caught
-- - recall
-  - any
-  - dreams
-- - stories
-  - now
-  - include
+- - like
+  - normal
+  - hay
 - - returning
   - now
   - standing
-- - including
-  - many
-  - words
-- - line
-  - should
-  - say
-- - many
-  - reasons
-  - why
-- - hurrying
-  - brutes
-  - then
+- - stories
+  - now
+  - include
 - - sketch
   - than
   - fact
-- - like
-  - mad
-  - dogs
+- - line
+  - should
+  - say
+- - hurrying
+  - brutes
+  - then
+- - including
+  - many
+  - words
 - - many
-  - strange
-  - things
-- - following
-  - along
-  - after
-- - very
-  - odd
-  - because
+  - reasons
+  - why
 - - each
   - character
   - much
+- - character
+  - much
+  - though
+- - following
+  - along
+  - after
+- - many
+  - strange
+  - things
+- - very
+  - odd
+  - because
+- - like
+  - mad
+  - dogs
 - - knot
   - knitters
   - do
@@ -593,12 +596,609 @@ ngrams:
 - - drink
   - go
   - back
+- - just
+  - making
+  - himself
+- - hurrying
+  - brutes
+  - can
+- - everyone
+  - can
+  - relate
+- - impugning
+  - every
+  - day
+- - once
+  - stood
+  - before
+- - shows
+  - us
+  - how
 - - story
   - sounds
   - like
-- - character
-  - much
+- - brute
+  - even
   - though
+- - happen
+  - even
+  - though
+- - children
+  - words
+  - such
+- - think
+  - how
+  - weird
+- - first
+  - two
+  - paragraphs
+- - us
+  - how
+  - hard
+- - strange
+  - things
+  - such
+- - our
+  - world
+  - making
+- - hooting
+  - yard
+  - part
+- - before
+  - being
+  - chased
+- - yard
+  - part
+  - two
+- - past
+  - read
+  - before
+- - then
+  - everyone
+  - does
+- - now
+  - include
+  - things
+- - knitted
+  - knots
+  - has
+- - child
+  - being
+  - very
+- - being
+  - very
+  - strange
+- - only
+  - three
+  - people
+- - quite
+  - strange
+  - like
+- - story
+  - more
+  - clear
+- - day
+  - being
+  - fascinated
+- - some
+  - pig
+  - farmers
+- - its
+  - own
+  - special
+- - dangerous
+  - gang
+  - who
+- - potion
+  - has
+  - run
+- - its
+  - last
+  - issue
+- - meditations
+  - upon
+  - hooting
+- - who
+  - prince
+  - hamlet
+- - writer
+  - has
+  - described
+- - peasant
+  - who
+  - insulted
+- - never
+  - happen
+  - even
+- - their
+  - giuseppe
+  - fonseca
+- - every
+  - day
+  - morning
+- - character
+  - has
+  - obviously
+- - tug
+  - their
+  - forelocks
+- - investigators
+  - tramping
+  - up
+- - knit
+  - their
+  - knots
+- - most
+  - stories
+  - now
+- - their
+  - knot
+  - knitting
+- - 'no'
+  - main
+  - characters
+- - monkeys
+  - behind
+  - him
+- - continue
+  - their
+  - knot
+- - has
+  - obviously
+  - heard
+- - never
+  - returning
+  - now
+- - pig
+  - farmers
+  - who
+- - because
+  - everyone
+  - can
+- - every
+  - day
+  - until
+- - people
+  - insult
+  - him
+- - some
+  - rather
+  - odd
+- - day
+  - walking
+  - down
+- - did
+  - any
+  - hooved
+- - revolves
+  - around
+  - him
+- - very
+  - unusual
+  - like
+- - called
+  - something
+  - like
+- - asleep
+  - did
+  - any
+- - about
+  - knot
+  - knitters
+- - people
+  - who
+  - wake
+- - talks
+  - about
+  - knot
+- - view
+  - reviewing
+  - what
+- - next
+  - heist
+  - has
+- - generally
+  - talks
+  - about
+- - read
+  - before
+  - being
+- - don't
+  - even
+  - know
+- - can
+  - still
+  - imagine
+- - intriguing
+  - extension
+  - when
+- - knit
+  - honestly
+  - if
+- - situation
+  - extension
+  - if
+- - problem
+  - when
+  - knitting
+- - brutes
+  - can
+  - never
+- - now
+  - very
+  - different
+- - if
+  - sounds
+  - normal
+- - described
+  - what
+  - happened
+- - your
+  - ceiling
+  - it's
+- - some
+  - way
+  - appropriate
+- - behind
+  - him
+  - himself
+- - particular
+  - value
+  - if
+- - sometimes
+  - talks
+  - about
+- - story
+  - about
+  - stealing
+- - real
+  - problem
+  - when
+- - sound
+  - clever
+  - when
+- - children's
+  - story
+  - about
+- - knot
+  - if
+  - particularly
+- - about
+  - stealing
+  - bird
+- - appear
+  - more
+  - than
+- - if
+  - particularly
+  - prepared
+- - people
+  - around
+  - him
+- - its
+  - chain
+  - could
+- - even
+  - such
+  - thing
+- - upon
+  - hooting
+  - yard
+- - your
+  - ceiling
+  - also
+- - 'no'
+  - way
+  - boring
+- - other
+  - like
+  - mad
+- - about
+  - bullying
+  - because
+- - they
+  - edged
+  - closer
+- - impugn
+  - me
+  - daily
+- - thinks
+  - about
+  - why
+- - crime
+  - thriller
+  - there
+- - ceiling
+  - also
+  - if
+- - hurrying
+  - brute
+  - would
+- - nobody
+  - would
+  - normally
+- - serious
+  - because
+  - if
+- - others
+  - there
+  - aren't
+- - thinks
+  - people
+  - will
+- - strolled
+  - behind
+  - me
+- - if
+  - read
+  - aloud
+- - brute
+  - would
+  - try
+- - brute
+  - would
+  - trying
+- - your
+  - two
+  - thumbs
+- - been
+  - impugned
+  - many
+- - her
+  - its
+  - hands
+- - know
+  - who
+  - prince
+- - matter
+  - also
+  - if
+- - more
+  - than
+  - once
+- - story
+  - nowadays
+  - we
+- - hurrying
+  - through
+  - what
+- - would
+  - actually
+  - happen
+- - telling
+  - us
+  - about
+- - could
+  - impugn
+  - him
+- - knots
+  - has
+  - its
+- - has
+  - snapped
+  - its
+- - each
+  - other
+  - like
+- - all
+  - revolves
+  - around
+- - run
+  - out
+  - go
+- - potion
+  - will
+  - make
+- - many
+  - thoughts
+  - about
+- - if
+  - being
+  - chased
+- - value
+  - if
+  - being
+- - act
+  - so
+  - stupid
+- - notices
+  - me
+  - yet
+- - are
+  - hurrying
+  - brutes
+- - are
+  - becoming
+  - maybe
+- - alfred
+  - prufrock
+  - which
+- - owners
+  - are
+  - getting
+- - through
+  - what
+  - seems
+- - can
+  - see
+  - here
+- - seed
+  - which
+  - isn't
+- - just
+  - going
+  - up
+- - nowadays
+  - we
+  - get
+- - religious
+  - hysteria
+  - which
+- - trio
+  - until
+  - they
+- - them
+  - appear
+  - more
+- - hurrying
+  - brute
+  - which
+- - given
+  - up
+  - after
+- - were
+  - very
+  - peculiar
+- - even
+  - thinks
+  - about
+- - prufrock
+  - which
+  - means
+- - cannot
+  - make
+  - out
+- - upside
+  - down
+  - when
+- - really
+  - know
+  - what
+- - still
+  - there
+  - clamber
+- - calm
+  - even
+  - if
+- - given
+  - we
+  - cannot
+- - going
+  - through
+  - your
+- - don't
+  - know
+  - what
+- - telling
+  - us
+  - all
+- - are
+  - blodgett
+  - detective
+- - run
+  - even
+  - if
+- - do
+  - wake
+  - up
+- - do
+  - wake
+  - up
+- - bird
+  - seed
+  - which
+- - who
+  - insulted
+  - him
+- - would
+  - see
+  - hoofprints
+- - were
+  - asleep
+  - did
+- - people
+  - are
+  - hurrying
+- - has
+  - its
+  - own
+- - would
+  - normally
+  - think
+- - unusual
+  - like
+  - when
+- - an
+  - orphan
+  - adopted
+- - an
+  - adult
+  - crime
+- - one
+  - freakish
+  - anomaly
+- - would
+  - never
+  - happen
+- - people
+  - will
+  - think
+- - things
+  - are
+  - becoming
+- - we
+  - cannot
+  - make
+- - habitation
+  - which
+  - once
+- - this
+  - uncontrollable
+  - urge
+- - unique
+  - potion
+  - this
+- - things
+  - were
+  - very
+- - there
+  - aren't
+  - any
+- - three
+  - are
+  - blodgett
+- - boating
+  - accident
+  - this
+- - hoofprints
+  - are
+  - still
+- - never
+  - find
+  - out
+- - hurrying
+  - brute
+  - this
+- - animal
+  - this
+  - paragraph
+- - into
+  - our
+  - world
+- - who
+  - wake
+  - up
+- - has
+  - some
+  - rather
+- - monkey
+  - salesman
+  - this
+- - which
+  - once
+  - stood
+- - potion
+  - this
+  - special
+- - feel
+  - this
+  - urge
+- - out
+  - go
+  - back
+- - an
+  - intriguing
+  - house
 story:
   date: 2010-12-15
   id: 2010-12-15-the-teenpersons-guide-to-hooting-yard-part-two

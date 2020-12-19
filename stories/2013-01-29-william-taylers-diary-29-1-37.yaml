@@ -23,27 +23,30 @@ ngrams:
 - - dinner
   - here
   - today
-- - taken
-  - very
-  - sick
 - - very
   - sick
   - today
-- - caused
-  - her
-  - illness
+- - taken
+  - very
+  - sick
 - - than
   - eight
   - hours
+- - eating
+  - too
+  - much
+- - caused
+  - her
+  - illness
 - - she
   - actually
   - spewed
 - - canterbury
   - she
   - actually
-- - eating
-  - too
-  - much
+- - drink
+  - every
+  - time
 - - she
   - got
   - home
@@ -53,9 +56,6 @@ ngrams:
 - - see
   - her
   - pumping
-- - drink
-  - every
-  - time
 - - recovered
   - after
   - she
@@ -65,9 +65,12 @@ ngrams:
 - - her
   - pumping
   - over
-- - her
-  - sickness
-  - did
+- - stop
+  - even
+  - then
+- - time
+  - than
+  - eight
 - - after
   - she
   - got
@@ -77,18 +80,15 @@ ngrams:
 - - such
   - stuff
   - she
-- - time
+- - her
+  - sickness
+  - did
+- - less
+  - time
   - than
-  - eight
-- - stop
-  - even
-  - then
 - - been
   - eating
   - too
-- - her
-  - any
-  - good
 story:
   date: 2013-01-29
   id: 2013-01-29-william-taylers-diary-29-1-37

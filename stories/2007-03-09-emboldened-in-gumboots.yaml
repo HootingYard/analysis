@@ -1,13 +1,13 @@
 ngrams:
-- - belching
-  - volcanic
-  - gases
-- - turbulent
-  - skies
-  - turbulent
 - - turbulent
   - rivers
   - turbulent
+- - turbulent
+  - skies
+  - turbulent
+- - belching
+  - volcanic
+  - gases
 - - skies
   - turbulent
   - storms
@@ -23,12 +23,15 @@ ngrams:
 - - fangs
   - turbulent
   - rivers
-- - pith
-  - helmet
-  - clapped
 - - brevet
   - cadet
   - sipped
+- - pith
+  - helmet
+  - clapped
+- - weedy
+  - volunteer
+  - brevet
 - - suckers
   - fierce
   - slavering
@@ -44,27 +47,24 @@ ngrams:
 - - plants
   - oozing
   - poison
-- - weedy
-  - volunteer
-  - brevet
-- - monsters
-  - magnetic
-  - anomalies
 - - finest
   - brass
   - bands
+- - monsters
+  - magnetic
+  - anomalies
+- - gramophone
+  - player
+  - hoping
+- - dangerous
+  - mission
+  - footwear
 - - sharp
   - fangs
   - turbulent
 - - razor
   - sharp
   - fangs
-- - dangerous
-  - mission
-  - footwear
-- - gramophone
-  - player
-  - hoping
 - - fierce
   - slavering
   - beasts
@@ -80,84 +80,84 @@ ngrams:
 - - issue
   - dangerous
   - mission
-- - unimaginably
-  - terrible
-  - monsters
+- - brevet
+  - cadet
+  - listen
 - - station
   - commander
   - issued
 - - standard
   - issue
   - dangerous
+- - unimaginably
+  - terrible
+  - monsters
 - - huge
   - plants
   - oozing
-- - brevet
-  - cadet
-  - listen
 - - hot
   - burmese
   - lunchtime
-- - hot
-  - batavian
-  - twilight
-- - terrible
-  - monsters
-  - magnetic
+- - gumboots
+  - listen
+  - puny
 - - burmese
   - lunchtime
   - tea
+- - hot
+  - batavian
+  - twilight
 - - goat
   - deity
   - tucked
 - - batavian
   - twilight
   - tea
-- - gumboots
-  - listen
-  - puny
+- - terrible
+  - monsters
+  - magnetic
 - - piping
   - hot
   - batavian
 - - invisible
   - goat
   - deity
-- - poor
-  - puny
-  - cadet
 - - longer
   - weedy
   - volunteer
+- - listen
+  - puny
+  - cadet
+- - poor
+  - puny
+  - cadet
+- - brevet
+  - cadets
+  - whether
 - - shaking
   - uncontrollably
   - half
 - - poison
   - earth
   - tremors
-- - listen
-  - puny
-  - cadet
-- - oozing
-  - poison
-  - earth
 - - station
   - commander
   - tried
-- - brevet
-  - cadets
-  - whether
-- - poured
-  - four
-  - canteens
+- - oozing
+  - poison
+  - earth
 - - stop
   - whimpering
   - eventually
-- - uncontrollably
-  - half
-  - blind
+- - poured
+  - four
+  - canteens
 - - determined
   - fashion
   - sometimes
+- - uncontrollably
+  - half
+  - blind
 - - field
   - station
   - commander
@@ -170,9 +170,6 @@ ngrams:
 - - field
   - station
   - bid
-- - field
-  - station
-  - nine
 - - hot
   - sumatran
   - breakfast
@@ -181,13 +178,16 @@ ngrams:
   - tea
 - - field
   - station
-  - hut
-- - third
-  - field
-  - station
+  - nine
 - - pipe
   - clamped
   - between
+- - third
+  - field
+  - station
+- - field
+  - station
+  - hut
 - - hurrah
   - boys
   - let
@@ -206,42 +206,42 @@ ngrams:
 - - buffets
   - came
   - soon
-- - gob
-  - wrenched
-  - 'off'
 - - next
   - field
   - station
+- - gob
+  - wrenched
+  - 'off'
 - - nine
   - days
   - later
-- - cause
-  - us
-  - harm
 - - sometimes
   - while
   - clenching
+- - cause
+  - us
+  - harm
 - - every
   - word
   - spoken
 - - sprightly
   - tread
   - through
-- - puny
-  - little
-  - fellow
 - - fashion
   - sometimes
   - while
 - - wearing
   - these
   - gumboots
-- - six
-  - days
-  - later
+- - puny
+  - little
+  - fellow
 - - famed
   - forever
   - after
+- - six
+  - days
+  - later
 - - travel
   - alone
   - through
@@ -260,27 +260,27 @@ ngrams:
 - - boys
   - let
   - us
-- - twilight
-  - tea
-  - down
-- - let
-  - us
-  - march
-- - brevet
-  - cadet
-  - now
-- - cadet
-  - now
-  - headed
 - - blew
   - upon
   - trumpets
-- - wild
-  - lands
-  - where
 - - pinned
   - medals
   - upon
+- - twilight
+  - tea
+  - down
+- - wild
+  - lands
+  - where
+- - brevet
+  - cadet
+  - now
+- - let
+  - us
+  - march
+- - cadet
+  - now
+  - headed
 - - six
   - years
   - later

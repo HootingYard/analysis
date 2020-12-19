@@ -17,9 +17,6 @@ ngrams:
 - - wholly
   - unfamiliar
   - language
-- - john
-  - major's
-  - traffic
 - - ascertain
   - revolved
   - none
@@ -29,15 +26,18 @@ ngrams:
 - - fellow
   - stayed
   - silent
+- - john
+  - major's
+  - traffic
 - - ask
   - increasingly
   - irrelevant
-- - dumb
-  - stupid
-  - cow
 - - remain
   - perky
   - eventually
+- - dumb
+  - stupid
+  - cow
 - - remember
   - honest
   - guv
@@ -74,15 +74,15 @@ ngrams:
 - - perky
   - midway
   - through
+- - compliance
+  - thus
+  - far
 - - most
   - miserably
   - captain
 - - very
   - thorough
   - dwarf
-- - compliance
-  - thus
-  - far
 - - interrogation
   - room
   - well
@@ -95,15 +95,15 @@ ngrams:
 - - too
   - steadily
   - around
+- - even
+  - incomprehensible
+  - questions
 - - james
   - joyce
   - did
 - - like
   - kate
   - winslet
-- - even
-  - incomprehensible
-  - questions
 - - could
   - ascertain
   - revolved
@@ -113,30 +113,30 @@ ngrams:
 - - interrogation
   - lost
   - its
-- - attention
-  - now
-  - passed
-- - some
-  - baby
-  - bio
-- - through
-  - another
-  - door
-- - three
-  - other
-  - miscreants
 - - several
   - hours
   - over
-- - fetch
-  - some
-  - baby
 - - seemed
   - more
   - interested
+- - attention
+  - now
+  - passed
+- - through
+  - another
+  - door
 - - could
   - remember
   - honest
+- - some
+  - baby
+  - bio
+- - three
+  - other
+  - miscreants
+- - fetch
+  - some
+  - baby
 - - himself
   - like
   - kate
@@ -161,48 +161,45 @@ ngrams:
 - - studied
   - their
   - heads
-- - 'no'
-  - written
-  - notes
 - - other
   - way
   - round
+- - 'no'
+  - written
+  - notes
 - - replies
   - were
   - spirited
-- - soon
-  - gave
-  - up
 - - any
   - other
   - circumstances
+- - soon
+  - gave
+  - up
 - - what
   - it's
   - worth
-- - also
-  - been
-  - clapped
 - - their
   - own
   - interrogation
 - - police
   - station
   - into
+- - also
+  - been
+  - clapped
 - - took
   - 'no'
   - written
-- - made
-  - 'no'
-  - attempt
-- - released
-  - me
-  - late
 - - cowed
   - we
   - sheltered
-- - three
-  - were
-  - taken
+- - released
+  - me
+  - late
+- - made
+  - 'no'
+  - attempt
 - - crows
   - would
   - feast
@@ -212,39 +209,42 @@ ngrams:
 - - all
   - possible
   - captain
-- - key
-  - they
-  - released
+- - three
+  - were
+  - taken
 - - door
   - we
   - drove
-- - been
-  - covered
-  - over
+- - key
+  - they
+  - released
 - - we
   - sheltered
   - under
-- - rooms
-  - perhaps
-  - they
-- - thunderstorm
-  - so
-  - terrible
 - - sunlight
   - so
   - bright
+- - thunderstorm
+  - so
+  - terrible
+- - rooms
+  - perhaps
+  - they
+- - been
+  - covered
+  - over
 - - 'no'
   - idea
   - where
 - - we
   - both
   - knew
-- - joyce
-  - did
-  - when
 - - question
   - myself
   - would
+- - joyce
+  - did
+  - when
 - - an
   - awards
   - ceremony
@@ -260,24 +260,24 @@ ngrams:
 - - are
   - chafing
   - most
-- - an
-  - interrogation
-  - room
 - - this
   - fellow
   - stayed
+- - an
+  - interrogation
+  - room
 - - were
   - three
   - other
 - - other
   - three
   - were
-- - vowels
-  - then
-  - they
 - - second
   - day
   - there
+- - vowels
+  - then
+  - they
 - - any
   - case
   - they
@@ -290,60 +290,60 @@ ngrams:
 - - go
   - so
   - long
-- - chap
-  - had
-  - left
-- - window
-  - itself
-  - had
 - - day
   - there
   - came
-- - learned
-  - this
-  - later
 - - honest
   - guv
   - but
-- - had
-  - left
-  - behind
+- - learned
+  - this
+  - later
 - - notes
   - but
   - tapped
+- - window
+  - itself
+  - had
+- - chap
+  - had
+  - left
 - - if
   - lodging
   - what
-- - incomprehensible
-  - questions
-  - from
 - - senseless
   - question
   - but
-- - questions
-  - from
-  - details
-- - kate
-  - winslet
-  - at
-- - were
-  - bundled
-  - out
 - - written
   - notes
   - but
-- - we
-  - ended
-  - up
-- - attempts
+- - rights
+  - or
+  - perhaps
+- - had
+  - left
+  - behind
+- - incomprehensible
+  - questions
+  - from
+- - kate
+  - winslet
   - at
-  - conversation
 - - have
   - answered
   - thousands
+- - were
+  - bundled
+  - out
+- - we
+  - ended
+  - up
 - - questions
-  - hurled
+  - from
+  - details
+- - attempts
   - at
+  - conversation
 story:
   date: 2018-09-11
   id: 2018-09-11-tales-of-duntblau-i

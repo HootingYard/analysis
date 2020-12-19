@@ -11,78 +11,78 @@ ngrams:
 - - gigantic
   - container
   - ships
-- - giant
-  - concrete
-  - bath
 - - municipal
   - park
   - authorities
 - - choc
   - ice
   - dispenser
+- - giant
+  - concrete
+  - bath
 - - automatic
   - choc
   - ice
 - - moment
   - enjoying
   - frolics
+- - choc
+  - ice
+  - tent
+- - choc
+  - ice
+  - tent
 - - grass
   - blodgett
   - recited
-- - choc
-  - ice
-  - tent
-- - choc
-  - ice
-  - tent
+- - below
+  - ground
+  - inaccessible
 - - ice
   - blodgett
   - fumbled
 - - choc
   - ice
   - blodgett
-- - below
-  - ground
-  - inaccessible
-- - feet
-  - blodgett
-  - ran
 - - always
   - pronounced
   - yogurt
-- - feet
-  - below
-  - ground
 - - paddling
   - pool
   - nor
-- - cartons
+- - feet
   - blodgett
-  - always
+  - ran
+- - feet
+  - below
+  - ground
 - - yet
   - verdant
   - parkland
-- - blodgett
-  - always
-  - pronounced
+- - paddling
+  - pool
+  - though
+- - municipal
+  - yet
+  - verdant
 - - antics
   - taking
   - place
 - - great
   - lakes
   - c
-- - municipal
-  - yet
-  - verdant
-- - paddling
-  - pool
-  - though
+- - cartons
+  - blodgett
+  - always
 - - blodgett
-  - ran
-  - across
+  - always
+  - pronounced
 - - ice
   - tent
   - perhaps
+- - blodgett
+  - ran
+  - across
 - - few
   - feet
   - below
@@ -101,15 +101,15 @@ ngrams:
 - - little
   - voice
   - inside
-- - see
-  - big
-  - boxes
 - - very
   - moment
   - enjoying
 - - yet
   - another
   - attempt
+- - see
+  - big
+  - boxes
 - - rolled
   - himself
   - down
@@ -134,21 +134,15 @@ ngrams:
 - - park
   - authorities
   - had
-- - authorities
-  - had
-  - blodgett
 - - place
   - down
   - there
-- - had
+- - authorities
+  - had
   - blodgett
-  - known
 - - inhuman
   - rage
   - but
-- - villains
-  - swinging
-  - from
 - - ice
   - dispenser
   - but
@@ -158,9 +152,15 @@ ngrams:
 - - rage
   - but
   - blodgett
-- - been
-  - drained
-  - all
+- - villains
+  - swinging
+  - from
+- - had
+  - blodgett
+  - known
+- - stared
+  - boldly
+  - at
 story:
   date: 2005-08-09
   id: 2005-08-09-through-clenched-teeth

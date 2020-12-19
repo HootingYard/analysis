@@ -11,27 +11,27 @@ ngrams:
 - - carol
   - reed
   - pausing
-- - arthur
-  - ira
-  - garfunkel
 - - contemplate
   - martyrdom
   - admittedly
-- - actor
-  - bernard
-  - lee
+- - arthur
+  - ira
+  - garfunkel
 - - barbaric
   - execution
   - burned
-- - correctly
-  - placed
-  - obviating
+- - actor
+  - bernard
+  - lee
 - - windowsill
   - magazine
   - placement
 - - magazine
   - placement
   - contraption
+- - correctly
+  - placed
+  - obviating
 - - indispensable
   - guide
   - whenever
@@ -41,12 +41,12 @@ ngrams:
 - - slammed
   - shut
   - volume
-- - ira
-  - garfunkel
-  - half
 - - pretty
   - fair
   - crack
+- - ira
+  - garfunkel
+  - half
 - - sales
   - assistant
   - appeared
@@ -59,99 +59,99 @@ ngrams:
 - - clearly
   - placed
   - ghouls
-- - thousand
-  - miles
-  - distant
 - - flemish
   - pals
   - call
-- - pedal
-  - bin
-  - full
 - - folk
   - wisdom
   - passed
+- - thousand
+  - miles
+  - distant
 - - pals
   - call
   - het
-- - tranche
-  - four
-  - tossed
+- - pedal
+  - bin
+  - full
 - - consists
   - almost
   - exclusively
+- - tranche
+  - four
+  - tossed
 - - second
   - hefty
   - volume
-- - boiling
-  - beige
-  - water
 - - communist
   - menace
   - among
-- - paper
-  - pastry
-  - cases
 - - peasants
   - consists
   - almost
-- - days
-  - touching
-  - matters
+- - boiling
+  - beige
+  - water
+- - paper
+  - pastry
+  - cases
 - - martyrs
   - having
   - failed
 - - reader's
   - digest
   - having
-- - home
-  - usually
-  - proverbs
 - - cheerful
   - whistle
   - perhaps
-- - water
-  - tranche
-  - four
+- - days
+  - touching
+  - matters
+- - home
+  - usually
+  - proverbs
 - - ghouls
   - without
   - monkeys
-- - pastry
-  - cases
-  - also
-- - once
-  - boiling
-  - beige
 - - call
   - common
   - sense
 - - both
   - volumes
   - using
-- - arrived
-  - home
-  - usually
-- - bed
-  - cut
-  - three
+- - pastry
+  - cases
+  - also
 - - neither
   - hide
   - nor
-- - hide
-  - nor
-  - hair
+- - once
+  - boiling
+  - beige
+- - arrived
+  - home
+  - usually
+- - water
+  - tranche
+  - four
 - - same
   - zookeeper
   - told
-- - soon
-  - martyred
-  - along
-- - saying
-  - simply
-  - point
 - - monkeys
   - several
   - hours
+- - soon
+  - martyred
+  - along
+- - hide
+  - nor
+  - hair
+- - bed
+  - cut
+  - three
+- - saying
+  - simply
+  - point
 - - hours
   - ago
   - surely
@@ -176,12 +176,15 @@ ngrams:
 - - usually
   - most
   - efficacious
-- - volume
-  - two
-  - damn
 - - ghouls
   - r
   - us
+- - monkey
+  - together
+  - perhaps
+- - volume
+  - two
+  - damn
 - - two
   - thousand
   - folio
@@ -191,102 +194,99 @@ ngrams:
 - - man
   - carol
   - reed
-- - monkey
-  - together
-  - perhaps
-- - third
-  - man
-  - carol
+- - situation
+  - thus
+  - far
+- - several
+  - hours
+  - later
 - - disconcerting
   - before
   - pressing
 - - several
-  - hours
-  - later
-- - situation
-  - thus
-  - far
+  - minutes
+  - until
 - - monkey
   - trudging
   - through
-- - several
-  - minutes
-  - until
+- - third
+  - man
+  - carol
 - - our
   - flemish
   - pals
 - - mind
   - 'off'
   - ghouls
-- - martyred
-  - after
-  - making
 - - awful
   - sky
   - say
-- - dust
-  - leaving
-  - only
-- - soon
-  - martyred
+- - martyred
   - after
+  - making
 - - way
   - home
   - gibbering
-- - wisdom
-  - passed
-  - down
+- - soon
+  - martyred
+  - after
+- - dust
+  - leaving
+  - only
 - - such
   - folk
   - wisdom
-- - digest
-  - having
-  - made
+- - wisdom
+  - passed
+  - down
+- - might
+  - call
+  - common
 - - perhaps
   - being
   - subjected
+- - digest
+  - having
+  - made
 - - r
   - us
   - once
 - - us
   - once
   - inside
-- - might
-  - call
-  - common
+- - home
+  - after
+  - taking
 - - many
   - hours
   - ago
 - - through
   - another
   - thousand
-- - home
-  - after
-  - taking
 - - next
   - morning
   - while
 - - time
   - saves
   - nine
-- - said
-  - good
-  - afternoon
 - - together
   - perhaps
   - being
+- - said
+  - good
+  - afternoon
 - - companion
   - said
   - something
 - - menace
   - among
   - other
-- - among
-  - other
-  - articles
 - - most
   - disconcerting
   - before
+- - among
+  - other
+  - articles
 - - went
   - home
   - after
@@ -305,24 +305,24 @@ ngrams:
 - - day
   - letting
   - these
-- - four
-  - tossed
-  - some
-- - than
-  - two
-  - thousand
 - - such
   - old
   - saying
+- - than
+  - two
+  - thousand
+- - four
+  - tossed
+  - some
 - - good
   - afternoon
   - do
-- - passed
-  - down
-  - through
 - - never
   - heard
   - before
+- - passed
+  - down
+  - through
 - - miles
   - distant
   - 'no'
@@ -332,24 +332,33 @@ ngrams:
 - - temple
   - fort
   - what
-- - without
-  - monkeys
-  - who
-- - ago
-  - been
-  - eaten
-- - moment
-  - turning
-  - about
 - - am
   - john's
   - head
+- - without
+  - monkeys
+  - who
+- - moment
+  - turning
+  - about
 - - humming
   - pointed
   - out
 - - entitled
   - when
   - peasants
+- - ago
+  - been
+  - eaten
+- - might
+  - even
+  - find
+- - any
+  - other
+  - kind
+- - wring
+  - sense
+  - out
 - - were
   - soon
   - martyred
@@ -359,225 +368,216 @@ ngrams:
 - - eyes
   - were
   - bleary
-- - any
-  - other
-  - kind
-- - monkeys
-  - were
-  - soon
-- - wring
-  - sense
-  - out
 - - could
   - only
   - remember
-- - those
-  - ghouls
-  - who
-- - their
-  - wise
-  - old
-- - might
-  - even
-  - find
-- - monkey
+- - monkeys
   - were
   - soon
-- - piece
-  - entitled
-  - when
 - - monkey
   - house
   - if
-- - words
+- - piece
+  - entitled
+  - when
+- - their
+  - wise
+  - old
+- - monkey
   - were
-  - swept
-- - almost
-  - immediately
-  - out
+  - soon
+- - those
+  - ghouls
+  - who
 - - ago
   - surely
   - if
-- - ghouls
-  - who
-  - did
+- - almost
+  - immediately
+  - out
+- - words
+  - were
+  - swept
 - - zookeeper
   - told
   - me
-- - long
-  - ago
-  - been
+- - simply
+  - point
+  - out
+- - ghouls
+  - who
+  - did
 - - village
   - green
   - they
 - - old
   - saying
   - what
-- - simply
-  - point
-  - out
 - - still
   - thinking
   - about
-- - were
-  - swept
-  - away
-- - sung
-  - about
-  - being
 - - such
   - shenanigans
   - 'no'
 - - bruno
   - so
   - tranche
-- - bush
-  - are
-  - examples
-- - felt
-  - sure
-  - they
+- - long
+  - ago
+  - been
+- - sung
+  - about
+  - being
 - - trembling
   - so
   - foul
-- - flummoxed
-  - me
-  - until
-- - what
-  - our
-  - flemish
 - - fair
   - crack
   - so
+- - were
+  - swept
+  - away
 - - so
   - tranche
   - seven
-- - more
-  - than
-  - two
+- - flummoxed
+  - me
+  - until
+- - felt
+  - sure
+  - they
+- - what
+  - our
+  - flemish
+- - bush
+  - are
+  - examples
 - - there
   - ghouls
   - without
-- - are
-  - soon
-  - martyred
-- - are
-  - soon
-  - martyred
-- - five
-  - are
-  - usually
+- - more
+  - than
+  - two
 - - would
   - find
   - confirmation
+- - are
+  - soon
+  - martyred
+- - are
+  - soon
+  - martyred
 - - would
   - find
   - evidence
+- - five
+  - are
+  - usually
 - - monkey
   - are
   - soon
 - - monkey
   - are
   - soon
+- - fort
+  - what
+  - then
+- - would
+  - skim
+  - through
 - - an
   - uneasy
   - nap
 - - all
   - day
   - letting
-- - fort
-  - what
-  - then
-- - taking
-  - an
-  - uneasy
-- - would
-  - skim
-  - through
-- - ghoul
-  - this
-  - flummoxed
-- - bed
-  - all
-  - day
-- - martyred
-  - one
-  - peasant
-- - shut
-  - volume
-  - one
 - - monkey
   - would
   - never
+- - taking
+  - an
+  - uneasy
+- - ghoul
+  - this
+  - flummoxed
+- - martyred
+  - one
+  - peasant
 - - one
   - peasant
   - muttered
-- - silhouetted
-  - against
-  - an
-- - an
-  - awful
-  - sky
-- - answer
-  - this
-  - niggling
-- - are
-  - usually
-  - most
+- - shut
+  - volume
+  - one
+- - bed
+  - all
+  - day
 - - overheard
   - so
   - many
-- - some
-  - ectoplasm
-  - into
-- - against
+- - silhouetted
+  - against
   - an
-  - awful
-- - eyelids
-  - had
-  - rotted
-- - soon
-  - martyred
-  - one
-- - this
-  - niggling
-  - question
-- - friends
-  - had
-  - sung
-- - single
-  - ghoul
+- - answer
   - this
-- - research
-  - had
-  - focused
+  - niggling
 - - we
   - might
   - call
-- - who
-  - were
-  - immune
-- - close
-  - friends
+- - an
+  - awful
+  - sky
+- - soon
+  - martyred
+  - one
+- - against
+  - an
+  - awful
+- - this
+  - niggling
+  - question
+- - are
+  - usually
+  - most
+- - some
+  - ectoplasm
+  - into
+- - single
+  - ghoul
+  - this
+- - eyelids
   - had
-- - monkeys
-  - who
-  - were
-- - somebody
-  - else
-  - had
+  - rotted
 - - so
   - many
   - hours
-- - ask
-  - him
-  - if
+- - friends
+  - had
+  - sung
 - - would
   - never
   - take
+- - who
+  - were
+  - immune
+- - research
+  - had
+  - focused
+- - ask
+  - him
+  - if
+- - monkeys
+  - who
+  - were
 - - so
   - very
   - often
+- - close
+  - friends
+  - had
+- - somebody
+  - else
+  - had
 story:
   date: 2017-11-27
   id: 2017-11-27-a-ghoul-and-his-monkey

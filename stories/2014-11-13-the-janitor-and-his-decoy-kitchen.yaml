@@ -23,23 +23,23 @@ ngrams:
 - - victorian
   - infant
   - slowly
-- - dark
-  - dank
-  - cellar
 - - intuition
   - proved
   - wrong
-- - kept
-  - decoy
-  - kitchens
 - - statistically
   - sound
   - sample
-- - keep
+- - kept
   - decoy
   - kitchens
+- - dark
+  - dank
+  - cellar
 - - keep
   - additional
+  - kitchens
+- - keep
+  - decoy
   - kitchens
 - - sweet
   - rain
@@ -53,12 +53,12 @@ ngrams:
 - - slammed
   - shut
   - behind
-- - great
-  - imposing
-  - doors
 - - good
   - honest
   - heart
+- - great
+  - imposing
+  - doors
 - - let
   - sweet
   - rain
@@ -80,48 +80,48 @@ ngrams:
 - - little
   - black
   - notebook
-- - visit
-  - once
-  - again
 - - decoy
   - buildings
   - where
-- - while
-  - great
-  - imposing
 - - approached
   - showed
   - even
-- - through
-  - failing
-  - eyes
+- - visit
+  - once
+  - again
+- - while
+  - great
+  - imposing
 - - being
   - wholly
   - within
+- - through
+  - failing
+  - eyes
 - - street
   - while
   - great
-- - smile
-  - beatific
-  - like
-- - head
-  - held
-  - high
-- - pure
-  - heart
-  - such
 - - several
   - janitors
   - after
+- - head
+  - held
+  - high
 - - janitor
   - might
   - keep
-- - dusted
-  - myself
-  - down
+- - pure
+  - heart
+  - such
+- - smile
+  - beatific
+  - like
 - - rain
   - fall
   - upon
+- - dusted
+  - myself
+  - down
 - - might
   - find
   - nestling
@@ -137,24 +137,24 @@ ngrams:
 - - janitors
   - who
   - claimed
-- - janitors
-  - who
-  - kept
-- - their
-  - buildings
-  - decoy
 - - senses
   - their
   - replies
+- - their
+  - buildings
+  - decoy
+- - janitors
+  - who
+  - kept
 - - bear
   - 'no'
   - grudges
-- - been
-  - buried
-  - beneath
 - - them
   - let
   - slip
+- - been
+  - buried
+  - beneath
 - - about
   - decoy
   - kitchens
@@ -170,51 +170,57 @@ ngrams:
 - - doors
   - were
   - slammed
-- - were
-  - slammed
-  - shut
 - - physically
   - thrown
   - out
+- - were
+  - slammed
+  - shut
 - - question
   - about
   - decoy
 - - once
   - again
   - some
-- - who
-  - kept
-  - two
+- - janitor
+  - do
+  - such
 - - decoy
   - kitchens
   - they
 - - responsible
   - they
   - maintained
-- - those
-  - janitors
-  - who
-- - janitor
-  - do
-  - such
 - - some
   - such
   - mischief
-- - who
-  - kept
-  - just
-- - janitors
+- - those
+  - janitors
   - who
-  - said
 - - christendom
   - would
   - quail
-- - those
-  - who
+- - who
   - kept
+  - two
+- - surprise
+  - would
+  - serve
+- - who
+  - kept
+  - just
+- - actual
+  - kitchen
+  - would
+- - janitors
+  - who
+  - said
 - - they
   - kept
   - decoy
+- - those
+  - who
+  - kept
 - - kitchens
   - they
   - looked
@@ -224,30 +230,24 @@ ngrams:
 - - majority
   - who
   - did
-- - surprise
-  - would
-  - serve
-- - actual
-  - kitchen
-  - would
 - - shut
   - behind
   - me
-- - whether
-  - they
-  - kept
 - - janitors
   - would
   - give
+- - whether
+  - they
+  - kept
 - - vietnam
   - war
   - so
-- - would
-  - give
-  - anything
 - - what
   - purpose
   - might
+- - would
+  - give
+  - anything
 - - serve
   - me
   - well
@@ -263,39 +263,39 @@ ngrams:
 - - one
   - actual
   - kitchen
-- - their
-  - replies
-  - were
-- - go
-  - so
-  - far
-- - had
-  - taken
-  - leave
 - - mockery
   - or
   - trickery
 - - decoy
   - kitchens
   - or
-- - war
+- - go
   - so
-  - now
+  - far
 - - chilling
   - but
   - satisfactory
+- - but
+  - satisfactory
+  - results
+- - their
+  - replies
+  - were
+- - war
+  - so
+  - now
 - - its
   - cover
   - so
 - - every
   - single
   - one
-- - but
-  - satisfactory
-  - results
-- - perishing
-  - from
-  - tuberculosis
+- - anything
+  - but
+  - candid
+- - had
+  - taken
+  - leave
 story:
   date: 2014-11-13
   id: 2014-11-13-the-janitor-and-his-decoy-kitchen

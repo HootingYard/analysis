@@ -1,10 +1,10 @@
 ngrams:
-- - scowling
-  - grumpy
-  - exterior
 - - ludicrously
   - prolific
   - mancunian
+- - scowling
+  - grumpy
+  - exterior
 - - compact
   - discs
   - featuring
@@ -20,21 +20,18 @@ ngrams:
 - - mark
   - e
   - smith
-- - unholy
-  - racket
-  - mrs
 - - northern
   - white
   - crap
-- - says
-  - adding
-  - he's
 - - supersonic
   - booster
   - sound
-- - racket
+- - says
+  - adding
+  - he's
+- - unholy
+  - racket
   - mrs
-  - gubbins
 - - police
   - seem
   - helpless
@@ -44,6 +41,9 @@ ngrams:
 - - booster
   - sound
   - system
+- - racket
+  - mrs
+  - gubbins
 - - fall
   - i'm
   - sure
@@ -53,51 +53,51 @@ ngrams:
 - - smith
   - almost
   - three
-- - almost
-  - three
-  - decades
+- - mean
+  - jettisoning
+  - mr
 - - course
   - mean
   - jettisoning
+- - almost
+  - three
+  - decades
 - - last
   - year's
   - picnic
 - - sweet
   - little
   - poppet
-- - mean
-  - jettisoning
-  - mr
+- - mr
+  - smith
+  - almost
 - - night
   - without
   - pause
 - - talks
   - back
   - started
-- - mr
-  - smith
-  - almost
 - - us
   - yesterday
   - although
 - - martello
   - tower
   - over
-- - mrs
-  - gubbins
-  - after
 - - back
   - started
   - making
+- - mrs
+  - gubbins
+  - after
 - - chronological
   - order
   - over
-- - her
-  - supersonic
-  - booster
 - - adding
   - he's
   - like
+- - her
+  - supersonic
+  - booster
 story:
   date: 2005-06-23
   id: 2005-06-23-mrs-gubbins-and-mr-smith

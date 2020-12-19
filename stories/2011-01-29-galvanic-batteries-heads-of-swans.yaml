@@ -14,54 +14,54 @@ ngrams:
 - - basic
   - identification
   - skills
-- - position
-  - beforehand
-  - alert
 - - beardy
   - french
   - intellectual
-- - anaesthetic
-  - fast
-  - asleep
+- - position
+  - beforehand
+  - alert
 - - magic
   - marker
   - pen
+- - anaesthetic
+  - fast
+  - asleep
+- - galvanic
+  - batteries
+  - heads
 - - heating
   - various
   - substances
 - - installed
   - cheaply
   - using
-- - galvanic
-  - batteries
-  - heads
-- - lab
-  - heating
-  - various
 - - arrow
   - pointing
   - clearly
+- - lab
+  - heating
+  - various
 - - complicated
   - matter
   - fraught
+- - rare
+  - o
+  - rare
 - - pay
   - unflinching
   - attention
+- - separate
+  - article
+  - written
 - - veterinary
   - surgery
   - however
 - - beforehand
   - alert
   - readers
-- - separate
-  - article
-  - written
 - - swan
   - already
   - provided
-- - rare
-  - o
-  - rare
 - - effort
   - however
   - unlike
@@ -89,15 +89,15 @@ ngrams:
 - - must
   - pay
   - unflinching
+- - o
+  - rare
+  - indeed
 - - simple
   - enough
   - matter
 - - reader
   - must
   - pay
-- - o
-  - rare
-  - indeed
 - - surgery
   - however
   - should
@@ -116,123 +116,123 @@ ngrams:
 - - casual
   - observer
   - may
-- - glass
-  - tubes
-  - over
 - - make
   - absolutely
   - sure
+- - glass
+  - tubes
+  - over
 - - identity
   - parades
   - such
-- - like
-  - identity
-  - parades
 - - also
   - being
   - wide
 - - attention
   - while
   - also
-- - swan
-  - looks
-  - like
+- - like
+  - identity
+  - parades
 - - embedder
   - must
   - first
-- - must
-  - first
-  - pick
 - - important
   - depending
   - upon
-- - jurisdiction
-  - some
-  - authorities
+- - swan
+  - looks
+  - like
+- - must
+  - first
+  - pick
 - - rather
   - than
   - elsewhere
 - - cannot
   - think
   - why
+- - jurisdiction
+  - some
+  - authorities
 - - bunsen
   - burner
   - who
 - - burner
   - who
   - mistook
-- - however
-  - should
-  - know
 - - while
   - also
   - being
+- - however
+  - should
+  - know
 - - boffin
   - who
   - pointed
 - - doubt
   - some
   - form
-- - embedding
-  - has
-  - taken
 - - up
   - inevitable
   - spillages
 - - embedder
   - can
   - get
+- - embedding
+  - has
+  - taken
 - - mop
   - up
   - inevitable
-- - bob's
-  - your
-  - uncle
 - - some
   - authorities
   - take
+- - bob's
+  - your
+  - uncle
 - - done
   - sew
   - up
-- - article
-  - has
-  - yet
-- - galvanic
-  - battery
-  - into
 - - much
   - more
   - common
-- - has
-  - taken
-  - place
+- - galvanic
+  - battery
+  - into
+- - article
+  - has
+  - yet
 - - galvanic
   - battery
   - out
 - - head
   - rather
   - than
+- - has
+  - taken
+  - place
 - - can
   - appear
   - here
-- - clearly
-  - towards
-  - what
 - - its
   - head
   - rather
-- - alert
-  - readers
-  - will
-- - stupid
-  - person
-  - will
+- - clearly
+  - towards
+  - what
 - - can
   - imagine
   - such
+- - alert
+  - readers
+  - will
 - - french
   - intellectual
   - would
+- - stupid
+  - person
+  - will
 - - entire
   - operation
   - would
@@ -245,36 +245,33 @@ ngrams:
 - - inevitable
   - spillages
   - so
-- - get
-  - me
-  - started
 - - o
   - so
   - delicately
+- - get
+  - me
+  - started
 - - then
   - 'no'
   - familiarity
-- - your
-  - uncle
-  - now
-- - first
-  - pick
-  - out
 - - bird
   - so
   - etched
-- - who
-  - has
-  - grasped
-- - boffin
-  - who
-  - has
+- - first
+  - pick
+  - out
+- - your
+  - uncle
+  - now
 - - an
   - emboldened
   - arrow
 - - an
   - acknowledged
   - wizard
+- - who
+  - has
+  - grasped
 - - an
   - arrest
   - connected
@@ -284,6 +281,12 @@ ngrams:
 - - slicing
   - an
   - opening
+- - boffin
+  - who
+  - has
+- - would
+  - never
+  - miss
 - - sign
   - an
   - emboldened
@@ -293,21 +296,18 @@ ngrams:
 - - coppers
   - following
   - an
-- - would
-  - never
-  - miss
 - - person
   - will
   - know
 - - so
   - delicately
   - through
-- - each
-  - sign
-  - an
-- - stamped
-  - one
-  - must
+- - etched
+  - or
+  - stamped
+- - etched
+  - or
+  - stamped
 story:
   date: 2011-01-29
   id: 2011-01-29-galvanic-batteries-heads-of-swans

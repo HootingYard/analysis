@@ -11,18 +11,18 @@ ngrams:
 - - panting
   - barking
   - desperate
-- - hopelessly
-  - hopelessly
-  - entangled
+- - featureless
+  - flat
+  - expanse
+- - featureless
+  - flat
+  - expanse
 - - basic
   - probability
   - theory
-- - featureless
-  - flat
-  - expanse
-- - featureless
-  - flat
-  - expanse
+- - hopelessly
+  - hopelessly
+  - entangled
 - - desmond
   - imagine
   - desmond
@@ -32,51 +32,48 @@ ngrams:
 - - slightly
   - fewer
   - trees
-- - straight
-  - line
-  - equidistant
-- - roughly
-  - six
-  - yards
 - - monkey
   - i'd
   - stay
+- - straight
+  - line
+  - equidistant
 - - otherwise
   - featureless
   - flat
-- - matter
-  - desmond
-  - thinks
+- - roughly
+  - six
+  - yards
 - - wrong
   - tree
   - conversely
-- - dog
-  - barking
-  - abstractedly
-- - longer
-  - visible
-  - anywhere
-- - abstract
-  - dog
-  - barking
 - - monkey
   - earlier
   - partly
+- - matter
+  - desmond
+  - thinks
+- - dog
+  - barking
+  - abstractedly
+- - abstract
+  - dog
+  - barking
+- - longer
+  - visible
+  - anywhere
 - - pell
   - mell
   - towards
-- - become
-  - hopelessly
-  - hopelessly
 - - simplest
   - concrete
   - example
 - - vivid
   - illustrative
   - example
-- - four
-  - trees
-  - planted
+- - become
+  - hopelessly
+  - hopelessly
 - - blot
   - everything
   - else
@@ -86,69 +83,72 @@ ngrams:
 - - does
   - desmond
   - bark
+- - four
+  - trees
+  - planted
 - - elm
   - however
   - unlikely
-- - master's
-  - table
-  - note
 - - monkey
   - scampering
   - towards
+- - master's
+  - table
+  - note
 - - i'd
   - stay
   - put
-- - abstract
-  - propositions
-  - things
 - - tree
   - does
   - desmond
+- - abstract
+  - propositions
+  - things
 - - six
   - yards
   - between
 - - wide
   - wide
   - world
-- - earlier
-  - partly
-  - because
 - - entirely
   - quite
   - frankly
+- - earlier
+  - partly
+  - because
 - - tree
   - conversely
   - though
+- - grow
+  - ever
+  - greater
 - - us
   - credit
   - desmond
 - - propositions
   - things
   - become
-- - grow
-  - ever
-  - greater
-- - things
-  - become
-  - hopelessly
 - - matter
   - entirely
   - quite
+- - things
+  - become
+  - hopelessly
 - - another
   - matter
   - entirely
 - - well
   - everything
   - except
-- - our
-  - abstract
-  - mastiff
-- - scribbler
-  - never
-  - knows
 - - opinion
   - either
   - way
+- - scribbler
+  - never
+  - knows
+- - our
+  - abstract
+  - mastiff
 - - mind
   - well
   - everything
@@ -161,36 +161,36 @@ ngrams:
 - - pursuit
   - may
   - avoid
-- - dachshund
-  - let
-  - us
-- - let
-  - us
-  - dub
-- - examples
-  - let
-  - us
 - - abstract
   - dog
   - after
 - - original
   - pursuit
   - may
-- - let
-  - us
-  - credit
-- - point
-  - across
+- - dachshund
   - let
-- - desmond
-  - now
-  - stopping
+  - us
 - - even
   - equal
   - interest
 - - dog
   - might
   - beg
+- - let
+  - us
+  - dub
+- - examples
+  - let
+  - us
+- - point
+  - across
+  - let
+- - let
+  - us
+  - credit
+- - desmond
+  - now
+  - stopping
 - - dogs
   - may
   - wish
@@ -203,57 +203,60 @@ ngrams:
 - - look
   - here
   - comes
+- - could
+  - prove
+  - critical
 - - our
   - examples
   - let
 - - trees
   - other
   - creatures
-- - need
-  - consider
-  - only
-- - could
-  - prove
-  - critical
 - - its
   - quarry
   - whether
+- - need
+  - consider
+  - only
 - - knowledge
   - could
   - prove
-- - dimwits
-  - now
-  - look
-- - words
-  - may
-  - fall
-- - then
-  - conceal
-  - itself
 - - concrete
   - examples
   - can
-- - world
-  - let
-  - us
-- - let
-  - us
-  - take
+- - dimwits
+  - now
+  - look
+- - then
+  - conceal
+  - itself
+- - words
+  - may
+  - fall
 - - can
   - somehow
   - persuade
-- - across
-  - let
-  - those
 - - monkey
   - might
   - well
+- - world
+  - let
+  - us
+- - across
+  - let
+  - those
 - - let
   - us
-  - say
+  - take
 - - them
   - blot
   - everything
+- - let
+  - us
+  - say
+- - dogs
+  - nor
+  - do
 - - desmond
   - barks
   - up
@@ -266,9 +269,6 @@ ngrams:
 - - desmond
   - barking
   - up
-- - dogs
-  - nor
-  - do
 - - desmond
   - bark
   - up
@@ -284,111 +284,111 @@ ngrams:
 - - 'no'
   - opinion
   - either
-- - your
-  - untold
-  - relief
+- - yards
+  - between
+  - them
 - - between
   - them
   - blot
 - - 'no'
   - longer
   - visible
-- - yards
-  - between
-  - them
-- - hidden
-  - high
-  - up
 - - situation
   - where
   - such
+- - your
+  - untold
+  - relief
+- - hidden
+  - high
+  - up
 - - where
   - such
   - knowledge
-- - ascertain
-  - whether
-  - your
-- - if
-  - desmond
-  - barks
 - - am
   - yet
   - able
-- - now
-  - look
-  - here
-- - know
-  - just
-  - yet
-- - other
-  - creatures
-  - such
+- - if
+  - desmond
+  - barks
 - - greater
   - if
   - desmond
-- - barks
-  - up
-  - each
 - - prove
   - critical
   - if
-- - overtax
+- - ascertain
+  - whether
   - your
-  - brain
-- - deliver
-  - itself
-  - into
-- - whether
-  - your
-  - dog
+- - other
+  - creatures
+  - such
+- - know
+  - just
+  - yet
+- - now
+  - look
+  - here
 - - tree
   - especially
   - if
-- - up
+- - barks
+  - up
   - each
-  - tree
 - - such
   - knowledge
   - could
+- - deliver
+  - itself
+  - into
 - - some
   - might
   - argue
-- - those
-  - who
-  - scoff
+- - overtax
+  - your
+  - brain
+- - up
+  - each
+  - tree
+- - whether
+  - your
+  - dog
 - - everything
   - else
   - out
+- - those
+  - who
+  - scoff
 - - dog's
   - barking
   - there
-- - can
-  - work
-  - through
-- - part
-  - some
-  - might
 - - quite
   - frankly
   - if
+- - part
+  - some
+  - might
+- - can
+  - work
+  - through
 - - unless
   - we
   - throw
 - - present
   - purposes
   - we
-- - your
-  - mind
-  - well
-- - barks
-  - up
-  - any
 - - wrong
   - tree
   - there
-- - let
-  - those
-  - who
+- - abstract
+  - mastiff
+  - so
+- - barks
+  - up
+  - any
+- - dog
+  - would
+  - bark
 story:
   date: 2012-01-22
   id: 2012-01-22-on-barking-up-the-wrong-tree

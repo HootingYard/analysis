@@ -5,27 +5,30 @@ ngrams:
 - - reader's
   - digest
   - shoving
-- - nixon
-  - mashed
-  - potato
 - - sawdust
   - bridge
   - mishap
+- - nixon
+  - mashed
+  - potato
 - - mashed
   - potato
   - information
-- - madly
-  - gushing
-  - water
 - - exact
   - quotation
   - during
+- - madly
+  - gushing
+  - water
 - - four
   - discrete
   - pieces
 - - swiss
   - prison
   - note
+- - town
+  - pavilion
+  - interview
 - - tunisian
   - air
   - cadet
@@ -35,9 +38,6 @@ ngrams:
 - - third
   - piece
   - treats
-- - town
-  - pavilion
-  - interview
 - - further
   - information
   - update
@@ -56,72 +56,72 @@ ngrams:
 - - articles
   - each
   - entitled
-- - number
-  - four
-  - john
 - - pointy
   - town
   - pavilion
 - - notorious
   - pointy
   - town
-- - four
-  - articles
-  - each
+- - number
+  - four
+  - john
 - - way
   - sane
   - replies
 - - much
   - tougher
   - hide
-- - miles
-  - downstream
-  - dobson
+- - four
+  - articles
+  - each
 - - toppled
   - 'off'
   - sawdust
-- - bridge
-  - mishap
-  - dobson
-- - 'off'
-  - sawdust
-  - bridge
 - - floating
   - free
   - much
+- - 'off'
+  - sawdust
+  - bridge
 - - john's
   - head
   - essays
 - - john's
   - head
   - essays
-- - information
-  - update
-  - here
-- - half
-  - way
-  - sane
-- - mishap
-  - dobson
-  - seems
 - - jane's
   - head
   - unfortunately
-- - oblivious
+- - half
+  - way
+  - sane
+- - miles
+  - downstream
   - dobson
-  - sat
+- - head
+  - barely
+  - rate
+- - information
+  - update
+  - here
+- - bridge
+  - mishap
+  - dobson
 - - pamphleteer
   - toppled
   - 'off'
 - - old
   - cardboard
   - box
-- - head
-  - barely
-  - rate
 - - pamphleteer
   - browsed
   - through
+- - mishap
+  - dobson
+  - seems
+- - oblivious
+  - dobson
+  - sat
 - - strange
   - phase
   - where
@@ -143,63 +143,51 @@ ngrams:
 - - cannot
   - recall
   - where
-- - home
-  - dobson
-  - set
-- - some
-  - miles
-  - downstream
 - - john's
   - head
   - these
+- - some
+  - miles
+  - downstream
+- - home
+  - dobson
+  - set
+- - digest
+  - shoving
+  - them
 - - dobson
   - set
   - himself
 - - john's
   - head
   - dobson
-- - digest
-  - shoving
-  - them
-- - gushing
-  - water
-  - some
 - - never
   - submitted
   - any
-- - water
+- - gushing
+  - water
   - some
-  - miles
-- - dobson
-  - went
-  - through
 - - even
   - half
   - way
-- - head
-  - dobson
-  - went
+- - water
+  - some
+  - miles
 - - 'no'
   - longer
   - attached
+- - dobson
+  - went
+  - through
 - - free
   - much
   - like
+- - head
+  - dobson
+  - went
 - - about
   - president
   - nixon's
-- - sane
-  - replies
-  - were
-- - writing
-  - what
-  - scholars
-- - ted
-  - cack
-  - when
-- - legs
-  - were
-  - broken
 - - am
   - jane's
   - head
@@ -215,6 +203,18 @@ ngrams:
 - - am
   - john's
   - head
+- - sane
+  - replies
+  - were
+- - writing
+  - what
+  - scholars
+- - ted
+  - cack
+  - when
+- - legs
+  - were
+  - broken
 - - browsed
   - through
   - them
@@ -224,9 +224,9 @@ ngrams:
 - - questions
   - were
   - put
-- - any
-  - reader
-  - who
+- - sat
+  - there
+  - drooling
 story:
   date: 2009-08-06
   id: 2009-08-06-i-am-johns-head

@@ -1,10 +1,4 @@
 ngrams:
-- - bothers
-  - '-'
-  - shaving
-- - sample
-  - bothers
-  - '-'
 - - h
   - g
   - wells
@@ -14,12 +8,18 @@ ngrams:
 - - answering
   - letters
   - talking
-- - wells
-  - certain
-  - personal
 - - g
   - wells
   - certain
+- - wells
+  - certain
+  - personal
+- - bothers
+  - '-'
+  - shaving
+- - sample
+  - bothers
+  - '-'
 story:
   date: 2006-03-04
   id: 2006-03-04-these-are-just-sample-bothers-shaving

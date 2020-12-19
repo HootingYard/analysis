@@ -14,12 +14,12 @@ ngrams:
 - - bad
   - vicarage
   - creak
-- - dull
-  - flat
-  - clunk
 - - winter's
   - evening
   - uninvited
+- - dull
+  - flat
+  - clunk
 - - bad
   - vicar
   - mourned
@@ -32,42 +32,42 @@ ngrams:
 - - bad
   - vicarage
   - standing
-- - metal
-  - tapping
-  - machine
 - - cold
   - winter's
   - evening
-- - vicar
-  - whose
-  - sinecure
+- - metal
+  - tapping
+  - machine
 - - milk
   - froth
   - clearly
+- - vicar
+  - whose
+  - sinecure
 - - peasant
   - stationed
   - behind
 - - agricultural
   - tool
   - good
-- - red
-  - eyes
-  - gazing
 - - tethers
   - loosed
   - came
+- - red
+  - eyes
+  - gazing
 - - loosed
   - came
   - crashing
 - - tool
   - good
   - evening
-- - unwarranted
-  - bonhomie
-  - come
 - - flat
   - clunk
   - rather
+- - unwarranted
+  - bonhomie
+  - come
 - - bonhomie
   - come
   - visiting
@@ -77,12 +77,12 @@ ngrams:
 - - great
   - forbidding
   - gate
-- - bad
-  - vicar
-  - why
 - - good
   - evening
   - peasant
+- - bad
+  - vicar
+  - why
 - - approached
   - ever
   - closer
@@ -110,42 +110,42 @@ ngrams:
 - - came
   - crashing
   - through
-- - other
-  - questions
-  - tugged
 - - make
   - sure
   - good
+- - other
+  - questions
+  - tugged
 - - clunk
   - rather
   - than
-- - laughed
-  - slopping
-  - some
 - - even
   - good
   - imagine
 - - possibly
   - even
   - good
+- - laughed
+  - slopping
+  - some
 - - asked
   - then
   - praise
-- - new
-  - peasant
-  - here
 - - know
   - damned
   - well
 - - new
   - peasant
+  - here
+- - new
+  - peasant
   - said
-- - their
-  - tethers
-  - loosed
 - - hear
   - them
   - tethered
+- - their
+  - tethers
+  - loosed
 - - goats
   - their
   - tethers
@@ -155,21 +155,27 @@ ngrams:
 - - occasionally
   - butting
   - their
-- - rug
-  - stood
-  - up
-- - warm
-  - your
-  - collywobbles
 - - butting
   - their
   - heads
-- - your
-  - collywobbles
-  - beside
+- - rug
+  - stood
+  - up
 - - infinite
   - despair
   - what
+- - warm
+  - your
+  - collywobbles
+- - your
+  - collywobbles
+  - beside
+- - bad
+  - vicarage
+  - what
+- - 'no'
+  - good
+  - vicars
 - - call
   - him
   - good
@@ -179,63 +185,60 @@ ngrams:
 - - veterinary
   - surgeons
   - were
-- - bad
-  - vicarage
-  - what
-- - 'no'
-  - good
-  - vicars
-- - middling
-  - vicar
-  - were
 - - vicarage
   - what
   - else
+- - middling
+  - vicar
+  - were
 - - their
   - heads
   - against
 - - bad
   - vicarage
   - when
-- - came
-  - bounding
-  - up
 - - winter's
   - evening
   - when
+- - came
+  - bounding
+  - up
 - - sudden
   - blotted
   - out
 - - window
   - peering
   - out
-- - helmsman
-  - all
-  - praise
-- - after
-  - some
-  - minutes
-- - must
-  - warm
-  - your
 - - blotted
   - out
   - behind
+- - helmsman
+  - all
+  - praise
 - - time
   - possibly
   - even
+- - after
+  - some
+  - minutes
 - - may
   - say
   - very
 - - before
   - just
   - before
-- - what
-  - else
-  - should
+- - must
+  - warm
+  - your
 - - bad
   - vicarage
   - there
+- - what
+  - else
+  - should
+- - would
+  - become
+  - fair
 - - rugs
   - are
   - threadbare
@@ -257,9 +260,6 @@ ngrams:
 - - floorboards
   - are
   - rotting
-- - would
-  - become
-  - fair
 - - goats
   - are
   - maddened
@@ -269,96 +269,93 @@ ngrams:
 - - been
   - passed
   - over
-- - us
-  - were
-  - sat
 - - could
   - hear
   - them
-- - said
-  - after
-  - some
+- - us
+  - were
+  - sat
 - - vicar
   - after
   - all
+- - said
+  - after
+  - some
 - - an
   - agricultural
   - tool
-- - made
-  - your
-  - way
 - - old
   - peasant
   - would
-- - your
-  - way
-  - here
-- - soul
-  - has
-  - been
 - - said
   - if
   - both
+- - made
+  - your
+  - way
+- - your
+  - way
+  - here
+- - shall
+  - we
+  - say
 - - repairs
   - are
   - made
+- - soul
+  - has
+  - been
 - - helmsman
   - had
   - spared
 - - helmsman
   - had
   - wrought
-- - shall
-  - we
-  - say
-- - your
-  - hand
-  - who
-- - an
-  - old
-  - peasant
 - - shuddered
   - but
   - yanked
-- - great
-  - helmsman
-  - had
-- - great
-  - helmsman
-  - had
+- - your
+  - hand
+  - who
+- - fields
+  - or
+  - whatever
+- - peasant
+  - would
+  - do
+- - an
+  - old
+  - peasant
+- - are
+  - maddened
+  - could
 - - fireside
   - slurping
   - from
 - - slurping
   - from
   - beakers
-- - vicar
-  - why
+- - great
+  - helmsman
+  - had
+- - great
+  - helmsman
   - had
 - - vicar
   - why
   - had
-- - peasant
-  - would
-  - do
-- - are
-  - maddened
-  - could
+- - vicar
+  - why
+  - had
 - - tapping
   - machine
   - from
-- - fields
-  - or
-  - whatever
 - - peasant
   - resting
   - from
 - - milk
   - froth
   - from
-- - tell
-  - me
-  - who
 - - at
   - nightfall
   - tilling
@@ -368,30 +365,33 @@ ngrams:
 - - filbert
   - hedge
   - at
-- - questions
-  - tugged
-  - at
-- - would
-  - 'no'
-  - longer
+- - tell
+  - me
+  - who
 - - laughed
   - again
   - but
 - - still
   - alive
   - or
-- - are
+- - questions
+  - tugged
+  - at
+- - would
   - 'no'
-  - stranger
+  - longer
 - - despair
   - what
   - would
-- - eyes
-  - gazing
-  - at
 - - there
   - 'no'
   - good
+- - eyes
+  - gazing
+  - at
+- - are
+  - 'no'
+  - stranger
 - - vicar
   - were
   - there

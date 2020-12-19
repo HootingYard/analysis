@@ -2,21 +2,21 @@ ngrams:
 - - eugenio
   - pacelli
   - alias
-- - pacelli
-  - alias
-  - pius
-- - pontiff
-  - eugenio
-  - pacelli
 - - aeronautics
   - cinematography
   - psychology
 - - cinematography
   - psychology
   - psychiatry
+- - pontiff
+  - eugenio
+  - pacelli
 - - psychology
   - psychiatry
   - agriculture
+- - pacelli
+  - alias
+  - pius
 - - lectured
   - visiting
   - groups
@@ -26,54 +26,54 @@ ngrams:
 - - psychiatry
   - agriculture
   - plastic
-- - agriculture
-  - plastic
-  - surgery
 - - tabloid
   - newspaper
   - headlines
 - - desk
   - pacelli
   - responded
-- - pop
-  - kids
-  - max
+- - agriculture
+  - plastic
+  - surgery
 - - earlier
   - pontiff
   - eugenio
-- - kids
+- - pop
+  - kids
   - max
-  - goes
-- - exploited
-  - city
-  - baby
 - - absolutely
   - terrific
   - pope
-- - gas
-  - central
-  - heating
-- - gasping
-  - pope
-  - minutes
+- - exploited
+  - city
+  - baby
+- - kids
+  - max
+  - goes
 - - late
   - anthony
   - burgess
-- - city
-  - baby
-  - attacked
+- - gasping
+  - pope
+  - minutes
+- - gas
+  - central
+  - heating
 - - s
   - eliot
   - arguably
-- - wall
-  - writes
-  - max
-- - punk
-  - song
-  - titles
+- - city
+  - baby
+  - attacked
 - - t
   - s
   - eliot
+- - punk
+  - song
+  - titles
+- - wall
+  - writes
+  - max
 - - practice
   - seemed
   - symptomatic
@@ -101,48 +101,48 @@ ngrams:
 - - their
   - gasping
   - pope
-- - burgess
-  - who
-  - ought
 - - quoted
   - their
   - gasping
+- - burgess
+  - who
+  - ought
 - - him
   - should
   - kneel
-- - central
-  - heating
-  - when
 - - heating
   - when
   - t
+- - central
+  - heating
+  - when
+- - when
+  - t
+  - s
 - - garden
   - were
   - instructed
 - - private
   - garden
   - were
-- - when
-  - t
-  - s
 - - anthony
   - burgess
   - would
-- - competence
-  - were
-  - these
 - - topics
   - so
   - numerous
-- - headlines
-  - which
-  - got
+- - competence
+  - were
+  - these
 - - must
   - we
   - fling
 - - immortal
   - must
   - we
+- - headlines
+  - which
+  - got
 story:
   date: 2005-02-09
   id: 2005-02-09-pontiff

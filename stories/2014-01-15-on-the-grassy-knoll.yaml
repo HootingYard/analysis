@@ -23,15 +23,15 @@ ngrams:
 - - bright
   - winter
   - sunshine
+- - pocket
+  - files
+  - crammed
 - - john
   - f
   - kennedy
 - - president
   - john
   - f
-- - pocket
-  - files
-  - crammed
 - - writes
   - page
   - unfortunately
@@ -74,21 +74,21 @@ ngrams:
 - - gertrude
   - himmelfarb
   - if
-- - deep
-  - into
-  - reclaiming
 - - if
   - preposterous
   - tome
+- - deep
+  - into
+  - reclaiming
+- - majestic
+  - if
+  - preposterous
 - - into
   - reclaiming
   - history
 - - kennedy
   - assassination
   - will
-- - majestic
-  - if
-  - preposterous
 - - can
   - only
   - conclude
@@ -122,21 +122,21 @@ ngrams:
 - - unfortunately
   - we
   - know
-- - we
-  - consider
-  - only
 - - am
   - deep
   - into
-- - others
-  - who
-  - will
+- - we
+  - consider
+  - only
 - - grassy
   - knoll
   - but
 - - but
   - bugliosi
   - knows
+- - others
+  - who
+  - will
 story:
   date: 2014-01-15
   id: 2014-01-15-on-the-grassy-knoll

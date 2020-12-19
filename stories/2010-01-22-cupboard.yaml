@@ -2,33 +2,36 @@ ngrams:
 - - poe
   - luxembourg
   - bales
+- - fr
+  - vi
+  - n
 - - kreutzer
   - sonata
   - yoko
 - - cylinder
   - weems
   - agony
-- - ms
-  - fr
-  - vi
-- - medicine
-  - ms
-  - fr
 - - palely
   - loitering
   - thou
+- - ms
+  - fr
+  - vi
 - - hopkins
   - manly
   - winsome
+- - recurring
+  - hero
+  - dax
+- - medicine
+  - ms
+  - fr
 - - national
   - cylinder
   - weems
 - - harbin
   - la
   - condoleezza
-- - recurring
-  - hero
-  - dax
 - - manley
   - hopkins
   - manly
@@ -44,66 +47,63 @@ ngrams:
 - - shown
   - neatly
   - arranged
-- - fr
-  - vi
-  - n
 - - flash
   - cards
   - giving
+- - l
+  - ron
+  - cupboard
 - - petersburg
   - national
   - library
 - - st
   - petersburg
   - national
-- - l
-  - ron
-  - cupboard
-- - garden
-  - gold
-  - diggers
-- - condoleezza
-  - gas
-  - giant
-- - la
-  - condoleezza
-  - gas
-- - simple
-  - medicine
-  - ms
-- - giant
-  - third
-  - shelf
 - - loitering
   - thou
   - art
-- - c
-  - st
-  - petersburg
+- - garden
+  - gold
+  - diggers
 - - thou
   - art
   - pierre
+- - simple
+  - medicine
+  - ms
+- - la
+  - condoleezza
+  - gas
+- - c
+  - st
+  - petersburg
+- - condoleezza
+  - gas
+  - giant
+- - giant
+  - third
+  - shelf
 - - makes
   - explicit
   - unless
 - - v
   - c
   - st
-- - gas
-  - giant
-  - third
 - - bono
   - second
   - shelf
+- - gas
+  - giant
+  - third
 - - right
   - national
   - cylinder
-- - right
-  - bittern
-  - storm
 - - hundreds
   - possibly
   - thousands
+- - right
+  - bittern
+  - storm
 - - picture
   - above
   - adorns
@@ -119,12 +119,12 @@ ngrams:
 - - top
   - shelf
   - left
-- - second
-  - shelf
-  - left
 - - quite
   - makes
   - explicit
+- - second
+  - shelf
+  - left
 - - scene
   - takes
   - place

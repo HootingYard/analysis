@@ -2,15 +2,15 @@ ngrams:
 - - incense
   - gums
   - wading
-- - jet
-  - fighters
-  - dossiers
-- - footing
-  - tumbles
-  - kim
 - - terence
   - horace
   - terence
+- - footing
+  - tumbles
+  - kim
+- - jet
+  - fighters
+  - dossiers
 - - satin
   - cobalt
   - haze
@@ -20,96 +20,90 @@ ngrams:
 - - respect
   - terence
   - horace
-- - riot
-  - flames
-  - licking
-- - blurred
-  - phantom
-  - insignificant
 - - formby
   - spud
   - bashing
+- - riot
+  - flames
+  - licking
 - - stadium
   - international
   - intrigue
+- - blurred
+  - phantom
+  - insignificant
 - - international
   - intrigue
   - jet
-- - biblical
-  - quotations
-  - smoke
-- - overcast
-  - goose
-  - pimples
-- - chest
-  - thumping
-  - headache
 - - atoms
   - tar
   - pits
-- - shriek
-  - shriek
-  - grey
+- - overcast
+  - goose
+  - pimples
 - - tar
   - pits
   - crane
+- - biblical
+  - quotations
+  - smoke
+- - chest
+  - thumping
+  - headache
+- - shriek
+  - shriek
+  - grey
 - - points
   - uncertain
   - navy
 - - tie
   - lips
   - pursed
+- - correct
+  - posture
+  - straighten
 - - scheme
   - holes
   - punched
 - - spies
   - scheme
   - holes
-- - correct
-  - posture
-  - straighten
 - - compass
   - points
   - uncertain
-- - pot
-  - piano
-  - tinkling
 - - pits
   - crane
   - flies
 - - laces
   - memory
   - floods
+- - pot
+  - piano
+  - tinkling
 - - pimples
   - egg
   - stains
 - - lightning
   - strikes
   - hide
-- - plain
-  - compass
-  - points
 - - empty
   - stadium
   - international
-- - swooning
-  - mud
-  - cakes
-- - ceiling
-  - discarded
-  - buttons
-- - uncertain
-  - navy
-  - blue
-- - white
-  - magnesium
-  - flares
-- - love
-  - lies
-  - bleeding
+- - plain
+  - compass
+  - points
 - - goose
   - pimples
   - egg
+- - ceiling
+  - discarded
+  - buttons
+- - swooning
+  - mud
+  - cakes
+- - white
+  - magnesium
+  - flares
 - - buttons
   - saint
   - anselm
@@ -119,6 +113,12 @@ ngrams:
 - - milky
   - white
   - magnesium
+- - love
+  - lies
+  - bleeding
+- - uncertain
+  - navy
+  - blue
 - - discarded
   - buttons
   - saint
@@ -137,15 +137,15 @@ ngrams:
 - - remember
   - ferry
   - ferried
+- - sky
+  - overcast
+  - goose
 - - shriek
   - grey
   - sky
 - - grey
   - sky
   - overcast
-- - sky
-  - overcast
-  - goose
 - - hot
   - salt
   - tears
@@ -200,90 +200,87 @@ ngrams:
 - - venice
   - peering
   - through
-- - many
-  - stars
-  - breathing
 - - vein
   - before
   - swooning
 - - stepped
   - away
   - lost
-- - said
-  - grace
-  - twice
+- - many
+  - stars
+  - breathing
 - - before
   - swooning
   - mud
+- - said
+  - grace
+  - twice
 - - seven
   - dwarves
   - over
 - - grace
   - twice
   - now
-- - dingy
-  - room
-  - down
 - - same
   - vein
   - before
-- - jetty
-  - she
-  - waited
 - - said
   - fang
   - past
-- - god
-  - our
-  - help
-- - table
-  - like
-  - joyce
-- - life
-  - flashes
-  - before
+- - dingy
+  - room
+  - down
 - - thousands
   - upon
   - thousands
+- - life
+  - flashes
+  - before
+- - god
+  - our
+  - help
 - - time
   - wristwatch
   - wristwatch
+- - table
+  - like
+  - joyce
+- - jetty
+  - she
+  - waited
+- - too
+  - many
+  - buttons
 - - oh
   - god
   - our
 - - too
   - many
-  - buttons
+  - stars
 - - black
   - pudding
   - now
-- - too
-  - many
-  - stars
 - - many
   - times
   - must
 - - way
   - through
   - briefcase
-- - him
-  - blurred
-  - phantom
-- - hotel
-  - lobbies
-  - some
 - - can
   - barely
   - tie
 - - far
   - away
   - across
+- - hotel
+  - lobbies
+  - some
+- - him
+  - blurred
+  - phantom
 - - attention
   - see
   - how
-- - how
-  - many
-  - times
 - - then
   - another
   - mousse
@@ -293,6 +290,9 @@ ngrams:
 - - reservoir
   - then
   - another
+- - how
+  - many
+  - times
 - - georgia
   - holed
   - up
@@ -311,9 +311,6 @@ ngrams:
 - - straighten
   - your
   - tie
-- - your
-  - tie
-  - lips
 - - many
   - now
   - comes
@@ -323,24 +320,27 @@ ngrams:
 - - well
   - how
   - many
+- - your
+  - tie
+  - lips
 - - into
   - riot
   - flames
-- - your
-  - best
-  - bet
-- - 'no'
-  - longer
-  - remember
-- - hide
-  - your
-  - light
 - - dilemma
   - when
   - lightning
 - - when
   - lightning
   - strikes
+- - 'no'
+  - longer
+  - remember
+- - your
+  - best
+  - bet
+- - hide
+  - your
+  - light
 - - flashes
   - before
   - him

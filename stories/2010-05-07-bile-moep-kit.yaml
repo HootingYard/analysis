@@ -1,10 +1,10 @@
 ngrams:
-- - lembit
-  - opik
-  - meteorite
 - - opik
   - meteorite
   - collision
+- - lembit
+  - opik
+  - meteorite
 - - estonian
   - anagram
   - bile
@@ -35,12 +35,12 @@ ngrams:
 - - silver
   - lining
   - mr
-- - book
-  - o'
-  - days
 - - day
   - lembit
   - opik
+- - book
+  - o'
+  - days
 - - hang
   - our
   - heads

@@ -8,12 +8,12 @@ ngrams:
 - - winged
   - chubby
   - naked
-- - hunchbacked
-  - assistant
-  - mungo
 - - tubercular
   - alpine
   - invalids
+- - hunchbacked
+  - assistant
+  - mungo
 - - train
   - forklift
   - truck
@@ -29,24 +29,24 @@ ngrams:
 - - finally
   - funicular
   - railway
-- - understand
-  - mungo
-  - keeps
 - - chamber
   - designed
   - especially
+- - understand
+  - mungo
+  - keeps
 - - van
   - train
   - forklift
+- - secret
+  - laboratory
+  - somewhere
+- - secret
+  - laboratory
+  - somewhere
 - - thinkers
   - throughout
   - history
-- - secret
-  - laboratory
-  - somewhere
-- - secret
-  - laboratory
-  - somewhere
 - - top
   - secret
   - laboratory
@@ -71,27 +71,27 @@ ngrams:
 - - forklift
   - truck
   - another
-- - dinner
-  - another
-  - snooze
 - - decisive
   - intervention
   - came
+- - dinner
+  - another
+  - snooze
 - - placed
   - both
   - fools
-- - ship
-  - another
-  - forklift
 - - great
   - thinkers
   - throughout
-- - truck
-  - ship
-  - another
 - - next
   - st
   - valentine's
+- - ship
+  - another
+  - forklift
+- - truck
+  - ship
+  - another
 - - truck
   - another
   - van
@@ -146,15 +146,15 @@ ngrams:
 - - our
   - own
   - era
+- - do
+  - fools
+  - fall
+- - do
+  - fools
+  - fall
 - - first
   - obtain
   - two
-- - do
-  - fools
-  - fall
-- - do
-  - fools
-  - fall
 - - alps
   - some
   - decades
@@ -197,9 +197,6 @@ ngrams:
 - - after
   - some
   - minutes
-- - years
-  - holed
-  - up
 - - before
   - waking
   - them
@@ -209,21 +206,24 @@ ngrams:
 - - both
   - fools
   - into
+- - years
+  - holed
+  - up
 - - will
   - blossom
   - within
-- - 'true'
-  - love
-  - will
 - - fools
   - we
   - encounter
-- - fools
-  - all
-  - right
+- - 'true'
+  - love
+  - will
 - - out
   - why
   - fools
+- - fools
+  - all
+  - right
 story:
   date: 2017-07-26
   id: 2017-07-26-why-do-fools-fall-in-love

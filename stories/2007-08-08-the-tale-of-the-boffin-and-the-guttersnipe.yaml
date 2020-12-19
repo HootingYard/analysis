@@ -2,33 +2,33 @@ ngrams:
 - - contaminated
   - lemon
   - curd
-- - source
-  - mawkish
-  - fables
-- - employed
-  - numerous
-  - servants
 - - coast
   - gulls
   - guillemots
-- - rectitude
-  - source
+- - employed
+  - numerous
+  - servants
+- - source
   - mawkish
+  - fables
 - - stormy
   - petrels
   - perched
-- - butler
-  - named
-  - jarvis
+- - rectitude
+  - source
+  - mawkish
 - - cliffs
   - ma
   - hacked
-- - moral
-  - rectitude
-  - source
 - - parents
   - employed
   - numerous
+- - moral
+  - rectitude
+  - source
+- - butler
+  - named
+  - jarvis
 - - cobalt
   - blue
   - tinted
@@ -53,21 +53,21 @@ ngrams:
 - - fine
   - white
   - coat
-- - huge
-  - thumping
-  - feet
 - - better
   - engaged
   - cogitating
 - - post
   - office
   - repeatedly
-- - ridiculed
-  - another
-  - page
+- - huge
+  - thumping
+  - feet
 - - shining
   - yet
   - merciless
+- - ridiculed
+  - another
+  - page
 - - yet
   - merciless
   - city
@@ -80,21 +80,21 @@ ngrams:
 - - reputation
   - sullied
   - through
-- - repeatedly
-  - despite
-  - being
-- - most
-  - welcome
-  - young
 - - very
   - privileged
   - upbringing
-- - cover
-  - these
-  - rags
+- - repeatedly
+  - despite
+  - being
 - - think
   - higher
   - thoughts
+- - most
+  - welcome
+  - young
+- - cover
+  - these
+  - rags
 - - must
   - decline
   - let
@@ -110,12 +110,12 @@ ngrams:
 - - explain
   - why
   - while
-- - higher
-  - thoughts
-  - now
 - - engaged
   - cogitating
   - upon
+- - higher
+  - thoughts
+  - now
 - - funnel
   - myself
   - even
@@ -125,6 +125,9 @@ ngrams:
 - - rot
   - 'no'
   - cruelty
+- - myself
+  - even
+  - though
 - - guttersnipe
   - how
   - now
@@ -140,28 +143,28 @@ ngrams:
 - - guttersnipe
   - set
   - him
-- - myself
-  - even
-  - though
 - - funnel
   - your
   - offer
 - - now
   - boffin
   - said
+- - tinted
+  - bleach
+  - into
+- - tinted
+  - bleach
+  - into
+- - tinted
+  - bleach
+  - into
+- - tinted
+  - bleach
+  - into
 - - were
   - permitted
   - raincoats
-- - tinted
-  - bleach
-  - into
-- - tinted
-  - bleach
-  - into
-- - tinted
-  - bleach
-  - into
-- - tinted
+- - pouring
   - bleach
   - into
 - - pa
@@ -173,9 +176,6 @@ ngrams:
 - - were
   - regularly
   - beaten
-- - pouring
-  - bleach
-  - into
 - - ma
   - hacked
   - into
@@ -188,15 +188,18 @@ ngrams:
 - - robot
   - brontosaurus
   - all
-- - flaming
-  - tongs
-  - they
 - - funnel
   - when
   - along
+- - flaming
+  - tongs
+  - they
 - - towering
   - intellect
   - would
+- - so
+  - judiciously
+  - suggest
 - - been
   - thinking
   - how
@@ -206,9 +209,6 @@ ngrams:
 - - let
   - me
   - explain
-- - so
-  - judiciously
-  - suggest
 - - when
   - along
   - came

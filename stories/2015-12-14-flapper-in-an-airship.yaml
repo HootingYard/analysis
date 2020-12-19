@@ -8,21 +8,18 @@ ngrams:
 - - scribbler
   - brent
   - crude
-- - yarns
-  - astonishing
-  - yarns
 - - airship
   - interestingly
   - brent
+- - yarns
+  - astonishing
+  - yarns
 - - amazing
   - yarns
   - astonishing
 - - ivory
   - tower
   - overlooking
-- - critic
-  - prig
-  - blot
 - - american
   - scribbler
   - brent
@@ -32,6 +29,9 @@ ngrams:
 - - literary
   - critic
   - prig
+- - critic
+  - prig
+  - blot
 - - muchness
   - careful
   - analysis
@@ -56,48 +56,48 @@ ngrams:
 - - again
   - occasionally
   - inserting
-- - two
-  - decades
-  - dozens
 - - industry
   - nor
   - indeed
+- - two
+  - decades
+  - dozens
 - - because
   - both
   - flappers
 - - following
   - two
   - decades
-- - these
-  - foolish
-  - books
 - - foolish
   - books
   - years
+- - these
+  - foolish
+  - books
 - - probably
   - because
   - both
-- - different
-  - adjective
-  - here
 - - pulp
   - writers
   - such
+- - different
+  - adjective
+  - here
 - - could
   - match
   - brent
-- - little
-  - read
-  - today
 - - none
   - could
   - match
-- - airship
-  - some
-  - writers
+- - little
+  - read
+  - today
 - - over
   - again
   - occasionally
+- - airship
+  - some
+  - writers
 - - brent
   - crude
   - who
@@ -125,9 +125,9 @@ ngrams:
 - - their
   - own
   - genre
-- - create
-  - their
-  - own
+- - knocking
+  - out
+  - short
 story:
   date: 2015-12-14
   id: 2015-12-14-flapper-in-an-airship

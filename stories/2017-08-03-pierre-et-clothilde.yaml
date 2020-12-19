@@ -1,23 +1,26 @@
 ngrams:
-- - flu
-  - wreaked
-  - havoc
 - - foofy
   - boogie
   - boo
-- - dubious
-  - provenance
-  - pierre
+- - flu
+  - wreaked
+  - havoc
 - - shoeburyness
   - crowd
   - peevish
-- - wreath
-  - composed
-  - mostly
+- - dubious
+  - provenance
+  - pierre
 - - contemporaries
   - pierre
   - et
+- - wreath
+  - composed
+  - mostly
 - - duo
+  - pierre
+  - et
+- - expertise
   - pierre
   - et
 - - provenance
@@ -26,9 +29,6 @@ ngrams:
 - - rough
   - beasts
   - prowling
-- - expertise
-  - pierre
-  - et
 - - folk
   - sensation
   - keith
@@ -53,27 +53,33 @@ ngrams:
 - - pop
   - folk
   - sensation
-- - poor
-  - pierre
-  - et
 - - local
   - kiosk
   - closures
+- - poor
+  - pierre
+  - et
 - - pop
   - context
   - pop
-- - belgian
-  - tv
-  - show
-- - godwits
-  - looming
-  - above
 - - imitate
   - christ
   - wearing
 - - s
   - pierre
   - et
+- - belgian
+  - tv
+  - show
+- - godwits
+  - looming
+  - above
+- - experimental
+  - research
+  - station
+- - s
+  - pop
+  - duo
 - - pop
   - music
   - wreath
@@ -83,33 +89,27 @@ ngrams:
 - - young
   - rascals
   - sang
-- - experimental
-  - research
-  - station
-- - s
-  - pop
-  - duo
 - - wild
   - shoeburyness
   - pigs
 - - early
   - s
   - pierre
-- - usual
-  - pigs
-  - possibly
 - - don't
   - usually
   - howl
+- - usual
+  - pigs
+  - possibly
 - - wild
   - pigs
   - pigs
-- - pigs
-  - pigs
-  - don't
 - - air
   - arena
   - grew
+- - pigs
+  - pigs
+  - don't
 - - pigs
   - don't
   - usually
@@ -119,15 +119,15 @@ ngrams:
 - - forehead
   - that's
   - because
+- - pop
+  - history
+  - yet
 - - pigs
   - possibly
   - because
 - - none
   - too
   - gently
-- - pop
-  - history
-  - yet
 - - shoved
   - none
   - too
@@ -146,12 +146,12 @@ ngrams:
 - - these
   - wild
   - shoeburyness
-- - our
-  - pop
-  - kids
 - - very
   - rare
   - photograph
+- - our
+  - pop
+  - kids
 - - such
   - rough
   - beasts
@@ -161,18 +161,18 @@ ngrams:
 - - like
   - untold
   - dozens
-- - tv
-  - show
-  - like
-- - show
-  - like
-  - untold
 - - very
   - lovely
   - thing
 - - pop
   - person
   - than
+- - tv
+  - show
+  - like
+- - show
+  - like
+  - untold
 - - do
   - fools
   - fall
@@ -197,24 +197,24 @@ ngrams:
 - - been
   - shoved
   - none
-- - your
-  - usual
-  - pigs
-- - can't
-  - bursts
-  - into
 - - sang
   - how
   - can
+- - can't
+  - bursts
+  - into
+- - your
+  - usual
+  - pigs
 - - bursts
   - into
   - tears
-- - shoeburyness
-  - pigs
-  - were
 - - did
   - oh
   - where
+- - shoeburyness
+  - pigs
+  - were
 - - uglier
   - they
   - pelted

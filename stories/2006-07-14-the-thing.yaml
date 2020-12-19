@@ -1,10 +1,10 @@
 ngrams:
-- - rapscallion
-  - stops
-  - chewing
 - - slow
   - juddery
   - rotation
+- - rapscallion
+  - stops
+  - chewing
 - - cheap
   - serbian
   - tobacco
@@ -17,27 +17,27 @@ ngrams:
 - - bitter
   - cheap
   - serbian
-- - clinking
-  - tankards
-  - start
 - - savagely
   - bitter
   - cheap
 - - landlady
   - busies
   - herself
+- - clinking
+  - tankards
+  - start
 - - busies
   - herself
   - pointedly
 - - herself
   - pointedly
   - polishing
-- - greater
-  - diligence
-  - flesh
 - - pipe
   - perplexity
   - furrowing
+- - greater
+  - diligence
+  - flesh
 - - austrian
   - postal
   - service
@@ -56,12 +56,12 @@ ngrams:
 - - hearing
   - grew
   - sharper
-- - blue
-  - juddery
-  - rotation
 - - foul
   - pipe
   - tobacco
+- - blue
+  - juddery
+  - rotation
 - - service
   - jacket
   - standing
@@ -98,33 +98,33 @@ ngrams:
 - - too
   - busy
   - gobbling
-- - bright
-  - black
-  - eyes
 - - door
   - having
   - scurried
+- - bright
+  - black
+  - eyes
 - - every
   - single
   - rapscallion
 - - tavern
   - door
   - having
-- - little
-  - red
-  - sores
 - - rag
   - every
   - single
-- - curd
-  - little
-  - red
 - - crashes
   - excitedly
   - through
+- - little
+  - red
+  - sores
 - - being
   - served
   - unfortunately
+- - curd
+  - little
+  - red
 - - very
   - faint
   - clanking
@@ -137,30 +137,27 @@ ngrams:
 - - traveller
   - slurps
   - down
-- - busy
-  - gobbling
-  - down
 - - wool
   - before
   - examining
 - - sock
   - wool
   - before
-- - legs
-  - perhaps
-  - take
+- - busy
+  - gobbling
+  - down
 - - sharper
   - perhaps
   - too
+- - legs
+  - perhaps
+  - take
 - - tavern
   - where
   - miscreants
 - - sordid
   - tavern
   - where
-- - landlady
-  - flings
-  - her
 - - its
   - collective
   - dotage
@@ -170,63 +167,72 @@ ngrams:
 - - other
   - burrowing
   - creatures
-- - flings
-  - her
-  - rag
-- - tavern
-  - clock
-  - she
 - - first
   - few
   - sips
-- - having
-  - scurried
-  - down
 - - more
   - plates
   - piled
+- - having
+  - scurried
+  - down
+- - landlady
+  - flings
+  - her
+- - flings
+  - her
+  - rag
 - - fog
   - came
   - down
-- - clock
+- - tavern
+  - clock
   - she
-  - turned
-- - top
-  - put
-  - down
 - - said
   - something
   - untoward
+- - top
+  - put
+  - down
 - - perhaps
   - too
   - once
-- - 'yes'
-  - her
-  - hat
+- - clock
+  - she
+  - turned
 - - winched
   - him
   - onto
 - - span
   - around
   - like
-- - perhaps
-  - take
-  - 'off'
 - - any
   - certainty
   - say
-- - course
-  - put
-  - back
-- - different
-  - languages
-  - some
+- - perhaps
+  - take
+  - 'off'
 - - hill
   - might
   - think
+- - course
+  - put
+  - back
+- - 'yes'
+  - her
+  - hat
+- - different
+  - languages
+  - some
 - - tankards
   - start
   - up
+- - 'no'
+  - longer
+  - visible
+- - been
+  - curled
+  - asleep
 - - remembers
   - how
   - she
@@ -239,12 +245,6 @@ ngrams:
 - - how
   - her
   - frock
-- - been
-  - curled
-  - asleep
-- - 'no'
-  - longer
-  - visible
 - - piggy
   - eyes
   - up
@@ -254,96 +254,93 @@ ngrams:
 - - crinkling
   - if
   - moles
-- - boots
-  - were
-  - dappled
 - - pads
   - slowly
   - out
 - - pancake
   - eaters
   - will
-- - socks
+- - boots
   - were
-  - blue
+  - dappled
 - - start
   - up
   - again
-- - flickers
-  - before
-  - him
-- - stops
-  - ticking
-  - all
+- - socks
+  - were
+  - blue
 - - land
   - if
   - fog
+- - stops
+  - ticking
+  - all
 - - eyes
   - crinkling
   - if
+- - flickers
+  - before
+  - him
 - - fog
   - lifting
   - there
 - - clanking
   - noise
   - would
-- - she
-  - winched
-  - him
 - - if
   - fog
   - came
 - - noise
   - would
   - seem
-- - though
-  - she
-  - did
 - - within
   - hours
   - will
-- - were
-  - blue
-  - too
-- - poisoned
-  - pancakes
-  - which
-- - clanking
-  - noise
-  - so
+- - would
+  - seem
+  - less
 - - shrove
   - tuesday
   - so
-- - noise
+- - clanking
+  - noise
   - so
-  - faint
 - - tuesday
   - so
   - pancakes
+- - noise
+  - so
+  - faint
+- - though
+  - she
+  - did
+- - would
+  - become
+  - aware
+- - were
+  - blue
+  - too
+- - she
+  - winched
+  - him
 - - within
   - hours
   - all
 - - walls
   - are
   - trimmed
-- - would
-  - seem
-  - less
-- - would
-  - become
-  - aware
 - - swirled
   - about
   - our
-- - has
-  - said
-  - something
+- - poisoned
+  - pancakes
+  - which
 - - hours
   - will
   - find
-- - pancakes
-  - which
-  - within
+- - has
+  - said
+  - something
 - - dishes
   - up
   - more
@@ -353,15 +350,18 @@ ngrams:
 - - years
   - ago
   - when
+- - pancakes
+  - which
+  - within
 - - how
   - they
   - danced
 - - which
   - within
   - hours
-- - are
-  - too
-  - busy
+- - this
+  - repulsive
+  - tavern
 story:
   date: 2006-07-14
   id: 2006-07-14-the-thing

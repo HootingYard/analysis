@@ -8,9 +8,6 @@ ngrams:
 - - average
   - lancashire
   - yorkshire
-- - measurement
-  - london
-  - '-'
 - - male
   - size
   - fixing
@@ -23,15 +20,18 @@ ngrams:
 - - measurement
   - ranging
   - between
+- - measurement
+  - london
+  - '-'
 - - extreme
   - size
   - however
-- - extremely
-  - small
-  - heads
 - - coventry
   - quite
   - unusual
+- - extremely
+  - small
+  - heads
 - - most
   - general
   - size
@@ -71,12 +71,12 @@ ngrams:
 - - are
   - peculiarly
   - observed
-- - facts
-  - are
-  - peculiarly
 - - higher
   - classes
   - are
+- - facts
+  - are
+  - peculiarly
 - - general
   - are
   - nearly
@@ -107,9 +107,9 @@ ngrams:
 - - are
   - more
   - general
-- - society
-  - above
-  - from
+- - weavers
+  - have
+  - extremely
 - - at
   - maturity
   - averages

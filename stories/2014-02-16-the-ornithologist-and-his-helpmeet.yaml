@@ -17,33 +17,33 @@ ngrams:
 - - situations
   - vacant
   - tied
-- - fag
-  - break
-  - clattering
 - - scarecrow
   - suit
   - hung
+- - fag
+  - break
+  - clattering
 - - fathomless
   - incomprehension
   - shortly
 - - ornithologist
   - bruno
   - la
-- - previous
-  - day's
-  - edition
 - - incomprehension
   - shortly
   - afterwards
 - - vacant
   - listings
   - magazine
-- - despairing
-  - stood
-  - hunched
+- - previous
+  - day's
+  - edition
 - - listings
   - magazine
   - price
+- - despairing
+  - stood
+  - hunched
 - - papa
   - despairing
   - stood
@@ -68,18 +68,18 @@ ngrams:
 - - tears
   - waking
   - under
-- - found
-  - bruno
-  - la
 - - become
   - hopelessly
   - lost
-- - break
-  - clattering
-  - because
 - - plum
   - job
   - indeed
+- - found
+  - bruno
+  - la
+- - break
+  - clattering
+  - because
 - - manse
   - appeared
   - having
@@ -107,12 +107,12 @@ ngrams:
 - - our
   - spinning
   - globe
-- - drool
-  - dribbling
-  - down
 - - where
   - courting
   - couples
+- - drool
+  - dribbling
+  - down
 - - where
   - papa
   - despairing
@@ -122,12 +122,15 @@ ngrams:
 - - now
   - rotting
   - wood
-- - having
-  - tracked
-  - down
 - - too
   - many
   - servants
+- - having
+  - tracked
+  - down
+- - orrery
+  - spinning
+  - them
 - - collect
   - him
   - tie
@@ -140,48 +143,48 @@ ngrams:
 - - pulled
   - him
   - gently
-- - orrery
-  - spinning
-  - them
-- - standing
-  - beside
-  - him
 - - far
   - far
   - away
-- - scratched
-  - their
-  - initials
+- - standing
+  - beside
+  - him
 - - 'no'
   - smoking
   - zone
+- - scratched
+  - their
+  - initials
 - - spinning
   - them
   - turn
 - - vacant
   - tied
   - up
-- - some
-  - hours
-  - later
-- - absolutely
-  - 'no'
-  - sense
-- - shall
-  - never
-  - know
-- - string
-  - what
-  - prompted
 - - might
   - wonder
   - did
-- - himself
-  - some
+- - absolutely
+  - 'no'
+  - sense
+- - string
+  - what
+  - prompted
+- - shall
+  - never
+  - know
+- - some
   - hours
+  - later
 - - ago
   - scratched
   - their
+- - himself
+  - some
+  - hours
+- - ornithologists
+  - even
+  - more
 - - what
   - usually
   - happened
@@ -191,27 +194,24 @@ ngrams:
 - - fell
   - into
   - conversation
-- - him
-  - gently
-  - back
-- - him
-  - gently
-  - back
-- - ornithologists
-  - even
-  - more
-- - found
-  - himself
-  - some
-- - eyes
-  - were
-  - pointing
 - - usually
   - happened
   - when
+- - found
+  - himself
+  - some
+- - him
+  - gently
+  - back
+- - him
+  - gently
+  - back
 - - piece
   - together
   - what
+- - eyes
+  - were
+  - pointing
 - - came
   - clattering
   - into
@@ -221,42 +221,54 @@ ngrams:
 - - date
   - we
   - cannot
-- - dimwit
-  - who
-  - could
-- - gently
-  - back
-  - into
 - - correct
   - angle
   - so
 - - recently
   - occurred
   - so
-- - him
-  - tie
-  - him
+- - dimwit
+  - who
+  - could
+- - gently
+  - back
+  - into
 - - we
   - cannot
   - piece
 - - words
   - hand
   - me
+- - dimwit
+  - would
+  - make
+- - him
+  - tie
+  - him
 - - such
   - matters
   - were
 - - an
   - orrery
   - spinning
-- - dimwit
-  - would
-  - make
 - - feathers
   - so
   - far
 - - shortly
   - afterwards
   - one
+- - we
+  - might
+  - wonder
+- - we
+  - shall
+  - never
+- - hopelessly
+  - lost
+  - this
+- - never
+  - know
+  - what
 - - courting
   - couples
   - had
@@ -266,30 +278,18 @@ ngrams:
 - - tonkin
   - incident
   - had
-- - we
-  - might
-  - wonder
-- - hopelessly
-  - lost
-  - this
-- - never
-  - know
-  - what
-- - we
-  - shall
-  - never
+- - chin
+  - until
+  - one
 - - incident
   - had
   - recently
-- - papa
-  - had
-  - tried
 - - had
   - foolishly
   - gone
-- - had
-  - recently
-  - occurred
+- - papa
+  - had
+  - tried
 story:
   date: 2014-02-16
   id: 2014-02-16-the-ornithologist-and-his-helpmeet

@@ -5,9 +5,6 @@ ngrams:
 - - skin
   - fragments
   - sperm
-- - recipe
-  - paracelsus
-  - '-'
 - - illegal
   - pirated
   - edition
@@ -17,18 +14,15 @@ ngrams:
 - - flies
   - midges
   - gnats
+- - fantastic
+  - bouffant
+  - based
 - - conduct
   - huge
   - ensembles
 - - bones
   - skin
   - fragments
-- - fantastic
-  - bouffant
-  - based
-- - paracelsus
-  - '-'
-  - real
 - - various
   - flies
   - midges
@@ -41,12 +35,18 @@ ngrams:
 - - homunculus
   - seemed
   - unable
+- - recipe
+  - paracelsus
+  - '-'
 - - legal
   - case
   - included
 - - functioning
   - tiny
   - creature
+- - paracelsus
+  - '-'
+  - real
 - - fully
   - functioning
   - tiny
@@ -56,9 +56,6 @@ ngrams:
 - - real
   - name
   - philippus
-- - '-'
-  - real
-  - name
 - - magisterial
   - new
   - biography
@@ -74,15 +71,18 @@ ngrams:
 - - placed
   - these
   - ingredients
+- - '-'
+  - real
+  - name
 - - first
   - known
   - homunculus
-- - hokusai
-  - its
-  - temperament
 - - came
   - too
   - close
+- - hokusai
+  - its
+  - temperament
 - - its
   - stylish
   - louis
@@ -101,12 +101,12 @@ ngrams:
 - - our
   - own
   - dear
-- - has
-  - sold
-  - upwards
 - - learn
   - some
   - startling
+- - has
+  - sold
+  - upwards
 - - experts
   - say
   - may
@@ -116,12 +116,12 @@ ngrams:
 - - who
   - apparently
   - tried
-- - resolved
-  - until
-  - some
 - - can
   - read
   - german
+- - resolved
+  - until
+  - some
 - - embryo
   - sprang
   - into
@@ -143,18 +143,18 @@ ngrams:
 - - made
   - its
   - own
-- - were
-  - recorded
-  - however
 - - all
   - respects
   - save
-- - bit
-  - those
-  - who
+- - were
+  - recorded
+  - however
 - - interestingly
   - we
   - discover
+- - bit
+  - those
+  - who
 - - who
   - came
   - too
@@ -164,30 +164,33 @@ ngrams:
 - - sprang
   - into
   - being
-- - shoulder
-  - which
-  - hissed
 - - into
   - being
   - horst
 - - those
   - who
   - came
-- - matter
+- - shoulder
   - which
-  - experts
+  - hissed
 - - startling
   - things
   - we
-- - fill
-  - their
-  - time
 - - things
   - we
   - learn
+- - matter
+  - which
+  - experts
+- - fill
+  - their
+  - time
 - - book
   - we
   - learn
+- - until
+  - some
+  - time
 - - an
   - enchanting
   - anecdote
@@ -197,9 +200,6 @@ ngrams:
 - - meantime
   - an
   - illegal
-- - until
-  - some
-  - time
 story:
   date: 2017-01-30
   id: 2017-01-30-horst-gacks-familiar

@@ -29,26 +29,29 @@ ngrams:
 - - christ
   - christ
   - come
-- - cemetery
-  - leytonstone
-  - where
 - - even
   - taller
   - nun
+- - cemetery
+  - leytonstone
+  - where
 - - long
   - long
   - ago
-- - other
-  - four
-  - drowned
 - - buried
   - go
   - here
+- - other
+  - four
+  - drowned
+- - yard
+  - long
+  - long
 - - deutschland
   - her
   - name
-- - yard
-  - long
+- - hooting
+  - yard
   - long
 - - her
   - name
@@ -56,9 +59,6 @@ ngrams:
 - - fassbender
   - her
   - last
-- - hooting
-  - yard
-  - long
 story:
   date: 2011-08-05
   id: 2011-08-05-shipboard-nun-dabble

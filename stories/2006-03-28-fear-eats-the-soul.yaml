@@ -14,12 +14,12 @@ ngrams:
 - - delivery
   - boy's
   - bicycle
-- - doom
-  - blazing
-  - furiously
 - - calfskin
   - wallet
   - containing
+- - doom
+  - blazing
+  - furiously
 - - ends
   - deserted
   - icelandic
@@ -29,114 +29,117 @@ ngrams:
 - - curiously
   - distended
   - upper
-- - tap
-  - tap
-  - tap
 - - newspaper
   - delivery
   - boy's
-- - uruguayan
-  - mountain
-  - ranger
-- - uruguayan
-  - mountain
-  - ranger
-- - uruguayan
-  - mountain
-  - ranger
-- - wallet
-  - containing
-  - cash
 - - surprisingly
   - expensive
   - cigarette
+- - uruguayan
+  - mountain
+  - ranger
+- - uruguayan
+  - mountain
+  - ranger
+- - uruguayan
+  - mountain
+  - ranger
+- - peasants
+  - tooting
+  - pipes
+- - wallet
+  - containing
+  - cash
 - - detours
   - odd
   - ends
 - - saying
   - loudly
   - unhand
-- - peasants
-  - tooting
-  - pipes
+- - tap
+  - tap
+  - tap
+- - odd
+  - ends
+  - deserted
 - - upper
   - lip
   - area
 - - creaking
   - burning
   - wheel
-- - odd
-  - ends
-  - deserted
-- - mountain
-  - ranger
-  - boot
-- - pet
-  - crow
-  - hopped
 - - crippled
   - crow
   - hearing
-- - huge
-  - flames
-  - licking
+- - pet
+  - crow
+  - hopped
+- - mountain
+  - ranger
+  - boot
 - - partly
   - visible
   - suggested
+- - huge
+  - flames
+  - licking
 - - hour
   - detours
   - odd
 - - enid
   - swung
   - herself
-- - john
-  - major
-  - government
 - - mountain
   - ranger
   - boots
 - - mountain
   - ranger
   - boots
+- - milk
+  - waiting
+  - patiently
 - - blind
   - david
   - blunkett
+- - john
+  - major
+  - government
 - - tidy
   - grey
   - hair
 - - metal
   - tapping
   - machine
-- - milk
-  - waiting
-  - patiently
-- - blazing
-  - furiously
-  - behind
 - - bus
   - pass
   - creased
+- - blazing
+  - furiously
+  - behind
 - - whose
   - moral
   - compass
 - - troubled
   - dreams
   - went
-- - dreams
-  - went
-  - downstairs
 - - crow
   - hopped
   - along
+- - dreams
+  - went
+  - downstairs
 - - penny
   - dropped
   - tiny
-- - later
-  - dawn
-  - broke
 - - smoking
   - another
   - cheroot
+- - later
+  - dawn
+  - broke
+- - wind
+  - blew
+  - across
 - - strange
   - night
   - reasoning
@@ -146,6 +149,9 @@ ngrams:
 - - tiny
   - enid
   - swung
+- - beating
+  - drums
+  - yet
 - - paving
   - tiny
   - enid
@@ -155,39 +161,27 @@ ngrams:
 - - tiny
   - enid
   - drained
-- - wind
-  - blew
-  - across
 - - tiny
   - enid
   - awoke
-- - tiny
-  - enid
-  - showed
 - - drinking
   - another
   - glass
-- - dropped
-  - tiny
+- - tiny
   - enid
-- - beating
-  - drums
-  - yet
+  - showed
+- - table
+  - having
+  - kicked
 - - suggested
   - something
   - triumphant
-- - tiny
-  - enid
-  - ran
-- - lake
+- - dropped
   - tiny
   - enid
 - - must
   - stay
   - indoors
-- - table
-  - having
-  - kicked
 - - still
   - owed
   - undying
@@ -196,40 +190,46 @@ ngrams:
   - forward
 - - tiny
   - enid
-  - stood
-- - muddy
-  - field
-  - tiny
+  - ran
 - - grows
   - stranger
   - still
+- - lake
+  - tiny
+  - enid
 - - visible
   - suggested
   - something
 - - kitchen
   - table
   - having
+- - tiny
+  - enid
+  - stood
+- - add
+  - yet
+  - someone
+- - muddy
+  - field
+  - tiny
 - - hours
   - later
   - dawn
 - - tiny
   - enid
   - sat
-- - add
-  - yet
-  - someone
 - - field
   - tiny
   - enid
 - - tiny
   - enid
   - turned
-- - gradually
-  - putting
-  - two
 - - sky
   - tiny
   - enid
+- - gradually
+  - putting
+  - two
 - - swung
   - herself
   - 'off'
@@ -245,126 +245,144 @@ ngrams:
 - - cruel
   - world
   - indeed
-- - only
-  - partly
-  - visible
 - - heard
   - many
   - tales
-- - doom
-  - let
-  - us
+- - only
+  - partly
+  - visible
 - - yet
   - someone
   - must
-- - having
-  - kicked
-  - 'off'
+- - doom
+  - let
+  - us
 - - well
   - take
   - advantage
-- - her
-  - doormat
-  - anticipating
+- - having
+  - kicked
+  - 'off'
 - - other
   - clues
   - indicated
-- - see
-  - tiny
-  - enid
-- - hung
-  - her
-  - shawl
-- - she
-  - hastily
-  - lit
-- - basket
-  - she
-  - grabbed
-- - hastily
-  - lit
-  - her
-- - hideous
-  - creaks
-  - its
 - - being
   - carried
   - across
-- - looked
-  - back
-  - towards
-- - grabbed
-  - her
-  - address
-- - hallway
-  - she
-  - picked
+- - see
+  - tiny
+  - enid
+- - hideous
+  - creaks
+  - its
 - - other
   - peasants
   - tooting
-- - her
-  - glass
-  - draped
-- - shawl
-  - looking
-  - now
-- - her
-  - uruguayan
-  - mountain
-- - her
-  - uruguayan
-  - mountain
-- - her
-  - uruguayan
-  - mountain
-- - drained
-  - her
-  - glass
+- - looked
+  - back
+  - towards
 - - creaks
   - its
   - huge
-- - gate
-  - her
-  - pet
-- - enid
-  - drained
-  - her
-- - its
-  - huge
-  - flames
-- - her
-  - pet
-  - crow
-- - her
-  - pet
-  - crow
-- - spent
-  - she
-  - squelched
-- - fields
-  - she
-  - waited
-- - her
-  - shawl
+- - shawl
   - looking
-- - her
-  - metal
-  - tapping
+  - now
 - - perplexed
   - then
   - gradually
+- - its
+  - huge
+  - flames
 - - then
   - gradually
   - putting
 - - milk
   - other
   - clues
+- - her
+  - doormat
+  - anticipating
+- - basket
+  - she
+  - grabbed
+- - she
+  - hastily
+  - lit
 - - two
   - together
   - until
+- - hung
+  - her
+  - shawl
+- - hallway
+  - she
+  - picked
+- - hastily
+  - lit
+  - her
+- - grabbed
+  - her
+  - address
 - - name
   - once
   - again
+- - her
+  - glass
+  - draped
+- - her
+  - uruguayan
+  - mountain
+- - her
+  - uruguayan
+  - mountain
+- - her
+  - uruguayan
+  - mountain
+- - tiny
+  - enid
+  - over
+- - drained
+  - her
+  - glass
+- - fields
+  - she
+  - waited
+- - gate
+  - her
+  - pet
+- - spent
+  - she
+  - squelched
+- - though
+  - only
+  - partly
+- - enid
+  - drained
+  - her
+- - her
+  - pet
+  - crow
+- - her
+  - pet
+  - crow
+- - than
+  - tiny
+  - enid
+- - her
+  - shawl
+  - looking
+- - her
+  - metal
+  - tapping
+- - more
+  - terrible
+  - imagine
+- - her
+  - kitchen
+  - table
+- - squelched
+  - back
+  - through
 - - furiously
   - behind
   - her
@@ -374,33 +392,15 @@ ngrams:
 - - side
   - clutching
   - her
-- - her
-  - kitchen
-  - table
 - - box
   - spent
   - she
-- - tiny
-  - enid
-  - over
 - - rest
   - she
   - gave
-- - door
-  - she
-  - walked
-- - though
-  - only
-  - partly
-- - her
-  - eyes
-  - lit
-- - than
-  - tiny
-  - enid
-- - clutching
-  - her
-  - hand
+- - peasantry
+  - here
+  - just
 story:
   date: 2006-03-28
   id: 2006-03-28-fear-eats-the-soul

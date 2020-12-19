@@ -35,45 +35,30 @@ ngrams:
 - - dull
   - bloated
   - yet
-- - proper
-  - english
-  - name
 - - common
   - fruit
   - indeed
+- - proper
+  - english
+  - name
 - - cutting
   - itself
   - 'off'
 - - bananas
   - broke
   - down
-- - itself
-  - 'off'
-  - entirely
 - - very
   - common
   - fruit
-- - her
-  - aristocratic
-  - prejudices
-- - she
-  - loved
-  - theatres
-- - morbid
-  - she
-  - loved
-- - its
-  - smaller
-  - fruits
-- - her
-  - intense
-  - devotion
-- - her
-  - invincible
-  - ignorance
+- - itself
+  - 'off'
+  - entirely
 - - wild
   - flowers
   - than
+- - its
+  - smaller
+  - fruits
 - - any
   - flower
   - bird
@@ -83,33 +68,48 @@ ngrams:
 - - its
   - proper
   - english
-- - whom
+- - morbid
   - she
-  - lived
+  - loved
+- - she
+  - loved
+  - theatres
+- - her
+  - aristocratic
+  - prejudices
+- - her
+  - intense
+  - devotion
+- - her
+  - invincible
+  - ignorance
 - - name
   - any
   - flower
 - - some
   - lingering
   - disease
-- - indeed
-  - her
-  - intense
+- - whom
+  - she
+  - lived
 - - perhaps
   - she
   - belonged
-- - name
-  - she
-  - loved
+- - indeed
+  - her
+  - intense
 - - under
   - whom
   - she
-- - english
-  - name
+- - name
   - she
+  - loved
 - - fruit
   - indeed
   - her
+- - think
+  - than
+  - anything
 story:
   date: 2011-06-19
   id: 2011-06-19-osbert-sitwells-nurse

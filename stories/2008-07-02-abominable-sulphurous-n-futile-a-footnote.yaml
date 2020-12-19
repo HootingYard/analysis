@@ -2,21 +2,21 @@ ngrams:
 - - conscious
   - reasoned
   - hatred
-- - sinister
-  - schoolmaster
-  - weems
-- - sinister
-  - schoolmaster
-  - weems
 - - frankly
   - batty
   - provost
-- - grievous
-  - moral
-  - turpitude
+- - sinister
+  - schoolmaster
+  - weems
+- - sinister
+  - schoolmaster
+  - weems
 - - eyesight
   - sturdy
   - limbs
+- - grievous
+  - moral
+  - turpitude
 - - innocently
   - tossing
   - pebbles
@@ -32,30 +32,30 @@ ngrams:
 - - dangerously
   - large
   - rocks
+- - tale
+  - casting
+  - doubt
+- - earlier
+  - post
+  - abominable
 - - ducks
   - blodgett
   - hates
 - - blodgett
   - hates
   - ducks
-- - tale
-  - casting
-  - doubt
 - - exact
   - wording
   - used
-- - earlier
-  - post
-  - abominable
 - - national
   - fabric
   - remember
-- - tot
-  - blodgett
-  - fall
 - - different
   - soups
   - named
+- - tot
+  - blodgett
+  - fall
 - - five
   - different
   - soups
@@ -65,45 +65,45 @@ ngrams:
 - - tossing
   - pebbles
   - let
-- - oftentimes
-  - tiny
-  - children
 - - piece
   - originally
   - appeared
+- - reasoned
+  - hatred
+  - though
+- - oftentimes
+  - tiny
+  - children
+- - distinguish
+  - between
+  - different
 - - hates
   - ducks
   - because
 - - because
   - ducks
   - hate
-- - tiny
-  - children
-  - carry
-- - distinguish
-  - between
-  - different
-- - reasoned
-  - hatred
-  - though
 - - own
   - childhood
   - memories
-- - railways
-  - blodgett
-  - himself
-- - own
-  - mother
-  - trained
 - - between
   - different
   - types
+- - tiny
+  - children
+  - carry
+- - own
+  - mother
+  - trained
 - - ducks
   - because
   - ducks
 - - already
   - set
   - aside
+- - railways
+  - blodgett
+  - himself
 - - most
   - grievous
   - moral
@@ -116,9 +116,6 @@ ngrams:
 - - own
   - account
   - blodgett
-- - blodgett
-  - ever
-  - gets
 - - incident
   - took
   - place
@@ -128,6 +125,9 @@ ngrams:
 - - very
   - sharp
   - edges
+- - blodgett
+  - ever
+  - gets
 - - identify
   - teal
   - before
@@ -137,39 +137,36 @@ ngrams:
 - - our
   - national
   - fabric
-- - losing
-  - our
-  - bees
-- - spiteful
-  - man
-  - already
-- - our
-  - country's
-  - ducks
 - - any
   - citizen
   - possessed
+- - our
+  - country's
+  - ducks
+- - losing
+  - our
+  - bees
 - - such
   - vital
   - importance
-- - beyond
-  - our
-  - wit
-- - let
-  - us
-  - examine
+- - spiteful
+  - man
+  - already
 - - railway
   - timetabling
   - even
+- - beyond
+  - our
+  - wit
 - - boys
   - comic
   - did
+- - let
+  - us
+  - examine
 - - these
   - aquatic
   - birds
-- - bees
-  - let
-  - us
 - - pebbles
   - let
   - us
@@ -179,6 +176,9 @@ ngrams:
 - - asking
   - such
   - questions
+- - bees
+  - let
+  - us
 - - keep
   - our
   - ducks
@@ -191,24 +191,33 @@ ngrams:
 - - much
   - every
   - area
-- - our
-  - bees
-  - let
 - - pretty
   - much
   - every
-- - land
-  - where
-  - blodgett
 - - stick
   - could
   - aspire
 - - than
   - five
   - different
+- - our
+  - bees
+  - let
+- - land
+  - where
+  - blodgett
 - - pond
   - rather
   - than
+- - course
+  - such
+  - methods
+- - methods
+  - may
+  - make
+- - us
+  - make
+  - sure
 - - some
   - thorough
   - research
@@ -218,15 +227,6 @@ ngrams:
 - - nautical
   - knots
   - has
-- - us
-  - make
-  - sure
-- - course
-  - such
-  - methods
-- - methods
-  - may
-  - make
 - - let
   - us
   - make
@@ -236,84 +236,75 @@ ngrams:
 - - some
   - hard
   - questions
-- - ask
-  - some
-  - hard
 - - may
   - make
   - sense
-- - blodgett
-  - has
-  - tried
-- - tie
-  - their
-  - shoelaces
 - - far
   - more
   - damaging
-- - has
-  - always
-  - insisted
+- - ask
+  - some
+  - hard
+- - tie
+  - their
+  - shoelaces
+- - blodgett
+  - has
+  - tried
 - - such
   - methods
   - may
 - - could
   - slice
   - through
+- - has
+  - always
+  - insisted
 - - grasping
   - exactly
   - what
-- - memories
-  - were
-  - filtered
 - - much
   - time
   - learning
 - - rather
   - than
   - say
-- - blodgett
-  - himself
-  - has
+- - can
+  - safely
+  - say
 - - learning
   - about
   - ducks
 - - exactly
   - what
   - goes
-- - can
-  - safely
-  - say
-- - childhood
-  - memories
+- - memories
   - were
+  - filtered
 - - ever
   - did
   - read
-- - thorough
-  - research
-  - into
 - - timetabling
   - even
   - then
+- - childhood
+  - memories
+  - were
 - - mere
   - tot
   - when
+- - thorough
+  - research
+  - into
+- - blodgett
+  - himself
+  - has
 - - carry
   - out
   - acts
 - - duck
   - what
   - sort
-- - blodgett
-  - fall
-  - into
-- - himself
-  - has
-  - always
-- - research
-  - into
-  - blodgett
 - - potentate
   - make
   - 'no'
@@ -323,42 +314,51 @@ ngrams:
 - - ask
   - what
   - sort
-- - named
-  - after
-  - him
 - - make
   - 'no'
   - mistake
+- - blodgett
+  - fall
+  - into
+- - research
+  - into
+  - blodgett
+- - himself
+  - has
+  - always
 - - way
   - far
   - more
-- - they
-  - dangerously
-  - large
+- - named
+  - after
+  - him
 - - pedagogy
   - would
   - teach
-- - idiosyncratic
-  - approach
-  - we
 - - would
   - teach
   - infants
 - - glubb
   - if
   - indeed
+- - idiosyncratic
+  - approach
+  - we
+- - they
+  - dangerously
+  - large
 - - questions
   - we
   - begin
 - - 'no'
   - fewer
   - than
+- - detail
+  - we
+  - need
 - - were
   - filtered
   - through
-- - tinies
-  - are
-  - taught
 story:
   date: 2008-07-02
   id: 2008-07-02-abominable-sulphurous-n-futile-a-footnote

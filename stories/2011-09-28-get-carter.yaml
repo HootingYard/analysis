@@ -20,21 +20,21 @@ ngrams:
 - - thirst
   - towards
   - noon
-- - big
-  - burly
-  - types
-- - whispered
-  - incantation
-  - sure
-- - intricate
-  - hand
-  - movements
-- - carter
-  - weedy
-  - enough
 - - several
   - weedy
   - specimens
+- - whispered
+  - incantation
+  - sure
+- - big
+  - burly
+  - types
+- - carter
+  - weedy
+  - enough
+- - intricate
+  - hand
+  - movements
 - - dog
   - cowered
   - behind
@@ -53,15 +53,15 @@ ngrams:
 - - creaky
   - old
   - cart
+- - indeed
+  - several
+  - weedy
 - - old
   - cart
   - piled
 - - land
   - without
   - horses
-- - indeed
-  - several
-  - weedy
 - - cctv
   - footage
   - back
@@ -83,12 +83,12 @@ ngrams:
 - - scuttled
   - back
   - behind
-- - squirrels
-  - even
-  - geese
 - - cats
   - squirrels
   - even
+- - squirrels
+  - even
+  - geese
 - - didn't
   - look
   - much
@@ -104,12 +104,12 @@ ngrams:
 - - several
   - other
   - choice
-- - other
-  - choice
-  - words
 - - show
   - enthusiasm
   - can
+- - other
+  - choice
+  - words
 - - burly
   - types
   - who
@@ -131,60 +131,60 @@ ngrams:
 - - wait
   - quite
   - some
-- - let
-  - him
-  - pass
 - - soon
   - lapped
   - up
+- - let
+  - him
+  - pass
 - - turned
   - up
   - bright
 - - their
   - carts
   - along
-- - look
-  - much
-  - like
 - - springing
   - leaping
   - out
 - - makeshift
   - cart
   - out
-- - took
-  - quite
-  - some
+- - look
+  - much
+  - like
 - - faffing
   - about
   - behind
-- - were
-  - big
-  - burly
-- - blood
-  - when
-  - getting
+- - took
+  - quite
+  - some
 - - more
   - difficult
   - than
+- - blood
+  - when
+  - getting
+- - were
+  - big
+  - burly
 - - later
   - when
   - reviewing
 - - set
   - about
   - training
-- - found
-  - faffing
-  - about
 - - swat
   - me
   - aside
-- - their
-  - cart
-  - 'off'
+- - found
+  - faffing
+  - about
 - - would
   - attract
   - remark
+- - their
+  - cart
+  - 'off'
 - - learned
   - later
   - when
@@ -194,18 +194,15 @@ ngrams:
 - - towards
   - noon
   - there
+- - burly
+  - type
+  - so
 - - new
   - instruction
   - will
 - - got
   - him
   - other
-- - burly
-  - type
-  - so
-- - idea
-  - which
-  - carter
 - - would
   - go
   - unremarked
@@ -215,18 +212,21 @@ ngrams:
 - - quite
   - some
   - time
+- - idea
+  - which
+  - carter
 - - an
   - additional
   - quandary
 - - an
   - alarming
   - manner
-- - keep
-  - an
-  - eye
 - - instruction
   - will
   - do
+- - keep
+  - an
+  - eye
 - - him
   - other
   - than
@@ -236,30 +236,39 @@ ngrams:
 - - dog
   - this
   - dog
-- - go
-  - unremarked
-  - this
-- - startled
-  - pulled
-  - from
 - - horse
   - or
   - donkey
-- - who
-  - would
-  - swat
-- - this
-  - took
-  - quite
+- - go
+  - unremarked
+  - this
 - - lupins
   - or
   - better
-- - 'no'
-  - bring
-  - me
+- - who
+  - would
+  - swat
+- - or
+  - indeed
+  - pack
+- - startled
+  - pulled
+  - from
 - - types
   - who
   - would
+- - this
+  - took
+  - quite
+- - horses
+  - or
+  - indeed
+- - 'no'
+  - bring
+  - me
+- - without
+  - horses
+  - or
 - - leaping
   - out
   - into
@@ -269,63 +278,54 @@ ngrams:
 - - barely
   - glanced
   - at
-- - or
-  - indeed
-  - pack
-- - be
-  - turnips
-  - fortunate
-- - without
-  - horses
-  - or
-- - horses
-  - or
-  - indeed
 - - carter
   - again
   - but
-- - dog
-  - gazed
-  - at
+- - be
+  - turnips
+  - fortunate
 - - dared
   - not
   - spring
 - - cart
   - not
   - hide
-- - accompanied
-  - by
-  - intricate
+- - dog
+  - gazed
+  - at
 - - one
   - more
   - chance
-- - arm
-  - accompanied
+- - accompanied
   - by
+  - intricate
 - - an
   - empty
   - can
-- - me
-  - adoringly
-  - all
-- - 'no'
-  - idea
-  - which
 - - not
   - best
   - pleased
-- - by
-  - intricate
-  - hand
+- - arm
+  - accompanied
+  - by
+- - me
+  - adoringly
+  - all
 - - would
   - swat
   - me
+- - 'no'
+  - idea
+  - which
+- - by
+  - intricate
+  - hand
 - - footage
   - back
   - at
-- - at
-  - last
-  - along
+- - have
+  - overpowered
+  - even
 story:
   date: 2011-09-28
   id: 2011-09-28-get-carter

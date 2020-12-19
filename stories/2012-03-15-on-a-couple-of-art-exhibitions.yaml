@@ -2,42 +2,45 @@ ngrams:
 - - exquisitely
   - rendered
   - vanbrugh
-- - goon
-  - fang
-  - master's
 - - emblem
   - relatively
   - quickly
+- - goon
+  - fang
+  - master's
+- - vanbrugh
+  - chicken
+  - feather
 - - capitalist
   - faff
   - twaddle
+- - rendered
+  - vanbrugh
+  - chicken
 - - mystic
   - oriental
   - discipline
 - - vanbrugh
   - chicken
-  - feather
+  - exhibition
+- - vanbrugh
+  - chicken
+  - paintings
+- - vanbrugh
+  - chicken
+  - paintings
+- - vanbrugh
+  - chicken
+  - paintings
+- - vanbrugh
+  - chicken
+  - paintings
 - - goon
   - fang
   - technique
-- - rendered
-  - vanbrugh
-  - chicken
-- - vanbrugh
-  - chicken
-  - paintings
-- - vanbrugh
-  - chicken
-  - paintings
-- - vanbrugh
-  - chicken
-  - paintings
-- - vanbrugh
-  - chicken
-  - paintings
-- - vanbrugh
-  - chicken
-  - exhibition
+- - dashing
+  - cravat
+  - level
 - - goon
   - fang
   - master
@@ -50,45 +53,42 @@ ngrams:
 - - seek
   - ultimate
   - meaning
-- - dashing
-  - cravat
-  - level
 - - dozen
   - vanbrugh
   - chicken
+- - late
+  - capitalist
+  - faff
 - - red
   - crop
   - pictured
 - - hopelessly
   - naive
   - thursday
-- - late
-  - capitalist
-  - faff
 - - nanoseconds
   - spent
   - gawping
 - - trusty
   - propelling
   - pencil
-- - flat
-  - albino
-  - beings
 - - current
   - art
   - exhibitions
+- - flat
+  - albino
+  - beings
 - - absolutely
   - fantastic
   - display
 - - blind
   - flat
   - albino
-- - hours
-  - closely
-  - scanning
 - - weird
   - blind
   - flat
+- - hours
+  - closely
+  - scanning
 - - cultural
   - critic
   - whose
@@ -98,39 +98,39 @@ ngrams:
 - - sea
   - creature
   - analogy
-- - three
-  - dozen
-  - vanbrugh
 - - chicken
   - paintings
   - went
 - - tiny
   - talismanic
   - emblem
+- - three
+  - dozen
+  - vanbrugh
 - - fang
   - almost
   - everything
 - - several
   - nanoseconds
   - spent
-- - cravat
-  - tighter
-  - around
 - - sea
   - bed
   - demersal
+- - cravat
+  - tighter
+  - around
 - - implies
   - learning
   - something
+- - bed
+  - demersal
+  - rather
 - - naive
   - thursday
   - came
 - - talismanic
   - emblem
   - find
-- - bed
-  - demersal
-  - rather
 - - means
   - describe
   - myself
@@ -155,24 +155,24 @@ ngrams:
 - - road
   - another
   - art
+- - gallery
+  - how
+  - naive
 - - critic
   - whose
   - name
 - - visited
   - two
   - current
-- - gallery
-  - how
-  - naive
-- - two
-  - current
-  - art
 - - those
   - inverted
   - commas
 - - back
   - waiting
   - impatiently
+- - two
+  - current
+  - art
 - - those
   - hidden
   - emblems
@@ -194,6 +194,12 @@ ngrams:
 - - over
   - three
   - dozen
+- - demersal
+  - rather
+  - than
+- - rather
+  - than
+  - demersal
 - - first
   - exhibition
   - while
@@ -203,12 +209,6 @@ ngrams:
 - - pranced
   - towards
   - its
-- - demersal
-  - rather
-  - than
-- - rather
-  - than
-  - demersal
 - - than
   - meaningless
   - until
@@ -218,30 +218,30 @@ ngrams:
 - - head
   - grows
   - ever
-- - cannot
-  - recall
-  - other
 - - could
   - actually
   - feel
+- - cannot
+  - recall
+  - other
 - - those
   - last
   - three
 - - could
   - get
   - hold
-- - until
-  - those
-  - last
-- - been
-  - floating
-  - upwards
 - - far
   - too
   - much
+- - until
+  - those
+  - last
 - - 'no'
   - means
   - describe
+- - been
+  - floating
+  - upwards
 - - apparently
   - been
   - erected
@@ -251,132 +251,135 @@ ngrams:
 - - been
   - erected
   - outside
-- - emblem
-  - find
-  - them
 - - them
   - quite
   - huge
-- - added
+- - emblem
   - find
   - them
 - - compare
   - them
   - well
-- - propelling
-  - pencil
-  - were
-- - emblem
-  - turns
-  - out
 - - fang
   - master
   - if
-- - pencil
-  - were
-  - worse
+- - added
+  - find
+  - them
+- - emblem
+  - turns
+  - out
 - - say
   - nothing
   - more
+- - propelling
+  - pencil
+  - were
 - - recall
   - other
   - than
+- - pencil
+  - were
+  - worse
 - - emptying
   - itself
   - out
-- - hitting
-  - me
-  - repeatedly
-- - might
-  - teach
-  - him
 - - can
   - say
   - nothing
-- - three
-  - were
-  - added
+- - might
+  - teach
+  - him
+- - hitting
+  - me
+  - repeatedly
 - - chicken
   - paintings
   - they
-- - all
-  - looked
-  - remarkably
 - - nothing
   - more
   - than
+- - three
+  - were
+  - added
+- - all
+  - looked
+  - remarkably
 - - brain
   - empty
   - out
-- - were
-  - added
-  - find
 - - spent
   - more
   - time
-- - those
-  - people
-  - who
-- - interventions
-  - which
-  - aim
-- - occupy
-  - tent
-  - which
-- - could
-  - correlate
-  - them
+- - were
+  - added
+  - find
 - - cravat
   - level
   - so
-- - people
-  - who
-  - know
 - - level
   - so
   - low
-- - last
-  - three
-  - were
+- - could
+  - correlate
+  - them
+- - those
+  - people
+  - who
 - - bed
   - so
   - rapidly
+- - interventions
+  - which
+  - aim
 - - while
   - hitting
   - me
+- - people
+  - who
+  - know
+- - occupy
+  - tent
+  - which
 - - went
   - against
   - all
-- - been
-  - taken
-  - down
 - - turns
   - out
   - after
+- - last
+  - three
+  - were
 - - their
   - contents
   - could
-- - installation
-  - made
-  - me
-- - were
-  - worse
-  - than
-- - all
-  - those
-  - inverted
 - - am
   - signed
   - up
+- - been
+  - taken
+  - down
+- - were
+  - worse
+  - than
+- - installation
+  - made
+  - me
+- - sea
+  - bed
+  - so
+- - all
+  - those
+  - inverted
 - - finding
   - all
   - those
-- - an
-  - exquisitely
-  - rendered
 - - deploy
   - an
   - analogy
+- - an
+  - exquisitely
+  - rendered
 - - all
   - those
   - hidden
@@ -386,12 +389,9 @@ ngrams:
 - - an
   - occupy
   - tent
-- - sea
-  - bed
-  - so
 - - an
-  - abandoned
-  - mitten
+  - exasperated
+  - manner
 story:
   date: 2012-03-15
   id: 2012-03-15-on-a-couple-of-art-exhibitions

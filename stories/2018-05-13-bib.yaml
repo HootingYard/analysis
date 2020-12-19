@@ -5,21 +5,21 @@ ngrams:
 - - tough
   - swiss
   - soldiers
+- - swiss
+  - subterranean
+  - cell
 - - rough
   - tough
   - swiss
 - - swiss
-  - subterranean
-  - cell
-- - swiss
   - soldier
   - standing
-- - six
-  - swiss
-  - soldiers
 - - cold
   - swiss
   - subterranean
+- - six
+  - swiss
+  - soldiers
 - - swiss
   - dungeon
   - under
@@ -47,12 +47,12 @@ ngrams:
 - - charge
   - screaming
   - down
-- - village
-  - our
-  - orders
 - - dozens
   - even
   - hundreds
+- - village
+  - our
+  - orders
 - - swiss
   - village
   - our
@@ -74,21 +74,21 @@ ngrams:
 - - over
   - our
   - foe
-- - were
-  - rough
-  - tough
 - - swiss
   - execution
   - if
+- - were
+  - rough
+  - tough
 - - bib
   - pity
   - me
-- - relic
-  - came
-  - into
 - - prize
   - we
   - cleared
+- - relic
+  - came
+  - into
 - - pity
   - me
   - o
@@ -98,42 +98,42 @@ ngrams:
 - - we
   - laid
   - waste
-- - death
-  - pity
-  - me
 - - war
   - prize
   - we
+- - death
+  - pity
+  - me
 - - justly
   - dead
   - there
 - - pity
   - me
   - people
-- - me
-  - o
-  - people
 - - told
   - would
   - bring
-- - our
-  - orders
-  - were
-- - let
-  - me
-  - whether
+- - me
+  - o
+  - people
 - - waste
   - doing
   - so
+- - let
+  - me
+  - whether
+- - our
+  - orders
+  - were
 - - would
   - bring
   - us
-- - this
-  - sacred
-  - relic
 - - one
   - step
   - closer
+- - this
+  - sacred
+  - relic
 story:
   date: 2018-05-13
   id: 2018-05-13-bib

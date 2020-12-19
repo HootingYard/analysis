@@ -5,81 +5,81 @@ ngrams:
 - - bitumen
   - asphalt
   - mineral
-- - carbolic
-  - acid
-  - poisoning
 - - valuable
   - stimulating
   - dressing
-- - northern
-  - russia
-  - finland
+- - carbolic
+  - acid
+  - poisoning
 - - longing
   - seeking
   - striving
+- - beeswax
+  - externally
+  - tar
 - - asphalt
   - mineral
   - pitch
 - - scaly
   - skin
   - diseases
-- - beeswax
-  - externally
-  - tar
-- - bags
-  - willy
-  - nilly
+- - northern
+  - russia
+  - finland
 - - south
   - carolina
   - georgia
+- - bags
+  - willy
+  - nilly
 - - striving
   - waiting
   - yearning
 - - yellow
   - beeswax
   - externally
-- - eczema
-  - internally
-  - wood
 - - complex
   - material
   - varying
-- - acid
-  - acetone
+- - eczema
+  - internally
   - wood
 - - seeking
   - striving
   - waiting
+- - acid
+  - acetone
+  - wood
 - - material
   - chiefly
   - employed
 - - urine
   - symptoms
   - similar
-- - highly
-  - complex
-  - material
 - - internally
   - wood
   - tar
-- - dark
-  - urine
-  - symptoms
+- - highly
+  - complex
+  - material
 - - pier
   - ah
   - sweet
-- - acetone
-  - wood
-  - spirit
 - - usual
   - tar
   - occupied
+- - dark
+  - urine
+  - symptoms
 - - tar
   - wood
   - tar
 - - tar
   - wood
   - tar
+- - acetone
+  - wood
+  - spirit
 - - ah
   - sweet
   - mystery
@@ -89,21 +89,21 @@ ngrams:
 - - wood
   - tar
   - wood
-- - products
-  - including
-  - gas
-- - including
-  - gas
-  - tar
 - - distilled
   - different
   - products
-- - different
-  - products
-  - moreover
+- - products
+  - including
+  - gas
 - - anywhere
   - really
   - save
+- - different
+  - products
+  - moreover
+- - including
+  - gas
+  - tar
 - - paper
   - bags
   - willy
@@ -119,12 +119,12 @@ ngrams:
 - - usual
   - thinking
   - hard
-- - wood
-  - tar
-  - known
 - - given
   - internally
   - tar
+- - wood
+  - tar
+  - known
 - - fresh
   - paper
   - bag
@@ -137,12 +137,12 @@ ngrams:
 - - found
   - thee
   - ah
-- - two
-  - principal
-  - classes
 - - tar
   - known
   - also
+- - two
+  - principal
+  - classes
 - - purposes
   - these
   - tars
@@ -170,6 +170,9 @@ ngrams:
 - - recent
   - new
   - paper
+- - skin
+  - diseases
+  - such
 - - last
   - i've
   - found
@@ -179,9 +182,6 @@ ngrams:
 - - new
   - paper
   - bag
-- - skin
-  - diseases
-  - such
 - - went
   - straight
   - back
@@ -209,15 +209,15 @@ ngrams:
 - - envisioned
   - some
   - sort
+- - greengrocer
+  - when
+  - applying
 - - been
   - anywhere
   - really
 - - straight
   - back
   - then
-- - greengrocer
-  - when
-  - applying
 - - about
   - wood
   - tar
@@ -230,12 +230,12 @@ ngrams:
 - - hard
   - about
   - tar
-- - hard
-  - about
-  - wood
 - - more
   - glorious
   - than
+- - hard
+  - about
+  - wood
 - - thinking
   - hard
   - about
@@ -254,24 +254,24 @@ ngrams:
 - - thought
   - hard
   - about
-- - never
-  - been
-  - anywhere
-- - important
-  - river
-  - all
 - - give
   - out
   - paper
-- - tars
-  - are
-  - intimately
+- - important
+  - river
+  - all
+- - never
+  - been
+  - anywhere
 - - about
   - tar
   - much
 - - being
   - stirred
   - into
+- - tars
+  - are
+  - intimately
 - - are
   - intimately
   - related
@@ -287,21 +287,21 @@ ngrams:
 - - keeping
   - an
   - eye
-- - are
-  - two
-  - principal
 - - these
   - tars
   - are
+- - are
+  - two
+  - principal
 - - day
   - out
   - until
-- - care
-  - much
-  - which
 - - tar
   - water
   - one
+- - care
+  - much
+  - which
 story:
   date: 2013-04-30
   id: 2013-04-30-tar

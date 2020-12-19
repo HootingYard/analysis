@@ -14,10 +14,10 @@ ngrams:
 - - involved
   - pirates
   - cutlasses
-- - ono
+- - dismissed
   - postal
   - delivery
-- - dismissed
+- - ono
   - postal
   - delivery
 - - stopped
@@ -29,48 +29,51 @@ ngrams:
 - - city
   - attracted
   - wayfarers
-- - yellow
-  - skin
-  - scarcely
 - - singing
   - loud
   - tuneless
+- - yellow
+  - skin
+  - scarcely
 - - skin
   - scarcely
   - covered
 - - shining
   - city
   - attracted
+- - postal
+  - delivery
+  - persons
 - - bolivian
   - military
   - boots
 - - garden
   - drilling
   - holes
-- - postal
-  - delivery
-  - persons
-- - shipwreck
-  - invariably
-  - dobson's
 - - face
   - summary
   - dismissal
 - - double
   - street
   - names
-- - chew
-  - stopped
-  - drilling
+- - shipwreck
+  - invariably
+  - dobson's
 - - pamphlet
   - resoundingly
   - titled
+- - chew
+  - stopped
+  - drilling
 - - curiously
   - pristine
   - pamphlet
 - - nearest
   - pig
   - sty
+- - tuneless
+  - sea
+  - shanties
 - - postal
   - delivery
   - person
@@ -80,36 +83,33 @@ ngrams:
 - - whose
   - yellow
   - skin
-- - tuneless
-  - sea
-  - shanties
-- - visited
-  - marigold
-  - chew
-- - straight
-  - black
-  - lips
-- - room
-  - singing
-  - loud
-- - delivery
-  - person
-  - stopped
 - - loud
   - tuneless
   - sea
+- - delivery
+  - person
+  - stopped
+- - straight
+  - black
+  - lips
+- - print
+  - pamphleteer
+  - bestrode
+- - room
+  - singing
+  - loud
+- - sea
+  - shanties
+  - ones
+- - visited
+  - marigold
+  - chew
 - - figure
   - whose
   - yellow
 - - marigold
   - chew
   - stopped
-- - print
-  - pamphleteer
-  - bestrode
-- - sea
-  - shanties
-  - ones
 - - resoundingly
   - titled
   - why
@@ -137,63 +137,63 @@ ngrams:
 - - back
   - garden
   - drilling
-- - touching
-  - looking
-  - back
-- - wraiths
-  - dobson
-  - turned
 - - say
   - hell
   - either
 - - hell
   - either
   - way
-- - life
-  - usually
-  - took
+- - touching
+  - looking
+  - back
 - - lacking
   - any
   - variation
-- - dobson
-  - indeed
-  - bestride
-- - dotage
+- - life
+  - usually
+  - took
+- - wraiths
   - dobson
-  - found
-- - her
-  - protective
-  - goggles
+  - turned
 - - failed
   - often
   - those
-- - come
-  - whenever
-  - two
-- - removed
-  - her
-  - protective
+- - dobson
+  - indeed
+  - bestride
 - - let
   - us
   - clear
-- - th
-  - century
-  - did
+- - come
+  - whenever
+  - two
 - - more
   - horrid
   - contrast
-- - she
-  - flung
-  - open
+- - dotage
+  - dobson
+  - found
 - - th
   - century
-  - like
-- - dobson
-  - turned
-  - around
+  - did
+- - her
+  - protective
+  - goggles
+- - removed
+  - her
+  - protective
 - - home
   - let
   - us
+- - th
+  - century
+  - like
+- - she
+  - flung
+  - open
+- - dobson
+  - turned
+  - around
 - - foolish
   - old
   - man
@@ -206,66 +206,66 @@ ngrams:
 - - lips
   - dobson
   - such
-- - dotage
-  - dobson
-  - she
 - - century
   - did
   - dobson
 - - usually
   - took
   - him
-- - chew
-  - found
-  - him
-- - illusory
-  - some
-  - say
-- - did
-  - dobson
-  - indeed
 - - summary
   - dismissal
   - if
+- - dotage
+  - dobson
+  - she
+- - illusory
+  - some
+  - say
+- - chew
+  - found
+  - him
 - - some
   - say
   - hell
 - - city
   - were
   - required
+- - did
+  - dobson
+  - indeed
 - - found
   - him
   - thus
-- - old
-  - man
-  - said
 - - city
   - go
   - 'no'
+- - old
+  - man
+  - said
 - - when
   - marigold
   - chew
 - - discuss
   - pamphleteers
   - there
-- - their
-  - lips
-  - dobson
 - - others
   - escape
   - me
 - - go
   - 'no'
   - further
-- - your
-  - dotage
-  - dobson
 - - end
   - when
   - marigold
-- - she
-  - said
-  - though
+- - curious
+  - work
+  - out
+- - their
+  - lips
+  - dobson
+- - 'no'
+  - further
+  - old
 story:
   date: 2006-02-27
   id: 2006-02-27-colossus

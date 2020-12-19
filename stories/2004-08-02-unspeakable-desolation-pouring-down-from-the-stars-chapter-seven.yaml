@@ -14,30 +14,30 @@ ngrams:
 - - bay
   - woe
   - woe
-- - unspeakable
-  - desolation
-  - pouring
-- - unspeakable
-  - desolation
-  - poured
-- - numerous
-  - grey
-  - sacks
 - - rested
   - finding
   - shelter
+- - numerous
+  - grey
+  - sacks
+- - unspeakable
+  - desolation
+  - poured
 - - mere
   - narrow
   - slits
+- - unspeakable
+  - desolation
+  - pouring
 - - granite
   - wall
   - surrounding
-- - massive
-  - granite
-  - wall
 - - continue
   - striding
   - ahead
+- - massive
+  - granite
+  - wall
 - - grey
   - sacks
   - filled
@@ -53,9 +53,6 @@ ngrams:
 - - beetroot
   - field
   - swinging
-- - house
-  - plodding
-  - onward
 - - dead
   - headmaster
   - monsignor
@@ -65,12 +62,15 @@ ngrams:
 - - map
   - mentally
   - following
-- - stars
-  - chapter
-  - seven
+- - house
+  - plodding
+  - onward
 - - javelin
   - weed
   - past
+- - stars
+  - chapter
+  - seven
 - - distance
   - moving
   - towards
@@ -80,60 +80,60 @@ ngrams:
 - - amnesiac
   - lane
   - towards
-- - lane
-  - turning
-  - right
 - - sanctuary
   - along
   - blister
-- - shutter
-  - three
-  - feet
 - - imagined
   - myself
   - marooned
 - - soaking
   - wet
   - sea
-- - pig
-  - farmer's
-  - house
-- - tiny
-  - mere
-  - narrow
-- - great
-  - heaving
-  - sobs
+- - lane
+  - turning
+  - right
 - - giant
   - steps
   - across
-- - haemoglobin
-  - towers
-  - until
 - - owl
   - sanctuary
   - along
+- - shutter
+  - three
+  - feet
+- - great
+  - heaving
+  - sobs
+- - tiny
+  - mere
+  - narrow
 - - wet
   - sea
   - curious
+- - pig
+  - farmer's
+  - house
 - - steps
   - across
   - fields
+- - haemoglobin
+  - towers
+  - until
+- - along
+  - blister
+  - lane
 - - world
   - remained
   - enwrapped
 - - carefully
   - until
   - sunset
-- - along
-  - blister
-  - lane
-- - great
-  - frightening
-  - river
 - - studied
   - carefully
   - until
+- - great
+  - frightening
+  - river
 - - hello
   - i've
   - come
@@ -143,87 +143,87 @@ ngrams:
 - - dawn
   - should
   - break
-- - three
-  - feet
-  - above
 - - pang
   - hill
   - until
 - - set
   - foot
   - outside
+- - three
+  - feet
+  - above
 - - ever
   - unspeakable
   - desolation
-- - own
-  - burial
-  - hours
-- - days
-  - none
-  - knew
 - - pig
   - farmer
   - set
 - - whisked
   - myself
   - along
-- - say
-  - hello
-  - i've
+- - own
+  - burial
+  - hours
+- - days
+  - none
+  - knew
 - - within
   - seconds
   - came
+- - say
+  - hello
+  - i've
 - - morning
   - came
   - consulting
 - - splashing
   - through
   - puddles
-- - towers
-  - until
-  - night
-- - until
-  - night
-  - crashing
 - - blooming
   - beetroot
   - before
-- - foot
-  - splashing
-  - through
+- - until
+  - night
+  - crashing
+- - towers
+  - until
+  - night
 - - beetroot
   - before
   - moving
+- - foot
+  - splashing
+  - through
+- - graveyard
+  - hopped
+  - over
+- - heavy
+  - burden
+  - said
 - - taken
   - three
   - days
 - - desolation
-  - pouring
-  - down
-- - graveyard
-  - hopped
-  - over
-- - desolation
   - poured
   - down
-- - little
-  - shutter
-  - three
-- - heavy
-  - burden
-  - said
-- - down
-  - amnesiac
-  - lane
+- - desolation
+  - pouring
+  - down
 - - such
   - inexplicable
   - phenomena
+- - little
+  - shutter
+  - three
 - - any
   - poor
   - sprig
 - - beetroot
   - fields
   - where
+- - down
+  - amnesiac
+  - lane
 - - now
   - alert
   - tingling
@@ -233,15 +233,15 @@ ngrams:
 - - must
   - say
   - hello
-- - over
-  - three
-  - fences
-- - hopped
-  - over
-  - three
 - - mysterious
   - village
   - where
+- - hopped
+  - over
+  - three
+- - over
+  - three
+  - fences
 - - through
   - puddles
   - until
@@ -260,15 +260,15 @@ ngrams:
 - - town
   - like
   - spangles
-- - 'off'
-  - down
-  - amnesiac
 - - suffocating
   - than
   - ever
 - - than
   - ever
   - unspeakable
+- - 'off'
+  - down
+  - amnesiac
 - - placing
   - them
   - carefully
@@ -278,87 +278,87 @@ ngrams:
 - - reach
   - some
   - sort
-- - looked
-  - something
-  - like
 - - spraying
   - their
   - snouts
 - - their
   - fur
   - matted
+- - night
+  - seemed
+  - more
 - - rank
   - their
   - fangs
 - - their
   - fangs
   - dripping
-- - night
-  - seemed
-  - more
 - - beasts
   - their
   - fur
 - - once
   - more
   - alone
+- - looked
+  - something
+  - like
 - - funicular
   - railway
   - up
-- - should
-  - reach
-  - some
-- - up
-  - pang
-  - hill
-- - stood
-  - up
-  - exhausted
 - - puzzling
   - over
   - such
 - - over
   - such
   - inexplicable
+- - stood
+  - up
+  - exhausted
+- - up
+  - pang
+  - hill
 - - instruction
   - manual
   - what
+- - should
+  - reach
+  - some
 - - time
   - being
   - squatting
-- - ground
-  - your
-  - satchel
-- - your
-  - sausage
-  - gave
-- - were
-  - lifted
-  - immensely
-- - state
-  - your
-  - business
-- - spirits
-  - were
-  - lifted
-- - packed
-  - were
-  - undisturbed
-- - feet
-  - above
-  - your
 - - legitimate
   - visitor
   - if
-- - carefully
-  - packed
+- - were
+  - lifted
+  - immensely
+- - your
+  - sausage
+  - gave
+- - ground
+  - your
+  - satchel
+- - spirits
   - were
-- - burst
-  - into
-  - tears
+  - lifted
 - - resolved
   - when
   - dawn
+- - packed
+  - were
+  - undisturbed
+- - state
+  - your
+  - business
+- - burst
+  - into
+  - tears
+- - more
+  - suffocating
+  - than
+- - carefully
+  - packed
+  - were
 - - conviction
   - will
   - gain
@@ -368,78 +368,78 @@ ngrams:
 - - years
   - before
   - how
-- - more
-  - suffocating
-  - than
+- - feet
+  - above
+  - your
 - - knew
   - everything
   - about
-- - mission
-  - impelled
-  - me
 - - more
   - than
   - half
+- - mission
+  - impelled
+  - me
 - - kiosk
   - when
   - morning
 - - gave
   - me
   - sustenance
+- - servants
+  - would
+  - issue
+- - i've
+  - come
+  - about
+- - eerie
+  - servants
+  - would
+- - sausage
+  - gave
+  - me
+- - spangles
+  - would
+  - surely
+- - mentioned
+  - something
+  - about
 - - were
   - tiny
   - mere
 - - few
   - were
   - warned
-- - i've
-  - come
-  - about
-- - sausage
-  - gave
-  - me
-- - mentioned
-  - something
-  - about
-- - when
-  - dawn
-  - should
-- - servants
-  - would
-  - issue
-- - moving
-  - towards
-  - me
-- - spangles
-  - would
-  - surely
-- - impelled
-  - me
-  - towards
-- - eerie
-  - servants
-  - would
 - - would
   - issue
   - forth
+- - when
+  - dawn
+  - should
+- - impelled
+  - me
+  - towards
+- - moving
+  - towards
+  - me
+- - when
+  - morning
+  - came
+- - so
+  - carefully
+  - packed
+- - so
+  - chapter
+  - eight
+- - read
+  - all
+  - petered
 - - heaving
   - sobs
   - which
 - - sobs
   - which
   - emptied
-- - read
-  - all
-  - petered
-- - when
-  - morning
-  - came
-- - so
-  - chapter
-  - eight
-- - so
-  - carefully
-  - packed
 - - above
   - your
   - head
@@ -449,54 +449,57 @@ ngrams:
 - - dandelions
   - are
   - blue
-- - now
-  - your
-  - satchel
-- - only
-  - fig
-  - were
-- - been
-  - just
-  - around
 - - visitor
   - if
   - only
 - - if
   - only
   - fig
+- - only
+  - fig
+  - were
 - - then
   - up
   - pang
-- - an
-  - uncanny
-  - glow
-- - an
-  - hour's
-  - walk
+- - now
+  - your
+  - satchel
+- - been
+  - just
+  - around
 - - apparition
   - before
   - me
 - - an
-  - abandoned
-  - quarry
-- - weighing
-  - me
-  - down
+  - uncanny
+  - glow
 - - its
   - locker
   - out
+- - an
+  - hour's
+  - walk
+- - weighing
+  - me
+  - down
 - - said
   - handing
   - me
+- - an
+  - abandoned
+  - quarry
+- - head
+  - straight
+  - there
 - - those
   - few
   - were
 - - half
   - an
   - hour's
-- - head
-  - straight
-  - there
+- - being
+  - so
+  - heavy
 - - some
   - speculation
   - about
@@ -506,15 +509,15 @@ ngrams:
 - - this
   - astonishingly
   - large
-- - being
-  - so
-  - heavy
-- - past
-  - an
-  - abandoned
 - - are
   - many
   - butterflies
+- - past
+  - an
+  - abandoned
+- - like
+  - spangles
+  - would
 - - had
   - bitten
   - mouthfuls
@@ -524,36 +527,33 @@ ngrams:
 - - agent
   - had
   - mentioned
-- - special
-  - agent
-  - had
-- - like
-  - spangles
-  - would
 - - owl
   - sanctuary
   - had
+- - special
+  - agent
+  - had
+- - mile
+  - stretch
+  - but
+- - waterlogged
+  - sand
+  - but
+- - 'no'
+  - more
+  - than
 - - sanctuary
   - had
   - taken
 - - its
   - hinterland
   - which
-- - mile
-  - stretch
-  - but
-- - 'no'
-  - more
-  - than
-- - waterlogged
-  - sand
+- - hut
+  - empty
   - but
 - - been
   - padded
   - out
-- - had
-  - few
-  - windows
 - - spectral
   - trousers
   - from

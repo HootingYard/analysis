@@ -5,21 +5,18 @@ ngrams:
 - - cork
   - panels
   - observed
-- - involving
-  - cork
-  - panels
 - - kroc
   - le
   - nap
 - - le
   - nap
   - kroc
+- - involving
+  - cork
+  - panels
 - - palindromic
   - adventure
   - involving
-- - adventure
-  - involving
-  - cork
 - - france
   - le
   - nap
@@ -29,6 +26,9 @@ ngrams:
 - - hooter
   - control
   - console
+- - adventure
+  - involving
+  - cork
 - - tulip
   - bulbs
   - forgotten
@@ -38,15 +38,15 @@ ngrams:
 - - cockney
   - street
   - urchin
-- - hooter
-  - control
-  - hut
 - - impending
   - calamity
   - whatever
 - - milk
   - alright
   - alright
+- - hooter
+  - control
+  - hut
 - - fu
   - manchu
   - books
@@ -71,57 +71,57 @@ ngrams:
 - - palindromic
   - chums
   - went
-- - hut
-  - door
-  - slammed
 - - door
   - slammed
   - shut
+- - hut
+  - door
+  - slammed
 - - distant
   - planet
   - become
+- - rather
+  - yar
+  - ray
+- - quite
+  - happily
+  - slump
 - - become
   - human
   - flowerpots
 - - revolving
   - around
   - kroc
-- - rather
-  - yar
-  - ray
 - - adventure
   - revolving
   - around
-- - quite
-  - happily
-  - slump
-- - planet
-  - become
-  - human
-- - something
-  - agreed
-  - agreed
 - - palindromic
   - excitements
   - though
-- - already
-  - fled
-  - thus
 - - ray
   - kroc
   - though
-- - street
-  - urchin
-  - perhaps
-- - around
-  - kroc
-  - taking
 - - chain
   - smoker
   - though
+- - planet
+  - become
+  - human
+- - already
+  - fled
+  - thus
+- - something
+  - agreed
+  - agreed
+- - street
+  - urchin
+  - perhaps
 - - wilt
   - too
   - fatally
+- - around
+  - kroc
+  - taking
 - - nap
   - kroc
   - too
@@ -140,12 +140,15 @@ ngrams:
 - - plan
   - next
   - week
-- - fend
-  - 'off'
-  - questions
+- - tulips
+  - might
+  - wilt
 - - those
   - normal
   - tulips
+- - fend
+  - 'off'
+  - questions
 - - our
   - tulips
   - wilt
@@ -155,9 +158,6 @@ ngrams:
 - - flung
   - themselves
   - back
-- - tulips
-  - might
-  - wilt
 - - liked
   - pluto
   - said
@@ -167,12 +167,12 @@ ngrams:
 - - trapped
   - now
   - there's
-- - our
-  - escape
-  - asked
 - - hut
   - 'yes'
   - said
+- - our
+  - escape
+  - asked
 - - any
   - case
   - provide
@@ -185,36 +185,36 @@ ngrams:
 - - don't
   - know
   - yet
-- - who
-  - started
-  - mcdonald's
 - - could
   - quite
   - happily
+- - who
+  - started
+  - mcdonald's
 - - cut
   - them
   - interviewed
 - - 'no'
   - palindromic
   - excitements
-- - provide
-  - 'no'
-  - palindromic
 - - feared
   - their
   - tulips
-- - terrible
-  - cataclysm
+- - provide
   - 'no'
-- - cataclysm
-  - 'no'
-  - wonder
-- - well
-  - then
-  - mused
+  - palindromic
 - - behemoth
   - well
   - then
+- - well
+  - then
+  - mused
+- - cataclysm
+  - 'no'
+  - wonder
+- - terrible
+  - cataclysm
+  - 'no'
 - - ate
   - them
   - soon
@@ -224,132 +224,132 @@ ngrams:
 - - their
   - burlap
   - bag
-- - hooters
-  - now
-  - said
 - - asked
   - their
   - replies
+- - hooters
+  - now
+  - said
 - - up
   - somewhere
   - else
-- - hooters
-  - were
-  - blaring
-- - alright
-  - keep
-  - your
-- - were
-  - mightily
-  - disconcerted
-- - replies
-  - were
-  - drowned
-- - case
-  - provide
-  - 'no'
 - - them
   - soon
   - enough
+- - case
+  - provide
+  - 'no'
+- - hooters
+  - were
+  - blaring
 - - into
   - today's
   - behemoth
-- - equally
-  - agreeable
-  - were
-- - press
-  - hounds
-  - when
+- - were
+  - mightily
+  - disconcerted
 - - penny
   - dropped
   - if
+- - replies
+  - were
+  - drowned
+- - alright
+  - keep
+  - your
+- - press
+  - hounds
+  - when
+- - equally
+  - agreeable
+  - were
 - - flung
   - themselves
   - into
+- - what
+  - possible
+  - kind
 - - keep
   - your
   - hair
 - - know
   - yet
   - said
-- - man
-  - who
-  - manned
-- - what
-  - possible
-  - kind
-- - man
-  - who
-  - started
 - - armchairs
   - they
   - copied
+- - man
+  - who
+  - manned
+- - cork
+  - panels
+  - there
 - - cafeteria
   - they
   - ate
+- - man
+  - who
+  - started
 - - control
   - hut
   - they
-- - cork
-  - panels
+- - their
+  - tulips
+  - might
+- - peek
+  - outside
   - there
 - - human
   - flowerpots
   - they
-- - peek
-  - outside
-  - there
-- - their
-  - tulips
-  - might
-- - look
-  - they
-  - liked
+- - imminent
+  - calamity
+  - so
 - - fled
   - thus
   - they
 - - will
   - wilt
   - too
-- - imminent
-  - calamity
-  - so
+- - gone
+  - there
+  - instead
+- - look
+  - they
+  - liked
 - - 'off'
   - questions
   - about
 - - adventure
   - they
   - took
-- - gone
-  - there
-  - instead
-- - soon
-  - enough
-  - they
 - - bag
   - so
   - peckish
 - - burlap
   - bag
   - so
-- - themselves
-  - back
-  - into
+- - soon
+  - enough
+  - they
 - - so
   - sealed
   - asked
+- - themselves
+  - back
+  - into
 - - discovered
   - they
   - still
 - - will
   - our
   - tulips
-- - adventure
-  - after
-  - all
 - - went
   - back
   - into
+- - adventure
+  - after
+  - all
 - - they
   - landed
   - back
@@ -359,18 +359,18 @@ ngrams:
 - - their
   - way
   - back
-- - they
-  - ever
-  - got
 - - cork
   - panels
   - one
+- - we
+  - might
+  - embark
+- - they
+  - ever
+  - got
 - - panels
   - one
   - wonders
-- - copied
-  - this
-  - flinging
 story:
   date: 2012-09-29
   id: 2012-09-29-on-gew-and-weg

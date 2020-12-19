@@ -2,12 +2,12 @@ ngrams:
 - - indian
   - atlantic
   - pacific
-- - stunted
-  - hollyhocks
-  - drooped
 - - firm
   - handshake
   - intimidatingly
+- - stunted
+  - hollyhocks
+  - drooped
 - - oceans
   - indian
   - atlantic
@@ -32,24 +32,24 @@ ngrams:
 - - tyrolean
   - postman's
   - boots
-- - ninnies
-  - shaking
-  - hands
-- - looked
-  - natural
-  - organic
-- - other's
-  - bones
-  - neither
 - - one's
   - footwear
   - neither
-- - hollyhocks
-  - looked
+- - ninnies
+  - shaking
+  - hands
+- - other's
+  - bones
+  - neither
+- - looked
   - natural
+  - organic
 - - stunted
   - hollyhocks
   - behind
+- - hollyhocks
+  - looked
+  - natural
 - - different
   - tongues
   - mine
@@ -59,21 +59,21 @@ ngrams:
 - - pay
   - due
   - attention
-- - crushing
-  - each
-  - other's
 - - quite
   - expensive
   - shoes
 - - goes
   - along
   - beside
-- - each
+- - crushing
+  - each
   - other's
-  - bones
 - - expensive
   - shoes
   - though
+- - each
+  - other's
+  - bones
 - - us
   - claim
   - victory
@@ -89,36 +89,36 @@ ngrams:
 - - adjusted
   - our
   - footing
-- - confrontation
-  - our
-  - seconds
 - - feeding
   - 'off'
   - itself
+- - confrontation
+  - our
+  - seconds
 - - cover
   - our
   - confrontation
 - - our
   - awe
   - grew
+- - boiled
+  - sweet
+  - even
 - - long
   - long
   - handshake
 - - bore
   - us
   - home
-- - boiled
-  - sweet
-  - even
 - - our
   - seconds
   - appeared
-- - like
-  - beau
-  - brummell
 - - its
   - twisted
   - cellophane
+- - like
+  - beau
+  - brummell
 - - both
   - adjusted
   - our
@@ -134,12 +134,12 @@ ngrams:
 - - our
   - confrontation
   - our
-- - did
-  - our
-  - antagonism
 - - day
   - before
   - yesterday
+- - did
+  - our
+  - antagonism
 - - time
   - next
   - week
@@ -152,27 +152,27 @@ ngrams:
 - - know
   - how
   - many
-- - were
-  - quite
-  - expensive
 - - increasing
   - exponentially
   - we
+- - were
+  - quite
+  - expensive
+- - antagonism
+  - would
+  - either
 - - were
   - too
   - awestruck
 - - were
   - yesterday
   - though
-- - antagonism
-  - would
-  - either
-- - were
-  - still
-  - wet
 - - handshake
   - intimidatingly
   - so
+- - were
+  - still
+  - wet
 - - awe
   - grew
   - so
@@ -182,90 +182,90 @@ ngrams:
 - - point
   - we
   - spoke
-- - been
-  - pollarded
-  - like
 - - why
   - we
   - stood
 - - sweet
   - even
   - if
+- - been
+  - pollarded
+  - like
+- - never
+  - fought
+  - there
 - - exponentially
   - we
   - made
 - - our
   - footing
   - me
-- - never
-  - fought
-  - there
 - - our
   - antagonism
   - would
-- - little
-  - we
-  - both
 - - am
   - 'no'
   - great
+- - little
+  - we
+  - both
 - - distance
   - we
   - could
-- - grew
-  - so
-  - did
-- - hours
-  - had
-  - passed
-- - we
-  - could
-  - hear
 - - natural
   - organic
   - or
+- - grew
+  - so
+  - did
+- - we
+  - could
+  - hear
+- - hours
+  - had
+  - passed
 - - referee
   - emerged
   - from
-- - whole
-  - thing
-  - had
+- - blinked
+  - once
+  - or
 - - emerged
   - from
   - somewhere
+- - once
+  - or
+  - twice
 - - wrapper
   - at
   - sunset
 - - sweet
   - wrapper
   - at
+- - whole
+  - thing
+  - had
+- - be
+  - television
+  - crews
 - - had
   - never
   - fought
 - - from
   - somewhere
   - behind
-- - blinked
-  - once
-  - or
-- - once
-  - or
-  - twice
-- - be
-  - television
-  - crews
-- - many
-  - hours
-  - had
+- - so
+  - did
+  - our
 - - we
   - were
   - bent
 - - language
   - we
   - were
-- - so
-  - did
-  - our
+- - many
+  - hours
+  - had
 - - word
   - what
   - would
@@ -278,9 +278,9 @@ ngrams:
 - - tie
   - we
   - would
-- - ribbon
-  - at
-  - our
+- - we
+  - stood
+  - there
 story:
   date: 2013-06-18
   id: 2013-06-18-in-vegetation-and-in-awe

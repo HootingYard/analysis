@@ -1,43 +1,43 @@
 ngrams:
-- - lantern
-  - extinguisher
-  - rolled
 - - meat
   - cleaver
   - proudly
+- - lantern
+  - extinguisher
+  - rolled
 - - ragged
   - blanket
   - he'd
+- - shell
+  - gulls
+  - swooped
 - - tod
   - cadet
   - jarvis
 - - cadet
   - jarvis
   - nan
-- - shell
-  - gulls
-  - swooped
-- - amusing
-  - wax
-  - dolls
 - - bloody
   - meat
   - cleaver
-- - harbour
-  - walls
-  - prompting
-- - pale
-  - tiger
-  - flowers
+- - amusing
+  - wax
+  - dolls
 - - muttered
   - barely
   - breathed
-- - fearful
-  - shudders
-  - gathered
+- - pale
+  - tiger
+  - flowers
+- - harbour
+  - walls
+  - prompting
 - - whispered
   - muttered
   - barely
+- - fearful
+  - shudders
+  - gathered
 - - filthy
   - ragged
   - blanket
@@ -62,15 +62,15 @@ ngrams:
 - - others
   - suddenly
   - lunged
+- - stick
+  - insect
+  - island
+- - stick
+  - insect
+  - island
 - - puffy
   - piggy
   - face
-- - stick
-  - insect
-  - island
-- - stick
-  - insect
-  - island
 - - ice
   - cream
   - kiosk
@@ -95,12 +95,12 @@ ngrams:
 - - post
   - office
   - nobody
-- - stomach
-  - we're
-  - going
 - - extinguisher
   - rolled
   - along
+- - stomach
+  - we're
+  - going
 - - typewriter
   - ribbons
   - set
@@ -110,33 +110,33 @@ ngrams:
 - - cream
   - kiosk
   - under
+- - butcher
+  - came
+  - marching
 - - moonlight
   - each
   - slosh
 - - walls
   - prompting
   - another
-- - butcher
-  - came
-  - marching
+- - felt
+  - both
+  - rage
 - - examined
   - every
   - inch
 - - place
   - looking
   - untouched
-- - felt
-  - both
-  - rage
 - - milky
   - morning
   - light
-- - thankful
-  - once
-  - sitting
 - - butcher's
   - shop
   - came
+- - thankful
+  - once
+  - sitting
 - - most
   - diligent
   - bloodhound
@@ -149,108 +149,108 @@ ngrams:
 - - tiny
   - post
   - office
-- - two
-  - tilly
-  - lamps
-- - name
-  - captain
-  - tod
 - - office
   - still
   - sold
-- - staircase
-  - two
-  - steps
 - - pressed
   - ever
   - closer
+- - name
+  - captain
+  - tod
+- - two
+  - tilly
+  - lamps
 - - you're
   - quite
   - sure
+- - staircase
+  - two
+  - steps
+- - cadet
+  - jarvis
+  - much
 - - being
   - driven
   - relentlessly
 - - old
   - familiar
   - bench
-- - cadet
-  - jarvis
-  - much
-- - bolts
-  - drawn
-  - back
 - - post
   - office
   - still
-- - six
-  - months
-  - old
-- - prompting
-  - another
-  - name
+- - bolts
+  - drawn
+  - back
+- - father's
+  - head
+  - height
 - - latch
   - lifted
   - before
 - - those
   - amusing
   - wax
-- - our
-  - fearful
-  - shudders
-- - after
-  - i'd
-  - fled
-- - single
-  - name
-  - captain
-- - father's
-  - head
-  - height
-- - cherished
-  - our
-  - fearful
-- - wind
-  - howls
-  - through
-- - swaying
-  - our
-  - clothing
 - - sold
   - those
   - amusing
-- - another
+- - after
+  - i'd
+  - fled
+- - prompting
+  - another
   - name
-  - counting
-- - help
-  - glancing
-  - back
 - - gigantic
   - twisted
   - head
+- - our
+  - fearful
+  - shudders
+- - wind
+  - howls
+  - through
+- - cherished
+  - our
+  - fearful
+- - single
+  - name
+  - captain
+- - swaying
+  - our
+  - clothing
+- - another
+  - name
+  - counting
+- - six
+  - months
+  - old
+- - help
+  - glancing
+  - back
 - - once
   - again
   - transformed
 - - still
   - you're
   - going
+- - even
+  - mistress
+  - pym
+- - seen
+  - again
+  - oh
 - - long
   - year
   - since
 - - changed
   - once
   - again
-- - seen
-  - again
-  - oh
-- - terrible
-  - swaying
-  - our
-- - even
-  - mistress
-  - pym
 - - wrong
   - way
   - round
+- - terrible
+  - swaying
+  - our
 - - still
   - ironing
   - each
@@ -260,36 +260,39 @@ ngrams:
 - - stranger
   - here
   - become
-- - two
-  - weeks
-  - ago
 - - here
   - become
   - invisible
-- - cleaver
-  - proudly
-  - like
-- - floor
-  - looking
-  - down
+- - two
+  - weeks
+  - ago
 - - office
   - nobody
   - even
-- - again
-  - transformed
-  - made
-- - too
-  - long
-  - gone
 - - interior
   - well
   - well
-- - always
-  - awake
-  - before
+- - cleaver
+  - proudly
+  - like
 - - nobody
   - even
   - looked
+- - floor
+  - looking
+  - down
+- - too
+  - long
+  - gone
+- - again
+  - transformed
+  - made
+- - always
+  - awake
+  - before
+- - sounded
+  - more
+  - confident
 - - year
   - after
   - year
@@ -299,306 +302,330 @@ ngrams:
 - - soon
   - very
   - soon
-- - sounded
-  - more
-  - confident
-- - ran
-  - then
-  - tumbling
 - - too
   - much
   - changed
-- - sleepwalkers
-  - some
-  - hailing
+- - ran
+  - then
+  - tumbling
 - - still
   - sold
   - those
+- - knew
+  - better
+  - than
+- - sleepwalkers
+  - some
+  - hailing
 - - slipping
   - some
   - coins
 - - nodded
   - slipping
   - some
-- - knew
-  - better
-  - than
-- - six
-  - years
-  - old
 - - never
   - seen
   - again
+- - experience
+  - even
+  - though
+- - six
+  - years
+  - old
 - - then
   - tumbling
   - towards
+- - hailing
+  - each
+  - other
+- - than
+  - ever
+  - existed
 - - has
   - recurred
   - throughout
 - - placed
   - him
   - gently
-- - hailing
-  - each
-  - other
-- - experience
-  - even
-  - though
-- - than
-  - ever
-  - existed
-- - father
-  - placed
-  - him
-- - sometimes
-  - many
-  - many
-- - tumbling
-  - towards
-  - him
-- - down
-  - our
-  - spines
 - - well
   - well
   - well
+- - sometimes
+  - many
+  - many
+- - head
+  - even
+  - puffier
+- - am
+  - thankful
+  - once
+- - father
+  - placed
+  - him
 - - their
   - pale
   - tiger
 - - their
   - eternal
   - gaze
-- - terror
-  - down
+- - down
   - our
-- - am
-  - thankful
-  - once
-- - head
-  - even
-  - puffier
+  - spines
+- - tumbling
+  - towards
+  - him
 - - never
   - did
   - discover
 - - continued
   - their
   - eternal
-- - blanket
-  - he'd
-  - been
-- - he'd
-  - been
-  - wrapped
-- - some
-  - hailing
-  - each
-- - carried
-  - him
-  - home
-- - stone
-  - continued
-  - their
+- - terror
+  - down
+  - our
 - - our
   - way
   - along
-- - boy
-  - i'd
+- - blanket
+  - he'd
   - been
+- - stone
+  - continued
+  - their
+- - some
+  - hailing
+  - each
+- - he'd
+  - been
+  - wrapped
+- - carried
+  - him
+  - home
 - - them
   - once
   - they'd
+- - boy
+  - i'd
+  - been
 - - name
   - counting
   - them
 - - were
   - greatly
   - weathered
-- - they'd
-  - been
-  - taken
+- - bells
+  - clanged
+  - when
+- - barely
+  - breathed
+  - when
 - - huts
   - were
   - dilapidated
+- - they'd
+  - been
+  - taken
 - - shutters
   - were
   - raised
 - - walls
   - were
   - greatly
-- - bells
-  - clanged
-  - when
 - - boat
   - into
   - harbour
-- - barely
-  - breathed
-  - when
-- - been
-  - taken
-  - deep
-- - stone
-  - walls
-  - were
-- - came
-  - marching
-  - up
-- - about
-  - six
-  - months
-- - walk
-  - usually
-  - when
-- - once
-  - they'd
-  - been
 - - more
   - confident
   - than
-- - made
-  - our
-  - way
-- - him
-  - after
-  - i'd
-- - counting
-  - them
-  - 'off'
+- - came
+  - marching
+  - up
+- - walk
+  - usually
+  - when
+- - stone
+  - walls
+  - were
+- - been
+  - taken
+  - deep
+- - about
+  - six
+  - months
 - - blood
   - trickled
   - out
+- - counting
+  - them
+  - 'off'
 - - second
   - time
   - those
+- - made
+  - our
+  - way
 - - told
   - what
   - happened
+- - once
+  - they'd
+  - been
+- - him
+  - after
+  - i'd
 - - boys
   - steered
   - me
 - - taken
   - deep
   - into
-- - been
-  - apart
-  - still
 - - spines
   - we
   - cherished
+- - bloodhound
+  - would
+  - envy
+- - week
+  - more
+  - than
+- - diligent
+  - bloodhound
+  - would
+- - roaring
+  - we
+  - trip
+- - been
+  - apart
+  - still
+- - insect
+  - island
+  - there
+- - they
+  - sent
+  - delicious
+- - islanders
+  - would
+  - help
 - - some
   - like
   - sleepwalkers
 - - like
   - sleepwalkers
   - some
-- - they
-  - sent
-  - delicious
-- - week
-  - more
-  - than
-- - saw
-  - him
-  - after
-- - bloodhound
-  - would
-  - envy
-- - roaring
-  - we
-  - trip
-- - diligent
-  - bloodhound
-  - would
-- - insect
-  - island
-  - there
-- - children
-  - they
-  - sent
-- - who
-  - year
-  - after
 - - into
   - something
   - awful
-- - those
-  - who
-  - year
-- - mainland
-  - were
-  - too
-- - were
-  - too
-  - skilled
-- - never
-  - been
-  - apart
-- - rising
-  - within
-  - me
-- - did
-  - discover
-  - who
-- - islanders
-  - would
-  - help
-- - brother
-  - told
-  - me
-- - become
-  - invisible
-  - they
+- - saw
+  - him
+  - after
 - - names
   - we
   - grew
+- - rising
+  - within
+  - me
+- - mainland
+  - were
+  - too
+- - children
+  - they
+  - sent
+- - those
+  - who
+  - year
+- - were
+  - too
+  - skilled
+- - who
+  - year
+  - after
+- - brother
+  - told
+  - me
 - - more
   - than
   - once
-- - hairy
-  - hand
+- - never
+  - been
+  - apart
+- - knew
+  - bitterly
+  - would
+- - did
+  - discover
+  - who
+- - wrenched
+  - so
+  - tight
+- - stomach
+  - wrenched
+  - so
+- - become
+  - invisible
   - they
 - - many
   - many
   - more
-- - knew
-  - bitterly
-  - would
-- - stomach
-  - wrenched
+- - hairy
+  - hand
+  - they
+- - all
+  - knew
+  - better
+- - more
+  - than
+  - ever
+- - could
+  - spend
+  - them
+- - transformed
+  - made
+  - into
+- - brother
+  - usually
   - so
-- - wrenched
-  - so
-  - tight
 - - flowers
   - which
   - exhale
 - - tiger
   - flowers
   - which
-- - all
-  - knew
-  - better
-- - transformed
-  - made
-  - into
-- - never
-  - been
-  - able
 - - waking
   - world
   - they
-- - could
-  - spend
-  - them
+- - never
+  - been
+  - able
+- - woods
+  - we
+  - found
+- - never
+  - told
+  - what
 - - been
   - too
   - long
-- - more
-  - than
-  - ever
-- - brother
-  - usually
-  - so
+- - steered
+  - me
+  - away
+- - hear
+  - again
+  - there
+- - feast
+  - day
+  - were
+- - were
+  - never
+  - told
+- - we
+  - never
+  - forgot
+- - many
+  - more
+  - more
+- - swaying
+  - trees
+  - an
 story:
   date: 2009-07-22
   id: 2009-07-22-a-memoir-of-stick-insect-island

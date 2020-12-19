@@ -5,24 +5,24 @@ ngrams:
 - - mock
   - emergency
   - staged
-- - peculiar
-  - barber
-  - shunned
 - - scree
   - scree
   - scree
-- - wax
-  - seal
-  - embossed
+- - peculiar
+  - barber
+  - shunned
 - - elfin
   - amateur
   - caked
-- - caution
-  - he's
-  - cyclopean
+- - wax
+  - seal
+  - embossed
 - - son
   - hedges
   - flank
+- - caution
+  - he's
+  - cyclopean
 - - spangle
   - invisible
   - threads
@@ -44,27 +44,24 @@ ngrams:
 - - park
   - butcher
   - butcher
-- - red
-  - wax
-  - seal
-- - heraldic
-  - significance
-  - red
 - - street
   - butcher
   - butcher
 - - proper
   - butcher's
   - howl
-- - abandoned
-  - glue
-  - factory
-- - significance
+- - heraldic
+  - significance
   - red
+- - red
   - wax
+  - seal
 - - shopping
   - list
   - scrunched
+- - significance
+  - red
+  - wax
 - - capital
   - city
   - loud
@@ -74,141 +71,144 @@ ngrams:
 - - dark
   - butcher
   - butcher
+- - abandoned
+  - glue
+  - factory
 - - ancient
   - canine
   - bones
-- - fit
-  - neatly
-  - together
 - - kitten
   - several
   - goldfish
-- - carried
-  - downstream
-  - towards
-- - gobbets
-  - tiny
-  - orbs
+- - fit
+  - neatly
+  - together
 - - traditional
   - air
   - butcher
 - - air
   - butcher
   - butcher
+- - carried
+  - downstream
+  - towards
+- - gobbets
+  - tiny
+  - orbs
 - - good
   - son
   - hedges
-- - tangles
-  - bumping
-  - things
 - - town
   - sausages
   - bought
-- - butcher
-  - butcher
-  - why
+- - tangles
+  - bumping
+  - things
 - - several
   - goldfish
   - certain
+- - butcher
+  - butcher
+  - why
 - - every
   - domestic
   - pet
-- - great
-  - hairy
-  - fists
 - - things
   - fit
   - neatly
 - - makes
   - himself
   - scarce
+- - great
+  - hairy
+  - fists
 - - tally
   - ho
   - too
-- - prank
-  - little
-  - gobbets
 - - old
   - time's
   - sake
+- - prank
+  - little
+  - gobbets
 - - red
   - wax
   - too
 - - very
   - peculiar
   - barber
-- - man
-  - looks
-  - kindly
 - - scree
   - scree
   - before
+- - man
+  - looks
+  - kindly
 - - good
   - son
   - take
-- - here
-  - comes
-  - mister
 - - scree
   - before
   - dawn
 - - nice
   - head
   - mother
-- - burned
-  - black
-  - see
-- - old
-  - traditional
-  - air
-- - little
-  - gobbets
-  - tiny
+- - here
+  - comes
+  - mister
 - - actors
   - even
   - mister
+- - old
+  - traditional
+  - air
 - - butcher
   - butcher
   - where
 - - butcher
   - butcher
   - where
+- - burned
+  - black
+  - see
 - - kitchen
   - counter
   - where
-- - went
-  - back
-  - bent
+- - little
+  - gobbets
+  - tiny
 - - toiling
   - back
   - along
-- - domestic
-  - pet
-  - she
-- - man
-  - goes
-  - home
-- - came
-  - toiling
+- - went
   - back
+  - bent
 - - looks
   - kindly
   - upon
-- - mother
-  - thinks
-  - she
+- - came
+  - toiling
+  - back
+- - man
+  - goes
+  - home
 - - pipe
   - its
   - bowl
-- - man
-  - makes
-  - himself
+- - domestic
+  - pet
+  - she
 - - goldfish
   - certain
   - other
+- - man
+  - makes
+  - himself
 - - certain
   - other
   - types
+- - mother
+  - thinks
+  - she
 - - threads
   - bind
   - him
@@ -218,33 +218,30 @@ ngrams:
 - - otter
   - follows
   - him
-- - tiny
-  - tot
-  - she
+- - black
+  - see
+  - see
 - - factory
   - has
   - closed
 - - glue
   - factory
   - has
-- - black
-  - see
-  - see
 - - has
   - snapped
   - thousands
+- - tiny
+  - tot
+  - she
 - - man
   - here
   - comes
-- - fist
-  - prancing
-  - up
 - - ho
   - too
   - then
-- - has
-  - called
-  - spinach
+- - fist
+  - prancing
+  - up
 - - head
   - mother
   - said
@@ -257,15 +254,21 @@ ngrams:
 - - kept
   - them
   - together
+- - has
+  - called
+  - spinach
+- - butcher
+  - butcher
+  - what
 - - valiant
   - what
   - ho
 - - ho
   - what
   - ho
-- - butcher
-  - butcher
-  - what
+- - pan
+  - just
+  - then
 - - just
   - then
   - mister
@@ -275,9 +278,6 @@ ngrams:
 - - into
   - tangles
   - bumping
-- - pan
-  - just
-  - then
 - - that's
   - what
   - mother
@@ -308,33 +308,30 @@ ngrams:
 - - were
   - burned
   - black
-- - has
-  - closed
-  - down
-- - glue
-  - factory
-  - they
 - - circling
   - overhead
   - there
+- - glue
+  - factory
+  - they
+- - has
+  - closed
+  - down
 - - aquarium
   - past
   - all
-- - man
-  - has
-  - set
 - - if
   - things
   - fit
+- - man
+  - has
+  - set
 - - pet
   - she
   - has
 - - tot
   - she
   - has
-- - she
-  - has
-  - called
 - - set
   - out
   - again
@@ -347,6 +344,9 @@ ngrams:
 - - an
   - elfin
   - amateur
+- - she
+  - has
+  - called
 - - an
   - english
   - county
@@ -356,24 +356,24 @@ ngrams:
 - - comes
   - back
   - they
-- - she
-  - has
-  - ever
+- - keeps
+  - one
+  - arm
 - - has
   - 'no'
   - pipe
 - - are
   - still
   - nozzles
-- - keeps
-  - one
-  - arm
-- - where
-  - they
-  - hold
 - - counter
   - where
   - would
+- - where
+  - they
+  - hold
+- - she
+  - has
+  - ever
 - - shutters
   - are
   - down

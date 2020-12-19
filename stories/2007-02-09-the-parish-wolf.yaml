@@ -5,21 +5,18 @@ ngrams:
 - - tabloid
   - astrologer
   - jonathan
-- - robertson
-  - justice
-  - '-'
 - - preposterous
   - tabloid
   - astrologer
-- - grey
-  - spongy
-  - buds
 - - naturalist
   - racing
   - driver
 - - nailed
   - luther
   - fashion
+- - grey
+  - spongy
+  - buds
 - - notice
   - nailed
   - luther
@@ -38,24 +35,27 @@ ngrams:
 - - invisible
   - kim
   - fat
-- - parish
-  - wolf
-  - although
 - - bus
   - driver
   - claimed
+- - parish
+  - wolf
+  - although
 - - films
   - kept
   - busy
+- - robertson
+  - justice
+  - '-'
+- - titan
+  - among
+  - sextons
 - - drenched
   - water
   - droplets
 - - water
   - droplets
   - dripping
-- - titan
-  - among
-  - sextons
 - - wolf
   - although
   - none
@@ -80,12 +80,12 @@ ngrams:
 - - tiny
   - grey
   - spongy
-- - sexton
-  - took
-  - charge
 - - w
   - words
   - describing
+- - sexton
+  - took
+  - charge
 - - spongy
   - buds
   - each
@@ -98,12 +98,12 @@ ngrams:
 - - yet
   - despite
   - remaining
-- - parish
-  - wolf
-  - last
 - - duck
   - dared
   - come
+- - parish
+  - wolf
+  - last
 - - dared
   - come
   - near
@@ -125,15 +125,15 @@ ngrams:
 - - gave
   - these
   - tales
+- - much
+  - quieter
+  - since
 - - inaccurate
   - our
   - vicar
 - - most
   - part
   - invisible
-- - much
-  - quieter
-  - since
 - - expert
   - before
   - dawn
@@ -143,21 +143,21 @@ ngrams:
 - - breakfast
   - establishment
   - said
-- - under
-  - our
-  - laws
 - - those
   - w
   - words
+- - under
+  - our
+  - laws
 - - any
   - account
   - use
-- - dead
-  - its
-  - howling
 - - w
   - words
   - even
+- - dead
+  - its
+  - howling
 - - any
   - credence
   - yet
@@ -176,6 +176,15 @@ ngrams:
 - - paid
   - him
   - nocturnal
+- - death
+  - certificate
+  - can
+- - wolf
+  - after
+  - just
+- - just
+  - five
+  - years
 - - wolf
   - paid
   - him
@@ -185,15 +194,6 @@ ngrams:
 - - sexton
   - has
   - worked
-- - just
-  - five
-  - years
-- - wolf
-  - after
-  - just
-- - death
-  - certificate
-  - can
 - - these
   - tales
   - any
@@ -218,39 +218,39 @@ ngrams:
 - - mercy
   - home
   - 'no'
+- - parish
+  - if
+  - obsequies
+- - yet
+  - reached
+  - them
 - - home
   - 'no'
   - ducks
 - - trees
   - were
   - drenched
-- - yet
-  - reached
-  - them
-- - who
-  - once
-  - spent
 - - obsequies
   - were
   - held
-- - parish
-  - if
-  - obsequies
-- - having
-  - been
-  - smashed
+- - who
+  - once
+  - spent
 - - signal
   - fact
   - about
-- - were
-  - drenched
-  - water
-- - others
-  - having
+- - having
   - been
+  - smashed
 - - when
   - writing
   - nature
+- - others
+  - having
+  - been
+- - were
+  - drenched
+  - water
 story:
   date: 2007-02-09
   id: 2007-02-09-the-parish-wolf

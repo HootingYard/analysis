@@ -5,12 +5,12 @@ ngrams:
 - - bowels
   - headache
   - drowsiness
-- - headache
-  - drowsiness
-  - kidney
 - - heartburn
   - colic
   - pains
+- - headache
+  - drowsiness
+  - kidney
 - - melancholy
   - delirium
   - tremens
@@ -38,12 +38,12 @@ ngrams:
 - - colic
   - pains
   - wind
-- - fake
-  - john
-  - major's
 - - famous
   - alleged
   - cover
+- - fake
+  - john
+  - major's
 - - magisterial
   - study
   - plastic
@@ -56,84 +56,84 @@ ngrams:
 - - plastic
   - sheeting
   - certain
-- - scholars
-  - whose
-  - brains
 - - counterfeit
   - pamphlet
   - cover
+- - scholars
+  - whose
+  - brains
 - - sheeting
   - without
   - finding
-- - plastic
-  - sheeting
-  - without
 - - legendary
   - pamphlet
   - itself
+- - plastic
+  - sheeting
+  - without
 - - works
   - stirring
   - words
-- - copy
-  - let
-  - alone
 - - laid
   - waste
   - long
+- - copy
+  - let
+  - alone
 - - without
   - finding
   - room
-- - dobson
-  - studies
-  - gaston
-- - people's
-  - thoughts
-  - dobson
-- - every
-  - single
-  - copy
 - - stirring
   - words
   - indeed
-- - study
-  - plastic
-  - dobson
+- - every
+  - single
+  - copy
+- - dobson
+  - studies
+  - gaston
 - - waste
   - long
   - ago
+- - people's
+  - thoughts
+  - dobson
 - - sheeting
   - only
   - exists
+- - score
+  - points
+  - over
+- - let
+  - alone
+  - read
+- - study
+  - plastic
+  - dobson
 - - plastic
   - sheeting
   - only
 - - dobson
   - scholars
   - whose
-- - let
-  - alone
-  - read
-- - score
-  - points
-  - over
 - - points
   - over
   - young
+- - plastic
+  - though
+  - those
 - - know
   - nor
   - care
 - - now
   - forever
   - lost
-- - plastic
-  - though
-  - those
-- - few
-  - weeks
-  - before
 - - neither
   - know
   - nor
+- - few
+  - weeks
+  - before
 - - drafted
   - some
   - notes
@@ -149,9 +149,9 @@ ngrams:
 - - feed
   - their
   - misplaced
-- - just
-  - those
-  - used
+- - myself
+  - even
+  - though
 story:
   date: 2006-02-23
   id: 2006-02-23-certain-aspects-of-plastic-baubles-and-plastic-sheeting

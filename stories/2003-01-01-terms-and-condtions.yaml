@@ -1,19 +1,19 @@
 ngrams:
-- - scrofula
-  - impetigo
-  - leprosy
 - - impetigo
   - leprosy
   - rickets
+- - scrofula
+  - impetigo
+  - leprosy
 - - privation
   - compost
   - latvian
+- - snodgrass
+  - privation
+  - compost
 - - blebs
   - neurasthenia
   - delirium
-- - hideousness
-  - blebs
-  - neurasthenia
 story:
   date: 2003-01-01
   id: 2003-01-01-terms-and-condtions

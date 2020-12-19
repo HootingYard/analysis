@@ -1,10 +1,10 @@
 ngrams:
-- - john
-  - alexander
-  - smith
 - - education
   - john
   - alexander
+- - john
+  - alexander
+  - smith
 - - become
   - country
   - gentlemen
@@ -41,12 +41,12 @@ ngrams:
 - - some
   - may
   - become
-- - together
-  - they
-  - form
 - - university
   - will
   - go
+- - together
+  - they
+  - form
 - - some
   - may
   - go
@@ -65,12 +65,12 @@ ngrams:
 - - may
   - go
   - into
-- - an
-  - important
-  - point
 - - indian
   - or
   - colonial
+- - or
+  - colonial
+  - services
 story:
   date: 2012-08-19
   id: 2012-08-19-rot

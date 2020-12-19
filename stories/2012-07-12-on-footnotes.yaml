@@ -23,30 +23,24 @@ ngrams:
 - - shove
   - footnotes
   - willy
-- - disapproval
-  - frau
-  - von
 - - unread
   - partly
   - blotted
+- - disapproval
+  - frau
+  - von
 - - man's
   - assorted
   - copper
-- - suspected
-  - frau
-  - von
 - - manuscript
   - unread
   - partly
+- - suspected
+  - frau
+  - von
 - - remote
   - alpine
   - fastness
-- - railway
-  - timetables
-  - '-'
-- - railway
-  - timetables
-  - '-'
 - - avoid
   - footnotes
   - wherever
@@ -62,15 +56,6 @@ ngrams:
 - - funicular
   - railway
   - timetable
-- - metal
-  - tacks
-  - staples
-- - coins
-  - metal
-  - tacks
-- - copper
-  - coins
-  - metal
 - - felt
   - suitably
   - intimidated
@@ -83,24 +68,33 @@ ngrams:
 - - alpine
   - funicular
   - railway
+- - metal
+  - tacks
+  - staples
+- - coins
+  - metal
+  - tacks
 - - gravel
   - path
   - bearing
 - - funicular
   - railways
   - themselves
+- - copper
+  - coins
+  - metal
 - - funicular
   - railway
   - journey
-- - main
-  - text
-  - included
 - - footnotes
   - wherever
   - possible
 - - otherwise
   - inaccessible
   - perched
+- - main
+  - text
+  - included
 - - wooden
   - schoolroom
   - perched
@@ -119,39 +113,42 @@ ngrams:
 - - schoolroom
   - perched
   - high
-- - ambivalent
-  - attitude
-  - towards
 - - particularly
   - fine
   - paragraph
-- - foolish
-  - pamphlet
-  - marred
-- - small
-  - editorial
-  - team
+- - ambivalent
+  - attitude
+  - towards
 - - learned
   - journal
   - aside
-- - incidental
-  - matter
-  - works
-- - certain
-  - b
-  - tick
+- - foolish
+  - pamphlet
+  - marred
 - - threatening
   - further
   - footnotes
+- - certain
+  - b
+  - tick
+- - incidental
+  - matter
+  - works
 - - b
   - tick
   - wrote
+- - small
+  - editorial
+  - team
 - - always
   - suspected
   - frau
-- - orphaned
-  - child
-  - went
+- - railway
+  - timetables
+  - '-'
+- - railway
+  - timetables
+  - '-'
 - - pamphlet
   - marred
   - particularly
@@ -161,21 +158,24 @@ ngrams:
 - - pamphlets
   - curiously
   - enough
+- - orphaned
+  - child
+  - went
 - - footnotes
   - without
   - footnotes
 - - own
   - pathological
   - loathing
+- - suitable
+  - reading
+  - matter
 - - should
   - avoid
   - footnotes
 - - text
   - without
   - fatally
-- - suitable
-  - reading
-  - matter
 - - railways
   - themselves
   - indeed
@@ -224,36 +224,36 @@ ngrams:
 - - themselves
   - indeed
   - both
-- - broke
-  - down
-  - sobbing
-- - dobson
-  - hasn't
-  - got
 - - journal
   - aside
   - before
-- - page
-  - after
-  - page
+- - broke
+  - down
+  - sobbing
 - - don't
   - much
   - care
+- - page
+  - after
+  - page
+- - dobson
+  - hasn't
+  - got
 - - superscript
   - number
   - after
 - - footnote
   - ever
   - again
+- - step
+  - too
+  - far
 - - fatally
   - undermining
   - its
 - - our
   - small
   - editorial
-- - step
-  - too
-  - far
 - - undermining
   - its
   - sweeping
@@ -266,17 +266,17 @@ ngrams:
 - - often
   - told
   - us
-- - around
-  - our
-  - rations
-- - handed
-  - around
-  - our
 - - matter
   - works
   - such
+- - around
+  - our
+  - rations
 - - woods
   - indeed
+  - our
+- - handed
+  - around
   - our
 - - footnote
   - rather
@@ -290,129 +290,129 @@ ngrams:
 - - indeed
   - our
   - small
-- - new
-  - dobson
-  - pamphlet
-- - gave
-  - some
-  - indication
 - - next
   - few
   - years
-- - editorial
-  - team
-  - has
-- - ever
-  - pamphlet
-  - never
 - - living
   - very
   - much
+- - gave
+  - some
+  - indication
+- - ever
+  - pamphlet
+  - never
 - - first
   - ever
   - pamphlet
-- - their
-  - orphaned
-  - child
+- - editorial
+  - team
+  - has
+- - new
+  - dobson
+  - pamphlet
 - - prose
   - why
   - then
+- - their
+  - orphaned
+  - child
 - - long
   - ago
   - now
 - - has
   - acquitted
   - himself
-- - been
-  - orphaned
-  - young
 - - willy
   - nilly
   - into
-- - 'no'
-  - longer
-  - need
-- - timetables
-  - '-'
-  - out
-- - timetables
-  - '-'
-  - out
-- - were
-  - daily
-  - passengers
+- - been
+  - orphaned
+  - young
+- - am
+  - very
+  - fond
 - - partly
   - blotted
   - out
 - - blotted
   - out
   - partly
-- - am
-  - very
-  - fond
+- - 'no'
+  - longer
+  - need
 - - wooden
   - schoolroom
   - when
 - - out
   - partly
   - burned
+- - were
+  - daily
+  - passengers
 - - could
   - never
   - quite
+- - timetables
+  - '-'
+  - out
+- - timetables
+  - '-'
+  - out
 - - listen
   - when
   - tiny
-- - without
-  - footnotes
-  - out
 - - footnotes
   - yet
   - when
+- - without
+  - footnotes
+  - out
 - - pamphlets
   - would
   - occasionally
 - - titanic
   - pamphleteer
   - we
-- - then
-  - add
-  - some
 - - much
   - care
   - what
+- - then
+  - add
+  - some
 - - ever
   - listen
   - when
-- - ostrich
-  - which
-  - died
 - - pamphleteer
   - we
   - don't
-- - railway
-  - journey
-  - which
-- - our
-  - lessons
-  - were
 - - schoolroom
   - when
   - our
 - - when
   - our
   - lessons
-- - lessons
-  - were
-  - over
+- - ostrich
+  - which
+  - died
 - - down
   - sobbing
   - when
-- - footnote
-  - upon
-  - your
+- - our
+  - lessons
+  - were
+- - railway
+  - journey
+  - which
+- - lessons
+  - were
+  - over
 - - why
   - then
   - do
+- - footnote
+  - upon
+  - your
 - - upon
   - your
   - reader
@@ -422,72 +422,72 @@ ngrams:
 - - an
   - ambivalent
   - attitude
-- - lap
-  - them
-  - up
-- - team
-  - has
-  - been
 - - we
   - don't
   - much
-- - main
-  - text
-  - this
+- - lap
+  - them
+  - up
 - - readers
   - why
   - so
+- - main
+  - text
+  - this
 - - know
   - everything
   - there
 - - we
   - know
   - everything
-- - jarring
-  - footnote
-  - had
-- - has
+- - team
+  - has
   - been
-  - known
 - - live
   - this
   - seemed
 - - again
   - so
   - long
-- - prose
-  - thereafter
+- - jarring
+  - footnote
   - had
+- - embed
+  - or
+  - incorporate
+- - psychological
+  - flaw
+  - or
 - - one
   - should
   - avoid
 - - go
   - so
   - far
+- - has
+  - been
+  - known
 - - ever
   - again
   - so
-- - embed
-  - or
-  - incorporate
-- - should
-  - live
-  - this
-- - should
-  - live
-  - this
-- - psychological
+- - prose
+  - thereafter
+  - had
+- - mountainside
+  - but
+  - psychological
+- - but
+  - psychological
   - flaw
-  - or
 - - birthday
   - well
   - one
 - - why
   - so
   - many
-- - mountainside
-  - but
-  - psychological
+- - should
+  - live
+  - this
 story:
   date: 2012-07-12
   id: 2012-07-12-on-footnotes

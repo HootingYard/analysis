@@ -17,12 +17,12 @@ ngrams:
 - - hurry
   - stubborn
   - yelp
-- - growler
-  - fury
-  - riot
 - - fencer
   - butcher
   - spoiler
+- - growler
+  - fury
+  - riot
 - - butcher
   - spoiler
   - hasty
@@ -32,90 +32,90 @@ ngrams:
 - - yelp
   - tracker
   - dash
-- - include
-  - lurcher
-  - whitey
 - - blossom
   - keeper
   - fencer
 - - keeper
   - fencer
   - butcher
+- - include
+  - lurcher
+  - whitey
 - - killer
   - crafty
   - swift
-- - greek
-  - include
-  - lurcher
-- - whisperer
-  - xenophon
-  - popular
 - - plucky
   - killer
   - crafty
 - - greek
+  - include
+  - lurcher
+- - greek
   - vase
   - painting
-- - roman
-  - poet
-  - ovid
+- - whisperer
+  - xenophon
+  - popular
 - - partial
   - lists
   - telling
+- - roman
+  - poet
+  - ovid
 - - poet
   - ovid
   - gives
-- - bear
-  - pollux
-  - lists
 - - happy
   - jolly
   - trooper
-- - mrs
-  - flack
-  - popping
-- - blackie
-  - tawny
-  - blue
-- - dark
-  - rainy
-  - mornings
-- - retrospectively
-  - dub
-  - mrs
+- - bear
+  - pollux
+  - lists
 - - bad
   - mood
   - luckily
 - - tracker
   - dash
   - happy
-- - tawny
-  - blue
-  - blossom
-- - ancient
-  - greek
-  - vase
+- - dark
+  - rainy
+  - mornings
 - - dash
   - happy
   - jolly
-- - blue
+- - blackie
+  - tawny
+  - blue
+- - ancient
+  - greek
+  - vase
+- - mrs
+  - flack
+  - popping
+- - tawny
+  - blue
   - blossom
-  - keeper
+- - retrospectively
+  - dub
+  - mrs
 - - xenophon
   - popular
   - names
-- - dogs
-  - mrs
-  - flack
+- - blue
+  - blossom
+  - keeper
 - - dog
   - whisperer
   - xenophon
-- - avid
-  - dog
-  - lover
+- - dogs
+  - mrs
+  - flack
 - - pollux
   - lists
   - dog
+- - avid
+  - dog
+  - lover
 - - ancient
   - greece
   - bit
@@ -146,15 +146,18 @@ ngrams:
 - - munich
   - air
   - disaster
-- - ancient
-  - greek
-  - person
 - - growling
   - quite
   - obviously
+- - ancient
+  - greek
+  - person
 - - quite
   - obviously
   - preparing
+- - yet
+  - nameless
+  - puppy
 - - cautious
   - around
   - dogs
@@ -164,45 +167,45 @@ ngrams:
 - - vitals
   - given
   - half
-- - yet
-  - nameless
-  - puppy
-- - certainly
-  - remember
-  - mrs
 - - neither
   - move
   - nor
+- - certainly
+  - remember
+  - mrs
 - - dog
   - owners
   - always
-- - around
-  - dogs
-  - mrs
 - - find
   - diverting
   - understand
 - - mood
   - today
   - quite
+- - around
+  - dogs
+  - mrs
 - - names
   - another
   - list
-- - little
-  - infant
-  - throat
 - - lists
   - telling
   - us
 - - dog
   - names
   - another
+- - little
+  - infant
+  - throat
 - - living
   - room
   - perhaps
 - - give
   - full
   - rather
+- - might
+  - lie
+  - awake
 - - find
   - myself
   - considering
@@ -215,48 +218,42 @@ ngrams:
 - - than
   - partial
   - lists
-- - might
-  - lie
-  - awake
-- - parallel
-  - universe
-  - where
 - - keen
   - even
   - avid
-- - taken
-  - very
-  - seriously
 - - dog
   - myself
   - indeed
+- - parallel
+  - universe
+  - where
 - - move
   - nor
   - make
+- - taken
+  - very
+  - seriously
 - - never
   - learned
   - mrs
 - - other
   - domestic
   - pets
-- - sink
-  - its
-  - fangs
-- - its
-  - avian
-  - forms
-- - intense
-  - interest
-  - like
 - - even
   - avid
   - dog
+- - its
+  - avian
+  - forms
+- - sink
+  - its
+  - fangs
 - - indeed
   - ever
   - since
-- - always
-  - taken
-  - very
+- - intense
+  - interest
+  - like
 - - rather
   - than
   - partial
@@ -269,75 +266,78 @@ ngrams:
 - - myself
   - indeed
   - ever
+- - always
+  - taken
+  - very
 - - some
   - parallel
   - universe
-- - learn
-  - among
-  - other
-- - greek
-  - myth
-  - who
-- - first
-  - name
-  - nor
-- - full
-  - rather
-  - than
 - - make
   - such
   - assurances
+- - full
+  - rather
+  - than
+- - learn
+  - among
+  - other
+- - first
+  - name
+  - nor
+- - greek
+  - myth
+  - who
 - - given
   - any
   - thought
-- - many
-  - years
-  - later
+- - am
+  - always
+  - pleased
+- - world
+  - much
+  - too
 - - time
   - another
   - hint
+- - many
+  - years
+  - later
 - - their
   - hounds
   - killing
 - - dog
   - nomenclature
   - has
-- - world
-  - much
-  - too
-- - am
-  - always
-  - pleased
 - - name
   - nor
   - did
 - - among
   - other
   - things
-- - nomenclature
-  - has
-  - always
-- - interest
-  - like
-  - say
 - - pack
   - among
   - them
 - - always
   - make
   - such
-- - thinking
-  - up
-  - names
-- - never
-  - given
-  - any
-- - flack
-  - popping
-  - into
+- - interest
+  - like
+  - say
+- - nomenclature
+  - has
+  - always
 - - still
   - even
   - though
+- - never
+  - given
+  - any
+- - thinking
+  - up
+  - names
+- - flack
+  - popping
+  - into
 - - still
   - every
   - now
@@ -350,24 +350,21 @@ ngrams:
 - - been
   - cautious
   - around
-- - were
-  - invariably
-  - known
-- - her
-  - first
-  - name
 - - person
   - when
   - confronted
 - - greek
   - person
   - when
-- - lie
-  - awake
-  - all
 - - night
   - wondering
   - about
+- - were
+  - invariably
+  - known
+- - lie
+  - awake
+  - all
 - - mean
   - me
   - harm
@@ -377,6 +374,9 @@ ngrams:
 - - dogs
   - mean
   - me
+- - her
+  - first
+  - name
 story:
   date: 2012-07-08
   id: 2012-07-08-on-dog-nomenclature

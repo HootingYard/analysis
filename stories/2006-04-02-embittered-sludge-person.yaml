@@ -1,40 +1,40 @@
 ngrams:
-- - mistress
-  - spinoza
-  - inscribed
 - - gutta
   - percha
   - funnels
+- - mistress
+  - spinoza
+  - inscribed
 - - nerve
   - suppressant
   - guaranteed
+- - percha
+  - funnels
+  - wiring
+- - liquid
+  - nerve
+  - suppressant
 - - warned
   - mistress
   - spinoza
+- - electric
+  - circuitry
+  - ha
 - - batteries
   - coddington
   - lenses
 - - exhaustion
   - agony
   - bruising
-- - liquid
-  - nerve
-  - suppressant
-- - samuel
-  - taylor
-  - coleridge
-- - percha
-  - funnels
-  - wiring
 - - funnels
   - wiring
   - batteries
+- - samuel
+  - taylor
+  - coleridge
 - - wiring
   - batteries
   - coddington
-- - electric
-  - circuitry
-  - ha
 - - futuristic
   - telepathy
   - device
@@ -44,12 +44,12 @@ ngrams:
 - - rubber
   - gutta
   - percha
-- - mistress
-  - spinoza
-  - handed
 - - gillespie's
   - excellent
   - syrup
+- - mistress
+  - spinoza
+  - handed
 - - complicated
   - electric
   - circuitry
@@ -62,102 +62,105 @@ ngrams:
 - - herculean
   - wife
   - constance
-- - sludge
-  - person's
-  - temper
 - - yea
   - unto
   - generations
+- - sludge
+  - person's
+  - temper
 - - inhuman
   - physical
   - strength
-- - doctor
-  - gillespie's
-  - excellent
 - - vice
   - versa
+  - mark
+- - pride
+  - exclamation
   - mark
 - - mistress
   - spinoza
   - led
-- - pride
-  - exclamation
-  - mark
-- - th
-  - march
-  - detours
-- - terrible
-  - liquid
-  - nerve
 - - equally
   - herculean
   - wife
-- - heavy
-  - iron
-  - bolts
-- - feral
-  - childhood
-  - th
+- - doctor
+  - gillespie's
+  - excellent
+- - terrible
+  - liquid
+  - nerve
 - - baxter's
   - terrible
   - liquid
 - - schoolroom
   - floor
   - smug
+- - heavy
+  - iron
+  - bolts
 - - iron
   - bolts
   - drawn
-- - plotting
-  - dobson's
-  - downfall
 - - mad
   - ideas
   - propounded
+- - feral
+  - childhood
+  - th
 - - agony
   - bruising
   - blood
-- - plotted
+- - plotting
   - dobson's
-  - doom
-- - childhood
-  - th
-  - march
+  - downfall
 - - red
   - mist
   - descended
-- - wheelbarrow
-  - piled
-  - high
+- - th
+  - march
+  - detours
 - - village
   - urchins
   - hail
+- - wheelbarrow
+  - piled
+  - high
+- - plotted
+  - dobson's
+  - doom
 - - beasts
   - plotting
   - dobson's
+- - childhood
+  - th
+  - march
+- - urchins
+  - hail
+  - oh
 - - receive
   - death
   - threats
 - - become
   - increasingly
   - splenetic
-- - urchins
-  - hail
-  - oh
 - - grim
   - dark
   - cupboard
-- - word
-  - mistress
-  - spinoza
 - - today's
   - peasants
   - simply
+- - word
+  - mistress
+  - spinoza
 - - hail
   - oh
   - sludge
 - - idyllic
   - countryside
   - wrote
+- - unto
+  - generations
+  - past
 - - dear
   - pamphleteer
   - dictated
@@ -167,15 +170,12 @@ ngrams:
 - - embittered
   - sludge
   - person
-- - unto
-  - generations
-  - past
-- - sludge
-  - person
-  - listened
 - - write
   - undisturbed
   - dear
+- - sludge
+  - person
+  - listened
 - - dark
   - cupboard
   - top
@@ -188,48 +188,33 @@ ngrams:
 - - listening
   - sludge
   - person
-- - pang
-  - hill
-  - towards
 - - bolts
   - drawn
   - across
-- - tiny
-  - scurrying
-  - beasts
 - - peasant
   - whose
   - job
-- - doctor
-  - gillespie's
-  - brain
-- - sludge
-  - person
-  - lay
-- - person
-  - lay
-  - slumped
-- - moving
-  - sludge
-  - around
-- - moving
-  - sludge
-  - around
+- - pang
+  - hill
+  - towards
+- - tiny
+  - scurrying
+  - beasts
 - - along
   - country
   - lanes
+- - person
+  - lay
+  - slumped
+- - sludge
+  - person
+  - lay
+- - doctor
+  - gillespie's
+  - brain
 - - until
   - exhaustion
   - agony
-- - dobson's
-  - latest
-  - pamphlet
-- - village
-  - sludge
-  - person
-- - village
-  - sludge
-  - person
 - - sludge
   - along
   - country
@@ -245,21 +230,36 @@ ngrams:
 - - technique
   - wholesome
   - yet
+- - moving
+  - sludge
+  - around
+- - moving
+  - sludge
+  - around
+- - village
+  - sludge
+  - person
+- - village
+  - sludge
+  - person
+- - dobson's
+  - latest
+  - pamphlet
 - - oh
   - sludge
   - person
 - - oh
   - sludge
   - person
+- - rustic
+  - matter
+  - along
 - - growing
   - rage
   - too
 - - new
   - technique
   - wholesome
-- - rustic
-  - matter
-  - along
 - - revolutionary
   - new
   - method
@@ -275,54 +275,51 @@ ngrams:
 - - incredibly
   - exciting
   - new
-- - deliberately
-  - deafened
-  - dobson
-- - mustard
-  - parva
-  - dobson
-- - exciting
-  - new
-  - scheme
 - - zoo
   - see
   - feral
-- - telepathy
-  - device
-  - made
-- - read
-  - dobson's
-  - latest
-- - load
-  - dobson
-  - onto
-- - see
-  - feral
-  - childhood
-- - consumptive
-  - infants
-  - back
+- - exciting
+  - new
+  - scheme
 - - done
   - weird
   - things
-- - six
-  - days
-  - later
+- - read
+  - dobson's
+  - latest
+- - see
+  - feral
+  - childhood
+- - telepathy
+  - device
+  - made
+- - consumptive
+  - infants
+  - back
+- - deliberately
+  - deafened
+  - dobson
 - - writing
   - another
   - pamphlet
+- - mustard
+  - parva
+  - dobson
+- - load
+  - dobson
+  - onto
+- - six
+  - days
+  - later
 - - ever
   - receive
   - death
-- - broken
-  - bones
-  - made
 - - read
   - dobson's
   - pamphlet
-- - parva
-  - dobson
-  - turned
+- - broken
+  - bones
+  - made
 - - began
   - next
   - morning
@@ -332,201 +329,204 @@ ngrams:
 - - hour
   - before
   - crawling
+- - mist
+  - descended
+  - over
 - - our
   - lovely
   - countryside
+- - shabby
+  - hovel
+  - where
+- - parva
+  - dobson
+  - turned
 - - three
   - hours
   - until
 - - countryside
   - wrote
   - dobson
-- - mist
-  - descended
-  - over
-- - shabby
-  - hovel
-  - where
-- - dobson
-  - soon
-  - fell
+- - scheme
+  - our
+  - land
 - - eternity
   - like
   - sisyphus
 - - like
   - samuel
   - taylor
-- - scheme
-  - our
-  - land
+- - wife
+  - constance
+  - now
 - - visitors
   - like
   - samuel
 - - unexpected
   - visitors
   - like
-- - her
-  - mistress
-  - spinoza
-- - wife
-  - constance
-  - now
+- - dobson
+  - soon
+  - fell
 - - throughout
   - eternity
   - like
-- - crazed
-  - thing
-  - dobson
 - - once
   - old
   - mother
+- - further
+  - hour
+  - before
+- - crazed
+  - thing
+  - dobson
+- - rage
+  - too
+  - many
+- - her
+  - mistress
+  - spinoza
+- - do
+  - mistress
+  - spinoza
 - - tots
   - she
   - taught
 - - she
   - announced
   - tearing
-- - her
-  - schoolroom
-  - holding
-- - spindly
-  - legs
-  - she
-- - further
-  - hour
-  - before
-- - legs
-  - she
-  - hoped
-- - sludge
-  - around
-  - our
-- - rage
-  - too
-  - many
-- - do
-  - mistress
-  - spinoza
-- - like
-  - sisyphus
-  - note
-- - around
-  - our
-  - lovely
-- - dobson
-  - ever
-  - receive
 - - longer
   - embittered
   - could
+- - spindly
+  - legs
+  - she
+- - sludge
+  - around
+  - our
+- - around
+  - our
+  - lovely
+- - her
+  - schoolroom
+  - holding
+- - legs
+  - she
+  - hoped
+- - like
+  - sisyphus
+  - note
+- - other
+  - better
+  - ways
+- - cabin
+  - where
+  - once
+- - any
+  - mischief
+  - while
+- - dobson
+  - ever
+  - receive
+- - new
+  - scheme
+  - our
+- - peasants
+  - simply
+  - do
+- - other
+  - tiny
+  - scurrying
 - - door
   - she
   - rattled
 - - person
   - she
   - yelled
-- - other
-  - better
-  - ways
-- - sludge
-  - person
-  - she
-- - sludge
-  - person
-  - she
-- - cabin
-  - where
-  - once
-- - person
-  - she
-  - cried
-- - cupboard
-  - door
-  - she
-- - new
-  - scheme
-  - our
-- - other
-  - tiny
-  - scurrying
-- - any
-  - mischief
-  - while
 - - countryside
   - threatened
   - him
-- - peasants
-  - simply
-  - do
-- - mistress
-  - spinoza
-  - who
-- - spinoza
-  - who
-  - taught
 - - behalf
   - then
   - let
+- - sludge
+  - person
+  - she
+- - sludge
+  - person
+  - she
 - - before
   - crawling
   - back
-- - her
-  - own
-  - entitled
+- - mistress
+  - spinoza
+  - who
+- - cupboard
+  - door
+  - she
+- - person
+  - she
+  - cried
+- - spinoza
+  - who
+  - taught
 - - much
   - taller
   - than
-- - peasant
-  - who
-  - planned
 - - work
   - imagine
   - then
+- - peasant
+  - who
+  - planned
 - - torn
   - up
   - scraps
-- - been
-  - warned
-  - mistress
 - - their
   - daughter
   - picked
-- - daughter
-  - picked
-  - up
-- - schoolroom
-  - she
-  - made
-- - sludge
-  - up
-  - pang
-- - than
-  - dobson
-  - appeared
-- - been
-  - safely
-  - confined
-- - 'no'
-  - longer
-  - embittered
 - - cupboard
   - 'no'
   - sooner
+- - daughter
+  - picked
+  - up
 - - now
   - along
   - came
-- - she
-  - rattled
-  - through
+- - 'no'
+  - longer
+  - embittered
+- - sludge
+  - up
+  - pang
+- - her
+  - own
+  - entitled
+- - been
+  - warned
+  - mistress
+- - been
+  - safely
+  - confined
+- - than
+  - dobson
+  - appeared
 - - up
   - pang
   - hill
 - - woke
   - up
   - six
-- - already
-  - been
-  - accomplished
+- - schoolroom
+  - she
+  - made
+- - sludge
+  - person
+  - 'no'
+- - she
+  - rattled
+  - through
 story:
   date: 2006-04-02
   id: 2006-04-02-embittered-sludge-person

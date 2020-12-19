@@ -29,120 +29,120 @@ ngrams:
 - - concerns
   - police
   - matters
-- - police
-  - matters
-  - specifically
 - - s
   - ah
   - boxing
+- - police
+  - matters
+  - specifically
 - - coal
   - nor
   - wood
-- - telephone
-  - installed
-  - last
 - - known
   - liquid
   - within
+- - telephone
+  - installed
+  - last
+- - having
+  - used
+  - thievery
 - - new
   - telephone
   - installed
 - - humming
   - old
   - latvian
-- - having
-  - used
-  - thievery
 - - old
   - latvian
   - folk
-- - bottles
-  - every
-  - week
 - - call
   - while
   - nestling
+- - bottles
+  - every
+  - week
 - - installed
   - last
   - week
-- - dobson
-  - ignored
-  - christmas
 - - occasion
   - differently
   - here
 - - dobson
-  - spent
-  - boxing
+  - ignored
+  - christmas
 - - boxing
   - day
   - foodstuffs
 - - celebrate
   - boxing
   - day
+- - dobson
+  - spent
+  - boxing
 - - end
   - humming
   - old
-- - boxing
-  - day
-  - throughout
 - - ah
   - boxing
   - day
+- - boxing
+  - day
+  - throughout
 - - pig
   - latin
   - just
-- - spent
-  - boxing
-  - day
 - - also
   - make
   - mention
+- - spent
+  - boxing
+  - day
 - - something
   - something
   - milk
-- - life
-  - dobson
-  - ignored
 - - long
   - ago
   - days
 - - any
   - known
   - liquid
-- - golden
-  - hair
-  - she
+- - life
+  - dobson
+  - ignored
 - - kitchen
   - boiling
   - more
-- - boxing
-  - day
-  - every
 - - upon
   - end
   - humming
+- - boxing
+  - day
+  - every
 - - lake
   - it's
   - time
+- - golden
+  - hair
+  - she
+- - dried
+  - them
+  - thoroughly
+- - those
+  - long
+  - ago
+- - hours
+  - upon
+  - end
+- - day
+  - every
+  - year
 - - how
   - dobson
   - spent
 - - crow
   - has
   - flown
-- - those
-  - long
-  - ago
-- - dried
-  - them
-  - thoroughly
-- - day
-  - every
-  - year
-- - hours
-  - upon
-  - end
 - - has
   - golden
   - hair
@@ -152,33 +152,39 @@ ngrams:
 - - wove
   - them
   - myself
-- - she
-  - something
-  - something
 - - 'no'
   - coal
   - nor
-- - blankets
-  - incidentally
-  - were
-- - has
-  - flown
-  - away
 - - buzzing
   - drowns
   - out
+- - blankets
+  - incidentally
+  - were
 - - could
   - never
   - remember
+- - has
+  - flown
+  - away
+- - she
+  - something
+  - something
 - - so
   - hectic
   - buzzing
-- - will
-  - ignite
-  - well
 - - nest
   - so
   - hectic
+- - will
+  - ignite
+  - well
+- - police
+  - officer
+  - so
+- - justify
+  - doing
+  - so
 - - should
   - they
   - determine
@@ -188,12 +194,6 @@ ngrams:
 - - may
   - take
   - some
-- - police
-  - officer
-  - so
-- - justify
-  - doing
-  - so
 - - will
   - spend
   - much
@@ -212,12 +212,6 @@ ngrams:
 - - this
   - journal
   - entry
-- - one
-  - year
-  - during
-- - prosecute
-  - me
-  - some
 - - sergeant
   - or
   - whoever
@@ -227,15 +221,21 @@ ngrams:
 - - or
   - whoever
   - answers
+- - one
+  - year
+  - during
 - - desk
   - sergeant
   - or
+- - prosecute
+  - me
+  - some
 - - ignored
   - christmas
   - but
-- - break
-  - from
-  - boiling
+- - them
+  - myself
+  - when
 story:
   date: 2004-12-29
   id: 2004-12-29-how-dobson-spent-boxing-day

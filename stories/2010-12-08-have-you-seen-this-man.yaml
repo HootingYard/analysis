@@ -14,15 +14,15 @@ ngrams:
 - - wine
   - fire
   - c
+- - eggs
+  - developed
+  - themselves
 - - milk
   - wine
   - fire
 - - seen
   - anyone
   - answering
-- - eggs
-  - developed
-  - themselves
 - - water
   - milk
   - wine
@@ -53,33 +53,33 @@ ngrams:
 - - taller
   - than
   - men
-- - adam
-  - she
-  - says
-- - themselves
-  - like
-  - bubbles
 - - than
   - crystal
   - light
-- - developed
-  - themselves
-  - like
 - - more
   - pure
   - translucent
+- - themselves
+  - like
+  - bubbles
+- - developed
+  - themselves
+  - like
 - - clear
   - fluid
   - like
+- - adam
+  - she
+  - says
 - - fluid
   - like
   - water
+- - nothing
+  - could
+  - resist
 - - creature
   - obeyed
   - him
-- - some
-  - strange
-  - visions
 story:
   date: 2010-12-08
   id: 2010-12-08-have-you-seen-this-man

@@ -1,7 +1,4 @@
 ngrams:
-- - '-'
-  - pumping
-  - pumping
 - - fee
   - fi
   - fo
@@ -23,81 +20,81 @@ ngrams:
 - - nostrils
   - fee
   - fi
-- - harvey
-  - '-'
-  - pumping
 - - roared
   - fee
   - fi
 - - hectic
   - panting
   - subsided
-- - pursuing
-  - sprinting
-  - giant
 - - farmyard
   - fee
   - fi
+- - pursuing
+  - sprinting
+  - giant
 - - giant
   - roared
-  - fee
-- - enormous
-  - nostrils
   - fee
 - - nameless
   - horror
   - lurking
-- - leech
-  - supplier
-  - i'm
-- - giant
-  - booming
-  - nonsense
+- - enormous
+  - nostrils
+  - fee
 - - ringo
   - poor
   - stu
+- - giant
+  - booming
+  - nonsense
+- - leech
+  - supplier
+  - i'm
 - - leeches
   - affectionately
   - fear
-- - five
-  - leeches
-  - affectionately
-- - five
-  - leeches
-  - sucking
-- - blood
-  - gushed
-  - splattering
 - - booming
   - baritone
   - likely
-- - dr
-  - harvey
-  - '-'
+- - five
+  - leeches
+  - affectionately
+- - blood
+  - gushed
+  - splattering
+- - five
+  - leeches
+  - sucking
 - - five
   - fresh
   - leeches
 - - john
   - paul
   - george
-- - collywobbles
-  - poor
-  - john
 - - improvising
   - desperately
   - give
-- - spinney
-  - lumbering
-  - towards
-- - roaring
-  - scarcely
-  - able
+- - collywobbles
+  - poor
+  - john
+- - '-'
+  - pumping
+  - pumping
+- - harvey
+  - '-'
+  - pumping
 - - horror
   - lurking
   - within
+- - roaring
+  - scarcely
+  - able
 - - route
   - home
   - avoiding
+- - spinney
+  - lumbering
+  - towards
 - - gigantic
   - boots
   - making
@@ -110,6 +107,9 @@ ngrams:
 - - words
   - fee
   - fi
+- - dr
+  - harvey
+  - '-'
 - - roared
   - again
   - tiresomely
@@ -122,24 +122,24 @@ ngrams:
 - - flung
   - myself
   - inside
+- - different
+  - route
+  - home
 - - left
   - saw
   - emerging
 - - took
   - five
   - fresh
-- - different
-  - route
-  - home
-- - looked
-  - wildly
-  - around
 - - apparent
   - reason
   - took
 - - most
   - direct
   - route
+- - looked
+  - wildly
+  - around
 - - morning
   - walking
   - towards
@@ -149,18 +149,15 @@ ngrams:
 - - too
   - often
   - nowadays
-- - said
-  - improvising
-  - desperately
 - - viaduct
   - over
   - yonder
+- - said
+  - improvising
+  - desperately
 - - leech
   - just
   - give
-- - wait
-  - right
-  - here
 - - heard
   - precisely
   - those
@@ -173,9 +170,15 @@ ngrams:
 - - its
   - paw
   - affixed
+- - wait
+  - right
+  - here
 - - its
   - olfactory
   - senses
+- - ringo
+  - never
+  - quite
 - - door
   - shut
   - after
@@ -191,9 +194,6 @@ ngrams:
 - - its
   - enormous
   - nostrils
-- - ringo
-  - never
-  - quite
 - - giant
   - repeated
   - its
@@ -209,33 +209,36 @@ ngrams:
 - - its
   - mighty
   - nose
-- - heart
-  - its
-  - foul
-- - gigantic
-  - heart
-  - its
-- - its
-  - gigantic
-  - boots
 - - precisely
   - those
   - words
 - - way
   - home
   - past
+- - heart
+  - its
+  - foul
+- - its
+  - gigantic
+  - boots
+- - gigantic
+  - heart
+  - its
 - - don't
   - see
   - why
 - - again
   - tiresomely
   - may
-- - now
-  - wait
-  - right
 - - never
   - quite
   - able
+- - now
+  - wait
+  - right
+- - life
+  - depends
+  - upon
 - - other
   - morning
   - walking
@@ -245,60 +248,57 @@ ngrams:
 - - squeezed
   - some
   - blood
-- - life
-  - depends
-  - upon
 - - them
   - john
   - paul
+- - tale
+  - before
+  - over
+- - better
+  - way
+  - than
 - - leech
   - back
   - now
 - - who
   - trespassed
   - within
-- - tale
-  - before
-  - over
 - - 'no'
   - fit
   - state
 - - 'no'
   - apparent
   - reason
-- - better
-  - way
-  - than
-- - smell
-  - your
-  - blood
 - - names
   - how
   - could
 - - olfactory
   - senses
   - were
+- - smell
+  - your
+  - blood
 - - were
   - slowly
   - clanking
-- - senses
-  - were
-  - unable
 - - fled
   - straight
   - into
-- - call
-  - them
-  - words
-- - ears
-  - were
-  - assailed
 - - fresh
   - leeches
   - out
+- - call
+  - them
+  - words
+- - senses
+  - were
+  - unable
 - - mighty
   - nose
   - when
+- - ears
+  - were
+  - assailed
 - - possible
   - what
   - better
@@ -311,102 +311,102 @@ ngrams:
 - - gushed
   - splattering
   - me
-- - those
-  - who
-  - trespassed
-- - befell
-  - those
-  - who
 - - any
   - other
   - morning
 - - beneath
   - me
   - quaking
+- - those
+  - who
+  - trespassed
+- - befell
+  - those
+  - who
+- - stop
+  - me
+  - thrusting
 - - dim
   - brain
   - were
 - - brain
   - were
   - slowly
-- - stop
-  - me
-  - thrusting
+- - would
+  - remain
+  - nameless
 - - earth
   - beneath
   - me
 - - lumbering
   - towards
   - me
-- - would
-  - remain
-  - nameless
-- - what
-  - befell
-  - those
 - - decided
   - would
   - remain
-- - giant
-  - frowned
-  - which
-- - leeches
-  - are
-  - attached
+- - what
+  - befell
+  - those
 - - often
   - nowadays
   - we
-- - me
-  - each
-  - thump
 - - reason
   - we
   - sometimes
-- - waft
-  - up
-  - its
-- - viaduct
-  - business
-  - which
-- - leeches
-  - all
-  - too
-- - we
-  - sometimes
-  - call
+- - me
+  - each
+  - thump
 - - what
   - better
   - way
+- - we
+  - sometimes
+  - call
+- - leeches
+  - are
+  - attached
+- - waft
+  - up
+  - its
+- - leeches
+  - all
+  - too
+- - giant
+  - frowned
+  - which
 - - up
   - its
   - enormous
+- - viaduct
+  - business
+  - which
 - - know
   - what
   - became
 - - 'no'
   - other
   - field
-- - business
-  - which
-  - need
 - - can
   - call
   - them
+- - there
+  - alive
+  - how
 - - all
   - too
   - often
 - - shut
   - after
   - me
-- - there
-  - alive
-  - how
-- - this
-  - fifth
-  - leech
+- - business
+  - which
+  - need
 - - those
   - words
   - if
+- - this
+  - fifth
+  - leech
 - - giant
   - sniff
   - this
@@ -416,15 +416,6 @@ ngrams:
 - - told
   - this
   - tale
-- - some
-  - blood
-  - out
-- - giant
-  - this
-  - put
-- - this
-  - should
-  - raise
 - - snatched
   - stu
   - or
@@ -455,21 +446,30 @@ ngrams:
 - - klaus
   - or
   - yoko
+- - some
+  - blood
+  - out
+- - giant
+  - this
+  - put
 - - poor
   - stu
   - or
+- - this
+  - should
+  - raise
 - - leech
   - or
   - anything
-- - giant
-  - safe
-  - from
-- - we
-  - can
-  - call
 - - precious
   - blood
   - but
+- - or
+  - anything
+  - else
+- - we
+  - can
+  - call
 story:
   date: 2011-04-02
   id: 2011-04-02-fee-fi-fo-fum

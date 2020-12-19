@@ -29,15 +29,12 @@ ngrams:
 - - shabby
   - bolted
   - booths
-- - patrick
-  - henry
-  - '-'
-- - promising
-  - instructive
-  - tips
 - - forbidding
   - hellhole
   - stuffed
+- - promising
+  - instructive
+  - tips
 - - bolted
   - booth
   - wherein
@@ -50,39 +47,39 @@ ngrams:
 - - general
   - rule
   - lobbies
-- - regular
-  - weekly
-  - wireless
-- - lobbies
-  - bolted
-  - shut
 - - cat
   - mat
   - hoist
+- - lobbies
+  - bolted
+  - shut
+- - regular
+  - weekly
+  - wireless
 - - enormous
   - explosive
   - charge
+- - lobby
+  - bolted
+  - shut
+- - lobby
+  - bolted
+  - shut
 - - special
   - k
   - giddy
 - - windy
   - wednesday
   - afternoon
-- - lobby
+- - particular
   - bolted
-  - shut
-- - lobby
-  - bolted
-  - shut
+  - lobby
 - - holiday
   - special
   - k
 - - bank
   - holiday
   - special
-- - particular
-  - bolted
-  - lobby
 - - bolted
   - booths
   - either
@@ -95,24 +92,27 @@ ngrams:
 - - leaned
   - insouciantly
   - against
+- - patrick
+  - henry
+  - '-'
 - - hardly
   - seemed
   - worth
 - - big
   - flat
   - planes
-- - bolted
-  - shut
-  - against
-- - mouth
-  - eyes
-  - streaming
 - - involve
   - both
   - rectitude
 - - bolted
+  - shut
+  - against
+- - bolted
   - lobby
   - given
+- - mouth
+  - eyes
+  - streaming
 - - munching
   - another
   - mouthful
@@ -140,84 +140,84 @@ ngrams:
 - - sitting
   - while
   - picnicking
-- - faulty
-  - reception
-  - made
 - - bolted
   - booths
   - many
+- - faulty
+  - reception
+  - made
 - - feel
   - slightly
   - 'off'
-- - bolted
-  - lobby
-  - may
 - - than
   - stippled
   - dappled
-- - next
-  - few
-  - pages
 - - such
   - workaday
   - solutions
+- - bolted
+  - lobby
+  - may
 - - bigger
   - than
   - booths
-- - clarity
-  - let
-  - us
+- - next
+  - few
+  - pages
 - - few
   - pages
   - until
-- - remember
-  - once
-  - going
-- - let
-  - us
-  - assume
 - - author
   - such
   - workaday
-- - immediately
-  - sick
-  - over
-- - anonymous
-  - author
-  - such
 - - any
   - particular
   - bolted
+- - immediately
+  - sick
+  - over
+- - clarity
+  - let
+  - us
+- - remember
+  - once
+  - going
+- - anonymous
+  - author
+  - such
+- - let
+  - us
+  - assume
 - - bolted
   - shut
   - did
-- - nearly
-  - said
-  - give
 - - much
   - prefer
   - things
 - - head
   - nor
   - tail
+- - nearly
+  - said
+  - give
 - - forbidding
   - hellhole
   - could
+- - booths
+  - either
+  - upon
 - - more
   - resilient
   - structures
 - - larger
   - more
   - resilient
-- - many
-  - chalets
-  - too
-- - booths
-  - either
-  - upon
 - - roiling
   - sea
   - such
+- - many
+  - chalets
+  - too
 - - neither
   - head
   - nor
@@ -227,12 +227,12 @@ ngrams:
 - - without
   - even
   - glancing
-- - like
-  - big
-  - flat
 - - merry
   - way
   - back
+- - like
+  - big
+  - flat
 - - lobby
   - may
   - well
@@ -248,126 +248,129 @@ ngrams:
 - - them
   - bolted
   - shut
-- - even
-  - glancing
-  - back
 - - much
   - bigger
   - than
-- - weigh
-  - your
-  - desire
-- - been
-  - bolted
-  - shut
-- - been
-  - bolted
-  - shut
-- - been
-  - bolted
-  - shut
-- - 'no'
-  - longer
-  - count
-- - titanium
-  - saw
-  - 'no'
+- - even
+  - glancing
+  - back
 - - could
   - make
   - neither
-- - were
-  - shabby
-  - booths
+- - 'no'
+  - longer
+  - count
+- - weigh
+  - your
+  - desire
+- - titanium
+  - saw
+  - 'no'
+- - been
+  - bolted
+  - shut
+- - been
+  - bolted
+  - shut
+- - been
+  - bolted
+  - shut
 - - find
   - them
   - bolted
+- - were
+  - shabby
+  - booths
 - - bolted
   - shut
   - were
-- - reception
-  - made
-  - him
 - - find
   - them
   - open
+- - reception
+  - made
+  - him
 - - explosion
   - would
   - destroy
-- - will
-  - involve
-  - both
 - - more
   - often
   - than
-- - hit
-  - me
-  - full
+- - will
+  - involve
+  - both
 - - give
   - me
   - pap
+- - hit
+  - me
+  - full
 - - glugged
   - some
   - more
-- - into
-  - something
-  - else
-- - sea
-  - beneath
-  - me
-- - these
-  - were
-  - shabby
-- - fiendish
-  - urges
-  - which
-- - shabby
-  - booths
-  - so
 - - listened
   - so
   - enrapt
-- - write
-  - like
-  - him
-- - rule
-  - lobbies
-  - are
+- - shabby
+  - booths
+  - so
 - - bolted
   - booth
   - so
-- - '-'
-  - so
-  - nearly
-- - lobby
-  - all
-  - things
-- - henry
-  - '-'
-  - so
+- - sea
+  - beneath
+  - me
+- - into
+  - something
+  - else
+- - these
+  - were
+  - shabby
 - - give
   - me
   - death
-- - all
+- - rule
+  - lobbies
+  - are
+- - lobby
+  - all
   - things
-  - considered
 - - wild
   - coastline
   - so
-- - take
-  - over
-  - has
-- - hellhole
-  - could
-  - 'no'
+- - fiendish
+  - urges
+  - which
+- - all
+  - things
+  - considered
 - - more
   - years
   - than
+- - write
+  - like
+  - him
+- - hellhole
+  - could
+  - 'no'
+- - '-'
+  - so
+  - nearly
+- - take
+  - over
+  - has
+- - henry
+  - '-'
+  - so
 - - so
   - often
   - dismissed
 - - could
   - 'no'
   - longer
+- - dare
+  - say
+  - there
 - - an
   - occult
   - mechanism
@@ -380,57 +383,57 @@ ngrams:
 - - gate
   - an
   - occult
-- - dare
-  - say
-  - there
-- - an
-  - enormous
-  - explosive
 - - are
   - also
   - mere
-- - lobby
-  - an
-  - act
+- - an
+  - enormous
+  - explosive
 - - wash
   - over
   - me
+- - lobby
+  - an
+  - act
 - - giddy
   - biddy
   - this
+- - even
+  - notice
+  - me
 - - chalets
   - too
   - are
 - - too
   - are
   - shabby
-- - has
-  - been
-  - bolted
-- - lobby
-  - has
-  - been
-- - even
-  - notice
-  - me
 - - promenade
   - one
   - ought
 - - this
   - latter
   - apart
-- - said
-  - give
-  - me
+- - has
+  - been
+  - bolted
+- - lobby
+  - has
+  - been
 - - lobbies
   - are
   - much
-- - are
-  - much
-  - bigger
+- - said
+  - give
+  - me
 - - stick
   - alas
   - this
+- - are
+  - much
+  - bigger
+- - would
+  - much
+  - rather
 - - this
   - second
   - sausage
@@ -440,12 +443,6 @@ ngrams:
 - - so
   - nearly
   - said
-- - would
-  - much
-  - rather
-- - man
-  - did
-  - when
 - - jemmy
   - or
   - hacking
@@ -455,63 +452,69 @@ ngrams:
 - - lobby
   - or
   - transform
-- - one
-  - sitting
-  - while
-- - average
-  - hamster
-  - but
 - - author
   - or
   - date
+- - average
+  - hamster
+  - but
+- - man
+  - did
+  - when
 - - but
   - neglected
   - poet
 - - bolted
   - shut
   - but
-- - this
-  - point
-  - took
-- - latter
-  - apart
-  - from
+- - one
+  - sitting
+  - while
 - - pap
   - or
   - give
-- - think
-  - about
-  - him
 - - pier
   - or
   - along
+- - this
+  - point
+  - took
 - - days
   - or
   - weeks
+- - latter
+  - apart
+  - from
+- - think
+  - about
+  - him
 - - hamster
   - but
   - until
-- - great
-  - but
-  - neglected
-- - be
-  - bolted
-  - shut
-- - be
-  - equally
-  - useful
-- - not
-  - confuse
-  - booths
 - - hours
   - or
   - days
+- - great
+  - but
+  - neglected
+- - not
+  - confuse
+  - booths
+- - be
+  - bolted
+  - shut
 - - dangerous
   - explosives
   - not
 - - be
+  - equally
+  - useful
+- - be
   - immediately
   - sick
+- - ought
+  - not
+  - confuse
 - - motivated
   - by
   - impure
@@ -521,48 +524,45 @@ ngrams:
 - - surrounded
   - by
   - bolted
-- - ought
-  - not
-  - confuse
+- - than
+  - booths
+  - or
 - - weeks
   - by
   - waves
-- - virtue
-  - conversely
-  - you
+- - rather
+  - be
+  - immediately
 - - form
   - devised
   - by
-- - apart
-  - from
-  - being
 - - by
   - illustrative
   - matter
 - - looked
   - around
   - at
-- - bolted
-  - shut
-  - you
-- - rather
-  - be
-  - immediately
-- - than
-  - booths
-  - or
-- - been
-  - an
-  - enthusiast
-- - glancing
-  - back
-  - at
-- - well
-  - be
-  - equally
+- - apart
+  - from
+  - being
 - - its
   - author
   - or
+- - virtue
+  - conversely
+  - you
+- - well
+  - be
+  - equally
+- - or
+  - better
+  - did
+- - well
+  - be
+  - close
+- - glancing
+  - back
+  - at
 story:
   date: 2007-09-02
   id: 2007-09-02-bolted-lobbies

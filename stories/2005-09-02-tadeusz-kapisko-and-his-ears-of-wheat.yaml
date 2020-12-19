@@ -8,6 +8,9 @@ ngrams:
 - - shown
   - filling
   - rusty
+- - infant
+  - seeing
+  - pictorial
 - - rusty
   - farmyard
   - pails
@@ -17,18 +20,15 @@ ngrams:
 - - filling
   - rusty
   - farmyard
-- - infant
-  - seeing
-  - pictorial
 - - countless
   - pigs
   - wallowing
-- - indelible
-  - black
-  - marker
 - - story
   - richly
   - painted
+- - indelible
+  - black
+  - marker
 - - farmyard
   - pails
   - full
@@ -38,24 +38,24 @@ ngrams:
 - - word
   - barely
   - pausing
-- - wheat
-  - picture
-  - four
-- - marigold
-  - chew
-  - grew
-- - tiny
-  - glittering
-  - ships
 - - soaking
   - wet
   - sea
-- - half
-  - hidden
-  - behind
+- - wheat
+  - picture
+  - four
+- - tiny
+  - glittering
+  - ships
+- - marigold
+  - chew
+  - grew
 - - eye
   - leaning
   - against
+- - half
+  - hidden
+  - behind
 - - peas
   - still
   - snug
@@ -71,42 +71,45 @@ ngrams:
 - - still
   - sit
   - around
-- - breath
-  - dobson
-  - always
 - - remember
   - thinking
   - how
 - - wretched
   - village
   - where
+- - breath
+  - dobson
+  - always
+- - village
+  - where
+  - marigold
+- - where
+  - marigold
+  - chew
 - - puckered
   - her
   - lips
+- - world
+  - people
+  - still
 - - sorts
   - she
   - remembered
 - - dobson
   - always
   - knew
-- - where
-  - marigold
-  - chew
-- - village
-  - where
-  - marigold
-- - world
-  - people
-  - still
+- - could
+  - almost
+  - taste
 - - adhesive
   - some
   - brute
 - - recall
   - she
   - wrote
-- - could
-  - almost
-  - taste
+- - each
+  - other
+  - stories
 - - yarn
   - because
   - she
@@ -116,9 +119,6 @@ ngrams:
 - - life
   - she
   - tried
-- - each
-  - other
-  - stories
 - - never
   - written
   - down
@@ -128,27 +128,27 @@ ngrams:
 - - chew
   - grew
   - up
-- - years
-  - later
-  - she
-- - around
-  - their
-  - fires
 - - place
   - their
   - fingers
+- - around
+  - their
+  - fires
 - - sit
   - around
   - their
+- - years
+  - later
+  - she
+- - could
+  - still
+  - see
 - - she
   - could
   - recount
 - - picture
   - all
   - crimson
-- - could
-  - still
-  - see
 - - its
   - adhesive
   - some
@@ -158,66 +158,66 @@ ngrams:
 - - over
   - their
   - mouths
-- - later
-  - she
-  - could
 - - their
   - fingers
   - over
 - - fingers
   - over
   - their
+- - later
+  - she
+  - could
+- - would
+  - always
+  - smile
 - - are
   - shown
   - filling
+- - parents
+  - would
+  - always
 - - parents
   - are
   - shown
 - - next
   - picture
   - all
-- - would
-  - always
-  - smile
-- - parents
-  - would
-  - always
 - - last
   - picture
   - all
 - - tears
   - are
   - kept
-- - an
-  - infant
-  - seeing
 - - trenches
   - minus
   - one
-- - has
-  - been
-  - painted
 - - an
-  - indelible
-  - black
+  - infant
+  - seeing
 - - ever
   - so
   - closely
 - - minus
   - one
   - eye
-- - knew
-  - when
-  - she
 - - one
   - eye
   - leaning
-- - hair
-  - has
-  - been
+- - an
+  - indelible
+  - black
 - - looked
   - ever
   - so
+- - has
+  - been
+  - painted
+- - knew
+  - when
+  - she
+- - hair
+  - has
+  - been
 - - had
   - already
   - gone
@@ -227,9 +227,9 @@ ngrams:
 - - how
   - significant
   - this
-- - fires
-  - at
-  - dusk
+- - or
+  - four
+  - times
 story:
   date: 2005-09-02
   id: 2005-09-02-tadeusz-kapisko-and-his-ears-of-wheat

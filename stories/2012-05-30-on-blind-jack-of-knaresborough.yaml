@@ -23,24 +23,24 @@ ngrams:
 - - oats
   - carton
   - gazing
-- - anna
-  - pavlova
-  - named
 - - lessons
   - devoted
   - solely
+- - anna
+  - pavlova
+  - named
 - - today's
   - essay
   - alack
+- - peasants
+  - consigned
+  - forever
 - - built
   - roads
   - british
 - - using
   - matted
   - rafts
-- - peasants
-  - consigned
-  - forever
 - - bogs
   - using
   - matted
@@ -50,6 +50,9 @@ ngrams:
 - - strip
   - pictures
   - blind
+- - molesworth
+  - books
+  - chuckling
 - - sentence
   - alone
   - contains
@@ -59,66 +62,63 @@ ngrams:
 - - pictures
   - blind
   - jack
-- - molesworth
-  - books
-  - chuckling
-- - titanic
-  - figure
-  - blind
 - - roads
   - british
   - history
-- - figure
+- - titanic
+  - figure
   - blind
-  - jack
 - - limbs
   - full
   - strung
+- - figure
+  - blind
+  - jack
 - - infant
   - sight
   - felt
 - - writing
   - today's
   - essay
-- - entitled
-  - british
-  - history
 - - strip
   - pictures
   - told
-- - completely
-  - fictional
-  - character
+- - entitled
+  - british
+  - history
 - - utmost
   - talent
   - given
-- - whose
-  - infant
-  - sight
+- - completely
+  - fictional
+  - character
 - - commerce
   - travel
   - both
-- - usually
-  - lay
-  - hands
+- - whose
+  - infant
+  - sight
 - - walked
   - along
   - tapping
+- - usually
+  - lay
+  - hands
 - - talent
   - given
   - reader
 - - built
   - er
   - something
-- - few
-  - lessons
-  - devoted
-- - strip
-  - pictures
-  - must
 - - wholly
   - convincing
   - yet
+- - strip
+  - pictures
+  - must
+- - few
+  - lessons
+  - devoted
 - - convincing
   - yet
   - completely
@@ -131,33 +131,33 @@ ngrams:
 - - bid
   - new
   - roads
-- - tottering
-  - teeming
-  - hooting
 - - book
   - entitled
   - british
+- - tottering
+  - teeming
+  - hooting
 - - yet
   - completely
   - fictional
 - - three
   - words
   - essential
-- - studied
-  - these
-  - matters
 - - impressionable
   - without
   - having
-- - epitaph
-  - here
-  - lies
-- - just
-  - built
-  - er
+- - studied
+  - these
+  - matters
 - - er
   - something
   - along
+- - just
+  - built
+  - er
+- - epitaph
+  - here
+  - lies
 - - endless
   - night
   - yet
@@ -170,21 +170,21 @@ ngrams:
 - - constructing
   - roads
   - over
-- - here
-  - lies
-  - john
 - - roads
   - over
   - bogs
 - - after
   - blind
   - jack
-- - swan
-  - after
-  - blind
 - - industrial
   - revolution
   - such
+- - here
+  - lies
+  - john
+- - swan
+  - after
+  - blind
 - - over
   - bogs
   - using
@@ -194,108 +194,108 @@ ngrams:
 - - our
   - national
   - story
-- - rebellion
-  - reared
-  - her
-- - aspiring
-  - man
-  - nor
 - - blind
   - jack
   - did
-- - reared
-  - her
-  - giant
-- - hooting
-  - yard
-  - lexicon
+- - aspiring
+  - man
+  - nor
 - - really
   - did
   - exist
+- - along
+  - those
+  - lines
 - - mentioned
   - other
   - titans
 - - hooting
   - yard
-  - bookshelves
-- - pavlova
-  - named
-  - her
-- - along
-  - those
-  - lines
-- - teeming
-  - hooting
-  - yard
-- - her
-  - giant
-  - size
+  - lexicon
 - - then
   - welcome
   - danger
-- - named
+- - hooting
+  - yard
+  - bookshelves
+- - rebellion
+  - reared
   - her
-  - swan
+- - teeming
+  - hooting
+  - yard
 - - more
   - malign
   - figure
 - - feel
   - then
   - welcome
+- - reared
+  - her
+  - giant
+- - pavlova
+  - named
+  - her
+- - her
+  - giant
+  - size
+- - named
+  - her
+  - swan
 - - him
   - relentlessly
   - approaching
-- - given
-  - reader
-  - like
+- - am
+  - fairly
+  - sure
 - - something
   - along
   - those
+- - given
+  - reader
+  - like
 - - can
   - usually
   - lay
 - - yard
   - bookshelves
   - now
-- - am
-  - fairly
-  - sure
 - - night
   - yet
   - such
-- - get
-  - him
-  - mixed
-- - dressed
-  - just
-  - like
 - - reader
   - might
   - know
 - - much
   - more
   - malign
-- - her
-  - swan
-  - after
+- - get
+  - him
+  - mixed
+- - dressed
+  - just
+  - like
 - - when
   - rebellion
   - reared
-- - time
-  - being
-  - remain
 - - if
   - anna
   - pavlova
-- - thus
-  - grew
-  - up
+- - time
+  - being
+  - remain
 - - fully
   - expected
   - when
+- - thus
+  - grew
+  - up
 - - wonder
   - if
   - anna
+- - her
+  - swan
+  - after
 - - blind
   - jack
   - out
@@ -308,27 +308,27 @@ ngrams:
 - - each
   - other
   - over
-- - like
-  - him
-  - adore
 - - also
   - worked
   - out
-- - pictures
-  - told
-  - me
-- - reader
-  - like
-  - him
-- - reader
-  - like
-  - him
 - - blind
   - jack
   - would
+- - pictures
+  - told
+  - me
 - - jack
   - would
   - probably
+- - like
+  - him
+  - adore
+- - reader
+  - like
+  - him
+- - reader
+  - like
+  - him
 - - story
   - so
   - obviously
@@ -338,36 +338,36 @@ ngrams:
 - - saw
   - when
   - very
+- - knaresborough
+  - we
+  - might
+- - those
+  - lines
+  - they
 - - him
   - mixed
   - up
 - - own
   - devising
   - which
-- - those
-  - lines
-  - they
 - - bears
   - this
   - epitaph
 - - postpone
   - this
   - essay
-- - knaresborough
-  - we
-  - might
-- - an
-  - endless
-  - night
-- - one
-  - whose
-  - infant
 - - could
   - enlighten
   - me
-- - other
-  - over
-  - their
+- - one
+  - whose
+  - infant
+- - an
+  - endless
+  - night
+- - unable
+  - or
+  - unwilling
 story:
   date: 2012-05-30
   id: 2012-05-30-on-blind-jack-of-knaresborough

@@ -38,36 +38,36 @@ ngrams:
 - - jungle
   - demons
   - wearing
-- - th
-  - th
-  - th
 - - ocean
   - vargas
   - spent
 - - wrong
   - direction
   - bashed
-- - government
-  - canoe
-  - under
+- - th
+  - th
+  - th
 - - having
   - inexplicably
   - navigated
-- - dobson's
-  - remarkable
-  - pamphlet
-- - moons
-  - later
-  - entitled
+- - government
+  - canoe
+  - under
 - - vargas
   - felt
   - sure
 - - canoe
   - under
   - cover
-- - captain
+- - moons
+  - later
+  - entitled
+- - bellowing
   - vargas
-  - during
+  - himself
+- - dobson's
+  - remarkable
+  - pamphlet
 - - mind
   - captain
   - vargas
@@ -77,21 +77,21 @@ ngrams:
 - - large
   - important
   - building
-- - captain
-  - vargas
-  - got
-- - bellowing
-  - vargas
-  - himself
 - - government
   - canoe
   - came
-- - remarkable
-  - pamphlet
-  - written
+- - captain
+  - vargas
+  - during
+- - captain
+  - vargas
+  - got
 - - spacious
   - plaza
   - yet
+- - remarkable
+  - pamphlet
+  - written
 - - pencil
   - nor
   - notepad
@@ -104,21 +104,18 @@ ngrams:
 - - most
   - spacious
   - plaza
-- - capital
-  - city's
-  - most
 - - neither
   - pencil
   - nor
+- - capital
+  - city's
+  - most
 - - pretty
   - regularly
   - while
 - - actually
   - quite
   - difficult
-- - heavily
-  - sedated
-  - dobson
 - - sea
   - having
   - inexplicably
@@ -128,45 +125,51 @@ ngrams:
 - - too
   - vargas
   - heard
-- - dobson
-  - pretty
-  - regularly
+- - heavily
+  - sedated
+  - dobson
 - - government
   - canoeist
   - after
 - - open
   - sea
   - having
-- - concluded
-  - dobson
-  - knew
-- - captain
-  - concluded
-  - dobson
+- - dobson
+  - pretty
+  - regularly
 - - written
   - many
   - moons
 - - may
   - nd
   - reported
-- - interrogation
-  - room
-  - dobson
 - - abandoned
   - estancia
+  - where
+- - captain
+  - concluded
+  - dobson
+- - concluded
+  - dobson
+  - knew
+- - capital
+  - city
   - where
 - - many
   - moons
   - later
-- - capital
-  - city
-  - where
+- - interrogation
+  - room
+  - dobson
 - - wring
   - any
   - sense
 - - pamphlet
   - written
   - many
+- - vargas
+  - could
+  - glean
 - - yet
   - dobson
   - defied
@@ -176,15 +179,12 @@ ngrams:
 - - dobson
   - knew
   - nothing
-- - vargas
-  - could
-  - glean
-- - head
-  - while
-  - hiding
 - - closely
   - rather
   - than
+- - head
+  - while
+  - hiding
 - - those
   - two
   - weeks
@@ -197,87 +197,87 @@ ngrams:
 - - pity
   - 'no'
   - record
-- - th
-  - each
-  - time
 - - its
   - many
   - cubbies
+- - th
+  - each
+  - time
 - - eventually
   - ended
   - up
 - - 'no'
   - sense
   - whatsoever
-- - demoting
-  - him
-  - too
-- - him
-  - too
-  - vargas
-- - few
-  - families
-  - who
 - - makes
   - 'no'
   - sense
+- - demoting
+  - him
+  - too
+- - few
+  - families
+  - who
+- - him
+  - too
+  - vargas
 - - interrogator
   - were
   - hoisted
-- - heavily
-  - sedated
-  - out
-- - dobson
-  - defied
-  - him
 - - rather
   - than
   - just
+- - heavily
+  - sedated
+  - out
 - - vargas
   - wondered
   - if
-- - final
-  - visit
-  - when
 - - even
   - more
   - hallucinatory
+- - final
+  - visit
+  - when
 - - prose
   - even
   - more
-- - drift
-  - away
-  - into
+- - dobson
+  - defied
+  - him
 - - got
   - nothing
   - out
-- - dobson
-  - got
-  - up
-- - later
-  - entitled
-  - all
+- - drift
+  - away
+  - into
 - - questioned
   - him
   - more
+- - later
+  - entitled
+  - all
 - - him
   - more
   - closely
+- - so
+  - vargas
+  - felt
+- - dobson
+  - got
+  - up
 - - spirits
   - which
   - haunt
 - - government
   - canoe
   - which
-- - evil
-  - spirits
-  - which
 - - were
   - many
   - bats
-- - so
-  - vargas
-  - felt
+- - evil
+  - spirits
+  - which
 - - what
   - dobson
   - got
@@ -296,33 +296,33 @@ ngrams:
 - - least
   - 'no'
   - more
-- - pamphlet
-  - an
-  - anecdote
 - - only
   - clue
   - we
 - - this
   - nocturnal
   - river
-- - successor
-  - had
-  - bonked
+- - pamphlet
+  - an
+  - anecdote
 - - late
   - pamphlet
   - an
 - - all
   - vargas
   - could
-- - had
-  - signally
-  - failed
 - - print
   - unfortunately
   - this
-- - pamphleteer
+- - successor
   - had
-  - shown
+  - bonked
+- - had
+  - signally
+  - failed
+- - government
+  - canoeist
+  - or
 story:
   date: 2009-10-12
   id: 2009-10-12-government-canoe

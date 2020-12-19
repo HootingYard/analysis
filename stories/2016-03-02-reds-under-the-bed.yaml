@@ -17,24 +17,24 @@ ngrams:
 - - capitalist
   - united
   - states
-- - pseudonymous
-  - agent
-  - x
 - - alger
   - hiss
   - unleashed
 - - east
   - coast
   - mandarin
-- - american
-  - midwest
-  - solid
 - - numerous
   - contemporary
   - accounts
 - - alger
   - hiss
   - ignored
+- - pseudonymous
+  - agent
+  - x
+- - american
+  - midwest
+  - solid
 - - hiss
   - alger
   - hiss
@@ -44,12 +44,12 @@ ngrams:
 - - local
   - fbi
   - agent
-- - coast
-  - mandarin
-  - i'm
 - - terrible
   - distraction
   - classic
+- - coast
+  - mandarin
+  - i'm
 - - state
   - department
   - diplomat
@@ -74,40 +74,40 @@ ngrams:
 - - important
   - state
   - department
-- - rustling
-  - noise
-  - under
 - - communists
   - hiding
   - under
 - - communists
   - hiding
   - under
-- - hiding
-  - under
-  - beds
-- - hiding
-  - under
-  - beds
 - - point
   - alger
   - hiss
-- - found
-  - communists
-  - hiding
+- - hiding
+  - under
+  - beds
+- - hiding
+  - under
+  - beds
+- - rustling
+  - noise
+  - under
 - - introduce
   - myself
   - hiss
 - - myself
   - hiss
   - alger
+- - found
+  - communists
+  - hiding
 - - great
   - proletarian
   - revolution
-- - doing
+- - s
   - hiding
   - under
-- - s
+- - doing
   - hiding
   - under
 - - bed
@@ -134,33 +134,33 @@ ngrams:
 - - s
   - people
   - often
-- - many
-  - similar
-  - accounts
 - - rollicking
   - good
   - read
+- - many
+  - similar
+  - accounts
+- - well
+  - worth
+  - reading
 - - upside
   - down
   - shone
 - - question
   - how
   - useful
-- - well
-  - worth
-  - reading
-- - people
-  - often
-  - found
 - - far
   - too
   - tired
-- - leaned
-  - right
-  - over
+- - people
+  - often
+  - found
 - - hiss
   - unleashed
   - upon
+- - leaned
+  - right
+  - over
 - - lay
   - down
   - instead
@@ -176,12 +176,12 @@ ngrams:
 - - last
   - week
   - just
-- - just
-  - after
-  - turning
 - - pamphlet
   - rather
   - than
+- - just
+  - after
+  - turning
 - - said
   - well
   - it's
@@ -203,9 +203,6 @@ ngrams:
 - - happy
   - days
   - some
-- - your
-  - bedside
-  - table
 - - haven't
   - explained
   - what
@@ -215,15 +212,18 @@ ngrams:
 - - themselves
   - explaining
   - what
+- - your
+  - bedside
+  - table
 - - under
   - their
   - beds
-- - hiding
-  - under
-  - their
 - - troubled
   - sleep
   - when
+- - hiding
+  - under
+  - their
 - - promptly
   - fell
   - into
@@ -233,39 +233,39 @@ ngrams:
 - - soviet
   - empire
   - there
-- - up
-  - later
-  - perhaps
 - - more
   - welcome
   - then
 - - historical
   - record
   - there
+- - up
+  - later
+  - perhaps
 - - analysis
   - although
   - we
 - - word
   - got
   - out
-- - under
-  - beds
-  - all
 - - got
   - out
   - among
+- - under
+  - beds
+  - all
 - - these
   - sleepers
   - were
-- - are
-  - numerous
-  - contemporary
 - - mandarin
   - i'm
   - so
 - - i'm
   - so
   - sorry
+- - are
+  - numerous
+  - contemporary
 - - bedside
   - table
   - which

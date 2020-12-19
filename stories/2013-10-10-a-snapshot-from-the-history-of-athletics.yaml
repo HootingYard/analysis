@@ -11,21 +11,21 @@ ngrams:
 - - capital
   - letters
   - annotated
-- - iron
-  - vest
-  - twice
 - - double
   - marathon
   - wearing
+- - iron
+  - vest
+  - twice
 - - smoked
   - four
   - packets
-- - quack
-  - brain
-  - doctor
 - - great
   - sprint
   - champions
+- - quack
+  - brain
+  - doctor
 - - rolling
   - tobacco
   - every
@@ -50,9 +50,15 @@ ngrams:
 - - very
   - great
   - sprinter
+- - am
+  - somewhat
+  - alarmed
 - - day
   - dressed
   - always
+- - rather
+  - than
+  - alongside
 - - even
   - three
   - stars
@@ -65,12 +71,6 @@ ngrams:
 - - tobacco
   - every
   - day
-- - rather
-  - than
-  - alongside
-- - am
-  - somewhat
-  - alarmed
 - - every
   - day
   - dressed
@@ -113,27 +113,27 @@ ngrams:
 - - an
   - express
   - train
-- - an
-  - iron
-  - vest
 - - run
   - an
   - uphill
 - - marathon
   - wearing
   - an
+- - an
+  - iron
+  - vest
 - - tivol
   - run
   - an
 - - wearing
   - an
   - iron
-- - were
-  - 'no'
-  - trains
 - - trains
   - express
   - or
+- - were
+  - 'no'
+  - trains
 - - express
   - or
   - otherwise
@@ -146,9 +146,9 @@ ngrams:
 - - could
   - outrun
   - an
-- - three
-  - stars
-  - at
+- - have
+  - succeeded
+  - without
 story:
   date: 2013-10-10
   id: 2013-10-10-a-snapshot-from-the-history-of-athletics

@@ -14,18 +14,18 @@ ngrams:
 - - continues
   - until
   - midnight
-- - machine
-  - continues
-  - until
-- - today
-  - between
-  - noon
-- - resonance
-  - today
-  - between
 - - weekend
   - marathon
   - mr
+- - today
+  - between
+  - noon
+- - machine
+  - continues
+  - until
+- - resonance
+  - today
+  - between
 - - marathon
   - mr
   - key

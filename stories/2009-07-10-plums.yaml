@@ -1,37 +1,34 @@
 ngrams:
-- - edgar
-  - allan
-  - poe
-- - vermilion
-  - plasticine
-  - blobs
-- - newsagent
-  - hazardous
-  - chemical
 - - imminent
   - hailstorm
   - unaccountably
+- - newsagent
+  - hazardous
+  - chemical
+- - vermilion
+  - plasticine
+  - blobs
 - - reinforced
   - hardboard
   - hammered
+- - edgar
+  - allan
+  - poe
 - - improbably
   - numerous
   - herd
 - - unnervingly
   - cheery
   - tone
-- - museum
-  - o'
-  - whisks
+- - emergency
+  - snack
+  - solutions
 - - ono
   - boulevard
   - skirting
 - - prog
   - rock
   - fanzines
-- - emergency
-  - snack
-  - solutions
 - - battered
   - wire
   - slots
@@ -41,78 +38,84 @@ ngrams:
 - - hazardous
   - chemical
   - waste
-- - yoko
-  - ono
-  - boulevard
 - - rock
   - fanzines
   - alongside
+- - yoko
+  - ono
+  - boulevard
 - - fairly
   - regular
   - customer
-- - ma
-  - purgative
-  - gawped
-- - ian
-  - anderson
-  - playing
 - - world's
   - finest
   - plum
-- - dubbed
-  - notes
-  - pursuant
-- - stand
-  - mostly
-  - publications
-- - ma
-  - purgative
-  - farewell
+- - ian
+  - anderson
+  - playing
 - - mystery
   - shopper
   - snapped
+- - ma
+  - purgative
+  - gawped
 - - chemical
   - waste
   - compound
+- - stand
+  - mostly
+  - publications
+- - dubbed
+  - notes
+  - pursuant
+- - ma
+  - purgative
+  - farewell
 - - dying
   - man's
   - straw
-- - science
-  - fiction
-  - enthusiasts
-- - corrugated
-  - iron
-  - roof
+- - museum
+  - o'
+  - whisks
 - - propagate
   - plum
   - trees
-- - teenage
-  - science
+- - science
   - fiction
+  - enthusiasts
 - - crossing
   - sawdust
   - bridge
-- - mistress
-  - p
-  - cried
-- - entire
-  - afternoons
-  - peering
 - - fruity
   - orchard
   - nature
-- - large
-  - rectangular
-  - panels
+- - entire
+  - afternoons
+  - peering
+- - teenage
+  - science
+  - fiction
+- - mistress
+  - p
+  - cried
+- - corrugated
+  - iron
+  - roof
 - - spend
   - entire
   - afternoons
-- - ceased
-  - publication
-  - seven
+- - large
+  - rectangular
+  - panels
 - - reply
   - merely
   - casting
+- - ceased
+  - publication
+  - seven
+- - finest
+  - plum
+  - library
 - - rack
   - various
   - titles
@@ -122,45 +125,39 @@ ngrams:
 - - radio
   - serial
   - pie
-- - finest
-  - plum
-  - library
 - - weekly
   - magazine
   - packed
-- - pang
-  - hill
-  - orphanage
-- - serial
-  - pie
-  - shop
 - - lovely
   - lane
   - lined
+- - serial
+  - pie
+  - shop
+- - pang
+  - hill
+  - orphanage
+- - affairs
+  - whenever
+  - anything
 - - wooden
   - household
   - crow
 - - magazine
   - rack
   - various
-- - affairs
-  - whenever
-  - anything
-- - deep
-  - space
-  - nine
 - - whenever
   - anything
   - changed
+- - deep
+  - space
+  - nine
 - - ma
   - purgative
   - kept
 - - erect
   - bird
   - scarifiers
-- - o'
-  - whisks
-  - past
 - - plum
   - plan
   - simply
@@ -170,63 +167,66 @@ ngrams:
 - - goat
   - passed
   - slowly
-- - gaudy
-  - doorway
-  - however
-- - dobsons
-  - marigold
-  - chew
-- - toadflax
-  - marigold
-  - chew
 - - goats
   - clacked
   - past
-- - whisks
-  - past
-  - pang
-- - household
-  - crow
-  - god
-- - shop
-  - deep
-  - space
-- - bee
-  - sanctuary
-  - past
-- - big
-  - fat
-  - nails
+- - gaudy
+  - doorway
+  - however
 - - lost
   - whatever
   - marbles
+- - whisks
+  - past
+  - pang
+- - shop
+  - deep
+  - space
+- - household
+  - crow
+  - god
+- - bee
+  - sanctuary
+  - past
+- - o'
+  - whisks
+  - past
 - - bailiwick
   - however
   - slightly
-- - excursions
-  - six
-  - hours
+- - big
+  - fat
+  - nails
 - - canal
   - towpath
   - past
-- - half
-  - pound
-  - bag
+- - toadflax
+  - marigold
+  - chew
+- - dobsons
+  - marigold
+  - chew
 - - familiar
   - bailiwick
   - however
 - - disgusting
   - pit
   - past
+- - excursions
+  - six
+  - hours
 - - past
   - large
   - imponderables
-- - past
-  - pang
-  - hill
+- - half
+  - pound
+  - bag
 - - across
   - yoko
   - ono
+- - past
+  - pang
+  - hill
 - - anything
   - changed
   - within
@@ -236,27 +236,24 @@ ngrams:
 - - trudged
   - home
   - taking
-- - pit
-  - past
-  - large
 - - until
   - crossing
   - sawdust
-- - goat
-  - world
-  - briefly
-- - simply
-  - because
-  - unbeknownst
+- - pit
+  - past
+  - large
 - - different
   - route
   - along
+- - simply
+  - because
+  - unbeknownst
+- - goat
+  - world
+  - briefly
 - - ago
   - lost
   - whatever
-- - emit
-  - little
-  - cries
 - - flute
   - while
   - standing
@@ -269,309 +266,315 @@ ngrams:
 - - plan
   - simply
   - because
-- - six
-  - hours
-  - later
-- - pinging
-  - hailstones
-  - dobson
-- - shine
-  - sprinting
-  - 'off'
-- - most
-  - excellent
-  - magazine
-- - hailstones
-  - dobson
-  - scampered
-- - old
-  - ma
-  - purgative
-- - old
-  - ma
-  - purgative
-- - old
-  - ma
-  - purgative
-- - old
-  - ma
-  - purgative
-- - bidding
-  - old
-  - ma
-- - hailstorm
-  - ceased
-  - dobson
-- - ignored
-  - old
-  - ma
+- - emit
+  - little
+  - cries
 - - shoved
   - none
   - too
-- - dobson
-  - drastic
-  - activity
-- - porch
-  - dobson
-  - entered
+- - most
+  - excellent
+  - magazine
+- - shine
+  - sprinting
+  - 'off'
+- - six
+  - hours
+  - later
+- - bidding
+  - old
+  - ma
+- - old
+  - ma
+  - purgative
+- - old
+  - ma
+  - purgative
+- - old
+  - ma
+  - purgative
+- - old
+  - ma
+  - purgative
 - - wait
   - while
   - goat
-- - regular
-  - customer
-  - dobson
-- - ceased
-  - dobson
-  - trudged
+- - ignored
+  - old
+  - ma
 - - orchard
   - nature
   - old
 - - rummaging
   - fruitlessly
   - through
-- - reached
-  - old
-  - ma
 - - shopper
   - snapped
   - back
-- - four
-  - last
-  - songs
-- - project
-  - dobson
-  - pressed
-- - plum
-  - project
-  - dobson
 - - entirely
   - new
   - type
+- - reached
+  - old
+  - ma
+- - pinging
+  - hailstones
+  - dobson
 - - publication
   - seven
   - years
+- - hailstones
+  - dobson
+  - scampered
 - - nature
   - old
   - ma
-- - p
-  - cried
+- - hailstorm
+  - ceased
   - dobson
 - - very
   - flimsy
   - grasp
+- - four
+  - last
+  - songs
 - - dobson
-  - became
-  - fixated
-- - cow
-  - excursion
+  - drastic
+  - activity
+- - porch
   - dobson
-- - dobson
-  - human
-  - weakness
+  - entered
+- - ceased
+  - dobson
+  - trudged
+- - regular
+  - customer
+  - dobson
 - - disinfectant
   - goo
   - before
 - - goo
   - before
   - bidding
+- - project
+  - dobson
+  - pressed
+- - sewage
+  - plant
+  - over
+- - plum
+  - project
+  - dobson
+- - bed
+  - every
+  - morning
 - - past
   - two
   - brooks
 - - grubbiness
   - past
   - two
-- - bed
-  - every
-  - morning
 - - plum
   - named
   - after
 - - plum
   - named
   - after
-- - sewage
-  - plant
-  - over
+- - p
+  - cried
+  - dobson
 - - seen
   - these
   - shenanigans
-- - late
-  - s
+- - cow
+  - excursion
   - dobson
 - - required
   - after
   - breakfast
-- - called
-  - dobson
-  - drastic
+- - dobson
+  - became
+  - fixated
 - - after
   - breakfast
   - putting
+- - dobson
+  - human
+  - weakness
 - - long
   - ago
   - lost
-- - s
-  - dobson
-  - became
-- - goat
-  - after
-  - goat
-- - goat
-  - after
-  - goat
-- - goat
-  - after
-  - goat
-- - goat
-  - after
-  - goat
-- - pamphleteer
-  - knew
-  - little
-- - however
-  - slightly
-  - dobson
-- - after
-  - goat
-  - passed
-- - fiction
-  - enthusiasts
-  - such
 - - hail
   - such
   - teeming
 - - such
   - teeming
   - hail
-- - plum
-  - called
-  - dobson
-- - plum
-  - called
-  - dobson
-- - dobson
-  - trudged
-  - home
-- - like
-  - edgar
-  - allan
-- - seven
-  - years
-  - ago
+- - fiction
+  - enthusiasts
+  - such
+- - goat
+  - after
+  - goat
+- - goat
+  - after
+  - goat
+- - goat
+  - after
+  - goat
+- - goat
+  - after
+  - goat
 - - grown
   - any
   - fruit
-- - sat
-  - straight
-  - down
-- - its
-  - gaudy
-  - doorway
-- - now
-  - mistress
-  - p
-- - both
-  - these
-  - questions
-- - called
+- - after
+  - goat
+  - passed
+- - late
+  - s
   - dobson
-  - human
-- - its
-  - corrugated
-  - iron
+- - seven
+  - years
+  - ago
+- - pamphleteer
+  - knew
+  - little
 - - compositor
   - might
   - look
-- - skip
-  - her
-  - burning
-- - her
-  - burning
-  - desire
-- - marigold
-  - chew
-  - said
-- - marigold
-  - chew
-  - over
-- - merely
-  - casting
-  - her
-- - whatever
-  - marbles
-  - her
-- - chew
-  - over
-  - breakfast
-- - our
-  - pamphleteer
-  - knew
+- - its
+  - gaudy
+  - doorway
+- - s
+  - dobson
+  - became
+- - both
+  - these
+  - questions
+- - however
+  - slightly
+  - dobson
+- - like
+  - edgar
+  - allan
+- - sat
+  - straight
+  - down
+- - called
+  - dobson
+  - drastic
+- - now
+  - mistress
+  - p
+- - dobson
+  - trudged
+  - home
+- - plum
+  - called
+  - dobson
+- - plum
+  - called
+  - dobson
+- - its
+  - corrugated
+  - iron
 - - more
   - benighted
   - regions
-- - her
-  - voice
-  - curdled
-- - casting
-  - her
-  - eye
+- - chew
+  - over
+  - breakfast
+- - marigold
+  - chew
+  - over
 - - briefly
   - then
   - goats
+- - marigold
+  - chew
+  - said
+- - our
+  - pamphleteer
+  - knew
+- - called
+  - dobson
+  - human
+- - skip
+  - her
+  - burning
 - - chew
   - said
   - nothing
-- - marbles
-  - her
-  - god
-- - finnish
-  - landrace
-  - some
-- - years
-  - ago
-  - around
-- - little
-  - cries
-  - just
-- - over
-  - breakfast
-  - going
-- - dobson
-  - entered
-  - how
-- - ate
-  - some
-  - curds
 - - without
   - any
   - sign
+- - over
+  - breakfast
+  - going
+- - merely
+  - casting
+  - her
+- - her
+  - burning
+  - desire
+- - whatever
+  - marbles
+  - her
+- - years
+  - ago
+  - around
 - - while
   - goat
   - after
+- - finnish
+  - landrace
+  - some
+- - her
+  - voice
+  - curdled
+- - little
+  - cries
+  - just
+- - casting
+  - her
+  - eye
 - - before
   - bidding
   - old
-- - proprietress
-  - both
-  - her
+- - ate
+  - some
+  - curds
 - - these
   - shenanigans
   - before
+- - marbles
+  - her
+  - god
+- - dobson
+  - entered
+  - how
 - - supervising
   - some
   - cows
 - - very
   - first
   - step
-- - day
-  - years
-  - hence
 - - naught
   - then
   - came
-- - both
+- - proprietress
+  - both
   - her
-  - face
+- - day
+  - years
+  - hence
+- - never
+  - grown
+  - any
+- - world
+  - briefly
+  - then
 - - after
   - goat
   - after
@@ -584,21 +587,33 @@ ngrams:
 - - air
   - said
   - something
-- - excursion
-  - dobson
-  - did
-- - world
-  - briefly
-  - then
-- - never
-  - grown
-  - any
 - - nails
   - 'no'
   - signage
+- - 'no'
+  - mystery
+  - shopper
+- - fat
+  - nails
+  - 'no'
 - - how
   - now
   - mistress
+- - excursion
+  - dobson
+  - did
+- - entered
+  - how
+  - now
+- - boarded
+  - up
+  - covered
+- - both
+  - her
+  - face
+- - eye
+  - over
+  - dobson
 story:
   date: 2009-07-10
   id: 2009-07-10-plums

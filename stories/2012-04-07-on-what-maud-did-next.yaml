@@ -2,15 +2,15 @@ ngrams:
 - - inventor
   - laszlo
   - biro
+- - rouse
+  - baines
+  - baines
 - - pen
   - inventor
   - laszlo
 - - ballpoint
   - pen
   - inventor
-- - rouse
-  - baines
-  - baines
 - - somerset
   - england
   - situated
@@ -20,39 +20,39 @@ ngrams:
 - - dreamed
   - vivid
   - unsettling
-- - yellow
-  - silk
-  - necktie
 - - mistress
   - leaving
   - smudges
+- - yellow
+  - silk
+  - necktie
+- - earlier
+  - opium
+  - daze
+- - medium
+  - height
+  - thin
 - - grey
   - whiskers
   - thick
 - - whiskers
   - thick
   - grey
-- - medium
-  - height
-  - thin
-- - earlier
-  - opium
-  - daze
-- - hair
-  - bushy
-  - eyebrows
 - - dream
   - vision
   - fled
+- - hair
+  - bushy
+  - eyebrows
+- - delicate
+  - matter
+  - madam
 - - grey
   - hair
   - bushy
 - - deep
   - hollow
   - below
-- - delicate
-  - matter
-  - madam
 - - five
   - miles
   - west
@@ -77,27 +77,21 @@ ngrams:
 - - baines
   - having
   - glugged
-- - whose
-  - dearest
-  - wish
-- - mouth
-  - strangely
-  - enough
 - - having
   - glugged
   - twice
 - - lost
   - forever
   - due
+- - mouth
+  - strangely
+  - enough
+- - whose
+  - dearest
+  - wish
 - - devoted
   - baines
   - having
-- - door
-  - readers
-  - alert
-- - last
-  - remembered
-  - fragments
 - - slovenly
   - yet
   - devoted
@@ -107,15 +101,21 @@ ngrams:
 - - yet
   - devoted
   - baines
+- - door
+  - readers
+  - alert
+- - last
+  - remembered
+  - fragments
 - - went
   - staggering
   - along
-- - hours
-  - having
-  - passed
 - - naturally
   - never
   - divulged
+- - hours
+  - having
+  - passed
 - - few
   - paces
   - shall
@@ -125,144 +125,144 @@ ngrams:
 - - rise
   - baines
   - said
-- - breath
-  - every
-  - few
 - - may
   - rise
   - baines
 - - than
   - exhaustion
   - adding
+- - breath
+  - every
+  - few
 - - us
   - hello
   - having
 - - matter
   - madam
   - said
-- - opium
-  - daze
-  - she
-- - her
-  - opium
-  - daze
-- - madam
-  - her
-  - invigorating
-- - baines
-  - her
-  - slovenly
-- - daze
-  - she
-  - dragged
-- - summon
-  - baines
-  - her
-- - she
-  - dreamed
-  - vivid
-- - her
-  - doorstep
-  - caused
-- - her
-  - inner
-  - sanctum
-- - her
-  - mistress
-  - leaving
-- - getting
-  - madam
-  - her
-- - catch
-  - her
-  - breath
-- - she
-  - dragged
-  - herself
-- - herself
-  - she
-  - opened
-- - persons
-  - she
-  - supposed
 - - victorian
   - hysteric
   - could
-- - her
-  - dream
-  - vision
-- - eventually
-  - she
-  - toppled
 - - devising
   - more
   - akin
+- - opium
+  - daze
+  - she
 - - good
   - day
   - madam
-- - cold
-  - water
-  - over
+- - her
+  - opium
+  - daze
+- - daze
+  - she
+  - dragged
+- - madam
+  - her
+  - invigorating
+- - she
+  - dreamed
+  - vivid
+- - baines
+  - her
+  - slovenly
 - - subservience
   - rather
   - than
 - - clunked
   - rather
   - than
+- - cold
+  - water
+  - over
 - - rather
   - than
   - rang
 - - rather
   - than
   - exhaustion
+- - summon
+  - baines
+  - her
+- - her
+  - doorstep
+  - caused
+- - her
+  - inner
+  - sanctum
+- - she
+  - dragged
+  - herself
+- - getting
+  - madam
+  - her
+- - her
+  - mistress
+  - leaving
+- - catch
+  - her
+  - breath
+- - persons
+  - she
+  - supposed
+- - herself
+  - she
+  - opened
+- - eventually
+  - she
+  - toppled
+- - her
+  - dream
+  - vision
 - - retained
   - some
   - vague
+- - doorstep
+  - caused
+  - him
 - - her
   - effusions
   - however
 - - door
   - herself
   - she
-- - doorstep
-  - caused
-  - him
 - - later
   - she
   - returned
-- - her
-  - own
+- - own
   - devising
+  - more
+- - forever
+  - lost
+  - some
 - - her
   - slovenly
   - yet
 - - her
-  - breath
-  - every
+  - own
+  - devising
 - - she
   - still
   - retained
-- - forever
-  - lost
-  - some
-- - own
-  - devising
-  - more
-- - passed
-  - away
-  - like
+- - her
+  - breath
+  - every
 - - lost
   - some
   - hours
-- - still
-  - retained
-  - some
+- - passed
+  - away
+  - like
 - - cards
   - what
   - devilry
 - - tarot
   - cards
   - what
+- - still
+  - retained
+  - some
 - - 'no'
   - small
   - surprise
@@ -272,60 +272,57 @@ ngrams:
 - - some
   - hours
   - having
+- - were
+  - tarot
+  - cards
+- - baines
+  - when
+  - eventually
+- - ever
+  - encountered
+  - him
 - - down
   - her
   - effusions
+- - biro
+  - than
+  - she
 - - madam
   - said
   - her
 - - said
   - her
   - visitor
-- - were
-  - tarot
-  - cards
-- - ever
-  - encountered
-  - him
-- - biro
-  - than
-  - she
-- - her
-  - biro
-  - than
 - - where
   - she
   - collapsed
-- - where
-  - she
-  - stopped
-- - wall
-  - where
-  - she
+- - her
+  - biro
+  - than
 - - your
   - business
   - asked
+- - where
+  - she
+  - stopped
 - - though
   - she
   - still
-- - baines
-  - when
-  - eventually
-- - write
-  - down
-  - her
-- - yet
-  - been
-  - introduced
-- - were
-  - lost
-  - forever
+- - wall
+  - where
+  - she
 - - asked
   - baines
   - when
-- - do
+- - were
+  - lost
+  - forever
+- - yet
+  - been
+  - introduced
+- - write
+  - down
   - her
-  - devotions
 - - biro
   - surely
   - they
@@ -335,18 +332,21 @@ ngrams:
 - - 'no'
   - human
   - being
+- - do
+  - her
+  - devotions
 - - door
   - when
   - later
-- - inquiring
-  - features
-  - which
-- - fountain
-  - pen
-  - which
 - - visionary
   - dreams
   - so
+- - dreams
+  - so
+  - vivid
+- - inquiring
+  - features
+  - which
 story:
   date: 2012-04-07
   id: 2012-04-07-on-what-maud-did-next

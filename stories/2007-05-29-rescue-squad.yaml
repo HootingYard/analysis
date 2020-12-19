@@ -8,9 +8,6 @@ ngrams:
 - - contemporary
   - item
   - pleading
-- - hysteria
-  - unanswered
-  - metal
 - - demand
   - research
   - prodigious
@@ -20,27 +17,30 @@ ngrams:
 - - tapping
   - machine
   - messages
-- - unanswered
+- - hysteria
+  - unanswered
   - metal
-  - tapping
 - - suburban
   - warehouses
   - bus
+- - unanswered
+  - metal
+  - tapping
 - - warehouses
   - bus
   - ticket
 - - unfathomable
   - reason
   - wishes
-- - metal
-  - tapping
-  - machine
 - - research
   - prodigious
   - research
 - - remain
   - anonymous
   - sent
+- - metal
+  - tapping
+  - machine
 - - exciting
   - picture
   - dear
@@ -59,18 +59,18 @@ ngrams:
 - - picture
   - dear
   - mr
-- - very
-  - exciting
-  - picture
 - - dear
   - mr
   - key
-- - these
-  - things
-  - demand
 - - mr
   - key
   - wrote
+- - very
+  - exciting
+  - picture
+- - these
+  - things
+  - demand
 story:
   date: 2007-05-29
   id: 2007-05-29-rescue-squad

@@ -1,10 +1,10 @@
 ngrams:
-- - man's
-  - manifold
-  - robots
 - - corrosive
   - chemical
   - compound
+- - man's
+  - manifold
+  - robots
 - - abandoned
   - quarry
   - pecked
@@ -32,12 +32,12 @@ ngrams:
 - - man
   - clearly
   - understood
-- - hairy
-  - man
-  - clearly
 - - robot's
   - innards
   - than
+- - hairy
+  - man
+  - clearly
 - - foolish
   - man
   - nor
@@ -50,15 +50,15 @@ ngrams:
 - - janitor
   - could
   - stop
-- - foolish
-  - man
-  - made
 - - hairy
   - its
   - brain
 - - rebellious
   - curmudgeon
   - who
+- - foolish
+  - man
+  - made
 - - curmudgeon
   - who
   - spat
@@ -68,33 +68,33 @@ ngrams:
 - - making
   - him
   - drop
-- - has
-  - destroyed
-  - itself
 - - confess
   - their
   - ineptitude
-- - ended
-  - up
-  - tethered
 - - robot
   - their
   - robot
+- - has
+  - destroyed
+  - itself
+- - ended
+  - up
+  - tethered
 - - their
   - robot
   - scattered
 - - hidden
   - them
   - days
-- - foolish
-  - man
-  - could
 - - eye
   - could
   - see
 - - clearly
   - understood
   - what
+- - foolish
+  - man
+  - could
 - - 'no'
   - credit
   - both
@@ -107,54 +107,54 @@ ngrams:
 - - seen
   - what
   - happened
+- - hairiness
+  - would
+  - match
 - - man
   - 'no'
   - credit
 - - hairy
   - man
   - 'no'
-- - hairiness
-  - would
-  - match
 - - door
   - they
   - snapped
-- - ran
-  - away
-  - into
-- - coddington
-  - lenses
-  - which
-- - stop
-  - them
-  - now
 - - lab
   - so
   - terrified
+- - ran
+  - away
+  - into
+- - stop
+  - them
+  - now
 - - scavenger
   - birds
   - there
-- - corrugated
-  - cardboard
+- - coddington
+  - lenses
   - which
 - - could
   - stop
   - them
+- - corrugated
+  - cardboard
+  - which
+- - law
+  - even
+  - when
 - - they
   - ran
   - away
 - - saw
   - what
   - only
-- - law
-  - even
-  - when
-- - sink
-  - under
-  - which
 - - an
   - exact
   - replica
+- - sink
+  - under
+  - which
 - - question
   - ever
   - they
@@ -170,42 +170,39 @@ ngrams:
 - - innards
   - than
   - they
-- - had
-  - absolute
-  - trust
 - - its
   - hairiness
   - would
+- - had
+  - absolute
+  - trust
 - - took
   - one
   - glance
-- - had
-  - already
-  - prepared
 - - haplessness
   - about
   - their
-- - were
-  - 'no'
-  - nearer
 - - about
   - their
   - mucking
 - - their
   - mucking
   - about
+- - were
+  - 'no'
+  - nearer
+- - had
+  - already
+  - prepared
 - - lenses
   - which
   - did
-- - an
-  - hairy
-  - man
+- - its
+  - brain
+  - would
 - - mopping
   - up
   - will
-- - an
-  - foolish
-  - man
 - - would
   - pelt
   - him
@@ -215,15 +212,18 @@ ngrams:
 - - up
   - will
   - begin
-- - its
-  - brain
-  - would
+- - an
+  - hairy
+  - man
+- - an
+  - foolish
+  - man
 - - were
   - mucking
   - about
-- - an
-  - hour
-  - before
+- - report
+  - there
+  - has
 story:
   date: 2009-08-05
   id: 2009-08-05-in-the-lab-at-midnight

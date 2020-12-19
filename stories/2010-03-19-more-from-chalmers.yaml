@@ -32,12 +32,12 @@ ngrams:
 - - sojourn
   - amongst
   - us
-- - also
-  - look
-  - abroad
 - - these
   - peculiar
   - attentions
+- - also
+  - look
+  - abroad
 - - peculiar
   - attentions
   - how
@@ -83,12 +83,6 @@ ngrams:
 - - also
   - shoot
   - them
-- - left
-  - him
-  - room
-- - him
-  - room
-  - enough
 - - modern
   - astronomy
   - what
@@ -98,6 +92,12 @@ ngrams:
 - - looked
   - back
   - upon
+- - him
+  - room
+  - enough
+- - left
+  - him
+  - room
 - - rests
   - carry
   - out
@@ -113,45 +113,42 @@ ngrams:
 - - revelation
   - we
   - feel
-- - ephemeral
-  - transactions
-  - which
 - - so
   - sublimely
   - abroad
+- - ephemeral
+  - transactions
+  - which
 - - transactions
   - which
   - crowd
 - - futurity
   - which
   - lies
+- - who
+  - can
+  - shoot
 - - which
   - lies
   - beyond
 - - field
   - which
   - lies
-- - who
-  - can
-  - shoot
 - - which
   - elapses
   - between
-- - however
-  - short
-  - which
+- - than
+  - any
+  - time
 - - an
   - earthly
   - monarch
 - - an
   - infinitely
   - smaller
-- - than
-  - any
-  - time
-- - has
-  - left
-  - him
+- - however
+  - short
+  - which
 - - gathered
   - an
   - argument
@@ -164,42 +161,45 @@ ngrams:
 - - this
   - narrow
   - corner
+- - has
+  - left
+  - him
 - - an
   - argument
   - against
-- - half
-  - an
-  - eye
 - - this
   - wondrous
   - history
 - - this
   - world's
   - history
+- - half
+  - an
+  - eye
 - - majestic
   - prose
   - this
-- - man
-  - who
-  - can
 - - this
   - solitary
   - world
-- - can
-  - we
-  - gather
 - - pieces
   - or
   - stamp
+- - man
+  - who
+  - can
+- - can
+  - we
+  - gather
+- - we
+  - may
+  - think
 - - from
   - thomas
   - chalmers
 - - time
   - which
   - elapses
-- - we
-  - may
-  - think
 story:
   date: 2010-03-19
   id: 2010-03-19-more-from-chalmers

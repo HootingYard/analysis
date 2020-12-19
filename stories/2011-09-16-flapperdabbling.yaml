@@ -1,7 +1,4 @@
 ngrams:
-- - rod
-  - steiger
-  - '-'
 - - starring
   - rod
   - steiger
@@ -11,15 +8,18 @@ ngrams:
 - - ray
   - bradbury
   - wrote
+- - rod
+  - steiger
+  - '-'
 - - good
   - stead
   - alas
-- - short
-  - stories
-  - called
 - - illustrator
   - mr
   - steiger
+- - short
+  - stories
+  - called
 - - different
   - work
   - based
@@ -44,15 +44,15 @@ ngrams:
 - - frustration
   - very
   - well
-- - illustrated
-  - man
-  - made
-- - mr
-  - steiger
-  - did
 - - might
   - cannot
   - get
+- - mr
+  - steiger
+  - did
+- - illustrated
+  - man
+  - made
 - - chump
   - who
   - try

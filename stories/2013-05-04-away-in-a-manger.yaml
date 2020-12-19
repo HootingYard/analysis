@@ -17,21 +17,21 @@ ngrams:
 - - barnyard
   - omnivore
   - fallen
-- - barnyard
-  - animal
-  - feeding
 - - animal
   - feeding
   - trough
+- - barnyard
+  - animal
+  - feeding
 - - range
   - weather
   - forecasters
-- - mary
-  - fine
-  - responsible
 - - stable
   - barn
   - etc
+- - mary
+  - fine
+  - responsible
 - - fine
   - responsible
   - parents
@@ -77,18 +77,21 @@ ngrams:
 - - long
   - range
   - weather
-- - succeeding
-  - two
-  - thousand
 - - three
   - kings
   - rather
-- - jesus
+- - succeeding
   - two
   - thousand
 - - little
   - lord
   - almighty
+- - jesus
+  - two
+  - thousand
+- - long
+  - open
+  - box
 - - little
   - lord
   - jesus
@@ -98,9 +101,6 @@ ngrams:
 - - lord
   - jesus
   - two
-- - long
-  - open
-  - box
 - - mewling
   - infant
   - just
@@ -119,42 +119,39 @@ ngrams:
 - - let
   - us
   - assume
+- - omnivore
+  - fallen
+  - upon
+- - understandably
+  - assuming
+  - its
+- - culture
+  - based
+  - upon
 - - like
   - boon
   - companions
 - - sounded
   - vaguely
   - like
-- - understandably
-  - assuming
-  - its
 - - assuming
   - its
   - contents
-- - omnivore
-  - fallen
-  - upon
-- - seem
-  - like
-  - boon
-- - now
-  - clearly
-  - sacred
-- - culture
-  - based
-  - upon
-- - go
-  - running
-  - 'off'
 - - might
   - further
   - consider
+- - now
+  - clearly
+  - sacred
+- - seem
+  - like
+  - boon
+- - go
+  - running
+  - 'off'
 - - infant
   - just
   - long
-- - some
-  - roaming
-  - ravenous
 - - kings
   - rather
   - than
@@ -167,30 +164,33 @@ ngrams:
 - - can
   - eat
   - fodder
-- - change
-  - persons
-  - do
 - - cattle
   - can
   - eat
-- - just
-  - long
-  - enough
+- - some
+  - roaming
+  - ravenous
+- - change
+  - persons
+  - do
 - - very
   - well
   - want
+- - just
+  - long
+  - enough
 - - let
   - us
   - say
 - - down
   - incidentally
   - just
-- - dinner
-  - gobbled
-  - up
 - - their
   - mewling
   - infant
+- - dinner
+  - gobbled
+  - up
 - - anyway
   - what
   - occurs

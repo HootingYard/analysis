@@ -1,13 +1,10 @@
 ngrams:
-- - futuristic
-  - plasma
-  - ray
 - - discarded
   - cochlear
   - implant
-- - plasma
+- - futuristic
+  - plasma
   - ray
-  - gun
 - - aztec
   - fundamentalist
   - temple
@@ -17,75 +14,78 @@ ngrams:
 - - solitary
   - mordant
   - heron
-- - ray
+- - plasma
+  - ray
   - gun
-  - repair
 - - wrestling
   - champion
   - bruno
 - - terracotta
   - army
   - parade
-- - shallow
-  - sludge
-  - crossed
+- - ray
+  - gun
+  - repair
 - - distinctly
   - recalled
   - putting
-- - missing
-  - i'd
-  - mislaid
+- - shallow
+  - sludge
+  - crossed
 - - suet
   - pudding
   - skyscraper
+- - missing
+  - i'd
+  - mislaid
 - - champion
   - bruno
   - la
 - - slowly
   - moved
   - upwards
+- - bucket
+  - bruno
+  - la
 - - celestial
   - pneumatic
   - railway
 - - wrestling
   - training
   - machine
-- - bucket
-  - bruno
-  - la
-- - gun
-  - repair
-  - shop
 - - subterranean
   - car
   - park
-- - bright
-  - red
-  - linoleum
-- - widow
-  - woman
-  - approached
-- - helpful
-  - widow
-  - woman
+- - gun
+  - repair
+  - shop
 - - trousers
   - whichever
   - pair
-- - rolf
-  - harris's
-  - house
+- - helpful
+  - widow
+  - woman
+- - widow
+  - woman
+  - approached
+- - bright
+  - red
+  - linoleum
 - - army
   - parade
   - ground
-- - small
-  - votive
-  - shrine
+- - rolf
+  - harris's
+  - house
 - - passing
   - widow
   - woman
 - - easily
   - visible
   - outside
+- - small
+  - votive
+  - shrine
 - - guide
   - dog
   - enclosure
@@ -137,15 +137,15 @@ ngrams:
 - - many
   - gusts
   - it's
+- - deserted
+  - watched
+  - over
 - - customs
   - man
   - gave
 - - journey
   - here
   - trying
-- - deserted
-  - watched
-  - over
 - - clinic
   - where
   - bruno
@@ -155,18 +155,18 @@ ngrams:
 - - ear
   - clinic
   - where
-- - minutes
-  - before
-  - usually
-- - throat
-  - pangs
-  - like
 - - partially
   - sucked
   - upon
+- - minutes
+  - before
+  - usually
 - - turned
   - 'off'
   - past
+- - throat
+  - pangs
+  - like
 - - very
   - tiny
   - lozenge
@@ -185,42 +185,42 @@ ngrams:
 - - now
   - leaning
   - against
-- - person
-  - now
-  - leaning
 - - few
   - minutes
   - before
-- - many
-  - many
-  - steps
+- - person
+  - now
+  - leaning
 - - one's
   - breathing
   - can
-- - pangs
-  - often
-  - do
+- - many
+  - many
+  - steps
 - - might
   - perish
   - through
+- - pangs
+  - often
+  - do
 - - 'no'
   - red
   - linoleum
-- - been
-  - partially
-  - sucked
 - - elsewhere
   - 'no'
   - wonder
+- - been
+  - partially
+  - sucked
+- - crowds
+  - making
+  - their
 - - pangs
   - like
   - those
 - - been
   - somewhat
   - bigger
-- - crowds
-  - making
-  - their
 - - lozenge
   - when
   - manufactured
@@ -230,15 +230,15 @@ ngrams:
 - - lozenge
   - deep
   - into
+- - felt
+  - pangs
+  - when
+- - felt
+  - pangs
+  - when
 - - will
   - shimmer
   - ethereally
-- - felt
-  - pangs
-  - when
-- - felt
-  - pangs
-  - when
 - - will
   - search
   - diligently
@@ -260,18 +260,18 @@ ngrams:
 - - making
   - their
   - way
-- - these
-  - were
-  - displayed
-- - machine
-  - these
-  - were
 - - red
   - linoleum
   - so
+- - these
+  - were
+  - displayed
 - - building
   - however
   - there
+- - machine
+  - these
+  - were
 - - swept
   - back
   - into
@@ -290,24 +290,33 @@ ngrams:
 - - an
   - unlocked
   - side
-- - now
-  - today
-  - when
 - - will
   - take
   - much
+- - now
+  - today
+  - when
 - - second
   - one
   - fitted
-- - outer
-  - coating
-  - had
 - - were
   - many
   - many
+- - outer
+  - coating
+  - had
+- - cake
+  - or
+  - tablet
+- - rag
+  - or
+  - dry
 - - do
   - something
   - about
+- - somewhat
+  - bigger
+  - but
 - - coating
   - had
   - thus
@@ -320,15 +329,6 @@ ngrams:
 - - entrance
   - through
   - an
-- - cake
-  - or
-  - tablet
-- - rag
-  - or
-  - dry
-- - somewhat
-  - bigger
-  - but
 - - small
   - cake
   - or
@@ -338,87 +338,72 @@ ngrams:
 - - lozenge
   - at
   - sawdust
+- - have
+  - fallen
+  - earlier
 - - river
   - at
   - shallow
 - - at
   - sawdust
   - bridge
-- - have
-  - fallen
-  - earlier
+- - not
+  - trampled
+  - underfoot
 - - been
   - when
   - last
 - - not
-  - trampled
-  - underfoot
+  - immediately
+  - occur
+- - lozenge
+  - here
+  - or
+- - here
+  - or
+  - elsewhere
 - - come
   - from
   - afar
 - - trampled
   - underfoot
   - by
-- - not
-  - immediately
-  - occur
-- - pocket
-  - there
-  - were
-- - lozenge
-  - here
-  - or
-- - had
-  - other
-  - la
-- - here
-  - or
-  - elsewhere
 - - must
   - have
   - fallen
-- - be
-  - another
-  - fortnight
+- - pocket
+  - there
+  - were
 - - bigger
   - but
   - before
 - - be
+  - another
+  - fortnight
+- - be
   - standing
   - next
-- - she
-  - had
-  - seen
+- - had
+  - other
+  - la
 - - be
   - darker
   - still
-- - which
-  - led
-  - into
 - - so
   - will
   - shimmer
-- - there
-  - were
-  - many
+- - which
+  - led
+  - into
+- - she
+  - had
+  - seen
 - - have
   - never
   - put
-- - had
-  - been
-  - partially
-- - lozenge
-  - had
-  - been
-- - had
-  - been
-  - sucked
-- - had
-  - been
-  - somewhat
-- - building
-  - had
-  - been
+- - there
+  - were
+  - many
 - - wedge
   - my
   - lozenge
@@ -437,18 +422,33 @@ ngrams:
 - - holding
   - my
   - lozenge
-- - watched
-  - over
-  - by
 - - my
   - lozenge
   - deep
-- - said
-  - she
-  - had
+- - or
+  - elsewhere
+  - 'no'
 - - did
   - not
   - immediately
+- - watched
+  - over
+  - by
+- - lost
+  - my
+  - lozenge
+- - lost
+  - my
+  - lozenge
+- - lost
+  - my
+  - lozenge
+- - my
+  - lost
+  - lozenge
+- - had
+  - been
+  - partially
 story:
   date: 2008-11-14
   id: 2008-11-14-the-lost-lozenge

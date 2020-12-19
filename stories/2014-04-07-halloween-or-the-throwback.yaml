@@ -8,21 +8,21 @@ ngrams:
 - - amusement
   - chewing
   - taffy
-- - powerful
-  - adhesive
-  - gum
-- - training
-  - klieg
-  - lights
 - - king's
   - heraldic
   - beast
-- - greatest
-  - amusement
-  - chewing
+- - training
+  - klieg
+  - lights
+- - powerful
+  - adhesive
+  - gum
 - - king's
   - greatest
   - amusement
+- - greatest
+  - amusement
+  - chewing
 - - chewing
   - taffy
   - apart
@@ -35,18 +35,18 @@ ngrams:
 - - live
   - beyond
   - october
-- - salt
-  - water
-  - taffy
-- - salt
-  - water
-  - taffy
 - - puddle
   - milk
   - played
 - - rammed
   - fast
   - against
+- - salt
+  - water
+  - taffy
+- - salt
+  - water
+  - taffy
 - - beyond
   - october
   - towards
@@ -71,21 +71,24 @@ ngrams:
 - - back
   - rammed
   - fast
-- - speak
-  - very
-  - rarely
-- - acts
-  - after
-  - taking
 - - suspicion
   - where
   - cary
 - - hitchcock's
   - suspicion
   - where
+- - acts
+  - after
+  - taking
 - - where
   - cary
   - grant
+- - speak
+  - very
+  - rarely
+- - klieg
+  - lights
+  - upon
 - - said
   - coo
   - instead
@@ -95,15 +98,12 @@ ngrams:
 - - throne
   - its
   - seat
-- - klieg
-  - lights
+- - once
+  - settled
   - upon
 - - first
   - acts
   - after
-- - once
-  - settled
-  - upon
 - - king
   - never
   - made
@@ -116,15 +116,15 @@ ngrams:
 - - countless
   - bats
   - up
+- - ever
+  - more
+  - clamorous
 - - its
   - back
   - rammed
 - - installed
   - its
   - back
-- - ever
-  - more
-  - clamorous
 - - grew
   - ever
   - more
@@ -134,54 +134,57 @@ ngrams:
 - - drains
   - were
   - blocked
+- - hammering
+  - drowning
+  - out
 - - bats
   - were
   - countless
 - - took
   - 'no'
   - notice
-- - hammering
-  - drowning
-  - out
-- - carpenter
-  - who
-  - made
 - - king
   - took
   - 'no'
+- - carpenter
+  - who
+  - made
 - - were
   - countless
   - because
 - - lights
   - upon
   - their
-- - some
-  - called
-  - him
 - - would
   - never
   - rise
 - - this
   - sage
   - counsel
-- - milk
-  - played
-  - an
+- - some
+  - called
+  - him
 - - rafters
   - we
   - know
+- - milk
+  - played
+  - an
 - - played
   - an
   - important
-- - uncle
-  - had
-  - advised
 - - an
   - important
   - part
+- - uncle
+  - had
+  - advised
 - - king
   - had
   - tried
+- - would
+  - lend
+  - them
 - - from
   - alfred
   - hitchcock's
@@ -191,18 +194,15 @@ ngrams:
 - - scene
   - from
   - alfred
-- - course
-  - nobody
-  - had
-- - would
-  - lend
-  - them
 - - short
   - walk
   - from
-- - nobody
+- - course
+  - nobody
   - had
-  - ever
+- - pronounced
+  - said
+  - this
 story:
   date: 2014-04-07
   id: 2014-04-07-halloween-or-the-throwback

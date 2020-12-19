@@ -1,10 +1,10 @@
 ngrams:
-- - lovers
-  - packing
-  - suitcases
 - - daft
   - valiant
   - coruscating
+- - lovers
+  - packing
+  - suitcases
 - - searing
   - coruscating
   - analysis
@@ -14,42 +14,42 @@ ngrams:
 - - valiant
   - coruscating
   - sensible
-- - shoddy
-  - hysterical
-  - majestic
 - - sensible
   - shoddy
   - hysterical
-- - cassette
-  - tape
-  - containing
+- - shoddy
+  - hysterical
+  - majestic
 - - majestic
   - ornithological
   - searing
-- - hysterical
-  - majestic
-  - ornithological
+- - cassette
+  - tape
+  - containing
 - - bench
   - weeping
   - incident
+- - hysterical
+  - majestic
+  - ornithological
 - - somewhat
   - grubby
   - napkin
 - - paul
   - simon's
   - song
-- - following
-  - observation
-  - excuse
 - - paul
   - simon
   - song
-- - telegraph
-  - music
-  - writer
+- - following
+  - observation
+  - excuse
 - - simon's
   - song
   - ways
+- - telegraph
+  - music
+  - writer
 - - lived
   - anywhere
   - near
@@ -59,63 +59,63 @@ ngrams:
 - - young
   - man's
   - gift
+- - endlessly
+  - string
+  - together
+- - endlessly
+  - string
+  - together
 - - music
   - writer
   - charles
 - - daily
   - telegraph
   - music
-- - endlessly
-  - string
-  - together
-- - endlessly
-  - string
-  - together
-- - accuracy
-  - although
-  - dobson's
 - - different
   - bench
   - weeping
+- - accuracy
+  - although
+  - dobson's
+- - particular
+  - attention
+  - paid
+- - always
+  - denied
+  - meeting
 - - john
   - peel
   - wrote
 - - thursday
   - afternoon
   - during
-- - although
-  - dobson's
-  - pamphlets
-- - always
-  - denied
-  - meeting
-- - particular
-  - attention
-  - paid
 - - indeed
   - largely
   - accept
+- - although
+  - dobson's
+  - pamphlets
 - - home
   - diligent
   - research
-- - days
-  - john
-  - peel
 - - canalside
   - bench
   - until
 - - indeed
   - lived
   - anywhere
+- - days
+  - john
+  - peel
 - - cannot
   - help
   - thinking
-- - latter
-  - days
-  - john
 - - got
   - home
   - diligent
+- - latter
+  - days
+  - john
 - - every
   - thursday
   - afternoon
@@ -125,18 +125,12 @@ ngrams:
 - - huge
   - fat
   - book
-- - denied
-  - meeting
-  - dobson
-- - man
-  - babbled
-  - excitedly
-- - filthy
-  - old
-  - canal
 - - mountains
   - being
   - climbed
+- - filthy
+  - old
+  - canal
 - - mountains
   - being
   - moved
@@ -146,30 +140,36 @@ ngrams:
 - - moved
   - mountains
   - being
+- - man
+  - babbled
+  - excitedly
 - - nor
   - indeed
   - lived
+- - denied
+  - meeting
+  - dobson
 - - question
   - how
   - refreshing
-- - untold
-  - grief
-  - only
 - - certainly
   - never
   - moved
-- - young
-  - man
-  - babbled
 - - never
   - actually
   - climbed
-- - hairy
-  - young
-  - man
 - - fat
   - book
   - rather
+- - untold
+  - grief
+  - only
+- - young
+  - man
+  - babbled
+- - hairy
+  - young
+  - man
 - - mere
   - pamphlet
   - dobson
@@ -182,24 +182,15 @@ ngrams:
 - - these
   - dotted
   - here
-- - murray
-  - murray
-  - has
 - - its
   - latter
   - days
+- - murray
+  - murray
+  - has
 - - who
   - demonstrates
   - conclusively
-- - has
-  - recently
-  - revealed
-- - very
-  - difficult
-  - man
-- - diligent
-  - research
-  - has
 - - them
   - endlessly
   - string
@@ -209,66 +200,72 @@ ngrams:
 - - dobson's
   - pamphlets
   - can
+- - has
+  - recently
+  - revealed
+- - diligent
+  - research
+  - has
+- - very
+  - difficult
+  - man
+- - might
+  - question
+  - how
 - - research
   - has
   - recently
+- - something
+  - similar
+  - could
 - - only
   - very
   - rarely
 - - their
   - packed
   - suitcases
-- - something
-  - similar
-  - could
-- - might
-  - question
-  - how
+- - book
+  - rather
+  - than
 - - murray
   - has
   - always
 - - has
   - always
   - denied
-- - book
-  - rather
-  - than
-- - leave
-  - your
-  - lover
 - - babbled
   - excitedly
   - about
-- - who
-  - took
-  - pity
 - - excitedly
   - about
   - rock
-- - into
-  - daft
-  - valiant
+- - leave
+  - your
+  - lover
 - - canon
   - into
   - daft
-- - aside
-  - some
-  - say
+- - into
+  - daft
+  - valiant
+- - who
+  - took
+  - pity
 - - age
   - when
   - coverage
 - - diagonal
   - lines
   - out
+- - aside
+  - some
+  - say
 - - fell
   - into
   - conversation
 - - cobbled
   - together
   - into
-- - her
-  - credit
-  - she
 - - into
   - conversation
   - during
@@ -284,33 +281,30 @@ ngrams:
 - - newspapers
   - until
   - about
-- - young
-  - man
-  - who
 - - few
   - occasions
   - when
-- - tears
-  - they
-  - fell
 - - suspect
   - would
   - charles
-- - credit
+- - her
+  - credit
   - she
-  - has
-- - did
-  - only
-  - very
-- - if
-  - something
-  - similar
 - - passages
   - would
   - form
-- - man
+- - young
+  - man
   - who
-  - took
+- - tears
+  - they
+  - fell
+- - though
+  - if
+  - pamphlets
+- - if
+  - something
+  - similar
 - - wonder
   - if
   - something
@@ -320,69 +314,75 @@ ngrams:
 - - sob
   - so
   - copious
+- - did
+  - only
+  - very
 - - about
   - mountains
   - being
-- - though
-  - if
-  - pamphlets
-- - occasions
-  - when
-  - dobson
 - - platitudes
   - mountains
   - are
 - - platitudes
   - mountains
   - are
+- - man
+  - who
+  - took
 - - some
   - say
   - many
+- - credit
+  - she
+  - has
 - - pamphlets
   - are
   - daft
-- - mountains
-  - are
-  - moved
-- - mountains
-  - are
-  - moved
-- - when
+- - occasions
+  - when
   - dobson
-  - turned
+- - mountains
+  - are
+  - moved
+- - mountains
+  - are
+  - moved
 - - we
   - find
   - instances
-- - conversation
-  - during
-  - which
 - - s
   - we
   - must
+- - when
+  - dobson
+  - turned
+- - conversation
+  - during
+  - which
 - - right
   - who
   - am
-- - an
-  - occasional
-  - column
-- - we
-  - swap
-  - dobson
 - - if
   - pamphlets
   - such
 - - an
+  - occasional
+  - column
+- - unarguable
+  - we
+  - might
+- - we
+  - swap
+  - dobson
+- - so
+  - far
+  - managed
+- - so
+  - far
+  - managed
+- - an
   - interesting
   - passage
-- - daft
-  - they
-  - may
-- - so
-  - far
-  - managed
-- - so
-  - far
-  - managed
 story:
   date: 2012-11-14
   id: 2012-11-14-on-mountains-and-suitcases

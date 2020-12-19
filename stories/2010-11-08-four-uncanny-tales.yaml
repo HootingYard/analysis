@@ -5,12 +5,12 @@ ngrams:
 - - baleful
   - phantom
   - emitting
-- - phantom
-  - emitting
-  - gruesome
 - - gruesome
   - suppurating
   - monster
+- - phantom
+  - emitting
+  - gruesome
 - - clips
   - jarvis
   - pointed
@@ -20,21 +20,21 @@ ngrams:
 - - poor
   - lad
   - scampered
+- - scream
+  - spinning
+  - round
 - - extraterrestrial
   - hideousness
   - began
 - - hideousness
   - began
   - oozing
-- - scream
-  - spinning
-  - round
-- - four
-  - uncanny
-  - tales
 - - malevolent
   - iv
   - hand
+- - four
+  - uncanny
+  - tales
 - - bird
   - scientist
   - devoted
@@ -47,12 +47,12 @@ ngrams:
 - - words
   - earlier
   - versions
-- - spookily
-  - sitting
-  - next
 - - kennedy
   - assassination
   - far
+- - spookily
+  - sitting
+  - next
 - - bird
   - scientist
   - look
@@ -68,21 +68,21 @@ ngrams:
 - - mrs
   - purgative
   - well
-- - jarvis
-  - being
-  - engulfed
 - - being
   - suppurating
   - greasy
-- - four
-  - stories
-  - each
+- - jarvis
+  - being
+  - engulfed
 - - lad
   - scampered
   - back
 - - hideous
   - extraterrestrial
   - being
+- - four
+  - stories
+  - each
 - - hundred
   - years
   - iii
@@ -95,63 +95,57 @@ ngrams:
 - - day
   - blomqvist
   - died
-- - bright
-  - summer's
-  - day
 - - assassination
   - far
   - far
+- - bright
+  - summer's
+  - day
 - - ever
   - set
   - foot
-- - exclaimed
-  - she
-  - hoisted
 - - next
   - hundred
   - years
+- - exclaimed
+  - she
+  - hoisted
 - - hoisted
   - her
   - mop
 - - living
   - being
   - ever
-- - thing
-  - she
-  - exclaimed
-- - her
-  - shoulder
-  - took
 - - far
   - far
   - away
+- - thing
+  - she
+  - exclaimed
 - - being
   - ever
   - set
+- - her
+  - shoulder
+  - took
 - - called
   - him
   - blomqvist
-- - found
-  - him
-  - lying
 - - other
   - living
   - being
 - - post
   - office
   - 'no'
-- - led
+- - found
   - him
-  - far
+  - lying
 - - funnel
   - inserted
   - into
-- - she
-  - exclaimed
-  - she
-- - she
-  - hoisted
-  - her
+- - led
+  - him
+  - far
 - - passing
   - pantechnicon
   - all
@@ -161,6 +155,12 @@ ngrams:
 - - ear
   - they
   - closed
+- - she
+  - exclaimed
+  - she
+- - she
+  - hoisted
+  - her
 story:
   date: 2010-11-08
   id: 2010-11-08-four-uncanny-tales

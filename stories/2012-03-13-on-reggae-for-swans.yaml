@@ -5,12 +5,12 @@ ngrams:
 - - garvey
   - haile
   - selassie
-- - roots
-  - stylee
-  - rhythms
 - - visual
   - stimulus
   - gliding
+- - roots
+  - stylee
+  - rhythms
 - - reservoirs
   - lakes
   - riversides
@@ -32,6 +32,9 @@ ngrams:
 - - buffleheads
   - scored
   - highly
+- - rival
+  - boffins
+  - contend
 - - ponds
   - reservoirs
   - lakes
@@ -47,9 +50,6 @@ ngrams:
 - - experimental
   - ponds
   - reservoirs
-- - rival
-  - boffins
-  - contend
 - - northwest
   - greenland
   - working
@@ -62,12 +62,12 @@ ngrams:
 - - ducks
   - reed
   - warblers
-- - leading
-  - academic
-  - journal
 - - coots
   - herons
   - ducks
+- - leading
+  - academic
+  - journal
 - - herons
   - ducks
   - reed
@@ -77,60 +77,60 @@ ngrams:
 - - modified
   - swan
   - genetically
-- - sent
-  - shock
-  - waves
-- - academic
-  - journal
-  - devoted
-- - incomprehensible
-  - press
-  - release
 - - boffins
   - recently
   - conducted
+- - academic
+  - journal
+  - devoted
+- - claimed
+  - professor
+  - talc
+- - incomprehensible
+  - press
+  - release
+- - otherwise
+  - 'false'
+  - wicked
+- - including
+  - ponds
+  - reservoirs
 - - sites
   - including
   - ponds
-- - reggae
-  - music
-  - blasting
 - - dawn
   - till
   - dusk
 - - dusk
   - till
   - dawn
-- - including
-  - ponds
-  - reservoirs
-- - claimed
-  - professor
-  - talc
 - - reggae
   - music
-  - erected
-- - otherwise
-  - 'false'
-  - wicked
+  - blasting
+- - sent
+  - shock
+  - waves
 - - dozen
   - sites
   - including
-- - enjoy
-  - reggae
-  - music
-- - places
-  - incomprehensible
-  - press
-- - constant
-  - reggae
-  - music
 - - applied
   - swan
   - studies
+- - reggae
+  - music
+  - erected
+- - places
+  - incomprehensible
+  - press
 - - roots
   - king
   - tubby
+- - enjoy
+  - reggae
+  - music
+- - constant
+  - reggae
+  - music
 - - professor
   - lars
   - talc
@@ -149,21 +149,21 @@ ngrams:
 - - blanket
   - bird
   - welfare
-- - bird
-  - welfare
-  - types
 - - single
   - monitored
   - swan
+- - certain
+  - wicked
+  - persons
+- - bird
+  - welfare
+  - types
 - - swans
   - certain
   - wicked
 - - cases
   - seemingly
   - almost
-- - certain
-  - wicked
-  - persons
 - - wet
   - blanket
   - bird
@@ -173,9 +173,6 @@ ngrams:
 - - hoardings
   - erected
   - next
-- - stylee
-  - rhythms
-  - every
 - - savagely
   - attacking
   - things
@@ -185,15 +182,18 @@ ngrams:
 - - though
   - buffleheads
   - scored
-- - music
-  - erected
-  - next
+- - stylee
+  - rhythms
+  - every
 - - image
   - though
   - buffleheads
 - - again
   - swans
   - showed
+- - music
+  - erected
+  - next
 - - most
   - constructive
   - reaction
@@ -230,36 +230,36 @@ ngrams:
 - - scored
   - highly
   - here
-- - boffins
-  - first
-  - announced
 - - material
   - thus
   - far
+- - boffins
+  - first
+  - announced
 - - thus
   - far
   - gathered
 - - any
   - pronouncements
   - jah
-- - birds
-  - most
-  - drawn
 - - once
   - again
   - swans
-- - reed
-  - warbler
-  - now
+- - birds
+  - most
+  - drawn
 - - fill
   - over
   - half
-- - made
-  - permanent
-  - indeed
+- - reed
+  - warbler
+  - now
 - - waves
   - through
   - both
+- - made
+  - permanent
+  - indeed
 - - highly
   - here
   - too
@@ -269,36 +269,36 @@ ngrams:
 - - latter
   - two
   - being
-- - some
-  - cases
-  - seemingly
 - - too
   - once
   - again
+- - some
+  - cases
+  - seemingly
 - - constructive
   - reaction
   - has
-- - types
-  - who
-  - accuse
-- - welfare
-  - types
-  - who
 - - gone
   - down
   - well
-- - professor
-  - talc
-  - has
-- - has
-  - sent
-  - shock
 - - than
   - say
   - coots
 - - reggae
   - than
   - say
+- - welfare
+  - types
+  - who
+- - types
+  - who
+  - accuse
+- - professor
+  - talc
+  - has
+- - has
+  - sent
+  - shock
 - - wonder
   - talc
   - has

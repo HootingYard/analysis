@@ -1,31 +1,37 @@
 ngrams:
-- - disease
-  - transmission
-  - dangers
 - - poses
   - disease
   - transmission
-- - '-'
-  - chickens
-  - '-'
+- - disease
+  - transmission
+  - dangers
+- - lone
+  - duck
+  - heresy
+- - duck
+  - heresy
+  - corner
+- - o'
+  - goat
+  - sacrifice
+- - o'
+  - goat
+  - sacrifice
+- - goat
+  - sacrifice
+  - food
 - - chickens
   - '-'
   - guinea
 - - goats
   - '-'
   - turtles
-- - lone
-  - duck
-  - heresy
 - - '-'
   - guinea
   - hens
 - - sacrifice
   - '-'
   - goats
-- - '-'
-  - goats
-  - '-'
 - - '-'
   - turtles
   - duck
@@ -35,12 +41,6 @@ ngrams:
 - - duck
   - '-'
   - chickens
-- - o'
-  - goat
-  - sacrifice
-- - o'
-  - goat
-  - sacrifice
 story:
   date: 2009-08-03
   id: 2009-08-03-world-o-goat-sacrifice

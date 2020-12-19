@@ -59,15 +59,18 @@ ngrams:
 - - win
   - why
   - do
-- - example
-  - has
-  - dick
 - - crafty
   - plan
   - up
+- - example
+  - has
+  - dick
 - - won
   - your
   - money
+- - tangerine
+  - strawberry
+  - if
 - - your
   - five
   - cents
@@ -80,39 +83,36 @@ ngrams:
 - - wasted
   - your
   - five
-- - tangerine
-  - strawberry
-  - if
-- - many
-  - many
-  - years
-- - cents
-  - does
-  - your
 - - if
   - dick
   - doesn't
-- - whereas
-  - dick
-  - will
+- - many
+  - many
+  - years
 - - can
   - see
   - it's
-- - tombola
-  - all
-  - sewn
-- - does
+- - whereas
+  - dick
+  - will
+- - cents
+  - does
   - your
-  - five
 - - box
   - if
   - that's
 - - entire
   - box
   - if
+- - tombola
+  - all
+  - sewn
 - - whole
   - box
   - if
+- - does
+  - your
+  - five
 - - asked
   - myself
   - what
@@ -134,15 +134,15 @@ ngrams:
 - - cigar
   - made
   - out
-- - over
-  - your
-  - five
 - - same
   - time
   - do
 - - won
   - what
   - did
+- - over
+  - your
+  - five
 story:
   date: 2006-02-05
   id: 2006-02-05-win-with-dick

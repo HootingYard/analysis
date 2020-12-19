@@ -11,30 +11,30 @@ ngrams:
 - - pang
   - gong
   - loon
-- - bell
-  - towers
-  - cobbled
-- - bell
-  - towers
-  - france
-- - county
-  - bell
-  - counting
-- - bell
-  - counting
-  - register
-- - counting
-  - register
-  - panel
 - - sensible
   - woodcutter
   - pretending
 - - scholarly
   - analysis
   - frankly
+- - county
+  - bell
+  - counting
+- - bell
+  - towers
+  - cobbled
+- - counting
+  - register
+  - panel
+- - bell
+  - counting
+  - register
 - - charabanc
   - outing
   - unfortunately
+- - bell
+  - towers
+  - france
 - - mysterious
   - occult
   - symbol
@@ -44,15 +44,12 @@ ngrams:
 - - recent
   - scholarly
   - analysis
-- - prove
-  - pang
-  - gong
 - - perfectly
   - sensible
   - woodcutter
-- - doctor
-  - baxter's
-  - fine
+- - prove
+  - pang
+  - gong
 - - baxter's
   - fine
   - pudding
@@ -62,30 +59,33 @@ ngrams:
 - - scholarly
   - analysis
   - clearly
+- - doctor
+  - baxter's
+  - fine
 - - sent
   - minion
   - lars
 - - towers
   - cobbled
   - together
-- - phenomenon
-  - sheds
-  - light
 - - conversely
   - oh
   - ho
+- - phenomenon
+  - sheds
+  - light
 - - dared
   - venture
   - further
+- - boiling
+  - hot
+  - tea
 - - gong
   - loon
   - called
 - - three
   - contemporaneous
   - accounts
-- - boiling
-  - hot
-  - tea
 - - dining
   - room
   - hard
@@ -113,57 +113,54 @@ ngrams:
 - - published
   - long
   - ago
-- - spiral
-  - staircase
-  - like
 - - definitively
   - upon
   - entering
+- - spiral
+  - staircase
+  - like
 - - than
   - three
   - contemporaneous
-- - fewer
-  - than
-  - three
 - - church
   - however
   - than
+- - fewer
+  - than
+  - three
 - - find
   - such
   - accounts
+- - light
+  - nor
+  - even
+- - may
+  - still
+  - cast
 - - pretenders
   - who
   - feign
 - - who
   - feign
   - madness
-- - may
-  - still
-  - cast
 - - hq
   - who
   - advised
-- - light
-  - nor
-  - even
 - - hq
   - who
   - suggested
-- - analysis
-  - clearly
-  - has
 - - ruse
   - 'no'
   - commissioner
-- - bells
-  - 'no'
-  - sooner
+- - analysis
+  - clearly
+  - has
 - - say
   - definitively
   - upon
-- - i'll
-  - take
-  - him
+- - bells
+  - 'no'
+  - sooner
 - - what
   - pang
   - gong
@@ -173,42 +170,45 @@ ngrams:
 - - should
   - do
   - nothing
-- - do
-  - nothing
-  - until
-- - proof
-  - were
-  - needed
 - - gong
   - loon
   - if
+- - do
+  - nothing
+  - until
+- - i'll
+  - take
+  - him
+- - proof
+  - were
+  - needed
 - - appears
   - has
   - ever
-- - has
-  - faced
-  - many
 - - escapes
   - me
   - understandably
-- - those
-  - pretenders
-  - who
-- - needed
-  - me
-  - i'll
-- - we
-  - dared
-  - venture
+- - has
+  - faced
+  - many
 - - point
   - if
   - proof
-- - register
-  - panel
-  - there
+- - those
+  - pretenders
+  - who
+- - we
+  - dared
+  - venture
+- - needed
+  - me
+  - i'll
 - - 'no'
   - idea
   - though
+- - register
+  - panel
+  - there
 - - snack
   - bar
   - we
@@ -221,84 +221,84 @@ ngrams:
 - - would
   - surely
   - chop
-- - clearly
-  - has
-  - such
 - - 'no'
   - fewer
   - than
-- - ever
-  - been
-  - able
+- - clearly
+  - has
+  - such
 - - pitch
   - black
   - we
-- - me
-  - i'll
-  - take
+- - ever
+  - been
+  - able
 - - many
   - times
   - what
+- - me
+  - i'll
+  - take
 - - we
   - must
   - climb
 - - am
   - 'no'
   - scholar
-- - while
-  - we
-  - waited
 - - plums
   - while
   - we
-- - large
-  - breakfast
-  - which
-- - study
+- - while
   - we
-  - find
+  - waited
 - - so
   - often
   - happens
-- - darkness
+- - study
+  - we
+  - find
+- - large
+  - breakfast
   - which
-  - rather
+- - word
+  - even
+  - when
 - - all
   - washed
   - down
 - - an
   - unofficial
   - st
-- - which
-  - rather
-  - goes
-- - great
-  - darkness
+- - darkness
   - which
-- - hq
-  - they
-  - said
-- - word
-  - even
-  - when
+  - rather
 - - one
   - nevertheless
   - calling
+- - which
+  - rather
+  - goes
+- - hq
+  - they
+  - said
 - - one
   - minion
   - carried
+- - great
+  - darkness
+  - which
 - - an
   - incandescent
   - light
 - - propelling
   - pencil
   - this
-- - write
-  - this
-  - report
 - - this
   - fascinating
   - piece
+- - write
+  - this
+  - report
 - - black
   - we
   - may
@@ -308,24 +308,33 @@ ngrams:
 - - genuine
   - madman
   - or
-- - has
-  - ever
-  - been
-- - we
-  - may
-  - still
 - - straightforward
   - task
   - but
-- - we
-  - find
-  - such
 - - or
   - conversely
   - oh
+- - we
+  - find
+  - such
+- - we
+  - may
+  - still
 - - madman
   - who
   - would
+- - past
+  - acquaintance
+  - but
+- - has
+  - ever
+  - been
+- - recorded
+  - instances
+  - have
+- - who
+  - would
+  - surely
 - - if
   - proof
   - were
@@ -335,24 +344,15 @@ ngrams:
 - - occult
   - symbol
   - at
-- - who
-  - would
-  - surely
-- - past
-  - acquaintance
-  - but
-- - recorded
-  - instances
-  - have
-- - dilemma
-  - which
-  - has
-- - which
-  - has
-  - faced
 - - business
   - or
   - should
+- - we
+  - deploy
+  - what
+- - minions
+  - have
+  - used
 - - motorbike
   - at
   - hours

@@ -23,15 +23,15 @@ ngrams:
 - - horrible
   - babyish
   - way
+- - seen
+  - rather
+  - less
 - - through
   - brick
   - walls
 - - fly
   - through
   - brick
-- - seen
-  - rather
-  - less
 - - our
   - lunatic
   - asylums
@@ -41,12 +41,12 @@ ngrams:
 - - hovering
   - just
   - above
-- - saw
-  - swooping
-  - through
 - - enclosed
   - building
   - where
+- - saw
+  - swooping
+  - through
 - - cannot
   - fly
   - through
@@ -80,27 +80,27 @@ ngrams:
 - - has
   - become
   - something
-- - souls
-  - who
-  - made
 - - about
   - sashaying
   - along
 - - more
   - like
   - hiccups
-- - like
-  - hiccups
-  - do
+- - souls
+  - who
+  - made
 - - they
   - drop
   - fatally
-- - they
-  - cannot
-  - fly
+- - like
+  - hiccups
+  - do
 - - renaissance
   - times
   - we
+- - they
+  - cannot
+  - fly
 - - lunatic
   - asylums
   - are
@@ -125,6 +125,9 @@ ngrams:
 - - like
   - drones
   - if
+- - panting
+  - there
+  - might
 - - an
   - enclosed
   - building
@@ -137,18 +140,15 @@ ngrams:
 - - these
   - are
   - babies
-- - panting
-  - there
-  - might
 - - what
   - has
   - caused
 - - sky
   - this
   - doesn't
-- - call
-  - these
-  - are
+- - than
+  - we
+  - used
 story:
   date: 2016-01-20
   id: 2016-01-20-fear-of-putti

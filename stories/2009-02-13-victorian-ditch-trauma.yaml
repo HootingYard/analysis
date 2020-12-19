@@ -17,6 +17,9 @@ ngrams:
 - - blog
   - recently
   - old
+- - part
+  - mr
+  - cooper
 - - archivist
   - notes
   - how
@@ -26,9 +29,6 @@ ngrams:
 - - recently
   - old
   - news
-- - part
-  - mr
-  - cooper
 - - form
   - part
   - mr
@@ -41,18 +41,18 @@ ngrams:
 - - hooting
   - yard
   - story
-- - messenger
-  - who
-  - delivers
 - - appealing
   - than
   - new
-- - who
+- - messenger
+  - who
   - delivers
-  - post
 - - could
   - come
   - straight
+- - who
+  - delivers
+  - post
 - - much
   - more
   - appealing
@@ -65,12 +65,12 @@ ngrams:
 - - about
   - seven
   - miles
-- - story
-  - about
-  - noon
 - - more
   - appealing
   - than
+- - story
+  - about
+  - noon
 - - village
   - about
   - seven

@@ -2,33 +2,33 @@ ngrams:
 - - teenage
   - hoi
   - polloi
-- - pore
-  - pore
-  - pore
 - - chattering
   - snacking
   - mobile
 - - wittering
   - teenage
   - hoi
-- - snacking
-  - mobile
-  - phone
+- - pore
+  - pore
+  - pore
 - - phone
   - wittering
   - teenage
+- - snacking
+  - mobile
+  - phone
 - - texts
   - pore
   - pore
 - - spiritually
   - uplifting
   - goo
-- - mystic
-  - foods
-  - devoured
 - - mobile
   - phone
   - wittering
+- - mystic
+  - foods
+  - devoured
 - - mystic
   - texts
   - pore
@@ -41,24 +41,24 @@ ngrams:
 - - concentration
   - scribbling
   - notes
-- - coca
-  - cola
-  - although
 - - goo
   - kitchen
   - paradise
+- - coca
+  - cola
+  - although
 - - latest
   - recipe
   - comes
 - - kitchen
   - paradise
   - keep
-- - fell
-  - sacred
-  - cows
 - - genesis
   - 'yes'
   - 'yes'
+- - fell
+  - sacred
+  - cows
 - - happy
   - hours
   - poring
@@ -107,18 +107,18 @@ ngrams:
 - - secret
   - formula
   - like
+- - know
+  - having
+  - silenced
 - - her
   - latest
   - recipe
 - - know
-  - having
-  - silenced
+  - most
+  - authorities
 - - consult
   - some
   - reference
-- - know
-  - most
-  - authorities
 - - some
   - reference
   - works
@@ -137,15 +137,15 @@ ngrams:
 - - has
   - nothing
   - whatever
-- - long
-  - been
-  - fascinated
-- - been
-  - putting
-  - something
 - - me
   - brows
   - furrowed
+- - been
+  - putting
+  - something
+- - long
+  - been
+  - fascinated
 story:
   date: 2009-07-16
   id: 2009-07-16-brand-new-goo

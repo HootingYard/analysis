@@ -2,12 +2,12 @@ ngrams:
 - - metropolis
   - murders
   - actions
-- - alarming
-  - riots
-  - robberies
 - - generic
   - crimes
   - exaggeration
+- - alarming
+  - riots
+  - robberies
 - - hampstead
   - sewers
   - shelter
@@ -20,15 +20,15 @@ ngrams:
 - - telegraph
   - monday
   - october
-- - monday
-  - october
-  - quoted
 - - theological
   - dissensions
   - followed
 - - bethnal
   - green
   - jacob's
+- - monday
+  - october
+  - quoted
 - - accurate
   - topographical
   - knowledge
@@ -41,12 +41,12 @@ ngrams:
 - - daily
   - telegraph
   - monday
-- - whose
-  - ferocious
-  - snouts
 - - worlds
   - within
   - worlds
+- - whose
+  - ferocious
+  - snouts
 - - ridicule
   - often
   - attach
@@ -95,6 +95,9 @@ ngrams:
 - - every
   - day
   - convince
+- - london
+  - might
+  - well
 - - among
   - our
   - readers
@@ -110,9 +113,6 @@ ngrams:
 - - who
   - dwell
   - therein
-- - london
-  - might
-  - well
 - - picking
   - up
   - shells
@@ -128,12 +128,12 @@ ngrams:
 - - readers
   - thousands
   - who
-- - has
-  - seemed
-  - however
 - - who
   - prides
   - himself
+- - has
+  - seemed
+  - however
 - - ferocious
   - snouts
   - will
@@ -143,9 +143,6 @@ ngrams:
 - - before
   - him
   - lies
-- - has
-  - its
-  - special
 - - so
   - widely
   - separated
@@ -155,12 +152,15 @@ ngrams:
 - - are
   - undiscovered
   - patches
-- - topographical
-  - knowledge
-  - which
+- - has
+  - its
+  - special
 - - shore
   - while
   - all
+- - topographical
+  - knowledge
+  - which
 - - archway
   - while
   - they

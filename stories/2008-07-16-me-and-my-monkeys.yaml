@@ -5,42 +5,42 @@ ngrams:
 - - utmost
   - diligence
   - disinfecting
-- - crates
-  - containing
-  - sleeping
 - - hindenburg
   - airship
   - disaster
 - - fantastically
   - destructive
   - shortly
-- - uncle
-  - arpad
-  - liked
+- - crates
+  - containing
+  - sleeping
 - - destructive
   - shortly
   - afterwards
-- - stamp
-  - collecting
-  - club
 - - sleeping
   - monkeys
   - addressed
+- - uncle
+  - arpad
+  - liked
+- - monkey
+  - mania
+  - reasserted
 - - funicular
   - railway
   - clambered
+- - containing
+  - sleeping
+  - monkeys
+- - stamp
+  - collecting
+  - club
 - - walls
   - worked
   - remarkably
 - - bedroom
   - walls
   - worked
-- - containing
-  - sleeping
-  - monkeys
-- - monkey
-  - mania
-  - reasserted
 - - railway
   - clambered
   - panting
@@ -56,45 +56,42 @@ ngrams:
 - - white
   - lab
   - coat
-- - sometimes
-  - tedious
-  - monologues
 - - mania
   - reasserted
   - itself
-- - six
-  - easy
-  - steps
+- - sometimes
+  - tedious
+  - monologues
 - - reasserted
   - itself
   - uncle
-- - itself
-  - uncle
-  - arpad
 - - skiing
   - post
   - office
+- - itself
+  - uncle
+  - arpad
+- - six
+  - easy
+  - steps
 - - blue
   - bat
   - tavern
-- - entitled
-  - six
-  - easy
+- - several
+  - crates
+  - containing
 - - six
   - simple
   - steps
+- - entitled
+  - six
+  - easy
 - - magazine
   - got
   - popsie
 - - arpad
   - liked
   - nothing
-- - several
-  - crates
-  - containing
-- - hot
-  - soapy
-  - water
 - - rowdy
   - quite
   - uncontrollable
@@ -107,6 +104,9 @@ ngrams:
 - - wealthy
   - uncle
   - also
+- - hot
+  - soapy
+  - water
 - - bright
   - march
   - morning
@@ -116,60 +116,60 @@ ngrams:
 - - piece
   - entitled
   - six
-- - post
-  - office
-  - person
-- - great
-  - enthusiasm
-  - apart
-- - bed
-  - early
-  - often
-- - added
-  - because
-  - uncle
 - - own
   - chalet
   - courtesy
+- - post
+  - office
+  - person
+- - bed
+  - early
+  - often
+- - great
+  - enthusiasm
+  - apart
 - - liked
   - nothing
   - better
-- - weeks
-  - things
-  - continued
+- - added
+  - because
+  - uncle
 - - worked
   - remarkably
   - well
+- - weeks
+  - things
+  - continued
 - - inept
   - little
   - criminal
-- - also
-  - called
-  - arpad
-- - two
-  - howler
-  - monkeys
 - - discarded
   - how
   - fortunate
-- - uncle
-  - also
+- - also
   - called
+  - arpad
 - - invariably
   - ended
   - these
+- - two
+  - howler
+  - monkeys
 - - buried
   - myself
   - under
-- - made
-  - toy
-  - monkeys
+- - uncle
+  - also
+  - called
 - - find
   - several
   - crates
 - - undisturbed
   - ever
   - since
+- - made
+  - toy
+  - monkeys
 - - our
   - alpine
   - fastness
@@ -182,33 +182,39 @@ ngrams:
 - - sanatoria
   - where
   - weaklings
-- - day
-  - tramping
-  - slowly
-- - silence
-  - broken
-  - only
 - - own
   - chalet
   - until
-- - balconies
-  - these
-  - days
+- - day
+  - tramping
+  - slowly
 - - mountain
   - after
   - breakfast
-- - where
-  - weaklings
-  - lay
+- - balconies
+  - these
+  - days
 - - than
   - monkey
   - hunting
+- - silence
+  - broken
+  - only
+- - where
+  - weaklings
+  - lay
 - - other
   - people's
   - pasts
-- - popsie
-  - her
-  - brandy
+- - six
+  - monkeys
+  - even
+- - between
+  - articles
+  - such
+- - better
+  - than
+  - monkey
 - - kissed
   - her
   - goodbye
@@ -218,63 +224,51 @@ ngrams:
 - - brandy
   - kissed
   - her
-- - six
-  - monkeys
-  - even
-- - penny
-  - she
-  - added
-- - won
-  - myself
-  - only
-- - between
-  - articles
-  - such
-- - still
-  - knock
-  - back
-- - better
-  - than
-  - monkey
-- - got
-  - popsie
+- - popsie
   - her
-- - each
-  - day
-  - tramping
+  - brandy
 - - am
   - john's
   - ear
+- - still
+  - knock
+  - back
+- - won
+  - myself
+  - only
+- - penny
+  - she
+  - added
+- - each
+  - day
+  - tramping
 - - after
   - breakfast
   - each
-- - how
-  - many
-  - monkeys
 - - nothing
   - better
   - than
-- - her
-  - another
-  - brandy
+- - how
+  - many
+  - monkeys
+- - got
+  - popsie
+  - her
 - - breakfast
   - each
   - day
-- - popsie
-  - who
-  - helped
 - - other
   - great
   - enthusiasm
-- - buy
-  - her
-  - another
-- - she
-  - added
-  - because
+- - popsie
+  - who
+  - helped
 - - many
   - sanatoria
   - where
+- - her
+  - another
+  - brandy
 - - 'no'
   - ill
   - effects
@@ -287,75 +281,81 @@ ngrams:
 - - could
   - still
   - knock
+- - she
+  - added
+  - because
 - - clambered
   - panting
   - up
+- - buy
+  - her
+  - another
 - - stopped
   - their
   - antics
-- - come
-  - 'true'
-  - she
-- - funicular
-  - railway
-  - up
-- - her
-  - uncle
-  - how
 - - monkeys
   - even
   - before
-- - 'true'
-  - she
-  - too
+- - funicular
+  - railway
+  - up
 - - darts
   - put
   - them
+- - come
+  - 'true'
+  - she
 - - some
   - weeks
   - things
-- - were
-  - excessively
-  - rowdy
+- - 'true'
+  - she
+  - too
 - - helped
   - them
   - come
-- - crates
-  - were
-  - delivered
 - - absolutely
   - 'no'
   - idea
-- - tell
-  - her
+- - her
+  - uncle
   - how
+- - were
+  - excessively
+  - rowdy
+- - pliers
+  - rinsing
+  - out
+- - crates
+  - were
+  - delivered
 - - monkeys
   - were
   - dagobert
 - - howler
   - monkeys
   - were
-- - pliers
-  - rinsing
-  - out
 - - toy
   - monkeys
   - out
 - - them
   - come
   - 'true'
+- - tell
+  - her
+  - how
 - - were
   - six
   - simple
 - - man
   - who
   - regretted
-- - bitter
-  - man
-  - who
 - - monkey
   - hunter
   - all
+- - bitter
+  - man
+  - who
 - - them
   - down
   - stun
@@ -365,32 +365,32 @@ ngrams:
 - - hunt
   - them
   - down
-- - do
-  - she
-  - explained
-- - never
-  - stopped
-  - their
-- - her
-  - how
-  - many
 - - sleeping
   - monkeys
   - there
-- - chalet
-  - just
-  - up
+- - never
+  - stopped
+  - their
 - - monkeys
   - could
   - do
-- - 'no'
-  - idea
-  - how
+- - chalet
+  - just
+  - up
+- - do
+  - she
+  - explained
+- - merovingian
+  - kings
+  - so
 - - 'no'
   - such
   - shops
-- - merovingian
-  - kings
+- - 'no'
+  - idea
+  - how
+- - lab
+  - coat
   - so
 story:
   date: 2008-07-16

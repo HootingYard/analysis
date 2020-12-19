@@ -1,46 +1,40 @@
 ngrams:
 - - toasting
   - forks
-  - cackling
+  - purely
 - - toasting
   - forks
-  - purely
-- - showy
-  - napery
-  - gleaming
+  - cackling
 - - opium
   - daze
   - occasioned
+- - showy
+  - napery
+  - gleaming
 - - devil's
   - horns
   - chained
 - - accompanying
   - texts
   - attribute
-- - tall
-  - graceful
-  - jugs
 - - vindictive
   - mood
   - baines
+- - tall
+  - graceful
+  - jugs
 - - smoke
   - baines
   - taunts
-- - napery
-  - gleaming
-  - silver
 - - mood
   - baines
   - likes
+- - napery
+  - gleaming
+  - silver
 - - gleaming
   - silver
   - glittering
-- - violet
-  - flowers
-  - tall
-- - flowers
-  - tall
-  - graceful
 - - baines
   - awoke
   - dragged
@@ -50,18 +44,27 @@ ngrams:
 - - victorian
   - ladies
   - prey
-- - silver
-  - glittering
-  - glass
+- - flowers
+  - tall
+  - graceful
+- - violet
+  - flowers
+  - tall
 - - escape
   - tomorrow
   - baines
+- - silver
+  - glittering
+  - glass
 - - neurasthenic
   - victorian
   - lady
 - - kitchen
   - devil
   - greetings
+- - foolish
+  - foolish
+  - mistake
 - - hot
   - coals
   - transporting
@@ -74,39 +77,36 @@ ngrams:
 - - white
   - delft
   - dish
-- - below
-  - stairs
-  - forced
-- - foolish
-  - foolish
-  - mistake
+- - hot
+  - toasting
+  - fork
+- - hot
+  - toasting
+  - fork
+- - hot
+  - toasting
+  - fork
 - - venetian
   - glass
   - held
-- - hot
-  - toasting
-  - fork
-- - hot
-  - toasting
-  - fork
-- - hot
-  - toasting
-  - fork
 - - glass
   - held
   - iced
-- - base
-  - white
-  - flowers
-- - glass
-  - dish
-  - held
+- - below
+  - stairs
+  - forced
 - - particularly
   - vindictive
   - mood
+- - base
+  - white
+  - flowers
 - - victorian
   - lady
   - named
+- - glass
+  - dish
+  - held
 - - hard
   - brown
   - soap
@@ -134,54 +134,54 @@ ngrams:
 - - pots
   - using
   - hard
-- - plain
-  - water
-  - lemonade
-- - boiling
-  - water
-  - awaiting
 - - using
   - hard
   - brown
 - - fork
   - oh
   - except
+- - plain
+  - water
+  - lemonade
+- - boiling
+  - water
+  - awaiting
 - - done
   - baines
   - comes
 - - coals
   - transporting
   - myself
-- - bloom
-  - arranged
-  - around
-- - tiny
-  - fountain
-  - played
 - - entire
   - days
   - scrubbing
+- - bloom
+  - arranged
+  - around
 - - own
   - laudanum
   - daze
+- - tiny
+  - fountain
+  - played
 - - life
   - poked
   - anybody
-- - past
-  - six
-  - months
 - - hat
   - thus
   - exposing
 - - comparison
   - things
   - started
-- - white
-  - flowers
-  - always
 - - homburg
   - hat
   - thus
+- - past
+  - six
+  - months
+- - white
+  - flowers
+  - always
 - - devil
   - incarnate
   - come
@@ -200,69 +200,66 @@ ngrams:
 - - amusing
   - new
   - bacillus
-- - precious
-  - little
-  - ventilation
 - - old
   - china
   - dishes
+- - precious
+  - little
+  - ventilation
 - - hand
   - get
   - poked
-- - various
-  - old
-  - china
 - - stood
   - well
   - filled
-- - devilry
-  - too
-  - soon
 - - inveigle
   - one's
   - way
+- - various
+  - old
+  - china
+- - devilry
+  - too
+  - soon
 - - cucumber
   - sandwiches
   - before
 - - sandwiches
   - before
   - addressing
-- - awoke
-  - dragged
-  - down
-- - filthy
-  - kitchenware
-  - down
-- - somerset
-  - coast
-  - where
 - - richly
   - deserved
   - such
+- - somerset
+  - coast
+  - where
+- - where
+  - baines
+  - rules
+- - filthy
+  - kitchenware
+  - down
+- - awoke
+  - dragged
+  - down
 - - religious
   - tracts
   - where
 - - fountain
   - played
   - over
-- - where
-  - baines
-  - rules
-- - direct
-  - approach
-  - may
 - - pantry
   - where
   - baines
+- - direct
+  - approach
+  - may
 - - parlour
   - scene
   - over
 - - far
   - too
   - polite
-- - her
-  - pre-raphaelite
-  - tresses
 - - powers
   - such
   - fear
@@ -275,114 +272,105 @@ ngrams:
 - - less
   - than
   - helpful
-- - nobody
-  - she
-  - asserts
-- - its
-  - base
-  - white
 - - oodles
   - more
   - laudanum
+- - its
+  - base
+  - white
 - - than
   - anything
   - else
 - - more
   - inebriated
   - peasants
-- - breakfast
-  - nobody
+- - her
+  - pre-raphaelite
+  - tresses
+- - nobody
   - she
-- - c
-  - some
-  - oranges
+  - asserts
 - - asserts
   - could
   - better
 - - could
   - better
   - prepare
-- - held
-  - some
-  - olives
+- - honest
+  - though
+  - such
 - - well
   - filled
   - before
+- - am
+  - done
+  - baines
+- - c
+  - some
+  - oranges
+- - breakfast
+  - nobody
+  - she
+- - held
+  - some
+  - olives
 - - dish
   - held
   - some
 - - some
   - carefully
   - picked
+- - am
+  - often
+  - depicted
 - - baines
   - has
   - decreed
-- - honest
-  - though
-  - such
 - - sinner
   - who
   - richly
 - - who
   - richly
   - deserved
+- - them
+  - fresh
+  - raw
 - - tomorrow
   - baines
   - has
 - - occasional
   - sinner
   - who
-- - am
-  - done
-  - baines
-- - her
-  - own
-  - laudanum
-- - experience
-  - has
-  - taught
-- - them
-  - fresh
-  - raw
-- - her
-  - slovenly
-  - yet
-- - kitchenware
-  - down
-  - here
-- - am
-  - often
-  - depicted
 - - keeping
   - them
   - fresh
+- - experience
+  - has
+  - taught
+- - kitchenware
+  - down
+  - here
 - - least
   - until
   - such
+- - her
+  - own
+  - laudanum
+- - her
+  - slovenly
+  - yet
 - - other
   - hand
   - get
+- - such
+  - powers
+  - such
 - - been
   - held
   - captive
 - - china
   - dishes
   - about
-- - such
-  - powers
-  - such
-- - filled
-  - before
-  - her
-- - cooked
-  - fruits
-  - were
-- - long
-  - experience
-  - has
-- - fruits
-  - were
-  - arranged
 - - when
   - baines
   - awoke
@@ -392,42 +380,54 @@ ngrams:
 - - baines
   - suggests
   - when
-- - when
-  - dawn
-  - broke
+- - cooked
+  - fruits
+  - were
+- - fruits
+  - were
+  - arranged
 - - suggests
   - when
   - dawn
+- - when
+  - dawn
+  - broke
+- - long
+  - experience
+  - has
 - - feared
   - more
   - than
+- - filled
+  - before
+  - her
 - - some
   - might
   - cavil
-- - she
-  - asserts
-  - could
+- - fear
+  - if
+  - real
+- - more
+  - than
+  - anything
 - - baines
   - taunts
   - me
 - - restrains
   - me
   - keeps
-- - over
-  - some
-  - carefully
 - - keeps
   - me
   - confined
-- - malfeasance
-  - they
-  - committed
-- - played
-  - over
+- - truth
   - some
-- - more
-  - than
-  - anything
+  - might
+- - over
+  - some
+  - carefully
+- - before
+  - casting
+  - them
 story:
   date: 2012-04-13
   id: 2012-04-13-on-the-kitchen-devil

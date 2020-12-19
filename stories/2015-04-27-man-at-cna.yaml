@@ -20,33 +20,33 @@ ngrams:
 - - stage
   - trickery
   - mustered
+- - lovely
+  - assistant
+  - janet
+- - lovely
+  - assistant
+  - janet
 - - faint
   - glimmer
   - slowly
-- - lovely
-  - assistant
-  - janet
-- - lovely
-  - assistant
-  - janet
 - - variety
   - theatre
   - magician
 - - assistant
   - janet
   - surely
-- - foot
-  - planted
-  - firmly
-- - foot
-  - planted
-  - firmly
 - - ostensibly
   - happy
   - solution
 - - somewhat
   - desperate
   - solution
+- - foot
+  - planted
+  - firmly
+- - foot
+  - planted
+  - firmly
 - - likely
   - mirrors
   - plural
@@ -77,9 +77,6 @@ ngrams:
 - - unoccupied
   - point
   - b
-- - space
-  - between
-  - c
 - - central
   - point
   - b
@@ -89,123 +86,129 @@ ngrams:
 - - together
   - almost
   - abutting
+- - space
+  - between
+  - c
 - - c
+  - point
+  - b
+- - b
   - point
   - b
 - - why
   - c
   - precedes
-- - reasonably
-  - why
-  - c
-- - b
-  - point
-  - b
 - - imagine
   - point
+  - c
+- - reasonably
+  - why
   - c
 - - mirror
   - perhaps
   - placed
-- - damn
-  - thing
-  - makes
 - - hypothesis
   - entirely
   - until
+- - damn
+  - thing
+  - makes
 - - close
   - together
   - almost
 - - call
   - point
   - c
-- - ask
-  - reasonably
-  - why
 - - above
   - point
   - b
 - - whole
   - damn
   - thing
-- - compelling
-  - reason
+- - ask
+  - reasonably
   - why
 - - jammed
   - between
   - point
-- - reason
+- - compelling
+  - reason
   - why
-  - b
-- - suddenly
-  - vanish
-  - away
 - - between
   - point
   - c
+- - reason
+  - why
+  - b
 - - point
   - b
   - between
 - - point
   - b
   - between
-- - bona
-  - fide
-  - man
+- - suddenly
+  - vanish
+  - away
 - - himself
   - swinging
   - between
 - - point
   - c
   - point
-- - thing
-  - makes
-  - sense
-- - both
-  - point
-  - c
 - - point
   - b
   - point
+- - both
+  - point
+  - c
+- - thing
+  - makes
+  - sense
 - - lug
   - himself
   - along
 - - legs
   - being
   - withered
+- - bona
+  - fide
+  - man
 - - show
   - how
   - facetious
 - - these
   - laws
   - simply
-- - man
-  - absolutely
-  - identical
-- - proposition
-  - down
-  - violently
 - - matter
   - how
   - uncannily
 - - must
   - lug
   - himself
+- - man
+  - absolutely
+  - identical
+- - proposition
+  - down
+  - violently
 - - passing
   - through
   - b
-- - conundrum
-  - alas
-  - our
-- - why
-  - b
-  - should
-- - alas
-  - our
-  - nap
 - - than
   - satisfactory
   - doppelganger
+- - conundrum
+  - alas
+  - our
+- - might
+  - ask
+  - reasonably
+- - alas
+  - our
+  - nap
+- - why
+  - b
+  - should
 - - withered
   - such
   - infirmity
@@ -221,81 +224,78 @@ ngrams:
 - - minds
   - than
   - mine
-- - little
-  - point
-  - b
 - - very
   - different
   - beast
 - - might
-  - ask
-  - reasonably
-- - let
-  - us
-  - consider
-- - same
-  - man
-  - absolutely
-- - let
-  - us
-  - imagine
+  - stumble
+  - towards
+- - little
+  - point
+  - b
 - - rely
   - upon
   - crutches
-- - posit
-  - its
-  - existence
 - - less
   - than
   - satisfactory
-- - might
-  - stumble
-  - towards
-- - need
-  - only
-  - remark
+- - let
+  - us
+  - consider
+- - posit
+  - its
+  - existence
+- - let
+  - us
+  - imagine
 - - better
   - minds
   - than
+- - same
+  - man
+  - absolutely
 - - more
   - reluctantly
   - suspend
-- - air
-  - just
-  - above
+- - need
+  - only
+  - remark
 - - unexpected
   - angle
   - could
 - - then
   - regrettably
   - remove
-- - just
-  - above
-  - point
 - - cripple
   - could
   - stand
 - - could
   - stand
   - steady
-- - tiny
-  - little
+- - air
+  - just
+  - above
+- - just
+  - above
   - point
-- - our
-  - worries
-  - far
 - - more
   - likely
   - mirrors
+- - our
+  - worries
+  - far
+- - tiny
+  - little
+  - point
+- - until
+  - such
+  - reasoning
 - - think
   - think
   - aha
 - - bewilderment
   - think
   - think
-- - until
-  - such
-  - reasoning
 - - can
   - immediately
   - dispose
@@ -305,51 +305,45 @@ ngrams:
 - - must
   - rely
   - upon
-- - who
-  - appears
-  - identical
 - - scratch
   - our
   - head
-- - takes
-  - him
-  - four
 - - being
   - withered
   - such
 - - must
   - then
   - regrettably
-- - trickery
-  - mustered
-  - up
+- - who
+  - appears
+  - identical
 - - worries
   - far
   - more
 - - far
   - more
   - problematic
-- - only
-  - tiny
-  - little
-- - former
-  - even
-  - down
+- - trickery
+  - mustered
+  - up
+- - takes
+  - him
+  - four
 - - swinging
   - between
   - them
-- - him
-  - four
-  - hours
-- - b
-  - between
-  - them
+- - former
+  - even
+  - down
 - - can
   - perhaps
   - account
-- - already
-  - been
-  - shown
+- - b
+  - between
+  - them
+- - only
+  - tiny
+  - little
 - - more
   - usual
   - much
@@ -359,6 +353,12 @@ ngrams:
 - - much
   - more
   - usual
+- - him
+  - four
+  - hours
+- - already
+  - been
+  - shown
 - - hypothetical
   - space
   - when
@@ -374,9 +374,6 @@ ngrams:
 - - laws
   - simply
   - will
-- - man
-  - who
-  - appears
 - - makes
   - sense
   - if
@@ -392,6 +389,9 @@ ngrams:
 - - infirmity
   - would
   - fit
+- - man
+  - who
+  - appears
 story:
   date: 2015-04-27
   id: 2015-04-27-man-at-cna

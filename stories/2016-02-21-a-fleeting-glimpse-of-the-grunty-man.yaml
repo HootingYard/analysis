@@ -5,12 +5,12 @@ ngrams:
 - - loathsome
   - fantastical
   - creature
-- - fantastical
-  - creature
-  - safe
 - - mail
   - coach
   - heading
+- - fantastical
+  - creature
+  - safe
 - - cursed
   - heaven
   - thereafter
@@ -20,12 +20,12 @@ ngrams:
 - - eke
   - seven
   - fat
-- - profitable
-  - hour
-  - reading
 - - walking
   - thus
   - waving
+- - profitable
+  - hour
+  - reading
 - - fairly
   - uneventful
   - life
@@ -47,6 +47,12 @@ ngrams:
 - - homeland
   - these
   - thoughts
+- - shortly
+  - after
+  - digesting
+- - never
+  - really
+  - existed
 - - grunty
   - man
   - darting
@@ -56,12 +62,6 @@ ngrams:
 - - grunty
   - man
   - lurking
-- - shortly
-  - after
-  - digesting
-- - never
-  - really
-  - existed
 - - once
   - again
   - kicked
@@ -74,9 +74,12 @@ ngrams:
 - - cows
   - come
   - home
-- - man
-  - darting
-  - between
+- - stumble
+  - upon
+  - fleeting
+- - upon
+  - fleeting
+  - mentions
 - - went
   - striding
   - through
@@ -86,24 +89,21 @@ ngrams:
 - - our
   - island
   - history
+- - man
+  - darting
+  - between
 - - through
   - volume
   - three
-- - stumble
-  - upon
-  - fleeting
-- - upon
-  - fleeting
-  - mentions
-- - strongly
-  - suspected
-  - her
 - - smoking
   - room
   - where
 - - should
   - say
   - books
+- - strongly
+  - suspected
+  - her
 - - estate
   - peasants
   - who
@@ -119,15 +119,15 @@ ngrams:
 - - servant
   - who
   - came
+- - occasionally
+  - emerging
+  - into
 - - been
   - seen
   - boarding
 - - thoughts
   - were
   - interrupted
-- - occasionally
-  - emerging
-  - into
 - - think
   - can
   - recall
@@ -140,78 +140,84 @@ ngrams:
 - - head
   - 'off'
   - did
-- - grunt
-  - some
-  - more
 - - make
   - recompense
   - when
+- - grunt
+  - some
+  - more
 - - these
   - thoughts
   - were
 - - our
   - spine
   - when
+- - might
+  - spare
+  - me
+- - an
+  - unfathomably
+  - dull
 - - grunty
   - man
   - all
 - - an
-  - unfathomably
-  - dull
-- - an
   - obscure
   - figure
-- - might
-  - spare
-  - me
 - - this
   - loathsome
   - fantastical
 - - love
   - this
   - stuff
-- - some
-  - more
-  - now
+- - sufficiently
+  - boiled
+  - or
 - - now
   - tempestuous
   - so
-- - sufficiently
-  - boiled
+- - some
+  - more
+  - now
+- - really
+  - existed
   - or
 - - grown
   - we
   - can
-- - obscure
-  - figures
-  - from
-- - really
-  - existed
-  - or
 - - 'off'
   - did
   - me
-- - grunty
-  - man
-  - one
+- - obscure
+  - figures
+  - from
 - - we
   - can
   - look
-- - dead
-  - toads
-  - from
-- - passage
-  - at
-  - luncheon
+- - grunty
+  - man
+  - one
 - - boiled
   - or
   - perhaps
 - - dull
   - book
   - or
+- - passage
+  - at
+  - luncheon
+- - dead
+  - toads
+  - from
 - - upon
   - this
   - passage
+- - spine
+  - when
+  - we
+- - there
+  - were
+  - hints
 - - by
   - skittish
   - cooks
@@ -221,12 +227,6 @@ ngrams:
 - - sermons
   - by
   - parson
-- - there
-  - were
-  - hints
-- - horrors
-  - inflicted
-  - by
 story:
   date: 2016-02-21
   id: 2016-02-21-a-fleeting-glimpse-of-the-grunty-man

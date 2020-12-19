@@ -14,30 +14,30 @@ ngrams:
 - - tubular
   - steel
   - pistons
-- - wharf
-  - constabulary's
-  - investigative
 - - ives
   - wallace
   - stevens
 - - shamanic
   - insurance
   - solutions
+- - wharf
+  - constabulary's
+  - investigative
 - - emotional
   - distress
   - disfigurement
-- - whirling
-  - ecstatic
-  - frenzy
-- - emitted
-  - pneumatic
-  - hisses
 - - booth
   - rental
   - authority
 - - acerbic
   - battered
   - chippy
+- - whirling
+  - ecstatic
+  - frenzy
+- - emitted
+  - pneumatic
+  - hisses
 - - numerous
   - pulp
   - paperbacks
@@ -53,9 +53,9 @@ ngrams:
 - - claimed
   - emotional
   - distress
-- - insurance
-  - agent
-  - cracked
+- - pier
+  - booth
+  - rental
 - - insurance
   - man's
   - card
@@ -65,21 +65,21 @@ ngrams:
 - - shaman
   - needed
   - insurance
-- - greasy
-  - insurance
+- - insurance
   - agent
+  - cracked
 - - blunkett
   - bonkers
   - maisie
-- - company
-  - acerbic
-  - battered
-- - pier
-  - booth
-  - rental
 - - industry
   - listening
   - attentively
+- - greasy
+  - insurance
+  - agent
+- - company
+  - acerbic
+  - battered
 - - wharf
   - pier
   - booth
@@ -89,111 +89,111 @@ ngrams:
 - - genius
   - charles
   - ives
-- - desktop
-  - bonsai
-  - garden
-- - creative
-  - genius
-  - charles
-- - evil
-  - tattooist
-  - david
-- - suburban
-  - shaman
-  - struck
-- - ellipsis
-  - joost
-  - van
 - - ineffable
   - mystery
   - blotting
-- - seven
-  - prancing
-  - paces
-- - ecstatic
-  - frenzy
-  - van
-- - david
-  - blunkett
-  - bonkers
-- - terrestrial
-  - globe
-  - van
+- - creative
+  - genius
+  - charles
+- - suburban
+  - shaman
+  - struck
+- - evil
+  - tattooist
+  - david
+- - desktop
+  - bonsai
+  - garden
 - - absolutely
   - specific
   - gibberish
-- - kim
-  - fat
-  - goo
-- - beset
-  - joost
-  - van
+- - seven
+  - prancing
+  - paces
 - - creative
   - lives
   - separate
+- - david
+  - blunkett
+  - bonkers
+- - kim
+  - fat
+  - goo
+- - ellipsis
+  - joost
+  - van
 - - jesuit
   - kim
   - fat
+- - ecstatic
+  - frenzy
+  - van
+- - terrestrial
+  - globe
+  - van
 - - needed
   - insurance
   - cover
+- - beset
+  - joost
+  - van
+- - camp
+  - table
+  - swigging
+- - particularly
+  - exhausting
+  - session
+- - eerie
+  - foolish
+  - grunting
 - - insurance
   - policies
   - became
 - - suspiciously
   - manicured
   - hands
-- - camp
-  - table
-  - swigging
-- - manicured
-  - hands
-  - insurance
 - - sopping
   - wet
   - thursday
-- - particularly
-  - exhausting
-  - session
-- - hands
-  - insurance
-  - policies
 - - thomas
   - de
   - quincey
-- - flesh
-  - half
-  - mascara
-- - eerie
-  - foolish
-  - grunting
+- - manicured
+  - hands
+  - insurance
+- - hands
+  - insurance
+  - policies
 - - regular
   - tea
   - intake
-- - latest
-  - news
-  - headlines
-- - agent
-  - cracked
-  - open
+- - flesh
+  - half
+  - mascara
 - - freshly
   - written
   - insurance
 - - written
   - insurance
   - policy
+- - latest
+  - news
+  - headlines
 - - tavern
   - balcony
   - looking
+- - agent
+  - cracked
+  - open
 - - wet
   - thursday
   - afternoon
-- - small
-  - cramped
-  - booth
 - - accounts
   - painstakingly
   - taken
+- - small
+  - cramped
+  - booth
 - - filthy
   - fields
   - van
@@ -206,9 +206,6 @@ ngrams:
 - - town
   - quantity
   - surveyor
-- - half
-  - flesh
-  - half
 - - shuffled
   - along
   - stepping
@@ -218,57 +215,60 @@ ngrams:
 - - given
   - equal
   - weight
-- - work
-  - goofiness
-  - wins
 - - goofy
   - nor
   - macabre
-- - early
-  - style
-  - seen
+- - half
+  - flesh
+  - half
+- - work
+  - goofiness
+  - wins
 - - along
   - stepping
   - carefully
+- - early
+  - style
+  - seen
+- - stories
+  - both
+  - goofy
+- - suburban
+  - shaman
+  - came
 - - communal
   - hysteria
   - around
 - - suburban
   - shaman
   - found
-- - suburban
-  - shaman
-  - came
-- - stories
-  - both
-  - goofy
 - - mystic
   - arts
   - without
 - - macabre
-  - village
-  - later
-- - equal
-  - weight
-  - every
-- - macabre
   - yet
   - goofy
 - - macabre
   - yet
   - goofy
-- - pointed
-  - sticks
-  - set
-- - word
-  - possibly
-  - including
 - - neither
   - goofy
   - nor
+- - pointed
+  - sticks
+  - set
+- - macabre
+  - village
+  - later
 - - read
   - aloud
   - demands
+- - equal
+  - weight
+  - every
+- - word
+  - possibly
+  - including
 - - own
   - credo
   - allowed
@@ -278,42 +278,12 @@ ngrams:
 - - bonfire
   - while
   - chanting
-- - why
-  - joost
-  - van
-- - while
-  - chanting
-  - gibberish
-- - six
-  - weeks
-  - later
 - - globular
   - earth
   - rather
-- - cracked
-  - open
-  - another
-- - open
-  - another
-  - bottle
-- - own
-  - chain
-  - van
-- - policies
-  - became
-  - things
-- - shaman
-  - came
-  - face
-- - prancing
-  - paces
-  - away
-- - thursday
-  - afternoon
-  - yet
-- - devised
-  - new
-  - tricks
+- - while
+  - chanting
+  - gibberish
 - - litigious
   - pointy
   - town
@@ -323,15 +293,48 @@ ngrams:
 - - pointy
   - town
   - quantity
+- - why
+  - joost
+  - van
+- - cracked
+  - open
+  - another
+- - six
+  - weeks
+  - later
 - - tea
   - though
   - ridiculed
-- - enough
-  - twaddle
-  - let
+- - own
+  - chain
+  - van
+- - policies
+  - became
+  - things
+- - prancing
+  - paces
+  - away
+- - open
+  - another
+  - bottle
+- - thursday
+  - afternoon
+  - yet
+- - shaman
+  - came
+  - face
+- - devised
+  - new
+  - tricks
 - - weight
   - every
   - single
+- - enough
+  - twaddle
+  - let
+- - quite
+  - enough
+  - twaddle
 - - goofiness
   - falls
   - 'off'
@@ -347,152 +350,146 @@ ngrams:
 - - twinkly
   - twirly
   - man
-- - quite
-  - enough
-  - twaddle
-- - squid
-  - woman
-  - little
-- - woman
-  - little
-  - severin
 - - very
   - choreographed
   - whirling
 - - pint
   - after
   - pint
-- - sank
-  - pint
-  - after
+- - squid
+  - woman
+  - little
 - - macabre
   - begins
   - just
-- - also
-  - goofy
-  - why
 - - churning
   - sea
   - far
+- - sank
+  - pint
+  - after
+- - woman
+  - little
+  - severin
+- - also
+  - goofy
+  - why
 - - shaman
   - found
   - himself
 - - found
   - himself
   - distracted
-- - two
-  - men
-  - inside
-- - plane
-  - accessible
-  - only
 - - coming
   - years
   - six
-- - years
-  - six
-  - weeks
-- - through
-  - regular
-  - tea
-- - those
-  - filthy
-  - fields
 - - one's
   - voice
   - much
+- - plane
+  - accessible
+  - only
+- - those
+  - filthy
+  - fields
+- - two
+  - men
+  - inside
 - - goofiness
   - takes
   - over
 - - narrow
   - territory
   - where
+- - years
+  - six
+  - weeks
 - - entirely
   - new
   - kind
-- - twirly
-  - man
-  - told
+- - through
+  - regular
+  - tea
 - - tea
   - before
   - bringing
+- - ways
+  - such
+  - antics
+- - bonsai
+  - garden
+  - than
+- - twirly
+  - man
+  - told
+- - remarkable
+  - ways
+  - such
+- - dependent
+  - upon
+  - copious
 - - day
   - joost
   - van
 - - twaddle
   - let
   - us
-- - next
-  - three
-  - people
-- - bonsai
-  - garden
-  - than
-- - ways
-  - such
-  - antics
-- - hapless
-  - goon
-  - like
-- - may
-  - sound
-  - implausible
-- - remarkable
-  - ways
-  - such
-- - its
-  - hallucinatory
-  - qualities
-- - painstakingly
-  - taken
-  - down
-- - arts
-  - without
-  - being
-- - tea
-  - intake
-  - than
-- - rent
-  - its
-  - booths
-- - let
-  - us
-  - return
-- - dependent
-  - upon
-  - copious
 - - upon
   - copious
   - cups
+- - may
+  - sound
+  - implausible
+- - tea
+  - intake
+  - than
+- - its
+  - hallucinatory
+  - qualities
+- - next
+  - three
+  - people
+- - arts
+  - without
+  - being
 - - passing
   - through
   - pointy
-- - booth
-  - now
-  - van
-- - without
-  - being
-  - covered
-- - vowed
-  - never
-  - again
-- - early
-  - trash
+- - rent
+  - its
+  - booths
+- - hapless
+  - goon
   - like
-- - weeks
-  - later
-  - after
+- - painstakingly
+  - taken
+  - down
 - - dozens
   - upon
   - dozens
+- - let
+  - us
+  - return
+- - vowed
+  - never
+  - again
 - - quantity
   - surveyor
   - could
+- - without
+  - being
+  - covered
+- - booth
+  - now
+  - van
+- - weeks
+  - later
+  - after
 - - too
   - saw
   - himself
-- - call
-  - jouissance
+- - early
+  - trash
   - like
 - - such
   - fantastic
@@ -500,105 +497,249 @@ ngrams:
 - - those
   - things
   - aside
-- - jouissance
-  - word
-  - now
 - - whom
   - fees
   - could
-- - jouissance
+- - call
+  - jouissance
   - like
-  - almost
-- - like
-  - almost
-  - everybody
 - - ellipses
   - than
   - words
 - - through
   - pointy
   - town
-- - entirely
-  - new
-  - being
+- - jouissance
+  - word
+  - now
 - - such
   - antics
   - thought
-- - seemed
-  - more
-  - intent
 - - saw
   - dozens
   - upon
-- - afternoon
-  - yet
-  - only
+- - jouissance
+  - like
+  - almost
+- - like
+  - almost
+  - everybody
+- - seemed
+  - more
+  - intent
+- - entirely
+  - new
+  - being
 - - never
   - ever
   - try
+- - afternoon
+  - yet
+  - only
 - - earnings
   - after
   - being
-- - after
-  - being
-  - entranced
-- - clutterbuck
-  - sextet
-  - who
 - - earth
   - rather
   - than
-- - quantity
-  - surveyor
-  - who
-- - sextet
-  - who
-  - performed
+- - after
+  - being
+  - entranced
 - - said
   - tea
   - though
 - - them
   - sank
   - pint
+- - clutterbuck
+  - sextet
+  - who
+- - its
+  - own
+  - chain
+- - quantity
+  - surveyor
+  - who
+- - sextet
+  - who
+  - performed
 - - surveyor
   - who
   - claimed
 - - everybody
   - who
   - uses
+- - am
+  - repeating
+  - myself
 - - nearby
   - booth
   - who
 - - who
   - claimed
   - emotional
-- - its
-  - own
-  - chain
 - - accessible
   - only
   - through
 - - only
   - through
   - whirling
-- - de
-  - quincey
-  - who
-- - flap
-  - behind
-  - him
 - - saw
   - why
   - did
-- - hair
+- - de
+  - quincey
   - who
-  - dithered
-- - am
-  - repeating
-  - myself
 - - their
   - nervous
   - sensibilities
+- - realists
+  - their
+  - accounts
+- - their
+  - accounts
+  - painstakingly
+- - made
+  - such
+  - fantastic
+- - flap
+  - behind
+  - him
+- - might
+  - know
+  - especially
+- - hair
+  - who
+  - dithered
+- - their
+  - company
+  - acerbic
+- - much
+  - like
+  - stevens
+- - shaman
+  - struck
+  - up
+- - almost
+  - everybody
+  - who
+- - voice
+  - much
+  - like
+- - during
+  - their
+  - appointment
+- - sit
+  - during
+  - their
+- - separate
+  - when
+  - devoting
+- - gumshoes
+  - were
+  - deemed
+- - were
+  - numberless
+  - booths
+- - were
+  - deemed
+  - reliable
+- - goofiness
+  - wins
+  - out
+- - make
+  - him
+  - laugh
+- - beauty
+  - if
+  - von
+- - lives
+  - separate
+  - when
+- - even
+  - more
+  - macabre
+- - more
+  - ellipses
+  - than
+- - nervous
+  - sensibilities
+  - will
+- - insurance
+  - having
+  - been
+- - writer
+  - has
+  - ever
+- - having
+  - been
+  - dragged
+- - balcony
+  - looking
+  - out
+- - beliefs
+  - were
+  - 'true'
+- - make
+  - 'no'
+  - apologies
+- - ever
+  - made
+  - such
+- - soon
+  - drowned
+  - out
+- - whirling
+  - about
+  - around
+- - man
+  - who
+  - spends
+- - insurance
+  - man
+  - who
+- - suburban
+  - shaman
+  - would
+- - what
+  - happened
+  - next
+- - sensibilities
+  - will
+  - always
+- - quincey
+  - who
+  - said
+- - when
+  - read
+  - aloud
+- - man
+  - told
+  - him
+- - would
+  - call
+  - jouissance
+- - so
+  - inextricably
+  - fused
+- - been
+  - dragged
+  - through
+- - who
+  - said
+  - tea
+- - any
+  - other
+  - way
+- - through
+  - whirling
+  - about
+- - being
+  - entranced
+  - into
+- - other
+  - writer
+  - has
 story:
   date: 2007-06-12
   id: 2007-06-12-goofy-macabre

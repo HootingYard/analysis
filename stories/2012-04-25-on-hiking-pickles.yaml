@@ -1,37 +1,34 @@
 ngrams:
+- - subaquatic
+  - sentient
+  - vegetation
+- - subaquatic
+  - sentient
+  - vegetation
 - - unimaginably
   - tangled
   - tangle
-- - subaquatic
-  - sentient
-  - vegetation
-- - subaquatic
-  - sentient
-  - vegetation
-- - uncanny
-  - subaquatic
-  - sentient
-- - uncanny
-  - subaquatic
-  - sentient
 - - eerily
   - sentient
   - vegetation
-- - sentient
-  - vegetation
-  - pickle
-- - sentient
-  - vegetation
-  - pickle
+- - uncanny
+  - subaquatic
+  - sentient
+- - uncanny
+  - subaquatic
+  - sentient
 - - pickle
   - per
   - se
+- - sentient
+  - vegetation
+  - pickle
+- - sentient
+  - vegetation
+  - pickle
 - - specific
   - theoretical
   - pickle
-- - lower
-  - limbs
-  - entangled
 - - hiking
   - pickle
   - per
@@ -41,12 +38,15 @@ ngrams:
 - - eerie
   - primitive
   - sentience
-- - mercifully
-  - theoretical
-  - scene
+- - lower
+  - limbs
+  - entangled
 - - theoretical
   - pickle
   - described
+- - mercifully
+  - theoretical
+  - scene
 - - hiker
   - merely
   - needs
@@ -56,12 +56,12 @@ ngrams:
 - - enshrouding
   - mist
   - high
-- - breathtakingly
-  - exciting
-  - subject
 - - 'true'
   - hiking
   - pickle
+- - breathtakingly
+  - exciting
+  - subject
 - - boa
   - constrictor
   - thus
@@ -74,15 +74,12 @@ ngrams:
 - - teeth
   - within
   - seconds
-- - become
-  - entangled
-  - making
 - - athlete
   - scampering
   - across
-- - must
-  - '-'
-  - excuse
+- - become
+  - entangled
+  - making
 - - grass
   - every
   - pebble
@@ -101,96 +98,99 @@ ngrams:
 - - enshrouding
   - mist
   - come
-- - ditch
-  - every
-  - sprig
-- - fascination
-  - most
-  - reasonable
-- - pebble
-  - every
-  - ditch
-- - endless
-  - fascination
-  - most
 - - vegetation
   - pickle
   - mr
-- - mist
-  - come
-  - suddenly
+- - ditch
+  - every
+  - sprig
+- - pebble
+  - every
+  - ditch
+- - fascination
+  - most
+  - reasonable
+- - endless
+  - fascination
+  - most
 - - instead
   - finds
   - himself
+- - mist
+  - come
+  - suddenly
 - - key
   - posits
   - three
 - - never
   - plunge
   - inadvertently
+- - must
+  - '-'
+  - excuse
 - - being
   - smooth
   - unlike
 - - wellington
   - boots
   - being
-- - boots
-  - being
-  - smooth
-- - our
-  - hiker
-  - hiked
 - - mr
   - key
   - posits
-- - most
-  - reasonable
-  - people
+- - boots
+  - being
+  - smooth
 - - mr
   - key
   - describes
+- - pickle
+  - mr
+  - key
+- - pickle
+  - mr
+  - key
+- - our
+  - hiker
+  - hiked
 - - any
   - eerily
   - sentient
-- - pickle
-  - mr
-  - key
-- - pickle
-  - mr
-  - key
-- - every
-  - pebble
-  - every
+- - most
+  - reasonable
+  - people
 - - primitive
   - sentience
   - such
 - - every
-  - ditch
+  - pebble
   - every
-- - subject
-  - once
-  - again
-- - invading
-  - its
-  - watery
-- - any
-  - circumstances
-  - short
-- - swathe
-  - upon
-  - swathe
 - - sachet
   - upon
   - sachet
+- - swathe
+  - upon
+  - swathe
+- - every
+  - ditch
+  - every
+- - kit
+  - swathe
+  - upon
+- - subject
+  - once
+  - again
+- - any
+  - circumstances
+  - short
+- - invading
+  - its
+  - watery
 - - its
   - watery
   - domain
 - - very
   - same
   - pickle
-- - kit
-  - swathe
-  - upon
 - - legs
   - invading
   - its
@@ -203,15 +203,15 @@ ngrams:
 - - could
   - easily
   - extract
+- - pickle
+  - could
+  - happen
 - - hiking
   - pickle
   - then
 - - week's
   - time
   - commandos
-- - pickle
-  - could
-  - happen
 - - know
   - every
   - blade
@@ -221,12 +221,12 @@ ngrams:
 - - hiker
   - can
   - sit
-- - sentient
-  - vegetation
-  - has
 - - same
   - pickle
   - could
+- - sentient
+  - vegetation
+  - has
 - - come
   - suddenly
   - upon
@@ -248,27 +248,24 @@ ngrams:
 - - such
   - other
   - pickles
-- - any
-  - other
-  - type
 - - pickle
   - itself
   - what
+- - any
+  - other
+  - type
 - - until
   - picked
   - up
 - - until
   - picked
   - up
-- - plunges
-  - all
-  - unawares
 - - make
   - 'no'
   - apology
-- - '-'
-  - excuse
-  - me
+- - plunges
+  - all
+  - unawares
 - - will
   - become
   - entangled
@@ -278,129 +275,132 @@ ngrams:
 - - set
   - myself
   - up
-- - sprig
-  - they
-  - certainly
-- - great
-  - agility
-  - out
-- - when
-  - hiking
-  - take
 - - proper
   - pickle
   - we
-- - just
-  - been
-  - handed
+- - sprig
+  - they
+  - certainly
 - - free
   - himself
   - if
+- - when
+  - hiking
+  - take
+- - great
+  - agility
+  - out
 - - dry
   - fell
   - there
+- - '-'
+  - excuse
+  - me
 - - up
   - any
   - wounds
-- - patch
-  - up
-  - any
-- - activity
-  - which
-  - lend
+- - just
+  - been
+  - handed
 - - so
   - blindingly
   - obvious
 - - knife
   - so
   - sharp
-- - get
-  - all
-  - sorts
+- - patch
+  - up
+  - any
+- - reasonable
+  - people
+  - would
+- - people
+  - would
+  - agree
 - - arms
   - too
   - will
+- - get
+  - all
+  - sorts
+- - before
+  - about
+  - hiking
+- - activity
+  - which
+  - lend
 - - commandos
   - are
   - armed
 - - every
   - sprig
   - they
-- - reasonable
-  - people
-  - would
-- - which
-  - lend
-  - themselves
-- - before
-  - about
-  - hiking
-- - people
-  - would
-  - agree
 - - hike
   - back
   - out
-- - human
-  - activity
-  - which
 - - too
   - will
   - become
-- - we
-  - must
-  - '-'
+- - which
+  - lend
+  - themselves
 - - see
   - when
   - reading
 - - written
   - before
   - about
+- - human
+  - activity
+  - which
 - - will
   - take
   - each
 - - an
   - unimaginably
   - tangled
+- - we
+  - must
+  - '-'
+- - would
+  - never
+  - plunge
 - - an
   - uncanny
   - subaquatic
 - - an
   - uncanny
   - subaquatic
-- - an
-  - athlete
-  - scampering
 - - an
   - enshrouding
   - mist
+- - an
+  - athlete
+  - scampering
 - - are
   - few
   - spheres
+- - other
+  - creatures
+  - if
 - - an
   - eerie
   - primitive
 - - an
   - easy
   - task
-- - dale
-  - they
-  - know
-- - would
-  - never
-  - plunge
-- - other
-  - creatures
-  - if
-- - this
-  - mercifully
-  - theoretical
-- - care
-  - one
-  - jot
 - - we
   - consider
   - just
+- - this
+  - mercifully
+  - theoretical
+- - dale
+  - they
+  - know
+- - care
+  - one
+  - jot
 - - this
   - hardly
   - constitutes
@@ -410,9 +410,9 @@ ngrams:
 - - they
   - certainly
   - know
-- - had
-  - sufficient
-  - purchase
+- - subaquatic
+  - creeper
+  - or
 story:
   date: 2012-04-25
   id: 2012-04-25-on-hiking-pickles

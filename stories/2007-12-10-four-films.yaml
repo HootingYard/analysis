@@ -8,18 +8,18 @@ ngrams:
 - - feeble
   - sports
   - comedy
-- - leaden
-  - action
-  - comedy
 - - capsule
   - reviews
   - bbc
-- - action
+- - leaden
+  - action
   - comedy
-  - channel
 - - bbc
   - eschewing
   - cinema
+- - action
+  - comedy
+  - channel
 - - darkness
   - tedious
   - adventure
@@ -38,12 +38,12 @@ ngrams:
 - - channel
   - four
   - happy
-- - film
-  - reviews
-  - since
 - - write
   - capsule
   - film
+- - film
+  - reviews
+  - since
 - - own
   - faltering
   - steps

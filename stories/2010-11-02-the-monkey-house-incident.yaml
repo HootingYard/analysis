@@ -2,33 +2,33 @@ ngrams:
 - - tenor
   - enrico
   - caruso
-- - enrico
-  - caruso
-  - guilty
 - - knocko
   - prosecuting
   - counsel
-- - overcoat
-  - enrico
+- - enrico
   - caruso
-- - finest
-  - italian
-  - tenor
-- - york
-  - metropolitan
-  - opera
-- - famous
-  - tenor
-  - enrico
-- - allow
+  - guilty
+- - overcoat
   - enrico
   - caruso
 - - subsequent
   - legal
   - palaver
+- - york
+  - metropolitan
+  - opera
+- - finest
+  - italian
+  - tenor
+- - allow
+  - enrico
+  - caruso
 - - loudly
   - enter
   - heinrich
+- - famous
+  - tenor
+  - enrico
 - - foreign
   - gent
   - moves
@@ -41,12 +41,12 @@ ngrams:
 - - opera
   - foreign
   - gent
-- - disruptive
-  - antics
-  - meant
 - - weeping
   - loudly
   - enter
+- - disruptive
+  - antics
+  - meant
 - - foreign
   - gent
   - i've
@@ -56,57 +56,60 @@ ngrams:
 - - central
   - park
   - zoo
-- - weeping
-  - thank
-  - heaven
 - - monkey
   - foreign
   - gent
+- - weeping
+  - thank
+  - heaven
 - - stirred
   - public
   - interest
-- - gent
-  - moves
-  - towards
 - - prosecuting
   - counsel
   - tell
-- - later
-  - prosecuting
-  - counsel
-- - dollars
-  - scene
-  - four
-- - morning
-  - madam
-  - respectable
-- - house
-  - incident
-  - scene
-- - under
-  - arrest
-  - knocko
+- - gent
+  - moves
+  - towards
 - - annoying
   - several
   - women
+- - later
+  - prosecuting
+  - counsel
+- - morning
+  - madam
+  - respectable
+- - dollars
+  - scene
+  - four
+- - under
+  - arrest
+  - knocko
 - - monkey
   - house
   - incident
 - - monkey
   - house
   - incident
+- - house
+  - incident
+  - scene
 - - chum
   - you're
   - under
-- - you're
-  - under
-  - arrest
 - - later
   - alfred
   - m
 - - foreign
   - gent
   - good
+- - you're
+  - under
+  - arrest
+- - indeed
+  - famous
+  - tenor
 - - police
   - cells
   - later
@@ -116,30 +119,27 @@ ngrams:
 - - prison
   - scene
   - three
-- - indeed
-  - famous
-  - tenor
 - - year
   - curtain
   - further
-- - fire
-  - station
-  - later
 - - curtain
   - further
   - reading
-- - week
+- - fire
+  - station
   - later
-  - prosecuting
 - - gent
   - still
   - weeping
-- - fire
-  - department
-  - until
+- - week
+  - later
+  - prosecuting
 - - foreign
   - gent
   - still
+- - fire
+  - department
+  - until
 - - new
   - york
   - cop

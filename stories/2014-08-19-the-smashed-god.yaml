@@ -5,18 +5,18 @@ ngrams:
 - - blasphemers
   - languished
   - muffled
-- - tremendous
-  - growling
-  - noise
 - - tuesday
   - evenings
   - bosh
-- - prayers
-  - involved
-  - animal
 - - alleyway
   - singing
   - snatches
+- - prayers
+  - involved
+  - animal
+- - tremendous
+  - growling
+  - noise
 - - involved
   - animal
   - sacrifice
@@ -38,12 +38,12 @@ ngrams:
 - - cold
   - tomato
   - soup
-- - whose
-  - breath
-  - ignited
 - - clingfilm
   - sausage
   - god
+- - whose
+  - breath
+  - ignited
 - - athletics
   - track
   - god
@@ -56,12 +56,12 @@ ngrams:
 - - crumbling
   - seaside
   - town
-- - god
-  - whose
-  - breath
 - - thence
   - ferried
   - far
+- - god
+  - whose
+  - breath
 - - six
   - months
   - ago
@@ -71,36 +71,36 @@ ngrams:
 - - sometimes
   - smaller
   - every
-- - funny
-  - little
-  - pointed
 - - terrible
   - blasphemy
   - ever
+- - funny
+  - little
+  - pointed
 - - little
   - pointed
   - hats
-- - ephemeral
-  - tiny
-  - things
 - - hardly
   - believe
   - how
 - - spoken
   - nowadays
   - those
+- - ephemeral
+  - tiny
+  - things
 - - those
   - magnificent
   - deities
 - - entranced
   - our
   - windows
-- - window
-  - entranced
-  - our
 - - wrought
   - such
   - ruin
+- - window
+  - entranced
+  - our
 - - ferried
   - far
   - far
@@ -131,30 +131,30 @@ ngrams:
 - - do
   - recall
   - sprawling
-- - puddles
-  - some
-  - gods
-- - how
-  - long
-  - ago
 - - can
   - hardly
   - believe
-- - smaller
-  - every
-  - now
+- - how
+  - long
+  - ago
+- - puddles
+  - some
+  - gods
 - - away
   - though
   - few
-- - few
-  - knew
-  - where
-- - far
-  - far
-  - away
+- - smaller
+  - every
+  - now
 - - far
   - away
   - though
+- - far
+  - far
+  - away
+- - few
+  - knew
+  - where
 - - destructive
   - cataclysm
   - 'no'
@@ -173,6 +173,15 @@ ngrams:
 - - tiny
   - things
   - like
+- - scant
+  - solace
+  - when
+- - what
+  - crumbling
+  - seaside
+- - whose
+  - name
+  - can
 - - blasphemers
   - were
   - banished
@@ -182,66 +191,57 @@ ngrams:
 - - prayers
   - were
   - answered
-- - whose
-  - name
-  - can
-- - scant
-  - solace
-  - when
 - - were
   - steamed
   - clean
 - - law
   - were
   - banished
-- - what
-  - crumbling
-  - seaside
+- - our
+  - windows
+  - then
 - - gods
   - were
   - ephemeral
 - - pods
   - were
   - stuffed
-- - our
-  - windows
-  - then
-- - others
-  - were
-  - massive
 - - gods
   - decked
   - out
+- - others
+  - were
+  - massive
 - - us
   - who
   - rode
-- - magnificent
-  - deities
-  - all
 - - more
   - heads
   - even
+- - am
+  - decrepit
+  - now
+- - magnificent
+  - deities
+  - all
 - - deities
   - all
   - devoted
 - - aloud
   - those
   - who
-- - were
-  - ephemeral
-  - tiny
-- - am
-  - decrepit
-  - now
-- - pointed
-  - hats
-  - all
 - - months
   - ago
   - when
+- - pointed
+  - hats
+  - all
 - - them
   - disappeared
   - over
+- - were
+  - ephemeral
+  - tiny
 - - more
   - often
   - than
@@ -257,51 +257,51 @@ ngrams:
 - - motorcycle
   - would
   - return
-- - which
-  - blasphemers
-  - languished
-- - sunday
-  - night
-  - they
 - - they
   - sputter
   - rather
+- - sunday
+  - night
+  - they
+- - which
+  - blasphemers
+  - languished
 - - are
   - invariably
   - tampered
-- - few
-  - who
-  - know
 - - seaside
   - town
   - we
 - - joyous
   - day
   - when
-- - were
-  - taken
-  - only
-- - always
-  - wondered
-  - which
+- - few
+  - who
+  - know
+- - town
+  - we
+  - took
 - - hats
   - all
   - those
+- - will
+  - never
+  - tell
 - - all
   - those
   - magnificent
 - - pods
   - are
   - thought
-- - will
-  - never
-  - tell
 - - an
   - alleyway
   - singing
-- - town
-  - we
-  - took
+- - always
+  - wondered
+  - which
+- - were
+  - taken
+  - only
 story:
   date: 2014-08-19
   id: 2014-08-19-the-smashed-god

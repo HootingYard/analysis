@@ -11,15 +11,6 @@ ngrams:
 - - nesting
   - patterns
   - lore
-- - feeding
-  - habits
-  - nesting
-- - feeding
-  - habits
-  - nesting
-- - feeding
-  - habits
-  - nesting
 - - habits
   - nesting
   - patterns
@@ -29,6 +20,15 @@ ngrams:
 - - habits
   - nesting
   - patterns
+- - feeding
+  - habits
+  - nesting
+- - feeding
+  - habits
+  - nesting
+- - feeding
+  - habits
+  - nesting
 - - extreme
   - cases
   - geographically
@@ -38,9 +38,6 @@ ngrams:
 - - seeing
   - teeming
   - seagulls
-- - exciting
-  - espionage
-  - thriller
 - - gigantic
   - rubbish
   - tips
@@ -53,6 +50,9 @@ ngrams:
 - - opening
   - sentence
   - credible
+- - exciting
+  - espionage
+  - thriller
 - - pulp
   - magazine
   - aside
@@ -77,6 +77,9 @@ ngrams:
 - - example
   - gosh
   - primrose
+- - moving
+  - briskly
+  - along
 - - gosh
   - primrose
   - look
@@ -86,21 +89,18 @@ ngrams:
 - - blue
   - sky
   - silhouetted
-- - moving
-  - briskly
-  - along
 - - sky
-  - god
-  - willing
+  - silhouetted
+  - against
+- - sky
+  - silhouetted
+  - against
 - - without
   - seeing
   - teeming
 - - sky
-  - silhouetted
-  - against
-- - sky
-  - silhouetted
-  - against
+  - god
+  - willing
 - - fiction
   - stories
   - set
@@ -113,72 +113,72 @@ ngrams:
 - - sky
   - without
   - seeing
-- - find
-  - themselves
-  - wondering
 - - still
   - feel
   - impelled
-- - parts
-  - while
-  - trying
+- - find
+  - themselves
+  - wondering
 - - credible
   - much
   - depends
+- - parts
+  - while
+  - trying
+- - might
+  - glimpse
+  - flocks
 - - ornithologist
   - before
   - unleashing
 - - trained
   - ornithologist
   - before
+- - flying
+  - ostriches
+  - might
 - - often
   - often
   - enough
 - - circling
   - over
   - potential
-- - vultures
-  - circling
-  - over
 - - over
   - potential
   - carrion
-- - might
-  - glimpse
-  - flocks
+- - vultures
+  - circling
+  - over
 - - rather
   - above
   - both
 - - resorts
   - particularly
   - those
-- - flying
-  - ostriches
-  - might
-- - just
-  - don't
-  - forget
 - - planets
   - where
   - characters
-- - get
-  - too
-  - carried
-- - only
-  - temporarily
-  - during
-- - example
-  - those
-  - kinds
+- - just
+  - don't
+  - forget
 - - ornithological
   - knowledge
   - than
+- - example
+  - those
+  - kinds
+- - get
+  - too
+  - carried
 - - than
   - real
   - earthly
 - - find
   - something
   - else
+- - only
+  - temporarily
+  - during
 - - without
   - ever
   - writing
@@ -191,24 +191,24 @@ ngrams:
 - - more
   - ornithological
   - knowledge
+- - might
+  - still
+  - fling
 - - wily
   - writer
   - can
 - - can
   - start
   - blathering
-- - might
-  - still
-  - fling
+- - rather
+  - than
+  - real
 - - carried
   - away
   - just
 - - some
   - seaside
   - resorts
-- - rather
-  - than
-  - real
 - - its
   - own
   - risks
@@ -221,24 +221,15 @@ ngrams:
 - - their
   - feeding
   - habits
-- - away
-  - just
-  - because
 - - reader
   - could
   - find
-- - sake
-  - submit
-  - your
-- - submit
-  - your
-  - manuscript
 - - could
   - find
   - themselves
-- - ornithology
-  - adviser
-  - your
+- - away
+  - just
+  - because
 - - writer
   - can
   - get
@@ -248,27 +239,30 @@ ngrams:
 - - persons
   - who
   - write
-- - your
-  - exciting
-  - espionage
+- - sake
+  - submit
+  - your
+- - submit
+  - your
+  - manuscript
+- - ornithology
+  - adviser
+  - your
+- - without
+  - its
+  - own
 - - course
   - some
   - areas
 - - crane
   - your
   - neck
-- - without
-  - its
-  - own
+- - your
+  - exciting
+  - espionage
 - - wondering
   - what
   - type
-- - adviser
-  - your
-  - best
-- - your
-  - best
-  - bet
 - - themselves
   - wondering
   - what
@@ -278,21 +272,27 @@ ngrams:
 - - starling
   - expert
   - if
-- - were
-  - doing
-  - battle
-- - doing
+- - adviser
   - your
   - best
-- - can
-  - get
-  - around
+- - your
+  - best
+  - bet
 - - science
   - fiction
   - if
+- - can
+  - get
+  - around
+- - were
+  - doing
+  - battle
 - - reader
   - will
   - bask
+- - doing
+  - your
+  - best
 - - among
   - their
   - readers
@@ -311,78 +311,78 @@ ngrams:
 - - birds
   - will
   - appear
-- - up
-  - just
-  - don't
-- - all
-  - birds
-  - fly
-- - all
-  - birds
-  - fly
 - - would
   - probably
   - cause
 - - best
   - bet
   - would
+- - up
+  - just
+  - don't
+- - birds
+  - often
+  - if
 - - primrose
   - look
   - there
 - - primrose
   - look
   - there
+- - all
+  - birds
+  - fly
+- - all
+  - birds
+  - fly
 - - are
   - extreme
   - cases
 - - birds
-  - often
-  - if
-- - birds
   - they
   - mention
-- - seaside
-  - are
-  - extreme
 - - being
   - pointed
   - out
 - - we
   - want
   - readers
+- - seaside
+  - are
+  - extreme
 - - if
   - only
   - temporarily
-- - already
-  - know
-  - about
 - - think
   - all
   - writers
-- - about
-  - these
-  - things
-- - prevent
-  - an
-  - explosion
-- - prevent
-  - an
-  - explosion
-- - dent
-  - an
-  - intergalactic
+- - already
+  - know
+  - about
 - - know
   - more
   - than
-- - readers
-  - are
-  - persons
-- - an
-  - ornithology
-  - adviser
+- - about
+  - these
+  - things
+- - than
+  - others
+  - if
 - - will
   - often
   - see
+- - dent
+  - an
+  - intergalactic
+- - prevent
+  - an
+  - explosion
+- - prevent
+  - an
+  - explosion
+- - readers
+  - are
+  - persons
 story:
   date: 2012-04-20
   id: 2012-04-20-on-flocks-of-birds

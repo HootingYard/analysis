@@ -14,57 +14,57 @@ ngrams:
 - - unexpected
   - lupine
   - savagery
+- - steamer
+  - googie
+  - withers
 - - regular
   - sunrise
   - gleanings
 - - rough
   - tough
   - sailors
-- - steamer
-  - googie
-  - withers
-- - nut
-  - shortage
-  - forced
 - - scholarly
   - journal
   - edited
 - - packet
   - steamer
   - googie
+- - nut
+  - shortage
+  - forced
 - - letting
   - sawdust
   - trail
 - - lupine
   - savagery
   - leaving
-- - afternoon
-  - awaiting
-  - redemption
 - - scholarly
   - journal
   - convinced
+- - afternoon
+  - awaiting
+  - redemption
+- - greater
+  - strength
+  - foolish
 - - savagery
   - leaving
   - millions
 - - nut
   - shortage
   - led
-- - greater
-  - strength
-  - foolish
 - - parish
   - records
   - seem
 - - thursday
   - afternoon
   - awaiting
-- - months
-  - earlier
-  - intriguingly
 - - countryside
   - keeping
   - bees
+- - months
+  - earlier
+  - intriguingly
 - - single
   - charred
   - plank
@@ -77,21 +77,21 @@ ngrams:
 - - strength
   - foolish
   - young
-- - wild
-  - jabbering
-  - pigs
-- - wrote
-  - lying
-  - shamelessly
 - - official
   - statistics
   - give
 - - packet
   - steamer
   - captain
+- - wild
+  - jabbering
+  - pigs
 - - gives
   - full
   - vent
+- - wrote
+  - lying
+  - shamelessly
 - - same
   - unexpected
   - lupine
@@ -101,36 +101,36 @@ ngrams:
 - - pig
   - farmer's
   - hut
-- - cold
-  - stone
-  - floor
 - - friends
   - often
   - cooped
-- - crunched
-  - nuts
-  - morning
+- - cold
+  - stone
+  - floor
 - - untrimmed
   - wicks
   - set
+- - crunched
+  - nuts
+  - morning
 - - nuts
   - morning
   - noon
-- - tiny
-  - shears
-  - essential
 - - fast
   - friends
   - often
+- - tiny
+  - shears
+  - essential
 - - because
   - untrimmed
   - wicks
-- - quandary
-  - because
-  - untrimmed
 - - piece
   - previously
   - appeared
+- - quandary
+  - because
+  - untrimmed
 - - thing
   - parish
   - records
@@ -146,15 +146,27 @@ ngrams:
 - - nut
   - world
   - although
-- - little
-  - canvas
-  - kiosk
-- - runes
-  - dobson
-  - blushed
 - - took
   - against
   - electricity
+- - little
+  - canvas
+  - kiosk
+- - different
+  - ways
+  - yet
+- - nut
+  - glut
+  - just
+- - runes
+  - dobson
+  - blushed
+- - cut
+  - 'off'
+  - supplies
+- - sawdust
+  - trail
+  - through
 - - tallow
   - candles
   - dobson
@@ -167,96 +179,81 @@ ngrams:
 - - candles
   - dobson
   - employed
-- - dobson
-  - forever
-  - deny
-- - cut
-  - 'off'
-  - supplies
-- - nut
-  - glut
-  - just
-- - different
-  - ways
-  - yet
-- - sawdust
-  - trail
-  - through
-- - letters
-  - last
-  - week
 - - detail
   - here
   - aplenty
+- - letters
+  - last
+  - week
+- - dobson
+  - forever
+  - deny
 - - old
   - tin
   - cup
-- - many
-  - different
-  - kinds
-- - gas
-  - people
-  - too
 - - googie
   - withers
   - than
-- - mysterious
-  - old
-  - sea
+- - many
+  - different
+  - kinds
 - - any
   - similar
   - mast
+- - gas
+  - people
+  - too
+- - mysterious
+  - old
+  - sea
 - - farmer's
   - hut
   - where
 - - course
   - got
   - nothing
-- - withstand
-  - being
-  - set
-- - like
-  - sherlock
-  - holmes
-- - often
-  - found
-  - myself
 - - rely
   - upon
   - candlelight
-- - bees
-  - like
+- - withstand
+  - being
+  - set
+- - often
+  - found
+  - myself
+- - like
   - sherlock
-- - old
-  - sea
-  - dog
+  - holmes
 - - example
   - devoting
   - over
-- - keeping
-  - bees
-  - like
-- - mast
-  - illegal
-  - then
+- - old
+  - sea
+  - dog
 - - rely
   - entirely
   - upon
-- - being
-  - salted
-  - away
-- - its
-  - captain
-  - scuppered
+- - bees
+  - like
+  - sherlock
+- - mast
+  - illegal
+  - then
+- - keeping
+  - bees
+  - like
 - - time
   - packet
   - steamer
 - - such
   - small
   - type
-- - made
-  - dobson
-  - nail
+- - being
+  - salted
+  - away
+- - its
+  - captain
+  - scuppered
 - - packet
   - steamer
   - some
@@ -266,12 +263,15 @@ ngrams:
 - - steamer
   - some
   - months
-- - some
-  - months
-  - earlier
+- - made
+  - dobson
+  - nail
 - - student
   - who
   - wishes
+- - some
+  - months
+  - earlier
 - - time
   - unlike
   - later
@@ -284,12 +284,6 @@ ngrams:
 - - intriguingly
   - 'no'
   - sooner
-- - hut
-  - where
-  - dobson
-- - did
-  - dobson
-  - forever
 - - clan
   - draw
   - their
@@ -302,6 +296,9 @@ ngrams:
 - - scarecrow
   - 'no'
   - wild
+- - hut
+  - where
+  - dobson
 - - 'no'
   - wild
   - jabbering
@@ -311,81 +308,84 @@ ngrams:
 - - up
   - sitting
   - kneeling
-- - been
-  - erected
-  - atop
-- - been
-  - fast
-  - friends
-- - cut
-  - up
-  - bits
+- - did
+  - dobson
+  - forever
 - - could
   - withstand
   - being
+- - cut
+  - up
+  - bits
+- - been
+  - erected
+  - atop
 - - cooped
   - up
   - together
-- - standing
-  - up
-  - sitting
+- - been
+  - fast
+  - friends
 - - sneaky
   - query
   - about
-- - time
-  - dobson
-  - falsely
-- - often
-  - cooped
+- - standing
   - up
+  - sitting
 - - their
   - fingers
   - reading
+- - often
+  - cooped
+  - up
 - - separate
   - essay
   - about
 - - withers
   - than
   - its
-- - vanished
-  - some
-  - say
-- - why
-  - did
+- - time
   - dobson
-- - now
-  - rely
-  - upon
-- - will
-  - crunch
-  - nuts
+  - falsely
 - - similar
   - mast
   - if
-- - has
-  - never
-  - replied
-- - sure
-  - what
-  - precisely
-- - than
-  - its
-  - captain
-- - sherlock
-  - holmes
-  - all
-- - man
-  - who
-  - sits
+- - now
+  - rely
+  - upon
+- - vanished
+  - some
+  - say
+- - will
+  - crunch
+  - nuts
 - - grandson
   - if
   - 'true'
+- - sure
+  - what
+  - precisely
+- - why
+  - did
+  - dobson
+- - than
+  - its
+  - captain
 - - entirely
   - sure
   - what
+- - sherlock
+  - holmes
+  - all
+- - has
+  - never
+  - replied
 - - decades
   - later
   - when
+- - man
+  - who
+  - sits
 - - smuggled
   - himself
   - into
@@ -395,57 +395,57 @@ ngrams:
 - - through
   - their
   - fingers
-- - like
-  - dobson
-  - before
-- - latter
-  - alone
-  - there
 - - seen
   - today
   - if
+- - latter
+  - alone
+  - there
 - - certain
   - days
   - when
 - - nuts
   - what
   - made
-- - lupine
-  - savagery
-  - which
+- - like
+  - dobson
+  - before
 - - tiny
   - shears
   - they
 - - they
   - call
   - full
+- - lupine
+  - savagery
+  - which
 - - jabbering
   - pigs
   - are
-- - cronies
-  - who
-  - has
-- - who
-  - has
-  - sullied
-- - harbour
-  - rattling
-  - an
 - - did
   - what
   - god
-- - what
-  - made
-  - dobson
+- - who
+  - has
+  - sullied
+- - cronies
+  - who
+  - has
+- - harbour
+  - rattling
+  - an
 - - an
   - early
   - age
-- - him
-  - demanding
-  - what
 - - me
   - now
   - rely
+- - him
+  - demanding
+  - what
+- - what
+  - made
+  - dobson
 story:
   date: 2012-07-29
   id: 2012-07-29-on-the-bloetzmann-manoeuvres

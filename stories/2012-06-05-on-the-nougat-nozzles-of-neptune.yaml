@@ -5,18 +5,12 @@ ngrams:
 - - maddening
   - argument
   - erupted
-- - convulsive
-  - fits
-  - mister
 - - rope
   - ladders
   - captain's
 - - rope
   - ladders
   - captain's
-- - rope
-  - ladders
-  - mister
 - - neptune
   - captain's
   - log
@@ -26,24 +20,30 @@ ngrams:
 - - ladders
   - captain's
   - log
-- - regulations
-  - forbid
-  - carrying
 - - nozzles
   - captain's
   - log
-- - magnetic
-  - phenomena
-  - peas
 - - supper
   - captain's
   - log
+- - regulations
+  - forbid
+  - carrying
 - - growing
   - increasingly
   - fractious
 - - argument
   - erupted
   - regarding
+- - convulsive
+  - fits
+  - mister
+- - rope
+  - ladders
+  - mister
+- - magnetic
+  - phenomena
+  - peas
 - - north
   - polar
   - regions
@@ -59,24 +59,24 @@ ngrams:
 - - prove
   - wholly
   - useless
-- - emergency
-  - landing
-  - close
 - - members
   - shortly
   - thereafter
+- - emergency
+  - landing
+  - close
 - - crew
   - members
   - shortly
 - - recruit
   - less
   - impetuous
-- - less
-  - impetuous
-  - crew
 - - neptune
   - less
   - gorgeous
+- - less
+  - impetuous
+  - crew
 - - side
   - captain's
   - log
@@ -89,60 +89,57 @@ ngrams:
 - - top
   - secret
   - technology
-- - five
-  - minutes
-  - communications
 - - safe
   - side
   - captain's
-- - march
-  - yesterday
-  - whatever
+- - five
+  - minutes
+  - communications
 - - year
   - dot
   - plus
-- - fact
-  - generally
-  - unearthly
-- - god's
-  - sake
-  - look
-- - asked
-  - doctor
-  - von
 - - march
-  - year
-  - dot
-- - plus
-  - three
-  - mister
+  - yesterday
+  - whatever
 - - several
   - grocery
   - items
+- - fact
+  - generally
+  - unearthly
 - - less
   - gorgeous
   - certainly
+- - god's
+  - sake
+  - look
 - - march
-  - plus
-  - three
+  - year
+  - dot
+- - asked
+  - doctor
+  - von
 - - artificial
   - brain
   - captain's
-- - powerful
-  - artificial
-  - brain
+- - plus
+  - three
+  - mister
 - - brain
   - captain's
   - log
+- - powerful
+  - artificial
+  - brain
 - - white
   - ish
   - thus
+- - march
+  - plus
+  - three
 - - captain's
   - log
   - next
-- - march
-  - again
-  - mister
 - - landing
   - until
   - tomorrow
@@ -155,21 +152,24 @@ ngrams:
 - - landing
   - party
   - should
+- - march
+  - again
+  - mister
 - - captain's
   - log
   - still
-- - every
-  - particular
-  - except
 - - must
   - recruit
   - less
-- - hollow
-  - neptune
-  - our
+- - every
+  - particular
+  - except
 - - colony
   - living
   - just
+- - hollow
+  - neptune
+  - our
 - - tearful
   - our
   - breathing
@@ -182,12 +182,12 @@ ngrams:
 - - our
   - sweeping
   - orbit
-- - living
-  - just
-  - below
 - - immediately
   - keel
   - over
+- - living
+  - just
+  - below
 - - our
   - gorgeous
   - earth
@@ -197,12 +197,12 @@ ngrams:
 - - during
   - our
   - sweeping
-- - following
-  - day
-  - fool
 - - nozzles
   - thousands
   - upon
+- - following
+  - day
+  - fool
 - - could
   - gain
   - access
@@ -212,9 +212,15 @@ ngrams:
 - - seen
   - during
   - our
+- - much
+  - much
+  - colder
 - - log
   - next
   - day
+- - more
+  - bizarre
+  - second
 - - some
   - intriguing
   - meteorological
@@ -224,33 +230,24 @@ ngrams:
 - - spurt
   - forth
   - some
-- - much
-  - much
-  - colder
 - - little
   - while
   - ago
-- - more
-  - bizarre
-  - second
-- - ship's
-  - vampire
-  - has
-- - vampire
-  - has
-  - reported
-- - jr
-  - '-'
-  - who
-- - '-'
-  - who
-  - posited
-- - rub
-  - each
-  - other
 - - first
   - discovery
   - after
+- - ship's
+  - vampire
+  - has
+- - rub
+  - each
+  - other
+- - vampire
+  - has
+  - reported
+- - much
+  - colder
+  - even
 - - purser
   - blot
   - who
@@ -260,15 +257,12 @@ ngrams:
 - - our
   - first
   - discovery
-- - him
-  - second
-  - officer
-- - much
-  - colder
-  - even
 - - forth
   - some
   - kind
+- - him
+  - second
+  - officer
 - - down
   - here
   - according
@@ -281,27 +275,36 @@ ngrams:
 - - colder
   - even
   - than
+- - jr
+  - '-'
+  - who
+- - '-'
+  - who
+  - posited
+- - us
+  - could
+  - stop
 - - look
   - after
   - our
 - - after
   - our
   - people
-- - us
-  - could
-  - stop
-- - were
-  - carrying
-  - leaves
 - - meaningless
   - static
   - out
-- - ingest
-  - some
-  - before
 - - even
   - more
   - bizarre
+- - were
+  - carrying
+  - leaves
+- - ingest
+  - some
+  - before
+- - anything
+  - even
+  - more
 - - all
   - rights
   - reserved
@@ -311,24 +314,21 @@ ngrams:
 - - fractious
   - they
   - rub
-- - anything
-  - even
-  - more
 - - increasingly
   - fractious
   - they
-- - they
-  - spurt
-  - forth
-- - them
-  - keeled
-  - over
 - - we
   - drew
   - straws
 - - penguin
   - we
   - drew
+- - they
+  - spurt
+  - forth
+- - them
+  - keeled
+  - over
 - - north
   - pole
   - we
@@ -338,21 +338,39 @@ ngrams:
 - - circumstances
   - we
   - continue
-- - says
-  - we
-  - suspect
 - - pole
   - we
   - simply
-- - often
-  - they
-  - spurt
+- - says
+  - we
+  - suspect
 - - 'no'
   - such
   - concept
 - - 'no'
   - such
   - creature
+- - often
+  - they
+  - spurt
+- - we
+  - cannot
+  - force
+- - even
+  - than
+  - our
+- - orbit
+  - we
+  - shall
+- - tomorrow
+  - we
+  - shall
+- - could
+  - stop
+  - him
+- - are
+  - growing
+  - increasingly
 - - subterranean
   - arena
   - which
@@ -362,24 +380,6 @@ ngrams:
 - - coathangers
   - which
   - prove
-- - we
-  - cannot
-  - force
-- - could
-  - stop
-  - him
-- - are
-  - growing
-  - increasingly
-- - arena
-  - which
-  - appears
-- - even
-  - than
-  - our
-- - they
-  - rub
-  - each
 story:
   date: 2012-06-05
   id: 2012-06-05-on-the-nougat-nozzles-of-neptune

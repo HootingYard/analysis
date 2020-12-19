@@ -20,12 +20,12 @@ ngrams:
 - - fingers
   - equally
   - surprising
-- - petit
-  - bourgeois
-  - blood
 - - sponges
   - either
   - cakey
+- - petit
+  - bourgeois
+  - blood
 - - really
   - terrific
   - index
@@ -35,27 +35,27 @@ ngrams:
 - - bourgeois
   - blood
   - sausage
+- - 'true'
+  - social
+  - sphere
+- - sausage
+  - rare
+  - 'yes'
+- - blood
+  - sausage
+  - rare
 - - collection
   - men
   - developed
 - - rent
   - collection
   - men
-- - 'true'
-  - social
-  - sphere
-- - blood
-  - sausage
-  - rare
-- - sausage
-  - rare
-  - 'yes'
-- - tramping
-  - between
-  - factory
 - - author's
   - key
   - findings
+- - tramping
+  - between
+  - factory
 - - sponges
   - often
   - holding
@@ -65,15 +65,15 @@ ngrams:
 - - agricultural
   - worker
   - rather
+- - measure
+  - broke
+  - both
 - - equally
   - surprising
   - given
 - - good
   - measure
   - broke
-- - measure
-  - broke
-  - both
 - - world
   - topsy
   - turvy
@@ -95,24 +95,24 @@ ngrams:
 - - highly
   - enough
   - quite
-- - author
-  - whose
-  - name
 - - enough
   - quite
   - apart
+- - author
+  - whose
+  - name
 - - book
   - highly
   - enough
 - - while
   - tramping
   - between
-- - lived
-  - long
-  - enough
 - - countenance
   - ever
   - since
+- - lived
+  - long
+  - enough
 - - common
   - sausages
   - made
@@ -122,30 +122,30 @@ ngrams:
 - - whooper
   - swans
   - such
-- - sausage
-  - consumption
-  - now
 - - upon
   - bath
   - sponges
-- - like
-  - accepted
-  - wisdom
+- - sausage
+  - consumption
+  - now
 - - both
   - those
   - examples
+- - value
+  - placed
+  - upon
 - - down
   - several
   - representatives
 - - tracked
   - down
   - several
-- - value
-  - placed
-  - upon
 - - placed
   - upon
   - bath
+- - like
+  - accepted
+  - wisdom
 - - bourgeois
   - rather
   - than
@@ -155,12 +155,12 @@ ngrams:
 - - more
   - common
   - sausages
-- - both
-  - its
-  - cake
 - - almost
   - too
   - much
+- - both
+  - its
+  - cake
 - - malefactor
   - who
   - stole
@@ -182,12 +182,12 @@ ngrams:
 - - much
   - like
   - accepted
-- - lock
-  - your
-  - doors
 - - about
   - petit
   - bourgeois
+- - lock
+  - your
+  - doors
 - - their
   - sponges
   - often
@@ -206,9 +206,6 @@ ngrams:
 - - stick
   - pins
   - into
-- - has
-  - tracked
-  - down
 - - seeing
   - some
   - such
@@ -218,111 +215,114 @@ ngrams:
 - - toil
   - were
   - quite
-- - your
-  - little
-  - wax
-- - those
-  - who
-  - use
+- - has
+  - tracked
+  - down
 - - pa
   - told
   - me
+- - your
+  - little
+  - wax
 - - much
   - about
   - petit
+- - those
+  - who
+  - use
 - - surprising
   - given
   - they
 - - toxic
   - gases
   - are
-- - text
-  - which
-  - bounds
 - - find
   - out
   - almost
 - - footnotes
   - though
   - they
-- - which
-  - blood
-  - sausage
 - - out
   - almost
   - too
-- - which
+- - text
+  - which
   - bounds
-  - along
+- - which
+  - blood
+  - sausage
 - - such
   - event
   - when
-- - an
-  - agricultural
-  - worker
 - - quite
   - so
   - partial
-- - your
-  - newsagent
-  - can
-- - are
-  - sometimes
-  - called
+- - which
+  - bounds
+  - along
+- - an
+  - agricultural
+  - worker
 - - too
   - much
   - about
+- - your
+  - newsagent
+  - can
 - - been
   - set
   - upon
-- - each
-  - copy
-  - which
 - - where
   - they
   - huddle
 - - even
   - those
   - who
+- - are
+  - sometimes
+  - called
 - - entirely
   - unknown
   - one
 - - large
   - so
   - make
+- - each
+  - copy
+  - which
 - - before
   - we
   - learned
 - - consumption
   - now
   - we
-- - who
-  - use
-  - their
+- - so
+  - make
+  - sure
 - - cannot
   - recommend
   - this
+- - who
+  - use
+  - their
 - - this
   - author
   - whose
 - - so
-  - make
-  - sure
-- - course
-  - we
-  - think
-- - so
   - ago
   - much
-- - this
-  - book
-  - highly
-- - recommend
-  - this
-  - book
 - - pigeon
   - loft
   - or
+- - course
+  - we
+  - think
+- - either
+  - cakey
+  - or
+- - footnotes
+  - but
+  - gorgeous
 story:
   date: 2009-09-21
   id: 2009-09-21-sponges-of-the-lumpenproletariat

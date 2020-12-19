@@ -5,21 +5,21 @@ ngrams:
 - - george's
   - church
   - borough
-- - german
-  - paste
-  - mint
 - - mint
   - street
   - opposite
+- - german
+  - paste
+  - mint
 - - paste
   - mint
   - street
-- - feed
-  - german
-  - paste
 - - opposite
   - st
   - george's
+- - feed
+  - german
+  - paste
 - - street
   - london
   - se
@@ -65,33 +65,33 @@ ngrams:
 - - tells
   - us
   - old
+- - more
+  - urgent
+  - matter
+- - within
+  - upon
+  - everything
 - - old
   - birds
   - should
 - - now
   - having
   - installed
-- - more
-  - urgent
-  - matter
 - - two
   - bullfinches
   - only
-- - within
-  - upon
-  - everything
 - - teach
   - them
   - didn't
 - - us
   - old
   - birds
-- - like
-  - two
-  - bullfinches
 - - left
   - now
   - having
+- - se
+  - last
+  - time
 story:
   date: 2004-03-04
   id: 2004-03-04-bullfinch-advice

@@ -2,24 +2,24 @@ ngrams:
 - - hailstorm
   - brewing
   - uppermost
-- - homemade
-  - sacred
-  - shrine
 - - scribble
   - runic
   - devices
+- - homemade
+  - sacred
+  - shrine
+- - fairy
+  - airhead
+  - goddess
+- - fairy
+  - airhead
+  - goddess
+- - fairy
+  - airhead
+  - goddess
 - - marked
   - hare
   - decorate
-- - fairy
-  - airhead
-  - goddess
-- - fairy
-  - airhead
-  - goddess
-- - fairy
-  - airhead
-  - goddess
 - - airhead
   - goddess
   - gift
@@ -56,6 +56,9 @@ ngrams:
 - - hare
   - spirit
   - guide
+- - hares
+  - rustic
+  - persons
 - - box
   - marked
   - hare
@@ -65,18 +68,15 @@ ngrams:
 - - goddess
   - gift
   - shop
-- - hares
-  - rustic
-  - persons
 - - ancient
   - countryside
   - lore
-- - i'm
-  - afraid
-  - you're
 - - particular
   - weather
   - conditions
+- - i'm
+  - afraid
+  - you're
 - - box
   - marked
   - crow
@@ -92,63 +92,63 @@ ngrams:
 - - same
   - runic
   - devices
-- - 'yes'
-  - i'm
-  - afraid
 - - gift
   - shop
   - 'yes'
+- - 'yes'
+  - i'm
+  - afraid
 - - shop
   - 'yes'
   - i'm
-- - dear
-  - readers
-  - purely
+- - cleanse
+  - both
+  - pebbles
 - - during
   - particular
   - weather
 - - countryside
   - lore
   - people
-- - cleanse
-  - both
-  - pebbles
+- - dear
+  - readers
+  - purely
 - - afraid
   - you're
   - going
-- - tie
-  - ribbons
-  - around
 - - cards
   - oh
   - don't
 - - neither
   - during
   - particular
+- - tie
+  - ribbons
+  - around
 - - freezing
   - cold
   - morning
-- - specific
-  - questions
-  - let
 - - oh
   - don't
   - forget
+- - specific
+  - questions
+  - let
 - - set
   - foot
   - themselves
 - - typical
   - urban
   - hooting
-- - few
-  - hundred
-  - times
 - - surprised
   - how
   - quickly
 - - hundred
   - times
   - until
+- - few
+  - hundred
+  - times
 - - appropriate
   - emporium
   - those
@@ -167,6 +167,12 @@ ngrams:
 - - forget
   - before
   - doing
+- - runic
+  - devices
+  - upon
+- - runic
+  - devices
+  - upon
 - - won't
   - go
   - far
@@ -176,42 +182,36 @@ ngrams:
 - - questions
   - let
   - us
-- - runic
-  - devices
-  - upon
-- - runic
-  - devices
-  - upon
-- - device
-  - looks
-  - like
 - - go
   - far
   - wrong
-- - urban
-  - hooting
-  - yard
 - - after
   - another
   - imagining
-- - card
-  - after
-  - another
+- - device
+  - looks
+  - like
 - - then
   - scribble
   - runic
+- - card
+  - after
+  - another
+- - urban
+  - hooting
+  - yard
 - - hooting
   - yard
   - reader
 - - its
   - door
   - sooner
-- - some
-  - pebbles
-  - scrub
 - - precisely
   - how
   - much
+- - some
+  - pebbles
+  - scrub
 - - such
   - cases
   - take
@@ -227,60 +227,60 @@ ngrams:
 - - pebbles
   - scrub
   - them
-- - let
-  - us
-  - say
 - - just
   - scribble
   - any
+- - let
+  - us
+  - say
 - - who
   - somehow
   - expect
-- - your
-  - homemade
-  - sacred
 - - like
   - just
   - scribble
-- - get
-  - some
-  - pebbles
 - - step
   - through
   - its
+- - get
+  - some
+  - pebbles
+- - your
+  - homemade
+  - sacred
 - - looks
   - like
   - just
 - - lore
   - people
   - who
+- - get
+  - them
+  - mixed
+- - ribbons
+  - around
+  - them
 - - your
   - local
   - esoteric
+- - around
+  - them
+  - knot
 - - consult
   - your
   - crow
 - - your
   - personal
   - crow
-- - ribbons
-  - around
-  - them
-- - around
-  - them
-  - knot
 - - people
   - who
   - somehow
-- - get
-  - them
-  - mixed
 - - beyond
   - your
   - wit
-- - through
-  - its
-  - door
+- - marker
+  - pen
+  - if
 story:
   date: 2009-06-15
   id: 2009-06-15-crows-and-hares

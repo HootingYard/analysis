@@ -32,12 +32,12 @@ ngrams:
 - - italian
   - carnival
   - where
-- - carnival
-  - where
-  - everybody
 - - where
   - everybody
   - laughs
+- - carnival
+  - where
+  - everybody
 - - themselves
   - abroad
   - over
@@ -62,12 +62,12 @@ ngrams:
 - - civilization
   - when
   - ease
-- - egyptian
-  - holiday
-  - when
 - - spain
   - if
   - festive
+- - egyptian
+  - holiday
+  - when
 - - ohio
   - if
   - political
@@ -77,12 +77,12 @@ ngrams:
 - - under
   - what
   - law
-- - houses
-  - like
-  - do
 - - there
   - barbarous
   - freedom
+- - houses
+  - like
+  - do
 - - they
   - crowd
   - within
@@ -92,6 +92,9 @@ ngrams:
 - - lowest
   - are
   - forms
+- - lower
+  - while
+  - there
 - - w
   - hat
   - are
@@ -101,9 +104,6 @@ ngrams:
 - - eyes
   - are
   - solemnly
-- - lower
-  - while
-  - there
 - - an
   - italian
   - carnival
@@ -116,18 +116,18 @@ ngrams:
 - - when
   - ease
   - has
-- - punch
-  - do
-  - they
-- - do
-  - they
-  - crowd
 - - eminent
   - lawyer
   - or
 - - lawyer
   - or
   - physician
+- - political
+  - or
+  - festive
+- - everybody
+  - laughs
+  - or
 story:
   date: 2012-01-30
   id: 2012-01-30-questionnaire

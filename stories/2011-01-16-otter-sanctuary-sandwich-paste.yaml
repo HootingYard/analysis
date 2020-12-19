@@ -35,18 +35,6 @@ ngrams:
 - - sandwich
   - paste
   - contain
-- - sanctuary
-  - sandwich
-  - paste
-- - sanctuary
-  - sandwich
-  - paste
-- - sanctuary
-  - sandwich
-  - paste
-- - sanctuary
-  - sandwich
-  - paste
 - - remote
   - otter
   - sanctuary
@@ -54,32 +42,50 @@ ngrams:
   - otter
   - sanctuary
 - - remote
+  - otter
+  - sanctuary
+- - sanctuary
+  - sandwich
+  - paste
+- - sanctuary
+  - sandwich
+  - paste
+- - sanctuary
+  - sandwich
+  - paste
+- - sanctuary
+  - sandwich
+  - paste
+- - local
+  - otter
+  - sanctuary
+- - local
   - otter
   - sanctuary
 - - sandwich
   - paste
   - shouted
-- - local
-  - otter
-  - sanctuary
-- - local
-  - otter
-  - sanctuary
-- - tumultuous
-  - river
-  - below
 - - tasks
   - enumerated
   - above
+- - tumultuous
+  - river
+  - below
 - - fatal
   - flaw
   - dobson's
+- - different
+  - angle
+  - novelty
 - - sandwich
   - paste
   - don't
 - - small
   - mammals
   - roused
+- - sandwich
+  - paste
+  - sometimes
 - - paste
   - don't
   - worry
@@ -89,87 +95,78 @@ ngrams:
 - - starving
   - small
   - mammals
-- - sandwich
-  - paste
-  - sometimes
-- - blood
-  - supply
-  - below
-- - different
-  - angle
-  - novelty
-- - rarely
-  - dobson's
-  - heart
-- - marigold
-  - chew
-  - snipping
 - - suffer
   - simply
   - due
-- - marigold
-  - chew
-  - incapable
-- - dobson's
-  - face
-  - soured
+- - blood
+  - supply
+  - below
 - - otter
   - sanctuary
   - need
-- - chair
-  - marigold
+- - rarely
+  - dobson's
+  - heart
+- - paid
+  - proper
+  - attention
+- - marigold
   - chew
+  - snipping
+- - dobson's
+  - face
+  - soured
+- - print
+  - pamphleteer
+  - racked
+- - marigold
+  - chew
+  - incapable
 - - called
   - otter
   - sanctuary
 - - flaw
   - dobson's
   - face
-- - paid
-  - proper
-  - attention
-- - replied
-  - marigold
-  - chew
 - - paste
   - called
   - otter
-- - dobson's
-  - door
-  - hawking
-- - print
-  - pamphleteer
-  - racked
-- - shrews
-  - asked
+- - chair
   - marigold
-- - tiny
-  - attackers
-  - caused
+  - chew
 - - face
   - soured
   - oh
-- - marigold
+- - tiny
+  - attackers
+  - caused
+- - replied
+  - marigold
   - chew
-  - gave
-- - certain
-  - small
-  - mammals
-- - sanctuary
-  - won't
-  - get
-- - river
-  - below
-  - later
+- - dobson's
+  - door
+  - hawking
+- - shrews
+  - asked
+  - marigold
 - - bouffant
   - came
   - crashing
+- - sanctuary
+  - won't
+  - get
+- - certain
+  - small
+  - mammals
 - - read
   - dubbin
   - substitute
-- - asked
-  - marigold
+- - marigold
   - chew
+  - gave
+- - river
+  - below
+  - later
 - - small
   - mammals
   - thus
@@ -179,47 +176,62 @@ ngrams:
 - - garden
   - each
   - tub
+- - asked
+  - marigold
+  - chew
+- - though
+  - rarely
+  - dobson's
 - - two
   - immediate
   - tasks
 - - new
   - ones
   - gleaming
+- - sometimes
+  - though
+  - rarely
+- - brand
+  - new
+  - ones
+- - paste
+  - sometimes
+  - though
+- - consider
+  - something
+  - else
+- - next
+  - trudging
+  - along
+- - these
+  - critical
+  - matters
+- - filthy
+  - old
+  - canal
 - - misunderstanding
   - dobson
   - retreated
 - - dobson
   - retreated
   - indoors
-- - though
-  - rarely
-  - dobson's
-- - brand
-  - new
-  - ones
-- - consider
-  - something
-  - else
-- - filthy
-  - old
-  - canal
-- - these
-  - critical
-  - matters
-- - paste
-  - sometimes
-  - though
-- - next
-  - trudging
-  - along
-- - sometimes
-  - though
-  - rarely
 - - man
   - profoundly
   - ignorant
+- - never
+  - paid
+  - proper
+- - pamphleteer
+  - faced
+  - two
+- - new
+  - blades
+  - thus
 - - critical
   - matters
+  - dobson
+- - sensible
+  - response
   - dobson
 - - dobson
   - sopping
@@ -227,174 +239,162 @@ ngrams:
 - - paste
   - shouted
   - dobson
-- - sensible
-  - response
-  - dobson
-- - pamphleteer
-  - faced
-  - two
-- - response
-  - dobson
-  - fell
-- - never
-  - paid
-  - proper
-- - new
-  - blades
-  - thus
-- - dobson
-  - replied
-  - marigold
 - - two
   - further
   - challenges
-- - faced
-  - two
-  - further
 - - otter
   - sanctuary
   - said
 - - pencils
   - yet
   - every
+- - faced
+  - two
+  - further
 - - any
   - sandwich
   - paste
-- - capital
-  - idea
+- - response
   - dobson
+  - fell
 - - both
   - these
   - aims
 - - accomplish
   - both
   - these
-- - idea
-  - dobson
-  - replied
 - - such
   - creatures
   - knowing
+- - dobson
+  - replied
+  - marigold
 - - yet
   - every
   - pencil
+- - wares
+  - knocked
+  - upon
+- - capital
+  - idea
+  - dobson
 - - sanctuary
   - said
   - marigold
 - - few
   - miles
   - away
-- - concentrated
-  - thought
+- - idea
   - dobson
-- - wares
-  - knocked
-  - upon
-- - below
-  - later
-  - back
+  - replied
 - - came
   - crashing
   - through
-- - said
-  - marigold
-  - chew
-- - said
-  - marigold
-  - chew
+- - below
+  - later
+  - back
+- - concentrated
+  - thought
+  - dobson
 - - garden
   - where
   - marigold
-- - every
-  - man
-  - jack
-- - where
-  - marigold
-  - chew
 - - sharpened
   - dozens
   - more
+- - said
+  - marigold
+  - chew
 - - dozens
   - more
   - pencils
-- - something
-  - else
-  - dobson
+- - said
+  - marigold
+  - chew
+- - where
+  - marigold
+  - chew
+- - every
+  - man
+  - jack
 - - still
   - throbbing
   - after
-- - make
-  - any
-  - sandwich
+- - something
+  - else
+  - dobson
 - - knocked
   - upon
   - another
-- - pruning
-  - shears
-  - who
+- - make
+  - any
+  - sandwich
 - - could
   - accomplish
   - both
-- - said
-  - dobson
-  - airily
-- - shears
+- - pruning
+  - shears
   - who
-  - says
 - - boots
   - lacing
   - them
-- - chew
-  - gave
-  - him
+- - said
+  - dobson
+  - airily
 - - upon
   - another
   - door
-- - thought
-  - dobson
-  - made
+- - shears
+  - who
+  - says
+- - chew
+  - gave
+  - him
 - - your
   - potential
   - customers
 - - recently
   - been
   - smeared
+- - thought
+  - dobson
+  - made
 - - your
   - sandwich
   - paste
+- - sharpener
+  - were
+  - blunted
 - - attacked
   - your
   - boots
 - - time
   - dobson
   - sopping
-- - sharpener
-  - were
-  - blunted
-- - frenzy
-  - about
-  - dobson's
-- - pencil
-  - sharpener
-  - were
 - - vegetation
   - sticking
   - out
-- - labels
-  - were
-  - hard
 - - paste
   - contain
   - if
+- - frenzy
+  - about
+  - dobson's
 - - don't
   - worry
   - about
-- - something
-  - dobson
-  - now
+- - pencil
+  - sharpener
+  - were
+- - labels
+  - were
+  - hard
 - - about
   - dobson's
   - feet
+- - otter
+  - sanctuary
+  - all
 story:
   date: 2011-01-16
   id: 2011-01-16-otter-sanctuary-sandwich-paste

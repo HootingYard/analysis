@@ -5,9 +5,6 @@ ngrams:
 - - byronic
   - heroes
   - guitar
-- - chinese
-  - orange
-  - peel
 - - hamlet
   - byronic
   - heroes
@@ -17,6 +14,9 @@ ngrams:
 - - heroes
   - guitar
   - heroes
+- - chinese
+  - orange
+  - peel
 - - angel
   - glands
   - erased
@@ -47,60 +47,60 @@ ngrams:
 - - pressed
   - play
   - precisely
-- - mouth
-  - open
-  - dribbling
 - - doing
   - disporting
   - themselves
+- - mouth
+  - open
+  - dribbling
 - - captain
   - james
   - t
 - - fairly
   - sure
   - cohen
-- - ago
-  - cohen
-  - tells
 - - ornithology
   - cohen
   - does
-- - silence
-  - i'll
-  - tell
+- - ago
+  - cohen
+  - tells
 - - seaweed
   - oh
   - really
+- - silence
+  - i'll
+  - tell
 - - window
   - mouth
   - open
+- - open
+  - sea
+  - festooned
 - - arming
   - ourselves
   - each
 - - play
   - precisely
   - three
-- - open
-  - sea
-  - festooned
 - - precisely
   - three
   - minutes
 - - passenger
   - still
   - aboard
-- - cohen
-  - tells
-  - us
+- - open
+  - dribbling
+  - though
 - - far
   - less
   - tiresome
 - - own
   - paper
   - heroes
-- - open
-  - dribbling
-  - though
+- - cohen
+  - tells
+  - us
 - - leonard
   - cohen
   - here
@@ -110,21 +110,15 @@ ngrams:
 - - replied
   - just
   - sculpins
-- - extend
-  - our
-  - quest
-- - before
-  - arming
-  - ourselves
 - - long
   - pointy
   - sticks
-- - dabbler
-  - five
-  - years
 - - before
-  - darkness
-  - falls
+  - arming
+  - ourselves
+- - extend
+  - our
+  - quest
 - - long
   - pointy
   - stick
@@ -134,84 +128,87 @@ ngrams:
 - - speared
   - any
   - heroes
-- - called
-  - throw
-  - away
-- - years
-  - ago
-  - cohen
+- - dabbler
+  - five
+  - years
+- - before
+  - darkness
+  - falls
 - - tragic
   - heroes
   - such
+- - years
+  - ago
+  - cohen
+- - called
+  - throw
+  - away
+- - pointy
+  - stick
+  - these
 - - let
   - us
   - catch
-- - seaweed
-  - like
-  - mermaids
 - - ancient
   - greece
   - such
 - - five
   - years
   - ago
-- - pointy
-  - stick
-  - these
+- - seaweed
+  - like
+  - mermaids
 - - soon
   - tracked
   - down
 - - perhaps
   - feeding
   - 'off'
-- - only
-  - bird
-  - visible
 - - charabanc
   - home
   - before
 - - home
   - before
   - darkness
+- - only
+  - bird
+  - visible
 - - eyes
   - shut
   - than
-- - only
-  - passenger
-  - still
 - - even
   - perhaps
   - feeding
+- - only
+  - passenger
+  - still
 - - still
   - aboard
   - even
 - - our
   - long
   - pointy
-- - their
-  - natural
-  - habitat
 - - anemone
   - 'no'
   - sign
+- - their
+  - natural
+  - habitat
 - - shall
   - see
   - first
-- - find
-  - him
-  - stuffing
 - - see
   - first
   - though
 - - sea
   - anemone
   - 'no'
+- - find
+  - him
+  - stuffing
 - - particular
   - heroes
   - were
-- - about
-  - come
-  - sidekick
 - - aerodrome
   - we
   - boarded
@@ -221,51 +218,54 @@ ngrams:
 - - dim
   - sidekick
   - we
-- - throw
-  - away
-  - your
-- - talking
-  - about
+- - about
   - come
+  - sidekick
 - - precisely
   - would
   - heroes
+- - talking
+  - about
+  - come
 - - again
   - pointing
   - out
-- - your
-  - long
-  - pointy
+- - throw
+  - away
+  - your
 - - out
   - something
   - awful
 - - still
   - staring
   - out
-- - which
-  - particular
-  - heroes
+- - your
+  - long
+  - pointy
 - - pretty
   - sight
   - so
-- - away
-  - your
-  - long
 - - we
   - shall
   - stop
+- - which
+  - particular
+  - heroes
 - - we
   - find
   - entangled
 - - all
   - these
   - types
-- - shut
-  - him
-  - up
+- - away
+  - your
+  - long
 - - before
   - we
   - reached
+- - shut
+  - him
+  - up
 - - were
   - even
   - perhaps
@@ -275,39 +275,39 @@ ngrams:
 - - like
   - mermaids
   - we
-- - sidekick
-  - had
-  - gone
 - - such
   - stature
   - so
-- - sure
-  - cohen
-  - had
-- - 'no'
-  - sooner
-  - were
-- - kelp
-  - still
-  - one
-- - long
-  - before
-  - we
 - - orde
   - wingate
   - or
 - - lone
   - lark
   - or
-- - we
-  - never
-  - made
-- - 'no'
-  - idea
-  - what
 - - unconscious
   - squirrel
   - or
+- - sidekick
+  - had
+  - gone
+- - long
+  - before
+  - we
+- - kelp
+  - still
+  - one
+- - 'no'
+  - sooner
+  - were
+- - wingate
+  - or
+  - captain
+- - paper
+  - heroes
+  - or
+- - 'no'
+  - idea
+  - what
 story:
   date: 2016-11-11
   id: 2016-11-11-heroes-in-the-seaweed

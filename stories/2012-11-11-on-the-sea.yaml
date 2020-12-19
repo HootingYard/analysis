@@ -5,33 +5,36 @@ ngrams:
 - - syntactic
   - structure
   - identical
-- - psychopathic
-  - serial
-  - killer
 - - horrible
   - imaginings
   - hysteria
+- - psychopathic
+  - serial
+  - killer
 - - salty
   - wet
   - briny
 - - precocious
   - tot
   - shot
+- - goats
+  - cause
+  - mayhem
+- - goats
+  - cause
+  - mayhem
+- - goats
+  - cause
+  - mayhem
 - - hideous
   - visions
   - swimming
-- - goats
-  - cause
-  - mayhem
-- - goats
-  - cause
-  - mayhem
-- - goats
-  - cause
-  - mayhem
-- - mrs
-  - joyful
-  - prize
+- - generic
+  - bbc
+  - peasant
+- - bbc
+  - peasant
+  - accent
 - - vast
   - salty
   - wet
@@ -41,18 +44,15 @@ ngrams:
 - - lays
   - waste
   - everything
-- - generic
-  - bbc
-  - peasant
-- - bbc
-  - peasant
-  - accent
-- - container
-  - ships
-  - whole
 - - wet
   - briny
   - deep
+- - mrs
+  - joyful
+  - prize
+- - container
+  - ships
+  - whole
 - - lays
   - waste
   - anything
@@ -62,21 +62,21 @@ ngrams:
 - - countryside
   - character
   - speaking
-- - tots
-  - give
-  - vent
-- - terrible
-  - imaginings
-  - already
-- - possibly
-  - imagine
-  - happening
 - - unlucky
   - actually
   - experience
+- - tots
+  - give
+  - vent
+- - possibly
+  - imagine
+  - happening
 - - possibly
   - imagine
   - occur
+- - terrible
+  - imaginings
+  - already
 - - ships
   - whole
   - 'yes'
@@ -89,21 +89,21 @@ ngrams:
 - - saying
   - people
   - repeat
-- - swallow
-  - great
-  - container
 - - deep
   - truth
   - within
-- - great
+- - swallow
+  - great
   - container
-  - ships
-- - mental
-  - flights
-  - should
 - - tot
   - without
   - putting
+- - mental
+  - flights
+  - should
+- - great
+  - container
+  - ships
 - - worse
   - because
   - worse
@@ -134,12 +134,12 @@ ngrams:
 - - worse
   - things
   - happen
-- - bravest
-  - most
-  - courageous
 - - saying
   - worse
   - things
+- - bravest
+  - most
+  - courageous
 - - peasant
   - accent
   - yet
@@ -173,6 +173,9 @@ ngrams:
 - - prizes
   - before
   - handing
+- - class
+  - might
+  - guess
 - - visions
   - swimming
   - before
@@ -182,21 +185,12 @@ ngrams:
 - - our
   - pretty
   - globe
-- - class
-  - might
-  - guess
 - - let
   - us
   - conduct
-- - look
-  - here
-  - '-'
 - - imagine
   - yet
   - something
-- - its
-  - syntactic
-  - structure
 - - most
   - awful
   - things
@@ -205,154 +199,163 @@ ngrams:
   - things
 - - most
   - awful
-  - things
-- - say
-  - worse
   - things
 - - land
   - perhaps
   - though
+- - its
+  - syntactic
+  - structure
 - - awful
   - than
   - anything
-- - sea
-  - unfortunately
-  - before
+- - say
+  - worse
+  - things
 - - much
   - worse
   - because
-- - sky
-  - 'yes'
-  - said
+- - sea
+  - unfortunately
+  - before
 - - than
   - anything
   - else
+- - more
+  - frantic
+  - tinies
 - - far
   - inland
   - very
 - - inland
   - very
   - far
+- - sky
+  - 'yes'
+  - said
 - - say
   - something
   - 'yes'
-- - more
-  - frantic
-  - tinies
 - - sea
   - let
   - us
+- - look
+  - here
+  - '-'
 - - can
   - easily
   - demonstrate
+- - might
+  - imagine
+  - yet
+- - much
+  - much
+  - worse
 - - worse
   - things
   - than
 - - could
   - possibly
   - imagine
-- - much
-  - much
-  - worse
-- - some
-  - goats
-  - cause
-- - has
-  - gained
-  - currency
-- - might
-  - imagine
-  - yet
 - - more
   - astute
   - among
+- - some
+  - goats
+  - cause
 - - possibly
   - imagine
   - do
+- - has
+  - gained
+  - currency
+- - can
+  - possibly
+  - imagine
+- - can
+  - possibly
+  - imagine
+- - can
+  - possibly
+  - imagine
 - - 'true'
   - some
   - goats
-- - can
-  - possibly
-  - imagine
-- - can
-  - possibly
-  - imagine
-- - can
-  - possibly
-  - imagine
 - - very
   - far
   - indeed
+- - might
+  - guess
+  - where
 - - work
   - now
   - look
+- - can
+  - swallow
+  - great
 - - its
   - many
   - tentacles
 - - can
-  - swallow
-  - great
+  - take
+  - solace
+- - yet
+  - something
+  - even
 - - comes
   - oozing
   - up
-- - can
-  - take
-  - solace
 - - awful
   - your
   - imaginings
-- - might
-  - guess
-  - where
 - - your
   - mental
   - flights
+- - many
+  - more
+  - goats
 - - your
   - innards
   - terror
 - - purposes
   - your
   - mental
-- - yet
-  - something
-  - even
 - - hand
   - up
   - begging
-- - many
-  - more
-  - goats
-- - now
-  - look
-  - here
-- - however
-  - awful
-  - your
-- - don't
-  - care
-  - what
 - - drowned
   - out
   - worse
-- - 'yes'
-  - 'yes'
+- - don't
+  - care
   - what
-- - never
-  - repeated
-  - has
-- - more
-  - terrifying
-  - than
+- - now
+  - look
+  - here
 - - even
   - more
   - awful
 - - more
   - awful
   - than
+- - more
+  - terrifying
+  - than
+- - 'yes'
+  - 'yes'
+  - what
+- - however
+  - awful
+  - your
+- - never
+  - repeated
+  - has
 - - passeth
   - all
   - understanding
+- - if
+  - however
+  - awful
 - - all
   - goats
   - cause
@@ -362,36 +365,33 @@ ngrams:
 - - saying
   - all
   - goats
-- - wipe
-  - away
-  - your
-- - if
-  - however
-  - awful
 - - all
   - understanding
   - simply
-- - away
-  - your
-  - terror
-- - were
-  - far
-  - inland
 - - pretty
   - globe
   - we
-- - globe
-  - we
-  - speak
 - - nobody
   - would
   - repeat
-- - more
-  - goats
-  - do
 - - 'true'
   - if
   - however
+- - globe
+  - we
+  - speak
+- - awful
+  - would
+  - happen
+- - wipe
+  - away
+  - your
+- - were
+  - far
+  - inland
+- - more
+  - goats
+  - do
 - - out
   - worse
   - things

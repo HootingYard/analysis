@@ -5,36 +5,33 @@ ngrams:
 - - sports
   - psychologist
   - steve
-- - chimp
-  - started
-  - jabbering
 - - speed
   - scattering
   - adults
+- - chimp
+  - started
+  - jabbering
 - - inner
   - chimp
   - marking
 - - inner
   - chimp
   - struggling
-- - inhuman
-  - speed
-  - scattering
 - - inner
   - otter
   - cycling
 - - london
   - pavements
   - bike
-- - winning
-  - track
-  - cyclists
+- - inhuman
+  - speed
+  - scattering
 - - inner
   - otters
   - otters
-- - actual
-  - outer
-  - animals
+- - winning
+  - track
+  - cyclists
 - - inner
   - chimp
   - started
@@ -44,45 +41,48 @@ ngrams:
 - - former
   - leading
   - members
-- - gives
-  - free
-  - rein
+- - actual
+  - outer
+  - animals
 - - particular
   - simon
   - jones
+- - gives
+  - free
+  - rein
 - - robert
   - hughes
   - yesterday
 - - inner
   - animals
   - cross
-- - everyone
-  - gives
-  - free
 - - alpine
   - mountain
   - guide
+- - everyone
+  - gives
+  - free
 - - doubt
   - extremely
   - pertinent
-- - inner
-  - chimp
-  - seems
-- - cast
-  - iron
-  - link
-- - snow
-  - white
-  - alps
 - - pedestrian
   - actually
   - strike
-- - reside
-  - mainly
-  - within
+- - inner
+  - chimp
+  - seems
+- - snow
+  - white
+  - alps
+- - cast
+  - iron
+  - link
 - - inner
   - pedestrian
   - actually
+- - reside
+  - mainly
+  - within
 - - mainly
   - within
   - outer
@@ -95,18 +95,18 @@ ngrams:
 - - rather
   - highly
   - strung
+- - militant
+  - pedestrian
+  - though
 - - look
   - what's
   - happened
-- - militant
-  - pedestrian
+- - inner
+  - chimp
   - though
 - - nameless
   - pond
   - without
-- - inner
-  - chimp
-  - though
 - - white
   - alps
   - yet
@@ -119,24 +119,24 @@ ngrams:
 - - look
   - rather
   - highly
-- - two
-  - different
-  - sports
 - - often
   - riveting
   - new
-- - pond
-  - without
-  - having
-- - know
-  - meanwhile
-  - forgetting
-- - even
-  - chris
-  - hoy
 - - alps
   - though
   - perhaps
+- - pond
+  - without
+  - having
+- - two
+  - different
+  - sports
+- - even
+  - chris
+  - hoy
+- - know
+  - meanwhile
+  - forgetting
 - - animals
   - cross
   - over
@@ -176,51 +176,51 @@ ngrams:
 - - course
   - two
   - different
+- - am
+  - looking
+  - forward
 - - some
   - former
   - leading
 - - am
-  - looking
-  - forward
-- - very
-  - very
-  - carefully
-- - am
   - fairly
   - sure
-- - explains
-  - their
-  - tortured
 - - those
   - signs
   - might
-- - their
-  - scientific
-  - analysis
+- - very
+  - very
+  - carefully
 - - far
   - more
   - relaxed
+- - explains
+  - their
+  - tortured
 - - their
-  - inner
-  - pedestrian
+  - scientific
+  - analysis
 - - their
   - inner
   - chimp
+- - their
+  - inner
+  - pedestrian
 - - unleash
   - their
   - inner
 - - 'no'
   - doubt
   - extremely
-- - your
-  - inner
-  - chimp
 - - looked
   - up
   - dave
 - - telltale
   - signs
   - what
+- - your
+  - inner
+  - chimp
 - - about
   - simon
   - jones
@@ -245,51 +245,45 @@ ngrams:
 - - am
   - now
   - wondering
+- - inner
+  - chimp
+  - would
+- - hughes
+  - yesterday
+  - there
 - - us
   - who
   - use
 - - kept
   - telling
   - me
-- - hughes
-  - yesterday
-  - there
 - - lurks
   - within
   - all
-- - inner
-  - chimp
-  - would
-- - they
-  - kept
-  - telling
 - - hurtle
   - towards
   - me
+- - they
+  - kept
+  - telling
 - - yet
   - been
   - able
-- - they
-  - hurtle
-  - towards
 - - chimp
   - would
   - want
-- - which
-  - britain's
-  - olympic
+- - they
+  - hurtle
+  - towards
 - - so
   - heavily
   - reliant
 - - also
   - leads
   - me
-- - chimp
-  - which
-  - explains
-- - cyclists
-  - are
-  - prey
+- - connection
+  - there
+  - between
 - - signs
   - what
   - those
@@ -299,24 +293,30 @@ ngrams:
 - - are
   - thereby
   - compelled
-- - inner
-  - chimp
-  - which
+- - cyclists
+  - are
+  - prey
+- - which
+  - britain's
+  - olympic
 - - beach
   - volleyball
   - are
-- - connection
-  - there
-  - between
+- - chimp
+  - which
+  - explains
 - - track
   - cyclists
   - are
-- - itself
-  - known
-  - there
 - - ideal
   - thing
   - would
+- - inner
+  - chimp
+  - which
+- - itself
+  - known
+  - there
 - - own
   - psyche
   - would
@@ -329,21 +329,21 @@ ngrams:
 - - after
   - all
   - hang
+- - knows
+  - what
+  - other
 - - an
   - outer
   - chimp
 - - an
   - olympic
   - connection
-- - knows
-  - what
-  - other
+- - now
+  - wondering
+  - if
 - - an
   - inner
   - bike
-- - an
-  - inner
-  - chimp
 story:
   date: 2012-08-08
   id: 2012-08-08-on-the-inner-chimp

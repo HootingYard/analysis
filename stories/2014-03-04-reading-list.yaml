@@ -8,75 +8,75 @@ ngrams:
 - - richter
   - byron
   - humboldt
-- - humboldt
-  - hawthorne
-  - wesley
 - - byron
   - humboldt
   - hawthorne
+- - humboldt
+  - hawthorne
+  - wesley
 - - hawthorne
   - wesley
   - browning
 - - willis
   - thackeray
   - bronte
-- - dickinson
-  - homestead
-  - nancy
-- - venomous
-  - reptile
-  - defiers
-- - irving
-  - willis
-  - thackeray
-- - eaters
-  - venomous
-  - reptile
 - - homestead
   - nancy
   - harris
+- - irving
+  - willis
+  - thackeray
+- - venomous
+  - reptile
+  - defiers
+- - dickinson
+  - homestead
+  - nancy
+- - eaters
+  - venomous
+  - reptile
+- - ross
+  - goodman
+  - matthew
 - - defiers
   - sword
   - swallowers
 - - reptile
   - defiers
   - sword
-- - mudge
-  - emily
-  - dickinson
-- - ross
-  - goodman
-  - matthew
 - - houdini
   - harry
   - miracle
 - - harry
   - miracle
   - mongers
-- - recipes
+- - mudge
+  - emily
   - dickinson
-  - homestead
 - - satire
   - humor
   - narrative
 - - emily
   - dickinson
   - profile
+- - recipes
+  - dickinson
+  - homestead
 - - abigail
   - stanley
   - withered
 - - poison
   - eaters
   - venomous
-- - selected
-  - recipes
-  - dickinson
 - - j
   - matchbox
   - labels
 - - papers
   - embracing
   - philosophy
+- - selected
+  - recipes
+  - dickinson
 - - fiction
   - satire
   - humor
@@ -86,21 +86,21 @@ ngrams:
 - - labels
   - robert
   - ross
+- - garland
+  - horn
+  - henry
 - - world's
   - labels
   - robert
 - - government
   - religion
   - poetry
-- - garland
-  - horn
-  - henry
-- - embracing
-  - philosophy
-  - science
 - - stanley
   - withered
   - leaves
+- - embracing
+  - philosophy
+  - science
 - - jerome
   - b
   - disputed
@@ -113,12 +113,12 @@ ngrams:
 - - horn
   - henry
   - j
-- - philosophy
-  - science
-  - government
 - - original
   - papers
   - embracing
+- - philosophy
+  - science
+  - government
 story:
   date: 2014-03-04
   id: 2014-03-04-reading-list

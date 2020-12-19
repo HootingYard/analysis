@@ -8,24 +8,21 @@ ngrams:
 - - micturate
   - peel
   - onions
-- - stamps
-  - micturate
-  - peel
 - - knit
   - balaclavas
   - cackle
-- - balaclavas
-  - cackle
-  - preen
-- - gasp
-  - trill
-  - plunge
-- - mechanical
-  - contrivance
-  - existed
+- - stamps
+  - micturate
+  - peel
 - - sob
   - knit
   - balaclavas
+- - mechanical
+  - contrivance
+  - existed
+- - gasp
+  - trill
+  - plunge
 - - stupendously
   - complicated
   - ventilation
@@ -38,63 +35,66 @@ ngrams:
 - - shrubs
   - avoid
   - cramp
-- - desert
-  - wail
-  - pen
 - - pong
   - drive
   - camels
+- - balaclavas
+  - cackle
+  - preen
+- - desert
+  - wail
+  - pen
 - - avoid
   - cramp
   - polish
 - - studying
   - owls
   - chews
+- - ping
+  - pong
+  - drive
 - - postage
   - stamps
   - micturate
 - - smaller
   - external
   - ear
-- - ping
-  - pong
-  - drive
-- - frequent
-  - baths
-  - eat
 - - mice
   - moles
   - squirrels
 - - daytime
   - owls
   - hide
-- - named
-  - plankton
-  - chews
-- - trill
-  - plunge
-  - pieces
+- - frequent
+  - baths
+  - eat
 - - library
   - handily
   - situated
-- - toffee
-  - apple
-  - factory
-- - collect
-  - postage
-  - stamps
-- - eat
-  - moths
-  - beetles
+- - trill
+  - plunge
+  - pieces
 - - pangs
   - collect
   - postage
-- - complicated
-  - ventilation
-  - system
+- - collect
+  - postage
+  - stamps
 - - triumphantly
   - vindictive
   - owl
+- - toffee
+  - apple
+  - factory
+- - eat
+  - moths
+  - beetles
+- - named
+  - plankton
+  - chews
+- - complicated
+  - ventilation
+  - system
 - - planks
   - play
   - ping
@@ -107,69 +107,69 @@ ngrams:
 - - play
   - ping
   - pong
-- - easily
-  - caught
-  - owls
 - - stout
   - form
   - downy
+- - easily
+  - caught
+  - owls
+- - affect
+  - one's
+  - daily
+- - form
+  - downy
+  - feathers
+- - owl
+  - library
+  - handily
 - - spent
   - studying
   - owls
 - - large
   - external
   - ear
-- - form
-  - downy
-  - feathers
-- - affect
-  - one's
-  - daily
-- - owl
-  - library
-  - handily
-- - baths
-  - eat
-  - large
-- - eat
-  - large
-  - breakfasts
 - - books
   - jammed
   - tight
-- - horned
-  - owls
-  - during
+- - eat
+  - large
+  - breakfasts
+- - baths
+  - eat
+  - large
 - - short
   - stout
   - form
+- - horned
+  - owls
+  - during
 - - questions
   - episode
   - five
-- - house
-  - standing
-  - slap
-- - salt
-  - water
-  - hack
 - - ancient
   - times
   - hunters
 - - kind
   - eat
   - moths
-- - sticky
-  - glue
-  - called
+- - salt
+  - water
+  - hack
 - - smaller
   - kind
   - eat
-- - stiff
-  - feathers
-  - around
+- - house
+  - standing
+  - slap
+- - sticky
+  - glue
+  - called
 - - times
   - hunters
   - used
+- - stiff
+  - feathers
+  - around
 - - apple
   - factory
   - next
@@ -188,12 +188,12 @@ ngrams:
 - - one's
   - daily
   - life
-- - factory
-  - next
-  - door
 - - owls
   - hide
   - away
+- - factory
+  - next
+  - door
 - - being
   - afterwards
   - vomited
@@ -212,6 +212,9 @@ ngrams:
 - - feathers
   - being
   - afterwards
+- - usual
+  - way
+  - understand
 - - prune
   - our
   - shrubs
@@ -221,9 +224,9 @@ ngrams:
 - - cramp
   - polish
   - our
-- - usual
-  - way
-  - understand
+- - owl
+  - after
+  - losing
 - - our
   - shrubs
   - avoid
@@ -233,48 +236,42 @@ ngrams:
 - - great
   - respect
   - because
-- - owl
-  - after
-  - losing
-- - polish
-  - our
-  - teeth
 - - very
   - sharp
   - pencil
 - - our
   - separate
   - ways
+- - polish
+  - our
+  - teeth
 - - owls
   - belong
   - may
-- - first
-  - six
-  - months
 - - our
   - magnificent
   - bright
+- - first
+  - six
+  - months
+- - binder
+  - how
+  - does
 - - catch
   - little
   - birds
 - - very
   - wise
   - bird
-- - binder
-  - how
-  - does
-- - other
-  - mechanical
-  - contrivance
 - - still
   - smaller
   - while
+- - other
+  - mechanical
+  - contrivance
 - - snapping
   - its
   - bill
-- - flee
-  - her
-  - enemies
 - - its
   - feathers
   - wags
@@ -293,63 +290,66 @@ ngrams:
 - - went
   - our
   - separate
-- - her
-  - pursuers
-  - thinking
+- - flee
+  - her
+  - enemies
 - - little
   - birds
   - often
 - - other
   - small
   - quadrupeds
+- - her
+  - pursuers
+  - thinking
 - - door
   - its
   - janitor
-- - forward
-  - some
-  - owls
-- - its
-  - hiding
-  - place
-- - pointed
-  - forward
-  - some
 - - cannot
   - see
   - well
 - - see
   - well
   - enough
+- - its
+  - hiding
+  - place
+- - forward
+  - some
+  - owls
+- - pointed
+  - forward
+  - some
 - - enemy
   - who
   - kills
 - - detective
   - who
   - roomed
-- - amateur
-  - detective
-  - who
 - - digression
   - 'no'
   - lift
-- - their
-  - brightly
-  - gleaming
-- - next
-  - door
-  - its
+- - amateur
+  - detective
+  - who
 - - tear
   - their
   - prey
-- - afterwards
-  - vomited
-  - up
+- - their
+  - brightly
+  - gleaming
 - - brief
   - digression
   - 'no'
+- - afterwards
+  - vomited
+  - up
 - - fight
   - their
   - enemy
+- - next
+  - door
+  - its
 - - catch
   - their
   - prey
@@ -359,84 +359,84 @@ ngrams:
 - - little
   - birds
   - after
-- - owl
-  - ruffles
-  - up
 - - see
   - better
   - than
+- - owl
+  - ruffles
+  - up
 - - its
   - janitor
   - being
+- - wags
+  - its
+  - head
 - - seen
   - here
   - only
 - - great
   - detective
   - some
-- - wags
-  - its
-  - head
-- - been
-  - thrown
-  - open
 - - feathers
   - around
   - them
-- - thicket
-  - where
-  - she
+- - been
+  - thrown
+  - open
+- - prey
+  - into
+  - pieces
+- - fly
+  - about
+  - looking
 - - your
   - best
   - notebook
 - - were
   - easily
   - caught
-- - prey
-  - into
-  - pieces
 - - detective
   - some
   - years
-- - fly
-  - about
-  - looking
 - - metal
   - into
   - salt
-- - into
-  - salt
-  - water
+- - thicket
+  - where
+  - she
+- - owl
+  - comes
+  - out
+- - when
+  - thus
+  - attacked
 - - all
   - owls
   - belong
+- - into
+  - salt
+  - water
 - - into
   - three
   - classes
 - - divided
   - into
   - three
-- - owl
-  - comes
-  - out
 - - broad
   - daylight
   - they
 - - nearly
   - all
   - parts
+- - hunter
+  - would
+  - imitate
 - - insects
   - they
   - catch
-- - when
-  - thus
-  - attacked
 - - daylight
   - they
   - fly
-- - been
-  - frightened
-  - away
 story:
   date: 2006-05-14
   id: 2006-05-14-one-of-the-commonest-questions

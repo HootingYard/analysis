@@ -17,12 +17,12 @@ ngrams:
 - - vast
   - flat
   - expanse
-- - wooden
-  - lake
-  - stretching
 - - hornbeam
   - slotted
   - together
+- - wooden
+  - lake
+  - stretching
 - - vast
   - wooden
   - lake
@@ -32,6 +32,9 @@ ngrams:
 - - wooden
   - lake
   - sometimes
+- - ice
+  - nor
+  - skates
 - - wooden
   - lake
   - towards
@@ -41,9 +44,6 @@ ngrams:
 - - expanse
   - covering
   - every
-- - ice
-  - nor
-  - skates
 - - slightly
   - disconcerted
   - long
@@ -92,24 +92,24 @@ ngrams:
 - - sometimes
   - its
   - location
-- - lake
-  - sometimes
-  - its
 - - us
   - say
   - slightly
+- - lake
+  - sometimes
+  - its
 - - along
   - its
   - shore
-- - has
-  - burst
-  - forth
-- - after
-  - plank
-  - after
 - - can
   - simply
   - walk
+- - after
+  - plank
+  - after
+- - has
+  - burst
+  - forth
 - - let
   - us
   - say
@@ -122,27 +122,27 @@ ngrams:
 - - its
   - giant
   - head
-- - only
-  - its
-  - surface
 - - conviction
   - calcified
   - into
-- - years
-  - has
-  - grown
-- - eye
-  - can
-  - see
-- - eye
-  - can
-  - see
+- - only
+  - its
+  - surface
 - - upon
   - without
   - being
+- - eye
+  - can
+  - see
+- - eye
+  - can
+  - see
 - - takes
   - into
   - account
+- - years
+  - has
+  - grown
 - - wooden
   - lake
   - out
@@ -170,45 +170,54 @@ ngrams:
 - - village
   - shop
   - there
+- - can
+  - look
+  - upon
+- - socks
+  - are
+  - damp
 - - lake
   - which
   - broods
 - - which
   - broods
   - below
-- - socks
-  - are
-  - damp
-- - can
-  - look
-  - upon
 - - will
   - never
   - hear
 - - an
   - industrial
   - estate
-- - spinney
-  - has
-  - been
 - - unless
   - one
   - takes
 - - metal
   - unless
   - one
+- - spinney
+  - has
+  - been
 - - has
   - grown
   - into
+- - donkey
+  - sanctuary
+  - or
 - - theory
   - which
   - over
-- - donkey
-  - sanctuary
+- - wild
+  - woods
   - or
 - - there
   - along
   - its
+- - post
+  - office
+  - or
+- - gazetteers
+  - or
+  - look
 - - planks
   - hewn
   - from
@@ -218,15 +227,6 @@ ngrams:
 - - hewn
   - from
   - thousands
-- - wild
-  - woods
-  - or
-- - post
-  - office
-  - or
-- - gazetteers
-  - or
-  - look
 - - dewdrops
   - have
   - fallen
@@ -236,12 +236,12 @@ ngrams:
 - - one
   - such
   - clump
+- - not
+  - metal
+  - unless
 - - look
   - at
   - maps
-- - by
-  - master
-  - carpenters
 story:
   date: 2011-11-22
   id: 2011-11-22-the-wooden-lake

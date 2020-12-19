@@ -14,18 +14,24 @@ ngrams:
 - - drudgery
   - flooded
   - drainage
-- - thorns
-  - torrential
-  - rainfall
 - - drainage
   - ditches
   - pricking
+- - thorns
+  - torrential
+  - rainfall
 - - flooded
   - drainage
   - ditches
 - - georgia
   - clarice
   - stalin
+- - clarice
+  - stalin
+  - chasing
+- - torrential
+  - rainfall
+  - maddened
 - - rookie
   - fbi
   - agent
@@ -35,39 +41,33 @@ ngrams:
 - - fbi
   - agent
   - clarice
-- - clarice
-  - stalin
-  - chasing
 - - continental
   - united
   - states
-- - torrential
-  - rainfall
-  - maddened
 - - wherein
   - newborn
   - lambs
-- - evil
-  - farmers
-  - mischievously
 - - biro
   - slightly
   - thickened
+- - evil
+  - farmers
+  - mischievously
 - - law
   - enforcement
   - officer
-- - agent
-  - clarice
-  - stalin
-- - thomas
-  - harris's
-  - potboiler
-- - comprehensible
-  - countryside
-  - lore
 - - rustic
   - drudgery
   - flooded
+- - comprehensible
+  - countryside
+  - lore
+- - thomas
+  - harris's
+  - potboiler
+- - agent
+  - clarice
+  - stalin
 - - clarice
   - stalin
   - incidentally
@@ -77,18 +77,18 @@ ngrams:
 - - chamber
   - farm
   - orchestra
-- - united
-  - states
-  - armed
 - - barely
   - comprehensible
   - countryside
-- - building
-  - wherein
-  - newborn
+- - united
+  - states
+  - armed
 - - clarice
   - stalin
   - goes
+- - building
+  - wherein
+  - newborn
 - - undoubtedly
   - real
   - terrors
@@ -98,27 +98,24 @@ ngrams:
 - - drooling
   - village
   - idiot
-- - farm
-  - building
-  - wherein
 - - village
   - idiot
   - eager
-- - rainfall
-  - maddened
-  - cows
 - - film
   - adaptation
   - starring
+- - rainfall
+  - maddened
+  - cows
+- - farm
+  - building
+  - wherein
 - - farmers
   - mischievously
   - give
 - - certain
   - evil
   - farmers
-- - black
-  - biro
-  - slightly
 - - flocks
   - often
   - numbering
@@ -128,6 +125,9 @@ ngrams:
 - - gap
   - created
   - between
+- - black
+  - biro
+  - slightly
 - - harris's
   - text
   - further
@@ -140,15 +140,15 @@ ngrams:
 - - text
   - further
   - research
-- - passerine
-  - bird
-  - known
 - - yet
   - allied
   - phenomena
 - - distinct
   - yet
   - allied
+- - passerine
+  - bird
+  - known
 - - read
   - thomas
   - harris's
@@ -158,15 +158,15 @@ ngrams:
 - - often
   - given
   - erroneously
-- - life
-  - certain
-  - evil
-- - surely
-  - too
-  - obvious
 - - erroneously
   - given
   - both
+- - surely
+  - too
+  - obvious
+- - life
+  - certain
+  - evil
 - - allied
   - phenomena
   - first
@@ -176,27 +176,27 @@ ngrams:
 - - those
   - gathered
   - condemning
-- - evil
-  - farmer
-  - after
 - - hypnotic
   - spell
   - over
-- - gone
-  - carefully
-  - through
-- - boogie
-  - may
-  - refer
+- - evil
+  - farmer
+  - after
 - - clarice
   - starling
   - even
-- - where
-  - boogie
-  - refers
+- - boogie
+  - may
+  - refer
 - - boogie
   - where
   - boogie
+- - where
+  - boogie
+  - refers
+- - gone
+  - carefully
+  - through
 - - need
   - repetition
   - here
@@ -218,45 +218,45 @@ ngrams:
 - - carefully
   - through
   - each
-- - through
-  - each
-  - page
 - - stalin
   - however
   - did
+- - through
+  - each
+  - page
+- - can
+  - barely
+  - pass
 - - has
   - clarice
   - stalin
 - - petty
   - thief
   - who
-- - can
-  - barely
-  - pass
+- - gathered
+  - condemning
+  - them
 - - thief
   - who
   - rose
 - - manuscript
   - who
   - reports
-- - gathered
-  - condemning
-  - them
 - - someone
   - who
   - claims
-- - their
-  - extended
-  - families
 - - more
   - satisfying
   - read
-- - 'no'
-  - longer
-  - distracted
+- - their
+  - extended
+  - families
 - - between
   - them
   - laborious
+- - 'no'
+  - longer
+  - distracted
 - - created
   - between
   - them
@@ -272,15 +272,15 @@ ngrams:
 - - hurl
   - themselves
   - about
-- - your
-  - elegant
-  - hand
 - - stalin
   - incidentally
   - if
 - - farmer
   - will
   - inveigle
+- - your
+  - elegant
+  - hand
 - - evil
   - farmer
   - will
@@ -296,51 +296,51 @@ ngrams:
 - - countryside
   - existence
   - there
-- - orchestra
-  - which
-  - performs
-- - then
-  - has
-  - clarice
-- - riotous
-  - dance
-  - which
 - - newborn
   - lambs
   - are
-- - which
+- - then
+  - has
   - clarice
-  - stalin
 - - soviet
   - union
   - are
+- - orchestra
+  - which
+  - performs
 - - evil
   - farmers
   - are
-- - farm
-  - orchestra
+- - riotous
+  - dance
   - which
 - - they
   - dance
   - perhaps
-- - text
-  - then
-  - has
-- - lambs
-  - are
-  - led
+- - which
+  - clarice
+  - stalin
 - - union
   - are
   - surely
-- - are
-  - brought
-  - fumbling
-- - are
-  - sprawled
-  - exhausted
+- - lambs
+  - are
+  - led
 - - sawdust
   - until
   - they
+- - are
+  - sprawled
+  - exhausted
+- - text
+  - then
+  - has
+- - farm
+  - orchestra
+  - which
+- - are
+  - brought
+  - fumbling
 - - lambs
   - are
   - brought
@@ -350,12 +350,15 @@ ngrams:
 - - families
   - first
   - they
-- - first
-  - they
-  - roll
 - - all
   - those
   - gathered
+- - first
+  - they
+  - roll
+- - phenomena
+  - first
+  - we
 - - an
   - engulfing
   - mist
@@ -365,9 +368,6 @@ ngrams:
 - - spell
   - over
   - all
-- - phenomena
-  - first
-  - we
 story:
   date: 2012-02-12
   id: 2012-02-12-on-the-lambing-hall-boogie

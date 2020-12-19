@@ -11,9 +11,6 @@ ngrams:
 - - toodle
   - toots
   - lucretia
-- - belle
-  - benjamin
-  - betsy
 - - colonel
   - diver
   - dodson
@@ -23,132 +20,135 @@ ngrams:
 - - rosa
   - bud
   - bumble
+- - belle
+  - benjamin
+  - betsy
 - - susan
   - nipper
   - newman
 - - tom
   - pinch
   - pip
+- - jenny
+  - alfred
+  - jingle
+- - alfred
+  - jingle
+  - jo
+- - martin
+  - chuzzlewit
+  - ada
 - - junior
   - amy
   - edward
 - - plummer
   - matthew
   - herbert
-- - jenny
-  - alfred
-  - jingle
 - - annie
   - strong
   - esther
-- - martin
-  - chuzzlewit
-  - ada
-- - alfred
-  - jingle
-  - jo
-- - garland
-  - walter
-  - gay
 - - bray
   - walter
   - bray
+- - garland
+  - walter
+  - gay
 - - job
   - trotter
   - josiah
-- - solomon
-  - daisy
-  - charles
 - - bud
   - bumble
   - jack
-- - abel
-  - magwitch
-  - peter
-- - magwitch
-  - peter
-  - magnus
-- - mary
-  - mary
-  - anne
 - - bucket
   - rosa
   - bud
+- - solomon
+  - daisy
+  - charles
+- - magwitch
+  - peter
+  - magnus
+- - abel
+  - magwitch
+  - peter
 - - inspector
   - bucket
   - rosa
 - - nathaniel
   - winkle
   - miss
+- - mary
+  - mary
+  - anne
 - - infant
   - phenomenon
   - samuel
-- - brown
-  - alice
-  - brown
 - - miss
   - larkins
   - edward
+- - brown
+  - alice
+  - brown
 - - sir
   - mulberry
   - hawk
+- - composite
+  - dickensian
+  - character
+- - family
+  - major
+  - joseph
 - - mrs
   - cruncher
   - alderman
 - - mrs
   - lupin
   - abel
-- - composite
-  - dickensian
-  - character
+- - jarvis
+  - lorry
+  - dr
 - - mulberry
   - hawk
   - mrs
 - - samuel
   - weller
   - john
-- - family
-  - major
-  - joseph
-- - mrs
-  - garland
-  - walter
 - - carton
   - john
   - baptist
-- - jarvis
-  - lorry
-  - dr
-- - mary
-  - anne
-  - mrs
 - - sydney
   - carton
   - john
-- - mrs
-  - brown
-  - alice
 - - jasper
   - dr
   - anthony
 - - mrs
-  - harris
-  - james
+  - garland
+  - walter
+- - mary
+  - anne
+  - mrs
 - - young
   - dick
   - deputy
-- - dick
-  - young
-  - dick
+- - mrs
+  - brown
+  - alice
 - - peter
   - magnus
   - dr
-- - alderman
-  - cute
-  - captain
+- - dick
+  - young
+  - dick
 - - cobble
   - together
   - elements
+- - alderman
+  - cute
+  - captain
+- - mrs
+  - harris
+  - james
 - - barnacle
   - family
   - john
@@ -161,23 +161,20 @@ ngrams:
 - - christmas
   - past
   - present
-- - good
-  - mrs
-  - brown
 - - fassbinder
   - mr
   - feeder
-- - abel
-  - garland
-  - mr
 - - fogg
   - mr
   - dolls
-- - edith
-  - granger
-  - mr
 - - jingle
   - jo
+  - mr
+- - abel
+  - garland
+  - mr
+- - edith
+  - granger
   - mr
 - - benjamin
   - betsy
@@ -194,32 +191,35 @@ ngrams:
 - - alice
   - brown
   - mr
-- - old
-  - martin
-  - chuzzlewit
+- - good
+  - mrs
+  - brown
 - - gay
   - mr
   - george
 - - mr
   - giles
   - thomas
-- - old
-  - bill
-  - barley
 - - dennis
   - mr
   - dick
 - - future
   - mr
   - giles
-- - mrs
-  - mann
-  - mr
 - - sarah
   - pocket
   - mr
+- - old
+  - martin
+  - chuzzlewit
+- - old
+  - bill
+  - barley
 - - ned
   - dennis
+  - mr
+- - mrs
+  - mann
   - mr
 - - mrs
   - ticket

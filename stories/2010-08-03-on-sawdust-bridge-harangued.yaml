@@ -26,30 +26,30 @@ ngrams:
 - - transacted
   - useful
   - business
-- - fictional
-  - unearthly
-  - winged
 - - useful
   - business
   - repaired
+- - fictional
+  - unearthly
+  - winged
 - - plural
   - fell
   - directly
-- - seemed
-  - curiously
-  - disconnected
-- - local
-  - news
-  - bulletin
 - - rarely
   - vouchsafed
   - anything
-- - yellow
-  - substance
-  - entirely
+- - seemed
+  - curiously
+  - disconnected
 - - paving
   - slabs
   - whether
+- - yellow
+  - substance
+  - entirely
+- - local
+  - news
+  - bulletin
 - - angle
   - better
   - poised
@@ -62,102 +62,102 @@ ngrams:
 - - meteorological
   - conditions
   - given
-- - sawdust
-  - bridge
-  - towards
 - - striding
   - manfully
   - across
-- - arms
-  - move
+- - sawdust
+  - bridge
   - towards
-- - home
-  - crossing
-  - sawdust
-- - bright
-  - yellow
-  - bird
-- - mustard
-  - nor
-  - custard
-- - manfully
-  - across
-  - sawdust
 - - hurrying
   - along
   - bent
+- - manfully
+  - across
+  - sawdust
+- - home
+  - crossing
+  - sawdust
+- - arms
+  - move
+  - towards
 - - slabs
   - whether
   - dead
 - - creature
   - cannot
   - really
+- - mustard
+  - nor
+  - custard
 - - cannot
   - really
   - exist
-- - morning
-  - rain
-  - delivering
 - - citizens
   - passing
   - along
-- - swimming
-  - person
-  - doing
 - - along
   - sawdust
   - bridge
+- - bright
+  - yellow
+  - bird
+- - morning
+  - rain
+  - delivering
 - - across
   - sawdust
   - bridge
-- - another
-  - yellow
-  - substance
+- - swimming
+  - person
+  - doing
+- - flambeau
+  - though
+  - necessarily
 - - always
   - standing
   - directly
 - - neither
   - mustard
   - nor
+- - another
+  - yellow
+  - substance
+- - though
+  - raindrops
+  - immediately
 - - looked
   - comically
   - tiny
-- - flambeau
-  - though
-  - necessarily
 - - substance
   - entirely
   - again
 - - learned
   - later
   - listening
-- - though
-  - raindrops
-  - immediately
 - - progress
   - further
   - along
 - - further
   - along
   - sawdust
-- - these
-  - tips
-  - bubbled
 - - quite
   - probably
   - fictional
+- - these
+  - tips
+  - bubbled
 - - blown
   - clear
   - away
 - - most
   - heads
   - looked
-- - fell
-  - directly
-  - through
 - - discern
   - any
   - crumbs
+- - fell
+  - directly
+  - through
 - - unusually
   - large
   - head
@@ -170,9 +170,6 @@ ngrams:
 - - large
   - head
   - perched
-- - ex
-  - machina
-  - now
 - - way
   - home
   - crossing
@@ -182,102 +179,105 @@ ngrams:
 - - splish
   - splosh
   - upon
-- - brandishing
-  - her
-  - flambeau
-- - liberty
-  - brandishing
-  - her
+- - ex
+  - machina
+  - now
 - - slight
   - angle
   - upon
 - - yellow
   - stains
   - upon
+- - immediately
+  - splashed
+  - upon
 - - before
   - hurrying
   - along
+- - upon
+  - whatever
+  - errands
+- - bent
+  - upon
+  - whatever
 - - other
   - citizens
   - passing
-- - immediately
-  - splashed
+- - lay
+  - sprawled
   - upon
 - - neither
   - spoke
   - now
-- - upon
-  - whatever
-  - errands
-- - long
-  - long
-  - ago
-- - long
-  - long
-  - ago
-- - bent
-  - upon
-  - whatever
-- - lay
-  - sprawled
-  - upon
 - - any
   - nor
   - accompanying
+- - brandishing
+  - her
+  - flambeau
+- - liberty
+  - brandishing
+  - her
+- - long
+  - long
+  - ago
+- - long
+  - long
+  - ago
+- - along
+  - bent
+  - upon
 - - now
   - nor
   - croaked
 - - spoke
   - now
   - nor
-- - along
-  - bent
-  - upon
 - - jumper
   - nor
   - could
-- - her
-  - flambeau
-  - though
 - - raindrop
   - perhaps
   - more
-- - tips
-  - bubbled
-  - up
 - - just
   - might
   - account
+- - her
+  - flambeau
+  - though
+- - tips
+  - bubbled
+  - up
 - - surface
   - tilt
   - your
-- - pinpoint
-  - exactly
-  - what
 - - any
   - way
   - also
-- - were
-  - liberty
-  - brandishing
+- - pinpoint
+  - exactly
+  - what
 - - saw
   - 'no'
   - sign
-- - raindrops
-  - were
-  - falling
-- - noted
-  - were
-  - shod
 - - guttural
   - bawling
   - if
-- - stains
+- - were
+  - liberty
+  - brandishing
+- - raindrops
   - were
-  - neither
+  - falling
 - - sang
   - out
   - imploring
+- - noted
+  - were
+  - shod
+- - stains
+  - were
+  - neither
 - - were
   - neither
   - mustard
@@ -290,33 +290,39 @@ ngrams:
 - - butterfly
   - stroke
   - they
-- - few
-  - tips
-  - about
-- - hope
-  - 'no'
-  - little
-- - whatever
-  - errands
-  - they
-- - we
-  - transacted
-  - useful
-- - stroke
-  - they
-  - seemed
-- - bawling
-  - if
-  - indeed
-- - they
-  - seemed
-  - curiously
-- - wearing
-  - mittens
-  - there
 - - might
   - just
   - might
+- - bawling
+  - if
+  - indeed
+- - we
+  - transacted
+  - useful
+- - few
+  - tips
+  - about
+- - whatever
+  - errands
+  - they
+- - hope
+  - 'no'
+  - little
+- - wearing
+  - mittens
+  - there
+- - stroke
+  - they
+  - seemed
+- - they
+  - seemed
+  - curiously
+- - perhaps
+  - more
+  - than
+- - vow
+  - well
+  - if
 - - your
   - head
   - heavenward
@@ -326,12 +332,6 @@ ngrams:
 - - left
   - him
   - where
-- - perhaps
-  - more
-  - than
-- - vow
-  - well
-  - if
 - - when
   - long
   - ago
@@ -341,105 +341,105 @@ ngrams:
 - - 'no'
   - point
   - did
-- - head
-  - heavenward
-  - all
-- - mittens
-  - an
-  - identical
-- - an
-  - identical
-  - shade
 - - again
   - so
   - unstoppable
+- - head
+  - heavenward
+  - all
 - - me
   - before
   - hurrying
+- - mittens
+  - an
+  - identical
 - - were
   - bent
   - upon
+- - an
+  - identical
+  - shade
 - - man
   - we
   - transacted
-- - snails
-  - man
-  - we
-- - one
-  - raindrops
-  - plural
 - - entirely
   - again
   - so
+- - one
+  - raindrops
+  - plural
+- - snails
+  - man
+  - we
 - - were
   - any
   - nor
-- - knowingly
-  - seen
-  - an
+- - similar
+  - effect
+  - one
 - - about
   - some
   - snails
 - - an
   - angle
   - better
-- - similar
-  - effect
-  - one
-- - seen
+- - knowingly
+  - seen
   - an
-  - angel
 - - correct
   - one
   - although
+- - seen
+  - an
+  - angel
 - - some
   - snails
   - when
+- - were
+  - rather
+  - like
 - - fontanelle
   - had
   - sealed
 - - had
   - sealed
   - properly
-- - were
-  - rather
-  - like
 - - cardigan
   - or
   - pullover
-- - mustard
-  - or
-  - custard
 - - sealed
   - properly
   - or
-- - one
-  - side
-  - again
+- - mustard
+  - or
+  - custard
 - - bread
   - or
   - pastry
-- - tips
-  - about
-  - what
-- - curiously
-  - disconnected
-  - from
-- - raindrops
-  - from
-  - falling
-- - bar
-  - raindrops
-  - from
 - - rain
   - or
   - shine
 - - either
   - mustard
   - or
+- - one
+  - side
+  - again
+- - dead
+  - or
+  - alive
+- - tips
+  - about
+  - what
 - - really
   - exist
   - but
+- - hot
+  - dog
+  - or
+- - curiously
+  - disconnected
+  - from
 story:
   date: 2010-08-03
   id: 2010-08-03-on-sawdust-bridge-harangued

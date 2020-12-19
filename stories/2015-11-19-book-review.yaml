@@ -11,66 +11,63 @@ ngrams:
 - - mancunian
   - polymath
   - marketing
-- - barbara
-  - taylor
-  - bradford
 - - polymath
   - marketing
   - ploy
-- - elias
-  - canetti
-  - dan
+- - barbara
+  - taylor
+  - bradford
 - - absurd
   - mancunian
   - polymath
-- - robinson
-  - emily
-  - dickinson
 - - gobbo
   - proceeds
   - apace
-- - patient
-  - chaffinches
-  - hedgerows
-- - l
-  - ron
-  - hubbard
-- - purgative
-  - narrative
-  - sloppiness
 - - biographer
   - roger
   - lewis
+- - elias
+  - canetti
+  - dan
 - - tuberculosis
   - patient
   - chaffinches
-- - dickinson
-  - l
+- - patient
+  - chaffinches
+  - hedgerows
+- - robinson
+  - emily
+  - dickinson
+- - l
   - ron
+  - hubbard
 - - burgess
   - biographer
   - roger
-- - emily
-  - dickinson
-  - l
-- - bile
-  - bitter
-  - colic
+- - purgative
+  - narrative
+  - sloppiness
 - - sloppiness
   - untold
   - oodles
+- - dickinson
+  - l
+  - ron
+- - bile
+  - bitter
+  - colic
+- - emily
+  - dickinson
+  - l
 - - g
   - robinson
   - emily
-- - anthony
-  - burgess
-  - edward
-- - canetti
-  - dan
-  - brown
 - - chapters
   - fairly
   - uniform
+- - anthony
+  - burgess
+  - edward
 - - edward
   - g
   - robinson
@@ -83,123 +80,120 @@ ngrams:
 - - bookcase
   - location
   - finding
-- - estimable
-  - richard
-  - carter
-- - violent
-  - purgative
-  - narrative
-- - punctuation
-  - mark
-  - spells
 - - nightmarish
   - albino
   - hen
+- - canetti
+  - dan
+  - brown
+- - estimable
+  - richard
+  - carter
 - - nine
   - chapters
   - fairly
+- - punctuation
+  - mark
+  - spells
+- - violent
+  - purgative
+  - narrative
 - - dangerous
   - medical
   - condition
-- - chutes
-  - mudchute
-  - potato
-- - mark
-  - spells
-  - doom
-- - jeffrey
-  - archer
-  - dennis
-- - mudchute
-  - potato
-  - recipes
 - - novel
   - opens
   - gobbo
-- - pastry
-  - fillings
-  - starlings
-- - missing
-  - punctuation
-  - mark
-- - unspeakably
-  - squalid
-  - ways
+- - jeffrey
+  - archer
+  - dennis
 - - resist
   - proper
   - shelving
+- - unspeakably
+  - squalid
+  - ways
+- - mark
+  - spells
+  - doom
+- - missing
+  - punctuation
+  - mark
+- - chutes
+  - mudchute
+  - potato
 - - gethsemane
   - mud
   - chutes
+- - pastry
+  - fillings
+  - starlings
 - - mud
   - chutes
   - mudchute
-- - gobbo
-  - reproduced
-  - below
-- - bottom
-  - shelf
-  - hardly
 - - shorter
   - potted
   - brief
 - - shelf
   - hardly
   - shoved
+- - mudchute
+  - potato
+  - recipes
+- - bottom
+  - shelf
+  - hardly
 - - fillings
   - starlings
   - pigs
+- - gobbo
+  - reproduced
+  - below
 - - poppycock
   - brow
   - neither
-- - cows
-  - burnt
-  - toast
 - - pamphleteer
   - readily
   - admits
+- - cows
+  - burnt
+  - toast
 - - potted
   - brief
   - brief
-- - difficulty
-  - dobson's
-  - invaluable
+- - real
+  - historical
+  - figures
 - - above
   - bookcase
   - location
 - - renaissance
   - city
   - state
-- - real
-  - historical
-  - figures
 - - quietly
   - forgotten
   - certainly
-- - sports
-  - arena
-  - during
 - - titanic
   - pamphleteer
   - readily
+- - difficulty
+  - dobson's
+  - invaluable
 - - crows
   - cows
   - burnt
-- - fictional
-  - renaissance
-  - city
 - - quotations
   - certain
   - passages
-- - flux
-  - black
-  - bile
+- - sports
+  - arena
+  - during
+- - fictional
+  - renaissance
+  - city
 - - brief
   - brief
   - lives
-- - frantic
-  - black
-  - eyebrows
 - - round
   - everyone's
   - knowledge
@@ -212,27 +206,33 @@ ngrams:
 - - medical
   - condition
   - best
-- - black
+- - flux
+  - black
   - bile
-  - bitter
 - - comes
   - round
   - everyone's
-- - hardly
-  - shoved
-  - behind
+- - frantic
+  - black
+  - eyebrows
+- - black
+  - bile
+  - bitter
 - - state
   - clearly
   - meant
-- - corrugated
-  - kind
-  - chapter
+- - hardly
+  - shoved
+  - behind
 - - brow
   - neither
   - high
 - - city
   - state
   - clearly
+- - corrugated
+  - kind
+  - chapter
 - - historical
   - figures
   - among
@@ -248,69 +248,66 @@ ngrams:
 - - dobson's
   - invaluable
   - pamphlet
+- - certain
+  - books
+  - especially
+- - one's
+  - brain
+  - sluiced
 - - bookcases
   - top
   - left
 - - marketing
   - ploy
   - each
-- - one's
-  - brain
-  - sluiced
-- - certain
-  - books
-  - especially
-- - top
-  - left
-  - corner
 - - middle
   - nor
   - low
-- - each
-  - chapter
-  - ends
+- - top
+  - left
+  - corner
 - - squalid
   - ways
   - until
+- - each
+  - chapter
+  - ends
 - - length
   - each
   - chapter
 - - ploy
   - each
   - copy
-- - wisely
-  - adopted
-  - hooting
 - - high
   - middle
   - nor
+- - wisely
+  - adopted
+  - hooting
 - - princeling
   - becomes
   - ever
 - - taken
   - place
   - except
-- - go
-  - anywhere
-  - near
 - - half
   - mr
   - carter
-- - maddeningly
-  - dobson
-  - goes
-- - see
-  - above
-  - bookcase
+- - go
+  - anywhere
+  - near
 - - having
   - one's
   - brain
-- - earth
-  - maddeningly
-  - dobson
+- - see
+  - above
+  - bookcase
 - - princeling
   - become
   - ever
+- - maddeningly
+  - dobson
+  - goes
 - - second
   - half
   - mr
@@ -320,6 +317,9 @@ ngrams:
 - - twee
   - poets
   - such
+- - earth
+  - maddeningly
+  - dobson
 - - imagined
   - disease
   - such
@@ -329,12 +329,12 @@ ngrams:
 - - especially
   - those
   - written
-- - black
-  - see
-  - above
 - - become
   - ever
   - further
+- - black
+  - see
+  - above
 - - its
   - hidden
   - presence
@@ -356,18 +356,21 @@ ngrams:
 - - cannot
   - think
   - why
+- - precious
+  - time
+  - actually
 - - its
   - second
   - half
 - - most
   - important
   - being
+- - time
+  - comes
+  - round
 - - carter
   - has
   - reviewed
-- - precious
-  - time
-  - actually
 - - carter
   - has
   - wisely
@@ -377,36 +380,33 @@ ngrams:
 - - richard
   - carter
   - has
-- - time
-  - comes
-  - round
 - - never
   - made
   - clear
+- - time
+  - actually
+  - reading
 - - tome
   - has
   - already
 - - corner
   - 'no'
   - squeezed
-- - time
-  - actually
-  - reading
 - - been
   - copied
   - verbatim
-- - wasting
-  - your
-  - precious
 - - becomes
   - ever
   - more
-- - left
-  - corner
-  - 'no'
+- - wasting
+  - your
+  - precious
 - - goes
   - 'no'
   - further
+- - left
+  - corner
+  - 'no'
 story:
   date: 2015-11-19
   id: 2015-11-19-book-review

@@ -8,18 +8,18 @@ ngrams:
 - - dennis's
   - mother's
   - bedside
-- - ivan
-  - plunkett
-  - rinsed
 - - ditches
   - dennis's
   - mother's
 - - ivan
   - plunkett
-  - drank
+  - rinsed
 - - surprisingly
   - booming
   - baritone
+- - ivan
+  - plunkett
+  - drank
 - - busied
   - herself
   - dusting
@@ -35,9 +35,6 @@ ngrams:
 - - windswept
   - trees
   - answered
-- - housekeeper
-  - mrs
-  - clank
 - - suffered
   - poor
   - befuddled
@@ -56,75 +53,78 @@ ngrams:
 - - father
   - ivan
   - plunkett
-- - priest
-  - father
-  - ivan
 - - rustic
   - folk
   - tales
-- - dyed
-  - deep
-  - red
-- - poor
-  - befuddled
-  - dennis
+- - housekeeper
+  - mrs
+  - clank
+- - priest
+  - father
+  - ivan
 - - barn
   - dennis
   - stumbled
 - - wool
   - dyed
   - deep
+- - dyed
+  - deep
+  - red
+- - poor
+  - befuddled
+  - dennis
 - - calling
   - dennis
   - dennis
-- - dennis
-  - father
-  - ivan
 - - whom
   - dennis's
   - mother
+- - dennis
+  - father
+  - ivan
 - - mud
   - calling
+  - dennis
+- - eerie
+  - barn
   - dennis
 - - leaving
   - dennis
   - alone
-- - eerie
-  - barn
-  - dennis
 - - times
   - father
   - ivan
-- - rosary
-  - beads
-  - under
 - - almost
   - identical
   - manner
-- - dennis
-  - sat
-  - looking
+- - rosary
+  - beads
+  - under
 - - ivan
   - emblazoned
   - across
-- - parish
-  - rounds
-  - took
 - - rather
   - ivan
   - clank
-- - house
-  - dennis
+- - dennis
   - sat
+  - looking
+- - parish
+  - rounds
+  - took
+- - booming
+  - baritone
+  - until
 - - name
   - ivan
   - emblazoned
 - - great
   - expertise
   - depicting
-- - booming
-  - baritone
-  - until
+- - house
+  - dennis
+  - sat
 - - night
   - leaving
   - dennis
@@ -140,9 +140,6 @@ ngrams:
 - - rain
   - squelching
   - through
-- - rosary
-  - beads
-  - only
 - - days
   - long
   - vanished
@@ -152,6 +149,9 @@ ngrams:
 - - us
   - between
   - straying
+- - rosary
+  - beads
+  - only
 - - way
   - home
   - soft
@@ -161,39 +161,39 @@ ngrams:
 - - befuddled
   - dennis
   - did
-- - bailiff
-  - her
-  - illicit
 - - those
   - times
   - father
-- - she
-  - busied
-  - herself
-- - she
-  - suffered
-  - poor
 - - ivan
   - come
   - back
-- - her
-  - late
-  - husband
+- - bailiff
+  - her
+  - illicit
+- - she
+  - busied
+  - herself
 - - blood
   - away
   - too
-- - other
-  - side
-  - leaving
 - - last
   - moments
   - might
 - - farms
   - much
   - much
+- - other
+  - side
+  - leaving
+- - she
+  - suffered
+  - poor
 - - much
   - much
   - slaughter
+- - her
+  - late
+  - husband
 - - through
   - many
   - puddles
@@ -203,21 +203,21 @@ ngrams:
 - - ivan
   - plunkett
   - who
-- - her
-  - last
-  - moments
 - - everyone
   - who
   - passed
-- - called
-  - him
-  - ivan
-- - called
-  - him
-  - ivan
 - - their
   - latest
   - enormity
+- - her
+  - last
+  - moments
+- - called
+  - him
+  - ivan
+- - called
+  - him
+  - ivan
 - - rounds
   - took
   - him
@@ -230,60 +230,63 @@ ngrams:
 - - scattered
   - terrified
   - into
-- - widow
-  - made
-  - him
 - - been
   - rather
   - ivan
-- - ivan
-  - then
-  - she
-- - then
-  - she
-  - died
+- - widow
+  - made
+  - him
 - - they
   - scattered
   - terrified
-- - she
-  - mistook
-  - him
-- - against
-  - all
-  - blandishments
+- - ivan
+  - then
+  - she
 - - latest
   - enormity
   - we
+- - then
+  - she
+  - died
+- - against
+  - all
+  - blandishments
 - - first
   - who
   - saw
-- - him
-  - ivan
-  - then
 - - kept
   - against
   - all
+- - him
+  - ivan
+  - then
+- - she
+  - mistook
+  - him
 - - spigot
   - because
   - they
 - - mother
   - lay
   - so
-- - who
-  - passed
-  - him
 - - might
   - ask
   - if
 - - away
   - too
   - into
-- - farmyards
-  - save
-  - one
 - - enormity
   - we
   - might
+- - who
+  - passed
+  - him
+- - farmyards
+  - save
+  - one
+- - we
+  - might
+  - ask
 - - an
   - almost
   - identical
@@ -296,18 +299,15 @@ ngrams:
 - - slaughtering
   - had
   - ceased
-- - we
-  - might
-  - ask
+- - muck
+  - one
+  - does
 - - dennis's
   - mother
   - had
 - - husband
   - had
   - died
-- - dennis
-  - had
-  - toppled
 story:
   date: 2010-01-25
   id: 2010-01-25-variation-on-a-theme-of-scott-walker

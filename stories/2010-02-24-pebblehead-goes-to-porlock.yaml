@@ -2,36 +2,36 @@ ngrams:
 - - sheridan
   - le
   - fanu
-- - samuel
-  - taylor
-  - coleridge
 - - primitive
   - interplanetary
   - cargo
+- - samuel
+  - taylor
+  - coleridge
 - - j
   - sheridan
   - le
 - - missing
   - pod
   - prefix
-- - interplanetary
-  - cargo
-  - ship
-- - cargo
-  - ship
-  - intentionally
 - - space
   - zombie
   - hatched
-- - tremendously
-  - exciting
-  - passage
+- - cargo
+  - ship
+  - intentionally
+- - interplanetary
+  - cargo
+  - ship
 - - bred
   - pod
   - persons
 - - parallel
   - porlock
   - beyond
+- - tremendously
+  - exciting
+  - passage
 - - chalet
   - o'
   - prose
@@ -71,48 +71,51 @@ ngrams:
 - - twaddle
   - leaving
   - us
-- - fanu
-  - ever
-  - since
 - - door
   - several
   - readers
+- - fanu
+  - ever
+  - since
 - - whose
   - brand
   - new
 - - cottage
-  - door
-  - how
-- - cottage
   - where
   - coleridge
+- - cottage
+  - door
+  - how
 - - planet
   - porlock
   - where
-- - o'
-  - prose
-  - only
 - - poet
   - survive
   - such
 - - never
   - seen
   - fit
+- - o'
+  - prose
+  - only
+- - fat
+  - fingers
+  - upon
 - - other
   - questions
   - surround
 - - thereafter
   - other
   - questions
-- - fat
-  - fingers
-  - upon
 - - such
   - pod
   - person
 - - came
   - most
   - people
+- - came
+  - bashing
+  - upon
 - - life
   - thereafter
   - other
@@ -122,18 +125,15 @@ ngrams:
 - - who
   - fatally
   - interrupted
-- - came
-  - bashing
-  - upon
-- - fact
-  - some
-  - kind
 - - door
   - how
   - did
 - - pamphleteers
   - 'no'
   - word
+- - fact
+  - some
+  - kind
 - - utter
   - ignorance
   - about
@@ -173,9 +173,9 @@ ngrams:
 - - an
   - encounter
   - survive
-- - transpires
-  - has
-  - been
+- - this
+  - twaddle
+  - leaving
 story:
   date: 2010-02-24
   id: 2010-02-24-pebblehead-goes-to-porlock

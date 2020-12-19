@@ -11,96 +11,96 @@ ngrams:
 - - lozenges
   - screwdrivers
   - shredded
-- - shipping
-  - timetables
-  - phosphorescence
-- - sandpaper
-  - grimy
-  - unpleasantness
-- - grimy
-  - unpleasantness
-  - winches
-- - holders
-  - shipping
-  - timetables
 - - guantanamo
   - bay
   - abu
 - - bay
   - abu
   - ghraib
-- - dictaphone
-  - belt
-  - sandpaper
+- - shipping
+  - timetables
+  - phosphorescence
+- - holders
+  - shipping
+  - timetables
+- - sandpaper
+  - grimy
+  - unpleasantness
+- - grimy
+  - unpleasantness
+  - winches
 - - arab
   - abdul
   - alhazred
-- - compilation
-  - compact
-  - disc
 - - don
   - fabrizio
   - corbera
 - - retardant
   - fabric
   - samples
-- - belt
+- - compilation
+  - compact
+  - disc
+- - dictaphone
+  - belt
   - sandpaper
-  - grimy
-- - tooth
-  - mug
-  - bunsen
 - - pulleys
   - talcum
   - powder
-- - flame
-  - retardant
-  - fabric
-- - aerodrome
-  - flame
-  - retardant
-- - mug
-  - bunsen
-  - burners
 - - western
   - paraphernalia
   - lozenges
-- - cot
-  - hinges
-  - blubber
-- - screwdrivers
-  - shredded
-  - wheat
+- - aerodrome
+  - flame
+  - retardant
 - - avant
   - garde
   - arts
-- - compact
-  - disc
-  - basil
+- - flame
+  - retardant
+  - fabric
+- - belt
+  - sandpaper
+  - grimy
+- - cot
+  - hinges
+  - blubber
+- - tooth
+  - mug
+  - bunsen
 - - salivating
   - weasels
   - snapping
-- - dental
-  - floss
-  - diagrams
+- - mug
+  - bunsen
+  - burners
+- - screwdrivers
+  - shredded
+  - wheat
+- - johnson
+  - compilation
+  - compact
 - - weasels
   - snapping
   - turtles
 - - compacted
   - orange
   - substance
+- - compact
+  - disc
+  - basil
+- - dental
+  - floss
+  - diagrams
 - - fur
   - balls
   - rotating
-- - johnson
+- - brothers
+  - johnson
   - compilation
-  - compact
-- - bradlaugh
-  - '-'
-  - observed
-- - '-'
-  - observed
-  - illiterate
+- - cartoon
+  - superhero
+  - laundry
 - - rickshaw
   - geese
   - pots
@@ -110,12 +110,6 @@ ngrams:
 - - plot
   - developments
   - hinge
-- - brothers
-  - johnson
-  - compilation
-- - cartoon
-  - superhero
-  - laundry
 - - effluvium
   - ectoplasm
   - railings
@@ -125,210 +119,204 @@ ngrams:
 - - herbie
   - hancock
   - issue
-- - dubbin
-  - flock
-  - wallpaper
-- - breathing
-  - softly
-  - clutching
+- - cartoon
+  - strip
+  - medium
 - - owls
   - dental
   - floss
+- - breathing
+  - softly
+  - clutching
+- - dubbin
+  - flock
+  - wallpaper
+- - sand
+  - effluvium
+  - ectoplasm
+- - comic
+  - strip
+  - adventure
+- - official
+  - worldwide
+  - fan
 - - floss
   - diagrams
   - cotton
 - - clamps
   - sugar
   - goo
-- - cartoon
-  - strip
-  - medium
-- - sand
-  - effluvium
-  - ectoplasm
-- - official
-  - worldwide
-  - fan
-- - charles
-  - bradlaugh
-  - '-'
-- - comic
-  - strip
-  - adventure
-- - dust
-  - tweaking
-  - mechanisms
 - - columnist
   - peter
   - hitchens
-- - sir
-  - granville
-  - bantock
 - - garde
   - arts
   - project
+- - dust
+  - tweaking
+  - mechanisms
+- - sir
+  - granville
+  - bantock
 - - fabrizio
   - corbera
   - prince
-- - recording
-  - studio
-  - breathing
-- - hornets
-  - dust
-  - tweaking
 - - cloth
   - sand
   - effluvium
-- - golden
-  - tooth
-  - mug
-- - custard
-  - muck
-  - shoelaces
-- - basil
-  - hornets
+- - hornets
   - dust
-- - cotton
-  - pins
-  - pork
-- - worldwide
-  - fan
-  - club
+  - tweaking
 - - fantastic
   - comic
   - featuring
-- - personnel
-  - including
-  - roadies
-- - man's
-  - beard
-  - mary
-- - sir
-  - ian
-  - blair
+- - recording
+  - studio
+  - breathing
 - - peter
   - hitchens
   - laundry
-- - talcum
-  - powder
-  - country
-- - fan
+- - worldwide
+  - fan
   - club
-  - officers
-- - strictly
-  - speaking
-  - possession
-- - ornithological
-  - content
-  - whatsoever
-- - hancock
-  - issue
-  - volume
+- - personnel
+  - including
+  - roadies
+- - golden
+  - tooth
+  - mug
 - - blubber
   - fruit
   - clamps
+- - strictly
+  - speaking
+  - possession
+- - basil
+  - hornets
+  - dust
+- - sir
+  - ian
+  - blair
+- - ornithological
+  - content
+  - whatsoever
+- - man's
+  - beard
+  - mary
+- - cotton
+  - pins
+  - pork
+- - fan
+  - club
+  - officers
 - - bins
   - unusable
   - according
-- - goat
-  - pens
-  - hacks
-- - box
-  - cutters
-  - basho
-- - diagrams
-  - cotton
-  - pins
-- - issue
+- - hancock
+  - issue
   - volume
-  - examining
-- - gravel
-  - cloth
-  - sand
-- - mad
-  - arab
-  - abdul
+- - talcum
+  - powder
+  - country
 - - fruit
   - clamps
   - sugar
+- - custard
+  - muck
+  - shoelaces
+- - goat
+  - pens
+  - hacks
 - - hinges
   - blubber
   - fruit
+- - gravel
+  - cloth
+  - sand
+- - box
+  - cutters
+  - basho
+- - issue
+  - volume
+  - examining
+- - municipal
+  - waste
+  - bins
 - - fountain
   - pen
   - mysterious
 - - nearest
   - municipal
   - waste
-- - municipal
-  - waste
-  - bins
-- - wheat
-  - box
-  - cutters
+- - mad
+  - arab
+  - abdul
 - - municipal
   - waste
   - bin
+- - diagrams
+  - cotton
+  - pins
+- - wheat
+  - box
+  - cutters
 - - shredded
   - wheat
   - box
+- - roadies
+  - sound
+  - engineers
+- - particularly
+  - enlightening
+  - contribution
+- - orange
+  - substance
+  - hard
 - - page
   - potatoes
   - bloaters
 - - pale
   - blue
   - cloudless
-- - roadies
-  - sound
-  - engineers
-- - sugar
-  - goo
-  - pond
-- - orange
-  - substance
-  - hard
 - - uniform
   - pale
   - blue
-- - particularly
-  - enlightening
-  - contribution
 - - bag
   - boy's
   - superpowers
-- - blue
-  - cloudless
-  - flat
-- - fumbled
-  - occasionally
-  - looking
+- - sugar
+  - goo
+  - pond
+- - eye
+  - dangling
+  - loose
 - - boy
   - fan
   - club
 - - otherwise
   - stupendous
   - stories
-- - eye
-  - dangling
-  - loose
-- - laundry
-  - bag
-  - boy's
-- - laundry
-  - bag
-  - boy's
-- - laundry
-  - bag
-  - boy's
-- - aforementioned
-  - yellow
-  - hair
-- - superhero
-  - laundry
-  - bag
+- - fumbled
+  - occasionally
+  - looking
+- - blue
+  - cloudless
+  - flat
 - - button
   - eye
   - dangling
+- - superhero
+  - laundry
+  - bag
+- - laundry
+  - bag
+  - boy's
+- - laundry
+  - bag
+  - boy's
+- - laundry
+  - bag
+  - boy's
 - - cardboard
   - boxes
   - packed
@@ -338,150 +326,147 @@ ngrams:
 - - bag
   - boy's
   - pet
-- - hill
-  - owl
-  - sanctuary
+- - important
+  - plot
+  - developments
 - - laundry
   - bag
   - stands
 - - comic
   - laundry
   - bag
-- - somewhat
-  - battered
-  - tin
-- - official
-  - laundry
-  - bag
-- - important
-  - plot
-  - developments
+- - hill
+  - owl
+  - sanctuary
 - - skim
   - reading
   - sheltering
-- - pang
-  - hill
-  - owl
+- - aforementioned
+  - yellow
+  - hair
+- - official
+  - laundry
+  - bag
 - - including
   - roadies
   - sound
-- - boy's
-  - pet
-  - pig
-- - pet
-  - pig
-  - douglas
-- - detail
-  - laundry
-  - bag
-- - smooth
-  - pap
-  - left
-- - bag
-  - boy
-  - intriguingly
-- - bag
-  - boy
-  - lore
-- - pig
-  - strictly
-  - speaking
 - - calendar
   - litmus
   - paper
-- - bag
-  - boy
-  - acts
-- - bag
-  - boy
-  - fan
-- - bag
-  - boy
-  - contained
-- - laundry
+- - pet
+  - pig
+  - douglas
+- - boy's
+  - pet
+  - pig
+- - somewhat
+  - battered
+  - tin
+- - bradlaugh
+  - '-'
+  - observed
+- - pang
+  - hill
+  - owl
+- - '-'
+  - observed
+  - illiterate
+- - detail
+  - laundry
   - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
-- - laundry
-  - bag
-  - boy
+- - pig
+  - strictly
+  - speaking
 - - does
   - herbie
   - hancock
 - - bag
   - boy
-  - gets
+  - intriguingly
 - - different
   - berries
   - ready
 - - bag
   - boy
+  - lore
+- - charles
+  - bradlaugh
+  - '-'
+- - bag
+  - boy
+  - acts
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - laundry
+  - bag
+  - boy
+- - bag
+  - boy
+  - fan
+- - smooth
+  - pap
+  - left
+- - bag
+  - boy
+  - gets
+- - bag
+  - boy
+  - contained
+- - bag
+  - boy
   - titles
-- - strip
-  - adventure
-  - called
-- - adventure
-  - called
-  - laundry
-- - water
-  - goat
-  - pens
-- - tonic
-  - water
-  - goat
-- - already
-  - averred
-  - during
 - - discovered
   - proper
   - books
@@ -491,114 +476,438 @@ ngrams:
 - - comics
   - buff
   - nor
+- - strip
+  - adventure
+  - called
+- - adventure
+  - called
+  - laundry
+- - already
+  - averred
+  - during
 - - learned
   - laundry
   - bag
+- - water
+  - goat
+  - pens
+- - tonic
+  - water
+  - goat
 - - really
   - happened
   - outside
 - - among
   - others
   - frankly
-- - balls
-  - rotating
-  - things
-- - rotating
-  - things
-  - custard
-- - bag
-  - boy
-  - ought
-- - unmentionables
-  - long
-  - overdue
-- - street
-  - among
-  - others
-- - whose
-  - names
-  - appeared
-- - dribbling
-  - toddler
-  - yet
-- - freshener
-  - thing
-  - seem
-- - while
-  - loafing
-  - backstage
 - - jazz
   - funk
   - though
-- - called
-  - laundry
-  - bag
-- - things
+- - balls
+  - rotating
+  - things
+- - bag
+  - boy
+  - ought
+- - dribbling
+  - toddler
+  - yet
+- - rotating
+  - things
   - custard
-  - muck
-- - called
-  - simon
-  - whose
-- - closer
-  - attention
-  - three
-- - filthy
-  - unmentionables
+- - street
+  - among
+  - others
+- - unmentionables
   - long
-- - goo
-  - pond
-  - life
+  - overdue
+- - freshener
+  - thing
+  - seem
+- - whose
+  - names
+  - appeared
+- - while
+  - loafing
+  - backstage
 - - tuesday
   - weld
+  - yet
+- - stupendous
+  - stories
   - yet
 - - own
   - fan
   - club
-- - stupendous
-  - stories
-  - yet
-- - sky
-  - always
-  - depicted
+- - things
+  - custard
+  - muck
+- - filthy
+  - unmentionables
+  - long
 - - comic
   - books
   - nor
+- - called
+  - laundry
+  - bag
+- - sky
+  - always
+  - depicted
+- - closer
+  - attention
+  - three
+- - pointy
+  - town
+  - dubbin
+- - goo
+  - pond
+  - life
+- - called
+  - simon
+  - whose
 - - fifth
   - edition
   - still
 - - wallpaper
   - old
   - man's
-- - flock
-  - wallpaper
-  - old
-- - pointy
-  - town
-  - dubbin
-- - simon
-  - whose
-  - name
 - - bassoon
   - sonata
   - say
+- - flock
+  - wallpaper
+  - old
+- - nor
+  - does
+  - herbie
 - - wonder
   - why
   - none
 - - old
   - man's
   - beard
-- - nor
-  - does
-  - herbie
+- - simon
+  - whose
+  - name
 - - bag
   - boy
   - himself
 - - bag
   - boy
   - himself
+- - air
+  - freshener
+  - thing
 - - fictitious
   - being
   - despite
+- - bag
+  - regrettably
+  - most
+- - world
+  - although
+  - whether
+- - west
+  - indies
+  - first
+- - boy
+  - himself
+  - does
+- - entire
+  - weltanschauung
+  - those
+- - level
+  - another
+  - thing
+- - indies
+  - first
+  - published
+- - being
+  - despite
+  - looking
+- - unfathomable
+  - void
+  - where
+- - void
+  - where
+  - laundry
+- - bag
+  - boy
+  - much
+- - explaining
+  - why
+  - while
+- - bond's
+  - book
+  - while
+- - book
+  - while
+  - loafing
+- - first
+  - skim
+  - reading
+- - does
+  - two
+  - decades
+- - developments
+  - hinge
+  - upon
+- - enthusiasm
+  - too
+  - far
+- - did
+  - issue
+  - volume
+- - fictional
+  - spies
+  - such
+- - fictional
+  - detectives
+  - such
+- - man
+  - called
+  - simon
+- - where
+  - laundry
+  - bag
+- - its
+  - fifth
+  - edition
+- - other
+  - ornithological
+  - content
+- - only
+  - pay
+  - attention
+- - its
+  - normal
+  - size
+- - until
+  - last
+  - week
+- - like
+  - sir
+  - ian
+- - detectives
+  - like
+  - sir
+- - stories
+  - yet
+  - how
+- - turning
+  - back
+  - until
+- - any
+  - given
+  - situation
+- - real
+  - detectives
+  - like
+- - ever
+  - cared
+  - much
+- - paralysed
+  - rather
+  - than
+- - rather
+  - than
+  - provoked
+- - other
+  - fictional
+  - characters
+- - times
+  - its
+  - normal
+- - other
+  - laundry
+  - bag
+- - time
+  - secret
+  - flaps
+- - laundry
+  - bag
+  - could
+- - course
+  - named
+  - after
+- - books
+  - upon
+  - books
+- - books
+  - upon
+  - books
+- - eyes
+  - could
+  - expand
+- - am
+  - less
+  - interested
+- - yet
+  - how
+  - often
+- - blazing
+  - eyes
+  - could
+- - may
+  - wonder
+  - why
+- - took
+  - myself
+  - 'off'
+- - time
+  - laundry
+  - bag
+- - still
+  - does
+  - two
+- - any
+  - birds
+  - seen
+- - four
+  - times
+  - its
+- - very
+  - first
+  - skim
+- - yet
+  - other
+  - crushers
+- - haunting
+  - them
+  - watching
+- - she
+  - knew
+  - everything
+- - some
+  - dark
+  - corner
+- - thing
+  - seem
+  - like
+- - james
+  - bond
+  - who
+- - seemed
+  - she
+  - knew
+- - very
+  - careful
+  - before
+- - their
+  - aberrant
+  - leanings
+- - herbie
+  - hancock
+  - their
+- - 'no'
+  - official
+  - worldwide
+- - expunge
+  - their
+  - aberrant
+- - back
+  - until
+  - last
+- - hancock
+  - their
+  - absence
+- - their
+  - smooth
+  - pap
+- - drum
+  - up
+  - genuine
+- - up
+  - genuine
+  - enthusiasm
+- - pig
+  - giving
+  - him
+- - frankly
+  - their
+  - smooth
+- - can't
+  - drum
+  - up
+- - can
+  - always
+  - spot
+- - sonata
+  - say
+  - could
+- - many
+  - other
+  - laundry
+- - rectangle
+  - taking
+  - up
+- - readers
+  - who
+  - disagree
+- - others
+  - frankly
+  - their
+- - 'no'
+  - important
+  - plot
+- - say
+  - could
+  - stand
+- - many
+  - more
+  - superpowers
+- - thing
+  - she
+  - told
+- - strips
+  - about
+  - douglas
+- - about
+  - guantanamo
+  - bay
+- - peter
+  - just
+  - like
+- - statement
+  - about
+  - guantanamo
+- - courageous
+  - statement
+  - about
+- - readers
+  - can
+  - always
+- - surely
+  - been
+  - devised
+- - genius
+  - about
+  - laundry
+- - noticed
+  - about
+  - laundry
+- - taking
+  - up
+  - half
+- - information
+  - about
+  - laundry
+- - majestic
+  - genius
+  - about
+- - any
+  - other
+  - ornithological
+- - short
+  - strips
+  - about
+- - argue
+  - their
+  - case
+- - am
+  - still
+  - able
 story:
   date: 2007-12-12
   id: 2007-12-12-laundry-bag-boy

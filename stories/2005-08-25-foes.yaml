@@ -5,9 +5,6 @@ ngrams:
 - - savage
   - rocks
   - below
-- - polite
-  - note
-  - explaining
 - - ancient
   - blood
   - feuds
@@ -17,6 +14,9 @@ ngrams:
 - - ancient
   - blood
   - feud
+- - polite
+  - note
+  - explaining
 - - foe
   - feels
   - towards
@@ -62,69 +62,69 @@ ngrams:
 - - than
   - seven
   - point
-- - little
-  - chat
-  - after
 - - tower
   - do
   - try
-- - hooting
-  - yard
-  - readers
-- - steal
-  - some
-  - fruit
-- - high
-  - tower
-  - do
-- - more
-  - complicated
-  - often
+- - little
+  - chat
+  - after
 - - might
   - say
   - steal
+- - high
+  - tower
+  - do
+- - steal
+  - some
+  - fruit
+- - hooting
+  - yard
+  - readers
+- - more
+  - complicated
+  - often
 - - some
   - ancient
   - blood
 - - accepting
   - their
   - invitation
+- - repeat
+  - them
+  - always
 - - enmity
   - your
   - foe
 - - your
   - foe
   - feels
+- - them
+  - always
+  - allow
 - - greengrocer
   - becomes
   - your
+- - your
+  - remote
+  - ancestors
 - - becomes
   - your
   - foe
 - - meeting
   - your
   - foe
-- - your
-  - remote
-  - ancestors
-- - repeat
-  - them
-  - always
 - - remain
   - your
   - foe
-- - them
-  - always
-  - allow
 - - can
   - next
   - week
-- - say
-  - steal
-  - some
 - - having
   - their
   - origin
+- - say
+  - steal
+  - some
 story:
   date: 2005-08-25
   id: 2005-08-25-foes

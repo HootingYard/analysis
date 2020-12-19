@@ -21,11 +21,11 @@ ngrams:
   - steam
   - hammers
 - - jazz
-  - standard
-  - chutney
-- - jazz
   - titan
   - horst
+- - jazz
+  - standard
+  - chutney
 - - grumpy
   - german
   - improv
@@ -35,27 +35,27 @@ ngrams:
 - - grumpy
   - german
   - improv
-- - steam
-  - hammers
-  - japanese
-- - steam
-  - hammers
-  - japanese
 - - titan
   - horst
   - blot
+- - steam
+  - hammers
+  - japanese
+- - steam
+  - hammers
+  - japanese
+- - german
+  - improv
+  - jazz
+- - german
+  - improv
+  - jazz
+- - german
+  - improv
+  - jazz
 - - usual
   - septet
   - augmented
-- - german
-  - improv
-  - jazz
-- - german
-  - improv
-  - jazz
-- - german
-  - improv
-  - jazz
 - - horst
   - blot
   - concert
@@ -68,15 +68,15 @@ ngrams:
 - - earlier
   - horst
   - blot
+- - japanese
+  - cardboard
+  - trombone
+- - japanese
+  - cardboard
+  - trombone
 - - mop
   - blot
   - devoted
-- - japanese
-  - cardboard
-  - trombone
-- - japanese
-  - cardboard
-  - trombone
 - - hammers
   - japanese
   - cardboard
@@ -116,6 +116,21 @@ ngrams:
 - - she
   - simply
   - pulled
+- - blot
+  - may
+  - well
+- - other
+  - things
+  - searing
+- - primrose
+  - dent
+  - has
+- - dent
+  - who
+  - opined
+- - primrose
+  - dent
+  - who
 - - she
   - also
   - puts
@@ -125,39 +140,24 @@ ngrams:
 - - also
   - puts
   - her
-- - primrose
-  - dent
-  - has
-- - blot
-  - may
-  - well
-- - other
-  - things
-  - searing
-- - dent
-  - who
-  - opined
-- - primrose
-  - dent
-  - who
-- - words
-  - she
-  - simply
 - - strung
   - them
   - together
 - - dozen
   - each
   - time
-- - very
-  - trying
-  - day
-- - their
-  - letters
-  - smudged
 - - paper
   - stuffed
   - them
+- - words
+  - she
+  - simply
+- - their
+  - letters
+  - smudged
+- - very
+  - trying
+  - day
 - - among
   - other
   - things
@@ -176,18 +176,18 @@ ngrams:
 - - read
   - their
   - letters
-- - been
-  - codswallop
-  - too
 - - wrote
   - out
   - hundreds
-- - other
-  - words
-  - she
+- - been
+  - codswallop
+  - too
 - - year
   - they
   - received
+- - other
+  - words
+  - she
 story:
   date: 2014-08-06
   id: 2014-08-06-our-man-in-ulm

@@ -33,47 +33,47 @@ ngrams:
   - mark
   - brian's
 - - dying
+  - anglican
+  - vicar
+- - dying
   - moments
   - biff
 - - motorcycle
   - groans
   - mark
-- - dying
-  - anglican
-  - vicar
 - - judicious
   - religious
   - advice
-- - robert
-  - m
-  - pirsig
-- - groans
-  - mark
-  - brian
-- - parishioner
-  - named
-  - biff
-- - lantern
-  - occasionally
-  - picking
-- - lantern
-  - occasionally
-  - picking
 - - anglican
   - vicar
   - mark
+- - lantern
+  - occasionally
+  - picking
+- - lantern
+  - occasionally
+  - picking
+- - groans
+  - mark
+  - brian
+- - robert
+  - m
+  - pirsig
+- - parishioner
+  - named
+  - biff
 - - mark
   - brian's
   - torn
+- - vicar
+  - mark
+  - brian
 - - named
   - biff
   - hoot
 - - anglican
   - vicar
   - named
-- - vicar
-  - mark
-  - brian
 - - fiction
   - monster
   - owls
@@ -83,15 +83,15 @@ ngrams:
 - - dampened
   - rag
   - trying
+- - sound
+  - remotely
+  - akin
 - - named
   - mark
   - brian
 - - vicar
   - named
   - mark
-- - sound
-  - remotely
-  - akin
 - - books
   - lifted
   - wholesale
@@ -113,12 +113,12 @@ ngrams:
 - - both
   - jonathan
   - livingston
-- - breath
-  - rattles
-  - does
 - - margaret
   - craven
   - nor
+- - breath
+  - rattles
+  - does
 - - both
   - richard
   - bach
@@ -149,27 +149,27 @@ ngrams:
 - - bird
   - life
   - seagulls
-- - latter
-  - two
-  - titles
-- - every
-  - morning
-  - fretting
 - - damned
   - well
   - ought
+- - latter
+  - two
+  - titles
 - - name
   - predates
   - both
-- - hear
-  - owls
-  - hooting
+- - every
+  - morning
+  - fretting
 - - life
   - seagulls
   - rather
 - - alive
   - long
   - enough
+- - hear
+  - owls
+  - hooting
 - - ever
   - use
   - margaret
@@ -182,78 +182,81 @@ ngrams:
 - - probably
   - toss
   - our
-- - margaret
-  - craven
-  - now
 - - any
   - sound
   - remotely
+- - margaret
+  - craven
+  - now
 - - scurrying
   - mammal
   - its
 - - scurrying
   - mammal
   - its
-- - befuddle
-  - our
-  - readers
-- - now
-  - neglected
-  - titles
 - - never
   - got
   - round
-- - our
-  - readers
-  - utterly
 - - s
   - alongside
   - such
-- - mammal
-  - its
-  - heart
-- - mammal
-  - its
-  - heart
-- - its
-  - heart
-  - pounding
-- - its
-  - heart
-  - pounding
+- - now
+  - neglected
+  - titles
+- - befuddle
+  - our
+  - readers
 - - motorcycle
   - maintenance
   - could
+- - our
+  - readers
+  - utterly
+- - mammal
+  - its
+  - heart
+- - mammal
+  - its
+  - heart
 - - dappled
   - sunlight
   - then
-- - while
-  - crunching
-  - through
+- - its
+  - heart
+  - pounding
+- - its
+  - heart
+  - pounding
 - - craven
   - nor
   - any
-- - toss
-  - our
-  - book
+- - while
+  - crunching
+  - through
 - - seagulls
   - rather
   - than
 - - narrator
   - rather
   - than
-- - our
-  - book
-  - aside
-- - rather
-  - than
-  - owls
 - - forest
   - rather
   - than
+- - rather
+  - than
+  - owls
+- - toss
+  - our
+  - book
+- - our
+  - book
+  - aside
 - - nor
   - any
   - sound
+- - must
+  - zoom
+  - upon
 - - comfort
   - him
   - desperate
@@ -263,109 +266,103 @@ ngrams:
 - - dying
   - vicar
   - has
-- - must
-  - zoom
-  - upon
 - - vicar
   - who
   - bears
-- - keep
-  - him
-  - alive
 - - 'no'
   - ill
   - effects
+- - keep
+  - him
+  - alive
 - - their
   - talons
   - owls
 - - their
   - lantern
   - occasionally
-- - your
-  - motorcycle
-  - groans
-- - person
-  - who
-  - hears
-- - repair
-  - your
-  - motorcycle
 - - comes
   - scampering
   - up
+- - person
+  - who
+  - hears
 - - motorcycle
   - maintenance
   - what
+- - your
+  - motorcycle
+  - groans
+- - repair
+  - your
+  - motorcycle
 - - their
   - books
   - lifted
 - - craven
   - now
   - over
-- - him
-  - alive
-  - long
+- - rather
+  - than
+  - being
+- - copy
+  - what
+  - intrigues
 - - pirsig
   - were
   - shameless
 - - were
   - shameless
   - plagiarists
-- - copy
-  - what
-  - intrigues
-- - m
-  - pirsig
-  - were
-- - rather
-  - than
-  - being
-- - night
-  - their
-  - lantern
-- - such
-  - now
-  - neglected
+- - him
+  - alive
+  - long
 - - alongside
   - such
   - now
+- - such
+  - now
+  - neglected
 - - pell
   - mell
   - out
-- - has
-  - ever
-  - uttered
+- - night
+  - their
+  - lantern
+- - m
+  - pirsig
+  - were
+- - occasionally
+  - picking
+  - out
+- - occasionally
+  - picking
+  - out
 - - hears
   - their
   - name
-- - occasionally
-  - picking
-  - out
-- - occasionally
-  - picking
-  - out
+- - has
+  - ever
+  - uttered
 - - wake
   - up
   - every
-- - owl
-  - called
-  - your
 - - morning
   - fretting
   - about
+- - owl
+  - called
+  - your
 - - must
   - repair
   - your
-- - call
-  - your
-  - name
 - - their
   - name
   - called
 - - up
   - every
   - morning
-- - called
+- - call
   - your
   - name
 - - 'no'
@@ -380,12 +377,15 @@ ngrams:
 - - candlelit
   - church
   - so
+- - called
+  - your
+  - name
 - - talons
   - owls
   - are
-- - intrigue
-  - me
-  - well
+- - what
+  - might
+  - account
 story:
   date: 2017-09-07
   id: 2017-09-07-i-heard-the-owl-call-my-name

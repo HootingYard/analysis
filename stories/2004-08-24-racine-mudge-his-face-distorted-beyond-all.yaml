@@ -8,12 +8,12 @@ ngrams:
 - - forward
   - nor
   - backward
-- - went
-  - neither
-  - forward
 - - nor
   - backward
   - neither
+- - went
+  - neither
+  - forward
 - - neither
   - forward
   - nor
@@ -26,12 +26,12 @@ ngrams:
 - - reflection
   - breaks
   - up
-- - break
-  - up
-  - somewhat
 - - doubling
   - back
   - upon
+- - break
+  - up
+  - somewhat
 - - left
   - neither
   - up

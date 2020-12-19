@@ -29,12 +29,12 @@ ngrams:
 - - whistle
   - tooted
   - again
-- - tooting
-  - person
-  - told
 - - scrubbing
   - brush
   - while
+- - tooting
+  - person
+  - told
 - - running
   - track
   - until
@@ -86,12 +86,12 @@ ngrams:
 - - placed
   - them
   - back
-- - been
-  - scrubbed
-  - 'off'
 - - threw
   - them
   - down
+- - been
+  - scrubbed
+  - 'off'
 - - scrubbing
   - brush
   - so
@@ -113,12 +113,12 @@ ngrams:
 - - were
   - dry
   - then
-- - had
-  - added
-  - soap
 - - its
   - hook
   - there
+- - had
+  - added
+  - soap
 - - had
   - sprinted
   - round
@@ -146,57 +146,63 @@ ngrams:
 - - until
   - they
   - were
-- - had
-  - washed
-  - them
-- - from
-  - its
-  - hook
 - - boots
   - but
   - now
+- - from
+  - its
+  - hook
+- - had
+  - washed
+  - them
 - - had
   - been
   - scrubbed
-- - mud
-  - had
-  - been
 - - could
   - be
   - held
-- - studying
-  - his
-  - stopwatch
+- - mud
+  - had
+  - been
 - - bath
   - with
   - boiling
+- - studying
+  - his
+  - stopwatch
+- - brush
+  - hung
+  - 'on'
+- - hot
+  - bath
+  - with
+- - things
+  - as
+  - shirts
+- - his
+  - stopwatch
+  - o
 - - scrubbed
   - his
   - boots
 - - washed
   - his
   - boots
-- - hot
-  - bath
-  - with
 - - plunged
   - his
   - boots
 - - plunged
   - his
   - boots
-- - his
-  - stopwatch
-  - o
-- - brush
-  - hung
-  - 'on'
 - - with
   - boiling
   - water
-- - things
-  - as
-  - shirts
+- - got
+  - mud
+  - 'on'
+- - not
+  - burn
+  - when
 - - whistle
   - he
   - sprinted
@@ -209,12 +215,6 @@ ngrams:
 - - bath
   - he
   - sprinkled
-- - bath
-  - he
-  - washed
-- - rubber
-  - he
-  - pulled
 story:
   date: 2007-06-15
   id: 2007-06-15-boot-bath

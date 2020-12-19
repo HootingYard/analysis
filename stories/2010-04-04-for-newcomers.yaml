@@ -11,45 +11,42 @@ ngrams:
 - - dockside
   - taverns
   - jesuit
-- - taverns
-  - jesuit
-  - priests
 - - community
   - learning
   - hubs
 - - grunting
   - ogres
   - drinking
+- - taverns
+  - jesuit
+  - priests
 - - boat
   - captains
   - extravagantly
 - - jesuit
   - priests
   - lurking
-- - tug
-  - boat
-  - captains
 - - composing
   - mimeographed
   - pamphlets
 - - canal
   - tow
   - paths
+- - tug
+  - boat
+  - captains
 - - isolate
   - one's
   - self
-- - gods
-  - haunting
-  - abandoned
 - - tow
   - paths
   - wearing
 - - piers
   - bat
   - gods
-- - haunting
+- - gods
+  - haunting
   - abandoned
-  - potato
 - - bat
   - gods
   - haunting
@@ -62,6 +59,9 @@ ngrams:
 - - obscure
   - army
   - trying
+- - haunting
+  - abandoned
+  - potato
 story:
   date: 2010-04-04
   id: 2010-04-04-for-newcomers

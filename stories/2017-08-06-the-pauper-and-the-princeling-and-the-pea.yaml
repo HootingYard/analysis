@@ -1,10 +1,10 @@
 ngrams:
-- - edgar
-  - allan
-  - poe
 - - ipsy
   - dipsy
   - doo
+- - edgar
+  - allan
+  - poe
 - - arthur
   - gordon
   - pym
@@ -17,12 +17,12 @@ ngrams:
 - - lumbering
   - psychopathic
   - serial
-- - tubercular
-  - patients
-  - lie
 - - subsequent
   - career
   - raining
+- - tubercular
+  - patients
+  - lie
 - - raining
   - violent
   - havoc
@@ -53,12 +53,15 @@ ngrams:
 - - always
   - falling
   - asleep
-- - blinding
-  - clarity
-  - because
 - - kept
   - several
   - geese
+- - blinding
+  - clarity
+  - because
+- - parents
+  - kept
+  - several
 - - read
   - childish
   - comics
@@ -68,57 +71,54 @@ ngrams:
 - - read
   - arthur
   - gordon
-- - parents
-  - kept
-  - several
 - - bedtime
   - story
   - perhaps
 - - dared
   - say
   - boo
-- - because
-  - god
-  - knows
-- - gordon
-  - pym
-  - after
 - - read
   - anything
   - else
+- - gordon
+  - pym
+  - after
+- - because
+  - god
+  - knows
 - - story
   - often
   - enough
 - - before
   - tackling
   - burgess
-- - remember
-  - because
-  - god
 - - anything
   - else
   - ever
+- - sanatorium
+  - where
+  - tubercular
+- - remember
+  - because
+  - god
+- - where
+  - tubercular
+  - patients
+- - poe's
+  - novel
+  - over
 - - balconies
   - among
   - these
 - - among
   - these
   - patients
-- - poe's
-  - novel
-  - over
-- - sanatorium
-  - where
-  - tubercular
-- - where
-  - tubercular
-  - patients
-- - every
-  - single
-  - night
 - - just
   - reading
   - poe's
+- - every
+  - single
+  - night
 - - these
   - models
   - myself
@@ -131,15 +131,15 @@ ngrams:
 - - never
   - quite
   - recall
-- - made
-  - these
-  - models
 - - never
   - read
   - anything
 - - never
   - dared
   - say
+- - made
+  - these
+  - models
 - - again
   - just
   - reading
@@ -149,15 +149,15 @@ ngrams:
 - - who
   - closely
   - resembles
+- - never
+  - said
+  - boo
 - - walrus
   - moustache
   - who
 - - moustache
   - who
   - closely
-- - never
-  - said
-  - boo
 - - ever
   - again
   - just
@@ -176,36 +176,27 @@ ngrams:
 - - can
   - never
   - quite
-- - up
-  - listening
-  - over
 - - so
   - unutterably
   - blindingly
-- - violent
-  - thunderstorms
-  - which
+- - up
+  - listening
+  - over
 - - peaks
   - white
   - so
 - - white
   - so
   - unutterably
+- - violent
+  - thunderstorms
+  - which
 - - white
   - so
   - white
 - - me
   - every
   - single
-- - which
-  - rather
-  - obviates
-- - bookshelf
-  - which
-  - rather
-- - an
-  - unlettered
-  - tot
 - - asleep
   - came
   - so
@@ -215,6 +206,15 @@ ngrams:
 - - so
   - easily
   - because
+- - which
+  - rather
+  - obviates
+- - bookshelf
+  - which
+  - rather
+- - an
+  - unlettered
+  - tot
 story:
   date: 2017-08-06
   id: 2017-08-06-the-pauper-and-the-princeling-and-the-pea

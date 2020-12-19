@@ -26,24 +26,27 @@ ngrams:
 - - activex
   - pod
   - system
-- - inside
-  - haemoglobin
-  - towers
-- - ack
-  - gasped
-  - mrs
 - - pod
   - system
   - tray
-- - haemoglobin
+- - inside
+  - haemoglobin
   - towers
-  - mrs
 - - spinney
   - ambulance
   - station
+- - ack
+  - gasped
+  - mrs
 - - painter
   - john
   - martin
+- - you're
+  - getting
+  - yourself
+- - haemoglobin
+  - towers
+  - mrs
 - - flustered
   - mrs
   - gubbins
@@ -53,30 +56,27 @@ ngrams:
 - - mrs
   - gubbins
   - throws
-- - gasped
-  - mrs
-  - gubbins
-- - towers
-  - mrs
-  - gubbins
-- - you're
-  - getting
-  - yourself
 - - fit
   - dark
   - clouds
+- - gasped
+  - mrs
+  - gubbins
 - - asked
   - daisy
   - noting
-- - mrs
+- - towers
+  - mrs
   - gubbins
-  - became
-- - turning
-  - green
-  - note
 - - dear
   - asked
   - daisy
+- - turning
+  - green
+  - note
+- - mrs
+  - gubbins
+  - became
 - - days
   - i'll
   - forget
@@ -89,39 +89,39 @@ ngrams:
 - - office
   - kitchenette
   - while
-- - agitated
-  - toppled
-  - 'off'
 - - kitchenette
   - while
   - making
+- - agitated
+  - toppled
+  - 'off'
 - - first
   - aid
   - skills
 - - already
   - being
   - touted
-- - mrs
-  - gubbins
-  - made
 - - hub
   - already
   - being
+- - mrs
+  - gubbins
+  - made
 - - gubbins
   - said
   - daisy
 - - full
   - recovery
   - before
-- - mrs
-  - gubbins
-  - said
 - - these
   - days
   - i'll
-- - her
-  - fluting
-  - croak
+- - mrs
+  - gubbins
+  - said
+- - gubbins
+  - became
+  - even
 story:
   date: 2004-03-18
   id: 2004-03-18-mrs-gubbins-throws-a-fit

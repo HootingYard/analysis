@@ -1,10 +1,10 @@
 ngrams:
-- - cheese
-  - triangle
-  - unopened
 - - reality
   - interventions
   - commonly
+- - cheese
+  - triangle
+  - unopened
 - - processed
   - cheese
   - triangle
@@ -20,18 +20,18 @@ ngrams:
 - - cheese
   - triangle
   - transfixed
-- - fanatical
-  - religious
-  - commitment
 - - cheese
   - triangle
   - holds
-- - gerard
-  - manley
-  - hopkins
 - - subterranean
   - headquarters
   - luckily
+- - fanatical
+  - religious
+  - commitment
+- - gerard
+  - manley
+  - hopkins
 - - code
   - phrase
   - uttered
@@ -44,42 +44,48 @@ ngrams:
 - - bar
   - jesuit
   - vouchsafed
-- - bar
-  - jesuit
-  - farewell
 - - dry
   - cream
   - cracker
 - - mystery
   - primrose
   - dent
+- - bar
+  - jesuit
+  - farewell
 - - recovered
   - memory
   - syndrome
-- - secret
-  - subterranean
-  - headquarters
 - - bar
   - jesuit
   - revealed
+- - secret
+  - subterranean
+  - headquarters
 - - remained
   - forever
   - obscure
+- - cardboard
+  - signage
+  - loggings
 - - poem
   - entitled
   - depressed
 - - cardboard
-  - signage
-  - loggings
+  - reality
+  - interventions
 - - laughing
   - cow
   - perversely
-- - cardboard
-  - reality
-  - interventions
+- - character
+  - mental
+  - agility
 - - consulted
   - reference
   - works
+- - dilapidated
+  - seaside
+  - resort
 - - dense
   - dark
   - woods
@@ -89,144 +95,138 @@ ngrams:
 - - indoors
   - depressed
   - horse
-- - character
-  - mental
-  - agility
-- - dilapidated
-  - seaside
-  - resort
+- - certainly
+  - worth
+  - investigating
 - - knew
   - saucepans
   - laughably
 - - knew
   - saucepans
   - tormented
-- - knew
-  - saucepans
-  - reads
-- - saucepans
-  - whose
-  - emblem
-- - deep
-  - dense
-  - dark
-- - deep
-  - dense
-  - dark
-- - certainly
-  - worth
-  - investigating
+- - milk
+  - bar
+  - jesuit
+- - milk
+  - bar
+  - jesuit
+- - milk
+  - bar
+  - jesuit
+- - milk
+  - bar
+  - jesuit
+- - milk
+  - bar
+  - jesuit
 - - appearance
   - character
   - mental
-- - milk
-  - bar
-  - jesuit
-- - milk
-  - bar
-  - jesuit
-- - milk
-  - bar
-  - jesuit
-- - milk
-  - bar
-  - jesuit
-- - milk
-  - bar
-  - jesuit
-- - entitled
-  - depressed
-  - horse
+- - knew
+  - saucepans
+  - reads
+- - deep
+  - dense
+  - dark
+- - deep
+  - dense
+  - dark
+- - saucepans
+  - whose
+  - emblem
 - - further
   - mesmeric
   - revelations
+- - entitled
+  - depressed
+  - horse
+- - king
+  - james
+  - version
+- - king
+  - james
+  - version
 - - american
   - television
   - series
-- - king
-  - james
-  - version
-- - king
-  - james
-  - version
 - - milk
   - bar
   - table
+- - empty
+  - cardboard
+  - box
+- - empty
+  - cardboard
+  - box
 - - frothing
   - poetic
   - brain
 - - intervention
   - number
   - including
-- - empty
-  - cardboard
-  - box
-- - empty
-  - cardboard
-  - box
-- - follows
-  - look
-  - carefully
-- - hag
-  - took
-  - holidays
-- - eldritch
-  - hag
-  - took
 - - everything
   - 'yes'
   - everything
 - - cardboard
   - propped
   - against
-- - poetic
-  - brain
-  - inside
+- - hag
+  - took
+  - holidays
+- - eldritch
+  - hag
+  - took
+- - follows
+  - look
+  - carefully
 - - milk
   - bar
   - however
+- - poetic
+  - brain
+  - inside
 - - empty
   - place
   - opposite
 - - jesuit
   - revealed
   - himself
-- - asked
-  - between
-  - slurps
 - - james
   - version
   - rather
+- - asked
+  - between
+  - slurps
 - - intervention
   - number
   - however
-- - number
-  - however
-  - haunted
-- - words
-  - depressed
-  - horse
-- - words
-  - depressed
-  - horse
-- - biographical
-  - reference
-  - book
-- - cow
-  - perversely
-  - perhaps
 - - pub
   - philosopher
   - well
-- - depressed
-  - cow
-  - find
-- - books
-  - without
-  - coming
+- - biographical
+  - reference
+  - book
+- - number
+  - however
+  - haunted
+- - cow
+  - perversely
+  - perhaps
+- - words
+  - depressed
+  - horse
+- - words
+  - depressed
+  - horse
 - - reference
   - books
   - without
+- - books
+  - without
+  - coming
+- - depressed
+  - cow
+  - find
 - - knew
   - saucepans
   - last
@@ -257,207 +257,204 @@ ngrams:
 - - depressed
   - horse
   - never
-- - never
-  - knew
-  - saucepans
-- - never
-  - knew
-  - saucepans
-- - never
-  - knew
-  - saucepans
-- - never
-  - knew
-  - saucepans
-- - never
-  - knew
-  - saucepans
-- - never
-  - knew
-  - saucepans
-- - never
-  - knew
-  - saucepans
 - - even
   - tangentially
   - relevant
-- - never
-  - knew
-  - pots
-- - happy
-  - cow
-  - made
 - - such
   - saucepan
   - manufacturer
+- - never
+  - knew
+  - saucepans
+- - never
+  - knew
+  - saucepans
+- - never
+  - knew
+  - saucepans
+- - never
+  - knew
+  - saucepans
+- - never
+  - knew
+  - saucepans
+- - never
+  - knew
+  - saucepans
+- - never
+  - knew
+  - saucepans
+- - never
+  - knew
+  - pots
 - - way
   - slowly
   - towards
+- - happy
+  - cow
+  - made
 - - yet
   - written
   - nor
 - - everything
   - even
   - tangentially
+- - horse
+  - never
+  - knew
+- - horse
+  - never
+  - knew
+- - horse
+  - never
+  - knew
+- - horse
+  - never
+  - knew
+- - horse
+  - never
+  - knew
 - - holidays
   - like
   - normal
-- - horse
-  - never
-  - knew
-- - horse
-  - never
-  - knew
-- - horse
-  - never
-  - knew
-- - horse
-  - never
-  - knew
-- - horse
-  - never
-  - knew
-- - her
-  - seashore
-  - chalet
 - - those
   - haunting
   - words
-- - intervention
-  - number
-  - where
-- - her
-  - secret
-  - subterranean
 - - reference
   - books
   - where
 - - even
   - conceived
   - within
-- - cardboard
-  - box
-  - where
 - - 'yes'
   - everything
   - even
+- - intervention
+  - number
+  - where
+- - cardboard
+  - box
+  - where
 - - then
   - consulted
   - reference
-- - shall
-  - track
-  - down
-- - course
-  - those
-  - haunting
 - - nor
   - even
   - conceived
+- - course
+  - those
+  - haunting
 - - cardboard
   - box
   - upon
-- - heard
-  - those
-  - words
-- - like
-  - normal
-  - people
+- - shall
+  - track
+  - down
+- - her
+  - seashore
+  - chalet
 - - version
   - rather
   - than
-- - took
-  - holidays
-  - like
-- - hope
-  - very
-  - well
+- - her
+  - secret
+  - subterranean
+- - heard
+  - those
+  - words
 - - written
   - nor
   - even
+- - hope
+  - very
+  - well
+- - like
+  - normal
+  - people
 - - without
   - coming
   - upon
-- - has
-  - brought
-  - bubbling
-- - normal
-  - people
-  - do
+- - took
+  - holidays
+  - like
 - - much
   - hope
   - very
-- - never
-  - know
-  - rest
+- - normal
+  - people
+  - do
+- - has
+  - brought
+  - bubbling
 - - 'no'
   - danger
   - whatsoever
-- - mesmerised
-  - just
-  - like
-- - your
-  - processed
-  - cheese
-- - glass
-  - stood
-  - up
-- - unburdening
-  - your
-  - soul
+- - never
+  - know
+  - rest
 - - any
   - such
   - saucepan
-- - loggings
-  - were
-  - stored
-- - signage
-  - loggings
-  - were
+- - mesmerised
+  - just
+  - like
+- - glass
+  - stood
+  - up
+- - your
+  - processed
+  - cheese
 - - rather
   - than
   - say
-- - ducks
+- - unburdening
+  - your
+  - soul
+- - signage
+  - loggings
   - were
-  - waddling
+- - loggings
+  - were
+  - stored
 - - brain
   - their
   - origin
-- - cream
-  - crackers
-  - into
-- - been
-  - almost
-  - correct
-- - hope
-  - your
-  - question
-- - 'no'
-  - avail
-  - yet
 - - problem
   - if
   - problem
+- - cream
+  - crackers
+  - into
+- - ducks
+  - were
+  - waddling
+- - 'no'
+  - avail
+  - yet
+- - could
+  - discover
+  - where
+- - been
+  - almost
+  - correct
 - - fell
   - into
   - conversation
 - - milk
   - bar
   - into
-- - could
-  - discover
-  - where
 - - series
   - when
   - faced
-- - saucepans
-  - tormented
-  - me
+- - hope
+  - your
+  - question
 - - television
   - series
   - when
-- - your
-  - question
-  - does
+- - saucepans
+  - tormented
+  - me
 - - don't
   - hold
   - out
@@ -467,99 +464,99 @@ ngrams:
 - - waddling
   - their
   - way
+- - headquarters
+  - luckily
+  - there
+- - your
+  - question
+  - does
 - - rapped
   - back
   - 'no'
 - - their
   - way
   - slowly
-- - headquarters
-  - luckily
-  - there
-- - than
-  - once
-  - she
 - - actual
   - jesuit
   - there
 - - there
   - exists
   - somewhere
-- - well
-  - 'no'
-  - work
-- - more
-  - than
-  - once
 - - chin
   - upon
   - them
+- - more
+  - than
+  - once
+- - well
+  - 'no'
+  - work
+- - than
+  - once
+  - she
+- - jesuit
+  - would
+  - call
+- - head
+  - how
+  - then
+- - done
+  - before
+  - 'no'
 - - stalked
   - 'off'
   - into
 - - were
   - two
   - ways
-- - she
-  - has
-  - brought
-- - head
-  - how
-  - then
-- - jesuit
-  - would
-  - call
-- - done
-  - before
-  - 'no'
-- - crackers
-  - which
-  - unhinged
-- - cranium
-  - material
-  - which
-- - spent
-  - some
-  - time
-- - cream
-  - crackers
-  - which
 - - collapse
   - back
   - into
-- - out
-  - those
-  - troubles
+- - spent
+  - some
+  - time
+- - crackers
+  - which
+  - unhinged
 - - hold
   - out
   - much
+- - cranium
+  - material
+  - which
+- - out
+  - those
+  - troubles
+- - cream
+  - crackers
+  - which
 - - pouring
   - out
   - those
+- - out
+  - much
+  - hope
+- - she
+  - has
+  - brought
 - - if
   - only
   - momentarily
 - - are
   - reference
   - books
-- - out
-  - much
-  - hope
-- - once
-  - she
-  - has
 - - those
   - times
   - when
 - - how
   - then
   - could
-- - manley
-  - hopkins
-  - an
 - - me
   - think
   - immediately
+- - manley
+  - hopkins
+  - an
 - - hopkins
   - an
   - actual
@@ -575,30 +572,36 @@ ngrams:
 - - track
   - down
   - all
+- - once
+  - she
+  - has
 - - box
   - where
   - all
 - - can
   - look
   - up
-- - are
-  - two
-  - ways
 - - looked
   - them
   - up
-- - had
-  - finished
-  - telling
 - - snack
   - before
   - so
-- - else
-  - had
-  - buzzed
+- - are
+  - two
+  - ways
 - - this
   - occasion
   - however
+- - before
+  - so
+  - doing
+- - material
+  - which
+  - might
+- - had
+  - finished
+  - telling
 story:
   date: 2011-07-11
   id: 2011-07-11-depressed-horse-never-knew-saucepans

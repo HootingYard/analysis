@@ -1,37 +1,37 @@
 ngrams:
-- - blubber
-  - candles
-  - sputter
 - - geology
   - origami
   - athletics
 - - ornithology
   - geology
   - origami
-- - origami
-  - athletics
-  - trellis
+- - blubber
+  - candles
+  - sputter
 - - uphill
   - struggle
   - luckily
+- - origami
+  - athletics
+  - trellis
 - - argumentative
   - german
   - improvised
 - - consult
   - separate
   - experts
-- - german
-  - improvised
-  - racket
 - - handy
   - bullet
   - points
-- - panicky
-  - questions
-  - throb
+- - german
+  - improvised
+  - racket
 - - beatle
   - somehow
   - uncannily
+- - panicky
+  - questions
+  - throb
 - - daily
   - routine
   - manifold
@@ -56,30 +56,30 @@ ngrams:
 - - clamber
   - across
   - scree
-- - athletics
-  - trellis
-  - work
 - - state
   - shed
   - light
-- - glorious
-  - state
-  - look
-- - four
-  - hours
-  - faffing
-- - state
-  - hours
-  - pass
-- - early
-  - morning
-  - concert
-- - mighty
-  - sea
-  - beast
+- - athletics
+  - trellis
+  - work
 - - bashed
   - myself
   - repeatedly
+- - mighty
+  - sea
+  - beast
+- - early
+  - morning
+  - concert
+- - glorious
+  - state
+  - look
+- - state
+  - hours
+  - pass
+- - four
+  - hours
+  - faffing
 - - mountainside
   - panting
   - until
@@ -95,36 +95,36 @@ ngrams:
 - - climb
   - ever
   - further
-- - remember
-  - little
-  - save
 - - transformed
   - yet
   - again
+- - remember
+  - little
+  - save
 - - other
   - panicky
   - questions
-- - come
-  - scrambling
-  - down
 - - shed
   - light
   - upon
-- - detain
-  - us
-  - here
+- - come
+  - scrambling
+  - down
 - - previous
   - day
   - yet
+- - detain
+  - us
+  - here
 - - state
   - look
   - upon
-- - owl
-  - through
-  - years
 - - am
   - become
   - yoko
+- - owl
+  - through
+  - years
 - - some
   - future
   - state
@@ -143,26 +143,32 @@ ngrams:
 - - nocturnal
   - being
   - like
-- - become
-  - some
-  - kind
 - - tell
   - them
   - tales
+- - become
+  - some
+  - kind
 - - mercifully
   - into
   - unconsciousness
-- - sky
-  - just
-  - like
 - - counters
   - when
   - lit
-- - klieg
-  - lights
-  - will
+- - sky
+  - just
+  - like
+- - wisdom
+  - if
+  - necessary
+- - rustic
+  - wisdom
+  - if
 - - ringo
   - starr
+  - will
+- - klieg
+  - lights
   - will
 - - hours
   - faffing
@@ -170,11 +176,8 @@ ngrams:
 - - sinister
   - compound
   - will
-- - wisdom
-  - if
-  - necessary
-- - rustic
-  - wisdom
+- - floor
+  - wondering
   - if
 - - daily
   - hatchet
@@ -182,24 +185,21 @@ ngrams:
 - - helicopter
   - police
   - will
-- - floor
-  - wondering
-  - if
-- - been
-  - transformed
-  - yet
 - - tank
   - engine
   - all
+- - been
+  - transformed
+  - yet
 - - barricade
   - myself
   - into
-- - am
-  - only
-  - part
 - - years
   - upon
   - years
+- - am
+  - only
+  - part
 - - knock
   - myself
   - out
@@ -209,33 +209,33 @@ ngrams:
 - - through
   - years
   - upon
-- - shut
-  - behind
-  - me
 - - watch
   - would
   - spit
+- - shut
+  - behind
+  - me
 - - ever
   - further
   - up
-- - ferry
-  - me
-  - across
-- - me
-  - swooping
-  - across
 - - starr
   - so
   - unnerving
 - - ringo
   - starr
   - so
-- - are
-  - worse
-  - fates
+- - ferry
+  - me
+  - across
+- - me
+  - swooping
+  - across
 - - rise
   - so
   - fast
+- - are
+  - worse
+  - fates
 - - they
   - come
   - scrambling
@@ -248,30 +248,30 @@ ngrams:
 - - entirely
   - new
   - me
-- - day
-  - staring
-  - out
-- - carpet
-  - across
-  - which
-- - birds
-  - which
-  - flit
 - - monitor
   - myself
   - so
-- - scurry
-  - an
-  - insect
+- - day
+  - staring
+  - out
 - - an
   - uphill
   - struggle
 - - deploy
   - an
   - array
+- - scurry
+  - an
+  - insect
 - - beetle
   - scurry
   - an
+- - carpet
+  - across
+  - which
+- - birds
+  - which
+  - flit
 - - were
   - correct
   - then
@@ -281,90 +281,90 @@ ngrams:
 - - become
   - an
   - entirely
-- - had
-  - uneasy
-  - dreams
-- - an
-  - early
-  - morning
 - - awoke
   - one
   - morning
 - - an
+  - early
+  - morning
+- - had
+  - uneasy
+  - dreams
+- - usual
+  - routine
+  - but
+- - an
   - entirely
   - new
+- - two
+  - chalets
+  - one
 - - been
   - transformed
   - into
 - - are
   - like
   - jelly
-- - two
-  - chalets
-  - one
 - - legs
   - are
   - like
+- - profitable
+  - three
+  - or
+- - haul
+  - me
+  - up
+- - from
+  - uneasy
+  - dreams
+- - from
+  - uneasy
+  - dreams
 - - something
   - had
   - changed
 - - had
   - changed
   - something
-- - usual
-  - routine
-  - but
-- - from
-  - uneasy
-  - dreams
-- - from
-  - uneasy
-  - dreams
-- - haul
-  - me
-  - up
-- - profitable
-  - three
-  - or
-- - yet
-  - again
-  - this
-- - morning
-  - from
-  - uneasy
 - - or
   - four
   - hours
-- - like
-  - an
-  - owl
+- - yet
+  - again
+  - this
 - - unconsciousness
   - but
   - again
 - - three
   - or
   - four
+- - morning
+  - from
+  - uneasy
 - - window
   - at
   - snow
+- - like
+  - an
+  - owl
 - - work
   - out
   - what
-- - assailed
-  - by
-  - doubts
 - - soul
   - if
   - all
+- - myself
+  - out
+  - when
+- - assailed
+  - by
+  - doubts
+- - would
+  - spit
+  - out
 - - will
   - they
   - demand
-- - will
-  - they
-  - mistake
-- - lights
-  - will
-  - they
 story:
   date: 2012-03-23
   id: 2012-03-23-on-my-transformation

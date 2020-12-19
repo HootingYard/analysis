@@ -8,42 +8,42 @@ ngrams:
 - - chalets
   - playing
   - games
-- - shouty
-  - difficult
-  - pal
 - - mere
   - whim
   - funny
+- - shouty
+  - difficult
+  - pal
 - - startling
   - developments
   - meant
 - - longer
   - weirdly
   - askew
-- - flags
-  - hung
-  - outside
 - - close
   - range
   - shouting
+- - flags
+  - hung
+  - outside
+- - whim
+  - funny
+  - kind
 - - pneumatic
   - curiosity
   - within
 - - someone
   - comes
   - close
-- - whim
-  - funny
-  - kind
 - - morning
   - carts
   - clattered
-- - under
-  - arrest
-  - crime
 - - weirdly
   - askew
   - indeed
+- - under
+  - arrest
+  - crime
 - - placed
   - under
   - arrest
@@ -59,12 +59,12 @@ ngrams:
 - - difficult
   - pal
   - until
-- - week
-  - followed
-  - week
 - - question
   - directly
   - put
+- - week
+  - followed
+  - week
 - - goes
   - without
   - saying
@@ -77,42 +77,42 @@ ngrams:
 - - two
   - startling
   - developments
-- - carts
-  - clattered
-  - through
 - - golden
   - again
   - oh
-- - friend
-  - being
-  - carried
+- - carts
+  - clattered
+  - through
 - - while
   - leaning
   - against
 - - coming
   - cosmologists
   - those
+- - friend
+  - being
+  - carried
 - - smoking
   - our
   - pipes
 - - our
   - chalets
   - playing
-- - our
-  - postage
-  - stamps
 - - blotting
   - paper
   - being
-- - paper
-  - being
-  - dragged
-- - spite
-  - smoking
-  - our
 - - any
   - ritual
   - significance
+- - our
+  - postage
+  - stamps
+- - spite
+  - smoking
+  - our
+- - paper
+  - being
+  - dragged
 - - few
   - inches
   - away
@@ -122,33 +122,36 @@ ngrams:
 - - criminals
   - sometimes
   - even
-- - sometimes
-  - even
-  - sharing
 - - postage
   - stamps
   - upon
-- - other
-  - projectile
-  - including
+- - sometimes
+  - even
+  - sharing
 - - proof
   - against
   - any
+- - other
+  - projectile
+  - including
+- - collect
+  - nor
+  - did
 - - these
   - two
   - startling
 - - old
   - friend
   - being
-- - collect
-  - nor
-  - did
 - - appeared
   - long
   - after
 - - say
   - others
   - say
+- - fathom
+  - nor
+  - could
 - - our
   - old
   - friend
@@ -158,9 +161,6 @@ ngrams:
 - - has
   - startling
   - capacity
-- - fathom
-  - nor
-  - could
 - - hung
   - outside
   - them
@@ -170,66 +170,66 @@ ngrams:
 - - 'no'
   - longer
   - weirdly
-- - him
-  - nor
-  - hold
-- - day
-  - years
-  - later
 - - being
   - carried
   - upon
+- - day
+  - years
+  - later
+- - him
+  - nor
+  - hold
 - - know
   - whose
   - head
-- - comes
-  - close
-  - up
 - - their
   - different
   - purposes
-- - make
-  - some
-  - effort
-- - any
-  - other
-  - projectile
+- - comes
+  - close
+  - up
 - - mystery
   - their
   - different
-- - shouts
-  - about
-  - matters
-- - sank
-  - into
-  - melancholy
+- - any
+  - other
+  - projectile
+- - make
+  - some
+  - effort
 - - instance
   - when
   - mimicking
+- - shouts
+  - about
+  - matters
 - - day
   - sometimes
   - even
-- - see
-  - our
-  - old
+- - sank
+  - into
+  - melancholy
+- - square
+  - wondering
+  - if
 - - matters
   - other
   - than
 - - outside
   - them
   - each
-- - has
-  - ever
-  - shouted
-- - square
-  - wondering
-  - if
+- - see
+  - our
+  - old
 - - started
   - up
   - again
 - - its
   - own
   - way
+- - has
+  - ever
+  - shouted
 - - against
   - any
   - other
@@ -239,42 +239,33 @@ ngrams:
 - - might
   - expect
   - him
-- - also
-  - been
-  - known
-- - has
-  - any
-  - ritual
 - - tonsured
   - buffoon
   - there
-- - thursdays
-  - we
-  - gathered
 - - nor
   - could
   - any
+- - thursdays
+  - we
+  - gathered
+- - has
+  - any
+  - ritual
+- - also
+  - been
+  - known
 - - about
   - while
   - leaning
-- - those
-  - higher
-  - up
-- - shouted
-  - about
-  - while
 - - less
   - politely
   - there
-- - ever
-  - shouted
+- - shouted
   - about
-- - tells
-  - me
-  - often
-- - me
-  - often
-  - shouting
+  - while
+- - those
+  - higher
+  - up
 - - comes
   - there
   - none
@@ -284,63 +275,72 @@ ngrams:
 - - seagull
   - so
   - myopia
-- - fortresses
-  - which
-  - border
+- - ever
+  - shouted
+  - about
+- - tells
+  - me
+  - often
+- - me
+  - often
+  - shouting
 - - year
   - we
   - stopped
-- - purposes
-  - are
-  - announced
 - - we
   - stopped
   - going
-- - different
-  - purposes
+- - fortresses
+  - which
+  - border
+- - purposes
   - are
-- - will
-  - never
-  - answer
+  - announced
 - - oh
   - so
   - golden
 - - even
   - when
   - leaning
-- - him
-  - 'no'
-  - discomfort
-- - an
-  - illegal
-  - helicopter
-- - causes
-  - him
-  - 'no'
-- - an
-  - unnerving
-  - angle
+- - will
+  - never
+  - answer
+- - different
+  - purposes
+  - are
 - - about
   - matters
   - other
-- - what
-  - these
-  - two
-- - us
-  - what
-  - these
+- - an
+  - illegal
+  - helicopter
+- - read
+  - lips
+  - so
+- - an
+  - unnerving
+  - angle
+- - him
+  - 'no'
+  - discomfort
+- - causes
+  - him
+  - 'no'
 - - ever
   - find
   - out
-- - read
-  - lips
+- - us
+  - what
+  - these
+- - what
+  - these
+  - two
+- - again
+  - oh
   - so
 - - tell
   - me
   - just
-- - again
-  - oh
-  - so
 story:
   date: 2009-05-03
   id: 2009-05-03-tonsured-buffoon

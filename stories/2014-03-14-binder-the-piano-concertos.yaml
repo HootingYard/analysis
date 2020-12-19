@@ -5,12 +5,6 @@ ngrams:
 - - russian
   - composer
   - mikhail
-- - glinka
-  - '-'
-  - scholars
-- - '-'
-  - scholars
-  - pored
 - - impossibly
   - greasy
   - breakfasts
@@ -26,24 +20,24 @@ ngrams:
 - - white
   - collie
   - rooting
+- - dilapidated
+  - seaside
+  - boarding
+- - dilapidated
+  - seaside
+  - boarding
 - - hill
   - south
   - norwood
 - - beulah
   - hill
   - south
-- - fire
-  - engines
-  - elements
 - - allowed
   - spitting
   - fat
-- - dilapidated
-  - seaside
-  - boarding
-- - dilapidated
-  - seaside
-  - boarding
+- - fire
+  - engines
+  - elements
 - - piano
   - concerto
   - certainly
@@ -62,89 +56,101 @@ ngrams:
 - - second
   - piano
   - concerto
-- - stolen
-  - four
-  - months
-- - seaside
-  - boarding
-  - house
-- - seaside
-  - boarding
-  - house
-- - binder
-  - lived
-  - during
-- - boarding
-  - house
-  - fell
+- - glinka
+  - '-'
+  - scholars
+- - '-'
+  - scholars
+  - pored
 - - affectionate
   - nickname
   - given
-- - critic
-  - whose
-  - ears
+- - binder
+  - lived
+  - during
+- - seaside
+  - boarding
+  - house
+- - seaside
+  - boarding
+  - house
+- - stolen
+  - four
+  - months
+- - boarding
+  - house
+  - fell
 - - different
   - seaside
   - resort
-- - south
-  - norwood
-  - found
-- - brass
-  - section
-  - next
+- - critic
+  - whose
+  - ears
 - - seaside
   - resort
   - further
+- - brass
+  - section
+  - next
+- - south
+  - norwood
+  - found
 - - great
   - difficulty
   - cobbling
+- - pointy
+  - town's
+  - pointy
+- - town's
+  - pointy
+  - town
 - - seen
   - tottering
   - along
 - - pointy
-  - town's
-  - pointy
-- - two
-  - piano
-  - concertos
-- - town's
-  - pointy
   - town
+  - hall
 - - resort
   - further
   - along
+- - two
+  - piano
+  - concertos
 - - critical
   - ears
   - go
-- - pointy
-  - town
-  - hall
 - - first
   - piano
   - concerto
-- - wrote
-  - two
-  - piano
-- - only
-  - reward
-  - gained
-- - binder
-  - wrote
-  - two
 - - scholars
   - pored
   - over
-- - here
-  - binder
+- - only
+  - reward
+  - gained
+- - wrote
+  - two
+  - piano
+- - binder
   - wrote
+  - two
 - - where
   - binder
   - lived
+- - here
+  - binder
+  - wrote
 - - four
   - months
   - before
 - - boarding
   - house
+  - where
+- - house
+  - where
+  - binder
+- - same
+  - composer
   - where
 - - her
   - whistling
@@ -152,42 +158,39 @@ ngrams:
 - - her
   - bashing
   - relentlessly
-- - house
-  - where
-  - binder
 - - sticks
   - her
   - whistling
-- - stop
-  - her
-  - bashing
-- - same
-  - composer
-  - where
-- - every
-  - day
-  - demanding
 - - very
   - different
   - work
+- - every
+  - day
+  - demanding
+- - stop
+  - her
+  - bashing
 - - symphonies
   - see
   - here
 - - see
   - here
   - binder
-- - poopsie
-  - clutterbuck
-  - who
 - - ears
   - go
   - said
-- - who
-  - convinced
-  - binder
+- - poopsie
+  - clutterbuck
+  - who
 - - door
   - every
   - day
+- - who
+  - convinced
+  - binder
+- - never
+  - even
+  - started
 - - she
   - whistled
   - while
@@ -197,24 +200,21 @@ ngrams:
 - - while
   - she
   - worked
-- - never
-  - even
-  - started
-- - many
-  - years
-  - too
-- - years
-  - too
-  - many
 - - binder
   - enthusiasts
   - what
 - - collie
   - rooting
   - about
-- - been
-  - stolen
-  - four
+- - many
+  - years
+  - too
+- - years
+  - too
+  - many
+- - discovery
+  - when
+  - pickles
 story:
   date: 2014-03-14
   id: 2014-03-14-binder-the-piano-concertos

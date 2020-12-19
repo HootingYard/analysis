@@ -2,6 +2,9 @@ ngrams:
 - - requisite
   - scholarly
   - background
+- - hornet
+  - leopard
+  - lobster
 - - sweet
   - gale
   - turnip
@@ -11,9 +14,6 @@ ngrams:
 - - antler
   - autumnal
   - bee
-- - hornet
-  - leopard
-  - lobster
 - - yoko
   - ono
   - escapade
@@ -29,48 +29,48 @@ ngrams:
 - - march
   - meal
   - mouse
-- - leopard
-  - lobster
-  - march
 - - gypsy
   - heart
   - hornet
 - - heart
   - hornet
   - leopard
-- - lobster
-  - march
-  - meal
 - - peacock
   - gypsy
   - heart
+- - leopard
+  - lobster
+  - march
 - - estuarine
   - fox
   - garden
 - - rasputin
   - certainly
   - exploited
-- - winter
-  - palace
-  - carrying
+- - lobster
+  - march
+  - meal
 - - fox
   - garden
   - pebble
+- - winter
+  - palace
+  - carrying
 - - wax
   - white
   - satin
 - - turnip
   - wax
   - white
-- - garden
-  - pebble
-  - ghost
-- - drinker
-  - ear
-  - early
 - - pebble
   - ghost
   - goat
+- - drinker
+  - ear
+  - early
+- - garden
+  - pebble
+  - ghost
 - - places
   - rasputin
   - certainly
@@ -83,18 +83,18 @@ ngrams:
 - - dobson's
   - abortive
   - soup
-- - autumnal
-  - bee
-  - black
 - - common
   - sense
   - whispers
-- - mountain
+- - autumnal
+  - bee
   - black
-  - v
 - - bag
   - truth
   - sounds
+- - mountain
+  - black
+  - v
 - - bee
   - black
   - mountain
@@ -110,60 +110,60 @@ ngrams:
 - - holy
   - fool
   - perhaps
-- - black
-  - mountain
-  - black
 - - goat
   - great
   - peacock
 - - ghost
   - goat
   - great
+- - black
+  - mountain
+  - black
 - - moth
   - readers
   - should
 - - least
   - three
   - times
-- - readers
-  - should
-  - note
 - - still
   - small
   - voice
+- - readers
+  - should
+  - note
 - - bag
   - too
   - given
-- - old
-  - testament
-  - book
 - - such
   - trouble
   - doing
+- - old
+  - testament
+  - book
 - - truth
   - sounds
   - like
 - - russia
   - among
   - other
-- - little
-  - further
-  - away
 - - may
   - learn
   - something
+- - little
+  - further
+  - away
 - - has
   - allowed
   - moths
+- - among
+  - other
+  - times
 - - bible
   - who
   - carries
 - - trouble
   - doing
   - him
-- - among
-  - other
-  - times
 - - 'no'
   - reliable
   - account
@@ -173,12 +173,12 @@ ngrams:
 - - scholarly
   - background
   - were
-- - man
-  - has
-  - allowed
 - - help
   - wondering
   - if
+- - man
+  - has
+  - allowed
 - - where
   - 'no'
   - thief
@@ -194,12 +194,12 @@ ngrams:
 - - mythic
   - figure
   - which
-- - possibility
-  - which
-  - makes
 - - bag
   - so
   - unlike
+- - possibility
+  - which
+  - makes
 - - gunfire
   - even
   - if

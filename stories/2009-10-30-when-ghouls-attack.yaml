@@ -5,12 +5,12 @@ ngrams:
 - - drip
   - ghastly
   - ectoplasm
-- - ghouls
-  - hate
-  - syrup
 - - apple
   - ornate
   - stippled
+- - ghouls
+  - hate
+  - syrup
 - - sylvia
   - plath
   - poems
@@ -23,30 +23,30 @@ ngrams:
 - - toffee
   - apple
   - ornate
-- - duck
-  - decor
-  - baffles
 - - ping
   - pong
   - technique
-- - rest
-  - ghouls
-  - hate
+- - duck
+  - decor
+  - baffles
 - - pet
   - swan
   - recital
-- - ghouls
-  - attack
-  - picture
-- - attack
-  - picture
-  - courtesy
+- - rest
+  - ghouls
+  - hate
 - - hate
   - syrup
   - keep
+- - attack
+  - picture
+  - courtesy
 - - syrup
   - keep
   - plenty
+- - ghouls
+  - attack
+  - picture
 - - pamphlet
   - recently
   - issued
@@ -83,15 +83,15 @@ ngrams:
 - - plath
   - poems
   - can
-- - can
-  - send
-  - ghouls
-- - poems
-  - can
-  - send
 - - sensible
   - householder
   - can
+- - poems
+  - can
+  - send
+- - can
+  - send
+  - ghouls
 - - some
   - similar
   - appeal
@@ -104,21 +104,21 @@ ngrams:
 - - householder
   - can
   - take
-- - your
-  - loved
-  - ones
 - - against
   - their
   - malign
+- - calling
+  - upon
+  - any
+- - your
+  - loved
+  - ones
 - - era
   - when
   - ghouls
 - - ones
   - against
   - their
-- - your
-  - room
-  - spray
 story:
   date: 2009-10-30
   id: 2009-10-30-when-ghouls-attack

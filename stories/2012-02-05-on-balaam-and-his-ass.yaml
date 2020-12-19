@@ -1,49 +1,49 @@
 ngrams:
-- - harris
-  - benedict
-  - cumberbatch
 - - na
   - unpronounceable
   - thicket
+- - harris
+  - benedict
+  - cumberbatch
 - - smitten
   - thine
   - ass
 - - candleford
   - exchanging
   - observations
+- - shakers
+  - rolf
+  - harris
 - - rolf
   - harris
   - benedict
 - - veterinary
   - surgeon
   - newly
-- - shakers
-  - rolf
-  - harris
-- - benedict
-  - cumberbatch
-  - yoko
 - - thou
   - hast
   - mocked
-- - seemingly
-  - incurable
-  - donkey
-- - incurable
-  - donkey
-  - disease
 - - thou
   - hast
   - ridden
 - - thou
   - smitten
   - thine
+- - seemingly
+  - incurable
+  - donkey
+- - benedict
+  - cumberbatch
+  - yoko
 - - thou
   - hast
   - smitten
 - - hast
   - thou
   - smitten
+- - incurable
+  - donkey
+  - disease
 - - donkey
   - disease
   - allowing
@@ -56,36 +56,36 @@ ngrams:
 - - bar
   - drinking
   - pints
-- - surgeon
-  - newly
-  - arrived
 - - la
   - lark
   - rise
+- - surgeon
+  - newly
+  - arrived
 - - thrust
   - herself
   - unto
 - - thou
   - shalt
   - speak
+- - bbc
+  - peasant
+  - accents
+- - generic
+  - bbc
+  - peasant
 - - speak
   - unto
   - thee
+- - seems
+  - perfectly
+  - plausible
 - - maverick
   - young
   - veterinary
 - - young
   - veterinary
   - surgeon
-- - bbc
-  - peasant
-  - accents
-- - seems
-  - perfectly
-  - plausible
-- - generic
-  - bbc
-  - peasant
 - - television
   - chat
   - show
@@ -98,30 +98,27 @@ ngrams:
 - - between
   - lark
   - rise
-- - human
-  - speaking
-  - voice
-- - donkey
-  - trudging
-  - across
 - - verdant
   - fields
   - between
+- - donkey
+  - trudging
+  - across
 - - fields
   - between
   - lark
+- - human
+  - speaking
+  - voice
 - - planned
   - second
   - series
-- - night
-  - television
-  - chat
 - - withstand
   - thee
   - because
-- - saturday
-  - night
+- - night
   - television
+  - chat
 - - thee
   - because
   - thy
@@ -131,15 +128,15 @@ ngrams:
 - - ass
   - because
   - thou
+- - saturday
+  - night
+  - television
 - - reading
   - god
   - unsurprisingly
 - - shall
   - speak
   - unto
-- - three
-  - times
-  - behold
 - - lord
   - having
   - opened
@@ -148,13 +145,16 @@ ngrams:
   - assume
 - - three
   - times
-  - unless
+  - behold
 - - foolish
   - glutton
   - while
 - - hast
   - ridden
   - ever
+- - three
+  - times
+  - unless
 - - donkey
   - trot
   - away
@@ -185,123 +185,129 @@ ngrams:
 - - most
   - famous
   - work
-- - lord
-  - said
-  - unto
-- - lord
-  - said
-  - unto
 - - thine
   - ass
   - upon
+- - lord
+  - said
+  - unto
+- - lord
+  - said
+  - unto
 - - because
   - thy
   - way
-- - saved
-  - her
-  - alive
-- - she
-  - thrust
-  - herself
-- - these
-  - three
-  - times
-- - these
-  - three
-  - times
-- - these
-  - three
-  - times
 - - talking
   - donkey
   - its
+- - these
+  - three
+  - times
+- - these
+  - three
+  - times
+- - these
+  - three
+  - times
+- - she
+  - thrust
+  - herself
+- - narrow
+  - place
+  - where
+- - saved
+  - her
+  - alive
 - - lord
   - she
   - thrust
 - - fell
   - down
   - under
-- - narrow
-  - place
-  - where
-- - lord
-  - she
-  - fell
-- - times
-  - unless
-  - she
 - - detain
   - us
   - here
 - - personally
   - socked
   - him
+- - lord
+  - she
+  - fell
+- - times
+  - unless
+  - she
 - - surely
   - now
   - also
-- - smote
-  - her
-  - again
 - - donkey
   - its
   - own
 - - its
   - own
   - saturday
-- - adversary
-  - against
-  - him
+- - smote
+  - her
+  - again
 - - more
   - interest
   - perhaps
+- - adversary
+  - against
+  - him
 - - exchanging
   - observations
   - about
-- - she
-  - said
-  - unto
 - - donkey
   - dialogues
   - when
-- - she
-  - fell
-  - down
 - - said
   - nay
   - then
 - - will
   - interrogate
   - movers
+- - she
+  - said
+  - unto
+- - she
+  - fell
+  - down
 - - hast
   - mocked
   - me
 - - hast
   - smitten
   - me
-- - dublin
-  - they
-  - roam
 - - turned
   - aside
   - out
-- - said
-  - unto
-  - him
 - - dublin
   - they
-  - barely
+  - roam
 - - urban
   - metropolis
   - there
+- - dublin
+  - they
+  - barely
+- - said
+  - unto
+  - him
 - - they
   - barely
   - drink
 - - ass
   - saw
   - me
+- - so
+  - unto
+  - thee
 - - two
   - servants
   - were
+- - shalt
+  - speak
+  - so
 - - comedy
   - dialogues
   - are
@@ -311,48 +317,42 @@ ngrams:
 - - against
   - him
   - now
-- - so
-  - unto
-  - thee
-- - shalt
-  - speak
-  - so
 - - we
   - must
   - therefore
 - - smitten
   - me
   - these
-- - an
-  - irish
-  - bar
 - - perverse
   - before
   - me
 - - now
   - therefore
   - if
-- - one
-  - priest
-  - personally
+- - an
+  - irish
+  - bar
 - - way
   - against
   - me
-- - me
-  - these
-  - three
-- - me
-  - these
-  - three
+- - one
+  - priest
+  - personally
 - - thine
   - unto
   - this
-- - turn
-  - her
-  - into
+- - me
+  - these
+  - three
+- - me
+  - these
+  - three
 - - an
   - adversary
   - against
+- - me
+  - now
+  - therefore
 story:
   date: 2012-02-05
   id: 2012-02-05-on-balaam-and-his-ass

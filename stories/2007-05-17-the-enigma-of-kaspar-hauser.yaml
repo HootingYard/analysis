@@ -2,12 +2,12 @@ ngrams:
 - - plied
   - kaspar
   - hauser
-- - beer
-  - cats
-  - spiders
 - - cats
   - spiders
   - snakes
+- - beer
+  - cats
+  - spiders
 - - daylight
   - beer
   - cats
@@ -20,24 +20,24 @@ ngrams:
 - - noises
   - squeezed
   - cheese
-- - brandy
-  - loud
-  - noises
 - - bright
   - daylight
   - beer
+- - brandy
+  - loud
+  - noises
 - - moon
   - brandy
   - loud
 - - squeezed
   - cheese
   - bright
-- - noises
-  - quiet
-  - noises
 - - cheese
   - bright
   - daylight
+- - loud
+  - noises
+  - quiet
 story:
   date: 2007-05-17
   id: 2007-05-17-the-enigma-of-kaspar-hauser

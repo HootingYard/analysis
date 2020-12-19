@@ -1,13 +1,13 @@
 ngrams:
+- - indigo
+  - cerise
+  - puce
+- - indigo
+  - cerise
+  - puce
 - - florid
   - bumpkin
   - plagued
-- - indigo
-  - cerise
-  - puce
-- - indigo
-  - cerise
-  - puce
 - - cerise
   - puce
   - chartreuse
@@ -17,12 +17,6 @@ ngrams:
 - - unkempt
   - secondhand
   - bookshop
-- - lee
-  - harvey
-  - oswald
-- - lee
-  - harvey
-  - oswald
 - - cad
   - portraits
   - intact
@@ -32,6 +26,12 @@ ngrams:
 - - harvey
   - oswald
   - beige
+- - lee
+  - harvey
+  - oswald
+- - lee
+  - harvey
+  - oswald
 - - portraits
   - intact
   - tucked
@@ -62,21 +62,21 @@ ngrams:
 - - few
   - subtle
   - tints
-- - big
-  - bold
-  - black
 - - magic
   - trick
   - until
+- - big
+  - bold
+  - black
 - - combustion
   - monkey
   - why
-- - made
-  - multiple
-  - photocopies
 - - combinations
   - most
   - likely
+- - made
+  - multiple
+  - photocopies
 - - say
   - canalside
   - picnic
@@ -104,42 +104,42 @@ ngrams:
 - - lips
   - puckered
   - her
-- - pointing
-  - her
-  - finger
 - - cad
   - she
   - cried
+- - pointing
+  - her
+  - finger
 - - cravat
   - she
   - cried
 - - her
   - feet
   - snarled
-- - puckered
-  - her
-  - dog
-- - her
-  - dog
-  - chase
-- - her
-  - eyes
-  - narrowed
-- - eyes
-  - narrowed
-  - her
 - - two
   - years
   - armed
 - - spent
   - two
   - years
+- - puckered
+  - her
+  - dog
 - - her
   - dog
-  - sitting
+  - chase
 - - monkey
   - why
   - did
+- - her
+  - eyes
+  - narrowed
+- - eyes
+  - narrowed
+  - her
+- - her
+  - dog
+  - sitting
 - - asked
   - her
   - eyes
@@ -149,39 +149,36 @@ ngrams:
 - - bones
   - about
   - badgering
-- - nobody
-  - knew
-  - what
 - - technology
   - working
   - out
-- - made
-  - 'no'
-  - bones
-- - when
-  - tucked
-  - around
+- - nobody
+  - knew
+  - what
 - - thing
   - when
   - tucked
-- - never
-  - been
-  - spoken
+- - when
+  - tucked
+  - around
+- - made
+  - 'no'
+  - bones
 - - dog
   - chase
   - me
 - - real
   - thing
   - when
+- - never
+  - been
+  - spoken
 - - find
   - out
   - exactly
 - - good
   - shoulder
   - there
-- - about
-  - badgering
-  - her
 - - an
   - unspeakable
   - cad
@@ -191,33 +188,36 @@ ngrams:
 - - knew
   - now
   - what
+- - about
+  - badgering
+  - her
 - - slot
   - him
   - into
 - - she
   - stopped
   - me
-- - cad
-  - had
-  - written
 - - 'no'
   - bones
   - about
 - - out
   - exactly
   - who
-- - written
-  - down
-  - which
-- - who
-  - evicted
-  - me
 - - salon
   - but
   - clutched
+- - cad
+  - had
+  - written
 - - well
   - dry
   - this
+- - who
+  - evicted
+  - me
+- - written
+  - down
+  - which
 - - further
   - up
   - into
@@ -227,36 +227,36 @@ ngrams:
 - - finger
   - decisively
   - at
-- - life's
-  - work
-  - from
 - - few
   - crayons
   - but
 - - dry
   - this
   - did
-- - badgering
-  - her
-  - one
+- - life's
+  - work
+  - from
+- - not
+  - appear
+  - printed
 - - chase
   - me
   - out
 - - dog
   - sitting
   - at
-- - not
-  - appear
-  - printed
+- - badgering
+  - her
+  - one
 - - cravat
   - sported
   - by
 - - trick
   - until
   - at
-- - had
-  - her
-  - dog
+- - who
+  - this
+  - cad
 story:
   date: 2017-10-08
   id: 2017-10-08-unspeakable

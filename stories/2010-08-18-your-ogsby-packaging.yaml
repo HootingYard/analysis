@@ -5,12 +5,12 @@ ngrams:
 - - sharp
   - blade
   - cram
-- - provide
-  - comfortable
-  - bedding
 - - fine
   - upstanding
   - citizen
+- - provide
+  - comfortable
+  - bedding
 - - original
   - mattress
   - stuffing
@@ -23,12 +23,12 @@ ngrams:
 - - adore
   - enchanted
   - although
-- - excelsior
-  - simply
-  - slice
 - - unimpeachable
   - moral
   - character
+- - excelsior
+  - simply
+  - slice
 - - steering
   - panel
   - sitting
@@ -38,6 +38,9 @@ ngrams:
 - - steering
   - panel
   - itself
+- - panel
+  - itself
+  - untold
 - - small
   - scurrying
   - mammal
@@ -56,9 +59,6 @@ ngrams:
 - - small
   - scurrying
   - mammals
-- - panel
-  - itself
-  - untold
 - - enchanted
   - although
   - sometimes
@@ -68,27 +68,27 @@ ngrams:
 - - yet
   - nobler
   - sentiments
-- - always
-  - rip
-  - open
 - - pursue
   - without
   - proper
-- - character
-  - without
-  - lavishing
 - - without
   - proper
   - training
+- - always
+  - rip
+  - open
+- - character
+  - without
+  - lavishing
 - - moral
   - character
   - without
-- - most
-  - comfortable
-  - mattress
 - - guinea
   - pig
   - nor
+- - most
+  - comfortable
+  - mattress
 - - little
   - ruskin
   - dangle
@@ -113,12 +113,12 @@ ngrams:
 - - more
   - ambitious
   - project
-- - other
-  - small
-  - scurrying
 - - still
   - make
   - use
+- - other
+  - small
+  - scurrying
 - - can
   - provide
   - comfortable
@@ -128,27 +128,33 @@ ngrams:
 - - any
   - case
   - given
-- - box
-  - do
-  - remember
 - - example
   - can
   - provide
-- - like
-  - little
-  - ruskin
+- - box
+  - do
+  - remember
 - - can
   - always
   - rip
-- - box
-  - like
+- - like
   - little
+  - ruskin
 - - mattress
   - 'no'
   - longer
 - - 'no'
   - longer
   - sleep
+- - much
+  - more
+  - ambitious
+- - box
+  - like
+  - little
+- - 'no'
+  - small
+  - scurrying
 - - your
   - chosen
   - pet
@@ -161,69 +167,63 @@ ngrams:
 - - lavish
   - your
   - love
-- - 'no'
-  - small
-  - scurrying
-- - your
-  - future
-  - nights
-- - much
-  - more
-  - ambitious
-- - teaching
-  - your
-  - small
-- - your
-  - small
-  - scurrying
-- - adhesive
-  - tape
-  - into
-- - tell
-  - teaching
-  - your
 - - nobler
   - sentiments
   - if
+- - your
+  - future
+  - nights
 - - soundly
   - thereafter
   - if
-- - without
-  - lavishing
+- - adhesive
+  - tape
+  - into
+- - teaching
   - your
+  - small
+- - tell
+  - teaching
+  - your
+- - your
+  - small
+  - scurrying
 - - will
   - sleep
   - twice
-- - your
-  - own
-  - bedding
+- - without
+  - lavishing
+  - your
 - - pastimes
   - will
   - keep
 - - your
-  - brand
-  - new
+  - own
+  - bedding
 - - can
   - play
   - such
-- - its
-  - box
-  - do
 - - can
   - still
   - make
-- - some
-  - other
-  - small
-- - over
-  - your
-  - hamster
-- - may
-  - 'no'
-  - longer
+- - its
+  - box
+  - do
+- - your
+  - brand
+  - new
 - - sleep
   - so
   - soundly
+- - may
+  - 'no'
+  - longer
+- - over
+  - your
+  - hamster
+- - some
+  - other
+  - small
 - - watching
   - over
   - your

@@ -5,39 +5,39 @@ ngrams:
 - - harold
   - wilson's
   - resignation
-- - voracious
-  - famished
-  - beetles
 - - appropriate
   - grammatical
   - tense
-- - unfinished
-  - unpublished
-  - novel
-- - becoming
-  - hopelessly
-  - entangled
+- - voracious
+  - famished
+  - beetles
 - - metropolitan
   - boulevards
   - rustic
-- - magisterial
-  - opening
-  - paragraph
+- - becoming
+  - hopelessly
+  - entangled
+- - unfinished
+  - unpublished
+  - novel
 - - boulevards
   - rustic
   - lanes
+- - magisterial
+  - opening
+  - paragraph
 - - encounter
   - david
   - lean
 - - famous
   - opening
   - paragraph
-- - dobson's
-  - unfinished
-  - unpublished
 - - whatever
   - cutting
   - tool
+- - dobson's
+  - unfinished
+  - unpublished
 - - brief
   - encounter
   - david
@@ -50,54 +50,54 @@ ngrams:
 - - important
   - metropolitan
   - boulevards
-- - seen
-  - lolloping
-  - during
 - - david
   - lean
   - without
 - - own
   - creative
   - struggle
+- - seen
+  - lolloping
+  - during
 - - bitter
   - cold
   - indeed
 - - lean
   - without
   - doing
-- - pamphlet
-  - dobson
-  - confesses
 - - cannot
   - pollard
   - say
-- - print
+- - pamphlet
   - dobson
-  - wrote
+  - confesses
 - - many
   - another
   - haunt
-- - very
-  - few
-  - attempts
+- - lopping
+  - might
+  - also
+- - might
+  - also
+  - apply
 - - anybody
   - could
   - drill
 - - longer
   - even
   - clear
-- - lopping
-  - might
-  - also
-- - drawer
-  - where
-  - later
-- - might
-  - also
-  - apply
+- - print
+  - dobson
+  - wrote
+- - very
+  - few
+  - attempts
 - - even
   - clear
   - whether
+- - drawer
+  - where
+  - later
 - - am
   - becoming
   - hopelessly
@@ -113,12 +113,12 @@ ngrams:
 - - grammatical
   - tense
   - when
-- - ida
-  - lupino
-  - out
 - - connecting
   - wire
   - if
+- - ida
+  - lupino
+  - out
 - - careful
   - reader
   - will
@@ -134,12 +134,12 @@ ngrams:
 - - am
   - 'no'
   - longer
-- - planned
-  - an
-  - entire
 - - could
   - drill
   - into
+- - planned
+  - an
+  - entire
 - - an
   - entire
   - chapter
@@ -152,30 +152,33 @@ ngrams:
 - - sashaying
   - or
   - stalking
-- - trudging
-  - or
-  - plodding
-- - hysteria
-  - skip
-  - or
 - - woodsman's
   - axe
   - or
-- - ramshackle
-  - shed
-  - from
-- - description
-  - but
-  - whatever
+- - hysteria
+  - skip
+  - or
+- - trudging
+  - or
+  - plodding
 - - but
   - whatever
   - cutting
+- - description
+  - but
+  - whatever
 - - axe
   - or
   - saw
+- - ramshackle
+  - shed
+  - from
 - - attempts
   - at
   - fiction
+- - wire
+  - if
+  - there
 - - by
   - voracious
   - famished
@@ -185,9 +188,6 @@ ngrams:
 - - eaten
   - by
   - voracious
-- - beloved
-  - by
-  - millions
 story:
   date: 2014-01-26
   id: 2014-01-26-the-lollopers

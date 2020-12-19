@@ -11,78 +11,75 @@ ngrams:
 - - alma
   - mater
   - miss
-- - shifty
-  - pastry
-  - hawkers
 - - frighteningly
   - adept
   - tinies
 - - frighteningly
   - adept
   - tinies
-- - shifty
-  - pastry
-  - hawker
-- - shifty
-  - pastry
-  - hawker
-- - shifty
-  - pastry
-  - hawker
 - - mater
   - miss
   - blossom
+- - shifty
+  - pastry
+  - hawkers
+- - shifty
+  - pastry
+  - hawker
+- - shifty
+  - pastry
+  - hawker
+- - shifty
+  - pastry
+  - hawker
 - - miss
   - blossom
   - partridge
-- - special
-  - tweezers
-  - lift
-- - third
-  - notebook
-  - lavender
 - - adept
   - tinies
   - ah
+- - third
+  - notebook
+  - lavender
+- - special
+  - tweezers
+  - lift
 - - poison
   - fumes
   - poor
 - - bright
   - beam
   - ahead
-- - nincompoop
-  - surely
-  - sir
 - - swish
   - cocktail
   - party
-- - wells
-  - poisoned
-  - cows
+- - nincompoop
+  - surely
+  - sir
 - - fumes
   - poor
   - tarleton
-- - notebook
-  - lilac
-  - series
+- - wells
+  - poisoned
+  - cows
 - - ancient
   - rustic
   - tune
+- - lanes
+  - tarleton
+  - carried
 - - sayings
   - strung
   - together
 - - notebook
+  - lilac
+  - series
+- - notebook
   - lavender
   - series
-- - lanes
-  - tarleton
-  - carried
 - - wait
   - wait
   - wait
-- - black
-  - poison
-  - fumes
 - - digging
   - done
   - threw
@@ -92,51 +89,54 @@ ngrams:
 - - utterances
   - often
   - consist
-- - pastry
-  - hawkers
-  - cannot
-- - thick
-  - black
+- - black
   - poison
+  - fumes
 - - titanic
   - cedars
   - nothing
-- - sophisticated
-  - urban
-  - person
+- - pastry
+  - hawkers
+  - cannot
 - - hawkers
   - cannot
   - cover
-- - body
-  - six
-  - feet
+- - sophisticated
+  - urban
+  - person
+- - thick
+  - black
+  - poison
 - - unholy
   - night
   - unholy
-- - poisoned
-  - cows
-  - turned
 - - always
   - avoid
   - presumption
-- - huge
-  - hairy
-  - hand
+- - poisoned
+  - cows
+  - turned
+- - body
+  - six
+  - feet
 - - goblin
   - came
   - swooping
-- - earth
-  - whose
-  - brains
-- - cows
-  - turned
-  - inside
 - - purpose
   - having
   - begun
+- - huge
+  - hairy
+  - hand
+- - cows
+  - turned
+  - inside
 - - veins
   - things
   - innocent
+- - earth
+  - whose
+  - brains
 - - words
   - erupting
   - inside
@@ -152,75 +152,72 @@ ngrams:
 - - soon
   - enough
   - buried
-- - six
-  - feet
-  - under
-- - black
-  - night
-  - moonless
 - - innocent
   - ears
   - should
-- - black
-  - unholy
-  - night
-- - black
-  - unholy
-  - night
 - - things
   - innocent
   - ears
-- - old
-  - sayings
-  - strung
+- - black
+  - night
+  - moonless
+- - six
+  - feet
+  - under
 - - round
   - again
   - burn
-- - most
-  - unexpected
-  - places
+- - black
+  - unholy
+  - night
+- - black
+  - unholy
+  - night
+- - adept
+  - tinies
+  - make
+- - old
+  - sayings
+  - strung
 - - most
   - dazzlingly
   - sensible
 - - night
   - comes
   - round
-- - adept
-  - tinies
-  - make
+- - most
+  - unexpected
+  - places
 - - inner
   - nincompoop
   - ever
-- - cannot
-  - let
-  - pass
 - - nincompoop
   - ever
   - ready
-- - old
-  - saying
-  - ignorance
+- - cannot
+  - let
+  - pass
 - - comes
   - round
   - again
-- - wise
-  - man
-  - stays
 - - rustic
   - squalor
   - how
+- - old
+  - saying
+  - ignorance
 - - spadeful
   - after
   - spadeful
 - - shovel
   - spadeful
   - after
+- - wise
+  - man
+  - stays
 - - run
   - run
   - away
-- - unexpected
-  - places
-  - here
 - - nod
   - before
   - parrying
@@ -230,54 +227,57 @@ ngrams:
 - - first
   - incipient
   - sign
+- - unexpected
+  - places
+  - here
+- - much
+  - ground
+  - trundling
 - - lavender
   - series
   - say
 - - must
   - always
   - avoid
-- - much
-  - ground
-  - trundling
 - - cannot
   - cover
   - too
 - - spectacular
   - minds
   - may
-- - doubt
-  - make
-  - use
 - - heed
   - such
   - warnings
+- - doubt
+  - make
+  - use
 - - pastry
   - hawker
   - where
-- - head
-  - dear
-  - reader
 - - enough
   - buried
   - never
+- - head
+  - dear
+  - reader
 - - registering
   - its
   - heft
-- - its
-  - protective
-  - jelly
-- - torch
-  - sweeping
-  - its
-- - never
-  - hear
-  - remember
-- - done
-  - threw
-  - down
 - - too
   - well
   - grateful
+- - its
+  - protective
+  - jelly
+- - never
+  - hear
+  - remember
+- - torch
+  - sweeping
+  - its
+- - done
+  - threw
+  - down
 - - its
   - bright
   - beam
@@ -293,6 +293,9 @@ ngrams:
 - - go
   - trudging
   - through
+- - cover
+  - too
+  - much
 - - should
   - never
   - hear
@@ -302,21 +305,18 @@ ngrams:
 - - came
   - swooping
   - down
-- - cover
-  - too
-  - much
-- - same
-  - lobby
-  - now
+- - might
+  - recall
+  - another
 - - within
   - its
   - cranium
 - - too
   - much
   - ground
-- - might
-  - recall
-  - another
+- - same
+  - lobby
+  - now
 - - down
   - old
   - sayings
@@ -335,243 +335,243 @@ ngrams:
 - - brain
   - within
   - its
-- - daybreak
-  - thought
-  - him
 - - lilac
   - series
   - 'no'
 - - picked
   - up
   - tarleton
-- - your
-  - opening
-  - paragraph
+- - daybreak
+  - thought
+  - him
 - - sheds
   - 'no'
   - light
 - - sheds
   - 'no'
   - light
-- - erupting
-  - inside
-  - your
 - - 'no'
   - sense
   - unless
 - - 'no'
   - light
   - incidentally
+- - your
+  - opening
+  - paragraph
 - - only
   - too
   - well
-- - stop
-  - him
-  - until
+- - erupting
+  - inside
+  - your
 - - their
   - utterances
   - often
-- - quavering
-  - voice
-  - what
 - - about
   - miss
   - blossom
+- - quavering
+  - voice
+  - what
 - - nincompoop
   - how
   - can
+- - stop
+  - him
+  - until
 - - peasant
   - who
   - found
+- - countryside
+  - peasants
+  - if
 - - will
   - suck
   - thoughtfully
 - - fall
   - into
   - conversation
-- - old
-  - saying
-  - has
-- - countryside
-  - peasants
-  - if
-- - year
-  - when
-  - imps
-- - your
-  - veins
-  - things
 - - hawker
   - where
   - am
-- - your
-  - own
-  - crumbs
-- - attendant
-  - will
-  - open
-- - whose
-  - brains
-  - were
-- - remove
-  - all
-  - trace
+- - year
+  - when
+  - imps
+- - old
+  - saying
+  - has
 - - calendar
   - year
   - when
-- - 'no'
-  - doubt
-  - make
+- - attendant
+  - will
+  - open
+- - your
+  - veins
+  - things
+- - remove
+  - all
+  - trace
+- - your
+  - own
+  - crumbs
+- - whose
+  - brains
+  - were
 - - turned
   - inside
   - out
+- - 'no'
+  - doubt
+  - make
 - - voice
   - what
   - place
-- - worth
-  - your
-  - while
-- - well
-  - worth
-  - your
 - - unless
   - we
   - presume
-- - series
-  - 'no'
-  - man
+- - worth
+  - your
+  - while
 - - thing
   - if
   - tarleton
-- - two
-  - about
-  - miss
-- - jest
-  - let
-  - me
-- - churns
-  - are
-  - upended
-- - 'no'
-  - sooner
-  - did
-- - are
-  - upended
-  - wells
+- - well
+  - worth
+  - your
 - - sense
   - unless
   - we
+- - series
+  - 'no'
+  - man
 - - old
   - sayings
   - if
-- - inside
-  - your
-  - head
-- - your
-  - head
-  - dear
+- - jest
+  - let
+  - me
+- - two
+  - about
+  - miss
 - - cedars
   - nothing
   - would
-- - let
-  - me
-  - answer
+- - 'no'
+  - sooner
+  - did
+- - churns
+  - are
+  - upended
 - - can
   - such
   - things
+- - are
+  - upended
+  - wells
+- - let
+  - me
+  - answer
+- - inside
+  - your
+  - head
 - - nothing
   - would
   - stop
+- - your
+  - head
+  - dear
 - - cedars
   - yet
   - there
 - - half
   - turn
   - so
-- - night
-  - churns
-  - are
 - - how
   - can
   - such
-- - goblins
+- - lane
+  - would
+  - still
+- - night
+  - churns
   - are
-  - let
-- - are
-  - let
-  - loose
-- - an
-  - uncharacteristically
-  - weedy
 - - knew
   - 'no'
   - more
+- - goblins
+  - are
+  - let
+- - an
+  - uncharacteristically
+  - weedy
+- - are
+  - let
+  - loose
 - - an
   - unmarked
   - grave
 - - an
   - inner
   - nincompoop
-- - lane
-  - would
-  - still
+- - places
+  - here
+  - we
 - - an
   - obtuse
   - peasant
 - - dug
   - an
   - ancient
-- - places
-  - here
-  - we
-- - an
-  - ancient
-  - rustic
 - - nonsensical
   - babble
   - this
+- - an
+  - ancient
+  - rustic
 - - compares
   - this
   - inner
 - - this
   - inner
   - nincompoop
-- - one
-  - huge
-  - hairy
-- - who
-  - found
-  - him
-- - time
-  - when
-  - tarleton
-- - trod
-  - this
-  - earth
-- - chucked
-  - him
-  - into
-- - wait
-  - these
-  - are
-- - are
-  - saying
-  - say
 - - we
   - might
   - recall
+- - time
+  - when
+  - tarleton
+- - one
+  - huge
+  - hairy
+- - trod
+  - this
+  - earth
+- - are
+  - saying
+  - say
+- - wait
+  - these
+  - are
+- - who
+  - found
+  - him
 - - this
   - black
   - unholy
+- - chucked
+  - him
+  - into
 - - this
   - night
   - churns
+- - towering
+  - pine
+  - or
 - - this
   - earth
   - whose
-- - make
-  - an
-  - appointment
 story:
   date: 2013-04-18
   id: 2013-04-18-tarleton-comes-a-cropper

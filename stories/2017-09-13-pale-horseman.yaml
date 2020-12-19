@@ -26,18 +26,18 @@ ngrams:
 - - toffee
   - apple
   - removes
-- - complete
-  - procol
-  - harum
 - - toffee
   - apple
   - returning
-- - jethro
-  - tull
-  - except
+- - complete
+  - procol
+  - harum
 - - nobody
   - dared
   - utter
+- - jethro
+  - tull
+  - except
 - - pale
   - horseman
   - stopped
@@ -62,21 +62,21 @@ ngrams:
 - - horseman
   - sat
   - tall
-- - pale
-  - horseman
-  - knew
 - - snack
   - whatever
   - questions
 - - single
   - album
   - release
-- - small
-  - terrified
-  - scurrying
+- - pale
+  - horseman
+  - knew
 - - pale
   - horseman
   - saw
+- - small
+  - terrified
+  - scurrying
 - - done
   - answering
   - questions
@@ -86,33 +86,33 @@ ngrams:
 - - pale
   - horseman
   - going
-- - horse
-  - become
-  - fractious
 - - night
   - owls
   - hooted
+- - horse
+  - become
+  - fractious
 - - slowly
   - slowly
   - along
 - - members
   - still
   - awake
-- - few
-  - blennies
-  - dead
 - - audience
   - members
   - still
-- - listing
-  - every
-  - single
-- - puny
-  - brains
-  - while
 - - pulled
   - himself
   - together
+- - few
+  - blennies
+  - dead
+- - puny
+  - brains
+  - while
+- - listing
+  - every
+  - single
 - - become
   - fractious
   - because
@@ -122,21 +122,21 @@ ngrams:
 - - word
   - terrific
   - because
-- - execution
-  - took
-  - place
 - - damned
   - well
   - ought
-- - night
-  - each
-  - inn
-- - through
-  - dense
-  - forest
+- - execution
+  - took
+  - place
 - - great
   - length
   - thus
+- - through
+  - dense
+  - forest
+- - night
+  - each
+  - inn
 - - myself
   - listing
   - every
@@ -152,36 +152,39 @@ ngrams:
 - - horse
   - through
   - dense
-- - cowboy
-  - film
-  - here
-- - questions
-  - most
-  - often
 - - tinies
   - toppled
   - over
-- - any
-  - liner
-  - notes
+- - cowboy
+  - film
+  - here
 - - deathly
   - pale
   - such
 - - memory
   - any
   - liner
-- - long
-  - lane
-  - indeed
-- - answering
-  - questions
-  - any
+- - any
+  - liner
+  - notes
+- - questions
+  - most
+  - often
 - - any
   - audience
   - members
+- - answering
+  - questions
+  - any
+- - long
+  - lane
+  - indeed
 - - any
   - fish
   - unless
+- - questions
+  - any
+  - audience
 - - hear
   - how
   - death
@@ -194,9 +197,9 @@ ngrams:
 - - its
   - cellophane
   - wrapping
-- - questions
-  - any
-  - audience
+- - precise
+  - pattern
+  - upon
 - - fractious
   - its
   - mane
@@ -221,42 +224,42 @@ ngrams:
 - - few
   - yards
   - 'off'
-- - precise
-  - pattern
-  - upon
 - - few
   - words
   - under
-- - horse
-  - scratched
-  - its
 - - more
   - puckish
   - mood
+- - horse
+  - scratched
+  - its
 - - vittles
   - did
   - nothing
-- - its
-  - innocent
-  - behind
 - - swooped
   - upon
   - small
 - - upon
   - small
   - terrified
-- - just
-  - yards
-  - away
-- - very
-  - long
-  - lane
+- - its
+  - innocent
+  - behind
 - - more
   - terrific
   - although
 - - horse
   - could
   - spend
+- - just
+  - yards
+  - away
+- - very
+  - long
+  - lane
+- - am
+  - done
+  - answering
 - - some
   - ancient
   - sin
@@ -269,27 +272,24 @@ ngrams:
 - - horseman
   - who
   - shuddered
-- - am
-  - done
-  - answering
+- - these
+  - vittles
+  - did
+- - might
+  - find
+  - myself
 - - how
   - every
   - last
 - - nobody
   - nobody
   - has
-- - these
-  - vittles
-  - did
-- - horseman
-  - why
-  - do
 - - fixate
   - upon
   - say
-- - might
-  - find
-  - myself
+- - horseman
+  - why
+  - do
 - - their
   - puny
   - brains
@@ -305,108 +305,108 @@ ngrams:
 - - them
   - stop
   - around
-- - french
-  - person
-  - been
-- - audience
-  - put
-  - up
-- - person
-  - been
-  - present
-- - nobody
-  - has
-  - ever
-- - original
-  - release
-  - if
 - - even
   - more
   - puckish
 - - mane
   - even
   - more
+- - original
+  - release
+  - if
+- - audience
+  - put
+  - up
 - - even
   - more
   - terrific
+- - french
+  - person
+  - been
+- - person
+  - been
+  - present
+- - nobody
+  - has
+  - ever
 - - occasionally
   - someone
   - will
-- - has
-  - ever
-  - asked
 - - someone
   - will
   - ask
 - - awake
   - will
   - almost
+- - has
+  - ever
+  - asked
 - - therefore
   - they
   - barely
-- - they
-  - barely
-  - notice
 - - tale
   - therefore
   - they
+- - they
+  - barely
+  - notice
 - - all
   - cows
   - wherever
 - - will
   - also
   - recite
-- - boy
-  - cows
-  - all
 - - will
   - almost
   - certainly
-- - cows
-  - all
+- - boy
   - cows
+  - all
 - - pointy
   - town
   - when
-- - night
-  - they
-  - stayed
+- - cows
+  - all
+  - cows
 - - still
   - awake
   - will
+- - night
+  - they
+  - stayed
+- - ever
+  - asked
+  - what
 - - were
   - many
   - inns
 - - roam
   - are
   - girls
-- - ever
-  - asked
-  - what
-- - liner
-  - notes
-  - which
 - - take
   - up
   - most
-- - fruit
+- - liner
+  - notes
   - which
-  - shared
 - - while
   - they
   - fixate
+- - fruit
+  - which
+  - shared
 - - brains
   - while
   - they
-- - often
-  - asked
-  - are
 - - procol
   - harum
   - this
 - - harum
   - this
   - anomaly
+- - unless
+  - one
+  - counted
 story:
   date: 2017-09-13
   id: 2017-09-13-pale-horseman

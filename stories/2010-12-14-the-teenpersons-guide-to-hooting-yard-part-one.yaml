@@ -1,22 +1,22 @@
 ngrams:
-- - bilge
-  - input
-  - upstairs
 - - mule
   - disfigured
   - nuncio
+- - bilge
+  - input
+  - upstairs
 - - pedagogue
   - uses
   - impugned
+- - uses
+  - impugned
+  - invective
 - - impossibly
   - attractive
   - youngsters
 - - net
   - curtain
   - stapled
-- - uses
-  - impugned
-  - invective
 - - flashy
   - private
   - jet
@@ -26,135 +26,135 @@ ngrams:
 - - acolyte
   - pour
   - vinegar
-- - bee
-  - collecting
-  - pollen
 - - e
   - g
   - salubrious
-- - highly
-  - presiding
-  - genius
+- - bee
+  - collecting
+  - pollen
 - - modern
   - bilge
   - input
-- - sic
-  - throughout
-  - woodcutter
 - - happen
   - potter's
   - arch
-- - recommend
-  - ear
-  - muffs
+- - highly
+  - presiding
+  - genius
+- - sic
+  - throughout
+  - woodcutter
 - - mentions
   - thomas
   - hardy
 - - characters
   - annoying
   - tone
+- - recommend
+  - ear
+  - muffs
 - - truly
   - embarrassed
   - herself
-- - uses
-  - unusual
-  - language
 - - primarily
   - bad
   - changes
-- - height
-  - advice
-  - regarding
+- - uses
+  - unusual
+  - language
+- - n
+  - b
+  - sic
 - - doesn't
   - trust
   - anybody
+- - height
+  - advice
+  - regarding
 - - advice
   - regarding
   - vinegar
 - - huge
   - twisted
   - totem
+- - fantastic
+  - sewage
+  - system
 - - b
   - sic
   - throughout
 - - charcoal
   - burner
   - although
-- - fantastic
-  - sewage
-  - system
+- - main
+  - character
+  - speaks
 - - management
   - it's
   - primarily
+- - follow
+  - n
+  - b
+- - subject
+  - changed
+  - randomly
 - - says
   - thomas
   - hardy
 - - main
   - character
-  - speaks
-- - n
-  - b
-  - sic
-- - met
-  - ned
-  - ned
-- - subject
-  - changed
-  - randomly
+  - private
 - - extremely
   - close
   - link
-- - main
-  - character
-  - private
-- - strange
-  - forest
-  - beings
-- - apparent
-  - strapping
-  - young
-- - contain
-  - red
-  - mud
+- - met
+  - ned
+  - ned
 - - pub
   - itself
   - changes
-- - strange
-  - men
-  - waddled
-- - minds
-  - eye
-  - walking
-- - north
-  - line
-  - track
 - - vinegar
   - actually
   - entering
-- - follow
-  - n
-  - b
+- - strange
+  - forest
+  - beings
+- - contain
+  - red
+  - mud
+- - minds
+  - eye
+  - walking
+- - apparent
+  - strapping
+  - young
+- - north
+  - line
+  - track
 - - seems
   - slightly
   - surprised
 - - it's
   - primarily
   - bad
+- - german
+  - film
+  - director
+- - strange
+  - men
+  - waddled
 - - destroy
   - everything
   - although
+- - story
+  - gets
+  - stranger
 - - small
   - bony
   - frame
 - - lord's
   - sack
   - full
-- - german
-  - film
-  - director
-- - story
-  - gets
-  - stranger
 - - hurried
   - towards
   - cuxhaven
@@ -164,153 +164,162 @@ ngrams:
 - - story
   - doesn't
   - trust
+- - diary
+  - styled
+  - piece
 - - thomas
   - hardy
   - wrote
 - - thousand
   - times
   - louder
-- - second
-  - chapter
-  - shows
 - - writing
   - line
   - suggests
+- - weak
+  - link
+  - between
 - - main
   - character
   - seems
 - - character
   - seems
   - slightly
-- - diary
-  - styled
-  - piece
-- - interesting
-  - folk
-  - story
-- - weak
-  - link
-  - between
-- - human
-  - race
-  - outside
-- - cross
-  - between
-  - nails
 - - fifth
   - paragraph
   - thus
 - - key
   - uses
   - unusual
+- - cross
+  - between
+  - nails
+- - interesting
+  - folk
+  - story
+- - second
+  - chapter
+  - shows
+- - human
+  - race
+  - outside
 - - vinegar
   - travels
   - along
 - - pubs
   - change
   - under
-- - misleading
-  - people
-  - walk
 - - question
   - except
   - possibly
 - - short
   - stories
   - written
-- - question
-  - let's
-  - face
-- - one's
-  - ear
-  - however
-- - almost
-  - seemed
-  - attractive
-- - future
-  - look
-  - gloomy
+- - misleading
+  - people
+  - walk
 - - whole
   - piece
   - revolves
-- - woodcutter
-  - also
-  - doesn't
+- - question
+  - let's
+  - face
 - - himself
   - actively
   - choosing
-- - nothing
-  - exciting
-  - happens
-- - acolytes
-  - carry
-  - both
-- - bizarre
-  - twist
-  - because
+- - woodcutter
+  - also
+  - doesn't
 - - rather
   - descriptive
   - especially
-- - includes
-  - strange
-  - people
-- - also
-  - mentions
-  - thomas
+- - one's
+  - ear
+  - however
+- - acolytes
+  - carry
+  - both
+- - almost
+  - seemed
+  - attractive
 - - close
   - link
   - between
+- - bizarre
+  - twist
+  - because
+- - also
+  - mentions
+  - thomas
+- - future
+  - look
+  - gloomy
+- - words
+  - e
+  - g
 - - complicated
   - sounds
   - also
 - - perfectly
   - reasonable
   - thing
-- - words
-  - e
-  - g
+- - nothing
+  - exciting
+  - happens
 - - unknown
   - words
   - e
-- - something
-  - normally
-  - associated
 - - walk
   - himself
   - actively
-- - cravat
-  - something
-  - normally
 - - collecting
   - pollen
   - yet
-- - sentence
-  - follows
-  - another
-- - eye
-  - walking
-  - between
+- - includes
+  - strange
+  - people
 - - rather
   - odd
   - based
-- - example
-  - symphony
-  - number
-- - three
-  - strange
-  - men
+- - something
+  - normally
+  - associated
+- - eye
+  - walking
+  - between
+- - cravat
+  - something
+  - normally
+- - sentence
+  - follows
+  - another
 - - itself
   - changes
   - under
 - - film
   - director
   - given
+- - example
+  - symphony
+  - number
+- - tremendous
+  - vocabulary
+  - mr
+- - particular
+  - things
+  - collide
 - - also
   - seems
   - intelligent
+- - sounds
+  - rather
+  - dark
 - - worst
   - enemy
   - while
+- - play
+  - yet
+  - personally
 - - find
   - completely
   - irrelevant
@@ -320,81 +329,78 @@ ngrams:
 - - reader
   - doesn't
   - get
-- - sounds
-  - rather
-  - dark
-- - particular
-  - things
-  - collide
 - - normally
   - find
   - completely
-- - hair
-  - almost
-  - seemed
-- - work
-  - yeah
-  - right
-- - tremendous
-  - vocabulary
-  - mr
-- - play
-  - yet
-  - personally
 - - either
   - foreign
   - words
+- - hair
+  - almost
+  - seemed
 - - story
   - also
   - concentrates
-- - blow
-  - away
-  - midges
+- - three
+  - strange
+  - men
+- - work
+  - yeah
+  - right
 - - story
   - also
   - mentions
-- - old
-  - owner
-  - chopping
+- - myself
+  - almost
+  - praying
 - - brand
   - new
   - florist
+- - blow
+  - away
+  - midges
 - - still
   - isn't
   - pleased
 - - still
   - contains
   - parts
-- - myself
-  - almost
-  - praying
+- - good
+  - balance
+  - between
+- - old
+  - owner
+  - chopping
 - - new
   - modern
   - bilge
 - - character
   - also
   - seems
-- - myself
-  - feeling
-  - small
-- - good
-  - balance
-  - between
-- - also
-  - however
-  - talks
-- - two
-  - places
-  - imitation
-- - piece
-  - revolves
-  - around
 - - story
   - sounds
   - rather
+- - also
+  - however
+  - talks
+- - myself
+  - feeling
+  - small
 - - ever
   - happen
   - potter's
+- - piece
+  - revolves
+  - around
+- - key
+  - also
+  - uses
+- - almost
+  - boring
+  - because
+- - new
+  - florist
+  - shop
 - - ago
   - nothing
   - exciting
@@ -402,203 +408,797 @@ ngrams:
   - being
   - attracted
 - - almost
-  - boring
+  - historical
   - because
-- - new
-  - florist
-  - shop
+- - almost
+  - historical
+  - because
+- - two
+  - places
+  - imitation
 - - nails
   - being
   - scraped
 - - folk
   - story
   - because
-- - little
-  - difficulty
-  - except
-- - almost
-  - historical
-  - because
-- - almost
-  - historical
-  - because
-- - key
-  - also
-  - uses
 - - chose
   - these
   - places
-- - own
-  - four
-  - walls
 - - forest
   - being
   - matriarch
 - - new
   - management
   - it's
+- - own
+  - four
+  - walls
+- - little
+  - difficulty
+  - except
+- - almost
+  - every
+  - sentence
 - - put
   - sentences
   - next
 - - research
   - these
   - towns
-- - almost
-  - every
-  - sentence
 - - feelings
   - just
   - fill
-- - tat
-  - after
-  - describing
 - - another
   - interesting
   - point
+- - tat
+  - after
+  - describing
+- - those
+  - impossibly
+  - attractive
 - - very
   - self
   - obsessed
+- - key
+  - says
+  - words
+- - sausages
+  - i'd
+  - never
+- - return
+  - home
+  - having
+- - vocabulary
+  - mr
+  - key
 - - very
   - highly
   - presiding
 - - character
   - tells
   - us
-- - those
-  - impossibly
-  - attractive
-- - return
-  - home
-  - having
-- - key
-  - says
-  - words
 - - found
   - myself
   - feeling
 - - forgotten
   - feelings
   - just
-- - people
-  - normally
-  - find
-- - sausages
-  - i'd
-  - never
-- - modern
-  - tat
-  - after
 - - conclusion
   - because
   - without
+- - modern
+  - tat
+  - after
 - - trust
   - anybody
   - after
+- - people
+  - normally
+  - find
+- - read
+  - aloud
+  - rather
 - - suddenly
   - found
   - myself
+- - very
+  - odd
+  - carrying
 - - few
   - unknown
   - words
 - - twist
   - because
   - why
-- - very
-  - odd
-  - carrying
+- - again
+  - another
+  - interesting
 - - average
   - human
   - being
 - - always
   - take
   - care
-- - first
-  - met
-  - ned
-- - horst
-  - glide
-  - down
-- - vocabulary
-  - mr
-  - key
-- - read
-  - aloud
-  - rather
-- - again
-  - another
-  - interesting
-- - story
-  - starts
-  - 'off'
-- - under
-  - new
-  - management
-- - under
-  - new
-  - management
-- - hardly
-  - ever
-  - used
-- - changes
-  - under
-  - new
-- - technology
-  - unlike
-  - our
-- - small
-  - bugs
-  - being
-- - very
-  - strange
-  - characters
 - - rags
   - draped
   - over
-- - change
+- - first
+  - met
+  - ned
+- - changes
   - under
   - new
-- - seems
-  - very
-  - self
-- - say
-  - almost
-  - historical
-- - cows
-  - come
-  - home
-- - never
-  - actually
-  - explained
-- - passed
+- - under
+  - new
+  - management
+- - under
+  - new
+  - management
+- - horst
+  - glide
   - down
-  - traditionally
-- - link
-  - between
-  - these
 - - mr
   - key
   - says
-- - traditionally
-  - through
-  - word
+- - hardly
+  - ever
+  - used
+- - story
+  - starts
+  - 'off'
+- - technology
+  - unlike
+  - our
+- - very
+  - strange
+  - characters
+- - say
+  - almost
+  - historical
+- - never
+  - actually
+  - explained
+- - small
+  - bugs
+  - being
+- - seems
+  - very
+  - self
 - - than
   - rags
   - draped
+- - change
+  - under
+  - new
+- - cows
+  - come
+  - home
+- - link
+  - between
+  - these
 - - between
   - nails
   - being
-- - our
-  - character
-  - tells
+- - traditionally
+  - through
+  - word
 - - continues
   - along
   - these
-- - seen
-  - very
-  - accounted
 - - contains
   - parts
   - where
+- - passed
+  - down
+  - traditionally
+- - our
+  - character
+  - tells
+- - seen
+  - very
+  - accounted
+- - found
+  - myself
+  - almost
+- - twisted
+  - totem
+  - upon
+- - came
+  - form
+  - far
+- - along
+  - these
+  - lines
+- - changes
+  - its
+  - output
+- - sounds
+  - also
+  - these
+- - also
+  - these
+  - places
+- - walking
+  - between
+  - those
+- - revolves
+  - around
+  - how
+- - its
+  - current
+  - owner
+- - acolyte
+  - may
+  - become
+- - may
+  - become
+  - fractious
+- - describe
+  - its
+  - current
+- - these
+  - places
+  - because
+- - after
+  - work
+  - yeah
+- - next
+  - days
+  - work
+- - man
+  - called
+  - binder
+- - experience
+  - upon
+  - anyone
+- - other
+  - acolytes
+  - carry
+- - story
+  - our
+  - character
+- - these
+  - particular
+  - things
+- - read
+  - through
+  - chucking
+- - doesn't
+  - get
+  - very
+- - doesn't
+  - like
+  - talking
+- - other
+  - individual
+  - character
+- - like
+  - folk
+  - stories
+- - form
+  - far
+  - away
+- - nothing
+  - worse
+  - than
+- - years
+  - ago
+  - nothing
+- - should
+  - always
+  - take
+- - worse
+  - than
+  - going
+- - people
+  - walk
+  - down
+- - also
+  - doesn't
+  - know
+- - like
+  - trudge
+  - instead
+- - peasant
+  - other
+  - stories
+- - aloud
+  - rather
+  - than
+- - also
+  - seems
+  - very
+- - phrase
+  - could
+  - mean
+- - words
+  - such
+  - ogres
+- - complex
+  - words
+  - such
+- - other
+  - small
+  - bugs
+- - unlike
+  - our
+  - world
+- - historical
+  - story
+  - like
+- - these
+  - two
+  - places
+- - such
+  - things
+  - referring
+- - could
+  - mean
+  - anything
+- - very
+  - old
+  - fashioned
+- - away
+  - every
+  - night
+- - story
+  - then
+  - continues
+- - uses
+  - some
+  - complex
+- - some
+  - spectacular
+  - event
+- - may
+  - wonder
+  - why
+- - very
+  - serious
+  - way
+- - through
+  - many
+  - generations
+- - very
+  - much
+  - detailed
+- - after
+  - being
+  - impugned
+- - very
+  - little
+  - amount
+- - training
+  - some
+  - forest
+- - hooting
+  - yard
+  - part
+- - story
+  - sound
+  - like
+- - some
+  - forest
+  - creatures
+- - very
+  - well
+  - written
+- - very
+  - well
+  - written
+- - words
+  - like
+  - trudge
+- - very
+  - much
+  - detail
+- - couple
+  - more
+  - times
+- - another
+  - land
+  - where
+- - very
+  - first
+  - shaft
+- - simply
+  - very
+  - old
+- - narrator's
+  - dad
+  - who
+- - mouth
+  - through
+  - many
+- - far
+  - away
+  - every
+- - dad
+  - who
+  - emptied
+- - help
+  - other
+  - people
+- - being
+  - scraped
+  - down
+- - letting
+  - them
+  - visit
+- - between
+  - these
+  - two
+- - says
+  - words
+  - like
+- - result
+  - has
+  - created
+- - only
+  - problem
+  - being
+- - down
+  - traditionally
+  - through
+- - hatching
+  - below
+  - them
+- - who
+  - carry
+  - messages
+- - should
+  - help
+  - other
+- - many
+  - years
+  - ago
+- - then
+  - wondering
+  - why
+- - named
+  - them
+  - ned
+- - tilling
+  - their
+  - crops
+- - made
+  - sense
+  - after
+- - deserve
+  - their
+  - miserable
+- - passengers
+  - do
+  - get
+- - lean
+  - their
+  - spades
+- - being
+  - passed
+  - down
+- - day
+  - after
+  - meeting
+- - goggles
+  - steamed
+  - up
+- - example
+  - after
+  - being
+- - their
+  - miserable
+  - faces
+- - owner
+  - chopping
+  - up
+- - leaning
+  - their
+  - spades
+- - steam
+  - up
+  - imitation
+- - pubs
+  - change
+  - their
+- - goggles
+  - steam
+  - up
+- - beings
+  - deserve
+  - their
+- - author
+  - has
+  - kept
+- - their
+  - usual
+  - brew
+- - first
+  - page
+  - only
+- - film
+  - director
+  - who
+- - how
+  - far
+  - away
+- - first
+  - after
+  - reading
+- - anyone
+  - else
+  - who
+- - some
+  - complex
+  - words
+- - then
+  - small
+  - birds
+- - only
+  - made
+  - sense
+- - says
+  - leaning
+  - their
+- - men
+  - waddled
+  - up
+- - get
+  - very
+  - much
+- - her
+  - brand
+  - new
+- - change
+  - their
+  - music
+- - author
+  - has
+  - given
+- - your
+  - ear
+  - resulting
+- - still
+  - she
+  - seemed
+- - narrator
+  - talks
+  - about
+- - their
+  - spades
+  - against
+- - their
+  - spades
+  - against
+- - time
+  - being
+  - funny
+- - your
+  - ear
+  - binder
+- - toboggan
+  - imitation
+  - when
+- - about
+  - peasants
+  - lolling
+- - peasants
+  - lolling
+  - about
+- - people
+  - who
+  - carry
+- - miss
+  - your
+  - ear
+- - traditional
+  - decor
+  - into
+- - worry
+  - about
+  - anyone
+- - every
+  - night
+  - then
+- - only
+  - other
+  - individual
+- - strange
+  - people
+  - who
+- - understand
+  - precisely
+  - what
+- - has
+  - created
+  - something
+- - pour
+  - vinegar
+  - into
+- - larches
+  - chucking
+  - out
+- - pouring
+  - vinegar
+  - into
+- - hills
+  - when
+  - occupying
+- - usual
+  - brew
+  - into
+- - talking
+  - about
+  - peasants
+- - precisely
+  - what
+  - it's
+- - next
+  - day
+  - after
+- - very
+  - next
+  - day
+- - vinegar
+  - into
+  - one's
+- - what
+  - it's
+  - talking
+- - into
+  - one's
+  - ear
+- - don't
+  - worry
+  - about
+- - can
+  - imagine
+  - how
+- - music
+  - into
+  - newer
+- - about
+  - anyone
+  - else
+- - more
+  - than
+  - rags
+- - balance
+  - between
+  - your
+- - hardy
+  - wrote
+  - about
+- - it's
+  - talking
+  - about
+- - take
+  - their
+  - honey
+- - don't
+  - care
+  - about
+- - really
+  - happen
+  - if
+- - selection
+  - will
+  - follow
+- - very
+  - well
+  - know
+- - will
+  - follow
+  - n
+- - however
+  - talks
+  - about
+- - same
+  - time
+  - being
+- - entirely
+  - sure
+  - what
+- - skiff
+  - me
+  - faster
+- - already
+  - heard
+  - about
+- - they
+  - toboggan
+  - imitation
+- - second
+  - selection
+  - will
+- - your
+  - own
+  - imagination
+- - tobogganist
+  - except
+  - they
+- - except
+  - they
+  - toboggan
+- - into
+  - newer
+  - things
+- - do
+  - after
+  - work
+- - has
+  - never
+  - heard
+- - would
+  - recommend
+  - ear
+- - wouldn't
+  - imagine
+  - they
+- - train
+  - station
+  - they
+- - weird
+  - lot
+  - they
+- - writer
+  - says
+  - there
+- - else
+  - who
+  - might
+- - hill
+  - they
+  - usually
+- - i'd
+  - never
+  - been
+- - made
+  - 'no'
+  - sense
+- - do
+  - get
+  - down
+- - your
+  - side
+  - while
+- - would
+  - probably
+  - buy
+- - clearly
+  - done
+  - me
+- - between
+  - your
+  - own
+- - becomes
+  - so
+  - engrossed
+- - tells
+  - us
+  - about
+- - becoming
+  - so
+  - obsessed
+- - who
+  - now
+  - operates
+- - would
+  - use
+  - winding
+- - very
+  - person
+  - who
+- - so
+  - easily
+  - persuaded
+- - them
+  - may
+  - become
+- - she
+  - uses
+  - some
 story:
   date: 2010-12-14
   id: 2010-12-14-the-teenpersons-guide-to-hooting-yard-part-one

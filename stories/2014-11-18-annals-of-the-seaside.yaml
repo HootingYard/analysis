@@ -8,33 +8,33 @@ ngrams:
 - - yellowing
   - newspaper
   - cuttings
-- - spade
-  - dated
-  - november
 - - lovely
   - wife's
   - rendition
+- - spade
+  - dated
+  - november
 - - partridge
   - memorial
   - variety
-- - lovely
-  - gwendolyn
-  - sang
 - - bucket
   - spade
   - dated
+- - lovely
+  - gwendolyn
+  - sang
+- - miss
+  - blossom
+  - partridge
+- - memorial
+  - variety
+  - theatre
 - - peevish
   - remained
   - thoroughly
 - - remained
   - thoroughly
   - peevish
-- - memorial
-  - variety
-  - theatre
-- - miss
-  - blossom
-  - partridge
 - - lovely
   - wife
   - gwendolyn
@@ -56,24 +56,24 @@ ngrams:
 - - material
   - form
   - emerging
-- - season
-  - variety
-  - show
 - - pipistrelle
   - bat
   - brought
 - - sentimental
   - ballad
   - oh
+- - season
+  - variety
+  - show
 - - thoroughly
   - peevish
   - during
-- - sludge
-  - small
-  - fires
 - - ballad
   - oh
   - bring
+- - sludge
+  - small
+  - fires
 - - magic
   - trick
   - several
@@ -83,24 +83,24 @@ ngrams:
 - - town
   - bucket
   - spade
+- - disappoint
+  - mr
+  - peevish
 - - vanished
   - utterly
   - yet
-- - disappoint
+- - pier
   - mr
   - peevish
 - - mr
   - peevish
   - remained
-- - pier
-  - mr
-  - peevish
-- - great
-  - beast
-  - itself
 - - pointy
   - town
   - bucket
+- - great
+  - beast
+  - itself
 - - surely
   - never
   - witness
@@ -113,9 +113,6 @@ ngrams:
 - - newspaper
   - cuttings
   - such
-- - her
-  - mother's
-  - actual
 - - seaside
   - past
   - those
@@ -131,6 +128,9 @@ ngrams:
 - - our
   - seaside
   - past
+- - her
+  - mother's
+  - actual
 - - piers
   - where
   - once
@@ -140,30 +140,30 @@ ngrams:
 - - bloodstains
   - coughed
   - up
-- - dated
-  - november
-  - your
-- - november
-  - your
-  - correspondent
 - - been
   - largely
   - forgotten
+- - dated
+  - november
+  - your
 - - your
   - correspondent
   - trudged
-- - fires
-  - were
-  - burning
+- - november
+  - your
+  - correspondent
 - - when
   - lovely
   - gwendolyn
 - - their
   - lives
   - later
-- - pier
-  - were
-  - covered
+- - holidaymakers
+  - packed
+  - out
+- - tears
+  - when
+  - lovely
 story:
   date: 2014-11-18
   id: 2014-11-18-annals-of-the-seaside

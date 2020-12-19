@@ -11,6 +11,9 @@ ngrams:
 - - hollywood
   - agents
   - desperate
+- - protagonist
+  - location
+  - literary
 - - portrayed
   - negatively
   - shouting
@@ -20,30 +23,24 @@ ngrams:
 - - numbers
   - growing
   - huger
-- - protagonist
-  - location
-  - literary
 - - previously
   - unknown
   - trench
-- - negatively
-  - shouting
-  - orders
 - - captain's
   - cap
   - maddened
-- - aliens
-  - beings
-  - formed
+- - negatively
+  - shouting
+  - orders
 - - bleached
   - blank
   - playing
 - - actors
   - speaking
   - danish
-- - metal
-  - fatigue
-  - seals
+- - aliens
+  - beings
+  - formed
 - - ted
   - hughes
   - aboard
@@ -53,45 +50,48 @@ ngrams:
 - - wearing
   - chunky
   - knitwear
+- - metal
+  - fatigue
+  - seals
 - - location
   - literary
   - reference
 - - bed
   - wherein
   - billions
-- - wild
-  - card
-  - element
 - - prime
   - suspect
   - early
+- - wild
+  - card
+  - element
 - - hollywood
   - producers
   - sometimes
 - - large
   - flat
   - surface
-- - mind
-  - television
-  - showings
 - - grudge
   - against
   - ted
+- - mind
+  - television
+  - showings
 - - episode
   - television
   - series
-- - passing
-  - second
-  - meanwhile
-- - across
-  - america
-  - wreaking
 - - beelzebub
   - drives
   - across
+- - across
+  - america
+  - wreaking
 - - drives
   - across
   - america
+- - passing
+  - second
+  - meanwhile
 - - without
   - sylvia's
   - enthusiasms
@@ -125,12 +125,12 @@ ngrams:
 - - dives
   - ever
   - deeper
-- - why
-  - bother
-  - writing
 - - difficult
   - well
   - maybe
+- - why
+  - bother
+  - writing
 - - sylvia's
   - enthusiasms
   - being
@@ -155,81 +155,81 @@ ngrams:
 - - atop
   - ted's
   - head
-- - never
-  - actually
-  - attempted
 - - devil
   - drives
   - might
+- - never
+  - actually
+  - attempted
 - - innocent
   - even
   - saintly
 - - television
   - showings
   - where
+- - flat
+  - surface
+  - such
 - - like
   - tom
   - hanks
 - - cards
   - face
   - down
-- - flat
-  - surface
-  - such
-- - someone
-  - like
-  - tom
 - - think
   - why
   - bother
-- - cast
-  - someone
+- - someone
   - like
+  - tom
 - - actually
   - why
   - make
-- - producers
-  - sometimes
-  - like
-- - prove
-  - more
-  - lucrative
 - - might
   - get
   - sodden
+- - prove
+  - more
+  - lucrative
+- - cast
+  - someone
+  - like
 - - zombies
   - seem
   - more
+- - producers
+  - sometimes
+  - like
 - - just
   - go
   - straight
-- - few
-  - years
-  - ago
 - - three
   - groups
   - upon
+- - few
+  - years
+  - ago
 - - thing
   - these
   - days
 - - some
   - interesting
   - literary
-- - third
-  - some
-  - interesting
 - - sylvia
   - every
   - now
-- - has
-  - passed
-  - vampires
+- - third
+  - some
+  - interesting
 - - could
   - also
   - provide
 - - am
   - also
   - bearing
+- - has
+  - passed
+  - vampires
 - - count
   - them
   - already
@@ -242,75 +242,87 @@ ngrams:
 - - little
   - more
   - subtle
-- - plot
-  - some
-  - little
 - - am
   - carried
   - away
-- - every
-  - turn
-  - has
 - - cinemas
   - if
   - ted
-- - water
-  - leaking
-  - into
+- - plot
+  - some
+  - little
+- - every
+  - turn
+  - has
 - - film
   - when
   - surely
 - - ago
   - when
   - hollywood
-- - insert
-  - all
-  - sorts
 - - if
   - ted
   - got
+- - water
+  - leaking
+  - into
+- - insert
+  - all
+  - sorts
 - - drooling
   - their
   - way
-- - some
-  - little
-  - thing
 - - always
   - turns
   - out
-- - somehow
-  - get
-  - into
+- - some
+  - little
+  - thing
 - - needs
   - must
   - when
+- - somehow
+  - get
+  - into
+- - series
+  - would
+  - prove
 - - into
   - three
   - readers
 - - necessitate
   - having
   - all
-- - chunky
-  - knitwear
-  - which
-- - screenplay
-  - which
-  - involves
+- - television
+  - series
+  - would
+- - placed
+  - there
+  - against
 - - licensing
   - deals
   - are
 - - deals
   - are
   - continuously
+- - are
+  - continuously
+  - updated
+- - would
+  - necessitate
+  - having
+- - chunky
+  - knitwear
+  - which
+- - screenplay
+  - which
+  - involves
 - - which
   - beelzebub
   - drives
 - - are
-  - continuously
-  - updated
-- - series
-  - would
-  - prove
+  - ted
+  - hughes
 - - imagining
   - scenes
   - which
@@ -318,59 +330,47 @@ ngrams:
   - she
   - could
 - - are
-  - ted
-  - hughes
-- - television
-  - series
-  - would
-- - placed
-  - there
-  - against
-- - are
   - various
   - possibilities
-- - would
-  - necessitate
-  - having
 - - years
   - ago
   - when
-- - involves
-  - an
-  - underpants
-- - an
-  - underpants
-  - bomber
 - - there
   - actually
   - why
-- - also
-  - aboard
-  - which
-- - their
-  - way
-  - through
-- - don't
-  - know
-  - if
 - - go
   - there
   - actually
 - - an
+  - underpants
+  - bomber
+- - involves
+  - an
+  - underpants
+- - don't
+  - know
+  - if
+- - their
+  - way
+  - through
+- - also
+  - aboard
+  - which
+- - an
   - ice
   - rink
-- - sylvia
-  - plath
-  - this
 - - pick
   - one
   - card
+- - sylvia
+  - plath
+  - this
 - - stowaway
   - crow
   - this
-- - colony
-  - 'no'
-  - 'no'
+- - so
+  - many
+  - frissons
 story:
   date: 2012-05-14
   id: 2012-05-14-on-the-underpants-bomber-the-u-boat-and-ted-and-sylvia

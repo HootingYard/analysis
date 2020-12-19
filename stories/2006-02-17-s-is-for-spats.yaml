@@ -20,33 +20,33 @@ ngrams:
 - - cracked
   - open
   - another
-- - open
-  - another
-  - bottle
 - - make
   - crunching
   - noises
+- - open
+  - another
+  - bottle
 - - did
   - moths
   - fly
 - - hot
   - did
   - moths
-- - meet
-  - her
-  - brandishing
 - - aeroplane
   - hangar
   - then
+- - meet
+  - her
+  - brandishing
+- - brain
+  - hot
+  - did
 - - repeatedly
   - stopping
   - him
 - - difficulty
   - understanding
   - him
-- - brain
-  - hot
-  - did
 - - understanding
   - him
   - eventually
@@ -62,36 +62,36 @@ ngrams:
 - - their
   - tin
   - mugs
+- - moths
+  - fly
+  - about
 - - world
   - has
   - clutched
 - - burdock
   - celebrations
   - were
-- - house
-  - now
-  - after
-- - moths
-  - fly
-  - about
-- - slot
-  - where
-  - she
 - - shoved
   - putty
   - into
-- - then
+- - house
+  - now
+  - after
+- - slot
+  - where
   - she
-  - pushed
 - - beat
   - him
   - over
-- - she
+- - then
+  - she
   - pushed
-  - him
 - - head
   - smashed
   - up
+- - she
+  - pushed
+  - him
 - - him
   - eventually
   - she
@@ -113,9 +113,9 @@ ngrams:
 - - after
   - all
   - those
-- - noises
-  - why
-  - had
+- - returned
+  - from
+  - slot
 story:
   date: 2006-02-17
   id: 2006-02-17-s-is-for-spats

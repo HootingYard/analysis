@@ -17,18 +17,18 @@ ngrams:
 - - ply
   - sinful
   - sailors
-- - north
-  - transept
-  - excavations
-- - north
-  - transept
-  - excavations
 - - excavations
   - digging
   - digging
 - - excavations
   - digging
   - digging
+- - north
+  - transept
+  - excavations
+- - north
+  - transept
+  - excavations
 - - north
   - transept
   - digging
@@ -62,18 +62,18 @@ ngrams:
 - - consecrated
   - church
   - hard
-- - bright
-  - lit
-  - bright
 - - excavations
   - oh
   - excavations
-- - bones
-  - tossed
-  - bones
 - - transept
   - excavations
   - oh
+- - bright
+  - lit
+  - bright
+- - bones
+  - tossed
+  - bones
 - - light
   - excavations
   - digging
@@ -83,14 +83,14 @@ ngrams:
 - - old
   - church
   - st
-- - heretics
-  - dug
-  - up
 - - transept
   - digging
   - up
 - - shovels
   - digging
+  - up
+- - heretics
+  - dug
   - up
 - - digging
   - digging

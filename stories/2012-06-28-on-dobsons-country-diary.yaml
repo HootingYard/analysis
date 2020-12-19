@@ -11,12 +11,12 @@ ngrams:
 - - copses
   - bogs
   - ditches
-- - ditches
-  - rainfall
-  - slurry
 - - coops
   - vanbrugh
   - chickens
+- - ditches
+  - rainfall
+  - slurry
 - - bogs
   - ditches
   - rainfall
@@ -29,24 +29,30 @@ ngrams:
 - - voles
   - spinneys
   - farm
-- - badgers
-  - henbane
-  - hen
 - - vanbrugh
   - chickens
   - puddles
-- - riverbanks
-  - weasels
-  - owls
+- - badgers
+  - henbane
+  - hen
 - - spinneys
   - farm
   - implements
+- - riverbanks
+  - weasels
+  - owls
 - - farm
   - implements
   - tractors
 - - overtired
   - newspaper
   - editor
+- - suitably
+  - rustic
+  - topics
+- - diary
+  - column
+  - seething
 - - puddles
   - ponds
   - linnets
@@ -56,21 +62,12 @@ ngrams:
 - - gas
   - victims
   - incapacitated
-- - suitably
-  - rustic
-  - topics
-- - diary
-  - column
-  - seething
 - - slurry
   - pigs
   - flocks
 - - rainfall
   - slurry
   - pigs
-- - marsh
-  - gas
-  - declared
 - - weasels
   - owls
   - canal
@@ -83,15 +80,15 @@ ngrams:
 - - country
   - diary
   - columnist
-- - included
-  - marsh
-  - gas
 - - marsh
   - gas
-  - marsh
+  - declared
 - - day's
   - country
   - diary
+- - marsh
+  - gas
+  - marsh
 - - country
   - diary
   - column
@@ -101,6 +98,9 @@ ngrams:
 - - country
   - diary
   - correspondent
+- - included
+  - marsh
+  - gas
 - - regular
   - country
   - diary
@@ -110,24 +110,24 @@ ngrams:
 - - gas
   - marsh
   - gas
-- - following
-  - nine
-  - hundred
 - - together
   - sweeping
   - paragraphs
 - - string
   - together
   - sweeping
+- - following
+  - nine
+  - hundred
 - - dobson's
   - country
   - diary
-- - night
-  - farmers
-  - bent
 - - badgers
   - several
   - letters
+- - night
+  - farmers
+  - bent
 - - went
   - spectacularly
   - wrong
@@ -152,18 +152,21 @@ ngrams:
 - - things
   - immediately
   - presented
-- - handsome
-  - volume
-  - most
 - - asked
   - incredulous
   - quite
-- - next
-  - day's
-  - piece
+- - handsome
+  - volume
+  - most
 - - several
   - months
   - later
+- - next
+  - day's
+  - piece
+- - column
+  - began
+  - well
 - - dobson
   - weirdly
   - alert
@@ -173,96 +176,93 @@ ngrams:
 - - seething
   - dobson
   - agreed
-- - column
-  - began
-  - well
-- - rex
-  - tint
-  - dobson
-- - dawn
-  - broke
-  - dobson
 - - space
   - two
   - thousand
-- - dobson
-  - somehow
-  - managed
 - - rather
   - set
   - fire
-- - columns
+- - rex
+  - tint
   - dobson
-  - wrote
-- - went
-  - away
-  - fuming
-- - ear
-  - instead
-  - dobson
-- - majestic
-  - prose
+- - gassed
+  - any
+  - badgers
+- - dawn
+  - broke
   - dobson
 - - course
   - none
   - among
-- - gassed
-  - any
-  - badgers
-- - question
-  - dobson
+- - went
+  - away
+  - fuming
+- - dobson
   - somehow
+  - managed
+- - chap
+  - suggested
+  - than
+- - majestic
+  - prose
+  - dobson
 - - sloped
   - 'off'
   - home
+- - ear
+  - instead
+  - dobson
+- - columns
+  - dobson
+  - wrote
+- - question
+  - dobson
+  - somehow
+- - possible
+  - any
+  - mention
 - - nothing
   - dobson
   - flew
 - - later
   - dobson
   - contacted
-- - chap
-  - suggested
-  - than
-- - months
-  - later
-  - dobson
 - - two
   - thousand
   - words
-- - possible
-  - any
-  - mention
 - - other
   - suitably
   - rustic
 - - came
   - stamping
   - through
+- - months
+  - later
+  - dobson
+- - am
+  - enormously
+  - pleased
 - - last
   - few
   - days
 - - next
   - day
   - friday
-- - am
-  - enormously
-  - pleased
 - - any
   - badgers
   - yet
 - - natural
   - world
   - than
+- - such
+  - things
+  - immediately
 - - enterprising
   - publisher
   - has
 - - publisher
   - has
   - issued
-- - such
-  - things
-  - immediately
 - - some
   - blotting
   - paper
@@ -275,33 +275,24 @@ ngrams:
 - - dobson
   - might
   - want
-- - let
-  - him
-  - loose
 - - 'no'
   - longer
   - required
 - - newspaper
   - 'no'
   - longer
+- - let
+  - him
+  - loose
 - - about
   - voles
   - spinneys
 - - paper
   - among
   - them
-- - been
-  - gathered
-  - together
 - - column
   - about
   - gas
-- - manuscripts
-  - were
-  - hideous
-- - two
-  - first
-  - dobson
 - - daily
   - column
   - about
@@ -314,48 +305,57 @@ ngrams:
 - - gas
   - canisters
   - when
-- - taken
-  - up
-  - instead
+- - been
+  - gathered
+  - together
 - - when
   - dawn
   - broke
-- - commandeered
-  - having
-  - been
-- - paper
-  - taken
+- - manuscripts
+  - were
+  - hideous
+- - taken
   - up
-- - editor
-  - after
-  - some
+  - instead
 - - majestic
   - prose
   - about
 - - avoid
   - if
   - possible
+- - paper
+  - taken
+  - up
+- - commandeered
+  - having
+  - been
+- - editor
+  - after
+  - some
 - - write
   - about
   - thanks
-- - rustic
-  - topics
-  - all
+- - two
+  - first
+  - dobson
 - - readers
   - could
   - know
-- - having
-  - been
-  - taken
+- - rustic
+  - topics
+  - all
 - - words
   - were
   - spiked
-- - after
-  - some
-  - thought
+- - having
+  - been
+  - taken
 - - hard
   - covers
   - we
+- - after
+  - some
+  - thought
 - - been
   - taken
   - away
@@ -368,33 +368,33 @@ ngrams:
 - - spectacularly
   - wrong
   - which
-- - wrong
-  - which
-  - led
-- - now
-  - been
-  - gathered
 - - pastures
   - new
   - there
-- - an
-  - enterprising
-  - publisher
+- - wrong
+  - which
+  - led
 - - incredulous
   - quite
   - so
-- - an
-  - acceptable
-  - topic
+- - now
+  - been
+  - gathered
 - - if
   - possible
   - any
-- - own
-  - desk
-  - which
 - - more
   - much
   - more
+- - an
+  - enterprising
+  - publisher
+- - an
+  - acceptable
+  - topic
+- - am
+  - talking
+  - about
 - - covers
   - we
   - know

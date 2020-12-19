@@ -8,12 +8,12 @@ ngrams:
 - - diarist
   - arab
   - abdul
-- - wing
-  - conservative
-  - mp
 - - acting
   - arab
   - abdul
+- - wing
+  - conservative
+  - mp
 - - retired
   - footballer
   - arab
@@ -29,9 +29,6 @@ ngrams:
 - - database
   - mad
   - crooning
-- - lovecraft
-  - please
-  - submit
 - - mad
   - crooning
   - arab
@@ -44,6 +41,9 @@ ngrams:
 - - arab
   - database
   - mad
+- - lovecraft
+  - please
+  - submit
 - - mad
   - arab
   - abdul
@@ -68,24 +68,24 @@ ngrams:
 - - diminutive
   - mad
   - acting
-- - frizzy
-  - hair
-  - pioneer
-- - mad
-  - arabs
-  - nowhere
-- - neglected
-  - mad
-  - arabs
 - - singer
   - wild
   - frizzy
-- - hair
+- - neglected
+  - mad
+  - arabs
+- - mad
+  - arabs
+  - nowhere
+- - frizzy
+  - hair
   - pioneer
-  - intellectual
 - - show
   - host
   - arab
+- - hair
+  - pioneer
+  - intellectual
 - - chat
   - show
   - host

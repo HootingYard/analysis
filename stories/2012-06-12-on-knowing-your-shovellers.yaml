@@ -5,18 +5,18 @@ ngrams:
 - - novel
   - lionel
   - asbo
-- - countenance
-  - innocent
-  - excitement
-- - sit
-  - bolt
-  - upright
 - - simpleton
   - merely
   - dozing
 - - slow
   - creaking
   - exhausted
+- - countenance
+  - innocent
+  - excitement
+- - sit
+  - bolt
+  - upright
 - - nervous
   - collapse
   - language
@@ -29,6 +29,9 @@ ngrams:
 - - yourself
   - unless
   - impatient
+- - simply
+  - gazing
+  - vacantly
 - - crying
   - dennis
   - dennis
@@ -38,21 +41,18 @@ ngrams:
 - - blister
   - lane
   - bypass
-- - garden
-  - crying
-  - dennis
 - - front
   - garden
   - crying
-- - simply
-  - gazing
-  - vacantly
-- - grave
-  - thus
-  - intended
+- - garden
+  - crying
+  - dennis
 - - supernatural
   - vision
   - key
+- - grave
+  - thus
+  - intended
 - - nervous
   - collapse
   - having
@@ -62,48 +62,48 @@ ngrams:
 - - grief
   - while
   - listening
-- - dennis
-  - dennis
-  - come
-- - new
-  - novel
-  - lionel
 - - yet
   - settled
   - beyond
 - - collapse
   - having
   - seen
-- - indicated
-  - two
-  - types
+- - new
+  - novel
+  - lionel
+- - dennis
+  - dennis
+  - come
 - - sensible
   - new
   - novel
-- - poppet
-  - rushes
-  - back
+- - indicated
+  - two
+  - types
 - - creaking
   - exhausted
   - way
+- - poppet
+  - rushes
+  - back
 - - information
   - thus
   - far
+- - thus
+  - far
+  - available
 - - duck
   - before
   - hoisting
 - - before
   - hoisting
   - yourself
-- - human
-  - communication
-  - through
 - - already
   - rushed
   - back
-- - thus
-  - far
-  - available
+- - human
+  - communication
+  - through
 - - grave
   - just
   - outside
@@ -116,87 +116,90 @@ ngrams:
 - - let
   - us
   - leave
-- - fanatical
-  - ornithologists
-  - she
 - - let
   - us
   - imagine
 - - communication
   - through
   - words
-- - spark
-  - her
-  - excitement
-- - her
-  - countenance
-  - innocent
 - - while
   - still
   - sat
+- - fanatical
+  - ornithologists
+  - she
 - - astonishingly
   - such
   - people
+- - spark
+  - her
+  - excitement
 - - nod
   - then
   - imagine
 - - can
   - airily
   - dismiss
-- - words
-  - let
-  - us
-- - epiphany
-  - can
-  - easily
-- - can
-  - briefly
-  - examine
+- - her
+  - countenance
+  - innocent
 - - can
   - yield
   - significant
-- - very
-  - sensible
-  - new
+- - can
+  - briefly
+  - examine
+- - epiphany
+  - can
+  - easily
 - - very
   - good
   - idea
+- - words
+  - let
+  - us
+- - very
+  - sensible
+  - new
 - - collapse
   - language
   - can
-- - through
-  - words
-  - let
 - - far
   - available
   - even
 - - actually
   - more
   - likely
+- - through
+  - words
+  - let
 - - can
   - become
   - skewed
 - - bird
   - epiphany
   - can
-- - has
-  - already
-  - rushed
 - - language
   - can
   - become
 - - people
   - do
   - exist
-- - poppet
-  - has
-  - already
 - - ornithology
   - plays
   - 'no'
+- - has
+  - already
+  - rushed
+- - poppet
+  - has
+  - already
 - - poppet
   - has
   - seen
+- - plays
+  - 'no'
+  - important
 - - your
   - poppet
   - rushes
@@ -209,15 +212,21 @@ ngrams:
 - - likelihood
   - your
   - poppet
-- - your
-  - poppet
-  - wants
+- - feet
+  - up
+  - listening
 - - cries
   - your
   - poppet
 - - your
+  - poppet
+  - wants
+- - your
   - slow
   - creaking
+- - unexpected
+  - results
+  - what
 - - your
   - poppet
   - spotted
@@ -227,198 +236,189 @@ ngrams:
 - - your
   - lives
   - astonishingly
-- - feet
-  - up
-  - listening
-- - plays
-  - 'no'
-  - important
-- - unexpected
-  - results
-  - what
-- - following
-  - your
-  - poppet
-- - your
-  - front
-  - garden
-- - your
-  - front
-  - garden
-- - your
-  - front
-  - garden
-- - making
-  - your
-  - slow
 - - poppet
   - rushes
   - into
-- - ornithologists
-  - she
-  - may
-- - outside
-  - your
-  - front
 - - gazing
   - vacantly
   - into
-- - talking
-  - about
-  - language
-- - vacantly
-  - into
-  - space
 - - if
   - ornithology
   - plays
+- - following
+  - your
+  - poppet
 - - yield
   - significant
   - if
 - - if
   - unexpected
   - results
-- - conversely
-  - your
-  - home
-- - guesswork
-  - will
-  - avail
-- - 'no'
-  - important
-  - part
 - - significant
   - if
   - unexpected
+- - talking
+  - about
+  - language
+- - making
+  - your
+  - slow
+- - your
+  - front
+  - garden
+- - your
+  - front
+  - garden
+- - your
+  - front
+  - garden
+- - vacantly
+  - into
+  - space
+- - 'no'
+  - important
+  - part
+- - guesswork
+  - will
+  - avail
+- - outside
+  - your
+  - front
 - - hoisting
   - yourself
   - out
-- - nor
-  - your
-  - poppet
-- - about
-  - language
-  - itself
+- - ornithologists
+  - she
+  - may
 - - hoist
   - yourself
   - out
-- - talking
-  - about
-  - note
+- - about
+  - language
+  - itself
+- - conversely
+  - your
+  - home
 - - more
   - likely
   - than
+- - nor
+  - your
+  - poppet
+- - talking
+  - about
+  - note
 - - talking
   - about
   - thus
-- - settled
-  - beyond
-  - all
-- - little
-  - conversely
-  - your
 - - civil
   - engineers
   - there
+- - settled
+  - beyond
+  - all
 - - case
   - guesswork
   - will
-- - beyond
-  - all
-  - doubt
-- - beyond
-  - all
-  - doubt
 - - rushes
   - out
   - again
+- - beyond
+  - all
+  - doubt
+- - beyond
+  - all
+  - doubt
+- - little
+  - conversely
+  - your
 - - such
   - people
   - do
-- - your
-  - armchair
-  - before
 - - front
   - garden
   - would
-- - just
-  - outside
-  - your
-- - are
-  - fanatical
-  - civil
-- - are
-  - fanatical
-  - ornithologists
-- - are
-  - fanatical
-  - ornithologists
-- - poppet
-  - are
-  - fanatical
-- - about
-  - note
-  - too
 - - exhausted
   - way
   - into
-- - before
-  - following
+- - your
+  - armchair
+  - before
+- - about
+  - note
+  - too
+- - are
+  - fanatical
+  - ornithologists
+- - are
+  - fanatical
+  - ornithologists
+- - are
+  - fanatical
+  - civil
+- - poppet
+  - are
+  - fanatical
+- - just
+  - outside
   - your
-- - she
-  - has
-  - seen
 - - rushed
   - back
   - out
-- - your
-  - home
-  - might
-- - example
-  - which
-  - type
-- - being
-  - important
-  - will
-- - both
-  - are
-  - fanatical
-- - both
-  - are
-  - fanatical
-- - an
-  - educated
-  - guess
+- - before
+  - following
+  - your
 - - available
   - even
   - if
-- - into
-  - space
-  - like
+- - your
+  - home
+  - might
+- - being
+  - important
+  - will
 - - even
   - if
   - neither
+- - she
+  - has
+  - seen
+- - both
+  - are
+  - fanatical
+- - both
+  - are
+  - fanatical
+- - example
+  - which
+  - type
+- - an
+  - educated
+  - guess
 - - about
   - thus
   - may
+- - we
+  - might
+  - argue
+- - into
+  - space
+  - like
+- - may
+  - we
+  - calibrate
 - - sometimes
   - people
   - are
-- - has
-  - been
-  - causing
-- - know
-  - beyond
-  - all
-- - your
-  - poppet
-  - has
-- - your
-  - poppet
-  - has
-- - idea
-  - what
-  - she
+- - we
+  - cannot
+  - say
+- - see
+  - we
+  - cannot
+- - excitement
+  - so
+  - much
 story:
   date: 2012-06-12
   id: 2012-06-12-on-knowing-your-shovellers

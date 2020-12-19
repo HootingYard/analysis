@@ -1,22 +1,19 @@
 ngrams:
 - - vanbrugh
-  - '-'
-  - architect
-- - vanbrugh
   - dates
   - uncertain
 - - connoisseurs
   - eagerly
   - sought
+- - vanbrugh
+  - chicken
+  - connoisseurs
 - - chicken
   - connoisseurs
   - eagerly
 - - tidy
   - sums
   - wide
-- - vanbrugh
-  - chicken
-  - connoisseurs
 - - vanbrugh
   - chicken
   - paintings
@@ -26,9 +23,6 @@ ngrams:
 - - john
   - vanbrugh
   - dates
-- - john
-  - vanbrugh
-  - '-'
 - - vanbrugh
   - chicken
   - white
@@ -41,12 +35,18 @@ ngrams:
 - - sir
   - john
   - vanbrugh
-- - historical
-  - sir
-  - john
 - - real
   - historical
   - sir
+- - historical
+  - sir
+  - john
+- - vanbrugh
+  - '-'
+  - architect
+- - john
+  - vanbrugh
+  - '-'
 story:
   date: 2011-09-02
   id: 2011-09-02-the-vanbrugh-chicken

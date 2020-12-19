@@ -29,30 +29,30 @@ ngrams:
 - - guaranteed
   - correct
   - 'no'
-- - been
-  - carefully
-  - researched
-- - wear
-  - your
-  - wristwatch
-- - your
-  - community
-  - hub
 - - correct
   - 'no'
   - longer
-- - hooting
-  - yard
-  - here
+- - been
+  - carefully
+  - researched
+- - your
+  - community
+  - hub
+- - wear
+  - your
+  - wristwatch
 - - crocodiles
   - roam
   - into
-- - yard
-  - can
-  - help
+- - hooting
+  - yard
+  - here
 - - if
   - crocodiles
   - roam
+- - yard
+  - can
+  - help
 - - 'no'
   - longer
   - need
@@ -77,9 +77,6 @@ ngrams:
 - - otters
   - are
   - prevalent
-- - which
-  - model
-  - answers
 - - will
   - hasten
   - away
@@ -89,6 +86,9 @@ ngrams:
 - - are
   - guaranteed
   - correct
+- - which
+  - model
+  - answers
 story:
   date: 2004-12-29
   id: 2004-12-29-online-learning-with-hooting-yard

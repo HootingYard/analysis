@@ -14,18 +14,18 @@ ngrams:
 - - ernest
   - shackleton
   - amy
-- - frederick
-  - converse
-  - herbert
-- - pike
-  - frederick
-  - converse
 - - clips
   - berry
   - lagging
 - - percha
   - rim
   - opalescent
+- - pike
+  - frederick
+  - converse
+- - frederick
+  - converse
+  - herbert
 - - gilt
   - spode
   - handle
@@ -35,12 +35,12 @@ ngrams:
 - - glutinous
   - beads
   - inlaid
-- - base
-  - ivory
-  - fluting
 - - shackleton
   - amy
   - johnson
+- - base
+  - ivory
+  - fluting
 - - villainous
   - scraping
   - marks
@@ -59,36 +59,36 @@ ngrams:
 - - riband
   - nightside
   - opening
-- - karl
-  - alfred
-  - von
-- - johnson
-  - charles
-  - slee
 - - w
   - d
   - snodgrass
+- - d
+  - snodgrass
+  - walter
+- - karl
+  - alfred
+  - von
+- - internal
+  - textual
+  - evidence
+- - johnson
+  - charles
+  - slee
 - - amy
   - johnson
   - charles
 - - sir
   - ernest
   - shackleton
-- - d
-  - snodgrass
-  - walter
-- - internal
-  - textual
-  - evidence
 - - splendid
   - gilt
   - spode
-- - confessor
-  - catherine
-  - de
 - - mystery
   - primrose
   - dent
+- - confessor
+  - catherine
+  - de
 - - dobson's
   - diaries
   - contain
@@ -110,12 +110,12 @@ ngrams:
 - - card
   - placed
   - next
-- - seen
-  - marigold
-  - chew
 - - indescribable
   - gorgeousness
   - well
+- - seen
+  - marigold
+  - chew
 - - team's
   - most
   - recent
@@ -146,15 +146,21 @@ ngrams:
 - - most
   - beautiful
   - thing
+- - dates
+  - where
+  - possible
 - - let
   - us
   - pack
 - - ever
   - seen
   - marigold
-- - dates
-  - where
-  - possible
+- - past
+  - several
+  - years
+- - flew
+  - away
+  - away
 - - her
   - jotting
   - pad
@@ -164,12 +170,6 @@ ngrams:
 - - outing
   - she
   - cried
-- - hike
-  - she
-  - added
-- - flew
-  - away
-  - away
 story:
   date: 2013-01-05
   id: 2013-01-05-dobsons-diary-5-1-58

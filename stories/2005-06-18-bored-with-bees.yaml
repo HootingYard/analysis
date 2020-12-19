@@ -2,12 +2,12 @@ ngrams:
 - - carpeting
   - underneath
   - upholstered
-- - underneath
-  - upholstered
-  - furniture
 - - materials
   - besides
   - carpets
+- - underneath
+  - upholstered
+  - furniture
 - - conference
   - trailing
   - befuddlement
@@ -32,39 +32,39 @@ ngrams:
 - - wool
   - furs
   - silk
-- - towers
-  - tannoy
-  - system
-- - press
-  - conference
-  - trailing
-- - silence
-  - carpet
-  - beetles
 - - persons
   - wept
   - openly
-- - dark
-  - undisturbed
-  - areas
+- - silence
+  - carpet
+  - beetles
+- - press
+  - conference
+  - trailing
+- - towers
+  - tannoy
+  - system
 - - statement
   - released
   - yesterday
-- - exciting
-  - carpet
-  - beetle
-- - watergate
-  - building
-  - bees
+- - dark
+  - undisturbed
+  - areas
 - - eerie
   - silence
   - carpet
-- - frantic
-  - bee
-  - persons
 - - bee
   - persons
   - wept
+- - exciting
+  - carpet
+  - beetle
+- - frantic
+  - bee
+  - persons
+- - watergate
+  - building
+  - bees
 - - silk
   - feathers
   - felt
@@ -110,27 +110,27 @@ ngrams:
 - - said
   - carpet
   - beetles
+- - undisturbed
+  - areas
+  - such
+- - many
+  - different
+  - species
+- - any
+  - item
+  - composed
 - - pansy
   - said
   - carpet
 - - enthusiasm
   - pansy
   - said
-- - many
-  - different
-  - species
-- - bees
-  - said
-  - pansy
-- - any
-  - item
-  - composed
-- - undisturbed
-  - areas
-  - such
 - - where
   - frantic
   - bee
+- - attack
+  - any
+  - item
 story:
   date: 2005-06-18
   id: 2005-06-18-bored-with-bees

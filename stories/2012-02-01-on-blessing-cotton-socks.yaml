@@ -20,12 +20,12 @@ ngrams:
 - - thing's
   - cotton
   - socks
-- - blessing
-  - cotton
-  - socks
 - - somewhat
   - clunky
   - bless
+- - blessing
+  - cotton
+  - socks
 - - what's
   - cotton
   - socks
@@ -35,12 +35,12 @@ ngrams:
 - - cotton
   - socks
   - ah
-- - live
-  - album
-  - bless
 - - ancestors
   - wrapped
   - various
+- - live
+  - album
+  - bless
 - - wrapped
   - various
   - materials
@@ -62,12 +62,12 @@ ngrams:
 - - order
   - individually
   - 'yes'
-- - jethro
-  - tull
-  - called
 - - ah
   - often
   - precedes
+- - jethro
+  - tull
+  - called
 - - speech
   - ah
   - often
@@ -83,9 +83,6 @@ ngrams:
 - - without
   - giving
   - careful
-- - placed
-  - parentheses
-  - around
 - - cotton
   - socks
   - came
@@ -95,18 +92,21 @@ ngrams:
 - - apparent
   - purpose
   - without
-- - various
-  - materials
+- - placed
+  - parentheses
   - around
 - - ah
   - also
   - comes
-- - socks
-  - sometimes
-  - given
+- - various
+  - materials
+  - around
 - - pretty
   - far
   - advanced
+- - socks
+  - sometimes
+  - given
 - - fool
   - mr
   - anderson
@@ -143,15 +143,15 @@ ngrams:
 - - cotton
   - socks
   - only
-- - parentheses
-  - around
-  - little
-- - scratchy
-  - fabric
-  - now
 - - oh
   - our
   - ancestors
+- - scratchy
+  - fabric
+  - now
+- - parentheses
+  - around
+  - little
 - - fool
   - let
   - us
@@ -161,9 +161,12 @@ ngrams:
 - - album
   - bless
   - its
-- - bless
-  - cotton
-  - her
+- - very
+  - rarely
+  - given
+- - say
+  - ah
+  - because
 - - bless
   - its
   - pointed
@@ -173,12 +176,6 @@ ngrams:
 - - its
   - cotton
   - socks
-- - say
-  - ah
-  - because
-- - very
-  - rarely
-  - given
 - - don't
   - know
   - possibly
@@ -191,9 +188,9 @@ ngrams:
 - - upon
   - further
   - reflection
-- - scribbling
-  - some
-  - drivel
+- - bless
+  - cotton
+  - her
 - - socks
   - rather
   - than
@@ -203,126 +200,129 @@ ngrams:
 - - us
   - just
   - accept
-- - around
-  - little
-  - because
-- - pointed
-  - little
-  - head
+- - scribbling
+  - some
+  - drivel
 - - wonder
   - how
   - many
+- - pointed
+  - little
+  - head
+- - around
+  - little
+  - because
 - - being
   - shortly
   - after
 - - cobble
   - together
   - some
-- - socks
-  - only
-  - very
-- - only
-  - very
-  - rarely
 - - endlessly
   - day
   - after
-- - its
-  - little
-  - cotton
-- - its
-  - little
-  - cotton
+- - only
+  - very
+  - rarely
+- - socks
+  - only
+  - very
 - - 'no'
   - cotton
   - socks
-- - its
-  - little
-  - socks
-- - let
-  - us
-  - just
-- - her
-  - little
-  - cotton
-- - her
-  - little
-  - cotton
-- - its
-  - pointed
-  - little
-- - keep
-  - them
-  - warm
-- - 'no'
-  - apparent
-  - purpose
 - - late
   - than
   - never
+- - keep
+  - them
+  - warm
 - - words
   - before
   - well
+- - let
+  - us
+  - just
+- - its
+  - little
+  - cotton
+- - its
+  - little
+  - cotton
+- - 'no'
+  - apparent
+  - purpose
+- - its
+  - little
+  - socks
 - - far
   - more
   - interest
-- - sources
-  - who
-  - shall
-- - 'yes'
-  - broken
-  - up
-- - very
-  - first
-  - words
+- - its
+  - pointed
+  - little
 - - little
   - head
   - though
-- - tootsies
-  - were
-  - ensconced
-- - who
+- - sources
+  - who
   - shall
-  - remain
+- - very
+  - first
+  - words
+- - 'yes'
+  - broken
+  - up
+- - her
+  - little
+  - cotton
+- - her
+  - little
+  - cotton
 - - interesting
   - christ
   - what
 - - pell
   - mell
   - into
+- - who
+  - shall
+  - remain
 - - absolutely
   - 'no'
   - idea
+- - tootsies
+  - were
+  - ensconced
 - - cotton
   - socks
   - were
 - - around
   - their
   - tootsies
-- - materials
-  - around
-  - their
 - - stuff
   - out
   - endlessly
-- - whose
-  - tootsies
-  - were
-- - times
-  - when
-  - civilization
+- - materials
+  - around
+  - their
 - - head
   - though
   - even
+- - times
+  - when
+  - civilization
 - - recent
   - times
   - when
-- - bless
-  - their
-  - little
+- - whose
+  - tootsies
+  - were
 - - only
   - use
   - more
+- - bless
+  - their
+  - little
 story:
   date: 2012-02-01
   id: 2012-02-01-on-blessing-cotton-socks

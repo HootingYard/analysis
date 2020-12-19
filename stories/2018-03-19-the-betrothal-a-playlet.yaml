@@ -2,12 +2,12 @@ ngrams:
 - - suitor
   - ian
   - anderson
-- - okay
-  - ian
-  - laughing
 - - ian
   - anderson
   - minstrel
+- - okay
+  - ian
+  - laughing
 - - ian
   - anderson
   - ian
@@ -20,21 +20,21 @@ ngrams:
 - - son
   - andrew
   - crestfallen
+- - enter
+  - ian
+  - anderson
 - - glittering
   - thespian
   - career
+- - thespian
+  - career
+  - ian
 - - hello
   - papa
   - andrew
 - - papa
   - andrew
   - hello
-- - thespian
-  - career
-  - ian
-- - enter
-  - ian
-  - anderson
 - - andrew
   - lincoln
   - born
@@ -44,39 +44,39 @@ ngrams:
 - - papa
   - andrew
   - thank
-- - andrew
-  - crestfallen
-  - i'm
-- - com
-  - sir
-  - ian
 - - approach
   - enter
   - ian
+- - com
+  - sir
+  - ian
+- - andrew
+  - crestfallen
+  - i'm
 - - anderson
   - minstrel
   - father
-- - rock
-  - band
-  - andrew
 - - dot
   - com
   - sir
+- - rock
+  - band
+  - andrew
 - - dark
   - cloud
   - passes
 - - poor
   - sweet
   - child
-- - preposterous
-  - since
-  - crest
 - - andrew
   - oh
   - okay
 - - oh
   - okay
   - ian
+- - preposterous
+  - since
+  - crest
 - - walking
   - dead
   - ian
@@ -95,12 +95,12 @@ ngrams:
 - - sir
   - ian
   - let
-- - soon
-  - enough
-  - hark
 - - confusing
   - mr
   - clutterbuck
+- - soon
+  - enough
+  - hark
 - - sonny
   - andrew
   - well
@@ -128,15 +128,15 @@ ngrams:
 - - summer's
   - day
   - sonny
-- - dead
-  - every
-  - week
-- - day
-  - sonny
-  - andrew
 - - cloud
   - passes
   - over
+- - day
+  - sonny
+  - andrew
+- - dead
+  - every
+  - week
 - - lovely
   - summer's
   - day
@@ -146,12 +146,12 @@ ngrams:
 - - let
   - us
   - celebrate
-- - clutterbuck
-  - her
-  - suitor
-- - andrew
-  - clutterbuck
-  - her
+- - other
+  - special
+  - skills
+- - am
+  - andrew
+  - lincoln
 story:
   date: 2018-03-19
   id: 2018-03-19-the-betrothal-a-playlet

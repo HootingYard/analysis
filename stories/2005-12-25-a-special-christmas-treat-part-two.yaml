@@ -1,43 +1,58 @@
 ngrams:
+- - active
+  - terrorist
+  - cell
+- - decent
+  - muslim
+  - funeral
+- - revealing
+  - booster
+  - technology
 - - surgical
   - scar
+  - lothar
+- - impending
+  - terrorist
+  - action
+- - suicide
+  - bombing
+  - pal
+- - suicide
+  - bombing
+  - lothar
+- - terrorist
+  - cell
   - lothar
 - - hatch
   - flashback
   - lothar
-- - active
-  - terrorist
-  - cell
-- - terrorist
-  - cell
-  - lothar
-- - suicide
-  - bombing
-  - lothar
+- - female
+  - cia
+  - agent
+- - crushed
+  - sleeping
+  - pills
 - - plane
   - flashback
   - lothar
 - - plane
   - flashback
   - lothar
-- - flashback
-  - lothar
-  - preen
-- - flashback
-  - lothar
-  - preen
-- - flashback
-  - lothar
-  - preen
-- - flashback
-  - lothar
-  - preen
+- - looks
+  - preternaturally
+  - calm
 - - lothar
   - preen
   - angrily
 - - lothar
   - preen
   - launches
+- - lothar
+  - preen
+  - agrees
+- - lothar
+  - preen
+  - assures
 - - bombing
   - lothar
   - preen
@@ -49,286 +64,277 @@ ngrams:
   - preen
 - - lothar
   - preen
-  - assures
+  - removes
 - - lothar
   - preen
   - joins
 - - lothar
   - preen
-  - agrees
-- - lothar
-  - preen
-  - removes
-- - impending
-  - terrorist
-  - action
-- - lothar
-  - preen
   - whimpers
-- - decent
-  - muslim
-  - funeral
-- - suicide
-  - bombing
-  - pal
-- - revealing
-  - booster
-  - technology
 - - spits
   - lothar
   - preen
 - - lothar
   - preen
   - she's
+- - lothar
+  - preen
+  - reveals
+- - flashback
+  - lothar
+  - preen
+- - flashback
+  - lothar
+  - preen
+- - flashback
+  - lothar
+  - preen
+- - flashback
+  - lothar
+  - preen
+- - shoot
+  - lothar
+  - preen
 - - warehouse
   - lothar
   - preen
 - - lothar
   - preen
-  - reveals
-- - shoot
-  - lothar
-  - preen
-- - lothar
-  - preen
   - puts
-- - cell
-  - lothar
-  - preen
-- - lothar
-  - preen
-  - asks
-- - enraged
-  - lothar
-  - preen
 - - shirt
   - lothar
   - preen
-- - lothar
-  - preen
-  - arrives
-- - lothar
-  - preen
-  - finds
-- - lothar
-  - preen
-  - wants
-- - female
-  - cia
-  - agent
-- - plane
+- - enraged
   - lothar
   - preen
-- - crushed
-  - sleeping
-  - pills
-- - knocked
-  - lothar
-  - preen
-- - lothar
-  - preen
-  - unconscious
-- - looks
-  - preternaturally
-  - calm
-- - lothar
-  - preen
-  - tells
-- - gives
-  - lothar
-  - preen
-- - gubbins
-  - lothar
-  - preen
-- - forest
+- - cell
   - lothar
   - preen
 - - park
   - pal
   - reveals
-- - follow
+- - lothar
+  - preen
+  - finds
+- - lothar
+  - preen
+  - asks
+- - lothar
+  - preen
+  - arrives
+- - lothar
+  - preen
+  - unconscious
+- - knocked
+  - lothar
+  - preen
+- - lothar
+  - preen
+  - wants
+- - plane
+  - lothar
+  - preen
+- - loud
+  - screechy
+  - soul
+- - gives
+  - lothar
+  - preen
+- - lothar
+  - preen
+  - tells
+- - forest
   - lothar
   - preen
 - - bombing
   - pal
   - says
-- - yesterday
-  - lothar
-  - preen
-- - lothar
-  - preen
-  - says
-- - loud
-  - screechy
-  - soul
-- - feet
-  - enraged
-  - lothar
 - - hoon
   - park
   - pal
-- - preen
-  - agrees
-  - mrs
-- - gubbins
-  - raft
-  - building
-- - can't
-  - follow
-  - lothar
-- - preen
-  - says
-  - he's
-- - clearly
-  - lothar
-  - preen
 - - tongs
   - secret
   - service
+- - follow
+  - lothar
+  - preen
+- - gubbins
+  - lothar
+  - preen
+- - feet
+  - enraged
+  - lothar
+- - can't
+  - follow
+  - lothar
+- - yesterday
+  - lothar
+  - preen
+- - secret
+  - service
+  - agent
+- - republican
+  - guard
+  - it's
+- - special
+  - christmas
+  - treat
+- - prayers
+  - outside
+  - lothar
+- - gosh
+  - it's
+  - tense
+- - gubbins
+  - raft
+  - building
+- - sleep
+  - joost
+  - van
+- - lothar
+  - preen
+  - says
+- - beach
+  - solemn
+  - music
+- - clearly
+  - lothar
+  - preen
+- - preen
+  - says
+  - he's
+- - preen
+  - agrees
+  - mrs
+- - wife
+  - apparently
+  - died
+- - lie
+  - yells
+  - mrs
+- - bespectacled
+  - fictional
+  - athlete
 - - lothar
   - preen
   - using
+- - screechy
+  - soul
+  - song
+- - agrees
+  - mrs
+  - gubbins
 - - soulful
   - mrs
   - gubbins
 - - yells
   - mrs
   - gubbins
-- - agrees
-  - mrs
-  - gubbins
-- - lie
-  - yells
-  - mrs
-- - secret
-  - service
-  - agent
-- - sleep
-  - joost
-  - van
-- - prayers
-  - outside
-  - lothar
-- - mrs
-  - gubbins
-  - raft
-- - republican
-  - guard
-  - it's
-- - mrs
-  - gubbins
-  - lothar
-- - asks
-  - mrs
-  - gubbins
-- - preen
-  - wants
-  - blodgett
-- - beach
-  - solemn
-  - music
-- - special
-  - christmas
-  - treat
 - - outside
   - lothar
   - preen
-- - gosh
-  - it's
-  - tense
-- - blodgett
-  - gives
-  - lothar
-- - wife
-  - apparently
-  - died
-- - preen
-  - tells
-  - blodgett
-- - bespectacled
-  - fictional
-  - athlete
-- - tells
-  - mrs
-  - gubbins
-- - mistake
-  - blodgett
-  - gives
-- - screechy
-  - soul
-  - song
-- - meaningful
-  - holding
-  - hands
-- - looking
-  - soulful
-  - mrs
 - - light
   - revealing
   - booster
-- - appeared
-  - yesterday
-  - lothar
+- - meaningful
+  - holding
+  - hands
 - - featuring
   - light
   - revealing
+- - mrs
+  - gubbins
+  - raft
+- - asks
+  - mrs
+  - gubbins
 - - you're
   - either
   - running
 - - product
   - featuring
   - light
+- - preen
+  - wants
+  - blodgett
+- - mistake
+  - blodgett
+  - gives
+- - mrs
+  - gubbins
+  - lothar
+- - appeared
+  - yesterday
+  - lothar
+- - blodgett
+  - gives
+  - lothar
 - - thinking
   - clearly
   - lothar
 - - guard
   - it's
   - seven
-- - near
+- - looking
+  - soulful
+  - mrs
+- - tells
   - mrs
   - gubbins
 - - scene
   - gosh
   - it's
+- - preen
+  - tells
+  - blodgett
 - - collect
   - what's
   - left
 - - pal
   - whose
   - wife
-- - dobson's
-  - blood
-  - sugar
-- - marigold
-  - chew
-  - flashback
-- - wobbly
-  - marigold
-  - chew
-- - predicament
-  - marigold
-  - chew
-- - ago
-  - lothar
-  - preen
-- - smiles
-  - night
-  - ie
-- - whose
-  - wife
-  - apparently
-- - service
-  - agent
-  - tell
 - - christmas
   - treat
   - part
+- - smiles
+  - night
+  - ie
+- - dobson's
+  - blood
+  - sugar
+- - wobbly
+  - marigold
+  - chew
+- - service
+  - agent
+  - tell
 - - under
   - military
   - arrest
-- - blodgett
-  - says
-  - various
+- - predicament
+  - marigold
+  - chew
+- - marigold
+  - chew
+  - flashback
+- - near
+  - mrs
+  - gubbins
+- - ago
+  - lothar
+  - preen
+- - whose
+  - wife
+  - apparently
+- - put
+  - crushed
+  - sleeping
+- - since
+  - you're
+  - either
+- - having
+  - knocked
+  - lothar
 - - hoon
   - marigold
   - chew
@@ -338,252 +344,246 @@ ngrams:
 - - lie
   - marigold
   - chew
-- - put
-  - crushed
-  - sleeping
-- - having
-  - knocked
-  - lothar
-- - since
-  - you're
-  - either
+- - blodgett
+  - says
+  - various
 - - weeks
   - ago
   - lothar
-- - another
-  - lothar
-  - preen
 - - preen
   - launches
   - himself
 - - eyebrows
   - again
   - lothar
+- - another
+  - lothar
+  - preen
 - - pals
   - hanging
   - around
-- - again
-  - lothar
-  - preen
-- - baby
-  - tiny
-  - enid
-- - instead
-  - aha
-  - night
 - - preen
   - though
   - mysteriously
+- - baby
+  - tiny
+  - enid
+- - again
+  - lothar
+  - preen
+- - instead
+  - aha
+  - night
 - - fast
   - asleep
   - every
-- - doesn't
-  - work
-  - blodgett
-- - sea
-  - blodgett
-  - says
 - - arrives
   - still
   - soaked
-- - still
-  - lothar
-  - preen
 - - course
   - looks
   - preternaturally
-- - asks
-  - blodgett
-  - why
 - - new
   - product
   - featuring
-- - thrilling
-  - new
-  - drama
+- - sea
+  - blodgett
+  - says
+- - doesn't
+  - work
+  - blodgett
+- - still
+  - lothar
+  - preen
 - - bombing
   - somewhere
   - while
+- - thrilling
+  - new
+  - drama
+- - asks
+  - blodgett
+  - why
+- - run
+  - away
+  - he'll
 - - marigold
   - chew
   - people
-- - find
-  - mrs
-  - gubbins
-- - blodgett
-  - arrives
-  - still
-- - while
-  - mrs
-  - gubbins
 - - too
   - wobbly
   - marigold
 - - most
   - splendid
   - beard
-- - run
-  - away
-  - he'll
-- - hero
-  - dobson
-  - loses
-- - vanished
-  - dobson
-  - assumes
-- - new
-  - drama
-  - blodgett
-- - last
-  - second
-  - turns
+- - find
+  - mrs
+  - gubbins
+- - blodgett
+  - arrives
+  - still
 - - scampering
   - desperately
   - through
-- - exhausted
-  - desperate
-  - dobson
-- - marigold
-  - chew
-  - come
-- - preen
-  - unconscious
-  - just
+- - while
+  - mrs
+  - gubbins
+- - last
+  - second
+  - turns
+- - new
+  - drama
+  - blodgett
 - - first
   - advert
   - break
-- - nods
-  - 'off'
-  - blodgett
 - - either
   - running
   - away
-- - dobson
-  - assumes
-  - blodgett
-- - away
-  - he'll
-  - give
+- - preen
+  - unconscious
+  - just
+- - hero
+  - dobson
+  - loses
 - - travelling
   - ever
   - since
-- - others
-  - pull
+- - away
+  - he'll
+  - give
+- - marigold
+  - chew
+  - come
+- - vanished
   - dobson
+  - assumes
 - - island
   - after
   - surviving
 - - few
   - weeks
   - ago
-- - head
-  - lothar
-  - preen
-- - head
-  - lothar
-  - preen
 - - ever
   - since
   - you're
-- - desperate
+- - head
+  - lothar
+  - preen
+- - head
+  - lothar
+  - preen
+- - exhausted
+  - desperate
   - dobson
-  - marigold
+- - nods
+  - 'off'
+  - blodgett
 - - aha
   - night
   - still
-- - night
-  - still
-  - lothar
-- - dobson
-  - i'm
-  - looking
-- - treat
-  - part
-  - two
-- - it's
-  - seven
-  - years
 - - mysterious
   - island
   - after
-- - blodgett
-  - dobson
-  - goes
+- - night
+  - still
+  - lothar
+- - it's
+  - seven
+  - years
 - - after
   - prayers
   - outside
-- - head
-  - blodgett
-  - explains
-- - seven
-  - years
-  - since
+- - others
+  - pull
+  - dobson
+- - treat
+  - part
+  - two
 - - minutes
   - before
   - calling
+- - seven
+  - years
+  - since
+- - head
+  - blodgett
+  - explains
+- - dobson
+  - assumes
+  - blodgett
+- - something
+  - 'yes'
+  - indeed
 - - first
   - appeared
   - yesterday
+- - desperate
+  - dobson
+  - marigold
+- - looking
+  - very
+  - deep
+- - dobson
+  - i'm
+  - looking
+- - day
+  - instead
+  - aha
+- - blodgett
+  - dobson
+  - goes
+- - upon
+  - exhausted
+  - desperate
+- - tack
+  - look
+  - after
+- - forest
+  - where
+  - mrs
+- - walks
+  - away
+  - while
+- - our
+  - best
+  - chance
+- - where
+  - mrs
+  - gubbins
 - - dobson
   - marigold
   - chew
 - - marigold
   - chew
   - dobson
-- - looking
-  - very
-  - deep
-- - something
-  - 'yes'
-  - indeed
-- - day
-  - instead
-  - aha
-- - around
-  - dobson
-  - wakes
-- - tack
-  - look
-  - after
-- - she
-  - shoot
-  - lothar
-- - where
-  - mrs
-  - gubbins
-- - forest
-  - where
-  - mrs
-- - our
-  - best
-  - chance
-- - preen
-  - finds
-  - her
-- - walks
-  - away
-  - while
-- - religious
-  - painting
-  - she
-- - finds
-  - her
-  - pointing
-- - upon
+- - comes
+  - upon
   - exhausted
-  - desperate
 - - those
   - eyebrows
   - again
+- - around
+  - dobson
+  - wakes
 - - world
   - after
   - prayers
 - - she
-  - shoots
-  - blodgett
+  - shoot
+  - lothar
+- - religious
+  - painting
+  - she
 - - away
   - while
   - mrs
+- - finds
+  - her
+  - pointing
+- - sits
+  - down
+  - next
 story:
   date: 2005-12-25
   id: 2005-12-25-a-special-christmas-treat-part-two

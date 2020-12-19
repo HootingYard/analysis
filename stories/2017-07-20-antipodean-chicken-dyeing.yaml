@@ -11,12 +11,12 @@ ngrams:
 - - matthew
   - mark
   - luke
-- - useful
-  - recurring
-  - character
 - - various
   - doings
   - recounted
+- - useful
+  - recurring
+  - character
 - - john
   - paul
   - george
@@ -26,33 +26,33 @@ ngrams:
 - - list
   - john
   - paul
-- - doings
-  - recounted
-  - here
 - - chickens
   - long
   - ago
-- - man
-  - called
-  - dave
+- - doings
+  - recounted
+  - here
 - - might
   - list
   - john
+- - man
+  - called
+  - dave
 - - shall
   - see
   - oh
 - - those
-  - chickens
-  - long
-- - those
   - names
   - without
-- - rattle
-  - 'off'
-  - those
+- - those
+  - chickens
+  - long
 - - names
   - without
   - even
+- - rattle
+  - 'off'
+  - those
 - - 'off'
   - those
   - names
@@ -86,12 +86,12 @@ ngrams:
 - - hooting
   - yard
   - we
+- - or
+  - matthew
+  - mark
 - - this
   - regard
   - perhaps
-- - they
-  - can
-  - rattle
 story:
   date: 2017-07-20
   id: 2017-07-20-antipodean-chicken-dyeing

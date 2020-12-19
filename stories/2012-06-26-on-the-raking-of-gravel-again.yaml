@@ -29,15 +29,15 @@ ngrams:
 - - fantastic
   - beat
   - combos
-- - beat
-  - combos
-  - playing
-- - sumner
-  - tribute
-  - band
 - - argumentative
   - improv
   - version
+- - sumner
+  - tribute
+  - band
+- - beat
+  - combos
+  - playing
 - - week's
   - teenage
   - pop
@@ -47,36 +47,33 @@ ngrams:
 - - german
   - improv
   - group
-- - week's
-  - issue
-  - regarding
 - - overexcited
   - teenage
   - persons
+- - week's
+  - issue
+  - regarding
 - - tribute
   - band
   - level
-- - studio
-  - mosh
-  - pit
-- - studio
-  - mosh
-  - pit
 - - song
   - collector
   - cecil
-- - combos
-  - playing
-  - including
-- - pop
-  - press
-  - reads
-- - wolves
-  - howling
-  - magazine
+- - studio
+  - mosh
+  - pit
+- - studio
+  - mosh
+  - pit
 - - mosh
   - pit
   - wherein
+- - pop
+  - press
+  - reads
+- - combos
+  - playing
+  - including
 - - teenage
   - pop
   - press
@@ -86,42 +83,45 @@ ngrams:
 - - teenage
   - pop
   - press
-- - following
-  - week's
-  - teenage
 - - teenage
   - pop
   - television
 - - teenage
   - pop
   - television
+- - wolves
+  - howling
+  - magazine
 - - response
   - dear
+  - teenage
+- - following
+  - week's
   - teenage
 - - folk
   - song
   - collector
-- - dear
-  - teenage
-  - pop
-- - dear
-  - teenage
-  - pop
 - - smash
   - hit
   - song
-- - following
-  - week's
-  - issue
 - - pop
   - television
   - shows
-- - canal
-  - towpath
-  - near
+- - dear
+  - teenage
+  - pop
+- - dear
+  - teenage
+  - pop
 - - white
   - television
   - screens
+- - following
+  - week's
+  - issue
+- - canal
+  - towpath
+  - near
 - - towpath
   - near
   - fields
@@ -140,12 +140,12 @@ ngrams:
 - - letter
   - yesterday
   - evening
-- - eye
-  - whose
-  - chief
 - - whatever
   - further
   - wonders
+- - eye
+  - whose
+  - chief
 - - shift
   - around
   - gravel
@@ -155,21 +155,21 @@ ngrams:
 - - week's
   - issue
   - came
-- - yet
-  - snug
-  - hovel
 - - mosh
   - pit
   - rather
+- - yet
+  - snug
+  - hovel
 - - hero
   - inside
   - myself
-- - last
-  - week's
-  - issue
 - - tad
   - too
   - elderly
+- - last
+  - week's
+  - issue
 - - family
   - gathered
   - around
@@ -182,21 +182,21 @@ ngrams:
 - - camera
   - cut
   - away
-- - elderly
-  - man
-  - weird
-- - elderly
-  - man
-  - weird
-- - elderly
-  - man
-  - weird
 - - shovel
   - ever
   - since
 - - before
   - het
   - internet
+- - elderly
+  - man
+  - weird
+- - elderly
+  - man
+  - weird
+- - elderly
+  - man
+  - weird
 - - inside
   - myself
   - until
@@ -215,12 +215,12 @@ ngrams:
 - - wolves
   - did
   - indeed
-- - some
-  - fantastic
-  - beat
 - - pit
   - rather
   - than
+- - some
+  - fantastic
+  - beat
 - - rake
   - who
   - appeared
@@ -242,135 +242,135 @@ ngrams:
 - - do
   - every
   - week
+- - electrified
+  - fence
+  - when
 - - grounds
   - were
   - strewn
 - - improv
   - group
   - were
-- - your
-  - correspondent
-  - saw
-- - electrified
-  - fence
-  - when
-- - person
-  - your
-  - correspondent
 - - persons
   - were
   - cavorting
 - - teenage
   - persons
   - were
+- - their
+  - sleeves
+  - though
 - - wolves
   - will
   - howl
+- - your
+  - correspondent
+  - saw
+- - person
+  - your
+  - correspondent
+- - hear
+  - if
+  - wolves
+- - band
+  - shouting
+  - out
 - - been
   - described
   - both
 - - group
   - were
   - making
-- - their
-  - sleeves
-  - though
-- - band
-  - shouting
-  - out
 - - down
   - some
   - unexpected
-- - hear
-  - if
-  - wolves
 - - all
   - available
   - documentation
-- - studied
-  - all
-  - available
 - - am
   - now
   - waiting
+- - studied
+  - all
+  - available
 - - intriguing
   - thing
   - when
-- - those
-  - who
-  - saw
 - - television
   - show
   - there
+- - those
+  - who
+  - saw
 - - would
   - take
   - issue
-- - an
-  - argumentative
-  - improv
 - - rather
   - than
   - up
 - - an
   - argumentative
-  - interview
+  - improv
 - - words
   - are
   - recited
-- - its
-  - grounds
-  - were
+- - an
+  - argumentative
+  - interview
 - - an
   - army
   - firing
 - - spotted
   - an
   - elderly
+- - its
+  - grounds
+  - were
 - - devised
   - an
   - argumentative
 - - an
   - electrified
   - fence
+- - so
+  - far
+  - unable
+- - reads
+  - one
+  - typical
 - - moment
   - after
   - all
-- - reasons
-  - which
-  - again
 - - gave
   - an
   - argumentative
 - - haircut
   - gave
   - an
-- - who
-  - saw
-  - him
-- - reads
-  - one
-  - typical
-- - show
-  - an
-  - elderly
-- - led
-  - me
-  - down
-- - so
-  - far
-  - unable
 - - gravel
   - inevitably
   - this
 - - press
   - reads
   - one
+- - show
+  - an
+  - elderly
 - - one
   - leg
   - playing
+- - reasons
+  - which
+  - again
+- - led
+  - me
+  - down
 - - inevitably
   - this
   - shot
+- - who
+  - saw
+  - him
 - - one
   - typical
   - letter
@@ -386,12 +386,12 @@ ngrams:
 - - one
   - eye
   - holding
-- - were
-  - some
-  - fantastic
 - - up
   - their
   - sleeves
+- - were
+  - some
+  - fantastic
 story:
   date: 2012-06-26
   id: 2012-06-26-on-the-raking-of-gravel-again

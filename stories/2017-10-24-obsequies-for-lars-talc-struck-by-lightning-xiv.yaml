@@ -2,51 +2,48 @@ ngrams:
 - - lasciviousness
   - tunics
   - spigots
-- - fanfares
-  - dampness
-  - bauxite
 - - dribble
   - fanfares
   - dampness
 - - cranks
   - floozies
   - doppelgangers
+- - fanfares
+  - dampness
+  - bauxite
 - - hedgerows
   - banisters
   - carpets
-- - carpets
-  - hinges
-  - remembrance
 - - lint
   - cranks
   - floozies
-- - banisters
-  - carpets
-  - hinges
 - - anecdotes
   - bluster
   - gabble
-- - gutted
-  - huts
-  - linctus
-- - custard
-  - dribble
-  - fanfares
-- - huts
-  - linctus
-  - slithered
-- - shipwreck
-  - curtains
-  - exile
+- - carpets
+  - hinges
+  - remembrance
+- - banisters
+  - carpets
+  - hinges
 - - exile
   - frost
   - balconies
 - - incandescence
   - autumn
   - shipwreck
+- - gutted
+  - huts
+  - linctus
+- - shipwreck
+  - curtains
+  - exile
 - - fluting
   - tones
   - equal
+- - huts
+  - linctus
+  - slithered
 - - morse
   - code
   - baffled
@@ -59,27 +56,33 @@ ngrams:
 - - dampness
   - bauxite
   - trousers
+- - funeral
+  - schedule
+  - ticking
+- - custard
+  - dribble
+  - fanfares
+- - bauxite
+  - trousers
+  - canals
 - - agony
   - loss
   - lust
 - - bales
   - agony
   - loss
-- - funeral
-  - schedule
-  - ticking
-- - bauxite
-  - trousers
-  - canals
+- - childhood
+  - anecdotes
+  - bluster
 - - spoke
   - umpteen
   - languages
 - - puny
   - fluting
   - tones
-- - childhood
-  - anecdotes
-  - bluster
+- - partial
+  - fragmentary
+  - view
 - - tunics
   - spigots
   - iron
@@ -89,102 +92,99 @@ ngrams:
 - - iron
   - lint
   - cranks
-- - partial
-  - fragmentary
-  - view
 - - applause
   - finally
   - died
-- - gas
-  - bills
-  - drove
-- - loss
-  - lust
-  - love
-- - speak
-  - dearly
-  - beloved
-- - cadet
-  - named
-  - vig
-- - lust
-  - love
-  - crack
-- - runaway
-  - bus
-  - clods
-- - painted
-  - difficult
-  - maps
 - - hearing
   - talc
   - perform
+- - speak
+  - dearly
+  - beloved
+- - runaway
+  - bus
+  - clods
+- - loss
+  - lust
+  - love
+- - gas
+  - bills
+  - drove
+- - lust
+  - love
+  - crack
+- - painted
+  - difficult
+  - maps
+- - cadet
+  - named
+  - vig
+- - branches
+  - fell
+  - unremarked
 - - floozies
   - doppelgangers
   - tin
 - - doppelgangers
   - tin
   - bales
-- - branches
-  - fell
-  - unremarked
-- - tin
-  - bales
-  - agony
 - - love
   - crack
   - bang
 - - hinges
   - remembrance
   - hair
+- - tin
+  - bales
+  - agony
+- - hands
+  - morse
+  - code
 - - remembrance
   - hair
   - custard
 - - hair
   - custard
   - dribble
-- - hands
-  - morse
-  - code
 - - bare
   - hands
   - morse
 - - father
   - painted
   - difficult
-- - garden
-  - rowing
-  - held
 - - different
   - metallic
   - elements
 - - lars
   - talc
   - struck
+- - garden
+  - rowing
+  - held
 - - tell
   - childhood
   - anecdotes
 - - difficult
   - maps
   - often
-- - three
-  - quarter
-  - minutes
 - - tube
   - things
   - dangled
-- - tiny
-  - cadet
-  - named
 - - wardrobe
   - read
   - snatches
-- - everything
-  - went
-  - according
+- - three
+  - quarter
+  - minutes
 - - books
   - tell
   - childhood
+- - tiny
+  - cadet
+  - named
+- - everything
+  - went
+  - according
 - - fire
   - escapes
   - once
@@ -194,15 +194,15 @@ ngrams:
 - - quite
   - quite
   - unendurable
+- - lars
+  - talc
+  - how
 - - linctus
   - slithered
   - down
 - - only
   - selected
   - epiphanic
-- - lars
-  - talc
-  - how
 - - pick
   - only
   - selected
@@ -233,27 +233,27 @@ ngrams:
 - - vig
   - who
   - scurried
-- - earth
-  - surrounded
-  - him
-- - named
-  - vig
-  - who
 - - talc
   - perform
   - them
+- - named
+  - vig
+  - who
+- - earth
+  - surrounded
+  - him
 - - tape
   - recordings
   - 'no'
+- - take
+  - days
+  - even
 - - held
   - 'no'
   - allure
 - - rowing
   - held
   - 'no'
-- - take
-  - days
-  - even
 - - who
   - scurried
   - among
@@ -281,24 +281,24 @@ ngrams:
 - - were
   - neglected
   - adept
+- - talc
+  - how
+  - can
+- - spat
+  - out
+  - mayonnaise
 - - wishes
   - were
   - met
+- - pigs
+  - were
+  - neglected
 - - made
   - him
   - anxious
 - - geese
   - made
   - him
-- - pigs
-  - were
-  - neglected
-- - spat
-  - out
-  - mayonnaise
-- - talc
-  - how
-  - can
 - - dearly
   - beloved
   - we
@@ -311,36 +311,36 @@ ngrams:
 - - mother
   - told
   - me
-- - fragmentary
-  - view
-  - which
 - - these
   - will
   - suffice
+- - fragmentary
+  - view
+  - which
 - - suffice
   - so
   - let
 - - were
   - levied
   - upon
-- - has
-  - been
-  - suggested
 - - would
   - take
   - days
 - - let
   - me
   - say
-- - minnie
-  - had
-  - chosen
-- - sheep
-  - had
-  - worms
+- - has
+  - been
+  - suggested
 - - could
   - sing
   - all
+- - are
+  - gathered
+  - here
+- - minnie
+  - had
+  - chosen
 story:
   date: 2017-10-24
   id: 2017-10-24-obsequies-for-lars-talc-struck-by-lightning-xiv

@@ -2,15 +2,15 @@ ngrams:
 - - lasciviousness
   - tunics
   - spigots
-- - fanfares
-  - dampness
-  - bauxite
 - - dribble
   - fanfares
   - dampness
 - - cranks
   - floozies
   - doppelgangers
+- - fanfares
+  - dampness
+  - bauxite
 - - hedgerows
   - banisters
   - carpets
@@ -20,24 +20,21 @@ ngrams:
 - - banisters
   - carpets
   - hinges
-- - gutted
-  - huts
-  - linctus
-- - custard
-  - dribble
-  - fanfares
-- - huts
-  - linctus
-  - slithered
-- - shipwreck
-  - curtains
-  - exile
 - - exile
   - frost
   - balconies
 - - incandescence
   - autumn
   - shipwreck
+- - gutted
+  - huts
+  - linctus
+- - shipwreck
+  - curtains
+  - exile
+- - huts
+  - linctus
+  - slithered
 - - morse
   - code
   - baffled
@@ -50,15 +47,18 @@ ngrams:
 - - dampness
   - bauxite
   - trousers
+- - custard
+  - dribble
+  - fanfares
+- - bauxite
+  - trousers
+  - canals
 - - agony
   - loss
   - lust
 - - bales
   - agony
   - loss
-- - bauxite
-  - trousers
-  - canals
 - - spoke
   - umpteen
   - languages
@@ -71,63 +71,63 @@ ngrams:
 - - iron
   - cranks
   - floozies
-- - gas
-  - bills
-  - drove
-- - loss
-  - lust
-  - love
-- - lust
-  - love
-  - crack
 - - runaway
   - bus
   - clods
+- - loss
+  - lust
+  - love
+- - gas
+  - bills
+  - drove
+- - lust
+  - love
+  - crack
 - - painted
   - difficult
   - maps
+- - branches
+  - fell
+  - unremarked
 - - floozies
   - doppelgangers
   - tin
 - - doppelgangers
   - tin
   - bales
-- - branches
-  - fell
-  - unremarked
-- - tin
-  - bales
-  - agony
 - - love
   - crack
   - bang
 - - hinges
   - remembrance
   - hair
+- - tin
+  - bales
+  - agony
+- - hands
+  - morse
+  - code
 - - remembrance
   - hair
   - custard
 - - hair
   - custard
   - dribble
-- - hands
-  - morse
-  - code
 - - bare
   - hands
   - morse
 - - father
   - painted
   - difficult
-- - garden
-  - rowing
-  - held
 - - different
   - metallic
   - elements
 - - lars
   - talc
   - struck
+- - garden
+  - rowing
+  - held
 - - key
   - dearly
   - beloved
@@ -143,12 +143,12 @@ ngrams:
 - - fire
   - escapes
   - once
-- - linctus
-  - slithered
-  - down
 - - lars
   - talc
   - how
+- - linctus
+  - slithered
+  - down
 - - down
   - fire
   - escapes
@@ -191,21 +191,21 @@ ngrams:
 - - were
   - neglected
   - adept
+- - talc
+  - how
+  - can
+- - spat
+  - out
+  - mayonnaise
+- - pigs
+  - were
+  - neglected
 - - made
   - him
   - anxious
 - - geese
   - made
   - him
-- - pigs
-  - were
-  - neglected
-- - spat
-  - out
-  - mayonnaise
-- - talc
-  - how
-  - can
 - - dearly
   - beloved
   - we
@@ -227,9 +227,9 @@ ngrams:
 - - man
   - let
   - me
-- - sheep
-  - had
-  - worms
+- - are
+  - gathered
+  - here
 story:
   date: 2004-01-07
   id: 2004-01-07-an-extract-from-obsequies-for-lars-talc-struck-by-lightning

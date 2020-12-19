@@ -8,12 +8,12 @@ ngrams:
 - - richter
   - byron
   - humboldt
-- - humboldt
-  - hawthorne
-  - wesley
 - - byron
   - humboldt
   - hawthorne
+- - humboldt
+  - hawthorne
+  - wesley
 - - hawthorne
   - wesley
   - browning
@@ -44,12 +44,12 @@ ngrams:
 - - papers
   - embracing
   - philosophy
-- - suspended
-  - millions
-  - behold
 - - effulgent
   - rays
   - thrown
+- - suspended
+  - millions
+  - behold
 - - fiction
   - satire
   - humor
@@ -59,27 +59,27 @@ ngrams:
 - - embracing
   - philosophy
   - science
-- - poet
-  - existing
-  - millions
 - - henry
   - j
   - horn
-- - philosophy
-  - science
-  - government
+- - poet
+  - existing
+  - millions
 - - original
   - papers
   - embracing
+- - philosophy
+  - science
+  - government
 - - science
   - government
   - religion
 - - horn
   - strange
   - visitors
-- - j
-  - horn
-  - strange
+- - religion
+  - poetry
+  - art
 story:
   date: 2004-10-12
   id: 2004-10-12-behold-the-far-off-luminary-suspended-millions

@@ -1,66 +1,42 @@
 ngrams:
-- - stapler
-  - the
-  - careworn
 - - moira
   - the
   - governed
-- - spinster
-  - the
-  - shambolic
 - - the
   - chipper
   - baronet
 - - chipper
   - baronet
   - the
+- - stapler
+  - the
+  - careworn
 - - the
   - hepcat
   - smoothie
 - - hepcat
   - smoothie
   - the
-- - saucepan
+- - spinster
   - the
-  - sequined
-- - the
-  - governed
-  - tang
-- - governed
-  - tang
-  - the
-- - the
-  - worrisome
-  - spinster
-- - worrisome
-  - spinster
-  - the
+  - shambolic
 - - savant
   - the
   - charmless
-- - the
-  - ratty
-  - scrimshaw
-- - ratty
-  - scrimshaw
+- - saucepan
   - the
-- - splint
-  - the
-  - chipper
+  - sequined
 - - the
   - puckish
   - stormtrooper
 - - puckish
   - stormtrooper
   - the
-- - toadstool
-  - the
-  - wielded
 - - the
-  - globular
-  - emission
-- - globular
-  - emission
+  - ratty
+  - scrimshaw
+- - ratty
+  - scrimshaw
   - the
 - - the
   - clueless
@@ -74,93 +50,78 @@ ngrams:
 - - crunchy
   - plopper
   - the
-- - scruff
+- - the
+  - governed
+  - tang
+- - governed
+  - tang
   - the
-  - tidal
+- - the
+  - worrisome
+  - spinster
+- - worrisome
+  - spinster
+  - the
+- - splint
+  - the
+  - chipper
+- - toadstool
+  - the
+  - wielded
+- - the
+  - globular
+  - emission
+- - globular
+  - emission
+  - the
 - - baronet
   - the
   - navy
 - - gloaming
   - the
   - ratty
-- - merchant
+- - scruff
   - the
-  - spiffing
-- - the
-  - unbreakable
-  - jugs
-- - unbreakable
-  - jugs
+  - tidal
+- - wonk
   - the
-- - smoothie
-  - the
-  - fundamentalist
-- - pooper
-  - the
-  - insignificant
-- - the
-  - vindictive
-  - biologist
-- - vindictive
-  - biologist
-  - the
+  - gladsome
 - - the
   - tidal
   - estuary
 - - tidal
   - estuary
   - the
-- - wonk
-  - the
-  - gladsome
 - - the
-  - wielded
-  - hoe
-- - wielded
-  - hoe
+  - unbreakable
+  - jugs
+- - unbreakable
+  - jugs
   - the
-- - sprain
+- - the
+  - vindictive
+  - biologist
+- - vindictive
+  - biologist
   - the
-  - turquoise
-- - satrap
+- - pooper
   - the
-  - oiled
+  - insignificant
 - - the
   - chubby
   - pickpocket
 - - chubby
   - pickpocket
   - the
-- - the
-  - glitzy
-  - surgeon
-- - glitzy
-  - surgeon
+- - merchant
   - the
-- - the
-  - dotty
-  - haberdasher
-- - dotty
-  - haberdasher
+  - spiffing
+- - smoothie
   - the
-- - the
-  - dirty
-  - placebo
-- - dirty
-  - placebo
+  - fundamentalist
+- - satrap
   - the
-- - haberdasher
-  - the
-  - clumsy
-- - chimney
-  - the
-  - restricted
-- - the
-  - disgusted
-  - postman
-- - disgusted
-  - postman
-  - the
+  - oiled
 - - the
   - charmless
   - ragamuffin
@@ -168,37 +129,22 @@ ngrams:
   - ragamuffin
   - the
 - - the
-  - glamorous
-  - trumpet
-- - glamorous
-  - trumpet
+  - wielded
+  - hoe
+- - wielded
+  - hoe
   - the
 - - the
-  - frail
-  - sot
-- - frail
-  - sot
+  - intrepid
+  - golliwog
+- - intrepid
+  - golliwog
   - the
 - - the
-  - unsinkable
-  - sieve
-- - unsinkable
-  - sieve
-  - the
-- - the
-  - cluttered
-  - freak
-- - cluttered
-  - freak
-  - the
-- - undertaker
-  - the
-  - whooper
-- - the
-  - turquoise
-  - pip
-- - turquoise
-  - pip
+  - dirty
+  - placebo
+- - dirty
+  - placebo
   - the
 - - the
   - belligerent
@@ -213,11 +159,65 @@ ngrams:
   - flotsam
   - the
 - - the
-  - intrepid
-  - golliwog
-- - intrepid
-  - golliwog
+  - dotty
+  - haberdasher
+- - dotty
+  - haberdasher
   - the
+- - chimney
+  - the
+  - restricted
+- - pickpocket
+  - the
+  - pitted
+- - the
+  - cluttered
+  - freak
+- - cluttered
+  - freak
+  - the
+- - undertaker
+  - the
+  - whooper
+- - the
+  - shredded
+  - diktat
+- - shredded
+  - diktat
+  - the
+- - pillbox
+  - the
+  - prominent
+- - mendicant
+  - the
+  - woeful
+- - the
+  - fundamentalist
+  - satrap
+- - fundamentalist
+  - satrap
+  - the
+- - golliwog
+  - the
+  - gaudy
+- - adam
+  - the
+  - globular
+- - the
+  - frail
+  - sot
+- - frail
+  - sot
+  - the
+- - the
+  - unsinkable
+  - sieve
+- - unsinkable
+  - sieve
+  - the
+- - the
+  - insanitary
+  - hellhole
 story:
   date: 2009-01-28
   id: 2009-01-28-the-cruel-sea

@@ -5,12 +5,12 @@ ngrams:
 - - corn
   - dollies
   - burned
-- - filthy
-  - unclean
-  - beasts
 - - cleansing
   - monkey
   - booths
+- - filthy
+  - unclean
+  - beasts
 - - huge
   - untidy
   - beard
@@ -29,12 +29,12 @@ ngrams:
 - - unclean
   - must
   - coexist
-- - approaching
-  - pigs
-  - nor
 - - dog
   - pig
   - lobster
+- - approaching
+  - pigs
+  - nor
 - - lobster
   - come
   - roaming
@@ -95,63 +95,57 @@ ngrams:
 - - sufficient
   - then
   - just
-- - lobsters
-  - were
-  - obliterated
-- - purifiers
-  - were
-  - tossed
 - - flames
   - roar
   - when
 - - flee
   - if
   - tinier
-- - what
-  - kind
-  - exactly
+- - lobsters
+  - were
+  - obliterated
+- - purifiers
+  - were
+  - tossed
 - - eventually
   - clambered
   - out
-- - been
-  - most
-  - helpful
+- - what
+  - kind
+  - exactly
 - - cannot
   - remember
   - what
 - - remember
   - what
   - kind
+- - been
+  - most
+  - helpful
 - - lose
   - all
   - sense
-- - come
-  - roaming
-  - into
 - - litanies
   - we
   - learn
-- - lobsters
-  - they
-  - cannot
+- - come
+  - roaming
+  - into
 - - learn
   - would
   - lose
-- - damned
-  - behave
-  - so
+- - lobsters
+  - they
+  - cannot
 - - would
   - become
   - contaminated
-- - are
-  - unclean
-  - creatures
+- - damned
+  - behave
+  - so
 - - teach
   - us
   - if
-- - dogs
-  - are
-  - unclean
 - - remain
   - so
   - marked
@@ -161,6 +155,12 @@ ngrams:
 - - ran
   - home
   - there
+- - are
+  - unclean
+  - creatures
+- - dogs
+  - are
+  - unclean
 - - others
   - are
   - unclean
@@ -176,6 +176,9 @@ ngrams:
 - - taught
   - me
   - through
+- - so
+  - marked
+  - until
 - - an
   - unclean
   - ape
@@ -185,51 +188,36 @@ ngrams:
 - - pet
   - an
   - unclean
-- - so
-  - marked
-  - until
-- - an
-  - unclean
-  - sound
-- - wizard
-  - has
-  - been
-- - took
-  - me
-  - away
 - - years
   - since
   - there
+- - an
+  - unclean
+  - sound
+- - took
+  - me
+  - away
+- - wizard
+  - has
+  - been
 - - then
   - they
   - flee
-- - been
-  - many
-  - other
-- - so
-  - long
-  - long
-- - are
-  - such
-  - beasts
 - - fleeing
   - theirs
   - or
-- - house
-  - itself
-  - had
+- - so
+  - long
+  - long
 - - theirs
   - or
   - mine
-- - has
-  - been
-  - most
 - - rasta
   - or
   - school
-- - their
-  - presence
-  - if
+- - been
+  - many
+  - other
 - - pigs
   - or
   - lobsters
@@ -239,60 +227,72 @@ ngrams:
 - - mad
   - rasta
   - or
-- - flee
-  - from
-  - mine
+- - are
+  - such
+  - beasts
 - - dogs
   - or
   - pigs
 - - dogs
   - or
   - pigs
-- - lakes
-  - but
-  - others
 - - or
   - certain
   - apes
-- - cleansing
-  - monkey
-  - from
 - - lobsters
   - or
   - certain
+- - their
+  - presence
+  - if
+- - lakes
+  - but
+  - others
 - - pig
   - or
   - lobster
-- - some
-  - are
-  - clean
-- - eternally
-  - poked
-  - at
-- - monkeys
-  - some
-  - are
-- - be
-  - eternally
-  - poked
+- - house
+  - itself
+  - had
+- - has
+  - been
+  - most
+- - flee
+  - from
+  - mine
 - - dog
   - or
   - pig
-- - unclean
-  - beasts
-  - be
-- - have
-  - pieced
-  - together
+- - cleansing
+  - monkey
+  - from
 - - further
   - dog
   - or
-- - roar
-  - when
-  - all
+- - eternally
+  - poked
+  - at
 - - or
   - lobster
   - come
+- - be
+  - eternally
+  - poked
+- - some
+  - are
+  - clean
+- - have
+  - pieced
+  - together
+- - unclean
+  - beasts
+  - be
+- - monkeys
+  - some
+  - are
+- - not
+  - properly
+  - grasped
 story:
   date: 2010-01-31
   id: 2010-01-31-hark

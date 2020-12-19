@@ -11,36 +11,36 @@ ngrams:
 - - private
   - notebook
   - youth
-- - food
-  - production
-  - processes
 - - fat
   - hardback
   - notebook
+- - food
+  - production
+  - processes
 - - malice
   - aforethought
   - press
 - - malice
   - aforethought
   - press
-- - science
-  - fiction
-  - imaginings
 - - aforethought
   - press
   - mail
+- - science
+  - fiction
+  - imaginings
 - - fast
   - food
   - restaurants
 - - band
   - serious
   - drinking
-- - top
-  - scientists
-  - jeered
 - - amusing
   - band
   - serious
+- - top
+  - scientists
+  - jeered
 - - laughed
   - top
   - scientists
@@ -68,15 +68,18 @@ ngrams:
 - - big
   - fat
   - hardback
-- - restaurants
-  - called
-  - krill
 - - hundred
   - poems
   - written
+- - restaurants
+  - called
+  - krill
 - - local
   - music
   - scene
+- - wholly
+  - separate
+  - piece
 - - love
   - song
   - entitled
@@ -86,33 +89,30 @@ ngrams:
 - - called
   - krill
   - r
-- - wholly
-  - separate
-  - piece
-- - food
-  - restaurants
-  - called
 - - writing
   - verse
   - instead
-- - hideous
-  - bat
-  - god
 - - swimming
   - pools
   - rather
-- - towering
-  - work
-  - lie
+- - hideous
+  - bat
+  - god
+- - food
+  - restaurants
+  - called
 - - bauxite
   - theory
   - rather
-- - plankton
-  - theory
-  - without
 - - particular
   - horror
   - often
+- - towering
+  - work
+  - lie
+- - plankton
+  - theory
+  - without
 - - life
   - i'd
   - waited
@@ -128,111 +128,111 @@ ngrams:
 - - plankton
   - theory
   - long
-- - old
-  - malice
-  - aforethought
 - - horror
   - often
   - enough
+- - old
+  - malice
+  - aforethought
 - - krill
   - r
   - us
 - - big
   - fat
   - book
-- - plankton
-  - theory
-  - here
 - - never
   - badgered
   - family
+- - plankton
+  - theory
+  - here
 - - entirely
   - sure
   - why
 - - find
   - myself
   - thanking
-- - song
-  - entitled
-  - years
 - - future
   - well
   - almost
+- - song
+  - entitled
+  - years
+- - very
+  - real
+  - risk
 - - understand
   - looking
   - back
 - - page
   - after
   - page
-- - very
-  - real
-  - risk
 - - theory
   - long
   - long
 - - years
   - later
   - shortly
-- - plankton
-  - theory
-  - now
 - - many
   - another
   - deity
 - - quite
   - consciously
   - just
+- - plankton
+  - theory
+  - now
 - - music
   - scene
   - where
-- - theory
-  - now
-  - i'm
 - - later
   - shortly
   - before
-- - long
-  - long
-  - ago
+- - theory
+  - now
+  - i'm
 - - too
   - much
   - difficulty
-- - looking
-  - back
-  - why
-- - often
-  - enough
-  - never
 - - upon
   - anyone
   - else
-- - never
-  - ever
-  - tested
-- - lot
-  - more
-  - krill
+- - often
+  - enough
+  - never
+- - long
+  - long
+  - ago
 - - pools
   - rather
   - than
+- - lot
+  - more
+  - krill
+- - never
+  - ever
+  - tested
+- - looking
+  - back
+  - why
 - - theory
   - rather
   - than
-- - do
-  - recall
-  - feeling
 - - never
   - ever
   - really
+- - do
+  - recall
+  - feeling
 - - before
   - zooming
   - 'off'
-- - next
-  - few
-  - years
 - - warned
   - think
   - before
+- - next
+  - few
+  - years
 - - then
   - quite
   - consciously
@@ -248,29 +248,29 @@ ngrams:
 - - up
   - got
   - diving
-- - who
-  - says
-  - let
-- - grew
-  - up
-  - got
 - - scientists
   - jeered
   - when
-- - performance
-  - poets
-  - were
+- - grew
+  - up
+  - got
 - - when
   - performance
   - poets
 - - plankton
   - theory
   - when
-- - running
-  - screaming
-  - into
+- - who
+  - says
+  - let
+- - performance
+  - poets
+  - were
 - - somehow
   - injected
+  - into
+- - running
+  - screaming
   - into
 - - more
   - krill
@@ -278,33 +278,33 @@ ngrams:
 - - late
   - s
   - when
-- - amusing
-  - thing
-  - about
 - - days
   - when
   - performance
+- - amusing
+  - thing
+  - about
 - - kept
   - me
   - beavering
-- - throw
-  - myself
-  - into
 - - make
   - 'no'
   - sense
+- - throw
+  - myself
+  - into
 - - middle
   - verse
   - would
 - - turned
   - out
   - quite
-- - says
-  - let
-  - me
 - - would
   - guess
   - between
+- - says
+  - let
+  - me
 - - me
   - wonder
   - why
@@ -314,18 +314,18 @@ ngrams:
 - - me
   - beavering
   - away
-- - are
-  - almost
-  - uniformly
 - - make
   - me
   - wonder
-- - now
-  - i'm
-  - about
+- - are
+  - almost
+  - uniformly
 - - verse
   - would
   - make
+- - now
+  - i'm
+  - about
 - - let
   - me
   - read
@@ -347,15 +347,15 @@ ngrams:
 - - so
   - long
   - ago
-- - this
-  - towering
-  - work
-- - why
-  - this
-  - remained
 - - or
   - kentucky
   - fried
+- - shredded
+  - or
+  - pulped
+- - this
+  - towering
+  - work
 story:
   date: 2012-04-22
   id: 2012-04-22-on-my-plankton-theory

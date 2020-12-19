@@ -1,7 +1,4 @@
 ngrams:
-- - eva
-  - hart
-  - '-'
 - - performing
   - slow
   - ritualistic
@@ -11,39 +8,42 @@ ngrams:
 - - penguin
   - edition
   - bulked
-- - lived
-  - eva
-  - hart
 - - remarkable
   - critical
   - apparatus
-- - latin
-  - mass
-  - dimly
+- - lived
+  - eva
+  - hart
 - - bar
   - area
   - towels
-- - unknown
-  - objects
-  - hidden
+- - latin
+  - mass
+  - dimly
 - - main
   - bar
   - area
+- - unknown
+  - objects
+  - hidden
 - - ghastly
   - bright
   - modern
-- - local
-  - pub
-  - named
 - - parish
   - church
   - proper
+- - local
+  - pub
+  - named
 - - bright
   - modern
   - church
 - - bright
   - modern
   - church
+- - eva
+  - hart
+  - '-'
 - - remained
   - behind
   - eager
@@ -53,6 +53,9 @@ ngrams:
 - - attended
   - sunday
   - morning
+- - modern
+  - church
+  - against
 - - hidden
   - under
   - towels
@@ -62,33 +65,30 @@ ngrams:
 - - objects
   - hidden
   - under
-- - modern
-  - church
-  - against
 - - devout
   - yet
   - tolerant
-- - vague
-  - yet
-  - definite
 - - thus
   - passed
   - forever
-- - function
-  - room
-  - within
-- - seven
-  - thus
-  - passed
+- - vague
+  - yet
+  - definite
 - - yet
   - tolerant
   - parents
-- - under
-  - towels
-  - behind
+- - seven
+  - thus
+  - passed
+- - function
+  - room
+  - within
 - - gibberish
   - while
   - performing
+- - under
+  - towels
+  - behind
 - - while
   - performing
   - slow
@@ -104,51 +104,51 @@ ngrams:
 - - critical
   - apparatus
   - years
-- - succeeding
-  - years
-  - despite
 - - never
   - seriously
   - diverted
+- - succeeding
+  - years
+  - despite
 - - years
   - lived
   - eva
+- - tolerant
+  - parents
+  - never
 - - last
   - word
   - reminds
 - - mass
   - ended
   - many
-- - tolerant
-  - parents
-  - never
 - - apparatus
   - years
   - passed
-- - pub
-  - named
-  - after
 - - unfathomable
   - because
   - until
-- - ensure
-  - our
-  - souls
+- - pub
+  - named
+  - after
 - - find
   - myself
   - wondering
-- - also
-  - take
-  - care
-- - family
-  - made
-  - thinking
 - - even
   - reassuring
   - routine
+- - ensure
+  - our
+  - souls
+- - also
+  - take
+  - care
 - - council
   - estate
   - where
+- - family
+  - made
+  - thinking
 - - familiar
   - even
   - reassuring
@@ -161,12 +161,12 @@ ngrams:
 - - very
   - confusing
   - place
-- - cannot
-  - remember
-  - how
 - - those
   - incomprehensible
   - words
+- - cannot
+  - remember
+  - how
 - - really
   - did
   - seem
@@ -179,81 +179,84 @@ ngrams:
 - - its
   - proper
   - title
-- - seven
-  - years
-  - old
 - - give
   - its
   - proper
+- - seven
+  - years
+  - old
 - - many
   - years
   - lived
-- - mass
-  - now
-  - took
 - - parents
   - never
   - made
+- - mass
+  - now
+  - took
 - - remember
   - how
   - old
-- - made
-  - thinking
-  - back
-- - many
-  - many
-  - books
 - - years
   - passed
   - before
+- - many
+  - many
+  - books
+- - made
+  - thinking
+  - back
 - - more
   - unfathomable
   - because
-- - childhood
-  - who
-  - knows
 - - 'no'
   - catholic
   - church
-- - took
-  - us
-  - through
+- - childhood
+  - who
+  - knows
 - - whaling
   - 'no'
   - doubt
+- - took
+  - us
+  - through
 - - now
   - took
   - place
-- - named
-  - after
-  - her
-- - towels
-  - were
-  - draped
-- - souls
-  - were
-  - saved
-- - first
-  - time
-  - consciously
 - - minor
   - irritation
   - when
-- - area
-  - towels
-  - were
 - - what
   - possible
   - connection
+- - first
+  - time
+  - consciously
+- - towels
+  - were
+  - draped
 - - when
   - mass
   - ended
+- - souls
+  - were
+  - saved
+- - area
+  - towels
+  - were
 - - edition
   - bulked
   - out
+- - named
+  - after
+  - her
 - - do
   - know
   - incidentally
+- - idea
+  - what
+  - possible
 - - mornings
   - all
   - smartly
@@ -263,78 +266,75 @@ ngrams:
 - - all
   - smartly
   - dressed
-- - idea
-  - what
-  - possible
-- - mass
-  - still
-  - been
 - - intone
   - what
   - must
 - - irritation
   - when
   - tiny
-- - after
-  - her
-  - too
-- - father
-  - telling
-  - me
+- - mass
+  - still
+  - been
 - - smartly
   - dressed
   - we
-- - we
-  - attended
-  - sunday
 - - myself
   - wondering
   - if
+- - we
+  - attended
+  - sunday
 - - happen
   - overnight
   - would
-- - word
-  - reminds
+- - father
+  - telling
   - me
 - - possible
   - connection
   - there
-- - very
-  - seductive
-  - about
-- - seductive
-  - about
-  - those
+- - word
+  - reminds
+  - me
+- - after
+  - her
+  - too
 - - would
   - walk
   - together
+- - seductive
+  - about
+  - those
+- - very
+  - seductive
+  - about
 - - about
   - those
   - incomprehensible
-- - faith
-  - which
-  - really
-- - our
-  - souls
-  - were
 - - were
   - draped
   - over
-- - towels
-  - behind
-  - which
-- - remember
-  - these
+- - our
+  - souls
   - were
+- - faith
+  - which
+  - really
 - - we
   - still
   - celebrated
+- - remember
+  - these
+  - were
+- - towels
+  - behind
+  - which
+- - quite
+  - so
+  - decisive
 - - we
   - always
   - left
-- - never
-  - forced
-  - me
 - - old
   - we
   - attended

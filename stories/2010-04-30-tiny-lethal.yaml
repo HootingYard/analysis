@@ -2,9 +2,6 @@ ngrams:
 - - bish
   - bosh
   - flossy
-- - o'
-  - rabies
-  - zone
 - - bosh
   - flossy
   - flapping
@@ -14,18 +11,18 @@ ngrams:
 - - dart
   - frog
   - frogs
-- - flemish
-  - painter
-  - dirk
 - - latvian
   - civic
   - cavalry
-- - risk
-  - o'
-  - rabies
+- - flemish
+  - painter
+  - dirk
 - - testing
   - contraption
   - hired
+- - abstruse
+  - critical
+  - scrutiny
 - - incessant
   - rainfall
   - picking
@@ -34,55 +31,64 @@ ngrams:
   - frog
 - - phantasmal
   - poison
-  - frogs
-- - abstruse
-  - critical
-  - scrutiny
-- - poison
   - frog
-  - aloysius
+- - phantasmal
+  - poison
+  - frog
+- - phantasmal
+  - poison
+  - frog
+- - phantasmal
+  - poison
+  - frog
+- - phantasmal
+  - poison
+  - frog
+- - continental
+  - literary
+  - critics
+- - phantasmal
+  - poison
+  - frog
+- - phantasmal
+  - poison
+  - frog
+- - phantasmal
+  - poison
+  - frog
+- - phantasmal
+  - poison
+  - frog
 - - parlour
   - thirst
   - quenched
 - - phantasmal
   - poison
+  - frogs
+- - poison
   - frog
-- - phantasmal
-  - poison
-  - frog
-- - phantasmal
-  - poison
-  - frog
-- - phantasmal
-  - poison
-  - frog
-- - phantasmal
-  - poison
-  - frog
-- - phantasmal
-  - poison
-  - frog
-- - phantasmal
-  - poison
-  - frog
-- - phantasmal
-  - poison
-  - frog
-- - phantasmal
-  - poison
-  - frog
-- - radiant
-  - beings
-  - ecuadorian
-- - continental
-  - literary
-  - critics
+  - aloysius
 - - cloth
   - bish
   - bosh
-- - designated
-  - risk
-  - o'
+- - lethal
+  - phantasmal
+  - poison
+- - lethal
+  - phantasmal
+  - poison
+- - lethal
+  - phantasmal
+  - poison
+- - lethal
+  - phantasmal
+  - poison
+- - lethal
+  - phantasmal
+  - poison
+- - lethal
+  - phantasmal
+  - poison
 - - frightening
   - continental
   - literary
@@ -98,108 +104,102 @@ ngrams:
 - - lethal
   - phantasmal
   - poison
-- - lethal
-  - phantasmal
-  - poison
-- - lethal
-  - phantasmal
-  - poison
-- - lethal
-  - phantasmal
-  - poison
-- - lethal
-  - phantasmal
-  - poison
-- - lethal
-  - phantasmal
-  - poison
-- - lethal
-  - phantasmal
-  - poison
-- - diminutive
-  - assassin
-  - perched
-- - poisonous
+- - radiant
   - beings
-  - radiant
+  - ecuadorian
 - - imminent
   - encounter
   - slip
-- - la
-  - nayland
-  - smith
+- - diminutive
+  - assassin
+  - perched
 - - interview
   - directly
   - denied
+- - la
+  - nayland
+  - smith
 - - poison
   - frog
   - wondering
-- - building
-  - suspense
-  - alerted
+- - o'
+  - rabies
+  - zone
+- - poisonous
+  - beings
+  - radiant
 - - somewhat
   - florid
   - descriptions
 - - credible
   - evidence
   - exists
-- - beings
-  - radiant
-  - beings
+- - building
+  - suspense
+  - alerted
+- - risk
+  - o'
+  - rabies
 - - mop
   - cloth
   - bish
-- - beings
-  - poisonous
-  - beings
 - - charity
   - fruit
   - quiz
+- - beings
+  - radiant
+  - beings
+- - designated
+  - risk
+  - o'
 - - market
   - stall
   - fruit
-- - entirely
-  - vacant
-  - expression
-- - civic
-  - cavalry
-  - boots
 - - stall
   - fruit
   - display
+- - entirely
+  - vacant
+  - expression
 - - fruit
   - display
   - scratching
-- - final
-  - hideous
-  - revelation
-- - tension
-  - dobson's
-  - ability
-- - late
-  - interview
-  - directly
+- - civic
+  - cavalry
+  - boots
+- - beings
+  - poisonous
+  - beings
 - - majestic
   - fruit
   - sequel
-- - tip
-  - top
-  - condition
-- - general
-  - toads
-  - green
+- - late
+  - interview
+  - directly
+- - final
+  - hideous
+  - revelation
 - - fu
   - manchu
   - books
+- - general
+  - toads
+  - green
+- - tip
+  - top
+  - condition
+- - tension
+  - dobson's
+  - ability
 - - exciting
   - works
   - guaranteed
-- - original
-  - six
-  - lectures
 - - seems
   - barely
   - credible
+- - original
+  - six
+  - lectures
 - - whole
   - body
   - stiffened
@@ -212,78 +212,39 @@ ngrams:
 - - wrote
   - innumerable
   - fragments
-- - arrogant
-  - hand
-  - gestures
-- - cavalry
-  - boots
-  - instead
-- - assassin
-  - perched
-  - within
 - - mighty
   - prose
   - putting
+- - cavalry
+  - boots
+  - instead
+- - arrogant
+  - hand
+  - gestures
+- - assassin
+  - perched
+  - within
 - - battered
   - cardboard
   - box
-- - dobson's
-  - various
-  - items
+- - skips
+  - lightly
+  - along
 - - thousand
   - times
   - studied
 - - one's
   - door
   - becalmed
+- - dobson's
+  - various
+  - items
 - - incredibly
   - high
   - above
-- - skips
-  - lightly
-  - along
-- - dobson's
-  - infamous
-  - pamphlet
-- - leaving
-  - marigold
-  - chew
-- - tiny
-  - lethal
-  - phantasmal
-- - tiny
-  - lethal
-  - phantasmal
-- - tiny
-  - lethal
-  - phantasmal
-- - tiny
-  - lethal
-  - phantasmal
-- - tiny
-  - lethal
-  - phantasmal
-- - tiny
-  - lethal
-  - phantasmal
-- - tiny
-  - lethal
-  - phantasmal
-- - tiny
-  - lethal
-  - phantasmal
-- - tiny
-  - lethal
-  - phantasmal
-- - tiny
-  - lethal
-  - phantasmal
 - - thump
   - having
   - pocked
-- - final
-  - full
-  - stop
 - - single
   - question
   - correctly
@@ -291,29 +252,68 @@ ngrams:
   - thump
   - having
 - - tiny
-  - beings
-  - poisonous
-- - path
-  - towards
-  - one's
+  - lethal
+  - phantasmal
+- - tiny
+  - lethal
+  - phantasmal
+- - tiny
+  - lethal
+  - phantasmal
+- - tiny
+  - lethal
+  - phantasmal
+- - tiny
+  - lethal
+  - phantasmal
+- - tiny
+  - lethal
+  - phantasmal
+- - tiny
+  - lethal
+  - phantasmal
+- - tiny
+  - lethal
+  - phantasmal
+- - tiny
+  - lethal
+  - phantasmal
+- - tiny
+  - lethal
+  - phantasmal
+- - dobson's
+  - infamous
+  - pamphlet
 - - distance
   - grew
   - between
+- - final
+  - full
+  - stop
 - - reached
   - sea
   - level
-- - pamphleteer
-  - wrote
-  - innumerable
+- - path
+  - towards
+  - one's
 - - cardboard
   - box
   - kept
-- - legs
-  - tiny
+- - leaving
+  - marigold
+  - chew
+- - pamphleteer
+  - wrote
+  - innumerable
+- - tiny
   - beings
+  - poisonous
 - - poison
   - frog
   - until
+- - legs
+  - tiny
+  - beings
 - - above
   - sea
   - level
@@ -329,9 +329,6 @@ ngrams:
 - - pamphlet
   - exists
   - given
-- - fact
-  - marigold
-  - chew
 - - towards
   - one's
   - door
@@ -341,36 +338,36 @@ ngrams:
 - - most
   - abstruse
   - critical
+- - fact
+  - marigold
+  - chew
 - - tiny
   - lethal
   - reading
-- - high
-  - above
-  - sea
-- - come
-  - terrifyingly
-  - face
-- - paragraphs
-  - ever
-  - committed
 - - morning
   - trudge
   - along
-- - causing
-  - us
-  - greater
+- - high
+  - above
+  - sea
+- - paragraphs
+  - ever
+  - committed
 - - post
   - office
   - perhaps
-- - infamous
-  - pamphlet
-  - every
+- - come
+  - terrifyingly
+  - face
+- - causing
+  - us
+  - greater
 - - pamphlet
   - every
   - lace
-- - dobson
-  - describes
-  - tipping
+- - infamous
+  - pamphlet
+  - every
 - - us
   - greater
   - terror
@@ -380,66 +377,66 @@ ngrams:
 - - exasperating
   - detail
   - how
-- - most
-  - exciting
-  - works
 - - roll
   - downhill
   - just
-- - follow
-  - dobson
-  - crashing
-- - narrative
-  - fireworks
-  - here
 - - incessant
   - downpour
   - after
-- - pamphleteer
-  - took
-  - part
-- - existence
-  - everything
-  - dobson
-- - few
-  - pages
-  - later
-- - pamphleteer
-  - tells
-  - us
+- - most
+  - exciting
+  - works
+- - dobson
+  - describes
+  - tipping
+- - narrative
+  - fireworks
+  - here
 - - print
   - pamphleteer
   - yet
+- - pamphleteer
+  - took
+  - part
+- - pamphleteer
+  - tells
+  - us
+- - few
+  - pages
+  - later
 - - our
   - hearts
   - thump
+- - follow
+  - dobson
+  - crashing
+- - every
+  - penny
+  - though
+- - green
+  - things
+  - things
+- - existence
+  - everything
+  - dobson
 - - just
   - dropping
   - dead
 - - makes
   - our
   - hearts
-- - green
-  - things
-  - things
-- - every
-  - penny
-  - though
 - - enumerates
   - over
   - five
+- - way
+  - home
+  - pop
 - - dirk
   - bouts
   - now
 - - simply
   - didn't
   - know
-- - way
-  - home
-  - pop
-- - her
-  - celeste
-  - composing
 - - directly
   - denied
   - its
@@ -449,6 +446,12 @@ ngrams:
 - - far
   - far
   - above
+- - such
+  - pamphlet
+  - exists
+- - any
+  - further
+  - essays
 - - other
   - reference
   - anywhere
@@ -458,30 +461,27 @@ ngrams:
 - - didn't
   - know
   - enough
-- - such
-  - pamphlet
-  - exists
-- - any
-  - further
-  - essays
 - - its
   - existence
   - everything
 - - market
   - day
   - morning
+- - her
+  - celeste
+  - composing
 - - make
   - us
   - forget
 - - our
   - own
   - encounter
-- - six
-  - more
-  - lectures
 - - can
   - fling
   - oneself
+- - six
+  - more
+  - lectures
 - - long
   - gone
   - before
@@ -491,6 +491,9 @@ ngrams:
 - - these
   - matters
   - those
+- - pamphleteer
+  - yet
+  - even
 - - did
   - too
   - giving
@@ -500,21 +503,18 @@ ngrams:
 - - pamphlet
   - six
   - more
-- - pamphleteer
-  - yet
-  - even
 - - hours
   - upon
   - end
-- - where
-  - dobson
-  - describes
 - - am
   - forgetting
   - myself
 - - 'no'
   - credible
   - evidence
+- - where
+  - dobson
+  - describes
 - - 'off'
   - its
   - leash
@@ -533,9 +533,6 @@ ngrams:
 - - giving
   - up
   - hope
-- - every
-  - lace
-  - has
 - - begins
   - scribbling
   - what
@@ -545,60 +542,183 @@ ngrams:
 - - hands
   - 'no'
   - longer
-- - point
-  - where
-  - dobson
-- - over
-  - our
-  - eyes
-- - has
-  - demonstrated
-  - though
-- - shoehorn
-  - bouts
-  - into
 - - yesterday's
   - guardian
   - about
+- - shoehorn
+  - bouts
+  - into
+- - has
+  - demonstrated
+  - though
+- - every
+  - lace
+  - has
+- - over
+  - our
+  - eyes
 - - fling
   - oneself
   - into
-- - fruit
-  - she
-  - said
-- - oneself
-  - into
-  - one's
+- - point
+  - where
+  - dobson
+- - frog
+  - wondering
+  - if
 - - describes
   - tipping
   - out
 - - famous
   - incident
   - when
+- - sheer
+  - genius
+  - if
 - - prose
   - about
   - daytime
-- - into
-  - one's
-  - armchair
+- - masterly
+  - if
+  - somewhat
 - - rainfall
   - picking
   - out
-- - tipping
-  - out
-  - onto
 - - poison
   - frog
   - out
-- - frog
-  - wondering
-  - if
+- - oneself
+  - into
+  - one's
+- - tipping
+  - out
+  - onto
+- - if
+  - somewhat
+  - florid
+- - into
+  - one's
+  - armchair
+- - yet
+  - even
+  - after
 - - delving
   - into
   - dobson's
 - - into
   - dobson's
   - infamous
+- - fruit
+  - she
+  - said
+- - too
+  - giving
+  - up
+- - enough
+  - about
+  - fruit
+- - literary
+  - critics
+  - all
+- - dobson
+  - did
+  - too
+- - about
+  - tiny
+  - lethal
+- - guardian
+  - about
+  - tiny
+- - has
+  - ever
+  - written
+- - run
+  - them
+  - through
+- - sea
+  - level
+  - out
+- - problems
+  - would
+  - vanish
+- - own
+  - theory
+  - about
+- - penny
+  - though
+  - when
+- - kitchen
+  - sink
+  - we
+- - wondering
+  - if
+  - perhaps
+- - 'no'
+  - longer
+  - see
+- - own
+  - boot
+  - out
+- - now
+  - come
+  - upon
+- - reminds
+  - us
+  - about
+- - andean
+  - slope
+  - so
+- - slope
+  - so
+  - incredibly
+- - temporarily
+  - so
+  - causing
+- - lace
+  - has
+  - its
+- - grew
+  - between
+  - me
+- - minuscule
+  - killer
+  - so
+- - say
+  - about
+  - fruit
+- - cannot
+  - work
+  - out
+- - steep
+  - so
+  - immediately
+- - evidence
+  - enough
+  - we
+- - andes
+  - are
+  - steep
+- - ever
+  - written
+  - about
+- - dobson
+  - crashing
+  - about
+- - so
+  - incredibly
+  - high
+- - when
+  - dobson
+  - wakes
+- - 'no'
+  - such
+  - pamphlet
+- - 'no'
+  - other
+  - reference
+- - tea
+  - next
+  - we
 story:
   date: 2010-04-30
   id: 2010-04-30-tiny-lethal

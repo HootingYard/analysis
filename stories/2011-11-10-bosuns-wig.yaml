@@ -1,10 +1,10 @@
 ngrams:
-- - tack
-  - ship's
-  - biscuits
 - - ship's
   - biscuits
   - fed
+- - tack
+  - ship's
+  - biscuits
 - - hard
   - tack
   - ship's
@@ -41,30 +41,27 @@ ngrams:
 - - ancient
   - like
   - methuselah
-- - other
-  - tiny
-  - creeping
 - - art
   - rather
   - than
+- - other
+  - tiny
+  - creeping
 - - head
   - must
   - get
 - - could
   - ever
   - refuse
-- - let
-  - him
-  - keep
 - - wig
   - were
   - subjected
+- - let
+  - him
+  - keep
 - - ever
   - refuse
   - him
-- - been
-  - powdered
-  - once
 - - antique
   - shop
   - if
@@ -74,21 +71,24 @@ ngrams:
 - - crew
   - were
   - sometimes
+- - been
+  - powdered
+  - once
 - - briny
   - particulars
   - they
 - - cannot
   - imagine
   - were
+- - would
+  - discover
+  - flecks
 - - wooden
   - head
   - has
 - - am
   - ancient
   - like
-- - would
-  - discover
-  - flecks
 - - more
   - than
   - once
@@ -113,18 +113,15 @@ ngrams:
 - - approaching
   - after
   - all
-- - an
-  - antique
-  - shop
 - - might
   - inveigle
   - me
 - - made
   - purchase
   - would
-- - has
-  - been
-  - tested
+- - an
+  - antique
+  - shop
 - - lab
   - where
   - we
@@ -134,18 +131,21 @@ ngrams:
 - - where
   - we
   - sit
+- - has
+  - been
+  - tested
 - - head
   - so
   - smoothly
 - - wooden
   - head
   - so
-- - eyes
-  - are
-  - those
 - - told
   - me
   - more
+- - eyes
+  - are
+  - those
 story:
   date: 2011-11-10
   id: 2011-11-10-bosuns-wig

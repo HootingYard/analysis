@@ -50,12 +50,12 @@ ngrams:
 - - exhausted
   - yet
   - sleepless
-- - hayloft
-  - exhausted
-  - yet
 - - peculiar
   - peasant
   - indeed
+- - hayloft
+  - exhausted
+  - yet
 - - village
   - priest
   - came
@@ -101,12 +101,12 @@ ngrams:
 - - way
   - through
   - streets
-- - rapidly
-  - back
-  - down
 - - person
   - perhaps
   - even
+- - rapidly
+  - back
+  - down
 - - fop
   - held
   - up
@@ -134,30 +134,30 @@ ngrams:
 - - seemed
   - all
   - hope
-- - lift
-  - which
-  - sank
 - - sin
   - if
   - ever
-- - priest
-  - took
-  - me
 - - confession
   - we
   - went
-- - which
+- - priest
+  - took
+  - me
+- - lift
+  - which
   - sank
-  - oh
-- - sank
-  - oh
-  - so
 - - oh
   - so
   - rapidly
+- - sank
+  - oh
+  - so
 - - led
   - me
   - away
+- - which
+  - sank
+  - oh
 - - inner
   - life
   - are
@@ -167,60 +167,63 @@ ngrams:
 - - there
   - any
   - opportunities
-- - all
-  - its
-  - details
 - - so
   - rapidly
   - back
+- - all
+  - its
+  - details
 - - an
   - inner
   - life
 - - allow
   - me
   - time
+- - path
+  - or
+  - lane
+- - path
+  - or
+  - lane
 - - 'off'
   - one
   - crack
-- - path
-  - or
-  - lane
-- - path
-  - or
-  - lane
-- - me
-  - cease
-  - your
-- - nothing
-  - but
-  - spin
 - - or
   - lane
   - towards
-- - set
-  - 'off'
-  - one
+- - nothing
+  - but
+  - spin
 - - occurs
   - perhaps
   - but
+- - me
+  - cease
+  - your
+- - set
+  - 'off'
+  - one
 - - have
   - thoughts
   - within
-- - wallow
-  - were
-  - there
-- - dragged
-  - me
-  - out
-- - gutter
-  - drenched
-  - by
-- - sin
-  - at
-  - least
 - - does
   - nothing
   - but
+- - dragged
+  - me
+  - out
+- - wallow
+  - were
+  - there
+- - sin
+  - at
+  - least
+- - indeed
+  - have
+  - thoughts
+- - gutter
+  - drenched
+  - by
 - - surrounded
   - by
   - straw
@@ -233,18 +236,15 @@ ngrams:
 - - by
   - passing
   - urban
-- - indeed
-  - have
-  - thoughts
-- - poetry
-  - you
-  - smell
-- - evil
-  - poetry
-  - you
+- - perhaps
+  - but
+  - once
 - - so
   - wallow
   - were
+- - we
+  - went
+  - into
 story:
   date: 2013-02-27
   id: 2013-02-27-hedger-and-ditcher-redux

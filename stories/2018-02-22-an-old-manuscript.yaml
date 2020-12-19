@@ -2,15 +2,15 @@ ngrams:
 - - beaks
   - ideally
   - puncturing
-- - withstand
-  - torrential
-  - rainfall
 - - wasp
   - wipeout
   - syndrome
 - - border
   - wasp
   - wipeout
+- - withstand
+  - torrential
+  - rainfall
 - - impious
   - guttural
   - cries
@@ -20,9 +20,6 @@ ngrams:
 - - inexplicable
   - atmospheric
   - phenomena
-- - ops
-  - team
-  - conducts
 - - nitwits
   - cry
   - ignoring
@@ -32,6 +29,9 @@ ngrams:
 - - screaming
   - impious
   - guttural
+- - ops
+  - team
+  - conducts
 - - useful
   - idiots
   - deny
@@ -68,9 +68,6 @@ ngrams:
 - - near
   - fort
   - hoity
-- - major
-  - arteries
-  - note
 - - 'yes'
   - fort
   - hoity
@@ -86,90 +83,93 @@ ngrams:
 - - swoop
   - relentlessly
   - towards
+- - pointy
+  - beaks
+  - ideally
 - - relentlessly
   - towards
   - barbarians
 - - puppet
   - wasps
   - cannot
+- - major
+  - arteries
+  - note
 - - black
   - ops
   - team
-- - pointy
-  - beaks
-  - ideally
-- - nature
-  - black
-  - ops
-- - conducts
-  - various
-  - black
-- - various
-  - black
-  - ops
 - - sharp
   - pointy
   - bill
 - - between
   - fort
   - hoity
-- - disease
-  - otherwise
-  - known
 - - fort
   - toity
   - thus
+- - nature
+  - black
+  - ops
 - - regular
   - intervals
   - along
-- - tiny
-  - terrified
-  - mammals
-- - tiny
-  - terrified
-  - mammals
+- - conducts
+  - various
+  - black
+- - harm
+  - insisting
+  - rather
+- - various
+  - black
+  - ops
 - - wet
   - illimitable
   - sea
 - - fence
   - between
   - fort
-- - harm
-  - insisting
-  - rather
+- - disease
+  - otherwise
+  - known
 - - both
   - fort
   - hoity
+- - tiny
+  - terrified
+  - mammals
+- - tiny
+  - terrified
+  - mammals
 - - sufficient
   - replacements
   - because
-- - two
-  - devils
-  - threatened
 - - us
   - harm
   - insisting
+- - two
+  - devils
+  - threatened
 - - snipe
   - these
   - nitwits
 - - these
   - nitwits
   - cry
-- - beak
-  - see
-  - previous
-- - these
-  - useful
-  - idiots
 - - currently
   - being
   - bruited
-- - treacherously
-  - bought
-  - 'off'
+- - these
+  - useful
+  - idiots
+- - beak
+  - see
+  - previous
 - - toity
   - these
   - useful
+- - treacherously
+  - bought
+  - 'off'
 - - fort
   - toity
   - these
@@ -179,12 +179,12 @@ ngrams:
 - - theory
   - currently
   - being
-- - wish
-  - us
-  - harm
 - - long
   - sharp
   - pointy
+- - wish
+  - us
+  - harm
 - - our
   - brightest
   - engineers
@@ -215,33 +215,33 @@ ngrams:
 - - barbarians
   - did
   - manage
-- - our
-  - black
-  - ops
 - - make
   - short
   - work
 - - our
   - factories
   - cannot
-- - other
-  - flowers
-  - smothering
-- - meanwhile
-  - our
+- - our
   - black
-- - barbaric
-  - night
-  - after
+  - ops
 - - just
   - grunt
   - rather
-- - trapped
-  - like
-  - sitting
+- - other
+  - flowers
+  - smothering
+- - barbaric
+  - night
+  - after
+- - meanwhile
+  - our
+  - black
 - - its
   - original
   - purpose
+- - trapped
+  - like
+  - sitting
 - - like
   - sitting
   - ducks
@@ -254,24 +254,18 @@ ngrams:
 - - brightest
   - engineers
   - has
-- - engineers
-  - has
-  - devised
-- - barbaric
-  - savages
-  - who
+- - them
+  - screaming
+  - impious
+- - them
+  - screaming
+  - impious
 - - flowers
   - smothering
   - them
 - - feed
   - them
   - millet
-- - them
-  - screaming
-  - impious
-- - them
-  - screaming
-  - impious
 - - fence
   - linking
   - them
@@ -281,39 +275,45 @@ ngrams:
 - - grunt
   - rather
   - more
-- - savages
+- - barbaric
+  - savages
   - who
-  - wish
+- - engineers
+  - has
+  - devised
 - - circles
   - round
   - them
 - - circles
   - round
   - them
+- - round
+  - them
+  - screaming
+- - round
+  - them
+  - screaming
 - - fence
   - 'no'
   - barbarians
-- - round
-  - them
-  - screaming
-- - round
-  - them
-  - screaming
+- - savages
+  - who
+  - wish
 - - then
   - make
   - short
-- - lovely
-  - people
-  - who
 - - them
   - running
   - along
-- - farmland
-  - into
-  - plantations
+- - lovely
+  - people
+  - who
 - - their
   - pointy
   - beaks
+- - farmland
+  - into
+  - plantations
 story:
   date: 2018-02-22
   id: 2018-02-22-an-old-manuscript

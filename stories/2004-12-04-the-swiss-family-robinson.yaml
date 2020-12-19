@@ -5,6 +5,15 @@ ngrams:
 - - children
   - ned
   - gristle
+- - swiss
+  - family
+  - robinson
+- - swiss
+  - family
+  - robinson
+- - swiss
+  - family
+  - robinson
 - - named
   - robinson
   - someone
@@ -13,15 +22,6 @@ ngrams:
   - named
 - - someone
   - named
-  - robinson
-- - swiss
-  - family
-  - robinson
-- - swiss
-  - family
-  - robinson
-- - swiss
-  - family
   - robinson
 - - working
   - eye
@@ -65,15 +65,15 @@ ngrams:
 - - asked
   - years
   - ago
+- - asked
+  - 'yes'
+  - said
+- - asked
+  - 'yes'
+  - said
 - - only
   - birds
   - starlings
-- - asked
-  - 'yes'
-  - said
-- - asked
-  - 'yes'
-  - said
 - - lascelles
   - who
   - yearned
@@ -92,9 +92,9 @@ ngrams:
 - - ned
   - how
   - did
-- - their
-  - children
-  - ned
+- - years
+  - ago
+  - said
 story:
   date: 2004-12-04
   id: 2004-12-04-the-swiss-family-robinson

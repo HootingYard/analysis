@@ -5,12 +5,12 @@ ngrams:
 - - sir
   - christopher
   - pack
-- - daily
-  - news
-  - aug
 - - heard
   - ad
   - infinitum
+- - daily
+  - news
+  - aug
 - - full
   - oed
   - definition
@@ -53,6 +53,9 @@ ngrams:
 - - over
   - at
   - ragbag
+- - b
+  - comb
+  - as
 - - forgiven
   - for
   - sharing
@@ -65,12 +68,9 @@ ngrams:
 - - news
   - aug
   - for
-- - b
-  - comb
-  - as
-- - with
-  - handy
-  - quotations
+- - oed
+  - definition
+  - with
 story:
   date: 2010-04-25
   id: 2010-04-25-cleggmania

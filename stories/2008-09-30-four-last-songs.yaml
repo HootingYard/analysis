@@ -1,7 +1,4 @@
 ngrams:
-- - sociopath
-  - lothar
-  - preen
 - - tra
   - la
   - lee
@@ -14,6 +11,9 @@ ngrams:
 - - breathtakingly
   - pompous
   - essay
+- - sociopath
+  - lothar
+  - preen
 - - tra
   - la
   - la
@@ -26,21 +26,21 @@ ngrams:
 - - songs
   - tra
   - la
-- - contralto
-  - voice
-  - sings
 - - various
   - clifftop
   - paths
-- - la
-  - lee
-  - dennis
 - - rarely
   - goes
   - amiss
+- - contralto
+  - voice
+  - sings
 - - rough
   - tough
   - seaside
+- - la
+  - lee
+  - dennis
 - - rich
   - contralto
   - voice
@@ -59,36 +59,27 @@ ngrams:
 - - preen
   - often
   - claimed
-- - preen
-  - also
-  - claimed
 - - sings
   - words
   - torn
-- - hoping
-  - against
-  - hope
 - - along
   - various
   - clifftop
+- - hoping
+  - against
+  - hope
+- - preen
+  - also
+  - claimed
 - - riding
   - along
   - various
-- - music
-  - preen
-  - also
 - - horseback
   - while
   - riding
 - - voice
   - sings
   - words
-- - horse
-  - called
-  - dennis
-- - last
-  - songs
-  - tra
 - - bailiffs
   - sometimes
   - across
@@ -98,24 +89,39 @@ ngrams:
 - - tavern
   - while
   - avoiding
+- - music
+  - preen
+  - also
+- - last
+  - songs
+  - tra
+- - horse
+  - called
+  - dennis
 - - songs
   - while
   - holed
 - - tuberculosis
   - new
   - research
-- - composed
-  - these
-  - towering
 - - seaside
   - tavern
   - while
+- - composed
+  - these
+  - towering
 - - new
   - research
   - shows
+- - superior
+  - wisdom
+  - much
 - - these
   - towering
   - pieces
+- - few
+  - seconds
+  - ago
 - - lothar
   - preen
   - never
@@ -134,24 +140,18 @@ ngrams:
 - - four
   - last
   - songs
-- - superior
-  - wisdom
-  - much
-- - few
-  - seconds
-  - ago
 - - while
   - riding
   - along
+- - suspicious
+  - stains
+  - upon
 - - last
   - songs
   - while
 - - life
   - being
   - pursued
-- - suspicious
-  - stains
-  - upon
 - - even
   - considered
   - writing
@@ -170,12 +170,12 @@ ngrams:
 - - goat
   - rather
   - than
-- - very
-  - arrogant
-  - man
 - - nor
   - could
   - lothar
+- - very
+  - arrogant
+  - man
 - - preen
   - never
   - even
@@ -188,21 +188,21 @@ ngrams:
 - - loopy
   - loo
   - what
-- - up
-  - blood
-  - dennis
 - - another
   - nor
   - could
+- - up
+  - blood
+  - dennis
+- - much
+  - more
+  - sense
 - - lothar
   - preen
   - if
 - - message
   - tapped
   - out
-- - much
-  - more
-  - sense
 - - believed
   - up
   - until

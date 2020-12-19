@@ -32,6 +32,9 @@ ngrams:
 - - blasphemy
   - well
   - bring
+- - diligence
+  - nor
+  - indeed
 - - jesus
   - being
   - presented
@@ -41,9 +44,6 @@ ngrams:
 - - new
   - knowledge
   - led
-- - diligence
-  - nor
-  - indeed
 - - great
   - diligence
   - nor
@@ -89,24 +89,24 @@ ngrams:
 - - uh
   - sound
   - this
-- - an
-  - exciting
-  - piece
 - - devised
   - this
   - show
-- - this
-  - show
-  - however
+- - an
+  - exciting
+  - piece
 - - er
   - or
   - uh
 - - this
-  - new
-  - knowledge
+  - show
+  - however
 - - or
   - uh
   - sound
+- - this
+  - new
+  - knowledge
 - - sound
   - this
   - new
@@ -116,15 +116,15 @@ ngrams:
 - - be
   - wholly
   - fictional
-- - being
-  - edgy
-  - from
-- - gets
-  - you
-  - blown
 - - dabbler
   - but
   - here
+- - being
+  - edgy
+  - from
+- - does
+  - not
+  - matter
 story:
   date: 2013-05-19
   id: 2013-05-19-a-new-musical

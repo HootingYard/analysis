@@ -62,18 +62,18 @@ ngrams:
 - - impaler
   - fought
   - 'off'
-- - suited
-  - old
-  - farmer
 - - many
   - hairdressing
   - establishments
-- - haircut
+- - suited
   - old
   - farmer
 - - door
   - threw
   - himself
+- - haircut
+  - old
+  - farmer
 - - old
   - farmer
   - frack
@@ -104,42 +104,36 @@ ngrams:
 - - hairdresser
   - unlike
   - many
-- - highly
-  - intelligent
-  - man
-- - mad
-  - old
-  - farmer
-- - peasant
-  - old
-  - farmer
 - - cows
   - several
   - days
+- - peasant
+  - old
+  - farmer
+- - mad
+  - old
+  - farmer
 - - much
   - less
   - tractable
-- - asked
-  - old
-  - farmer
-- - only
-  - haircut
-  - available
+- - highly
+  - intelligent
+  - man
 - - than
   - serviceable
   - vocabulary
 - - several
   - days
   - later
+- - asked
+  - old
+  - farmer
+- - only
+  - haircut
+  - available
 - - farmer
   - frack
   - down
-- - like
-  - bram
-  - stoker's
-- - scalp
-  - like
-  - bram
 - - idea
   - how
   - strange
@@ -149,36 +143,42 @@ ngrams:
 - - took
   - much
   - pride
-- - farmers
-  - go
-  - old
+- - like
+  - bram
+  - stoker's
+- - scalp
+  - like
+  - bram
 - - chop
   - suey
   - could
-- - go
+- - farmers
+  - go
   - old
-  - farmer
 - - suey
   - could
   - easily
+- - go
+  - old
+  - farmer
+- - professional
+  - barber
+  - can
 - - another
   - village
   - here
 - - years
   - old
   - farmer
-- - professional
-  - barber
-  - can
 - - way
   - jauntily
   - back
-- - anthony
-  - burgess
-  - has
 - - burgess
   - did
   - though
+- - anthony
+  - burgess
+  - has
 - - 'no'
   - professional
   - barber
@@ -188,27 +188,27 @@ ngrams:
 - - sheet
   - around
   - him
-- - she
-  - asked
-  - old
 - - powdery
   - strands
   - were
 - - go
   - around
   - like
-- - been
-  - seen
-  - stalking
-- - than
-  - she
-  - hacked
-- - trap
-  - than
-  - she
 - - haircut
   - crashed
   - out
+- - been
+  - seen
+  - stalking
+- - more
+  - than
+  - serviceable
+- - she
+  - asked
+  - old
+- - could
+  - go
+  - around
 story:
   date: 2008-12-29
   id: 2008-12-29-old-farmer-fracks-haircut

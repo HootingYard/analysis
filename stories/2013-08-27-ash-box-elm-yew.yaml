@@ -17,33 +17,33 @@ ngrams:
 - - box
   - elm
   - yew
+- - cocktail
+  - party
+  - conversely
 - - yew
   - ash
   - box
 - - topic
   - nobody
   - wants
-- - cocktail
-  - party
-  - conversely
-- - fragile
-  - state
-  - nobody
 - - sophisticated
   - cocktail
   - party
-- - alex
-  - haley
-  - wrote
+- - fragile
+  - state
+  - nobody
 - - yew
   - high
   - winds
-- - elm
-  - yew
-  - four
 - - arrange
   - trees
   - certainly
+- - alex
+  - haley
+  - wrote
+- - elm
+  - yew
+  - four
 - - ferociously
   - high
   - wind
@@ -53,12 +53,12 @@ ngrams:
 - - yew
   - four
   - trees
-- - also
-  - firmly
-  - rooted
 - - yew
   - oh
   - really
+- - also
+  - firmly
+  - rooted
 - - oh
   - really
   - says
@@ -68,12 +68,12 @@ ngrams:
 - - says
   - something
   - regarding
-- - ice
-  - says
-  - something
 - - toppled
   - while
   - standing
+- - ice
+  - says
+  - something
 - - most
   - fanatical
   - interest
@@ -98,12 +98,12 @@ ngrams:
 - - our
   - present
   - purposes
-- - short
-  - term
-  - only
 - - such
   - social
   - success
+- - short
+  - term
+  - only
 - - really
   - says
   - our
@@ -113,75 +113,66 @@ ngrams:
 - - course
   - roots
   - these
-- - other
-  - topic
-  - nobody
 - - attentions
   - more
   - narrowly
 - - always
   - topple
   - over
+- - other
+  - topic
+  - nobody
 - - attention
   - upon
   - ash
-- - than
-  - three
-  - letters
 - - names
   - contain
   - more
-- - hold
-  - our
-  - own
+- - than
+  - three
+  - letters
 - - disease
   - can
   - topple
 - - can
   - reply
   - winningly
+- - hold
+  - our
+  - own
 - - natural
   - state
   - do
-- - who
-  - finds
-  - yourself
 - - let
   - us
   - say
-- - term
-  - only
-  - those
-- - us
-  - must
-  - make
+- - who
+  - finds
+  - yourself
 - - can
   - always
   - topple
+- - us
+  - must
+  - make
+- - term
+  - only
+  - those
+- - topple
+  - over
+  - than
 - - their
   - names
   - contain
 - - tell
   - them
   - apart
-- - topple
-  - over
-  - than
 - - your
   - fragile
   - state
 - - your
   - natural
   - state
-- - focus
-  - your
-  - attention
-- - tree
-  - each
-  - has
-- - been
-  - left
-  - flailing
 - - our
   - attentions
   - more
@@ -191,84 +182,93 @@ ngrams:
 - - letters
   - when
   - dealing
-- - today
-  - about
-  - pine
+- - focus
+  - your
+  - attention
+- - tree
+  - each
+  - has
 - - party
   - conversely
   - if
 - - contain
   - more
   - than
-- - knowledge
-  - under
-  - your
+- - been
+  - left
+  - flailing
+- - today
+  - about
+  - pine
 - - fanatical
   - interest
   - will
 - - can
   - hold
   - our
-- - under
-  - your
-  - hat
 - - nutcase
   - will
   - call
+- - knowledge
+  - under
+  - your
 - - must
   - make
   - do
 - - three
   - letters
   - when
-- - say
+- - under
   - your
-  - pretence
+  - hat
 - - them
   - even
   - weakness
-- - more
-  - than
-  - three
 - - rustic
   - location
   - there
 - - toppled
   - them
   - even
+- - more
+  - than
+  - three
 - - limited
   - knowledge
   - we
 - - ready
   - reply
   - we
-- - rub
+- - say
   - your
-  - head
+  - pretence
 - - can
   - then
   - sit
+- - standing
+  - there
+  - lost
+- - rub
+  - your
+  - head
+- - mighty
+  - heave
+  - so
+- - are
+  - rooted
+  - anchored
 - - which
   - alex
   - haley
+- - interest
+  - will
+  - go
 - - roots
   - which
   - anchor
 - - twisting
   - roots
   - which
-- - are
-  - rooted
-  - anchored
-- - standing
-  - there
-  - lost
-- - interest
-  - will
-  - go
-- - mighty
-  - heave
-  - so
 - - yew
   - we
   - must
@@ -278,6 +278,12 @@ ngrams:
 - - while
   - standing
   - there
+- - we
+  - must
+  - keep
+- - over
+  - than
+  - do
 - - are
   - also
   - firmly
@@ -287,33 +293,30 @@ ngrams:
 - - planting
   - an
   - orchard
-- - we
-  - must
-  - keep
-- - us
-  - say
-  - your
 - - your
   - attention
   - upon
-- - over
-  - than
-  - do
-- - topple
-  - over
-  - they
-- - toppled
-  - this
-  - helps
-- - one
-  - mighty
-  - heave
-- - easily
-  - toppled
-  - this
+- - us
+  - say
+  - your
 - - more
   - narrowly
   - if
+- - reply
+  - we
+  - might
+- - topple
+  - over
+  - they
+- - one
+  - mighty
+  - heave
+- - toppled
+  - this
+  - helps
+- - easily
+  - toppled
+  - this
 - - tell
   - an
   - ash
@@ -323,9 +326,6 @@ ngrams:
 - - roots
   - these
   - are
-- - reply
-  - we
-  - might
 story:
   date: 2013-08-27
   id: 2013-08-27-ash-box-elm-yew

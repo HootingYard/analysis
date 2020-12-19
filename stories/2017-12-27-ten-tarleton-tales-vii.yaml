@@ -8,15 +8,15 @@ ngrams:
 - - automatic
   - sheaf
   - tying
+- - limehouse
+  - opium
+  - den
+- - limehouse
+  - opium
+  - den
 - - sheaf
   - tying
   - mechanism
-- - limehouse
-  - opium
-  - den
-- - limehouse
-  - opium
-  - den
 - - barrow
   - turnip
   - slicer
@@ -44,97 +44,97 @@ ngrams:
 - - twisted
   - lip
   - tries
-- - dozen
-  - liquid
-  - manure
-- - consulting
-  - rooms
-  - twitching
 - - morris's
   - turnip
   - fly
 - - turnip
   - fly
   - catchers
-- - sack
-  - o'
-  - pelf
+- - consulting
+  - rooms
+  - twitching
+- - dozen
+  - liquid
+  - manure
 - - american
   - butter
   - separators
+- - wheat
+  - pickling
+  - machine
 - - gilbert's
   - improved
   - iron
 - - iron
   - harvest
   - sickle
-- - wheat
-  - pickling
-  - machine
-- - potato
-  - grading
-  - shovel
 - - wet
   - wheat
   - pickling
+- - potato
+  - grading
+  - shovel
 - - five
   - morris's
   - turnip
+- - sack
+  - o'
+  - pelf
 - - five
   - horn
   - trainers
+- - grief
+  - tarleton
+  - cried
 - - iron
   - sack
   - holder
 - - improved
   - iron
   - sack
-- - grief
-  - tarleton
-  - cried
 - - light
   - reflecting
   - booster
 - - word
   - pelf
   - stencilled
-- - black
-  - block
-  - capitals
 - - ping
   - harmlessly
   - against
+- - black
+  - block
+  - capitals
 - - four
   - american
   - butter
-- - o'
-  - pelf
-  - having
 - - pelf
   - having
   - located
 - - shattered
   - good
   - grief
+- - o'
+  - pelf
+  - having
+- - good
+  - grief
+  - tarleton
 - - weeks
   - later
   - twitching
 - - stolen
   - tarleton
   - put
-- - good
-  - grief
-  - tarleton
 - - big
   - black
   - block
 - - amanuensis
   - old
   - wilkie
-- - screamed
+- - apprised
   - old
   - wilkie
-- - apprised
+- - screamed
   - old
   - wilkie
 - - screeched
@@ -149,12 +149,12 @@ ngrams:
 - - shouted
   - old
   - wilkie
-- - old
-  - farmer
-  - frack
 - - sold
   - old
   - farmer
+- - old
+  - farmer
+  - frack
 - - rightful
   - possessions
   - just
@@ -179,9 +179,6 @@ ngrams:
 - - shortly
   - before
   - seeing
-- - only
-  - recently
-  - emerged
 - - sack
   - slung
   - over
@@ -191,60 +188,66 @@ ngrams:
 - - methods
   - said
   - tarleton
+- - only
+  - recently
+  - emerged
 - - doings
   - being
   - among
+- - pelf
+  - stencilled
+  - upon
 - - tarleton
   - put
   - two
 - - wilkie
   - wrote
   - down
-- - pelf
-  - stencilled
-  - upon
-- - came
-  - crashing
-  - through
 - - question
   - tarleton
   - said
+- - came
+  - crashing
+  - through
 - - old
   - wilkie
   - these
-- - how
-  - screamed
-  - old
 - - doings
   - long
   - after
+- - how
+  - screamed
+  - old
+- - both
+  - sprawled
+  - upon
 - - eaten
   - some
   - kippers
 - - eaten
   - some
   - kippers
+- - how
+  - tarleton
+  - how
 - - ate
   - some
   - kippers
 - - eat
   - some
   - kippers
-- - how
-  - tarleton
-  - how
 - - said
   - old
   - wilkie
-- - both
-  - sprawled
-  - upon
-- - returned
-  - some
-  - weeks
 - - tarleton
   - said
   - old
+- - returned
+  - some
+  - weeks
+- - among
+  - other
+  - things
 - - been
   - muffled
   - wallowing
@@ -254,27 +257,24 @@ ngrams:
 - - having
   - located
   - him
-- - your
-  - heart's
-  - content
-- - among
-  - other
-  - things
 - - know
   - said
   - tarleton
+- - your
+  - heart's
+  - content
 - - been
   - stolen
   - tarleton
+- - opium
+  - den
+  - if
 - - destroying
   - moles
   - were
 - - being
   - among
   - other
-- - opium
-  - den
-  - if
 - - will
   - ping
   - harmlessly
@@ -284,12 +284,12 @@ ngrams:
 - - must
   - know
   - said
-- - were
-  - both
-  - sprawled
 - - digs
   - himself
   - into
+- - were
+  - both
+  - sprawled
 - - some
   - more
   - kippers
@@ -299,33 +299,33 @@ ngrams:
 - - device
   - which
   - works
-- - moles
-  - were
-  - any
+- - came
+  - there
+  - none
+- - came
+  - there
+  - none
+- - answer
+  - came
+  - there
+- - answer
+  - came
+  - there
 - - shall
   - find
   - out
-- - came
-  - there
-  - none
-- - came
-  - there
-  - none
-- - answer
-  - came
-  - there
-- - answer
-  - came
-  - there
+- - moles
+  - were
+  - any
 - - wrote
   - down
   - what
 - - an
-  - automatic
-  - sheaf
-- - an
   - improvised
   - crossbow
+- - an
+  - automatic
+  - sheaf
 - - shooting
   - an
   - arrow
@@ -335,39 +335,39 @@ ngrams:
 - - too
   - are
   - apprised
-- - an
-  - arrow
-  - between
 - - court
   - so
   - much
-- - kippers
-  - had
-  - fled
-- - wearing
-  - this
-  - metal
+- - an
+  - arrow
+  - between
 - - one
   - question
   - tarleton
-- - boulevards
-  - tarleton
-  - had
-- - death
-  - using
-  - one
+- - wearing
+  - this
+  - metal
 - - find
   - out
   - where
+- - death
+  - using
+  - one
+- - kippers
+  - had
+  - fled
 - - will
   - entrap
   - him
+- - boulevards
+  - tarleton
+  - had
+- - much
+  - so
+  - indeed
 - - eerie
   - barn
   - had
-- - will
-  - run
-  - him
 story:
   date: 2017-12-27
   id: 2017-12-27-ten-tarleton-tales-vii

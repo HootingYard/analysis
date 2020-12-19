@@ -5,33 +5,33 @@ ngrams:
 - - improvisers
   - brave
   - adventurous
-- - million
-  - hornets
-  - audible
 - - improv
   - knot
   - knitters
+- - million
+  - hornets
+  - audible
 - - hurry
   - requires
   - inhuman
 - - brave
   - adventurous
   - souls
-- - requires
-  - inhuman
-  - strength
 - - knitted
   - knot
   - hurrying
 - - knot
   - hurrying
   - brutes
-- - handle
-  - knitting
-  - needles
+- - requires
+  - inhuman
+  - strength
 - - average
   - knot
   - knitter
+- - handle
+  - knitting
+  - needles
 - - finest
   - knitted
   - knots
@@ -53,15 +53,15 @@ ngrams:
 - - pattern
   - books
   - containing
-- - whose
-  - tails
-  - thump
 - - 'true'
   - craft
   - whereas
 - - books
   - containing
   - instructions
+- - whose
+  - tails
+  - thump
 - - needle
   - against
   - needle
@@ -71,15 +71,15 @@ ngrams:
 - - brute
   - hurrying
   - past
-- - same
-  - writers
-  - tend
 - - invisible
   - thus
   - obviating
 - - knitter
   - invisible
   - thus
+- - same
+  - writers
+  - tend
 - - musculature
   - rarely
   - found
@@ -92,12 +92,12 @@ ngrams:
 - - hurrying
   - brute
   - must
-- - knots
-  - while
-  - remaining
 - - knit
   - knots
   - while
+- - knots
+  - while
+  - remaining
 - - knitters
   - however
   - need
@@ -113,51 +113,51 @@ ngrams:
 - - knots
   - while
   - sometimes
-- - tint
-  - dobson
-  - claims
-- - rex
-  - tint
-  - dobson
 - - pattern
   - before
   - embarking
+- - tint
+  - dobson
+  - claims
 - - our
   - hearts
   - flutter
-- - hornets
-  - audible
-  - only
-- - own
-  - special
-  - place
+- - rex
+  - tint
+  - dobson
 - - even
   - crochet
   - hooks
 - - knitter
   - even
   - improv
-- - brutes
-  - particularly
-  - those
+- - hornets
+  - audible
+  - only
 - - even
   - improv
   - knot
 - - knot
   - knitter
   - even
-- - these
-  - same
-  - writers
-- - those
-  - whose
-  - tails
+- - own
+  - special
+  - place
+- - brutes
+  - particularly
+  - those
 - - brute
   - such
   - interruptions
 - - hurrying
   - brute
   - such
+- - these
+  - same
+  - writers
+- - those
+  - whose
+  - tails
 - - our
   - hearts
   - whether
@@ -167,57 +167,54 @@ ngrams:
 - - whether
   - our
   - hearts
-- - hearts
-  - flutter
-  - like
-- - its
-  - tail
-  - thumps
 - - tails
   - thump
   - upon
+- - its
+  - tail
+  - thumps
+- - hurry
+  - coming
+  - upon
+- - hearts
+  - flutter
+  - like
 - - its
   - tail
   - thumping
 - - its
   - brute
   - cries
+- - least
+  - those
+  - cases
 - - roaring
   - its
   - brute
 - - knot
   - its
   - final
-- - least
-  - those
-  - cases
 - - particularly
   - those
   - whose
-- - hurry
-  - coming
-  - upon
 - - brute
   - must
   - first
 - - its
   - final
   - form
+- - digital
+  - agility
+  - can
+- - tied
+  - rather
+  - than
 - - hurrying
   - past
   - its
 - - past
   - its
   - tail
-- - digital
-  - agility
-  - can
-- - among
-  - other
-  - materials
-- - tied
-  - rather
-  - than
 - - knitted
   - knots
   - can
@@ -230,21 +227,30 @@ ngrams:
 - - can
   - prove
   - fatal
-- - wool
-  - among
+- - among
   - other
+  - materials
 - - knitter
   - then
   - almost
+- - wool
+  - among
+  - other
+- - very
+  - first
+  - clack
 - - knitter
   - has
   - located
 - - knitted
   - knot
   - has
-- - very
-  - first
-  - clack
+- - its
+  - own
+  - literature
+- - then
+  - almost
+  - certainly
 - - brutes
   - who
   - hurry
@@ -254,33 +260,27 @@ ngrams:
 - - brutes
   - who
   - roam
-- - its
-  - own
-  - literature
-- - then
-  - almost
-  - certainly
-- - other
-  - materials
-  - while
-- - souls
-  - who
-  - begin
-- - while
-  - roaring
-  - its
 - - knots
   - can
   - use
+- - while
+  - roaring
+  - its
+- - other
+  - materials
+  - while
 - - its
   - own
   - special
+- - souls
+  - who
+  - begin
 - - who
   - roam
   - alone
-- - single
-  - brutes
-  - who
+- - before
+  - such
+  - binding
 story:
   date: 2008-08-10
   id: 2008-08-10-to-knit-knots-peradventure

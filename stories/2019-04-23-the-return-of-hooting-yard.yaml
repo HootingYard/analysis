@@ -29,12 +29,12 @@ ngrams:
 - - went
   - kaput
   - boffins
-- - website
-  - went
-  - kaput
 - - further
   - sweeping
   - paragraphs
+- - website
+  - went
+  - kaput
 - - majestic
   - prose
   - it's
@@ -50,9 +50,6 @@ ngrams:
 - - damned
   - keyboard
   - again
-- - long
-  - snooze
-  - '-'
 - - simply
   - sprawl
   - around
@@ -65,6 +62,9 @@ ngrams:
 - - again
   - however
   - slowly
+- - long
+  - snooze
+  - '-'
 story:
   date: 2019-04-23
   id: 2019-04-23-the-return-of-hooting-yard

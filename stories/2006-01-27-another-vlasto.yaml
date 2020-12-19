@@ -2,48 +2,42 @@ ngrams:
 - - blinkered
   - dietary
   - opinions
-- - elegantly
-  - attired
-  - flailing
 - - incessant
   - prattling
   - transfixed
+- - elegantly
+  - attired
+  - flailing
 - - dirty
   - monsters
   - brutes
 - - tangerines
   - absurd
   - fools
-- - patience
-  - cuddy
-  - rose
 - - monsters
   - brutes
   - gloomy
-- - beasts
-  - dirty
-  - monsters
 - - civil
   - society
   - butchers
+- - patience
+  - cuddy
+  - rose
+- - beasts
+  - dirty
+  - monsters
 - - fools
   - beasts
   - dirty
-- - absurd
-  - fools
-  - beasts
-- - nearby
-  - orphanage
-  - subjected
 - - furious
   - filthy
   - lust
-- - tall
-  - stooping
-  - brother
 - - miss
   - patience
   - cuddy
+- - absurd
+  - fools
+  - beasts
 - - divine
   - miss
   - patience
@@ -53,6 +47,12 @@ ngrams:
 - - divine
   - miss
   - patience
+- - tall
+  - stooping
+  - brother
+- - nearby
+  - orphanage
+  - subjected
 - - sun
   - battered
   - mercilessly
@@ -62,15 +62,15 @@ ngrams:
 - - dark
   - animals
   - enemies
-- - gloomy
-  - dark
-  - animals
 - - orphanage
   - subjected
   - themselves
 - - human
   - race
   - moreover
+- - gloomy
+  - dark
+  - animals
 - - bright
   - sun
   - battered
@@ -101,51 +101,51 @@ ngrams:
 - - big
   - bright
   - sun
-- - guilty
-  - soul
-  - let
-- - deaf
-  - let
-  - red
 - - beast
   - without
   - control
+- - guilty
+  - soul
+  - let
 - - scarcely
   - cease
   - until
+- - deaf
+  - let
+  - red
 - - pieces
   - let
   - dogs
 - - rarely
   - ventured
   - far
-- - long
-  - arms
-  - pontificating
-- - spookily
-  - long
-  - arms
 - - too
   - busy
   - concentrating
-- - prattling
-  - transfixed
-  - dobson
+- - spookily
+  - long
+  - arms
+- - long
+  - arms
+  - pontificating
 - - runs
   - through
   - ack
-- - chewed
-  - see
-  - below
-- - cease
-  - until
-  - night
-- - bell
-  - many
-  - bells
+- - prattling
+  - transfixed
+  - dobson
 - - can't
   - quite
   - place
+- - cease
+  - until
+  - night
+- - chewed
+  - see
+  - below
+- - bell
+  - many
+  - bells
 - - ever
   - proven
   - tell
@@ -161,42 +161,36 @@ ngrams:
 - - fell
   - down
   - remind
+- - battered
+  - mercilessly
+  - upon
 - - far
   - too
   - busy
 - - other
   - citrus
   - fruits
-- - her
-  - tall
-  - stooping
-- - battered
-  - mercilessly
+- - other
+  - weather
+  - conditions
+- - eats
+  - anything
+  - other
+- - formidable
+  - mind
   - upon
+- - even
+  - millions
+  - under
 - - she
   - rarely
   - ventured
 - - her
+  - tall
+  - stooping
+- - her
   - donkey
   - compound
-- - other
-  - weather
-  - conditions
-- - her
-  - mighty
-  - waves
-- - eats
-  - anything
-  - other
-- - even
-  - millions
-  - under
-- - formidable
-  - mind
-  - upon
-- - night
-  - fell
-  - down
 - - throng
   - passed
   - more
@@ -206,69 +200,75 @@ ngrams:
 - - perhaps
   - even
   - millions
-- - she
-  - often
-  - conducted
-- - choke
-  - him
-  - nay
 - - than
   - fruit
   - let
-- - bread
-  - choke
+- - night
+  - fell
+  - down
+- - her
+  - mighty
+  - waves
+- - thousands
+  - perhaps
+  - even
+- - choke
   - him
+  - nay
+- - donkeys
+  - some
+  - died
 - - lion
   - tear
   - him
 - - comets
   - dash
   - him
+- - bread
+  - choke
+  - him
 - - strike
   - him
   - deaf
-- - donkeys
-  - some
-  - died
-- - thousands
-  - perhaps
-  - even
 - - dogs
   - devour
   - him
-- - wretch
-  - who
-  - eats
+- - she
+  - often
+  - conducted
 - - very
   - few
   - people
-- - fire
-  - burn
-  - him
+- - wretch
+  - who
+  - eats
 - - never
   - commit
   - any
-- - crate
-  - while
-  - she
-- - while
-  - she
-  - rarely
-- - who
-  - eats
-  - anything
-- - moon
-  - light
+- - fire
+  - burn
   - him
 - - stooping
   - brother
   - 'no'
+- - who
+  - eats
+  - anything
 - - their
   - courses
   - fight
 - - through
   - ack
   - did
+- - moon
+  - light
+  - him
+- - crate
+  - while
+  - she
+- - while
+  - she
+  - rarely
 - - air
   - poison
   - him

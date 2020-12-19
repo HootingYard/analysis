@@ -2,12 +2,12 @@ ngrams:
 - - scientist
   - inventor
   - politician
-- - soldier
-  - scientist
-  - inventor
 - - singer
   - gladys
   - knight
+- - soldier
+  - scientist
+  - inventor
 - - painter
   - soldier
   - scientist
@@ -35,18 +35,18 @@ ngrams:
 - - crucially
   - important
   - information
-- - three
-  - brothers
-  - named
-- - important
-  - publishing
-  - house
-- - cannot
-  - help
-  - wondering
 - - sorry
   - specimen
   - indeed
+- - cannot
+  - help
+  - wondering
+- - important
+  - publishing
+  - house
+- - three
+  - brothers
+  - named
 - - note
   - certain
   - striking
@@ -62,6 +62,9 @@ ngrams:
 - - young
   - persons
   - might
+- - persons
+  - might
+  - say
 - - legendary
   - pips
   - who
@@ -77,39 +80,36 @@ ngrams:
 - - has
   - proved
   - beyond
-- - persons
-  - might
-  - say
 - - then
   - compare
   - these
+- - immensely
+  - grateful
+  - if
 - - gladys
   - knight
   - were
 - - knight
   - were
   - eked
-- - been
-  - going
-  - swimmingly
 - - blues
   - nomenclature
   - out
-- - immensely
-  - grateful
-  - if
 - - references
   - if
   - possible
-- - dictionary
-  - will
-  - expect
+- - been
+  - going
+  - swimmingly
 - - if
   - possible
   - yours
 - - help
   - wondering
   - if
+- - dictionary
+  - will
+  - expect
 - - will
   - expect
   - chapter

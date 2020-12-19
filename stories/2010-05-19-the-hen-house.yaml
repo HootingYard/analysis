@@ -11,21 +11,21 @@ ngrams:
 - - beating
   - unnaturally
   - fast
-- - grey
-  - untidy
-  - beard
 - - buying
   - hats
   - oddly
 - - trouble
   - buying
   - hats
-- - ageing
-  - creaky
-  - bones
+- - grey
+  - untidy
+  - beard
 - - vegetation
   - grew
   - wilder
+- - ageing
+  - creaky
+  - bones
 - - creaky
   - bones
   - sped
@@ -71,30 +71,33 @@ ngrams:
 - - small
   - nocturnal
   - mammal
-- - hen
-  - house
-  - wall
-- - became
-  - somehow
-  - thick
-- - house
-  - wall
-  - remained
 - - looming
   - shape
   - against
-- - thump
-  - nothing
-  - bigger
+- - became
+  - somehow
+  - thick
 - - shop
   - lord
   - alone
-- - oddly
-  - lascivious
-  - birds
+- - thump
+  - nothing
+  - bigger
+- - hen
+  - house
+  - wall
+- - house
+  - wall
+  - remained
 - - rather
   - peculiarly
   - shaped
+- - oddly
+  - lascivious
+  - birds
+- - fall
+  - thus
+  - giving
 - - wood
   - always
   - creaks
@@ -104,18 +107,15 @@ ngrams:
 - - hat
   - shop
   - lord
-- - darkened
-  - parlour
-  - took
 - - lord
   - alone
   - knew
+- - darkened
+  - parlour
+  - took
 - - span
   - around
   - turning
-- - fall
-  - thus
-  - giving
 - - de
   - groot
   - myself
@@ -125,63 +125,63 @@ ngrams:
 - - beard
   - standing
   - next
-- - used
-  - hat
-  - shop
 - - usually
   - get
   - fed
+- - used
+  - hat
+  - shop
 - - ask
   - questions
   - later
-- - air
-  - became
-  - somehow
-- - cried
-  - why
-  - stand
-- - night
-  - flew
-  - past
 - - neither
   - stick
   - nor
+- - cried
+  - why
+  - stand
+- - air
+  - became
+  - somehow
+- - night
+  - flew
+  - past
 - - remained
   - utterly
   - still
 - - heart
   - still
   - unsure
-- - impelled
-  - forward
-  - ever
 - - stick
   - nor
   - dog
+- - impelled
+  - forward
+  - ever
 - - forward
   - ever
   - forward
-- - bearded
-  - man
-  - picking
 - - cannot
   - explain
   - why
-- - potato
-  - beds
-  - how
 - - surprised
   - how
   - easily
 - - peculiarly
   - shaped
   - head
-- - strange
-  - new
-  - ground
+- - potato
+  - beds
+  - how
+- - bearded
+  - man
+  - picking
 - - word
   - order
   - again
+- - strange
+  - new
+  - ground
 - - adorned
   - before
   - mine
@@ -197,12 +197,12 @@ ngrams:
 - - bones
   - sped
   - over
-- - unlatched
-  - back
-  - door
 - - barely
   - understand
   - before
+- - unlatched
+  - back
+  - door
 - - alone
   - knew
   - how
@@ -221,9 +221,6 @@ ngrams:
 - - always
   - just
   - ahead
-- - blind
-  - man
-  - always
 - - next
   - few
   - days
@@ -232,16 +229,22 @@ ngrams:
   - than
 - - blind
   - man
-  - go
-- - fit
-  - before
-  - long
+  - always
 - - am
   - impelled
   - forward
 - - looked
   - more
   - attentively
+- - fit
+  - before
+  - long
+- - may
+  - yet
+  - discover
+- - blind
+  - man
+  - go
 - - back
   - door
   - again
@@ -254,147 +257,144 @@ ngrams:
 - - still
   - only
   - visible
-- - may
-  - yet
-  - discover
-- - observe
-  - him
-  - carefully
-- - guide
-  - him
-  - acting
-- - knew
-  - how
-  - old
 - - too
   - should
   - go
 - - how
   - many
   - heads
-- - has
-  - slapdash
-  - ways
+- - knew
+  - how
+  - old
 - - ever
   - forward
   - over
+- - observe
+  - him
+  - carefully
+- - guide
+  - him
+  - acting
 - - over
   - strange
   - new
-- - lawn
-  - fell
-  - him
 - - two
   - taller
   - than
-- - spilled
-  - some
-  - sort
+- - has
+  - slapdash
+  - ways
 - - then
   - wood
   - always
-- - any
-  - man
-  - alive
-- - walked
-  - towards
+- - lawn
+  - fell
   - him
+- - spilled
+  - some
+  - sort
 - - lacing
   - their
   - feed
+- - any
+  - man
+  - alive
 - - build
   - up
   - speed
 - - 'no'
   - reply
   - save
+- - walked
+  - towards
+  - him
 - - now
   - unlatched
   - back
-- - man
-  - always
-  - just
 - - beds
   - how
   - could
 - - potatoes
   - than
   - any
-- - bearded
-  - man
-  - more
+- - man
+  - always
+  - just
 - - its
   - fit
   - before
 - - lying
   - about
   - obscured
+- - bearded
+  - man
+  - more
 - - spade
   - lying
   - about
-- - still
-  - unsure
-  - who
 - - man
   - more
   - clearly
+- - still
+  - unsure
+  - who
 - - were
   - milky
   - white
 - - were
   - dr
   - baxter's
-- - has
-  - lasted
-  - years
 - - were
   - penfold
   - looked
+- - has
+  - lasted
+  - years
 - - eyes
   - were
   - milky
-- - they
-  - scudded
-  - westward
-- - four
-  - were
-  - present
-- - stairs
-  - they
-  - creaked
-- - him
-  - carefully
-  - over
-- - mean
-  - me
-  - harm
 - - strike
   - if
   - need
+- - they
+  - scudded
+  - westward
+- - stairs
+  - they
+  - creaked
 - - there
   - bearded
   - motionless
 - - visitor
   - ahoy
   - there
+- - four
+  - were
+  - present
+- - mean
+  - me
+  - harm
 - - air
   - usually
   - when
-- - ensure
-  - all
-  - four
+- - him
+  - carefully
+  - over
 - - standing
   - there
   - bearded
-- - fed
-  - them
-  - now
-- - than
-  - any
-  - man
 - - yet
   - discover
   - if
+- - ensure
+  - all
+  - four
+- - than
+  - any
+  - man
+- - fed
+  - them
+  - now
 - - unnaturally
   - fast
   - so
@@ -407,50 +407,47 @@ ngrams:
 - - there
   - loitering
   - next
-- - turned
-  - back
-  - into
-- - about
-  - potatoes
-  - than
-- - tablets
-  - still
-  - there
 - - why
   - would
   - anyone
+- - tablets
+  - still
+  - there
+- - about
+  - potatoes
+  - than
+- - turned
+  - back
+  - into
 - - freezing
   - day
   - out
+- - ever
+  - we
+  - reach
 - - an
   - instant
   - stitch
 - - develop
   - an
   - instant
-- - ever
-  - we
-  - reach
-- - ahoy
-  - there
-  - man
-- - which
-  - every
-  - detail
 - - beard
   - so
   - far
+- - ahoy
+  - there
+  - man
+- - might
+  - mean
+  - me
 - - more
   - about
   - potatoes
-- - taller
-  - than
-  - me
 - - go
   - so
   - fast
-- - might
-  - mean
+- - taller
+  - than
   - me
 - - knows
   - more
@@ -461,6 +458,18 @@ ngrams:
 - - never
   - will
   - yet
+- - which
+  - every
+  - detail
+- - so
+  - before
+  - swinging
+- - fast
+  - so
+  - before
+- - could
+  - guarantee
+  - they
 - - had
   - obtained
   - secondhand
@@ -470,66 +479,57 @@ ngrams:
 - - copper
   - had
   - stunned
-- - moon
-  - had
-  - vanished
-- - so
-  - before
-  - swinging
-- - could
-  - guarantee
-  - they
-- - peasant
-  - helpmeet
-  - had
-- - fast
-  - so
-  - before
-- - gloom
-  - over
-  - which
-- - terrapins
-  - they
-  - do
-- - good
-  - this
-  - omission
-- - had
-  - neither
-  - stick
-- - had
-  - vanished
-  - behind
-- - before
-  - long
-  - we
-- - always
-  - had
-  - trouble
 - - groot
   - overcoat
   - or
-- - beardy
-  - man
-  - an
-- - man
-  - an
-  - advantage
+- - good
+  - this
+  - omission
+- - terrapins
+  - they
+  - do
+- - moon
+  - had
+  - vanished
+- - peasant
+  - helpmeet
+  - had
+- - gloom
+  - over
+  - which
+- - overcoat
+  - or
+  - similar
+- - or
+  - similar
+  - padded
+- - before
+  - long
+  - we
 - - diligent
   - worker
   - but
 - - but
   - perfectly
   - moulded
-- - or
-  - similar
-  - padded
-- - overcoat
-  - or
-  - similar
-- - obtained
-  - secondhand
-  - from
+- - benign
+  - but
+  - equally
+- - had
+  - neither
+  - stick
+- - had
+  - vanished
+  - behind
+- - age
+  - but
+  - perfectly
+- - always
+  - had
+  - trouble
+- - beardy
+  - man
+  - an
 story:
   date: 2010-05-19
   id: 2010-05-19-the-hen-house

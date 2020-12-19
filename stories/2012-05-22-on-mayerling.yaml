@@ -5,63 +5,63 @@ ngrams:
 - - rigid
   - stultifying
   - protocol
-- - karl
-  - graves
-  - introduces
 - - starring
   - omar
   - sharif
 - - otto
   - trusted
   - attendants
+- - karl
+  - graves
+  - introduces
 - - adds
   - graves
   - portentously
-- - guilty
-  - guilty
-  - woe
 - - washington
   - dc
   - charged
+- - guilty
+  - guilty
+  - woe
 - - forensic
   - examination
   - claiming
-- - los
-  - angeles
-  - grand
 - - drama
   - starring
   - omar
 - - seething
   - passions
   - bubbling
+- - blah
+  - blah
+  - blah
+- - los
+  - angeles
+  - grand
 - - costume
   - drama
   - starring
 - - hunting
   - companion
   - respectively
-- - angeles
-  - grand
-  - theft
-- - blah
-  - blah
-  - blah
-- - murder
-  - suicide
-  - sex
 - - imperial
   - court
   - sex
-- - champagne
-  - bottle
-  - crushing
+- - angeles
+  - grand
+  - theft
+- - murder
+  - suicide
+  - sex
 - - plans
   - blah
   - blah
 - - blah
   - blah
   - yesterday's
+- - champagne
+  - bottle
+  - crushing
 - - passions
   - bubbling
   - beneath
@@ -71,18 +71,18 @@ ngrams:
 - - talk
   - adds
   - graves
-- - maybe
-  - graves
-  - sounds
 - - laid
   - plans
   - blah
-- - random
-  - featured
-  - article
+- - maybe
+  - graves
+  - sounds
 - - general
   - unbearably
   - tedious
+- - random
+  - featured
+  - article
 - - prince
   - rudolf
   - heir
@@ -98,33 +98,36 @@ ngrams:
 - - official
   - secrets
   - act
-- - mythology
-  - i'm
-  - afraid
 - - theory
   - worth
   - pursuing
-- - director
-  - terence
-  - young
+- - mythology
+  - i'm
+  - afraid
 - - film
   - director
   - terence
+- - director
+  - terence
+  - young
+- - crown
+  - prince
+  - probably
 - - full
   - champagne
   - bottle
 - - whose
   - costume
   - drama
-- - crown
-  - prince
-  - probably
-- - mary
-  - lie
-  - dead
 - - best
   - laid
   - plans
+- - mary
+  - lie
+  - dead
+- - blah
+  - yesterday's
+  - idea
 - - five
   - hundred
   - miles
@@ -134,27 +137,24 @@ ngrams:
 - - three
   - intruders
   - muffled
-- - blah
-  - yesterday's
-  - idea
 - - freezing
   - austrian
   - night
 - - graves
   - already
   - knew
-- - terence
-  - young
-  - whose
-- - young
-  - whose
-  - costume
 - - bent
   - living
   - within
 - - lay
   - claim
   - right
+- - terence
+  - young
+  - whose
+- - young
+  - whose
+  - costume
 - - begun
   - quite
   - frankly
@@ -164,36 +164,36 @@ ngrams:
 - - worth
   - pursuing
   - another
-- - intruders
-  - while
-  - otto
 - - though
   - graves
   - sounds
-- - hours
-  - later
-  - shot
+- - intruders
+  - while
+  - otto
 - - well
   - maybe
   - graves
-- - should
-  - lay
-  - claim
+- - hours
+  - later
+  - shot
 - - max
   - too
   - shot
-- - something
-  - graves
-  - already
+- - should
+  - lay
+  - claim
 - - make
   - otto
   - talk
-- - city
-  - well
-  - maybe
+- - something
+  - graves
+  - already
 - - york
   - city
   - well
+- - city
+  - well
+  - maybe
 - - new
   - york
   - city
@@ -236,18 +236,12 @@ ngrams:
 - - graves
   - sounds
   - like
-- - she
-  - poisoned
-  - herself
-- - instead
-  - let
-  - us
 - - its
   - original
   - release
-- - she
-  - died
-  - accidentally
+- - instead
+  - let
+  - us
 - - let
   - us
   - turn
@@ -260,72 +254,81 @@ ngrams:
 - - never
   - make
   - otto
-- - claim
-  - right
-  - now
 - - living
   - within
   - such
+- - she
+  - poisoned
+  - herself
+- - she
+  - died
+  - accidentally
+- - claim
+  - right
+  - now
 - - know
   - something
   - else
 - - some
   - reason
   - billed
-- - featured
-  - article
-  - has
-- - max
-  - who
-  - opens
-- - respectively
-  - who
-  - smashed
 - - companion
   - respectively
   - who
-- - grand
-  - theft
+- - featured
+  - article
+  - has
+- - respectively
   - who
+  - smashed
+- - max
+  - who
+  - opens
+- - pursuing
+  - another
+  - more
 - - spy
   - who
   - claimed
-- - article
-  - has
-  - hit
+- - grand
+  - theft
+  - who
 - - years
   - later
   - old
 - - german
   - spy
   - who
-- - medical
-  - doctor
-  - who
-- - pursuing
-  - another
-  - more
-- - theft
-  - who
-  - knows
-- - who
-  - knows
-  - maybe
 - - another
   - more
   - gruesome
+- - article
+  - has
+  - hit
+- - then
+  - shot
+  - himself
+- - then
+  - shot
+  - himself
 - - us
   - turn
   - our
-- - then
-  - shot
-  - himself
-- - then
-  - shot
-  - himself
+- - theft
+  - who
+  - knows
+- - medical
+  - doctor
+  - who
+- - who
+  - knows
+  - maybe
 - - intruders
   - muffled
   - up
+- - might
+  - work
+  - well
 - - buffers
   - even
   - before
@@ -335,9 +338,6 @@ ngrams:
 - - think
   - i'd
   - like
-- - might
-  - work
-  - well
 - - has
   - begun
   - quite
@@ -347,42 +347,42 @@ ngrams:
 - - mary
   - were
   - discovered
-- - only
-  - do
-  - rudolf
-- - scotland
-  - having
-  - been
 - - talk
   - about
   - instead
+- - scotland
+  - having
+  - been
+- - only
+  - do
+  - rudolf
+- - later
+  - turned
+  - up
 - - having
   - been
   - caught
 - - another
   - been
   - claimed
-- - later
-  - turned
-  - up
 - - already
   - knew
   - about
-- - were
-  - both
-  - killed
 - - ruling
   - classes
   - there
 - - classes
   - there
   - lurk
-- - about
-  - instead
-  - let
+- - were
+  - both
+  - killed
 - - york
   - city
   - there
+- - about
+  - instead
+  - let
 - - memoir
   - came
   - out

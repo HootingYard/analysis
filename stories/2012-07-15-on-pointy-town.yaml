@@ -14,9 +14,6 @@ ngrams:
 - - slightly
   - worn
   - frayed
-- - uncle
-  - joe
-  - stalin
 - - balloon
   - rising
   - happily
@@ -29,12 +26,15 @@ ngrams:
 - - street
   - appurtenances
   - people's
-- - solid
-  - band
-  - separating
+- - uncle
+  - joe
+  - stalin
 - - entire
   - theology
   - crashing
+- - solid
+  - band
+  - separating
 - - remain
   - grim
   - reminders
@@ -44,99 +44,99 @@ ngrams:
 - - pocked
   - 'yes'
   - awful
-- - located
-  - precisely
-  - six
 - - hardly
   - bears
   - thinking
-- - band
-  - separating
-  - earth
-- - blue
-  - blue
-  - skies
 - - equally
   - unsure
   - whether
+- - located
+  - precisely
+  - six
+- - band
+  - separating
+  - earth
 - - precisely
   - six
   - miles
+- - blue
+  - blue
+  - skies
+- - exceedingly
+  - pointy
+  - tip
+- - properly
+  - pointy
+  - tip
+- - properly
+  - pointy
+  - buildings
+- - premature
+  - pointy
+  - bits
 - - blue
   - skies
   - above
 - - air
   - balloon
   - colliding
-- - exceedingly
-  - pointy
-  - tip
 - - air
   - ballooning
   - community
 - - air
   - balloon
   - rising
-- - properly
-  - pointy
-  - buildings
-- - properly
-  - pointy
-  - tip
-- - six
-  - miles
-  - above
-- - premature
-  - pointy
-  - bits
 - - almost
   - certainly
   - hallucinating
+- - six
+  - miles
+  - above
+- - town
+  - banning
+  - hot
+- - single
+  - pointy
+  - termination
 - - whopping
   - great
   - skyscraper
 - - banning
   - hot
   - air
-- - hot
-  - air
-  - ballooning
-- - hot
-  - air
-  - ballooning
-- - hot
-  - air
-  - ballooning
-- - airborne
-  - hot
-  - air
-- - banned
-  - hot
-  - air
-- - town
-  - banning
-  - hot
-- - hot
-  - air
-  - balloons
-- - hot
-  - air
-  - balloon
-- - hot
-  - air
-  - balloon
-- - hot
-  - air
-  - balloon
-- - single
-  - pointy
-  - termination
 - - pointy
   - tip
   - instead
+- - airborne
+  - hot
+  - air
+- - hot
+  - air
+  - ballooning
+- - hot
+  - air
+  - ballooning
+- - banned
+  - hot
+  - air
+- - hot
+  - air
+  - ballooning
+- - hot
+  - air
+  - balloons
 - - single
   - pointy
   - tip
+- - hot
+  - air
+  - balloon
+- - hot
+  - air
+  - balloon
+- - hot
+  - air
+  - balloon
 - - london's
   - new
   - whopping
@@ -148,10 +148,10 @@ ngrams:
   - bits
 - - pointy
   - town
-  - building
+  - yesterday
 - - pointy
   - town
-  - yesterday
+  - building
 - - damn
   - well
   - ought
@@ -161,33 +161,30 @@ ngrams:
 - - curiously
   - pointy
   - name
-- - whole
-  - place
-  - used
 - - putting
   - something
   - pointy
+- - whole
+  - place
+  - used
+- - nitpickers
+  - might
+  - argue
 - - eradicate
   - those
   - parts
 - - appear
   - dotted
   - here
+- - without
+  - good
+  - reason
 - - theology
   - crashing
   - down
 - - pevsner
   - ever
   - went
-- - without
-  - good
-  - reason
-- - nitpickers
-  - might
-  - argue
-- - should
-  - wait
-  - until
 - - quality
   - than
   - pevsner
@@ -197,15 +194,18 @@ ngrams:
 - - lick
   - how
   - pointy
-- - doing
-  - our
-  - utmost
+- - should
+  - wait
+  - until
 - - see
   - properly
   - pointy
 - - people's
   - hats
   - even
+- - doing
+  - our
+  - utmost
 - - new
   - whopping
   - great
@@ -215,69 +215,63 @@ ngrams:
 - - don't
   - know
   - stalin
+- - far
+  - far
+  - beyond
 - - its
   - actual
   - tip
 - - its
   - visible
   - tip
-- - far
-  - far
-  - beyond
 - - why
   - every
   - pointy
 - - softer
   - more
   - rounded
-- - hallucinating
-  - yet
-  - here
 - - more
   - rounded
   - quality
+- - hallucinating
+  - yet
+  - here
+- - pointy
+  - town
+  - how
 - - beyond
   - its
   - visible
-- - crashing
-  - down
-  - around
+- - am
+  - equally
+  - unsure
 - - wait
   - until
   - after
 - - pointy
   - town
-  - how
-- - am
-  - equally
-  - unsure
-- - its
-  - top
-  - ought
-- - comments
-  - look
-  - like
-- - pointy
-  - town
   - just
-- - us
-  - say
-  - merely
-- - do
-  - remain
-  - grim
+- - crashing
+  - down
+  - around
 - - less
   - pointy
   - than
+- - us
+  - say
+  - merely
+- - its
+  - top
+  - ought
+- - do
+  - remain
+  - grim
 - - further
   - than
   - pointy
-- - support
-  - them
-  - fight
-- - many
-  - years
-  - since
+- - comments
+  - look
+  - like
 - - pointy
   - town
   - where
@@ -290,27 +284,33 @@ ngrams:
 - - more
   - pointy
   - bits
+- - support
+  - them
+  - fight
 - - place
   - than
   - pointy
-- - let
-  - us
-  - say
-- - them
-  - fight
-  - daily
+- - many
+  - years
+  - since
 - - pointy
   - town
   - now
+- - them
+  - fight
+  - daily
+- - let
+  - us
+  - say
 - - disprove
   - their
   - contention
-- - name
-  - like
-  - oh
 - - far
   - beyond
   - its
+- - name
+  - like
+  - oh
 - - their
   - entire
   - theology
@@ -326,96 +326,96 @@ ngrams:
 - - parenthesis
   - just
   - then
-- - rising
-  - happily
-  - into
 - - town
   - where
   - before
-- - mystery
-  - some
-  - say
-- - bears
-  - thinking
-  - about
-- - design
-  - cries
-  - out
+- - rising
+  - happily
+  - into
 - - ever
   - more
   - pointy
+- - design
+  - cries
+  - out
+- - bears
+  - thinking
+  - about
+- - mystery
+  - some
+  - say
 - - us
   - who
   - support
 - - around
   - their
   - ears
+- - sure
+  - if
+  - pevsner
+- - pointy
+  - bits
+  - if
 - - centuries
   - those
   - who
 - - yet
   - been
   - discovered
-- - sure
-  - if
-  - pevsner
-- - those
-  - who
-  - lived
 - - were
   - almost
   - certainly
-- - pointy
-  - bits
-  - if
+- - balloon
+  - would
+  - crash
+- - those
+  - who
+  - lived
 - - go
   - 'no'
   - further
 - - need
   - go
   - 'no'
-- - balloon
-  - would
-  - crash
-- - been
-  - pevsner
-  - after
+- - about
+  - pointy
+  - town
+- - when
+  - pointy
+  - town
+- - would
+  - actually
+  - disprove
 - - imaginable
   - they
   - almost
 - - they
   - almost
   - succeeded
-- - about
-  - pointy
-  - town
+- - been
+  - pevsner
+  - after
+- - struggled
+  - so
+  - heroically
+- - if
+  - pevsner
+  - ever
 - - up
   - way
   - past
 - - let
   - me
   - repeat
-- - would
-  - actually
-  - disprove
-- - when
-  - pointy
-  - town
-- - struggled
-  - so
-  - heroically
 - - place
   - imaginable
   - they
-- - if
-  - pevsner
-  - ever
-- - joe
-  - stalin
-  - which
-- - london
-  - which
-  - survived
+- - air
+  - balloon
+  - would
+- - magnificent
+  - novel
+  - so
 story:
   date: 2012-07-15
   id: 2012-07-15-on-pointy-town

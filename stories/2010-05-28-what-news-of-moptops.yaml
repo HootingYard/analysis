@@ -8,15 +8,15 @@ ngrams:
 - - wife
   - barbara
   - bach
+- - chelsea
+  - flower
+  - show
+- - chelsea
+  - flower
+  - show
 - - age
   - o'
   - pap
-- - chelsea
-  - flower
-  - show
-- - chelsea
-  - flower
-  - show
 - - indeed
   - wholly
   - ignorant
@@ -38,18 +38,18 @@ ngrams:
 - - people
   - who
   - think
-- - barbarism
-  - are
-  - written
 - - happened
   - before
   - about
+- - barbarism
+  - are
+  - written
 - - are
   - indeed
   - wholly
-- - this
-  - age
-  - o'
+- - flower
+  - show
+  - this
 story:
   date: 2010-05-28
   id: 2010-05-28-what-news-of-moptops

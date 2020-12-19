@@ -8,14 +8,14 @@ ngrams:
 - - woman
   - fop
   - begone
+- - woo
+  - cow
+  - begone
+- - woo
+  - cow
+  - begone
 - - ron
   - horse
-  - begone
-- - woo
-  - cow
-  - begone
-- - woo
-  - cow
   - begone
 - - ron
   - ron
@@ -35,12 +35,12 @@ ngrams:
 - - stood
   - still
   - da
-- - heart
-  - stood
-  - still
 - - incantation
   - too
   - soon
+- - heart
+  - stood
+  - still
 - - found
   - myself
   - propelled
@@ -56,12 +56,15 @@ ngrams:
 - - addressed
   - these
   - words
-- - begone
-  - she
-  - yelled
 - - jill
   - she
   - hissed
+- - begone
+  - she
+  - yelled
+- - these
+  - words
+  - turned
 - - begone
   - she
   - repeated
@@ -74,9 +77,6 @@ ngrams:
 - - whom
   - she
   - addressed
-- - these
-  - words
-  - turned
 - - cow
   - begone
   - she
@@ -86,9 +86,9 @@ ngrams:
 - - horse
   - begone
   - she
-- - her
-  - somebody
-  - told
+- - some
+  - eldritch
+  - force
 story:
   date: 2005-09-04
   id: 2005-09-04-horse-begone

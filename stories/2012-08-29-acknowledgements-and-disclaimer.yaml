@@ -11,27 +11,33 @@ ngrams:
 - - lawrence
   - duke
   - ellington
-- - basil
-  - balanchine
-  - nijinsky
 - - gordon
   - craig
   - heifetz
+- - basil
+  - balanchine
+  - nijinsky
 - - harper's
   - bazaar
   - kingdom
-- - grand
-  - duke
-  - cyril
-- - astor
-  - henry
-  - moore
+- - l
+  - n
+  - fowler
+- - messrs
+  - l
+  - n
 - - russian
   - ballet
   - lawrence
+- - grand
+  - duke
+  - cyril
 - - wickham
   - lady
   - astor
+- - astor
+  - henry
+  - moore
 - - anna
   - wickham
   - lady
@@ -44,21 +50,15 @@ ngrams:
 - - joe
   - e
   - brown
-- - except
-  - messrs
-  - l
-- - lady
-  - astor
-  - henry
 - - d
   - h
   - lawrence
-- - l
-  - n
-  - fowler
-- - messrs
+- - lady
+  - astor
+  - henry
+- - except
+  - messrs
   - l
-  - n
 - - e
   - brown
   - clark

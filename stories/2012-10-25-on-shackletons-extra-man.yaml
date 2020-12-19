@@ -32,36 +32,36 @@ ngrams:
 - - clothes
   - brushes
   - tins
-- - arthur
-  - gordon
-  - pym
 - - silver
   - cutlery
   - backgammon
 - - monogrammed
   - silver
   - cutlery
+- - arthur
+  - gordon
+  - pym
 - - boards
   - cigar
   - cases
-- - cigar
-  - cases
-  - clothes
 - - unfortunately
   - slapdash
   - handling
+- - cigar
+  - cases
+  - clothes
 - - cases
   - clothes
   - brushes
+- - smudging
+  - rendering
+  - parts
 - - monotony
   - darkness
   - barren
 - - darkness
   - barren
   - landscapes
-- - smudging
-  - rendering
-  - parts
 - - rigorous
   - exercise
   - regime
@@ -83,15 +83,15 @@ ngrams:
 - - cold
   - injury
   - dehydration
-- - isolation
-  - cold
-  - injury
-- - isolation
-  - cold
-  - injury
 - - spirit
   - guide
   - summoned
+- - isolation
+  - cold
+  - injury
+- - isolation
+  - cold
+  - injury
 - - landscape
   - isolation
   - cold
@@ -113,21 +113,21 @@ ngrams:
 - - home
   - salty
   - icicles
-- - michael
-  - shermer
-  - put
 - - historic
   - document
   - good
-- - always
-  - walks
-  - beside
+- - michael
+  - shermer
+  - put
 - - stole
   - anything
   - important
 - - floe
   - somewhere
   - between
+- - always
+  - walks
+  - beside
 - - somewhere
   - between
   - south
@@ -137,18 +137,18 @@ ngrams:
 - - document
   - good
   - evening
-- - suddenly
-  - memories
-  - came
 - - begun
   - going
   - round
-- - great
-  - ice
-  - continent
+- - suddenly
+  - memories
+  - came
 - - mind
   - both
   - numbed
+- - great
+  - ice
+  - continent
 - - distance
   - always
   - enough
@@ -158,12 +158,12 @@ ngrams:
 - - shackleton's
   - extra
   - man
-- - shackleton's
-  - extra
-  - man
 - - through
   - monotony
   - darkness
+- - shackleton's
+  - extra
+  - man
 - - group
   - trudging
   - through
@@ -176,42 +176,42 @@ ngrams:
 - - before
   - arthur
   - gordon
-- - icicles
-  - dripping
-  - down
-- - albatross
-  - note
-  - see
 - - never
   - stole
   - anything
-- - note
-  - ever
-  - happens
 - - cannot
   - remember
   - quite
+- - icicles
+  - dripping
+  - down
 - - note
+  - ever
+  - happens
+- - albatross
+  - note
   - see
-  - crime
 - - lolling
   - behind
   - never
+- - note
+  - see
+  - crime
 - - trudged
   - away
   - across
-- - brain
-  - through
-  - monotony
-- - shackleton's
-  - brain
-  - through
 - - too
   - far
   - ahead
 - - never
   - quite
   - catching
+- - shackleton's
+  - brain
+  - through
+- - brain
+  - through
+  - monotony
 - - came
   - flooding
   - back
@@ -245,102 +245,99 @@ ngrams:
 - - found
   - myself
   - here
-- - charles
-  - lindbergh
-  - who
 - - here
   - before
   - scott
 - - before
   - amundsen
   - before
+- - charles
+  - lindbergh
+  - who
 - - before
   - scott
   - before
-- - idea
-  - how
-  - many
 - - stow
   - away
   - upon
+- - idea
+  - how
+  - many
 - - riotous
   - parties
   - up
 - - could
   - stow
   - away
-- - who
-  - always
-  - walks
-- - penguins
-  - who
-  - took
 - - illegible
   - what
   - follows
-- - third
-  - who
+- - who
   - always
+  - walks
 - - text
   - illegible
   - what
-- - explorers
-  - were
-  - asleep
+- - penguins
+  - who
+  - took
+- - third
+  - who
+  - always
 - - here
   - time
   - stops
-- - look
-  - ahead
-  - up
 - - 'no'
   - longer
   - used
+- - look
+  - ahead
+  - up
 - - how
   - many
   - years
 - - happens
   - here
   - time
-- - first
-  - man
-  - ever
-- - quite
-  - catching
-  - up
+- - explorers
+  - were
+  - asleep
 - - joined
   - them
   - too
+- - quite
+  - catching
+  - up
 - - member
   - than
   - could
+- - more
+  - member
+  - than
+- - first
+  - man
+  - ever
 - - seven
   - hundred
   - when
 - - saw
   - them
   - again
-- - more
-  - member
-  - than
-- - extra
-  - man
-  - who
-- - extra
-  - man
-  - who
-- - long
-  - been
-  - believed
 - - than
   - could
   - actually
+- - long
+  - been
+  - believed
+- - extra
+  - man
+  - who
+- - extra
+  - man
+  - who
 - - weeks
   - later
   - when
-- - man
-  - who
-  - during
 - - me
   - lolling
   - behind
@@ -353,21 +350,24 @@ ngrams:
 - - am
   - still
   - here
+- - man
+  - who
+  - during
 - - 'no'
   - idea
   - how
-- - follows
-  - are
-  - passages
 - - way
   - hoping
   - if
-- - which
-  - turned
-  - instantly
-- - all
-  - these
-  - chaps
+- - follows
+  - are
+  - passages
+- - soon
+  - enough
+  - there
+- - am
+  - 'no'
+  - figment
 story:
   date: 2012-10-25
   id: 2012-10-25-on-shackletons-extra-man

@@ -2,12 +2,12 @@ ngrams:
 - - terribly
   - terribly
   - debilitating
-- - squalid
-  - seafront
-  - boarding
 - - '''s'
   - squalid
   - seafront
+- - squalid
+  - seafront
+  - boarding
 - - tet
   - offensive
   - disaster
@@ -17,114 +17,114 @@ ngrams:
 - - weekly
   - digest
   - vol
-- - aviatrix
-  - named
-  - mavis
 - - hopelessly
   - bewildered
   - perched
 - - b
   - simultaneous
   - access
-- - retired
-  - aviatrix
+- - aviatrix
   - named
-- - splendid
-  - bucolic
-  - picnicking
-- - proved
-  - fatal
-  - source
-- - vertical
-  - line
-  - trailing
+  - mavis
 - - b
   - '''s'
   - squalid
+- - splendid
+  - bucolic
+  - picnicking
+- - vertical
+  - line
+  - trailing
+- - proved
+  - fatal
+  - source
+- - retired
+  - aviatrix
+  - named
+- - offensive
+  - disaster
+  - struck
 - - '''s'
   - poor
   - shattered
 - - ned
   - b
   - simultaneous
-- - offensive
-  - disaster
-  - struck
-- - terrifically
-  - exciting
-  - doings
-- - ned
-  - b
-  - '''s'
-- - ned
-  - b
-  - '''s'
-- - ned
-  - b
-  - '''s'
-- - allowing
-  - ned
-  - b
 - - picnic
   - panic
   - psychiatrists
 - - picnic
   - panic
   - mistakes
+- - ned
+  - b
+  - '''s'
+- - ned
+  - b
+  - '''s'
+- - ned
+  - b
+  - '''s'
+- - terrifically
+  - exciting
+  - doings
+- - allowing
+  - ned
+  - b
 - - release
   - ned
   - b
-- - bright
-  - red
-  - crayon
 - - gibbering
   - maniac
   - beyond
-- - b
-  - '''s'
-  - poor
-- - impromptu
-  - picnic
-  - ned
 - - standard
   - dilapidated
   - seaside
-- - seafront
-  - boarding
-  - house
+- - b
+  - '''s'
+  - poor
 - - dilapidated
   - seaside
   - resort
 - - dilapidated
   - seaside
   - resort
+- - impromptu
+  - picnic
+  - ned
+- - bright
+  - red
+  - crayon
 - - seaside
   - resort
   - fashion
 - - otherwise
   - splendid
   - bucolic
-- - study
-  - ned
-  - b
-- - mad
-  - vertical
-  - line
 - - b
   - '''s'
   - wild
+- - mad
+  - vertical
+  - line
+- - seafront
+  - boarding
+  - house
+- - study
+  - ned
+  - b
+- - picnic
+  - ned
+  - b
 - - ned
   - b
   - passed
 - - picnic
-  - ned
-  - b
+  - panic
+  - looking
 - - final
   - letter
   - c
-- - picnic
-  - panic
-  - looking
 - - impeccable
   - references
   - among
@@ -134,24 +134,24 @@ ngrams:
 - - least
   - allowing
   - ned
-- - mad
-  - eyes
-  - gazing
 - - town
   - visitors
   - report
 - - food
   - nor
   - slurp
+- - mad
+  - eyes
+  - gazing
 - - case
   - study
   - ned
-- - poor
-  - shattered
-  - brain
 - - hopelessly
   - bewildered
   - until
+- - poor
+  - shattered
+  - brain
 - - good
   - woman
   - mavis
@@ -164,90 +164,75 @@ ngrams:
 - - following
   - case
   - study
+- - pointy
+  - town
+  - visitors
 - - training
   - course
   - designed
 - - long
   - mad
   - vertical
-- - pointy
-  - town
-  - visitors
-- - days
-  - happily
-  - enough
 - - seaside
   - resort
   - far
+- - days
+  - happily
+  - enough
 - - well
   - ned
   - b
 - - wild
   - brain
   - told
-- - line
-  - trailing
-  - 'off'
 - - pebbly
   - beach
   - just
 - - b
   - never
   - consumed
+- - line
+  - trailing
+  - 'off'
 - - beach
   - just
   - yards
-- - found
-  - weeks
-  - later
 - - ned
   - b
   - never
+- - found
+  - weeks
+  - later
 - - very
   - sensible
   - woman
-- - she
-  - approached
-  - mavis
+- - picnics
+  - past
+  - might
 - - jolly
   - fellow
   - now
 - - fellow
   - now
   - reduced
-- - picnics
-  - past
-  - might
 - - phrenologist
   - nor
   - any
-- - among
-  - other
-  - responsibilities
-- - her
-  - attic
-  - room
-- - references
-  - among
-  - other
+- - she
+  - approached
+  - mavis
 - - might
   - find
   - attending
+- - among
+  - other
+  - responsibilities
+- - references
+  - among
+  - other
 - - other
   - brain
   - doctors
-- - shattered
-  - brain
-  - she
-- - seagull
-  - she
-  - took
-- - havoc
-  - she
-  - found
-- - trailing
-  - 'off'
-  - down
 - - bewildered
   - until
   - upon
@@ -257,63 +242,78 @@ ngrams:
 - - field
   - where
   - once
-- - picnickers
-  - who
-  - fly
-- - shot
-  - him
-  - dead
+- - her
+  - attic
+  - room
 - - past
   - might
   - well
-- - her
-  - life
-  - seen
+- - trailing
+  - 'off'
+  - down
+- - picnickers
+  - who
+  - fly
+- - shattered
+  - brain
+  - she
+- - seagull
+  - she
+  - took
+- - havoc
+  - she
+  - found
+- - shot
+  - him
+  - dead
 - - 'off'
   - down
   - towards
-- - him
-  - soon
-  - enough
+- - her
+  - life
+  - seen
 - - certainly
   - been
   - intended
-- - brain
-  - she
-  - must
-- - summer's
-  - day
-  - she
+- - him
+  - soon
+  - enough
+- - panic
+  - when
+  - picnicking
 - - panic
   - mistakes
   - were
+- - if
+  - carefully
+  - monitored
+- - picnics
+  - into
+  - ned
+- - brain
+  - she
+  - must
 - - brain
   - told
   - him
+- - ran
+  - screaming
+  - into
 - - find
   - him
   - gone
 - - found
   - him
   - soon
-- - panic
-  - when
-  - picnicking
-- - she
-  - must
-  - find
-- - picnics
-  - into
-  - ned
-- - her
-  - head
-  - began
-- - ran
-  - screaming
-  - into
 - - into
   - ned
   - b
+- - summer's
+  - day
+  - she
+- - almost
+  - certainly
+  - been
 story:
   date: 2012-11-07
   id: 2012-11-07-on-picnic-panic

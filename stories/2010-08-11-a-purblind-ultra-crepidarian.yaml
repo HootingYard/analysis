@@ -8,21 +8,18 @@ ngrams:
 - - queen
   - victoria's
   - funeral
-- - foul
-  - blizzard
-  - chasm
-- - producer
-  - director
-  - actor
 - - director
   - actor
   - playwright
+- - producer
+  - director
+  - actor
+- - foul
+  - blizzard
+  - chasm
 - - weekly
   - starling
   - showered
-- - pebbly
-  - beach
-  - howling
 - - leading
   - lady
   - edith
@@ -35,6 +32,9 @@ ngrams:
 - - unfathomable
   - reasons
   - jarvis
+- - pebbly
+  - beach
+  - howling
 - - actor
   - playwright
   - stage
@@ -44,87 +44,87 @@ ngrams:
 - - final
   - play
   - toppling
-- - damn
-  - near
-  - forgotten
 - - unveiled
   - oh
   - tenebrous
+- - damn
+  - near
+  - forgotten
 - - play
   - adapted
   - certainly
 - - oh
   - tenebrous
   - gloom
-- - god
-  - although
-  - shaw
 - - performed
   - nor
   - cobbled
+- - god
+  - although
+  - shaw
+- - stage
+  - nor
+  - cobble
 - - later
   - plays
   - including
 - - near
   - forgotten
   - today
-- - big
-  - important
-  - theatres
 - - another
   - crumbling
   - theatre
-- - stage
-  - nor
-  - cobble
-- - half
-  - later
-  - following
+- - big
+  - important
+  - theatres
 - - several
   - later
   - plays
 - - moved
   - further
   - along
-- - theatrical
-  - stage
-  - two
+- - half
+  - later
+  - following
 - - foreign
   - extraction
   - years
 - - nor
   - cobbled
   - nor
+- - theatrical
+  - stage
+  - two
 - - wrote
   - himself
   - although
-- - wife
-  - ran
-  - 'off'
-- - stage
-  - two
-  - hundred
 - - probably
   - wrote
   - himself
+- - wife
+  - ran
+  - 'off'
 - - another
   - seaside
   - town
 - - another
   - seaside
   - town
+- - stage
+  - two
+  - hundred
 - - energetic
   - than
   - producer
-- - extraction
-  - years
-  - later
 - - than
   - producer
   - director
 - - yet
   - another
   - seaside
+- - extraction
+  - years
+  - later
 - - our
   - sight
   - red
@@ -140,15 +140,15 @@ ngrams:
 - - none
   - more
   - energetic
+- - others
+  - none
+  - more
 - - two
   - hundred
   - years
 - - first
   - two
   - decades
-- - others
-  - none
-  - more
 - - although
   - some
   - claim
@@ -158,21 +158,18 @@ ngrams:
 - - nor
   - even
   - read
-- - never
-  - purblind
-  - she
 - - herself
   - 'no'
   - mean
+- - never
+  - purblind
+  - she
 - - himself
   - although
   - some
 - - earthly
   - socket
   - into
-- - years
-  - later
-  - she
 - - play
   - toppling
   - into
@@ -182,12 +179,15 @@ ngrams:
 - - writing
   - about
   - somebody
-- - been
-  - performed
-  - nor
 - - more
   - energetic
   - than
+- - been
+  - performed
+  - nor
+- - years
+  - later
+  - she
 story:
   date: 2010-08-11
   id: 2010-08-11-a-purblind-ultra-crepidarian

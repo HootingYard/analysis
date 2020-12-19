@@ -1,16 +1,10 @@
 ngrams:
-- - psychotic
-  - maestro
-  - lothar
 - - mordant
   - bassoon
   - toots
 - - hms
   - gerard
   - manley
-- - maestro
-  - lothar
-  - preen
 - - undergo
   - rigorous
   - training
@@ -20,18 +14,18 @@ ngrams:
 - - ordinary
   - sailors
   - whichever
-- - gerard
-  - manley
-  - hopkins
-- - lp
-  - recording
-  - conducted
-- - survival
-  - skills
-  - scribbled
+- - psychotic
+  - maestro
+  - lothar
 - - battered
   - leaden
   - crown
+- - lp
+  - recording
+  - conducted
+- - gerard
+  - manley
+  - hopkins
 - - basic
   - survival
   - skills
@@ -41,9 +35,9 @@ ngrams:
 - - basic
   - survival
   - skills
-- - tatty
-  - tarpaulin
-  - abandoned
+- - survival
+  - skills
+  - scribbled
 - - somewhat
   - clinical
   - treatment
@@ -53,6 +47,12 @@ ngrams:
 - - wrenching
   - emotional
   - experience
+- - maestro
+  - lothar
+  - preen
+- - tatty
+  - tarpaulin
+  - abandoned
 - - final
   - movement
   - caused
@@ -74,21 +74,21 @@ ngrams:
 - - wrenching
   - experience
   - since
-- - sprite
-  - within
-  - dobson's
 - - terrible
   - beaks
   - thus
+- - sprite
+  - within
+  - dobson's
 - - seagulls
   - came
   - swooping
-- - while
-  - munching
-  - thirstily
 - - thing
   - waving
   - one's
+- - while
+  - munching
+  - thirstily
 - - mad
   - thing
   - waving
@@ -98,156 +98,156 @@ ngrams:
 - - most
   - wrenching
   - emotional
-- - question
-  - mark
-  - next
 - - every
   - single
   - chip
-- - remembered
-  - something
-  - else
+- - question
+  - mark
+  - next
 - - already
   - flown
   - far
+- - remembered
+  - something
+  - else
 - - sailors
   - whichever
   - way
 - - just
   - ordinary
   - sailors
+- - whichever
+  - way
+  - round
 - - found
   - himself
   - marooned
 - - yachting
   - cap
   - before
-- - whichever
-  - way
-  - round
-- - little
-  - sprite
-  - within
 - - remember
   - ever
   - seeing
-- - skills
-  - scribbled
-  - down
-- - rain
-  - fell
-  - dobson
+- - little
+  - sprite
+  - within
 - - emotionally
   - wrenching
   - than
-- - fell
-  - dobson
-  - looked
+- - skills
+  - scribbled
+  - down
 - - barren
   - rock
   - than
+- - flown
+  - far
+  - far
+- - neat
+  - rows
+  - upon
+- - rain
+  - fell
+  - dobson
 - - thus
   - dobson
   - experienced
 - - beaks
   - thus
   - dobson
-- - flown
-  - far
-  - far
-- - dream
+- - fell
   - dobson
-  - often
-- - neat
-  - rows
-  - upon
-- - very
-  - high
-  - above
-- - atoll
-  - dobson
-  - once
+  - looked
 - - various
   - creatures
   - such
-- - need
-  - only
-  - dance
-- - never
-  - found
-  - cause
+- - very
+  - high
+  - above
 - - details
   - upon
   - waking
+- - dream
+  - dobson
+  - often
+- - never
+  - found
+  - cause
+- - could
+  - collect
+  - rainwater
 - - dobson's
   - head
   - told
 - - within
   - dobson's
   - head
-- - could
-  - collect
-  - rainwater
-- - once
-  - found
-  - himself
+- - need
+  - only
+  - dance
 - - fingers
   - fell
   - upon
-- - first
-  - few
-  - minutes
+- - atoll
+  - dobson
+  - once
+- - once
+  - found
+  - himself
 - - food
   - problem
   - then
-- - another
-  - atoll
-  - where
 - - could
   - either
   - suck
+- - first
+  - few
+  - minutes
+- - another
+  - atoll
+  - where
 - - binder
   - himself
   - where
-- - homburg
-  - man
-  - through
 - - first
   - place
   - nor
-- - dobson
-  - once
-  - found
+- - upon
+  - something
+  - unfamiliar
 - - far
   - away
   - perhaps
 - - cap
   - before
   - how
-- - upon
-  - something
-  - unfamiliar
+- - homburg
+  - man
+  - through
 - - far
   - far
   - away
-- - credit
-  - dobson
-  - did
 - - fell
   - upon
   - something
+- - dobson
+  - once
+  - found
 - - place
   - nor
   - did
-- - high
-  - above
-  - him
 - - latter
   - 'no'
   - sooner
+- - credit
+  - dobson
+  - did
 - - their
   - terrible
   - beaks
+- - high
+  - above
+  - him
 - - let
   - them
   - thaw
@@ -260,132 +260,132 @@ ngrams:
 - - atoll
   - were
   - emotionally
+- - catch
+  - rainwater
+  - if
 - - ship's
   - crew
   - were
 - - glockenspiel
   - were
   - slightly
-- - circumstances
-  - were
-  - inexplicable
-- - ship
-  - hove
-  - into
-- - hove
-  - into
-  - view
 - - frozen
   - chips
   - out
-- - catch
-  - rainwater
+- - hove
+  - into
+  - view
+- - wondered
+  - briefly
   - if
-- - took
-  - him
-  - home
-- - chips
-  - seagulls
-  - will
-- - fact
-  - dobson
-  - could
+- - ship
+  - hove
+  - into
+- - circumstances
+  - were
+  - inexplicable
 - - books
   - about
   - atoll
 - - now
   - drew
   - upon
-- - were
-  - various
-  - creatures
+- - chips
+  - seagulls
+  - will
 - - emotional
   - moment
   - when
 - - snatched
   - up
   - every
-- - wondered
-  - briefly
-  - if
-- - were
-  - slightly
-  - less
 - - seagulls
   - will
   - eat
-- - wherewithal
-  - however
-  - were
+- - were
+  - various
+  - creatures
+- - took
+  - him
+  - home
+- - fact
+  - dobson
+  - could
+- - were
+  - slightly
+  - less
 - - when
   - rain
   - fell
+- - wherewithal
+  - however
+  - were
 - - looked
   - up
   - again
-- - however
-  - were
-  - precisely
 - - will
   - eat
   - anything
 - - up
   - every
   - single
+- - however
+  - were
+  - precisely
 - - having
   - toppled
   - into
-- - head
-  - told
-  - him
-- - would
-  - catch
-  - rainwater
 - - yachting
   - cap
   - would
 - - would
+  - catch
+  - rainwater
+- - would
   - normally
   - choose
-- - came
-  - swooping
-  - out
 - - cap
   - would
   - catch
-- - up
-  - before
-  - sending
-- - dobson
-  - looked
-  - up
 - - jesuits
   - would
   - appear
 - - would
   - ice
   - lollies
+- - came
+  - swooping
+  - out
+- - head
+  - told
+  - him
+- - up
+  - before
+  - sending
 - - survival
   - skills
   - so
-- - elements
-  - are
-  - evoked
 - - yachting
   - cap
   - so
-- - were
-  - just
-  - ordinary
-- - crew
-  - were
-  - just
+- - dobson
+  - looked
+  - up
+- - elements
+  - are
+  - evoked
 - - those
   - occasions
   - when
+- - were
+  - just
+  - ordinary
 - - could
   - lay
   - them
+- - crew
+  - were
+  - just
 - - four
   - elements
   - are

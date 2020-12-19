@@ -1,13 +1,13 @@
 ngrams:
-- - cumulonimbus
-  - stratus
-  - stratocumulus
 - - stratus
   - stratocumulus
   - altocumulus
 - - stratocumulus
   - altocumulus
   - cirrostratus
+- - cumulonimbus
+  - stratus
+  - stratocumulus
 - - cumulus
   - cumulonimbus
   - stratus
@@ -23,81 +23,81 @@ ngrams:
 - - claude
   - rains
   - vilma
-- - ayn
-  - rand
-  - household
-- - ayn
-  - rand
-  - household
-- - ayn
-  - rand
-  - household
 - - doppelganger
   - gazette
   - reported
-- - clouds
-  - cumulus
-  - cumulonimbus
 - - quaker
   - cloud
   - classifier
 - - luke
   - howard's
   - terms
+- - clouds
+  - cumulus
+  - cumulonimbus
+- - ayn
+  - rand
+  - household
+- - ayn
+  - rand
+  - household
+- - ayn
+  - rand
+  - household
 - - underground
   - cove
   - pushed
 - - sinister
   - intent
   - blasphemous
-- - moth
-  - beings
-  - cycling
-- - shockingly
-  - blasphemous
-  - ted
-- - mutant
-  - moth
-  - beings
-- - rand
-  - household
-  - pet
-- - rand
-  - household
-  - pet
 - - global
   - repercussions
   - busy
-- - rand
-  - household
-  - pet
-- - eighth
-  - birthday
-  - climbed
-- - feelings
-  - remained
-  - unchanged
+- - moth
+  - beings
+  - cycling
 - - prayed
   - desperately
   - hoping
+- - shockingly
+  - blasphemous
+  - ted
+- - feelings
+  - remained
+  - unchanged
+- - mutant
+  - moth
+  - beings
+- - eighth
+  - birthday
+  - climbed
 - - initial
   - newspaper
   - advertisement
-- - intent
-  - blasphemous
-  - ted
+- - rand
+  - household
+  - pet
+- - rand
+  - household
+  - pet
+- - rand
+  - household
+  - pet
 - - pet
   - rescue
   - squadron
-- - charming
-  - bungalow
-  - holding
-- - power
-  - edna
-  - purviance
 - - tyrone
   - power
   - edna
+- - intent
+  - blasphemous
+  - ted
+- - power
+  - edna
+  - purviance
+- - charming
+  - bungalow
+  - holding
 - - household
   - pet
   - rescue
@@ -122,213 +122,213 @@ ngrams:
 - - elderly
   - crumpled
   - priest
-- - teeth
-  - blasphemous
-  - ted
-- - marina
-  - chaplain
-  - father
-- - mentioned
-  - blasphemous
-  - ted
 - - power
   - suggested
   - programming
 - - tyrone
   - power
   - suggested
+- - marina
+  - chaplain
+  - father
 - - reverend
   - held
   - tight
 - - rescue
   - operation
   - carried
+- - mentioned
+  - blasphemous
+  - ted
 - - beast
   - exchange
   - office
+- - fellow
+  - jesuit
+  - gerard
+- - teeth
+  - blasphemous
+  - ted
 - - study
   - natural
   - phenomena
 - - pang
   - hill
   - bugle
-- - fellow
-  - jesuit
-  - gerard
 - - weeks
   - blasphemous
   - ted
-- - blasphemous
-  - ted
-  - spent
 - - fine
   - drizzle
   - father
+- - blasphemous
+  - ted
+  - spent
 - - probably
   - daft
   - ned
-- - compound
-  - deep
-  - below
 - - use
   - luke
   - howard's
-- - renown
-  - whose
-  - finest
+- - compound
+  - deep
+  - below
 - - eight
   - weeks
   - alone
+- - renown
+  - whose
+  - finest
 - - blasphemous
   - ted
   - got
 - - ted's
   - skull
   - however
-- - hot
-  - tea
-  - yelled
-- - piping
-  - hot
-  - tea
-- - piping
-  - hot
-  - tea
 - - fortnight
   - ago
   - siege
+- - hot
+  - tea
+  - yelled
 - - pointed
   - wooden
   - stick
+- - piping
+  - hot
+  - tea
+- - piping
+  - hot
+  - tea
 - - skull
   - however
   - proved
+- - yap
+  - nor
+  - yelp
 - - cycling
   - home
   - via
 - - blasphemous
   - ted
   - went
-- - yap
-  - nor
-  - yelp
 - - beings
   - cycling
   - home
 - - natural
   - phenomena
   - both
+- - heavy
+  - sleeper
+  - indeed
+- - small
+  - seaside
+  - resort
 - - hot
   - tea
   - using
 - - arrived
   - home
   - pushed
-- - small
-  - seaside
-  - resort
-- - heavy
-  - sleeper
-  - indeed
 - - cold
   - blustery
   - morning
-- - unforgiving
-  - ocean
-  - why
-- - good
-  - reverend
-  - held
 - - phenomena
   - both
   - common
+- - unforgiving
+  - ocean
+  - why
 - - beast
   - exchange
   - perhaps
+- - good
+  - reverend
+  - held
+- - howard's
+  - terms
+  - though
 - - guardian
   - ghost
   - himself
 - - preferred
   - seven
   - words
-- - howard's
-  - terms
-  - though
+- - suspiciously
+  - well
+  - fed
+- - simply
+  - repeated
+  - himself
 - - last
   - mentioned
   - blasphemous
 - - home
   - pushed
   - past
-- - simply
-  - repeated
-  - himself
-- - suspiciously
-  - well
-  - fed
-- - whose
-  - finest
-  - work
 - - shadow
   - world
   - beyond
-- - soon
-  - became
-  - known
 - - having
   - second
   - thoughts
-- - growing
-  - enraged
-  - old
 - - daily
   - cushion
   - while
+- - whose
+  - finest
+  - work
 - - came
   - past
   - trundling
-- - ted
-  - got
-  - himself
-- - plain
+- - growing
+  - enraged
   - old
-  - ted
+- - soon
+  - became
+  - known
 - - wooden
   - stick
   - until
-- - see
-  - blasphemous
+- - ted
+  - got
+  - himself
+- - looked
+  - suspiciously
+  - well
+- - plain
+  - old
   - ted
-- - how
+- - someone
+  - came
+  - past
+- - see
   - blasphemous
   - ted
 - - shoulder
   - still
   - sound
-- - someone
-  - came
-  - past
-- - looked
-  - suspiciously
-  - well
 - - still
   - sound
   - asleep
-- - care
-  - two
-  - pins
+- - how
+  - blasphemous
+  - ted
 - - end
   - weirdly
   - each
+- - care
+  - two
+  - pins
 - - world
   - beyond
   - death
-- - march
-  - shockingly
-  - just
 - - remained
   - unchanged
   - after
+- - march
+  - shockingly
+  - just
 - - found
   - himself
   - questioned
@@ -341,264 +341,396 @@ ngrams:
 - - before
   - tyrone
   - power
-- - dog
-  - food
-  - old
-- - newspaper
-  - advertisement
-  - down
-- - ghost
-  - himself
-  - every
 - - until
   - someone
   - came
-- - should
-  - explain
-  - why
-- - after
-  - eight
-  - weeks
+- - ghost
+  - himself
+  - every
+- - dog
+  - food
+  - old
 - - goat
   - before
   - examining
 - - hound
   - indeed
   - still
-- - week
-  - award
-  - back
-- - indeed
-  - still
-  - alive
-- - balloon
-  - being
-  - among
-- - where
-  - blasphemous
-  - ted
-- - resort
-  - where
-  - blasphemous
+- - should
+  - explain
+  - why
+- - newspaper
+  - advertisement
+  - down
+- - after
+  - eight
+  - weeks
 - - paid
   - fiends
   - even
+- - indeed
+  - still
+  - alive
 - - places
   - existed
   - even
+- - resort
+  - where
+  - blasphemous
+- - where
+  - blasphemous
+  - ted
+- - balloon
+  - being
+  - among
+- - week
+  - award
+  - back
 - - himself
   - every
   - bit
-- - watch
-  - over
-  - ted
-- - second
-  - thoughts
-  - after
 - - such
   - places
   - existed
-- - two
-  - pins
-  - nor
-- - asking
-  - any
-  - questions
-- - its
-  - equitable
-  - temper
-- - equitable
-  - temper
-  - its
+- - watch
+  - over
+  - ted
 - - heaped
   - upon
   - ted's
-- - garden
-  - gate
-  - where
-- - plainly
-  - eaten
-  - its
+- - asking
+  - any
+  - questions
+- - second
+  - thoughts
+  - after
 - - surely
   - such
   - places
 - - seaside
   - resort
   - where
+- - two
+  - pins
+  - nor
+- - garden
+  - gate
+  - where
+- - its
+  - equitable
+  - temper
+- - equitable
+  - temper
+  - its
+- - plainly
+  - eaten
+  - its
 - - eaten
   - its
   - fill
-- - ears
-  - its
-  - tricks
 - - more
   - shockingly
   - blasphemous
-- - temper
+- - ears
   - its
-  - ears
-- - then
-  - blasphemous
-  - ted
-- - more
-  - sinister
-  - intent
+  - tricks
 - - already
   - trained
   - upon
+- - temper
+  - its
+  - ears
+- - more
+  - sinister
+  - intent
+- - then
+  - blasphemous
+  - ted
 - - seven
   - words
   - only
+- - taken
+  - further
+  - down
+- - may
+  - until
+  - someone
+- - shockingly
+  - just
+  - two
 - - enraged
   - old
   - man
 - - joined
   - old
   - man
-- - shockingly
-  - just
-  - two
-- - taken
-  - further
-  - down
 - - heading
   - old
   - man
-- - vietcong
-  - judging
-  - him
-- - food
-  - old
-  - man
-- - may
-  - until
-  - someone
-- - judging
-  - him
-  - useless
 - - sleeper
   - indeed
   - its
-- - indeed
-  - its
-  - capacity
 - - more
   - times
   - ted
-- - things
+- - indeed
   - its
-  - equitable
+  - capacity
+- - vietcong
+  - judging
+  - him
 - - am
   - beyond
   - questions
-- - some
-  - renown
-  - whose
+- - judging
+  - him
+  - useless
+- - food
+  - old
+  - man
+- - things
+  - its
+  - equitable
 - - ted's
   - head
   - after
+- - some
+  - renown
+  - whose
 - - crumpled
   - priest
   - who
-- - lumbering
-  - towards
-  - him
 - - interrogators
   - shared
   - their
-- - just
-  - two
-  - days
 - - walked
   - unsteadily
   - up
-- - two
-  - days
-  - after
-- - fact
-  - said
-  - old
-- - fact
-  - said
-  - old
-- - haberdasher
-  - took
+- - lumbering
+  - towards
   - him
 - - well
   - fed
   - then
-- - dog
-  - why
-  - then
-- - your
-  - spiritual
-  - advice
-- - few
-  - more
-  - times
+- - just
+  - two
+  - days
+- - fact
+  - said
+  - old
+- - fact
+  - said
+  - old
+- - two
+  - days
+  - after
 - - upon
   - ted's
   - head
+- - dog
+  - why
+  - then
+- - few
+  - more
+  - times
+- - haberdasher
+  - took
+  - him
 - - bitter
   - enemy
   - what
 - - long
   - time
   - since
-- - tea
-  - feeding
-  - your
-- - prayers
-  - were
-  - answered
+- - your
+  - spiritual
+  - advice
 - - braked
   - sharply
   - when
 - - cove
   - pushed
   - into
+- - prayers
+  - were
+  - answered
+- - tea
+  - feeding
+  - your
 - - precisely
   - what
   - happened
-- - bugle
-  - will
-  - swap
-- - took
-  - him
-  - home
-- - need
-  - your
-  - spiritual
-- - shared
-  - their
-  - name
-- - sights
-  - were
-  - already
-- - were
-  - already
-  - trained
-- - wheelbarrow
-  - will
-  - walk
 - - even
   - more
   - shockingly
 - - fiends
   - even
   - more
+- - bugle
+  - will
+  - swap
+- - shared
+  - their
+  - name
 - - operation
   - carried
   - out
+- - wheelbarrow
+  - will
+  - walk
+- - sights
+  - were
+  - already
+- - need
+  - your
+  - spiritual
+- - were
+  - already
+  - trained
+- - took
+  - him
+  - home
+- - then
+  - did
+  - ted
 - - hill
   - bugle
   - will
+- - many
+  - other
+  - things
+- - however
+  - when
+  - traced
+- - what
+  - happened
+  - within
+- - laughing
+  - however
+  - when
+- - memories
+  - will
+  - recall
+- - its
+  - ears
+  - its
+- - became
+  - known
+  - what
 - - said
   - old
   - man
 - - said
   - old
   - man
+- - will
+  - swap
+  - dog
+- - will
+  - walk
+  - round
+- - nephews
+  - were
+  - called
+- - blasphemous
+  - visitor
+  - would
+- - come
+  - weather
+  - what
+- - were
+  - called
+  - ted
+- - spiritual
+  - advice
+  - there
+- - useless
+  - they
+  - decided
+- - very
+  - long
+  - time
+- - visitor
+  - would
+  - turn
+- - might
+  - do
+  - well
+- - other
+  - things
+  - its
+- - long
+  - memories
+  - will
+- - hollywood
+  - star
+  - so
+- - will
+  - ever
+  - change
+- - qualities
+  - which
+  - won
+- - were
+  - very
+  - gentle
+- - weather
+  - what
+  - may
+- - there
+  - come
+  - weather
+- - stand
+  - there
+  - come
+- - nothing
+  - will
+  - ever
+- - only
+  - then
+  - did
+- - military
+  - mistaking
+  - an
+- - an
+  - underground
+  - cove
+- - thoughts
+  - after
+  - all
+- - mistaking
+  - an
+  - innocent
+- - an
+  - elderly
+  - crumpled
+- - further
+  - down
+  - into
+- - one
+  - remaining
+  - teabag
+- - heaven's
+  - name
+  - are
+- - placed
+  - an
+  - advertisement
+- - one
+  - vital
+  - check
+- - what
+  - may
+  - until
+- - seven
+  - interrogators
+  - one
+- - otherwise
+  - we
+  - might
+- - this
+  - blasphemous
+  - ted
 story:
   date: 2005-07-08
   id: 2005-07-08-the-new-goat

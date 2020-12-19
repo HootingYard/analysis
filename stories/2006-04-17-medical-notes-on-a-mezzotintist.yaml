@@ -11,39 +11,36 @@ ngrams:
 - - poet
   - laureate
   - andrew
-- - current
-  - poet
-  - laureate
 - - expert
   - doctors
   - elsewhere
+- - current
+  - poet
+  - laureate
 - - reach
   - swift
   - startling
-- - fitting
-  - reaction
-  - somewhere
-- - medical
-  - information
-  - contained
 - - poems
   - rex
   - tint
+- - fitting
+  - reaction
+  - somewhere
 - - extensive
   - medical
   - knowledge
 - - extensive
   - medical
   - knowledge
-- - special
-  - ceremonial
-  - hammer
+- - medical
+  - information
+  - contained
 - - latest
   - mezzotint
   - equally
-- - says
-  - doctor
-  - doctor
+- - special
+  - ceremonial
+  - hammer
 - - less
   - expert
   - doctors
@@ -53,21 +50,24 @@ ngrams:
 - - piercing
   - mind
   - allow
-- - agony
-  - comes
-  - dobson's
+- - says
+  - doctor
+  - doctor
 - - bird
   - flu
   - thrown
+- - agony
+  - comes
+  - dobson's
 - - big
   - office
   - leafing
-- - comes
-  - dobson's
-  - approach
 - - death
   - agony
   - comes
+- - comes
+  - dobson's
+  - approach
 - - rex
   - tint
   - however
@@ -86,141 +86,141 @@ ngrams:
 - - shropshire
   - lad
   - while
-- - asked
-  - marigold
-  - chew
 - - drink
   - lemsip
   - while
 - - ceremonial
   - hammer
   - while
+- - asked
+  - marigold
+  - chew
 - - hammer
   - while
   - shouting
 - - just
   - inhuman
   - patience
-- - office
-  - leafing
-  - through
 - - yet
   - desperate
   - air
-- - only
-  - fitting
-  - reaction
+- - office
+  - leafing
+  - through
 - - pretty
   - much
   - common
-- - voice
-  - just
-  - inhuman
 - - head
   - cold
   - feign
+- - only
+  - fitting
+  - reaction
 - - slight
   - head
   - cold
+- - voice
+  - just
+  - inhuman
 - - high
   - speed
   - back
-- - these
-  - three
-  - methods
 - - much
   - common
   - sense
+- - these
+  - three
+  - methods
 - - lay
   - person
   - years
 - - medical
   - knowledge
   - now
-- - knowledge
-  - now
-  - imagine
 - - say
   - please
   - come
+- - knowledge
+  - now
+  - imagine
 - - head
   - three
   - times
 - - mild
   - illness
   - can
-- - dobson
-  - dobson
-  - nursing
-- - shout
-  - dobson
-  - dobson
 - - beat
   - him
   - thrice
 - - someone's
   - lung
   - has
-- - lung
-  - has
-  - collapsed
-- - motion
-  - who
-  - likes
-- - andrew
-  - motion
-  - who
-- - rex
-  - tint
-  - has
 - - illness
   - can
   - give
-- - makes
-  - him
-  - imagine
+- - lung
+  - has
+  - collapsed
+- - dobson
+  - dobson
+  - nursing
+- - andrew
+  - motion
+  - who
+- - motion
+  - who
+  - likes
+- - shout
+  - dobson
+  - dobson
+- - rex
+  - tint
+  - has
 - - punctured
   - shrivels
   - up
 - - needed
   - something
   - more
+- - makes
+  - him
+  - imagine
 - - pipes
   - your
   - instructions
 - - your
   - office
   - unannounced
-- - enters
-  - your
-  - office
-- - your
-  - console
-  - instead
 - - when
   - punctured
   - shrivels
+- - enters
+  - your
+  - office
 - - when
   - someone's
   - lung
-- - dobson
-  - dobson
-  - dobson
-- - your
-  - big
-  - desk
 - - falls
   - asleep
   - when
 - - your
-  - big
-  - office
-- - tucked
-  - into
-  - bed
+  - console
+  - instead
 - - more
   - than
   - gasp
+- - tucked
+  - into
+  - bed
+- - your
+  - big
+  - desk
+- - your
+  - big
+  - office
+- - tint
+  - has
+  - much
 - - take
   - him
   - home
@@ -230,54 +230,54 @@ ngrams:
 - - lung
   - has
   - just
-- - tint
-  - has
-  - much
 - - has
   - just
   - collapsed
 - - has
   - just
   - collapsed
+- - dobson
+  - dobson
+  - dobson
 - - methods
   - would
   - suit
-- - man
-  - enters
-  - your
 - - suit
   - me
   - best
 - - something
   - more
   - than
-- - console
-  - which
-  - pipes
-- - your
-  - voice
-  - just
+- - man
+  - enters
+  - your
 - - cardinals
   - are
   - summoned
-- - complicated
-  - diagrams
-  - which
-- - desk
-  - console
-  - which
-- - are
-  - doctor
-  - tint
 - - three
   - methods
   - would
 - - would
   - mean
   - nothing
+- - console
+  - which
+  - pipes
+- - your
+  - voice
+  - just
 - - much
   - more
   - than
+- - desk
+  - console
+  - which
+- - complicated
+  - diagrams
+  - which
+- - are
+  - doctor
+  - tint
 story:
   date: 2006-04-17
   id: 2006-04-17-medical-notes-on-a-mezzotintist

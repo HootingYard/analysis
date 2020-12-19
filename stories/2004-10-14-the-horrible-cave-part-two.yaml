@@ -8,48 +8,48 @@ ngrams:
 - - italianate
   - mustachios
   - lurking
+- - hung
+  - framed
+  - portraits
 - - sport
   - italianate
   - mustachios
 - - inspectors
   - sport
   - italianate
-- - hung
-  - framed
-  - portraits
 - - jethro
   - tull
   - emerson
-- - prog
-  - rock
-  - haven
 - - grisly
   - frame
   - primrose
-- - barclay
-  - james
-  - harvest
-- - benighted
-  - prog
-  - rock
 - - inevitable
   - travails
   - ahead
+- - prog
+  - rock
+  - haven
+- - benighted
+  - prog
+  - rock
+- - barclay
+  - james
+  - harvest
 - - emerson
   - lake
   - palmer
 - - walls
   - hung
   - framed
+- - vatican
+  - ghoul
+  - atop
 - - tull
   - emerson
   - lake
 - - mashed
   - potato
   - poultice
-- - vatican
-  - ghoul
-  - atop
 - - palmer
   - possibly
   - parker
@@ -65,51 +65,51 @@ ngrams:
 - - slow
   - clear
   - loud
-- - bird
-  - inspectors
-  - sport
-- - right
-  - emerson
-  - lake
 - - sopping
   - wet
   - making
-- - called
-  - limping
-  - irredentist
+- - bird
+  - inspectors
+  - sport
 - - emporium
   - tucked
   - between
+- - right
+  - emerson
+  - lake
+- - called
+  - limping
+  - irredentist
 - - clear
   - loud
   - voice
 - - horrible
   - cave
   - part
-- - mite
-  - should
-  - accidentally
 - - walked
   - rather
   - unsteadily
+- - mite
+  - should
+  - accidentally
 - - should
   - accidentally
   - wander
+- - take
+  - one's
+  - pleasures
 - - peered
   - around
   - looking
 - - potato
   - poultice
   - come
-- - take
-  - one's
-  - pleasures
-- - photographs
-  - although
-  - perhaps
 - - follow
   - soon
   - enough
+- - photographs
+  - although
+  - perhaps
 - - new
   - boiler
   - suit
@@ -122,39 +122,39 @@ ngrams:
 - - find
   - primrose
   - instead
-- - being
-  - proffered
-  - cups
 - - travails
   - ahead
   - these
+- - being
+  - proffered
+  - cups
 - - lawn
   - being
   - proffered
-- - three
-  - weeks
-  - later
 - - latin
   - being
   - spouted
-- - potatoes
-  - being
-  - mashed
-- - dying
-  - lawn
-  - being
-- - being
-  - mashed
-  - coming
 - - point
   - primrose
   - came
-- - most
-  - bird
-  - inspectors
+- - dying
+  - lawn
+  - being
+- - potatoes
+  - being
+  - mashed
+- - three
+  - weeks
+  - later
+- - being
+  - mashed
+  - coming
 - - moment
   - until
   - today
+- - most
+  - bird
+  - inspectors
 - - thing
   - happened
   - left
@@ -164,18 +164,21 @@ ngrams:
 - - rummaged
   - around
   - until
-- - paid
-  - little
-  - attention
 - - said
   - clearing
   - accumulated
-- - experience
-  - most
-  - bird
 - - found
   - myself
   - sitting
+- - paid
+  - little
+  - attention
+- - experience
+  - most
+  - bird
+- - worse
+  - than
+  - tarry
 - - cave
   - part
   - two
@@ -185,21 +188,12 @@ ngrams:
 - - until
   - today
   - three
-- - worse
-  - than
-  - tarry
 - - open
   - doorway
   - over
 - - than
   - photographs
   - although
-- - sounded
-  - like
-  - potatoes
-- - part
-  - two
-  - part
 - - away
   - still
   - groaning
@@ -209,72 +203,78 @@ ngrams:
 - - atop
   - its
   - gruesome
-- - other
-  - hair
-  - treatments
-- - its
-  - priestly
-  - hat
-- - silently
-  - good
-  - day
+- - part
+  - two
+  - part
+- - sounded
+  - like
+  - potatoes
 - - more
   - potatoes
   - deciding
-- - wondered
-  - too
-  - how
+- - silently
+  - good
+  - day
+- - its
+  - priestly
+  - hat
+- - other
+  - hair
+  - treatments
 - - fetch
   - more
   - potatoes
-- - its
-  - broad
-  - black
+- - wondered
+  - too
+  - how
 - - infant
   - child
   - could
 - - paintings
   - rather
   - than
-- - fact
-  - her
-  - fawning
 - - rather
   - than
   - photographs
-- - nurse
+- - its
+  - broad
+  - black
+- - fact
   - her
-  - name
+  - fawning
 - - preen
   - them
   - fanatically
-- - dear
-  - she
-  - took
-- - examining
-  - their
-  - flowers
-- - name
-  - she
-  - told
-- - like
-  - potatoes
-  - being
+- - nurse
+  - her
+  - name
 - - important
   - than
   - ever
-- - ghoul
-  - i've
-  - been
-- - your
-  - mashed
-  - potato
-- - looked
-  - up
-  - astonished
+- - examining
+  - their
+  - flowers
+- - dear
+  - she
+  - took
+- - like
+  - potatoes
+  - being
 - - its
   - gruesome
   - head
+- - ghoul
+  - i've
+  - been
+- - looked
+  - up
+  - astonished
+- - name
+  - she
+  - told
+- - your
+  - mashed
+  - potato
 - - i've
   - been
   - looking
@@ -284,99 +284,99 @@ ngrams:
 - - accidentally
   - wander
   - into
-- - crows
-  - were
-  - nesting
 - - hear
   - what
   - sounded
+- - crows
+  - were
+  - nesting
 - - pranced
   - out
   - onto
-- - always
-  - been
-  - fond
 - - armchair
   - staring
   - out
 - - none
   - other
   - than
-- - ask
-  - her
-  - where
-- - can
-  - only
-  - assume
+- - always
+  - been
+  - fond
 - - do
   - worse
   - than
-- - she
-  - could
-  - apply
-- - too
-  - how
-  - she
+- - can
+  - only
+  - assume
 - - idea
   - what
   - happened
+- - more
+  - important
+  - than
+- - ask
+  - her
+  - where
 - - ignored
   - me
   - completely
 - - rather
   - unsteadily
   - into
-- - were
-  - paintings
-  - rather
-- - more
-  - important
-  - than
-- - hoops
-  - gave
-  - me
 - - forgive
   - myself
   - if
-- - foliage
-  - would
-  - calm
 - - am
   - told
   - where
+- - were
+  - paintings
+  - rather
+- - foliage
+  - would
+  - calm
+- - she
+  - could
+  - apply
+- - hoops
+  - gave
+  - me
+- - too
+  - how
+  - she
 - - could
   - do
   - worse
-- - just
-  - coming
-  - up
 - - child
   - could
   - do
-- - her
-  - name
-  - she
+- - just
+  - coming
+  - up
+- - could
+  - do
+  - better
 - - these
   - were
   - paintings
 - - ahead
   - these
   - were
-- - could
-  - do
-  - better
-- - these
-  - were
-  - early
 - - me
   - completely
   - perhaps
+- - these
+  - were
+  - early
 - - paddling
   - about
   - where
-- - what
-  - sounded
-  - like
+- - so
+  - called
+  - limping
+- - her
+  - name
+  - she
 story:
   date: 2004-10-14
   id: 2004-10-14-the-horrible-cave-part-two

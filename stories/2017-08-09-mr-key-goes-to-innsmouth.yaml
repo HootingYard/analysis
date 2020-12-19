@@ -1,70 +1,67 @@
 ngrams:
-- - arab
-  - abdul
-  - alhazred
-- - arab
-  - abdul
-  - alhazred
 - - inconceivable
   - angles
   - resisted
+- - arab
+  - abdul
+  - alhazred
+- - arab
+  - abdul
+  - alhazred
 - - yapping
   - dog's
   - tinkling
 - - miskatonic
   - university
   - arkham
-- - wallpaper
-  - depicted
-  - ungodly
 - - stygian
   - blackness
   - looming
 - - strangulated
   - guttural
   - caterwaul
+- - wallpaper
+  - depicted
+  - ungodly
+- - weirdly
+  - strangulated
+  - guttural
 - - bizarre
   - alien
   - geometry
+- - glub
+  - glub
+  - glub
 - - eldritch
   - unfathomable
   - rustling
 - - lunatic
   - asylum
   - staff
-- - weirdly
-  - strangulated
-  - guttural
-- - glub
-  - glub
-  - '-'
-- - glub
-  - glub
-  - glub
+- - swarthy
+  - bloated
+  - dwarf
 - - writhing
   - tentacles
   - swimming
 - - depicted
   - ungodly
   - patterns
-- - president
-  - nixon
-  - scouting
-- - asylum
-  - staff
-  - lock
 - - postal
   - delivery
   - dropping
-- - swarthy
-  - bloated
-  - dwarf
+- - asylum
+  - staff
+  - lock
+- - president
+  - nixon
+  - scouting
 - - dog's
   - tinkling
   - bell
-- - distinguished
-  - retired
-  - professor
+- - silver
+  - lettering
+  - bearing
 - - violently
   - sending
   - twigs
@@ -74,114 +71,114 @@ ngrams:
 - - delivery
   - dropping
   - onto
-- - silver
-  - lettering
-  - bearing
+- - distinguished
+  - retired
+  - professor
 - - gleaming
   - silver
   - lettering
+- - bosky
+  - rustic
+  - backwaters
 - - benighted
   - wretched
   - vile
 - - unimaginably
   - horrible
   - spawn
-- - abdul
-  - alhazred
-  - author
-- - lemon
-  - meringue
-  - pie
-- - lemon
-  - meringue
-  - pie
-- - lemon
-  - meringue
-  - pie
-- - bosky
-  - rustic
-  - backwaters
-- - professor
-  - charles
-  - dexter
 - - grunting
   - drooling
   - stinking
+- - lemon
+  - meringue
+  - pie
+- - lemon
+  - meringue
+  - pie
+- - lemon
+  - meringue
+  - pie
+- - abdul
+  - alhazred
+  - author
 - - miss
   - dimity
   - cashew
+- - professor
+  - charles
+  - dexter
 - - enthusiasm
   - fully
   - shared
-- - weird
-  - eldritch
-  - unfathomable
 - - obtained
   - comprehensive
   - details
+- - weird
+  - eldritch
+  - unfathomable
 - - visit
   - unimaginable
   - havoc
 - - scouting
   - possible
   - locations
-- - mad
-  - arab
-  - abdul
-- - mad
-  - arab
-  - abdul
 - - fantastically
   - uncomfortable
   - bed
+- - mad
+  - arab
+  - abdul
+- - mad
+  - arab
+  - abdul
 - - dank
   - cave
   - hairy
-- - grotesque
-  - blind
-  - albino
-- - terrible
-  - nameless
-  - dread
-- - meringue
-  - pie
-  - returned
-- - aide
-  - de
-  - camp
-- - blind
-  - albino
-  - monsters
 - - nixon
   - scouting
   - possible
-- - daily
-  - postal
-  - delivery
-- - dementedly
-  - thumping
-  - heart
-- - space
-  - grunting
-  - drooling
-- - vile
-  - seaside
-  - hellhole
+- - grotesque
+  - blind
+  - albino
 - - awful
   - grunting
   - horror
-- - bride
-  - dimity
-  - seemed
+- - terrible
+  - nameless
+  - dread
+- - aide
+  - de
+  - camp
+- - meringue
+  - pie
+  - returned
+- - vile
+  - seaside
+  - hellhole
+- - blind
+  - albino
+  - monsters
+- - daily
+  - postal
+  - delivery
 - - vivid
   - eventually
   - mercifully
+- - dementedly
+  - thumping
+  - heart
 - - inexplicably
   - vivid
   - eventually
+- - space
+  - grunting
+  - drooling
 - - wretched
   - vile
   - seaside
+- - bride
+  - dimity
+  - seemed
 - - bedsheets
   - already
   - pallid
@@ -194,69 +191,72 @@ ngrams:
 - - deep
   - dark
   - dank
-- - withered
-  - ancient
-  - figure
 - - short
   - bus
   - ride
 - - almost
   - reptilian
   - hisses
-- - th
-  - century
-  - biography
+- - withered
+  - ancient
+  - figure
 - - wildly
   - different
   - directions
+- - several
+  - inconceivable
+  - angles
 - - inarticulate
   - unintelligible
   - word
-- - six
-  - thousand
-  - steps
 - - keep
   - humanity
   - safe
 - - somewhat
   - delicate
   - matter
-- - black
-  - envelope
-  - addressed
-- - thumping
-  - heart
-  - seemed
-- - several
-  - inconceivable
-  - angles
-- - inserted
-  - itself
-  - body
+- - glub
+  - glub
+  - '-'
+- - six
+  - thousand
+  - steps
 - - somehow
   - inserted
   - itself
-- - early
-  - th
+- - th
   - century
-- - heart
+  - biography
+- - inserted
+  - itself
+  - body
+- - thumping
+  - heart
   - seemed
-  - ready
-- - hopeless
-  - case
-  - raving
+- - black
+  - envelope
+  - addressed
+- - several
+  - extra
+  - fingers
 - - arm
   - several
   - extra
 - - several
-  - extra
   - fingers
+  - missing
 - - withered
   - arm
   - several
-- - several
-  - fingers
-  - missing
+- - hopeless
+  - case
+  - raving
+- - heart
+  - seemed
+  - ready
+- - early
+  - th
+  - century
 - - hooded
   - thing
   - bleated
@@ -275,6 +275,9 @@ ngrams:
 - - began
   - prosaically
   - enough
+- - himself
+  - incantations
+  - devised
 - - pie
   - returned
   - home
@@ -284,18 +287,15 @@ ngrams:
 - - returned
   - home
   - packed
-- - himself
-  - incantations
-  - devised
+- - every
+  - conceivable
+  - angle
 - - thousand
   - young
   - oh
 - - telephone
   - call
   - sure
-- - every
-  - conceivable
-  - angle
 - - someone
   - trying
   - under
@@ -305,39 +305,39 @@ ngrams:
 - - must
   - listen
   - intently
-- - new
-  - bride
-  - dimity
 - - empty
   - desk
   - until
+- - new
+  - bride
+  - dimity
 - - simple
   - enough
   - matter
+- - throwing
+  - myself
+  - against
+- - legibility
+  - dear
+  - mr
 - - young
   - oh
   - god
 - - hurried
   - next
   - door
-- - throwing
-  - myself
-  - against
-- - number
-  - given
-  - below
-- - legibility
-  - dear
-  - mr
 - - new
   - host
   - body
-- - breakfast
-  - table
-  - took
 - - enough
   - having
   - played
+- - breakfast
+  - table
+  - took
+- - number
+  - given
+  - below
 - - years
   - centuries
   - hence
@@ -347,6 +347,9 @@ ngrams:
 - - flicked
   - briefly
   - through
+- - far
+  - better
+  - job
 - - thousand
   - years
   - nay
@@ -359,246 +362,543 @@ ngrams:
 - - under
   - great
   - difficulties
-- - five
-  - days
-  - later
-- - took
-  - another
-  - mouthful
-- - far
-  - better
-  - job
-- - shattered
-  - after
-  - cursory
 - - through
   - bosky
   - rustic
-- - hideous
-  - being
-  - shot
-- - devoured
-  - horribly
-  - before
-- - blackness
-  - looming
-  - before
+- - shattered
+  - after
+  - cursory
 - - head
   - violently
   - sending
-- - remain
-  - here
-  - isolated
+- - took
+  - another
+  - mouthful
+- - hideous
+  - being
+  - shot
+- - five
+  - days
+  - later
+- - blackness
+  - looming
+  - before
+- - devoured
+  - horribly
+  - before
 - - committing
   - those
   - details
+- - remain
+  - here
+  - isolated
 - - passed
   - through
   - bosky
-- - trying
-  - under
-  - great
 - - seaside
   - hellhole
   - after
 - - lost
   - consciousness
   - how
-- - train
-  - passed
-  - through
-- - sure
-  - enough
-  - having
-- - table
-  - took
-  - another
+- - trying
+  - under
+  - great
 - - mr
   - key
   - goes
-- - reluctant
-  - let
-  - us
-- - universe
-  - older
-  - than
+- - sure
+  - enough
+  - having
+- - train
+  - passed
+  - through
 - - dear
   - mr
   - key
+- - table
+  - took
+  - another
+- - universe
+  - older
+  - than
+- - reluctant
+  - let
+  - us
 - - beyond
   - any
   - spectrum
+- - unimaginable
+  - havoc
+  - upon
 - - settle
   - adjusting
   - its
+- - being
+  - shot
+  - across
 - - padded
   - cell
   - its
 - - lose
   - its
   - moorings
-- - being
-  - shot
-  - across
-- - her
-  - weirdly
-  - strangulated
-- - sake
-  - she
-  - screamed
-- - discern
-  - its
-  - meaning
 - - railway
   - station
   - where
-- - god's
-  - sake
-  - she
-- - unimaginable
-  - havoc
-  - upon
+- - discern
+  - its
+  - meaning
 - - adjusting
   - its
   - horrible
-- - cell
-  - its
-  - walls
 - - its
   - horrible
   - contours
-- - hour
-  - perhaps
-  - two
+- - cell
+  - its
+  - walls
 - - other
   - universes
   - forever
-- - other
-  - aquatic
-  - beings
-- - hooting
-  - yard
-  - weblog
+- - any
+  - spectrum
+  - known
 - - mine
   - feeling
   - its
 - - come
   - years
   - centuries
-- - any
-  - spectrum
-  - known
+- - other
+  - aquatic
+  - beings
+- - hour
+  - perhaps
+  - two
 - - our
   - wedding
   - night
-- - presidential
-  - library
-  - she
-- - library
-  - she
-  - scribbled
-- - grunty
-  - man
-  - himself
 - - indeed
   - forever
   - after
-- - her
-  - lank
-  - hair
-- - her
-  - lank
-  - hair
+- - hooting
+  - yard
+  - weblog
+- - sake
+  - she
+  - screamed
+- - god's
+  - sake
+  - she
 - - write
   - these
   - words
+- - her
+  - weirdly
+  - strangulated
+- - grunty
+  - man
+  - himself
+- - rather
+  - than
+  - trusting
+- - am
+  - miss
+  - dimity
+- - could
+  - barely
+  - speak
+- - must
+  - remain
+  - here
+- - presidential
+  - library
+  - she
+- - wedding
+  - night
+  - did
+- - library
+  - she
+  - scribbled
+- - even
+  - tell
+  - whether
+- - business
+  - rather
+  - than
+- - claimed
+  - among
+  - other
+- - splutter
+  - some
+  - incoherent
+- - some
+  - bizarre
+  - alien
+- - her
+  - lank
+  - hair
+- - her
+  - lank
+  - hair
+- - streets
+  - among
+  - other
+- - grunty
+  - man
+  - most
+- - time
+  - since
+  - infancy
 - - face
   - she
   - shook
 - - she
   - looked
   - straight
-- - wedding
-  - night
-  - did
-- - must
-  - remain
-  - here
 - - register
   - she
   - asked
-- - rather
-  - than
-  - trusting
-- - could
-  - barely
-  - speak
-- - grunty
-  - man
-  - most
-- - splutter
-  - some
-  - incoherent
-- - am
-  - miss
-  - dimity
-- - some
-  - bizarre
-  - alien
-- - claimed
-  - among
-  - other
-- - even
-  - tell
-  - whether
-- - streets
-  - among
-  - other
-- - business
-  - rather
-  - than
-- - time
-  - since
-  - infancy
 - - once
   - these
   - words
-- - her
-  - ledger
-  - without
 - - among
   - other
   - men
 - - oh
   - god
   - like
-- - met
-  - her
-  - both
-- - professor
-  - gave
-  - him
-- - after
-  - our
-  - wedding
-- - man
-  - most
-  - people
-- - let
-  - us
-  - say
 - - being
   - older
   - than
+- - after
+  - our
+  - wedding
+- - professor
+  - gave
+  - him
+- - her
+  - ledger
+  - without
+- - let
+  - us
+  - say
 - - then
   - visible
   - again
 - - us
   - say
   - rather
+- - met
+  - her
+  - both
+- - man
+  - most
+  - people
+- - feeling
+  - its
+  - way
+- - soon
+  - become
+  - can
+- - frighten
+  - their
+  - children
 - - some
   - incoherent
   - words
+- - among
+  - other
+  - things
+- - confined
+  - here
+  - upon
+- - immediately
+  - picked
+  - up
+- - your
+  - earliest
+  - convenience
+- - perhaps
+  - two
+  - before
+- - what
+  - unimaginable
+  - chaos
+- - morning
+  - after
+  - our
+- - soul
+  - its
+  - very
+- - inbreeding
+  - when
+  - completing
+- - article
+  - about
+  - bringing
+- - florid
+  - if
+  - shaky
+- - frantic
+  - haste
+  - if
+- - am
+  - confined
+  - here
+- - centuries
+  - hence
+  - when
+- - already
+  - pallid
+  - what
+- - mr
+  - key
+  - she
+- - her
+  - head
+  - violently
+- - shook
+  - her
+  - head
+- - crashed
+  - unsteadily
+  - out
+- - here
+  - right
+  - now
+- - seek
+  - out
+  - professor
+- - dreams
+  - were
+  - haunted
+- - locks
+  - will
+  - rust
+- - job
+  - when
+  - eventually
+- - will
+  - lumber
+  - forth
+- - older
+  - than
+  - time
+- - than
+  - trusting
+  - her
+- - first
+  - time
+  - since
+- - first
+  - time
+  - since
+- - better
+  - job
+  - when
+- - angles
+  - resisted
+  - all
+- - resisted
+  - all
+  - attempts
+- - staff
+  - lock
+  - me
+- - locks
+  - will
+  - keep
+- - hurried
+  - out
+  - towards
+- - will
+  - keep
+  - humanity
+- - let
+  - him
+  - take
+- - clings
+  - will
+  - soon
+- - mind
+  - will
+  - lose
+- - booked
+  - myself
+  - into
+- - breakfast
+  - room
+  - when
+- - key
+  - she
+  - said
+- - all
+  - began
+  - prosaically
+- - would
+  - remain
+  - unsuccessful
+- - world
+  - other
+  - than
+- - paper
+  - fills
+  - me
+- - hoped
+  - would
+  - remain
+- - keep
+  - me
+  - locked
+- - she
+  - shook
+  - her
+- - pallid
+  - what
+  - little
+- - eventually
+  - we
+  - arrived
+- - come
+  - lumbering
+  - out
+- - its
+  - very
+  - being
+- - think
+  - what
+  - unimaginable
+- - will
+  - soon
+  - become
+- - darkness
+  - towards
+  - me
+- - so
+  - inexplicably
+  - vivid
+- - some
+  - more
+  - sleep
+- - depths
+  - so
+  - deep
+- - her
+  - face
+  - she
+- - faculty
+  - offices
+  - are
+- - fatso
+  - incantations
+  - which
+- - little
+  - more
+  - than
+- - offices
+  - are
+  - based
+- - incantations
+  - which
+  - thank
+- - few
+  - rings
+  - there
+- - own
+  - destruction
+  - there
+- - are
+  - grotesque
+  - blind
+- - postage
+  - stamp
+  - which
+- - man
+  - will
+  - lumber
+- - sea
+  - depths
+  - so
+- - grunty
+  - man
+  - will
+- - get
+  - some
+  - more
+- - glub
+  - '-'
+  - which
+- - days
+  - later
+  - we
+- - looming
+  - before
+  - me
+- - an
+  - abominable
+  - tome
+- - consulting
+  - an
+  - abominable
+- - your
+  - hooting
+  - yard
+- - an
+  - instant
+  - translation
+- - an
+  - odd
+  - suggestion
+- - found
+  - myself
+  - there
+- - writhing
+  - flippers
+  - one
+- - issue
+  - an
+  - invitation
+- - an
+  - enthusiasm
+  - fully
+- - an
+  - invisible
+  - monster
+- - an
+  - aide
+  - de
+- - will
+  - lose
+  - its
+- - abdul
+  - alhazred
+  - this
+- - one
+  - withered
+  - leg
+- - this
+  - padded
+  - cell
+- - this
+  - lunatic
+  - asylum
+- - this
+  - creature
+  - dwelling
+- - stamp
+  - which
+  - though
+- - this
+  - benighted
+  - wretched
+- - this
+  - loathsome
+  - monster
+- - will
+  - come
+  - years
 story:
   date: 2017-08-09
   id: 2017-08-09-mr-key-goes-to-innsmouth

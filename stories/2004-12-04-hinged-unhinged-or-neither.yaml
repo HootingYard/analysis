@@ -11,18 +11,18 @@ ngrams:
 - - caveman
   - dennis
   - remembered
-- - veronica
-  - lake
-  - building
 - - building
   - winnipeg
   - thank
-- - lake
-  - building
-  - winnipeg
 - - beset
   - dennis
   - apart
+- - veronica
+  - lake
+  - building
+- - lake
+  - building
+  - winnipeg
 - - please
   - please
   - parcel
@@ -32,15 +32,15 @@ ngrams:
 - - dennis
   - c
   - o
-- - spent
-  - six
-  - weeks
 - - snow
   - thus
   - cushioning
 - - hinged
   - nor
   - unhinged
+- - spent
+  - six
+  - weeks
 - - neither
   - hinged
   - nor
@@ -68,9 +68,6 @@ ngrams:
 - - between
   - these
   - lives
-- - only
-  - spent
-  - six
 - - chanced
   - upon
   - poisonous
@@ -83,15 +80,18 @@ ngrams:
 - - person
   - might
   - dennis
+- - only
+  - spent
+  - six
 - - rather
   - than
   - picking
-- - very
-  - hinged
-  - way
 - - given
   - much
   - thought
+- - very
+  - hinged
+  - way
 - - years
   - between
   - these
@@ -107,18 +107,18 @@ ngrams:
 - - needs
   - your
   - shoes
+- - way
+  - rather
+  - than
+- - taking
+  - them
+  - home
 - - dennis
   - needs
   - your
 - - needs
   - your
   - help
-- - taking
-  - them
-  - home
-- - way
-  - rather
-  - than
 - - dennis
   - wondered
   - if
@@ -131,9 +131,9 @@ ngrams:
 - - hinged
   - way
   - when
-- - much
-  - about
-  - dennis
+- - dennis
+  - so
+  - monumental
 story:
   date: 2004-12-04
   id: 2004-12-04-hinged-unhinged-or-neither

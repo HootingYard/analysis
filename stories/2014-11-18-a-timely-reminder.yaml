@@ -2,15 +2,12 @@ ngrams:
 - - germander
   - speedwell
   - happily
-- - selected
-  - essays
-  - '-'
-- - demented
-  - poem
-  - recited
 - - domain
   - review
   - selected
+- - demented
+  - poem
+  - recited
 - - review
   - selected
   - essays
@@ -20,6 +17,9 @@ ngrams:
 - - public
   - domain
   - review
+- - selected
+  - essays
+  - '-'
 - - necessary
   - purchase
   - along
@@ -32,12 +32,12 @@ ngrams:
 - - ordering
   - information
   - mr
-- - fanatically
-  - devoted
-  - hooting
 - - buy
   - immediately
   - go
+- - fanatically
+  - devoted
+  - hooting
 - - per
   - day
   - listening

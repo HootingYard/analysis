@@ -8,12 +8,12 @@ ngrams:
 - - peter
   - c
   - ross
-- - anyone
-  - named
-  - ross
 - - c
   - ross
   - writes
+- - anyone
+  - named
+  - ross
 - - mentions
   - anyone
   - named
@@ -29,12 +29,12 @@ ngrams:
 - - brain
   - soothing
   - infusion
-- - named
-  - ross
-  - let
 - - ross
   - let
   - alone
+- - named
+  - ross
+  - let
 - - let
   - alone
   - peter
@@ -59,21 +59,21 @@ ngrams:
 - - c
   - our
   - correspondent
-- - april
-  - fool's
-  - day
 - - every
   - single
   - person
-- - person
-  - dobson
-  - met
-- - external
-  - use
-  - only
+- - april
+  - fool's
+  - day
 - - well
   - known
   - fact
+- - external
+  - use
+  - only
+- - person
+  - dobson
+  - met
 story:
   date: 2004-04-05
   id: 2004-04-05-that-dobson-photograph

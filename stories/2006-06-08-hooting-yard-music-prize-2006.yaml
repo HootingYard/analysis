@@ -2,12 +2,12 @@ ngrams:
 - - playful
   - merriment
   - anon
-- - shrieked
-  - amid
-  - sobs
 - - interruptions
   - hacking
   - cough
+- - shrieked
+  - amid
+  - sobs
 - - cough
   - drooling
   - unexplained
@@ -20,12 +20,12 @@ ngrams:
 - - rocks
   - bursting
   - asunder
-- - reluctant
-  - shuddering
-  - agony
 - - lyric
   - storm
   - diana
+- - reluctant
+  - shuddering
+  - agony
 - - wondrous
   - lyric
   - storm
@@ -41,51 +41,48 @@ ngrams:
 - - judging
   - panel
   - prize
-- - wonderful
-  - hideous
-  - beautiful
 - - panel
   - prize
   - etc
-- - hideous
-  - beautiful
-  - peered
 - - date
   - judging
   - panel
+- - wonderful
+  - hideous
+  - beautiful
+- - hideous
+  - beautiful
+  - peered
 - - various
   - interruptions
   - hacking
-- - octogenarian
-  - crone
-  - mrs
 - - beats
   - everything
   - i've
-- - pang
-  - hill
-  - orphanage
-- - move
-  - speak
-  - cry
-- - crone
-  - mrs
-  - gubbins
 - - mist
   - gathered
   - slowly
-- - mrs
-  - gubbins
-  - announced
+- - octogenarian
+  - crone
+  - mrs
+- - move
+  - speak
+  - cry
+- - pang
+  - hill
+  - orphanage
 - - tin
   - kiosk
   - perched
+- - crone
+  - mrs
+  - gubbins
+- - mrs
+  - gubbins
+  - announced
 - - glittering
   - among
   - green
-- - black
-  - mist
-  - gathered
 - - merriment
   - anon
   - came
@@ -95,6 +92,9 @@ ngrams:
 - - came
   - wilder
   - strains
+- - black
+  - mist
+  - gathered
 - - entries
   - should
   - aspire
@@ -107,12 +107,12 @@ ngrams:
 - - light
   - glittering
   - among
-- - music
-  - should
-  - cease
 - - beating
   - too
   - wildly
+- - music
+  - should
+  - cease
 - - must
   - move
   - speak
@@ -125,39 +125,36 @@ ngrams:
 - - saw
   - great
   - rocks
-- - yard
-  - music
-  - prize
-- - yard
-  - music
-  - prize
-- - yard
-  - music
-  - prize
-- - prize
-  - last
-  - week
 - - everything
   - i've
   - ever
+- - yard
+  - music
+  - prize
+- - yard
+  - music
+  - prize
+- - yard
+  - music
+  - prize
 - - murmured
   - tremulously
   - before
+- - prize
+  - last
+  - week
 - - i've
   - ever
   - heard
 - - last
   - week
   - outside
-- - music
-  - prize
-  - here
 - - heard
   - echoing
   - through
-- - pang
-  - hill
-  - our
+- - music
+  - prize
+  - here
 - - darkness
   - denser
   - than
@@ -167,6 +164,9 @@ ngrams:
 - - insignificant
   - details
   - such
+- - pang
+  - hill
+  - our
 story:
   date: 2006-06-08
   id: 2006-06-08-hooting-yard-music-prize-2006

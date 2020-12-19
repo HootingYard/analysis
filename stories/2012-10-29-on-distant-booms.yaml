@@ -2,12 +2,12 @@ ngrams:
 - - scarcely
   - credible
   - rapidity
-- - deafening
-  - boom
-  - dizzy
 - - king's
   - twin
   - obsessions
+- - deafening
+  - boom
+  - dizzy
 - - booming
   - booming
   - booming
@@ -23,18 +23,18 @@ ngrams:
 - - primitive
   - barbarians
   - armed
-- - nearly
-  - finished
-  - putting
+- - sudden
+  - darting
+  - movements
 - - bitterns
   - albeit
   - distant
 - - albeit
   - distant
   - bitterns
-- - sudden
-  - darting
-  - movements
+- - nearly
+  - finished
+  - putting
 - - hiking
   - boots
   - renovated
@@ -44,12 +44,12 @@ ngrams:
 - - huge
   - pit
   - dug
-- - crumpled
-  - greaseproof
-  - paper
 - - discount
   - several
   - multipacks
+- - crumpled
+  - greaseproof
+  - paper
 - - best
   - hiking
   - boot
@@ -59,15 +59,15 @@ ngrams:
 - - declared
   - war
   - almost
-- - water
-  - building
-  - activities
 - - foe
   - having
   - bombed
 - - rapacious
   - foe
   - having
+- - water
+  - building
+  - activities
 - - front
   - door
   - ready
@@ -83,9 +83,6 @@ ngrams:
 - - having
   - bombed
   - land
-- - drank
-  - two
-  - cans
 - - bomb
   - ever
   - closer
@@ -98,18 +95,21 @@ ngrams:
 - - long
   - hard
   - practice
-- - equally
-  - long
-  - hard
-- - booms
-  - being
-  - bombs
-- - chalet
-  - still
-  - stood
+- - drank
+  - two
+  - cans
 - - bombed
   - land
   - far
+- - booms
+  - being
+  - bombs
+- - equally
+  - long
+  - hard
+- - chalet
+  - still
+  - stood
 - - these
   - distant
   - booms
@@ -119,90 +119,90 @@ ngrams:
 - - bomb
   - crashed
   - through
-- - crushed
-  - cans
-  - down
 - - agreeable
   - faubourg
   - where
+- - crushed
+  - cans
+  - down
 - - waste
   - chute
   - than
 - - before
   - heard
   - booms
-- - mother's
-  - knee
-  - she
 - - hear
   - any
   - news
-- - imitate
-  - her
-  - surely
-- - mention
-  - these
-  - things
 - - streets
   - between
   - our
+- - mention
+  - these
+  - things
 - - paradoxically
   - perhaps
   - before
-- - between
-  - our
-  - side
+- - might
+  - ask
+  - given
+- - mother's
+  - knee
+  - she
 - - land
   - far
   - away
 - - could
   - return
   - happily
-- - through
-  - long
-  - hard
-- - just
-  - little
-  - ribbons
-- - might
-  - ask
-  - given
+- - between
+  - our
+  - side
 - - before
   - having
   - learned
+- - imitate
+  - her
+  - surely
+- - through
+  - long
+  - hard
+- - perhaps
+  - before
+  - making
+- - just
+  - little
+  - ribbons
 - - learned
   - through
   - long
 - - water
   - than
   - land
-- - perhaps
-  - before
-  - making
 - - king
   - might
   - take
+- - king
+  - might
+  - well
 - - land
   - just
   - little
 - - catapults
   - nor
   - do
-- - king
-  - might
-  - well
 - - lands
   - their
   - kings
-- - import
-  - last
-  - time
-- - never
-  - before
-  - heard
 - - happier
   - than
   - before
+- - never
+  - before
+  - heard
+- - import
+  - last
+  - time
 - - than
   - land
   - just
@@ -218,36 +218,36 @@ ngrams:
 - - booms
   - were
   - growing
+- - any
+  - other
+  - information
 - - were
   - growing
   - louder
 - - were
   - booming
   - booming
+- - distant
+  - bitterns
+  - if
+- - than
+  - before
+  - having
 - - booms
   - were
   - distant
 - - distant
   - booms
   - were
-- - any
-  - other
-  - information
 - - were
   - somewhat
   - primitive
-- - ears
-  - were
-  - assailed
 - - pit
   - dug
   - into
-- - than
-  - before
-  - having
-- - distant
-  - bitterns
-  - if
+- - ears
+  - were
+  - assailed
 - - like
   - better
   - than
@@ -260,102 +260,84 @@ ngrams:
 - - pond
   - construction
   - all
-- - reasonable
-  - question
-  - all
 - - more
   - water
   - than
+- - reasonable
+  - question
+  - all
+- - civilian
+  - populations
+  - so
+- - world
+  - if
+  - anything
 - - construction
   - all
   - across
 - - distant
   - today
   - they
-- - civilian
-  - populations
-  - so
-- - which
-  - unimaginable
-  - gallons
-- - world
-  - if
-  - anything
-- - villages
-  - are
-  - destroyed
-- - until
-  - they
-  - bombed
-- - are
-  - poured
-  - fish
 - - building
   - activities
   - so
-- - lived
-  - until
+- - villages
+  - are
+  - destroyed
+- - which
+  - unimaginable
+  - gallons
+- - until
   - they
+  - bombed
 - - bitterns
   - there
   - came
-- - water
-  - are
+- - are
   - poured
-- - been
-  - declared
-  - then
+  - fish
+- - lived
+  - until
+  - they
 - - away
   - would
   - advance
+- - been
+  - declared
+  - then
+- - water
+  - are
+  - poured
 - - prepared
   - an
   - enormous
-- - who
-  - has
-  - lost
 - - reasoned
   - closer
   - this
+- - who
+  - has
+  - lost
+- - today
+  - they
+  - might
 - - only
   - found
   - out
 - - an
   - enormous
   - number
-- - plans
-  - are
-  - made
 - - quite
   - an
   - isolated
-- - today
-  - they
-  - might
-- - had
-  - nearly
-  - finished
-- - had
-  - mere
-  - seconds
-- - example
-  - we
-  - only
-- - are
-  - few
-  - things
+- - plans
+  - are
+  - made
 - - far
   - away
   - would
-- - we
-  - only
-  - found
-- - do
+- - example
   - we
-  - tend
-- - man
-  - who
-  - has
+  - only
 - - or
   - bitterns
   - warfare
@@ -368,30 +350,48 @@ ngrams:
 - - bombs
   - or
   - bitterns
+- - warfare
+  - or
+  - ornithology
+- - are
+  - few
+  - things
+- - had
+  - nearly
+  - finished
+- - afterthought
+  - or
+  - aside
+- - had
+  - mere
+  - seconds
+- - do
+  - we
+  - tend
+- - we
+  - only
+  - found
+- - 'no'
+  - surprise
+  - if
 - - so
   - unlikely
   - now
 - - imitate
   - them
   - all
-- - warfare
-  - or
-  - ornithology
-- - 'no'
-  - surprise
-  - if
-- - afterthought
-  - or
-  - aside
-- - bitterns
-  - had
-  - come
+- - man
+  - who
+  - has
 - - agreeable
   - apart
   - from
-- - had
-  - packed
-  - most
+- - nor
+  - do
+  - we
+- - bitterns
+  - had
+  - come
 story:
   date: 2012-10-29
   id: 2012-10-29-on-distant-booms

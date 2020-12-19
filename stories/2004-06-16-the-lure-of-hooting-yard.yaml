@@ -5,39 +5,39 @@ ngrams:
 - - legitimacy
   - sara
   - southwest
-- - omega
-  - trombone
-  - reeve
 - - sidle
   - sharpen
   - maneuver
+- - omega
+  - trombone
+  - reeve
 - - shady
   - omega
   - trombone
 - - zurich
   - congo
   - micro
-- - consultant
-  - shady
-  - omega
 - - reeve
   - zurich
   - congo
+- - consultant
+  - shady
+  - omega
 - - trombone
   - reeve
   - zurich
-- - masters
-  - doctorate
-  - degrees
 - - tableau
   - automatic
   - boston
-- - scan
-  - tableau
-  - automatic
+- - masters
+  - doctorate
+  - degrees
 - - boston
   - fm
   - effluvium
+- - scan
+  - tableau
+  - automatic
 - - automatic
   - boston
   - fm
@@ -53,9 +53,6 @@ ngrams:
 - - spam
   - message
   - below
-- - '-'
-  - during
-  - enmity
 - - message
   - below
   - recently
@@ -65,18 +62,21 @@ ngrams:
 - - during
   - enmity
   - speech
-- - information
-  - call
-  - '-'
 - - writes
   - dear
   - frank
-- - call
-  - '-'
+- - '-'
   - during
+  - enmity
+- - information
+  - call
+  - '-'
 - - below
   - recently
   - came
+- - diploma
+  - within
+  - days
 story:
   date: 2004-06-16
   id: 2004-06-16-the-lure-of-hooting-yard

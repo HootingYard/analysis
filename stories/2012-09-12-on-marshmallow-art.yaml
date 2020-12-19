@@ -1,10 +1,10 @@
 ngrams:
-- - customary
-  - piercing
-  - acuity
 - - occult
   - concept
   - representing
+- - customary
+  - piercing
+  - acuity
 - - startlingly
   - hirsute
   - italian
@@ -23,39 +23,45 @@ ngrams:
 - - startlingly
   - bony
   - fists
-- - hirsute
-  - italian
-  - artist
 - - medium
   - marshmallow
   - intriguingly
+- - hirsute
+  - italian
+  - artist
 - - critic
   - sees
   - admittedly
 - - bony
   - fists
   - raised
-- - startlingly
-  - hairy
-  - fists
 - - sheer
   - artistic
   - force
+- - startlingly
+  - hairy
+  - fists
 - - mere
   - miniature
   - marshmallow
-- - hut
-  - temporary
-  - allotment
+- - civic
+  - hall
+  - scout
 - - scout
   - hut
   - temporary
 - - allotment
   - rental
   - office
-- - civic
-  - hall
-  - scout
+- - hut
+  - temporary
+  - allotment
+- - marshmallow
+  - art
+  - startlingly
+- - art
+  - startlingly
+  - hirsute
 - - interviewer
   - received
   - hospital
@@ -63,23 +69,17 @@ ngrams:
   - hospital
   - treatment
 - - art
-  - startlingly
-  - hirsute
-- - marshmallow
-  - art
-  - startlingly
-- - art
   - critic
   - sans
+- - fists
+  - raised
+  - ready
 - - longer
   - startlingly
   - combative
 - - hall
   - scout
   - hut
-- - fists
-  - raised
-  - ready
 - - art
   - critic
   - sees
@@ -89,21 +89,9 @@ ngrams:
 - - startlingly
   - awful
   - table
-- - combative
-  - artist
-  - whose
 - - awful
   - table
   - manners
-- - artist
-  - whose
-  - marshmallow
-- - hospital
-  - treatment
-  - during
-- - genius
-  - whose
-  - rendering
 - - cravat
   - wearing
   - art
@@ -113,57 +101,69 @@ ngrams:
 - - marshmallows
   - add
   - together
+- - combative
+  - artist
+  - whose
+- - artist
+  - whose
+  - marshmallow
+- - hospital
+  - treatment
+  - during
 - - collective
   - group
   - mind
+- - genius
+  - whose
+  - rendering
 - - animal
   - kingdom
   - asked
 - - majestic
   - genius
   - whose
-- - singularly
-  - tiny
-  - marshmallow
 - - marshmallow
   - facsimile
   - brain
 - - miniature
   - marshmallow
   - brain
+- - singularly
+  - tiny
+  - marshmallow
 - - glass
   - case
   - surrounding
-- - lobster
-  - brain
-  - fashioned
-- - lobster
-  - brain
-  - fashioned
 - - town
   - civic
   - hall
-- - finest
-  - tiny
-  - model
-- - tiny
-  - marshmallow
-  - placed
-- - piece
-  - becomes
-  - clear
+- - lobster
+  - brain
+  - fashioned
+- - lobster
+  - brain
+  - fashioned
 - - several
   - written
   - assurances
-- - standing
-  - right
-  - behind
+- - finest
+  - tiny
+  - model
+- - piece
+  - becomes
+  - clear
+- - tiny
+  - marshmallow
+  - placed
 - - own
   - startlingly
   - enormous
 - - rental
   - office
   - yet
+- - standing
+  - right
+  - behind
 - - pointy
   - town
   - civic
@@ -173,57 +173,57 @@ ngrams:
 - - cast
   - two
   - millennia
-- - tiny
-  - tiny
-  - amount
 - - those
   - startlingly
   - bony
-- - fists
-  - those
-  - startlingly
-- - fists
-  - those
-  - startlingly
-- - somehow
-  - cast
-  - two
-- - those
-  - startlingly
-  - hairy
 - - given
   - several
   - written
+- - tiny
+  - tiny
+  - amount
+- - fists
+  - those
+  - startlingly
+- - fists
+  - those
+  - startlingly
+- - those
+  - startlingly
+  - hairy
+- - somehow
+  - cast
+  - two
 - - startlingly
   - enormous
   - head
 - - canteen
   - breathing
   - down
-- - spends
-  - many
-  - hours
 - - proved
   - yet
   - again
+- - spends
+  - many
+  - hours
+- - brain
+  - being
+  - referred
 - - fists
   - sat
   - down
 - - impoverished
   - artist
   - like
-- - brain
-  - being
-  - referred
-- - very
-  - finest
-  - tiny
 - - marshmallow
   - placed
   - upon
 - - beyond
   - any
   - doubt
+- - very
+  - finest
+  - tiny
 - - marshmallow
   - technicians
   - more
@@ -242,12 +242,12 @@ ngrams:
 - - untidy
   - artist
   - has
-- - artist
-  - has
-  - chosen
 - - than
   - ever
   - convinced
+- - artist
+  - has
+  - chosen
 - - look
   - like
   - nothing
@@ -266,15 +266,15 @@ ngrams:
 - - any
   - other
   - art
-- - deluded
-  - into
-  - thinking
-- - christian
-  - art
-  - into
 - - technicians
   - more
   - than
+- - christian
+  - art
+  - into
+- - deluded
+  - into
+  - thinking
 - - afford
   - more
   - than
@@ -293,6 +293,9 @@ ngrams:
 - - nothing
   - more
   - than
+- - art
+  - critic
+  - would
 - - marshmallow
   - what
   - little
@@ -305,66 +308,63 @@ ngrams:
 - - take
   - into
   - account
-- - art
-  - critic
-  - would
 - - right
   - behind
   - me
-- - then
-  - gave
-  - him
-- - first
-  - deluded
-  - into
-- - too
-  - big
-  - were
 - - more
   - than
   - ever
+- - first
+  - deluded
+  - into
+- - then
+  - gave
+  - him
+- - too
+  - big
+  - were
 - - enormous
   - head
   - when
 - - once
   - so
   - offensive
-- - spend
-  - all
-  - day
-- - has
-  - been
-  - softened
-- - has
-  - been
-  - softened
-- - has
-  - been
-  - softened
 - - unless
   - one
   - wishes
+- - spend
+  - all
+  - day
 - - group
   - mind
   - an
+- - has
+  - been
+  - softened
+- - has
+  - been
+  - softened
+- - has
+  - been
+  - softened
 - - now
   - spend
   - all
 - - artist
   - like
   - me
-- - tet
-  - offensive
-  - had
 - - gave
   - this
   - reply
-- - gave
-  - him
-  - what
 - - treatment
   - during
   - this
+- - gave
+  - him
+  - what
+- - tet
+  - offensive
+  - had
 story:
   date: 2012-09-12
   id: 2012-09-12-on-marshmallow-art

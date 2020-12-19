@@ -1,25 +1,25 @@
 ngrams:
+- - swish
+  - cocktail
+  - party
+- - swish
+  - cocktail
+  - party
 - - particularly
   - mordant
   - heron
-- - swish
-  - cocktail
-  - party
-- - swish
-  - cocktail
-  - party
 - - else
   - leaning
   - insouciantly
 - - anyone
   - else
   - leaning
-- - party
-  - certainly
-  - anyone
 - - cocktail
   - party
   - certainly
+- - party
+  - certainly
+  - anyone
 - - leaning
   - insouciantly
   - against
@@ -44,9 +44,9 @@ ngrams:
 - - than
   - anyone
   - else
-- - hooting
-  - yard
-  - reader
+- - am
+  - leaning
+  - insouciantly
 story:
   date: 2012-01-06
   id: 2012-01-06-a-mordant-heron

@@ -5,18 +5,15 @@ ngrams:
 - - bush
   - kangaroo
   - skippy
-- - australian
-  - nine
-  - network
 - - lamented
   - googie
   - withers
 - - mccallum
   - googie
   - withers
-- - googie
-  - withers
-  - '-'
+- - australian
+  - nine
+  - network
 - - australian
   - imperial
   - force
@@ -35,9 +32,6 @@ ngrams:
 - - late
   - lamented
   - googie
-- - john
-  - mccallum
-  - '-'
 - - nine
   - network
   - television
@@ -56,27 +50,33 @@ ngrams:
 - - successful
   - couple
   - living
+- - australian
+  - television
+  - series
 - - googie
   - googie
   - whose
 - - googie
   - whose
   - birth
-- - australian
-  - television
-  - series
+- - googie
+  - withers
+  - '-'
 - - breakfast
   - table
   - conversation
 - - least
   - plausible
   - doesn't
-- - fortuitously
-  - telegenic
-  - name
+- - john
+  - mccallum
+  - '-'
 - - skippy
   - does
   - seem
+- - fortuitously
+  - telegenic
+  - name
 - - raising
   - himself
   - slightly
@@ -89,36 +89,36 @@ ngrams:
 - - british
   - television
   - long
-- - whose
-  - birth
-  - name
+- - tad
+  - too
+  - large
 - - guinea
   - during
   - world
 - - few
   - paces
   - towards
-- - tad
-  - too
-  - large
+- - whose
+  - birth
+  - name
 - - during
   - world
   - war
+- - bush
+  - kangaroo
+  - might
+- - course
+  - googie
+  - thus
 - - new
   - guinea
   - during
 - - only
   - kidding
   - darling
-- - course
-  - googie
-  - thus
 - - war
   - two
   - looked
-- - bush
-  - kangaroo
-  - might
 - - where
   - googie
   - withers
@@ -128,123 +128,123 @@ ngrams:
 - - television
   - long
   - long
-- - her
-  - suitable
-  - mccallum
-- - her
-  - googie
-  - googie
-- - world
-  - war
-  - two
-- - calling
-  - her
-  - googie
 - - paces
   - towards
   - where
+- - world
+  - war
+  - two
 - - towards
   - where
   - googie
-- - whatever
-  - qualities
-  - she
 - - series
   - title
   - may
 - - long
   - long
   - ago
-- - told
-  - her
-  - husband
 - - her
-  - grapefruit
-  - across
+  - suitable
+  - mccallum
+- - her
+  - googie
+  - googie
+- - calling
+  - her
+  - googie
+- - whatever
+  - qualities
+  - she
 - - both
   - now
   - cold
+- - told
+  - her
+  - husband
 - - producer
   - who
   - served
+- - her
+  - grapefruit
+  - across
 - - television
   - producer
   - who
+- - said
+  - something
+  - along
 - - shed
   - some
   - light
 - - two
   - looked
   - over
-- - said
-  - something
-  - along
-- - made
-  - her
-  - suitable
-- - been
-  - named
-  - skippy
 - - cannot
   - ask
   - them
-- - already
-  - been
+- - been
   - named
+  - skippy
 - - their
   - breakfast
   - table
-- - television
-  - shows
-  - about
-- - been
-  - called
-  - googie
 - - mostly
   - filmed
   - if
-- - where
-  - she
-  - lived
-- - about
-  - wild
-  - animals
+- - made
+  - her
+  - suitable
+- - television
+  - shows
+  - about
+- - already
+  - been
+  - named
 - - shows
   - about
   - wild
+- - about
+  - wild
+  - animals
+- - been
+  - called
+  - googie
+- - where
+  - she
+  - lived
 - - marsupial
   - skippy
   - they
-- - said
-  - something
-  - like
-- - indeed
-  - where
-  - she
-- - other
-  - hand
-  - she
 - - lions
   - clearly
   - there
+- - said
+  - something
+  - like
 - - john
   - mccallum
   - would
+- - indeed
+  - where
+  - she
 - - could
   - shed
   - some
+- - other
+  - hand
+  - she
 - - how
   - about
   - calling
-- - children
-  - how
-  - about
 - - different
   - name
   - if
 - - breakfast
   - table
   - would
+- - children
+  - how
+  - about
 - - we
   - cannot
   - ask
@@ -254,21 +254,21 @@ ngrams:
 - - television
   - series
   - which
-- - about
-  - calling
-  - her
 - - watching
   - an
   - episode
-- - she
-  - lived
-  - when
 - - this
   - domestic
   - maelstrom
 - - this
   - intelligent
   - kangaroo
+- - about
+  - calling
+  - her
+- - darling
+  - this
+  - intelligent
 story:
   date: 2012-01-12
   id: 2012-01-12-on-skippy-the-bush-kangaroo

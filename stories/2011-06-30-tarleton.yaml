@@ -53,12 +53,12 @@ ngrams:
 - - sun
   - passes
   - behind
-- - without
-  - smirking
-  - cars
 - - oh
   - tarleton
   - tarleton
+- - without
+  - smirking
+  - cars
 - - cars
   - appeared
   - until
@@ -113,15 +113,15 @@ ngrams:
 - - your
   - car
   - parked
+- - tarleton
+  - tarleton
+  - what
 - - noble
   - certainly
   - your
 - - certainly
   - your
   - shiny
-- - tarleton
-  - tarleton
-  - what
 - - tarleton
   - what
   - became
@@ -131,6 +131,9 @@ ngrams:
 - - bustled
   - me
   - hence
+- - higher
+  - we
+  - climbed
 - - 'no'
   - laurels
   - just
@@ -140,48 +143,45 @@ ngrams:
 - - half
   - blinding
   - me
-- - higher
-  - we
-  - climbed
-- - dust
-  - they
-  - put
 - - will
   - drive
   - away
 - - drive
   - away
   - will
+- - dust
+  - they
+  - put
+- - thought
+  - help
+  - would
 - - appeared
   - until
   - they
 - - until
   - they
   - seemed
-- - thought
-  - help
-  - would
 - - help
   - would
   - come
 - - regrets
   - now
   - there
-- - electrified
-  - tarleton
-  - had
-- - tarleton
-  - had
-  - keys
-- - they
-  - seemed
-  - like
-- - were
-  - 'no'
-  - laurels
 - - lever
   - or
   - knobs
+- - they
+  - seemed
+  - like
+- - electrified
+  - tarleton
+  - had
+- - pulled
+  - or
+  - depressed
+- - tarleton
+  - had
+  - keys
 story:
   date: 2011-06-30
   id: 2011-06-30-tarleton

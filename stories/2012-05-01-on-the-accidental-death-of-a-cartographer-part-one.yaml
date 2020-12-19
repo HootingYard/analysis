@@ -1,13 +1,13 @@
 ngrams:
-- - pennants
-  - procuring
-  - rainwater
 - - winches
   - levers
   - pulleys
 - - cranks
   - winches
   - levers
+- - pennants
+  - procuring
+  - rainwater
 - - levers
   - pulleys
   - knobs
@@ -29,27 +29,27 @@ ngrams:
 - - company
   - regulations
   - forbade
-- - duties
-  - included
-  - buffing
 - - minute
   - exact
   - dimensions
+- - duties
+  - included
+  - buffing
 - - company
   - hound
   - sharpening
-- - broken
-  - locomotive
-  - machinery
-- - family's
-  - living
-  - quarters
-- - rust
-  - visual
-  - evidence
 - - rainwater
   - cooking
   - sausages
+- - broken
+  - locomotive
+  - machinery
+- - rust
+  - visual
+  - evidence
+- - family's
+  - living
+  - quarters
 - - carting
   - huge
   - amounts
@@ -80,24 +80,24 @@ ngrams:
 - - rarely
   - neat
   - enough
-- - important
-  - railway
-  - official
 - - trundled
   - along
   - reasonably
+- - important
+  - railway
+  - official
 - - jumped
   - aboard
   - between
-- - deliveries
-  - another
-  - chit
 - - along
   - reasonably
   - slowly
 - - daily
   - visit
   - whether
+- - deliveries
+  - another
+  - chit
 - - locomotive
   - machinery
   - once
@@ -122,15 +122,15 @@ ngrams:
 - - coordinates
   - took
   - place
-- - hut
-  - two
-  - railway
 - - swiftly
   - past
   - while
 - - next
   - hut
   - along
+- - hut
+  - two
+  - railway
 - - passengers
   - ever
   - used
@@ -140,11 +140,11 @@ ngrams:
 - - p
   - m
   - before
-- - regulations
-  - forbade
-  - such
 - - questionnaire
   - detailing
+  - such
+- - regulations
+  - forbade
   - such
 - - hardly
   - any
@@ -152,150 +152,150 @@ ngrams:
 - - day
   - heading
   - north
-- - let
-  - us
-  - examine
 - - walk
   - away
   - across
+- - let
+  - us
+  - examine
 - - make
   - long
   - detours
-- - child
-  - let
-  - us
-- - glucose
-  - syrup
-  - other
 - - due
   - course
   - once
+- - glucose
+  - syrup
+  - other
 - - set
   - readjustment
   - back
+- - child
+  - let
+  - us
 - - syrup
   - other
   - duties
+- - other
+  - duties
+  - included
+- - signalling
+  - equipment
+  - could
+- - several
+  - parts
+  - over
+- - its
+  - original
+  - appearance
+- - take
+  - others
+  - away
+- - next
+  - few
+  - days
+- - then
+  - dash
+  - swiftly
+- - took
+  - place
+  - once
+- - others
+  - away
+  - mr
+- - reissued
+  - since
+  - its
+- - often
+  - did
+  - approaching
 - - her
   - husband
   - copied
 - - other
-  - duties
-  - included
-- - next
-  - few
-  - days
-- - took
-  - place
-  - once
-- - take
-  - others
-  - away
-- - its
-  - original
-  - appearance
-- - signalling
-  - equipment
-  - could
-- - then
-  - dash
-  - swiftly
-- - several
-  - parts
-  - over
+  - half
+  - contained
 - - tall
   - hat
   - like
-- - other
-  - half
-  - contained
-- - reissued
-  - since
-  - its
-- - others
-  - away
-  - mr
-- - only
-  - child
-  - let
-- - often
-  - did
-  - approaching
 - - us
   - examine
   - these
+- - only
+  - child
+  - let
 - - since
   - its
   - original
+- - detailing
+  - such
+  - things
 - - oven
   - every
   - day
 - - task
   - every
   - day
-- - detailing
-  - such
-  - things
-- - deliver
-  - some
-  - broken
-- - some
-  - broken
-  - bits
 - - more
   - important
   - railway
+- - deliver
+  - some
+  - broken
 - - any
   - passengers
   - ever
 - - figures
   - could
   - always
-- - official
-  - who
-  - wore
-- - parents
-  - gave
-  - him
+- - some
+  - broken
+  - bits
 - - practice
   - nor
   - could
-- - railway
-  - official
+- - official
   - who
+  - wore
 - - cartographers
   - 'no'
   - ken
-- - up
-  - ceremonial
-  - shields
+- - parents
+  - gave
+  - him
+- - railway
+  - official
+  - who
 - - buffing
   - up
   - ceremonial
-- - other
-  - little
-  - ken
+- - up
+  - ceremonial
+  - shields
 - - years
   - ago
   - here
 - - included
   - buffing
   - up
+- - other
+  - little
+  - ken
 - - train
   - each
   - time
-- - many
-  - other
-  - tasks
-- - metal
-  - their
-  - duties
-- - duties
-  - left
-  - them
 - - another
   - more
   - important
+- - many
+  - other
+  - tasks
+- - duties
+  - left
+  - them
+- - metal
+  - their
+  - duties
 - - their
   - daily
   - visit
@@ -305,24 +305,30 @@ ngrams:
 - - m
   - before
   - its
-- - been
-  - reissued
-  - since
-- - their
-  - duties
-  - left
 - - mop
   - up
   - certain
 - - before
   - its
   - passing
+- - their
+  - duties
+  - left
+- - been
+  - reissued
+  - since
 - - multiple
   - forms
   - were
+- - who
+  - lambasted
+  - mr
 - - forms
   - were
   - therefore
+- - therefore
+  - necessary
+  - if
 - - forms
   - were
   - collected
@@ -332,21 +338,15 @@ ngrams:
 - - windows
   - were
   - filthy
-- - who
-  - lambasted
-  - mr
-- - country
-  - were
-  - fierce
 - - spot
   - them
   - long
+- - country
+  - were
+  - fierce
 - - were
   - otherwise
   - engaged
-- - therefore
-  - necessary
-  - if
 - - gigantic
   - horse
   - when
@@ -356,21 +356,6 @@ ngrams:
 - - ago
   - here
   - then
-- - rough
-  - then
-  - her
-- - then
-  - her
-  - husband
-- - left
-  - them
-  - little
-- - remote
-  - country
-  - they
-- - country
-  - they
-  - lived
 - - workers
   - would
   - deliver
@@ -380,21 +365,36 @@ ngrams:
 - - railway
   - workers
   - would
+- - left
+  - them
+  - little
+- - rough
+  - then
+  - her
+- - remote
+  - country
+  - they
+- - then
+  - her
+  - husband
+- - country
+  - they
+  - lived
+- - would
+  - hide
+  - behind
 - - into
   - two
   - halves
+- - rarely
+  - if
+  - ever
 - - their
   - only
   - child
-- - homeland
-  - which
-  - stirred
-- - insects
-  - which
-  - trespassed
-- - slaughtering
-  - insects
-  - which
+- - we
+  - shall
+  - examine
 story:
   date: 2012-05-01
   id: 2012-05-01-on-the-accidental-death-of-a-cartographer-part-one

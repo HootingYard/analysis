@@ -1,10 +1,10 @@
 ngrams:
-- - regards
-  - senior
-  - sales
 - - areas
   - africa
   - mainland
+- - regards
+  - senior
+  - sales
 - - senior
   - sales
   - manager
@@ -14,30 +14,30 @@ ngrams:
 - - east
   - regions
   - australia
-- - australia
-  - south
-  - america
-- - east
-  - areas
-  - africa
 - - automatic
   - chicken
   - cage
+- - east
+  - areas
+  - africa
+- - australia
+  - south
+  - america
+- - feel
+  - immensely
+  - relieved
 - - metal
   - manufacturing
   - co
 - - middle
   - asia
   - south
-- - feel
-  - immensely
-  - relieved
-- - south
-  - america
-  - middle
 - - middle
   - east
   - areas
+- - south
+  - america
+  - middle
 - - america
   - middle
   - east
@@ -50,12 +50,12 @@ ngrams:
 - - prestige
   - among
   - customers
-- - yesterday
-  - dear
-  - sir
 - - interest
   - feel
   - free
+- - yesterday
+  - dear
+  - sir
 - - establish
   - good
   - relations
@@ -89,9 +89,9 @@ ngrams:
 - - gone
   - yet
   - mr
-- - hooting
-  - yard
-  - business
+- - yet
+  - mr
+  - key
 story:
   date: 2012-11-19
   id: 2012-11-19-not-gone-yet

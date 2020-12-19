@@ -1,10 +1,10 @@
 ngrams:
-- - gentle
-  - baby
-  - jesus
 - - monthly
   - amount
   - you'll
+- - gentle
+  - baby
+  - jesus
 - - regular
   - monthly
   - amount
@@ -23,22 +23,25 @@ ngrams:
 - - amount
   - you'll
   - find
-- - old
-  - rugged
-  - cross
 - - poor
   - scribbling
   - mr
+- - old
+  - rugged
+  - cross
 - - while
   - he's
   - gone
 - - yard
   - paperback
   - imagine
+- - scribbling
+  - mr
+  - key
 - - very
   - merry
   - christmas
-- - scribbling
+- - lot
   - mr
   - key
 - - prostrating
@@ -50,57 +53,54 @@ ngrams:
 - - fewer
   - than
   - nine
-- - lot
-  - mr
-  - key
-- - christmas
-  - day
-  - meanwhile
 - - loved
   - ones
   - than
+- - christmas
+  - day
+  - meanwhile
 - - become
   - christ
   - our
+- - mr
+  - key
+  - himself
 - - hooting
   - yard
   - duty
 - - hooting
   - yard
   - paperback
-- - mr
-  - key
-  - himself
 - - better
   - gift
   - could
 - - each
   - other
   - presents
-- - baby
-  - jesus
-  - who
 - - giving
   - each
   - other
+- - baby
+  - jesus
+  - who
 - - jesus
   - who
   - grew
-- - family
-  - members
-  - who
 - - their
   - noses
   - stuck
+- - family
+  - members
+  - who
 - - other
   - presents
   - being
 - - paperback
   - imagine
   - their
-- - your
-  - loved
-  - ones
+- - imagine
+  - their
+  - christmas
 story:
   date: 2017-12-02
   id: 2017-12-02-a-message-from-the-duty-git

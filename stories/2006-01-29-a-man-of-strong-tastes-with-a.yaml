@@ -1,22 +1,22 @@
 ngrams:
-- - flowers
-  - silk
-  - lampshades
 - - lampshades
   - pile
   - carpets
 - - silk
   - lampshades
   - pile
+- - flowers
+  - silk
+  - lampshades
 - - statistics
   - painted
   - nails
-- - pet
-  - hates
-  - included
 - - peter
   - washington
   - madame
+- - pet
+  - hates
+  - included
 story:
   date: 2006-01-29
   id: 2006-01-29-a-man-of-strong-tastes-with-a

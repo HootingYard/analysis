@@ -1,37 +1,34 @@
 ngrams:
-- - mistress
-  - brinks
-  - enrolled
-- - dumbstruck
-  - peers
-  - mistress
 - - reformer
   - hattie
   - brinks
-- - peers
-  - mistress
+- - mistress
   - brinks
+  - enrolled
 - - coffin
   - solemnly
   - perfumed
+- - dumbstruck
+  - peers
+  - mistress
 - - famed
   - reformer
   - hattie
+- - peers
+  - mistress
+  - brinks
 - - drunk
   - communal
   - ablutions
 - - moans
   - finnish
   - airline
-- - nearest
-  - tobacconist
-  - buys
-- - minnie
-  - unnecessarily
-  - loudly
 - - gifts
   - delivering
   - lectures
+- - nearest
+  - tobacconist
+  - buys
 - - intellectual
   - gifts
   - delivering
@@ -41,33 +38,36 @@ ngrams:
 - - hoist
   - moans
   - finnish
+- - minnie
+  - unnecessarily
+  - loudly
 - - bogus
   - laundry
   - murder
 - - foundation
   - conducted
   - dangerous
-- - appointed
-  - corncrake
-  - professor
-- - conducted
-  - dangerous
-  - experiments
-- - appropriate
-  - prayers
-  - minnie
 - - count
   - noses
   - drape
-- - prayers
-  - minnie
-  - spat
 - - sits
   - babbling
   - gesticulating
+- - conducted
+  - dangerous
+  - experiments
+- - appointed
+  - corncrake
+  - professor
+- - appropriate
+  - prayers
+  - minnie
 - - victim
   - invariably
   - runs
+- - prayers
+  - minnie
+  - spat
 - - significant
   - tosh
   - highly
@@ -77,108 +77,108 @@ ngrams:
 - - sacrifice
   - especially
   - offered
-- - shouted
-  - minnie
-  - unnecessarily
 - - dreadfully
   - lugubrious
   - pieces
+- - shouted
+  - minnie
+  - unnecessarily
 - - won
   - popular
   - acceptance
 - - bosnian
   - nerve
   - gas
+- - lowest
+  - possible
+  - temperature
 - - cake
   - count
   - noses
+- - pointless
+  - research
+  - projects
 - - hockey
   - cake
   - count
 - - eat
   - hockey
   - cake
-- - lowest
-  - possible
-  - temperature
 - - minnie
   - threw
   - herself
-- - soup
-  - nevertheless
-  - burial
-- - pointless
-  - research
-  - projects
-- - eternal
-  - rest
-  - grant
 - - frolicsome
   - orphanage
   - run
+- - soup
+  - nevertheless
+  - burial
+- - eternal
+  - rest
+  - grant
 - - inordinate
   - length
   - entitled
 - - seats
   - dr
   - hoist
+- - dot
+  - meanwhile
+  - talc
 - - rest
   - grant
   - unto
-- - splendid
-  - shouted
-  - minnie
+- - o
+  - clock
+  - tomorrow
+- - caterwaul
+  - milk
+  - feathers
 - - mother
   - killed
   - horses
 - - utensils
   - conglomerate
   - written
-- - dot
-  - meanwhile
-  - talc
 - - funeral
   - breakfast
   - consisting
-- - caterwaul
-  - milk
-  - feathers
+- - splendid
+  - shouted
+  - minnie
 - - side
   - laying
   - plans
-- - stopped
-  - cheering
-  - chew
+- - milk
+  - feathers
+  - sand
 - - anyone
   - else
   - tries
 - - lived
   - simply
   - spending
-- - reverend
-  - chew
-  - appears
 - - perpetual
   - light
   - shine
-- - milk
-  - feathers
-  - sand
-- - pencil
-  - minnie
-  - brought
-- - listen
-  - carefully
-  - including
-- - o
-  - clock
-  - tomorrow
-- - century
-  - younger
-  - born
 - - lars
   - talc
   - struck
+- - stopped
+  - cheering
+  - chew
+- - century
+  - younger
+  - born
+- - listen
+  - carefully
+  - including
+- - pencil
+  - minnie
+  - brought
+- - reverend
+  - chew
+  - appears
 - - killed
   - horses
   - together
@@ -191,45 +191,45 @@ ngrams:
 - - laundry
   - murder
   - case
-- - minnie
-  - good
-  - humans
 - - clock
   - tomorrow
   - morning
+- - minnie
+  - good
+  - humans
 - - life
   - minnie
   - snorted
 - - hot
   - air
   - ballooning
+- - occasionally
+  - hiring
+  - himself
 - - sing
   - song
   - number
 - - international
   - hot
   - air
-- - occasionally
-  - hiring
-  - himself
 - - happy
   - hours
   - side
+- - pass
+  - talc
+  - shall
 - - writing
   - frantically
   - good
 - - while
   - hoist
   - moans
-- - pass
-  - talc
-  - shall
-- - chew
-  - taking
-  - part
 - - chorus
   - while
   - hoist
+- - chew
+  - taking
+  - part
 - - let
   - perpetual
   - light
@@ -251,222 +251,222 @@ ngrams:
 - - brought
   - two
   - mugs
-- - minnie
-  - brought
-  - two
 - - dead
   - still
   - needed
-- - gas
-  - wear
-  - 'off'
+- - minnie
+  - brought
+  - two
 - - corpse
   - being
   - carried
 - - simply
   - spending
   - much
-- - teeth
-  - our
-  - route
+- - gas
+  - wear
+  - 'off'
 - - talc
   - spent
   - many
-- - spent
-  - many
-  - happy
-- - our
-  - separate
-  - ways
-- - buried
-  - said
-  - minnie
 - - never
   - gather
   - together
+- - teeth
+  - our
+  - route
+- - our
+  - separate
+  - ways
+- - spent
+  - many
+  - happy
+- - very
+  - clear
+  - ideas
+- - buried
+  - said
+  - minnie
 - - burned
   - buried
   - said
 - - our
   - seats
   - dr
-- - very
-  - clear
-  - ideas
-- - three
-  - years
-  - older
-- - every
-  - last
-  - drop
 - - leave
   - until
   - every
+- - older
+  - than
+  - talc
+- - every
+  - last
+  - drop
+- - three
+  - years
+  - older
 - - many
   - happy
   - hours
 - - shuffle
   - away
   - each
-- - older
-  - than
-  - talc
+- - such
+  - short
+  - notice
 - - take
   - notes
   - while
-- - smoking
-  - heavily
-  - like
 - - other
   - equipment
   - implying
 - - holy
   - water
   - before
-- - funeral
-  - she
-  - steered
-- - such
-  - short
-  - notice
-- - estate
-  - she
-  - accosted
-- - hooting
-  - yard
-  - foundation
-- - tiniest
-  - detail
-  - she
-- - detail
-  - she
-  - rapped
+- - smoking
+  - heavily
+  - like
 - - remain
   - outside
   - where
-- - now
-  - listen
-  - carefully
 - - going
   - our
   - separate
+- - now
+  - listen
+  - carefully
 - - our
   - thoughts
   - going
 - - thoughts
   - going
   - our
-- - short
-  - notice
+- - hooting
+  - yard
+  - foundation
+- - estate
   - she
+  - accosted
 - - away
   - each
   - lost
-- - said
-  - minnie
-  - good
-- - two
-  - days
-  - ago
+- - funeral
+  - she
+  - steered
 - - myself
   - madam
   - said
-- - take
-  - our
-  - seats
-- - report
-  - then
-  - tucked
+- - said
+  - minnie
+  - good
 - - light
   - shine
   - upon
-- - she
-  - asked
-  - burn
+- - report
+  - then
+  - tucked
+- - tiniest
+  - detail
+  - she
+- - two
+  - days
+  - ago
+- - detail
+  - she
+  - rapped
+- - take
+  - our
+  - seats
 - - fetch
   - more
   - soup
-- - corpse
-  - she
-  - asked
-- - some
-  - dreadfully
-  - lugubrious
 - - brief
   - report
   - then
 - - take
   - us
   - past
-- - until
-  - every
-  - last
-- - brinks
-  - enrolled
-  - him
-- - course
-  - madam
-  - said
-- - written
-  - down
-  - good
+- - short
+  - notice
+  - she
 - - then
   - sing
   - song
 - - can
   - manage
   - snap
-- - play
-  - some
+- - some
   - dreadfully
-- - grant
-  - unto
-  - him
+  - lugubrious
+- - course
+  - madam
+  - said
+- - until
+  - every
+  - last
 - - needed
   - such
   - things
-- - pond
-  - than
-  - take
+- - written
+  - down
+  - good
+- - brinks
+  - enrolled
+  - him
+- - play
+  - some
+  - dreadfully
+- - she
+  - asked
+  - burn
+- - corpse
+  - she
+  - asked
 - - still
   - needed
   - such
-- - understand
+- - grant
+  - unto
   - him
-  - that's
-- - creatures
-  - who
-  - bury
-- - before
-  - being
-  - carried
-- - unto
-  - him
-  - o
+- - pond
+  - than
+  - take
 - - years
   - older
   - than
+- - before
+  - being
+  - carried
+- - creatures
+  - who
+  - bury
+- - unto
+  - him
+  - o
+- - understand
+  - him
+  - that's
 - - do
   - myself
   - madam
+- - than
+  - take
+  - part
 - - cartography
   - their
   - innovative
 - - keepers
   - their
   - frolicking
-- - than
-  - take
-  - part
+- - him
+  - o
+  - lord
 - - finnish
   - cartography
   - their
 - - 'no'
   - mental
   - baggage
-- - him
-  - o
-  - lord
 - - water
   - before
   - being
@@ -476,93 +476,102 @@ ngrams:
 - - pulpit
   - madam
   - what
-- - bury
-  - their
-  - dead
 - - minnie
   - snorted
   - what
-- - sharpen
-  - your
-  - pencil
+- - bury
+  - their
+  - dead
 - - their
   - dead
   - madam
-- - him
-  - that's
-  - why
 - - their
   - frolicking
   - done
 - - buried
   - their
   - dead
+- - sharpen
+  - your
+  - pencil
+- - him
+  - that's
+  - why
+- - snorted
+  - what
+  - else
+- - then
+  - take
+  - place
 - - techniques
   - were
   - revolutionary
-- - notice
-  - she
-  - said
 - - dead
   - then
   - two
 - - better
   - sharpen
   - your
-- - then
-  - take
-  - place
-- - snorted
-  - what
-  - else
 - - threw
   - herself
   - into
 - - break
   - into
   - bits
-- - henchman
-  - will
-  - varnish
 - - will
   - distribute
   - sprigs
+- - henchman
+  - will
+  - varnish
 - - communal
   - ablutions
   - will
 - - minstrels
   - will
   - prance
+- - clear
+  - ideas
+  - about
+- - more
+  - than
+  - equal
 - - frighten
   - them
   - away
 - - bruno
   - will
   - frighten
-- - clear
-  - ideas
-  - about
 - - attend
   - bruno
   - will
-- - then
-  - two
-  - days
-- - will
-  - eat
-  - hockey
-- - more
-  - than
-  - equal
-- - mourners
-  - will
-  - remain
 - - trumpery
   - 'no'
   - mr
+- - notice
+  - she
+  - said
+- - will
+  - eat
+  - hockey
+- - mourners
+  - will
+  - remain
+- - then
+  - two
+  - days
+- - if
+  - anyone
+  - else
+- - horses
+  - together
+  - when
 - - spurned
   - all
   - religion
+- - dr
+  - hoist
+  - will
 - - all
   - disembark
   - enter
@@ -572,33 +581,117 @@ ngrams:
 - - chew
   - will
   - jabber
-- - chew
-  - will
-  - deliver
 - - reverend
   - chew
   - will
-- - horses
-  - together
-  - when
-- - dr
-  - hoist
+- - chew
   - will
-- - if
-  - anyone
-  - else
-- - talc
-  - spurned
-  - all
+  - deliver
 - - make
   - its
   - way
-- - will
-  - remain
-  - outside
+- - talc
+  - spurned
+  - all
 - - them
   - understood
   - before
+- - will
+  - remain
+  - outside
+- - interment
+  - whence
+  - we
+- - later
+  - if
+  - anyone
+- - names
+  - later
+  - if
+- - do
+  - now
+  - listen
+- - hiring
+  - himself
+  - out
+- - shine
+  - upon
+  - him
+- - only
+  - creatures
+  - who
+- - enormous
+  - pit
+  - we
+- - upon
+  - him
+  - followed
+- - such
+  - trumpery
+  - 'no'
+- - route
+  - will
+  - take
+- - funeral
+  - will
+  - take
+- - will
+  - find
+  - plenty
+- - bidding
+  - your
+  - first
+- - only
+  - buried
+  - their
+- - shall
+  - all
+  - join
+- - cortege
+  - will
+  - make
+- - your
+  - first
+  - task
+- - frantically
+  - good
+  - we
+- - will
+  - shuffle
+  - away
+- - too
+  - will
+  - follow
+- - lack
+  - we
+  - shall
+- - obsequies
+  - when
+  - after
+- - your
+  - pencil
+  - here
+- - we
+  - shall
+  - stand
+- - would
+  - rather
+  - lie
+- - pit
+  - we
+  - shall
+- - will
+  - being
+  - screeched
+- - staggering
+  - power
+  - which
+- - she
+  - said
+  - first
+- - whence
+  - we
+  - too
 story:
   date: 2017-10-22
   id: 2017-10-22-obsequies-for-lars-talc-struck-by-lightning-xii

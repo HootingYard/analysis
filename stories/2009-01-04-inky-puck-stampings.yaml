@@ -20,24 +20,24 @@ ngrams:
 - - milkmaid
   - delusional
   - vampires
-- - starling
-  - collisions
-  - misted
 - - scrape
   - minuscule
   - quantities
 - - torment
   - celebrity
   - historian
-- - celebrity
-  - historian
-  - simon
+- - starling
+  - collisions
+  - misted
 - - simultaneously
   - muffled
   - soundtrack
 - - mute
   - milkmaid
   - delusional
+- - celebrity
+  - historian
+  - simon
 - - discarded
   - agricultural
   - sacks
@@ -56,108 +56,102 @@ ngrams:
 - - misted
   - glass
   - obscuring
+- - british
+  - singles
+  - chart
 - - collisions
   - misted
   - glass
 - - vampires
   - card
   - games
-- - british
-  - singles
-  - chart
 - - fiery
   - flying
   - roll
-- - ornithological
-  - records
-  - accident
 - - records
   - accident
   - reports
+- - ornithological
+  - records
+  - accident
 - - weeks
   - dementedly
   - chopping
+- - one's
+  - unpaid
+  - companion
 - - sharp
   - axe
   - despite
 - - soup
   - starling
   - collisions
-- - one's
-  - unpaid
-  - companion
-- - singles
-  - chart
-  - blodgett
-- - parchment
-  - regarding
-  - soup
-- - starling
-  - facts
-  - i'm
 - - puck
   - stampings
   - kept
-- - card
-  - games
-  - ditch
 - - games
   - ditch
   - digging
 - - occasionally
   - incomprehensible
   - unless
-- - regarding
+- - parchment
+  - regarding
   - soup
-  - starling
+- - starling
+  - facts
+  - i'm
+- - card
+  - games
+  - ditch
 - - including
   - ornithological
   - records
 - - facts
   - i'm
   - sorry
+- - regarding
+  - soup
+  - starling
 - - pewter
   - pot
   - held
-- - startling
-  - facts
-  - although
-- - hanging
-  - open
-  - drooling
 - - convincing
   - evidence
   - including
+- - singles
+  - chart
+  - blodgett
+- - hanging
+  - open
+  - drooling
 - - evidence
   - including
   - ornithological
+- - one's
+  - ears
+  - pricked
+- - startling
+  - facts
+  - although
 - - pace
   - sometimes
   - gentle
 - - one's
   - mouth
   - hanging
-- - one's
-  - ears
-  - pricked
 - - showbiz
   - bird
   - displays
 - - six
   - weeks
   - dementedly
-- - chart
-  - blodgett
-  - spent
-- - television
-  - documentary
-  - series
 - - almost
   - inhuman
   - concentration
-- - mouth
-  - hanging
-  - open
+- - television
+  - documentary
+  - series
 - - particularly
   - difficult
   - task
@@ -167,42 +161,48 @@ ngrams:
 - - excellent
   - television
   - series
-- - puck
-  - stampings
-  - let
+- - mouth
+  - hanging
+  - open
+- - chart
+  - blodgett
+  - spent
 - - important
   - bus
   - timetable
 - - decisively
   - important
   - bus
+- - puck
+  - stampings
+  - let
 - - brain
   - tormented
   - scribblings
 - - ditch
   - digging
   - reading
-- - facts
-  - although
-  - among
-- - stampings
-  - let
-  - alone
-- - stampings
-  - hinges
-  - each
-- - timetable
-  - things
-  - chewed
-- - returning
-  - home
-  - spent
 - - fruitbat
   - curious
   - indeed
+- - stampings
+  - hinges
+  - each
+- - stampings
+  - let
+  - alone
+- - facts
+  - although
+  - among
+- - timetable
+  - things
+  - chewed
 - - yet
   - simultaneously
   - muffled
+- - returning
+  - home
+  - spent
 - - deafeningly
   - loud
   - yet
@@ -212,15 +212,15 @@ ngrams:
 - - read
   - startling
   - facts
-- - shines
-  - most
-  - brightly
 - - bus
   - timetable
   - things
 - - least
   - nine
   - hours
+- - shines
+  - most
+  - brightly
 - - historian
   - takes
   - us
@@ -230,60 +230,60 @@ ngrams:
 - - per
   - being
   - struck
-- - years
-  - blodgett
-  - amassed
 - - many
   - similar
   - collections
-- - album
-  - getting
-  - through
 - - very
   - sharp
   - axe
+- - album
+  - getting
+  - through
 - - new
   - television
   - series
+- - years
+  - blodgett
+  - amassed
 - - least
   - three
   - hours
-- - hit
-  - number
-  - two
 - - should
   - read
   - startling
-- - three
-  - hours
-  - every
+- - hit
+  - number
+  - two
 - - such
   - uncharacteristic
   - care
+- - three
+  - hours
+  - every
 - - also
   - gives
   - us
-- - stunned
-  - potters
-  - other
 - - potters
   - other
   - potters
+- - stunned
+  - potters
+  - other
+- - other
+  - potters
+  - encountered
 - - blodgett
   - maintained
   - such
 - - later
   - years
   - blodgett
-- - other
-  - potters
-  - encountered
-- - other
-  - times
-  - hectic
 - - us
   - though
   - whether
+- - other
+  - times
+  - hectic
 story:
   date: 2009-01-04
   id: 2009-01-04-inky-puck-stampings

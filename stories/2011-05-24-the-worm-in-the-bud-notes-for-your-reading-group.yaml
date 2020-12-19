@@ -2,15 +2,15 @@ ngrams:
 - - herding
   - livestock
   - guarding
+- - mammal
+  - canis
+  - familiaris
 - - carnivorous
   - mammal
   - canis
 - - domesticated
   - carnivorous
   - mammal
-- - mammal
-  - canis
-  - familiaris
 - - hunting
   - herding
   - livestock
@@ -26,12 +26,12 @@ ngrams:
 - - scotsman
   - james
   - kelman
-- - prison
-  - ii
-  - confined
 - - c
   - lupus
   - familiaris
+- - prison
+  - ii
+  - confined
 - - angry
   - scotsman
   - james
@@ -44,12 +44,12 @@ ngrams:
 - - escape
   - scot
   - free
-- - whining
-  - voice
-  - widely
 - - detailed
   - character
   - sketch
+- - whining
+  - voice
+  - widely
 - - term
   - special
   - agent
@@ -71,21 +71,21 @@ ngrams:
 - - growth
   - until
   - fully
-- - used
-  - detective
-  - captain
 - - until
   - fully
   - opened
-- - narrator
-  - tells
-  - us
-- - scottish
-  - novels
-  - how
+- - used
+  - detective
+  - captain
 - - think
   - angry
   - scotsman
+- - scottish
+  - novels
+  - how
+- - narrator
+  - tells
+  - us
 - - novels
   - how
   - late
@@ -104,15 +104,15 @@ ngrams:
 - - worm
   - crawls
   - do
-- - hooting
-  - yard
-  - reading
-- - hooting
-  - yard
-  - reading
 - - eventually
   - caught
   - do
+- - hooting
+  - yard
+  - reading
+- - hooting
+  - yard
+  - reading
 - - some
   - useful
   - notes

@@ -8,9 +8,6 @@ ngrams:
 - - recent
   - weeks
   - doctor
-- - doctor
-  - cack
-  - seemed
 - - alphabetical
   - serial
   - story
@@ -20,6 +17,9 @@ ngrams:
 - - story
   - they're
   - calling
+- - doctor
+  - cack
+  - seemed
 - - small
   - potato
   - lodged
@@ -44,12 +44,12 @@ ngrams:
 - - preoccupied
   - so
   - often
-- - had
-  - almost
-  - destroyed
 - - tourney
   - so
   - now
+- - had
+  - almost
+  - destroyed
 - - this
   - last
   - sentence
@@ -77,9 +77,9 @@ ngrams:
 - - from
   - him
   - note
-- - frowned
-  - his
-  - brow
+- - leave
+  - him
+  - be
 story:
   date: 2006-02-13
   id: 2006-02-13-q-is-for-quintain

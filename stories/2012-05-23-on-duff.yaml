@@ -8,15 +8,15 @@ ngrams:
 - - primeval
   - forests
   - fashioned
+- - primitive
+  - shambling
+  - savages
+- - primitive
+  - shambling
+  - savages
 - - creepy
   - crawlies
   - plucked
-- - primitive
-  - shambling
-  - savages
-- - primitive
-  - shambling
-  - savages
 - - bitter
   - creepy
   - crawlies
@@ -29,18 +29,15 @@ ngrams:
 - - jet
   - fighters
   - screaming
-- - eating
-  - creepy
-  - crawlies
 - - fetching
   - duff
   - coat
-- - weight
-  - mission
-  - accomplished
 - - bitter
   - bitter
   - creepy
+- - eating
+  - creepy
+  - crawlies
 - - primitive
   - shambling
   - savage
@@ -53,15 +50,18 @@ ngrams:
 - - primitive
   - shambling
   - savage
+- - weight
+  - mission
+  - accomplished
 - - coarse
   - thick
   - woollen
-- - bags
-  - easily
-  - tweaked
 - - woollen
   - material
   - originally
+- - bags
+  - easily
+  - tweaked
 - - duff
   - bags
   - easily
@@ -71,9 +71,6 @@ ngrams:
 - - thick
   - woollen
   - material
-- - portable
-  - metal
-  - tapping
 - - somewhat
   - insalubrious
   - tavern
@@ -86,6 +83,9 @@ ngrams:
 - - shambling
   - savage
   - state
+- - portable
+  - metal
+  - tapping
 - - forest
   - standing
   - naked
@@ -95,21 +95,24 @@ ngrams:
 - - dark
   - dense
   - forest
-- - metal
-  - tapping
-  - machine
 - - duff
   - bag
   - slung
 - - shambling
   - savage
   - making
+- - metal
+  - tapping
+  - machine
 - - high
   - heaven
   - wishing
 - - used
   - rudimentary
   - needlework
+- - thus
+  - duff
+  - coats
 - - ago
   - primitive
   - shambling
@@ -119,18 +122,15 @@ ngrams:
 - - duffel
   - bag
   - although
-- - thus
-  - duff
-  - coats
-- - tiny
-  - wriggling
-  - creepy
 - - myself
   - parachuted
   - stark
 - - fighters
   - screaming
   - across
+- - tiny
+  - wriggling
+  - creepy
 - - actually
   - become
   - primitive
@@ -146,60 +146,60 @@ ngrams:
 - - shoulder
   - empty
   - because
-- - scientists
-  - sat
-  - around
 - - bits
   - soon
   - enough
-- - fall
-  - apart
-  - perhaps
 - - thus
   - hold
   - together
-- - bag
-  - get
-  - cracking
+- - fall
+  - apart
+  - perhaps
 - - almost
   - certainly
   - 'true'
 - - duff
   - bag
   - without
+- - scientists
+  - sat
+  - around
+- - bag
+  - get
+  - cracking
 - - duff
   - bag
   - get
 - - cried
   - well
   - there's
+- - being
+  - rendered
+  - useless
+- - leaves
+  - how
+  - tiresome
 - - shambling
   - savages
   - made
 - - made
   - duff
   - parachutes
-- - being
-  - rendered
-  - useless
 - - savages
   - made
   - duff
-- - leaves
-  - how
-  - tiresome
 - - how
   - damnably
   - difficult
-- - material
-  - originally
-  - made
 - - another
   - tiny
   - fragment
 - - long
   - ago
   - primitive
+- - material
+  - originally
+  - made
 - - languished
   - ever
   - since
@@ -209,15 +209,6 @@ ngrams:
 - - half
   - hours
   - until
-- - our
-  - primitive
-  - shambling
-- - several
-  - hours
-  - let
-- - next
-  - several
-  - hours
 - - calling
   - mr
   - key
@@ -230,18 +221,27 @@ ngrams:
 - - calling
   - mr
   - key
+- - several
+  - hours
+  - let
+- - our
+  - primitive
+  - shambling
+- - next
+  - several
+  - hours
 - - any
   - weight
   - mission
 - - idea
   - how
   - damnably
-- - duff
-  - using
-  - only
 - - carry
   - any
   - weight
+- - duff
+  - using
+  - only
 - - bag
   - slung
   - over
@@ -251,90 +251,87 @@ ngrams:
 - - too
   - being
   - rendered
+- - time
+  - heat
+  - drying
 - - find
   - smeared
   - here
 - - long
   - long
   - ago
-- - get
-  - bogged
-  - down
-- - time
-  - heat
-  - drying
-- - get
-  - cracking
-  - over
 - - grew
   - more
   - urgent
-- - useless
-  - clearly
-  - then
+- - get
+  - cracking
+  - over
 - - belgium
   - rather
   - than
-- - long
-  - long
-  - long
+- - get
+  - bogged
+  - down
+- - useless
+  - clearly
+  - then
 - - voice
   - grew
   - more
 - - ever
   - before
   - despair
-- - forest
-  - floor
-  - do
 - - knew
   - more
   - fully
-- - some
-  - tree
-  - cover
+- - forest
+  - floor
+  - do
+- - long
+  - long
+  - long
 - - fully
   - than
   - ever
+- - some
+  - tree
+  - cover
 - - more
   - urgent
   - until
-- - jangles
-  - your
-  - nerves
+- - any
+  - idea
+  - how
 - - been
   - eating
   - creepy
+- - their
+  - science
+  - van
+- - jangles
+  - your
+  - nerves
 - - spat
   - i've
   - been
 - - your
   - duff
   - coat
-- - forest
-  - jangles
-  - your
 - - i've
   - been
   - eating
-- - their
-  - science
-  - van
-- - any
-  - idea
-  - how
+- - forest
+  - jangles
+  - your
 - - savages
   - lumbering
   - about
-- - your
-  - duff
-  - bag
-- - stark
-  - naked
-  - into
 - - over
   - again
   - how
+- - stark
+  - naked
+  - into
 - - then
   - our
   - primitive
@@ -344,36 +341,33 @@ ngrams:
 - - heat
   - drying
   - out
+- - your
+  - duff
+  - bag
 - - clearly
   - then
   - our
-- - living
-  - has
-  - ever
 - - more
   - fully
   - than
-- - only
-  - some
-  - goo
 - - well
   - there's
   - 'no'
-- - matted
-  - duff
-  - they
-- - using
-  - only
-  - some
-- - has
+- - living
+  - has
   - ever
-  - seen
 - - quite
   - forgot
   - about
 - - than
   - ever
   - before
+- - matted
+  - duff
+  - they
+- - only
+  - some
+  - goo
 - - find
   - more
   - how
@@ -386,24 +380,30 @@ ngrams:
 - - lies
   - there
   - rotting
+- - has
+  - ever
+  - seen
 - - you're
   - there
   - safely
+- - using
+  - only
+  - some
 - - ah
   - you're
   - there
 - - apart
   - perhaps
   - when
-- - first
-  - gathered
-  - up
-- - remembered
-  - everything
-  - there
 - - savage
   - would
   - surely
+- - remembered
+  - everything
+  - there
+- - first
+  - gathered
+  - up
 story:
   date: 2012-05-23
   id: 2012-05-23-on-duff

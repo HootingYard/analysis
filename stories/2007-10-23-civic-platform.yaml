@@ -11,42 +11,42 @@ ngrams:
 - - civic
   - platform
   - yesterday
-- - bracken
-  - mrs
-  - gubbins
-- - pang
-  - hill
-  - orphanage
-- - pang
-  - hill
-  - orphanage
 - - farmer
   - frack
   - apparently
 - - mad
   - bellowing
   - rustic
+- - pang
+  - hill
+  - orphanage
+- - pang
+  - hill
+  - orphanage
+- - bracken
+  - mrs
+  - gubbins
 - - platforms
   - both
   - civic
-- - mrs
-  - gubbins
-  - whose
-- - does
-  - la
-  - gubbins
 - - suspect
   - does
   - la
+- - does
+  - la
+  - gubbins
 - - civic
   - platform
   - because
 - - mrs
   - gubbins
-  - put
+  - whose
 - - new
   - energetic
   - phase
+- - mrs
+  - gubbins
+  - put
 - - yard
   - civic
   - platform
@@ -68,15 +68,15 @@ ngrams:
 - - sit
   - alongside
   - old
-- - old
-  - farmer
-  - frack
-- - old
-  - farmer
-  - frack
 - - alongside
   - old
   - farmer
+- - old
+  - farmer
+  - frack
+- - old
+  - farmer
+  - frack
 - - orphanage
   - think
   - tank
@@ -89,24 +89,21 @@ ngrams:
 - - looks
   - very
   - civic
-- - spartans
-  - made
-  - use
 - - than
   - weedy
   - patron
+- - spartans
+  - made
+  - use
+- - job
+  - any
+  - future
 - - head
   - turned
   - green
 - - gubbins
   - whose
   - head
-- - job
-  - any
-  - future
-- - her
-  - fancies
-  - attractive
 - - its
   - purpose
   - admirably
@@ -131,69 +128,72 @@ ngrams:
 - - hooting
   - yard
   - civic
+- - her
+  - fancies
+  - attractive
+- - robust
+  - rather
+  - than
+- - robust
+  - rather
+  - than
 - - very
   - few
   - teeth
+- - rather
+  - than
+  - weedy
+- - rather
+  - than
+  - weedy
 - - future
   - hooting
   - yard
-- - robust
-  - rather
-  - than
-- - robust
-  - rather
-  - than
-- - rather
-  - than
-  - weedy
-- - rather
-  - than
-  - weedy
-- - planted
-  - some
-  - nettles
 - - go
   - our
   - platform
+- - planted
+  - some
+  - nettles
+- - day
+  - while
+  - talking
 - - position
   - bless
   - him
 - - normal
   - has
   - planted
-- - day
-  - while
-  - talking
 - - any
   - future
   - hooting
 - - must
   - thank
   - her
-- - spending
-  - your
-  - twilight
-- - only
-  - two
-  - things
 - - too
   - can
   - apply
+- - spending
+  - your
+  - twilight
 - - remains
   - unclear
   - what
-- - fob
-  - him
-  - 'off'
+- - only
+  - two
+  - things
 - - afternoon
   - nap
   - when
-- - ideas
-  - will
-  - fizz
 - - unclear
   - what
   - kind
+- - ideas
+  - will
+  - fizz
+- - fob
+  - him
+  - 'off'
 - - civic
   - platform
   - will
@@ -203,33 +203,33 @@ ngrams:
 - - built
   - will
   - rest
-- - mrs
-  - gubbins
-  - will
 - - brings
   - me
   - neatly
+- - mrs
+  - gubbins
+  - will
 - - bless
   - him
   - even
 - - gubbins
   - will
   - sort
-- - your
-  - twilight
-  - years
 - - other
   - day
   - while
-- - been
-  - around
-  - long
+- - your
+  - twilight
+  - years
 - - bash
   - into
   - old
-- - honorary
-  - patron
-  - which
+- - into
+  - old
+  - farmer
+- - been
+  - around
+  - long
 story:
   date: 2007-10-23
   id: 2007-10-23-civic-platform

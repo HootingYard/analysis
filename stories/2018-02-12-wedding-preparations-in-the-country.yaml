@@ -1,13 +1,10 @@
 ngrams:
-- - urbane
-  - hirsute
-  - vengeful
 - - lascivious
   - erudite
   - appalling
-- - hirsute
+- - urbane
+  - hirsute
   - vengeful
-  - cantankerous
 - - cantankerous
   - potty
   - gassy
@@ -17,42 +14,42 @@ ngrams:
 - - persuasive
   - theological
   - tract
-- - embroidered
-  - cloths
-  - covering
+- - hirsute
+  - vengeful
+  - cantankerous
 - - vengeful
   - cantankerous
   - potty
+- - embroidered
+  - cloths
+  - covering
 - - babs
   - glint
   - daughter
-- - potty
-  - gassy
-  - ferocious
 - - lady's
   - womb
   - jesus
+- - potty
+  - gassy
+  - ferocious
 - - internationally
   - celebrated
   - italian
 - - vig
   - sought
   - refuge
-- - gassy
-  - ferocious
-  - dismal
 - - brittle
   - bitter
   - blessed
+- - gassy
+  - ferocious
+  - dismal
 - - he's
   - instantly
   - ecstatic
 - - appalling
   - nuts
   - rubicund
-- - erudite
-  - appalling
-  - nuts
 - - gus
   - von
   - vig
@@ -74,99 +71,102 @@ ngrams:
 - - unexpectedly
   - von
   - vig
-- - moustached
-  - serial
-  - killer
-- - nuts
-  - rubicund
-  - sordid
+- - erudite
+  - appalling
+  - nuts
 - - lip
   - fashion
   - craze
-- - bar
-  - serving
-  - urchin
-- - bar
-  - serving
-  - urchin
-- - lip
-  - fashion
-  - historian
 - - unbridled
   - violence
   - weedy
-- - holy
-  - brittle
-  - bitter
-- - greedily
-  - inadvertently
-  - leaving
+- - lip
+  - fashion
+  - historian
+- - bar
+  - serving
+  - urchin
+- - bar
+  - serving
+  - urchin
+- - nuts
+  - rubicund
+  - sordid
 - - cat
   - gus
   - begged
-- - von
-  - vig
-  - sought
+- - moustached
+  - serial
+  - killer
 - - godforsaken
   - rustic
   - hellhole
+- - holy
+  - brittle
+  - bitter
 - - weedy
   - von
   - vig
+- - von
+  - vig
+  - sought
+- - greedily
+  - inadvertently
+  - leaving
 - - vig
   - grew
   - thirsty
-- - greatest
-  - upper
-  - lip
-- - upper
-  - lip
-  - fashion
-- - upper
-  - lip
-  - fashion
-- - squalid
-  - countryside
-  - wedding
-- - von
-  - vig
-  - lit
 - - wholly
   - unconscious
   - waved
+- - squalid
+  - countryside
+  - wedding
+- - upper
+  - lip
+  - fashion
+- - upper
+  - lip
+  - fashion
+- - greatest
+  - upper
+  - lip
 - - violence
   - weedy
   - von
-- - de
-  - rigueur
-  - scarcely
-- - train
-  - chugged
-  - slowly
-- - writes
-  - he's
-  - instantly
 - - von
   - vig
-  - grew
+  - lit
 - - fantastically
   - rigorous
   - research
+- - train
+  - chugged
+  - slowly
 - - public
   - outing
   - dozens
-- - asleep
-  - shortly
-  - afterwards
-- - latest
-  - fashion
-  - magazines
+- - von
+  - vig
+  - grew
 - - peasant
   - expressed
   - admiration
+- - asleep
+  - shortly
+  - afterwards
+- - de
+  - rigueur
+  - scarcely
+- - latest
+  - fashion
+  - magazines
 - - station
   - gus
   - von
+- - writes
+  - he's
+  - instantly
 - - brutal
   - peasant
   - sport
@@ -179,24 +179,24 @@ ngrams:
 - - demonstrated
   - beyond
   - argument
+- - milk
+  - bar
+  - serving
+- - milk
+  - bar
+  - serving
+- - certainly
+  - proved
+  - persuasive
 - - promptly
   - fell
   - asleep
 - - railway
   - station
   - gus
-- - certainly
-  - proved
-  - persuasive
 - - dilapidated
   - railway
   - station
-- - milk
-  - bar
-  - serving
-- - milk
-  - bar
-  - serving
 - - milk
   - bar
   - factotum
@@ -206,78 +206,78 @@ ngrams:
 - - fell
   - asleep
   - shortly
+- - deep
+  - spiritual
+  - peasant
 - - peasant
   - love
   - akin
 - - spiritual
   - peasant
   - love
-- - deep
-  - spiritual
-  - peasant
-- - turned
-  - abruptly
-  - returned
 - - awake
   - almost
   - uncannily
 - - gus
   - begged
   - further
-- - chugged
-  - slowly
-  - towards
-- - hand
-  - gus
-  - begged
+- - turned
+  - abruptly
+  - returned
 - - wedding
   - guests
   - against
+- - hand
+  - gus
+  - begged
+- - chugged
+  - slowly
+  - towards
 - - wide
   - awake
   - almost
-- - four
-  - foot
-  - tall
 - - single
   - peasant
   - expressed
 - - study
   - photographs
   - taken
+- - four
+  - foot
+  - tall
 - - babs
   - also
   - preparing
+- - abruptly
+  - returned
+  - along
 - - wallowing
   - among
   - pigs
 - - peasant
   - hand
   - gus
-- - abruptly
-  - returned
-  - along
-- - vig
-  - came
-  - mincing
 - - often
   - brutal
   - peasant
+- - vig
+  - came
+  - mincing
 - - grubby
   - peasant
   - hand
 - - afterwards
   - without
   - waking
-- - photographs
-  - taken
-  - during
 - - von
   - vig
   - came
 - - shortly
   - afterwards
   - without
+- - photographs
+  - taken
+  - during
 - - pointy
   - hat
   - unlike
@@ -296,141 +296,141 @@ ngrams:
 - - guests
   - against
   - each
+- - came
+  - mincing
+  - along
 - - train
   - journey
   - away
 - - tiny
   - beetles
   - across
-- - wedding
-  - took
-  - place
-- - came
-  - mincing
-  - along
 - - every
   - important
   - city
-- - being
-  - fast
-  - asleep
 - - plagued
   - those
   - plagued
+- - being
+  - fast
+  - asleep
+- - wedding
+  - took
+  - place
 - - von
   - vig
   - first
 - - our
   - lady's
   - womb
+- - fad
+  - oh
+  - much
 - - down
   - greedily
   - inadvertently
 - - vig
   - first
   - gave
+- - farmer
+  - might
+  - change
+- - bars
+  - where
+  - gus
 - - most
   - fashionable
   - people
 - - why
   - cats
   - must
-- - fad
-  - oh
-  - much
-- - bars
-  - where
-  - gus
-- - only
-  - study
-  - photographs
 - - where
   - gus
   - von
 - - than
   - gus
   - von
-- - farmer
-  - might
-  - change
-- - lord
-  - only
-  - knows
 - - only
-  - towards
-  - puppies
+  - study
+  - photographs
 - - milk
   - bars
   - where
-- - always
-  - plagued
-  - those
 - - vig
   - lit
   - upon
+- - always
+  - plagued
+  - those
+- - lord
+  - only
+  - knows
 - - milk
   - moustache
   - such
 - - moustache
   - upon
   - von
-- - she
-  - writes
-  - he's
+- - only
+  - towards
+  - puppies
 - - yield
   - then
   - gus
 - - station
   - far
   - away
-- - milk
-  - bar
-  - now
-- - need
-  - only
-  - study
-- - than
-  - four
-  - foot
 - - concentrate
   - instead
   - upon
-- - more
-  - vivid
-  - passages
 - - milk
   - moustache
   - upon
+- - milk
+  - bar
+  - now
+- - more
+  - vivid
+  - passages
+- - than
+  - four
+  - foot
+- - need
+  - only
+  - study
+- - she
+  - writes
+  - he's
 - - only
   - knows
   - why
-- - her
-  - research
-  - paper
 - - some
   - godforsaken
   - rustic
-- - vig
-  - who
-  - gulped
 - - tables
   - upon
   - each
+- - upon
+  - each
+  - cloth
+- - vig
+  - who
+  - gulped
+- - her
+  - research
+  - paper
 - - von
   - vig
   - who
 - - bar
   - factotum
   - who
-- - upon
-  - each
-  - cloth
-- - has
-  - demonstrated
-  - beyond
 - - factotum
   - who
   - played
+- - has
+  - demonstrated
+  - beyond
 - - their
   - daughter's
   - wedding

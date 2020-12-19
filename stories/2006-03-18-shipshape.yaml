@@ -5,15 +5,15 @@ ngrams:
 - - strauss's
   - comic
   - operetta
-- - hieronymus
-  - bosch
-  - painted
 - - discovers
   - fools
   - capering
 - - fools
   - hieronymus
   - bosch
+- - hieronymus
+  - bosch
+  - painted
 - - blunt
   - fools
   - hieronymus
@@ -23,12 +23,12 @@ ngrams:
 - - narrator
   - discovers
   - fools
-- - affirmative
-  - ghost
-  - ships
 - - surprising
   - resonance
   - typically
+- - affirmative
+  - ghost
+  - ships
 - - aboard
   - shipshape
   - ships
@@ -38,12 +38,12 @@ ngrams:
 - - flying
   - mammal
   - fond
-- - ghost
-  - ships
-  - ones
 - - shipshape
   - shipshape
   - ought
+- - ghost
+  - ships
+  - ones
 - - bats
   - poor
   - innocent
@@ -98,15 +98,15 @@ ngrams:
 - - life
   - save
   - perhaps
-- - hanging
-  - upside
-  - down
-- - hanging
-  - upside
-  - down
 - - may
   - encounter
   - shipshape
+- - hanging
+  - upside
+  - down
+- - hanging
+  - upside
+  - down
 - - actions
   - should
   - go
@@ -128,18 +128,18 @@ ngrams:
 - - then
   - shifts
   - shape
-- - fools
-  - do
-  - caper
 - - matters
   - more
   - complex
-- - exactly
-  - some
-  - contend
+- - fools
+  - do
+  - caper
 - - can
   - hardly
   - blame
+- - exactly
+  - some
+  - contend
 - - ghost
   - ship
   - can
@@ -158,96 +158,66 @@ ngrams:
 - - derelict
   - ship
   - 'no'
-- - been
-  - considered
-  - spooky
+- - make
+  - matters
+  - more
 - - should
   - go
   - any
 - - ship
   - 'no'
   - longer
-- - make
-  - matters
-  - more
 - - 'no'
   - longer
   - entirely
-- - fools
-  - capering
-  - about
+- - been
+  - considered
+  - spooky
 - - years
   - earlier
   - then
+- - fools
+  - capering
+  - about
 - - 'no'
   - phantoms
   - nor
-- - people
-  - who
-  - ought
 - - introducing
   - bats
   - into
+- - people
+  - who
+  - ought
+- - more
+  - complex
+  - than
 - - often
   - been
   - considered
 - - been
   - found
   - intact
-- - more
-  - complex
-  - than
 - - can
   - only
   - answer
-- - will
-  - delight
-  - readers
 - - uncannily
   - deserted
   - there
+- - will
+  - delight
+  - readers
 - - haunted
   - we
   - press
 - - ship
   - shown
   - we
-- - celeste
-  - which
-  - owes
-- - marie
-  - celeste
-  - which
-- - mary
-  - celeste
-  - which
-- - all
-  - life
-  - save
-- - flying
-  - mouse
-  - which
 - - closing
   - lines
   - so
-- - ghouls
-  - are
-  - fond
-- - ghost
-  - ships
-  - are
 - - being
   - shipshape
   - if
-- - will
-  - soon
-  - get
-- - ship
-  - so
-  - highly
-- - which
-  - various
-  - phantoms
 - - what
   - might
   - happen
@@ -255,11 +225,41 @@ ngrams:
   - what
   - might
 - - all
+  - life
+  - save
+- - ship
+  - so
+  - highly
+- - celeste
+  - which
+  - owes
+- - marie
+  - celeste
+  - which
+- - will
+  - soon
+  - get
+- - ghouls
+  - are
+  - fond
+- - mary
+  - celeste
+  - which
+- - ghost
+  - ships
+  - are
+- - flying
+  - mouse
+  - which
+- - which
+  - various
+  - phantoms
+- - save
+  - we
+  - come
+- - all
   - these
   - legends
-- - are
-  - 'true'
-  - ghost
 story:
   date: 2006-03-18
   id: 2006-03-18-shipshape

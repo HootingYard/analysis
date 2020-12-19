@@ -23,9 +23,6 @@ ngrams:
 - - scandinavian
   - detective
   - fiction
-- - handbook
-  - lavender
-  - series
 - - somewhat
   - depressive
   - monkey
@@ -44,15 +41,18 @@ ngrams:
 - - scandinavian
   - detective
   - monkey
+- - handbook
+  - lavender
+  - series
 - - already
   - seeking
   - legal
-- - second
-  - handbook
-  - lavender
 - - majestic
   - prose
   - insert
+- - second
+  - handbook
+  - lavender
 - - talking
   - monkey
   - fiction
@@ -62,21 +62,21 @@ ngrams:
 - - bestseller
   - devoted
   - readers
-- - lavender
-  - series
-  - today
 - - both
   - scandinavian
   - detective
+- - lavender
+  - series
+  - today
 - - gainfully
   - occupied
   - until
-- - snowdrifts
-  - while
-  - recovering
 - - depressive
   - monkey
   - perhaps
+- - snowdrifts
+  - while
+  - recovering
 - - scandinavian
   - language
   - read
@@ -107,15 +107,15 @@ ngrams:
 - - damned
   - thing
   - before
+- - am
+  - already
+  - seeking
 - - frank
   - key
   - now
 - - do
   - anything
   - whatsoever
-- - am
-  - already
-  - seeking
 - - cobble
   - together
   - some
@@ -146,6 +146,9 @@ ngrams:
 - - earn
   - me
   - oodles
+- - am
+  - even
+  - thinking
 - - me
   - gainfully
   - occupied
@@ -155,36 +158,33 @@ ngrams:
 - - detective
   - monkey
   - will
-- - am
-  - even
-  - thinking
 - - hope
   - earn
   - me
-- - devoted
-  - readers
-  - will
 - - keep
   - me
   - gainfully
+- - devoted
+  - readers
+  - will
 - - keep
   - me
   - busy
 - - translated
   - back
   - into
-- - affairs
-  - which
-  - means
 - - back
   - into
   - english
-- - will
-  - fly
-  - 'off'
 - - making
   - up
   - such
+- - will
+  - fly
+  - 'off'
+- - affairs
+  - which
+  - means
 - - majestic
   - prose
   - are

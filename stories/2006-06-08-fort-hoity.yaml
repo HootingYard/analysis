@@ -5,15 +5,15 @@ ngrams:
 - - goat's
   - tether
   - extended
-- - fanatical
-  - adherents
-  - mumbled
-- - unleashing
-  - madcap
-  - havoc
 - - fairies
   - elves
   - sprites
+- - unleashing
+  - madcap
+  - havoc
+- - fanatical
+  - adherents
+  - mumbled
 - - undergone
   - whistling
   - training
@@ -23,48 +23,48 @@ ngrams:
 - - incoherent
   - gibberish
   - bam
-- - highly
-  - perplexing
-  - circumstance
 - - imitated
   - crows
   - corncrakes
-- - gossamer
-  - thin
-  - magical
 - - peruvian
   - laundry
   - basket
+- - highly
+  - perplexing
+  - circumstance
+- - gossamer
+  - thin
+  - magical
 - - thin
   - magical
   - thread
-- - adherent
-  - named
-  - diocletian
-- - mumbling
-  - grew
-  - louder
 - - babbling
   - incoherent
   - gibberish
-- - fanatical
-  - adherent
+- - mumbling
+  - grew
+  - louder
+- - adherent
   - named
+  - diocletian
 - - fled
   - fort
   - hoity
 - - enter
   - fort
   - hoity
-- - portable
-  - metal
-  - tapping
+- - fanatical
+  - adherent
+  - named
 - - fort
   - deserted
   - save
 - - barren
   - plain
   - try
+- - portable
+  - metal
+  - tapping
 - - using
   - gossamer
   - thin
@@ -74,30 +74,30 @@ ngrams:
 - - hot
   - coals
   - staring
-- - speaks
-  - human
-  - languages
-- - adherents
-  - mumbled
-  - together
 - - fort
   - hoity
   - goat
-- - metal
-  - tapping
-  - machine
 - - miniature
   - cardboard
   - hens
 - - madcap
   - havoc
   - instead
-- - precious
-  - pages
-  - entitled
+- - adherents
+  - mumbled
+  - together
+- - speaks
+  - human
+  - languages
+- - metal
+  - tapping
+  - machine
 - - bam
   - replied
   - 'yes'
+- - precious
+  - pages
+  - entitled
 - - huge
   - iron
   - gates
@@ -116,6 +116,9 @@ ngrams:
 - - plain
   - towards
   - fort
+- - group
+  - both
+  - bim
 - - logbooks
   - under
   - b
@@ -125,15 +128,9 @@ ngrams:
 - - became
   - utterly
   - lost
-- - group
-  - both
-  - bim
 - - fort
   - hoity
   - people
-- - standing
-  - around
-  - mumbling
 - - fort
   - hoity
   - came
@@ -146,42 +143,39 @@ ngrams:
 - - fort
   - hoity
   - why
+- - standing
+  - around
+  - mumbling
 - - brazier
   - burn
   - still
-- - few
-  - precious
-  - pages
 - - find
   - fort
   - toity
+- - few
+  - precious
+  - pages
 - - coals
   - burned
   - still
 - - issued
   - within
   - days
+- - diocletian
+  - much
+  - mustachioed
 - - pages
   - entitled
   - why
 - - burned
   - still
   - clearly
-- - many
-  - leagues
-  - yonder
-- - diocletian
-  - much
-  - mustachioed
 - - much
   - mustachioed
   - raised
-- - laundry
-  - basket
-  - man
-- - passing
-  - bim
-  - made
+- - many
+  - leagues
+  - yonder
 - - named
   - diocletian
   - much
@@ -191,9 +185,9 @@ ngrams:
 - - hoity
   - through
   - main
-- - cruelly
-  - abandoned
-  - back
+- - pointy
+  - stick
+  - until
 - - fort
   - hoity
   - through
@@ -203,33 +197,39 @@ ngrams:
 - - through
   - main
   - force
+- - passing
+  - bim
+  - made
+- - cruelly
+  - abandoned
+  - back
+- - laundry
+  - basket
+  - man
 - - regularly
   - every
   - night
-- - made
-  - miniature
-  - cardboard
 - - untethered
   - goat
   - first
-- - ate
-  - our
-  - breakfasts
+- - made
+  - miniature
+  - cardboard
 - - sympathy
   - diocletian
   - said
-- - pointy
-  - stick
-  - until
-- - abandoned
-  - said
-  - bim
+- - ate
+  - our
+  - breakfasts
 - - sit
   - quite
   - still
-- - print
-  - pamphleteer
-  - dobson
+- - abandoned
+  - said
+  - bim
+- - moss
+  - grow
+  - upon
 - - slip
   - its
   - bonds
@@ -239,9 +239,9 @@ ngrams:
 - - first
   - place
   - replacing
-- - moss
-  - grow
-  - upon
+- - print
+  - pamphleteer
+  - dobson
 - - fairy
   - could
   - surely
@@ -251,174 +251,174 @@ ngrams:
 - - grew
   - louder
   - time
-- - world
-  - where
-  - inexplicable
 - - where
   - inexplicable
   - things
-- - bam
-  - accused
-  - him
+- - world
+  - where
+  - inexplicable
 - - hoity
   - why
   - did
+- - bam
+  - accused
+  - him
 - - bim
   - has
   - eaten
-- - world
-  - without
-  - dobson
 - - being
   - borne
   - down
-- - who
-  - fled
-  - fort
-- - inadvertently
-  - sent
-  - them
-- - has
-  - eaten
-  - half
 - - inexplicable
   - things
   - could
-- - pursuers
-  - who
-  - became
+- - world
+  - without
+  - dobson
+- - inadvertently
+  - sent
+  - them
+- - who
+  - fled
+  - fort
 - - replacing
   - their
   - logbooks
-- - their
-  - confectionery
-  - bags
-- - who
-  - became
-  - utterly
 - - such
   - thing
   - under
+- - their
+  - confectionery
+  - bags
+- - pursuers
+  - who
+  - became
+- - has
+  - eaten
+  - half
 - - now
   - being
   - borne
-- - abandoned
-  - their
-  - tethered
+- - who
+  - became
+  - utterly
 - - cruelly
   - abandoned
   - their
+- - abandoned
+  - their
+  - tethered
 - - conscientiously
   - show
   - 'no'
-- - called
-  - bim
-  - has
 - - their
   - tethered
   - goat
+- - called
+  - bim
+  - has
 - - borne
   - down
   - upon
 - - down
   - upon
   - slowly
-- - confectionery
-  - bags
-  - were
 - - adherents
   - gathered
   - about
-- - their
-  - logbooks
-  - under
 - - gathered
   - about
   - bim
-- - shut
-  - their
-  - eyes
+- - their
+  - logbooks
+  - under
 - - plunged
   - into
   - despair
+- - shut
+  - their
+  - eyes
+- - confectionery
+  - bags
+  - were
 - - place
   - replacing
   - their
-- - around
-  - their
-  - brazier
-- - tapping
-  - machine
-  - were
-- - bags
-  - were
-  - empty
-- - until
-  - their
-  - confectionery
 - - crying
   - out
   - loud
 - - out
   - loud
   - bim
-- - who
-  - made
-  - miniature
+- - around
+  - their
+  - brazier
+- - until
+  - their
+  - confectionery
+- - tapping
+  - machine
+  - were
+- - bags
+  - were
+  - empty
 - - goat
   - until
   - their
 - - sat
   - around
   - their
+- - who
+  - made
+  - miniature
 - - machine
   - were
   - dead
-- - basket
-  - man
-  - who
-- - marched
-  - those
-  - who
-- - long
-  - been
-  - abandoned
-- - long
-  - been
-  - abandoned
 - - spidery
   - handwriting
   - they
+- - marched
+  - those
+  - who
 - - toity
   - they
   - wandered
+- - people
+  - flee
+  - if
 - - those
   - who
   - fled
 - - were
   - both
   - astonished
-- - tack
-  - they
-  - tied
+- - smashed
+  - their
+  - way
+- - basket
+  - man
+  - who
+- - adherents
+  - would
+  - jot
+- - fanatical
+  - adherents
+  - would
 - - fort
   - toity
   - they
 - - fort
   - hoity
   - they
-- - smashed
-  - their
-  - way
-- - tethered
-  - goat
-  - they
-- - people
-  - flee
-  - if
-- - visible
-  - they
-  - shut
+- - long
+  - been
+  - abandoned
+- - long
+  - been
+  - abandoned
+- - adherents
+  - set
+  - out
 story:
   date: 2006-06-08
   id: 2006-06-08-fort-hoity

@@ -5,72 +5,72 @@ ngrams:
 - - densely
   - woven
   - cravats
-- - icelandic
-  - cattle
-  - icelandic
 - - whistling
   - magnificently
   - witnessing
+- - icelandic
+  - cattle
+  - icelandic
 - - abductor
   - dax
   - dax
 - - elspeth
   - banshee
   - cravat
-- - crisp
-  - autumn
-  - chill
-- - churchyard
-  - whistling
-  - magnificently
-- - alleyway
-  - abductor
-  - dax
 - - repeating
   - dax
   - dax
+- - crisp
+  - autumn
+  - chill
+- - alleyway
+  - abductor
+  - dax
+- - churchyard
+  - whistling
+  - magnificently
 - - shrubbery
+  - dax
+  - dax
+- - dax
+  - dax
+  - dax
+- - dax
+  - dax
+  - dax
+- - dax
   - dax
   - dax
 - - graveyard
   - shrubbery
   - dax
-- - dax
-  - dax
-  - dax
-- - dax
-  - dax
-  - dax
-- - dax
-  - dax
-  - dax
-- - icelandic
-  - sheep
-  - icelandic
 - - unexpected
   - blather
   - blather
 - - icelandic
-  - chicken
+  - sheep
   - icelandic
 - - sheep
   - icelandic
   - cattle
-- - teutonic
-  - stock
-  - market
-- - wear
-  - densely
-  - woven
-- - woven
-  - cravats
-  - designed
 - - cattle
   - icelandic
   - chicken
+- - icelandic
+  - chicken
+  - icelandic
+- - teutonic
+  - stock
+  - market
 - - sparklingly
   - intelligent
   - response
+- - woven
+  - cravats
+  - designed
+- - wear
+  - densely
+  - woven
 - - geologically
   - active
   - island
@@ -80,12 +80,12 @@ ngrams:
 - - native
   - beasts
   - include
-- - global
-  - banking
-  - system
 - - fuming
   - mental
   - activity
+- - global
+  - banking
+  - system
 - - earlier
   - assailant
   - clutching
@@ -98,21 +98,21 @@ ngrams:
 - - chicken
   - icelandic
   - goat
-- - crunch
-  - de
-  - la
 - - simply
   - repeating
   - dax
+- - crunch
+  - de
+  - la
 - - sturdy
   - icelandic
   - horse
-- - icelandic
-  - horse
-  - polar
 - - de
   - la
   - credit
+- - icelandic
+  - horse
+  - polar
 - - bears
   - occasionally
   - visit
@@ -128,21 +128,21 @@ ngrams:
 - - interesting
   - features
   - nothing
-- - stocks
-  - plummets
-  - around
+- - thus
+  - remain
+  - frozen
 - - life
   - puffins
   - skuas
 - - october
   - morning
   - correct
+- - stocks
+  - plummets
+  - around
 - - greenland
   - birds
   - especially
-- - thus
-  - remain
-  - frozen
 - - iceland's
   - animal
   - life
@@ -164,33 +164,33 @@ ngrams:
 - - nodded
   - too
   - sometimes
-- - fangs
-  - clean
-  - through
 - - sea
   - cliffs
   - yet
+- - fangs
+  - clean
+  - through
 - - doubtless
   - take
   - quite
-- - help
-  - us
-  - picture
-- - drink
-  - wait
-  - here
 - - dax
   - dax
   - over
+- - drink
+  - wait
+  - here
+- - help
+  - us
+  - picture
 - - titanic
   - pamphleteer
   - those
-- - day
-  - brings
-  - news
 - - such
   - interesting
   - features
+- - day
+  - brings
+  - news
 - - fjords
   - punctuate
   - its
@@ -206,6 +206,9 @@ ngrams:
 - - other
   - stock
   - markets
+- - its
+  - native
+  - beasts
 - - sank
   - its
   - gleaming
@@ -213,77 +216,74 @@ ngrams:
   - gleaming
   - fangs
 - - its
-  - native
-  - beasts
-- - its
   - fangs
   - clean
-- - its
-  - flying
-  - leap
 - - occasioned
   - its
   - flying
-- - other
-  - financial
-  - gubbins
+- - its
+  - flying
+  - leap
 - - trouble
   - getting
   - its
 - - getting
   - its
   - fangs
+- - other
+  - financial
+  - gubbins
 - - very
   - important
   - part
 - - talk
   - more
   - productively
+- - am
+  - afraid
+  - consisted
 - - each
   - day
   - brings
 - - wait
   - here
   - while
-- - am
-  - afraid
-  - consisted
 - - its
   - sea
   - cliffs
-- - prise
-  - open
-  - some
 - - great
   - thirst
   - upon
+- - prise
+  - open
+  - some
 - - pick
   - our
   - way
-- - chap
-  - who
-  - dragged
 - - seems
   - can
   - stop
+- - chap
+  - who
+  - dragged
 - - between
   - some
   - bins
-- - guide
-  - than
-  - dobson
 - - financial
   - gubbins
   - 'no'
 - - haul
   - ourselves
   - up
-- - stood
-  - up
-  - plopped
+- - guide
+  - than
+  - dobson
 - - more
   - productively
   - away
+- - stood
+  - up
+  - plopped
 - - gubbins
   - 'no'
   - doubt
@@ -293,18 +293,18 @@ ngrams:
 - - neck
   - stood
   - up
-- - pamphleteer
-  - dobson
-  - now
 - - keep
   - their
   - dogs
-- - than
-  - dobson
-  - given
 - - banshee
   - cravat
   - into
+- - pamphleteer
+  - dobson
+  - now
+- - than
+  - dobson
+  - given
 - - gleaming
   - fangs
   - into
@@ -314,6 +314,12 @@ ngrams:
 - - thanked
   - him
   - think
+- - could
+  - recall
+  - where
+- - bumbling
+  - about
+  - town
 - - sat
   - up
   - let
@@ -323,21 +329,12 @@ ngrams:
 - - blinding
   - clarity
   - all
-- - bumbling
-  - about
-  - town
-- - could
-  - recall
-  - where
-- - clarity
-  - all
-  - sorts
 - - alleyway
   - trapped
   - me
-- - him
-  - think
-  - nothing
+- - clarity
+  - all
+  - sorts
 - - boxes
   - we
   - haul
@@ -347,48 +344,48 @@ ngrams:
 - - could
   - talk
   - more
+- - him
+  - think
+  - nothing
 - - come
   - into
   - contact
-- - thirst
-  - upon
-  - him
 - - dog
   - knocked
   - me
-- - use
-  - all
-  - sorts
+- - thirst
+  - upon
+  - him
 - - cardboard
   - boxes
   - we
 - - trapped
   - me
   - between
+- - use
+  - all
+  - sorts
 - - will
   - doubtless
   - take
 - - sometimes
   - we
   - hit
-- - oven
-  - chips
-  - which
 - - we
   - leaned
   - against
-- - crashing
-  - around
-  - me
 - - strode
   - away
   - out
+- - crashing
+  - around
+  - me
+- - oven
+  - chips
+  - which
 - - mental
   - activity
   - which
-- - dobson
-  - given
-  - your
 - - might
   - your
   - question
@@ -398,12 +395,18 @@ ngrams:
 - - desperately
   - need
   - so
+- - dobson
+  - given
+  - your
 - - quite
   - some
   - time
 - - let
   - me
   - get
+- - sometimes
+  - we
+  - find
 - - foliage
   - bounded
   - an
@@ -413,36 +416,33 @@ ngrams:
 - - an
   - attic
   - crammed
-- - sometimes
-  - we
-  - find
 - - bounded
   - an
   - enormous
 - - an
   - enormous
   - hound
+- - knocked
+  - me
+  - over
 - - an
   - extensive
   - knowledge
 - - dragged
   - me
   - down
-- - knocked
-  - me
-  - over
 - - an
   - unreasonable
   - question
-- - him
-  - can
-  - come
 - - crates
   - opening
   - this
 - - wander
   - this
   - fair
+- - him
+  - can
+  - come
 - - this
   - fair
   - city

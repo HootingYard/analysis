@@ -14,24 +14,21 @@ ngrams:
 - - actor
   - thomas
   - hallam
-- - tony
-  - blair
-  - nobody
 - - cheap
   - impression
   - frankly
+- - tony
+  - blair
+  - nobody
 - - apple
   - pie
   - recipe
-- - covent
-  - garden
-  - included
 - - daily
   - mirror
   - eighth
-- - church
-  - covent
+- - covent
   - garden
+  - included
 - - st
   - paul's
   - church
@@ -41,12 +38,15 @@ ngrams:
 - - fellow
   - actor
   - thomas
-- - century
-  - theatrical
-  - profession
+- - church
+  - covent
+  - garden
 - - deliberate
   - nonsense
   - simply
+- - century
+  - theatrical
+  - profession
 - - whom
   - precisely
   - foote
@@ -56,51 +56,51 @@ ngrams:
 - - editor
   - live
   - letters
-- - theatrical
-  - profession
-  - whose
-- - profession
-  - whose
-  - locks
 - - encouraged
   - lord
   - knows
 - - real
   - historical
   - episode
-- - century
-  - apple
-  - pie
 - - public
   - office
   - available
-- - original
-  - text
-  - makes
+- - theatrical
+  - profession
+  - whose
 - - nobody
   - actually
   - bothers
 - - blair
   - nobody
   - actually
+- - profession
+  - whose
+  - locks
+- - century
+  - apple
+  - pie
+- - original
+  - text
+  - makes
 - - cane
   - went
   - straight
 - - text
   - makes
   - clear
-- - theatrical
-  - mask
-  - next
 - - historical
   - research
   - further
-- - heaven's
-  - name
-  - foote
+- - theatrical
+  - mask
+  - next
 - - boris
   - johnson
   - found
+- - heaven's
+  - name
+  - foote
 - - great
   - panjandrum
   - panjandrum
@@ -134,27 +134,27 @@ ngrams:
 - - beneath
   - us
   - leaving
-- - little
-  - red
-  - button
-- - little
-  - red
-  - button
 - - one's
   - peril
   - these
+- - little
+  - red
+  - button
+- - little
+  - red
+  - button
 - - inspired
   - those
   - charged
+- - went
+  - straight
+  - though
 - - myself
   - partly
   - because
 - - great
   - panjandrum
   - himself
-- - went
-  - straight
-  - though
 - - read
   - once
   - foote
@@ -185,42 +185,42 @@ ngrams:
 - - questioned
   - him
   - closely
-- - righteous
-  - airheads
-  - who
 - - us
   - dangling
   - over
-- - worthy
-  - who
-  - fills
 - - could
   - remember
   - anything
-- - country
-  - worthy
+- - righteous
+  - airheads
   - who
-- - tempestuous
-  - character
+- - worthy
   - who
+  - fills
 - - come
   - across
   - before
 - - mask
   - next
   - time
+- - country
+  - worthy
+  - who
+- - tempestuous
+  - character
+  - who
 - - character
   - who
   - killed
 - - their
   - apple
   - pie
-- - kill
-  - them
-  - note
 - - rigmarole
   - 'no'
   - doubt
+- - kill
+  - them
+  - note
 - - 'no'
   - doubt
   - leading
@@ -230,33 +230,33 @@ ngrams:
 - - popped
   - its
   - head
-- - who
-  - fills
-  - every
 - - problems
   - occur
   - when
+- - who
+  - fills
+  - every
 - - original
   - texts
   - when
-- - fury
-  - nor
-  - been
 - - gunpowder
   - ran
   - out
-- - nor
-  - been
-  - tempted
 - - came
   - running
   - up
-- - who
-  - these
-  - characters
+- - fury
+  - nor
+  - been
+- - nor
+  - been
+  - tempted
 - - texts
   - when
   - certain
+- - who
+  - these
+  - characters
 - - has
   - inspired
   - those
@@ -266,33 +266,33 @@ ngrams:
 - - more
   - than
   - several
-- - pie
-  - recipe
-  - we
 - - would
   - crumble
   - beneath
-- - don't
-  - know
-  - who
+- - pie
+  - recipe
+  - we
 - - ground
   - would
   - crumble
 - - firm
   - ground
   - would
-- - let
-  - me
-  - cease
 - - lord
   - knows
   - there
-- - characters
-  - like
-  - them
 - - whatever
   - form
   - we
+- - let
+  - me
+  - cease
+- - don't
+  - know
+  - who
+- - characters
+  - like
+  - them
 - - great
   - panjandrum
   - we
@@ -302,78 +302,78 @@ ngrams:
 - - don't
   - know
   - what
-- - irritate
-  - an
-  - irish
 - - trace
   - all
   - those
+- - irritate
+  - an
+  - irish
 - - an
   - irish
   - thespian
 - - an
   - essential
   - ingredient
+- - can
+  - tell
+  - them
 - - know
   - who
   - these
 - - an
   - apple
   - pie
-- - can
-  - tell
-  - them
 - - cease
   - this
   - prattling
-- - during
-  - an
-  - argument
 - - appealing
   - one
   - clearly
-- - all
-  - those
-  - three
-- - words
-  - are
-  - used
-- - him
-  - closely
-  - about
+- - during
+  - an
+  - argument
 - - one
   - particular
   - type
-- - she
-  - went
-  - into
-- - these
-  - characters
+- - words
   - are
-- - eye
-  - during
-  - an
+  - used
+- - all
+  - those
+  - three
 - - word
   - one
   - deploys
+- - him
+  - closely
+  - about
+- - these
+  - characters
+  - are
 - - foote
   - wrote
   - this
+- - eye
+  - during
+  - an
 - - across
   - before
   - they
 - - conjecture
   - could
   - we
+- - she
+  - went
+  - into
 - - could
   - we
   - trace
 - - precipice
   - such
   - are
-- - make
-  - an
-  - apple
+- - will
+  - kill
+  - them
 story:
   date: 2012-09-22
   id: 2012-09-22-on-the-great-panjandrum

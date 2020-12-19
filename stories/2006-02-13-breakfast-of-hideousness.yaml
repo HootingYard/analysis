@@ -11,54 +11,42 @@ ngrams:
 - - busy
   - cutting
   - slices
+- - recounts
+  - coming
+  - ashore
 - - author
   - photographer
   - sailor
 - - thrilling
   - yarn
   - wherein
-- - recounts
-  - coming
-  - ashore
-- - curiously
-  - anonymous
-  - pals
 - - narrator
   - recounts
   - coming
+- - curiously
+  - anonymous
+  - pals
 - - anonymous
   - pals
   - spend
 - - h
   - p
   - lovecraft
-- - apparently
-  - inexplicable
-  - choice
 - - getting
   - proper
   - meals
-- - hope
-  - hodgson
-  - '-'
+- - apparently
+  - inexplicable
+  - choice
 - - flatness
   - desolate
   - beyond
-- - various
-  - boat
-  - repairs
 - - hope
   - hodgson
   - recipe
-- - william
-  - hope
-  - hodgson
-- - william
-  - hope
-  - hodgson
-- - william
-  - hope
-  - hodgson
+- - various
+  - boat
+  - repairs
 - - war
   - h
   - p
@@ -68,6 +56,15 @@ ngrams:
 - - various
   - disgusting
   - creatures
+- - william
+  - hope
+  - hodgson
+- - william
+  - hope
+  - hodgson
+- - william
+  - hope
+  - hodgson
 - - entitled
   - writing
   - backwards
@@ -83,6 +80,9 @@ ngrams:
 - - books
   - william
   - hope
+- - hope
+  - hodgson
+  - '-'
 - - writing
   - backwards
   - reading
@@ -92,12 +92,12 @@ ngrams:
 - - every
   - meal
   - smoke
-- - tale
-  - takes
-  - place
 - - continued
   - shamefully
   - until
+- - tale
+  - takes
+  - place
 - - hodgson
   - recipe
   - book
@@ -107,24 +107,24 @@ ngrams:
 - - between
   - doing
   - various
-- - find
-  - hideous
-  - monsters
 - - world
   - war
   - h
+- - find
+  - hideous
+  - monsters
 - - regularly
   - reassures
   - us
-- - heroes
-  - fight
-  - 'off'
 - - yet
   - breakfast
   - dinner
 - - every
   - single
   - occasion
+- - heroes
+  - fight
+  - 'off'
 - - banks
   - being
   - composed
@@ -134,63 +134,63 @@ ngrams:
 - - mention
   - every
   - single
-- - characters
-  - break
-  - 'off'
 - - pals
   - spend
   - much
+- - characters
+  - break
+  - 'off'
 - - eye
   - ever
   - seeing
 - - committed
   - very
   - properly
-- - our
-  - mizzen
-  - mast
 - - novels
   - before
   - concentrating
+- - our
+  - mizzen
+  - mast
 - - our
   - heroes
   - fight
 - - precise
   - our
   - quote
-- - first
-  - published
-  - novel
-- - human
-  - eye
-  - ever
-- - almost
-  - exactly
-  - two
-- - vile
-  - mud
-  - before
-- - mud
-  - before
-  - heading
 - - enticing
   - variants
   - such
+- - human
+  - eye
+  - ever
+- - vile
+  - mud
+  - before
+- - first
+  - published
+  - novel
+- - mud
+  - before
+  - heading
+- - almost
+  - exactly
+  - two
 - - just
   - begun
   - reading
-- - four
-  - novels
-  - before
 - - words
   - yet
   - breakfast
-- - stove
-  - lit
-  - now
+- - four
+  - novels
+  - before
 - - few
   - days
   - ago
+- - stove
+  - lit
+  - now
 - - shamefully
   - until
   - just
@@ -206,33 +206,33 @@ ngrams:
 - - exactly
   - two
   - years
-- - before
-  - heading
-  - 'off'
 - - end
   - where
   - several
-- - two
-  - years
-  - ago
+- - before
+  - heading
+  - 'off'
 - - may
   - see
   - spread
+- - two
+  - years
+  - ago
 - - takes
   - us
   - day
-- - jog
-  - your
-  - memories
 - - through
   - striking
   - upon
-- - who
-  - wrote
-  - four
+- - jog
+  - your
+  - memories
 - - spend
   - much
   - time
+- - who
+  - wrote
+  - four
 - - any
   - other
   - writer

@@ -14,27 +14,27 @@ ngrams:
 - - peculiar
   - religious
   - sect
-- - tough
-  - plastic
-  - tags
-- - copper
-  - move
-  - inexorably
 - - polka
   - dot
   - dress
+- - copper
+  - move
+  - inexorably
+- - tough
+  - plastic
+  - tags
 - - toffee
   - apple
   - wrapper
 - - equilateral
   - triangle
   - hold
-- - draw
-  - imaginary
-  - lines
 - - globule
   - interestingly
   - neither
+- - draw
+  - imaginary
+  - lines
 - - settled
   - flat
   - due
@@ -50,6 +50,9 @@ ngrams:
 - - oh
   - uncountable
   - gnats
+- - mysteries
+  - within
+  - mysteries
 - - black
   - block
   - capitals
@@ -59,132 +62,129 @@ ngrams:
 - - move
   - inexorably
   - towards
-- - mysteries
-  - within
-  - mysteries
 - - home
   - constable
   - globule
-- - empty
-  - big
-  - damp
-- - big
-  - damp
-  - building
-- - big
-  - damp
-  - building
-- - big
-  - damp
-  - building
-- - big
-  - damp
-  - building
-- - big
-  - damp
-  - building
-- - big
-  - damp
-  - building
 - - constable
   - globule
   - both
 - - pewter
   - dog
   - neither
-- - eternal
-  - hellfire
-  - tiny
 - - globule
   - having
   - ticked
-- - imaginary
-  - lines
-  - between
 - - globule
   - both
   - approaching
+- - imaginary
+  - lines
+  - between
 - - constable
   - globule
   - having
+- - empty
+  - big
+  - damp
+- - eternal
+  - hellfire
+  - tiny
+- - big
+  - damp
+  - building
+- - big
+  - damp
+  - building
+- - big
+  - damp
+  - building
+- - big
+  - damp
+  - building
+- - big
+  - damp
+  - building
+- - big
+  - damp
+  - building
 - - wonders
   - oops
   - tiny
 - - crowbar
   - having
   - fallen
-- - club
-  - foot
-  - remember
 - - plucky
   - tot
   - nor
-- - tiny
-  - enid
-  - winded
-- - return
-  - home
-  - constable
+- - club
+  - foot
+  - remember
 - - talisman
   - also
   - coming
+- - return
+  - home
+  - constable
+- - tiny
+  - enid
+  - winded
 - - hellfire
   - tiny
   - enid
 - - oops
   - tiny
   - enid
-- - big
-  - bold
-  - black
 - - unfathomable
   - yet
   - decisive
+- - big
+  - bold
+  - black
 - - windy
   - afternoon
   - why
-- - new
-  - crowbar
-  - constable
 - - yet
   - decisive
   - manner
-- - shiny
-  - new
+- - new
   - crowbar
+  - constable
 - - itself
   - significant
   - nor
-- - copper
-  - swerves
-  - 'off'
+- - shiny
+  - new
+  - crowbar
 - - drawn
   - between
   - tiny
+- - copper
+  - swerves
+  - 'off'
 - - lines
   - between
   - tiny
-- - between
-  - tiny
-  - enid
-- - between
-  - tiny
-  - enid
 - - hell
   - nor
   - does
-- - tiny
+- - between
+  - tiny
   - enid
-  - does
+- - between
+  - tiny
+  - enid
 - - also
   - coming
   - along
-- - both
-  - tiny
-  - enid
 - - come
   - clumping
   - along
+- - tiny
+  - enid
+  - does
+- - both
+  - tiny
+  - enid
 - - should
   - come
   - clumping
@@ -206,96 +206,99 @@ ngrams:
 - - different
   - course
   - tiny
-- - wrongdoing
-  - now
-  - watch
 - - its
   - significance
   - lies
 - - wherein
   - its
   - significance
-- - her
-  - polka
-  - dot
-- - damp
-  - building
+- - wrongdoing
   - now
+  - watch
 - - other
   - object
   - whatsoever
-- - building
-  - now
-  - abandoned
-- - somehow
-  - its
-  - significance
 - - within
   - mysteries
   - where
+- - damp
+  - building
+  - now
+- - somehow
+  - its
+  - significance
 - - any
   - case
   - ephemeral
 - - its
   - physical
   - form
+- - building
+  - now
+  - abandoned
 - - street
   - first
   - thing
 - - having
   - fallen
   - down
-- - among
-  - other
-  - crates
+- - her
+  - polka
+  - dot
 - - now
   - grumbling
   - along
-- - crate
-  - among
+- - among
   - other
-- - damp
-  - building
-  - do
+  - crates
 - - sure
   - wherein
   - its
-- - her
-  - crowbar
-  - having
-- - she
-  - clumps
-  - along
+- - damp
+  - building
+  - do
+- - crate
+  - among
+  - other
+- - pewter
+  - dog
+  - do
 - - constable
   - globule
   - has
-- - stacked
-  - some
-  - wooden
+- - its
+  - rooms
+  - until
 - - some
   - wooden
   - crates
-- - does
-  - she
-  - believe
-- - she
-  - does
-  - believe
+- - stacked
+  - some
+  - wooden
 - - globule
   - has
   - spotted
 - - urchin
   - has
   - discarded
-- - pewter
-  - dog
-  - do
+- - she
+  - clumps
+  - along
+- - far
+  - far
+  - away
 - - dot
   - dress
   - has
-- - its
-  - rooms
-  - until
+- - her
+  - crowbar
+  - having
+- - does
+  - she
+  - believe
+- - she
+  - does
+  - believe
 - - until
   - she
   - finds
@@ -305,33 +308,30 @@ ngrams:
 - - her
   - own
   - heroics
-- - far
-  - far
-  - away
-- - her
-  - shiny
-  - new
-- - dress
-  - has
-  - heard
 - - crates
   - wrapped
   - up
-- - enid
+- - dress
   - has
-  - taken
-- - forgotten
-  - wrapped
-  - up
-- - nor
-  - does
-  - she
-- - rummage
-  - through
-  - its
+  - heard
 - - appearing
   - any
   - day
+- - forgotten
+  - wrapped
+  - up
+- - rummage
+  - through
+  - its
+- - through
+  - its
+  - rooms
+- - her
+  - shiny
+  - new
+- - some
+  - unfathomable
+  - yet
 story:
   date: 2012-10-06
   id: 2012-10-06-on-a-talisman

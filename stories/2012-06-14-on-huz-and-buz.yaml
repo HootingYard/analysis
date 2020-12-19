@@ -1,7 +1,4 @@
 ngrams:
-- - lion's
-  - provider
-  - '-'
 - - transmit
   - coded
   - messages
@@ -14,18 +11,12 @@ ngrams:
 - - mountaineering
   - trophies
   - crouch
-- - sole
-  - remaining
-  - tangible
 - - alarming
   - hazchem
   - episodes
-- - provider
-  - '-'
-  - christopher
-- - '-'
-  - christopher
-  - smart
+- - sole
+  - remaining
+  - tangible
 - - boiled
   - sweet
   - wrapper
@@ -38,45 +29,54 @@ ngrams:
 - - portable
   - metal
   - tapping
-- - pang
-  - hill
-  - orphanage
-- - pang
-  - hill
-  - orphanage
 - - local
   - police
   - officers
+- - pang
+  - hill
+  - orphanage
+- - pang
+  - hill
+  - orphanage
 - - metal
   - tapping
   - machine
+- - lion's
+  - provider
+  - '-'
 - - police
   - existed
   - certainly
-- - iron
-  - cots
-  - sometimes
 - - sky
   - grew
   - darker
-- - orphanage
-  - roof
-  - among
+- - provider
+  - '-'
+  - christopher
+- - iron
+  - cots
+  - sometimes
+- - '-'
+  - christopher
+  - smart
 - - declared
   - earlier
   - today
+- - orphanage
+  - roof
+  - among
 - - orphanage
   - going
   - hungry
 - - without
   - shelter
   - slaking
-- - ravens
-  - without
-  - shelter
 - - separate
   - wings
   - both
+- - ravens
+  - without
+  - shelter
 - - hazchem
   - episodes
   - once
@@ -95,12 +95,12 @@ ngrams:
 - - shaky
   - little
   - squeaks
-- - sentry
-  - spotted
-  - us
 - - trudge
   - home
   - along
+- - sentry
+  - spotted
+  - us
 - - need
   - every
   - recruit
@@ -110,21 +110,21 @@ ngrams:
 - - kept
   - us
   - occupied
-- - tally
-  - man
-  - alone
 - - trophies
   - devotedly
   - day
+- - tally
+  - man
+  - alone
 - - wept
   - burned
   - down
-- - cooking
-  - our
-  - soup
 - - chill
   - where
   - bats
+- - cooking
+  - our
+  - soup
 - - where
   - bats
   - swooped
@@ -140,36 +140,36 @@ ngrams:
 - - us
   - occupied
   - until
-- - lay
-  - our
-  - hands
 - - those
   - endless
   - days
 - - clear
   - precisely
   - where
+- - lay
+  - our
+  - hands
 - - those
   - long
   - afternoons
-- - burned
-  - down
-  - last
 - - police
   - officers
   - do
 - - never
   - once
   - saw
+- - burned
+  - down
+  - last
 - - wireless
   - room
   - then
-- - down
-  - last
-  - year
 - - long
   - ago
   - before
+- - down
+  - last
+  - year
 - - devotedly
   - day
   - after
@@ -182,33 +182,33 @@ ngrams:
 - - much
   - more
   - resplendent
-- - worried
-  - about
-  - crouch
 - - could
   - hardly
   - think
+- - worried
+  - about
+  - crouch
 - - their
   - attic
   - room
 - - rafter
   - dropped
   - into
+- - even
+  - more
+  - impressive
 - - burst
   - into
   - tears
 - - tapping
   - machine
   - into
-- - escape
-  - about
-  - half
-- - even
-  - more
-  - impressive
 - - more
   - resplendent
   - than
+- - escape
+  - about
+  - half
 - - saw
   - them
   - again
@@ -218,24 +218,21 @@ ngrams:
 - - impressive
   - all
   - crimson
-- - night
-  - were
-  - couched
 - - can
   - lay
   - our
 - - make
   - up
   - stories
-- - made
-  - 'no'
-  - attempt
 - - messages
   - we
   - exchanged
 - - we
   - answered
   - truthfully
+- - night
+  - were
+  - couched
 - - summer
   - afternoons
   - we
@@ -245,6 +242,9 @@ ngrams:
 - - we
   - sank
   - exhausted
+- - made
+  - 'no'
+  - attempt
 - - never
   - saw
   - them
@@ -254,15 +254,15 @@ ngrams:
 - - wondered
   - what
   - ever
-- - day
-  - after
-  - day
 - - hill
   - we
   - played
 - - died
   - we
   - decided
+- - day
+  - after
+  - day
 - - captain
   - we
   - burst
@@ -275,9 +275,6 @@ ngrams:
 - - afternoons
   - we
   - three
-- - we
-  - three
-  - played
 - - would
   - trudge
   - home
@@ -285,11 +282,11 @@ ngrams:
   - always
   - hide
 - - we
+  - three
+  - played
+- - we
   - got
   - lost
-- - been
-  - her
-  - sanctum
 - - every
   - recruit
   - we
@@ -302,129 +299,132 @@ ngrams:
 - - led
   - me
   - away
-- - took
-  - us
-  - into
 - - can
   - wring
   - 'no'
 - - until
   - we
   - heard
+- - took
+  - us
+  - into
 - - take
   - me
   - home
-- - an
-  - army
-  - camp
-- - sanctum
-  - when
-  - she
-- - her
+- - been
+  - her
   - sanctum
-  - when
 - - went
   - out
   - through
+- - hardly
+  - think
+  - we
+- - we
+  - need
+  - every
+- - would
+  - trot
+  - back
+- - an
+  - army
+  - camp
 - - me
   - away
   - towards
 - - an
   - engine
   - followed
-- - we
-  - need
-  - every
-- - hardly
-  - think
-  - we
-- - would
-  - trot
-  - back
-- - an
-  - hour
-  - passed
+- - sanctum
+  - when
+  - she
 - - we
   - ever
   - saw
-- - half
-  - an
-  - hour
 - - person
   - we
   - ever
-- - think
-  - so
-  - awestruck
+- - her
+  - sanctum
+  - when
 - - uniform
   - so
   - much
+- - think
+  - so
+  - awestruck
+- - an
+  - hour
+  - passed
+- - half
+  - an
+  - hour
 - - more
   - impressive
   - all
 - - about
   - crouch
   - who
-- - gnats
-  - ma
-  - had
-- - only
-  - person
-  - we
-- - ma
-  - had
-  - abandoned
 - - day
   - we
   - saw
-- - make
-  - an
-  - excursion
-- - we
-  - could
-  - hardly
-- - dog
-  - had
-  - died
+- - only
+  - person
+  - we
 - - prussians
   - or
   - russians
 - - russians
   - or
   - monsters
+- - we
+  - could
+  - hardly
+- - gnats
+  - ma
+  - had
+- - make
+  - an
+  - excursion
 - - recruit
   - we
   - can
-- - think
-  - we
-  - made
+- - ma
+  - had
+  - abandoned
 - - decoy
   - airfield
   - but
+- - think
+  - we
+  - made
 - - 'no'
   - idea
   - what
-- - crouch
-  - had
-  - come
-- - we
-  - can
-  - lay
 - - airfield
   - but
   - none
+- - dog
+  - had
+  - died
+- - we
+  - can
+  - lay
 - - beadle
   - who
   - would
 - - crouch
   - who
   - would
-- - him
-  - we
-  - used
+- - crouch
+  - had
+  - come
 - - shipped
   - overseas
   - at
+- - him
+  - we
+  - used
 story:
   date: 2012-06-14
   id: 2012-06-14-on-huz-and-buz

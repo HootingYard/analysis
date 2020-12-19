@@ -29,15 +29,15 @@ ngrams:
 - - auckland
   - island
   - mergansers
-- - chatham
-  - island
-  - penguins
-- - kangaroo
-  - island
-  - emus
 - - coast
   - spotted
   - kiwis
+- - kangaroo
+  - island
+  - emus
+- - chatham
+  - island
+  - penguins
 - - grey
   - concrete
   - hellholes
@@ -56,42 +56,42 @@ ngrams:
 - - saint
   - helena
   - cuckoos
-- - binder
-  - therein
-  - lies
-- - north
-  - island
-  - snipes
 - - egg
   - lists
   - talon
-- - west
-  - coast
-  - spotted
+- - binder
+  - therein
+  - lies
 - - tweet
   - egg
   - lists
-- - mauritius
-  - blue
-  - pigeons
+- - west
+  - coast
+  - spotted
+- - north
+  - island
+  - snipes
 - - amsterdam
   - island
   - ducks
+- - mauritius
+  - blue
+  - pigeons
 - - saint
   - helena
   - saint
 - - actually
   - existing
   - socialism
+- - actually
+  - existing
+  - ornithology
+- - actually
+  - existing
+  - ornithology
 - - large
   - saint
   - helena
-- - actually
-  - existing
-  - ornithology
-- - actually
-  - existing
-  - ornithology
 - - phrase
   - actually
   - existing
@@ -101,30 +101,30 @@ ngrams:
 - - bird
   - binder
   - represents
-- - bird
-  - binder
-  - therein
 - - crested
   - among
   - starlings
 - - bird
-  - documentation
-  - notes
+  - binder
+  - therein
 - - bermuda
   - night
   - herons
+- - bird
+  - documentation
+  - notes
 - - bird
   - bones
   - piled
 - - brain
   - scans
   - analysis
-- - red
-  - sea
-  - swallows
 - - eastern
   - europe
   - rather
+- - red
+  - sea
+  - swallows
 - - both
   - north
   - island
@@ -146,48 +146,48 @@ ngrams:
 - - communist
   - regimes
   - such
-- - many
-  - bird
-  - bones
 - - may
   - simply
   - grind
+- - many
+  - bird
+  - bones
 - - new
   - zealand
   - little
-- - binder
-  - hooting
-  - yard
 - - itself
   - may
   - simply
+- - binder
+  - hooting
+  - yard
 - - many
   - dead
   - birds
-- - hooting
-  - yard
-  - itself
 - - europe
   - rather
   - than
+- - hooting
+  - yard
+  - itself
 - - yard
   - itself
   - may
-- - your
-  - daily
-  - prayers
 - - binder
   - represents
   - what
 - - website
   - could
   - never
-- - were
-  - drab
-  - grey
 - - rather
   - than
   - being
+- - your
+  - daily
+  - prayers
+- - were
+  - drab
+  - grey
 - - dreams
   - were
   - drab
@@ -218,15 +218,15 @@ ngrams:
 - - birds
   - so
   - many
-- - their
-  - dreams
-  - were
 - - so
   - many
   - without
 - - name
   - so
   - many
+- - their
+  - dreams
+  - were
 - - from
   - saint
   - helena
@@ -239,18 +239,18 @@ ngrams:
 - - could
   - name
   - so
-- - also
-  - from
-  - saint
 - - cranny
   - but
   - still
-- - concrete
-  - hellholes
-  - by
+- - also
+  - from
+  - saint
 - - this
   - website
   - could
+- - concrete
+  - hellholes
+  - by
 - - at
   - least
   - ought
@@ -260,9 +260,9 @@ ngrams:
 - - mislaid
   - my
   - binder
-- - which
-  - are
-  - piled
+- - token
+  - my
+  - bird
 story:
   date: 2011-06-16
   id: 2011-06-16-bird-binder

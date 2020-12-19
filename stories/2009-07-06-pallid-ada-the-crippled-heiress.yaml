@@ -2,48 +2,48 @@ ngrams:
 - - symbionese
   - liberation
   - army's
-- - liberation
-  - army's
-  - maritime
 - - ada
   - monstrously
   - violated
+- - liberation
+  - army's
+  - maritime
 - - healthy
   - rosy
   - bloom
 - - crippled
   - heiress
   - eked
-- - matted
-  - locks
-  - straggling
-- - army's
-  - maritime
-  - wing
-- - collecting
-  - geological
-  - specimens
-- - strand
-  - collecting
-  - geological
 - - rocky
   - atoll
   - clinging
+- - collecting
+  - geological
+  - specimens
+- - matted
+  - locks
+  - straggling
 - - pallid
   - ada
   - monstrously
+- - army's
+  - maritime
+  - wing
+- - strand
+  - collecting
+  - geological
 - - pallid
   - crippled
   - houseguest
+- - gentleman's
+  - clouded
+  - countenance
 - - breakable
   - household
   - objects
 - - flung
   - breakable
   - household
-- - gentleman's
-  - clouded
-  - countenance
 - - reciting
   - improving
   - passages
@@ -65,48 +65,48 @@ ngrams:
 - - aquatic
   - monster
   - reared
-- - eldritch
-  - powers
-  - gained
 - - exhausted
   - vitamin
   - deficient
-- - beach
-  - gathering
-  - additions
+- - eldritch
+  - powers
+  - gained
 - - seawater
   - exhausted
   - vitamin
-- - interesting
-  - geological
-  - specimens
 - - powers
   - gained
   - strength
-- - foul
-  - tempestuous
-  - stretch
-- - kindly
-  - christian
-  - gentleman
-- - kindly
-  - christian
-  - gentleman
 - - serpent
   - tempted
   - eve
+- - beach
+  - gathering
+  - additions
+- - interesting
+  - geological
+  - specimens
+- - kindly
+  - christian
+  - gentleman
+- - kindly
+  - christian
+  - gentleman
+- - foul
+  - tempestuous
+  - stretch
 - - ramshackle
   - cottage
   - battered
 - - cottage
   - hunched
   - alongside
-- - filthy
-  - matted
-  - locks
 - - maniac
   - cripes
   - cried
+- - filthy
+  - matted
+  - locks
 - - born
   - pallid
   - ada
@@ -131,66 +131,63 @@ ngrams:
 - - dastardly
   - ancient
   - relatives
-- - hideous
-  - aquatic
-  - monster
-- - weird
-  - primitive
-  - beasts
-- - ceiling
-  - stopped
-  - shaking
 - - rustic
   - lanes
   - pulled
+- - weird
+  - primitive
+  - beasts
+- - hideous
+  - aquatic
+  - monster
+- - ceiling
+  - stopped
+  - shaking
 - - poor
   - pallid
   - creature
-- - begin
-  - dragging
-  - herself
 - - pallid
   - ada
   - felt
 - - heiress
   - originally
   - published
-- - kindly
-  - gentleman
-  - present
-- - naive
-  - young
-  - virgins
-- - rarely
-  - spoke
-  - except
+- - begin
+  - dragging
+  - herself
 - - maniac
   - bore
   - fruit
+- - kindly
+  - gentleman
+  - present
+- - rarely
+  - spoke
+  - except
 - - ada
   - lived
   - alone
-- - wild
-  - winds
-  - howled
 - - ada
   - felt
   - safe
+- - naive
+  - young
+  - virgins
+- - wild
+  - winds
+  - howled
+- - pallid
+  - ada
+  - learned
+- - wild
+  - winds
+  - anywhere
 - - mysterious
   - noise
   - continued
 - - christian
   - gentleman
   - sat
-- - wild
-  - winds
-  - anywhere
-- - pallid
-  - ada
-  - learned
-- - huge
-  - ungainly
-  - feet
 - - lived
   - alone
   - save
@@ -200,78 +197,75 @@ ngrams:
 - - awful
   - family
   - secret
+- - huge
+  - ungainly
+  - feet
 - - told
-  - pallid
-  - ada
-- - fact
   - pallid
   - ada
 - - almost
   - unbelievably
   - desolate
-- - ground
-  - floor
-  - ceilings
+- - fact
+  - pallid
+  - ada
 - - single
   - faint
   - path
+- - ground
+  - floor
+  - ceilings
 - - moral
   - degeneration
   - among
-- - whole
-  - lower
-  - floor
 - - unimaginably
   - distant
   - past
+- - whole
+  - lower
+  - floor
 - - travelling
   - along
   - pitted
-- - evil
-  - plans
-  - went
-- - leading
-  - none
-  - knew
-- - boy
-  - told
-  - pallid
-- - herself
-  - bound
-  - hand
 - - carry
   - messages
   - between
-- - cold
-  - black
-  - depths
-- - grew
-  - strong
-  - enough
+- - boy
+  - told
+  - pallid
 - - weekly
   - parts
   - between
+- - leading
+  - none
+  - knew
+- - grew
+  - strong
+  - enough
+- - evil
+  - plans
+  - went
 - - alluvial
   - plain
   - across
-- - pallid
-  - cripple
-  - found
+- - herself
+  - bound
+  - hand
+- - cold
+  - black
+  - depths
 - - without
   - pallid
   - ada
+- - pallid
+  - cripple
+  - found
 - - careworn
   - crushed
   - perhaps
 - - village
   - scarce
   - able
-- - dragging
-  - herself
-  - around
-- - cripple
-  - found
-  - herself
 - - own
   - troubles
   - faded
@@ -281,6 +275,12 @@ ngrams:
 - - faint
   - path
   - across
+- - cripple
+  - found
+  - herself
+- - dragging
+  - herself
+  - around
 - - primitive
   - beasts
   - once
@@ -296,24 +296,24 @@ ngrams:
 - - until
   - poor
   - pallid
-- - most
-  - gross
-  - moral
-- - old
-  - testament
-  - pallid
 - - seen
   - lumbering
   - along
-- - kindly
-  - old
-  - gentleman's
 - - degeneration
   - among
   - both
+- - most
+  - gross
+  - moral
 - - among
   - both
   - passengers
+- - old
+  - testament
+  - pallid
+- - kindly
+  - old
+  - gentleman's
 - - winds
   - anywhere
   - ever
@@ -323,36 +323,36 @@ ngrams:
 - - first
   - faint
   - flush
-- - beasts
-  - howled
-  - here
 - - aunt
   - ever
   - since
 - - those
   - beasts
   - howled
+- - beasts
+  - howled
+  - here
 - - before
   - pallid
   - ada
 - - crew
   - before
   - scuppering
-- - locks
-  - straggling
-  - down
 - - once
   - again
   - bleached
 - - ever
   - seen
   - lumbering
-- - months
-  - before
-  - pallid
+- - locks
+  - straggling
+  - down
 - - drudge
   - than
   - niece
+- - months
+  - before
+  - pallid
 - - vegetables
   - such
   - foraging
@@ -368,45 +368,72 @@ ngrams:
 - - its
   - jiggery
   - juddery
-- - vitamins
-  - she
-  - subsisted
-- - befallen
-  - her
-  - benefactor
-- - troubles
-  - faded
-  - she
-- - inheritance
-  - her
-  - dastardly
-- - her
-  - reciting
-  - improving
-- - gradually
-  - she
-  - recovered
-- - her
-  - makeshift
-  - crutches
-- - straggling
-  - down
-  - almost
 - - very
   - least
   - misunderstanding
 - - noise
   - did
   - stop
+- - straggling
+  - down
+  - almost
+- - terrible
+  - news
+  - than
+- - deathly
+  - pallor
+  - then
+- - many
+  - miles
+  - around
+- - dining
+  - room
+  - where
+- - room
+  - where
+  - linnets
+- - vitamins
+  - she
+  - subsisted
+- - troubles
+  - faded
+  - she
+- - gradually
+  - she
+  - recovered
+- - beasts
+  - once
+  - those
+- - once
+  - those
+  - beasts
+- - befallen
+  - her
+  - benefactor
+- - inheritance
+  - her
+  - dastardly
+- - none
+  - knew
+  - where
+- - her
+  - reciting
+  - improving
+- - her
+  - makeshift
+  - crutches
+- - scraping
+  - noises
+  - she
+- - chronicle
+  - alas
+  - she
 - - recovered
   - her
   - wits
 - - her
   - sorrowful
   - existence
-- - scraping
-  - noises
-  - she
 - - ate
   - her
   - broth
@@ -416,87 +443,54 @@ ngrams:
 - - drudge
   - working
   - her
-- - terrible
-  - news
-  - than
-- - many
-  - miles
-  - around
-- - chronicle
-  - alas
-  - she
-- - ada
-  - covered
-  - her
-- - covered
-  - her
-  - dainty
 - - she
   - grew
   - strong
-- - dining
-  - room
-  - where
-- - room
-  - where
-  - linnets
-- - deathly
-  - pallor
-  - then
-- - her
-  - dastardly
-  - ancient
+- - ada
+  - covered
+  - her
 - - cheeks
   - eventually
   - she
 - - exhausted
   - horses
   - she
-- - working
+- - more
+  - menacing
+  - sound
+- - covered
   - her
-  - fingers
-- - her
-  - cheeks
-  - eventually
+  - dainty
 - - horses
   - she
   - wondered
 - - her
-  - dainty
-  - ears
-- - beasts
-  - once
-  - those
-- - once
-  - those
-  - beasts
+  - dastardly
+  - ancient
+- - her
+  - cheeks
+  - eventually
+- - working
+  - her
+  - fingers
 - - faded
   - she
   - became
-- - none
-  - knew
-  - where
+- - her
+  - dainty
+  - ears
 - - eventually
   - she
   - grew
-- - she
-  - became
-  - aware
-- - more
-  - menacing
-  - sound
-- - often
-  - her
-  - christian
-- - thrashing
-  - dragged
-  - him
 - - vitamins
   - too
   - may
-- - desolation
-  - has
-  - seldom
+- - she
+  - became
+  - aware
+- - thrashing
+  - dragged
+  - him
 - - take
   - too
   - long
@@ -506,15 +500,15 @@ ngrams:
 - - them
   - pallid
   - ada
+- - desolation
+  - has
+  - seldom
+- - often
+  - her
+  - christian
 - - christian
   - gentleman
   - who
-- - her
-  - own
-  - troubles
-- - hear
-  - him
-  - clump
 - - weeks
   - before
   - being
@@ -524,24 +518,30 @@ ngrams:
 - - local
   - urchin
   - who
+- - hear
+  - him
+  - clump
 - - suffer
   - before
   - our
-- - night
-  - every
-  - day
 - - depths
   - 'no'
   - sooner
+- - her
+  - own
+  - troubles
 - - their
   - ramshackle
   - cottage
-- - monster
-  - reared
-  - up
 - - their
   - eldritch
   - powers
+- - night
+  - every
+  - day
+- - monster
+  - reared
+  - up
 - - before
   - our
   - tale
@@ -549,11 +549,11 @@ ngrams:
   - spirit
   - communications
 - - their
-  - evil
-  - plans
-- - their
   - drudge
   - working
+- - their
+  - evil
+  - plans
 story:
   date: 2009-07-06
   id: 2009-07-06-pallid-ada-the-crippled-heiress

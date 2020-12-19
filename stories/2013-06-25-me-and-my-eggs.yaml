@@ -23,24 +23,24 @@ ngrams:
 - - party
   - leaning
   - insouciantly
-- - empty
-  - egg
-  - cartons
 - - swish
   - cocktail
   - party
 - - empty
   - egg
-  - carton
+  - cartons
 - - cocktail
   - party
   - leaning
-- - baskets
-  - obtained
-  - during
+- - empty
+  - egg
+  - carton
 - - older
   - eggs
   - atop
+- - baskets
+  - obtained
+  - during
 - - small
   - oval
   - wicker
@@ -77,6 +77,9 @@ ngrams:
 - - cannot
   - simply
   - place
+- - these
+  - awful
+  - hideous
 - - two
   - eggs
   - remaining
@@ -86,15 +89,12 @@ ngrams:
 - - two
   - older
   - eggs
-- - these
-  - awful
-  - hideous
-- - happened
-  - last
-  - week
 - - avert
   - any
   - rolling
+- - happened
+  - last
+  - week
 - - such
   - authority
   - steadying
@@ -104,36 +104,36 @@ ngrams:
 - - eggs
   - always
   - go
-- - let
-  - 'off'
-  - steam
+- - older
+  - eggs
+  - even
 - - thing
   - happened
   - last
+- - let
+  - 'off'
+  - steam
 - - other
   - baskets
   - superficially
 - - effect
   - these
   - words
-- - older
-  - eggs
-  - even
-- - high
-  - winds
-  - now
 - - might
   - temporarily
   - place
-- - never
-  - get
-  - used
+- - high
+  - winds
+  - now
 - - storage
   - possibilities
   - can
 - - glue
   - can
   - transform
+- - never
+  - get
+  - used
 - - utter
   - such
   - things
@@ -173,15 +173,15 @@ ngrams:
 - - might
   - never
   - get
+- - dozen
+  - eggs
+  - what
 - - always
   - losing
   - their
 - - simply
   - place
   - them
-- - dozen
-  - eggs
-  - what
 - - eight
   - when
   - adding
@@ -194,57 +194,57 @@ ngrams:
 - - even
   - more
   - carefully
-- - get
-  - them
-  - home
 - - eggs
   - even
   - more
+- - get
+  - them
+  - home
 - - swoon
   - 'no'
   - man
-- - held
-  - dear
-  - all
+- - would
+  - argue
+  - unless
 - - saying
   - something
   - about
 - - course
   - when
   - removing
-- - would
-  - argue
-  - unless
+- - held
+  - dear
+  - all
 - - until
   - such
   - time
 - - who
   - could
   - utter
-- - carton
-  - once
-  - they
-- - they
-  - come
-  - packaged
-- - 'no'
-  - man
-  - should
-- - invariably
-  - they
-  - come
-- - live
-  - who
-  - could
-- - hideous
-  - words
-  - there
 - - would
   - always
   - remain
+- - they
+  - come
+  - packaged
+- - carton
+  - once
+  - they
+- - hideous
+  - words
+  - there
+- - live
+  - who
+  - could
 - - eggs
   - would
   - always
+- - invariably
+  - they
+  - come
+- - 'no'
+  - man
+  - should
 - - first
   - lay
   - out
@@ -263,27 +263,27 @@ ngrams:
 - - people
   - are
   - happy
-- - once
-  - they
-  - get
-- - never
-  - keep
-  - all
-- - an
-  - empty
-  - egg
 - - two
   - eggs
   - would
-- - has
-  - been
-  - suggested
+- - never
+  - keep
+  - all
+- - once
+  - they
+  - get
+- - an
+  - empty
+  - egg
 - - outside
   - one
   - purpose
 - - head
   - 'off'
   - about
+- - has
+  - been
+  - suggested
 - - when
   - removing
   - them
@@ -296,27 +296,27 @@ ngrams:
 - - basket
   - one
   - great
-- - they
-  - say
-  - never
 - - me
   - until
   - such
+- - they
+  - say
+  - never
+- - seven
+  - or
+  - eight
 - - still
   - one
   - egg
 - - they
   - might
   - being
-- - seven
-  - or
-  - eight
-- - felt
-  - unmoored
-  - from
 - - words
   - there
   - could
+- - felt
+  - unmoored
+  - from
 - - are
   - never
   - ever

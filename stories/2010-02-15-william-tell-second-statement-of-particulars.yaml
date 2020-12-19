@@ -5,27 +5,27 @@ ngrams:
 - - homeland
   - firing
   - arrows
-- - slain
-  - united
-  - states
-- - states
-  - president
-  - jfk
 - - circus
   - performing
   - route
-- - president
-  - jfk
-  - wore
-- - united
-  - states
+- - states
   - president
+  - jfk
+- - slain
+  - united
+  - states
 - - spicy
   - italianate
   - sausages
 - - swiss
   - homeland
   - firing
+- - president
+  - jfk
+  - wore
+- - united
+  - states
+  - president
 - - legendary
   - archer
   - william
@@ -38,15 +38,15 @@ ngrams:
 - - wooden
   - structure
   - erected
-- - temporary
-  - wooden
-  - structure
-- - temporary
-  - wooden
-  - structure
 - - swiss
   - cantons
   - including
+- - temporary
+  - wooden
+  - structure
+- - temporary
+  - wooden
+  - structure
 - - butcher's
   - shop
   - selling
@@ -62,30 +62,30 @@ ngrams:
 - - rampaging
   - wild
   - swiss
-- - market
-  - square
-  - outside
 - - fruits
   - whether
   - balanced
+- - market
+  - square
+  - outside
 - - safe
   - distance
   - sitting
-- - archery
-  - skills
-  - four
 - - orchard
   - fruits
   - whether
 - - x
   - against
   - ticino
-- - archer
-  - william
-  - tell
+- - archery
+  - skills
+  - four
 - - circus
   - crowd
   - between
+- - archer
+  - william
+  - tell
 - - crowd
   - between
   - turns
@@ -95,21 +95,21 @@ ngrams:
 - - skills
   - four
   - wild
-- - four
-  - wild
-  - swiss
 - - performing
   - route
   - next
+- - four
+  - wild
+  - swiss
 - - son's
   - name
   - despite
-- - metal
-  - missile
-  - without
 - - tell
   - second
   - statement
+- - metal
+  - missile
+  - without
 - - william
   - tell
   - second
@@ -125,12 +125,12 @@ ngrams:
 - - rectify
   - those
   - omissions
-- - another
-  - spinning
-  - around
 - - walter's
   - gigantic
   - head
+- - another
+  - spinning
+  - around
 - - cantons
   - including
   - those
@@ -170,21 +170,21 @@ ngrams:
 - - wife
   - coco
   - who
-- - him
-  - turn
-  - aim
-- - wear
-  - some
-  - kind
 - - route
   - next
   - time
+- - him
+  - turn
+  - aim
 - - countrymen
   - cheered
   - their
 - - cheered
   - their
   - guglielmo
+- - wear
+  - some
+  - kind
 - - their
   - guglielmo
   - tell
@@ -209,45 +209,45 @@ ngrams:
 - - would
   - probably
   - delight
-- - rafters
-  - were
-  - those
-- - few
-  - words
-  - about
 - - fruit
   - so
   - accurate
 - - orchard
   - fruit
   - so
+- - few
+  - words
+  - about
+- - rafters
+  - were
+  - those
 - - which
   - presents
   - itself
 - - thing
   - would
   - probably
+- - truth
+  - even
+  - if
 - - an
   - appropriate
   - target
 - - balance
   - an
   - apple
-- - truth
-  - even
-  - if
 - - fearless
   - hunters
   - one
 - - hunters
   - one
   - boar
-- - an
-  - orchard
-  - fruit
 - - one
   - boar
   - tied
+- - an
+  - orchard
+  - fruit
 - - 'no'
   - fruit
   - has

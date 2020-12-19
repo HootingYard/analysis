@@ -1,7 +1,4 @@
 ngrams:
-- - guillemots
-  - wheel
-  - madly
 - - helmets
   - unfeasibly
   - extensive
@@ -11,6 +8,9 @@ ngrams:
 - - heiress
   - countless
   - fathoms
+- - guillemots
+  - wheel
+  - madly
 - - bouffant
   - shockingly
   - tangled
@@ -20,21 +20,24 @@ ngrams:
 - - crippled
   - heiress
   - countless
+- - worthies
+  - raised
+  - funds
 - - roiling
   - ocean
   - waves
-- - perfume
-  - bottle
-  - atomizer
 - - stray
   - timber
   - plank
 - - idle
   - moments
   - smudging
-- - worthies
-  - raised
-  - funds
+- - abstruse
+  - nautical
+  - activities
+- - perfume
+  - bottle
+  - atomizer
 - - pneumatic
   - rubber
   - tubing
@@ -44,90 +47,87 @@ ngrams:
 - - rescue
   - alonzo
   - plunkett
-- - abstruse
-  - nautical
-  - activities
 - - peg
   - leg
   - glistening
-- - undersea
-  - paradise
-  - built
 - - victorian
   - diving
   - gear
-- - kindly
-  - christian
-  - gentleman
-- - kindly
-  - christian
-  - gentleman
+- - undersea
+  - paradise
+  - built
 - - brass
   - victorian
   - diving
-- - alonzo
-  - plunkett
-  - safe
-- - fine
-  - bouffant
-  - shockingly
+- - kindly
+  - christian
+  - gentleman
+- - kindly
+  - christian
+  - gentleman
 - - jack
   - tar
   - eking
 - - shiny
   - brass
   - victorian
+- - fine
+  - bouffant
+  - shockingly
 - - humble
   - jack
   - tar
+- - alonzo
+  - plunkett
+  - safe
 - - gob
   - dawn
   - breaks
 - - countless
   - fathoms
   - deep
-- - battered
-  - leaking
-  - ship
-- - return
-  - alonzo
-  - plunkett
 - - hard
   - subaquatic
   - toil
-- - cabin
-  - boy
-  - pipes
-- - blue
-  - tumultuous
-  - waters
 - - seaside
   - worthies
   - raised
 - - mortal
   - danger
   - whatever
+- - return
+  - alonzo
+  - plunkett
+- - battered
+  - leaking
+  - ship
+- - cabin
+  - boy
+  - pipes
+- - swish
+  - cocktail
+  - party
+- - rigging
+  - scribbling
+  - prose
+- - blue
+  - tumultuous
+  - waters
 - - half
   - trailing
   - weed
 - - garb
   - half
   - tattered
-- - rigging
-  - scribbling
-  - prose
-- - swish
-  - cocktail
-  - party
 - - single
   - misjudged
   - tug
-- - cloth
-  - half
-  - trailing
 - - fat
   - eerie
   - beings
+- - cloth
+  - half
+  - trailing
 - - hard
   - tack
   - biscuits
@@ -137,24 +137,24 @@ ngrams:
 - - painters
   - whose
   - canvases
-- - christian
-  - gentleman
-  - during
 - - best
   - shiny
   - brass
-- - gone
-  - vanished
-  - below
-- - tattered
-  - black
-  - cloth
+- - christian
+  - gentleman
+  - during
 - - almighty
   - god
   - keeping
+- - gone
+  - vanished
+  - below
 - - atomizer
   - air
   - bulb
+- - tattered
+  - black
+  - cloth
 - - kindly
   - however
   - christian
@@ -164,57 +164,57 @@ ngrams:
 - - air
   - bulb
   - invention
-- - timber
-  - plank
-  - night
 - - bottle
   - atomizer
   - air
-- - gentleman
-  - during
-  - six
+- - timber
+  - plank
+  - night
 - - plank
   - night
   - falls
-- - half
-  - tattered
-  - black
+- - gentleman
+  - during
+  - six
 - - bulb
   - invention
   - around
-- - black
-  - cloth
-  - half
-- - few
-  - idle
-  - moments
+- - half
+  - tattered
+  - black
 - - land
   - better
   - writers
+- - few
+  - idle
+  - moments
 - - undersea
   - world
   - directly
-- - last
-  - hopeless
-  - gulp
+- - black
+  - cloth
+  - half
 - - once
   - fine
   - bouffant
+- - last
+  - hopeless
+  - gulp
 - - however
   - christian
   - however
-- - world
-  - directly
-  - below
 - - however
   - kindly
   - however
-- - last
-  - mighty
-  - heave
 - - fathoms
   - deep
   - far
+- - last
+  - mighty
+  - heave
+- - world
+  - directly
+  - below
 - - far
   - below
   - nestled
@@ -239,6 +239,12 @@ ngrams:
 - - tugging
   - those
   - ropes
+- - misjudged
+  - tug
+  - might
+- - tug
+  - might
+  - disrupt
 - - night
   - without
   - sleep
@@ -254,18 +260,9 @@ ngrams:
 - - inhuman
   - strength
   - our
-- - misjudged
-  - tug
-  - might
-- - tug
-  - might
-  - disrupt
 - - after
   - spending
   - six
-- - directly
-  - below
-  - our
 - - than
   - alonzo
   - plunkett
@@ -278,30 +275,36 @@ ngrams:
 - - too
   - few
   - idle
-- - during
-  - six
-  - years
-- - below
+- - directly
+  - below
   - our
-  - ship
-- - delays
-  - too
-  - long
-- - very
-  - best
-  - shiny
 - - very
   - different
   - prospect
+- - very
+  - best
+  - shiny
+- - delays
+  - too
+  - long
+- - during
+  - six
+  - years
+- - ocean
+  - waves
+  - upon
 - - our
   - captain
   - broods
+- - deep
+  - far
+  - far
+- - below
+  - our
+  - ship
 - - strength
   - our
   - captain
-- - above
-  - our
-  - ship
 - - ship
   - far
   - far
@@ -311,93 +314,90 @@ ngrams:
 - - far
   - far
   - below
-- - deep
-  - far
-  - far
-- - ocean
-  - waves
-  - upon
 - - air
   - before
   - plunging
+- - above
+  - our
+  - ship
 - - sea
   - our
   - descent
-- - lord
-  - our
-  - captain
+- - better
+  - writers
+  - than
 - - totteridge
   - then
   - whetstone
+- - lord
+  - our
+  - captain
 - - very
   - sea
   - bed
 - - sky
   - above
   - our
-- - better
-  - writers
-  - than
-- - every
-  - man
-  - jack
 - - before
   - plunging
   - again
-- - six
-  - long
-  - years
+- - every
+  - man
+  - jack
 - - long
   - years
   - following
+- - six
+  - long
+  - years
 - - god
   - having
   - made
-- - last
-  - saw
-  - being
 - - our
   - ship
   - far
-- - ropes
-  - has
-  - inhuman
+- - last
+  - saw
+  - being
 - - clues
   - until
   - now
 - - very
   - air
   - around
+- - ropes
+  - has
+  - inhuman
 - - has
   - inhuman
   - strength
-- - sleep
-  - has
-  - scattered
 - - better
   - captain
   - could
+- - sleep
+  - has
+  - scattered
 - - panic
   - 'no'
   - thrashing
 - - their
   - helmets
   - unfeasibly
-- - captain
-  - has
-  - steered
 - - their
   - pneumatic
   - rubber
 - - squashed
   - beneath
   - their
-- - tossed
-  - down
-  - down
+- - captain
+  - has
+  - steered
 - - beneath
   - their
   - boot
+- - their
+  - return
+  - alonzo
 story:
   date: 2009-07-14
   id: 2009-07-14-in-search-of-plunkett

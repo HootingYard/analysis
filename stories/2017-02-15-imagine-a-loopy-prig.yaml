@@ -65,12 +65,12 @@ ngrams:
 - - tin
   - two
   - buttons
-- - lid
-  - down
-  - tight
 - - strange
   - musculature
   - before
+- - lid
+  - down
+  - tight
 - - such
   - screen
   - luminaries
@@ -80,6 +80,12 @@ ngrams:
 - - nightmare
   - than
   - dream
+- - series
+  - starring
+  - such
+- - its
+  - enormous
+  - cement
 - - only
   - known
   - conjunction
@@ -89,12 +95,6 @@ ngrams:
 - - now
   - blind
   - languishing
-- - its
-  - enormous
-  - cement
-- - series
-  - starring
-  - such
 - - its
   - strange
   - musculature
@@ -107,9 +107,6 @@ ngrams:
 - - sleep
   - waking
   - him
-- - starr
-  - neither
-  - has
 - - its
   - hue
   - too
@@ -119,6 +116,9 @@ ngrams:
 - - too
   - its
   - hue
+- - starr
+  - neither
+  - has
 - - sting
   - 'no'
   - wasp
@@ -128,12 +128,12 @@ ngrams:
 - - has
   - seen
   - fit
-- - neither
-  - has
-  - seen
 - - some
   - grief
   - though
+- - neither
+  - has
+  - seen
 - - dreamer
   - who
   - once
@@ -149,57 +149,57 @@ ngrams:
 - - sight
   - any
   - more
-- - before
-  - plopping
-  - them
 - - any
   - more
   - since
-- - all
-  - hours
-  - save
+- - before
+  - plopping
+  - them
 - - next
   - thursday
   - if
+- - all
+  - hours
+  - save
 - - weeping
   - will
   - come
-- - yet
-  - which
-  - causes
 - - an
   - empty
   - marmalade
-- - reply
-  - yet
+- - yet
   - which
+  - causes
 - - this
   - option
   - consists
+- - reply
+  - yet
+  - which
 - - 'no'
   - sting
   - 'no'
-- - wasp
-  - had
-  - escaped
 - - waking
   - him
   - into
-- - had
-  - dimensions
-  - similar
 - - plopping
   - them
   - into
 - - its
   - name
   - if
-- - causes
-  - me
-  - some
-- - me
-  - some
-  - grief
+- - wasp
+  - had
+  - escaped
+- - rice
+  - or
+  - starr
+- - hue
+  - or
+  - tint
+- - had
+  - dimensions
+  - similar
 story:
   date: 2017-02-15
   id: 2017-02-15-imagine-a-loopy-prig

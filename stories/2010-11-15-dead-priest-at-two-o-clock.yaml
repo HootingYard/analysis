@@ -1,10 +1,10 @@
 ngrams:
-- - forefinger
-  - obliquely
-  - upward
 - - accusing
   - forefinger
   - obliquely
+- - forefinger
+  - obliquely
+  - upward
 - - rigid
   - accusing
   - forefinger
@@ -17,12 +17,12 @@ ngrams:
 - - swollen
   - having
   - perished
-- - two
-  - o'
-  - clock
 - - without
   - charm
   - nor
+- - two
+  - o'
+  - clock
 - - its
   - conditions
   - without
@@ -50,21 +50,18 @@ ngrams:
 - - such
   - an
   - existence
-- - tincture
-  - which
-  - has
 - - be
   - steadily
   - subjected
 - - minds
   - be
   - steadily
+- - tincture
+  - which
+  - has
 - - dead
   - priest
   - at
-- - which
-  - has
-  - become
 - - flood
   - at
   - three
@@ -74,6 +71,9 @@ ngrams:
 - - cab
   - rolls
   - by
+- - bore
+  - not
+  - less
 story:
   date: 2010-11-15
   id: 2010-11-15-dead-priest-at-two-o-clock

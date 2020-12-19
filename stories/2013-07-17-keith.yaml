@@ -17,12 +17,12 @@ ngrams:
 - - milky
   - grey
   - blur
-- - majestic
-  - ox
-  - coveting
 - - unseemly
   - hovel
   - compared
+- - majestic
+  - ox
+  - coveting
 - - lowly
   - fellow
   - crushed
@@ -32,15 +32,15 @@ ngrams:
 - - window
   - pane
   - consumed
-- - greasy
-  - window
-  - pane
-- - greasy
-  - window
-  - pane
 - - coveted
   - whatever
   - beast
+- - greasy
+  - window
+  - pane
+- - greasy
+  - window
+  - pane
 - - covetously
   - oh
   - covetously
@@ -83,6 +83,9 @@ ngrams:
 - - hatched
   - plot
   - after
+- - giving
+  - way
+  - due
 - - plot
   - after
   - plot
@@ -92,18 +95,15 @@ ngrams:
 - - sit
   - peering
   - through
-- - giving
-  - way
-  - due
 - - magnificent
   - beast
   - after
-- - just
-  - couldn't
-  - help
 - - give
   - further
   - thought
+- - just
+  - couldn't
+  - help
 - - pleasure
   - full
   - many
@@ -113,30 +113,33 @@ ngrams:
 - - really
   - desired
   - over
-- - long
-  - long
-  - months
-- - oxy
-  - way
-  - around
-- - lumbering
-  - solidity
-  - its
 - - mists
   - descended
   - upon
-- - like
-  - dennis
-  - wheatley
+- - oxy
+  - way
+  - around
+- - long
+  - long
+  - months
+- - lumbering
+  - solidity
+  - its
 - - keith
   - could
   - sparkle
 - - coveted
   - keith
   - then
+- - like
+  - dennis
+  - wheatley
 - - while
   - peering
   - through
+- - chalet
+  - nor
+  - did
 - - coveting
   - him
   - wanting
@@ -146,30 +149,27 @@ ngrams:
 - - ox
   - hauling
   - him
-- - chalet
-  - nor
-  - did
 - - spade
   - bury
   - him
 - - solidity
   - its
   - name
-- - hear
-  - him
-  - clearly
 - - first
   - idea
   - how
-- - hauling
-  - him
-  - along
 - - its
   - oxy
   - way
+- - hear
+  - him
+  - clearly
 - - could
   - sit
   - while
+- - hauling
+  - him
+  - along
 - - hear
   - 'no'
   - snorts
@@ -182,33 +182,33 @@ ngrams:
 - - way
   - 'no'
   - ox
-- - bright
-  - all
-  - mine
+- - keith
+  - would
+  - snort
+- - would
+  - forge
+  - documents
 - - beside
   - me
   - burning
+- - bright
+  - all
+  - mine
 - - burning
   - bright
   - all
-- - day
-  - every
-  - now
 - - me
   - burning
   - bright
+- - day
+  - every
+  - now
 - - gave
   - me
   - pause
 - - oh
   - covetously
   - all
-- - would
-  - forge
-  - documents
-- - keith
-  - would
-  - snort
 - - turned
   - would
   - substitute
@@ -224,39 +224,39 @@ ngrams:
 - - those
   - horns
   - were
-- - him
-  - wanting
-  - him
 - - their
   - heavens
   - could
 - - ox
   - upon
   - what
+- - him
+  - wanting
+  - him
 - - could
   - hear
   - 'no'
+- - would
+  - find
+  - somewhere
 - - ox
   - an
   - inferior
 - - would
-  - find
-  - somewhere
+  - run
+  - away
 - - lesser
   - ox
   - an
 - - an
   - unseemly
   - hovel
-- - would
-  - run
-  - away
-- - appurtenances
-  - did
-  - they
 - - this
   - majestic
   - ox
+- - picked
+  - one
+  - fat
 story:
   date: 2013-07-17
   id: 2013-07-17-keith

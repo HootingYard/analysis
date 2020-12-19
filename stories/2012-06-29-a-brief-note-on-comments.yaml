@@ -17,27 +17,27 @@ ngrams:
 - - without
   - reading
   - through
-- - ensure
-  - 'no'
-  - legitimate
 - - 'no'
   - legitimate
   - comments
-- - accidentally
-  - been
-  - dispatched
+- - ensure
+  - 'no'
+  - legitimate
 - - been
   - erroneously
   - designated
+- - accidentally
+  - been
+  - dispatched
 - - never
   - even
   - seen
-- - cursing
-  - because
-  - their
 - - cleverly
   - sorts
   - out
+- - cursing
+  - because
+  - their
 - - because
   - their
   - comment
@@ -53,9 +53,9 @@ ngrams:
 - - are
   - currently
   - hundreds
-- - their
-  - comment
-  - has
+- - before
+  - they
+  - appear
 story:
   date: 2012-06-29
   id: 2012-06-29-a-brief-note-on-comments

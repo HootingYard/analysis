@@ -26,42 +26,42 @@ ngrams:
 - - caves
   - plato's
   - cave
-- - tossed
-  - onto
-  - piles
-- - hairy
-  - paws
-  - suitable
 - - currently
   - languishing
   - exhausted
+- - tossed
+  - onto
+  - piles
 - - swiss
   - alps
   - smoking
+- - hairy
+  - paws
+  - suitable
 - - garish
   - cover
   - sold
 - - garish
   - cover
   - sold
-- - dark
-  - dank
-  - caves
 - - pipe
   - fat
   - paperbacks
 - - dark
   - dank
-  - cave
+  - caves
 - - heads
   - tossed
   - onto
-- - chalet
-  - o'
-  - prose
+- - dark
+  - dank
+  - cave
 - - god
   - spelled
   - backwards
+- - chalet
+  - o'
+  - prose
 - - dank
   - cave
   - full
@@ -83,66 +83,66 @@ ngrams:
 - - 'yes'
   - great
   - hairy
-- - most
-  - profound
-  - works
 - - entirely
   - new
   - genre
-- - 'off'
-  - i'll
-  - carry
+- - most
+  - profound
+  - works
 - - those
   - caves
   - plato's
+- - 'off'
+  - i'll
+  - carry
 - - still
   - call
   - yourself
-- - profound
-  - statement
-  - than
 - - sanatorium
   - even
   - higher
+- - profound
+  - statement
+  - than
 - - than
   - speak
   - articulate
-- - like
-  - headless
-  - ogres
 - - such
   - punchy
   - prose
+- - like
+  - headless
+  - ogres
 - - more
   - profound
   - statement
 - - grunt
   - rather
   - than
+- - rather
+  - than
+  - speak
 - - profundity
   - can
   - stand
 - - insight
   - can
   - lead
-- - rather
-  - than
-  - speak
-- - just
-  - two
-  - weeks
 - - can
   - stand
   - alongside
-- - world
-  - like
-  - headless
 - - head
   - 'off'
   - i'll
 - - head
   - torn
   - 'off'
+- - just
+  - two
+  - weeks
+- - world
+  - like
+  - headless
 - - too
   - now
   - merely
@@ -158,33 +158,36 @@ ngrams:
 - - when
   - i've
   - torn
-- - canon
-  - bashed
-  - out
 - - can't
   - think
   - can
-- - wish
-  - him
-  - well
+- - canon
+  - bashed
+  - out
 - - commonly
   - pointed
   - out
-- - man
-  - who
-  - thinks
-- - own
-  - brain
-  - has
+- - wish
+  - him
+  - well
 - - human
   - soul
   - if
+- - own
+  - brain
+  - has
 - - first
   - place
   - am
+- - man
+  - who
+  - thinks
 - - articulate
   - words
   - if
+- - ergo
+  - sum
+  - so
 - - all
   - good
   - airport
@@ -197,18 +200,15 @@ ngrams:
 - - your
   - head
   - torn
-- - ergo
-  - sum
-  - so
 - - poses
   - questions
   - which
 - - questions
   - which
   - delve
-- - an
-  - ogre
-  - albeit
+- - ogre
+  - what
+  - then
 story:
   date: 2017-11-04
   id: 2017-11-04-ogre

@@ -8,12 +8,12 @@ ngrams:
 - - blasted
   - volcanic
   - landscape
-- - volcanic
-  - landscape
-  - riddled
 - - blah
   - blah
   - blah
+- - volcanic
+  - landscape
+  - riddled
 - - tavern
   - fearing
   - shipwreck
@@ -23,60 +23,60 @@ ngrams:
 - - shiny
   - shiny
   - oil
-- - poor
-  - extinguished
-  - lantern
 - - hideous
   - seething
   - broiling
-- - stone
-  - vest
-  - painted
+- - poor
+  - extinguished
+  - lantern
 - - excitable
   - firing
   - questions
+- - stone
+  - vest
+  - painted
 - - monotone
   - neither
   - fast
 - - child's
   - play
   - consider
-- - cove
-  - whose
-  - life's
 - - certain
   - curiosity
   - value
 - - nigh
   - impossible
   - sometimes
+- - cove
+  - whose
+  - life's
 - - word
   - equal
   - weight
 - - cove
   - whose
   - tale
-- - lived
-  - among
-  - cowboys
 - - dusty
   - desert
   - town
+- - lived
+  - among
+  - cowboys
 - - stone
   - eyes
   - gazing
-- - came
-  - crawling
-  - bedraggled
-- - sailor
-  - came
-  - crawling
 - - nor
   - slow
   - giving
+- - came
+  - crawling
+  - bedraggled
 - - fast
   - nor
   - slow
+- - sailor
+  - came
+  - crawling
 - - muster
   - repainted
   - every
@@ -92,27 +92,27 @@ ngrams:
 - - wild
   - boiling
   - sea
-- - slow
-  - giving
-  - every
 - - neither
   - fast
   - nor
-- - whose
-  - life's
-  - work
+- - slow
+  - giving
+  - every
 - - well
   - nigh
   - impossible
 - - dawn
   - eventually
   - came
-- - giving
-  - every
-  - single
+- - whose
+  - life's
+  - work
 - - impossible
   - sometimes
   - though
+- - giving
+  - every
+  - single
 - - idyllic
   - cove
   - just
@@ -134,75 +134,72 @@ ngrams:
 - - every
   - single
   - word
-- - shape
-  - our
-  - language
 - - shone
   - brighter
   - than
-- - instantly
-  - forgotten
-  - over
 - - shadow
   - than
   - cove
+- - instantly
+  - forgotten
+  - over
+- - shape
+  - our
+  - language
 - - told
   - us
   - everything
-- - our
-  - help
-  - atop
 - - than
   - cove
   - eventually
+- - our
+  - help
+  - atop
 - - outside
   - our
   - heads
-- - does
-  - our
-  - environment
 - - could
   - muster
   - repainted
+- - does
+  - our
+  - environment
 - - insubstantial
   - more
   - shadow
 - - cove
   - said
   - something
-- - repainted
-  - every
-  - day
 - - ever
   - came
   - across
-- - world
-  - outside
-  - our
+- - repainted
+  - every
+  - day
 - - times
   - more
   - brilliant
+- - world
+  - outside
+  - our
 - - thousand
   - times
   - more
+- - may
+  - never
+  - lose
 - - cove
   - who
   - grew
 - - who
   - grew
   - rhubarb
-- - may
-  - never
-  - lose
 - - definition
   - 'no'
   - emphasis
 - - 'no'
   - mere
   - figment
-- - him
-  - stone
-  - eyes
 - - 'no'
   - emphasis
   - neither
@@ -212,108 +209,111 @@ ngrams:
 - - never
   - lose
   - its
-- - here
-  - does
-  - our
-- - brightly
-  - where
-  - did
+- - him
+  - stone
+  - eyes
 - - upon
   - our
   - cove
-- - were
-  - snugly
-  - sheltered
-- - abba
-  - songbook
-  - into
+- - brightly
+  - where
+  - did
+- - here
+  - does
+  - our
 - - mark
   - upon
   - our
+- - abba
+  - songbook
+  - into
+- - were
+  - snugly
+  - sheltered
 - - songbook
   - into
   - latin
-- - were
-  - invariably
-  - referred
 - - lighthouse
   - when
   - dawn
-- - shall
-  - tell
-  - who
-- - men
-  - were
+- - were
   - invariably
+  - referred
 - - even
   - more
   - insubstantial
 - - more
   - brilliant
   - than
-- - when
-  - dawn
-  - eventually
 - - more
   - shadow
   - than
+- - when
+  - dawn
+  - eventually
+- - shall
+  - tell
+  - who
 - - about
   - often
   - tracing
-- - were
-  - called
-  - geezers
-- - make
-  - 'no'
-  - mark
+- - men
+  - were
+  - invariably
 - - became
   - even
   - more
+- - make
+  - 'no'
+  - mark
 - - chaps
   - later
   - when
 - - extinguished
   - we
   - coves
-- - men
-  - were
+- - were
   - called
-- - town
-  - men
-  - were
+  - geezers
 - - more
   - insubstantial
   - more
 - - ferocious
   - storm
   - we
-- - brightest
-  - yellow
-  - we
 - - we
   - coves
   - gathered
+- - brightest
+  - yellow
+  - we
 - - fast
   - friends
   - there
+- - town
+  - men
+  - were
+- - men
+  - were
+  - called
 - - among
   - cowboys
   - all
-- - see
-  - him
-  - every
 - - everything
   - we
   - wanted
-- - simply
-  - stood
-  - there
 - - shine
   - so
   - brightly
-- - do
-  - see
-  - here
+- - see
+  - him
+  - every
+- - simply
+  - stood
+  - there
+- - storm
+  - so
+  - ferocious
 story:
   date: 2010-12-22
   id: 2010-12-22-unemphatic-coves-vest

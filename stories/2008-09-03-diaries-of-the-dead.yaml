@@ -8,21 +8,15 @@ ngrams:
 - - pepinster
   - hopton
   - baxter
+- - ferociously
+  - intelligent
+  - bluestocking
 - - republish
   - notable
   - diaries
 - - tungsten
   - algebraic
   - rolling
-- - ferociously
-  - intelligent
-  - bluestocking
-- - hopton
-  - baxter
-  - preen
-- - spinney
-  - pest
-  - bugle
 - - ivory
   - coast
   - postal
@@ -35,9 +29,12 @@ ngrams:
 - - mostly
   - unpublished
   - journal
-- - baxter
+- - hopton
+  - baxter
   - preen
-  - flap
+- - spinney
+  - pest
+  - bugle
 - - sheets
   - torn
   - savagely
@@ -50,54 +47,57 @@ ngrams:
 - - algebraic
   - rolling
   - pins
+- - baxter
+  - preen
+  - flap
 - - coast
   - postal
   - service
-- - biscuits
-  - potting
-  - shed
 - - contemporary
   - blog
   - gives
-- - september
-  - th
-  - unfortunately
+- - biscuits
+  - potting
+  - shed
 - - cream
   - kiosk
   - stopping
 - - men
   - wielding
   - cudgels
-- - chew
-  - denied
-  - emphatically
 - - owl
   - biscuits
   - potting
+- - september
+  - th
+  - unfortunately
+- - chew
+  - denied
+  - emphatically
 - - postal
   - service
   - boots
-- - sarah
-  - palin
-  - during
-- - polite
-  - emails
-  - sometimes
-- - bags
-  - themselves
-  - tossed
-- - cardboard
-  - sheets
-  - torn
-- - ice
-  - cream
-  - kiosk
-- - sorry
-  - business
-  - recently
 - - calendar
   - study
   - group
+- - polite
+  - emails
+  - sometimes
+- - cardboard
+  - sheets
+  - torn
+- - bags
+  - themselves
+  - tossed
+- - ice
+  - cream
+  - kiosk
+- - sarah
+  - palin
+  - during
+- - sorry
+  - business
+  - recently
 - - barn
   - owl
   - biscuits
@@ -113,24 +113,21 @@ ngrams:
 - - seems
   - somehow
   - insane
-- - weeks
-  - named
-  - barn
 - - named
   - barn
   - owl
-- - filthy
-  - greaseproof
-  - paper
 - - picnic
   - spot
   - eating
+- - filthy
+  - greaseproof
+  - paper
+- - weeks
+  - named
+  - barn
 - - whole
   - sorry
   - business
-- - marigold
-  - chew
-  - denied
 - - pest
   - bugle
   - given
@@ -140,21 +137,27 @@ ngrams:
 - - days
   - lamont
   - pepinster
-- - bugle
-  - given
-  - shortly
+- - marigold
+  - chew
+  - denied
 - - kiosk
   - stopping
   - along
-- - seven
-  - days
-  - lamont
+- - bugle
+  - given
+  - shortly
 - - does
   - appear
   - online
+- - seven
+  - days
+  - lamont
 - - three
   - weeks
   - named
+- - pointy
+  - town
+  - drooling
 - - death
   - marigold
   - chew
@@ -163,7 +166,7 @@ ngrams:
   - came
 - - pointy
   - town
-  - drooling
+  - school
 - - same
   - somehow
   - reading
@@ -173,102 +176,99 @@ ngrams:
 - - kellogg's
   - cornflakes
   - these
-- - pointy
-  - town
-  - school
+- - cornflakes
+  - these
+  - sheets
 - - these
   - pour
   - souls
 - - driven
   - these
   - pour
-- - cornflakes
-  - these
-  - sheets
 - - dead
   - diary
   - yet
 - - journal
   - every
   - word
+- - hills
+  - around
+  - pointy
 - - want
   - later
   - readers
 - - help
   - us
   - identify
-- - hills
-  - around
-  - pointy
-- - studies
-  - dobson
-  - calendar
 - - those
   - torn
   - cereal
 - - long
   - ago
   - diary
-- - sometimes
-  - these
-  - pleas
-- - dobson
-  - calendar
-  - study
 - - calendar
   - very
   - briefly
+- - sometimes
+  - these
+  - pleas
+- - studies
+  - dobson
+  - calendar
 - - those
   - teeming
   - thousands
+- - any
+  - newsworthy
+  - events
 - - project
   - sometimes
   - these
 - - dobson
-  - seems
-  - somehow
+  - calendar
+  - study
 - - course
   - few
   - transcribers
-- - any
-  - newsworthy
-  - events
 - - orwell
   - among
   - many
-- - mysterious
-  - day
-  - trip
-- - mysterious
-  - day
-  - trip
-- - dobson's
-  - calendar
-  - very
-- - see
-  - used
-  - neither
-- - new
-  - life
-  - incidentally
 - - around
   - pointy
   - town
-- - tentacle
-  - quite
-  - how
-- - blood
-  - over
-  - dozens
-- - among
-  - many
-  - others
+- - dobson's
+  - calendar
+  - very
+- - mysterious
+  - day
+  - trip
+- - mysterious
+  - day
+  - trip
+- - new
+  - life
+  - incidentally
 - - rained
   - blows
   - upon
+- - see
+  - used
+  - neither
+- - tentacle
+  - quite
+  - how
+- - dobson
+  - seems
+  - somehow
+- - blood
+  - over
+  - dozens
 - - befuddlement
   - far
   - away
+- - among
+  - many
+  - others
 - - these
   - pleas
   - come
@@ -281,39 +281,33 @@ ngrams:
 - - given
   - shortly
   - before
-- - wrote
-  - she
-  - insisted
 - - buttonhole
   - nor
   - did
-- - dobson
-  - studies
-  - dobson
-- - her
-  - death
-  - marigold
+- - wrote
+  - she
+  - insisted
 - - just
   - how
   - hard
+- - dobson
+  - studies
+  - dobson
 - - 'no'
   - identifiable
   - pattern
 - - 'no'
   - express
   - requirement
-- - team
-  - who
-  - remain
-- - may
-  - help
-  - us
+- - her
+  - death
+  - marigold
 - - many
   - years
   - ago
-- - who
-  - remain
-  - working
+- - may
+  - help
+  - us
 - - deploying
   - their
   - slide
@@ -326,30 +320,36 @@ ngrams:
 - - their
   - slide
   - rules
-- - pamphleteer
-  - who
-  - bestrode
 - - their
   - exhausting
   - efforts
+- - team
+  - who
+  - remain
+- - far
+  - more
+  - complicated
+- - who
+  - remain
+  - working
+- - losing
+  - their
+  - wits
 - - follow
   - 'no'
   - identifiable
 - - anomalies
   - thrown
   - up
+- - pamphleteer
+  - who
+  - bestrode
 - - many
   - others
   - day
-- - losing
-  - their
-  - wits
 - - fast
   - losing
   - their
-- - far
-  - more
-  - complicated
 - - several
   - planets
   - has
@@ -365,21 +365,12 @@ ngrams:
 - - far
   - away
   - those
-- - print
-  - pamphleteer
-  - who
 - - what
   - x
   - scribbled
-- - ever
-  - wrote
-  - she
-- - more
-  - complicated
-  - dobson
-- - shortly
-  - before
-  - her
+- - print
+  - pamphleteer
+  - who
 - - bore
   - down
   - upon
@@ -389,24 +380,33 @@ ngrams:
 - - extant
   - sheets
   - into
-- - been
-  - seen
-  - wandering
+- - more
+  - complicated
+  - dobson
 - - when
   - september
   - nd
-- - sheets
-  - were
-  - stuffed
-- - case
-  - who
-  - wrote
 - - into
   - filthy
   - greaseproof
+- - ever
+  - wrote
+  - she
+- - hove
+  - into
+  - view
+- - sheets
+  - were
+  - stuffed
 - - days
   - follow
   - 'no'
+- - been
+  - seen
+  - wandering
+- - case
+  - who
+  - wrote
 story:
   date: 2008-09-03
   id: 2008-09-03-diaries-of-the-dead

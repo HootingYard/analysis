@@ -5,6 +5,9 @@ ngrams:
 - - storms
   - wreak
   - ruination
+- - wiki
+  - forum
+  - blog
 - - feed
   - wiki
   - forum
@@ -14,15 +17,12 @@ ngrams:
 - - bleak
   - expansive
   - skies
-- - wiki
-  - forum
-  - blog
-- - terribly
-  - sad
-  - opera
 - - forum
   - blog
   - stump
+- - terribly
+  - sad
+  - opera
 - - web
   - hub
   - portal
@@ -38,12 +38,12 @@ ngrams:
 - - wild
   - winds
   - howl
-- - numberless
-  - collapsed
-  - bird
 - - seen
   - numberless
   - collapsed
+- - numberless
+  - collapsed
+  - bird
 - - collapsed
   - bird
   - tables
@@ -53,12 +53,12 @@ ngrams:
 - - hornets
   - further
   - details
-- - bird
-  - table
-  - electroplating
 - - air
   - grows
   - thick
+- - bird
+  - table
+  - electroplating
 - - bird
   - table
   - cadmium
@@ -80,15 +80,15 @@ ngrams:
 - - very
   - noisy
   - swarm
-- - being
-  - held
-  - following
 - - wreak
   - ruination
   - even
 - - isolation
   - clinic
   - where
+- - being
+  - held
+  - following
 - - winds
   - howl
   - where
@@ -101,48 +101,48 @@ ngrams:
 - - raining
   - where
   - wild
-- - never
-  - without
-  - shedding
 - - where
   - wild
   - winds
+- - never
+  - without
+  - shedding
 - - muggy
   - before
   - great
 - - before
   - great
   - cataclysmic
-- - making
-  - her
-  - announcement
 - - can
   - safely
   - interrupt
-- - other
-  - birds
-  - kittiwakes
-- - time
-  - best
-  - evoked
 - - bird
   - table
   - upon
+- - making
+  - her
+  - announcement
+- - time
+  - best
+  - evoked
+- - other
+  - birds
+  - kittiwakes
 - - why
   - she
   - felt
-- - sure
-  - why
-  - she
 - - birds
   - too
   - such
-- - their
-  - human
-  - pals
 - - actually
   - sets
   - up
+- - their
+  - human
+  - pals
+- - sure
+  - why
+  - she
 - - other
   - birds
   - too
@@ -152,27 +152,27 @@ ngrams:
 - - clinic
   - where
   - she
-- - your
-  - bird
-  - table
 - - rivets
   - all
   - powered
-- - details
-  - will
-  - follow
 - - table
   - will
   - rot
-- - all
-  - starlings
-  - love
+- - details
+  - will
+  - follow
+- - your
+  - bird
+  - table
 - - time
   - never
   - without
 - - there
   - freely
   - scattered
+- - all
+  - starlings
+  - love
 story:
   date: 2009-08-23
   id: 2009-08-23-cadmium-electroplated-bird-table

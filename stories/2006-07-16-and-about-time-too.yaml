@@ -14,24 +14,24 @@ ngrams:
 - - plankton
   - chews
   - collected
-- - doctor
-  - embroidered
-  - embellished
 - - unbelievably
   - incompetent
   - whenever
-- - abandoned
-  - quarry
-  - planting
 - - exploits
   - harsh
   - experience
-- - unbearably
-  - exciting
-  - yarn
+- - abandoned
+  - quarry
+  - planting
+- - doctor
+  - embroidered
+  - embellished
 - - harsh
   - experience
   - taught
+- - unbearably
+  - exciting
+  - yarn
 - - professional
   - police
   - force
@@ -62,45 +62,45 @@ ngrams:
 - - last
   - deductive
   - stupidity
-- - long
-  - standing
-  - proudly
 - - sprightliness
   - still
   - shape
+- - long
+  - standing
+  - proudly
 - - version
   - should
   - stop
+- - dozen
+  - years
+  - strictly
 - - leap
   - forward
   - two
 - - two
   - decades
   - twice
-- - forward
-  - two
-  - decades
-- - dozen
-  - years
-  - strictly
-- - flip
-  - impatiently
-  - through
-- - see
-  - binder
-  - chapter
 - - years
   - strictly
   - speaking
-- - hour
-  - see
+- - flip
+  - impatiently
+  - through
+- - forward
+  - two
+  - decades
+- - see
   - binder
+  - chapter
 - - those
   - singular
   - mysteries
 - - should
   - stop
   - reading
+- - hour
+  - see
+  - binder
 - - half
   - dozen
   - years
@@ -110,15 +110,15 @@ ngrams:
 - - even
   - knowingly
   - distorted
+- - embroidered
+  - embellished
+  - even
 - - every
   - last
   - deductive
 - - our
   - exciting
   - serial
-- - embroidered
-  - embellished
-  - even
 - - even
   - greater
   - fool
@@ -137,15 +137,15 @@ ngrams:
 - - then
   - episode
   - six
-- - stop
-  - reading
-  - now
 - - give
   - more
   - credence
 - - second
   - more
   - rigorous
+- - stop
+  - reading
+  - now
 - - four
   - years
   - old
@@ -158,21 +158,21 @@ ngrams:
 - - time
   - too
   - episodes
-- - two
-  - then
-  - cards
 - - first
   - few
   - years
-- - trying
-  - your
-  - patience
+- - two
+  - then
+  - cards
 - - knows
   - what
   - absurdities
 - - goodness
   - knows
   - what
+- - trying
+  - your
+  - patience
 - - quarry
   - planting
   - me
@@ -191,27 +191,27 @@ ngrams:
 - - land
   - we
   - exchanged
+- - distant
+  - land
+  - we
+- - we
+  - remained
+  - thus
+- - disaster
+  - are
+  - unrelated
 - - singular
   - mysteries
   - which
 - - mysteries
   - which
   - perplexed
-- - distant
-  - land
-  - we
-- - disaster
-  - are
-  - unrelated
-- - we
-  - remained
-  - thus
-- - circumstances
-  - which
-  - led
 - - years
   - will
   - pass
+- - circumstances
+  - which
+  - led
 - - rehearse
   - me
   - through
@@ -227,27 +227,27 @@ ngrams:
 - - held
   - before
   - me
-- - an
-  - astonishing
-  - number
 - - this
   - unbearably
   - exciting
+- - an
+  - astonishing
+  - number
 - - long
   - last
   - we
-- - two
-  - years
-  - will
 - - furnace
   - there
   - now
-- - exciting
-  - yarn
-  - had
+- - two
+  - years
+  - will
 - - will
   - give
   - more
+- - exciting
+  - yarn
+  - had
 - - too
   - episodes
   - one
@@ -263,9 +263,9 @@ ngrams:
 - - your
   - patience
   - if
-- - over
-  - an
-  - hour
+- - or
+  - less
+  - done
 story:
   date: 2006-07-16
   id: 2006-07-16-and-about-time-too

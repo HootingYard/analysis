@@ -26,15 +26,15 @@ ngrams:
 - - realm
   - beyond
   - petty
-- - suit
-  - aged
-  - six
 - - highly
   - amusing
   - account
 - - assertion
   - nowhere
   - else
+- - suit
+  - aged
+  - six
 - - various
   - stripes
   - none
@@ -56,18 +56,18 @@ ngrams:
 - - earthly
   - cares
   - indeed
-- - dogs
-  - left
-  - free
 - - cares
   - indeed
   - ned
-- - footnote
-  - long
-  - perplexed
+- - dogs
+  - left
+  - free
 - - book
   - neglected
   - classics
+- - footnote
+  - long
+  - perplexed
 - - little
   - sailor's
   - suit
@@ -77,36 +77,42 @@ ngrams:
 - - blistering
   - september
   - day
-- - her
-  - assertion
-  - nowhere
-- - september
-  - day
-  - during
 - - boosted
   - alas
   - upon
+- - alas
+  - upon
+  - opening
+- - september
+  - day
+  - during
 - - visited
   - any
   - number
+- - bewilderment
+  - home
+  - where
 - - didn't
   - seem
   - like
+- - whom
+  - could
+  - identify
+- - her
+  - assertion
+  - nowhere
+- - do
+  - sentry
+  - duty
+- - aged
+  - six
+  - could
 - - her
   - late
   - befuddlement
 - - opening
   - her
   - chalet
-- - alas
-  - upon
-  - opening
-- - bewilderment
-  - home
-  - where
-- - do
-  - sentry
-  - duty
 - - beyond
   - surely
   - she
@@ -116,84 +122,78 @@ ngrams:
 - - her
   - door
   - intending
-- - whom
-  - could
-  - identify
-- - aged
-  - six
-  - could
 - - her
   - chalet
   - door
+- - 'no'
+  - physical
+  - scars
+- - projects
+  - could
+  - ever
+- - could
+  - ever
+  - inspire
 - - her
   - book
   - neglected
 - - until
   - her
   - late
-- - 'no'
-  - physical
-  - scars
-- - her
-  - carted
-  - 'off'
-- - could
-  - ever
-  - inspire
-- - projects
-  - could
-  - ever
 - - these
   - projects
   - could
 - - their
   - turn
   - ned
+- - her
+  - carted
+  - 'off'
 - - ever
   - inspire
   - him
-- - yet
-  - until
-  - her
-- - where
-  - she
-  - muttered
 - - about
   - dobson's
   - chartreuse
 - - finally
   - passed
   - into
+- - where
+  - she
+  - muttered
+- - yet
+  - until
+  - her
 - - truth
   - about
   - dobson's
-- - upon
-  - opening
-  - her
 - - big
   - flap
   - when
 - - thought
   - about
   - diverting
-- - home
-  - where
-  - she
+- - upon
+  - opening
+  - her
 - - surely
   - she
   - could
 - - face
   - all
   - twitching
+- - home
+  - where
+  - she
 - - puppies
   - which
   - yapped
-- - frightened
-  - puppies
-  - which
 - - impunity
   - until
   - they
+- - frightened
+  - puppies
+  - which
 - - were
   - old
   - enough
@@ -203,21 +203,21 @@ ngrams:
 - - consult
   - an
   - inventory
+- - solve
+  - this
+  - admittedly
 - - her
   - directly
   - about
 - - an
   - alarming
   - young
-- - solve
-  - this
-  - admittedly
-- - mind
-  - an
-  - alarming
-- - this
-  - reference
-  - buried
+- - there
+  - any
+  - record
+- - so
+  - many
+  - puppies
 story:
   date: 2007-02-13
   id: 2007-02-13-dobsons-chartreuse-weskit

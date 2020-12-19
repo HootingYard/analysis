@@ -2,9 +2,6 @@ ngrams:
 - - ida
   - lupino
   - parp
-- - ministry
-  - '-'
-  - arithmetic
 - - lupino
   - parp
   - toot
@@ -14,21 +11,18 @@ ngrams:
 - - devotee
   - mike
   - jennings
-- - crockery
-  - smithereens
-  - smashed
 - - parp
   - toot
   - hooter
 - - mike
   - jennings
   - keeps
+- - crockery
+  - smithereens
+  - smashed
 - - dusty
   - springfield
   - method
-- - foreign
-  - ministry
-  - '-'
 - - empire
   - foreign
   - ministry
@@ -44,30 +38,36 @@ ngrams:
 - - comprising
   - pamphlets
   - numbered
-- - lists
-  - comprising
-  - pamphlets
 - - earlier
   - lists
   - comprising
+- - lists
+  - comprising
+  - pamphlets
 - - popular
   - culture
   - dictionary
 - - smithereens
   - smashed
   - according
-- - pamphlets
-  - listed
-  - below
 - - springfield
   - method
   - breakfast
 - - list
   - whenever
   - previously
+- - pamphlets
+  - listed
+  - below
 - - bewildered
   - several
   - potentates
+- - ministry
+  - '-'
+  - arithmetic
+- - foreign
+  - ministry
+  - '-'
 - - sometimes
   - become
   - encrusted
@@ -77,18 +77,18 @@ ngrams:
 - - overlooked
   - titles
   - come
-- - dozen
-  - reasons
-  - why
-- - yard
-  - devotee
-  - mike
 - - specifically
   - mr
   - jennings
 - - mr
   - jennings
   - acts
+- - dozen
+  - reasons
+  - why
+- - yard
+  - devotee
+  - mike
 story:
   date: 2016-12-22
   id: 2016-12-22-181-pamphlets-out-of-print

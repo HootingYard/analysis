@@ -1,13 +1,13 @@
 ngrams:
-- - projects
-  - crochet
-  - extravaganzas
 - - balloonist
   - aviatrix
   - explorer
 - - aviatrix
   - explorer
   - inventor
+- - projects
+  - crochet
+  - extravaganzas
 - - aeroplanes
   - exploring
   - inventing
@@ -26,21 +26,24 @@ ngrams:
 - - knitting
   - projects
   - crochet
-- - editorial
-  - dash
-  - appended
 - - adventurous
   - knitting
   - projects
-- - exploring
-  - inventing
-  - engaged
-- - typical
-  - editorial
+- - editorial
   - dash
+  - appended
 - - outright
   - madness
   - blossom
+- - exploring
+  - inventing
+  - engaged
+- - merino
+  - sheep
+  - blossom
+- - typical
+  - editorial
+  - dash
 - - flying
   - aeroplanes
   - exploring
@@ -50,42 +53,39 @@ ngrams:
 - - sister
   - flossie
   - partridge
-- - merino
-  - sheep
-  - blossom
 - - sister
   - flossie
   - blossom
+- - barely
+  - coherent
+  - shading
 - - venomous
   - harangue
   - barely
 - - mere
   - mortals
   - sherlock
-- - barely
-  - coherent
-  - shading
-- - secret
-  - missions
-  - spying
-- - confounded
-  - mere
-  - mortals
-- - agent
-  - government
-  - spy
 - - harangue
   - barely
   - coherent
+- - confounded
+  - mere
+  - mortals
+- - secret
+  - missions
+  - spying
 - - explorer
   - inventor
   - secret
-- - busy
-  - ballooning
-  - flying
 - - blossom
   - remains
   - unruffled
+- - agent
+  - government
+  - spy
+- - busy
+  - ballooning
+  - flying
 - - finest
   - weekly
   - digest
@@ -98,69 +98,66 @@ ngrams:
 - - aspiring
   - international
   - woman
-- - secret
-  - agent
-  - government
 - - miss
   - partridge
   - letters
 - - sausage
   - knitted
   - entirely
+- - secret
+  - agent
+  - government
 - - partridge
   - letters
   - page
+- - dear
+  - miss
+  - partridge
 - - letters
   - page
   - includes
 - - cavern
   - somewhere
   - below
-- - dear
-  - miss
-  - partridge
 - - closer
   - inspection
   - turned
 - - sisters
   - spend
   - together
-- - known
-  - flossie
-  - partridge
 - - printed
   - paper
   - publication
+- - known
+  - flossie
+  - partridge
 - - marvels
   - among
   - women
-- - maypole
-  - flossie
-  - let
 - - someone
   - else
   - entirely
-- - magazine
-  - readers
-  - complain
-- - flossie
-  - let
-  - slip
 - - does
   - blossom
   - divulge
+- - maypole
+  - flossie
+  - let
+- - magazine
+  - readers
+  - complain
 - - obsessive
   - indeed
   - maniacal
+- - flossie
+  - let
+  - slip
 - - sister's
   - obsessive
   - indeed
 - - blossom
   - also
   - refuses
-- - letters
-  - regular
-  - readers
 - - incidentally
   - does
   - blossom
@@ -170,33 +167,39 @@ ngrams:
 - - snaps
   - nor
   - provide
-- - sailor's
-  - suit
-  - next
+- - letters
+  - regular
+  - readers
 - - almost
   - entirely
   - hidden
+- - sailor's
+  - suit
+  - next
 - - brain
   - confounded
   - mere
-- - adventures
-  - column
-  - without
-- - entire
-  - magazine
-  - readers
-- - mighty
-  - brain
-  - confounded
 - - remain
   - almost
   - entirely
-- - machine
-  - blossom
-  - also
+- - adventures
+  - column
+  - without
 - - weekly
   - digest
   - quite
+- - entire
+  - magazine
+  - readers
+- - machine
+  - blossom
+  - also
+- - flossie
+  - partridge
+  - though
+- - mighty
+  - brain
+  - confounded
 - - nor
   - provide
   - evidence
@@ -206,9 +209,6 @@ ngrams:
 - - virtually
   - every
   - issue
-- - flossie
-  - partridge
-  - though
 - - digest
   - quite
   - possibly
@@ -221,48 +221,60 @@ ngrams:
 - - bad
   - wool
   - every
-- - blossom
-  - divulge
-  - how
-- - next
-  - three
-  - issues
-- - nor
-  - incidentally
-  - does
 - - paper
   - publication
   - though
-- - woolly
-  - blather
-  - here
-- - single
-  - word
-  - under
-- - else
-  - besides
-  - ever
+- - blossom
+  - divulge
+  - how
+- - nor
+  - incidentally
+  - does
+- - next
+  - three
+  - issues
 - - among
   - women
   - yet
-- - own
-  - name
-  - presumably
+- - else
+  - besides
+  - ever
+- - single
+  - word
+  - under
+- - woolly
+  - blather
+  - here
 - - any
   - aspiring
   - international
+- - own
+  - name
+  - presumably
 - - column
   - without
   - ever
 - - these
   - snaps
   - nor
-- - her
-  - sister's
-  - obsessive
+- - upon
+  - closer
+  - inspection
+- - flossie
+  - partridge
+  - could
+- - thousands
+  - upon
+  - thousands
 - - explanation
   - she
   - guarantees
+- - her
+  - sister's
+  - obsessive
+- - might
+  - find
+  - adventurous
 - - her
   - typical
   - editorial
@@ -275,66 +287,54 @@ ngrams:
 - - her
   - sister
   - flossie
-- - upon
-  - closer
-  - inspection
 - - her
   - regular
   - glimpses
-- - unlike
-  - her
-  - sister's
-- - flossie
-  - partridge
-  - could
-- - otherwise
-  - edit
-  - her
-- - thousands
-  - upon
-  - thousands
-- - else
-  - besides
-  - she
-- - large
-  - swan
-  - she
 - - without
   - ever
   - going
+- - unlike
+  - her
+  - sister's
 - - earlier
   - issue
   - more
-- - might
-  - find
-  - adventurous
-- - other
-  - hand
-  - blossom
 - - disquisitions
   - upon
   - good
-- - going
-  - online
+- - otherwise
+  - edit
+  - her
+- - else
+  - besides
   - she
-- - something
-  - similar
-  - may
+- - other
+  - hand
+  - blossom
 - - readers
   - could
   - knit
+- - something
+  - similar
+  - may
+- - upon
+  - good
+  - wool
+- - more
+  - astute
+  - readers
+- - large
+  - swan
+  - she
+- - issue
+  - more
+  - often
 - - flossie
   - partridge
   - has
 - - blossom
   - has
   - responded
-- - blossom
-  - has
-  - stated
-- - more
-  - astute
-  - readers
 story:
   date: 2012-09-07
   id: 2012-09-07-on-flossie-partridge

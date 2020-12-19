@@ -17,15 +17,15 @@ ngrams:
 - - movements
   - flap
   - flap
+- - bubbles
+  - carry
+  - infection
 - - designated
   - rectangular
   - patch
 - - flap
   - flap
   - flap
-- - bubbles
-  - carry
-  - infection
 - - carry
   - infection
   - disease
@@ -74,33 +74,36 @@ ngrams:
 - - see
   - bubbles
   - coming
+- - first
+  - sign
+  - diligent
+- - just
+  - present
+  - virulent
 - - per
   - our
   - drill
 - - our
   - designated
   - rectangular
-- - first
-  - sign
-  - diligent
 - - captain
   - counts
   - us
-- - just
-  - present
-  - virulent
 - - our
   - quick
   - wits
-- - tomorrow
-  - surely
-  - our
 - - bubble
   - box
   - might
+- - tomorrow
+  - surely
+  - our
 - - serums
   - our
   - captain
+- - most
+  - curious
+  - thing
 - - our
   - captain
   - counts
@@ -110,9 +113,6 @@ ngrams:
 - - midst
   - our
   - captain
-- - most
-  - curious
-  - thing
 - - canteen
   - our
   - captain
@@ -140,38 +140,38 @@ ngrams:
 - - hot
   - pan
   - do
-- - has
-  - bubbles
-  - pouring
 - - looks
   - very
   - much
+- - has
+  - bubbles
+  - pouring
 - - has
   - stopped
   - counting
 - - our
   - midst
   - our
-- - 'no'
-  - apparent
-  - reason
 - - box
   - might
   - our
-- - can
-  - take
-  - advantage
 - - am
   - still
   - counting
+- - can
+  - take
+  - advantage
+- - 'no'
+  - apparent
+  - reason
 - - might
   - our
   - captain
-- - still
-  - has
-  - bubbles
 - - can
   - see
+  - bubbles
+- - still
+  - has
   - bubbles
 - - still
   - counting
@@ -179,45 +179,51 @@ ngrams:
 - - bubbles
   - pouring
   - out
-- - has
-  - counted
-  - us
-- - bubbles
-  - coming
-  - out
 - - more
   - toxic
   - than
+- - bubbles
+  - coming
+  - out
+- - has
+  - counted
+  - us
 - - apply
   - all
   - sorts
-- - curious
-  - thing
-  - about
-- - counted
-  - them
-  - over
 - - munching
   - vegetation
   - we
-- - seems
-  - more
-  - like
 - - activated
   - we
   - gather
-- - our
-  - captain
-  - has
-- - very
-  - much
+- - counted
+  - them
+  - over
+- - curious
+  - thing
+  - about
+- - seems
+  - more
   - like
 - - suggested
   - we
   - lay
+- - very
+  - much
+  - like
+- - our
+  - captain
+  - has
 - - unto
   - death
   - we
+- - sports
+  - so
+  - elegant
+- - ears
+  - we
+  - round
 - - bubbles
   - are
   - ravaging
@@ -230,27 +236,24 @@ ngrams:
 - - bubbles
   - hooters
   - are
-- - bubbles
-  - are
-  - pouring
-- - sports
-  - so
-  - elegant
 - - innards
   - synapses
   - are
-- - ears
-  - we
-  - round
-- - cows
+- - bubbles
   - are
-  - safe
+  - pouring
 - - shall
   - find
   - out
 - - death
   - we
   - shall
+- - cows
+  - are
+  - safe
+- - yet
+  - so
+  - sharp
 - - an
   - escaped
   - bubble
@@ -260,9 +263,6 @@ ngrams:
 - - one
   - roger
   - moore
-- - yet
-  - so
-  - sharp
 story:
   date: 2009-09-02
   id: 2009-09-02-bubbles-surge-from-froth

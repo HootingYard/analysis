@@ -23,48 +23,48 @@ ngrams:
 - - boa
   - constrictor
   - loitering
-- - charming
-  - boa
-  - constrictor
 - - eagles
   - vultures
   - hawks
-- - species
-  - mutually
-  - hostile
-- - uncertain
-  - salamanders
-  - species
+- - charming
+  - boa
+  - constrictor
 - - pliny
   - eagles
   - vultures
+- - species
+  - mutually
+  - hostile
 - - sports
   - togs
   - bazaar
+- - uncertain
+  - salamanders
+  - species
 - - invented
   - aviaries
   - aesop's
-- - invented
-  - fattening
-  - peacocks
 - - mutually
   - hostile
   - facts
+- - invented
+  - fattening
+  - peacocks
+- - sore
+  - vexed
+  - viper
+- - sore
+  - vexed
+  - viper
 - - thrushes
   - blackbirds
   - starlings
-- - sore
-  - vexed
-  - viper
-- - sore
-  - vexed
-  - viper
-- - f
-  - species
-  - mutually
 - - canalside
   - lobster
   - hatchery
+- - f
+  - species
+  - mutually
 - - walk
   - footless
   - martins
@@ -74,153 +74,144 @@ ngrams:
 - - uterus
   - animal
   - species
-- - winter
-  - sports
-  - togs
-- - winter
-  - sports
-  - togs
 - - vultures
   - hawks
   - owls
+- - winter
+  - sports
+  - togs
+- - winter
+  - sports
+  - togs
 - - smell
   - hearing
   - moles
 - - chat
   - golden
   - oriole
-- - c
-  - '-'
-  - ad
-- - boa
-  - constrictor
-  - named
 - - bad
   - omen
   - ravens
-- - ma
-  - offering
-  - bargains
-- - constrictor
-  - named
-  - dagobert
 - - peacocks
   - bustards
   - swans
+- - ma
+  - offering
+  - bargains
 - - passing
   - vole
   - dagobert
-- - bomb
-  - exploded
-  - inside
-- - addresses
-  - matters
-  - ornithological
+- - boa
+  - constrictor
+  - named
+- - constrictor
+  - named
+  - dagobert
 - - grand
   - sweeping
   - paragraphs
-- - exceptional
-  - sight
-  - smell
+- - addresses
+  - matters
+  - ornithological
+- - o
+  - boa
+  - constrictor
+- - bomb
+  - exploded
+  - inside
 - - owl
   - native
   - migrant
+- - exceptional
+  - sight
+  - smell
 - - horned
   - owl
   - native
-- - darling
-  - dear
-  - boomed
 - - eggs
   - defective
   - hatching
-- - dobson's
-  - abortive
-  - pliny
+- - darling
+  - dear
+  - boomed
 - - jarring
   - dream
   - opened
 - - sight
   - smell
   - hearing
+- - dobson's
+  - abortive
+  - pliny
 - - perfect
   - test
   - bed
-- - young
-  - oviparous
-  - species
-- - o
-  - boa
-  - constrictor
 - - elder's
   - natural
   - history
-- - history
-  - c
-  - '-'
+- - young
+  - oviparous
+  - species
 - - plan
   - listen
   - carefully
 - - whose
   - generated
   - offspring
+- - belgian
+  - post
+  - office
+- - land
+  - animals
+  - posture
+- - land
+  - animals
+  - reproduction
+- - natural
+  - history
+  - c
 - - species
   - whose
   - generated
 - - species
   - whose
   - mode
-- - natural
-  - history
-  - c
 - - species
   - small
   - cranes
+- - affection
+  - between
+  - snakes
+- - affection
+  - between
+  - snakes
 - - generation
   - species
   - whose
-- - land
-  - animals
-  - reproduction
-- - land
-  - animals
-  - posture
-- - belgian
-  - post
-  - office
-- - animal
-  - species
-  - whose
-- - table
-  - outside
-  - hailstones
-- - affection
-  - between
-  - snakes
-- - affection
-  - between
-  - snakes
-- - hundred
-  - percent
-  - certain
-- - marigold
-  - chew
-  - interrupted
-- - bloaters
-  - marigold
-  - chew
 - - pinging
   - marigold
   - o
+- - table
+  - outside
+  - hailstones
+- - animal
+  - species
+  - whose
+- - hundred
+  - percent
+  - certain
+- - nourishing
+  - pulp
+  - along
 - - affection
   - between
   - animals
 - - between
   - animals
   - instances
-- - nourishing
-  - pulp
-  - along
+- - c
+  - '-'
+  - ad
 - - small
   - heron
   - nature
@@ -230,72 +221,84 @@ ngrams:
 - - birds
   - coots
   - pheasants
+- - bloaters
+  - marigold
+  - chew
 - - native
   - migrant
   - birds
 - - marigold
   - chew
-  - arrived
-- - blackbirds
-  - starlings
-  - birds
+  - interrupted
 - - birds
   - hatched
   - tail
+- - blackbirds
+  - starlings
+  - birds
+- - uncoiled
+  - himself
+  - pounced
 - - also
   - taste
   - species
-- - bonanza
-  - jamboree
-  - get
+- - dagobert
+  - uncoiled
+  - himself
 - - foreign
   - migrant
   - birds
+- - bonanza
+  - jamboree
+  - get
 - - foreign
   - birds
   - coots
 - - touch
   - also
   - taste
-- - uncoiled
-  - himself
-  - pounced
 - - birds
   - oviparous
   - creatures
-- - dagobert
-  - uncoiled
-  - himself
-- - jamboree
-  - get
-  - thee
 - - himself
   - pounced
   - sank
-- - f
-  - foreign
-  - birds
 - - done
   - since
   - infancy
+- - jamboree
+  - get
+  - thee
+- - marigold
+  - chew
+  - arrived
+- - f
+  - foreign
+  - birds
+- - bought
+  - nothing
+  - eventually
 - - talking
   - birds
   - parrots
 - - famished
   - viper
   - why
-- - bought
-  - nothing
-  - eventually
-- - birds
-  - bear
-  - plumage
-- - animals
-  - learn
-  - nothing
 - - breakfast
   - table
   - outside
+- - days
+  - o
+  - boa
+- - animals
+  - learn
+  - nothing
+- - birds
+  - bear
+  - plumage
+- - history
+  - c
+  - '-'
 - - viper
   - why
   - thank
@@ -305,60 +308,57 @@ ngrams:
 - - arrived
   - home
   - thinking
-- - days
-  - o
-  - boa
 - - still
   - uncertain
   - salamanders
+- - yet
+  - living
+  - vole
 - - capture
   - dobson's
   - words
 - - chew
   - arrived
   - home
-- - asked
-  - marigold
-  - chew
-- - yet
-  - living
-  - vole
 - - most
   - charming
   - boa
-- - dobson's
-  - important
-  - pamphlet
-- - away
-  - furiously
-  - possessed
 - - good
   - part
   - scurried
+- - dobson's
+  - important
+  - pamphlet
+- - asked
+  - marigold
+  - chew
+- - away
+  - furiously
+  - possessed
 - - scribbling
   - away
   - furiously
-- - century's
-  - most
-  - magnificent
 - - brand
   - new
   - notepad
-- - old
-  - ma
-  - offering
+- - century's
+  - most
+  - magnificent
 - - many
   - daytime
   - naps
+- - old
+  - ma
+  - offering
 - - usually
   - swat
   - away
+- - pulp
+  - along
+  - came
 - - fishes
   - hear
   - most
-- - nearly
-  - two
-  - thousand
 - - extinct
   - birds
   - birds
@@ -371,99 +371,96 @@ ngrams:
 - - abortive
   - pliny
   - here
-- - suddenly
-  - dobson
-  - recalled
-- - first
-  - invented
-  - aviaries
-- - pulp
-  - along
-  - came
-- - feathers
-  - dobson
-  - threw
 - - hatched
   - tail
   - first
 - - awoken
   - befuddled
   - after
-- - subject
-  - nearly
+- - first
+  - invented
+  - aviaries
+- - nearly
   - two
-- - dear
-  - boomed
-  - dobson
-- - most
-  - magnificent
-  - pamphleteer
+  - thousand
 - - both
   - birds
   - bear
+- - most
+  - magnificent
+  - pamphleteer
+- - subject
+  - nearly
+  - two
 - - new
   - species
   - small
-- - hear
-  - most
-  - clearly
-- - feathers
-  - dobson
-  - looked
 - - today
   - well
   - thanks
+- - hear
+  - most
+  - clearly
+- - suddenly
+  - dobson
+  - recalled
+- - feathers
+  - dobson
+  - threw
 - - pamphlet
   - until
   - today
-- - chew
-  - interrupted
-  - here
-- - magnificent
-  - pamphleteer
-  - dobson
 - - new
   - notepad
   - both
+- - dear
+  - boomed
+  - dobson
 - - ever
   - bought
   - nothing
 - - giant
   - may
   - swat
-- - say
-  - marigold
-  - chew
-- - shortly
-  - after
-  - breakfast
-- - every
-  - last
-  - detail
+- - chew
+  - interrupted
+  - here
 - - best
   - way
   - possible
-- - found
-  - within
-  - myself
-- - thousand
-  - years
-  - ago
+- - shortly
+  - after
+  - breakfast
+- - say
+  - marigold
+  - chew
+- - feathers
+  - dobson
+  - looked
+- - magnificent
+  - pamphleteer
+  - dobson
 - - where
   - particular
   - species
-- - plinth
-  - dobson
-  - took
-- - dobson
-  - asked
-  - marigold
+- - found
+  - within
+  - myself
+- - every
+  - last
+  - detail
+- - thousand
+  - years
+  - ago
 - - breakfast
   - it's
   - just
 - - trudged
   - back
   - home
+- - very
+  - least
+  - cracked
 - - few
   - days
   - later
@@ -473,42 +470,42 @@ ngrams:
 - - species
   - sleep
   - now
-- - brain
-  - suddenly
-  - dobson
 - - oviparous
   - creatures
   - other
-- - very
-  - least
-  - cracked
-- - listened
-  - night
-  - after
-- - suggest
-  - she
-  - capture
-- - back
-  - home
-  - passing
-- - still
-  - scribbling
-  - away
-- - lovely
-  - viper
-  - she
 - - digestive
   - juices
   - could
-- - said
-  - marigold
-  - chew
-- - last
-  - reminded
-  - dobson
+- - listened
+  - night
+  - after
+- - still
+  - scribbling
+  - away
+- - back
+  - home
+  - passing
+- - many
+  - days
+  - o
 - - over
   - breakfast
   - it's
+- - plinth
+  - dobson
+  - took
+- - until
+  - today
+  - well
+- - dobson
+  - asked
+  - marigold
+- - brain
+  - suddenly
+  - dobson
+- - juices
+  - could
+  - begin
 - - sleep
   - now
   - imagine
@@ -518,87 +515,273 @@ ngrams:
 - - its
   - young
   - oviparous
-- - she
+- - said
+  - marigold
+  - chew
+- - suggest
+  - she
   - capture
-  - dobson's
-- - many
-  - days
-  - o
-- - until
-  - today
-  - well
-- - juices
-  - could
-  - begin
+- - lovely
+  - viper
+  - she
 - - than
   - birds
   - kinds
-- - two
-  - thousand
-  - years
+- - last
+  - reminded
+  - dobson
+- - often
+  - comment
+  - upon
 - - tumbler
   - then
   - sat
 - - separately
   - then
   - together
+- - she
+  - capture
+  - dobson's
 - - many
   - many
   - daytime
+- - two
+  - thousand
+  - years
 - - bird
   - after
   - another
 - - many
   - many
   - nights
-- - often
-  - comment
-  - upon
 - - night
   - after
   - night
 - - may
   - swat
   - away
+- - follows
+  - once
+  - upon
 - - toes
   - peacocks
   - who
-- - who
-  - invented
-  - fattening
-- - who
-  - invented
-  - fattening
 - - vexed
   - viper
   - who
 - - day
   - found
   - within
-- - follows
-  - once
+- - who
+  - invented
+  - fattening
+- - who
+  - invented
+  - fattening
+- - dobson's
+  - words
   - upon
 - - food
   - who
   - invented
-- - dobson's
-  - words
-  - upon
-- - since
-  - has
-  - haunted
+- - am
+  - quite
+  - happy
 - - eagles
   - their
   - species
-- - new
-  - bees
-  - she
-- - somehow
-  - fetched
-  - up
+- - since
+  - has
+  - haunted
 - - its
   - own
   - kind
+- - then
+  - sat
+  - again
+- - species
+  - their
+  - nature
+- - somehow
+  - fetched
+  - up
+- - percent
+  - certain
+  - 'no'
+- - new
+  - bees
+  - she
+- - best
+  - their
+  - diseases
+- - marigold
+  - chew
+  - who
+- - said
+  - over
+  - breakfast
+- - first
+  - separately
+  - then
+- - vole
+  - into
+  - nourishing
+- - verdant
+  - slope
+  - when
+- - into
+  - nourishing
+  - pulp
+- - dobson
+  - looked
+  - upon
+- - their
+  - breakfast
+  - table
+- - what
+  - months
+  - crows
+- - hailstones
+  - were
+  - pinging
+- - what
+  - animals
+  - learn
+- - undigested
+  - vole
+  - out
+- - 'no'
+  - longer
+  - known
+- - creatures
+  - other
+  - than
+- - your
+  - natural
+  - history
+- - nature
+  - when
+  - adopted
+- - living
+  - vole
+  - into
+- - story
+  - much
+  - more
+- - more
+  - efficacious
+  - than
+- - reading
+  - what
+  - pliny
+- - what
+  - bird
+  - produces
+- - will
+  - knock
+  - pliny
+- - just
+  - any
+  - book
+- - good
+  - 'no'
+  - doubt
+- - years
+  - ago
+  - then
+- - demons
+  - when
+  - marigold
+- - birds
+  - 'no'
+  - longer
+- - outside
+  - hailstones
+  - were
+- - began
+  - scribbling
+  - when
+- - after
+  - breakfast
+  - time
+- - were
+  - pinging
+  - marigold
+- - pliny
+  - she
+  - did
+- - eggs
+  - what
+  - sort
+- - am
+  - going
+  - 'off'
+- - snack
+  - when
+  - towards
+- - thought
+  - dagobert
+  - what
+- - she
+  - asked
+  - dobson
+- - all
+  - natural
+  - phenomena
+- - first
+  - prohibited
+  - who
+- - prohibited
+  - who
+  - first
+- - peacocks
+  - who
+  - first
+- - who
+  - first
+  - introduced
+- - did
+  - she
+  - learn
+- - when
+  - marigold
+  - chew
+- - who
+  - first
+  - killed
+- - ever
+  - since
+  - has
+- - who
+  - first
+  - invented
+- - goose
+  - who
+  - first
+- - went
+  - straight
+  - into
+- - kind
+  - what
+  - bird
+- - employ
+  - pliny
+  - would
+- - other
+  - than
+  - birds
+- - birds
+  - birds
+  - 'no'
+- - sure
+  - will
+  - knock
+- - away
+  - your
+  - charges
+- - swat
+  - away
+  - your
 story:
   date: 2010-07-20
   id: 2010-07-20-dobsons-abortive-pliny

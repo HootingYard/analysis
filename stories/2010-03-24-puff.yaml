@@ -2,18 +2,18 @@ ngrams:
 - - magician's
   - assistants
   - willing
-- - wounded
-  - countless
-  - doves
 - - clubs
   - diamonds
   - hearts
-- - billowing
-  - sail
-  - planning
+- - wounded
+  - countless
+  - doves
 - - crumbling
   - coastal
   - castles
+- - billowing
+  - sail
+  - planning
 - - rabbit
   - winifred
   - smashed
@@ -23,45 +23,42 @@ ngrams:
 - - conjuring
   - tricks
   - accompanied
-- - sail
-  - leaving
-  - winifred
 - - lovely
   - frumpy
   - assistant
+- - dilapidated
+  - castle
+  - ramparts
+- - sail
+  - leaving
+  - winifred
 - - lovely
   - assistant
   - winifred
 - - leaving
   - winifred
   - seething
-- - frumpy
-  - assistant
-  - coming
-- - dilapidated
-  - castle
-  - ramparts
 - - magic
   - dragon
   - community
-- - square
-  - snorting
-  - fire
+- - frumpy
+  - assistant
+  - coming
 - - king
   - clubs
   - diamonds
-- - damp
-  - dark
-  - cave
+- - square
+  - snorting
+  - fire
 - - flimsy
   - tissue
   - paper
+- - damp
+  - dark
+  - cave
 - - various
   - seaside
   - villages
-- - single
-  - pirate
-  - ship
 - - times
   - alas
   - winifred
@@ -71,66 +68,69 @@ ngrams:
 - - shipmate
   - paper
   - child
+- - single
+  - pirate
+  - ship
 - - entertain
   - paper
   - children
 - - misty
   - autumn
   - morning
+- - autumn
+  - mists
+  - along
 - - always
   - elicited
   - gasps
 - - paper
   - children
   - ah
-- - autumn
-  - mists
-  - along
 - - case
   - laying
   - waste
 - - held
   - either
   - outside
-- - few
-  - magician's
-  - assistants
 - - runny
   - eye
   - however
+- - few
+  - magician's
+  - assistants
 - - set
   - sail
   - leaving
 - - great
   - scaly
   - tail
+- - order
+  - both
+  - numerically
 - - fearsome
   - great
   - talons
 - - paper
   - child
   - instead
-- - order
-  - both
-  - numerically
 - - perfect
   - order
   - both
-- - most
-  - ruthless
-  - pirate
 - - assistant
   - winifred
   - well
+- - most
+  - ruthless
+  - pirate
 - - every
   - single
   - pirate
-- - fight
-  - 'off'
-  - attacks
 - - winifred
   - far
   - better
+- - fight
+  - 'off'
+  - attacks
 - - including
   - being
   - sawn
@@ -143,72 +143,72 @@ ngrams:
 - - paper
   - child
   - away
-- - children
-  - ah
-  - those
-- - our
-  - magic
-  - shows
-- - anything
-  - including
-  - being
 - - where
   - ahab
   - sailed
-- - treatment
-  - she
-  - meted
-- - magician's
-  - assistant
-  - she
+- - children
+  - ah
+  - those
+- - anything
+  - including
+  - being
+- - our
+  - magic
+  - shows
 - - scaly
   - tail
   - upon
 - - give
   - any
   - piratical
+- - any
+  - case
+  - laying
+- - very
+  - few
+  - magician's
+- - sea
+  - where
+  - ahab
+- - treatment
+  - she
+  - meted
+- - alone
+  - never
+  - again
+- - magician's
+  - assistant
+  - she
+- - child
+  - away
+  - away
 - - her
   - cooking
   - pot
 - - very
-  - few
-  - magician's
-- - any
-  - case
-  - laying
-- - alone
-  - never
-  - again
-- - sea
-  - where
-  - ahab
-- - child
-  - away
-  - away
-- - very
   - same
   - sea
-- - same
-  - treatment
-  - she
-- - eye
-  - however
-  - she
-- - took
-  - long
-  - years
 - - bustled
   - them
   - indoors
 - - same
   - sea
   - where
-- - 'no'
-  - shrinking
-  - violet
+- - same
+  - treatment
+  - she
+- - took
+  - long
+  - years
 - - just
   - any
   - dragon
+- - 'no'
+  - shrinking
+  - violet
+- - eye
+  - however
+  - she
 - - shuttered
   - their
   - hovels
@@ -221,42 +221,42 @@ ngrams:
 - - many
   - long
   - years
-- - been
-  - exiled
-  - following
 - - set
   - them
   - ablaze
 - - their
   - paper
   - parents
-- - harm
-  - she
-  - did
+- - been
+  - exiled
+  - following
 - - rare
   - occasions
   - when
 - - snorting
   - fire
   - when
-- - has
-  - never
-  - appealed
+- - harm
+  - she
+  - did
 - - were
   - heady
   - times
+- - has
+  - never
+  - appealed
 - - winifred
   - joined
   - me
 - - villages
   - were
   - always
-- - land
-  - has
-  - never
 - - castle
   - ramparts
   - we
+- - land
+  - has
+  - never
 - - puff
   - call
   - me
@@ -269,12 +269,12 @@ ngrams:
 - - ship
   - we
   - encountered
-- - hovels
-  - too
-  - were
 - - moment
   - we
   - docked
+- - hovels
+  - too
+  - were
 - - we
   - held
   - either
@@ -284,12 +284,12 @@ ngrams:
 - - paper
   - parents
   - would
-- - magic
-  - shows
-  - which
-- - those
-  - were
-  - heady
+- - paper
+  - children
+  - would
+- - ramparts
+  - we
+  - set
 story:
   date: 2010-03-24
   id: 2010-03-24-puff

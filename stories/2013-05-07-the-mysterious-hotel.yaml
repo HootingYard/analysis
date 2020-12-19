@@ -17,27 +17,27 @@ ngrams:
 - - holiday
   - destination
   - early
-- - blisteringly
-  - hot
-  - july
 - - porter
   - i'm
   - afraid
 - - parkway
   - railway
   - station
-- - seemed
-  - utterly
-  - unchanged
+- - blisteringly
+  - hot
+  - july
 - - seems
   - utterly
   - unchanged
-- - space
-  - age
-  - console
+- - seemed
+  - utterly
+  - unchanged
 - - hotel
   - splendido
   - everything
+- - space
+  - age
+  - console
 - - railway
   - passenger
   - looking
@@ -50,12 +50,12 @@ ngrams:
 - - splendido
   - everything
   - seemed
-- - everything
-  - seemed
-  - utterly
 - - station
   - itself
   - changed
+- - everything
+  - seemed
+  - utterly
 - - oh
   - i'm
   - sorry
@@ -86,15 +86,15 @@ ngrams:
 - - ah
   - 'yes'
   - said
+- - never
+  - quite
+  - stopped
 - - youth
   - armed
   - now
 - - said
   - detective
   - captain
-- - never
-  - quite
-  - stopped
 - - splendido
   - looked
   - like
@@ -107,12 +107,12 @@ ngrams:
 - - then
   - oh
   - i'm
-- - porter
-  - gave
-  - him
 - - course
   - nobody
   - did
+- - porter
+  - gave
+  - him
 - - can't
   - let
   - time
@@ -125,30 +125,27 @@ ngrams:
 - - time
   - stand
   - still
-- - room
-  - has
-  - already
 - - their
   - holidays
   - together
 - - porter
   - who
   - took
-- - i'm
-  - sorry
-  - your
 - - am
   - stepping
   - back
-- - mystery
-  - like
-  - any
+- - room
+  - has
+  - already
+- - i'm
+  - sorry
+  - your
 - - passenger
   - looking
   - about
-- - sorry
-  - your
-  - room
+- - mystery
+  - like
+  - any
 - - any
   - other
   - hotel
@@ -158,66 +155,69 @@ ngrams:
 - - stopped
   - thinking
   - about
+- - changed
+  - if
+  - anything
+- - sorry
+  - your
+  - room
 - - holidays
   - together
   - were
 - - its
   - mystery
   - like
-- - changed
-  - if
-  - anything
 - - another
   - guest
   - what
 - - together
   - were
   - taken
+- - stepping
+  - back
+  - into
+- - we
+  - can't
+  - let
 - - reception
   - desk
   - which
 - - been
   - here
   - since
-- - stepping
-  - back
-  - into
 - - has
   - seen
   - its
-- - we
-  - can't
-  - let
 - - about
   - sir
   - said
 - - like
   - any
   - other
-- - an
-  - advanced
-  - stage
 - - guest
   - what
   - do
+- - an
+  - advanced
+  - stage
 - - know
   - we
   - can't
-- - these
-  - are
-  - mundane
 - - mysterious
   - hotel
   - one
+- - these
+  - are
+  - mundane
+- - prise
+  - this
+  - question
 - - an
   - odd
   - look
 - - has
   - already
   - been
-- - prise
-  - this
-  - question
 - - looking
   - about
   - him
@@ -227,15 +227,15 @@ ngrams:
 - - 'no'
   - idea
   - what
-- - things
-  - had
-  - changed
 - - utterly
   - unchanged
   - from
 - - all
   - their
   - holidays
+- - things
+  - had
+  - changed
 story:
   date: 2013-05-07
   id: 2013-05-07-the-mysterious-hotel

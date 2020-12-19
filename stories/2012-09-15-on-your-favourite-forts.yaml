@@ -1,31 +1,31 @@
 ngrams:
-- - frolicsome
-  - romping
-  - giddy
 - - romping
   - giddy
   - flighty
 - - frolicsome
   - romping
   - giddy
+- - frolicsome
+  - romping
+  - giddy
 - - combative
   - teutonic
   - din
+- - flighty
+  - t
+  - thurn
 - - yours
   - frolicsome
   - romping
 - - plumping
   - yours
   - frolicsome
-- - flighty
-  - t
-  - thurn
-- - otter
-  - rescue
-  - mission
 - - mental
   - gorse
   - bushes
+- - otter
+  - rescue
+  - mission
 - - spotted
   - unusual
   - patterns
@@ -38,33 +38,33 @@ ngrams:
 - - toity
   - fort
   - toity
-- - hoity
-  - nobody
-  - wants
 - - cry
   - fort
   - hoity
 - - choose
   - fort
   - hoity
+- - hoity
+  - nobody
+  - wants
 - - collected
   - fort
   - hoity
-- - nameless
-  - pond
-  - excuse
 - - fort
   - toity
   - fort
 - - fort
   - fort
   - hoity
-- - military
-  - history
-  - buffs
 - - fort
   - hoity
   - nobody
+- - military
+  - history
+  - buffs
+- - nameless
+  - pond
+  - excuse
 - - modern
   - education
   - system
@@ -77,24 +77,21 @@ ngrams:
 - - highly
   - amusing
   - account
-- - recently
-  - it's
-  - supposed
 - - thurn
   - oh
   - wondrous
+- - recently
+  - it's
+  - supposed
 - - t
   - thurn
   - oh
-- - tinies
-  - whose
-  - screeching
 - - early
   - form
   - suggests
-- - yelled
-  - look
-  - hoping
+- - tinies
+  - whose
+  - screeching
 - - differences
   - between
   - fort
@@ -113,15 +110,18 @@ ngrams:
 - - between
   - fort
   - hoity
+- - yelled
+  - look
+  - hoping
 - - saturday
   - morning
   - care
-- - readers
-  - gather
-  - together
 - - birds
   - visible
   - alas
+- - readers
+  - gather
+  - together
 - - detail
   - partly
   - because
@@ -134,18 +134,18 @@ ngrams:
 - - simple
   - enough
   - matter
-- - few
-  - military
-  - history
 - - course
   - fort
   - toity
-- - supplementary
-  - question
-  - why
 - - sensible
   - answer
   - perhaps
+- - few
+  - military
+  - history
+- - supplementary
+  - question
+  - why
 - - most
   - definitely
   - claim
@@ -158,18 +158,18 @@ ngrams:
 - - fanatically
   - devoted
   - hooting
-- - world
-  - wide
-  - words
-- - yard
-  - readers
-  - gather
 - - resplendent
   - mr
   - key
+- - world
+  - wide
+  - words
 - - any
   - reliable
   - stats
+- - yard
+  - readers
+  - gather
 - - over
   - fort
   - toity
@@ -191,9 +191,6 @@ ngrams:
 - - gather
   - together
   - here
-- - pedestrians
-  - between
-  - here
 - - aren't
   - really
   - any
@@ -203,33 +200,36 @@ ngrams:
 - - such
   - tale
   - related
-- - select
-  - band
-  - now
+- - pedestrians
+  - between
+  - here
 - - any
   - 'true'
   - devotee
+- - select
+  - band
+  - now
+- - years
+  - several
+  - readers
 - - hooting
   - yard
   - outing
 - - hooting
   - yard
   - picnics
-- - recent
-  - hooting
-  - yard
-- - years
-  - several
-  - readers
-- - devoted
-  - hooting
-  - yard
-- - smaller
-  - then
-  - fort
 - - then
   - fort
   - hoity
+- - smaller
+  - then
+  - fort
+- - recent
+  - hooting
+  - yard
+- - devoted
+  - hooting
+  - yard
 - - bit
   - smaller
   - then
@@ -245,27 +245,24 @@ ngrams:
 - - hooting
   - yard
   - readers
-- - bombshell
-  - why
-  - she
-- - occasion
-  - where
-  - two
 - - could
   - also
   - mean
-- - two
-  - forts
-  - other
-- - why
+- - occasion
+  - where
+  - two
+- - bombshell
+  - why
   - she
-  - asked
 - - fort
   - far
   - more
 - - far
   - more
   - difficult
+- - two
+  - forts
+  - other
 - - persons
   - who
   - actually
@@ -275,6 +272,9 @@ ngrams:
 - - can
   - most
   - definitely
+- - why
+  - she
+  - asked
 - - still
   - some
   - distance
@@ -296,60 +296,60 @@ ngrams:
 - - toity
   - when
   - asked
-- - their
-  - own
-  - list
 - - fact
   - other
   - than
+- - their
+  - own
+  - list
+- - work
+  - if
+  - t
+- - pond
+  - excuse
+  - me
+- - more
+  - hooting
+  - yard
 - - then
   - she
   - dropped
 - - replied
   - then
   - she
-- - more
-  - hooting
-  - yard
-- - pond
-  - excuse
-  - me
-- - work
-  - if
-  - t
-- - only
-  - persons
-  - who
-- - companions
-  - asked
-  - me
-- - any
-  - kind
-  - some
 - - there
   - aren't
   - really
 - - screeching
   - would
   - otherwise
-- - they
-  - care
-  - enough
-- - say
-  - about
-  - fort
+- - companions
+  - asked
+  - me
+- - any
+  - kind
+  - some
+- - only
+  - persons
+  - who
 - - whose
   - screeching
   - would
-- - requests
-  - are
-  - based
+- - say
+  - about
+  - fort
 - - fort
   - toity
   - so
+- - they
+  - care
+  - enough
 - - look
   - hoping
   - there
+- - requests
+  - are
+  - based
 - - time
   - could
   - also
@@ -362,27 +362,27 @@ ngrams:
 - - an
   - otter
   - rescue
-- - uncertain
-  - although
-  - an
-- - mean
-  - an
-  - ignorant
 - - one
   - t
   - thurn
+- - mean
+  - an
+  - ignorant
 - - this
   - week's
   - newsletter
+- - uncertain
+  - although
+  - an
 - - one
   - hundred
   - percent
-- - although
-  - an
-  - early
 - - an
   - early
   - form
+- - because
+  - even
+  - if
 story:
   date: 2012-09-15
   id: 2012-09-15-on-your-favourite-forts

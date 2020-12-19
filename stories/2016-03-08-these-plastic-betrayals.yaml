@@ -26,12 +26,12 @@ ngrams:
 - - noddy's
   - cap
   - snagged
-- - shabby
-  - soap
-  - opera
 - - pudding
   - harken
   - harken
+- - shabby
+  - soap
+  - opera
 - - apple
   - lies
   - untouched
@@ -41,21 +41,21 @@ ngrams:
 - - child's
   - toffee
   - apple
-- - harken
-  - child
-  - harken
 - - heronry
   - count
   - pips
-- - child
-  - harken
-  - elspeth
 - - bucket
   - incoherent
   - gibberish
 - - slop
   - bucket
   - incoherent
+- - harken
+  - child
+  - harken
+- - child
+  - harken
+  - elspeth
 - - toffee
   - apple
   - lies
@@ -65,21 +65,18 @@ ngrams:
 - - memory
   - wolves
   - circled
-- - hubert
-  - dear
-  - hubert
 - - final
   - heronry
   - count
+- - hubert
+  - dear
+  - hubert
 - - watch
   - blunkett
   - weeping
 - - grate
   - blunkett
   - seemed
-- - child
-  - preens
-  - near
 - - distant
   - memory
   - wolves
@@ -89,12 +86,15 @@ ngrams:
 - - lovely
   - gunshots
   - breakfast
-- - land
-  - soil
-  - ne'er
 - - hubert
   - oh
   - hubert
+- - child
+  - preens
+  - near
+- - land
+  - soil
+  - ne'er
 - - plastic
   - betrayals
   - oh

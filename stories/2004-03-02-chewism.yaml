@@ -11,9 +11,6 @@ ngrams:
 - - stories
   - chew
   - demonstrated
-- - marigold
-  - chew
-  - '-'
 - - original
   - material
   - sometimes
@@ -29,6 +26,9 @@ ngrams:
 - - too
   - rare
   - critical
+- - marigold
+  - chew
+  - '-'
 - - enterprise
   - adventure
   - being
@@ -44,12 +44,12 @@ ngrams:
 - - critical
   - essays
   - said
-- - her
-  - interstices
-  - appear
 - - story
   - based
   - upon
+- - her
+  - interstices
+  - appear
 - - hooting
   - yard
   - readers
@@ -62,12 +62,12 @@ ngrams:
 - - her
   - own
   - text
-- - where
-  - her
-  - interstices
-- - albatross
-  - where
-  - her
+- - chew
+  - demonstrated
+  - what
+- - results
+  - were
+  - startling
 story:
   date: 2004-03-02
   id: 2004-03-02-chewism

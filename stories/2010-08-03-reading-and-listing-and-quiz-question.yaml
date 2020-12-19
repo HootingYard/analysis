@@ -17,42 +17,39 @@ ngrams:
 - - alas
   - somewhere
   - along
-- - loose
-  - end
-  - note
-- - year
-  - began
-  - since
 - - probably
   - piece
   - together
+- - year
+  - began
+  - since
+- - loose
+  - end
+  - note
 - - week
   - there's
   - something
 - - books
   - she
   - reads
+- - could
+  - thus
+  - reread
 - - wartime
   - housewife
   - has
 - - could
-  - thus
-  - reread
+  - probably
+  - piece
 - - browse
   - back
   - over
-- - could
-  - probably
-  - piece
 - - clarity
   - why
   - do
 - - retain
   - 'no'
   - memory
-- - her
-  - reading
-  - life
 - - 'no'
   - memory
   - whatsoever
@@ -62,27 +59,30 @@ ngrams:
 - - yard
   - could
   - probably
-- - years
-  - she
-  - began
-- - know
-  - she
-  - adds
+- - her
+  - reading
+  - life
 - - what
   - dr
   - alan
-- - i've
-  - been
-  - reading
+- - years
+  - she
+  - began
 - - together
   - what
   - i've
-- - records
-  - were
-  - lost
+- - i've
+  - been
+  - reading
+- - know
+  - she
+  - adds
 - - appears
   - more
   - than
+- - records
+  - were
+  - lost
 - - piece
   - together
   - what
@@ -92,12 +92,12 @@ ngrams:
 - - more
   - than
   - once
-- - which
-  - i'd
-  - concur
 - - recall
   - so
   - vividly
+- - which
+  - i'd
+  - concur
 - - been
   - reading
   - day
@@ -110,21 +110,21 @@ ngrams:
 - - book
   - which
   - appears
-- - about
-  - her
-  - reading
-- - read
-  - since
-  - which
 - - ah
   - where
   - would
+- - read
+  - since
+  - which
+- - about
+  - her
+  - reading
 - - one
   - point
   - calls
-- - had
-  - completely
-  - lost
+- - what
+  - i've
+  - been
 story:
   date: 2010-08-03
   id: 2010-08-03-reading-and-listing-and-quiz-question

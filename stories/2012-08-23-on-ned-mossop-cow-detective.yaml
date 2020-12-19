@@ -8,51 +8,48 @@ ngrams:
 - - j
   - l
   - carr
-- - churchyard
-  - gates
-  - closed
-- - ned
-  - mossop
-  - adored
-- - godforsaken
-  - rustic
-  - backwater
 - - husband
   - mossop
   - raised
-- - slammed
-  - shut
-  - trapping
+- - godforsaken
+  - rustic
+  - backwater
+- - ned
+  - mossop
+  - adored
+- - churchyard
+  - gates
+  - closed
 - - satisfied
   - ned
   - mossop
+- - slammed
+  - shut
+  - trapping
 - - startling
   - simile
   - thank
+- - filthy
+  - coinage
+  - mossop
 - - stiff
   - drink
   - sister
 - - office
   - glugging
   - hooch
-- - filthy
-  - coinage
-  - mossop
-- - ned
-  - mossop
-  - lit
-- - silence
-  - satisfied
-  - ned
 - - yew
   - yew
   - trees
+- - ned
+  - mossop
+  - lit
 - - line
   - snarled
   - mossop
-- - detective
+- - silence
+  - satisfied
   - ned
-  - mossop
 - - help
   - mossop
   - grinned
@@ -62,33 +59,36 @@ ngrams:
 - - open
   - joel
   - cairo
-- - outer
-  - office
+- - detective
   - ned
+  - mossop
 - - cows
   - quit
   - stalling
 - - husband's
   - cows
   - quit
+- - outer
+  - office
+  - ned
 - - dairy
   - cows
   - grazing
 - - herd
   - you're
   - taking
-- - office
-  - ned
-  - there's
 - - police
   - car
   - screeched
-- - cows
-  - grazing
-  - regularly
 - - yew
   - tree
   - pointed
+- - office
+  - ned
+  - there's
+- - cows
+  - grazing
+  - regularly
 - - nine
   - cows
   - perished
@@ -98,12 +98,12 @@ ngrams:
 - - ned
   - mossop
   - sat
-- - mossop
-  - cow
-  - detective
 - - husband's
   - cows
   - died
+- - mossop
+  - cow
+  - detective
 - - cow
   - detective
   - ned
@@ -131,30 +131,30 @@ ngrams:
 - - cows
   - perished
   - why
-- - every
-  - cow
-  - except
+- - please
+  - mr
+  - mossop
 - - girls
   - please
   - mr
-- - please
+- - 'yes'
+  - mr
+  - mossop
+- - every
+  - cow
+  - except
+- - oh
   - mr
   - mossop
 - - made
   - mossop
   - faint
-- - 'yes'
-  - mr
-  - mossop
 - - muck
   - being
   - spread
 - - desk
   - knocked
   - back
-- - oh
-  - mr
-  - mossop
 - - own
   - right
   - white
@@ -164,12 +164,12 @@ ngrams:
 - - perished
   - why
   - why
-- - day
-  - plus
-  - expenses
 - - veil
   - drawn
   - over
+- - day
+  - plus
+  - expenses
 - - why
   - i've
   - come
@@ -188,108 +188,111 @@ ngrams:
 - - hair
   - sometimes
   - through
-- - mossop
-  - she
-  - breathed
 - - sweet
   - like
   - mary
 - - night
   - two
   - cows
-- - her
-  - blue
-  - garments
+- - well
+  - 'yes'
+  - mr
+- - mossop
+  - she
+  - breathed
 - - like
   - mean
   - streets
-- - pumpkin
-  - show
-  - her
 - - mean
   - fields
   - like
 - - fields
   - like
   - mean
-- - mary
-  - her
-  - blue
-- - her
-  - voice
-  - trembling
-- - well
-  - 'yes'
-  - mr
-- - why
-  - why
-  - why
-- - added
-  - her
-  - voice
 - - could
   - help
   - mossop
-- - trundle
+- - why
+  - why
+  - why
+- - her
+  - blue
+  - garments
+- - pumpkin
+  - show
   - her
-  - home
-- - weeks
-  - every
-  - day
 - - much
   - ever
   - happened
+- - her
+  - voice
+  - trembling
+- - mary
+  - her
+  - blue
+- - weeks
+  - every
+  - day
+- - added
+  - her
+  - voice
 - - ever
   - happened
   - here
-- - why
-  - she
-  - collapsed
-- - rather
-  - she
-  - added
-- - shut
-  - trapping
-  - them
-- - i've
-  - come
-  - she
 - - nothing
   - much
   - ever
+- - shut
+  - trapping
+  - them
 - - said
   - well
   - 'yes'
-- - gate
-  - behind
-  - him
-- - mr
-  - mossop
-  - she
+- - trundle
+  - her
+  - home
 - - unloaded
   - their
   - griefs
+- - rather
+  - she
+  - added
 - - grasses
   - unloaded
   - their
-- - her
-  - home
-  - later
+- - why
+  - she
+  - collapsed
+- - gate
+  - behind
+  - him
+- - i've
+  - come
+  - she
+- - mr
+  - mossop
+  - she
 - - its
   - own
   - right
-- - your
-  - husband's
-  - herd
 - - their
   - delicate
   - feet
-- - behind
-  - him
-  - oh
+- - your
+  - husband's
+  - herd
 - - tree
   - pointed
   - up
+- - behind
+  - him
+  - oh
+- - way
+  - then
+  - suddenly
+- - her
+  - home
+  - later
 - - trees
   - your
   - husband's
@@ -299,96 +302,93 @@ ngrams:
 - - actually
   - been
   - stalling
-- - way
-  - then
-  - suddenly
-- - your
-  - husband's
-  - cows
-- - why
-  - why
-  - she
 - - trudging
   - uninvited
   - into
-- - drawn
-  - over
-  - her
 - - time
   - after
   - pm
+- - your
+  - husband's
+  - cows
 - - trembling
   - it's
   - about
-- - your
-  - office
-  - door
-- - she
-  - said
-  - it's
+- - why
+  - why
+  - she
+- - drawn
+  - over
+  - her
 - - released
   - them
   - two
-- - over
-  - her
-  - face
-- - like
-  - mary
-  - her
 - - him
   - oh
   - mr
-- - she
-  - added
-  - her
+- - your
+  - office
+  - door
 - - me
   - trudging
   - uninvited
+- - she
+  - said
+  - it's
 - - startled
   - me
   - trudging
-- - paid
-  - him
-  - only
 - - them
   - two
   - cows
-- - cows
-  - were
-  - already
-- - cows
-  - were
-  - already
-- - were
-  - already
-  - dead
-- - were
-  - already
-  - dead
-- - do
-  - she
-  - delved
-- - all
-  - blue
-  - floating
+- - over
+  - her
+  - face
 - - eyes
   - popped
   - out
 - - cows
-  - got
-  - into
-- - night
-  - anyway
-  - when
-- - mean
-  - fields
-  - all
+  - were
+  - already
+- - cows
+  - were
+  - already
+- - raymond
+  - chandler
+  - would
 - - yew
   - poisoning
   - there
-- - come
+- - night
+  - anyway
+  - when
+- - cows
+  - got
+  - into
+- - were
+  - already
+  - dead
+- - were
+  - already
+  - dead
+- - all
+  - blue
+  - floating
+- - like
+  - mary
+  - her
+- - paid
+  - him
+  - only
+- - mean
+  - fields
+  - all
+- - local
+  - farmer
+  - we
+- - do
   - she
-  - said
+  - delved
 story:
   date: 2012-08-23
   id: 2012-08-23-on-ned-mossop-cow-detective

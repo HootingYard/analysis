@@ -29,45 +29,42 @@ ngrams:
 - - ned
   - ned
   - prick
-- - below
-  - stairs
-  - ned's
+- - sturdy
+  - tree
+  - trunk
+- - sturdy
+  - tree
+  - trunk
 - - hooves
   - ned
   - ned
 - - ned
   - falls
   - asleep
-- - sturdy
-  - tree
-  - trunk
-- - sturdy
-  - tree
-  - trunk
+- - below
+  - stairs
+  - ned's
 - - exhausted
   - collapsed
   - beneath
 - - radio
   - crackles
   - ned
-- - parlour
-  - below
-  - stairs
-- - lonely
-  - road
-  - below
 - - high
   - ridge
   - silhouetted
+- - parlour
+  - below
+  - stairs
 - - bed
   - ned
   - hears
 - - horribly
   - intermingled
   - cows
-- - red
-  - van
-  - chugging
+- - lonely
+  - road
+  - below
 - - preacher
   - man's
   - horse
@@ -80,45 +77,48 @@ ngrams:
 - - secondhand
   - sleeping
   - bag
-- - below
-  - ma
-  - pa
 - - pieced
   - together
   - afterwards
+- - red
+  - van
+  - chugging
+- - below
+  - ma
+  - pa
+- - ridge
+  - silhouetted
+  - against
 - - man's
   - horse
   - exhausted
-- - parents
-  - below
-  - ma
 - - horse
   - exhausted
   - collapsed
-- - dawn
-  - comes
-  - ned
-- - balcony
-  - bed
-  - below
 - - clopping
   - cannot
   - stir
 - - using
   - gathered
   - sticks
-- - ridge
-  - silhouetted
-  - against
+- - dawn
+  - comes
+  - ned
+- - parents
+  - below
+  - ma
+- - balcony
+  - bed
+  - below
+- - tubercular
+  - several
+  - parts
 - - fire
   - using
   - gathered
 - - ned
   - hears
   - nothing
-- - tubercular
-  - several
-  - parts
 - - understood
   - balcony
   - air
@@ -137,15 +137,15 @@ ngrams:
 - - urchin
   - came
   - running
+- - alien
+  - intelligence
+  - far
 - - birds
   - fall
   - silent
 - - heavens
   - without
   - fear
-- - alien
-  - intelligence
-  - far
 - - fiery
   - forge
   - while
@@ -158,6 +158,9 @@ ngrams:
 - - come
   - clopping
   - cannot
+- - valley
+  - ned's
+  - head
 - - preacher
   - man
   - pissed
@@ -179,9 +182,6 @@ ngrams:
 - - little
   - red
   - van
-- - valley
-  - ned's
-  - head
 - - preacher
   - man
   - stood
@@ -191,21 +191,21 @@ ngrams:
 - - lived
   - musing
   - over
-- - moon
-  - looked
-  - down
 - - intelligence
   - far
   - away
-- - alpine
-  - slope
-  - she
+- - moon
+  - looked
+  - down
 - - antarctic
   - explorer
   - then
 - - villagers
   - trembled
   - then
+- - alpine
+  - slope
+  - she
 - - some
   - alien
   - intelligence
@@ -215,30 +215,27 @@ ngrams:
 - - collapsed
   - beneath
   - him
-- - makes
-  - him
-  - cough
 - - first
   - very
   - quiet
+- - makes
+  - him
+  - cough
 - - calling
   - makes
   - him
-- - her
-  - own
-  - demented
 - - gives
   - them
   - names
 - - shouted
   - 'no'
   - imprecations
+- - her
+  - own
+  - demented
 - - ned
   - prick
   - up
-- - their
-  - parlour
-  - below
 - - ears
   - pricked
   - up
@@ -246,92 +243,95 @@ ngrams:
   - longer
   - visible
 - - their
+  - parlour
+  - below
+- - their
   - radio
   - listening
 - - been
   - inaudible
   - due
-- - simple
-  - home
-  - has
 - - preacher
   - man
   - could
 - - their
   - eyes
   - peeled
+- - simple
+  - home
+  - has
 - - man
   - could
   - gaze
-- - huddle
-  - around
-  - their
 - - together
   - afterwards
   - what
 - - looked
   - down
   - upon
+- - huddle
+  - around
+  - their
 - - their
   - simple
   - home
 - - keep
   - their
   - eyes
+- - man's
+  - horse
+  - when
 - - stared
   - instead
   - into
 - - around
   - their
   - radio
-- - man's
-  - horse
-  - when
+- - high
+  - ridge
+  - out
 - - tin
   - cup
   - into
 - - all
   - horribly
   - intermingled
-- - high
-  - ridge
-  - out
 - - them
   - long
   - ago
-- - birds
-  - were
-  - twittering
-- - ashes
-  - birds
-  - were
 - - they
   - understood
   - balcony
+- - birds
+  - were
+  - twittering
 - - ned
   - coughs
   - there
+- - ashes
+  - birds
+  - were
 - - poultry
   - they
   - keep
-- - crackles
-  - which
-  - interrupt
 - - must
   - listen
   - out
-- - man
-  - pissed
-  - into
+- - crackles
+  - which
+  - interrupt
 - - hooves
   - should
   - they
-- - they
-  - come
-  - clopping
+- - man
+  - pissed
+  - into
 - - longer
   - visible
   - so
+- - they
+  - come
+  - clopping
 - - could
   - gaze
   - up
@@ -347,87 +347,87 @@ ngrams:
 - - should
   - they
   - come
-- - has
-  - been
-  - shod
 - - they
   - run
   - down
+- - has
+  - been
+  - shod
 - - down
   - upon
   - him
+- - if
+  - some
+  - alien
+- - like
+  - all
+  - men
 - - horse
   - has
   - been
 - - had
   - specific
   - sets
-- - like
-  - all
-  - men
-- - if
-  - some
-  - alien
-- - parents
-  - had
-  - listened
 - - prick
   - up
   - your
+- - parents
+  - had
+  - listened
+- - where
+  - they
+  - put
 - - she
   - would
   - greet
 - - slope
   - she
   - would
+- - trunk
+  - but
+  - weakly
 - - had
   - pieced
   - together
-- - where
-  - they
-  - put
 - - up
   - your
   - ears
 - - stars
   - were
   - 'no'
+- - tree
+  - trunk
+  - but
 - - were
   - 'no'
   - longer
-- - trunk
-  - but
-  - weakly
-- - once
-  - had
-  - belonged
 - - put
   - him
   - out
 - - ned
   - wakes
   - from
+- - hears
+  - nothing
+  - but
+- - once
+  - had
+  - belonged
 - - alien
   - beings
   - from
-- - tree
-  - trunk
-  - but
 - - all
   - their
   - songs
+- - florid
+  - farrier
+  - at
 - - their
   - poultry
   - they
 - - they
   - put
   - him
-- - florid
-  - farrier
-  - at
-- - hears
-  - nothing
-  - but
 story:
   date: 2012-04-28
   id: 2012-04-28-on-the-clopping-of-hooves

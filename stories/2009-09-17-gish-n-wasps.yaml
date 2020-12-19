@@ -1,31 +1,31 @@
 ngrams:
-- - anecdotal
-  - material
-  - linking
 - - linking
   - googie
   - withers
+- - anecdotal
+  - material
+  - linking
+- - material
+  - linking
+  - googie
 - - employment
   - nevertheless
   - bloody
 - - involving
   - ectoplasmic
   - bee
-- - material
-  - linking
-  - googie
-- - useful
-  - employment
-  - nevertheless
 - - fuming
   - brains
   - careening
-- - ectoplasmic
-  - bee
-  - goo
+- - useful
+  - employment
+  - nevertheless
 - - undoubtedly
   - fictitious
   - merely
+- - ectoplasmic
+  - bee
+  - goo
 - - picnic
   - conversely
   - conversely
@@ -71,9 +71,9 @@ ngrams:
 - - about
   - tallulah
   - bankhead
-- - dobson
-  - once
-  - said
+- - talking
+  - about
+  - tallulah
 story:
   date: 2009-09-17
   id: 2009-09-17-gish-n-wasps

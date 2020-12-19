@@ -8,33 +8,15 @@ ngrams:
 - - transformation
   - wreaked
   - overnight
-- - claude
-  - grimes
-  - recruited
 - - grimes
   - recruited
   - pook
 - - necessarily
   - impart
   - grooviness
-- - pulsating
-  - rhythm
-  - orchestra
-- - pulsating
-  - rhythm
-  - orchestra
-- - pulsating
-  - rhythm
-  - orchestra
-- - pulsating
-  - rhythm
-  - orchestra
-- - pulsating
-  - rhythm
-  - orchestra
-- - pulsating
-  - rhythm
-  - orchestra
+- - claude
+  - grimes
+  - recruited
 - - impeccably
   - groovy
   - pook
@@ -44,6 +26,24 @@ ngrams:
 - - bongos
   - inherently
   - groovy
+- - pulsating
+  - rhythm
+  - orchestra
+- - pulsating
+  - rhythm
+  - orchestra
+- - pulsating
+  - rhythm
+  - orchestra
+- - pulsating
+  - rhythm
+  - orchestra
+- - pulsating
+  - rhythm
+  - orchestra
+- - pulsating
+  - rhythm
+  - orchestra
 - - groovy
   - claude
   - grimes
@@ -62,48 +62,48 @@ ngrams:
 - - leave
   - claude
   - grimes
-- - claude
-  - grimes
-  - trying
 - - barely
   - visible
   - speck
-- - victorian
-  - jesuit
-  - poet
+- - claude
+  - grimes
+  - trying
 - - received
   - wisdom
   - bongos
-- - somewhat
-  - starchy
-  - figure
 - - lineup
   - either
   - claude
-- - inherently
-  - groovy
-  - it's
-- - rhythm
-  - orchestra
-  - became
+- - victorian
+  - jesuit
+  - poet
 - - either
   - claude
   - grimes
+- - somewhat
+  - starchy
+  - figure
 - - reflected
   - grooviness
   - simply
+- - inherently
+  - groovy
+  - it's
+- - groovy
+  - bongos
+  - either
+- - rhythm
+  - orchestra
+  - became
+- - rhythm
+  - orchestra
+  - itself
 - - became
   - groovy
   - claude
 - - orchestra
   - became
   - groovy
-- - groovy
-  - bongos
-  - either
-- - rhythm
-  - orchestra
-  - itself
 - - become
   - groovy
   - pook
@@ -131,57 +131,57 @@ ngrams:
 - - claude
   - grimes
   - himself
-- - name
-  - gerard
-  - manley
 - - once
   - impeccably
   - groovy
+- - name
+  - gerard
+  - manley
 - - neither
   - knowing
   - nor
-- - groovy
-  - bongos
-  - while
 - - added
   - bongos
   - yet
-- - these
-  - divergent
-  - trajectories
+- - groovy
+  - bongos
+  - while
 - - propel
   - myself
   - further
-- - lost
-  - every
-  - atom
 - - quite
   - enough
   - grooviness
+- - these
+  - divergent
+  - trajectories
+- - lost
+  - every
+  - atom
 - - fantasticness
   - must
   - become
-- - take
-  - certain
-  - steps
-- - must
-  - become
-  - groovy
 - - new
   - lineup
   - either
-- - still
-  - loitering
-  - full
+- - must
+  - become
+  - groovy
+- - take
+  - certain
+  - steps
 - - scratchy
   - old
   - s
-- - good
-  - name
-  - gerard
+- - still
+  - loitering
+  - full
 - - becomes
   - groovy
   - just
+- - good
+  - name
+  - gerard
 - - become
   - ever
   - groovier
@@ -197,12 +197,12 @@ ngrams:
 - - behind
   - these
   - divergent
-- - grooviest
-  - person
-  - ever
 - - never
   - sat
   - comfortably
+- - grooviest
+  - person
+  - ever
 - - grooviness
   - never
   - sat
@@ -212,21 +212,24 @@ ngrams:
 - - manley
   - hopkins
   - where
-- - old
-  - s
-  - today
-- - recording
-  - studio
-  - where
 - - themselves
   - much
   - less
-- - reaches
-  - its
-  - apogee
+- - recording
+  - studio
+  - where
+- - old
+  - s
+  - today
+- - bongos
+  - depends
+  - upon
 - - very
   - same
   - lobbies
+- - reaches
+  - its
+  - apogee
 - - very
   - same
   - talent
@@ -239,101 +242,95 @@ ngrams:
 - - groovy
   - other
   - factors
-- - bongos
-  - depends
+- - starchy
+  - figure
   - upon
 - - become
   - even
   - groovier
-- - starchy
-  - figure
-  - upon
-- - pass
-  - himself
-  - 'off'
-- - leaden
-  - ironically
-  - then
 - - much
   - less
   - does
-- - note
-  - here
-  - however
-- - why
-  - shortly
-  - after
+- - leaden
+  - ironically
+  - then
+- - pass
+  - himself
+  - 'off'
 - - figure
   - upon
   - whom
-- - those
-  - scratchy
-  - old
-- - grimes
-  - himself
-  - did
-- - dispute
-  - just
-  - how
+- - why
+  - shortly
+  - after
+- - note
+  - here
+  - however
+- - combo
+  - even
+  - though
+- - bongos
+  - even
+  - though
 - - could
   - give
   - vent
 - - today
   - could
   - dispute
+- - grimes
+  - himself
+  - did
+- - those
+  - scratchy
+  - old
+- - dispute
+  - just
+  - how
 - - just
   - how
   - groovy
-- - combo
-  - even
-  - though
 - - years
   - after
   - hopkins
-- - bongos
-  - even
-  - though
-- - name
-  - like
-  - pook
 - - too
   - did
   - pook
-- - hundred
-  - years
-  - after
 - - s
   - today
   - could
+- - hundred
+  - years
+  - after
+- - name
+  - like
+  - pook
 - - grooviness
   - few
   - could
 - - claude
   - grimes
   - 'no'
-- - certain
-  - alchemy
-  - has
 - - their
   - newfound
   - grooviness
+- - certain
+  - alchemy
+  - has
 - - match
   - up
   - groovy
-- - persons
-  - who
-  - passed
-- - latter
-  - snapping
-  - up
 - - few
   - could
   - hear
+- - latter
+  - snapping
+  - up
+- - persons
+  - who
+  - passed
 - - young
   - persons
-  - who
-- - nor
-  - caring
   - who
 - - their
   - combos
@@ -341,9 +338,9 @@ ngrams:
 - - could
   - dispute
   - just
-- - were
-  - grooviness
-  - incarnate
+- - nor
+  - caring
+  - who
 - - wreaked
   - overnight
   - when
@@ -353,6 +350,9 @@ ngrams:
 - - when
   - claude
   - grimes
+- - were
+  - grooviness
+  - incarnate
 - - bongos
   - were
   - added
@@ -371,9 +371,9 @@ ngrams:
 - - fantasticness
   - so
   - dizzyingly
-- - myself
-  - further
-  - into
+- - bongos
+  - so
+  - pook
 story:
   date: 2012-02-04
   id: 2012-02-04-on-groovy-bongos

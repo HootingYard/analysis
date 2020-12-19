@@ -5,27 +5,27 @@ ngrams:
 - - nincompoop
   - wannabe
   - historians
-- - performances
-  - oft
-  - repeated
 - - technologically
   - primitive
   - compared
-- - rosary
-  - beads
-  - displaying
 - - manager
   - colonel
   - tom
+- - performances
+  - oft
+  - repeated
+- - rosary
+  - beads
+  - displaying
 - - genius
   - crowds
   - thronged
-- - outstretched
-  - faintly
-  - holy
 - - greatest
   - popularity
   - roughly
+- - outstretched
+  - faintly
+  - holy
 - - terrific
   - personal
   - hygiene
@@ -35,57 +35,51 @@ ngrams:
 - - action
   - painting
   - technique
-- - slapdash
-  - eating
-  - habits
 - - investigative
   - variety
   - theatre
+- - slapdash
+  - eating
+  - habits
 - - variety
   - theatre
   - aficionado
 - - stage
   - initially
   - pristine
+- - resort
+  - reporter
+  - claimed
 - - successful
   - variety
   - acts
 - - variety
   - theatre
   - reporter
-- - resort
-  - reporter
-  - claimed
 - - arms
   - outstretched
   - faintly
-- - soup
-  - ketchup
-  - ad
-- - meat
-  - soup
-  - ketchup
 - - fairly
   - enchanting
   - act
-- - decisive
-  - role
-  - played
 - - flung
   - foreign
   - parts
-- - jesuit
-  - managed
-  - miraculously
+- - soup
+  - ketchup
+  - ad
+- - decisive
+  - role
+  - played
 - - daily
   - voodoo
   - dolly
-- - theatre
-  - reporter
-  - john
-- - allowed
-  - various
-  - stains
+- - meat
+  - soup
+  - ketchup
+- - jesuit
+  - managed
+  - miraculously
 - - seaside
   - resort
   - reporter
@@ -95,6 +89,12 @@ ngrams:
 - - colonel
   - instead
   - appended
+- - allowed
+  - various
+  - stains
+- - theatre
+  - reporter
+  - john
 - - seaside
   - variety
   - theatre
@@ -107,39 +107,39 @@ ngrams:
 - - scurrilous
   - newspaper
   - story
+- - rapturous
+  - applause
+  - key
+- - single
+  - particular
+  - individual
 - - jesuit
   - simply
   - stood
 - - simply
   - allowed
   - various
-- - single
-  - particular
-  - individual
-- - rapturous
-  - applause
-  - key
 - - different
   - act
   - involving
-- - rival
-  - act
-  - known
 - - single
   - seaside
   - resort
-- - variety
-  - theatre
-  - went
+- - rival
+  - act
+  - known
 - - completely
   - different
   - act
-- - few
-  - appearances
-  - billed
+- - variety
+  - theatre
+  - went
 - - painting
   - technique
   - without
+- - few
+  - appearances
+  - billed
 - - whatever
   - foodstuffs
   - came
@@ -158,12 +158,12 @@ ngrams:
 - - still
   - arms
   - outstretched
-- - most
-  - successful
-  - variety
 - - stock
   - still
   - arms
+- - most
+  - successful
+  - variety
 - - witnessed
   - these
   - preparations
@@ -191,39 +191,18 @@ ngrams:
 - - our
   - seaside
   - resort
-- - name
-  - still
-  - remains
 - - ever
   - hear
   - tell
-- - our
-  - blessed
-  - land
-- - displaying
-  - her
-  - stains
-- - personal
-  - hygiene
-  - she
-- - beads
-  - displaying
-  - her
 - - blank
   - slate
   - upon
-- - her
-  - rosary
-  - beads
-- - clutching
-  - her
-  - rosary
-- - devotion
-  - clutching
-  - her
-- - gritted
-  - her
-  - teeth
+- - name
+  - still
+  - remains
+- - our
+  - blessed
+  - land
 - - own
   - era
   - how
@@ -233,78 +212,99 @@ ngrams:
 - - technique
   - without
   - first
-- - whose
-  - name
-  - still
-- - seven
-  - other
-  - jesuits
-- - first
-  - few
-  - appearances
 - - anybody
   - could
   - achieve
-- - her
-  - fried
-  - breakfast
+- - first
+  - few
+  - appearances
+- - seven
+  - other
+  - jesuits
+- - whose
+  - name
+  - still
+- - personal
+  - hygiene
+  - she
+- - displaying
+  - her
+  - stains
 - - ever
   - witnessed
   - these
+- - beads
+  - displaying
+  - her
+- - her
+  - rosary
+  - beads
 - - before
   - each
   - performance
+- - clutching
+  - her
+  - rosary
 - - our
   - own
   - era
+- - devotion
+  - clutching
+  - her
 - - do
   - originally
   - posted
+- - gritted
+  - her
+  - teeth
 - - immediately
   - before
   - each
-- - man
-  - whose
-  - name
-- - she
-  - later
-  - achieved
+- - rather
+  - than
+  - ditch
 - - just
   - how
   - impoverished
 - - register
   - just
   - how
-- - rather
-  - than
-  - ditch
-- - audience
-  - pelting
-  - him
+- - her
+  - fried
+  - breakfast
+- - man
+  - whose
+  - name
 - - years
   - before
   - finding
-- - least
-  - seven
-  - other
 - - without
   - first
   - having
+- - audience
+  - pelting
+  - him
+- - least
+  - seven
+  - other
+- - she
+  - later
+  - achieved
 - - six
   - years
   - before
-- - kafka
-  - who
-  - simply
 - - over
   - six
   - years
-- - who
+- - kafka
+  - who
   - simply
-  - allowed
 - - frills
   - 'no'
   - business
+- - who
+  - simply
+  - allowed
 - - jesuits
   - who
   - took
@@ -320,105 +320,105 @@ ngrams:
 - - carried
   - out
   - backstage
-- - she
-  - gritted
-  - her
-- - upon
-  - her
-  - habit
 - - remember
   - when
   - communications
-- - fall
-  - upon
-  - her
 - - adoring
   - public
   - all
+- - upon
+  - her
+  - habit
 - - all
   - reasonable
   - doubt
-- - beyond
-  - all
-  - reasonable
-- - man
-  - who
-  - knew
 - - nothing
   - more
   - than
-- - her
-  - she
-  - later
+- - fall
+  - upon
+  - her
+- - beyond
+  - all
+  - reasonable
 - - stood
   - there
   - stock
 - - we
   - lose
   - sight
-- - who
-  - first
-  - saw
-- - country
-  - they
-  - ask
+- - curtains
+  - would
+  - close
+- - she
+  - gritted
+  - her
+- - would
+  - chuck
+  - eggs
 - - gnat
   - we
   - ought
 - - curtains
   - would
-  - close
-- - curtains
-  - would
   - open
-- - other
-  - jesuits
+- - country
+  - they
+  - ask
+- - man
   - who
-- - would
-  - chuck
-  - eggs
+  - knew
+- - who
+  - first
+  - saw
 - - simply
   - stood
   - there
 - - so
   - wildly
   - popular
-- - own
-  - country
-  - they
+- - other
+  - jesuits
+  - who
 - - world
   - we
   - fail
-- - years
-  - remember
-  - when
+- - her
+  - she
+  - later
+- - jesuit
+  - though
+  - there
+- - own
+  - country
+  - they
 - - anonymity
   - we
   - still
 - - there
   - stock
   - still
-- - jesuit
-  - though
-  - there
+- - years
+  - remember
+  - when
 - - how
   - impoverished
   - we
-- - an
-  - adoring
-  - public
 - - era
   - how
   - would
+- - an
+  - adoring
+  - public
 - - an
   - accident
   - picnic
 - - jesuits
   - this
   - charge
-- - 'no'
-  - frills
-  - 'no'
+- - variety
+  - theatre
+  - this
 story:
   date: 2017-08-26
   id: 2017-08-26-the-world-famous-food-splattered-jesuit

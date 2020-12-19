@@ -8,12 +8,12 @@ ngrams:
 - - solid
   - forms
   - albeit
-- - hotel
-  - striding
-  - purposefully
 - - devil
   - shifts
   - shape
+- - hotel
+  - striding
+  - purposefully
 - - hermit's
   - simple
   - needs
@@ -35,24 +35,24 @@ ngrams:
 - - striding
   - purposefully
   - across
+- - considered
+  - carving
+  - myself
 - - forms
   - albeit
   - tiny
 - - twig
   - lately
   - things
-- - considered
-  - carving
-  - myself
-- - albeit
-  - tiny
-  - ones
 - - tentatively
   - hoping
   - perhaps
 - - bears
   - himself
   - inspired
+- - albeit
+  - tiny
+  - ones
 - - art
   - bears
   - himself
@@ -65,18 +65,18 @@ ngrams:
 - - fresh
   - water
   - every
-- - many
-  - guises
-  - since
 - - fish
   - might
   - swim
-- - hermitage
-  - its
-  - glades
+- - many
+  - guises
+  - since
 - - car
   - park
   - even
+- - hermitage
+  - its
+  - glades
 - - simple
   - needs
   - such
@@ -95,27 +95,36 @@ ngrams:
 - - than
   - going
   - rub
-- - know
-  - makes
-  - work
-- - every
-  - day
-  - persistently
-- - pebble
-  - every
-  - day
-- - squirrels
-  - do
-  - approach
 - - might
   - yet
   - embark
-- - some
-  - toasted
-  - fish
+- - every
+  - day
+  - persistently
+- - squirrels
+  - do
+  - approach
+- - know
+  - makes
+  - work
+- - pebble
+  - every
+  - day
 - - tiny
   - ones
   - such
+- - even
+  - though
+  - squirrels
+- - devil
+  - even
+  - though
+- - some
+  - toasted
+  - fish
+- - yet
+  - embark
+  - upon
 - - him
   - loudly
   - waving
@@ -125,54 +134,45 @@ ngrams:
 - - approach
   - him
   - tentatively
-- - even
-  - though
-  - squirrels
-- - devil
-  - even
-  - though
 - - devil
   - has
   - entered
-- - yet
-  - embark
-  - upon
 - - devil
   - has
   - appeared
-- - water
-  - every
-  - now
 - - though
   - squirrels
   - do
+- - water
+  - every
+  - now
 - - must
   - shun
   - them
-- - powers
-  - were
-  - weak
 - - shun
   - them
   - too
+- - powers
+  - were
+  - weak
 - - taps
   - out
   - messages
-- - after
-  - some
-  - toasted
-- - supper
-  - after
-  - some
+- - more
+  - diverting
+  - than
 - - occasionally
   - taps
   - out
 - - devil
   - will
   - tire
-- - more
-  - diverting
-  - than
+- - after
+  - some
+  - toasted
+- - supper
+  - after
+  - some
 - - can
   - remember
   - how
@@ -209,12 +209,12 @@ ngrams:
 - - an
   - electronic
   - device
-- - things
-  - which
-  - provide
 - - nights
   - are
   - long
+- - things
+  - which
+  - provide
 - - vaporous
   - mist
   - this
@@ -236,39 +236,42 @@ ngrams:
 - - devil
   - who
   - we
-- - rub
-  - rub
-  - at
 - - have
   - considered
   - carving
+- - rub
+  - rub
+  - at
+- - too
+  - or
+  - risk
 - - would
   - 'no'
   - longer
 - - dare
   - not
   - rush
-- - too
-  - or
-  - risk
-- - most
-  - irritating
-  - but
 - - nut
   - or
   - two
-- - swim
-  - by
-  - deploying
-- - lately
-  - things
-  - have
-- - things
-  - have
-  - entered
+- - most
+  - irritating
+  - but
 - - discover
   - if
   - there
+- - lately
+  - things
+  - have
+- - swim
+  - by
+  - deploying
+- - things
+  - have
+  - entered
+- - squirrels
+  - but
+  - now
 - - who
   - we
   - know
@@ -278,9 +281,6 @@ ngrams:
 - - himself
   - inspired
   - by
-- - squirrels
-  - but
-  - now
 story:
   date: 2010-07-26
   id: 2010-07-26-the-hermit-of-the-dingly-dell

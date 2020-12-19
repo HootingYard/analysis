@@ -62,12 +62,12 @@ ngrams:
 - - correct
   - little
   - severin
-- - severin
-  - dear
-  - hooting
 - - proved
   - correct
   - little
+- - severin
+  - dear
+  - hooting
 - - little
   - severin
   - dear
@@ -83,9 +83,6 @@ ngrams:
 - - any
   - useful
   - predictions
-- - cops
-  - she
-  - accepted
 - - making
   - any
   - useful
@@ -95,48 +92,51 @@ ngrams:
 - - small
   - mammals
   - where
+- - cops
+  - she
+  - accepted
+- - am
+  - deeply
+  - worried
 - - paragraph
   - our
   - tiny
 - - our
   - tiny
   - badger
-- - dear
-  - hooting
-  - yard
 - - issued
   - soon
   - now
-- - am
-  - deeply
-  - worried
-- - severin
-  - has
-  - suffered
+- - dear
+  - hooting
+  - yard
 - - fate
   - please
   - can
+- - severin
+  - has
+  - suffered
+- - puzzled
+  - over
+  - first
 - - content
   - indeed
   - she
 - - library
   - under
   - her
-- - puzzled
-  - over
-  - first
-- - mrs
-  - gubbins
-  - who
 - - gobbling
   - up
   - grubs
-- - their
-  - wing
-  - june
 - - twigs
   - gobbling
   - up
+- - their
+  - wing
+  - june
+- - mrs
+  - gubbins
+  - who
 story:
   date: 2004-08-03
   id: 2004-08-03-where-is-little-severin

@@ -2,15 +2,6 @@ ngrams:
 - - briefing
   - danish
   - briefing
-- - spin
-  - doctor
-  - danish
-- - doctor
-  - danish
-  - spin
-- - danish
-  - spin
-  - doctor
 - - briefing
   - english
   - spin
@@ -23,6 +14,15 @@ ngrams:
 - - competition
   - danish
   - wet
+- - spin
+  - doctor
+  - danish
+- - doctor
+  - danish
+  - spin
+- - danish
+  - spin
+  - doctor
 - - girl
   - power
   - danish

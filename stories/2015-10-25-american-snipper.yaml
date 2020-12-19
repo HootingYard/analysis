@@ -17,12 +17,12 @@ ngrams:
 - - bird
   - clint
   - eastwood
-- - killer
-  - bird
-  - clint
 - - single
   - movie
   - entitled
+- - killer
+  - bird
+  - clint
 - - project
   - rather
   - excitingly
@@ -35,12 +35,12 @@ ngrams:
 - - next
   - project
   - rather
+- - rather
+  - than
+  - making
 - - clint
   - eastwood
   - has
-- - eastwood
-  - has
-  - announced
 story:
   date: 2015-10-25
   id: 2015-10-25-american-snipper

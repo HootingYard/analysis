@@ -2,24 +2,24 @@ ngrams:
 - - alarm
   - clock
   - jangled
-- - experimental
-  - treatment
-  - proved
 - - polka
   - dot
   - dress
 - - dot
   - dress
   - dragging
+- - experimental
+  - treatment
+  - proved
 - - limb
   - permanently
   - apart
-- - proved
-  - highly
-  - efficacious
 - - plucky
   - fascist
   - tot
+- - proved
+  - highly
+  - efficacious
 - - treatment
   - proved
   - highly
@@ -41,42 +41,42 @@ ngrams:
 - - fascists
   - film
   - festival
-- - daily
-  - gas
-  - baths
 - - dress
   - dragging
   - behind
+- - daily
+  - gas
+  - baths
 - - smashing
   - crockery
   - however
 - - plovdiv
   - clomping
   - along
+- - dragged
+  - myself
+  - downstairs
 - - hot
   - water
   - pumped
 - - piping
   - hot
   - water
-- - dragged
-  - myself
-  - downstairs
-- - dotage
-  - tiny
-  - enid
 - - splendidly
   - appropriate
   - name
+- - dotage
+  - tiny
+  - enid
 - - tiny
   - enid
   - recalled
-- - tiny
-  - fascists
-  - film
 - - kept
   - myself
   - awake
+- - tiny
+  - fascists
+  - film
 - - recent
   - old
   - scratchy
@@ -92,15 +92,15 @@ ngrams:
 - - entirely
   - new
   - type
-- - old
-  - scratchy
-  - black
-- - old
-  - scratchy
-  - black
 - - necessity
   - take
   - place
+- - old
+  - scratchy
+  - black
+- - old
+  - scratchy
+  - black
 - - being
   - fully
   - sound
@@ -116,21 +116,12 @@ ngrams:
 - - crockery
   - however
   - even
-- - rotating
-  - withers
-  - then
-- - her
-  - club
-  - foot
 - - poet
   - might
   - put
-- - dragging
-  - behind
-  - her
-- - her
-  - memoirs
-  - written
+- - rotating
+  - withers
+  - then
 - - next
   - day
   - tuesday
@@ -140,57 +131,75 @@ ngrams:
 - - withered
   - every
   - day
+- - her
+  - club
+  - foot
+- - her
+  - memoirs
+  - written
+- - dragging
+  - behind
+  - her
 - - made
   - each
   - morning
+- - might
+  - ever
+  - return
 - - her
   - dotage
   - tiny
 - - water
   - pumped
   - some
-- - might
-  - ever
-  - return
 - - enid
   - recalled
   - what
 - - splashed
   - about
   - playing
-- - could
-  - only
-  - remain
 - - turn
   - about
   - limb
-- - her
-  - her
-  - club
-- - clock
-  - jangled
-  - me
+- - could
+  - only
+  - remain
 - - jangled
   - me
   - awake
+- - clock
+  - jangled
+  - me
 - - saturday
   - morning
   - when
-- - behind
+- - her
   - her
-  - her
+  - club
 - - four
   - limbs
   - would
 - - each
   - morning
   - when
+- - behind
+  - her
+  - her
 - - me
   - three
   - times
 - - right
   - leg
   - which
+- - many
+  - girlies
+  - would
+- - did
+  - wonder
+  - if
+- - then
+  - splashed
+  - about
 - - what
   - she
   - dubbed
@@ -200,45 +209,36 @@ ngrams:
 - - an
   - added
   - boon
-- - then
-  - splashed
-  - about
-- - many
-  - girlies
-  - would
-- - did
-  - wonder
-  - if
 - - this
   - withering
   - lasted
 - - this
   - experimental
   - treatment
-- - either
-  - an
-  - arm
 - - rotating
   - withers
   - this
 - - withered
   - this
   - withering
-- - made
-  - me
-  - three
-- - half
+- - either
   - an
-  - hour
+  - arm
 - - withered
   - leg
   - this
-- - new
-  - gas
-  - which
+- - so
+  - many
+  - girlies
 - - leg
   - this
   - latter
+- - made
+  - me
+  - three
+- - this
+  - latter
+  - detail
 story:
   date: 2013-06-19
   id: 2013-06-19-rotating-withers

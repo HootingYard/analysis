@@ -1,10 +1,10 @@
 ngrams:
-- - grip
-  - tracksuit
-  - museum
 - - industrial
   - funnel
   - manufacturing
+- - grip
+  - tracksuit
+  - museum
 - - funnel
   - manufacturing
   - compound
@@ -32,12 +32,12 @@ ngrams:
 - - tuesday
   - dawned
   - however
-- - wrote
-  - hunched
-  - among
 - - air
   - grew
   - cold
+- - wrote
+  - hunched
+  - among
 - - somewhat
   - better
   - able
@@ -47,45 +47,48 @@ ngrams:
 - - days
   - both
   - vocally
-- - care
-  - two
-  - pins
 - - vim
   - yet
   - within
 - - described
   - being
   - hunched
-- - two
-  - different
-  - statues
+- - care
+  - two
+  - pins
 - - particular
   - morning
   - though
-- - hunched
-  - among
-  - these
-- - hunched
-  - among
-  - these
 - - two
-  - decades
-  - ago
+  - different
+  - statues
+- - hunched
+  - among
+  - these
+- - hunched
+  - among
+  - these
 - - being
   - hunched
   - among
+- - two
+  - decades
+  - ago
 - - didn't
   - really
   - know
-- - fraud
-  - like
-  - tv
-- - like
-  - tv
-  - psychologist
 - - magnificent
   - upland
   - upon
+- - like
+  - tv
+  - psychologist
+- - fraud
+  - like
+  - tv
+- - am
+  - enthusiastic
+  - annoyingly
 - - found
   - myself
   - once
@@ -95,57 +98,57 @@ ngrams:
 - - myself
   - once
   - again
-- - whom
-  - live
-  - like
-- - am
-  - enthusiastic
-  - annoyingly
 - - time
   - tuesday
   - dawned
-- - level
-  - crossings
-  - some
+- - whom
+  - live
+  - like
 - - grew
   - cold
   - then
-- - needed
+- - level
+  - crossings
   - some
-  - fresh
 - - cold
   - then
   - hot
-- - before
-  - two
-  - decades
 - - those
   - days
   - both
+- - needed
+  - some
+  - fresh
 - - blather
   - more
   - often
-- - mystic
-  - who
-  - dwells
-- - like
-  - most
-  - mystics
+- - before
+  - two
+  - decades
 - - am
   - somewhat
   - better
-- - canal
-  - just
-  - before
-- - canal
-  - just
-  - before
+- - mystic
+  - who
+  - dwells
 - - usually
   - decline
   - them
+- - canal
+  - just
+  - before
+- - canal
+  - just
+  - before
 - - 'no'
   - expert
   - whistler
+- - many
+  - such
+  - calls
+- - like
+  - most
+  - mystics
 - - their
   - debut
   - ep
@@ -155,9 +158,6 @@ ngrams:
 - - some
   - fresh
   - air
-- - many
-  - such
-  - calls
 - - sitting
   - up
   - studying
@@ -185,87 +185,72 @@ ngrams:
 - - experience
   - escaped
   - me
-- - other
-  - mystics
-  - some
-- - level
-  - crossing
-  - there
 - - taking
   - part
   - if
+- - level
+  - crossing
+  - there
 - - more
   - often
   - than
-- - live
-  - like
-  - him
+- - other
+  - mystics
+  - some
 - - then
   - before
   - too
-- - two
-  - pins
-  - about
 - - enthusiastic
   - annoyingly
   - so
+- - two
+  - pins
+  - about
+- - live
+  - like
+  - him
+- - much
+  - more
+  - than
 - - said
   - forget
   - what
 - - say
   - much
   - has
-- - really
-  - know
-  - what
-- - much
-  - more
-  - than
 - - so
   - hunched
   - among
+- - really
+  - know
+  - what
 - - am
   - 'no'
   - expert
+- - again
+  - so
+  - hunched
 - - whom
   - are
   - dead
 - - an
   - incorrigible
   - plagiarist
-- - again
-  - so
-  - hunched
-- - see
-  - there
-  - really
 - - do
   - much
   - more
-- - are
-  - dead
-  - yet
+- - see
+  - there
+  - really
 - - can
   - prance
   - if
+- - are
+  - dead
+  - yet
 - - once
   - again
   - so
-- - been
-  - sitting
-  - up
-- - this
-  - particular
-  - morning
-- - me
-  - before
-  - two
-- - upland
-  - upon
-  - which
-- - we
-  - can
-  - prance
 - - sycamore
   - or
   - yew
@@ -275,36 +260,51 @@ ngrams:
 - - occasional
   - sycamore
   - or
-- - global
-  - warming
-  - but
-- - unclear
-  - about
-  - what
+- - this
+  - particular
+  - morning
 - - somehow
   - dissolved
   - or
+- - been
+  - sitting
+  - up
 - - or
   - yew
   - tree
+- - we
+  - can
+  - prance
+- - global
+  - warming
+  - but
+- - me
+  - before
+  - two
+- - upland
+  - upon
+  - which
+- - unclear
+  - about
+  - what
+- - do
+  - so
+  - takes
 - - mystic
   - pronouncements
   - from
 - - earth
   - upon
   - which
-- - do
-  - so
-  - takes
 - - tendrils
   - have
   - swarmed
 - - throwing
   - pebbles
   - at
-- - are
-  - many
-  - such
+- - have
+  - swarmed
+  - across
 story:
   date: 2008-06-25
   id: 2008-06-25-hunched-among-these-shimmerings

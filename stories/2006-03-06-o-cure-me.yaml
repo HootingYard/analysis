@@ -1,76 +1,76 @@
 ngrams:
-- - complaints
-  - rheumatism
-  - scurvy
 - - weakness
   - heaviness
   - dimness
-- - headache
-  - weakness
-  - heaviness
-- - possesses
-  - wonderful
-  - efficacy
+- - complaints
+  - rheumatism
+  - scurvy
 - - apoplexy
   - prevented
   - determination
+- - headache
+  - weakness
+  - heaviness
 - - rendering
   - extraction
   - unnecessary
-- - nervous
-  - complaints
-  - rheumatism
+- - possesses
+  - wonderful
+  - efficacy
 - - alarming
   - giddiness
   - oppression
+- - nervous
+  - complaints
+  - rheumatism
 - - prevents
   - alarming
   - giddiness
-- - fits
-  - headache
-  - weakness
-- - hysteric
-  - complaints
-  - price
-- - stomach
-  - prevents
-  - alarming
 - - d
   - apoplexy
   - prevented
+- - hysteric
+  - complaints
+  - price
+- - fits
+  - headache
+  - weakness
+- - stomach
+  - prevents
+  - alarming
 - - worms
   - destroyed
   - medicine
-- - filling
-  - decayed
-  - teeth
-- - stopping
-  - decayed
-  - teeth
+- - strength
+  - price
+  - d
 - - highness
   - prince
   - albert
 - - instance
   - failed
   - destroying
-- - strength
-  - price
-  - d
 - - article
   - advertisement
   - originally
-- - royal
-  - highness
-  - prince
-- - confused
-  - thoughts
-  - wandering
-- - today's
-  - article
-  - advertisement
+- - stopping
+  - decayed
+  - teeth
+- - filling
+  - decayed
+  - teeth
 - - neither
   - purges
   - vomits
+- - royal
+  - highness
+  - prince
+- - today's
+  - article
+  - advertisement
+- - confused
+  - thoughts
+  - wandering
 - - archives
   - today's
   - article
@@ -80,27 +80,27 @@ ngrams:
 - - advertisement
   - originally
   - published
-- - complaints
-  - price
-  - s
-- - drastic
-  - article
-  - large
-- - sight
-  - confused
-  - thoughts
 - - s
   - d
   - apoplexy
-- - article
-  - large
-  - packets
+- - complaints
+  - price
+  - s
 - - packets
   - s
   - d
 - - price
   - s
   - d
+- - drastic
+  - article
+  - large
+- - sight
+  - confused
+  - thoughts
+- - article
+  - large
+  - packets
 - - post
   - general
   - debility
@@ -110,48 +110,48 @@ ngrams:
 - - large
   - packets
   - s
-- - decayed
-  - teeth
-  - however
 - - purges
   - vomits
   - nor
+- - decayed
+  - teeth
+  - however
 - - taste
   - nor
   - smell
 - - brain
   - singing
   - noise
-- - teeth
-  - however
-  - large
 - - vomits
   - nor
   - otherwise
-- - destroying
-  - every
-  - worm
 - - neither
   - taste
   - nor
+- - destroying
+  - every
+  - worm
+- - clergy
+  - mr
+  - thomas's
+- - teeth
+  - however
+  - large
 - - failed
   - destroying
   - every
 - - soft
   - state
   - without
-- - clergy
-  - mr
-  - thomas's
 - - most
   - chronic
   - debility
-- - years
-  - rendering
-  - extraction
 - - d
   - mr
   - thomas
+- - years
+  - rendering
+  - extraction
 story:
   date: 2006-03-06
   id: 2006-03-06-o-cure-me

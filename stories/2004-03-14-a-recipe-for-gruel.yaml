@@ -2,18 +2,18 @@ ngrams:
 - - singularly
   - unlovely
   - vessel
-- - monstrous
-  - ladle
-  - transfer
 - - bleak
   - illimitable
   - vista
-- - grand
-  - vizier
-  - proclaimed
 - - seething
   - cauldron
   - replace
+- - monstrous
+  - ladle
+  - transfer
+- - grand
+  - vizier
+  - proclaimed
 - - prevent
   - steam
   - escaping
@@ -26,36 +26,33 @@ ngrams:
 - - fully
   - boiled
   - replace
-- - following
-  - ingredients
-  - oats
 - - stand
   - upright
   - magnificent
 - - electric
   - cookers
   - longer
-- - tin
-  - bowls
-  - serve
+- - following
+  - ingredients
+  - oats
 - - safe
   - simple
   - snacks
+- - tin
+  - bowls
+  - serve
 - - original
   - pencil
   - sketch
-- - boiling
-  - please
-  - pay
 - - account
   - remain
   - idle
+- - boiling
+  - please
+  - pay
 - - grubby
   - beaker
   - second
-- - ingredients
-  - oats
-  - water
 - - bowls
   - serve
   - best
@@ -74,72 +71,66 @@ ngrams:
 - - intervals
   - between
   - stirrings
-- - brackish
+- - ingredients
+  - oats
   - water
-  - appears
 - - door
   - stand
   - upright
+- - brackish
+  - water
+  - appears
+- - please
+  - pay
+  - attention
 - - big
   - pot
   - carry
 - - big
   - iron
   - pot
-- - please
-  - pay
-  - attention
 - - village
   - weeping
   - use
 - - vast
   - pitiless
   - night
-- - iron
-  - pot
-  - under
+- - gruel
+  - imperfect
+  - though
+- - read
+  - improving
+  - passages
 - - take
   - electric
   - cookers
+- - iron
+  - pot
+  - under
 - - right
   - hand
   - scoop
 - - right
   - hand
   - removing
-- - read
-  - improving
-  - passages
 - - three
   - quarters
   - full
 - - last
   - stir
   - remove
-- - gruel
-  - imperfect
-  - though
-- - left
-  - hand
-  - lift
 - - most
   - minuscule
   - taint
+- - left
+  - hand
+  - lift
 - - boil
   - merrily
   - away
-- - little
-  - musical
-  - interlude
 - - book
   - entitled
   - safe
-- - ah
-  - 'yes'
-  - once
-- - poor
-  - bones
-  - take
 - - tarnished
   - urn
   - say
@@ -149,18 +140,27 @@ ngrams:
 - - need
   - hardly
   - point
+- - ah
+  - 'yes'
+  - once
+- - poor
+  - bones
+  - take
+- - little
+  - musical
+  - interlude
 - - risk
   - being
   - clubbed
-- - merrily
-  - away
-  - although
 - - reminders
   - though
   - however
 - - though
   - however
   - resounding
+- - merrily
+  - away
+  - although
 - - trudging
   - through
   - snow
@@ -170,45 +170,48 @@ ngrams:
 - - blustery
   - winter's
   - day
+- - appears
+  - make
+  - sure
 - - water
   - appears
   - make
 - - being
   - clubbed
   - within
-- - appears
-  - make
-  - sure
 - - haemoglobin
   - towers
   - where
 - - pitiless
   - night
   - two
-- - condition
-  - let
-  - us
 - - quarters
   - full
   - before
+- - condition
+  - let
+  - us
 - - full
   - before
   - twilight
-- - let
-  - us
-  - press
-- - now
-  - fully
-  - rested
-- - little
-  - reminders
-  - though
-- - than
-  - gas
-  - ones
 - - sin
   - upon
   - sin
+- - let
+  - us
+  - press
+- - little
+  - reminders
+  - though
+- - now
+  - fully
+  - rested
+- - waste
+  - sin
+  - upon
+- - than
+  - gas
+  - ones
 - - excellent
   - little
   - book
@@ -218,9 +221,6 @@ ngrams:
 - - like
   - nobody's
   - business
-- - waste
-  - sin
-  - upon
 - - little
   - book
   - entitled
@@ -233,66 +233,75 @@ ngrams:
 - - hovel
   - window
   - do
-- - said
-  - two
-  - reminders
 - - beaker
   - second
   - do
-- - cream
-  - cracker
-  - has
+- - said
+  - two
+  - reminders
 - - add
   - more
   - water
+- - cream
+  - cracker
+  - has
 - - night
   - two
   - little
 - - hand
   - scoop
   - some
+- - their
+  - latched
+  - bolted
 - - away
   - like
   - nobody's
 - - bubble
   - away
   - like
-- - their
-  - latched
-  - bolted
-- - been
-  - framed
-  - displayed
 - - 'no'
   - account
   - overdo
-- - your
-  - gruel
-  - imperfect
-- - spoil
-  - your
-  - gruel
+- - any
+  - rate
+  - where
+- - been
+  - framed
+  - displayed
 - - can
   - take
   - electric
 - - 'no'
   - account
   - remain
-- - any
-  - rate
-  - where
+- - your
+  - gruel
+  - imperfect
+- - spoil
+  - your
+  - gruel
 - - behind
   - their
   - latched
 - - your
   - hovel
   - hold
+- - ladle
+  - transfer
+  - into
+- - arctic
+  - wasteland
+  - if
 - - your
   - hovel
   - window
 - - your
   - dearest
   - wish
+- - step
+  - if
+  - fumbled
 - - your
   - poor
   - poor
@@ -302,15 +311,6 @@ ngrams:
 - - throw
   - open
   - your
-- - ladle
-  - transfer
-  - into
-- - use
-  - your
-  - cuff
-- - your
-  - fist
-  - give
 story:
   date: 2004-03-14
   id: 2004-03-14-a-recipe-for-gruel

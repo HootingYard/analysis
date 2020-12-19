@@ -38,30 +38,30 @@ ngrams:
 - - stool
   - beside
   - him
-- - failed
-  - again
-  - like
 - - very
   - first
   - encounter
+- - failed
+  - again
+  - like
 - - only
   - recently
   - back
 - - him
   - another
   - drink
-- - bought
-  - him
-  - another
 - - muffler
   - tight
   - about
-- - were
-  - slap
-  - bang
+- - bought
+  - him
+  - another
 - - east
   - what
   - seemed
+- - were
+  - slap
+  - bang
 - - 'no'
   - longer
   - need
@@ -71,36 +71,30 @@ ngrams:
 - - going
   - mad
   - when
-- - 'no'
-  - matter
-  - how
 - - east
   - would
   - remain
 - - would
   - remain
   - forever
-- - which
-  - east
-  - near
+- - 'no'
+  - matter
+  - how
 - - far
   - east
   - would
+- - which
+  - east
+  - near
 - - down
   - definitively
   - so
-- - had
-  - tried
-  - tried
 - - east
   - near
   - or
-- - trying
-  - but
-  - failing
-- - cease
-  - trying
-  - but
+- - had
+  - tried
+  - tried
 - - or
   - lay
   - sprawled
@@ -110,42 +104,48 @@ ngrams:
 - - best
   - or
   - worst
+- - trying
+  - but
+  - failing
+- - cease
+  - trying
+  - but
 - - stood
   - or
   - sat
 - - sat
   - or
   - lay
-- - tottered
-  - out
-  - into
 - - need
   - loosening
   - but
-- - him
-  - which
-  - east
-- - heard
-  - from
-  - inside
-- - would
-  - 'no'
-  - longer
-- - asked
-  - him
-  - which
+- - tottered
+  - out
+  - into
 - - middle
   - or
   - far
+- - would
+  - 'no'
+  - longer
+- - heard
+  - from
+  - inside
+- - him
+  - which
+  - east
+- - asked
+  - him
+  - which
+- - not
+  - need
+  - loosening
 - - scream
   - at
   - once
 - - at
   - once
   - hysterical
-- - not
-  - need
-  - loosening
 - - recently
   - back
   - from
@@ -170,27 +170,27 @@ ngrams:
 - - could
   - not
   - disagree
-- - icy
-  - blizzard
-  - as
 - - towards
   - my
   - chalet
-- - pipe
-  - as
-  - snowflakes
-- - middle
-  - east
-  - for
 - - did
   - not
   - need
-- - where
-  - you
-  - stood
+- - icy
+  - blizzard
+  - as
+- - pipe
+  - as
+  - snowflakes
 - - as
   - snowflakes
   - fell
+- - clear
+  - as
+  - dammit
+- - middle
+  - east
+  - for
 story:
   date: 2014-03-27
   id: 2014-03-27-near-and-middle-and-far

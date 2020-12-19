@@ -5,15 +5,15 @@ ngrams:
 - - oceans
   - uncharted
   - territories
-- - applaud
-  - joe
-  - simpson
 - - gentlemen
   - incompetent
   - bunglers
 - - incompetent
   - bunglers
   - gentlemen
+- - applaud
+  - joe
+  - simpson
 - - snowy
   - peruvian
   - mountainside
@@ -35,72 +35,72 @@ ngrams:
 - - jaws
   - drop
   - glass
-- - sir
-  - john
-  - franklin
 - - common
   - reader
   - anne
 - - single
   - utterance
   - included
-- - canadian
-  - arctic
-  - whose
-- - legendary
-  - sir
-  - john
 - - foreign
   - persons
   - seem
+- - sir
+  - john
+  - franklin
 - - earlier
   - less
   - barbarous
-- - someone
+- - legendary
+  - sir
+  - john
+- - canadian
+  - arctic
   - whose
-  - recommendations
 - - less
   - barbarous
   - age
-- - arctic
-  - whose
-  - game
-- - proprietary
-  - paste
-  - known
 - - seem
   - less
   - preposterous
+- - someone
+  - whose
+  - recommendations
+- - proprietary
+  - paste
+  - known
+- - arctic
+  - whose
+  - game
 - - called
   - joe
   - simpson
-- - sensitive
-  - soul
-  - within
 - - somehow
   - certain
   - foreign
+- - sensitive
+  - soul
+  - within
 - - certain
   - foreign
   - persons
-- - fall
-  - stone
-  - dead
 - - persons
   - seem
   - less
 - - pitting
   - themselves
   - against
+- - fall
+  - stone
+  - dead
 - - anthology
   - incidentally
   - does
-- - later
-  - discovered
-  - miles
 - - something
   - faintly
   - laughable
+- - later
+  - discovered
+  - miles
 - - pit
   - themselves
   - against
@@ -125,117 +125,117 @@ ngrams:
 - - whose
   - every
   - single
+- - very
+  - probably
+  - crevasse
 - - quotation
   - very
   - dear
 - - following
   - quotation
   - very
-- - very
-  - probably
-  - crevasse
 - - hundred
   - years
   - ago
-- - never
-  - got
-  - round
 - - book
   - nor
   - seen
+- - never
+  - got
+  - round
 - - never
   - read
   - touching
 - - often
   - than
   - annually
-- - john
-  - franklin
-  - could
 - - mean
   - more
   - barbarous
+- - john
+  - franklin
+  - could
 - - some
   - finicky
   - faffing
-- - important
-  - building
-  - she
-- - man
-  - whose
-  - every
 - - rather
   - than
   - taking
 - - can
   - bring
   - writers
-- - youngster
-  - who
-  - coined
 - - swear
   - more
   - often
-- - these
-  - men
-  - may
+- - man
+  - whose
+  - every
+- - important
+  - building
+  - she
+- - youngster
+  - who
+  - coined
 - - read
   - more
   - widely
 - - must
   - swear
   - more
-- - been
-  - incompetent
-  - bunglers
 - - can
   - also
   - apply
+- - these
+  - men
+  - may
 - - who
   - pit
   - themselves
+- - been
+  - incompetent
+  - bunglers
 - - who
   - called
   - joe
-- - behind
-  - their
-  - guns
 - - about
   - joe
   - simpson
 - - faintly
   - laughable
   - about
+- - behind
+  - their
+  - guns
 - - jot
   - about
   - joe
-- - were
-  - gentlemen
-  - incompetent
 - - forays
   - into
   - inhospitable
 - - preposterous
   - when
   - pitting
-- - when
-  - pitting
-  - themselves
-- - than
-  - annually
-  - then
+- - were
+  - gentlemen
+  - incompetent
 - - sudden
   - fuckery
   - if
+- - than
+  - annually
+  - then
+- - when
+  - pitting
+  - themselves
+- - less
+  - preposterous
+  - when
 - - left
   - behind
   - their
 - - book
   - has
   - become
-- - less
-  - preposterous
-  - when
 - - soul
   - within
   - about
@@ -245,15 +245,15 @@ ngrams:
 - - crew
   - were
   - later
+- - more
+  - often
+  - than
 - - were
   - later
   - discovered
 - - those
   - who
   - pit
-- - more
-  - often
-  - than
 - - were
   - still
   - encouraged
@@ -278,6 +278,9 @@ ngrams:
 - - an
   - anthology
   - incidentally
+- - more
+  - barbarous
+  - if
 - - sent
   - an
   - email
@@ -287,63 +290,60 @@ ngrams:
 - - one
   - moment
   - discounting
-- - more
-  - barbarous
-  - if
 - - an
   - earlier
   - less
-- - an
-  - important
-  - building
 - - could
   - come
   - up
-- - game
-  - had
-  - supported
-- - him
-  - whipped
-  - out
+- - an
+  - important
+  - building
 - - this
   - revelation
   - however
 - - incidentally
   - does
   - one
-- - once
-  - sent
-  - an
+- - him
+  - whipped
+  - out
+- - game
+  - had
+  - supported
 - - one
   - must
   - swear
-- - whose
-  - game
-  - had
-- - while
-  - one
-  - wanted
+- - once
+  - sent
+  - an
+- - barbarous
+  - age
+  - or
 - - incompetent
   - bunglers
   - but
 - - term
   - we
   - can
-- - barbarous
-  - age
-  - or
 - - generally
   - trust
   - but
+- - while
+  - one
+  - wanted
 - - blinkered
   - but
   - somehow
-- - discovered
-  - miles
-  - from
+- - whose
+  - game
+  - had
 - - 'no'
   - idea
   - if
+- - sure
+  - ridiculous
+  - but
 story:
   date: 2012-05-25
   id: 2012-05-25-on-crevasse-wankers

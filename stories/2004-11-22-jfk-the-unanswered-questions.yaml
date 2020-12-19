@@ -2,24 +2,24 @@ ngrams:
 - - dressmaker
   - abraham
   - zapruder
-- - unsuccessful
-  - potus
-  - assassins
 - - abraham
   - zapruder
   - famously
+- - unsuccessful
+  - potus
+  - assassins
 - - elderly
   - dressmaker
   - abraham
+- - wider
+  - implications
+  - relates
 - - dealey
   - plaza
   - similarly
 - - guru
   - tony
   - buzan
-- - wider
-  - implications
-  - relates
 - - lee
   - harvey
   - oswald
@@ -38,12 +38,6 @@ ngrams:
 - - whining
   - liverpudlian
   - pop
-- - potus
-  - john
-  - fitzgerald
-- - potus
-  - assassins
-  - john
 - - mark
   - david
   - chapman
@@ -53,6 +47,12 @@ ngrams:
 - - pop
   - singers
   - mark
+- - potus
+  - john
+  - fitzgerald
+- - potus
+  - assassins
+  - john
 - - john
   - fitzgerald
   - kennedy
@@ -89,12 +89,12 @@ ngrams:
 - - umbrella
   - man
   - prior
-- - address
-  - umbrella
-  - man
 - - grassy
   - knoll
   - before
+- - address
+  - umbrella
+  - man
 - - middle
   - name
   - also
@@ -119,12 +119,12 @@ ngrams:
 - - nixon
   - flew
   - out
-- - their
-  - full
-  - three
 - - given
   - their
   - full
+- - their
+  - full
+  - three
 - - conspiracy
   - if
   - indeed

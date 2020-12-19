@@ -1,28 +1,25 @@
 ngrams:
-- - barometer
-  - remedies
-  - adulterations
 - - axes
   - slicers
   - choppers
+- - barometer
+  - remedies
+  - adulterations
 - - slicers
   - choppers
   - hooks
-- - whittles
-  - scissors
-  - razors
 - - knives
   - axes
   - slicers
-- - chopped
-  - pignut
-  - pepper
+- - whittles
+  - scissors
+  - razors
 - - scissors
   - razors
   - cutters
-- - town's
-  - commercial
-  - district
+- - chopped
+  - pignut
+  - pepper
 - - choppers
   - hooks
   - spikes
@@ -32,6 +29,9 @@ ngrams:
 - - chemical
   - barometer
   - remedies
+- - town's
+  - commercial
+  - district
 - - irritating
   - vegetable
   - poisons
@@ -41,30 +41,30 @@ ngrams:
 - - editions
   - flail
   - plon
-- - sailcloth
-  - shroud
-  - muttering
 - - forfend
   - screeched
   - linnet
 - - ether
   - stamped
   - documents
+- - sailcloth
+  - shroud
+  - muttering
 - - island's
   - finest
   - composers
-- - heedless
-  - scribbling
-  - minnie
 - - render
   - linen
   - bags
-- - retired
-  - football
-  - referee
 - - pignut
   - pepper
   - salt
+- - retired
+  - football
+  - referee
+- - heedless
+  - scribbling
+  - minnie
 - - museum
   - committee
   - belying
@@ -80,69 +80,75 @@ ngrams:
 - - dogs
   - irritating
   - vegetable
-- - heaven
-  - forfend
-  - screeched
 - - visible
   - horizon
   - furniture
+- - heaven
+  - forfend
+  - screeched
 - - wicker
   - baskets
   - filled
-- - referee
-  - named
-  - aloysius
 - - health
   - care
   - provision
-- - football
-  - referee
-  - named
-- - iron
-  - basin
-  - mix
-- - fine
-  - trout
-  - pie
 - - medium
   - size
   - trout
-- - finnish
-  - health
-  - care
+- - referee
+  - named
+  - aloysius
+- - fine
+  - trout
+  - pie
 - - arrived
   - panting
   - pumped
+- - finnish
+  - health
+  - care
 - - practitioner
   - precise
   - details
-- - italian
-  - widow
-  - sir
 - - general
   - practitioner
   - precise
-- - antique
-  - wooden
-  - rosary
+- - iron
+  - basin
+  - mix
+- - italian
+  - widow
+  - sir
+- - football
+  - referee
+  - named
 - - necessary
   - papers
   - tomorrow
+- - antique
+  - wooden
+  - rosary
 - - musical
   - community
   - except
-- - wooden
-  - rosary
-  - beads
 - - dozen
   - medium
   - size
+- - wooden
+  - rosary
+  - beads
 - - emporium
   - dr
   - hoist
 - - cocoa
   - eye
   - washes
+- - dr
+  - hoist
+  - hurrying
+- - deployed
+  - dr
+  - hoist
 - - shopkeeper
   - dear
   - friend
@@ -151,58 +157,52 @@ ngrams:
   - oven
 - - dr
   - hoist
-  - hurrying
-- - deployed
-  - dr
-  - hoist
-- - dr
-  - hoist
   - pronounced
-- - press
-  - report
-  - professor
-- - body
-  - scribbling
-  - notes
-- - mighty
-  - iron
-  - basin
+- - professor
+  - lars
+  - talc
+- - professor
+  - lars
+  - talc
 - - report
   - professor
   - lars
-- - professor
-  - lars
-  - talc
-- - professor
-  - lars
-  - talc
+- - press
+  - report
+  - professor
+- - mighty
+  - iron
+  - basin
+- - body
+  - scribbling
+  - notes
 - - bland
   - sauce
   - four
-- - reserved
-  - four
-  - tables
+- - lars
+  - talc
+  - struck
 - - half
   - dozen
   - medium
-- - desist
-  - eyes
-  - lambent
+- - dr
+  - hoist
+  - lars
+- - reserved
+  - four
+  - tables
 - - gone
   - horribly
   - wrong
+- - desist
+  - eyes
+  - lambent
 - - horribly
   - wrong
   - following
 - - tin
   - boots
   - laying
-- - dr
-  - hoist
-  - lars
-- - lars
-  - talc
-  - struck
 - - stop
   - press
   - report
@@ -212,33 +212,30 @@ ngrams:
 - - later
   - editions
   - flail
-- - three
-  - winter
-  - turnips
 - - written
   - works
   - especially
+- - three
+  - winter
+  - turnips
 - - four
   - tables
   - imagine
-- - dr
-  - hoist
-  - left
 - - fascinating
   - reading
   - dr
 - - radio
   - broadcast
   - given
-- - great
-  - finnish
-  - polymath
+- - dr
+  - hoist
+  - left
 - - tomorrow
   - thing
   - linnet
-- - crabbed
-  - hand
-  - wrote
+- - great
+  - finnish
+  - polymath
 - - papers
   - tomorrow
   - thing
@@ -248,33 +245,36 @@ ngrams:
 - - relished
   - every
   - opportunity
+- - crabbed
+  - hand
+  - wrote
 - - most
   - valued
   - customers
-- - long
-  - poor
-  - minnie
 - - hot
   - oven
   - until
+- - well
+  - heaven
+  - forfend
+- - long
+  - poor
+  - minnie
 - - stay
   - long
   - poor
 - - hoist
   - hurrying
   - away
-- - well
-  - heaven
-  - forfend
-- - two
-  - men
-  - emptied
-- - trout
-  - pie
-  - first
 - - before
   - rigor
   - mortis
+- - trout
+  - pie
+  - first
+- - two
+  - men
+  - emptied
 - - bray
   - hectically
   - over
@@ -284,12 +284,12 @@ ngrams:
 - - woe
   - said
   - linnet
-- - widow
-  - sir
-  - said
 - - lars
   - talc
   - before
+- - widow
+  - sir
+  - said
 - - oh
   - long
   - ago
@@ -299,33 +299,18 @@ ngrams:
 - - said
   - dr
   - hoist
-- - she
-  - paused
-  - briefly
-- - virtually
-  - black
-  - over
-- - linnet
-  - she
-  - swept
-- - such
-  - high
-  - esteem
-- - once
-  - oh
-  - long
 - - spot
   - where
   - talc
-- - her
-  - sweeping
-  - buckets
-- - poor
-  - minnie
-  - she
-- - she
-  - arrived
-  - panting
+- - such
+  - high
+  - esteem
+- - virtually
+  - black
+  - over
+- - once
+  - oh
+  - long
 - - racket
   - could
   - deter
@@ -335,39 +320,51 @@ ngrams:
 - - could
   - working
   - silently
-- - like
-  - talc
-  - whom
+- - she
+  - paused
+  - briefly
+- - linnet
+  - she
+  - swept
 - - screeched
   - linnet
   - do
-- - silent
-  - she
-  - sat
-- - death
-  - she
+- - like
+  - talc
+  - whom
+- - her
+  - sweeping
+  - buckets
+- - she
   - arrived
+  - panting
+- - poor
+  - minnie
+  - she
 - - man
   - well
   - heaven
-- - her
-  - crabbed
-  - hand
+- - silent
+  - she
+  - sat
 - - exclaimed
   - now
   - perhaps
-- - papal
-  - nuncio
-  - has
-- - nuncio
-  - has
-  - reserved
-- - shared
-  - her
-  - life
 - - small
   - pieces
   - then
+- - death
+  - she
+  - arrived
+- - nuncio
+  - has
+  - reserved
+- - papal
+  - nuncio
+  - has
+- - her
+  - crabbed
+  - hand
 - - arrived
   - some
   - minutes
@@ -377,63 +374,57 @@ ngrams:
 - - museum
   - committee
   - who
-- - her
-  - commonplace
-  - book
 - - committee
   - who
   - lived
-- - religious
-  - man
-  - said
-- - her
-  - pencil
-  - each
-- - has
-  - reserved
-  - four
-- - dr
-  - hoist
-  - who
+- - shared
+  - her
+  - life
 - - said
   - linnet
   - before
-- - assistant
-  - called
-  - him
-- - pencil
-  - each
-  - time
+- - religious
+  - man
+  - said
+- - dr
+  - hoist
+  - who
+- - her
+  - commonplace
+  - book
+- - has
+  - reserved
+  - four
 - - ever
   - more
   - embittered
+- - pencil
+  - each
+  - time
 - - cellar
   - between
   - them
-- - she
-  - swept
-  - through
+- - assistant
+  - called
+  - him
+- - her
+  - pencil
+  - each
+- - about
+  - chemical
+  - barometer
 - - man
   - like
   - talc
 - - your
   - mouth
   - watering
-- - about
-  - chemical
-  - barometer
-- - hoist
-  - who
-  - came
-- - were
-  - universally
-  - ridiculed
-- - views
-  - were
-  - universally
 - - became
   - ever
   - more
+- - hoist
+  - who
+  - came
 - - rest
   - offering
   - what
@@ -441,107 +432,116 @@ ngrams:
   - what
   - help
 - - were
-  - eight
-  - visitors
+  - universally
+  - ridiculed
+- - she
+  - swept
+  - through
+- - views
+  - were
+  - universally
 - - emptied
   - out
   - barrels
+- - were
+  - eight
+  - visitors
 - - scribbling
   - notes
   - into
-- - never
-  - forgave
-  - him
 - - stacked
   - them
   - away
-- - bumped
-  - into
-  - dr
 - - will
   - pour
   - syrup
+- - bumped
+  - into
+  - dr
 - - into
   - dr
   - hoist
 - - wrote
   - about
   - chemical
+- - never
+  - forgave
+  - him
 - - obituary
   - will
   - appear
 - - men
   - emptied
   - out
-- - some
-  - minutes
-  - after
 - - important
   - meeting
   - when
-- - did
-  - she
-  - write
-- - were
-  - brought
-  - together
-- - long
-  - been
-  - considered
-- - into
-  - small
-  - pieces
+- - some
+  - minutes
+  - after
 - - full
   - obituary
   - will
-- - struck
-  - him
-  - down
-- - time
-  - she
-  - paused
-- - words
-  - were
-  - intemperate
+- - were
+  - brought
+  - together
+- - into
+  - small
+  - pieces
+- - long
+  - been
+  - considered
 - - all
   - gone
   - horribly
-- - hand
-  - wrote
-  - about
+- - words
+  - were
+  - intemperate
 - - more
   - remarkable
   - then
-- - thought
-  - did
+- - did
   - she
+  - write
+- - struck
+  - him
+  - down
+- - hand
+  - wrote
+  - about
+- - time
+  - she
+  - paused
 - - following
   - hour
   - there
+- - thought
+  - did
+  - she
 - - has
   - never
   - come
-- - funeral
-  - parlour
-  - which
-- - two
-  - were
-  - brought
-- - canvas
-  - sack
-  - which
-- - minnie
-  - 'no'
-  - she
-- - iron
-  - bath
-  - which
 - - swept
   - through
   - into
-- - each
-  - time
-  - she
+- - two
+  - were
+  - brought
+- - funeral
+  - parlour
+  - which
+- - canvas
+  - sack
+  - which
+- - iron
+  - bath
+  - which
+- - events
+  - are
+  - beyond
+- - england
+  - which
+  - held
 story:
   date: 2017-10-19
   id: 2017-10-19-obsequies-for-lars-talc-struck-by-lightning-ix

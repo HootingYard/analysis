@@ -14,6 +14,9 @@ ngrams:
 - - visionary
   - producer
   - doug
+- - obscure
+  - avant
+  - garde
 - - united
   - nations
   - dag
@@ -23,9 +26,6 @@ ngrams:
 - - ungodly
   - frenzy
   - ungodly
-- - obscure
-  - avant
-  - garde
 - - modified
   - wire
   - recorder
@@ -56,60 +56,69 @@ ngrams:
 - - dramatic
   - events
   - worse
-- - thin
-  - steel
-  - tape
-- - mightily
-  - discombobulated
-  - mighty
-- - science
-  - fiction
-  - windmill
 - - older
   - peasants
   - digging
-- - miniature
-  - science
+- - mightily
+  - discombobulated
+  - mighty
+- - thin
+  - steel
+  - tape
+- - science
   - fiction
+  - windmill
 - - whatever
   - fairies
   - clutter
+- - miniature
+  - science
+  - fiction
 - - ungodly
   - magpie
   - lay
-- - doug
-  - hammarskjold
-  - marigold
 - - combative
   - confrontational
   - sound
 - - combative
   - confrontational
   - sound
-- - marigold
-  - babbled
-  - hammarskjold
 - - avant
   - garde
   - sound
+- - doug
+  - hammarskjold
+  - marigold
 - - entitled
   - kitchen
   - groanings
-- - bucolic
-  - field
-  - recordings
 - - station
   - radio
   - doug
-- - babbling
-  - brooks
-  - dobson's
 - - diagram
   - cupboard
   - alas
+- - marigold
+  - babbled
+  - hammarskjold
+- - bucolic
+  - field
+  - recordings
+- - wave
+  - station
+  - radio
+- - babbling
+  - brooks
+  - dobson's
+- - century
+  - tape
+  - recorder
 - - chew
   - herself
   - disowned
+- - hidden
+  - intentions
+  - marigold
 - - brooks
   - dobson's
   - kitchen
@@ -119,21 +128,12 @@ ngrams:
 - - dobson's
   - kitchen
   - groanings
-- - hidden
-  - intentions
-  - marigold
 - - dobson's
   - kitchen
   - groanings
 - - dobson's
   - kitchen
   - groanings
-- - wave
-  - station
-  - radio
-- - century
-  - tape
-  - recorder
 - - frenzy
   - ungodly
   - hours
@@ -155,6 +155,15 @@ ngrams:
 - - field
   - thank
   - heaven
+- - fiction
+  - windmill
+  - between
+- - sound
+  - collage
+  - together
+- - precise
+  - dear
+  - marigold
 - - hammarskjold
   - marigold
   - chew
@@ -162,29 +171,17 @@ ngrams:
   - marigold
   - chew
 - - marigold
-  - chew
-  - rummaged
-- - precise
-  - dear
-  - marigold
-- - marigold
   - marigold
   - babbled
-- - fiction
-  - windmill
-  - between
-- - sound
-  - collage
-  - together
-- - universe
-  - marigold
-  - marigold
-- - marigold
-  - chew
-  - herself
 - - guttural
   - shouting
   - often
+- - marigold
+  - chew
+  - rummaged
+- - universe
+  - marigold
+  - marigold
 - - pamphlet
   - entitled
   - kitchen
@@ -194,12 +191,9 @@ ngrams:
 - - ungodly
   - magpie
   - came
-- - dear
-  - marigold
+- - marigold
   - chew
-- - known
-  - universe
-  - marigold
+  - herself
 - - print
   - pamphleteer
   - unable
@@ -209,18 +203,24 @@ ngrams:
 - - want
   - sound
   - art
-- - fledgling
-  - long
-  - wave
-- - fledgling
-  - long
-  - wave
 - - radio
   - police
   - thus
+- - known
+  - universe
+  - marigold
+- - dear
+  - marigold
+  - chew
 - - fields
   - outside
   - pointy
+- - fledgling
+  - long
+  - wave
+- - fledgling
+  - long
+  - wave
 - - long
   - wave
   - station
@@ -233,57 +233,54 @@ ngrams:
 - - old
   - haunts
   - armed
-- - swoon
-  - dobson
-  - groaned
+- - outside
+  - pointy
+  - town
 - - hours
   - every
   - noise
+- - table
+  - whirring
+  - away
+- - same
+  - name
+  - penned
+- - being
+  - splayed
+  - flat
+- - whirring
+  - away
+  - dobson's
+- - spidery
+  - handwriting
+  - here
+- - never
+  - counted
+  - herself
+- - away
+  - dobson's
+  - groaning
+- - chewing
+  - clean
+  - through
+- - next
+  - six
+  - hours
+- - swoon
+  - dobson
+  - groaned
 - - macbeth
   - dobson
   - ceased
 - - dobson
   - ceased
   - groaning
-- - same
-  - name
-  - penned
-- - whirring
-  - away
-  - dobson's
-- - table
-  - whirring
-  - away
-- - next
-  - six
-  - hours
-- - being
-  - splayed
-  - flat
-- - away
-  - dobson's
-  - groaning
-- - spidery
-  - handwriting
-  - here
-- - chewing
-  - clean
-  - through
-- - never
-  - counted
-  - herself
-- - outside
-  - pointy
-  - town
-- - six
-  - hours
-  - every
 - - yet
   - pulsating
   - brain
-- - dobson
-  - sat
-  - slumped
+- - six
+  - hours
+  - every
 - - chew
   - never
   - counted
@@ -299,27 +296,30 @@ ngrams:
 - - kitchen
   - groanings
   - day
-- - hands
-  - shifting
-  - only
-- - most
-  - obvious
-  - thought
-- - marigold
-  - chew
-  - never
 - - events
   - worse
   - than
-- - small
-  - birdy
-  - head
+- - dobson
+  - sat
+  - slumped
 - - broom
   - cupboard
   - where
-- - landing
-  - she
-  - tripped
+- - most
+  - obvious
+  - thought
+- - small
+  - birdy
+  - head
+- - marigold
+  - chew
+  - never
+- - hands
+  - shifting
+  - only
+- - other
+  - dramatic
+  - events
 - - recorder
   - perched
   - like
@@ -329,78 +329,69 @@ ngrams:
 - - kitchen
   - groanings
   - like
-- - other
-  - dramatic
-  - events
-- - she
-  - continued
-  - ignoring
 - - came
   - swooping
   - through
+- - any
+  - sensible
+  - person
+- - landing
+  - she
+  - tripped
+- - then
+  - secretary
+  - general
+- - until
+  - our
+  - licence
+- - she
+  - continued
+  - ignoring
+- - broadcast
+  - right
+  - now
+- - ungodly
+  - frenzies
+  - can
+- - its
+  - small
+  - birdy
 - - tape
   - she
   - meant
+- - kitchen
+  - rather
+  - than
+- - sound
+  - art
+  - like
+- - broadcast
+  - every
+  - day
 - - her
   - bedside
   - bus
 - - kitchen
   - below
   - she
-- - any
-  - sensible
-  - person
 - - field
   - recordings
   - she
-- - broadcast
-  - right
-  - now
-- - until
-  - our
-  - licence
-- - then
-  - secretary
-  - general
-- - its
-  - small
-  - birdy
 - - during
   - her
   - swoon
-- - sound
-  - art
-  - like
-- - ungodly
-  - frenzies
-  - can
-- - broadcast
-  - every
-  - day
-- - she
-  - later
-  - recalled
-- - kitchen
-  - rather
-  - than
-- - her
-  - younger
-  - days
-- - continued
-  - ignoring
-  - him
-- - mix
-  - she
-  - took
-- - fairies
-  - indeed
-  - she
-- - doug
-  - hammarskjold
-  - who
 - - letter
   - many
   - years
+- - continued
+  - ignoring
+  - him
+- - doug
+  - hammarskjold
+  - who
+- - she
+  - later
+  - recalled
 - - hammarskjold
   - who
   - shoved
@@ -410,30 +401,24 @@ ngrams:
 - - frenzies
   - can
   - often
-- - many
-  - years
-  - later
+- - fairies
+  - indeed
+  - she
+- - mix
+  - she
+  - took
 - - her
-  - old
-  - haunts
+  - younger
+  - days
 - - just
   - awoken
   - such
+- - many
+  - years
+  - later
 - - germans
   - shouting
   - their
-- - discombobulation
-  - dobson
-  - she
-- - she
-  - being
-  - splayed
-- - recordings
-  - she
-  - made
-- - indeed
-  - she
-  - later
 - - licence
   - comes
   - up
@@ -443,60 +428,75 @@ ngrams:
 - - shouting
   - their
   - heads
+- - her
+  - old
+  - haunts
+- - she
+  - being
+  - splayed
+- - indeed
+  - she
+  - later
+- - recordings
+  - she
+  - made
 - - your
   - broom
   - cupboard
-- - her
-  - head
-  - deciding
-- - face
-  - she
-  - being
+- - like
+  - magpies
+  - even
 - - doug
   - hammarskjold
   - were
-- - she
-  - tripped
-  - over
+- - discombobulation
+  - dobson
+  - she
 - - hammarskjold
   - were
   - treated
 - - like
-  - magpies
-  - even
-- - making
-  - your
-  - tape
+  - any
+  - sensible
+- - her
+  - head
+  - deciding
 - - noises
   - were
   - groans
-- - like
-  - any
-  - sensible
-- - magazines
-  - were
-  - filled
+- - making
+  - your
+  - tape
+- - can
+  - often
+  - come
 - - art
   - like
   - any
+- - she
+  - tripped
+  - over
+- - magazines
+  - were
+  - filled
+- - face
+  - she
+  - being
 - - art
   - magazines
   - were
 - - has
   - taught
   - us
+- - wave
+  - station
+  - will
 - - cupboard
   - where
   - she
-- - can
-  - often
-  - come
-- - upon
-  - her
-  - vintage
-- - she
-  - awoke
-  - she
+- - sound
+  - art
+  - if
 story:
   date: 2009-02-15
   id: 2009-02-15-dobsons-kitchen-groanings

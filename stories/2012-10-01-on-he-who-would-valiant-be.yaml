@@ -1,25 +1,25 @@
 ngrams:
-- - bittern
-  - storm
-  - fits
 - - tyrolean
   - hiking
   - gear
-- - duly
-  - rummaged
-  - unfortunately
-- - puny
-  - nincompoop
-  - cowering
-- - puny
-  - nincompoop
-  - quaking
 - - tyrolean
   - hiking
   - jacket
+- - duly
+  - rummaged
+  - unfortunately
+- - bittern
+  - storm
+  - fits
+- - puny
+  - nincompoop
+  - cowering
 - - shrubbery
   - elsewhere
   - gosh
+- - puny
+  - nincompoop
+  - quaking
 - - lecture
   - notes
   - scrunched
@@ -44,30 +44,30 @@ ngrams:
 - - erupting
   - volcano
   - nor
-- - span
-  - around
-  - quaking
 - - several
   - separate
   - pieces
+- - span
+  - around
+  - quaking
 - - bittern
   - storm
   - indeed
-- - asked
-  - 'yes'
-  - sir
 - - further
   - enormities
   - behind
+- - asked
+  - 'yes'
+  - sir
 - - own
   - drooling
   - lips
-- - pieces
-  - each
-  - soaked
 - - least
   - bit
   - terrifying
+- - pieces
+  - each
+  - soaked
 - - separate
   - pieces
   - each
@@ -92,33 +92,24 @@ ngrams:
 - - numbers
   - seems
   - just
+- - nearby
+  - institution
+  - where
 - - elsewhere
   - gosh
   - said
 - - us
   - return
   - behind
-- - nearby
-  - institution
-  - where
 - - let
   - us
   - approach
 - - let
   - us
   - return
-- - nincompoop
-  - she
-  - agreed
 - - its
   - august
   - hall
-- - puny
-  - nincompoop
-  - she
-- - puny
-  - nincompoop
-  - she
 - - fighting
   - giants
   - then
@@ -131,21 +122,30 @@ ngrams:
 - - hiking
   - jacket
   - then
+- - nincompoop
+  - she
+  - agreed
+- - puny
+  - nincompoop
+  - she
+- - puny
+  - nincompoop
+  - she
 - - enormities
   - behind
   - other
 - - behind
   - other
   - clumps
+- - institution
+  - where
+  - once
 - - while
   - our
   - backs
 - - gore
   - while
   - our
-- - institution
-  - where
-  - once
 - - said
   - oh
   - look
@@ -155,12 +155,12 @@ ngrams:
 - - never
   - attended
   - any
-- - given
-  - some
-  - lectures
 - - pricked
   - up
   - dismal
+- - given
+  - some
+  - lectures
 - - august
   - hall
   - 'no'
@@ -170,42 +170,42 @@ ngrams:
 - - up
   - dismal
   - stories
-- - put
-  - some
-  - fire
 - - ears
   - pricked
   - up
-- - she
-  - suggested
-  - first
+- - put
+  - some
+  - fire
 - - drooling
   - lips
   - what
-- - nincompoop
-  - she
-  - said
-- - storm
-  - fits
-  - into
 - - rummaged
   - unfortunately
   - when
+- - she
+  - suggested
+  - first
+- - storm
+  - fits
+  - into
+- - nincompoop
+  - she
+  - said
 - - has
   - ever
   - worn
 - - us
   - approach
   - him
-- - she
-  - said
-  - 'yes'
 - - backs
   - were
   - turned
 - - oh
   - look
   - up
+- - she
+  - said
+  - 'yes'
 - - cleaver
   - we
   - span
@@ -218,51 +218,51 @@ ngrams:
 - - where
   - once
   - upon
-- - she
-  - said
-  - though
 - - oh
   - pity
   - me
-- - lumbered
-  - away
-  - out
-- - fiend
-  - tips
-  - which
+- - she
+  - said
+  - though
 - - we
   - returned
   - behind
+- - lumbered
+  - away
+  - out
 - - morning
   - stroll
   - we
 - - then
   - rummage
   - them
+- - so
+  - beset
+  - round
+- - so
+  - beset
+  - round
 - - we
   - span
   - around
-- - our
-  - backs
-  - were
-- - so
-  - beset
-  - round
-- - so
-  - beset
-  - round
+- - fiend
+  - tips
+  - which
 - - can
   - impart
   - them
 - - there
   - must
   - needs
-- - she
-  - said
-  - even
 - - terror
   - there
   - must
+- - our
+  - backs
+  - were
+- - she
+  - said
+  - even
 - - an
   - erupting
   - volcano
@@ -272,6 +272,9 @@ ngrams:
 - - phenomenon
   - an
   - anomalous
+- - we
+  - say
+  - armed
 - - natural
   - phenomenon
   - an
@@ -281,45 +284,42 @@ ngrams:
 - - neither
   - an
   - erupting
-- - we
-  - say
-  - armed
-- - could
-  - she
-  - said
 - - been
   - set
   - upon
-- - do
-  - she
-  - said
 - - frighten
   - this
   - puny
 - - this
   - puny
   - nincompoop
+- - could
+  - she
+  - said
 - - we
   - turned
   - back
-- - had
-  - already
-  - lumbered
-- - rummage
-  - them
-  - out
-- - had
-  - better
-  - buck
+- - do
+  - she
+  - said
 - - overcome
   - or
   - stymie
+- - rummage
+  - them
+  - out
 - - butcher's
   - cleaver
   - or
-- - are
-  - like
-  - jelly
+- - had
+  - already
+  - lumbered
+- - had
+  - better
+  - buck
+- - but
+  - hardly
+  - disastrous
 story:
   date: 2012-10-01
   id: 2012-10-01-on-he-who-would-valiant-be

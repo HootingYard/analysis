@@ -1,25 +1,25 @@
 ngrams:
-- - bradlaugh
-  - '-'
-  - observed
-- - charles
-  - bradlaugh
-  - '-'
 - - profound
   - resonance
   - especially
-- - culturally
-  - important
-  - cormorants
-- - culturally
-  - important
-  - cormorants
 - - isaiah
   - king
   - james
+- - culturally
+  - important
+  - cormorants
+- - culturally
+  - important
+  - cormorants
+- - bradlaugh
+  - '-'
+  - observed
 - - king
   - james
   - version
+- - charles
+  - bradlaugh
+  - '-'
 - - bittern
   - shall
   - lodge
@@ -38,27 +38,27 @@ ngrams:
 - - ye
   - shall
   - eat
-- - voice
-  - shall
-  - sing
 - - biblical
   - cormorants
   - well
+- - voice
+  - shall
+  - sing
 - - kind
   - every
   - raven
-- - birds
-  - ye
-  - shall
 - - also
   - ye
   - shall
-- - four
-  - most
-  - culturally
+- - birds
+  - ye
+  - shall
 - - most
   - culturally
   - important
+- - four
+  - most
+  - culturally
 - - important
   - cormorants
   - ever
@@ -71,12 +71,12 @@ ngrams:
 - - ye
   - may
   - eat
-- - dobson's
-  - pamphlet
-  - how
 - - seven
   - years
   - ago
+- - dobson's
+  - pamphlet
+  - how
 - - other
   - biblical
   - cormorants
@@ -89,42 +89,36 @@ ngrams:
 - - shall
   - lie
   - down
-- - three
-  - other
-  - biblical
-- - how
-  - many
-  - cormorants
 - - creep
   - going
   - upon
+- - how
+  - many
+  - cormorants
+- - three
+  - other
+  - biblical
 - - only
   - two
   - cormorants
 - - some
   - dark
   - corner
-- - existed
-  - anybody
-  - who
 - - pamphlet
   - how
   - many
-- - heron
-  - after
-  - her
-- - heron
-  - after
-  - her
+- - existed
+  - anybody
+  - who
 - - serious
   - about
   - cormorants
-- - after
+- - heron
+  - after
   - her
-  - kind
-- - after
+- - heron
+  - after
   - her
-  - kind
 - - about
   - culturally
   - important
@@ -134,6 +128,12 @@ ngrams:
 - - their
   - voice
   - shall
+- - after
+  - her
+  - kind
+- - after
+  - her
+  - kind
 - - we
   - met
   - yesterday
@@ -146,27 +146,30 @@ ngrams:
 - - isaiah
   - cormorant
   - which
-- - cormorant
-  - which
-  - appears
-- - view
-  - are
-  - immense
-- - all
-  - four
-  - shall
 - - just
   - thinking
   - about
 - - few
   - would
   - deny
+- - view
+  - are
+  - immense
+- - all
+  - four
+  - shall
+- - cormorant
+  - which
+  - appears
 - - cormorants
   - well
   - there
 - - cedar
   - work
   - so
+- - work
+  - so
+  - similar
 - - which
   - ye
   - shall
@@ -176,9 +179,6 @@ ngrams:
 - - an
   - abomination
   - unto
-- - work
-  - so
-  - similar
 - - isaiah
   - cormorant
   - one
@@ -191,21 +191,21 @@ ngrams:
 - - many
   - cormorants
   - are
-- - had
-  - profound
-  - resonance
 - - upon
   - all
   - four
-- - are
-  - immense
-  - even
-- - going
-  - upon
-  - all
+- - had
+  - profound
+  - resonance
 - - eat
   - then
   - there
+- - going
+  - upon
+  - all
+- - are
+  - immense
+  - even
 story:
   date: 2011-08-21
   id: 2011-08-21-biblical-cormorants

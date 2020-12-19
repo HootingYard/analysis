@@ -5,21 +5,21 @@ ngrams:
 - - tackle
   - groovy
   - bongos
-- - unbridled
-  - terror
-  - prevents
 - - crippled
   - orphans
   - heading
+- - unbridled
+  - terror
+  - prevents
 - - bedroom
   - repeatedly
   - bashing
-- - oncoming
-  - express
-  - train
 - - somewhat
   - laughable
   - superstition
+- - oncoming
+  - express
+  - train
 - - sheer
   - unbridled
   - terror
@@ -32,48 +32,48 @@ ngrams:
 - - ass
   - replacement
   - bus
+- - replacement
+  - bus
+  - services
+- - replacement
+  - bus
+  - services
+- - red
+  - sports
+  - car
+- - red
+  - sports
+  - car
 - - screaming
   - assuring
   - mrs
-- - replacement
-  - bus
-  - services
-- - replacement
-  - bus
-  - services
-- - red
-  - sports
-  - car
-- - red
-  - sports
-  - car
 - - speaking
   - clock
   - mother
+- - bright
+  - red
+  - sports
+- - bright
+  - red
+  - sports
 - - reached
   - nameless
   - pond
-- - bright
-  - red
-  - sports
-- - bright
-  - red
-  - sports
 - - gleaming
   - bright
   - red
 - - gleaming
   - bright
   - red
-- - metal
-  - tapping
-  - machine
 - - music
   - robert
   - wise
 - - cut
   - mad
   - capers
+- - metal
+  - tapping
+  - machine
 - - rest
   - meanwhile
   - inside
@@ -83,63 +83,63 @@ ngrams:
 - - profitable
   - morning
   - staring
-- - towards
-  - nameless
-  - pond
+- - shall
+  - tackle
+  - groovy
 - - play
   - among
   - thespians
 - - scottish
   - play
   - among
-- - shall
-  - tackle
-  - groovy
 - - saw
   - neither
   - hide
-- - clock
-  - mother
-  - later
+- - towards
+  - nameless
+  - pond
 - - due
   - today
   - anyway
+- - clock
+  - mother
+  - later
 - - cold
   - misty
   - night
+- - neither
+  - hide
+  - nor
 - - tiny
   - barely
   - visible
 - - good
   - reason
   - judging
-- - neither
-  - hide
-  - nor
 - - induced
   - coma
   - while
 - - blind
   - creeping
   - thing
-- - crawling
-  - things
-  - blind
 - - hide
   - nor
   - hair
+- - crawling
+  - things
+  - blind
 - - things
   - including
   - windows
-- - lurked
-  - many
-  - minuscule
-- - crows
-  - while
-  - thinking
 - - meanwhile
   - inside
   - mr
+- - crows
+  - while
+  - thinking
+- - lurked
+  - many
+  - minuscule
 - - many
   - minuscule
   - creeping
@@ -149,27 +149,30 @@ ngrams:
 - - muck
   - lurked
   - many
-- - tiny
-  - creeping
-  - thing
-- - barely
-  - visible
-  - being
 - - small
   - mercy
   - mr
+- - barely
+  - visible
+  - being
+- - tiny
+  - creeping
+  - thing
 - - begun
   - our
   - circuit
-- - being
-  - attached
-  - itself
 - - groovy
   - bongos
   - over
 - - brain
   - jelly
   - mr
+- - being
+  - attached
+  - itself
+- - mr
+  - key
+  - asked
 - - very
   - profitable
   - morning
@@ -179,9 +182,6 @@ ngrams:
 - - its
   - carriages
   - packed
-- - mr
-  - key
-  - asked
 - - train
   - its
   - carriages
@@ -194,27 +194,27 @@ ngrams:
 - - groovy
   - bongos
   - then
-- - without
-  - our
-  - seeing
 - - very
   - good
   - reason
 - - must
   - never
   - mention
+- - without
+  - our
+  - seeing
 - - dusted
   - himself
   - down
+- - then
+  - replacement
+  - bus
 - - our
   - seeing
   - each
 - - pass
   - without
   - our
-- - then
-  - replacement
-  - bus
 - - such
   - tiny
   - barely
@@ -224,90 +224,81 @@ ngrams:
 - - given
   - much
   - thought
-- - theatrical
-  - curse
-  - has
-- - hooting
-  - yard
-  - let
-- - some
-  - rest
-  - meanwhile
-- - take
-  - many
-  - days
-- - acquaintance
-  - who
-  - joined
-- - seeing
-  - each
-  - other
 - - weeks
   - can
   - pass
-- - our
-  - circuit
-  - first
+- - theatrical
+  - curse
+  - has
+- - take
+  - many
+  - days
+- - seeing
+  - each
+  - other
+- - some
+  - rest
+  - meanwhile
+- - those
+  - topics
+  - might
+- - hooting
+  - yard
+  - let
+- - acquaintance
+  - who
+  - joined
 - - now
   - too
   - fearful
+- - our
+  - circuit
+  - first
 - - parted
   - after
   - our
 - - after
   - our
   - circuit
-- - other
-  - things
-  - including
-- - insisted
-  - she
-  - go
-- - shot
-  - him
-  - full
 - - time
   - however
   - neither
-- - those
-  - topics
-  - might
+- - other
+  - things
+  - including
 - - orphans
   - their
   - governesses
+- - shot
+  - him
+  - full
 - - their
   - weary
   - legs
 - - woke
   - up
   - screaming
+- - insisted
+  - she
+  - go
 - - their
   - gleaming
   - bright
 - - rest
   - their
   - weary
-- - thinking
-  - up
-  - subjects
 - - can
   - pass
   - without
-- - get
-  - some
-  - rest
+- - thinking
+  - up
+  - subjects
 - - what
   - catastrophe
   - hence
-- - she
-  - go
-  - home
-- - has
-  - come
-  - visiting
-- - curse
-  - has
-  - come
+- - get
+  - some
+  - rest
 - - about
   - groovy
   - bongos
@@ -317,45 +308,54 @@ ngrams:
 - - knows
   - what
   - catastrophe
+- - curse
+  - has
+  - come
+- - has
+  - come
+  - visiting
 - - mad
   - capers
   - about
 - - theatrical
   - persons
   - when
+- - she
+  - go
+  - home
 - - write
   - about
   - groovy
 - - write
   - about
   - groovy
-- - were
-  - speaking
-  - together
 - - writing
   - them
   - mr
-- - car
-  - all
-  - perished
+- - were
+  - speaking
+  - together
 - - set
   - about
   - munching
 - - terror
   - prevents
   - me
+- - car
+  - all
+  - perished
 - - day
   - than
   - mr
 - - morning
   - staring
   - out
-- - said
-  - then
-  - let
 - - amiss
   - we
   - continued
+- - said
+  - then
+  - let
 - - its
   - way
   - through
@@ -374,45 +374,45 @@ ngrams:
 - - let
   - me
   - explain
-- - which
-  - sheer
-  - unbridled
 - - let
   - me
   - list
+- - which
+  - sheer
+  - unbridled
 - - hear
   - what
   - those
-- - topics
-  - which
-  - appeared
-- - present
-  - essay
-  - which
-- - coma
-  - while
-  - they
-- - subject
-  - which
-  - sheer
-- - while
-  - they
-  - worked
 - - am
   - now
   - too
+- - coma
+  - while
+  - they
 - - soon
   - enough
   - we
+- - while
+  - they
+  - worked
+- - present
+  - essay
+  - which
+- - topics
+  - which
+  - appeared
+- - subject
+  - which
+  - sheer
 - - other
   - day
   - than
-- - which
-  - bashed
-  - against
 - - will
   - never
   - learn
+- - which
+  - bashed
+  - against
 story:
   date: 2012-02-07
   id: 2012-02-07-on-the-scottish-play

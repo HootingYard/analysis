@@ -5,21 +5,21 @@ ngrams:
 - - inverted
   - facelock
   - camel
-- - texas
-  - cloverleaf
-  - gory
 - - facelock
   - camel
   - clutches
 - - reserves
   - terrorism
   - poverty
-- - flip
-  - texas
+- - texas
   - cloverleaf
+  - gory
 - - camel
   - clutches
   - tiger
+- - flip
+  - texas
+  - cloverleaf
 - - hostile
   - camps
   - broadly
@@ -29,36 +29,33 @@ ngrams:
 - - butterfly
   - reverse
   - crucifix
-- - sunset
-  - flip
-  - texas
 - - alligator
   - clips
   - connected
-- - negative
-  - '-'
-  - terminal
+- - sunset
+  - flip
+  - texas
 - - hook
   - sunset
   - flip
 - - decisive
   - inverted
   - facelock
-- - alligator
-  - clip
-  - wire
-- - alligator
-  - clip
-  - wire
-- - alligator
-  - clip
-  - wire
-- - alligator
-  - clip
-  - wire
 - - plunge
   - mount
   - scoop
+- - alligator
+  - clip
+  - wire
+- - alligator
+  - clip
+  - wire
+- - alligator
+  - clip
+  - wire
+- - alligator
+  - clip
+  - wire
 - - clip
   - wire
   - units
@@ -71,39 +68,54 @@ ngrams:
 - - wing
   - beast
   - choker
-- - handed
-  - choke
-  - lift
 - - chicken
   - wing
   - anaconda
+- - handed
+  - choke
+  - lift
 - - reverse
   - crucifix
   - lady
-- - flu
-  - climate
-  - change
-- - anonymous
-  - correspondent
-  - claims
 - - stretch
   - plum
   - pearl
-- - copper
-  - wire
-  - inserted
 - - camps
   - broadly
   - speaking
+- - flu
+  - climate
+  - change
+- - copper
+  - wire
+  - inserted
+- - anonymous
+  - correspondent
+  - claims
 - - final
   - alligator
   - clip
-- - pearl
-  - river
-  - plunge
+- - terrorism
+  - poverty
+  - war
+- - fish
+  - hook
+  - sunset
+- - double
+  - chicken
+  - wing
 - - ah
   - fang
   - rallied
+- - laying
+  - celery
+  - sticks
+- - chicken
+  - wing
+  - beast
+- - pearl
+  - river
+  - plunge
 - - heavy
   - copper
   - wire
@@ -113,39 +125,21 @@ ngrams:
 - - river
   - plunge
   - mount
-- - laying
-  - celery
-  - sticks
+- - specialist
+  - press
+  - accusing
 - - special
   - fujiwara
   - armbar
-- - terrorism
-  - poverty
-  - war
 - - cloverleaf
   - gory
   - special
 - - gory
   - special
   - fujiwara
-- - fish
-  - hook
-  - sunset
-- - double
-  - chicken
-  - wing
-- - chicken
-  - wing
-  - beast
 - - toe
   - hold
   - sharpshooter
-- - potato
-  - clocks
-  - sadly
-- - specialist
-  - press
-  - accusing
 - - plum
   - pearl
   - river
@@ -158,63 +152,69 @@ ngrams:
 - - topic
   - measuring
   - distance
-- - led
-  - clock
-  - unit
-- - led
-  - clock
-  - unit
 - - common
   - galvanized
   - nails
-- - hammerlock
-  - sitting
-  - double
+- - potato
+  - clocks
+  - sadly
 - - poverty
   - war
   - david
-- - exciting
-  - topic
-  - measuring
-- - potato
-  - chronometry
-  - held
+- - led
+  - clock
+  - unit
+- - led
+  - clock
+  - unit
+- - hammerlock
+  - sitting
+  - double
 - - war
   - david
   - blunkett
+- - exciting
+  - topic
+  - measuring
 - - sitting
   - double
   - chicken
 - - fair
   - german
   - city
+- - potato
+  - chronometry
+  - held
 - - tongan
   - death
   - grip
 - - simple
   - led
   - clock
-- - potato
-  - clock
-  - history
-- - bird
-  - flu
-  - climate
 - - octopus
   - hold
   - round
+- - negative
+  - '-'
+  - terminal
 - - potatoes
   - qualitatively
   - different
-- - clock
-  - unit
-  - used
 - - final
   - round
   - won
+- - bird
+  - flu
+  - climate
 - - assertion
   - itself
   - led
+- - potato
+  - clock
+  - history
+- - clock
+  - unit
+  - used
 - - three
   - alligator
   - clip
@@ -227,21 +227,18 @@ ngrams:
 - - nails
   - three
   - alligator
-- - '-'
-  - terminal
-  - point
-- - three
-  - ah
-  - fang
 - - celery
   - sticks
   - end
-- - dobson's
-  - magnificent
-  - pamphlet
+- - three
+  - ah
+  - fang
 - - qualitatively
   - different
   - better
+- - dobson's
+  - magnificent
+  - pamphlet
 - - take
   - sides
   - arguing
@@ -257,6 +254,9 @@ ngrams:
 - - top
   - making
   - use
+- - '-'
+  - terminal
+  - point
 - - bout
   - each
   - round
@@ -269,81 +269,81 @@ ngrams:
 - - two
   - common
   - galvanized
-- - wire
-  - two
-  - short
-- - beings
-  - both
-  - tiny
 - - those
   - naive
   - revolutionaries
-- - press
-  - accusing
-  - dobson
+- - beings
+  - both
+  - tiny
+- - wire
+  - two
+  - short
 - - two
   - short
   - pieces
 - - foresee
   - our
   - triumph
-- - hold
-  - round
-  - two
+- - press
+  - accusing
+  - dobson
 - - answer
   - these
   - questions
-- - number
-  - two
-  - inserted
 - - our
   - triumph
   - thank
-- - potato
-  - number
+- - hold
+  - round
   - two
-- - potato
-  - number
-  - two
-- - taken
-  - two
-  - common
 - - secretive
   - buildings
   - where
+- - number
+  - two
+  - inserted
+- - taken
+  - two
+  - common
 - - working
   - properly
   - where
-- - round
+- - potato
+  - number
   - two
-  - saw
+- - potato
+  - number
+  - two
 - - breath
   - back
   - however
+- - round
+  - two
+  - saw
 - - dobson
   - himself
   - refused
 - - our
   - big
   - boots
-- - bits
-  - under
-  - our
 - - clock
   - unit
   - then
-- - another
-  - taken
-  - two
 - - very
   - different
   - today
 - - terminal
   - point
   - where
+- - bits
+  - under
+  - our
 - - properly
   - where
   - does
+- - another
+  - taken
+  - two
 - - matter
   - dobson
   - himself

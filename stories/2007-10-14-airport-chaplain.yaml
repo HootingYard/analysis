@@ -2,27 +2,27 @@ ngrams:
 - - franchise
   - eric
   - maxwell
-- - eric
-  - maxwell
-  - davies
-- - eric
-  - maxwell
-  - davies
 - - revenge
   - readings
   - confirm
+- - eric
+  - maxwell
+  - davies
+- - eric
+  - maxwell
+  - davies
 - - eric's
   - scenes
   - filmed
-- - fractious
-  - unhinged
-  - dyspeptic
 - - unhinged
   - dyspeptic
   - rancorous
 - - episodes
   - explicit
   - hints
+- - fractious
+  - unhinged
+  - dyspeptic
 - - airport
   - chaplain
   - lumbered
@@ -41,87 +41,87 @@ ngrams:
 - - airport
   - hunger
   - artist
-- - eric's
-  - dinner
-  - plate
-- - beltane
-  - bonfire
-  - meanwhile
-- - dinner
-  - plate
-  - unkempt
 - - counter
   - streisand
   - meeting
 - - madcap
   - airport
   - boffin
-- - peter
-  - maxwell
-  - davies
+- - beltane
+  - bonfire
+  - meanwhile
+- - eric's
+  - dinner
+  - plate
+- - dinner
+  - plate
+  - unkempt
 - - airport
   - boffin
   - loopy
+- - peter
+  - maxwell
+  - davies
 - - desolate
   - bells
   - clanged
-- - team
-  - invariably
-  - gathers
+- - clever
+  - strategic
+  - reasons
 - - airport
   - squirrel
   - skittered
 - - airport
   - chaplain
   - episode
-- - clever
-  - strategic
-  - reasons
 - - whooper
   - swans
   - whooped
+- - team
+  - invariably
+  - gathers
 - - meeting
   - concludes
   - except
 - - episode
   - fondly
   - remembered
+- - sturdy
+  - oak
+  - tree
+- - massive
+  - stone
+  - slab
 - - chaplain
   - father
   - umberto
 - - variation
   - father
   - umberto
-- - massive
-  - stone
-  - slab
-- - sturdy
-  - oak
-  - tree
 - - appearance
   - desolate
   - bells
+- - whooper
+  - swans
+  - visible
 - - clever
   - variation
   - father
 - - airport
   - chaplain
   - father
+- - dr
+  - loopy
+  - streisand
 - - tinkly
   - music
   - composed
 - - gods
   - held
   - sway
-- - dr
-  - loopy
-  - streisand
-- - whooper
-  - swans
-  - visible
-- - held
-  - sway
-  - except
+- - mad
+  - airport
+  - boffin
 - - bygone
   - era
   - sat
@@ -131,27 +131,27 @@ ngrams:
 - - high
   - metabolic
   - rate
-- - mad
-  - airport
-  - boffin
+- - held
+  - sway
+  - except
 - - boffin
   - dr
   - loopy
-- - ancient
-  - egyptian
-  - ones
-- - mad
-  - boffin
-  - bent
-- - gloomy
-  - music
-  - accompanied
 - - airport
   - boffin
   - dr
+- - mad
+  - boffin
+  - bent
+- - ancient
+  - egyptian
+  - ones
 - - apprentice
   - goat
   - boy
+- - gloomy
+  - music
+  - accompanied
 - - confess
   - goat
   - boy
@@ -164,33 +164,33 @@ ngrams:
 - - hear
   - tinkly
   - music
+- - boy
+  - goat
+  - boy
+- - goat
+  - boy
+  - goat
 - - egyptian
   - ones
   - whose
 - - ones
   - whose
   - wrath
-- - boy
-  - goat
-  - boy
 - - night
   - watchman
   - settles
-- - goat
-  - boy
-  - goat
 - - ago
   - episode
   - fondly
 - - airport
   - tinker
   - both
-- - pasteboard
-  - partition
-  - around
 - - having
   - eric's
   - scenes
+- - pasteboard
+  - partition
+  - around
 - - known
   - gods
   - held
@@ -200,15 +200,15 @@ ngrams:
 - - new
   - plot
   - development
+- - new
+  - moustache
+  - grown
 - - weirdly
   - dainty
   - little
 - - dainty
   - little
   - fists
-- - new
-  - moustache
-  - grown
 - - many
   - episodes
   - explicit
@@ -221,51 +221,54 @@ ngrams:
 - - long
   - ago
   - episode
+- - eric
+  - might
+  - eat
 - - watchman
   - settles
   - down
-- - goat
-  - boy
-  - 'off'
 - - another
   - continent
   - far
-- - airport
-  - floozy
-  - may
 - - interfaith
   - chaplaincy
   - where
+- - goat
+  - boy
+  - 'off'
 - - runway
   - where
   - madcap
+- - airport
+  - floozy
+  - may
 - - experimental
   - runway
   - where
 - - where
   - madcap
   - airport
-- - eric
-  - might
-  - eat
 - - continent
   - far
   - away
-- - past
-  - four
-  - years
-- - squirrels
-  - its
-  - twitching
-- - day
-  - although
-  - due
 - - moustache
   - grown
   - upon
+- - squirrels
+  - its
+  - twitching
+- - past
+  - four
+  - years
 - - capstick
   - also
   - before
+- - day
+  - although
+  - due
+- - am
+  - constantly
+  - scheming
 - - its
   - high
   - metabolic
@@ -278,42 +281,39 @@ ngrams:
 - - few
   - before
   - heading
-- - am
-  - constantly
-  - scheming
+- - also
+  - before
+  - breakfast
 - - happy
   - few
   - before
 - - airport
   - each
   - day
-- - also
-  - before
-  - breakfast
 - - once
   - did
   - eric
-- - dragged
-  - him
-  - forcibly
-- - tinker
-  - both
-  - her
-- - both
-  - her
-  - disdain
+- - far
+  - away
+  - across
 - - ago
   - now
   - neither
 - - brother
   - once
   - did
-- - far
-  - away
-  - across
+- - dragged
+  - him
+  - forcibly
 - - each
   - day
   - although
+- - security
+  - guards
+  - who
+- - hunger
+  - artist
+  - who
 story:
   date: 2007-10-14
   id: 2007-10-14-airport-chaplain

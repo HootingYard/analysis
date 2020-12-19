@@ -5,15 +5,9 @@ ngrams:
 - - gibbering
   - mental
   - wrecks
-- - prince
-  - '-'
-  - founder
 - - startling
   - bedside
   - manner
-- - james
-  - prince
-  - '-'
 - - henry
   - james
   - prince
@@ -23,18 +17,24 @@ ngrams:
 - - dr
   - prince
   - arrived
-- - doctor
-  - later
-  - reverend
+- - prince
+  - '-'
+  - founder
+- - james
+  - prince
+  - '-'
 - - later
   - reverend
   - prince
-- - good
-  - lady
-  - replied
+- - doctor
+  - later
+  - reverend
 - - own
   - blindness
   - sensing
+- - good
+  - lady
+  - replied
 - - most
   - horrid
   - passions
@@ -50,15 +50,15 @@ ngrams:
 - - until
   - dr
   - prince
+- - cheerful
+  - enough
+  - until
 - - three
   - weeks
   - ago
 - - most
   - appalling
   - picture
-- - cheerful
-  - enough
-  - until
 - - enough
   - until
   - dr
@@ -74,24 +74,30 @@ ngrams:
 - - god
   - how
   - full
-- - frequently
-  - visited
-  - her
 - - damn
   - her
   - husband
+- - frequently
+  - visited
+  - her
 - - her
   - legs
   - prevented
 - - legs
   - prevented
   - her
+- - seemed
+  - more
+  - intent
 - - her
   - misery
   - prince
 - - reason
   - irritated
   - her
+- - become
+  - more
+  - wicked
 - - her
   - bed
   - waiting
@@ -101,30 +107,27 @@ ngrams:
 - - bed
   - she
   - seems
-- - seemed
-  - more
-  - intent
-- - death
-  - bed
-  - she
-- - her
-  - death
-  - bed
-- - passing
-  - her
-  - door
-- - become
-  - more
-  - wicked
-- - she
-  - quite
-  - trembled
 - - some
   - reason
   - irritated
+- - death
+  - bed
+  - she
 - - lady's
   - husband
   - who
+- - her
+  - death
+  - bed
+- - she
+  - quite
+  - trembled
+- - passing
+  - her
+  - door
+- - curing
+  - their
+  - bodies
 - - her
   - own
   - blindness
@@ -137,9 +140,6 @@ ngrams:
 - - her
   - most
   - solemnly
-- - curing
-  - their
-  - bodies
 story:
   date: 2009-03-21
   id: 2009-03-21-startling-bedside-manner

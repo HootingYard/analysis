@@ -5,21 +5,18 @@ ngrams:
 - - kafka
   - edvard
   - munch
-- - painter
-  - barnett
-  - newman
 - - franz
   - kafka
   - edvard
-- - patron
-  - commissioned
+- - painter
+  - barnett
   - newman
 - - edvard
   - munch
   - sylvia
-- - supposedly
-  - frightening
-  - clowns
+- - patron
+  - commissioned
+  - newman
 - - munch
   - sylvia
   - plath
@@ -29,33 +26,36 @@ ngrams:
 - - wealthy
   - patron
   - commissioned
+- - supposedly
+  - frightening
+  - clowns
 - - samuel
   - beckett
   - rolf
-- - american
-  - painter
-  - barnett
-- - supplement
-  - feature
-  - articles
 - - sylvia
   - plath
   - e
-- - vertical
-  - yellow
-  - stripe
+- - supplement
+  - feature
+  - articles
+- - american
+  - painter
+  - barnett
 - - pure
   - unbridled
   - screaming
 - - critic
   - robert
   - hughes
-- - bright
-  - baggy
-  - apparel
+- - vertical
+  - yellow
+  - stripe
 - - plath
   - e
   - m
+- - bright
+  - baggy
+  - apparel
 - - critical
   - pot
   - echoes
@@ -101,27 +101,27 @@ ngrams:
 - - prose
   - without
   - resorting
-- - plain
-  - prose
-  - without
 - - troupe
   - though
   - others
-- - most
-  - committed
-  - members
+- - plain
+  - prose
+  - without
 - - i'm
   - afraid
   - though
+- - most
+  - committed
+  - members
 - - light
   - entertainment
   - few
-- - terrible
-  - old
-  - fraud
 - - while
   - wearing
   - bright
+- - terrible
+  - old
+  - fraud
 - - beginning
   - old
   - ma
@@ -131,201 +131,201 @@ ngrams:
 - - first
   - appearances
   - suggest
-- - original
-  - man
-  - shouting
 - - just
   - simple
   - folk
-- - scream
-  - our
-  - heads
+- - original
+  - man
+  - shouting
 - - than
   - pure
   - unbridled
-- - enough
-  - too
-  - big
+- - scream
+  - our
+  - heads
 - - soon
   - enough
   - too
+- - enough
+  - too
+  - big
 - - however
   - led
   - many
-- - see
-  - nor
-  - hear
 - - even
   - entire
   - books
+- - see
+  - nor
+  - hear
 - - seem
   - more
   - inclined
 - - youtube
   - rather
   - than
-- - some
-  - ways
-  - disturbing
 - - do
   - i'm
   - afraid
 - - very
   - beginning
   - old
+- - some
+  - ways
+  - disturbing
 - - carry
   - some
   - weight
 - - these
   - people
   - while
-- - who
-  - cuts
-  - capers
 - - fans
   - loved
   - them
+- - who
+  - cuts
+  - capers
 - - existent
   - who
   - bashed
 - - fans
   - who
   - devised
+- - 'no'
+  - discernible
+  - talent
 - - our
   - heads
   - 'off'
 - - made
   - very
   - clear
-- - 'no'
-  - discernible
-  - talent
 - - folk
   - who
   - stand
 - - woman
   - who
   - cuts
-- - simple
-  - folk
-  - who
 - - their
   - fans
   - loved
-- - century
-  - has
-  - alas
+- - simple
+  - folk
+  - who
 - - their
   - mass
   - appeal
 - - seeing
   - their
   - screaming
+- - century
+  - has
+  - alas
 - - scream
   - their
   - heads
 - - over
   - our
   - ears
-- - our
-  - hands
-  - over
-- - hands
-  - over
-  - our
 - - whether
   - their
   - audiences
 - - unbridled
   - screaming
   - what
-- - their
-  - act
-  - began
+- - our
+  - hands
+  - over
+- - hands
+  - over
+  - our
 - - about
   - american
   - presidents
-- - audiences
-  - were
-  - composed
-- - pot
-  - echoes
-  - were
-- - memoir
-  - where
-  - she
-- - were
-  - completely
-  - misunderstood
-- - her
-  - memoir
-  - where
+- - their
+  - act
+  - began
 - - other
   - than
   - pure
+- - audiences
+  - were
+  - composed
 - - various
   - misunderstandings
   - about
+- - pot
+  - echoes
+  - were
 - - thinking
   - about
   - american
-- - others
-  - were
-  - content
+- - were
+  - completely
+  - misunderstood
 - - out
   - innumerable
   - essays
 - - bashed
   - out
   - innumerable
-- - where
+- - others
+  - were
+  - content
+- - memoir
+  - where
   - she
-  - wrote
+- - her
+  - memoir
+  - where
 - - were
   - content
   - enough
 - - all
   - essentials
   - exactly
-- - may
-  - carry
-  - some
 - - devised
   - all
   - sorts
+- - may
+  - carry
+  - some
 - - immediate
   - hit
   - they
-- - echoes
-  - were
-  - found
+- - where
+  - she
+  - wrote
 - - hall
   - they
   - moved
+- - echoes
+  - were
+  - found
 - - their
   - first
   - appearances
+- - something
+  - other
+  - than
+- - live
+  - performance
+  - we
 - - their
   - heads
   - 'off'
 - - were
   - soon
   - enough
-- - something
-  - other
-  - than
 - - music
   - hall
   - they
-- - live
-  - performance
-  - we
-- - train
-  - they
-  - began
 - - about
   - while
   - wearing
+- - train
+  - they
+  - began
 story:
   date: 2012-02-29
   id: 2012-02-29-on-the-screaming-abdabs

@@ -11,44 +11,41 @@ ngrams:
 - - hi
   - fi
   - system
-- - j
-  - b
-  - priestley
-- - mine
-  - someone
-  - swears
 - - physical
   - resemblance
   - la
+- - mine
+  - someone
+  - swears
+- - j
+  - b
+  - priestley
 - - mark
   - e
   - smith
-- - resemblance
-  - la
-  - gubbins
 - - northern
   - white
   - crap
-- - mrs
+- - resemblance
+  - la
   - gubbins
-  - smuggling
 - - stunned
   - cows
   - blinky
-- - alas
-  - mrs
+- - mrs
   - gubbins
+  - smuggling
 - - cows
   - stand
   - stunned
 - - doesn't
   - bear
   - thinking
+- - alas
+  - mrs
+  - gubbins
 - - end
   - la
-  - gubbins
-- - saw
-  - mrs
   - gubbins
 - - priestley
   - another
@@ -56,75 +53,78 @@ ngrams:
 - - b
   - priestley
   - another
+- - saw
+  - mrs
+  - gubbins
 - - new
   - musical
   - fad
-- - little
-  - eldritch
-  - unicorns
 - - thing
   - alas
   - mrs
+- - little
+  - eldritch
+  - unicorns
 - - most
   - compelling
   - evidence
 - - every
   - single
   - record
-- - only
-  - grew
-  - tired
 - - fi
   - system
   - down
+- - only
+  - grew
+  - tired
 - - la
   - gubbins
   - only
-- - gubbins
-  - only
-  - grew
 - - record
   - collection
   - day
+- - gubbins
+  - only
+  - grew
+- - like
+  - j
+  - b
 - - her
   - dusty
   - hi
 - - her
   - undiluted
   - enthusiasm
-- - like
-  - j
-  - b
-- - her
-  - fall
-  - records
-- - her
-  - record
-  - collection
-- - happened
-  - her
-  - undiluted
 - - these
   - little
   - eldritch
-- - laid
-  - her
-  - hands
 - - worse
   - these
   - little
-- - taken
-  - her
-  - dusty
-- - look
-  - like
-  - j
-- - some
-  - enlightened
-  - lands
+- - her
+  - fall
+  - records
 - - do
   - fools
   - fall
+- - happened
+  - her
+  - undiluted
+- - her
+  - record
+  - collection
+- - some
+  - enlightened
+  - lands
+- - look
+  - like
+  - j
+- - laid
+  - her
+  - hands
+- - taken
+  - her
+  - dusty
 story:
   date: 2007-02-20
   id: 2007-02-20-gubbins-music

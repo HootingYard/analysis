@@ -2,15 +2,15 @@ ngrams:
 - - disarmingly
   - naive
   - amateurish
+- - starring
+  - ralph
+  - meeker
 - - alternately
   - shrieks
   - whispers
 - - shrieks
   - whispers
   - declaims
-- - starring
-  - ralph
-  - meeker
 - - aldrich
   - starring
   - ralph
@@ -29,27 +29,27 @@ ngrams:
 - - stalin
   - alternately
   - shrieks
+- - lyricist
+  - harold
+  - stalin
 - - harold
   - stalin
   - alternately
 - - singer
   - stalin
   - charmed
-- - lyricist
+- - solo
   - harold
   - stalin
 - - deadly
   - robert
   - aldrich
-- - solo
-  - harold
-  - stalin
-- - robert
-  - aldrich
-  - starring
 - - improvised
   - din
   - produced
+- - robert
+  - aldrich
+  - starring
 - - periodical
   - singer
   - stalin
@@ -65,12 +65,12 @@ ngrams:
 - - magazine's
   - song
   - fatally
-- - huge
-  - international
-  - success
 - - measure
   - magazine's
   - song
+- - huge
+  - international
+  - success
 - - handbook
   - lavender
   - series
@@ -80,45 +80,45 @@ ngrams:
 - - units
   - second
   - handbook
-- - seemed
-  - incongruous
-  - coming
-- - second
-  - handbook
-  - lavender
 - - title
   - lead
   - kindly
+- - second
+  - handbook
+  - lavender
+- - seemed
+  - incongruous
+  - coming
 - - blinding
   - incandescent
   - light
 - - men
   - wearing
   - specs
-- - bald
-  - men
-  - wearing
 - - harold
   - stalin
   - got
+- - bald
+  - men
+  - wearing
 - - exact
   - same
   - melody
 - - lead
   - kindly
   - light
-- - careful
-  - marigold
-  - chew
 - - secondhand
   - pamphlet
   - shop
-- - marigold
-  - chew
-  - devised
 - - who's
   - tommy
   - indeed
+- - careful
+  - marigold
+  - chew
+- - marigold
+  - chew
+  - devised
 - - roger
   - daltrey
   - himself
@@ -134,9 +134,6 @@ ngrams:
 - - new
   - group
   - adopting
-- - dobson
-  - proved
-  - conclusively
 - - those
   - disarmingly
   - naive
@@ -146,15 +143,15 @@ ngrams:
 - - attached
   - wiring
   - just
-- - periodical
-  - front
-  - man
 - - scriabin
   - before
   - bursting
-- - print
-  - dobson
-  - argues
+- - dobson
+  - proved
+  - conclusively
+- - periodical
+  - front
+  - man
 - - any
   - measure
   - magazine's
@@ -164,114 +161,117 @@ ngrams:
 - - still
   - goes
   - under
-- - very
-  - careful
-  - marigold
 - - racket
   - well
   - perhaps
+- - print
+  - dobson
+  - argues
+- - very
+  - careful
+  - marigold
 - - whole
   - thing
   - again
-- - remind
-  - us
-  - why
 - - very
   - least
   - acceptable
+- - remind
+  - us
+  - why
 - - thing
   - again
   - later
-- - again
-  - later
-  - take
 - - more
   - convincing
   - interviewee
-- - these
-  - years
-  - serves
-- - babbled
-  - some
-  - bollocks
+- - again
+  - later
+  - take
 - - himself
   - than
   - howard
+- - these
+  - years
+  - serves
 - - more
   - vivid
   - picture
+- - babbled
+  - some
+  - bollocks
 - - several
   - other
   - songs
-- - screaming
-  - teenagers
-  - who
 - - wiring
   - just
   - before
+- - screaming
+  - teenagers
+  - who
 - - very
   - very
   - careful
-- - track
-  - down
-  - dobson
 - - just
   - before
   - passing
+- - far
+  - more
+  - vivid
 - - sockets
   - mixed
   - up
 - - those
   - years
   - ago
-- - been
-  - chart
-  - hits
-- - down
+- - track
+  - down
   - dobson
-  - wrote
-- - far
-  - more
-  - vivid
 - - madcap
   - could
   - ever
+- - been
+  - chart
+  - hits
 - - has
   - always
   - insisted
-- - try
-  - your
-  - patience
-- - been
-  - encamped
-  - outside
 - - bollocks
   - about
   - ravel
+- - down
+  - dobson
+  - wrote
+- - been
+  - encamped
+  - outside
 - - magazine's
   - foray
   - into
+- - accolade
+  - if
+  - accolade
+- - try
+  - your
+  - patience
 - - remarkable
   - effulgence
   - into
 - - what
   - else
   - accompanying
-- - accolade
-  - if
-  - accolade
 - - when
   - opened
   - reveals
 - - bursting
   - into
   - tears
-- - into
-  - tears
-  - tearing
 - - pouring
   - out
   - magazine's
+- - into
+  - tears
+  - tearing
 - - lord
   - knows
   - what
@@ -290,6 +290,9 @@ ngrams:
 - - kiss
   - me
   - deadly
+- - hear
+  - more
+  - than
 - - light
   - pours
   - out
@@ -311,15 +314,9 @@ ngrams:
 - - touch
   - me
   - twaddle
-- - hear
-  - more
-  - than
 - - tommy
   - indeed
   - when
-- - touch
-  - me
-  - try
 - - flinging
   - himself
   - into
@@ -329,42 +326,45 @@ ngrams:
 - - feel
   - me
   - touch
+- - touch
+  - me
+  - try
 - - could
   - ever
   - think
-- - more
-  - than
-  - once
 - - teenyboppers
   - would
   - want
-- - which
-  - shines
-  - forth
+- - more
+  - than
+  - once
 - - rhyme
   - so
   - foolish
 - - exact
   - science
   - so
+- - which
+  - shines
+  - forth
 - - before
   - bursting
   - into
-- - special
-  - cover
-  - which
-- - amuse
-  - us
-  - all
 - - print
   - if
   - ever
-- - ditties
-  - which
-  - used
-- - shaved
-  - 'off'
+- - something
+  - teenyboppers
+  - would
+- - amuse
+  - us
   - all
+- - see
+  - me
+  - emit
+- - see
+  - me
+  - emit
 story:
   date: 2012-07-25
   id: 2012-07-25-on-light-pouring-out

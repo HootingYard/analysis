@@ -5,15 +5,15 @@ ngrams:
 - - inner
   - glove
   - pod
+- - my
+  - inner
+  - glove
+- - my
+  - inner
+  - glove
 - - glove
   - pod
   - my
-- - my
-  - inner
-  - glove
-- - my
-  - inner
-  - glove
 story:
   date: 2012-03-28
   id: 2012-03-28-my-inner-glove-pod

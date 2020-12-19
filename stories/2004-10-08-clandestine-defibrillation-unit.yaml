@@ -11,12 +11,12 @@ ngrams:
 - - abandoned
   - birdcage
   - factory
-- - tasmanian
-  - duck
-  - doctor
 - - wife
   - grew
   - impatient
+- - tasmanian
+  - duck
+  - doctor
 - - post
   - office
   - worker
@@ -41,15 +41,15 @@ ngrams:
 - - using
   - identical
   - words
-- - hat
-  - shop
-  - called
 - - got
   - married
   - myself
 - - document
   - imploring
   - us
+- - hat
+  - shop
+  - called
 - - bought
   - us
   - cake
@@ -59,15 +59,15 @@ ngrams:
 - - remove
   - those
   - flags
+- - hat
+  - trade
+  - much
 - - ice
   - floe
   - after
 - - our
   - jeep
   - terrifying
-- - hat
-  - trade
-  - much
 - - floe
   - after
   - six
@@ -83,6 +83,12 @@ ngrams:
 - - hamfisted
   - flapping
   - like
+- - furious
+  - more
+  - furious
+- - then
+  - tuesday
+  - weld
 - - shared
   - her
   - passion
@@ -92,60 +98,51 @@ ngrams:
 - - months
   - she
   - decamped
-- - considered
-  - pursuing
-  - her
 - - flags
   - she
   - cried
+- - considered
+  - pursuing
+  - her
 - - her
   - pencil
   - sharpener
-- - furious
-  - more
-  - furious
-- - then
-  - tuesday
-  - weld
-- - six
-  - months
-  - she
 - - time
   - using
   - identical
-- - very
-  - little
-  - interest
+- - six
+  - months
+  - she
 - - very
   - same
   - name
-- - worker
-  - who
-  - wore
+- - very
+  - little
+  - interest
 - - welcome
   - us
   - even
+- - worker
+  - who
+  - wore
 - - office
   - worker
   - who
-- - wife
-  - has
-  - run
 - - same
   - time
   - using
-- - those
-  - flags
-  - she
-- - grew
-  - up
-  - thinking
+- - wife
+  - has
+  - run
 - - could
   - never
   - argue
-- - ever
-  - seen
-  - her
+- - grew
+  - up
+  - thinking
+- - us
+  - even
+  - though
 - - preoccupations
   - were
   - putty
@@ -155,24 +152,27 @@ ngrams:
 - - make
   - some
   - attempt
+- - those
+  - flags
+  - she
 - - were
   - clandestine
   - tuesday
-- - only
-  - looked
-  - like
-- - us
-  - even
-  - though
-- - reputation
-  - will
-  - match
 - - more
   - furious
   - than
-- - all
-  - married
-  - couples
+- - ever
+  - seen
+  - her
+- - reputation
+  - will
+  - match
+- - only
+  - looked
+  - like
+- - decisively
+  - important
+  - if
 story:
   date: 2004-10-08
   id: 2004-10-08-clandestine-defibrillation-unit

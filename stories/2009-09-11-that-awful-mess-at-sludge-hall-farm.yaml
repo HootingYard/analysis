@@ -8,18 +8,18 @@ ngrams:
 - - swiftly
   - dissembled
   - creaking
-- - major
-  - domo
-  - shuddered
+- - inexplicably
+  - bizarre
+  - hay
 - - monopod
   - major
   - domo
 - - boffo
   - splendido
   - shoes
-- - inexplicably
-  - bizarre
-  - hay
+- - major
+  - domo
+  - shuddered
 - - unimpeachable
   - foreign
   - elegance
@@ -29,54 +29,54 @@ ngrams:
 - - detectives
   - seek
   - refuge
-- - storm
-  - weirdly
-  - ceased
 - - stylishly
   - dressed
   - italian
-- - hideous
-  - mutant
-  - angry
+- - storm
+  - weirdly
+  - ceased
 - - lars
   - hyperventilating
   - convulsed
 - - respects
   - broadly
   - similar
+- - hideous
+  - mutant
+  - angry
 - - police
   - investigators
   - tramping
-- - telepathic
-  - team
-  - spirit
 - - italian
   - police
   - investigators
-- - farm
-  - legal
-  - notice
+- - telepathic
+  - team
+  - spirit
 - - hall
   - farm
   - hayloft
 - - foreign
   - elegance
   - alas
+- - farm
+  - legal
+  - notice
 - - smudged
   - cubby
   - window
-- - italian
-  - blood
-  - unquenched
 - - hall
   - farm
   - legal
-- - building
-  - forever
-  - assailed
+- - italian
+  - blood
+  - unquenched
 - - tempest
   - roared
   - outside
+- - building
+  - forever
+  - assailed
 - - sludge
   - hall
   - farm
@@ -116,168 +116,171 @@ ngrams:
 - - comes
   - equally
   - anomalous
+- - hall
+  - farm
+  - mentioned
 - - front
   - page
   - headline
 - - detectives
   - push
   - open
-- - metal
-  - tapping
-  - machine
-- - hall
-  - farm
-  - mentioned
-- - hall
-  - farm
-  - speak
 - - distinctly
   - different
   - farms
 - - entranced
   - mutant
   - pig
+- - metal
+  - tapping
+  - machine
+- - hall
+  - farm
+  - speak
 - - mutant
   - angry
   - pig
-- - covered
-  - cart
-  - half
 - - farmer
   - doing
   - leading
 - - leaden
   - sky
   - turning
+- - covered
+  - cart
+  - half
 - - mystic
   - farmer
   - doing
-- - sludge
-  - hall
-  - itself
 - - tonic
   - thus
   - fortified
+- - sludge
+  - hall
+  - itself
 - - almost
   - telepathic
   - team
 - - iron
   - tonic
   - thus
+- - year
+  - since
+  - comeliness
 - - dining
   - room
   - table
 - - rapid
   - circles
   - around
-- - year
-  - since
-  - comeliness
 - - room
   - table
   - tomorrow
 - - bizarre
   - hay
   - why
-- - violent
-  - orange
-  - why
-- - roared
-  - outside
-  - having
-- - outside
-  - having
-  - tapped
-- - detective
-  - trio
-  - until
 - - champion
   - though
   - aged
+- - violent
+  - orange
+  - why
+- - outside
+  - having
+  - tapped
+- - roared
+  - outside
+  - having
+- - detective
+  - trio
+  - until
 - - most
   - respects
   - broadly
-- - domo
-  - made
-  - arrangements
 - - storminess
   - never
   - ceases
+- - domo
+  - made
+  - arrangements
 - - major
   - domo
   - made
 - - those
   - sparks
   - shooting
-- - two
-  - distinctly
-  - different
-- - storm
-  - never
-  - comes
 - - cart
   - half
   - way
-- - long
-  - year
-  - since
+- - storm
+  - never
+  - comes
+- - two
+  - distinctly
+  - different
 - - never
   - comes
   - equally
+- - long
+  - year
+  - since
 - - any
   - intelligible
   - meaning
-- - only
-  - metal
-  - tapping
-- - over
-  - sludge
-  - hall
 - - such
   - unimpeachable
   - foreign
+- - over
+  - sludge
+  - hall
 - - sludge
   - hall
   - where
-- - detectives
-  - now
-  - sprouting
-- - now
-  - sprouting
-  - hay
-- - where
-  - lars
-  - dropped
-- - half
-  - way
-  - towards
 - - velvet
   - cushions
   - upon
-- - its
-  - frame
-  - rattling
-- - like
-  - normal
+- - where
+  - lars
+  - dropped
+- - only
+  - metal
+  - tapping
+- - now
+  - sprouting
   - hay
 - - yards
   - beyond
   - where
+- - detectives
+  - now
+  - sprouting
+- - half
+  - way
+  - towards
+- - its
+  - frame
+  - rattling
 - - snapped
   - its
   - chain
 - - sky
   - over
   - sludge
-- - blur
-  - why
-  - back
 - - beyond
   - where
   - lars
+- - like
+  - normal
+  - hay
 - - unquenched
   - then
   - rampage
+- - blur
+  - why
+  - back
+- - more
+  - rapid
+  - circles
 - - cubby
   - window
   - its
@@ -287,9 +290,6 @@ ngrams:
 - - like
   - mad
   - dogs
-- - more
-  - rapid
-  - circles
 story:
   date: 2009-09-11
   id: 2009-09-11-that-awful-mess-at-sludge-hall-farm

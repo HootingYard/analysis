@@ -23,15 +23,15 @@ ngrams:
 - - pamela
   - lamp
   - became
-- - lamp
-  - became
-  - interested
 - - escapade
   - became
   - apparent
 - - assistant
   - lit
   - dr
+- - lamp
+  - became
+  - interested
 - - child
   - dr
   - lamp
@@ -44,27 +44,27 @@ ngrams:
 - - attached
   - cartographical
   - work
+- - pamela
+  - lamp
+  - came
 - - cartographical
   - work
   - surface
 - - meat
   - consumption
   - around
-- - pamela
-  - lamp
-  - came
 - - lamp
   - came
   - home
 - - came
   - home
   - everything
-- - any
-  - direct
-  - contribution
 - - even
   - attending
   - tastings
+- - any
+  - direct
+  - contribution
 - - broom
   - like
   - cinderella
@@ -83,6 +83,12 @@ ngrams:
 - - assistant
   - help
   - her
+- - make
+  - any
+  - direct
+- - book
+  - back
+  - home
 - - meats
   - she
   - let
@@ -92,24 +98,18 @@ ngrams:
 - - she
   - let
   - herself
-- - make
-  - any
-  - direct
 - - world
   - she
   - travelled
-- - book
-  - back
-  - home
-- - ever
-  - since
-  - she
-- - back
-  - home
-  - where
 - - attending
   - tastings
   - when
+- - when
+  - pamela
+  - lamp
+- - back
+  - home
+  - where
 story:
   date: 2009-01-09
   id: 2009-01-09-dr-lamps-atlas

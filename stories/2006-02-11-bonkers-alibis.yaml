@@ -8,9 +8,6 @@ ngrams:
 - - law
   - enforcement
   - officers
-- - decisive
-  - mustachios
-  - january
 - - embroidered
   - easily
   - disproved
@@ -26,33 +23,36 @@ ngrams:
 - - swat
   - team
   - descending
+- - decisive
+  - mustachios
+  - january
 - - fatally
   - wounded
   - pastry
-- - shady
-  - limping
-  - figure
 - - himalayan
   - mountain
   - range
+- - shady
+  - limping
+  - figure
+- - didn't
+  - happen
+  - equally
+- - white
+  - picket
+  - fence
 - - john
   - f
   - kennedy
 - - president
   - john
   - f
-- - didn't
-  - happen
-  - equally
 - - pastry
   - shop
   - robbery
 - - pastry
   - shop
   - robbery
-- - white
-  - picket
-  - fence
 - - wounded
   - pastry
   - shop
@@ -74,45 +74,45 @@ ngrams:
 - - advice
   - holds
   - 'true'
-- - sinister
-  - black
-  - helicopter
 - - reading
   - celebrity
   - pap
-- - demonstrably
-  - untrue
-  - also
-- - best
-  - option
-  - imagine
+- - sinister
+  - black
+  - helicopter
 - - grey
   - area
   - between
+- - best
+  - option
+  - imagine
+- - demonstrably
+  - untrue
+  - also
+- - holds
+  - 'true'
+  - whether
 - - dealey
   - plaza
   - next
 - - bonkers
   - alibi
   - next
-- - holds
-  - 'true'
-  - whether
 - - placed
   - under
   - arrest
-- - kafka
-  - character
-  - let
-- - pins
-  - within
-  - half
 - - cow
   - pins
   - within
+- - kafka
+  - character
+  - let
 - - zapruder
   - footage
   - find
+- - pins
+  - within
+  - half
 - - alibi
   - next
   - week
@@ -131,21 +131,21 @@ ngrams:
 - - little
   - hands
   - decisive
-- - little
-  - arcade
-  - known
 - - bargains
   - note
   - see
-- - walked
-  - 'off'
-  - towards
+- - little
+  - arcade
+  - known
 - - opened
   - till
   - over
 - - picket
   - fence
   - where
+- - walked
+  - 'off'
+  - towards
 - - let
   - us
   - assume
@@ -161,21 +161,21 @@ ngrams:
 - - note
   - see
   - tiny
-- - november
-  - now
-  - remember
 - - our
   - own
   - personal
 - - promised
   - our
   - own
-- - see
-  - tiny
-  - little
+- - november
+  - now
+  - remember
 - - where
   - being
   - interrogated
+- - see
+  - tiny
+  - little
 - - suddenly
   - smashing
   - their
@@ -188,24 +188,24 @@ ngrams:
 - - up
   - reading
   - celebrity
-- - years
-  - hence
-  - do
 - - bottled
   - stout
   - when
-- - your
-  - window
-  - comes
-- - feet
-  - up
-  - reading
+- - years
+  - hence
+  - do
 - - bonkers
   - alibis
   - if
 - - bonkers
   - alibi
   - if
+- - feet
+  - up
+  - reading
+- - your
+  - window
+  - comes
 - - interrogators
   - will
   - arrange
@@ -215,9 +215,9 @@ ngrams:
 - - smashing
   - their
   - way
-- - been
-  - lying
-  - through
+- - footage
+  - find
+  - out
 story:
   date: 2006-02-11
   id: 2006-02-11-bonkers-alibis

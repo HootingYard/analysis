@@ -2,12 +2,12 @@ ngrams:
 - - agent
   - dick
   - barton
-- - special
-  - agent
-  - dick
 - - toothless
   - wretch
   - possibly
+- - special
+  - agent
+  - dick
 - - free
   - yard
   - directory
@@ -23,6 +23,9 @@ ngrams:
 - - hooting
   - directory
   - perhaps
+- - hooting
+  - yard
+  - pages
 - - presumably
   - spent
   - her
@@ -32,33 +35,30 @@ ngrams:
 - - her
   - delightful
   - letter
-- - hooting
-  - yard
-  - pages
-- - her
-  - weekend
-  - reading
 - - says
   - among
   - other
 - - our
   - free
   - yard
+- - her
+  - weekend
+  - reading
 - - other
   - things
   - hello
-- - read
-  - her
-  - delightful
-- - barton
-  - who
-  - says
 - - next
   - friday
   - then
+- - barton
+  - who
+  - says
 - - specialist
   - has
   - written
+- - read
+  - her
+  - delightful
 - - among
   - other
   - things
@@ -68,12 +68,12 @@ ngrams:
 - - hooting
   - specialist
   - has
-- - 'no'
-  - hooting
-  - specialist
 - - come
   - before
   - such
+- - 'no'
+  - hooting
+  - specialist
 story:
   date: 2004-12-20
   id: 2004-12-20-danielle-barton-writes

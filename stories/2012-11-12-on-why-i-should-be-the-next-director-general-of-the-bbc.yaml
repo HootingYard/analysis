@@ -2,15 +2,18 @@ ngrams:
 - - benevolent
   - dictator
   - assisted
-- - celebrity
-  - antique
-  - cookery
 - - ditched
   - ha
   - ha
+- - celebrity
+  - antique
+  - cookery
 - - seemingly
   - numberless
   - tiers
+- - classic
+  - googie
+  - withers
 - - imminent
   - star
   - trek
@@ -20,48 +23,45 @@ ngrams:
 - - antique
   - cookery
   - car
-- - classic
-  - googie
-  - withers
 - - cookery
   - car
   - jungle
-- - current
-  - bbc
-  - schedules
 - - googie
   - withers
   - films
+- - current
+  - bbc
+  - schedules
 - - channel
   - dedicated
   - wholly
 - - car
   - jungle
   - challenge
-- - tabloid
-  - newspaper
-  - recently
 - - scandinavian
   - police
   - dramas
+- - tabloid
+  - newspaper
+  - recently
 - - chiefly
   - scandinavian
   - police
-- - technical
-  - gubbins
-  - works
-- - bbc
-  - director
-  - general
 - - bbc
   - persons
   - witter
+- - bbc
+  - director
+  - general
 - - activities
   - bbc
   - persons
 - - green
   - wing
   - radio
+- - technical
+  - gubbins
+  - works
 - - intelligent
   - general
   - interest
@@ -74,27 +74,27 @@ ngrams:
 - - television
   - service
   - entirely
-- - best
-  - weekly
-  - periodical
 - - general
   - interest
   - magazine
+- - best
+  - weekly
+  - periodical
 - - show
   - dedicated
   - entirely
-- - listener
-  - younger
-  - readers
-- - finest
-  - achievement
-  - however
 - - approved
   - film
   - persons
+- - listener
+  - younger
+  - readers
 - - won't
   - need
   - ennobling
+- - finest
+  - achievement
+  - however
 - - leonard
   - cohen
   - put
@@ -107,12 +107,12 @@ ngrams:
 - - lines
   - perhaps
   - doubling
-- - name
-  - british
-  - broadcasting
 - - star
   - trek
   - world
+- - name
+  - british
+  - broadcasting
 - - next
   - director
   - general
@@ -143,18 +143,18 @@ ngrams:
 - - two
   - decades
   - ago
-- - let
-  - us
-  - gain
 - - impossible
   - dream
   - even
-- - job
-  - now
-  - unexpectedly
+- - let
+  - us
+  - gain
 - - other
   - digital
   - devices
+- - job
+  - now
+  - unexpectedly
 - - other
   - activities
   - bbc
@@ -167,9 +167,6 @@ ngrams:
 - - proper
   - peasants
   - other
-- - let
-  - us
-  - look
 - - bbc
   - could
   - easily
@@ -179,99 +176,111 @@ ngrams:
 - - other
   - approved
   - film
-- - kind
-  - now
-  - absent
-- - big
-  - job
-  - now
 - - morning
   - did
   - refer
-- - other
-  - single
-  - source
-- - other
-  - big
-  - job
+- - kind
+  - now
+  - absent
+- - let
+  - us
+  - look
 - - bbc
   - could
   - possibly
-- - gain
-  - some
-  - perspective
+- - other
+  - single
+  - source
+- - big
+  - job
+  - now
 - - film
   - persons
   - other
-- - masses
-  - after
-  - say
+- - other
+  - big
+  - job
 - - between
   - hour
   - upon
+- - gain
+  - some
+  - perspective
+- - masses
+  - after
+  - say
 - - management
   - actually
   - do
+- - resignation
+  - after
+  - just
+- - some
+  - proper
+  - peasants
 - - closed
   - down
   - two
 - - down
   - two
   - decades
-- - some
-  - proper
-  - peasants
-- - resignation
-  - after
-  - just
-- - bash
-  - some
-  - sense
 - - course
   - other
   - approved
+- - bash
+  - some
+  - sense
 - - its
   - own
   - right
+- - who
+  - makes
+  - sure
 - - person
   - who
   - knows
 - - person
   - who
   - makes
-- - who
-  - makes
-  - sure
-- - now
-  - let
-  - us
-- - us
-  - gain
-  - some
-- - way
-  - every
-  - day
 - - other
   - than
   - googie
 - - bbc
   - trust
   - when
+- - way
+  - every
+  - day
+- - now
+  - let
+  - us
+- - us
+  - gain
+  - some
 - - get
   - their
   - slots
-- - perhaps
-  - doubling
-  - up
 - - persons
   - other
   - than
+- - perhaps
+  - doubling
+  - up
 - - any
   - other
   - single
 - - digital
   - devices
   - all
+- - am
+  - sure
+  - after
+- - else
+  - will
+  - agree
+- - everyone
+  - else
+  - will
 - - approach
   - basically
   - all
@@ -281,63 +290,54 @@ ngrams:
 - - who
   - knows
   - how
-- - else
-  - will
-  - agree
-- - everyone
-  - else
-  - will
-- - am
-  - sure
-  - after
-- - they
-  - broadcast
-  - resonance
-- - radio
-  - that's
-  - all
 - - googie
   - canon
   - we
+- - they
+  - broadcast
+  - resonance
 - - masses
   - truly
   - we
 - - will
   - agree
   - thus
-- - truly
-  - we
-  - live
+- - radio
+  - that's
+  - all
 - - would
   - immediately
   - dispense
-- - i'm
-  - your
-  - man
-- - makes
-  - sure
-  - they
-- - withers
-  - films
-  - which
-- - reply
-  - maybe
-  - so
+- - truly
+  - we
+  - live
 - - would
   - however
   - retain
 - - achievement
   - however
   - would
+- - reply
+  - maybe
+  - so
+- - makes
+  - sure
+  - they
+- - i'm
+  - your
+  - man
+- - withers
+  - films
+  - which
+- - while
+  - we
+  - bash
 - - are
   - already
   - hundreds
 - - sense
   - back
   - into
-- - while
-  - we
-  - bash
 - - knows
   - how
   - all

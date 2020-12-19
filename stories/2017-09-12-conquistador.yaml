@@ -2,39 +2,39 @@ ngrams:
 - - poisoned
   - dart
   - plunges
-- - exotic
-  - landscape
-  - famished
-- - peruvian
-  - native
-  - fires
-- - firing
-  - poisonous
-  - darts
 - - peru
   - crown
   - copyright
+- - exotic
+  - landscape
+  - famished
 - - native
   - peruvian
   - firing
 - - peruvian
-  - firing
-  - poisonous
+  - native
+  - fires
 - - nocturnal
   - peruvian
   - native
 - - expending
   - energy
   - hacking
+- - firing
+  - poisonous
+  - darts
+- - peruvian
+  - firing
+  - poisonous
 - - fellow
   - adventuring
   - conquerors
-- - strange
-  - exotic
-  - landscape
 - - easily
   - meltable
   - added
+- - strange
+  - exotic
+  - landscape
 - - terrifying
   - bellowing
   - noises
@@ -56,15 +56,15 @@ ngrams:
 - - get
   - sufficient
   - purchase
-- - puncture
-  - drawing
-  - every
-- - things
-  - considered
-  - conquistador
 - - itself
   - further
   - tips
+- - things
+  - considered
+  - conquistador
+- - puncture
+  - drawing
+  - every
 - - simple
   - enough
   - matter
@@ -86,12 +86,12 @@ ngrams:
 - - adventuring
   - conquerors
   - before
-- - difficulty
-  - getting
-  - back
 - - conquerors
   - before
   - nightfall
+- - difficulty
+  - getting
+  - back
 - - harum
   - first
   - appeared
@@ -101,27 +101,27 @@ ngrams:
 - - soften
   - before
   - trying
-- - mouth
-  - before
-  - spitting
 - - topple
   - over
   - pale
-- - every
-  - last
-  - drop
-- - drawing
-  - every
-  - last
+- - mouth
+  - before
+  - spitting
 - - suck
   - away
   - quite
-- - fractiousness
-  - may
-  - return
 - - away
   - quite
   - happily
+- - every
+  - last
+  - drop
+- - fractiousness
+  - may
+  - return
+- - drawing
+  - every
+  - last
 - - being
   - crushed
   - under
@@ -134,12 +134,12 @@ ngrams:
 - - its
   - mighty
   - hooves
-- - should
-  - never
-  - leave
 - - more
   - easily
   - meltable
+- - should
+  - never
+  - leave
 - - crushed
   - under
   - its
@@ -152,12 +152,21 @@ ngrams:
 - - conquistador
   - who
   - sucked
-- - neck
-  - has
-  - stayed
 - - much
   - bigger
   - than
+- - neck
+  - has
+  - stayed
+- - far
+  - more
+  - eerie
+- - else
+  - their
+  - mouths
+- - company
+  - 'no'
+  - horse
 - - abandoning
   - your
   - stallion
@@ -170,36 +179,42 @@ ngrams:
 - - your
   - conquistador
   - troop
+- - many
+  - other
+  - horses
 - - your
   - stallion
   - stands
-- - far
-  - more
-  - eerie
 - - ravaged
   - your
   - innards
 - - blurring
   - your
   - vision
-- - company
-  - 'no'
-  - horse
-- - many
-  - other
-  - horses
-- - else
-  - their
-  - mouths
+- - much
+  - more
+  - difficult
 - - your
   - fellow
   - adventuring
 - - leave
   - your
   - stallion
+- - its
+  - fractiousness
+  - may
+- - dart
+  - plunges
+  - into
+- - anything
+  - else
+  - their
 - - your
   - throat
   - bear
+- - poisonous
+  - dart
+  - into
 - - your
   - eye
   - blurring
@@ -212,33 +227,12 @@ ngrams:
 - - saddle
   - your
   - horse
-- - suck
-  - your
-  - blood
-- - its
-  - fractiousness
-  - may
-- - dart
-  - plunges
-  - into
-- - poisonous
-  - dart
-  - into
-- - anything
-  - else
-  - their
-- - much
-  - more
-  - difficult
-- - your
-  - horse
-  - alone
-- - leave
-  - your
-  - horse
 - - can
   - take
   - hours
+- - suck
+  - your
+  - blood
 - - crown
   - copyright
   - out
@@ -248,54 +242,60 @@ ngrams:
 - - rapidly
   - especially
   - if
-- - having
-  - been
-  - chosen
-- - horse
-  - when
-  - adventuring
-- - horse
-  - when
-  - adventuring
 - - more
   - concern
+  - than
+- - your
+  - horse
+  - alone
+- - horse
+  - when
+  - adventuring
+- - horse
+  - when
+  - adventuring
+- - leave
+  - your
+  - horse
+- - more
+  - eerie
   - than
 - - pointed
   - out
   - earlier
-- - more
-  - eerie
-  - than
-- - problem
-  - will
-  - present
-- - your
-  - stallion
-  - while
+- - having
+  - been
+  - chosen
 - - also
   - much
   - more
-- - your
-  - blood
-  - until
+- - problem
+  - will
+  - present
 - - present
   - itself
   - if
+- - your
+  - stallion
+  - while
 - - will
   - become
   - exhausted
-- - up
-  - being
-  - crushed
 - - will
   - present
   - itself
 - - further
   - problem
   - will
+- - up
+  - being
+  - crushed
 - - blowpipe
   - would
   - cause
+- - your
+  - blood
+  - until
 - - very
   - thin
   - up

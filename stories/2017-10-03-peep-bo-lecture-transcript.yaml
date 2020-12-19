@@ -8,18 +8,18 @@ ngrams:
 - - roaming
   - wagnerian
   - dwarves
-- - peep
-  - bo
-  - lecture
-- - bo
-  - lecture
-  - transcript
-- - crook
-  - neatly
-  - breaking
 - - unutterable
   - tedium
   - occasioned
+- - peep
+  - bo
+  - lecture
+- - crook
+  - neatly
+  - breaking
+- - bo
+  - lecture
+  - transcript
 - - jaw
   - woe
   - betide
@@ -29,12 +29,12 @@ ngrams:
 - - started
   - awake
   - rubbed
-- - tonight's
-  - event
-  - expected
 - - rendered
   - wholly
   - illegible
+- - tonight's
+  - event
+  - expected
 - - gung
   - ho
   - approach
@@ -50,15 +50,15 @@ ngrams:
 - - supplements
   - published
   - fawning
-- - blue
-  - grasses
-  - prickled
 - - intergalactic
   - space
   - travel
 - - wagner
   - opera
   - clearly
+- - blue
+  - grasses
+  - prickled
 - - shining
   - summer
   - heaven
@@ -71,48 +71,42 @@ ngrams:
 - - century
   - tract
   - laurence
+- - yew
+  - tree
+  - pointed
 - - slender
   - shade
   - above
 - - dark
   - crime
   - bells
-- - yew
-  - tree
-  - pointed
 - - considerably
   - acute
   - mind
-- - big
-  - stars
-  - blowing
-- - outer
-  - space
-  - lost
 - - supervising
   - several
   - sheep
+- - outer
+  - space
+  - lost
+- - big
+  - stars
+  - blowing
 - - lecture
   - transcript
   - good
-- - stars
-  - big
-  - stars
-- - great
-  - tongues
-  - affirming
-- - transcript
-  - good
-  - evening
-- - trying
-  - existence
-  - thus
 - - field
   - supervising
   - several
-- - eight
-  - great
+- - trying
+  - existence
+  - thus
+- - transcript
+  - good
+  - evening
+- - great
   - tongues
+  - affirming
 - - though
   - considerably
   - taller
@@ -122,27 +116,30 @@ ngrams:
 - - dwarf
   - though
   - considerably
-- - little
-  - bo
-  - peep
+- - stars
+  - big
+  - stars
+- - eight
+  - great
+  - tongues
 - - warm
   - welcome
   - well
+- - little
+  - bo
+  - peep
 - - lost
   - sheep
   - found
 - - these
   - lecture
   - tours
-- - mucky
-  - little
-  - country
 - - sky
   - eight
   - great
-- - little
+- - mucky
+  - little
   - country
-  - urchin
 - - laurence
   - clarkson
   - after
@@ -152,66 +149,63 @@ ngrams:
 - - those
   - pollarded
   - willows
-- - stars
-  - little
-  - stars
+- - little
+  - country
+  - urchin
 - - woe
   - betide
   - those
 - - should
   - introduce
   - myself
+- - shade
+  - above
+  - us
 - - stars
   - blowing
   - through
-- - shade
+- - stars
+  - little
+  - stars
+- - high
   - above
   - us
 - - little
   - stars
   - big
-- - high
-  - above
-  - us
 - - any
   - longer
   - entrust
-- - warts
-  - removed
-  - now
 - - don't
   - mind
   - being
 - - under
   - those
   - pollarded
-- - very
-  - high
-  - above
+- - warts
+  - removed
+  - now
 - - gone
   - before
   - seemed
-- - loses
-  - her
-  - sheep
+- - very
+  - high
+  - above
 - - kiosk
   - under
   - those
-- - mind
-  - being
-  - called
-- - her
-  - blue
-  - garments
-- - boldly
-  - going
-  - where
 - - several
   - such
   - crimes
-- - mother
+- - boldly
+  - going
+  - where
+- - mind
+  - being
+  - called
+- - loses
   - her
-  - blue
+  - sheep
 - - sight
   - more
   - enthusiasm
@@ -221,12 +215,21 @@ ngrams:
 - - some
   - newspapers
   - compare
+- - her
+  - blue
+  - garments
 - - sound
   - could
   - mean
 - - say
   - knew
   - well
+- - can
+  - barely
+  - leave
+- - mother
+  - her
+  - blue
 - - added
   - kicking
   - him
@@ -236,115 +239,109 @@ ngrams:
 - - inept
   - shepherdess
   - who
-- - can
-  - barely
-  - leave
-- - being
-  - called
-  - little
 - - canal
   - just
   - before
-- - biffing
-  - him
-  - several
-- - just
-  - any
-  - puddle
 - - several
   - more
   - times
-- - without
-  - some
-  - mucky
+- - being
+  - called
+  - little
+- - just
+  - any
+  - puddle
 - - more
   - lucrative
   - too
-- - cottage
-  - without
-  - some
+- - biffing
+  - him
+  - several
 - - unlike
   - them
   - lost
-- - swiftly
-  - away
-  - more
-- - your
-  - warm
-  - welcome
+- - without
+  - some
+  - mucky
 - - am
   - often
   - known
+- - swiftly
+  - away
+  - more
+- - cottage
+  - without
+  - some
 - - tree
   - pointed
   - up
-- - gone
-  - just
-  - like
-- - wholly
-  - illegible
-  - what
 - - away
   - more
   - likely
-- - some
-  - mucky
-  - little
+- - your
+  - warm
+  - welcome
+- - wholly
+  - illegible
+  - what
+- - gone
+  - just
+  - like
 - - above
   - us
   - then
-- - were
-  - rendered
-  - wholly
-- - songs
-  - were
-  - sung
 - - clapping
   - petered
   - out
 - - opening
   - paragraph
   - when
-- - fell
-  - into
-  - penury
+- - some
+  - mucky
+  - little
+- - were
+  - rendered
+  - wholly
+- - songs
+  - were
+  - sung
 - - urchin
   - calling
   - out
+- - fell
+  - into
+  - penury
 - - could
   - mean
   - only
 - - century
   - tract
   - into
+- - newspapers
+  - compare
+  - me
 - - all
   - warts
   - removed
-- - newspapers
-  - compare
+- - cried
+  - unhand
   - me
 - - betide
   - those
   - who
-- - those
-  - who
-  - mess
-- - cried
-  - unhand
-  - me
-- - unhand
-  - me
-  - sir
 - - event
   - expected
   - me
-- - stars
+- - those
+  - who
+  - mess
+- - unhand
+  - me
+  - sir
+- - i'm
   - lost
   - out
-- - words
-  - were
-  - rendered
-- - i'm
+- - stars
   - lost
   - out
 - - single
@@ -356,6 +353,9 @@ ngrams:
 - - petered
   - out
   - rather
+- - words
+  - were
+  - rendered
 - - out
   - rather
   - quickly
@@ -365,51 +365,51 @@ ngrams:
 - - where
   - 'no'
   - peep
-- - who
-  - loses
-  - her
 - - any
   - puddle
   - 'no'
-- - peeps
-  - are
-  - universally
 - - scamper
   - so
   - swiftly
-- - are
-  - universally
-  - admired
-- - ever
-  - bored
-  - out
 - - countryside
   - advertiser
   - so
+- - ever
+  - bored
+  - out
+- - peeps
+  - are
+  - universally
+- - are
+  - universally
+  - admired
+- - who
+  - loses
+  - her
 - - going
   - where
   - 'no'
 - - him
   - several
   - more
+- - lost
+  - out
+  - here
+- - lost
+  - out
+  - here
 - - an
   - inept
   - shepherdess
-- - lost
-  - out
-  - here
-- - lost
-  - out
-  - here
+- - farmer
+  - will
+  - any
 - - an
   - affectionate
   - ring
 - - shows
   - notably
   - an
-- - notably
-  - an
-  - appearance
 story:
   date: 2017-10-03
   id: 2017-10-03-peep-bo-lecture-transcript

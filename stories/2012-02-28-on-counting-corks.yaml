@@ -47,24 +47,24 @@ ngrams:
 - - witnessing
   - something
   - unique
-- - till
-  - kingdom
-  - come
 - - tacks
   - quite
   - possibly
 - - quite
   - possibly
   - tacks
+- - till
+  - kingdom
+  - come
 - - new
   - leisure
   - activity
-- - most
-  - workaday
-  - telling
 - - brand
   - new
   - leisure
+- - most
+  - workaday
+  - telling
 - - go
   - ahead
   - stand
@@ -116,18 +116,21 @@ ngrams:
 - - add
   - other
   - elements
-- - other
-  - elements
-  - ones
 - - own
   - subculture
   - just
+- - other
+  - elements
+  - ones
 - - baize
   - more
   - thrilling
 - - more
   - gormless
   - members
+- - another
+  - even
+  - traditional
 - - corks
   - see
   - these
@@ -137,9 +140,6 @@ ngrams:
 - - new
   - pastime
   - after
-- - another
-  - even
-  - traditional
 - - several
   - more
   - strategies
@@ -152,15 +152,15 @@ ngrams:
 - - baize
   - count
   - them
-- - yet
-  - mentioned
-  - like
 - - count
   - them
   - tot
 - - count
   - them
   - count
+- - yet
+  - mentioned
+  - like
 - - tallying
   - could
   - take
@@ -173,72 +173,72 @@ ngrams:
 - - long
   - ago
   - day
-- - rend
-  - your
-  - garments
-- - gnash
-  - your
-  - teeth
-- - time
-  - enough
-  - later
 - - could
   - possibly
   - go
-- - embroider
+- - time
+  - enough
+  - later
+- - rend
   - your
-  - tale
+  - garments
 - - your
   - tale
   - casually
-- - hearing
+- - embroider
   - your
   - tale
-- - wish
-  - embroider
+- - gnash
   - your
+  - teeth
 - - can
   - go
   - wrong
-- - could
-  - take
-  - place
-- - mundane
-  - items
-  - when
-- - assembled
-  - company
-  - when
-- - your
-  - audience
-  - whose
+- - hearing
+  - your
+  - tale
 - - absolute
   - ferocity
   - if
+- - could
+  - take
+  - place
 - - if
   - delivered
   - persuasively
+- - assembled
+  - company
+  - when
+- - wish
+  - embroider
+  - your
+- - mundane
+  - items
+  - when
 - - if
   - cork
   - counting
-- - cork
-  - counters
-  - will
-- - tell
-  - your
-  - tale
-- - somebody
-  - will
-  - volunteer
 - - differently
   - exciting
   - if
-- - will
-  - gather
-  - corks
+- - cork
+  - counters
+  - will
 - - exciting
   - if
   - cork
+- - somebody
+  - will
+  - volunteer
+- - more
+  - thrilling
+  - than
+- - will
+  - gather
+  - corks
+- - your
+  - audience
+  - whose
 - - pastime
   - someone
   - will
@@ -248,36 +248,33 @@ ngrams:
 - - someone
   - will
   - fetch
-- - more
-  - thrilling
-  - than
-- - leisure
-  - activity
-  - they
+- - tell
+  - your
+  - tale
 - - first
   - time
   - people
+- - leisure
+  - activity
+  - they
 - - shiny
   - shiny
   - there
 - - gather
   - corks
   - there
+- - ashes
+  - would
+  - seem
 - - will
   - almost
   - certainly
 - - baize
   - another
   - will
-- - ashes
-  - would
-  - seem
 - - another
   - will
   - gather
-- - shout
-  - your
-  - head
 - - tacks
   - glinting
   - so
@@ -293,12 +290,15 @@ ngrams:
 - - wrong
   - oh
   - there
-- - your
-  - tale
-  - may
+- - shout
+  - your
+  - head
 - - taken
   - away
   - into
+- - your
+  - tale
+  - may
 - - lives
   - are
   - filled
@@ -311,60 +311,60 @@ ngrams:
 - - weep
   - if
   - only
+- - what
+  - could
+  - befall
+- - we
+  - see
+  - cork
 - - pastime
   - after
   - all
 - - are
   - outlandish
   - both
+- - them
+  - tot
+  - them
 - - creates
   - an
   - atmosphere
 - - raise
   - an
   - eyebrow
-- - we
-  - see
-  - cork
-- - what
-  - could
-  - befall
-- - are
-  - perhaps
-  - witnessing
-- - them
-  - tot
-  - them
-- - after
-  - all
-  - everything
 - - evening
   - what
   - could
+- - are
+  - perhaps
+  - witnessing
 - - what
   - could
   - possibly
-- - pastime
-  - drive
-  - this
+- - after
+  - all
+  - everything
 - - take
   - place
   - there
-- - keeping
-  - an
-  - eye
-- - your
-  - head
-  - 'off'
+- - pastime
+  - drive
+  - this
 - - tot
   - them
   - up
-- - example
-  - creates
+- - keeping
   - an
+  - eye
 - - wall
   - isn't
   - this
+- - example
+  - creates
+  - an
+- - your
+  - head
+  - 'off'
 story:
   date: 2012-02-28
   id: 2012-02-28-on-counting-corks

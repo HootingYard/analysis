@@ -17,12 +17,12 @@ ngrams:
 - - inwardly
   - hobbled
   - morally
-- - ashford
-  - simpson
-  - flanders
 - - simpson
   - flanders
   - swann
+- - ashford
+  - simpson
+  - flanders
 - - dee
   - dozy
   - beaky
@@ -62,21 +62,21 @@ ngrams:
 - - holland
   - dozier
   - holland
-- - detectives
-  - perkins
-  - throwback
 - - dribbling
   - sot
   - lurked
-- - private
-  - detectives
+- - detectives
   - perkins
+  - throwback
 - - tot
   - inwardly
   - hobbled
 - - aid
   - mama
   - poured
+- - private
+  - detectives
+  - perkins
 - - started
   - trotting
   - alongside
@@ -104,12 +104,12 @@ ngrams:
 - - throwback
   - seemed
   - tireless
-- - seemed
-  - tireless
-  - humming
 - - age
   - christ
   - jesus
+- - seemed
+  - tireless
+  - humming
 - - private
   - eye
   - prodded
@@ -119,12 +119,12 @@ ngrams:
 - - door
   - mama
   - handed
-- - important
-  - mountain
-  - range
 - - eye
   - either
   - perkins
+- - important
+  - mountain
+  - range
 - - wool
   - shop
   - immediately
@@ -134,30 +134,30 @@ ngrams:
 - - muttered
   - something
   - menacing
-- - night
-  - lay
-  - heavy
 - - wailing
   - woke
   - every
 - - woke
   - every
   - sleeping
+- - night
+  - lay
+  - heavy
 - - every
   - sleeping
   - soul
 - - drain
   - while
   - papa
-- - black
-  - starless
-  - night
 - - while
   - papa
   - paid
 - - eye
   - muttered
   - something
+- - black
+  - starless
+  - night
 - - cursed
   - child
   - still
@@ -191,12 +191,30 @@ ngrams:
 - - starless
   - night
   - after
-- - her
-  - visit
-  - creaking
 - - stood
   - upon
   - tawdry
+- - lay
+  - heavy
+  - upon
+- - whom
+  - stood
+  - upon
+- - don't
+  - know
+  - call
+- - day
+  - papa
+  - called
+- - now
+  - possibly
+  - gone
+- - her
+  - visit
+  - creaking
+- - well
+  - shortly
+  - after
 - - cast
   - her
   - twigs
@@ -206,96 +224,75 @@ ngrams:
 - - paid
   - her
   - visit
-- - day
-  - papa
-  - called
-- - don't
-  - know
-  - call
-- - lay
-  - heavy
-  - upon
-- - woman
-  - paid
-  - her
 - - blood
   - she
   - announced
-- - now
-  - possibly
-  - gone
-- - shop
-  - she
-  - cast
 - - wool
   - shop
   - she
-- - whom
-  - stood
-  - upon
-- - well
-  - shortly
-  - after
 - - alongside
   - us
   - after
+- - shop
+  - she
+  - cast
+- - woman
+  - paid
+  - her
 - - creaked
   - away
   - down
 - - scuttled
   - 'off'
   - down
-- - heard
-  - him
-  - trudging
 - - dog
   - also
   - like
-- - she
-  - creaked
-  - away
-- - been
-  - throwback
-  - grabbed
+- - heard
+  - him
+  - trudging
 - - 'no'
   - longer
   - feigning
 - - visit
   - creaking
   - up
-- - been
-  - knocked
-  - unconscious
 - - sad
   - 'no'
   - longer
+- - been
+  - throwback
+  - grabbed
+- - she
+  - creaked
+  - away
+- - been
+  - knocked
+  - unconscious
 - - more
   - years
   - passed
-- - him
-  - trudging
-  - away
 - - fingers
   - were
   - sticky
+- - him
+  - trudging
+  - away
 - - three
   - more
   - years
 - - six
   - months
   - when
+- - could
+  - ever
+  - come
 - - me
   - adoringly
   - toto
 - - throwback
   - guiding
   - me
-- - could
-  - ever
-  - come
-- - she
-  - cast
-  - her
 - - throwback
   - grabbed
   - me
@@ -308,42 +305,45 @@ ngrams:
 - - eye
   - prodded
   - me
-- - kiosk
-  - above
-  - me
 - - holland
   - eventually
   - we
 - - papa
   - would
   - expect
+- - kiosk
+  - above
+  - me
 - - eventually
   - we
   - stopped
-- - before
-  - been
-  - knocked
-- - papa
-  - called
-  - me
-- - trudging
-  - away
-  - when
 - - so
   - cruelly
   - nailed
-- - all
-  - alleyways
-  - something
+- - she
+  - cast
+  - her
+- - trudging
+  - away
+  - when
 - - knew
   - papa
   - would
 - - walking
   - so
   - sightless
+- - papa
+  - called
+  - me
+- - before
+  - been
+  - knocked
 - - start
   - walking
   - so
+- - all
+  - alleyways
+  - something
 - - until
   - they
   - vanished
@@ -374,12 +374,12 @@ ngrams:
 - - called
   - me
   - down
-- - had
-  - stopped
-  - yapping
-- - remark
-  - until
-  - one
+- - or
+  - throwback
+  - guiding
+- - perkins
+  - or
+  - throwback
 story:
   date: 2018-09-12
   id: 2018-09-12-tales-of-duntblau-ii

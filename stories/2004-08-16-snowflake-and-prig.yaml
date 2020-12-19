@@ -5,12 +5,6 @@ ngrams:
 - - frequent
   - poetic
   - passages
-- - serial
-  - unspeakable
-  - desolation
-- - unspeakable
-  - desolation
-  - pouring
 - - lethal
   - buzzing
   - insect
@@ -23,45 +17,51 @@ ngrams:
 - - mewling
   - infant
   - dribbling
+- - serial
+  - unspeakable
+  - desolation
+- - unspeakable
+  - desolation
+  - pouring
 - - infant
   - dribbling
   - onto
 - - exciting
   - publishing
   - firm
-- - exciting
-  - serial
-  - unspeakable
-- - potus
-  - john
-  - f
 - - met
   - paul
   - giving
 - - killer
   - bee
   - that's
+- - exciting
+  - serial
+  - unspeakable
 - - bee
   - that's
   - bee
+- - potus
+  - john
+  - f
 - - john
   - f
   - kennedy
 - - lavender
   - prig
   - began
-- - john
-  - met
-  - paul
 - - four
   - mezzotints
   - depicting
-- - century
-  - potus
-  - john
+- - john
+  - met
+  - paul
 - - titles
   - however
   - belong
+- - century
+  - potus
+  - john
 - - remaining
   - titles
   - however
@@ -107,27 +107,27 @@ ngrams:
 - - day
   - john
   - met
-- - her
-  - pet
-  - tortoise
 - - first
   - encountered
   - each
-- - first
-  - book
-  - issued
 - - more
   - fitting
   - topic
+- - first
+  - book
+  - issued
+- - her
+  - pet
+  - tortoise
 - - last
   - triumph
   - before
-- - time
-  - although
-  - happily
 - - seems
   - more
   - significant
+- - time
+  - although
+  - happily
 - - encountered
   - each
   - other
@@ -158,15 +158,15 @@ ngrams:
 - - their
   - demise
   - perhaps
+- - more
+  - significant
+  - than
 - - adventure
   - story
   - about
 - - story
   - about
   - killer
-- - more
-  - significant
-  - than
 - - tortoise
   - harry
   - there

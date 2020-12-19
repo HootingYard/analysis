@@ -1,16 +1,16 @@
 ngrams:
-- - o'
-  - symphonic
-  - composition
-- - perilous
-  - clifftop
-  - pathways
 - - alma
   - mahler
   - doll
+- - perilous
+  - clifftop
+  - pathways
 - - separate
   - seventh
   - husband
+- - o'
+  - symphonic
+  - composition
 - - stormy
   - clifftop
   - shouting
@@ -29,18 +29,18 @@ ngrams:
 - - light
   - suggesting
   - medea
-- - triton
-  - among
-  - minnows
 - - per
   - cent
   - sure
-- - husband
-  - number
-  - eight
+- - triton
+  - among
+  - minnows
 - - along
   - perilous
   - clifftop
+- - husband
+  - number
+  - eight
 - - lately
   - however
   - evidence
@@ -53,108 +53,108 @@ ngrams:
 - - nobleman
   - blenkinsop
   - himself
-- - world
-  - o'
-  - symphonic
 - - timetables
   - something
   - medea
-- - railway
-  - timetables
-  - something
-- - fine
-  - fine
-  - thing
+- - world
+  - o'
+  - symphonic
 - - together
   - along
   - perilous
+- - fine
+  - fine
+  - thing
+- - railway
+  - timetables
+  - something
 - - country
   - pile
   - every
-- - composer
-  - binder
-  - how
-- - being
-  - counted
-  - twice
 - - boundless
   - firmament
   - much
+- - composer
+  - binder
+  - how
 - - cocktail
   - parties
   - much
+- - being
+  - counted
+  - twice
 - - know
   - medea
   - blenkinsop
-- - many
-  - cows
-  - living
 - - may
   - safely
   - assume
 - - oskar
   - kokoschka
   - did
+- - many
+  - cows
+  - living
 - - like
   - medea
   - blenkinsop
 - - only
   - certain
   - kinds
-- - doll
-  - she
-  - carted
-- - her
-  - fourth
-  - husband
-- - rag
-  - doll
-  - she
 - - something
   - medea
   - never
 - - cent
   - sure
   - even
+- - doll
+  - she
+  - carted
+- - rag
+  - doll
+  - she
 - - now
   - oh
   - baby
+- - her
+  - fourth
+  - husband
 - - finer
   - thing
   - than
-- - her
-  - madcap
-  - brain
 - - government
   - has
   - warned
-- - has
-  - already
-  - stirred
+- - her
+  - madcap
+  - brain
 - - medea
   - never
   - did
-- - how
-  - like
-  - medea
-- - clifftop
-  - shouting
-  - their
+- - has
+  - already
+  - stirred
 - - pile
   - every
   - time
+- - clifftop
+  - shouting
+  - their
+- - how
+  - like
+  - medea
 - - binder
   - how
   - like
-- - however
-  - evidence
-  - has
-- - already
-  - stirred
-  - up
 - - shouting
   - their
   - heads
+- - already
+  - stirred
+  - up
+- - however
+  - evidence
+  - has
 - - shall
   - never
   - know
@@ -164,105 +164,96 @@ ngrams:
 - - justification
   - were
   - medea
-- - evidence
-  - has
-  - come
 - - design
   - spelling
   - out
-- - has
-  - warned
-  - us
-- - remaining
-  - two
-  - who
+- - evidence
+  - has
+  - come
 - - none
   - other
   - than
 - - even
   - now
   - oh
+- - has
+  - warned
+  - us
+- - remaining
+  - two
+  - who
 - - sure
   - even
   - now
-- - they
-  - swapped
-  - railway
-- - amusing
-  - knitwear
-  - we
 - - symphonic
   - composition
   - would
+- - amusing
+  - knitwear
+  - we
+- - they
+  - swapped
+  - railway
 - - case
   - what
   - kind
 - - orchard
   - gate
   - there
-- - their
-  - heads
-  - 'off'
 - - rex
   - tint
   - there
+- - their
+  - heads
+  - 'off'
 - - god
   - help
   - me
+- - posterity
+  - we
+  - shall
 - - lips
   - are
   - flecked
 - - all
   - else
   - under
-- - toil
-  - which
-  - bear
-- - posterity
-  - we
-  - shall
 - - even
   - then
   - much
-- - which
+- - toil
+  - which
   - bear
-  - fruit
-- - let
-  - me
-  - tell
 - - even
   - now
   - even
+- - let
+  - me
+  - tell
+- - which
+  - bear
+  - fruit
 - - now
   - even
   - now
-- - she
-  - carted
-  - about
-- - chimera
-  - an
-  - invention
 - - any
   - case
   - what
+- - chimera
+  - an
+  - invention
+- - she
+  - carted
+  - about
 - - reached
   - an
   - understanding
-- - know
-  - they
-  - swapped
-- - when
-  - she
-  - writes
 - - toiled
   - fruitlessly
   - this
-- - an
-  - academic
-  - field
-- - one
-  - hundred
-  - per
+- - know
+  - they
+  - swapped
 - - we
   - know
   - medea
@@ -272,18 +263,27 @@ ngrams:
 - - compelling
   - we
   - know
-- - cows
-  - know
-  - me
-- - all
-  - weathers
-  - she
-- - some
-  - justification
-  - were
+- - one
+  - hundred
+  - per
 - - we
   - may
   - safely
+- - an
+  - academic
+  - field
+- - when
+  - she
+  - writes
+- - cows
+  - know
+  - me
+- - than
+  - all
+  - else
+- - we
+  - shall
+  - never
 story:
   date: 2009-08-28
   id: 2009-08-28-blenkinsopiana

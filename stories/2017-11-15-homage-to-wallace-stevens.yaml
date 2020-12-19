@@ -23,84 +23,84 @@ ngrams:
 - - franciscan
   - nuns
   - hiding
-- - seawater
-  - hoon
-  - yelled
-- - sloshing
-  - seawater
-  - hoon
 - - ignorant
   - nuns
   - franciscan
 - - franciscan
   - nuns
   - aboard
+- - sloshing
+  - seawater
+  - hoon
+- - seawater
+  - hoon
+  - yelled
 - - bend
   - forward
   - resting
-- - impossibly
-  - valiant
-  - hoon
 - - mate
   - hoon
   - weedy
 - - enthusiasts
   - detail
   - fluff
-- - hoon
+- - impossibly
+  - valiant
   - hoon
-  - scrub
 - - heady
   - confect
   - including
-- - staggering
-  - below
-  - decks
-- - seamanship
+- - hoon
   - hoon
-  - cried
+  - scrub
 - - sopping
   - wet
   - drenched
+- - seamanship
+  - hoon
+  - cried
 - - sudden
   - calm
   - prompted
-- - hooter
-  - message
-  - regarding
-- - franciscan
-  - nuns
-  - including
 - - harmonium
   - r
   - p
+- - franciscan
+  - nuns
+  - including
+- - hooter
+  - message
+  - regarding
 - - bent
   - forward
   - resting
-- - five
-  - stowaway
-  - franciscan
+- - staggering
+  - below
+  - decks
 - - expect
   - yelled
   - hoon
 - - five
+  - stowaway
   - franciscan
-  - nuns
 - - waters
   - hoon
   - cried
+- - five
+  - franciscan
+  - nuns
 - - prompted
   - five
   - stowaway
 - - calm
   - prompted
   - five
-- - bridge
-  - staggering
-  - below
 - - radio
   - enthusiasts
   - detail
+- - bridge
+  - staggering
+  - below
 - - captain
   - struggled
   - manfully
@@ -113,12 +113,6 @@ ngrams:
 - - second
   - expanded
   - edition
-- - captain
-  - yelled
-  - hoon
-- - fluff
-  - cried
-  - captain
 - - experiments
   - against
   - reality
@@ -128,66 +122,72 @@ ngrams:
 - - attitude
   - almost
   - identical
-- - bridge
+- - captain
+  - yelled
+  - hoon
+- - fluff
+  - cried
   - captain
-  - plunkett
-- - cried
-  - captain
-  - plunkett
 - - cried
   - captain
   - plunkett
 - - hooter
   - cried
   - captain
+- - cried
+  - captain
+  - plunkett
+- - versus
+  - stormy
+  - sea
+- - bridge
+  - captain
+  - plunkett
 - - captain
   - plunkett
   - believe
 - - presence
   - captain
   - plunkett
-- - versus
-  - stormy
-  - sea
-- - called
-  - fluff
-  - cried
 - - stormy
   - sea
   - meanwhile
-- - good
-  - seamanship
-  - hoon
 - - shows
   - good
   - seamanship
+- - good
+  - seamanship
+  - hoon
+- - called
+  - fluff
+  - cried
 - - ship's
   - captain
   - captain
-- - captain
-  - captain
-  - plunkett
 - - hoon
   - came
   - staggering
-- - few
-  - precious
-  - moments
+- - captain
+  - captain
+  - plunkett
 - - valiant
   - hoon
   - came
-- - neurasthenic
-  - yet
-  - impossibly
+- - few
+  - precious
+  - moments
 - - yet
   - impossibly
   - valiant
-- - whose
-  - presence
-  - captain
+- - neurasthenic
+  - yet
+  - impossibly
 - - cried
   - aloud
   - again
+- - whose
+  - presence
+  - captain
 - - captain
   - plunkett
   - took
@@ -197,6 +197,15 @@ ngrams:
 - - yard
   - prose
   - audit
+- - perilously
+  - first
+  - mate
+- - mate
+  - first
+  - mate
+- - crew
+  - safely
+  - through
 - - man
   - versus
   - stormy
@@ -206,36 +215,33 @@ ngrams:
 - - battle
   - man
   - versus
-- - perilously
-  - first
+- - first
   - mate
-- - mate
-  - first
+  - hoon
+- - first
   - mate
+  - hoon
 - - man
   - versus
   - storm
-- - crew
-  - safely
-  - through
-- - first
-  - mate
-  - hoon
-- - first
-  - mate
-  - hoon
 - - any
   - stowaway
   - franciscan
 - - first
   - mate
   - looked
-- - every
-  - last
-  - inch
 - - appreciate
   - such
   - recognition
+- - every
+  - last
+  - inch
+- - confect
+  - including
+  - such
+- - including
+  - such
+  - rarities
 - - search
   - every
   - last
@@ -245,72 +251,66 @@ ngrams:
 - - man
   - versus
   - sea
-- - confect
-  - including
-  - such
-- - including
-  - such
-  - rarities
 - - five
   - years
   - ago
 - - its
   - crew
   - safely
+- - most
+  - important
+  - thing
 - - perhaps
   - man
   - versus
 - - regular
   - hooting
   - yard
-- - most
-  - important
-  - thing
-- - hooting
-  - yard
-  - prose
 - - am
   - ignorant
   - nuns
+- - hooting
+  - yard
+  - prose
 - - better
   - perhaps
   - man
 - - first
   - mate
   - first
-- - has
-  - suddenly
-  - occurred
 - - 'no'
   - franciscan
   - nuns
-- - been
-  - torn
-  - loose
-- - been
-  - torn
-  - loose
-- - been
-  - torn
-  - loose
-- - mate
-  - looked
-  - up
+- - has
+  - suddenly
+  - occurred
 - - pop
   - their
   - heads
+- - mate
+  - looked
+  - up
+- - been
+  - torn
+  - loose
+- - been
+  - torn
+  - loose
+- - been
+  - torn
+  - loose
+- - clattering
+  - about
+  - perilously
+- - clattering
+  - about
+  - perilously
+- - clattering
+  - about
+  - perilously
 - - your
   - cap
   - thank
-- - clattering
-  - about
-  - perilously
-- - clattering
-  - about
-  - perilously
-- - clattering
-  - about
-  - perilously
 - - nest
   - saw
   - what
@@ -326,21 +326,21 @@ ngrams:
 - - ship
   - unless
   - there
+- - important
+  - thing
+  - about
 - - believe
   - me
   - captain
-- - important
-  - thing
+- - most
+  - striking
+  - if
+- - being
+  - tossed
   - about
 - - let
   - me
   - pin
-- - being
-  - tossed
-  - about
-- - most
-  - striking
-  - if
 - - about
   - perilously
   - first
@@ -353,21 +353,21 @@ ngrams:
 - - all
   - too
   - aware
-- - were
-  - any
-  - stowaway
 - - would
   - go
   - unheard
+- - were
+  - any
+  - stowaway
 - - message
   - would
   - go
-- - tossed
-  - about
-  - like
 - - brain
   - so
   - rapidly
+- - tossed
+  - about
+  - like
 - - an
   - elemental
   - battle
@@ -378,14 +378,14 @@ ngrams:
   - an
   - attitude
 - - an
-  - instant
-  - decision
-- - an
-  - instant
-  - decision
-- - an
   - appreciative
   - review
+- - an
+  - instant
+  - decision
+- - an
+  - instant
+  - decision
 story:
   date: 2017-11-15
   id: 2017-11-15-homage-to-wallace-stevens

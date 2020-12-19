@@ -29,45 +29,45 @@ ngrams:
 - - writes
   - tim
   - thurn
-- - mrs
-  - gubbins
-  - demonstrated
 - - frank
   - writes
   - tim
 - - groovy
   - dear
   - frank
-- - affectation
-  - almost
-  - childishly
 - - fails
   - fails
   - better
-- - dear
-  - frank
-  - writes
-- - almost
+- - affectation
+  - almost
   - childishly
-  - innocent
+- - mrs
+  - gubbins
+  - demonstrated
 - - cannot
   - happily
   - coexist
+- - almost
+  - childishly
+  - innocent
+- - dear
+  - frank
+  - writes
 - - similar
   - question
   - boffins
 - - drainpipe
   - variety
   - yet
-- - yard
-  - groove
-  - truly
 - - example
   - having
   - invested
 - - groove
   - ever
   - dreamed
+- - yard
+  - groove
+  - truly
 - - most
   - welcome
   - tim
@@ -95,12 +95,9 @@ ngrams:
 - - say
   - unarguably
   - because
-- - she
-  - fails
-  - fails
-- - needles
-  - she
-  - fails
+- - cast
+  - adrift
+  - upon
 - - 'true'
   - horror
   - may
@@ -113,21 +110,24 @@ ngrams:
 - - hooting
   - yard
   - groove
-- - cast
-  - adrift
-  - upon
+- - she
+  - fails
+  - fails
+- - needles
+  - she
+  - fails
 - - mrs
   - gubbins
   - could
 - - gubbins
   - could
   - round
-- - actually
-  - get
-  - down
 - - am
   - less
   - fretful
+- - actually
+  - get
+  - down
 - - cancel
   - each
   - other
@@ -140,51 +140,45 @@ ngrams:
 - - soul
   - who
   - doubts
+- - other
+  - groove
+  - ever
 - - mrs
   - gubbins
   - has
 - - she
   - can't
   - go
-- - other
-  - groove
-  - ever
 - - every
   - single
   - time
-- - cognitive
-  - anguish
-  - were
 - - its
   - groove
   - any
-- - she
-  - must
-  - go
-- - criminal
-  - mayhem
-  - if
+- - cognitive
+  - anguish
+  - were
 - - might
   - just
   - find
+- - criminal
+  - mayhem
+  - if
 - - poet
   - who
   - ever
-- - her
-  - needles
-  - she
+- - she
+  - must
+  - go
 - - who
   - ever
   - lived
-- - long
-  - been
-  - apparent
 - - ever
   - dreamed
   - up
-- - time
-  - she
-  - picks
+- - long
+  - been
+  - apparent
 - - transformed
   - himself
   - into
@@ -194,8 +188,11 @@ ngrams:
 - - pipe
   - tobacco
   - would
-- - single
-  - time
+- - time
+  - she
+  - picks
+- - her
+  - needles
   - she
 - - they
   - cannot
@@ -206,9 +203,18 @@ ngrams:
 - - so
   - thoroughly
   - entangled
+- - single
+  - time
+  - she
+- - unarguably
+  - because
+  - there
 - - are
   - tim
   - thurn
+- - became
+  - so
+  - thoroughly
 - - she
   - picks
   - up
@@ -218,27 +224,21 @@ ngrams:
 - - up
   - her
   - needles
-- - unarguably
-  - because
-  - there
-- - became
-  - so
-  - thoroughly
-- - all
-  - those
-  - groovy
 - - could
   - round
   - up
-- - when
-  - she
-  - tried
-- - has
-  - been
-  - unarguably
-- - has
-  - been
-  - indefatigable
+- - all
+  - those
+  - groovy
+- - will
+  - never
+  - get
+- - gubbins
+  - demonstrated
+  - this
+- - any
+  - tips
+  - would
 story:
   date: 2009-07-21
   id: 2009-07-21-groovy

@@ -14,25 +14,28 @@ ngrams:
 - - foul
   - deed
   - committed
+- - o
+  - grabber
+  - grabber
+- - o
+  - grabber
+  - grabber
+- - o
+  - grabber
+  - grabber
 - - floor
   - buzzers
   - buzzing
 - - bells
   - clanging
   - somewhere
-- - o
-  - grabber
-  - grabber
-- - o
-  - grabber
-  - grabber
-- - o
-  - grabber
+- - heaven
+  - o
   - grabber
 - - less
   - foul
   - murders
-- - heaven
+- - passed
   - o
   - grabber
 - - hast
@@ -44,9 +47,6 @@ ngrams:
 - - wondered
   - less
   - foul
-- - passed
-  - o
-  - grabber
 - - henry
   - kissinger
   - among
@@ -62,51 +62,51 @@ ngrams:
 - - kissinger
   - among
   - others
-- - tiny
-  - cushion
-  - filled
 - - mary
   - quite
   - contrary
-- - prison
-  - barber
-  - came
 - - mary
   - mary
   - quite
+- - prison
+  - barber
+  - came
+- - tiny
+  - cushion
+  - filled
 - - grabber
   - grabber
   - every
-- - miss
-  - muffet
-  - take
 - - often
   - wondered
   - less
+- - miss
+  - muffet
+  - take
 - - straw
   - still
   - smelled
-- - grabber
-  - every
-  - hair
+- - days
+  - passed
+  - o
 - - clanging
   - somewhere
   - far
+- - grabber
+  - every
+  - hair
 - - old
   - tarot
   - deck
 - - murder
   - most
   - foul
-- - little
-  - jack
-  - horner
 - - lifer
   - convicted
   - years
-- - days
-  - passed
-  - o
+- - little
+  - jack
+  - horner
 - - little
   - miss
   - muffet
@@ -152,30 +152,15 @@ ngrams:
 - - commensurately
   - less
   - than
-- - tuffet
-  - eating
-  - her
-- - eating
-  - her
-  - curds
-- - miss
-  - muffet
-  - she
 - - village
   - green
   - where
-- - never
-  - set
-  - foot
 - - distractions
   - could
   - occur
-- - muffet
-  - she
-  - sat
-- - she
-  - sat
-  - famously
+- - never
+  - set
+  - foot
 - - sat
   - famously
   - upon
@@ -185,54 +170,69 @@ ngrams:
 - - somewhere
   - far
   - 'off'
-- - day
-  - without
-  - explanation
+- - miss
+  - muffet
+  - she
 - - rather
   - than
   - prance
-- - stripy
-  - tunic
-  - can
 - - canteen
   - rather
   - than
+- - day
+  - without
+  - explanation
+- - tuffet
+  - eating
+  - her
+- - eating
+  - her
+  - curds
+- - stripy
+  - tunic
+  - can
 - - how
   - many
   - distractions
-- - now
-  - grabber
-  - found
+- - muffet
+  - she
+  - sat
+- - she
+  - sat
+  - famously
 - - convicted
   - years
   - before
+- - now
+  - grabber
+  - found
 - - less
   - than
   - life
-- - muffet
-  - take
-  - her
 - - sat
   - why
   - did
-- - did
-  - little
-  - miss
-- - take
-  - her
-  - bowl
-- - she
-  - sat
-  - why
 - - never
   - reached
   - any
+- - did
+  - little
+  - miss
+- - muffet
+  - take
+  - her
 - - other
   - characters
   - little
-- - him
-  - grabber
-  - thought
+- - kept
+  - 'no'
+  - journal
+- - 'no'
+  - longer
+  - remembered
+- - take
+  - her
+  - bowl
 story:
   date: 2015-05-06
   id: 2015-05-06-grabber

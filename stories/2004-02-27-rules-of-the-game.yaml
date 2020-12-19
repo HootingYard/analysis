@@ -20,63 +20,63 @@ ngrams:
 - - team's
   - swords
   - planning
-- - pouches
-  - flaps
-  - zips
 - - nut
   - attendant
   - retribution
 - - preparing
   - cooking
   - serving
-- - pitch
-  - rink
-  - arena
+- - pouches
+  - flaps
+  - zips
 - - swords
   - planning
   - preparing
 - - lengthy
   - directives
   - couched
-- - brazil
-  - nut
-  - attendant
-- - brazil
-  - nut
-  - attendant
-- - brazil
-  - nut
-  - attendant
+- - pitch
+  - rink
+  - arena
 - - planning
   - preparing
   - cooking
+- - brazil
+  - nut
+  - attendant
+- - brazil
+  - nut
+  - attendant
+- - brazil
+  - nut
+  - attendant
 - - issuing
   - lengthy
   - directives
 - - chief
   - administrative
   - bodies
-- - voluminous
-  - clothing
-  - suitable
-- - sticks
-  - hooked
-  - poles
 - - zips
   - buttons
   - toggles
+- - voluminous
+  - clothing
+  - suitable
 - - buttons
   - toggles
   - belts
+- - sticks
+  - hooked
+  - poles
+- - louts
+  - sprinkle
+  - talc
 - - pockets
   - pouches
   - flaps
 - - differentiate
   - chess
   - pieces
-- - louts
-  - sprinkle
-  - talc
 - - flaps
   - zips
   - buttons
@@ -89,15 +89,15 @@ ngrams:
 - - bats
   - sticks
   - hooked
-- - led
-  - countless
-  - devotees
-- - football
-  - club
-  - visited
 - - lives
   - issuing
   - lengthy
+- - football
+  - club
+  - visited
+- - led
+  - countless
+  - devotees
 - - northern
   - lands
   - according
@@ -107,21 +107,21 @@ ngrams:
 - - team
   - appears
   - naked
-- - sap
-  - team
-  - appears
-- - eight
-  - hundred
-  - scriveners
 - - bladder
   - balls
   - beyond
 - - working
   - lives
   - issuing
+- - sap
+  - team
+  - appears
 - - balls
   - beyond
   - repair
+- - eight
+  - hundred
+  - scriveners
 - - higher
   - order
   - inconceivable
@@ -134,24 +134,24 @@ ngrams:
 - - police
   - station
   - howl
-- - four
-  - tilly
-  - lamps
 - - itself
   - fills
   - hundreds
+- - four
+  - tilly
+  - lamps
+- - film
+  - brief
+  - encounter
+- - intervals
+  - between
+  - fits
 - - football
   - league
   - however
 - - rink
   - three
   - balls
-- - intervals
-  - between
-  - fits
-- - film
-  - brief
-  - encounter
 - - nothing
   - remotely
   - interesting
@@ -173,99 +173,93 @@ ngrams:
 - - draw
   - breath
   - take
-- - ear
-  - come
-  - follow
 - - ever
   - dared
   - transgress
+- - ear
+  - come
+  - follow
+- - team
+  - must
+  - try
+- - summer
+  - months
+  - while
+- - most
+  - popular
+  - sports
+- - lamps
+  - these
+  - saintly
 - - two
   - assistant
   - moderators
 - - moderator
   - two
   - assistant
-- - two
-  - chief
-  - administrative
-- - team
-  - must
-  - try
-- - most
-  - popular
-  - sports
-- - summer
-  - months
-  - while
-- - rink
-  - sawing
-  - 'off'
-- - lamps
-  - these
-  - saintly
 - - tilly
   - lamps
   - these
+- - rink
+  - sawing
+  - 'off'
+- - two
+  - chief
+  - administrative
 - - these
   - confounded
   - rules
-- - pollarded
-  - willow
-  - made
 - - sap
   - these
   - terms
 - - us
   - draw
   - breath
+- - pollarded
+  - willow
+  - made
 - - great
   - variation
   - among
-- - de
-  - smet
-  - see
 - - elastic
   - very
   - elastic
+- - de
+  - smet
+  - see
 - - opposing
   - side
   - away
 - - these
   - saintly
   - men
-- - our
-  - scalps
-  - whisk
-- - crick
-  - our
-  - necks
-- - around
-  - hoon
-  - took
 - - regrettable
   - before
   - bringing
-- - brief
-  - sample
-  - here
-- - butcher
-  - crick
+- - crick
   - our
-- - our
   - necks
-  - stamp
 - - our
-  - teeth
-  - impale
-- - moderators
-  - may
-  - impose
+  - scalps
+  - whisk
 - - much
   - higher
   - order
-- - brush
+- - butcher
+  - crick
   - our
-  - teeth
+- - brief
+  - sample
+  - here
+- - around
+  - hoon
+  - took
+- - our
+  - necks
+  - stamp
+- - moderators
+  - may
+  - impose
 - - may
   - impose
   - planks
@@ -275,48 +269,54 @@ ngrams:
 - - assistant
   - moderators
   - may
+- - our
+  - teeth
+  - impale
 - - egg
   - brush
   - our
+- - brush
+  - our
+  - teeth
+- - rules
+  - say
+  - nothing
 - - cup
   - named
   - after
 - - just
   - four
   - tilly
-- - rules
-  - say
-  - nothing
 - - play
   - players
   - may
-- - let
-  - us
-  - draw
 - - over
   - eight
   - hundred
-- - three
-  - hours
-  - while
+- - let
+  - us
+  - draw
 - - variation
   - among
   - those
-- - among
-  - those
-  - commonly
 - - take
   - stock
   - make
-- - hand
-  - signals
-  - before
+- - among
+  - those
+  - commonly
+- - three
+  - hours
+  - while
 - - wring
   - any
   - sense
 - - sprinkle
   - talc
   - upon
+- - hand
+  - signals
+  - before
 - - more
   - arcane
   - aspects
@@ -332,120 +332,120 @@ ngrams:
 - - without
   - even
   - trying
-- - cavalier
-  - attitude
-  - has
-- - only
-  - two
-  - badgers
 - - players
   - may
   - make
-- - sap
-  - team
+- - cavalier
+  - attitude
   - has
-- - two
-  - badgers
-  - may
-- - special
-  - inspector
-  - has
-- - has
-  - led
-  - countless
-- - these
-  - theories
-  - may
 - - recipients
   - throw
   - them
-- - pond
-  - only
+- - only
   - two
+  - badgers
+- - these
+  - theories
+  - may
+- - two
+  - badgers
+  - may
+- - sap
+  - team
+  - has
 - - its
   - ear
   - come
-- - each
-  - other
-  - using
-- - penalties
-  - their
-  - viciousness
+- - has
+  - led
+  - countless
+- - special
+  - inspector
+  - has
 - - their
   - viciousness
   - arbitrariness
+- - penalties
+  - their
+  - viciousness
+- - each
+  - other
+  - using
+- - pond
+  - only
+  - two
 - - fists
   - 'no'
   - football
 - - necklace
   - stoke
   - up
-- - their
-  - invaluable
-  - tome
-- - 'no'
-  - football
-  - club
-- - may
-  - make
-  - use
-- - reader
-  - some
-  - idea
-- - hand
-  - has
-  - argued
-- - women
-  - spend
-  - their
-- - spend
-  - their
-  - working
 - - much
   - depends
   - upon
+- - their
+  - invaluable
+  - tome
+- - may
+  - make
+  - use
+- - 'no'
+  - football
+  - club
+- - women
+  - spend
+  - their
+- - reader
+  - some
+  - idea
+- - spend
+  - their
+  - working
+- - their
+  - working
+  - lives
+- - hand
+  - has
+  - argued
 - - although
   - their
   - tendency
 - - 'no'
   - football
   - began
-- - their
-  - working
-  - lives
-- - topic
-  - although
-  - their
-- - lackeys
-  - who
-  - work
 - - upon
   - our
   - scalps
-- - when
-  - tribal
-  - elders
-- - talc
-  - upon
-  - our
-- - means
-  - precisely
-  - what
+- - topic
+  - although
+  - their
 - - might
   - thousands
   - upon
-- - has
-  - ever
-  - dared
-- - inspector
-  - has
-  - ever
+- - lackeys
+  - who
+  - work
+- - talc
+  - upon
+  - our
+- - when
+  - tribal
+  - elders
+- - means
+  - precisely
+  - what
 - - association
   - sends
   - out
 - - sample
   - here
   - can
+- - more
+  - than
+  - sketch
+- - has
+  - ever
+  - dared
 - - sends
   - out
   - special
@@ -455,15 +455,15 @@ ngrams:
 - - began
   - when
   - tribal
-- - bark
-  - team
-  - will
+- - inspector
+  - has
+  - ever
 - - more
   - than
-  - sketch
-- - team
-  - will
-  - tend
+  - suggest
+- - football
+  - began
+  - when
 story:
   date: 2004-02-27
   id: 2004-02-27-rules-of-the-game

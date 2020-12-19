@@ -5,36 +5,36 @@ ngrams:
 - - zippity
   - doo
   - dah
-- - hungry
-  - freaks
-  - daddy
 - - doo
   - dah
   - queuing
-- - grumpy
-  - germanic
-  - avant
 - - germanic
   - avant
   - garde
+- - hungry
+  - freaks
+  - daddy
+- - grumpy
+  - germanic
+  - avant
 - - mood
   - zippity
   - doo
-- - poppins
-  - robert
-  - stevenson
 - - crown
   - affair
   - norman
+- - poppins
+  - robert
+  - stevenson
 - - nazis
   - running
   - rampage
-- - memorable
-  - incident
-  - involving
 - - trendy
   - pop
   - musicals
+- - memorable
+  - incident
+  - involving
 - - mary
   - poppins
   - robert
@@ -47,27 +47,27 @@ ngrams:
 - - lark
   - singing
   - jack
-- - dick
-  - van
-  - dyke
 - - sitting
   - bolt
   - upright
+- - dick
+  - van
+  - dyke
 - - limit
   - oneself
   - simply
 - - extra
   - spark
   - simply
+- - toffee
+  - recite
+  - prose
 - - average
   - sweep
   - simply
 - - music
   - robert
   - wise
-- - toffee
-  - recite
-  - prose
 - - belgian
   - pals
   - call
@@ -77,18 +77,18 @@ ngrams:
 - - pals
   - call
   - het
-- - soup
-  - kitchen
-  - version
-- - sent
-  - whole
-  - flocks
 - - sang
   - slow
   - dog
 - - certain
   - trendy
   - pop
+- - soup
+  - kitchen
+  - version
+- - sent
+  - whole
+  - flocks
 - - obviously
   - cannot
   - employ
@@ -101,66 +101,69 @@ ngrams:
 - - newsagent
   - trudging
   - along
-- - van
-  - dyke
-  - almost
 - - immeasurably
   - cheered
   - having
 - - cheered
   - having
   - recourse
-- - squalid
-  - tavern
-  - called
+- - van
+  - dyke
+  - almost
 - - bit
   - less
   - difficult
+- - prose
+  - 'yes'
+  - sing
 - - angry
   - nor
   - ill
 - - dyke
   - almost
   - certainly
-- - prose
-  - 'yes'
-  - sing
 - - trained
   - professional
   - indeed
+- - squalid
+  - tavern
+  - called
 - - indeed
   - famous
   - musician
-- - songs
-  - also
-  - allows
 - - professional
   - indeed
   - famous
+- - songs
+  - also
+  - allows
+- - particularly
+  - angry
+  - nor
 - - nunnery
   - walls
   - must
 - - climb
   - every
   - mountain
-- - particularly
-  - angry
-  - nor
-- - spark
-  - simply
-  - because
 - - musical
   - passion
   - well
+- - spark
+  - simply
+  - because
+- - myself
+  - obviously
+  - cannot
 - - resonance
   - fm
   - hooting
 - - little
   - extra
   - spark
-- - myself
-  - obviously
-  - cannot
+- - nor
+  - ill
+  - nor
 - - people
   - whose
   - ears
@@ -170,15 +173,12 @@ ngrams:
 - - filthy
   - old
   - canal
-- - nor
-  - ill
-  - nor
-- - cow
-  - pins
-  - most
 - - those
   - heady
   - moments
+- - cow
+  - pins
+  - most
 - - name
   - anyway
   - along
@@ -188,174 +188,174 @@ ngrams:
 - - heady
   - moments
   - before
-- - our
-  - belgian
-  - pals
-- - somewhat
-  - ugly
-  - before
-- - ditty
-  - seemed
-  - just
-- - masses
-  - huddled
-  - over
 - - any
   - chimney
   - sweeps
-- - old
-  - canal
-  - towards
+- - masses
+  - huddled
+  - over
+- - somewhat
+  - ugly
+  - before
+- - our
+  - belgian
+  - pals
 - - piece
   - works
   - well
+- - ditty
+  - seemed
+  - just
 - - works
   - well
   - enough
-- - every
-  - mountain
-  - once
 - - penurious
   - scribbler
   - such
-- - its
-  - master's
-  - leash
-- - slipped
-  - its
-  - master's
+- - old
+  - canal
+  - towards
+- - every
+  - mountain
+  - once
 - - ironic
   - commentary
   - upon
-- - now
-  - regular
-  - listeners
+- - its
+  - master's
+  - leash
 - - musical
   - commentary
   - upon
-- - fm
-  - hooting
-  - yard
-- - magazine
-  - now
-  - regular
+- - slipped
+  - its
+  - master's
 - - commentary
   - upon
   - one's
-- - more
-  - anarchic
-  - musicals
+- - now
+  - regular
+  - listeners
 - - bed
   - upon
   - waking
-- - whose
-  - ears
-  - may
-- - enough
-  - before
-  - breakfast
+- - more
+  - anarchic
+  - musicals
+- - magazine
+  - now
+  - regular
+- - fm
+  - hooting
+  - yard
 - - nor
   - even
   - irritable
+- - enough
+  - before
+  - breakfast
 - - ill
   - nor
   - even
+- - whose
+  - ears
+  - may
 - - rather
   - than
   - ignoring
 - - fulfilling
   - life
   - than
-- - why
-  - after
-  - breakfast
 - - fellow
   - rather
   - than
-- - fairly
-  - grim
-  - who
+- - why
+  - after
+  - breakfast
 - - more
   - fulfilling
   - life
 - - well
   - enough
   - before
+- - fairly
+  - grim
+  - who
 - - could
   - still
   - indulge
-- - has
-  - become
-  - apparent
+- - their
+  - lives
+  - circumscribed
 - - robert
   - wise
   - their
 - - their
-  - lives
-  - circumscribed
+  - radio
+  - sets
 - - wise
   - their
   - lives
-- - their
-  - radio
-  - sets
+- - has
+  - become
+  - apparent
+- - could
+  - remember
+  - though
+- - 'yes'
+  - sing
+  - 'no'
 - - been
   - fairly
   - grim
+- - am
+  - overheard
+  - say
 - - been
   - somewhat
   - ugly
 - - almost
   - certainly
   - has
-- - 'yes'
-  - sing
-  - 'no'
 - - pottered
   - aimlessly
   - about
 - - 'no'
   - connection
   - between
-- - could
-  - remember
-  - though
 - - were
   - immeasurably
   - cheered
-- - am
-  - overheard
-  - say
-- - hearts
-  - were
-  - immeasurably
-- - your
-  - mind
-  - famously
-- - belting
-  - out
-  - climb
-- - man
-  - can
-  - tolerate
 - - upon
   - one's
   - day
+- - hearts
+  - were
+  - immeasurably
+- - belting
+  - out
+  - climb
+- - your
+  - mind
+  - famously
+- - man
+  - can
+  - tolerate
 - - burst
   - into
   - song
 - - connection
   - between
   - what
-- - 'no'
-  - reason
-  - why
-- - while
-  - their
-  - hearts
 - - stand
   - ready
   - out
+- - while
+  - their
+  - hearts
+- - 'no'
+  - reason
+  - why
 - - irritability
   - keeps
   - me
@@ -377,12 +377,12 @@ ngrams:
 - - me
   - sitting
   - bolt
-- - songs
-  - they
-  - choose
 - - attacking
   - me
   - gave
+- - songs
+  - they
+  - choose
 - - actually
   - beat
   - me

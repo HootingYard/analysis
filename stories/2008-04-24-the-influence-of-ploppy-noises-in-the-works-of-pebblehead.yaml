@@ -2,12 +2,12 @@ ngrams:
 - - rooftop
   - gardens
   - dismiss
-- - urban
-  - rooftop
-  - gardens
 - - breathtaking
   - critical
   - acuity
+- - urban
+  - rooftop
+  - gardens
 - - unpublished
   - blockbuster
   - dustbin
@@ -23,12 +23,12 @@ ngrams:
 - - literary
   - journal
   - bookish
-- - journal
-  - bookish
-  - goo
 - - glamorous
   - cocktail
   - parties
+- - journal
+  - bookish
+  - goo
 - - pomposity
   - using
   - critical
@@ -53,24 +53,27 @@ ngrams:
 - - rightly
   - see
   - sidney
-- - critical
-  - attention
-  - too
 - - yet
   - entirely
   - clear
+- - critical
+  - attention
+  - too
 - - pickled
   - sausages
   - down
 - - attention
   - too
   - often
-- - shall
-  - stand
-  - here
 - - skies
   - over
   - pointy
+- - shall
+  - stand
+  - here
+- - over
+  - pointy
+  - town
 - - gardens
   - dismiss
   - him
@@ -80,42 +83,39 @@ ngrams:
 - - who
   - grunt
   - unintelligibly
-- - over
-  - pointy
-  - town
-- - who
-  - pick
-  - holes
 - - book
   - without
   - first
+- - who
+  - pick
+  - holes
 - - over
   - again
   - until
-- - having
-  - engaged
-  - him
 - - without
   - first
   - being
-- - who
-  - having
+- - having
   - engaged
+  - him
 - - triviality
   - sloshing
   - about
+- - who
+  - having
+  - engaged
 - - blazing
   - noon
   - when
 - - entirely
   - clear
   - what
-- - who
-  - rightly
-  - see
 - - sloshing
   - about
   - between
+- - who
+  - rightly
+  - see
 - - those
   - who
   - accuse
@@ -143,15 +143,15 @@ ngrams:
 - - just
   - said
   - over
-- - never
-  - been
-  - born
 - - down
   - their
   - gullets
 - - all
   - turn
   - blue
+- - never
+  - been
+  - born
 story:
   date: 2008-04-24
   id: 2008-04-24-the-influence-of-ploppy-noises-in-the-works-of-pebblehead

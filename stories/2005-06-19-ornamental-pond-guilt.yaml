@@ -20,12 +20,21 @@ ngrams:
 - - v
   - remained
   - mopping
-- - v
-  - doctor
-  - fang
 - - saturday
   - afternoon
   - pursuing
+- - quacks
+  - prescribed
+  - various
+- - various
+  - potions
+  - tablets
+- - prescribed
+  - various
+  - potions
+- - perform
+  - simple
+  - tasks
 - - ornamental
   - pond
   - guilt
@@ -44,21 +53,12 @@ ngrams:
 - - pond
   - guilt
   - patients
-- - quacks
-  - prescribed
-  - various
+- - v
+  - doctor
+  - fang
 - - dubbed
   - ornamental
   - pond
-- - prescribed
-  - various
-  - potions
-- - various
-  - potions
-  - tablets
-- - perform
-  - simple
-  - tasks
 - - spilled
   - nettle
   - tea
@@ -71,42 +71,42 @@ ngrams:
 - - scribble
   - twaddle
   - instead
-- - medical
-  - history
-  - blodgett
 - - same
   - results
   - twice
-- - next
-  - eight
-  - months
+- - medical
+  - history
+  - blodgett
 - - conclusions
   - while
   - drinking
-- - pond
-  - guilt
-  - until
+- - next
+  - eight
+  - months
 - - dead
   - brain
   - tissue
+- - pond
+  - guilt
+  - until
 - - most
   - poignant
   - moments
 - - while
   - drinking
   - cup
-- - little
-  - recovered
-  - 'yes'
 - - eventually
   - carted
   - 'off'
-- - gas
-  - filtered
-  - through
+- - little
+  - recovered
+  - 'yes'
 - - first
   - recorded
   - cases
+- - gas
+  - filtered
+  - through
 - - died
   - after
   - toppling
@@ -119,12 +119,12 @@ ngrams:
 - - cup
   - after
   - cup
-- - like
-  - ronald
-  - colman
 - - simple
   - tasks
   - such
+- - like
+  - ronald
+  - colman
 - - ever
   - recover
   - well
@@ -137,12 +137,12 @@ ngrams:
 - - could
   - perform
   - simple
-- - blodgett
-  - spilled
-  - some
 - - recover
   - well
   - did
+- - blodgett
+  - spilled
+  - some
 - - patient
   - who
   - suffered
@@ -167,29 +167,29 @@ ngrams:
 - - left
   - 'no'
   - records
-- - did
-  - blodgett
-  - know
-- - leeches
-  - were
-  - applied
+- - knocked
+  - unconscious
+  - when
 - - canteen
   - floor
   - what
-- - knocked
-  - unconscious
+- - leeches
+  - were
+  - applied
+- - did
+  - blodgett
+  - know
+- - pond
+  - guilt
   - when
 - - discover
   - some
   - way
-- - pond
-  - guilt
-  - when
-- - floor
-  - what
-  - blodgett
 - - guilt
   - when
+  - blodgett
+- - floor
+  - what
   - blodgett
 - - when
   - blodgett
@@ -209,9 +209,9 @@ ngrams:
 - - name
   - would
   - resound
-- - guilt
-  - which
-  - left
+- - would
+  - ever
+  - recover
 story:
   date: 2005-06-19
   id: 2005-06-19-ornamental-pond-guilt

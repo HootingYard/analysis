@@ -1,10 +1,10 @@
 ngrams:
-- - usual
-  - cupboard
-  - o'
 - - cupboard
   - o'
   - stuff
+- - usual
+  - cupboard
+  - o'
 - - certain
   - fugitive
   - thoughts
@@ -17,18 +17,18 @@ ngrams:
 - - otherwise
   - mr
   - key
-- - exciting
-  - may
-  - occur
-- - heaven
-  - back
-  - soon
-- - past
-  - few
-  - days
 - - interesting
   - thoughts
   - than
+- - exciting
+  - may
+  - occur
+- - past
+  - few
+  - days
+- - heaven
+  - back
+  - soon
 - - make
   - another
   - cup
@@ -53,15 +53,15 @@ ngrams:
 - - flit
   - through
   - such
+- - even
+  - diversions
+  - such
 - - head
   - like
   - manna
 - - key
   - has
   - decided
-- - even
-  - diversions
-  - such
 - - inadvertent
   - stepping
   - into
@@ -89,12 +89,12 @@ ngrams:
 - - this
   - malady
   - does
-- - manna
-  - from
-  - heaven
 - - friday
   - but
   - otherwise
+- - manna
+  - from
+  - heaven
 story:
   date: 2011-03-02
   id: 2011-03-02-vacancy-between-the-ears

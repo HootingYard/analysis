@@ -2,45 +2,48 @@ ngrams:
 - - charging
   - exorbitant
   - funicular
-- - puppeteer
-  - jasper
-  - weems
 - - younger
   - blots
   - hansi
+- - puppeteer
+  - jasper
+  - weems
 - - absolute
   - clarity
   - hans
-- - piqued
-  - hans
-  - blot
 - - exceedingly
   - wealthy
   - hans
 - - unparalleled
   - rapacity
+  - studied
+- - n
+  - k
+  - freaky
+- - piqued
+  - hans
   - blot
 - - unparalleled
   - rapacity
-  - studied
-- - wealthy
-  - hans
   - blot
-- - clarity
-  - hans
-  - blot
-- - hans
-  - blot
-  - proceeded
 - - jasper
   - weems
   - weems
 - - rapacity
   - shadow
   - puppets
+- - wealthy
+  - hans
+  - blot
+- - clarity
+  - hans
+  - blot
 - - shadow
   - puppeteer
   - jasper
+- - hans
+  - blot
+  - proceeded
 - - regular
   - revenue
   - stream
@@ -53,57 +56,54 @@ ngrams:
 - - exorbitant
   - funicular
   - railway
+- - writer
+  - n
+  - k
 - - funicular
   - railway
   - fares
 - - interest
   - piqued
   - hans
-- - n
-  - k
-  - freaky
-- - private
-  - funicular
-  - railway
 - - labour
   - party
   - politicians
-- - family
-  - hans
-  - blot
+- - private
+  - funicular
+  - railway
 - - living
   - herding
   - goats
 - - shadow
   - puppet
   - version
-- - rapacity
-  - studied
-  - hard
-- - writer
-  - n
-  - k
-- - family's
-  - fortunes
-  - instead
-- - blots
-  - simply
-  - ignored
+- - family
+  - hans
+  - blot
 - - alpine
   - hovel
   - eventually
+- - rapacity
+  - studied
+  - hard
+- - family's
+  - fortunes
+  - instead
 - - british
   - labour
   - party
+- - blots
+  - simply
+  - ignored
 - - gnomes
   - lost
   - patience
-- - blots
-  - left
-  - zurich
 - - weems
   - weems
   - told
+- - blots
+  - left
+  - zurich
 - - number
   - george
   - brown
@@ -113,15 +113,12 @@ ngrams:
 - - shadow
   - puppetry
   - let
-- - hans
-  - blot
-  - came
 - - invisible
   - gnomes
   - set
-- - long
-  - evenings
-  - huddled
+- - hans
+  - blot
+  - came
 - - necessary
   - blot
   - thought
@@ -131,6 +128,9 @@ ngrams:
 - - hans
   - blot
   - read
+- - long
+  - evenings
+  - huddled
 - - live
   - among
   - men
@@ -149,33 +149,30 @@ ngrams:
 - - zurich
   - right
   - away
-- - apparently
-  - made
-  - reference
 - - blot
   - thought
   - because
-- - only
-  - becoming
-  - visible
+- - apparently
+  - made
+  - reference
 - - such
   - unparalleled
   - rapacity
-- - let
-  - us
-  - retell
-- - puppetry
-  - let
-  - us
+- - only
+  - becoming
+  - visible
 - - lost
   - patience
   - after
 - - rapacity
   - blot
   - did
-- - gnomes
-  - set
-  - 'off'
+- - let
+  - us
+  - retell
+- - puppetry
+  - let
+  - us
 - - common
   - riffraff
   - such
@@ -185,18 +182,15 @@ ngrams:
 - - zurich
   - upon
   - arrival
-- - mountain
-  - she
-  - babbled
-- - next
-  - five
-  - years
-- - human
-  - existence
-  - such
+- - gnomes
+  - set
+  - 'off'
 - - blots
   - could
   - borrow
+- - human
+  - existence
+  - such
 - - then
   - gouge
   - oodles
@@ -206,18 +200,24 @@ ngrams:
 - - more
   - funicular
   - railways
-- - eyes
-  - such
-  - unparalleled
 - - could
   - borrow
   - money
+- - next
+  - five
+  - years
+- - eyes
+  - such
+  - unparalleled
 - - here
   - using
   - words
 - - before
   - long
   - believing
+- - mountain
+  - she
+  - babbled
 - - blot
   - came
   - upon
@@ -233,9 +233,6 @@ ngrams:
 - - down
   - those
   - sublime
-- - gnomes
-  - who
-  - live
 - - repay
   - their
   - loan
@@ -248,6 +245,9 @@ ngrams:
 - - their
   - unparalleled
   - rapacity
+- - gnomes
+  - who
+  - live
 - - their
   - secretive
   - bank
@@ -260,15 +260,15 @@ ngrams:
 - - their
   - alpine
   - hovel
-- - been
-  - narrow
-  - pinched
 - - generations
   - their
   - lives
 - - course
   - do
   - justice
+- - been
+  - narrow
+  - pinched
 - - who
   - live
   - among

@@ -1,46 +1,46 @@
 ngrams:
-- - reeve
-  - '-'
-  - received
 - - reject
   - physical
   - science
-- - tailor
-  - john
-  - reeve
-- - john
-  - reeve
-  - '-'
 - - civil
   - war
   - period
 - - william
   - wood
   - circa
+- - tailor
+  - john
+  - reeve
 - - english
   - civil
   - war
 - - andy
   - hopton
   - whose
-- - hopton
-  - whose
-  - essay
 - - mouth
   - reeve
   - learned
+- - hopton
+  - whose
+  - essay
 - - small
   - press
   - gleanings
+- - reeve
+  - '-'
+  - received
 - - philip
   - noakes
   - came
-- - hot
-  - air
-  - ballooning
+- - john
+  - reeve
+  - '-'
 - - banned
   - hot
   - air
+- - hot
+  - air
+  - ballooning
 - - great
   - holiday
   - celebrated
@@ -53,21 +53,21 @@ ngrams:
 - - february
   - each
   - year
-- - pronounce
-  - cursed
-  - through
 - - air
   - ballooning
   - because
+- - pronounce
+  - cursed
+  - through
 - - war
   - period
   - only
-- - those
-  - three
-  - days
 - - it's
   - holiday
   - time
+- - those
+  - three
+  - days
 - - holiday
   - time
   - today
@@ -80,6 +80,9 @@ ngrams:
 - - they
   - considered
   - astronomy
+- - balloons
+  - would
+  - crash
 - - science
   - they
   - refused
@@ -89,18 +92,15 @@ ngrams:
 - - god
   - made
   - them
-- - balloons
-  - would
-  - crash
 - - sects
   - which
   - sprang
 - - one
   - philip
   - noakes
-- - stars
-  - they
-  - said
+- - unclean
+  - this
+  - led
 story:
   date: 2012-02-03
   id: 2012-02-03-its-holiday-time

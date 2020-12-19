@@ -2,24 +2,24 @@ ngrams:
 - - rope
   - desmond
   - ties
+- - dried
+  - mud
+  - fall
 - - sycamore
   - blodgett
   - pull
 - - nearby
   - sycamore
   - blodgett
-- - dried
-  - mud
-  - fall
 - - poor
   - blodgett
   - flops
-- - blodgett
-  - pull
-  - yourself
 - - bring
   - rain
   - poor
+- - blodgett
+  - pull
+  - yourself
 - - rain
   - poor
   - blodgett
@@ -32,15 +32,15 @@ ngrams:
 - - spectacles
   - too
   - blodgett
+- - matter
+  - how
+  - loud
 - - too
   - blodgett
   - blodgett
 - - us
   - says
   - blodgett
-- - matter
-  - how
-  - loud
 - - feet
   - before
   - falling
@@ -50,36 +50,33 @@ ngrams:
 - - use
   - our
   - rope
-- - mighty
-  - splash
-  - now
 - - bog
   - through
   - days
+- - mighty
+  - splash
+  - now
+- - beard
+  - how
+  - long
 - - now
   - blodgett
   - scowls
 - - unison
   - now
   - blodgett
-- - beard
-  - how
-  - long
 - - before
   - falling
   - back
-- - hat
-  - has
-  - fallen
 - - hear
   - us
   - even
+- - hat
+  - has
+  - fallen
 - - your
   - beard
   - blodgett
-- - has
-  - fallen
-  - 'off'
 - - pull
   - yourself
   - out
@@ -89,6 +86,9 @@ ngrams:
 - - mud
   - fall
   - out
+- - has
+  - fallen
+  - 'off'
 - - hog
   - we
   - toss
@@ -101,6 +101,9 @@ ngrams:
 - - spectacles
   - we
   - sing
+- - we
+  - cry
+  - none
 - - steal
   - upon
   - him
@@ -110,9 +113,6 @@ ngrams:
 - - blodgett
   - we
   - steal
-- - we
-  - cry
-  - none
 story:
   date: 2005-02-25
   id: 2005-02-25-in-a-bog

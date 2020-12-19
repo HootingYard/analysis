@@ -2,12 +2,12 @@ ngrams:
 - - glass
   - licentiate
   - toma
-- - hayloft
-  - takes
-  - refuge
 - - falling
   - roof
   - tiles
+- - hayloft
+  - takes
+  - refuge
 - - licentiate
   - toma
   - s
@@ -23,21 +23,18 @@ ngrams:
 - - any
   - restrictive
   - clothing
-- - eats
-  - only
-  - fruit
 - - any
   - physical
   - contact
+- - eats
+  - only
+  - fruit
 - - only
   - fruit
   - offered
 - - other
   - glass
   - receptacle
-- - '-'
-  - hooting
-  - yard
 - - hooting
   - yard
   - archives
@@ -47,6 +44,9 @@ ngrams:
 - - some
   - hayloft
   - takes
+- - '-'
+  - hooting
+  - yard
 - - instantly
   - rose
   - up
@@ -59,48 +59,45 @@ ngrams:
 - - day
   - some
   - wood
-- - learned
-  - man
-  - who
 - - glass
   - bottle
   - there
+- - learned
+  - man
+  - who
 - - yard
   - archives
   - about
-- - her
-  - master
-  - who
 - - parts
   - affected
   - which
 - - legs
   - were
   - made
+- - her
+  - master
+  - who
 - - she
   - called
   - them
 - - urinal
   - an
   - oil
-- - them
-  - gave
-  - him
 - - an
   - oil
   - lamp
+- - them
+  - gave
+  - him
 - - maid
   - bringing
+  - one
+- - glass
+  - men
   - one
 - - an
   - odd
   - kind
-- - glass
-  - men
-  - one
-- - had
-  - studied
-  - till
 - - anxiety
   - about
   - them
@@ -110,6 +107,9 @@ ngrams:
 - - outdoors
   - or
   - huddled
+- - had
+  - studied
+  - till
 - - oil
   - lamp
   - or
@@ -119,15 +119,15 @@ ngrams:
 - - wear
   - shoes
   - or
+- - receptacle
+  - or
+  - else
 - - roof
   - tiles
   - from
 - - injury
   - from
   - falling
-- - avoid
-  - injury
-  - from
 story:
   date: 2009-02-18
   id: 2009-02-18-the-glass-man

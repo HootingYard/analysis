@@ -1,15 +1,9 @@
 ngrams:
-- - rubbing
-  - alcohol
-  - flashback
 - - inspirational
   - affirmative
   - blather
-- - crying
-  - flashback
-  - wedding
-- - starts
-  - crying
+- - rubbing
+  - alcohol
   - flashback
 - - affirmative
   - blather
@@ -17,174 +11,180 @@ ngrams:
 - - soundtrack
   - tragic
   - violins
+- - starts
+  - crying
+  - flashback
+- - crying
+  - flashback
+  - wedding
 - - pool
   - dad
   - arrives
 - - starts
   - muttering
   - plane
-- - hatch
-  - plane
-  - hatch
-- - muttering
-  - plane
-  - hatch
 - - herbal
   - remedy
   - despite
-- - plane
-  - hatch
+- - muttering
   - plane
-- - lothar
-  - preen
-  - minnie
+  - hatch
+- - hatch
+  - plane
+  - hatch
 - - baby
   - successful
   - delivery
-- - tells
-  - lothar
-  - preen
+- - plane
+  - hatch
+  - plane
 - - english
   - korean
   - chatter
-- - walking
-  - lothar
-  - preen
 - - babbled
   - english
   - korean
 - - thin
   - sharp
   - needles
-- - gubbins
-  - tells
-  - lothar
 - - hotel
   - pool
   - dad
+- - lothar
+  - preen
+  - minnie
 - - loud
   - groaning
   - noises
+- - walking
+  - lothar
+  - preen
+- - tells
+  - lothar
+  - preen
 - - sight
   - offers
   - minnie
-- - tack
-  - sit
-  - nearby
-- - wedding
-  - preparations
-  - possibly
-- - everyone
-  - looking
-  - meaningful
-- - lothar
-  - preen
-  - return
-- - enid
-  - intense
-  - looks
 - - conversation
   - deep
   - emotions
-- - music
-  - soundtrack
-  - tragic
+- - wedding
+  - preparations
+  - possibly
+- - tack
+  - sit
+  - nearby
 - - incomprehensible
   - conversation
   - deep
-- - slow
-  - motion
-  - mrs
-- - plane
-  - hatch
-  - blodgett
+- - enid
+  - intense
+  - looks
+- - gubbins
+  - tells
+  - lothar
+- - everyone
+  - looking
+  - meaningful
+- - music
+  - soundtrack
+  - tragic
 - - collapsed
   - tense
   - music
-- - hatch
-  - mrs
-  - gubbins
+- - special
+  - christmas
+  - treat
+- - successful
+  - delivery
+  - it's
 - - moving
   - music
   - slow
+- - dreadful
+  - news
+  - silent
+- - music
+  - slow
+  - motion
+- - slow
+  - motion
+  - mrs
 - - chew
   - what's
   - happening
 - - mystic
   - badger
   - named
-- - special
-  - christmas
-  - treat
-- - music
-  - slow
-  - motion
-- - profound
-  - mrs
-  - gubbins
+- - tourniquet
+  - round
+  - leg
+- - fish
+  - neither
+  - minnie
+- - lothar
+  - preen
+  - return
 - - despite
   - dobson's
   - protestations
-- - successful
-  - delivery
-  - it's
-- - dreadful
-  - news
-  - silent
+- - remedy
+  - despite
+  - dobson's
+- - plane
+  - hatch
+  - blodgett
+- - tack
+  - arrive
+  - marigold
+- - groaning
+  - noises
+  - marigold
+- - hatch
+  - mrs
+  - gubbins
+- - profound
+  - mrs
+  - gubbins
+- - beach
+  - fictional
+  - athlete
 - - mrs
   - gubbins
   - wants
 - - motion
   - mrs
   - gubbins
-- - remedy
-  - despite
-  - dobson's
 - - mrs
   - gubbins
   - minnie
-- - tack
-  - arrive
-  - marigold
-- - fish
-  - neither
-  - minnie
-- - tourniquet
-  - round
-  - leg
-- - mrs
-  - gubbins
-  - tells
-- - groaning
-  - noises
-  - marigold
-- - provisionally
-  - entitled
-  - blodgett
-- - beach
-  - fictional
-  - athlete
-- - young
-  - mystic
-  - badger
 - - trees
   - it's
   - minnie
-- - help
-  - somebody
-  - help
 - - bloody
   - blood
   - type
+- - help
+  - somebody
+  - help
+- - young
+  - mystic
+  - badger
 - - mrs
   - gubbins
-  - looking
-- - picnic
-  - mrs
-  - gubbins
+  - tells
+- - provisionally
+  - entitled
+  - blodgett
 - - chew
   - help
   - somebody
+- - intense
+  - looks
+  - between
+- - picnic
+  - mrs
+  - gubbins
 - - marigold
   - chew
   - where's
@@ -203,28 +203,34 @@ ngrams:
 - - marigold
   - chew
   - moves
+- - mrs
+  - gubbins
+  - looking
 - - labour
   - marigold
   - chew
 - - marigold
   - chew
   - what's
-- - marigold
-  - chew
-  - arrives
 - - arrive
   - marigold
   - chew
-- - intense
-  - looks
-  - between
+- - marigold
+  - chew
+  - arrives
+- - having
+  - contractions
+  - minnie
+- - you're
+  - having
+  - contractions
 - - marigold
   - chew
   - you're
-- - tells
+- - noises
   - marigold
   - chew
-- - noises
+- - tells
   - marigold
   - chew
 - - marigold
@@ -233,42 +239,24 @@ ngrams:
 - - forest
   - marigold
   - chew
-- - fish
-  - marigold
-  - chew
-- - having
-  - contractions
-  - minnie
 - - baby
   - night
   - minnie
+- - fish
+  - marigold
+  - chew
 - - looks
   - soulful
   - tiny
-- - you're
-  - having
-  - contractions
 - - want
   - fish
   - marigold
+- - own
+  - wedding
+  - vows
 - - preen
   - return
   - hand
-- - tell
-  - mrs
-  - gubbins
-- - mrs
-  - gubbins
-  - tell
-- - gubbins
-  - tell
-  - mrs
-- - tell
-  - mrs
-  - gubbins
-- - marigold
-  - chew
-  - help
 - - tiny
   - enid
   - winces
@@ -281,48 +269,60 @@ ngrams:
 - - tiny
   - enid
   - puts
-- - tiny
-  - enid
-  - intense
+- - sobbing
+  - again
+  - minnie
 - - shock
   - tiny
   - enid
 - - tiny
   - enid
-  - asks
+  - intense
+- - looks
+  - soulful
+  - again
 - - pals
   - hanging
   - around
 - - tiny
   - enid
+  - asks
+- - tiny
+  - enid
   - stare
-- - own
-  - wedding
-  - vows
-- - sobbing
-  - again
-  - minnie
-- - looks
-  - soulful
-  - again
+- - marigold
+  - chew
+  - help
+- - tell
+  - mrs
+  - gubbins
+- - mrs
+  - gubbins
+  - tell
+- - gubbins
+  - tell
+  - mrs
+- - tell
+  - mrs
+  - gubbins
 - - tells
   - tiny
   - enid
 - - tiny
   - enid
   - tells
-- - says
-  - i'm
-  - going
 - - couldn't
   - come
   - he's
-- - come
-  - he's
-  - pouring
+- - says
+  - i'm
+  - going
 - - takes
   - place
   - somewhere
+- - come
+  - he's
+  - pouring
 - - type
   - tiny
   - enid
@@ -332,9 +332,6 @@ ngrams:
 - - chew
   - you're
   - having
-- - tell
-  - marigold
-  - chew
 - - he's
   - still
   - groaning
@@ -344,48 +341,33 @@ ngrams:
 - - blood
   - type
   - tiny
+- - tell
+  - marigold
+  - chew
+- - own
+  - bloody
+  - blood
 - - sea
   - marigold
   - chew
 - - together
   - tiny
   - enid
+- - labour
+  - much
+  - babbled
+- - nearby
+  - being
+  - manly
 - - find
   - mrs
   - gubbins
-- - own
-  - bloody
-  - blood
-- - alcohol
-  - flashback
-  - dobson
-- - flashback
-  - wedding
-  - dobson
-- - dobson
-  - wedding
-  - preparations
-- - tragic
-  - violins
-  - dobson
-- - groans
-  - dobson
-  - starts
-- - dad
-  - arrives
-  - dobson
-- - dobson
-  - starts
-  - crying
-- - what's
-  - happening
-  - dobson
+- - much
+  - babbled
+  - english
 - - named
   - little
   - severin
-- - arrives
-  - dobson
-  - explains
 - - mrs
   - gubbins
   - too
@@ -395,78 +377,96 @@ ngrams:
 - - too
   - mrs
   - gubbins
-- - nearby
+- - exciting
+  - new
+  - television
+- - just
+  - collapsed
+  - tense
+- - lung
+  - just
+  - collapsed
+- - sit
+  - nearby
   - being
-  - manly
-- - tack
-  - asks
+- - alcohol
+  - flashback
   - dobson
+- - tragic
+  - violins
+  - dobson
+- - flashback
+  - wedding
+  - dobson
+- - groans
+  - dobson
+  - starts
+- - dobson
+  - wedding
+  - preparations
+- - dobson
+  - starts
+  - crying
+- - dad
+  - arrives
+  - dobson
+- - badger
+  - named
+  - little
+- - what's
+  - happening
+  - dobson
+- - plane
+  - crash
+  - here
+- - words
+  - tell
+  - mrs
+- - arrives
+  - dobson
+  - explains
 - - winces
   - dobson
   - tells
 - - interpreting
   - dobson
   - tells
-- - dobson
-  - looks
-  - soulful
-- - dobson
-  - looks
-  - soulful
+- - island
+  - after
+  - surviving
 - - sharp
   - needles
+  - dobson
+- - very
+  - loud
+  - groaning
+- - dobson
+  - looks
+  - soulful
+- - dobson
+  - looks
+  - soulful
+- - tack
+  - asks
   - dobson
 - - negative
   - dobson
   - tells
-- - labour
-  - much
-  - babbled
+- - new
+  - television
+  - series
 - - wedding
   - dobson
   - looks
-- - badger
-  - named
-  - little
-- - waters
-  - break
-  - dobson
-- - exciting
-  - new
-  - television
-- - enid
-  - winces
-  - dobson
-- - enid
-  - interpreting
-  - dobson
-- - sit
-  - nearby
-  - being
-- - just
-  - collapsed
-  - tense
-- - words
-  - tell
-  - mrs
-- - needles
-  - dobson
-  - says
-- - lung
-  - just
-  - collapsed
-- - plane
-  - crash
-  - here
 - - grunty
   - man
   - hears
-- - violins
+- - very
+  - thin
+  - sharp
+- - waters
+  - break
   - dobson
-  - sitting
-- - much
-  - babbled
-  - english
 story:
   date: 2005-12-24
   id: 2005-12-24-a-special-christmas-treat-for-all-our-readers

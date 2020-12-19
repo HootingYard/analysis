@@ -2,30 +2,30 @@ ngrams:
 - - external
   - poisons
   - painful
-- - muscles
-  - swellings
-  - weakness
 - - cracks
   - strains
   - lameness
+- - muscles
+  - swellings
+  - weakness
 - - wounds
   - sprains
   - bruises
-- - painful
-  - nervous
-  - affections
-- - poisons
-  - painful
-  - nervous
 - - affections
   - frost
   - bites
-- - joints
-  - caked
-  - breast
+- - poisons
+  - painful
+  - nervous
+- - painful
+  - nervous
+  - affections
 - - bites
   - boils
   - corns
+- - joints
+  - caked
+  - breast
 - - nervous
   - affections
   - frost
@@ -38,27 +38,27 @@ ngrams:
 - - remarkable
   - external
   - application
-- - fresh
-  - wounds
-  - sprains
 - - gargling
   - oil
   - unparalleled
 - - sand
   - cracks
   - strains
-- - poll
-  - evil
-  - callous
+- - fresh
+  - wounds
+  - sprains
 - - animals
   - external
   - poisons
-- - evil
+- - poll
+  - evil
   - callous
-  - cracked
 - - celebrated
   - gargling
   - oil
+- - evil
+  - callous
+  - cracked
 - - kinds
   - fresh
   - wounds
@@ -74,12 +74,12 @@ ngrams:
 - - horse
   - ailment
   - knowledge
-- - most
-  - remarkable
-  - external
 - - external
   - application
   - ever
+- - odd
+  - ends
+  - go
 story:
   date: 2005-06-16
   id: 2005-06-16-how-to-look-after-a-horse

@@ -14,24 +14,24 @@ ngrams:
 - - swiss
   - skiing
   - ace
-- - effects
-  - carefully
-  - catalogued
-- - blindingly
-  - obvious
-  - facts
 - - purely
   - selfish
   - reasons
+- - blindingly
+  - obvious
+  - facts
 - - entrance
   - ticket
   - seek
-- - mysterious
-  - unnamed
-  - mentor
+- - effects
+  - carefully
+  - catalogued
 - - rustic
   - industrial
   - estate
+- - mysterious
+  - unnamed
+  - mentor
 - - museum
   - recently
   - established
@@ -44,15 +44,15 @@ ngrams:
 - - fascist
   - simply
   - invented
-- - enid
-  - museum
-  - recently
 - - watch
   - parades
   - pass
 - - considered
   - due
   - gratitude
+- - enid
+  - museum
+  - recently
 - - enid
   - herself
   - grew
@@ -77,6 +77,9 @@ ngrams:
 - - tiny
   - enid
   - dashed
+- - also
+  - perfectly
+  - possible
 - - tiny
   - enid
   - museum
@@ -86,51 +89,48 @@ ngrams:
 - - tiny
   - enid
   - herself
-- - also
-  - perfectly
-  - possible
 - - anywhere
   - else
   - indeed
-- - venturesome
-  - little
-  - fascist
 - - ever
   - greater
   - recklessness
 - - ever
   - greater
   - feats
-- - tiny
-  - enid
-  - learned
-- - great
-  - ecstasies
-  - during
-- - constantly
-  - reminds
-  - us
 - - together
   - literally
   - until
+- - tiny
+  - enid
+  - learned
+- - venturesome
+  - little
+  - fascist
+- - constantly
+  - reminds
+  - us
+- - great
+  - ecstasies
+  - during
+- - yet
+  - unhatched
+  - god
 - - two
   - blindingly
   - obvious
 - - reading
   - tiny
   - enid
-- - yet
-  - unhatched
-  - god
+- - few
+  - heads
+  - together
 - - consider
   - two
   - blindingly
 - - herself
   - grew
   - old
-- - few
-  - heads
-  - together
 - - giant
   - lobster
   - being
@@ -140,21 +140,24 @@ ngrams:
 - - enid
   - dashed
   - back
-- - ecstasies
-  - during
-  - these
 - - presence
   - before
   - revving
 - - numinous
   - presence
   - before
-- - new
-  - dispensation
-  - under
+- - ecstasies
+  - during
+  - these
+- - egg
+  - might
+  - serve
 - - stuff
   - never
   - stop
+- - new
+  - dispensation
+  - under
 - - though
   - tiny
   - enid
@@ -164,162 +167,153 @@ ngrams:
 - - many
   - hours
   - watching
-- - egg
-  - might
-  - serve
-- - spent
-  - many
-  - hours
-- - hot
-  - summer's
-  - day
 - - knows
   - perhaps
   - while
 - - played
   - games
   - such
+- - hot
+  - summer's
+  - day
+- - spent
+  - many
+  - hours
 - - particularly
   - dull
   - day
-- - fatally
-  - stealing
-  - her
+- - its
+  - refrigerated
+  - chamber
 - - other
   - delightful
   - pastimes
+- - hours
+  - watching
+  - over
+- - better
+  - than
+  - childish
+- - its
+  - numinous
+  - presence
 - - onwards
   - she
   - constantly
 - - she
   - constantly
   - reminds
-- - its
-  - refrigerated
-  - chamber
-- - stealing
+- - could
+  - somehow
+  - persuade
+- - crack
+  - open
+  - its
+- - fatally
+  - stealing
   - her
-  - thunder
+- - now
+  - certain
+  - nations
 - - wherever
   - she
   - roamed
 - - infant
   - heroism
   - she
-- - her
-  - flame
-  - alive
-- - its
-  - numinous
-  - presence
-- - hours
-  - watching
-  - over
+- - stealing
+  - her
+  - thunder
 - - she
   - stopped
   - treating
-- - her
-  - effects
-  - carefully
-- - her
-  - mysterious
-  - unnamed
-- - page
-  - onwards
-  - she
-- - better
-  - than
-  - childish
-- - she
-  - played
-  - games
-- - her
-  - egg
-  - contained
-- - allowed
-  - she
-  - played
-- - now
-  - certain
-  - nations
-- - crack
-  - open
-  - its
-- - mantelpiece
-  - although
-  - she
-- - her
-  - mantelpiece
-  - although
-- - could
-  - somehow
-  - persuade
-- - she
-  - considered
-  - due
-- - keep
-  - her
-  - flame
 - - open
   - its
   - egg
 - - dull
   - day
   - without
-- - egg
-  - now
-  - certain
-- - god
-  - egg
-  - now
+- - her
+  - flame
+  - alive
 - - without
   - any
   - opportunity
-- - among
-  - her
-  - effects
-- - her
-  - adventures
-  - tiny
-- - died
+- - page
+  - onwards
   - she
-  - always
+- - she
+  - played
+  - games
+- - egg
+  - now
+  - certain
+- - her
+  - effects
+  - carefully
+- - her
+  - mysterious
+  - unnamed
+- - allowed
+  - she
+  - played
+- - her
+  - egg
+  - contained
+- - god
+  - egg
+  - now
+- - mantelpiece
+  - although
+  - she
+- - she
+  - considered
+  - due
+- - her
+  - mantelpiece
+  - although
+- - keep
+  - her
+  - flame
 - - hacks
   - who
   - peddle
-- - her
-  - great
-  - ecstasies
-- - literally
-  - until
-  - she
+- - among
+  - her
+  - effects
 - - dying
   - each
   - other
-- - her
-  - own
-  - reputation
-- - she
-  - always
-  - kept
 - - ever
   - did
   - hatch
-- - until
-  - she
-  - considered
 - - never
   - left
   - us
+- - died
+  - she
+  - always
+- - her
+  - adventures
+  - tiny
+- - literally
+  - until
+  - she
 - - better
   - case
   - could
+- - her
+  - great
+  - ecstasies
 - - she
-  - grew
-  - old
-- - found
-  - among
-  - her
+  - always
+  - kept
+- - until
+  - she
+  - considered
+- - her
+  - own
+  - reputation
 - - little
   - better
   - than
@@ -329,27 +323,33 @@ ngrams:
 - - god
   - ever
   - did
+- - 'no'
+  - sense
+  - whatsoever
 - - many
   - other
   - matters
 - - lifetime
   - 'no'
   - god
-- - 'no'
-  - sense
-  - whatsoever
+- - she
+  - grew
+  - old
 - - makes
   - 'no'
   - sense
-- - her
-  - long
-  - life
-- - summer's
-  - day
-  - she
+- - found
+  - among
+  - her
 - - worth
   - asking
   - what
+- - burst
+  - forth
+  - into
+- - these
+  - things
+  - did
 story:
   date: 2010-08-02
   id: 2010-08-02-tiny-enids-unhatched-god-egg

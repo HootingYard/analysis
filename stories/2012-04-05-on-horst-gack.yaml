@@ -2,15 +2,15 @@ ngrams:
 - - newley
   - connie
   - kreski
+- - connie
+  - kreski
+  - joan
 - - jessel
   - patricia
   - hayes
 - - patricia
   - hayes
   - stubby
-- - connie
-  - kreski
-  - joan
 - - kreski
   - joan
   - collins
@@ -26,93 +26,99 @@ ngrams:
 - - anthony
   - newley
   - connie
-- - extremis
-  - industry
-  - gossip
 - - photography
   - lurching
   - camera
+- - extremis
+  - industry
+  - gossip
 - - starring
   - anthony
   - newley
-- - fanatical
-  - teutonic
-  - auteur
 - - unprecedented
   - visual
   - feast
+- - fanatical
+  - teutonic
+  - auteur
 - - doo
   - dah
   - dance
 - - lurching
   - camera
   - movements
+- - teutonic
+  - auteur
+  - horst
 - - journal
   - intemperate
   - ravings
 - - notoriously
   - lengthy
   - hitchcock
-- - berle
-  - george
-  - jessel
-- - teutonic
-  - auteur
-  - horst
-- - george
-  - jessel
-  - patricia
 - - alfred
   - hitchcock's
   - estate
+- - berle
+  - george
+  - jessel
+- - george
+  - jessel
+  - patricia
+- - gilbert
+  - dot
+  - contends
 - - milton
   - berle
   - george
 - - musical
   - starring
   - anthony
-- - gilbert
-  - dot
-  - contends
 - - critics
   - gilbert
   - dot
 - - critic
   - gilbert
   - dot
-- - dah
-  - dance
-  - hall
-- - scout
-  - hut
-  - cinema
-- - ballad
-  - cover
-  - versions
-- - dance
-  - hall
-  - scout
 - - deranged
   - appalachian
   - barn
+- - ballad
+  - cover
+  - versions
+- - dah
+  - dance
+  - hall
 - - director's
   - entire
   - canon
-- - scene
-  - technically
-  - brilliant
+- - dance
+  - hall
+  - scout
+- - scout
+  - hut
+  - cinema
 - - appalachian
   - barn
   - dance
-- - middle
-  - period
-  - extravaganza
 - - barn
   - dance
   - arrangements
+- - scene
+  - technically
+  - brilliant
+- - middle
+  - period
+  - extravaganza
 - - hall
   - scout
   - hut
+- - o
+  - vile
+  - vile
+- - early
+  - critical
+  - essays
 - - power
   - ballad
   - cover
@@ -122,75 +128,72 @@ ngrams:
 - - musical
   - entitled
   - horst
-- - early
-  - critical
-  - essays
-- - works
-  - including
-  - lolloping
-- - poets
-  - film
-  - makers
-- - 'true'
-  - happiness
-  - redux
-- - artists
-  - poets
-  - film
-- - legendary
-  - works
-  - including
-- - o
-  - vile
-  - vile
-- - previously
-  - presumed
-  - lost
-- - filmed
-  - using
-  - state
-- - collapsed
-  - film
-  - critic
 - - vile
   - bog
   - o
 - - bog
   - o
   - vile
-- - hut
-  - cinema
-  - whether
-- - called
-  - cinematic
-  - terrorism
-- - passing
+- - poets
   - film
-  - buff
-- - single
-  - scene
-  - technically
+  - makers
+- - artists
+  - poets
+  - film
+- - 'true'
+  - happiness
+  - redux
+- - works
+  - including
+  - lolloping
+- - previously
+  - presumed
+  - lost
+- - legendary
+  - works
+  - including
+- - collapsed
+  - film
+  - critic
+- - filmed
+  - using
+  - state
 - - lens
   - several
   - critics
-- - face
-  - filmed
-  - using
 - - several
   - critics
   - gilbert
-- - already
-  - forming
-  - outside
+- - passing
+  - film
+  - buff
+- - hut
+  - cinema
+  - whether
+- - single
+  - scene
+  - technically
 - - kind
   - gilbert
   - dot
+- - already
+  - forming
+  - outside
+- - called
+  - cinematic
+  - terrorism
+- - face
+  - filmed
+  - using
 - - gilbert
   - dot
   - among
 - - gilbert
   - dot
   - among
+- - season
+  - also
+  - allows
 - - tiny
   - isolated
   - speck
@@ -200,24 +203,27 @@ ngrams:
 - - year's
   - end
   - fingers
-- - season
-  - also
-  - allows
 - - few
   - tentative
   - scratches
-- - great
-  - costume
-  - designers
 - - dot
   - among
   - others
-- - thumping
-  - great
-  - insult
+- - great
+  - costume
+  - designers
 - - indeed
   - negligible
   - band
+- - thumping
+  - great
+  - insult
+- - town
+  - film
+  - festival
+- - town
+  - film
+  - festival
 - - family
   - reading
   - although
@@ -227,39 +233,42 @@ ngrams:
 - - pond
   - prancing
   - around
-- - town
-  - film
-  - festival
-- - town
-  - film
-  - festival
+- - pointy
+  - town
+  - season
+- - pointy
+  - town
+  - season
 - - hieronymus
   - merkin
   - ever
-- - pointy
-  - town
-  - season
-- - pointy
-  - town
-  - season
 - - merkin
   - ever
   - forget
+- - town
+  - season
+  - also
 - - find
   - 'true'
   - happiness
 - - ever
   - forget
   - mercy
-- - town
-  - season
-  - also
 - - murderous
   - intensity
   - never
 - - real
   - world
   - certainly
+- - pointy
+  - town
+  - film
+- - pointy
+  - town
+  - film
+- - vast
+  - wilderness
+  - much
 - - cover
   - versions
   - these
@@ -269,33 +278,24 @@ ngrams:
 - - most
   - frightening
   - film
-- - vast
-  - wilderness
-  - much
-- - pointy
-  - town
-  - film
-- - pointy
-  - town
-  - film
-- - lens
-  - only
-  - adds
-- - camera
-  - lens
-  - only
 - - legs
   - gave
   - way
-- - still
-  - does
-  - save
+- - lens
+  - only
+  - adds
 - - brutal
   - even
   - murderous
 - - even
   - murderous
   - intensity
+- - camera
+  - lens
+  - only
+- - still
+  - does
+  - save
 - - blots
   - where
   - previously
@@ -320,18 +320,21 @@ ngrams:
 - - first
   - ever
   - screening
-- - became
-  - more
-  - convulsive
 - - period
   - extravaganza
   - can
-- - critical
-  - essays
-  - some
+- - became
+  - more
+  - convulsive
 - - weeping
   - became
   - more
+- - critical
+  - essays
+  - some
+- - intensity
+  - never
+  - before
 - - industry
   - gossip
   - has
@@ -341,33 +344,30 @@ ngrams:
 - - buff
   - who
   - cradled
-- - intensity
-  - never
+- - any
+  - rate
   - before
 - - film
   - buff
   - who
-- - any
-  - rate
-  - before
-- - their
-  - bright
-  - gaudy
 - - never
   - before
   - seen
+- - their
+  - bright
+  - gaudy
 - - dot
   - among
   - them
+- - gilbert
+  - dot
+  - when
 - - location
   - scouts
   - were
 - - films
   - were
   - shown
-- - gilbert
-  - dot
-  - when
 - - burst
   - into
   - tears
@@ -377,9 +377,9 @@ ngrams:
 - - joined
   - together
   - into
-- - many
-  - cineastes
-  - who
+- - dot
+  - when
+  - asked
 story:
   date: 2012-04-05
   id: 2012-04-05-on-horst-gack

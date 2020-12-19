@@ -1,16 +1,16 @@
 ngrams:
-- - infant
-  - raymond
-  - roussel
 - - breathtaking
   - spiritual
   - insight
-- - perfect
-  - spiritual
-  - teacher
+- - infant
+  - raymond
+  - roussel
 - - woe
   - betide
   - anybody
+- - perfect
+  - spiritual
+  - teacher
 - - writer's
   - swan
   - guru
@@ -20,15 +20,18 @@ ngrams:
 - - notable
   - authors
   - sitting
-- - auspicious
-  - start
-  - yesterday
 - - stand
   - upright
   - sprawled
+- - auspicious
+  - start
+  - yesterday
 - - raymond
   - roussel
   - sat
+- - whatever
+  - spiritual
+  - wisdom
 - - open
   - fully
   - receptive
@@ -38,9 +41,6 @@ ngrams:
 - - swan
   - guru
   - standing
-- - whatever
-  - spiritual
-  - wisdom
 - - swan
   - guru
   - outside
@@ -53,12 +53,12 @@ ngrams:
 - - swan
   - saw
   - fit
-- - start
-  - yesterday
-  - morning
 - - entirely
   - different
   - swan
+- - start
+  - yesterday
+  - morning
 - - own
   - swan
   - guru
@@ -74,12 +74,12 @@ ngrams:
 - - yesterday
   - morning
   - almost
-- - extremely
-  - myopic
-  - two
 - - lay
   - myself
   - open
+- - extremely
+  - myopic
+  - two
 - - yard
   - series
   - notable
@@ -98,6 +98,9 @@ ngrams:
 - - new
   - year
   - swans
+- - nearest
+  - swan
+  - might
 - - particular
   - swan
   - here
@@ -110,42 +113,39 @@ ngrams:
 - - new
   - year
   - got
-- - nearest
-  - swan
-  - might
-- - year
-  - got
-  - 'off'
 - - having
   - forgotten
   - how
+- - year
+  - got
+  - 'off'
 - - dribbling
   - slightly
   - like
-- - popular
-  - hooting
-  - yard
-- - dusted
-  - myself
-  - down
-- - myself
-  - down
-  - bid
 - - toppled
   - over
   - having
-- - over
-  - having
-  - forgotten
-- - hooting
-  - yard
-  - series
-- - very
-  - own
-  - swan
+- - dusted
+  - myself
+  - down
 - - am
   - extremely
   - myopic
+- - myself
+  - down
+  - bid
+- - popular
+  - hooting
+  - yard
+- - over
+  - having
+  - forgotten
+- - very
+  - own
+  - swan
+- - hooting
+  - yard
+  - series
 - - swan
   - might
   - well
@@ -164,30 +164,30 @@ ngrams:
 - - breathtaking
   - insight
   - into
-- - swans
-  - were
-  - scudding
-- - were
-  - swan
-  - guru
 - - up
   - dusted
   - myself
 - - insight
   - into
   - swans
+- - swans
+  - were
+  - scudding
+- - were
+  - swan
+  - guru
 - - can
   - only
   - describe
+- - year
+  - swans
+  - were
 - - radio
   - four
   - were
 - - four
   - were
   - swan
-- - year
-  - swans
-  - were
 - - would
   - prove
   - critical

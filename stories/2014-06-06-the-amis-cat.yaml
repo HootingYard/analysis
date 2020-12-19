@@ -26,12 +26,12 @@ ngrams:
 - - dogs
   - were
   - allowed
-- - why
-  - 'no'
-  - dogs
 - - side
   - about
   - becoming
+- - why
+  - 'no'
+  - dogs
 - - safe
   - side
   - about
@@ -44,9 +44,6 @@ ngrams:
 - - 'no'
   - dogs
   - were
-- - like
-  - an
-  - elephant
 - - nitrate
   - or
   - next
@@ -56,6 +53,9 @@ ngrams:
 - - much
   - about
   - who
+- - like
+  - an
+  - elephant
 - - feet
   - like
   - an

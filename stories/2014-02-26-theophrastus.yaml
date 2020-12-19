@@ -1,10 +1,10 @@
 ngrams:
-- - propositions
-  - concerning
-  - wine
 - - greek
   - philosopher
   - theophrastus
+- - propositions
+  - concerning
+  - wine
 - - opinions
   - concerning
   - natural
@@ -29,15 +29,15 @@ ngrams:
 - - concerning
   - natural
   - things
-- - dry
-  - places
-  - two
 - - wrote
   - three
   - books
 - - first
   - propositions
   - concerning
+- - dry
+  - places
+  - two
 - - nature
   - three
   - more
@@ -56,6 +56,9 @@ ngrams:
 - - concerning
   - wine
   - one
+- - manners
+  - or
+  - inclinations
 - - sublime
   - things
   - one
@@ -65,9 +68,6 @@ ngrams:
 - - same
   - sort
   - one
-- - manners
-  - or
-  - inclinations
 - - old
   - age
   - one

@@ -5,9 +5,6 @@ ngrams:
 - - sudden
   - stupor
   - occasioned
-- - ground
-  - emanuel
-  - swedenborg
 - - mind
   - animus
   - according
@@ -47,17 +44,20 @@ ngrams:
 - - seized
   - my
   - mind
+- - delight
+  - my
+  - mind
 story:
   date: 2004-11-22
   id: 2004-11-22-when-i-was-desirous-to-delight-my
-  text: "\u201CWhen I was desirous to delight my mind (animus) according to my idea\
-    \ of heavenly blessedness, a sudden stupor, occasioned by the light of heaven,\
-    \ which is as white as snow, and whose essence is said to be wisdom, seized my\
-    \ mind (mens) and darkness my eyes, and I was reduced to a state of insanity:\
-    \ and presently, from the heat of heaven, which corresponds with the brightness\
-    \ of its light, and whose essence is said to be love, there arose in my heart\
-    \ a violent palpitation, a general uneasiness seized my whole frame, and I was\
-    \ inwardly excruciated to such a degree that I threw myself flat on the ground.\u201D\
-    \ \u2014 Emanuel Swedenborg, The Delights Of Wisdom Pertaining To Conjugal Love"
-  title: "\u201CWhen I was desirous to delight my\u2026\u201D"
-word_count: 128
+  text: '"When I was desirous to delight my mind (animus) according to my idea of
+    heavenly blessedness, a sudden stupor, occasioned by the light of heaven, which
+    is as white as snow, and whose essence is said to be wisdom, seized my mind (mens)
+    and darkness my eyes, and I was reduced to a state of insanity: and presently,
+    from the heat of heaven, which corresponds with the brightness of its light, and
+    whose essence is said to be love, there arose in my heart a violent palpitation,
+    a general uneasiness seized my whole frame, and I was inwardly excruciated to
+    such a degree that I threw myself flat on the ground." -- Emanuel Swedenborg,
+    The Delights Of Wisdom Pertaining To Conjugal Love'
+  title: '"When I was desirous to delight my..."'
+word_count: 129

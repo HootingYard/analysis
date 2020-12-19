@@ -47,18 +47,12 @@ ngrams:
 - - men
   - came
   - dancing
-- - bristol
-  - these
-  - morris
 - - system
   - until
   - it's
 - - old
   - panama
   - hat
-- - these
-  - morris
-  - men
 - - drove
   - home
   - every
@@ -113,10 +107,19 @@ ngrams:
 - - those
   - who
   - survive
+- - ways
+  - those
+  - who
+- - won't
+  - believe
+  - me
+- - some
+  - other
+  - figure
 story:
   date: 2007-03-03
   id: 2007-03-03-morris-dancing-boffin
-  text: "Francis Spufford, in Backroom Boys\_: The Secret Return Of The British Boffin:\n\
+  text: "Francis Spufford, in Backroom Boys : The Secret Return Of The British Boffin:\n\
     \  I was collecting interviews for a radio documentary, and I had already gathered\
     \ enough of the ethos of the rocketmen to know that Mr [Roy] Dommett was an eccentric\
     \ in some ways. Those who survive from the heyday of British rocketry all live\
@@ -134,10 +137,10 @@ story:
     \ on top of the stack of books next to his armchair. It gave him quiet satisfaction\
     \ that he looked less like Dr Strangelove than like Falstaff, or some other figure\
     \ of innocent pleasure out of deep England. Another of the rocketmen I talked\
-    \ to spotted him by chance once in Bristol. \u2018These Morris Men came dancing\
-    \ up the street, led by this big fat bloke in a kind of Andy Pandy outfit, who\
-    \ was bopping people on the head with a pig's bladder \u2014 and I said to my\
-    \ wife, \u201CSweetheart, you won't believe me, but that man is one of the brains\
-    \ behind Britain's nuclear defence.\u201D \u2018"
+    \ to spotted him by chance once in Bristol. 'These Morris Men came dancing up\
+    \ the street, led by this big fat bloke in a kind of Andy Pandy outfit, who was\
+    \ bopping people on the head with a pig's bladder -- and I said to my wife, \"\
+    Sweetheart, you won't believe me, but that man is one of the brains behind Britain's\
+    \ nuclear defence.\" '"
   title: Morris Dancing Boffin
-word_count: 310
+word_count: 312

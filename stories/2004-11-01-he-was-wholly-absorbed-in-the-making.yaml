@@ -1,31 +1,10 @@
 ngrams:
-- - professor
-  - herbert
-  - n
-- - young
-  - professor
-  - herbert
 - - irrational
   - young
   - professor
 - - apparently
   - irrational
   - young
-- - machine
-  - itself
-  - snap
-- - almost
-  - inaudible
-  - sound
-- - reed
-  - again
-  - watson
-- - faint
-  - twang
-  - come
-- - again
-  - watson
-  - cried
 - - most
   - absurd
   - toy
@@ -38,17 +17,37 @@ ngrams:
 - - unlike
   - any
   - other
+- - any
+  - other
+  - thing
+- - been
+  - toiling
+  - over
+- - ever
+  - been
+  - made
+- - an
+  - almost
+  - inaudible
+- - had
+  - constantly
+  - baffled
+- - this
+  - hot
+  - afternoon
+- - heard
+  - an
+  - almost
 story:
   date: 2004-11-01
   id: 2004-11-01-he-was-wholly-absorbed-in-the-making
-  text: "\u201CHe was wholly absorbed in the making of a nondescript machine, a sort\
-    \ of crude harmonica with a clock-spring reed, a magnet, and a wire. It was a\
-    \ most absurd toy in appearance. It was unlike any other thing that had ever been\
-    \ made in any country. The young professor had been toiling over it for three\
-    \ years and it had constantly baffled him, until, on this hot afternoon in June,\
-    \ 1875, he heard an almost inaudible sound\u2014a faint twang\u2014come from the\
-    \ machine itself. \u2018Snap that reed again, Watson\u2019, cried the apparently\
-    \ irrational young professor.\u201D \u2014 Herbert N Casson, The History Of The\
-    \ Telephone"
-  title: "\u201CHe was wholly absorbed in the making\u2026\u201D"
-word_count: 111
+  text: '"He was wholly absorbed in the making of a nondescript machine, a sort of
+    crude harmonica with a clock-spring reed, a magnet, and a wire. It was a most
+    absurd toy in appearance. It was unlike any other thing that had ever been made
+    in any country. The young professor had been toiling over it for three years and
+    it had constantly baffled him, until, on this hot afternoon in June, 1875, he
+    heard an almost inaudible sound--a faint twang--come from the machine itself.
+    ''Snap that reed again, Watson'', cried the apparently irrational young professor."
+    -- Herbert N Casson, The History Of The Telephone'
+  title: '"He was wholly absorbed in the making..."'
+word_count: 110

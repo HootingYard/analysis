@@ -1,19 +1,7 @@
 ngrams:
-- - ne
-  - devon
-  - yorks
-- - devon
-  - yorks
-  - rolls
 - - welsh
   - herbs
   - cakes
-- - yorks
-  - rolls
-  - cheese
-- - ne
-  - scotland
-  - marmalade
 - - midlands
   - triangular
   - pie
@@ -23,27 +11,15 @@ ngrams:
 - - triangular
   - pie
   - nucleus
-- - triangular
-  - pie
-  - nucleus
-- - marmalade
-  - ham
-  - loaf
 - - hedge
   - auras
   - february
-- - fish
-  - mid
-  - sw
 - - herbs
   - cakes
   - fish
 - - cakes
   - fish
   - puddings
-- - north
-  - fish
-  - mid
 - - recipe
   - map
   - reprinted
@@ -56,21 +32,45 @@ ngrams:
 - - local
   - recipe
   - map
+- - eggs
+  - hot
+  - pots
+- - recipe
+  - map
+  - readers
+- - far
+  - south
+  - dumplings
+- - original
+  - far
+  - ne
+- - norman
+  - davies
+  - see
+- - see
+  - hedge
+  - auras
 story:
   date: 2005-07-21
   id: 2005-07-21-local-recipe-map
-  text: "Readers may recall that one of my favourite publications is Further Science\
-    \ by Norman Davies. (See Hedge Auras, 20 February 2004.) I have still not managed\
-    \ to track down any other issues than Book 20, the marvellous A6 yellow-covered\
-    \ spineless 76-page pamphlet from 2001 which, maddeningly, contains no indication\
-    \ of its provenance. Here is Mr Davies' Local Recipe Map, reprinted exactly as\
-    \ it appears in the original:\n1. Far NE Scotland\u2014marmalade / far NW\u2014\
-    biscuits / far North\u2014fish.\n2. Mid SW to NE\u2014Devon / Yorks\u2014rolls\u2014\
-    cheese -sausage / cheese.\n3. So that about a Midlands triangular Pie Nucleus\u2014\
-    there are fingers and eggs: hot pots, to the NW\u2014marmalade / ham / loaf to\
-    \ the East. With a ginger NW apex.\n4. Tarts to the South\u2014with W/E in the\
-    \ far South. Dumplings and Welsh herbs / cakes / fish puddings and scones. Etc.\n\
-    I think we need to arrange a Hooting Yard expedition to the Midlands triangular\
-    \ Pie Nucleus!"
+  text: 'Readers may recall that one of my favourite publications is Further Science
+    by Norman Davies. (See Hedge Auras, 20 February 2004.) I have still not managed
+    to track down any other issues than Book 20, the marvellous A6 yellow-covered
+    spineless 76-page pamphlet from 2001 which, maddeningly, contains no indication
+    of its provenance. Here is Mr Davies'' Local Recipe Map, reprinted exactly as
+    it appears in the original:
+
+    1. Far NE Scotland--marmalade / far NW--biscuits / far North--fish.
+
+    2. Mid SW to NE--Devon / Yorks--rolls--cheese -sausage / cheese.
+
+    3. So that about a Midlands triangular Pie Nucleus--there are fingers and eggs:
+    hot pots, to the NW--marmalade / ham / loaf to the East. With a ginger NW apex.
+
+    4. Tarts to the South--with W/E in the far South. Dumplings and Welsh herbs /
+    cakes / fish puddings and scones. Etc.
+
+    I think we need to arrange a Hooting Yard expedition to the Midlands triangular
+    Pie Nucleus!'
   title: Local Recipe Map
-word_count: 152
+word_count: 143

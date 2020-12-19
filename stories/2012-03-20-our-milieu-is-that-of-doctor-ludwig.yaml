@@ -2,9 +2,6 @@ ngrams:
 - - music
   - rehearsal
   - studio
-- - cover
-  - version
-  - consisted
 - - rehearsal
   - studio
   - within
@@ -23,13 +20,16 @@ ngrams:
 - - ludwig
   - last
   - night
+- - line
+  - repeated
+  - over
 story:
   date: 2012-03-20
   id: 2012-03-20-our-milieu-is-that-of-doctor-ludwig
-  text: "Last night I dreamed that I was walking in Saint Chad's Park, past a music\
-    \ rehearsal studio, within which I could hear a beat combo practising. The song\
-    \ I overheard\u2014which, in dreamland, I understood to be a Sleater-Kinney cover\
-    \ version\u2014consisted of a single line, repeated over and over again: \u201C\
-    Our milieu is that of Doctor Ludwig\u201D. Very melodious."
+  text: 'Last night I dreamed that I was walking in Saint Chad''s Park, past a music
+    rehearsal studio, within which I could hear a beat combo practising. The song
+    I overheard--which, in dreamland, I understood to be a Sleater-Kinney cover version--consisted
+    of a single line, repeated over and over again: "Our milieu is that of Doctor
+    Ludwig". Very melodious.'
   title: Our Milieu Is That Of Doctor Ludwig
-word_count: 67
+word_count: 65

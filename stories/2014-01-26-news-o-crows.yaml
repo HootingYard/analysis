@@ -3,9 +3,9 @@ ngrams:
   - ravens
   - jackdaws
 - - news
-  - o
+  - o'
   - crows
-- - o
+- - o'
   - crows
   - an
 - - seagull
@@ -17,8 +17,10 @@ ngrams:
 story:
   date: 2014-01-26
   id: 2014-01-26-news-o-crows
-  text: "An anti-Catholic crow (and a seagull) have been causing a rumpus at the Vatican.\
-    \ I would like to know what the Jesuits\u2019 position is on crows, ravens, jackdaws,\
-    \ and other birds of menace.\n"
-  title: "News O\u2019 Crows"
+  text: 'An anti-Catholic crow (and a seagull) have been causing a rumpus at the Vatican.
+    I would like to know what the Jesuits'' position is on crows, ravens, jackdaws,
+    and other birds of menace.
+
+    '
+  title: News O' Crows
 word_count: 36

@@ -20,15 +20,6 @@ ngrams:
 - - laying
   - down
   - law
-- - hyperbole
-  - now
-  - sailing
-- - thought
-  - now
-  - laying
-- - now
-  - laying
-  - down
 - - intellect
   - moreover
   - had
@@ -41,9 +32,6 @@ ngrams:
 - - kid
   - unless
   - you
-- - airy
-  - as
-  - applied
 - - his
   - reflecting
   - intellect
@@ -59,21 +47,29 @@ ngrams:
 - - you
   - could
   - contrive
+- - unless
+  - you
+  - could
+- - inevitably
+  - left
+  - 'on'
+- - he
+  - inevitably
+  - left
 story:
   date: 2004-03-12
   id: 2004-03-12-he-was-nothing-if-not-superlative-his
-  text: "\u201CHe was nothing if not superlative: his diatribes, now culminating in\
-    \ a very extravaganza of hyperbole\u2014now sailing with loose wing through the\
-    \ downy, witched, Dutch cloud-heaps of some quaintest tramontane Nephelococcugia\
-    \ of thought\u2014now laying down law of the Medes for the actual world of to-day\u2014\
-    had oft-times the strange effect of bringing back to my mind the very singular\
-    \ old-epic epithet, aenemoen\u2014airy\u2014as applied to human thought. The mere\
-    \ grip of his memory was not simply extraordinary, it had in it a token, a hint,\
-    \ of the strange, the pythic\u2014nay, the sibylline. And as his reflecting intellect,\
-    \ moreover, had all the lightness of foot of a chamois kid, unless you could contrive\
-    \ to follow each dazzlingly swift successive step, by the sum of which he attained\
-    \ his Alp-heights, he inevitably left on you the astounding, the confounding impression\
-    \ of mental omnipresence.\u201D \u2014 M. P. Shiel, The Stone of the Edmundsbury\
-    \ Monks"
-  title: "\u201CHe was nothing if not superlative: his\u2026\u201D"
-word_count: 161
+  text: '"He was nothing if not superlative: his diatribes, now culminating in a very
+    extravaganza of hyperbole--now sailing with loose wing through the downy, witched,
+    Dutch cloud-heaps of some quaintest tramontane Nephelococcugia of thought--now
+    laying down law of the Medes for the actual world of to-day--had oft-times the
+    strange effect of bringing back to my mind the very singular old-epic epithet,
+    aenemoen--airy--as applied to human thought. The mere grip of his memory was not
+    simply extraordinary, it had in it a token, a hint, of the strange, the pythic--nay,
+    the sibylline. And as his reflecting intellect, moreover, had all the lightness
+    of foot of a chamois kid, unless you could contrive to follow each dazzlingly
+    swift successive step, by the sum of which he attained his Alp-heights, he inevitably
+    left on you the astounding, the confounding impression of mental omnipresence."
+    -- M. P. Shiel, The Stone of the Edmundsbury Monks'
+  title: '"He was nothing if not superlative: his..."'
+word_count: 156

@@ -2,12 +2,6 @@ ngrams:
 - - dusty
   - hi
   - fi
-- - burgess
-  - mancunian
-  - drunk
-- - anthony
-  - burgess
-  - mancunian
 - - e
   - smith
   - cranked
@@ -125,33 +119,45 @@ ngrams:
 - - look
   - like
   - j
+- - some
+  - enlightened
+  - lands
+- - do
+  - fools
+  - fall
 story:
   date: 2007-02-20
   id: 2007-02-20-gubbins-music
-  text: "If you hear news from Haemoglobin Towers that birds are dropping dead from\
-    \ the sky and cows stand stunned in the fields, it can mean only one thing. Alas,\
-    \ Mrs Gubbins has a new musical fad. The octogenarian crone has taken her dusty\
-    \ hi fi system down from the shelf, opened the windows, and is blasting out the\
-    \ latest acquisitions from her record collection, day and night, over and over\
-    \ again.\nLast time this happened, her undiluted enthusiasm for The Fall meant\
-    \ that the peasants thereabouts had to put up with the complete works of Mark\
-    \ E Smith cranked out at ear-splitting volume for weeks on end. La Gubbins only\
-    \ grew tired of the self-styled \u201CNorthern white crap that talks back\u201D\
-    \ after it was pointed out to her that Smith is slowly but surely turning into\
-    \ Anthony Burgess\u2014Mancunian, drunk on words, and frighteningly prolific,\
-    \ of course, but the most compelling evidence is the physical resemblance.\n\n\
-    La Gubbins had always harboured a deep if irrational hatred of Burgess, so she\
-    \ burned all her Fall records on a pyre and silence reigned. But now she has discovered\
-    \ the work of Swiss maestro Blinky Guido, laid her hands on every single record\
-    \ he ever made, and is in the throes of madness. Hence the dead birds and the\
-    \ stunned cows.\nBlinky Guido will be known to some of you as the man who created\
-    \ prog-wop, an unholy alliance of progressive rock and doo-wop which some enlightened\
-    \ lands have made illegal. You may have sat through the full twenty-minute horror\
-    \ that is Why Do Fools Fall In Love In The Magic Kingdom Of Elves or, even worse,\
-    \ These Little Eldritch Unicorns Of Mine. Someone swears they saw Mrs Gubbins\
-    \ smuggling a mellotron into her room the other day, which doesn't bear thinking\
-    \ about.\nPerhaps the only way to bring an end to this nightmare is to doctor\
-    \ a photograph of the Swiss prog-wop pioneer to make him look like J B Priestley,\
-    \ another writer who elicits from Mrs Gubbins a strangulated cry of loathing."
+  text: 'If you hear news from Haemoglobin Towers that birds are dropping dead from
+    the sky and cows stand stunned in the fields, it can mean only one thing. Alas,
+    Mrs Gubbins has a new musical fad. The octogenarian crone has taken her dusty
+    hi fi system down from the shelf, opened the windows, and is blasting out the
+    latest acquisitions from her record collection, day and night, over and over again.
+
+    Last time this happened, her undiluted enthusiasm for The Fall meant that the
+    peasants thereabouts had to put up with the complete works of Mark E Smith cranked
+    out at ear-splitting volume for weeks on end. La Gubbins only grew tired of the
+    self-styled "Northern white crap that talks back" after it was pointed out to
+    her that Smith is slowly but surely turning into Anthony Burgess--Mancunian, drunk
+    on words, and frighteningly prolific, of course, but the most compelling evidence
+    is the physical resemblance.
+
+
+    La Gubbins had always harboured a deep if irrational hatred of Burgess, so she
+    burned all her Fall records on a pyre and silence reigned. But now she has discovered
+    the work of Swiss maestro Blinky Guido, laid her hands on every single record
+    he ever made, and is in the throes of madness. Hence the dead birds and the stunned
+    cows.
+
+    Blinky Guido will be known to some of you as the man who created prog-wop, an
+    unholy alliance of progressive rock and doo-wop which some enlightened lands have
+    made illegal. You may have sat through the full twenty-minute horror that is Why
+    Do Fools Fall In Love In The Magic Kingdom Of Elves or, even worse, These Little
+    Eldritch Unicorns Of Mine. Someone swears they saw Mrs Gubbins smuggling a mellotron
+    into her room the other day, which doesn''t bear thinking about.
+
+    Perhaps the only way to bring an end to this nightmare is to doctor a photograph
+    of the Swiss prog-wop pioneer to make him look like J B Priestley, another writer
+    who elicits from Mrs Gubbins a strangulated cry of loathing.'
   title: Gubbins Music
-word_count: 343
+word_count: 342

@@ -1,10 +1,4 @@
 ngrams:
-- - mon
-  - fr
-  - re
-- - de
-  - mon
-  - fr
 - - blog
   - de
   - mon
@@ -20,6 +14,12 @@ ngrams:
 - - brother
   - has
   - started
+- - often
+  - than
+  - once
+- - post
+  - more
+  - often
 story:
   date: 2011-02-18
   id: 2011-02-18-le-blog-de-mon-frere
@@ -27,5 +27,5 @@ story:
     about air raid sirens. I would ask all Hooting Yard readers to go and read it,
     to leave comments, and to bookmark the site or subscribe to it. That way, he may
     be encouraged to post more often than once a month.
-  title: "Le Blog De Mon Fr\xE8re"
-word_count: 62
+  title: Le Blog De Mon Frere
+word_count: 61

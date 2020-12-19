@@ -2,30 +2,18 @@ ngrams:
 - - furious
   - filthy
   - lust
-- - gloomy
-  - dark
-  - animal
 - - following
   - hearty
   - terms
 - - zeal
   - turned
   - sour
-- - turned
-  - sour
-  - charles
 - - courses
   - fight
   - against
 - - venomous
   - mad
   - dog
-- - hearty
-  - terms
-  - let
-- - called
-  - absurd
-  - fool
 - - let
   - dogs
   - devour
@@ -95,27 +83,44 @@ ngrams:
 - - him
   - nay
   - let
+- - him
+  - deaf
+  - let
+- - arms
+  - against
+  - him
+- - burn
+  - him
+  - let
+- - poison
+  - him
+  - let
+- - sea
+  - lift
+  - up
+- - lift
+  - up
+  - her
 story:
   date: 2006-01-27
   id: 2006-01-27-one-john-ryland-of-northampton-published-a
-  text: "\u201COne John Ryland of Northampton, published a Preceptor, or General Repository\
-    \ of useful information, very necessary for the various ages and departments of\
-    \ life in which \u2018pride and lust, a corrupt pride of heart, and a furious\
-    \ filthy lust of body,\u2019 are announced as the Atheist's \u2018springs of action,\u2019\
-    \ 'desire to act the beast without control, and live like a devil without a check\
-    \ of conscience,' his only \u2018reasons for opposing the existence of God,\u2019\
-    \ in which he is told \u2018a world of creatures are up in arms against him to\
-    \ kill him as they would a venomous mad dog,\u2019 in which, among other hard\
-    \ names, he is called \u2018absurd fool,\u2019 'beast,' \u2018dirty monster,\u2019\
-    \ 'brute,' \u2018gloomy dark animal,\u2019 'enemy of mankind,' \u2018wolf to civil\
-    \ society,\u2019 'butcher and murderer of the human race,' in which, moreover,\
-    \ he is cursed in the following hearty terms;\u2014\u2018Let the glorious mass\
-    \ of fire burn him, let the moon light him to the gallows, let the stars in their\
-    \ courses fight against the Atheist, let the force of the comets dash him to pieces,\
-    \ let the roar of thunders strike him deaf, let red lightnings blast his guilty\
-    \ soul, let the sea lift up her mighty waves to bury him, let the lion tear him\
-    \ to pieces, let dogs devour him, let the air poison him, let the next crumb of\
-    \ bread choke him, nay, let the dull ass spurn him to death.\u2019 This is a notable\
-    \ specimen of zeal turned sour.\u201D \u2014 Charles Southwell, Superstition Unveiled"
-  title: "\u201COne John Ryland of Northampton, published a\u2026\u201D"
-word_count: 263
+  text: '"One John Ryland of Northampton, published a Preceptor, or General Repository
+    of useful information, very necessary for the various ages and departments of
+    life in which ''pride and lust, a corrupt pride of heart, and a furious filthy
+    lust of body,'' are announced as the Atheist''s ''springs of action,'' ''desire
+    to act the beast without control, and live like a devil without a check of conscience,''
+    his only ''reasons for opposing the existence of God,'' in which he is told ''a
+    world of creatures are up in arms against him to kill him as they would a venomous
+    mad dog,'' in which, among other hard names, he is called ''absurd fool,'' ''beast,''
+    ''dirty monster,'' ''brute,'' ''gloomy dark animal,'' ''enemy of mankind,'' ''wolf
+    to civil society,'' ''butcher and murderer of the human race,'' in which, moreover,
+    he is cursed in the following hearty terms;--''Let the glorious mass of fire burn
+    him, let the moon light him to the gallows, let the stars in their courses fight
+    against the Atheist, let the force of the comets dash him to pieces, let the roar
+    of thunders strike him deaf, let red lightnings blast his guilty soul, let the
+    sea lift up her mighty waves to bury him, let the lion tear him to pieces, let
+    dogs devour him, let the air poison him, let the next crumb of bread choke him,
+    nay, let the dull ass spurn him to death.'' This is a notable specimen of zeal
+    turned sour." -- Charles Southwell, Superstition Unveiled'
+  title: '"One John Ryland of Northampton, published a..."'
+word_count: 273

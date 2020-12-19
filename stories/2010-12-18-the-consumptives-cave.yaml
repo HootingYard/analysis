@@ -5,15 +5,6 @@ ngrams:
 - - oliver
   - h
   - g
-- - detached
-  - stone
-  - boxes
-- - consumption
-  - th
-  - r
-- - th
-  - r
-  - se
 - - mammoth
   - cave
   - collected
@@ -56,12 +47,6 @@ ngrams:
 - - dwelling
   - being
   - constructed
-- - lamps
-  - these
-  - poor
-- - these
-  - poor
-  - creatures
 - - these
   - poor
   - creatures
@@ -131,9 +116,6 @@ ngrams:
 - - within
   - their
   - narrow
-- - stone
-  - boxes
-  - were
 - - medical
   - man
   - some
@@ -176,55 +158,77 @@ ngrams:
 - - away
   - their
   - friend
-- - their
-  - lamps
-  - these
 - - last
   - what
   - transpired
 - - 'no'
   - wonder
   - these
+- - ended
+  - all
+  - hope
+- - part
+  - bears
+  - all
+- - they
+  - however
+  - contrived
+- - some
+  - place
+  - where
+- - man
+  - some
+  - years
+- - modern
+  - prison
+  - are
+- - being
+  - carried
+  - out
 story:
   date: 2010-12-18
   id: 2010-12-18-the-consumptives-cave
-  text: "\u201CIt occurred to a medical man some years ago that the uniform atmosphere\
-    \ of this cave might be a specific for consumption.\n\u201CPossessed with this\
-    \ theory, the doctor had a dozen small houses constructed in the cavern, about\
-    \ a mile or two from its mouth, and to these he conveyed his patients. From the\
-    \ appearance of these places of abode, the only wonder is that the poor invalids\
-    \ did not expire after twenty-four hours of residence in them. They, however,\
-    \ contrived to exist there about three months, most of them being carried out\
-    \ in extremis. The houses consisted of a single room, built of the rough stone\
-    \ of the cavern,\u2014which, in this part, bears all the appearance of a stone-quarry,\u2014\
-    and without one particle of comfort beyond a boarded floor, the small dwelling\
-    \ being constructed entirely on the model of a lock-up, or \u2018stone-jug\u2019\
-    . The cells of a modern prison are quite palatial in comparison with them. The\
-    \ darkness is such as might be felt; and it is impossible to realize what darkness\
-    \ actually is until experienced in some place where a ray of sunlight has never\
-    \ penetrated\u2026\n\u201CThe houses\u2014or rather detached stone boxes\u2014\
-    were so small that without vitiating the air only one person could remain in them\
-    \ at one time; so that, besides the darkness,\u2014in case of any accident to\
-    \ their lamps,\u2014these poor creatures must have endured utter solitude. Their\
-    \ food was brought from the hotel, two or three miles away, on the hill, and consequently\
-    \ must have been cold and comfortless. They were kept prisoners within their narrow\
-    \ cells, for the rough rocks and stones everywhere abounding rendered a promenade\
-    \ for invalids quite impracticable. The deprivation of sunlight, fresh air, and\
-    \ all the beauties of the earth must have been the direst punishment imaginable.\
-    \ No wonder these poor creatures were carried out one by one to die.\n\u201CThe\
-    \ last one having become so weak that it was deemed unsafe to move him, his friends\
-    \ resolved to stay with him in the cavern till the last. What transpired is now\
-    \ beyond investigation. Whether some effect of light, which in this cavern has\
-    \ a most mysterious and awful appearance, or whether the death-bed was one of\
-    \ terrors, owing to some imp of mischief having laid a plan to \u2018scare\u2019\
-    \ them, as they say in this country, is not known; but they rushed terror-stricken\
-    \ from the cave, and on reaching the hotel fell down insensible. Subsequently\
-    \ they declared they had seen spirits carrying away their friend. Mustering a\
-    \ strong force, the people from terra firma, with the guides and plenty of torches,\
-    \ sallied down to the lower and supposed infernal regions. The spirits, however,\
-    \ had fled, leaving nothing but the stiffening corpse of the poor consumptive.\
-    \ This ended all hope of the cavern as a cure for consumption.\u201D\nTh\xE9r\xE8\
-    se Yelverton, In The Mammoth Cave, collected in With The World's Great Travellers,\
-    \ Volume One, edited by Charles Morris and Oliver H G Leigh (1901)"
-  title: "The Consumptives\u2019 Cave"
-word_count: 501
+  text: '"It occurred to a medical man some years ago that the uniform atmosphere
+    of this cave might be a specific for consumption.
+
+    "Possessed with this theory, the doctor had a dozen small houses constructed in
+    the cavern, about a mile or two from its mouth, and to these he conveyed his patients.
+    From the appearance of these places of abode, the only wonder is that the poor
+    invalids did not expire after twenty-four hours of residence in them. They, however,
+    contrived to exist there about three months, most of them being carried out in
+    extremis. The houses consisted of a single room, built of the rough stone of the
+    cavern,--which, in this part, bears all the appearance of a stone-quarry,--and
+    without one particle of comfort beyond a boarded floor, the small dwelling being
+    constructed entirely on the model of a lock-up, or ''stone-jug''. The cells of
+    a modern prison are quite palatial in comparison with them. The darkness is such
+    as might be felt; and it is impossible to realize what darkness actually is until
+    experienced in some place where a ray of sunlight has never penetrated...
+
+    "The houses--or rather detached stone boxes--were so small that without vitiating
+    the air only one person could remain in them at one time; so that, besides the
+    darkness,--in case of any accident to their lamps,--these poor creatures must
+    have endured utter solitude. Their food was brought from the hotel, two or three
+    miles away, on the hill, and consequently must have been cold and comfortless.
+    They were kept prisoners within their narrow cells, for the rough rocks and stones
+    everywhere abounding rendered a promenade for invalids quite impracticable. The
+    deprivation of sunlight, fresh air, and all the beauties of the earth must have
+    been the direst punishment imaginable. No wonder these poor creatures were carried
+    out one by one to die.
+
+    "The last one having become so weak that it was deemed unsafe to move him, his
+    friends resolved to stay with him in the cavern till the last. What transpired
+    is now beyond investigation. Whether some effect of light, which in this cavern
+    has a most mysterious and awful appearance, or whether the death-bed was one of
+    terrors, owing to some imp of mischief having laid a plan to ''scare'' them, as
+    they say in this country, is not known; but they rushed terror-stricken from the
+    cave, and on reaching the hotel fell down insensible. Subsequently they declared
+    they had seen spirits carrying away their friend. Mustering a strong force, the
+    people from terra firma, with the guides and plenty of torches, sallied down to
+    the lower and supposed infernal regions. The spirits, however, had fled, leaving
+    nothing but the stiffening corpse of the poor consumptive. This ended all hope
+    of the cavern as a cure for consumption."
+
+    Therese Yelverton, In The Mammoth Cave, collected in With The World''s Great Travellers,
+    Volume One, edited by Charles Morris and Oliver H G Leigh (1901)'
+  title: The Consumptives' Cave
+word_count: 497

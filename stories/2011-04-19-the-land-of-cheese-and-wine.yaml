@@ -5,9 +5,6 @@ ngrams:
 - - otherwise
   - universally
   - adored
-- - capitalist
-  - music
-  - jane's
 - - ludicrous
   - jane's
   - gone
@@ -20,9 +17,6 @@ ngrams:
 - - music
   - journalist
   - alas
-- - music
-  - jane's
-  - gone
 - - matter
   - surely
   - everybody
@@ -32,12 +26,12 @@ ngrams:
 - - music
   - journalist
   - note
+- - days
+  - circa
+  - '-'
 - - band's
   - finest
   - work
-- - good
-  - capitalist
-  - music
 - - three
   - long
   - decades
@@ -80,10 +74,13 @@ ngrams:
 - - appeared
   - has
   - vanished
+- - circa
+  - '-'
+  - their
 - - their
   - chief
   - characteristic
-- - circa
+- - '-'
   - their
   - chief
 - - been
@@ -98,9 +95,6 @@ ngrams:
 - - words
   - appeared
   - has
-- - days
-  - circa
-  - their
 - - were
   - otherwise
   - universally
@@ -110,9 +104,6 @@ ngrams:
 - - pops
   - up
   - again
-- - time
-  - mr
-  - key
 - - defining
   - fact
   - about
@@ -134,35 +125,57 @@ ngrams:
 - - ever
   - been
   - able
+- - been
+  - called
+  - many
+- - truly
+  - after
+  - all
 story:
   date: 2011-04-19
   id: 2011-04-19-the-land-of-cheese-and-wine
-  text: "I have been called many things in my time\u2014\u201CMr Key\u201D and \u201C\
-    a Diogenesian recluse\u201D are two that spring to mind\u2014but the one I particularly\
-    \ treasure is \u201Cthe anti-Capitalist Music journalist\u201D. Alas, the tiny\
-    \ speck of Interwebshire where these words appeared has vanished. Let us hope\
-    \ it pops up again somewhere one day.\nCapitalist Music were an endearingly preposterous\
-    \ band, based in Norwich, in those heady post-punk days circa 1979\u20131982.\
-    \ Their chief characteristic, as I recall, was an almost boundless self-importance.\
-    \ For the crime of having given them a so-so review in a local rag, I earned my\
-    \ immortal epithet. Not \u201Can\u201D anti-Capitalist Music journalist, note,\
-    \ but \u201Cthe\u201D (as if they were otherwise universally adored), and the\
-    \ implication that my opinion of them was the defining fact about me. I may have\
-    \ been scribbling reviews of other bands, and of films, and bashing out a cartoon\
-    \ strip, but what did that matter? Surely everybody knew me as \u201Cthe anti-Capitalist\
-    \ Music journalist\u201D.\nBut was I, truly? After all, here I am writing about\
-    \ them thirty years later. The reason for doing so is basically a plea for help.\
-    \ For me, the band's finest work was the ludicrous \u201CJane's Gone To France\u201D\
-    , with its rousing lines \u201CIt's the land of cheese and wine / It's the land\
-    \ of Marshal Petain!\u201D Yet no matter how efficiently I sluice out my ears\
-    \ with Dr Baxter's Ear-Sluicing Preparation, I have never, ever been able to work\
-    \ out what on earth the great Steve Bloch is singing in the next line. So in a\
-    \ desperate attempt to solve this puzzle that has haunted me for three long decades,\
-    \ I am posting the song here. Have a listen, and when you have calmed down sufficiently,\
-    \ and stopped giggling, do let me know what you think that line is.\nJane's gone\
-    \ to France\nIt's the land of cheese and wine\nAnd it's the land of Marshal Petain\n\
-    And it's the land of [what, for God's sake?]\nShe was a good girl\nBut now she's\
-    \ gone for good\nCapitalist Music\u2014Jane's Gone To France\nfrom the 1981 compilation\
-    \ album \u201CWelcome To Norwich A Fine City\u201D\n"
+  text: 'I have been called many things in my time--"Mr Key" and "a Diogenesian recluse"
+    are two that spring to mind--but the one I particularly treasure is "the anti-Capitalist
+    Music journalist". Alas, the tiny speck of Interwebshire where these words appeared
+    has vanished. Let us hope it pops up again somewhere one day.
+
+    Capitalist Music were an endearingly preposterous band, based in Norwich, in those
+    heady post-punk days circa 1979-1982. Their chief characteristic, as I recall,
+    was an almost boundless self-importance. For the crime of having given them a
+    so-so review in a local rag, I earned my immortal epithet. Not "an" anti-Capitalist
+    Music journalist, note, but "the" (as if they were otherwise universally adored),
+    and the implication that my opinion of them was the defining fact about me. I
+    may have been scribbling reviews of other bands, and of films, and bashing out
+    a cartoon strip, but what did that matter? Surely everybody knew me as "the anti-Capitalist
+    Music journalist".
+
+    But was I, truly? After all, here I am writing about them thirty years later.
+    The reason for doing so is basically a plea for help. For me, the band''s finest
+    work was the ludicrous "Jane''s Gone To France", with its rousing lines "It''s
+    the land of cheese and wine / It''s the land of Marshal Petain!" Yet no matter
+    how efficiently I sluice out my ears with Dr Baxter''s Ear-Sluicing Preparation,
+    I have never, ever been able to work out what on earth the great Steve Bloch is
+    singing in the next line. So in a desperate attempt to solve this puzzle that
+    has haunted me for three long decades, I am posting the song here. Have a listen,
+    and when you have calmed down sufficiently, and stopped giggling, do let me know
+    what you think that line is.
+
+    Jane''s gone to France
+
+    It''s the land of cheese and wine
+
+    And it''s the land of Marshal Petain
+
+    And it''s the land of [what, for God''s sake?]
+
+    She was a good girl
+
+    But now she''s gone for good
+
+    Capitalist Music--Jane''s Gone To France
+
+    from the 1981 compilation album "Welcome To Norwich A Fine City"
+
+    '
   title: The Land Of Cheese And Wine
-word_count: 360
+word_count: 359

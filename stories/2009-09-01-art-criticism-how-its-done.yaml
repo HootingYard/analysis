@@ -11,13 +11,12 @@ ngrams:
 - - been
   - put
   - down
-- - at
+- - down
+  - at
   - birth
-  - brian
 story:
   date: 2009-09-01
   id: 2009-09-01-art-criticism-how-its-done
-  text: "\u201CBanksy should have been put down at birth\u201D\u2014Brian Sewell,\
-    \ here."
-  title: "Art Criticism\_: How It's Done"
+  text: '"Banksy should have been put down at birth"--Brian Sewell, here.'
+  title: 'Art Criticism : How It''s Done'
 word_count: 16

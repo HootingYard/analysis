@@ -5,9 +5,6 @@ ngrams:
 - - meat
   - sandwiches
   - links
-- - cake
-  - pickled
-  - mussels
 - - potted
   - meat
   - sandwiches
@@ -23,9 +20,6 @@ ngrams:
 - - victorian
   - food
   - dishes
-- - common
-  - cake
-  - pickled
 - - following
   - victorian
   - foodstuffs
@@ -35,12 +29,6 @@ ngrams:
 - - set
   - text
   - students
-- - good
-  - common
-  - cake
-- - pudding
-  - good
-  - common
 - - find
   - themselves
   - eating
@@ -77,24 +65,42 @@ ngrams:
 - - recipes
   - into
   - dutch
+- - even
+  - more
+  - motivated
+- - themselves
+  - eating
+  - out
+- - dutch
+  - gruel
+  - there
+- - implore
+  - all
+  - readers
 story:
   date: 2006-04-11
   id: 2006-04-11-dutch-gruel
-  text: "There has always been a pedagogical impulse throbbing at the heart of Hooting\
-    \ Yard, so I am delighted to report that our recipe for gruel is now being used\
-    \ as a set text. Students are directed to this \u201Crather elaborate recipe\u201D\
-    \ by the editors of Alquin, a site for students learning English as a foreign\
-    \ language. The assignment is as follows:\n\u201CSearch the Internet for recipes\
-    \ for two of the following Victorian foodstuffs and translate the recipes into\
-    \ Dutch, in a way that you, or someone else, would easily be able to prepare the\
-    \ food. By presenting some Victorian food dishes, the actors who're in the play\
-    \ [an adaptation of Oliver Twist] might be even more motivated to act Victorian.\
-    \ Of course you could also feed them gruel, but that might not go down that well\u2026\
-    \u201D\nThere follows a list of enticing grub including dumplings, black-cap pudding,\
-    \ \u2018good common cake\u2019, pickled mussels, and potted meat sandwiches. Links\
-    \ for each dish are provided for the students, ending with one to Hooting Yard,\
-    \ suggesting that they \u201Ctry to work out from this description what you need\
-    \ to do to make gruel\u201D.\nMay I implore all readers, next time they find themselves\
-    \ eating out in the Netherlands, to order a bowl of gruel?\n"
+  text: 'There has always been a pedagogical impulse throbbing at the heart of Hooting
+    Yard, so I am delighted to report that our recipe for gruel is now being used
+    as a set text. Students are directed to this "rather elaborate recipe" by the
+    editors of Alquin, a site for students learning English as a foreign language.
+    The assignment is as follows:
+
+    "Search the Internet for recipes for two of the following Victorian foodstuffs
+    and translate the recipes into Dutch, in a way that you, or someone else, would
+    easily be able to prepare the food. By presenting some Victorian food dishes,
+    the actors who''re in the play [an adaptation of Oliver Twist] might be even more
+    motivated to act Victorian. Of course you could also feed them gruel, but that
+    might not go down that well..."
+
+    There follows a list of enticing grub including dumplings, black-cap pudding,
+    ''good common cake'', pickled mussels, and potted meat sandwiches. Links for each
+    dish are provided for the students, ending with one to Hooting Yard, suggesting
+    that they "try to work out from this description what you need to do to make gruel".
+
+    May I implore all readers, next time they find themselves eating out in the Netherlands,
+    to order a bowl of gruel?
+
+    '
   title: Dutch Gruel
 word_count: 212

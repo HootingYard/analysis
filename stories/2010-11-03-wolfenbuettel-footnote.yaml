@@ -44,21 +44,23 @@ ngrams:
 - - things
   - will
   - know
-- - ditch
-  - but
-  - disappointingly
 story:
   date: 2010-11-03
   id: 2010-11-03-wolfenbuettel-footnote
-  text: "Readers who keep track of these things will know that I am fond of Horace\
-    \ Walpole's coinage \u201Cbewolfenbuttlement\u201D, recently noted in my cupboard\
-    \ at The Dabbler. I have today learned that Gotthold Ephraim Lessing, that great\
-    \ figure of the Enlightenment, was for some years the librarian at the Herzog-August-Bibliothek\
-    \ in Wolfenb\xFCttel. In the 1770s, he published, anonymously, the Wolfenb\xFC\
-    ttel Fragments, essays by the (deceased) Professor of Oriental Languages at Hamburg,\
-    \ Reimarus, questioning the status of miracles recounted in the Bible.\nHis skepticism\
-    \ in this regard means Lessing is one of the few European thinkers who has a ditch\
-    \ named after him. It is an ugly, broad ditch, but, disappointingly, is a theoretical\
-    \ ditch rather than a real one.\nHe also had an interestingly egg-shaped head.\n"
-  title: "Wolfenb\xFCttel Footnote"
-word_count: 130
+  text: 'Readers who keep track of these things will know that I am fond of Horace
+    Walpole''s coinage "bewolfenbuttlement", recently noted in my cupboard at The
+    Dabbler. I have today learned that Gotthold Ephraim Lessing, that great figure
+    of the Enlightenment, was for some years the librarian at the Herzog-August-Bibliothek
+    in Wolfenbuttel. In the 1770s, he published, anonymously, the Wolfenbuttel Fragments,
+    essays by the (deceased) Professor of Oriental Languages at Hamburg, Reimarus,
+    questioning the status of miracles recounted in the Bible.
+
+    His skepticism in this regard means Lessing is one of the few European thinkers
+    who has a ditch named after him. It is an ugly, broad ditch, but, disappointingly,
+    is a theoretical ditch rather than a real one.
+
+    He also had an interestingly egg-shaped head.
+
+    '
+  title: Wolfenbuttel Footnote
+word_count: 127

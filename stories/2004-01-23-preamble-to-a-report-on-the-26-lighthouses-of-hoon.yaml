@@ -56,9 +56,6 @@ ngrams:
 - - pencil
   - several
   - pins
-- - jesuit
-  - perhaps
-  - broke
 - - ankle
   - while
   - attempting
@@ -140,9 +137,6 @@ ngrams:
 - - were
   - other
   - incidents
-- - has
-  - been
-  - verified
 - - figure
   - has
   - been
@@ -155,39 +149,50 @@ ngrams:
 - - imagine
   - this
   - splendid
+- - made
+  - all
+  - those
 story:
   date: 2004-01-23
   id: 2004-01-23-preamble-to-a-report-on-the-26-lighthouses-of-hoon
-  text: "I am Cedric Spraingue, and I have inspected all the lighthouses of Hoon.\
-    \ This is my report. On the fourteenth of July, having had my crutches freshly\
-    \ varnished, I set out for the Port of Tongs, my knapsack packed with mustard\
-    \ cakes, celery stalks, a flask of slops, my notebook and pencil, several pins,\
-    \ a length of string, a wristwatch with a frayed strap, and many, many other things\
-    \ which at present I cannot divulge.\nI had to wait for three hours at the railway\
-    \ station, during which time I shunned the other human beings in the waiting-room,\
-    \ preferring to crouch in an alcove to jot down some prepatory notes for my tour\
-    \ of lighthouse inspection. There are twenty six lighthouses in Hoon, and rigorous\
-    \ planning would be necessary.\nI had decided to begin with the Port of Tongs\
-    \ lighthouse for three reasons:\n1. It is the lighthouse furthest from my home\
-    \ in Hooting Yard, being precisely forty six and a half motes distant. That figure\
-    \ has been verified\u2014as have all the motages in my report\u2014by Dobson's\
-    \ bittern-robot measuring device. Each time I note the distance from one site\
-    \ to another, you may imagine this splendid metal bird soaring across the sky\
-    \ at unimaginable speed, its beak spewing forth ticker-tape.\n2. It is the oldest\
-    \ of the Hoon lighthouses by a good half-century.\n3. There is a toad hospital\
-    \ on the outskirts of the port, and Lillian, my toad, is sick. She has been struck\
-    \ by repeated fits of the chumpots, and I will be able to collect supplies of\
-    \ serum, paste, and toad-pills.\nThe train journey was remarkably eventful. The\
-    \ guard's van was struck by lightning. A pig wandered onto the track and missed\
-    \ death by seconds. A passenger, florid of face and decked out in clerical garb\u2014\
-    a Jesuit perhaps\u2014broke his ankle while attempting to step over a suitcase\
-    \ abandoned in the corridor. We suffered a temporary derailment. The toilets were\
-    \ flooded. Seven or eight handkerchiefs, donated by passengers, were needed to\
-    \ stem the ticket collector's nosebleed. A small child frantic with mischief pulled\
-    \ the communication cord, causing a halt of some hours. Bacteria released from\
-    \ a mysterious package made all those in the rear carriage violently sick. A monomaniac\
-    \ with grubby fingernails walked up and down the length of the train declaiming\
-    \ his theories on colourless gases.\nThere were other incidents, to be sure, but\
-    \ eventually the train arrived at the Port of Tongs. End of preamble."
+  text: 'I am Cedric Spraingue, and I have inspected all the lighthouses of Hoon.
+    This is my report. On the fourteenth of July, having had my crutches freshly varnished,
+    I set out for the Port of Tongs, my knapsack packed with mustard cakes, celery
+    stalks, a flask of slops, my notebook and pencil, several pins, a length of string,
+    a wristwatch with a frayed strap, and many, many other things which at present
+    I cannot divulge.
+
+    I had to wait for three hours at the railway station, during which time I shunned
+    the other human beings in the waiting-room, preferring to crouch in an alcove
+    to jot down some prepatory notes for my tour of lighthouse inspection. There are
+    twenty six lighthouses in Hoon, and rigorous planning would be necessary.
+
+    I had decided to begin with the Port of Tongs lighthouse for three reasons:
+
+    1. It is the lighthouse furthest from my home in Hooting Yard, being precisely
+    forty six and a half motes distant. That figure has been verified--as have all
+    the motages in my report--by Dobson''s bittern-robot measuring device. Each time
+    I note the distance from one site to another, you may imagine this splendid metal
+    bird soaring across the sky at unimaginable speed, its beak spewing forth ticker-tape.
+
+    2. It is the oldest of the Hoon lighthouses by a good half-century.
+
+    3. There is a toad hospital on the outskirts of the port, and Lillian, my toad,
+    is sick. She has been struck by repeated fits of the chumpots, and I will be able
+    to collect supplies of serum, paste, and toad-pills.
+
+    The train journey was remarkably eventful. The guard''s van was struck by lightning.
+    A pig wandered onto the track and missed death by seconds. A passenger, florid
+    of face and decked out in clerical garb--a Jesuit perhaps--broke his ankle while
+    attempting to step over a suitcase abandoned in the corridor. We suffered a temporary
+    derailment. The toilets were flooded. Seven or eight handkerchiefs, donated by
+    passengers, were needed to stem the ticket collector''s nosebleed. A small child
+    frantic with mischief pulled the communication cord, causing a halt of some hours.
+    Bacteria released from a mysterious package made all those in the rear carriage
+    violently sick. A monomaniac with grubby fingernails walked up and down the length
+    of the train declaiming his theories on colourless gases.
+
+    There were other incidents, to be sure, but eventually the train arrived at the
+    Port of Tongs. End of preamble.'
   title: Preamble to a Report on the 26 Lighthouses of Hoon
-word_count: 419
+word_count: 415

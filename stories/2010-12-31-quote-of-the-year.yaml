@@ -1,10 +1,4 @@
 ngrams:
-- - year
-  - peter
-  - hitchens
-- - new
-  - year
-  - peter
 - - am
   - actively
   - hostile
@@ -14,10 +8,15 @@ ngrams:
 - - year
   - i
   - am
+- - actively
+  - hostile
+  - to
+- - the
+  - year
+  - i
 story:
   date: 2010-12-31
   id: 2010-12-31-quote-of-the-year
-  text: "\u201CI am actively hostile to the \u2018New Year\u2019.\u201D\u2014Peter\
-    \ Hitchens"
+  text: '"I am actively hostile to the ''New Year''."--Peter Hitchens'
   title: Quote Of The Year
 word_count: 14

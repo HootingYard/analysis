@@ -11,6 +11,9 @@ ngrams:
 - - lindbergh
   - accidentally
   - killed
+- - ps
+  - million
+  - bank
 - - abnormal
   - sexual
   - energy
@@ -26,15 +29,12 @@ ngrams:
 - - fascist
   - charles
   - lindbergh
+- - recent
+  - ps
+  - million
 - - gas
   - plasma
   - physics
-- - recent
-  - million
-  - bank
-- - predictably
-  - present
-  - jfk
 - - included
   - government
   - advice
@@ -113,9 +113,6 @@ ngrams:
 - - plasma
   - physics
   - where
-- - worse
-  - than
-  - hitler
 - - than
   - hitler
   - worse
@@ -131,9 +128,6 @@ ngrams:
 - - its
   - parent
   - company
-- - century
-  - worse
-  - than
 - - people
   - should
   - take
@@ -158,9 +152,6 @@ ngrams:
 - - usual
   - suspects
   - were
-- - were
-  - predictably
-  - present
 - - dark
   - glasses
   - when
@@ -176,46 +167,68 @@ ngrams:
 - - christian
   - peoples
   - they
+- - people
+  - into
+  - orange
+- - turning
+  - people
+  - into
 story:
   date: 2005-01-20
   id: 2005-01-20-crime-of-the-century
-  text: "That beacon of common sense and moderation, the Reverend Ian Paisley, described\
-    \ the recent \xA322 million bank robbery in Northern Ireland as \u201Cthe crime\
-    \ of the century\u201D. Things bode well for the next ninety-five years, then.\n\
-    His comment set me thinking about the crime of the century just gone, so I went\
-    \ to Google to have a look. There were 65,800 results, but I was able to discount\
-    \ the majority of these because they referred to songs by Shania Twain and Supertramp.\
-    \ (On second thoughts\u2026 maybe those titles were accurately self-referential.)\
-    \ Anyway, the usual suspects were predictably present\u2014JFK, the Lindbergh\
-    \ baby kidnapping*, Leopold and Loeb, Ethel and Julius Rosenberg, and more recently\
-    \ the so-called \u201Cwar on terror\u201D and the destruction of the rainforest\u2014\
-    but I was more interested in the less celebrated misdeeds which had been described\
-    \ as \u201Cthe crime of the century\u201D. These included:\nGovernment advice\
-    \ that people should take mineral and vitamin supplements\nThe demolition of a\
-    \ building in Missouri as part of the US Custom House & Post Office Project\n\
-    An eight-inch crawdad deposited in someone's grandmother's rain barrel\nThe recent\
-    \ Ukrainian elections. A Yanukovich supporter said of Yuschenko's \u201Ccoup\u201D\
-    : \u201CThis is the crime of the century\u2014worse than Hitler, worse than Chernobyl.\
-    \ This is a battle to Armageddon. It's a battle between the Antichrist and Christian\
-    \ peoples. They are turning people into orange zombies\u2026 all of them have\
-    \ abnormal sexual energy.\u201D\nTheft of an item of sporting memorabilia from\
-    \ Geelong Football Club\nPublication of the Kinsey reports, Sexual Behaviour in\
-    \ the Human Male (1948) and Sexual Behaviour in the Human Female (1953). The perpetrator\
-    \ of this crime of the century is denounced as the \u201Cpatriarch of perversion\u201D\
-    \nSomething I don't quite understand about cold fusion theories, to wit: \u201C\
-    The hot fusioneers have made a fundamental error in judgment. Because they are\
-    \ so thoroughly skilled in gas plasma physics, where light-element fusion can\
-    \ and does occur, they have expected that any fusion in an electrochemical cell,\
-    \ on or near the surface of a metal lattice, must be similar to fusion in a gas\
-    \ plasma. The only way these scientists could have been more seriously in error\
-    \ would be to condemn the discovery of cold fusion, which some did!\u201D\nThe\
-    \ proposed sale of the KPFA radio station by its parent company, the Pacifica\
-    \ Foundation\nThe theft, from a photo shoot in the South of France, of an advance\
-    \ copy of an album by a pop group called U2.\n\nLeft : Charles Lindbergh. Right\
-    \ : a middle-aged man known as \u201CThe Edge\u201D, or possibly \u201CThe Hedge\u201D\
-    . Has some connection with U2.\n*NOTE : It should be well-known by now that eerie\
-    \ fascist Charles Lindbergh accidentally killed his child during a prank. Go to\
-    \ The Lindbergh Kidnapping Hoax for the full details. You may find it helpful\
-    \ to wear dark glasses when visiting the site."
+  text: 'That beacon of common sense and moderation, the Reverend Ian Paisley, described
+    the recent PS22 million bank robbery in Northern Ireland as "the crime of the
+    century". Things bode well for the next ninety-five years, then.
+
+    His comment set me thinking about the crime of the century just gone, so I went
+    to Google to have a look. There were 65,800 results, but I was able to discount
+    the majority of these because they referred to songs by Shania Twain and Supertramp.
+    (On second thoughts... maybe those titles were accurately self-referential.) Anyway,
+    the usual suspects were predictably present--JFK, the Lindbergh baby kidnapping*,
+    Leopold and Loeb, Ethel and Julius Rosenberg, and more recently the so-called
+    "war on terror" and the destruction of the rainforest--but I was more interested
+    in the less celebrated misdeeds which had been described as "the crime of the
+    century". These included:
+
+    Government advice that people should take mineral and vitamin supplements
+
+    The demolition of a building in Missouri as part of the US Custom House & Post
+    Office Project
+
+    An eight-inch crawdad deposited in someone''s grandmother''s rain barrel
+
+    The recent Ukrainian elections. A Yanukovich supporter said of Yuschenko''s "coup":
+    "This is the crime of the century--worse than Hitler, worse than Chernobyl. This
+    is a battle to Armageddon. It''s a battle between the Antichrist and Christian
+    peoples. They are turning people into orange zombies... all of them have abnormal
+    sexual energy."
+
+    Theft of an item of sporting memorabilia from Geelong Football Club
+
+    Publication of the Kinsey reports, Sexual Behaviour in the Human Male (1948) and
+    Sexual Behaviour in the Human Female (1953). The perpetrator of this crime of
+    the century is denounced as the "patriarch of perversion"
+
+    Something I don''t quite understand about cold fusion theories, to wit: "The hot
+    fusioneers have made a fundamental error in judgment. Because they are so thoroughly
+    skilled in gas plasma physics, where light-element fusion can and does occur,
+    they have expected that any fusion in an electrochemical cell, on or near the
+    surface of a metal lattice, must be similar to fusion in a gas plasma. The only
+    way these scientists could have been more seriously in error would be to condemn
+    the discovery of cold fusion, which some did!"
+
+    The proposed sale of the KPFA radio station by its parent company, the Pacifica
+    Foundation
+
+    The theft, from a photo shoot in the South of France, of an advance copy of an
+    album by a pop group called U2.
+
+
+    Left : Charles Lindbergh. Right : a middle-aged man known as "The Edge", or possibly
+    "The Hedge". Has some connection with U2.
+
+    *NOTE : It should be well-known by now that eerie fascist Charles Lindbergh accidentally
+    killed his child during a prank. Go to The Lindbergh Kidnapping Hoax for the full
+    details. You may find it helpful to wear dark glasses when visiting the site.'
   title: Crime of the Century
-word_count: 472
+word_count: 470

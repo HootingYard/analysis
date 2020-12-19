@@ -23,10 +23,9 @@ ngrams:
 story:
   date: 2004-02-20
   id: 2004-02-20-you-say-he-mused-that-mok-came
-  text: "\u201C\u2018You say,\u2019 he mused, \u2018that Mok came from some land once\
-    \ ravaged by war in which for five hundred years literacy had been a monopoly\
-    \ of the priesthood, in which the inhabitants lived in stone huts, and they were\
-    \ unfamiliar with bow-ties?\u2019\u201D \u2014 Dennis Plimmer, Man From The Wrong\
-    \ Time-Track"
-  title: "\u201C\u2018You say,\u2019 he mused, \u2018that Mok came\u2026\u201D"
-word_count: 56
+  text: '"''You say,'' he mused, ''that Mok came from some land once ravaged by war
+    in which for five hundred years literacy had been a monopoly of the priesthood,
+    in which the inhabitants lived in stone huts, and they were unfamiliar with bow-ties?''"
+    -- Dennis Plimmer, Man From The Wrong Time-Track'
+  title: '"''You say,'' he mused, ''that Mok came..."'
+word_count: 60

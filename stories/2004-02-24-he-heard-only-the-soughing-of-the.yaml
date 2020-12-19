@@ -8,9 +8,6 @@ ngrams:
 - - sinister
   - threats
   - uttered
-- - marrow
-  - robert
-  - leslie
 - - died
   - maybe
   - brenda
@@ -44,18 +41,20 @@ ngrams:
 - - assailed
   - him
   - then
+- - him
+  - then
+  - fear
 story:
   date: 2004-02-24
   id: 2004-02-24-he-heard-only-the-soughing-of-the
-  text: "\u201CHe heard only the soughing of the wind, the hissing pelt of raindrops\
-    \ in the scrub oak. Sickened fear assailed him, then; fear, not for himself but\
-    \ for the girl he loved. He remembered the dark, sinister threats uttered by Lige\
-    \ Ludwell, and he recalled how Lige's daughter had died. Maybe Brenda was even\
-    \ now hanging suspended head-downward somewhere, her life-blood being drained\
-    \ from her veins, either by vengeful clansmen or by something worse . . . such\
-    \ as an undead vampire-corpse . . . Until tonight, he would have scoffed at such\
-    \ an eldritch, hellish fancy. But in view of what had already happened, a cold\
-    \ slime of horror slid into his marrow.\u201D \u2014 Robert Leslie Bellem, Blood\
-    \ For The Vampire Dead"
-  title: "\u201CHe heard only the soughing of the\u2026\u201D"
-word_count: 123
+  text: '"He heard only the soughing of the wind, the hissing pelt of raindrops in
+    the scrub oak. Sickened fear assailed him, then; fear, not for himself but for
+    the girl he loved. He remembered the dark, sinister threats uttered by Lige Ludwell,
+    and he recalled how Lige''s daughter had died. Maybe Brenda was even now hanging
+    suspended head-downward somewhere, her life-blood being drained from her veins,
+    either by vengeful clansmen or by something worse . . . such as an undead vampire-corpse
+    . . . Until tonight, he would have scoffed at such an eldritch, hellish fancy.
+    But in view of what had already happened, a cold slime of horror slid into his
+    marrow." -- Robert Leslie Bellem, Blood For The Vampire Dead'
+  title: '"He heard only the soughing of the..."'
+word_count: 124

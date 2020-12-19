@@ -1,7 +1,4 @@
 ngrams:
-- - holy
-  - symbol
-  - john
 - - priest
   - passed
   - bearing
@@ -20,13 +17,15 @@ ngrams:
 - - him
   - rewarded
   - by
+- - for
+  - descending
+  - from
 story:
   date: 2005-06-03
   id: 2005-06-03-in-1766-we-find-louis-xv-with
-  text: "\u201CIn 1766, we find Louis XV, with the steam of the Parc aux Cerfs about\
-    \ him, rewarded by the loyal acclamations of a Parisian crowd, for descending\
-    \ from his carriage as a priest passed bearing the sacrament, and prostrating\
-    \ himself in the mud before the holy symbol.\u201D \u2014 John Morley, Diderot\
-    \ And The Encyclopaedists"
-  title: "\u201CIn 1766, we find Louis XV, with\u2026\u201D"
-word_count: 58
+  text: '"In 1766, we find Louis XV, with the steam of the Parc aux Cerfs about him,
+    rewarded by the loyal acclamations of a Parisian crowd, for descending from his
+    carriage as a priest passed bearing the sacrament, and prostrating himself in
+    the mud before the holy symbol." -- John Morley, Diderot And The Encyclopaedists'
+  title: '"In 1766, we find Louis XV, with..."'
+word_count: 59

@@ -5,9 +5,14 @@ ngrams:
 - - explorer
   - percy
   - harrison
+- - harrison
+  - fawcett
+  - '-'
 story:
   date: 2012-06-10
   id: 2012-06-10-explorer
-  text: "\nPercy Harrison Fawcett (1867\u20131925?)"
+  text: '
+
+    Percy Harrison Fawcett (1867-1925?)'
   title: Explorer
-word_count: 4
+word_count: 5

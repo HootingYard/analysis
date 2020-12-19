@@ -5,9 +5,6 @@ ngrams:
 - - fermenting
   - vegetable
   - material
-- - rotting
-  - potatoes
-  - l
 - - howard
   - f
   - c
@@ -20,19 +17,22 @@ ngrams:
 - - o
   - howard
   - f
-- - potatoes
-  - l
-  - o
 - - 'true'
   - house
   - fly
+- - 'true'
+  - house
+  - fly
+- - vegetable
+  - material
+  - such
 story:
   date: 2006-04-02
   id: 2006-04-02-the-true-house-fly-is-very-abundant
-  text: "\u201CThe true house fly is very abundant in localities where little or no\
-    \ horse manure is found, and in such cases it breeds in other manure, such as\
-    \ chicken manure in backyard poultry lots, or in slops or fermenting vegetable\
-    \ material, such as spent hops, moist bran, ensilage, or rotting potatoes.\u201D\
-    \ \u2014 L O Howard & F C Bishopp, The House Fly And How To Suppress It"
-  title: "\u201CThe true house fly is very abundant\u2026\u201D"
-word_count: 72
+  text: '"The true house fly is very abundant in localities where little or no horse
+    manure is found, and in such cases it breeds in other manure, such as chicken
+    manure in backyard poultry lots, or in slops or fermenting vegetable material,
+    such as spent hops, moist bran, ensilage, or rotting potatoes." -- L O Howard
+    & F C Bishopp, The House Fly And How To Suppress It'
+  title: '"The true house fly is very abundant..."'
+word_count: 73

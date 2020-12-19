@@ -5,9 +5,6 @@ ngrams:
 - - unnecessary
   - camouflage
   - jacket
-- - registered
-  - passion
-  - fruit
 - - sage
   - heads
   - nodding
@@ -20,9 +17,6 @@ ngrams:
 - - previous
   - six
   - sessions
-- - already
-  - registered
-  - passion
 - - general
   - truth
   - passion
@@ -200,9 +194,6 @@ ngrams:
 - - vote
   - they
   - agreed
-- - word
-  - fruit
-  - when
 - - words
   - were
   - spoken
@@ -218,55 +209,88 @@ ngrams:
 - - resumed
   - how
   - about
+- - recall
+  - we
+  - named
+- - after
+  - some
+  - while
+- - kiwi
+  - fruit
+  - which
 story:
   date: 2018-05-02
   id: 2018-05-02-naming-the-fruits
-  text: "When the panel met for the final time, to sign off on their deliberations\
-    \ of the previous six sessions, it was brought to their attention that they had\
-    \ completely forgotten to name one of the fruits.\n\u201CI have here a punnet\
-    \ of this fruit,\u201D said the second secretary, \u201CIt has somehow escaped\
-    \ the panel's attention heretofore.\u201D\nThere was a hubbub of consternation,\
-    \ which is a very different thing to other hubbubs, such as the hubbub of outrage\
-    \ or the hubbub of rapidly-donned camouflage jackets. Hubbubs of all kidneys,\
-    \ however, diminish eventually, and when this one did, one among the panel who\
-    \ happened to be wearing an unnecessary camouflage jacket, said:\n\u201CLet us\
-    \ take a close look at that punnet.\u201D\n\u201CWould it not be better to look\
-    \ closely at the unnamed fruit contained in the punnet, rather than at the punnet\
-    \ itself?\u201D\nThese words were spoken by a panel member who had been conspicuously\
-    \ silent ever since the first session, when he had pulled out of the bag, metaphorically,\
-    \ the word \u201Cclementine\u201D, to denote the clementine, one of which he then\
-    \ pulled out of a paper bag, literally.\nSage heads nodding in agreement, the\
-    \ panel members gave their undivided attention to the items of fruit in the punnet.\
-    \ After some while, one asked his fellows:\n\u201CHave we already made use of\
-    \ the word \u2018grape\u2019?\u201D\n\u201CWe have. But you are clearly thinking\
-    \ this fruit requires a one-syllable name.\u201D\n\u201CIndeed.\u201D\n\u201C\
-    On what grounds?\u201D\n\u201COh, just look at it! Look at them! In their punnet!\
-    \ I am sorry to sound so exasperated, but only a dolt or a halfwit would dub that\
-    \ fruit with a multisyllabic name. It cries out for something simple, and short,\
-    \ and blunt.\u201D\nThe passion of this outburst convinced the other panel members\
-    \ of its general truth. Passion need not always denote truth, of course. More\
-    \ often it can lead to all sorts of human error, particularly when it crosses\
-    \ the line into hysteria. Consider the example of massed Corbynistas with their\
-    \ placrads.\n\u201CIt is a shame,\u201D said Arpad, the senior member of the panel,\
-    \ \u201CThat we have already registered \u2018passion fruit\u2019 as a fruit name.\u201D\
-    \n\u201COn that point,\u201D said his immediate table-neighbour, \u201CCan anybody\
-    \ explain why, in some cases, we have used the word \u2018fruit\u2019 as part\
-    \ of the fruit name? I am thinking of the passion fruit and the kiwi fruit, which\
-    \ you will recall we named at Thursday's session. Why are we labouring the word\
-    \ \u2018fruit\u2019 when it is blindingly obvious that the thing denoted is a\
-    \ fruit?\u201D\nBefore anybody could answer this reasonable query, there was an\
-    \ interruption from the radio transmitter. The lovely strains of Xavier Cugat\
-    \ And His Orchestra gave way to a gravely-voiced newsflash. There had been a bittern\
-    \ storm over Ulm. Cugat resumed.\n\u201CHow about ulm?\u201D piped up Binns, \u201C\
-    A punnet of ulms?\u201D\n\u201CIt is tempting,\u201D said Arpad, \u201CBut I have\
-    \ two objections. First, the fruit may thereby become too closely associated with\
-    \ the city in Baden-W\xFCrttemberg where this bittern storm has just occurred.\
-    \ Second, I think we are all agreed that most fruit-names benefit from beginning\
-    \ with consonants. Not all, but most.\u201D\nThe panel then worked through the\
-    \ alphabet, appending consonants to \u201Culm\u201D. After a vote, they agreed\
-    \ unanimously on \u201Cpulm\u201D. When the second secretary came to write the\
-    \ new fruit-name in the register, he was momentarily distracted by the cry of\
-    \ a bittern, booming from the marshes anent the manse, and he accidentally transposed\
-    \ the middle letters of the word.\nAnd hence the plum."
+  text: 'When the panel met for the final time, to sign off on their deliberations
+    of the previous six sessions, it was brought to their attention that they had
+    completely forgotten to name one of the fruits.
+
+    "I have here a punnet of this fruit," said the second secretary, "It has somehow
+    escaped the panel''s attention heretofore."
+
+    There was a hubbub of consternation, which is a very different thing to other
+    hubbubs, such as the hubbub of outrage or the hubbub of rapidly-donned camouflage
+    jackets. Hubbubs of all kidneys, however, diminish eventually, and when this one
+    did, one among the panel who happened to be wearing an unnecessary camouflage
+    jacket, said:
+
+    "Let us take a close look at that punnet."
+
+    "Would it not be better to look closely at the unnamed fruit contained in the
+    punnet, rather than at the punnet itself?"
+
+    These words were spoken by a panel member who had been conspicuously silent ever
+    since the first session, when he had pulled out of the bag, metaphorically, the
+    word "clementine", to denote the clementine, one of which he then pulled out of
+    a paper bag, literally.
+
+    Sage heads nodding in agreement, the panel members gave their undivided attention
+    to the items of fruit in the punnet. After some while, one asked his fellows:
+
+    "Have we already made use of the word ''grape''?"
+
+    "We have. But you are clearly thinking this fruit requires a one-syllable name."
+
+    "Indeed."
+
+    "On what grounds?"
+
+    "Oh, just look at it! Look at them! In their punnet! I am sorry to sound so exasperated,
+    but only a dolt or a halfwit would dub that fruit with a multisyllabic name. It
+    cries out for something simple, and short, and blunt."
+
+    The passion of this outburst convinced the other panel members of its general
+    truth. Passion need not always denote truth, of course. More often it can lead
+    to all sorts of human error, particularly when it crosses the line into hysteria.
+    Consider the example of massed Corbynistas with their placrads.
+
+    "It is a shame," said Arpad, the senior member of the panel, "That we have already
+    registered ''passion fruit'' as a fruit name."
+
+    "On that point," said his immediate table-neighbour, "Can anybody explain why,
+    in some cases, we have used the word ''fruit'' as part of the fruit name? I am
+    thinking of the passion fruit and the kiwi fruit, which you will recall we named
+    at Thursday''s session. Why are we labouring the word ''fruit'' when it is blindingly
+    obvious that the thing denoted is a fruit?"
+
+    Before anybody could answer this reasonable query, there was an interruption from
+    the radio transmitter. The lovely strains of Xavier Cugat And His Orchestra gave
+    way to a gravely-voiced newsflash. There had been a bittern storm over Ulm. Cugat
+    resumed.
+
+    "How about ulm?" piped up Binns, "A punnet of ulms?"
+
+    "It is tempting," said Arpad, "But I have two objections. First, the fruit may
+    thereby become too closely associated with the city in Baden-Wurttemberg where
+    this bittern storm has just occurred. Second, I think we are all agreed that most
+    fruit-names benefit from beginning with consonants. Not all, but most."
+
+    The panel then worked through the alphabet, appending consonants to "ulm". After
+    a vote, they agreed unanimously on "pulm". When the second secretary came to write
+    the new fruit-name in the register, he was momentarily distracted by the cry of
+    a bittern, booming from the marshes anent the manse, and he accidentally transposed
+    the middle letters of the word.
+
+    And hence the plum.'
   title: Naming The Fruits
-word_count: 588
+word_count: 587

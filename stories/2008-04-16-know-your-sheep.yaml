@@ -1,7 +1,4 @@
 ngrams:
-- - confused
-  - animal
-  - paul
 - - ever
   - spoken
   - about
@@ -14,12 +11,14 @@ ngrams:
 - - words
   - were
   - ever
+- - only
+  - one
+  - ambition
 story:
   date: 2008-04-16
   id: 2008-04-16-know-your-sheep
-  text: "\u201CI was once advised by an old man of the hills that \u2018sheep have\
-    \ only one ambition in life and that is to die\u2019. No truer words were ever\
-    \ spoken about this nervous and confused animal.\u201D\u2014Paul Heiney in today's\
-    \ Times"
+  text: '"I was once advised by an old man of the hills that ''sheep have only one
+    ambition in life and that is to die''. No truer words were ever spoken about this
+    nervous and confused animal."--Paul Heiney in today''s Times'
   title: Know Your Sheep
 word_count: 44

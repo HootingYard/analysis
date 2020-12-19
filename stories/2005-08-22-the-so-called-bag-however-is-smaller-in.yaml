@@ -2,9 +2,6 @@ ngrams:
 - - yellowing
   - impenetrable
   - haze
-- - rise
-  - cyril
-  - plunkett
 - - thin
   - yellowing
   - impenetrable
@@ -38,17 +35,19 @@ ngrams:
 - - faint
   - hissing
   - we
+- - all
+  - sound
+  - save
 story:
   date: 2005-08-22
   id: 2005-08-22-the-so-called-bag-however-is-smaller-in
-  text: "\u201CThe so-called bag, however, is smaller in width, manufactured of flexible\
-    \ lumalloy which is proof against storm, lightning, and, in fact, everything except\
-    \ explosives\u2026 The gas is used as fuel, eliminating all sound save for a faint\
-    \ hissing\u2026 We have utilized the gas in small quantities within the ship.\
-    \ The controls, the hatches and elevator, and the disappearing guns, or rather\
-    \ their carriages, are automatically operated. The X-Gas may be released upon\
-    \ our foes with dreadful results. It causes a thin, yellowing, impenetrable haze\
-    \ and, contrary to ordinary principles, does not rise!\u201D \u2014 Cyril Plunkett,\
-    \ The X Gas"
-  title: "\u201CThe so-called bag, however, is smaller in\u2026\u201D"
-word_count: 104
+  text: '"The so-called bag, however, is smaller in width, manufactured of flexible
+    lumalloy which is proof against storm, lightning, and, in fact, everything except
+    explosives... The gas is used as fuel, eliminating all sound save for a faint
+    hissing... We have utilized the gas in small quantities within the ship. The controls,
+    the hatches and elevator, and the disappearing guns, or rather their carriages,
+    are automatically operated. The X-Gas may be released upon our foes with dreadful
+    results. It causes a thin, yellowing, impenetrable haze and, contrary to ordinary
+    principles, does not rise!" -- Cyril Plunkett, The X Gas'
+  title: '"The so-called bag, however, is smaller in..."'
+word_count: 105

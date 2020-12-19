@@ -8,9 +8,6 @@ ngrams:
 - - stab
   - skippy
   - purposely
-- - clashing
-  - mel
-  - e
 - - bloodthirsty
   - screaming
   - warriors
@@ -362,6 +359,9 @@ ngrams:
 - - either
   - side
   - were
+- - side
+  - were
+  - either
 story:
   date: 2012-09-30
   id: 2012-09-30-on-not-having-a-dog-in-the-fight
@@ -409,8 +409,8 @@ story:
     \ to think that if I did have a dog, as a pet, I would do my best to protect it\
     \ from bloodthirsty screaming warriors armed with swords. I would not be much\
     \ of a dog owner, would I, if I picked Skippy up and chucked him over the barricade,\
-    \ and commanded him to go and fetch a stick I threw into the clashing mel\xE9\
-    e of warriors? Dogs can be very trusting, and the likelihood is that Skippy would\
+    \ and commanded him to go and fetch a stick I threw into the clashing melee of\
+    \ warriors? Dogs can be very trusting, and the likelihood is that Skippy would\
     \ gaze at me adoringly and scamper unquestioningly into the sodden marsh, there\
     \ to be torn to bits by the razor-sharp blades of the fighting men. They might\
     \ not stab Skippy purposely, but if he were caught up in the violence, by going\
@@ -433,4 +433,4 @@ story:
     \ warriors for the putative dog to fetch. And with no dead dog, the tinies would\
     \ not turn on me, with a rage and wildness more terrible than an army with banners."
   title: On Not Having A Dog In The Fight
-word_count: 974
+word_count: 973

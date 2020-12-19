@@ -23,10 +23,12 @@ ngrams:
 story:
   date: 2014-08-13
   id: 2014-08-13-bbc-weather
-  text: "One of the BBC's regular weather forecasters is Stav Danaos. This always\
-    \ sounds to me like a name from Game Of Thrones. One imagines Stav hanging out\
-    \ with, say, Stannis Baratheon or Daenerys Targaryen. That being so, it is somewhat\
-    \ puzzling that his weather forecasts do not consist simply of the words \u201C\
-    winter is coming\u201D, every day.\n"
+  text: 'One of the BBC''s regular weather forecasters is Stav Danaos. This always
+    sounds to me like a name from Game Of Thrones. One imagines Stav hanging out with,
+    say, Stannis Baratheon or Daenerys Targaryen. That being so, it is somewhat puzzling
+    that his weather forecasts do not consist simply of the words "winter is coming",
+    every day.
+
+    '
   title: BBC Weather
 word_count: 59

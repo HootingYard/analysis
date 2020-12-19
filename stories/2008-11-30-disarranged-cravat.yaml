@@ -1,5 +1,8 @@
 ngrams:
 - - common
+  - '-'
+  - paul
+- - '-'
   - paul
   - de
 - - while
@@ -20,12 +23,6 @@ ngrams:
 - - inscription
   - what
   - do
-- - this
-  - insolent
-  - inscription
-- - english
-  - this
-  - insolent
 - - disarranged
   - cravat
   - had
@@ -35,16 +32,19 @@ ngrams:
 - - eye
   - as
   - glassy
+- - who
+  - looked
+  - at
 story:
   date: 2008-11-30
   id: 2008-11-30-disarranged-cravat
-  text: "A dandy was the\_Black Prince of Elegance, the demigod of boredom who looked\
+  text: "A dandy was the Black Prince of Elegance, the demigod of boredom who looked\
     \ at the world with an eye as glassy as his pince-nez, suffering because his disarranged\
     \ cravat had a crease, like the ancient Sybarite who suffered because his rose\
     \ was crushed. He is indifferent about the horse he rides, the woman he greets,\
     \ and the man he encounters and at whom he gazes a while before recognizing him.\
-    \ He bears, written on his forehead\u2014in English\u2014this insolent inscription:\
-    \ What do you and I have in common?\_\u2013 Paul de Saint-Victor, 1859\nVia The\
-    \ Victorian Era\n\_"
+    \ He bears, written on his forehead--in English--this insolent inscription: What\
+    \ do you and I have in common? - Paul de Saint-Victor, 1859\nVia The Victorian\
+    \ Era\n "
   title: Disarranged Cravat
-word_count: 99
+word_count: 98

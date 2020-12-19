@@ -1,16 +1,10 @@
 ngrams:
-- - locker
-  - jack
-  - gray
 - - nudist
   - gym
   - death
 - - gym
   - death
   - riddle
-- - clothes
-  - she
-  - directed
 - - she
   - smiled
   - again
@@ -20,26 +14,32 @@ ngrams:
 - - evening
   - class
   - would
-- - minutes
-  - get
-  - out
 - - she
   - gave
   - him
 - - she
   - gave
   - him
-- - your
-  - clothes
-  - she
+- - 'no'
+  - time
+  - removing
+- - lost
+  - 'no'
+  - time
+- - nudist
+  - racket
+  - but
+- - removing
+  - his
+  - clothing
 story:
   date: 2005-08-11
   id: 2005-08-11-she-gave-him-a-key-to-the
-  text: "\u201CShe gave him a key to the locker and told him the evening class would\
-    \ start in thirty minutes. \u2018Get out of your clothes,\u2019 she directed.\
-    \ 'I'll be back in no time to show you the ropes.' She smiled again, a friendly\
-    \ smile of promise. Ace was new at the nudist racket, but he lost no time removing\
-    \ his clothing. He patted his .38 with a feeling of regret as he stored it away\
-    \ in the locker.\u201D \u2014 Jack Gray, The Nudist Gym Death Riddle"
-  title: "\u201CShe gave him a key to the\u2026\u201D"
-word_count: 91
+  text: '"She gave him a key to the locker and told him the evening class would start
+    in thirty minutes. ''Get out of your clothes,'' she directed. ''I''ll be back
+    in no time to show you the ropes.'' She smiled again, a friendly smile of promise.
+    Ace was new at the nudist racket, but he lost no time removing his clothing. He
+    patted his .38 with a feeling of regret as he stored it away in the locker." --
+    Jack Gray, The Nudist Gym Death Riddle'
+  title: '"She gave him a key to the..."'
+word_count: 93

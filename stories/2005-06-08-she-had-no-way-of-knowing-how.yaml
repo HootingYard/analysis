@@ -14,9 +14,6 @@ ngrams:
 - - face
   - yet
   - hauntingly
-- - man
-  - hugh
-  - j
 - - strange
   - face
   - yet
@@ -41,16 +38,18 @@ ngrams:
 - - haltingly
   - she
   - made
+- - made
+  - her
+  - incapable
 story:
   date: 2005-06-08
   id: 2005-06-08-she-had-no-way-of-knowing-how
-  text: "\u201CShe had no way of knowing how long she sat there before the tapping\
-    \ on her window brought her to her feet with a start. Stark fear squeezed the\
-    \ breath from her body and made her incapable of motion. Suddenly a face appeared\
-    \ at the window! A strange face, yet hauntingly familiar. In a flash she recognized\
-    \ it to be that of Phyllis, the trapeze artist, but in some way it was different!\
-    \ Haltingly, she made her way to the window and threw back the catch. Into the\
-    \ room bounded the half nude figure of a man!\u201D \u2014 Hugh J Gallagher, Death\
-    \ Mates For The Lust-Lost"
-  title: "\u201CShe had no way of knowing how\u2026\u201D"
-word_count: 112
+  text: '"She had no way of knowing how long she sat there before the tapping on her
+    window brought her to her feet with a start. Stark fear squeezed the breath from
+    her body and made her incapable of motion. Suddenly a face appeared at the window!
+    A strange face, yet hauntingly familiar. In a flash she recognized it to be that
+    of Phyllis, the trapeze artist, but in some way it was different! Haltingly, she
+    made her way to the window and threw back the catch. Into the room bounded the
+    half nude figure of a man!" -- Hugh J Gallagher, Death Mates For The Lust-Lost'
+  title: '"She had no way of knowing how..."'
+word_count: 113

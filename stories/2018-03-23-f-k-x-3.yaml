@@ -8,17 +8,17 @@ ngrams:
 - - bucket
   - rider
   - listen
-- - my
-  - fk
-  - stories
 - - k
   - x
   - 'on'
+- - x
+  - 'on'
+  - yesterday's
 story:
   date: 2018-03-23
   id: 2018-03-23-f-k-x-3
-  text: "On yesterday's episode of Hooting Yard On The Air, I read three of my FK\
-    \ stories\u2014The Hunter Gracchus, Children On A Country Road, and The Bucket\
-    \ Rider. Listen and learn."
+  text: On yesterday's episode of Hooting Yard On The Air, I read three of my FK stories--The
+    Hunter Gracchus, Children On A Country Road, and The Bucket Rider. Listen and
+    learn.
   title: F K x 3
-word_count: 34
+word_count: 33

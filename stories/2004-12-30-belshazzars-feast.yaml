@@ -20,6 +20,12 @@ ngrams:
 - - silence
   - benny
   - began
+- - found
+  - bjorn
+  - sheltering
+- - benny
+  - found
+  - bjorn
 - - matter
   - asked
   - benny
@@ -32,6 +38,12 @@ ngrams:
 - - benny
   - after
   - tipping
+- - dice
+  - said
+  - bjorn
+- - bjorn
+  - said
+  - benny
 - - said
   - benny
   - benny
@@ -47,6 +59,9 @@ ngrams:
 - - gods
   - may
   - throw
+- - ask
+  - bjorn
+  - said
 - - her
   - upper
   - lip
@@ -65,52 +80,47 @@ ngrams:
 - - she
   - pranced
   - away
+- - bjorn
+  - their
+  - minds
 - - you'd
   - been
   - invited
-- - been
-  - invited
-  - i'll
-- - winds
-  - were
-  - howling
-- - then
-  - said
-  - benny
-- - decision
-  - then
-  - said
-- - wild
-  - winds
-  - were
-- - pranced
-  - away
-  - into
-- - know
-  - you'd
-  - been
 story:
   date: 2004-12-30
   id: 2004-12-30-belshazzars-feast
-  text: "\n\u201CWill you come with me to Belshazzar's feast?\u201D asked Agnetha.\n\
-    \u201CI didn't know you'd been invited. I'll have to ask Bj\xF6rn,\u201D said\
-    \ Benny.\nBenny strode off into the mountains to find Bj\xF6rn. Agnetha stayed\
-    \ at the hotel, sipping her alcohol-free absinthe. Wild winds were howling and\
-    \ storm clouds gathered.\nBenny found Bj\xF6rn sheltering in a declivity. He was\
-    \ burning charcoal.\n\u201CAgnetha wants me to go with her to Belshazzar's feast,\u201D\
-    \ said Benny, after tipping his hat to Bj\xF6rn in greeting, \u201CWhat do you\
-    \ think?\u201D\n\u201CThe gods may throw a dice,\u201D said Bj\xF6rn, \u201CTheir\
-    \ minds as cold as ice.\u201D He stared off into the mist-enshrouded distance,\
-    \ towards the fireworks factory and the abandoned tennis courts.\n\u201CI shall\
-    \ reflect on what you have said and come to a decision, then,\u201D said Benny,\
-    \ \u201CThank you.\u201D\nOn the way back to the hotel, Benny was accosted on\
-    \ the mountain path by Anni-Frid. She was dressed like a gaucho and looked as\
-    \ if she had been weeping.\n\u201CAnni-Frid, whatever is the matter?\u201D asked\
-    \ Benny.\nAnni-Frid dabbed at her tears with a paper napkin from the hotel. Her\
-    \ upper lip curled in a sneer. Discomfited by her silence, Benny began to gabble.\n\
-    \u201CAgnetha asked me to accompany her to Belshazzar's feast,\u201D he said,\
-    \ \u201CAnd I asked Bj\xF6rn for his advice. He is up there in a declivity burning\
-    \ charcoal.\u201D\n\u201CMene, Mene, Tekel, Upharsin,\u201D said Anni-Frid, and\
-    \ she pranced away into the mist."
+  text: '
+
+    "Will you come with me to Belshazzar''s feast?" asked Agnetha.
+
+    "I didn''t know you''d been invited. I''ll have to ask Bjorn," said Benny.
+
+    Benny strode off into the mountains to find Bjorn. Agnetha stayed at the hotel,
+    sipping her alcohol-free absinthe. Wild winds were howling and storm clouds gathered.
+
+    Benny found Bjorn sheltering in a declivity. He was burning charcoal.
+
+    "Agnetha wants me to go with her to Belshazzar''s feast," said Benny, after tipping
+    his hat to Bjorn in greeting, "What do you think?"
+
+    "The gods may throw a dice," said Bjorn, "Their minds as cold as ice." He stared
+    off into the mist-enshrouded distance, towards the fireworks factory and the abandoned
+    tennis courts.
+
+    "I shall reflect on what you have said and come to a decision, then," said Benny,
+    "Thank you."
+
+    On the way back to the hotel, Benny was accosted on the mountain path by Anni-Frid.
+    She was dressed like a gaucho and looked as if she had been weeping.
+
+    "Anni-Frid, whatever is the matter?" asked Benny.
+
+    Anni-Frid dabbed at her tears with a paper napkin from the hotel. Her upper lip
+    curled in a sneer. Discomfited by her silence, Benny began to gabble.
+
+    "Agnetha asked me to accompany her to Belshazzar''s feast," he said, "And I asked
+    Bjorn for his advice. He is up there in a declivity burning charcoal."
+
+    "Mene, Mene, Tekel, Upharsin," said Anni-Frid, and she pranced away into the mist.'
   title: Belshazzar's Feast
-word_count: 244
+word_count: 238

@@ -6,7 +6,7 @@ ngrams:
   - lost
   - rivers
 - - chalet
-  - o
+  - o'
   - prose
 - - lost
   - rivers
@@ -17,9 +17,11 @@ ngrams:
 story:
   date: 2013-02-03
   id: 2013-02-03-pebbleheads-typewriter
-  text: "Pebblehead's typewriter after the bestselling paperback potboilerist completed\
-    \ a particularly strenuous bout of key-thumping in his chalet o\u2019 prose.\n\
-    \n(The picture found its way on to London's Lost Rivers, where I found it thanks\
-    \ to Marina Organ.)"
+  text: 'Pebblehead''s typewriter after the bestselling paperback potboilerist completed
+    a particularly strenuous bout of key-thumping in his chalet o'' prose.
+
+
+    (The picture found its way on to London''s Lost Rivers, where I found it thanks
+    to Marina Organ.)'
   title: Pebblehead's Typewriter
 word_count: 39

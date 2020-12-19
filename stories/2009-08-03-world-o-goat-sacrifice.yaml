@@ -5,51 +5,56 @@ ngrams:
 - - poses
   - disease
   - transmission
-- - sacrifice
-  - goats
+- - '-'
+  - chickens
+  - '-'
+- - chickens
+  - '-'
+  - guinea
+- - goats
+  - '-'
   - turtles
 - - lone
   - duck
   - heresy
-- - chickens
+- - '-'
   - guinea
   - hens
-- - turtles
-  - duck
-  - chickens
-- - duck
-  - chickens
-  - guinea
-- - goats
+- - sacrifice
+  - '-'
+  - goats
+- - '-'
+  - goats
+  - '-'
+- - '-'
   - turtles
   - duck
+- - turtles
+  - duck
+  - '-'
 - - duck
-  - heresy
-  - corner
-- - goat
-  - sacrifice
-  - food
-- - o
+  - '-'
+  - chickens
+- - o'
   - goat
   - sacrifice
-- - o
+- - o'
   - goat
   - sacrifice
-- - myself
-  - particularly
-  - concerned
 story:
   date: 2009-08-03
   id: 2009-08-03-world-o-goat-sacrifice
-  text: "\u201CTo be clear, Merced does not want to sacrifice a goat in his home.\
-    \ He wants to sacrifice 5\u20137 goats, 1\u20132 turtles, 1 duck, 10\u201314 chickens,\
-    \ 5\u20137 guinea hens and 10\u201314 doves all at one time. Keeping and killing\
-    \ that many animals in a residential neighbourhood poses disease transmission\
-    \ dangers. It creates stench and filth\u201D\u2026 Furthermore, said the lawyer\
-    \ for Euless council, sacrificing goats was \u201Crepulsive and has no place in\
-    \ an urban environment\u201D.\nI find myself particularly concerned for that lone\
-    \ duck.\nHeresy Corner investigates the world o\u2019 goat sacrifice. Food for\
-    \ thought not only for Santerian voodooists, but for Aztec fundamentalists and\
-    \ those of us who worship the hideous bat-god Fatso."
-  title: "World o\u2019 Goat Sacrifice"
-word_count: 111
+  text: '"To be clear, Merced does not want to sacrifice a goat in his home. He wants
+    to sacrifice 5-7 goats, 1-2 turtles, 1 duck, 10-14 chickens, 5-7 guinea hens and
+    10-14 doves all at one time. Keeping and killing that many animals in a residential
+    neighbourhood poses disease transmission dangers. It creates stench and filth"...
+    Furthermore, said the lawyer for Euless council, sacrificing goats was "repulsive
+    and has no place in an urban environment".
+
+    I find myself particularly concerned for that lone duck.
+
+    Heresy Corner investigates the world o'' goat sacrifice. Food for thought not
+    only for Santerian voodooists, but for Aztec fundamentalists and those of us who
+    worship the hideous bat-god Fatso.'
+  title: World o' Goat Sacrifice
+word_count: 116

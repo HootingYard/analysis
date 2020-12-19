@@ -2,9 +2,6 @@ ngrams:
 - - needle
   - jabbed
   - directly
-- - avian
-  - advent
-  - calendar
 - - late
   - i'm
   - afraid
@@ -14,6 +11,9 @@ ngrams:
 - - jabbed
   - directly
   - into
+- - afraid
+  - my
+  - excuse
 story:
   date: 2016-12-14
   id: 2016-12-14-avian-advent-calendar-xiii
@@ -21,5 +21,5 @@ story:
     directly into my right eyeball.
 
     '
-  title: "Avian Advent Calendar\u2014XIII"
-word_count: 24
+  title: Avian Advent Calendar--XIII
+word_count: 23

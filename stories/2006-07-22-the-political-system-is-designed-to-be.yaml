@@ -14,12 +14,15 @@ ngrams:
 - - anything
   - exciting
   - interesting
+- - dramatic
+  - ever
+  - happens
 story:
   date: 2006-07-22
   id: 2006-07-22-the-political-system-is-designed-to-be
-  text: "\u201CThe political system is designed to be dull. If anything exciting,\
-    \ interesting or dramatic ever happens in Dutch politics, it means that something's\
-    \ gone horribly wrong.\u201D \u2014 Michiel Schwartz, quoted in David Winner,\
-    \ Brilliant Orange : The Neurotic Genius Of Dutch Football"
-  title: "\u201CThe political system is designed to be\u2026\u201D"
-word_count: 47
+  text: '"The political system is designed to be dull. If anything exciting, interesting
+    or dramatic ever happens in Dutch politics, it means that something''s gone horribly
+    wrong." -- Michiel Schwartz, quoted in David Winner, Brilliant Orange : The Neurotic
+    Genius Of Dutch Football'
+  title: '"The political system is designed to be..."'
+word_count: 48

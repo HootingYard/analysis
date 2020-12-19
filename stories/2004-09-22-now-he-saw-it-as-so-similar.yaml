@@ -8,9 +8,6 @@ ngrams:
 - - living
   - human
   - form
-- - make
-  - charles
-  - williams
 - - backward
   - through
   - its
@@ -35,15 +32,21 @@ ngrams:
 - - mouth
   - there
   - also
+- - speaking
+  - beetle
+  - an
+- - so
+  - similar
+  - now
 story:
   date: 2004-09-22
   id: 2004-09-22-now-he-saw-it-as-so-similar
-  text: "\u201CNow he saw it as so similar in shape that it seemed to him for half\
-    \ a second not a face at all, but another back; but this eyed and mouthed as if\
-    \ the living human form ended in a gruesomeness, and had a huge beetle for its\
-    \ head, only a beetle that looked out backward through its coat and had a wide\
-    \ speaking mouth there also; a speaking beetle, an orating beetle, but also a\
-    \ dead and watching beetle. He forgot the aesthetic remark he had been about to\
-    \ make.\u201D \u2014 Charles Williams, All Hallows' Eve 1914"
-  title: "\u201CNow he saw it as so similar\u2026\u201D"
-word_count: 103
+  text: '"Now he saw it as so similar in shape that it seemed to him for half a second
+    not a face at all, but another back; but this eyed and mouthed as if the living
+    human form ended in a gruesomeness, and had a huge beetle for its head, only a
+    beetle that looked out backward through its coat and had a wide speaking mouth
+    there also; a speaking beetle, an orating beetle, but also a dead and watching
+    beetle. He forgot the aesthetic remark he had been about to make." -- Charles
+    Williams, All Hallows'' Eve 1914'
+  title: '"Now he saw it as so similar..."'
+word_count: 104

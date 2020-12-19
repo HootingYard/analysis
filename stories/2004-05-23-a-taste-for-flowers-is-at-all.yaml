@@ -8,28 +8,28 @@ ngrams:
 - - david
   - lester
   - richardson
-- - pleasures
-  - david
-  - lester
-- - who
-  - should
-  - endeavor
-- - poor
-  - who
-  - should
 - - all
   - events
   - infinitely
 - - gaming
   - table
   - or
+- - table
+  - or
+  - even
+- - taste
+  - for
+  - flowers
+- - taste
+  - for
+  - flowers
 story:
   date: 2004-05-23
   id: 2004-05-23-a-taste-for-flowers-is-at-all
-  text: "\u201CA taste for flowers is, at all events, infinitely preferable to a taste\
-    \ for the excitements of the pot-house or the tavern or the turf or the gaming\
-    \ table, or even the festal board, especially for people of feeble health\u2014\
-    and above all, for the poor\u2014who should endeavor to satisfy themselves with\
-    \ inexpensive pleasures.\u201D \u2014 David Lester Richardson, Flowers And Flower-Gardens"
-  title: "\u201CA taste for flowers is, at all\u2026\u201D"
-word_count: 68
+  text: '"A taste for flowers is, at all events, infinitely preferable to a taste
+    for the excitements of the pot-house or the tavern or the turf or the gaming table,
+    or even the festal board, especially for people of feeble health--and above all,
+    for the poor--who should endeavor to satisfy themselves with inexpensive pleasures."
+    -- David Lester Richardson, Flowers And Flower-Gardens'
+  title: '"A taste for flowers is, at all..."'
+word_count: 67

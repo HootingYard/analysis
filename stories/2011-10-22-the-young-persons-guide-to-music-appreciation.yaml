@@ -1,7 +1,4 @@
 ngrams:
-- - ecstasy
-  - op
-  - scriabin
 - - facebook
   - facecloth
   - message
@@ -23,14 +20,20 @@ ngrams:
 - - message
   - saying
   - she
+- - idea
+  - what
+  - records
 story:
   date: 2011-10-22
   id: 2011-10-22-the-young-persons-guide-to-music-appreciation
-  text: "A friend of mine posted a Facebook Facecloth message, saying she is DJing\
-    \ tonight and has no idea what records to play, asking for tips on what \u201C\
-    the kids\u201D are listening to these days.\nI replied: \u201CIt's not what the\
-    \ kids are listening to, it's what they should be made to listen to. I recommend\
-    \ Scriabin's \u2018Poem Of Ecstasy\u2019, Op.54.\u201D\n\nScriabin\_: tiny little\
-    \ hands"
+  text: 'A friend of mine posted a Facebook Facecloth message, saying she is DJing
+    tonight and has no idea what records to play, asking for tips on what "the kids"
+    are listening to these days.
+
+    I replied: "It''s not what the kids are listening to, it''s what they should be
+    made to listen to. I recommend Scriabin''s ''Poem Of Ecstasy'', Op.54."
+
+
+    Scriabin : tiny little hands'
   title: The Young Person's Guide To Music Appreciation
 word_count: 71

@@ -2,9 +2,6 @@ ngrams:
 - - flip
   - gaunt
   - horrible
-- - kiosk
-  - argumentative
-  - boisterous
 - - horrible
   - ill
   - jaded
@@ -17,9 +14,6 @@ ngrams:
 - - song
   - flip
   - gaunt
-- - beatles
-  - song
-  - flip
 - - cardboard
   - slip
   - accordingly
@@ -32,15 +26,19 @@ ngrams:
 - - otters
   - mark
   - your
+- - double
+  - otters
+  - if
 story:
   date: 2016-04-05
   id: 2016-04-05-double-otters
-  text: "If you are in the vicinity of a riverbank, and you see two otters, this is\
-    \ known as Double Otters. Mark your little dun cardboard slip accordingly, in\
-    \ pencil, and take it to the kiosk. The man at the kiosk\u2014argumentative, boisterous,\
-    \ catarrh-riddled, dismal, eggy (as in the Beatles\u2019 song), flip, gaunt, horrible,\
-    \ ill, jaded, knock-knee'd, lascivious, mordant\u2014will exchange your slip for\
-    \ a prize, usually a biro or a balloon.\nHe is a fallen man. When you are not\
-    \ looking, he will blub into a napkin."
+  text: 'If you are in the vicinity of a riverbank, and you see two otters, this is
+    known as Double Otters. Mark your little dun cardboard slip accordingly, in pencil,
+    and take it to the kiosk. The man at the kiosk--argumentative, boisterous, catarrh-riddled,
+    dismal, eggy (as in the Beatles'' song), flip, gaunt, horrible, ill, jaded, knock-knee''d,
+    lascivious, mordant--will exchange your slip for a prize, usually a biro or a
+    balloon.
+
+    He is a fallen man. When you are not looking, he will blub into a napkin.'
   title: Double Otters
-word_count: 89
+word_count: 87

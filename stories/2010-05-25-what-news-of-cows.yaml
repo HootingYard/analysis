@@ -1,10 +1,10 @@
 ngrams:
+- - uber
+  - suggests
+  - astonishingly
 - - bearded
   - david
   - blunkett
-- - system
-  - het
-  - internet
 - - blind
   - bearded
   - david
@@ -41,13 +41,17 @@ ngrams:
 story:
   date: 2010-05-25
   id: 2010-05-25-what-news-of-cows
-  text: "If I am to believe the findings of the Unofficial Bl\xF6tzmann System\u2122\
-    \ Het Internet \xDCbersurvey of twenty million fluffyheads\u2014and why should\
-    \ I not?\u2014then I must accept that three out of every four visitors to Hooting\
-    \ Yard alight here to discover the very latest in cow news.\n\nA related survey,\
-    \ not quite as \xFCber, suggests, astonishingly, that not all cow news involves\
-    \ the tragic figure of blind, bearded David Blunkett. While I try to get my head\
-    \ around that, you may wish to read and digest this thrilling tale of attempted\
-    \ cow tipping at Wagner Farm.\nCow picture courtesy of an inexplicable world."
+  text: 'If I am to believe the findings of the Unofficial Blotzmann System(tm) Het
+    Internet Ubersurvey of twenty million fluffyheads--and why should I not?--then
+    I must accept that three out of every four visitors to Hooting Yard alight here
+    to discover the very latest in cow news.
+
+
+    A related survey, not quite as uber, suggests, astonishingly, that not all cow
+    news involves the tragic figure of blind, bearded David Blunkett. While I try
+    to get my head around that, you may wish to read and digest this thrilling tale
+    of attempted cow tipping at Wagner Farm.
+
+    Cow picture courtesy of an inexplicable world.'
   title: What News Of Cows?
-word_count: 109
+word_count: 108

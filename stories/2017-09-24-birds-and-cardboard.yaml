@@ -1,7 +1,4 @@
 ngrams:
-- - cardboard
-  - melanie
-  - phillips
 - - world
   - turned
   - upside
@@ -14,12 +11,16 @@ ngrams:
 - - church
   - by
   - sean
+- - church
+  - was
+  - urged
 story:
   date: 2017-09-24
   id: 2017-09-24-birds-and-cardboard
-  text: "\u201CThe church was urged to develop \u2018bird liturgies which energise\
-    \ the human spirit\u2019 and recycling programs to tap into \u2018the healing\
-    \ power of cardboard\u2019.\u201D\nMelanie Phillips, The World Turned Upside Down\
-    \ (2010), citing The Greening Of The Church by Sean McDonagh (1990)."
+  text: '"The church was urged to develop ''bird liturgies which energise the human
+    spirit'' and recycling programs to tap into ''the healing power of cardboard''."
+
+    Melanie Phillips, The World Turned Upside Down (2010), citing The Greening Of
+    The Church by Sean McDonagh (1990).'
   title: Birds And Cardboard
 word_count: 43

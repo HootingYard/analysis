@@ -2,15 +2,15 @@ ngrams:
 - - dabbler
   - christmas
   - compendium
-- - saves
-  - one's
-  - words
 - - words
-  - o
+  - o'
   - wisdom
 - - one's
   - words
-  - o
+  - o'
+- - saves
+  - one's
+  - words
 - - one's
   - choosing
   - those
@@ -29,10 +29,12 @@ ngrams:
 story:
   date: 2010-12-27
   id: 2010-12-27-mr-keys-contribution-to-the-dabbler-christmas-compendium
-  text: "\nI must investigate the means by which one can schedule postages in advance,\
-    \ where one saves one's words o\u2019 wisdom as a draft and then they plop into\
-    \ place on the blog at a date and time of one's choosing. Those Dabbler people\
-    \ know all about such interweb magic, and so, today, you can read why (nearly)\
-    \ every day is Christmas inside my head"
+  text: '
+
+    I must investigate the means by which one can schedule postages in advance, where
+    one saves one''s words o'' wisdom as a draft and then they plop into place on
+    the blog at a date and time of one''s choosing. Those Dabbler people know all
+    about such interweb magic, and so, today, you can read why (nearly) every day
+    is Christmas inside my head'
   title: Mr Key's Contribution To The Dabbler Christmas Compendium
 word_count: 72

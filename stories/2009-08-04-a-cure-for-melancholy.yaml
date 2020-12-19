@@ -14,10 +14,7 @@ ngrams:
 - - most
   - efficacious
   - cure
-- - burton
-  - s
-  - only
-- - s
+- - burton's
   - only
   - relief
 - - ease
@@ -38,16 +35,20 @@ ngrams:
 - - only
   - relief
   - from
+- - have
+  - always
+  - thought
 story:
   date: 2009-08-04
   id: 2009-08-04-a-cure-for-melancholy
-  text: "I have always thought the most efficacious cure for melancholy was to lean\
-    \ on the fence of a sty and watch pigs. Help is at hand, however, for the pig-bereft\
-    \ melancholic seeking to ease their woes. Dan Chambers sent me an extract from\
-    \ an email from his Pa:\nIn his preface to The Anatomy of Melancholy Burton explains\
-    \ that he wrote the book to rid himself of his own melancholia. This it failed\
-    \ to do; Bishop Kennet wrote that Burton\u2018s only relief from despondency was\
-    \ to lean over the footbridge at Oxford and listen to the bargemen swearing at\
-    \ each other."
+  text: 'I have always thought the most efficacious cure for melancholy was to lean
+    on the fence of a sty and watch pigs. Help is at hand, however, for the pig-bereft
+    melancholic seeking to ease their woes. Dan Chambers sent me an extract from an
+    email from his Pa:
+
+    In his preface to The Anatomy of Melancholy Burton explains that he wrote the
+    book to rid himself of his own melancholia. This it failed to do; Bishop Kennet
+    wrote that Burton''s only relief from despondency was to lean over the footbridge
+    at Oxford and listen to the bargemen swearing at each other.'
   title: A Cure For Melancholy
-word_count: 106
+word_count: 105

@@ -2,9 +2,6 @@ ngrams:
 - - fine
   - seed
   - jupiter
-- - indian
-  - club
-  - john
 - - black
   - currant
   - mars
@@ -35,15 +32,17 @@ ngrams:
 - - cherry
   - by
   - putting
+- - if
+  - we
+  - represent
 story:
   date: 2004-11-21
   id: 2004-11-21-if-we-represent-the-sun-by-a
-  text: "\u201CIf we represent the sun by a gourd, twenty inches in diameter, Mercury\
-    \ will seem a bilberry, Venus a white currant, the Earth a black currant, Mars\
-    \ a red currant, the planetoids as fine seed, Jupiter an orange or peach, Saturn\
-    \ a nectarine or greengage, Uranus a red cherry, and Neptune a white cherry. By\
-    \ putting the sun and planets in a row, and drawing a contour of the whole, we\
-    \ obtain the figure of a dirk, a bodkin, or an Indian club.\u201D \u2014 John\
-    \ Munro, A Trip To Venus"
-  title: "\u201CIf we represent the sun by a\u2026\u201D"
-word_count: 96
+  text: '"If we represent the sun by a gourd, twenty inches in diameter, Mercury will
+    seem a bilberry, Venus a white currant, the Earth a black currant, Mars a red
+    currant, the planetoids as fine seed, Jupiter an orange or peach, Saturn a nectarine
+    or greengage, Uranus a red cherry, and Neptune a white cherry. By putting the
+    sun and planets in a row, and drawing a contour of the whole, we obtain the figure
+    of a dirk, a bodkin, or an Indian club." -- John Munro, A Trip To Venus'
+  title: '"If we represent the sun by a..."'
+word_count: 97

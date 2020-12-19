@@ -1,31 +1,7 @@
 ngrams:
-- - cello
-  - piano
-  - gabriel
-- - frostbitten
-  - gay
-  - bar
-- - gay
-  - bar
-  - impaled
-- - bar
-  - impaled
-  - northern
-- - richard
-  - strauss
-  - fruits
-- - songs
-  - richard
-  - strauss
-- - last
-  - songs
-  - richard
 - - special
   - mention
   - must
-- - four
-  - last
-  - songs
 - - mention
   - must
   - go
@@ -47,19 +23,54 @@ ngrams:
 - - time
   - flies
   - here
+- - fact
+  - how
+  - time
+- - light
+  - pours
+  - out
+- - all
+  - ears
+  - it's
+- - well
+  - hear
+  - if
+- - since
+  - we
+  - last
+- - it's
+  - an
+  - extraordinarily
 story:
   date: 2006-03-28
   id: 2006-03-28-all-ears
-  text: "It's an extraordinarily long time since we last had a Hooting Yard playlist,\
-    \ way back on 7th October 2004 in fact. How time flies. Here, then, are ten pieces\
-    \ of music that you might well hear if you happen to be wandering past the serried\
-    \ belvederes of Haemoglobin Towers. In alphabetical order by title:\nElegie for\
-    \ cello & piano\u2014Gabriel Faur\xE9\nEl Pueblo Unido Jamas Cera Vencido\u2014\
-    Quilapayun\nFour Last Songs\u2014Richard Strauss\nFruits Of My Labour\u2014Lucinda\
-    \ Williams\nGet Up\u2014Sleater-Kinney\nLakes Of Pontchartrain\u2014The Be Good\
-    \ Tanyas\nNoye's Fludd\u2014Benjamin Britten\nThe Light Pours Out Of Me\u2014\
-    Magazine\nThe Unborn Byron\u2014Slapp Happy\nTow-Truck\u2014Picastro\nAnd a special\
-    \ mention must go to an eleventh piece, if only for the title:\nGrim And Frostbitten\
-    \ Gay Bar\u2014Impaled Northern Moonforest"
+  text: 'It''s an extraordinarily long time since we last had a Hooting Yard playlist,
+    way back on 7th October 2004 in fact. How time flies. Here, then, are ten pieces
+    of music that you might well hear if you happen to be wandering past the serried
+    belvederes of Haemoglobin Towers. In alphabetical order by title:
+
+    Elegie for cello & piano--Gabriel Faure
+
+    El Pueblo Unido Jamas Cera Vencido--Quilapayun
+
+    Four Last Songs--Richard Strauss
+
+    Fruits Of My Labour--Lucinda Williams
+
+    Get Up--Sleater-Kinney
+
+    Lakes Of Pontchartrain--The Be Good Tanyas
+
+    Noye''s Fludd--Benjamin Britten
+
+    The Light Pours Out Of Me--Magazine
+
+    The Unborn Byron--Slapp Happy
+
+    Tow-Truck--Picastro
+
+    And a special mention must go to an eleventh piece, if only for the title:
+
+    Grim And Frostbitten Gay Bar--Impaled Northern Moonforest'
   title: All Ears
-word_count: 130
+word_count: 119

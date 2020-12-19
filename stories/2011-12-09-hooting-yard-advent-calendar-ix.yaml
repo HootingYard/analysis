@@ -1,10 +1,4 @@
 ngrams:
-- - n
-  - slops
-  - yum
-- - pap
-  - n
-  - slops
 - - voila
   - today's
   - picture
@@ -20,13 +14,21 @@ ngrams:
 - - yard
   - advent
   - calendar
+- - hooting
+  - yard
+  - advent
+- - your
+  - bed
+  - whimpering
 story:
   date: 2011-12-09
   id: 2011-12-09-hooting-yard-advent-calendar-ix
-  text: "Yesterday's advent calendar picture was so terrifying that you have probably\
-    \ had a fit of the vapours and taken to your bed, whimpering and neurasthenic.\
-    \ In such circumstances, you will be subsisting on a diet of invalid food, so\
-    \ voila! today's picture shows a lovely bowl of pap \u2018n\u2019 slops. Yum!\n\
-    \nfrom Toast"
+  text: 'Yesterday''s advent calendar picture was so terrifying that you have probably
+    had a fit of the vapours and taken to your bed, whimpering and neurasthenic. In
+    such circumstances, you will be subsisting on a diet of invalid food, so voila!
+    today''s picture shows a lovely bowl of pap ''n'' slops. Yum!
+
+
+    from Toast'
   title: Hooting Yard Advent Calendar (ix)
 word_count: 58

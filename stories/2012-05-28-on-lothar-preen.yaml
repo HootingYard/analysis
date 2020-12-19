@@ -35,6 +35,9 @@ ngrams:
 - - world's
   - current
   - financial
+- - charles
+  - hawtrey
+  - '-'
 - - precocious
   - musical
   - genius
@@ -143,9 +146,6 @@ ngrams:
 - - pretty
   - little
   - towpath
-- - last
-  - analysis
-  - actually
 - - lothar
   - preen
   - after
@@ -185,9 +185,6 @@ ngrams:
 - - after
   - death
   - save
-- - pretty
-  - little
-  - birds
 - - its
   - anonymous
   - purchaser
@@ -377,6 +374,9 @@ ngrams:
 - - birds
   - are
   - savaged
+- - why
+  - we
+  - remember
 story:
   date: 2012-05-28
   id: 2012-05-28-on-lothar-preen
@@ -393,17 +393,17 @@ story:
     \ been buried, just to make sure he was actually dead and gone. That is when they\
     \ saw the worms, gobbling up what was left of the maestro, by the light of their\
     \ tarry torches on a foul October night. The churchyard did not look so pretty\
-    \ then.\nSome said that is how he would be remembered, as supper for worms\u2014\
-    the worms that had even gnawed through his conductor's baton, which was buried\
-    \ with him, alongside his favourite tea-strainer and oodles upon oodles of unpaid\
-    \ bills. But of course that is not why we remember Lothar Preen today. We remember\
-    \ him for the magnificent recordings of The Phlogiston Variations, of Clamp's\
-    \ Fifth, of The Pretty Little Tea-Strainers song cycle. We remember him, too,\
-    \ for the incident in a Marseilles dockyard tavern when he stabbed a rival maestro\
-    \ in the eye, as if he were Marlowe, and for the many many wells he poisoned,\
-    \ and for feeding that cellist into a sausage mincer. He was never convicted of\
-    \ any of these crimes, for it was said he committed them when the balance of his\
-    \ mind was disturbed, when he was unhinged. But quite frankly, was he ever hinged,\
+    \ then.\nSome said that is how he would be remembered, as supper for worms--the\
+    \ worms that had even gnawed through his conductor's baton, which was buried with\
+    \ him, alongside his favourite tea-strainer and oodles upon oodles of unpaid bills.\
+    \ But of course that is not why we remember Lothar Preen today. We remember him\
+    \ for the magnificent recordings of The Phlogiston Variations, of Clamp's Fifth,\
+    \ of The Pretty Little Tea-Strainers song cycle. We remember him, too, for the\
+    \ incident in a Marseilles dockyard tavern when he stabbed a rival maestro in\
+    \ the eye, as if he were Marlowe, and for the many many wells he poisoned, and\
+    \ for feeding that cellist into a sausage mincer. He was never convicted of any\
+    \ of these crimes, for it was said he committed them when the balance of his mind\
+    \ was disturbed, when he was unhinged. But quite frankly, was he ever hinged,\
     \ from the moment he first became conscious, in the pretty little convent hospital\
     \ of St Spivack's, as his mother lay dying?\nHis childhood alone is a tale of\
     \ unhingements, best avoided by those without strong stomachs. For every example\
@@ -429,32 +429,31 @@ story:
     \ quite apart from all the murders and stabbings and slicings and loppings and\
     \ poisonings and stranglings and other grim and grisly doings, was capable, in\
     \ what we might call his more humane moments, of gathering together thousands\
-    \ of pretty little birds\u2014siskins and linnets and wrens and hummingbirds and\
-    \ jackdaws\u2014and training them to sing the long, complex, and breathtakingly\
-    \ beautiful choruses from Prog's comic opera based on the life of Charles Hawtrey\
-    \ (1914\u20131988). That the maestro devised his own grand finale, in which the\
-    \ birds are savaged by cats and then electrocuted one by one, we may deplore yet\
-    \ recognise as a characteristic and ineffable Preenian touch.\n\u201CPreenian\u201D\
-    , \u201CPreenesque\u201D, \u201CPreenish\u201D. It is a mark of his genius, perhaps,\
-    \ that none of these words has entered the vocabulary. In the last analysis\u2014\
-    actually, in the first analysis\u2014he was simply unique. Did those worms beneath\
-    \ the soil in the pretty little churchyard of St Bibblybibdib's know how fortunate\
-    \ they were, to be gnawing and munching the rotting remains of the great maestro?\
-    \ One bit of him, of course, they did not get to eat, and that was the bouffant,\
-    \ which was removed from his head before burial, and placed in a preserving jar.\
-    \ It has had its own adventures. Initially sold at auction in order to settle\
-    \ at least one of the debts he left unpaid, the bouffant-in-a-jar was stolen from\
-    \ its (anonymous) purchaser, who was found, the morning after the sale, chopped\
-    \ into a thousand pieces. It was next seen adorning the beer-stained counter of\
-    \ a tavern in a particularly sordid Marseilles tavern, but disappeared after a\
-    \ knife-fight among thugs. A year or so later, it turned up next to a waste bin\
-    \ on a pretty little towpath next to an unimportant canal. The bouffant, in its\
-    \ jar, is currently thought to be under lock and key in a bank vault, though by\
-    \ all accounts it is the kind of vault, and the kind of bank, favoured by criminal\
+    \ of pretty little birds--siskins and linnets and wrens and hummingbirds and jackdaws--and\
+    \ training them to sing the long, complex, and breathtakingly beautiful choruses\
+    \ from Prog's comic opera based on the life of Charles Hawtrey (1914-1988). That\
+    \ the maestro devised his own grand finale, in which the birds are savaged by\
+    \ cats and then electrocuted one by one, we may deplore yet recognise as a characteristic\
+    \ and ineffable Preenian touch.\n\"Preenian\", \"Preenesque\", \"Preenish\". It\
+    \ is a mark of his genius, perhaps, that none of these words has entered the vocabulary.\
+    \ In the last analysis--actually, in the first analysis--he was simply unique.\
+    \ Did those worms beneath the soil in the pretty little churchyard of St Bibblybibdib's\
+    \ know how fortunate they were, to be gnawing and munching the rotting remains\
+    \ of the great maestro? One bit of him, of course, they did not get to eat, and\
+    \ that was the bouffant, which was removed from his head before burial, and placed\
+    \ in a preserving jar. It has had its own adventures. Initially sold at auction\
+    \ in order to settle at least one of the debts he left unpaid, the bouffant-in-a-jar\
+    \ was stolen from its (anonymous) purchaser, who was found, the morning after\
+    \ the sale, chopped into a thousand pieces. It was next seen adorning the beer-stained\
+    \ counter of a tavern in a particularly sordid Marseilles tavern, but disappeared\
+    \ after a knife-fight among thugs. A year or so later, it turned up next to a\
+    \ waste bin on a pretty little towpath next to an unimportant canal. The bouffant,\
+    \ in its jar, is currently thought to be under lock and key in a bank vault, though\
+    \ by all accounts it is the kind of vault, and the kind of bank, favoured by criminal\
     \ gangs planning heists which can later be immortalised on screen.\nLothar Preen\
     \ himself has never been depicted in a film. No cinema would dare to show it.\n\
     Fourteen fifteen sixteen seventeen. I am the maestro Lothar Preen.\n  Eighteen\
     \ nineteen twenty twenty-one. When I am gone they will blot out the sun.\nAnd\
     \ they did. It is still pitch dark."
   title: On Lothar Preen
-word_count: 1015
+word_count: 1011

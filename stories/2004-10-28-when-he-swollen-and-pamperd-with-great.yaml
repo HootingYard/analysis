@@ -2,22 +2,22 @@ ngrams:
 - - john
   - donne
   - jealousy
-- - chair
-  - john
-  - donne
-- - basket
-  - chair
-  - john
 - - great
   - fare
   - sits
 - - fare
   - sits
   - down
+- - his
+  - basket
+  - chair
+- - with
+  - great
+  - fare
 story:
   date: 2004-10-28
   id: 2004-10-28-when-he-swollen-and-pamperd-with-great
-  text: "\u201CWhen he, swollen and pamper'd with great fare, Sits down and snorts,\
-    \ caged in his basket chair\u201D \u2014 John Donne, Jealousy"
-  title: "\u201CWhen he, swollen and pamper'd with great\u2026\u201D"
-word_count: 27
+  text: '"When he, swollen and pamper''d with great fare, Sits down and snorts, caged
+    in his basket chair" -- John Donne, Jealousy'
+  title: '"When he, swollen and pamper''d with great..."'
+word_count: 28

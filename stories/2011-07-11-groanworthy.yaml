@@ -5,9 +5,6 @@ ngrams:
 - - joe
   - archibald
   - called
-- - great
-  - max
-  - d
 - - those
   - fine
   - purveyors
@@ -23,10 +20,9 @@ ngrams:
 story:
   date: 2011-07-11
   id: 2011-07-11-groanworthy
-  text: "Newly available from Munsey's, those fine purveyors of out of copyright e-books,\
-    \ is a yarn by Joe Archibald called \u201CHow Green Was My Valet\u201D. File it\
-    \ on your e-book e-shelf alongside those titles devised some years ago by the\
-    \ great Max D\xE9charn\xE9, \u201CDr Terror's House Of Horace\u201D and \u201C\
-    When Dinah Shore Ruled The Earth\u201D."
+  text: Newly available from Munsey's, those fine purveyors of out of copyright e-books,
+    is a yarn by Joe Archibald called "How Green Was My Valet". File it on your e-book
+    e-shelf alongside those titles devised some years ago by the great Max Decharne,
+    "Dr Terror's House Of Horace" and "When Dinah Shore Ruled The Earth".
   title: Groanworthy
-word_count: 56
+word_count: 55

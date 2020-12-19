@@ -1,7 +1,4 @@
 ngrams:
-- - clean
-  - table
-  - norton
 - - argue
   - all
   - day
@@ -14,11 +11,14 @@ ngrams:
 - - could
   - argue
   - all
+- - religious
+  - rituals
+  - but
 story:
   date: 2003-12-18
   id: 2003-12-18-i-could-argue-all-day-about-the
-  text: "\u201CI could argue all day about the significance of facing east in religious\
-    \ rituals, but a clean table is a clean table.\u201D \u2014 Norton I, Emperor\
-    \ of the United States."
-  title: "\u201CI could argue all day about the\u2026\u201D"
-word_count: 36
+  text: '"I could argue all day about the significance of facing east in religious
+    rituals, but a clean table is a clean table." -- Norton I, Emperor of the United
+    States.'
+  title: '"I could argue all day about the..."'
+word_count: 37

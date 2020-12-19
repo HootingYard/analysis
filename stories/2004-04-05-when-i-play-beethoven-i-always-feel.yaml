@@ -5,20 +5,20 @@ ngrams:
 - - black
   - stains
   - caused
-- - being
-  - removed
-  - alma
 - - always
   - feel
   - when
 - - wagner
   - were
   - being
+- - were
+  - being
+  - removed
 story:
   date: 2004-04-05
   id: 2004-04-05-when-i-play-beethoven-i-always-feel
-  text: "\u201CWhen I play Beethoven, I always feel as if my soul were at the dry\
-    \ cleaners, and that the ugly black stains caused by the impurities and nervous\
-    \ trauma of Wagner were being removed.\u201D \u2014 Alma Mahler-Werfel, Diaries"
-  title: "\u201CWhen I play Beethoven, I always feel\u2026\u201D"
-word_count: 44
+  text: '"When I play Beethoven, I always feel as if my soul were at the dry cleaners,
+    and that the ugly black stains caused by the impurities and nervous trauma of
+    Wagner were being removed." -- Alma Mahler-Werfel, Diaries'
+  title: '"When I play Beethoven, I always feel..."'
+word_count: 45

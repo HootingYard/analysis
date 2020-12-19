@@ -5,9 +5,6 @@ ngrams:
 - - unguents
   - poultices
   - swollen
-- - drake
-  - bass
-  - guitars
 - - edgar
   - allen
   - poe's
@@ -17,9 +14,6 @@ ngrams:
 - - player
   - mastering
   - wiz
-- - bass
-  - guitars
-  - chris
 - - mastering
   - wiz
   - bob
@@ -32,9 +26,6 @@ ngrams:
 - - bass
   - player
   - mastering
-- - guitars
-  - chris
-  - cutler
 - - wiz
   - bob
   - drake
@@ -44,9 +35,6 @@ ngrams:
 - - poppy
   - rampant
   - batch
-- - bob
-  - drake
-  - bass
 - - amazon
   - com
   - editorial
@@ -59,12 +47,6 @@ ngrams:
 - - spelled
   - allan
   - correctly
-- - chris
-  - cutler
-  - drums
-- - cutler
-  - drums
-  - electrified
 - - poultices
   - swollen
   - diagrams
@@ -77,9 +59,6 @@ ngrams:
 - - swollen
   - diagrams
   - purposeless
-- - drums
-  - electrified
-  - kit
 - - unabashed
   - advertisement
   - feature
@@ -104,42 +83,73 @@ ngrams:
 - - bob
   - drake
   - writes
-- - liner
-  - notes
-  - illustrations
 - - notes
   - illustrations
   - naming
 - - delight
   - visit
   - chris
+- - drake
+  - writes
+  - th
+- - ventures
+  - surf
+  - music
+- - bob's
+  - informative
+  - letter
+- - album
+  - track
+  - titles
+- - writes
+  - th
+  - december
+- - online
+  - art
+  - tutorial
+- - studio
+  - trickery
+  - it's
 story:
   date: 2003-12-16
   id: 2003-12-16-unabashed-advertisement-feature
-  text: "Go immediately to the ReR Megacorp and buy this album:\n\nHere are some of\
-    \ the credits:\nLukas Simonis\u2014guitars & mandolin. Bob Drake\u2014bass & guitars.\
-    \ Chris Cutler\u2014drums & electrified kit. Frank Key\u2014liner notes & illustrations,\
-    \ naming of album & track titles.\nYou can see a larger version of the cover here,\
-    \ read some of the liner notes (among other things) here, or for your general\
-    \ edification and delight visit Chris and Bob. Incidentally, Bob has a magnificent\
-    \ online art tutorial which is highly recommended.\nHere is the Amazon.com editorial\
-    \ review :\n\u201CVril is an adrenalized, poppy, rampant batch of rock guitar\
-    \ instrumentals. The Shadows, The Ventures, Surf music, early Hendrix are invoked,\
-    \ but they're all put through the intense mangle of 21st century thinking and\
-    \ studio trickery. It's a twangy guitar album gone mad, complete with a fascinating\
-    \ art-and-texts booklet which reads like a liner notes by Edgar Allen Poe. The\
-    \ album features three unlikely avant-garde musicians: Dutch guitarist Lukas Simonis,\
-    \ bass player/mastering wiz Bob Drake and famed percussionist Chris Cutler.\u201D\
-    \nBreathless prose, eh? Flattering though it may be to be compared to the great\
-    \ neurasthenic one, I'm not sure I see the connection.* And couldn't they have\
-    \ spelled Allan correctly?\n* NOTE : Bob Drake writes (17th December 2003) : \u201C\
-    It is true. Have you not read any of Edgar Allen Poe's work? (Not to be confused\
-    \ with Edgar Allan Poe.) He mentions stolen paint, calcium, unguents, poultices,\
-    \ swollen diagrams, purposeless turnips, cilliated plumula, and cormorants in\
-    \ every one of his works.\u201D To enrich your experience of Bob's informative\
-    \ letter, I have added those links so you can see what he's talking about. But\
-    \ beware! Following any of them will lead you away from Hooting Yard\u2014possibly\
-    \ pursued by big fearsome owls\u2014so do make sure you come back\n\nYou know,\
-    \ Virginia Woolf was right!"
+  text: 'Go immediately to the ReR Megacorp and buy this album:
+
+
+    Here are some of the credits:
+
+    Lukas Simonis--guitars & mandolin. Bob Drake--bass & guitars. Chris Cutler--drums
+    & electrified kit. Frank Key--liner notes & illustrations, naming of album & track
+    titles.
+
+    You can see a larger version of the cover here, read some of the liner notes (among
+    other things) here, or for your general edification and delight visit Chris and
+    Bob. Incidentally, Bob has a magnificent online art tutorial which is highly recommended.
+
+    Here is the Amazon.com editorial review :
+
+    "Vril is an adrenalized, poppy, rampant batch of rock guitar instrumentals. The
+    Shadows, The Ventures, Surf music, early Hendrix are invoked, but they''re all
+    put through the intense mangle of 21st century thinking and studio trickery. It''s
+    a twangy guitar album gone mad, complete with a fascinating art-and-texts booklet
+    which reads like a liner notes by Edgar Allen Poe. The album features three unlikely
+    avant-garde musicians: Dutch guitarist Lukas Simonis, bass player/mastering wiz
+    Bob Drake and famed percussionist Chris Cutler."
+
+    Breathless prose, eh? Flattering though it may be to be compared to the great
+    neurasthenic one, I''m not sure I see the connection.* And couldn''t they have
+    spelled Allan correctly?
+
+    * NOTE : Bob Drake writes (17th December 2003) : "It is true. Have you not read
+    any of Edgar Allen Poe''s work? (Not to be confused with Edgar Allan Poe.) He
+    mentions stolen paint, calcium, unguents, poultices, swollen diagrams, purposeless
+    turnips, cilliated plumula, and cormorants in every one of his works." To enrich
+    your experience of Bob''s informative letter, I have added those links so you
+    can see what he''s talking about. But beware! Following any of them will lead
+    you away from Hooting Yard--possibly pursued by big fearsome owls--so do make
+    sure you come back
+
+
+    You know, Virginia Woolf was right!'
   title: Unabashed Advertisement Feature
-word_count: 304
+word_count: 298

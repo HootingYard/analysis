@@ -1,23 +1,23 @@
 ngrams:
-- - country
-  - johnson
-  - hooper
-- - new
-  - country
-  - johnson
-- - johnson
-  - hooper
-  - some
 - - hooper
   - some
   - adventures
 - - be
   - shifty
   - in
+- - good
+  - thing
+  - to
+- - it's
+  - a
+  - good
+- - a
+  - new
+  - country
 story:
   date: 2007-07-03
   id: 2007-07-03-quote-of-the-day
-  text: "\u201CIt's a good thing to be shifty in a new country\u201D\u2014Johnson\
-    \ Hooper, Some Adventures of Captain Simon Suggs (1845)."
+  text: '"It''s a good thing to be shifty in a new country"--Johnson Hooper, Some
+    Adventures of Captain Simon Suggs (1845).'
   title: Quote Of The Day
 word_count: 23

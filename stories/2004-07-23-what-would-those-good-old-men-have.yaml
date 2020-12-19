@@ -11,9 +11,6 @@ ngrams:
 - - hundred
   - thousand
   - metal
-- - man
-  - chauncey
-  - jerome
 - - two
   - hundred
   - thousand
@@ -26,17 +23,20 @@ ngrams:
 - - make
   - two
   - hundred
-- - old
-  - man
-  - chauncey
+- - those
+  - good
+  - old
+- - those
+  - good
+  - old
 story:
   date: 2004-07-23
   id: 2004-07-23-what-would-those-good-old-men-have
-  text: "\u201CWhat would those good old men have thought when they were laughing\
-    \ at and ridiculing Mr. Terry, if they had known that the little urchin who was\
-    \ so eagerly listening to their conversation would live to make Two Hundred Thousand\
-    \ metal clocks in one year, and many millions in his life. They have probably\
-    \ been dead for years, that little boy is now an old man.\u201D \u2014 Chauncey\
-    \ Jerome, History Of The American Clock Business For The Past Sixty Years"
-  title: "\u201CWhat would those good old men have\u2026\u201D"
-word_count: 86
+  text: '"What would those good old men have thought when they were laughing at and
+    ridiculing Mr. Terry, if they had known that the little urchin who was so eagerly
+    listening to their conversation would live to make Two Hundred Thousand metal
+    clocks in one year, and many millions in his life. They have probably been dead
+    for years, that little boy is now an old man." -- Chauncey Jerome, History Of
+    The American Clock Business For The Past Sixty Years'
+  title: '"What would those good old men have..."'
+word_count: 87

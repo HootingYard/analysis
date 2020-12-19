@@ -32,9 +32,6 @@ ngrams:
 - - them
   - gave
   - him
-- - legs
-  - anon
-  - an
 - - maid
   - bringing
   - one
@@ -47,18 +44,23 @@ ngrams:
 - - so
   - enraged
   - him
+- - bringing
+  - one
+  - day
+- - till
+  - be
+  - fancied
 story:
   date: 2004-01-28
   id: 2004-01-28-the-other-case-as-related-by-van
-  text: "\u201CThe other case, as related by Van Swieten, in his commentaries upon\
-    \ Boerhaave, is that of a learned man, who had studied, till be fancied his legs\
-    \ to be of glass: in consequence of which he durst not attempt to stir, but was\
-    \ constantly under anxiety about them. His maid bringing one day some wood to\
-    \ the fire, threw it carelessly down; and was severely reprimanded by her master,\
-    \ who was terrified not a little for his legs of glass. The surly wench, out of\
-    \ all patience with his megrims, as she called them, gave him a blow with a log\
-    \ upon the parts affected; which so enraged him, that he instantly rose up, and\
-    \ from that moment recovered the use of his legs.\u201D \u2014 Anon (\u201CAn\
-    \ Oxonian\u201D), Thaumaturgia"
-  title: "\u201CThe other case, as related by Van\u2026\u201D"
-word_count: 135
+  text: '"The other case, as related by Van Swieten, in his commentaries upon Boerhaave,
+    is that of a learned man, who had studied, till be fancied his legs to be of glass:
+    in consequence of which he durst not attempt to stir, but was constantly under
+    anxiety about them. His maid bringing one day some wood to the fire, threw it
+    carelessly down; and was severely reprimanded by her master, who was terrified
+    not a little for his legs of glass. The surly wench, out of all patience with
+    his megrims, as she called them, gave him a blow with a log upon the parts affected;
+    which so enraged him, that he instantly rose up, and from that moment recovered
+    the use of his legs." -- Anon ("An Oxonian"), Thaumaturgia'
+  title: '"The other case, as related by Van..."'
+word_count: 136

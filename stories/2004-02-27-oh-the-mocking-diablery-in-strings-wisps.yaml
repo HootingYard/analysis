@@ -11,18 +11,18 @@ ngrams:
 - - strings
   - wisps
   - oh
-- - man
-  - absurd
-  - dorothy
 - - render
   - man
   - absurd
+- - what
+  - dress
+  - makes
 story:
   date: 2004-02-27
   id: 2004-02-27-oh-the-mocking-diablery-in-strings-wisps
-  text: "\u201COh! the mocking diablery in strings, wisps of untidy hair, queer trimmings,\
-    \ and limp hats. Alas! that they should have such impish power to detract from\
-    \ the dignity of woman and render man absurd.\u201D \u2014 Dorothy Quigley, What\
-    \ Dress Makes Of Us (1897)"
-  title: "\u201COh! the mocking diablery in strings, wisps\u2026\u201D"
-word_count: 48
+  text: '"Oh! the mocking diablery in strings, wisps of untidy hair, queer trimmings,
+    and limp hats. Alas! that they should have such impish power to detract from the
+    dignity of woman and render man absurd." -- Dorothy Quigley, What Dress Makes
+    Of Us (1897)'
+  title: '"Oh! the mocking diablery in strings, wisps..."'
+word_count: 49

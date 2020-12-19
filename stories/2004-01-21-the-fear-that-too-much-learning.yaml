@@ -1,10 +1,4 @@
 ngrams:
-- - drums
-  - nicholson
-  - baker
-- - chemical
-  - drums
-  - nicholson
 - - leaking
   - chemical
   - drums
@@ -14,11 +8,17 @@ ngrams:
 - - eventually
   - turn
   - even
+- - too
+  - much
+  - learning
+- - too
+  - much
+  - learning
 story:
   date: 2004-01-21
   id: 2004-01-21-the-fear-that-too-much-learning
-  text: "\u201C\u2026 the fear that too much learning will eventually turn even an\
-    \ original mind into a large, putty-coloured regional storage facility of mislabelled\
-    \ and leaking chemical drums.\u201D \u2014 Nicholson Baker"
-  title: "\u201C\u2026 the fear that too much learning\u2026\u201D"
-word_count: 34
+  text: '"... the fear that too much learning will eventually turn even an original
+    mind into a large, putty-coloured regional storage facility of mislabelled and
+    leaking chemical drums." -- Nicholson Baker'
+  title: '"... the fear that too much learning..."'
+word_count: 35

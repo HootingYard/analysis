@@ -1,25 +1,27 @@
 ngrams:
+- - robert
+  - robinson
+  - '-'
 - - p
   - robert
   - robinson
-- - toilet
-  - paper
-  - obituary
 - - genuinely
   - placed
   - too
-- - paper
-  - obituary
-  - here
 - - too
   - much
   - importance
+- - placed
+  - too
+  - much
 story:
   date: 2011-08-13
   id: 2011-08-13-r-i-p
-  text: "Robert Robinson, 1927\u20132011\n\n\u201CHe genuinely placed too much importance\
-    \ on the value of words as meaningful and disinterested tools of thought and wisdom\
-    \ to accept money for delivering even a sincere favourable opinion of sausages\
-    \ or toilet paper.\u201D\u2014Obituary here."
+  text: 'Robert Robinson, 1927-2011
+
+
+    "He genuinely placed too much importance on the value of words as meaningful and
+    disinterested tools of thought and wisdom to accept money for delivering even
+    a sincere favourable opinion of sausages or toilet paper."--Obituary here.'
   title: R.I.P.
-word_count: 42
+word_count: 43

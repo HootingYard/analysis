@@ -1,7 +1,4 @@
 ngrams:
-- - gratification
-  - robert
-  - hughes
 - - robert
   - hughes
   - culture
@@ -17,12 +14,15 @@ ngrams:
 - - their
   - inner
   - adult
+- - child
+  - has
+  - taken
 story:
   date: 2006-03-21
   id: 2006-03-21-the-pursuit-of-the-inner-child-has
-  text: "\u201CThe pursuit of the Inner Child has taken over just at the moment when\
-    \ Americans ought to be figuring out where their Inner Adult is, and how that\
-    \ disregarded oldster got buried under the rubble of pop psychology and specious\
-    \ short-term gratification.\u201D \u2014 Robert Hughes, Culture Of Complaint"
-  title: "\u201CThe pursuit of the Inner Child has\u2026\u201D"
-word_count: 54
+  text: '"The pursuit of the Inner Child has taken over just at the moment when Americans
+    ought to be figuring out where their Inner Adult is, and how that disregarded
+    oldster got buried under the rubble of pop psychology and specious short-term
+    gratification." -- Robert Hughes, Culture Of Complaint'
+  title: '"The pursuit of the Inner Child has..."'
+word_count: 55

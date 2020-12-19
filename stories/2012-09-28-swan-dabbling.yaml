@@ -11,9 +11,6 @@ ngrams:
 - - sir
   - peter
   - maxwell
-- - brief
-  - explanatory
-  - text
 - - mine
   - sir
   - peter
@@ -23,13 +20,18 @@ ngrams:
 - - basically
   - an
   - excuse
+- - an
+  - urban
+  - swan
 story:
   date: 2012-09-28
   id: 2012-09-28-swan-dabbling
-  text: "\nEarlier in the week I posted one of my rare snaps, of an urban swan. It\
-    \ is reproduced today in my cupboard at The Dabbler, accompanied by a brief explanatory\
-    \ text\u2014a text which is basically an excuse to bang on for the umpteenth time\
-    \ about that curiously persistent obsession of mine, Sir Peter Maxwell Davies\
-    \ and his fondness for dining on electrocuted whooper swans."
+  text: '
+
+    Earlier in the week I posted one of my rare snaps, of an urban swan. It is reproduced
+    today in my cupboard at The Dabbler, accompanied by a brief explanatory text--a
+    text which is basically an excuse to bang on for the umpteenth time about that
+    curiously persistent obsession of mine, Sir Peter Maxwell Davies and his fondness
+    for dining on electrocuted whooper swans.'
   title: Swan Dabbling
-word_count: 67
+word_count: 66

@@ -1,43 +1,34 @@
 ngrams:
-- - counter
-  - productions
-  - yuletide
 - - resonance
   - auctions
   - proceeds
-- - legendary
-  - counter
-  - productions
 - - illustrated
   - originally
   - produced
 - - comments
   - closing
   - date
+- - o'
+  - wonders
+  - box
 - - pages
   - illustrated
   - originally
 - - sunday
   - st
   - april
-- - o
-  - wonders
-  - box
-- - productions
-  - yuletide
+- - yuletide
   - world
+  - o'
+- - world
+  - o'
+  - wonders
 - - yard
   - mercy
   - fund
-- - yuletide
-  - world
-  - o
 - - thought
   - i'd
   - keep
-- - world
-  - o
-  - wonders
 - - promised
   - last
   - week
@@ -47,18 +38,30 @@ ngrams:
 - - yard
   - auction
   - number
+- - might
+  - use
+  - ebay
+- - hooting
+  - yard
+  - auctions
+- - hooting
+  - yard
+  - auction
 story:
   date: 2007-03-25
   id: 2007-03-25-hooting-yard-auction-number-one
-  text: "As promised last week, here is the first in a series of Hooting Yard auctions.\
-    \ This is in the way of an experiment. I might use eBay in future, but I thought\
-    \ I'd keep this one on home turf and see what happens. Unlike the Resonance auctions,\
-    \ proceeds of this one go to the Hooting Yard Mercy Fund For Distressed Out Of\
-    \ Print Pamphleteers. Make your bid(s) in the Comments. Closing date is a week's\
-    \ time, midnight on Sunday 1st April.\nAnd what are you bidding for? A mint copy\
-    \ of Sidney The Bat Is Awarded The Order Of Lenin, which Mr Key will sign and\
-    \ add a note thanking the successful bidder. A5, 8 pages, illustrated, originally\
-    \ produced for the legendary Counter Productions\u2019 Yuletide World o\u2019\
-    \ Wonders box in 1990.\n"
+  text: 'As promised last week, here is the first in a series of Hooting Yard auctions.
+    This is in the way of an experiment. I might use eBay in future, but I thought
+    I''d keep this one on home turf and see what happens. Unlike the Resonance auctions,
+    proceeds of this one go to the Hooting Yard Mercy Fund For Distressed Out Of Print
+    Pamphleteers. Make your bid(s) in the Comments. Closing date is a week''s time,
+    midnight on Sunday 1st April.
+
+    And what are you bidding for? A mint copy of Sidney The Bat Is Awarded The Order
+    Of Lenin, which Mr Key will sign and add a note thanking the successful bidder.
+    A5, 8 pages, illustrated, originally produced for the legendary Counter Productions''
+    Yuletide World o'' Wonders box in 1990.
+
+    '
   title: Hooting Yard Auction Number One
 word_count: 135

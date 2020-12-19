@@ -50,18 +50,12 @@ ngrams:
 - - strip
   - pictures
   - blind
-- - history
-  - teachers
-  - neglect
 - - sentence
   - alone
   - contains
 - - previous
   - sentence
   - alone
-- - vain
-  - high
-  - deeds
 - - pictures
   - blind
   - jack
@@ -152,9 +146,6 @@ ngrams:
 - - studied
   - these
   - matters
-- - th
-  - aspiring
-  - man
 - - impressionable
   - without
   - having
@@ -332,9 +323,6 @@ ngrams:
 - - reader
   - like
   - him
-- - over
-  - their
-  - printers
 - - blind
   - jack
   - would
@@ -368,6 +356,18 @@ ngrams:
 - - knaresborough
   - we
   - might
+- - an
+  - endless
+  - night
+- - one
+  - whose
+  - infant
+- - could
+  - enlighten
+  - me
+- - other
+  - over
+  - their
 story:
   date: 2012-05-30
   id: 2012-05-30-on-blind-jack-of-knaresborough
@@ -394,24 +394,24 @@ story:
     \ it turned out, in thirteen years at school, from age five to eighteen, I do\
     \ not think I ever heard his name mentioned.\nAt some point the sheer wrongness\
     \ of this must have occurred to me, along with the thought that perhaps the editors\
-    \ at Odhams Press had made him up for a lark. \u201CTee hee! Let's insert a page\
-    \ about a wholly convincing yet completely fictional character to play a trick\
-    \ on the tinies!\u201D, I imagined a couple of them, resembling Gabbitas and Thring\
-    \ from the Molesworth books, chuckling to each other over their printers\u2019\
-    \ proofs. Such scampishness could be the only explanation for my history teachers\u2019\
-    \ neglect of the man I believed had single-handedly brought about the Industrial\
-    \ Revolution. I had been led to believe that, were it not for Blind Jack of Knaresborough,\
+    \ at Odhams Press had made him up for a lark. \"Tee hee! Let's insert a page about\
+    \ a wholly convincing yet completely fictional character to play a trick on the\
+    \ tinies!\", I imagined a couple of them, resembling Gabbitas and Thring from\
+    \ the Molesworth books, chuckling to each other over their printers' proofs. Such\
+    \ scampishness could be the only explanation for my history teachers' neglect\
+    \ of the man I believed had single-handedly brought about the Industrial Revolution.\
+    \ I had been led to believe that, were it not for Blind Jack of Knaresborough,\
     \ we might still be living in rustic squalor, a nation of peasants consigned forever\
     \ to remain in Lork Roise because we would never have been able to travel to Candleford.\n\
     Blind Jack, you see, was a road builder. And the way he built roads, British History\
     \ In Strip Pictures told me, was that he walked along tapping his stick in front\
-    \ of him to gauge the smoothness and straightness of the road he had just built\u2026\
-    \ er\u2026 something along those lines, they had but six pictures and captions\
-    \ to tell the story, so obviously some of the finer detail was left out. I recall\
+    \ of him to gauge the smoothness and straightness of the road he had just built...\
+    \ er... something along those lines, they had but six pictures and captions to\
+    \ tell the story, so obviously some of the finer detail was left out. I recall\
     \ being haunted by the picture of Blind Jack out on the road, dressed just like\
     \ the man on the Quaker Oats carton, gazing at nothing. I am sure there were times\
     \ when I dreamed of him, relentlessly approaching me, the tap of his stick, the\
-    \ eerie sightlessness of his eyes\u2026 I think for a time I even managed to get\
+    \ eerie sightlessness of his eyes... I think for a time I even managed to get\
     \ him mixed up, in my fevered mind, with the much more malign figure of Robert\
     \ Mitchum's preacher man in The Night Of The Hunter (Charles Laughton, 1955),\
     \ which I saw when very young and impressionable.\nWithout having the book to\
@@ -425,7 +425,7 @@ story:
     \ of the intriguing things about him was that part of his success in building\
     \ roads was a matchless ability to make accurate estimations of costs and materials,\
     \ using a system of his own devising which he was unable (or unwilling?) ever\
-    \ to explain to others. He also worked out a method of constructing \_roads over\
+    \ to explain to others. He also worked out a method of constructing  roads over\
     \ bogs, using matted rafts of marsh grass and furze. No wonder he is my hero,\
     \ when we consider that that previous sentence alone contains at least three words\
     \ essential to the Hooting Yard lexicon.\nHis gravestone, in the Yorkshire village\
@@ -433,14 +433,14 @@ story:
     \ sight\n    Felt the dark pressure of an endless night;\n    Yet such the fervour\
     \ of his dauntless mind,\n    His limbs full strung, his spirits unconfined,\n\
     \    That, long ere yet life's bolder years began,\n    The sightless efforts\
-    \ mark'd th\u2019 aspiring man;\n    Nor mark'd in vain\u2014high deeds his manhood\
-    \ dared,\n    And commerce, travel, both his ardour shared.\n    'Twas his a guide's\
-    \ unerring aid to lend\u2014\n    O'er trackless wastes to bid new roads extend;\n\
-    \    And, when rebellion reared her giant size,\n    'Twas his to burn with patriot\
-    \ enterprise;\n    For parting wife and babes, a pang to feel,\n    Then welcome\
-    \ danger for his country's weal.\n    Reader, like him, exert thy utmost talent\
-    \ given!\n    Reader, like him, adore the bounteous hand of Heaven\nADDENDUM\_\
-    : I wonder if Anna Pavlova named her swan after Blind Jack of Knaresborough? Perhaps\
-    \ a balletomane reader might know, and could enlighten me."
+    \ mark'd th' aspiring man;\n    Nor mark'd in vain--high deeds his manhood dared,\n\
+    \    And commerce, travel, both his ardour shared.\n    'Twas his a guide's unerring\
+    \ aid to lend--\n    O'er trackless wastes to bid new roads extend;\n    And,\
+    \ when rebellion reared her giant size,\n    'Twas his to burn with patriot enterprise;\n\
+    \    For parting wife and babes, a pang to feel,\n    Then welcome danger for\
+    \ his country's weal.\n    Reader, like him, exert thy utmost talent given!\n\
+    \    Reader, like him, adore the bounteous hand of Heaven\nADDENDUM : I wonder\
+    \ if Anna Pavlova named her swan after Blind Jack of Knaresborough? Perhaps a\
+    \ balletomane reader might know, and could enlighten me."
   title: On Blind Jack Of Knaresborough
-word_count: 988
+word_count: 987

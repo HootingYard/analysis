@@ -2,9 +2,6 @@ ngrams:
 - - gathers
   - fresh
   - courage
-- - speaks
-  - winged
-  - creatures
 - - presence
   - bows
   - brings
@@ -14,9 +11,6 @@ ngrams:
 - - leaps
   - backward
   - towards
-- - winged
-  - creatures
-  - cannot
 - - cannot
   - fly
   - hither
@@ -41,17 +35,26 @@ ngrams:
 - - cannot
   - come
   - how
+- - beetle
+  - made
+  - your
+- - been
+  - gone
+  - through
+- - made
+  - your
+  - way
 story:
   date: 2004-03-02
   id: 2004-03-02-the-kam-as-if-approaching-the-yarta
-  text: "\u201CThe kam, as if approaching the Yarta of Erlik and coming into his presence,\
-    \ bows, brings his drum up to his forehead, and says, \u2018Mergu! mergu!\u2019\
-    \ Then he declares whence and why he comes. Suddenly he shouts; this is meant\
-    \ to indicate that Erlik is angry that a mortal should dare to enter his yurta.\
-    \ The frightened kam leaps backward towards the door, but gathers fresh courage\
-    \ and again approaches Erlik's throne. After this performance has been gone through\
-    \ three times, Erlik speaks: \u2018Winged creatures cannot fly hither, beings\
-    \ with bones cannot come: how have you, ill-smelling black beetle, made your way\
-    \ to my abode?\u2019\u201D \u2014 M. A. Czaplicka, Shamanism In Siberia"
-  title: "\u201CThe kam, as if approaching the Yarta\u2026\u201D"
-word_count: 118
+  text: '"The kam, as if approaching the Yarta of Erlik and coming into his presence,
+    bows, brings his drum up to his forehead, and says, ''Mergu! mergu!'' Then he
+    declares whence and why he comes. Suddenly he shouts; this is meant to indicate
+    that Erlik is angry that a mortal should dare to enter his yurta. The frightened
+    kam leaps backward towards the door, but gathers fresh courage and again approaches
+    Erlik''s throne. After this performance has been gone through three times, Erlik
+    speaks: ''Winged creatures cannot fly hither, beings with bones cannot come: how
+    have you, ill-smelling black beetle, made your way to my abode?''" -- M. A. Czaplicka,
+    Shamanism In Siberia'
+  title: '"The kam, as if approaching the Yarta..."'
+word_count: 121

@@ -5,9 +5,6 @@ ngrams:
 - - g
   - carter
   - stent
-- - mystery
-  - g
-  - carter
 - - scene
   - generally
   - entrusted
@@ -20,13 +17,16 @@ ngrams:
 - - disappears
   - we
   - know
+- - know
+  - 'no'
+  - more
 story:
   date: 2004-09-07
   id: 2004-09-07-he-appears-occasionally-on-the-scene-generally
-  text: "\u201CHe appears occasionally on the scene, generally entrusted with some\
-    \ death-dealing commission, which he proceeds, scymeter in hand, or provided with\
-    \ bag, cord, box, or poison, to execute; we follow his actions with awe; when\
-    \ he disappears we know no more of him\u2014his further life is shrouded in mystery.\u201D\
-    \ \u2014 G Carter Stent, Chinese Eunuchs"
-  title: "\u201CHe appears occasionally on the scene, generally\u2026\u201D"
+  text: '"He appears occasionally on the scene, generally entrusted with some death-dealing
+    commission, which he proceeds, scymeter in hand, or provided with bag, cord, box,
+    or poison, to execute; we follow his actions with awe; when he disappears we know
+    no more of him--his further life is shrouded in mystery." -- G Carter Stent, Chinese
+    Eunuchs'
+  title: '"He appears occasionally on the scene, generally..."'
 word_count: 62

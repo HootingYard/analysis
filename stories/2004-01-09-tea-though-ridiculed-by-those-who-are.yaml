@@ -1,10 +1,4 @@
 ngrams:
-- - thomas
-  - de
-  - quincey
-- - intellectuals
-  - thomas
-  - de
 - - tea
   - though
   - ridiculed
@@ -14,11 +8,17 @@ ngrams:
 - - their
   - nervous
   - sensibilities
+- - nervous
+  - sensibilities
+  - will
+- - sensibilities
+  - will
+  - always
 story:
   date: 2004-01-09
   id: 2004-01-09-tea-though-ridiculed-by-those-who-are
-  text: "\u201CTea, though ridiculed by those who are naturally coarse in their nervous\
-    \ sensibilities \u2026 will always be the favourite beverage of the intellectuals.\u201D\
-    \ \u2014Thomas De Quincey"
-  title: "\u201CTea, though ridiculed by those who are\u2026\u201D"
+  text: '"Tea, though ridiculed by those who are naturally coarse in their nervous
+    sensibilities ... will always be the favourite beverage of the intellectuals."
+    --Thomas De Quincey'
+  title: '"Tea, though ridiculed by those who are..."'
 word_count: 32

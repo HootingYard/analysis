@@ -8,9 +8,6 @@ ngrams:
 - - lead
   - russian
   - church
-- - hopelessly
-  - pass
-  - figures
 - - russian
   - church
   - says
@@ -20,18 +17,12 @@ ngrams:
 - - edition
   - sadly
   - does
-- - pass
-  - figures
-  - next
 - - jaws
   - can
   - drop
 - - smolensk
   - that's
   - him
-- - readers
-  - jaws
-  - can
 - - who
   - look
   - positively
@@ -41,17 +32,28 @@ ngrams:
 - - they
   - call
   - metropolitan
+- - smolensk
+  - which
+  - appeared
+- - oh
+  - so
+  - modern
+- - man
+  - they
+  - call
 story:
   date: 2009-01-28
   id: 2009-01-28-how-to-be-modern
-  text: "Moderniser is favourite to lead Russian church, says the headline in today's\
-    \ Guardian. The online edition sadly does not include the photograph of dynamic\
-    \ thrusting modernist Metropolitan Kirill of Smolensk which appeared in the paper.\
-    \ But do not fret. I have found one, so readers\u2019 jaws can drop at the breathtaking\
-    \ modernity of the man they call \u201CMetropolitan Kirill of Smolensk\u201D.\
-    \ That's him on the right, in the oh so modern colourful robes, unlike the hopelessly\
-    \ pass\xE9 figures next to him, who look positively mediaeval in their black garb.\
-    \ On the other hand, they might be beatniks, and it's Metropolitan Kirill of Smolensk\
-    \ who's behind the times, daddy-o.\n"
+  text: 'Moderniser is favourite to lead Russian church, says the headline in today''s
+    Guardian. The online edition sadly does not include the photograph of dynamic
+    thrusting modernist Metropolitan Kirill of Smolensk which appeared in the paper.
+    But do not fret. I have found one, so readers'' jaws can drop at the breathtaking
+    modernity of the man they call "Metropolitan Kirill of Smolensk". That''s him
+    on the right, in the oh so modern colourful robes, unlike the hopelessly passe
+    figures next to him, who look positively mediaeval in their black garb. On the
+    other hand, they might be beatniks, and it''s Metropolitan Kirill of Smolensk
+    who''s behind the times, daddy-o.
+
+    '
   title: How To Be Modern
 word_count: 112

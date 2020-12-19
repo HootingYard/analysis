@@ -14,9 +14,6 @@ ngrams:
 - - wrestling
   - bout
   - plutarch
-- - punters
-  - scuffles
-  - tend
 - - genteel
   - wrestling
   - rules
@@ -35,12 +32,6 @@ ngrams:
 - - ring
   - wherein
   - plutarch
-- - business
-  - punters
-  - scuffles
-- - ugly
-  - business
-  - punters
 - - hour
   - giant
   - hamsters
@@ -59,6 +50,9 @@ ngrams:
 - - simple
   - chronology
   - consider
+- - death
+  - plutarch
+  - '-'
 - - gore
   - kept
   - apart
@@ -146,6 +140,9 @@ ngrams:
 - - own
   - small
   - world
+- - petrarch
+  - '-'
+  - more
 - - more
   - genteel
   - wrestling
@@ -230,7 +227,7 @@ ngrams:
 - - cranial
   - blips
   - if
-- - petrarch
+- - '-'
   - more
   - than
 - - wasted
@@ -299,18 +296,21 @@ ngrams:
 - - extent
   - upon
   - your
+- - 'off'
+  - together
+  - out
 story:
   date: 2009-02-06
   id: 2009-02-06-plutarch-versus-petrarch
-  text: "\_\n\n\_\nThe chief reason Plutarch and Petrarch never met in a he-man wrestling\
+  text: " \n\n \nThe chief reason Plutarch and Petrarch never met in a he-man wrestling\
     \ bout is a matter of simple chronology. Consider their dates of birth and death,\
-    \ Plutarch (46\u2013120) and Petrarch (1304\u20131374). More than a thousand years\
-    \ separates their days on our little planet, and none of the fantastic time-travel\
-    \ contraptions dreamed up by sci-fi writers and visionaries has ever been built,\
-    \ at least not in any working form. Had one been made, then Plutarch could have\
-    \ been whizzed into the future, or Petrarch into the past, and, suitably attired,\
-    \ or possibly naked and greased like the wrestlers of certain ancient civilisations,\
-    \ the pair could have entertained the crowds, displaying all sorts of he-man wrestling\
+    \ Plutarch (46-120) and Petrarch (1304-1374). More than a thousand years separates\
+    \ their days on our little planet, and none of the fantastic time-travel contraptions\
+    \ dreamed up by sci-fi writers and visionaries has ever been built, at least not\
+    \ in any working form. Had one been made, then Plutarch could have been whizzed\
+    \ into the future, or Petrarch into the past, and, suitably attired, or possibly\
+    \ naked and greased like the wrestlers of certain ancient civilisations, the pair\
+    \ could have entertained the crowds, displaying all sorts of he-man wrestling\
     \ holds, and grunting, and throwing each other around the ring. If their bout\
     \ was fought according to a brutal set of rules, someone may have needed to stand\
     \ by with a pail and a mop, to clean up any shed blood, and someone else, preferably\
@@ -328,18 +328,18 @@ story:
     \ wasted your life and never read a word by either of these titans, you may be\
     \ swayed by, say, Plutarch's beard or by Petrarch's hat. The position you will\
     \ not want to be in is one of neutrality, for you will see how the adherents of\
-    \ both the \u201CBig P-Archs\u201D are violently partisan, with a lust for gore,\
-    \ kept apart by a fence of iron stakes. Not to join one mob or the other is to\
-    \ miss out on the frenzy of the day, and in any case, you will have to choose\
-    \ to sit in one section of the ringside. And in spite of their screaming and gesticulating\
+    \ both the \"Big P-Archs\" are violently partisan, with a lust for gore, kept\
+    \ apart by a fence of iron stakes. Not to join one mob or the other is to miss\
+    \ out on the frenzy of the day, and in any case, you will have to choose to sit\
+    \ in one section of the ringside. And in spite of their screaming and gesticulating\
     \ and spitting, the mobs do sit, quite neatly even, on their benches or their\
     \ bucket seats. No one wants to spoil the view of the ring, wherein Plutarch and\
     \ Petrarch land forearm smashes and trip each other up and stamp about in a great\
     \ show of he-man grappling.\nOnce you have plumped for your champion, you will\
     \ want to take out a bet with one of the ringside bookies. Gambling at time-travel\
-    \ wrestling bouts is big, and sometimes ugly, business. Punters\u2019 scuffles\
-    \ tend to break out, and rampant bookie-hounds are unleashed. These are fearsome\
-    \ dogs, each one individually cloned from the DNA of Cerberus, or whatever Cerberus\u2019\
+    \ wrestling bouts is big, and sometimes ugly, business. Punters' scuffles tend\
+    \ to break out, and rampant bookie-hounds are unleashed. These are fearsome dogs,\
+    \ each one individually cloned from the DNA of Cerberus, or whatever Cerberus'\
     \ equivalent of DNA is. That would be a matter for the mythologists, and it is\
     \ not a good idea to get embroiled in their arguments, for you would soon go loopy.\
     \ The bookies set their bookie-hounds on any punter scuffling, or any punter they\
@@ -360,4 +360,4 @@ story:
     \ over the horizon, arm I arm, it really is important to bundle both of them back,\
     \ or forward, to their own times, for the good of all, except perhaps the hamsters.\n"
   title: Plutarch Versus Petrarch
-word_count: 803
+word_count: 805

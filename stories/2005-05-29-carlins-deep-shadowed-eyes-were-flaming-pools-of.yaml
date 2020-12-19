@@ -1,19 +1,10 @@
 ngrams:
-- - pool
-  - demanded
-  - kent
-- - pool
-  - dorothy
-  - answered
 - - carlin's
   - thin
   - lips
 - - terror
   - carlin's
   - thin
-- - pool
-  - dorothy
-  - lane
 - - low
   - voice
   - trembling
@@ -47,19 +38,30 @@ ngrams:
 - - dorothy
   - answered
   - her
+- - answered
+  - her
+  - low
+- - her
+  - low
+  - voice
+- - were
+  - flaming
+  - pools
+- - were
+  - flaming
+  - pools
 story:
   date: 2005-05-29
   id: 2005-05-29-carlins-deep-shadowed-eyes-were-flaming-pools-of
-  text: "\u201CCarlin's deep-shadowed eyes were flaming pools of mad menace. \u2018\
-    I could shoot you both down where you stand,\u2019 he rasped, \u2018but that would\
-    \ be a foolish waste of valuable material\u2026 I shall turn the two of you over\
-    \ to the Dweller in the pool!\u2019 Dorothy Lane cried aloud in terror. Carlin's\
-    \ thin lips writhed in a snarling smile\u2026 \u2018Who, or what, is the Dweller\
-    \ in the pool?\u2019 demanded Kent, 'And what devil's work is Carlin doing here\
-    \ anyway?' \u2018The Dweller in the pool,\u2019 Dorothy answered, her low voice\
-    \ trembling, \u2018is my brother, Raoul!\u2019 \u2026 Small wonder that the throbbing\
-    \ agony of so many tortured minds should combine to taint the very air with a\
-    \ shuddering miasma of crepitant dread!\u201D \u2014 Hal K Wells, Black Pool For\
-    \ Hell Maidens"
-  title: "\u201CCarlin's deep-shadowed eyes were flaming pools of\u2026\u201D"
-word_count: 134
+  text: '"Carlin''s deep-shadowed eyes were flaming pools of mad menace. ''I could
+    shoot you both down where you stand,'' he rasped, ''but that would be a foolish
+    waste of valuable material... I shall turn the two of you over to the Dweller
+    in the pool!'' Dorothy Lane cried aloud in terror. Carlin''s thin lips writhed
+    in a snarling smile... ''Who, or what, is the Dweller in the pool?'' demanded
+    Kent, ''And what devil''s work is Carlin doing here anyway?'' ''The Dweller in
+    the pool,'' Dorothy answered, her low voice trembling, ''is my brother, Raoul!''
+    ... Small wonder that the throbbing agony of so many tortured minds should combine
+    to taint the very air with a shuddering miasma of crepitant dread!" -- Hal K Wells,
+    Black Pool For Hell Maidens'
+  title: '"Carlin''s deep-shadowed eyes were flaming pools of..."'
+word_count: 140

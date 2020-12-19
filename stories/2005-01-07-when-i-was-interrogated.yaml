@@ -23,9 +23,6 @@ ngrams:
 - - constable
   - fang
   - tell
-- - under
-  - arrest
-  - q
 - - placed
   - under
   - arrest
@@ -41,30 +38,15 @@ ngrams:
 - - another
   - wet
   - twig
-- - last
-  - thursday
-  - q
 - - another
   - water
   - vole
 - - doing
   - weird
   - things
-- - being
-  - curt
-  - q
 - - few
   - days
   - waiting
-- - q
-  - did
-  - constable
-- - did
-  - constable
-  - fang
-- - arrest
-  - q
-  - did
 - - don't
   - remember
   - much
@@ -107,33 +89,21 @@ ngrams:
 - - wind
   - emptying
   - your
-- - thursday
-  - q
-  - were
 - - ran
   - into
   - von
-- - care
-  - q
-  - when
 - - blood
   - group
   - were
 - - him
   - further
   - many
-- - curt
-  - q
-  - we
 - - sister
   - told
   - me
 - - delicate
   - constitution
   - so
-- - q
-  - we
-  - shall
 - - remember
   - much
   - about
@@ -164,38 +134,88 @@ ngrams:
 - - national
   - anthem
   - at
+- - interrogation
+  - but
+  - under
+- - without
+  - trace
+  - but
+- - piccolo
+  - by
+  - von
+- - say
+  - one
+  - way
+- - we
+  - will
+  - call
+- - fang
+  - tell
+  - you
+- - not
+  - being
+  - curt
+- - they
+  - never
+  - were
 story:
   date: 2005-01-07
   id: 2005-01-07-when-i-was-interrogated
-  text: "I don't remember much about my interrogation, but under the new Freedom of\
-    \ Information Act I managed to get hold of a cassette tape. For the best part\
-    \ of half an hour it's a mishmash of hisses, squeaks, mufflement and what sounds\
-    \ like a water vole gnawing on a wet twig. One part of my interrogation has survived,\
-    \ however, and I have taken the trouble to transcribe it for you, so you may study\
-    \ it with care.\nQ\u2014When was the last time you stood in the middle of a suspension\
-    \ bridge in a high wind, emptying your lungs and belting out the Uruguayan national\
-    \ anthem at the top of your voice?\nA\u2014Last Thursday.\nQ\u2014Were you accompanied\
-    \ on piccolo by Von Straubenzee and on cor anglais by Tack?\nA\u2014I was.\nQ\u2014\
-    Are you aware that Tack is wanted by the police of four continents for doing weird\
-    \ things with the pips of citrus fruits?\nA\u2014I am not.\nQ\u2014Or that Von\
-    \ Straubenzee is not Von Straubenzee's real name?\nA\u2014I was not aware of that.\n\
-    Q\u2014Do not be curt.\nA\u2014I am not being curt.\nQ\u2014We shall be the judges\
-    \ of your curtness. What is that noise in your pocket?\nA\u2014That is my water\
-    \ vole gnawing a wet twig it eked from the riverbank just before I was placed\
-    \ under arrest.\nQ\u2014Did Constable Fang tell you you could bring a water vole\
-    \ to the top secret interrogation centre?\nA\u2014He didn't say one way or the\
-    \ other.\nQ\u2014That will be all. We will call you back after several ukases\
-    \ have been issued.\nI kept a close eye on the papers for the next few days, waiting\
-    \ for the ukases to be issued, but they never were, nor was I ever dragged back\
-    \ to the top secret interrogation centre. Tack vanished without trace, but a month\
-    \ or so later I ran into Von Straubenzee outside the Palace of Churns. I asked\
-    \ him if it was true that his real name was not Von Straubenzee.\n\u201CVan,\u201D\
-    \ he said, \u201CVan\u201D.\nHe was of a delicate constitution, so I didn't press\
-    \ him further. Many years later, his sister told me that it was very important\
-    \ to him that his surname and his blood group were \u201Cin alignment\u201D, as\
-    \ she put it. He was a great piccolo player, and so was his sister. But my singing\
-    \ voice is not what it was, and I no longer sing. I just stand on the windswept\
-    \ suspension bridge and remember, with a lump in my throat, and another water\
-    \ vole in my pocket, gnawing on another wet twig."
+  text: 'I don''t remember much about my interrogation, but under the new Freedom
+    of Information Act I managed to get hold of a cassette tape. For the best part
+    of half an hour it''s a mishmash of hisses, squeaks, mufflement and what sounds
+    like a water vole gnawing on a wet twig. One part of my interrogation has survived,
+    however, and I have taken the trouble to transcribe it for you, so you may study
+    it with care.
+
+    Q--When was the last time you stood in the middle of a suspension bridge in a
+    high wind, emptying your lungs and belting out the Uruguayan national anthem at
+    the top of your voice?
+
+    A--Last Thursday.
+
+    Q--Were you accompanied on piccolo by Von Straubenzee and on cor anglais by Tack?
+
+    A--I was.
+
+    Q--Are you aware that Tack is wanted by the police of four continents for doing
+    weird things with the pips of citrus fruits?
+
+    A--I am not.
+
+    Q--Or that Von Straubenzee is not Von Straubenzee''s real name?
+
+    A--I was not aware of that.
+
+    Q--Do not be curt.
+
+    A--I am not being curt.
+
+    Q--We shall be the judges of your curtness. What is that noise in your pocket?
+
+    A--That is my water vole gnawing a wet twig it eked from the riverbank just before
+    I was placed under arrest.
+
+    Q--Did Constable Fang tell you you could bring a water vole to the top secret
+    interrogation centre?
+
+    A--He didn''t say one way or the other.
+
+    Q--That will be all. We will call you back after several ukases have been issued.
+
+    I kept a close eye on the papers for the next few days, waiting for the ukases
+    to be issued, but they never were, nor was I ever dragged back to the top secret
+    interrogation centre. Tack vanished without trace, but a month or so later I ran
+    into Von Straubenzee outside the Palace of Churns. I asked him if it was true
+    that his real name was not Von Straubenzee.
+
+    "Van," he said, "Van".
+
+    He was of a delicate constitution, so I didn''t press him further. Many years
+    later, his sister told me that it was very important to him that his surname and
+    his blood group were "in alignment", as she put it. He was a great piccolo player,
+    and so was his sister. But my singing voice is not what it was, and I no longer
+    sing. I just stand on the windswept suspension bridge and remember, with a lump
+    in my throat, and another water vole in my pocket, gnawing on another wet twig.'
   title: When I Was Interrogated
-word_count: 443
+word_count: 428

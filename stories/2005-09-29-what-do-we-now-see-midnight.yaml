@@ -8,24 +8,15 @@ ngrams:
 - - mammoth
   - cave
   - during
-- - air
-  - alexander
-  - clark
 - - hundred
   - feet
   - above
 - - rolling
   - dimly
   - away
-- - hear
-  - nothing
-  - else
 - - see
   - midnight
   - '-'
-- - look
-  - again
-  - swing
 - - solemn
   - how
   - awful
@@ -44,24 +35,33 @@ ngrams:
 - - us
   - above
   - look
-- - darkness
-  - nothing
-  - where
 - - how
   - solemn
   - how
+- - how
+  - vast
+  - how
+- - dimly
+  - away
+  - like
+- - now
+  - see
+  - midnight
+- - now
+  - see
+  - midnight
 story:
   date: 2005-09-29
   id: 2005-09-29-what-do-we-now-see-midnight
-  text: "\u201CWhat do we now see? Midnight!\u2014the blackness of darkness!\u2014\
-    Nothing! Where is the wall we were lately elbowing out of the way? It has vanished!\u2014\
-    It is lost! We are walled in by darkness, and darkness canopies us above. Look\
-    \ again;\u2014Swing your torches aloft! Aye, now you can see it; far up, a hundred\
-    \ feet above your head, a grey ceiling rolling dimly away like a cloud, and heavy\
-    \ buttresses, bending under the weight, curling and toppling over their base,\
-    \ begin to project their enormous masses from the shadowy wall. How vast! How\
-    \ solemn! How awful! The little bells of the brain are ringing in your ears; you\
-    \ hear nothing else\u2014not even a sigh of air.\u201D \u2014 Alexander Clark\
-    \ Bullitt, Rambles In The Mammoth Cave During The Year 1844"
-  title: "\u201CWhat do we now see? Midnight! -\u2026\u201D"
+  text: '"What do we now see? Midnight!--the blackness of darkness!--Nothing! Where
+    is the wall we were lately elbowing out of the way? It has vanished!--It is lost!
+    We are walled in by darkness, and darkness canopies us above. Look again;--Swing
+    your torches aloft! Aye, now you can see it; far up, a hundred feet above your
+    head, a grey ceiling rolling dimly away like a cloud, and heavy buttresses, bending
+    under the weight, curling and toppling over their base, begin to project their
+    enormous masses from the shadowy wall. How vast! How solemn! How awful! The little
+    bells of the brain are ringing in your ears; you hear nothing else--not even a
+    sigh of air." -- Alexander Clark Bullitt, Rambles In The Mammoth Cave During The
+    Year 1844'
+  title: '"What do we now see? Midnight! -..."'
 word_count: 137

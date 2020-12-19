@@ -8,15 +8,6 @@ ngrams:
 - - strictly
   - come
   - dancing
-- - len
-  - goodman
-  - mr
-- - goodman
-  - mr
-  - goodman
-- - mr
-  - goodman
-  - being
 - - can
   - look
   - forward
@@ -29,15 +20,26 @@ ngrams:
 - - judges
   - from
   - strictly
+- - we
+  - can
+  - look
+- - from
+  - strictly
+  - come
+- - wonder
+  - if
+  - we
 story:
   date: 2012-03-31
   id: 2012-03-31-calamities-and-disasters
-  text: "I noticed that on BBC1 yesterday there was the first in a short series of\
-    \ programmes called Titanic With Len Goodman\u2014Mr Goodman being one of the\
-    \ judges from Strictly Come Dancing. It is a curious combination of presenter\
-    \ and subject, and I wonder if we can look forward to Hindenburg With Alesha Dixon,\
-    \ The Munich Air Disaster With Bruno Tonioni, The Tay Bridge Disaster With Craig\
-    \ Revel-Horwood, The Lisbon Earthquake With Arlene Phillips, and, perhaps, The\
-    \ Black Death With Tess Daly.\n"
+  text: 'I noticed that on BBC1 yesterday there was the first in a short series of
+    programmes called Titanic With Len Goodman--Mr Goodman being one of the judges
+    from Strictly Come Dancing. It is a curious combination of presenter and subject,
+    and I wonder if we can look forward to Hindenburg With Alesha Dixon, The Munich
+    Air Disaster With Bruno Tonioni, The Tay Bridge Disaster With Craig Revel-Horwood,
+    The Lisbon Earthquake With Arlene Phillips, and, perhaps, The Black Death With
+    Tess Daly.
+
+    '
   title: Calamities And Disasters
-word_count: 85
+word_count: 84

@@ -2,12 +2,6 @@ ngrams:
 - - writer
   - raymond
   - roussel
-- - including
-  - uri
-  - geller
-- - participants
-  - including
-  - uri
 - - french
   - writer
   - raymond
@@ -53,9 +47,6 @@ ngrams:
 - - justify
   - her
   - existence
-- - other
-  - participants
-  - including
 - - her
   - existence
   - answer
@@ -77,25 +68,35 @@ ngrams:
 - - forgotten
   - question
   - has
+- - moment
+  - when
+  - tara
+- - will
+  - likewise
+  - ring
+- - superb
+  - moment
+  - when
 story:
   date: 2003-12-15
   id: 2003-12-15-celebrity-news
-  text: "I know, I know\u2026. this is not really the place to come to read about\
-    \ the doings of celebrities. Thereagain, that's just what makes Hooting Yard so\
-    \ different, so appealing. In any case, this isn't exactly news, just something\
-    \ I feel ought never to be forgotten.\nQUESTION : Has Tara Palmer-Tomkinson ever\
-    \ done anything to justify her existence?\nANSWER : Oddly enough, the answer is\
-    \ a resounding \u201CYes!\u201D. The French writer Raymond Roussel once claimed\
-    \ that, in time, his fame would eclipse that of Napoleon Bonaparte: and who knows,\
-    \ he may yet be proved right. I venture to suggest that Tara Palmer-Tomkinson's\
-    \ name will likewise ring down the centuries, yea, e'en unto the time when, as\
-    \ Carl Sagan so memorably put it, \u201Cthe earth is a charred cinder, and the\
-    \ sun\u2026 dead\u201D. Why should this be so? Recall the first series of that\
-    \ wretched television programme I'm A Celebrity\u2026 Get Me Out of Here! There\
-    \ is one superb moment when Tara and the log-obsessed Tony Blackburn are clearing\
-    \ up the camp. The other participants\u2014including Uri Geller\u2014have left.\
-    \ Tara stoops to pick something up. She looks at it, whatever it is, distastefully.\
-    \ Then, handing her find to Tony, she pronounces the immortal words: \u201CThese\
-    \ are Uri's underpants. Burn them\u201D."
+  text: 'I know, I know.... this is not really the place to come to read about the
+    doings of celebrities. Thereagain, that''s just what makes Hooting Yard so different,
+    so appealing. In any case, this isn''t exactly news, just something I feel ought
+    never to be forgotten.
+
+    QUESTION : Has Tara Palmer-Tomkinson ever done anything to justify her existence?
+
+    ANSWER : Oddly enough, the answer is a resounding "Yes!". The French writer Raymond
+    Roussel once claimed that, in time, his fame would eclipse that of Napoleon Bonaparte:
+    and who knows, he may yet be proved right. I venture to suggest that Tara Palmer-Tomkinson''s
+    name will likewise ring down the centuries, yea, e''en unto the time when, as
+    Carl Sagan so memorably put it, "the earth is a charred cinder, and the sun...
+    dead". Why should this be so? Recall the first series of that wretched television
+    programme I''m A Celebrity... Get Me Out of Here! There is one superb moment when
+    Tara and the log-obsessed Tony Blackburn are clearing up the camp. The other participants--including
+    Uri Geller--have left. Tara stoops to pick something up. She looks at it, whatever
+    it is, distastefully. Then, handing her find to Tony, she pronounces the immortal
+    words: "These are Uri''s underpants. Burn them".'
   title: Celebrity News
-word_count: 210
+word_count: 208

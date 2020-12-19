@@ -23,18 +23,12 @@ ngrams:
 - - party
   - why
   - haven't
-- - peasants
-  - party
-  - why
 - - here
   - i'd
   - vote
 - - party
   - here
   - i'd
-- - peasants
-  - party
-  - here
 - - american
   - novel
   - than
@@ -62,20 +56,27 @@ ngrams:
 - - sound
   - more
   - like
+- - haven't
+  - we
+  - got
+- - root
+  - vegetables
+  - so
 story:
   date: 2007-10-22
   id: 2007-10-22-polish-tusk-news
-  text: "Is it just me, or does Donald Tusk sound more like the protagonist of a contemporary\
-    \ American novel than the next Prime Minister of Poland? \u201CDonald Tusk\u201D\
-    \ could be a plutocrat in a fat Tom Wolfe paperback, or a sidekick of Oscar Crease\
-    \ in William Gaddis\u2019 superb A Frolic Of His Own.\nMr Tusk's Civic Platform\
-    \ is likely to form a government in coalition with the Peasants\u2019 Party. Why\
-    \ haven't we got a Peasants\u2019 Party here? I'd vote for a peasant to be put\
-    \ in charge of things. Not a farmer, nor a Countryside Allianceista, but a proper\
-    \ peasant, in a smock, with a piece of straw in their mouth, and a stock of folk\
-    \ wisdom which I may well find incomprehensible. There must be a peasant called\
-    \ Hoouhmne who could be persuaded to run for office, the sort of Prime Minister\
-    \ who would award honours for the cultivation of Curiously Lumpen And Hirsute\
-    \ Root Vegetables so that Miss Hathorn wouldn't have to strike her own medal."
+  text: 'Is it just me, or does Donald Tusk sound more like the protagonist of a contemporary
+    American novel than the next Prime Minister of Poland? "Donald Tusk" could be
+    a plutocrat in a fat Tom Wolfe paperback, or a sidekick of Oscar Crease in William
+    Gaddis'' superb A Frolic Of His Own.
+
+    Mr Tusk''s Civic Platform is likely to form a government in coalition with the
+    Peasants'' Party. Why haven''t we got a Peasants'' Party here? I''d vote for a
+    peasant to be put in charge of things. Not a farmer, nor a Countryside Allianceista,
+    but a proper peasant, in a smock, with a piece of straw in their mouth, and a
+    stock of folk wisdom which I may well find incomprehensible. There must be a peasant
+    called Hoouhmne who could be persuaded to run for office, the sort of Prime Minister
+    who would award honours for the cultivation of Curiously Lumpen And Hirsute Root
+    Vegetables so that Miss Hathorn wouldn''t have to strike her own medal.'
   title: Polish Tusk News
 word_count: 170

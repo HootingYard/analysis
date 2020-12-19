@@ -2,6 +2,9 @@ ngrams:
 - - queen
   - anne
   - custard
+- - ned
+  - ward
+  - '-'
 - - yellow
   - surface
   - shines
@@ -29,19 +32,20 @@ ngrams:
 - - including
   - some
   - terrific
-- - poem
-  - including
-  - some
 story:
   date: 2009-03-10
   id: 2009-03-10-why-custard-matters
-  text: "The Heresiarch laments: \u201CThe depressing thing is that, increasingly,\
-    \ custard is all we have left.\u201D\nBut remember the wise words of Ned Ward\
-    \ (1667\u20131731) in British Wonders; Or, A Poetical Description of the Several\
-    \ Prodigies and Most Remarkable Accidents That have happen'd in Britain since\
-    \ the Death of Queen Anne (1717):\n\u201CCustard, that noble cooling Food,/ So\
-    \ toothsome, wholsome, and so good, / That Dainty so approv'd of old, / Whose\
-    \ yellow surface shines like Gold.\u201D\nYou can find a longer extract from the\
-    \ poem, including some terrific lines about pudding, at BabelStone."
+  text: 'The Heresiarch laments: "The depressing thing is that, increasingly, custard
+    is all we have left."
+
+    But remember the wise words of Ned Ward (1667-1731) in British Wonders; Or, A
+    Poetical Description of the Several Prodigies and Most Remarkable Accidents That
+    have happen''d in Britain since the Death of Queen Anne (1717):
+
+    "Custard, that noble cooling Food,/ So toothsome, wholsome, and so good, / That
+    Dainty so approv''d of old, / Whose yellow surface shines like Gold."
+
+    You can find a longer extract from the poem, including some terrific lines about
+    pudding, at BabelStone.'
   title: Why Custard Matters
-word_count: 92
+word_count: 93

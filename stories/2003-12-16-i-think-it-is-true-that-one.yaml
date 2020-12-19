@@ -1,10 +1,4 @@
 ngrams:
-- - down
-  - virginia
-  - woolf
-- - them
-  - down
-  - virginia
 - - writing
   - them
   - down
@@ -14,10 +8,16 @@ ngrams:
 - - hold
   - 'on'
   - sausage
+- - by
+  - writing
+  - them
+- - certain
+  - hold
+  - 'on'
 story:
   date: 2003-12-16
   id: 2003-12-16-i-think-it-is-true-that-one
-  text: "\u201CI think it is true that one gains a certain hold on sausage and haddock\
-    \ by writing them down.\u201D \u2014 Virginia Woolf"
-  title: "\u201CI think it is true that one\u2026\u201D"
-word_count: 28
+  text: '"I think it is true that one gains a certain hold on sausage and haddock
+    by writing them down." -- Virginia Woolf'
+  title: '"I think it is true that one..."'
+word_count: 29

@@ -8,9 +8,6 @@ ngrams:
 - - rude
   - words
   - impatiently
-- - good
-  - thomas
-  - tapper
 - - short
   - rude
   - words
@@ -29,14 +26,17 @@ ngrams:
 - - days
   - know
   - something
+- - first
+  - days
+  - know
 story:
   date: 2004-12-29
   id: 2004-12-29-i-have-always-been-impressed-in-reading
-  text: "\u201CI have always been impressed in reading the books of John Ruskin to\
-    \ note how many times he speaks about the hands\u2026 his words are always full\
-    \ of meaning, and I would have you, from the first days, know something of him\
-    \ and elect him to your friendship. Many times he will speak to you in short,\
-    \ rude words, impatiently too, but never mind that, his heart is warm and full\
-    \ of good.\u201D \u2014 Thomas Tapper, Music Talks With Children"
-  title: "\u201CI have always been impressed in reading\u2026\u201D"
-word_count: 86
+  text: '"I have always been impressed in reading the books of John Ruskin to note
+    how many times he speaks about the hands... his words are always full of meaning,
+    and I would have you, from the first days, know something of him and elect him
+    to your friendship. Many times he will speak to you in short, rude words, impatiently
+    too, but never mind that, his heart is warm and full of good." -- Thomas Tapper,
+    Music Talks With Children'
+  title: '"I have always been impressed in reading..."'
+word_count: 87

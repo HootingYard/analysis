@@ -2,6 +2,9 @@ ngrams:
 - - birthday
   - here
   - she
+- - '-'
+  - today
+  - would
 - - today
   - would
   - have
@@ -11,9 +14,6 @@ ngrams:
 - - would
   - have
   - been
-- - she
-  - is
-  - circa
 story:
   date: 2011-08-04
   id: 2011-08-04-lydia-stephania-1925-1994
@@ -21,5 +21,5 @@ story:
     1951 with my sisters.
 
     '
-  title: "Lydia Stephania, 1925\u20131994"
-word_count: 17
+  title: Lydia Stephania, 1925-1994
+word_count: 18

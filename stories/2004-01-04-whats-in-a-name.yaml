@@ -1,7 +1,4 @@
 ngrams:
-- - indifference
-  - sorry
-  - james
 - - fatal
   - car
   - crash
@@ -41,17 +38,20 @@ ngrams:
 - - whose
   - cult
   - we
+- - will
+  - appear
+  - here
 story:
   date: 2004-01-04
   id: 2004-01-04-whats-in-a-name
-  text: "At Hooting Yard we have a pantheon of saints, characters past and present,\
-    \ fictional and factual, to whom we award the Tin Badge of Tantarabim, or even\
-    \ the Button of Beb. Every now and then potted biographies of such figures will\
-    \ appear here. One lost hero to whose cult we have never subscribed, however,\
-    \ is James Dean. It's not so much active dislike as indifference\u2014sorry, James.\
-    \ I mention this only because, apropos of nothing at all, I have always been delighted\
-    \ by the name of the other driver involved in Dean's fatal car crash in 1955\u2014\
-    one DONALD TURNUPSEED, no less. (Turnupseed survived the crash and died peacefully\
-    \ forty years later.)"
+  text: At Hooting Yard we have a pantheon of saints, characters past and present,
+    fictional and factual, to whom we award the Tin Badge of Tantarabim, or even the
+    Button of Beb. Every now and then potted biographies of such figures will appear
+    here. One lost hero to whose cult we have never subscribed, however, is James
+    Dean. It's not so much active dislike as indifference--sorry, James. I mention
+    this only because, apropos of nothing at all, I have always been delighted by
+    the name of the other driver involved in Dean's fatal car crash in 1955--one DONALD
+    TURNUPSEED, no less. (Turnupseed survived the crash and died peacefully forty
+    years later.)
   title: What's in a Name?
-word_count: 115
+word_count: 114

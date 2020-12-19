@@ -1,7 +1,4 @@
 ngrams:
-- - alps
-  - imperious
-  - span
 - - i'll
   - heed
   - warnings
@@ -29,14 +26,38 @@ ngrams:
 - - suffering
   - who
   - suffer
+- - brain
+  - may
+  - need
 story:
   date: 2011-04-30
   id: 2011-04-30-the-magic-mountain
-  text: "Fair stood the wind for France\nThe land in which I'll prance\nAlong the\
-    \ boulevards and rues\nIn my winklepicker shoes\nThen to Switzerland I'll proceed\n\
-    To the Alps! Fear not, I'll heed\nWarnings about the high thin air\nWhich warn\
-    \ my brain may need repair\nBut that thin air is just the thing\nFor those of\
-    \ us who're suffering\nWho suffer as I do from TB\nLying shattered on a balcony\n\
-    High in the Alps\u2019 imperious span\nLike a character from Thomas Mann"
+  text: 'Fair stood the wind for France
+
+    The land in which I''ll prance
+
+    Along the boulevards and rues
+
+    In my winklepicker shoes
+
+    Then to Switzerland I''ll proceed
+
+    To the Alps! Fear not, I''ll heed
+
+    Warnings about the high thin air
+
+    Which warn my brain may need repair
+
+    But that thin air is just the thing
+
+    For those of us who''re suffering
+
+    Who suffer as I do from TB
+
+    Lying shattered on a balcony
+
+    High in the Alps'' imperious span
+
+    Like a character from Thomas Mann'
   title: The Magic Mountain
 word_count: 87

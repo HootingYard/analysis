@@ -14,9 +14,6 @@ ngrams:
 - - northern
   - borough
   - vestry
-- - nimble
-  - lamp
-  - lighter
 - - parish
   - undertakes
   - profession
@@ -38,9 +35,6 @@ ngrams:
 - - hazelnut
   - hedge
   - '-'
-- - waiter
-  - collects
-  - coat
 - - intriguing
   - entries
   - epping
@@ -50,33 +44,15 @@ ngrams:
 - - june
   - captain's
   - attempted
-- - bell
-  - ringer
-  - contradicted
-- - ringer
-  - contradicted
-  - th
 - - clarified
   - incident
   - leads
 - - norfolk
   - island
   - settlement
-- - lamp
-  - lighter
-  - th
 - - march
   - careers
   - voracious
-- - contradicted
-  - th
-  - july
-- - lighter
-  - th
-  - july
-- - duel
-  - th
-  - july
 - - th
   - october
   - philosophical
@@ -86,88 +62,140 @@ ngrams:
 - - th
   - june
   - captain's
-- - opera
-  - th
-  - june
-- - maker
-  - th
-  - february
 - - th
   - december
   - irish
-- - collects
-  - coat
-  - th
 - - th
   - july
   - gentleman
-- - wife
-  - rd
-  - august
 - - january
   - norfolk
   - island
-- - stay
-  - maker
-  - th
 - - th
   - january
   - warning
 - - th
   - july
   - ink
-- - vice
-  - th
-  - october
 - - blind
   - bullock
   - enters
 - - farmer's
   - wife
   - revealed
-- - burial
-  - service
-  - th
-- - bell
-  - th
-  - june
 - - july
   - report
   - confirmed
+- - island
+  - settlement
+  - lack
+- - th
+  - march
+  - careers
+- - june
+  - poultry
+  - hen
+- - th
+  - june
+  - poultry
+- - mistaking
+  - red
+  - ink
+- - poultry
+  - hen
+  - supposed
+- - th
+  - june
+  - report
+- - th
+  - july
+  - report
+- - th
+  - october
+  - poor
+- - reader
+  - peter
+  - ross
+- - shop
+  - catches
+  - string
+- - defends
+  - seeming
+  - want
+- - matters
+  - reader
+  - peter
+- - dock
+  - discovers
+  - number
+- - th
+  - june
+  - death
+- - against
+  - sending
+  - girls
+- - does
+  - considerable
+  - damage
 story:
   date: 2004-09-10
   id: 2004-09-10-a-voracious-bricklayer-and-other-matters
-  text: "Reader Peter Ross, who drew my attention to the above advertisement, has\
-    \ been trawling through the index to The Times newspaper for 1785-90 and has kindly\
-    \ sent these intriguing entries:\nEpping stag hunt ends in mangling of goat\u2014\
-    14th April 1789\nElopements : Dublin mechanic's daughter elopes with nimble lamp\
-    \ lighter\u201430th July 1789\nInk : Land-surveyor faints after mistaking red\
-    \ ink for blood\u201426th December 1789\nIrish people not yet refined enough for\
-    \ opera\u201419th June 1789\nDeath and Burial : Peruke maker shouts for another\
-    \ drink just before coffin is nailed up\u201427th June 1789\nPoultry : Hen supposed\
-    \ to be descendant of that which laid golden eggs\u20141st December 1789\nMan\
-    \ traps joker who knocks on doors and rings bells by attaching electrical shock\
-    \ to bell\u201429th June 1789 : Report of trap set for bell ringer contradicted\u2014\
-    6th July 1789: Report confirmed and clarified : incident leads to challenge to\
-    \ duel\u20146th July 1789\nFunerals : Clergyman criticised for eating filberts\
-    \ while reading burial service\u201413th October 1789\nMan drops down and expires\
-    \ while waiter collects coat\u20145th January 1789\nWarning given against sending\
-    \ girls to boarding schools which scientifically educate young to vice\u201420th\
-    \ October 1789\nPhilosophical fireworks defended\u201425th June 1789\nCaptain's\
-    \ attempted adultery with farmer's wife revealed after bear is let into chamber\
-    \ in wife's place.\u201412th January 1790\nNorfolk Island Settlement : Lack of\
-    \ candles forces islanders to go to bed as soon as it is dark\u201416th January\
-    \ 1790\nShipbuilder digging ground for dock discovers number of large trees and\
-    \ hazelnut hedge 12-14 ft below the surface.\u201420th March 1790\nCareers : Voracious\
-    \ bricklayer of St. Bride's parish undertakes profession of stay maker.\u2014\
-    19th February 1790\nOver-hurried blind bullock enters artists' colour shop on\
-    \ Holborn Bridge after missing way; does considerable damage before returning\
-    \ to the street through the window; then goads windows at watchmaker's shop, catches\
-    \ string of watches on its horns and disperses them among mob in street.\u2014\
-    13th October 1790\nPoor man kills himself with drinking in a northern borough;\
-    \ vestry clerk suggests that master of the workhouse should let rest of poor out\
-    \ to kill themselves and ease parish of them.\u20146th July 1790\nGentleman who\
-    \ offered twopence as reward for saving lady from drowning defends seeming want\
-    \ of generosity by declaring lady is wife.\u201423rd August 1790"
+  text: 'Reader Peter Ross, who drew my attention to the above advertisement, has
+    been trawling through the index to The Times newspaper for 1785-90 and has kindly
+    sent these intriguing entries:
+
+    Epping stag hunt ends in mangling of goat--14th April 1789
+
+    Elopements : Dublin mechanic''s daughter elopes with nimble lamp lighter--30th
+    July 1789
+
+    Ink : Land-surveyor faints after mistaking red ink for blood--26th December 1789
+
+    Irish people not yet refined enough for opera--19th June 1789
+
+    Death and Burial : Peruke maker shouts for another drink just before coffin is
+    nailed up--27th June 1789
+
+    Poultry : Hen supposed to be descendant of that which laid golden eggs--1st December
+    1789
+
+    Man traps joker who knocks on doors and rings bells by attaching electrical shock
+    to bell--29th June 1789 : Report of trap set for bell ringer contradicted--6th
+    July 1789: Report confirmed and clarified : incident leads to challenge to duel--6th
+    July 1789
+
+    Funerals : Clergyman criticised for eating filberts while reading burial service--13th
+    October 1789
+
+    Man drops down and expires while waiter collects coat--5th January 1789
+
+    Warning given against sending girls to boarding schools which scientifically educate
+    young to vice--20th October 1789
+
+    Philosophical fireworks defended--25th June 1789
+
+    Captain''s attempted adultery with farmer''s wife revealed after bear is let into
+    chamber in wife''s place.--12th January 1790
+
+    Norfolk Island Settlement : Lack of candles forces islanders to go to bed as soon
+    as it is dark--16th January 1790
+
+    Shipbuilder digging ground for dock discovers number of large trees and hazelnut
+    hedge 12-14 ft below the surface.--20th March 1790
+
+    Careers : Voracious bricklayer of St. Bride''s parish undertakes profession of
+    stay maker.--19th February 1790
+
+    Over-hurried blind bullock enters artists'' colour shop on Holborn Bridge after
+    missing way; does considerable damage before returning to the street through the
+    window; then goads windows at watchmaker''s shop, catches string of watches on
+    its horns and disperses them among mob in street.--13th October 1790
+
+    Poor man kills himself with drinking in a northern borough; vestry clerk suggests
+    that master of the workhouse should let rest of poor out to kill themselves and
+    ease parish of them.--6th July 1790
+
+    Gentleman who offered twopence as reward for saving lady from drowning defends
+    seeming want of generosity by declaring lady is wife.--23rd August 1790'
   title: A Voracious Bricklayer & Other Matters
-word_count: 367
+word_count: 373

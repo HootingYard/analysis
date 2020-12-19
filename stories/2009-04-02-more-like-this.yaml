@@ -20,12 +20,6 @@ ngrams:
 - - mayor's
   - recent
   - comment
-- - ectoplasm
-  - equally
-  - superb
-- - similar
-  - video
-  - clips
 - - watch
   - similar
   - video
@@ -47,19 +41,24 @@ ngrams:
 - - asked
   - him
   - how
+- - being
+  - questioned
+  - about
+- - snowfall
+  - viewers
+  - are
 story:
   date: 2009-04-02
   id: 2009-04-02-more-like-this
   text: "The BBC has a clip of London Mayor Boris Johnson getting a bit grumpy and\
     \ walking out of a Commons Select Committee meeting where he is being questioned\
     \ about the recent snowfall. Viewers are then offered the chance to watch similar\
-    \ video clips\u2014I assume that is the meaning of \u201CMore Like This\u201D\u2014\
-    including \u201CSnow-crazed stoat \u2018goes berserk'\u201D. Mayor, stoat\u2026\
-    \ can you tell the difference?\nIncidentally, I liked the Mayor's recent comment\
-    \ on some aspect, I forget which, of the global economic meltdown\u2014\u201C\
-    the medium has spoken but we have yet to see the ectoplasm!\u201D\xC2\_\nEqually\
-    \ superb was Peter Mandelson's reply to an interviewer who asked him how he felt\
-    \ to be involved in \u201Cthe fulcrum of history\u201D (illiterate hyperbabble\
-    \ for the G20 summit). \xC2\_\u201CThe soup's nice,\u201D said Mandelson."
+    \ video clips--I assume that is the meaning of \"More Like This\"--including \"\
+    Snow-crazed stoat 'goes berserk'\". Mayor, stoat... can you tell the difference?\n\
+    Incidentally, I liked the Mayor's recent comment on some aspect, I forget which,\
+    \ of the global economic meltdown--\"the medium has spoken but we have yet to\
+    \ see the ectoplasm!\"A \nEqually superb was Peter Mandelson's reply to an interviewer\
+    \ who asked him how he felt to be involved in \"the fulcrum of history\" (illiterate\
+    \ hyperbabble for the G20 summit). A \"The soup's nice,\" said Mandelson."
   title: More Like This
-word_count: 132
+word_count: 133

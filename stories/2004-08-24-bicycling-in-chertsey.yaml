@@ -5,9 +5,6 @@ ngrams:
 - - sunday
   - nd
   - august
-- - sincerely
-  - max
-  - d
 - - yours
   - sincerely
   - max
@@ -35,16 +32,20 @@ ngrams:
 - - years
   - ago
   - written
+- - purchased
+  - many
+  - years
 story:
   date: 2004-08-24
   id: 2004-08-24-bicycling-in-chertsey
-  text: "Sir : Idly perusing your website the other day [Sunday 22nd August] I was\
-    \ interested to see the quotation from the late 19th century aesthete Richard\
-    \ le Gallienne. Here is part of an autograph letter I purchased many years ago,\
-    \ written by the great man from his house in Brentford to a certain Mr Percy A\
-    \ Wells in January 1895, which concludes: 'P.S. If I am ever bicycling in the\
-    \ neighbourhood of Chertsey\u2014I hope I may come & see you.\u201C No mention\
-    \ of \u2018froglike verbal spawning,\u2019 but you can't have everything.Yours\
-    \ sincerely, Max D\xE9charn\xE9\n"
+  text: 'Sir : Idly perusing your website the other day [Sunday 22nd August] I was
+    interested to see the quotation from the late 19th century aesthete Richard le
+    Gallienne. Here is part of an autograph letter I purchased many years ago, written
+    by the great man from his house in Brentford to a certain Mr Percy A Wells in
+    January 1895, which concludes: ''P.S. If I am ever bicycling in the neighbourhood
+    of Chertsey--I hope I may come & see you." No mention of ''froglike verbal spawning,''
+    but you can''t have everything.Yours sincerely, Max Decharne
+
+    '
   title: Bicycling in Chertsey
-word_count: 98
+word_count: 97

@@ -20,9 +20,6 @@ ngrams:
 - - tight
   - burlap
   - sack
-- - drastic
-  - means
-  - twine
 - - massive
   - wrought
   - iron
@@ -59,9 +56,6 @@ ngrams:
 - - right
   - leg
   - amputated
-- - less
-  - drastic
-  - means
 - - sails
   - billowing
   - nothing
@@ -155,6 +149,9 @@ ngrams:
 - - glistens
   - even
   - shimmers
+- - africa
+  - '-'
+  - where
 - - leave
   - our
   - cabin
@@ -368,44 +365,46 @@ ngrams:
 - - phantom
   - ship
   - which
-- - shipping
-  - line
-  - so
 - - ship
   - look
   - there
 - - begin
   - somewhere
   - so
+- - who
+  - left
+  - her
+- - are
+  - soon
+  - asleep
 story:
   date: 2012-05-16
   id: 2012-05-16-on-aphinar
-  text: "ONE LOT\_: A SINGLE TUSK\n    ONE LOT\_: TWO TUSKS\n    ONE LOT\_: THREE\
-    \ TUSKS\n    ONE LOT\_: FOUR TUSKS\n    ONE LOT\_: TWO TUSKS\nTo the Director\n\
-    Dear Sir\n    I have come to enquire if I have anything left on account with you.\
-    \ I wish to change today my booking on this ship whose name I don't even know,\
-    \ but anyway it must be the ship from Aphinar. There are shipping lines going\
-    \ all over the place, but helpless and unhappy as I am, I can't find a single\
-    \ one\u2014the first dog you meet in the street will tell you this. Send me the\
-    \ prices of the ship from Aphinar to Suez. I am completely paralysed, so I wish\
-    \ to embark in good time. Please let me know when I should be carried aboard\u2026\
-    \nThus Arthur Rimbaud's last recorded words, dictated in a delirium to his sister\
-    \ Isabelle from his Marseille hospital bed on the eve of his death on 10 November\
-    \ 1891. As Charles Nicholl notes in Somebody Else\_: Arthur Rimbaud In Africa\
-    \ 188\u20131891 (1997),\nWhere or what Aphinar is no one is sure. The phrase he\
-    \ uses is le service d'Aphinar, which seems to mean \u2018the ship from Aphinar\u2019\
-    \ but could equally mean \u2018the Aphinar shipping line\u2019, so one cannot\
-    \ be quite sure if Aphinar is a place or a company, or even a particular captain.\
-    \ One cannot even be sure that \u2018Aphinar\u2019 is what Rimbaud said: it is\
-    \ only Isabelle's transcription. Was it rather Al Finar, the Arab word for \u2018\
-    lighthouse\u2019, and was this phantom ship which he wished to board \u2018in\
-    \ good time\u2019 the one that would carry him away from the light and into darkness?\n\
+  text: "ONE LOT : A SINGLE TUSK\n    ONE LOT : TWO TUSKS\n    ONE LOT : THREE TUSKS\n\
+    \    ONE LOT : FOUR TUSKS\n    ONE LOT : TWO TUSKS\nTo the Director\nDear Sir\n\
+    \    I have come to enquire if I have anything left on account with you. I wish\
+    \ to change today my booking on this ship whose name I don't even know, but anyway\
+    \ it must be the ship from Aphinar. There are shipping lines going all over the\
+    \ place, but helpless and unhappy as I am, I can't find a single one--the first\
+    \ dog you meet in the street will tell you this. Send me the prices of the ship\
+    \ from Aphinar to Suez. I am completely paralysed, so I wish to embark in good\
+    \ time. Please let me know when I should be carried aboard...\nThus Arthur Rimbaud's\
+    \ last recorded words, dictated in a delirium to his sister Isabelle from his\
+    \ Marseille hospital bed on the eve of his death on 10 November 1891. As Charles\
+    \ Nicholl notes in Somebody Else : Arthur Rimbaud In Africa 188-1891 (1997),\n\
+    Where or what Aphinar is no one is sure. The phrase he uses is le service d'Aphinar,\
+    \ which seems to mean 'the ship from Aphinar' but could equally mean 'the Aphinar\
+    \ shipping line', so one cannot be quite sure if Aphinar is a place or a company,\
+    \ or even a particular captain. One cannot even be sure that 'Aphinar' is what\
+    \ Rimbaud said: it is only Isabelle's transcription. Was it rather Al Finar, the\
+    \ Arab word for 'lighthouse', and was this phantom ship which he wished to board\
+    \ 'in good time' the one that would carry him away from the light and into darkness?\n\
     But we must begin somewhere, so, in the teeth of uncertainty, we dismiss the shipping\
     \ line, the captain, the lighthouse, and we say Aphinar is a place, a city, a\
     \ distant city across the sea, and we set out to find it. We pack twelve tusks,\
     \ divided into five lots, into a pippy bag and we sling it over our shoulder.\
     \ Mindful that Rimbaud had lost his right leg to the surgeon's saw on 27 May,\
-    \ we hobble our own right leg by less drastic means\u2014twine and cord, perhaps,\
+    \ we hobble our own right leg by less drastic means--twine and cord, perhaps,\
     \ or a tight burlap sack. And so on crutches we make our way to the docks. It\
     \ may be that we are setting out on a journey from which there will be no return,\
     \ a hopeless and pointless journey, like the one undertaken by the Japanese student\
@@ -450,4 +449,4 @@ story:
     \ the ship, the ship! It is riding the waves, fast and steady and straight, sails\
     \ billowing. Nothing can stop us. We are on our way to Aphinar!"
   title: On Aphinar
-word_count: 1010
+word_count: 1009

@@ -35,9 +35,6 @@ ngrams:
 - - callous
   - cracked
   - heels
-- - specified
-  - ailments
-  - e
 - - remarkable
   - external
   - application
@@ -68,9 +65,6 @@ ngrams:
 - - caked
   - breast
   - c
-- - breast
-  - c
-  - e
 - - hands
   - cramps
   - contraction
@@ -83,26 +77,40 @@ ngrams:
 - - most
   - remarkable
   - external
+- - external
+  - application
+  - ever
 story:
   date: 2005-06-16
   id: 2005-06-16-how-to-look-after-a-horse
-  text: "B\u2014Have you a horse?\nE\u2014I have a horse.\nB\u2014This horse you have,\
-    \ has it been known to suffer from some common ailments of the horse?\nE\u2014\
-    A horse I have. A knowledge of horse health I have not.\nB\u2014Better put \u201C\
-    horse ill-health\u201D than \u201Chorse health\u201D. Lack of horse ailment knowledge\
-    \ would suggest you know not of spavins, sweeney, ringbone, windgalls, poll evil,\
-    \ callous, cracked heels, galls of all kinds, fresh wounds, sprains, bruises,\
-    \ fistula, sitfast, sand cracks, strains, lameness, foundered feet, scratches\
-    \ or grease, mange, rheumatism, bites of animals, external poisons, painful nervous\
-    \ affections, frost bites, boils, corns, whitlows, burns and scalds, chilblains,\
-    \ chapped hands, cramps, contraction of the muscles, swellings, weakness of the\
-    \ joints, caked breast, &c.\nE\u2014I know them not but find it hard to credit\
-    \ they are all ailments of horse.\nB\u2014They are indeed not entirely those of\
-    \ the horse, but of that no matter. My point is that by making purchase of Geo.\
-    \ W. Merchant's Celebrated Gargling Oil, unparalleled in the history of medicine\
-    \ as the most remarkable external application ever discovered for horses and human\
-    \ flesh, you will cure your horse of all the specified ailments.\nE\u2014I shall\
-    \ make such purchase without further ado.\nHooting Yard is indebted to Odd Ends.\
-    \ Go there and be delighted."
+  text: 'B--Have you a horse?
+
+    E--I have a horse.
+
+    B--This horse you have, has it been known to suffer from some common ailments
+    of the horse?
+
+    E--A horse I have. A knowledge of horse health I have not.
+
+    B--Better put "horse ill-health" than "horse health". Lack of horse ailment knowledge
+    would suggest you know not of spavins, sweeney, ringbone, windgalls, poll evil,
+    callous, cracked heels, galls of all kinds, fresh wounds, sprains, bruises, fistula,
+    sitfast, sand cracks, strains, lameness, foundered feet, scratches or grease,
+    mange, rheumatism, bites of animals, external poisons, painful nervous affections,
+    frost bites, boils, corns, whitlows, burns and scalds, chilblains, chapped hands,
+    cramps, contraction of the muscles, swellings, weakness of the joints, caked breast,
+    &c.
+
+    E--I know them not but find it hard to credit they are all ailments of horse.
+
+    B--They are indeed not entirely those of the horse, but of that no matter. My
+    point is that by making purchase of Geo. W. Merchant''s Celebrated Gargling Oil,
+    unparalleled in the history of medicine as the most remarkable external application
+    ever discovered for horses and human flesh, you will cure your horse of all the
+    specified ailments.
+
+    E--I shall make such purchase without further ado.
+
+    Hooting Yard is indebted to Odd Ends. Go there and be delighted.'
   title: How to Look After a Horse
-word_count: 224
+word_count: 216

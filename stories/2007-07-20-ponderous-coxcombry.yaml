@@ -14,9 +14,6 @@ ngrams:
 - - could
   - lift
   - four
-- - equestrians
-  - who
-  - wrestled
 - - using
   - nothing
   - more
@@ -29,16 +26,21 @@ ngrams:
 - - nothing
   - more
   - than
+- - an
+  - egyptian
+  - extravaganza
 story:
   date: 2007-07-20
   id: 2007-07-20-ponderous-coxcombry
-  text: "From Necropolis\_: London And Its Dead by Catharine Arnold:\n\u201COne of\
-    \ the most spectacular monuments [in Kensal Green cemetery] is the \xC2\xA33,000\
-    \ tomb of Andrew Ducrow, an Egyptian extravaganza that The Builder dismissed as\
-    \ \u2018ponderous coxcombry\u2019. Ducrow (1793\u20131842) was a showman, \u2018\
-    the Colossus of Equestrians\u2019, who wrestled with lions, re-enacted scenes\
-    \ from Napoleonic battles, and could lift four or five children using nothing\
-    \ more than his teeth.\u201D\nWe are not told if the children in question were\
-    \ pious Victorian orphans, but I expect they were."
+  text: 'From Necropolis : London And Its Dead by Catharine Arnold:
+
+    "One of the most spectacular monuments [in Kensal Green cemetery] is the APS3,000
+    tomb of Andrew Ducrow, an Egyptian extravaganza that The Builder dismissed as
+    ''ponderous coxcombry''. Ducrow (1793-1842) was a showman, ''the Colossus of Equestrians'',
+    who wrestled with lions, re-enacted scenes from Napoleonic battles, and could
+    lift four or five children using nothing more than his teeth."
+
+    We are not told if the children in question were pious Victorian orphans, but
+    I expect they were.'
   title: Ponderous Coxcombry
-word_count: 85
+word_count: 87

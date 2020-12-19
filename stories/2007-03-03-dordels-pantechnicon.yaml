@@ -1,7 +1,4 @@
 ngrams:
-- - link
-  - saying
-  - sometimes
 - - yard
   - http
   - www
@@ -20,13 +17,20 @@ ngrams:
 - - me
   - this
   - link
+- - is
+  - right
+  - go
 story:
   date: 2007-03-03
   id: 2007-03-03-dordels-pantechnicon
-  text: "Peacay, onlie begetter of the splendid BibliOdyssey site, sent me a link,\
-    \ saying: \u2018Sometimes I see a link and they sing to me. This link sang \u201C\
-    Hoooot Hoooooooooot Hooooooooooooting Yard\u201D.\nhttp://www.forgottenfutures.com/pantech/pant1.htm\n\
-    I shan't spoil the occasion by describing it.\u2019\nPeacay is right. Go there\
-    \ and be lost in wonder and delight."
+  text: 'Peacay, onlie begetter of the splendid BibliOdyssey site, sent me a link,
+    saying: ''Sometimes I see a link and they sing to me. This link sang "Hoooot Hoooooooooot
+    Hooooooooooooting Yard".
+
+    http://www.forgottenfutures.com/pantech/pant1.htm
+
+    I shan''t spoil the occasion by describing it.''
+
+    Peacay is right. Go there and be lost in wonder and delight.'
   title: D'Ordel's Pantechnicon
-word_count: 59
+word_count: 60

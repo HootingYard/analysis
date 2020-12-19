@@ -1,23 +1,23 @@
 ngrams:
-- - attitude
+- - '-'
   - theodore
   - dalrymple
+- - attitude
+  - '-'
+  - theodore
 - - expressed
   - attitude
-  - theodore
+  - '-'
 - - commonly
   - expressed
   - attitude
 - - socks
   - observation
   - attention
-- - new
-  - english
-  - review
 story:
   date: 2009-04-03
   id: 2009-04-03-socks-observation
-  text: "\u201CAttention to and gratitude for socks is not a commonly expressed attitude.\u201D\
-    \_ \u2013 Theodore Dalrymple in the New English Review."
+  text: '"Attention to and gratitude for socks is not a commonly expressed attitude."  -
+    Theodore Dalrymple in the New English Review.'
   title: Socks Observation
-word_count: 21
+word_count: 22

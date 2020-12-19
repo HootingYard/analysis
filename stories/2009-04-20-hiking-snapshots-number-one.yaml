@@ -2,9 +2,6 @@ ngrams:
 - - hiking
   - snapshots
   - number
-- - mountain
-  - film
-  - st
 - - very
   - rare
   - photograph
@@ -17,13 +14,17 @@ ngrams:
 - - print
   - pamphleteer
   - but
+- - still
+  - from
+  - arnold
 story:
   date: 2009-04-20
   id: 2009-04-20-hiking-snapshots-number-one
-  text: "Here is a very rare photograph of Dobson hiking in the mountains:\n\nUPDATE\_\
-    : A particularly rigorous Dobsonist has written a hot-headed letter insisting\
-    \ that this is not a photograph of the out of print pamphleteer, but is in fact\
-    \ a still from Arnold Fanck's 1930 \u201Cmountain film\u201D St\xFCrme \xFCber\
-    \ dem Montblanc."
+  text: 'Here is a very rare photograph of Dobson hiking in the mountains:
+
+
+    UPDATE : A particularly rigorous Dobsonist has written a hot-headed letter insisting
+    that this is not a photograph of the out of print pamphleteer, but is in fact
+    a still from Arnold Fanck''s 1930 "mountain film" Sturme uber dem Montblanc.'
   title: Hiking Snapshots, Number One
-word_count: 55
+word_count: 54

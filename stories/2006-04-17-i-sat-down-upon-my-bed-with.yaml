@@ -2,12 +2,6 @@ ngrams:
 - - frederick
   - arthur
   - ambrose
-- - smelling
-  - soup
-  - frederick
-- - soup
-  - frederick
-  - arthur
 - - worse
   - smelling
   - soup
@@ -44,17 +38,26 @@ ngrams:
 - - their
   - victims
   - while
+- - hands
+  - an
+  - object
+- - punctuated
+  - at
+  - frequent
+- - at
+  - frequent
+  - intervals
 story:
   date: 2006-04-17
   id: 2006-04-17-i-sat-down-upon-my-bed-with
-  text: "\u201CI sat down upon my bed with my bleeding, aching head in my hands, an\
-    \ object of abject misery. Not a sound beyond the clanging of doors was to be\
-    \ heard, punctuated at frequent intervals by the dull thud of blows, as some hapless\
-    \ wretch was being clubbed, the shrieks and howls of prisoners, and the groans\
-    \ of those on the verge of insanity. It was just as if all the demons of the Nether\
-    \ Regions were at work worrying and harrying their victims. While rocking myself\
-    \ to and fro I heard the turning of the key. The gaoler entered with a bowl containing\
-    \ some evil-looking and worse smelling soup.\u201D \u2014 Frederick Arthur Ambrose\
-    \ Talbot, Sixteen Months In Four German Prisons"
-  title: "\u201CI sat down upon my bed with\u2026\u201D"
-word_count: 127
+  text: '"I sat down upon my bed with my bleeding, aching head in my hands, an object
+    of abject misery. Not a sound beyond the clanging of doors was to be heard, punctuated
+    at frequent intervals by the dull thud of blows, as some hapless wretch was being
+    clubbed, the shrieks and howls of prisoners, and the groans of those on the verge
+    of insanity. It was just as if all the demons of the Nether Regions were at work
+    worrying and harrying their victims. While rocking myself to and fro I heard the
+    turning of the key. The gaoler entered with a bowl containing some evil-looking
+    and worse smelling soup." -- Frederick Arthur Ambrose Talbot, Sixteen Months In
+    Four German Prisons'
+  title: '"I sat down upon my bed with..."'
+word_count: 128

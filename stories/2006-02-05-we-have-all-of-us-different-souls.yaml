@@ -2,9 +2,6 @@ ngrams:
 - - greatest
   - ease
   - imaginable
-- - real
-  - commerce
-  - henry
 - - agreeable
   - most
   - instructive
@@ -44,17 +41,20 @@ ngrams:
 - - intelligent
   - writer
   - can
+- - writer
+  - can
+  - form
 story:
   date: 2006-02-05
   id: 2006-02-05-we-have-all-of-us-different-souls
-  text: "\u201CWe have all of us different Souls, and our Souls have Affections as\
-    \ different from one another, as our outward Faces are in their Lineaments. Each\
-    \ Man contains a little World within himself\u2026 By the help of this Knowledge\
-    \ an intelligent Writer can form to his Reader the most agreeable, most instructive\
-    \ Entertainment that can possibly be desir'd; transport him, with the greatest\
-    \ Ease imaginable, from the Solitude of his Chamber to Places of the greatest\
-    \ Concourse; there to see and learn the Virtues of Men; there to see and shun\
-    \ their Vices, without any danger of being corrupted by the Contagion of a real\
-    \ Commerce.\u201D \u2014 Henry Gally, A Critical Essay On Characteristic-Writings"
-  title: "\u201CWe have all of us different Souls,\u2026\u201D"
-word_count: 120
+  text: '"We have all of us different Souls, and our Souls have Affections as different
+    from one another, as our outward Faces are in their Lineaments. Each Man contains
+    a little World within himself... By the help of this Knowledge an intelligent
+    Writer can form to his Reader the most agreeable, most instructive Entertainment
+    that can possibly be desir''d; transport him, with the greatest Ease imaginable,
+    from the Solitude of his Chamber to Places of the greatest Concourse; there to
+    see and learn the Virtues of Men; there to see and shun their Vices, without any
+    danger of being corrupted by the Contagion of a real Commerce." -- Henry Gally,
+    A Critical Essay On Characteristic-Writings'
+  title: '"We have all of us different Souls,..."'
+word_count: 121

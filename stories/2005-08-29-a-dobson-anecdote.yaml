@@ -62,9 +62,6 @@ ngrams:
 - - imitated
   - art
   - however
-- - nobody
-  - else
-  - marigold
 - - racket
   - having
   - chosen
@@ -77,9 +74,6 @@ ngrams:
 - - money
   - life
   - imitated
-- - else
-  - marigold
-  - chew
 - - essay
   - explaining
   - why
@@ -197,49 +191,61 @@ ngrams:
 - - enthusiasm
   - led
   - him
+- - crestfallen
+  - chap
+  - who
 story:
   date: 2005-08-29
   id: 2005-08-29-a-dobson-anecdote
-  text: "It would be no exaggeration to say that Dobson was besotted with cinema.\
-    \ He was always a great filmgoer, and on occasion his enthusiasm led him into\
-    \ typically preposterous escapades. There was a period when he became infatuated\
-    \ with Hollywood films about lowlife gangsterdom and seedy urban hustling. One\
-    \ day he announced to Marigold Chew that he was going to run a numbers racket.\n\
-    \u201CWhat are you talking about?\u201D asked Marigold.\nDobson explained that\
-    \ in many of the films he had been watching, characters were often employed as\
-    \ \u201Crunners for the numbers racket\u201D, and that he found such a trade diverting.\
-    \ \u201CIt will make a change from writing pamphlets,\u201D he said.\nHaving studied\
-    \ his sources carefully, Dobson worked out that \u201Crunning the numbers\u201D\
-    \ involved roaming the streets tracking down his clients and taking money from\
-    \ them. But first, he reasoned, they needed their numbers, a side of the racket\
-    \ that was probably not shown in the films because it lacked drama. He approached\
-    \ his new career methodically, first drawing up a list of people to whom he could\
-    \ give numbers. Deciding to limit himself to a dozen clients, he included his\
-    \ next door neighbours on both sides, the post office person, a crestfallen chap\
-    \ who walked his dog along the street every day, the bell foundry janitor, Mrs\
-    \ Pod and the five orphans she taught in her ramshackle Sunday School, and\u2014\
-    because he could think of nobody else\u2014Marigold Chew.\nThis much accomplished,\
-    \ Dobson realised that he did not know which numbers he ought to give them. He\
-    \ spent a few weeks catching up on appropriate films, but learned nothing new,\
-    \ so he buried his head in ancient numerological and astrological texts, much\
-    \ as, he suspected, characters like \u201CTwo Hats\u201D McGulligan did off-screen\
-    \ before entering the numbers racket.\nHaving chosen twelve numbers, Dobson wrote\
-    \ each one down on scraps of paper and spent an overcast afternoon distributing\
-    \ them to his clients. Only Marigold asked him what he thought he was doing, to\
-    \ which he replied \u201CI am running a numbers racket. That is your number. Keep\
-    \ it safe.\u201D\nDobson's excitement mounted as the week went past. To calm himself\
-    \ down, he spent much of the time at a pigsty, observing pigs doing what pigs\
-    \ do. Then, after seven days had elapsed, he went roaming around to collect his\
-    \ money. Life imitated art, however. Each of his twelve clients whined and wheedled\
-    \ and pleaded for more time to pay, complaining of a lack of funds and promising\
-    \ that they would pay up as soon as they could. Dobson found the whimpering of\
-    \ Mrs Pod's orphans particularly exasperating, so much so that within hours he\
-    \ decided to go back to pamphlet-writing.\nAbout two years later, Marigold Chew\
-    \ asked him about his numbers racket, but by then Dobson's cinematic enthusiasm\
-    \ was for films about the earth being invaded by hostile extra-terrestrial beings\
-    \ with suckers and tentacles, and he was busy writing an essay explaining why\
-    \ they always landed their spaceships near major American cities, rather than,\
-    \ say, English seaside resorts or campsites.\nSource : Some Things Dobson Did\
-    \ When He Was Not Writing Pamphlets, ed. Aloysius Nestingbird et al"
+  text: 'It would be no exaggeration to say that Dobson was besotted with cinema.
+    He was always a great filmgoer, and on occasion his enthusiasm led him into typically
+    preposterous escapades. There was a period when he became infatuated with Hollywood
+    films about lowlife gangsterdom and seedy urban hustling. One day he announced
+    to Marigold Chew that he was going to run a numbers racket.
+
+    "What are you talking about?" asked Marigold.
+
+    Dobson explained that in many of the films he had been watching, characters were
+    often employed as "runners for the numbers racket", and that he found such a trade
+    diverting. "It will make a change from writing pamphlets," he said.
+
+    Having studied his sources carefully, Dobson worked out that "running the numbers"
+    involved roaming the streets tracking down his clients and taking money from them.
+    But first, he reasoned, they needed their numbers, a side of the racket that was
+    probably not shown in the films because it lacked drama. He approached his new
+    career methodically, first drawing up a list of people to whom he could give numbers.
+    Deciding to limit himself to a dozen clients, he included his next door neighbours
+    on both sides, the post office person, a crestfallen chap who walked his dog along
+    the street every day, the bell foundry janitor, Mrs Pod and the five orphans she
+    taught in her ramshackle Sunday School, and--because he could think of nobody
+    else--Marigold Chew.
+
+    This much accomplished, Dobson realised that he did not know which numbers he
+    ought to give them. He spent a few weeks catching up on appropriate films, but
+    learned nothing new, so he buried his head in ancient numerological and astrological
+    texts, much as, he suspected, characters like "Two Hats" McGulligan did off-screen
+    before entering the numbers racket.
+
+    Having chosen twelve numbers, Dobson wrote each one down on scraps of paper and
+    spent an overcast afternoon distributing them to his clients. Only Marigold asked
+    him what he thought he was doing, to which he replied "I am running a numbers
+    racket. That is your number. Keep it safe."
+
+    Dobson''s excitement mounted as the week went past. To calm himself down, he spent
+    much of the time at a pigsty, observing pigs doing what pigs do. Then, after seven
+    days had elapsed, he went roaming around to collect his money. Life imitated art,
+    however. Each of his twelve clients whined and wheedled and pleaded for more time
+    to pay, complaining of a lack of funds and promising that they would pay up as
+    soon as they could. Dobson found the whimpering of Mrs Pod''s orphans particularly
+    exasperating, so much so that within hours he decided to go back to pamphlet-writing.
+
+    About two years later, Marigold Chew asked him about his numbers racket, but by
+    then Dobson''s cinematic enthusiasm was for films about the earth being invaded
+    by hostile extra-terrestrial beings with suckers and tentacles, and he was busy
+    writing an essay explaining why they always landed their spaceships near major
+    American cities, rather than, say, English seaside resorts or campsites.
+
+    Source : Some Things Dobson Did When He Was Not Writing Pamphlets, ed. Aloysius
+    Nestingbird et al'
   title: A Dobson Anecdote
-word_count: 528
+word_count: 526

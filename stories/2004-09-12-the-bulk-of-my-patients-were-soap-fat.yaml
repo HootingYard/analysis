@@ -5,20 +5,19 @@ ngrams:
 - - my
   - patients
   - were
-- - and
-  - worse
-  - silas
 - - of
   - my
   - patients
 - - of
   - my
   - patients
+- - bulk
+  - of
+  - my
 story:
   date: 2004-09-12
   id: 2004-09-12-the-bulk-of-my-patients-were-soap-fat
-  text: "\u201CThe bulk of my patients were soap-fat men, rag-pickers, oystermen,\
-    \ hose-house bummers, and worse\u201D \u2014 Silas Weir Mitchell, The Autobiography\
-    \ Of A Quack"
-  title: "\u201CThe bulk of my patients were soap-fat\u2026\u201D"
-word_count: 29
+  text: '"The bulk of my patients were soap-fat men, rag-pickers, oystermen, hose-house
+    bummers, and worse" -- Silas Weir Mitchell, The Autobiography Of A Quack'
+  title: '"The bulk of my patients were soap-fat..."'
+word_count: 30

@@ -1,7 +1,4 @@
 ngrams:
-- - circuit
-  - anna
-  - hunger
 - - instant
   - hung
   - suspended
@@ -44,18 +41,23 @@ ngrams:
 - - who
   - entered
   - world
+- - burned
+  - out
+  - circuit
+- - man
+  - who
+  - lived
 story:
   date: 2004-12-09
   id: 2004-12-09-she-opened-the-cage-and-the-bird
-  text: "\u201CShe opened the cage and the bird darted into the free air which was\
-    \ the only environment it understood. As it circled the room, its wings brushed\
-    \ the far wall. It shivered an instant, hung suspended as if supported by some\
-    \ unseen hand, and died as it fell to the floor. Neither the bird nor Tarmo had\
-    \ knowledge of the concealed, highly charged panels which recorded, both fluoroscopically\
-    \ and photographically, the images of all those who entered World Center. The\
-    \ image of the bird had appeared on the fluorescent screen. The photographic circuit\
-    \ had been made. And the technicians would curse a burned out circuit.\u201D \u2014\
-    \ Anna Hunger & R DeWitt Miller, The Man Who Lived Forever (clearly the bird did\
-    \ not)"
-  title: "\u201CShe opened the cage and the bird\u2026\u201D"
-word_count: 127
+  text: '"She opened the cage and the bird darted into the free air which was the
+    only environment it understood. As it circled the room, its wings brushed the
+    far wall. It shivered an instant, hung suspended as if supported by some unseen
+    hand, and died as it fell to the floor. Neither the bird nor Tarmo had knowledge
+    of the concealed, highly charged panels which recorded, both fluoroscopically
+    and photographically, the images of all those who entered World Center. The image
+    of the bird had appeared on the fluorescent screen. The photographic circuit had
+    been made. And the technicians would curse a burned out circuit." -- Anna Hunger
+    & R DeWitt Miller, The Man Who Lived Forever (clearly the bird did not)'
+  title: '"She opened the cage and the bird..."'
+word_count: 128

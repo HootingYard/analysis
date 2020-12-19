@@ -2,12 +2,6 @@ ngrams:
 - - invaluable
   - tome
   - hits
-- - charles
-  - ives
-  - recommended
-- - ives
-  - recommended
-  - sit
 - - coming
   - saturday
   - th
@@ -44,25 +38,32 @@ ngrams:
 - - hour
   - every
   - week
-- - recommended
-  - sit
-  - down
 - - sit
   - down
   - pin
+- - saturday
+  - th
+  - may
+- - th
+  - may
+  - tune
+- - mr
+  - key
+  - goes
 story:
   date: 2010-05-26
   id: 2010-05-26-mr-key-goes-feral
-  text: "Babbling prose into a microphone for half an hour every week is all very\
-    \ well, but occasionally one feels impelled to vent in a less\u2026 shall we say,\
-    \ prosaic manner. To this end, I am very pleased (I think) to be taking part in\
-    \ a performance by Phil Minton's Feral Choir this coming Saturday, 29th May.\n\
-    Tune in to ResonanceFM at 8.00 PM, and\u2014as Charles Ives recommended\u2014\u201C\
-    sit down, pin back your ears, and listen like a man!\u201D (Women are equally\
-    \ adept at this practice.)\nIncidentally, and quite coincidentally, both Phil\
-    \ Minton and I have contributions due to appear in a forthcoming recipe book,\
-    \ to be sold for charity. I am not joking. I will of course keep readers fully\
-    \ informed, so you can buy innumerable copies when this invaluable tome hits the\
-    \ boulevards."
+  text: 'Babbling prose into a microphone for half an hour every week is all very
+    well, but occasionally one feels impelled to vent in a less... shall we say, prosaic
+    manner. To this end, I am very pleased (I think) to be taking part in a performance
+    by Phil Minton''s Feral Choir this coming Saturday, 29th May.
+
+    Tune in to ResonanceFM at 8.00 PM, and--as Charles Ives recommended--"sit down,
+    pin back your ears, and listen like a man!" (Women are equally adept at this practice.)
+
+    Incidentally, and quite coincidentally, both Phil Minton and I have contributions
+    due to appear in a forthcoming recipe book, to be sold for charity. I am not joking.
+    I will of course keep readers fully informed, so you can buy innumerable copies
+    when this invaluable tome hits the boulevards.'
   title: Mr Key Goes Feral
-word_count: 138
+word_count: 137

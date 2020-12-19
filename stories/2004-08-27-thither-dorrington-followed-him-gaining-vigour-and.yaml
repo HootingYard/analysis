@@ -1,7 +1,4 @@
 ngrams:
-- - oven
-  - arthur
-  - morrison
 - - struggling
   - wretch
   - across
@@ -29,15 +26,19 @@ ngrams:
 - - crepe
   - whiskers
   - as
+- - shivering
+  - with
+  - terror
 story:
   date: 2004-08-27
   id: 2004-08-27-thither-dorrington-followed-him-gaining-vigour-and
-  text: "\u201CThither Dorrington followed him, gaining vigour and fury at every step.\
-    \ At sight of him the wretched Mallows sank in a corner, sighing and shivering\
-    \ with terror. Dorrington hauled the struggling wretch across the room, tearing\
-    \ off the crepe whiskers as he came, while Mallows supplicated and whined, fearing\
-    \ that it might be the other's design to imprison him in the enamelling oven.\u201D\
-    \ \u2014 Arthur Morrison, The Affair Of The Avalanche Bicycle & Tyre Co., Ltd.\n\
-    Gosh!"
-  title: "\u201CThither Dorrington followed him, gaining vigour and\u2026\u201D"
-word_count: 82
+  text: '"Thither Dorrington followed him, gaining vigour and fury at every step.
+    At sight of him the wretched Mallows sank in a corner, sighing and shivering with
+    terror. Dorrington hauled the struggling wretch across the room, tearing off the
+    crepe whiskers as he came, while Mallows supplicated and whined, fearing that
+    it might be the other''s design to imprison him in the enamelling oven." -- Arthur
+    Morrison, The Affair Of The Avalanche Bicycle & Tyre Co., Ltd.
+
+    Gosh!'
+  title: '"Thither Dorrington followed him, gaining vigour and..."'
+word_count: 83

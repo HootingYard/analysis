@@ -11,24 +11,12 @@ ngrams:
 - - butter
   - jam
   - etc
-- - snip
-  - n
-  - gum
-- - snip
-  - n
-  - gum
 - - usually
   - eaten
   - split
 - - possibly
   - inexhaustible
   - topic
-- - print
-  - snip
-  - n
-- - print
-  - snip
-  - n
 - - small
   - flat
   - cake
@@ -59,21 +47,33 @@ ngrams:
 - - just
   - print
   - snip
+- - device
+  - just
+  - print
+- - webster
+  - has
+  - kindly
+- - has
+  - kindly
+  - provided
+- - your
+  - heraldic
+  - muffin
 story:
   date: 2009-03-09
   id: 2009-03-09-print-snip-n-gum
   text: "At the risk of this becoming a muffincentric website, I think it is important\
-    \ that readers are given the fruits of Glyn Webster's tireless\u2014if no doubt\
-    \ tiring\u2014researches into what the OED defines as a small, flat, cake made\
-    \ from yeast batter and cooked on a hotplate, usually eaten split, toasted, and\
-    \ spread with butter, jam, etc., esp. for breakfast or tea. Interestingly, in\
-    \ the dictionary's first citation, from 1703, it is spelled Moofin, and in the\
-    \ second, from 1747, Muffing (capitalisation in the originals). I wonder if it\
-    \ is too late to beat against the tides of history and to reintroduce one or other\
-    \ of these spellings?\nAnyway, the only reason I have returned to this possibly\
-    \ inexhaustible topic is that, having apprised himself of the difference between\
-    \ true Moofins and what the rest of the world outside Britain think is a Muffing,\
-    \ Mr Webster has kindly provided these cut-out \u201Cpatches\u201D or \u201Cplug-ins\u201D\
-    \ for your heraldic muffin device. Just print, snip, \u2018n\u2019 gum!\n\n\_"
-  title: "Print, Snip, \u2018n\u2019 Gum"
-word_count: 167
+    \ that readers are given the fruits of Glyn Webster's tireless--if no doubt tiring--researches\
+    \ into what the OED defines as a small, flat, cake made from yeast batter and\
+    \ cooked on a hotplate, usually eaten split, toasted, and spread with butter,\
+    \ jam, etc., esp. for breakfast or tea. Interestingly, in the dictionary's first\
+    \ citation, from 1703, it is spelled Moofin, and in the second, from 1747, Muffing\
+    \ (capitalisation in the originals). I wonder if it is too late to beat against\
+    \ the tides of history and to reintroduce one or other of these spellings?\nAnyway,\
+    \ the only reason I have returned to this possibly inexhaustible topic is that,\
+    \ having apprised himself of the difference between true Moofins and what the\
+    \ rest of the world outside Britain think is a Muffing, Mr Webster has kindly\
+    \ provided these cut-out \"patches\" or \"plug-ins\" for your heraldic muffin\
+    \ device. Just print, snip, 'n' gum!\n\n "
+  title: Print, Snip, 'n' Gum
+word_count: 165

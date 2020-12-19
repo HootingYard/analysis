@@ -14,12 +14,6 @@ ngrams:
 - - lewis
   - gaylord
   - clark
-- - savage
-  - rotary
-  - magnetic
-- - rotary
-  - magnetic
-  - machine
 - - henry
   - hall
   - sherwood
@@ -38,18 +32,26 @@ ngrams:
 - - two
   - snippets
   - before
+- - electromagnetic
+  - theories
+  - who
+- - into
+  - dr
+  - henry
 story:
   date: 2010-03-16
   id: 2010-03-16-two-snippets
-  text: "Before I return it to the library, here are two further snippets from The\
-    \ Sun And The Moon\_: The Remarkable True Account Of Hoaxers, Showmen, Dueling\
-    \ Journalists, And Lunar Man-Bats In Nineteenth-Century New York by Matthew Goodman:\n\
-    Lewis Gaylord Clark on Edgar Allan Poe\_: \u201Ca mortified but impotent litt\xE9\
-    rateur\u2026 an ambitious \u2018authorling\u2019 perhaps of a small volume of\
-    \ effete and lamentable trash\u201D.\nI am minded to conduct enquiries into Dr\
-    \ Henry Hall Sherwood of New York, a man with \u201Ccontroversial electromagnetic\
-    \ theories\u201D who \u201Cwould become known for his \u2018savage rotary magnetic\
-    \ machine\u2019 which he claimed could cure all manner of diseases from rheumatism\
-    \ to herpes and tuberculosis\u201D. Gosh!"
+  text: 'Before I return it to the library, here are two further snippets from The
+    Sun And The Moon : The Remarkable True Account Of Hoaxers, Showmen, Dueling Journalists,
+    And Lunar Man-Bats In Nineteenth-Century New York by Matthew Goodman:
+
+    Lewis Gaylord Clark on Edgar Allan Poe : "a mortified but impotent litterateur...
+    an ambitious ''authorling'' perhaps of a small volume of effete and lamentable
+    trash".
+
+    I am minded to conduct enquiries into Dr Henry Hall Sherwood of New York, a man
+    with "controversial electromagnetic theories" who "would become known for his
+    ''savage rotary magnetic machine'' which he claimed could cure all manner of diseases
+    from rheumatism to herpes and tuberculosis". Gosh!'
   title: Two Snippets
-word_count: 111
+word_count: 110

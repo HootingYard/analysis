@@ -5,9 +5,6 @@ ngrams:
 - - community
   - yours
   - sincerely
-- - m
-  - l
-  - e
 - - yours
   - sincerely
   - frank
@@ -65,22 +62,32 @@ ngrams:
 - - collection
   - lend
   - me
+- - an
+  - online
+  - sample
 story:
   date: 2007-10-18
   id: 2007-10-18-that-boris-johnson-letter-in-full
-  text: "Continuing very briefly with the political slant, I felt impelled this morning\
-    \ to fire off an email to Boris Johnson. This is what I wrote:\nDear Mr Johnson\n\
-    I just stumbled upon an online sample of quotations from your collection Lend\
-    \ Me Your Ears, in one of which you claim that ping-pong was first called whiff-whaff.\
-    \ I think you may be mistaken. Ping-pong was, at least in Britain, originally\
-    \ known as \u201CGossima\u201D, and marketed as \u201CCausing immense excitement\
-    \ and healthy exercise and is the nearest approach that can be to the game of\
-    \ lawn tennis as played out of doors\u201D (1901).\nI trust that in the m\u0207\
-    l\xE9e of your constituency duties and campaigning for the London Mayoralty, you\
-    \ will do the decent thing and arrange for a correction to appear in any future\
-    \ edition of the book. Ideally, of course, you will also make a public statement\
-    \ on the matter. Such willingness to acknowledge past errors does smack a little\
-    \ of Stalinism, but may go down well with the ping-pong community.\nYours sincerely,\n\
-    Frank Key"
+  text: 'Continuing very briefly with the political slant, I felt impelled this morning
+    to fire off an email to Boris Johnson. This is what I wrote:
+
+    Dear Mr Johnson
+
+    I just stumbled upon an online sample of quotations from your collection Lend
+    Me Your Ears, in one of which you claim that ping-pong was first called whiff-whaff.
+    I think you may be mistaken. Ping-pong was, at least in Britain, originally known
+    as "Gossima", and marketed as "Causing immense excitement and healthy exercise
+    and is the nearest approach that can be to the game of lawn tennis as played out
+    of doors" (1901).
+
+    I trust that in the melee of your constituency duties and campaigning for the
+    London Mayoralty, you will do the decent thing and arrange for a correction to
+    appear in any future edition of the book. Ideally, of course, you will also make
+    a public statement on the matter. Such willingness to acknowledge past errors
+    does smack a little of Stalinism, but may go down well with the ping-pong community.
+
+    Yours sincerely,
+
+    Frank Key'
   title: That Boris Johnson Letter In Full
-word_count: 182
+word_count: 180

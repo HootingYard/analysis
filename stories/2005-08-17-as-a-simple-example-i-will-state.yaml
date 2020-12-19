@@ -11,9 +11,6 @@ ngrams:
 - - gradually
   - drawn
   - near
-- - birds
-  - alive
-  - benjamin
 - - long
   - hollow
   - metal
@@ -77,23 +74,29 @@ ngrams:
 - - world
   - or
   - fragments
+- - they
+  - hover
+  - about
+- - bottom
+  - calmed
+  - by
 story:
   date: 2005-08-17
   id: 2005-08-17-as-a-simple-example-i-will-state
-  text: "\u201CAs a simple example, I will state that wild birds are caught by means\
-    \ of a sympathetic electricity. For this purpose a long, hollow metal tube is\
-    \ used, at the bottom of which is a globe containing a powerful acid. A receptacle\
-    \ at the top of the tube contains seeds much liked by the birds. They hover about\
-    \ these seeds, and, when they are within a certain distance, a slight pressure\
-    \ on a wooden spring causes a drop of the acid in the globe to escape into the\
-    \ tube, and so to set in movement a current of electricity, which, being very\
-    \ sympathetic to the bird, acts as an attractor so powerful, that it cannot get\
-    \ away. The tube is then gently lowered, and the birds are gradually drawn near\
-    \ to the earth, when a light net is thrown over the captives, and they are shaken\
-    \ into a cage-net at the bottom. Calmed by the electricity, they do not flutter\
-    \ or struggle when thus secured. It is very interesting to see the birds come\
-    \ nearer and nearer as the rod is lowered towards the ground. For electrical purposes\
-    \ it is necessary to catch the birds alive.\u201D \u2014 Benjamin Lumley, Another\
-    \ World; or Fragments From The Star City Of Montalluyah"
-  title: "\u201CAs a simple example, I will state\u2026\u201D"
-word_count: 215
+  text: '"As a simple example, I will state that wild birds are caught by means of
+    a sympathetic electricity. For this purpose a long, hollow metal tube is used,
+    at the bottom of which is a globe containing a powerful acid. A receptacle at
+    the top of the tube contains seeds much liked by the birds. They hover about these
+    seeds, and, when they are within a certain distance, a slight pressure on a wooden
+    spring causes a drop of the acid in the globe to escape into the tube, and so
+    to set in movement a current of electricity, which, being very sympathetic to
+    the bird, acts as an attractor so powerful, that it cannot get away. The tube
+    is then gently lowered, and the birds are gradually drawn near to the earth, when
+    a light net is thrown over the captives, and they are shaken into a cage-net at
+    the bottom. Calmed by the electricity, they do not flutter or struggle when thus
+    secured. It is very interesting to see the birds come nearer and nearer as the
+    rod is lowered towards the ground. For electrical purposes it is necessary to
+    catch the birds alive." -- Benjamin Lumley, Another World; or Fragments From The
+    Star City Of Montalluyah'
+  title: '"As a simple example, I will state..."'
+word_count: 216

@@ -8,9 +8,6 @@ ngrams:
 - - now
   - well
   - don't
-- - campfire
-  - song
-  - what
 - - me
   - instead
   - obtain
@@ -20,12 +17,17 @@ ngrams:
 - - don't
   - ask
   - me
+- - this
+  - equally
+  - splendid
 story:
   date: 2015-12-15
   id: 2015-12-15-kibbo-kift-advent-calendar-xv
-  text: "\nBy this stage in the advent calendar, you lot will be thinking \u201Cwho\
-    \ are these Kibbo Kift people?\u201D and\u2014in the words of a Kibbo Kift campfire\
-    \ song\u2014\u201Cwhat are they up to now?\u201D. Well, don't ask me. Instead,\
-    \ obtain a copy of this splendid book, and go to see this equally splendid exhibition."
-  title: "Kibbo Kift Advent Calendar\u2014XV"
-word_count: 59
+  text: '
+
+    By this stage in the advent calendar, you lot will be thinking "who are these
+    Kibbo Kift people?" and--in the words of a Kibbo Kift campfire song--"what are
+    they up to now?". Well, don''t ask me. Instead, obtain a copy of this splendid
+    book, and go to see this equally splendid exhibition.'
+  title: Kibbo Kift Advent Calendar--XV
+word_count: 57

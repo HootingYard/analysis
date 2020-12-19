@@ -2,51 +2,21 @@ ngrams:
 - - transplant
   - whippet
   - turbine
-- - bakers
-  - disposable
-  - nappy
-- - lottery
-  - waltzing
-  - matilda
-- - cheshire
-  - murky
-  - prying
-- - racing
-  - cheshire
-  - murky
 - - motor
   - mower
   - cycling
-- - rugby
-  - league
-  - con
-- - women's
-  - pubs
-  - lancs
-- - psychology
-  - cornwall
-  - informal
 - - fallopian
   - tube
   - transplant
 - - tube
   - transplant
   - whippet
-- - frenzy
-  - bakers
-  - disposable
 - - disposable
   - nappy
   - mice
 - - circles
   - motor
   - mower
-- - explosive
-  - loves
-  - fireworks
-- - mice
-  - racing
-  - cheshire
 - - leicester
   - lively
   - circles
@@ -56,9 +26,6 @@ ngrams:
 - - spencer
   - durham
   - etc
-- - squash
-  - etc
-  - berks
 - - radios
   - computer
   - nurses
@@ -68,90 +35,135 @@ ngrams:
 - - lively
   - circles
   - motor
-- - council
-  - lottery
-  - waltzing
 - - frills
   - harvest
   - festival
-- - clappers
-  - squash
-  - etc
 - - mower
   - cycling
   - drive
-- - somerset
-  - soft
-  - dreamy
-- - orange
-  - code
-  - guildhall
-- - formal
-  - council
-  - lottery
 - - brighton
   - sex
   - kent
-- - frills
-  - orange
-  - code
 - - lamp
   - fallopian
   - tube
-- - units
-  - digital
-  - computer
-- - complex
-  - units
-  - digital
 - - smooth
   - silky
   - moving
 - - static
   - oblong
   - opposite
-- - electric
-  - lamp
-  - fallopian
 - - devon
   - opposite
   - formal
 - - inventions
   - etc
   - reveal
+- - etc
+  - reveal
+  - innate
+- - nudist
+  - beach
+  - carol
+- - nurses
+  - strike
+  - etc
+- - claims
+  - court
+  - nspcc
+- - computer
+  - nurses
+  - strike
+- - innate
+  - area
+  - psychology
+- - mass
+  - smooth
+  - silky
+- - festival
+  - nudist
+  - beach
+- - carol
+  - service
+  - devon
+- - society
+  - tortoise
+  - olympics
+- - reveal
+  - innate
+  - area
+- - kart
+  - map
+  - cb
+- - test
+  - tube
+  - baby
+- - service
+  - devon
+  - opposite
+- - golden
+  - frills
+  - harvest
+- - cb
+  - radio
+  - speedway
 story:
   date: 2011-07-07
   id: 2011-07-07-british-psychology
-  text: "Following on from the potted sketches of our national character by Brit and\
-    \ Wartime Housewife, let us turn to Norman Davies. It is far too long since I\
-    \ have posted extracts from his magnificent pamphlet Further Science\_: Book 20\
-    \ (2001), which I introduced to readers way back in January 2004, and quoted further\
-    \ in February 2004 and July 2005. Here then, exactly as it appears in the pamphlet,\
-    \ is Davies on \u201CBritish Psychology\u201D:\n1. \_That Country Inventions etc.,\
-    \ reveal innate area psychology.\n2. Cornwall\u2014informal golden frills / harvest\
-    \ festival / nudist beach / carol service.\n3. Devon opposite formal garden frills\u2014\
-    orange code guildhall / use of Wedding March.\n4. Somerset\u2014soft dreamy colour\
-    \ squares\u2014coloured glass / soft cheese / child pub\u2014contrasts with Gloucester\u2014\
-    dream formaIity\u2014bowling green / Sunday School.\n5. Dorset / Hants have formal\
-    \ round hotel / bowls / sea cave.\n6. Sussex\u2014complex old explosive\u2014\
-    loves fireworks / gas lighting / Town Women's Guild / antiques / Brighton sex.\n\
-    7. Kent is the odd formal\u2014Council lottery / Waltzing Matilda\u2014in contrast\
-    \ to Essex odd informal\u2014Peculiar People / Dunmow Flitch / heated armchair\
-    \ / hair FC colours.\n8. London small family segments\u2014Bingo / one parent\
-    \ families. Middx small clappers\u2014squash etc.\n9. Berks\u2014small rounds\u2014\
-    Table tennis / Job Centre and Oxford\u2014mass of small items\u2014Oxfam / marmalade\
-    \ / Hand ball / Post Office.\n10. Herts / Northants noisy organised complex units\u2014\
-    digital computer / go kart / map / CB Radio / speedway.\n11. Norfolk\u2014fish\
-    \ finger / dead static oblong, opposite to Leicester lively circles / motor mower\
-    \ / cycling / drive in store.\n12. Notts\u2014larger rounds\u2014Sports centre\
-    \ / football / sugar / Spot ball / Boots.\n13. Derby\u2014muck frenzy\u2014bakers\
-    \ / disposable nappy / mice racing.\n14. Cheshire\u2014murky prying\u2014neighbourhood\
-    \ watch / women's pubs.\n15. Lancs\u2014of mass smooth silky moving little bits\u2014\
-    Co-op / small claims Court / NSPCC / Music Hall / athletes club / test tube baby\
-    \ / Police panda cars and radios / computer / nurses strike etc.\n16. Yorks\u2014\
-    slow rough organised bits\u2014Rugby League / Con man / high rise flats / Building\
-    \ Society / tortoise Olympics / old folk bus / smoke free zone / Marks and Spencer.\n\
-    17. Durham etc.\u2014thin tube lively bits\u2014electric lamp Fallopian tube transplant\
-    \ / whippet / turbine / keep fit etc."
+  text: 'Following on from the potted sketches of our national character by Brit and
+    Wartime Housewife, let us turn to Norman Davies. It is far too long since I have
+    posted extracts from his magnificent pamphlet Further Science : Book 20 (2001),
+    which I introduced to readers way back in January 2004, and quoted further in
+    February 2004 and July 2005. Here then, exactly as it appears in the pamphlet,
+    is Davies on "British Psychology":
+
+    1.  That Country Inventions etc., reveal innate area psychology.
+
+    2. Cornwall--informal golden frills / harvest festival / nudist beach / carol
+    service.
+
+    3. Devon opposite formal garden frills--orange code guildhall / use of Wedding
+    March.
+
+    4. Somerset--soft dreamy colour squares--coloured glass / soft cheese / child
+    pub--contrasts with Gloucester--dream formaIity--bowling green / Sunday School.
+
+    5. Dorset / Hants have formal round hotel / bowls / sea cave.
+
+    6. Sussex--complex old explosive--loves fireworks / gas lighting / Town Women''s
+    Guild / antiques / Brighton sex.
+
+    7. Kent is the odd formal--Council lottery / Waltzing Matilda--in contrast to
+    Essex odd informal--Peculiar People / Dunmow Flitch / heated armchair / hair FC
+    colours.
+
+    8. London small family segments--Bingo / one parent families. Middx small clappers--squash
+    etc.
+
+    9. Berks--small rounds--Table tennis / Job Centre and Oxford--mass of small items--Oxfam
+    / marmalade / Hand ball / Post Office.
+
+    10. Herts / Northants noisy organised complex units--digital computer / go kart
+    / map / CB Radio / speedway.
+
+    11. Norfolk--fish finger / dead static oblong, opposite to Leicester lively circles
+    / motor mower / cycling / drive in store.
+
+    12. Notts--larger rounds--Sports centre / football / sugar / Spot ball / Boots.
+
+    13. Derby--muck frenzy--bakers / disposable nappy / mice racing.
+
+    14. Cheshire--murky prying--neighbourhood watch / women''s pubs.
+
+    15. Lancs--of mass smooth silky moving little bits--Co-op / small claims Court
+    / NSPCC / Music Hall / athletes club / test tube baby / Police panda cars and
+    radios / computer / nurses strike etc.
+
+    16. Yorks--slow rough organised bits--Rugby League / Con man / high rise flats
+    / Building Society / tortoise Olympics / old folk bus / smoke free zone / Marks
+    and Spencer.
+
+    17. Durham etc.--thin tube lively bits--electric lamp Fallopian tube transplant
+    / whippet / turbine / keep fit etc.'
   title: British Psychology
-word_count: 325
+word_count: 294

@@ -2,15 +2,6 @@ ngrams:
 - - b
   - h
   - hurst
-- - curious
-  - stuff
-  - ink
-- - curious
-  - stuff
-  - ink
-- - caught
-  - curious
-  - stuff
 - - s
   - b
   - h
@@ -53,18 +44,23 @@ ngrams:
 - - must
   - be
   - due
+- - saw
+  - but
+  - what
+- - he
+  - gravely
+  - tried
 story:
   date: 2004-07-02
   id: 2004-07-02-curious-stuff-ink-in-some-way-it-caught
-  text: "\u201CCurious stuff\u2014ink! In some way it caught all the light in the\
-    \ room. Of course, the light was dim\u2014Laulee had seen to that\u2014just enough\
-    \ to see the ink properly. That, no doubt, was the reason the ink had changed\
-    \ both in color and appearance. That cloudy, steamy, vapory stuff, now rising\
-    \ like a fog over a marsh\u2014that must be due to some chemical peculiarity of\
-    \ ink. Sesson's knowledge of chemistry was trifling, but he gravely tried to explain\
-    \ to himself why he no longer saw a saucer of ink. As a matter of fact, he hadn't\
-    \ the remotest idea what he saw; but what he did see reminded him of the interior\
-    \ of a tunnel, just after a train has gone through it.\u201D \u2014 S B H Hurst,\
-    \ The People Of The Fourth Dimension"
-  title: "\u201CCurious stuff\u2014ink! In some way it caught\u2026\u201D"
-word_count: 145
+  text: '"Curious stuff--ink! In some way it caught all the light in the room. Of
+    course, the light was dim--Laulee had seen to that--just enough to see the ink
+    properly. That, no doubt, was the reason the ink had changed both in color and
+    appearance. That cloudy, steamy, vapory stuff, now rising like a fog over a marsh--that
+    must be due to some chemical peculiarity of ink. Sesson''s knowledge of chemistry
+    was trifling, but he gravely tried to explain to himself why he no longer saw
+    a saucer of ink. As a matter of fact, he hadn''t the remotest idea what he saw;
+    but what he did see reminded him of the interior of a tunnel, just after a train
+    has gone through it." -- S B H Hurst, The People Of The Fourth Dimension'
+  title: '"Curious stuff--ink! In some way it caught..."'
+word_count: 141

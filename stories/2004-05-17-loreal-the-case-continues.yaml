@@ -62,9 +62,6 @@ ngrams:
 - - l'oreal
   - letter
   - see
-- - busy
-  - man
-  - especially
 - - last
   - night
   - bd
@@ -98,15 +95,9 @@ ngrams:
 - - lab
   - assistant
   - can
-- - utensils
-  - has
-  - surfaced
 - - its
   - once
   - inquisitive
-- - very
-  - busy
-  - man
 - - air
   - muttering
   - some
@@ -122,45 +113,54 @@ ngrams:
 - - can
   - wrench
   - himself
-- - man
-  - especially
-  - now
 - - poultices
   - 'no'
   - matter
 - - biographical
   - information
   - about
+- - mobile
+  - features
+  - into
+- - facial
+  - assets
+  - if
+- - been
+  - applied
+  - shall
 story:
   date: 2004-05-17
   id: 2004-05-17-loreal-the-case-continues
-  text: "Further to my legendary L'Oreal letter (see Career Change, 6th May), I have\
-    \ received this:\nFrank, I found this mysterious message scrawled on an irregularly\
-    \ shaped, singularly corroded sheet of metal which fell into my garden last night.\
-    \ BD*\nDear Mr Key, It has been brought to my attention that you have shown interest\
-    \ in the possibility of becoming \u201Cthe New Face\u201D of L'Oreal. Being a\
-    \ very busy man\u2014especially now that this so-called \u201CScandal of the Implausable\
-    \ Utensils\u201D has surfaced\u2014I have not yet had an opportunity to gaze upon\
-    \ your facial assets, if any, with my own eye. Yes my friend, you read that correctly;\
-    \ I said \u201Ceye\u201D\u2026 for I possess only one. It was not always so. Please,\
-    \ please\u2026spare me any demonstrations of pity or remorse! For it was of my\
-    \ own volition some decades ago that the organ, with its once inquisitive gaze,\
-    \ was spirited away to a particle physics research station of admittedly debatable\
-    \ repute where it is now lodged in a special calcium-lined retort, subjected to\
-    \ occasional light bombardments of energetic particles (the nature of which are\
-    \ distinctly open to criticism) whenever the thin, stooped, superannuated lab\
-    \ assistant can wrench himself away from his perpetual travail; the ultimate worth\
-    \ of which is certain to be slight. As interesting as I am sure you would find\
-    \ more biographical information about myself: enough! In order to be considered\
-    \ for employment as New Face, one must be handsome and clean-shaven; any attempt\
-    \ to disguise singular hairiness or structural abnormalities by the application\
-    \ of unguents or poultices, no matter how clever of a manner one may imagine them\
-    \ to have been applied, shall be cause for immediate dismissal. The last applicant\
-    \ who attempted to pull this little stunt I dismissed with a sudden volley of\
-    \ sharp, guttural barkings and unearthly bleatings, whilst contorting my typically\
-    \ mobile features into a stiff, sarcastic grimace. He, waving his hands in the\
-    \ air, muttering some airy-fairy quasi-occult philosophical gibberish, turned\
-    \ and left the nitre-encrusted chamber, NEVER TO BE SEEN AGAIN!\n* NOTE : \u201C\
-    BD\u201D is Bob Drake. Go and visit him here."
+  text: 'Further to my legendary L''Oreal letter (see Career Change, 6th May), I have
+    received this:
+
+    Frank, I found this mysterious message scrawled on an irregularly shaped, singularly
+    corroded sheet of metal which fell into my garden last night. BD*
+
+    Dear Mr Key, It has been brought to my attention that you have shown interest
+    in the possibility of becoming "the New Face" of L''Oreal. Being a very busy man--especially
+    now that this so-called "Scandal of the Implausable Utensils" has surfaced--I
+    have not yet had an opportunity to gaze upon your facial assets, if any, with
+    my own eye. Yes my friend, you read that correctly; I said "eye"... for I possess
+    only one. It was not always so. Please, please...spare me any demonstrations of
+    pity or remorse! For it was of my own volition some decades ago that the organ,
+    with its once inquisitive gaze, was spirited away to a particle physics research
+    station of admittedly debatable repute where it is now lodged in a special calcium-lined
+    retort, subjected to occasional light bombardments of energetic particles (the
+    nature of which are distinctly open to criticism) whenever the thin, stooped,
+    superannuated lab assistant can wrench himself away from his perpetual travail;
+    the ultimate worth of which is certain to be slight. As interesting as I am sure
+    you would find more biographical information about myself: enough! In order to
+    be considered for employment as New Face, one must be handsome and clean-shaven;
+    any attempt to disguise singular hairiness or structural abnormalities by the
+    application of unguents or poultices, no matter how clever of a manner one may
+    imagine them to have been applied, shall be cause for immediate dismissal. The
+    last applicant who attempted to pull this little stunt I dismissed with a sudden
+    volley of sharp, guttural barkings and unearthly bleatings, whilst contorting
+    my typically mobile features into a stiff, sarcastic grimace. He, waving his hands
+    in the air, muttering some airy-fairy quasi-occult philosophical gibberish, turned
+    and left the nitre-encrusted chamber, NEVER TO BE SEEN AGAIN!
+
+    * NOTE : "BD" is Bob Drake. Go and visit him here.'
   title: 'L''oreal : The Case Continues'
-word_count: 353
+word_count: 351

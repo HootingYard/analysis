@@ -59,9 +59,6 @@ ngrams:
 - - bibliography
   - chemistry
   - poetical
-- - pascal
-  - pens
-  - es
 - - houdini
   - miracle
   - mongers
@@ -452,9 +449,6 @@ ngrams:
 - - october
   - andrew
   - lang
-- - pens
-  - es
-  - january
 - - diaries
   - december
   - cornell
@@ -491,9 +485,6 @@ ngrams:
 - - melancholy
   - january
   - agnes
-- - es
-  - january
-  - bliss
 - - winner
   - brilliant
   - orange
@@ -599,6 +590,15 @@ ngrams:
 - - men's
   - clothes
   - january
+- - december
+  - edward
+  - lucas
+- - curse
+  - july
+  - anonymous
+- - july
+  - j
+  - griswold
 story:
   date: 2006-12-31
   id: 2006-12-31-quote-list
@@ -692,9 +692,9 @@ story:
     \ Arcadia: Being Some \n          Account Of The Jesuits In Paraguay 1607 To 1767\
     \ 21 December 04\nW H R Curtler A Short History Of English Agriculture \n    \
     \    30 September 05\nM A Czaplicka Shamanism In Siberia 2 March 04\nNerea De\
-    \ Clifford What British Cats Think About Television \n        25 March 04\nEug\xE8\
-    ne Delacroix cited in Charles Baudelaire The \n          Life And Works Of Eug\xE8\
-    ne Delacroix 13 April 04\nAlice Della advertisement in \n        The Young Englishman\
+    \ Clifford What British Cats Think About Television \n        25 March 04\nEugene\
+    \ Delacroix cited in Charles Baudelaire The \n          Life And Works Of Eugene\
+    \ Delacroix 13 April 04\nAlice Della advertisement in \n        The Young Englishman\
     \ 10 September 04\nGiambattista Della Porta The Second Book Of Natural Magick\
     \ \n        25 May 05\nThomas De Quincey Unsourced quotation 9 January 04\nLouis\
     \ De Rougemont Adventures Of Louis De Rougemont 15 \n        June 06 \nFrans De\
@@ -729,11 +729,11 @@ story:
     \ In Successive Ages, Who Have Claimed For Themselves, \n          Or To Whom\
     \ Has Been Imputed By Others, The Exercise Of Magical Power 9 August \n      \
     \  04 \nCharles L Goodrich The First Book Of Farming 27 February \n        06\
-    \ \nA Goodrich-Freer (Miss X) The Alleged Haunting Of B\x97\x97 \n          House\
-    \ 19 August 05\nEdward Gorey Unsourced quotation 10 January 04\nJohn M Gould How\
-    \ To Camp Out 2 February 06\nL P Gratacap The Certainty Of A Future Life In Mars\
-    \ 6 \n        September 04\nJack Gray The Nudist Gym Death Riddle 11 August 05\n\
-    Dod Grile Cobwebs From An Empty Skull 12 July 04\nJ Griswold Crayon And Character\
+    \ \nA Goodrich-Freer (Miss X) The Alleged Haunting Of B \n          House 19 August\
+    \ 05\nEdward Gorey Unsourced quotation 10 January 04\nJohn M Gould How To Camp\
+    \ Out 2 February 06\nL P Gratacap The Certainty Of A Future Life In Mars 6 \n\
+    \        September 04\nJack Gray The Nudist Gym Death Riddle 11 August 05\nDod\
+    \ Grile Cobwebs From An Empty Skull 12 July 04\nJ Griswold Crayon And Character\
     \ : Truth Made Clear Through \n          Eye And Ear 9 March 06\nE A Grosser The\
     \ Radiant Avenger 25 January 06\nThe Guardian 11 December 06\nLeon Guzlan A Visit\
     \ To The Morgue At Paris 10 May \n        04 \nEdmond Hamilton The Monster-God\
@@ -764,179 +764,178 @@ story:
     \ Through A Clairvoyant, While In An Abnormal \n          Or Trance State 12 October\
     \ 04\nCharles Hose & William McDougall The Pagan Tribes Of \n          Borneo\
     \ 27 September 04\nHarry Houdini Miracle Mongers And Their Methods: A Complete\
-    \ \n          Expos\xE9 Of The Modus Operandi Of Fire Eaters, Heat Resisters,\
-    \ Poison Eaters, \n          Venomous Reptile Defiers, Sword Swallowers, Human\
-    \ Ostriches, Strong Men, Etc \n        19 September 04\nBrant House The Golden\
-    \ Ghoul 30 September 04\nA E Housman Tell me not here, it needs not saying...\
-    \ \n        5 January 04\nL O Howard & F C Bishopp The House Fly And How To \n\
-    \          Suppress It 2 April 06\nRobert Howlett The School Of Recreation 16\
-    \ April \n        06\nElbert Hubbard Little Journeys To The Homes Of English \n\
-    \          Authors 18 October 04\nJohn L Huelshof Reading Made Easy For Foreigners\
-    \ 3 \n        August 06 \nRobert Hughes Culture Of Complaint 21 March 06\nRupert\
-    \ Hughes The Love Affairs Of Great Musicians \n        4 March 04\nAnna Hunger\
-    \ & R DeWitt Miller The Man Who Lived Forever \n        9 December 04\nS B H Hurst\
-    \ The People Of The Fourth Dimension 2 \n        July 04\nAldous Huxley Music\
-    \ At Night & Other Essays 19 \n        May 04\nIslamic Protesters Placard Slogan\
-    \ 29 November 06\nGiles Jacob Tractus De Hermaphrodites 11 November \n       \
-    \ 04 \nM R James Old Testament Legends 16 August 05\nAnna Brownell Jameson The\
-    \ Diary Of An Ennuyee 15 \n        September 06 \nRichard Jefferies After London\
-    \ 30 December 04\nChauncey Jerome History Of The American Clock Business \n  \
-    \        For The Past Sixty Years 23 July 04\nHarry Stephen Keeler The Mysterious\
-    \ Mr I 21 May 04\nJohn Kelman Among Famous Books 16 July 06\nGerald Kersh Men\
-    \ Without Bones 25 September 04\nP R Kincaid & John J Stutzman The Arabian Art\
-    \ Of Taming \n          And Training Wild And Vicious Horses 31 May 05\nWinifred\
-    \ Margaretta Kirkland The Joys Of Being A Woman \n          & Other Papers 26\
-    \ July 04\nJohn H Knox The Thing That Dined On Death 23 March \n        04 \n\
-    Myer Krulfeld The Thing From Antares 18 June 05\nBessie Kyffin-Taylor From Out\
-    \ Of The Silence 14 March \n        06\nMonsieur L'Abbat The Art Of Fencing 6\
-    \ May 04\nPaul Lacroix Manners, Customs And Dress During The Middle \n       \
-    \   Ages And During The Renaissance Period 4 October 04\nAndrew Lang Custom And\
-    \ Myth 4 December 04\nJerome B Lavay Disputed Handwriting : An Exhaustive, \n\
-    \          Valuable, And Comprehensive Work Upon One Of The Most Important Subjects\
-    \ of \n          To-day 8 February 05 \nEdward Lear Unsourced quotation 4 January\
-    \ 04\nRichard Le Gallienne Imperishable Fiction 22 August \n        04 \nCharles\
-    \ G Leland The English Gipsies And Their Language \n        9 August 05\nEric\
-    \ Lennox Lair Of The Damned 25 June 05\nLazar Levi Mistress Of The Undead 18 July\
-    \ 06\nLouis Lewin Phantastica : A Classic Survey On The Use \n          And Abuse\
-    \ Of Mind-Altering Plants 5 April 06\nRoger Lewis Anthony Burgess 5 March 04\n\
-    Libyan proverb 7 December 06\nJonas Lie Weird Tales From Northern Seas 20 December\
-    \ \n        04\nPansy & Mrs C M Livingston Divers Women 6 March 06\nPierre Loti\
-    \ Madame Chysantheme 2 October 04\nLucian Trips To The Moon 20 September 04\n\
-    M Luckiesh Artificial Light 17 February 06\nFitzhugh Ludlow The Phial Of Dread:\
-    \ By An Analytic Chemist \n        14 October 04\nJohn N Luff What Philately Teaches\
-    \ 10 June 05\nBenjamin Lumley Another World; or Fragments From The \n        \
-    \  Star City Of Montalluyah 17 August 05\nRobert Lynd The Pleasures Of Ignorance\
-    \ 8 August 06\nRichard Mabey Introduction to Gilbert White The \n          Natural\
-    \ History Of Selborne 17 January 04\nGeorge MacDonald A Dish Of Orts 9 May 04\n\
-    Jean Mace The History Of A Mouthful Of Bread 20 January \n        05\nArthur Machen\
-    \ The Little People 16 February 05\nCompton MacKenzie The Altar Steps 21 February\
-    \ 05\nRene Magritte La ligne de la vie 26 April 04\nAlma Mahler-Werfel Diaries\
-    \ 5 April 04\nAntoine Simon Maillard An Account Of The Customs And \n        \
-    \  Manners Of The Micmakis And Maricheets Savage Nations, Now Dependent On The\
-    \ \n          Government Of Cape-Breton 4 June 05\nIke Matthews Full Revelations\
-    \ Of A Professional Rat-Catcher \n        21 February 06\nIan Mayes Open Door,\
-    \ column in The Guardian 7 \n        August 05 \nGordon McCreagh The Wood Devil\
-    \ Thing 13 September \n        04 \nJohn McGovern The Golden Censer 26 February\
-    \ 06\nProfessor Meikeljohn The History Of England And Great \n          Britain\
-    \ 14 July 06\nChristopher Merrett A Short View Of The Frauds And Abuses \n   \
-    \       Committed By Apothecaries 21 June 05\nAbraham Merritt The Metal Monster\
-    \ 6 April 04\nArthur Middleton The Forgotten Threshold 14 August \n        04\
-    \ \nErin Millar A Buttercup In A Field Of Flame 14 February \n        06 \nThe\
-    \ Mirror of Literature, Amusement & Instruction 11 \n        March, 3 April 04\n\
-    Edward Page Mitchell The Tachypomp 27 January 05 \n      \nRichard Mitchell Less\
-    \ Than Words Can Say 26 February \n        04 \nSilas Weir Mitchell The Autobiography\
-    \ Of A Quack \n        12 September 04\nJohn Hamilton Moore The Young Gentleman\
-    \ And Lady's Monitor, \n          And English Teacher's Assistant 29 August 05\n\
-    T Sturge Moore Albrecht Durer 10 July 04\nJohn Morley Diderot And The Encyclopaedists\
-    \ 3 June \n        05\nRic Morris and John Gower quotation from \n          a\
-    \ letter from Australia to Jonathan Coleclough 2 \n        August 06\nArthur Morrison\
-    \ The Affair Of The Avalanche Bicycle & \n          Tyre Co., Ltd. 27 August 04\n\
-    W C Morrow The Ape, The Idiot, And Other People 23 \n        January 06\nJames\
-    \ Fullarton Muirhead Land Of Contrasts 23 February \n        06\nJohn Munro A\
-    \ Trip To Venus 21 November \n        04 \nAbraham Myerson The Nervous Housewife\
-    \ 14 December \n        04\nJames Napier Folk Lore 13 June 05\nErnest Naville\
-    \ The Heavenly Father 2 May 06\nHarvey Newcomb A Practical Directory For Young\
-    \ Christian \n          Females 11 April 06\nIsaac Newton The Chronology Of Ancient\
-    \ Kingdoms Amended \n        8 July 05\nHenry Alleyne Nicholson The Ancient Life\
-    \ History Of The \n          Earth 7 January 05\nHarold Nicolson Men's Clothes\
-    \ 19 January 04\nEmperor Norton I Unsourced quotation 18 December \n        03\
-    \ \nReinaldis Nougairoles cited in Roger Shattuck The \n          Forbidden Experiment\
-    \ 23 January 04\nElliott O'Donnell Byways Of Ghost-Land 10 April 06\nCeleste Olalquiaga\
-    \ The Artificial Kingdom : A Treasury \n          Of The Kitsch Experience, With\
-    \ Remarkable Objects Of Art And Nature, Extraordinary \n          Events, Eccentric\
-    \ Biography And Original Theory, Plus Many Wonderful Illustrations \n        \
-    \  Selected By The Author 11 February 06\nMargaret Fuller Ossoli At Home And Abroad,\
-    \ Or, Things \n          And Thoughts In America and Europe 6 February 06\nSir\
-    \ Thomas Overbury Characters; or Witty Descriptions \n          Of The Properties\
-    \ Of Sundry Persons 19 March 04\nLuella Agnes Owen Cave Regions Of the Ozarks\
-    \ And Black \n          Hills 10 February 06\nBernard F Page SJ A Practical Guide\
-    \ For Servers At Low \n          Mass & Benediction 2 August 04\nReverend Ian\
-    \ Paisley Unsourced quotation 29 January \n        04 \nJ Terry Palmer Letter\
-    \ to The Guardian\n13 February 06\nD M Panton Rapture 28 July 05\nFrancis Parkman\
-    \ The Jesuits In North America In The Seventeenth \n          Century 12 August\
-    \ 04\nBlaise Pascal Pens\xE9es 3 January 04\nBliss Perry Fishing With A Worm 4\
-    \ August 05\nMichael Phelan The Young Priest's Keepsake \n        21 July 05\n\
-    Uncle Philip The Girl's Cabinet Of Instructive & Moral \n          Stories 3 February\
-    \ 04\nAllan Pinkerton The Burglar's Fate And The Detectives \n        18 February\
-    \ 06\nHesther Lynch Piozzi Anecdotes Of The Late Samuel Johnson, \n          LL.D.\
-    \ 9 July 04\nDennis Plimmer Man From The Wrong Time Track 20 February \n     \
-    \   04\nCyril Plunkett The X Gas 22 August 05\nMichael Pollan The Botany Of Desire\
-    \ 4 September 06\nMrs Campbell Praed The Insane Root 23 June 05\nDorothy Quigley\
-    \ What Clothes Make Of Us 27 February \n        04\nArthur Quiller-Couch Noughts\
-    \ And Crosses 24 July \n        06\nSeabury Quinn The Monkey God 28 June 06\n\
-    Rene Rapin De Carmine Pastorali 18 January 05\nMary Ray interviewed at Crufts\
-    \ Dog Show 2006 13 March \n        06\nHerbert Stanley Redgrove Bygone Beliefs\
-    \ 25 June 04 \n      \nMyrtle Reed The Spinster Book 6 April 06\nAgnes Repplier\
-    \ Americans And Others 1 February 06\nDavid Lester Richardson Flowers And Flower-Gardens\
-    \ 23 \n        May 04\nSarah J Richardson Life In The Grey Nunnery At Montreal\
-    \ \n        31 March 06\nMadame Rimbaud cited in Graham Robb Rimbaud 1 \n    \
-    \    January 04\nTom Roan Shadows Of The Crimson Tong 1 June 05 \nKenneth Robeson\
-    \ Fortress Of Solitude 5 October 04\nSamuel Rogers Table Talk 18 February 04\n\
-    Sax Rohmer Daughter Of Fu Manchu 6 July 04\nEttie A Rout Safe Marriage : A Return\
-    \ To Sanity 13 \n        September 06 \nJohn Ruskin The Queen Of The Air 29 October\
-    \ 04\nWilma Salisbury from The Plain Dealer 8 March \n        04 \nRobert Sangster\
-    \ Umbrellas And Their History 20 January \n        04 \nErik Satie manuscript\
-    \ of Embryons dess\xE9ch\xE9s 25 \n        February 06 \nNat Schachner & Arthur\
-    \ L Zagat The Song Of The Cakes \n        26 January 06\nArthur Schopenhauer The\
-    \ Art Of Controversy 30 January \n        05\nMichiel Schwartz quoted in David\
-    \ Winner Brilliant \n          Orange : The Neurotic Genius Of Dutch Football\
-    \ 22 July 06\nMarcel Schwob Bloody Blanche 8 September 04\nIstvan Scrimgeour Spine-Tingling\
-    \ Tales Of Glucose Deficiency \n        2 January 04\nGarrett P Serviss Curiosities\
-    \ Of The Sky 18 June \n        04 \nPaul Severing Marvels Of Modern Science 8\
-    \ October \n        04 \nEdward R Shaw Big People And Little People Of Other Lands\
-    \ \n        3 February 05\nWilliam Shaw Spying In Guru Land 12 June 06\nCharles\
-    \ M Sheldon The Crucifixion Of Philip Strong 25 \n        June 06 \nPercy Bysshe\
-    \ Shelley The Assassins 19 July 04\nM P Shiel The Stone Of The Edmundsbury Monks\
-    \ 12 March \n        04\nRobert W Shoppell The Afflicted Prince 29 April 06\n\
-    Katherine Shortall Where The Sabots Clatter Again \n        3 August 04\nJohn\
-    \ Sutherland Sinclair Lectures On Popular And Scientific \n          Subjects\
-    \ 24 July 05\nFelicia Skene Penitentiaries And Reformatories 5 \n        November\
-    \ 04\nAlexander Smith Dreamthorp 1 May 06\nF Smith The Revelation Explained 26\
-    \ September 04\nCharles Southwell Superstition Unveiled 27 January \n        06\n\
-    Thomas Alfred Spalding Elizabethan Demonology 14 \n        July 04\nGermander\
-    \ Speedwell Sayings 19 June 05\nHarriet Prescott Spofford Moonstone Mass 28 January\
-    \ \n        05\nClarence Squareman My Book Of Indoor Games 25 February \n    \
-    \    05\nD Starke Poise : How To Attain It 10 November 04\nGuy Steele a palindrome\
-    \ 17 February 04\nStendahl Journal 5 May 04\nG Carter Stent Chinese Eunuchs 7\
-    \ September 04\nJ H Stocqueler Journal Of Fifteen Months' Pilgrimage \n      \
-    \    Through Untrodden Tracts Of Khuzistan And Persia 8 April 04\nLytton Strachey\
-    \ Books And Characters 25 November \n        04 \nT S Stribling The Cruise Of\
-    \ The Dry Dock 26 June \n        04 \nEmanuel Swedenborg The Delights Of Wisdom\
-    \ Pertaining \n          To Conjugal Love  22 November 04\nMatthew Sweet Inventing\
-    \ The Victorians 27 March 06\nJohn Addington Symonds Renaissance In Italy 30 May\
-    \ \n        05\nFrederick Arthur Ambrose Talbot Sixteen Months In Four \n    \
-    \      German Prisons 17 April 06\nRev T De Witt Talmadge The Abominations Of\
-    \ Modern Society \n        5 August 04\nThomas Tapper Music Talks With Children\
-    \ \n        29 December 04 \nNikola Tesla The Strange Life Of Nikola Tesla 6 January\
-    \ \n        05 \nPaul Theroux Sir Vidia's Shadow 28 February 04\nV E Thiessen\
-    \ The Beast-Jewel Of Mars 26 October 04\nJames Thurber The Thirteen Clocks 27\
-    \ January 04\nH M Tomlinson London River 20 July 05\nH Tornai de Koever Hungarian\
-    \ Baths and Resorts 23 \n        February 04\nRichard Chenevix Trench On The Study\
-    \ Of Words \n        2 November 04\nFanny Trollope Domestic Manners Of The Americans\
-    \ \n        31 August 04\nMartin Farquhar Tupper Probabilities 24 January 06 \n\
-    \      \nGeorge Turner Samoa, A Hundred Years Ago And Long Before \n        16\
-    \ December 04\nMatthew Turner An Account of the Extraordinary Medicinal \n   \
-    \       Fluid, Called Aether 16 June 04\nThomas Tusser Unsourced quotation 4 February\
-    \ 04\nEdward Burnett Tylor Anahuac 16 August 04\nHenry H Vail A History Of The\
-    \ McGuffey Readers 11 \n        June 05\nG Van Praagh De-Icing Of Ships 11 September\
-    \ 06\nJules Verne Face au drapeau 31 March 04\nTito Vignoli Myth And Science 4\
-    \ July 06\nLilian Walbrook The Case Of Lester Coltman 14 June \n        05\nMrs\
-    \ O F Walton Saved At Sea 7 February 04\nNed Ward British Wonders : Or, A Poetical\
-    \ Description \n          of the Several Prodigies and Most Remarkable Accidents\
-    \ That have happen'd in \n          Britain since the Death of Queen Anne 17 March\
-    \ 04\nPeter Washington Madame Blavatsky's Baboon 29 January \n        06\nHal\
-    \ K Wells Black Pool For Hell Maidens 29 May 05 \n      \nH G Wells Certain Personal\
-    \ Matters 4 March 06\nCarl Weschcke Growing Nuts In the North 30 April \n    \
-    \    06\nGeorge Whale British Airships, Past / Present / Future \n        5 December\
-    \ 04\nCharles Whibley A Book Of Scoundrels 27 December \n        04\nEdward Lucas\
-    \ White Lukundoo & Other Stories 15 July \n        05\nEthel Lina White The Spiral\
-    \ Staircase (Some Must Watch) \n        5 July 04\nCharles Williams All Hallows'\
-    \ Eve 1914 22 September \n        04 \nW J Wintle The Spectre Spiders 22 September\
-    \ 05\nAlfred Wesley Wishart A Short History Of Monks And Monasteries \n      \
-    \  23 February 05\nDonald A Wollheim The Secret Of The Ninth Planet 11 \n    \
-    \    January 05 \nWilliam Wood Elizabethan Sea Dogs 13 July \n        04 \nVirginia\
-    \ Woolf Diaries 16 December 03\nCornell Woolrich Waltz Into Darkness 3 March 04\n\
-    John H Young Our Deportment 11 March 06\nStefan Zweig Beware Of Pity 6 August\
-    \ 04"
+    \ \n          Expose Of The Modus Operandi Of Fire Eaters, Heat Resisters, Poison\
+    \ Eaters, \n          Venomous Reptile Defiers, Sword Swallowers, Human Ostriches,\
+    \ Strong Men, Etc \n        19 September 04\nBrant House The Golden Ghoul 30 September\
+    \ 04\nA E Housman Tell me not here, it needs not saying... \n        5 January\
+    \ 04\nL O Howard & F C Bishopp The House Fly And How To \n          Suppress It\
+    \ 2 April 06\nRobert Howlett The School Of Recreation 16 April \n        06\n\
+    Elbert Hubbard Little Journeys To The Homes Of English \n          Authors 18\
+    \ October 04\nJohn L Huelshof Reading Made Easy For Foreigners 3 \n        August\
+    \ 06 \nRobert Hughes Culture Of Complaint 21 March 06\nRupert Hughes The Love\
+    \ Affairs Of Great Musicians \n        4 March 04\nAnna Hunger & R DeWitt Miller\
+    \ The Man Who Lived Forever \n        9 December 04\nS B H Hurst The People Of\
+    \ The Fourth Dimension 2 \n        July 04\nAldous Huxley Music At Night & Other\
+    \ Essays 19 \n        May 04\nIslamic Protesters Placard Slogan 29 November 06\n\
+    Giles Jacob Tractus De Hermaphrodites 11 November \n        04 \nM R James Old\
+    \ Testament Legends 16 August 05\nAnna Brownell Jameson The Diary Of An Ennuyee\
+    \ 15 \n        September 06 \nRichard Jefferies After London 30 December 04\n\
+    Chauncey Jerome History Of The American Clock Business \n          For The Past\
+    \ Sixty Years 23 July 04\nHarry Stephen Keeler The Mysterious Mr I 21 May 04\n\
+    John Kelman Among Famous Books 16 July 06\nGerald Kersh Men Without Bones 25 September\
+    \ 04\nP R Kincaid & John J Stutzman The Arabian Art Of Taming \n          And\
+    \ Training Wild And Vicious Horses 31 May 05\nWinifred Margaretta Kirkland The\
+    \ Joys Of Being A Woman \n          & Other Papers 26 July 04\nJohn H Knox The\
+    \ Thing That Dined On Death 23 March \n        04 \nMyer Krulfeld The Thing From\
+    \ Antares 18 June 05\nBessie Kyffin-Taylor From Out Of The Silence 14 March \n\
+    \        06\nMonsieur L'Abbat The Art Of Fencing 6 May 04\nPaul Lacroix Manners,\
+    \ Customs And Dress During The Middle \n          Ages And During The Renaissance\
+    \ Period 4 October 04\nAndrew Lang Custom And Myth 4 December 04\nJerome B Lavay\
+    \ Disputed Handwriting : An Exhaustive, \n          Valuable, And Comprehensive\
+    \ Work Upon One Of The Most Important Subjects of \n          To-day 8 February\
+    \ 05 \nEdward Lear Unsourced quotation 4 January 04\nRichard Le Gallienne Imperishable\
+    \ Fiction 22 August \n        04 \nCharles G Leland The English Gipsies And Their\
+    \ Language \n        9 August 05\nEric Lennox Lair Of The Damned 25 June 05\n\
+    Lazar Levi Mistress Of The Undead 18 July 06\nLouis Lewin Phantastica : A Classic\
+    \ Survey On The Use \n          And Abuse Of Mind-Altering Plants 5 April 06\n\
+    Roger Lewis Anthony Burgess 5 March 04\nLibyan proverb 7 December 06\nJonas Lie\
+    \ Weird Tales From Northern Seas 20 December \n        04\nPansy & Mrs C M Livingston\
+    \ Divers Women 6 March 06\nPierre Loti Madame Chysantheme 2 October 04\nLucian\
+    \ Trips To The Moon 20 September 04\nM Luckiesh Artificial Light 17 February 06\n\
+    Fitzhugh Ludlow The Phial Of Dread: By An Analytic Chemist \n        14 October\
+    \ 04\nJohn N Luff What Philately Teaches 10 June 05\nBenjamin Lumley Another World;\
+    \ or Fragments From The \n          Star City Of Montalluyah 17 August 05\nRobert\
+    \ Lynd The Pleasures Of Ignorance 8 August 06\nRichard Mabey Introduction to Gilbert\
+    \ White The \n          Natural History Of Selborne 17 January 04\nGeorge MacDonald\
+    \ A Dish Of Orts 9 May 04\nJean Mace The History Of A Mouthful Of Bread 20 January\
+    \ \n        05\nArthur Machen The Little People 16 February 05\nCompton MacKenzie\
+    \ The Altar Steps 21 February 05\nRene Magritte La ligne de la vie 26 April 04\n\
+    Alma Mahler-Werfel Diaries 5 April 04\nAntoine Simon Maillard An Account Of The\
+    \ Customs And \n          Manners Of The Micmakis And Maricheets Savage Nations,\
+    \ Now Dependent On The \n          Government Of Cape-Breton 4 June 05\nIke Matthews\
+    \ Full Revelations Of A Professional Rat-Catcher \n        21 February 06\nIan\
+    \ Mayes Open Door, column in The Guardian 7 \n        August 05 \nGordon McCreagh\
+    \ The Wood Devil Thing 13 September \n        04 \nJohn McGovern The Golden Censer\
+    \ 26 February 06\nProfessor Meikeljohn The History Of England And Great \n   \
+    \       Britain 14 July 06\nChristopher Merrett A Short View Of The Frauds And\
+    \ Abuses \n          Committed By Apothecaries 21 June 05\nAbraham Merritt The\
+    \ Metal Monster 6 April 04\nArthur Middleton The Forgotten Threshold 14 August\
+    \ \n        04 \nErin Millar A Buttercup In A Field Of Flame 14 February \n  \
+    \      06 \nThe Mirror of Literature, Amusement & Instruction 11 \n        March,\
+    \ 3 April 04\nEdward Page Mitchell The Tachypomp 27 January 05 \n      \nRichard\
+    \ Mitchell Less Than Words Can Say 26 February \n        04 \nSilas Weir Mitchell\
+    \ The Autobiography Of A Quack \n        12 September 04\nJohn Hamilton Moore\
+    \ The Young Gentleman And Lady's Monitor, \n          And English Teacher's Assistant\
+    \ 29 August 05\nT Sturge Moore Albrecht Durer 10 July 04\nJohn Morley Diderot\
+    \ And The Encyclopaedists 3 June \n        05\nRic Morris and John Gower quotation\
+    \ from \n          a letter from Australia to Jonathan Coleclough 2 \n       \
+    \ August 06\nArthur Morrison The Affair Of The Avalanche Bicycle & \n        \
+    \  Tyre Co., Ltd. 27 August 04\nW C Morrow The Ape, The Idiot, And Other People\
+    \ 23 \n        January 06\nJames Fullarton Muirhead Land Of Contrasts 23 February\
+    \ \n        06\nJohn Munro A Trip To Venus 21 November \n        04 \nAbraham\
+    \ Myerson The Nervous Housewife 14 December \n        04\nJames Napier Folk Lore\
+    \ 13 June 05\nErnest Naville The Heavenly Father 2 May 06\nHarvey Newcomb A Practical\
+    \ Directory For Young Christian \n          Females 11 April 06\nIsaac Newton\
+    \ The Chronology Of Ancient Kingdoms Amended \n        8 July 05\nHenry Alleyne\
+    \ Nicholson The Ancient Life History Of The \n          Earth 7 January 05\nHarold\
+    \ Nicolson Men's Clothes 19 January 04\nEmperor Norton I Unsourced quotation 18\
+    \ December \n        03 \nReinaldis Nougairoles cited in Roger Shattuck The \n\
+    \          Forbidden Experiment 23 January 04\nElliott O'Donnell Byways Of Ghost-Land\
+    \ 10 April 06\nCeleste Olalquiaga The Artificial Kingdom : A Treasury \n     \
+    \     Of The Kitsch Experience, With Remarkable Objects Of Art And Nature, Extraordinary\
+    \ \n          Events, Eccentric Biography And Original Theory, Plus Many Wonderful\
+    \ Illustrations \n          Selected By The Author 11 February 06\nMargaret Fuller\
+    \ Ossoli At Home And Abroad, Or, Things \n          And Thoughts In America and\
+    \ Europe 6 February 06\nSir Thomas Overbury Characters; or Witty Descriptions\
+    \ \n          Of The Properties Of Sundry Persons 19 March 04\nLuella Agnes Owen\
+    \ Cave Regions Of the Ozarks And Black \n          Hills 10 February 06\nBernard\
+    \ F Page SJ A Practical Guide For Servers At Low \n          Mass & Benediction\
+    \ 2 August 04\nReverend Ian Paisley Unsourced quotation 29 January \n        04\
+    \ \nJ Terry Palmer Letter to The Guardian\n13 February 06\nD M Panton Rapture\
+    \ 28 July 05\nFrancis Parkman The Jesuits In North America In The Seventeenth\
+    \ \n          Century 12 August 04\nBlaise Pascal Pensees 3 January 04\nBliss\
+    \ Perry Fishing With A Worm 4 August 05\nMichael Phelan The Young Priest's Keepsake\
+    \ \n        21 July 05\nUncle Philip The Girl's Cabinet Of Instructive & Moral\
+    \ \n          Stories 3 February 04\nAllan Pinkerton The Burglar's Fate And The\
+    \ Detectives \n        18 February 06\nHesther Lynch Piozzi Anecdotes Of The Late\
+    \ Samuel Johnson, \n          LL.D. 9 July 04\nDennis Plimmer Man From The Wrong\
+    \ Time Track 20 February \n        04\nCyril Plunkett The X Gas 22 August 05\n\
+    Michael Pollan The Botany Of Desire 4 September 06\nMrs Campbell Praed The Insane\
+    \ Root 23 June 05\nDorothy Quigley What Clothes Make Of Us 27 February \n    \
+    \    04\nArthur Quiller-Couch Noughts And Crosses 24 July \n        06\nSeabury\
+    \ Quinn The Monkey God 28 June 06\nRene Rapin De Carmine Pastorali 18 January\
+    \ 05\nMary Ray interviewed at Crufts Dog Show 2006 13 March \n        06\nHerbert\
+    \ Stanley Redgrove Bygone Beliefs 25 June 04 \n      \nMyrtle Reed The Spinster\
+    \ Book 6 April 06\nAgnes Repplier Americans And Others 1 February 06\nDavid Lester\
+    \ Richardson Flowers And Flower-Gardens 23 \n        May 04\nSarah J Richardson\
+    \ Life In The Grey Nunnery At Montreal \n        31 March 06\nMadame Rimbaud cited\
+    \ in Graham Robb Rimbaud 1 \n        January 04\nTom Roan Shadows Of The Crimson\
+    \ Tong 1 June 05 \nKenneth Robeson Fortress Of Solitude 5 October 04\nSamuel Rogers\
+    \ Table Talk 18 February 04\nSax Rohmer Daughter Of Fu Manchu 6 July 04\nEttie\
+    \ A Rout Safe Marriage : A Return To Sanity 13 \n        September 06 \nJohn Ruskin\
+    \ The Queen Of The Air 29 October 04\nWilma Salisbury from The Plain Dealer 8\
+    \ March \n        04 \nRobert Sangster Umbrellas And Their History 20 January\
+    \ \n        04 \nErik Satie manuscript of Embryons desseches 25 \n        February\
+    \ 06 \nNat Schachner & Arthur L Zagat The Song Of The Cakes \n        26 January\
+    \ 06\nArthur Schopenhauer The Art Of Controversy 30 January \n        05\nMichiel\
+    \ Schwartz quoted in David Winner Brilliant \n          Orange : The Neurotic\
+    \ Genius Of Dutch Football 22 July 06\nMarcel Schwob Bloody Blanche 8 September\
+    \ 04\nIstvan Scrimgeour Spine-Tingling Tales Of Glucose Deficiency \n        2\
+    \ January 04\nGarrett P Serviss Curiosities Of The Sky 18 June \n        04 \n\
+    Paul Severing Marvels Of Modern Science 8 October \n        04 \nEdward R Shaw\
+    \ Big People And Little People Of Other Lands \n        3 February 05\nWilliam\
+    \ Shaw Spying In Guru Land 12 June 06\nCharles M Sheldon The Crucifixion Of Philip\
+    \ Strong 25 \n        June 06 \nPercy Bysshe Shelley The Assassins 19 July 04\n\
+    M P Shiel The Stone Of The Edmundsbury Monks 12 March \n        04\nRobert W Shoppell\
+    \ The Afflicted Prince 29 April 06\nKatherine Shortall Where The Sabots Clatter\
+    \ Again \n        3 August 04\nJohn Sutherland Sinclair Lectures On Popular And\
+    \ Scientific \n          Subjects 24 July 05\nFelicia Skene Penitentiaries And\
+    \ Reformatories 5 \n        November 04\nAlexander Smith Dreamthorp 1 May 06\n\
+    F Smith The Revelation Explained 26 September 04\nCharles Southwell Superstition\
+    \ Unveiled 27 January \n        06\nThomas Alfred Spalding Elizabethan Demonology\
+    \ 14 \n        July 04\nGermander Speedwell Sayings 19 June 05\nHarriet Prescott\
+    \ Spofford Moonstone Mass 28 January \n        05\nClarence Squareman My Book\
+    \ Of Indoor Games 25 February \n        05\nD Starke Poise : How To Attain It\
+    \ 10 November 04\nGuy Steele a palindrome 17 February 04\nStendahl Journal 5 May\
+    \ 04\nG Carter Stent Chinese Eunuchs 7 September 04\nJ H Stocqueler Journal Of\
+    \ Fifteen Months' Pilgrimage \n          Through Untrodden Tracts Of Khuzistan\
+    \ And Persia 8 April 04\nLytton Strachey Books And Characters 25 November \n \
+    \       04 \nT S Stribling The Cruise Of The Dry Dock 26 June \n        04 \n\
+    Emanuel Swedenborg The Delights Of Wisdom Pertaining \n          To Conjugal Love\
+    \  22 November 04\nMatthew Sweet Inventing The Victorians 27 March 06\nJohn Addington\
+    \ Symonds Renaissance In Italy 30 May \n        05\nFrederick Arthur Ambrose Talbot\
+    \ Sixteen Months In Four \n          German Prisons 17 April 06\nRev T De Witt\
+    \ Talmadge The Abominations Of Modern Society \n        5 August 04\nThomas Tapper\
+    \ Music Talks With Children \n        29 December 04 \nNikola Tesla The Strange\
+    \ Life Of Nikola Tesla 6 January \n        05 \nPaul Theroux Sir Vidia's Shadow\
+    \ 28 February 04\nV E Thiessen The Beast-Jewel Of Mars 26 October 04\nJames Thurber\
+    \ The Thirteen Clocks 27 January 04\nH M Tomlinson London River 20 July 05\nH\
+    \ Tornai de Koever Hungarian Baths and Resorts 23 \n        February 04\nRichard\
+    \ Chenevix Trench On The Study Of Words \n        2 November 04\nFanny Trollope\
+    \ Domestic Manners Of The Americans \n        31 August 04\nMartin Farquhar Tupper\
+    \ Probabilities 24 January 06 \n      \nGeorge Turner Samoa, A Hundred Years Ago\
+    \ And Long Before \n        16 December 04\nMatthew Turner An Account of the Extraordinary\
+    \ Medicinal \n          Fluid, Called Aether 16 June 04\nThomas Tusser Unsourced\
+    \ quotation 4 February 04\nEdward Burnett Tylor Anahuac 16 August 04\nHenry H\
+    \ Vail A History Of The McGuffey Readers 11 \n        June 05\nG Van Praagh De-Icing\
+    \ Of Ships 11 September 06\nJules Verne Face au drapeau 31 March 04\nTito Vignoli\
+    \ Myth And Science 4 July 06\nLilian Walbrook The Case Of Lester Coltman 14 June\
+    \ \n        05\nMrs O F Walton Saved At Sea 7 February 04\nNed Ward British Wonders\
+    \ : Or, A Poetical Description \n          of the Several Prodigies and Most Remarkable\
+    \ Accidents That have happen'd in \n          Britain since the Death of Queen\
+    \ Anne 17 March 04\nPeter Washington Madame Blavatsky's Baboon 29 January \n \
+    \       06\nHal K Wells Black Pool For Hell Maidens 29 May 05 \n      \nH G Wells\
+    \ Certain Personal Matters 4 March 06\nCarl Weschcke Growing Nuts In the North\
+    \ 30 April \n        06\nGeorge Whale British Airships, Past / Present / Future\
+    \ \n        5 December 04\nCharles Whibley A Book Of Scoundrels 27 December \n\
+    \        04\nEdward Lucas White Lukundoo & Other Stories 15 July \n        05\n\
+    Ethel Lina White The Spiral Staircase (Some Must Watch) \n        5 July 04\n\
+    Charles Williams All Hallows' Eve 1914 22 September \n        04 \nW J Wintle\
+    \ The Spectre Spiders 22 September 05\nAlfred Wesley Wishart A Short History Of\
+    \ Monks And Monasteries \n        23 February 05\nDonald A Wollheim The Secret\
+    \ Of The Ninth Planet 11 \n        January 05 \nWilliam Wood Elizabethan Sea Dogs\
+    \ 13 July \n        04 \nVirginia Woolf Diaries 16 December 03\nCornell Woolrich\
+    \ Waltz Into Darkness 3 March 04\nJohn H Young Our Deportment 11 March 06\nStefan\
+    \ Zweig Beware Of Pity 6 August 04"
   title: Quote List
-word_count: 3298
+word_count: 3293

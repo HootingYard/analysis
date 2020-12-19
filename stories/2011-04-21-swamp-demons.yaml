@@ -35,9 +35,6 @@ ngrams:
 - - allure
   - abides
   - within
-- - peril
-  - sure
-  - tis
 - - deadly
   - spite
   - against
@@ -50,9 +47,6 @@ ngrams:
 - - swamp
   - still
   - brews
-- - sure
-  - tis
-  - told
 - - still
   - brews
   - within
@@ -77,24 +71,51 @@ ngrams:
 - - form
   - now
   - harbour
+- - like
+  - phosphorescent
+  - eyes
+- - brews
+  - within
+  - its
 story:
   date: 2011-04-21
   id: 2011-04-21-swamp-demons
-  text: "The weedy, asthmatic, fey and trembling poet Dennis Beerpint has, I am afraid\
-    \ to say, been caught red-handed in an act of blatant plagiarism. The title piece\
-    \ in his latest slim volume of twee verse, Swamp Demons, And Other Demons, And\
-    \ Other Swamps, has been copied word for word from the August-September 1936 issue\
-    \ of Weird Tales magazine, where it was correctly ascribed to the writer C A Butz.\
-    \ Reclining on a divan, feeling faintly ill, Beerpint has refused to comment on\
-    \ his act of poetic perfidy. Here is Butz's original verse.\nThe lights that wink\
-    \ across the sodden moor\nLike phosphorescent eyes that beckon men\nTo risk fell\
-    \ footsteps in the treacherous fen,\nAnd sink in loathsome muck, without a spoor\
-    \ \u2014\nWhat ghosts of former days, what dread allure,\nAbides within this subterranean\
-    \ den?\nOr, reaching out, snares victims to its ken,\nWith wraith-like fingers,\
-    \ to a peril sure?\n\u2018Tis told that evil things lurk out of sight\nWith human\
-    \ bones that fester in the ooze;\nBelike 'tis true, these bones that once were\
-    \ clothed\nIn fleshly form now harbour deadly spite\nAgainst the living, and this\
-    \ swamp still brews\nWithin its bubbling depths the curse men loathed\nBefore\
-    \ they turned to leprous Things of Night!"
+  text: 'The weedy, asthmatic, fey and trembling poet Dennis Beerpint has, I am afraid
+    to say, been caught red-handed in an act of blatant plagiarism. The title piece
+    in his latest slim volume of twee verse, Swamp Demons, And Other Demons, And Other
+    Swamps, has been copied word for word from the August-September 1936 issue of
+    Weird Tales magazine, where it was correctly ascribed to the writer C A Butz.
+    Reclining on a divan, feeling faintly ill, Beerpint has refused to comment on
+    his act of poetic perfidy. Here is Butz''s original verse.
+
+    The lights that wink across the sodden moor
+
+    Like phosphorescent eyes that beckon men
+
+    To risk fell footsteps in the treacherous fen,
+
+    And sink in loathsome muck, without a spoor --
+
+    What ghosts of former days, what dread allure,
+
+    Abides within this subterranean den?
+
+    Or, reaching out, snares victims to its ken,
+
+    With wraith-like fingers, to a peril sure?
+
+    ''Tis told that evil things lurk out of sight
+
+    With human bones that fester in the ooze;
+
+    Belike ''tis true, these bones that once were clothed
+
+    In fleshly form now harbour deadly spite
+
+    Against the living, and this swamp still brews
+
+    Within its bubbling depths the curse men loathed
+
+    Before they turned to leprous Things of Night!'
   title: Swamp Demons
-word_count: 208
+word_count: 209

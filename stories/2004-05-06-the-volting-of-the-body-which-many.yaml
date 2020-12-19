@@ -14,11 +14,14 @@ ngrams:
 - - never
   - be
   - done
+- - at
+  - times
+  - when
 story:
   date: 2004-05-06
   id: 2004-05-06-the-volting-of-the-body-which-many
-  text: "\u201CThe Volting of the Body, which many People call Quarting, shou'd never\
-    \ be done but at times when you are abandoned, as in Case of Lunges or on an Engagement\
-    \ of Feint in Disorder\u201D \u2014 Monsieur L'Abbat, The Art of Fencing"
-  title: "\u201CThe Volting of the Body, which many\u2026\u201D"
-word_count: 47
+  text: '"The Volting of the Body, which many People call Quarting, shou''d never
+    be done but at times when you are abandoned, as in Case of Lunges or on an Engagement
+    of Feint in Disorder" -- Monsieur L''Abbat, The Art of Fencing'
+  title: '"The Volting of the Body, which many..."'
+word_count: 48

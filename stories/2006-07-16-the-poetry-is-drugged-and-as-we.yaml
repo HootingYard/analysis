@@ -5,9 +5,6 @@ ngrams:
 - - demanded
   - language
   - choice
-- - strange
-  - john
-  - kelman
 - - imagination
   - shows
   - wild
@@ -41,16 +38,19 @@ ngrams:
 - - publication
   - we
   - feel
+- - ritual
+  - which
+  - demanded
 story:
   date: 2006-07-16
   id: 2006-07-16-the-poetry-is-drugged-and-as-we
-  text: "\u201CThe poetry is drugged, and as we read [Francis Thompson's] poems through\
-    \ in the order of their publication, we feel the power of the poppy more and more.\
-    \ At last the hand seems to lose its power and the will its control, though in\
-    \ flashes of sheer flame the imagination shows wild and beautiful as ever. His\
-    \ gorgeousness is beyond that of the Orient. The eccentric and arresting words\
-    \ that constantly amaze the ear, bring with them a sense of things occult yet\
-    \ dazzling, as if we were assisting at some mystic rite, in a ritual which demanded\
-    \ language choice and strange.\u201D \u2014 John Kelman, Among Famous Books"
-  title: "\u201CThe poetry is drugged, and as we\u2026\u201D"
-word_count: 114
+  text: '"The poetry is drugged, and as we read [Francis Thompson''s] poems through
+    in the order of their publication, we feel the power of the poppy more and more.
+    At last the hand seems to lose its power and the will its control, though in flashes
+    of sheer flame the imagination shows wild and beautiful as ever. His gorgeousness
+    is beyond that of the Orient. The eccentric and arresting words that constantly
+    amaze the ear, bring with them a sense of things occult yet dazzling, as if we
+    were assisting at some mystic rite, in a ritual which demanded language choice
+    and strange." -- John Kelman, Among Famous Books'
+  title: '"The poetry is drugged, and as we..."'
+word_count: 115

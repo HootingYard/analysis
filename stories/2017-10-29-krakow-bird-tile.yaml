@@ -8,9 +8,6 @@ ngrams:
 - - yard
   - bird
   - emblem
-- - low
-  - wall
-  - much
 - - thousand
   - years
   - old
@@ -32,15 +29,21 @@ ngrams:
 - - 'no'
   - apparent
   - reason
+- - tile
+  - has
+  - been
 story:
   date: 2017-10-29
   id: 2017-10-29-krakow-bird-tile
-  text: "The church of St Adalbert, in the market square of Krakow, is almost a thousand\
-    \ years old. On one side of it there is a low wall\u2014much more recent\u2014\
-    on the inner part of which, for no apparent reason, a single small tile has been\
-    \ embedded.\n\nOn this tile is depicted a bird. This bird has recently been designated\
-    \ as the Hooting Yard Bird Emblem. Next time you go to Krakow, make sure you pay\
-    \ due obeisance to the bird by sprawling on the ground before it and thinking\
-    \ of Dobson.\n"
+  text: 'The church of St Adalbert, in the market square of Krakow, is almost a thousand
+    years old. On one side of it there is a low wall--much more recent--on the inner
+    part of which, for no apparent reason, a single small tile has been embedded.
+
+
+    On this tile is depicted a bird. This bird has recently been designated as the
+    Hooting Yard Bird Emblem. Next time you go to Krakow, make sure you pay due obeisance
+    to the bird by sprawling on the ground before it and thinking of Dobson.
+
+    '
   title: Krakow Bird Tile
-word_count: 95
+word_count: 93

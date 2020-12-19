@@ -1,7 +1,4 @@
 ngrams:
-- - intertitles
-  - advent
-  - calendar
 - - maddin
   - film
   - intertitles
@@ -14,11 +11,14 @@ ngrams:
 - - cowards
   - bend
   - the
+- - bend
+  - the
+  - knee
 story:
   date: 2017-12-18
   id: 2017-12-18-guy-maddin-film-intertitles-advent-calendar-xviii
   text: '
 
     Cowards Bend The Knee (2003)'
-  title: "Guy Maddin Film Intertitles Advent Calendar\u2014XVIII"
-word_count: 11
+  title: Guy Maddin Film Intertitles Advent Calendar--XVIII
+word_count: 10

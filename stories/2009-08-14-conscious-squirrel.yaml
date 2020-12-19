@@ -1,16 +1,10 @@
 ngrams:
-- - certainly
-  - unwritten
-  - mirror
 - - squirrel
   - count
   - alas
 - - daily
   - squirrel
   - count
-- - almost
-  - certainly
-  - unwritten
 - - every
   - fictional
   - hero
@@ -41,24 +35,32 @@ ngrams:
 - - an
   - entire
   - pamphlet
-- - an
-  - almost
-  - certainly
 - - attention
   - this
   - squirrel
+- - we
+  - can
+  - safely
+- - never
+  - developed
+  - this
+- - conscious
+  - squirrel
+  - at
 story:
   date: 2009-08-14
   id: 2009-08-14-conscious-squirrel
-  text: "At the beginning of the year, you may recall, in homage to George Orwell's\
-    \ egg-counting mania, I began a daily squirrel count. Alas, I lack the single-minded\
-    \ diligence necessary for so useful a pastime, and I am afraid the count petered\
-    \ out on, er, the second of January.\nI mention this solely as a pretext to draw\
-    \ to your attention this squirrel.\nIt is said somewhere, possibly by Dobson,\
-    \ that every fictional hero has an antipole, an eerie opposite that features in\
-    \ an\u2014almost certainly unwritten\u2014mirror of the original work. (If it\
-    \ was Dobson, it is a shame he never developed this thesis into an entire pamphlet.)\
-    \ I think we can safely say that what we have here is the antipole of Unconscious\
-    \ Squirrel!, the unconscious squirrel."
+  text: 'At the beginning of the year, you may recall, in homage to George Orwell''s
+    egg-counting mania, I began a daily squirrel count. Alas, I lack the single-minded
+    diligence necessary for so useful a pastime, and I am afraid the count petered
+    out on, er, the second of January.
+
+    I mention this solely as a pretext to draw to your attention this squirrel.
+
+    It is said somewhere, possibly by Dobson, that every fictional hero has an antipole,
+    an eerie opposite that features in an--almost certainly unwritten--mirror of the
+    original work. (If it was Dobson, it is a shame he never developed this thesis
+    into an entire pamphlet.) I think we can safely say that what we have here is
+    the antipole of Unconscious Squirrel!, the unconscious squirrel.'
   title: Conscious Squirrel!
-word_count: 130
+word_count: 128

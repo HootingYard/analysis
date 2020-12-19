@@ -1,5 +1,5 @@
 ngrams:
-- - r
+- - re
   - records
   - quarterly
 - - records
@@ -23,10 +23,11 @@ ngrams:
 story:
   date: 2012-08-31
   id: 2012-08-31-initially-implausible
-  text: "The first sighting of the Hooting Yard \u201CImplausible\u201D emblem, on\
-    \ the back of the cover of the R\u0113 Records Quarterly Magazine Volume 2 Number\
-    \ 3. The emblem in the bottom left corner tells us that the pictures were drawn\
-    \ by Mr Key on the third and fourth of October 1988. Click once (or possibly twice)\
-    \ for enormousness.\n"
+  text: 'The first sighting of the Hooting Yard "Implausible" emblem, on the back
+    of the cover of the Re Records Quarterly Magazine Volume 2 Number 3. The emblem
+    in the bottom left corner tells us that the pictures were drawn by Mr Key on the
+    third and fourth of October 1988. Click once (or possibly twice) for enormousness.
+
+    '
   title: Initially Implausible
 word_count: 56

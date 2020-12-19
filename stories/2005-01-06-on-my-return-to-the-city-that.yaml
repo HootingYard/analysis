@@ -1,13 +1,7 @@
 ngrams:
-- - exciting
-  - nikola
-  - tesla
 - - applying
   - cold
   - compressions
-- - longer
-  - exciting
-  - nikola
 - - night
   - applying
   - cold
@@ -32,15 +26,21 @@ ngrams:
 - - wholly
   - subsided
   - these
+- - tortured
+  - head
+  - finally
+- - three
+  - weeks
+  - before
 story:
   date: 2005-01-06
   id: 2005-01-06-on-my-return-to-the-city-that
-  text: "\u201COn my return to the city that night, I felt a positive sensation that\
-    \ my brain had caught fire. It was alight as though a small sun was located in\
-    \ it and I passed the whole night applying cold compressions to my tortured head.\
-    \ Finally the flashes diminished in frequency and force but it took more than\
-    \ three weeks before they wholly subsided. These luminous phenomena still manifest\
-    \ themselves from time to time\u2026 but they are no longer exciting.\u201D \u2014\
-    \ Nikola Tesla, The Strange Life Of Nikola Tesla"
-  title: "\u201COn my return to the city that\u2026\u201D"
-word_count: 94
+  text: '"On my return to the city that night, I felt a positive sensation that my
+    brain had caught fire. It was alight as though a small sun was located in it and
+    I passed the whole night applying cold compressions to my tortured head. Finally
+    the flashes diminished in frequency and force but it took more than three weeks
+    before they wholly subsided. These luminous phenomena still manifest themselves
+    from time to time... but they are no longer exciting." -- Nikola Tesla, The Strange
+    Life Of Nikola Tesla'
+  title: '"On my return to the city that..."'
+word_count: 95

@@ -65,9 +65,6 @@ ngrams:
 - - almost
   - uniformly
   - dreadful
-- - shouting
-  - 'yes'
-  - shouting
 - - big
   - fat
   - hardback
@@ -119,9 +116,6 @@ ngrams:
 - - life
   - i'd
   - waited
-- - each
-  - poem
-  - examples
 - - without
   - running
   - screaming
@@ -134,18 +128,12 @@ ngrams:
 - - plankton
   - theory
   - long
-- - shouting
-  - each
-  - poem
 - - old
   - malice
   - aforethought
 - - horror
   - often
   - enough
-- - 'yes'
-  - shouting
-  - each
 - - krill
   - r
   - us
@@ -179,9 +167,6 @@ ngrams:
 - - very
   - real
   - risk
-- - after
-  - shouting
-  - 'yes'
 - - theory
   - long
   - long
@@ -356,6 +341,21 @@ ngrams:
 - - long
   - ago
   - so
+- - ago
+  - so
+  - long
+- - so
+  - long
+  - ago
+- - this
+  - towering
+  - work
+- - why
+  - this
+  - remained
+- - or
+  - kentucky
+  - fried
 story:
   date: 2012-04-22
   id: 2012-04-22-on-my-plankton-theory
@@ -392,40 +392,39 @@ story:
     \ pretended to be oiky proles but were of course university graduates, and at\
     \ least two of them were in receipt of healthy trust funds. I suspect genuine\
     \ oiky proles spotted the imposture without too much difficulty.) My approach\
-    \ at the gig was that, after shouting\u2014yes, shouting\u2014each poem (examples,\
-    \ Snackbar Hooligan and Ten Days In a Shed), I scrunched up the sheet of paper\
-    \ on which it was hand-scribbled and threw it into the audience. I think I was\
-    \ generally well-received, and I am not entirely sure why this remained my one\
-    \ and only appearance before I resurfaced on a stage, twenty years later, shortly\
-    \ before the dawn of the Hooting Yard you know and adore. I do recall feeling\
-    \ a tingle of pleasure when the Norwich gig was announced by John Peel on his\
-    \ radio show. I was billed as \u201CFrank Key The Poet\u201D.\nPerhaps, in spite\
-    \ of the lack of actual performances, it was the thoroughly wrong-headed idea\
-    \ of myself as \u201CThe Poet\u201D that kept me beavering away at verses for\
-    \ the next few years. I moved away from Norwich and was no longer in contact with\
-    \ any kind of local music scene where I might have been prevailed upon to spout\
-    \ my stuff to crowds of adoring fans. The big fat hardback notebook was, then,\
-    \ quite consciously, just for me. I am pleased to be able to say that I never\
-    \ badgered family and friends with it. Few experiences are as discomfiting as\
-    \ being trapped in a room with someone who says \u201CLet me read you a few of\
-    \ my latest poems\u201D, and I had been at the listening end of that particular\
-    \ horror often enough never to inflict it upon anyone else. But it does make me\
-    \ wonder why on earth I was writing all this stuff, and that it was all verse\
-    \ and no prose.\nAs for My Plankton Theory itself, the roots of this towering\
-    \ work lie in the late 1970s, when I recall watching a television programme\u2014\
-    probably Horizon\u2014in which it was confidently asserted that \u201Ckrill is\
-    \ the food of the future\u201D. Well, almost forty years on, here we are in the\
-    \ future, and I am not eating krill. At least, I don't think I am. Maybe I ought\
-    \ to take a closer interest in packaging, and lists of ingredients, and modern\
-    \ food production processes. It may be that I am eating a lot more krill than\
-    \ I suspect, shredded or pulped and somehow injected into my breakfast cereals\
-    \ and snack items and smokers\u2019 poptarts and so forth. But I envisaged a more\
-    \ explicit krill-centred diet, chains of fast food restaurants called Krill R\
-    \ Us or Kentucky Fried Krill, krill-based delicacies for the gourmet, or even\
+    \ at the gig was that, after shouting--yes, shouting--each poem (examples, Snackbar\
+    \ Hooligan and Ten Days In a Shed), I scrunched up the sheet of paper on which\
+    \ it was hand-scribbled and threw it into the audience. I think I was generally\
+    \ well-received, and I am not entirely sure why this remained my one and only\
+    \ appearance before I resurfaced on a stage, twenty years later, shortly before\
+    \ the dawn of the Hooting Yard you know and adore. I do recall feeling a tingle\
+    \ of pleasure when the Norwich gig was announced by John Peel on his radio show.\
+    \ I was billed as \"Frank Key The Poet\".\nPerhaps, in spite of the lack of actual\
+    \ performances, it was the thoroughly wrong-headed idea of myself as \"The Poet\"\
+    \ that kept me beavering away at verses for the next few years. I moved away from\
+    \ Norwich and was no longer in contact with any kind of local music scene where\
+    \ I might have been prevailed upon to spout my stuff to crowds of adoring fans.\
+    \ The big fat hardback notebook was, then, quite consciously, just for me. I am\
+    \ pleased to be able to say that I never badgered family and friends with it.\
+    \ Few experiences are as discomfiting as being trapped in a room with someone\
+    \ who says \"Let me read you a few of my latest poems\", and I had been at the\
+    \ listening end of that particular horror often enough never to inflict it upon\
+    \ anyone else. But it does make me wonder why on earth I was writing all this\
+    \ stuff, and that it was all verse and no prose.\nAs for My Plankton Theory itself,\
+    \ the roots of this towering work lie in the late 1970s, when I recall watching\
+    \ a television programme--probably Horizon--in which it was confidently asserted\
+    \ that \"krill is the food of the future\". Well, almost forty years on, here\
+    \ we are in the future, and I am not eating krill. At least, I don't think I am.\
+    \ Maybe I ought to take a closer interest in packaging, and lists of ingredients,\
+    \ and modern food production processes. It may be that I am eating a lot more\
+    \ krill than I suspect, shredded or pulped and somehow injected into my breakfast\
+    \ cereals and snack items and smokers' poptarts and so forth. But I envisaged\
+    \ a more explicit krill-centred diet, chains of fast food restaurants called Krill\
+    \ R Us or Kentucky Fried Krill, krill-based delicacies for the gourmet, or even\
     \ that staple of science fiction imaginings, the krill-pill, which I would obtain\
     \ from a Krill-O-Mat before zooming off on my jetpack. Alas, the future has not\
     \ turned out quite as forecast. Thereagain, when I was a little boy I swam in\
     \ municipal swimming pools rather than in ponds and lakes, I have never been skindiving,\
     \ and I never, ever really had a plankton theory."
   title: On My Plankton Theory
-word_count: 958
+word_count: 954

@@ -11,9 +11,6 @@ ngrams:
 - - painted
   - pods
   - shaped
-- - heroic
-  - flying
-  - machines
 - - aero
   - club
   - detailed
@@ -26,25 +23,32 @@ ngrams:
 - - club
   - secret
   - society
-- - stirred
-  - together
-  - mazes
 - - see
   - original
   - works
 - - potted
   - biography
   - here
+- - gorgeous
+  - pictures
+  - here
+- - next
+  - few
+  - weeks
 story:
   date: 2010-01-24
   id: 2010-01-24-sonora-aero-club
-  text: "\u201CDetailed and annotated mixed-media images of heroic flying machines\u2014\
-    Barnum and Bailey, Buck Rogers and Jules Verne all stirred together\u2014mazes\
-    \ of exotic detail, circus-tent gas-bags, bicycle wheels, belts and pulleys\u2014\
-    crazily painted pods shaped like the space shuttle boosters\u2026\u201D\nThe work\
-    \ of Charles Dellschau, a Prussian butcher resident in Texas, and member of the\
-    \ Sonora Aero Club secret society, obsessed with airships. Read a potted biography\
-    \ here, and look at some gorgeous pictures here. And for the next few weeks, those\
-    \ of you in or visiting London can see original works at the Museum Of Everything.\n"
+  text: '"Detailed and annotated mixed-media images of heroic flying machines--Barnum
+    and Bailey, Buck Rogers and Jules Verne all stirred together--mazes of exotic
+    detail, circus-tent gas-bags, bicycle wheels, belts and pulleys--crazily painted
+    pods shaped like the space shuttle boosters..."
+
+    The work of Charles Dellschau, a Prussian butcher resident in Texas, and member
+    of the Sonora Aero Club secret society, obsessed with airships. Read a potted
+    biography here, and look at some gorgeous pictures here. And for the next few
+    weeks, those of you in or visiting London can see original works at the Museum
+    Of Everything.
+
+    '
   title: Sonora Aero Club
-word_count: 100
+word_count: 97

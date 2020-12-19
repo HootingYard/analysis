@@ -74,6 +74,9 @@ ngrams:
 - - important
   - request
   - ms
+- - ps
+  - bentley
+  - along
 - - bentley
   - along
   - sunset
@@ -104,34 +107,36 @@ ngrams:
 - - our
   - otherwise
   - mundane
-- - just
-  - three
-  - magazines
 story:
   date: 2007-05-10
   id: 2007-05-10-nixon-hilton
-  text: "You don't visit Hooting Yard to read about Paris Hilton, but there is something\
-    \ magnificent about this story from yesterday's Guardian. I have emboldened the\
-    \ most jaw-dropping passages:\n\u2026 the heiress and socialite yesterday appealed\
-    \ to fans to sign an online petition urging California governor Arnold Schwarzenegger\
-    \ to commute her 45-day sentence for driving while disqualified. \u201CIf the\
-    \ late former president Gerald Ford could find it in his heart to pardon former\
-    \ president Richard Nixon after his mistake(s),\u201D reads the appeal, \u201C\
-    we undeniably support Paris Hilton being pardoned for her honest mistake as well,\
-    \ and we expect that the governor will understand and grant this unusual but important\
-    \ request.\u201D\nMs Hilton, 26, was sentenced on May 5 after being pulled over\
-    \ while driving her \xA3120,000 Bentley along Sunset Boulevard, Los Angeles, in\
-    \ February. Her licence had been suspended for 36 months last year for driving\
-    \ while drunk. She had told the judge she was not aware this meant she was unable\
-    \ to drive, since she never read her own mail. \u201CI have people who do that\
-    \ for me,\u201D she said. \u201CI just sign what people tell me to sign.\u201D\
-    \nThe letter to Mr Schwarzenegger says Ms Hilton should be freed because \u201C\
-    she provides hope for young people all over the US and the world. She provides\
-    \ beauty and excitement to (most of) our otherwise mundane lives.\u201D\nMs Hilton's\
-    \ lawyers have filed notice of her intent to appeal. Should that fail she will\
-    \ be required to present herself to the women's prison in south Los Angeles on\
-    \ June 5. There she will share an austere cell, wear an orange jumpsuit and pass\
-    \ the time with just three magazines or a book, though she will be in a \u201C\
-    special needs\u201D wing thanks to her celebrity status."
+  text: 'You don''t visit Hooting Yard to read about Paris Hilton, but there is something
+    magnificent about this story from yesterday''s Guardian. I have emboldened the
+    most jaw-dropping passages:
+
+    ... the heiress and socialite yesterday appealed to fans to sign an online petition
+    urging California governor Arnold Schwarzenegger to commute her 45-day sentence
+    for driving while disqualified. "If the late former president Gerald Ford could
+    find it in his heart to pardon former president Richard Nixon after his mistake(s),"
+    reads the appeal, "we undeniably support Paris Hilton being pardoned for her honest
+    mistake as well, and we expect that the governor will understand and grant this
+    unusual but important request."
+
+    Ms Hilton, 26, was sentenced on May 5 after being pulled over while driving her
+    PS120,000 Bentley along Sunset Boulevard, Los Angeles, in February. Her licence
+    had been suspended for 36 months last year for driving while drunk. She had told
+    the judge she was not aware this meant she was unable to drive, since she never
+    read her own mail. "I have people who do that for me," she said. "I just sign
+    what people tell me to sign."
+
+    The letter to Mr Schwarzenegger says Ms Hilton should be freed because "she provides
+    hope for young people all over the US and the world. She provides beauty and excitement
+    to (most of) our otherwise mundane lives."
+
+    Ms Hilton''s lawyers have filed notice of her intent to appeal. Should that fail
+    she will be required to present herself to the women''s prison in south Los Angeles
+    on June 5. There she will share an austere cell, wear an orange jumpsuit and pass
+    the time with just three magazines or a book, though she will be in a "special
+    needs" wing thanks to her celebrity status.'
   title: Nixon Hilton
-word_count: 291
+word_count: 292

@@ -1,7 +1,4 @@
 ngrams:
-- - cake
-  - libyan
-  - proverb
 - - round
   - is
   - not
@@ -14,9 +11,12 @@ ngrams:
 - - is
   - round
   - is
+- - that
+  - is
+  - round
 story:
   date: 2006-12-07
   id: 2006-12-07-all-that-is-round-is-not-a
-  text: "\u201CAll that is round is not a cake.\u201D \u2014 Libyan proverb"
-  title: "\u201CAll that is round is not a\u2026\u201D"
-word_count: 17
+  text: '"All that is round is not a cake." -- Libyan proverb'
+  title: '"All that is round is not a..."'
+word_count: 18

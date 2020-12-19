@@ -17,9 +17,6 @@ ngrams:
 - - vocabulary
   - english
   - computer
-- - murder
-  - n
-  - knitwear
 - - danish
   - language
   - skills
@@ -35,31 +32,38 @@ ngrams:
 - - watching
   - somewhat
   - belatedly
-- - n
-  - knitwear
-  - detective
-- - popular
-  - murder
-  - n
 - - knitwear
   - detective
   - series
 - - detective
   - series
   - apart
+- - improve
+  - her
+  - english
+- - could
+  - successfully
+  - apply
+- - english
+  - she
+  - worked
 story:
   date: 2011-05-16
   id: 2011-05-16-improve-your-danish-language-skills
-  text: "I noted below that when my Flemish-speaking mother wanted to improve her\
-    \ English, she worked her way through the classics of literature. Nowadays, we\
-    \ just slump in front of the television and watch foreign-language thrillers on\
-    \ BBC4. Thus I have embarked upon a crash-course in Danish by watching, somewhat\
-    \ belatedly, Forbrydelsen, or The Killing, the highly popular murder \u2018n\u2019\
-    \ knitwear detective series. Apart from being a splendid example of Nick Cohen's\
-    \ observation that ethnic minorities are never the villains in BBC cop shows,\
-    \ the series has done wonders for my Danish language skills. I think I could successfully\
-    \ apply for an IT post in Copenhagen, armed with these additions to my vocabulary:\n\
-    English\_: computer. Danish\_: compuder.\nEnglish\_: password. Danish\_: password.\n\
-    English\_: fuck-up. Danish\_: fuck-up."
+  text: 'I noted below that when my Flemish-speaking mother wanted to improve her
+    English, she worked her way through the classics of literature. Nowadays, we just
+    slump in front of the television and watch foreign-language thrillers on BBC4.
+    Thus I have embarked upon a crash-course in Danish by watching, somewhat belatedly,
+    Forbrydelsen, or The Killing, the highly popular murder ''n'' knitwear detective
+    series. Apart from being a splendid example of Nick Cohen''s observation that
+    ethnic minorities are never the villains in BBC cop shows, the series has done
+    wonders for my Danish language skills. I think I could successfully apply for
+    an IT post in Copenhagen, armed with these additions to my vocabulary:
+
+    English : computer. Danish : compuder.
+
+    English : password. Danish : password.
+
+    English : fuck-up. Danish : fuck-up.'
   title: Improve Your Danish Language Skills
 word_count: 129

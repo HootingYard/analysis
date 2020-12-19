@@ -8,33 +8,18 @@ ngrams:
 - - airy
   - persiflage
   - says
-- - sensible
-  - rest
-  - assured
 - - very
   - funny
   - piece
 - - hooting
   - yard
   - roland
-- - vicar
-  - then
-  - reveals
 - - mr
   - o'hara
   - here
-- - bad
-  - vicar
-  - then
 - - then
   - reveals
   - himself
-- - were
-  - sensible
-  - rest
-- - story
-  - were
-  - sensible
 - - narrator
   - who
   - first
@@ -53,20 +38,35 @@ ngrams:
 - - sustain
   - even
   - if
+- - easy
+  - way
+  - we
+- - wonders
+  - what
+  - has
+- - what
+  - has
+  - become
+- - we
+  - can
+  - come
+- - persiflage
+  - says
+  - not
 story:
   date: 2014-04-15
   id: 2014-04-15-american-vicarage
-  text: "In his scholarly introduction to By Aerostat To Hooting Yard, Roland Clare\
-    \ writes: \u201CThe Bad Vicarage is a very funny piece that epitomises not only\
-    \ the moral instability of Hooting Yard but also Key's desire to puncture the\
-    \ very illusion of reality that naturalistic authors are at pains to sustain.\
-    \ Even if the rest of the story were sensible\u2014rest assured, it is not\u2014\
-    there is no easy way we can come to terms with the unreliability of a narrator\
-    \ who first wonders what has become of the \u2018Bad Vicar\u2019, then reveals\
-    \ himself to be the incumbent in question.\u201D\nThe estimable Walt O'Hara of\
-    \ Airy Persiflage says: \u201CNot for the faint of heart, Mr. Key's spine tingling\
-    \ tale of a monstrous vicar of old and the evil that he wrought!\u201D You can\
-    \ enjoy the pleasurably disconcerting experience of listening to the tale read\
-    \ by Mr O'Hara here."
+  text: 'In his scholarly introduction to By Aerostat To Hooting Yard, Roland Clare
+    writes: "The Bad Vicarage is a very funny piece that epitomises not only the moral
+    instability of Hooting Yard but also Key''s desire to puncture the very illusion
+    of reality that naturalistic authors are at pains to sustain. Even if the rest
+    of the story were sensible--rest assured, it is not--there is no easy way we can
+    come to terms with the unreliability of a narrator who first wonders what has
+    become of the ''Bad Vicar'', then reveals himself to be the incumbent in question."
+
+    The estimable Walt O''Hara of Airy Persiflage says: "Not for the faint of heart,
+    Mr. Key''s spine tingling tale of a monstrous vicar of old and the evil that he
+    wrought!" You can enjoy the pleasurably disconcerting experience of listening
+    to the tale read by Mr O''Hara here.'
   title: American Vicarage
-word_count: 149
+word_count: 147

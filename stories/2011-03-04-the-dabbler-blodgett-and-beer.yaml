@@ -1,6 +1,6 @@
 ngrams:
 - - month
-  - o
+  - o'
   - march
 - - predicted
   - please
@@ -20,15 +20,15 @@ ngrams:
 - - 'no'
   - legal
   - system
+- - o'
+  - march
+  - if
 - - him
   - hauled
   - before
 - - will
   - convict
   - blodgett
-- - o
-  - march
-  - if
 - - world
   - will
   - convict
@@ -44,13 +44,17 @@ ngrams:
 story:
   date: 2011-03-04
   id: 2011-03-04-the-dabbler-blodgett-and-beer
-  text: "\nOne for the Blodgettists in my cupboard at The Dabbler this week, wherein\
-    \ you may find limned the fate awaiting you in the month o\u2019 March. If things\
-    \ do not quite turn out as predicted, please note that no legal system in the\
-    \ world will convict Blodgett of chicanery, so do not even try to have him hauled\
-    \ before a court.\nSpeaking of The Dabbler, beery readers ought to hie on over\
-    \ to this postage, in which you get the opportunity to win a case of Bath Ales.\
-    \ In fact, you should take part come what may, simply to support the super soaraway\
-    \ Dabbler and thus, by extension, Mr Key himself."
+  text: '
+
+    One for the Blodgettists in my cupboard at The Dabbler this week, wherein you
+    may find limned the fate awaiting you in the month o'' March. If things do not
+    quite turn out as predicted, please note that no legal system in the world will
+    convict Blodgett of chicanery, so do not even try to have him hauled before a
+    court.
+
+    Speaking of The Dabbler, beery readers ought to hie on over to this postage, in
+    which you get the opportunity to win a case of Bath Ales. In fact, you should
+    take part come what may, simply to support the super soaraway Dabbler and thus,
+    by extension, Mr Key himself.'
   title: The Dabbler, Blodgett, And Beer
 word_count: 116

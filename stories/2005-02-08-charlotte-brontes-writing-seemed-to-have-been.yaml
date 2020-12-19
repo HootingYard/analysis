@@ -11,18 +11,12 @@ ngrams:
 - - charlotte
   - bronte's
   - writing
-- - paper
-  - jerome
-  - b
 - - bronte's
   - writing
   - seemed
 - - bronte's
   - writing
   - seemed
-- - blue
-  - paper
-  - jerome
 - - while
   - marvelously
   - neat
@@ -53,19 +47,24 @@ ngrams:
 - - nothing
   - more
   - than
+- - disputed
+  - handwriting
+  - an
+- - handwriting
+  - an
+  - exhaustive
 story:
   date: 2005-02-08
   id: 2005-02-08-charlotte-brontes-writing-seemed-to-have-been
-  text: "\u201CCharlotte Bronte's writing seemed to have been traced with a cambric\
-    \ needle, and Thackeray's writing, while marvelously neat and precise, was so\
-    \ small that the best of eyes were needed to read it. Likewise the writing of\
-    \ Captain Marryatt was so microscopic that when he was interrupted in his labors\
-    \ he was obliged to mark the place where he left off by sticking a pin in the\
-    \ paper. Napoleon's was worse than illegible, and it is said that his letters\
-    \ from Germany to the Empress Josephine were at first thought to be rough maps\u2026\
-    \ Byron's handwriting was nothing more than a scrawl. The writing of Dickens was\
-    \ minute, and he had a habit of writing with blue ink on blue paper.\u201D \u2014\
-    \ Jerome B Lavay, Disputed Handwriting : An Exhaustive, Valuable, And Comprehensive\
-    \ Work Upon One Of The Most Important Subjects of To-day"
-  title: "\u201CCharlotte Bronte's writing seemed to have been\u2026\u201D"
-word_count: 148
+  text: '"Charlotte Bronte''s writing seemed to have been traced with a cambric needle,
+    and Thackeray''s writing, while marvelously neat and precise, was so small that
+    the best of eyes were needed to read it. Likewise the writing of Captain Marryatt
+    was so microscopic that when he was interrupted in his labors he was obliged to
+    mark the place where he left off by sticking a pin in the paper. Napoleon''s was
+    worse than illegible, and it is said that his letters from Germany to the Empress
+    Josephine were at first thought to be rough maps... Byron''s handwriting was nothing
+    more than a scrawl. The writing of Dickens was minute, and he had a habit of writing
+    with blue ink on blue paper." -- Jerome B Lavay, Disputed Handwriting : An Exhaustive,
+    Valuable, And Comprehensive Work Upon One Of The Most Important Subjects of To-day'
+  title: '"Charlotte Bronte''s writing seemed to have been..."'
+word_count: 149

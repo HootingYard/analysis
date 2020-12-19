@@ -2,9 +2,6 @@ ngrams:
 - - natural
   - enjoyment
   - possessed
-- - incredible
-  - oliver
-  - bell
 - - early
   - morning
   - absolutely
@@ -35,16 +32,19 @@ ngrams:
 - - his
   - opinions
   - sentiments
+- - bluff
+  - his
+  - opinions
 story:
   date: 2006-05-14
   id: 2006-05-14-who-but-a-man-diverted-from-the
-  text: "\u201CWho but a man diverted from the paths of honest feeling and natural\
-    \ enjoyment, possessed of a demoniac mania, lost to the peace and serenity of\
-    \ the virtuous and the blessed, could find pleasure amid the damps, and dews,\
-    \ and chills, and raw-edgedness of a garden in the early morning, absolutely find\
-    \ pleasure in saturated trousers, in shoes swathed in moisture, in skies that\
-    \ are gray and gloomy, in flowers that are, as Mantalini would put it, \u2018\
-    demnition moist\u2019? The thing is incredible!\u201D \u2014 Oliver Bell Bunce,\
-    \ Bachelor Bluff : His Opinions, Sentiments, And Disputations"
-  title: "\u201CWho but a man diverted from the\u2026\u201D"
-word_count: 100
+  text: '"Who but a man diverted from the paths of honest feeling and natural enjoyment,
+    possessed of a demoniac mania, lost to the peace and serenity of the virtuous
+    and the blessed, could find pleasure amid the damps, and dews, and chills, and
+    raw-edgedness of a garden in the early morning, absolutely find pleasure in saturated
+    trousers, in shoes swathed in moisture, in skies that are gray and gloomy, in
+    flowers that are, as Mantalini would put it, ''demnition moist''? The thing is
+    incredible!" -- Oliver Bell Bunce, Bachelor Bluff : His Opinions, Sentiments,
+    And Disputations'
+  title: '"Who but a man diverted from the..."'
+word_count: 101

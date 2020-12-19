@@ -5,9 +5,6 @@ ngrams:
 - - moral
   - clearly
   - stated
-- - close
-  - henry
-  - h
 - - formal
   - didactic
   - words
@@ -32,9 +29,6 @@ ngrams:
 - - made
   - another
   - boy
-- - its
-  - close
-  - henry
 - - chimney
   - sweep
   - who
@@ -44,17 +38,22 @@ ngrams:
 - - boy
   - who
   - freed
+- - cruel
+  - boy
+  - who
+- - who
+  - played
+  - ghost
 story:
   date: 2005-06-11
   id: 2005-06-11-the-first-reader-was-mostly-in-words
-  text: "\u201CThe First Reader was mostly in words of one syllable. In this book\
-    \ we find the story of the lame dog that, when cured, brought another lame dog\
-    \ to be doctored; of the kind boy who freed his caged bird; of the cruel boy who\
-    \ drowned the cat and pulled wings and legs from flies;\u2026 of the chimney sweep\
-    \ who was tempted to steal a gold watch but put it back and was thereafter educated\
-    \ by its owner; of the whisky boy; and of the mischievous boy who played ghost\
-    \ and made another boy insane. Nearly every lesson has a moral clearly stated\
-    \ in formal didactic words at its close.\u201D \u2014 Henry H Vail, A History\
-    \ Of The McGuffey Readers"
-  title: "\u201CThe First Reader was mostly in words\u2026\u201D"
-word_count: 126
+  text: '"The First Reader was mostly in words of one syllable. In this book we find
+    the story of the lame dog that, when cured, brought another lame dog to be doctored;
+    of the kind boy who freed his caged bird; of the cruel boy who drowned the cat
+    and pulled wings and legs from flies;... of the chimney sweep who was tempted
+    to steal a gold watch but put it back and was thereafter educated by its owner;
+    of the whisky boy; and of the mischievous boy who played ghost and made another
+    boy insane. Nearly every lesson has a moral clearly stated in formal didactic
+    words at its close." -- Henry H Vail, A History Of The McGuffey Readers'
+  title: '"The First Reader was mostly in words..."'
+word_count: 127

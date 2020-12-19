@@ -1,7 +1,4 @@
 ngrams:
-- - media
-  - collage
-  - painting
 - - serial
   - election
   - candidate
@@ -14,21 +11,12 @@ ngrams:
 - - elicits
   - four
   - results
-- - different
-  - media
-  - collage
 - - introduces
   - pictures
   - within
-- - within
-  - pictures
-  - leaves
 - - human
   - body
   - occasionally
-- - pictures
-  - within
-  - pictures
 - - actually
   - exist
   - although
@@ -80,26 +68,43 @@ ngrams:
 - - other
   - birds
   - third
+- - above
+  - other
+  - birds
+- - first
+  - let
+  - us
+- - bird
+  - superior
+  - which
+- - making
+  - him
+  - up
 story:
   date: 2004-07-02
   id: 2004-07-02-some-interesting-lops
-  text: "First, let us consider Ferdinand Lop. During the Fourth Republic in France,\
-    \ Lop was a serial election candidate. Perhaps his most memorable policy was his\
-    \ promise to extend the Boulevard Saint-Michel in Paris in both directions until\
-    \ it reached the sea. I am not making him up. So often did his candidacy for various\
-    \ offices appear on ballot papers that he provoked the creation of an anti-Lop\
-    \ party, called, superbly, the Anti-Lops.\nSecond, Loplop, Max Ernst's \u201C\
-    Bird Superior\u201D, which first appeared in 1929. Here it is:\n\nThis anthropomorphic\
-    \ bird-man with beaked head and human body (occasionally depicted with wings as\
-    \ well) became Ernst's alter ego in numerous works in different media\u2014collage,\
-    \ painting, and relief. Loplop is sometimes represented as a complete figure,\
-    \ sometimes in abbreviated fashion with disembodied head and hand, as he presents\
-    \ or introduces pictures within pictures\u2014leaves or flowers, a young woman,\
-    \ fellow Surrealists, butterflies or, as in the picture above, other birds.\n\
-    Third, and still on the topic of birds, we have the lopwit. This bird does not\
-    \ actually exist, although I thought it did. It appears in A Catalogue Of 53 Birds,\
-    \ and pretty much nowhere else. A Google search for \u201Clopwit\u201D elicits\
-    \ four results, two of which are from Hooting Yard. And I was convinced that such\
-    \ a thing as the lopwit existed. Ah well."
+  text: 'First, let us consider Ferdinand Lop. During the Fourth Republic in France,
+    Lop was a serial election candidate. Perhaps his most memorable policy was his
+    promise to extend the Boulevard Saint-Michel in Paris in both directions until
+    it reached the sea. I am not making him up. So often did his candidacy for various
+    offices appear on ballot papers that he provoked the creation of an anti-Lop party,
+    called, superbly, the Anti-Lops.
+
+    Second, Loplop, Max Ernst''s "Bird Superior", which first appeared in 1929. Here
+    it is:
+
+
+    This anthropomorphic bird-man with beaked head and human body (occasionally depicted
+    with wings as well) became Ernst''s alter ego in numerous works in different media--collage,
+    painting, and relief. Loplop is sometimes represented as a complete figure, sometimes
+    in abbreviated fashion with disembodied head and hand, as he presents or introduces
+    pictures within pictures--leaves or flowers, a young woman, fellow Surrealists,
+    butterflies or, as in the picture above, other birds.
+
+    Third, and still on the topic of birds, we have the lopwit. This bird does not
+    actually exist, although I thought it did. It appears in A Catalogue Of 53 Birds,
+    and pretty much nowhere else. A Google search for "lopwit" elicits four results,
+    two of which are from Hooting Yard. And I was convinced that such a thing as the
+    lopwit existed. Ah well.'
   title: Some Interesting Lops
-word_count: 223
+word_count: 221

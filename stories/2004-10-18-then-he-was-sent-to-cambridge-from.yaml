@@ -41,17 +41,20 @@ ngrams:
 - - milton
   - be
   - produced
+- - john
+  - milton
+  - be
 story:
   date: 2004-10-18
   id: 2004-10-18-then-he-was-sent-to-cambridge-from
-  text: "\u201C\u2026then he was sent to Cambridge. From there he wrote to his mother,\
-    \ \u2018I am penetrating into the inmost recesses of the Muses; climbing high\
-    \ Olympus, visiting the green pastures of Parnassus, and drinking deep from Pierian\
-    \ Springs\u2019. This is terrible language for a child of fourteen. A boy who\
-    \ should talk like that now would be regarded with anxious concern by his loving\
-    \ parents. The present age is incredulous of the Infant Phenomenon. And no fond\
-    \ parent must for a moment imagine that by following the system laid out for the\
-    \ education of John Milton can a John Milton be produced.\u201D \u2014 Elbert\
-    \ Hubbard, Little Journeys To The Homes Of English Authors"
-  title: "\u201C\u2026then he was sent to Cambridge. From\u2026\u201D"
-word_count: 119
+  text: '"...then he was sent to Cambridge. From there he wrote to his mother, ''I
+    am penetrating into the inmost recesses of the Muses; climbing high Olympus, visiting
+    the green pastures of Parnassus, and drinking deep from Pierian Springs''. This
+    is terrible language for a child of fourteen. A boy who should talk like that
+    now would be regarded with anxious concern by his loving parents. The present
+    age is incredulous of the Infant Phenomenon. And no fond parent must for a moment
+    imagine that by following the system laid out for the education of John Milton
+    can a John Milton be produced." -- Elbert Hubbard, Little Journeys To The Homes
+    Of English Authors'
+  title: '"...then he was sent to Cambridge. From..."'
+word_count: 120

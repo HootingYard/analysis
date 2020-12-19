@@ -35,6 +35,9 @@ ngrams:
 - - herman
   - melville
   - fireplace
+- - enigmatic
+  - smile
+  - cliche
 - - hurt
   - harm
   - mischief
@@ -206,6 +209,9 @@ ngrams:
 - - unrest
   - second
   - album
+- - smile
+  - cliche
+  - used
 - - reasons
   - evening
   - latter
@@ -365,50 +371,43 @@ ngrams:
 - - buff
   - envelope
   - said
-- - any
-  - decent
-  - dictionary
-- - heads
-  - done
-  - away
 story:
   date: 2012-05-24
   id: 2012-05-24-on-tarleton-and-the-mysterious-affair-of-the-buff-envelope
   text: "Tarleton was visited in his consulting rooms one April evening by a padding\
-    \ fellow clutching a buff envelope.\nGlossary\_:\nTarleton, \u201Cthe amateur's\
-    \ amateur\u201D.\nConsulting rooms, address unknown but probably in an ill-lit\
-    \ alleyway off the main thoroughfare in Pointy Town.\nApril, fourth month of the\
-    \ year. Abolished during the French Revolution and replaced by Germinal (to 19\
-    \ April) and Flor\xE9al (from 20 April). Tarleton's internal \u201Cclock\u201D\
-    \ was regulated accordingly, though not for ideological reasons.\nEvening, latter\
-    \ part of the day, descending into dusk and twilight and, eventually, nightfall,\
-    \ wherein terrors are unloosed (see Thomas Nashe, Terrors Of The Night, 1594).\n\
-    Padding, moving like a cat.\nBuff envelope, an item of stationery, not to be confused\
-    \ with the Buff Orpington, a type of duck.\n\u201CWhy are you padding into my\
-    \ consulting rooms clutching a duck?\u201D asked Tarleton. Then, putting on his\
-    \ spectacles, he added, \u201CI beg your pardon, I ought to say clutching an envelope.\u201D\
-    \n\u201CWithin this buff envelope,\u201D said the visitor, \u201CAre papers which,\
-    \ if revealed to the press, could bring about the collapse of several crowned\
-    \ heads, and seething unrest throughout the continent!\u201D\nGlossary:\nThen,\
-    \ here indicating the next action or event in a sequence. Can also refer to the\
-    \ past, as in the model sentence \u201CI was happy then, in my childhood, before\
-    \ the revolution, before the shambles wrought by our new masters\u201D.\nSpectacles,\
-    \ eyeglasses, two monocles stuck together with connecting wire. Often rose-tinted,\
-    \ though not in Tarleton's case.\nPapers, top secret quasi-official documents\
-    \ of world-shuddering significance.\nThe press, generic term for newspapers, both\
-    \ tabloid and broadsheet, even, great heavens to Betsy, Berliner format!, not\
-    \ to be confused with Papers (see above).\nCollapse, can happen to puddings and\
-    \ souffl\xE9s if cooking times go awry.\nCrowned heads, done away with, violently,\
-    \ during revolutionary upheavals.\nUnrest, second album by Henry Cow, released\
-    \ in 1974. Sock on cover.\nContinent, seven known to exist, in alphabetical order\
-    \ Africa, Antarctica, Asia, Australia, Europe, North America, South America. There\
-    \ may be others, hidden or occult. Continental location of Tarleton's consulting\
-    \ rooms not yet identified beyond every shadow of a doubt (Alfred Hitchcock, 1943).\n\
-    \u201CGood grief!\u201D spluttered Tarleton's sidekick Not-Tarleton, sprawled\
-    \ on a beanbag by the fireplace, \u201CIf what you say is true we must act immediately\
-    \ to stop the collapse and unrest in their tracks!\u201D\nAn enigmatic smile played\
-    \ over Tarleton's lips.\n\u201CMay I have the buff envelope?\u201D he asked the\
-    \ visitor.\nGlossary:\nGrief, Hardship, suffering; a kind, or cause, of hardship\
+    \ fellow clutching a buff envelope.\nGlossary :\nTarleton, \"the amateur's amateur\"\
+    .\nConsulting rooms, address unknown but probably in an ill-lit alleyway off the\
+    \ main thoroughfare in Pointy Town.\nApril, fourth month of the year. Abolished\
+    \ during the French Revolution and replaced by Germinal (to 19 April) and Floreal\
+    \ (from 20 April). Tarleton's internal \"clock\" was regulated accordingly, though\
+    \ not for ideological reasons.\nEvening, latter part of the day, descending into\
+    \ dusk and twilight and, eventually, nightfall, wherein terrors are unloosed (see\
+    \ Thomas Nashe, Terrors Of The Night, 1594).\nPadding, moving like a cat.\nBuff\
+    \ envelope, an item of stationery, not to be confused with the Buff Orpington,\
+    \ a type of duck.\n\"Why are you padding into my consulting rooms clutching a\
+    \ duck?\" asked Tarleton. Then, putting on his spectacles, he added, \"I beg your\
+    \ pardon, I ought to say clutching an envelope.\"\n\"Within this buff envelope,\"\
+    \ said the visitor, \"Are papers which, if revealed to the press, could bring\
+    \ about the collapse of several crowned heads, and seething unrest throughout\
+    \ the continent!\"\nGlossary:\nThen, here indicating the next action or event\
+    \ in a sequence. Can also refer to the past, as in the model sentence \"I was\
+    \ happy then, in my childhood, before the revolution, before the shambles wrought\
+    \ by our new masters\".\nSpectacles, eyeglasses, two monocles stuck together with\
+    \ connecting wire. Often rose-tinted, though not in Tarleton's case.\nPapers,\
+    \ top secret quasi-official documents of world-shuddering significance.\nThe press,\
+    \ generic term for newspapers, both tabloid and broadsheet, even, great heavens\
+    \ to Betsy, Berliner format!, not to be confused with Papers (see above).\nCollapse,\
+    \ can happen to puddings and souffles if cooking times go awry.\nCrowned heads,\
+    \ done away with, violently, during revolutionary upheavals.\nUnrest, second album\
+    \ by Henry Cow, released in 1974. Sock on cover.\nContinent, seven known to exist,\
+    \ in alphabetical order Africa, Antarctica, Asia, Australia, Europe, North America,\
+    \ South America. There may be others, hidden or occult. Continental location of\
+    \ Tarleton's consulting rooms not yet identified beyond every shadow of a doubt\
+    \ (Alfred Hitchcock, 1943).\n\"Good grief!\" spluttered Tarleton's sidekick Not-Tarleton,\
+    \ sprawled on a beanbag by the fireplace, \"If what you say is true we must act\
+    \ immediately to stop the collapse and unrest in their tracks!\"\nAn enigmatic\
+    \ smile played over Tarleton's lips.\n\"May I have the buff envelope?\" he asked\
+    \ the visitor.\nGlossary:\nGrief, Hardship, suffering; a kind, or cause, of hardship\
     \ or suffering. Hurt, harm, mischief or injury done or caused by another; damaged\
     \ inflicted or suffered; molestation, trouble, offence. A wrong or injury which\
     \ is the subject of formal complaint or demand for redress. Gravity, grievousness\
@@ -425,35 +424,35 @@ story:
     \ specifically in this case, Tarleton's sidekick. More generally, can be applied\
     \ to any organism, animate or inanimate, other than Tarleton himself. Thus, everything\
     \ in the universe. Space precludes a complete list.\nBeanbag, a large sealed bag\
-    \ containing synthetic beans, upon which to sprawl. Similar to the \u201CProtean\
-    \ armchair\u201D in The Confidence-Man\_: His Masquerade by Herman Melville (1857).\n\
-    Fireplace, as the name suggests, a place of fire, of licking flames, of heat and\
-    \ blaze. Often located within an inglenook. Beanbags (see above) ought only be\
-    \ placed near to inglenooks if they are fire-resistant, otherwise a single spark\
-    \ from a hissing spitting coal upon the fire and, pfft!, up they go in flames.\
-    \ For fictional treatments of the catastrophic effects of fire upon persons, see\
-    \ Dickens, in particular Miss Havisham and Krook.\nTracks, \u201CSo take a good\
-    \ look at my face / You'll see my smile looks out of place / If you look closer,\
-    \ it's easy to trace / The tracks of my tears\u201D (The Tracks Of My Tears, Smokey\
-    \ Robinson And The Miracles, 1965). In The Song Of Investment Capital Overseas\
-    \ (1981), the Art Bears hint at tracks without quite mentioning them\_: \u201C\
-    The roads and rails run like cracks / And carry me upon their backs\u201D.\nEnigmatic\
-    \ smile, clich\xE9 used to impart spurious depth to a fictional character.\nLips,\
-    \ important parts of the mouth.\nBuff envelope, remember not to confuse it with\
-    \ a Buff Orpington duck.\nHesitantly, the visitor handed the buff envelope to\
-    \ Tarleton. Without opening it, he in turn passed it to Not-Tarleton, still sprawled\
-    \ on a beanbag by the fireplace.\n\u201CToss it on to the fire!\u201D he commanded.\n\
-    Not-Tarleton did as he was bid, and within seconds the buff envelope, and its\
-    \ mysterious world-shuddering contents, were consumed by the awful flames.\n\u201C\
-    I think we can say that the world is a safer place,\u201D said Tarleton, smugly.\
-    \ \u201CNow, shall we toast some crumpets?\u201D\nGlossary:\n  It would be a shame\
-    \ to add a further gloss on terms at this point. We would distract from the thrilling\
-    \ climax of the tale, and in any case few new words have been introduced. Hesitantly,\
-    \ toss, bid, awful, toast and crumpets can be looked up in any decent dictionary,\
-    \ and sometimes it is beneficial for readers to take the initiative, rather than\
-    \ having everything handed to them on a plate.\nGlossary:\nPlate, or platter,\
-    \ an item of crockery on which toasted crumpets are served in the consulting room\
-    \ of Tarleton, the amateur's amateur, at the conclusion of the famous story Tarleton\
-    \ And The Mysterious Affair Of The Buff Orpington Envelope."
+    \ containing synthetic beans, upon which to sprawl. Similar to the \"Protean armchair\"\
+    \ in The Confidence-Man : His Masquerade by Herman Melville (1857).\nFireplace,\
+    \ as the name suggests, a place of fire, of licking flames, of heat and blaze.\
+    \ Often located within an inglenook. Beanbags (see above) ought only be placed\
+    \ near to inglenooks if they are fire-resistant, otherwise a single spark from\
+    \ a hissing spitting coal upon the fire and, pfft!, up they go in flames. For\
+    \ fictional treatments of the catastrophic effects of fire upon persons, see Dickens,\
+    \ in particular Miss Havisham and Krook.\nTracks, \"So take a good look at my\
+    \ face / You'll see my smile looks out of place / If you look closer, it's easy\
+    \ to trace / The tracks of my tears\" (The Tracks Of My Tears, Smokey Robinson\
+    \ And The Miracles, 1965). In The Song Of Investment Capital Overseas (1981),\
+    \ the Art Bears hint at tracks without quite mentioning them : \"The roads and\
+    \ rails run like cracks / And carry me upon their backs\".\nEnigmatic smile, cliche\
+    \ used to impart spurious depth to a fictional character.\nLips, important parts\
+    \ of the mouth.\nBuff envelope, remember not to confuse it with a Buff Orpington\
+    \ duck.\nHesitantly, the visitor handed the buff envelope to Tarleton. Without\
+    \ opening it, he in turn passed it to Not-Tarleton, still sprawled on a beanbag\
+    \ by the fireplace.\n\"Toss it on to the fire!\" he commanded.\nNot-Tarleton did\
+    \ as he was bid, and within seconds the buff envelope, and its mysterious world-shuddering\
+    \ contents, were consumed by the awful flames.\n\"I think we can say that the\
+    \ world is a safer place,\" said Tarleton, smugly. \"Now, shall we toast some\
+    \ crumpets?\"\nGlossary:\n  It would be a shame to add a further gloss on terms\
+    \ at this point. We would distract from the thrilling climax of the tale, and\
+    \ in any case few new words have been introduced. Hesitantly, toss, bid, awful,\
+    \ toast and crumpets can be looked up in any decent dictionary, and sometimes\
+    \ it is beneficial for readers to take the initiative, rather than having everything\
+    \ handed to them on a plate.\nGlossary:\nPlate, or platter, an item of crockery\
+    \ on which toasted crumpets are served in the consulting room of Tarleton, the\
+    \ amateur's amateur, at the conclusion of the famous story Tarleton And The Mysterious\
+    \ Affair Of The Buff Orpington Envelope."
   title: On Tarleton And The Mysterious Affair Of The Buff Envelope
-word_count: 998
+word_count: 996

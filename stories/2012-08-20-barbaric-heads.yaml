@@ -5,12 +5,6 @@ ngrams:
 - - j
   - l
   - carr
-- - grass
-  - saying
-  - that'll
-- - saying
-  - that'll
-  - give
 - - door
   - wouldn't
   - open
@@ -41,9 +35,6 @@ ngrams:
 - - years
   - old
   - some
-- - think
-  - about
-  - dad
 - - been
   - even
   - older
@@ -65,21 +56,34 @@ ngrams:
 - - flowers
   - had
   - taken
+- - barbaric
+  - heads
+  - but
+- - had
+  - grown
+  - over
+- - carr
+  - by
+  - byron
 story:
   date: 2012-08-20
   id: 2012-08-20-barbaric-heads
-  text: "\u201CBut the garden, that was the shocker. I could see a greenhouse, but\
-    \ I couldn't get into that, the door wouldn't open. The passion flowers had taken\
-    \ over, and beyond that the undergrowth closed in. Now this was a garden just\
-    \ 90-foot long, a garden in a street, and I couldn't see the end of it.\n\u201C\
-    Showing out of the undergrowth were statues which looked thousands of years old,\
-    \ some from the Middle Ages, some Roman, and there were barbaric heads that must\
-    \ have been even older. I turned to Bob, but all he said was \u2018Oh, that was\
-    \ Dad\u2019. He told me his father used to carve things and leave them in the\
-    \ garden until the green had grown over them, then he would take them to some\
-    \ churchyard and hide them in the long grass, saying \u2018That'll give 'em something\
-    \ to think about\u2019.\u201D\n\u2018Dad\u2019 was J. L. Carr, the speaker is\
-    \ the man who bought his house in Kettering after Carr's death. From The Last\
-    \ Englishman\_: The Life Of J. L. Carr by Byron Rogers (2003).\n"
+  text: '"But the garden, that was the shocker. I could see a greenhouse, but I couldn''t
+    get into that, the door wouldn''t open. The passion flowers had taken over, and
+    beyond that the undergrowth closed in. Now this was a garden just 90-foot long,
+    a garden in a street, and I couldn''t see the end of it.
+
+    "Showing out of the undergrowth were statues which looked thousands of years old,
+    some from the Middle Ages, some Roman, and there were barbaric heads that must
+    have been even older. I turned to Bob, but all he said was ''Oh, that was Dad''.
+    He told me his father used to carve things and leave them in the garden until
+    the green had grown over them, then he would take them to some churchyard and
+    hide them in the long grass, saying ''That''ll give ''em something to think about''."
+
+    ''Dad'' was J. L. Carr, the speaker is the man who bought his house in Kettering
+    after Carr''s death. From The Last Englishman : The Life Of J. L. Carr by Byron
+    Rogers (2003).
+
+    '
   title: Barbaric Heads
 word_count: 179

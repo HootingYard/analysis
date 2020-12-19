@@ -1,16 +1,10 @@
 ngrams:
-- - melancholy
-  - trough
-  - choked
 - - suddenly
   - murder
   - ceased
 - - fairly
   - dry
   - passage
-- - seasonal
-  - litter
-  - sound
 - - furtive
   - rustles
   - light
@@ -47,21 +41,24 @@ ngrams:
 - - seemed
   - an
   - area
-- - this
-  - melancholy
-  - trough
+- - miasma
+  - through
+  - which
+- - through
+  - which
+  - trees
 story:
   date: 2004-07-05
   id: 2004-07-05-when-she-had-crossed-it-earlier-in
-  text: "\u201CWhen she had crossed it, earlier in the afternoon, she had been chiefly\
-    \ concerned in picking out a fairly dry passage over the rich black mold formed\
-    \ by leaf-deposits. She had only marked it down as a sheltered spot in which to\
-    \ search for early primroses. But the promise of spring was now only a mockery.\
-    \ As she advanced, the place seemed an area of desolation and decay, with wind-falls\
-    \ for crops. In this melancholy trough\u2014choked with seasonal litter\u2014\
-    sound was reduced to furtive rustles; light was shrunken to a dark miasma, through\
-    \ which trees loomed with the semblance of men. Suddenly, murder ceased to be\
-    \ a special fiction of the Press. It became real\u2014a menace and a monstrosity.\u201D\
-    \ \u2014 Ethel Lina White, The Spiral Staircase (Some Must Watch)"
-  title: "\u201CWhen she had crossed it, earlier in\u2026\u201D"
-word_count: 137
+  text: '"When she had crossed it, earlier in the afternoon, she had been chiefly
+    concerned in picking out a fairly dry passage over the rich black mold formed
+    by leaf-deposits. She had only marked it down as a sheltered spot in which to
+    search for early primroses. But the promise of spring was now only a mockery.
+    As she advanced, the place seemed an area of desolation and decay, with wind-falls
+    for crops. In this melancholy trough--choked with seasonal litter--sound was reduced
+    to furtive rustles; light was shrunken to a dark miasma, through which trees loomed
+    with the semblance of men. Suddenly, murder ceased to be a special fiction of
+    the Press. It became real--a menace and a monstrosity." -- Ethel Lina White, The
+    Spiral Staircase (Some Must Watch)'
+  title: '"When she had crossed it, earlier in..."'
+word_count: 135

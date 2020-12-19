@@ -1,4 +1,7 @@
 ngrams:
+- - robert
+  - hughes
+  - '-'
 - - p
   - robert
   - hughes
@@ -11,14 +14,14 @@ ngrams:
 - - their
   - inner
   - adult
-- - child
-  - has
-  - taken
 story:
   date: 2012-08-07
   id: 2012-08-07-r-i-p
-  text: "Robert Hughes, 1938\u20132012.\n\u201CThe pursuit of the Inner Child has\
-    \ taken over at a time when most people need to be figuring out how to use their\
-    \ Inner Adult.\u201D\n"
+  text: 'Robert Hughes, 1938-2012.
+
+    "The pursuit of the Inner Child has taken over at a time when most people need
+    to be figuring out how to use their Inner Adult."
+
+    '
   title: R.I.P.
-word_count: 31
+word_count: 32

@@ -11,9 +11,6 @@ ngrams:
 - - times
   - archive
   - blog
-- - times
-  - archivist
-  - notes
 - - reporter
   - assures
   - us
@@ -50,9 +47,6 @@ ngrams:
 - - appealing
   - than
   - new
-- - than
-  - new
-  - news
 - - who
   - delivers
   - post
@@ -80,9 +74,6 @@ ngrams:
 - - village
   - about
   - seven
-- - news
-  - particularly
-  - when
 - - snow
   - turned
   - out
@@ -92,27 +83,34 @@ ngrams:
 - - yard
   - story
   - about
+- - ditch
+  - which
+  - attracted
+- - seven
+  - miles
+  - from
 story:
   date: 2009-02-13
   id: 2009-02-13-victorian-ditch-trauma
-  text: "I have been much enjoying the Times Archive Blog recently. Old news can be\
-    \ so much more appealing than new news\u2014that is, news\u2014particularly when,\
-    \ as in this case which I belatedly bring to your attention, it features a postie\
-    \ toppling into a ditch, a scene that could come straight from a Hooting Yard\
-    \ story:\nAbout noon on Thursday as a labourer, in the employ of Mr Cooper, of\
-    \ Pyrford\u2014a village about seven miles from Guildford\u2014was passing through\
-    \ Pondfield, in the neighbourhood of his master's farm, he espied an object in\
-    \ the ditch, which attracted his attention. On examination the object, which was\
-    \ nearly covered with snow, turned out to be a man named Tappin, the messenger\
-    \ who delivers post letters in the outlying districts of which Pyrford and Wisley\
-    \ form part. Mr Cooper was at once communicated with, and he speedily arranged\
-    \ for the delivery of the letters, while with equal promptitude the messenger\
-    \ was assisted from his bed of snow, where he had been for some hours. Tappin's\
-    \ account is that he got into the drift and pitched headlong into the ditch, when\
-    \ he was too exhausted to extricate himself.\nAs the Times\u2019 archivist notes,\
-    \ how pleasing it is that the reporter assures us of the safe delivery of the\
-    \ post before\_mentioning the rescue of the hapless Tappin. I suspect strongly\
-    \ that, almost a century and a half after his ditch trauma, Postie Tappin may\
-    \ be resurrected as a Hooting Yard character."
+  text: 'I have been much enjoying the Times Archive Blog recently. Old news can be
+    so much more appealing than new news--that is, news--particularly when, as in
+    this case which I belatedly bring to your attention, it features a postie toppling
+    into a ditch, a scene that could come straight from a Hooting Yard story:
+
+    About noon on Thursday as a labourer, in the employ of Mr Cooper, of Pyrford--a
+    village about seven miles from Guildford--was passing through Pondfield, in the
+    neighbourhood of his master''s farm, he espied an object in the ditch, which attracted
+    his attention. On examination the object, which was nearly covered with snow,
+    turned out to be a man named Tappin, the messenger who delivers post letters in
+    the outlying districts of which Pyrford and Wisley form part. Mr Cooper was at
+    once communicated with, and he speedily arranged for the delivery of the letters,
+    while with equal promptitude the messenger was assisted from his bed of snow,
+    where he had been for some hours. Tappin''s account is that he got into the drift
+    and pitched headlong into the ditch, when he was too exhausted to extricate himself.
+
+    As the Times'' archivist notes, how pleasing it is that the reporter assures us
+    of the safe delivery of the post before mentioning the rescue of the hapless Tappin.
+    I suspect strongly that, almost a century and a half after his ditch trauma, Postie
+    Tappin may be resurrected as a Hooting Yard character.'
   title: Victorian Ditch Trauma
-word_count: 251
+word_count: 247

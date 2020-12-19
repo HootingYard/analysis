@@ -1,10 +1,4 @@
 ngrams:
-- - astonishingly
-  - tall
-  - almost
-- - tall
-  - almost
-  - seven
 - - anyone
   - could
   - remember
@@ -35,15 +29,22 @@ ngrams:
 - - remember
   - his
   - nose
+- - shall
+  - meet
+  - with
+- - you
+  - can
+  - count
 story:
   date: 2006-01-30
   id: 2006-01-30-g-is-for-gabbitas
-  text: "Episode seven in our daily serialisation of The Immense Duckpond Pamphlet\n\
-    The Blodgett figure on the second and third floors of the House was known as Gabbitas,\
-    \ although this was not the name he had been born with. Like Blodgett, he had\
-    \ been in place for as long as anyone could remember. His nose ran. He was clumsy.\
-    \ His disposition was as bleak and unforgiving as Blodgett's. Gabbitas was astonishingly\
-    \ tall\u2014almost seven and a half feet\u2014and his eyes were permanently bloodshot.\
-    \ We shall meet with him again, you can count on it."
+  text: 'Episode seven in our daily serialisation of The Immense Duckpond Pamphlet
+
+    The Blodgett figure on the second and third floors of the House was known as Gabbitas,
+    although this was not the name he had been born with. Like Blodgett, he had been
+    in place for as long as anyone could remember. His nose ran. He was clumsy. His
+    disposition was as bleak and unforgiving as Blodgett''s. Gabbitas was astonishingly
+    tall--almost seven and a half feet--and his eyes were permanently bloodshot. We
+    shall meet with him again, you can count on it.'
   title: G Is for Gabbitas
-word_count: 98
+word_count: 96

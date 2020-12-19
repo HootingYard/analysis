@@ -2,9 +2,6 @@ ngrams:
 - - h
   - dabble
   - over
-- - all
-  - our
-  - hearts
 - - dabbler
   - this
   - week
@@ -14,10 +11,17 @@ ngrams:
 - - brief
   - note
   - 'on'
+- - topic
+  - dear
+  - i
 story:
   date: 2012-04-13
   id: 2012-04-13-a-toc-h-dabble
-  text: "\nOver at The Dabbler this week, a brief note on a topic dear, I am sure,\
-    \ to all our hearts\u2014the Toc H lamp!\n"
+  text: '
+
+    Over at The Dabbler this week, a brief note on a topic dear, I am sure, to all
+    our hearts--the Toc H lamp!
+
+    '
   title: A Toc H Dabble
-word_count: 28
+word_count: 27

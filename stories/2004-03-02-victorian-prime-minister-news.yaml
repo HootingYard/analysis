@@ -11,14 +11,13 @@ ngrams:
 - - very
   - very
   - few
-- - ancient
-  - greeks
-  - or
+- - are
+  - very
+  - very
 story:
   date: 2004-03-02
   id: 2004-03-02-victorian-prime-minister-news
-  text: "William Ewart Gladstone believed that the Ancient Greeks\u2014or most of\
-    \ them\u2014were colour-blind, because there are very, very few colour words in\
-    \ Homer."
+  text: William Ewart Gladstone believed that the Ancient Greeks--or most of them--were
+    colour-blind, because there are very, very few colour words in Homer.
   title: Victorian Prime Minister News
-word_count: 28
+word_count: 26

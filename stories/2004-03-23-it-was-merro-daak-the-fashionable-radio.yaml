@@ -8,15 +8,9 @@ ngrams:
 - - fashionable
   - radio
   - astrologer
-- - whirling
-  - chaos
-  - john
 - - john
   - h
   - knox
-- - chaos
-  - john
-  - h
 - - whose
   - neurotic
   - faces
@@ -35,15 +29,21 @@ ngrams:
 - - sickening
   - abnormalities
   - did
+- - often
+  - passing
+  - through
+- - him
+  - often
+  - passing
 story:
   date: 2004-03-23
   id: 2004-03-23-it-was-merro-daak-the-fashionable-radio
-  text: "\u201C[It was] Merro Daak, the fashionable radio astrologer, whose name was\
-    \ on every woman's tongue. Slade had seen him often, passing through the village\
-    \ in his big foreign-made car, with his jaded and debauched companions, on whose\
-    \ neurotic faces Slade's eye had read the imprint of sickening abnormalities.\
-    \ Did the orgies which were said to go on in Merro Daak's house have any bearing\
-    \ on these bestial atrocities? Slade plodded back to his car. His brain was a\
-    \ whirling chaos.\u201D \u2014 John H. Knox, The Thing That Dined On Death"
-  title: "\u201C[It was] Merro Daak, the fashionable radio\u2026\u201D"
-word_count: 96
+  text: '"[It was] Merro Daak, the fashionable radio astrologer, whose name was on
+    every woman''s tongue. Slade had seen him often, passing through the village in
+    his big foreign-made car, with his jaded and debauched companions, on whose neurotic
+    faces Slade''s eye had read the imprint of sickening abnormalities. Did the orgies
+    which were said to go on in Merro Daak''s house have any bearing on these bestial
+    atrocities? Slade plodded back to his car. His brain was a whirling chaos." --
+    John H. Knox, The Thing That Dined On Death'
+  title: '"[It was] Merro Daak, the fashionable radio..."'
+word_count: 97

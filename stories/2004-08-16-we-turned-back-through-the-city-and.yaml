@@ -5,9 +5,6 @@ ngrams:
 - - deportment
   - reminding
   - us
-- - over
-  - edward
-  - burnett
 - - england
   - coming
   - down
@@ -38,16 +35,19 @@ ngrams:
 - - they
   - perched
   - two
+- - cathedral
+  - where
+  - they
 story:
   date: 2004-08-16
   id: 2004-08-16-we-turned-back-through-the-city-and
-  text: "\u201CWe turned back through the city, and walked along watching the zopilotes\
-    \ with their bald heads and foul dingy-black plumage. They were sitting in compact\
-    \ rows on parapets of houses and churches, and seemed specially to affect the\
-    \ cross of the cathedral, where they perched, two on each arm, and some on the\
-    \ top. When some offal was thrown into the streets, they came down leisurely upon\
-    \ it, one after another; their appearance and deportment reminding us of the undertaker's\
-    \ men in England coming down from the hearse at the public-house door, when the\
-    \ funeral is over.\u201D \u2014 Edward Burnett Tylor, Anahuac"
-  title: "\u201CWe turned back through the city, and\u2026\u201D"
-word_count: 108
+  text: '"We turned back through the city, and walked along watching the zopilotes
+    with their bald heads and foul dingy-black plumage. They were sitting in compact
+    rows on parapets of houses and churches, and seemed specially to affect the cross
+    of the cathedral, where they perched, two on each arm, and some on the top. When
+    some offal was thrown into the streets, they came down leisurely upon it, one
+    after another; their appearance and deportment reminding us of the undertaker''s
+    men in England coming down from the hearse at the public-house door, when the
+    funeral is over." -- Edward Burnett Tylor, Anahuac'
+  title: '"We turned back through the city, and..."'
+word_count: 109

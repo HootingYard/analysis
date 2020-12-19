@@ -1,97 +1,22 @@
 ngrams:
-- - spangles
-  - bim
-  - tarry
-- - fennel
-  - bim
-  - lend
-- - untidy
-  - lid
-  - bam
 - - manley
   - hopkins
   - mesmerised
-- - pin
-  - bam
-  - rotate
 - - gerard
   - manley
   - hopkins
-- - chaffinch
-  - bim
-  - worse
-- - pol
-  - pot
-  - bam
-- - spats
-  - bam
-  - exactly
-- - sparkling
-  - stars
-  - bam
-- - wearing
-  - spats
-  - bam
-- - crushed
-  - bam
-  - leave
-- - lid
-  - bam
-  - please
-- - police
-  - officer
-  - bim
-- - chew
-  - fennel
-  - bim
+- - drains
+  - i'll
+  - wear
 - - fat
   - sparkling
   - stars
 - - hydroelectric
   - power
   - station
-- - power
-  - station
-  - bim
-- - real
-  - dust
-  - bim
 - - eight
   - o
   - clock
-- - curious
-  - hat
-  - bim
-- - bam
-  - please
-  - show
-- - chalet
-  - bam
-  - hand
-- - bim
-  - perhaps
-  - maisie
-- - creeps
-  - bam
-  - must
-- - bim
-  - worse
-  - things
-- - tin
-  - bim
-  - let
-- - duck
-  - bim
-  - perhaps
-- - bim
-  - oh
-  - look
-- - worse
-  - things
-  - happen
-- - sea
-  - bam
-  - perhaps
 - - very
   - untidy
   - lid
@@ -101,53 +26,166 @@ ngrams:
 - - those
   - bus
   - tickets
-- - think
-  - bim
-  - oh
-- - dobson
-  - bim
-  - look
-- - pantry
-  - bam
-  - did
-- - bim
-  - look
-  - here
 - - very
   - good
   - biography
-- - belongs
-  - bim
-  - can
-- - plinth
-  - bam
-  - can
+- - thing
+  - again
+  - while
+- - maisie
+  - has
+  - gone
+- - am
+  - standing
+  - behind
+- - nightmare
+  - about
+  - hens
+- - glass
+  - gives
+  - me
+- - something
+  - sinister
+  - about
+- - show
+  - me
+  - how
+- - has
+  - been
+  - submerged
+- - reason
+  - has
+  - been
+- - come
+  - from
+  - haunts
+- - happen
+  - at
+  - sea
+- - things
+  - happen
+  - at
+- - those
+  - cartons
+  - but
+- - bus
+  - tickets
+  - you
+- - good
+  - biography
+  - by
+- - have
+  - those
+  - bus
+- - two
+  - voices
+  - by
+- - voices
+  - by
+  - dobson
+- - for
+  - two
+  - voices
+- - you
+  - know
+  - how
+- - play
+  - for
+  - two
+- - cartons
+  - but
+  - one
+- - me
+  - have
+  - those
+- - tickets
+  - you
+  - are
+- - you
+  - are
+  - clutching
+- - putty
+  - was
+  - dreadful
 story:
   date: 2003-12-22
   id: 2003-12-22-the-glue-in-the-palace-was-rarefied-the-putty-was-dreadful
-  text: "A Play For Two Voices by Dobson\nBim\u2014Look, here is a photograph of Gervase\
-    \ wearing spats.\nBam\u2014Exactly what colour is that basin?\nBim\u2014I am standing\
-    \ behind a plinth.\nBam\u2014Can I have a look at that owl?\nBim\u2014Do you know\
-    \ how to darn a balaclava?\nBam\u2014I tell you, it is made of tin!\nBim\u2014\
-    Let me have those bus tickets you are clutching.\nBam\u2014I shudder when I think\u2026\
-    \nBim\u2014Oh look! A cormorant!\nBam\u2014I need to get a bandage.\nBim\u2014\
-    That pane of glass gives me the creeps.\nBam\u2014Must I chew fennel?\nBim\u2014\
-    Lend me a pin.\nBam\u2014Rotate that thing again while I fetch the trumpets.\n\
-    Bim\u2014I thought it was an anagram of Pol Pot.\nBam\u2014You unblock the drains\
-    \ & I\u2019ll wear a curious hat.\nBim\u2014At eight o clock I will have to go\
-    \ to the pantry.\nBam\u2014Did you know that Gerard Manley Hopkins mesmerised\
-    \ a duck?\nBim\u2014Perhaps Maisie has gone to her boudoir.\nBam\u2014Is that\
-    \ real dust?\nBim\u2014The carapace of reason has been submerged in a puddle of\
-    \ confusion.\nBam\u2014I can hear the dying groans of a police officer.\nBim\u2014\
-    That is a very untidy lid!\nBam\u2014Please show me how to use the whisk.\nBim\u2014\
-    He used to have two of those cartons, but one was crushed.\nBam\u2014Leave that\
-    \ cutlery where it belongs.\nBim\u2014Can I take that delicious pudding back to\
-    \ my chalet?\nBam\u2014Hand me that chaffinch.\nBim\u2014Worse things happen at\
-    \ sea.\nBam\u2014Perhaps it used to be a hydroelectric power station.\nBim\u2014\
-    I had a nightmare about hens.\nBam\u2014There is a very good biography by Grevel\
-    \ Lindop.\nBim\u2014There is something sinister about that pot of mustard.\nBam\u2014\
-    Have one of my spangles.\nBim\u2014Tarry not \u2018neath the fat & sparkling stars.\n\
-    Bam\u2014I come from haunts of coot & hern.\nBim\u2014(ecstatically) So do I!\n\
-    (Curtain.)"
+  text: 'A Play For Two Voices by Dobson
+
+    Bim--Look, here is a photograph of Gervase wearing spats.
+
+    Bam--Exactly what colour is that basin?
+
+    Bim--I am standing behind a plinth.
+
+    Bam--Can I have a look at that owl?
+
+    Bim--Do you know how to darn a balaclava?
+
+    Bam--I tell you, it is made of tin!
+
+    Bim--Let me have those bus tickets you are clutching.
+
+    Bam--I shudder when I think...
+
+    Bim--Oh look! A cormorant!
+
+    Bam--I need to get a bandage.
+
+    Bim--That pane of glass gives me the creeps.
+
+    Bam--Must I chew fennel?
+
+    Bim--Lend me a pin.
+
+    Bam--Rotate that thing again while I fetch the trumpets.
+
+    Bim--I thought it was an anagram of Pol Pot.
+
+    Bam--You unblock the drains & I''ll wear a curious hat.
+
+    Bim--At eight o clock I will have to go to the pantry.
+
+    Bam--Did you know that Gerard Manley Hopkins mesmerised a duck?
+
+    Bim--Perhaps Maisie has gone to her boudoir.
+
+    Bam--Is that real dust?
+
+    Bim--The carapace of reason has been submerged in a puddle of confusion.
+
+    Bam--I can hear the dying groans of a police officer.
+
+    Bim--That is a very untidy lid!
+
+    Bam--Please show me how to use the whisk.
+
+    Bim--He used to have two of those cartons, but one was crushed.
+
+    Bam--Leave that cutlery where it belongs.
+
+    Bim--Can I take that delicious pudding back to my chalet?
+
+    Bam--Hand me that chaffinch.
+
+    Bim--Worse things happen at sea.
+
+    Bam--Perhaps it used to be a hydroelectric power station.
+
+    Bim--I had a nightmare about hens.
+
+    Bam--There is a very good biography by Grevel Lindop.
+
+    Bim--There is something sinister about that pot of mustard.
+
+    Bam--Have one of my spangles.
+
+    Bim--Tarry not ''neath the fat & sparkling stars.
+
+    Bam--I come from haunts of coot & hern.
+
+    Bim--(ecstatically) So do I!
+
+    (Curtain.)'
   title: The Glue In The Palace Was Rarefied; The Putty Was Dreadful
-word_count: 331
+word_count: 294

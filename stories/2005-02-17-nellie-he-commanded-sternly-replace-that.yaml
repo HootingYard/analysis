@@ -1,13 +1,7 @@
 ngrams:
-- - holding
-  - does
-  - look
 - - first
   - practical
   - preparation
-- - does
-  - look
-  - sort
 - - mean
   - this
   - stuff
@@ -23,24 +17,30 @@ ngrams:
 - - he
   - commanded
   - sternly
-- - nellie
-  - he
-  - commanded
-- - nellie
-  - he
-  - commanded
-- - repulsive
-  - he
+- - little
+  - bucket
+  - his
+- - he
   - agreed
+  - after
+- - stuff
+  - is
+  - responsible
+- - surmise
+  - it
+  - contains
+- - that
+  - receptacle
+  - where
 story:
   date: 2005-02-17
   id: 2005-02-17-nellie-he-commanded-sternly-replace-that
-  text: "\u201C \u2018Nellie,\u2019 he commanded sternly, 'replace that receptacle\
-    \ where you found it. As you surmise, it contains a substance of incalculable\
-    \ value\u2014the first practical preparation of Zapt's Repulsive Paste.'\u2026\
-    \ Sargent crossed to gaze into the little bucket his fianc\xE9e was holding. \u2018\
-    Does look sort of repulsive,\u2019 he agreed after a glance at the mess in the\
-    \ bottom of the pail. 'But\u2014you mean this stuff is responsible for Fluffy's\
-    \ sudden elevation in life?' \u201D \u2014 J U Giesy, Zapt's Repulsive Paste"
-  title: "\u201C \u2018Nellie,\u2019 he commanded sternly, 'replace that\u2026\u201D"
-word_count: 88
+  text: '" ''Nellie,'' he commanded sternly, ''replace that receptacle where you found
+    it. As you surmise, it contains a substance of incalculable value--the first practical
+    preparation of Zapt''s Repulsive Paste.''... Sargent crossed to gaze into the
+    little bucket his fiancee was holding. ''Does look sort of repulsive,'' he agreed
+    after a glance at the mess in the bottom of the pail. ''But--you mean this stuff
+    is responsible for Fluffy''s sudden elevation in life?'' " -- J U Giesy, Zapt''s
+    Repulsive Paste'
+  title: '" ''Nellie,'' he commanded sternly, ''replace that..."'
+word_count: 89

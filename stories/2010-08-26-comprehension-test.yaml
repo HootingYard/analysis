@@ -2,9 +2,6 @@ ngrams:
 - - perpetual
   - adolescents
   - contemptuous
-- - tirade
-  - arrogant
-  - smug
 - - decent
   - senior
   - seminar
@@ -143,18 +140,12 @@ ngrams:
 - - two
   - other
   - things
-- - arguments
-  - if
-  - evidence
 - - all
   - perpetual
   - adolescents
 - - passage
   - because
   - your
-- - tinies
-  - comprehension
-  - they
 - - logic
   - bear
   - me
@@ -176,9 +167,6 @@ ngrams:
 - - model
   - answers
   - are
-- - would
-  - almost
-  - none
 - - q
   - what
   - did
@@ -197,59 +185,98 @@ ngrams:
 - - are
   - given
   - below
-- - this
-  - tirade
-  - arrogant
 - - delivered
   - this
   - tirade
 - - literature
   - delivered
   - this
+- - like
+  - all
+  - perpetual
+- - known
+  - an
+  - exasperated
+- - written
+  - an
+  - essay
+- - after
+  - some
+  - time
+- - after
+  - some
+  - time
 story:
   date: 2010-08-26
   id: 2010-08-26-comprehension-test
-  text: "Instruct the tinies in your charge to read carefully the passage about Thomas\
-    \ Babington Macaulay's great-grandfather. Allow sufficient time so that even the\
-    \ dimwits and the ones who drool will be able to complete the task. Standing imperiously\
-    \ at your lectern, your arms folded in the manner of the Reverend J C M Bellew,\
-    \ roar at the top of your voice the following set of questions designed to test\
-    \ the tinies\u2019 comprehension. They should scrape their answers on their slates.\
-    \ Model answers are given below, just in case you yourself have failed to comprehend\
-    \ the passage because your brain is fuming with visions of sprites and monsters.\n\
-    Q. What did the Laird take from the Minister?\nA. The Laird took from the Minister\
-    \ his stipend.\nQ. In the jaws of utter destitution, what was the Minister's admirable\
-    \ cast of mind?\nA. The Minister's cast of mind was valiant.\nQ. What was the\
-    \ outcome for the Minister's health after some time had elapsed?\nA. After some\
-    \ time had elapsed the Minister's health was much impaired.\nQ. To what feature\
-    \ of the weather was the Minister exposed in all seasons?\nA. The Minister was\
-    \ exposed to the violence of the weather.\nQ. We are told the Minister had no\
-    \ manse. What else had he not?\nA. The Minister had not a glebe.\nQ. Name two\
-    \ other things the Minister had not.\nA. The Minister had not a fund for communion\
-    \ elements nor mortification for schools.\nQ. For what else might the Minister\
-    \ have been able to use mortifications, had he had them?\nA. Had he had mortifications\
-    \ the Minister could have used them for pious purposes.\nQ. Where would the Minister\
-    \ have pursued his pious purposes?\nA. The Minister would have pursued his pious\
-    \ purposes in Tiree and Coll both.\nQ. Describe the air.\nA. The air was unwholesome\
-    \ and fetid and murky and rank and corrupt and mephitic and damp and vile and\
-    \ foul.\nADDENDUM : I was going to suggest that in the next part of the lesson\
-    \ you get the tinies to deconstruct the passage, but having read the following,\
-    \ I suspect that would not be such a good idea:\n\u201CAsked to characterise the\
-    \ deconstructionists he has known, an exasperated professor who specialises in\
-    \ modern British literature delivered this tirade: \u2018Arrogant, smug, snotty,\
-    \ meretricious, addicted to straw-man arguments, horrible writers who demand to\
-    \ be of the company of Jane Austen and Chaucer, appallingly ingrown and cliquish\
-    \ at the same time that they talk about expansiveness and new frontiers of discourse,\
-    \ unbelievably wooden and mechanical at the same time that they make their wooden\
-    \ and mechanical obeisances to jouissance and free-play, like all perpetual adolescents\
-    \ contemptuous of the past and convinced that by great good fortune the truth\
-    \ happened to be discovered just as they were hitting puberty, a daisy-chain of\
-    \ brown-nosers declaring their high-flown independence from the normal irksome\
-    \ constraints of community and continuity, who without the peculiar heads-I-win-tails-you-lose\
-    \ rationale of their arguments\u2014if evidence and logic bear me out, fine, if\
-    \ not, we can always deconstruct them\u2014would almost none of them have written\
-    \ an essay that could stand up in a decent senior seminar.'\u201D\nQuoted in David\
-    \ Lehamn, Signs Of The Times\_: Deconstruction And The Fall Of Paul De Man (1991).\
-    \ Sadly, Lehman does not\_ reveal the identity of this prize ranter."
+  text: 'Instruct the tinies in your charge to read carefully the passage about Thomas
+    Babington Macaulay''s great-grandfather. Allow sufficient time so that even the
+    dimwits and the ones who drool will be able to complete the task. Standing imperiously
+    at your lectern, your arms folded in the manner of the Reverend J C M Bellew,
+    roar at the top of your voice the following set of questions designed to test
+    the tinies'' comprehension. They should scrape their answers on their slates.
+    Model answers are given below, just in case you yourself have failed to comprehend
+    the passage because your brain is fuming with visions of sprites and monsters.
+
+    Q. What did the Laird take from the Minister?
+
+    A. The Laird took from the Minister his stipend.
+
+    Q. In the jaws of utter destitution, what was the Minister''s admirable cast of
+    mind?
+
+    A. The Minister''s cast of mind was valiant.
+
+    Q. What was the outcome for the Minister''s health after some time had elapsed?
+
+    A. After some time had elapsed the Minister''s health was much impaired.
+
+    Q. To what feature of the weather was the Minister exposed in all seasons?
+
+    A. The Minister was exposed to the violence of the weather.
+
+    Q. We are told the Minister had no manse. What else had he not?
+
+    A. The Minister had not a glebe.
+
+    Q. Name two other things the Minister had not.
+
+    A. The Minister had not a fund for communion elements nor mortification for schools.
+
+    Q. For what else might the Minister have been able to use mortifications, had
+    he had them?
+
+    A. Had he had mortifications the Minister could have used them for pious purposes.
+
+    Q. Where would the Minister have pursued his pious purposes?
+
+    A. The Minister would have pursued his pious purposes in Tiree and Coll both.
+
+    Q. Describe the air.
+
+    A. The air was unwholesome and fetid and murky and rank and corrupt and mephitic
+    and damp and vile and foul.
+
+    ADDENDUM : I was going to suggest that in the next part of the lesson you get
+    the tinies to deconstruct the passage, but having read the following, I suspect
+    that would not be such a good idea:
+
+    "Asked to characterise the deconstructionists he has known, an exasperated professor
+    who specialises in modern British literature delivered this tirade: ''Arrogant,
+    smug, snotty, meretricious, addicted to straw-man arguments, horrible writers
+    who demand to be of the company of Jane Austen and Chaucer, appallingly ingrown
+    and cliquish at the same time that they talk about expansiveness and new frontiers
+    of discourse, unbelievably wooden and mechanical at the same time that they make
+    their wooden and mechanical obeisances to jouissance and free-play, like all perpetual
+    adolescents contemptuous of the past and convinced that by great good fortune
+    the truth happened to be discovered just as they were hitting puberty, a daisy-chain
+    of brown-nosers declaring their high-flown independence from the normal irksome
+    constraints of community and continuity, who without the peculiar heads-I-win-tails-you-lose
+    rationale of their arguments--if evidence and logic bear me out, fine, if not,
+    we can always deconstruct them--would almost none of them have written an essay
+    that could stand up in a decent senior seminar.''"
+
+    Quoted in David Lehamn, Signs Of The Times : Deconstruction And The Fall Of Paul
+    De Man (1991). Sadly, Lehman does not  reveal the identity of this prize ranter.'
   title: Comprehension Test
-word_count: 556
+word_count: 554

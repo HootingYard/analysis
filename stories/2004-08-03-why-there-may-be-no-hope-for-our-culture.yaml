@@ -2,18 +2,15 @@ ngrams:
 - - key
   - snacking
   - occasions
-- - quote
-  - without
-  - comment
 - - new
   - advertising
   - campaign
 - - why
   - there
   - may
-- - without
-  - comment
-  - but
+- - announcement
+  - by
+  - nestle
 - - they
   - are
   - launching
@@ -23,9 +20,9 @@ ngrams:
 story:
   date: 2004-08-03
   id: 2004-08-03-why-there-may-be-no-hope-for-our-culture
-  text: "I quote\u2014without comment, but with added italics\u2014from an announcement\
-    \ by Nestl\xE9 Rowntree that they are launching a new advertising campaign for\
-    \ the KitKat chocolate bar: \u201CIt reinforces KitKat's ownership of key snacking\
-    \ occasions, and offers consumers a fresh reason to buy the brand for these occasions.\u201D"
+  text: 'I quote--without comment, but with added italics--from an announcement by
+    Nestle Rowntree that they are launching a new advertising campaign for the KitKat
+    chocolate bar: "It reinforces KitKat''s ownership of key snacking occasions, and
+    offers consumers a fresh reason to buy the brand for these occasions."'
   title: Why There May Be No Hope for Our Culture
-word_count: 57
+word_count: 55

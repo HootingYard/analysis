@@ -2,9 +2,6 @@ ngrams:
 - - gmail
   - dot
   - com
-- - friends
-  - private
-  - viewing
 - - exhibition
   - please
   - email
@@ -29,14 +26,17 @@ ngrams:
 - - london
   - from
   - tuesday
+- - street
+  - london
+  - from
 story:
   date: 2020-01-30
   id: 2020-01-30-welcome-to-hooting-yard-the-exhibition
-  text: "An exhibition of Hooting Yard rarities, scarcities, orts and scantlings will\
-    \ take place at The Menier Gallery, 51 Southwark Street, London, from Tuesday,\
-    \ 10 March to Saturday, 14 March 2020. The show should be open from 10am to 6pm\
-    \ (4pm on the Saturday) and there will be a \u2018fans and friends\u2019 private\
-    \ viewing on Tuesday from 6pm to 9pm. If you would like to speak to the Duty Git\
-    \ concerning the exhibition, please email HelloHootingYard [at] gmail [dot] com."
+  text: An exhibition of Hooting Yard rarities, scarcities, orts and scantlings will
+    take place at The Menier Gallery, 51 Southwark Street, London, from Tuesday, 10
+    March to Saturday, 14 March 2020. The show should be open from 10am to 6pm (4pm
+    on the Saturday) and there will be a 'fans and friends' private viewing on Tuesday
+    from 6pm to 9pm. If you would like to speak to the Duty Git concerning the exhibition,
+    please email HelloHootingYard [at] gmail [dot] com.
   title: 'Welcome to Hooting Yard: The Exhibition'
 word_count: 81

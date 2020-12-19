@@ -5,20 +5,20 @@ ngrams:
 - - phantom
   - guilt
   - syndrome
-- - david
-  - thompson
-  - phantom
 - - political
   - leaning
   - becomes
-- - issue
-  - david
-  - thompson
+- - mental
+  - health
+  - issue
+- - elsewhere
+  - i've
+  - often
 story:
   date: 2007-11-28
   id: 2007-11-28-elsewhere
-  text: "\u201CI've often wondered at what point a political leaning becomes a performance,\
-    \ then a pantomime, and finally a mental health issue.\u201D\u2014David Thompson,\
-    \ Phantom Guilt Syndrome"
-  title: "Elsewhere\u2026"
+  text: '"I''ve often wondered at what point a political leaning becomes a performance,
+    then a pantomime, and finally a mental health issue."--David Thompson, Phantom
+    Guilt Syndrome'
+  title: Elsewhere...
 word_count: 27

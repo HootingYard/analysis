@@ -5,18 +5,18 @@ ngrams:
 - - an
   - online
   - poll
-- - readers
-  - poll
-  - an
 - - online
   - poll
   - was
 - - poll
   - was
   - here
+- - is
+  - now
+  - closed
 story:
   date: 2012-10-22
   id: 2012-10-22-readers-poll
   text: '[An online poll was here. It is now closed.]'
-  title: "Readers\u2019 Poll"
+  title: Readers' Poll
 word_count: 11

@@ -1,7 +1,4 @@
 ngrams:
-- - beasts
-  - g
-  - k
 - - cow
   - came
   - slouching
@@ -29,13 +26,16 @@ ngrams:
 - - had
   - seven
   - horns
+- - came
+  - slouching
+  - by
 story:
   date: 2004-01-14
   id: 2004-01-14-when-a-cow-came-slouching-by-in
-  text: "\u201CWhen a cow came slouching by in the field next to me, a mere artist\
-    \ might have drawn it; but I always get wrong in the hind legs of quadrupeds.\
-    \ So I drew the soul of the cow; which I saw there plainly walking before me in\
-    \ the sunlight; and the soul was all purple and silver, and had seven horns and\
-    \ the mystery that belongs to all the beasts.\u201D \u2014G. K. Chesterton"
-  title: "\u201CWhen a cow came slouching by in\u2026\u201D"
+  text: '"When a cow came slouching by in the field next to me, a mere artist might
+    have drawn it; but I always get wrong in the hind legs of quadrupeds. So I drew
+    the soul of the cow; which I saw there plainly walking before me in the sunlight;
+    and the soul was all purple and silver, and had seven horns and the mystery that
+    belongs to all the beasts." --G. K. Chesterton'
+  title: '"When a cow came slouching by in..."'
 word_count: 80

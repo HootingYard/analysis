@@ -1,13 +1,7 @@
 ngrams:
-- - windbag
-  - grant
-  - allen
 - - grant
   - allen
   - science
-- - empty
-  - windbag
-  - grant
 - - outer
   - wall
   - leaving
@@ -23,21 +17,12 @@ ngrams:
 - - mr
   - rider
   - haggard
-- - strange
-  - thing
-  - happens
-- - happens
-  - 'off'
-  - jumps
 - - little
   - green
   - fruit
 - - you've
   - never
   - looked
-- - thing
-  - happens
-  - 'off'
 - - because
   - you've
   - never
@@ -47,18 +32,32 @@ ngrams:
 - - brush
   - up
   - against
+- - squirting
+  - cucumber
+  - if
+- - rider
+  - haggard
+  - would
+- - your
+  - cane
+  - then
+- - haggard
+  - would
+  - say
+- - plant
+  - accidentally
+  - or
 story:
   date: 2005-08-26
   id: 2005-08-26-of-course-you-know-my-friend-the
-  text: "\u201COf course, you know my friend the squirting cucumber. If you don't,\
-    \ that can be only because you've never looked in the right place to find him\u2026\
-    \ If peradventure you chance to brush up against the plant accidentally, or you\
-    \ irritate it of set purpose with your foot or your cane, then, as Mr Rider Haggard\
-    \ would say, \u2018a strange thing happens\u2019: off jumps the little green fruit\
-    \ with a startling bounce, and scatters its juice and pulp and seeds explosively\
-    \ through a hole in the end where the stem joined on to it. The entire central\
-    \ part of the cucumber\u2026 squirts out elastically through the breach in the\
-    \ outer wall, leaving the hollow shell behind as a mere empty windbag.\u201D \u2014\
-    \ Grant Allen, Science In Arcady"
-  title: "\u201COf course, you know my friend the\u2026\u201D"
-word_count: 133
+  text: '"Of course, you know my friend the squirting cucumber. If you don''t, that
+    can be only because you''ve never looked in the right place to find him... If
+    peradventure you chance to brush up against the plant accidentally, or you irritate
+    it of set purpose with your foot or your cane, then, as Mr Rider Haggard would
+    say, ''a strange thing happens'': off jumps the little green fruit with a startling
+    bounce, and scatters its juice and pulp and seeds explosively through a hole in
+    the end where the stem joined on to it. The entire central part of the cucumber...
+    squirts out elastically through the breach in the outer wall, leaving the hollow
+    shell behind as a mere empty windbag." -- Grant Allen, Science In Arcady'
+  title: '"Of course, you know my friend the..."'
+word_count: 134

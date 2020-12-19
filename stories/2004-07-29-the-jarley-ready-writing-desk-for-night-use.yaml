@@ -17,9 +17,6 @@ ngrams:
 - - author
   - really
   - needs
-- - darkest
-  - night
-  - john
 - - conception
   - its
   - chief
@@ -50,19 +47,21 @@ ngrams:
 - - which
   - its
   - use
+- - be
+  - seen
+  - readily
 story:
   date: 2004-07-29
   id: 2004-07-29-the-jarley-ready-writing-desk-for-night-use
-  text: "\u201CThe Jarley Ready Writing-Desk for Night Use, for instance, was a really\
-    \ remarkable conception. Its chief value lay in the saving of gas and midnight\
-    \ oil to impecunious writers which its use was said to bring about, and when fully\
-    \ equipped consisted simply of a writing-table with all the appliances and conveniences\
-    \ thereof treated with phosphorus in such a manner that in the blackest of darkness\
-    \ they could all be seen readily. The ink even was phosphorescent. The paper was\
-    \ luminous in the dark. The penholders, pens, pen-wipers, mucilage-bottle, everything,\
-    \ in fact, that an author really needs for the production of literature, save\
-    \ ideas, were so prepared that they could not fail to be visible to the weakest\
-    \ eye in the darkest night.\u201D \u2014 John Kendrick Bangs, The Booming Of Acre\
-    \ Hill"
-  title: "\u201CThe Jarley Ready Writing-Desk for Night Use,\u2026\u201D"
-word_count: 138
+  text: '"The Jarley Ready Writing-Desk for Night Use, for instance, was a really
+    remarkable conception. Its chief value lay in the saving of gas and midnight oil
+    to impecunious writers which its use was said to bring about, and when fully equipped
+    consisted simply of a writing-table with all the appliances and conveniences thereof
+    treated with phosphorus in such a manner that in the blackest of darkness they
+    could all be seen readily. The ink even was phosphorescent. The paper was luminous
+    in the dark. The penholders, pens, pen-wipers, mucilage-bottle, everything, in
+    fact, that an author really needs for the production of literature, save ideas,
+    were so prepared that they could not fail to be visible to the weakest eye in
+    the darkest night." -- John Kendrick Bangs, The Booming Of Acre Hill'
+  title: '"The Jarley Ready Writing-Desk for Night Use,..."'
+word_count: 139

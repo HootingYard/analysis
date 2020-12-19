@@ -2,12 +2,6 @@ ngrams:
 - - boa
   - constrictor
   - masks
-- - derelict
-  - shed
-  - protected
-- - properly
-  - derelict
-  - shed
 - - wearing
   - boa
   - constrictor
@@ -29,14 +23,20 @@ ngrams:
 - - supply
   - line
   - can
+- - mrs
+  - gubbins
+  - has
+- - news
+  - has
+  - reached
 story:
   date: 2004-04-03
   id: 2004-04-03-sprung-from-chokey
-  text: "News has reached us that Mrs Gubbins has been sprung from chokey. (See 23rd\
-    \ March for details of her arrest.) She is now holed up in a safe house\u2014\
-    or, more properly, derelict shed\u2014protected by a heavily-armed gang of thugs\
-    \ wearing boa constrictor masks. They are subsisting on a diet of gruel, slops\
-    \ and pap until a criminal supply line can be set in place. We will keep you fully\
-    \ informed of developments. Please remember them in your prayers."
+  text: News has reached us that Mrs Gubbins has been sprung from chokey. (See 23rd
+    March for details of her arrest.) She is now holed up in a safe house--or, more
+    properly, derelict shed--protected by a heavily-armed gang of thugs wearing boa
+    constrictor masks. They are subsisting on a diet of gruel, slops and pap until
+    a criminal supply line can be set in place. We will keep you fully informed of
+    developments. Please remember them in your prayers.
   title: Sprung From Chokey
-word_count: 83
+word_count: 81

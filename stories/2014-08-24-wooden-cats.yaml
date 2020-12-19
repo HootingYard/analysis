@@ -1,4 +1,7 @@
 ngrams:
+- - research
+  - laboratories
+  - '-'
 - - blister
   - lane
   - bypass
@@ -11,15 +14,13 @@ ngrams:
 - - wooden
   - cats
   - one
-- - lane
-  - bypass
-  - from
 story:
   date: 2014-08-24
   id: 2014-08-24-wooden-cats
-  text: "\nOne of the few photographs ever taken of the Blister Lane Bypass. From\
-    \ The GEC Research Laboratories 1919\u20131984 by Sir Robert Clayton and Joan\
-    \ Algar (Peter Peregrinus, 1989). Many thanks to Linda Clare for bringing it to\
-    \ my attention."
+  text: '
+
+    One of the few photographs ever taken of the Blister Lane Bypass. From The GEC
+    Research Laboratories 1919-1984 by Sir Robert Clayton and Joan Algar (Peter Peregrinus,
+    1989). Many thanks to Linda Clare for bringing it to my attention.'
   title: Wooden Cats
-word_count: 39
+word_count: 40

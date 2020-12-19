@@ -5,9 +5,6 @@ ngrams:
 - - andre
   - creep
   - andre
-- - andre
-  - creep
-  - andre
 - - bulwer-lytton
   - contest
   - aka
@@ -41,15 +38,9 @@ ngrams:
 - - sickly
   - fingers
   - pushed
-- - wall
-  - andre
-  - creep
 - - lustrous
   - thick
   - brown
-- - east
-  - wall
-  - andre
 - - san
   - jose
   - state
@@ -122,36 +113,59 @@ ngrams:
 - - looked
   - quite
   - bored
+- - fingers
+  - pushed
+  - through
+- - sun
+  - oozed
+  - over
+- - lying
+  - beside
+  - her
 story:
   date: 2005-05-24
   id: 2005-05-24-velma
-  text: "Velma Nebraska forwarded this:\nFor lovers of good writing, listed below\
-    \ are the ten winners of this year's Bulwer-Lytton Contest, aka the \u201CDark\
-    \ and Stormy Night Contest\u201D run by the English Department of San Jose State\
-    \ University, wherein one writes only the first line of a bad novel:\n10. \u201C\
-    As a scientist, Throckmorton knew that if he were ever to break wind in the echo\
-    \ chamber, he would never hear the end of it.\u201D\n9. \u201CJust beyond the\
-    \ Narrows, the river widens.\u201D\n8. \u201CWith a curvaceous figure that Venus\
-    \ would have envied, a tanned, unblemished oval face framed with lustrous thick\
-    \ brown hair, deep azure-blue eyes fringed with long black lashes, perfect teeth\
-    \ that vied for competition, and a small straight nose, Marilee had a beauty that\
-    \ defied description.\u201D\n7. \u201CAndre, a simple peasant, had only one thing\
-    \ on his mind as he crept along the East wall: \u2018Andre creep\u2026 Andre creep\u2026\
-    \ Andre creep.\u2019\u201D\n6. \u201CStanislaus Smedley, a man always on the cutting\
-    \ edge of narcissism, was about to give his body and soul to a back alley sex-change\
-    \ surgeon to become the woman he loved.\u201D\n5. \u201CAlthough Sarah had an\
-    \ abnormal fear of mice, it did not keep her from ekeing out a living at a local\
-    \ pet store.\u201D\n4. \u201CStanley looked quite bored and somewhat detached,\
-    \ but then penguins often do.\u201D\n3. \u201CLike an over-ripe beefsteak tomato\
-    \ rimmed with cottage cheese, the corpulent remains of Santa Claus lay dead on\
-    \ the hotel floor.\u201D\n2. \u201CMike Hardware was the kind of private eye who\
-    \ didn't know the meaning of the word \u2018fear\u2019; a man who could laugh\
-    \ in the face of danger and spit in the eye of death\u2014in short, a moron with\
-    \ suicidal tendencies.\u201D\n1. \u201CThe sun oozed over the horizon, shoved\
-    \ aside darkness, crept along the greensward, and, with sickly fingers, pushed\
-    \ through the castle window, revealing the pillaged princess, hand at throat,\
-    \ crown asunder, gaping in frenzied horror at the sated, sodden amphibian lying\
-    \ beside her, disbelieving the magnitude of the frog's deception, screaming madly,\
-    \ \u2018You lied!\u2019\u201D"
+  text: 'Velma Nebraska forwarded this:
+
+    For lovers of good writing, listed below are the ten winners of this year''s Bulwer-Lytton
+    Contest, aka the "Dark and Stormy Night Contest" run by the English Department
+    of San Jose State University, wherein one writes only the first line of a bad
+    novel:
+
+    10. "As a scientist, Throckmorton knew that if he were ever to break wind in the
+    echo chamber, he would never hear the end of it."
+
+    9. "Just beyond the Narrows, the river widens."
+
+    8. "With a curvaceous figure that Venus would have envied, a tanned, unblemished
+    oval face framed with lustrous thick brown hair, deep azure-blue eyes fringed
+    with long black lashes, perfect teeth that vied for competition, and a small straight
+    nose, Marilee had a beauty that defied description."
+
+    7. "Andre, a simple peasant, had only one thing on his mind as he crept along
+    the East wall: ''Andre creep... Andre creep... Andre creep.''"
+
+    6. "Stanislaus Smedley, a man always on the cutting edge of narcissism, was about
+    to give his body and soul to a back alley sex-change surgeon to become the woman
+    he loved."
+
+    5. "Although Sarah had an abnormal fear of mice, it did not keep her from ekeing
+    out a living at a local pet store."
+
+    4. "Stanley looked quite bored and somewhat detached, but then penguins often
+    do."
+
+    3. "Like an over-ripe beefsteak tomato rimmed with cottage cheese, the corpulent
+    remains of Santa Claus lay dead on the hotel floor."
+
+    2. "Mike Hardware was the kind of private eye who didn''t know the meaning of
+    the word ''fear''; a man who could laugh in the face of danger and spit in the
+    eye of death--in short, a moron with suicidal tendencies."
+
+    1. "The sun oozed over the horizon, shoved aside darkness, crept along the greensward,
+    and, with sickly fingers, pushed through the castle window, revealing the pillaged
+    princess, hand at throat, crown asunder, gaping in frenzied horror at the sated,
+    sodden amphibian lying beside her, disbelieving the magnitude of the frog''s deception,
+    screaming madly, ''You lied!''"'
   title: Velma
-word_count: 333
+word_count: 334

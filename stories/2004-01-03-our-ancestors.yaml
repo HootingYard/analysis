@@ -56,18 +56,9 @@ ngrams:
 - - than
   - mere
   - amusement
-- - other
-  - writings
-  - produced
-- - among
-  - other
-  - writings
 - - ground
   - then
   - built
-- - jonathan
-  - swift
-  - who
 - - built
   - then
   - took
@@ -86,9 +77,6 @@ ngrams:
 - - your
   - assets
   - fail
-- - swift
-  - who
-  - among
 - - convey
   - some
   - little
@@ -107,31 +95,43 @@ ngrams:
 - - something
   - more
   - than
+- - would
+  - interest
+  - itself
+- - paper
+  - would
+  - interest
+- - nature
+  - which
+  - means
+- - human
+  - nature
+  - which
 story:
   date: 2004-01-03
   id: 2004-01-03-our-ancestors
   text: "Patrick Delany was an 18th century Irish clergyman, a friend of Jonathan\
-    \ Swift, who\u2014among other writings\u2014produced fifteen issues of a weekly\
-    \ entitled The Humanist in 1757. Among topics addressed in its pages were: the\
-    \ renouncing of docked tails for horses; the lawfulness of eating blood; the procreation\
+    \ Swift, who--among other writings--produced fifteen issues of a weekly entitled\
+    \ The Humanist in 1757. Among topics addressed in its pages were: the renouncing\
+    \ of docked tails for horses; the lawfulness of eating blood; the procreation\
     \ of man after the Flood; and the advantages of polygamy.\nWas The Humanist a\
     \ forerunner of Hooting Yard? I think it was! Here is Delany announcing his intentions\
-    \ in the first issue: the paper \u201Cwould interest itself in all the concerns\
-    \ of human nature \u2026 which means not only amusement \u2026 but likewise something\
-    \ more than mere amusement \u2026 being calculated to convey some little useful\
-    \ and entertaining knowledge of various kinds, historical, classical, natural,\
-    \ moral, and now and then a little religion\u201D.\nOne other note about Delany:\
-    \ he was highly ambitious and lived extravagantly beyond his means. At his parish\
-    \ outside Dublin, he decided to improve the grounds, and the few acres of land\
-    \ were subjected to an attempt to show how \u201Cthe obdurate and straight line\
-    \ of the Dutch might he softened into a curve, the terrace melted into a swelling\
-    \ bank, and the walks opened to catch the vicinal country.\u201D\nIn An Epistle\
-    \ Upon An Epistle (1730), Swift recounted his follies:\nBut you, forsooth, your\
-    \ all must squander\n  On that poor spot, call'd Dell-ville, yonder;\n  And when\
-    \ you've been at vast expenses\n  In whims, parterres, canals and fences,\n  Your\
-    \ assets fail, and cash is wanting;\n  Nor farther buildings, farther planting;\n\
-    \  No wonder when you raise and level,\n  Think this wall low, and that wall bevel.\n\
-    \  Here a convenient box you found,\n  Which you demolish'd to the ground;\n \
-    \ Then built, then took up with your arbour,\n  And set the house to Rupert Barber."
+    \ in the first issue: the paper \"would interest itself in all the concerns of\
+    \ human nature ... which means not only amusement ... but likewise something more\
+    \ than mere amusement ... being calculated to convey some little useful and entertaining\
+    \ knowledge of various kinds, historical, classical, natural, moral, and now and\
+    \ then a little religion\".\nOne other note about Delany: he was highly ambitious\
+    \ and lived extravagantly beyond his means. At his parish outside Dublin, he decided\
+    \ to improve the grounds, and the few acres of land were subjected to an attempt\
+    \ to show how \"the obdurate and straight line of the Dutch might he softened\
+    \ into a curve, the terrace melted into a swelling bank, and the walks opened\
+    \ to catch the vicinal country.\"\nIn An Epistle Upon An Epistle (1730), Swift\
+    \ recounted his follies:\nBut you, forsooth, your all must squander\n  On that\
+    \ poor spot, call'd Dell-ville, yonder;\n  And when you've been at vast expenses\n\
+    \  In whims, parterres, canals and fences,\n  Your assets fail, and cash is wanting;\n\
+    \  Nor farther buildings, farther planting;\n  No wonder when you raise and level,\n\
+    \  Think this wall low, and that wall bevel.\n  Here a convenient box you found,\n\
+    \  Which you demolish'd to the ground;\n  Then built, then took up with your arbour,\n\
+    \  And set the house to Rupert Barber."
   title: Our Ancestors
-word_count: 291
+word_count: 289

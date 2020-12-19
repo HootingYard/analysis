@@ -1,7 +1,4 @@
 ngrams:
-- - cellar
-  - ambrose
-  - bierce
 - - sister
   - mary
   - maria
@@ -44,17 +41,20 @@ ngrams:
 - - henry
   - who
   - had
+- - had
+  - been
+  - taught
 story:
   date: 2004-03-09
   id: 2004-03-09-my-mother-opened-a-select-private-school
-  text: "\u201CMy mother opened a select private school for instruction in the art\
-    \ of changing the spots upon leopard-skin rugs; my eldest brother, George Henry,\
-    \ who had a turn for music, became a bugler in a neighbouring asylum for deaf\
-    \ mutes; my sister, Mary Maria, took orders for Professor Pumpernickel's Essence\
-    \ of Latchkeys for flavouring mineral springs; and I set up as an adjuster and\
-    \ gilder of crossbeams for gibbets. The other children, too young for labour,\
-    \ continued to steal small articles exposed in front of shops, as they had been\
-    \ taught. In our intervals of leisure we decoyed travellers into our house and\
-    \ buried the bodies in a cellar.\u201D \u2014 Ambrose Bierce, A Bottomless Grave"
-  title: "\u201CMy mother opened a select private school\u2026\u201D"
-word_count: 121
+  text: '"My mother opened a select private school for instruction in the art of changing
+    the spots upon leopard-skin rugs; my eldest brother, George Henry, who had a turn
+    for music, became a bugler in a neighbouring asylum for deaf mutes; my sister,
+    Mary Maria, took orders for Professor Pumpernickel''s Essence of Latchkeys for
+    flavouring mineral springs; and I set up as an adjuster and gilder of crossbeams
+    for gibbets. The other children, too young for labour, continued to steal small
+    articles exposed in front of shops, as they had been taught. In our intervals
+    of leisure we decoyed travellers into our house and buried the bodies in a cellar."
+    -- Ambrose Bierce, A Bottomless Grave'
+  title: '"My mother opened a select private school..."'
+word_count: 122

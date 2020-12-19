@@ -5,15 +5,6 @@ ngrams:
 - - naval
   - lieutenant
   - dropping
-- - orders
-  - horace
-  - wyndham
-- - holy
-  - orders
-  - horace
-- - took
-  - holy
-  - orders
 - - horace
   - wyndham
   - mr
@@ -32,9 +23,6 @@ ngrams:
 - - been
   - effective
   - since
-- - prayer
-  - this
-  - appears
 - - had
   - braved
   - battle
@@ -47,26 +35,39 @@ ngrams:
 - - they
   - were
   - instructed
-- - naval
-  - lieutenant
-  - as
 - - lieutenant
   - dropping
   - his
+- - dropping
+  - his
+  - studies
+- - his
+  - fingers
+  - although
+- - have
+  - been
+  - effective
+- - quite
+  - altered
+  - his
+- - fingers
+  - although
+  - he
 story:
   date: 2010-04-08
   id: 2010-04-08-discombobulated-naval-lieutenant
-  text: "\u201CDropping his studies in the realms of proverbial philosophy, that amiable\
-    \ mid-Victorian butt, Martin Tupper, toyed for a time with spiritualism. He attended\
-    \ one of Mrs Hall's s\xE9ances, when, with Home as the medium, the company included\
-    \ \u2018a countess, the widow of a colonel, and a naval lieutenant\u2019. As a\
-    \ preliminary, they were instructed to \u2018kneel down and offer up a prayer\u2019\
-    . This appears to have been effective, since the table rose from the floor, raps\
-    \ resounded by the dozen, and Home pulled red-hot coals out of the fire with his\
-    \ fingers. Although he had braved battle and the breeze often enough, such a spectacle\
-    \ was apparently too much for the representative of the senior service. \u2018\
-    It quite altered his career\u2019, says Tupper, \u2018and, soon afterwards, he\
-    \ took Holy Orders\u2019.\u201D\nHorace Wyndham, Mr Sludge, The Medium\_: Being\
-    \ The Life And Adventures Of Daniel Dunglas Home (1937)"
+  text: '"Dropping his studies in the realms of proverbial philosophy, that amiable
+    mid-Victorian butt, Martin Tupper, toyed for a time with spiritualism. He attended
+    one of Mrs Hall''s seances, when, with Home as the medium, the company included
+    ''a countess, the widow of a colonel, and a naval lieutenant''. As a preliminary,
+    they were instructed to ''kneel down and offer up a prayer''. This appears to
+    have been effective, since the table rose from the floor, raps resounded by the
+    dozen, and Home pulled red-hot coals out of the fire with his fingers. Although
+    he had braved battle and the breeze often enough, such a spectacle was apparently
+    too much for the representative of the senior service. ''It quite altered his
+    career'', says Tupper, ''and, soon afterwards, he took Holy Orders''."
+
+    Horace Wyndham, Mr Sludge, The Medium : Being The Life And Adventures Of Daniel
+    Dunglas Home (1937)'
   title: Discombobulated Naval Lieutenant
-word_count: 149
+word_count: 148

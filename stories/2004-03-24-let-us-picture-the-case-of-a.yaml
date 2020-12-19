@@ -1,7 +1,4 @@
 ngrams:
-- - heels
-  - e
-  - h
 - - eve
   - sometimes
   - pays
@@ -47,28 +44,31 @@ ngrams:
 - - passing
   - without
   - her
-- - their
-  - heels
-  - e
 - - pays
   - 'off'
   - her
 - - 'off'
   - her
   - share
+- - its
+  - head
+  - bruised
+- - having
+  - its
+  - head
 story:
   date: 2004-03-24
   id: 2004-03-24-let-us-picture-the-case-of-a
-  text: "\u201CLet us picture the case of a broken-hearted maiden forced to reject\
-    \ an ardent lover because duty calls him to a land where there are snakes. Think\
-    \ of his happiness blighted for ever and her doomed to a perpetual maidenhood,\
-    \ harrowed with remorseful dreams of the hourly perils and horrors through which\
-    \ he must be passing without her, and dreading to enter an academy or picture-gallery\
-    \ lest a laocoon or a fury might revive apprehensions too horrible to be borne.\
-    \ In view of possibilities so dreadful, surely it is a duty that a man owes to\
-    \ his kind to disseminate the truth, if he can, about the present condition of\
-    \ that reptile which, crawling on its belly and eating dust and having its head\
-    \ bruised by the descendants of Eve, sometimes pays off her share of the curse\
-    \ on their heels.\u201D \u2014 E H Aitken, Concerning Animals & Other Matters"
-  title: "\u201CLet us picture the case of a\u2026\u201D"
-word_count: 155
+  text: '"Let us picture the case of a broken-hearted maiden forced to reject an ardent
+    lover because duty calls him to a land where there are snakes. Think of his happiness
+    blighted for ever and her doomed to a perpetual maidenhood, harrowed with remorseful
+    dreams of the hourly perils and horrors through which he must be passing without
+    her, and dreading to enter an academy or picture-gallery lest a laocoon or a fury
+    might revive apprehensions too horrible to be borne. In view of possibilities
+    so dreadful, surely it is a duty that a man owes to his kind to disseminate the
+    truth, if he can, about the present condition of that reptile which, crawling
+    on its belly and eating dust and having its head bruised by the descendants of
+    Eve, sometimes pays off her share of the curse on their heels." -- E H Aitken,
+    Concerning Animals & Other Matters'
+  title: '"Let us picture the case of a..."'
+word_count: 156

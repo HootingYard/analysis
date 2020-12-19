@@ -8,9 +8,6 @@ ngrams:
 - - dark
   - cloudy
   - covering
-- - mother
-  - george
-  - turner
 - - feels
   - sleepy
   - because
@@ -20,9 +17,6 @@ ngrams:
 - - hundred
   - years
   - ago
-- - its
-  - mother
-  - george
 - - visit
   - its
   - mother
@@ -41,16 +35,21 @@ ngrams:
 - - not
   - live
   - long
+- - his
+  - soul
+  - wishes
+- - die
+  - but
+  - if
 story:
   date: 2004-12-16
   id: 2004-12-16-man-is-formed-from-a-species-of
-  text: "\u201CMan is formed from a species of mussel. If made of the hard mussel\
-    \ he lives long\u2014it is difficult for him to die. But if he happens to be made\
-    \ of the poisonous mussel, he is fragile, easily upset, and does not live long.\
-    \ The soul of man is called his anganga, or that which goes or comes. It is said\
-    \ to be the daughter of Taufanuu, or vapour of lands, which forms clouds, and\
-    \ as the dark cloudy covering of night comes on, man feels sleepy, because his\
-    \ soul wishes to go and visit its mother.\u201D \u2014 George Turner, Samoa, A\
-    \ Hundred Years Ago And Long Before"
-  title: "\u201CMan is formed from a species of\u2026\u201D"
+  text: '"Man is formed from a species of mussel. If made of the hard mussel he lives
+    long--it is difficult for him to die. But if he happens to be made of the poisonous
+    mussel, he is fragile, easily upset, and does not live long. The soul of man is
+    called his anganga, or that which goes or comes. It is said to be the daughter
+    of Taufanuu, or vapour of lands, which forms clouds, and as the dark cloudy covering
+    of night comes on, man feels sleepy, because his soul wishes to go and visit its
+    mother." -- George Turner, Samoa, A Hundred Years Ago And Long Before'
+  title: '"Man is formed from a species of..."'
 word_count: 115

@@ -1,43 +1,52 @@
 ngrams:
-- - pastel
-  - flame
-  - thorny
-- - june
-  - veiny
-  - crimp
 - - milky
   - downy
   - silky
-- - swarthy
-  - june
-  - veiny
-- - veiny
-  - crimp
-  - july
 - - hoods
   - hysteria
   - swarthy
-- - crimp
-  - july
-  - pastel
-- - downy
-  - silky
-  - august
-- - silky
-  - august
-  - thorny
-- - august
-  - thorny
-  - quilt
+- - burn
+  - arrow
+  - blisters
+- - soft
+  - milky
+  - downy
+- - triangular
+  - pie
+  - dabble
+- - april
+  - foliage
+  - plants
+- - pie
+  - dabble
+  - etc
+- - quilt
+  - metal
+  - filigree
+- - rain
+  - hoods
+  - hysteria
 story:
   date: 2012-03-02
   id: 2012-03-02-triangular-pie-dabble-etc
-  text: "\nThis week in my cupboard I introduce readers of The Dabbler to the unique\
-    \ genius of Norman Davies and his Further Science. As a reminder, here is the\
-    \ great man's lesson on Hedge Auras:\n1. That April Foliage Plants are quilt padded.\n\
-    2. May\u2014pixie rain hoods / hysteria swarthy.\n3. June\u2014veiny crimp.\n\
-    4. July\u2014pastel / soft milky downy / silky.\n5. August\u2014thorny quilt /metal\
-    \ filigree.\n6. September\u2014pastel flame thorny and pointed hairs.\n7. October\u2014\
-    hard burn arrow blisters and round berries. Etc"
+  text: '
+
+    This week in my cupboard I introduce readers of The Dabbler to the unique genius
+    of Norman Davies and his Further Science. As a reminder, here is the great man''s
+    lesson on Hedge Auras:
+
+    1. That April Foliage Plants are quilt padded.
+
+    2. May--pixie rain hoods / hysteria swarthy.
+
+    3. June--veiny crimp.
+
+    4. July--pastel / soft milky downy / silky.
+
+    5. August--thorny quilt /metal filigree.
+
+    6. September--pastel flame thorny and pointed hairs.
+
+    7. October--hard burn arrow blisters and round berries. Etc'
   title: Triangular Pie Dabble, Etc
-word_count: 81
+word_count: 75

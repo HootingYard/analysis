@@ -1,10 +1,4 @@
 ngrams:
-- - weasels
-  - lucian
-  - trips
-- - resembling
-  - weasels
-  - lucian
 - - lower
   - resembling
   - weasels
@@ -23,13 +17,19 @@ ngrams:
 - - faces
   - like
   - crabs
+- - upon
+  - raw
+  - flesh
+- - live
+  - upon
+  - raw
 story:
   date: 2004-09-20
   id: 2004-09-20-towards-the-tail-on-the-western-parts
-  text: "\u201CTowards the tail, on the western parts of the wood, live the Tarichanes,\
-    \ a people with eels' eyes, and faces like crabs, bold, warlike, and that live\
-    \ upon raw flesh. On the other side, at the right hand wall, are the Tritonomendetes,\
-    \ in their upper parts men, and in the lower resembling weasels.\u201D \u2014\
-    \ Lucian, Trips To The Moon"
-  title: "\u201CTowards the tail, on the western parts\u2026\u201D"
-word_count: 65
+  text: '"Towards the tail, on the western parts of the wood, live the Tarichanes,
+    a people with eels'' eyes, and faces like crabs, bold, warlike, and that live
+    upon raw flesh. On the other side, at the right hand wall, are the Tritonomendetes,
+    in their upper parts men, and in the lower resembling weasels." -- Lucian, Trips
+    To The Moon'
+  title: '"Towards the tail, on the western parts..."'
+word_count: 66

@@ -11,9 +11,6 @@ ngrams:
 - - sadly
   - neglected
   - max
-- - neglected
-  - max
-  - d
 - - added
   - retired
   - bank
@@ -23,9 +20,6 @@ ngrams:
 - - print
   - media
   - reporting
-- - shot
-  - max
-  - does
 - - look
   - inevitable
   - until
@@ -62,29 +56,38 @@ ngrams:
 - - beekeepers
   - hollywood
   - has
-- - beekeeper
-  - 'no'
-  - added
-- - 'no'
-  - added
-  - retired
+- - been
+  - sadly
+  - neglected
+- - popular
+  - man
+  - now
+- - has
+  - put
+  - aside
+- - may
+  - now
+  - retire
 story:
   date: 2004-08-16
   id: 2004-08-16-bees-and-beekeepers
-  text: "Hollywood has familiarised us with swarms of killer bees, but the subject\
-    \ of homicidal beekeepers is one which has been sadly neglected. Max D\xE9charn\xE9\
-    \ has brought to my attention a rare mention of a murderous apiarist in the print\
-    \ media. Reporting on the convulsive reaction to drug-fuelled athletes in Greece,\
-    \ yesterday's Observer reported:\nKederis may now retire rather than fight disciplinary\
-    \ proceedings which look inevitable. Until last Thursday, he was Greece's most\
-    \ popular man. Now he, and Thanou, are seen as traitors. Greeks are united in\
-    \ contempt for the pair bringing such shame on their country at an event they\
-    \ hoped would mark its triumphant emergence as a modern European country. \u2018\
-    They should be strung up,\u2019 said Litsa Sarantou, a beekeeper. \u2018No,\u2019\
-    \ added retired bank employee Nassos Kafezopoulos. \u2018They should be shot.\u2019\
-    \nMax does not say that he has put aside all his current projects in order to\
-    \ write an opportunistic potboiler in which fearful Hellenic sprinters are pursued\
-    \ by a vigilante beekeeper armed with a rope and a noose, but I am sure he is\
-    \ just hiding his light under a bushel."
+  text: 'Hollywood has familiarised us with swarms of killer bees, but the subject
+    of homicidal beekeepers is one which has been sadly neglected. Max Decharne has
+    brought to my attention a rare mention of a murderous apiarist in the print media.
+    Reporting on the convulsive reaction to drug-fuelled athletes in Greece, yesterday''s
+    Observer reported:
+
+    Kederis may now retire rather than fight disciplinary proceedings which look inevitable.
+    Until last Thursday, he was Greece''s most popular man. Now he, and Thanou, are
+    seen as traitors. Greeks are united in contempt for the pair bringing such shame
+    on their country at an event they hoped would mark its triumphant emergence as
+    a modern European country. ''They should be strung up,'' said Litsa Sarantou,
+    a beekeeper. ''No,'' added retired bank employee Nassos Kafezopoulos. ''They should
+    be shot.''
+
+    Max does not say that he has put aside all his current projects in order to write
+    an opportunistic potboiler in which fearful Hellenic sprinters are pursued by
+    a vigilante beekeeper armed with a rope and a noose, but I am sure he is just
+    hiding his light under a bushel.'
   title: Bees and Beekeepers
-word_count: 187
+word_count: 189

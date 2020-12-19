@@ -1,6 +1,6 @@
 ngrams:
 - - words
-  - o
+  - o'
   - wisdom
 - - by
   - ian
@@ -17,7 +17,8 @@ ngrams:
 story:
   date: 2010-11-03
   id: 2010-11-03-words-o-wisdom
-  text: "\u201CHrrurr gretsch pfftdf, Wagtail, mrmpgghaw (cough) azzerbunmhher, Swan\u201D\
-    \nReported by Ian Vince in The Dabbler."
-  title: "Words o\u2019 Wisdom"
+  text: '"Hrrurr gretsch pfftdf, Wagtail, mrmpgghaw (cough) azzerbunmhher, Swan"
+
+    Reported by Ian Vince in The Dabbler.'
+  title: Words o' Wisdom
 word_count: 18

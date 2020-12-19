@@ -2,9 +2,6 @@ ngrams:
 - - volcano
   - shooting
   - hundreds
-- - bond
-  - film
-  - d
 - - golf
   - carts
   - while
@@ -20,13 +17,19 @@ ngrams:
 - - red
   - 'off'
   - button
+- - big
+  - red
+  - 'off'
 story:
   date: 2012-11-19
   id: 2012-11-19-the-sense-of-an-ending
-  text: "\nMark Steyn summarises fifty years\u2019 of Bond film d\xE9nouements:\n\
-    For half a century, the most boring bit in 007 has always been the final 20 minutes\
-    \ when Bond and the girl run around the hollowed-out volcano shooting hundreds\
-    \ of tinfoil-suited extras in golf carts while looking for the big red \u201C\
-    Off\u201D button that disconnects the space laser."
+  text: '
+
+    Mark Steyn summarises fifty years'' of Bond film denouements:
+
+    For half a century, the most boring bit in 007 has always been the final 20 minutes
+    when Bond and the girl run around the hollowed-out volcano shooting hundreds of
+    tinfoil-suited extras in golf carts while looking for the big red "Off" button
+    that disconnects the space laser.'
   title: The Sense Of An Ending
-word_count: 61
+word_count: 60

@@ -1,7 +1,4 @@
 ngrams:
-- - intertitles
-  - advent
-  - calendar
 - - maddin
   - film
   - intertitles
@@ -14,11 +11,14 @@ ngrams:
 - - brand
   - upon
   - the
+- - upon
+  - the
+  - brain
 story:
   date: 2017-12-21
   id: 2017-12-21-guy-maddin-film-intertitles-advent-calendar-xxi
   text: '
 
     Brand Upon The Brain! (2006)'
-  title: "Guy Maddin Film Intertitles Advent Calendar\u2014XXI"
-word_count: 11
+  title: Guy Maddin Film Intertitles Advent Calendar--XXI
+word_count: 10

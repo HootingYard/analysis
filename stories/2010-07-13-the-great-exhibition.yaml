@@ -5,27 +5,6 @@ ngrams:
 - - great
   - exhibition
   - regarding
-- - solemnly
-  - declared
-  - never
-- - declared
-  - never
-  - set
-- - never
-  - set
-  - foot
-- - positively
-  - sickened
-  - him
-- - him
-  - horace
-  - wyndham
-- - sickened
-  - him
-  - horace
-- - scheme
-  - an
-  - exhibition
 - - news
   - an
   - anthology
@@ -44,18 +23,39 @@ ngrams:
 - - had
   - 'no'
   - business
+- - p
+  - for
+  - lincoln
+- - m
+  - p
+  - for
+- - he
+  - solemnly
+  - declared
+- - who
+  - had
+  - 'no'
+- - 'on'
+  - any
+  - pretext
+- - here
+  - at
+  - all
+- - place
+  - 'on'
+  - any
 story:
   date: 2010-07-13
   id: 2010-07-13-the-great-exhibition
-  text: "Regarding the Great Exhibition of 1851\_: \_\u201CA specially strong opponent\u2026\
-    \ was Colonel Sibthorp, M.P. for Lincoln, \u2018a man of limited intelligence\
-    \ and bigoted views\u2019. He dubbed the scheme \u2018an exhibition of the trumpery\
-    \ and trash of foreigners who had no business to be here at all; and he offered\
-    \ a heartfelt prayer that Providence would think fit to destroy the impious project\
-    \ by a visitation of lightning\u2019\u2026 \u2018He had,\u2019 he solemnly declared,\
-    \ \u2018never set foot in this so-called Crystal Palace; and he considered it\
-    \ his duty to his fellow-creatures not to go into the place on any pretext. The\
-    \ very thought of it positively sickened him\u2019.\u201D\nHorace Wyndham, This\
-    \ Was The News\_: An Anthology Of Victorian Affairs (1948)"
+  text: 'Regarding the Great Exhibition of 1851 :  "A specially strong opponent...
+    was Colonel Sibthorp, M.P. for Lincoln, ''a man of limited intelligence and bigoted
+    views''. He dubbed the scheme ''an exhibition of the trumpery and trash of foreigners
+    who had no business to be here at all; and he offered a heartfelt prayer that
+    Providence would think fit to destroy the impious project by a visitation of lightning''...
+    ''He had,'' he solemnly declared, ''never set foot in this so-called Crystal Palace;
+    and he considered it his duty to his fellow-creatures not to go into the place
+    on any pretext. The very thought of it positively sickened him''."
+
+    Horace Wyndham, This Was The News : An Anthology Of Victorian Affairs (1948)'
   title: The Great Exhibition
-word_count: 120
+word_count: 121

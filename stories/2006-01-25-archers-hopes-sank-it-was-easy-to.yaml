@@ -11,9 +11,6 @@ ngrams:
 - - dull
   - violet
   - light
-- - violet
-  - light
-  - e
 - - happened
   - those
   - thugs
@@ -32,15 +29,17 @@ ngrams:
 - - been
   - turned
   - 'off'
+- - thugs
+  - had
+  - found
 story:
   date: 2006-01-25
   id: 2006-01-25-archers-hopes-sank-it-was-easy-to
-  text: "\u201CArcher's hopes sank. It was easy to guess what had happened. Those\
-    \ thugs had found him, probably after the cyclotron had been turned off and before\
-    \ the physicists had come. They had assumed he was dead, and had taken the briefcase.\
-    \ Suddenly Archer remembered that he had had a broken arm. He lifted his right\
-    \ arm and clenched his hand. It certainly wasn't broken now. Then he stared at\
-    \ his hand. It glowed with a dull violet light.\u201D \u2014 E A Grosser, The\
-    \ Radiant Avenger"
-  title: "\u201CArcher's hopes sank. It was easy to\u2026\u201D"
-word_count: 91
+  text: '"Archer''s hopes sank. It was easy to guess what had happened. Those thugs
+    had found him, probably after the cyclotron had been turned off and before the
+    physicists had come. They had assumed he was dead, and had taken the briefcase.
+    Suddenly Archer remembered that he had had a broken arm. He lifted his right arm
+    and clenched his hand. It certainly wasn''t broken now. Then he stared at his
+    hand. It glowed with a dull violet light." -- E A Grosser, The Radiant Avenger'
+  title: '"Archer''s hopes sank. It was easy to..."'
+word_count: 92

@@ -74,18 +74,9 @@ ngrams:
 - - random
   - one
   - hundred
-- - ago
-  - so
-  - long
-- - so
-  - long
-  - ago
 - - all
   - these
   - years
-- - years
-  - ago
-  - so
 - - read
   - one
   - hundred
@@ -95,27 +86,37 @@ ngrams:
 - - one
   - hundred
   - years
+- - have
+  - cared
+  - deeply
+- - intellectual
+  - improvement
+  - at
 story:
   date: 2014-05-05
   id: 2014-05-05-trash
-  text: "The recent death of Gabriel Garcia Marquez reminded me of the circumstances\
-    \ that led me to read One Hundred Years Of Solitude, thirty-odd years ago\u2014\
-    so long ago that, with my puny memory, I have forgotten the book entirely.\nI\
-    \ was at university at the time. I had a friend, a fellow student, Stephen, who\
-    \ lived in a house bought for him by his wealthy parents, and I rented a room\
-    \ in it one summer. Stephen, being a good leftie, was somewhat ashamed of his\
-    \ economic privilege and always referred to the \u201Clandlord\u201D, without\
-    \ divulging that this was his father.\nOne day he found me reading a J. P. Donleavy\
-    \ novel, I can't recall which one, and hectored me for wasting my time on trash.\
-    \ I should read, he said, only great works of literature, such as, to pluck a\
-    \ title at random, One Hundred Years Of Solitude. I was touched that he had my\
-    \ intellectual improvement at heart and, shortly afterwards, I did indeed read\
-    \ Marquez's novel. I have to admit that, all these years later, I have fonder\
-    \ memories of Donleavy.\nStephen and I lost touch after university, but it has\
-    \ always amused me that this keen upholder of cultural standards went on to become\
-    \ the television producer who created such intellectually stimulating fare as\
-    \ Wife Swap. Stephen Lambert\u2014for it is he\u2014may have cared deeply that\
-    \ I did not waste my time on trash, but it seems not to have bothered him that\
-    \ he besmirched the cultural life of the entire nation."
+  text: 'The recent death of Gabriel Garcia Marquez reminded me of the circumstances
+    that led me to read One Hundred Years Of Solitude, thirty-odd years ago--so long
+    ago that, with my puny memory, I have forgotten the book entirely.
+
+    I was at university at the time. I had a friend, a fellow student, Stephen, who
+    lived in a house bought for him by his wealthy parents, and I rented a room in
+    it one summer. Stephen, being a good leftie, was somewhat ashamed of his economic
+    privilege and always referred to the "landlord", without divulging that this was
+    his father.
+
+    One day he found me reading a J. P. Donleavy novel, I can''t recall which one,
+    and hectored me for wasting my time on trash. I should read, he said, only great
+    works of literature, such as, to pluck a title at random, One Hundred Years Of
+    Solitude. I was touched that he had my intellectual improvement at heart and,
+    shortly afterwards, I did indeed read Marquez''s novel. I have to admit that,
+    all these years later, I have fonder memories of Donleavy.
+
+    Stephen and I lost touch after university, but it has always amused me that this
+    keen upholder of cultural standards went on to become the television producer
+    who created such intellectually stimulating fare as Wife Swap. Stephen Lambert--for
+    it is he--may have cared deeply that I did not waste my time on trash, but it
+    seems not to have bothered him that he besmirched the cultural life of the entire
+    nation.'
   title: Trash
-word_count: 257
+word_count: 254

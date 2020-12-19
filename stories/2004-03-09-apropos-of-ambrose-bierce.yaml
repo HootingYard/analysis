@@ -53,20 +53,23 @@ ngrams:
 - - people
   - know
   - sir
+- - please
+  - send
+  - them
 story:
   date: 2004-03-09
   id: 2004-03-09-apropos-of-ambrose-bierce
-  text: "It is, I think, reasonably well-known* that Ambrose Bierce vanished at the\
-    \ age of 71 (in 1913) on his way to the civil war in Mexico, never to be seen\
-    \ again. What I did not learn until the other day was that he was one of thirteen\
-    \ children, all of whom, at the whim of his father, were given names beginning\
-    \ with A. If any reader knows the names of his dozen siblings, please let me know.\n\
-    * NOTE : I am careful to write \u201CI think, reasonably well-known\u201D as opposed\
-    \ to the magisterial \u201Ceverybody knows\u201D. A particularly splendid example\
-    \ of the latter appeared in the Guardian recently. A. S. Byatt wrote: \u201Cmost\
-    \ people know [Sir Charles Sherrington's] description of the waking brain as \u2018\
-    an enchanted loom where millions of flashing shuttles weave a dissolving pattern\u2026\
-    \u2019\u201D (my emphasis). If readers have favourite examples of such absurd\
-    \ pomposity, please send them in."
+  text: 'It is, I think, reasonably well-known* that Ambrose Bierce vanished at the
+    age of 71 (in 1913) on his way to the civil war in Mexico, never to be seen again.
+    What I did not learn until the other day was that he was one of thirteen children,
+    all of whom, at the whim of his father, were given names beginning with A. If
+    any reader knows the names of his dozen siblings, please let me know.
+
+    * NOTE : I am careful to write "I think, reasonably well-known" as opposed to
+    the magisterial "everybody knows". A particularly splendid example of the latter
+    appeared in the Guardian recently. A. S. Byatt wrote: "most people know [Sir Charles
+    Sherrington''s] description of the waking brain as ''an enchanted loom where millions
+    of flashing shuttles weave a dissolving pattern...''" (my emphasis). If readers
+    have favourite examples of such absurd pomposity, please send them in.'
   title: Apropos of Ambrose Bierce
-word_count: 151
+word_count: 152

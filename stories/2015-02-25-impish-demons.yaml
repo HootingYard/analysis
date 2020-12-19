@@ -1,7 +1,4 @@
 ngrams:
-- - informant
-  - poppy
-  - nisbet
 - - century
   - german
   - illustration
@@ -14,12 +11,16 @@ ngrams:
 - - words
   - 'no'
   - doubt
+- - german
+  - illustration
+  - from
 story:
   date: 2015-02-25
   id: 2015-02-25-impish-demons
-  text: "While my brainpans remain empty of words, no doubt temporarily, I must reassure\
-    \ you lot that I am still living and breathing, so here\u2014courtesy of my informant\
-    \ Poppy Nisbet\u2014is a fifteenth century German illustration from the Book of\
-    \ Revelation.\n"
+  text: 'While my brainpans remain empty of words, no doubt temporarily, I must reassure
+    you lot that I am still living and breathing, so here--courtesy of my informant
+    Poppy Nisbet--is a fifteenth century German illustration from the Book of Revelation.
+
+    '
   title: Impish Demons
-word_count: 43
+word_count: 41

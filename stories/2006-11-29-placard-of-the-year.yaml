@@ -2,21 +2,12 @@ ngrams:
 - - puts
   - western
   - lefties
-- - sorry
-  - unforgivable
-  - insults
-- - comments
-  - sorry
-  - unforgivable
 - - ratzinger
   - clearly
   - inspires
 - - cardinal
   - ratzinger
   - clearly
-- - recent
-  - comments
-  - sorry
 - - slogan
   - quoted
   - above
@@ -29,15 +20,26 @@ ngrams:
 - - old
   - mohammed
   - led
+- - time
+  - cardinal
+  - ratzinger
+- - shame
+  - something
+  - about
+- - which
+  - puts
+  - western
 story:
   date: 2006-11-29
   id: 2006-11-29-placard-of-the-year
-  text: "Whatever else you may say about them, Islamic protesters know how to brandish\
-    \ a good placard. Witness the slogan quoted above, which puts Western lefties\
-    \ with their \u201CBush 'n' Blair, Oooh We Hate You\u201D vapidity to shame. Something\
-    \ about the one time Cardinal Ratzinger clearly inspires the perpetually-offended\
-    \ Islamists. His recent comments\u2014sorry, unforgivable insults for which he\
-    \ deserves to be beheaded\u2014about the iniquity of old Mohammed led to the creation\
-    \ of Hooting Yard's favourite placard of the year.\n"
+  text: 'Whatever else you may say about them, Islamic protesters know how to brandish
+    a good placard. Witness the slogan quoted above, which puts Western lefties with
+    their "Bush ''n'' Blair, Oooh We Hate You" vapidity to shame. Something about
+    the one time Cardinal Ratzinger clearly inspires the perpetually-offended Islamists.
+    His recent comments--sorry, unforgivable insults for which he deserves to be beheaded--about
+    the iniquity of old Mohammed led to the creation of Hooting Yard''s favourite
+    placard of the year.
+
+    '
   title: Placard of the Year
-word_count: 84
+word_count: 82

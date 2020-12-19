@@ -11,14 +11,13 @@ ngrams:
 - - naipaul
   - now
   - hated
-- - very
-  - word
-  - scandinavian
+- - s
+  - naipaul
+  - now
 story:
   date: 2004-02-28
   id: 2004-02-28-he-v-s-naipaul-now-hated-the
-  text: "\u201CHe [V. S. Naipaul] now hated the very word \u2018Scandinavian\u2019\
-    \ as \u2018full of ice and death and sullen coitus\u2019.\u201D \u2014 Paul Theroux,\
-    \ Sir Vidia's Shadow"
-  title: "\u201CHe [V. S. Naipaul] now hated the\u2026\u201D"
-word_count: 31
+  text: '"He [V. S. Naipaul] now hated the very word ''Scandinavian'' as ''full of
+    ice and death and sullen coitus''." -- Paul Theroux, Sir Vidia''s Shadow'
+  title: '"He [V. S. Naipaul] now hated the..."'
+word_count: 32

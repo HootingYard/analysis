@@ -2,12 +2,6 @@ ngrams:
 - - religion
   - policy
   - customs
-- - below
-  - captain
-  - samuel
-- - those
-  - below
-  - captain
 - - six
   - hours
   - after
@@ -35,15 +29,21 @@ ngrams:
 - - side
   - upon
   - which
+- - strong
+  - holds
+  - have
+- - strong
+  - holds
+  - have
 story:
   date: 2005-07-12
   id: 2005-07-12-their-strong-holds-have-all-the-open
-  text: "\u201CTheir strong Holds have all the open Places cover'd with Canvass stretch'd\
-    \ from Side to Side; upon which is strew'd an Herb so venemous, that, in six Hours\
-    \ after it has been expos'd to the Sun, it emits so pestiferous a Stench, that\
-    \ no Fowl can approach it by many Yards, but what will fall dead; and this Stench,\
-    \ by the Effluvia mounting, is no way offensive to those below.\u201D \u2014 Captain\
-    \ Samuel Brunt, A Voyage To Cacklogallinia, With A Description Of The Religion,\
-    \ Policy, Customs And Manners of That Country"
-  title: "\u201CTheir strong Holds have all the open\u2026\u201D"
-word_count: 97
+  text: '"Their strong Holds have all the open Places cover''d with Canvass stretch''d
+    from Side to Side; upon which is strew''d an Herb so venemous, that, in six Hours
+    after it has been expos''d to the Sun, it emits so pestiferous a Stench, that
+    no Fowl can approach it by many Yards, but what will fall dead; and this Stench,
+    by the Effluvia mounting, is no way offensive to those below." -- Captain Samuel
+    Brunt, A Voyage To Cacklogallinia, With A Description Of The Religion, Policy,
+    Customs And Manners of That Country'
+  title: '"Their strong Holds have all the open..."'
+word_count: 98

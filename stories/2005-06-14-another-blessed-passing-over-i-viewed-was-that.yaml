@@ -32,9 +32,6 @@ ngrams:
 - - poor
   - little
   - human
-- - died
-  - shortly
-  - before
 - - sphere
   - where
   - love
@@ -56,24 +53,26 @@ ngrams:
 - - this
   - dear
   - dumb
-- - had
-  - died
-  - shortly
+- - pup
+  - without
+  - this
+- - without
+  - this
+  - dear
 story:
   date: 2005-06-14
   id: 2005-06-14-another-blessed-passing-over-i-viewed-was-that
-  text: "\u201CAnother blessed \u2018passing-over\u2019 I viewed was that of a little\
-    \ girl on earth crippled by an accident in which she was run over by a heavy dray,\
-    \ and which necessitated the amputation of her leg. Her mother had \u2018died\u2019\
-    \ shortly before this accident, and she was left in the charge of people who had\
-    \ no kindliness, were hard and callous, her one sympathetic companion a little\
-    \ spaniel pup. Without this dear dumb brute, existence would have been well-nigh\
-    \ unbearable. A neglected chill resulting in pneumonia happily finished off this\
-    \ poor little human fragment and relegated her to a sphere where love and happiness\
-    \ awaited her. The mother, attended by a band, of which I was a member, watched\
-    \ at the \u2018death\u2019-bed of this sweet little creature, and when the last\
-    \ breath of life had been drawn in that frail body, helped the luminous soul to\
-    \ ascend to a fairer setting.\u201D \u2014 Lilian Walbrook, The Case Of Lester\
-    \ Coltman"
-  title: "\u201CAnother blessed \u2018passing-over\u2019 I viewed was that\u2026\u201D"
+  text: '"Another blessed ''passing-over'' I viewed was that of a little girl on earth
+    crippled by an accident in which she was run over by a heavy dray, and which necessitated
+    the amputation of her leg. Her mother had ''died'' shortly before this accident,
+    and she was left in the charge of people who had no kindliness, were hard and
+    callous, her one sympathetic companion a little spaniel pup. Without this dear
+    dumb brute, existence would have been well-nigh unbearable. A neglected chill
+    resulting in pneumonia happily finished off this poor little human fragment and
+    relegated her to a sphere where love and happiness awaited her. The mother, attended
+    by a band, of which I was a member, watched at the ''death''-bed of this sweet
+    little creature, and when the last breath of life had been drawn in that frail
+    body, helped the luminous soul to ascend to a fairer setting." -- Lilian Walbrook,
+    The Case Of Lester Coltman'
+  title: '"Another blessed ''passing-over'' I viewed was that..."'
 word_count: 165

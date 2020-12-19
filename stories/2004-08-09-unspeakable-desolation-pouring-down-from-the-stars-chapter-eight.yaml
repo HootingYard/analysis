@@ -77,6 +77,9 @@ ngrams:
 - - stamp
   - collection
   - stolen
+- - invented
+  - brilliantly
+  - i'm
 - - nurse
   - says
   - he's
@@ -86,9 +89,6 @@ ngrams:
 - - wooden
   - stool
   - frantic
-- - bureaucracy
-  - albeit
-  - fictional
 - - it's
   - incredibly
   - complicated
@@ -134,6 +134,9 @@ ngrams:
 - - room
   - wherein
   - lurked
+- - luckily
+  - i've
+  - done
 - - someone
   - else
   - takes
@@ -155,9 +158,6 @@ ngrams:
 - - everyone
   - else
   - seems
-- - always
-  - shout
-  - you've
 - - discovered
   - further
   - supplies
@@ -182,6 +182,9 @@ ngrams:
 - - paraphrase
   - question
   - number
+- - devils
+  - i'll
+  - get
 - - flue
   - brothers
   - each
@@ -191,9 +194,6 @@ ngrams:
 - - desperately
   - oh
   - right
-- - ll
-  - get
-  - someone
 - - dank
   - corridors
   - until
@@ -203,6 +203,9 @@ ngrams:
 - - fetch
   - another
   - tape
+- - i'll
+  - get
+  - someone
 - - please
   - forgive
   - another
@@ -218,6 +221,9 @@ ngrams:
 - - most
   - irritating
   - laughter
+- - managed
+  - i've
+  - come
 - - hummed
   - gently
   - mr
@@ -239,6 +245,9 @@ ngrams:
 - - tedious
   - little
   - dialogue
+- - well
+  - luckily
+  - i've
 - - ah
   - well
   - luckily
@@ -281,12 +290,18 @@ ngrams:
 - - 'off'
   - it's
   - incredibly
+- - called
+  - i've
+  - come
 - - hour
   - traipsing
   - through
 - - tap
   - after
   - waiting
+- - shifts
+  - i'm
+  - here
 - - traipsing
   - through
   - various
@@ -314,6 +329,9 @@ ngrams:
 - - desolation
   - pouring
   - down
+- - questions
+  - i'll
+  - just
 - - months
   - 'off'
   - it's
@@ -326,9 +344,6 @@ ngrams:
 - - never
   - mind
   - everyone
-- - ll
-  - just
-  - note
 - - proceed
   - without
   - mr
@@ -347,9 +362,15 @@ ngrams:
 - - heard
   - anyway
   - never
+- - room
+  - i've
+  - never
 - - felt
   - triumphant
   - over
+- - i'll
+  - just
+  - note
 - - sit
   - yourself
   - down
@@ -414,6 +435,9 @@ ngrams:
   - past
   - her
 - - do
+  - shifts
+  - i'm
+- - do
   - alternate
   - weeks
 - - loudly
@@ -431,9 +455,6 @@ ngrams:
 - - then
   - someone
   - else
-- - shouted
-  - people
-  - like
 - - said
   - look
   - look
@@ -461,12 +482,12 @@ ngrams:
 - - their
   - gilt
   - frames
+- - i've
+  - never
+  - even
 - - brothers
   - each
   - do
-- - him
-  - always
-  - shout
 - - see
   - she
   - replied
@@ -482,6 +503,9 @@ ngrams:
 - - imagining
   - what
   - fig
+- - your
+  - stuff
+  - i'll
 - - half
   - been
   - mucking
@@ -575,172 +599,224 @@ ngrams:
 - - there
   - sport
   - yelled
-- - hear
-  - all
-  - sorts
-- - little
-  - head
-  - she
-- - stomped
-  - towards
-  - me
-- - rest
-  - your
-  - little
-- - mister
-  - who
-  - did
-- - don't
-  - know
-  - who
-- - even
-  - seen
-  - him
-- - just
-  - rest
-  - your
 story:
   date: 2004-08-09
   id: 2004-08-09-unspeakable-desolation-pouring-down-from-the-stars-chapter-eight
-  text: "\u201CHELLO!\u201D I CALLED \u201CI\u2019VE come about the tap!\u201D\nAfter\
-    \ waiting for forty five minutes, I was admitted to the gloomy vestibule of Plunkett\
-    \ Hall. The servant who ushered me in was a tall, blond, windswept lad of about\
-    \ my age. He seemed completely out of place in the tenebrous interior, dressed\
-    \ as he was in a T-shirt and shorts, carrying what I imagined to be a surf-board\
-    \ under his arm. His voice, too, was anomalous: not the gravelly croak foretold\
-    \ by my spectre, but a cheery, beach-bum boom, all bonhomie and brag. I have always\
-    \ hated people like that: at school I had devoted much of my time to plotting\
-    \ fantastic calamities for them, none of which I was ever able to realise.\n\u201C\
-    Sit yourself down there, sport,\u201D yelled the lad, pointing to a wooden stool\
-    \ frantic with carvings of imps, basilisks, dragons and devils, \u201CI\u2019\
-    ll get someone to see to you right away.\u201D\nWith that, he pranced off in his\
-    \ flip-flops. I sat down and peered through the gloom, trying to take cognizance\
-    \ of my surroundings. The walls of the vestibule were hung with grim and ancient\
-    \ oil-paintings, their gilt frames dulled by smoke and soot. Huge dark wooden\
-    \ furnishings, each as ornately carved as the stool on which I sat, cluttered\
-    \ the place. The air was thick and stifling. Underfoot, the flagstones were partially\
-    \ hidden by frayed and tattered rugs, on which a large quantity of birdseed had\
-    \ been spilled. Next to the bench stood a three-legged table which had been varnished\
-    \ with shellac, upon which was a tray of buttons. Idly, I picked one up. At that\
-    \ instant, a door crashed open and a towering brute stomped towards me, all fangs\
-    \ and slaver. I dropped the button on the floor.\n\u201CCur! Wretch!\u201D cried\
-    \ the brute, swiping at me wildly with his great fists, \u201CThose are the Buttons\
-    \ of Beb! Tikes like you durst not touch them! Scum!\u201D\nHe finished knocking\
-    \ me half-senseless, then took from his pocket a duster, and wiped the button\
-    \ with surprising daintiness. Replacing it on the tray, he spat at me and charged\
-    \ out of the room as suddenly as he had come. As I rubbed my head, the athletic\
-    \ young man reappeared.\n\u201CCrikey!\u201D he shouted\u2014people like him always\
-    \ shout\u2014\u201DYou've had a scrap and a half! Been mucking about with the\
-    \ buttons, I bet.\u201D\nI nodded.\n\u201CI should have warned you,\u201D he continued,\
-    \ \u201CBut it completely slipped my mind. Scatterbrained or what?\u201D, and\
-    \ he let loose ten seconds of the jolliest and most irritating laughter I have\
-    \ ever heard. \u201CAnyway, never mind. Everyone else seems to be busy at the\
-    \ moment, so I\u2019ll take you to the tap myself. Come on!\u201D\nI followed\
-    \ the youth through a series of rooms which I cannot be bothered to describe.\
-    \ He was still carrying his board. I made a few churlish efforts at joining in\
-    \ with his incessant banter, but my mind was concentrating on a plan of action.\
-    \ Yet again, I found myself imagining what Fig would have done in my place.\n\
-    We got to the room wherein lurked the tap I was presumably meant to fix. It was\
-    \ a huge iron spigot, standing alone in the centre of what I was told was an abandoned\
-    \ indoor hockey pitch.\n\u201COK?\u201D yelled the blond boy, \u201CYou do your\
-    \ stuff. I\u2019ll be back in a jiffy.\u201D\n\u201CWait,\u201D I said, scheming,\
-    \ \u201CThere's paperwork, you know.\u201D\nI made a great show of rummaging in\
-    \ my haversack for non-existent documentation, uttered a few oaths, and took out\
-    \ my notebook and biro.\n\u201CGreat heavens to Betsy,\u201D I said, \u201CI seem\
-    \ to have mislaid the forms. Ah, well. Luckily I\u2019ve done so many of these\
-    \ jobs I can remember all the questions. I\u2019ll just note the answers down\
-    \ in my pad and fill in the forms when I get back to the depot.\u201D\nI was overacting\
-    \ a bit, but the boy seemed convinced.\n\u201CFire away, old bean!\u201D he shouted,\
-    \ leaning his board against the wall.\n\u201CWho is the owner of the property?\u201D\
-    \ I asked.\n\u201CThe tap or the house?\u201D he replied. He was either stupid\
-    \ or sly: probably the former, but I decided to be careful.\n\u201CAre they not\
-    \ one and the same?\u201D\n\u201COh, I suppose they are,\u201D he said, \u201C\
-    The ownership of Plunkett Hall is a bit of a mystery, though. I think the lease\
-    \ is held by the Hooting Yard Bell-Ringing Society, but I\u2019d have to check.\u201D\
-    \nThis was going to be more difficult than I thought. I scribbled down what he\
-    \ had said and, improvising, pretended to paraphrase question number two.\n\u201C\
-    Names of all those resident in the property.\u201D\n\u201CPhew!\u201D he phewed,\
-    \ \u201CNow I can't help you there. All of them?\u201D\n\u201CThe lot,\u201D I\
-    \ insisted.\n\u201CI only know some of them, you see. We sort of do shifts. I\u2019\
-    m here for the first half of the month, but then someone else takes over. There's\
-    \ so many comings and goings. Mr Slop and Mr Cravat do alternate weeks. Mrs Skim\
-    \ comes in every Thursday. The Flue brothers each do six months on and six months\
-    \ off. It's incredibly complicated.\u201D\nI scribbled rubbish in my notebook,\
-    \ playing for time.\n\u201CWhat I need for the form,\u201D I said slowly, trying\
-    \ to think of something, \u201CIs a list of the people resident in the property\
-    \ at the time of the repair. On the day of the repair.\u201D He didn't say a word.\n\
-    \u201CThe repair of the tap,\u201D I added, desperately.\n\u201COh, right,\u201D\
-    \ he said, \u201CLet me think. There's me, of course, and Mr Slop, and Ignacio\
-    \ Housemartin, the gardener, and two people whose names I don't know, who work\
-    \ in the attic, and Pansy Crague, and the Bingle family\u2026\u201D\nHe carried\
-    \ on like this for longer than I could bear. Not once did he mention my quarry,\
-    \ Istvan Plunkett. I interrupted him.\n\u201CWho is the head of this confounded\
-    \ household?\u201D\nHe looked blank, but some sort of activity was taking place\
-    \ inside his head.\n\u201COh, you must mean the old geezer with the wooden leg!\u201D\
-    \ he yelled, eventually, \u201CThe nurse says he's too ill to come out of his\
-    \ room. I\u2019ve never even seen him myself, but you hear all sorts of strange\
-    \ stories\u2026\u201D\nI pondered whether or not to let the youth continue with\
-    \ his prattle, and decided against it.\n\u201CI have to have his signature,\u201D\
-    \ I invented brilliantly, \u201CI\u2019m not allowed to do the job without his\
-    \ written permission.\u201D\nIt was the boy's turn to ponder, but I had bureaucracy\u2014\
-    albeit fictional\u2014on my side. After some blather, he caved in, and we left\
-    \ the tap-room and spent half an hour traipsing through various dank corridors\
-    \ until we fetched up outside a door marked The Master's Chambers. I felt triumphant.\
-    \ Over half a century ago, the sainted Mister Patch had had his stamp collection\
-    \ stolen, and now I had run to earth the man who, I was convinced, held the album\
-    \ in his guilty paws. The youth rapped on the door and fled, muttering that he\
-    \ would leave me in the hands of the nurse. A minute passed. I rapped on the door\
-    \ myself. It was opened at once, and I found myself face to face with the great\
-    \ film actress Vilma Banky. Of course, it wasn't really that siren of the silver\
-    \ screen, all kitted out as a house-nurse, but the resemblance was astonishing.\n\
-    \u201CYes?\u201D, she drawled, detaching a cheroot from her lips.\n\u201CEr,\u201D\
-    \ I managed, \u201CI\u2019ve come about the tap. I need Mr Plunkett's signature.\u201D\
-    \n\u201CCome on in,\u201D she rustled. I edged past her into a room sumptuous\
-    \ with wall-hangings, decorative fire-screens, and plush soft furnishings. In\
-    \ the middle of it all was a business-like desk, at which the nurse now sat down.\
-    \ Playfully, she flicked the ash from her cheroot into an ashtray, opened a drawer\
-    \ in the desk, and took out a small dictaphone.\n\u201CDon't perturb yourself,\u201D\
-    \ she breathed, \u201CI always tape my conversations here. One has to be careful.\u201D\
-    \n\u201CUm,\u201D I replied.\n\u201CMister who did you say?\u201D she asked, switching\
-    \ on the little machine, which hummed gently.\n\u201CMr Plunkett,\u201D I repeated.\n\
-    \u201CWould that be Istvan Plunkett, the noted philatelist?\u201D\n\u201CYes,\
-    \ it would.\u201D\n\u201CBe kind enough to speak up a bit,\u201D she said, \u201C\
-    You're not registering on the mike.\u201D\n\u201COh. Yes. It would.\u201D I said\
-    \ loudly, but not loudly enough: she got me to repeat it a second time.\n\u201C\
-    That's fine,\u201D she said. \u201CNow let me understand you. You've come here\
-    \ to get Istvan Plunkett's signature, is that right?\u201D\nWhat was it with the\
-    \ people in this house? The youth had struck me as something of a dunderpate,\
-    \ but if anything he was quicker on the uptake than the nurse. But I have always\
-    \ prided myself on my almost inhuman patience.\n\u201CYes,\u201D I said, then,\
-    \ remembering to raise my voice, explained, \u201CI have come here to mend the\
-    \ tap. I cannot proceed without Mr Plunkett's signature. I have to witness him\
-    \ signing the paper.\u201D\n\u201CI see,\u201D she replied, \u201CAnd what tap\
-    \ would that be?\u201D\nIf, reader, you are losing patience at this point, imagine\
-    \ how I felt. I think it best to pass over the next ten minutes, which consisted\
-    \ of an unbelievably tedious little dialogue, of interest to no one except perhaps\
-    \ a plumbing fanatic. Eventually, I was rescued from death by boredom when the\
-    \ dictaphone tape ran out.\n\u201CExcuse me,\u201D said the nurse, \u201CI shall\
-    \ have to fetch another tape.\u201D\n\u201CLook,\u201D I said, \u201CLook look\
-    \ look. Surely I can just be shown to Mr Plunkett and he can sign my paper and\
-    \ I\u2019ll be on my way?\u201D\nShe was already heading for the door, but stopped,\
-    \ and turned towards me.\n\u201CYou must be under a misapprehension,\u201D she\
-    \ said, gazing at me with her houri eyes, \u201CThere is no Mr Plunkett in this\
-    \ house.\u201D\nWell, stap my chives! I was, and this is not an understatement,\
-    \ flabbergasted. Please forgive another hiatus in the narrative, but you would\
-    \ be ill-rewarded by a detailed description of me huffing and spluttering, and\
-    \ the nurse explaining calmly that the noted philatelist Istvan Plunkett had died\
-    \ in his bath seventeen years ago, and that the house which bore his name was\
-    \ now rented by the elderly, ailing, and wooden-legged ex-president of the Hooting\
-    \ Yard Bell-Ringing Society, Rudyard Splint, who was languishing in what promised\
-    \ to be his death-bed in an adjacent room, stuffed up to the eyeballs with tablets,\
-    \ infusions and pills.\nWhen I had calmed down, I realised that I needed time\
-    \ to think. The nurse was most solicitous, lying me down on one of the room's\
-    \ many sofas and handing me a bone-china mug and a decanter of 1899 vintage Feisty\
-    \ Pillager.\n\u201CYou just rest your little head,\u201D she purred, and was gone.\n\
-    I said I needed time to think, but first I decided to get horribly drunk. I drained\
-    \ the decanter in minutes, and soon discovered further supplies of hooch in a\
-    \ corner cabinet. I picked out a bottle of Gormless Wastrel, sucked on that for\
-    \ a while, and eventually found oblivion with a hefty flagon of Mahout's Dropsy,\
-    \ which was hidden behind the dressing-table.\nChapter Nine \u2026"
+  text: '"HELLO!" I CALLED "I''VE come about the tap!"
+
+    After waiting for forty five minutes, I was admitted to the gloomy vestibule of
+    Plunkett Hall. The servant who ushered me in was a tall, blond, windswept lad
+    of about my age. He seemed completely out of place in the tenebrous interior,
+    dressed as he was in a T-shirt and shorts, carrying what I imagined to be a surf-board
+    under his arm. His voice, too, was anomalous: not the gravelly croak foretold
+    by my spectre, but a cheery, beach-bum boom, all bonhomie and brag. I have always
+    hated people like that: at school I had devoted much of my time to plotting fantastic
+    calamities for them, none of which I was ever able to realise.
+
+    "Sit yourself down there, sport," yelled the lad, pointing to a wooden stool frantic
+    with carvings of imps, basilisks, dragons and devils, "I''ll get someone to see
+    to you right away."
+
+    With that, he pranced off in his flip-flops. I sat down and peered through the
+    gloom, trying to take cognizance of my surroundings. The walls of the vestibule
+    were hung with grim and ancient oil-paintings, their gilt frames dulled by smoke
+    and soot. Huge dark wooden furnishings, each as ornately carved as the stool on
+    which I sat, cluttered the place. The air was thick and stifling. Underfoot, the
+    flagstones were partially hidden by frayed and tattered rugs, on which a large
+    quantity of birdseed had been spilled. Next to the bench stood a three-legged
+    table which had been varnished with shellac, upon which was a tray of buttons.
+    Idly, I picked one up. At that instant, a door crashed open and a towering brute
+    stomped towards me, all fangs and slaver. I dropped the button on the floor.
+
+    "Cur! Wretch!" cried the brute, swiping at me wildly with his great fists, "Those
+    are the Buttons of Beb! Tikes like you durst not touch them! Scum!"
+
+    He finished knocking me half-senseless, then took from his pocket a duster, and
+    wiped the button with surprising daintiness. Replacing it on the tray, he spat
+    at me and charged out of the room as suddenly as he had come. As I rubbed my head,
+    the athletic young man reappeared.
+
+    "Crikey!" he shouted--people like him always shout--"You''ve had a scrap and a
+    half! Been mucking about with the buttons, I bet."
+
+    I nodded.
+
+    "I should have warned you," he continued, "But it completely slipped my mind.
+    Scatterbrained or what?", and he let loose ten seconds of the jolliest and most
+    irritating laughter I have ever heard. "Anyway, never mind. Everyone else seems
+    to be busy at the moment, so I''ll take you to the tap myself. Come on!"
+
+    I followed the youth through a series of rooms which I cannot be bothered to describe.
+    He was still carrying his board. I made a few churlish efforts at joining in with
+    his incessant banter, but my mind was concentrating on a plan of action. Yet again,
+    I found myself imagining what Fig would have done in my place.
+
+    We got to the room wherein lurked the tap I was presumably meant to fix. It was
+    a huge iron spigot, standing alone in the centre of what I was told was an abandoned
+    indoor hockey pitch.
+
+    "OK?" yelled the blond boy, "You do your stuff. I''ll be back in a jiffy."
+
+    "Wait," I said, scheming, "There''s paperwork, you know."
+
+    I made a great show of rummaging in my haversack for non-existent documentation,
+    uttered a few oaths, and took out my notebook and biro.
+
+    "Great heavens to Betsy," I said, "I seem to have mislaid the forms. Ah, well.
+    Luckily I''ve done so many of these jobs I can remember all the questions. I''ll
+    just note the answers down in my pad and fill in the forms when I get back to
+    the depot."
+
+    I was overacting a bit, but the boy seemed convinced.
+
+    "Fire away, old bean!" he shouted, leaning his board against the wall.
+
+    "Who is the owner of the property?" I asked.
+
+    "The tap or the house?" he replied. He was either stupid or sly: probably the
+    former, but I decided to be careful.
+
+    "Are they not one and the same?"
+
+    "Oh, I suppose they are," he said, "The ownership of Plunkett Hall is a bit of
+    a mystery, though. I think the lease is held by the Hooting Yard Bell-Ringing
+    Society, but I''d have to check."
+
+    This was going to be more difficult than I thought. I scribbled down what he had
+    said and, improvising, pretended to paraphrase question number two.
+
+    "Names of all those resident in the property."
+
+    "Phew!" he phewed, "Now I can''t help you there. All of them?"
+
+    "The lot," I insisted.
+
+    "I only know some of them, you see. We sort of do shifts. I''m here for the first
+    half of the month, but then someone else takes over. There''s so many comings
+    and goings. Mr Slop and Mr Cravat do alternate weeks. Mrs Skim comes in every
+    Thursday. The Flue brothers each do six months on and six months off. It''s incredibly
+    complicated."
+
+    I scribbled rubbish in my notebook, playing for time.
+
+    "What I need for the form," I said slowly, trying to think of something, "Is a
+    list of the people resident in the property at the time of the repair. On the
+    day of the repair." He didn''t say a word.
+
+    "The repair of the tap," I added, desperately.
+
+    "Oh, right," he said, "Let me think. There''s me, of course, and Mr Slop, and
+    Ignacio Housemartin, the gardener, and two people whose names I don''t know, who
+    work in the attic, and Pansy Crague, and the Bingle family..."
+
+    He carried on like this for longer than I could bear. Not once did he mention
+    my quarry, Istvan Plunkett. I interrupted him.
+
+    "Who is the head of this confounded household?"
+
+    He looked blank, but some sort of activity was taking place inside his head.
+
+    "Oh, you must mean the old geezer with the wooden leg!" he yelled, eventually,
+    "The nurse says he''s too ill to come out of his room. I''ve never even seen him
+    myself, but you hear all sorts of strange stories..."
+
+    I pondered whether or not to let the youth continue with his prattle, and decided
+    against it.
+
+    "I have to have his signature," I invented brilliantly, "I''m not allowed to do
+    the job without his written permission."
+
+    It was the boy''s turn to ponder, but I had bureaucracy--albeit fictional--on
+    my side. After some blather, he caved in, and we left the tap-room and spent half
+    an hour traipsing through various dank corridors until we fetched up outside a
+    door marked The Master''s Chambers. I felt triumphant. Over half a century ago,
+    the sainted Mister Patch had had his stamp collection stolen, and now I had run
+    to earth the man who, I was convinced, held the album in his guilty paws. The
+    youth rapped on the door and fled, muttering that he would leave me in the hands
+    of the nurse. A minute passed. I rapped on the door myself. It was opened at once,
+    and I found myself face to face with the great film actress Vilma Banky. Of course,
+    it wasn''t really that siren of the silver screen, all kitted out as a house-nurse,
+    but the resemblance was astonishing.
+
+    "Yes?", she drawled, detaching a cheroot from her lips.
+
+    "Er," I managed, "I''ve come about the tap. I need Mr Plunkett''s signature."
+
+    "Come on in," she rustled. I edged past her into a room sumptuous with wall-hangings,
+    decorative fire-screens, and plush soft furnishings. In the middle of it all was
+    a business-like desk, at which the nurse now sat down. Playfully, she flicked
+    the ash from her cheroot into an ashtray, opened a drawer in the desk, and took
+    out a small dictaphone.
+
+    "Don''t perturb yourself," she breathed, "I always tape my conversations here.
+    One has to be careful."
+
+    "Um," I replied.
+
+    "Mister who did you say?" she asked, switching on the little machine, which hummed
+    gently.
+
+    "Mr Plunkett," I repeated.
+
+    "Would that be Istvan Plunkett, the noted philatelist?"
+
+    "Yes, it would."
+
+    "Be kind enough to speak up a bit," she said, "You''re not registering on the
+    mike."
+
+    "Oh. Yes. It would." I said loudly, but not loudly enough: she got me to repeat
+    it a second time.
+
+    "That''s fine," she said. "Now let me understand you. You''ve come here to get
+    Istvan Plunkett''s signature, is that right?"
+
+    What was it with the people in this house? The youth had struck me as something
+    of a dunderpate, but if anything he was quicker on the uptake than the nurse.
+    But I have always prided myself on my almost inhuman patience.
+
+    "Yes," I said, then, remembering to raise my voice, explained, "I have come here
+    to mend the tap. I cannot proceed without Mr Plunkett''s signature. I have to
+    witness him signing the paper."
+
+    "I see," she replied, "And what tap would that be?"
+
+    If, reader, you are losing patience at this point, imagine how I felt. I think
+    it best to pass over the next ten minutes, which consisted of an unbelievably
+    tedious little dialogue, of interest to no one except perhaps a plumbing fanatic.
+    Eventually, I was rescued from death by boredom when the dictaphone tape ran out.
+
+    "Excuse me," said the nurse, "I shall have to fetch another tape."
+
+    "Look," I said, "Look look look. Surely I can just be shown to Mr Plunkett and
+    he can sign my paper and I''ll be on my way?"
+
+    She was already heading for the door, but stopped, and turned towards me.
+
+    "You must be under a misapprehension," she said, gazing at me with her houri eyes,
+    "There is no Mr Plunkett in this house."
+
+    Well, stap my chives! I was, and this is not an understatement, flabbergasted.
+    Please forgive another hiatus in the narrative, but you would be ill-rewarded
+    by a detailed description of me huffing and spluttering, and the nurse explaining
+    calmly that the noted philatelist Istvan Plunkett had died in his bath seventeen
+    years ago, and that the house which bore his name was now rented by the elderly,
+    ailing, and wooden-legged ex-president of the Hooting Yard Bell-Ringing Society,
+    Rudyard Splint, who was languishing in what promised to be his death-bed in an
+    adjacent room, stuffed up to the eyeballs with tablets, infusions and pills.
+
+    When I had calmed down, I realised that I needed time to think. The nurse was
+    most solicitous, lying me down on one of the room''s many sofas and handing me
+    a bone-china mug and a decanter of 1899 vintage Feisty Pillager.
+
+    "You just rest your little head," she purred, and was gone.
+
+    I said I needed time to think, but first I decided to get horribly drunk. I drained
+    the decanter in minutes, and soon discovered further supplies of hooch in a corner
+    cabinet. I picked out a bottle of Gormless Wastrel, sucked on that for a while,
+    and eventually found oblivion with a hefty flagon of Mahout''s Dropsy, which was
+    hidden behind the dressing-table.
+
+    Chapter Nine ...'
   title: Unspeakable Desolation Pouring Down From the Stars, Chapter Eight
-word_count: 1871
+word_count: 1856

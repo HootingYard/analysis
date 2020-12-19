@@ -8,32 +8,31 @@ ngrams:
 - - isaac
   - g
   - briggs
-- - hundred
-  - isaac
-  - g
 - - six
   - hundred
   - people
 - - every
   - six
   - hundred
-- - two
-  - hundred
-  - isaac
 - - our
   - forefathers
   - knew
 - - every
   - two
   - hundred
+- - knew
+  - what
+  - peace
+- - their
+  - few
+  - ailments
 story:
   date: 2005-05-26
   id: 2005-05-26-in-bygone-days-the-world-was-a
-  text: "\u201CIn bygone days the world was a peaceful place, in which our forefathers\
-    \ knew not the blessings of Bile Beans \u2026 They were sound trenchermen, who\
-    \ called their few ailments \u2018humours\u2019 or \u2018vapours\u2019 and knew\
-    \ what peace of mind meant. Sixty years ago there was one lunatic in every six\
-    \ hundred people; to-day there is one in every two hundred.\u201D \u2014 Isaac\
-    \ G Briggs, Epilepsy, Hysteria And Neurasthenia"
-  title: "\u201CIn bygone days the world was a\u2026\u201D"
-word_count: 73
+  text: '"In bygone days the world was a peaceful place, in which our forefathers
+    knew not the blessings of Bile Beans ... They were sound trenchermen, who called
+    their few ailments ''humours'' or ''vapours'' and knew what peace of mind meant.
+    Sixty years ago there was one lunatic in every six hundred people; to-day there
+    is one in every two hundred." -- Isaac G Briggs, Epilepsy, Hysteria And Neurasthenia'
+  title: '"In bygone days the world was a..."'
+word_count: 74

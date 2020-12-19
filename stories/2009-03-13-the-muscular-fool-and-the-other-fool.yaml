@@ -155,9 +155,6 @@ ngrams:
 - - three
   - bears
   - told
-- - bears
-  - cottage
-  - while
 - - too
   - busy
   - keeping
@@ -599,6 +596,9 @@ ngrams:
 - - had
   - dug
   - deep
+- - would
+  - depend
+  - upon
 story:
   date: 2009-03-13
   id: 2009-03-13-the-muscular-fool-and-the-other-fool
@@ -606,64 +606,64 @@ story:
     \ the fool put aside the spade and sat down in the hole, deep enough in this instance\
     \ meaning that from his sitting position his head was below ground level. The\
     \ ground itself was fallow. We should remember, even if the fool did not, that\
-    \ \u201CThe lark's shrill fife may come / At the daybreak from the fallow\u201D\
-    . So, at least, was the assertion of Sir Walter Scott in The Lady Of The Lake.\
-    \ He goes on to say that \u201Cthe bittern sound[s] his drum / Booming from the\
-    \ sedgy shallow\u201D, but there were no shallows, sedgy or otherwise, in this\
-    \ fallow where the fool sat in a hole he'd dug, nor any bitterns to boom. Scott\
-    \ brought a curse upon himself by making disparaging remarks about the Muggletonians\
-    \ in one of his novels*, but the fool had not been cursed. He was simply a fool.\n\
-    It is pointless to ask of such a person, \u201Cwhy have you done what you have\
-    \ done?\u201D Either he will not reply, or, if he does, he will dizzy your brain\
-    \ with his explanation. You might understand the individual words he shouts or\
-    \ mutters at you, but you will be hard pressed to make any sense of them when\
-    \ you join them together. That is one of the things about fools, they drive a\
-    \ stake through the heart of reason. I used to be a fool, so I know that only\
-    \ too well.\nI was not the kind of fool to dig holes in the ground with a spade,\
-    \ for my foolishness led me down other pathways. I could often be found in department\
-    \ stores, wandering from one floor to another, via the escalators, up and down,\
-    \ all day long, never making a purchase, followed about by in-house detectives,\
-    \ chanting. I mean that I was chanting, not the detectives. The detectives had\
-    \ no time to chant, they were too busy keeping track of me.\nThey would have had\
-    \ no trouble tracking the fool with the spade, for he had dug his hole in the\
-    \ ground and now he was sat in it, quite still. The in-house department store\
-    \ detectives could have gathered in a ring at the rim of the hole and kept their\
-    \ eyes on the fool for hours. But they would not be likely to do so. Being in-house\
-    \ types they did not do any detecting outwith the precincts of the department\
-    \ store itself, not unless one of them went rogue, and was overzealous in his\
-    \ duties. That had been known to happen. But not on this occasion.\nFools come\
-    \ in all shapes and sizes. The fool in the hole in the fallow was muscular, which\
-    \ ought not be a surprise when you consider that it takes some strength to dig\
-    \ a hole in the ground deep enough to sit in so that one's head is hidden from\
-    \ view. You or I might be panting and shaking after such exertion, but the fool\
-    \ sat in his newly dug hole looking for all the world as if the most energetic\
-    \ thing he had done all day was to stir a spoon in a bowl. That was what he had\
-    \ done first thing, before marching across the fallow with a spade over his shoulder.\
-    \ He had poured porridge into a bowl, like a bear in a fairy tale, and then stirred\
-    \ it with a spoon, and then spooned it bit by bit into his mouth and swallowed\
-    \ it, and then he licked the bowl clean. These were not the actions of a fool\
-    \ by any means, but then most fools have moments, even whole mornings, of lucidity.\
-    \ Yet as soon as he had prepared and eaten a sensible breakfast, the fool reverted\
-    \ to inexplicably foolish behaviour, and went out and dug a hole and sat in it.\n\
-    When I was a fool, I too usually ate a proper breakfast at the start of the day,\
-    \ though in my case it was rarely porridge. I had been traumatised by the version\
-    \ of the fairy tale of the three bears told to me as a bedtime story by my Ma.\
-    \ In Miss Eleanor Mure's telling of 1832, it is not Goldilocks who enters the\
-    \ bears\u2019 cottage while they are out and about, but an ill-tempered old woman.\
-    \ When the bears come home, they first try to burn her, then to drown her, before\
-    \ finally chucking her aloft on St Paul's churchyard steeple, upon which she is\
-    \ impaled. Thus as an infant there was fixed within my little brain the association\
-    \ of porridge with impalement, and I became keen on cornflakes. Even at the peak\
-    \ of my foolishness, I seldom set out without a stomach full of Mr Kellogg's finest.\
-    \ When milk was scarce, as it often was, given the pitiable state of the cows\
-    \ where I grew up, I would just shovel the cornflakes down my gullet straight\
-    \ from the carton.\nIt may be the case that the fool in the hole sometimes had\
-    \ to make do with dry oats for his breakfast, if he too experienced problems obtaining\
-    \ uncontaminated milk. That would depend upon the cows in his locality, and whether\
-    \ they were hale or sickly. Irrespective of their health, and the potability or\
-    \ otherwise of their milk, it could happen that a blundering cow might roam into\
-    \ the fallow field and topple into the hole dug by the fool. If the fool was still\
-    \ sitting in his hole, he would find himself underneath a panic-stricken and possibly\
+    \ \"The lark's shrill fife may come / At the daybreak from the fallow\". So, at\
+    \ least, was the assertion of Sir Walter Scott in The Lady Of The Lake. He goes\
+    \ on to say that \"the bittern sound[s] his drum / Booming from the sedgy shallow\"\
+    , but there were no shallows, sedgy or otherwise, in this fallow where the fool\
+    \ sat in a hole he'd dug, nor any bitterns to boom. Scott brought a curse upon\
+    \ himself by making disparaging remarks about the Muggletonians in one of his\
+    \ novels*, but the fool had not been cursed. He was simply a fool.\nIt is pointless\
+    \ to ask of such a person, \"why have you done what you have done?\" Either he\
+    \ will not reply, or, if he does, he will dizzy your brain with his explanation.\
+    \ You might understand the individual words he shouts or mutters at you, but you\
+    \ will be hard pressed to make any sense of them when you join them together.\
+    \ That is one of the things about fools, they drive a stake through the heart\
+    \ of reason. I used to be a fool, so I know that only too well.\nI was not the\
+    \ kind of fool to dig holes in the ground with a spade, for my foolishness led\
+    \ me down other pathways. I could often be found in department stores, wandering\
+    \ from one floor to another, via the escalators, up and down, all day long, never\
+    \ making a purchase, followed about by in-house detectives, chanting. I mean that\
+    \ I was chanting, not the detectives. The detectives had no time to chant, they\
+    \ were too busy keeping track of me.\nThey would have had no trouble tracking\
+    \ the fool with the spade, for he had dug his hole in the ground and now he was\
+    \ sat in it, quite still. The in-house department store detectives could have\
+    \ gathered in a ring at the rim of the hole and kept their eyes on the fool for\
+    \ hours. But they would not be likely to do so. Being in-house types they did\
+    \ not do any detecting outwith the precincts of the department store itself, not\
+    \ unless one of them went rogue, and was overzealous in his duties. That had been\
+    \ known to happen. But not on this occasion.\nFools come in all shapes and sizes.\
+    \ The fool in the hole in the fallow was muscular, which ought not be a surprise\
+    \ when you consider that it takes some strength to dig a hole in the ground deep\
+    \ enough to sit in so that one's head is hidden from view. You or I might be panting\
+    \ and shaking after such exertion, but the fool sat in his newly dug hole looking\
+    \ for all the world as if the most energetic thing he had done all day was to\
+    \ stir a spoon in a bowl. That was what he had done first thing, before marching\
+    \ across the fallow with a spade over his shoulder. He had poured porridge into\
+    \ a bowl, like a bear in a fairy tale, and then stirred it with a spoon, and then\
+    \ spooned it bit by bit into his mouth and swallowed it, and then he licked the\
+    \ bowl clean. These were not the actions of a fool by any means, but then most\
+    \ fools have moments, even whole mornings, of lucidity. Yet as soon as he had\
+    \ prepared and eaten a sensible breakfast, the fool reverted to inexplicably foolish\
+    \ behaviour, and went out and dug a hole and sat in it.\nWhen I was a fool, I\
+    \ too usually ate a proper breakfast at the start of the day, though in my case\
+    \ it was rarely porridge. I had been traumatised by the version of the fairy tale\
+    \ of the three bears told to me as a bedtime story by my Ma. In Miss Eleanor Mure's\
+    \ telling of 1832, it is not Goldilocks who enters the bears' cottage while they\
+    \ are out and about, but an ill-tempered old woman. When the bears come home,\
+    \ they first try to burn her, then to drown her, before finally chucking her aloft\
+    \ on St Paul's churchyard steeple, upon which she is impaled. Thus as an infant\
+    \ there was fixed within my little brain the association of porridge with impalement,\
+    \ and I became keen on cornflakes. Even at the peak of my foolishness, I seldom\
+    \ set out without a stomach full of Mr Kellogg's finest. When milk was scarce,\
+    \ as it often was, given the pitiable state of the cows where I grew up, I would\
+    \ just shovel the cornflakes down my gullet straight from the carton.\nIt may\
+    \ be the case that the fool in the hole sometimes had to make do with dry oats\
+    \ for his breakfast, if he too experienced problems obtaining uncontaminated milk.\
+    \ That would depend upon the cows in his locality, and whether they were hale\
+    \ or sickly. Irrespective of their health, and the potability or otherwise of\
+    \ their milk, it could happen that a blundering cow might roam into the fallow\
+    \ field and topple into the hole dug by the fool. If the fool was still sitting\
+    \ in his hole, he would find himself underneath a panic-stricken and possibly\
     \ injured cow. Being a muscular fool, he would probably be able to push the cow\
     \ off him and to climb out of the hole. One might hope that pangs of compassion\
     \ would burst through his foolishness, at least temporarily, and that he would\
@@ -724,9 +724,9 @@ story:
     \ with tweezers, and put them in a jar, and I put the jar on my mantelpiece, and\
     \ there it stands. It can do no other. Jars stay put, once you have placed them\
     \ where you want them. I only learned that lesson when I was no longer a fool.\n\
-    \_\n* NOTE : In Woodstock, or The Cavalier (1826), a character named Tonkins meets\
-    \ a violent end. Scott regrets that \u201Chis brains had not been beaten out in\
-    \ his cradle\u201D to prevent him growing up into \u201Cone of those Muggletonians\u201D\
-    . For this he was cursed by Robert Wallis, a Muggletonian from Islington.\n\_"
+    \ \n* NOTE : In Woodstock, or The Cavalier (1826), a character named Tonkins meets\
+    \ a violent end. Scott regrets that \"his brains had not been beaten out in his\
+    \ cradle\" to prevent him growing up into \"one of those Muggletonians\". For\
+    \ this he was cursed by Robert Wallis, a Muggletonian from Islington.\n "
   title: The Muscular Fool And The Other Fool
 word_count: 1858

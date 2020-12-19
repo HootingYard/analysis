@@ -8,19 +8,18 @@ ngrams:
 - - sudden
   - passionate
   - violence
-- - passionate
-  - violence
-  - think
 - - understand
-  - she
-  - shook
+  - you
+  - must
+- - you
+  - must
+  - understand
 story:
   date: 2004-07-06
   id: 2004-07-06-not-dead-get-petrie-cairo-amber-inject
-  text: "\u201C'Not dead\u2026 Get Petrie\u2026 Cairo\u2026 amber\u2026 inject\u2026\
-    ' \u2026 \u2018Surely you understand? You must understand.\u2019 \u2026 She shook\
-    \ Petrie with a sudden passionate violence. \u2018Think! \u2026 The flask is in\
-    \ your safe.\u2019\u201D \u2014 Sax Rohmer, Daughter Of Fu Manchu"
-  title: "\u201C'Not dead\u2026 Get Petrie\u2026 Cairo\u2026 amber\u2026 inject\u2026\
-    '\u2026\u201D"
-word_count: 43
+  text: '"''Not dead... Get Petrie... Cairo... amber... inject...'' ... ''Surely you
+    understand? You must understand.'' ... She shook Petrie with a sudden passionate
+    violence. ''Think! ... The flask is in your safe.''" -- Sax Rohmer, Daughter Of
+    Fu Manchu'
+  title: '"''Not dead... Get Petrie... Cairo... amber... inject...''..."'
+word_count: 46

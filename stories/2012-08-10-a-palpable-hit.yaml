@@ -14,9 +14,6 @@ ngrams:
 - - home
   - unit
   - frank
-- - unit
-  - frank
-  - key
 - - hit
   - birds
   - marries
@@ -26,15 +23,18 @@ ngrams:
 - - entitled
   - little
   - severin
-- - frank
-  - key
-  - birds
 - - come
   - home
   - unit
 - - mr
   - key
   - spouting
+- - cows
+  - come
+  - home
+- - most
+  - remarkable
+  - work
 story:
   date: 2012-08-10
   id: 2012-08-10-a-palpable-hit
@@ -44,7 +44,7 @@ story:
     \ a chart-topping hit. 201 Birds marries a recording of Mr Key spouting the names\
     \ of birds from an old Hooting Yard On The Air show with the actual sounds of\
     \ birds. It is a most remarkable work, and I recommend you listen to it, over\
-    \ and over again, every day, until the cows come home.\n\u266A\u266A\u266A\u266A\
-    \ UNIT & Frank Key\u2014201 Birds \u266A\u266A\u266A\u266A"
+    \ and over again, every day, until the cows come home.\n UNIT & Frank Key--201\
+    \ Birds "
   title: A Palpable Hit!
 word_count: 97

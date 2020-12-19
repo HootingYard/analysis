@@ -1,7 +1,4 @@
 ngrams:
-- - ironmonger
-  - frederick
-  - boyle
 - - messrs
   - b
   - s
@@ -11,9 +8,6 @@ ngrams:
 - - insect
   - within
   - reach
-- - good
-  - ironmonger
-  - frederick
 - - destroys
   - every
   - insect
@@ -23,14 +17,20 @@ ngrams:
 - - different
   - sizes
   - through
+- - any
+  - good
+  - ironmonger
+- - ingenious
+  - frenchman
+  - has
 story:
   date: 2006-01-30
   id: 2006-01-30-an-ingenious-frenchman-has-invented-and-patented
-  text: "\u201CAn ingenious Frenchman has invented and patented in England lately\
-    \ a machine called the Thanatophore, which I confidently recommend. It can be\
-    \ obtained from Messrs B S Williams, of Upper Holloway. The Thanatophore destroys\
-    \ every insect within reach of its vapour, excepting, curiously enough, scaly-bug.\
-    \ The machine may be obtained in different sizes through any good ironmonger.\u201D\
-    \ \u2014 Frederick Boyle, About Orchids"
-  title: "\u201CAn ingenious Frenchman has invented and patented\u2026\u201D"
-word_count: 68
+  text: '"An ingenious Frenchman has invented and patented in England lately a machine
+    called the Thanatophore, which I confidently recommend. It can be obtained from
+    Messrs B S Williams, of Upper Holloway. The Thanatophore destroys every insect
+    within reach of its vapour, excepting, curiously enough, scaly-bug. The machine
+    may be obtained in different sizes through any good ironmonger." -- Frederick
+    Boyle, About Orchids'
+  title: '"An ingenious Frenchman has invented and patented..."'
+word_count: 69

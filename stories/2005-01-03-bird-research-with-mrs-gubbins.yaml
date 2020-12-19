@@ -20,9 +20,6 @@ ngrams:
 - - bbc
   - news
   - site
-- - rich
-  - tea
-  - biscuits
 - - hello
   - readers
   - mrs
@@ -80,25 +77,32 @@ ngrams:
 - - many
   - readers
   - find
+- - insulted
+  - here
+  - before
 story:
   date: 2005-01-03
   id: 2005-01-03-bird-research-with-mrs-gubbins
-  text: "On Christmas Eve, we invited Mrs Gubbins to resume her occasional \u201C\
-    weblink recommendations\u201D which many readers find so invaluable. Indeed, the\
-    \ octogenarian crone became so excited that she brewed an extra pot of tea and\
-    \ ate a whole half-packet of those delicious Rich Tea\u2122 biscuits. So, just\
-    \ over a week later, she's back again:\nHello readers, Mrs Gubbins here. One of\
-    \ the incidental pleasures of the BBC News site is their regular list of Ten Things\
-    \ We Didn't Know This Time Last Week. At year's end, they collected together 100\
-    \ Things, which is my recommendation for you today. A word of warning, however.\
-    \ Many of these hundred things are quite dull, and one of them even mentions that\
-    \ loathsome fraud Clive James, who has been insulted here before*, with good reason.\
-    \ But I was quite taken with number 11, which notes that in its original translation\
-    \ The Communist Manifesto spoke not of \u201Ca spectre haunting Europe\u201D,\
-    \ but of a \u201Cfrightful hobgoblin\u201D, which is much more thrilling, and\
-    \ number 21, on the earliest use of the word \u201Celectricity\u201D.\nIt is the\
-    \ bird facts, though, that make the site worth a visit. Find out about crows (4),\
-    \ pigeons (9), ducks (73), and birds crashing into buildings (76). There is also\
-    \ a photograph of some penguins.\n* NOTE:See \u201CMinor Rant\u201D,19 September."
+  text: 'On Christmas Eve, we invited Mrs Gubbins to resume her occasional "weblink
+    recommendations" which many readers find so invaluable. Indeed, the octogenarian
+    crone became so excited that she brewed an extra pot of tea and ate a whole half-packet
+    of those delicious Rich Tea(tm) biscuits. So, just over a week later, she''s back
+    again:
+
+    Hello readers, Mrs Gubbins here. One of the incidental pleasures of the BBC News
+    site is their regular list of Ten Things We Didn''t Know This Time Last Week.
+    At year''s end, they collected together 100 Things, which is my recommendation
+    for you today. A word of warning, however. Many of these hundred things are quite
+    dull, and one of them even mentions that loathsome fraud Clive James, who has
+    been insulted here before*, with good reason. But I was quite taken with number
+    11, which notes that in its original translation The Communist Manifesto spoke
+    not of "a spectre haunting Europe", but of a "frightful hobgoblin", which is much
+    more thrilling, and number 21, on the earliest use of the word "electricity".
+
+    It is the bird facts, though, that make the site worth a visit. Find out about
+    crows (4), pigeons (9), ducks (73), and birds crashing into buildings (76). There
+    is also a photograph of some penguins.
+
+    * NOTE:See "Minor Rant",19 September.'
   title: Bird Research With Mrs Gubbins
-word_count: 216
+word_count: 217

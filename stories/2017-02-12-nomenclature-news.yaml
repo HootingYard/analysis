@@ -2,12 +2,6 @@ ngrams:
 - - headline
   - yo
   - yo
-- - incorporating
-  - tots
-  - playthings
-- - tots
-  - playthings
-  - plus
 - - maestro
   - she
   - decided
@@ -20,13 +14,19 @@ ngrams:
 - - name
   - him
   - after
+- - children's
+  - toy
+  - so
+- - when
+  - she
+  - gave
 story:
   date: 2017-02-12
   id: 2017-02-12-nomenclature-news
-  text: "The mother of a famous cellist was absolutely obsessed with a children's\
-    \ toy, so much so that, when she gave birth to the future maestro, she decided\
-    \ to name him after it. This was later reported in the magazine Nomenclature Of\
-    \ Cellists Incorporating Tots\u2019 Playthings Plus Palindromes under the headline\
-    \ Yo Yo Ma's Ma's Yo Yo."
+  text: The mother of a famous cellist was absolutely obsessed with a children's toy,
+    so much so that, when she gave birth to the future maestro, she decided to name
+    him after it. This was later reported in the magazine Nomenclature Of Cellists
+    Incorporating Tots' Playthings Plus Palindromes under the headline Yo Yo Ma's
+    Ma's Yo Yo.
   title: Nomenclature News
 word_count: 58

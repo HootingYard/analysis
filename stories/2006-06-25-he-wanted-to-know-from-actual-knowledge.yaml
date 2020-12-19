@@ -2,9 +2,6 @@ ngrams:
 - - charles
   - m
   - sheldon
-- - express
-  - charles
-  - m
 - - burned
   - already
   - hot
@@ -29,14 +26,17 @@ ngrams:
 - - from
   - actual
   - knowledge
+- - know
+  - from
+  - actual
 story:
   date: 2006-06-25
   id: 2006-06-25-he-wanted-to-know-from-actual-knowledge
-  text: "\u201CHe wanted to know from actual knowledge what sort of places the saloons\
-    \ were. What he saw after a dozen visits to as many different groggeries added\
-    \ fuel to the flame of indignation that burned already hot in him. The sight of\
-    \ the vast army of men turning into beasts in these dens created in him a loathing\
-    \ and a hatred of the whole iniquitous institution that language failed to express.\u201D\
-    \ \u2014 Charles M Sheldon, The Crucifixion Of Philip Strong"
-  title: "\u201CHe wanted to know from actual knowledge\u2026\u201D"
-word_count: 86
+  text: '"He wanted to know from actual knowledge what sort of places the saloons
+    were. What he saw after a dozen visits to as many different groggeries added fuel
+    to the flame of indignation that burned already hot in him. The sight of the vast
+    army of men turning into beasts in these dens created in him a loathing and a
+    hatred of the whole iniquitous institution that language failed to express." --
+    Charles M Sheldon, The Crucifixion Of Philip Strong'
+  title: '"He wanted to know from actual knowledge..."'
+word_count: 87

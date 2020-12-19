@@ -23,9 +23,6 @@ ngrams:
 - - stoats
   - weasels
   - bison
-- - chuckling
-  - maniac
-  - appalling
 - - disparaged
   - chutney
   - recipe
@@ -128,37 +125,41 @@ ngrams:
 - - grainy
   - black
   - white
+- - black
+  - white
+  - opening
 story:
   date: 2004-03-05
   id: 2004-03-05-films-on-television
-  text: "In addition to the detective drama Gruesome & Turgid (see yesterday), the\
-    \ Hooting Yard television empire is pleased to announce that it has acquired the\
-    \ rights to an astounding collection of films. All of these listed below will\
-    \ be shown on the Crunlop Channel over the coming months. Our cinema critic, P.\
-    \ B. Totnes, will be reviewing as many of them as he can. As he views each film,\
-    \ his doubtless astute and piercing comments will be added, indicated by a hyperlink.\n\
-    Rusty Flasks; The Apothecary's Safety Pin; The Subfusc Gargoyle; Hand Me That\
-    \ Chaffinch; Topiary & Miscegenation; The Gutta-Percha Pail; The Vivid Swamp (for\
-    \ me, Barbra Streisand's finest hour); The Pitiful Teacup; To Smooch & Smooch\
-    \ Again; The Baleful Rhinoceros; Four Hundred Wooden Hens; Plankton Nightmare\
-    \ (I particularly liked the grainy, black & white opening shot of a flock of bitterns);\
-    \ The Crumpled Ships; The Queasy Hotel (spooky!!!); The Pathetic Ornithologist;\
-    \ The Flapping Windsock; Ointments of Incomprehensibility; I Wore My Hats Ineptly;\
-    \ Custard Gas Attack; Flailing Shibboleths; Journey to the Planet of Indigestion\
-    \ (superb!); The Wretched Spoon; A Placebo for Istvan; The Hideous Orchard; The\
-    \ Marooned Squirrel (surely the film of the decade); Pencil Cases in the Antarctic;\
-    \ Thousands upon Thousands of Wrens; The Pointless Torch; Corncrake! (\u201CMelvin\
-    \ Gibson's Braveheart pales in comparison\u201D, said Vanity Fair); The Tatterdemalion\
-    \ Hobbledehoy (which ought to have won a prize for its matchless animal-handling,\
-    \ what with all those stoats, weasels, bison, panthers & geese); The Big Magnetic\
-    \ Robot; The Antiseptic Xylophone; Snip Those Auburn Locks; I Was Puny Vercingetorix;\
-    \ The Chuckling Maniac (appalling\u2014not a bit scary); The Cantankerous Optician;\
-    \ Jimmy Connors in Hell (nothing to do with the tennis player, apparently); Forty\
-    \ Years In A Bauxite Mine (my favourite foreign-language film of the year, despite\
-    \ the lack of subtitles); The Ridiculous Sponge; Rubber Beelzebub; Tea-strainers\
-    \ in Jeopardy; The Tall Nun Goes West (the finest Gerard Manley Hopkins adaptation\
-    \ I've ever seen); Stalin Wore A Cardigan; Ornate & Lavish Buoys (tiresome four-hour\
-    \ documentary); The Tiny Cakes; The Incredible Case of the Disparaged Chutney\
-    \ Recipe; Splendid Muck; and Weird Birds (a remake of the Van Heflin masterpiece)."
+  text: 'In addition to the detective drama Gruesome & Turgid (see yesterday), the
+    Hooting Yard television empire is pleased to announce that it has acquired the
+    rights to an astounding collection of films. All of these listed below will be
+    shown on the Crunlop Channel over the coming months. Our cinema critic, P. B.
+    Totnes, will be reviewing as many of them as he can. As he views each film, his
+    doubtless astute and piercing comments will be added, indicated by a hyperlink.
+
+    Rusty Flasks; The Apothecary''s Safety Pin; The Subfusc Gargoyle; Hand Me That
+    Chaffinch; Topiary & Miscegenation; The Gutta-Percha Pail; The Vivid Swamp (for
+    me, Barbra Streisand''s finest hour); The Pitiful Teacup; To Smooch & Smooch Again;
+    The Baleful Rhinoceros; Four Hundred Wooden Hens; Plankton Nightmare (I particularly
+    liked the grainy, black & white opening shot of a flock of bitterns); The Crumpled
+    Ships; The Queasy Hotel (spooky!!!); The Pathetic Ornithologist; The Flapping
+    Windsock; Ointments of Incomprehensibility; I Wore My Hats Ineptly; Custard Gas
+    Attack; Flailing Shibboleths; Journey to the Planet of Indigestion (superb!);
+    The Wretched Spoon; A Placebo for Istvan; The Hideous Orchard; The Marooned Squirrel
+    (surely the film of the decade); Pencil Cases in the Antarctic; Thousands upon
+    Thousands of Wrens; The Pointless Torch; Corncrake! ("Melvin Gibson''s Braveheart
+    pales in comparison", said Vanity Fair); The Tatterdemalion Hobbledehoy (which
+    ought to have won a prize for its matchless animal-handling, what with all those
+    stoats, weasels, bison, panthers & geese); The Big Magnetic Robot; The Antiseptic
+    Xylophone; Snip Those Auburn Locks; I Was Puny Vercingetorix; The Chuckling Maniac
+    (appalling--not a bit scary); The Cantankerous Optician; Jimmy Connors in Hell
+    (nothing to do with the tennis player, apparently); Forty Years In A Bauxite Mine
+    (my favourite foreign-language film of the year, despite the lack of subtitles);
+    The Ridiculous Sponge; Rubber Beelzebub; Tea-strainers in Jeopardy; The Tall Nun
+    Goes West (the finest Gerard Manley Hopkins adaptation I''ve ever seen); Stalin
+    Wore A Cardigan; Ornate & Lavish Buoys (tiresome four-hour documentary); The Tiny
+    Cakes; The Incredible Case of the Disparaged Chutney Recipe; Splendid Muck; and
+    Weird Birds (a remake of the Van Heflin masterpiece).'
   title: Films on Television
-word_count: 350
+word_count: 349

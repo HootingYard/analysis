@@ -5,20 +5,23 @@ ngrams:
 - - potato
   - merchant
   - van
-- - grandfather
-  - also
-  - named
-- - also
-  - named
-  - joost
-- - named
-  - joost
-  - who
+- - writing
+  - 'no'
+  - photograph
+- - ever
+  - been
+  - found
+- - has
+  - ever
+  - been
 story:
   date: 2004-02-24
   id: 2004-02-24-joost-van-dongelbracke
-  text: "AT THE TIME OF WRITING, NO PHOTOGRAPH OF JOOST VAN DONGELBRACKE HAS EVER\
-    \ BEEN FOUND. THE BEST WE CAN DO IS THIS PICTURE OF HIS GRANDFATHER\u2014ALSO\
-    \ NAMED JOOST\u2014WHO WAS A BLIND POTATO MERCHANT.\n\nVan Dongelbracke : potatoes"
+  text: 'AT THE TIME OF WRITING, NO PHOTOGRAPH OF JOOST VAN DONGELBRACKE HAS EVER
+    BEEN FOUND. THE BEST WE CAN DO IS THIS PICTURE OF HIS GRANDFATHER--ALSO NAMED
+    JOOST--WHO WAS A BLIND POTATO MERCHANT.
+
+
+    Van Dongelbracke : potatoes'
   title: Joost Van Dongelbracke
-word_count: 41
+word_count: 39

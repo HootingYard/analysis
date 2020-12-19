@@ -26,32 +26,31 @@ ngrams:
 - - under
   - these
   - circumstances
-- - blush
-  - now
-  - p
 - - now
   - sir
   - john
-- - now
-  - p
-  - s
 - - spoke
   - more
   - plainly
 - - men
   - spoke
   - more
+- - make
+  - less
+  - than
+- - been
+  - frequent
+  - sights
 story:
   date: 2005-10-10
   id: 2005-10-10-the-conditions-of-life-in-the-sixteenth
-  text: "\u201CThe conditions of life in the sixteenth century made it difficult to\
-    \ draw a veil over the less pleasant side of human existence. The houses were\
-    \ filthy; the streets so disgusting that on days when there was no wind to disperse\
-    \ the mephitic vapours, prudent people kept their windows shut. Dead bodies and\
-    \ lacerated limbs must have been frequent sights. Under these circumstances we\
-    \ need not be surprised that men spoke more plainly to one another and even to\
-    \ women than they do now. Sir John Paston's conversations with the Duchess of\
-    \ Norfolk would make less than duchesses blush now.\u201D \u2014 P S Allen, The\
-    \ Age Of Erasmus"
-  title: "\u201CThe conditions of life in the sixteenth\u2026\u201D"
-word_count: 114
+  text: '"The conditions of life in the sixteenth century made it difficult to draw
+    a veil over the less pleasant side of human existence. The houses were filthy;
+    the streets so disgusting that on days when there was no wind to disperse the
+    mephitic vapours, prudent people kept their windows shut. Dead bodies and lacerated
+    limbs must have been frequent sights. Under these circumstances we need not be
+    surprised that men spoke more plainly to one another and even to women than they
+    do now. Sir John Paston''s conversations with the Duchess of Norfolk would make
+    less than duchesses blush now." -- P S Allen, The Age Of Erasmus'
+  title: '"The conditions of life in the sixteenth..."'
+word_count: 115

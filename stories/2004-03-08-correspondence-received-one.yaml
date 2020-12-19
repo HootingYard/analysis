@@ -1,7 +1,13 @@
 ngrams:
+- - horace
+  - '-'
+  - unwary
 - - tense
   - spy
   - thriller
+- - '-'
+  - tense
+  - spy
 - - prehistoric
   - jazz
   - adventure
@@ -12,14 +18,14 @@ ngrams:
   - china
   - girl
 - - girl
-  - tense
-  - spy
-- - china
-  - girl
+  - '-'
   - tense
 - - buckingham
   - palace
   - leagues
+- - china
+  - girl
+  - '-'
 - - priceless
   - dinner
   - plates
@@ -35,9 +41,9 @@ ngrams:
 - - terrifying
   - prehistoric
   - jazz
-- - etc
-  - max
-  - d
+- - hyde
+  - park
+  - '-'
 - - sir
   - idly
   - browsing
@@ -47,12 +53,18 @@ ngrams:
 - - remain
   - etc
   - max
+- - gravy
+  - '-'
+  - fear
 - - absolutely
   - terrifying
   - prehistoric
-- - earth
+- - '-'
   - absolutely
   - terrifying
+- - earth
+  - '-'
+  - absolutely
 - - palace
   - leagues
   - under
@@ -62,15 +74,6 @@ ngrams:
 - - most
   - thrilling
   - dr
-- - its
-  - most
-  - thrilling
-- - idly
-  - browsing
-  - your
-- - browsing
-  - your
-  - website
 story:
   date: 2004-03-08
   id: 2004-03-08-correspondence-received-one
@@ -79,16 +82,15 @@ story:
     \ see a reference to my current book in connection with your list of films such\
     \ as Apocalypse Cow and The Hound of Music. May I also draw your attention to\
     \ the following lesser-known highlights of the film-maker's art:\nDr Jekyll and\
-    \ Mr Hyde Park \u2013 the ill-fated follow up to The Wild Bench, in which a park\
-    \ attendant is pushed beyond the limits of endurance.\nI Spit on Your Gravy \u2013\
-    \ Fear and retribution behind the scenes at a top-class restaurant.\nBlackhead\
-    \ Jungle \u2013 Acne-crazed youths on the rampage.\nOn Her Majesty's Crown Derby\
-    \ Service (aka China Girl) \u2013 Tense spy thriller in which James Bond foils\
-    \ a plot to steal a collection of priceless dinner plates from Buckingham Palace.\n\
-    20,000 Leagues Under the Sea \u2013 Sub-aqua football at its most thrilling.\n\
-    Dr Terror's House of Horace \u2013 Unwary travellers are kidnapped and force-fed\
-    \ the works of the Roman poet Quintus Horatius Flaccus.\nWhen Dinah Shore Ruled\
-    \ The Earth \u2013 Absolutely terrifying prehistoric jazz adventure.\nI beg to\
-    \ remain etc.,\n    Max D\xE9charn\xE9"
+    \ Mr Hyde Park - the ill-fated follow up to The Wild Bench, in which a park attendant\
+    \ is pushed beyond the limits of endurance.\nI Spit on Your Gravy - Fear and retribution\
+    \ behind the scenes at a top-class restaurant.\nBlackhead Jungle - Acne-crazed\
+    \ youths on the rampage.\nOn Her Majesty's Crown Derby Service (aka China Girl)\
+    \ - Tense spy thriller in which James Bond foils a plot to steal a collection\
+    \ of priceless dinner plates from Buckingham Palace.\n20,000 Leagues Under the\
+    \ Sea - Sub-aqua football at its most thrilling.\nDr Terror's House of Horace\
+    \ - Unwary travellers are kidnapped and force-fed the works of the Roman poet\
+    \ Quintus Horatius Flaccus.\nWhen Dinah Shore Ruled The Earth - Absolutely terrifying\
+    \ prehistoric jazz adventure.\nI beg to remain etc.,\n    Max Decharne"
   title: 'Correspondence Received : One'
-word_count: 196
+word_count: 202

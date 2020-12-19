@@ -1,7 +1,4 @@
 ngrams:
-- - special
-  - treat
-  - miss
 - - rather
   - incessant
   - drizzle
@@ -11,22 +8,29 @@ ngrams:
 - - film
   - features
   - both
-- - very
-  - special
-  - treat
 - - full
   - hooting
   - yard
 - - all
   - bright
   - sunshine
+- - dabbler
+  - this
+  - week
+- - jollity
+  - or
+  - rather
 story:
   date: 2014-11-14
   id: 2014-11-14-dabbling-with-gruel
-  text: "\nIn The Dabbler this week, a very special treat\u2014Miss HatHorn's animated\
-    \ film of A Recipe For Gruel, in full. Hooting Yard is brought to the screen and,\
-    \ as you might expect, it is all bright sunshine and jollity, or rather, incessant\
-    \ drizzle and misery. The film features both knitting and probably the best crossword\
-    \ in cinema history.\n"
+  text: '
+
+    In The Dabbler this week, a very special treat--Miss HatHorn''s animated film
+    of A Recipe For Gruel, in full. Hooting Yard is brought to the screen and, as
+    you might expect, it is all bright sunshine and jollity, or rather, incessant
+    drizzle and misery. The film features both knitting and probably the best crossword
+    in cinema history.
+
+    '
   title: Dabbling With Gruel
-word_count: 61
+word_count: 60

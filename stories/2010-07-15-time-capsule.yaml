@@ -11,18 +11,9 @@ ngrams:
 - - post
   - office
   - directory
-- - review
-  - must
-  - provoke
-- - saturday
-  - review
-  - must
 - - approved
   - practice
   - two
-- - these
-  - objects
-  - declared
 - - two
   - large
   - vases
@@ -32,35 +23,46 @@ ngrams:
 - - time
   - capsule
   - following
-- - items
-  - were
-  - deposited
-- - contemporary
-  - items
-  - were
 - - stuff
   - still
   - there
-- - razor
+- - news
   - an
-  - alexandra
-- - shilling
-  - razor
-  - an
+  - anthology
+- - horace
+  - wyndham
+  - this
+- - among
+  - them
+  - were
+- - effect
+  - for
+  - among
+- - 'on'
+  - thames
+  - embankment
+- - needle
+  - 'on'
+  - thames
+- - for
+  - among
+  - them
 story:
   date: 2010-07-15
   id: 2010-07-15-time-capsule
-  text: "\u201CFollowing the approved practice, two large vases, containing \u2018\
-    a representative sample of contemporary items\u2019, were deposited in the pedestal\
-    \ [of Cleopatra's Needle, on Thames Embankment]. \u2018The mere list of these\
-    \ objects,\u2019 declared the Saturday Review, \u2018must provoke a smile.\u2019\
-    \ It was certainly well-calculated to have this effect, for, among them, were\
-    \ a Bible, a translation of the hieroglyphics on the column, a portrait of the\
-    \ Queen, a standard set of weights and measures, a Whitaker's Almanack, a Bradshaw's\
-    \ railway-guide, a Post Office directory, a \u2018Mappin's shilling razor\u2019\
-    , an \u2018Alexandra feeding-bottle, as used in the Royal nurseries\u2019, and\
-    \ \u2018photographs of twelve pretty Englishwomen\u2019. Altogether, a mixed assortment.\u201D\
-    \nHorace Wyndham, This Was The News\_: An Anthology Of Victorian Affairs (1948)\n\
-    Is all that stuff still there, entombed in vases beneath the Needle?"
+  text: '"Following the approved practice, two large vases, containing ''a representative
+    sample of contemporary items'', were deposited in the pedestal [of Cleopatra''s
+    Needle, on Thames Embankment]. ''The mere list of these objects,'' declared the
+    Saturday Review, ''must provoke a smile.'' It was certainly well-calculated to
+    have this effect, for, among them, were a Bible, a translation of the hieroglyphics
+    on the column, a portrait of the Queen, a standard set of weights and measures,
+    a Whitaker''s Almanack, a Bradshaw''s railway-guide, a Post Office directory,
+    a ''Mappin''s shilling razor'', an ''Alexandra feeding-bottle, as used in the
+    Royal nurseries'', and ''photographs of twelve pretty Englishwomen''. Altogether,
+    a mixed assortment."
+
+    Horace Wyndham, This Was The News : An Anthology Of Victorian Affairs (1948)
+
+    Is all that stuff still there, entombed in vases beneath the Needle?'
   title: Time Capsule
-word_count: 131
+word_count: 133

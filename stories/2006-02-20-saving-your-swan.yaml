@@ -2,15 +2,9 @@ ngrams:
 - - virus
   - sweeps
   - inexorably
-- - sweeps
-  - inexorably
-  - westward
 - - flu
   - virus
   - sweeps
-- - inexorably
-  - westward
-  - france
 - - net
   - curtains
   - blackening
@@ -41,9 +35,6 @@ ngrams:
 - - maxwell
   - davies
   - comes
-- - sir
-  - peter
-  - maxwell
 - - government
   - official
   - armed
@@ -170,9 +161,6 @@ ngrams:
 - - more
   - pet
   - swans
-- - appear
-  - before
-  - long
 - - some
   - poison
   - pellets
@@ -272,60 +260,81 @@ ngrams:
 - - your
   - living
   - room
+- - under
+  - your
+  - arm
+- - your
+  - swan
+  - look
+- - point
+  - keeping
+  - your
 story:
   date: 2006-02-20
   id: 2006-02-20-saving-your-swan
-  text: "As the deadly bird flu virus sweeps inexorably westward\u2014France is the\
-    \ latest country to report a case\u2014it is vitally important that you take preventative\
-    \ measures to ensure your pet swan, or swans, do not fall victim to the virus.\
-    \ If you act in time, your swan will not have to be culled by a wellington-booted\
-    \ government official armed with a gun or some poison pellets.\nThe simplest way\
-    \ to save the life of your swan is to lure it indoors and keep it there. If you\
-    \ do so, the virus can lay waste all outdoor bird life for as far as you can see,\
-    \ but your indoor swan will be snug and secure, so long as you batten down the\
-    \ hatches and allow no other birds into your house. There will be no point keeping\
-    \ your swan indoors if you then invite in any passing eagle, chaffinch, vulture,\
-    \ starling or peewit.\nI am assuming for the purposes of this advisory note that\
-    \ you have only one swan. If you have two or more pet swans, you will find the\
-    \ technique outlined here equally effective.\n\nLeft, Jim Zingo's swans. Right,\
-    \ Peter Maxwell Davies\nSwans are independent-minded birds, and no matter how\
-    \ devoted a swan-keeper you are, they will always prefer to glide up and down\
-    \ the river or lake looking graceful and showing off their beautiful profiles\
-    \ than to be housebound and cloistered. You might think it is a simple matter\
-    \ of plucking your swan from the water, tucking it under your arm, carrying it\
-    \ indoors, and putting it on the sofa. Do try to remember, however, that swans\
-    \ can be very aggressive. Next time you are with your swan, look at its face,\
-    \ very close to, and tell me if you do not see a cold, hard, alien savagery.\n\
-    You are probably thinking that luring your swan indoors is a simple matter of\
-    \ laying a trail of breadcrumbs and millet, or other seeds, from the edge of the\
-    \ lake across the muddy field and in through your front door to the living room.\
-    \ Not so. Most swans, however famished, will baulk at entering a building. They\
-    \ will peck eagerly away until they get to the door, but are then almost certain\
-    \ to turn around and return to the lake, chancing that more food will appear before\
-    \ long\u2014and it will, you can be sure of that.\nCan a swan be lured indoors\
-    \ by placing a decoy swan in your living room? This is possible, but your decoy\
-    \ must be thoroughly convincing. It not only needs to look like a swan, and sound\
-    \ like a swan, but ideally it should smell like a swan too. You are not going\
-    \ to succeed by bundling up some old net curtains, blackening a portion with charcoal\
-    \ to resemble the head, and covering it in weeds dragged from the lake. Your swan\
-    \ will take one cold, pitiless look at it, turn around, and waddle back to the\
-    \ lake, possibly lunging to bite your hand as it leaves.\nWhat you need to do,\
-    \ if you are to have an indoor swan safe from bird flu, is to make your living\
-    \ room a more attractive environment for it than its usual lake, pond, or river\
-    \ habitat. This is where a bank of loudspeakers and a tape loop of music by \u2018\
-    Sir\u2019 Peter Maxwell Davies comes in. The Master of the Queen's Music is well-known\
-    \ for his swan-eating habits*, and no sane swan wants to be boiled and gobbled\
-    \ down for dinner, whether by an important contemporary composer or by a tone-deaf\
-    \ ingrate like you. Swans have a collective unconscious that baffles ornithologists,\
-    \ and ever since Maxwell Davies found an electrocuted whooper swan and took it\
-    \ back to his kitchen, his music strikes terror into their palpitating swan-hearts.\
-    \ The non-stop racket of, for example, The Yellow Cake Revue (1980), played at\
-    \ top volume in the vicinity of the pond, will soon have your swan seeking shelter.\
-    \ By angling the loudspeakers correctly, you can make your living room the haven\
-    \ the poor panic-stricken swan yearns for.\nYou will of course need to keep the\
-    \ music piping across the pond until such time as the government announces an\
-    \ all-clear, but that is the least of your worries. The important thing is that\
-    \ your swan will be safe.\n*NOTE : See Swan News, May 2005, or this newspaper\
-    \ report."
+  text: 'As the deadly bird flu virus sweeps inexorably westward--France is the latest
+    country to report a case--it is vitally important that you take preventative measures
+    to ensure your pet swan, or swans, do not fall victim to the virus. If you act
+    in time, your swan will not have to be culled by a wellington-booted government
+    official armed with a gun or some poison pellets.
+
+    The simplest way to save the life of your swan is to lure it indoors and keep
+    it there. If you do so, the virus can lay waste all outdoor bird life for as far
+    as you can see, but your indoor swan will be snug and secure, so long as you batten
+    down the hatches and allow no other birds into your house. There will be no point
+    keeping your swan indoors if you then invite in any passing eagle, chaffinch,
+    vulture, starling or peewit.
+
+    I am assuming for the purposes of this advisory note that you have only one swan.
+    If you have two or more pet swans, you will find the technique outlined here equally
+    effective.
+
+
+    Left, Jim Zingo''s swans. Right, Peter Maxwell Davies
+
+    Swans are independent-minded birds, and no matter how devoted a swan-keeper you
+    are, they will always prefer to glide up and down the river or lake looking graceful
+    and showing off their beautiful profiles than to be housebound and cloistered.
+    You might think it is a simple matter of plucking your swan from the water, tucking
+    it under your arm, carrying it indoors, and putting it on the sofa. Do try to
+    remember, however, that swans can be very aggressive. Next time you are with your
+    swan, look at its face, very close to, and tell me if you do not see a cold, hard,
+    alien savagery.
+
+    You are probably thinking that luring your swan indoors is a simple matter of
+    laying a trail of breadcrumbs and millet, or other seeds, from the edge of the
+    lake across the muddy field and in through your front door to the living room.
+    Not so. Most swans, however famished, will baulk at entering a building. They
+    will peck eagerly away until they get to the door, but are then almost certain
+    to turn around and return to the lake, chancing that more food will appear before
+    long--and it will, you can be sure of that.
+
+    Can a swan be lured indoors by placing a decoy swan in your living room? This
+    is possible, but your decoy must be thoroughly convincing. It not only needs to
+    look like a swan, and sound like a swan, but ideally it should smell like a swan
+    too. You are not going to succeed by bundling up some old net curtains, blackening
+    a portion with charcoal to resemble the head, and covering it in weeds dragged
+    from the lake. Your swan will take one cold, pitiless look at it, turn around,
+    and waddle back to the lake, possibly lunging to bite your hand as it leaves.
+
+    What you need to do, if you are to have an indoor swan safe from bird flu, is
+    to make your living room a more attractive environment for it than its usual lake,
+    pond, or river habitat. This is where a bank of loudspeakers and a tape loop of
+    music by ''Sir'' Peter Maxwell Davies comes in. The Master of the Queen''s Music
+    is well-known for his swan-eating habits*, and no sane swan wants to be boiled
+    and gobbled down for dinner, whether by an important contemporary composer or
+    by a tone-deaf ingrate like you. Swans have a collective unconscious that baffles
+    ornithologists, and ever since Maxwell Davies found an electrocuted whooper swan
+    and took it back to his kitchen, his music strikes terror into their palpitating
+    swan-hearts. The non-stop racket of, for example, The Yellow Cake Revue (1980),
+    played at top volume in the vicinity of the pond, will soon have your swan seeking
+    shelter. By angling the loudspeakers correctly, you can make your living room
+    the haven the poor panic-stricken swan yearns for.
+
+    You will of course need to keep the music piping across the pond until such time
+    as the government announces an all-clear, but that is the least of your worries.
+    The important thing is that your swan will be safe.
+
+    *NOTE : See Swan News, May 2005, or this newspaper report.'
   title: Saving Your Swan
-word_count: 730
+word_count: 727

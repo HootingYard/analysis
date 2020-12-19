@@ -1,23 +1,27 @@
 ngrams:
-- - marry
-  - gustav
-  - mahler
-- - gustav
-  - mahler
-  - wrote
 - - two
   - months
   - later
 - - her
   - diary
   - bliss
-- - alma
-  - schindler
-  - who
+- - would
+  - marry
+  - gustav
+- - later
+  - would
+  - marry
+- - months
+  - later
+  - would
 story:
   date: 2013-01-03
   id: 2013-01-03-almas-diary-3-1-02
-  text: "On this day in 1902, Alma Schindler\u2014who two months later would marry\
-    \ Gustav Mahler\u2014wrote in her diary:\nBliss and rapture!\n"
+  text: 'On this day in 1902, Alma Schindler--who two months later would marry Gustav
+    Mahler--wrote in her diary:
+
+    Bliss and rapture!
+
+    '
   title: Alma's Diary 3.1.02
-word_count: 23
+word_count: 21

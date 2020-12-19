@@ -1,7 +1,4 @@
 ngrams:
-- - lost
-  - art
-  - agnes
 - - giving
   - birds
   - bad
@@ -53,19 +50,21 @@ ngrams:
 - - an
   - especially
   - plucky
+- - never
+  - know
+  - when
 story:
   date: 2004-10-22
   id: 2004-10-22-the-vicious-habit-of-giving-birds-bad
-  text: "\u201CThe vicious habit of giving birds bad names is one that grows, and\
-    \ you never know when the scientific have come to a finality. For instance, little\
-    \ Robin Red-Breast has successively lived through three tags, Turdus migratorius,\
-    \ Planesticus migratorius, and Turdus canadensis. If he had not been an especially\
-    \ plucky little beggar he would have died under the libels long ago. For my own\
-    \ part I cannot conceive how a man with good red blood in his veins could look\
-    \ a chirky little robin in the eye and call him to his face a Planesticus migratorius,\
-    \ when as chubby youngster he had known the bird and loved him as Robin Red-Breast.\
-    \ One is inclined to ask with suspicion, \u2018Is naming a lost art?\u2019\u201D\
-    \ \u2014 Agnes Deans Cameron, The New North : Being Some Account Of A Woman's\
-    \ Journey Through Canada To The Arctic"
-  title: "\u201CThe vicious habit of giving birds bad\u2026\u201D"
-word_count: 148
+  text: '"The vicious habit of giving birds bad names is one that grows, and you never
+    know when the scientific have come to a finality. For instance, little Robin Red-Breast
+    has successively lived through three tags, Turdus migratorius, Planesticus migratorius,
+    and Turdus canadensis. If he had not been an especially plucky little beggar he
+    would have died under the libels long ago. For my own part I cannot conceive how
+    a man with good red blood in his veins could look a chirky little robin in the
+    eye and call him to his face a Planesticus migratorius, when as chubby youngster
+    he had known the bird and loved him as Robin Red-Breast. One is inclined to ask
+    with suspicion, ''Is naming a lost art?''" -- Agnes Deans Cameron, The New North
+    : Being Some Account Of A Woman''s Journey Through Canada To The Arctic'
+  title: '"The vicious habit of giving birds bad..."'
+word_count: 150

@@ -26,9 +26,6 @@ ngrams:
 - - twin
   - brother
   - zoltan
-- - pestilence
-  - farm
-  - implements
 - - held
   - triumphantly
   - aloft
@@ -68,36 +65,47 @@ ngrams:
 - - big
   - magnetic
   - robot
-- - farm
-  - implements
-  - number
 - - satchel
   - moments
   - later
 - - battering
   - sun
   - look
+- - clouds
+  - passed
+  - across
+- - scene
+  - takes
+  - place
 story:
   date: 2004-03-04
   id: 2004-03-04-istvan-zoltan-or-zoltan-istvan
-  text: "\u201CCrikey!\u201D exclaimed Istvan, as he pulled the lever on the incomprehensible\
-    \ big magnetic robot.\n\u201CThat's a turn up for the book,\u201D observed his\
-    \ twin brother Zoltan.\n\u201CAnd what book would that be?\u201D asked Istvan,\
-    \ as the incomprehensible big magnetic robot clanked & whirred into action. Thumping\
-    \ & minatory, it began to cross the buttercup-splattered meadow in which this\
-    \ exciting scene takes place. It made Istvan think of a Golem, such was its implacable\
-    \ menace.\n\u201CWhat do you know of literature?\u201D sneered Zoltan, but Istvan\
-    \ was already rummaging in his brother's satchel. Moments later, he held triumphantly\
-    \ aloft a dog-eared paperback. Zoltan eyed him closely. \u201CYour arm shot up\
-    \ in phallic conspiracy,\u201D he quoted. Istvan examined the curiously stained\
-    \ cover of the book. He was severely myopic. Eventually he managed to discern\
-    \ the title: Pestilence & Farm Implements\u2014Number 8 in a Series of Dog-Eared\
-    \ Paperbacks by Vercingetorix Sepulveda.\n\u201CMay I borrow this?\u201D he asked.\n\
-    \u201CCertainly not!\u201D shouted Zoltan.\n\u201CI knew you would always forbid,\u201D\
-    \ said Istvan, making a clever riposte with a quotation of his own. Splendid clouds\
-    \ passed across the battering sun.\n\u201CLook out!\u201D screamed Zoltan. But\
-    \ it was too late. The incomprehensible big magnetic robot had turned & was bearing\
-    \ down on Istvan. It had somehow acquired a gleaming & very, very sharp cutlass\u2026\
-    ."
+  text: '"Crikey!" exclaimed Istvan, as he pulled the lever on the incomprehensible
+    big magnetic robot.
+
+    "That''s a turn up for the book," observed his twin brother Zoltan.
+
+    "And what book would that be?" asked Istvan, as the incomprehensible big magnetic
+    robot clanked & whirred into action. Thumping & minatory, it began to cross the
+    buttercup-splattered meadow in which this exciting scene takes place. It made
+    Istvan think of a Golem, such was its implacable menace.
+
+    "What do you know of literature?" sneered Zoltan, but Istvan was already rummaging
+    in his brother''s satchel. Moments later, he held triumphantly aloft a dog-eared
+    paperback. Zoltan eyed him closely. "Your arm shot up in phallic conspiracy,"
+    he quoted. Istvan examined the curiously stained cover of the book. He was severely
+    myopic. Eventually he managed to discern the title: Pestilence & Farm Implements--Number
+    8 in a Series of Dog-Eared Paperbacks by Vercingetorix Sepulveda.
+
+    "May I borrow this?" he asked.
+
+    "Certainly not!" shouted Zoltan.
+
+    "I knew you would always forbid," said Istvan, making a clever riposte with a
+    quotation of his own. Splendid clouds passed across the battering sun.
+
+    "Look out!" screamed Zoltan. But it was too late. The incomprehensible big magnetic
+    robot had turned & was bearing down on Istvan. It had somehow acquired a gleaming
+    & very, very sharp cutlass....'
   title: Istvan, Zoltan or Zoltan, Istvan
-word_count: 215
+word_count: 214

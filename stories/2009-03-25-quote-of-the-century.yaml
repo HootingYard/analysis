@@ -1,24 +1,25 @@
 ngrams:
-- - bestseller
-  - alan
-  - whicker
-- - automatic
-  - bestseller
-  - alan
-- - alan
-  - whicker
-  - death
 - - matter
   - how
   - stumbling
 - - britain
   - any
   - book
+- - duck
+  - 'no'
+  - matter
+- - 'no'
+  - matter
+  - how
+- - an
+  - automatic
+  - bestseller
 story:
   date: 2009-03-25
   id: 2009-03-25-quote-of-the-century
-  text: "\u201CIn Britain, any book about a gull or a duck, no matter how stumbling\
-    \ or inane, is an automatic bestseller.\u201D\u2014Alan Whicker, Death In The\
-    \ Morning, BBC 1964\n"
+  text: '"In Britain, any book about a gull or a duck, no matter how stumbling or
+    inane, is an automatic bestseller."--Alan Whicker, Death In The Morning, BBC 1964
+
+    '
   title: Quote Of The Century
 word_count: 31

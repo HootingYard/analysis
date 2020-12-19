@@ -2,12 +2,6 @@ ngrams:
 - - remarkable
   - krakatoa
   - sunsets
-- - manley
-  - hopkins
-  - reportage
-- - gerard
-  - manley
-  - hopkins
 - - public
   - domain
   - review
@@ -32,15 +26,24 @@ ngrams:
 - - or
   - else
   - tawny
+- - green
+  - or
+  - else
+- - or
+  - puckered
+  - make
 story:
   date: 2012-05-29
   id: 2012-05-29-hopkins-on-krakatoa
-  text: "\nThere is a piece in The Public Domain Review about Gerard Manley Hopkins\u2019\
-    \ reportage on the remarkable \u201CKrakatoa sunsets\u201D of 1883.\naccording\
-    \ to my observation, the ground of the sky in the east was green or else tawny,\
-    \ and the crimson only in the clouds. A great sheet of heavy dark cloud, with\
-    \ a reefed or puckered make, drew off the west in the course of the pageant: the\
-    \ edge of this and the smaller pellets of cloud that filed across the bright field\
-    \ of the sundown caught a livid green."
+  text: '
+
+    There is a piece in The Public Domain Review about Gerard Manley Hopkins'' reportage
+    on the remarkable "Krakatoa sunsets" of 1883.
+
+    according to my observation, the ground of the sky in the east was green or else
+    tawny, and the crimson only in the clouds. A great sheet of heavy dark cloud,
+    with a reefed or puckered make, drew off the west in the course of the pageant:
+    the edge of this and the smaller pellets of cloud that filed across the bright
+    field of the sundown caught a livid green.'
   title: Hopkins On Krakatoa
 word_count: 93

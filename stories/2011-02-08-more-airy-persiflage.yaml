@@ -1,25 +1,19 @@
 ngrams:
-- - persiflage
-  - walter
-  - o'hara
 - - airy
   - persiflage
   - walter
-- - walter
-  - o'hara
-  - known
+- - treasury
+  - o'
+  - prose
 - - pleasingly
   - ramshackle
   - air
-- - treasury
-  - o
-  - prose
+- - yard
+  - treasury
+  - o'
 - - simply
   - plopped
   - himself
-- - yard
-  - treasury
-  - o
 - - believe
   - every
   - word
@@ -38,23 +32,30 @@ ngrams:
 - - am
   - wholly
   - unacquainted
+- - o'
+  - prose
+  - can
 - - has
   - simply
   - plopped
-- - o
-  - prose
-  - can
+- - am
+  - very
+  - fond
+- - making
+  - me
+  - believe
 story:
   date: 2011-02-08
   id: 2011-02-08-more-airy-persiflage
-  text: "Over at Airy Persiflage, Walter O'Hara\u2014known to his friends as Mister\
-    \ Nizz\u2014gives a fine rendition of \u201CI Had A Hammer\u201D. I am very fond\
-    \ of the grain of his voice, which has the curious quality of making me believe\
-    \ every word of what he tells me. There is also a pleasingly ramshackle air to\
-    \ his podcast, as if he has simply plopped himself down in front of a microphone\
-    \ for a few minutes in between feeding the hens or fixing the roof. (I should\
-    \ make it plain here that I am wholly unacquainted with Mr O'Hara and have no\
-    \ idea how he spends his days.)\nLinks to his earlier readings from the Hooting\
-    \ Yard Treasury O\u2019 Prose can be found here."
+  text: 'Over at Airy Persiflage, Walter O''Hara--known to his friends as Mister Nizz--gives
+    a fine rendition of "I Had A Hammer". I am very fond of the grain of his voice,
+    which has the curious quality of making me believe every word of what he tells
+    me. There is also a pleasingly ramshackle air to his podcast, as if he has simply
+    plopped himself down in front of a microphone for a few minutes in between feeding
+    the hens or fixing the roof. (I should make it plain here that I am wholly unacquainted
+    with Mr O''Hara and have no idea how he spends his days.)
+
+    Links to his earlier readings from the Hooting Yard Treasury O'' Prose can be
+    found here.'
   title: More Airy Persiflage
-word_count: 126
+word_count: 124

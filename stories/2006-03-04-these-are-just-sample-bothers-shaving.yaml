@@ -1,32 +1,31 @@
 ngrams:
 - - bothers
-  - shaving
-  - washing
-- - sample
-  - bothers
-  - shaving
-- - bothers
   - '-'
   - shaving
-- - shaving
-  - washing
-  - answering
 - - sample
   - bothers
   - '-'
 - - h
   - g
   - wells
-- - stamps
-  - h
-  - g
+- - washing
+  - answering
+  - letters
+- - answering
+  - letters
+  - talking
+- - wells
+  - certain
+  - personal
+- - g
+  - wells
+  - certain
 story:
   date: 2006-03-04
   id: 2006-03-04-these-are-just-sample-bothers-shaving
-  text: "\u201CThese are just sample bothers\u2014shaving, washing, answering letters,\
-    \ talking to people. I could specify hundreds more. Indeed, in my sadder moments,\
-    \ it seems to me life is all compact of bothers\u2026 Then, doing up parcels and\
-    \ finding pieces of string or envelopes or stamps.\u201D \u2014 H G Wells, Certain\
-    \ Personal Matters"
-  title: "\u201CThese are just sample bothers - shaving,\u2026\u201D"
+  text: '"These are just sample bothers--shaving, washing, answering letters, talking
+    to people. I could specify hundreds more. Indeed, in my sadder moments, it seems
+    to me life is all compact of bothers... Then, doing up parcels and finding pieces
+    of string or envelopes or stamps." -- H G Wells, Certain Personal Matters'
+  title: '"These are just sample bothers - shaving,..."'
 word_count: 58

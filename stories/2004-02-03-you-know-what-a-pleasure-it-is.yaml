@@ -1,7 +1,4 @@
 ngrams:
-- - pet
-  - uncle
-  - philip
 - - mount
   - st
   - bernard
@@ -18,14 +15,8 @@ ngrams:
   - pet
   - dog
 - - good
-  - pet
-  - dog
-- - good
   - water
   - dogs
-- - pet
-  - dog
-  - get
 - - little
   - lap
   - dogs
@@ -107,27 +98,36 @@ ngrams:
 - - very
   - large
   - they
+- - she
+  - will
+  - neglect
+- - will
+  - neglect
+  - her
+- - are
+  - very
+  - intelligent
 story:
   date: 2004-02-03
   id: 2004-02-03-you-know-what-a-pleasure-it-is
-  text: "\u201CYou know what a pleasure it is to have a pretty pet Dog. I do not mean\
-    \ those little lap dogs. They are of no use, and when I see a little girl with\
-    \ a lap dog, I always say, \u201CWell, well, that little girl is, and always will\
-    \ be foolish.\u201D And why do I say so? Because I know she will neglect her books\
-    \ and her other duties just to play with Flora. If you want a good pet dog\u2014\
-    get a large one. The best dogs are the St. Bernard or Newfoundland. They are very\
-    \ large. They are jet black. They are very intelligent, and after you have had\
-    \ them for some time, you can make them perform many tricks for the amusement\
-    \ of your little friends. The St. Bernard Dog is a native of the Alps. He is named\
-    \ after a convent on Mount St. Bernard in Switzerland. The convent is 8,038 feet\
-    \ above the foot of the mountain. It is a Benedictine monastery and hospital,\
-    \ and is the highest inhabited spot in Europe. Travellers passing the Alps into\
-    \ Italy have to pass over the mountains. They are covered with snow and very dangerous.\
-    \ The good monks go out with their dogs and if they find any traveller benighted\
-    \ or frozen in the snow, they lend him succour and take him to the monastery.\
-    \ The dogs are very strong and can carry a man. They are all good water dogs,\
-    \ and if you were to fall in the water, one of them could hold you up until rescued\
-    \ by your friends. Growler is waiting for his breakfast. He is Eva's pet.\u201D\
-    \ \u2014 Uncle Philip, The Girl's Cabinet of Instructive & Moral Stories (1856)"
-  title: "\u201CYou know what a pleasure it is\u2026\u201D"
+  text: '"You know what a pleasure it is to have a pretty pet Dog. I do not mean those
+    little lap dogs. They are of no use, and when I see a little girl with a lap dog,
+    I always say, "Well, well, that little girl is, and always will be foolish." And
+    why do I say so? Because I know she will neglect her books and her other duties
+    just to play with Flora. If you want a good pet dog--get a large one. The best
+    dogs are the St. Bernard or Newfoundland. They are very large. They are jet black.
+    They are very intelligent, and after you have had them for some time, you can
+    make them perform many tricks for the amusement of your little friends. The St.
+    Bernard Dog is a native of the Alps. He is named after a convent on Mount St.
+    Bernard in Switzerland. The convent is 8,038 feet above the foot of the mountain.
+    It is a Benedictine monastery and hospital, and is the highest inhabited spot
+    in Europe. Travellers passing the Alps into Italy have to pass over the mountains.
+    They are covered with snow and very dangerous. The good monks go out with their
+    dogs and if they find any traveller benighted or frozen in the snow, they lend
+    him succour and take him to the monastery. The dogs are very strong and can carry
+    a man. They are all good water dogs, and if you were to fall in the water, one
+    of them could hold you up until rescued by your friends. Growler is waiting for
+    his breakfast. He is Eva''s pet." -- Uncle Philip, The Girl''s Cabinet of Instructive
+    & Moral Stories (1856)'
+  title: '"You know what a pleasure it is..."'
 word_count: 289

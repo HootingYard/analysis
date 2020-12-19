@@ -1,10 +1,13 @@
 ngrams:
-- - recluse
-  - chris
-  - cutler
 - - cursory
   - examination
   - suggests
+- - c
+  - chris
+  - cutler
+- - recluse
+  - c
+  - chris
 - - holy
   - roman
   - emperor
@@ -14,18 +17,12 @@ ngrams:
 - - hitherto
   - unknown
   - third
-- - 'yes'
-  - confirmed
-  - sally
 - - certain
   - facts
   - pertaining
 - - remote
   - swiss
   - village
-- - today
-  - mister
-  - dan
 - - occurred
   - exactly
   - three
@@ -35,15 +32,6 @@ ngrams:
 - - example
   - entitled
   - present
-- - ago
-  - today
-  - mister
-- - himself
-  - 'yes'
-  - confirmed
-- - iii
-  - himself
-  - 'yes'
 - - badly
   - well
   - blog
@@ -56,9 +44,6 @@ ngrams:
 - - 'yes'
   - mr
   - key
-- - god
-  - said
-  - geoff
 - - years
   - ago
   - today
@@ -71,9 +56,6 @@ ngrams:
 - - r
   - has
   - alerted
-- - confirmed
-  - sally
-  - who
 - - more
   - details
   - later
@@ -89,28 +71,56 @@ ngrams:
 - - entitled
   - present
   - your
+- - present
+  - your
+  - research
+- - am
+  - away
+  - 'yes'
+- - chris
+  - cutler
+  - will
+- - some
+  - very
+  - useful
+- - cutler
+  - will
+  - shortly
+- - code
+  - man
+  - has
+- - man
+  - has
+  - clearly
 story:
   date: 2009-11-11
   id: 2009-11-11-in-which-mr-key-apprises-his-readers-of-certain-facts-pertaining-to-the-1648-peace-of-westphalia
-  text: "Hooting Yard's anagrammatist-in-chief, R., has alerted me to Joel Stickley's\
-    \ How To Write Badly Well blog. A cursory examination suggests I can pick up some\
-    \ very useful tips there. This, for example, entitled \u201CPresent your research\
-    \ in the form of dialogue\u201D, is brilliant:\n\u2018My god,\u2019 said Geoff,\
-    \ \u2018so it's true. We hold in our very hands the original draft of the hitherto\
-    \ unknown third treaty of the 1648 Peace of Westphalia signed by the Holy Roman\
-    \ Emperor Ferdinand III himself.\u2019\n\u2018Yes,\u2019 confirmed Sally. \u2018\
-    Who would have thought when we set off this morning for this remote Swiss village\
-    \ that we would end the day in possession of the very document which marked the\
-    \ birth of modern European statehood?\u2019\n\u2018Certainly not me!\u2019 laughed\
-    \ Geoff.\n'Nor me!\u2019 guffawed Sally.\n\u2018And to think,\u2019 Geoff extemporised,\
-    \ \u2018the Ratification of the Treaty of M\xFCnster occurred exactly three hundred\
-    \ and sixty-one years ago today!\u2019\nMister Dan the Da Vinci Code Man has clearly\
-    \ been keeping a gimlet eye on this blog, or I'm a Huguenot. There is much else\
-    \ there to split your sides to, so go and visit. It may keep you all occupied\
-    \ while I am away. Yes, Mr Key, the so-called \u201CDiogenesian recluse\u201D\
-    \ (\xA9 Chris Cutler) will shortly be venturing abroad for a spell, during which\
-    \ postages here will be sparse. More details later, when I have packed my rucksack\
-    \ haversack knapsack pippy bag\u2026"
+  text: 'Hooting Yard''s anagrammatist-in-chief, R., has alerted me to Joel Stickley''s
+    How To Write Badly Well blog. A cursory examination suggests I can pick up some
+    very useful tips there. This, for example, entitled "Present your research in
+    the form of dialogue", is brilliant:
+
+    ''My god,'' said Geoff, ''so it''s true. We hold in our very hands the original
+    draft of the hitherto unknown third treaty of the 1648 Peace of Westphalia signed
+    by the Holy Roman Emperor Ferdinand III himself.''
+
+    ''Yes,'' confirmed Sally. ''Who would have thought when we set off this morning
+    for this remote Swiss village that we would end the day in possession of the very
+    document which marked the birth of modern European statehood?''
+
+    ''Certainly not me!'' laughed Geoff.
+
+    ''Nor me!'' guffawed Sally.
+
+    ''And to think,'' Geoff extemporised, ''the Ratification of the Treaty of Munster
+    occurred exactly three hundred and sixty-one years ago today!''
+
+    Mister Dan the Da Vinci Code Man has clearly been keeping a gimlet eye on this
+    blog, or I''m a Huguenot. There is much else there to split your sides to, so
+    go and visit. It may keep you all occupied while I am away. Yes, Mr Key, the so-called
+    "Diogenesian recluse" ((c) Chris Cutler) will shortly be venturing abroad for
+    a spell, during which postages here will be sparse. More details later, when I
+    have packed my rucksack haversack knapsack pippy bag...'
   title: In Which Mr Key Apprises His Readers Of Certain Facts Pertaining To The 1648
     Peace Of Westphalia
-word_count: 246
+word_count: 254

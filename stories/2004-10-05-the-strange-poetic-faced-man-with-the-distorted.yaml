@@ -1,7 +1,4 @@
 ngrams:
-- - victim
-  - scream
-  - kenneth
 - - great
   - hands
   - made
@@ -20,13 +17,16 @@ ngrams:
 - - even
   - doc
   - had
+- - led
+  - into
+  - one
 story:
   date: 2004-10-05
   id: 2004-10-05-the-strange-poetic-faced-man-with-the-distorted
-  text: "\u201CThe strange poetic-faced man with the distorted mind was fast. He was\
-    \ faster than even Doc had dreamed. He pitched sidewise, got behind some of his\
-    \ men, went on\u2014toward the snow hole that led into one of the smaller connecting\
-    \ igloos\u2026 The hairy chemist's great hands made the victim scream.\u201D \u2014\
-    \ Kenneth Robeson, Fortress Of Solitude"
-  title: "\u201CThe strange poetic-faced man with the distorted\u2026\u201D"
+  text: '"The strange poetic-faced man with the distorted mind was fast. He was faster
+    than even Doc had dreamed. He pitched sidewise, got behind some of his men, went
+    on--toward the snow hole that led into one of the smaller connecting igloos...
+    The hairy chemist''s great hands made the victim scream." -- Kenneth Robeson,
+    Fortress Of Solitude'
+  title: '"The strange poetic-faced man with the distorted..."'
 word_count: 63

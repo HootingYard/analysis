@@ -1,13 +1,13 @@
 ngrams:
-- - municipal
-  - officers
-  - arthur
 - - invented
   - entirely
   - yourself
 - - avoid
   - being
   - compelled
+- - french
+  - cure
+  - who
 - - may
   - also
   - should
@@ -41,13 +41,13 @@ ngrams:
 story:
   date: 2005-01-30
   id: 2005-01-30-you-may-also-should-it-be-necessary
-  text: "\u201CYou may also, should it be necessary, not only twist your authorities,\
-    \ but actually falsify them, or quote something which you have invented entirely\
-    \ yourself. As a rule, your opponent has no books at hand, and could not use them\
-    \ if he had. The finest illustration of this is furnished by the French cur\xE9\
-    , who, to avoid being compelled, like other citizens, to pave the street in front\
-    \ of his house, quoted a saying which he described as biblical: paveant illi,\
-    \ ego non pavebo. That was quite enough for the municipal officers.\u201D \u2014\
-    \ Arthur Schopenhauer, The Art Of Controversy"
-  title: "\u201CYou may also, should it be necessary,\u2026\u201D"
-word_count: 105
+  text: '"You may also, should it be necessary, not only twist your authorities, but
+    actually falsify them, or quote something which you have invented entirely yourself.
+    As a rule, your opponent has no books at hand, and could not use them if he had.
+    The finest illustration of this is furnished by the French cure, who, to avoid
+    being compelled, like other citizens, to pave the street in front of his house,
+    quoted a saying which he described as biblical: paveant illi, ego non pavebo.
+    That was quite enough for the municipal officers." -- Arthur Schopenhauer, The
+    Art Of Controversy'
+  title: '"You may also, should it be necessary,..."'
+word_count: 106

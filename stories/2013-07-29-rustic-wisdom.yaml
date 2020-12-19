@@ -1,16 +1,4 @@
 ngrams:
-- - chicken
-  - good
-  - thing
-- - good
-  - thing
-  - happens
-- - eventuality
-  - will
-  - report
-- - will
-  - report
-  - back
 - - bbc
   - radio
   - this
@@ -23,14 +11,30 @@ ngrams:
 - - spell
   - or
   - incantation
+- - rustic
+  - wisdom
+  - or
+- - wisdom
+  - or
+  - perhaps
+- - wisdom
+  - 'on'
+  - farming
+- - rustic
+  - wisdom
+  - 'on'
 story:
   date: 2013-07-29
   id: 2013-07-29-rustic-wisdom
-  text: "On Farming Today on BBC Radio 4 this morning, I heard the following piece\
-    \ of rustic wisdom, or perhaps it was a spell or incantation:\nI see the chicken\u2014\
-    good thing happens.\nI have decided to test this by taking the first opportunity\
-    \ that presents itself to look at a chicken. I will then wait for something good\
-    \ to happen, and\u2014whatever the eventuality\u2014will report back, in vivid\
-    \ detail.\n"
+  text: 'On Farming Today on BBC Radio 4 this morning, I heard the following piece
+    of rustic wisdom, or perhaps it was a spell or incantation:
+
+    I see the chicken--good thing happens.
+
+    I have decided to test this by taking the first opportunity that presents itself
+    to look at a chicken. I will then wait for something good to happen, and--whatever
+    the eventuality--will report back, in vivid detail.
+
+    '
   title: Rustic Wisdom
-word_count: 71
+word_count: 68

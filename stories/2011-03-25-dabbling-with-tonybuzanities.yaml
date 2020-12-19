@@ -5,12 +5,6 @@ ngrams:
 - - jarring
   - speech
   - impediment
-- - flowing
-  - black
-  - cape
-- - black
-  - cape
-  - truly
 - - slightly
   - different
   - version
@@ -38,16 +32,26 @@ ngrams:
 - - appeared
   - here
   - some
+- - can
+  - only
+  - dream
+- - some
+  - years
+  - ago
 story:
   date: 2011-03-25
   id: 2011-03-25-dabbling-with-tonybuzanities
-  text: "\nOver at The Dabbler this week I recall my favourite pedagogue, a chap with\
-    \ a jarring speech impediment. A slightly different version of the piece appeared\
-    \ here some years ago. One detail that I certainly had no intention of changing,\
-    \ for obvious reasons, was the pedagogue's use, for pedagogic purposes, of tonybuzanities.\
-    \ These awe-inspiring pedagogic aids are named after Tony Buzan, he of the sepulchral\
-    \ voice and the flowing black cape\u2014truly a boulevard magnifico, if ever there\
-    \ was one, and a magnifico whose brain pulsates at a rate lesser mortals can only\
-    \ dream about, while dribbling and grovelling at his feet.\n"
+  text: '
+
+    Over at The Dabbler this week I recall my favourite pedagogue, a chap with a jarring
+    speech impediment. A slightly different version of the piece appeared here some
+    years ago. One detail that I certainly had no intention of changing, for obvious
+    reasons, was the pedagogue''s use, for pedagogic purposes, of tonybuzanities.
+    These awe-inspiring pedagogic aids are named after Tony Buzan, he of the sepulchral
+    voice and the flowing black cape--truly a boulevard magnifico, if ever there was
+    one, and a magnifico whose brain pulsates at a rate lesser mortals can only dream
+    about, while dribbling and grovelling at his feet.
+
+    '
   title: Dabbling With Tonybuzanities
-word_count: 105
+word_count: 104

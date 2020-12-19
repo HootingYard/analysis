@@ -1,19 +1,13 @@
 ngrams:
-- - workers
+- - workers'
   - accident
   - insurance
 - - accident
   - insurance
   - institute
-- - luke
-  - williams
-  - essay
 - - absolutely
   - fundamental
   - value
-- - writing
-  - fiction
-  - especially
 - - can
   - find
   - problems
@@ -29,15 +23,22 @@ ngrams:
 - - an
   - exception
   - especially
+- - an
+  - absolutely
+  - fundamental
+- - kafka
+  - being
+  - an
 story:
   date: 2012-01-13
   id: 2012-01-13-precision
-  text: "Sebald's point, it seemed to me, was simple. That precision in writing fiction\u2014\
-    especially in writing fiction\u2014is an absolutely fundamental value. He summed\
-    \ up by saying that if you look carefully you can find problems in all writers,\
-    \ or almost all (Kafka being an exception; especially, he told us, if you look\
-    \ at the reports he wrote for the Workers\u2019 Accident Insurance Institute!).\n\
-    from Luke Williams\u2019 essay \u201CA Watch on Each Wrist: Twelve Seminars with\
-    \ W.G. Sebald\u201D, discussed, with excerpts, here."
+  text: 'Sebald''s point, it seemed to me, was simple. That precision in writing fiction--especially
+    in writing fiction--is an absolutely fundamental value. He summed up by saying
+    that if you look carefully you can find problems in all writers, or almost all
+    (Kafka being an exception; especially, he told us, if you look at the reports
+    he wrote for the Workers'' Accident Insurance Institute!).
+
+    from Luke Williams'' essay "A Watch on Each Wrist: Twelve Seminars with W.G. Sebald",
+    discussed, with excerpts, here.'
   title: Precision
-word_count: 84
+word_count: 82

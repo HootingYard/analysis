@@ -5,19 +5,19 @@ ngrams:
 - - love
   - perfect
   - inanity
-- - fear
-  - richard
-  - mitchell
 - - richard
   - mitchell
   - less
 - - mitchell
   - less
   - than
+- - like
+  - love
+  - perfect
 story:
   date: 2004-02-26
   id: 2004-02-26-like-love-perfect-inanity-casteth-out-fear
-  text: "\u201CLike love, perfect inanity casteth out fear.\u201D \u2014 Richard Mitchell,\
-    \ Less Than Words Can Say"
-  title: "\u201CLike love, perfect inanity casteth out fear.\u201D"
-word_count: 21
+  text: '"Like love, perfect inanity casteth out fear." -- Richard Mitchell, Less
+    Than Words Can Say'
+  title: '"Like love, perfect inanity casteth out fear."'
+word_count: 22

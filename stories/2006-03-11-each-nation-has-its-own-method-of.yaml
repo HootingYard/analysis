@@ -8,9 +8,6 @@ ngrams:
 - - somewhat
   - startling
   - mode
-- - holiness
-  - john
-  - h
 - - john
   - h
   - young
@@ -50,19 +47,24 @@ ngrams:
 - - each
   - nation
   - has
+- - nation
+  - has
+  - its
+- - nation
+  - has
+  - its
 story:
   date: 2006-03-11
   id: 2006-03-11-each-nation-has-its-own-method-of
-  text: "\u201CEach nation has its own method of salutation. In Southern Africa it\
-    \ is the custom to rub toes. In Lapland your friend rubs his nose against yours.\
-    \ The Turk folds his arms upon his breast and bends his head very low. The Moors\
-    \ of Morocco have a somewhat startling mode of salutation. They ride at a gallop\
-    \ toward a stranger, as though they would unhorse him, and when close at hand\
-    \ suddenly check their horse and fire a pistol over the person's head. The Egyptian\
-    \ solicitously asks you, \u2018How do you perspire?\u2019 and lets his hand fall\
-    \ to the knee. The Chinese bows low and inquires, \u2018Have you eaten?\u2019\
-    \ The Spaniard says, \u2018God be with you, sir,\u2019 or, \u2018How do you stand?\u2019\
-    \ And the Neapolitan piously remarks, \u2018Grow in holiness\u2019.\u201D \u2014\
-    \ John H Young, Our Deportment"
-  title: "\u201CEach nation has its own method of\u2026\u201D"
-word_count: 142
+  text: '"Each nation has its own method of salutation. In Southern Africa it is the
+    custom to rub toes. In Lapland your friend rubs his nose against yours. The Turk
+    folds his arms upon his breast and bends his head very low. The Moors of Morocco
+    have a somewhat startling mode of salutation. They ride at a gallop toward a stranger,
+    as though they would unhorse him, and when close at hand suddenly check their
+    horse and fire a pistol over the person''s head. The Egyptian solicitously asks
+    you, ''How do you perspire?'' and lets his hand fall to the knee. The Chinese
+    bows low and inquires, ''Have you eaten?'' The Spaniard says, ''God be with you,
+    sir,'' or, ''How do you stand?'' And the Neapolitan piously remarks, ''Grow in
+    holiness''." -- John H Young, Our Deportment'
+  title: '"Each nation has its own method of..."'
+word_count: 147

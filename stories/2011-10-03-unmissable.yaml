@@ -1,5 +1,5 @@
 ngrams:
-- - caf
+- - cafe
   - gallery
   - bermondsey
 - - compositions
@@ -29,12 +29,23 @@ ngrams:
 story:
   date: 2011-10-03
   id: 2011-10-03-unmissable
-  text: "\nIt's unmissable! For one night only, Frank Key declaims his stories to\
-    \ a live audience, accompanied by the legendary Outa_Spaceman singing selections\
-    \ from the Hooting Yard songbook and his own compositions.\nFriday 18 November\
-    \ \xB7 19:00\u201422:00\nWoolfson & Tay. Books. Caf\xE9. Gallery.\n12 Bermondsey\
-    \ Square\nLondon SE1 3UN\nA snip at a mere fiver! Bring your extended family,\
-    \ and spread the word (to avert the exquisite horror of nobody actually turning\
-    \ up\u2026)\nTo book your place, go here"
+  text: '
+
+    It''s unmissable! For one night only, Frank Key declaims his stories to a live
+    audience, accompanied by the legendary Outa_Spaceman singing selections from the
+    Hooting Yard songbook and his own compositions.
+
+    Friday 18 November * 19:00--22:00
+
+    Woolfson & Tay. Books. Cafe. Gallery.
+
+    12 Bermondsey Square
+
+    London SE1 3UN
+
+    A snip at a mere fiver! Bring your extended family, and spread the word (to avert
+    the exquisite horror of nobody actually turning up...)
+
+    To book your place, go here'
   title: Unmissable!
-word_count: 75
+word_count: 76

@@ -2,9 +2,6 @@ ngrams:
 - - general
   - court
   - conceived
-- - hereafter
-  - discover
-  - miss
 - - miss
   - m
   - l
@@ -17,9 +14,6 @@ ngrams:
 - - pay
   - general
   - court
-- - discover
-  - miss
-  - m
 - - create
   - fear
   - instead
@@ -47,18 +41,27 @@ ngrams:
 - - fire
   - which
   - flashes
+- - young
+  - man
+  - we
+- - man
+  - we
+  - shall
+- - charles
+  - one
+  - however
 story:
   date: 2004-03-27
   id: 2004-03-27-yet-was-his-beauty-not-amiable-but
-  text: "\u201CYet, was his beauty not amiable, but rather calculated to inspire terror\
-    \ and distrust, than affection and confidence: in fact, a bandit may be uncommonly\
-    \ handsome; but, by the fierce, haughty character of his countenance, the fire\
-    \ which flashes from his eyes, and the contempt which curls his mustachoed lip,\
-    \ create fear, instead of winning regard, and this was the case with Charles.\
-    \ One, however, of those maidens, unto whom it was the folly and vanity of his\
-    \ youth to pay general court, conceived for him a passion deep and pure, which\
-    \ in semblance, at least, he returned; but how far to answer his own nefarious\
-    \ purposes, for Charles Elliott was a godless young man, we shall hereafter discover.\u201D\
-    \ \u2014 Miss M L Beevor, The Huntsman : A Traditionary Tale"
-  title: "\u201CYet, was his beauty not amiable, but\u2026\u201D"
-word_count: 135
+  text: '"Yet, was his beauty not amiable, but rather calculated to inspire terror
+    and distrust, than affection and confidence: in fact, a bandit may be uncommonly
+    handsome; but, by the fierce, haughty character of his countenance, the fire which
+    flashes from his eyes, and the contempt which curls his mustachoed lip, create
+    fear, instead of winning regard, and this was the case with Charles. One, however,
+    of those maidens, unto whom it was the folly and vanity of his youth to pay general
+    court, conceived for him a passion deep and pure, which in semblance, at least,
+    he returned; but how far to answer his own nefarious purposes, for Charles Elliott
+    was a godless young man, we shall hereafter discover." -- Miss M L Beevor, The
+    Huntsman : A Traditionary Tale'
+  title: '"Yet, was his beauty not amiable, but..."'
+word_count: 136

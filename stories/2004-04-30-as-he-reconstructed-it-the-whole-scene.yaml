@@ -2,18 +2,12 @@ ngrams:
 - - vicious
   - bluffing
   - bark
-- - tightly
-  - stretched
-  - skin
 - - sodden
   - stygian
   - darkness
 - - scene
   - seemed
   - unreal
-- - stretched
-  - skin
-  - often
 - - human
   - enemy
   - 'yes'
@@ -62,22 +56,27 @@ ngrams:
 - - overhead
   - or
   - brushing
+- - or
+  - brushing
+  - against
+- - had
+  - seen
+  - many
 story:
   date: 2004-04-30
   id: 2004-04-30-as-he-reconstructed-it-the-whole-scene
-  text: "\u201CAs he reconstructed it, the whole scene seemed unreal, almost oppressively,\
-    \ ludicrously theatrical. The pall of sodden, stygian darkness all around; the\
-    \ night sounds of soft-winged, obscene things flapping lazily overhead or brushing\
-    \ against the furry trees that held the woolly heat of the tropical day like boiler\
-    \ pipes in a factory; the slimy, swishy things that glided and crawled and wiggled\
-    \ underfoot; the vibrant growl of a hunting lioness that began in a deep basso\
-    \ and peaked to a shrill, high-pitched, ridiculously inadequate treble; a spotted\
-    \ hyena's vicious, bluffing bark; the chirp and whistle of innumerable monkeys;\
-    \ a warthog breaking through the undergrowth with a clumsy, clownish crash\u2014\
-    and somewhere, very far away, the staccato thumping of a signal drum, and more\
-    \ faintly yet the answer from the next in line. He had seen many such drums, made\
-    \ from fire-hollowed palm trees and covered with tightly stretched skin\u2014\
-    often the skin of a human enemy. Yes. He remembered it all.\u201D \u2014 Achmed\
-    \ Abdullah, Fear"
-  title: "\u201CAs he reconstructed it, the whole scene\u2026\u201D"
-word_count: 171
+  text: '"As he reconstructed it, the whole scene seemed unreal, almost oppressively,
+    ludicrously theatrical. The pall of sodden, stygian darkness all around; the night
+    sounds of soft-winged, obscene things flapping lazily overhead or brushing against
+    the furry trees that held the woolly heat of the tropical day like boiler pipes
+    in a factory; the slimy, swishy things that glided and crawled and wiggled underfoot;
+    the vibrant growl of a hunting lioness that began in a deep basso and peaked to
+    a shrill, high-pitched, ridiculously inadequate treble; a spotted hyena''s vicious,
+    bluffing bark; the chirp and whistle of innumerable monkeys; a warthog breaking
+    through the undergrowth with a clumsy, clownish crash--and somewhere, very far
+    away, the staccato thumping of a signal drum, and more faintly yet the answer
+    from the next in line. He had seen many such drums, made from fire-hollowed palm
+    trees and covered with tightly stretched skin--often the skin of a human enemy.
+    Yes. He remembered it all." -- Achmed Abdullah, Fear'
+  title: '"As he reconstructed it, the whole scene..."'
+word_count: 170

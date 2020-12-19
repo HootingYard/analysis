@@ -1,7 +1,4 @@
 ngrams:
-- - gerard
-  - manley
-  - hopkins
 - - equally
   - fascinating
   - quote
@@ -14,12 +11,18 @@ ngrams:
 - - another
   - equally
   - fascinating
+- - good
+  - name
+  - gerard
 story:
   date: 2007-02-21
   id: 2007-02-21-father-hopkins-sj
-  text: "I have been accused of relentlessly alluding to a single extract from the\
-    \ Journals of Gerard Manley Hopkins\u2014the entry where he describes mesmerising\
-    \ a duck\u2014so here is another, equally fascinating, quote:\n\u201CTuncks is\
-    \ a good name. Gerard Manley Tuncks. Pook Tuncks.\u201D\n"
+  text: 'I have been accused of relentlessly alluding to a single extract from the
+    Journals of Gerard Manley Hopkins--the entry where he describes mesmerising a
+    duck--so here is another, equally fascinating, quote:
+
+    "Tuncks is a good name. Gerard Manley Tuncks. Pook Tuncks."
+
+    '
   title: Father Hopkins, SJ
-word_count: 46
+word_count: 44

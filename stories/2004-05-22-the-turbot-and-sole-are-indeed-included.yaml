@@ -1,7 +1,4 @@
 ngrams:
-- - mackerel
-  - william
-  - hazlitt
 - - hazlitt
   - old
   - cookery
@@ -17,12 +14,15 @@ ngrams:
 - - been
   - very
   - fond
+- - which
+  - king
+  - john
 story:
   date: 2004-05-22
   id: 2004-05-22-the-turbot-and-sole-are-indeed-included
-  text: "\u201CThe turbot and sole are indeed included in the Treatise on Utensils\
-    \ of Neckam, as are likewise the lamprey (of which King John is said to have been\
-    \ very fond), bleak, gudgeon, conger, plaice, limpet, ray, and mackerel.\u201D\
-    \ \u2014 William Hazlitt, Old Cookery Books And Ancient Cuisine"
-  title: "\u201CThe turbot and sole are indeed included\u2026\u201D"
-word_count: 53
+  text: '"The turbot and sole are indeed included in the Treatise on Utensils of Neckam,
+    as are likewise the lamprey (of which King John is said to have been very fond),
+    bleak, gudgeon, conger, plaice, limpet, ray, and mackerel." -- William Hazlitt,
+    Old Cookery Books And Ancient Cuisine'
+  title: '"The turbot and sole are indeed included..."'
+word_count: 54

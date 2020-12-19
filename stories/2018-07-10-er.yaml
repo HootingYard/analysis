@@ -1,10 +1,4 @@
 ngrams:
-- - resume
-  - shortly
-  - meanwhile
-- - shortly
-  - meanwhile
-  - news
 - - yard
   - basically
   - none
@@ -17,12 +11,17 @@ ngrams:
 - - working
   - so
   - anything
+- - quite
+  - there
+  - yet
 story:
   date: 2018-07-10
   id: 2018-07-10-er
-  text: "Er \u2026 as you may have noticed, we're not quite there yet with the Rebirth\
-    \ of Hooting Yard. (Basically, none of the Innards is working, so anything you\
-    \ try to click on is apparently \u201CNot Found\u201D.) Fear not! Optimum blogtasticness\
-    \ will resume shortly \u2026\nMeanwhile\u2014news of Killer Swans!"
-  title: "Er \u2026"
-word_count: 48
+  text: 'Er ... as you may have noticed, we''re not quite there yet with the Rebirth
+    of Hooting Yard. (Basically, none of the Innards is working, so anything you try
+    to click on is apparently "Not Found".) Fear not! Optimum blogtasticness will
+    resume shortly ...
+
+    Meanwhile--news of Killer Swans!'
+  title: Er ...
+word_count: 47

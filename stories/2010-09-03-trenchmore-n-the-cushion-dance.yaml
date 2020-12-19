@@ -38,18 +38,24 @@ ngrams:
 - - what
   - fresh
   - hell
+- - fresh
+  - hell
+  - will
 story:
   date: 2010-09-03
   id: 2010-09-03-trenchmore-n-the-cushion-dance
-  text: "\u201CIn Queen Eliz: time, Gravitie and state was kept upp. In King James\
-    \ time things were pretty well. But in K. Charles time there has binn nothing\
-    \ but Trenchmore & the Cushion dance, Omnium gatherum, tolly polly, hoyte come\
-    \ toyte.\u201D\nThe Table-Talk Of John Selden (1689)\nApropos Brit's history of\
-    \ Britain 1939\u20132010 in seventy-seven words, clearly things have been going\
-    \ to pot for a long, long time. Tolly polly and hoyte come toyte indeed! What\
-    \ fresh hell will yet assail us?\nADDENDUM\_: In 1652, John Evelyn complained\
-    \ of \u201Cthe depraved youth of England, whose prodigious disbaucheries and late\
-    \ unheard of extravagancies far surpasse the madnesse of all other civilized Nations\
-    \ whatsoever\u201D."
+  text: '"In Queen Eliz: time, Gravitie and state was kept upp. In King James time
+    things were pretty well. But in K. Charles time there has binn nothing but Trenchmore
+    & the Cushion dance, Omnium gatherum, tolly polly, hoyte come toyte."
+
+    The Table-Talk Of John Selden (1689)
+
+    Apropos Brit''s history of Britain 1939-2010 in seventy-seven words, clearly things
+    have been going to pot for a long, long time. Tolly polly and hoyte come toyte
+    indeed! What fresh hell will yet assail us?
+
+    ADDENDUM : In 1652, John Evelyn complained of "the depraved youth of England,
+    whose prodigious disbaucheries and late unheard of extravagancies far surpasse
+    the madnesse of all other civilized Nations whatsoever".'
   title: Trenchmore & The Cushion Dance
-word_count: 111
+word_count: 112

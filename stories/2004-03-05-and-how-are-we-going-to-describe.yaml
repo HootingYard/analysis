@@ -8,12 +8,6 @@ ngrams:
 - - roger
   - lewis
   - anthony
-- - shears
-  - roger
-  - lewis
-- - garden
-  - shears
-  - roger
 - - since
   - prince
   - vlad
@@ -44,17 +38,23 @@ ngrams:
 - - powdery
   - strands
   - were
+- - go
+  - around
+  - like
+- - could
+  - go
+  - around
 story:
   date: 2004-03-05
   id: 2004-03-05-and-how-are-we-going-to-describe
-  text: "\u201CAnd how are we going to describe his hair? The yellowish-white powdery\
-    \ strands were coiled on his scalp like Bram Stoker's Dracula's peruke, not maintained\
-    \ since Prince Vlad the Impaler fought off the Turks in the Carpathian mountains\
-    \ in 1462. What does it say about a man that he could go around like that, as\
-    \ Burgess did? Though he was a king of the comb-over (did the clumps and fronds\
-    \ emanate from his ear-hole?), no professional barber can be blamed for this.\
-    \ I thought to myself, he has no idea how strange he is. What did he think he\
-    \ looked like? He evidently operated on his own head with a pair of garden shears.\u201D\
-    \ \u2014 Roger Lewis, Anthony Burgess"
-  title: "\u201CAnd how are we going to describe\u2026\u201D"
-word_count: 124
+  text: '"And how are we going to describe his hair? The yellowish-white powdery strands
+    were coiled on his scalp like Bram Stoker''s Dracula''s peruke, not maintained
+    since Prince Vlad the Impaler fought off the Turks in the Carpathian mountains
+    in 1462. What does it say about a man that he could go around like that, as Burgess
+    did? Though he was a king of the comb-over (did the clumps and fronds emanate
+    from his ear-hole?), no professional barber can be blamed for this. I thought
+    to myself, he has no idea how strange he is. What did he think he looked like?
+    He evidently operated on his own head with a pair of garden shears." -- Roger
+    Lewis, Anthony Burgess'
+  title: '"And how are we going to describe..."'
+word_count: 125

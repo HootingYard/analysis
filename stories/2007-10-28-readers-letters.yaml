@@ -11,9 +11,6 @@ ngrams:
 - - letters
   - dear
   - frank
-- - readers
-  - letters
-  - dear
 - - about
   - brick
   - manufacture
@@ -29,15 +26,18 @@ ngrams:
 - - recently
   - attended
   - an
+- - illustrated
+  - lecture
+  - at
 story:
   date: 2007-10-28
   id: 2007-10-28-readers-letters
   text: "Dear Frank, writes Jonathan Coleclough, I recently attended an illustrated\
     \ lecture at the History of Reading Society on the subject of chalk mining in\
     \ Reading. I was delighted to see that the first screen of the presentation was\
-    \ a quote about brick manufacture with the single-word attribution \u201CDobson\u201D\
+    \ a quote about brick manufacture with the single-word attribution \"Dobson\"\
     . From that point on I was confident I would have a good evening. I wasn't disappointed.\n\
     The subject of chalk mining is of interest in this area, as the enclosed photo\
-    \ illustrates.\n\n\_"
-  title: "Readers\u2019 Letters"
+    \ illustrates.\n\n "
+  title: Readers' Letters
 word_count: 82

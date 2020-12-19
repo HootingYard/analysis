@@ -1,7 +1,4 @@
 ngrams:
-- - intertitles
-  - advent
-  - calendar
 - - maddin
   - film
   - intertitles
@@ -14,11 +11,14 @@ ngrams:
 - - the
   - heart
   - of
+- - heart
+  - of
+  - the
 story:
   date: 2017-12-25
   id: 2017-12-25-guy-maddin-film-intertitles-advent-calendar-xxv
   text: '
 
     The Heart Of The World (2000)'
-  title: "Guy Maddin Film Intertitles Advent Calendar\u2014XXV"
-word_count: 12
+  title: Guy Maddin Film Intertitles Advent Calendar--XXV
+word_count: 11

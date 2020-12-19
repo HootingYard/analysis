@@ -35,15 +35,18 @@ ngrams:
 - - dare
   - not
   - even
+- - my
+  - daily
+  - impressions
 story:
   date: 2004-03-31
   id: 2004-03-31-one-thing-is-certain-and-that-is
-  text: "\u201COne thing is certain, and that is that I have embarked upon an extraordinary\
-    \ adventure, that will end\u2026? In what manner I know not. I dare not even imagine\
-    \ what the upshot of it will be. Anyhow, it is my intention to commit to memory,\
-    \ minute by minute, the least circumstance, and then, if it be possible, to jot\
-    \ down my daily impressions. Who knows what the future has in store for me? And\
-    \ who knows but what, in my new position, I may finally discover the secret of\
-    \ Roth's fulgurator?\u201D \u2014 Jules Verne, Face au drapeau"
-  title: "\u201COne thing is certain, and that is\u2026\u201D"
-word_count: 103
+  text: '"One thing is certain, and that is that I have embarked upon an extraordinary
+    adventure, that will end...? In what manner I know not. I dare not even imagine
+    what the upshot of it will be. Anyhow, it is my intention to commit to memory,
+    minute by minute, the least circumstance, and then, if it be possible, to jot
+    down my daily impressions. Who knows what the future has in store for me? And
+    who knows but what, in my new position, I may finally discover the secret of Roth''s
+    fulgurator?" -- Jules Verne, Face au drapeau'
+  title: '"One thing is certain, and that is..."'
+word_count: 104

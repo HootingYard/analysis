@@ -14,9 +14,6 @@ ngrams:
 - - j
   - griswold
   - crayon
-- - misery
-  - j
-  - griswold
 - - draw
   - beer
   - keg
@@ -53,19 +50,22 @@ ngrams:
 - - honorable
   - citizens
   - into
+- - citizens
+  - into
+  - murderers
 story:
   date: 2006-03-09
   id: 2006-03-09-i-am-going-to-outline-for-you
-  text: "\u201CI am going to outline for you a picture of an object which is everywhere\
-    \ recognized by good people as a symbol of defiance of the law, a suggestion of\
-    \ immorality, of poverty, depravity and death. [Draw beer keg, completing Fig.\
-    \ 15.] In plain words, it is a beer keg, and its close companions are the whiskey\
-    \ barrel, the wine cask and the demijohn! It well represents the liquor traffic\
-    \ as a whole\u2014that terrible curse which holds in its grip so many men and\
-    \ boys, whose lives might be bright, happy and successful but for its blighting,\
-    \ fatal grasp. No right-thinking man has a good word for the business which makes\
-    \ good men into brutes, transforms honorable citizens into murderers, and brings\
-    \ many a prosperous family to rags and misery.\u201D \u2014 J Griswold, Crayon\
-    \ And Character : Truth Made Clear Through Eye And Ear"
-  title: "\u201CI am going to outline for you\u2026\u201D"
+  text: '"I am going to outline for you a picture of an object which is everywhere
+    recognized by good people as a symbol of defiance of the law, a suggestion of
+    immorality, of poverty, depravity and death. [Draw beer keg, completing Fig. 15.]
+    In plain words, it is a beer keg, and its close companions are the whiskey barrel,
+    the wine cask and the demijohn! It well represents the liquor traffic as a whole--that
+    terrible curse which holds in its grip so many men and boys, whose lives might
+    be bright, happy and successful but for its blighting, fatal grasp. No right-thinking
+    man has a good word for the business which makes good men into brutes, transforms
+    honorable citizens into murderers, and brings many a prosperous family to rags
+    and misery." -- J Griswold, Crayon And Character : Truth Made Clear Through Eye
+    And Ear'
+  title: '"I am going to outline for you..."'
 word_count: 149

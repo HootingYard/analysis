@@ -2,30 +2,18 @@ ngrams:
 - - competently
   - tabulated
   - tabulation
-- - greyhound
-  - racing
-  - stadium
 - - publicity
   - poster
   - printers
 - - biff
   - blunkett's
   - verbose
-- - k
-  - corral
-  - persimmon
 - - biff
   - blunkett's
   - magisterial
-- - bates
-  - motel
-  - interior
 - - choreographed
   - involved
   - tremendously
-- - corral
-  - persimmon
-  - orchard
 - - castle's
   - electrical
   - wiring
@@ -38,9 +26,6 @@ ngrams:
 - - biff
   - blunkett
   - insist
-- - pear
-  - orchard
-  - jetty
 - - exceedingly
   - slow
   - pace
@@ -50,27 +35,15 @@ ngrams:
 - - steps
   - choreographed
   - involved
-- - uncle
-  - tom's
-  - cabin
-- - apple
-  - orchard
-  - pear
 - - tremendously
   - heavy
   - thumping
-- - orchard
-  - pear
-  - orchard
 - - lack
   - ballet
   - chops
 - - clever
   - literary
   - device
-- - racing
-  - stadium
-  - hotel
 - - magisterial
   - study
   - dithering
@@ -95,9 +68,6 @@ ngrams:
 - - electrical
   - wiring
   - system
-- - stadium
-  - hotel
-  - lobby
 - - play
   - fairly
   - rattles
@@ -113,9 +83,6 @@ ngrams:
 - - gale
   - force
   - wind
-- - orchard
-  - jetty
-  - scene
 - - seven
   - separate
   - scenes
@@ -125,51 +92,15 @@ ngrams:
 - - six
   - uncle
   - tom's
-- - castle
-  - plague
-  - pit
-- - plague
-  - pit
-  - castle
 - - confuse
   - king
   - jasper's
 - - king
   - jasper
   - situated
-- - o
-  - k
-  - corral
-- - tom's
-  - cabin
-  - king
-- - four
-  - bates
-  - motel
 - - cubby
   - scene
   - seven
-- - pit
-  - castle
-  - balcony
-- - castle
-  - balcony
-  - scene
-- - cabin
-  - king
-  - jasper's
-- - king
-  - jasper's
-  - cabin
-- - jiffy
-  - bag
-  - apple
-- - giant
-  - jiffy
-  - bag
-- - jetty
-  - scene
-  - five
 - - king
   - jasper's
   - castle
@@ -200,12 +131,6 @@ ngrams:
 - - king
   - jasper's
   - castle
-- - king
-  - jasper's
-  - castle
-- - bag
-  - apple
-  - orchard
 - - example
   - biff
   - blunkett's
@@ -221,9 +146,6 @@ ngrams:
 - - scene
   - four
   - bates
-- - pickles
-  - companion
-  - piece
 - - hell
   - scene
   - four
@@ -353,82 +275,166 @@ ngrams:
 - - jasper's
   - castle
   - its
+- - castle
+  - its
+  - electrical
+- - castle
+  - its
+  - electrical
+- - castle
+  - its
+  - electrical
+- - castle
+  - its
+  - electrical
+- - wiring
+  - system
+  - its
+- - wiring
+  - system
+  - its
+- - wiring
+  - system
+  - its
+- - wiring
+  - system
+  - its
+- - its
+  - seven
+  - separate
+- - upon
+  - caked
+  - mud
+- - boots
+  - upon
+  - caked
+- - castle
+  - its
+  - gas
+- - castle
+  - its
+  - gas
+- - system
+  - its
+  - janitor
+- - system
+  - its
+  - janitor
+- - system
+  - its
+  - janitor
+- - system
+  - its
+  - janitor
+- - get
+  - bogged
+  - down
+- - blunkett
+  - insist
+  - more
+- - given
+  - name
+  - though
+- - name
+  - those
+  - names
+- - obtuse
+  - rather
+  - than
+- - rather
+  - than
+  - acute
+- - even
+  - steeper
+  - why
 story:
   date: 2012-03-28
   id: 2012-03-28-on-king-jaspers-castle-its-electrical-wiring-system-its-janitor-and-its-chatelaine
-  text: "If I knew the first thing about the ballet, I would tell you all about Crepingeour's\
-    \ ground-breaking work King Jasper's Castle, Its Electrical Wiring System, Its\
-    \ Janitor, And Its Chatelaine. It was literally a ground-breaking ballet, in that\
-    \ some of the steps choreographed involved tremendously heavy thumping, in big\
-    \ boots, upon caked mud. But alas and alack, I completely lack ballet chops. So\
-    \ instead I will turn my attention to King Jasper's Castle, Its Electrical Wiring\
-    \ System, Its Janitor, And Its Chatelaine, the play by Pickles on which the ballet\
-    \ is based. My source is Basing Ballets On Pickles Plays\_: A Study Of Crepingeour\
-    \ And His Followers In The Crepingeourist School by Biff Blunkett, the noted balletomane\
-    \ and Crepingeourist. I had best press on before I get bogged down in further\
-    \ folderol.\nThe plot of King Jasper's Castle, Etcetera is so convoluted that\
-    \ I am not going to attempt to summarise it here. What you need to know is that\
-    \ the setting is a castle, belonging to King Jasper, situated on a bleak promontory\
-    \ overlooking a bleaker sea. The castle's electrical wiring system is as complicated\
-    \ as the plot of the play, if not more so. Its maintenance and seemingly endless\
-    \ tweaking and repair is the responsibility of the janitor, who is employed by\
-    \ the castle's chatelaine. Neither the janitor nor the chatelaine has a given\
-    \ name, though whether this is an oversight on Pickles\u2019 part, or an oh so\
-    \ clever literary device, is moot. Arguments have been thrashed out on both sides.\
-    \ There are other Pickles plays with nameless characters, some where characters\
-    \ swap their names around between acts, and several where, though every character\
-    \ has a name, those names are unpronounceable in any human tongue, or indeed in\
-    \ bestial grunts, howls, or birdsong. Not for nothing is Pickles labelled a \u201C\
-    difficult\u201D playwright, just as he was called a \u201Cdifficult\u201D child\
-    \ by those paid to watch over him in his infancy.\nBut King Jasper's Castle, Etcetera\
-    \ is not, in itself, a difficult play, for either actors or audience. Indeed it\
-    \ is often the case that the cast, whether professional or amateur, will dispense\
-    \ with rehearsals entirely, and simply jump on to a stage impromptu and start\
-    \ performing it. The only people who are disconcerted by this are the scene-shifters,\
-    \ who become all a-dither. Still, from what I have read, that is only to be expected\
-    \ of scene-shifters. See for example Biff Blunkett's magisterial study Dithering\
-    \ Scene-Shifters In Theatrical Performances Of Pickles Plays. That said, Pickles\
-    \ has to bear some responsibility for the dithering, for his plays have become\
-    \ notorious among scene-shifters for their rapid and bewildering shifts of scene.\
-    \ In King Jasper's Castle, Etcetera, for example, Act One alone requires twenty-two\
-    \ different sets in its seven separate scenes, as can be tabulated by a competent\
-    \ tabulator with an eagle on the script, as follows:\nScene One\_: The pantry\
-    \ in King Jasper's castle\u2014a greyhound racing stadium\u2014hotel lobby\u2014\
-    the castle drawbridge.\nScene Two\_: Electrical wiring cupboard in the castle\u2014\
-    plague pit\u2014castle balcony.\nScene Three\_: Hell.\nScene Four\_: Bates Motel\u2014\
-    interior of giant Jiffy bag\u2014apple orchard\u2014pear orchard\u2014jetty.\n\
-    Scene Five\_: The castle larder\u2014the castle oubliette\u2014the O.K. Corral\u2014\
-    persimmon orchard\u2014 chatelaine's boudoir.\nScene Six\_: Uncle Tom's cabin\u2014\
-    King Jasper's cabin\u2014janitor's cubby.\nScene Seven\_: The Great Hall of King\
-    \ Jasper's castle\nThose of you who have not seen the play might infer from this\
-    \ competently tabulated tabulation that it must be hard to follow the action,\
-    \ what with so many changes of scene, even, as we can see, within the same scene,\
-    \ to the point where one calls into question quite what Pickles meant by the word\
-    \ \u201Cscene\u201D in the first place. But that would be to underestimate the\
-    \ sheer genius of Pickles\u2019 stagecraft. Also, if you have not actually seen\
-    \ the play in performance you would have no appreciation of its exceedingly slow\
-    \ pace. Think snails, and lame snails at that. Snails on crutches. Snails on crutches\
-    \ battling against a gale force wind. Uphill. At a steep gradient. Think even\
-    \ steeper.\nWhy, then, does a critic as acute as Biff Blunkett insist, more than\
-    \ once, that the play \u201Cfairly rattles along\u201D? Is he obtuse rather than\
-    \ acute? Is he a fool? Has he been watching a completely different play all this\
-    \ time? That is a possibility. It is not only scene-shifters who get all a-dither\
-    \ in the face of Pickles\u2019 dramaturgy, but the printers of playbills and publicity\
-    \ posters too. Blunkett himself has written a magnificent and coruscating study\
-    \ of this very issue in his A Magnificent And Coruscating Study Of The Issue Of\
-    \ Dithering Playbill And Publicity Poster Printers Of Pickles Plays. If you only\
-    \ read one of Biff Blunkett's verbose and prolix spoutings, this is the one worthy\
-    \ of your attention. The chapter in which he sounds a warning regarding the tendency\
-    \ to confuse King Jasper's Castle, Its Electrical Wiring System, Its Janitor,\
-    \ And Its Chatelaine with Pickles\u2019 companion piece King Jasper's Castle,\
-    \ Its Gas Mantles, Its Chatelaine, And Its Janitor is particularly magnificent,\
-    \ though not quite as coruscating as it might be, all things considered. Among\
-    \ the things considered should be the fact that Blunkett was bedridden with double\
-    \ pneumonia and a collapsed lung when he wrote it.\nRumours are afoot that a young\
-    \ hothead Crepingeourist is at work on a ballet based on King Jasper's Castle,\
-    \ Its Gas Mantles, Its Chatelaine, And Its Janitor. If so, that will be something\
-    \ to see, at least for balletomanes. The rest of us can spend a profitable evening\
-    \ queuing up at a soup kitchen."
+  text: 'If I knew the first thing about the ballet, I would tell you all about Crepingeour''s
+    ground-breaking work King Jasper''s Castle, Its Electrical Wiring System, Its
+    Janitor, And Its Chatelaine. It was literally a ground-breaking ballet, in that
+    some of the steps choreographed involved tremendously heavy thumping, in big boots,
+    upon caked mud. But alas and alack, I completely lack ballet chops. So instead
+    I will turn my attention to King Jasper''s Castle, Its Electrical Wiring System,
+    Its Janitor, And Its Chatelaine, the play by Pickles on which the ballet is based.
+    My source is Basing Ballets On Pickles Plays : A Study Of Crepingeour And His
+    Followers In The Crepingeourist School by Biff Blunkett, the noted balletomane
+    and Crepingeourist. I had best press on before I get bogged down in further folderol.
+
+    The plot of King Jasper''s Castle, Etcetera is so convoluted that I am not going
+    to attempt to summarise it here. What you need to know is that the setting is
+    a castle, belonging to King Jasper, situated on a bleak promontory overlooking
+    a bleaker sea. The castle''s electrical wiring system is as complicated as the
+    plot of the play, if not more so. Its maintenance and seemingly endless tweaking
+    and repair is the responsibility of the janitor, who is employed by the castle''s
+    chatelaine. Neither the janitor nor the chatelaine has a given name, though whether
+    this is an oversight on Pickles'' part, or an oh so clever literary device, is
+    moot. Arguments have been thrashed out on both sides. There are other Pickles
+    plays with nameless characters, some where characters swap their names around
+    between acts, and several where, though every character has a name, those names
+    are unpronounceable in any human tongue, or indeed in bestial grunts, howls, or
+    birdsong. Not for nothing is Pickles labelled a "difficult" playwright, just as
+    he was called a "difficult" child by those paid to watch over him in his infancy.
+
+    But King Jasper''s Castle, Etcetera is not, in itself, a difficult play, for either
+    actors or audience. Indeed it is often the case that the cast, whether professional
+    or amateur, will dispense with rehearsals entirely, and simply jump on to a stage
+    impromptu and start performing it. The only people who are disconcerted by this
+    are the scene-shifters, who become all a-dither. Still, from what I have read,
+    that is only to be expected of scene-shifters. See for example Biff Blunkett''s
+    magisterial study Dithering Scene-Shifters In Theatrical Performances Of Pickles
+    Plays. That said, Pickles has to bear some responsibility for the dithering, for
+    his plays have become notorious among scene-shifters for their rapid and bewildering
+    shifts of scene. In King Jasper''s Castle, Etcetera, for example, Act One alone
+    requires twenty-two different sets in its seven separate scenes, as can be tabulated
+    by a competent tabulator with an eagle on the script, as follows:
+
+    Scene One : The pantry in King Jasper''s castle--a greyhound racing stadium--hotel
+    lobby--the castle drawbridge.
+
+    Scene Two : Electrical wiring cupboard in the castle--plague pit--castle balcony.
+
+    Scene Three : Hell.
+
+    Scene Four : Bates Motel--interior of giant Jiffy bag--apple orchard--pear orchard--jetty.
+
+    Scene Five : The castle larder--the castle oubliette--the O.K. Corral--persimmon
+    orchard-- chatelaine''s boudoir.
+
+    Scene Six : Uncle Tom''s cabin--King Jasper''s cabin--janitor''s cubby.
+
+    Scene Seven : The Great Hall of King Jasper''s castle
+
+    Those of you who have not seen the play might infer from this competently tabulated
+    tabulation that it must be hard to follow the action, what with so many changes
+    of scene, even, as we can see, within the same scene, to the point where one calls
+    into question quite what Pickles meant by the word "scene" in the first place.
+    But that would be to underestimate the sheer genius of Pickles'' stagecraft. Also,
+    if you have not actually seen the play in performance you would have no appreciation
+    of its exceedingly slow pace. Think snails, and lame snails at that. Snails on
+    crutches. Snails on crutches battling against a gale force wind. Uphill. At a
+    steep gradient. Think even steeper.
+
+    Why, then, does a critic as acute as Biff Blunkett insist, more than once, that
+    the play "fairly rattles along"? Is he obtuse rather than acute? Is he a fool?
+    Has he been watching a completely different play all this time? That is a possibility.
+    It is not only scene-shifters who get all a-dither in the face of Pickles'' dramaturgy,
+    but the printers of playbills and publicity posters too. Blunkett himself has
+    written a magnificent and coruscating study of this very issue in his A Magnificent
+    And Coruscating Study Of The Issue Of Dithering Playbill And Publicity Poster
+    Printers Of Pickles Plays. If you only read one of Biff Blunkett''s verbose and
+    prolix spoutings, this is the one worthy of your attention. The chapter in which
+    he sounds a warning regarding the tendency to confuse King Jasper''s Castle, Its
+    Electrical Wiring System, Its Janitor, And Its Chatelaine with Pickles'' companion
+    piece King Jasper''s Castle, Its Gas Mantles, Its Chatelaine, And Its Janitor
+    is particularly magnificent, though not quite as coruscating as it might be, all
+    things considered. Among the things considered should be the fact that Blunkett
+    was bedridden with double pneumonia and a collapsed lung when he wrote it.
+
+    Rumours are afoot that a young hothead Crepingeourist is at work on a ballet based
+    on King Jasper''s Castle, Its Gas Mantles, Its Chatelaine, And Its Janitor. If
+    so, that will be something to see, at least for balletomanes. The rest of us can
+    spend a profitable evening queuing up at a soup kitchen.'
   title: On King Jasper's Castle, Its Electrical Wiring System, Its Janitor, And Its
     Chatelaine
-word_count: 944
+word_count: 930

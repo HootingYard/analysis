@@ -2,19 +2,10 @@ ngrams:
 - - devil's
   - chain
   - cutting
-- - times
-  - luther
-  - benson
-- - thousand
-  - times
-  - luther
 - - chain
   - cutting
   - through
 - - miserable
-  - too
-  - well
-- - fire
   - too
   - well
 - - felt
@@ -35,15 +26,23 @@ ngrams:
 - - know
   - what
   - these
+- - these
+  - things
+  - are
+- - my
+  - nerves
+  - tremble
+- - my
+  - quivering
+  - flesh
 story:
   date: 2005-09-04
   id: 2005-09-04-from-the-day-that-consciousness-came-to
-  text: "\u201CFrom the day that consciousness came to me in this world I have been\
-    \ miserable\u2026 Too well do I know what it is to feel the burning and jagged\
-    \ links of the devil's chain cutting through my quivering flesh to the shrinking\
-    \ bone\u2014to feel my nerves tremble with agony, and my brain burn as if bathed\
-    \ in liquids of fire\u2014too well, I say, do I know what these things are, for\
-    \ I have felt them intensified again and again, ten thousand times.\u201D \u2014\
-    \ Luther Benson, Fifteen Years In Hell"
-  title: "\u201CFrom the day that consciousness came to\u2026\u201D"
-word_count: 97
+  text: '"From the day that consciousness came to me in this world I have been miserable...
+    Too well do I know what it is to feel the burning and jagged links of the devil''s
+    chain cutting through my quivering flesh to the shrinking bone--to feel my nerves
+    tremble with agony, and my brain burn as if bathed in liquids of fire--too well,
+    I say, do I know what these things are, for I have felt them intensified again
+    and again, ten thousand times." -- Luther Benson, Fifteen Years In Hell'
+  title: '"From the day that consciousness came to..."'
+word_count: 96

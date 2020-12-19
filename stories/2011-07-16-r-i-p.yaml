@@ -1,4 +1,7 @@
 ngrams:
+- - googie
+  - withers
+  - '-'
 - - p
   - googie
   - withers
@@ -11,6 +14,8 @@ ngrams:
 story:
   date: 2011-07-16
   id: 2011-07-16-r-i-p
-  text: "Googie Withers, 1917\u20132011\n"
+  text: 'Googie Withers, 1917-2011
+
+    '
   title: R.I.P.
-word_count: 5
+word_count: 6

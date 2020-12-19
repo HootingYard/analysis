@@ -74,9 +74,6 @@ ngrams:
 - - share
   - her
   - enthusiasm
-- - cheats
-  - she
-  - writes
 - - dozens
   - upon
   - dozens
@@ -122,33 +119,49 @@ ngrams:
 - - an
   - earthly
   - plane
+- - an
+  - expert
+  - player
 story:
   date: 2005-08-29
   id: 2005-08-29-bosanquet
-  text: "Pansy Cradledew has recently become enamoured of the computer game Bosanquet,\
-    \ which she will play for hours at a time, seemingly removed from an earthly plane.\
-    \ Though I do not share her enthusiasm for this so-called \u201Cgame of skill,\
-    \ tactics, problem-solving and strategy\u201D, Pansy assures me that she is but\
-    \ one among a legion of devotees. She also says that, as an expert player, she\
-    \ wants to reach out to those less adept than herself, and has asked me to publish\
-    \ a few little hints and tips.\n\u201CThese should not be considered as something\
-    \ so vulgar as \u2018cheats\u2019,\u201D she writes, \u201Cbut as advisory notes\
-    \ for those Bosanquetistas (as we dub ourselves) who have not yet reached the\
-    \ exalted level in which I bask.\u201D\nHere, then, is an edited version of the\
-    \ dozens upon dozens of pages of scribbled jottings Pansy sent in:\nTranche 6\
-    \ : The Rushdie can be placated by moving the cursor over the red squares next\
-    \ to the pond. There is a squirrel hidden under the canopy. Press CTRL-SHIFT repeatedly\
-    \ to capture the goat.\nTranche 11 : To avoid the bees, hold down all the numeric\
-    \ keys and move your avatar to the square beside the pillows.\nTranche 43 : The\
-    \ ice-field is really a devil's pit. Get past it by collecting all sixteen nougat-bags.\n\
-    Tranche 49 : My fastest time at this tranche is a whopping four hours thirty six\
-    \ minutes. Remember that to pass the crepuscular nozzles you have to bring your\
-    \ sack of V S Naipaul novels from the previous tranche.\nTranche 60 : Martin Amis\
-    \ can only be beheaded by using the cursor to drag the sword across the blobs.\n\
-    Tranche 144 : Hit the arrow keys in this order :UP-UP-UP-LEFT-LEFT-UP-RIGHT-DOWN.\
-    \ This will take you to the lair of the savage brontosaurus and you will be able\
-    \ to swallow the magic potion. Be careful of the magnetic locusts.\nIf Pansy's\
-    \ \u201Cadvisory notes\u201D are to be believed, there are at least two hundred\
-    \ more tranches to complete, but that is quite enough of this nonsense."
+  text: 'Pansy Cradledew has recently become enamoured of the computer game Bosanquet,
+    which she will play for hours at a time, seemingly removed from an earthly plane.
+    Though I do not share her enthusiasm for this so-called "game of skill, tactics,
+    problem-solving and strategy", Pansy assures me that she is but one among a legion
+    of devotees. She also says that, as an expert player, she wants to reach out to
+    those less adept than herself, and has asked me to publish a few little hints
+    and tips.
+
+    "These should not be considered as something so vulgar as ''cheats''," she writes,
+    "but as advisory notes for those Bosanquetistas (as we dub ourselves) who have
+    not yet reached the exalted level in which I bask."
+
+    Here, then, is an edited version of the dozens upon dozens of pages of scribbled
+    jottings Pansy sent in:
+
+    Tranche 6 : The Rushdie can be placated by moving the cursor over the red squares
+    next to the pond. There is a squirrel hidden under the canopy. Press CTRL-SHIFT
+    repeatedly to capture the goat.
+
+    Tranche 11 : To avoid the bees, hold down all the numeric keys and move your avatar
+    to the square beside the pillows.
+
+    Tranche 43 : The ice-field is really a devil''s pit. Get past it by collecting
+    all sixteen nougat-bags.
+
+    Tranche 49 : My fastest time at this tranche is a whopping four hours thirty six
+    minutes. Remember that to pass the crepuscular nozzles you have to bring your
+    sack of V S Naipaul novels from the previous tranche.
+
+    Tranche 60 : Martin Amis can only be beheaded by using the cursor to drag the
+    sword across the blobs.
+
+    Tranche 144 : Hit the arrow keys in this order :UP-UP-UP-LEFT-LEFT-UP-RIGHT-DOWN.
+    This will take you to the lair of the savage brontosaurus and you will be able
+    to swallow the magic potion. Be careful of the magnetic locusts.
+
+    If Pansy''s "advisory notes" are to be believed, there are at least two hundred
+    more tranches to complete, but that is quite enough of this nonsense.'
   title: Bosanquet
 word_count: 330

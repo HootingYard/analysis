@@ -1,10 +1,10 @@
 ngrams:
+- - lick
+  - o'
+  - lacquer
 - - chilean
   - miners
   - deep
-- - lick
-  - o
-  - lacquer
 - - ancient
   - tales
   - buried
@@ -29,11 +29,13 @@ ngrams:
 story:
   date: 2010-10-15
   id: 2010-10-15-further-dabbling
-  text: "\nFor my cupboard at The Dabbler this week, I exhumed a brace of ancient\
-    \ tales buried, like Chilean miners, deep in the Hooting Yard archives, dusted\
-    \ them down, glued them together, and applied a lick o\u2019 lacquer to freshen\
-    \ them up for a new readership. And in a promptly-posted comment, I preempt an\
-    \ objection that may be raised by pedants on the lookout for flaws in what is\
-    \ a piece of startling, even brutal, realism."
+  text: '
+
+    For my cupboard at The Dabbler this week, I exhumed a brace of ancient tales buried,
+    like Chilean miners, deep in the Hooting Yard archives, dusted them down, glued
+    them together, and applied a lick o'' lacquer to freshen them up for a new readership.
+    And in a promptly-posted comment, I preempt an objection that may be raised by
+    pedants on the lookout for flaws in what is a piece of startling, even brutal,
+    realism.'
   title: Further Dabbling
 word_count: 77

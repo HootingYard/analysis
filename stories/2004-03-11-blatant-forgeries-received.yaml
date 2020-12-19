@@ -14,6 +14,9 @@ ngrams:
 - - aeronautical
   - engineer
   - unless
+- - japanese
+  - theatre
+  - '-'
 - - life's
   - goals
   - abandoned
@@ -32,15 +35,15 @@ ngrams:
 - - statement
   - th
   - march
+- - theatre
+  - '-'
+  - surely
 - - understand
   - traditional
   - japanese
 - - forgeries
   - received
   - someone
-- - japanese
-  - theatre
-  - surely
 - - couldn't
   - help
   - noticing
@@ -65,26 +68,23 @@ ngrams:
 - - website
   - today
   - whilst
-- - push
-  - several
-  - envelopes
 story:
   date: 2004-03-11
   id: 2004-03-11-blatant-forgeries-received
   text: "Someone has been forging correspondence from a dead German aeronautical engineer.\
     \ Unless the culprit owns up by the end of the day, the whole readership will\
-    \ stay behind and polish the Buttons of Beb\u2014every last one of them!\nDear\
-    \ Sir : Idly perusing your website today, whilst clinging unsteadily to a flagpole,\
+    \ stay behind and polish the Buttons of Beb--every last one of them!\nDear Sir\
+    \ : Idly perusing your website today, whilst clinging unsteadily to a flagpole,\
     \ gripping my laptop in my teeth and attempting to push several envelopes into\
     \ the telephone box attached to the top, I couldn't help noticing your Mission\
     \ Statement (10th March). Surely, I thought to myself, there are lessons here\
     \ for us all, innit. As a result, I have revised my life's goals, abandoned my\
-    \ attempts to understand traditional Japanese theatre \u2013 surely the ultimate\
-    \ Noh-brainer \u2013 and returned to my first love: designing V2 missiles and\
-    \ working for NASA. It is, after all, rocket science.\nYrs etc,\n    Werner von\
-    \ Braun\nPlease note that while one foolish reader has been frittering their time\
-    \ away on this counterfeit, here in the serried belvederes of Haemoglobin Towers\
-    \ we have embarked upon the important task of devising a \u201CMission Statement\
-    \ Lite\u201D, which will be launched soon."
+    \ attempts to understand traditional Japanese theatre - surely the ultimate Noh-brainer\
+    \ - and returned to my first love: designing V2 missiles and working for NASA.\
+    \ It is, after all, rocket science.\nYrs etc,\n    Werner von Braun\nPlease note\
+    \ that while one foolish reader has been frittering their time away on this counterfeit,\
+    \ here in the serried belvederes of Haemoglobin Towers we have embarked upon the\
+    \ important task of devising a \"Mission Statement Lite\", which will be launched\
+    \ soon."
   title: Blatant Forgeries Received
-word_count: 184
+word_count: 185

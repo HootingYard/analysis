@@ -1,10 +1,4 @@
 ngrams:
-- - fountainhead
-  - homage
-  - ayn
-- - homage
-  - ayn
-  - rand
 - - w
   - hamilton
   - ll
@@ -71,26 +65,52 @@ ngrams:
 - - by
   - frederick
   - w
+- - should
+  - be
+  - hyphenated
+- - not
+  - fall
+  - under
 story:
   date: 2010-07-08
   id: 2010-07-08-thieving-beerpint
-  text: "It saddens me to report that weedy poet Dennis Beerpint has been caught red-handed\
-    \ in an act of plagiarism. His verse \u201CThe Fountainhead\_: Homage \xE0 Ayn\
-    \ Rand\u201D from his well-received recent collection A Series Of Homages To Female\
-    \ Right-Wing Russo-American Postage Stamp Collectors was, it seems, lifted word\
-    \ for word from this paragraph in Compound Words\_: A Study Of The Principles\
-    \ Of Compounding, The Components Of Compounds, And The Use Of The Hyphen by Frederick\
-    \ W. Hamilton, LL. D., published in 1918 by the Committee on Education of the\
-    \ United Typothetae Of America:\n\u201C41. Following is a list of words of everyday\
-    \ occurrence which should be hyphenated, and which do not fall under any of the\
-    \ above classifications.\nafter-years food-stuff sea-level\nbas-relief guinea-pig\
-    \ sense-perception\nbirth-rate horse-power son-in-law\nblood-relations loan-word\
-    \ subject-matter\ncommon-sense man-of-war thought-process\ncross-examine object-lesson\
-    \ title-page\ncross-reference page-proof wave-length\ncross-section pay-roll well-being\n\
-    death-rate poor-law well-nigh\nfolk-song post-office will-power\nfountain-head\n\
-    These rules are the consensus of opinion of a considerable number of good authorities\
-    \ from DeVinne (1901) to Manly and Powell (1913).\u201D\nThe only change Dennis\
-    \ Beerpint makes is to add an exclamation mark after \u201Cfountain-head\u201D\
-    , presumably to remind himself to shout the word, triumphantly, at recitals."
+  text: 'It saddens me to report that weedy poet Dennis Beerpint has been caught red-handed
+    in an act of plagiarism. His verse "The Fountainhead : Homage a Ayn Rand" from
+    his well-received recent collection A Series Of Homages To Female Right-Wing Russo-American
+    Postage Stamp Collectors was, it seems, lifted word for word from this paragraph
+    in Compound Words : A Study Of The Principles Of Compounding, The Components Of
+    Compounds, And The Use Of The Hyphen by Frederick W. Hamilton, LL. D., published
+    in 1918 by the Committee on Education of the United Typothetae Of America:
+
+    "41. Following is a list of words of everyday occurrence which should be hyphenated,
+    and which do not fall under any of the above classifications.
+
+    after-years food-stuff sea-level
+
+    bas-relief guinea-pig sense-perception
+
+    birth-rate horse-power son-in-law
+
+    blood-relations loan-word subject-matter
+
+    common-sense man-of-war thought-process
+
+    cross-examine object-lesson title-page
+
+    cross-reference page-proof wave-length
+
+    cross-section pay-roll well-being
+
+    death-rate poor-law well-nigh
+
+    folk-song post-office will-power
+
+    fountain-head
+
+    These rules are the consensus of opinion of a considerable number of good authorities
+    from DeVinne (1901) to Manly and Powell (1913)."
+
+    The only change Dennis Beerpint makes is to add an exclamation mark after "fountain-head",
+    presumably to remind himself to shout the word, triumphantly, at recitals.'
   title: Thieving Beerpint
-word_count: 193
+word_count: 194

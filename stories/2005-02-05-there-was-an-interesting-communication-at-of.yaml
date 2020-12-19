@@ -2,9 +2,6 @@ ngrams:
 - - jimmy
   - goddard
   - cosmic
-- - copper
-  - jimmy
-  - goddard
 - - apparent
   - atlantean
   - cones
@@ -14,21 +11,12 @@ ngrams:
 - - george
   - hunt
   - williamson
-- - sheet
-  - copper
-  - jimmy
 - - scrap
   - sheet
   - copper
-- - start
-  - surely
-  - space
 - - regular
   - daily
   - use
-- - surely
-  - space
-  - people
 - - answer
   - rapped
   - back
@@ -44,17 +32,29 @@ ngrams:
 - - other
   - tongues
   - other
+- - space
+  - people
+  - would
+- - an
+  - interesting
+  - communication
+- - an
+  - interesting
+  - communication
+- - interesting
+  - communication
+  - at
 story:
   date: 2005-02-05
   id: 2005-02-05-there-was-an-interesting-communication-at-of
-  text: "\u201CThere was an interesting communication at, of all places, Salisbury\
-    \ railway station in 1966. I was advised by communications to build a copper cone\
-    \ to help my condition. Having read of the apparent Atlantean cones in Other Tongues,\
-    \ Other Flesh by George Hunt Williamson, with their complicated circuits, I felt\
-    \ unqualified to build one. The answer rapped back: 'Just build a simple cone\
-    \ of copper\u2014that's not beyond you is it?' I sat up with a start\u2014surely\
-    \ space people would not talk like that? But it jerked me out of my self-pity\
-    \ and I began a regular daily use of a cone which my father made from a piece\
-    \ of scrap sheet copper.\u201D \u2014 Jimmy Goddard, Cosmic Friends"
-  title: "\u201CThere was an interesting communication at, of\u2026\u201D"
-word_count: 125
+  text: '"There was an interesting communication at, of all places, Salisbury railway
+    station in 1966. I was advised by communications to build a copper cone to help
+    my condition. Having read of the apparent Atlantean cones in Other Tongues, Other
+    Flesh by George Hunt Williamson, with their complicated circuits, I felt unqualified
+    to build one. The answer rapped back: ''Just build a simple cone of copper--that''s
+    not beyond you is it?'' I sat up with a start--surely space people would not talk
+    like that? But it jerked me out of my self-pity and I began a regular daily use
+    of a cone which my father made from a piece of scrap sheet copper." -- Jimmy Goddard,
+    Cosmic Friends'
+  title: '"There was an interesting communication at, of..."'
+word_count: 124

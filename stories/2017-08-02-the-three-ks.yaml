@@ -29,18 +29,6 @@ ngrams:
 - - update
   - gosh
   - since
-- - teenagers
-  - called
-  - sos
-- - called
-  - sos
-  - hi
-- - company
-  - probably
-  - run
-- - three
-  - k's
-  - yesterday
 - - hour
   - ago
   - traffic
@@ -86,26 +74,43 @@ ngrams:
 - - reading
   - after
   - such
+- - that's
+  - exactly
+  - what
+- - yard
+  - has
+  - increased
+- - interested
+  - when
+  - sos
 story:
   date: 2017-08-02
   id: 2017-08-02-the-three-ks
-  text: "Yesterday I received an annoying email from a company\u2014probably run by\
-    \ teenagers\u2014called SOS.\nHi Frank!, it began, overfamiliarly. I don't know\
-    \ why I continued reading after such effrontery, but I did.\nHere at SOS we're\
-    \ passionate about helping you maximise traffic to your website. SOS stands for\
-    \ Search Optimisation Solutions, and that's exactly what we do!\nLike a fool,\
-    \ I carried on reading. I suppose I was won over by the thought that I could attract\
-    \ more than thirty-four readers. I became even more interested when SOS gave me\
-    \ one of their so-called \u201Csimple yet effective\u201D tips without my having\
-    \ to pay them a penny.\nOur research shows that web traffic increases a millionfold\
-    \ if you mention three names on your site. We call them The Three Ks\u2014Kate,\
-    \ Kim, and Keith. That is, Kate Middleton, Kim Kardashian, and Keith Potger.\n\
-    I am now racking my brains trying to work out how to concoct a story which includes\
-    \ the Duchess of Cambridge, the inexplicable celebrity, and a quarter of Antipodean\
-    \ 1960s pop sensations The Seekers, which is at once (a) credible, (b) morally\
-    \ uplifting, and (c) groovy. If any of the thirty-four of you have any ideas,\
-    \ please let me know in the Comments.\nUPDATE : Gosh! Since I posted the above,\
-    \ an hour ago, traffic to Hooting Yard has increased to a whopping thirty-six!\
-    \ Thanks a million, SOS!"
-  title: "The Three \u2018K's"
-word_count: 233
+  text: 'Yesterday I received an annoying email from a company--probably run by teenagers--called
+    SOS.
+
+    Hi Frank!, it began, overfamiliarly. I don''t know why I continued reading after
+    such effrontery, but I did.
+
+    Here at SOS we''re passionate about helping you maximise traffic to your website.
+    SOS stands for Search Optimisation Solutions, and that''s exactly what we do!
+
+    Like a fool, I carried on reading. I suppose I was won over by the thought that
+    I could attract more than thirty-four readers. I became even more interested when
+    SOS gave me one of their so-called "simple yet effective" tips without my having
+    to pay them a penny.
+
+    Our research shows that web traffic increases a millionfold if you mention three
+    names on your site. We call them The Three Ks--Kate, Kim, and Keith. That is,
+    Kate Middleton, Kim Kardashian, and Keith Potger.
+
+    I am now racking my brains trying to work out how to concoct a story which includes
+    the Duchess of Cambridge, the inexplicable celebrity, and a quarter of Antipodean
+    1960s pop sensations The Seekers, which is at once (a) credible, (b) morally uplifting,
+    and (c) groovy. If any of the thirty-four of you have any ideas, please let me
+    know in the Comments.
+
+    UPDATE : Gosh! Since I posted the above, an hour ago, traffic to Hooting Yard
+    has increased to a whopping thirty-six! Thanks a million, SOS!'
+  title: The Three 'K's
+word_count: 230

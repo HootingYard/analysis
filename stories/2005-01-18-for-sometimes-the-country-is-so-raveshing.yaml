@@ -1,7 +1,4 @@
 ngrams:
-- - sober
-  - muse
-  - rene
 - - usually
   - fire
   - our
@@ -20,13 +17,18 @@ ngrams:
 - - cannot
   - see
   - what
+- - which
+  - usually
+  - fire
+- - so
+  - many
+  - heats
 story:
   date: 2005-01-18
   id: 2005-01-18-for-sometimes-the-country-is-so-raveshing
-  text: "\u201CFor sometimes the Country is so raveshing and delightful that twill\
-    \ raise Wit and Spirit even in the dullest Clod, And in truth, amongst so many\
-    \ heats of Lust and Ambition which usually fire our Citys, I cannot see what retreat,\
-    \ what comfort is left for a chast and sober Muse.\u201D \u2014 Rene Rapin, De\
-    \ Carmine Pastorali"
-  title: "\u201CFor sometimes the Country is so raveshing\u2026\u201D"
-word_count: 63
+  text: '"For sometimes the Country is so raveshing and delightful that twill raise
+    Wit and Spirit even in the dullest Clod, And in truth, amongst so many heats of
+    Lust and Ambition which usually fire our Citys, I cannot see what retreat, what
+    comfort is left for a chast and sober Muse." -- Rene Rapin, De Carmine Pastorali'
+  title: '"For sometimes the Country is so raveshing..."'
+word_count: 64

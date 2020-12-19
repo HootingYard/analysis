@@ -2,24 +2,12 @@ ngrams:
 - - mere
   - suggestion
   - http
-- - feature
-  - weird
-  - awesome
-- - weird
-  - awesome
-  - stuff
-- - main
-  - feature
-  - weird
 - - magnetic
   - mute
   - blind
 - - mute
   - blind
   - love
-- - unspeakable
-  - desolation
-  - story
 - - blind
   - love
   - monkeys
@@ -29,23 +17,40 @@ ngrams:
 - - case
   - it's
   - overlooked
-- - desolation
-  - story
-  - read
 - - piece
   - below
   - here
+- - very
+  - much
+  - particularly
+- - stuff
+  - about
+  - trains
+- - about
+  - trains
+  - before
+- - an
+  - informative
+  - memorandum
+- - weather
+  - an
+  - advertisement
+- - some
+  - stuff
+  - about
 story:
   date: 2008-11-21
   id: 2008-11-21-hooting-usa
-  text: "In case it's overlooked in the Comments to the piece below, here is an informative\
-    \ memorandum from R.:\nIt is unimaginably strange to hear an \u2018Unspeakable\
-    \ Desolation\u2019 story read in a US accent \u2026 for those not traumatised\
-    \ by the mere suggestion, http://tinyurl.com/58avg5\_ is the place to go, but\
-    \ you have to weather an advertisement, a dictionary definition, and some stuff\
-    \ about trains before the dawning of the Main Feature. \u2018Weird, awesome stuff,\u2019\
-    \ the host declares.\nI have to say I like Norm Sherman's narration very much,\
-    \ particularly the way he intones the words \u201Cmagnetic \u2026 mute \u2026\
-    \ blind \u2026 love monkeys\u201D.\_"
+  text: 'In case it''s overlooked in the Comments to the piece below, here is an informative
+    memorandum from R.:
+
+    It is unimaginably strange to hear an ''Unspeakable Desolation'' story read in
+    a US accent ... for those not traumatised by the mere suggestion, http://tinyurl.com/58avg5  is
+    the place to go, but you have to weather an advertisement, a dictionary definition,
+    and some stuff about trains before the dawning of the Main Feature. ''Weird, awesome
+    stuff,'' the host declares.
+
+    I have to say I like Norm Sherman''s narration very much, particularly the way
+    he intones the words "magnetic ... mute ... blind ... love monkeys". '
   title: Hooting USA
-word_count: 103
+word_count: 104

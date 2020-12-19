@@ -2,15 +2,9 @@ ngrams:
 - - screen
   - fingertips
   - poised
-- - thunderstorm
-  - humming
-  - heavy
 - - blank
   - screen
   - fingertips
-- - humming
-  - heavy
-  - horses
 - - serial
   - story
   - testimony
@@ -68,22 +62,30 @@ ngrams:
 - - recent
   - hooting
   - yard
+- - back
+  - again
+  - however
+- - make
+  - before
+  - anything
 story:
   date: 2006-06-08
   id: 2006-06-08-testimony-of-a-tundist-and-related-matters
-  text: "Yes, yes, I know you have been tearing your hair out in the absence of recent\
-    \ Hooting Yard bulletins. I can only apologise. Every now and then, I am consumed\
-    \ by self-doubt, knowing in my heart that I will never be as great a writer as\
-    \ the out of print pamphleteer Dobson. You have no idea how hard it can be, to\
-    \ sit staring at that blank screen, fingertips poised over the keyboard, knowing\
-    \ that no matter how hard you try, you will never in your life write anything\
-    \ fit to share the same universe as Squelching Through A Field Outside Oswestry\
-    \ During A Thunderstorm, Humming \u2018Heavy Horses\u2019 by Jethro Tull.\nBut\
-    \ anyway\u2026 we must all try. So Mr Key is back again, however fruitlessly.\
-    \ And with an announcement to make before anything else. The serial story Testimony\
-    \ Of A Tundist (see below for the first five episodes) ought to be continuing\
-    \ from today, but due to a very nonsensical reason has had to be postponed. The\
-    \ sixth part, and those following, will appear here from next week onwards.\n\
-    And so we move on\u2026"
+  text: 'Yes, yes, I know you have been tearing your hair out in the absence of recent
+    Hooting Yard bulletins. I can only apologise. Every now and then, I am consumed
+    by self-doubt, knowing in my heart that I will never be as great a writer as the
+    out of print pamphleteer Dobson. You have no idea how hard it can be, to sit staring
+    at that blank screen, fingertips poised over the keyboard, knowing that no matter
+    how hard you try, you will never in your life write anything fit to share the
+    same universe as Squelching Through A Field Outside Oswestry During A Thunderstorm,
+    Humming ''Heavy Horses'' by Jethro Tull.
+
+    But anyway... we must all try. So Mr Key is back again, however fruitlessly. And
+    with an announcement to make before anything else. The serial story Testimony
+    Of A Tundist (see below for the first five episodes) ought to be continuing from
+    today, but due to a very nonsensical reason has had to be postponed. The sixth
+    part, and those following, will appear here from next week onwards.
+
+    And so we move on...'
   title: Testimony of a Tundist & Related Matters
 word_count: 190

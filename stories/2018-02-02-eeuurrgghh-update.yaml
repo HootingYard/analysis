@@ -1,4 +1,7 @@
 ngrams:
+- - interconnected
+  - pieces
+  - o'
 - - bed
   - moaning
   - weakly
@@ -8,18 +11,15 @@ ngrams:
 - - coming
   - weeks
   - meanwhile
-- - interconnected
-  - pieces
-  - o
 - - pieces
-  - o
+  - o'
   - prose
+- - o'
+  - prose
+  - none
 - - particularly
   - sick
   - dog
-- - o
-  - prose
-  - none
 - - new
   - year's
   - eve
@@ -65,17 +65,21 @@ ngrams:
 story:
   date: 2018-02-02
   id: 2018-02-02-eeuurrgghh-update
-  text: "Blimey! That was a bloody awful start to the year. On New Year's Eve I began\
-    \ to feel as sick as a particularly sick dog, and I then spent most of January\
-    \ sprawled in bed, moaning weakly. Only in the past few days do I at last seem\
-    \ to be recovering my pep, or what passes for pep in these parts.\nIt now behooves\
-    \ me to set Hooting Yard back on course after a whole month of silence. To this\
-    \ end, I have devised a foolhardy scheme, a planned series of interconnected pieces\
-    \ o\u2019 prose, none of which I have yet written. We shall see how that pans\
-    \ out in the coming weeks.\nMeanwhile, I ought to draw to your attention the annual\
-    \ fundraiser at ResonanceFM, in the hope that you will give generously. You lot\
-    \ may be particularly interested in bidding for this year's Hooting Yard auction\
-    \ item, a unique bespoke paperback to be issued in an edition of one.\nI shall\
-    \ try to be back tomorrow, with some new prose \u2026"
+  text: 'Blimey! That was a bloody awful start to the year. On New Year''s Eve I began
+    to feel as sick as a particularly sick dog, and I then spent most of January sprawled
+    in bed, moaning weakly. Only in the past few days do I at last seem to be recovering
+    my pep, or what passes for pep in these parts.
+
+    It now behooves me to set Hooting Yard back on course after a whole month of silence.
+    To this end, I have devised a foolhardy scheme, a planned series of interconnected
+    pieces o'' prose, none of which I have yet written. We shall see how that pans
+    out in the coming weeks.
+
+    Meanwhile, I ought to draw to your attention the annual fundraiser at ResonanceFM,
+    in the hope that you will give generously. You lot may be particularly interested
+    in bidding for this year''s Hooting Yard auction item, a unique bespoke paperback
+    to be issued in an edition of one.
+
+    I shall try to be back tomorrow, with some new prose ...'
   title: Eeuurrgghh Update
 word_count: 174

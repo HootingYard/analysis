@@ -1,13 +1,13 @@
 ngrams:
+- - four
+  - o'
+  - clock
 - - morning
   - tove
   - jansson
 - - relationship
   - between
   - artist
-- - four
-  - o
-  - clock
 - - ever
   - feel
   - inspired
@@ -41,13 +41,17 @@ ngrams:
 story:
   date: 2011-10-10
   id: 2011-10-10-tove-jansson-and-her-squirrel
-  text: "Max said, \u201CDon't you ever feel inspired to paint the Finnish countryside\
-    \ in summer?\u201D\n\u201CIt's all so damned green,\u201D she answered.\nThen\
-    \ she told us about the squirrel, the one squirrel which has appeared on the island;\
-    \ and it slept under her neck and tried to collect food there. As the relationship\
-    \ between artist and squirrel developed, the squirrel came to expect a game at\
-    \ four o\u2019 clock in the morning. Tove Jansson had to get out of bed and pretend\
-    \ to be a tree. The squirrel would run up and down her frozen limbs.\nOswell Blakeston,\
-    \ Sun At Midnight (1958)"
+  text: 'Max said, "Don''t you ever feel inspired to paint the Finnish countryside
+    in summer?"
+
+    "It''s all so damned green," she answered.
+
+    Then she told us about the squirrel, the one squirrel which has appeared on the
+    island; and it slept under her neck and tried to collect food there. As the relationship
+    between artist and squirrel developed, the squirrel came to expect a game at four
+    o'' clock in the morning. Tove Jansson had to get out of bed and pretend to be
+    a tree. The squirrel would run up and down her frozen limbs.
+
+    Oswell Blakeston, Sun At Midnight (1958)'
   title: Tove Jansson And Her Squirrel
 word_count: 105

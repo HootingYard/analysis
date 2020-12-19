@@ -56,9 +56,6 @@ ngrams:
 - - throwbacks
   - vinegar
   - brewers
-- - wolfgang
-  - hollyhock
-  - iii
 - - crimped
   - congruent
   - dismal
@@ -278,66 +275,72 @@ ngrams:
 story:
   date: 2004-07-12
   id: 2004-07-12-some-ponds-a-hotel-the-hollyhocks
-  text: "I\u2014Some Ponds. There are seven ponds. Their names are Brink, Cramped,\
-    \ Dribble, Lamont, Presumption, Ravenous and Unholy. In a lead box at the bottom\
-    \ of one of the ponds an Icelandic fontoon lies sealed against the elements. But\
-    \ which pond? The fontoon is made of some nameless metallic alloy, and it has\
-    \ a long history. Countless learned tomes have been devoted to pondering its existence,\
-    \ location, significance, colour, smell, incontrovertibility and malevolence.\
-    \ Its value is incalculable. A facsimile made of petrified dough was sold by the\
-    \ Museum at Ack-on-the-Vug for an undisclosed sum. The identity of the buyer was\
-    \ also undisclosed, at the time. Now, this shadowy figure has the true fontoon\
-    \ almost in his clutches. He has booked in to a hotel just four hundred yards\
-    \ away from the ponds.\nII\u2014A Hotel. The major domo at the hotel stared out\
-    \ of the dining-room window. The sky was overcast. Soon the drizzle would begin.\
-    \ It always did. He hooted, once and once only. He was afraid of sheep, baffled\
-    \ by corkage, continually muttering about the gasworks, defiant, elegantly ragged,\
-    \ flappable during snowstorms, grotesquely carnivorous, helpless with starch,\
-    \ ignoble, just dying to shake hands with a lion tamer, kept waiting for hours\
-    \ by guests late for breakfast, lascivious yet hard of hearing, mistakenly shot\
-    \ at by poachers, nerve-wracked, overcoated, pitiful, quite likely to hoot for\
-    \ a second time, risibly bemuffled, still awaiting a voyage around the world,\
-    \ tempestuous every Thursday, unbelievably festooned with old sacking and netting,\
-    \ vigilant, weak, xerophilous despite the rain, young at heart and zestful at\
-    \ the prospect of his daily milk supplement. He hooted for a second time, much\
-    \ louder.\nThe hotel was fully occupied. Among the guests were anthropomorphic\
-    \ beings, bauxite miners, cartographers, dribbling thugs, elk fanciers, fontoon\
-    \ hunters, genuflecting dolts, heroic chefs, idiots savants, jugglers, kaolin\
-    \ quarry workers, lopsided people, marionettes, nautical curmudgeons, old besmirched\
-    \ gravediggers, pond draggers, quicklime spreaders, ruffians, sink bashers, taloned\
-    \ maniacs, untidy throwbacks, vinegar brewers, waxen image igniters, xylophone\
-    \ construction experts, yellow-bellied burblers and zinc inspectors. Watching\
-    \ them all gobbling down their breakfast porridge, the major domo tried to work\
-    \ out who was who. There appeared to be some trouble at one of the tables in the\
-    \ far corner. An aged couple, raddled and with frenzied gleams in their eyes,\
-    \ were raising their voices at a pallid and neurasthenic git still wearing his\
-    \ nightshirt. This man was Richard Widdmarke, implacable seeker of the Icelandic\
-    \ fontoon. His antagonists were a cartographer and a lopsided person. Their names\
-    \ were, respectively, Eileen and Wolfgang Hollyhock.\nIII\u2014The Hollyhocks.\
-    \ Widdmarke did not realise that for over forty years the Hollyhocks had also\
-    \ been searching desperately for the Icelandic fontoon. Their interest had been\
-    \ ignited by Eileen's discovery of a tiny zinc fontoon in the Serengeti. It appeared\
-    \ to have talismanic properties, which Wolfgang had catalogued into seven basic\
-    \ groupings: elemental, dishevelled, yellow, crimped, congruent, dismal and vagabond.\
-    \ Among their luggage, the Hollyhocks carried the fruits of years of research.\
-    \ Eight hundred ledgers and a voluminous card index system contained information\
-    \ on all manner of fontoons, voils, Wesniod slabs, forensic triumphs and choir-stall\
-    \ scrapings. A parallel compendium of exciting facts about flags, pennants and\
-    \ bunting had fallen over the edge of their raft some years ago, or perhaps been\
-    \ lost in a swamp.\nAfter the altercation at the breakfast table, the Hollyhocks\
-    \ realised that Richard Widdmarke was, like them, on the verge of discovering\
-    \ the sunken lead box containing the Icelandic fontoon. They immediately set out\
-    \ in the drizzle to drag the ponds. They wore horrifying mackintoshes. When they\
-    \ reached Lamont, the nearest of the ponds, they were outraged to find Widdmarke\
-    \ already there, equipped with a thrilling collection of nets, poles, metal detectors,\
-    \ rotating things, crimping irons, and booster guns\u2026\nThe major domo stood\
-    \ at the dining-room window, peering out through the drizzle towards the seven\
-    \ ponds. A fight had broken out among three of the guests. Mackintoshes had been\
-    \ removed and boxing gloves donned. There were fisticuffs. There were gunshots.\
-    \ There was wailing. Before long, all three had managed to drown one another,\
-    \ and all in the same pond. But which pond? And was it the same pond at the bottom\
-    \ of which a lead box lay?\nThe major domo turned away, hooting quietly. He trudged\
-    \ into the kitchen and made a start on the porridge-encrusted bowls. He had work\
-    \ to do."
+  text: 'I--Some Ponds. There are seven ponds. Their names are Brink, Cramped, Dribble,
+    Lamont, Presumption, Ravenous and Unholy. In a lead box at the bottom of one of
+    the ponds an Icelandic fontoon lies sealed against the elements. But which pond?
+    The fontoon is made of some nameless metallic alloy, and it has a long history.
+    Countless learned tomes have been devoted to pondering its existence, location,
+    significance, colour, smell, incontrovertibility and malevolence. Its value is
+    incalculable. A facsimile made of petrified dough was sold by the Museum at Ack-on-the-Vug
+    for an undisclosed sum. The identity of the buyer was also undisclosed, at the
+    time. Now, this shadowy figure has the true fontoon almost in his clutches. He
+    has booked in to a hotel just four hundred yards away from the ponds.
+
+    II--A Hotel. The major domo at the hotel stared out of the dining-room window.
+    The sky was overcast. Soon the drizzle would begin. It always did. He hooted,
+    once and once only. He was afraid of sheep, baffled by corkage, continually muttering
+    about the gasworks, defiant, elegantly ragged, flappable during snowstorms, grotesquely
+    carnivorous, helpless with starch, ignoble, just dying to shake hands with a lion
+    tamer, kept waiting for hours by guests late for breakfast, lascivious yet hard
+    of hearing, mistakenly shot at by poachers, nerve-wracked, overcoated, pitiful,
+    quite likely to hoot for a second time, risibly bemuffled, still awaiting a voyage
+    around the world, tempestuous every Thursday, unbelievably festooned with old
+    sacking and netting, vigilant, weak, xerophilous despite the rain, young at heart
+    and zestful at the prospect of his daily milk supplement. He hooted for a second
+    time, much louder.
+
+    The hotel was fully occupied. Among the guests were anthropomorphic beings, bauxite
+    miners, cartographers, dribbling thugs, elk fanciers, fontoon hunters, genuflecting
+    dolts, heroic chefs, idiots savants, jugglers, kaolin quarry workers, lopsided
+    people, marionettes, nautical curmudgeons, old besmirched gravediggers, pond draggers,
+    quicklime spreaders, ruffians, sink bashers, taloned maniacs, untidy throwbacks,
+    vinegar brewers, waxen image igniters, xylophone construction experts, yellow-bellied
+    burblers and zinc inspectors. Watching them all gobbling down their breakfast
+    porridge, the major domo tried to work out who was who. There appeared to be some
+    trouble at one of the tables in the far corner. An aged couple, raddled and with
+    frenzied gleams in their eyes, were raising their voices at a pallid and neurasthenic
+    git still wearing his nightshirt. This man was Richard Widdmarke, implacable seeker
+    of the Icelandic fontoon. His antagonists were a cartographer and a lopsided person.
+    Their names were, respectively, Eileen and Wolfgang Hollyhock.
+
+    III--The Hollyhocks. Widdmarke did not realise that for over forty years the Hollyhocks
+    had also been searching desperately for the Icelandic fontoon. Their interest
+    had been ignited by Eileen''s discovery of a tiny zinc fontoon in the Serengeti.
+    It appeared to have talismanic properties, which Wolfgang had catalogued into
+    seven basic groupings: elemental, dishevelled, yellow, crimped, congruent, dismal
+    and vagabond. Among their luggage, the Hollyhocks carried the fruits of years
+    of research. Eight hundred ledgers and a voluminous card index system contained
+    information on all manner of fontoons, voils, Wesniod slabs, forensic triumphs
+    and choir-stall scrapings. A parallel compendium of exciting facts about flags,
+    pennants and bunting had fallen over the edge of their raft some years ago, or
+    perhaps been lost in a swamp.
+
+    After the altercation at the breakfast table, the Hollyhocks realised that Richard
+    Widdmarke was, like them, on the verge of discovering the sunken lead box containing
+    the Icelandic fontoon. They immediately set out in the drizzle to drag the ponds.
+    They wore horrifying mackintoshes. When they reached Lamont, the nearest of the
+    ponds, they were outraged to find Widdmarke already there, equipped with a thrilling
+    collection of nets, poles, metal detectors, rotating things, crimping irons, and
+    booster guns...
+
+    The major domo stood at the dining-room window, peering out through the drizzle
+    towards the seven ponds. A fight had broken out among three of the guests. Mackintoshes
+    had been removed and boxing gloves donned. There were fisticuffs. There were gunshots.
+    There was wailing. Before long, all three had managed to drown one another, and
+    all in the same pond. But which pond? And was it the same pond at the bottom of
+    which a lead box lay?
+
+    The major domo turned away, hooting quietly. He trudged into the kitchen and made
+    a start on the porridge-encrusted bowls. He had work to do.'
   title: Some Ponds, a Hotel, the Hollyhocks
-word_count: 736
+word_count: 733

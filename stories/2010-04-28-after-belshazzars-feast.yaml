@@ -29,6 +29,12 @@ ngrams:
 - - came
   - striding
   - manfully
+- - bjorn
+  - came
+  - striding
+- - sudden
+  - bjorn
+  - came
 - - here
   - groaned
   - benny
@@ -59,6 +65,9 @@ ngrams:
 - - clean
   - her
   - rifle
+- - hand
+  - said
+  - bjorn
 - - could
   - draw
   - sunbeams
@@ -104,41 +113,46 @@ ngrams:
 - - striding
   - manfully
   - into
-- - tears
-  - were
-  - rolling
-- - misery
-  - if
-  - fernando
-- - scandinavian
-  - misery
-  - if
 story:
   date: 2010-04-28
   id: 2010-04-28-after-belshazzars-feast
-  text: "Returning from Belshazzar's feast, Agnetha and Benny grew increasingly despondent,\
-    \ and by the time they reached the hotel both of them were staggering under the\
-    \ oppressive weight of grim Scandinavian misery.\n\u201CIf Fernando were here,\u201D\
-    \ groaned Benny, \u201CHe would brighten things up. He could draw sunbeams from\
-    \ a cucumber.\u201D\n\u201CYou forget that Fernando is but a fictional character\
-    \ in a songlet, Benny,\u201D snapped Agnetha. Tears were rolling down her cheeks.\n\
-    \u201COh,\u201D said Benny, staring out of the hotel window. He saw Anni-Frid\
-    \ flit past, like a phantom. Agnetha was beating her fists upon a piece of pine\
-    \ furniture.\n\u201CAt least here there is no mysterious writing upon the wall,\
-    \ as there was at the feast,\u201D added Benny, trying to open a crack in the\
-    \ gloom.\nAll of a sudden Bj\xF6rn came striding manfully into the hotel lobby.\
-    \ His hair and beard and face and clothing were blackened from the charcoal he\
-    \ had been burning.\n\u201CI am looking for Anni-Frid,\u201D he said, \u201CHave\
-    \ you seen her?\u201D\n\u201CNo,\u201D said Benny, lying through his teeth. But\
-    \ had he really seen her? Or were his eyes playing tricks on him again, as they\
-    \ had in Uppsala?\n\u201CCheck the abandoned cow byre,\u201D said Agnetha, \u201C\
-    She went there earlier to clean her rifle.\u201D\n\u201CSince many years I haven't\
-    \ seen a rifle in her hand,\u201D said Bj\xF6rn. He dashed outside into the mist\
-    \ that engulfed the hotel grounds.\nAgnetha and Benny slumped in the lobby armchairs,\
-    \ expecting to hear a rifle shot in the distance. But none came. The only sound\
-    \ was the whirring of the fan above their heads and, outside, the strange cries\
-    \ of such Scandinavian birds as had not flown south for the winter.\n\u201CAnyway,\
-    \ how would Fernando draw sunbeams from a cucumber?\u201D asked Agnetha, eventually.\n\
-    But Benny had fallen asleep, lost in dreams of Belshazzar."
+  text: 'Returning from Belshazzar''s feast, Agnetha and Benny grew increasingly despondent,
+    and by the time they reached the hotel both of them were staggering under the
+    oppressive weight of grim Scandinavian misery.
+
+    "If Fernando were here," groaned Benny, "He would brighten things up. He could
+    draw sunbeams from a cucumber."
+
+    "You forget that Fernando is but a fictional character in a songlet, Benny," snapped
+    Agnetha. Tears were rolling down her cheeks.
+
+    "Oh," said Benny, staring out of the hotel window. He saw Anni-Frid flit past,
+    like a phantom. Agnetha was beating her fists upon a piece of pine furniture.
+
+    "At least here there is no mysterious writing upon the wall, as there was at the
+    feast," added Benny, trying to open a crack in the gloom.
+
+    All of a sudden Bjorn came striding manfully into the hotel lobby. His hair and
+    beard and face and clothing were blackened from the charcoal he had been burning.
+
+    "I am looking for Anni-Frid," he said, "Have you seen her?"
+
+    "No," said Benny, lying through his teeth. But had he really seen her? Or were
+    his eyes playing tricks on him again, as they had in Uppsala?
+
+    "Check the abandoned cow byre," said Agnetha, "She went there earlier to clean
+    her rifle."
+
+    "Since many years I haven''t seen a rifle in her hand," said Bjorn. He dashed
+    outside into the mist that engulfed the hotel grounds.
+
+    Agnetha and Benny slumped in the lobby armchairs, expecting to hear a rifle shot
+    in the distance. But none came. The only sound was the whirring of the fan above
+    their heads and, outside, the strange cries of such Scandinavian birds as had
+    not flown south for the winter.
+
+    "Anyway, how would Fernando draw sunbeams from a cucumber?" asked Agnetha, eventually.
+
+    But Benny had fallen asleep, lost in dreams of Belshazzar.'
   title: After Belshazzar's Feast
-word_count: 307
+word_count: 305

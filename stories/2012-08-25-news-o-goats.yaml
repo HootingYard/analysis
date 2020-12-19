@@ -5,6 +5,9 @@ ngrams:
 - - news
   - item
   - concerns
+- - news
+  - o'
+  - goats
 - - ned
   - mossop
   - cow
@@ -14,9 +17,6 @@ ngrams:
 - - cow
   - detective
   - granted
-- - news
-  - o
-  - goats
 - - concerns
   - goats
   - rather
@@ -26,11 +26,13 @@ ngrams:
 story:
   date: 2012-08-25
   id: 2012-08-25-news-o-goats
-  text: "It is increasingly apparent that the so-called \u201Creal world\u201D edges\
-    \ closer to the even more real world of Hooting Yard with every passing day. On\
-    \ Thursday, I wrote about Ned Mossop, Cow Detective. Granted, this news item concerns\
-    \ goats rather than cows, but nevertheless it seems spookily like the kind of\
-    \ thing that might happen at Hooting Yard . . .\n\nThanks to Elberry for drawing\
-    \ the clipping to my attention"
-  title: "News O\u2019 Goats"
+  text: 'It is increasingly apparent that the so-called "real world" edges closer
+    to the even more real world of Hooting Yard with every passing day. On Thursday,
+    I wrote about Ned Mossop, Cow Detective. Granted, this news item concerns goats
+    rather than cows, but nevertheless it seems spookily like the kind of thing that
+    might happen at Hooting Yard . . .
+
+
+    Thanks to Elberry for drawing the clipping to my attention'
+  title: News O' Goats
 word_count: 71

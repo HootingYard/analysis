@@ -6,19 +6,20 @@ ngrams:
   - else
   - arthur
 - - africa
+  - '-'
+  - by
+- - '-'
   - by
   - charles
 - - with
   - alcohol
   - pierre
-- - filled
-  - with
-  - alcohol
 story:
   date: 2012-05-11
   id: 2012-05-11-a-sentence-to-remember
-  text: "I am sending you a bird's head in a steel box filled with alcohol.\nPierre\
-    \ Bardey to Alfred Bardey, 30 November 1882, quoted in Somebody Else\_: Arthur\
-    \ Rimbaud In Africa 1880\u201391 by Charles Nicholl (1997)"
+  text: 'I am sending you a bird''s head in a steel box filled with alcohol.
+
+    Pierre Bardey to Alfred Bardey, 30 November 1882, quoted in Somebody Else : Arthur
+    Rimbaud In Africa 1880-91 by Charles Nicholl (1997)'
   title: A Sentence To Remember
-word_count: 35
+word_count: 36

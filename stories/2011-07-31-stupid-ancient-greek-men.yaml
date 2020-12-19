@@ -2,9 +2,6 @@ ngrams:
 - - cited
   - napoleon
   - byron
-- - sufficiently
-  - prominent
-  - depend
 - - gaunt
   - victorian
   - olympus
@@ -35,24 +32,12 @@ ngrams:
 - - ancient
   - greek
   - men
-- - carlyle
-  - neither
-  - god
 - - long
   - upper
   - lip
-- - neither
-  - god
-  - nor
 - - clever
   - man
   - amongst
-- - said
-  - carlyle
-  - neither
-- - prominent
-  - depend
-  - upon
 - - god
   - nor
   - man
@@ -71,23 +56,40 @@ ngrams:
 - - man
   - can
   - get
+- - sculptured
+  - beings
+  - which
+- - lip
+  - showed
+  - an
+- - showed
+  - an
+  - absence
+- - point
+  - even
+  - when
+- - one
+  - else
+  - seems
 story:
   date: 2011-07-31
   id: 2011-07-31-stupid-ancient-greek-men
-  text: "[Thomas Carlyle's] aversion for the \u2018fixed smile\u2019 of Greek statuary\
-    \ was equal to that of Ruskin, and his way of expressing it no less individual.\
-    \ Carlyle sat to G F Watts for his portrait, and Watts, as he often did in conversation\
-    \ with his sitters, began to talk of Pheidias. Carlyle advanced a criticism which\
-    \ no one else seems to have thought of. He contended that among all the sculptured\
-    \ beings which the genius of Pheidias had produced there was \u2018not one clever\
-    \ man\u2019. With the long upper lip of Ecclefechan obstinately tightened he declared\
-    \ that a short upper lip showed an absence of intellect. He stuck to his point\
-    \ even when Watts cited Napoleon, Byron, and Goethe as evidence against him. He\
-    \ added that the jaw of the Greek was not sufficiently prominent. \u2018Depend\
-    \ upon it,\u2019 said Carlyle, \u2018neither God nor man can get on without a\
-    \ jaw.\u2019 \u2018There's not a clever man amongst them all,\u2019 he repeated,\
-    \ \u2018and I would away with them\u2014into space.\u2019\nfrom William Gaunt,\
-    \ Victorian Olympus (1952)\nThanks to Nige for alerting me to this splendid book,\
-    \ in this post over at The Dabbler."
+  text: '[Thomas Carlyle''s] aversion for the ''fixed smile'' of Greek statuary was
+    equal to that of Ruskin, and his way of expressing it no less individual. Carlyle
+    sat to G F Watts for his portrait, and Watts, as he often did in conversation
+    with his sitters, began to talk of Pheidias. Carlyle advanced a criticism which
+    no one else seems to have thought of. He contended that among all the sculptured
+    beings which the genius of Pheidias had produced there was ''not one clever man''.
+    With the long upper lip of Ecclefechan obstinately tightened he declared that
+    a short upper lip showed an absence of intellect. He stuck to his point even when
+    Watts cited Napoleon, Byron, and Goethe as evidence against him. He added that
+    the jaw of the Greek was not sufficiently prominent. ''Depend upon it,'' said
+    Carlyle, ''neither God nor man can get on without a jaw.'' ''There''s not a clever
+    man amongst them all,'' he repeated, ''and I would away with them--into space.''
+
+    from William Gaunt, Victorian Olympus (1952)
+
+    Thanks to Nige for alerting me to this splendid book, in this post over at The
+    Dabbler.'
   title: Stupid Ancient Greek Men
-word_count: 193
+word_count: 196

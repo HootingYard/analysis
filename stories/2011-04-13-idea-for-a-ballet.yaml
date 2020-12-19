@@ -2,9 +2,6 @@ ngrams:
 - - pesky
   - inverted
   - commas
-- - headline
-  - swan
-  - falls
 - - magnificent
   - headline
   - swan
@@ -29,15 +26,22 @@ ngrams:
 - - who
   - could
   - communicate
+- - ballet
+  - yesterday
+  - an
 story:
   date: 2011-04-13
   id: 2011-04-13-idea-for-a-ballet
-  text: "Yesterday, an idea for an opera. Today, an idea for a ballet, courtesy of\
-    \ the magnificent headline\nSwan \u2018falls in love\u2019 with a tractor\nI do\
-    \ think they could have omitted those pesky inverted commas. The ballet would\
-    \ have to have a role for animal behaviourist Daniela Fiutak, who could communicate\
-    \ her insight \u201CThe swan presumably had contact with machines during puberty.\
-    \ He sees the tractor as a sexual partner\u201D through the medium of interpretive\
-    \ dance.\n"
+  text: 'Yesterday, an idea for an opera. Today, an idea for a ballet, courtesy of
+    the magnificent headline
+
+    Swan ''falls in love'' with a tractor
+
+    I do think they could have omitted those pesky inverted commas. The ballet would
+    have to have a role for animal behaviourist Daniela Fiutak, who could communicate
+    her insight "The swan presumably had contact with machines during puberty. He
+    sees the tractor as a sexual partner" through the medium of interpretive dance.
+
+    '
   title: Idea For A Ballet
 word_count: 80

@@ -1,4 +1,7 @@
 ngrams:
+- - polish
+  - logic
+  - '-'
 - - library's
   - idiosyncratic
   - approach
@@ -35,9 +38,6 @@ ngrams:
 - - enormously
   - long
   - references
-- - book
-  - fanatic
-  - knows
 story:
   date: 2011-02-17
   id: 2011-02-17-polish-logic-1920-1939
@@ -54,5 +54,5 @@ story:
 
 
     Snapshot from the London Library''s set for St Valentine''s Day'
-  title: "Polish Logic 1920\u20131939"
-word_count: 109
+  title: Polish Logic 1920-1939
+word_count: 110

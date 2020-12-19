@@ -1,7 +1,4 @@
 ngrams:
-- - build
-  - reserves
-  - savings
 - - arts
   - council
   - england
@@ -44,12 +41,18 @@ ngrams:
 - - material
   - assets
   - nor
+- - donating
+  - ps
+  - each
 - - few
   - material
   - assets
 - - air
   - please
   - help
+- - yard
+  - donating
+  - ps
 - - listeners
   - please
   - take
@@ -77,9 +80,6 @@ ngrams:
 - - charity
   - number
   - through
-- - yard
-  - donating
-  - each
 - - its
   - financial
   - resilience
@@ -95,24 +95,31 @@ ngrams:
 story:
   date: 2014-01-09
   id: 2014-01-09-a-plea
-  text: "Oi, you lot. This is a plea for money, and for once it is not an unseemly\
-    \ begging letter asking you to plop a few groats into the coffers of Mr Key's\
-    \ Fund For Distressed Out Of Print Pamphleteers, though of course you can do that\
-    \ too. On this occasion, however, honour, duty, and sheer common sense calls you\
-    \ to send money, or indeed monies, to the world's finest radio station. Here is\
-    \ what the powers that be at ResonanceFM have to say:\nDear Friends of Hooting\
-    \ Yard,\nResonance is currently trying to raise money to bolster its imminent\
-    \ application to Arts Council England. To this end, the radio station wants to\
-    \ build reserves\u2014savings which indicate its financial resilience and which\
-    \ it can draw upon in exceptional circumstances.\nIf you enjoy Hooting Yard On\
-    \ The Air, please help us by donating to Resonance today. You can do this here\
-    \ on our website, or here via JustGiving.\nAnd if you are a UK tax payer you can\
-    \ add value to your donation to our registered charity (number 290236) through\
-    \ GiftAid. All it takes is fifty listeners of Hooting Yard donating \xA310 each\
-    \ for us to reach this year's target. Please mention Hooting Yard in your communication.\n\
-    Resonance does not own a building, so has few material assets; nor does it charge\
-    \ for its service, so it very much relies on the generosity of you, its listeners.\
-    \ Please take a moment to show your appreciation of our broadcasts and secure\
-    \ the station's future. Thank you!"
+  text: 'Oi, you lot. This is a plea for money, and for once it is not an unseemly
+    begging letter asking you to plop a few groats into the coffers of Mr Key''s Fund
+    For Distressed Out Of Print Pamphleteers, though of course you can do that too.
+    On this occasion, however, honour, duty, and sheer common sense calls you to send
+    money, or indeed monies, to the world''s finest radio station. Here is what the
+    powers that be at ResonanceFM have to say:
+
+    Dear Friends of Hooting Yard,
+
+    Resonance is currently trying to raise money to bolster its imminent application
+    to Arts Council England. To this end, the radio station wants to build reserves--savings
+    which indicate its financial resilience and which it can draw upon in exceptional
+    circumstances.
+
+    If you enjoy Hooting Yard On The Air, please help us by donating to Resonance
+    today. You can do this here on our website, or here via JustGiving.
+
+    And if you are a UK tax payer you can add value to your donation to our registered
+    charity (number 290236) through GiftAid. All it takes is fifty listeners of Hooting
+    Yard donating PS10 each for us to reach this year''s target. Please mention Hooting
+    Yard in your communication.
+
+    Resonance does not own a building, so has few material assets; nor does it charge
+    for its service, so it very much relies on the generosity of you, its listeners.
+    Please take a moment to show your appreciation of our broadcasts and secure the
+    station''s future. Thank you!'
   title: A Plea
 word_count: 254

@@ -5,9 +5,6 @@ ngrams:
 - - knife
   - directed
   - uncompromisingly
-- - herself
-  - myrtle
-  - reed
 - - graphite
   - left
   - safely
@@ -44,17 +41,23 @@ ngrams:
 - - 'no'
   - good
   - reason
+- - 'no'
+  - good
+  - reason
+- - than
+  - see
+  - her
 story:
   date: 2006-04-06
   id: 2006-04-06-there-seems-to-be-no-good-reason
-  text: "\u201CThere seems to be no good reason why a man's way of sharpening a pencil\
-    \ is any better than a woman's. It is difficult to see just why it is advisable\
-    \ to cover the thumb with powdered graphite, and expose that useful member to\
-    \ possible amputation by a knife directed uncompromisingly toward it, when the\
-    \ pencil might be pointed the other way, the risk of amputation avoided, and the\
-    \ shavings and pulverised graphite left safely to the action of gravitation and\
-    \ centrifugal force. Yet the entire race of men refuse to see the true value of\
-    \ the feminine method, and, indeed, any man would rather sharpen any woman's pencil\
-    \ than see her do it herself.\u201D \u2014 Myrtle Reed, The Spinster Book"
-  title: "\u201CThere seems to be no good reason\u2026\u201D"
-word_count: 127
+  text: '"There seems to be no good reason why a man''s way of sharpening a pencil
+    is any better than a woman''s. It is difficult to see just why it is advisable
+    to cover the thumb with powdered graphite, and expose that useful member to possible
+    amputation by a knife directed uncompromisingly toward it, when the pencil might
+    be pointed the other way, the risk of amputation avoided, and the shavings and
+    pulverised graphite left safely to the action of gravitation and centrifugal force.
+    Yet the entire race of men refuse to see the true value of the feminine method,
+    and, indeed, any man would rather sharpen any woman''s pencil than see her do
+    it herself." -- Myrtle Reed, The Spinster Book'
+  title: '"There seems to be no good reason..."'
+word_count: 128

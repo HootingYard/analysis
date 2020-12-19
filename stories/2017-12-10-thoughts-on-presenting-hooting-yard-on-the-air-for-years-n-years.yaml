@@ -2,24 +2,21 @@ ngrams:
 - - fat
   - forsooth
   - fat
+- - seaside
+  - chalet
+  - o'
+- - chalet
+  - o'
+  - prose
 - - listeners
   - afraid
   - instead
 - - listeners
   - cried
   - enough
-- - seaside
-  - chalet
-  - o
-- - chalet
-  - o
-  - prose
 - - babbled
   - guff
   - until
-- - years
-  - twas
-  - brillig
 - - pimply
   - youth
   - before
@@ -32,9 +29,6 @@ ngrams:
 - - presenting
   - hooting
   - yard
-- - years
-  - years
-  - twas
 - - puff
   - puffed
   - up
@@ -65,19 +59,61 @@ ngrams:
 - - brought
   - me
   - down
+- - so
+  - very
+  - low
+- - down
+  - so
+  - very
 story:
   date: 2017-12-10
   id: 2017-12-10-thoughts-on-presenting-hooting-yard-on-the-air-for-years-n-years
-  text: "\u2018Twas brillig, and I babbled guff\nUntil my listeners cried \u201CEnough!\u201D\
-    \nAnd stopped my gob with a plug of dough\nAnd then it was that I knew woe.\n\
-    A woe such as I'd never known\nNot e'en when I was skin and bone\nIn starveling\
-    \ days of pimply youth\nBefore I grew so fat forsooth.\nFat and loud and babbling\
-    \ guff,\nAll roister doister swagger and puff,\nPuffed up like one of those eerie\
-    \ toads\nThat leap at you from beside the roads.\nWell, at least, they leap at\
-    \ moi.\nI wrote of them in my memoir,\nThe text of which is what I brayed\nHoping\
-    \ to make my listeners afraid.\nInstead they plugged my gob with dough\nAnd brought\
-    \ me down so very low\nThat now my life is full of woe\nAnd it is time for me\
-    \ to go.\nGo where? To the seaside I suppose\nTo my seaside chalet o\u2019 prose\n\
-    To thump my typewriter's leaden keys\nAnd write of hornets, wasps, and bees."
+  text: '''Twas brillig, and I babbled guff
+
+    Until my listeners cried "Enough!"
+
+    And stopped my gob with a plug of dough
+
+    And then it was that I knew woe.
+
+    A woe such as I''d never known
+
+    Not e''en when I was skin and bone
+
+    In starveling days of pimply youth
+
+    Before I grew so fat forsooth.
+
+    Fat and loud and babbling guff,
+
+    All roister doister swagger and puff,
+
+    Puffed up like one of those eerie toads
+
+    That leap at you from beside the roads.
+
+    Well, at least, they leap at moi.
+
+    I wrote of them in my memoir,
+
+    The text of which is what I brayed
+
+    Hoping to make my listeners afraid.
+
+    Instead they plugged my gob with dough
+
+    And brought me down so very low
+
+    That now my life is full of woe
+
+    And it is time for me to go.
+
+    Go where? To the seaside I suppose
+
+    To my seaside chalet o'' prose
+
+    To thump my typewriter''s leaden keys
+
+    And write of hornets, wasps, and bees.'
   title: Thoughts On Presenting Hooting Yard On The Air For Years & Years
 word_count: 178

@@ -8,9 +8,6 @@ ngrams:
 - - perhaps
   - harsh
   - necessity
-- - man
-  - john
-  - mcgovern
 - - home
   - caring
   - little
@@ -32,15 +29,21 @@ ngrams:
 - - now
   - why
   - does
+- - muscles
+  - which
+  - hold
+- - spring
+  - so
+  - do
 story:
   date: 2006-02-26
   id: 2006-02-26-home-that-spot-to-which-his-heart
-  text: "\u201CHome, that spot to which his heart is tied with unseen cords and tendrils\
-    \ tighter than the muscles which hold it in his swelling chest. Perhaps he left\
-    \ his Home caring little for it at the time. Perhaps harsh necessity drove him\
-    \ from its tender roof to lie beneath THE THATCH OF AVARICE. It does not matter.\
-    \ As the great river broadens in the Spring, so do his feelings swell and overflow\
-    \ his nature now. Why does he tremble, that rough, weather-beaten man?\u201D \u2014\
-    \ John McGovern, The Golden Censer"
-  title: "\u201CHome, that spot to which his heart\u2026\u201D"
-word_count: 95
+  text: '"Home, that spot to which his heart is tied with unseen cords and tendrils
+    tighter than the muscles which hold it in his swelling chest. Perhaps he left
+    his Home caring little for it at the time. Perhaps harsh necessity drove him from
+    its tender roof to lie beneath THE THATCH OF AVARICE. It does not matter. As the
+    great river broadens in the Spring, so do his feelings swell and overflow his
+    nature now. Why does he tremble, that rough, weather-beaten man?" -- John McGovern,
+    The Golden Censer'
+  title: '"Home, that spot to which his heart..."'
+word_count: 96

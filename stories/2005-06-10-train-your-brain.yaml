@@ -2,15 +2,9 @@ ngrams:
 - - guru
   - tony
   - buzan
-- - pet
-  - j
-  - j
 - - blister
   - lane
   - bypass
-- - dr
-  - robert
-  - matthews
 - - method
   - it's
   - cheap
@@ -26,9 +20,6 @@ ngrams:
 - - people
   - pay
   - homage
-- - most
-  - importantly
-  - fun
 - - please
   - take
   - advice
@@ -107,30 +98,44 @@ ngrams:
 - - so
   - please
   - take
+- - an
+  - alarming
+  - number
+- - few
+  - years
+  - we
 story:
   date: 2005-06-10
   id: 2005-06-10-train-your-brain
-  text: "In a culture dominated by pap, it is ever more important to exercise our\
-    \ brains and keep them supple. There are countless techniques for giving our craniums\
-    \ (crania?) a boost, activities which seem to have little or no practical utility\
-    \ but send our synapses a-buzzing. Chess, crosswords, and numerical puzzles are\
-    \ popular, and an alarming number of people pay homage at the altar of brain guru\
-    \ Tony Buzan, he of the sepulchral voice and sinister black cape.\n\nBuzantastic!\n\
-    At Hooting Yard we have devised a new method. It's cheap, simple, and\u2014most\
-    \ importantly\u2014fun*, and we're very pleased to launch it today with a special\
-    \ gala in the field next to the Blister Lane Bypass, which you will probably have\
-    \ missed by the time you read this.\nSet to become a popular craze, Memorise All\
-    \ The Place-Names In Finland (Suomi)\u2122 can be played by young and old alike.\
-    \ Over the next few years, we will be listing all the place-names in Finland (Suomi),\
-    \ in no particular order, a dozen at a time. All you need to do is commit them\
-    \ to memory, perhaps while eating your breakfast. You may wish to be a solo player,\
-    \ or you can gather with other Memorise All The Place-Names In Finland (Suomi)\u2122\
-    \ players and hold tournaments. Overexcitement can be a risk at such events, so\
-    \ please take advice from your doctor if you suffer from any perilous ailments.\n\
-    To start you off, here are the first twelve Finnish place-names: Pet\xE4j\xE4\
-    j\xE4rvi, Enonlahti, Tuukkala, H\xF6\xF6pakka, Torp, Aho, Sund, Maarianhamina,\
-    \ Eugmo, T\xF6rm\xE4senvaara, Korkeakangas, Lumparland.\n*NOTE : A caveat. One\
-    \ must always bear in mind the immortal words of Dr Robert Matthews\u2014\u201C\
-    You have to define fun or you will have none\u201D."
+  text: 'In a culture dominated by pap, it is ever more important to exercise our
+    brains and keep them supple. There are countless techniques for giving our craniums
+    (crania?) a boost, activities which seem to have little or no practical utility
+    but send our synapses a-buzzing. Chess, crosswords, and numerical puzzles are
+    popular, and an alarming number of people pay homage at the altar of brain guru
+    Tony Buzan, he of the sepulchral voice and sinister black cape.
+
+
+    Buzantastic!
+
+    At Hooting Yard we have devised a new method. It''s cheap, simple, and--most importantly--fun*,
+    and we''re very pleased to launch it today with a special gala in the field next
+    to the Blister Lane Bypass, which you will probably have missed by the time you
+    read this.
+
+    Set to become a popular craze, Memorise All The Place-Names In Finland (Suomi)(tm)
+    can be played by young and old alike. Over the next few years, we will be listing
+    all the place-names in Finland (Suomi), in no particular order, a dozen at a time.
+    All you need to do is commit them to memory, perhaps while eating your breakfast.
+    You may wish to be a solo player, or you can gather with other Memorise All The
+    Place-Names In Finland (Suomi)(tm) players and hold tournaments. Overexcitement
+    can be a risk at such events, so please take advice from your doctor if you suffer
+    from any perilous ailments.
+
+    To start you off, here are the first twelve Finnish place-names: Petajajarvi,
+    Enonlahti, Tuukkala, Hoopakka, Torp, Aho, Sund, Maarianhamina, Eugmo, Tormasenvaara,
+    Korkeakangas, Lumparland.
+
+    *NOTE : A caveat. One must always bear in mind the immortal words of Dr Robert
+    Matthews--"You have to define fun or you will have none".'
   title: Train Your Brain
-word_count: 292
+word_count: 286

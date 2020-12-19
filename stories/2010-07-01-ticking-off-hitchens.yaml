@@ -1,16 +1,4 @@
 ngrams:
-- - acceptable
-  - alternatives
-  - rucksack
-- - personal
-  - preference
-  - knapsack
-- - peter
-  - hitchens
-  - latest
-- - hitchens
-  - latest
-  - postage
 - - mary
   - renault's
   - books
@@ -20,9 +8,6 @@ ngrams:
 - - future
   - please
   - ensure
-- - three
-  - acceptable
-  - alternatives
 - - soon
   - peter
   - hitchens
@@ -41,9 +26,6 @@ ngrams:
 - - engages
   - fully
   - indeed
-- - 'yes'
-  - three
-  - acceptable
 - - pass
   - without
   - comment
@@ -53,18 +35,9 @@ ngrams:
 - - young
   - persons
   - often
-- - preference
-  - knapsack
-  - these
 - - ticking
   - 'off'
   - hitchens
-- - king
-  - must
-  - die
-- - three
-  - 'yes'
-  - three
 - - must
   - take
   - issue
@@ -74,24 +47,55 @@ ngrams:
 - - knapsack
   - these
   - words
+- - really
+  - must
+  - take
+- - persons
+  - often
+  - those
+- - culpa
+  - before
+  - too
+- - bloggers
+  - who
+  - engages
+- - who
+  - engages
+  - fully
+- - press
+  - bloggers
+  - who
+- - them
+  - appear
+  - soon
+- - before
+  - too
+  - long
+- - idleness
+  - however
+  - up
 story:
   date: 2010-07-01
   id: 2010-07-01-ticking-off-hitchens
-  text: "I do not often contribute to the Comments threads on blogs. Whether this\
-    \ is a character flaw or a virtue I am not sure. Probably it is sheer idleness.\
-    \ However, up bright and early this morning I turned to Peter Hitchens\u2019 latest\
-    \ postage over at the Mail Online, and came upon this sentence:\nSeeing several\
-    \ of [Mary Renault's] books at bargain prices, I stuffed them in my backpack and\
-    \ began reading (as it happened) \u2018The King Must Die\u2019 as I waited for\
-    \ a delayed train on a country platform.\nI could not let this pass without comment.\
-    \ So I commented:\nMr Hitchens\_: I really must take issue with your use of the\
-    \ word \u201Cbackpack\u201D. It ill becomes you. \u201CBackpack\u201D is a barbaric\
-    \ neologism used by young persons, often those on so-called \u201Cgap years\u201D\
-    . In future, please ensure you use one of the three\u2014yes, three!\u2014acceptable\
-    \ alternatives, \u201Crucksack\u201D, \u201Chaversack\u201D, or\u2014my personal\
-    \ preference\u2014\u201Cknapsack\u201D.\nThese words of wisdom are awaiting moderation,\
-    \ but I hope to see them appear soon. Peter Hitchens is one of the few mainstream\
-    \ press bloggers who engages fully, indeed robustly, with his readers, so I also\
-    \ hope to see his grovelling mea culpa before too long."
+  text: 'I do not often contribute to the Comments threads on blogs. Whether this
+    is a character flaw or a virtue I am not sure. Probably it is sheer idleness.
+    However, up bright and early this morning I turned to Peter Hitchens'' latest
+    postage over at the Mail Online, and came upon this sentence:
+
+    Seeing several of [Mary Renault''s] books at bargain prices, I stuffed them in
+    my backpack and began reading (as it happened) ''The King Must Die'' as I waited
+    for a delayed train on a country platform.
+
+    I could not let this pass without comment. So I commented:
+
+    Mr Hitchens : I really must take issue with your use of the word "backpack". It
+    ill becomes you. "Backpack" is a barbaric neologism used by young persons, often
+    those on so-called "gap years". In future, please ensure you use one of the three--yes,
+    three!--acceptable alternatives, "rucksack", "haversack", or--my personal preference--"knapsack".
+
+    These words of wisdom are awaiting moderation, but I hope to see them appear soon.
+    Peter Hitchens is one of the few mainstream press bloggers who engages fully,
+    indeed robustly, with his readers, so I also hope to see his grovelling mea culpa
+    before too long.'
   title: Ticking Off Hitchens
-word_count: 203
+word_count: 201

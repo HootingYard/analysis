@@ -41,17 +41,20 @@ ngrams:
 - - golden
   - monsters
   - their
+- - might
+  - say
+  - three
 story:
   date: 2004-10-02
   id: 2004-10-02-in-the-midst-of-this-circle-of
-  text: "\u201CIn the midst of this circle of dandies are three overdressed women,\
-    \ one might say three weird visions, robed in garments of pale and indefinable\
-    \ colours, embroidered with golden monsters; their great coiffures are arranged\
-    \ with fantastic art, stuck full of pins and flowers. Two are seated with their\
-    \ backs turned to me: one is holding the guitar, the other singing with that soft,\
-    \ pretty voice\u2026 the third girl is on her feet, dancing before this areopagus\
-    \ of idiots, with their lanky locks and pot-hats. What a shock when she turns\
-    \ round! She wears over her face the horribly grinning, death-like mask of a spectre\
-    \ or a vampire.\u201D \u2014 Pierre Loti, Madame Chysantheme"
-  title: "\u201CIn the midst of this circle of\u2026\u201D"
-word_count: 119
+  text: '"In the midst of this circle of dandies are three overdressed women, one
+    might say three weird visions, robed in garments of pale and indefinable colours,
+    embroidered with golden monsters; their great coiffures are arranged with fantastic
+    art, stuck full of pins and flowers. Two are seated with their backs turned to
+    me: one is holding the guitar, the other singing with that soft, pretty voice...
+    the third girl is on her feet, dancing before this areopagus of idiots, with their
+    lanky locks and pot-hats. What a shock when she turns round! She wears over her
+    face the horribly grinning, death-like mask of a spectre or a vampire." -- Pierre
+    Loti, Madame Chysantheme'
+  title: '"In the midst of this circle of..."'
+word_count: 120

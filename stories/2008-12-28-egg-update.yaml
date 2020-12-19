@@ -2,9 +2,6 @@ ngrams:
 - - george
   - orwell's
   - diary
-- - times
-  - exclusive
-  - concentration
 - - daily
   - routine
   - however
@@ -35,16 +32,21 @@ ngrams:
 - - this
   - egg
   - business
+- - at
+  - george
+  - orwell's
 story:
   date: 2008-12-28
   id: 2008-12-28-egg-update
-  text: "Back in November, you will recall, we had a brief look at George Orwell's\
-    \ diary and its\u2014at times\u2014exclusive concentration on egg-counting. I\
-    \ have not seen fit to keep you abreast of the daily totals, confident as I am\
-    \ that you are equally fascinated by this egg business, and thus have added a\
-    \ check of the online diary to your daily routine. However, the latest seventy-year-old\
-    \ entry is somewhat alarming, so I thought I should draw your attention to it.\n\
-    26\u201328.12.38 Have been ill. Not certain about number of eggs, but about 9.\n\
-    Not certain? Get a grip, George, get a grip!"
+  text: 'Back in November, you will recall, we had a brief look at George Orwell''s
+    diary and its--at times--exclusive concentration on egg-counting. I have not seen
+    fit to keep you abreast of the daily totals, confident as I am that you are equally
+    fascinated by this egg business, and thus have added a check of the online diary
+    to your daily routine. However, the latest seventy-year-old entry is somewhat
+    alarming, so I thought I should draw your attention to it.
+
+    26-28.12.38 Have been ill. Not certain about number of eggs, but about 9.
+
+    Not certain? Get a grip, George, get a grip!'
   title: Egg Update
-word_count: 103
+word_count: 102

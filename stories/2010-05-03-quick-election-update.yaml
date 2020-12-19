@@ -1,7 +1,4 @@
 ngrams:
-- - beards
-  - douglas
-  - murray
 - - quick
   - election
   - update
@@ -14,10 +11,13 @@ ngrams:
 - - there's
   - very
   - little
+- - think
+  - there's
+  - very
 story:
   date: 2010-05-03
   id: 2010-05-03-quick-election-update
-  text: "\u201CI think there's very little likelihood of the Labour Party launching\
-    \ an all-out war on beards.\u201D\u2014Douglas Murray"
+  text: '"I think there''s very little likelihood of the Labour Party launching an
+    all-out war on beards."--Douglas Murray'
   title: Quick Election Update
 word_count: 21

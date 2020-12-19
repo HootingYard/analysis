@@ -5,12 +5,6 @@ ngrams:
 - - news
   - recently
   - threatened
-- - endearing
-  - fact
-  - reported
-- - somehow
-  - endearing
-  - fact
 - - want
   - here
   - simply
@@ -20,13 +14,19 @@ ngrams:
 - - about
   - their
   - current
+- - can
+  - read
+  - about
+- - religious
+  - minority
+  - have
 story:
   date: 2014-08-24
   id: 2014-08-24-forbidden
-  text: "The Yazidi, a primarily Kurdish religious minority, have been much in the\
-    \ news recently, threatened with death by the rampaging nutcases of IS, or Isis.\
-    \ You can read about their current travails elsewhere. I want here simply to mention\
-    \ the somehow endearing fact\u2014reported by the BBC's Paul Wood\u2014that in\
-    \ the Yazidi faith it is forbidden to eat lettuce."
+  text: The Yazidi, a primarily Kurdish religious minority, have been much in the
+    news recently, threatened with death by the rampaging nutcases of IS, or Isis.
+    You can read about their current travails elsewhere. I want here simply to mention
+    the somehow endearing fact--reported by the BBC's Paul Wood--that in the Yazidi
+    faith it is forbidden to eat lettuce.
   title: Forbidden!
-word_count: 61
+word_count: 59

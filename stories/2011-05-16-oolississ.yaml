@@ -2,9 +2,6 @@ ngrams:
 - - dickens
   - et
   - cetera
-- - canon
-  - jane
-  - austen
 - - defies
   - accurate
   - transcription
@@ -14,9 +11,6 @@ ngrams:
 - - eliot
   - dickens
   - et
-- - clotted
-  - nonsense
-  - teachers
 - - criminal
   - lunatic
   - asylum
@@ -26,18 +20,12 @@ ngrams:
 - - george
   - eliot
   - dickens
-- - s
-  - george
-  - eliot
 - - joyce
   - always
   - pronounced
 - - james
   - joyce
   - always
-- - nonsense
-  - teachers
-  - world
 - - loathsome
   - book
   - issued
@@ -77,9 +65,6 @@ ngrams:
 - - cetera
   - she
   - eventually
-- - pages
-  - she
-  - declared
 - - she
   - eventually
   - decided
@@ -92,28 +77,53 @@ ngrams:
 - - joyce's
   - ulysses
   - 'no'
+- - ulysses
+  - 'no'
+  - mention
+- - key
+  - has
+  - neglected
+- - after
+  - her
+  - marriage
+- - could
+  - only
+  - emanate
+- - drawing
+  - your
+  - attention
 story:
   date: 2011-05-16
   id: 2011-05-16-oolississ
-  text: "Not only has Hooting Yard been in security lockdown for a week or so, but\
-    \ Mr Key has neglected to keep abreast of the goings-on in those corners of Het\
-    \ Internet to which his fuming brain is usually attuned. I am thus a few days\
-    \ late in drawing your attention to Brit's excellent piece in The Dabbler on Joyce's\
-    \ Ulysses.\nNo mention of that book can ever be allowed to pass without my chucking\
-    \ in the following addenda:\n1. Here are extracts from two contemporary reviews\
-    \ of Ulysses, written when it was strange and new:\n\u201CAn immense mass of clotted\
-    \ nonsense\u201D \u2014 Teachers\u2019 World\n\u201CThe maddest, muddiest, most\
-    \ loathsome book issued in our own or any other time\u2026 inartistic, incoherent,\
-    \ unquotably nasty \u2026 a book that one would have thought could only emanate\
-    \ from a criminal lunatic asylum\u201D \u2014 The Sphere\n2. James Joyce always\
-    \ pronounced the title as Oo-liss-iss.\n3. My late mother made a famous pronouncement\
-    \ on Joyce. Born in Belgium, she came to Britain in her early twenties after her\
-    \ marriage to my father. One of the ways she chose to improve her English was\
-    \ by reading through the canon\u2014Jane Austen, the Bront\xEBs, George Eliot,\
-    \ Dickens, et cetera. She eventually decided to tackle Ulysses. Casting it aside\
-    \ after a few pages, she declared\u2014after a guttural Flemish expostulation\
-    \ which defies accurate transcription, but sounds more or less like the correct\
-    \ pronunciation in Flemish of the final part of the name Vincent Van Gogh\u2014\
-    \u201CJames Joyce\u2014dat man is a fool!\u201D\n"
+  text: 'Not only has Hooting Yard been in security lockdown for a week or so, but
+    Mr Key has neglected to keep abreast of the goings-on in those corners of Het
+    Internet to which his fuming brain is usually attuned. I am thus a few days late
+    in drawing your attention to Brit''s excellent piece in The Dabbler on Joyce''s
+    Ulysses.
+
+    No mention of that book can ever be allowed to pass without my chucking in the
+    following addenda:
+
+    1. Here are extracts from two contemporary reviews of Ulysses, written when it
+    was strange and new:
+
+    "An immense mass of clotted nonsense" -- Teachers'' World
+
+    "The maddest, muddiest, most loathsome book issued in our own or any other time...
+    inartistic, incoherent, unquotably nasty ... a book that one would have thought
+    could only emanate from a criminal lunatic asylum" -- The Sphere
+
+    2. James Joyce always pronounced the title as Oo-liss-iss.
+
+    3. My late mother made a famous pronouncement on Joyce. Born in Belgium, she came
+    to Britain in her early twenties after her marriage to my father. One of the ways
+    she chose to improve her English was by reading through the canon--Jane Austen,
+    the Brontes, George Eliot, Dickens, et cetera. She eventually decided to tackle
+    Ulysses. Casting it aside after a few pages, she declared--after a guttural Flemish
+    expostulation which defies accurate transcription, but sounds more or less like
+    the correct pronunciation in Flemish of the final part of the name Vincent Van
+    Gogh--"James Joyce--dat man is a fool!"
+
+    '
   title: Oolississ
-word_count: 250
+word_count: 248

@@ -14,9 +14,6 @@ ngrams:
 - - sketches
   - second
   - series
-- - death
-  - o
-  - p
 - - city
   - come
   - faintly
@@ -41,16 +38,19 @@ ngrams:
 - - winds
   - are
   - quiet
+- - are
+  - here
+  - lying
 story:
   date: 2004-06-21
   id: 2004-06-21-the-sea-wind-sweeps-over-the-spot-at
-  text: "\u201CThe sea-wind sweeps over the spot at times in gusts like the frenzy\
-    \ of hopeless grief, and at times in sighs as gentle as those heaved by aged sorrow\
-    \ in sight of eternal rest. The voices of the great city come faintly over the\
-    \ sand-hills, with subdued murmur like a lullaby to the pale sleepers that are\
-    \ here lying low. When the winds are quiet, which is not often, the moan of the\
-    \ mighty Pacific can be heard dayor night, as if it voiced in muffled tones the\
-    \ unceasing woe of a world under the reign of death.\u201D \u2014 O P Fitzgerald,\
-    \ California Sketches (Second Series)"
-  title: "\u201CThe sea-wind sweeps over the spot at\u2026\u201D"
-word_count: 112
+  text: '"The sea-wind sweeps over the spot at times in gusts like the frenzy of hopeless
+    grief, and at times in sighs as gentle as those heaved by aged sorrow in sight
+    of eternal rest. The voices of the great city come faintly over the sand-hills,
+    with subdued murmur like a lullaby to the pale sleepers that are here lying low.
+    When the winds are quiet, which is not often, the moan of the mighty Pacific can
+    be heard dayor night, as if it voiced in muffled tones the unceasing woe of a
+    world under the reign of death." -- O P Fitzgerald, California Sketches (Second
+    Series)'
+  title: '"The sea-wind sweeps over the spot at..."'
+word_count: 113

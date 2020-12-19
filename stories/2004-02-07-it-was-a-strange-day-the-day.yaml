@@ -11,12 +11,6 @@ ngrams:
 - - deep
   - wild
   - sea
-- - wild
-  - sea
-  - mrs
-- - sea
-  - mrs
-  - o
 - - built
   - very
   - firmly
@@ -26,13 +20,21 @@ ngrams:
 - - your
   - dear
   - editor
+- - waves
+  - were
+  - beating
+- - sea
+  - how
+  - like
 story:
   date: 2004-02-07
   id: 2004-02-07-it-was-a-strange-day-the-day
-  text: "\u201CIt was a strange day, the day that I was born. The waves were beating\
-    \ against the lighthouse, and the wind was roaring and raging against everything.\
-    \ Had not the lighthouse been built very firmly into the strong solid rock, it,\
-    \ and all within it, must have been swept into the deep wild sea.\u201D \u2014\
-    \ Mrs O. F. Walton, Saved At Sea\nHow like the home life of your dear editor!"
-  title: "\u201CIt was a strange day, the day\u2026\u201D"
-word_count: 77
+  text: '"It was a strange day, the day that I was born. The waves were beating against
+    the lighthouse, and the wind was roaring and raging against everything. Had not
+    the lighthouse been built very firmly into the strong solid rock, it, and all
+    within it, must have been swept into the deep wild sea." -- Mrs O. F. Walton,
+    Saved At Sea
+
+    How like the home life of your dear editor!'
+  title: '"It was a strange day, the day..."'
+word_count: 78

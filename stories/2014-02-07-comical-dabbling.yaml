@@ -1,13 +1,16 @@
 ngrams:
 - - alleged
   - comedian
-  - peter
-- - comedian
-  - peter
-  - hitchens
+  - c
 - - preposterous
   - russell
   - brand
+- - comedian
+  - c
+  - peter
+- - c
+  - peter
+  - hitchens
 - - hitchens
   - another
   - opportunity
@@ -35,9 +38,6 @@ ngrams:
 - - instead
   - such
   - stars
-- - grip
-  - though
-  - only
 - - am
   - afraid
   - brand
@@ -62,18 +62,23 @@ ngrams:
 story:
   date: 2014-02-07
   id: 2014-02-07-comical-dabbling
-  text: "\nToday the Guardian yet again employs the preposterous Russell Brand as\
-    \ a commentator. This time his overwritten wittering is about the death of Philip\
-    \ Seymour Hoffman, which gives the \u201Calleged comedian\u201D (\xA9\_Peter Hitchens)\
-    \ another opportunity to tell us that he is a recovering addict. Well, who knew?\
-    \ He may indeed be recovering from drink and drugs, but I think it's time he sought\
-    \ help for his pitiable addiction to babbling on and on about himself. Several\
-    \ decades in a Trappist monastery would be ideal.\nWhich brings us to the more\
-    \ important topic of Mr Key, or rather to his cupboard in The Dabbler, which today\
-    \ contains a piece about the role played by comedians in the governance of Britain.\
-    \ Warning: I am afraid Brand is mentioned there again\u2014I really must get a\
-    \ grip!\u2014though only in passing, and you lot will be able to sluice him out\
-    \ of your brains by contemplating, instead, such stars of yesteryear as Wilson,\
-    \ Keppel, and Betty.\n"
+  text: '
+
+    Today the Guardian yet again employs the preposterous Russell Brand as a commentator.
+    This time his overwritten wittering is about the death of Philip Seymour Hoffman,
+    which gives the "alleged comedian" ((c) Peter Hitchens) another opportunity to
+    tell us that he is a recovering addict. Well, who knew? He may indeed be recovering
+    from drink and drugs, but I think it''s time he sought help for his pitiable addiction
+    to babbling on and on about himself. Several decades in a Trappist monastery would
+    be ideal.
+
+    Which brings us to the more important topic of Mr Key, or rather to his cupboard
+    in The Dabbler, which today contains a piece about the role played by comedians
+    in the governance of Britain. Warning: I am afraid Brand is mentioned there again--I
+    really must get a grip!--though only in passing, and you lot will be able to sluice
+    him out of your brains by contemplating, instead, such stars of yesteryear as
+    Wilson, Keppel, and Betty.
+
+    '
   title: Comical Dabbling
 word_count: 165

@@ -11,9 +11,6 @@ ngrams:
 - - elliott
   - o'donnell
   - byways
-- - etc
-  - elliott
-  - o'donnell
 - - bloated
   - nude
   - bodies
@@ -26,9 +23,6 @@ ngrams:
 - - mangy
   - dogs
   - etc
-- - dogs
-  - etc
-  - elliott
 - - man's
   - animal
   - senses
@@ -47,19 +41,25 @@ ngrams:
 - - comparatively
   - few
   - drunkards
+- - who
+  - excite
+  - man's
+- - who
+  - allure
+  - men
 story:
   date: 2006-04-10
   id: 2006-04-10-were-it-not-for-the-lower-order
-  text: "\u201CWere it not for the lower order of spirit brains, there would be comparatively\
-    \ few drunkards, gamblers, adulterers, fornicators, murderers, and suicides. It\
-    \ is they who excite man's animal senses, by conjuring up alluring pictures of\
-    \ drink, and gold, and sexual happiness. By the aid of the higher type of spirit\
-    \ brains I have been enabled to perceive the atmosphere surrounding drinking-dens\
-    \ and brothels full of all kinds of bestial influences, from elementals, who allure\
-    \ men by presenting to their minds all kinds of attractive tableaux, to the earth-bound\
-    \ spirits of drunkards and libertines, transformed into horrors of the sub-human,\
-    \ sub-animal order of phantasms\u2014things with bloated, nude bodies and pigs'\
-    \ faces, shaggy bears with fulsome, watery eyes; mangy dogs, etc.\u201D \u2014\
-    \ Elliott O'Donnell, Byways Of Ghost-Land"
-  title: "\u201CWere it not for the lower order\u2026\u201D"
+  text: '"Were it not for the lower order of spirit brains, there would be comparatively
+    few drunkards, gamblers, adulterers, fornicators, murderers, and suicides. It
+    is they who excite man''s animal senses, by conjuring up alluring pictures of
+    drink, and gold, and sexual happiness. By the aid of the higher type of spirit
+    brains I have been enabled to perceive the atmosphere surrounding drinking-dens
+    and brothels full of all kinds of bestial influences, from elementals, who allure
+    men by presenting to their minds all kinds of attractive tableaux, to the earth-bound
+    spirits of drunkards and libertines, transformed into horrors of the sub-human,
+    sub-animal order of phantasms--things with bloated, nude bodies and pigs'' faces,
+    shaggy bears with fulsome, watery eyes; mangy dogs, etc." -- Elliott O''Donnell,
+    Byways Of Ghost-Land'
+  title: '"Were it not for the lower order..."'
 word_count: 133

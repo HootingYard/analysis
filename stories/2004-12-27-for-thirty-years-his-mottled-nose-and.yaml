@@ -8,9 +8,6 @@ ngrams:
 - - ancient
   - wig
   - scattered
-- - slipshod
-  - feet
-  - charles
 - - tawdry
   - metal
   - gave
@@ -38,16 +35,19 @@ ngrams:
 - - intemperance
   - yet
   - there
+- - black
+  - coat
+  - which
 story:
   date: 2004-12-27
   id: 2004-12-27-for-thirty-years-his-mottled-nose-and
-  text: "\u201CFor thirty years his mottled nose and the rubicundity of his cheeks\
-    \ were the ineffaceable ensigns of his intemperance. Yet there was a grimy humour\
-    \ in his forbidding aspect. The fusty black coat, which sat ill upon his shambling\
-    \ frame, was all besmirched with spilled snuff, and the lees of a thousand quart\
-    \ pots. The bands of his profession were ever awry upon a tattered shirt. His\
-    \ ancient wig scattered dust and powder as he went, while a single buckle of some\
-    \ tawdry metal gave a look of oddity to his clumsy, slipshod feet.\u201D \u2014\
-    \ Charles Whibley, A Book Of Scoundrels"
-  title: "\u201CFor thirty years his mottled nose and\u2026\u201D"
-word_count: 107
+  text: '"For thirty years his mottled nose and the rubicundity of his cheeks were
+    the ineffaceable ensigns of his intemperance. Yet there was a grimy humour in
+    his forbidding aspect. The fusty black coat, which sat ill upon his shambling
+    frame, was all besmirched with spilled snuff, and the lees of a thousand quart
+    pots. The bands of his profession were ever awry upon a tattered shirt. His ancient
+    wig scattered dust and powder as he went, while a single buckle of some tawdry
+    metal gave a look of oddity to his clumsy, slipshod feet." -- Charles Whibley,
+    A Book Of Scoundrels'
+  title: '"For thirty years his mottled nose and..."'
+word_count: 108

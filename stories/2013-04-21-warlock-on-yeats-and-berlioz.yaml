@@ -2,24 +2,12 @@ ngrams:
 - - solitary
   - man's
   - desire
-- - greater
-  - solitude
-  - sung
 - - scouts
   - peter
   - warlock
-- - b
-  - yeats
-  - reluctance
-- - mind's
-  - ear
-  - musical
 - - berlioz
   - w
   - b
-- - w
-  - b
-  - yeats
 - - boy
   - scouts
   - peter
@@ -38,27 +26,15 @@ ngrams:
 - - glued
   - together
   - peter
-- - ear
-  - musical
-  - times
 - - february
   - both
   - quotations
 - - both
   - quotations
   - appear
-- - warlock
-  - mr
-  - yeats
-- - still
-  - greater
-  - solitude
 - - times
   - february
   - both
-- - peter
-  - warlock
-  - mr
 - - fragments
   - discovered
   - more
@@ -74,24 +50,54 @@ ngrams:
 - - february
   - when
   - berlioz
+- - cipher
+  - were
+  - received
+- - secret
+  - cipher
+  - were
+- - times
+  - february
+  - when
+- - found
+  - wandering
+  - about
+- - poem
+  - which
+  - voices
+- - well
+  - known
+  - they
+- - berlioz
+  - we
+  - know
+- - known
+  - they
+  - said
 story:
   date: 2013-04-21
   id: 2013-04-21-warlock-on-yeats-and-berlioz
-  text: "[W. B. Yeats\u2019 reluctance to have his poetry set to music] was born of\
-    \ his horror at being invited by a certain composer to hear a setting of his Lake\
-    \ Isle Of Innisfree\u2014a poem which voices a solitary man's desire for still\
-    \ greater solitude\u2014sung by a choir of a thousand Boy Scouts.\nPeter Warlock,\
-    \ \u2018Mr Yeats And A Musical Censorship\u2019, Musical Times, February 1922\n\
-    When Berlioz was found wandering about the mountains, note-book in hand, sketching\
-    \ his Overture to King Lear, he was arrested as a spy, and his protests that he\
-    \ was not making notes in a secret cipher were received with ridicule by the police.\
-    \ \u201CIt is well known\u201D, they said, \u201Cthat music cannot be composed\
-    \ without a pianoforte.\u201D Berlioz we know could not play the pianoforte. But\
-    \ his case provides no rule and the fact remains that a great deal of music, especially\
-    \ at the present time, is either extemporized at the keyboard or else built up\
-    \ of fragments discovered, more or less fortuitously at the pianoforte and afterwards\
-    \ unskillfully glued together.\nPeter Warlock, \u2018A Note On The Mind's Ear\u2019\
-    , Musical Times, February 1922\nBoth quotations appear in Peter Warlock\_: The\
-    \ Life Of Philip Heseltine by Barry Smith (1994)"
+  text: '[W. B. Yeats'' reluctance to have his poetry set to music] was born of his
+    horror at being invited by a certain composer to hear a setting of his Lake Isle
+    Of Innisfree--a poem which voices a solitary man''s desire for still greater solitude--sung
+    by a choir of a thousand Boy Scouts.
+
+    Peter Warlock, ''Mr Yeats And A Musical Censorship'', Musical Times, February
+    1922
+
+    When Berlioz was found wandering about the mountains, note-book in hand, sketching
+    his Overture to King Lear, he was arrested as a spy, and his protests that he
+    was not making notes in a secret cipher were received with ridicule by the police.
+    "It is well known", they said, "that music cannot be composed without a pianoforte."
+    Berlioz we know could not play the pianoforte. But his case provides no rule and
+    the fact remains that a great deal of music, especially at the present time, is
+    either extemporized at the keyboard or else built up of fragments discovered,
+    more or less fortuitously at the pianoforte and afterwards unskillfully glued
+    together.
+
+    Peter Warlock, ''A Note On The Mind''s Ear'', Musical Times, February 1922
+
+    Both quotations appear in Peter Warlock : The Life Of Philip Heseltine by Barry
+    Smith (1994)'
   title: Warlock On Yeats And Berlioz
-word_count: 206
+word_count: 204

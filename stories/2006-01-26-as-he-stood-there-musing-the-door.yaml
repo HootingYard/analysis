@@ -1,10 +1,4 @@
 ngrams:
-- - feebly
-  - nat
-  - schachner
-- - crying
-  - feebly
-  - nat
 - - nat
   - schachner
   - arthur
@@ -38,17 +32,25 @@ ngrams:
 - - ancient
   - ming
   - priest
+- - burst
+  - open
+  - mid
+- - under
+  - silken
+  - robes
+- - staggering
+  - under
+  - silken
 story:
   date: 2006-01-26
   id: 2006-01-26-as-he-stood-there-musing-the-door
-  text: "\u201CAs he stood there musing, the door burst open mid a great clamor and\
-    \ shouting, and a mob of drunken soldiers poured through the gap. They were staggering\
-    \ under silken robes, golden goblets helmeted their heads, precious ornaments\
-    \ of jade dangled from their persons. The foremost of the rioters beheld the ancient\
-    \ Ming priest. With joyous cries, they pounced upon him, seized him with ungentle\
-    \ hands. \u2018O outlived reptile of accursed lineage, give us your hidden treasures,\
-    \ or we slit your wizened throat.\u2019 The priest struggled feebly in his captors'\
-    \ grasp, crying feebly.\u201D \u2014 Nat Schachner & Arthur L Zagat, The Song\
-    \ Of The Cakes"
-  title: "\u201CAs he stood there musing, the door\u2026\u201D"
-word_count: 110
+  text: '"As he stood there musing, the door burst open mid a great clamor and shouting,
+    and a mob of drunken soldiers poured through the gap. They were staggering under
+    silken robes, golden goblets helmeted their heads, precious ornaments of jade
+    dangled from their persons. The foremost of the rioters beheld the ancient Ming
+    priest. With joyous cries, they pounced upon him, seized him with ungentle hands.
+    ''O outlived reptile of accursed lineage, give us your hidden treasures, or we
+    slit your wizened throat.'' The priest struggled feebly in his captors'' grasp,
+    crying feebly." -- Nat Schachner & Arthur L Zagat, The Song Of The Cakes'
+  title: '"As he stood there musing, the door..."'
+word_count: 112

@@ -29,9 +29,6 @@ ngrams:
 - - mountain
   - detective
   - association
-- - mountain
-  - detective
-  - association
 - - general
   - d
   - j
@@ -41,18 +38,24 @@ ngrams:
 - - e
   - key
   - superintendent
+- - f
+  - e
+  - key
 story:
   date: 2004-08-31
   id: 2004-08-31-chapter-eleven
-  text: "Chapter Eleven of Hands Up; or, Twenty Years of Detective Life in the Mountains\
-    \ and on the Plains, A Condensed Criminal History of the Far West, Reminiscences\
-    \ by General D J Cook, Superintendent of the Rocky Mountain Detective Association,\
-    \ begins:\n\u201CIn all the criminal history of Colorado\u2014in all the register\
-    \ of the achievements of the Rocky Mountain Detective Association\u2014the ensanguined\
-    \ pages show no more causeless, unprovoked murder than that of R B Hayward in\
-    \ September, 1879.\u201D\nChapter Eleven of Unspeakable Desolation Pouring Down\
-    \ From The Stars by General F E Key, Superintendent of the Haemoglobin Towers\
-    \ Detective Association, on the other hand, while considerably less ensanguined,\
-    \ can be found by following this link."
+  text: 'Chapter Eleven of Hands Up; or, Twenty Years of Detective Life in the Mountains
+    and on the Plains, A Condensed Criminal History of the Far West, Reminiscences
+    by General D J Cook, Superintendent of the Rocky Mountain Detective Association,
+    begins:
+
+    "In all the criminal history of Colorado--in all the register of the achievements
+    of the Rocky Mountain Detective Association--the ensanguined pages show no more
+    causeless, unprovoked murder than that of R B Hayward in September, 1879."
+
+    Chapter Eleven of Unspeakable Desolation Pouring Down From The Stars by General
+    F E Key, Superintendent of the Haemoglobin Towers Detective Association, on the
+    other hand, while considerably less ensanguined, can be found by following this
+    link.'
   title: Chapter Eleven
-word_count: 116
+word_count: 114

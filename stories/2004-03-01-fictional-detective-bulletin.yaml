@@ -23,10 +23,12 @@ ngrams:
 story:
   date: 2004-03-01
   id: 2004-03-01-fictional-detective-bulletin
-  text: "It's well known that Sherlock Holmes described his arch enemy Moriarty as\
-    \ \u201Cthe Napoleon of crime\u201D. Less celebrated, but far, far more evocative,\
-    \ is his description of Dr Watson as \u201Cthe stormy petrel of crime\u201D (see\
-    \ The Adventure of the Naval Treaty, and also see below):\n\nWatson & petrel :\
-    \ the petrel is the one on the right"
+  text: 'It''s well known that Sherlock Holmes described his arch enemy Moriarty as
+    "the Napoleon of crime". Less celebrated, but far, far more evocative, is his
+    description of Dr Watson as "the stormy petrel of crime" (see The Adventure of
+    the Naval Treaty, and also see below):
+
+
+    Watson & petrel : the petrel is the one on the right'
   title: Fictional Detective Bulletin
 word_count: 59

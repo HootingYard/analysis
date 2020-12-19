@@ -8,9 +8,6 @@ ngrams:
 - - government
   - whichever
   - government
-- - n
-  - diversity
-  - awareness
 - - knowledge
   - heaven
   - forfend
@@ -47,19 +44,24 @@ ngrams:
 - - taught
   - some
   - knowledge
+- - some
+  - knowledge
+  - somewhere
 story:
   date: 2013-07-10
   id: 2013-07-10-riddled-with-knowledge
-  text: "Mary Bousted, leader of one of the teachers\u2019 unions, was on the radio\
-    \ the other day giving her views on the planned new national curriculum. Obviously\
-    \ she disapproved of it, because the teachers\u2019 unions automatically disapprove\
-    \ of any and all revisions suggested by the government, whichever government is\
-    \ in power. What was striking, however, was one of her principal objections. The\
-    \ new curriculum, she warned darkly, is \u201Criddled with knowledge\u201D.\n\
-    Heaven forfend that the teachers in our schools self-esteem \u2018n\u2019 diversity\
-    \ awareness hubs should be expected to impart knowledge to the tinies!\nI am left\
-    \ speechless, but will merely note that Mary Bousted attended a grammar school\
-    \ and bears the title of \u201CDoctor\u201D. I think she must have been taught\
-    \ some \u201Cknowledge\u201D somewhere along the line."
+  text: 'Mary Bousted, leader of one of the teachers'' unions, was on the radio the
+    other day giving her views on the planned new national curriculum. Obviously she
+    disapproved of it, because the teachers'' unions automatically disapprove of any
+    and all revisions suggested by the government, whichever government is in power.
+    What was striking, however, was one of her principal objections. The new curriculum,
+    she warned darkly, is "riddled with knowledge".
+
+    Heaven forfend that the teachers in our schools self-esteem ''n'' diversity awareness
+    hubs should be expected to impart knowledge to the tinies!
+
+    I am left speechless, but will merely note that Mary Bousted attended a grammar
+    school and bears the title of "Doctor". I think she must have been taught some
+    "knowledge" somewhere along the line.'
   title: Riddled With Knowledge
 word_count: 129

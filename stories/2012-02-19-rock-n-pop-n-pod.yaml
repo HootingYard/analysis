@@ -5,18 +5,22 @@ ngrams:
 - - rock
   - pop
   - pod
-- - pleasure
-  - rock
-  - n
-- - rock
-  - n
-  - pop
-- - n
-  - pop
-  - news
+- - pop
+  - pod
+  - now
+- - pod
+  - now
+  - available
+- - your
+  - listening
+  - pleasure
 story:
   date: 2012-02-19
   id: 2012-02-19-rock-n-pop-n-pod
-  text: "Now available for your listening pleasure:\nRock \u2018n\u2019 Pop News\n"
+  text: 'Now available for your listening pleasure:
+
+    Rock ''n'' Pop News
+
+    '
   title: Rock & Pop & Pod
 word_count: 13

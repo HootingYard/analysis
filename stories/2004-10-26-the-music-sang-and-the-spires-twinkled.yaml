@@ -5,9 +5,6 @@ ngrams:
 - - electrical
   - circuit
   - designed
-- - failed
-  - v
-  - e
 - - eric's
   - metal
   - hat
@@ -35,15 +32,18 @@ ngrams:
 - - contained
   - an
   - electrical
+- - hat
+  - had
+  - failed
 story:
   date: 2004-10-26
   id: 2004-10-26-the-music-sang-and-the-spires-twinkled
-  text: "\u201CThe music sang, and the spires twinkled, and Eric said, \u2018I am\
-    \ Eric North!\u2019 The sword point jerked and the sentinel straightened. His\
-    \ face was white. He cried aloud, \u2018It is Eric the Bronze. It is Eric of the\
-    \ Legend\u2019. He whirled the sword aloft, and smashed it upon Eric's metal hat,\
-    \ and the hatred was a blue flame in his eyes\u2026 The helmet contained an electrical\
-    \ circuit, designed as a shield against electrical waves tuned to affect his brain.\
-    \ But the hat had failed\u2026\u201D \u2014 V E Thiessen, The Beast-Jewel Of Mars"
-  title: "\u201CThe music sang, and the spires twinkled,\u2026\u201D"
-word_count: 99
+  text: '"The music sang, and the spires twinkled, and Eric said, ''I am Eric North!''
+    The sword point jerked and the sentinel straightened. His face was white. He cried
+    aloud, ''It is Eric the Bronze. It is Eric of the Legend''. He whirled the sword
+    aloft, and smashed it upon Eric''s metal hat, and the hatred was a blue flame
+    in his eyes... The helmet contained an electrical circuit, designed as a shield
+    against electrical waves tuned to affect his brain. But the hat had failed..."
+    -- V E Thiessen, The Beast-Jewel Of Mars'
+  title: '"The music sang, and the spires twinkled,..."'
+word_count: 101

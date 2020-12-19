@@ -14,25 +14,22 @@ ngrams:
 - - lies
   - poor
   - duck
-- - here
-  - lies
-  - poor
-- - five
-  - years
-  - old
-- - old
-  - here
-  - lies
-- - years
-  - old
-  - here
+- - been
+  - good
+  - luck
+- - killed
+  - by
+  - treading
+- - been
+  - an
+  - odd
 story:
   date: 2004-07-09
   id: 2004-07-09-his-epitaph-upon-the-duck-he-killed
-  text: "\u201CHis epitaph upon the duck he killed by treading on it at five years\
-    \ old\u2014Here lies poor duck / That Samuel Johnson trod on; / If it had liv'd\
-    \ it had been good luck, / For it would have been an odd one\u2014is a striking\
-    \ example of early expansion of mind and knowledge of language\u201D \u2014 Hesther\
-    \ Lynch Piozzi, Anecdotes Of The Late Samuel Johnson, LL.D."
-  title: "\u201CHis epitaph upon the duck he killed\u2026\u201D"
-word_count: 72
+  text: '"His epitaph upon the duck he killed by treading on it at five years old--Here
+    lies poor duck / That Samuel Johnson trod on; / If it had liv''d it had been good
+    luck, / For it would have been an odd one--is a striking example of early expansion
+    of mind and knowledge of language" -- Hesther Lynch Piozzi, Anecdotes Of The Late
+    Samuel Johnson, LL.D.'
+  title: '"His epitaph upon the duck he killed..."'
+word_count: 71

@@ -5,9 +5,6 @@ ngrams:
 - - via
   - del
   - babuino
-- - fairly
-  - sputtered
-  - spirituality
 - - princess
   - carolyne
   - von
@@ -17,15 +14,9 @@ ngrams:
 - - thrilling
   - title
   - interior
-- - death
-  - rupert
-  - hughes
 - - del
   - babuino
   - only
-- - sputtered
-  - spirituality
-  - her
 - - ponderous
   - affair
   - she
@@ -35,16 +26,25 @@ ngrams:
 - - she
   - sank
   - deeper
+- - she
+  - sank
+  - deeper
+- - affair
+  - she
+  - finished
+- - babuino
+  - only
+  - once
 story:
   date: 2004-03-04
   id: 2004-03-04-she-sank-deeper-and-deeper-into-seclusion
-  text: "\u201CShe sank deeper and deeper into seclusion, and during the twenty-seven\
-    \ years she lived in Rome she left her home in the Via del Babuino only once for\
-    \ twenty-four hours. She grew more and more immersed in the Church and its affairs.\
-    \ Gregororius said she fairly \u2018sputtered spirituality\u2019. Her chief work\
-    \ was a twenty-four-volume study bearing the thrilling title, Interior Causes\
-    \ of the Exterior Weakness of the Church. This ponderous affair she finished a\
-    \ few days before her death.\u201D \u2014 Rupert Hughes, The Love Affairs of Great\
-    \ Musicians, on Franz Liszt's lover Princess Carolyne von Sayn-Wittgenstein"
-  title: "\u201CShe sank deeper and deeper into seclusion,\u2026\u201D"
-word_count: 102
+  text: '"She sank deeper and deeper into seclusion, and during the twenty-seven years
+    she lived in Rome she left her home in the Via del Babuino only once for twenty-four
+    hours. She grew more and more immersed in the Church and its affairs. Gregororius
+    said she fairly ''sputtered spirituality''. Her chief work was a twenty-four-volume
+    study bearing the thrilling title, Interior Causes of the Exterior Weakness of
+    the Church. This ponderous affair she finished a few days before her death." --
+    Rupert Hughes, The Love Affairs of Great Musicians, on Franz Liszt''s lover Princess
+    Carolyne von Sayn-Wittgenstein'
+  title: '"She sank deeper and deeper into seclusion,..."'
+word_count: 103

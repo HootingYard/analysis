@@ -17,9 +17,6 @@ ngrams:
 - - every
   - disease
   - known
-- - man
-  - alfred
-  - wesley
 - - two
   - monks
   - took
@@ -35,16 +32,22 @@ ngrams:
 - - when
   - presto
   - change
+- - exhausted
+  - when
+  - presto
+- - they
+  - renewed
+  - every
 story:
   date: 2005-02-23
   id: 2005-02-23-two-monks-took-the-blood-of-a
-  text: "\u201CTwo monks took the blood of a duck, which they renewed every week;\
-    \ this they put into a phial, one side of which consisted of a thin, transparent\
-    \ crystal; the other thick and opaque; the dark side was shown until the sinner's\
-    \ gold was exhausted, when, presto! change, the blood appeared by turning the\
-    \ other side of the phial. Innumerable toe-parings, bones, pieces of skin, three\
-    \ heads of St. Ursula, and other anatomical relics of departed saints, were said\
-    \ to cure every disease known to man.\u201D \u2014 Alfred Wesley Wishart, A Short\
-    \ History Of Monks And Monasteries"
-  title: "\u201CTwo monks took the blood of a\u2026\u201D"
-word_count: 103
+  text: '"Two monks took the blood of a duck, which they renewed every week; this
+    they put into a phial, one side of which consisted of a thin, transparent crystal;
+    the other thick and opaque; the dark side was shown until the sinner''s gold was
+    exhausted, when, presto! change, the blood appeared by turning the other side
+    of the phial. Innumerable toe-parings, bones, pieces of skin, three heads of St.
+    Ursula, and other anatomical relics of departed saints, were said to cure every
+    disease known to man." -- Alfred Wesley Wishart, A Short History Of Monks And
+    Monasteries'
+  title: '"Two monks took the blood of a..."'
+word_count: 104

@@ -2,21 +2,12 @@ ngrams:
 - - reynolds
   - reynolds
   - reynolds
-- - reynolds
-  - reynolds
-  - edgar
-- - reynolds
-  - edgar
-  - allan
 - - edgar
   - allan
   - poe
 - - arthur
   - gordon
   - pym
-- - unbuttoning
-  - anonymous
-  - th
 - - afternoon
   - whim
   - dictates
@@ -56,25 +47,42 @@ ngrams:
 - - world
   - will
   - support
-- - an
-  - enthusiastic
-  - supporter
+- - this
+  - afternoon
+  - whim
+- - spheres
+  - one
+  - within
+- - words
+  - this
+  - afternoon
+- - poles
+  - or
+  - degrees
 story:
   date: 2004-09-25
   id: 2004-09-25-famous-last-words
-  text: "This afternoon, whim dictates that I share with readers some famous last\
-    \ words.\n\u201CReynolds! Reynolds! \u2026 Reynolds!\u201D \u2014 Edgar Allan\
-    \ Poe *\n\u201CI suppose I am now becoming a god\u201D \u2014 Emperor Vespasian\n\
-    \u201CAll this buttoning and unbuttoning\u201D \u2014 Anonymous 17th century suicide\n\
-    \u201CIt was I who discovered leeches have red blood.\u201D Georges Cuvier\n*\
-    \ NOTE : Poe was yelling out for Jeremiah Reynolds\u2014not present at his deathbed\u2014\
-    an enthusiastic supporter of the hollow earth theories of John Cleve Symmes. Symmes'\
-    \ idea that there were entrances to subterranean worlds at both the Poles was\
-    \ one of the inspirations for Poe's magnificent The Narrative Of Arthur Gordon\
-    \ Pym Of Nantucket.\n\nSymmes : \u201CI declare the earth is hollow, and inhabital\
-    \ within; containing a number of solid concentric spheres, one within the other,\
-    \ and that it is open at the poles or 16 degrees; I pledge my life in support\
-    \ of this truth, and am ready to explore the hollow, if the world will support\
-    \ and aid me in the undertaking.\u201D"
+  text: 'This afternoon, whim dictates that I share with readers some famous last
+    words.
+
+    "Reynolds! Reynolds! ... Reynolds!" -- Edgar Allan Poe *
+
+    "I suppose I am now becoming a god" -- Emperor Vespasian
+
+    "All this buttoning and unbuttoning" -- Anonymous 17th century suicide
+
+    "It was I who discovered leeches have red blood." Georges Cuvier
+
+    * NOTE : Poe was yelling out for Jeremiah Reynolds--not present at his deathbed--an
+    enthusiastic supporter of the hollow earth theories of John Cleve Symmes. Symmes''
+    idea that there were entrances to subterranean worlds at both the Poles was one
+    of the inspirations for Poe''s magnificent The Narrative Of Arthur Gordon Pym
+    Of Nantucket.
+
+
+    Symmes : "I declare the earth is hollow, and inhabital within; containing a number
+    of solid concentric spheres, one within the other, and that it is open at the
+    poles or 16 degrees; I pledge my life in support of this truth, and am ready to
+    explore the hollow, if the world will support and aid me in the undertaking."'
   title: Famous Last Words
-word_count: 164
+word_count: 165

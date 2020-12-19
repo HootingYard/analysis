@@ -17,15 +17,15 @@ ngrams:
 - - events
   - all
   - mechanical
-- - me
-  - e
-  - t
+- - all
+  - mechanical
+  - music
 story:
   date: 2004-11-24
   id: 2004-11-24-we-should-have-a-living-man-putting
-  text: "\u201CWe should have a living man putting his arms about a lifeless partner\
-    \ of wood, and whirling round and round with her, or rather it. Could you look\
-    \ at such a sight, for an instant, without horror? At all events, all mechanical\
-    \ music seems monstrous and abominable to me.\u201D \u2014 E T A Hoffmann, Automata"
-  title: "\u201CWe should have a living man putting\u2026\u201D"
-word_count: 61
+  text: '"We should have a living man putting his arms about a lifeless partner of
+    wood, and whirling round and round with her, or rather it. Could you look at such
+    a sight, for an instant, without horror? At all events, all mechanical music seems
+    monstrous and abominable to me." -- E T A Hoffmann, Automata'
+  title: '"We should have a living man putting..."'
+word_count: 62

@@ -1,7 +1,4 @@
 ngrams:
-- - two
-  - columns
-  - leon
 - - register
   - where
   - suicides
@@ -26,13 +23,16 @@ ngrams:
 - - same
   - penchant
   - for
+- - his
+  - own
+  - invention
 story:
   date: 2004-05-10
   id: 2004-05-10-if-francois-is-fond-of-flowers-m
-  text: "\u201CIf Francois is fond of flowers, M. Perrin has the same penchant for\
-    \ hydraulics and the camera obscura; he draws, he makes jets from the Seine, by\
-    \ an ingenious piece of machinery of his own invention; while he was retouching\
-    \ his syphon, I asked permission to turn over the register, where suicides are\
-    \ ranged in two columns.\u201C\u2014Leon Guzlan, A Visit To The Morgue At Paris"
-  title: "\u201CIf Francois is fond of flowers, M.\u2026\u201D"
+  text: '"If Francois is fond of flowers, M. Perrin has the same penchant for hydraulics
+    and the camera obscura; he draws, he makes jets from the Seine, by an ingenious
+    piece of machinery of his own invention; while he was retouching his syphon, I
+    asked permission to turn over the register, where suicides are ranged in two columns."--Leon
+    Guzlan, A Visit To The Morgue At Paris'
+  title: '"If Francois is fond of flowers, M...."'
 word_count: 73

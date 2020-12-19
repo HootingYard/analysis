@@ -2,9 +2,6 @@ ngrams:
 - - muddy
   - waters
   - nor
-- - little
-  - walter
-  - peter
 - - fathers
   - are
   - muddy
@@ -14,10 +11,14 @@ ngrams:
 - - all
   - little
   - walter
+- - waters
+  - nor
+  - are
 story:
   date: 2010-05-18
   id: 2010-05-18-the-lodge
-  text: "\n\u201CNot all fathers are Muddy Waters. Nor are we all Little Walter.\u201D\
-    \u2014Peter Blegvad"
+  text: '
+
+    "Not all fathers are Muddy Waters. Nor are we all Little Walter."--Peter Blegvad'
   title: The Lodge
 word_count: 16

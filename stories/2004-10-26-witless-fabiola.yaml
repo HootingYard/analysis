@@ -17,9 +17,6 @@ ngrams:
 - - subjugated
   - cormorant
   - sometimes
-- - apocryphal
-  - story
-  - turns
 - - left
   - foot
   - trampling
@@ -86,9 +83,6 @@ ngrams:
 - - sent
   - out
   - west
-- - story
-  - turns
-  - into
 - - out
   - quite
   - irritatingly
@@ -107,30 +101,40 @@ ngrams:
 - - they
   - just
   - grunted
+- - compiled
+  - an
+  - anthology
+- - stories
+  - about
+  - her
 story:
   date: 2004-10-26
   id: 2004-10-26-witless-fabiola
-  text: "Witless Fabiola is one of the archetypes in the complex mythology of the\
-    \ Tundists. Of the many stories about her, perhaps the most important is the legend\
-    \ in which she is sent out west on a Tundist quest to find a hornets' nest but\
-    \ becomes distressed and sits down to rest, and while she rests she has a dream\
-    \ about a giant bream swimming in a stream lit by a moonbeam the colour of cream.\
-    \ In other tales, Witless Fabiola does deeds of derring-do, fights phantom crustacea\
-    \ in the tide pools of Tantarabim, wraps herself in flags, and\u2014in an apocryphal\
-    \ story\u2014turns into a zombie goddess who causes thunderstorms and blizzards\
-    \ and other meteorological phenomena.\nWitless Fabiola is usually depicted holding\
-    \ a trident in her left hand and some birdseed in her right, wearing a cape spun\
-    \ of crocus stalks, her left foot trampling on the neck of a subjugated cormorant.\
-    \ Sometimes she is given a human head, with a mop of frazzled black hair not unlike,\
-    \ say, Robert Smith's of The Cure. In other images, inspired by the breakaway\
-    \ Pseudotundist sect, her head is that of a merganser duck or booby.\nTundist\
-    \ scholar Ernesto Hudihudimojo has compiled an anthology of legends about Witless\
-    \ Fabiola, none of which is longer than a couple of hundred words, and all of\
-    \ which peter out quite irritatingly. The reader is desperate to know more, but\
-    \ Dr Hudihudimojo points to the authenticity of his retellings, and argues that\
-    \ one of the crucial features of Tundist myth is the eschewing of \u201Cclosure\u201D\
-    .\nWe asked the publishers for permission to reprint some of these stories, but\
-    \ they just grunted at our representative and sent her packing, pursued by fractious\
-    \ toddlers armed with pebbles."
+  text: 'Witless Fabiola is one of the archetypes in the complex mythology of the
+    Tundists. Of the many stories about her, perhaps the most important is the legend
+    in which she is sent out west on a Tundist quest to find a hornets'' nest but
+    becomes distressed and sits down to rest, and while she rests she has a dream
+    about a giant bream swimming in a stream lit by a moonbeam the colour of cream.
+    In other tales, Witless Fabiola does deeds of derring-do, fights phantom crustacea
+    in the tide pools of Tantarabim, wraps herself in flags, and--in an apocryphal
+    story--turns into a zombie goddess who causes thunderstorms and blizzards and
+    other meteorological phenomena.
+
+    Witless Fabiola is usually depicted holding a trident in her left hand and some
+    birdseed in her right, wearing a cape spun of crocus stalks, her left foot trampling
+    on the neck of a subjugated cormorant. Sometimes she is given a human head, with
+    a mop of frazzled black hair not unlike, say, Robert Smith''s of The Cure. In
+    other images, inspired by the breakaway Pseudotundist sect, her head is that of
+    a merganser duck or booby.
+
+    Tundist scholar Ernesto Hudihudimojo has compiled an anthology of legends about
+    Witless Fabiola, none of which is longer than a couple of hundred words, and all
+    of which peter out quite irritatingly. The reader is desperate to know more, but
+    Dr Hudihudimojo points to the authenticity of his retellings, and argues that
+    one of the crucial features of Tundist myth is the eschewing of "closure".
+
+    We asked the publishers for permission to reprint some of these stories, but they
+    just grunted at our representative and sent her packing, pursued by fractious
+    toddlers armed with pebbles.'
   title: Witless Fabiola
-word_count: 290
+word_count: 288

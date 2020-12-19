@@ -1,22 +1,19 @@
 ngrams:
-- - this
-  - is
-  - diverting
 - - web
   - this
   - is
-- - diverting
-  - the
-  - brain
-- - the
-  - brain
-  - alphabet
 - - the
   - web
   - this
+- - 'on'
+  - the
+  - web
+- - elsewhere
+  - 'on'
+  - the
 story:
   date: 2004-01-05
   id: 2004-01-05-elsewhere-on-the-web
-  text: "This is diverting\u2014the Brain Alphabet."
+  text: This is diverting--the Brain Alphabet.
   title: Elsewhere on the Web
-word_count: 10
+word_count: 9

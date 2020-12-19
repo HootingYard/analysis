@@ -8,43 +8,45 @@ ngrams:
 - - rectangular
   - green
   - french
-- - material
-  - purpose
-  - noun
-- - origin
-  - material
-  - purpose
 - - green
   - french
   - silver
 - - slightest
   - you'll
   - sound
-- - opinion
-  - size
-  - age
-- - order
-  - opinion
-  - size
-- - size
-  - age
-  - shape
 - - proper
   - order
   - reviewing
 - - english
   - adjectives
   - go
+- - old
+  - rectangular
+  - green
+- - enjoyable
+  - revelation
+  - like
+- - revelation
+  - like
+  - learning
+- - little
+  - old
+  - rectangular
 story:
   date: 2013-11-30
   id: 2013-11-30-in-proper-order
-  text: "Reviewing The Elements Of Eloquence by Mark Forsythe in The Spectator, Christopher\
-    \ Howse notes:\nThe shiniest piece of information I picked up is that, in English,\
-    \ adjectives go in this order:\nOpinion\u2014size\u2014age\u2014shape\u2014colour\u2014\
-    origin\u2014material\u2014purpose\u2014noun. So you can have a lovely little old\
-    \ rectangular green French silver whittling knife. But if you mess with that word\
-    \ order in the slightest you'll sound like a maniac.\nThis knowledge is implicitly\
-    \ mastered by all native speakers; to see it made explicit is an enjoyable revelation,\
-    \ like learning to carry a tray on the flat of your hand."
+  text: 'Reviewing The Elements Of Eloquence by Mark Forsythe in The Spectator, Christopher
+    Howse notes:
+
+    The shiniest piece of information I picked up is that, in English, adjectives
+    go in this order:
+
+    Opinion--size--age--shape--colour--origin--material--purpose--noun. So you can
+    have a lovely little old rectangular green French silver whittling knife. But
+    if you mess with that word order in the slightest you''ll sound like a maniac.
+
+    This knowledge is implicitly mastered by all native speakers; to see it made explicit
+    is an enjoyable revelation, like learning to carry a tray on the flat of your
+    hand.'
   title: In Proper Order
-word_count: 103
+word_count: 95

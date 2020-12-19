@@ -14,15 +14,9 @@ ngrams:
 - - fly's
   - eye
   - filled
-- - feet
-  - worms
-  - seem
 - - objects
   - five
   - hundred
-- - six
-  - feet
-  - worms
 - - five
   - hundred
   - thousand
@@ -50,20 +44,28 @@ ngrams:
 - - most
   - delicate
   - leaf
+- - presents
+  - such
+  - shapes
+- - seem
+  - like
+  - boa
 story:
   date: 2010-03-15
   id: 2010-03-15-a-drop-of-goodly-ditch-water
-  text: "From The Times in 1833, enthusing about the new hydro-oxygen microscope:\n\
-    \u201CIt can, in truth represent objects five hundred thousand times larger in\
-    \ size than they really are. Thus the pores of the slenderest twig and the fibres\
-    \ of the most delicate leaf expand into coarse net work. The external integuments\
-    \ of a fly's eye, filled with thousands of lenses, appear the dimensions of a\
-    \ lady's veil\u2014that gentleman yclept the flea, swells into six feet\u2014\
-    worms seem like boa constrictors: while the population of a drop of goodly ditch\
-    \ water presents such shapes as Teniers should have seen before he pencilled the\
-    \ grotesque monsters who troubled the sleep of St Anthony.\u201D\nQuoted in The\
-    \ Sun And The Moon\_: The Remarkable True Account Of Hoaxers, Showmen, Dueling\
-    \ Journalists, And Lunar Man-Bats In Nineteenth-Century New York by Matthew Goodman\
-    \ (2008)"
+  text: 'From The Times in 1833, enthusing about the new hydro-oxygen microscope:
+
+    "It can, in truth represent objects five hundred thousand times larger in size
+    than they really are. Thus the pores of the slenderest twig and the fibres of
+    the most delicate leaf expand into coarse net work. The external integuments of
+    a fly''s eye, filled with thousands of lenses, appear the dimensions of a lady''s
+    veil--that gentleman yclept the flea, swells into six feet--worms seem like boa
+    constrictors: while the population of a drop of goodly ditch water presents such
+    shapes as Teniers should have seen before he pencilled the grotesque monsters
+    who troubled the sleep of St Anthony."
+
+    Quoted in The Sun And The Moon : The Remarkable True Account Of Hoaxers, Showmen,
+    Dueling Journalists, And Lunar Man-Bats In Nineteenth-Century New York by Matthew
+    Goodman (2008)'
   title: A Drop Of Goodly Ditch Water
-word_count: 143
+word_count: 141

@@ -1,13 +1,4 @@
 ngrams:
-- - hideousness
-  - william
-  - hope
-- - william
-  - hope
-  - hodgson
-- - dread
-  - sargasso
-  - sea
 - - eye
   - ever
   - seeing
@@ -32,15 +23,20 @@ ngrams:
 - - mizzen
   - mast
   - one
+- - far
+  - horizon
+  - an
+- - north
+  - atlantic
+  - from
 story:
   date: 2004-03-13
   id: 2004-03-13-i-am-writing-this-in-the-saloon
-  text: "\u201CI am writing this in the saloon of the sailing ship, Homebird, and\
-    \ writing with but little hope of human eye ever seeing that which I write; for\
-    \ we are in the heart of the dread Sargasso Sea\u2014 the Tideless Sea of the\
-    \ North Atlantic. From the stump of our mizzen mast, one may see, spread out to\
-    \ the far horizon, an interminable waste of weed\u2014a treacherous, silent vastitude\
-    \ of slime and hideousness!\u201D \u2014William Hope Hodgson, From The Tideless\
-    \ Sea"
-  title: "\u201CI am writing this in the saloon\u2026\u201D"
-word_count: 88
+  text: '"I am writing this in the saloon of the sailing ship, Homebird, and writing
+    with but little hope of human eye ever seeing that which I write; for we are in
+    the heart of the dread Sargasso Sea-- the Tideless Sea of the North Atlantic.
+    From the stump of our mizzen mast, one may see, spread out to the far horizon,
+    an interminable waste of weed--a treacherous, silent vastitude of slime and hideousness!"
+    --William Hope Hodgson, From The Tideless Sea'
+  title: '"I am writing this in the saloon..."'
+word_count: 87

@@ -2,23 +2,23 @@ ngrams:
 - - invisible
   - sun
   - within
-- - us
-  - sir
-  - thomas
-- - within
-  - us
-  - sir
 - - sun
   - within
   - us
 - - an
   - invisible
   - sun
+- - we
+  - live
+  - by
+- - by
+  - an
+  - invisible
 story:
   date: 2004-07-17
   id: 2004-07-17-life-is-a-pure-flame-and-we
-  text: "\u201CLife is a pure flame, and we live by an invisible Sun within us.\u201D\
-    \ \u2014 Sir Thomas Browne, Hydriotaphia, Urne-Buriall, or, A Brief Discourse\
-    \ Of The Sepulchrall Urnes lately Found In Norfolk"
-  title: "\u201CLife is a pure flame, and we\u2026\u201D"
-word_count: 38
+  text: '"Life is a pure flame, and we live by an invisible Sun within us." -- Sir
+    Thomas Browne, Hydriotaphia, Urne-Buriall, or, A Brief Discourse Of The Sepulchrall
+    Urnes lately Found In Norfolk'
+  title: '"Life is a pure flame, and we..."'
+word_count: 39

@@ -5,18 +5,12 @@ ngrams:
 - - maestro
   - dollar
   - crane
-- - yachtsman
-  - cult
-  - leader
 - - jazz
   - maestro
   - dollar
 - - leader
   - l
   - ron
-- - cult
-  - leader
-  - l
 - - homburg
   - conquistador
   - mabel
@@ -29,9 +23,6 @@ ngrams:
 - - criminal
   - lair
   - discs
-- - writer
-  - yachtsman
-  - cult
 - - psychopathic
   - serial
   - killer
@@ -59,9 +50,6 @@ ngrams:
 - - popular
   - beat
   - combo
-- - fiction
-  - writer
-  - yachtsman
 - - d
   - canal
   - alter
@@ -74,9 +62,6 @@ ngrams:
 - - lala
   - crone
   - dr
-- - science
-  - fiction
-  - writer
 - - criminal
   - lair
   - neither
@@ -134,37 +119,53 @@ ngrams:
 - - years
   - ago
   - nor
+- - lair
+  - rather
+  - than
+- - many
+  - years
+  - later
+- - years
+  - later
+  - much
+- - matter
+  - has
+  - anybody
+- - has
+  - anybody
+  - seen
 story:
   date: 2013-02-01
   id: 2013-02-01-radio-babinsky
-  text: "It is exactly sixty years ago today that the lumbering walrus-moustached\
-    \ psychopathic serial killer Babinsky made his appearance on the radio programme\
-    \ Squalid Criminal Lair Discs. This was a short-lived offshoot of Desert Island\
-    \ Discs, the difference being that the guest was invited to choose what music\
-    \ he would take to a squalid criminal lair rather than to a desert island. The\
-    \ programme proved controversial, not least because Babinsky took the opportunity\
-    \ to hack to pieces with his axe and slicer the presenter, one Roy Plum. That\
-    \ is why it was a short-lived show. In fact, the Babinsky episode was the only\
-    \ one ever recorded.\nBut the on-air slaughter of the presenter, and Babinsky's\
-    \ daring escape from the studio pursued by Detective Captain Cargpan and his coppers,\
-    \ were not the only sources of controversy. There was much comment, in The Listener\
-    \ and the Radio Times and elsewhere, regarding the fact that Babinsky's choices\
-    \ were all self-penned songs, including titles such as \u201CHomburg\u201D, \u201C\
-    Conquistador\u201D, \u201CMabel\u201D, and \u201CRepent Walpurgis\u201D. (Many\
-    \ years later, much reworked and faffed with, and with the more terrifying passages\
-    \ excised, the songs were rerecorded, and claimed as their own, by a popular beat\
-    \ combo.) For Squalid Criminal Lair Discs, however, Babinsky engaged his own band\
-    \ to perform the songs, a one-off grouping including the jazz maestro Dollar Crane,\
-    \ the mysterious science fiction writer\u2014yachtsman\u2014cult leader L. Ron\
-    \ De La Car, the Dancer Lola R., and Errol D. Canal, alter ego of Dr. Leon Clara,\
-    \ the so-called \u201CLala Crone Dr.\u201D whose work with various lala crones\
-    \ predated Dr. Arthur Janov's primal scream therapy. It was the bloodcurdling\
-    \ screaming of the lala crones that made Babinsky's songs so puissant.\nIn his\
-    \ flight from the studio, Babinsky stuffed into a sack not only Roy Plum's head\
-    \ but the master tape of the programme, which he carried back to his squalid criminal\
-    \ lair. Neither head nor tape has been seen since that day, sixty years ago. Nor,\
-    \ for that matter, has anybody seen hide nor hair of the lala crones, despite\
-    \ searching for them high and low in various Mercy Homes for the Bewildered and\
-    \ the Fraught and the Baffled and the Lala."
+  text: 'It is exactly sixty years ago today that the lumbering walrus-moustached
+    psychopathic serial killer Babinsky made his appearance on the radio programme
+    Squalid Criminal Lair Discs. This was a short-lived offshoot of Desert Island
+    Discs, the difference being that the guest was invited to choose what music he
+    would take to a squalid criminal lair rather than to a desert island. The programme
+    proved controversial, not least because Babinsky took the opportunity to hack
+    to pieces with his axe and slicer the presenter, one Roy Plum. That is why it
+    was a short-lived show. In fact, the Babinsky episode was the only one ever recorded.
+
+    But the on-air slaughter of the presenter, and Babinsky''s daring escape from
+    the studio pursued by Detective Captain Cargpan and his coppers, were not the
+    only sources of controversy. There was much comment, in The Listener and the Radio
+    Times and elsewhere, regarding the fact that Babinsky''s choices were all self-penned
+    songs, including titles such as "Homburg", "Conquistador", "Mabel", and "Repent
+    Walpurgis". (Many years later, much reworked and faffed with, and with the more
+    terrifying passages excised, the songs were rerecorded, and claimed as their own,
+    by a popular beat combo.) For Squalid Criminal Lair Discs, however, Babinsky engaged
+    his own band to perform the songs, a one-off grouping including the jazz maestro
+    Dollar Crane, the mysterious science fiction writer--yachtsman--cult leader L.
+    Ron De La Car, the Dancer Lola R., and Errol D. Canal, alter ego of Dr. Leon Clara,
+    the so-called "Lala Crone Dr." whose work with various lala crones predated Dr.
+    Arthur Janov''s primal scream therapy. It was the bloodcurdling screaming of the
+    lala crones that made Babinsky''s songs so puissant.
+
+    In his flight from the studio, Babinsky stuffed into a sack not only Roy Plum''s
+    head but the master tape of the programme, which he carried back to his squalid
+    criminal lair. Neither head nor tape has been seen since that day, sixty years
+    ago. Nor, for that matter, has anybody seen hide nor hair of the lala crones,
+    despite searching for them high and low in various Mercy Homes for the Bewildered
+    and the Fraught and the Baffled and the Lala.'
   title: Radio Babinsky
-word_count: 364
+word_count: 362

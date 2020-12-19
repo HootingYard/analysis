@@ -14,33 +14,32 @@ ngrams:
 - - kelly
   - among
   - other
-- - am
-  - currently
-  - reading
 - - among
   - other
   - things
-- - currently
-  - reading
-  - or
-- - reading
-  - or
-  - peering
 - - by
   - stuart
   - kelly
 - - by
   - rotting
   - engineering
+- - cloth
+  - by
+  - rotting
+- - books
+  - by
+  - stuart
+- - lost
+  - books
+  - by
 story:
   date: 2017-06-27
   id: 2017-06-27-lost-books-real-and-imagined
-  text: "I am currently reading\u2014or peering at, with my iffy eyes\u2014The Book\
-    \ Of Lost Books by Stuart Kelly (2005). Among other things I have learned is that\
-    \ we have lost a work by the ancient polymath Callimachus (c.320\u2014c.340 BCE)\
-    \ entitled On The Changes Of The Names Of Fish. I, for one, would love to read\
-    \ it, and I suspect it inspired a dream I had, where I came upon a copy of On\
-    \ The Stiffness Or Otherwise Of Bolts Of Cloth by Rotting Engineering Equipment\
-    \ Jr."
+  text: I am currently reading--or peering at, with my iffy eyes--The Book Of Lost
+    Books by Stuart Kelly (2005). Among other things I have learned is that we have
+    lost a work by the ancient polymath Callimachus (c.320--c.340 BCE) entitled On
+    The Changes Of The Names Of Fish. I, for one, would love to read it, and I suspect
+    it inspired a dream I had, where I came upon a copy of On The Stiffness Or Otherwise
+    Of Bolts Of Cloth by Rotting Engineering Equipment Jr.
   title: Lost Books, Real And Imagined
-word_count: 92
+word_count: 90

@@ -32,23 +32,25 @@ ngrams:
 - - lizard
   - jaws
   - squirrel
+- - b
+  - seabrook
+  - '-'
 - - snake
   - bones
   - lizard
-- - bones
-  - lizard
-  - jaws
 story:
   date: 2011-03-23
   id: 2011-03-23-whats-in-your-ouanga-bag
-  text: "A ouanga bag confiscated by Marines in 1921 near Gonaives is described as\
-    \ follows:\nIt was a hide bag, and in it were these objects\_: luck stones, snake\
-    \ bones, lizard jaws, squirrel teeth, bat bones, frog bones, black hen feathers\
-    \ and bones, black lamb wool, dove hearts, mole skins, images of wax and clay,\
-    \ candy made of brown sugar mixed with liver, mud, sulphur, salt, and alum, and\
-    \ vegetable poisons.\n\u201CFrom The Author's Notebook\u201D, appendix to The\
-    \ Magic Island (1929) by W B Seabrook (1884\u20131945), an \u201CAmerican Lost\
-    \ Generation occultist, explorer, traveller, cannibal, and journalist\u201D, says\
-    \ the Wikipedia. Oh, also an alcoholic, a sadist, and a suicide."
+  text: 'A ouanga bag confiscated by Marines in 1921 near Gonaives is described as
+    follows:
+
+    It was a hide bag, and in it were these objects : luck stones, snake bones, lizard
+    jaws, squirrel teeth, bat bones, frog bones, black hen feathers and bones, black
+    lamb wool, dove hearts, mole skins, images of wax and clay, candy made of brown
+    sugar mixed with liver, mud, sulphur, salt, and alum, and vegetable poisons.
+
+    "From The Author''s Notebook", appendix to The Magic Island (1929) by W B Seabrook
+    (1884-1945), an "American Lost Generation occultist, explorer, traveller, cannibal,
+    and journalist", says the Wikipedia. Oh, also an alcoholic, a sadist, and a suicide.'
   title: What's In Your Ouanga Bag?
-word_count: 109
+word_count: 110

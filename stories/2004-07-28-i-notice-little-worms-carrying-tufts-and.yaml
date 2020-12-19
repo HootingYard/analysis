@@ -5,9 +5,6 @@ ngrams:
 - - fins
   - constantly
   - flapping
-- - waters
-  - j
-  - henri
 - - worms
   - carrying
   - tufts
@@ -23,13 +20,16 @@ ngrams:
 - - little
   - worms
   - carrying
+- - little
+  - worms
+  - carrying
 story:
   date: 2004-07-28
   id: 2004-07-28-i-notice-little-worms-carrying-tufts-and
-  text: "\u201CI notice little worms carrying tufts and feathers; I make out some\
-    \ with flabby fins constantly flapping on their backs. What are they all doing\
-    \ there? What are their names? I do not know. And I stare at them for ever so\
-    \ long, held by the incomprehensible mystery of the waters.\u201D \u2014 J Henri\
-    \ Fabre, The Life Of The Fly"
-  title: "\u201CI notice little worms carrying tufts and\u2026\u201D"
-word_count: 66
+  text: '"I notice little worms carrying tufts and feathers; I make out some with
+    flabby fins constantly flapping on their backs. What are they all doing there?
+    What are their names? I do not know. And I stare at them for ever so long, held
+    by the incomprehensible mystery of the waters." -- J Henri Fabre, The Life Of
+    The Fly'
+  title: '"I notice little worms carrying tufts and..."'
+word_count: 67

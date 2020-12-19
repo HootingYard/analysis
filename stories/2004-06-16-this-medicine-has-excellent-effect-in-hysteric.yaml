@@ -1,7 +1,4 @@
 ngrams:
-- - horseback
-  - matthew
-  - turner
 - - salts
   - bodily
   - exercise
@@ -59,21 +56,23 @@ ngrams:
 - - matthew
   - turner
   - an
+- - turner
+  - an
+  - account
 story:
   date: 2004-06-16
   id: 2004-06-16-this-medicine-has-excellent-effect-in-hysteric
-  text: "\u201CThis Medicine has excellent Effect in Hysteric Fits, and in all that\
-    \ Train of Symptoms which Hysteric and Hypochondriac Persons are subject to; such\
-    \ as Risings in the Throat threatning Suffocation, difficult Breathing, Flutterings\
-    \ and Palpitations of the Heart, frequent Fainting, Lowness of Spirits, violent\
-    \ Pains in the Head, Languor of the whole Body, Dullness of the Mind and Senses,\
-    \ with constant Anxieties and Inquietude, &c. The Dose must be repeated according\
-    \ to the urgency of the Symptoms; and the Medicine must be continued some Time\
-    \ after the Complaints disappear, to prevent a Relapse. It will be serviceable\
-    \ during the Use of the AETHER, especially in Case of Costiveness, to take at\
-    \ proper Intervals a gentle Purge, such as Tinctura Sacra, Pill Rufi, Rhubarb,\
-    \ or Glauber's Salts. Bodily Exercise of all sorts contributes greatly to the\
-    \ Cure of these Complaints, especially Riding on Horseback.\u201D \u2014 Matthew\
-    \ Turner, An Account of the Extraordinary Medicinal Fluid, Called Aether"
-  title: "\u201CThis Medicine has excellent Effect in Hysteric\u2026\u201D"
-word_count: 162
+  text: '"This Medicine has excellent Effect in Hysteric Fits, and in all that Train
+    of Symptoms which Hysteric and Hypochondriac Persons are subject to; such as Risings
+    in the Throat threatning Suffocation, difficult Breathing, Flutterings and Palpitations
+    of the Heart, frequent Fainting, Lowness of Spirits, violent Pains in the Head,
+    Languor of the whole Body, Dullness of the Mind and Senses, with constant Anxieties
+    and Inquietude, &c. The Dose must be repeated according to the urgency of the
+    Symptoms; and the Medicine must be continued some Time after the Complaints disappear,
+    to prevent a Relapse. It will be serviceable during the Use of the AETHER, especially
+    in Case of Costiveness, to take at proper Intervals a gentle Purge, such as Tinctura
+    Sacra, Pill Rufi, Rhubarb, or Glauber''s Salts. Bodily Exercise of all sorts contributes
+    greatly to the Cure of these Complaints, especially Riding on Horseback." -- Matthew
+    Turner, An Account of the Extraordinary Medicinal Fluid, Called Aether'
+  title: '"This Medicine has excellent Effect in Hysteric..."'
+word_count: 163

@@ -8,18 +8,12 @@ ngrams:
 - - appleton
   - tom
   - swift
-- - x
-  - victor
-  - appleton
 - - gleaming
   - chrome
   - housed
 - - device
   - upright
   - tom
-- - planet
-  - x
-  - victor
 - - power
   - unit
   - housing
@@ -59,9 +53,6 @@ ngrams:
 - - energy
   - its
   - upper
-- - arms
-  - its
-  - waist
 - - its
   - upper
   - body
@@ -71,24 +62,32 @@ ngrams:
 - - information
   - about
   - intelligent
+- - repulsion
+  - force
+  - when
+- - device
+  - stood
+  - about
+- - device
+  - stood
+  - about
 story:
   date: 2006-03-23
   id: 2006-03-23-the-device-stood-about-shoulder-high-with-a
-  text: "\u201CThe device stood about shoulder-high, with a star-shaped head, one\
-    \ point of which could be opened. The head would contain the actual brain energy.\
-    \ Its upper body, cylindrical in shape and of gleaming chrome, housed the output\
-    \ units through which the brain would react, and also the controls. Antennas projecting\
-    \ out on either side gave the look of arms. Its \u2018waist\u2019 was girdled\
-    \ with a ring of repelatron radiators for exerting a repulsion force when it wanted\
-    \ to move, by repelling itself away from nearby objects. Below the repelatrons\
-    \ was an hourglass-shaped power unit, housing a solar-charged battery. The power\
-    \ unit, in turn, was mounted on a pancake-shaped transportation unit. This unit\
-    \ was equipped with both casters and a sort of caterpillar-crawler arrangement\
-    \ for the contrivance to get about over obstacles. Inside was a gyro-stabilizer\
-    \ to keep the whole device upright. Tom felt a glow of pride\u2014and eager impatience\u2014\
-    as he inspected the device. If it worked as he hoped, this odd creature might\
-    \ one day provide earth scientists with a priceless store of information about\
-    \ intelligent life on Planet X!\u201D \u2014 Victor Appleton, Tom Swift And The\
-    \ Visitor From Planet X"
-  title: "\u201CThe device stood about shoulder-high, with a\u2026\u201D"
-word_count: 199
+  text: '"The device stood about shoulder-high, with a star-shaped head, one point
+    of which could be opened. The head would contain the actual brain energy. Its
+    upper body, cylindrical in shape and of gleaming chrome, housed the output units
+    through which the brain would react, and also the controls. Antennas projecting
+    out on either side gave the look of arms. Its ''waist'' was girdled with a ring
+    of repelatron radiators for exerting a repulsion force when it wanted to move,
+    by repelling itself away from nearby objects. Below the repelatrons was an hourglass-shaped
+    power unit, housing a solar-charged battery. The power unit, in turn, was mounted
+    on a pancake-shaped transportation unit. This unit was equipped with both casters
+    and a sort of caterpillar-crawler arrangement for the contrivance to get about
+    over obstacles. Inside was a gyro-stabilizer to keep the whole device upright.
+    Tom felt a glow of pride--and eager impatience--as he inspected the device. If
+    it worked as he hoped, this odd creature might one day provide earth scientists
+    with a priceless store of information about intelligent life on Planet X!" --
+    Victor Appleton, Tom Swift And The Visitor From Planet X'
+  title: '"The device stood about shoulder-high, with a..."'
+word_count: 198

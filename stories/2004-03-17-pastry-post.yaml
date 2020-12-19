@@ -1,0 +1,53 @@
+ngrams:
+- - guru
+  - tony
+  - buzan
+- - buzan
+  - anyway
+  - kissinger
+- - tony
+  - buzan
+  - anyway
+- - dr
+  - henry
+  - kissinger
+- - dr
+  - ruth
+  - pastry
+- - grip
+  - dr
+  - pastry
+- - amusing
+  - dr
+  - pastry
+- - post
+  - dr
+  - ruth
+- - pastry
+  - post
+  - dr
+- - brain
+  - guru
+  - tony
+- - separate
+  - items
+  - get
+- - dear
+  - brain
+  - guru
+- - dr
+  - pastry
+  - should
+story:
+  date: 2004-03-17
+  id: 2004-03-17-pastry-post
+  text: "Dr Ruth Pastry has written in yet again: \u201CYesterday you showed a picture\
+    \ of Dr Henry Kissinger in close proximity to a picture of a leech. Is this meant\
+    \ to be amusing?\u201D Dr Pastry should be aware that, unlike her, Kissinger has\
+    \ never been entitled to that \u201CDr\u201D: he simply made it up, trusting\u2014\
+    for the most part correctly\u2014that no one would dare challenge it, given his\
+    \ assumed gravitas and that sepulchral voice which outdoes even the graveyard\
+    \ tones of our own dear brain guru Tony Buzan. Anyway, Kissinger and the leech\
+    \ appeared in separate items. Get a grip, Dr Pastry!"
+  title: Pastry Post
+word_count: 104

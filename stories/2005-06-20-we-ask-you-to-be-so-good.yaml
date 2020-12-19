@@ -1,0 +1,46 @@
+ngrams:
+- - candles
+  - tapers
+  - lanterns
+- - shutters
+  - curtains
+  - casements
+- - oil
+  - resin
+  - alcohol
+- - tallow
+  - oil
+  - resin
+- - tapers
+  - lanterns
+  - sticks
+- - sticks
+  - street
+  - lamps
+- - lanterns
+  - sticks
+  - street
+- - outside
+  - shutters
+  - curtains
+- - all
+  - openings
+  - holes
+- - short
+  - all
+  - openings
+- - good
+  - we
+  - ask
+story:
+  date: 2005-06-20
+  id: 2005-06-20-we-ask-you-to-be-so-good
+  text: "\u201CWe ask you to be so good as to pass a law requiring the closing of\
+    \ all windows, dormers, skylights, inside and outside shutters, curtains, casements,\
+    \ bull's-eyes, deadlights, and blinds\u2014in short, all openings, holes, chinks,\
+    \ and fissures through which the light of the sun is wont to enter houses.\u201D\
+    \ \u2014 Frederic Bastiat, A Petition From The Manufacturers Of Candles, Tapers,\
+    \ Lanterns, Sticks, Street Lamps, Snuffers, And Extinguishers, And From Producers\
+    \ Of Tallow, Oil, Resin, Alcohol, And Generally Of Everything Connected With Lighting"
+  title: "\u201CWe ask you to be so good\u2026\u201D"
+word_count: 89

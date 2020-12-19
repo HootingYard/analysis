@@ -1,0 +1,57 @@
+ngrams:
+- - station
+  - resonance
+  - fm
+- - radio
+  - station
+  - resonance
+- - london
+  - radio
+  - station
+- - someone
+  - called
+  - istvan
+- - lighthouse
+  - virtually
+  - every
+- - dobson's
+  - majestic
+  - work
+- - virtually
+  - every
+  - last
+- - every
+  - last
+  - scrap
+- - astonishing
+  - drama
+  - has
+- - your
+  - pleasure
+  - education
+- - been
+  - performed
+  - once
+- - drama
+  - has
+  - only
+- - ever
+  - been
+  - performed
+- - has
+  - only
+  - ever
+story:
+  date: 2003-12-22
+  id: 2003-12-22-dobson
+  text: "How are we to get the measure of Dobson? We do not know his first name. We\
+    \ know neither the year of his birth, nor that of his death. (We do know that\
+    \ he is buried near his favourite lighthouse.) Virtually every last scrap of his\
+    \ work has been destroyed. All that remains is a short play, The Glue In The Palace\
+    \ Was Rarefied; The Putty Was Dreadful. This astonishing drama has only ever been\
+    \ performed once, on the London radio station Resonance FM, by Pansy Cradledew\
+    \ and Evrah\u2014and even then, it was misattributed to someone called Istvan\
+    \ Scrimgeour. Here, then, for your pleasure & education, is Dobson's majestic\
+    \ work in all its glory!"
+  title: Dobson
+word_count: 115

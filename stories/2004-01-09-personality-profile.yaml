@@ -1,0 +1,29 @@
+ngrams:
+- - personality
+  - profile
+  - test
+- - profile
+  - test
+  - send
+- - yard
+  - personality
+  - profile
+- - hooting
+  - yard
+  - personality
+- - special
+  - hooting
+  - yard
+- - send
+  - your
+  - answers
+story:
+  date: 2004-01-09
+  id: 2004-01-09-personality-profile
+  text: 'Are you an urchin or a wastrel? How bravely would you face up to an Antarctic
+    blizzard? Are you kempt or unkempt? Find out the curious byways of your character
+    by taking this special Hooting Yard Personality Profile Test!
+
+    Send your answers to Doctor Fang at Hooting Yard.'
+  title: Personality Profile
+word_count: 50

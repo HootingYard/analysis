@@ -1,0 +1,40 @@
+ngrams:
+- - rugged
+  - holiday
+  - cruises
+- - wrestling
+  - career
+  - began
+- - later
+  - told
+  - oakley
+- - daily
+  - telegraph
+  - book
+- - career
+  - began
+  - after
+- - milk
+  - every
+  - day
+- - who
+  - later
+  - told
+- - wrestler
+  - an
+  - impresario
+- - champion
+  - wrestler
+  - an
+story:
+  date: 2004-01-10
+  id: 2004-01-10-milk
+  text: "Sir Atholl Oakley (1900-1987) was a champion wrestler, an impresario of giants,\
+    \ organiser of \u201Crugged holiday cruises\u201D and an authority on Lorna Doone.\
+    \ His wrestling career began after he was beaten up by a gang of thugs. He built\
+    \ up his physique by drinking eleven pints of milk every day, a regimen designed\
+    \ by the giant wrestler Hackenschmitt, who later told Oakley that the quantity\
+    \ of milk prescribed was \u201Ca misprint\u201D.\nSource : The Daily Telegraph\
+    \ Book of Obituaries"
+  title: Milk
+word_count: 79

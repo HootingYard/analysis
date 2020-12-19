@@ -1,0 +1,23 @@
+ngrams:
+- - o'
+  - cake
+  - decoy
+- - cake
+  - decoy
+  - ducks
+- - archive
+  - january
+  - including
+- - cow
+  - centenary
+  - penguin
+- - centenary
+  - penguin
+  - brain
+story:
+  date: 2004-01-01
+  id: 2004-01-01-hooting-yard-archive-january-2004
+  text: including World o' Cake, decoy ducks, the Crogsnickplagg Cow Centenary, penguin
+    brain scans, and other amusing diversions.
+  title: Hooting Yard Archive, January 2004
+word_count: 21

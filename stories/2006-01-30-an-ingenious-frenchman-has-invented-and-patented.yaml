@@ -1,0 +1,36 @@
+ngrams:
+- - ironmonger
+  - frederick
+  - boyle
+- - messrs
+  - b
+  - s
+- - b
+  - s
+  - williams
+- - insect
+  - within
+  - reach
+- - good
+  - ironmonger
+  - frederick
+- - destroys
+  - every
+  - insect
+- - every
+  - insect
+  - within
+- - different
+  - sizes
+  - through
+story:
+  date: 2006-01-30
+  id: 2006-01-30-an-ingenious-frenchman-has-invented-and-patented
+  text: "\u201CAn ingenious Frenchman has invented and patented in England lately\
+    \ a machine called the Thanatophore, which I confidently recommend. It can be\
+    \ obtained from Messrs B S Williams, of Upper Holloway. The Thanatophore destroys\
+    \ every insect within reach of its vapour, excepting, curiously enough, scaly-bug.\
+    \ The machine may be obtained in different sizes through any good ironmonger.\u201D\
+    \ \u2014 Frederick Boyle, About Orchids"
+  title: "\u201CAn ingenious Frenchman has invented and patented\u2026\u201D"
+word_count: 68

@@ -1,0 +1,49 @@
+ngrams:
+- - knotty
+  - mathematical
+  - problem
+- - sir
+  - isaac
+  - newton
+- - anecdote
+  - passing
+  - swiftly
+- - ironic
+  - swans
+  - eat
+- - further
+  - anecdote
+  - passing
+- - begin
+  - dressing
+  - get
+- - th
+  - december
+  - last
+- - ought
+  - also
+  - celebrate
+- - last
+  - drew
+  - attention
+- - december
+  - last
+  - year
+- - passing
+  - swiftly
+  - over
+- - breeches
+  - then
+  - sit
+story:
+  date: 2004-03-13
+  id: 2004-03-13-newton-news
+  text: "We last drew attention to Sir Isaac Newton on 16th December last year. Here\
+    \ is a further anecdote. Passing swiftly over the fact that his name is an anagram\
+    \ of \u201Cironic swans eat\u201D, we ought also celebrate his powers of concentration.\
+    \ When his mind was fixed upon some knotty mathematical problem, as it so often\
+    \ was, he had great difficuly bestirring himself in the mornings. He was known\
+    \ to begin dressing, get one leg inside his breeches, then sit back down on the\
+    \ bed, lost in thought for hours upon hours. A proper caution, in other words."
+  title: Newton News
+word_count: 99

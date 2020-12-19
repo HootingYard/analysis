@@ -1,0 +1,24 @@
+ngrams:
+- - decoy
+  - duck
+  - of
+- - week
+  - the
+  - bufflehead
+- - duck
+  - of
+  - the
+- - of
+  - the
+  - week
+- - the
+  - week
+  - the
+story:
+  date: 2004-01-05
+  id: 2004-01-05-decoy-duck-of-the-week
+  text: 'The Bufflehead
+
+    '
+  title: Decoy Duck of the Week
+word_count: 7

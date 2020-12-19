@@ -1,0 +1,43 @@
+ngrams:
+- - rank
+  - mars
+  - sector
+- - william
+  - shaw
+  - spying
+- - wool
+  - william
+  - shaw
+- - tremulous
+  - deep
+  - voice
+- - voice
+  - sir
+  - george
+- - sir
+  - george
+  - king
+- - deep
+  - voice
+  - sir
+- - advised
+  - against
+  - sitting
+- - relay
+  - these
+  - fantastical
+- - these
+  - fantastical
+  - messages
+story:
+  date: 2006-06-12
+  id: 2006-06-12-sometimes-the-communications-came-from-a-martian
+  text: "\u201CSometimes the communications came from a Martian bearing the rank Mars\
+    \ Sector 6. In a tremulous, deep voice, Sir George [King] would relay these fantastical\
+    \ messages from outer space\u2026 He advised against sitting with your back to\
+    \ the engine whilst on train journeys\u2026 In his predictions for 1956 he warned\
+    \ of the danger of hurricanes but added that it was possibly going to be \u2018\
+    an excellent season for wool\u2019.\u201D \u2014 William Shaw, Spying In Guru\
+    \ Land"
+  title: "\u201CSometimes the communications came from a Martian\u2026\u201D"
+word_count: 80

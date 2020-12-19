@@ -1,0 +1,24 @@
+ngrams:
+- - gratuitous
+  - lawnmower
+  - illustration
+- - detours
+  - today
+  - go
+- - lawnmower
+  - illustration
+  - 'no'
+- - illustration
+  - 'no'
+  - detours
+- - 'no'
+  - detours
+  - today
+story:
+  date: 2006-05-02
+  id: 2006-05-02-gratuitous-lawnmower-illustration
+  text: '
+
+    NO DETOURS TODAY. GO AND READ A BOOK INSTEAD.'
+  title: Gratuitous Lawnmower Illustration
+word_count: 12

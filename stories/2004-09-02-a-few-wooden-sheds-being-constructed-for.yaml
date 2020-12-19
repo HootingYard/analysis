@@ -1,0 +1,24 @@
+ngrams:
+- - remaining
+  - deer
+  - helena
+- - deer
+  - helena
+  - p
+- - helena
+  - p
+  - blavatsky
+- - few
+  - remaining
+  - deer
+- - few
+  - wooden
+  - sheds
+story:
+  date: 2004-09-02
+  id: 2004-09-02-a-few-wooden-sheds-being-constructed-for
+  text: "\u201CA few wooden sheds being constructed for meteorological, astronomical\
+    \ and magnetic purposes, we even added a protecting stable for the few remaining\
+    \ deer.\u201D \u2014 Helena P Blavatsky, From The Polar Lands"
+  title: "\u201CA few wooden sheds being constructed for\u2026\u201D"
+word_count: 37

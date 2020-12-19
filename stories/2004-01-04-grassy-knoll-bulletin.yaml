@@ -1,0 +1,53 @@
+ngrams:
+- - grassy
+  - knoll
+  - bulletin
+- - knoll
+  - bulletin
+  - today
+- - alleged
+  - assassin
+  - among
+- - morning
+  - television
+  - schedules
+- - sunday
+  - morning
+  - television
+- - idly
+  - glancing
+  - through
+- - those
+  - children's
+  - shows
+- - something
+  - quite
+  - intriguing
+- - noticed
+  - something
+  - quite
+- - oswald
+  - make
+  - way
+- - assassin
+  - among
+  - all
+- - all
+  - those
+  - children's
+story:
+  date: 2004-01-04
+  id: 2004-01-04-grassy-knoll-bulletin
+  text: 'Today I was idly glancing through the Sunday morning television schedules,
+    as I so rarely do, when I noticed something quite intriguing on Channel 5:
+
+    6.35 Dappledown Farm. 7.00 The Save-Ums! 7.30 Oswald. 7.45 Make Way For Noddy.
+    8.00 The Book of Pooh.
+
+    Sadly it was already past 7.30 by the time I read this, so I missed the programme,
+    but how interesting that the channel throws in a fifteen-minute documentary about
+    JFK''s alleged assassin among all those children''s shows. I fully expect in future
+    weeks to see the slot filled with shows such as Wilkes Booth, Princip, Sirhan
+    and Tsafendas.'
+  title: Grassy Knoll Bulletin
+word_count: 97

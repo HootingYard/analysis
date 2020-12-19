@@ -1,0 +1,39 @@
+ngrams:
+- - shelley
+  - chris
+  - cutler
+- - mary
+  - shelley
+  - chris
+- - unspeakable
+  - desolation
+  - pouring
+- - story
+  - unspeakable
+  - desolation
+- - serial
+  - story
+  - unspeakable
+- - four
+  - thefts
+  - last
+- - thefts
+  - last
+  - week
+- - desolation
+  - pouring
+  - down
+- - last
+  - week
+  - saw
+story:
+  date: 2004-09-20
+  id: 2004-09-20-four-thefts
+  text: Last week saw the final instalment of the serial story Unspeakable Desolation
+    Pouring Down From The Stars. There are four instances of outright plagiarism in
+    the tale, and these are acknowledged in the Afterword. If you would like to try
+    and spot them yourself, wait to follow that link until you have identified the
+    work of Thomas Pynchon, Mary Shelley, Chris Cutler and James Hamilton-Paterson
+    lurking in (or shouting out from) the text.
+  title: Four Thefts
+word_count: 75

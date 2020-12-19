@@ -1,0 +1,33 @@
+ngrams:
+- - tranche
+  - corporate
+  - takeover
+- - corporate
+  - takeover
+  - dave
+- - clutch
+  - tsar
+  - panther
+- - hod
+  - clutch
+  - tsar
+- - pontiff
+  - mogul
+  - plunge
+- - cosmetics
+  - corporations
+  - personal
+- - international
+  - cosmetics
+  - corporations
+story:
+  date: 2004-03-27
+  id: 2004-03-27-trademark-notice
+  text: "International cosmetics corporations & personal hygiene manufacturers should\
+    \ note that Hooting Yard has registered the following as trade names for men's\
+    \ toiletries: Cravat; Lapel; Wyngarde; Tranche; Corporate Takeover; Dave; Milquetoast;\
+    \ Vapid; Smarm; Prong; Andrew Motion; Tomahawk; Sweatlodge; Global Reach; Commodore;\
+    \ Pontiff; Mogul; Plunge; Hengist; Murdoch; Attach\xE9; Viscount; Hod; Clutch;\
+    \ Tsar; Panther; Oilrig; Grit; Suave; Jawline; & Crevasse."
+  title: Trademark Notice
+word_count: 57

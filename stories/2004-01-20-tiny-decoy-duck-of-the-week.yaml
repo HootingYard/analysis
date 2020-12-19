@@ -1,0 +1,19 @@
+ngrams:
+- - tiny
+  - decoy
+  - duck
+- - decoy
+  - duck
+  - of
+- - duck
+  - of
+  - the
+- - of
+  - the
+  - week
+story:
+  date: 2004-01-20
+  id: 2004-01-20-tiny-decoy-duck-of-the-week
+  text: ''
+  title: Tiny Decoy Duck of the Week
+word_count: 6

@@ -1,0 +1,24 @@
+ngrams:
+- - week
+  - three
+  - novels
+- - recommended
+  - reading
+  - this
+- - reading
+  - this
+  - week
+- - this
+  - week
+  - three
+- - novels
+  - you
+  - don't
+story:
+  date: 2004-03-02
+  id: 2004-03-02-recommended-reading
+  text: 'This week, three novels you don''t want to miss:
+
+    '
+  title: Recommended Reading
+word_count: 11

@@ -1,0 +1,63 @@
+ngrams:
+- - hazel
+  - bush
+  - asking
+- - wild
+  - hazel
+  - bush
+- - death
+  - occurred
+  - several
+- - mr
+  - jones
+  - wrote
+- - mr
+  - jones
+  - wrote
+- - occurred
+  - several
+  - years
+- - never
+  - seen
+  - wild
+- - several
+  - years
+  - later
+- - never
+  - mr
+  - jones
+- - sent
+  - him
+  - both
+- - bush
+  - asking
+  - if
+- - him
+  - both
+  - good
+- - where
+  - her
+  - father
+- - knew
+  - where
+  - her
+- - this
+  - hazel
+  - bush
+- - learn
+  - more
+  - about
+story:
+  date: 2006-04-30
+  id: 2006-04-30-mr-jones-wrote-that-he-had-never
+  text: "\u201C[Mr Jones] wrote that he had never seen wild hazels with worms in them\
+    \ and would like to learn more about them. I sent him both good and wormy nuts\
+    \ from the wild hazel bush to which I had referred. He was so impressed by them\
+    \ that he wished me to dig up the plant and ship it to him, writing that he wished\
+    \ to cross it with filbert pollen as an experiment. I sent it as he asked but\
+    \ before he was able to make the cross he intended, his death occurred. Several\
+    \ years later, his daughter Mildred wrote to me about this hazel bush, asking\
+    \ if I knew where her father had planted it.\u201D \u2014 Carl Weschcke, Growing\
+    \ Nuts In the North"
+  title: "\u201C[Mr Jones] wrote that he had never\u2026\u201D"
+word_count: 130

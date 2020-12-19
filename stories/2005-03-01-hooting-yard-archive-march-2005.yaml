@@ -1,0 +1,22 @@
+ngrams:
+- - yard
+  - archive
+  - march
+- - hooting
+  - yard
+  - archive
+- - march
+  - 'no'
+  - bulletins
+- - archive
+  - march
+  - 'no'
+- - bulletins
+  - from
+  - hooting
+story:
+  date: 2005-03-01
+  id: 2005-03-01-hooting-yard-archive-march-2005
+  text: No bulletins from Hooting Yard.
+  title: Hooting Yard Archive, March 2005
+word_count: 9

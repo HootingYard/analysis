@@ -1,0 +1,47 @@
+ngrams:
+- - biff
+  - chip
+  - huck
+- - tad
+  - biff
+  - chip
+- - producer
+  - named
+  - fret
+- - american
+  - television
+  - producer
+- - named
+  - fret
+  - d
+- - television
+  - producer
+  - named
+- - modern
+  - high
+  - school
+- - biblical
+  - news
+  - during
+- - munich
+  - air
+  - disaster
+- - died
+  - curiously
+  - enough
+- - air
+  - disaster
+  - surrounded
+story:
+  date: 2004-02-17
+  id: 2004-02-17-biblical-news
+  text: "During the 1950s, a God-fearing American television producer named Fret D.\
+    \ Chenoweth created a 43-part series called To Smite And Smite Again, a dramatisation\
+    \ of the Old Testament. The novelty of his treatment was that the Biblical stories\
+    \ were set in a modern high school and acted by fresh-faced youngsters with names\
+    \ like Tad, Biff, Chip, Huck & so on. When he died\u2014curiously enough, in the\
+    \ 1958 Munich Air Disaster, surrounded by English footballers\u2014Chenoweth's\
+    \ obituary described him as \u201Cthe man who put the Chad in Nebuchadnezzar\u201D\
+    ."
+  title: Biblical News
+word_count: 88

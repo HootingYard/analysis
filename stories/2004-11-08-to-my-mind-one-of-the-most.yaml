@@ -1,0 +1,49 @@
+ngrams:
+- - arnold
+  - bennett
+  - literary
+- - bennett
+  - literary
+  - taste
+- - combinations
+  - thus
+  - tennyson
+- - thus
+  - tennyson
+  - held
+- - most
+  - beautiful
+  - line
+- - literary
+  - taste
+  - how
+- - most
+  - beautiful
+  - words
+- - beautiful
+  - sound
+  - than
+- - certain
+  - other
+  - combinations
+- - sound
+  - than
+  - certain
+- - study
+  - its
+  - sound
+- - other
+  - combinations
+  - thus
+story:
+  date: 2004-11-08
+  id: 2004-11-08-to-my-mind-one-of-the-most
+  text: "\u201CTo my mind one of the most beautiful words in the English language\
+    \ is pavement. Enunciate it, study its sound, and see what you think. It is also\
+    \ indubitable that certain combinations of words have a more beautiful sound than\
+    \ certain other combinations. Thus Tennyson held that the most beautiful line\
+    \ he ever wrote was: The mellow ouzel fluting in the elm. Perhaps, as sound, it\
+    \ was. But does it live in the memory as one of the rare great Tennysonian lines?\
+    \ It does not.\u201D \u2014 Arnold Bennett, Literary Taste : How To Form It"
+  title: "\u201CTo my mind one of the most\u2026\u201D"
+word_count: 100

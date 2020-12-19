@@ -1,0 +1,24 @@
+ngrams:
+- - sir
+  - isaac
+  - newton
+- - once
+  - asking
+  - someone
+- - only
+  - once
+  - asking
+- - spoke
+  - only
+  - once
+- - year
+  - during
+  - which
+story:
+  date: 2003-12-16
+  id: 2003-12-16-newton-news
+  text: "In 1689, Sir Isaac Newton was elected Member of Parliament for Cambridge\
+    \ University. He held the post for just one year, during which time he spoke only\
+    \ once\u2014asking someone to close the windows as he could feel a draught."
+  title: Newton News
+word_count: 41

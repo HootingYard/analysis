@@ -1,0 +1,54 @@
+ngrams:
+- - organs
+  - allan
+  - pinkerton
+- - digestive
+  - organs
+  - allan
+- - baked
+  - gutta
+  - percha
+- - coffee
+  - soggy
+  - biscuits
+- - gave
+  - decided
+  - tokens
+- - called
+  - coffee
+  - soggy
+- - great
+  - effort
+  - managed
+- - having
+  - been
+  - served
+- - previous
+  - evening
+  - if
+- - set
+  - before
+  - him
+- - they
+  - called
+  - coffee
+- - potatoes
+  - which
+  - gave
+- - which
+  - gave
+  - decided
+story:
+  date: 2006-02-18
+  id: 2006-02-18-if-his-experiences-of-the-previous-evening
+  text: "\u201CIf his experiences of the previous evening had been distressing, the\
+    \ breakfast which was set before him was positively heart-rending. A muddy-looking\
+    \ liquid which they called coffee, soggy biscuits, a beefsteak that would rival\
+    \ in toughness a piece of baked gutta percha, and evidently swimming in lard,\
+    \ and potatoes which gave decided tokens of having been served on more than one\
+    \ previous occasion. With a smothered groan he attacked the unsavoury viands,\
+    \ and by dint of great effort managed to appease his hunger, to the serious derangement\
+    \ of his digestive organs.\u201D \u2014 Allan Pinkerton, The Burglar's Fate And\
+    \ The Detectives"
+  title: "\u201CIf his experiences of the previous evening\u2026\u201D"
+word_count: 106

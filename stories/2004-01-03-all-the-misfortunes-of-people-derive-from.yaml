@@ -1,0 +1,23 @@
+ngrams:
+- - one
+  - single
+  - thing
+- - people
+  - derive
+  - from
+- - people
+  - derive
+  - from
+- - derive
+  - from
+  - all
+- - derive
+  - from
+  - one
+story:
+  date: 2004-01-03
+  id: 2004-01-03-all-the-misfortunes-of-people-derive-from
+  text: "\u201CAll the misfortunes of people derive from one single thing, and that\
+    \ is their inability to sit still in a room.\u201D \u2014Blaise Pascal, 1657"
+  title: "\u201CAll the misfortunes of people derive from\u2026\u201D"
+word_count: 30

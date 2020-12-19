@@ -1,0 +1,24 @@
+ngrams:
+- - lobsters
+  - john
+  - l
+- - human
+  - lobsters
+  - john
+- - reading
+  - made
+  - easy
+- - crutches
+  - will
+  - generally
+- - crutches
+  - will
+  - generally
+story:
+  date: 2006-08-03
+  id: 2006-08-03-he-who-begins-with-crutches-will-generally
+  text: "\u201CHe who begins with crutches will generally end with crutches\u2026\
+    \ The world is full of human lobsters.\u201D \u2014 John L Huelshof, Reading Made\
+    \ Easy For Foreigners"
+  title: "\u201CHe who begins with crutches will generally\u2026\u201D"
+word_count: 32

@@ -1,0 +1,56 @@
+ngrams:
+- - andrew
+  - lang
+  - custom
+- - arrows
+  - andrew
+  - lang
+- - fairy
+  - arrows
+  - andrew
+- - thunderstorm
+  - has
+  - washed
+- - carries
+  - them
+  - home
+- - lying
+  - there
+  - yesterday
+- - 'no'
+  - such
+  - piece
+- - field
+  - or
+  - near
+- - metal
+  - there
+  - were
+- - were
+  - 'no'
+  - such
+- - there
+  - were
+  - 'no'
+- - lighted
+  - he
+  - carries
+- - he
+  - has
+  - lighted
+- - has
+  - lighted
+  - he
+story:
+  date: 2004-12-04
+  id: 2004-12-04-after-the-heavy-rain-of-a-thunderstorm
+  text: "\u201CAfter the heavy rain of a thunderstorm has washed the soil, it sometimes\
+    \ happens that a child, or a rustic, finds a wedge-shaped piece of metal or a\
+    \ few triangular flints in a field or near a road. There was no such piece of\
+    \ metal, there were no such flints, lying there yesterday, and the finder is puzzled\
+    \ about the origin of the objects on which he has lighted. He carries them home,\
+    \ and the village wisdom determines that the wedge-shaped piece of metal is a\
+    \ thunderbolt, or that the bits of flint are elf-shots, the heads of fairy arrows.\u201D\
+    \ \u2014 Andrew Lang, Custom And Myth"
+  title: "\u201CAfter the heavy rain of a thunderstorm\u2026\u201D"
+word_count: 112

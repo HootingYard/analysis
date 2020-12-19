@@ -1,0 +1,35 @@
+ngrams:
+- - naughty
+  - poor
+  - stella
+- - poor
+  - stella
+  - benson
+- - stella
+  - benson
+  - living
+- - benson
+  - living
+  - alone
+- - just
+  - arrogance
+  - pure
+- - should
+  - never
+  - look
+- - who
+  - always
+  - manages
+- - instance
+  - who
+  - always
+story:
+  date: 2005-07-03
+  id: 2005-07-03-there-is-no-reason-why-he-should
+  text: "\u201CThere is no reason why he should never look chic; he has a slimmer\
+    \ figure than the bullfinch, for instance, who always manages to look so well-tailored.\
+    \ It is just arrogance, pure Londonism, on the part of the sparrow, just that\
+    \ impudent socialistic spirit that makes it so difficult for us to reform the\
+    \ Naughty Poor.\u201D \u2014 Stella Benson, Living Alone"
+  title: "\u201CThere is no reason why he should\u2026\u201D"
+word_count: 67

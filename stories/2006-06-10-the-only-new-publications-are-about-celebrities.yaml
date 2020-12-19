@@ -1,0 +1,24 @@
+ngrams:
+- - bloom
+  - chartreuse
+  - scum
+- - chartreuse
+  - scum
+  - suddenly
+- - scum
+  - suddenly
+  - covering
+- - sick
+  - pond
+  - kurt
+- - new
+  - york
+  - magazine
+story:
+  date: 2006-06-10
+  id: 2006-06-10-the-only-new-publications-are-about-celebrities
+  text: "\u201CThe only new publications are about celebrities, like an algae bloom\u2014\
+    chartreuse scum!\u2014suddenly covering the surface of an old, sick pond.\u201D\
+    \ \u2014 Kurt Andersen, New York Magazine"
+  title: "\u201CThe only new publications are about celebrities,\u2026\u201D"
+word_count: 34

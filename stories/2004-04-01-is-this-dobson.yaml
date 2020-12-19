@@ -1,0 +1,46 @@
+ngrams:
+- - gaunt
+  - bespectacled
+  - adult
+- - smudged
+  - postmark
+  - contained
+- - bespectacled
+  - adult
+  - behind
+- - postmark
+  - contained
+  - nothing
+- - contained
+  - nothing
+  - else
+- - fool's
+  - day
+  - prank
+- - april
+  - fool's
+  - day
+- - indicate
+  - its
+  - provenance
+- - its
+  - provenance
+  - scribbled
+- - less
+  - than
+  - helpful
+- - just
+  - three
+  - words
+story:
+  date: 2004-04-01
+  id: 2004-04-01-is-this-dobson
+  text: "An anonymous reader has sent what is claimed to be a photograph of Dobson.\
+    \ I suspect this to be an April Fool's Day prank, but have sent the snap to Mr\
+    \ Poxhaven, soliciting his expert opinion. The envelope\u2014with a smudged postmark\u2014\
+    contained nothing else to indicate its provenance. Scribbled on the back of the\
+    \ photograph are just three words: \u201CThis is Dobson\u201D, which is less than\
+    \ helpful as it is unclear whether it refers to the child clutching an ice lolly\
+    \ or to the gaunt, bespectacled adult behind him.\n"
+  title: Is This Dobson?
+word_count: 93

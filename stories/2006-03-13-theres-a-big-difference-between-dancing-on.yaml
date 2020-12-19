@@ -1,0 +1,23 @@
+ngrams:
+- - mary
+  - ray
+  - interviewed
+- - dog
+  - mary
+  - ray
+- - difference
+  - between
+  - dancing
+- - difference
+  - between
+  - dancing
+- - big
+  - difference
+  - between
+story:
+  date: 2006-03-13
+  id: 2006-03-13-theres-a-big-difference-between-dancing-on
+  text: "\u201CThere's a big difference between dancing on your own and dancing with\
+    \ a dog.\u201D \u2014 Mary Ray, interviewed at Crufts Dog Show 2006"
+  title: "\u201CThere's a big difference between dancing on\u2026\u201D"
+word_count: 28

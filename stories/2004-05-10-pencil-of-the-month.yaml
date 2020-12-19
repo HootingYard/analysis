@@ -1,0 +1,71 @@
+ngrams:
+- - plasticine
+  - farmyard
+  - animals
+- - popular
+  - decoy
+  - duck
+- - month
+  - dr
+  - ruth
+- - inform
+  - dr
+  - pastry
+- - dr
+  - ruth
+  - pastry
+- - regular
+  - pictorial
+  - series
+- - decoy
+  - duck
+  - series
+- - weekly
+  - duck
+  - print
+- - empty
+  - pages
+  - please
+- - pages
+  - please
+  - either
+- - yard
+  - staff
+  - member
+- - our
+  - popular
+  - decoy
+- - bought
+  - especially
+  - now
+- - hooting
+  - yard
+  - staff
+- - especially
+  - now
+  - i'm
+- - understand
+  - she
+  - writes
+- - now
+  - i'm
+  - left
+- - ruth
+  - pastry
+  - has
+story:
+  date: 2004-05-10
+  id: 2004-05-10-pencil-of-the-month
+  text: "Dr Ruth Pastry has written in to bemoan the passing of our popular \u201C\
+    Decoy Duck of the Week\u201D feature. I can understand, she writes, That you may\
+    \ have become bored of decoy ducks, but surely this is no excuse to deprive your\
+    \ readers of the pleasures of a regular pictorial series? I used to look forward\
+    \ with eagerness to the weekly duck, print it out on a colour laser printer, and\
+    \ paste it into an album that I bought especially. Now I'm left with lots and\
+    \ lots of empty pages. Please either reinstitute the decoy duck series, or start\
+    \ a new one. How about \u201CPlasticine Cow of the Week?\u201D I am pleased to\
+    \ inform Dr Pastry that the Hooting Yard staff member with responsibility for\
+    \ plasticine farmyard animals is \u201Con the case\u201D, as it were. Meanwhile,\
+    \ here is the first Pencil of the Month.\n"
+  title: Pencil of the Month
+word_count: 148

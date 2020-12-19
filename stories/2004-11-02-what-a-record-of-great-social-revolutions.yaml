@@ -1,0 +1,28 @@
+ngrams:
+- - social
+  - revolutions
+  - revolutions
+- - word
+  - frank
+  - contains
+- - great
+  - social
+  - revolutions
+- - great
+  - social
+  - revolutions
+- - social
+  - revolutions
+  - what
+- - frank
+  - contains
+  - which
+story:
+  date: 2004-11-02
+  id: 2004-11-02-what-a-record-of-great-social-revolutions
+  text: "\u201CWhat a record of great social revolutions, revolutions in nations and\
+    \ in the feelings of nations, the one word Frank contains, which is used, as we\
+    \ all know, to express aught that is generous, straightforward, and free.\u201D\
+    \ \u2014 Richard Chenevix Trench, On The Study Of Words"
+  title: "\u201CWhat a record of great social revolutions,\u2026\u201D"
+word_count: 52

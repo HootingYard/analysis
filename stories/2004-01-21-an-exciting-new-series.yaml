@@ -1,0 +1,24 @@
+ngrams:
+- - exciting
+  - new
+  - series
+- - new
+  - series
+  - number
+- - one
+  - sydney
+  - carton
+- - number
+  - one
+  - sydney
+- - series
+  - number
+  - one
+story:
+  date: 2004-01-21
+  id: 2004-01-21-an-exciting-new-series
+  text: 'Number One : Sydney Carton, from A Tale of Two Cities by Charles Dickens
+
+    '
+  title: An Exciting New Series
+word_count: 17

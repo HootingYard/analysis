@@ -1,0 +1,43 @@
+ngrams:
+- - moves
+  - remorselessly
+  - westward
+- - remorselessly
+  - westward
+  - threatening
+- - strain
+  - moves
+  - remorselessly
+- - investment
+  - portfolio
+  - don't
+- - asian
+  - bird
+  - flu
+- - asian
+  - bird
+  - flu
+- - bird
+  - flu
+  - news
+- - against
+  - asian
+  - bird
+- - just
+  - adore
+  - bankers
+- - make
+  - against
+  - asian
+story:
+  date: 2005-08-25
+  id: 2005-08-25-bird-flu-news
+  text: "Are you worried about Asian bird flu? As the strain moves remorselessly westward,\
+    \ threatening a pandemic that could wipe out millions, I was heartened this morning\
+    \ to hear some useful advice from a Canadian banker on BBC Radio 4. \u201CThe\
+    \ best preparation you can make against Asian bird flu,\u201D said this sage,\
+    \ \u201Cis to strengthen the quality of your investment portfolio\u201D. Don't\
+    \ you just adore bankers? I am almost tempted to release hordes of Callistan Gnishii\
+    \ into his office."
+  title: Bird Flu News
+word_count: 81

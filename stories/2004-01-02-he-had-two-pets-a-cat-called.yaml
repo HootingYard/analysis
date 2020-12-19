@@ -1,0 +1,23 @@
+ngrams:
+- - had
+  - two
+  - pets
+- - had
+  - two
+  - pets
+- - cat
+  - called
+  - he
+- - called
+  - he
+  - had
+- - he
+  - had
+  - two
+story:
+  date: 2004-01-02
+  id: 2004-01-02-he-had-two-pets-a-cat-called
+  text: "\u201CHe had two pets: a cat called Doge and a dog called Cato.\u201D\nIstvan\
+    \ Scrimgeour, Spine-Tingling Tales of Glucose Deficiency"
+  title: "\u201CHe had two pets: a cat called\u2026\u201D"
+word_count: 27

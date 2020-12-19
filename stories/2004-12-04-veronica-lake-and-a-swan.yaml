@@ -1,0 +1,25 @@
+ngrams:
+- - constance
+  - frances
+  - marie
+- - veronica
+  - lake
+  - whose
+- - left
+  - veronica
+  - lake
+- - swan
+  - left
+  - veronica
+- - lake
+  - whose
+  - real
+story:
+  date: 2004-12-04
+  id: 2004-12-04-veronica-lake-and-a-swan
+  text: '
+
+    Left, Veronica Lake, whose real name was Constance Frances Marie Ockleman (see
+    above). Right, a swan in a pond (see below).'
+  title: Veronica Lake and a Swan
+word_count: 26

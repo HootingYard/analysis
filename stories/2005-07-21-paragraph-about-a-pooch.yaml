@@ -1,0 +1,42 @@
+ngrams:
+- - book
+  - norman
+  - davies
+- - science
+  - book
+  - norman
+- - paragraph
+  - nevertheless
+  - while
+- - centuries
+  - old
+  - wood
+- - further
+  - science
+  - book
+- - sea
+  - centuries
+  - old
+- - norman
+  - davies
+  - has
+- - seconds
+  - then
+  - black
+- - wood
+  - when
+  - broken
+- - old
+  - wood
+  - when
+story:
+  date: 2005-07-21
+  id: 2005-07-21-paragraph-about-a-pooch
+  text: "Elsewhere in Further Science Book 20, Norman Davies has a section on dogs,\
+    \ which begins, enigmatically, \u201CThat the fact that sea centuries old wood\
+    \ when broken, is fresh orange and turns grey in 40 seconds, then black, is significant\u201D\
+    . That may well be so, but it is not really pertinent to this paragraph. Nevertheless,\
+    \ while we are on the subject of dogs, it gives me great pleasure to include this\
+    \ photograph of Richard Milhous Nixon with his legendary pooch, Checkers.\n"
+  title: Paragraph About a Pooch
+word_count: 82

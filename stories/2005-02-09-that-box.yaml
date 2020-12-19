@@ -1,0 +1,24 @@
+ngrams:
+- - tim
+  - thurn
+  - yesterday
+- - without
+  - accompanying
+  - comment
+- - accompanying
+  - comment
+  - why
+- - box
+  - without
+  - accompanying
+- - another
+  - letter
+  - arrives
+story:
+  date: 2005-02-09
+  id: 2005-02-09-that-box
+  text: "Another letter arrives, this one from Tim Thurn.\n\u201CYesterday you posted\
+    \ a picture of Joanna Southcott's box without accompanying comment. Why?\u201D\
+    \nMy lips, like the box, are sealed."
+  title: That Box
+word_count: 30

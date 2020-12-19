@@ -1,0 +1,24 @@
+ngrams:
+- - victorian
+  - prime
+  - minister
+- - prime
+  - minister
+  - news
+- - minister
+  - news
+  - william
+- - very
+  - very
+  - few
+- - ancient
+  - greeks
+  - or
+story:
+  date: 2004-03-02
+  id: 2004-03-02-victorian-prime-minister-news
+  text: "William Ewart Gladstone believed that the Ancient Greeks\u2014or most of\
+    \ them\u2014were colour-blind, because there are very, very few colour words in\
+    \ Homer."
+  title: Victorian Prime Minister News
+word_count: 28

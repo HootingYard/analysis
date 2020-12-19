@@ -1,0 +1,53 @@
+ngrams:
+- - fancied
+  - danger
+  - caught
+- - danger
+  - caught
+  - hold
+- - nothing
+  - read
+  - novels
+- - she
+  - became
+  - frightened
+- - sister
+  - she
+  - became
+- - some
+  - fancied
+  - danger
+- - precipice
+  - dashing
+  - them
+- - young
+  - lady
+  - who
+- - become
+  - so
+  - nervous
+- - pieces
+  - an
+  - american
+- - an
+  - american
+  - woman
+- - seen
+  - an
+  - account
+- - real
+  - or
+  - imaginary
+story:
+  date: 2005-10-11
+  id: 2005-10-11-if-you-wish-to-become-weak-headed-nervous
+  text: "\u201CIf you wish to become weak-headed, nervous, and good for nothing, read\
+    \ novels. I have seen an account of a young lady, who had become so nervous and\
+    \ excitable, in consequence of reading novels, that her head would be turned by\
+    \ the least appearance of danger, real or imaginary. As she was riding in a carriage\
+    \ over a bridge, in company with her mother and sister, she became frightened\
+    \ at some fancied danger, caught hold of the reins, and backed the carriage off\
+    \ the bridge, down a precipice, dashing them to pieces.\u201D \u2014 An American\
+    \ Woman, The Ladies' Vase"
+  title: "\u201CIf you wish to become weak-headed, nervous,\u2026\u201D"
+word_count: 105

@@ -1,0 +1,25 @@
+ngrams:
+- - rare
+  - postage
+  - stamp
+- - extremely
+  - rare
+  - postage
+- - an
+  - extremely
+  - rare
+- - commemorate
+  - something
+  - or
+- - something
+  - or
+  - other
+story:
+  date: 2004-01-07
+  id: 2004-01-07-stamp-collecting
+  text: 'To commemorate something or other, here is a picture of an extremely rare
+    postage stamp (unfranked).
+
+    '
+  title: Stamp Collecting
+word_count: 18

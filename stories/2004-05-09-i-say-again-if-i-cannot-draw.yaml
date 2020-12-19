@@ -1,0 +1,24 @@
+ngrams:
+- - classic
+  - spooky
+  - story
+- - macdonald
+  - also
+  - wrote
+- - horse
+  - under
+  - what
+- - say
+  - again
+  - if
+- - say
+  - again
+  - if
+story:
+  date: 2004-05-09
+  id: 2004-05-09-i-say-again-if-i-cannot-draw
+  text: "\u201CI say again, if I cannot draw a horse, I will not write THIS IS A HORSE\
+    \ under what I foolishly meant for one.\u201D \u2014 George MacDonald, A Dish\
+    \ Of Orts. MacDonald also wrote the classic spooky story Lilith."
+  title: "\u201CI say again, if I cannot draw\u2026\u201D"
+word_count: 45

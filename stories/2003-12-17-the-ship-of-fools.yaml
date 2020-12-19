@@ -1,0 +1,31 @@
+ngrams:
+- - re
+  - records
+  - quarterly
+- - quarterly
+  - magazine
+  - vol
+- - records
+  - quarterly
+  - magazine
+- - archives
+  - see
+  - below
+- - key
+  - archives
+  - see
+- - hooting
+  - yard
+  - site
+- - magazine
+  - vol
+  - 'no'
+story:
+  date: 2003-12-17
+  id: 2003-12-17-the-ship-of-fools
+  text: "From balloons to ships. There is much in the Key archives (see below) that\
+    \ was not on the old Hooting Yard site, but that seems worth an airing here\u2014\
+    like this drawing of the ship of fools which first appeared on the cover of Re\
+    \ Records Quarterly Magazine Vol. 2 No. 4 as long ago as 1989."
+  title: The Ship of Fools
+word_count: 58

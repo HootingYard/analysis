@@ -1,0 +1,39 @@
+ngrams:
+- - another
+  - alfred
+  - george
+- - seaweed
+  - oh
+  - how
+- - postman
+  - came
+  - just
+- - postman
+  - came
+  - just
+- - perfume
+  - said
+  - another
+- - said
+  - another
+  - alfred
+- - its
+  - perfume
+  - said
+- - came
+  - just
+  - now
+- - came
+  - just
+  - now
+story:
+  date: 2004-01-31
+  id: 2004-01-31-the-postman-came-just-now-and-among
+  text: "\u201CThe postman came just now, and among the letters he brought was one\
+    \ from North Wales. It was fat and soft and bulgy, and when it was opened we found\
+    \ it contained a bit of seaweed. \u2026 \u201COh, how it smells of Sheringham,\u201D\
+    \ said one. \u201CNo, there is the smack of Sidmouth, and Dawlish, and Torquay\
+    \ in its perfume,\u201D said another.\u201D \u2014 Alfred George Gardiner (\u201C\
+    Alpha of the Plough\u201D), Pebbles On The Shore (1916)"
+  title: "\u201CThe postman came just now, and among\u2026\u201D"
+word_count: 78

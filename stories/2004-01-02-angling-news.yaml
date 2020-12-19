@@ -1,0 +1,25 @@
+ngrams:
+- - john
+  - george
+  - hoffman
+- - angling
+  - news
+  - according
+- - take
+  - rose
+  - seed
+- - catch
+  - your
+  - weasel
+- - will
+  - certainly
+  - collect
+story:
+  date: 2004-01-02
+  id: 2004-01-02-angling-news
+  text: "According to John George Hoffman in 1820, a sure way to catch fish is to\
+    \ \u201Ctake rose seed and mustard seed, and the foot of a weasel, and hang these\
+    \ in a net, and the fish will certainly collect there\u201D. First, catch your\
+    \ weasel\u2026."
+  title: Angling News
+word_count: 45

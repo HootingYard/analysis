@@ -1,0 +1,34 @@
+ngrams:
+- - uncle
+  - dan
+  - dear
+- - dan
+  - dear
+  - uncle
+- - dear
+  - uncle
+  - dan
+- - ask
+  - uncle
+  - dan
+- - lane
+  - dear
+  - perplexed
+story:
+  date: 2004-04-06
+  id: 2004-04-06-ask-uncle-dan
+  text: 'Dear Uncle Dan
+
+    Why are you blundering about in a room that has all those leeks dangling from
+    the ceiling?
+
+    Perplexed of Blister Lane
+
+
+    Dear Perplexed
+
+    That is not me, you clot! I have never worn such a pullover in my life.
+
+    Uncle Dan'
+  title: Ask Uncle Dan
+word_count: 47

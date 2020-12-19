@@ -1,0 +1,49 @@
+ngrams:
+- - talker
+  - wordsworth
+  - coleridge
+- - reply
+  - samuel
+  - rogers
+- - samuel
+  - rogers
+  - table
+- - rogers
+  - table
+  - talk
+- - 'off'
+  - pall
+  - mall
+- - lodging
+  - 'off'
+  - pall
+- - profound
+  - attention
+  - every
+- - oration
+  - pray
+  - did
+- - two
+  - hours
+  - during
+- - attention
+  - every
+  - now
+- - which
+  - wordsworth
+  - listened
+- - about
+  - two
+  - hours
+story:
+  date: 2004-02-18
+  id: 2004-02-18-coleridge-was-a-marvellous-talker-wordsworth
+  text: "\u201CColeridge was a marvellous talker \u2026 Wordsworth and I called upon\
+    \ him one forenoon, when he was in a lodging off Pall Mall. He talked uninterruptedly\
+    \ for about two hours, during which Wordsworth listened to him with profound attention,\
+    \ every now and then nodding his head as if in assent. On quitting the lodging,\
+    \ I said to Wordsworth, 'Well, for my own part, I could not make head or tail\
+    \ of Coleridge's oration: pray, did you understand it?' \u2018Not one syllable\
+    \ of it\u2019, was Wordsworth's reply.\u201D \u2014 Samuel Rogers, Table Talk"
+  title: "\u201CColeridge was a marvellous talker \u2026 Wordsworth\u2026\u201D"
+word_count: 96

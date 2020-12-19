@@ -1,0 +1,47 @@
+ngrams:
+- - fool
+  - complete
+  - nitwits
+- - complete
+  - nitwits
+  - police
+- - particularly
+  - shoddy
+  - example
+- - counterfeit
+  - dobson
+  - pamphlets
+- - shoddy
+  - example
+  - dobson
+- - only
+  - fool
+  - complete
+- - disquisition
+  - upon
+  - clotted
+- - upon
+  - clotted
+  - cream
+- - did
+  - indeed
+  - write
+- - example
+  - dobson
+  - did
+- - dobson
+  - did
+  - indeed
+story:
+  date: 2005-09-02
+  id: 2005-09-02-forgery-news
+  text: "It had to happen sooner or later. I have been alerted to the fact that counterfeit\
+    \ Dobson pamphlets are circulating. Although they are so badly faked that they\
+    \ could only fool complete nitwits, police in the forgery hub nerve-centre estimate\
+    \ that villains are raking in millions. Below is the cover of a particularly shoddy\
+    \ example. Dobson did indeed write about lichens, but only once, in the ground-breaking\
+    \ Disquisition Upon Clotted Cream, Lichens, And Dustin Hoffman. So be on your\
+    \ guard, and remember\u2014Dobson is now, and always has been, an out-of-print\
+    \ pamphleteer.\n"
+  title: Forgery News
+word_count: 94

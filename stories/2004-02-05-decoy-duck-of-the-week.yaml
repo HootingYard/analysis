@@ -1,0 +1,16 @@
+ngrams:
+- - decoy
+  - duck
+  - of
+- - duck
+  - of
+  - the
+- - of
+  - the
+  - week
+story:
+  date: 2004-02-05
+  id: 2004-02-05-decoy-duck-of-the-week
+  text: ''
+  title: Decoy Duck of the Week
+word_count: 5

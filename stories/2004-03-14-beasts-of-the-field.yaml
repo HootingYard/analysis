@@ -1,0 +1,104 @@
+ngrams:
+- - rats
+  - mice
+  - bugs
+- - frequently
+  - hire
+  - beggars
+- - oriental
+  - memoirs
+  - '-'
+- - mules
+  - oxen
+  - sheep
+- - hospital
+  - frequently
+  - hire
+- - horses
+  - mules
+  - oxen
+- - oxen
+  - sheep
+  - goats
+- - contained
+  - horses
+  - mules
+- - th
+  - march
+  - vets
+- - monkeys
+  - poultry
+  - pigeons
+- - hospital
+  - contained
+  - horses
+- - sheep
+  - goats
+  - monkeys
+- - goats
+  - monkeys
+  - poultry
+- - asks
+  - reader
+  - p
+- - high
+  - walls
+  - divided
+- - reader
+  - p
+  - n
+- - absurd
+  - waiting
+  - room
+- - waiting
+  - room
+  - scene
+- - most
+  - extraordinary
+  - ward
+- - most
+  - remarkable
+  - institution
+- - memoirs
+  - '-'
+  - where
+- - other
+  - noxious
+  - vermin
+- - march
+  - vets
+  - do
+- - readers
+  - well
+  - mr
+- - aged
+  - tortoise
+  - who
+- - enjoy
+  - their
+  - feast
+- - other
+  - readers
+  - well
+story:
+  date: 2004-03-14
+  id: 2004-03-14-beasts-of-the-field
+  text: "\u201CWhat in the name of heaven is Kurt Chodd prattling on about?\u201D\
+    \ asks reader P. N. Cowper, \u201CContrary to the absurd waiting room scene in\
+    \ The Administration Of Lighthouses (9th March), vets do not as a rule tend to\
+    \ the kinds of animals listed there. This lack of verisimilitude ruined the lecture\
+    \ for me, and I am sure for many other readers.\u201D Well: Mr or Ms Cowper is\
+    \ clearly not familiar with James Forbes' Oriental Memoirs (1813-15), where we\
+    \ find this:\n\u201CThe Banian hospital at Surat is a most remarkable institution;\
+    \ it consists of a large plot of ground, enclosed with high walls, divided into\
+    \ several courts or wards, for the accommodation of animals; in sickness they\
+    \ are attended with the tenderest care, and find a peaceful asylum for the infirmities\
+    \ of age. At my visit, the hospital contained horses, mules, oxen, sheep, goats,\
+    \ monkeys, poultry, pigeons, and a variety of birds, with an aged tortoise, who\
+    \ was known to have been there for seventy-five years. The most extraordinary\
+    \ ward was that appropriated to rats, mice, bugs, and other noxious vermin. The\
+    \ overseers of the hospital frequently hire beggars from the streets, for a stipulated\
+    \ sum, to pass a night among the fleas, lice, and bugs, on the express condition\
+    \ of suffering them to enjoy their feast without molestation.\u201D"
+  title: Beasts of the Field
+word_count: 223

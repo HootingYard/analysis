@@ -1,0 +1,25 @@
+ngrams:
+- - weatherman
+  - daniel
+  - corbett
+- - bbc
+  - weatherman
+  - daniel
+- - broadcasts
+  - tape
+  - them
+- - watch
+  - them
+  - again
+- - corbett
+  - you
+  - owe
+story:
+  date: 2006-07-14
+  id: 2006-07-14-my-hero
+  text: '
+
+    This is BBC weatherman Daniel Corbett. You owe it to yourself to watch his broadcasts,
+    tape them, and watch them again and again, in a state of bliss.'
+  title: My Hero
+word_count: 30

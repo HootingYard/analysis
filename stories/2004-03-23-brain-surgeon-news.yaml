@@ -1,0 +1,46 @@
+ngrams:
+- - enticing
+  - news
+  - item
+- - brain
+  - surgeon
+  - news
+- - doubt
+  - further
+  - details
+- - don't
+  - really
+  - want
+- - getting
+  - some
+  - extra
+- - british
+  - hospital
+  - has
+- - story
+  - 'no'
+  - doubt
+- - 'no'
+  - doubt
+  - further
+- - just
+  - getting
+  - some
+- - surgeon
+  - news
+  - there
+- - details
+  - are
+  - available
+story:
+  date: 2004-03-23
+  id: 2004-03-23-brain-surgeon-news
+  text: "There was an enticing news item on the radio this morning. Here are the bare\
+    \ bones of the story\u2014no doubt further details are available in the newspapers,\
+    \ but I don't really want to know. This has a beauty of its own:\nA brain surgeon\
+    \ at a British hospital has been suspended from duty. His crime? He took a second\
+    \ helping of soup from the staff canteen and did not pay for it. His defence?\
+    \ He was just getting some extra croutons. The matter has been raised in the House\
+    \ of Lords."
+  title: Brain Surgeon News
+word_count: 95

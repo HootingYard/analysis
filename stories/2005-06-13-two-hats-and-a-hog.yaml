@@ -1,0 +1,23 @@
+ngrams:
+- - hats
+  - hog
+  - test
+- - hat
+  - hat
+  - hog
+- - right
+  - hat
+  - hat
+- - hog
+  - left
+  - to
+- - to
+  - right
+  - hat
+story:
+  date: 2005-06-13
+  id: 2005-06-13-two-hats-and-a-hog
+  text: "\nLeft to right : hat, hat, hog. A splendid example of the Bl\xF6tzmann Hats\
+    \ & Hog Test."
+  title: Two Hats and a Hog
+word_count: 21

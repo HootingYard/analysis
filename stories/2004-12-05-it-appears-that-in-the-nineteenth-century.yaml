@@ -1,0 +1,60 @@
+ngrams:
+- - whale
+  - british
+  - airships
+- - george
+  - whale
+  - british
+- - gas
+  - george
+  - whale
+- - light
+  - wire
+  - net
+- - british
+  - airships
+  - past
+- - airships
+  - past
+  - present
+- - past
+  - present
+  - future
+- - man
+  - named
+  - partridge
+- - named
+  - partridge
+  - very
+- - partridge
+  - very
+  - little
+- - very
+  - little
+  - information
+- - its
+  - own
+  - machinery
+- - airship
+  - made
+  - its
+- - made
+  - its
+  - appearance
+- - country
+  - which
+  - proved
+story:
+  date: 2004-12-05
+  id: 2004-12-05-it-appears-that-in-the-nineteenth-century
+  text: "\u201CIt appears that in the nineteenth century only one airship was constructed\
+    \ in this country, which proved to be capable of ascending into the air and being\
+    \ propelled by its own machinery. This airship made its appearance in the year\
+    \ 1848, and was built to the designs of a man named Partridge. Very little information\
+    \ is available concerning this ship. The envelope was cylindrical in shape, tapering\
+    \ at each end, and was composed of a light rigid framework covered with fabric.\
+    \ The envelope itself was covered with a light wire net, from which the car was\
+    \ suspended. The envelope contained a single ballonet for regulating the pressure\
+    \ of the gas.\u201D \u2014 George Whale, British Airships, Past / Present / Future"
+  title: "\u201CIt appears that in the nineteenth century\u2026\u201D"
+word_count: 123

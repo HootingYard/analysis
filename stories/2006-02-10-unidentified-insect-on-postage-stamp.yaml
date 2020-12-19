@@ -1,0 +1,16 @@
+ngrams:
+- - unidentified
+  - insect
+  - 'on'
+- - insect
+  - 'on'
+  - postage
+- - 'on'
+  - postage
+  - stamp
+story:
+  date: 2006-02-10
+  id: 2006-02-10-unidentified-insect-on-postage-stamp
+  text: ''
+  title: Unidentified Insect on Postage Stamp
+word_count: 5

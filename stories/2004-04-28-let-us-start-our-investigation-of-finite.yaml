@@ -1,0 +1,39 @@
+ngrams:
+- - bounded
+  - perturbation
+  - let
+- - restrict
+  - ourselves
+  - first
+- - start
+  - our
+  - investigation
+- - start
+  - our
+  - investigation
+- - finite
+  - let
+  - us
+- - let
+  - us
+  - start
+- - let
+  - us
+  - start
+- - us
+  - start
+  - our
+- - us
+  - start
+  - our
+story:
+  date: 2004-04-28
+  id: 2004-04-28-let-us-start-our-investigation-of-finite
+  text: "\u201CLet us start our investigation of finite rank perturbations of self-adjoint\
+    \ operators with the simplest sort of perturbation\u2014a rank one bounded perturbation.\
+    \ Let A be a self-adjoint (perhaps unbounded) operator in the Hilbert space H\
+    \ with domain Dom (A) \u2026 To discuss the eigenfunctions we restrict ourselves\
+    \ first to the case where all particles are bosons, respectively, fermions.\u201D\
+    \ \u2014 S Albeverio & P Kurasov, Singular Perturbations of Differential Operators"
+  title: "\u201CLet us start our investigation of finite\u2026\u201D"
+word_count: 74

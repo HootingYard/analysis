@@ -1,0 +1,23 @@
+ngrams:
+- - love
+  - '-'
+  - eat
+- - love
+  - eat
+  - peas
+- - an
+  - efficacious
+  - remedy
+- - an
+  - efficacious
+  - remedy
+- - eat
+  - an
+  - efficacious
+story:
+  date: 2004-05-05
+  id: 2004-05-05-an-efficacious-remedy-for-love-eat
+  text: "\u201CAn efficacious remedy for love\u2014eat peas.\u201D \u2014 Stendahl,\
+    \ Journal"
+  title: "\u201CAn efficacious remedy for love - eat\u2026\u201D"
+word_count: 16

@@ -1,0 +1,25 @@
+ngrams:
+- - miss
+  - alice
+  - della
+- - curious
+  - '-'
+  - ladies
+- - young
+  - englishman
+  - april
+- - gentlemen
+  - send
+  - three
+- - send
+  - three
+  - stamps
+story:
+  date: 2004-09-10
+  id: 2004-09-10-to-the-curious-ladies-and-gentlemen
+  text: "\u201CTo The Curious\u2014Ladies and gentlemen, send three stamps to Miss\
+    \ Alice Della, 22 Chatham-road, Camberwell, London, and you will receive 3 things\
+    \ that will greatly surprise and astonish you. Sent, by return of post.\u201D\
+    \ \u2014 Advertisement in The Young Englishman, 29 April 1876"
+  title: "\u201CTo The Curious - Ladies and gentlemen,\u2026\u201D"
+word_count: 46

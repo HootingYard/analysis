@@ -1,0 +1,24 @@
+ngrams:
+- - mashed
+  - potato
+  - please
+- - potato
+  - please
+  - study
+- - posed
+  - next
+  - week
+- - photograph
+  - very
+  - carefully
+- - very
+  - carefully
+  - questions
+story:
+  date: 2004-11-11
+  id: 2004-11-11-some-mashed-potato
+  text: '
+
+    Please study this photograph very carefully. Questions will be posed next week.'
+  title: Some Mashed Potato
+word_count: 15

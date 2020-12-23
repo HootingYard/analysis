@@ -38,6 +38,9 @@ ngrams:
 - - barnyard
   - animals
   - clocks
+- - karelian
+  - holiday
+  - resort
 - - wear
   - chaps
   - spats
@@ -146,9 +149,6 @@ ngrams:
 - - duck
   - when
   - attacked
-- - sitting
-  - duck
-  - when
 story:
   date: 2005-02-08
   id: 2005-02-08-norwegian-wool

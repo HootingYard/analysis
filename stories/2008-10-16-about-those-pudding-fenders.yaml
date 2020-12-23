@@ -1,4 +1,10 @@
 ngrams:
+- - synthetic
+  - rubbers
+  - visually
+- - rubbers
+  - visually
+  - they're
 - - visually
   - they're
   - masterpieces
@@ -11,6 +17,9 @@ ngrams:
 - - famous
   - explorers
   - lewis
+- - columbia
+  - river
+  - earned
 - - sells
   - modern
   - versions
@@ -113,15 +122,6 @@ ngrams:
 - - were
   - eventually
   - replaced
-- - bow
-  - pudding
-  - they
-- - used
-  - up
-  - until
-- - their
-  - hands
-  - while
 story:
   date: 2008-10-16
   id: 2008-10-16-about-those-pudding-fenders

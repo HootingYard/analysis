@@ -1,4 +1,10 @@
 ngrams:
+- - wagner
+  - lisps
+  - sweetly
+- - scriabin
+  - wagner
+  - lisps
 - - neurasthenic
   - russian
   - cultivated
@@ -20,6 +26,9 @@ ngrams:
 - - spinal
   - tap
   - goes
+- - nietzschean
+  - superman
+  - whether
 - - hands
   - decisive
   - mustachios
@@ -71,6 +80,9 @@ ngrams:
 - - considers
   - how
   - tiny
+- - lisps
+  - sweetly
+  - like
 - - hands
   - larger
   - than
@@ -95,18 +107,6 @@ ngrams:
 - - long
   - before
   - spinal
-- - other
-  - another
-  - refers
-- - go
-  - mad
-  - any
-- - write
-  - more
-  - soon
-- - shall
-  - write
-  - more
 story:
   date: 2006-01-29
   id: 2006-01-29-tiny-little-hands-decisive-mustachios

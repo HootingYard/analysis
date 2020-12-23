@@ -1,4 +1,7 @@
 ngrams:
+- - portable
+  - kiln
+  - ignited
 - - inexplicable
   - fuel
   - replaces
@@ -80,6 +83,12 @@ ngrams:
 - - next
   - morning
   - hummingbirds
+- - kiln
+  - after
+  - applying
+- - portable
+  - kiln
+  - after
 - - cedars
   - appears
   - here
@@ -131,6 +140,9 @@ ngrams:
 - - its
   - tiny
   - hatch
+- - kiln
+  - has
+  - cooled
 - - come
   - upon
   - doctor
@@ -200,18 +212,6 @@ ngrams:
 - - ebbing
   - when
   - some
-- - know
-  - who
-  - did
-- - delay
-  - only
-  - so
-- - relevant
-  - characters
-  - had
-- - reticule
-  - or
-  - satchel
 story:
   date: 2006-02-20
   id: 2006-02-20-u-is-for-unstrebnodtalb

@@ -1,4 +1,13 @@
 ngrams:
+- - sanguine
+  - phlegmatic
+  - subsequent
+- - phlegmatic
+  - subsequent
+  - sessions
+- - melancholic
+  - choleric
+  - v
 - - subsequent
   - sessions
   - proved
@@ -17,6 +26,12 @@ ngrams:
 - - fugitive
   - mrs
   - gubbins
+- - '-'
+  - melancholic
+  - choleric
+- - '-'
+  - sanguine
+  - phlegmatic
 - - choleric
   - v
   - '-'
@@ -35,27 +50,12 @@ ngrams:
 - - see
   - dobson's
   - leech
+- - here
+  - '-'
+  - melancholic
 - - team
   - let
   - us
-- - shown
-  - here
-  - '-'
-- - let
-  - us
-  - hope
-- - her
-  - arrest
-  - escape
-- - her
-  - team
-  - let
-- - workshop
-  - before
-  - her
-- - before
-  - her
-  - arrest
 story:
   date: 2004-04-13
   id: 2004-04-13-mrs-gubbins-emoticon-workshop

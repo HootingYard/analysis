@@ -1,7 +1,16 @@
 ngrams:
+- - dec
+  - hangover
+  - v
 - - december
   - crowley
   - rounded
+- - bed
+  - dec
+  - hangover
+- - hangover
+  - v
+  - bad
 - - dull
   - party
   - brightening
@@ -101,15 +110,6 @@ ngrams:
 - - aspects
   - we
   - dined
-- - spiritual
-  - aspects
-  - we
-- - up
-  - knew
-  - each
-- - we
-  - dined
-  - together
 story:
   date: 2012-10-08
   id: 2012-10-08-aleister-crowley-and-so-to-bed

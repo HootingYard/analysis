@@ -2,6 +2,9 @@ ngrams:
 - - hectic
   - buzzing
   - drowns
+- - hildegard
+  - von
+  - bingen
 - - roman
   - empire
   - gesticulating
@@ -17,12 +20,36 @@ ngrams:
 - - holy
   - roman
   - empire
+- - sir
+  - herbert
+  - beerbohm
+- - bingen
+  - sir
+  - herbert
+- - herbert
+  - beerbohm
+  - tree
 - - legal
   - position
   - regarding
+- - submerged
+  - iron
+  - filament
+- - iron
+  - filament
+  - contraption
+- - figures
+  - including
+  - hildegard
+- - von
+  - bingen
+  - sir
 - - mythological
   - figures
   - including
+- - including
+  - hildegard
+  - von
 - - magnesia
   - using
   - professor
@@ -53,6 +80,9 @@ ngrams:
 - - humming
   - old
   - latvian
+- - old
+  - thatched
+  - tavern
 - - old
   - latvian
   - folk
@@ -110,6 +140,9 @@ ngrams:
 - - life
   - dobson
   - ignored
+- - boiling
+  - more
+  - leeks
 - - kitchen
   - boiling
   - more
@@ -203,39 +236,6 @@ ngrams:
 - - attach
   - an
   - extension
-- - take
-  - some
-  - time
-- - completed
-  - this
-  - journal
-- - this
-  - journal
-  - entry
-- - sergeant
-  - or
-  - whoever
-- - or
-  - mythological
-  - figures
-- - or
-  - whoever
-  - answers
-- - one
-  - year
-  - during
-- - desk
-  - sergeant
-  - or
-- - prosecute
-  - me
-  - some
-- - ignored
-  - christmas
-  - but
-- - them
-  - myself
-  - when
 story:
   date: 2004-12-29
   id: 2004-12-29-how-dobson-spent-boxing-day

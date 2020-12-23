@@ -26,6 +26,12 @@ ngrams:
 - - demented
   - textual
   - analysis
+- - aldous
+  - huxley
+  - shortly
+- - writer
+  - aldous
+  - huxley
 - - qualified
   - jelly
   - judge
@@ -62,6 +68,9 @@ ngrams:
 - - jelly
   - bin
   - leaving
+- - english
+  - writer
+  - aldous
 - - qwerty
   - keyboard
   - order
@@ -191,6 +200,9 @@ ngrams:
 - - birthday
   - these
   - poor
+- - huxley
+  - shortly
+  - before
 - - fart
   - claims
   - our
@@ -428,18 +440,6 @@ ngrams:
 - - our
   - activities
   - if
-- - official
-  - body
-  - which
-- - mentioned
-  - are
-  - special
-- - am
-  - 'no'
-  - actor
-- - record
-  - will
-  - know
 story:
   date: 2012-02-23
   id: 2012-02-23-on-jelly

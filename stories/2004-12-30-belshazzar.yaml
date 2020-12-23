@@ -5,6 +5,9 @@ ngrams:
 - - jerusalem
   - rembrandt
   - shows
+- - belshazzar
+  - rembrandt's
+  - source
 - - national
   - gallery
   - london
@@ -65,9 +68,6 @@ ngrams:
 - - father
   - nebuchadnezzar
   - had
-- - hebrew
-  - inscription
-  - from
 story:
   date: 2004-12-30
   id: 2004-12-30-belshazzar

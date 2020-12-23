@@ -23,6 +23,9 @@ ngrams:
 - - kensington
   - people
   - having
+- - punctual
+  - accent
+  - over
 - - ever
   - saw
   - produced
@@ -98,9 +101,6 @@ ngrams:
 - - had
   - seen
   - everything
-- - production
-  - from
-  - letter
 story:
   date: 2009-05-04
   id: 2009-05-04-dog-serpent-cushion-fruit

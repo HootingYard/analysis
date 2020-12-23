@@ -2,6 +2,15 @@ ngrams:
 - - dreadful
   - malady
   - somewhat
+- - backbone
+  - five
+  - sabre
+- - five
+  - sabre
+  - cuts
+- - five
+  - sabre
+  - cuts
 - - malady
   - somewhat
   - similar
@@ -104,15 +113,6 @@ ngrams:
 - - days
   - so
   - ill
-- - nine
-  - days
-  - so
-- - left
-  - cheek
-  - which
-- - uniting
-  - one
-  - slight
 story:
   date: 2012-03-25
   id: 2012-03-25-the-british-in-africa

@@ -1,4 +1,7 @@
 ngrams:
+- - ornate
+  - stippled
+  - eider
 - - shout
   - allahu
   - akbar
@@ -23,6 +26,12 @@ ngrams:
 - - toffee
   - apple
   - ornate
+- - eider
+  - duck
+  - decor
+- - stippled
+  - eider
+  - duck
 - - ping
   - pong
   - technique
@@ -110,15 +119,6 @@ ngrams:
 - - calling
   - upon
   - any
-- - your
-  - loved
-  - ones
-- - era
-  - when
-  - ghouls
-- - ones
-  - against
-  - their
 story:
   date: 2009-10-30
   id: 2009-10-30-when-ghouls-attack

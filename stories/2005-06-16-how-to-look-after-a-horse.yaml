@@ -1,4 +1,13 @@
 ngrams:
+- - sprains
+  - bruises
+  - fistula
+- - strains
+  - lameness
+  - foundered
+- - mange
+  - rheumatism
+  - bites
 - - external
   - poisons
   - painful
@@ -26,6 +35,9 @@ ngrams:
 - - joints
   - caked
   - breast
+- - grease
+  - mange
+  - rheumatism
 - - nervous
   - affections
   - frost
@@ -65,21 +77,9 @@ ngrams:
 - - caked
   - breast
   - c
-- - hands
-  - cramps
-  - contraction
-- - horse
-  - health
-  - lack
-- - horse
-  - ailment
-  - knowledge
-- - external
-  - application
-  - ever
-- - odd
-  - ends
-  - go
+- - lameness
+  - foundered
+  - feet
 story:
   date: 2005-06-16
   id: 2005-06-16-how-to-look-after-a-horse

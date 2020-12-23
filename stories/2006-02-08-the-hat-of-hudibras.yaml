@@ -122,6 +122,9 @@ ngrams:
 - - hat
   - historian
   - or
+- - hatter
+  - or
+  - hat
 - - me
   - splendidly
   - when
@@ -149,9 +152,6 @@ ngrams:
 - - be
   - better
   - placed
-- - fail
-  - they
-  - will
 story:
   date: 2006-02-08
   id: 2006-02-08-the-hat-of-hudibras

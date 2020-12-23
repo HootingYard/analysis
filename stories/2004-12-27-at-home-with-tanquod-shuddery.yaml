@@ -17,6 +17,9 @@ ngrams:
 - - took
   - each
   - item
+- - where
+  - cows
+  - graze
 - - farm
   - where
   - cows
@@ -153,9 +156,6 @@ ngrams:
   - tin
   - i
 - - flap
-  - i
-  - went
-- - custard
   - i
   - went
 story:

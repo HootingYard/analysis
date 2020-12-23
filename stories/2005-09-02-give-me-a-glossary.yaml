@@ -2,6 +2,9 @@ ngrams:
 - - poisonous
   - substance
   - generated
+- - salt
+  - token
+  - astrolabe
 - - definite
   - article
   - signalling
@@ -23,9 +26,15 @@ ngrams:
 - - crows
   - cormorants
   - squirrels
+- - becomes
+  - musto
+  - yesterday
 - - yours
   - perplexed
   - tim
+- - becomes
+  - musto
+  - usually
 - - hungarian
   - journalist
   - although
@@ -80,6 +89,12 @@ ngrams:
 - - write
   - complete
   - nonsense
+- - musto
+  - yesterday
+  - left
+- - musto
+  - usually
+  - between
 - - key
   - writes
   - tim
@@ -131,6 +146,9 @@ ngrams:
 - - how
   - many
   - grains
+- - fluctuation
+  - some
+  - believed
 - - dobson
   - once
   - began
@@ -143,24 +161,6 @@ ngrams:
 - - missing
   - something
   - could
-- - began
-  - some
-  - notes
-- - provide
-  - some
-  - sort
-- - am
-  - missing
-  - something
-- - once
-  - began
-  - some
-- - eels
-  - has
-  - long
-- - afternoons
-  - particularly
-  - when
 story:
   date: 2005-09-02
   id: 2005-09-02-give-me-a-glossary

@@ -1,7 +1,16 @@
 ngrams:
+- - attack
+  - russia
+  - quickest
 - - parts
   - actually
   - fell
+- - quickest
+  - while
+  - calf
+- - russia
+  - quickest
+  - while
 - - cause
   - great
   - heat
@@ -65,15 +74,6 @@ ngrams:
 - - valance
   - which
   - hung
-- - which
-  - communicated
-  - directly
-- - fringe
-  - which
-  - dropped
-- - which
-  - attack
-  - russia
 story:
   date: 2004-09-16
   id: 2004-09-16-unfortunately-i-can-speak-from-experience-of

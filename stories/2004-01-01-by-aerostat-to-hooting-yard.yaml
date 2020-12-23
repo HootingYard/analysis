@@ -2,6 +2,9 @@ ngrams:
 - - fluxes
   - dislocations
   - epidemics
+- - hoarseness
+  - inflammations
+  - jaundice
 - - polio
   - vaccines
   - quicksilver
@@ -74,6 +77,9 @@ ngrams:
 - - quicksilver
   - rep
   - shears
+- - inflammations
+  - jaundice
+  - knots
 - - plush
   - crimplene
   - cushions
@@ -1193,12 +1199,6 @@ ngrams:
 - - expect
   - your
   - report
-- - whacked
-  - up
-  - along
-- - wheelchair
-  - were
-  - terribly
 story:
   date: 2004-01-01
   id: 2004-01-01-by-aerostat-to-hooting-yard

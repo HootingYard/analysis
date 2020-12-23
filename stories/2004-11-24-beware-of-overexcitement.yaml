@@ -47,6 +47,9 @@ ngrams:
 - - home
   - church
   - school
+- - cuts
+  - must
+  - intersect
 - - each
   - player
   - cuts
@@ -101,6 +104,9 @@ ngrams:
 - - make
   - four
   - pieces
+- - must
+  - intersect
+  - each
 - - many
   - small
   - square
@@ -116,12 +122,6 @@ ngrams:
 - - answer
   - naming
   - some
-- - then
-  - each
-  - player
-- - button
-  - button
-  - who
 story:
   date: 2004-11-24
   id: 2004-11-24-beware-of-overexcitement

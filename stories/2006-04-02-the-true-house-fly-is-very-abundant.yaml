@@ -5,6 +5,9 @@ ngrams:
 - - fermenting
   - vegetable
   - material
+- - backyard
+  - poultry
+  - lots
 - - howard
   - f
   - c
@@ -23,9 +26,6 @@ ngrams:
 - - 'true'
   - house
   - fly
-- - vegetable
-  - material
-  - such
 story:
   date: 2006-04-02
   id: 2006-04-02-the-true-house-fly-is-very-abundant

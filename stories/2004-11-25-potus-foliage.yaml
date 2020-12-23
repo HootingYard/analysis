@@ -1,7 +1,13 @@
 ngrams:
+- - nixon
+  - orchid
+  - omitting
 - - g
   - gordon
   - liddy
+- - richard
+  - nixon
+  - orchid
 - - richard
   - nixon
   - more's
@@ -26,12 +32,6 @@ ngrams:
 - - despite
   - untold
   - hours
-- - gordon
-  - liddy
-  - let
-- - called
-  - watergate
-  - h
 story:
   date: 2004-11-25
   id: 2004-11-25-potus-foliage

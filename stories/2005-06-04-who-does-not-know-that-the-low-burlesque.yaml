@@ -1,4 +1,7 @@
 ngrams:
+- - antoine
+  - simon
+  - maillard
 - - nations
   - now
   - dependent
@@ -17,6 +20,12 @@ ngrams:
 - - an
   - humorous
   - corruption
+- - simon
+  - maillard
+  - an
+- - maillard
+  - an
+  - account
 - - there
   - any
   - thing
@@ -26,15 +35,6 @@ ngrams:
 - - solved
   - by
   - calling
-- - but
-  - another
-  - name
-- - does
-  - not
-  - know
-- - does
-  - not
-  - know
 story:
   date: 2005-06-04
   id: 2005-06-04-who-does-not-know-that-the-low-burlesque

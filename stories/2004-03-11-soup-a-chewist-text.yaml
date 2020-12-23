@@ -1,4 +1,7 @@
 ngrams:
+- - pepper
+  - mace
+  - c
 - - hired
   - chef
   - shed
@@ -8,6 +11,9 @@ ngrams:
 - - j
   - o
   - mill
+- - whole
+  - pepper
+  - mace
 - - iron
   - pail
   - direct
@@ -63,6 +69,9 @@ ngrams:
   - details
   - each
 - - little
+  - mrs
+  - timmins
+- - little
   - purple
   - ears
 - - first
@@ -89,12 +98,18 @@ ngrams:
 - - every
   - kitchen
   - must
+- - tiny
+  - little
+  - beasties
 - - best
   - try
   - never
 - - attention
   - where
   - soup
+- - am
+  - feeling
+  - magnanimous
 - - too
   - many
   - legs
@@ -155,6 +170,9 @@ ngrams:
 - - wings
   - whereas
   - all
+- - comparatively
+  - inexpensive
+  - we
 - - harbour
   - all
   - sorts
@@ -173,27 +191,9 @@ ngrams:
 - - pavement
   - grease
   - so
-- - generally
-  - applicable
+- - feeling
+  - magnanimous
   - so
-- - back
-  - your
-  - nasty
-- - pin
-  - back
-  - your
-- - all
-  - vegetables
-  - should
-- - grease
-  - so
-  - bear
-- - household
-  - are
-  - alike
-- - soup
-  - so
-  - pin
 story:
   date: 2004-03-11
   id: 2004-03-11-soup-a-chewist-text

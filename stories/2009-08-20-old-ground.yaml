@@ -1,4 +1,7 @@
 ngrams:
+- - hangar
+  - nelson
+  - eddy
 - - unmarked
   - pathways
   - marked
@@ -11,6 +14,9 @@ ngrams:
 - - jeanette
   - macdonald
   - because
+- - discursive
+  - yet
+  - exhaustive
 - - yet
   - exhaustive
   - history
@@ -44,12 +50,6 @@ ngrams:
 - - writing
   - about
   - today
-- - replace
-  - one
-  - sent
-- - all
-  - its
-  - unmarked
 story:
   date: 2009-08-20
   id: 2009-08-20-old-ground

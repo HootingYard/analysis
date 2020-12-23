@@ -89,6 +89,9 @@ ngrams:
 - - past
   - unkind
   - words
+- - two
+  - toms
+  - cruise
 - - email
   - dear
   - hooting
@@ -104,9 +107,6 @@ ngrams:
 - - our
   - people
   - sent
-- - dear
-  - hooting
-  - yard
 story:
   date: 2004-11-01
   id: 2004-11-01-ugo-of-plovdiv-the-motion-picture

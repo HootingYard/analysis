@@ -1,4 +1,10 @@
 ngrams:
+- - reporter
+  - velma
+  - nebraska
+- - roving
+  - reporter
+  - velma
 - - highly
   - disagreeable
   - foodstuffs
@@ -11,12 +17,6 @@ ngrams:
 - - serve
   - your
   - starving
-- - disagreeable
-  - foodstuffs
-  - if
-- - starving
-  - guests
-  - this
 story:
   date: 2004-08-02
   id: 2004-08-02-indigestible-food-of-the-week

@@ -5,18 +5,33 @@ ngrams:
 - - baths
   - cupcake
   - mixture
+- - parapets
+  - shrubberies
+  - 'false'
+- - shrubberies
+  - 'false'
+  - ceilings
 - - robberies
   - pins
   - litmus
+- - toc
+  - h
+  - lamp
 - - tin
   - baths
   - cupcake
 - - ironmongery
   - tin
   - baths
+- - behind
+  - parapets
+  - shrubberies
 - - litmus
   - paper
   - zinc
+- - concealed
+  - behind
+  - parapets
 - - paper
   - zinc
   - gorse
@@ -32,39 +47,24 @@ ngrams:
 - - blodgett
   - stashed
   - everything
+- - kleptomania
+  - look
+  - stranger
 - - either
   - blodgett
   - remained
 - - spied
   - without
   - success
+- - otherwise
+  - uncommunicative
+  - later
 - - blodgett
   - concealed
   - behind
 - - things
   - vanished
   - somehow
-- - didn't
-  - work
-  - either
-- - work
-  - either
-  - blodgett
-- - where
-  - blodgett
-  - stashed
-- - these
-  - things
-  - vanished
-- - 'false'
-  - ceilings
-  - she
-- - relentless
-  - she
-  - listened
-- - directly
-  - she
-  - tied
 story:
   date: 2006-02-05
   id: 2006-02-05-k-is-for-kleptomania

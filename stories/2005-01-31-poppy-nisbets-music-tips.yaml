@@ -1,4 +1,10 @@
 ngrams:
+- - kale
+  - strabismus
+  - molotov
+- - strabismus
+  - molotov
+  - cocktails
 - - lindbergh
   - kidnapping
   - hoax
@@ -77,12 +83,18 @@ ngrams:
 - - transparent
   - plane
   - geese
+- - kettles
+  - toc
+  - h
 - - h
   - lamps
   - pulverized
 - - railings
   - poop
   - deck
+- - toc
+  - h
+  - lamps
 - - tonsured
   - friars
   - food
@@ -107,6 +119,9 @@ ngrams:
 - - bears
   - cotton
   - cotton
+- - wooden
+  - kettles
+  - toc
 - - plasma
   - gas
   - methods
@@ -128,21 +143,6 @@ ngrams:
 - - tips
   - mrs
   - gubbins
-- - asked
-  - poppy
-  - nisbet
-- - poppy
-  - hello
-  - readers
-- - boat
-  - different
-  - types
-- - hello
-  - readers
-  - there's
-- - called
-  - cif
-  - mordant
 story:
   date: 2005-01-31
   id: 2005-01-31-poppy-nisbets-music-tips

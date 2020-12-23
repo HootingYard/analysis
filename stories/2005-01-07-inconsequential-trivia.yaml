@@ -1,4 +1,13 @@
 ngrams:
+- - ralph
+  - waldo
+  - emerson
+- - ralph
+  - waldo
+  - emerson
+- - waldo
+  - emerson
+  - marina
 - - marina
   - oswald
   - fbi
@@ -23,9 +32,15 @@ ngrams:
 - - blah
   - blah
   - blah
+- - fate
+  - ralph
+  - waldo
 - - ness
   - monster
   - hunters
+- - ruth's
+  - husband
+  - michael
 - - husband
   - michael
   - paine
@@ -38,6 +53,9 @@ ngrams:
 - - november
   - lee
   - harvey
+- - follows
+  - ruth's
+  - husband
 - - oswald's
   - wife
   - marina
@@ -71,24 +89,6 @@ ngrams:
 - - say
   - loch
   - ness
-- - poring
-  - over
-  - minutiae
-- - obsessive
-  - poring
-  - over
-- - am
-  - really
-  - glad
-- - michael
-  - paine
-  - who
-- - children
-  - were
-  - staying
-- - who
-  - make
-  - fun
 story:
   date: 2005-01-07
   id: 2005-01-07-inconsequential-trivia

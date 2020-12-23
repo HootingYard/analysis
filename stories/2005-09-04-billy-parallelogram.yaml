@@ -1,7 +1,28 @@
 ngrams:
+- - parallelogram
+  - heroically
+  - tampers
+- - billy
+  - parallelogram
+  - heroically
+- - billy
+  - parallelogram
+  - bails
+- - automate
+  - household
+  - tasks
+- - billy
+  - parallelogram
+  - strips
 - - cousin
   - tilly
   - dodecahedron
+- - billy
+  - parallelogram
+  - buying
+- - billy
+  - parallelogram
+  - strip
 - - fuel
   - gauge
   - leading
@@ -35,9 +56,15 @@ ngrams:
 - - world's
   - entire
   - population
+- - questions
+  - billy
+  - parallelogram
 - - featured
   - magnet
   - boy
+- - character
+  - billy
+  - parallelogram
 - - cartoon
   - character
   - billy
@@ -50,6 +77,15 @@ ngrams:
 - - eerily
   - sparkling
   - blue
+- - billy
+  - parallelogram
+  - hands
+- - parallelogram
+  - strip
+  - sometimes
+- - billy
+  - parallelogram
+  - story
 - - called
   - weems
   - weems
@@ -83,9 +119,15 @@ ngrams:
 - - teaching
   - children
   - how
+- - before
+  - billy
+  - parallelogram
 - - weekly
   - adventure
   - might
+- - where
+  - billy
+  - parallelogram
 - - parlour
   - games
   - such
@@ -95,48 +137,6 @@ ngrams:
 - - such
   - questions
   - billy
-- - nazi
-  - also
-  - never
-- - pie
-  - shop
-  - where
-- - consider
-  - such
-  - questions
-- - three
-  - months
-  - where
-- - too
-  - spread
-  - over
-- - inference
-  - never
-  - made
-- - never
-  - made
-  - explicit
-- - never
-  - made
-  - explicit
-- - has
-  - eerily
-  - sparkling
-- - spread
-  - over
-  - two
-- - also
-  - never
-  - made
-- - could
-  - never
-  - guess
-- - plane
-  - crashes
-  - into
-- - were
-  - serial
-  - stories
 story:
   date: 2005-09-04
   id: 2005-09-04-billy-parallelogram

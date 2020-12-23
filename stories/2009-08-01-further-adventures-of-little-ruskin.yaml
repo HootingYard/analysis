@@ -1,4 +1,7 @@
 ngrams:
+- - beautiful
+  - mild
+  - firmness
 - - ruskin's
   - buoyant
   - mood
@@ -11,6 +14,9 @@ ngrams:
 - - buoyant
   - mood
   - changes
+- - usual
+  - mild
+  - firmness
 - - intends
   - replies
   - ma
@@ -59,9 +65,15 @@ ngrams:
 - - little
   - ruskin's
   - buoyant
+- - mild
+  - firmness
+  - little
 - - little
   - ruskin's
   - worst
+- - firmness
+  - little
+  - ruskin
 - - little
   - ruskin
   - shielding
@@ -101,18 +113,6 @@ ngrams:
 - - ruskin
   - see
   - children
-- - finely
-  - made
-  - woman
-- - chapter
-  - v
-  - here
-- - today
-  - little
-  - ruskin
-- - our
-  - strolling
-  - ma
 story:
   date: 2009-08-01
   id: 2009-08-01-further-adventures-of-little-ruskin

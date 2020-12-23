@@ -110,6 +110,9 @@ ngrams:
 - - modified
   - cat
   - 'no'
+- - steers
+  - its
+  - way
 - - cat
   - 'no'
   - animals
@@ -143,9 +146,6 @@ ngrams:
 - - an
   - important
   - stationary
-- - written
-  - atop
-  - an
 story:
   date: 2016-02-16
   id: 2016-02-16-binder-the-39-piano-concertos

@@ -47,12 +47,18 @@ ngrams:
 - - egg
   - custard
   - sherry
+- - masa
+  - harina
+  - eggs
 - - soup
   - consisted
   - mostly
 - - collect
   - daily
   - supplies
+- - harina
+  - eggs
+  - toffee
 - - whelks
   - gin
   - blood
@@ -95,6 +101,9 @@ ngrams:
 - - mrs
   - purgative
   - usually
+- - prepared
+  - four
+  - cauldrons
 - - food
   - episode
   - six
@@ -137,15 +146,6 @@ ngrams:
 - - only
   - sustenance
   - officially
-- - field
-  - brought
-  - back
-- - its
-  - main
-  - ingredients
-- - pottage
-  - its
-  - main
 story:
   date: 2006-01-29
   id: 2006-01-29-f-is-for-food

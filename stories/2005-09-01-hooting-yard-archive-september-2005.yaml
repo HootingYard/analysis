@@ -1,4 +1,10 @@
 ngrams:
+- - ukrainian
+  - bee
+  - counting
+- - magnificent
+  - ukrainian
+  - bee
 - - bee
   - counting
   - game
@@ -8,12 +14,6 @@ ngrams:
 - - hooting
   - yard
   - archive
-- - stormy
-  - petrel
-  - are
-- - petrel
-  - are
-  - among
 story:
   date: 2005-09-01
   id: 2005-09-01-hooting-yard-archive-september-2005

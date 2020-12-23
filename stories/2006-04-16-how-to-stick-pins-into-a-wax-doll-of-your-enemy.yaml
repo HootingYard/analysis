@@ -2,12 +2,18 @@ ngrams:
 - - whimsy
   - opinions
   - differ
+- - personality
+  - noel
+  - edmonds
 - - cheaper
   - option
   - hire
 - - makers
   - promise
   - faster
+- - noel
+  - edmonds
+  - wax
 - - noticeable
   - physical
   - flaw
@@ -20,9 +26,15 @@ ngrams:
 - - edmonds
   - wax
   - doll
+- - service
+  - noel
+  - edmonds
 - - cosmic
   - ordering
   - service
+- - ordering
+  - service
+  - noel
 - - gaining
   - immediate
   - results
@@ -50,6 +62,9 @@ ngrams:
 - - standard
   - humanoid
   - shape
+- - television
+  - personality
+  - noel
 - - spy
   - plane
   - deep
@@ -74,6 +89,9 @@ ngrams:
 - - whose
   - uniform
   - cap
+- - noel
+  - edmonds
+  - does
 - - doll
   - available
   - soon
@@ -425,24 +443,6 @@ ngrams:
 - - near
   - future
   - there
-- - enemy
-  - will
-  - come
-- - domestic
-  - purposes
-  - so
-- - immediate
-  - results
-  - so
-- - cut
-  - 'off'
-  - your
-- - your
-  - enemy
-  - here
-- - do
-  - some
-  - correspondents
 story:
   date: 2006-04-16
   id: 2006-04-16-how-to-stick-pins-into-a-wax-doll-of-your-enemy

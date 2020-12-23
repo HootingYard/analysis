@@ -8,9 +8,15 @@ ngrams:
 - - cartoon
   - nazi
   - villain
+- - trainee
+  - teacher
+  - friend
 - - gerard
   - manley
   - hopkins
+- - unlike
+  - rita
+  - byrne
 - - concealed
   - tape
   - recorder
@@ -335,12 +341,6 @@ ngrams:
 - - our
   - benefit
   - if
-- - outcome
-  - which
-  - possibly
-- - which
-  - possibly
-  - explains
 story:
   date: 2012-10-03
   id: 2012-10-03-on-my-favourite-jesuit

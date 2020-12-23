@@ -5,6 +5,15 @@ ngrams:
 - - sharon
   - aka
   - miss
+- - sharon
+  - smith's
+  - splendid
+- - smith's
+  - splendid
+  - adaptation
+- - food
+  - film
+  - fest
 - - described
   - thus
   - animated
@@ -56,15 +65,6 @@ ngrams:
 - - air
   - archives
   - at
-- - described
-  - cleverly
-  - by
-- - but
-  - mr
-  - key
-- - mr
-  - key
-  - but
 story:
   date: 2014-09-24
   id: 2014-09-24-tooting-my-own-trumpet

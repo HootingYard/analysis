@@ -1,4 +1,7 @@
 ngrams:
+- - swiss
+  - mercenaries
+  - suffering
 - - eat
   - couldn't
   - summon
@@ -26,6 +29,9 @@ ngrams:
 - - fainting
   - fits
   - high
+- - young
+  - swiss
+  - mercenaries
 - - treating
   - young
   - swiss
@@ -35,12 +41,6 @@ ngrams:
 - - young
   - men
   - hofer
-- - sometimes
-  - became
-  - dangerously
-- - indigestion
-  - after
-  - talking
 story:
   date: 2018-05-12
   id: 2018-05-12-khue-reyen

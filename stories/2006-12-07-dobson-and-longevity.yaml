@@ -1,13 +1,64 @@
 ngrams:
+- - chlorosis
+  - cholera
+  - infantum
+- - cholera
+  - infantum
+  - chorea
+- - dysentery
+  - effluvia
+  - epilepsy
+- - infantum
+  - chorea
+  - colic
+- - colic
+  - congestion
+  - congestive
+- - chorea
+  - colic
+  - congestion
+- - ponderous
+  - briefcases
+  - beaver
+- - dropsy
+  - dysentery
+  - effluvia
+- - diphtheria
+  - dropsy
+  - dysentery
+- - infection
+  - inflammation
+  - jaundice
 - - debility
   - diphtheria
   - dropsy
 - - consumption
   - convulsions
   - croup
+- - briefcases
+  - beaver
+  - fur
+- - congestion
+  - congestive
+  - fever
+- - fever
+  - marasmus
+  - meningitis
+- - fever
+  - bronchial
+  - asthma
 - - beaver
   - fur
   - headgear
+- - bilious
+  - fever
+  - biliousness
+- - congestive
+  - fever
+  - consumption
+- - malignant
+  - fever
+  - marasmus
 - - putrid
   - fever
   - putrid
@@ -17,6 +68,12 @@ ngrams:
 - - fatty
   - liver
   - flux
+- - inflammation
+  - jaundice
+  - king's
+- - bronchial
+  - asthma
+  - camp
 - - fever
   - putrid
   - sore
@@ -26,6 +83,15 @@ ngrams:
 - - lung
   - sickness
   - malignant
+- - abscess
+  - addison's
+  - disease
+- - hectic
+  - fever
+  - hives
+- - fever
+  - biliousness
+  - boil
 - - ayn
   - rand
   - exposition
@@ -35,6 +101,9 @@ ngrams:
 - - massive
   - dropsy
   - recited
+- - asthma
+  - camp
+  - fever
 - - fever
   - lung
   - sickness
@@ -50,6 +119,9 @@ ngrams:
 - - extravagant
   - picnicking
   - occasions
+- - sore
+  - throat
+  - pyrexia
 - - inhabited
   - discarded
   - hurled
@@ -62,15 +134,27 @@ ngrams:
 - - haemoglobin
   - towers
   - fanning
+- - fever
+  - hives
+  - hospital
+- - hives
+  - hospital
+  - fever
 - - alien
   - pathways
   - anonymous
+- - lines
+  - abscess
+  - addison's
 - - bells
   - clanged
   - lamentations
 - - headgear
   - badger
   - badges
+- - jaundice
+  - king's
+  - evil
 - - fur
   - headgear
   - badger
@@ -98,12 +182,18 @@ ngrams:
 - - scrofula
   - septic
   - ship
+- - ship
+  - fever
+  - softening
 - - septic
   - ship
   - fever
 - - picnic
   - supplies
   - boutique
+- - marasmus
+  - meningitis
+  - milk
 - - white
   - snake
   - root
@@ -176,12 +266,21 @@ ngrams:
 - - trudging
   - along
   - alien
+- - brain
+  - fever
+  - bronchial
 - - print
   - pamphleteer
   - cheated
+- - biliousness
+  - boil
+  - brain
 - - boil
   - brain
   - fever
+- - alphonso
+  - whose
+  - real
 - - pamphleteer
   - cheated
   - death
@@ -230,18 +329,36 @@ ngrams:
 - - pip
   - also
   - known
+- - little
+  - alphonso
+  - apoplexy
+- - little
+  - alphonso
+  - rehearsing
 - - dropsy
   - recited
   - little
 - - also
   - known
   - rising
+- - recited
+  - little
+  - alphonso
 - - plodding
   - ever
   - forward
+- - assistant
+  - little
+  - alphonso
 - - new
   - picnic
   - hamper
+- - unlike
+  - little
+  - alphonso
+- - many
+  - pews
+  - stolen
 - - involved
   - unlike
   - little
@@ -269,6 +386,9 @@ ngrams:
 - - followed
   - dobson
   - slumped
+- - little
+  - alphonso
+  - whose
 - - give
   - us
   - pause
@@ -308,6 +428,9 @@ ngrams:
 - - undead
   - dead
   - man
+- - mighty
+  - alphonso
+  - may
 - - dead
   - man
   - plodding
@@ -347,6 +470,9 @@ ngrams:
 - - more
   - brazil
   - nuts
+- - alphonso
+  - may
+  - also
 - - sported
   - her
   - widow's
@@ -377,6 +503,9 @@ ngrams:
 - - two
   - met
   - just
+- - said
+  - little
+  - alphonso
 - - must
   - now
   - refer
@@ -407,9 +536,21 @@ ngrams:
 - - sisters
   - 'no'
   - hang
+- - their
+  - ponderous
+  - briefcases
 - - some
   - distant
   - land
+- - upon
+  - little
+  - alphonso
+- - up
+  - punishing
+  - slopes
+- - puddings
+  - up
+  - punishing
 - - suet
   - puddings
   - up
@@ -419,150 +560,9 @@ ngrams:
 - - 'no'
   - mere
   - stage
-- - been
-  - involved
-  - unlike
-- - could
-  - ever
-  - question
-- - other
-  - human
-  - being
-- - shroud
-  - when
-  - backs
-- - matter
-  - some
-  - thought
-- - widow's
-  - weeds
-  - if
-- - when
-  - bells
-  - clanged
-- - towers
-  - fanning
-  - out
-- - could
-  - such
-  - conspirators
-- - came
-  - upon
+- - am
   - little
-- - even
-  - more
-  - brazil
-- - been
-  - certainly
-  - marigold
-- - has
-  - ever
-  - trod
-- - investigations
-  - will
-  - continue
-- - will
-  - seek
-  - shelter
-- - known
-  - him
-  - yet
-- - backs
-  - were
-  - turned
-- - post
-  - office
-  - into
-- - indeed
-  - what
-  - followed
-- - dobson
-  - who
-  - hurried
-- - fanning
-  - out
-  - across
-- - tent
-  - pitched
-  - there
-- - human
-  - being
-  - has
-- - she
-  - sported
-  - her
-- - day
-  - only
-  - dobson
-- - been
-  - followed
-  - dobson
-- - been
-  - any
-  - suggestion
-- - integuments
-  - are
-  - wires
-- - cranial
-  - integuments
-  - are
-- - below
-  - promised
-  - so
-- - wires
-  - which
-  - transmit
-- - rags
-  - who
-  - could
-- - bats
-  - are
-  - legion
-- - little
-  - more
-  - than
-- - those
-  - unread
-  - out
-- - dobson
-  - slumped
-  - into
-- - being
-  - has
-  - ever
-- - if
-  - dobson
-  - lived
-- - down
-  - inclines
-  - into
-- - once
-  - stood
-  - there
-- - 'no'
-  - other
-  - human
-- - dobson
-  - then
-  - did
-- - some
-  - thought
-  - could
-- - ever
-  - trod
-  - there
-- - doesn't
-  - matter
-  - which
-- - all
-  - those
-  - unread
-- - who
-  - replaced
-  - him
-- - forwarded
-  - an
-  - email
+  - alphonso
 story:
   date: 2006-12-07
   id: 2006-12-07-dobson-and-longevity

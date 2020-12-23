@@ -1,4 +1,10 @@
 ngrams:
+- - exterior
+  - cranial
+  - integument
+- - cranial
+  - integument
+  - eugene
 - - breed
   - poisonous
   - vapors
@@ -17,6 +23,9 @@ ngrams:
 - - teeming
   - millions
   - dozens
+- - integument
+  - eugene
+  - field
 - - books
   - miss
   - susan
@@ -53,6 +62,9 @@ ngrams:
 - - quotation
   - first
   - appeared
+- - capillary
+  - growth
+  - upon
 - - reflected
   - downward
   - upon
@@ -71,6 +83,9 @@ ngrams:
 - - entertain
   - readers
   - may
+- - she
+  - furthermore
+  - maintains
 - - wrote
   - among
   - many
@@ -89,6 +104,9 @@ ngrams:
 - - consequently
   - died
   - she
+- - died
+  - she
+  - furthermore
 - - readers
   - may
   - wish
@@ -119,24 +137,6 @@ ngrams:
 - - other
   - causes
   - first
-- - many
-  - other
-  - works
-- - among
-  - many
-  - other
-- - day
-  - between
-  - now
-- - came
-  - mewling
-  - into
-- - so
-  - properly
-  - shaded
-- - will
-  - post
-  - each
 story:
   date: 2013-12-14
   id: 2013-12-14-tenth-anniversary-i

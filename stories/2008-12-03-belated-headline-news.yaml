@@ -1,4 +1,7 @@
 ngrams:
+- - belated
+  - headline
+  - news
 - - ago
   - moths
   - drink
@@ -11,9 +14,6 @@ ngrams:
 - - new
   - scientist
   - two
-- - scientist
-  - two
-  - years
 story:
   date: 2008-12-03
   id: 2008-12-03-belated-headline-news

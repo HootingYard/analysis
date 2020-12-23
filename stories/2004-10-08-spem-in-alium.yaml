@@ -1,4 +1,7 @@
 ngrams:
+- - howard
+  - marvin
+  - gaye
 - - michael
   - howard's
   - conservative
@@ -11,6 +14,9 @@ ngrams:
 - - record
   - companies
   - selling
+- - tammi
+  - terrell
+  - soul
 - - voices
   - thomas
   - tallis
@@ -50,6 +56,15 @@ ngrams:
 - - astonishing
   - affinity
   - between
+- - gaye
+  - nor
+  - tammi
+- - nor
+  - tammi
+  - terrell
+- - marvin
+  - gaye
+  - nor
 - - big
   - close
   - listening
@@ -89,21 +104,6 @@ ngrams:
 - - when
   - nobody
   - knows
-- - will
-  - forgive
-  - tim
-- - who
-  - think
-  - garlic
-- - leaden
-  - days
-  - when
-- - days
-  - when
-  - nobody
-- - those
-  - who
-  - think
 story:
   date: 2004-10-08
   id: 2004-10-08-spem-in-alium

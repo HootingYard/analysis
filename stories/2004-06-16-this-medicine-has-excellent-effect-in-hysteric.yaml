@@ -1,4 +1,7 @@
 ngrams:
+- - frequent
+  - fainting
+  - lowness
 - - salts
   - bodily
   - exercise
@@ -8,6 +11,9 @@ ngrams:
 - - complaints
   - especially
   - riding
+- - sorts
+  - contributes
+  - greatly
 - - suffocation
   - difficult
   - breathing
@@ -41,6 +47,9 @@ ngrams:
 - - has
   - excellent
   - effect
+- - all
+  - sorts
+  - contributes
 - - continued
   - some
   - time
@@ -50,15 +59,6 @@ ngrams:
 - - hypochondriac
   - persons
   - are
-- - persons
-  - are
-  - subject
-- - matthew
-  - turner
-  - an
-- - turner
-  - an
-  - account
 story:
   date: 2004-06-16
   id: 2004-06-16-this-medicine-has-excellent-effect-in-hysteric

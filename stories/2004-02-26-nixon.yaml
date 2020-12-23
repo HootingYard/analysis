@@ -23,6 +23,9 @@ ngrams:
 - - every
   - political
   - scandal
+- - dog
+  - called
+  - checkers
 - - after
   - nixon's
   - resignation
@@ -68,9 +71,6 @@ ngrams:
 - - inevitably
   - one
   - thinks
-- - they
-  - occurred
-  - after
 story:
   date: 2004-02-26
   id: 2004-02-26-nixon

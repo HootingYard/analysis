@@ -8,6 +8,9 @@ ngrams:
 - - senior
   - management
   - vowed
+- - ornithology
+  - theology
+  - inquisitor
 - - christian
   - ethics
   - henceforth
@@ -32,6 +35,9 @@ ngrams:
 - - peevish
   - complaint
   - recent
+- - theology
+  - inquisitor
+  - general
 - - inaugural
   - director
   - general
@@ -152,12 +158,6 @@ ngrams:
 - - heron
   - after
   - her
-- - after
-  - her
-  - kind
-- - your
-  - sins
-  - may
 story:
   date: 2017-10-31
   id: 2017-10-31-birds-and-bats-and-the-bible-and-the-bbc

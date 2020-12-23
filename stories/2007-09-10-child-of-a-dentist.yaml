@@ -11,6 +11,9 @@ ngrams:
 - - salesman
   - named
   - don
+- - blind
+  - huxley
+  - answered
 - - young
   - vacuum
   - cleaner
@@ -29,6 +32,12 @@ ngrams:
 - - named
   - don
   - van
+- - both
+  - aldous
+  - huxley
+- - almost
+  - blind
+  - huxley
 - - end
   - this
   - squib
@@ -44,15 +53,6 @@ ngrams:
 - - could
   - end
   - this
-- - incidentally
-  - not
-  - long
-- - not
-  - long
-  - before
-- - as
-  - captain
-  - beefheart
 story:
   date: 2007-09-10
   id: 2007-09-10-child-of-a-dentist

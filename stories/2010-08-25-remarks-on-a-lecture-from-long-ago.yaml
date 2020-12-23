@@ -2,6 +2,9 @@ ngrams:
 - - solipsistic
   - babbling
   - normal
+- - national
+  - geographic
+  - magazine
 - - babbling
   - normal
   - service
@@ -140,6 +143,9 @@ ngrams:
 - - different
   - page
   - or
+- - geographic
+  - magazine
+  - from
 - - at
   - surrealist
   - automatic
@@ -161,12 +167,6 @@ ngrams:
 - - lecture
   - from
   - long
-- - from
-  - long
-  - ago
-- - from
-  - long
-  - ago
 story:
   date: 2010-08-25
   id: 2010-08-25-remarks-on-a-lecture-from-long-ago

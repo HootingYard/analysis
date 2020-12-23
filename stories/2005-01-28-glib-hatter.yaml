@@ -1,13 +1,28 @@
 ngrams:
+- - glib
+  - hatter
+  - cheats
+- - glib
+  - hatter
+  - steals
 - - president
   - nixon's
   - disgraced
 - - ringo
   - starr
   - floats
+- - glib
+  - hatter
+  - gets
 - - faint
   - beam
   - aimed
+- - glib
+  - hatter
+  - falling
+- - hatter
+  - gets
+  - mixed
 - - r
   - bob
   - haldeman
@@ -90,6 +105,12 @@ ngrams:
   - nine
   - o'
 - - old
+  - mister
+  - sawbones
+- - glib
+  - hatter
+  - many
+- - old
   - farmer
   - frack
 - - after
@@ -104,6 +125,12 @@ ngrams:
 - - named
   - after
   - president
+- - hatter
+  - many
+  - times
+- - hatter
+  - falling
+  - down
 - - blind
   - man
   - getting
@@ -212,6 +239,9 @@ ngrams:
 - - little
   - more
   - alert
+- - glib
+  - hatter
+  - when
 - - she
   - retained
   - after
@@ -221,6 +251,9 @@ ngrams:
 - - your
   - mind's
   - eye
+- - when
+  - playing
+  - whist
 - - shutters
   - were
   - closed
@@ -302,6 +335,9 @@ ngrams:
 - - mother
   - after
   - all
+- - glib
+  - hatter
+  - one
 - - cooking
   - one
   - plump
@@ -320,6 +356,12 @@ ngrams:
 - - one
   - plump
   - hand
+- - sawbones
+  - had
+  - chopped
+- - mister
+  - sawbones
+  - had
 - - would
   - only
   - get
@@ -335,48 +377,6 @@ ngrams:
 - - sometimes
   - she
   - would
-- - left
-  - knee
-  - or
-- - had
-  - spent
-  - reading
-- - so
-  - many
-  - years
-- - smock
-  - filthy
-  - from
-- - filthy
-  - from
-  - cooking
-- - been
-  - about
-  - four
-- - all
-  - tucked
-  - up
-- - times
-  - but
-  - usually
-- - only
-  - one
-  - knee
-- - beam
-  - aimed
-  - at
-- - literally
-  - squat
-  - at
-- - cheats
-  - at
-  - cards
-- - argue
-  - over
-  - this
-- - had
-  - two
-  - knees
 story:
   date: 2005-01-28
   id: 2005-01-28-glib-hatter

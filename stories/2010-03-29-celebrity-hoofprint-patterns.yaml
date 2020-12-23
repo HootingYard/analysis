@@ -1,4 +1,7 @@
 ngrams:
+- - aerosol
+  - repellant
+  - canister
 - - lee
   - harvey
   - oswald's
@@ -107,6 +110,9 @@ ngrams:
 - - coffee
   - table
   - book
+- - repellant
+  - canister
+  - see
 - - old
   - farmer
   - frack
@@ -203,12 +209,6 @@ ngrams:
 - - standard
   - iconography
   - will
-- - indeed
-  - neck
-  - up
-- - revelation
-  - if
-  - written
 story:
   date: 2010-03-29
   id: 2010-03-29-celebrity-hoofprint-patterns

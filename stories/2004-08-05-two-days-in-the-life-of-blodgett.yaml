@@ -1,4 +1,7 @@
 ngrams:
+- - introspection
+  - cd
+  - blaring
 - - acquisition
   - analysis
   - models
@@ -17,6 +20,9 @@ ngrams:
 - - secret
   - receiver
   - ignoring
+- - dinner
+  - party
+  - snetterton
 - - breakfast
   - cereal
   - packet
@@ -173,12 +179,6 @@ ngrams:
 - - shaving
   - mirror
   - but
-- - cereal
-  - packet
-  - but
-- - knew
-  - this
-  - place
 story:
   date: 2004-08-05
   id: 2004-08-05-two-days-in-the-life-of-blodgett

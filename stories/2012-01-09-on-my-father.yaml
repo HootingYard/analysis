@@ -2,6 +2,9 @@ ngrams:
 - - harvest
   - mervyn
   - leroy
+- - hated
+  - monty
+  - python
 - - colleague
   - mike
   - gibbs
@@ -14,6 +17,9 @@ ngrams:
 - - manchester
   - united
   - match
+- - toc
+  - h
+  - lamp
 - - soviet
   - propaganda
   - magazine
@@ -254,6 +260,9 @@ ngrams:
 - - reginald
   - maudling
   - but
+- - monty
+  - python
+  - but
 - - python
   - but
   - loved
@@ -293,15 +302,6 @@ ngrams:
 - - teeth
   - extracted
   - at
-- - garden
-  - parties
-  - at
-- - context
-  - or
-  - how
-- - one
-  - should
-  - never
 story:
   date: 2012-01-09
   id: 2012-01-09-on-my-father

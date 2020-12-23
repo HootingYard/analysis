@@ -1,4 +1,10 @@
 ngrams:
+- - deliberately
+  - confusing
+  - vespasian
+- - vespasian
+  - critics
+  - alleged
 - - college
   - student
   - population
@@ -14,6 +20,9 @@ ngrams:
 - - law
   - enforcement
   - officials
+- - roman
+  - emperor
+  - vespasian
 - - american
   - college
   - student
@@ -35,6 +44,12 @@ ngrams:
 - - church
   - initially
   - successful
+- - living
+  - emperor
+  - vespasian
+- - emperor
+  - vespasian
+  - placed
 - - thick
   - hardback
   - volume
@@ -53,6 +68,9 @@ ngrams:
 - - untimely
   - death
   - christopher
+- - god
+  - vespasian
+  - slaughtered
 - - death
   - christopher
   - hitchens
@@ -62,6 +80,12 @@ ngrams:
 - - nigh
   - impossible
   - almost
+- - vespasian
+  - '-'
+  - ad
+- - emperor
+  - vespasian
+  - '-'
 - - branch
   - claiming
   - several
@@ -143,6 +167,15 @@ ngrams:
 - - case
   - today
   - particularly
+- - blairite
+  - third
+  - way
+- - blairite
+  - third
+  - way
+- - birth
+  - any
+  - godlike
 - - may
   - change
   - inevitably
@@ -197,6 +230,9 @@ ngrams:
 - - despised
   - philosophers
   - who
+- - any
+  - godlike
+  - being
 - - knock
   - some
   - sense
@@ -230,6 +266,9 @@ ngrams:
 - - might
   - knock
   - some
+- - vespasian
+  - slaughtered
+  - all
 - - '-'
   - ad
   - were
@@ -266,6 +305,9 @@ ngrams:
 - - incidents
   - are
   - rarely
+- - would
+  - vespasian
+  - himself
 - - other
   - far
   - more
@@ -278,48 +320,6 @@ ngrams:
 - - built
   - ones
   - are
-- - ones
-  - are
-  - used
-- - energetically
-  - than
-  - they
-- - than
-  - they
-  - hate
-- - they
-  - saw
-  - how
-- - divinity
-  - this
-  - remains
-- - content
-  - this
-  - led
-- - slaughtered
-  - all
-  - other
-- - said
-  - they
-  - hope
-- - all
-  - other
-  - gods
-- - some
-  - sense
-  - into
-- - toilets
-  - public
-  - or
-- - or
-  - wee
-  - free
-- - wee
-  - free
-  - or
-- - only
-  - thing
-  - they
 story:
   date: 2012-11-01
   id: 2012-11-01-on-vespasian

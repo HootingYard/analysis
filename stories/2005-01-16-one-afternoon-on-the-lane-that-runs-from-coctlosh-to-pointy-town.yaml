@@ -1,4 +1,10 @@
 ngrams:
+- - pyre
+  - innocents
+  - raped
+- - claw
+  - neurosurgeons
+  - scream
 - - funeral
   - pyre
   - innocents
@@ -23,9 +29,15 @@ ngrams:
 - - jellied
   - kiwi
   - fruit
+- - iron
+  - claw
+  - neurosurgeons
 - - fruit
   - lozenges
   - mayonnaise
+- - meet
+  - genius
+  - chutzpah
 - - purchases
   - including
   - aniseed
@@ -47,24 +59,36 @@ ngrams:
 - - victorian
   - jesuit
   - poet
+- - chutzpah
+  - blood
+  - rack
 - - dark
   - enticing
   - flap
 - - blood
   - rack
   - barbed
+- - chutzpah
+  - round
+  - spectacles
 - - tuesday
   - th
   - december
 - - afternoon
   - sun
   - glistened
+- - genius
+  - chutzpah
+  - round
 - - cat's
   - foot
   - iron
 - - foot
   - iron
   - claw
+- - shows
+  - chutzpah
+  - blood
 - - shiny
   - high
   - forehead
@@ -134,30 +158,6 @@ ngrams:
 - - way
   - home
   - along
-- - even
-  - though
-  - others
-- - beg
-  - your
-  - pardon
-- - 'no'
-  - longer
-  - sitting
-- - man
-  - who
-  - managed
-- - we
-  - find
-  - ourselves
-- - rarely
-  - we
-  - find
-- - how
-  - rarely
-  - we
-- - an
-  - electric
-  - guitar
 story:
   date: 2005-01-16
   id: 2005-01-16-one-afternoon-on-the-lane-that-runs-from-coctlosh-to-pointy-town

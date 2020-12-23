@@ -1,4 +1,7 @@
 ngrams:
+- - legendary
+  - pooch
+  - checkers
 - - book
   - norman
   - davies
@@ -26,9 +29,6 @@ ngrams:
 - - wood
   - when
   - broken
-- - old
-  - wood
-  - when
 story:
   date: 2005-07-21
   id: 2005-07-21-paragraph-about-a-pooch

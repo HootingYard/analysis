@@ -2,6 +2,12 @@ ngrams:
 - - cubicles
   - ventilation
   - shafts
+- - indoor
+  - fountains
+  - conservatories
+- - satchels
+  - purses
+  - vanity
 - - dingy
   - unlit
   - corridors
@@ -23,12 +29,18 @@ ngrams:
 - - stinking
   - poisonous
   - spiky
+- - cloth
+  - hammock
+  - bandbox
 - - poisonous
   - spiky
   - foliage
 - - foliage
   - lumber
   - rooms
+- - hammock
+  - bandbox
+  - badger
 - - gigantic
   - indoor
   - fountains
@@ -41,18 +53,36 @@ ngrams:
 - - handy
   - utensil
   - pick
+- - fountains
+  - conservatories
+  - filled
 - - gunny
   - sack
   - reticule
 - - shafts
   - dust
   - holes
+- - schmid
+  - flagellant
+  - king
+- - bag
+  - bandbox
+  - reticule
 - - purses
   - vanity
   - bag
+- - vanity
+  - bag
+  - bandbox
 - - duffel
   - bag
   - tottering
+- - badger
+  - tin
+  - caddies
+- - bandbox
+  - badger
+  - tin
 - - bag
   - cloth
   - hammock
@@ -92,6 +122,9 @@ ngrams:
 - - bag
   - tottering
   - under
+- - two
+  - satchels
+  - purses
 - - life
   - past
   - gigantic
@@ -134,39 +167,6 @@ ngrams:
 - - hat
   - she
   - shuddered
-- - hear
-  - her
-  - shawl
-- - removed
-  - her
-  - hat
-- - burned
-  - alongside
-  - him
-- - her
-  - sightless
-  - eyes
-- - shut
-  - behind
-  - her
-- - floor
-  - behind
-  - her
-- - unlit
-  - corridors
-  - up
-- - utensil
-  - pick
-  - up
-- - 'no'
-  - longer
-  - vivid
-- - hurry
-  - after
-  - her
-- - were
-  - curiously
-  - absent
 story:
   date: 2006-01-27
   id: 2006-01-27-e-is-for-euwige

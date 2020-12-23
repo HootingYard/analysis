@@ -29,6 +29,9 @@ ngrams:
 - - yeast
   - zinnias
   - method
+- - jackdaw
+  - feathers
+  - ketchup
 - - zinnias
   - method
   - pound
@@ -128,9 +131,6 @@ ngrams:
 - - quote
   - this
   - splendid
-- - this
-  - splendid
-  - passage
 story:
   date: 2004-04-08
   id: 2004-04-08-alphabet-soup

@@ -14,6 +14,12 @@ ngrams:
 - - thor
   - compressed
   - within
+- - immobile
+  - given
+  - volition
+- - given
+  - volition
+  - movement
 - - afraid
   - well
   - '-'
@@ -32,12 +38,6 @@ ngrams:
 - - outside
   - all
   - experience
-- - beyond
-  - all
-  - knowledge
-- - were
-  - metal
-  - things
 story:
   date: 2004-04-06
   id: 2004-04-06-afraid-well-so-was-i

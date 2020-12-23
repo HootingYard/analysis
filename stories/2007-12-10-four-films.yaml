@@ -2,6 +2,9 @@ ngrams:
 - - terrestrial
   - channels
   - tonight
+- - gilmore
+  - feeble
+  - sports
 - - tedious
   - adventure
   - itv
@@ -23,6 +26,9 @@ ngrams:
 - - darkness
   - tedious
   - adventure
+- - happy
+  - gilmore
+  - feeble
 - - sports
   - comedy
   - five
@@ -35,21 +41,15 @@ ngrams:
 - - comedy
   - channel
   - four
+- - four
+  - happy
+  - gilmore
 - - channel
   - four
   - happy
 - - write
   - capsule
   - film
-- - film
-  - reviews
-  - since
-- - own
-  - faltering
-  - steps
-- - four
-  - films
-  - long
 story:
   date: 2007-12-10
   id: 2007-12-10-four-films

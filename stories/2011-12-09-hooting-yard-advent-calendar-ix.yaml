@@ -1,4 +1,13 @@
 ngrams:
+- - calendar
+  - ix
+  - yesterday's
+- - ix
+  - yesterday's
+  - advent
+- - advent
+  - calendar
+  - ix
 - - yesterday's
   - advent
   - calendar
@@ -11,15 +20,6 @@ ngrams:
 - - advent
   - calendar
   - picture
-- - yard
-  - advent
-  - calendar
-- - hooting
-  - yard
-  - advent
-- - your
-  - bed
-  - whimpering
 story:
   date: 2011-12-09
   id: 2011-12-09-hooting-yard-advent-calendar-ix

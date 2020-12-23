@@ -2,6 +2,12 @@ ngrams:
 - - maxwell
   - davies
   - calls
+- - comment
+  - arrives
+  - rahul
+- - arrives
+  - rahul
+  - tells
 - - peter
   - maxwell
   - davies
@@ -26,6 +32,9 @@ ngrams:
 - - cannot
   - help
   - wondering
+- - rahul
+  - tells
+  - us
 - - india
   - weeks
   - after
@@ -44,15 +53,6 @@ ngrams:
 - - booster
   - technology
   - but
-- - model
-  - too
-  - had
-- - lives
-  - over
-  - at
-- - refrigerator
-  - but
-  - 'no'
 story:
   date: 2013-09-24
   id: 2013-09-24-one-of-the-best-refrigerators-in-india

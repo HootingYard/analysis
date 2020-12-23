@@ -29,6 +29,9 @@ ngrams:
 - - sherlock
   - holmes
   - devoted
+- - majestic
+  - sweeping
+  - concatenations
 - - jethro
   - tull
   - songs
@@ -104,6 +107,9 @@ ngrams:
 - - farm
   - man
   - note
+- - docent
+  - like
+  - sherlock
 - - like
   - sherlock
   - holmes
@@ -140,6 +146,12 @@ ngrams:
 - - something
   - very
   - very
+- - superb
+  - educator
+  - were
+- - bloodless
+  - lips
+  - were
 - - let
   - us
   - now
@@ -173,18 +185,6 @@ ngrams:
 - - footage
   - there
   - seems
-- - words
-  - were
-  - turned
-- - about
-  - umbrella
-  - man
-- - lunchtime
-  - preferences
-  - which
-- - very
-  - familiar
-  - about
 story:
   date: 2006-07-18
   id: 2006-07-18-docent-with-a-speech-impediment

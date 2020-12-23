@@ -1,4 +1,13 @@
 ngrams:
+- - reporter
+  - velma
+  - nebraska
+- - roving
+  - reporter
+  - velma
+- - velma
+  - nebraska
+  - writes
 - - growing
   - topiary
   - incidentally
@@ -23,15 +32,6 @@ ngrams:
 - - search
   - for
   - famous
-- - his
-  - wife
-  - shears
-- - work
-  - as
-  - far
-- - nil
-  - what
-  - is
 story:
   date: 2004-12-09
   id: 2004-12-09-the-crucial-importance-of-topiary

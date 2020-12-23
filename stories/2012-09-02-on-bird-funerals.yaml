@@ -152,6 +152,9 @@ ngrams:
 - - seagulls
   - came
   - swooping
+- - birds
+  - hold
+  - funerals
 - - dead
   - bird
   - appearing
@@ -344,9 +347,6 @@ ngrams:
 - - stalked
   - 'off'
   - 'no'
-- - they
-  - conducted
-  - experiments
 story:
   date: 2012-09-02
   id: 2012-09-02-on-bird-funerals

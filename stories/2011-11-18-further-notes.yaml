@@ -5,12 +5,24 @@ ngrams:
 - - ornate
   - metalwork
   - funnel
+- - concrete
+  - dredger
+  - barge
 - - coarse
   - sand
   - dredged
+- - sand
+  - nightly
+  - deployed
+- - dredger
+  - barge
+  - built
 - - industrial
   - dredging
   - machine
+- - mighty
+  - concrete
+  - dredger
 - - dredging
   - machine
   - frank
@@ -71,18 +83,6 @@ ngrams:
 - - undoubtedly
   - boost
   - your
-- - will
-  - undoubtedly
-  - boost
-- - drown
-  - they
-  - dredge
-- - its
-  - provenance
-  - do
-- - thought
-  - about
-  - doing
 story:
   date: 2011-11-18
   id: 2011-11-18-further-notes

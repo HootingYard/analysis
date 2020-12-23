@@ -26,9 +26,15 @@ ngrams:
 - - facing
   - utter
   - penury
+- - reclusive
+  - american
+  - billionaire
 - - bar
   - codes
   - quoting
+- - american
+  - billionaire
+  - fundamentalist
 - - abstruse
   - weird
   - unfathomably
@@ -71,6 +77,9 @@ ngrams:
 - - name
   - dobson's
   - system
+- - billionaire
+  - fundamentalist
+  - dobson
 - - never
   - understood
   - completely
@@ -107,24 +116,15 @@ ngrams:
 - - anyone
   - has
   - insight
+- - 'no'
+  - negative
+  - associations
 - - might
   - mean
   - dobson
 - - its
   - name
   - dobson's
-- - let
-  - him
-  - calculate
-- - insight
-  - let
-  - him
-- - has
-  - insight
-  - let
-- - man
-  - nor
-  - even
 story:
   date: 2004-08-14
   id: 2004-08-14-bode-code

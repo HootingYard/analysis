@@ -1,10 +1,16 @@
 ngrams:
+- - kicking
+  - mister
+  - compton's
 - - prison
   - cell
   - accused
 - - stinking
   - gutter
   - greasy
+- - mister
+  - compton's
+  - crushed
 - - mister
   - compton
   - lies
@@ -20,6 +26,9 @@ ngrams:
 - - foul
   - filthy
   - stinking
+- - compton's
+  - crushed
+  - hat
 - - graveyard
   - oh
   - cassowary
@@ -89,15 +98,6 @@ ngrams:
 - - your
   - sinful
   - heart
-- - eyes
-  - lit
-  - up
-- - can
-  - never
-  - forgive
-- - disfigured
-  - your
-  - face
 story:
   date: 2004-05-05
   id: 2004-05-05-once-upon-a-time

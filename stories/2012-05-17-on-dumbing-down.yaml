@@ -80,6 +80,9 @@ ngrams:
 - - fat
   - old
   - pig
+- - wild
+  - man
+  - clothed
 - - fierce
   - wild
   - man
@@ -419,9 +422,6 @@ ngrams:
 - - has
   - always
   - been
-- - books
-  - which
-  - might
 story:
   date: 2012-05-17
   id: 2012-05-17-on-dumbing-down

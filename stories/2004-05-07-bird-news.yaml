@@ -20,9 +20,15 @@ ngrams:
 - - another
   - gaseous
   - medium
+- - yard
+  - recommends
+  - wikipedia
 - - medium
   - gas
   - being
+- - world
+  - interlinked
+  - hooting
 - - bird
   - news
   - many
@@ -32,6 +38,12 @@ ngrams:
 - - life
   - through
   - molt
+- - interlinked
+  - hooting
+  - yard
+- - hooting
+  - yard
+  - recommends
 - - periodically
   - during
   - its
@@ -44,18 +56,6 @@ ngrams:
 - - man
   - who
   - devoted
-- - are
-  - replaced
-  - periodically
-- - bird's
-  - feathers
-  - are
-- - feathers
-  - are
-  - replaced
-- - are
-  - commonly
-  - covered
 story:
   date: 2004-05-07
   id: 2004-05-07-bird-news

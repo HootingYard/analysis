@@ -128,6 +128,9 @@ ngrams:
 - - rubbish
   - about
   - giants
+- - scribes
+  - who
+  - work
 - - heavenly
   - profusion
   - when
@@ -179,9 +182,15 @@ ngrams:
 - - yesterday's
   - scribblings
   - one
+- - relays
+  - one
+  - follows
 - - scribblings
   - one
   - types
+- - pod
+  - one
+  - supervises
 - - doings
   - one
   - sits
@@ -227,15 +236,6 @@ ngrams:
 - - this
   - question
   - while
-- - boswell
-  - or
-  - rather
-- - up
-  - beside
-  - me
-- - one
-  - topples
-  - over
 story:
   date: 2006-11-29
   id: 2006-11-29-the-potatoes-of-potatovag

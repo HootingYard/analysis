@@ -68,6 +68,9 @@ ngrams:
 - - hill
   - while
   - shepherds
+- - wristwatch
+  - tock
+  - 'off'
 - - lorries
   - ever
   - comes
@@ -95,9 +98,6 @@ ngrams:
 - - watched
   - their
   - flocks
-- - their
-  - terrified
-  - sheep
 story:
   date: 2015-03-30
   id: 2015-03-30-on-pugton-hill

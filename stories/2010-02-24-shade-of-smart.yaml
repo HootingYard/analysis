@@ -5,6 +5,9 @@ ngrams:
 - - iconic
   - oregon
   - symbol
+- - usa
+  - brit
+  - unearthed
 - - dungeness
   - crab
   - fishery
@@ -47,6 +50,12 @@ ngrams:
 - - house
   - joint
   - resolution
+- - unearthed
+  - house
+  - joint
+- - brit
+  - unearthed
+  - house
 - - important
   - municipal
   - building
@@ -89,15 +98,6 @@ ngrams:
 - - rather
   - than
   - christopher
-- - whereas
-  - rather
-  - than
-- - crabs
-  - can
-  - fill
-- - management
-  - method
-  - has
 story:
   date: 2010-02-24
   id: 2010-02-24-shade-of-smart

@@ -1,4 +1,10 @@
 ngrams:
+- - belated
+  - birthday
+  - celebration
+- - slightly
+  - belated
+  - birthday
 - - asiatic
   - woman
   - kenneth
@@ -8,12 +14,6 @@ ngrams:
 - - kenneth
   - williams
   - thought
-- - dabbler
-  - this
-  - week
-- - birthday
-  - celebration
-  - for
 story:
   date: 2012-02-24
   id: 2012-02-24-ono-dabblo

@@ -5,6 +5,9 @@ ngrams:
 - - dimity
   - cashew
   - vi
+- - cashew
+  - vi
+  - viii
 - - miss
   - dimity
   - cashew
@@ -17,9 +20,6 @@ ngrams:
 - - manufactured
   - metal
   - pavement
-- - misspelled
-  - signage
-  - oh
 story:
   date: 2011-08-12
   id: 2011-08-12-signage

@@ -11,6 +11,12 @@ ngrams:
 - - cumulus
   - cumulonimbus
   - stratus
+- - vilma
+  - banky
+  - tyrone
+- - rains
+  - vilma
+  - banky
 - - edna
   - purviance
   - dorothy
@@ -26,6 +32,9 @@ ngrams:
 - - doppelganger
   - gazette
   - reported
+- - gerard
+  - manley
+  - hopkins'
 - - quaker
   - cloud
   - classifier
@@ -86,6 +95,9 @@ ngrams:
 - - pet
   - rescue
   - squadron
+- - banky
+  - tyrone
+  - power
 - - tyrone
   - power
   - edna
@@ -365,6 +377,9 @@ ngrams:
 - - after
   - eight
   - weeks
+- - earth's
+  - surface
+  - where
 - - paid
   - fiends
   - even
@@ -716,21 +731,6 @@ ngrams:
 - - placed
   - an
   - advertisement
-- - one
-  - vital
-  - check
-- - what
-  - may
-  - until
-- - seven
-  - interrogators
-  - one
-- - otherwise
-  - we
-  - might
-- - this
-  - blasphemous
-  - ted
 story:
   date: 2005-07-08
   id: 2005-07-08-the-new-goat

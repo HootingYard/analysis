@@ -32,6 +32,9 @@ ngrams:
 - - bizarre
   - pubs
   - potato
+- - frank's
+  - shorter
+  - works
 - - magazine
   - indefatigable
   - editor
@@ -83,6 +86,9 @@ ngrams:
 - - thing
   - maddeningly
   - sensible
+- - frank's
+  - writing
+  - quite
 - - most
   - utter
   - nonsense
@@ -110,6 +116,9 @@ ngrams:
 - - ago
   - another
   - thing
+- - like
+  - frank's
+  - writing
 - - more
   - bizarre
   - prose
@@ -119,15 +128,6 @@ ngrams:
 - - too
   - should
   - own
-- - pamphlet
-  - more
-  - bizarre
-- - wildly
-  - funny
-  - some
-- - ogre
-  - who
-  - proves
 story:
   date: 2017-10-02
   id: 2017-10-02-thirty-years-ago

@@ -1,4 +1,7 @@
 ngrams:
+- - franchised
+  - workshops
+  - dotted
 - - workshops
   - dotted
   - haphazardly
@@ -77,6 +80,9 @@ ngrams:
 - - bloody
   - good
   - idea
+- - many
+  - franchised
+  - workshops
 - - idea
   - i'm
   - going
@@ -125,12 +131,6 @@ ngrams:
 - - autumn
   - day
   - under
-- - little
-  - voice
-  - mr
-- - exercised
-  - almost
-  - like
 story:
   date: 2004-12-07
   id: 2004-12-07-meldrum-fonseca-uber-trombonist

@@ -1,4 +1,7 @@
 ngrams:
+- - aldous
+  - huxley
+  - music
 - - mr
   - james
   - douglas
@@ -29,9 +32,6 @@ ngrams:
 - - douglas
   - would
   - rather
-- - would
-  - rather
-  - give
 story:
   date: 2004-05-19
   id: 2004-05-19-mr-james-douglas-would-rather-give-a

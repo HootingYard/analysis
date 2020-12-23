@@ -1,4 +1,10 @@
 ngrams:
+- - poker
+  - rembrandt's
+  - whore
+- - rembrandt's
+  - whore
+  - dorothy
 - - cambridge
   - universities
   - rife
@@ -74,6 +80,9 @@ ngrams:
 - - first
   - only
   - fiction
+- - author
+  - buoys
+  - up
 - - opinion
   - what
   - bothers
@@ -110,15 +119,6 @@ ngrams:
 - - milton
   - knows
   - this
-- - has
-  - been
-  - twisted
-- - 'no'
-  - opinion
-  - what
-- - everyday
-  - or
-  - whimsical
 story:
   date: 2004-04-05
   id: 2004-04-05-rant

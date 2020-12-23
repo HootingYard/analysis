@@ -11,6 +11,12 @@ ngrams:
 - - windy
   - uninhabited
   - plains
+- - schnapps
+  - von
+  - daniken
+- - erich
+  - von
+  - daniken
 - - researcher
   - erich
   - von
@@ -20,6 +26,9 @@ ngrams:
 - - troglodyte
   - beings
   - inhabiting
+- - glee
+  - von
+  - daniken
 - - looming
   - swiss
   - alps
@@ -38,6 +47,9 @@ ngrams:
 - - sensible
   - swiss
   - researcher
+- - von
+  - daniken
+  - b
 - - subterranean
   - cave
   - beings
@@ -203,18 +215,6 @@ ngrams:
 - - caves
   - setting
   - up
-- - down
-  - down
-  - deeper
-- - say
-  - she
-  - discovered
-- - could
-  - already
-  - see
-- - when
-  - plucky
-  - tot
 story:
   date: 2010-12-21
   id: 2010-12-21-cavemens-chute-pivots

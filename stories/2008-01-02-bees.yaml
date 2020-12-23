@@ -2,6 +2,12 @@ ngrams:
 - - busy
   - watching
   - bees
+- - natural
+  - history
+  - museum's
+- - history
+  - museum's
+  - live
 - - every
   - waking
   - hour
@@ -26,12 +32,6 @@ ngrams:
 - - saying
   - about
   - turning
-- - about
-  - turning
-  - hooting
-- - they
-  - haven't
-  - quite
 story:
   date: 2008-01-02
   id: 2008-01-02-bees

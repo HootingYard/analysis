@@ -5,6 +5,9 @@ ngrams:
 - - numidian
   - fowl
   - flamingos
+- - bustard
+  - cranes
+  - storks
 - - coots
   - pheasants
   - numidian
@@ -128,6 +131,9 @@ ngrams:
 - - horned
   - owl
   - native
+- - cranes
+  - storks
+  - rest
 - - eggs
   - defective
   - hatching
@@ -776,12 +782,6 @@ ngrams:
 - - sure
   - will
   - knock
-- - away
-  - your
-  - charges
-- - swat
-  - away
-  - your
 story:
   date: 2010-07-20
   id: 2010-07-20-dobsons-abortive-pliny

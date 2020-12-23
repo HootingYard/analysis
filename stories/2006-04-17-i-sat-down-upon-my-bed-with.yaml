@@ -1,4 +1,7 @@
 ngrams:
+- - arthur
+  - ambrose
+  - talbot
 - - frederick
   - arthur
   - ambrose
@@ -44,9 +47,6 @@ ngrams:
 - - punctuated
   - at
   - frequent
-- - at
-  - frequent
-  - intervals
 story:
   date: 2006-04-17
   id: 2006-04-17-i-sat-down-upon-my-bed-with

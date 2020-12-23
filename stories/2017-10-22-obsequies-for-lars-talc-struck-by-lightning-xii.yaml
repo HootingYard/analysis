@@ -89,9 +89,15 @@ ngrams:
 - - bosnian
   - nerve
   - gas
+- - nerve
+  - gas
+  - billionaire
 - - lowest
   - possible
   - temperature
+- - gas
+  - billionaire
+  - turps
 - - cake
   - count
   - noses
@@ -122,6 +128,9 @@ ngrams:
 - - seats
   - dr
   - hoist
+- - billionaire
+  - writing
+  - frantically
 - - dot
   - meanwhile
   - talc
@@ -263,6 +272,9 @@ ngrams:
 - - simply
   - spending
   - much
+- - follow
+  - after
+  - lunching
 - - gas
   - wear
   - 'off'
@@ -680,18 +692,6 @@ ngrams:
 - - pit
   - we
   - shall
-- - will
-  - being
-  - screeched
-- - staggering
-  - power
-  - which
-- - she
-  - said
-  - first
-- - whence
-  - we
-  - too
 story:
   date: 2017-10-22
   id: 2017-10-22-obsequies-for-lars-talc-struck-by-lightning-xii

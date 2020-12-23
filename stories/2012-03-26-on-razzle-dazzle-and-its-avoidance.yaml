@@ -1,4 +1,7 @@
 ngrams:
+- - razzle
+  - dazzle
+  - buzz
 - - retail
   - facility
   - exposure
@@ -98,6 +101,9 @@ ngrams:
 - - passing
   - strata
   - through
+- - razzle
+  - dazzle
+  - over
 - - any
   - considerable
   - size
@@ -335,12 +341,6 @@ ngrams:
 - - plunge
   - deeper
   - or
-- - deeper
-  - or
-  - clamber
-- - they
-  - grew
-  - more
 story:
   date: 2012-03-26
   id: 2012-03-26-on-razzle-dazzle-and-its-avoidance

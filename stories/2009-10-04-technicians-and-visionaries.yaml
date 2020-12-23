@@ -11,6 +11,9 @@ ngrams:
 - - feral
   - teenage
   - tearaway
+- - ordinary
+  - cobbler
+  - bound
 - - scenes
   - feral
   - teenage
@@ -128,6 +131,9 @@ ngrams:
 - - doing
   - things
   - now
+- - 'no'
+  - ordinary
+  - cobbler
 - - ply
   - their
   - trades
@@ -161,12 +167,6 @@ ngrams:
 - - tearaway
   - mothers
   - are
-- - mothers
-  - are
-  - corralled
-- - chewing
-  - over
-  - what
 story:
   date: 2009-10-04
   id: 2009-10-04-technicians-and-visionaries

@@ -26,6 +26,9 @@ ngrams:
 - - pig
   - holiday
   - hooting
+- - hooting
+  - yard
+  - recommends
 - - holiday
   - hooting
   - yard
@@ -53,9 +56,6 @@ ngrams:
 - - up
   - after
   - lunch
-- - all
-  - times
-  - bear
 story:
   date: 2005-02-17
   id: 2005-02-17-tanis-diena

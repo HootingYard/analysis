@@ -1,4 +1,10 @@
 ngrams:
+- - snotty
+  - meretricious
+  - addicted
+- - smug
+  - snotty
+  - meretricious
 - - perpetual
   - adolescents
   - contemptuous
@@ -200,12 +206,6 @@ ngrams:
 - - known
   - an
   - exasperated
-- - like
-  - all
-  - perpetual
-- - after
-  - some
-  - time
 story:
   date: 2010-08-26
   id: 2010-08-26-comprehension-test

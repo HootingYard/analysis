@@ -2,6 +2,12 @@ ngrams:
 - - dressmaker
   - abraham
   - zapruder
+- - manson
+  - cult
+  - lynette
+- - cult
+  - lynette
+  - squeaky
 - - abraham
   - zapruder
   - famously
@@ -47,6 +53,12 @@ ngrams:
 - - pop
   - singers
   - mark
+- - starring
+  - van
+  - heflin
+- - assassins
+  - john
+  - hinckley
 - - potus
   - john
   - fitzgerald
@@ -68,6 +80,12 @@ ngrams:
 - - white
   - picket
   - fence
+- - john
+  - hinckley
+  - unless
+- - checkers
+  - already
+  - passed
 - - picket
   - fence
   - known
@@ -86,9 +104,15 @@ ngrams:
 - - full
   - three
   - names
+- - mr
+  - heflin
+  - part
 - - umbrella
   - man
   - prior
+- - name
+  - also
+  - sirhan
 - - grassy
   - knoll
   - before
@@ -104,30 +128,6 @@ ngrams:
 - - questions
   - today
   - being
-- - then
-  - elderly
-  - dressmaker
-- - dallas
-  - who
-  - decided
-- - same
-  - question
-  - can
-- - assassin
-  - nomenclature
-  - when
-- - nixon
-  - flew
-  - out
-- - given
-  - their
-  - full
-- - their
-  - full
-  - three
-- - conspiracy
-  - if
-  - indeed
 story:
   date: 2004-11-22
   id: 2004-11-22-jfk-the-unanswered-questions

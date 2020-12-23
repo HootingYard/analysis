@@ -1,4 +1,7 @@
 ngrams:
+- - hangings
+  - hugh
+  - plat
 - - ham
   - stewed
   - sparrows
@@ -14,6 +17,9 @@ ngrams:
 - - badger
   - ham
   - stewed
+- - c
+  - hugh
+  - plat
 - - jack
   - warner
   - beloved
@@ -41,6 +47,9 @@ ngrams:
 - - jack
   - warner
   - 'yes'
+- - hugh
+  - plat
+  - does
 - - small
   - spring
   - ends
@@ -89,15 +98,6 @@ ngrams:
 - - years
   - old
   - obtain
-- - grain
-  - these
-  - being
-- - flies
-  - unto
-  - them
-- - some
-  - exotic
-  - sea
 story:
   date: 2012-05-24
   id: 2012-05-24-like-flies-to-a-cucumber

@@ -1,13 +1,46 @@
 ngrams:
+- - novgorod
+  - novosibirsk
+  - perm
+- - samovar
+  - svetlana
+  - b's
+- - bilingual
+  - comintern
+  - mockery
+- - ornamental
+  - samovar
+  - svetlana
+- - svetlana
+  - b's
+  - husband
+- - omsk
+  - nevertheless
+  - svetlana
+- - regular
+  - nightly
+  - broadcasts
 - - roaring
   - icy
   - gales
+- - comintern
+  - uncle
+  - joe
 - - icy
   - gales
   - sweeping
+- - ridiculed
+  - svetlana
+  - b
+- - dissident
+  - ham
+  - radio
 - - ham
   - radio
   - enthusiasts
+- - nevertheless
+  - svetlana
+  - b
 - - radio
   - shack
   - hidden
@@ -20,6 +53,12 @@ ngrams:
 - - cold
   - flat
   - spooky
+- - zoroastrianism
+  - small
+  - zoroastrian
+- - small
+  - zoroastrian
+  - communities
 - - wet
   - black
   - fens
@@ -41,6 +80,15 @@ ngrams:
 - - spigot
   - let
   - alone
+- - svetlana
+  - b
+  - took
+- - svetlana
+  - b
+  - took
+- - zoroastrian
+  - communities
+  - still
 - - communities
   - still
   - exist
@@ -68,12 +116,21 @@ ngrams:
 - - brutes
   - she
   - talked
+- - her
+  - bilingual
+  - comintern
 - - then
   - repeated
   - herself
+- - her
+  - fierce
+  - mockeries
 - - she
   - pronounced
   - fence
+- - her
+  - regular
+  - nightly
 - - pronounced
   - fence
   - her
@@ -89,63 +146,6 @@ ngrams:
 - - soul
   - who
   - mocked
-- - thing
-  - she
-  - mocked
-- - brave
-  - soul
-  - who
-- - took
-  - her
-  - samovar
-- - b
-  - took
-  - her
-- - however
-  - more
-  - often
-- - just
-  - like
-  - stalin
-- - your
-  - bedtime
-  - snack
-- - broadcasts
-  - were
-  - inaudible
-- - took
-  - 'no'
-  - chances
-- - face
-  - just
-  - like
-- - been
-  - transmitted
-  - however
-- - ever
-  - told
-  - her
-- - b
-  - took
-  - 'no'
-- - were
-  - inaudible
-  - outside
-- - more
-  - often
-  - than
-- - hot
-  - water
-  - out
-- - animals
-  - which
-  - creep
-- - nocturnal
-  - animals
-  - which
-- - english
-  - fens
-  - which
 story:
   date: 2005-01-20
   id: 2005-01-20-bilingual-comintern-mocker

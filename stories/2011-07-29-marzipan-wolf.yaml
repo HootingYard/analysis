@@ -1,4 +1,7 @@
 ngrams:
+- - adjacent
+  - pantries
+  - larders
 - - smaller
   - kinship
   - grouplet
@@ -188,9 +191,6 @@ ngrams:
 - - finished
   - making
   - your
-- - least
-  - what
-  - passes
 story:
   date: 2011-07-29
   id: 2011-07-29-marzipan-wolf

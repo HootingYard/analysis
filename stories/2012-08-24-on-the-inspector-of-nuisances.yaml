@@ -11,6 +11,9 @@ ngrams:
 - - bleach
   - bottle
   - mishaps
+- - toc
+  - h
+  - lamp
 - - strange
   - voodoo
   - idols
@@ -23,6 +26,9 @@ ngrams:
 - - pang
   - hill
   - orphanage
+- - single
+  - toc
+  - h
 - - spotted
   - half
   - hidden
@@ -353,12 +359,6 @@ ngrams:
 - - mergansers
   - or
   - indeed
-- - had
-  - come
-  - dabbling
-- - have
-  - leaned
-  - forward
 story:
   date: 2012-08-24
   id: 2012-08-24-on-the-inspector-of-nuisances

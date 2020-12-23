@@ -2,9 +2,15 @@ ngrams:
 - - union's
   - schengen
   - treaty
+- - cyclist
+  - eddy
+  - merckx
 - - european
   - union's
   - schengen
+- - belgian
+  - cyclist
+  - eddy
 - - belgian
   - tuberculosis
   - patients
@@ -260,12 +266,6 @@ ngrams:
 - - oh
   - so
   - high
-- - will
-  - also
-  - find
-- - ever
-  - occurred
-  - there
 story:
   date: 2017-09-19
   id: 2017-09-19-the-blind-goose-killer-of-urk

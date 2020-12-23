@@ -5,6 +5,12 @@ ngrams:
 - - nurses
   - breast
   - cancer
+- - milan
+  - schoolchildren
+  - students
+- - learning
+  - milan
+  - schoolchildren
 - - cartridges
   - edwardian
   - municipal
@@ -125,12 +131,6 @@ ngrams:
 - - think
   - it's
   - entirely
-- - sure
-  - how
-  - ambrose
-- - just
-  - asking
-  - keep
 story:
   date: 2005-09-22
   id: 2005-09-22-am-i-obsessed-by-bees

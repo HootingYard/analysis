@@ -23,6 +23,9 @@ ngrams:
 - - english
   - civil
   - war
+- - cromwellian
+  - soldier
+  - during
 - - unreasonable
   - idea
   - pestilence
@@ -80,6 +83,9 @@ ngrams:
 - - remember
   - it's
   - under
+- - divinely
+  - inspired
+  - back
 - - unclear
   - whether
   - these
@@ -104,6 +110,9 @@ ngrams:
 - - doubt
   - some
   - canny
+- - oversimplifying
+  - 'no'
+  - doubt
 - - some
   - carrots
   - next
@@ -113,15 +122,6 @@ ngrams:
 - - repent
   - your
   - sins
-- - could
-  - act
-  - through
-- - any
-  - other
-  - malady
-- - other
-  - malady
-  - such
 story:
   date: 2005-01-28
   id: 2005-01-28-scrofula-and-penitence-in-the-middle-ages

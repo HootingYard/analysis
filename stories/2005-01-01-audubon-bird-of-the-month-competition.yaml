@@ -5,6 +5,9 @@ ngrams:
 - - presidential
   - guillemots
   - supplementary
+- - ix
+  - presidential
+  - guillemots
 - - lesser
   - pierre
   - wins
@@ -17,9 +20,15 @@ ngrams:
 - - lady
   - barbara
   - bush
+- - series
+  - ix
+  - presidential
 - - whose
   - entry
   - reads
+- - guillemots
+  - three
+  - toed
 - - course
   - stands
   - guard
@@ -53,15 +62,6 @@ ngrams:
 - - think
   - using
   - here
-- - time
-  - us
-  - president
-- - your
-  - picture
-  - guarding
-- - an
-  - outmoded
-  - term
 story:
   date: 2005-01-01
   id: 2005-01-01-audubon-bird-of-the-month-competition

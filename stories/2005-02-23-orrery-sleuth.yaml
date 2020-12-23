@@ -1,4 +1,7 @@
 ngrams:
+- - orrery
+  - sleuth
+  - encircled
 - - shroud
   - orrery
   - sleuth
@@ -20,6 +23,9 @@ ngrams:
 - - decisive
   - scientific
   - contribution
+- - william
+  - ewart
+  - gladstone
 - - rex
   - shroud
   - orrery
@@ -80,6 +86,9 @@ ngrams:
 - - finds
   - himself
   - trapped
+- - took
+  - seven
+  - sugars
 - - activists
   - should
   - note
@@ -113,24 +122,15 @@ ngrams:
 - - like
   - alfred
   - hitchcock
+- - like
+  - william
+  - ewart
 - - thunderstorms
   - like
   - william
 - - like
   - james
   - joyce
-- - war
-  - like
-  - alfred
-- - blind
-  - like
-  - pope
-- - agatha
-  - christie
-  - she
-- - gladstone
-  - she
-  - adduced
 story:
   date: 2005-02-23
   id: 2005-02-23-orrery-sleuth

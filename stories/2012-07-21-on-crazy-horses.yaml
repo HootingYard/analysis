@@ -1,19 +1,34 @@
 ngrams:
+- - succeeding
+  - u
+  - thant
 - - nations
   - succeeding
   - u
+- - hotel's
+  - safety
+  - deposit
 - - jimmy
   - sits
   - scrunched
 - - united
   - nations
   - succeeding
+- - pa
+  - osmond
+  - thumps
+- - paddock
+  - pa
+  - osmond
 - - safety
   - deposit
   - boxes
 - - older
   - boys
   - interrogate
+- - alan
+  - pa
+  - osmond
 - - deafening
   - din
   - asks
@@ -35,15 +50,27 @@ ngrams:
 - - include
   - president
   - nixon
+- - ma
+  - osmond
+  - throws
 - - sit
   - alan
   - wayne
+- - expect
+  - pa
+  - osmond
+- - asks
+  - ma
+  - osmond
 - - unhinged
   - classic
   - unlike
 - - mormon
   - marriage
   - mean
+- - osmond
+  - family
+  - homestead
 - - mormon
   - says
   - wayne
@@ -62,6 +89,15 @@ ngrams:
 - - din
   - asks
   - ma
+- - says
+  - pa
+  - osmond
+- - says
+  - pa
+  - osmond
+- - says
+  - pa
+  - osmond
 - - says
   - alan
   - hello
@@ -149,6 +185,9 @@ ngrams:
 - - salt
   - flats
   - past
+- - pa
+  - osmond
+  - look
 - - corner
   - between
   - marie
@@ -350,6 +389,9 @@ ngrams:
 - - us
   - old
   - enough
+- - pa
+  - osmond
+  - has
 - - its
   - composition
   - make
@@ -368,6 +410,12 @@ ngrams:
 - - their
   - arrival
   - alan
+- - ma
+  - osmond
+  - 'no'
+- - osmond
+  - 'no'
+  - ma
 - - alan
   - pipes
   - up
@@ -386,54 +434,6 @@ ngrams:
 - - wearing
   - their
   - mormon
-- - wearing
-  - their
-  - mormon
-- - her
-  - assent
-  - too
-- - go
-  - then
-  - says
-- - 'no'
-  - ma
-  - says
-- - jay
-  - what
-  - brings
-- - their
-  - fragile
-  - young
-- - could
-  - carry
-  - us
-- - time
-  - little
-  - jimmy
-- - says
-  - jay
-  - what
-- - says
-  - marie
-  - what
-- - little
-  - jimmy
-  - can
-- - them
-  - each
-  - asking
-- - 'no'
-  - mistake
-  - good
-- - first
-  - then
-  - says
-- - speaking
-  - gazing
-  - into
-- - can
-  - parlay
-  - those
 story:
   date: 2012-07-21
   id: 2012-07-21-on-crazy-horses

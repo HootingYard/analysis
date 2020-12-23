@@ -104,6 +104,9 @@ ngrams:
 - - phrase
   - going
   - postal
+- - less
+  - impressible
+  - person
 - - whose
   - looks
   - show
@@ -218,6 +221,9 @@ ngrams:
 - - its
   - foul
   - insignia
+- - impressible
+  - person
+  - than
 - - put
   - those
   - letters
@@ -368,12 +374,6 @@ ngrams:
 - - destiny
   - will
   - begin
-- - letters
-  - were
-  - similar
-- - make
-  - some
-  - sort
 story:
   date: 2012-09-14
   id: 2012-09-14-on-astrology

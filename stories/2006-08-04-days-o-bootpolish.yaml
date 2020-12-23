@@ -74,6 +74,9 @@ ngrams:
 - - hundred
   - thousand
   - howler
+- - sliding
+  - door
+  - swooshed
 - - tremendously
   - large
   - building
@@ -86,9 +89,15 @@ ngrams:
 - - seem
   - particularly
   - interested
+- - swooshed
+  - shut
+  - behind
 - - pocket
   - flaps
   - kept
+- - door
+  - swooshed
+  - shut
 - - second
   - howler
   - monkey
@@ -470,15 +479,6 @@ ngrams:
 - - any
   - explanation
   - so
-- - cram
-  - them
-  - into
-- - then
-  - they
-  - strapped
-- - them
-  - what
-  - help
 story:
   date: 2006-08-04
   id: 2006-08-04-days-o-bootpolish

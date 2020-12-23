@@ -8,6 +8,9 @@ ngrams:
 - - select
   - private
   - school
+- - eldest
+  - brother
+  - george
 - - brother
   - george
   - henry
@@ -38,12 +41,9 @@ ngrams:
 - - into
   - our
   - house
-- - henry
-  - who
-  - had
-- - deaf
-  - mutes
+- - rugs
   - my
+  - eldest
 story:
   date: 2004-03-09
   id: 2004-03-09-my-mother-opened-a-select-private-school

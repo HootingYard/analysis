@@ -23,6 +23,9 @@ ngrams:
 - - peter
   - sarstedt
   - paying
+- - researcher
+  - lars
+  - welk
 - - theatre
   - peter
   - sarstedt
@@ -38,6 +41,12 @@ ngrams:
 - - dentist
   - lovely
   - born
+- - welk
+  - using
+  - dental
+- - welk
+  - demonstrated
+  - beyond
 - - using
   - dental
   - records
@@ -50,6 +59,9 @@ ngrams:
 - - demonstrated
   - beyond
   - sensible
+- - lars
+  - welk
+  - using
 - - beyond
   - sensible
   - argument
@@ -74,6 +86,12 @@ ngrams:
 - - matters
   - become
   - decidedly
+- - brain
+  - welk
+  - demonstrated
+- - forensic
+  - brain
+  - welk
 - - fiercely
   - forensic
   - brain
@@ -146,24 +164,6 @@ ngrams:
 - - more
   - persuasive
   - perhaps
-- - asleep
-  - why
-  - then
-- - any
-  - case
-  - these
-- - ward
-  - where
-  - did
-- - dentist's
-  - chair
-  - when
-- - lovely
-  - when
-  - you're
-- - argument
-  - laid
-  - out
 story:
   date: 2018-03-31
   id: 2018-03-31-where-do-you-go-to-my-lovely

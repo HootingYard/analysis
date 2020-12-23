@@ -1,4 +1,10 @@
 ngrams:
+- - emperor
+  - ferdinand
+  - iii
+- - roman
+  - emperor
+  - ferdinand
 - - cursory
   - examination
   - suggests
@@ -23,6 +29,9 @@ ngrams:
 - - remote
   - swiss
   - village
+- - ferdinand
+  - iii
+  - himself
 - - example
   - entitled
   - present
@@ -83,15 +92,6 @@ ngrams:
 - - cutler
   - will
   - shortly
-- - some
-  - very
-  - useful
-- - code
-  - man
-  - has
-- - details
-  - later
-  - when
 story:
   date: 2009-11-11
   id: 2009-11-11-in-which-mr-key-apprises-his-readers-of-certain-facts-pertaining-to-the-1648-peace-of-westphalia

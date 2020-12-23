@@ -5,9 +5,15 @@ ngrams:
 - - adventure
   - computer
   - game
+- - interactive
+  - text
+  - adventure
 - - text
   - adventure
   - computer
+- - exciting
+  - interactive
+  - text
 - - happy
   - pig
   - finding
@@ -23,12 +29,6 @@ ngrams:
 - - called
   - lost
   - pig
-- - developments
-  - many
-  - thanks
-- - latest
-  - developments
-  - many
 story:
   date: 2008-06-17
   id: 2008-06-17-lost-pig

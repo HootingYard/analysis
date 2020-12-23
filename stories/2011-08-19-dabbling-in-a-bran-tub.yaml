@@ -1,7 +1,13 @@
 ngrams:
+- - victoria
+  - brit
+  - columbia
 - - quote
   - ambrose
   - bierce
+- - brit
+  - columbia
+  - july
 - - v
   - woolf
   - waves
@@ -80,12 +86,18 @@ ngrams:
 - - dec
   - sometimes
   - what
+- - seasonable
+  - refreshments
+  - will
 - - ribbon
   - girls
   - will
 - - oed
   - can
   - such
+- - columbia
+  - july
+  - all
 - - were
   - hidden
   - small
@@ -98,18 +110,6 @@ ngrams:
 - - can
   - such
   - things
-- - talking
-  - about
-  - here
-- - bran
-  - tub
-  - this
-- - am
-  - talking
-  - about
-- - tub
-  - this
-  - week
 story:
   date: 2011-08-19
   id: 2011-08-19-dabbling-in-a-bran-tub

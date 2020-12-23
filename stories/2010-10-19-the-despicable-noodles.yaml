@@ -260,6 +260,9 @@ ngrams:
 - - away
   - sitting
   - down
+- - cooed
+  - 'no'
+  - harm
 - - bacteria
   - who
   - knows
@@ -383,9 +386,6 @@ ngrams:
 - - these
   - noodles
   - were
-- - are
-  - doubly
-  - despicable
 story:
   date: 2010-10-19
   id: 2010-10-19-the-despicable-noodles

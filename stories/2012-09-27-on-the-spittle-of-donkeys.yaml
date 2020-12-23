@@ -20,6 +20,9 @@ ngrams:
 - - bucolic
   - donkey
   - sanctuary
+- - quadruped
+  - beasts
+  - permission
 - - donkey
   - munches
   - straw
@@ -65,6 +68,9 @@ ngrams:
 - - cream
   - kiosk
   - elsewhere
+- - various
+  - quadruped
+  - beasts
 - - certainly
   - produce
   - sufficient
@@ -365,12 +371,6 @@ ngrams:
 - - donkeys
   - we
   - looked
-- - fret
-  - your
-  - little
-- - we
-  - turn
-  - inevitably
 story:
   date: 2012-09-27
   id: 2012-09-27-on-the-spittle-of-donkeys

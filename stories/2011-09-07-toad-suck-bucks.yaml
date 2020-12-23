@@ -1,6 +1,15 @@
 ngrams:
 - - toad
   - suck
+  - arkansas
+- - suck
+  - arkansas
+  - toad
+- - arkansas
+  - toad
+  - suck
+- - toad
+  - suck
   - branch
 - - fantastic
   - names
@@ -32,15 +41,6 @@ ngrams:
 - - who
   - sent
   - me
-- - some
-  - are
-  - fortunate
-- - world
-  - some
-  - are
-- - there
-  - are
-  - readers
 story:
   date: 2011-09-07
   id: 2011-09-07-toad-suck-bucks

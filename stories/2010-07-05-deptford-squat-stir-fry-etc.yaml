@@ -29,6 +29,12 @@ ngrams:
 - - forsyth
   - sir
   - michael
+- - sir
+  - michael
+  - caine
+- - michael
+  - caine
+  - sir
 - - charities
   - age
   - uk
@@ -41,12 +47,6 @@ ngrams:
 - - sir
   - richard
   - branson
-- - john
-  - major
-  - prunella
-- - general
-  - sir
-  - richard
 story:
   date: 2010-07-05
   id: 2010-07-05-deptford-squat-stir-fry-etc

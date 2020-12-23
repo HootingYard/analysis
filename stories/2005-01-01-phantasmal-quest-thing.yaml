@@ -1,4 +1,10 @@
 ngrams:
+- - wright
+  - mario
+  - lanza
+- - lloyd
+  - wright
+  - mario
 - - spouting
   - politically
   - reactionary
@@ -8,6 +14,9 @@ ngrams:
 - - politically
   - reactionary
   - drivel
+- - pneumatic
+  - robot
+  - dervish
 - - tolkein
   - witless
   - twaddle
@@ -17,9 +26,18 @@ ngrams:
 - - drinking
   - warm
   - beer
+- - frank
+  - lloyd
+  - wright
+- - archbishop
+  - makarios
+  - returned
 - - described
   - tolkein
   - witless
+- - blind
+  - willie
+  - mctell
 - - title
   - phantasmal
   - quest
@@ -35,12 +53,18 @@ ngrams:
 - - working
   - title
   - phantasmal
+- - died
+  - john
+  - mcenroe
 - - write
   - fantasy
   - fiction
 - - prosaic
   - names
   - instead
+- - debate
+  - between
+  - nikita
 - - flea
   - called
   - dave
@@ -68,6 +92,9 @@ ngrams:
 - - few
   - midges
   - ticks
+- - tweeds
+  - hanging
+  - around
 - - anybody's
   - guess
   - why
@@ -101,41 +128,14 @@ ngrams:
 - - boat
   - locked
   - him
+- - 'no'
+  - elves
+  - hobbits
 - - chew
   - snapped
   - him
 - - door
   - threatened
-  - him
-- - let
-  - us
-  - just
-- - himself
-  - upon
-  - let
-- - fantasy
-  - novel
-  - what
-- - upon
-  - let
-  - us
-- - magic
-  - johnson
-  - were
-- - johnson
-  - were
-  - born
-- - were
-  - born
-  - during
-- - earth
-  - got
-  - into
-- - here
-  - 'no'
-  - elves
-- - she
-  - bundled
   - him
 story:
   date: 2005-01-01

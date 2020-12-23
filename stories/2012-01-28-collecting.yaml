@@ -1,4 +1,10 @@
 ngrams:
+- - violins
+  - bugles
+  - accordions
+- - banjos
+  - violins
+  - bugles
 - - organs
   - banjos
   - violins
@@ -50,12 +56,6 @@ ngrams:
 - - eight
   - live
   - cats
-- - human
-  - organs
-  - pickled
-- - jars
-  - eight
-  - live
 story:
   date: 2012-01-28
   id: 2012-01-28-collecting

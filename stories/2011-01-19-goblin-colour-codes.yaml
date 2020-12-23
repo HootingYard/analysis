@@ -5,6 +5,9 @@ ngrams:
 - - teutonic
   - forest
   - goblins
+- - toc
+  - h
+  - lamp
 - - goblins
   - yellow
   - pilfering
@@ -59,6 +62,9 @@ ngrams:
 - - julian
   - assange
   - got
+- - single
+  - toc
+  - h
 - - assange
   - got
   - hold
@@ -149,12 +155,6 @@ ngrams:
 - - their
   - special
   - rapporteurs
-- - some
-  - months
-  - ago
-- - other
-  - way
-  - whatsoever
 story:
   date: 2011-01-19
   id: 2011-01-19-goblin-colour-codes

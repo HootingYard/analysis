@@ -2,15 +2,27 @@ ngrams:
 - - senior
   - belfast
   - ira
+- - fake
+  - swirling
+  - celtic
+- - housing
+  - hollywood
+  - contributes
 - - moody
   - irish
   - terrorists
 - - irish
   - terrorists
   - allegedly
+- - swirling
+  - celtic
+  - tat
 - - terrorists
   - allegedly
   - facing
+- - deeply
+  - unattractive
+  - fusion
 - - bars
   - dingy
   - irish
@@ -92,6 +104,9 @@ ngrams:
 - - robert
   - mccartney
   - '-'
+- - moral
+  - dilemmas
+  - rather
 - - west
   - end
   - stage
@@ -107,21 +122,6 @@ ngrams:
 - - just
   - plain
   - irish
-- - only
-  - partially
-  - drowns
-- - only
-  - celebrated
-  - visual
-- - st
-  - patrick's
-  - day
-- - violence
-  - where
-  - people
-- - patrick's
-  - day
-  - here
 story:
   date: 2011-03-17
   id: 2011-03-17-emerald-isle

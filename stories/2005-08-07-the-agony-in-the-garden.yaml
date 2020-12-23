@@ -1,4 +1,7 @@
 ngrams:
+- - clumsy
+  - thief
+  - inexperienced
 - - chalk
   - x
   - underneath
@@ -29,6 +32,9 @@ ngrams:
 - - unlike
   - human
   - beings
+- - detective
+  - whose
+  - tenacity
 - - monstrous
   - black
   - clouds
@@ -263,12 +269,6 @@ ngrams:
 - - steal
   - things
   - from
-- - forced
-  - downwards
-  - by
-- - why
-  - this
-  - man
 story:
   date: 2005-08-07
   id: 2005-08-07-the-agony-in-the-garden

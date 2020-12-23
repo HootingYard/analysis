@@ -1,4 +1,7 @@
 ngrams:
+- - exterior
+  - cranial
+  - integument
 - - breed
   - poisonous
   - vapors
@@ -38,6 +41,9 @@ ngrams:
 - - hour
   - every
   - night
+- - capillary
+  - growth
+  - upon
 - - reflected
   - downward
   - upon
@@ -50,6 +56,9 @@ ngrams:
 - - its
   - attendant
   - heat
+- - she
+  - furthermore
+  - maintains
 - - wrote
   - among
   - many
@@ -59,6 +68,9 @@ ngrams:
 - - consequently
   - died
   - she
+- - died
+  - she
+  - furthermore
 - - am
   - reading
   - miss
@@ -80,18 +92,6 @@ ngrams:
 - - among
   - many
   - other
-- - so
-  - properly
-  - shaded
-- - which
-  - humors
-  - rising
-- - stomach
-  - which
-  - humors
-- - light
-  - are
-  - concentrated
 story:
   date: 2003-12-19
   id: 2003-12-19-in-my-own-case-i-have-imputed

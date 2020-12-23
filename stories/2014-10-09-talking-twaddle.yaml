@@ -1,4 +1,13 @@
 ngrams:
+- - t
+  - h
+  - huxley
+- - t
+  - h
+  - huxley
+- - h
+  - huxley
+  - victorian
 - - paul
   - t
   - h
@@ -47,15 +56,6 @@ ngrams:
 - - furnish
   - an
   - additional
-- - an
-  - additional
-  - argument
-- - me
-  - if
-  - anybody
-- - interest
-  - me
-  - if
 story:
   date: 2014-10-09
   id: 2014-10-09-talking-twaddle

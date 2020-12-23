@@ -5,6 +5,9 @@ ngrams:
 - - peasantry
   - fop
   - twirling
+- - swains
+  - prompted
+  - poppy
 - - prompted
   - poppy
   - nisbet
@@ -17,6 +20,9 @@ ngrams:
 - - rock
   - twaddle
   - applied
+- - swains
+  - yesterday's
+  - mention
 - - applied
   - historical
   - research
@@ -126,6 +132,12 @@ ngrams:
   - will
   - come
 - - an
+  - intensive
+  - session
+- - offered
+  - an
+  - intensive
+- - an
   - irrevocable
   - choice
 - - one
@@ -164,18 +176,6 @@ ngrams:
 - - this
   - very
   - day
-- - enough
-  - fop
-  - you
-- - other
-  - this
-  - very
-- - you
-  - say
-  - peasantry
-- - fondness
-  - for
-  - joking
 story:
   date: 2005-06-01
   id: 2005-06-01-lusty-jocund-swains

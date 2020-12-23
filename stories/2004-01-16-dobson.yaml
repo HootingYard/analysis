@@ -1,7 +1,19 @@
 ngrams:
+- - fun
+  - profit
+  - idiot's
+- - social
+  - gaffes
+  - bluff
 - - moral
   - turpitude
   - fecklessness
+- - dummies
+  - idiot's
+  - guide
+- - profit
+  - idiot's
+  - guide
 - - yourself
   - petulance
   - mucking
@@ -29,18 +41,6 @@ ngrams:
 - - five
   - simple
   - steps
-- - craven
-  - wretched
-  - people
-- - around
-  - aimlessly
-  - tomfoolery
-- - lying
-  - around
-  - aimlessly
-- - yourself
-  - frowning
-  - make
 story:
   date: 2004-01-16
   id: 2004-01-16-dobson

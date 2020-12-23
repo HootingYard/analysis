@@ -20,6 +20,9 @@ ngrams:
 - - hiking
   - gear
   - mapless
+- - geoffrey
+  - household
+  - dance
 - - santa
   - eulalia
   - notes
@@ -44,9 +47,15 @@ ngrams:
 - - wrong
   - direction
   - bashed
+- - '-'
+  - geoffrey
+  - household
 - - th
   - th
   - th
+- - spirits
+  - '-'
+  - geoffrey
 - - having
   - inexplicably
   - navigated
@@ -314,15 +323,6 @@ ngrams:
 - - print
   - unfortunately
   - this
-- - successor
-  - had
-  - bonked
-- - had
-  - signally
-  - failed
-- - government
-  - canoeist
-  - or
 story:
   date: 2009-10-12
   id: 2009-10-12-government-canoe

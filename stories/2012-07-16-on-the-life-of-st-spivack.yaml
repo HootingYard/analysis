@@ -1,4 +1,7 @@
 ngrams:
+- - ages
+  - scribe
+  - copied
 - - sang
   - rousing
   - hymns
@@ -50,6 +53,9 @@ ngrams:
 - - blind
   - henchmen
   - astride
+- - dark
+  - ages
+  - scribe
 - - significant
   - passing
   - movements
@@ -131,6 +137,9 @@ ngrams:
 - - poor
   - little
   - st
+- - scribe
+  - copied
+  - down
 - - passing
   - movements
   - over
@@ -374,15 +383,6 @@ ngrams:
 - - they
   - mislaid
   - their
-- - beetles
-  - one
-  - day
-- - vision
-  - one
-  - day
-- - would
-  - do
-  - well
 story:
   date: 2012-07-16
   id: 2012-07-16-on-the-life-of-st-spivack

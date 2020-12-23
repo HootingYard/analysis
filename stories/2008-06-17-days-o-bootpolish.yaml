@@ -68,6 +68,9 @@ ngrams:
 - - hundred
   - thousand
   - howler
+- - sliding
+  - door
+  - swooshed
 - - tremendously
   - large
   - building
@@ -80,9 +83,15 @@ ngrams:
 - - seem
   - particularly
   - interested
+- - swooshed
+  - shut
+  - behind
 - - pocket
   - flaps
   - kept
+- - door
+  - swooshed
+  - shut
 - - quite
   - relaxed
   - staring
@@ -467,15 +476,6 @@ ngrams:
 - - give
   - them
   - what
-- - another
-  - corridor
-  - this
-- - splitting
-  - headache
-  - but
-- - week
-  - this
-  - week
 story:
   date: 2008-06-17
   id: 2008-06-17-days-o-bootpolish

@@ -1,4 +1,7 @@
 ngrams:
+- - prolific
+  - mancunian
+  - misanthrope
 - - ludicrously
   - prolific
   - mancunian
@@ -44,9 +47,18 @@ ngrams:
 - - racket
   - mrs
   - gubbins
+- - smith's
+  - lovely
+  - words
 - - fall
   - i'm
   - sure
+- - jettisoning
+  - mr
+  - smith's
+- - mr
+  - smith's
+  - lovely
 - - helpless
   - possibly
   - because
@@ -86,18 +98,6 @@ ngrams:
 - - back
   - started
   - making
-- - mrs
-  - gubbins
-  - after
-- - chronological
-  - order
-  - over
-- - adding
-  - he's
-  - like
-- - her
-  - supersonic
-  - booster
 story:
   date: 2005-06-23
   id: 2005-06-23-mrs-gubbins-and-mr-smith

@@ -8,6 +8,21 @@ ngrams:
 - - marching
   - saints
   - investigation
+- - glory
+  - glory
+  - hallelujah
+- - glory
+  - hallelujah
+  - glory
+- - hallelujah
+  - glory
+  - glory
+- - glory
+  - glory
+  - hallelujah
+- - glory
+  - glory
+  - hallelujah
 - - remote
   - storage
   - facilities
@@ -95,6 +110,9 @@ ngrams:
 - - go
   - marching
   - usually
+- - hallelujah
+  - after
+  - glory
 - - seen
   - saints
   - go
@@ -278,6 +296,9 @@ ngrams:
 - - them
   - go
   - marching
+- - missing
+  - out
+  - hallelujah
 - - even
   - more
   - calamitous
@@ -365,27 +386,6 @@ ngrams:
 - - some
   - other
   - business
-- - we
-  - haven't
-  - got
-- - double
-  - glory
-  - so
-- - precisely
-  - what
-  - those
-- - are
-  - innumerable
-  - situations
-- - brickbats
-  - are
-  - thrown
-- - saints
-  - are
-  - marching
-- - doorway
-  - once
-  - they
 story:
   date: 2012-10-14
   id: 2012-10-14-on-the-saints

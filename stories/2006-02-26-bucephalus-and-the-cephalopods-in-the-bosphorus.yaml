@@ -65,6 +65,9 @@ ngrams:
 - - recommend
   - cephalopod
   - news
+- - unaccompanied
+  - horse
+  - cantered
 - - horse
   - charged
   - tirelessly
@@ -338,9 +341,6 @@ ngrams:
 - - cephalopods
   - this
   - bucephalus
-- - an
-  - unaccompanied
-  - horse
 story:
   date: 2006-02-26
   id: 2006-02-26-bucephalus-and-the-cephalopods-in-the-bosphorus

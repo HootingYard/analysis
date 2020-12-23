@@ -1,10 +1,22 @@
 ngrams:
+- - daphne
+  - du
+  - maurier
+- - researcher
+  - timothy
+  - treadwell
+- - manolo
+  - blahnik
+  - pump
 - - cheroot
   - inhaled
   - deeply
 - - reporter
   - kim
   - murphy
+- - alaska's
+  - katmai
+  - national
 - - battled
   - illegal
   - hunting
@@ -14,6 +26,9 @@ ngrams:
 - - north
   - american
   - grizzly
+- - katmai
+  - national
+  - park
 - - remote
   - river
   - valleys
@@ -41,9 +56,15 @@ ngrams:
 - - steel
   - garden
   - chair
+- - following
+  - bears
+  - documenting
 - - los
   - angeles
   - times
+- - hundred
+  - bear
+  - contacts
 - - angeles
   - times
   - reporter
@@ -59,12 +80,18 @@ ngrams:
 - - whose
   - lonely
   - journeys
+- - black
+  - manolo
+  - blahnik
 - - jet
   - black
   - manolo
 - - eight
   - hundred
   - bear
+- - supercilious
+  - sneering
+  - look
 - - kamchatka
   - whose
   - giant
@@ -98,6 +125,12 @@ ngrams:
 - - fled
   - tiny
   - enid
+- - blahnik
+  - pump
+  - go
+- - bear
+  - contacts
+  - each
 - - great
   - russian
   - bear
@@ -110,6 +143,9 @@ ngrams:
 - - tiny
   - enid
   - sat
+- - contacts
+  - each
+  - year
 - - tiny
   - enid
   - got
@@ -170,42 +206,6 @@ ngrams:
 - - enid
   - put
   - down
-- - garden
-  - gate
-  - then
-- - her
-  - garden
-  - stepping
-- - now
-  - lumbering
-  - across
-- - spent
-  - each
-  - day
-- - just
-  - two
-  - months
-- - journeys
-  - allowed
-  - him
-- - windows
-  - she
-  - saw
-- - her
-  - jet
-  - black
-- - lawn
-  - towards
-  - her
-- - two
-  - months
-  - before
-- - quite
-  - sure
-  - where
-- - ago
-  - she
-  - lit
 story:
   date: 2004-12-03
   id: 2004-12-03-tiny-enid-confronts-the-russian-bear

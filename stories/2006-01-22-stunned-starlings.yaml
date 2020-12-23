@@ -11,12 +11,18 @@ ngrams:
 - - impending
   - flu
   - jab
+- - chief
+  - dacha
+  - minion
 - - stunned
   - starlings
   - sampled
 - - stunned
   - starlings
   - pockmarked
+- - noel
+  - harrison
+  - son
 - - sampled
   - uncle
   - joe's
@@ -161,6 +167,9 @@ ngrams:
 - - blue
   - sky
   - above
+- - dacha
+  - later
+  - today
 - - churning
   - black
   - water
@@ -311,15 +320,6 @@ ngrams:
 - - sadly
   - however
   - their
-- - cackled
-  - when
-  - starling
-- - when
-  - starling
-  - cackled
-- - however
-  - their
-  - record
 story:
   date: 2006-01-22
   id: 2006-01-22-stunned-starlings

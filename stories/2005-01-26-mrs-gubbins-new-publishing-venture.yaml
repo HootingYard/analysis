@@ -1,13 +1,25 @@
 ngrams:
+- - mestral
+  - invented
+  - velcro
+- - oleaginous
+  - means
+  - oily
 - - mean
   - oily
   - chalk
 - - state
   - condoleezza
   - rice
+- - de
+  - mestral
+  - invented
 - - french
   - means
   - chalk
+- - george
+  - de
+  - mestral
 - - indefatigable
   - crone
   - mrs
@@ -38,6 +50,9 @@ ngrams:
 - - alice
   - binney
   - came
+- - brand
+  - name
+  - crayola
 - - few
   - telephone
   - calls
@@ -56,6 +71,9 @@ ngrams:
 - - watching
   - little
   - fairies
+- - maybe
+  - just
+  - ruminating
 - - calls
   - come
   - morning
@@ -71,12 +89,18 @@ ngrams:
 - - each
   - issue
   - should
+- - ruminating
+  - upon
+  - velcro
 - - upon
   - velcro
   - dubbin
 - - combining
   - two
   - words
+- - hooks
+  - like
+  - burrs
 - - stiff
   - hooks
   - like
@@ -104,6 +128,9 @@ ngrams:
 - - mrs
   - gubbins
   - has
+- - just
+  - ruminating
+  - upon
 - - before
   - going
   - back
@@ -158,33 +185,6 @@ ngrams:
 - - exciting
   - article
   - all
-- - crayons
-  - who
-  - could
-- - what
-  - should
-  - go
-- - subscriptions
-  - would
-  - come
-- - would
-  - come
-  - pouring
-- - tell
-  - us
-  - all
-- - an
-  - exciting
-  - article
-- - decided
-  - one
-  - side
-- - storminess
-  - had
-  - ceased
-- - velcro
-  - dubbin
-  - or
 story:
   date: 2005-01-26
   id: 2005-01-26-mrs-gubbins-new-publishing-venture

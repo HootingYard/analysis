@@ -1,4 +1,16 @@
 ngrams:
+- - clandestine
+  - defibrillation
+  - odo
+- - clandestine
+  - defibrillation
+  - units
+- - clandestine
+  - defibrillation
+  - unit
+- - clandestine
+  - defibrillation
+  - unit
 - - boxer
   - rising
   - subjects
@@ -8,6 +20,9 @@ ngrams:
 - - chocolate
   - swiss
   - roll
+- - clandestine
+  - defibrillation
+  - business
 - - abandoned
   - birdcage
   - factory
@@ -41,6 +56,9 @@ ngrams:
 - - using
   - identical
   - words
+- - pointy
+  - town
+  - bistro
 - - got
   - married
   - myself
@@ -65,6 +83,9 @@ ngrams:
 - - ice
   - floe
   - after
+- - defibrillation
+  - odo
+  - said
 - - our
   - jeep
   - terrifying
@@ -86,6 +107,9 @@ ngrams:
 - - furious
   - more
   - furious
+- - clandestinely
+  - then
+  - tuesday
 - - then
   - tuesday
   - weld
@@ -143,36 +167,12 @@ ngrams:
 - - us
   - even
   - though
+- - were
+  - putty
+  - dreadnoughts
 - - preoccupations
   - were
   - putty
-- - married
-  - couples
-  - were
-- - make
-  - some
-  - attempt
-- - those
-  - flags
-  - she
-- - were
-  - clandestine
-  - tuesday
-- - more
-  - furious
-  - than
-- - ever
-  - seen
-  - her
-- - reputation
-  - will
-  - match
-- - only
-  - looked
-  - like
-- - decisively
-  - important
-  - if
 story:
   date: 2004-10-08
   id: 2004-10-08-clandestine-defibrillation-unit

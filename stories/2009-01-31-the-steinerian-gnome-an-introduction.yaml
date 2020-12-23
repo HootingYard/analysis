@@ -35,6 +35,9 @@ ngrams:
 - - real
   - gnomes
   - caper
+- - weekly
+  - radio
+  - programme
 - - voices
   - please
   - tell
@@ -278,9 +281,6 @@ ngrams:
 - - tell
   - me
   - how
-- - gnomes
-  - which
-  - though
 story:
   date: 2009-01-31
   id: 2009-01-31-the-steinerian-gnome-an-introduction

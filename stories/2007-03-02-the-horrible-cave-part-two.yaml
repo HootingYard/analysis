@@ -1,4 +1,7 @@
 ngrams:
+- - cooed
+  - sweetly
+  - addressing
 - - selling
   - oils
   - waxes
@@ -188,6 +191,9 @@ ngrams:
 - - sounded
   - like
   - potatoes
+- - she
+  - cooed
+  - sweetly
 - - more
   - potatoes
   - deciding
@@ -356,12 +362,6 @@ ngrams:
 - - what
   - sounded
   - like
-- - weeks
-  - later
-  - so
-- - an
-  - emporium
-  - tucked
 story:
   date: 2007-03-02
   id: 2007-03-02-the-horrible-cave-part-two

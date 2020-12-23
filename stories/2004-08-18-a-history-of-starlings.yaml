@@ -11,9 +11,15 @@ ngrams:
 - - mass
   - publicity
   - drive
+- - potatoes
+  - spread
+  - histoplasmosis
 - - drug
   - manufacturer
   - named
+- - named
+  - eugene
+  - schieffelin
 - - manufacturer
   - named
   - eugene
@@ -53,12 +59,6 @@ ngrams:
 - - 'off'
   - pesky
   - starlings
-- - love
-  - starlings
-  - see
-- - make
-  - life
-  - difficult
 story:
   date: 2004-08-18
   id: 2004-08-18-a-history-of-starlings

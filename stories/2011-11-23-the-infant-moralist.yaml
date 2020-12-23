@@ -1,4 +1,7 @@
 ngrams:
+- - retribution
+  - unsuitable
+  - jesting
 - - workplace
   - employee
   - handbook
@@ -17,6 +20,9 @@ ngrams:
 - - envy
   - courage
   - etc
+- - lady
+  - helena
+  - carnegie
 - - public
   - domain
   - versions
@@ -65,12 +71,6 @@ ngrams:
 - - dear
   - mr
   - key
-- - she
-  - writes
-  - i've
-- - key
-  - she
-  - writes
 story:
   date: 2011-11-23
   id: 2011-11-23-the-infant-moralist

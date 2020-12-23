@@ -1,10 +1,16 @@
 ngrams:
+- - weld
+  - ponder
+  - frank's
 - - besmirched
   - bonkers
   - topiary
 - - tuesday
   - weld
   - ponder
+- - ponder
+  - frank's
+  - future
 - - bonkers
   - topiary
   - man
@@ -17,12 +23,6 @@ ngrams:
 - - hooting
   - yard
   - archive
-- - archive
-  - may
-  - still
-- - yard
-  - archive
-  - may
 story:
   date: 2004-05-01
   id: 2004-05-01-hooting-yard-archive-may-2004

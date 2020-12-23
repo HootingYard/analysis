@@ -23,6 +23,9 @@ ngrams:
 - - motorcycle
   - training
   - school
+- - plastic
+  - marchmont
+  - gods
 - - gods
   - numberless
   - gods
@@ -44,6 +47,9 @@ ngrams:
 - - whose
   - breath
   - ignited
+- - hideous
+  - centipede
+  - god
 - - athletics
   - track
   - god
@@ -56,6 +62,9 @@ ngrams:
 - - crumbling
   - seaside
   - town
+- - get
+  - sidelong
+  - looks
 - - thence
   - ferried
   - far
@@ -95,6 +104,9 @@ ngrams:
 - - entranced
   - our
   - windows
+- - still
+  - get
+  - sidelong
 - - wrought
   - such
   - ruin
@@ -107,6 +119,9 @@ ngrams:
 - - decrepit
   - now
   - decrepit
+- - its
+  - godlike
+  - doings
 - - though
   - few
   - knew
@@ -176,9 +191,15 @@ ngrams:
 - - scant
   - solace
   - when
+- - your
+  - mayflies
+  - others
 - - what
   - crumbling
   - seaside
+- - into
+  - airtight
+  - pods
 - - whose
   - name
   - can
@@ -209,6 +230,9 @@ ngrams:
 - - gods
   - decked
   - out
+- - mayflies
+  - others
+  - were
 - - others
   - were
   - massive
@@ -224,6 +248,12 @@ ngrams:
 - - magnificent
   - deities
   - all
+- - those
+  - who
+  - disobeyed
+- - put
+  - into
+  - airtight
 - - deities
   - all
   - devoted
@@ -272,36 +302,6 @@ ngrams:
 - - seaside
   - town
   - we
-- - joyous
-  - day
-  - when
-- - few
-  - who
-  - know
-- - town
-  - we
-  - took
-- - hats
-  - all
-  - those
-- - will
-  - never
-  - tell
-- - all
-  - those
-  - magnificent
-- - pods
-  - are
-  - thought
-- - an
-  - alleyway
-  - singing
-- - always
-  - wondered
-  - which
-- - were
-  - taken
-  - only
 story:
   date: 2014-08-19
   id: 2014-08-19-the-smashed-god

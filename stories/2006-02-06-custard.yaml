@@ -32,6 +32,9 @@ ngrams:
 - - chronological
   - narrative
   - concerning
+- - n
+  - carvalho
+  - addressed
 - - wretched
   - synthetic
   - slop
@@ -59,6 +62,9 @@ ngrams:
 - - doomed
   - thomas
   - more's
+- - david
+  - n
+  - carvalho
 - - ward's
   - british
   - wonders
@@ -68,6 +74,9 @@ ngrams:
 - - thin
   - pouring
   - sauce
+- - noble
+  - cooling
+  - food
 - - uncle
   - ned
   - hovers
@@ -95,6 +104,9 @@ ngrams:
 - - sporting
   - press
   - living
+- - king
+  - henry
+  - viii
 - - fatal
   - aeroplane
   - oh
@@ -197,6 +209,9 @@ ngrams:
 - - also
   - marketed
   - though
+- - henry
+  - viii
+  - those
 - - after
   - ned
   - ward
@@ -416,21 +431,6 @@ ngrams:
 - - if
   - someone
   - published
-- - 'true'
-  - custards
-  - if
-- - about
-  - football
-  - myself
-- - more's
-  - custards
-  - would
-- - into
-  - mush
-  - though
-- - all
-  - early
-  - st
 story:
   date: 2006-02-06
   id: 2006-02-06-custard

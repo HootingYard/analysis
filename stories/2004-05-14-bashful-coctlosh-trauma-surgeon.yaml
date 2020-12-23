@@ -1,4 +1,7 @@
 ngrams:
+- - sinuous
+  - l'oreal
+  - toss
 - - peril
   - fop
   - dilemma
@@ -8,9 +11,15 @@ ngrams:
 - - x
   - mild
   - peril
+- - pirate
+  - gang
+  - ix
 - - didcot
   - ii
   - pudding
+- - gang
+  - ix
+  - shoes
 - - string
   - x
   - mild
@@ -23,18 +32,9 @@ ngrams:
 - - maisie
   - pew
   - due
-- - hero
-  - dr
-  - slab
-- - boots
-  - string
-  - x
-- - shoes
+- - ix
+  - shoes
   - boots
-  - string
-- - dr
-  - slab
-  - goes
 story:
   date: 2004-05-14
   id: 2004-05-14-bashful-coctlosh-trauma-surgeon

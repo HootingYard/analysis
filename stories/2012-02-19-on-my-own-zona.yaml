@@ -56,6 +56,9 @@ ngrams:
 - - pirate
   - castle
   - musicians
+- - falls
+  - peter
+  - greenaway
 - - strategies
   - seem
   - compellingly
@@ -119,6 +122,9 @@ ngrams:
 - - order
   - brief
   - encounter
+- - carey
+  - '-'
+  - holly
 - - actor
   - whose
   - sepulchral
@@ -308,12 +314,6 @@ ngrams:
 - - john
   - mcclane
   - who
-- - stirred
-  - them
-  - together
-- - made
-  - something
-  - new
 story:
   date: 2012-02-19
   id: 2012-02-19-on-my-own-zona

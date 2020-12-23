@@ -2,9 +2,18 @@ ngrams:
 - - atlantis
   - ignatius
   - donnelly
+- - ewart
+  - gladstone
+  - enthused
 - - harebrained
   - scheme
   - displaying
+- - william
+  - ewart
+  - gladstone
+- - william
+  - ewart
+  - gladstone
 - - victorian
   - prime
   - minister
@@ -14,6 +23,9 @@ ngrams:
 - - rescuing
   - fallen
   - women
+- - march
+  - william
+  - ewart
 - - prime
   - minister
   - news
@@ -23,21 +35,9 @@ ngrams:
 - - minister
   - news
   - update
-- - ignatius
-  - donnelly's
-  - book
-- - donnelly's
-  - book
-  - atlantis
-- - discovery
-  - having
-  - decided
-- - amiss
-  - today
-  - left
-- - blindness
-  - see
-  - nd
+- - right
+  - william
+  - ewart
 story:
   date: 2004-03-17
   id: 2004-03-17-victorian-prime-minister-news-update

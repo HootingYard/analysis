@@ -1,4 +1,7 @@
 ngrams:
+- - wishbone
+  - ash
+  - lp
 - - ash
   - lp
   - minus
@@ -38,6 +41,9 @@ ngrams:
 - - nail
   - file
   - dust
+- - pathologically
+  - violent
+  - approach
 - - hideous
   - optical
   - disease
@@ -101,6 +107,9 @@ ngrams:
 - - prince
   - zaleski
   - nor
+- - old
+  - wishbone
+  - ash
 - - devoted
   - three
   - days
@@ -146,15 +155,6 @@ ngrams:
 - - when
   - special
   - agent
-- - safe
-  - when
-  - special
-- - having
-  - been
-  - gnawed
-- - us
-  - watch
-  - him
 story:
   date: 2004-09-19
   id: 2004-09-19-has-he-taken-leave-of-his-senses

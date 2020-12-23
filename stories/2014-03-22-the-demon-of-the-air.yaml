@@ -2,6 +2,12 @@ ngrams:
 - - neil
   - campbell
   - australia's
+- - trapeze
+  - artists
+  - smith's
+- - artists
+  - smith's
+  - advertisements
 - - gypsy
   - fortune
   - teller
@@ -128,12 +134,6 @@ ngrams:
 - - may
   - perhaps
   - think
-- - crashed
-  - into
-  - brighton
-- - attached
-  - crashed
-  - into
 story:
   date: 2014-03-22
   id: 2014-03-22-the-demon-of-the-air

@@ -2,12 +2,18 @@ ngrams:
 - - bankhead
   - loy
   - there'll
+- - welk
+  - bankhead
+  - loy
 - - pirate
   - f
   - x
 - - lengthy
   - critical
   - analysis
+- - entitled
+  - welk
+  - bankhead
 - - high
   - plastic
   - figurine
@@ -17,6 +23,9 @@ ngrams:
 - - example
   - volume
   - iv
+- - ix
+  - both
+  - concentrate
 - - blustery
   - thursday
   - morning
@@ -29,12 +38,18 @@ ngrams:
 - - ping
   - pong
   - long
+- - while
+  - volumes
+  - viii
 - - big
   - mysterious
   - piece
 - - yard
   - foundation
   - hopes
+- - further
+  - inducement
+  - each
 - - thursday
   - morning
   - dobson
@@ -77,21 +92,6 @@ ngrams:
 - - penned
   - an
   - essay
-- - one
-  - blustery
-  - thursday
-- - dobson
-  - took
-  - out
-- - print
-  - this
-  - superb
-- - end
-  - one
-  - blustery
-- - loose
-  - end
-  - one
 story:
   date: 2004-01-31
   id: 2004-01-31-dobsons-commentary-on-the-above

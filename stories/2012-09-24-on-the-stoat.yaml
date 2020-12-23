@@ -14,6 +14,9 @@ ngrams:
 - - vampire
   - stoats
   - sucking
+- - sleek
+  - sinuous
+  - brown
 - - winterson
   - pausing
   - briefly
@@ -32,6 +35,9 @@ ngrams:
 - - la
   - winterson
   - pausing
+- - sinuous
+  - brown
+  - creature
 - - therein
   - dammit
   - lies
@@ -173,6 +179,9 @@ ngrams:
 - - let
   - us
   - cast
+- - richard
+  - jefferies
+  - now
 - - mr
   - key
   - does
@@ -374,15 +383,6 @@ ngrams:
 - - read
   - them
   - before
-- - literary
-  - quotation
-  - which
-- - live
-  - stoat
-  - are
-- - greater
-  - than
-  - your
 story:
   date: 2012-09-24
   id: 2012-09-24-on-the-stoat

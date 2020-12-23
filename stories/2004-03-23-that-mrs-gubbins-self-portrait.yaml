@@ -5,6 +5,9 @@ ngrams:
 - - fake
   - reader
   - sam
+- - reader
+  - sam
+  - byrne
 - - often
   - alarming
   - tests
@@ -17,6 +20,12 @@ ngrams:
 - - alarming
   - tests
   - some
+- - sam
+  - byrne
+  - has
+- - byrne
+  - has
+  - confessed
 - - engineer
   - has
   - subjected
@@ -26,15 +35,6 @@ ngrams:
 - - march
   - we
   - promised
-- - th
-  - march
-  - we
-- - mrs
-  - gubbins
-  - would
-- - which
-  - involve
-  - volatile
 story:
   date: 2004-03-23
   id: 2004-03-23-that-mrs-gubbins-self-portrait

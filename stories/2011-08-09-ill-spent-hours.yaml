@@ -263,6 +263,9 @@ ngrams:
 - - any
   - book
   - even
+- - friends
+  - all
+  - contacts
 - - out
   - note
   - alfred
@@ -296,9 +299,6 @@ ngrams:
 - - see
   - now
   - where
-- - are
-  - edited
-  - highlights
 story:
   date: 2011-08-09
   id: 2011-08-09-ill-spent-hours

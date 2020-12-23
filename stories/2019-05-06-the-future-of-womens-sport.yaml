@@ -8,6 +8,12 @@ ngrams:
 - - petula
   - wilcox
   - boxer
+- - monty
+  - python's
+  - flying
+- - python's
+  - flying
+  - circus
 - - women's
   - prospects
   - seem
@@ -41,12 +47,6 @@ ngrams:
 - - less
   - enlightened
   - times
-- - already
-  - enough
-  - instances
-- - make
-  - women's
-  - prospects
 story:
   date: 2019-05-06
   id: 2019-05-06-the-future-of-womens-sport

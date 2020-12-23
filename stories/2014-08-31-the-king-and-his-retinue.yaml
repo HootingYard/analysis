@@ -56,6 +56,9 @@ ngrams:
 - - beavers
   - sheep
   - ladies
+- - giraffe
+  - priest
+  - mummy
 - - king's
   - route
   - specifically
@@ -233,9 +236,6 @@ ngrams:
 - - skitters
   - now
   - ahead
-- - king
-  - over
-  - half
 story:
   date: 2014-08-31
   id: 2014-08-31-the-king-and-his-retinue

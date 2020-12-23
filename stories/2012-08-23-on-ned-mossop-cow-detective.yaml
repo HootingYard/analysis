@@ -110,6 +110,9 @@ ngrams:
 - - voice
   - trembling
   - it's
+- - monday
+  - night
+  - oct
 - - night
   - mossop
   - walked
@@ -275,12 +278,18 @@ ngrams:
 - - its
   - own
   - right
+- - cold
+  - pews
+  - their
 - - their
   - delicate
   - feet
 - - your
   - husband's
   - herd
+- - pews
+  - their
+  - hands
 - - tree
   - pointed
   - up
@@ -380,15 +389,6 @@ ngrams:
 - - paid
   - him
   - only
-- - mean
-  - fields
-  - all
-- - local
-  - farmer
-  - we
-- - do
-  - she
-  - delved
 story:
   date: 2012-08-23
   id: 2012-08-23-on-ned-mossop-cow-detective

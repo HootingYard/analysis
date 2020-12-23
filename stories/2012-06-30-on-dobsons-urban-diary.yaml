@@ -149,6 +149,9 @@ ngrams:
 - - graves
   - many
   - hundreds
+- - initial
+  - rejections
+  - dobson
 - - dairy
   - dobson
   - conceived
@@ -191,6 +194,9 @@ ngrams:
 - - unreadable
   - even
   - young
+- - rejections
+  - dobson
+  - thought
 - - roamed
   - further
   - than
@@ -422,12 +428,6 @@ ngrams:
 - - or
   - periodical
   - editor
-- - newspaper
-  - or
-  - periodical
-- - kitchen
-  - before
-  - which
 story:
   date: 2012-06-30
   id: 2012-06-30-on-dobsons-urban-diary

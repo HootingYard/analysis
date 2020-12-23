@@ -2,6 +2,9 @@ ngrams:
 - - envelopes
   - figs
   - firkin
+- - currycomb
+  - dates
+  - dippers
 - - collars
   - pens
   - pepper
@@ -41,6 +44,9 @@ ngrams:
 - - strings
   - slippers
   - soap
+- - cups
+  - currycomb
+  - dates
 - - harness
   - examine
   - hatchet
@@ -197,6 +203,9 @@ ngrams:
 - - salt
   - fish
   - salt
+- - milk
+  - cups
+  - currycomb
 - - compass
   - condensed
   - milk
@@ -530,15 +539,6 @@ ngrams:
 - - never
   - butter
   - your
-- - into
-  - question
-  - though
-- - mind
-  - clearly
-  - there
-- - always
-  - struck
-  - me
 story:
   date: 2011-10-15
   id: 2011-10-15-guns-before-butter

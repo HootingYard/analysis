@@ -2,6 +2,9 @@ ngrams:
 - - snarling
   - ecclesiastical
   - phantoms
+- - bruce
+  - noel
+  - gilbert
 - - regulation
   - brown
   - woolly
@@ -74,6 +77,9 @@ ngrams:
 - - dozen
   - cardboard
   - boxes
+- - noel
+  - gilbert
+  - full
 - - ask
   - uncle
   - dan
@@ -125,6 +131,9 @@ ngrams:
 - - three
   - fob
   - pockets
+- - name
+  - bruce
+  - noel
 - - wears
   - three
   - boots
@@ -251,15 +260,6 @@ ngrams:
 - - can
   - awe
   - gatherings
-- - penknife
-  - how
-  - many
-- - how
-  - many
-  - fob
-- - many
-  - years
-  - date
 story:
   date: 2004-06-24
   id: 2004-06-24-a-ticking-off-for-uncle-dan

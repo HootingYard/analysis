@@ -26,6 +26,9 @@ ngrams:
 - - soft
   - drink
   - he's
+- - together
+  - carefully
+  - documenting
 - - ago
   - bugliosi
   - famed
@@ -107,6 +110,9 @@ ngrams:
 - - book
   - such
   - inaccurate
+- - manson
+  - murders
+  - has
 - - murders
   - has
   - won
@@ -119,12 +125,6 @@ ngrams:
 - - when
   - ruby
   - finally
-- - asleep
-  - when
-  - ruby
-- - has
-  - won
-  - great
 story:
   date: 2011-04-03
   id: 2011-04-03-aerated-celerywater

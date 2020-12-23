@@ -1,4 +1,13 @@
 ngrams:
+- - outraged
+  - humiliated
+  - mortally
+- - humiliated
+  - mortally
+  - offended
+- - baker
+  - eddy
+  - percy
 - - outrage
   - humiliation
   - mortal
@@ -11,12 +20,27 @@ ngrams:
 - - l
   - ron
   - hubbard
+- - marcus
+  - aurelius
+  - christopher
 - - impeccably
   - reasonable
   - argument
+- - fred
+  - macmurray
+  - bore
+- - aurelius
+  - christopher
+  - smart
+- - mary
+  - baker
+  - eddy
 - - mormon
   - sacred
   - texts
+- - turns
+  - outraged
+  - humiliated
 - - smart
   - mary
   - baker
@@ -71,6 +95,9 @@ ngrams:
 - - big
   - shouty
   - voices
+- - jihad
+  - bad
+  - blodgett
 - - prophet
   - mohammed
   - among
@@ -176,6 +203,9 @@ ngrams:
 - - old
   - testament
   - blodgett
+- - seconds
+  - before
+  - rejecting
 - - herself
   - shortly
   - after
@@ -185,6 +215,9 @@ ngrams:
 - - sticks
   - before
   - putting
+- - macmurray
+  - bore
+  - any
 - - still
   - under
   - sentence
@@ -194,6 +227,9 @@ ngrams:
 - - filled
   - page
   - after
+- - after
+  - blodgett
+  - pledged
 - - page
   - after
   - page
@@ -269,6 +305,9 @@ ngrams:
 - - more
   - amusing
   - things
+- - her
+  - life
+  - cocooned
 - - too
   - could
   - share
@@ -287,6 +326,9 @@ ngrams:
 - - what
   - blind
   - jack
+- - were
+  - imaginary
+  - likenesses
 - - into
   - hiding
   - let's
@@ -320,6 +362,9 @@ ngrams:
 - - before
   - putting
   - them
+- - rescinded
+  - they
+  - suggested
 - - fan
   - out
   - across
@@ -383,6 +428,9 @@ ngrams:
 - - an
   - impeccably
   - reasonable
+- - intermediary
+  - an
+  - offer
 - - devised
   - an
   - appropriately
@@ -404,54 +452,6 @@ ngrams:
 - - simply
   - an
   - amalgam
-- - disobey
-  - this
-  - law
-- - can
-  - understand
-  - what
-- - think
-  - through
-  - what
-- - fateful
-  - page
-  - this
-- - blodgett
-  - devised
-  - an
-- - an
-  - interesting
-  - side
-- - 'off'
-  - your
-  - head
-- - blodgett
-  - one
-  - tuesday
-- - way
-  - they
-  - thought
-- - so
-  - many
-  - others
-- - bad
-  - blodgett
-  - one
-- - blodgett
-  - considered
-  - this
-- - evil
-  - cartoonist
-  - had
-- - centuries
-  - had
-  - insisted
-- - charles
-  - bradlaugh
-  - had
-- - bradlaugh
-  - had
-  - described
 story:
   date: 2006-09-13
   id: 2006-09-13-blodgetts-jihad

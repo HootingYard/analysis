@@ -4,6 +4,9 @@ ngrams:
   - happily
 - - domain
   - review
+  - backsliders
+- - domain
+  - review
   - selected
 - - demented
   - poem
@@ -23,6 +26,9 @@ ngrams:
 - - necessary
   - purchase
   - along
+- - review
+  - backsliders
+  - take
 - - three
   - hours
   - per
@@ -38,12 +44,6 @@ ngrams:
 - - fanatically
   - devoted
   - hooting
-- - per
-  - day
-  - listening
-- - hours
-  - per
-  - day
 story:
   date: 2014-11-18
   id: 2014-11-18-a-timely-reminder

@@ -38,6 +38,9 @@ ngrams:
 - - vice
   - president
   - nixon
+- - toc
+  - h
+  - lamp
 - - charles
   - w
   - leadbeater
@@ -236,6 +239,9 @@ ngrams:
 - - new
   - orleans
   - street
+- - old
+  - mucker
+  - max
 - - proper
   - new
   - orleans
@@ -548,12 +554,6 @@ ngrams:
 - - an
   - alpine
   - municipal
-- - an
-  - espresso
-  - machine
-- - an
-  - alpine
-  - mist
 story:
   date: 2017-11-30
   id: 2017-11-30-17-years-in-an-alpine-mist

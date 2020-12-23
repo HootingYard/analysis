@@ -8,6 +8,9 @@ ngrams:
 - - invisible
   - crowe
   - mrs
+- - street
+  - clothed
+  - only
 - - catherine
   - crowe
   - who
@@ -23,9 +26,6 @@ ngrams:
 - - if
   - she
   - went
-- - trim
-  - she
-  - would
 story:
   date: 2014-11-14
   id: 2014-11-14-invisible-crowe

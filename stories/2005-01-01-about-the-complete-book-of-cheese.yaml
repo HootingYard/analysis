@@ -1,4 +1,7 @@
 ngrams:
+- - godlike
+  - genius
+  - peter
 - - cheese
   - today's
   - quotation
@@ -20,9 +23,6 @@ ngrams:
 - - today's
   - quotation
   - is
-- - quotation
-  - is
-  - taken
 story:
   date: 2005-01-01
   id: 2005-01-01-about-the-complete-book-of-cheese

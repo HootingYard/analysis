@@ -56,6 +56,9 @@ ngrams:
 - - hear
   - frank
   - key
+- - frank's
+  - long
+  - sentence
 - - frank
   - key
   - reading
@@ -122,9 +125,6 @@ ngrams:
 - - battered
   - them
   - mercilessly
-- - who
-  - introduced
-  - frank
 story:
   date: 2014-03-18
   id: 2014-03-18-nonsense

@@ -11,6 +11,12 @@ ngrams:
 - - herman
   - melville
   - pale
+- - peter
+  - greenaway
+  - bartleby
+- - falls
+  - peter
+  - greenaway
 - - author
   - watt
   - samuel
@@ -35,12 +41,6 @@ ngrams:
 - - thomas
   - de
   - quincey
-- - wreck
-  - thomas
-  - de
-- - books
-  - without
-  - thinking
 story:
   date: 2014-09-02
   id: 2014-09-02-ten-books

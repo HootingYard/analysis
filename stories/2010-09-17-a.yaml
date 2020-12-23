@@ -1,7 +1,16 @@
 ngrams:
+- - addison
+  - aurelius
+  - augustus
+- - maria
+  - addison
+  - aurelius
 - - ann
   - maria
   - addison
+- - marcus
+  - aurelius
+  - bierce
 - - laura
   - sherwood
   - bierce
@@ -104,15 +113,6 @@ ngrams:
 - - caused
   - me
   - anyway
-- - if
-  - necessary
-  - until
-- - see
-  - what
-  - trouble
-- - me
-  - anyway
-  - let
 story:
   date: 2010-09-17
   id: 2010-09-17-a

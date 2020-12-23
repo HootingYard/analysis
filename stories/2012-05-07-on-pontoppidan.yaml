@@ -1,10 +1,19 @@
 ngrams:
+- - naturalists
+  - norwegian
+  - bishops
 - - categories
   - danish
   - theologians
 - - theologians
   - danish
   - bishops
+- - ornithologists
+  - danish
+  - naturalists
+- - danish
+  - naturalists
+  - norwegian
 - - bishops
   - danish
   - ornithologists
@@ -364,15 +373,6 @@ ngrams:
   - but
 - - information
   - gathered
-  - from
-- - country
-  - but
-  - also
-- - will
-  - reply
-  - if
-- - bishops
-  - people
   - from
 story:
   date: 2012-05-07

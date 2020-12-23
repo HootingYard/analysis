@@ -1,4 +1,7 @@
 ngrams:
+- - donors
+  - unless
+  - anonymity
 - - station
   - resonance
   - fm
@@ -44,9 +47,6 @@ ngrams:
 - - pick
   - some
   - words
-- - some
-  - words
-  - save
 story:
   date: 2007-02-06
   id: 2007-02-06-pick-some-words-n-save-resonance

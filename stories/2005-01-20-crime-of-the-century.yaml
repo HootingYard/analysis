@@ -2,9 +2,15 @@ ngrams:
 - - lindbergh
   - kidnapping
   - hoax
+- - reverend
+  - ian
+  - paisley
 - - baby
   - kidnapping
   - leopold
+- - kinsey
+  - reports
+  - sexual
 - - lindbergh
   - baby
   - kidnapping
@@ -23,6 +29,9 @@ ngrams:
 - - ps
   - million
   - bank
+- - recent
+  - ukrainian
+  - elections
 - - fascist
   - charles
   - lindbergh
@@ -32,6 +41,12 @@ ngrams:
 - - recent
   - ps
   - million
+- - ian
+  - paisley
+  - described
+- - geelong
+  - football
+  - club
 - - gas
   - plasma
   - physics
@@ -47,12 +62,21 @@ ngrams:
 - - grandmother's
   - rain
   - barrel
+- - cold
+  - fusion
+  - theories
 - - eerie
   - fascist
   - charles
+- - kpfa
+  - radio
+  - station
 - - wear
   - dark
   - glasses
+- - less
+  - celebrated
+  - misdeeds
 - - charles
   - lindbergh
   - right
@@ -113,6 +137,9 @@ ngrams:
 - - plasma
   - physics
   - where
+- - worse
+  - than
+  - chernobyl
 - - than
   - hitler
   - worse
@@ -146,33 +173,6 @@ ngrams:
 - - suspects
   - were
   - predictably
-- - titles
-  - were
-  - accurately
-- - usual
-  - suspects
-  - were
-- - dark
-  - glasses
-  - when
-- - understand
-  - about
-  - cold
-- - only
-  - way
-  - these
-- - orange
-  - zombies
-  - all
-- - christian
-  - peoples
-  - they
-- - people
-  - into
-  - orange
-- - turning
-  - people
-  - into
 story:
   date: 2005-01-20
   id: 2005-01-20-crime-of-the-century

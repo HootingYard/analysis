@@ -1,4 +1,16 @@
 ngrams:
+- - petroleum
+  - warfare
+  - department's
+- - fog
+  - intensive
+  - dispersal
+- - warfare
+  - department's
+  - successful
+- - department's
+  - successful
+  - development
 - - fairly
   - standard
   - type
@@ -23,6 +35,9 @@ ngrams:
 - - world
   - war
   - ii
+- - most
+  - common
+  - misconceptions
 - - canine
   - personality
   - dobson
@@ -62,21 +77,6 @@ ngrams:
 - - any
   - dog
   - being
-- - earlier
-  - pamphlets
-  - will
-- - god
-  - knows
-  - they
-- - what
-  - never
-  - seems
-- - am
-  - faithful
-  - has
-- - are
-  - named
-  - fido
 story:
   date: 2004-09-07
   id: 2004-09-07-name-that-cur

@@ -1,7 +1,13 @@
 ngrams:
+- - bulletin's
+  - graphic
+  - illustrating
 - - washington
   - dc
   - thankfully
+- - antoine
+  - simon
+  - maillard
 - - wafers
   - clinging
   - wafers
@@ -137,6 +143,9 @@ ngrams:
 - - worrying
   - trend
   - given
+- - simon
+  - maillard
+  - does
 - - complete
   - bed
   - rest
@@ -194,6 +203,9 @@ ngrams:
 - - chuck
   - colson
   - just
+- - testify
+  - before
+  - judge
 - - above
   - reminds
   - us
@@ -350,18 +362,6 @@ ngrams:
 - - which
   - rivals
   - esperanto
-- - herman
-  - melville
-  - which
-- - point
-  - because
-  - if
-- - wafers
-  - because
-  - they
-- - wafers
-  - which
-  - tend
 story:
   date: 2005-06-04
   id: 2005-06-04-wafers-vile-and-otherwise

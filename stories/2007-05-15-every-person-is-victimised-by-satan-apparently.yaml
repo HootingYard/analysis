@@ -5,6 +5,9 @@ ngrams:
 - - diseases
   - kidney
   - cancer
+- - evangelical
+  - christians
+  - maybe
 - - skin
   - diseases
   - kidney
@@ -77,9 +80,6 @@ ngrams:
 - - sermons
   - would
   - consist
-- - more
-  - 'no'
-  - hope
 story:
   date: 2007-05-15
   id: 2007-05-15-every-person-is-victimised-by-satan-apparently

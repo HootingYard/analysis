@@ -1,4 +1,7 @@
 ngrams:
+- - psychopathic
+  - philosopher
+  - manson
 - - deceased
   - psychopathic
   - philosopher
@@ -119,6 +122,9 @@ ngrams:
 - - mass
   - several
   - more
+- - philosopher
+  - manson
+  - who
 - - serial
   - killer
   - who
@@ -158,6 +164,9 @@ ngrams:
 - - immediately
   - set
   - about
+- - manson
+  - who
+  - said
 - - also
   - turns
   - out
@@ -176,15 +185,6 @@ ngrams:
 - - would
   - reply
   - perhaps
-- - than
-  - christ
-  - when
-- - case
-  - would
-  - end
-- - an
-  - abandoned
-  - warehouse
 story:
   date: 2017-12-06
   id: 2017-12-06-the-brillig-case

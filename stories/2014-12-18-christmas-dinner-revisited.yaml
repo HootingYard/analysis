@@ -1,4 +1,13 @@
 ngrams:
+- - ingredients
+  - tern
+  - equipment
+- - tern
+  - equipment
+  - dish
+- - method
+  - cram
+  - tern
 - - essential
   - yuletide
   - recipe
@@ -8,15 +17,6 @@ ngrams:
 - - pictorial
   - guide
   - ingredients
-- - handy
-  - pictorial
-  - guide
-- - equipment
-  - dish
-  - method
-- - christmas
-  - dinner
-  - revisited
 story:
   date: 2014-12-18
   id: 2014-12-18-christmas-dinner-revisited

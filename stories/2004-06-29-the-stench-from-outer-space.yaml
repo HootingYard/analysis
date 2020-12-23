@@ -98,6 +98,9 @@ ngrams:
 - - rapped
   - mungo
   - took
+- - shouting
+  - something
+  - unprintable
 - - confound
   - these
   - pesky
@@ -146,9 +149,6 @@ ngrams:
 - - face
   - screwed
   - into
-- - already
-  - glided
-  - out
 story:
   date: 2004-06-29
   id: 2004-06-29-the-stench-from-outer-space

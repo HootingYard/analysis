@@ -1,10 +1,19 @@
 ngrams:
+- - organs
+  - bagpipes
+  - brass
+- - bagpipes
+  - brass
+  - bands
 - - religious
   - canting
   - drums
 - - doubtful
   - virtue
   - occasionally
+- - london
+  - organs
+  - bagpipes
 - - virtue
   - occasionally
   - titled
@@ -41,15 +50,6 @@ ngrams:
 - - street
   - disturbances
   - these
-- - disturbances
-  - these
-  - seem
-- - babbage
-  - spent
-  - much
-- - most
-  - people
-  - call
 story:
   date: 2004-01-19
   id: 2004-01-19-babbage

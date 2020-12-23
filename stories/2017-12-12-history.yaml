@@ -1,7 +1,16 @@
 ngrams:
+- - unpaid
+  - occupation
+  - addendum
 - - youtube
   - et
   - voila
+- - useful
+  - unpaid
+  - occupation
+- - occupation
+  - addendum
+  - episode
 - - added
   - added
   - addendum
@@ -59,15 +68,6 @@ ngrams:
 - - those
   - years
   - ago
-- - thrumming
-  - their
-  - fingers
-- - their
-  - fingers
-  - idly
-- - staring
-  - into
-  - space
 story:
   date: 2017-12-12
   id: 2017-12-12-history

@@ -1,4 +1,10 @@
 ngrams:
+- - keenan
+  - celtic
+  - bard
+- - brian
+  - keenan
+  - celtic
 - - wicked
   - moses
   - basket
@@ -29,12 +35,6 @@ ngrams:
 - - continues
   - dear
   - mr
-- - dear
-  - mr
-  - key
-- - malevolent
-  - day
-  - bed
 story:
   date: 2004-11-17
   id: 2004-11-17-keenan-the-adventure-continues

@@ -5,6 +5,9 @@ ngrams:
 - - staid
   - bibliographical
   - canvas
+- - authors
+  - publishers
+  - illustrators
 - - aliases
   - authors
   - publishers
@@ -92,9 +95,6 @@ ngrams:
 - - case
   - an
   - annotated
-- - private
-  - case
-  - an
 story:
   date: 2012-11-07
   id: 2012-11-07-tap-tap

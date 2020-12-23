@@ -1,4 +1,10 @@
 ngrams:
+- - apprehensive
+  - dashing
+  - clotted
+- - spindly
+  - apprehensive
+  - dashing
 - - cetera
   - et
   - cetera
@@ -8,6 +14,9 @@ ngrams:
 - - partridges
   - et
   - cetera
+- - activity
+  - spindly
+  - apprehensive
 - - et
   - cetera
   - et
@@ -149,15 +158,6 @@ ngrams:
 - - fascinating
   - insight
   - into
-- - sports
-  - into
-  - team
-- - 'no'
-  - known
-  - human
-- - potato
-  - club
-  - out
 story:
   date: 2005-05-31
   id: 2005-05-31-dobson-on-sport

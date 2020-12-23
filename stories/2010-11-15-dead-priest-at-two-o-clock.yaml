@@ -8,6 +8,9 @@ ngrams:
 - - rigid
   - accusing
   - forefinger
+- - elevation
+  - deepened
+  - awe
 - - priest
   - seated
   - dead
@@ -17,6 +20,12 @@ ngrams:
 - - swollen
   - having
   - perished
+- - without
+  - elevation
+  - deepened
+- - conditions
+  - without
+  - elevation
 - - without
   - charm
   - nor
@@ -65,15 +74,6 @@ ngrams:
 - - flood
   - at
   - three
-- - obliquely
-  - upward
-  - by
-- - cab
-  - rolls
-  - by
-- - bore
-  - not
-  - less
 story:
   date: 2010-11-15
   id: 2010-11-15-dead-priest-at-two-o-clock

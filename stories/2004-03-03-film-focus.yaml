@@ -1,4 +1,7 @@
 ngrams:
+- - stepford
+  - hives
+  - ecological
 - - nazi
   - fortress
   - apocalypse
@@ -11,6 +14,9 @@ ngrams:
 - - scruffy
   - obsessed
   - ornithologist
+- - hives
+  - ecological
+  - horror
 - - imminent
   - uk
   - release
@@ -65,12 +71,6 @@ ngrams:
 - - bird
   - kind
   - richard
-- - american
-  - soldiers
-  - go
-- - two
-  - kevin
-  - costner
 story:
   date: 2004-03-03
   id: 2004-03-03-film-focus

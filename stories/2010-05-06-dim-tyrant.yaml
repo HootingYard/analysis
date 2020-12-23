@@ -146,6 +146,9 @@ ngrams:
 - - entertained
   - during
   - dinner
+- - viii
+  - whatever
+  - else
 - - sea
   - divers
   - chefs
@@ -209,6 +212,9 @@ ngrams:
 - - stupid
   - man
   - ruled
+- - viii
+  - reigned
+  - over
 - - plane
   - just
   - beyond
@@ -272,12 +278,6 @@ ngrams:
 - - reigned
   - over
   - us
-- - over
-  - us
-  - dim
-- - man
-  - ruled
-  - over
 story:
   date: 2010-05-06
   id: 2010-05-06-dim-tyrant

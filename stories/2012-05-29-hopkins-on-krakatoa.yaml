@@ -1,7 +1,13 @@
 ngrams:
+- - manley
+  - hopkins'
+  - reportage
 - - remarkable
   - krakatoa
   - sunsets
+- - gerard
+  - manley
+  - hopkins'
 - - public
   - domain
   - review
@@ -26,12 +32,6 @@ ngrams:
 - - or
   - else
   - tawny
-- - green
-  - or
-  - else
-- - or
-  - puckered
-  - make
 story:
   date: 2012-05-29
   id: 2012-05-29-hopkins-on-krakatoa

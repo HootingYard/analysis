@@ -17,6 +17,12 @@ ngrams:
 - - always
   - worth
   - keeping
+- - cormorants
+  - mr
+  - bradshaw
+- - mr
+  - bradshaw
+  - cormorants
 - - mr
   - john
   - randall
@@ -53,18 +59,12 @@ ngrams:
 - - hear
   - all
   - sides
+- - bradshaw
+  - cormorants
+  - are
 - - often
   - among
   - all
-- - population
-  - would
-  - still
-- - debates
-  - every
-  - so
-- - if
-  - foxes
-  - could
 story:
   date: 2005-02-11
   id: 2005-02-11-political-animals

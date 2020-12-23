@@ -17,6 +17,12 @@ ngrams:
 - - fads
   - studies
   - vol
+- - studies
+  - vol
+  - ix
+- - canadian
+  - forestry
+  - service
 - - beetle
   - meteorological
   - records
@@ -32,6 +38,9 @@ ngrams:
 - - decisive
   - mustachios
   - january
+- - unputdownable
+  - novel
+  - granted
 - - exhausted
   - heap
   - onto
@@ -41,6 +50,9 @@ ngrams:
 - - jim
   - pond
   - sees
+- - forestry
+  - service
+  - boots
 - - high
   - finance
   - technological
@@ -65,6 +77,9 @@ ngrams:
 - - obtain
   - certain
   - obscure
+- - big
+  - canadian
+  - forestry
 - - thick
   - creamy
   - paper
@@ -230,27 +245,12 @@ ngrams:
 - - occurs
   - once
   - more
-- - see
-  - tiny
-  - little
-- - tell
-  - us
-  - where
-- - been
-  - utterly
-  - convinced
-- - did
-  - dobson
-  - really
-- - down
-  - note
-  - dobson
-- - some
-  - hours
-  - later
-- - elegant
-  - smudges
-  - were
+- - vol
+  - ix
+  - 'no'
+- - pond
+  - has
+  - unearthed
 story:
   date: 2006-02-07
   id: 2006-02-07-elegant-smudges

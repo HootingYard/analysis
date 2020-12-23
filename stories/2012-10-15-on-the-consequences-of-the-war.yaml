@@ -29,6 +29,9 @@ ngrams:
 - - savage
   - mutant
   - otters
+- - curiously
+  - august
+  - antiques
 - - fashionable
   - cocktail
   - parties
@@ -56,12 +59,18 @@ ngrams:
 - - elegant
   - cocktail
   - parties
+- - antiques
+  - art
+  - aglets
 - - poisonous
   - nettle
   - happy
 - - burning
   - acid
   - holes
+- - august
+  - antiques
+  - art
 - - decent
   - cocktail
   - party
@@ -197,6 +206,12 @@ ngrams:
 - - than
   - six
   - hundred
+- - worst
+  - offender
+  - more
+- - offender
+  - more
+  - mistaken
 - - otherwise
   - collapse
   - like
@@ -392,21 +407,6 @@ ngrams:
 - - fixtures
   - 'yes'
   - one
-- - an
-  - almost
-  - intact
-- - are
-  - still
-  - taking
-- - these
-  - events
-  - are
-- - noddies
-  - had
-  - snuck
-- - about
-  - where
-  - these
 story:
   date: 2012-10-15
   id: 2012-10-15-on-the-consequences-of-the-war

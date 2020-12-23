@@ -16,10 +16,19 @@ ngrams:
   - players
 - - parlour
   - game
+  - thisis
+- - parlour
+  - game
   - popular
 - - themselves
   - hopelessly
   - trapped
+- - aa
+  - battery
+  - dead
+- - small
+  - aa
+  - battery
 - - imagine
   - themselves
   - hopelessly
@@ -35,6 +44,9 @@ ngrams:
 - - choose
   - three
   - cards
+- - each
+  - player's
+  - entrapment
 - - mineshaft
   - quite
   - alone
@@ -62,18 +74,6 @@ ngrams:
 - - built
   - its
   - nest
-- - typical
-  - selection
-  - could
-- - placed
-  - face
-  - down
-- - starling
-  - has
-  - built
-- - selection
-  - could
-  - read
 story:
   date: 2004-02-07
   id: 2004-02-07-a-parlour-game

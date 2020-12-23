@@ -29,6 +29,9 @@ ngrams:
 - - tom
   - pinch
   - pip
+- - scrooge
+  - bill
+  - sikes
 - - jenny
   - alfred
   - jingle
@@ -53,6 +56,12 @@ ngrams:
 - - garland
   - walter
   - gay
+- - bill
+  - sikes
+  - harold
+- - payne
+  - charity
+  - mercy
 - - job
   - trotter
   - josiah
@@ -62,6 +71,9 @@ ngrams:
 - - bucket
   - rosa
   - bud
+- - miss
+  - barbary
+  - martha
 - - solomon
   - daisy
   - charles
@@ -71,6 +83,9 @@ ngrams:
 - - abel
   - magwitch
   - peter
+- - barbara
+  - miss
+  - barbary
 - - inspector
   - bucket
   - rosa
@@ -98,6 +113,9 @@ ngrams:
 - - family
   - major
   - joseph
+- - dr
+  - payne
+  - charity
 - - mrs
   - cruncher
   - alderman
@@ -161,6 +179,9 @@ ngrams:
 - - christmas
   - past
   - present
+- - artful
+  - dodger
+  - mr
 - - fassbinder
   - mr
   - feeder
@@ -263,27 +284,6 @@ ngrams:
 - - to
   - cobble
   - together
-- - a
-  - composite
-  - dickensian
-- - create
-  - a
-  - composite
-- - diver
-  - dodson
-  - and
-- - dodson
-  - and
-  - fogg
-- - marion
-  - and
-  - martha
-- - nicholas
-  - and
-  - ralph
-- - kate
-  - nicholas
-  - and
 story:
   date: 2012-01-20
   id: 2012-01-20-on-dickensian-characters

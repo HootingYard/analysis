@@ -1,4 +1,13 @@
 ngrams:
+- - rita
+  - byrne
+  - tull
+- - byrne
+  - tull
+  - explains
+- - sister
+  - rita
+  - byrne
 - - gerard
   - manley
   - hopkins
@@ -20,15 +29,6 @@ ngrams:
 - - brief
   - brief
   - lives
-- - great
-  - victorian
-  - jesuit
-- - tull
-  - explains
-  - how
-- - father
-  - hopkins
-  - those
 story:
   date: 2014-02-19
   id: 2014-02-19-father-hopkins

@@ -1,4 +1,7 @@
 ngrams:
+- - rink
+  - arena
+  - clat
 - - opposing
   - team's
   - swords
@@ -20,6 +23,9 @@ ngrams:
 - - team's
   - swords
   - planning
+- - arena
+  - clat
+  - ford
 - - nut
   - attendant
   - retribution
@@ -53,6 +59,9 @@ ngrams:
 - - issuing
   - lengthy
   - directives
+- - individual
+  - player's
+  - skin
 - - chief
   - administrative
   - bodies
@@ -227,6 +236,9 @@ ngrams:
 - - de
   - smet
   - see
+- - after
+  - laura's
+  - husband
 - - opposing
   - side
   - away
@@ -251,6 +263,9 @@ ngrams:
 - - brief
   - sample
   - here
+- - named
+  - after
+  - laura's
 - - around
   - hoon
   - took
@@ -449,21 +464,6 @@ ngrams:
 - - sends
   - out
   - special
-- - out
-  - special
-  - inspectors
-- - began
-  - when
-  - tribal
-- - inspector
-  - has
-  - ever
-- - more
-  - than
-  - suggest
-- - football
-  - began
-  - when
 story:
   date: 2004-02-27
   id: 2004-02-27-rules-of-the-game

@@ -14,6 +14,9 @@ ngrams:
 - - gem
   - gerard
   - manley
+- - gerard
+  - manley
+  - hopkins'
 - - solid
   - edible
   - spheres
@@ -32,9 +35,18 @@ ngrams:
 - - literary
   - gem
   - gerard
+- - canadian
+  - forestry
+  - service
 - - unspeakable
   - nixon
   - popinjay
+- - manley
+  - hopkins'
+  - poem
+- - marquee
+  - tent
+  - pitched
 - - toffee
   - apple
   - weighted
@@ -89,6 +101,9 @@ ngrams:
 - - mud
   - vinegar
   - ectoplasm
+- - forestry
+  - service
+  - boots
 - - data
   - dr
   - spaceman
@@ -344,6 +359,9 @@ ngrams:
 - - clattering
   - behind
   - him
+- - unfounded
+  - did
+  - dobson
 - - sing
   - their
   - praises
@@ -356,6 +374,12 @@ ngrams:
 - - been
   - shelling
   - peas
+- - peripatetic
+  - person
+  - who
+- - peripatetic
+  - person
+  - who
 - - 'no'
   - longer
   - carry
@@ -380,30 +404,6 @@ ngrams:
 - - been
   - left
   - directly
-- - anything
-  - special
-  - about
-- - him
-  - kicked
-  - 'off'
-- - thinking
-  - hard
-  - about
-- - example
-  - your
-  - body
-- - did
-  - dobson
-  - read
-- - example
-  - when
-  - one's
-- - us
-  - sing
-  - their
-- - when
-  - one's
-  - life
 story:
   date: 2005-10-10
   id: 2005-10-10-peas

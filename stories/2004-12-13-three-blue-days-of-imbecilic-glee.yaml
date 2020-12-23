@@ -14,15 +14,24 @@ ngrams:
 - - toy
   - plastic
   - pig
+- - loog
+  - oldham
+  - next
 - - tiny
   - toy
   - plastic
 - - ayn
   - rand
   - every
+- - mr
+  - loog
+  - oldham
 - - big
   - black
   - boot
+- - oldham
+  - next
+  - door
 - - three
   - blue
   - days
@@ -89,15 +98,6 @@ ngrams:
 - - even
   - though
   - our
-- - were
-  - followed
-  - around
-- - when
-  - looking
-  - back
-- - how
-  - we
-  - pretended
 story:
   date: 2004-12-13
   id: 2004-12-13-three-blue-days-of-imbecilic-glee

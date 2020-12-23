@@ -17,6 +17,12 @@ ngrams:
 - - burlap
   - sacks
   - containing
+- - deactivated
+  - robot
+  - duck
+- - deactivated
+  - robot
+  - duck
 - - various
   - fevers
   - occurring
@@ -146,6 +152,9 @@ ngrams:
 - - been
   - safely
   - bagged
+- - duck
+  - been
+  - deactivated
 - - people
   - who
   - resemble
@@ -191,6 +200,12 @@ ngrams:
 - - also
   - kept
   - up
+- - been
+  - deactivated
+  - because
+- - been
+  - deactivated
+  - why
 - - people
   - out
   - strolling
@@ -215,21 +230,6 @@ ngrams:
 - - seconds
   - they
   - also
-- - hectic
-  - correspondence
-  - which
-- - plinth
-  - atop
-  - which
-- - plinth
-  - atop
-  - which
-- - plinth
-  - atop
-  - which
-- - atop
-  - which
-  - stands
 story:
   date: 2004-09-07
   id: 2004-09-07-eighteen-questions

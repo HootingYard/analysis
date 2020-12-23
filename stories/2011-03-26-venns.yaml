@@ -1,19 +1,34 @@
 ngrams:
+- - crib
+  - grain
+  - elevator
+- - venn
+  - diagram
+  - showing
 - - wood
   - crib
   - grain
 - - diagram
   - also
   - notable
+- - john
+  - venn
+  - himself
 - - its
   - glory
   - days
 - - diagram
   - showing
   - all
+- - grain
+  - elevator
+  - there
 - - showing
   - all
   - possible
+- - called
+  - venn
+  - which
 - - built
   - an
   - automatic
@@ -23,21 +38,6 @@ ngrams:
 - - glory
   - days
   - had
-- - notable
-  - for
-  - having
-- - also
-  - notable
-  - for
-- - have
-  - been
-  - thinking
-- - for
-  - having
-  - built
-- - be
-  - going
-  - 'on'
 story:
   date: 2011-03-26
   id: 2011-03-26-venns

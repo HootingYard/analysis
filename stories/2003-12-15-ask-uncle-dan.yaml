@@ -8,12 +8,18 @@ ngrams:
 - - household
   - cleaning
   - products
+- - dan
+  - recommends
+  - wikipedia
 - - design
   - soap
   - labels
 - - lad
   - i'll
   - wager
+- - uncle
+  - dan
+  - recommends
 - - belgium
   - uncle
   - dan
@@ -65,6 +71,9 @@ ngrams:
 - - scouring
   - powder
   - called
+- - tycoon
+  - whose
+  - family
 - - powder
   - called
   - vim
@@ -122,15 +131,6 @@ ngrams:
 - - dan
   - says
   - what
-- - talking
-  - about
-  - soap
-- - today
-  - when
-  - preparing
-- - about
-  - soap
-  - perhaps
 story:
   date: 2003-12-15
   id: 2003-12-15-ask-uncle-dan

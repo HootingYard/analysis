@@ -5,9 +5,15 @@ ngrams:
 - - cars
   - gigs
   - coaches
+- - dance
+  - impromptu
+  - polkas
 - - heavy
   - deliberate
   - trudge
+- - passing
+  - flatbed
+  - truck
 - - woods
   - owls
   - swooped
@@ -50,6 +56,9 @@ ngrams:
 - - found
   - myself
   - waving
+- - may
+  - safely
+  - graze
 - - bailiwick
   - sheep
   - may
@@ -134,6 +143,9 @@ ngrams:
 - - protest
   - but
   - eventually
+- - unthinkingly
+  - night
+  - had
 - - hours
   - had
   - passed
@@ -173,6 +185,9 @@ ngrams:
 - - followed
   - by
   - countless
+- - pageantry
+  - so
+  - when
 - - at
   - once
   - caught
@@ -194,21 +209,6 @@ ngrams:
 - - ignored
   - my
   - tremulous
-- - just
-  - by
-  - uttering
-- - my
-  - front
-  - gate
-- - horse
-  - just
-  - by
-- - am
-  - not
-  - averse
-- - by
-  - uttering
-  - its
 story:
   date: 2005-01-18
   id: 2005-01-18-pageantry

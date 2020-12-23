@@ -1,10 +1,22 @@
 ngrams:
+- - windigo
+  - xerxes
+  - yolanda
 - - vincenzo
   - windigo
   - xerxes
+- - ajax
+  - blackguard
+  - cutty
+- - ponderously
+  - intone
+  - ponderous
 - - ultravox
   - vincenzo
   - windigo
+- - blackguard
+  - cutty
+  - dismay
 - - intone
   - ponderous
   - incantations
@@ -14,6 +26,9 @@ ngrams:
 - - mildly
   - successful
   - cd
+- - curiously
+  - ageless
+  - blots
 - - successful
   - cd
   - release
@@ -35,21 +50,6 @@ ngrams:
 - - eerie
   - blot
   - family
-- - right
-  - ajax
-  - blackguard
-- - six
-  - living
-  - members
-- - family
-  - shown
-  - above
-- - munich
-  - air
-  - disaster
-- - rather
-  - eerie
-  - blot
 story:
   date: 2004-08-29
   id: 2004-08-29-the-blot-family

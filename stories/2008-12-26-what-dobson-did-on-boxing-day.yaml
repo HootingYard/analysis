@@ -2,6 +2,9 @@ ngrams:
 - - hectic
   - buzzing
   - drowns
+- - hildegard
+  - von
+  - bingen
 - - roman
   - empire
   - gesticulating
@@ -14,12 +17,36 @@ ngrams:
 - - holy
   - roman
   - empire
+- - sir
+  - herbert
+  - beerbohm
+- - bingen
+  - sir
+  - herbert
+- - herbert
+  - beerbohm
+  - tree
 - - legal
   - position
   - regarding
+- - submerged
+  - iron
+  - filament
+- - iron
+  - filament
+  - contraption
+- - figures
+  - including
+  - hildegard
+- - von
+  - bingen
+  - sir
 - - mythological
   - figures
   - including
+- - including
+  - hildegard
+  - von
 - - groovier
   - metal
   - tapping
@@ -59,6 +86,9 @@ ngrams:
 - - humming
   - old
   - latvian
+- - old
+  - thatched
+  - tavern
 - - old
   - latvian
   - folk
@@ -128,6 +158,9 @@ ngrams:
 - - life
   - dobson
   - ignored
+- - boiling
+  - more
+  - leeks
 - - kitchen
   - boiling
   - more
@@ -218,39 +251,6 @@ ngrams:
 - - may
   - take
   - some
-- - will
-  - spend
-  - much
-- - an
-  - extension
-  - cord
-- - attach
-  - an
-  - extension
-- - take
-  - some
-  - time
-- - completed
-  - this
-  - journal
-- - this
-  - journal
-  - entry
-- - sergeant
-  - or
-  - whoever
-- - or
-  - mythological
-  - figures
-- - or
-  - whoever
-  - answers
-- - one
-  - year
-  - during
-- - desk
-  - sergeant
-  - or
 story:
   date: 2008-12-26
   id: 2008-12-26-what-dobson-did-on-boxing-day

@@ -2,6 +2,9 @@ ngrams:
 - - gondoliers
   - minstrels
   - troubadours
+- - minstrels
+  - troubadours
+  - astronauts
 - - quakers
   - conjurers
   - reprobates
@@ -11,6 +14,9 @@ ngrams:
 - - robbers
   - quakers
   - conjurers
+- - troubadours
+  - astronauts
+  - emboldened
 - - towners
   - painters
   - pimps
@@ -109,12 +115,6 @@ ngrams:
   - several
 - - shrine
   - fixed
-  - himself
-- - groaning
-  - well
-  - satisfied
-- - including
-  - tarleton
   - himself
 story:
   date: 2016-02-11

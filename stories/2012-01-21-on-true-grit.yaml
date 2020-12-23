@@ -32,6 +32,9 @@ ngrams:
 - - superiors
   - lost
   - interest
+- - bicycles
+  - nor
+  - motorbikes
 - - ponies
   - nor
   - bicycles
@@ -482,9 +485,6 @@ ngrams:
 - - have
   - 'true'
   - grit
-- - shovel
-  - from
-  - between
 story:
   date: 2012-01-21
   id: 2012-01-21-on-true-grit

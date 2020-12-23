@@ -1,7 +1,19 @@
 ngrams:
+- - reflective
+  - mood
+  - whistling
+- - escarpment
+  - battered
+  - bruised
+- - luminous
+  - painted
+  - footpaths
 - - battered
   - bruised
   - hallucinating
+- - pitiless
+  - escarpment
+  - battered
 - - rock
   - formation
   - disappearing
@@ -98,6 +110,9 @@ ngrams:
 - - tent
   - within
   - minutes
+- - weird
+  - unwelcoming
+  - place
 - - railway
   - station
   - along
@@ -116,6 +131,9 @@ ngrams:
 - - that's
   - 'true'
   - enough
+- - find
+  - puny
+  - alpinist
 - - flames
   - while
   - approaching
@@ -206,6 +224,9 @@ ngrams:
 - - those
   - things
   - beginning
+- - some
+  - pitiless
+  - escarpment
 - - people
   - know
   - however
@@ -266,6 +287,9 @@ ngrams:
 - - formation
   - disappearing
   - into
+- - stare
+  - balefully
+  - into
 - - saw
   - 'no'
   - bones
@@ -308,6 +332,9 @@ ngrams:
 - - ocular
   - sciences
   - would
+- - would
+  - stare
+  - balefully
 - - transcript
   - ends
   - there
@@ -335,6 +362,12 @@ ngrams:
 - - human
   - being
   - has
+- - puny
+  - alpinist
+  - would
+- - alpinist
+  - would
+  - hold
 - - if
   - nothing
   - else
@@ -365,6 +398,9 @@ ngrams:
 - - spectacles
   - are
   - extremely
+- - impression
+  - which
+  - impinged
 - - are
   - myopic
   - added
@@ -386,42 +422,6 @@ ngrams:
 - - would
   - come
   - face
-- - an
-  - oversensitive
-  - digestive
-- - mist
-  - an
-  - impression
-- - awaited
-  - me
-  - even
-- - were
-  - those
-  - things
-- - their
-  - conversation
-  - has
-- - has
-  - been
-  - preserved
-- - 'no'
-  - bones
-  - 'no'
-- - conversation
-  - has
-  - been
-- - write
-  - an
-  - account
-- - dobson
-  - let
-  - me
-- - enough
-  - an
-  - hour
-- - an
-  - hour
-  - ago
 story:
   date: 2005-10-11
   id: 2005-10-11-the-magic-mountain

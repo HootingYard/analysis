@@ -53,6 +53,9 @@ ngrams:
 - - canisters
   - pin
   - cushions
+- - pin
+  - cushions
+  - toc
 - - clock
   - springs
   - grease
@@ -65,6 +68,12 @@ ngrams:
 - - rectangular
   - object
   - wrapped
+- - toc
+  - h
+  - lamps
+- - cushions
+  - toc
+  - h
 - - battered
   - biscuit
   - tins
@@ -473,15 +482,6 @@ ngrams:
 - - can
   - only
   - call
-- - dismantling
-  - your
-  - new
-- - your
-  - new
-  - original
-- - your
-  - bed
-  - go
 story:
   date: 2006-02-17
   id: 2006-02-17-the-ogsby-steering-panel

@@ -1,7 +1,13 @@
 ngrams:
+- - poleaxed
+  - cutty
+  - shredders
 - - uptown
   - gulls
   - greeted
+- - sheep
+  - poleaxed
+  - cutty
 - - spandau
   - ballet
   - stadium
@@ -365,12 +371,6 @@ ngrams:
 - - an
   - exclusive
   - resort
-- - an
-  - arena
-  - filled
-- - who
-  - entered
-  - their
 story:
   date: 2008-10-16
   id: 2008-10-16-uptown-top-ranking

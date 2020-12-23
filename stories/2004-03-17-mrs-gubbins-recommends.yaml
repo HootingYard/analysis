@@ -8,6 +8,15 @@ ngrams:
 - - meanwhile
   - content
   - yourself
+- - mrs
+  - gubbins
+  - recommends
+- - gubbins
+  - recommends
+  - mrs
+- - recommends
+  - mrs
+  - gubbins
 - - extraterrestrial
   - lizard
   - person
@@ -29,15 +38,6 @@ ngrams:
 - - these
   - diagrams
   - signed
-- - exciting
-  - new
-  - button
-- - our
-  - haemoglobin
-  - towers
-- - steering
-  - us
-  - towards
 story:
   date: 2004-03-17
   id: 2004-03-17-mrs-gubbins-recommends

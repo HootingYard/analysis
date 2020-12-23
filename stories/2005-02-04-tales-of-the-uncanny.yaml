@@ -41,6 +41,9 @@ ngrams:
 - - three
   - brief
   - tales
+- - kindly
+  - old
+  - washerwoman
 - - jarvis
   - being
   - engulfed
@@ -59,6 +62,9 @@ ngrams:
 - - hundred
   - years
   - three
+- - old
+  - washerwoman
+  - well
 - - next
   - hundred
   - years
@@ -116,12 +122,6 @@ ngrams:
 - - him
   - far
   - far
-- - she
-  - hoisted
-  - her
-- - right
-  - ear
-  - they
 story:
   date: 2005-02-04
   id: 2005-02-04-tales-of-the-uncanny

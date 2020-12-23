@@ -32,12 +32,21 @@ ngrams:
 - - imagined
   - observed
   - remembered
+- - entire
+  - sequences
+  - recounting
 - - drawing
   - sundry
   - items
+- - removed
+  - entire
+  - sequences
 - - ruined
   - church
   - incidentally
+- - sequences
+  - recounting
+  - wild
 - - quiet
   - english
   - countryside
@@ -74,6 +83,9 @@ ngrams:
 - - observed
   - remembered
   - best
+- - pallbearers
+  - stagger
+  - under
 - - rev
   - also
   - devotes
@@ -353,18 +365,6 @@ ngrams:
 - - now
   - we
   - find
-- - editions
-  - have
-  - followed
-- - studying
-  - at
-  - oxford
-- - has
-  - never
-  - been
-- - disease
-  - conducted
-  - at
 story:
   date: 2012-05-09
   id: 2012-05-09-on-kilvert-imagined-and-observed

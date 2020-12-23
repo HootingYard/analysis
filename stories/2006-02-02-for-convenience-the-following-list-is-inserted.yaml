@@ -2,6 +2,9 @@ ngrams:
 - - envelopes
   - figs
   - firkin
+- - currycomb
+  - dates
+  - dippers
 - - collars
   - pens
   - pepper
@@ -35,6 +38,9 @@ ngrams:
 - - strings
   - slippers
   - soap
+- - cups
+  - currycomb
+  - dates
 - - harness
   - examine
   - hatchet
@@ -83,12 +89,6 @@ ngrams:
 - - tents
   - tent
   - poles
-- - safe
-  - marline
-  - meal
-- - rope
-  - rubber
-  - blanket
 story:
   date: 2006-02-02
   id: 2006-02-02-for-convenience-the-following-list-is-inserted

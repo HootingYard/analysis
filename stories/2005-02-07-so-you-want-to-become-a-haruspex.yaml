@@ -1,4 +1,7 @@
 ngrams:
+- - owe
+  - outstanding
+  - fines
 - - luck
   - rosemary
   - f
@@ -44,6 +47,9 @@ ngrams:
 - - manuals
   - called
   - libri
+- - instructional
+  - manuals
+  - called
 - - three
   - etruscan
   - holidays
@@ -161,12 +167,6 @@ ngrams:
 - - ancient
   - tomes
   - are
-- - where
-  - your
-  - local
-- - that's
-  - where
-  - your
 story:
   date: 2005-02-07
   id: 2005-02-07-so-you-want-to-become-a-haruspex

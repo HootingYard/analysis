@@ -35,6 +35,9 @@ ngrams:
 - - elliott
   - o'donnell
   - byways
+- - milo
+  - hastings
+  - preface
 - - chemistry
   - poetical
   - effusions
@@ -47,6 +50,9 @@ ngrams:
 - - nathaniel
   - branden
   - judgment
+- - wallis
+  - budge
+  - egyptian
 - - houdini
   - miracle
   - mongers
@@ -89,6 +95,9 @@ ngrams:
 - - eaters
   - venomous
   - reptile
+- - antoine
+  - simon
+  - maillard
 - - virginia
   - woolf
   - diaries
@@ -152,6 +161,9 @@ ngrams:
 - - satire
   - humor
   - narrative
+- - reverend
+  - ian
+  - paisley
 - - isaac
   - g
   - briggs
@@ -206,6 +218,9 @@ ngrams:
 - - december
   - eliza
   - fowler
+- - arthur
+  - ambrose
+  - talbot
 - - december
   - nikola
   - tesla
@@ -227,6 +242,12 @@ ngrams:
 - - g
   - carter
   - stent
+- - august
+  - milo
+  - hastings
+- - kingdoms
+  - amended
+  - july
 - - crosses
   - july
   - seabury
@@ -272,6 +293,9 @@ ngrams:
 - - messiah
   - july
   - abigail
+- - budge
+  - egyptian
+  - ideas
 - - exploration
   - fawcett
   - december
@@ -314,6 +338,9 @@ ngrams:
 - - june
   - frederick
   - boyle
+- - dimension
+  - july
+  - aldous
 - - priest's
   - keepsake
   - july
@@ -326,6 +353,9 @@ ngrams:
 - - spofford
   - moonstone
   - mass
+- - july
+  - aldous
+  - huxley
 - - females
   - april
   - isaac
@@ -374,6 +404,9 @@ ngrams:
 - - oil
   - resin
   - alcohol
+- - august
+  - marie
+  - corelli
 - - livingston
   - divers
   - women
@@ -389,6 +422,9 @@ ngrams:
 - - myth
   - december
   - jerome
+- - diaries
+  - april
+  - antoine
 - - april
   - isaac
   - newton
@@ -446,6 +482,9 @@ ngrams:
 - - johnson
   - ll
   - d
+- - april
+  - antoine
+  - simon
 - - desires
   - february
   - maurice
@@ -461,6 +500,9 @@ ngrams:
 - - nervous
   - housewife
   - december
+- - deficiency
+  - january
+  - garrett
 - - operators
   - april
   - grant
@@ -494,12 +536,18 @@ ngrams:
 - - fiction
   - satire
   - humor
+- - hose
+  - william
+  - mcdougall
 - - august
   - michael
   - pollan
 - - january
   - elliott
   - o'donnell
+- - glucose
+  - deficiency
+  - january
 - - extraordinary
   - medicinal
   - fluid
@@ -530,6 +578,9 @@ ngrams:
 - - mary
   - ray
   - interviewed
+- - june
+  - arthur
+  - colton
 - - january
   - cyrus
   - townsend
@@ -704,6 +755,9 @@ ngrams:
 - - interesting
   - particulars
   - respecting
+- - agnes
+  - owen
+  - cave
 - - linen
   - nurse
   - january
@@ -788,6 +842,9 @@ ngrams:
 - - fourth
   - dimension
   - july
+- - david
+  - n
+  - carvalho
 - - women
   - november
   - hugh
@@ -803,6 +860,9 @@ ngrams:
 - - renaissance
   - period
   - october
+- - owen
+  - cave
+  - regions
 - - charles
   - l
   - goodrich
@@ -824,6 +884,9 @@ ngrams:
 - - july
   - w
   - n
+- - november
+  - robert
+  - cortes
 - - march
   - libyan
   - proverb
@@ -842,6 +905,9 @@ ngrams:
 - - april
   - robert
   - howlett
+- - amended
+  - july
+  - henry
 - - extraordinary
   - events
   - eccentric
@@ -1058,6 +1124,9 @@ ngrams:
 - - october
   - miles
   - burton
+- - september
+  - richard
+  - jefferies
 - - mass
   - january
   - clarence
@@ -1130,75 +1199,6 @@ ngrams:
 - - howard
   - f
   - c
-- - january
-  - mary
-  - ray
-- - february
-  - robert
-  - burton
-- - august
-  - david
-  - crosby
-- - papers
-  - february
-  - gerard
-- - planet
-  - mars
-  - august
-- - altar
-  - steps
-  - february
-- - queen
-  - anne
-  - march
-- - bread
-  - january
-  - arthur
-- - july
-  - charles
-  - williams
-- - september
-  - w
-  - j
-- - discovery
-  - february
-  - j
-- - october
-  - edward
-  - r
-- - february
-  - george
-  - gibbs
-- - threshold
-  - february
-  - william
-- - february
-  - william
-  - shaw
-- - noodles
-  - september
-  - william
-- - james
-  - napier
-  - folk
-- - seas
-  - december
-  - pansy
-- - charles
-  - m
-  - sheldon
-- - christ
-  - september
-  - don
-- - w
-  - n
-  - p
-- - repulsive
-  - paste
-  - february
-- - original
-  - papers
-  - embracing
 story:
   date: 2006-12-31
   id: 2006-12-31-quote-list

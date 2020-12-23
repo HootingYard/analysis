@@ -1,4 +1,7 @@
 ngrams:
+- - sinuous
+  - l'oreal
+  - toss
 - - peril
   - fop
   - dilemma
@@ -8,9 +11,15 @@ ngrams:
 - - eminent
   - pulp
   - writers
+- - pirate
+  - gang
+  - ix
 - - didcot
   - ii
   - pudding
+- - gang
+  - ix
+  - shoes
 - - b
   - maisie
   - pew
@@ -23,6 +32,9 @@ ngrams:
 - - maisie
   - pew
   - due
+- - ix
+  - shoes
+  - boots
 - - hero
   - dr
   - slab
@@ -44,6 +56,9 @@ ngrams:
 - - trauma
   - surgeon
   - myself
+- - bong
+  - mr
+  - bong
 - - late
   - s
   - each
@@ -122,21 +137,6 @@ ngrams:
 - - those
   - who
   - care
-- - their
-  - titles
-  - being
-- - much
-  - about
-  - felicities
-- - claim
-  - 'no'
-  - such
-- - about
-  - these
-  - ancient
-- - lovecraftian
-  - shudders
-  - are
 story:
   date: 2014-05-14
   id: 2014-05-14-ten-years-ago

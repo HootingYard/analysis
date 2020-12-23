@@ -1,13 +1,19 @@
 ngrams:
+- - pock
+  - po
+  - po
+- - tv
+  - pock
+  - po
+- - po
+  - po
+  - what
+- - po
+  - what
+  - does
 - - what
   - does
   - it
-- - it
-  - all
-  - mean
-- - does
-  - it
-  - all
 story:
   date: 2012-10-26
   id: 2012-10-26-crap-vox-tv-pock-po-po

@@ -1,19 +1,19 @@
 ngrams:
+- - ewart
+  - gladstone
+  - believed
+- - william
+  - ewart
+  - gladstone
 - - victorian
   - prime
   - minister
 - - prime
   - minister
   - news
-- - minister
-  - news
+- - news
   - william
-- - very
-  - very
-  - few
-- - are
-  - very
-  - very
+  - ewart
 story:
   date: 2004-03-02
   id: 2004-03-02-victorian-prime-minister-news

@@ -20,6 +20,9 @@ ngrams:
 - - minty
   - breath
   - t
+- - toc
+  - h
+  - lamp
 - - breath
   - t
   - thurn
@@ -80,6 +83,9 @@ ngrams:
 - - pang
   - hill
   - orphanage
+- - single
+  - toc
+  - h
 - - space
   - age
   - information
@@ -341,12 +347,6 @@ ngrams:
 - - check
   - team
   - they
-- - fossicking
-  - where
-  - their
-- - will
-  - find
-  - opportunities
 story:
   date: 2012-09-09
   id: 2012-09-09-on-fact-checking

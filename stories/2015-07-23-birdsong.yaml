@@ -1,4 +1,7 @@
 ngrams:
+- - plumage
+  - regales
+  - ya
 - - grebe
   - plumage
   - regales
@@ -14,9 +17,15 @@ ngrams:
 - - grebe
   - grebes
   - grebes
+- - clone
+  - ya
+  - you're
 - - bowie's
   - hit
   - boys
+- - heaven
+  - loves
+  - ya
 - - david
   - bowie's
   - hit
@@ -50,12 +59,21 @@ ngrams:
 - - hit
   - boys
   - keep
+- - ya
+  - nothing
+  - stands
 - - swinging
   - grebes
   - always
 - - swinging
   - grebes
   - always
+- - ya
+  - you're
+  - always
+- - regales
+  - ya
+  - life
 - - quite
   - worked
   - everything
@@ -65,6 +83,9 @@ ngrams:
 - - take
   - familiar
   - songs
+- - never
+  - clone
+  - ya
 - - they'll
   - never
   - clone
@@ -74,27 +95,6 @@ ngrams:
 - - grebes
   - always
   - work
-- - grebes
-  - always
-  - work
-- - luck
-  - just
-  - kissed
-- - flag
-  - luck
-  - just
-- - grebe
-  - other
-  - grebes
-- - other
-  - grebes
-  - check
-- - you're
-  - always
-  - first
-- - every
-  - way
-  - particularly
 story:
   date: 2015-07-23
   id: 2015-07-23-birdsong

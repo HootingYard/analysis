@@ -17,18 +17,27 @@ ngrams:
 - - toy
   - plastic
   - pig
+- - loog
+  - oldham
+  - next
 - - tiny
   - toy
   - plastic
 - - ayn
   - rand
   - every
+- - mr
+  - loog
+  - oldham
 - - big
   - black
   - boot
 - - entitled
   - three
   - blue
+- - oldham
+  - next
+  - door
 - - piece
   - entitled
   - three
@@ -101,15 +110,6 @@ ngrams:
 - - plans
   - were
   - dashed
-- - nevertheless
-  - when
-  - looking
-- - picnic
-  - plans
-  - were
-- - even
-  - though
-  - our
 story:
   date: 2013-12-15
   id: 2013-12-15-tenth-anniversary-ii

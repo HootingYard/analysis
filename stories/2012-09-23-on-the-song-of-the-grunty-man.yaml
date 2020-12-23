@@ -1,4 +1,10 @@
 ngrams:
+- - wagner
+  - lisps
+  - sweetly
+- - scriabin
+  - wagner
+  - lisps
 - - carl
   - palmer's
   - bass
@@ -125,6 +131,9 @@ ngrams:
 - - dim
   - green
   - mist
+- - nietzschean
+  - superman
+  - whether
 - - future
   - emerson
   - lake
@@ -137,6 +146,9 @@ ngrams:
 - - 'yes'
   - emerson
   - lake
+- - earth's
+  - primeval
+  - past
 - - phosphorescent
   - light
   - levels
@@ -221,6 +233,9 @@ ngrams:
 - - total
   - art
   - work
+- - space
+  - programme
+  - rather
 - - art
   - work
   - involving
@@ -341,6 +356,9 @@ ngrams:
 - - gordon
   - sumner
   - now
+- - lisps
+  - sweetly
+  - like
 - - hands
   - larger
   - than
@@ -389,6 +407,9 @@ ngrams:
 - - wanted
   - too
   - much
+- - programme
+  - rather
+  - than
 - - sumner
   - now
   - known
@@ -413,27 +434,6 @@ ngrams:
 - - write
   - more
   - soon
-- - tuneless
-  - once
-  - more
-- - their
-  - mundane
-  - doldrums
-- - session
-  - curled
-  - up
-- - moulded
-  - their
-  - din
-- - shall
-  - write
-  - more
-- - woke
-  - up
-  - briefly
-- - grunty
-  - man
-  - down
 story:
   date: 2012-09-23
   id: 2012-09-23-on-the-song-of-the-grunty-man

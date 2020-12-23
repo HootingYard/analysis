@@ -41,6 +41,9 @@ ngrams:
 - - some
   - famous
   - last
+- - emperor
+  - vespasian
+  - all
 - - am
   - now
   - becoming
@@ -56,9 +59,6 @@ ngrams:
 - - poles
   - or
   - degrees
-- - words
-  - this
-  - afternoon
 story:
   date: 2004-09-25
   id: 2004-09-25-famous-last-words

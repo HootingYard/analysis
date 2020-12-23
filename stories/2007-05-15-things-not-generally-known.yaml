@@ -1,7 +1,13 @@
 ngrams:
+- - literary
+  - emanations
+  - appearing
 - - upper
   - classes
   - touching
+- - poisonous
+  - literary
+  - emanations
 - - lunatic
   - asylum
   - speaking
@@ -20,6 +26,9 @@ ngrams:
 - - religious
   - books
   - dr
+- - emanations
+  - appearing
+  - without
 - - appearing
   - without
   - authority
@@ -77,15 +86,6 @@ ngrams:
 - - also
   - read
   - about
-- - about
-  - such
-  - matters
-- - read
-  - about
-  - such
-- - lecture
-  - delivered
-  - at
 story:
   date: 2007-05-15
   id: 2007-05-15-things-not-generally-known

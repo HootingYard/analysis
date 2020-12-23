@@ -1,4 +1,7 @@
 ngrams:
+- - diagrams
+  - graphs
+  - squiggles
 - - military
   - adventure
   - operation
@@ -101,15 +104,12 @@ ngrams:
 - - quotations
   - are
   - selected
+- - author
+  - are
+  - excerpted
 - - selection
   - after
   - all
-- - an
-  - apparatus
-  - designed
-- - like
-  - having
-  - their
 story:
   date: 2004-11-10
   id: 2004-11-10-how-the-quotations-are-selected

@@ -1,4 +1,10 @@
 ngrams:
+- - episode
+  - swan
+  - registry
+- - swan
+  - registry
+  - version
 - - yesterday's
   - exciting
   - episode
@@ -8,12 +14,6 @@ ngrams:
 - - hooting
   - yard
   - 'on'
-- - listen
-  - to
-  - yesterday's
-- - to
-  - yesterday's
-  - exciting
 story:
   date: 2017-03-03
   id: 2017-03-03-episode-44-swan-registry-version

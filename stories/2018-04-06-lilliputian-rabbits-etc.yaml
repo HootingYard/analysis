@@ -26,6 +26,12 @@ ngrams:
 - - quincey
   - john
   - keats
+- - mrs
+  - leigh
+  - hunt
+- - visions
+  - mrs
+  - leigh
 - - splendid
   - dreams
   - lamb
@@ -68,12 +74,6 @@ ngrams:
 - - reinforce
   - her
   - terrible
-- - others
-  - who
-  - helped
-- - who
-  - helped
-  - themselves
 story:
   date: 2018-04-06
   id: 2018-04-06-lilliputian-rabbits-etc

@@ -2,9 +2,18 @@ ngrams:
 - - transplant
   - whippet
   - turbine
+- - guild
+  - antiques
+  - brighton
+- - women's
+  - guild
+  - antiques
 - - motor
   - mower
   - cycling
+- - antiques
+  - brighton
+  - sex
 - - disposable
   - nappy
   - mice
@@ -98,15 +107,6 @@ ngrams:
 - - service
   - devon
   - opposite
-- - test
-  - tube
-  - baby
-- - cb
-  - radio
-  - speedway
-- - golden
-  - frills
-  - harvest
 story:
   date: 2011-07-07
   id: 2011-07-07-british-psychology

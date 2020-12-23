@@ -1,7 +1,22 @@
 ngrams:
+- - collectively
+  - titled
+  - sulky
+- - titled
+  - sulky
+  - bulgarian
+- - sulky
+  - bulgarian
+  - poets
+- - sulky
+  - bulgarian
+  - poets
 - - bulgarian
   - poet
   - elvis
+- - sulky
+  - bulgarian
+  - poet
 - - bulgarian
   - poets
   - unfortunately
@@ -14,6 +29,9 @@ ngrams:
 - - unholy
   - refrigerator
   - another
+- - unearthed
+  - another
+  - set
 - - same
   - era
   - these
@@ -23,24 +41,6 @@ ngrams:
 - - an
   - unholy
   - refrigerator
-- - carp
-  - an
-  - enormous
-- - an
-  - enormous
-  - schooner
-- - era
-  - these
-  - are
-- - one
-  - exception
-  - number
-- - six
-  - cards
-  - from
-- - undimmed
-  - by
-  - death
 story:
   date: 2016-12-29
   id: 2016-12-29-sulky-bulgarian-poets

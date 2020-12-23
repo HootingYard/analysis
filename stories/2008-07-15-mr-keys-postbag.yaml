@@ -119,6 +119,12 @@ ngrams:
 - - division
   - four
   - north
+- - disgruntled
+  - kittiwake
+  - called
+- - kittiwake
+  - called
+  - margaret
 - - called
   - margaret
   - achieved
@@ -131,6 +137,9 @@ ngrams:
 - - unerring
   - glory
   - three
+- - rather
+  - disgruntled
+  - kittiwake
 - - saw
   - metal
   - glinting
@@ -341,15 +350,6 @@ ngrams:
 - - two
   - allowing
   - their
-- - there
-  - crudely
-  - wrapped
-- - team
-  - made
-  - up
-- - their
-  - day
-  - crackling
 story:
   date: 2008-07-15
   id: 2008-07-15-mr-keys-postbag

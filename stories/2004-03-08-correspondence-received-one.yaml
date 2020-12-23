@@ -1,4 +1,7 @@
 ngrams:
+- - restaurant
+  - blackhead
+  - jungle
 - - tense
   - spy
   - thriller
@@ -41,6 +44,9 @@ ngrams:
 - - absolutely
   - terrifying
   - prehistoric
+- - blackhead
+  - jungle
+  - '-'
 - - horace
   - '-'
   - unwary
@@ -68,12 +74,6 @@ ngrams:
 - - earth
   - '-'
   - absolutely
-- - mr
-  - hyde
-  - park
-- - most
-  - thrilling
-  - dr
 story:
   date: 2004-03-08
   id: 2004-03-08-correspondence-received-one

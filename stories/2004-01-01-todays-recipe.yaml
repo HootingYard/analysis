@@ -1,4 +1,7 @@
 ngrams:
+- - cook
+  - nath
+  - brook
 - - scalding
   - hot
   - stirring
@@ -65,9 +68,6 @@ ngrams:
 - - you
   - must
   - scour
-- - every
-  - laying
-  - you
 story:
   date: 2004-01-01
   id: 2004-01-01-todays-recipe

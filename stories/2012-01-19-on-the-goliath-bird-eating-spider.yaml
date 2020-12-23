@@ -32,6 +32,9 @@ ngrams:
 - - henry
   - fonda
   - won
+- - played
+  - scott
+  - carey
 - - version
   - starring
   - fonda
@@ -92,6 +95,9 @@ ngrams:
 - - tiny
   - henry
   - fonda
+- - course
+  - carey
+  - fonda
 - - yard
   - search
   - pane
@@ -143,6 +149,9 @@ ngrams:
 - - two
   - best
   - actor
+- - where
+  - scott
+  - carey
 - - won
   - two
   - best
@@ -248,15 +257,6 @@ ngrams:
 - - our
   - hands
   - over
-- - hands
-  - over
-  - our
-- - get
-  - him
-  - started
-- - over
-  - our
-  - eyes
 story:
   date: 2012-01-19
   id: 2012-01-19-on-the-goliath-bird-eating-spider

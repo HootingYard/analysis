@@ -1,4 +1,10 @@
 ngrams:
+- - barber
+  - sweeney
+  - todd
+- - sweeney
+  - todd
+  - unfortunately
 - - intractable
   - problems
   - occur
@@ -368,12 +374,6 @@ ngrams:
 - - could
   - we
   - trace
-- - precipice
-  - such
-  - are
-- - will
-  - kill
-  - them
 story:
   date: 2012-09-22
   id: 2012-09-22-on-the-great-panjandrum

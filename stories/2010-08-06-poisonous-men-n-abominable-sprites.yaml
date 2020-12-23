@@ -17,6 +17,12 @@ ngrams:
 - - poisonous
   - men
   - abominable
+- - doe
+  - these
+  - envious
+- - these
+  - envious
+  - persons
 - - those
   - cursed
   - souls
@@ -74,12 +80,6 @@ ngrams:
 - - neither
   - do
   - these
-- - lance
-  - poison
-  - out
-- - world
-  - what
-  - doe
 story:
   date: 2010-08-06
   id: 2010-08-06-poisonous-men-n-abominable-sprites

@@ -183,6 +183,9 @@ ngrams:
   - your
   - garments
 - - your
+  - invented
+  - embroideries
+- - your
   - tale
   - casually
 - - embroider
@@ -206,9 +209,15 @@ ngrams:
 - - if
   - delivered
   - persuasively
+- - embroideries
+  - if
+  - delivered
 - - assembled
   - company
   - when
+- - invented
+  - embroideries
+  - if
 - - wish
   - embroider
   - your
@@ -293,6 +302,15 @@ ngrams:
 - - shout
   - your
   - head
+- - embroideries
+  - are
+  - outlandish
+- - embroideries
+  - if
+  - those
+- - if
+  - those
+  - embroideries
 - - taken
   - away
   - into
@@ -347,24 +365,6 @@ ngrams:
 - - take
   - place
   - there
-- - pastime
-  - drive
-  - this
-- - tot
-  - them
-  - up
-- - keeping
-  - an
-  - eye
-- - wall
-  - isn't
-  - this
-- - example
-  - creates
-  - an
-- - your
-  - head
-  - 'off'
 story:
   date: 2012-02-28
   id: 2012-02-28-on-counting-corks

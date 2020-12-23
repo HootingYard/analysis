@@ -11,6 +11,9 @@ ngrams:
 - - mayhem
   - oscar
   - plank
+- - hinge
+  - albino
+  - saboteur
 - - dutch
   - dentist
   - monsignor
@@ -20,6 +23,9 @@ ngrams:
 - - convict
   - jim
   - pail
+- - albino
+  - saboteur
+  - lying
 - - poisoner
   - bottom
   - row
@@ -35,12 +41,6 @@ ngrams:
 - - lane
   - poisoner
   - bottom
-- - riots
-  - top
-  - row
-- - prison
-  - riots
-  - top
 story:
   date: 2004-03-27
   id: 2004-03-27-the-birdhole-prison-riots

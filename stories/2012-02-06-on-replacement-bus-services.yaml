@@ -32,6 +32,9 @@ ngrams:
 - - shrubs
   - huts
   - outbuildings
+- - towers
+  - unoccupied
+  - plinths
 - - swimming
   - pools
   - chimneys
@@ -68,6 +71,9 @@ ngrams:
 - - otter
   - sanctuaries
   - car
+- - buffet
+  - stewards
+  - gathered
 - - industrial
   - estates
   - science
@@ -92,12 +98,18 @@ ngrams:
 - - playing
   - improvised
   - games
+- - unoccupied
+  - plinths
+  - standing
 - - trees
   - shrubs
   - huts
 - - gathered
   - smoking
   - pipes
+- - plinths
+  - standing
+  - stones
 - - standing
   - stones
   - plague
@@ -140,6 +152,9 @@ ngrams:
 - - railway
   - tracks
   - themselves
+- - stewards
+  - gathered
+  - together
 - - transport
   - however
   - appealing
@@ -365,21 +380,6 @@ ngrams:
 - - modern
   - parlance
   - they
-- - recent
-  - ancestors
-  - we
-- - familiar
-  - context
-  - they
-- - depend
-  - above
-  - all
-- - must
-  - cast
-  - your
-- - bus
-  - waiting
-  - there
 story:
   date: 2012-02-06
   id: 2012-02-06-on-replacement-bus-services

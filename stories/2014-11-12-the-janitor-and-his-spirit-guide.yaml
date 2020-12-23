@@ -5,9 +5,15 @@ ngrams:
 - - unalloyed
   - gusto
   - pop
+- - gusto
+  - pop
+  - ix
 - - squelchy
   - invasions
   - usually
+- - pop
+  - ix
+  - pop
 - - spirit
   - guides
   - mentioned
@@ -287,12 +293,6 @@ ngrams:
 - - duty
   - made
   - all
-- - duty
-  - made
-  - all
-- - which
-  - rather
-  - proves
 story:
   date: 2014-11-12
   id: 2014-11-12-the-janitor-and-his-spirit-guide

@@ -32,6 +32,9 @@ ngrams:
 - - only
   - fruit
   - offered
+- - commentaries
+  - upon
+  - boerhaave
 - - other
   - glass
   - receptacle
@@ -53,6 +56,9 @@ ngrams:
 - - called
   - them
   - gave
+- - surly
+  - wench
+  - out
 - - under
   - anxiety
   - about
@@ -122,12 +128,6 @@ ngrams:
 - - receptacle
   - or
   - else
-- - roof
-  - tiles
-  - from
-- - injury
-  - from
-  - falling
 story:
   date: 2009-02-18
   id: 2009-02-18-the-glass-man

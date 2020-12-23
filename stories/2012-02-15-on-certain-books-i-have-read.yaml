@@ -182,9 +182,15 @@ ngrams:
 - - book
   - itself
   - again
+- - carey
+  - other
+  - titles
 - - other
   - titles
   - summon
+- - peter
+  - carey
+  - other
 - - london
   - without
   - being
@@ -374,12 +380,6 @@ ngrams:
 - - list
   - are
   - little
-- - severed
-  - head
-  - which
-- - older
-  - sisters
-  - had
 story:
   date: 2012-02-15
   id: 2012-02-15-on-certain-books-i-have-read

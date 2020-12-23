@@ -5,6 +5,9 @@ ngrams:
 - - naval
   - commando
   - frogmen
+- - heroic
+  - frogman
+  - impervious
 - - wartime
   - frogmen
   - working
@@ -26,6 +29,9 @@ ngrams:
 - - subaquatic
   - commandos
   - show
+- - particularly
+  - heroic
+  - frogman
 - - preparing
   - ourselves
   - mind
@@ -56,6 +62,9 @@ ngrams:
 - - innsmouth
   - under
   - cover
+- - every
+  - frogman
+  - billeted
 - - arms
   - slung
   - around
@@ -206,6 +215,9 @@ ngrams:
 - - their
   - commando
   - forebears
+- - frogman
+  - who
+  - comes
 - - who
   - comes
   - padding
@@ -419,18 +431,6 @@ ngrams:
 - - frighten
   - us
   - we
-- - nobody
-  - would
-  - ever
-- - sea
-  - we
-  - should
-- - an
-  - enemy
-  - submarine
-- - having
-  - identified
-  - which
 story:
   date: 2012-07-01
   id: 2012-07-01-on-frogmen-and-toadies

@@ -8,6 +8,9 @@ ngrams:
 - - opinion
   - nigel
   - respected
+- - evangelical
+  - christian
+  - architect
 - - frazzled
   - touch
   - typist
@@ -50,6 +53,9 @@ ngrams:
 - - massive
   - heart
   - attack
+- - sat
+  - happily
+  - manicuring
 - - office
   - identifying
   - exciting
@@ -230,9 +236,15 @@ ngrams:
 - - her
   - typing
   - session
+- - manicuring
+  - her
+  - nails
 - - begun
   - her
   - typing
+- - happily
+  - manicuring
+  - her
 - - struggle
   - rather
   - than
@@ -407,18 +419,6 @@ ngrams:
 - - give
   - her
   - any
-- - nigel
-  - would
-  - accept
-- - reception
-  - desk
-  - there
-- - twaddle
-  - nigel
-  - would
-- - local
-  - pub
-  - they
 story:
   date: 2012-04-03
   id: 2012-04-03-on-my-friend-nigel

@@ -2,6 +2,12 @@ ngrams:
 - - found
   - four
   - kinds
+- - richard
+  - jefferies
+  - after
+- - jefferies
+  - after
+  - london
 - - most
   - often
   - seen
@@ -14,12 +20,6 @@ ngrams:
 - - wild
   - pigs
   - are
-- - wild
-  - pigs
-  - are
-- - pigs
-  - are
-  - found
 story:
   date: 2004-12-30
   id: 2004-12-30-four-kinds-of-wild-pigs-are-found

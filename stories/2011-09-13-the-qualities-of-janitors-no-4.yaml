@@ -41,6 +41,12 @@ ngrams:
 - - among
   - sam's
   - other
+- - them
+  - nightly
+  - sam
+- - used
+  - them
+  - nightly
 - - him
   - under
   - inspection
@@ -50,12 +56,6 @@ ngrams:
 - - janitors
   - 'no'
   - among
-- - about
-  - these
-  - supernatural
-- - talked
-  - about
-  - these
 story:
   date: 2011-09-13
   id: 2011-09-13-the-qualities-of-janitors-no-4

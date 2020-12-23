@@ -1,4 +1,10 @@
 ngrams:
+- - eclairs
+  - faggots
+  - garlic
+- - faggots
+  - garlic
+  - greens
 - - pulses
   - salad
   - scones
@@ -230,12 +236,6 @@ ngrams:
 - - don't
   - mind
   - telling
-- - great
-  - prominent
-  - flaps
-- - ship's
-  - biscuits
-  - until
 story:
   date: 2005-06-08
   id: 2005-06-08-the-taxonomy-of-ducks-swans-and-geese-is-in-a-state-of-flux

@@ -92,6 +92,12 @@ ngrams:
 - - little
   - cow
   - otherwise
+- - new
+  - interactive
+  - hooting
+- - interactive
+  - hooting
+  - yard
 - - hooting
   - yard
   - project
@@ -134,12 +140,6 @@ ngrams:
 - - an
   - unfortunate
   - painful
-- - could
-  - end
-  - up
-- - assignment
-  - attached
-  - this
 story:
   date: 2006-01-26
   id: 2006-01-26-cow-homework

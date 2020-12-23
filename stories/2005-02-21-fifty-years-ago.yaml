@@ -1,4 +1,7 @@
 ngrams:
+- - magisterium
+  - bossa
+  - nova
 - - shroud
   - orrery
   - sleuth
@@ -20,6 +23,9 @@ ngrams:
 - - rex
   - shroud
   - orrery
+- - whodunits
+  - featuring
+  - rex
 - - noise
   - sleet
   - created
@@ -254,12 +260,6 @@ ngrams:
 - - thought
   - into
   - giving
-- - parallel
-  - world
-  - out
-- - what
-  - took
-  - place
 story:
   date: 2005-02-21
   id: 2005-02-21-fifty-years-ago

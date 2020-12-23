@@ -1,4 +1,10 @@
 ngrams:
+- - nanoseconds
+  - agent
+  - velma
+- - agent
+  - velma
+  - nebraska
 - - within
   - nanoseconds
   - agent
@@ -17,12 +23,6 @@ ngrams:
 - - us
   - within
   - nanoseconds
-- - regular
-  - intervals
-  - our
-- - potato
-  - news
-  - here
 story:
   date: 2004-02-18
   id: 2004-02-18-important-potato-news

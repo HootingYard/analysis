@@ -1,10 +1,16 @@
 ngrams:
+- - inquisitor
+  - commander
+  - sublime
 - - intimate
   - secretary
   - provost
 - - elect
   - mason
   - knight
+- - inspector
+  - inquisitor
+  - commander
 - - icelandic
   - fisherman
   - spy
@@ -41,6 +47,9 @@ ngrams:
 - - master
   - intimate
   - secretary
+- - grand
+  - inspector
+  - inquisitor
 - - pontiff
   - master
   - ad
@@ -77,6 +86,9 @@ ngrams:
 - - commander
   - sublime
   - prince
+- - airtight
+  - food
+  - container
 - - brazen
   - serpent
   - prince
@@ -119,6 +131,9 @@ ngrams:
 - - building
   - master
   - elect
+- - airtight
+  - plastic
+  - food
 - - h
   - r
   - d
@@ -182,9 +197,15 @@ ngrams:
 - - three
   - degrees
   - ought
+- - resulting
+  - scuffle
+  - dobson
 - - immortal
   - soul
   - through
+- - scuffle
+  - dobson
+  - arrived
 - - event
   - dobson
   - served
@@ -278,27 +299,6 @@ ngrams:
 - - warn
   - dobson
   - about
-- - which
-  - tucked
-  - neatly
-- - container
-  - which
-  - tucked
-- - occasions
-  - when
-  - dobson
-- - windcheater
-  - what
-  - did
-- - food
-  - container
-  - which
-- - an
-  - icelandic
-  - fisherman
-- - an
-  - icelandic
-  - fisherman
 story:
   date: 2006-03-26
   id: 2006-03-26-fingerprints

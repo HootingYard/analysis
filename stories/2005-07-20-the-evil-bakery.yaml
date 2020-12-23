@@ -1,7 +1,28 @@
 ngrams:
+- - youngsters
+  - strum
+  - guitars
+- - scruffy
+  - youngsters
+  - strum
+- - eek
+  - eek
+  - trilled
+- - bakery
+  - eek
+  - eek
+- - impressionist
+  - painter
+  - captured
 - - wherein
   - scruffy
   - youngsters
+- - french
+  - impressionist
+  - painter
+- - evil
+  - bakery
+  - eek
 - - rare
   - oriental
   - spices
@@ -14,6 +35,9 @@ ngrams:
 - - massive
   - hairy
   - paws
+- - vast
+  - gloomy
+  - bakery
 - - giant
   - foreign
   - cathedral
@@ -29,15 +53,24 @@ ngrams:
 - - wishing
   - themselves
   - invisible
+- - gloomy
+  - bakery
+  - itself
 - - milk
   - bar
   - wherein
+- - evil
+  - bakery
+  - itself
 - - spirits
   - flying
   - round
 - - flit
   - past
   - wishing
+- - swift
+  - sure
+  - brushstrokes
 - - clouds
   - scudded
   - across
@@ -116,39 +149,6 @@ ngrams:
 - - about
   - tin
   - tin
-- - terrified
-  - they
-  - responded
-- - library
-  - they
-  - chuckled
-- - iron
-  - gates
-  - they
-- - owl
-  - library
-  - they
-- - gates
-  - they
-  - heard
-- - down
-  - their
-  - chins
-- - dribbled
-  - down
-  - their
-- - they
-  - sat
-  - outside
-- - hailstones
-  - are
-  - pinging
-- - binoculars
-  - what
-  - did
-- - what
-  - exactly
-  - did
 story:
   date: 2005-07-20
   id: 2005-07-20-the-evil-bakery

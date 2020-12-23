@@ -5,6 +5,9 @@ ngrams:
 - - katharina
   - wilson's
   - visitor
+- - karla
+  - turner
+  - mentions
 - - tommy
   - guns
   - aiming
@@ -38,6 +41,12 @@ ngrams:
 - - expert
   - david
   - m
+- - hat
+  - karla
+  - turner
+- - cowboy
+  - hat
+  - karla
 - - enormous
   - white
   - cowboy
@@ -122,15 +131,6 @@ ngrams:
 - - mixed
   - parentage
   - could
-- - like
-  - s
-  - thugs
-- - parentage
-  - could
-  - help
-- - dressed
-  - like
-  - s
 story:
   date: 2010-09-22
   id: 2010-09-22-h

@@ -1,4 +1,10 @@
 ngrams:
+- - phone
+  - ringtones
+  - here's
+- - mobile
+  - phone
+  - ringtones
 - - mobile
   - phone
   - bleeping
@@ -59,12 +65,6 @@ ngrams:
 - - than
   - your
   - shoes
-- - then
-  - every
-  - time
-- - language
-  - while
-  - we
 story:
   date: 2004-07-22
   id: 2004-07-22-s-and-n

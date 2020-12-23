@@ -1,4 +1,10 @@
 ngrams:
+- - pope
+  - benedict's
+  - visit
+- - against
+  - pope
+  - benedict's
 - - islamic
   - protest
   - against
@@ -8,12 +14,6 @@ ngrams:
 - - pontiff
   - shut
   - your
-- - shut
-  - your
-  - mouth
-- - shut
-  - your
-  - mouth
 story:
   date: 2006-11-29
   id: 2006-11-29-shut-your-mouth-wine-drinking-pontiff

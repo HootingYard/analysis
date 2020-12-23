@@ -29,27 +29,27 @@ ngrams:
 - - premieres
   - or
   - rockets
+- - or
+  - maris
+  - pipers
+- - maris
+  - pipers
+  - or
+- - or
+  - maris
+  - peers
+- - maris
+  - peers
+  - or
+- - peers
+  - or
+  - maris
 - - apples
   - or
   - premieres
 - - javelins
   - or
   - pink
-- - wonders
-  - or
-  - harmonies
-- - or
-  - golden
-  - wonders
-- - golden
-  - wonders
-  - or
-- - or
-  - belle
-  - de
-- - or
-  - king
-  - edwards
 story:
   date: 2008-01-22
   id: 2008-01-22-year-of-the-potato

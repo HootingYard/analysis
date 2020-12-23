@@ -1,16 +1,40 @@
 ngrams:
+- - outlasting
+  - homer
+  - beowulf
 - - shem
   - ham
   - japheth
+- - pedantic
+  - register
+  - gazette
 - - pods
   - transylvanian
   - castles
+- - gillespie's
+  - pedantic
+  - register
+- - stations
+  - skyscrapers
+  - futuristic
+- - enigmatically
+  - unconsummated
+  - affair
+- - skyscrapers
+  - futuristic
+  - pods
 - - futuristic
   - pods
   - transylvanian
 - - transylvanian
   - castles
   - urban
+- - castles
+  - urban
+  - dystopias
+- - ages
+  - outlasting
+  - homer
 - - fuming
   - hallucinatory
   - miasma
@@ -41,12 +65,21 @@ ngrams:
 - - till
   - dusk
   - conjuring
+- - suez
+  - canal
+  - visionary
+- - canal
+  - visionary
+  - ferdinand
 - - gazette
   - doctor
   - gillespie
 - - singular
   - literary
   - career
+- - doctor
+  - gillespie's
+  - pedantic
 - - glue
   - factory
   - japheth
@@ -56,12 +89,18 @@ ngrams:
 - - placed
   - shem
   - ham
+- - space
+  - stations
+  - skyscrapers
 - - gaudy
   - palaces
   - space
 - - palaces
   - space
   - stations
+- - visionary
+  - ferdinand
+  - de
 - - shabby
   - apartment
   - building
@@ -107,6 +146,9 @@ ngrams:
 - - second
   - tale
   - shem
+- - unconsummated
+  - affair
+  - among
 - - story
   - based
   - vaguely
@@ -128,6 +170,9 @@ ngrams:
 - - towards
   - war
   - minnie
+- - survived
+  - indeed
+  - prospered
 - - contemporaries
   - both
   - born
@@ -146,6 +191,12 @@ ngrams:
 - - bible
   - praise
   - indeed
+- - yet
+  - enigmatically
+  - unconsummated
+- - passionate
+  - yet
+  - enigmatically
 - - europe
   - edged
   - once
@@ -248,6 +299,9 @@ ngrams:
 - - waste
   - chute
   - over
+- - suez
+  - canal
+  - where
 - - modern
   - than
   - jim
@@ -320,6 +374,9 @@ ngrams:
 - - carted
   - her
   - lover
+- - morgue
+  - she
+  - remained
 - - vincenzo
   - presented
   - her
@@ -428,6 +485,9 @@ ngrams:
 - - her
   - criminal
   - past
+- - amnesty
+  - just
+  - before
 - - mentor
   - she
   - went
@@ -512,66 +572,6 @@ ngrams:
 - - find
   - her
   - scribbling
-- - took
-  - some
-  - solace
-- - must
-  - mark
-  - her
-- - criminal
-  - past
-  - has
-- - fictional
-  - character
-  - who
-- - she
-  - babbled
-  - away
-- - too
-  - her
-  - career
-- - again
-  - her
-  - hair
-- - your
-  - deranged
-  - jottings
-- - writings
-  - give
-  - 'no'
-- - give
-  - 'no'
-  - clues
-- - those
-  - two
-  - great
-- - her
-  - scribbling
-  - away
-- - publish
-  - your
-  - deranged
-- - next
-  - week
-  - she
-- - am
-  - undone
-  - these
-- - until
-  - her
-  - second
-- - babbled
-  - incessantly
-  - about
-- - she
-  - passed
-  - away
-- - stories
-  - about
-  - noah's
-- - long
-  - some
-  - close
 story:
   date: 2005-06-29
   id: 2005-06-29-shem-ham-japheth-and-minnie-crunlop

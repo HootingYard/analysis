@@ -1,4 +1,13 @@
 ngrams:
+- - melancholic
+  - choleric
+  - sanguine
+- - commendably
+  - concise
+  - paragraph
+- - terms
+  - melancholic
+  - choleric
 - - tail
   - sucker
   - holds
@@ -65,6 +74,15 @@ ngrams:
 - - dobson
   - presented
   - himself
+- - rather
+  - than
+  - hirudo
+- - dobson
+  - never
+  - deviated
+- - phlegmatic
+  - dobson
+  - never
 - - can
   - rest
   - easy
@@ -110,24 +128,6 @@ ngrams:
 - - those
   - who
   - don't
-- - who
-  - don't
-  - know
-- - dark
-  - cylinder
-  - which
-- - an
-  - alternative
-  - therapist
-- - an
-  - unpublished
-  - essay
-- - this
-  - helpful
-  - anatomical
-- - thought
-  - an
-  - alternative
 story:
   date: 2004-03-16
   id: 2004-03-16-dobsons-leech-mishap

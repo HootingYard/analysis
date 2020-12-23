@@ -146,6 +146,9 @@ ngrams:
 - - your
   - gruesome
   - error
+- - your
+  - wordbook
+  - writes
 - - correct
   - your
   - gruesome
@@ -227,9 +230,6 @@ ngrams:
 - - which
   - two
   - words
-- - but
-  - pulp
-  - 'yes'
 story:
   date: 2017-10-04
   id: 2017-10-04-hendiadys-in-mudchute

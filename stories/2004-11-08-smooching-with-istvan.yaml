@@ -1,4 +1,10 @@
 ngrams:
+- - olga
+  - natasha
+  - yuri
+- - natasha
+  - yuri
+  - boris
 - - assassin
   - lee
   - harvey
@@ -50,9 +56,18 @@ ngrams:
 - - diligent
   - reader
   - comes
+- - svetlana
+  - among
+  - others
+- - book
+  - entitled
+  - smooching
 - - dancehall
   - planning
   - little
+- - many
+  - occasions
+  - smooching
 - - boring
   - even
   - unreadable
@@ -92,21 +107,6 @@ ngrams:
 - - tales
   - are
   - mundane
-- - little
-  - more
-  - than
-- - whose
-  - memories
-  - are
-- - an
-  - unnamed
-  - resident
-- - this
-  - brief
-  - passage
-- - these
-  - tales
-  - are
 story:
   date: 2004-11-08
   id: 2004-11-08-smooching-with-istvan

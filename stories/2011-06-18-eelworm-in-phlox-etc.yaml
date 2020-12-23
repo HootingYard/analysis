@@ -1,7 +1,13 @@
 ngrams:
+- - ya
+  - rey
+  - sol
 - - fatiguing
   - alcoholics
   - allergy
+- - alpha
+  - ya
+  - rey
 - - rheumatism
   - riddles
   - rifles
@@ -281,12 +287,6 @@ ngrams:
 - - age
   - after
   - all
-- - taffy
-  - into
-  - her
-- - enter
-  - this
-  - circle
 story:
   date: 2011-06-18
   id: 2011-06-18-eelworm-in-phlox-etc

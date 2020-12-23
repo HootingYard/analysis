@@ -2,9 +2,15 @@ ngrams:
 - - hectic
   - caucasian
   - lullaby
+- - organs
+  - bagpipes
+  - brass
 - - caucasian
   - lullaby
   - discussion
+- - bagpipes
+  - brass
+  - bands
 - - religious
   - canting
   - drums
@@ -14,6 +20,9 @@ ngrams:
 - - doubtful
   - virtue
   - occasionally
+- - london
+  - organs
+  - bagpipes
 - - virtue
   - occasionally
   - titled
@@ -68,15 +77,6 @@ ngrams:
 - - time
   - getting
   - het
-- - getting
-  - het
-  - up
-- - babbage
-  - knew
-  - who
-- - their
-  - sex
-  - usually
 story:
   date: 2009-02-06
   id: 2009-02-06-babbage-racket

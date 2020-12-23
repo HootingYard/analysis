@@ -2,12 +2,18 @@ ngrams:
 - - commemorates
   - ian
   - fleming
+- - painter
+  - robin
+  - ironside
 - - surrealist
   - painter
   - robin
 - - portent
   - famous
   - statues
+- - max
+  - ironside
+  - painted
 - - famous
   - statues
   - visiting
@@ -17,9 +23,15 @@ ngrams:
 - - british
   - surrealist
   - painter
+- - ironside
+  - painted
+  - pictures
 - - ian
   - fleming
   - writes
+- - writes
+  - max
+  - ironside
 - - fleming
   - writes
   - max
@@ -41,18 +53,6 @@ ngrams:
 - - people
   - patients
   - suffering
-- - waxy
-  - insensibility
-  - another
-- - insensibility
-  - another
-  - letter
-- - another
-  - letter
-  - arrives
-- - greeks
-  - only
-  - painted
 story:
   date: 2005-01-27
   id: 2005-01-27-waxy-insensibility

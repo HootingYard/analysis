@@ -23,6 +23,12 @@ ngrams:
 - - earliest
   - poems
   - included
+- - popular
+  - subjects
+  - deluding
+- - printing
+  - press
+  - churned
 - - relentless
   - destructive
   - power
@@ -59,6 +65,9 @@ ngrams:
 - - poisoning
   - gone
   - crackers
+- - several
+  - handy
+  - stalactites
 - - terminus
   - within
   - yards
@@ -68,6 +77,9 @@ ngrams:
 - - late
   - th
   - century
+- - subjects
+  - deluding
+  - himself
 - - tucking
   - another
   - bottle
@@ -101,6 +113,9 @@ ngrams:
 - - grot
   - see
   - th
+- - stalactites
+  - dobson
+  - calculated
 - - weld
   - those
   - anomalies
@@ -110,6 +125,9 @@ ngrams:
 - - man
   - demand
   - payment
+- - handy
+  - stalactites
+  - dobson
 - - new
   - terminus
   - within
@@ -215,9 +233,15 @@ ngrams:
 - - utensils
   - stuffed
   - into
+- - churned
+  - out
+  - copies
 - - 'no'
   - answer
   - nor
+- - press
+  - churned
+  - out
 - - knees
   - gave
   - out
@@ -236,30 +260,6 @@ ngrams:
 - - th
   - august
   - there
-- - tea
-  - abandoned
-  - all
-- - abandoned
-  - all
-  - thought
-- - teenage
-  - drivel
-  - which
-- - crashing
-  - waves
-  - which
-- - day
-  - engulfed
-  - what
-- - waves
-  - which
-  - twice
-- - answer
-  - nor
-  - would
-- - never
-  - knew
-  - about
 story:
   date: 2004-08-31
   id: 2004-08-31-grots

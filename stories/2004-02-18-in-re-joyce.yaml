@@ -5,6 +5,15 @@ ngrams:
 - - criminal
   - lunatic
   - asylum
+- - writer
+  - roddy
+  - doyle
+- - irish
+  - writer
+  - roddy
+- - roddy
+  - doyle
+  - recently
 - - doyle
   - recently
   - turned
@@ -29,15 +38,6 @@ ngrams:
 - - upon
   - joyce's
   - ulysses
-- - most
-  - loathsome
-  - book
-- - among
-  - other
-  - things
-- - could
-  - only
-  - emanate
 story:
   date: 2004-02-18
   id: 2004-02-18-in-re-joyce

@@ -5,9 +5,15 @@ ngrams:
 - - armaments
   - company
   - brochure
+- - cultural
+  - blip
+  - business
 - - latest
   - sales
   - reports
+- - blip
+  - business
+  - persons
 - - daily
   - mail
   - saying
@@ -86,12 +92,6 @@ ngrams:
 - - reading
   - something
   - other
-- - title
-  - has
-  - already
-- - who
-  - jet
-  - around
 story:
   date: 2004-07-13
   id: 2004-07-13-airport-novel

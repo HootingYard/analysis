@@ -20,6 +20,9 @@ ngrams:
 - - darlington
   - substitution
   - scandal
+- - barque
+  - sophie
+  - anderson
 - - vatican
   - cameos
   - wilson
@@ -65,6 +68,9 @@ ngrams:
 - - ship
   - matilda
   - briggs
+- - orleans
+  - van
+  - jansen
 - - abominable
   - wife
   - baron
@@ -194,12 +200,6 @@ ngrams:
 - - 'no'
   - further
   - details
-- - knocked
-  - out
-  - holmes's
-- - out
-  - holmes's
-  - left
 story:
   date: 2013-11-13
   id: 2013-11-13-holmes

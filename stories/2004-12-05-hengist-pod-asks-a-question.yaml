@@ -26,6 +26,9 @@ ngrams:
 - - potato
   - count
   - notebook
+- - earth's
+  - magnetic
+  - field
 - - pale
   - blue
   - dot
@@ -104,6 +107,12 @@ ngrams:
 - - question
   - now
   - here
+- - into
+  - earth's
+  - magnetic
+- - pulled
+  - into
+  - earth's
 - - patterns
   - were
   - inane
@@ -119,15 +128,6 @@ ngrams:
 - - beings
   - were
   - unfathomably
-- - beings
-  - were
-  - minuscule
-- - purpose
-  - other
-  - than
-- - their
-  - own
-  - planet
 story:
   date: 2004-12-05
   id: 2004-12-05-hengist-pod-asks-a-question

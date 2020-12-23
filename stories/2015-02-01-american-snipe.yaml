@@ -5,9 +5,15 @@ ngrams:
 - - beetles
   - dragonflies
   - crickets
+- - grasshoppers
+  - ants
+  - mayflies
 - - crickets
   - grasshoppers
   - ants
+- - ants
+  - mayflies
+  - butterflies
 - - states
   - winning
   - plaudits
@@ -50,12 +56,6 @@ ngrams:
 - - horse
   - flies
   - deer
-- - film
-  - american
-  - snipe
-- - crane
-  - flies
-  - horse
 story:
   date: 2015-02-01
   id: 2015-02-01-american-snipe

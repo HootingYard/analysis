@@ -1,19 +1,9 @@
 ngrams:
-- - week
-  - three
-  - novels
-- - recommended
-  - reading
-  - this
-- - reading
-  - this
-  - week
-- - this
-  - week
-  - three
-- - novels
-  - you
-  - don't
+- you don't want
+- three novels you
+- novels you don't
+- this week three
+- reading this week
 story:
   date: 2004-03-02
   id: 2004-03-02-recommended-reading

@@ -1,19 +1,9 @@
 ngrams:
-- - object
-  - any
-  - object
-- - book
-  - addendum
-  - more
-- - ghost
-  - successfully
-  - what
-- - successfully
-  - an
-  - object
-- - imagine
-  - successfully
-  - an
+- the book addendum
+- by the book
+- dreaming by the
+- that does not
+- any object that
 story:
   date: 2011-01-18
   id: 2011-01-18-ghosts

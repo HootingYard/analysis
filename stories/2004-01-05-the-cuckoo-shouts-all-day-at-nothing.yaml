@@ -1,19 +1,9 @@
 ngrams:
-- - cuckoo
-  - shouts
-  - all
-- - cuckoo
-  - shouts
-  - all
-- - shouts
-  - all
-  - day
-- - shouts
-  - all
-  - day
-- - day
-  - at
-  - nothing
+- nothing the cuckoo
+- at nothing the
+- the cuckoo shouts
+- shouts all day
+- all day at
 story:
   date: 2004-01-05
   id: 2004-01-05-the-cuckoo-shouts-all-day-at-nothing

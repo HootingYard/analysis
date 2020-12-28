@@ -1,403 +1,137 @@
 ngrams:
-- - stout
-  - padlocks
-  - ensures
-- - celebratory
-  - choc
-  - ices
-- - gutta
-  - percha
-  - breathing
-- - percha
-  - breathing
-  - apparatus
-- - fairly
-  - stout
-  - padlocks
-- - manly
-  - jack
-  - hawkins
-- - secure
-  - storage
-  - facility
-- - secure
-  - storage
-  - facility
-- - amateur
-  - electrician
-  - walter
-- - waves
-  - crashed
-  - relentlessly
-- - blazing
-  - summer
-  - morn
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - efficient
-  - storage
-  - method
-- - petula
-  - clark
-  - underneath
-- - remote
-  - secure
-  - storage
-- - remote
-  - secure
-  - storage
-- - eat
-  - celebratory
-  - choc
-- - attack
-  - savagely
-  - anybody
-- - clark
-  - press
-  - clipping
-- - clark
-  - press
-  - clippings
-- - clark
-  - files
-  - remain
-- - press
-  - clippings
-  - related
-- - petula
-  - clark
-  - matters
-- - clark
-  - files
-  - deep
-- - petula
-  - clark
-  - press
-- - petula
-  - clark
-  - press
-- - electrician
-  - walter
-  - mad
-- - files
-  - remain
-  - safe
-- - buff
-  - cardboard
-  - folders
-- - buff
-  - cardboard
-  - folders
-- - buff
-  - cardboard
-  - folders
-- - petula
-  - clark
-  - inside
-- - asking
-  - walter
-  - mad
-- - petula
-  - clark
-  - looking
-- - six
-  - petula
-  - clark
-- - savagely
-  - anybody
-  - else
-- - ice
-  - cream
-  - kiosk
-- - ice
-  - cream
-  - kiosk
-- - desk
-  - drawer
-  - outside
-- - writing
-  - petula
-  - clark
-- - six
-  - press
-  - clippings
-- - including
-  - walter
-  - mad
-- - cardboard
-  - folders
-  - close
-- - crashed
-  - relentlessly
-  - against
-- - mad
-  - saving
-  - half
-- - else
-  - including
-  - walter
-- - lost
-  - forever
-  - hence
-- - anybody
-  - else
-  - including
-- - papers
-  - several
-  - reports
-- - apparatus
-  - having
-  - secured
-- - breathing
-  - apparatus
-  - having
-- - various
-  - papers
-  - several
-- - sea
-  - walter
-  - mad
-- - choc
-  - ices
-  - while
-- - ices
-  - while
-  - staring
-- - later
-  - tucked
-  - against
-- - terrifying
-  - speed
-  - while
-- - most
-  - newspaper
-  - photographs
-- - speed
-  - while
-  - wearing
-- - following
-  - few
-  - months
-- - eat
-  - while
-  - sitting
-- - days
-  - later
-  - tucked
-- - desk
-  - drawers
-  - made
-- - drove
-  - back
-  - via
-- - digested
-  - our
-  - choc
-- - broke
-  - our
-  - contented
-- - never
-  - particularly
-  - interested
-- - our
-  - contented
-  - silence
-- - clark
-  - looking
-  - back
-- - sound
-  - once
-  - home
-- - years
-  - later
-  - riffling
-- - seaside
-  - pebble
-  - over
-- - later
-  - riffling
-  - through
-- - usually
-  - did
-  - stop
-- - more
-  - efficient
-  - storage
-- - petula
-  - clark
-  - then
-- - minutes
-  - each
-  - way
-- - then
-  - lived
-  - announcing
-- - three
-  - years
-  - later
-- - some
-  - fairly
-  - stout
-- - very
-  - much
-  - depends
-- - years
-  - passed
-  - before
-- - mad
-  - has
-  - hatched
-- - walter
-  - mad
-  - has
-- - walter
-  - mad
-  - who
-- - press
-  - clipping
-  - 'no'
-- - then
-  - eat
-  - while
-- - did
-  - stop
-  - 'off'
-- - spent
-  - far
-  - more
-- - shall
-  - never
-  - know
-- - more
-  - years
-  - passed
-- - some
-  - days
-  - later
-- - heard
-  - many
-  - more
-- - walter
-  - mad
-  - if
-- - mad
-  - if
-  - wolves
-- - photographs
-  - themselves
-  - were
-- - 'no'
-  - great
-  - interest
-- - example
-  - thinking
-  - about
-- - complete
-  - about
-  - three
-- - cuttings
-  - all
-  - five
-- - facility
-  - we
-  - drove
-- - yet
-  - complete
-  - about
-- - lost
-  - all
-  - interest
-- - more
-  - than
-  - once
-- - many
-  - more
-  - years
-- - can
-  - she
-  - swim
-- - while
-  - staring
-  - out
-- - expect
-  - she
-  - can
-- - continued
-  - can
-  - she
-- - were
-  - most
-  - newspaper
-- - these
-  - were
-  - illustrated
-- - walter
-  - mad
-  - so
-- - she
-  - can
-  - 'yes'
-- - which
-  - petula
-  - clark
-- - choc
-  - ice
-  - which
-- - am
-  - 'no'
-  - expert
-- - about
-  - three
-  - years
-- - wolves
-  - are
-  - able
-- - an
-  - amateur
-  - electrician
-- - we
-  - drove
-  - back
-- - one
-  - blazing
-  - summer
-- - we
-  - digested
-  - our
-- - via
-  - an
-  - ice
-- - wolf
-  - this
-  - saddened
-- - an
-  - ice
-  - cream
-- - eventually
-  - one
-  - blazing
-- - wolves
-  - eventually
-  - one
-- - shop
-  - which
-  - took
-- - now
-  - we
-  - digested
+- the curtains the
+- and from the
+- and the five
+- desk and the
+- the star and
+- the west and
+- the wolf and
+- wolf and the
+- and the conditions
+- was made the
+- the fact that
+- was precisely the
+- the process was
+- think for the
+- for the life
+- the paper with
+- afternoon with the
+- with the animal
+- with the assistance
+- partnership with the
+- the folders for
+- away from the
+- from the shop
+- from the seaside
+- the wolves have
+- from the kiosk
+- borrowed from the
+- the sky had
+- had the remainder
+- i had the
+- one placed the
+- one of the
+- the shop which
+- the wolves are
+- and wolves and
+- and studying and
+- and reckless and
+- and feckless and
+- the cuttings all
+- out of the
+- their cellophane the
+- the way back
+- could hear the
+- her in the
+- by the time
+- the time i
+- at the time
+- the first place
+- over the following
+- the room how
+- pebble over the
+- in the first
+- made the easier
+- off at the
+- of the years
+- the years i
+- on the way
+- the following few
+- course moved the
+- against the pointy
+- yet gained the
+- though the photographs
+- the chanteuse though
+- chanteuse though the
+- the easier because
+- because at the
+- the seaside town
+- the life of
+- outside the sky
+- days by the
+- having secured the
+- despite the fact
+- in the sea
+- the sea he
+- tucked against the
+- the pointy rocks
+- of the room
+- relentlessly against the
+- against the wainscot
+- hear the distant
+- the opposite side
+- of the paper
+- the seaside library
+- precisely the answer
+- side of the
+- drawer outside the
+- the ice cream
+- looked at the
+- move the seaside
+- the buff cardboard
+- moved the seaside
+- the photographs themselves
+- mad the wolves
+- walter mad the
+- mad the combination
+- the five or
+- the sun sank
+- the seaside pebble
+- the distant howling
+- the local newspaper
+- at the ice
+- the answer i
+- as the sun
+- of the seaside
+- at the seaside
+- forever hence the
+- placed the folders
+- deep in the
+- i placed the
+- of the passing
+- the passing of
+- passing of the
+- on the front
+- the front of
+- to the collection
+- the collection in
+- collection in the
+- report in the
+- the desk drawer
+- in the local
+- considered marking the
+- photograph of the
+- the perimeter fence
+- wolves the wolves
+- hoot despite the
+- spite of the
+- hence the files
+- the petula clark
+- facility the process
+- the desk drawers
+- the kiosk as
+- kiosk as the
+- of the desk
 story:
   date: 2015-10-21
   id: 2015-10-21-the-petula-clark-files

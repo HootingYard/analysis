@@ -1,22 +1,10 @@
 ngrams:
-- - dentist's
-  - potting
-  - shed
-- - potting
-  - shed
-  - ends
-- - below
-  - dentist's
-  - potting
-- - fragment
-  - b
-  - part
-- - piece
-  - below
-  - dentist's
-- - read
-  - much
-  - more
+- that cat the
+- the whole thing
+- reading the whole
+- the piece below
+- cat the piece
+- recommend reading the
 story:
   date: 2007-11-21
   id: 2007-11-21-that-cat

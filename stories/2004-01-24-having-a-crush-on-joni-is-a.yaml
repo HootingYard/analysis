@@ -1,19 +1,9 @@
 ngrams:
-- - little
-  - like
-  - falling
-- - like
-  - falling
-  - into
-- - david
-  - crosby
-  - 'on'
-- - having
-  - a
-  - crush
-- - having
-  - a
-  - crush
+- like falling into
+- falling into a
+- little like falling
+- a little like
+- is a little
 story:
   date: 2004-01-24
   id: 2004-01-24-having-a-crush-on-joni-is-a

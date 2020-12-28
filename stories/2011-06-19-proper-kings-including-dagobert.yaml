@@ -1,13 +1,7 @@
 ngrams:
-- - kings
-  - including
-  - dagobert
-- - proper
-  - kings
-  - including
-- - including
-  - dagobert
-  - from
+- including dagobert from
+- proper kings including
+- kings including dagobert
 story:
   date: 2011-06-19
   id: 2011-06-19-proper-kings-including-dagobert

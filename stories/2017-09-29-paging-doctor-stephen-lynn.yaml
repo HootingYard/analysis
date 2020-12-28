@@ -1,28 +1,12 @@
 ngrams:
-- - facts
-  - stephen
-  - lynn
-- - encounter
-  - stephen
-  - lynn
-- - flat
-  - alec
-  - borrows
-- - arresting
-  - facts
-  - stephen
-- - doctor
-  - stephen
-  - lynn
-- - somehow
-  - arresting
-  - facts
-- - brief
-  - encounter
-  - stephen
-- - stephen
-  - lynn
-  - below
+- the doctor who
+- the doctor whose
+- the emergency room
+- above is the
+- below is the
+- is the doctor
+- director of the
+- of the emergency
 story:
   date: 2017-09-29
   id: 2017-09-29-paging-doctor-stephen-lynn

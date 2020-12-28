@@ -1,13 +1,7 @@
 ngrams:
-- - haven't
-  - read
-  - 'no'
-- - books
-  - i
-  - haven't
-- - i
-  - haven't
-  - read
+- i haven't read
+- haven't read no
+- books i haven't
 story:
   date: 2010-03-04
   id: 2010-03-04-books-i-havent-read-no-2

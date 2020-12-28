@@ -1,10 +1,6 @@
 ngrams:
-- - atomic
-  - robot
-  - man
-- - robot
-  - man
-  - from
+- robot man from
+- atomic robot man
 story:
   date: 2013-03-27
   id: 2013-03-27-atomic-robot-man

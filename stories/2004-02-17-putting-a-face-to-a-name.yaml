@@ -1,16 +1,8 @@
 ngrams:
-- - putting
-  - a
-  - face
-- - a
-  - face
-  - to
-- - face
-  - to
-  - a
-- - to
-  - a
-  - name
+- to a name
+- putting a face
+- a face to
+- face to a
 story:
   date: 2004-02-17
   id: 2004-02-17-putting-a-face-to-a-name

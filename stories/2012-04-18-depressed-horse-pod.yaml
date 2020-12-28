@@ -1,19 +1,9 @@
 ngrams:
-- - depressed
-  - horse
-  - pod
-- - horse
-  - pod
-  - depressed
-- - pod
-  - depressed
-  - horse
-- - depressed
-  - horse
-  - never
-- - never
-  - knew
-  - saucepans
+- horse never knew
+- never knew saucepans
+- depressed horse never
+- depressed horse pod
+- horse pod depressed
 story:
   date: 2012-04-18
   id: 2012-04-18-depressed-horse-pod

@@ -1,19 +1,9 @@
 ngrams:
-- - read
-  - heather
-  - mcdougal
-- - robot
-  - duck
-  - so
-- - duck
-  - so
-  - go
-- - heather
-  - mcdougal
-  - at
-- - mcdougal
-  - at
-  - cabinet
+- and read heather
+- go and read
+- so go and
+- read heather mcdougal
+- is always useful
 story:
   date: 2010-07-31
   id: 2010-07-31-robot-duck

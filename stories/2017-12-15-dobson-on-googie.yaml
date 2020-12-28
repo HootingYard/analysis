@@ -1,19 +1,9 @@
 ngrams:
-- - marigold
-  - chew
-  - daniel
-- - print
-  - dobson
-  - pamphlet
-- - googie
-  - an
-  - important
-- - cover
-  - design
-  - by
-- - design
-  - by
-  - marigold
+- dobson pamphlet with
+- pamphlet with a
+- with a cover
+- an important out
+- important out of
 story:
   date: 2017-12-15
   id: 2017-12-15-dobson-on-googie

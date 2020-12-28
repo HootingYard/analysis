@@ -1,19 +1,9 @@
 ngrams:
-- - henry
-  - cow
-  - page
-- - book
-  - cover
-  - via
-- - this
-  - book
-  - cover
-- - may
-  - be
-  - intrigued
-- - page
-  - 'on'
-  - facecloth
+- the henry cow
+- cover via the
+- via the henry
+- this book cover
+- by this book
 story:
   date: 2017-08-13
   id: 2017-08-13-moo

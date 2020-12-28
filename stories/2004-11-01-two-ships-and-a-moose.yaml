@@ -1,13 +1,7 @@
 ngrams:
-- - two
-  - ships
-  - and
-- - and
-  - a
-  - moose
-- - ships
-  - and
-  - a
+- two ships and
+- ships and a
+- and a moose
 story:
   date: 2004-11-01
   id: 2004-11-01-two-ships-and-a-moose

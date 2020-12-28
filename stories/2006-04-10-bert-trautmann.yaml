@@ -1,19 +1,9 @@
 ngrams:
-- - ingenuity
-  - god
-  - checker
-- - old
-  - books
-  - engines
-- - our
-  - ingenuity
-  - god
-- - detours
-  - pictures
-  - from
-- - pictures
-  - from
-  - old
+- from old books
+- pictures from old
+- detours pictures from
+- our ingenuity god
+- engines of our
 story:
   date: 2006-04-10
   id: 2006-04-10-bert-trautmann

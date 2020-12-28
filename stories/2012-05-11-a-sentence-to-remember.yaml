@@ -1,19 +1,9 @@
 ngrams:
-- - somebody
-  - else
-  - arthur
-- - steel
-  - box
-  - filled
-- - africa
-  - '-'
-  - by
-- - '-'
-  - by
-  - charles
-- - with
-  - alcohol
-  - pierre
+- box filled with
+- filled with alcohol
+- with alcohol pierre
+- am sending you
+- sending you a
 story:
   date: 2012-05-11
   id: 2012-05-11-a-sentence-to-remember

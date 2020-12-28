@@ -1,412 +1,140 @@
 ngrams:
-- - bradford
-  - elias
-  - canetti
-- - deus
-  - ex
-  - machina
-- - taylor
-  - bradford
-  - elias
-- - mancunian
-  - polymath
-  - marketing
-- - polymath
-  - marketing
-  - ploy
-- - barbara
-  - taylor
-  - bradford
-- - absurd
-  - mancunian
-  - polymath
-- - gobbo
-  - proceeds
-  - apace
-- - elias
-  - canetti
-  - dan
-- - biographer
-  - roger
-  - lewis
-- - tuberculosis
-  - patient
-  - chaffinches
-- - patient
-  - chaffinches
-  - hedgerows
-- - robinson
-  - emily
-  - dickinson
-- - l
-  - ron
-  - hubbard
-- - burgess
-  - biographer
-  - roger
-- - purgative
-  - narrative
-  - sloppiness
-- - sloppiness
-  - untold
-  - oodles
-- - dickinson
-  - l
-  - ron
-- - bile
-  - bitter
-  - colic
-- - emily
-  - dickinson
-  - l
-- - g
-  - robinson
-  - emily
-- - chapters
-  - fairly
-  - uniform
-- - anthony
-  - burgess
-  - edward
-- - edward
-  - g
-  - robinson
-- - narrative
-  - sloppiness
-  - untold
-- - burgess
-  - edward
-  - g
-- - bookcase
-  - location
-  - finding
-- - nightmarish
-  - albino
-  - hen
-- - canetti
-  - dan
-  - brown
-- - estimable
-  - richard
-  - carter
-- - nine
-  - chapters
-  - fairly
-- - punctuation
-  - mark
-  - spells
-- - violent
-  - purgative
-  - narrative
-- - dangerous
-  - medical
-  - condition
-- - novel
-  - opens
-  - gobbo
-- - jeffrey
-  - archer
-  - dennis
-- - resist
-  - proper
-  - shelving
-- - missing
-  - punctuation
-  - mark
-- - mark
-  - spells
-  - doom
-- - unspeakably
-  - squalid
-  - ways
-- - chutes
-  - mudchute
-  - potato
-- - gethsemane
-  - mud
-  - chutes
-- - pastry
-  - fillings
-  - starlings
-- - mud
-  - chutes
-  - mudchute
-- - shorter
-  - potted
-  - brief
-- - mudchute
-  - potato
-  - recipes
-- - shelf
-  - hardly
-  - shoved
-- - bottom
-  - shelf
-  - hardly
-- - fillings
-  - starlings
-  - pigs
-- - gobbo
-  - reproduced
-  - below
-- - poppycock
-  - brow
-  - neither
-- - pamphleteer
-  - readily
-  - admits
-- - cows
-  - burnt
-  - toast
-- - potted
-  - brief
-  - brief
-- - real
-  - historical
-  - figures
-- - above
-  - bookcase
-  - location
-- - renaissance
-  - city
-  - state
-- - quietly
-  - forgotten
-  - certainly
-- - titanic
-  - pamphleteer
-  - readily
-- - difficulty
-  - dobson's
-  - invaluable
-- - crows
-  - cows
-  - burnt
-- - quotations
-  - certain
-  - passages
-- - sports
-  - arena
-  - during
-- - fictional
-  - renaissance
-  - city
-- - brief
-  - brief
-  - lives
-- - round
-  - everyone's
-  - knowledge
-- - condition
-  - best
-  - treated
-- - soon
-  - becomes
-  - tiresome
-- - flux
-  - black
-  - bile
-- - medical
-  - condition
-  - best
-- - comes
-  - round
-  - everyone's
-- - frantic
-  - black
-  - eyebrows
-- - black
-  - bile
-  - bitter
-- - state
-  - clearly
-  - meant
-- - hardly
-  - shoved
-  - behind
-- - brow
-  - neither
-  - high
-- - city
-  - state
-  - clearly
-- - corrugated
-  - kind
-  - chapter
-- - historical
-  - figures
-  - among
-- - random
-  - example
-  - chapter
-- - munich
-  - air
-  - disaster
-- - neither
-  - high
-  - middle
-- - dobson's
-  - invaluable
-  - pamphlet
-- - one's
-  - brain
-  - sluiced
-- - certain
-  - books
-  - especially
-- - bookcases
-  - top
-  - left
-- - marketing
-  - ploy
-  - each
-- - middle
-  - nor
-  - low
-- - squalid
-  - ways
-  - until
-- - top
-  - left
-  - corner
-- - each
-  - chapter
-  - ends
-- - length
-  - each
-  - chapter
-- - ploy
-  - each
-  - copy
-- - high
-  - middle
-  - nor
-- - princeling
-  - becomes
-  - ever
-- - wisely
-  - adopted
-  - hooting
-- - taken
-  - place
-  - except
-- - go
-  - anywhere
-  - near
-- - half
-  - mr
-  - carter
-- - having
-  - one's
-  - brain
-- - see
-  - above
-  - bookcase
-- - princeling
-  - become
-  - ever
-- - second
-  - half
-  - mr
-- - maddeningly
-  - dobson
-  - goes
-- - jacobean
-  - drama
-  - such
-- - twee
-  - poets
-  - such
-- - imagined
-  - disease
-  - such
-- - earth
-  - maddeningly
-  - dobson
-- - books
-  - especially
-  - those
-- - especially
-  - those
-  - written
-- - become
-  - ever
-  - further
-- - black
-  - see
-  - above
-- - its
-  - hidden
-  - presence
-- - reader
-  - other
-  - characters
-- - starlings
-  - pigs
-  - more
-- - pigs
-  - more
-  - starlings
-- - starlings
-  - more
-  - pigs
-- - examination
-  - time
-  - comes
-- - cannot
-  - think
-  - why
-- - precious
-  - time
-  - actually
-- - its
-  - second
-  - half
-- - most
-  - important
-  - being
-- - time
-  - comes
-  - round
-- - carter
-  - has
-  - reviewed
-- - carter
-  - has
-  - wisely
-- - has
-  - wisely
-  - adopted
-- - richard
-  - carter
-  - has
-- - never
-  - made
-  - clear
-- - time
-  - actually
-  - reading
-- - tome
-  - has
-  - already
-- - corner
-  - 'no'
-  - squeezed
-- - been
-  - copied
-  - verbatim
-- - becomes
-  - ever
-  - more
-- - wasting
-  - your
-  - precious
-- - goes
-  - 'no'
-  - further
-- - left
-  - corner
-  - 'no'
+- why and the
+- the full and
+- and the reader
+- and the garden
+- hen and the
+- brown and the
+- plenty and the
+- the drivel and
+- witless and the
+- and the munich
+- chaffinches and the
+- and the unspeakably
+- and the nesting
+- the bookcase and
+- apothecary and the
+- colic and the
+- and the reappearance
+- and the sociopathic
+- that was the
+- was the verdict
+- for the last
+- except for the
+- for as the
+- the book have
+- but the effect
+- the land which
+- the novel are
+- the latter are
+- in which the
+- the end there
+- the book into
+- book into the
+- the reader will
+- the same about
+- bees into the
+- into the sports
+- into the fireplace
+- upon the first
+- even the most
+- world upon the
+- some of the
+- the reader other
+- say the same
+- such as the
+- on even the
+- does the book
+- the first publication
+- the most important
+- to say the
+- characters the most
+- the last chapter
+- the book appear
+- throw the book
+- book review the
+- structure the book
+- the book is
+- in the book
+- the practice found
+- the damn thing
+- actually reading the
+- until at the
+- found in the
+- life of the
+- among the latter
+- the right spot
+- the munich air
+- does structure the
+- at the end
+- figures among the
+- among the drivel
+- in among the
+- reading the damn
+- throughout the land
+- the corrugated kind
+- finding the right
+- behind the collected
+- shoved behind the
+- the princeling become
+- pamphlet on the
+- the titanic pamphleteer
+- to the full
+- the earth maddeningly
+- the reader needed
+- of the earth
+- anywhere near the
+- clear to the
+- the collected works
+- near the bookcase
+- the correct approach
+- copy of the
+- fire to the
+- the sun leads
+- practice the correct
+- to the reader
+- if the reader
+- the garden of
+- of the sun
+- watch as the
+- notes on the
+- weather systems the
+- of the magazine
+- the novel opens
+- the author sharing
+- the foulest muck
+- novel the unspeakably
+- muck of the
+- the bottom shelf
+- the picaresque novel
+- of the author
+- as the novel
+- in the novel
+- ways as the
+- the estimable richard
+- secondary characters the
+- location finding the
+- the effect is
+- orphanages throughout the
+- the princeling becomes
+- characters in the
+- accompanied by the
+- to throw the
+- fond of the
+- on the bottom
+- of the practice
+- of the setting
+- the setting of
+- review the estimable
+- as the titanic
+- the plot in
+- the unspeakably squalid
+- the lowest worm
+- of the scenes
+- the scenes in
+- the nesting habits
+- passages in the
+- the sports arena
 story:
   date: 2015-11-19
   id: 2015-11-19-book-review

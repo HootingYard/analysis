@@ -1,10 +1,6 @@
 ngrams:
-- - cattle
-  - struck
-  - by
-- - struck
-  - by
-  - lightning
+- struck by lightning
+- cattle struck by
 story:
   date: 2005-02-25
   id: 2005-02-25-cattle-struck-by-lightning

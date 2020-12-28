@@ -1,19 +1,9 @@
 ngrams:
-- - moustached
-  - footballers
-  - patrick
-- - footballers
-  - patrick
-  - hamilton
-- - behind
-  - whose
-  - glass
-- - machine
-  - behind
-  - whose
-- - whose
-  - glass
-  - were
+- the west pier
+- hamilton the west
+- patrick hamilton the
+- were small and
+- small and crude
 story:
   date: 2009-12-21
   id: 2009-12-21-machines-of-interest-number-one

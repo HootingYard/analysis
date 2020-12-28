@@ -1,13 +1,7 @@
 ngrams:
-- - via
-  - mick
-  - hartley
-- - features
-  - via
-  - mick
-- - rex
-  - features
-  - via
+- rex features via
+- features via mick
+- via mick hartley
 story:
   date: 2012-03-24
   id: 2012-03-24-owlet

@@ -1,19 +1,9 @@
 ngrams:
-- - left
-  - intentionally
-  - blank
-- - page
-  - left
-  - intentionally
-- - games
-  - must
-  - we
-- - this
-  - page
-  - left
-- - we
-  - this
-  - page
+- must we this
+- this page left
+- we this page
+- games must we
+- page left intentionally
 story:
   date: 2017-07-28
   id: 2017-07-28-games-must-we

@@ -1,397 +1,135 @@
 ngrams:
-- - levin
-  - madrigal
-  - singers
-- - madrigal
-  - singers
-  - gordon
-- - bernard
-  - levin
-  - madrigal
-- - gordon
-  - sumner
-  - tribute
-- - argumentative
-  - german
-  - improv
-- - argumentative
-  - german
-  - improv
-- - firing
-  - range
-  - surrounded
-- - army
-  - firing
-  - range
-- - collector
-  - cecil
-  - flat
-- - fantastic
-  - beat
-  - combos
-- - argumentative
-  - improv
-  - version
-- - sumner
-  - tribute
-  - band
-- - beat
-  - combos
-  - playing
-- - week's
-  - teenage
-  - pop
-- - german
-  - improv
-  - group
-- - german
-  - improv
-  - group
-- - overexcited
-  - teenage
-  - persons
-- - week's
-  - issue
-  - regarding
-- - tribute
-  - band
-  - level
-- - studio
-  - mosh
-  - pit
-- - studio
-  - mosh
-  - pit
-- - song
-  - collector
-  - cecil
-- - mosh
-  - pit
-  - wherein
-- - pop
-  - press
-  - reads
-- - teenage
-  - pop
-  - press
-- - teenage
-  - pop
-  - press
-- - teenage
-  - pop
-  - press
-- - combos
-  - playing
-  - including
-- - teenage
-  - pop
-  - television
-- - teenage
-  - pop
-  - television
-- - wolves
-  - howling
-  - magazine
-- - response
-  - dear
-  - teenage
-- - following
-  - week's
-  - teenage
-- - folk
-  - song
-  - collector
-- - smash
-  - hit
-  - song
-- - pop
-  - television
-  - shows
-- - dear
-  - teenage
-  - pop
-- - dear
-  - teenage
-  - pop
-- - white
-  - television
-  - screens
-- - following
-  - week's
-  - issue
-- - canal
-  - towpath
-  - near
-- - towpath
-  - near
-  - fields
-- - typical
-  - letter
-  - yesterday
-- - guttural
-  - shouts
-  - against
-- - whose
-  - chief
-  - occupation
-- - pop
-  - television
-  - show
-- - electronic
-  - interference
-  - given
-- - letter
-  - yesterday
-  - evening
-- - whatever
-  - further
-  - wonders
-- - eye
-  - whose
-  - chief
-- - shift
-  - around
-  - gravel
-- - bakelite
-  - television
-  - set
-- - mosh
-  - pit
-  - rather
-- - week's
-  - issue
-  - came
-- - yet
-  - snug
-  - hovel
-- - hero
-  - inside
-  - myself
-- - tad
-  - too
-  - elderly
-- - last
-  - week's
-  - issue
-- - family
-  - gathered
-  - around
-- - certainly
-  - something
-  - uncanny
-- - next
-  - full
-  - moon
-- - camera
-  - cut
-  - away
-- - shovel
-  - ever
-  - since
-- - before
-  - het
-  - internet
-- - elderly
-  - man
-  - weird
-- - elderly
-  - man
-  - weird
-- - elderly
-  - man
-  - weird
-- - inside
-  - myself
-  - until
-- - cottage
-  - its
-  - grounds
-- - rustic
-  - cottage
-  - its
-- - days
-  - before
-  - het
-- - did
-  - indeed
-  - howl
-- - wolves
-  - did
-  - indeed
-- - pit
-  - rather
-  - than
-- - some
-  - fantastic
-  - beat
-- - rake
-  - who
-  - appeared
-- - rake
-  - who
-  - appeared
-- - been
-  - happily
-  - shifting
-- - your
-  - correspondent
-  - spotted
-- - shifting
-  - about
-  - gravel
-- - happily
-  - shifting
-  - about
-- - do
-  - every
-  - week
-- - electrified
-  - fence
-  - when
-- - grounds
-  - were
-  - strewn
-- - improv
-  - group
-  - were
-- - persons
-  - were
-  - cavorting
-- - teenage
-  - persons
-  - were
-- - wolves
-  - will
-  - howl
-- - your
-  - correspondent
-  - saw
-- - their
-  - sleeves
-  - though
-- - person
-  - your
-  - correspondent
-- - band
-  - shouting
-  - out
-- - hear
-  - if
-  - wolves
-- - been
-  - described
-  - both
-- - group
-  - were
-  - making
-- - down
-  - some
-  - unexpected
-- - all
-  - available
-  - documentation
-- - am
-  - now
-  - waiting
-- - studied
-  - all
-  - available
-- - intriguing
-  - thing
-  - when
-- - television
-  - show
-  - there
-- - those
-  - who
-  - saw
-- - would
-  - take
-  - issue
-- - rather
-  - than
-  - up
-- - an
-  - argumentative
-  - improv
-- - words
-  - are
-  - recited
-- - an
-  - argumentative
-  - interview
-- - an
-  - army
-  - firing
-- - spotted
-  - an
-  - elderly
-- - devised
-  - an
-  - argumentative
-- - an
-  - electrified
-  - fence
-- - its
-  - grounds
-  - were
-- - so
-  - far
-  - unable
-- - reads
-  - one
-  - typical
-- - moment
-  - after
-  - all
-- - gave
-  - an
-  - argumentative
-- - haircut
-  - gave
-  - an
-- - show
-  - an
-  - elderly
-- - press
-  - reads
-  - one
-- - gravel
-  - inevitably
-  - this
-- - one
-  - leg
-  - playing
-- - led
-  - me
-  - down
-- - reasons
-  - which
-  - again
-- - inevitably
-  - this
-  - shot
-- - one
-  - typical
-  - letter
-- - who
-  - saw
-  - him
-- - hoon
-  - alas
-  - this
-- - one
-  - eye
-  - holding
-- - one
-  - eye
-  - holding
-- - one
-  - eye
-  - holding
-- - up
-  - their
-  - sleeves
+- and the band
+- and yoko the
+- parade and the
+- the raking and
+- and in the
+- this was the
+- course was the
+- that the band
+- the possibility that
+- revealed that the
+- was apparently the
+- was the smash
+- was the raking
+- occupation was the
+- was in the
+- for the next
+- for example the
+- with the band
+- stage with the
+- waiting for the
+- mistaken for the
+- have only the
+- the band had
+- had spotted the
+- the one point
+- press the one
+- which the words
+- the words are
+- which the member
+- in which the
+- thing when the
+- there is the
+- and uncanny and
+- and benny and
+- and youtube and
+- the only time
+- the person your
+- when the argumentative
+- about in the
+- the flute what
+- their shovels the
+- the day after
+- day after the
+- myself the day
+- more recently the
+- the days before
+- example the only
+- in the other
+- the other a
+- only the letters
+- think the person
+- moon the only
+- the only hint
+- the moment after
+- after the television
+- the elderly man
+- find the key
+- might be the
+- here is the
+- i think the
+- the next full
+- the song thought
+- gathered around the
+- i find the
+- the intriguing thing
+- around the bakelite
+- along the canal
+- by myself the
+- in the days
+- given the primitive
+- stroll along the
+- interference given the
+- look in the
+- the key to
+- be the key
+- further wonders the
+- the full moon
+- full moon the
+- further to the
+- the television show
+- the band appeared
+- at the full
+- apparently the song
+- the letters pages
+- the following week's
+- gravel the song
+- the popular press
+- popular press the
+- of the following
+- in the following
+- the band shouting
+- to the letter
+- the letter in
+- to the top
+- the top of
+- top of the
+- the song attributed
+- of the moment
+- the hero inside
+- song of the
+- song in the
+- of the song
+- the song of
+- in the song
+- the song i
+- the primitive state
+- copy of the
+- the camera cut
+- the mosh pit
+- pages of the
+- the television studio
+- leg playing the
+- attended the television
+- the canal towpath
+- issue regarding the
+- the bakelite television
+- on the evening
+- the evening in
+- to watch the
+- recently the argumentative
+- playing the flute
+- search of the
+- in the popular
+- the argumentative german
+- the smash hit
+- regarding the elderly
+- the hit parade
+- seconds to the
+- yoko the bernard
+- of the howling
+- the howling of
 story:
   date: 2012-06-26
   id: 2012-06-26-on-the-raking-of-gravel-again

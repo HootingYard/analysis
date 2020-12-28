@@ -1,19 +1,9 @@
 ngrams:
-- - with
-  - an
-  - apple
-- - an
-  - infant
-  - with
-- - infant
-  - with
-  - an
-- - two
-  - views
-  - of
-- - views
-  - of
-  - an
+- an infant with
+- infant with an
+- with an apple
+- two views of
+- of an infant
 story:
   date: 2015-03-30
   id: 2015-03-30-two-views-of-an-infant-with-an-apple

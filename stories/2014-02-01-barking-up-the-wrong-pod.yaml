@@ -1,19 +1,9 @@
 ngrams:
-- - hooting
-  - yard
-  - podcast
-- - podcast
-  - 'on'
-  - barking
-- - yard
-  - podcast
-  - 'on'
-- - 'on'
-  - barking
-  - up
-- - the
-  - wrong
-  - pod
+- the hooting yard
+- of the hooting
+- it's the return
+- the wrong tree
+- the wrong pod
 story:
   date: 2014-02-01
   id: 2014-02-01-barking-up-the-wrong-pod

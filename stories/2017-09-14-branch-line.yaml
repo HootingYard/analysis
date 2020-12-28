@@ -1,13 +1,7 @@
 ngrams:
-- - branch
-  - line
-  - further
-- - line
-  - further
-  - details
-- - further
-  - details
-  - here
+- further details here
+- line further details
+- branch line further
 story:
   date: 2017-09-14
   id: 2017-09-14-branch-line

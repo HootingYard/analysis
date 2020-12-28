@@ -1,19 +1,9 @@
 ngrams:
-- - with
-  - rabbit
-  - courtesy
-- - exercise
-  - with
-  - rabbit
-- - observation
-  - exercise
-  - with
-- - rabbit
-  - courtesy
-  - of
-- - book
-  - of
-  - wonders
+- observation exercise with
+- exercise with rabbit
+- with rabbit courtesy
+- book of wonders
+- rabbit courtesy of
 story:
   date: 2011-02-07
   id: 2011-02-07-observation-exercise-with-rabbit

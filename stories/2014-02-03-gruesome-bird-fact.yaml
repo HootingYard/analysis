@@ -1,19 +1,9 @@
 ngrams:
-- - herons
-  - eat
-  - moles
-- - grey
-  - herons
-  - eat
-- - eat
-  - moles
-  - snap
-- - fact
-  - grey
-  - herons
-- - gruesome
-  - bird
-  - fact
+- bird fact grey
+- gruesome bird fact
+- fact grey herons
+- eat moles snap
+- grey herons eat
 story:
   date: 2014-02-03
   id: 2014-02-03-gruesome-bird-fact

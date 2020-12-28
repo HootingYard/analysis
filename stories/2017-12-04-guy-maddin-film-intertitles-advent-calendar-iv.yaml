@@ -1,13 +1,7 @@
 ngrams:
-- - maddin
-  - film
-  - intertitles
-- - guy
-  - maddin
-  - film
-- - film
-  - intertitles
-  - advent
+- film intertitles advent
+- guy maddin film
+- maddin film intertitles
 story:
   date: 2017-12-04
   id: 2017-12-04-guy-maddin-film-intertitles-advent-calendar-iv

@@ -1,19 +1,9 @@
 ngrams:
-- - conrad
-  - classic
-  - available
-- - classic
-  - available
-  - here
-- - here
-  - words
-  - fail
-- - available
-  - here
-  - words
-- - words
-  - fail
-  - me
+- available here words
+- here words fail
+- classic available here
+- a new edition
+- new edition of
 story:
   date: 2011-01-06
   id: 2011-01-06-words-fail-me

@@ -1,19 +1,9 @@
 ngrams:
-- - pigeon
-  - arrives
-  - bearing
-- - note
-  - seldom
-  - has
-- - been
-  - more
-  - correct
-- - this
-  - picture
-  - reads
-- - man
-  - been
-  - more
+- the note seldom
+- reads the note
+- picture reads the
+- a note and
+- note and a
 story:
   date: 2014-10-24
   id: 2014-10-24-fundamentals-of-beekeeping

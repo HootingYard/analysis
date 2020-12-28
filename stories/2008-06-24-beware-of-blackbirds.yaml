@@ -1,19 +1,9 @@
 ngrams:
-- - exciting
-  - ornithology
-  - news
-- - blackbirds
-  - more
-  - exciting
-- - more
-  - exciting
-  - ornithology
-- - ornithology
-  - news
-  - from
-- - beware
-  - of
-  - blackbirds
+- news from the
+- from the telegraph
+- ornithology news from
+- more exciting ornithology
+- blackbirds more exciting
 story:
   date: 2008-06-24
   id: 2008-06-24-beware-of-blackbirds

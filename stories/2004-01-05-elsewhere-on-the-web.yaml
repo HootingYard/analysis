@@ -1,16 +1,8 @@
 ngrams:
-- - web
-  - this
-  - is
-- - the
-  - web
-  - this
-- - 'on'
-  - the
-  - web
-- - elsewhere
-  - 'on'
-  - the
+- the web this
+- elsewhere on the
+- on the web
+- web this is
 story:
   date: 2004-01-05
   id: 2004-01-05-elsewhere-on-the-web

@@ -1,19 +1,9 @@
 ngrams:
-- - plucky
-  - fascist
-  - tot
-- - fascist
-  - tot
-  - tiny
-- - tot
-  - tiny
-  - enid
-- - snap
-  - a
-  - rare
-- - a
-  - rare
-  - photograph
+- tot tiny enid
+- fascist tot tiny
+- enid snap a
+- a rare photograph
+- rare photograph of
 story:
   date: 2012-04-21
   id: 2012-04-21-enid-snap

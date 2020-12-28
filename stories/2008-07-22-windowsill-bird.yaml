@@ -1,19 +1,9 @@
 ngrams:
-- - paintings
-  - showing
-  - birds
-- - windowsill
-  - bird
-  - number
-- - bird
-  - number
-  - one
-- - birds
-  - 'on'
-  - windowsills
-- - showing
-  - birds
-  - 'on'
+- bird number one
+- number one in
+- on windowsills this
+- windowsills this is
+- one in a
 story:
   date: 2008-07-22
   id: 2008-07-22-windowsill-bird

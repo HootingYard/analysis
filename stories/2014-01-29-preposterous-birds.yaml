@@ -1,19 +1,9 @@
 ngrams:
-- - boobies
-  - from
-  - paradise
-- - preposterous
-  - birds
-  - a
-- - birds
-  - a
-  - pair
-- - paradise
-  - of
-  - birds
-- - from
-  - paradise
-  - of
+- boobies from paradise
+- from paradise of
+- birds a pair
+- preposterous birds a
+- paradise of birds
 story:
   date: 2014-01-29
   id: 2014-01-29-preposterous-birds

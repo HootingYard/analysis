@@ -1,19 +1,9 @@
 ngrams:
-- - tool
-  - dim
-  - bulb
-- - dull
-  - tool
-  - dim
-- - vitamins
-  - part
-  - one
-- - from
-  - dull
-  - tool
-- - one
-  - from
-  - dull
+- part one from
+- one from dull
+- from dull tool
+- vitamins part one
+- your guide to
 story:
   date: 2011-04-26
   id: 2011-04-26-your-guide-to-vitamins-part-one

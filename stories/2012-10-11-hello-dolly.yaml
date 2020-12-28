@@ -1,19 +1,9 @@
 ngrams:
-- - hello
-  - dolly
-  - many
-- - dolly
-  - many
-  - thanks
-- - this
-  - doll
-  - available
-- - claire
-  - harmer
-  - for
-- - harmer
-  - for
-  - alerting
+- amazon for just
+- harmer for alerting
+- for alerting me
+- on amazon for
+- claire harmer for
 story:
   date: 2012-10-11
   id: 2012-10-11-hello-dolly

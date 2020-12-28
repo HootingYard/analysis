@@ -1,391 +1,133 @@
 ngrams:
-- - keel
-  - 'false'
-  - keel
-- - australian
-  - grain
-  - trade
-- - rudder
-  - counter
-  - stern
-- - barque
-  - easy
-  - peasy
-- - stern
-  - chain
-  - plates
-- - block
-  - cheek
-  - block
-- - tie
-  - connecting
-  - chain
-- - constituent
-  - parts
-  - golly
-- - counter
-  - stern
-  - chain
-- - chain
-  - keeping
-  - slide
-- - connecting
-  - chain
-  - keeping
-- - basic
-  - constituent
-  - parts
-- - leather
-  - pins
-  - forming
-- - pins
-  - forming
-  - hinges
-- - halves
-  - iron
-  - binding
-- - hoop
-  - arm
-  - carrying
-- - bolt
-  - iron
-  - bands
-- - loomed
-  - huge
-  - ahead
-- - planking
-  - side
-  - planking
-- - huge
-  - hairy
-  - beard
-- - rowing
-  - boat
-  - sent
-- - bottom
-  - planking
-  - side
-- - ship
-  - loomed
-  - huge
-- - excellent
-  - voyages
-  - during
-- - dilapidated
-  - boarding
-  - house
-- - dilapidated
-  - boarding
-  - house
-- - big
-  - sailing
-  - vessel
-- - ship
-  - i'll
-  - try
-- - wooden
-  - ship
-  - i'll
-- - triumphantly
-  - good
-  - lad
-- - cried
-  - triumphantly
-  - good
-- - iron
-  - drum
-  - end
-- - moment's
-  - thought
-  - babbling
-- - least
-  - eye
-  - bolts
-- - sea
-  - dog
-  - beaming
-- - thousand
-  - three
-  - hundred
-- - means
-  - least
-  - eye
-- - three
-  - different
-  - types
-- - sea
-  - look
-  - sonny
-- - yard
-  - tub
-  - divided
-- - ice
-  - lolly
-  - well
-- - pier
-  - sucking
-  - away
-- - four
-  - thousand
-  - three
-- - voyages
-  - during
-  - world
-- - old
-  - tar
-  - stuffed
-- - many
-  - excellent
-  - voyages
-- - during
-  - world
-  - war
-- - wooden
-  - yard
-  - you'd
-- - after
-  - running
-  - aground
-- - thousand
-  - two
-  - hundred
-- - long
-  - year
-  - since
-- - ship
-  - half
-  - way
-- - too
-  - quickly
-  - because
-- - name
-  - three
-  - different
-- - three
-  - thousand
-  - two
-- - old
-  - sea
-  - dog
-- - boarding
-  - house
-  - where
-- - boarding
-  - house
-  - where
-- - distance
-  - now
-  - wholly
-- - trade
-  - she
-  - foundered
-- - grain
-  - trade
-  - she
-- - long
-  - long
-  - ago
-- - ship
-  - indeed
-  - said
-- - war
-  - she
-  - brought
-- - recall
-  - well
-  - first
-- - made
-  - many
-  - excellent
-- - question
-  - how
-  - many
-- - having
-  - plenty
-  - more
-- - see
-  - any
-  - trace
-- - longer
-  - see
-  - any
-- - their
-  - constituent
-  - parts
-- - could
-  - recall
-  - well
-- - iron
-  - yard
-  - then
-- - day
-  - long
-  - long
-- - now
-  - our
-  - conversation
-- - seabirds
-  - were
-  - screeching
-- - salt
-  - taffy
-  - into
-- - salt
-  - taffy
-  - into
-- - more
-  - question
-  - how
-- - 'no'
-  - means
-  - least
-- - 'no'
-  - longer
-  - see
-- - suddenly
-  - gave
-  - me
-- - could
-  - just
-  - make
-- - decided
-  - when
-  - once
-- - tell
-  - me
-  - everything
-- - could
-  - 'no'
-  - longer
-- - jib
-  - an
-  - outer
-- - an
-  - outer
-  - jib
-- - an
-  - elderly
-  - gent
-- - an
-  - inner
-  - jib
-- - inner
-  - jib
-  - an
-- - pushed
-  - me
-  - over
-- - sailing
-  - ships
-  - one
-- - replied
-  - an
-  - inner
-- - an
-  - ice
-  - lolly
-- - sucking
-  - an
-  - ice
-- - an
-  - iron
-  - band
-- - just
-  - make
-  - out
-- - would
-  - say
-  - three
-- - oh
-  - there's
-  - one
-- - there's
-  - one
-  - part
-- - particular
-  - one
-  - tell
-- - or
-  - gripe
-  - stem
-- - gross
-  - tons
-  - or
-- - keel
-  - or
-  - shoe
-- - 'false'
-  - keel
-  - or
-- - an
-  - end
-  - oh
-- - foot
-  - or
-  - gripe
-- - would
-  - indeed
-  - said
-- - world
-  - war
-  - one
-- - barque
-  - lad
-  - but
-- - tons
-  - or
-  - four
-- - an
-  - iron
-  - yard
-- - can
-  - tell
-  - me
-- - or
-  - four
-  - thousand
-- - pier
-  - fresh
-  - from
-- - said
-  - what
-  - do
-- - ships
-  - one
-  - day
-- - me
-  - now
-  - just
-- - boat
-  - sent
-  - from
-- - yard
-  - then
-  - there
-- - but
-  - too
-  - quickly
-- - dog
-  - beaming
-  - at
-- - war
-  - one
-  - she
-- - be
-  - having
-  - plenty
-- - one
-  - more
-  - question
-- - tell
-  - me
-  - if
-- - one
-  - day
-  - long
-- - yard
-  - you'd
-  - have
+- the the pier
+- of the the
+- the pier and
+- pier and the
+- and the shore
+- the shore and
+- shore and the
+- the tie and
+- the railings and
+- and the dilapidated
+- the sky was
+- was at the
+- you into the
+- for the tie
+- bolt for the
+- yoke for the
+- the yard but
+- from the wooden
+- sent from the
+- the sea but
+- know about the
+- into the sea
+- and brine and
+- into the service
+- out in the
+- the first time
+- splashed into the
+- taffy into the
+- said the old
+- the war she
+- indeed said the
+- said the sea
+- the distance now
+- said the ancient
+- information said the
+- the old sea
+- over the railings
+- me over the
+- after the war
+- be the first
+- way to the
+- tongue the old
+- the old tar
+- to the yard
+- until the ship
+- the sea dog
+- take the tie
+- to take the
+- must be the
+- the railings next
+- end of the
+- in the sea
+- the sea i
+- ago in the
+- against the railings
+- tell me the
+- leaned against the
+- part on the
+- the wooden ship
+- lolly the sky
+- began haltingly the
+- in the books
+- the books by
+- looked in the
+- to open the
+- return to the
+- ice lolly the
+- the ship loomed
+- the ancient mariner
+- arm carrying the
+- at the seaside
+- the french government
+- the pier sucking
+- in the distance
+- the service of
+- service of the
+- the shape of
+- in the direction
+- the direction of
+- on the pier
+- to the french
+- in the decades
+- the decades to
+- the dilapidated boarding
+- trace of the
+- the basic constituent
+- my tongue the
+- me the basic
+- the railings on
+- railings on the
+- on the tip
+- the tip of
+- the king's navy
+- to the dilapidated
+- of the king's
+- to the horizon
+- the horizon i
+- the australian grain
+- of the rolling
+- carter in the
+- chiefly in the
+- bolts securing the
+- in the bloom
+- the bloom of
+- conversations in the
+- in the australian
+- allocated to the
+- me in the
+- and into that
+- was overcast and
+- was biddable and
+- and you would
+- and under his
+- and can you
+- and his huge
+- his mouth and
+- brine and his
+- jib and you
+- and last but
+- and no not
+- and pointed out
+- and seabirds were
+- and could just
+- and their constituent
+- said and after
+- dog and can
+- and made many
+- towel and then
+- finger and could
 story:
   date: 2012-05-10
   id: 2012-05-10-on-sailing-ships

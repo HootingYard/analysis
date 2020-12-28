@@ -1,19 +1,9 @@
 ngrams:
-- - poll
-  - an
-  - online
-- - an
-  - online
-  - poll
-- - online
-  - poll
-  - was
-- - poll
-  - was
-  - here
-- - is
-  - now
-  - closed
+- poll was here
+- was here it
+- online poll was
+- is now closed
+- it is now
 story:
   date: 2012-10-22
   id: 2012-10-22-readers-poll

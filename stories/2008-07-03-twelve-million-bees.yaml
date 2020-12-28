@@ -1,19 +1,9 @@
 ngrams:
-- - headline
-  - lorry
-  - carrying
-- - lorry
-  - carrying
-  - m
-- - m
-  - bees
-  - overturns
-- - carrying
-  - m
-  - bees
-- - million
-  - bees
-  - what
+- million bees what
+- bees what a
+- what a headline
+- carrying m bees
+- m bees overturns
 story:
   date: 2008-07-03
   id: 2008-07-03-twelve-million-bees

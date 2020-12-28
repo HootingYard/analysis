@@ -1,454 +1,154 @@
 ngrams:
-- - singer
-  - cyndi
-  - lauper
-- - wistful
-  - stickleback
-  - gaze
-- - muttered
-  - inanities
-  - nevertheless
-- - storage
-  - facility
-  - guarded
-- - manly
-  - jack
-  - hawkins
-- - secure
-  - storage
-  - facility
-- - secure
-  - storage
-  - facility
-- - secure
-  - storage
-  - facility
-- - petula
-  - clark
-  - distress
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - petula
-  - clark
-  - files
-- - efficient
-  - storage
-  - method
-- - remote
-  - secure
-  - storage
-- - remote
-  - secure
-  - storage
-- - remote
-  - secure
-  - storage
-- - wolf
-  - shortly
-  - thereafter
-- - cause
-  - petula
-  - clark
-- - petula
-  - clark
-  - project
-- - petula
-  - clark
-  - project
-- - petula
-  - clark
-  - project
-- - james
-  - boswell
-  - getting
-- - seven
-  - petula
-  - clark
-- - buff
-  - cardboard
-  - folder
-- - six
-  - files
-  - augmented
-- - cardboard
-  - folder
-  - containing
-- - clark
-  - files
-  - seemed
-- - boiling
-  - hot
-  - tap
-- - lost
-  - patience
-  - awaiting
-- - four
-  - brisk
-  - capers
-- - single
-  - press
-  - clipping
-- - different
-  - woolly
-  - hats
-- - janitor
-  - lost
-  - patience
-- - full
-  - bright
-  - brilliant
-- - clark
-  - files
-  - given
-- - another
-  - singer
-  - cyndi
-- - slightly
-  - later
-  - date
-- - per
-  - another
-  - singer
-- - brisk
-  - capers
-  - around
-- - project
-  - without
-  - delay
-- - cannot
-  - recall
-  - precisely
-- - hot
-  - tap
-  - water
-- - early
-  - morning
-  - conversation
-- - clark
-  - project
-  - without
-- - clark
-  - files
-  - each
-- - yet
-  - electrified
-  - wolves
-- - woolly
-  - hats
-  - yet
-- - long
-  - winter
-  - nights
-- - still
-  - asleep
-  - effectively
-- - dreams
-  - still
-  - swirling
-- - uneasy
-  - dreams
-  - still
-- - doused
-  - these
-  - phantoms
-- - stickleback
-  - gaze
-  - see
-- - gaze
-  - see
-  - sketch
-- - receive
-  - many
-  - visitors
-- - very
-  - seldom
-  - trekked
-- - make
-  - full
-  - novel
-- - two
-  - different
-  - woolly
-- - better
-  - 'off'
-  - removing
-- - communist
-  - might
-  - help
-- - distraught
-  - albeit
-  - only
-- - kept
-  - through
-  - thick
-- - last
-  - few
-  - vestiges
-- - pain
-  - upon
-  - anybody
-- - upon
-  - anybody
-  - unless
-- - very
-  - same
-  - janitor
-- - armchair
-  - panting
-  - like
-- - also
-  - make
-  - full
-- - make
-  - good
-  - use
-- - done
-  - years
-  - ago
-- - than
-  - full
-  - bright
-- - cyndi
-  - lauper
-  - time
-- - fully
-  - ah
-  - then
-- - exceedingly
-  - unlikely
-  - she
-- - water
-  - then
-  - pranced
-- - care
-  - very
-  - much
-- - more
-  - youthful
-  - days
-- - clark
-  - files
-  - who
-- - over
-  - many
-  - decades
-- - thin
-  - over
-  - many
-- - merciless
-  - fangs
-  - 'no'
-- - boswell
-  - getting
-  - up
-- - wake
-  - up
-  - fully
-- - up
-  - fully
-  - ah
-- - am
-  - still
-  - asleep
-- - wish
-  - 'no'
-  - pain
-- - 'no'
-  - ready
-  - answer
-- - clark
-  - files
-  - what
-- - consult
-  - them
-  - indeed
-- - clipping
-  - about
-  - petula
-- - precisely
-  - what
-  - figments
-- - taken
-  - their
-  - toll
-- - same
-  - janitor
-  - who
-- - about
-  - petula
-  - clark
-- - press
-  - clipping
-  - about
-- - wistful
-  - stickleback
-  - if
-- - who
-  - came
-  - hammering
-- - lauper
-  - time
-  - after
-- - oven
-  - chips
-  - were
-- - winter
-  - nights
-  - when
-- - asleep
-  - effectively
-  - if
-- - files
-  - were
-  - gathering
-- - seldom
-  - trekked
-  - out
-- - janitor
-  - who
-  - came
-- - recall
-  - precisely
-  - what
-- - were
-  - gathering
-  - dust
-- - anything
-  - other
-  - than
-- - though
-  - 'no'
-  - doubt
-- - other
-  - than
-  - full
-- - achieved
-  - elude
-  - me
-- - once
-  - been
-  - accused
-- - then
-  - pranced
-  - like
-- - youthful
-  - days
-  - when
-- - sketch
-  - now
-  - do
-- - also
-  - green
-  - about
-- - 'no'
-  - idea
-  - why
-- - all
-  - five
-  - senses
-- - after
-  - time
-  - why
-- - keep
-  - me
-  - occupied
-- - morning
-  - waking
-  - me
-- - think
-  - about
-  - wolves
-- - files
-  - given
-  - they
-- - me
-  - both
-  - somehow
-- - 'no'
-  - pain
-  - upon
-- - elude
-  - me
-  - though
-- - unnerved
-  - me
-  - though
-- - more
-  - years
-  - than
-- - our
-  - discussion
-  - when
-- - would
-  - devise
-  - once
-- - seventh
-  - which
-  - held
-- - brain
-  - so
-  - unnerved
-- - sleeping
-  - brain
-  - so
-- - do
-  - wake
-  - up
-- - an
-  - efficient
-  - storage
-- - so
-  - long
-  - neglected
-- - would
-  - ever
-  - learn
-- - many
-  - decades
-  - would
-- - clark
-  - project
-  - an
-- - project
-  - an
-  - activity
-- - time
-  - after
-  - time
-- - many
-  - visitors
-  - so
-- - this
-  - dustless
-  - state
-- - would
-  - also
-  - make
+- the hammering the
+- and had the
+- the morning and
+- and the project
+- clark and the
+- and the files
+- the files and
+- files and the
+- the offing and
+- say that the
+- that the files
+- the evenings that
+- was during the
+- the janitor was
+- was telling the
+- for the same
+- do with the
+- the truth for
+- method for the
+- for the petula
+- for the storage
+- for the communist
+- untrue for the
+- canvass for the
+- is for the
+- you see the
+- the years have
+- not remember the
+- but the years
+- not the janitor
+- am not the
+- from the remote
+- the files from
+- files from the
+- ways but the
+- delay but the
+- the gills but
+- the janitor had
+- had the appearance
+- had exhausted the
+- one the precise
+- one of the
+- when the janitor
+- into the remote
+- the files were
+- breaking into the
+- green about the
+- discussion when the
+- about the precise
+- specific about the
+- about the gills
+- the last time
+- has the janitor
+- as has the
+- nor could the
+- could the janitor
+- at the time
+- the time of
+- upon the petula
+- embark upon the
+- the last few
+- remember the last
+- during the course
+- around the room
+- off removing the
+- see the ostensible
+- the long winter
+- few the truth
+- dispel the last
+- the course of
+- the sort used
+- of the long
+- the gorgeous world
+- having placed the
+- the same reason
+- so few the
+- capers around the
+- rather to the
+- the precise number
+- in the morning
+- the janitor lost
+- the room as
+- use of the
+- of the sort
+- the original five
+- of the matter
+- the matter is
+- telling the truth
+- longer the manly
+- answer the hammering
+- no longer the
+- to the ears
+- the ears of
+- placed the petula
+- learn of the
+- the precise details
+- to answer the
+- the communist party
+- the truth of
+- truth of the
+- clark the original
+- hammering the janitor
+- attend the public
+- exhausted the topics
+- the ostensible purpose
+- the janitor it
+- the janitor he
+- purpose of the
+- photograph of the
+- the public humiliation
+- the perimeter fence
+- the project i
+- the appearance of
+- date by the
+- the petula clark
+- petula clark the
+- the remote secure
+- the manly jack
+- the storage facility
+- of the items
+- the items in
+- destroy the petula
+- attacked at the
+- to the gorgeous
+- occupied in the
+- to attend the
+- the topics of
+- by the sixth
+- the sixth or
+- range to the
+- of the petula
+- in the petula
+- removing the files
+- awoke at the
+- tally of the
+- ballet in the
+- to the files
+- the files i
+- of the files
+- of the materials
+- the materials in
+- materials in the
+- in the twilight
+- the twilight of
+- in the evenings
+- at the perimeter
+- to destroy the
+- election in the
+- knapsack of the
+- the chanteuse snipped
 story:
   date: 2015-10-22
   id: 2015-10-22-the-petula-clark-project

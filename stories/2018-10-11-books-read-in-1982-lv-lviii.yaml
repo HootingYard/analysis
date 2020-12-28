@@ -1,19 +1,9 @@
 ngrams:
-- - last
-  - four
-  - books
-- - books
-  - read
-  - in
-- - four
-  - books
-  - of
-- - the
-  - last
-  - four
-- - books
-  - of
-  - the
+- the last four
+- of the year
+- books of the
+- last four books
+- books read in
 story:
   date: 2018-10-11
   id: 2018-10-11-books-read-in-1982-lv-lviii

@@ -1,19 +1,9 @@
 ngrams:
-- - fictional
-  - characters
-  - named
-- - left
-  - intentionally
-  - blank
-- - page
-  - left
-  - intentionally
-- - named
-  - after
-  - packaging
-- - characters
-  - named
-  - after
+- after packaging this
+- this page left
+- packaging this page
+- characters named after
+- named after packaging
 story:
   date: 2004-01-21
   id: 2004-01-21-fictional-characters-named-after-packaging

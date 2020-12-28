@@ -1,19 +1,9 @@
 ngrams:
-- - exciting
-  - new
-  - series
-- - new
-  - series
-  - number
-- - one
-  - sydney
-  - carton
-- - number
-  - one
-  - sydney
-- - series
-  - number
-  - one
+- from a tale
+- sydney carton from
+- carton from a
+- series number one
+- number one sydney
 story:
   date: 2004-01-21
   id: 2004-01-21-an-exciting-new-series

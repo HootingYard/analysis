@@ -1,13 +1,7 @@
 ngrams:
-- - cartoon
-  - strip
-  - frames
-- - strip
-  - frames
-  - to
-- - a
-  - cartoon
-  - strip
+- cartoon strip frames
+- a cartoon strip
+- strip frames to
 story:
   date: 2004-03-19
   id: 2004-03-19-lean-starved-hackney-apophthegms-a-cartoon-strip

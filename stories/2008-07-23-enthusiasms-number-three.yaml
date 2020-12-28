@@ -1,19 +1,9 @@
 ngrams:
-- - three
-  - earlier
-  - enthusiasms
-- - enthusiasms
-  - number
-  - three
-- - number
-  - three
-  - earlier
-- - earlier
-  - enthusiasms
-  - are
-- - enthusiasms
-  - are
-  - here
+- are here and
+- here and here
+- enthusiasms are here
+- earlier enthusiasms are
+- number three earlier
 story:
   date: 2008-07-23
   id: 2008-07-23-enthusiasms-number-three

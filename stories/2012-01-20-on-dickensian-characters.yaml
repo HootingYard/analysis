@@ -1,289 +1,99 @@
 ngrams:
-- - angelo
-  - cyrus
-  - bantam
-- - lupin
-  - abel
-  - magwitch
-- - cruncher
-  - alderman
-  - cute
-- - toots
-  - lucretia
-  - tox
-- - cyrus
-  - bantam
-  - barbara
-- - toodle
-  - toots
-  - lucretia
-- - colonel
-  - diver
-  - dodson
-- - polly
-  - toodle
-  - toots
-- - belle
-  - benjamin
-  - betsy
-- - rosa
-  - bud
-  - bumble
-- - susan
-  - nipper
-  - newman
-- - tom
-  - pinch
-  - pip
-- - scrooge
-  - bill
-  - sikes
-- - jenny
-  - alfred
-  - jingle
-- - alfred
-  - jingle
-  - jo
-- - martin
-  - chuzzlewit
-  - ada
-- - junior
-  - amy
-  - edward
-- - plummer
-  - matthew
-  - herbert
-- - annie
-  - strong
-  - esther
-- - bray
-  - walter
-  - bray
-- - garland
-  - walter
-  - gay
-- - bill
-  - sikes
-  - harold
-- - payne
-  - charity
-  - mercy
-- - job
-  - trotter
-  - josiah
-- - bud
-  - bumble
-  - jack
-- - bucket
-  - rosa
-  - bud
-- - miss
-  - barbary
-  - martha
-- - solomon
-  - daisy
-  - charles
-- - magwitch
-  - peter
-  - magnus
-- - abel
-  - magwitch
-  - peter
-- - bantam
-  - barbara
-  - miss
-- - barbara
-  - miss
-  - barbary
-- - inspector
-  - bucket
-  - rosa
-- - nathaniel
-  - winkle
-  - miss
-- - mary
-  - mary
-  - anne
-- - infant
-  - phenomenon
-  - samuel
-- - brown
-  - alice
-  - brown
-- - miss
-  - larkins
-  - edward
-- - sir
-  - mulberry
-  - hawk
-- - composite
-  - dickensian
-  - character
-- - dr
-  - payne
-  - charity
-- - family
-  - major
-  - joseph
-- - mrs
-  - cruncher
-  - alderman
-- - jarvis
-  - lorry
-  - dr
-- - mrs
-  - lupin
-  - abel
-- - mulberry
-  - hawk
-  - mrs
-- - samuel
-  - weller
-  - john
-- - carton
-  - john
-  - baptist
-- - sydney
-  - carton
-  - john
-- - jasper
-  - dr
-  - anthony
-- - mrs
-  - garland
-  - walter
-- - mary
-  - anne
-  - mrs
-- - mrs
-  - brown
-  - alice
-- - young
-  - dick
-  - deputy
-- - peter
-  - magnus
-  - dr
-- - dick
-  - young
-  - dick
-- - cobble
-  - together
-  - elements
-- - alderman
-  - cute
-  - captain
-- - mrs
-  - harris
-  - james
-- - barnacle
-  - family
-  - john
-- - family
-  - mrs
-  - ticket
-- - john
-  - jasper
-  - dr
-- - christmas
-  - past
-  - present
-- - artful
-  - dodger
-  - mr
-- - fassbinder
-  - mr
-  - feeder
-- - fogg
-  - mr
-  - dolls
-- - jingle
-  - jo
-  - mr
-- - abel
-  - garland
-  - mr
-- - edith
-  - granger
-  - mr
-- - benjamin
-  - betsy
-  - mr
-- - augustus
-  - snodgrass
-  - mr
-- - mr
-  - cripples
-  - canon
-- - good
-  - mrs
-  - brown
-- - walter
-  - gay
-  - mr
-- - alice
-  - brown
-  - mr
-- - gay
-  - mr
-  - george
-- - mr
-  - giles
-  - thomas
-- - dennis
-  - mr
-  - dick
-- - future
-  - mr
-  - giles
-- - old
-  - martin
-  - chuzzlewit
-- - sarah
-  - pocket
-  - mr
-- - old
-  - bill
-  - barley
-- - ned
-  - dennis
-  - mr
-- - mrs
-  - mann
-  - mr
-- - mrs
-  - ticket
-  - mr
-- - mr
-  - dick
-  - young
-- - mr
-  - feeder
-  - mr
-- - so
-  - get
-  - cobbling
-- - elements
-  - from
-  - adams
-- - together
-  - elements
-  - from
-- - 'on'
-  - dickensian
-  - characters
-- - dickensian
-  - character
-  - it
-- - it
-  - is
-  - necessary
-- - character
-  - it
-  - is
-- - dickensian
-  - characters
-  - to
+- the avenger the
+- from adams the
+- and philip and
+- the five sisters
+- the barnacle family
+- george the ghosts
+- laura badger the
+- the infant phenomenon
+- mr george the
+- the aged parent
+- adams the aged
+- the ghosts of
+- nancy the native
+- emily the marquis
+- benjamin allen the
+- veck the vengeance
+- the vengeance mr
+- barley the barnacle
+- allen the artful
+- avenger the bachelor
+- the artful dodger
+- the marquis st
+- martin and old
+- and old martin
+- and old mr
+- past present and
+- present and future
+- james and john
+- major and mrs
+- edward and john
+- leo and mrs
+- and mrs hunter
+- vincent and mrs
+- and mrs garland
+- jerry and mrs
+- and mrs cruncher
+- mr and mrs
+- and john chester
+- and sarah pocket
+- pocket mr and
+- and future mr
+- and frank edward
+- frank edward and
+- brothers and frank
+- and sir leicester
+- thomas and tom
+- giles thomas and
+- philip and william
+- harriet james and
+- frederick and william
+- and laura badger
+- richard and watt
+- charity mercy and
+- mercy and seth
+- and annie strong
+- bill barley and
+- edward and edwin
+- larkins edward and
+- weller and samuel
+- and samuel weller
+- pleasant and rogue
+- tony weller and
+- and grace marion
+- grace marion and
+- ernest and madame
+- helena and neville
+- matthew herbert and
+- daniel and ham
+- hugh leo and
+- isabella emily and
+- and benjamin allen
+- daniel and betsy
+- fred and nelly
+- hortense mr and
+- herbert and sarah
+- kate nicholas and
+- snodgrass mr and
+- nicholas and ralph
+- garland mr and
+- marion and martha
+- mann mr and
+- diver dodson and
+- dodson and fogg
+- and fogg mr
+- dr and annie
+- mr and mme
+- granger mr and
+- together elements from
+- elements from adams
+- old bill barley
+- old martin chuzzlewit
+- good mrs brown
+- christmas past present
+- so get cobbling
+- family mrs ticket
 story:
   date: 2012-01-20
   id: 2012-01-20-on-dickensian-characters

@@ -1,19 +1,9 @@
 ngrams:
-- - ed
-  - lower
-  - sam
-- - upper
-  - ed
-  - lower
-- - art
-  - pictures
-  - by
-- - by
-  - my
-  - sons
-- - pictures
-  - by
-  - my
+- my sons the
+- art pictures by
+- upper ed lower
+- pictures by my
+- ed lower sam
 story:
   date: 2012-07-17
   id: 2012-07-17-art

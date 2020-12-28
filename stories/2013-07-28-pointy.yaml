@@ -1,19 +1,9 @@
 ngrams:
-- - only
-  - item
-  - in
-- - the
-  - pointy
-  - town
-- - the
-  - pointy
-  - town
-- - the
-  - only
-  - item
-- - item
-  - in
-  - the
+- the only item
+- the pointy town
+- in the pointy
+- item in the
+- only item in
 story:
   date: 2013-07-28
   id: 2013-07-28-pointy

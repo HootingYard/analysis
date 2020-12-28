@@ -1,13 +1,7 @@
 ngrams:
-- - ho
-  - for
-  - cormorants
-- - cormorants
-  - the
-  - picture
-- - for
-  - cormorants
-  - the
+- for cormorants the
+- cormorants the picture
+- ho for cormorants
 story:
   date: 2004-05-19
   id: 2004-05-19-ho-for-cormorants-the-picture

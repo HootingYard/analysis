@@ -1,13 +1,7 @@
 ngrams:
-- - a
-  - mistletoe
-  - bird
-- - look
-  - a
-  - mistletoe
-- - gosh
-  - look
-  - a
+- gosh look a
+- look a mistletoe
+- a mistletoe bird
 story:
   date: 2016-12-22
   id: 2016-12-22-avian-advent-calendar-xxii

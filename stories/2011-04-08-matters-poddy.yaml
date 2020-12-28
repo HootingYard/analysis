@@ -1,19 +1,9 @@
 ngrams:
-- - tent
-  - at
-  - hoon
-- - big
-  - tent
-  - at
-- - lecture
-  - delivered
-  - in
-- - a
-  - lecture
-  - delivered
-- - the
-  - big
-  - tent
+- the big tent
+- in the big
+- delivered in the
+- big tent at
+- tent at hoon
 story:
   date: 2011-04-08
   id: 2011-04-08-matters-poddy

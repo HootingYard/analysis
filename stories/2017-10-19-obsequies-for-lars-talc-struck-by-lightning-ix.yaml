@@ -1,547 +1,185 @@
 ngrams:
-- - axes
-  - slicers
-  - choppers
-- - barometer
-  - remedies
-  - adulterations
-- - knives
-  - axes
-  - slicers
-- - slicers
-  - choppers
-  - hooks
-- - whittles
-  - scissors
-  - razors
-- - scissors
-  - razors
-  - cutters
-- - chopped
-  - pignut
-  - pepper
-- - choppers
-  - hooks
-  - spikes
-- - hooks
-  - spikes
-  - whittles
-- - chemical
-  - barometer
-  - remedies
-- - town's
-  - commercial
-  - district
-- - irritating
-  - vegetable
-  - poisons
-- - spikes
-  - whittles
-  - scissors
-- - editions
-  - flail
-  - plon
-- - forfend
-  - screeched
-  - linnet
-- - ether
-  - stamped
-  - documents
-- - sailcloth
-  - shroud
-  - muttering
-- - island's
-  - finest
-  - composers
-- - pignut
-  - pepper
-  - salt
-- - render
-  - linen
-  - bags
-- - retired
-  - football
-  - referee
-- - heedless
-  - scribbling
-  - minnie
-- - removed
-  - oozing
-  - tubs
-- - museum
-  - committee
-  - belying
-- - apparatus
-  - museum
-  - committee
-- - dogs
-  - irritating
-  - vegetable
-- - apparatus
-  - museum
-  - committee
-- - visible
-  - horizon
-  - furniture
-- - heaven
-  - forfend
-  - screeched
-- - health
-  - care
-  - provision
-- - wicker
-  - baskets
-  - filled
-- - medium
-  - size
-  - trout
-- - fine
-  - trout
-  - pie
-- - referee
-  - named
-  - aloysius
-- - finnish
-  - health
-  - care
-- - arrived
-  - panting
-  - pumped
-- - practitioner
-  - precise
-  - details
-- - general
-  - practitioner
-  - precise
-- - italian
-  - widow
-  - sir
-- - iron
-  - basin
-  - mix
-- - football
-  - referee
-  - named
-- - necessary
-  - papers
-  - tomorrow
-- - musical
-  - community
-  - except
-- - antique
-  - wooden
-  - rosary
-- - dozen
-  - medium
-  - size
-- - wooden
-  - rosary
-  - beads
-- - emporium
-  - dr
-  - hoist
-- - cocoa
-  - eye
-  - washes
-- - dr
-  - hoist
-  - hurrying
-- - deployed
-  - dr
-  - hoist
-- - shopkeeper
-  - dear
-  - friend
-- - piping
-  - hot
-  - oven
-- - dr
-  - hoist
-  - pronounced
-- - professor
-  - lars
-  - talc
-- - professor
-  - lars
-  - talc
-- - report
-  - professor
-  - lars
-- - press
-  - report
-  - professor
-- - body
-  - scribbling
-  - notes
-- - mighty
-  - iron
-  - basin
-- - bland
-  - sauce
-  - four
-- - lars
-  - talc
-  - struck
-- - half
-  - dozen
-  - medium
-- - dr
-  - hoist
-  - lars
-- - gone
-  - horribly
-  - wrong
-- - reserved
-  - four
-  - tables
-- - desist
-  - eyes
-  - lambent
-- - horribly
-  - wrong
-  - following
-- - tin
-  - boots
-  - laying
-- - stop
-  - press
-  - report
-- - dr
-  - hoist
-  - near
-- - later
-  - editions
-  - flail
-- - written
-  - works
-  - especially
-- - three
-  - winter
-  - turnips
-- - four
-  - tables
-  - imagine
-- - fascinating
-  - reading
-  - dr
-- - radio
-  - broadcast
-  - given
-- - dr
-  - hoist
-  - left
-- - tomorrow
-  - thing
-  - linnet
-- - great
-  - finnish
-  - polymath
-- - papers
-  - tomorrow
-  - thing
-- - commonplace
-  - book
-  - chewing
-- - relished
-  - every
-  - opportunity
-- - crabbed
-  - hand
-  - wrote
-- - most
-  - valued
-  - customers
-- - hot
-  - oven
-  - until
-- - well
-  - heaven
-  - forfend
-- - long
-  - poor
-  - minnie
-- - stay
-  - long
-  - poor
-- - hoist
-  - hurrying
-  - away
-- - before
-  - rigor
-  - mortis
-- - trout
-  - pie
-  - first
-- - two
-  - men
-  - emptied
-- - bray
-  - hectically
-  - over
-- - talc
-  - before
-  - rigor
-- - woe
-  - said
-  - linnet
-- - lars
-  - talc
-  - before
-- - widow
-  - sir
-  - said
-- - oh
-  - long
-  - ago
-- - itself
-  - stood
-  - just
-- - said
-  - dr
-  - hoist
-- - spot
-  - where
-  - talc
-- - such
-  - high
-  - esteem
-- - virtually
-  - black
-  - over
-- - once
-  - oh
-  - long
-- - racket
-  - could
-  - deter
-- - more
-  - gritty
-  - muscular
-- - could
-  - working
-  - silently
-- - she
-  - paused
-  - briefly
-- - linnet
-  - she
-  - swept
-- - screeched
-  - linnet
-  - do
-- - like
-  - talc
-  - whom
-- - her
-  - sweeping
-  - buckets
-- - she
-  - arrived
-  - panting
-- - poor
-  - minnie
-  - she
-- - man
-  - well
-  - heaven
-- - silent
-  - she
-  - sat
-- - exclaimed
-  - now
-  - perhaps
-- - small
-  - pieces
-  - then
-- - death
-  - she
-  - arrived
-- - nuncio
-  - has
-  - reserved
-- - papal
-  - nuncio
-  - has
-- - her
-  - crabbed
-  - hand
-- - arrived
-  - some
-  - minutes
-- - lightning
-  - struck
-  - him
-- - museum
-  - committee
-  - who
-- - committee
-  - who
-  - lived
-- - shared
-  - her
-  - life
-- - said
-  - linnet
-  - before
-- - religious
-  - man
-  - said
-- - dr
-  - hoist
-  - who
-- - her
-  - commonplace
-  - book
-- - has
-  - reserved
-  - four
-- - ever
-  - more
-  - embittered
-- - cellar
-  - between
-  - them
-- - pencil
-  - each
-  - time
-- - her
-  - pencil
-  - each
-- - assistant
-  - called
-  - him
-- - about
-  - chemical
-  - barometer
-- - your
-  - mouth
-  - watering
-- - man
-  - like
-  - talc
-- - became
-  - ever
-  - more
-- - rest
-  - offering
-  - what
-- - hoist
-  - who
-  - came
-- - offering
-  - what
-  - help
-- - she
-  - swept
-  - through
-- - were
-  - universally
-  - ridiculed
-- - views
-  - were
-  - universally
-- - emptied
-  - out
-  - barrels
-- - were
-  - eight
-  - visitors
-- - scribbling
-  - notes
-  - into
-- - will
-  - pour
-  - syrup
-- - stacked
-  - them
-  - away
-- - bumped
-  - into
-  - dr
-- - wrote
-  - about
-  - chemical
-- - into
-  - dr
-  - hoist
-- - never
-  - forgave
-  - him
-- - obituary
-  - will
-  - appear
-- - important
-  - meeting
-  - when
-- - men
-  - emptied
-  - out
-- - some
-  - minutes
-  - after
-- - full
-  - obituary
-  - will
-- - were
-  - brought
-  - together
-- - into
-  - small
-  - pieces
-- - long
-  - been
-  - considered
-- - all
-  - gone
-  - horribly
-- - more
-  - remarkable
-  - then
-- - words
-  - were
-  - intemperate
-- - did
-  - she
-  - write
-- - hand
-  - wrote
-  - about
-- - struck
-  - him
-  - down
-- - time
-  - she
-  - paused
-- - following
-  - hour
-  - there
-- - thought
-  - did
-  - she
-- - has
-  - never
-  - come
-- - swept
-  - through
-  - into
-- - funeral
-  - parlour
-  - which
-- - two
-  - were
-  - brought
-- - canvas
-  - sack
-  - which
-- - iron
-  - bath
-  - which
-- - events
-  - are
-  - beyond
-- - england
-  - which
-  - held
+- the shop and
+- the corpse and
+- the skin and
+- the shelves and
+- servants and the
+- and inevitably the
+- and decked the
+- the undertaker and
+- and the gutting
+- and as the
+- the fact that
+- the churns that
+- the undertaker was
+- the time for
+- the man with
+- the room with
+- the top with
+- the body with
+- schemes with the
+- the edges with
+- with the shopkeeper
+- the rent for
+- you know the
+- send you the
+- you the necessary
+- from the small
+- from the spot
+- walk from the
+- yards from the
+- from the funeral
+- from the shelves
+- vegetation from the
+- had witnessed the
+- the tragedy had
+- all the more
+- the one hundred
+- the sailcloth this
+- one of the
+- are beyond the
+- through into the
+- the two were
+- face all the
+- will put the
+- the words were
+- called into the
+- and northern and
+- will wet the
+- will remove the
+- into the shop
+- out of the
+- the corpse into
+- were intemperate the
+- into the cellar
+- into the funeral
+- stamping into the
+- lowered into the
+- man said the
+- know the man
+- him to the
+- the man well
+- washes the time
+- at the time
+- the time of
+- then the vision
+- the more remarkable
+- remarkable then the
+- black over the
+- the shop where
+- shop where the
+- the spot where
+- over the top
+- where the third
+- over the body
+- said the doctor
+- sir said the
+- the fishmonger did
+- down the slab
+- hose down the
+- said the fishmonger
+- hectically over the
+- the two men
+- of the man
+- at the back
+- the back of
+- back of the
+- chance the two
+- silently the two
+- of the way
+- the way i
+- talc the great
+- book chewing the
+- the present work
+- until the pie
+- must prepare the
+- the great finnish
+- oven until the
+- put the pieces
+- himself trundled the
+- next to the
+- during the following
+- walking along the
+- chewing the end
+- given by the
+- along the avenue
+- the end of
+- case of the
+- the cellar between
+- the small plot
+- the pieces together
+- decked the room
+- the following hour
+- light the facts
+- belying the fact
+- innards during the
+- the post office
+- to light the
+- learned the identity
+- covered the body
+- together by the
+- he learned the
+- sat by the
+- the decades passed
+- hoist near the
+- beyond the compass
+- entered the shop
+- brush the top
+- lars talc the
+- collected the body
+- of the post
+- eye washes the
+- the top i
+- milk fold the
+- happened at the
+- the shopkeeper dear
+- poisons the return
+- the shop thrusting
+- the return of
+- the shop as
+- of the shop
+- the shop to
+- picnic in the
+- premiere the truth
+- mix the lot
+- the body of
+- the truth of
+- of the present
+- the slab ready
+- the third visitor
+- the lot up
+- sight of the
+- wet the edges
+- the necessary papers
+- the facts hidden
+- the doctor gagging
+- fold the pastry
+- to the front
+- the front of
+- front of the
+- pieces in the
+- the pastry up
+- working silently the
+- the visible horizon
+- fine meal the
+- the musical community
+- remove the skin
+- by the latter
+- the latter in
+- documents the distance
+- the museum committee
+- museum committee the
+- by chance the
+- hanging chickens the
+- the funeral parlour
+- replied the undertaker
+- the finest minds
+- am replied the
+- the distance of
+- distance of the
+- silence by the
+- of the visible
+- the pie is
 story:
   date: 2017-10-19
   id: 2017-10-19-obsequies-for-lars-talc-struck-by-lightning-ix

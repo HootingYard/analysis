@@ -1,28 +1,12 @@
 ngrams:
-- - price
-  - tag
-  - tied
-- - album
-  - david
-  - bowie
-- - david
-  - bowie
-  - tells
-- - york
-  - shop
-  - window
-- - bowie
-  - tells
-  - us
-- - new
-  - york
-  - shop
-- - can
-  - buy
-  - god
-- - can
-  - buy
-  - god
+- the shop was
+- shop window the
+- god in the
+- alas the shop
+- window the baby
+- the song joe
+- song joe the
+- in the song
 story:
   date: 2013-03-08
   id: 2013-03-08-you-can-buy-god

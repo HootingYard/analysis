@@ -1,19 +1,9 @@
 ngrams:
-- - any
-  - dining
-  - room
-- - zeppelin
-  - hindenburg
-  - more
-- - hindenburg
-  - more
-  - pictures
-- - just
-  - any
-  - dining
-- - dining
-  - room
-  - but
+- room but the
+- but the dining
+- the dining room
+- room on the
+- not just any
 story:
   date: 2012-03-10
   id: 2012-03-10-dining-room

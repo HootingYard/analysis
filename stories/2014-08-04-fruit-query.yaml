@@ -1,19 +1,9 @@
 ngrams:
-- - question
-  - why
-  - are
-- - there
-  - 'no'
-  - bananas
-- - my
-  - brother
-  - poses
-- - query
-  - my
-  - brother
-- - fruit
-  - query
-  - my
+- why are there
+- are there no
+- question why are
+- there no bananas
+- a question why
 story:
   date: 2014-08-04
   id: 2014-08-04-fruit-query

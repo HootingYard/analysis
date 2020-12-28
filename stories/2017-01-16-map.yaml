@@ -1,19 +1,9 @@
 ngrams:
-- - son
-  - sam
-  - click
-- - my
-  - son
-  - sam
-- - by
-  - my
-  - son
-- - map
-  - by
-  - my
-- - sam
-  - click
-  - to
+- son sam click
+- map by my
+- my son sam
+- by my son
+- sam click to
 story:
   date: 2017-01-16
   id: 2017-01-16-map

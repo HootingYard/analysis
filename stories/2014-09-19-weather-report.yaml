@@ -1,19 +1,9 @@
 ngrams:
-- - september
-  - jane
-  - austen
-- - kent
-  - september
-  - jane
-- - jane
-  - austen
-  - writes
-- - dreadful
-  - hot
-  - weather
-- - austen
-  - writes
-  - what
+- weather report the
+- report the county
+- the county of
+- weather we have
+- have it keeps
 story:
   date: 2014-09-19
   id: 2014-09-19-weather-report

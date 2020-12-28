@@ -1,19 +1,9 @@
 ngrams:
-- - birds
-  - chirping
-  - again
-- - chirping
-  - again
-  - first
-- - again
-  - first
-  - we
-- - this
-  - now
-  - we
-- - first
-  - we
-  - had
+- had this now
+- we have this
+- we had this
+- now we have
+- first we had
 story:
   date: 2013-07-16
   id: 2013-07-16-birds-chirping-again

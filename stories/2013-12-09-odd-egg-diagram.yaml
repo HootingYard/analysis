@@ -1,19 +1,9 @@
 ngrams:
-- - odd
-  - egg
-  - diagram
-- - egg
-  - diagram
-  - go
-- - diagram
-  - go
-  - here
-- - here
-  - for
-  - enlightenment
-- - go
-  - here
-  - for
+- here for enlightenment
+- go here for
+- diagram go here
+- odd egg diagram
+- egg diagram go
 story:
   date: 2013-12-09
   id: 2013-12-09-odd-egg-diagram

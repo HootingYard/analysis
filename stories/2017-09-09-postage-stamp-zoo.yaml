@@ -1,19 +1,9 @@
 ngrams:
-- - postage
-  - stamp
-  - zoo
-- - stamp
-  - zoo
-  - this
-- - zoo
-  - this
-  - is
-- - a
-  - drawing
-  - from
-- - is
-  - a
-  - drawing
+- from the last
+- drawing from the
+- the last century
+- a drawing from
+- stamp zoo this
 story:
   date: 2017-09-09
   id: 2017-09-09-postage-stamp-zoo

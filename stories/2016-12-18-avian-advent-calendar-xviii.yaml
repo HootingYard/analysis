@@ -1,13 +1,7 @@
 ngrams:
-- - eastern
-  - yellow
-  - robin
-- - an
-  - eastern
-  - yellow
-- - today
-  - an
-  - eastern
+- today an eastern
+- eastern yellow robin
+- an eastern yellow
 story:
   date: 2016-12-18
   id: 2016-12-18-avian-advent-calendar-xviii

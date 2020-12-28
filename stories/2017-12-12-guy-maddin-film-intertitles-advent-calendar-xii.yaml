@@ -1,19 +1,9 @@
 ngrams:
-- - maddin
-  - film
-  - intertitles
-- - guy
-  - maddin
-  - film
-- - film
-  - intertitles
-  - advent
-- - brand
-  - upon
-  - the
-- - upon
-  - the
-  - brain
+- upon the brain
+- brand upon the
+- film intertitles advent
+- guy maddin film
+- maddin film intertitles
 story:
   date: 2017-12-12
   id: 2017-12-12-guy-maddin-film-intertitles-advent-calendar-xii

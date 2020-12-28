@@ -1,19 +1,8 @@
 ngrams:
-- - nonchalant
-  - blessed
-  - are
-- - the
-  - nonchalant
-  - blessed
-- - are
-  - the
-  - nonchalant
-- - are
-  - the
-  - nonchalant
-- - blessed
-  - are
-  - the
+- blessed are the
+- are the nonchalant
+- the nonchalant blessed
+- nonchalant blessed are
 story:
   date: 2004-01-10
   id: 2004-01-10-blessed-are-the-nonchalant

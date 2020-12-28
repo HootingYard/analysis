@@ -1,19 +1,9 @@
 ngrams:
-- - real
-  - owls
-  - find
-- - counterfeit
-  - owls
-  - these
-- - owls
-  - find
-  - out
-- - owls
-  - these
-  - are
-- - find
-  - out
-  - where
+- these are not
+- are not real
+- where they are
+- out where they
+- they are perched
 story:
   date: 2011-07-30
   id: 2011-07-30-counterfeit-owls

@@ -1,394 +1,134 @@
 ngrams:
-- - hurtling
-  - pell
-  - mell
-- - barking
-  - desperate
-  - mastiff
-- - desmond's
-  - waiting
-  - paws
-- - panting
-  - barking
-  - desperate
-- - featureless
-  - flat
-  - expanse
-- - featureless
-  - flat
-  - expanse
-- - hopelessly
-  - hopelessly
-  - entangled
-- - basic
-  - probability
-  - theory
-- - desmond
-  - imagine
-  - desmond
-- - vast
-  - featureless
-  - flat
-- - slightly
-  - fewer
-  - trees
-- - monkey
-  - i'd
-  - stay
-- - straight
-  - line
-  - equidistant
-- - otherwise
-  - featureless
-  - flat
-- - roughly
-  - six
-  - yards
-- - wrong
-  - tree
-  - conversely
-- - monkey
-  - earlier
-  - partly
-- - matter
-  - desmond
-  - thinks
-- - dog
-  - barking
-  - abstractedly
-- - abstract
-  - dog
-  - barking
-- - longer
-  - visible
-  - anywhere
-- - pell
-  - mell
-  - towards
-- - simplest
-  - concrete
-  - example
-- - vivid
-  - illustrative
-  - example
-- - become
-  - hopelessly
-  - hopelessly
-- - blot
-  - everything
-  - else
-- - concrete
-  - example
-  - drawn
-- - does
-  - desmond
-  - bark
-- - four
-  - trees
-  - planted
-- - elm
-  - however
-  - unlikely
-- - monkey
-  - scampering
-  - towards
-- - master's
-  - table
-  - note
-- - i'd
-  - stay
-  - put
-- - tree
-  - does
-  - desmond
-- - abstract
-  - propositions
-  - things
-- - six
-  - yards
-  - between
-- - wide
-  - wide
-  - world
-- - entirely
-  - quite
-  - frankly
-- - earlier
-  - partly
-  - because
-- - tree
-  - conversely
-  - though
-- - propositions
-  - things
-  - become
-- - us
-  - credit
-  - desmond
-- - grow
-  - ever
-  - greater
-- - matter
-  - entirely
-  - quite
-- - things
-  - become
-  - hopelessly
-- - another
-  - matter
-  - entirely
-- - well
-  - everything
-  - except
-- - scribbler
-  - never
-  - knows
-- - opinion
-  - either
-  - way
-- - our
-  - abstract
-  - mastiff
-- - mind
-  - well
-  - everything
-- - hot
-  - pursuit
-  - those
-- - real
-  - world
-  - let
-- - pursuit
-  - may
-  - avoid
-- - abstract
-  - dog
-  - after
-- - original
-  - pursuit
-  - may
-- - dachshund
-  - let
-  - us
-- - dog
-  - might
-  - beg
-- - even
-  - equal
-  - interest
-- - let
-  - us
-  - dub
-- - examples
-  - let
-  - us
-- - let
-  - us
-  - credit
-- - point
-  - across
-  - let
-- - desmond
-  - now
-  - stopping
-- - dogs
-  - may
-  - wish
-- - now
-  - stopping
-  - short
-- - imagine
-  - desmond
-  - now
-- - look
-  - here
-  - comes
-- - our
-  - examples
-  - let
-- - could
-  - prove
-  - critical
-- - trees
-  - other
-  - creatures
-- - its
-  - quarry
-  - whether
-- - need
-  - consider
-  - only
-- - knowledge
-  - could
-  - prove
-- - dimwits
-  - now
-  - look
-- - concrete
-  - examples
-  - can
-- - then
-  - conceal
-  - itself
-- - words
-  - may
-  - fall
-- - monkey
-  - might
-  - well
-- - can
-  - somehow
-  - persuade
-- - world
-  - let
-  - us
-- - across
-  - let
-  - those
-- - let
-  - us
-  - take
-- - them
-  - blot
-  - everything
-- - let
-  - us
-  - say
-- - dogs
-  - nor
-  - do
-- - desmond
-  - barks
-  - up
-- - barking
-  - abstractedly
-  - up
-- - desmond
-  - barking
-  - up
-- - desmond
-  - barking
-  - up
-- - desmond
-  - bark
-  - up
-- - hold
-  - 'no'
-  - opinion
-- - mine
-  - bark
-  - up
-- - 'no'
-  - opinion
-  - either
-- - bark
-  - up
-  - according
-- - between
-  - them
-  - blot
-- - yards
-  - between
-  - them
-- - 'no'
-  - longer
-  - visible
-- - situation
-  - where
-  - such
-- - your
-  - untold
-  - relief
-- - hidden
-  - high
-  - up
-- - where
-  - such
-  - knowledge
-- - am
-  - yet
-  - able
-- - if
-  - desmond
-  - barks
-- - greater
-  - if
-  - desmond
-- - prove
-  - critical
-  - if
-- - ascertain
-  - whether
-  - your
-- - other
-  - creatures
-  - such
-- - know
-  - just
-  - yet
-- - now
-  - look
-  - here
-- - barks
-  - up
-  - each
-- - tree
-  - especially
-  - if
-- - such
-  - knowledge
-  - could
-- - deliver
-  - itself
-  - into
-- - some
-  - might
-  - argue
-- - overtax
-  - your
-  - brain
-- - up
-  - each
-  - tree
-- - whether
-  - your
-  - dog
-- - everything
-  - else
-  - out
-- - those
-  - who
-  - scoff
-- - dog's
-  - barking
-  - there
-- - quite
-  - frankly
-  - if
-- - part
-  - some
-  - might
-- - can
-  - work
-  - through
-- - unless
-  - we
-  - throw
-- - present
-  - purposes
-  - we
-- - wrong
-  - tree
-  - there
-- - abstract
-  - mastiff
-  - so
-- - barks
-  - up
-  - any
-- - dog
-  - would
-  - bark
+- the dog the
+- and the sycamore
+- the sycamore and
+- sycamore and the
+- and the larch
+- the larch and
+- larch and the
+- the pine and
+- pine and the
+- and the chances
+- the mastiff and
+- cedar and the
+- and in the
+- that the monkey
+- the abstract that
+- that as the
+- was the monkey
+- i was the
+- with the world
+- number for the
+- deal with the
+- the row for
+- for the dimwits
+- the monkey you
+- just have the
+- not mention the
+- the dimwit not
+- have the line
+- pluck from the
+- from the storehouse
+- the right one
+- the wrong one
+- one of the
+- the dog which
+- which the monkey
+- atop which the
+- the dog would
+- fall into the
+- into the clutches
+- pronouncements about the
+- through the head
+- the mastiff can
+- the trees other
+- work through the
+- the dimwits now
+- going through the
+- may avoid the
+- even in the
+- the monkey being
+- the head of
+- through the permutations
+- way on the
+- the real world
+- the monkey must
+- though the monkey
+- yet entered the
+- come to the
+- conversely though the
+- each of the
+- the world as
+- in the world
+- towards the line
+- towards the trees
+- the right tree
+- the trees remember
+- except the dog
+- thus in the
+- scampering towards the
+- mell towards the
+- enter the dog
+- the dog panting
+- the safe side
+- up the right
+- dog the mastiff
+- the wrong tree
+- by the dog
+- is the dog
+- sight the monkey
+- the matter desmond
+- everything except the
+- mention the monkey
+- of the matter
+- the matter in
+- matter in the
+- the monkey earlier
+- itself in the
+- the tree atop
+- the high leafage
+- in the high
+- the tree especially
+- either the pine
+- entered the scene
+- in either the
+- sight enter the
+- in the real
+- the monkey i'd
+- limited the line
+- the line of
+- of the line
+- persuade the monkey
+- speak of the
+- the fleeing monkey
+- of the tree
+- up the tree
+- tree to the
+- the scene so
+- accomplished the monkey
+- somehow persuade the
+- up the wrong
+- of sight the
+- short of the
+- trees the pine
+- at the foot
+- the foot of
+- foot of the
+- complication the monkey
+- the monkey is
+- as the monkey
+- the monkey to
+- the monkey of
+- in the middle
+- the middle of
+- of trees the
+- the trees at
+- trees up the
+- of the trees
+- the vast featureless
+- in the vast
+- added complication the
+- the wide wide
 story:
   date: 2012-01-22
   id: 2012-01-22-on-barking-up-the-wrong-tree

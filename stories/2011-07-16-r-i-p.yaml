@@ -1,16 +1,8 @@
 ngrams:
-- - p
-  - googie
-  - withers
-- - googie
-  - withers
-  - '-'
-- - i
-  - p
-  - googie
-- - r
-  - i
-  - p
+- p googie withers
+- googie withers -
+- i p googie
+- r i p
 story:
   date: 2011-07-16
   id: 2011-07-16-r-i-p

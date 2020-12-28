@@ -1,19 +1,9 @@
 ngrams:
-- - must
-  - now
-  - serve
-- - seems
-  - this
-  - must
-- - this
-  - must
-  - now
-- - now
-  - serve
-  - as
-- - p
-  - alas
-  - it
+- this must now
+- seems this must
+- it seems this
+- must now serve
+- now serve as
 story:
   date: 2010-12-18
   id: 2010-12-18-r-i-p

@@ -1,19 +1,9 @@
 ngrams:
-- - by
-  - horace
-  - pippin
-- - crucifixion
-  - by
-  - horace
-- - crucifixion
-  - for
-  - good
-- - for
-  - good
-  - friday
-- - friday
-  - the
-  - crucifixion
+- the crucifixion for
+- good friday the
+- friday the crucifixion
+- the crucifixion by
+- for good friday
 story:
   date: 2018-03-30
   id: 2018-03-30-the-crucifixion

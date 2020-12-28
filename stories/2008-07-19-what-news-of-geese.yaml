@@ -1,19 +1,9 @@
 ngrams:
-- - brief
-  - accompanying
-  - text
-- - geese
-  - here
-  - are
-- - are
-  - some
-  - photographs
-- - here
-  - are
-  - some
-- - accompanying
-  - text
-  - is
+- some photographs the
+- photographs the brief
+- the brief accompanying
+- here are some
+- are some photographs
 story:
   date: 2008-07-19
   id: 2008-07-19-what-news-of-geese

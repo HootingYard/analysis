@@ -1,19 +1,9 @@
 ngrams:
-- - alphabet
-  - continues
-  - p
-- - p
-  - for
-  - podcast
-- - continues
-  - p
-  - to
-- - p
-  - to
-  - v
-- - the
-  - alphabet
-  - continues
+- for podcast the
+- podcast the alphabet
+- the alphabet continues
+- p for podcast
+- alphabet continues p
 story:
   date: 2011-05-30
   id: 2011-05-30-p-for-podcast

@@ -1,19 +1,9 @@
 ngrams:
-- - famous
-  - inn
-  - signs
-- - hooting
-  - yard
-  - number
-- - yard
-  - number
-  - one
-- - inn
-  - signs
-  - of
-- - signs
-  - of
-  - hooting
+- yard number one
+- hooting yard number
+- of hooting yard
+- signs of hooting
+- famous inn signs
 story:
   date: 2006-03-04
   id: 2006-03-04-famous-inn-signs-of-hooting-yard-number-one

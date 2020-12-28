@@ -1,10 +1,6 @@
 ngrams:
-- - one
-  - 'true'
-  - pod
-- - the
-  - one
-  - 'true'
+- the one true
+- one true pod
 story:
   date: 2011-05-16
   id: 2011-05-16-the-one-true-pod

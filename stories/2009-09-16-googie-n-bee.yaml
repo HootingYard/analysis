@@ -1,19 +1,9 @@
 ngrams:
-- - an
-  - online
-  - poll
-- - bee
-  - an
-  - online
-- - online
-  - poll
-  - was
-- - poll
-  - was
-  - here
-- - is
-  - now
-  - closed
+- poll was here
+- was here it
+- online poll was
+- is now closed
+- it is now
 story:
   date: 2009-09-16
   id: 2009-09-16-googie-n-bee

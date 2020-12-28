@@ -1,19 +1,9 @@
 ngrams:
-- - decoy
-  - duck
-  - of
-- - week
-  - the
-  - bufflehead
-- - duck
-  - of
-  - the
-- - of
-  - the
-  - week
-- - the
-  - week
-  - the
+- the week the
+- week the bufflehead
+- of the week
+- duck of the
+- decoy duck of
 story:
   date: 2004-01-05
   id: 2004-01-05-decoy-duck-of-the-week

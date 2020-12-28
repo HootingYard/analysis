@@ -1,16 +1,8 @@
 ngrams:
-- - the
-  - breadcrumbs
-  - pod
-- - breadcrumbs
-  - pod
-  - the
-- - pod
-  - the
-  - breadcrumbs
-- - the
-  - breadcrumbs
-  - man
+- the breadcrumbs man
+- the breadcrumbs pod
+- breadcrumbs pod the
+- pod the breadcrumbs
 story:
   date: 2013-01-16
   id: 2013-01-16-the-breadcrumbs-pod

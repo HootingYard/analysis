@@ -1,19 +1,9 @@
 ngrams:
-- - maddin
-  - film
-  - intertitles
-- - guy
-  - maddin
-  - film
-- - film
-  - intertitles
-  - advent
-- - cowards
-  - bend
-  - the
-- - bend
-  - the
-  - knee
+- bend the knee
+- cowards bend the
+- film intertitles advent
+- guy maddin film
+- maddin film intertitles
 story:
   date: 2017-12-10
   id: 2017-12-10-guy-maddin-film-intertitles-advent-calendar-x

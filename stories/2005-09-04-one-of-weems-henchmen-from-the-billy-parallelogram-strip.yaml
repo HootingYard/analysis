@@ -1,16 +1,8 @@
 ngrams:
-- - billy
-  - parallelogram
-  - strip
-- - the
-  - billy
-  - parallelogram
-- - from
-  - the
-  - billy
-- - henchmen
-  - from
-  - the
+- henchmen from the
+- from the billy
+- the billy parallelogram
+- billy parallelogram strip
 story:
   date: 2005-09-04
   id: 2005-09-04-one-of-weems-henchmen-from-the-billy-parallelogram-strip

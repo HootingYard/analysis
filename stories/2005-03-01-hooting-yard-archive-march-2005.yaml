@@ -1,19 +1,9 @@
 ngrams:
-- - yard
-  - archive
-  - march
-- - hooting
-  - yard
-  - archive
-- - march
-  - 'no'
-  - bulletins
-- - archive
-  - march
-  - 'no'
-- - bulletins
-  - from
-  - hooting
+- from hooting yard
+- bulletins from hooting
+- no bulletins from
+- hooting yard archive
+- yard archive march
 story:
   date: 2005-03-01
   id: 2005-03-01-hooting-yard-archive-march-2005

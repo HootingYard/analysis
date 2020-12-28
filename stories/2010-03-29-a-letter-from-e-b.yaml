@@ -1,19 +1,9 @@
 ngrams:
-- - e
-  - b
-  - more
-- - b
-  - more
-  - about
-- - from
-  - e
-  - b
-- - letter
-  - from
-  - e
-- - a
-  - letter
-  - from
+- more about the
+- a letter from
+- letter from e
+- from e b
+- b more about
 story:
   date: 2010-03-29
   id: 2010-03-29-a-letter-from-e-b

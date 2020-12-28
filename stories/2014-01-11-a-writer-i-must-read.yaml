@@ -1,16 +1,8 @@
 ngrams:
-- - must
-  - read
-  - clarice
-- - writer
-  - i
-  - must
-- - i
-  - must
-  - read
-- - a
-  - writer
-  - i
+- must read clarice
+- i must read
+- writer i must
+- a writer i
 story:
   date: 2014-01-11
   id: 2014-01-11-a-writer-i-must-read

@@ -1,19 +1,9 @@
 ngrams:
-- - had
-  - two
-  - pets
-- - had
-  - two
-  - pets
-- - cat
-  - called
-  - he
-- - called
-  - he
-  - had
-- - he
-  - had
-  - two
+- and a dog
+- had two pets
+- he had two
+- called he had
+- two pets a
 story:
   date: 2004-01-02
   id: 2004-01-02-he-had-two-pets-a-cat-called

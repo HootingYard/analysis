@@ -1,19 +1,9 @@
 ngrams:
-- - merry
-  - space
-  - age
-- - space
-  - age
-  - christmas
-- - very
-  - merry
-  - space
-- - all
-  - our
-  - readers
-- - age
-  - christmas
-  - to
+- all our readers
+- to all our
+- christmas to all
+- very merry space
+- christmas a very
 story:
   date: 2013-12-25
   id: 2013-12-25-merry-christmas

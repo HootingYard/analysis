@@ -1,19 +1,9 @@
 ngrams:
-- - gratuitous
-  - lawnmower
-  - illustration
-- - detours
-  - today
-  - go
-- - lawnmower
-  - illustration
-  - 'no'
-- - illustration
-  - 'no'
-  - detours
-- - 'no'
-  - detours
-  - today
+- go and read
+- and read a
+- today go and
+- read a book
+- a book instead
 story:
   date: 2006-05-02
   id: 2006-05-02-gratuitous-lawnmower-illustration

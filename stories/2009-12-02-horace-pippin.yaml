@@ -1,13 +1,7 @@
 ngrams:
-- - horace
-  - pippin
-  - lots
-- - pippin
-  - lots
-  - more
-- - lots
-  - more
-  - here
+- lots more here
+- pippin lots more
+- horace pippin lots
 story:
   date: 2009-12-02
   id: 2009-12-02-horace-pippin

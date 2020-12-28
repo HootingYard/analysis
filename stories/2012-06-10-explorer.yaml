@@ -1,13 +1,7 @@
 ngrams:
-- - percy
-  - harrison
-  - fawcett
-- - explorer
-  - percy
-  - harrison
-- - harrison
-  - fawcett
-  - '-'
+- explorer percy harrison
+- percy harrison fawcett
+- harrison fawcett -
 story:
   date: 2012-06-10
   id: 2012-06-10-explorer

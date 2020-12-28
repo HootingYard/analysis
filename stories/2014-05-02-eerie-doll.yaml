@@ -1,19 +1,9 @@
 ngrams:
-- - doll
-  - eerie
-  - doll
-- - eerie
-  - doll
-  - eerie
-- - prague
-  - snapped
-  - by
-- - snapped
-  - by
-  - pansy
-- - in
-  - prague
-  - snapped
+- eerie doll eerie
+- doll eerie doll
+- window in prague
+- in a window
+- a window in
 story:
   date: 2014-05-02
   id: 2014-05-02-eerie-doll

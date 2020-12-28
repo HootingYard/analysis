@@ -1,16 +1,8 @@
 ngrams:
-- - status
-  - update
-  - like
-- - update
-  - like
-  - unto
-- - unto
-  - a
-  - prune
-- - like
-  - unto
-  - a
+- update like unto
+- like unto a
+- status update like
+- unto a prune
 story:
   date: 2013-05-21
   id: 2013-05-21-status-update

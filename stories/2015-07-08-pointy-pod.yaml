@@ -1,19 +1,9 @@
 ngrams:
-- - thrilling
-  - new
-  - podcast
-- - particularly
-  - thrilling
-  - new
-- - new
-  - podcast
-  - from
-- - 'on'
-  - pointy
-  - town
-- - a
-  - particularly
-  - thrilling
+- new podcast from
+- particularly thrilling new
+- thrilling new podcast
+- on pointy town
+- pointy pod a
 story:
   date: 2015-07-08
   id: 2015-07-08-pointy-pod

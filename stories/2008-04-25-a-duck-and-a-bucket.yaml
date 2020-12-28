@@ -1,19 +1,9 @@
 ngrams:
-- - bucket
-  - found
-  - there
-- - bucket
-  - i
-  - love
-- - eureka
-  - here's
-  - a
-- - here's
-  - a
-  - duck
-- - a
-  - bucket
-  - found
+- a duck and
+- duck and a
+- and a bucket
+- bucket found there
+- a bucket found
 story:
   date: 2008-04-25
   id: 2008-04-25-a-duck-and-a-bucket

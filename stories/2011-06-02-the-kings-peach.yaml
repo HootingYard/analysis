@@ -1,19 +1,9 @@
 ngrams:
-- - king's
-  - peach
-  - see
-- - peach
-  - see
-  - below
-- - below
-  - my
-  - thanks
-- - see
-  - below
-  - my
-- - to
-  - hannah
-  - brown
+- the king's peach
+- peach see below
+- see below my
+- king's peach see
+- below my thanks
 story:
   date: 2011-06-02
   id: 2011-06-02-the-kings-peach

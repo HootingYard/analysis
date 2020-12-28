@@ -1,19 +1,9 @@
 ngrams:
-- - notable
-  - authors
-  - sitting
-- - 'no'
-  - raymond
-  - roussel
-- - swans
-  - 'no'
-  - raymond
-- - authors
-  - sitting
-  - 'on'
-- - sitting
-  - 'on'
-  - swans
+- sitting on swans
+- notable authors sitting
+- authors sitting on
+- swans no raymond
+- on swans no
 story:
   date: 2010-01-16
   id: 2010-01-16-notable-authors-sitting-on-swans-no-1-raymond-roussel

@@ -1,304 +1,104 @@
 ngrams:
-- - masked
-  - shrike
-  - lanius
-- - masked
-  - shrike
-  - lanius
-- - sergeant
-  - al
-  - powell
-- - sergeant
-  - al
-  - powell
-- - enact
-  - albeit
-  - imperfectly
-- - flight
-  - lieutenant
-  - colin
-- - hans
-  - gruber's
-  - team
-- - flight
-  - lieutenant
-  - robert
-- - al
-  - powell
-  - played
-- - alec
-  - harvey
-  - played
-- - encounter
-  - david
-  - lean
-- - parked
-  - below
-  - shattering
-- - german
-  - criminal
-  - gang
-- - scene
-  - albeit
-  - imperfectly
-- - scene
-  - reenactment
-  - society
-- - scene
-  - reenactment
-  - society
-- - dr
-  - alec
-  - harvey
-- - dr
-  - pindrop
-  - pushed
-- - police
-  - car
-  - parked
-- - alan
-  - rickman
-  - mrs
-- - brief
-  - encounter
-  - david
-- - dr
-  - pindrop
-  - entered
-- - escape
-  - john
-  - sturges
-- - pindrop
-  - pushed
-  - open
-- - car
-  - parked
-  - below
-- - classic
-  - romantic
-  - film
-- - dr
-  - pindrop
-  - pick
-- - john
-  - phillips
-  - london
-- - classic
-  - action
-  - film
-- - pigs
-  - sitting
-  - quietly
-- - guinea
-  - pigs
-  - sitting
-- - longer
-  - sitting
-  - quietly
-- - film
-  - scene
-  - reenactment
-- - film
-  - scene
-  - reenactment
-- - romantic
-  - film
-  - scene
-- - criminal
-  - gang
-  - oh
-- - classic
-  - film
-  - scene
-- - classic
-  - film
-  - scene
-- - human
-  - guinea
-  - pigs
-- - human
-  - guinea
-  - pigs
-- - film
-  - scene
-  - albeit
-- - action
-  - film
-  - scene
-- - waiting
-  - room
-  - plummeting
-- - die
-  - hard
-  - john
-- - instant
-  - both
-  - colin
-- - pin
-  - drop
-  - thus
-- - each
-  - individual
-  - furrow
-- - room
-  - plummeting
-  - several
-- - count
-  - each
-  - individual
-- - dr
-  - pindrop
-  - though
-- - dr
-  - pindrop
-  - something
-- - great
-  - escape
-  - john
-- - gang
-  - oh
-  - why
-- - albeit
-  - imperfectly
-  - after
-- - day
-  - applying
-  - probes
-- - over
-  - nice
-  - suit
-- - guinea
-  - pigs
-  - said
-- - poignant
-  - scene
-  - where
-- - said
-  - dr
-  - pindrop
-- - said
-  - dr
-  - pindrop
-- - said
-  - dr
-  - pindrop
-- - said
-  - dr
-  - pindrop
-- - said
-  - john
-  - phillips
-- - concern
-  - said
-  - dr
-- - loose
-  - end
-  - just
-- - oh
-  - why
-  - must
-- - pigs
-  - said
-  - dr
-- - please
-  - it's
-  - only
-- - reenactment
-  - society
-  - she
-- - nice
-  - suit
-  - she
-- - society
-  - she
-  - fired
-- - shattered
-  - windscreen
-  - can
-- - said
-  - please
-  - let
-- - gosh
-  - she
-  - really
-- - some
-  - exquisite
-  - amalgam
-- - it's
-  - only
-  - something
-- - go
-  - said
-  - dr
-- - could
-  - count
-  - each
-- - pindrop
-  - pick
-  - up
-- - driver
-  - oh
-  - 'no'
-- - 'no'
-  - longer
-  - sitting
-- - 'no'
-  - please
-  - it's
-- - oh
-  - 'no'
-  - please
-- - virtually
-  - blind
-  - what
-- - understand
-  - your
-  - concern
-- - pindrop
-  - something
-  - has
-- - guinea
-  - pigs
-  - about
-- - sturges
-  - when
-  - dr
-- - when
-  - dr
-  - pindrop
-- - when
-  - dr
-  - pindrop
-- - john
-  - sturges
-  - when
-- - film
-  - scene
-  - what
-- - suit
-  - she
-  - said
-- - getting
-  - into
-  - character
-- - she
-  - said
-  - john
-- - pigs
-  - about
-  - birds
-- - james
-  - garner
-  - we
-- - would
-  - enact
-  - albeit
-- - sitting
-  - quietly
-  - they
-- - something
-  - has
-  - come
+- the door and
+- the film and
+- the ceiling and
+- and whistle the
+- the sun was
+- was the general
+- was the consulting
+- hushed was the
+- was in the
+- he was the
+- what with the
+- you said the
+- out into the
+- the stricken but
+- had enacted the
+- head about the
+- there in the
+- and shy and
+- and passports and
+- into the waiting
+- into the ceiling
+- ammo into the
+- about the titanic
+- what is the
+- the linoleum now
+- said the sun
+- said the driver
+- the day applying
+- of the day
+- said to the
+- i said the
+- the nothing new
+- the far end
+- crashed through the
+- of the two
+- the two i
+- the great escape
+- at the far
+- in the great
+- tell the human
+- open the door
+- the waiting room
+- end of the
+- the consulting room
+- on the nothing
+- thus at the
+- of the room
+- the room i
+- to tell the
+- the human guinea
+- the classic film
+- is the matter
+- the matter i
+- pushed open the
+- in the film
+- the film by
+- whistle the song
+- at the moment
+- the moment i
+- of the moment
+- spending the rest
+- of the song
+- the song of
+- song of the
+- below shattering the
+- the rest of
+- rest of the
+- the poignant scene
+- the general secretary
+- earlier in the
+- played in the
+- corner of the
+- to the brains
+- the brains of
+- the classic action
+- the startled driver
+- waiting at the
+- in the waiting
+- of the waiting
+- the troubled brow
+- member of the
+- the criminal mastermind
+- the titanic responsibilities
+- gruber the criminal
+- the shattered windscreen
+- albeit imperfectly the
+- the driver oh
+- of the shattered
+- the windscreen hello
+- the classic romantic
+- camouflage the ping
+- enacted the classic
+- the ping of
+- shining on the
+- of the stricken
+- in the role
+- the role of
+- to the startled
+- of the classic
+- landing on the
 story:
   date: 2013-07-04
   id: 2013-07-04-at-dr-pindrops

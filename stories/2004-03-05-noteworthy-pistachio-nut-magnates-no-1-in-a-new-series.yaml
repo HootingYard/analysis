@@ -1,19 +1,9 @@
 ngrams:
-- - pistachio
-  - nut
-  - magnate
-- - noteworthy
-  - pistachio
-  - nut
-- - series
-  - ali
-  - akbar
-- - new
-  - series
-  - ali
-- - a
-  - new
-  - series
+- and former president
+- nut magnate and
+- magnate and former
+- new series ali
+- a new series
 story:
   date: 2004-03-05
   id: 2004-03-05-noteworthy-pistachio-nut-magnates-no-1-in-a-new-series

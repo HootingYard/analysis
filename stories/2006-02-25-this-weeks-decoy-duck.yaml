@@ -1,10 +1,6 @@
 ngrams:
-- - week's
-  - decoy
-  - duck
-- - this
-  - week's
-  - decoy
+- this week's decoy
+- week's decoy duck
 story:
   date: 2006-02-25
   id: 2006-02-25-this-weeks-decoy-duck

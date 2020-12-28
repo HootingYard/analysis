@@ -1,19 +1,9 @@
 ngrams:
-- - generations
-  - my
-  - sister
-- - mother
-  - my
-  - grandmother
-- - sister
-  - my
-  - mother
-- - four
-  - generations
-  - my
-- - my
-  - sister
-  - my
+- my grandmother and
+- grandmother and my
+- four generations my
+- sister my mother
+- mother my grandmother
 story:
   date: 2013-12-20
   id: 2013-12-20-four-generations

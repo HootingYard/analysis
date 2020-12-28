@@ -1,19 +1,9 @@
 ngrams:
-- - devil's
-  - buttermilk
-  - alcohol
-- - rev
-  - ian
-  - paisley
-- - buttermilk
-  - '-'
-  - rev
-- - devil's
-  - buttermilk
-  - '-'
-- - '-'
-  - rev
-  - ian
+- the devil's buttermilk
+- is the devil's
+- alcohol is the
+- rev ian paisley
+- '- rev ian'
 story:
   date: 2004-01-29
   id: 2004-01-29-alcohol-is-the-devils-buttermilk

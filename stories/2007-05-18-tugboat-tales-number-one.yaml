@@ -1,538 +1,182 @@
 ngrams:
-- - formby
-  - mercedes
-  - sosa
-- - furs
-  - omara
-  - portuondo
-- - brel
-  - schubert
-  - schumann
-- - pablo
-  - bela
-  - bartok
-- - broonzy
-  - bucks
-  - fizz
-- - heinz
-  - karl
-  - gruber
-- - psychedelic
-  - furs
-  - omara
-- - augustus
-  - pablo
-  - bela
-- - fizz
-  - augustus
-  - pablo
-- - karl
-  - gruber
-  - sibelius
-- - bucks
-  - fizz
-  - augustus
-- - rorem
-  - quicksilver
-  - messenger
-- - mercedes
-  - sosa
-  - jacques
-- - sosa
-  - jacques
-  - brel
-- - bela
-  - bartok
-  - cliff
-- - jacques
-  - brel
-  - schubert
-- - conway
-  - twitty
-  - scriabin
-- - warlock
-  - carl
-  - ruggles
-- - rocky
-  - outcrop
-  - buffeted
-- - dimity
-  - deckhand
-  - who'd
-- - perfumed
-  - dimity
-  - deckhand
-- - shadows
-  - morton
-  - feldman
-- - gruber
-  - sibelius
-  - petula
-- - bill
-  - broonzy
-  - bucks
-- - distract
-  - tugboat
-  - crews
-- - clark
-  - conway
-  - twitty
-- - rented
-  - tugboat
-  - bagshaw
-- - clock
-  - joan
-  - baez
-- - civic
-  - coastline
-  - management
-- - strawberry
-  - alarm
-  - clock
-- - alarm
-  - clock
-  - joan
-- - glagolitic
-  - mass
-  - blaring
-- - morton
-  - feldman
-  - charles
-- - george
-  - formby
-  - mercedes
-- - sibelius
-  - petula
-  - clark
-- - quicksilver
-  - messenger
-  - service
-- - petula
-  - clark
-  - conway
-- - tugboat
-  - crew
-  - playtime
-- - ned
-  - rorem
-  - quicksilver
-- - tugboat
-  - crew
-  - playtime
-- - dynamite
-  - george
-  - formby
-- - audio
-  - dynamite
-  - george
-- - bartok
-  - cliff
-  - richard
-- - feldman
-  - charles
-  - ives
-- - spear
-  - peter
-  - warlock
-- - peter
-  - warlock
-  - carl
-- - omara
-  - portuondo
-  - burning
-- - seafaring
-  - information
-  - channels
-- - portuondo
-  - burning
-  - spear
-- - played
-  - tunes
-  - requested
-- - fashionable
-  - fat
-  - fountain
-- - fashionable
-  - fat
-  - fountain
-- - deckhand
-  - who'd
-  - cut
-- - memphis
-  - jug
-  - band
-- - ahab
-  - figure
-  - obsessed
-- - puffin
-  - boy
-  - retune
-- - seaside
-  - bureaucrat
-  - representative
-- - tugboat
-  - crew
-  - members
-- - fat
-  - fountain
-  - pen
-- - fat
-  - fountain
-  - pen
-- - jug
-  - band
-  - al
-- - puffin
-  - boy
-  - blundered
-- - chong
-  - neutral
-  - milk
-- - radio
-  - cabin
-  - forbidding
-- - burning
-  - spear
-  - peter
-- - demonic
-  - badger
-  - whatever
-- - ones
-  - rotting
-  - ones
-- - crew
-  - particularly
-  - puffin
-- - gleaming
-  - ones
-  - ones
-- - neutral
-  - milk
-  - hotel
-- - dyspeptic
-  - tugboat
-  - captain
-- - big
-  - audio
-  - dynamite
-- - deck
-  - captain
-  - bagshaw
-- - ives
-  - big
-  - audio
-- - malevolence
-  - i've
-  - done
-- - particularly
-  - puffin
-  - boy
-- - big
-  - bill
-  - broonzy
-- - important
-  - seafaring
-  - information
-- - sinister
-  - black
-  - woollen
-- - explained
-  - whoever
-  - wrote
-- - black
-  - woollen
-  - gloves
-- - main
-  - business
-  - seemed
-- - captain's
-  - black
-  - gloves
-- - charles
-  - ives
-  - big
-- - black
-  - gloves
-  - scribbling
-- - cubbyhole
-  - squeezed
-  - under
-- - sinister
-  - black
-  - gloves
-- - sinister
-  - black
-  - gloves
-- - wore
-  - sinister
-  - black
-- - tugboat
-  - tales
-  - number
-- - surprisingly
-  - legible
-  - given
-- - tiny
-  - cubbyhole
-  - squeezed
-- - called
-  - tugboat
-  - crew
-- - cabin
-  - quite
-  - unaware
-- - dennis
-  - brain
-  - cheech
-- - darn
-  - something
-  - malevolently
-- - brian
-  - dennis
-  - brain
-- - story
-  - clearly
-  - felt
-- - often
-  - became
-  - tattered
-- - seen
-  - captain
-  - bagshaw
-- - tiny
-  - ones
-  - rotting
-- - deck
-  - let
-  - alone
-- - admittedly
-  - gloves
-  - yet
-- - radio
-  - cabin
-  - quite
-- - long
-  - paragraph
-  - leaden
-- - blue
-  - months
-  - later
-- - mind
-  - however
-  - i'm
-- - say
-  - siegfried
-  - sassoon
-- - however
-  - i'm
-  - sure
-- - captain's
-  - enigmatic
-  - little
-- - malevolently
-  - though
-  - god
-- - enigmatic
-  - little
-  - ways
-- - world
-  - big
-  - ones
-- - waves
-  - peering
-  - through
-- - though
-  - god
-  - knows
-- - found
-  - himself
-  - soaring
-- - programme
-  - very
-  - popular
-- - something
-  - malevolently
-  - though
-- - cabin
-  - forbidding
-  - any
-- - woollen
-  - gloves
-  - even
-- - sea
-  - dog
-  - while
-- - did
-  - puffin
-  - boy
-- - months
-  - after
-  - reading
-- - old
-  - sea
-  - dog
-- - puffin
-  - boy
-  - now
-- - boy
-  - now
-  - puffin
-- - now
-  - puffin
-  - boy
-- - can't
-  - remember
-  - where
-- - might
-  - darn
-  - something
-- - its
-  - crew
-  - particularly
-- - factual
-  - rather
-  - than
-- - rather
-  - than
-  - malevolent
-- - very
-  - long
-  - paragraph
-- - anything
-  - more
-  - complicated
-- - tugboat
-  - even
-  - though
-- - slip
-  - some
-  - coinage
-- - him
-  - screeching
-  - madly
-- - words
-  - like
-  - orb
-- - mellifluous
-  - voices
-  - who
-- - him
-  - puffin
-  - boy
-- - time
-  - called
-  - tugboat
-- - who
-  - wore
-  - sinister
-- - who
-  - played
-  - tunes
-- - carried
-  - 'off'
-  - over
-- - convenience
-  - 'no'
-  - let's
-- - call
-  - him
-  - puffin
-- - voices
-  - who
-  - played
-- - cabin
-  - 'no'
-  - illustrations
-- - let's
-  - call
-  - him
-- - 'no'
-  - illustrations
-  - accompanied
-- - only
-  - just
-  - occurred
-- - their
-  - tugboat
-  - duties
-- - administrators
-  - their
-  - main
-- - radio
-  - cabin
-  - 'no'
-- - tugboat
-  - captain
-  - who
-- - captain
-  - who
-  - wore
-- - their
-  - main
-  - business
-- - only
-  - did
-  - puffin
-- - only
-  - years
-  - later
-- - around
-  - him
-  - screeching
-- - gathered
-  - around
-  - him
-- - wind
-  - took
-  - him
-- - eardrums
-  - were
-  - assailed
-- - about
-  - manage
-  - simple
-- - commands
-  - were
-  - senseless
-- - captain's
-  - commands
-  - were
-- - boy
-  - blundered
-  - into
-- - him
-  - say
-  - siegfried
-- - struck
-  - fear
-  - into
-- - crew
-  - certainly
-  - were
-- - certainly
-  - were
-  - except
-- - glistening
-  - sea
-  - into
-- - black
-  - gloves
-  - were
-- - call
-  - him
-  - say
-- - carried
-  - him
-  - through
-- - made
-  - him
-  - less
-- - birds
-  - were
-  - gathered
-- - would
-  - include
-  - works
+- the tugboat the
+- and the birds
+- the story and
+- story and the
+- the weeks and
+- hotel and the
+- and the writer
+- and the volume
+- richard and the
+- pen and the
+- the tugboat and
+- and the shadows
+- and the carpenters
+- the ether and
+- dial and the
+- there was the
+- the fact that
+- was the captain
+- was the radio
+- was on the
+- for the life
+- cannot for the
+- the tugboat with
+- for the latest
+- for the sake
+- the punishment for
+- sassoon for the
+- is for the
+- away from the
+- the carpenters not
+- from the radio
+- boy but the
+- power but the
+- but the writer
+- but the crew
+- had studied the
+- the tugboat one
+- one of the
+- all over the
+- the birds were
+- and lip and
+- and rusty and
+- sea into the
+- and frayed and
+- and thread and
+- and scented and
+- and warnings and
+- and perfumed and
+- and jumpers and
+- and directives and
+- and crochet and
+- and balaclavas and
+- and dictators and
+- when the captain
+- into the blue
+- into the radio
+- into the waiting
+- out of the
+- fool when the
+- coinage into the
+- blundered into the
+- details about the
+- about the tugboat
+- talked about the
+- time ever the
+- him less the
+- off over the
+- sound like the
+- the captain did
+- the story where
+- after reading the
+- never told the
+- over the tugboat
+- any of the
+- see the captain
+- over the glistening
+- think the writer
+- read the story
+- the world big
+- told the name
+- i think the
+- to see the
+- ever the punishment
+- the dial away
+- most of the
+- read the paragraph
+- reading the story
+- wrote the story
+- i read the
+- of the world
+- the name of
+- name of the
+- feet left the
+- the life of
+- jam both the
+- the story clearly
+- squeezed under the
+- both the tuner
+- left the deck
+- the glistening sea
+- accompanied the story
+- sure the captain's
+- badger the captain
+- the captain's black
+- be sure the
+- by the fact
+- on the door
+- the door of
+- door of the
+- whoever wrote the
+- the blue months
+- the story in
+- in the story
+- the story of
+- the captain snarled
+- the captain as
+- the captain in
+- less the master
+- became of the
+- the crew certainly
+- the radio cabin
+- the writer gives
+- in the weeks
+- boy retune the
+- retune the radio
+- of the radio
+- the radio he
+- the radio to
+- the latest recruit
+- teeth in the
+- the volume knob
+- the puffin club
+- illustrations accompanied the
+- the waiting palm
+- the writer confesses
+- the writer is
+- a badger the
+- phrase in the
+- studied the methods
+- of the crew
+- the crew to
+- the master of
+- the captain's enigmatic
+- tugboat the captain's
+- the paragraph in
+- the captain's handwriting
+- the deck he
+- the memphis jug
+- tugboat plying the
+- the methods of
+- the captain's commands
+- on the tugboat
+- the tugboat of
+- of the tugboat
+- the sake of
+- the shadows morton
+- of the captain's
+- the strawberry alarm
+- plying the harbours
+- twitty scriabin the
+- scriabin the memphis
+- in the puffin
+- carl ruggles the
+- cab calloway the
+- puppies on the
+- flawed by the
+- the psychedelic furs
+- the harbours of
+- harbours of the
+- of the ether
+- calloway the psychedelic
+- the tuner dial
+- ruggles the strawberry
+- to in the
+- up on the
+- and that his
+- and there was
+- that don't and
 story:
   date: 2007-05-18
   id: 2007-05-18-tugboat-tales-number-one

@@ -1,19 +1,9 @@
 ngrams:
-- - newly
-  - available
-  - podcast
-- - vagabond
-  - pod
-  - oh
-- - pod
-  - oh
-  - look
-- - a
-  - newly
-  - available
-- - look
-  - a
-  - newly
+- available podcast the
+- pod oh look
+- look a newly
+- oh look a
+- newly available podcast
 story:
   date: 2016-02-23
   id: 2016-02-23-vagabond-pod

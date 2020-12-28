@@ -1,19 +1,9 @@
 ngrams:
-- - science
-  - books
-  - blog
-- - the
-  - moon
-  - from
-- - moon
-  - from
-  - the
-- - shooting
-  - at
-  - the
-- - at
-  - the
-  - moon
+- the moon from
+- moon from the
+- at the moon
+- shooting at the
+- science books blog
 story:
   date: 2017-02-04
   id: 2017-02-04-shooting-at-the-moon

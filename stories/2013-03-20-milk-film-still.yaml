@@ -1,19 +1,9 @@
 ngrams:
-- - tumbler
-  - contains
-  - normal
-- - glass
-  - tumbler
-  - contains
-- - contains
-  - normal
-  - milk
-- - milk
-  - film
-  - still
-- - film
-  - still
-  - here
+- milk and the
+- still from the
+- from the film
+- see the film
+- to see the
 story:
   date: 2013-03-20
   id: 2013-03-20-milk-film-still

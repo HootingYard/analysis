@@ -1,19 +1,9 @@
 ngrams:
-- - hats
-  - hog
-  - test
-- - hat
-  - hat
-  - hog
-- - right
-  - hat
-  - hat
-- - hog
-  - left
-  - to
-- - to
-  - right
-  - hat
+- example of the
+- two hats and
+- hats and a
+- and a hog
+- right hat hat
 story:
   date: 2005-06-13
   id: 2005-06-13-two-hats-and-a-hog

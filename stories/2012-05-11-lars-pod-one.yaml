@@ -1,19 +1,9 @@
 ngrams:
-- - lars
-  - talc
-  - struck
-- - pod
-  - one
-  - obsequies
-- - lars
-  - pod
-  - one
-- - lightning
-  - part
-  - one
-- - struck
-  - by
-  - lightning
+- one obsequies for
+- for lars talc
+- obsequies for lars
+- lightning part one
+- lars pod one
 story:
   date: 2012-05-11
   id: 2012-05-11-lars-pod-one

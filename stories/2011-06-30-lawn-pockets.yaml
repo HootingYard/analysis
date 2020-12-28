@@ -1,19 +1,9 @@
 ngrams:
-- - lawn
-  - pockets
-  - another
-- - pockets
-  - another
-  - thrilling
-- - the
-  - london
-  - library
-- - from
-  - the
-  - london
-- - picture
-  - from
-  - the
+- picture from the
+- from the london
+- the london library
+- pockets another thrilling
+- lawn pockets another
 story:
   date: 2011-06-30
   id: 2011-06-30-lawn-pockets

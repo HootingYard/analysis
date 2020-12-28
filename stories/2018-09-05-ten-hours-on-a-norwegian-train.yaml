@@ -1,19 +1,9 @@
 ngrams:
-- - left
-  - intentionally
-  - blank
-- - page
-  - left
-  - intentionally
-- - norwegian
-  - train
-  - this
-- - train
-  - this
-  - page
-- - this
-  - page
-  - left
+- this page left
+- train this page
+- norwegian train this
+- page left intentionally
+- left intentionally blank
 story:
   date: 2018-09-05
   id: 2018-09-05-ten-hours-on-a-norwegian-train

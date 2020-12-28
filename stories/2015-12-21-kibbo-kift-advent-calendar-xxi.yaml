@@ -1,10 +1,6 @@
 ngrams:
-- - and
-  - the
-  - exhibition
-- - book
-  - and
-  - the
+- book and the
+- and the exhibition
 story:
   date: 2015-12-21
   id: 2015-12-21-kibbo-kift-advent-calendar-xxi

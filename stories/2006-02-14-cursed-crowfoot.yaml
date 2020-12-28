@@ -1,19 +1,9 @@
 ngrams:
-- - cursed
-  - crow
-  - feet
-- - cursed
-  - crowfoot
-  - right
-- - crowfoot
-  - right
-  - cursed
-- - crow
-  - feet
-  - visible
-- - cursed
-  - crowfoot
-  - left
+- right cursed crow
+- cursed crowfoot left
+- crowfoot left cursed
+- left cursed crowfoot
+- crow feet visible
 story:
   date: 2006-02-14
   id: 2006-02-14-cursed-crowfoot

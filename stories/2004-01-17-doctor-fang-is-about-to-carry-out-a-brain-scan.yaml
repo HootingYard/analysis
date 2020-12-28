@@ -1,19 +1,9 @@
 ngrams:
-- - doctor
-  - fang
-  - is
-- - fang
-  - is
-  - about
-- - about
-  - to
-  - carry
-- - to
-  - carry
-  - out
-- - a
-  - brain
-  - scan
+- out a brain
+- to carry out
+- carry out a
+- about to carry
+- fang is about
 story:
   date: 2004-01-17
   id: 2004-01-17-doctor-fang-is-about-to-carry-out-a-brain-scan

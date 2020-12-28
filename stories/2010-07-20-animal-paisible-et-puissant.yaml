@@ -1,19 +1,9 @@
 ngrams:
-- - look
-  - tinies
-  - look
-- - cow
-  - from
-  - gaul
-- - from
-  - gaul
-  - from
-- - tinies
-  - look
-  - a
-- - look
-  - a
-  - cow
+- from gaul from
+- cow from gaul
+- a cow from
+- look tinies look
+- look a cow
 story:
   date: 2010-07-20
   id: 2010-07-20-animal-paisible-et-puissant

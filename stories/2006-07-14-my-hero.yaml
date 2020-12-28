@@ -1,19 +1,9 @@
 ngrams:
-- - weatherman
-  - daniel
-  - corbett
-- - bbc
-  - weatherman
-  - daniel
-- - broadcasts
-  - tape
-  - them
-- - watch
-  - them
-  - again
-- - corbett
-  - you
-  - owe
+- them again and
+- them and watch
+- and watch them
+- tape them and
+- again and again
 story:
   date: 2006-07-14
   id: 2006-07-14-my-hero

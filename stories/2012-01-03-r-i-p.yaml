@@ -1,16 +1,8 @@
 ngrams:
-- - p
-  - ronald
-  - searle
-- - ronald
-  - searle
-  - '-'
-- - i
-  - p
-  - ronald
-- - r
-  - i
-  - p
+- p ronald searle
+- ronald searle -
+- i p ronald
+- r i p
 story:
   date: 2012-01-03
   id: 2012-01-03-r-i-p

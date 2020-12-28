@@ -1,19 +1,9 @@
 ngrams:
-- - british
-  - museum
-  - yesterday
-- - ram
-  - god
-  - spotted
-- - god
-  - spotted
-  - loitering
-- - wooden
-  - ram
-  - god
-- - spotted
-  - loitering
-  - in
+- the british museum
+- in the british
+- loitering in the
+- wooden ram god
+- god spotted loitering
 story:
   date: 2013-05-12
   id: 2013-05-12-wooden-ram-god

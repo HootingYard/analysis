@@ -1,19 +1,9 @@
 ngrams:
-- - germander
-  - speedwell
-  - sayings
-- - is
-  - interesting
-  - unless
-- - is
-  - interesting
-  - unless
-- - is
-  - catalogued
-  - nothing
-- - catalogued
-  - nothing
-  - is
+- nothing is interesting
+- is catalogued nothing
+- catalogued nothing is
+- is interesting unless
+- interesting unless it
 story:
   date: 2005-06-19
   id: 2005-06-19-nothing-is-interesting-unless-it-is-catalogued

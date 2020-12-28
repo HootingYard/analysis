@@ -1,19 +1,9 @@
 ngrams:
-- - red
-  - brow
-  - finches
-- - two
-  - red
-  - brow
-- - finches
-  - their
-  - brows
-- - brow
-  - finches
-  - their
-- - brows
-  - are
-  - red
+- their brows are
+- brows are red
+- brow finches their
+- finches their brows
+- two red brow
 story:
   date: 2016-12-24
   id: 2016-12-24-avian-advent-calendar-xxiv

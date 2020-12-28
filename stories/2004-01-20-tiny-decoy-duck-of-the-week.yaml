@@ -1,16 +1,8 @@
 ngrams:
-- - tiny
-  - decoy
-  - duck
-- - decoy
-  - duck
-  - of
-- - duck
-  - of
-  - the
-- - of
-  - the
-  - week
+- of the week
+- duck of the
+- tiny decoy duck
+- decoy duck of
 story:
   date: 2004-01-20
   id: 2004-01-20-tiny-decoy-duck-of-the-week

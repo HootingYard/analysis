@@ -1,16 +1,8 @@
 ngrams:
-- - h
-  - o
-  - pod
-- - o
-  - pod
-  - h
-- - pod
-  - h
-  - to
-- - h
-  - to
-  - o
+- h o pod
+- o pod h
+- pod h to
+- h to o
 story:
   date: 2011-05-22
   id: 2011-05-22-h2o-pod

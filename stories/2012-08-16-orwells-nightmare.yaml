@@ -1,19 +1,9 @@
 ngrams:
-- - orwell's
-  - worst
-  - nightmare
-- - orwell's
-  - nightmare
-  - george
-- - nightmare
-  - george
-  - orwell's
-- - george
-  - orwell's
-  - worst
-- - worst
-  - nightmare
-  - see
+- see here for
+- here for clarification
+- nightmare see here
+- worst nightmare see
+- george orwell's worst
 story:
   date: 2012-08-16
   id: 2012-08-16-orwells-nightmare

@@ -1,10 +1,6 @@
 ngrams:
-- - marzipan
-  - pod
-  - marzipan
-- - pod
-  - marzipan
-  - wolf
+- pod marzipan wolf
+- marzipan pod marzipan
 story:
   date: 2012-04-28
   id: 2012-04-28-marzipan-pod

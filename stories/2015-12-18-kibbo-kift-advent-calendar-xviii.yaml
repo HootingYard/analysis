@@ -1,19 +1,9 @@
 ngrams:
-- - hooting
-  - yard
-  - recommends
-- - recommends
-  - the
-  - book
-- - yard
-  - recommends
-  - the
-- - and
-  - the
-  - exhibition
-- - the
-  - book
-  - and
+- the book and
+- book and the
+- and the exhibition
+- yard recommends the
+- recommends the book
 story:
   date: 2015-12-18
   id: 2015-12-18-kibbo-kift-advent-calendar-xviii

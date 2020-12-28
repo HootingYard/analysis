@@ -1,16 +1,8 @@
 ngrams:
-- - see
-  - the
-  - exhibition
-- - read
-  - the
-  - book
-- - the
-  - book
-  - see
-- - book
-  - see
-  - the
+- the book see
+- book see the
+- read the book
+- see the exhibition
 story:
   date: 2015-12-19
   id: 2015-12-19-kibbo-kift-advent-calendar-xix

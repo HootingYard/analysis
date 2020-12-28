@@ -1,19 +1,9 @@
 ngrams:
-- - and
-  - the
-  - exhibition
-- - the
-  - book
-  - and
-- - book
-  - and
-  - the
-- - the
-  - kindred
-  - of
-- - kindred
-  - of
-  - the
+- the book and
+- book and the
+- and the exhibition
+- the kindred of
+- kindred of the
 story:
   date: 2015-12-16
   id: 2015-12-16-kibbo-kift-advent-calendar-xvi

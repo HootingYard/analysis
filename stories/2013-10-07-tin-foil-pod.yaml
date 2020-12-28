@@ -1,16 +1,8 @@
 ngrams:
-- - tin
-  - foil
-  - pod
-- - foil
-  - pod
-  - 'on'
-- - 'on'
-  - tin
-  - foil
-- - pod
-  - 'on'
-  - tin
+- tin foil pod
+- pod on tin
+- on tin foil
+- foil pod on
 story:
   date: 2013-10-07
   id: 2013-10-07-tin-foil-pod

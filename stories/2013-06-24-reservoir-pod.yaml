@@ -1,19 +1,9 @@
 ngrams:
-- - naming
-  - your
-  - child
-- - your
-  - child
-  - after
-- - child
-  - after
-  - your
-- - pod
-  - 'on'
-  - naming
-- - reservoir
-  - pod
-  - 'on'
+- your child after
+- child after your
+- naming your child
+- on naming your
+- reservoir pod on
 story:
   date: 2013-06-24
   id: 2013-06-24-reservoir-pod

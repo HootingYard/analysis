@@ -1,19 +1,9 @@
 ngrams:
-- - left
-  - intentionally
-  - blank
-- - page
-  - left
-  - intentionally
-- - flu
-  - this
-  - page
-- - this
-  - page
-  - left
-- - after
-  - a
-  - dose
+- this page left
+- flu this page
+- of flu this
+- back after a
+- after a dose
 story:
   date: 2004-02-16
   id: 2004-02-16-back-after-a-dose-of-flu

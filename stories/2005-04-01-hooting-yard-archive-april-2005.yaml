@@ -1,16 +1,8 @@
 ngrams:
-- - archive
-  - april
-  - radio
-- - april
-  - radio
-  - silence
-- - yard
-  - archive
-  - april
-- - hooting
-  - yard
-  - archive
+- hooting yard archive
+- yard archive april
+- april radio silence
+- archive april radio
 story:
   date: 2005-04-01
   id: 2005-04-01-hooting-yard-archive-april-2005

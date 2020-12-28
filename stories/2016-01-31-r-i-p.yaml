@@ -1,13 +1,7 @@
 ngrams:
-- - p
-  - jacques
-  - rivette
-- - i
-  - p
-  - jacques
-- - r
-  - i
-  - p
+- p jacques rivette
+- i p jacques
+- r i p
 story:
   date: 2016-01-31
   id: 2016-01-31-r-i-p

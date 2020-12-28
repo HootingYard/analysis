@@ -1,19 +1,9 @@
 ngrams:
-- - sending
-  - this
-  - splendid
-- - snap
-  - my
-  - thanks
-- - nervous
-  - squirrel
-  - for
-- - squirrel
-  - for
-  - sending
-- - for
-  - sending
-  - this
+- for sending this
+- squirrel for sending
+- nervous squirrel for
+- sending this splendid
+- thanks to david
 story:
   date: 2017-07-22
   id: 2017-07-22-bird-related-snap

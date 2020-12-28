@@ -1,736 +1,248 @@
 ngrams:
-- - stratus
-  - stratocumulus
-  - altocumulus
-- - stratocumulus
-  - altocumulus
-  - cirrostratus
-- - cumulonimbus
-  - stratus
-  - stratocumulus
-- - cumulus
-  - cumulonimbus
-  - stratus
-- - vilma
-  - banky
-  - tyrone
-- - rains
-  - vilma
-  - banky
-- - edna
-  - purviance
-  - dorothy
-- - lionel
-  - barrymore
-  - claude
-- - barrymore
-  - claude
-  - rains
-- - claude
-  - rains
-  - vilma
-- - doppelganger
-  - gazette
-  - reported
-- - quaker
-  - cloud
-  - classifier
-- - gerard
-  - manley
-  - hopkins'
-- - luke
-  - howard's
-  - terms
-- - clouds
-  - cumulus
-  - cumulonimbus
-- - ayn
-  - rand
-  - household
-- - ayn
-  - rand
-  - household
-- - ayn
-  - rand
-  - household
-- - underground
-  - cove
-  - pushed
-- - sinister
-  - intent
-  - blasphemous
-- - global
-  - repercussions
-  - busy
-- - moth
-  - beings
-  - cycling
-- - prayed
-  - desperately
-  - hoping
-- - shockingly
-  - blasphemous
-  - ted
-- - feelings
-  - remained
-  - unchanged
-- - mutant
-  - moth
-  - beings
-- - eighth
-  - birthday
-  - climbed
-- - rand
-  - household
-  - pet
-- - rand
-  - household
-  - pet
-- - rand
-  - household
-  - pet
-- - pet
-  - rescue
-  - squadron
-- - initial
-  - newspaper
-  - advertisement
-- - intent
-  - blasphemous
-  - ted
-- - banky
-  - tyrone
-  - power
-- - tyrone
-  - power
-  - edna
-- - power
-  - edna
-  - purviance
-- - charming
-  - bungalow
-  - holding
-- - household
-  - pet
-  - rescue
-- - jesuit
-  - gerard
-  - manley
-- - meredith
-  - seven
-  - interrogators
-- - coded
-  - message
-  - worked
-- - message
-  - worked
-  - tirelessly
-- - george
-  - george
-  - rotate
-- - burgess
-  - meredith
-  - seven
-- - elderly
-  - crumpled
-  - priest
-- - power
-  - suggested
-  - programming
-- - tyrone
-  - power
-  - suggested
-- - marina
-  - chaplain
-  - father
-- - reverend
-  - held
-  - tight
-- - mentioned
-  - blasphemous
-  - ted
-- - rescue
-  - operation
-  - carried
-- - beast
-  - exchange
-  - office
-- - fellow
-  - jesuit
-  - gerard
-- - teeth
-  - blasphemous
-  - ted
-- - study
-  - natural
-  - phenomena
-- - pang
-  - hill
-  - bugle
-- - weeks
-  - blasphemous
-  - ted
-- - fine
-  - drizzle
-  - father
-- - blasphemous
-  - ted
-  - spent
-- - probably
-  - daft
-  - ned
-- - use
-  - luke
-  - howard's
-- - compound
-  - deep
-  - below
-- - eight
-  - weeks
-  - alone
-- - renown
-  - whose
-  - finest
-- - blasphemous
-  - ted
-  - got
-- - fortnight
-  - ago
-  - siege
-- - ted's
-  - skull
-  - however
-- - hot
-  - tea
-  - yelled
-- - pointed
-  - wooden
-  - stick
-- - piping
-  - hot
-  - tea
-- - piping
-  - hot
-  - tea
-- - yap
-  - nor
-  - yelp
-- - skull
-  - however
-  - proved
-- - cycling
-  - home
-  - via
-- - blasphemous
-  - ted
-  - went
-- - beings
-  - cycling
-  - home
-- - natural
-  - phenomena
-  - both
-- - heavy
-  - sleeper
-  - indeed
-- - small
-  - seaside
-  - resort
-- - hot
-  - tea
-  - using
-- - arrived
-  - home
-  - pushed
-- - cold
-  - blustery
-  - morning
-- - phenomena
-  - both
-  - common
-- - unforgiving
-  - ocean
-  - why
-- - beast
-  - exchange
-  - perhaps
-- - good
-  - reverend
-  - held
-- - howard's
-  - terms
-  - though
-- - guardian
-  - ghost
-  - himself
-- - preferred
-  - seven
-  - words
-- - suspiciously
-  - well
-  - fed
-- - simply
-  - repeated
-  - himself
-- - last
-  - mentioned
-  - blasphemous
-- - home
-  - pushed
-  - past
-- - shadow
-  - world
-  - beyond
-- - having
-  - second
-  - thoughts
-- - daily
-  - cushion
-  - while
-- - came
-  - past
-  - trundling
-- - whose
-  - finest
-  - work
-- - growing
-  - enraged
-  - old
-- - soon
-  - became
-  - known
-- - wooden
-  - stick
-  - until
-- - ted
-  - got
-  - himself
-- - looked
-  - suspiciously
-  - well
-- - plain
-  - old
-  - ted
-- - see
-  - blasphemous
-  - ted
-- - someone
-  - came
-  - past
-- - shoulder
-  - still
-  - sound
-- - still
-  - sound
-  - asleep
-- - how
-  - blasphemous
-  - ted
-- - end
-  - weirdly
-  - each
-- - care
-  - two
-  - pins
-- - world
-  - beyond
-  - death
-- - remained
-  - unchanged
-  - after
-- - march
-  - shockingly
-  - just
-- - found
-  - himself
-  - questioned
-- - same
-  - story
-  - under
-- - repeated
-  - himself
-  - again
-- - before
-  - tyrone
-  - power
-- - until
-  - someone
-  - came
-- - ghost
-  - himself
-  - every
-- - dog
-  - food
-  - old
-- - goat
-  - before
-  - examining
-- - hound
-  - indeed
-  - still
-- - should
-  - explain
-  - why
-- - after
-  - eight
-  - weeks
-- - newspaper
-  - advertisement
-  - down
-- - earth's
-  - surface
-  - where
-- - paid
-  - fiends
-  - even
-- - indeed
-  - still
-  - alive
-- - places
-  - existed
-  - even
-- - resort
-  - where
-  - blasphemous
-- - where
-  - blasphemous
-  - ted
-- - balloon
-  - being
-  - among
-- - week
-  - award
-  - back
-- - such
-  - places
-  - existed
-- - himself
-  - every
-  - bit
-- - watch
-  - over
-  - ted
-- - heaped
-  - upon
-  - ted's
-- - asking
-  - any
-  - questions
-- - second
-  - thoughts
-  - after
-- - surely
-  - such
-  - places
-- - seaside
-  - resort
-  - where
-- - two
-  - pins
-  - nor
-- - garden
-  - gate
-  - where
-- - its
-  - equitable
-  - temper
-- - equitable
-  - temper
-  - its
-- - plainly
-  - eaten
-  - its
-- - eaten
-  - its
-  - fill
-- - more
-  - shockingly
-  - blasphemous
-- - ears
-  - its
-  - tricks
-- - already
-  - trained
-  - upon
-- - temper
-  - its
-  - ears
-- - more
-  - sinister
-  - intent
-- - then
-  - blasphemous
-  - ted
-- - may
-  - until
-  - someone
-- - seven
-  - words
-  - only
-- - taken
-  - further
-  - down
-- - shockingly
-  - just
-  - two
-- - enraged
-  - old
-  - man
-- - joined
-  - old
-  - man
-- - sleeper
-  - indeed
-  - its
-- - heading
-  - old
-  - man
-- - indeed
-  - its
-  - capacity
-- - more
-  - times
-  - ted
-- - am
-  - beyond
-  - questions
-- - vietcong
-  - judging
-  - him
-- - judging
-  - him
-  - useless
-- - food
-  - old
-  - man
-- - things
-  - its
-  - equitable
-- - ted's
-  - head
-  - after
-- - some
-  - renown
-  - whose
-- - crumpled
-  - priest
-  - who
-- - interrogators
-  - shared
-  - their
-- - walked
-  - unsteadily
-  - up
-- - well
-  - fed
-  - then
-- - lumbering
-  - towards
-  - him
-- - just
-  - two
-  - days
-- - fact
-  - said
-  - old
-- - fact
-  - said
-  - old
-- - two
-  - days
-  - after
-- - upon
-  - ted's
-  - head
-- - few
-  - more
-  - times
-- - dog
-  - why
-  - then
-- - haberdasher
-  - took
-  - him
-- - bitter
-  - enemy
-  - what
-- - your
-  - spiritual
-  - advice
-- - long
-  - time
-  - since
-- - braked
-  - sharply
-  - when
-- - cove
-  - pushed
-  - into
-- - tea
-  - feeding
-  - your
-- - prayers
-  - were
-  - answered
-- - precisely
-  - what
-  - happened
-- - bugle
-  - will
-  - swap
-- - even
-  - more
-  - shockingly
-- - fiends
-  - even
-  - more
-- - wheelbarrow
-  - will
-  - walk
-- - shared
-  - their
-  - name
-- - operation
-  - carried
-  - out
-- - need
-  - your
-  - spiritual
-- - sights
-  - were
-  - already
-- - hill
-  - bugle
-  - will
-- - were
-  - already
-  - trained
-- - then
-  - did
-  - ted
-- - took
-  - him
-  - home
-- - many
-  - other
-  - things
-- - however
-  - when
-  - traced
-- - what
-  - happened
-  - within
-- - memories
-  - will
-  - recall
-- - laughing
-  - however
-  - when
-- - its
-  - ears
-  - its
-- - became
-  - known
-  - what
-- - said
-  - old
-  - man
-- - said
-  - old
-  - man
-- - will
-  - swap
-  - dog
-- - will
-  - walk
-  - round
-- - nephews
-  - were
-  - called
-- - come
-  - weather
-  - what
-- - blasphemous
-  - visitor
-  - would
-- - spiritual
-  - advice
-  - there
-- - were
-  - called
-  - ted
-- - useless
-  - they
-  - decided
-- - very
-  - long
-  - time
-- - visitor
-  - would
-  - turn
-- - might
-  - do
-  - well
-- - other
-  - things
-  - its
-- - long
-  - memories
-  - will
-- - hollywood
-  - star
-  - so
-- - will
-  - ever
-  - change
-- - qualities
-  - which
-  - won
-- - were
-  - very
-  - gentle
-- - weather
-  - what
-  - may
-- - there
-  - come
-  - weather
-- - stand
-  - there
-  - come
-- - nothing
-  - will
-  - ever
-- - only
-  - then
-  - did
-- - military
-  - mistaking
-  - an
-- - an
-  - underground
-  - cove
-- - thoughts
-  - after
-  - all
-- - mistaking
-  - an
-  - innocent
-- - an
-  - elderly
-  - crumpled
-- - one
-  - remaining
-  - teabag
-- - heaven's
-  - name
-  - are
-- - further
-  - down
-  - into
-- - placed
-  - an
-  - advertisement
+- the whelk the
+- and the man
+- the dog and
+- dog and the
+- and the dog
+- and the weeks
+- goat and the
+- and the goat
+- the library and
+- the vast and
+- and lead the
+- the prize and
+- and wave the
+- the doorway and
+- the kettle and
+- agents and the
+- the barrow and
+- and consulted the
+- and the bungalow
+- the bungalow and
+- and consigning the
+- drizzling and the
+- and in the
+- the things that
+- that the idea
+- that the light
+- understand that the
+- noted that the
+- the track that
+- uncanny that the
+- that the enemy
+- the newspapers that
+- that bisected the
+- the idea was
+- the hound was
+- the prophecy was
+- for him the
+- the man with
+- man with the
+- with the idea
+- with the dog
+- for the dog
+- connection with the
+- the blanket with
+- blanket with the
+- with the wheelbarrow
+- toying with the
+- with the vietcong
+- looking for the
+- for the hut
+- the gate for
+- headed for the
+- jot for the
+- the marina for
+- and all and
+- from the institute
+- but the wind
+- piety but the
+- schooner but the
+- but the prophecy
+- the wind had
+- had boiled the
+- the sea one
+- these are the
+- using the one
+- the one remaining
+- one of the
+- the dog which
+- all the way
+- down into the
+- the hut are
+- are the sorts
+- and real and
+- would lower the
+- and alive and
+- and wide and
+- the dog will
+- about the place
+- cycle all the
+- the goat will
+- out the goat
+- the goat into
+- the wheelbarrow will
+- lift out the
+- out by the
+- into the subterranean
+- into the barrow
+- it into the
+- scurrying about the
+- thundered about the
+- about the bungalow
+- around the time
+- him the existence
+- the place like
+- among the other
+- the time of
+- time of the
+- days after the
+- the other qualities
+- the back room
+- the way home
+- being among the
+- mayhem said the
+- said the headline
+- even in the
+- after bashing the
+- in the back
+- back in the
+- the new goat
+- the heading old
+- little of the
+- story under the
+- put the dog
+- the same story
+- thing possible the
+- cushion while the
+- while the doppelganger
+- the spirit world
+- simply put the
+- good eye the
+- the shadow world
+- possible the good
+- each of the
+- of the things
+- is around the
+- the haberdasher took
+- the sky half
+- the goat idea
+- under the heading
+- the small seaside
+- birds of the
+- the good reverend
+- home via the
+- of the night
+- the night he
+- reported the same
+- went to the
+- the goat whether
+- the sea soared
+- of the sea
+- tea using the
+- the wheelbarrow person
+- bashing the door
+- pushed past the
+- the idea of
+- the thrilling story
+- the week contest
+- the week award
+- in the small
+- allocated the word
+- dog won the
+- word of the
+- past the apparition
+- of the week
+- at the door
+- the door of
+- door of the
+- the door a
+- the following dawn
+- the light of
+- light of the
+- deep below the
+- reached the top
+- retaining the dog
+- call the dustbin
+- the dog in
+- at the sky
+- the weeks alone
+- to call the
+- the open doorway
+- sat in the
+- the pang hill
+- lead the goat
+- looked at the
+- in the open
+- of the following
+- eye the ephemeral
+- the top he
+- the bungalow looking
+- the cold blustery
+- on the cold
+- below the earth's
+- the daily cushion
+- of the daily
+- consigning the goat
+- detail the thrilling
+- the fateful text
+- standing in the
+- via the track
+- sight of the
+- alone in the
+- to the library
+- in the middle
+- the middle of
+- middle of the
+- in the teeth
+- the teeth of
+- the hut of
+- hut of the
+- of the hut
+- the vietnam war
+- in the vast
+- avoid the beast
+- stand at the
+- boat in the
+- in detail the
+- the sorts of
+- as the author
+- the author of
+- author of the
+- he reached the
+- boiled the kettle
+- lower the blanket
+- shouting at the
+- in the pang
+- daft ned the
+- ned the whelk
+- of the spirit
+- assassin the contents
+- the beast exchange
+- won the ayn
+- the earth's surface
+- the judging panel
+- ted on the
+- at the gate
+- the existence of
+- the contents of
+- at the surface
+- the surface of
+- surface of the
+- the subterranean complex
+- the pentagon convinced
+- panel of the
+- pet of the
+- the ephemeral beauty
+- to avoid the
+- ignorant of the
+- the quaker cloud
+- am the ghost
+- the ghost of
+- won it the
+- it the prize
+- in the shadow
+- the ayn rand
 story:
   date: 2005-07-08
   id: 2005-07-08-the-new-goat

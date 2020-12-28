@@ -32,15 +32,15 @@ ngrams:
 - - team
   - bim
   - bam
+- - hopelessly
+  - hopelessly
+  - hopelessly
+- - hopelessly
+  - hopelessly
+  - hopelessly
 - - unparalleled
   - genius
   - accompanied
-- - hopelessly
-  - hopelessly
-  - hopelessly
-- - hopelessly
-  - hopelessly
-  - hopelessly
 - - interim
   - report
   - hopeless
@@ -74,12 +74,12 @@ ngrams:
 - - wormy
   - maggoty
   - kind
-- - extensive
-  - field
-  - containing
 - - almost
   - translucent
   - writhing
+- - extensive
+  - field
+  - containing
 - - write
   - hopelessly
   - thrice
@@ -161,12 +161,12 @@ ngrams:
 - - few
   - hundred
   - yards
-- - dear
-  - beloved
-  - mr
 - - two
   - similarly
   - discharged
+- - dear
+  - beloved
+  - mr
 - - appreciate
   - how
   - greedily
@@ -182,15 +182,15 @@ ngrams:
 - - two
   - retain
   - hope
-- - beloved
-  - mr
-  - key
 - - see
   - various
   - clumps
 - - yet
   - hopeless
   - nor
+- - beloved
+  - mr
+  - key
 - - yet
   - close
   - enough
@@ -209,12 +209,12 @@ ngrams:
 - - malady
   - gastric
   - may
-- - blundered
-  - onwards
-  - even
 - - buildings
   - hence
   - our
+- - blundered
+  - onwards
+  - even
 - - being
   - hopelessly
   - lost
@@ -287,12 +287,12 @@ ngrams:
 - - lucky
   - bird
   - then
-- - man's
-  - life
-  - upon
 - - us
   - might
   - bash
+- - man's
+  - life
+  - upon
 - - pass
   - may
   - take
@@ -308,12 +308,12 @@ ngrams:
 - - see
   - our
   - hands
-- - liquid
-  - oozing
-  - up
 - - now
   - beset
   - us
+- - liquid
+  - oozing
+  - up
 - - can
   - put
   - yourself
@@ -332,30 +332,30 @@ ngrams:
 - - two
   - could
   - hold
-- - borne
-  - down
-  - upon
 - - encountered
   - 'no'
   - further
-- - could
-  - see
-  - various
+- - borne
+  - down
+  - upon
 - - 'no'
   - further
   - puddles
+- - could
+  - see
+  - various
 - - hopeless
   - your
   - devoted
 - - cow
   - 'no'
   - matter
-- - mortal
-  - coil
-  - if
 - - fell
   - upon
   - our
+- - mortal
+  - coil
+  - if
 - - were
   - famished
   - lucky
@@ -404,6 +404,9 @@ ngrams:
 - - flight
   - we
   - peered
+- - even
+  - see
+  - our
 - - puddle
   - we
   - chopped
@@ -413,21 +416,18 @@ ngrams:
 - - recent
   - rainwater
   - we
-- - even
-  - see
-  - our
-- - would
-  - prove
-  - fatal
+- - distant
+  - buildings
+  - there
+- - distant
+  - buildings
+  - there
 - - pebbles
   - we
   - dismissed
-- - shortly
-  - afterwards
-  - we
-- - rock
-  - would
-  - kill
+- - would
+  - prove
+  - fatal
 story:
   date: 2012-09-10
   id: 2012-09-10-on-being-hopelessly-lost

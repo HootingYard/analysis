@@ -65,12 +65,12 @@ ngrams:
 - - kafka
   - '-'
   - workers'
-- - ives
-  - '-'
-  - ives
 - - franz
   - kafka
   - '-'
+- - ives
+  - '-'
+  - ives
 - - second
   - string
   - quartet

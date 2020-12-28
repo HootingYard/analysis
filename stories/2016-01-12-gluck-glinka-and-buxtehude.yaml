@@ -29,12 +29,12 @@ ngrams:
 - - scratched
   - various
   - arcane
-- - ancient
-  - egyptian
-  - dustbin
 - - plain
   - sight
   - operating
+- - ancient
+  - egyptian
+  - dustbin
 - - commanding
   - figure
   - described
@@ -83,12 +83,12 @@ ngrams:
 - - detective
   - thriller
   - here
-- - after
-  - scribbling
-  - thousands
 - - manuscript
   - too
   - end
+- - after
+  - scribbling
+  - thousands
 - - cup
   - after
   - scribbling
@@ -131,12 +131,12 @@ ngrams:
 - - them
   - got
   - wind
-- - child
-  - drool
-  - into
 - - spooky
   - dragged
   - out
+- - child
+  - drool
+  - into
 - - frequently
   - got
   - into
@@ -191,12 +191,6 @@ ngrams:
 - - dipsy
   - saw
   - this
-- - algernon
-  - spooky
-  - had
-- - had
-  - algernon
-  - spooky
 - - willis
   - or
   - freeman
@@ -206,6 +200,12 @@ ngrams:
 - - freeman
   - or
   - hardy
+- - hardy
+  - or
+  - willis
+- - algernon
+  - spooky
+  - had
 story:
   date: 2016-01-12
   id: 2016-01-12-gluck-glinka-and-buxtehude

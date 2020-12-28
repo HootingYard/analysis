@@ -41,9 +41,6 @@ ngrams:
 - - compilation
   - compact
   - disc
-- - dictaphone
-  - belt
-  - sandpaper
 - - pulleys
   - talcum
   - powder
@@ -56,18 +53,18 @@ ngrams:
 - - avant
   - garde
   - arts
+- - dictaphone
+  - belt
+  - sandpaper
 - - flame
   - retardant
   - fabric
-- - belt
-  - sandpaper
-  - grimy
-- - cot
-  - hinges
-  - blubber
 - - tooth
   - mug
   - bunsen
+- - cot
+  - hinges
+  - blubber
 - - salivating
   - weasels
   - snapping
@@ -83,6 +80,9 @@ ngrams:
 - - weasels
   - snapping
   - turtles
+- - belt
+  - sandpaper
+  - grimy
 - - compacted
   - orange
   - substance
@@ -149,45 +149,45 @@ ngrams:
 - - columnist
   - peter
   - hitchens
-- - garde
-  - arts
-  - project
 - - dust
   - tweaking
   - mechanisms
-- - sir
-  - granville
-  - bantock
+- - garde
+  - arts
+  - project
 - - fabrizio
   - corbera
   - prince
-- - cloth
-  - sand
-  - effluvium
+- - sir
+  - granville
+  - bantock
 - - hornets
   - dust
   - tweaking
-- - fantastic
-  - comic
-  - featuring
 - - recording
   - studio
   - breathing
+- - cloth
+  - sand
+  - effluvium
+- - fantastic
+  - comic
+  - featuring
 - - peter
   - hitchens
   - laundry
 - - worldwide
   - fan
   - club
-- - personnel
-  - including
-  - roadies
 - - golden
   - tooth
   - mug
 - - blubber
   - fruit
   - clamps
+- - personnel
+  - including
+  - roadies
 - - strictly
   - speaking
   - possession
@@ -203,57 +203,57 @@ ngrams:
 - - man's
   - beard
   - mary
-- - cotton
-  - pins
-  - pork
 - - fan
   - club
   - officers
-- - bins
-  - unusable
-  - according
-- - hancock
-  - issue
-  - volume
-- - talcum
-  - powder
-  - country
 - - fruit
   - clamps
   - sugar
-- - custard
-  - muck
-  - shoelaces
 - - goat
   - pens
   - hacks
+- - bins
+  - unusable
+  - according
 - - hinges
   - blubber
   - fruit
+- - hancock
+  - issue
+  - volume
+- - cotton
+  - pins
+  - pork
+- - talcum
+  - powder
+  - country
 - - gravel
   - cloth
   - sand
-- - box
-  - cutters
-  - basho
-- - issue
-  - volume
-  - examining
+- - custard
+  - muck
+  - shoelaces
 - - municipal
   - waste
   - bins
+- - issue
+  - volume
+  - examining
+- - box
+  - cutters
+  - basho
 - - fountain
   - pen
   - mysterious
-- - nearest
-  - municipal
-  - waste
 - - mad
   - arab
   - abdul
 - - municipal
   - waste
   - bin
+- - nearest
+  - municipal
+  - waste
 - - diagrams
   - cotton
   - pins
@@ -284,24 +284,24 @@ ngrams:
 - - bag
   - boy's
   - superpowers
-- - sugar
-  - goo
-  - pond
 - - eye
   - dangling
   - loose
+- - sugar
+  - goo
+  - pond
 - - boy
   - fan
   - club
-- - otherwise
-  - stupendous
-  - stories
 - - fumbled
   - occasionally
   - looking
 - - blue
   - cloudless
   - flat
+- - otherwise
+  - stupendous
+  - stories
 - - button
   - eye
   - dangling
@@ -317,33 +317,33 @@ ngrams:
 - - laundry
   - bag
   - boy's
-- - cardboard
-  - boxes
-  - packed
 - - hitchens
   - laundry
   - bag
+- - cardboard
+  - boxes
+  - packed
 - - bag
   - boy's
   - pet
-- - important
-  - plot
-  - developments
 - - laundry
   - bag
   - stands
+- - important
+  - plot
+  - developments
 - - comic
   - laundry
   - bag
 - - hill
   - owl
   - sanctuary
-- - skim
-  - reading
-  - sheltering
 - - aforementioned
   - yellow
   - hair
+- - skim
+  - reading
+  - sheltering
 - - official
   - laundry
   - bag
@@ -455,24 +455,24 @@ ngrams:
 - - bag
   - boy
   - fan
-- - smooth
-  - pap
-  - left
 - - bag
   - boy
   - gets
 - - bag
   - boy
   - contained
+- - smooth
+  - pap
+  - left
 - - bag
   - boy
   - titles
-- - discovered
-  - proper
-  - books
 - - town
   - dubbin
   - flock
+- - discovered
+  - proper
+  - books
 - - comics
   - buff
   - nor
@@ -524,17 +524,14 @@ ngrams:
 - - freshener
   - thing
   - seem
-- - whose
-  - names
-  - appeared
 - - while
   - loafing
   - backstage
+- - whose
+  - names
+  - appeared
 - - tuesday
   - weld
-  - yet
-- - stupendous
-  - stories
   - yet
 - - own
   - fan
@@ -542,15 +539,18 @@ ngrams:
 - - things
   - custard
   - muck
-- - filthy
-  - unmentionables
-  - long
+- - stupendous
+  - stories
+  - yet
 - - comic
   - books
   - nor
 - - called
   - laundry
   - bag
+- - filthy
+  - unmentionables
+  - long
 - - sky
   - always
   - depicted
@@ -575,12 +575,12 @@ ngrams:
 - - bassoon
   - sonata
   - say
-- - flock
-  - wallpaper
-  - old
 - - nor
   - does
   - herbie
+- - flock
+  - wallpaper
+  - old
 - - wonder
   - why
   - none
@@ -632,12 +632,12 @@ ngrams:
 - - void
   - where
   - laundry
-- - bag
-  - boy
-  - much
 - - explaining
   - why
   - while
+- - bag
+  - boy
+  - much
 - - bond's
   - book
   - while
@@ -656,33 +656,33 @@ ngrams:
 - - enthusiasm
   - too
   - far
+- - fictional
+  - spies
+  - such
 - - did
   - issue
   - volume
 - - fictional
-  - spies
-  - such
-- - fictional
   - detectives
   - such
-- - man
-  - called
-  - simon
 - - where
   - laundry
   - bag
 - - its
   - fifth
   - edition
+- - man
+  - called
+  - simon
 - - other
   - ornithological
   - content
-- - only
-  - pay
-  - attention
 - - its
   - normal
   - size
+- - only
+  - pay
+  - attention
 - - until
   - last
   - week
@@ -704,12 +704,12 @@ ngrams:
 - - real
   - detectives
   - like
-- - ever
-  - cared
-  - much
 - - paralysed
   - rather
   - than
+- - ever
+  - cared
+  - much
 - - rather
   - than
   - provoked
@@ -737,21 +737,21 @@ ngrams:
 - - books
   - upon
   - books
-- - eyes
-  - could
-  - expand
 - - am
   - less
   - interested
 - - yet
   - how
   - often
-- - blazing
-  - eyes
+- - eyes
   - could
+  - expand
 - - may
   - wonder
   - why
+- - blazing
+  - eyes
+  - could
 - - took
   - myself
   - 'off'
@@ -761,12 +761,12 @@ ngrams:
 - - still
   - does
   - two
-- - any
-  - birds
-  - seen
 - - four
   - times
   - its
+- - any
+  - birds
+  - seen
 - - very
   - first
   - skim
@@ -794,15 +794,15 @@ ngrams:
 - - very
   - careful
   - before
+- - 'no'
+  - official
+  - worldwide
 - - their
   - aberrant
   - leanings
 - - herbie
   - hancock
   - their
-- - 'no'
-  - official
-  - worldwide
 - - expunge
   - their
   - aberrant
@@ -812,21 +812,21 @@ ngrams:
 - - hancock
   - their
   - absence
-- - their
-  - smooth
-  - pap
 - - drum
   - up
   - genuine
+- - their
+  - smooth
+  - pap
 - - up
   - genuine
   - enthusiasm
-- - pig
-  - giving
-  - him
 - - frankly
   - their
   - smooth
+- - pig
+  - giving
+  - him
 - - can't
   - drum
   - up
@@ -851,27 +851,27 @@ ngrams:
 - - 'no'
   - important
   - plot
-- - say
-  - could
-  - stand
 - - many
   - more
   - superpowers
-- - thing
-  - she
-  - told
+- - say
+  - could
+  - stand
 - - strips
   - about
   - douglas
 - - about
   - guantanamo
   - bay
-- - peter
-  - just
-  - like
+- - thing
+  - she
+  - told
 - - statement
   - about
   - guantanamo
+- - peter
+  - just
+  - like
 - - courageous
   - statement
   - about
@@ -887,21 +887,21 @@ ngrams:
 - - noticed
   - about
   - laundry
-- - taking
-  - up
-  - half
 - - information
   - about
   - laundry
 - - majestic
   - genius
   - about
-- - any
-  - other
-  - ornithological
 - - short
   - strips
   - about
+- - taking
+  - up
+  - half
+- - any
+  - other
+  - ornithological
 - - argue
   - their
   - case

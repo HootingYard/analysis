@@ -23,9 +23,6 @@ ngrams:
 - - palmer
   - leo
   - sayer
-- - patricia
-  - fripp
-  - executive
 - - executives
   - patricia
   - fripp
@@ -37,16 +34,19 @@ ngrams:
   - sinfield
 - - patricia
   - fripp
-  - ok
+  - executive
 - - patricia
   - fripp
   - pete
-- - manufacturing
-  - industry
-  - patricia
+- - patricia
+  - fripp
+  - ok
 - - wilcox
   - patricia
   - fripp
+- - manufacturing
+  - industry
+  - patricia
 - - wizard
   - toyah
   - wilcox
@@ -68,15 +68,15 @@ ngrams:
 - - egghead
   - electric
   - guitar
+- - toyah
+  - wilcox
+  - hello
+- - toyah
+  - wilcox
+  - hello
 - - superb
   - bespectacled
   - egghead
-- - toyah
-  - wilcox
-  - hello
-- - toyah
-  - wilcox
-  - hello
 - - electric
   - guitar
   - wizard
@@ -110,15 +110,15 @@ ngrams:
 - - robert
   - fripp
   - sighing
-- - project
-  - pete
-  - sinfield
-- - figures
-  - let's
-  - kick
 - - robert
   - fripp
   - pete
+- - figures
+  - let's
+  - kick
+- - project
+  - pete
+  - sinfield
 - - sales
   - figures
   - let's
@@ -143,24 +143,24 @@ ngrams:
 - - sinfield
   - hello
   - robert
-- - wife
-  - patricia
-  - fripp
 - - electric
   - guitar
   - robert
+- - wife
+  - patricia
+  - fripp
 - - wilcox
   - hello
   - robert
 - - robert
   - fripp
   - passes
-- - robert
-  - fripp
-  - brilliant
 - - cake
   - manufacturing
   - industry
+- - robert
+  - fripp
+  - brilliant
 - - admiration
   - truly
   - robert
@@ -185,15 +185,15 @@ ngrams:
 - - truly
   - robert
   - fripp
+- - enter
+  - robert
+  - fripp
+- - enter
+  - robert
+  - fripp
 - - brilliant
   - thanks
   - pete
-- - enter
-  - robert
-  - fripp
-- - enter
-  - robert
-  - fripp
 - - cake
   - sales
   - figures
@@ -209,12 +209,12 @@ ngrams:
 - - crimson
   - lyricist
   - scene
-- - box
-  - brainstorm
-  - guys
 - - cake
   - robert
   - fripp
+- - box
+  - brainstorm
+  - guys
 - - pulsating
   - intellect
   - scene

@@ -44,15 +44,15 @@ ngrams:
 - - unregistered
   - ice
   - cream
+- - cream
+  - van
+  - differs
 - - unregistered
   - ice
   - cream
 - - unregistered
   - ice
   - cream
-- - devised
-  - whereby
-  - ice
 - - whereby
   - ice
   - cream
@@ -74,12 +74,9 @@ ngrams:
 - - ice
   - cream
   - vans
-- - choc
+- - devised
+  - whereby
   - ice
-  - peering
-- - cream
-  - van
-  - differs
 - - cream
   - van
   - investigator
@@ -95,21 +92,24 @@ ngrams:
 - - cream
   - van
   - drivers
-- - stupid
+- - choc
   - ice
-  - cream
+  - peering
 - - boots
   - immediately
   - hauled
+- - stupid
+  - ice
+  - cream
 - - ice
   - cream
   - despite
-- - original
-  - ice
-  - cream
 - - ancient
   - regulations
   - none
+- - original
+  - ice
+  - cream
 - - ice
   - cream
   - van
@@ -164,15 +164,15 @@ ngrams:
 - - cream
   - vans
   - again
-- - both
-  - ice
-  - cream
 - - few
   - vehicles
   - remained
 - - lanes
   - around
   - pang
+- - both
+  - ice
+  - cream
 - - bird
   - person
   - hefty
@@ -182,12 +182,12 @@ ngrams:
 - - around
   - pang
   - hill
-- - contained
-  - much
-  - dissembling
 - - dissembling
   - many
   - evasions
+- - contained
+  - much
+  - dissembling
 - - replies
   - contained
   - much
@@ -200,12 +200,12 @@ ngrams:
 - - yet
   - another
   - medal
-- - many
-  - ice
-  - cream
 - - awarded
   - yet
   - another
+- - many
+  - ice
+  - cream
 - - drivers
   - those
   - whom
@@ -308,15 +308,15 @@ ngrams:
 - - committee's
   - slogan
   - they
+- - some
+  - years
+  - ago
 - - frantically
   - they
   - crashed
 - - were
   - both
   - fanatically
-- - some
-  - years
-  - ago
 - - cream
   - vans
   - would
@@ -332,9 +332,9 @@ ngrams:
 - - van
   - ever
   - been
-- - interrogations
-  - however
-  - they
+- - your
+  - van
+  - ever
 story:
   date: 2009-04-28
   id: 2009-04-28-unregistered-ice-cream-vans

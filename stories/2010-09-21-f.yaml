@@ -17,12 +17,12 @@ ngrams:
 - - dem
   - party
   - conference
-- - solar
-  - flares
-  - due
 - - red
   - wipe
   - internet
+- - solar
+  - flares
+  - due
 - - nick
   - clegg
   - 'yes'
@@ -89,30 +89,27 @@ ngrams:
 - - party
   - conference
   - may
-- - yard
-  - let's
-  - get
 - - lesser
   - account
   - than
 - - account
   - than
   - nick
+- - yard
+  - let's
+  - get
 - - our
   - priorities
   - right
 - - any
   - sane
   - person
-- - could
-  - crash
-  - electricity
 - - silence
   - like
   - unto
-- - hooting
-  - yard
-  - let's
+- - could
+  - crash
+  - electricity
 - - get
   - our
   - priorities
@@ -122,6 +119,9 @@ ngrams:
 - - headline
   - nor
   - even
+- - hooting
+  - yard
+  - let's
 story:
   date: 2010-09-21
   id: 2010-09-21-f

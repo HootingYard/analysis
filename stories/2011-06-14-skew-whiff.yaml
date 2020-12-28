@@ -50,27 +50,27 @@ ngrams:
 - - confraternity
   - mr
   - skew
-- - resources
-  - mr
-  - skew
 - - using
   - both
   - bell
-- - alignment
-  - mr
-  - skew
 - - both
   - bring
   - empty
+- - resources
+  - mr
+  - skew
+- - own
+  - pail
+  - attached
+- - alignment
+  - mr
+  - skew
 - - skew
   - whiff
   - mr
 - - whiff
   - mr
   - skew
-- - own
-  - pail
-  - attached
 - - rope
   - mr
   - skew
@@ -89,21 +89,21 @@ ngrams:
 - - mr
   - whiff
   - blind
-- - either
-  - mr
-  - skew
 - - say
   - fighter
   - jets
+- - either
+  - mr
+  - skew
 - - pail
   - either
   - mr
-- - very
-  - gentle
-  - gradient
 - - fort
   - toity
   - never
+- - very
+  - gentle
+  - gradient
 - - innumerable
   - birds
   - without
@@ -161,15 +161,15 @@ ngrams:
 - - where
   - mr
   - whiff
+- - never
+  - ever
+  - happened
 - - toity
   - where
   - mr
 - - hoity
   - where
   - mr
-- - never
-  - ever
-  - happened
 - - other
   - unidentified
   - birds
@@ -239,24 +239,24 @@ ngrams:
 - - birds
   - swooping
   - about
-- - quite
-  - clicked
-  - into
 - - 'no'
   - idea
   - why
+- - quite
+  - clicked
+  - into
 - - arm
   - fraternally
+  - they
+- - they
+  - strolled
+  - alas
+- - fort
+  - toity
   - they
 - - whiff
   - would
   - babble
-- - they
-  - strolled
-  - alas
-- - were
-  - screaming
-  - across
 story:
   date: 2011-06-14
   id: 2011-06-14-skew-whiff

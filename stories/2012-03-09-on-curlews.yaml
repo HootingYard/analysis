@@ -41,15 +41,15 @@ ngrams:
 - - ornithological
   - ignorance
   - together
-- - left
-  - rudderless
-  - disorientated
-- - embroidered
-  - curlew
-  - number
 - - imaginary
   - curlew
   - number
+- - embroidered
+  - curlew
+  - number
+- - left
+  - rudderless
+  - disorientated
 - - swooping
   - curlew
   - number
@@ -86,12 +86,12 @@ ngrams:
 - - passage
   - using
   - certain
-- - also
-  - imaginary
-  - curlew
 - - mentions
   - birds
   - absent
+- - also
+  - imaginary
+  - curlew
 - - decisive
   - standing
   - between
@@ -164,24 +164,24 @@ ngrams:
 - - until
   - discovered
   - later
-- - curlews
-  - dobson
-  - barely
 - - our
   - analysis
   - irrespective
+- - curlews
+  - dobson
+  - barely
 - - rigorous
   - our
   - analysis
 - - matter
   - how
   - rigorous
-- - say
-  - curlew
-  - number
 - - curlew
   - number
   - two
+- - say
+  - curlew
+  - number
 - - ever
   - seen
   - fit
@@ -234,11 +234,11 @@ ngrams:
   - her
   - stamp
 - - her
-  - latest
-  - acquisitions
-- - her
   - stamp
   - album
+- - her
+  - latest
+  - acquisitions
 - - how
   - rigorous
   - our
@@ -308,11 +308,14 @@ ngrams:
 - - 'no'
   - point
   - does
+- - thunderclouds
+  - would
+  - waft
+- - brooding
+  - thunderclouds
+  - would
 - - frankly
   - dobson
-  - has
-- - dobson
-  - barely
   - has
 - - fellow
   - dressed
@@ -320,6 +323,9 @@ ngrams:
 - - has
   - ever
   - seen
+- - dobson
+  - barely
+  - has
 - - trees
   - were
   - both
@@ -341,12 +347,12 @@ ngrams:
 - - ugly
   - building
   - which
-- - would
-  - remain
-  - until
 - - only
   - piercing
   - when
+- - would
+  - remain
+  - until
 - - head
   - has
   - ever
@@ -377,18 +383,18 @@ ngrams:
 - - piercing
   - insight
   - one
-- - which
-  - shall
-  - remain
 - - an
   - ugly
   - building
-- - building
-  - which
+- - which
   - shall
+  - remain
 - - one
   - plastic
   - curlew
+- - building
+  - which
+  - shall
 - - more
   - rapidly
   - into
@@ -422,12 +428,6 @@ ngrams:
 - - me
   - clutching
   - her
-- - distinguish
-  - this
-  - work
-- - doctor
-  - had
-  - prescribed
 story:
   date: 2012-03-09
   id: 2012-03-09-on-curlews
@@ -472,9 +472,9 @@ story:
 
     That night, by candlelight, I took out my ledger and gave names to each of the
     twenty-six curlews I had seen. Alcibiades, Bim, Chumpot, Dromedary, Eidolon, Flaps,
-    Gash, Heliogabalus, Inthod.... That is how I started my list. Then I recalled
-    that I had set out to see forty-four curlews. I gnashed my teeth in misery and
-    dejection. And I recalled that I had forgotten to wring out the mop.
+    Gash, Heliogabalus, Inthod... That is how I started my list. Then I recalled that
+    I had set out to see forty-four curlews. I gnashed my teeth in misery and dejection.
+    And I recalled that I had forgotten to wring out the mop.
 
     You will recognise the above as an extract from Dobson''s pamphletto A Description
     Of And Reverie Upon Forty-Four Curlews (out of print). Note that I use the word

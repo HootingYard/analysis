@@ -2,15 +2,15 @@ ngrams:
 - - franchise
   - eric
   - maxwell
+- - eric
+  - maxwell
+  - davies
+- - eric
+  - maxwell
+  - davies
 - - revenge
   - readings
   - confirm
-- - eric
-  - maxwell
-  - davies
-- - eric
-  - maxwell
-  - davies
 - - eric's
   - scenes
   - filmed
@@ -65,18 +65,18 @@ ngrams:
 - - desolate
   - bells
   - clanged
-- - clever
-  - strategic
-  - reasons
 - - airport
   - squirrel
   - skittered
-- - airport
-  - chaplain
-  - episode
+- - clever
+  - strategic
+  - reasons
 - - whooper
   - swans
   - whooped
+- - airport
+  - chaplain
+  - episode
 - - team
   - invariably
   - gathers
@@ -122,18 +122,18 @@ ngrams:
 - - mad
   - airport
   - boffin
-- - bygone
-  - era
-  - sat
-- - era
-  - sat
-  - rusting
 - - high
   - metabolic
   - rate
 - - held
   - sway
   - except
+- - bygone
+  - era
+  - sat
+- - era
+  - sat
+  - rusting
 - - boffin
   - dr
   - loopy
@@ -230,12 +230,12 @@ ngrams:
 - - another
   - continent
   - far
-- - interfaith
-  - chaplaincy
-  - where
 - - goat
   - boy
   - 'off'
+- - interfaith
+  - chaplaincy
+  - where
 - - runway
   - where
   - madcap
@@ -290,24 +290,24 @@ ngrams:
 - - airport
   - each
   - day
-- - once
-  - did
-  - eric
 - - far
   - away
   - across
+- - once
+  - did
+  - eric
 - - ago
   - now
   - neither
 - - brother
   - once
   - did
-- - dragged
-  - him
-  - forcibly
 - - each
   - day
   - although
+- - dragged
+  - him
+  - forcibly
 - - security
   - guards
   - who
@@ -393,7 +393,7 @@ story:
     revenge upon the personnel of the airport, including the floozy and the tinker
     and Eric Maxwell Davies the night watchman, and you, airport chaplain!
 
-    Father Umberto : What the....?
+    Father Umberto : What the...?
 
     After a pause of uncomfortable duration, we hear tinkly music composed by a paranormalist
     with access to Tony Hatch''s brainpans, and the credits roll.'

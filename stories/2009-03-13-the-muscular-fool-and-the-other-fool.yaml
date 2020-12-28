@@ -26,24 +26,24 @@ ngrams:
 - - foolishness
   - evaporated
   - sprawled
-- - seething
-  - microscopic
-  - beings
 - - microscopic
   - beings
   - lurking
+- - seething
+  - microscopic
+  - beings
 - - hairy
   - farmer's
   - fists
-- - st
-  - paul's
-  - churchyard
 - - sir
   - walter
   - scott
 - - misdirected
   - farm
   - postage
+- - st
+  - paul's
+  - churchyard
 - - church
   - bells
   - clanged
@@ -98,15 +98,15 @@ ngrams:
 - - dug
   - deep
   - enough
+- - fool
+  - minced
+  - across
 - - jars
   - stay
   - put
 - - hole
   - deep
   - enough
-- - fool
-  - minced
-  - across
 - - mincing
   - sort
   - whether
@@ -119,18 +119,18 @@ ngrams:
 - - under
   - glittering
   - stars
-- - fool
-  - put
-  - aside
 - - fists
   - though
   - muscular
-- - field
-  - towards
-  - wherever
+- - fool
+  - put
+  - aside
 - - farmer's
   - fists
   - though
+- - field
+  - towards
+  - wherever
 - - sort
   - whether
   - fool
@@ -152,12 +152,12 @@ ngrams:
 - - dawn
   - having
   - spent
-- - too
-  - busy
-  - keeping
 - - three
   - bears
   - told
+- - too
+  - busy
+  - keeping
 - - too
   - usually
   - ate
@@ -176,30 +176,30 @@ ngrams:
 - - tiny
   - tiny
   - beings
-- - stay
-  - put
-  - once
 - - before
   - finally
   - chucking
 - - cannot
   - make
   - porridge
-- - injured
-  - cow
-  - being
+- - stay
+  - put
+  - once
 - - bears
   - come
   - home
+- - injured
+  - cow
+  - being
 - - shrill
   - fife
   - may
-- - find
-  - himself
-  - underneath
 - - factory
   - over
   - yonder
+- - find
+  - himself
+  - underneath
 - - blundering
   - cow
   - might
@@ -215,12 +215,12 @@ ngrams:
 - - churchyard
   - steeple
   - upon
-- - cow
-  - may
-  - bellow
 - - even
   - whole
   - mornings
+- - cow
+  - may
+  - bellow
 - - moments
   - even
   - whole
@@ -230,12 +230,12 @@ ngrams:
 - - other
   - explosive
   - devices
-- - make
-  - porridge
-  - while
 - - fool
   - intent
   - upon
+- - make
+  - porridge
+  - while
 - - boiled
   - little
   - things
@@ -299,12 +299,12 @@ ngrams:
 - - can
   - become
   - confused
-- - certainly
-  - awaken
-  - him
 - - sounds
   - can
   - become
+- - certainly
+  - awaken
+  - him
 - - fool
   - who
   - thrives
@@ -344,27 +344,27 @@ ngrams:
 - - wheelbarrows
   - fretting
   - about
-- - things
-  - enraged
-  - him
 - - disparaging
   - remarks
   - about
+- - things
+  - enraged
+  - him
 - - only
   - too
   - well
 - - first
   - thing
   - before
-- - daybreak
-  - shrilly
-  - if
 - - down
   - other
   - pathways
 - - kellogg's
   - finest
   - when
+- - daybreak
+  - shrilly
+  - if
 - - purchase
   - followed
   - about
@@ -374,12 +374,12 @@ ngrams:
 - - drown
   - her
   - before
-- - her
-  - before
-  - finally
 - - foolishness
   - will
   - misconstrue
+- - her
+  - before
+  - finally
 - - day
   - long
   - never
@@ -425,57 +425,54 @@ ngrams:
 - - foolishness
   - led
   - me
-- - larks
-  - would
-  - fife
-- - fools
-  - they
-  - drive
 - - things
   - about
   - fools
-- - compassion
+- - fools
+  - they
+  - drive
+- - larks
   - would
-  - burst
+  - fife
 - - fool's
   - ears
   - all
+- - compassion
+  - would
+  - burst
 - - words
   - were
   - coherent
+- - ears
+  - all
+  - sounds
 - - seldom
   - set
   - out
 - - individual
   - words
   - were
-- - ears
-  - all
-  - sounds
 - - were
   - cherry
   - because
-- - burn
-  - her
-  - then
 - - 'no'
   - longer
   - being
+- - burn
+  - her
+  - then
 - - fool's
   - heart
   - would
-- - would
-  - simply
-  - retrieve
 - - placed
   - them
   - where
+- - would
+  - simply
+  - retrieve
 - - awaken
   - him
   - now
-- - breakfast
-  - would
-  - clamber
 - - joined
   - together
   - there
@@ -485,6 +482,9 @@ ngrams:
 - - made
   - 'no'
   - sense
+- - breakfast
+  - would
+  - clamber
 - - where
   - 'no'
   - bitterns
@@ -497,15 +497,15 @@ ngrams:
 - - him
   - now
   - consider
-- - clean
-  - these
-  - were
 - - workers
   - are
   - summoned
 - - old
   - woman
   - when
+- - clean
+  - these
+  - were
 - - would
   - almost
   - certainly
@@ -545,15 +545,15 @@ ngrams:
 - - come
   - home
   - they
+- - so
+  - well
+  - wrapped
 - - would
   - burst
   - through
 - - would
   - just
   - shovel
-- - so
-  - well
-  - wrapped
 - - remember
   - even
   - if
@@ -572,12 +572,12 @@ ngrams:
 - - this
   - instance
   - meaning
-- - would
-  - find
-  - himself
 - - this
   - occasion
   - fools
+- - would
+  - find
+  - himself
 - - types
   - they
   - did
@@ -599,27 +599,27 @@ ngrams:
 - - or
   - sickly
   - irrespective
-- - had
-  - poured
-  - porridge
 - - mutant
   - lark
   - or
+- - had
+  - poured
+  - porridge
 - - this
   - bright
   - morning
 - - all
   - sounds
   - can
+- - all
+  - day
+  - long
 - - had
   - dug
   - deep
 - - when
   - their
   - nibbling
-- - all
-  - day
-  - long
 - - were
   - 'no'
   - shallows
@@ -638,60 +638,60 @@ ngrams:
 - - adjoining
   - hole
   - but
-- - growing
-  - up
-  - into
 - - fool
   - when
   - their
-- - hole
-  - sometimes
-  - had
-- - clamber
+- - growing
   - up
-  - out
+  - into
 - - steeple
   - upon
   - which
+- - clamber
+  - up
+  - out
 - - its
   - workers
   - are
-- - fool
-  - replied
-  - but
+- - hole
+  - sometimes
+  - had
 - - whether
   - fool
   - or
+- - fool
+  - replied
+  - but
 - - 'no'
   - sense
   - when
 - - were
   - 'no'
   - cows
-- - fool
-  - had
-  - nothing
 - - together
   - there
   - can
 - - been
   - beaten
   - out
+- - fool
+  - had
+  - nothing
 - - stores
   - wandering
   - from
 - - drum
   - booming
   - from
+- - hole
+  - one
+  - might
 - - from
   - misdirected
   - farm
 - - gullet
   - straight
   - from
-- - hole
-  - one
-  - might
 - - will
   - dizzy
   - your

@@ -107,12 +107,12 @@ ngrams:
 - - end
   - result
   - should
-- - hail
-  - mr
-  - key
 - - bowls
   - get
   - another
+- - hail
+  - mr
+  - key
 - - get
   - another
   - bigger
@@ -236,12 +236,12 @@ ngrams:
 - - your
   - uninvited
   - guests
-- - mr
-  - key
-  - like
 - - provide
   - what
   - hospitality
+- - mr
+  - key
+  - like
 - - now
   - take
   - another
@@ -257,29 +257,26 @@ ngrams:
 - - then
   - remove
   - any
-- - entire
-  - contents
-  - into
 - - can
   - imagine
   - how
+- - entire
+  - contents
+  - into
 - - party
   - recipe
   - if
-- - bits
-  - fall
-  - into
 - - among
   - your
   - uninvited
-- - bigger
-  - bowl
-  - out
 - - rascals
   - will
   - notice
-- - telltale
-  - bag
+- - bigger
+  - bowl
+  - out
+- - bits
+  - fall
   - into
 - - will
   - cry
@@ -287,6 +284,9 @@ ngrams:
 - - return
   - your
   - attention
+- - telltale
+  - bag
+  - into
 - - might
   - ask
   - do
@@ -299,12 +299,12 @@ ngrams:
 - - hello
   - tim
   - me
-- - having
-  - bumped
-  - into
 - - weetabix
   - packaging
   - there
+- - having
+  - bumped
+  - into
 - - more
   - often
   - than
@@ -329,12 +329,12 @@ ngrams:
 - - crashing
   - through
   - your
-- - through
-  - your
-  - bin
 - - rascals
   - will
   - go
+- - through
+  - your
+  - bin
 story:
   date: 2012-08-15
   id: 2012-08-15-on-an-impromptu-dinner-party-recipe

@@ -5,27 +5,27 @@ ngrams:
 - - starring
   - ralph
   - meeker
+- - aldrich
+  - starring
+  - ralph
 - - alternately
   - shrieks
   - whispers
 - - shrieks
   - whispers
   - declaims
-- - aldrich
-  - starring
-  - ralph
 - - wit
   - verve
   - erudition
 - - wit
   - verve
   - erudition
-- - demonstrated
-  - wit
-  - verve
 - - remarkable
   - effulgence
   - paints
+- - demonstrated
+  - wit
+  - verve
 - - stalin
   - alternately
   - shrieks
@@ -44,15 +44,15 @@ ngrams:
 - - deadly
   - robert
   - aldrich
-- - improvised
-  - din
-  - produced
 - - robert
   - aldrich
   - starring
 - - periodical
   - singer
   - stalin
+- - improvised
+  - din
+  - produced
 - - host
   - harold
   - stalin
@@ -206,12 +206,12 @@ ngrams:
 - - wiring
   - just
   - before
-- - screaming
-  - teenagers
-  - who
 - - very
   - very
   - careful
+- - screaming
+  - teenagers
+  - who
 - - just
   - before
   - passing
@@ -233,48 +233,48 @@ ngrams:
 - - been
   - chart
   - hits
-- - has
-  - always
-  - insisted
 - - bollocks
   - about
   - ravel
+- - has
+  - always
+  - insisted
 - - down
   - dobson
   - wrote
 - - been
   - encamped
   - outside
+- - try
+  - your
+  - patience
 - - magazine's
   - foray
   - into
 - - accolade
   - if
   - accolade
-- - try
-  - your
-  - patience
 - - remarkable
   - effulgence
   - into
-- - what
-  - else
-  - accompanying
 - - when
   - opened
   - reveals
-- - bursting
-  - into
-  - tears
+- - what
+  - else
+  - accompanying
 - - pouring
   - out
   - magazine's
-- - into
-  - tears
-  - tearing
 - - lord
   - knows
   - what
+- - bursting
+  - into
+  - tears
+- - into
+  - tears
+  - tearing
 - - lapel
   - running
   - out
@@ -317,9 +317,6 @@ ngrams:
 - - tommy
   - indeed
   - when
-- - flinging
-  - himself
-  - into
 - - feel
   - me
   - touch
@@ -329,6 +326,9 @@ ngrams:
 - - touch
   - me
   - try
+- - flinging
+  - himself
+  - into
 - - could
   - ever
   - think
@@ -347,12 +347,12 @@ ngrams:
 - - which
   - shines
   - forth
-- - before
-  - bursting
-  - into
 - - print
   - if
   - ever
+- - before
+  - bursting
+  - into
 - - something
   - teenyboppers
   - would

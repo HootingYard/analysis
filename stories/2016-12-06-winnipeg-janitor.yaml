@@ -23,15 +23,15 @@ ngrams:
 - - radiators
   - need
   - regular
-- - need
-  - regular
-  - bleeding
 - - cold
   - oh
   - bitterly
 - - oh
   - bitterly
   - cold
+- - need
+  - regular
+  - bleeding
 - - cold
   - cold
   - oh
@@ -104,21 +104,21 @@ ngrams:
 - - wasp
   - when
   - patrolling
-- - regular
-  - bleeding
-  - when
 - - jabbering
   - questions
   - about
+- - regular
+  - bleeding
+  - when
 - - very
   - rarely
   - do
-- - say
-  - every
-  - now
 - - excessive
   - some
   - might
+- - say
+  - every
+  - now
 - - buttonhole
   - me
   - jabbering
@@ -131,12 +131,12 @@ ngrams:
 - - janitors
   - they
   - dart
-- - rinse
-  - out
-  - under
 - - me
   - jabbering
   - questions
+- - rinse
+  - out
+  - under
 - - childhood
   - trauma
   - there

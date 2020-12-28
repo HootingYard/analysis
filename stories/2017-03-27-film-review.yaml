@@ -53,21 +53,21 @@ ngrams:
 - - children's
   - nightmares
   - other
-- - hooting
-  - yard
-  - rating
 - - know
   - don't
   - ask
 - - stable
   - nor
   - even
-- - mysterious
-  - hooting
+- - hooting
   - yard
+  - rating
 - - more
   - fitting
   - title
+- - mysterious
+  - hooting
+  - yard
 - - horse
   - until
   - after
@@ -101,12 +101,12 @@ ngrams:
 - - seen
   - 'no'
   - sign
-- - newspaper
-  - when
-  - dining
 - - nightmares
   - other
   - than
+- - newspaper
+  - when
+  - dining
 story:
   date: 2017-03-27
   id: 2017-03-27-film-review

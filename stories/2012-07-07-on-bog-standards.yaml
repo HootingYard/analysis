@@ -89,12 +89,12 @@ ngrams:
 - - baffling
   - world
   - blimey
-- - perhaps
-  - dribbling
-  - slightly
 - - princeling
   - nor
   - peasant
+- - perhaps
+  - dribbling
+  - slightly
 - - flag
   - flying
   - next
@@ -119,21 +119,21 @@ ngrams:
 - - how
   - frau
   - von
-- - old
-  - wooden
-  - schoolroom
-- - old
-  - wooden
-  - schoolroom
-- - old
-  - wooden
-  - schoolroom
-- - old
-  - wooden
-  - schoolroom
 - - utterly
   - befuddled
   - never
+- - old
+  - wooden
+  - schoolroom
+- - old
+  - wooden
+  - schoolroom
+- - old
+  - wooden
+  - schoolroom
+- - old
+  - wooden
+  - schoolroom
 - - yourselves
   - something
   - along
@@ -164,12 +164,12 @@ ngrams:
 - - bow
   - down
   - bow
-- - bow
-  - down
-  - ye
 - - remember
   - how
   - frau
+- - bow
+  - down
+  - ye
 - - still
   - small
   - voice
@@ -185,39 +185,39 @@ ngrams:
 - - may
   - recall
   - gobbo
-- - any
-  - reason
-  - whatsoever
 - - these
   - words
   - spoken
+- - any
+  - reason
+  - whatsoever
 - - crash
   - like
   - thunder
+- - bog
+  - its
+  - flag
+- - bog
+  - its
+  - flag
 - - only
   - remember
   - vaguely
-- - bog
-  - its
-  - flag
-- - bog
-  - its
-  - flag
 - - deeper
   - more
   - profound
 - - recall
   - these
   - things
-- - yet
-  - mr
-  - key
 - - heard
   - these
   - words
 - - am
   - utterly
   - befuddled
+- - yet
+  - mr
+  - key
 - - pond
   - alone
   - now
@@ -305,12 +305,12 @@ ngrams:
 - - could
   - only
   - remember
-- - because
-  - if
-  - gobbo
 - - still
   - splashing
   - about
+- - because
+  - if
+  - gobbo
 - - me
   - cobble
   - together
@@ -326,12 +326,12 @@ ngrams:
 - - us
   - about
   - anyone
-- - ducks
-  - were
-  - still
 - - let
   - me
   - cobble
+- - ducks
+  - were
+  - still
 - - pin
   - back
   - your
@@ -371,6 +371,9 @@ ngrams:
 - - spending
   - an
   - hour
+- - am
+  - talking
+  - about
 - - personal
   - approbation
   - this
@@ -378,17 +381,14 @@ ngrams:
   - lessons
   - would
 - - am
-  - talking
-  - about
-- - am
   - your
   - king
-- - up
-  - your
-  - dribble
 - - or
   - flag
   - assigned
+- - up
+  - your
+  - dribble
 - - natural
   - or
   - supernatural
@@ -398,12 +398,12 @@ ngrams:
 - - supernatural
   - sensible
   - or
-- - 'no'
-  - more
-  - those
 - - standard
   - or
   - flag
+- - 'no'
+  - more
+  - those
 story:
   date: 2012-07-07
   id: 2012-07-07-on-bog-standards

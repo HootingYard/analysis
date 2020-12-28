@@ -2,12 +2,12 @@ ngrams:
 - - eclairs
   - faggots
   - garlic
-- - faggots
-  - garlic
-  - greens
 - - pulses
   - salad
   - scones
+- - faggots
+  - garlic
+  - greens
 - - garlic
   - greens
   - junket
@@ -41,27 +41,27 @@ ngrams:
 - - rice
   - rolls
   - rusks
-- - salad
-  - scones
-  - syrup
 - - kale
   - pork
   - rice
-- - kidneys
-  - mousse
-  - noodles
-- - wafers
-  - yeast
-  - batter
-- - simnel
-  - sorbet
-  - sponge
-- - flour
-  - fudge
-  - gravy
+- - salad
+  - scones
+  - syrup
 - - pork
   - rice
   - rolls
+- - wafers
+  - yeast
+  - batter
+- - kidneys
+  - mousse
+  - noodles
+- - flour
+  - fudge
+  - gravy
+- - simnel
+  - sorbet
+  - sponge
 - - suet
   - tarts
   - bacon
@@ -92,15 +92,15 @@ ngrams:
 - - chops
   - curd
   - flan
-- - ships
-  - rigging
-  - cables
-- - bread
-  - broth
-  - cloves
 - - syrup
   - toast
   - wafers
+- - bread
+  - broth
+  - cloves
+- - ships
+  - rigging
+  - cables
 - - fudge
   - gravy
   - gruel
@@ -113,18 +113,18 @@ ngrams:
 - - diet
   - consisted
   - chiefly
-- - sorbet
-  - sponge
-  - toffee
 - - jelly
   - liver
   - mince
-- - sponge
+- - sorbet
+  - sponge
   - toffee
-  - walnuts
 - - gravy
   - gruel
   - honey
+- - sponge
+  - toffee
+  - walnuts
 - - honey
   - icing
   - jelly

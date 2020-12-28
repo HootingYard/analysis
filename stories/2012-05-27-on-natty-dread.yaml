@@ -11,21 +11,21 @@ ngrams:
 - - selassie
   - jah
   - rastafari
-- - rastafari
-  - similarly
-  - indirectly
 - - haile
   - selassie
   - jah
+- - rastafari
+  - similarly
+  - indirectly
 - - fruitless
   - conjecture
   - fruitlessness
-- - jah
-  - rastafari
-  - similarly
 - - ignores
   - emperor
   - haile
+- - jah
+  - rastafari
+  - similarly
 - - emperor
   - haile
   - selassie
@@ -56,30 +56,30 @@ ngrams:
 - - leavis
   - issued
   - dub
-- - canonical
-  - authors
-  - albeit
 - - regarding
   - haile
   - selassie
-- - issued
-  - dub
-  - versions
+- - canonical
+  - authors
+  - albeit
 - - conclusions
   - regarding
   - haile
+- - issued
+  - dub
+  - versions
 - - require
   - nine
   - typewriters
 - - tradition
   - wholly
   - ignores
-- - dub
-  - versions
-  - setting
 - - other's
   - hairy
   - coats
+- - dub
+  - versions
+  - setting
 - - jane
   - austen
   - george
@@ -125,15 +125,15 @@ ngrams:
 - - george
   - eliot
   - henry
-- - versions
-  - setting
-  - aside
 - - henry
   - james
   - joseph
 - - eliot
   - henry
   - james
+- - versions
+  - setting
+  - aside
 - - conrad
   - poor
   - demented
@@ -179,12 +179,12 @@ ngrams:
 - - occasional
   - rest
   - breaks
-- - waves
-  - lap
-  - against
 - - closer
   - attention
   - hoping
+- - waves
+  - lap
+  - against
 - - rasta
   - slumped
   - against
@@ -239,15 +239,15 @@ ngrams:
 - - great
   - tradition
   - wholly
-- - proper
-  - place
-  - atop
 - - again
   - emerging
   - empty
 - - find
   - stray
   - references
+- - proper
+  - place
+  - atop
 - - great
   - english
   - novelists
@@ -281,12 +281,12 @@ ngrams:
 - - witnessing
   - watching
   - our
-- - concerned
-  - once
-  - again
 - - our
   - monkeys
   - typing
+- - concerned
+  - once
+  - again
 - - where
   - emperor
   - haile
@@ -329,24 +329,24 @@ ngrams:
 - - any
   - trace
   - within
+- - our
+  - barrow
+  - under
 - - write
   - any
   - english
 - - thinking
   - any
   - less
-- - our
-  - barrow
-  - under
 - - these
   - people
   - wrote
-- - actually
-  - write
-  - any
 - - batty
   - rather
   - than
+- - actually
+  - write
+  - any
 - - rather
   - than
   - natty
@@ -356,9 +356,9 @@ ngrams:
 - - teensy
   - bit
   - more
-- - bit
-  - more
-  - cogently
+- - leavis
+  - can
+  - construct
 story:
   date: 2012-05-27
   id: 2012-05-27-on-natty-dread

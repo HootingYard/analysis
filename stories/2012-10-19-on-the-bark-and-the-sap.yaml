@@ -35,18 +35,18 @@ ngrams:
 - - conan
   - doyle
   - story
-- - doyle
-  - story
-  - silver
 - - blazing
   - sky
   - windswept
-- - story
+- - doyle
+  - story
   - silver
-  - blaze
 - - promontory
   - silhouetted
   - against
+- - story
+  - silver
+  - blaze
 - - essays
   - today
   - october
@@ -62,12 +62,12 @@ ngrams:
 - - development
   - late
   - enough
-- - comparatively
-  - later
-  - stage
 - - briefly
   - amused
   - myself
+- - comparatively
+  - later
+  - stage
 - - conscious
   - mind
   - became
@@ -119,12 +119,12 @@ ngrams:
 - - allow
   - those
   - blind
-- - these
-  - essays
-  - today
 - - tiny
   - enid
   - though
+- - these
+  - essays
+  - today
 - - tomfoolery
   - might
   - open
@@ -155,12 +155,12 @@ ngrams:
 - - almost
   - certainly
   - know
-- - bark
-  - then
-  - according
 - - alleyway
   - while
   - just
+- - bark
+  - then
+  - according
 - - could
   - rest
   - easier
@@ -203,24 +203,24 @@ ngrams:
 - - scent
   - who
   - should
-- - grasp
-  - when
-  - embarking
 - - goes
   - rampaging
   - about
-- - even
-  - those
-  - people
+- - grasp
+  - when
+  - embarking
 - - am
   - very
   - reluctant
-- - mental
-  - havoc
-  - into
+- - even
+  - those
+  - people
 - - lovely
   - calm
   - if
+- - mental
+  - havoc
+  - into
 - - your
   - conscious
   - mind
@@ -242,12 +242,6 @@ ngrams:
 - - crime
   - fiction
   - we
-- - calm
-  - if
-  - once
-- - come
-  - hopping
-  - into
 - - made
   - 'no'
   - mention
@@ -260,6 +254,12 @@ ngrams:
 - - cannot
   - remember
   - when
+- - calm
+  - if
+  - once
+- - come
+  - hopping
+  - into
 - - sap
   - don't
   - they
@@ -281,27 +281,27 @@ ngrams:
 - - already
   - so
   - closely
-- - should
-  - we
-  - choose
 - - early
   - so
   - early
 - - though
   - made
   - 'no'
+- - should
+  - we
+  - choose
 - - your
   - mind
   - back
 - - we
   - cannot
   - remember
-- - any
-  - precision
-  - when
 - - are
   - getting
   - somewhere
+- - any
+  - precision
+  - when
 - - which
   - malefactors
   - fell
@@ -347,12 +347,12 @@ ngrams:
 - - an
   - alien
   - brain
-- - duct
-  - through
-  - which
 - - very
   - early
   - so
+- - duct
+  - through
+  - which
 - - this
   - land
   - green

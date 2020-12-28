@@ -62,12 +62,12 @@ ngrams:
 - - money
   - please
   - frank
-- - please
-  - explain
-  - frank
 - - recruit
   - different
   - types
+- - please
+  - explain
+  - frank
 - - means
   - please
   - explain
@@ -77,12 +77,12 @@ ngrams:
 - - different
   - types
   - somewhere
-- - suggestions
-  - frank
-  - key
 - - vibrant
   - website
   - going
+- - suggestions
+  - frank
+  - key
 - - diverse
   - going
   - forward
@@ -92,12 +92,12 @@ ngrams:
 - - tips
   - frank
   - key
-- - explain
-  - frank
-  - key
 - - website
   - going
   - forward
+- - explain
+  - frank
+  - key
 - - lavish
   - grant
   - until
@@ -221,6 +221,9 @@ ngrams:
 - - pins
   - downing
   - our
+- - pins
+  - last
+  - night
 - - dear
   - mr
   - key
@@ -230,9 +233,6 @@ ngrams:
 - - dear
   - mr
   - key
-- - pins
-  - last
-  - night
 - - key
   - dear
   - mr
@@ -266,15 +266,15 @@ ngrams:
 - - clear
   - enough
   - mr
+- - good
+  - old
+  - natter
 - - any
   - suggestions
   - frank
 - - mr
   - key
   - 'yes'
-- - good
-  - old
-  - natter
 - - taken
   - how
   - frank
@@ -284,24 +284,24 @@ ngrams:
 - - how
   - frank
   - key
-- - enough
-  - mr
-  - key
 - - knowing
   - quite
   - how
+- - enough
+  - mr
+  - key
 - - people
   - however
   - while
 - - vibrant
   - initiatives
   - then
-- - discussing
-  - hooting
-  - yard
 - - point
   - taken
   - how
+- - discussing
+  - hooting
+  - yard
 - - mr
   - thurn
   - many
@@ -314,64 +314,161 @@ ngrams:
 story:
   date: 2012-10-26
   id: 2012-10-26-on-becoming-vibrant
-  text: "Dear Mr Key\n  Down the pub the other night--the Cow & Pins, if you want\
-    \ to know--me and my mates fell to discussing Hooting Yard. Though we broadly\
-    \ approve of your work, we all agreed that, going forward, you need to be more\
-    \ diverse 'n' vibrant, in keeping with the diversity 'n' vibrancy everybody keeps\
-    \ going on about these days. So what are you going to do about it, chummy?\n \
-    \ Tim Thurn\nDear Mr Thurn\n  Thank you for your measured letter. You may not\
-    \ have bothered to measure it before sending, but I took a tape measure to it\
-    \ as soon as I opened the envelope. It pains me to say it, but I suspect you are\
-    \ correct about the need to be more diverse 'n' vibrant. This is partly out of\
-    \ self-interest, as I am sure that if I could prove my diversity 'n' vibrancy\
-    \ I might become eligible for lots of grants from the kinds of organisations that\
-    \ hand out grants to diverse 'n' vibrant initiatives. Then I would be rolling\
-    \ in cash and could put my feet up while the diverse 'n' vibrant elves got on\
-    \ with all the hard work and drudgery that makes Hooting Yard such a well-loved\
-    \ community resource. I am stymied, however, by not knowing quite how to become\
-    \ diverse 'n' vibrant. Perhaps you and your mates could give me some tips?\n \
-    \ Frank Key\nDear Mr Key\n  We had a good old natter about your letter down at\
-    \ the Cow & Pins last night. We all agreed that elves were a good start if you\
-    \ intend to be more diverse going forward. A diverse intake of elves would be\
-    \ even better, so try to recruit different types. Somewhere there is a list of\
-    \ goblin types, and I'm sure you could adapt this for elves. Well done, and keep\
-    \ up the good work!\n  Tim Thurn\nDear Mr Thurn\n  I think you have misunderstood,\
-    \ perhaps wilfully, my earlier letter. I cannot afford to recruit a single elf\
-    \ until I get one of those lavish grants awarded to diverse 'n' vibrant community\
-    \ initiatives, but I can't get a lavish grant until I prove how diverse 'n' vibrant\
-    \ I am. What a dilemma! Please resolve it.\n  Frank Key\nDear Mr Key\n  I feel\
-    \ your pain, I really do. We all do, sat here in the snug of the Cow & Pins downing\
-    \ our pints. We had a long and detailed discussion about your case, and came to\
-    \ the view that you might be able to get a grant if you were vibrant. Then you\
-    \ could pay for some elves, and hey presto!, you'd be diverse too! Everybody wins.\n\
-    \  Tim Thurn\nDear Mr Thurn\n  Many thanks for your considered advice. I would\
-    \ act on it immediately if I had the merest clue of what 'vibrancy' consists,\
-    \ precisely. The word is bandied about willy-nilly, but I confess I have never\
-    \ understood what on earth it means. Please explain.\n  Frank Key\nDear Mr Key\n\
-    \  You don't need to know what it means, you just need to get with the programme,\
-    \ buster!\n  Tim Thurn\nDear Mr Thurn\n  Point taken. How?\n  Frank Key\nDear\
-    \ Mr Key\n  I hope the following information is of help. Costa Coffee planned\
-    \ to open a branch in Totnes, home of the vilified undertakers' mute. The company\
-    \ has now withdrawn from the fray after meeting objections from middle-class people.\
-    \ However, while their plans were still active, they issued a press statement\
-    \ saying they aimed \"to add to the vibrancy of the town and support the local\
-    \ community ... by adding vibrancy\". That is clear enough, Mr Key, so what's\
-    \ stopping you?\n  Tim Thurn\nDear Mr Thurn\n  Now I have received your latest\
-    \ letter, all that is stopping me from becoming vibrant is my woeful lack of design\
-    \ skills. If I had the wit, I would immediately change the logo at the top of\
-    \ the page to read \"Hooting Yard : A Website By Frank Key : Now With Added Vibrancy!\"\
-    \ (I thought the addition of the exclamation mark would be a particularly vibrant\
-    \ masterstroke.) If I understand you correctly, I could then apply for a grant,\
-    \ on the basis of my vibrancy, then use that money to employ a gaggle of elves,\
-    \ if of course 'gaggle' is the correct collective noun for plural elves. I would\
-    \ then be both diverse 'n' vibrant and money would pour in to my coffers. Is that\
-    \ right?\n  Frank Key\nDear Mr Key\n  Yes.\n  Tim Thurn\nDear Grant-Awarding Body\n\
-    \  Hooting Yard is a diverse 'n' vibrant website going forward. Can I have a large\
-    \ amount of money please?\n  Frank Key\nDear Mr Key\n  No you may not. In order\
-    \ to qualify for a grant, you must not only be diverse 'n' vibrant going forward\
-    \ but robust 'n' transparent to boot.\n  A. Git\nDear Mr Thurn\n  Please see the\
-    \ enclosed letter from A. Git. I have an intractable problem, in that I am both\
-    \ puny and opaque. Do you have any suggestions?\n  Frank Key\nBut answer came\
-    \ there none. . ."
+  text: 'Dear Mr Key
+
+    Down the pub the other night--the Cow & Pins, if you want to know--me and my mates
+    fell to discussing Hooting Yard. Though we broadly approve of your work, we all
+    agreed that, going forward, you need to be more diverse ''n'' vibrant, in keeping
+    with the diversity ''n'' vibrancy everybody keeps going on about these days. So
+    what are you going to do about it, chummy?
+
+    Tim Thurn
+
+    *
+
+    Dear Mr Thurn
+
+    Thank you for your measured letter. You may not have bothered to measure it before
+    sending, but I took a tape measure to it as soon as I opened the envelope. It
+    pains me to say it, but I suspect you are correct about the need to be more diverse
+    ''n'' vibrant. This is partly out of self-interest, as I am sure that if I could
+    prove my diversity ''n'' vibrancy I might become eligible for lots of grants from
+    the kinds of organisations that hand out grants to diverse ''n'' vibrant initiatives.
+    Then I would be rolling in cash and could put my feet up while the diverse ''n''
+    vibrant elves got on with all the hard work and drudgery that makes Hooting Yard
+    such a well-loved community resource. I am stymied, however, by not knowing quite
+    how to become diverse ''n'' vibrant. Perhaps you and your mates could give me
+    some tips?
+
+    Frank Key
+
+    *
+
+    Dear Mr Key
+
+    We had a good old natter about your letter down at the Cow & Pins last night.
+    We all agreed that elves were a good start if you intend to be more diverse going
+    forward. A diverse intake of elves would be even better, so try to recruit different
+    types. Somewhere there is a list of goblin types, and I''m sure you could adapt
+    this for elves. Well done, and keep up the good work!
+
+    Tim Thurn
+
+    *
+
+    Dear Mr Thurn
+
+    I think you have misunderstood, perhaps wilfully, my earlier letter. I cannot
+    afford to recruit a single elf until I get one of those lavish grants awarded
+    to diverse ''n'' vibrant community initiatives, but I can''t get a lavish grant
+    until I prove how diverse ''n'' vibrant I am. What a dilemma! Please resolve it.
+
+    Frank Key
+
+    *
+
+    Dear Mr Key
+
+    I feel your pain, I really do. We all do, sat here in the snug of the Cow & Pins
+    downing our pints. We had a long and detailed discussion about your case, and
+    came to the view that you might be able to get a grant if you were vibrant. Then
+    you could pay for some elves, and hey presto!, you''d be diverse too! Everybody
+    wins.
+
+    Tim Thurn
+
+    *
+
+    Dear Mr Thurn
+
+    Many thanks for your considered advice. I would act on it immediately if I had
+    the merest clue of what ''vibrancy'' consists, precisely. The word is bandied
+    about willy-nilly, but I confess I have never understood what on earth it means.
+    Please explain.
+
+    Frank Key
+
+    *
+
+    Dear Mr Key
+
+    You don''t need to know what it means, you just need to get with the programme,
+    buster!
+
+    Tim Thurn
+
+    *
+
+    Dear Mr Thurn
+
+    Point taken. How?
+
+    Frank Key
+
+    *
+
+    Dear Mr Key
+
+    I hope the following information is of help. Costa Coffee planned to open a branch
+    in Totnes, home of the vilified undertakers'' mute. The company has now withdrawn
+    from the fray after meeting objections from middle-class people. However, while
+    their plans were still active, they issued a press statement saying they aimed
+    "to add to the vibrancy of the town and support the local community ... by adding
+    vibrancy". That is clear enough, Mr Key, so what''s stopping you?
+
+    Tim Thurn
+
+    *
+
+    Dear Mr Thurn
+
+    Now I have received your latest letter, all that is stopping me from becoming
+    vibrant is my woeful lack of design skills. If I had the wit, I would immediately
+    change the logo at the top of the page to read "Hooting Yard : A Website By Frank
+    Key : Now With Added Vibrancy!" (I thought the addition of the exclamation mark
+    would be a particularly vibrant masterstroke.) If I understand you correctly,
+    I could then apply for a grant, on the basis of my vibrancy, then use that money
+    to employ a gaggle of elves, if of course ''gaggle'' is the correct collective
+    noun for plural elves. I would then be both diverse ''n'' vibrant and money would
+    pour in to my coffers. Is that right?
+
+    Frank Key
+
+    *
+
+    Dear Mr Key
+
+    Yes.
+
+    Tim Thurn
+
+    *
+
+    Dear Grant-Awarding Body
+
+    Hooting Yard is a diverse ''n'' vibrant website going forward. Can I have a large
+    amount of money please?
+
+    Frank Key
+
+    *
+
+    Dear Mr Key
+
+    No you may not. In order to qualify for a grant, you must not only be diverse
+    ''n'' vibrant going forward but robust ''n'' transparent to boot.
+
+    A. Git
+
+    *
+
+    Dear Mr Thurn
+
+    Please see the enclosed letter from A. Git. I have an intractable problem, in
+    that I am both puny and opaque. Do you have any suggestions?
+
+    Frank Key
+
+    But answer came there none . . .'
   title: On Becoming Vibrant
 word_count: 832

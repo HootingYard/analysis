@@ -5,15 +5,15 @@ ngrams:
 - - hello
   - miss
   - blossom
-- - speaking
-  - aloud
-  - announced
-- - announced
-  - miss
-  - blossom
 - - miss
   - blossom
   - paid
+- - announced
+  - miss
+  - blossom
+- - speaking
+  - aloud
+  - announced
 - - aloud
   - announced
   - miss
@@ -62,12 +62,12 @@ ngrams:
 - - she
   - immediately
   - squirrelled
-- - present
-  - hooting
-  - yard
 - - did
   - several
   - minutes
+- - present
+  - hooting
+  - yard
 - - took
   - myself
   - 'off'

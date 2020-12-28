@@ -1,7 +1,13 @@
 ngrams:
+- - england's
+  - drought
+  - draws
 - - daily
   - mail
   - spread
+- - drought
+  - draws
+  - attention
 - - present
   - daily
   - mail
@@ -59,12 +65,6 @@ ngrams:
 - - not
   - forget
   - either
-- - will
-  - last
-  - all
-- - smite
-  - do
-  - not
 story:
   date: 2012-03-14
   id: 2012-03-14-the-names-of-rivers

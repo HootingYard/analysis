@@ -23,12 +23,12 @@ ngrams:
 - - pinned
   - insect
   - keening
-- - frolicking
-  - happily
-  - chasing
 - - cane
   - chair
   - uncorked
+- - frolicking
+  - happily
+  - chasing
 - - sour
   - marzipan
   - pies
@@ -38,15 +38,15 @@ ngrams:
 - - hitherto
   - unknown
   - malady
+- - sighed
+  - sadly
+  - replaced
 - - hoon
   - undated
   - circular
 - - puppy
   - skipped
   - easily
-- - sighed
-  - sadly
-  - replaced
 - - hatched
   - innumerable
   - hopeless
@@ -56,12 +56,12 @@ ngrams:
 - - sorry
   - wreck
   - surviving
-- - chewed
-  - gaping
-  - holes
 - - anymore
   - carefully
   - gripping
+- - chewed
+  - gaping
+  - holes
 - - unspeakable
   - desolation
   - pouring
@@ -86,12 +86,12 @@ ngrams:
 - - vampire
   - bat
   - dangling
-- - horrendous
-  - hounds
-  - none
 - - invisible
   - quarry
   - accompanied
+- - horrendous
+  - hounds
+  - none
 - - uncle
   - nobby
   - episode
@@ -128,15 +128,15 @@ ngrams:
 - - hellhound
   - leaped
   - towards
-- - asked
-  - genuinely
-  - interested
 - - single
   - instantaneous
   - act
 - - bat
   - dangling
   - above
+- - asked
+  - genuinely
+  - interested
 - - stood
   - paralysed
   - half
@@ -248,12 +248,12 @@ ngrams:
 - - two
   - jaunty
   - headstones
-- - throughout
-  - these
-  - tormented
 - - again
   - slap
   - eyes
+- - throughout
+  - these
+  - tormented
 - - quite
   - rid
   - myself
@@ -305,12 +305,12 @@ ngrams:
 - - tears
   - streaming
   - down
-- - found
-  - myself
-  - face
 - - garden
   - knocking
   - over
+- - found
+  - myself
+  - face
 - - tried
   - once
   - again
@@ -323,12 +323,12 @@ ngrams:
 - - scraps
   - these
   - days
-- - house
-  - ever
-  - since
 - - october
   - morning
   - never
+- - house
+  - ever
+  - since
 - - remotely
   - practicable
   - now
@@ -413,12 +413,12 @@ ngrams:
 - - claim
   - any
   - great
-- - become
-  - more
-  - tolerant
 - - ever
   - come
   - across
+- - become
+  - more
+  - tolerant
 - - sane
   - person
   - could
@@ -431,12 +431,12 @@ ngrams:
 - - him
   - comfort
   - tears
-- - laid
-  - him
-  - waste
 - - ponds
   - hiding
   - them
+- - laid
+  - him
+  - waste
 - - hounds
   - who
   - tore
@@ -470,15 +470,15 @@ ngrams:
 - - replaced
   - their
   - instruments
+- - streaming
+  - down
+  - our
 - - him
   - lie
   - face
 - - sadly
   - replaced
   - their
-- - streaming
-  - down
-  - our
 - - down
   - our
   - cheeks
@@ -500,12 +500,12 @@ ngrams:
 - - stood
   - up
   - shook
-- - their
-  - bags
-  - stood
 - - certainly
   - 'no'
   - patch
+- - their
+  - bags
+  - stood
 - - bags
   - stood
   - up
@@ -521,18 +521,18 @@ ngrams:
 - - tantrums
   - thrashing
   - about
-- - been
-  - secreted
-  - inside
 - - anecdote
   - about
   - rufus
-- - now
-  - took
-  - every
 - - sparkling
   - anecdote
   - about
+- - been
+  - secreted
+  - inside
+- - now
+  - took
+  - every
 - - her
   - spidery
   - way
@@ -548,6 +548,9 @@ ngrams:
 - - ferocious
   - loyalty
   - if
+- - talking
+  - about
+  - goats
 - - mother's
   - antics
   - were
@@ -560,21 +563,18 @@ ngrams:
 - - finances
   - were
   - low
-- - talking
-  - about
-  - goats
 - - into
   - ponds
   - hiding
 - - pies
   - were
   - eaten
-- - were
-  - fairly
-  - amusing
 - - original
   - crate
   - when
+- - were
+  - fairly
+  - amusing
 - - mother
   - clambered
   - into
@@ -602,12 +602,12 @@ ngrams:
 - - could
   - now
   - treat
-- - work
-  - been
-  - paid
 - - helping
   - me
   - strangle
+- - work
+  - been
+  - paid
 - - lawn
   - imagining
   - all
@@ -617,15 +617,15 @@ ngrams:
 - - imagining
   - all
   - sorts
-- - person
-  - could
-  - even
-- - they
-  - sighed
-  - sadly
 - - process
   - all
   - sorts
+- - they
+  - sighed
+  - sadly
+- - person
+  - could
+  - even
 - - unknown
   - malady
   - they
@@ -635,18 +635,18 @@ ngrams:
 - - feet
   - fixing
   - me
-- - innards
-  - we
-  - wrapped
 - - what
   - happened
   - next
-- - themselves
-  - they
-  - ganged
+- - innards
+  - we
+  - wrapped
 - - pest
   - will
   - put
+- - themselves
+  - they
+  - ganged
 - - their
   - many
   - dogs
@@ -662,15 +662,15 @@ ngrams:
 - - give
   - me
   - pause
+- - half
+  - way
+  - up
+- - half
+  - way
+  - up
 - - memoirs
   - go
   - into
-- - half
-  - way
-  - up
-- - half
-  - way
-  - up
 - - been
   - paid
   - 'off'
@@ -698,18 +698,18 @@ ngrams:
 - - will
   - ask
   - why
-- - another
-  - they
-  - sighed
 - - we
   - fled
   - across
-- - among
-  - themselves
+- - another
   - they
+  - sighed
 - - longer
   - called
   - me
+- - among
+  - themselves
+  - they
 - - little
   - pest
   - will
@@ -740,33 +740,33 @@ ngrams:
 - - century
   - perhaps
   - there
-- - him
-  - cradling
-  - him
 - - which
   - sometimes
   - lasted
-- - drooling
-  - which
-  - sometimes
-- - were
-  - low
-  - even
 - - think
   - me
   - cruel
-- - away
-  - we
-  - fled
+- - drooling
+  - which
+  - sometimes
+- - him
+  - cradling
+  - him
+- - were
+  - low
+  - even
 - - years
   - all
   - sorts
-- - been
-  - mislaid
-  - she
+- - away
+  - we
+  - fled
 - - stop
   - being
   - all
+- - been
+  - mislaid
+  - she
 - - an
   - equal
   - footing
@@ -776,21 +776,21 @@ ngrams:
 - - happily
   - chasing
   - an
-- - myself
-  - if
-  - just
 - - chasing
   - an
   - invisible
 - - an
   - invisible
   - quarry
-- - they
-  - might
-  - scrap
+- - myself
+  - if
+  - just
 - - pantechnicon
   - one
   - frosty
+- - they
+  - might
+  - scrap
 - - an
   - afternoon
   - cursing
@@ -812,18 +812,18 @@ ngrams:
 - - threatened
   - one
   - afternoon
-- - into
-  - more
-  - detail
-- - one
-  - afternoon
-  - shortly
-- - however
-  - much
-  - they
 - - her
   - talking
   - about
+- - one
+  - afternoon
+  - shortly
+- - into
+  - more
+  - detail
+- - however
+  - much
+  - they
 - - didn't
   - know
   - we
@@ -935,7 +935,7 @@ story:
     from her, and almost dropped the Mop-bottle from my lap. The page was covered
     with Mister Patch''s handwriting: Vug, 23rd June 18--, maroon hexagon with badly-inked
     stipples; Hoon, undated, circular emblem of oil-lantern with flags; Mins, ? March
-    18--, blue triangle, slightly mildewed, with double-printed lozenge....
+    18--, blue triangle, slightly mildewed, with double-printed lozenge...
 
     I did not need to read anymore. Carefully gripping the bottle between my ankles,
     I shouted wildly at my mother.

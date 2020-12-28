@@ -14,12 +14,12 @@ ngrams:
 - - plane
   - ticket
   - manchester
-- - personal
-  - habits
-  - disgusting
 - - invisible
   - fiends
   - unleashed
+- - personal
+  - habits
+  - disgusting
 - - reader's
   - digest
   - flapping
@@ -122,24 +122,24 @@ ngrams:
 - - getting
   - sloshed
   - while
-- - article
-  - written
-  - perhaps
 - - chap
   - though
   - don't
+- - article
+  - written
+  - perhaps
 - - chaps
   - ran
   - away
+- - though
+  - don't
+  - forget
 - - ran
   - away
   - screaming
 - - albino
   - wriggling
   - being
-- - though
-  - don't
-  - forget
 - - away
   - screaming
   - yesterday
@@ -164,12 +164,12 @@ ngrams:
 - - thank
   - god
   - said
-- - get
-  - any
-  - worse
 - - might
   - well
   - contain
+- - get
+  - any
+  - worse
 - - possibly
   - get
   - any
@@ -194,12 +194,12 @@ ngrams:
 - - satraps
   - rose
   - up
-- - their
-  - european
-  - cup
 - - sausage
   - 'no'
   - wonder
+- - their
+  - european
+  - cup
 - - text
   - has
   - become
@@ -263,24 +263,24 @@ ngrams:
 - - wondered
   - if
   - things
-- - never
-  - been
-  - discovered
 - - gale
   - so
   - terrific
+- - never
+  - been
+  - discovered
 - - manchester
   - united
   - are
 - - wriggling
   - being
   - out
-- - who
-  - went
-  - down
 - - united
   - are
   - flying
+- - who
+  - went
+  - down
 - - reader's
   - digest
   - which
@@ -323,12 +323,12 @@ ngrams:
 - - so
   - many
   - kittens
-- - invent
-  - did
-  - they
 - - muffled
   - one
   - particularly
+- - invent
+  - did
+  - they
 - - drowned
   - so
   - many
@@ -350,6 +350,9 @@ ngrams:
 - - had
   - fallen
   - victim
+- - bog
+  - or
+  - beaker
 - - who
   - were
   - helping
@@ -359,18 +362,15 @@ ngrams:
 - - chaps
   - who
   - were
-- - bog
-  - or
-  - beaker
 - - doctor
   - or
   - exorcist
 - - qualified
   - doctor
   - or
-- - they
-  - tied
-  - him
+- - or
+  - beaker
+  - person
 story:
   date: 2012-10-05
   id: 2012-10-05-on-the-mummys-curse

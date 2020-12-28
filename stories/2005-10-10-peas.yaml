@@ -23,18 +23,18 @@ ngrams:
 - - bart's
   - musical
   - oliver
-- - expensive
-  - price
-  - townspeople
 - - musical
   - oliver
   - persistent
-- - insanely
-  - expensive
+- - expensive
   - price
+  - townspeople
 - - literary
   - gem
   - gerard
+- - insanely
+  - expensive
+  - price
 - - canadian
   - forestry
   - service
@@ -95,12 +95,12 @@ ngrams:
 - - shouted
   - repeatedly
   - throughout
-- - unexpected
-  - metal
-  - drum
 - - mud
   - vinegar
   - ectoplasm
+- - unexpected
+  - metal
+  - drum
 - - forestry
   - service
   - boots
@@ -140,21 +140,21 @@ ngrams:
 - - become
   - useful
   - tools
-- - beyond
-  - pang
-  - hill
 - - travelling
   - drum
   - person
+- - beyond
+  - pang
+  - hill
 - - black
   - coat
   - stuck
-- - cold
-  - hard
-  - edge
 - - edible
   - sphere
   - called
+- - cold
+  - hard
+  - edge
 - - they're
   - small
   - green
@@ -164,12 +164,12 @@ ngrams:
 - - clouds
   - scudded
   - across
-- - field
-  - beyond
-  - pang
 - - high
   - regard
   - oh
+- - field
+  - beyond
+  - pang
 - - vim
   - enwrapped
   - himself
@@ -182,12 +182,12 @@ ngrams:
 - - another
   - victorian
   - literary
-- - left
-  - directly
-  - outside
 - - patients
   - should
   - spend
+- - left
+  - directly
+  - outside
 - - planned
   - pea
   - book
@@ -200,18 +200,18 @@ ngrams:
 - - suggested
   - doing
   - both
-- - another
-  - hour
-  - leaning
 - - big
   - black
   - coat
-- - former's
-  - diet
-  - too
 - - repeated
   - phrase
   - come
+- - another
+  - hour
+  - leaning
+- - former's
+  - diet
+  - too
 - - takes
   - each
   - planet
@@ -284,18 +284,18 @@ ngrams:
 - - vicinity
   - said
   - later
-- - hooting
-  - yard
-  - there's
-- - dobson
-  - once
-  - planned
 - - force
   - because
   - dobson
+- - dobson
+  - once
+  - planned
 - - seen
   - upon
   - discovering
+- - hooting
+  - yard
+  - there's
 - - dobson's
   - driveway
   - then
@@ -305,12 +305,12 @@ ngrams:
 - - risk
   - peas
   - can
-- - such
-  - force
-  - because
 - - observation
   - some
   - doctors
+- - such
+  - force
+  - because
 - - pamphleteer
   - dobson
   - once
@@ -320,33 +320,33 @@ ngrams:
 - - leg
   - why
   - did
-- - dobson
-  - howled
-  - many
 - - course
   - let
   - us
-- - spaceman
-  - who
-  - coined
+- - dobson
+  - howled
+  - many
 - - peas
   - can
   - become
-- - why
-  - did
-  - dobson's
+- - spaceman
+  - who
+  - coined
 - - piece
   - wrote
   - other
+- - why
+  - did
+  - dobson's
 - - k
   - spaceman
   - who
-- - machine
-  - telling
-  - him
 - - can
   - become
   - useful
+- - machine
+  - telling
+  - him
 - - pig
   - observation
   - some
@@ -359,12 +359,12 @@ ngrams:
 - - clattering
   - behind
   - him
-- - unfounded
-  - did
-  - dobson
 - - sing
   - their
   - praises
+- - unfounded
+  - did
+  - dobson
 - - metal
   - drum
   - 'no'
@@ -386,24 +386,24 @@ ngrams:
 - - 'no'
   - longer
   - bear
+- - talking
+  - about
+  - peas
 - - person
   - who
   - ought
 - - your
   - body
   - mass
-- - talking
-  - about
-  - peas
 - - peas
   - has
   - long
 - - person
   - could
   - say
-- - been
-  - left
-  - directly
+- - anything
+  - special
+  - about
 story:
   date: 2005-10-10
   id: 2005-10-10-peas

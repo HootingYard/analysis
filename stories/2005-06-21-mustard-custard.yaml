@@ -47,12 +47,12 @@ ngrams:
 - - descending
   - order
   - each
-- - order
-  - each
-  - player
 - - pitch
   - darkness
   - while
+- - order
+  - each
+  - player
 - - precisely
   - three
   - hours

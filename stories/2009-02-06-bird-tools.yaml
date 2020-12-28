@@ -14,12 +14,12 @@ ngrams:
 - - credit
   - crunchy
   - mongers
-- - bolts
-  - lapwing
-  - nozzles
 - - lark
   - basins
   - coot
+- - bolts
+  - lapwing
+  - nozzles
 - - lapwing
   - nozzles
   - lark
@@ -44,21 +44,21 @@ ngrams:
 - - pins
   - bittern
   - jacks
-- - clips
-  - teal
-  - pins
 - - bittern
   - jacks
   - snow
 - - jacks
   - snow
   - bunting
-- - teal
+- - clips
+  - teal
   - pins
-  - bittern
 - - snow
   - bunting
   - tacks
+- - teal
+  - pins
+  - bittern
 story:
   date: 2009-02-06
   id: 2009-02-06-bird-tools

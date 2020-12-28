@@ -20,12 +20,12 @@ ngrams:
 - - comparisons
   - lopped
   - pol
-- - sensory
-  - deprivation
-  - tank
 - - schema
   - potter's
   - duffel
+- - sensory
+  - deprivation
+  - tank
 - - smudge
   - voltage
   - statistics
@@ -44,6 +44,9 @@ ngrams:
 - - knot
   - schema
   - potter's
+- - menu
+  - fatal
+  - microbes
 - - atomic
   - sackcloth
   - scrap
@@ -53,15 +56,12 @@ ngrams:
 - - statistics
   - unsullied
   - napkin
-- - menu
-  - fatal
-  - microbes
-- - abstruse
-  - cataloguing
-  - systems
 - - diagrams
   - logistic
   - equations
+- - abstruse
+  - cataloguing
+  - systems
 - - fatal
   - microbes
   - winnipeg
@@ -101,12 +101,12 @@ ngrams:
 - - animal
   - families
   - crystal
-- - card
-  - index
-  - maintained
 - - doom
   - pointless
   - scribblings
+- - card
+  - index
+  - maintained
 - - statistics
   - musical
   - phrases
@@ -116,27 +116,27 @@ ngrams:
 - - unhinged
   - fantasies
   - regarding
-- - dinner
-  - menu
-  - fatal
 - - remote
   - canteen
   - gunshot
+- - dinner
+  - menu
+  - fatal
 - - bell
   - ringing
   - sandwich
-- - clues
-  - littered
-  - throughout
 - - characteristics
   - fossil
   - remains
-- - sandwich
-  - paste
-  - reviews
 - - lemon
   - meringue
   - pie
+- - clues
+  - littered
+  - throughout
+- - sandwich
+  - paste
+  - reviews
 - - wholly
   - imaginary
   - registers
@@ -146,21 +146,18 @@ ngrams:
 - - schubert's
   - grave
   - mezzotint
-- - latch
-  - pins
-  - bolt
 - - lopped
   - pol
   - pot
 - - emerged
   - hopelessly
   - bonkers
+- - latch
+  - pins
+  - bolt
 - - immense
   - card
   - index
-- - scrap
-  - latch
-  - pins
 - - feathers
   - stalin
   - brooch
@@ -170,21 +167,24 @@ ngrams:
 - - rent
   - stuff
   - widow's
-- - mountain
-  - climbing
-  - translated
+- - scrap
+  - latch
+  - pins
 - - widow's
   - buttons
   - tips
+- - mountain
+  - climbing
+  - translated
 - - analysis
   - starling
   - feathers
-- - nissen
-  - hut
-  - pointing
 - - starling
   - feathers
   - stalin
+- - nissen
+  - hut
+  - pointing
 - - paste
   - reviews
   - drawing
@@ -227,21 +227,21 @@ ngrams:
 - - innumerable
   - cardboard
   - boxes
-- - monkeys
-  - periodic
-  - table
 - - potter's
   - duffel
   - bag
-- - cost
-  - involving
-  - blood
 - - hat
   - measurements
   - imaginary
 - - duffel
   - bag
   - toggle
+- - monkeys
+  - periodic
+  - table
+- - cost
+  - involving
+  - blood
 - - huts
   - whether
   - nissen
@@ -299,12 +299,12 @@ ngrams:
 - - wandering
   - around
   - various
-- - every
-  - available
-  - surface
 - - pig
   - brain
   - diagram
+- - every
+  - available
+  - surface
 - - adding
   - new
   - cards
@@ -338,12 +338,12 @@ ngrams:
 - - great
   - pyramid
   - brain
-- - ever
-  - since
-  - researchers
 - - first
   - privately
   - shouting
+- - ever
+  - since
+  - researchers
 - - index
   - cards
   - after
@@ -371,18 +371,18 @@ ngrams:
 - - its
   - characteristics
   - fossil
-- - print
-  - pamphlets
-  - dobson
 - - cannot
   - say
   - whether
-- - few
-  - days
-  - later
+- - print
+  - pamphlets
+  - dobson
 - - being
   - carted
   - around
+- - few
+  - days
+  - later
 - - its
   - precious
   - contents
@@ -398,12 +398,12 @@ ngrams:
 - - life
   - studying
   - dobson
-- - dobson
-  - world
-  - tour
 - - upon
   - hours
   - arranging
+- - dobson
+  - world
+  - tour
 - - its
   - lost
   - glory
@@ -416,12 +416,12 @@ ngrams:
 - - spent
   - hours
   - upon
-- - how
-  - many
-  - index
 - - guess
   - how
   - many
+- - how
+  - many
+  - index
 - - dobson
   - himself
   - wrote
@@ -446,15 +446,15 @@ ngrams:
 - - only
   - guess
   - how
-- - because
-  - dobson
-  - himself
 - - course
   - its
   - existence
 - - cataloguing
   - systems
   - 'no'
+- - because
+  - dobson
+  - himself
 - - doesn't
   - stop
   - them

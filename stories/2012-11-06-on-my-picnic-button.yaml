@@ -29,30 +29,30 @@ ngrams:
 - - containing
   - grey
   - mullet
-- - carrier
-  - bags
-  - containing
 - - merchants
   - containing
   - grey
 - - entire
   - worldly
   - goods
+- - carrier
+  - bags
+  - containing
 - - leaflet
   - containing
   - advice
 - - brown
   - envelopes
   - empty
-- - containing
-  - snow
-  - bunting
 - - picnic
   - historian
   - fired
 - - newly
   - acquired
   - picnic
+- - containing
+  - snow
+  - bunting
 - - envelope
   - containing
   - bits
@@ -68,12 +68,12 @@ ngrams:
 - - slate
   - pen
   - various
-- - various
-  - brown
-  - envelopes
 - - heirloom
   - picnic
   - button
+- - various
+  - brown
+  - envelopes
 - - acquired
   - picnic
   - button
@@ -176,18 +176,18 @@ ngrams:
 - - gigantic
   - wicker
   - man
-- - picnic
-  - blanket
-  - before
 - - might
   - otherwise
   - grasp
-- - button
-  - any
-  - swooping
+- - picnic
+  - blanket
+  - before
 - - lost
   - many
   - buttons
+- - button
+  - any
+  - swooping
 - - any
   - swooping
   - crow
@@ -239,42 +239,42 @@ ngrams:
 - - been
   - comprehensively
   - demolished
-- - their
-  - number
-  - matched
 - - 'no'
   - longer
   - clear
+- - their
+  - number
+  - matched
 - - controversy
   - has
   - yet
-- - glitter
-  - were
-  - designed
 - - rare
   - occasions
   - when
+- - glitter
+  - were
+  - designed
 - - about
   - lost
   - buttons
 - - all
   - etiquette
   - everybody
-- - interwar
-  - years
-  - 'no'
 - - written
   - about
   - lost
 - - interwar
   - years
+  - 'no'
+- - interwar
+  - years
   - their
-- - years
-  - their
-  - exact
 - - will
   - investigate
   - further
+- - years
+  - their
+  - exact
 - - carrier
   - bags
   - we
@@ -353,6 +353,12 @@ ngrams:
 - - button
   - would
   - only
+- - many
+  - buttons
+  - so
+- - buttons
+  - so
+  - many
 - - apart
   - this
   - collection
@@ -362,15 +368,9 @@ ngrams:
 - - has
   - been
   - comprehensively
-- - many
-  - buttons
-  - so
-- - buttons
-  - so
-  - many
-- - picnic
-  - button
-  - this
+- - are
+  - two
+  - rival
 story:
   date: 2012-11-06
   id: 2012-11-06-on-my-picnic-button

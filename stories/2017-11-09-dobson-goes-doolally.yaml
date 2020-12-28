@@ -38,12 +38,12 @@ ngrams:
 - - pantry
   - pantry
   - larder
-- - fat
-  - beetle
-  - scuttling
 - - armed
   - security
   - guards
+- - fat
+  - beetle
+  - scuttling
 - - notary
   - public's
   - boots
@@ -134,12 +134,12 @@ ngrams:
 - - wild
   - wet
   - sea
-- - choc
-  - ice
-  - around
 - - pier
   - while
   - taunted
+- - choc
+  - ice
+  - around
 - - effect
   - while
   - rubbing
@@ -185,12 +185,12 @@ ngrams:
 - - beetle
   - scuttling
   - through
-- - feather
-  - after
-  - signing
 - - nothing
   - else
   - does
+- - feather
+  - after
+  - signing
 - - man's
   - little
   - monkey
@@ -212,15 +212,15 @@ ngrams:
 - - see
   - nothing
   - save
-- - seaside
-  - police
-  - dobson
-- - every
-  - particular
-  - yet
 - - slip
   - away
   - perhaps
+- - every
+  - particular
+  - yet
+- - seaside
+  - police
+  - dobson
 - - strangled
   - eel
   - upon
@@ -236,24 +236,24 @@ ngrams:
 - - never
   - quite
   - hear
-- - found
-  - dobson
-  - sprawled
 - - now
   - early
   - evening
+- - found
+  - dobson
+  - sprawled
 - - being
   - blown
   - away
 - - wet
   - sea
   - where
-- - rather
-  - than
-  - sink
 - - other
   - essays
   - together
+- - rather
+  - than
+  - sink
 - - little
   - man's
   - little
@@ -329,18 +329,18 @@ ngrams:
 - - your
   - foreign
   - guttural
-- - years
-  - convinced
-  - she
 - - incidentally
   - your
   - husband
-- - another
-  - patient
-  - who
+- - years
+  - convinced
+  - she
 - - smile
   - playing
   - about
+- - another
+  - patient
+  - who
 - - up
   - neatly
   - along
@@ -356,51 +356,51 @@ ngrams:
 - - could
   - see
   - nothing
-- - haven't
-  - been
-  - able
 - - your
   - help
   - please
-- - than
-  - sink
-  - then
 - - many
   - many
   - many
-- - boots
-  - were
-  - lined
+- - than
+  - sink
+  - then
+- - haven't
+  - been
+  - able
 - - socks
   - were
   - wet
+- - boots
+  - were
+  - lined
 - - after
   - signing
   - some
-- - shake
-  - him
-  - 'off'
 - - will
   - surely
   - alleviate
-- - can't
-  - see
+- - shake
   - him
+  - 'off'
 - - symptoms
   - will
   - surely
+- - can't
+  - see
+  - him
 - - need
   - your
   - help
-- - dobson
-  - claimed
-  - him
-- - morning
-  - tucking
-  - into
 - - bake
   - me
   - pie
+- - morning
+  - tucking
+  - into
+- - dobson
+  - claimed
+  - him
 - - might
   - bring
   - him
@@ -410,15 +410,15 @@ ngrams:
 - - can
   - never
   - quite
+- - me
+  - pie
+  - i'm
 - - who
   - spent
   - many
 - - towels
   - they
   - seem
-- - me
-  - pie
-  - i'm
 - - help
   - dobson
   - has
@@ -434,12 +434,12 @@ ngrams:
 - - follow
   - me
   - god
-- - slip
-  - away
-  - if
 - - me
   - god
   - knows
+- - slip
+  - away
+  - if
 - - noticed
   - 'no'
   - such
@@ -458,12 +458,12 @@ ngrams:
 - - who
   - could
   - easily
-- - dobson
-  - gazed
-  - into
 - - your
   - help
   - dobson
+- - dobson
+  - gazed
+  - into
 - - him
   - 'off'
   - these
@@ -482,12 +482,12 @@ ngrams:
 - - little
   - man
   - who
-- - asked
-  - dobson
-  - if
 - - an
   - uncompromising
   - vertical
+- - asked
+  - dobson
+  - if
 - - an
   - injured
   - seagull
@@ -527,27 +527,24 @@ ngrams:
 - - has
   - been
   - following
-- - man
-  - who
-  - could
 - - this
   - morning
   - tucking
+- - man
+  - who
+  - could
 - - or
   - eats
   - linen
 - - eats
   - linen
   - or
-- - hammer
-  - blow
-  - had
 - - linen
   - or
   - monkeys
-- - police
+- - hammer
+  - blow
   - had
-  - removed
 - - dark
   - or
   - eats
@@ -557,18 +554,21 @@ ngrams:
 - - breakfast
   - this
   - morning
+- - police
+  - had
+  - removed
 - - dr
   - fang
   - or
 - - were
   - lined
   - up
-- - had
-  - towards
-  - midday
 - - shoe
   - cupboard
   - but
+- - are
+  - now
+  - soaked
 story:
   date: 2017-11-09
   id: 2017-11-09-dobson-goes-doolally

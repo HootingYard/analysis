@@ -20,9 +20,6 @@ ngrams:
 - - almost
   - pathological
   - loathing
-- - gudgeon
-  - don't
-  - forget
 - - inhabitants
   - whose
   - gulls
@@ -68,9 +65,6 @@ ngrams:
 - - such
   - medic
   - whose
-- - hooting
-  - yard
-  - emporium
 - - stand
   - well
   - back
@@ -83,9 +77,6 @@ ngrams:
 - - who
   - keep
   - seagulls
-- - new
-  - hooting
-  - yard
 - - any
   - idea
   - how
@@ -101,12 +92,12 @@ ngrams:
 - - people
   - who
   - keep
-- - certain
-  - people
-  - who
 - - seagulls
   - will
   - shred
+- - certain
+  - people
+  - who
 - - more
   - than
   - access
@@ -128,6 +119,12 @@ ngrams:
 - - what
   - shines
   - through
+- - exercises
+  - are
+  - designed
+- - are
+  - wearing
+  - protective
 story:
   date: 2004-11-17
   id: 2004-11-17-practical-seagull-exercises
@@ -160,8 +157,6 @@ story:
     and have removed all traces of fish-odour from yourself by bathing in lemon juice,
     or alternatively keeping as far away from the harbour as you can, especially at
     those times when the fishing boats come in to port with their catch of sprats
-    and gudgeon.
-
-    Don''t forget to visit the new Hooting Yard Emporium!'
+    and gudgeon.'
   title: Practical Seagull Exercises
-word_count: 351
+word_count: 342

@@ -44,15 +44,15 @@ ngrams:
 - - bonkers
   - dietary
   - regime
-- - thread
-  - ostensibly
-  - designed
 - - cornflakes
   - hedge
   - clippings
 - - clippings
   - roast
   - potatoes
+- - thread
+  - ostensibly
+  - designed
 - - roast
   - potatoes
   - cabbage
@@ -101,15 +101,15 @@ ngrams:
 - - swiss
   - roll
   - greasy
-- - lanky
-  - runner
-  - including
 - - red
   - thread
   - ostensibly
 - - weather
   - challenge
   - ribbon
+- - lanky
+  - runner
+  - including
 - - toffee
   - apple
   - dinner
@@ -146,27 +146,27 @@ ngrams:
 - - partridge
   - pie
   - milk
-- - cow
-  - brand
-  - processed
-- - cow
-  - brand
-  - processed
 - - fictional
   - athlete
   - tuck
-- - laughing
-  - cow
+- - cow
   - brand
-- - laughing
-  - cow
+  - processed
+- - cow
   - brand
+  - processed
 - - spindly
   - fictional
   - athlete
 - - vegan
   - pig
   - substitute
+- - laughing
+  - cow
+  - brand
+- - laughing
+  - cow
+  - brand
 - - certain
   - hectoring
   - tone
@@ -212,15 +212,15 @@ ngrams:
 - - took
   - fictional
   - athlete
-- - yard
-  - sprint
-  - practice
-- - bobsleighing
-  - years
-  - backing
 - - cognac
   - two
   - bowls
+- - bobsleighing
+  - years
+  - backing
+- - yard
+  - sprint
+  - practice
 - - active
   - bobsleighing
   - years
@@ -236,12 +236,12 @@ ngrams:
 - - fictional
   - athlete's
   - most
-- - much
-  - press
-  - coverage
 - - little
   - red
   - thread
+- - much
+  - press
+  - coverage
 - - knocked
   - seconds
   - 'off'
@@ -260,18 +260,18 @@ ngrams:
 - - five
   - hundred
   - yard
-- - sputum
-  - dribbling
-  - down
-- - devoted
-  - many
-  - pages
 - - two
   - big
   - tumblers
+- - devoted
+  - many
+  - pages
 - - michael
   - phelps
   - may
+- - sputum
+  - dribbling
+  - down
 - - these
   - memories
   - almost
@@ -389,12 +389,12 @@ ngrams:
 - - could
   - make
   - head
-- - been
-  - much
-  - press
 - - unbearably
   - moving
   - so
+- - been
+  - much
+  - press
 story:
   date: 2008-08-17
   id: 2008-08-17-food-for-sport

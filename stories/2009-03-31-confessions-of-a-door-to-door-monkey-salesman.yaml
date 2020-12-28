@@ -1,10 +1,10 @@
 ngrams:
-- - hero's
-  - defective
-  - spectacles
 - - plausible
   - optic
   - rascal
+- - hero's
+  - defective
+  - spectacles
 - - hamsters
   - surviving
   - journeys
@@ -26,12 +26,12 @@ ngrams:
 - - court
   - sipping
   - cocoa
-- - stream
-  - surfaced
-  - alongside
 - - handwriting
   - samples
   - maps
+- - stream
+  - surfaced
+  - alongside
 - - equally
   - plausible
   - optic
@@ -44,9 +44,6 @@ ngrams:
 - - cocoa
   - preparation
   - heading
-- - adoptive
-  - parents
-  - perished
 - - british
   - sex
   - comedy
@@ -56,6 +53,9 @@ ngrams:
 - - kindly
   - retired
   - vicar
+- - adoptive
+  - parents
+  - perished
 - - holding
   - court
   - sipping
@@ -68,12 +68,12 @@ ngrams:
 - - mine
   - aren't
   - getting
-- - fat
-  - bulging
-  - leaves
 - - monkey
   - salesman
   - starting
+- - fat
+  - bulging
+  - leaves
 - - peaceable
   - intelligent
   - pigs
@@ -101,51 +101,51 @@ ngrams:
 - - monkey
   - compound
   - canteen
-- - monkey
-  - rental
-  - money
 - - headed
   - monkey
   - rascal
+- - monkey
+  - rental
+  - money
 - - thumbs
   - seven
   - fingers
-- - trudging
-  - faithfully
-  - following
 - - macabre
   - village
   - wisely
-- - bucolic
-  - dilapidation
-  - became
+- - trudging
+  - faithfully
+  - following
 - - pigs
   - ran
   - amok
+- - bucolic
+  - dilapidation
+  - became
 - - high
   - metabolic
   - rate
 - - freakish
   - human
   - anomalies
-- - dilapidation
-  - became
-  - utter
 - - comedy
   - film
   - starring
 - - sex
   - comedy
   - film
+- - dilapidation
+  - became
+  - utter
 - - describing
   - freakish
   - human
-- - local
-  - newspaper
-  - described
 - - film
   - starring
   - robin
+- - local
+  - newspaper
+  - described
 - - s
   - british
   - sex
@@ -186,41 +186,41 @@ ngrams:
   - farm
   - responsibility
 - - pig
-  - farming
-  - parents
-- - pig
   - farm
   - afternoons
-- - conservatory
-  - among
-  - dripping
 - - obliterated
   - pig
   - farm
-- - between
-  - manchester
-  - united
+- - pig
+  - farming
+  - parents
+- - conservatory
+  - among
+  - dripping
 - - pig
   - farmer's
   - wife
+- - between
+  - manchester
+  - united
+- - dilapidated
+  - pig
+  - farm
+- - dilapidated
+  - pig
+  - farm
+- - dilapidated
+  - pig
+  - farm
 - - adoptive
   - parents
   - told
-- - dilapidated
-  - pig
-  - farm
-- - dilapidated
-  - pig
-  - farm
-- - dilapidated
-  - pig
-  - farm
-- - among
-  - dripping
-  - plants
 - - deceased
   - pig
   - farmer
+- - among
+  - dripping
+  - plants
 - - full
   - contact
   - details
@@ -254,12 +254,12 @@ ngrams:
 - - monkey
   - salesman
   - given
-- - another
-  - brazil
-  - nut
 - - dead
   - adoptive
   - pig
+- - another
+  - brazil
+  - nut
 - - trained
   - monkeys
   - took
@@ -356,18 +356,18 @@ ngrams:
 - - our
   - hero's
   - defective
+- - supplied
+  - our
+  - hero's
+- - happily
+  - ever
+  - since
 - - much
   - else
   - besides
 - - few
   - pigs
   - left
-- - happily
-  - ever
-  - since
-- - supplied
-  - our
-  - hero's
 - - ever
   - since
   - fed
@@ -401,24 +401,24 @@ ngrams:
 - - aren't
   - getting
   - any
-- - compound
-  - canteen
-  - where
 - - many
   - 'true'
   - tales
+- - compound
+  - canteen
+  - where
 - - getting
   - any
   - younger
 - - high
   - spirits
   - after
-- - exhaustive
-  - information
-  - even
 - - pair
   - our
   - credulity
+- - exhaustive
+  - information
+  - even
 - - eating
   - nuts
   - any
@@ -446,21 +446,21 @@ ngrams:
 - - intensity
   - annoyingly
   - its
-- - wind
-  - died
-  - down
 - - longer
   - tied
+  - down
+- - wind
+  - died
   - down
 - - day
   - except
   - st
-- - left
-  - after
-  - crossing
 - - two
   - days
   - distant
+- - left
+  - after
+  - crossing
 - - themselves
   - very
   - different
@@ -548,15 +548,18 @@ ngrams:
 - - clocking
   - 'off'
   - after
-- - 'off'
-  - after
-  - nightfall
 - - see
   - well
   - enough
+- - 'off'
+  - after
+  - nightfall
 - - given
   - its
   - title
+- - new
+  - pair
+  - our
 - - could
   - cope
   - without
@@ -566,9 +569,6 @@ ngrams:
 - - more
   - days
   - trudging
-- - new
-  - pair
-  - our
 - - optic
   - rascal
   - who
@@ -605,18 +605,18 @@ ngrams:
 - - sprang
   - up
   - wide
-- - up
-  - wide
-  - awake
 - - am
   - mindful
   - too
-- - scrawl
-  - 'no'
-  - doubt
+- - up
+  - wide
+  - awake
 - - free
   - agent
   - 'no'
+- - scrawl
+  - 'no'
+  - doubt
 - - him
   - sometimes
   - thinking
@@ -638,27 +638,27 @@ ngrams:
 - - much
   - more
   - peril
-- - three
-  - more
-  - days
 - - nonsense
   - your
   - adoptive
+- - three
+  - more
+  - days
+- - finish
+  - your
+  - cocoa
 - - hero
   - can
   - still
 - - shove
   - their
   - hands
-- - finish
-  - your
-  - cocoa
-- - i've
-  - been
-  - waiting
 - - your
   - adoptive
   - parents
+- - i've
+  - been
+  - waiting
 - - 'no'
   - immediate
   - need
@@ -683,15 +683,15 @@ ngrams:
 - - were
   - resourceful
   - folk
+- - been
+  - smashed
+  - during
 - - adoptive
   - parents
   - were
 - - parents
   - were
   - resourceful
-- - been
-  - smashed
-  - during
 - - falling
   - into
   - sleep
@@ -725,12 +725,12 @@ ngrams:
 - - more
   - than
   - half
-- - finds
-  - out
-  - soon
 - - me
   - greater
   - prospects
+- - finds
+  - out
+  - soon
 - - home
   - when
   - sheltering
@@ -755,27 +755,27 @@ ngrams:
 - - monkey
   - rental
   - they
-- - intelligent
-  - pigs
-  - we
 - - they
   - gathered
   - details
+- - intelligent
+  - pigs
+  - we
 - - that's
   - why
   - when
-- - others
-  - unless
-  - they
 - - smashed
   - during
   - all
-- - human
-  - anomalies
-  - there
+- - others
+  - unless
+  - they
 - - your
   - two
   - thumbs
+- - human
+  - anomalies
+  - there
 - - letters
   - they
   - sent
@@ -785,12 +785,12 @@ ngrams:
 - - instead
   - they
   - paid
-- - pig
-  - havoc
-  - they
 - - parents
   - told
   - me
+- - pig
+  - havoc
+  - they
 - - right
   - way
   - up
@@ -800,24 +800,27 @@ ngrams:
 - - what
   - those
   - services
-- - air
-  - disaster
-  - they
 - - its
   - author
   - has
+- - air
+  - disaster
+  - they
 - - wondered
   - what
   - those
-- - mother
-  - put
-  - me
 - - corrective
   - lenses
   - are
+- - mother
+  - put
+  - me
 - - lenses
   - are
   - obtained
+- - are
+  - fairly
+  - riddled
 - - patter
   - which
   - grows
@@ -827,9 +830,6 @@ ngrams:
 - - sales
   - patter
   - which
-- - are
-  - fairly
-  - riddled
 story:
   date: 2009-03-31
   id: 2009-03-31-confessions-of-a-door-to-door-monkey-salesman

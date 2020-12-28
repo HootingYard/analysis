@@ -11,15 +11,15 @@ ngrams:
 - - bloodthirsty
   - screaming
   - warriors
-- - jack
-  - russell
-  - terrier
-- - jack
-  - russell
-  - terrier
 - - sodden
   - marsh
   - groaning
+- - jack
+  - russell
+  - terrier
+- - jack
+  - russell
+  - terrier
 - - swords
   - charged
   - screaming
@@ -131,12 +131,12 @@ ngrams:
 - - further
   - fighting
   - perhaps
-- - terrier
-  - also
-  - called
 - - gang
   - ran
   - away
+- - terrier
+  - also
+  - called
 - - also
   - called
   - skippy
@@ -197,30 +197,30 @@ ngrams:
 - - perhaps
   - tomorrow
   - after
+- - quite
+  - land
+  - being
 - - tomorrow
   - after
   - each
 - - more
   - accurately
   - described
-- - quite
-  - land
-  - being
-- - wildness
-  - more
-  - terrible
 - - depend
   - upon
   - further
+- - wildness
+  - more
+  - terrible
 - - upon
   - further
   - fighting
-- - first
-  - gang
-  - still
 - - might
   - well
   - blame
+- - first
+  - gang
+  - still
 - - tinies
   - might
   - well
@@ -242,6 +242,9 @@ ngrams:
 - - attackers
   - who
   - hacked
+- - its
+  - own
+  - inner
 - - watch
   - him
   - scamper
@@ -251,15 +254,12 @@ ngrams:
 - - hound
   - watch
   - him
-- - its
-  - own
-  - inner
-- - safe
-  - behind
-  - some
 - - us
   - bestow
   - upon
+- - safe
+  - behind
+  - some
 - - chanted
   - their
   - victory
@@ -317,12 +317,12 @@ ngrams:
 - - sodden
   - marsh
   - were
-- - marsh
-  - were
-  - determined
 - - 'no'
   - dead
   - dog
+- - marsh
+  - were
+  - determined
 - - land
   - being
   - more
@@ -353,15 +353,15 @@ ngrams:
 - - who
   - hacked
   - back
+- - groaning
+  - those
+  - who
 - - either
   - side
   - were
 - - side
   - were
   - either
-- - groaning
-  - those
-  - who
 story:
   date: 2012-09-30
   id: 2012-09-30-on-not-having-a-dog-in-the-fight

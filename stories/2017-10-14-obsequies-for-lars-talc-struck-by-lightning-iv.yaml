@@ -38,12 +38,12 @@ ngrams:
 - - painting
   - hurdles
   - winnowing
-- - roughly
-  - snodgrass
-  - threatens
 - - snodgrass
   - brings
   - vestments
+- - roughly
+  - snodgrass
+  - threatens
 - - nozzles
   - coddington
   - lens
@@ -89,30 +89,30 @@ ngrams:
 - - coddington
   - lens
   - piping
-- - fetch
-  - aluminium
-  - netting
 - - tubes
   - rubber
   - knobs
-- - gases
-  - hiss
-  - liquids
 - - hiss
   - liquids
   - bubble
+- - fetch
+  - aluminium
+  - netting
+- - gases
+  - hiss
+  - liquids
 - - fork
   - divers
   - implements
 - - ring
   - taut
   - wiring
-- - efficient
-  - finnish
-  - postal
 - - rubber
   - knobs
   - ad
+- - efficient
+  - finnish
+  - postal
 - - zinc
   - crate
   - divulging
@@ -143,30 +143,30 @@ ngrams:
 - - shoot
   - forth
   - gases
-- - lightning
-  - bolt
-  - crashes
-- - retreats
-  - talc
-  - attaches
 - - plastic
   - fruitbat
   - decoy
+- - retreats
+  - talc
+  - attaches
+- - lightning
+  - bolt
+  - crashes
 - - plastic
   - nozzles
   - coddington
-- - apparatus
-  - museum
-  - committee
 - - pencils
   - putting
   - hay
-- - increasingly
-  - ludicrous
-  - noises
+- - apparatus
+  - museum
+  - committee
 - - malefactor
   - talc
   - spits
+- - increasingly
+  - ludicrous
+  - noises
 - - blazer
   - talc
   - emitting
@@ -185,27 +185,27 @@ ngrams:
 - - finnish
   - postal
   - service
-- - electricity
-  - shoot
-  - forth
-- - piping
-  - magnetic
-  - ring
 - - horribly
   - talc
   - commands
-- - gritted
-  - teeth
-  - bruno
-- - teeth
-  - bruno
-  - quizzical
+- - piping
+  - magnetic
+  - ring
+- - electricity
+  - shoot
+  - forth
 - - jemmy
   - iron
   - mallet
 - - opened
   - massive
   - explosion
+- - gritted
+  - teeth
+  - bruno
+- - teeth
+  - bruno
+  - quizzical
 - - forth
   - gases
   - hiss
@@ -215,12 +215,12 @@ ngrams:
 - - implements
   - slab
   - talc
-- - museum
-  - committee
-  - regarding
 - - slab
   - talc
   - sobbing
+- - museum
+  - committee
+  - regarding
 - - screeching
   - horribly
   - talc
@@ -254,9 +254,6 @@ ngrams:
 - - bruno's
   - apparel
   - 'yes'
-- - iron
-  - mallet
-  - edge
 - - police
   - officer
   - bare
@@ -266,6 +263,9 @@ ngrams:
 - - ready
   - talc
   - tests
+- - iron
+  - mallet
+  - edge
 - - jam
   - talc
   - takes
@@ -290,12 +290,12 @@ ngrams:
 - - police
   - officer
   - mop
-- - wooden
-  - kitchen
-  - utensil
 - - crate
   - open
   - agents
+- - wooden
+  - kitchen
+  - utensil
 - - brows
   - shake
   - hands
@@ -320,12 +320,12 @@ ngrams:
 - - lars
   - talc
   - struck
-- - police
-  - page
-  - missing
 - - become
   - enormously
   - fascinated
+- - police
+  - page
+  - missing
 - - door
   - continues
   - bruno
@@ -431,15 +431,18 @@ ngrams:
 - - book
   - tiny
   - crate
+- - interrupts
+  - our
+  - game
 - - our
   - building
   - instinctively
-- - building
-  - behind
-  - us
 - - two
   - hours
   - talc
+- - building
+  - behind
+  - us
 - - door
   - gives
   - way
@@ -458,9 +461,6 @@ ngrams:
 - - talc
   - now
   - holds
-- - street
-  - past
-  - our
 story:
   date: 2017-10-14
   id: 2017-10-14-obsequies-for-lars-talc-struck-by-lightning-iv

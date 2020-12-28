@@ -32,27 +32,27 @@ ngrams:
 - - fetching
   - duff
   - coat
-- - bitter
-  - bitter
-  - creepy
 - - eating
   - creepy
   - crawlies
-- - primitive
-  - shambling
-  - savage
-- - primitive
-  - shambling
-  - savage
-- - primitive
-  - shambling
-  - savage
-- - primitive
-  - shambling
-  - savage
+- - bitter
+  - bitter
+  - creepy
 - - weight
   - mission
   - accomplished
+- - primitive
+  - shambling
+  - savage
+- - primitive
+  - shambling
+  - savage
+- - primitive
+  - shambling
+  - savage
+- - primitive
+  - shambling
+  - savage
 - - coarse
   - thick
   - woollen
@@ -71,15 +71,15 @@ ngrams:
 - - thick
   - woollen
   - material
-- - somewhat
-  - insalubrious
-  - tavern
 - - rendered
   - useless
   - clearly
 - - duff
   - coat
   - fall
+- - somewhat
+  - insalubrious
+  - tavern
 - - peremptory
   - research
   - team
@@ -152,12 +152,12 @@ ngrams:
 - - shoulder
   - empty
   - because
-- - bits
-  - soon
-  - enough
 - - thus
   - hold
   - together
+- - bits
+  - soon
+  - enough
 - - fall
   - apart
   - perhaps
@@ -215,6 +215,9 @@ ngrams:
 - - half
   - hours
   - until
+- - several
+  - hours
+  - let
 - - calling
   - mr
   - key
@@ -227,9 +230,6 @@ ngrams:
 - - calling
   - mr
   - key
-- - several
-  - hours
-  - let
 - - our
   - primitive
   - shambling
@@ -263,15 +263,15 @@ ngrams:
 - - find
   - smeared
   - here
-- - long
-  - long
-  - ago
-- - grew
-  - more
-  - urgent
 - - get
   - cracking
   - over
+- - grew
+  - more
+  - urgent
+- - long
+  - long
+  - ago
 - - belgium
   - rather
   - than
@@ -287,12 +287,12 @@ ngrams:
 - - ever
   - before
   - despair
-- - knew
-  - more
-  - fully
 - - forest
   - floor
   - do
+- - knew
+  - more
+  - fully
 - - long
   - long
   - long
@@ -308,27 +308,27 @@ ngrams:
 - - any
   - idea
   - how
+- - jangles
+  - your
+  - nerves
 - - been
   - eating
   - creepy
 - - their
   - science
   - van
-- - jangles
-  - your
-  - nerves
-- - spat
-  - i've
-  - been
 - - your
   - duff
   - coat
-- - i've
+- - spat
+  - i've
   - been
-  - eating
 - - forest
   - jangles
   - your
+- - i've
+  - been
+  - eating
 - - savages
   - lumbering
   - about
@@ -386,24 +386,24 @@ ngrams:
 - - lies
   - there
   - rotting
-- - has
-  - ever
-  - seen
 - - you're
   - there
   - safely
-- - using
-  - only
-  - some
+- - has
+  - ever
+  - seen
 - - ah
   - you're
   - there
+- - using
+  - only
+  - some
 - - apart
   - perhaps
   - when
-- - savage
-  - would
-  - surely
+- - remembered
+  - everything
+  - there
 story:
   date: 2012-05-23
   id: 2012-05-23-on-duff

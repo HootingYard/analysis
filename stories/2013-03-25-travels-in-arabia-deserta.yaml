@@ -14,72 +14,42 @@ ngrams:
 - - rice
   - kg
   - pine
-- - tender
-  - cook
-  - rice
 - - arabia
   - deserta
   - i'll
-- - clean
+- - stuffed
   - camel
-  - lamb
+  - ingredients
 - - nuts
   - kg
   - almonds
 - - kg
   - pistachio
   - nuts
-- - pistachio
-  - nuts
-  - gallons
 - - massive
   - classic
   - travels
-- - stuffed
-  - camel
-  - ingredients
+- - pistachio
+  - nuts
+  - gallons
 - - kg
   - pine
   - nuts
 - - pine
   - nuts
   - kg
-- - fluffy
-  - fry
-  - nuts
-- - method
-  - skin
-  - trim
-- - peel
-  - stuff
-  - cooked
-- - rice
-  - stuff
-  - cooked
-- - stuff
-  - cooked
-  - lamb
 - - pepper
   - salt
   - method
 - - camel
   - medium
   - size
-- - stuff
-  - cooked
-  - chickens
-- - salt
-  - method
-  - skin
 - - chickens
   - medium
   - size
 - - eggs
   - kg
   - rice
-- - stuffed
-  - chickens
-  - add
 - - drawing
   - pin
   - visible
@@ -89,9 +59,6 @@ ngrams:
 - - ingredients
   - whole
   - camel
-- - rice
-  - hard
-  - boil
 - - sopping
   - wet
   - leaving
@@ -108,11 +75,11 @@ ngrams:
   - eggs
   - kg
 - - whole
-  - chickens
-  - medium
-- - whole
   - stuffed
   - camel
+- - whole
+  - chickens
+  - medium
 - - medium
   - size
   - eggs
@@ -128,15 +95,12 @@ ngrams:
 - - medium
   - size
   - whole
-- - large
-  - charcoal
-  - pit
-- - visionary
-  - rewriting
-  - asked
 - - shed
   - whole
   - stuffed
+- - visionary
+  - rewriting
+  - asked
 - - pamphleteer
   - merely
   - grunted
@@ -146,15 +110,9 @@ ngrams:
 - - kitchen
   - sink
   - marigold
-- - hard
-  - boil
-  - eggs
 - - whole
   - lamb
   - large
-- - hard
-  - boiled
-  - eggs
 - - black
   - pepper
   - salt
@@ -164,12 +122,12 @@ ngrams:
 - - nuts
   - gallons
   - water
-- - under
-  - overcast
-  - skies
 - - door
   - sopping
   - wet
+- - under
+  - overcast
+  - skies
 - - marigold
   - chew
   - eyed
@@ -197,48 +155,15 @@ ngrams:
 - - print
   - pamphleteer
   - announced
-- - rice
-  - until
-  - fluffy
 - - marigold
   - chew
   - nobody
-- - until
-  - fluffy
-  - fry
-- - until
-  - tender
-  - cook
-- - cook
-  - rice
-  - until
-- - boil
-  - until
-  - tender
 - - come
   - wondrous
   - mirages
 - - vision
   - came
   - swimming
-- - chicken
-  - boil
-  - until
-- - fry
-  - nuts
-  - until
-- - until
-  - brown
-  - spread
-- - nuts
-  - until
-  - brown
-- - charcoal
-  - pit
-  - until
-- - pit
-  - until
-  - brown
 - - shall
   - give
   - birth
@@ -257,15 +182,15 @@ ngrams:
 - - arabia
   - deserta
   - through
+- - those
+  - sensual
+  - prods
 - - shredded
   - radish
   - first
 - - mirages
   - mirages
   - after
-- - those
-  - sensual
-  - prods
 - - filthy
   - old
   - canal
@@ -275,12 +200,12 @@ ngrams:
 - - marigold
   - chew
   - get
-- - spluttered
-  - dobson
-  - choking
 - - while
   - thus
   - entranced
+- - spluttered
+  - dobson
+  - choking
 - - shall
   - come
   - wondrous
@@ -290,57 +215,39 @@ ngrams:
 - - exotic
   - recipe
   - dobson
-- - replied
-  - dobson
-  - swallowing
 - - still
   - raining
   - later
-- - rice
-  - broil
-  - over
+- - replied
+  - dobson
+  - swallowing
 - - mirage
   - well
   - people
-- - mean
-  - spluttered
-  - dobson
 - - beats
   - down
   - relentlessly
-- - any
-  - remaining
-  - rice
+- - mean
+  - spluttered
+  - dobson
 - - points
   - replied
   - dobson
-- - spread
-  - any
-  - remaining
-- - brown
-  - spread
-  - any
 - - every
   - last
   - nook
 - - sun
   - beats
   - down
-- - broil
-  - over
-  - large
-- - over
-  - large
-  - charcoal
 - - man
   - whose
   - hatred
-- - very
-  - same
-  - fumes
 - - eyes
   - shall
   - come
+- - very
+  - same
+  - fumes
 - - wake
   - said
   - marigold
@@ -359,6 +266,66 @@ ngrams:
 - - more
   - preposterous
   - follies
+- - prose
+  - weighed
+  - its
+- - foolish
+  - idea
+  - said
+- - its
+  - mad
+  - mass
+- - said
+  - marigold
+  - chew
+- - said
+  - marigold
+  - chew
+- - said
+  - marigold
+  - chew
+- - could
+  - neither
+  - replace
+- - drained
+  - her
+  - beaker
+- - idea
+  - said
+  - marigold
+- - grander
+  - more
+  - 'true'
+- - dobson's
+  - more
+  - preposterous
+- - better
+  - grander
+  - more
+- - chew
+  - nobody
+  - could
+- - chew
+  - drained
+  - her
+- - eyed
+  - him
+  - carefully
+- - nobody
+  - could
+  - look
+- - look
+  - less
+  - like
+- - arabia
+  - deserta
+  - 'no'
+- - could
+  - look
+  - less
+- - chew
+  - eyed
+  - him
 story:
   date: 2013-03-25
   id: 2013-03-25-travels-in-arabia-deserta
@@ -425,15 +392,7 @@ story:
     \ in the shed.\"\n\nWhole Stuffed Camel\nIngredients\n  1 whole camel, medium\
     \ size\n  1 whole lamb, large size\n  20 whole chickens, medium size\n  60 eggs\n\
     \  12 kg rice\n  2 kg pine nuts\n  2 kg almonds\n  1 kg pistachio nuts\n  110\
-    \ gallons water\n  5 lbs black pepper\n  salt\nMethod\n  1. Skin, trim and clean\
-    \ camel, lamb and chicken.\n  2. Boil until tender.\n  3. Cook rice until fluffy.\n\
-    \  4. Fry nuts until brown and mix with rice.\n  5. Hard boil eggs and peel.\n\
-    \  6. Stuff cooked chickens with hard boiled eggs and rice.\n  7. Stuff cooked\
-    \ lamb with stuffed chickens.\n  8. Add more rice.\n  9. Stuff the camel with\
-    \ the stuffed lamb and add rest of rice.\n  10. Broil over large charcoal pit\
-    \ until brown.\n  11. Spread any remaining rice on large tray and place camel\
-    \ on top of rice.\n  12. Decorate with boiled eggs and nuts.\n  13. Serves eighty\
-    \ to a hundred famished travellers in Arabia Deserta.\n[My thanks to James Beckett\
+    \ gallons water\n  5 lbs black pepper\n    salt\nMethod\n[My thanks to James Beckett\
     \ for drawing to my attention this splendid--and genuine--recipe.]"
   title: Travels In Arabia Deserta
-word_count: 967
+word_count: 872

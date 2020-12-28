@@ -17,12 +17,6 @@ ngrams:
 - - hepcat
   - smoothie
   - the
-- - spinster
-  - the
-  - shambolic
-- - savant
-  - the
-  - charmless
 - - saucepan
   - the
   - sequined
@@ -32,6 +26,12 @@ ngrams:
 - - puckish
   - stormtrooper
   - the
+- - spinster
+  - the
+  - shambolic
+- - savant
+  - the
+  - charmless
 - - the
   - ratty
   - scrimshaw
@@ -50,6 +50,9 @@ ngrams:
 - - crunchy
   - plopper
   - the
+- - toadstool
+  - the
+  - wielded
 - - the
   - governed
   - tang
@@ -62,18 +65,15 @@ ngrams:
 - - worrisome
   - spinster
   - the
-- - splint
-  - the
-  - chipper
-- - toadstool
-  - the
-  - wielded
 - - the
   - globular
   - emission
 - - globular
   - emission
   - the
+- - splint
+  - the
+  - chipper
 - - baronet
   - the
   - navy
@@ -119,26 +119,26 @@ ngrams:
 - - smoothie
   - the
   - fundamentalist
-- - satrap
+- - the
+  - intrepid
+  - golliwog
+- - intrepid
+  - golliwog
   - the
-  - oiled
 - - the
   - charmless
   - ragamuffin
 - - charmless
   - ragamuffin
   - the
+- - satrap
+  - the
+  - oiled
 - - the
   - wielded
   - hoe
 - - wielded
   - hoe
-  - the
-- - the
-  - intrepid
-  - golliwog
-- - intrepid
-  - golliwog
   - the
 - - the
   - dirty
@@ -209,15 +209,15 @@ ngrams:
 - - frail
   - sot
   - the
-- - the
-  - unsinkable
-  - sieve
-- - unsinkable
-  - sieve
+- - nephew
   - the
+  - clueless
 - - the
-  - insanitary
-  - hellhole
+  - omnipotent
+  - dagobert
+- - omnipotent
+  - dagobert
+  - the
 story:
   date: 2009-01-28
   id: 2009-01-28-the-cruel-sea

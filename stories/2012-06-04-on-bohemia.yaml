@@ -146,15 +146,15 @@ ngrams:
 - - brewing
   - after
   - chucking
-- - conan
-  - doyle
-  - before
 - - guards
   - might
   - slip
 - - border
   - guards
   - might
+- - conan
+  - doyle
+  - before
 - - water
   - go
   - straight
@@ -227,15 +227,15 @@ ngrams:
 - - conan
   - doyle
   - 'no'
+- - doyle
+  - 'no'
+  - friend
 - - reinforcing
   - their
   - existing
 - - their
   - existing
   - prejudices
-- - doyle
-  - 'no'
-  - friend
 - - want
   - him
   - asking
@@ -257,27 +257,27 @@ ngrams:
 - - unpack
   - your
   - suitcase
-- - much
-  - more
-  - neatly
 - - wrap
   - your
   - scarf
 - - emptied
   - your
   - suitcase
+- - much
+  - more
+  - neatly
 - - corridors
   - wrap
   - your
 - - pack
   - your
   - suitcase
-- - biting
-  - your
-  - tongue
 - - scarf
   - tighter
   - about
+- - biting
+  - your
+  - tongue
 - - pay
   - 'no'
   - attention
@@ -293,12 +293,12 @@ ngrams:
 - - shock
   - when
   - squeezed
-- - electric
-  - shock
-  - when
 - - rest
   - your
   - weary
+- - electric
+  - shock
+  - when
 - - otherwise
   - enjoy
   - your
@@ -314,11 +314,11 @@ ngrams:
 - - proper
   - into
   - bohemia
-- - listening
-  - device
-  - into
 - - border
   - proper
+  - into
+- - listening
+  - device
   - into
 - - trick
   - question
@@ -326,12 +326,12 @@ ngrams:
 - - more
   - neatly
   - than
-- - shade
-  - your
-  - eyes
 - - hard
   - questions
   - about
+- - shade
+  - your
+  - eyes
 - - 'no'
   - account
   - should
@@ -353,21 +353,21 @@ ngrams:
 - - heath
   - perhaps
   - if
-- - very
-  - first
-  - day
 - - well
   - your
   - papers
+- - very
+  - first
+  - day
 - - been
   - swept
   - away
-- - might
-  - scoop
-  - up
 - - well
   - worth
   - your
+- - might
+  - scoop
+  - up
 - - can
   - then
   - guard
@@ -380,15 +380,15 @@ ngrams:
 - - they
   - give
   - vent
-- - bohemia
-  - if
-  - ever
 - - tongue
   - so
   - forcefully
 - - think
   - about
   - offering
+- - bohemia
+  - if
+  - ever
 - - foreigners
   - stupid
   - so
@@ -401,9 +401,9 @@ ngrams:
 - - do
   - some
   - practice
-- - manners
-  - are
-  - disgusting
+- - question
+  - about
+  - say
 story:
   date: 2012-06-04
   id: 2012-06-04-on-bohemia

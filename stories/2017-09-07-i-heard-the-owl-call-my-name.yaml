@@ -41,24 +41,24 @@ ngrams:
 - - motorcycle
   - groans
   - mark
-- - judicious
-  - religious
-  - advice
 - - anglican
   - vicar
   - mark
-- - lantern
-  - occasionally
-  - picking
-- - lantern
-  - occasionally
-  - picking
-- - groans
-  - mark
-  - brian
+- - judicious
+  - religious
+  - advice
 - - robert
   - m
   - pirsig
+- - groans
+  - mark
+  - brian
+- - lantern
+  - occasionally
+  - picking
+- - lantern
+  - occasionally
+  - picking
 - - parishioner
   - named
   - biff
@@ -200,33 +200,33 @@ ngrams:
 - - s
   - alongside
   - such
-- - now
-  - neglected
-  - titles
 - - befuddle
   - our
   - readers
-- - motorcycle
-  - maintenance
-  - could
+- - now
+  - neglected
+  - titles
 - - our
   - readers
   - utterly
+- - motorcycle
+  - maintenance
+  - could
 - - mammal
   - its
   - heart
 - - mammal
   - its
   - heart
+- - its
+  - heart
+  - pounding
+- - its
+  - heart
+  - pounding
 - - dappled
   - sunlight
   - then
-- - its
-  - heart
-  - pounding
-- - its
-  - heart
-  - pounding
 - - craven
   - nor
   - any
@@ -287,12 +287,12 @@ ngrams:
 - - person
   - who
   - hears
-- - motorcycle
-  - maintenance
-  - what
 - - your
   - motorcycle
   - groans
+- - motorcycle
+  - maintenance
+  - what
 - - repair
   - your
   - motorcycle
@@ -314,15 +314,15 @@ ngrams:
 - - were
   - shameless
   - plagiarists
-- - him
-  - alive
-  - long
 - - alongside
   - such
   - now
 - - such
   - now
   - neglected
+- - him
+  - alive
+  - long
 - - pell
   - mell
   - out

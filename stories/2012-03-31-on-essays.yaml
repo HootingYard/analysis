@@ -38,12 +38,12 @@ ngrams:
 - - quadruple
   - points
   - truculent
-- - nuts
-  - razzle
-  - dazzle
 - - exhibitions
   - soviet
   - hen
+- - nuts
+  - razzle
+  - dazzle
 - - soviet
   - hen
   - coops
@@ -86,12 +86,12 @@ ngrams:
 - - club
   - jelly
   - belgian
-- - scottish
-  - play
-  - groaning
 - - electrical
   - wiring
   - system
+- - scottish
+  - play
+  - groaning
 - - one's
   - grasp
   - nitwits
@@ -143,21 +143,21 @@ ngrams:
 - - daily
   - essays
   - project
+- - king
+  - jasper's
+  - castle
 - - possible
   - essay
   - titles
 - - whatever
   - topics
   - arrived
-- - king
-  - jasper's
-  - castle
-- - cardboard
-  - signage
-  - project
 - - 'true'
   - grit
   - barking
+- - cardboard
+  - signage
+  - project
 - - certain
   - ants
   - bravura
@@ -224,12 +224,12 @@ ngrams:
 - - pretty
   - well
   - convinced
-- - yard
-  - quarterly
-  - volume
 - - allotted
   - screed
   - two
+- - yard
+  - quarterly
+  - volume
 - - far
   - better
   - qualified
@@ -290,12 +290,12 @@ ngrams:
 - - screed
   - two
   - things
-- - less
-  - than
-  - indefatigable
 - - its
   - electrical
   - wiring
+- - less
+  - than
+  - indefatigable
 - - two
   - things
   - occur
@@ -311,21 +311,18 @@ ngrams:
 - - wiring
   - system
   - its
-- - updating
-  - hooting
-  - yard
-- - hooting
-  - yard
-  - quarterly
 - - many
   - people
   - actually
 - - system
   - its
   - janitor
-- - offer
+- - updating
   - hooting
   - yard
+- - hooting
+  - yard
+  - quarterly
 - - words
   - including
   - those
@@ -335,18 +332,21 @@ ngrams:
 - - am
   - consciously
   - keeping
+- - offer
+  - hooting
+  - yard
 - - might
   - also
   - help
 - - got
   - through
   - three
-- - her
-  - expert
-  - analysis
 - - weeks
   - ago
   - where
+- - her
+  - expert
+  - analysis
 story:
   date: 2012-03-31
   id: 2012-03-31-on-essays

@@ -2,6 +2,9 @@ ngrams:
 - - watches
   - cowards
   - bend
+- - barbarian
+  - anguish
+  - pops
 - - zig
   - melds
   - tarp
@@ -20,60 +23,57 @@ ngrams:
 - - whimpers
   - puce
   - bangs
+- - retiring
+  - football
+  - ace
 - - tod
   - puce
   - murmurs
-- - barbarian
-  - anguish
-  - pops
-- - puce
-  - clanks
-  - zig
-- - zig
-  - whimpers
-  - puce
+- - bob
+  - stokoe
+  - memorial
+- - crunches
+  - twigs
+  - underfoot
 - - auction
   - zig
   - melds
-- - zig
-  - meets
-  - tod
 - - circumstance
   - zig
   - spits
 - - zig
-  - spits
-  - puce
+  - meets
+  - tod
 - - waterfront
   - puce
   - reads
 - - puce
   - reads
   - simone
-- - quarry
-  - puce
-  - spies
 - - meets
   - tod
   - puce
-- - retiring
-  - football
-  - ace
-- - bob
-  - stokoe
-  - memorial
-- - clanks
-  - zig
-  - et
+- - quarry
+  - puce
+  - spies
 - - puce
   - keeps
   - milking
-- - crunches
-  - twigs
-  - underfoot
 - - zig
   - crunches
   - twigs
+- - puce
+  - clanks
+  - zig
+- - zig
+  - whimpers
+  - puce
+- - clanks
+  - zig
+  - et
+- - zig
+  - spits
+  - puce
 - - disease
   - puce
   - clings
@@ -83,33 +83,12 @@ ngrams:
 - - intertitles
   - zig
   - et
-- - zig
-  - et
-  - puce
-- - zig
-  - et
-  - puce
-- - zig
-  - et
-  - puce
-- - zig
-  - et
-  - puce
-- - zig
-  - et
-  - puce
-- - zig
-  - et
-  - puce
-- - zig
-  - et
-  - puce
-- - zig
-  - et
-  - puce
 - - nest
   - puce
   - whittles
+- - stokoe
+  - memorial
+  - bucket
 - - clunk
   - puce
   - keeps
@@ -122,15 +101,36 @@ ngrams:
 - - mavis
   - nest
   - puce
+- - zig
+  - et
+  - puce
 - - children's
   - comic
   - zig
+- - zig
+  - et
+  - puce
+- - zig
+  - et
+  - puce
+- - zig
+  - et
+  - puce
+- - zig
+  - et
+  - puce
+- - zig
+  - et
+  - puce
+- - zig
+  - et
+  - puce
+- - zig
+  - et
+  - puce
 - - comic
   - zig
   - et
-- - stokoe
-  - memorial
-  - bucket
 - - swiss
   - canton
   - zig
@@ -143,9 +143,9 @@ ngrams:
 - - leg
   - zig
   - meets
-- - banned
+- - notorious
+  - banned
   - issue
-  - zig
 story:
   date: 2009-09-18
   id: 2009-09-18-thrills-n-spills-with-zig-et-puce

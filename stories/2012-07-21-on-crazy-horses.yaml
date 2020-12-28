@@ -71,12 +71,12 @@ ngrams:
 - - osmond
   - family
   - homestead
-- - mormon
-  - says
-  - wayne
 - - pa
   - ma
   - nods
+- - mormon
+  - says
+  - wayne
 - - younger
   - ones
   - frolic
@@ -119,15 +119,6 @@ ngrams:
 - - judicious
   - question
   - chosen
-- - sir
-  - says
-  - alan
-- - sir
-  - says
-  - alan
-- - sir
-  - says
-  - alan
 - - communist
   - party
   - says
@@ -135,6 +126,15 @@ ngrams:
   - says
   - alan
 - - ma
+  - says
+  - alan
+- - sir
+  - says
+  - alan
+- - sir
+  - says
+  - alan
+- - sir
   - says
   - alan
 - - ma
@@ -170,12 +170,12 @@ ngrams:
 - - house
   - president
   - nixon
-- - side
-  - sit
-  - alan
 - - elicit
   - replies
   - sure
+- - side
+  - sit
+  - alan
 - - salt
   - flats
   - past
@@ -188,15 +188,15 @@ ngrams:
 - - pa
   - osmond
   - look
-- - corner
-  - between
-  - marie
-- - 'yes'
-  - sir
-  - says
 - - deposit
   - boxes
   - across
+- - 'yes'
+  - sir
+  - says
+- - corner
+  - between
+  - marie
 - - unlike
   - anything
   - else
@@ -221,12 +221,12 @@ ngrams:
 - - secretary
   - general
   - also
-- - song
-  - however
-  - remains
 - - without
   - speaking
   - gazing
+- - song
+  - however
+  - remains
 - - good
   - says
   - pa
@@ -359,12 +359,12 @@ ngrams:
 - - ma
   - nods
   - her
-- - feet
-  - could
-  - carry
 - - surely
   - do
   - cataclysmic
+- - feet
+  - could
+  - carry
 - - goes
   - she
   - says
@@ -380,12 +380,12 @@ ngrams:
 - - jimmy
   - can
   - question
-- - net
-  - them
-  - approximately
 - - little
   - jimmy
   - over
+- - net
+  - them
+  - approximately
 - - us
   - old
   - enough
@@ -407,9 +407,6 @@ ngrams:
 - - them
   - sir
   - says
-- - their
-  - arrival
-  - alan
 - - ma
   - osmond
   - 'no'
@@ -419,6 +416,9 @@ ngrams:
 - - alan
   - pipes
   - up
+- - their
+  - arrival
+  - alan
 - - them
   - approximately
   - four
@@ -431,9 +431,9 @@ ngrams:
 - - year's
   - day
   - over
-- - wearing
-  - their
-  - mormon
+- - her
+  - assent
+  - too
 story:
   date: 2012-07-21
   id: 2012-07-21-on-crazy-horses

@@ -5,15 +5,15 @@ ngrams:
 - - incomplete
   - samuel
   - taylor
+- - samuel
+  - taylor
+  - coleridge
+- - samuel
+  - taylor
+  - coleridge
 - - hammering
   - wheezing
   - snorting
-- - samuel
-  - taylor
-  - coleridge
-- - samuel
-  - taylor
-  - coleridge
 - - banging
   - hammering
   - wheezing
@@ -53,12 +53,12 @@ ngrams:
 - - lengthy
   - poem
   - clear
-- - ringo
-  - starr
-  - right
 - - film
   - director
   - james
+- - ringo
+  - starr
+  - right
 - - mind
   - famously
   - beginning
@@ -133,8 +133,8 @@ story:
     in Somerset. One day he was reading about Kubla Khan, but--having taken his habitual
     dose of opium--he fell asleep and had a vivid dream. As soon as he woke up, he
     had a lengthy poem clear in his mind, famously beginning "In Xanadu, did Kubla
-    Khan / A stately pleasure dome decree...." He started to write down the words
-    in his head, but was "called out by a person on business from Porlock, and detained
+    Khan / A stately pleasure dome decree..." He started to write down the words in
+    his head, but was "called out by a person on business from Porlock, and detained
     by him above an hour." By the time Coleridge got back to his desk, the dream was
     forgotten, and the visionary poem remained incomplete.
 

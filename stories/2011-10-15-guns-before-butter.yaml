@@ -17,12 +17,12 @@ ngrams:
 - - beef
   - dried
   - beeswax
-- - canned
-  - goods
-  - chalk
 - - dates
   - dippers
   - dishes
+- - canned
+  - goods
+  - chalk
 - - broom
   - canned
   - goods
@@ -56,15 +56,15 @@ ngrams:
 - - k
   - buttered
   - toast
+- - brush
+  - blankets
+  - boxes
 - - drawers
   - dried
   - fruits
 - - beeswax
   - bible
   - blacking
-- - brush
-  - blankets
-  - boxes
 - - dutch
   - oven
   - envelopes
@@ -86,12 +86,12 @@ ngrams:
 - - bottle
   - knives
   - sheath
-- - dried
-  - fruits
-  - dutch
 - - plates
   - shirts
   - shoes
+- - dried
+  - fruits
+  - dutch
 - - fruits
   - dutch
   - oven
@@ -116,39 +116,39 @@ ngrams:
 - - catch
   - thee
   - perch
-- - postal
-  - cards
-  - rope
 - - portfolio
   - postage
   - stamps
+- - postal
+  - cards
+  - rope
 - - blanket
   - rubber
   - coat
 - - ferocious
   - bears
   - frantically
-- - cards
-  - rope
-  - rubber
 - - chambers
   - fully
   - loaded
-- - pickles
-  - pins
-  - portfolio
+- - cards
+  - rope
+  - rubber
 - - rubber
   - coat
   - rubber
+- - pickles
+  - pins
+  - portfolio
 - - pot
   - comb
   - compass
-- - pepper
-  - pickles
-  - pins
 - - ink
   - portable
   - bottle
+- - pepper
+  - pickles
+  - pins
 - - molasses
   - money
   - change
@@ -158,54 +158,54 @@ ngrams:
 - - fish
   - salt
   - pork
-- - tent
-  - poles
-  - tent
 - - minor
   - variants
   - special
+- - tent
+  - poles
+  - tent
 - - plate
   - bowl
   - nutcracker
-- - twine
-  - vinegar
-  - watch
 - - special
   - k
   - buttered
 - - variants
   - special
   - k
+- - twine
+  - vinegar
+  - watch
 - - late
   - valet
   - bless
 - - bacon
   - barometer
   - pocket
-- - poles
-  - tent
-  - pins
-- - pins
-  - portfolio
-  - postage
 - - terrible
   - indigestion
   - thereafter
+- - poles
+  - tent
+  - pins
 - - needs
   - one's
   - guns
+- - pins
+  - portfolio
+  - postage
 - - knives
   - sheath
   - table
-- - salt
-  - salt
-  - fish
-- - salt
-  - fish
-  - salt
 - - milk
   - cups
   - currycomb
+- - salt
+  - salt
+  - fish
+- - salt
+  - fish
+  - salt
 - - compass
   - condensed
   - milk
@@ -302,9 +302,6 @@ ngrams:
 - - arms
   - torn
   - 'off'
-- - mucilage
-  - immediately
-  - after
 - - guns
   - before
   - butter
@@ -314,6 +311,9 @@ ngrams:
 - - butter
   - before
   - guns
+- - mucilage
+  - immediately
+  - after
 - - guns
   - before
   - butter
@@ -446,12 +446,12 @@ ngrams:
 - - wake
   - up
   - shrieking
-- - example
-  - summon
-  - him
 - - before
   - butter
   - even
+- - example
+  - summon
+  - him
 - - up
   - rustic
   - lore
@@ -479,24 +479,24 @@ ngrams:
 - - did
   - wonder
   - where
-- - military
-  - chaplains
-  - were
-- - military
-  - chaplains
-  - were
 - - takes
   - priority
   - when
 - - toast
   - when
   - you're
-- - still
-  - occasionally
-  - has
+- - military
+  - chaplains
+  - were
+- - military
+  - chaplains
+  - were
 - - garden
   - gate
   - when
+- - still
+  - occasionally
+  - has
 - - got
   - 'no'
   - further
@@ -527,12 +527,12 @@ ngrams:
 - - net
   - result
   - would
-- - were
-  - indeed
-  - correct
 - - dish
   - second
   - all
+- - were
+  - indeed
+  - correct
 - - called
   - into
   - question

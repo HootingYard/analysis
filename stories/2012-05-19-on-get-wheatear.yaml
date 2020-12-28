@@ -5,12 +5,12 @@ ngrams:
 - - jack's
   - birdwatching
   - colleagues
-- - rooftop
-  - aviary
-  - development
 - - eric
   - forcing
   - glenda
+- - rooftop
+  - aviary
+  - development
 - - sniper
   - rifle
   - jack's
@@ -53,21 +53,21 @@ ngrams:
 - - escapes
   - jack
   - meets
-- - frank's
-  - killer
-  - explaining
 - - jack
   - chases
   - eric
 - - silence
   - kinnear
   - agrees
-- - killer
+- - frank's
+  - killer
   - explaining
-  - kinnear
 - - anna's
   - affair
   - jack
+- - killer
+  - explaining
+  - kinnear
 - - offers
   - jack
   - ps
@@ -143,15 +143,15 @@ ngrams:
 - - owl
   - sanctuary
   - seeking
-- - tapping
-  - machine
-  - message
-- - tapping
-  - machine
-  - message
 - - jack
   - knows
   - cliff
+- - tapping
+  - machine
+  - message
+- - tapping
+  - machine
+  - message
 - - half
   - drowns
   - glenda
@@ -209,12 +209,12 @@ ngrams:
 - - damaging
   - relations
   - between
-- - relations
-  - between
-  - kinnear
 - - house
   - jack
   - discovers
+- - relations
+  - between
+  - kinnear
 - - bird
   - detectives
   - squad
@@ -290,12 +290,12 @@ ngrams:
 - - called
   - glenda
   - having
-- - jack
-  - drives
-  - 'off'
 - - pointy
   - town
   - high
+- - jack
+  - drives
+  - 'off'
 - - leaves
   - next
   - morning
@@ -341,12 +341,12 @@ ngrams:
 - - blood
   - then
   - beats
-- - her
-  - car
-  - jack
 - - next
   - morning
   - two
+- - her
+  - car
+  - jack
 - - leaves
   - her
   - body
@@ -362,12 +362,12 @@ ngrams:
 - - has
   - informed
   - fletcher
-- - gathering
-  - telling
-  - him
 - - bloody
   - variable
   - them
+- - gathering
+  - telling
+  - him
 story:
   date: 2012-05-19
   id: 2012-05-19-on-get-wheatear

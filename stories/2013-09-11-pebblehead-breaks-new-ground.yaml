@@ -1,13 +1,4 @@
 ngrams:
-- - lorries
-  - buses
-  - coaches
-- - lorries
-  - buses
-  - coaches
-- - lorries
-  - buses
-  - coaches
 - - vans
   - trucks
   - lorries
@@ -17,6 +8,15 @@ ngrams:
 - - vans
   - trucks
   - lorries
+- - lorries
+  - buses
+  - coaches
+- - lorries
+  - buses
+  - coaches
+- - lorries
+  - buses
+  - coaches
 - - trucks
   - lorries
   - buses
@@ -95,15 +95,15 @@ ngrams:
 - - weekly
   - magazine
   - doings
+- - maverick
+  - detective
+  - detective
+- - maverick
+  - detective
+  - detective
 - - forget
   - thrilling
   - detail
-- - maverick
-  - detective
-  - detective
-- - maverick
-  - detective
-  - detective
 - - film
   - duel
   - starring
@@ -218,9 +218,9 @@ ngrams:
 - - hubs
   - can
   - cross
-- - can
-  - safely
-  - reach
+- - how
+  - many
+  - paperbacks
 story:
   date: 2013-09-11
   id: 2013-09-11-pebblehead-breaks-new-ground

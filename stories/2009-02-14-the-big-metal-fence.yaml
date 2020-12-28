@@ -41,12 +41,12 @@ ngrams:
 - - crumpling
   - heaven's
   - porridge
-- - heaven's
-  - porridge
-  - ectoplasmic
 - - freakishly
   - tall
   - draped
+- - heaven's
+  - porridge
+  - ectoplasmic
 - - stern
   - bureaucratic
   - control
@@ -68,18 +68,18 @@ ngrams:
 - - stinking
   - muddy
   - channels
-- - identical
-  - corduroy
-  - clothing
 - - crackers
   - buns
   - tarts
-- - compare
-  - ideas
-  - feelings
 - - startling
   - lavender
   - tinge
+- - identical
+  - corduroy
+  - clothing
+- - compare
+  - ideas
+  - feelings
 - - insoluble
   - problem
   - contrary
@@ -176,12 +176,12 @@ ngrams:
 - - bickering
   - 'true'
   - fanatics
-- - summary
-  - learned
-  - journals
 - - pubs
   - mentioned
   - none
+- - summary
+  - learned
+  - journals
 - - less
   - freakishly
   - tall
@@ -194,15 +194,15 @@ ngrams:
 - - boiling
   - hot
   - custard
+- - ectoplasm
+  - park
+  - near
 - - whaling
   - captain
   - al
 - - mental
   - development
   - simply
-- - ectoplasm
-  - park
-  - near
 - - substance
   - books
   - roll
@@ -212,12 +212,12 @@ ngrams:
 - - contempt
   - thrown
   - together
-- - 'true'
-  - fanatics
-  - spend
 - - metal
   - fence
   - completely
+- - 'true'
+  - fanatics
+  - spend
 - - brutish
   - myrmidons
   - whose
@@ -245,18 +245,18 @@ ngrams:
 - - room
   - darts
   - hither
-- - wildly
-  - different
-  - stories
-- - discovered
-  - four
-  - pubs
 - - myrmidons
   - whose
   - golden
+- - discovered
+  - four
+  - pubs
 - - whose
   - golden
   - helmets
+- - wildly
+  - different
+  - stories
 - - good
   - refrigeration
   - facilities
@@ -272,24 +272,24 @@ ngrams:
 - - against
   - whatever
   - accommodation
-- - written
-  - form
-  - anywhere
 - - police
   - whose
   - headquarters
+- - written
+  - form
+  - anywhere
 - - always
   - fully
   - stocked
+- - big
+  - damp
+  - building
 - - also
   - produce
   - sour
 - - corduroy
   - clothing
   - also
-- - big
-  - damp
-  - building
 - - three
   - pubs
   - mentioned
@@ -359,12 +359,12 @@ ngrams:
 - - while
   - ferocious
   - hounds
-- - found
-  - themselves
-  - instantly
 - - six
   - weeks
   - ago
+- - found
+  - themselves
+  - instantly
 - - duty
   - while
   - ferocious
@@ -377,12 +377,12 @@ ngrams:
 - - few
   - hundred
   - yards
-- - distant
-  - world
-  - goes
 - - makes
   - things
   - difficult
+- - distant
+  - world
+  - goes
 - - himself
   - scarce
   - during
@@ -401,12 +401,12 @@ ngrams:
 - - nice
   - little
   - cartons
-- - seems
-  - unlikely
-  - every
 - - titan
   - whose
   - name
+- - seems
+  - unlikely
+  - every
 - - perhaps
   - captain
   - snap
@@ -464,33 +464,33 @@ ngrams:
 - - library
   - last
   - week
-- - spent
-  - long
-  - hours
 - - unlimited
   - space
   - those
 - - discovered
   - how
   - wrong
-- - postal
-  - system
-  - here
+- - spent
+  - long
+  - hours
 - - social
   - lethargy
   - our
+- - postal
+  - system
+  - here
 - - absolutely
   - everyone
   - here
-- - found
-  - myself
-  - standing
-- - books
-  - roll
-  - 'off'
 - - scarce
   - during
   - these
+- - books
+  - roll
+  - 'off'
+- - found
+  - myself
+  - standing
 - - during
   - these
   - visits
@@ -503,12 +503,12 @@ ngrams:
 - - hoist
   - before
   - passing
-- - ominous
-  - even
-  - terrified
 - - our
   - cramped
   - living
+- - ominous
+  - even
+  - terrified
 - - metal
   - fence
   - here
@@ -524,12 +524,12 @@ ngrams:
 - - even
   - terrified
   - silence
-- - four
-  - thousand
-  - years
 - - soon
   - discovered
   - how
+- - four
+  - thousand
+  - years
 - - very
   - best
   - drinks
@@ -554,15 +554,15 @@ ngrams:
 - - like
   - clockwork
   - buttermilk
-- - report
-  - too
-  - long
 - - repeated
   - visits
   - its
 - - runs
   - like
   - clockwork
+- - report
+  - too
+  - long
 - - happen
   - here
   - thus
@@ -572,30 +572,33 @@ ngrams:
 - - park
   - come
   - away
-- - only
-  - dimly
-  - remember
-- - once
-  - every
-  - four
 - - misshapen
   - castle
   - like
+- - once
+  - every
+  - four
+- - only
+  - dimly
+  - remember
 - - more
   - experts
   - dispute
-- - through
-  - every
-  - pore
 - - buildings
   - first
   - because
+- - through
+  - every
+  - pore
 - - its
   - original
   - state
 - - myself
   - standing
   - before
+- - word
+  - upon
+  - receipt
 - - more
   - detailed
   - report
@@ -605,18 +608,15 @@ ngrams:
 - - time
   - grunting
   - hammering
-- - word
-  - upon
-  - receipt
 - - time
   - carefully
   - addressing
-- - meets
-  - only
-  - once
 - - many
   - little
   - chats
+- - meets
+  - only
+  - once
 - - original
   - state
   - more
@@ -635,12 +635,12 @@ ngrams:
 - - unopened
   - tub
   - some
-- - much
-  - first
-  - impressions
 - - other
   - three
   - pubs
+- - much
+  - first
+  - impressions
 - - those
   - quite
   - often
@@ -659,42 +659,42 @@ ngrams:
 - - many
   - centuries
   - before
-- - fancy
-  - takes
-  - him
 - - fingers
   - dabbed
   - them
+- - fancy
+  - takes
+  - him
 - - inspectors
   - who
   - freed
-- - lettice
-  - who
-  - perished
-- - gleaming
-  - substance
-  - has
 - - experience
   - them
   - needless
-- - tub
-  - inspectors
+- - gleaming
+  - substance
+  - has
+- - lettice
   - who
+  - perished
 - - do
   - home
   - deliveries
-- - much
-  - else
-  - here
+- - tub
+  - inspectors
+  - who
 - - castle
   - like
   - something
-- - prussian
-  - who
-  - died
+- - much
+  - else
+  - here
 - - substance
   - has
   - somehow
+- - prussian
+  - who
+  - died
 - - them
   - although
   - personally
@@ -704,15 +704,12 @@ ngrams:
 - - their
   - pristine
   - unopened
-- - their
-  - stereotypical
-  - passion
 - - her
   - glorious
   - life
-- - unimaginably
-  - long
-  - time
+- - their
+  - stereotypical
+  - passion
 - - terrified
   - silence
   - 'no'
@@ -722,33 +719,36 @@ ngrams:
 - - simply
   - never
   - know
+- - unimaginably
+  - long
+  - time
 - - theories
   - shouting
   - their
-- - tub
-  - some
-  - people
 - - just
   - two
   - days
-- - who
-  - perished
-  - together
+- - tub
+  - some
+  - people
 - - them
   - tight
   - against
+- - who
+  - perished
+  - together
 - - see
   - those
   - quite
 - - through
   - its
   - mesh
-- - only
-  - once
-  - every
 - - some
   - people
   - carry
+- - only
+  - once
+  - every
 - - two
   - days
   - before
@@ -758,21 +758,18 @@ ngrams:
 - - peering
   - through
   - its
-- - shouting
-  - their
-  - heads
 - - who
   - died
   - during
+- - shouting
+  - their
+  - heads
 - - letter
   - tie
   - up
 - - addressing
   - your
   - mail
-- - somehow
-  - been
-  - corralled
 - - babbles
   - endlessly
   - about
@@ -782,6 +779,9 @@ ngrams:
 - - about
   - changing
   - cabins
+- - somehow
+  - been
+  - corralled
 - - people
   - carry
   - them
@@ -794,38 +794,44 @@ ngrams:
 - - can
   - confidently
   - say
-- - wicker
-  - baskets
-  - into
 - - pass
   - what
   - follows
 - - carry
   - them
   - around
+- - wicker
+  - baskets
+  - into
 - - like
   - most
   - people
 - - what
   - lies
   - beyond
-- - accidents
-  - were
-  - distressed
 - - single
   - person
   - who
-- - useful
-  - insight
-  - into
+- - accidents
+  - were
+  - distressed
 - - can
   - buy
   - little
+- - useful
+  - insight
+  - into
+- - alive
+  - ask
+  - about
 - - railway
   - accidents
   - were
-- - alive
-  - ask
+- - will
+  - nonetheless
+  - gain
+- - uproarious
+  - story
   - about
 - - streets
   - if
@@ -833,45 +839,39 @@ ngrams:
 - - feet
   - were
   - encased
-- - will
-  - nonetheless
-  - gain
-- - uproarious
-  - story
-  - about
 - - book
   - never
   - did
 - - worked
   - out
   - precisely
-- - into
-  - hat
-  - shirt
 - - stinking
   - after
   - some
+- - into
+  - hat
+  - shirt
 - - very
   - much
   - first
 - - into
   - death
   - eternity
-- - can
-  - only
-  - dimly
 - - dimly
   - remember
   - when
+- - can
+  - only
+  - dimly
+- - us
+  - can
+  - tell
 - - change
   - into
   - hat
 - - look
   - what
   - purpose
-- - us
-  - can
-  - tell
 - - these
   - visits
   - who
@@ -899,39 +899,39 @@ ngrams:
 - - those
   - who
   - accuse
-- - whose
-  - lives
-  - were
-- - brew
-  - they
-  - serve
-- - put
-  - into
-  - operation
 - - opinions
   - vary
   - there
 - - never
   - did
   - see
-- - 'no'
-  - idea
-  - why
+- - brew
+  - they
+  - serve
+- - whose
+  - lives
+  - were
+- - put
+  - into
+  - operation
 - - wastes
   - there
   - stands
-- - naivety
-  - sent
-  - me
-- - sufficient
-  - custard
-  - they
+- - 'no'
+  - idea
+  - why
 - - light
   - conversation
   - will
+- - naivety
+  - sent
+  - me
 - - has
   - never
   - appeared
+- - sufficient
+  - custard
+  - they
 - - readers
   - will
   - nonetheless

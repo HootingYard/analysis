@@ -1,16 +1,22 @@
 ngrams:
-- - a
-  - norwegian
+- - left
+  - intentionally
+  - blank
+- - page
+  - left
+  - intentionally
+- - norwegian
   - train
-- - 'on'
-  - a
-  - norwegian
-- - hours
-  - 'on'
-  - a
+  - this
+- - train
+  - this
+  - page
+- - this
+  - page
+  - left
 story:
   date: 2018-09-05
   id: 2018-09-05-ten-hours-on-a-norwegian-train
-  text: ''
+  text: '[This page left intentionally blank.]'
   title: Ten Hours On A Norwegian Train
-word_count: 6
+word_count: 11

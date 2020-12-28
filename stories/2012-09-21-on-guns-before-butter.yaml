@@ -26,33 +26,33 @@ ngrams:
 - - smarmy
   - host
   - okay
-- - trevor
+- - graham
   - smarmy
   - host
-- - graham
+- - trevor
   - smarmy
   - host
 - - um
   - smarmy
   - host
-- - hooters
-  - klaxons
-  - screaming
 - - resonant
   - bell
   - clangs
 - - boo
   - smarmy
   - host
+- - hooters
+  - klaxons
+  - screaming
 - - klaxons
   - screaming
   - smarmy
-- - butter
-  - contestant
-  - swallowing
 - - dax
   - smarmy
   - host
+- - butter
+  - contestant
+  - swallowing
 - - rolf
   - smarmy
   - host
@@ -92,19 +92,19 @@ ngrams:
 - - host
   - okay
   - horst
-- - contestant
-  - looks
-  - solemn
 - - seconds
   - contestant
   - um
 - - contestant
+  - looks
+  - solemn
+- - contestant
   - horst
   - let's
-- - butter
+- - horst
   - smarmy
   - host
-- - horst
+- - butter
   - smarmy
   - host
 - - smarmy
@@ -143,15 +143,15 @@ ngrams:
 - - typical
   - episode
   - smarmy
+- - bell
+  - clangs
+  - audience
 - - looks
   - solemn
   - gazing
 - - brutes
   - appear
   - onstage
-- - bell
-  - clangs
-  - audience
 - - choose
   - butter
   - bob
@@ -194,12 +194,12 @@ ngrams:
 - - horst
   - brutes
   - appear
-- - souvenir
-  - propelling
-  - pencil
 - - okay
   - horst
   - i'm
+- - souvenir
+  - propelling
+  - pencil
 - - smarmy
   - host
   - i'm
@@ -215,12 +215,12 @@ ngrams:
 - - eight
   - seven
   - contestant
-- - decision
-  - contestant
-  - 'yes'
 - - host
   - i'm
   - sorry
+- - decision
+  - contestant
+  - 'yes'
 - - i'm
   - sorry
   - horst
@@ -308,12 +308,12 @@ ngrams:
 - - television
   - screens
   - right
-- - radio
-  - four
-  - marcus
 - - that's
   - right
   - brian
+- - radio
+  - four
+  - marcus
 - - television
   - light
   - entertainment
@@ -326,12 +326,12 @@ ngrams:
 - - bbc
   - radio
   - four
-- - prowls
-  - around
-  - commissioning
 - - horst
   - i'm
   - sure
+- - prowls
+  - around
+  - commissioning
 story:
   date: 2012-09-21
   id: 2012-09-21-on-guns-before-butter

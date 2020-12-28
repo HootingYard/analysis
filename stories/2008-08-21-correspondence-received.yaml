@@ -44,12 +44,12 @@ ngrams:
 - - newspaper
   - articles
   - magazine
-- - blank
-  - wooden
-  - crosses
 - - alphabetical
   - soup
   - recipes
+- - blank
+  - wooden
+  - crosses
 - - entertaining
   - letter
   - arrives
@@ -62,12 +62,12 @@ ngrams:
 - - street
   - signs
   - short
-- - signs
-  - short
-  - stories
 - - bonkers
   - maisie
   - marigold
+- - signs
+  - short
+  - stories
 - - magazine
   - stories
   - street
@@ -140,12 +140,12 @@ ngrams:
 - - very
   - respectfully
   - dr
-- - dear
-  - mr
-  - key
 - - old
   - town
   - section
+- - dear
+  - mr
+  - key
 - - being
   - given
   - directions
@@ -161,18 +161,18 @@ ngrams:
 - - sounds
   - exactly
   - like
-- - toward
-  - hooting
-  - yard
-- - hooting
-  - yard
-  - listener
 - - more
   - thorough
   - understanding
 - - exactly
   - like
   - frank
+- - toward
+  - hooting
+  - yard
+- - hooting
+  - yard
+  - listener
 story:
   date: 2008-08-21
   id: 2008-08-21-correspondence-received
@@ -201,16 +201,16 @@ story:
     \ I happened across an old, restored cemetery. Most of the graves were marked\
     \ by blank wooden crosses, with small interpretive signs made of deteriorating\
     \ photocopied text sandwiched between glass plates. One of these signs read, as\
-    \ best as I can recall:\n\"THE UNKNOWN GERMAN\n  This grave marks the resting\
-    \ place of the Unknown German. This man came to San Diego from Germany in 18-\
-    \ [terminal digits illegible]. Very little is known about his life here. How and\
-    \ why he came to San Diego, as well as how he died, is unknown.\"\nI read this,\
-    \ silently, to myself. But the voice I heard was plainly Frank Key's. This doesn't\
-    \ happen with newspaper articles, magazine stories, street signs, short stories,\
-    \ or novels. It occurs only when I read unusual bits of prose like that above.\
-    \ I would caution any other Hooting Yard listener contemplating ingesting a large\
-    \ amount of your shows in a short period of time. The effect, while not unpleasant,\
-    \ is unusual.\nThank you for the hours of entertainment you've provided.\nVery\
-    \ respectfully,\n  Dr Jeffrey Chilton"
+    \ best as I can recall:\nTHE UNKNOWN GERMAN\nThis grave marks the resting place\
+    \ of the Unknown German. This man came to San Diego from Germany in 18- [terminal\
+    \ digits illegible]. Very little is known about his life here. How and why he\
+    \ came to San Diego, as well as how he died, is unknown.\"\nI read this, silently,\
+    \ to myself. But the voice I heard was plainly Frank Key's. This doesn't happen\
+    \ with newspaper articles, magazine stories, street signs, short stories, or novels.\
+    \ It occurs only when I read unusual bits of prose like that above. I would caution\
+    \ any other Hooting Yard listener contemplating ingesting a large amount of your\
+    \ shows in a short period of time. The effect, while not unpleasant, is unusual.\n\
+    Thank you for the hours of entertainment you've provided.\nVery respectfully,\n\
+    \  Dr Jeffrey Chilton"
   title: Correspondence Received
 word_count: 471

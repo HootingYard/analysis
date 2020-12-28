@@ -80,12 +80,12 @@ ngrams:
 - - lukewarm
   - tap
   - water
-- - tap
-  - water
-  - dandelion
 - - towering
   - wisdom
   - note
+- - tap
+  - water
+  - dandelion
 - - remember
   - uncle
   - dan
@@ -104,12 +104,12 @@ ngrams:
 - - person's
   - sack
   - also
-- - sack
-  - also
-  - contained
 - - quite
   - frankly
   - anyway
+- - sack
+  - also
+  - contained
 - - overfamiliar
   - yet
   - somehow
@@ -206,12 +206,12 @@ ngrams:
 - - agony
   - uncle
   - 'no'
-- - yard
-  - readers
-  - may
 - - many
   - other
   - unanswered
+- - yard
+  - readers
+  - may
 - - dan
   - who
   - used
@@ -257,12 +257,12 @@ ngrams:
 - - curiously
   - reminded
   - me
-- - asked
-  - him
-  - how
 - - mister
   - x
   - there
+- - asked
+  - him
+  - how
 - - hear
   - me
   - above
@@ -299,12 +299,12 @@ ngrams:
 - - index
   - alas
   - this
-- - this
-  - missive
-  - dear
 - - don't
   - know
   - me
+- - this
+  - missive
+  - dear
 - - makes
   - one
   - wonder
@@ -329,11 +329,12 @@ ngrams:
 story:
   date: 2006-02-14
   id: 2006-02-14-specks-in-the-sky
-  text: 'A letter arrives from our Antipodean researcher Glyn Webster. Dear Uncle
-    Dan, he writes, Recently my dreams have been full of boredom and drudgery. The
-    work is hard, the company is dull and I''m thoroughly relieved to open my eyes
-    in the morning. Sometimes I wake up to find myself hauling my body out of the
-    bed the way a shipwrecked sailor might haul himself ashore. What is happening
+  text: 'A letter arrives from our Antipodean researcher Glyn Webster.
+
+    Dear Uncle Dan, he writes, Recently my dreams have been full of boredom and drudgery.
+    The work is hard, the company is dull and I''m thoroughly relieved to open my
+    eyes in the morning. Sometimes I wake up to find myself hauling my body out of
+    the bed the way a shipwrecked sailor might haul himself ashore. What is happening
     to me? Yours in all simplicity, Glyn.
 
     Devoted Hooting Yard readers may remember Uncle Dan, who used to pen a column

@@ -5,12 +5,12 @@ ngrams:
 - - bowels
   - headache
   - drowsiness
-- - heartburn
-  - colic
-  - pains
 - - headache
   - drowsiness
   - kidney
+- - heartburn
+  - colic
+  - pains
 - - melancholy
   - delirium
   - tremens
@@ -38,12 +38,12 @@ ngrams:
 - - colic
   - pains
   - wind
-- - famous
-  - alleged
-  - cover
 - - fake
   - john
   - major's
+- - famous
+  - alleged
+  - cover
 - - magisterial
   - study
   - plastic
@@ -65,21 +65,21 @@ ngrams:
 - - sheeting
   - without
   - finding
-- - legendary
-  - pamphlet
-  - itself
 - - plastic
   - sheeting
   - without
+- - legendary
+  - pamphlet
+  - itself
 - - works
   - stirring
   - words
-- - laid
-  - waste
-  - long
 - - copy
   - let
   - alone
+- - laid
+  - waste
+  - long
 - - without
   - finding
   - room
@@ -107,12 +107,12 @@ ngrams:
 - - let
   - alone
   - read
-- - study
-  - plastic
-  - dobson
 - - plastic
   - sheeting
   - only
+- - study
+  - plastic
+  - dobson
 - - dobson
   - scholars
   - whose
@@ -146,12 +146,12 @@ ngrams:
 - - their
   - misplaced
   - vanity
-- - feed
-  - their
-  - misplaced
 - - myself
   - even
   - though
+- - feed
+  - their
+  - misplaced
 story:
   date: 2006-02-23
   id: 2006-02-23-certain-aspects-of-plastic-baubles-and-plastic-sheeting

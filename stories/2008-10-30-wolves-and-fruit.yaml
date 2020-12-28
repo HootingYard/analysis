@@ -35,6 +35,12 @@ ngrams:
 - - postage
   - stamp
   - collector
+- - thick
+  - woolly
+  - socks
+- - thick
+  - woolly
+  - socks
 - - professor
   - fang
   - announced
@@ -44,12 +50,6 @@ ngrams:
 - - feeding
   - spurious
   - stories
-- - thick
-  - woolly
-  - socks
-- - thick
-  - woolly
-  - socks
 - - ancient
   - greek
   - pantheon
@@ -95,12 +95,12 @@ ngrams:
 - - pretty
   - safe
   - ground
-- - sprays
-  - 'yes'
-  - 'yes'
 - - mentor
   - whose
   - advice
+- - sprays
+  - 'yes'
+  - 'yes'
 - - mysterious
   - mentor
   - whose
@@ -164,27 +164,27 @@ ngrams:
 - - greek
   - pantheon
   - never
-- - placating
-  - wolves
-  - through
 - - pantheon
   - never
   - forget
-- - just
-  - games
-  - consoles
+- - placating
+  - wolves
+  - through
 - - andy
   - burnham's
   - head
+- - just
+  - games
+  - consoles
 - - obviously
   - set
   - tiny
-- - set
-  - tiny
-  - enid
 - - catapult
   - before
   - heading
+- - set
+  - tiny
+  - enid
 - - thinking
   - how
   - fruit
@@ -228,20 +228,20 @@ ngrams:
   - trusty
   - blunderbuss
 - - wolf
-  - population
+  - attacks
   - she
 - - wolf
-  - attacks
+  - population
   - she
 - - her
   - shrill
   - shouty
-- - occasion
-  - she
-  - deferred
 - - want
   - two
   - things
+- - occasion
+  - she
+  - deferred
 - - rather
   - than
   - killing
@@ -269,15 +269,15 @@ ngrams:
 - - help
   - her
   - placate
-- - population
-  - she
-  - instead
 - - shouty
   - way
   - first
 - - her
   - metal
   - tapping
+- - population
+  - she
+  - instead
 - - near
   - where
   - tiny
@@ -311,12 +311,12 @@ ngrams:
 - - whose
   - advice
   - she
-- - catapult
-  - ammo
-  - who
 - - how
   - fruit
   - might
+- - catapult
+  - ammo
+  - who
 - - who
   - blundered
   - foolishly
@@ -335,12 +335,12 @@ ngrams:
 - - enid
   - spent
   - some
-- - attacks
-  - she
-  - took
 - - am
   - scrabbling
   - around
+- - attacks
+  - she
+  - took
 - - ammo
   - who
   - knows

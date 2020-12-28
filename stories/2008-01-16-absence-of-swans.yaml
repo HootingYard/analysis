@@ -77,12 +77,12 @@ ngrams:
 - - police
   - tape
   - reeled
-- - grease
-  - mud
-  - beetles
 - - six
   - reasonably
   - pebbly
+- - grease
+  - mud
+  - beetles
 - - portable
   - metal
   - tapping
@@ -110,12 +110,12 @@ ngrams:
 - - yellow
   - police
   - tape
-- - florid
-  - sergeant
-  - told
 - - mesmeric
   - subject
   - swan
+- - florid
+  - sergeant
+  - told
 - - police
   - officer
   - whom
@@ -167,12 +167,12 @@ ngrams:
 - - within
   - shouting
   - distance
-- - calls
-  - relentlessly
-  - both
 - - large
   - white
   - swan
+- - calls
+  - relentlessly
+  - both
 - - frightening
   - composing
   - myself
@@ -200,12 +200,12 @@ ngrams:
 - - hot
   - air
   - balloons
-- - purpose
-  - having
-  - devised
 - - hid
   - myself
   - deep
+- - purpose
+  - having
+  - devised
 - - balloons
   - wondering
   - why
@@ -317,12 +317,12 @@ ngrams:
 - - set
   - 'off'
   - hotfoot
-- - every
-  - last
-  - detail
 - - dismay
   - upon
   - arrival
+- - every
+  - last
+  - detail
 - - understand
   - than
   - usual
@@ -350,12 +350,12 @@ ngrams:
 - - very
   - clever
   - things
-- - tell
-  - every
-  - last
 - - am
   - surviving
   - remarkably
+- - tell
+  - every
+  - last
 - - relentlessly
   - both
   - day
@@ -443,12 +443,12 @@ ngrams:
 - - case
   - after
   - much
-- - their
-  - looming
-  - presence
 - - know
   - before
   - dawn
+- - their
+  - looming
+  - presence
 - - station
   - roughing
   - up
@@ -479,42 +479,42 @@ ngrams:
 - - ordinary
   - about
   - pc
+- - about
+  - pc
+  - nisbet
 - - years
   - now
   - since
 - - clanged
   - shut
   - what
-- - about
-  - pc
-  - nisbet
 - - find
   - some
   - swans
 - - what
   - large
   - irregular
-- - if
-  - barrage
-  - balloons
-- - saw
-  - 'no'
-  - swans
-- - time
-  - after
-  - upbraiding
 - - swans
   - swanning
   - about
-- - were
-  - temporary
-  - perpendicular
-- - were
+- - saw
+  - 'no'
+  - swans
+- - if
   - barrage
   - balloons
+- - time
+  - after
+  - upbraiding
 - - am
   - very
   - frightening
+- - were
+  - barrage
+  - balloons
+- - were
+  - temporary
+  - perpendicular
 - - thinking
   - about
   - kippers
@@ -617,12 +617,12 @@ ngrams:
 - - station
   - entirely
   - there
-- - ears
-  - would
-  - surely
 - - all
   - bird
   - songs
+- - ears
+  - would
+  - surely
 - - some
   - more
   - berries
@@ -638,57 +638,57 @@ ngrams:
 - - ate
   - some
   - more
-- - after
-  - much
-  - more
-- - pockets
-  - so
-  - eager
 - - inexplicable
   - violence
   - so
+- - pockets
+  - so
+  - eager
+- - after
+  - much
+  - more
+- - violence
+  - so
+  - packed
 - - see
   - if
   - barrage
 - - him
   - now
   - using
-- - violence
-  - so
-  - packed
-- - could
-  - stop
-  - him
 - - barrage
   - balloons
   - which
+- - could
+  - stop
+  - him
 - - these
   - were
   - matters
-- - could
-  - ask
-  - him
 - - swans
   - these
   - were
+- - could
+  - ask
+  - him
 - - wondering
   - why
   - there
-- - leaf
-  - if
-  - only
 - - sea
   - level
   - so
-- - him
-  - imploring
-  - him
-- - could
-  - 'no'
-  - longer
+- - leaf
+  - if
+  - only
 - - floor
   - there
   - must
+- - could
+  - 'no'
+  - longer
+- - him
+  - imploring
+  - him
 - - once
   - told
   - me
@@ -704,21 +704,21 @@ ngrams:
 - - very
   - morning
   - when
-- - some
-  - relief
-  - their
 - - an
   - ordinary
   - copper
+- - some
+  - relief
+  - their
 - - kippers
   - an
   - entire
-- - they
-  - pass
-  - through
 - - bright
   - an
   - expanse
+- - they
+  - pass
+  - through
 - - way
   - towards
   - me
@@ -737,44 +737,38 @@ ngrams:
 - - every
   - so
   - often
-- - head
-  - which
-  - throbbed
-- - removal
-  - techniques
-  - had
 - - upon
   - some
   - other
-- - stockpile
-  - had
-  - grown
+- - head
+  - which
+  - throbbed
 - - ask
   - him
   - about
-- - techniques
+- - removal
+  - techniques
   - had
-  - descended
 - - how
   - long
   - would
+- - stockpile
+  - had
+  - grown
+- - techniques
+  - had
+  - descended
 - - had
   - numberless
   - ornithological
 - - sole
   - success
   - had
-- - looming
-  - presence
-  - had
 - - clever
   - things
   - one
-- - had
-  - gone
-  - unwashed
-- - terrible
-  - crime
+- - looming
+  - presence
   - had
 - - afforded
   - me
@@ -785,18 +779,24 @@ ngrams:
 - - me
   - some
   - relief
-- - presence
+- - had
+  - gone
+  - unwashed
+- - terrible
+  - crime
   - had
-  - cast
-- - has
-  - always
-  - been
 - - but
   - pc
   - nisbet
 - - pc
   - nisbet
   - but
+- - has
+  - always
+  - been
+- - presence
+  - had
+  - cast
 - - bee
   - enthusiast
   - but
@@ -815,30 +815,30 @@ ngrams:
 - - hand
   - grenades
   - or
-- - now
-  - though
-  - they
 - - am
   - sure
   - there
+- - now
+  - though
+  - they
 - - go
   - one
   - better
 - - eke
   - from
   - pc
-- - hoodies
-  - fled
-  - from
 - - from
   - pc
   - nisbet
-- - ordinary
-  - copper
+- - hoodies
+  - fled
   - from
 - - further
   - delay
   - but
+- - ordinary
+  - copper
+  - from
 - - suck
   - from
   - leaves
@@ -857,12 +857,12 @@ ngrams:
 - - winding
   - lane
   - from
-- - still
-  - had
-  - numberless
 - - an
   - entire
   - day
+- - still
+  - had
+  - numberless
 - - viewed
   - from
   - above
@@ -881,39 +881,39 @@ ngrams:
 - - we
   - met
   - up
-- - had
-  - once
-  - told
-- - from
-  - detective
-  - captain
 - - clever
   - modification
   - not
+- - from
+  - detective
+  - captain
 - - pc
   - claimed
   - not
 - - modification
   - not
   - apparent
-- - shoving
-  - me
-  - into
-- - from
-  - deep
-  - within
+- - had
+  - once
+  - told
 - - times
   - from
   - hot
+- - from
+  - deep
+  - within
+- - shoving
+  - me
+  - into
 - - most
   - unusual
   - but
-- - same
-  - time
-  - which
 - - be
   - pebbles
   - somewhere
+- - same
+  - time
+  - which
 - - flush
   - me
   - out

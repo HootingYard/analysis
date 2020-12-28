@@ -83,12 +83,12 @@ ngrams:
 - - dazzling
   - presence
   - o
-- - means
-  - war
-  - chamberlain
 - - dazzling
   - presence
   - o
+- - means
+  - war
+  - chamberlain
 - - tapping
   - machine
   - ready
@@ -171,16 +171,16 @@ ngrams:
   - air
   - o
 - - king
-  - 'yes'
-  - 'yes'
-- - king
-  - 'yes'
-  - 'yes'
-- - king
   - king
   - 'yes'
 - - king
   - king
+  - 'yes'
+- - king
+  - 'yes'
+  - 'yes'
+- - king
+  - 'yes'
   - 'yes'
 - - come
   - rush
@@ -224,12 +224,12 @@ ngrams:
 - - 'yes'
   - 'yes'
   - come
-- - court
-  - wizardy
-  - man
 - - vision
   - reflected
   - back
+- - court
+  - wizardy
+  - man
 - - duties
   - lie
   - here
@@ -290,9 +290,6 @@ ngrams:
 - - your
   - regal
   - presence
-- - only
-  - joking
-  - now
 - - your
   - dazzling
   - presence
@@ -302,6 +299,9 @@ ngrams:
 - - your
   - chamberlain
   - sir
+- - only
+  - joking
+  - now
 - - been
   - doing
   - galumphing

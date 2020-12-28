@@ -38,12 +38,12 @@ ngrams:
 - - pan's
   - cold
   - imperiousness
-- - cold
-  - imperiousness
-  - crumple
 - - istvan
   - pan's
   - office
+- - cold
+  - imperiousness
+  - crumple
 - - linnet
   - eventually
   - becalmed
@@ -68,12 +68,12 @@ ngrams:
 - - manual
   - clearly
   - setting
-- - named
-  - istvan
-  - pan
 - - chilly
   - certainly
   - describe
+- - named
+  - istvan
+  - pan
 - - complicated
   - engine
   - below
@@ -197,12 +197,12 @@ ngrams:
 - - learn
   - too
   - whether
-- - bade
-  - dobson
-  - follow
 - - while
   - above
   - ground
+- - bade
+  - dobson
+  - follow
 - - itself
   - while
   - above
@@ -227,12 +227,12 @@ ngrams:
 - - gasworks
   - more
   - specifically
-- - dobson
-  - presented
-  - himself
 - - next
   - dobson
   - presented
+- - dobson
+  - presented
+  - himself
 - - comforted
   - her
   - chirping
@@ -272,23 +272,17 @@ ngrams:
 - - place
   - could
   - explode
-- - perhaps
-  - dobson
-  - himself
 - - building
   - just
   - after
+- - perhaps
+  - dobson
+  - himself
 - - more
   - importantly
   - why
 - - recall
   - seeing
-  - him
-- - whole
-  - place
-  - could
-- - pamphleteer
-  - asking
   - him
 - - some
   - left
@@ -296,15 +290,18 @@ ngrams:
 - - rapidity
   - some
   - left
+- - pamphleteer
+  - asking
+  - him
+- - whole
+  - place
+  - could
 - - explained
   - why
   - she
 - - their
   - appointment
   - curiously
-- - their
-  - experience
-  - remaining
 - - taller
   - 'no'
   - doubt
@@ -312,14 +309,17 @@ ngrams:
   - just
   - beyond
 - - their
+  - experience
+  - remaining
+- - their
   - direction
   - unless
-- - her
-  - tiny
-  - face
 - - coldly
   - outlined
   - what
+- - her
+  - tiny
+  - face
 - - could
   - ever
   - recall
@@ -350,12 +350,12 @@ ngrams:
 - - learn
   - what
   - happened
-- - dobson
-  - follow
-  - her
 - - bypass
   - she
   - said
+- - dobson
+  - follow
+  - her
 - - others
   - were
   - fired

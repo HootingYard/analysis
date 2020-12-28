@@ -26,23 +26,20 @@ ngrams:
 - - sin
   - next
   - episode
-- - ho
-  - laughs
-  - mr
 - - ruskin
   - blushes
   - last
+- - ho
+  - laughs
+  - mr
 - - blushes
   - last
   - summer
-- - garden
-  - quotes
-  - mr
 - - takes
   - too
   - kindly
-- - ho
-  - says
+- - garden
+  - quotes
   - mr
 - - kindly
   - old
@@ -50,6 +47,9 @@ ngrams:
 - - kindly
   - old
   - gardener
+- - ho
+  - says
+  - mr
 - - given
   - three
   - raisins
@@ -68,9 +68,6 @@ ngrams:
 - - little
   - ruskin
   - marching
-- - hill
-  - garden
-  - mr
 - - takes
   - little
   - ruskin
@@ -80,6 +77,9 @@ ngrams:
 - - episode
   - little
   - ruskin
+- - hill
+  - garden
+  - mr
 - - two
   - ma
   - ruskin

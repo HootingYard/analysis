@@ -86,9 +86,6 @@ ngrams:
 - - died
   - two
   - days
-- - hooting
-  - yard
-  - guff
 - - little
   - red
   - book
@@ -98,6 +95,9 @@ ngrams:
 - - it's
   - like
   - blackpool
+- - hooting
+  - yard
+  - guff
 - - usual
   - hooting
   - yard
@@ -194,15 +194,15 @@ ngrams:
 - - exaggerated
   - when
   - speaking
-- - bread
-  - mashed
-  - into
-- - when
-  - maudling
-  - died
 - - about
   - dr
   - rhodes
+- - when
+  - maudling
+  - died
+- - bread
+  - mashed
+  - into
 - - remarks
   - about
   - dr
@@ -221,12 +221,12 @@ ngrams:
 - - him
   - cry
   - only
-- - made
-  - him
-  - look
 - - once
   - when
   - talking
+- - made
+  - him
+  - look
 - - been
   - very
   - ill
@@ -245,12 +245,12 @@ ngrams:
 - - ringing
   - him
   - up
-- - only
-  - once
-  - when
 - - red
   - book
   - which
+- - only
+  - once
+  - when
 - - an
   - empty
   - room

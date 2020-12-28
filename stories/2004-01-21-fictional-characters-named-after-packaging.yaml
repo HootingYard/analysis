@@ -2,6 +2,12 @@ ngrams:
 - - fictional
   - characters
   - named
+- - left
+  - intentionally
+  - blank
+- - page
+  - left
+  - intentionally
 - - named
   - after
   - packaging
@@ -11,6 +17,6 @@ ngrams:
 story:
   date: 2004-01-21
   id: 2004-01-21-fictional-characters-named-after-packaging
-  text: ''
+  text: This page left intentionally blank.
   title: Fictional Characters Named After Packaging
-word_count: 5
+word_count: 10

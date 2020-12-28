@@ -11,9 +11,6 @@ ngrams:
 - - random
   - harvest
   - mervyn
-- - haphazard
-  - reshelving
-  - exercise
 - - discordant
   - electrified
   - racket
@@ -26,6 +23,9 @@ ngrams:
 - - discordant
   - electrified
   - racket
+- - haphazard
+  - reshelving
+  - exercise
 - - bearded
   - mobile
   - librarian
@@ -83,24 +83,24 @@ ngrams:
 - - powdered
   - milk
   - slops
-- - kitchenette
-  - table
-  - repeatedly
 - - mervyn
   - leroy
   - marigold
-- - nice
-  - piping
-  - hot
+- - kitchenette
+  - table
+  - repeatedly
 - - mosh
   - pit
   - apparently
-- - polished
-  - wooden
-  - surface
 - - nice
   - piping
   - hot
+- - nice
+  - piping
+  - hot
+- - polished
+  - wooden
+  - surface
 - - library
   - holdings
   - including
@@ -113,15 +113,15 @@ ngrams:
 - - research
   - lay
   - scattered
+- - piping
+  - hot
+  - cup
+- - piping
+  - hot
+  - cup
 - - exhaustive
   - reference
   - books
-- - piping
-  - hot
-  - cup
-- - piping
-  - hot
-  - cup
 - - mosh
   - pit
   - 'yes'
@@ -131,12 +131,12 @@ ngrams:
 - - unruly
   - beard
   - whose
-- - wooden
-  - surface
-  - whatever
 - - mosh
   - pit
   - marigold
+- - wooden
+  - surface
+  - whatever
 - - often
   - discordant
   - electrified
@@ -149,12 +149,12 @@ ngrams:
 - - mobile
   - library
   - itself
-- - flesh
-  - bashing
-  - against
 - - flanders
   - fields
   - during
+- - flesh
+  - bashing
+  - against
 - - pass
   - dobson's
   - lips
@@ -167,12 +167,12 @@ ngrams:
 - - holdings
   - including
   - several
-- - listerine
-  - optrex
-  - also
 - - leroy
   - marigold
   - chew
+- - listerine
+  - optrex
+  - also
 - - bashing
   - against
   - wood
@@ -194,12 +194,12 @@ ngrams:
 - - good
   - night's
   - sleep
-- - native
-  - peasants
-  - having
 - - including
   - several
   - thick
+- - native
+  - peasants
+  - having
 - - wild
   - beardy
   - person
@@ -224,18 +224,18 @@ ngrams:
 - - library
   - again
   - assuming
-- - wanted
-  - eventually
-  - under
 - - leafage
   - still
   - dripping
-- - news
-  - asked
-  - marigold
+- - wanted
+  - eventually
+  - under
 - - mobile
   - library
   - again
+- - news
+  - asked
+  - marigold
 - - place
   - alas
   - whatever
@@ -260,18 +260,18 @@ ngrams:
 - - new
   - mobile
   - librarian
+- - asked
+  - marigold
+  - chew
+- - asked
+  - marigold
+  - chew
+- - asked
+  - marigold
+  - chew
 - - shall
   - undertake
   - further
-- - asked
-  - marigold
-  - chew
-- - asked
-  - marigold
-  - chew
-- - asked
-  - marigold
-  - chew
 - - later
   - marigold
   - chew
@@ -284,21 +284,21 @@ ngrams:
 - - disinfectant
   - bath
   - just
-- - shouted
-  - dobson
-  - melodramatically
 - - days
   - later
   - marigold
+- - shouted
+  - dobson
+  - melodramatically
 - - word
   - mosh
   - ever
-- - sweet
-  - shouted
-  - dobson
 - - ever
   - pass
   - dobson's
+- - sweet
+  - shouted
+  - dobson
 - - pit
   - moaned
   - dobson
@@ -308,15 +308,15 @@ ngrams:
 - - mobile
   - library
   - before
-- - floor
-  - dobson
-  - interrupted
-- - last
-  - few
-  - caraway
 - - area
   - where
   - gaggles
+- - last
+  - few
+  - caraway
+- - floor
+  - dobson
+  - interrupted
 - - please
   - explain
   - dobson
@@ -350,36 +350,36 @@ ngrams:
 - - excellent
   - idea
   - dobson
+- - peasants
+  - having
+  - never
 - - dobson
   - thus
   - nowhere
 - - now
   - boiling
   - kettle
-- - peasants
-  - having
-  - never
 - - tuesday
+  - said
+  - marigold
+- - straight
   - said
   - marigold
 - - right
   - buttercup
   - said
-- - straight
-  - said
-  - marigold
-- - marigold
-  - chew
-  - dobson
 - - library
   - said
   - marigold
-- - came
-  - back
-  - indoors
 - - bright
   - side
   - said
+- - marigold
+  - chew
+  - dobson
+- - came
+  - back
+  - indoors
 - - came
   - crashing
   - back
@@ -401,12 +401,12 @@ ngrams:
 - - dobson
   - asked
   - marigold
-- - dobson
-  - came
-  - crashing
 - - back
   - garden
   - quite
+- - dobson
+  - came
+  - crashing
 - - said
   - marigold
   - chew
@@ -437,51 +437,51 @@ ngrams:
 - - nor
   - even
   - walked
-- - more
-  - rigorous
-  - research
 - - dobson's
   - lips
   - other
-- - own
-  - back
-  - garden
-- - own
-  - back
-  - garden
 - - our
   - own
   - mosh
 - - our
   - own
   - mosh
-- - find
-  - dobson
-  - slumped
+- - more
+  - rigorous
+  - research
+- - own
+  - back
+  - garden
+- - own
+  - back
+  - garden
 - - having
   - never
   - seen
-- - leroy
-  - well
-  - dobson
 - - against
   - its
   - polished
-- - hours
-  - later
+- - find
+  - dobson
+  - slumped
+- - leroy
+  - well
   - dobson
 - - morning
   - over
   - breakfast
+- - hours
+  - later
+  - dobson
 - - forehead
   - against
   - its
-- - chew
-  - dobson
-  - took
 - - pit
   - without
   - any
+- - chew
+  - dobson
+  - took
 - - even
   - walked
   - though
@@ -509,12 +509,12 @@ ngrams:
 - - morning
   - dobson
   - came
-- - later
-  - dobson
-  - came
 - - heavily
   - than
   - ever
+- - later
+  - dobson
+  - came
 - - she
   - went
   - downstairs
@@ -530,12 +530,12 @@ ngrams:
 - - holding
   - aloft
   - their
-- - may
-  - continued
-  - dobson
 - - kettle
   - some
   - days
+- - may
+  - continued
+  - dobson
 - - whatever
   - dobson
   - said

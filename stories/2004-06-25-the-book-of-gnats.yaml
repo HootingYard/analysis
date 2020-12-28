@@ -12,11 +12,14 @@ ngrams:
   - instruments
   - coddington
 - - winckelmann
-  - mercifully
-  - unconscious
+  - strode
+  - importantly
 - - knocked
   - winckelmann
   - mercifully
+- - winckelmann
+  - mercifully
+  - unconscious
 - - instruments
   - coddington
   - lenses
@@ -38,18 +41,18 @@ ngrams:
 - - cracked
   - wings
   - sprout
-- - wings
-  - knocked
-  - winckelmann
 - - thrashing
   - wings
   - knocked
-- - barely
-  - imaginable
-  - puddles
+- - wings
+  - knocked
+  - winckelmann
 - - charming
   - handmade
   - jar
+- - barely
+  - imaginable
+  - puddles
 - - hold
   - magnification
   - instruments
@@ -83,12 +86,12 @@ ngrams:
 - - gnats
   - whose
   - thrashing
-- - whose
-  - thrashing
-  - wings
 - - envelope
   - stuffed
   - full
+- - whose
+  - thrashing
+  - wings
 - - useless
   - wings
   - against
@@ -155,12 +158,12 @@ ngrams:
 - - gnarled
   - hands
   - many
-- - dainty
-  - anklets
-  - only
 - - hands
   - many
   - gifts
+- - dainty
+  - anklets
+  - only
 - - toad
   - know
   - ye
@@ -242,30 +245,30 @@ ngrams:
 - - your
   - drab
   - rock
-- - devoured
-  - him
-  - every
 - - your
   - cracked
   - wings
+- - shed
+  - your
+  - cracked
 - - what
   - hideous
   - nursery
 - - owner
   - what
   - kitchen
-- - shed
-  - your
-  - cracked
-- - what
-  - kitchen
-  - fed
+- - devoured
+  - him
+  - every
 - - leave
   - your
   - drab
 - - rock
   - shed
   - your
+- - what
+  - kitchen
+  - fed
 - - 'no'
   - human
   - eye
@@ -284,20 +287,20 @@ ngrams:
 story:
   date: 2004-06-25
   id: 2004-06-25-the-book-of-gnats
-  text: 'I--So was a tempest loosed upon the city, and its very fabric uprooted from
-    the mud. Whirling and howling, the city was dispersed upon the firmament, coming
-    to rest none knew where. And the mud spawned all manner of noisome pests, squirming
-    and wriggling to escape the gigantic puddles which were left in the wake of the
-    storm. These were not puddles of water, no, nor of any liquid known to the human
-    mind. And then my eyes saw, standing fiery on a wooden plinth ringed by scum-pools,
-    the obscene figure of Winckelmann. In his left hand he brandished aloft a scrap
-    of burning linoleum. His right hand was made into a fist. As, dribbling, I watched,
-    the fist was slowly opened to reveal a..... I cannot say. I do not know. For just
-    at the moment my peering, watery eyes would have seen that... that thing, I was
-    startled by a toad, which leapt up at my face, and thwacked me on the forehead,
+  text: 'I -- So was a tempest loosed upon the city, and its very fabric uprooted
+    from the mud. Whirling and howling, the city was dispersed upon the firmament,
+    coming to rest none knew where. And the mud spawned all manner of noisome pests,
+    squirming and wriggling to escape the gigantic puddles which were left in the
+    wake of the storm. These were not puddles of water, no, nor of any liquid known
+    to the human mind. And then my eyes saw, standing fiery on a wooden plinth ringed
+    by scum-pools, the obscene figure of Winckelmann. In his left hand he brandished
+    aloft a scrap of burning linoleum. His right hand was made into a fist. As, dribbling,
+    I watched, the fist was slowly opened to reveal a.... I cannot say. I do not know.
+    For just at the moment my peering, watery eyes would have seen that... that thing,
+    I was startled by a toad, which leapt up at my face, and thwacked me on the forehead,
     leaving an imprint which remains there to this day, like a brand.
 
-    II--The man with the toad-mark flapped his shattered wings. In vain, in vain.
+    II -- The man with the toad-mark flapped his shattered wings. In vain, in vain.
     Perched on the rock, beaten by harsh winds, encrusted with seaweed, sightless,
     he was of a sudden assaulted by a voice, roaring at him across a thousand continents.
     "Man with the Mark of the Toad! Know ye the Song of the Boll Weevils? Aye? Then
@@ -311,13 +314,13 @@ story:
     and towels for you! I hold pigeons'' blood, crayons and isinglass! The crayons
     are of colours no human eye should ever contemplate! The isinglass gleams in a
     charming handmade jar! The jar has your mark upon it, Man with the Mark of the
-    Toad! Come...." There were hours upon hours of this wretched gibberish, enough
+    Toad! Come..." There were hours upon hours of this wretched gibberish, enough
     to make an ant die. The man with the toad-mark beat his useless wings against
     the wind and turned his head away. His brow was crawling with gnats. The gnats
     had come a long way, from barely imaginable puddles of slop where once a city
     had stood. The City of Gnats.
 
-    III--Winckelmann strode importantly through the boulevards of the walled city.
+    III -- Winckelmann strode importantly through the boulevards of the walled city.
     He chucked trinkets and baubles to beggars and cripples, holding a vermilion cravat
     over his nose as he did so. Worms slithered up his dainty anklets, only to be
     torn away by scrofula-ridden flunkies. Imposing but haphazard, Winckelmann relied
@@ -342,4 +345,4 @@ story:
     in a flash. Then, buzzing and twanging, the swarm left the chamber as it had entered,
     through a chute, through a chute, through a chute.'
   title: The Book of Gnats
-word_count: 755
+word_count: 761

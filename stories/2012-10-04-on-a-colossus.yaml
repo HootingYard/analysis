@@ -1,10 +1,10 @@
 ngrams:
-- - sirens
-  - rigging
-  - anchors
 - - foghorns
   - sirens
   - rigging
+- - sirens
+  - rigging
+  - anchors
 - - cutlasses
   - bilgewater
   - tattered
@@ -218,12 +218,12 @@ ngrams:
 - - hell
   - either
   - way
-- - exactly
-  - five
-  - years
 - - infant
   - school
   - here
+- - exactly
+  - five
+  - years
 - - touching
   - looking
   - back
@@ -245,15 +245,15 @@ ngrams:
 - - first
   - appeared
   - almost
-- - dobson
-  - indeed
-  - bestride
 - - let
   - us
   - clear
 - - come
   - whenever
   - two
+- - dobson
+  - indeed
+  - bestride
 - - years
   - ago
   - today
@@ -329,12 +329,12 @@ ngrams:
 - - summary
   - dismissal
   - if
-- - dotage
-  - dobson
-  - she
 - - resignation
   - speech
   - if
+- - dotage
+  - dobson
+  - she
 - - illusory
   - some
   - say
@@ -347,9 +347,9 @@ ngrams:
 - - some
   - say
   - hell
-- - city
-  - were
-  - required
+- - extra
+  - marks
+  - will
 story:
   date: 2012-10-04
   id: 2012-10-04-on-a-colossus

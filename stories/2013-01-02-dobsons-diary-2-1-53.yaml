@@ -29,15 +29,15 @@ ngrams:
 - - fitter
   - c
   - o
+- - s
+  - r
+  - fitter
+- - s
+  - r
+  - fitter
 - - pencil
   - sharpener
   - bought
-- - s
-  - r
-  - fitter
-- - s
-  - r
-  - fitter
 - - large
   - sewage
   - farm
@@ -74,12 +74,12 @@ ngrams:
 - - pamphleteer
   - dobson's
   - diary
-- - mr
-  - fitter
-  - woke
 - - print
   - pamphleteer
   - dobson's
+- - mr
+  - fitter
+  - woke
 - - eventually
   - result
   - another
@@ -158,12 +158,12 @@ ngrams:
 - - found
   - himself
   - other
-- - their
-  - smallness
-  - thus
 - - article
   - about
   - masks
+- - their
+  - smallness
+  - thus
 - - everybody
   - knows
   - what
@@ -212,12 +212,12 @@ ngrams:
 - - would
   - small
   - gnomes
-- - small
-  - would
-  - small
 - - should
   - keep
   - me
+- - small
+  - would
+  - small
 - - what
   - more
   - lies

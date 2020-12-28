@@ -8,15 +8,15 @@ ngrams:
 - - pedantic
   - register
   - gazette
-- - pods
-  - transylvanian
-  - castles
 - - gillespie's
   - pedantic
   - register
 - - stations
   - skyscrapers
   - futuristic
+- - pods
+  - transylvanian
+  - castles
 - - enigmatically
   - unconsummated
   - affair
@@ -41,12 +41,12 @@ ngrams:
 - - actor
   - claude
   - rains
-- - preposterously
-  - limited
-  - range
 - - hollywood
   - actor
   - claude
+- - preposterously
+  - limited
+  - range
 - - dazzling
   - adventures
   - shem
@@ -65,15 +65,15 @@ ngrams:
 - - till
   - dusk
   - conjuring
+- - gazette
+  - doctor
+  - gillespie
 - - suez
   - canal
   - visionary
 - - canal
   - visionary
   - ferdinand
-- - gazette
-  - doctor
-  - gillespie
 - - singular
   - literary
   - career
@@ -140,11 +140,11 @@ ngrams:
 - - story
   - shem
   - ham
-- - famous
-  - story
-  - shem
 - - second
   - tale
+  - shem
+- - famous
+  - story
   - shem
 - - unconsummated
   - affair
@@ -197,12 +197,12 @@ ngrams:
 - - passionate
   - yet
   - enigmatically
-- - europe
-  - edged
-  - once
 - - broken
   - pen
   - nor
+- - europe
+  - edged
+  - once
 - - nincompoops
   - nearly
   - every
@@ -212,12 +212,12 @@ ngrams:
 - - great
   - modernists
   - james
-- - buried
-  - alive
-  - again
 - - great
   - war
   - critics
+- - buried
+  - alive
+  - again
 - - nearly
   - every
   - writer
@@ -233,12 +233,12 @@ ngrams:
 - - publish
   - two
   - periodicals
-- - spent
-  - every
-  - thursday
 - - life
   - writing
   - strange
+- - spent
+  - every
+  - thursday
 - - also
   - called
   - vincenzo
@@ -260,12 +260,12 @@ ngrams:
 - - war
   - years
   - hiding
-- - again
-  - towards
-  - war
 - - shares
   - those
   - dates
+- - again
+  - towards
+  - war
 - - magazines
   - folded
   - after
@@ -299,12 +299,12 @@ ngrams:
 - - waste
   - chute
   - over
-- - suez
-  - canal
-  - where
 - - modern
   - than
   - jim
+- - suez
+  - canal
+  - where
 - - away
   - without
   - paying
@@ -344,12 +344,12 @@ ngrams:
 - - she
   - babbled
   - incessantly
-- - genesis
-  - she
-  - tore
 - - hallucinatory
   - miasma
   - she
+- - genesis
+  - she
+  - tore
 - - daze
   - she
   - babbled
@@ -428,12 +428,12 @@ ngrams:
 - - eat
   - her
   - fill
-- - text
-  - she
-  - needed
 - - more
   - cease
   - writing
+- - text
+  - she
+  - needed
 - - her
   - broken
   - pen
@@ -455,12 +455,12 @@ ngrams:
 - - career
   - began
   - she
-- - medal
-  - she
-  - wrote
 - - before
   - running
   - away
+- - medal
+  - she
+  - wrote
 - - miasma
   - she
   - told
@@ -482,75 +482,75 @@ ngrams:
 - - within
   - her
   - daze
-- - her
-  - criminal
-  - past
 - - amnesty
   - just
   - before
-- - mentor
-  - she
-  - went
+- - her
+  - criminal
+  - past
 - - her
   - second
   - tale
+- - mentor
+  - she
+  - went
 - - prison
   - just
   - before
 - - monomaniac
   - who
   - stuck
+- - tried
+  - hawking
+  - them
 - - hayloft
   - indeed
   - she
 - - writer
   - who
   - shares
-- - tried
-  - hawking
-  - them
 - - home
   - she
   - bought
-- - tint
-  - who
-  - recommended
 - - her
   - hair
   - turned
+- - tint
+  - who
+  - recommended
 - - her
   - face
   - seemed
 - - since
   - her
   - writing
-- - indeed
-  - she
-  - spoke
 - - them
   - ate
   - soup
+- - indeed
+  - she
+  - spoke
 - - character
   - who
   - purported
 - - done
   - since
   - her
-- - third
-  - writer
-  - who
 - - 'no'
   - clues
   - throughout
+- - third
+  - writer
+  - who
 - - announce
   - their
   - failure
-- - her
-  - second
-  - story
 - - frenzy
   - until
   - her
+- - her
+  - second
+  - story
 - - her
   - work
   - except
@@ -566,12 +566,12 @@ ngrams:
 - - mark
   - her
   - name
-- - her
-  - last
-  - illness
 - - find
   - her
   - scribbling
+- - her
+  - last
+  - illness
 story:
   date: 2005-06-29
   id: 2005-06-29-shem-ham-japheth-and-minnie-crunlop

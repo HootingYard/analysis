@@ -23,12 +23,12 @@ ngrams:
 - - colleagues
   - equally
   - fanciful
-- - alphabetic
-  - postage
-  - schedule
 - - needles
   - knit
   - la
+- - alphabetic
+  - postage
+  - schedule
 - - arbitrary
   - power
   - invested
@@ -74,12 +74,6 @@ ngrams:
 - - beyond
   - clack
   - clack
-- - country
-  - pile
-  - situated
-- - wrought
-  - iron
-  - gates
 - - la
   - gubbins
   - sits
@@ -89,24 +83,30 @@ ngrams:
 - - la
   - gubbins
   - knit
+- - country
+  - pile
+  - situated
+- - wrought
+  - iron
+  - gates
 - - bosky
   - lane
   - lined
-- - iron
-  - gates
-  - partly
 - - john
   - fitzgerald
   - kennedy
-- - officer
-  - h
-  - b
-- - middle
-  - distance
-  - seemingly
+- - iron
+  - gates
+  - partly
 - - president
   - john
   - fitzgerald
+- - middle
+  - distance
+  - seemingly
+- - officer
+  - h
+  - b
 - - enormous
   - wrought
   - iron
@@ -143,15 +143,15 @@ ngrams:
 - - situated
   - behind
   - enormous
-- - cardboard
-  - box
-  - underneath
 - - behind
   - enormous
   - wrought
 - - sentence
   - mrs
   - gubbins
+- - cardboard
+  - box
+  - underneath
 - - presidential
   - motorcade
   - along
@@ -230,12 +230,12 @@ ngrams:
 - - like
   - sisyphus
   - hopelessly
-- - need
-  - only
-  - compare
 - - grief
   - like
   - gubbins
+- - need
+  - only
+  - compare
 - - like
   - gubbins
   - begins

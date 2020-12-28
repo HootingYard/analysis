@@ -1,0 +1,25 @@
+ngrams:
+- - frank
+  - key
+  - broadcasting
+- - frank
+  - key
+  - frank
+- - page
+  - frank
+  - key
+- - home
+  - page
+  - frank
+- - key
+  - frank
+  - key
+story:
+  date: 2003-01-01
+  id: 2003-01-01-the-hooting-yard-home-page
+  text: 'Frank Key
+
+
+    Frank Key broadcasting Hooting Yard on the Air'
+  title: The Hooting Yard Home Page
+word_count: 15

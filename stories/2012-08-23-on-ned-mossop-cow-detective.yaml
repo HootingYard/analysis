@@ -56,12 +56,12 @@ ngrams:
 - - ok
   - pumpkin
   - show
-- - open
-  - joel
-  - cairo
 - - detective
   - ned
   - mossop
+- - open
+  - joel
+  - cairo
 - - cows
   - quit
   - stalling
@@ -155,24 +155,24 @@ ngrams:
 - - muck
   - being
   - spread
-- - desk
-  - knocked
-  - back
 - - own
   - right
   - white
+- - desk
+  - knocked
+  - back
 - - watch
   - muck
   - being
 - - perished
   - why
   - why
-- - veil
-  - drawn
-  - over
 - - day
   - plus
   - expenses
+- - veil
+  - drawn
+  - over
 - - why
   - i've
   - come
@@ -182,12 +182,12 @@ ngrams:
 - - delicate
   - feet
   - over
-- - eyes
-  - lifted
-  - after
 - - see
   - yesterday
   - morning
+- - eyes
+  - lifted
+  - after
 - - hair
   - sometimes
   - through
@@ -254,12 +254,12 @@ ngrams:
 - - trundle
   - her
   - home
-- - unloaded
-  - their
-  - griefs
 - - rather
   - she
   - added
+- - unloaded
+  - their
+  - griefs
 - - grasses
   - unloaded
   - their
@@ -272,12 +272,12 @@ ngrams:
 - - i've
   - come
   - she
-- - mr
-  - mossop
-  - she
 - - its
   - own
   - right
+- - mr
+  - mossop
+  - she
 - - cold
   - pews
   - their
@@ -287,12 +287,12 @@ ngrams:
 - - your
   - husband's
   - herd
-- - pews
-  - their
-  - hands
 - - tree
   - pointed
   - up
+- - pews
+  - their
+  - hands
 - - behind
   - him
   - oh
@@ -332,12 +332,12 @@ ngrams:
 - - released
   - them
   - two
-- - him
-  - oh
-  - mr
 - - your
   - office
   - door
+- - him
+  - oh
+  - mr
 - - me
   - trudging
   - uninvited
@@ -350,12 +350,15 @@ ngrams:
 - - them
   - two
   - cows
-- - over
-  - her
-  - face
 - - eyes
   - popped
   - out
+- - over
+  - her
+  - face
+- - yew
+  - poisoning
+  - there
 - - cows
   - were
   - already
@@ -365,30 +368,27 @@ ngrams:
 - - raymond
   - chandler
   - would
-- - yew
-  - poisoning
-  - there
 - - night
   - anyway
   - when
-- - cows
-  - got
-  - into
-- - were
-  - already
-  - dead
-- - were
-  - already
-  - dead
 - - all
   - blue
   - floating
+- - cows
+  - got
+  - into
 - - like
   - mary
   - her
-- - paid
-  - him
-  - only
+- - were
+  - already
+  - dead
+- - were
+  - already
+  - dead
+- - mean
+  - fields
+  - all
 story:
   date: 2012-08-23
   id: 2012-08-23-on-ned-mossop-cow-detective

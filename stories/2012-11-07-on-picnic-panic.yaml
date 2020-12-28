@@ -26,12 +26,12 @@ ngrams:
 - - aviatrix
   - named
   - mavis
-- - b
-  - '''s'
-  - squalid
 - - splendid
   - bucolic
   - picnicking
+- - b
+  - '''s'
+  - squalid
 - - vertical
   - line
   - trailing
@@ -47,15 +47,15 @@ ngrams:
 - - '''s'
   - poor
   - shattered
-- - ned
-  - b
-  - simultaneous
 - - picnic
   - panic
   - psychiatrists
 - - picnic
   - panic
   - mistakes
+- - ned
+  - b
+  - simultaneous
 - - ned
   - b
   - '''s'
@@ -74,12 +74,15 @@ ngrams:
 - - release
   - ned
   - b
-- - gibbering
-  - maniac
-  - beyond
 - - standard
   - dilapidated
   - seaside
+- - gibbering
+  - maniac
+  - beyond
+- - impromptu
+  - picnic
+  - ned
 - - b
   - '''s'
   - poor
@@ -89,9 +92,6 @@ ngrams:
 - - dilapidated
   - seaside
   - resort
-- - impromptu
-  - picnic
-  - ned
 - - bright
   - red
   - crayon
@@ -101,15 +101,15 @@ ngrams:
 - - otherwise
   - splendid
   - bucolic
-- - b
-  - '''s'
-  - wild
-- - mad
-  - vertical
-  - line
 - - seafront
   - boarding
   - house
+- - mad
+  - vertical
+  - line
+- - b
+  - '''s'
+  - wild
 - - study
   - ned
   - b
@@ -122,15 +122,15 @@ ngrams:
 - - picnic
   - panic
   - looking
-- - final
-  - letter
-  - c
 - - impeccable
   - references
   - among
 - - attend
   - several
   - picnics
+- - final
+  - letter
+  - c
 - - least
   - allowing
   - ned
@@ -188,12 +188,12 @@ ngrams:
 - - pebbly
   - beach
   - just
-- - b
-  - never
-  - consumed
 - - line
   - trailing
   - 'off'
+- - b
+  - never
+  - consumed
 - - beach
   - just
   - yards
@@ -242,21 +242,21 @@ ngrams:
 - - field
   - where
   - once
-- - her
-  - attic
-  - room
 - - past
   - might
   - well
+- - her
+  - attic
+  - room
 - - trailing
   - 'off'
   - down
-- - picnickers
-  - who
-  - fly
 - - shattered
   - brain
   - she
+- - picnickers
+  - who
+  - fly
 - - seagull
   - she
   - took
@@ -284,15 +284,15 @@ ngrams:
 - - panic
   - mistakes
   - were
+- - brain
+  - she
+  - must
 - - if
   - carefully
   - monitored
 - - picnics
   - into
   - ned
-- - brain
-  - she
-  - must
 - - brain
   - told
   - him
@@ -311,9 +311,9 @@ ngrams:
 - - summer's
   - day
   - she
-- - almost
-  - certainly
-  - been
+- - she
+  - must
+  - find
 story:
   date: 2012-11-07
   id: 2012-11-07-on-picnic-panic

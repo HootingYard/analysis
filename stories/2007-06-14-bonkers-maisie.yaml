@@ -35,27 +35,27 @@ ngrams:
 - - acts
   - bonkers
   - maisie
-- - bonkers
-  - maisie
-  - performed
 - - rescue
   - bonkers
   - maisie
-- - tattered
-  - attic
-  - rags
+- - bonkers
+  - maisie
+  - performed
 - - local
   - hoi
   - polloi
+- - tattered
+  - attic
+  - rags
 - - break
   - gradually
   - moving
-- - stinking
-  - farmhouse
-  - atop
 - - advertisement
   - ran
   - shy
+- - stinking
+  - farmhouse
+  - atop
 - - gradually
   - getting
   - louder
@@ -68,12 +68,12 @@ ngrams:
 - - gothic
   - novel
   - bonkers
-- - bonkers
-  - maisie
-  - stopped
 - - novel
   - bonkers
   - maisie
+- - bonkers
+  - maisie
+  - stopped
 - - remains
   - unsung
   - hidden
@@ -95,12 +95,12 @@ ngrams:
 - - abandoned
   - remains
   - unsung
-- - necks
-  - already
-  - bared
 - - minutes
   - bonkers
   - maisie
+- - necks
+  - already
+  - bared
 - - stuffed
   - toy
   - bear
@@ -200,12 +200,12 @@ ngrams:
 - - pernickety
   - readers
   - may
-- - more
-  - established
-  - acts
 - - every
   - night
   - without
+- - more
+  - established
+  - acts
 - - her
   - handbag
   - sashayed
@@ -224,33 +224,33 @@ ngrams:
 - - rags
   - she
   - tapped
-- - attic
-  - rags
-  - she
 - - replaced
   - her
   - tattered
 - - came
   - lolloping
   - down
-- - her
-  - tattered
-  - attic
+- - attic
+  - rags
+  - she
 - - maisie
   - performed
   - her
+- - her
+  - tattered
+  - attic
 - - her
   - rescue
   - bonkers
 - - readers
   - may
   - question
-- - her
-  - final
-  - appearance
 - - haunting
   - grandeur
   - some
+- - her
+  - final
+  - appearance
 - - grandeur
   - some
   - wept
@@ -296,15 +296,15 @@ ngrams:
 - - others
   - who
   - lived
-- - their
-  - necks
-  - already
-- - back
-  - turned
-  - than
 - - her
   - new
   - expensive
+- - back
+  - turned
+  - than
+- - their
+  - necks
+  - already
 story:
   date: 2007-06-14
   id: 2007-06-14-bonkers-maisie

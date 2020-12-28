@@ -71,42 +71,39 @@ ngrams:
 - - unexpectedly
   - von
   - vig
-- - erudite
-  - appalling
-  - nuts
 - - lip
   - fashion
   - craze
+- - erudite
+  - appalling
+  - nuts
 - - unbridled
   - violence
   - weedy
+- - bar
+  - serving
+  - urchin
+- - bar
+  - serving
+  - urchin
 - - lip
   - fashion
   - historian
-- - bar
-  - serving
-  - urchin
-- - bar
-  - serving
-  - urchin
-- - nuts
-  - rubicund
-  - sordid
 - - cat
   - gus
   - begged
 - - moustached
   - serial
   - killer
+- - nuts
+  - rubicund
+  - sordid
 - - godforsaken
   - rustic
   - hellhole
 - - holy
   - brittle
   - bitter
-- - weedy
-  - von
-  - vig
 - - von
   - vig
   - sought
@@ -116,6 +113,9 @@ ngrams:
 - - vig
   - grew
   - thirsty
+- - weedy
+  - von
+  - vig
 - - wholly
   - unconscious
   - waved
@@ -146,27 +146,27 @@ ngrams:
 - - public
   - outing
   - dozens
-- - von
-  - vig
-  - grew
 - - peasant
   - expressed
   - admiration
-- - asleep
-  - shortly
-  - afterwards
+- - von
+  - vig
+  - grew
 - - de
   - rigueur
   - scarcely
+- - asleep
+  - shortly
+  - afterwards
 - - latest
   - fashion
   - magazines
-- - station
-  - gus
-  - von
 - - writes
   - he's
   - instantly
+- - station
+  - gus
+  - von
 - - brutal
   - peasant
   - sport
@@ -188,12 +188,12 @@ ngrams:
 - - certainly
   - proved
   - persuasive
-- - promptly
-  - fell
-  - asleep
 - - railway
   - station
   - gus
+- - promptly
+  - fell
+  - asleep
 - - dilapidated
   - railway
   - station
@@ -206,12 +206,12 @@ ngrams:
 - - fell
   - asleep
   - shortly
-- - deep
-  - spiritual
-  - peasant
 - - peasant
   - love
   - akin
+- - deep
+  - spiritual
+  - peasant
 - - spiritual
   - peasant
   - love
@@ -230,12 +230,12 @@ ngrams:
 - - hand
   - gus
   - begged
-- - chugged
-  - slowly
-  - towards
 - - wide
   - awake
   - almost
+- - chugged
+  - slowly
+  - towards
 - - single
   - peasant
   - expressed
@@ -296,12 +296,12 @@ ngrams:
 - - guests
   - against
   - each
-- - came
-  - mincing
-  - along
 - - train
   - journey
   - away
+- - came
+  - mincing
+  - along
 - - tiny
   - beetles
   - across
@@ -326,28 +326,28 @@ ngrams:
 - - fad
   - oh
   - much
-- - down
-  - greedily
-  - inadvertently
 - - vig
   - first
   - gave
+- - down
+  - greedily
+  - inadvertently
 - - farmer
   - might
   - change
 - - bars
   - where
   - gus
-- - most
-  - fashionable
-  - people
 - - why
   - cats
   - must
-- - where
+- - most
+  - fashionable
+  - people
+- - than
   - gus
   - von
-- - than
+- - where
   - gus
   - von
 - - only
@@ -362,29 +362,29 @@ ngrams:
 - - always
   - plagued
   - those
-- - lord
-  - only
-  - knows
-- - milk
-  - moustache
-  - such
 - - moustache
   - upon
   - von
+- - milk
+  - moustache
+  - such
+- - lord
+  - only
+  - knows
 - - only
   - towards
   - puppies
-- - yield
-  - then
-  - gus
 - - station
   - far
   - away
-- - concentrate
-  - instead
-  - upon
+- - yield
+  - then
+  - gus
 - - milk
   - moustache
+  - upon
+- - concentrate
+  - instead
   - upon
 - - milk
   - bar

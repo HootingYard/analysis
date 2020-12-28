@@ -38,12 +38,12 @@ ngrams:
 - - query
   - mr
   - de
-- - ignore
-  - mr
-  - de
 - - irritant
   - dear
   - mr
+- - ignore
+  - mr
+  - de
 - - get
   - snagged
   - within
@@ -98,12 +98,12 @@ ngrams:
 - - wound
   - we
   - shall
-- - we
-  - shall
-  - assume
 - - will
   - probably
   - take
+- - we
+  - shall
+  - assume
 - - me
   - again
   - unless

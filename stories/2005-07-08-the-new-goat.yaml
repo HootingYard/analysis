@@ -32,12 +32,12 @@ ngrams:
 - - doppelganger
   - gazette
   - reported
-- - gerard
-  - manley
-  - hopkins'
 - - quaker
   - cloud
   - classifier
+- - gerard
+  - manley
+  - hopkins'
 - - luke
   - howard's
   - terms
@@ -80,9 +80,6 @@ ngrams:
 - - eighth
   - birthday
   - climbed
-- - initial
-  - newspaper
-  - advertisement
 - - rand
   - household
   - pet
@@ -95,15 +92,18 @@ ngrams:
 - - pet
   - rescue
   - squadron
+- - initial
+  - newspaper
+  - advertisement
+- - intent
+  - blasphemous
+  - ted
 - - banky
   - tyrone
   - power
 - - tyrone
   - power
   - edna
-- - intent
-  - blasphemous
-  - ted
 - - power
   - edna
   - purviance
@@ -146,12 +146,12 @@ ngrams:
 - - reverend
   - held
   - tight
-- - rescue
-  - operation
-  - carried
 - - mentioned
   - blasphemous
   - ted
+- - rescue
+  - operation
+  - carried
 - - beast
   - exchange
   - office
@@ -194,12 +194,12 @@ ngrams:
 - - blasphemous
   - ted
   - got
-- - ted's
-  - skull
-  - however
 - - fortnight
   - ago
   - siege
+- - ted's
+  - skull
+  - however
 - - hot
   - tea
   - yelled
@@ -212,12 +212,12 @@ ngrams:
 - - piping
   - hot
   - tea
-- - skull
-  - however
-  - proved
 - - yap
   - nor
   - yelp
+- - skull
+  - however
+  - proved
 - - cycling
   - home
   - via
@@ -287,12 +287,12 @@ ngrams:
 - - daily
   - cushion
   - while
-- - whose
-  - finest
-  - work
 - - came
   - past
   - trundling
+- - whose
+  - finest
+  - work
 - - growing
   - enraged
   - old
@@ -311,12 +311,12 @@ ngrams:
 - - plain
   - old
   - ted
-- - someone
-  - came
-  - past
 - - see
   - blasphemous
   - ted
+- - someone
+  - came
+  - past
 - - shoulder
   - still
   - sound
@@ -371,12 +371,12 @@ ngrams:
 - - should
   - explain
   - why
-- - newspaper
-  - advertisement
-  - down
 - - after
   - eight
   - weeks
+- - newspaper
+  - advertisement
+  - down
 - - earth's
   - surface
   - where
@@ -401,12 +401,12 @@ ngrams:
 - - week
   - award
   - back
-- - himself
-  - every
-  - bit
 - - such
   - places
   - existed
+- - himself
+  - every
+  - bit
 - - watch
   - over
   - ted
@@ -461,15 +461,15 @@ ngrams:
 - - then
   - blasphemous
   - ted
+- - may
+  - until
+  - someone
 - - seven
   - words
   - only
 - - taken
   - further
   - down
-- - may
-  - until
-  - someone
 - - shockingly
   - just
   - two
@@ -479,24 +479,24 @@ ngrams:
 - - joined
   - old
   - man
-- - heading
-  - old
-  - man
 - - sleeper
   - indeed
   - its
-- - more
-  - times
-  - ted
+- - heading
+  - old
+  - man
 - - indeed
   - its
   - capacity
-- - vietcong
-  - judging
-  - him
+- - more
+  - times
+  - ted
 - - am
   - beyond
   - questions
+- - vietcong
+  - judging
+  - him
 - - judging
   - him
   - useless
@@ -521,12 +521,12 @@ ngrams:
 - - walked
   - unsteadily
   - up
-- - lumbering
-  - towards
-  - him
 - - well
   - fed
   - then
+- - lumbering
+  - towards
+  - him
 - - just
   - two
   - days
@@ -542,75 +542,75 @@ ngrams:
 - - upon
   - ted's
   - head
-- - dog
-  - why
-  - then
 - - few
   - more
   - times
+- - dog
+  - why
+  - then
 - - haberdasher
   - took
   - him
 - - bitter
   - enemy
   - what
-- - long
-  - time
-  - since
 - - your
   - spiritual
   - advice
+- - long
+  - time
+  - since
 - - braked
   - sharply
   - when
 - - cove
   - pushed
   - into
-- - prayers
-  - were
-  - answered
 - - tea
   - feeding
   - your
+- - prayers
+  - were
+  - answered
 - - precisely
   - what
   - happened
+- - bugle
+  - will
+  - swap
 - - even
   - more
   - shockingly
 - - fiends
   - even
   - more
-- - bugle
+- - wheelbarrow
   - will
-  - swap
+  - walk
 - - shared
   - their
   - name
 - - operation
   - carried
   - out
-- - wheelbarrow
-  - will
-  - walk
-- - sights
-  - were
-  - already
 - - need
   - your
   - spiritual
-- - were
+- - sights
+  - were
   - already
-  - trained
-- - took
-  - him
-  - home
-- - then
-  - did
-  - ted
 - - hill
   - bugle
   - will
+- - were
+  - already
+  - trained
+- - then
+  - did
+  - ted
+- - took
+  - him
+  - home
 - - many
   - other
   - things
@@ -620,12 +620,12 @@ ngrams:
 - - what
   - happened
   - within
-- - laughing
-  - however
-  - when
 - - memories
   - will
   - recall
+- - laughing
+  - however
+  - when
 - - its
   - ears
   - its
@@ -647,18 +647,18 @@ ngrams:
 - - nephews
   - were
   - called
-- - blasphemous
-  - visitor
-  - would
 - - come
   - weather
   - what
-- - were
-  - called
-  - ted
+- - blasphemous
+  - visitor
+  - would
 - - spiritual
   - advice
   - there
+- - were
+  - called
+  - ted
 - - useless
   - they
   - decided
@@ -719,15 +719,15 @@ ngrams:
 - - an
   - elderly
   - crumpled
-- - further
-  - down
-  - into
 - - one
   - remaining
   - teabag
 - - heaven's
   - name
   - are
+- - further
+  - down
+  - into
 - - placed
   - an
   - advertisement

@@ -23,15 +23,15 @@ ngrams:
 - - invalid
   - postscript
   - font
-- - papoose
-  - boo
-  - boo
-- - papoose
-  - boo
-  - boo
 - - pierce
   - marvin
   - suicide
+- - papoose
+  - boo
+  - boo
+- - papoose
+  - boo
+  - boo
 - - submerged
   - aquarium
   - hewn
@@ -50,24 +50,24 @@ ngrams:
 - - marvin
   - suicide
   - chris
-- - anagram
-  - sandra
-  - harris
 - - suicide
   - chris
   - weaver
+- - anagram
+  - sandra
+  - harris
 - - show's
   - theme
   - tune
 - - northern
   - hemisphere
   - chaos
-- - begins
-  - rendered
-  - placid
 - - sunlight
   - dan
   - corbett
+- - begins
+  - rendered
+  - placid
 - - tornadoes
   - forked
   - lightning
@@ -104,27 +104,27 @@ ngrams:
 - - beast
   - listening
   - distractedly
-- - c
-  - j
-  - halo
-- - oregano
-  - wars
-  - bear
 - - aquatic
   - beings
   - actual
 - - halo
   - goat
   - luncheon
+- - oregano
+  - wars
+  - bear
+- - c
+  - j
+  - halo
 - - spills
   - window
   - sills
-- - thrills
-  - spills
-  - window
 - - goat
   - luncheon
   - anagram
+- - thrills
+  - spills
+  - window
 - - revolutionary
   - lolita
   - trying
@@ -146,21 +146,21 @@ ngrams:
 - - various
   - janitorial
   - doings
-- - winds
-  - ice
-  - chaos
 - - weather
   - conditions
   - seem
 - - early
   - podcast
   - release
-- - size
-  - including
-  - squid
+- - winds
+  - ice
+  - chaos
 - - costner
   - film
   - zip
+- - size
+  - including
+  - squid
 - - kevin
   - costner
   - film
@@ -176,12 +176,12 @@ ngrams:
 - - including
   - squid
   - according
-- - actual
-  - size
-  - including
 - - alphabetical
   - order
   - pansy
+- - actual
+  - size
+  - including
 - - weather
   - rainfall
   - wild
@@ -197,6 +197,9 @@ ngrams:
 - - profound
   - apologies
   - note
+- - warnings
+  - waverly
+  - person
 - - cod
   - wars
   - between
@@ -209,9 +212,6 @@ ngrams:
 - - weather
   - ah
   - 'yes'
-- - warnings
-  - waverly
-  - person
 - - wild
   - winds
   - ice
@@ -233,12 +233,12 @@ ngrams:
 - - hemisphere
   - chaos
   - indeed
-- - sometimes
-  - torrential
-  - sometimes
 - - snap
   - it's
   - 'true'
+- - sometimes
+  - torrential
+  - sometimes
 - - tsunami
   - incidentally
   - let
@@ -254,12 +254,12 @@ ngrams:
 - - suggested
   - words
   - appear
-- - simple
-  - yet
-  - brilliant
 - - podcast
   - release
   - go
+- - simple
+  - yet
+  - brilliant
 - - amazed
   - little
   - severin
@@ -278,12 +278,12 @@ ngrams:
 - - indoors
   - voila
   - those
-- - reflexes
-  - quite
-  - why
 - - it's
   - 'true'
   - though
+- - reflexes
+  - quite
+  - why
 - - quite
   - why
   - zip
@@ -395,12 +395,12 @@ ngrams:
 - - aquarium
   - hewn
   - out
-- - listeners
-  - were
-  - invited
 - - mystic
   - badger
   - when
+- - listeners
+  - were
+  - invited
 - - among
   - many
   - other

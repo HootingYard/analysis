@@ -89,9 +89,6 @@ ngrams:
 - - jesus
   - two
   - thousand
-- - long
-  - open
-  - box
 - - little
   - lord
   - jesus
@@ -101,6 +98,9 @@ ngrams:
 - - lord
   - jesus
   - two
+- - long
+  - open
+  - box
 - - mewling
   - infant
   - just
@@ -194,9 +194,9 @@ ngrams:
 - - anyway
   - what
   - occurs
-- - star
-  - anyway
-  - if
+- - might
+  - very
+  - well
 story:
   date: 2013-05-04
   id: 2013-05-04-away-in-a-manger

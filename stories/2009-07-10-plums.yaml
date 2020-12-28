@@ -80,15 +80,15 @@ ngrams:
 - - propagate
   - plum
   - trees
-- - science
-  - fiction
-  - enthusiasts
 - - crossing
   - sawdust
   - bridge
 - - fruity
   - orchard
   - nature
+- - science
+  - fiction
+  - enthusiasts
 - - entire
   - afternoons
   - peering
@@ -110,12 +110,12 @@ ngrams:
 - - reply
   - merely
   - casting
-- - ceased
-  - publication
-  - seven
 - - finest
   - plum
   - library
+- - ceased
+  - publication
+  - seven
 - - rack
   - various
   - titles
@@ -137,15 +137,15 @@ ngrams:
 - - pang
   - hill
   - orphanage
+- - magazine
+  - rack
+  - various
 - - affairs
   - whenever
   - anything
 - - wooden
   - household
   - crow
-- - magazine
-  - rack
-  - various
 - - whenever
   - anything
   - changed
@@ -179,12 +179,12 @@ ngrams:
 - - whisks
   - past
   - pang
-- - shop
-  - deep
-  - space
 - - household
   - crow
   - god
+- - shop
+  - deep
+  - space
 - - bee
   - sanctuary
   - past
@@ -257,12 +257,12 @@ ngrams:
 - - flute
   - while
   - standing
-- - ever
-  - greater
-  - perspicacity
 - - saw
   - myself
   - leaping
+- - ever
+  - greater
+  - perspicacity
 - - plan
   - simply
   - because
@@ -272,33 +272,33 @@ ngrams:
 - - shoved
   - none
   - too
-- - most
-  - excellent
-  - magazine
 - - shine
   - sprinting
   - 'off'
+- - most
+  - excellent
+  - magazine
 - - six
   - hours
   - later
+- - wait
+  - while
+  - goat
+- - old
+  - ma
+  - purgative
+- - old
+  - ma
+  - purgative
+- - old
+  - ma
+  - purgative
 - - bidding
   - old
   - ma
 - - old
   - ma
   - purgative
-- - old
-  - ma
-  - purgative
-- - old
-  - ma
-  - purgative
-- - old
-  - ma
-  - purgative
-- - wait
-  - while
-  - goat
 - - ignored
   - old
   - ma
@@ -320,24 +320,24 @@ ngrams:
 - - pinging
   - hailstones
   - dobson
-- - publication
-  - seven
-  - years
-- - hailstones
-  - dobson
-  - scampered
 - - nature
   - old
   - ma
-- - hailstorm
-  - ceased
-  - dobson
+- - publication
+  - seven
+  - years
 - - very
   - flimsy
   - grasp
+- - hailstones
+  - dobson
+  - scampered
 - - four
   - last
   - songs
+- - hailstorm
+  - ceased
+  - dobson
 - - dobson
   - drastic
   - activity
@@ -347,33 +347,33 @@ ngrams:
 - - ceased
   - dobson
   - trudged
-- - regular
-  - customer
-  - dobson
 - - disinfectant
   - goo
   - before
+- - regular
+  - customer
+  - dobson
 - - goo
   - before
   - bidding
-- - project
-  - dobson
-  - pressed
 - - sewage
   - plant
   - over
-- - plum
-  - project
-  - dobson
 - - bed
   - every
   - morning
+- - project
+  - dobson
+  - pressed
 - - past
   - two
   - brooks
 - - grubbiness
   - past
   - two
+- - plum
+  - project
+  - dobson
 - - plum
   - named
   - after
@@ -386,21 +386,18 @@ ngrams:
 - - seen
   - these
   - shenanigans
-- - cow
-  - excursion
-  - dobson
 - - required
   - after
   - breakfast
-- - dobson
-  - became
-  - fixated
+- - cow
+  - excursion
+  - dobson
 - - after
   - breakfast
   - putting
 - - dobson
-  - human
-  - weakness
+  - became
+  - fixated
 - - long
   - ago
   - lost
@@ -410,75 +407,78 @@ ngrams:
 - - such
   - teeming
   - hail
+- - goat
+  - after
+  - goat
+- - goat
+  - after
+  - goat
+- - goat
+  - after
+  - goat
+- - goat
+  - after
+  - goat
+- - dobson
+  - human
+  - weakness
 - - fiction
   - enthusiasts
   - such
-- - goat
-  - after
-  - goat
-- - goat
-  - after
-  - goat
-- - goat
-  - after
-  - goat
-- - goat
-  - after
-  - goat
-- - grown
-  - any
-  - fruit
 - - after
   - goat
   - passed
+- - grown
+  - any
+  - fruit
 - - late
   - s
   - dobson
-- - seven
-  - years
-  - ago
 - - pamphleteer
   - knew
   - little
+- - seven
+  - years
+  - ago
 - - compositor
   - might
   - look
 - - its
   - gaudy
   - doorway
-- - s
-  - dobson
-  - became
 - - both
   - these
   - questions
-- - however
-  - slightly
-  - dobson
 - - like
   - edgar
   - allan
+- - s
+  - dobson
+  - became
+- - however
+  - slightly
+  - dobson
 - - sat
   - straight
   - down
-- - called
-  - dobson
-  - drastic
 - - now
   - mistress
   - p
+- - called
+  - dobson
+  - drastic
 - - dobson
   - trudged
   - home
-- - plum
-  - called
-  - dobson
-- - plum
-  - called
-  - dobson
 - - its
   - corrugated
   - iron
+- - plum
+  - called
+  - dobson
+- - plum
+  - called
+  - dobson
 - - more
   - benighted
   - regions
@@ -488,36 +488,36 @@ ngrams:
 - - marigold
   - chew
   - over
-- - briefly
-  - then
-  - goats
 - - marigold
   - chew
   - said
+- - briefly
+  - then
+  - goats
 - - our
   - pamphleteer
   - knew
 - - called
   - dobson
   - human
-- - skip
-  - her
-  - burning
 - - chew
   - said
   - nothing
-- - without
-  - any
-  - sign
+- - skip
+  - her
+  - burning
 - - over
   - breakfast
   - going
-- - merely
-  - casting
-  - her
+- - without
+  - any
+  - sign
 - - her
   - burning
   - desire
+- - merely
+  - casting
+  - her
 - - whatever
   - marbles
   - her
@@ -530,12 +530,12 @@ ngrams:
 - - finnish
   - landrace
   - some
-- - her
-  - voice
-  - curdled
 - - little
   - cries
   - just
+- - her
+  - voice
+  - curdled
 - - casting
   - her
   - eye
@@ -599,21 +599,21 @@ ngrams:
 - - how
   - now
   - mistress
-- - excursion
-  - dobson
-  - did
 - - entered
   - how
   - now
+- - excursion
+  - dobson
+  - did
 - - boarded
   - up
   - covered
 - - both
   - her
   - face
-- - eye
-  - over
-  - dobson
+- - neither
+  - boarded
+  - up
 story:
   date: 2009-07-10
   id: 2009-07-10-plums

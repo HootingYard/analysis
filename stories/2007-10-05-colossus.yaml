@@ -1,10 +1,10 @@
 ngrams:
-- - sirens
-  - rigging
-  - anchors
 - - foghorns
   - sirens
   - rigging
+- - sirens
+  - rigging
+  - anchors
 - - cutlasses
   - bilgewater
   - tattered
@@ -233,15 +233,15 @@ ngrams:
 - - failed
   - often
   - those
-- - dobson
-  - indeed
-  - bestride
 - - let
   - us
   - clear
 - - come
   - whenever
   - two
+- - dobson
+  - indeed
+  - bestride
 - - more
   - horrid
   - contrast
@@ -275,12 +275,12 @@ ngrams:
 - - she
   - flung
   - open
-- - dobson
-  - turned
-  - around
 - - first
   - appeared
   - last
+- - dobson
+  - turned
+  - around
 - - foolish
   - old
   - man
@@ -317,12 +317,12 @@ ngrams:
 - - summary
   - dismissal
   - if
-- - dotage
-  - dobson
-  - she
 - - resignation
   - speech
   - if
+- - dotage
+  - dobson
+  - she
 - - illusory
   - some
   - say
@@ -332,24 +332,24 @@ ngrams:
 - - some
   - say
   - hell
-- - city
-  - were
-  - required
 - - extra
   - marks
   - will
+- - city
+  - were
+  - required
 - - did
   - dobson
   - indeed
 - - found
   - him
   - thus
-- - last
-  - year
-  - has
 - - city
   - go
   - 'no'
+- - last
+  - year
+  - has
 story:
   date: 2007-10-05
   id: 2007-10-05-colossus

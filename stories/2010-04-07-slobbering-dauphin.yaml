@@ -41,18 +41,21 @@ ngrams:
 - - slobber
   - slobber
   - slobber
-- - slobber
-  - slobber
-  - slobber
 - - asthenia
   - choke
   - grass
+- - slobber
+  - slobber
+  - slobber
 - - shining
   - mane
   - riding
 - - grass
   - sickness
   - recurrent
+- - haig
+  - christopher
+  - hitchens
 - - choke
   - grass
   - sickness
@@ -65,9 +68,6 @@ ngrams:
 - - princeling
   - slobber
   - slobber
-- - haig
-  - christopher
-  - hitchens
 - - alexander
   - haig
   - christopher
@@ -122,39 +122,39 @@ ngrams:
 - - stupid
   - furry
   - creatures
-- - slobber
-  - slobber
-  - prince
-- - slobber
-  - slobber
-  - prince
 - - fort
   - toity
   - roaring
+- - slobber
+  - slobber
+  - prince
+- - slobber
+  - slobber
+  - prince
 - - polished
   - magnetic
   - pebbles
-- - speak
-  - coherently
-  - arpad
 - - dusk
   - occasionally
   - jaunty
+- - speak
+  - coherently
+  - arpad
 - - paperback
   - potted
   - biography
 - - christopher
   - hitchens
   - described
+- - clovis
+  - agamemnon
+  - de
 - - ferocious
   - horses
   - bringing
 - - mud
   - fever
   - contagious
-- - clovis
-  - agamemnon
-  - de
 - - slobber
   - prince
   - fulgencio
@@ -179,24 +179,24 @@ ngrams:
 - - wind
   - arpad
   - helped
-- - father's
-  - majestic
-  - horses
 - - bitter
   - wind
   - arpad
-- - fine
-  - ferocious
+- - father's
+  - majestic
   - horses
 - - headshaking
   - lethal
   - white
-- - blind
-  - stupid
-  - furry
+- - fine
+  - ferocious
+  - horses
 - - follows
   - prince
   - fulgencio
+- - blind
+  - stupid
+  - furry
 - - father's
   - ear
   - prince
@@ -221,12 +221,12 @@ ngrams:
 - - proudly
   - proclaimed
   - itself
-- - slobbering
-  - became
-  - uncontrollable
 - - wealthy
   - beat
   - music
+- - slobbering
+  - became
+  - uncontrollable
 - - evil
   - ways
   - prince
@@ -242,12 +242,12 @@ ngrams:
 - - jaunty
   - sometimes
   - pounding
-- - others
-  - including
-  - arpad
 - - terrible
   - reproachful
   - father
+- - others
+  - including
+  - arpad
 - - father
   - prince
   - fulgencio
@@ -314,12 +314,12 @@ ngrams:
 - - family
   - reading
   - according
-- - de
-  - pig
-  - de
 - - cushion
   - penitence
   - though
+- - de
+  - pig
+  - de
 - - prince
   - fulgencio
   - good
@@ -362,12 +362,12 @@ ngrams:
 - - another
   - common
   - horse
-- - much
-  - agon
-  - sounded
 - - own
   - jottings
   - give
+- - much
+  - agon
+  - sounded
 - - long
   - hot
   - summer
@@ -398,12 +398,12 @@ ngrams:
 - - including
   - arpad
   - here
-- - uncomfortable
-  - cushions
-  - where
 - - metal
   - before
   - summer's
+- - uncomfortable
+  - cushions
+  - where
 - - good
   - grief
   - ever
@@ -512,36 +512,36 @@ ngrams:
 - - jottings
   - give
   - 'no'
-- - confusing
-  - him
-  - perhaps
 - - 'no'
   - longer
   - play
+- - confusing
+  - him
+  - perhaps
 - - been
   - hearing
   - noises
+- - poisoning
+  - wells
+  - when
 - - mane
   - riding
   - into
-- - poisoning
-  - wells
+- - toity
+  - summer
   - when
 - - cushions
   - were
   - uncomfortable
-- - toity
-  - summer
-  - when
 - - coppers
   - were
   - closing
-- - balcony
-  - cushions
-  - were
 - - give
   - 'no'
   - sense
+- - balcony
+  - cushions
+  - were
 - - need
   - 'no'
   - longer
@@ -557,33 +557,33 @@ ngrams:
 - - your
   - own
   - wing
-- - years
-  - behind
-  - him
 - - there
   - yawning
   - pits
+- - years
+  - behind
+  - him
 - - down
   - once
   - upon
 - - castle
   - blunkett
   - there
-- - time
-  - such
-  - small
-- - been
-  - slobbering
-  - away
 - - go
   - bustling
   - about
+- - time
+  - such
+  - small
 - - prince
   - fulgencio
   - there
 - - prince
   - fulgencio
   - there
+- - been
+  - slobbering
+  - away
 - - say
   - 'no'
   - music
@@ -623,12 +623,12 @@ ngrams:
 - - until
   - they
   - glistened
-- - penitence
-  - though
-  - they
 - - horse
   - disease
   - so
+- - penitence
+  - though
+  - they
 - - so
   - others
   - including

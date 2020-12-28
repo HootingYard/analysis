@@ -11,12 +11,12 @@ ngrams:
 - - henry
   - james
   - prince
-- - mrs
-  - cooper
-  - appeared
 - - dr
   - prince
   - arrived
+- - mrs
+  - cooper
+  - appeared
 - - prince
   - '-'
   - founder
@@ -38,6 +38,9 @@ ngrams:
 - - most
   - horrid
   - passions
+- - until
+  - dr
+  - prince
 - - horrid
   - passions
   - these
@@ -47,9 +50,6 @@ ngrams:
 - - these
   - horrid
   - passions
-- - until
-  - dr
-  - prince
 - - cheerful
   - enough
   - until
@@ -99,11 +99,11 @@ ngrams:
   - more
   - wicked
 - - her
-  - bed
-  - waiting
-- - her
   - awful
   - state
+- - her
+  - bed
+  - waiting
 - - bed
   - she
   - seems

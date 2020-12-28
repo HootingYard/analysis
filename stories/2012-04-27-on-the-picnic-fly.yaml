@@ -95,15 +95,15 @@ ngrams:
 - - creatures
   - ever
   - created
+- - flies
+  - usually
+  - go
 - - carries
   - much
   - weight
 - - argument
   - carries
   - much
-- - flies
-  - usually
-  - go
 - - make
   - foolish
   - picnic
@@ -134,12 +134,12 @@ ngrams:
 - - darting
   - flights
   - down
-- - sting
-  - any
-  - patches
 - - find
   - myself
   - wondering
+- - sting
+  - any
+  - patches
 - - folding
   - chairs
   - may
@@ -218,12 +218,12 @@ ngrams:
 - - her
   - free
   - hand
-- - more
-  - relentless
-  - each
 - - right
   - minds
   - some
+- - more
+  - relentless
+  - each
 - - head
   - height
   - over
@@ -260,21 +260,21 @@ ngrams:
 - - what
   - usually
   - happens
-- - picnicking
-  - eye
-  - what
 - - brain
   - has
   - sent
+- - picnicking
+  - eye
+  - what
 - - their
   - tiny
   - suckered
-- - more
-  - vexing
-  - than
 - - about
   - human
   - adult
+- - more
+  - vexing
+  - than
 - - flasks
   - will
   - contain
@@ -296,12 +296,12 @@ ngrams:
 - - will
   - suddenly
   - reappear
-- - laid
-  - out
-  - near
 - - potato
   - snacks
   - will
+- - laid
+  - out
+  - near
 - - can
   - sting
   - any
@@ -318,16 +318,16 @@ ngrams:
   - flies
   - will
 - - picnic
-  - flies
-  - will
-- - picnic
-  - flies
-  - will
-- - picnic
-  - flies
-  - will
-- - picnic
   - fly
+  - will
+- - picnic
+  - flies
+  - will
+- - picnic
+  - flies
+  - will
+- - picnic
+  - flies
   - will
 - - flies
   - will
@@ -347,12 +347,12 @@ ngrams:
 - - think
   - up
   - fashion
-- - icing
-  - back
-  - up
 - - picnic
   - demographic
   - there
+- - icing
+  - back
+  - up
 - - few
   - seconds
   - if
@@ -371,12 +371,12 @@ ngrams:
 - - all
   - takes
   - place
-- - mind
-  - would
-  - lay
 - - picnickers
   - are
   - necessarily
+- - mind
+  - would
+  - lay
 - - climb
   - back
   - into
@@ -386,12 +386,12 @@ ngrams:
 - - being
   - laid
   - out
-- - right
-  - mind
-  - would
 - - picnic
   - hornets
   - are
+- - right
+  - mind
+  - would
 - - flies
   - are
   - pretty
@@ -425,6 +425,9 @@ ngrams:
 - - eye
   - what
   - then
+- - other
+  - flasks
+  - will
 - - sated
   - this
   - grouplet
@@ -434,18 +437,15 @@ ngrams:
 - - terms
   - which
   - should
-- - other
-  - flasks
-  - will
 - - comparison
   - harmless
   - this
-- - harmless
-  - this
-  - argument
 - - fly
   - will
   - now
+- - harmless
+  - this
+  - argument
 - - this
   - argument
   - carries

@@ -11,12 +11,12 @@ ngrams:
 - - childhood
   - anecdote
   - beginning
-- - title
-  - unspeakable
-  - desolation
 - - stars
   - chapter
   - afterword
+- - title
+  - unspeakable
+  - desolation
 - - album
   - letters
   - home
@@ -56,17 +56,22 @@ ngrams:
 story:
   date: 2004-09-20
   id: 2004-09-20-unspeakable-desolation-pouring-down-from-the-stars-afterword
-  text: "There are a small number of thefts in Unspeakable Desolation \n        Pouring\
-    \ Down From The Stars which deserve acknowledgement.\nThe Courier's Tragedy, scenes\
-    \ from which are engraved \n      on the stolen pipe-rack, is a Jacobean drama\
-    \ by Richard Wharfinger. Both the \n      play and its author were invented by\
-    \ Thomas Pynchon in The Crying Of Lot \n        49.\nThe description of Mister\
-    \ Poxhaven is identical to Mary Shelley's \n      description of the Monster in\
-    \ Frankenstein; or, The Modern Prometheus.\nMatilda Spamclot's childhood anecdote,\
-    \ beginning \"In a late \n      evening\" and ending \"in the midst of a journey\
-    \ we never began\" is the text \n      of a song by Chris Cutler, with music by\
-    \ Lindsay Cooper. It appears on the album \n      Letters Home by News From Babel.\n\
-    The title Unspeakable Desolation Pouring Down From The Stars \n      is culled\
-    \ from James Hamilton-Paterson's book Playing With Water."
+  text: 'There are a small number of thefts in Unspeakable Desolation Pouring Down
+    From The Stars which deserve acknowledgement.
+
+    The Courier''s Tragedy, scenes from which are engraved on the stolen pipe-rack,
+    is a Jacobean drama by Richard Wharfinger. Both the play and its author were invented
+    by Thomas Pynchon in The Crying Of Lot 49.
+
+    The description of Mister Poxhaven is identical to Mary Shelley''s description
+    of the Monster in Frankenstein; or, The Modern Prometheus.
+
+    Matilda Spamclot''s childhood anecdote, beginning "In a late evening" and ending
+    "in the midst of a journey we never began" is the text of a song by Chris Cutler,
+    with music by Lindsay Cooper. It appears on the album Letters Home by News From
+    Babel.
+
+    The title Unspeakable Desolation Pouring Down From The Stars is culled from James
+    Hamilton-Paterson''s book Playing With Water.'
   title: Unspeakable Desolation Pouring Down From the Stars, Chapter Afterword
 word_count: 145

@@ -1,19 +1,22 @@
 ngrams:
+- - left
+  - intentionally
+  - blank
+- - page
+  - left
+  - intentionally
+- - flu
+  - this
+  - page
+- - this
+  - page
+  - left
 - - after
   - a
   - dose
-- - back
-  - after
-  - a
-- - dose
-  - of
-  - flu
-- - a
-  - dose
-  - of
 story:
   date: 2004-02-16
   id: 2004-02-16-back-after-a-dose-of-flu
-  text: ''
+  text: This page left intentionally blank.
   title: Back after a dose of flu...
-word_count: 6
+word_count: 11

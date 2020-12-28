@@ -41,15 +41,15 @@ ngrams:
 - - doing
   - while
   - ignoring
-- - floor
-  - museum
-  - mr
 - - kennedy
   - assassination
   - two
 - - assassination
   - two
   - phrases
+- - floor
+  - museum
+  - mr
 - - mr
   - mack
   - told
@@ -89,12 +89,12 @@ ngrams:
 - - anybody
   - could
   - ever
-- - could
-  - ever
-  - possibly
 - - each
   - other
   - across
+- - could
+  - ever
+  - possibly
 story:
   date: 2014-12-01
   id: 2014-12-01-the-interval-ends-with-a-shocking-revelation

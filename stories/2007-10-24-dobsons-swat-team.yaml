@@ -32,12 +32,12 @@ ngrams:
 - - dying
   - wounded
   - scarred
-- - oversized
-  - uruguayan
-  - fair
 - - airport
   - chaplain
   - tickets
+- - oversized
+  - uruguayan
+  - fair
 - - uruguayan
   - fair
   - trade
@@ -122,11 +122,11 @@ ngrams:
 - - received
   - several
   - applications
-- - became
-  - belligerent
-  - marigold
 - - looked
   - smug
+  - marigold
+- - became
+  - belligerent
   - marigold
 - - marigold
   - chew
@@ -134,12 +134,12 @@ ngrams:
 - - belligerent
   - marigold
   - chew
-- - roaming
-  - cows
-  - marigold
 - - smug
   - marigold
   - chew
+- - roaming
+  - cows
+  - marigold
 - - passengers
   - marigold
   - chew
@@ -149,9 +149,6 @@ ngrams:
 - - cows
   - dead
   - dying
-- - later
-  - wanted
-  - swat
 - - marigold
   - chew
   - pointed
@@ -164,18 +161,21 @@ ngrams:
 - - perilous
   - applicants
   - should
+- - later
+  - wanted
+  - swat
 - - seconds
   - until
   - corrected
 - - bus
   - marigold
   - chew
-- - sofa
-  - last
-  - trump
 - - own
   - swat
   - team
+- - sofa
+  - last
+  - trump
 - - dobson's
   - decision
   - called
@@ -224,6 +224,9 @@ ngrams:
 - - missions
   - replied
   - dobson
+- - noises
+  - before
+  - clambering
 - - replied
   - dobson
   - excitedly
@@ -233,39 +236,36 @@ ngrams:
 - - swat
   - team
   - dobson
-- - noises
-  - before
-  - clambering
 - - grunting
   - noises
   - before
 - - ensuing
   - weeks
   - dobson
-- - performance
-  - space
-  - dobson
 - - few
   - seconds
   - until
-- - space
+- - performance
+  - space
   - dobson
-  - suggested
 - - films
   - dobson
   - decided
+- - space
+  - dobson
+  - suggested
 - - dobson
   - looked
   - smug
 - - tram
   - dobson
   - looked
-- - weeks
-  - dobson
-  - received
 - - few
   - hours
   - later
+- - weeks
+  - dobson
+  - received
 - - watching
   - far
   - too
@@ -302,12 +302,12 @@ ngrams:
 - - cows
   - did
   - sometimes
-- - dobson
-  - passed
-  - each
 - - chew
   - then
   - landed
+- - dobson
+  - passed
+  - each
 story:
   date: 2007-10-24
   id: 2007-10-24-dobsons-swat-team

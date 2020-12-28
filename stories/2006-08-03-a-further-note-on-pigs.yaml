@@ -68,24 +68,24 @@ ngrams:
 - - bleak
   - winter
   - sun
+- - correspondent
+  - dr
+  - ruth
 - - winter
   - sun
   - rose
 - - bold
   - green
   - type
-- - correspondent
-  - dr
-  - ruth
 - - pale
   - blue
   - dot
-- - mere
-  - fictional
-  - pretend
 - - pastry
   - dr
   - entertaining
+- - mere
+  - fictional
+  - pretend
 - - dr
   - ruth
   - pastry
@@ -95,48 +95,48 @@ ngrams:
 - - real
   - living
   - breathing
-- - pig
-  - sty
-  - twice
 - - fancy
   - fictional
   - pigs
+- - pig
+  - sty
+  - twice
 - - need
   - explicit
   - guidance
 - - pig
   - sty
   - alas
-- - carl
-  - sagan
-  - called
 - - living
   - breathing
   - pig
+- - carl
+  - sagan
+  - called
 - - big
   - unexplained
   - building
 - - change
   - interfaces
   - under
-- - education
-  - hubs
-  - rather
 - - fictional
   - pretend
   - pig
+- - education
+  - hubs
+  - rather
 - - system
   - plain
   - black
 - - plain
   - black
   - text
-- - another
-  - frantically
-  - typed
 - - continue
   - trudging
   - across
+- - another
+  - frantically
+  - typed
 - - concerned
   - o
   - key
@@ -149,21 +149,21 @@ ngrams:
 - - golden
   - buttons
   - nor
-- - badgers
-  - both
-  - real
-- - badgers
-  - both
-  - real
 - - must
   - trudge
   - onward
-- - fictional
-  - pigs
-  - need
+- - badgers
+  - both
+  - real
+- - badgers
+  - both
+  - real
 - - pig
   - known
   - throughout
+- - fictional
+  - pigs
+  - need
 - - goes
   - without
   - saying
@@ -191,24 +191,24 @@ ngrams:
 - - these
   - fallen
   - fruits
-- - feed
-  - these
-  - fallen
 - - fictional
   - pig
   - rather
+- - feed
+  - these
+  - fallen
 - - yard
   - correspondent
   - dr
+- - these
+  - parts
+  - empty
 - - convincing
   - gruffness
   - dobson
 - - inspector
   - dobson
   - eyed
-- - these
-  - parts
-  - empty
 - - learn
   - nothing
   - because
@@ -236,21 +236,21 @@ ngrams:
 - - way
   - armed
   - once
-- - hooting
-  - yard
-  - correspondent
-- - serial
-  - hooting
-  - yard
 - - fictional
   - like
   - popsy
+- - hooting
+  - yard
+  - correspondent
 - - important
   - people
   - made
 - - people
   - made
   - important
+- - serial
+  - hooting
+  - yard
 - - hubs
   - rather
   - than
@@ -272,12 +272,12 @@ ngrams:
 - - pig
   - sty
   - then
-- - many
-  - many
-  - subjects
 - - am
   - gone
   - eat
+- - many
+  - many
+  - subjects
 - - set
   - straight
   - upon
@@ -290,24 +290,24 @@ ngrams:
 - - swiftly
   - disarmed
   - him
-- - can
-  - barely
-  - imagine
 - - pig
   - rather
   - than
 - - ignored
   - until
   - now
+- - can
+  - barely
+  - imagine
 - - nitwits
   - who
   - oversee
-- - blinkered
-  - nitwits
-  - who
 - - covet
   - them
   - mark
+- - blinkered
+  - nitwits
+  - who
 - - key
   - she
   - writes
@@ -347,45 +347,45 @@ ngrams:
 - - 'no'
   - pointy
   - cap
-- - need
-  - 'no'
-  - feeding
 - - your
   - pockets
   - stuffed
+- - need
+  - 'no'
+  - feeding
 - - your
   - position
   - sprawled
 - - your
   - superiors
   - works
-- - what
-  - you're
-  - talking
 - - your
   - future
   - readership
-- - who
-  - oversee
-  - things
+- - what
+  - you're
+  - talking
 - - empty
   - your
   - pockets
+- - who
+  - oversee
+  - things
 - - parts
   - empty
   - your
 - - ray
   - gun
   - into
+- - you're
+  - talking
+  - about
 - - makeshift
   - stretcher
   - out
 - - pigs
   - need
   - 'no'
-- - you're
-  - talking
-  - about
 - - sty
   - alas
   - when
@@ -401,12 +401,12 @@ ngrams:
 - - important
   - decisions
   - about
-- - people
-  - remember
-  - who
 - - about
   - real
   - pigs
+- - people
+  - remember
+  - who
 - - your
   - pointy
   - cap
@@ -422,15 +422,15 @@ ngrams:
 - - future
   - readership
   - will
-- - dobson
-  - eyed
-  - him
-- - been
-  - ignored
-  - until
 - - will
   - live
   - forever
+- - been
+  - ignored
+  - until
+- - dobson
+  - eyed
+  - him
 - - until
   - your
   - sprained
@@ -443,15 +443,15 @@ ngrams:
 - - your
   - superiors
   - must
-- - dobson
-  - who
-  - fed
 - - will
   - need
   - explicit
 - - readership
   - will
   - need
+- - dobson
+  - who
+  - fed
 - - soup
   - until
   - your
@@ -488,9 +488,9 @@ ngrams:
 - - your
   - pockets
   - dobson
-- - who
-  - could
-  - reduce
+- - upon
+  - their
+  - bellies
 story:
   date: 2006-08-03
   id: 2006-08-03-a-further-note-on-pigs

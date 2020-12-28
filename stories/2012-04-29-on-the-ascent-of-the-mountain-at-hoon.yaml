@@ -26,21 +26,21 @@ ngrams:
 - - irons
   - doilies
   - electric
-- - hoods
-  - blankets
-  - bandages
 - - incandescent
   - liquid
   - spurt
+- - hoods
+  - blankets
+  - bandages
 - - shallow
   - basin
   - spilling
-- - rosary
-  - beads
-  - starch
 - - cones
   - operating
   - tables
+- - rosary
+  - beads
+  - starch
 - - menace
   - muttering
   - threats
@@ -80,9 +80,6 @@ ngrams:
 - - febrifuge
   - grey
   - bags
-- - category
-  - c
-  - supplies
 - - shoes
   - febrifuge
   - grey
@@ -102,7 +99,7 @@ ngrams:
   - starch
   - talc
 - - category
-  - b
+  - c
   - supplies
 - - cowboy
   - songbook
@@ -113,6 +110,9 @@ ngrams:
 - - geological
   - interest
   - helga
+- - category
+  - b
+  - supplies
 - - surly
   - curator
   - named
@@ -149,21 +149,21 @@ ngrams:
 - - red
   - shelves
   - stacked
-- - exhausted
-  - category
-  - b
-- - melt
-  - mungo's
-  - cold
 - - named
   - mungo
   - gifts
+- - melt
+  - mungo's
+  - cold
 - - precipice
   - van
   - gob
 - - crumbly
   - van
   - gob
+- - exhausted
+  - category
+  - b
 - - van
   - gob
   - brandished
@@ -200,36 +200,36 @@ ngrams:
 - - eyes
   - gleamed
   - dangerously
-- - rapid
-  - progress
-  - towards
 - - enough
   - oxygen
   - tents
+- - rapid
+  - progress
+  - towards
 - - battered
   - tin
   - cup
 - - telescope
   - witlessly
   - left
-- - gulp
-  - moments
-  - later
 - - three
   - distinct
   - categories
+- - gulp
+  - moments
+  - later
 - - sterling
   - work
   - shoring
 - - seen
   - red
   - shelves
-- - brought
-  - enough
-  - oxygen
 - - mungo's
   - cold
   - black
+- - brought
+  - enough
+  - oxygen
 - - entire
   - water
   - supply
@@ -293,15 +293,15 @@ ngrams:
 - - look
   - rather
   - surprised
-- - took
-  - snapshots
-  - along
-- - sunglasses
-  - hanging
-  - 'off'
 - - while
   - everyone
   - else
+- - sunglasses
+  - hanging
+  - 'off'
+- - took
+  - snapshots
+  - along
 - - made
   - rapid
   - progress
@@ -344,15 +344,15 @@ ngrams:
 - - stumbled
   - over
   - concealed
-- - only
-  - incoherent
-  - wheezing
 - - lame
   - horse
   - through
 - - thus
   - consigning
   - us
+- - only
+  - incoherent
+  - wheezing
 - - bright
   - arc
   - over
@@ -374,12 +374,12 @@ ngrams:
 - - moments
   - later
   - just
-- - van
-  - gob
-  - did
 - - charming
   - japes
   - like
+- - van
+  - gob
+  - did
 - - heard
   - only
   - incoherent
@@ -413,12 +413,12 @@ ngrams:
 - - some
   - aimless
   - discussions
-- - last
-  - delaying
-  - only
 - - us
   - after
   - extricating
+- - last
+  - delaying
+  - only
 - - eighth
   - day
   - while
@@ -473,15 +473,15 @@ ngrams:
 - - worried
   - about
   - lars
+- - walrus
+  - moustache
+  - when
 - - were
   - furious
   - venables
 - - tempers
   - were
   - frayed
-- - walrus
-  - moustache
-  - when
 - - doling
   - out
   - scarves
@@ -497,42 +497,42 @@ ngrams:
 - - ear
   - struggling
   - into
-- - crimson
-  - some
-  - years
 - - when
   - dennis
   - spotting
+- - crimson
+  - some
+  - years
 - - some
   - days
   - later
-- - were
-  - mere
-  - gasps
 - - became
   - worried
   - about
 - - were
+  - mere
+  - gasps
+- - were
   - discovered
   - wedged
-- - next
-  - day
-  - before
 - - occurred
   - when
   - dennis
+- - next
+  - day
+  - before
 - - some
   - years
   - earlier
 - - after
   - some
   - aimless
-- - saw
-  - him
-  - again
 - - strategy
   - after
   - some
+- - saw
+  - him
+  - again
 - - chrysanthemums
   - inveigle
   - me
@@ -548,12 +548,12 @@ ngrams:
 - - will
   - exhaust
   - within
-- - pitched
-  - tents
-  - we
 - - away
   - some
   - days
+- - pitched
+  - tents
+  - we
 story:
   date: 2012-04-29
   id: 2012-04-29-on-the-ascent-of-the-mountain-at-hoon

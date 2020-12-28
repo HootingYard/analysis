@@ -35,12 +35,12 @@ ngrams:
 - - bloody
   - fantastic
   - quagmire
-- - message
-  - successfully
-  - delivered
 - - crumbs
   - unidentifiable
   - muck
+- - message
+  - successfully
+  - delivered
 - - somewhat
   - effeminate
   - wave
@@ -53,15 +53,15 @@ ngrams:
 - - travelling
   - brute
   - mine
+- - beetles
+  - cake
+  - crumbs
 - - ungainly
   - mother
   - cuckoo
 - - mother
   - cuckoo
   - clad
-- - beetles
-  - cake
-  - crumbs
 - - snapped
   - elastic
   - band
@@ -77,21 +77,21 @@ ngrams:
 - - coup
   - de
   - grace
-- - yeast
-  - deposits
-  - near
 - - perfectly
   - happy
   - wallowing
+- - yeast
+  - deposits
+  - near
+- - strangely
+  - significant
+  - manner
+- - strangely
+  - significant
+  - manner
 - - garden
   - shears
   - halfway
-- - strangely
-  - significant
-  - manner
-- - strangely
-  - significant
-  - manner
 - - secret
   - message
   - successfully
@@ -185,12 +185,12 @@ ngrams:
 - - tree
   - leaning
   - against
-- - rather
-  - sordid
-  - jumble
 - - identification
   - whatsoever
   - nor
+- - rather
+  - sordid
+  - jumble
 - - behaving
   - rather
   - curiously
@@ -221,33 +221,33 @@ ngrams:
 - - another
   - hiking
   - slave
-- - vanished
-  - entirely
-  - however
 - - dead
   - saints
   - sometimes
+- - vanished
+  - entirely
+  - however
 - - appeared
   - within
   - seconds
-- - corner
-  - having
-  - surrounded
 - - hiking
   - slave
   - until
 - - again
   - leaning
   - insolently
-- - eyelid
-  - although
-  - given
 - - business
   - activities
   - put
+- - corner
+  - having
+  - surrounded
 - - hallucination
   - though
   - bigger
+- - eyelid
+  - although
+  - given
 - - dust
   - filth
   - tiny
@@ -347,12 +347,12 @@ ngrams:
 - - papal
   - sort
   - before
-- - earwax
-  - set
-  - 'off'
 - - seemingly
   - lifeless
   - upon
+- - earwax
+  - set
+  - 'off'
 - - nurturing
   - its
   - chicks
@@ -437,12 +437,12 @@ ngrams:
 - - much
   - bigger
   - than
-- - bones
-  - man
-  - through
 - - evil
   - princeling
   - who
+- - bones
+  - man
+  - through
 - - nuncio
   - who
   - suddenly
@@ -458,18 +458,18 @@ ngrams:
 - - who
   - suddenly
   - crumpled
+- - make
+  - head
+  - nor
+- - blissful
+  - childhood
+  - 'no'
 - - punish
   - their
   - imminent
 - - their
   - imminent
   - treachery
-- - blissful
-  - childhood
-  - 'no'
-- - make
-  - head
-  - nor
 - - wormed
   - its
   - way
@@ -482,15 +482,15 @@ ngrams:
 - - head
   - wormed
   - its
+- - some
+  - mountains
+  - until
 - - roman
   - catholic
   - what
 - - bunched
   - up
   - together
-- - some
-  - mountains
-  - until
 - - grubbier
   - just
   - then
@@ -518,12 +518,12 @@ ngrams:
 - - been
   - lurking
   - behind
-- - usual
-  - lordly
-  - if
 - - if
   - somewhat
   - effeminate
+- - usual
+  - lordly
+  - if
 - - lordly
   - if
   - somewhat
@@ -533,12 +533,12 @@ ngrams:
 - - smiles
   - break
   - out
-- - been
-  - served
-  - today
 - - contraption
   - spat
   - out
+- - been
+  - served
+  - today
 - - more
   - vengeful
   - than
@@ -584,24 +584,24 @@ ngrams:
 - - honorific
   - titles
   - there
-- - excursion
-  - we
-  - visited
-- - charabanc
-  - excursion
-  - we
 - - ma
   - sold
   - me
+- - charabanc
+  - excursion
+  - we
+- - excursion
+  - we
+  - visited
+- - greeting
+  - me
+  - using
 - - were
   - behaving
   - rather
 - - were
   - also
   - deafeningly
-- - greeting
-  - me
-  - using
 - - lembit
   - there
   - followed
@@ -611,75 +611,75 @@ ngrams:
 - - those
   - who
   - seem
-- - unlikely
-  - etiquette
-  - would
-- - group
-  - would
-  - offer
 - - standing
   - there
   - expectantly
 - - added
   - something
   - about
+- - unlikely
+  - etiquette
+  - would
 - - there
   - expectantly
   - clearly
-- - latter
-  - group
+- - group
   - would
+  - offer
 - - christ
   - knows
   - they
+- - latter
+  - group
+  - would
 - - they
   - looked
   - unnervingly
-- - quivering
-  - they
-  - looked
 - - against
   - me
   - dismissing
+- - quivering
+  - they
+  - looked
 - - scheming
   - against
+  - me
+- - minced
+  - towards
   - me
 - - took
   - more
   - than
-- - minced
-  - towards
-  - me
 - - knows
   - they
   - tried
 - - light
   - their
   - way
-- - each
-  - half
-  - into
 - - several
   - pips
   - there
 - - about
   - being
   - perfectly
+- - each
+  - half
+  - into
 - - activities
   - put
   - me
 - - minced
   - away
   - out
+- - send
+  - me
+  - under
 - - cardinals
   - into
   - two
 - - ned
   - would
   - soon
-- - send
-  - me
-  - under
 - - into
   - two
   - distinct
@@ -701,15 +701,15 @@ ngrams:
 - - works
   - are
   - fictions
-- - go
-  - into
-  - later
 - - mountains
   - until
   - we
 - - until
   - we
   - reached
+- - go
+  - into
+  - later
 - - de
   - grace
   - which
@@ -746,23 +746,26 @@ ngrams:
 - - one
   - mesmeric
   - intervention
-- - fulgencio
-  - one
-  - mesmeric
 - - bat
   - an
   - eyelid
-- - an
-  - eyelid
-  - although
+- - fulgencio
+  - one
+  - mesmeric
 - - either
   - an
   - enigma
+- - an
+  - eyelid
+  - although
 - - didn't
   - bat
   - an
 - - elastic
   - band
+  - one
+- - prince
+  - fulgencio
   - one
 - - even
   - those
@@ -770,99 +773,96 @@ ngrams:
 - - vengeful
   - than
   - they
-- - prince
-  - fulgencio
-  - one
 - - than
   - they
   - supposed
 - - shaved
   - an
   - important
-- - there
-  - any
-  - money
 - - cowered
   - behind
   - an
+- - there
+  - any
+  - money
 - - so
   - many
   - charlatans
-- - they
-  - knew
-  - just
 - - cast
   - an
   - eye
+- - they
+  - knew
+  - just
 - - an
   - important
   - message
-- - we
-  - got
-  - back
 - - perhaps
   - both
   - so
+- - we
+  - got
+  - back
 - - offer
   - me
   - other
-- - may
-  - go
-  - into
 - - they
   - might
   - later
+- - may
+  - go
+  - into
 - - least
   - one
   - factotum
 - - then
   - we
   - hiked
-- - charlatans
-  - had
-  - failed
 - - sweet
   - tooth
   - or
 - - something
   - they
   - might
+- - charlatans
+  - had
+  - failed
 - - head
   - would
   - again
 - - could
   - turn
   - me
-- - know
-  - which
-  - cardinal
-- - cardinal
-  - had
-  - sent
 - - make
   - an
   - announcement
+- - know
+  - which
+  - cardinal
 - - ned
   - or
   - ned
 - - ned
   - or
   - ned
-- - hair
+- - cardinal
   - had
-  - grown
-- - their
-  - mouths
-  - were
+  - sent
 - - successfully
   - delivered
   - but
-- - they
-  - could
-  - light
 - - moral
   - quagmire
   - but
+- - their
+  - mouths
+  - were
+- - they
+  - could
+  - light
+- - hair
+  - had
+  - grown
 - - infancy
   - but
   - apart
@@ -878,12 +878,12 @@ ngrams:
 - - significant
   - manner
   - but
-- - who
-  - supplied
-  - me
 - - many
   - an
   - occasion
+- - who
+  - supplied
+  - me
 - - head
   - shaved
   - an

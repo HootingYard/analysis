@@ -74,27 +74,27 @@ ngrams:
 - - character
   - bobby
   - jo
+- - weld
+  - fan
+  - club
+- - weld
+  - fan
+  - club
+- - weld
+  - fan
+  - club
+- - weld
+  - fan
+  - club
+- - weld
+  - fan
+  - club
+- - weld
+  - fan
+  - club
 - - return
   - vangie
   - harper
-- - weld
-  - fan
-  - club
-- - weld
-  - fan
-  - club
-- - weld
-  - fan
-  - club
-- - weld
-  - fan
-  - club
-- - weld
-  - fan
-  - club
-- - weld
-  - fan
-  - club
 - - civic
   - gritting
   - persons
@@ -110,33 +110,33 @@ ngrams:
 - - secretary
   - mrs
   - blears
-- - correspondence
-  - secretary
-  - mrs
 - - rain
   - falls
   - directly
+- - correspondence
+  - secretary
+  - mrs
 - - picnics
   - secretary
   - mrs
 - - remained
   - submerged
   - below
-- - blister
-  - lane
-  - bypass
 - - dr
   - gillespie's
   - famous
+- - blister
+  - lane
+  - bypass
 - - plain
   - wooden
   - frame
-- - club
-  - conducted
-  - themselves
 - - feature
   - film
   - soldier
+- - club
+  - conducted
+  - themselves
 - - tuesday
   - weld
   - appeared
@@ -164,12 +164,12 @@ ngrams:
 - - tuesday
   - weld
   - taken
-- - pride
-  - unto
-  - pointy
 - - town
   - civic
   - gritting
+- - pride
+  - unto
+  - pointy
 - - inadvertent
   - part
   - played
@@ -197,18 +197,18 @@ ngrams:
 - - treasurer
   - mr
   - brimstone
-- - beadle
-  - mr
-  - flail
 - - none
   - took
   - cognizance
-- - clambered
-  - forth
-  - each
 - - i'll
   - take
   - sweden
+- - clambered
+  - forth
+  - each
+- - beadle
+  - mr
+  - flail
 - - mr
   - flail
   - perished
@@ -218,12 +218,12 @@ ngrams:
 - - pointy
   - town
   - civic
-- - common
-  - acclaim
-  - mr
 - - unto
   - pointy
   - town
+- - common
+  - acclaim
+  - mr
 - - late
   - beadle
   - mr
@@ -260,12 +260,12 @@ ngrams:
 - - might
   - call
   - rally
-- - grown
-  - such
-  - plants
 - - brimstone
   - might
   - call
+- - grown
+  - such
+  - plants
 - - ever
   - seen
   - whole
@@ -293,18 +293,18 @@ ngrams:
 - - weld
   - her
   - contemporaries
-- - mr
-  - brimstone
-  - might
 - - ever
   - seen
   - again
-- - tuesday
-  - weld
-  - her
+- - mr
+  - brimstone
+  - might
 - - within
   - its
   - twisted
+- - tuesday
+  - weld
+  - her
 - - exhausted
   - her
   - supply
@@ -431,15 +431,15 @@ ngrams:
 - - man
   - who
   - dwelt
+- - all
+  - dr
+  - gillespie's
 - - those
   - who
   - remained
 - - they
   - clambered
   - forth
-- - all
-  - dr
-  - gillespie's
 - - grunty
   - man
   - who
@@ -470,12 +470,12 @@ ngrams:
 - - 'no'
   - roof
   - upon
-- - another
-  - would
-  - respond
 - - feature
   - film
   - so
+- - another
+  - would
+  - respond
 - - their
   - way
   - yet
@@ -494,12 +494,12 @@ ngrams:
 - - an
   - extensive
   - lecture
-- - accident
-  - would
-  - never
 - - an
   - alphabet
   - unknown
+- - accident
+  - would
+  - never
 - - an
   - enormous
   - block
@@ -512,9 +512,9 @@ ngrams:
 - - this
   - spinning
   - earth
-- - their
-  - spirits
-  - up
+- - wrote
+  - an
+  - account
 story:
   date: 2010-01-26
   id: 2010-01-26-being-a-true-account-of-the-discovery-of-the-tomb-of-anaxagrotax

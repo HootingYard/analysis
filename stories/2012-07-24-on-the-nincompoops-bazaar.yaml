@@ -14,12 +14,12 @@ ngrams:
 - - mole
   - nets
   - nasal
-- - cravats
-  - turps
-  - siphons
 - - kedgeree
   - jumping
   - fleas
+- - cravats
+  - turps
+  - siphons
 - - anchors
   - sock
   - hoists
@@ -53,51 +53,45 @@ ngrams:
 - - offering
   - mole
   - nets
-- - yachting
-  - caps
-  - trick
-- - roots
-  - nail
-  - clippings
 - - jumping
   - fleas
   - helicopter
+- - yachting
+  - caps
+  - trick
 - - snoods
   - wax
   - xylophones
+- - roots
+  - nail
+  - clippings
 - - glove
   - compartment
   - tat
 - - vulgar
   - snoods
   - wax
-- - insignia
-  - grease
-  - froth
 - - wax
   - xylophones
   - yeast
-- - dough
-  - ungodly
-  - cravats
+- - insignia
+  - grease
+  - froth
 - - isinglass
   - unhelpful
   - maps
 - - unhelpful
   - maps
   - yachting
+- - dough
+  - ungodly
+  - cravats
 - - swords
   - signpost
   - chaos
 - - maps
   - yachting
   - caps
-- - xylophones
-  - yeast
-  - bags
-- - preening
-  - equipment
-  - quicklime
 - - helmets
   - preening
   - equipment
@@ -107,9 +101,15 @@ ngrams:
 - - turps
   - siphons
   - rubber
+- - preening
+  - equipment
+  - quicklime
 - - antimony
   - breadcrumbs
   - curd
+- - xylophones
+  - yeast
+  - bags
 - - pork
   - instant
   - mashed
@@ -158,6 +158,9 @@ ngrams:
 - - curd
   - digestive
   - biscuits
+- - lemon
+  - meringue
+  - pie
 - - padlocks
   - yapping
   - dogs
@@ -167,9 +170,6 @@ ngrams:
 - - weird
   - coathangers
   - vouchers
-- - lemon
-  - meringue
-  - pie
 - - cat
   - helmets
   - preening
@@ -182,18 +182,18 @@ ngrams:
 - - fangs
   - bared
   - howling
-- - grease
-  - froth
-  - desk
 - - meringue
   - pie
   - mother's
-- - muck
-  - lumps
-  - klaxons
+- - grease
+  - froth
+  - desk
 - - hoists
   - damp
   - cloth
+- - muck
+  - lumps
+  - klaxons
 - - recent
   - utility
   - bill
@@ -203,39 +203,39 @@ ngrams:
 - - glue
   - hornets
   - jam
-- - galoshes
-  - hats
-  - ink
 - - asbestos
   - potato
   - novelties
+- - galoshes
+  - hats
+  - ink
 - - beasts
   - glue
   - hornets
-- - quicklime
-  - rusty
-  - pins
-- - egg
-  - tapestries
-  - frozen
 - - expect
   - lengthy
   - queues
-- - signpost
-  - chaos
-  - meant
+- - egg
+  - tapestries
+  - frozen
+- - quicklime
+  - rusty
+  - pins
 - - felix
   - folk
   - singing
+- - signpost
+  - chaos
+  - meant
 - - puppets
   - wind
   - chimes
-- - biscuits
-  - egg
-  - tapestries
 - - damp
   - cloth
   - fierce
+- - biscuits
+  - egg
+  - tapestries
 - - blind
   - slithering
   - horrors
@@ -260,48 +260,48 @@ ngrams:
 - - replacement
   - bus
   - services
-- - tapestries
-  - frozen
-  - milk
 - - sausages
   - talc
   - urban
-- - rusty
-  - pins
-  - sausages
-- - frozen
+- - tapestries
+  - frozen
   - milk
-  - galoshes
 - - string
   - asbestos
   - potato
 - - sprays
   - blood
   - oranges
-- - fathomless
-  - pond
-  - teeming
+- - frozen
+  - milk
+  - galoshes
+- - rusty
+  - pins
+  - sausages
 - - quince
   - jelly
   - following
+- - fathomless
+  - pond
+  - teeming
 - - bright
   - yellow
   - paint
 - - milk
   - galoshes
   - hats
-- - pins
-  - sausages
-  - talc
 - - kevlar
   - dog
   - helmets
-- - dog
-  - helmets
-  - limestone
+- - pins
+  - sausages
+  - talc
 - - pang
   - hill
   - orphanage
+- - dog
+  - helmets
+  - limestone
 - - fierce
   - wild
   - beasts
@@ -320,12 +320,12 @@ ngrams:
 - - jam
   - kevlar
   - dog
-- - small
-  - sluicing
-  - procedure
 - - several
   - specialist
   - stalls
+- - small
+  - sluicing
+  - procedure
 - - pointy
   - twisty
   - boring

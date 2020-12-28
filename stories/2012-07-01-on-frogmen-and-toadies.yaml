@@ -92,15 +92,15 @@ ngrams:
 - - frogmen
   - years
   - pass
+- - words
+  - without
+  - hurling
 - - very
   - heroism
   - displayed
 - - each
   - room
   - silent
-- - words
-  - without
-  - hurling
 - - our
   - subaquatic
   - commandos
@@ -155,12 +155,12 @@ ngrams:
 - - frogmen
   - working
   - now
-- - other
-  - seafront
-  - hotel
 - - our
   - teacup
   - across
+- - other
+  - seafront
+  - hotel
 - - should
   - turn
   - away
@@ -212,12 +212,12 @@ ngrams:
 - - study
   - has
   - shown
-- - their
-  - commando
-  - forebears
 - - frogman
   - who
   - comes
+- - their
+  - commando
+  - forebears
 - - who
   - comes
   - padding
@@ -239,12 +239,12 @@ ngrams:
 - - police
   - frogmen
   - 'no'
-- - fast
-  - friends
-  - their
 - - 'no'
   - longer
   - fawn
+- - fast
+  - friends
+  - their
 - - frogmen
   - 'no'
   - less
@@ -266,12 +266,12 @@ ngrams:
 - - lies
   - about
   - frogmen
-- - applaud
-  - him
-  - too
 - - absolutely
   - 'no'
   - need
+- - applaud
+  - him
+  - too
 - - enemy
   - submarine
   - if
@@ -287,15 +287,18 @@ ngrams:
 - - if
   - fast
   - friends
-- - were
-  - misled
-  - possibly
 - - shoulder
   - will
   - suffice
+- - were
+  - misled
+  - possibly
 - - their
   - hotel
   - every
+- - hotel
+  - clad
+  - all
 - - commando
   - frogmen
   - we
@@ -305,9 +308,6 @@ ngrams:
 - - attentions
   - we
   - frogmen
-- - hotel
-  - clad
-  - all
 - - they
   - draw
   - undue
@@ -332,15 +332,15 @@ ngrams:
 - - submarine
   - we
   - run
-- - feet
-  - we
-  - pad
-- - ever
-  - guess
-  - what
 - - will
   - almost
   - certainly
+- - ever
+  - guess
+  - what
+- - feet
+  - we
+  - pad
 - - him
   - too
   - long
@@ -356,15 +356,15 @@ ngrams:
 - - submarine
   - so
   - heroically
-- - than
-  - their
-  - commando
-- - enemy
-  - submarine
-  - so
 - - opposite
   - so
   - loathsome
+- - enemy
+  - submarine
+  - so
+- - than
+  - their
+  - commando
 - - heroic
   - than
   - their
@@ -380,33 +380,33 @@ ngrams:
 - - operational
   - headquarters
   - which
-- - identified
-  - which
-  - seafront
 - - speaking
   - frogmen
   - are
+- - identified
+  - which
+  - seafront
 - - enemy
   - which
   - brings
-- - sea
-  - we
-  - return
 - - are
   - malefactors
   - ones
+- - sea
+  - we
+  - return
 - - seafront
   - hotel
   - are
 - - truth
   - indeed
   - they
-- - toady
-  - we
-  - read
 - - even
   - about
   - frogs
+- - toady
+  - we
+  - read
 - - seafront
   - hotel
   - which
@@ -425,12 +425,12 @@ ngrams:
 - - they
   - distract
   - us
-- - would
-  - ever
-  - guess
 - - frighten
   - us
   - we
+- - would
+  - ever
+  - guess
 story:
   date: 2012-07-01
   id: 2012-07-01-on-frogmen-and-toadies

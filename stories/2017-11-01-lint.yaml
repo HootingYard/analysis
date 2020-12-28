@@ -38,12 +38,12 @@ ngrams:
 - - heaven's
   - sake
   - i'm
-- - latter
-  - born
-  - israel
 - - richard
   - m
   - nixon
+- - latter
+  - born
+  - israel
 - - wave
   - band
   - formed
@@ -92,12 +92,12 @@ ngrams:
 - - century's
   - titanic
   - pamphleteer
-- - write
-  - endless
-  - screeds
 - - press
   - conference
   - taking
+- - write
+  - endless
+  - screeds
 - - example
   - bridlington
   - basingstoke
@@ -137,15 +137,15 @@ ngrams:
 - - knock
   - anything
   - written
+- - however
+  - ted
+  - cack
+- - however
+  - ted
+  - cack
 - - incoming
   - query
   - let
-- - however
-  - ted
-  - cack
-- - however
-  - ted
-  - cack
 - - thus
   - begins
   - ted
@@ -173,6 +173,9 @@ ngrams:
 - - away
   - moroder
   - whitlock
+- - american
+  - new
+  - wave
 - - most
   - alert
   - listeners
@@ -182,9 +185,6 @@ ngrams:
 - - most
   - startling
   - revelation
-- - american
-  - new
-  - wave
 - - breath
   - away
   - moroder
@@ -257,15 +257,15 @@ ngrams:
 - - question
   - right
   - now
+- - lint
+  - once
+  - upon
 - - medics
   - pronounced
   - him
 - - pronounced
   - him
   - clinically
-- - lint
-  - once
-  - upon
 - - seems
   - much
   - much
@@ -302,24 +302,24 @@ ngrams:
 - - feel
   - what
   - lint
-- - into
-  - unnervingly
-  - boisterous
 - - any
   - other
   - groups
-- - tucking
-  - into
-  - bowls
 - - talking
   - about
   - lint
-- - burst
-  - into
-  - unnervingly
 - - wholly
   - ignorant
   - about
+- - into
+  - unnervingly
+  - boisterous
+- - tucking
+  - into
+  - bowls
+- - burst
+  - into
+  - unnervingly
 - - their
   - home
   - countries
@@ -332,18 +332,18 @@ ngrams:
 - - were
   - mere
   - fugitive
-- - more
-  - exhaustive
-  - than
 - - about
   - anything
   - except
+- - more
+  - exhaustive
+  - than
 - - indeed
   - last
   - time
-- - couple
-  - were
-  - tucking
+- - even
+  - more
+  - sensible
 story:
   date: 2017-11-01
   id: 2017-11-01-lint

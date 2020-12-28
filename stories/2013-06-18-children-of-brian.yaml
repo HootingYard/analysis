@@ -1,7 +1,4 @@
 ngrams:
-- - aircraft
-  - carriers
-  - submarines
 - - carriers
   - submarines
   - solar
@@ -14,6 +11,9 @@ ngrams:
 - - dolphins
   - caribou
   - fur
+- - aircraft
+  - carriers
+  - submarines
 - - grill
   - menthol
   - pies

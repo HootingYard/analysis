@@ -5,6 +5,9 @@ ngrams:
 - - webster's
   - heartfelt
   - plea
+- - archival
+  - index
+  - we've
 - - boulder
   - peering
   - intently
@@ -17,9 +20,6 @@ ngrams:
 - - television
   - presenter
   - dale
-- - archival
-  - index
-  - alas
 - - somehow
   - reassuring
   - gesture
@@ -68,6 +68,9 @@ ngrams:
 - - post
   - person's
   - sack
+- - index
+  - we've
+  - done
 - - pouch
   - concealed
   - within
@@ -101,12 +104,12 @@ ngrams:
 - - almost
   - everyone
   - else
-- - sack
-  - also
-  - contained
 - - quite
   - frankly
   - anyway
+- - sack
+  - also
+  - contained
 - - overfamiliar
   - yet
   - somehow
@@ -212,12 +215,12 @@ ngrams:
 - - agony
   - uncle
   - 'no'
-- - yard
-  - readers
-  - may
 - - many
   - other
   - unanswered
+- - yard
+  - readers
+  - may
 - - dan
   - who
   - used
@@ -257,12 +260,12 @@ ngrams:
 - - curiously
   - reminded
   - me
-- - asked
-  - him
-  - how
 - - mister
   - x
   - there
+- - asked
+  - him
+  - how
 - - hear
   - me
   - above
@@ -296,15 +299,12 @@ ngrams:
 - - alas
   - this
   - doyen
-- - index
-  - alas
-  - this
-- - this
-  - missive
-  - dear
 - - don't
   - know
   - me
+- - this
+  - missive
+  - dear
 - - makes
   - one
   - wonder
@@ -326,15 +326,18 @@ ngrams:
 - - also
   - contained
   - this
-- - time
-  - we
-  - played
 - - pocket
   - or
   - pouch
+- - time
+  - we
+  - played
 - - has
   - always
   - been
+- - waxed
+  - moustache
+  - but
 story:
   date: 2013-02-14
   id: 2013-02-14-specks-in-the-sky
@@ -354,6 +357,8 @@ story:
     here entitled Ask Uncle Dan. He was always generous with his advice on matters
     such as leeks, vim, and an old bag full of crocuses, and you can revisit his wise
     words by checking under ''A'' in the 2003-2006 Archival Index.
+
+    [We''ve done it for you! ----Hooting Yard Archivists]
 
     Alas, this doyen of agony uncles is no longer with us. I always wondered what
     had happened to him, and coincidentally, on the very day Mr Webster''s letter
@@ -418,4 +423,4 @@ story:
     in his billowing cloth, with his waxed moustache and his pallor of bean curd,
     and his mighty, towering wisdom.'
   title: Specks In The Sky
-word_count: 903
+word_count: 911

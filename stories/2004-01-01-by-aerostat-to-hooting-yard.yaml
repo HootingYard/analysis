@@ -5,12 +5,12 @@ ngrams:
 - - hoarseness
   - inflammations
   - jaundice
-- - polio
-  - vaccines
-  - quicksilver
 - - choleric
   - fluxes
   - dislocations
+- - polio
+  - vaccines
+  - quicksilver
 - - elk
   - flin
   - flon
@@ -26,12 +26,15 @@ ngrams:
 - - gall
   - hoarseness
   - inflammations
-- - geologically
-  - improbable
-  - mound
 - - morris
   - tubes
   - nard
+- - geologically
+  - improbable
+  - mound
+- - dinky
+  - tray
+  - laden
 - - disappointment
   - elk
   - flin
@@ -41,9 +44,6 @@ ngrams:
 - - torque
   - wrenches
   - baskets
-- - dinky
-  - tray
-  - laden
 - - unmentionable
   - horrors
   - vexation
@@ -53,39 +53,39 @@ ngrams:
 - - dislocations
   - epidemics
   - frenzy
-- - wrenches
-  - baskets
-  - lengths
 - - stern
   - devotional
   - tracts
 - - ukulele
   - strings
   - valves
-- - corks
-  - diuretics
-  - ergot
 - - strings
   - valves
   - wading
+- - corks
+  - diuretics
+  - ergot
 - - prancing
   - hobbling
   - limping
-- - anchors
-  - cork
-  - jackets
-- - quicksilver
-  - rep
-  - shears
+- - wrenches
+  - baskets
+  - lengths
 - - inflammations
   - jaundice
   - knots
+- - anchors
+  - cork
+  - jackets
 - - plush
   - crimplene
   - cushions
 - - crates
   - hampers
   - barrels
+- - quicksilver
+  - rep
+  - shears
 - - bleach
   - corks
   - diuretics
@@ -95,12 +95,12 @@ ngrams:
 - - frenzy
   - gall
   - hoarseness
-- - thorough
-  - cleaning
-  - descending
 - - devotional
   - tracts
   - prayer
+- - thorough
+  - cleaning
+  - descending
 - - hobbling
   - limping
   - trudging
@@ -110,12 +110,12 @@ ngrams:
 - - bug
   - orb
   - pickle
-- - sprouting
-  - decisive
-  - mustachios
 - - aniseed
   - balls
   - bleach
+- - sprouting
+  - decisive
+  - mustachios
 - - strangely
   - assorted
   - cargo
@@ -140,27 +140,27 @@ ngrams:
 - - flags
   - anchors
   - cork
-- - gates
-  - lurked
-  - burble
-- - pockets
-  - pouches
-  - fobs
 - - antarctic
   - swiftly
   - moving
+- - pockets
+  - pouches
+  - fobs
+- - gates
+  - lurked
+  - burble
 - - bound
   - stride
   - plod
-- - traced
-  - burble
-  - easily
 - - compass
   - flags
   - anchors
 - - foul
   - stench
   - assaulting
+- - traced
+  - burble
+  - easily
 - - dogs
   - choleric
   - fluxes
@@ -182,18 +182,18 @@ ngrams:
 - - equally
   - useless
   - rudder
-- - straw
-  - pallet
-  - arranged
 - - cutlasses
   - gleaming
   - perched
-- - devastation
-  - alive
-  - clutching
+- - straw
+  - pallet
+  - arranged
 - - lake
   - disappointment
   - elk
+- - devastation
+  - alive
+  - clutching
 - - extensively
   - detailed
   - map
@@ -209,45 +209,45 @@ ngrams:
 - - orb
   - pickle
   - crow
-- - tavern
-  - perkins
-  - turning
-- - wanted
-  - burble
-  - obliterated
 - - appear
   - cutlasses
   - gleaming
+- - wanted
+  - burble
+  - obliterated
 - - assorted
   - cargo
   - including
+- - tavern
+  - perkins
+  - turning
 - - concrete
   - lake
   - disappointment
-- - navigational
-  - equipment
-  - including
 - - exciting
   - technical
   - adjustments
+- - navigational
+  - equipment
+  - including
 - - separate
   - cover
   - farewell
-- - pulp
-  - science
-  - fiction
 - - arctic
   - wind
   - blowing
+- - pulp
+  - science
+  - fiction
 - - clenched
   - teeth
   - unfortunately
-- - dozen
-  - earlier
-  - escapades
 - - baby
   - mended
   - whatever
+- - dozen
+  - earlier
+  - escapades
 - - passenger
   - list
   - dine
@@ -260,12 +260,12 @@ ngrams:
 - - rickety
   - wooden
   - shelf
-- - incurring
-  - dobson's
-  - wrath
 - - seething
   - sound
   - redolent
+- - incurring
+  - dobson's
+  - wrath
 - - mad
   - dogs
   - choleric
@@ -278,15 +278,15 @@ ngrams:
 - - following
   - initial
   - instructions
-- - removing
-  - dobson's
-  - medical
-- - risk
-  - incurring
-  - dobson's
 - - yell
   - land
   - ahoy
+- - risk
+  - incurring
+  - dobson's
+- - removing
+  - dobson's
+  - medical
 - - simply
   - vanished
   - blown
@@ -320,24 +320,24 @@ ngrams:
 - - seven
   - feet
   - tall
-- - wooden
-  - box
-  - stacked
-- - detective
-  - stories
-  - including
 - - medical
   - information
   - dobson's
-- - rough
-  - wooden
-  - box
 - - information
   - dobson's
   - dictionary
+- - detective
+  - stories
+  - including
+- - wooden
+  - box
+  - stacked
 - - open
   - inside
   - underneath
+- - rough
+  - wooden
+  - box
 - - water
   - rats
   - gnawing
@@ -365,12 +365,12 @@ ngrams:
 - - essay
   - triton
   - among
-- - ground
-  - removing
-  - dobson's
 - - packed
   - several
   - bags
+- - ground
+  - removing
+  - dobson's
 - - always
   - understood
   - burble
@@ -380,15 +380,15 @@ ngrams:
 - - damned
   - good
   - lurch
-- - paper
-  - torn
-  - none
-- - rather
-  - fetching
-  - kit
 - - nostrils
   - within
   - minutes
+- - rather
+  - fetching
+  - kit
+- - paper
+  - torn
+  - none
 - - map
   - look
   - gasped
@@ -407,24 +407,24 @@ ngrams:
 - - assent
   - everything
   - went
-- - box
-  - stacked
-  - among
 - - immediately
   - felt
   - better
+- - box
+  - stacked
+  - among
 - - bilgewater
   - wafting
-  - around
-- - barely
-  - got
-  - beyond
-- - wine
-  - swilled
   - around
 - - spiny
   - winged
   - things
+- - wine
+  - swilled
+  - around
+- - barely
+  - got
+  - beyond
 - - magnificent
   - having
   - identified
@@ -434,57 +434,57 @@ ngrams:
 - - under
   - separate
   - cover
-- - soon
-  - became
-  - apparent
-- - ship
-  - itself
-  - simply
 - - certain
   - conditions
   - become
+- - ship
+  - itself
+  - simply
+- - soon
+  - became
+  - apparent
 - - heaped
   - great
   - lumps
 - - piping
   - hot
   - water
-- - burble
-  - obliterated
-  - yet
 - - took
   - immediate
   - steps
+- - burble
+  - obliterated
+  - yet
 - - busy
   - rooting
   - around
 - - eat
   - having
   - twice
-- - read
-  - re
-  - burble
 - - further
   - message
   - following
+- - read
+  - re
+  - burble
 - - almost
   - seven
   - feet
 - - noise
   - came
   - afterwards
-- - waste
-  - ground
-  - four
 - - should
   - occasion
   - arise
-- - weeks
-  - later
-  - exhausted
+- - waste
+  - ground
+  - four
 - - pockets
   - strewn
   - around
+- - weeks
+  - later
+  - exhausted
 - - legs
   - scurried
   - around
@@ -500,18 +500,18 @@ ngrams:
 - - tired
   - having
   - spent
-- - last
-  - mouthful
-  - slithered
-- - everything
-  - went
-  - according
-- - essay
-  - explaining
-  - why
 - - few
   - mountain
   - slopes
+- - essay
+  - explaining
+  - why
+- - everything
+  - went
+  - according
+- - last
+  - mouthful
+  - slithered
 - - docks
   - while
   - heating
@@ -533,24 +533,24 @@ ngrams:
 - - devoured
   - another
   - bag
-- - quite
-  - common
-  - although
 - - weeks
   - perhaps
   - months
+- - quite
+  - common
+  - although
 - - remain
   - sitting
   - around
-- - seafaring
-  - yarn
-  - hooting
 - - come
   - anywhere
   - near
 - - captain's
   - table
   - take
+- - seafaring
+  - yarn
+  - hooting
 - - pitch
   - black
   - night
@@ -563,51 +563,51 @@ ngrams:
 - - these
   - torque
   - wrenches
-- - yard
-  - somewhat
-  - gratuitously
 - - side
   - should
   - occasion
 - - open
   - country
   - next
-- - wrap
-  - these
-  - lengths
 - - apples
   - two
   - useless
+- - wrap
+  - these
+  - lengths
 - - another
   - half
   - hour
+- - yard
+  - somewhat
+  - gratuitously
 - - heel
   - scurried
   - 'off'
 - - torn
   - none
   - too
+- - biscuits
+  - apples
+  - two
 - - much
   - slobbering
   - explaining
 - - much
   - bumping
   - thumping
-- - biscuits
-  - apples
-  - two
 - - none
   - too
   - carefully
 - - lightning
   - while
   - doing
-- - perkins
-  - turning
-  - 'off'
 - - later
   - under
   - cover
+- - perkins
+  - turning
+  - 'off'
 - - booklet
   - leafed
   - through
@@ -632,27 +632,27 @@ ngrams:
 - - head
   - spun
   - shimmers
-- - wasteland
-  - outside
-  - hooting
 - - first
   - aid
   - kit
-- - air
-  - read
-  - re
 - - zips
   - after
   - innumerable
-- - minnows
-  - dobson
-  - expounded
+- - air
+  - read
+  - re
+- - wasteland
+  - outside
+  - hooting
 - - after
   - innumerable
   - pints
 - - those
   - gates
   - lurked
+- - minnows
+  - dobson
+  - expounded
 - - once
   - having
   - dusted
@@ -662,36 +662,36 @@ ngrams:
 - - through
   - clenched
   - teeth
-- - instructions
-  - dobson
-  - trusted
-- - initial
-  - instructions
-  - dobson
-- - fists
-  - tiny
-  - things
 - - black
   - night
   - sky
-- - l
-  - another
-  - thing
+- - fists
+  - tiny
+  - things
 - - our
   - descent
   - quickened
-- - yellow
-  - zips
-  - after
 - - while
   - doing
   - dobson's
-- - bags
-  - before
-  - triumphantly
+- - l
+  - another
+  - thing
+- - instructions
+  - dobson
+  - trusted
+- - yellow
+  - zips
+  - after
 - - parachute
   - our
   - descent
+- - bags
+  - before
+  - triumphantly
+- - initial
+  - instructions
+  - dobson
 - - vanity
   - bags
   - before
@@ -701,18 +701,18 @@ ngrams:
 - - accomplice
   - again
   - until
-- - obvious
-  - obvious
-  - dobson
 - - lurched
   - onwards
   - over
-- - minutes
-  - rummaging
-  - through
 - - table
   - take
   - part
+- - minutes
+  - rummaging
+  - through
+- - obvious
+  - obvious
+  - dobson
 - - lurch
   - weighed
   - down
@@ -722,51 +722,51 @@ ngrams:
 - - very
   - fast
   - shouted
-- - dobson
-  - wanted
-  - burble
-- - mouthful
-  - slithered
-  - down
 - - mission
   - ranging
   - over
 - - prey
   - hovering
   - over
-- - abolishes
-  - any
-  - creeping
-- - innsmouth
-  - staying
-  - only
-- - teeth
-  - unfortunately
-  - after
+- - mouthful
+  - slithered
+  - down
 - - doltish
   - peering
   - over
+- - abolishes
+  - any
+  - creeping
+- - teeth
+  - unfortunately
+  - after
+- - innsmouth
+  - staying
+  - only
 - - figure
   - loomed
   - before
 - - joy
   - streaming
   - down
-- - possible
-  - dobson
-  - perkins
+- - dobson
+  - wanted
+  - burble
 - - down
   - burble
   - beat
+- - possible
+  - dobson
+  - perkins
 - - any
   - creeping
   - panic
-- - dobson
-  - says
-  - begins
 - - rattled
   - 'off'
   - towards
+- - dobson
+  - says
+  - begins
 - - kitchen
   - wolfing
   - down
@@ -791,111 +791,108 @@ ngrams:
 - - precise
   - track
   - down
+- - go
+  - without
+  - saying
 - - next
   - four
   - days
 - - put
   - these
   - torque
-- - go
-  - without
-  - saying
-- - help
-  - tamp
-  - down
-- - adventure
-  - three
-  - years
 - - straying
   - too
   - far
 - - behind
   - those
   - gates
+- - help
+  - tamp
+  - down
+- - adventure
+  - three
+  - years
 - - stowage
   - without
   - being
 - - somewhere
   - behind
   - those
-- - ranging
-  - over
-  - four
 - - ever
   - come
   - anywhere
+- - ranging
+  - over
+  - four
 - - over
   - four
   - continents
 - - help
   - us
   - put
-- - dobson
-  - bang
-  - went
-- - vinegar
-  - case
-  - dobson
 - - almost
   - dawn
   - before
-- - conflagration
-  - like
-  - unto
 - - head
   - nor
   - tail
-- - wrote
-  - dear
+- - conflagration
+  - like
+  - unto
+- - vinegar
+  - case
   - dobson
+- - dobson
+  - bang
+  - went
 - - bus
   - stop
   - where
+- - wrote
+  - dear
+  - dobson
 - - shall
   - record
   - here
-- - gap
-  - then
-  - burble
 - - ahoy
   - then
   - scurry
+- - gap
+  - then
+  - burble
 - - dirk
   - then
   - bury
 - - could
   - ill
   - afford
-- - shreds
-  - then
-  - settled
 - - first
   - few
   - sentences
+- - shreds
+  - then
+  - settled
 - - just
   - four
   - hours
 - - clambered
   - '-'
   - such
-- - could
-  - lie
-  - safely
 - - '-'
   - such
   - drivel
-- - could
-  - hardly
-  - drag
-- - yarn
-  - hooting
-  - yard
-- - long
-  - plod
-  - back
 - - am
   - unusually
   - adept
+- - could
+  - lie
+  - safely
+- - could
+  - hardly
+  - drag
+- - long
+  - plod
+  - back
 - - having
   - dusted
   - down
@@ -905,36 +902,39 @@ ngrams:
 - - more
   - unlikely
   - properties
-- - hooting
+- - yarn
+  - hooting
   - yard
-  - somewhat
+- - flax
+  - i'll
+  - do
 - - she
   - cried
   - tossing
 - - her
   - pointing
   - finger
-- - herb
-  - found
-  - only
-- - flax
-  - i'll
-  - do
 - - perhaps
   - months
   - before
+- - herb
+  - found
+  - only
 - - full
   - report
   - upon
-- - why
-  - dobson
-  - wanted
+- - hooting
+  - yard
+  - somewhat
 - - without
   - being
   - seen
 - - should
   - go
   - without
+- - why
+  - dobson
+  - wanted
 - - spleen
   - among
   - its
@@ -944,9 +944,6 @@ ngrams:
 - - then
   - burble
   - turned
-- - outside
-  - hooting
-  - yard
 - - land
   - ahoy
   - then
@@ -956,18 +953,21 @@ ngrams:
 - - some
   - heinous
   - offence
+- - outside
+  - hooting
+  - yard
 - - pound
   - some
   - ragwort
 - - committed
   - some
   - heinous
-- - question
-  - why
-  - dobson
 - - lately
   - committed
   - some
+- - question
+  - why
+  - dobson
 - - pallet
   - arranged
   - some
@@ -995,24 +995,24 @@ ngrams:
 - - two
   - hours
   - away
+- - emptying
+  - them
+  - spreading
 - - think
   - dobson
   - attempted
 - - burble
   - beat
   - him
-- - emptying
-  - them
-  - spreading
 - - two
   - years
   - since
-- - club
-  - wrap
-  - him
 - - finished
   - emptying
   - them
+- - club
+  - wrap
+  - him
 - - disembarked
   - just
   - before
@@ -1025,21 +1025,21 @@ ngrams:
 - - plan
   - some
   - weeks
-- - snarled
-  - dobson
-  - dobson
 - - showed
   - rather
   - more
+- - snarled
+  - dobson
+  - dobson
 - - record
   - here
   - dobson
-- - rather
-  - more
-  - presence
 - - dictionary
   - has
   - absolutely
+- - rather
+  - more
+  - presence
 - - us
   - put
   - these
@@ -1052,45 +1052,45 @@ ngrams:
 - - report
   - well
   - now
-- - 'no'
-  - medical
-  - training
 - - make
   - head
   - nor
+- - 'no'
+  - medical
+  - training
 - - know
   - dobson
   - bang
 - - 'no'
   - report
   - aha
-- - flames
-  - licked
-  - up
 - - earlier
   - escapades
   - 'no'
-- - spreading
-  - their
-  - contents
+- - flames
+  - licked
+  - up
 - - dobson's
   - dictionary
   - has
+- - spreading
+  - their
+  - contents
 - - dockyard
   - our
   - only
 - - only
   - seconds
   - before
-- - tavern
-  - her
-  - name
 - - escapades
   - 'no'
   - doubt
 - - certainly
   - underwent
   - 'no'
+- - tavern
+  - her
+  - name
 - - nearly
   - threw
   - up
@@ -1103,36 +1103,36 @@ ngrams:
 - - sail
   - any
   - day
-- - bury
-  - him
-  - under
 - - three
   - years
   - before
-- - yard
-  - could
-  - hardly
+- - bury
+  - him
+  - under
 - - some
   - weeks
   - later
 - - holed
   - up
   - below
-- - could
+- - yard
+  - could
   - hardly
-  - see
 - - blank
   - what
   - inanity
+- - could
+  - hardly
+  - see
+- - grimy
+  - fist
+  - what
 - - been
   - shrinking
   - recently
 - - burble
   - turned
   - up
-- - grimy
-  - fist
-  - what
 - - about
   - smacks
   - bilgewater
@@ -1163,42 +1163,42 @@ ngrams:
 - - your
   - instructions
   - arrived
-- - torque
-  - wrenches
-  - into
-- - ragwort
-  - into
-  - oblivion
-- - our
-  - only
-  - light
-- - already
-  - been
-  - punctured
 - - guilt
   - about
   - horses
+- - our
+  - only
+  - light
 - - pale
   - your
   - teeth
-- - nail
-  - rammed
+- - torque
+  - wrenches
   - into
+- - already
+  - been
+  - punctured
+- - ragwort
+  - into
+  - oblivion
 - - invaluable
   - when
   - perkins
+- - nail
+  - rammed
+  - into
 - - chemical
   - preparations
   - into
 - - knows
   - what
   - he's
-- - were
-  - terribly
-  - mangled
 - - expect
   - your
   - report
+- - whacked
+  - up
+  - along
 story:
   date: 2004-01-01
   id: 2004-01-01-by-aerostat-to-hooting-yard

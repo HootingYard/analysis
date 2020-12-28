@@ -79,10 +79,10 @@ ngrams:
   - preen
 - - lothar
   - preen
-  - she's
+  - reveals
 - - lothar
   - preen
-  - reveals
+  - she's
 - - flashback
   - lothar
   - preen
@@ -104,10 +104,10 @@ ngrams:
 - - lothar
   - preen
   - puts
-- - shirt
+- - enraged
   - lothar
   - preen
-- - enraged
+- - shirt
   - lothar
   - preen
 - - cell
@@ -125,33 +125,33 @@ ngrams:
 - - lothar
   - preen
   - arrives
-- - lothar
-  - preen
-  - unconscious
 - - knocked
   - lothar
   - preen
 - - lothar
   - preen
-  - wants
-- - plane
-  - lothar
+  - unconscious
+- - lothar
   - preen
+  - wants
 - - says
   - soulfully
   - flashback
+- - plane
+  - lothar
+  - preen
 - - loud
   - screechy
   - soul
 - - gives
   - lothar
   - preen
-- - lothar
-  - preen
-  - tells
 - - forest
   - lothar
   - preen
+- - lothar
+  - preen
+  - tells
 - - bombing
   - pal
   - says
@@ -176,42 +176,42 @@ ngrams:
 - - yesterday
   - lothar
   - preen
-- - secret
-  - service
-  - agent
 - - republican
   - guard
   - it's
+- - secret
+  - service
+  - agent
 - - special
   - christmas
   - treat
-- - prayers
-  - outside
-  - lothar
 - - gosh
   - it's
   - tense
+- - prayers
+  - outside
+  - lothar
 - - gubbins
   - raft
   - building
 - - sleep
   - joost
   - van
-- - lothar
-  - preen
-  - says
 - - beach
   - solemn
   - music
+- - lothar
+  - preen
+  - says
 - - clearly
   - lothar
   - preen
 - - preen
-  - says
-  - he's
-- - preen
   - agrees
   - mrs
+- - preen
+  - says
+  - he's
 - - wife
   - apparently
   - died
@@ -263,42 +263,42 @@ ngrams:
 - - preen
   - wants
   - blodgett
-- - mistake
-  - blodgett
-  - gives
 - - mrs
   - gubbins
   - lothar
+- - mistake
+  - blodgett
+  - gives
 - - appeared
   - yesterday
-  - lothar
-- - blodgett
-  - gives
   - lothar
 - - thinking
   - clearly
   - lothar
+- - blodgett
+  - gives
+  - lothar
 - - guard
   - it's
   - seven
-- - looking
-  - soulful
-  - mrs
 - - tells
   - mrs
   - gubbins
+- - looking
+  - soulful
+  - mrs
 - - scene
   - gosh
   - it's
 - - preen
   - tells
   - blodgett
-- - collect
-  - what's
-  - left
 - - pal
   - whose
   - wife
+- - collect
+  - what's
+  - left
 - - christmas
   - treat
   - part
@@ -344,15 +344,15 @@ ngrams:
 - - transmitter
   - triangulation
   - thing
-- - having
-  - knocked
-  - lothar
-- - hoon
-  - marigold
-  - chew
 - - marigold
   - chew
   - tells
+- - hoon
+  - marigold
+  - chew
+- - having
+  - knocked
+  - lothar
 - - lie
   - marigold
   - chew
@@ -404,18 +404,18 @@ ngrams:
 - - sea
   - blodgett
   - says
-- - doesn't
-  - work
-  - blodgett
 - - still
   - lothar
   - preen
-- - bombing
-  - somewhere
-  - while
 - - thrilling
   - new
   - drama
+- - bombing
+  - somewhere
+  - while
+- - doesn't
+  - work
+  - blodgett
 - - asks
   - blodgett
   - why
@@ -437,12 +437,12 @@ ngrams:
 - - blodgett
   - arrives
   - still
-- - scampering
-  - desperately
-  - through
 - - while
   - mrs
   - gubbins
+- - scampering
+  - desperately
+  - through
 - - last
   - second
   - turns
@@ -458,9 +458,6 @@ ngrams:
 - - preen
   - unconscious
   - just
-- - hero
-  - dobson
-  - loses
 - - travelling
   - ever
   - since
@@ -470,15 +467,18 @@ ngrams:
 - - marigold
   - chew
   - come
-- - vanished
+- - hero
   - dobson
-  - assumes
+  - loses
 - - island
   - after
   - surviving
 - - few
   - weeks
   - ago
+- - vanished
+  - dobson
+  - assumes
 - - ever
   - since
   - you're
@@ -488,33 +488,33 @@ ngrams:
 - - head
   - lothar
   - preen
-- - exhausted
-  - desperate
-  - dobson
 - - nods
   - 'off'
   - blodgett
 - - aha
   - night
   - still
+- - exhausted
+  - desperate
+  - dobson
 - - mysterious
   - island
   - after
 - - night
   - still
   - lothar
-- - it's
-  - seven
-  - years
 - - after
   - prayers
   - outside
-- - others
-  - pull
-  - dobson
+- - it's
+  - seven
+  - years
 - - treat
   - part
   - two
+- - others
+  - pull
+  - dobson
 - - minutes
   - before
   - calling
@@ -524,21 +524,21 @@ ngrams:
 - - head
   - blodgett
   - explains
-- - dobson
-  - assumes
-  - blodgett
-- - something
-  - 'yes'
-  - indeed
 - - first
   - appeared
   - yesterday
-- - desperate
-  - dobson
-  - marigold
+- - something
+  - 'yes'
+  - indeed
+- - dobson
+  - assumes
+  - blodgett
 - - looking
   - very
   - deep
+- - desperate
+  - dobson
+  - marigold
 - - dobson
   - i'm
   - looking
@@ -578,12 +578,12 @@ ngrams:
 - - those
   - eyebrows
   - again
-- - around
-  - dobson
-  - wakes
 - - world
   - after
   - prayers
+- - around
+  - dobson
+  - wakes
 story:
   date: 2005-12-25
   id: 2005-12-25-a-special-christmas-treat-part-two
@@ -595,7 +595,7 @@ story:
     Lothar Preen is looking soulful. Mrs Gubbins is tending Ah-Fang Van Der Houygendorp''s
     corpse. We shall not see those eyebrows again. Lothar Preen is looking even more
     soulful. He tells Mrs Gubbins that Ah-Fang Van Der Houygendorp was very brave.
-    "If there is anything I can do for you...." he says, soulfully.
+    "If there is anything I can do for you..." he says, soulfully.
 
     Flashback. Lothar Preen is under military arrest at Loopy Copse aerodrome. He
     is taken into a room where a female CIA agent and a male Port of Tongs secret

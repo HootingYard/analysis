@@ -59,12 +59,6 @@ ngrams:
 - - docents
   - governesses
   - papal
-- - airmen
-  - balloonists
-  - hod
-- - airmen
-  - balloonists
-  - hod
 - - sweeps
   - gangmasters
   - snipers
@@ -74,21 +68,15 @@ ngrams:
 - - hosts
   - cashiered
   - cadets
-- - balloonists
+- - airmen
+  - balloonists
   - hod
-  - carriers
 - - hosts
   - cashiered
   - cadets
-- - balloonists
+- - airmen
+  - balloonists
   - hod
-  - carriers
-- - hod
-  - carriers
-  - birdwatchers
-- - hod
-  - carriers
-  - birdwatchers
 - - snowmen
   - chimney
   - sweeps
@@ -107,12 +95,24 @@ ngrams:
 - - aesthetes
   - charges
   - d'affaires
+- - balloonists
+  - hod
+  - carriers
 - - flappers
   - floozies
   - defrocked
 - - aesthetes
   - charges
   - d'affaires
+- - balloonists
+  - hod
+  - carriers
+- - hod
+  - carriers
+  - birdwatchers
+- - hod
+  - carriers
+  - birdwatchers
 - - charges
   - d'affaires
   - rapporteurs
@@ -158,12 +158,6 @@ ngrams:
 - - brevet
   - colonels
   - elephant
-- - colonels
-  - elephant
-  - hunters
-- - elephant
-  - hunters
-  - expats
 - - brevet
   - colonels
   - elephant
@@ -173,30 +167,36 @@ ngrams:
 - - elephant
   - hunters
   - expats
-- - dacoits
-  - thugs
-  - assassins
 - - vampires
   - zombies
   - psychopaths
-- - dacoits
-  - thugs
-  - assassins
+- - colonels
+  - elephant
+  - hunters
+- - elephant
+  - hunters
+  - expats
 - - vampires
   - zombies
   - psychopaths
-- - thugs
-  - assassins
-  - diplomats
 - - sprinters
   - vampires
   - zombies
-- - thugs
-  - assassins
-  - diplomats
 - - sprinters
   - vampires
   - zombies
+- - dacoits
+  - thugs
+  - assassins
+- - athletes
+  - sprinters
+  - vampires
+- - dacoits
+  - thugs
+  - assassins
+- - athletes
+  - sprinters
+  - vampires
 story:
   date: 2011-04-28
   id: 2011-04-28-thursday-morning-thriller

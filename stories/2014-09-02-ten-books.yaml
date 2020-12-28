@@ -1,58 +1,33 @@
 ngrams:
-- - scrivener
-  - herman
-  - melville
-- - watt
-  - samuel
-  - beckett
-- - vladimir
-  - nabokov
-  - w
-- - herman
-  - melville
-  - pale
-- - peter
-  - greenaway
-  - bartleby
-- - falls
-  - peter
-  - greenaway
+- - books
+  - without
+  - thinking
+- - thinking
+  - too
+  - hard
+- - without
+  - thinking
+  - too
+- - too
+  - hard
+  - here
 - - author
-  - watt
-  - samuel
-- - household
-  - wreck
-  - thomas
-- - purple
-  - cloud
-  - m
-- - fire
-  - vladimir
-  - nabokov
-- - cloud
-  - m
-  - p
-- - pale
-  - fire
-  - vladimir
-- - melville
-  - pale
-  - fire
-- - thomas
-  - de
-  - quincey
+  - do
+  - not
+- - by
+  - author
+  - do
+- - confused
+  - by
+  - 'no'
 story:
   date: 2014-09-02
   id: 2014-09-02-ten-books
-  text: "I was persuaded to take part in one of those Facecloth round-robins, in which\
-    \ I was asked to name ten favourite books \"without thinking too hard\". Here\
-    \ is my list (A-Z by author):\n1. Watt, Samuel Beckett\n  2. Who Was Changed And\
-    \ Who Was Dead, Barbara Comyns\n  3. The Household Wreck, Thomas De Quincey\n\
-    \  4. Amphigorey, Edward Gorey\n  5. The Falls, Peter Greenaway\n  6. Bartleby\
-    \ The Scrivener, Herman Melville\n  7. Pale Fire, Vladimir Nabokov\n  8. W or\
-    \ The Memory Of Childhood, Georges Perec\n  9. The Crying Of Lot 49, Thomas Pynchon\n\
-    \  10. The Purple Cloud, M P Shiel\nDo not be confused by No. 5. The screenplay\
-    \ of Greenaway's majestic film is (or was) available in paperback, and takes the\
-    \ form of a continuous piece of prose."
+  text: 'I was persuaded to take part in one of those Facecloth round-robins, in which
+    I was asked to name ten favourite books "without thinking too hard". Here is my
+    list (A-Z by author):
+
+    Do not be confused by No. 10 The screenplay of Greenaway''s majestic film is (or
+    was) available in paperback, and takes the form of a continuous piece of prose.'
   title: Ten Books
-word_count: 117
+word_count: 63

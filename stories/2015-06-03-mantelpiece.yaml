@@ -17,12 +17,12 @@ ngrams:
 - - conducts
   - occasional
   - epistolary
-- - occasional
-  - epistolary
-  - dialogues
 - - hood
   - emily
   - dickinson
+- - occasional
+  - epistolary
+  - dialogues
 - - emergency
   - postman's
   - jacket
@@ -65,12 +65,12 @@ ngrams:
 - - david
   - bowie
   - sucked
-- - psychopathic
-  - serial
-  - killer
 - - emotionally
   - shattering
   - experience
+- - psychopathic
+  - serial
+  - killer
 - - grip
   - altogether
   - anyway
@@ -107,15 +107,15 @@ ngrams:
 - - swish
   - sophisticated
   - cocktail
+- - sophisticated
+  - cocktail
+  - parties
+- - sophisticated
+  - cocktail
+  - parties
 - - sucked
   - innumerable
   - pebbles
-- - sophisticated
-  - cocktail
-  - parties
-- - sophisticated
-  - cocktail
-  - parties
 - - enacting
   - short
   - extracts
@@ -146,18 +146,15 @@ ngrams:
 - - unnatural
   - beauty
   - eventually
-- - particularly
-  - acute
-  - authorial
 - - m
   - r
   - james
+- - particularly
+  - acute
+  - authorial
 - - purely
   - fictional
   - maniac
-- - ground
-  - uncertain
-  - bewitched
 - - sophisticated
   - cocktail
   - party
@@ -179,18 +176,18 @@ ngrams:
 - - sophisticated
   - cocktail
   - party
-- - shaky
-  - ground
-  - uncertain
 - - real
   - lumbering
   - relentlessly
+- - ground
+  - uncertain
+  - bewitched
 - - meet
   - eating
   - fish
-- - letter
-  - plops
-  - onto
+- - shaky
+  - ground
+  - uncertain
 - - cocktail
   - party
   - leaning
@@ -200,6 +197,9 @@ ngrams:
 - - fictional
   - maniac
   - dreamed
+- - letter
+  - plops
+  - onto
 - - system
   - yellow
   - notebook
@@ -233,15 +233,15 @@ ngrams:
 - - dickinson
   - taken
   - pictures
+- - leaning
+  - insouciantly
+  - against
+- - leaning
+  - insouciantly
+  - against
 - - lumbering
   - relentlessly
   - towards
-- - leaning
-  - insouciantly
-  - against
-- - leaning
-  - insouciantly
-  - against
 - - recent
   - weeks
   - gone
@@ -251,12 +251,12 @@ ngrams:
 - - mantelpiece
   - clean
   - enough
-- - distinction
-  - between
-  - frank
 - - crowley
   - having
   - ticked
+- - distinction
+  - between
+  - frank
 - - fomented
   - entirely
   - within
@@ -272,36 +272,36 @@ ngrams:
 - - myself
   - repeatedly
   - gazing
-- - frank
-  - key
-  - author
 - - simply
   - common
   - sense
+- - frank
+  - key
+  - author
 - - something
   - inexplicably
   - menacing
 - - several
   - different
   - areas
-- - mr
-  - cutler
-  - asserts
 - - saw
   - silhouetted
   - against
-- - blog
-  - vs
-  - mr
+- - mr
+  - cutler
+  - asserts
 - - cocktail
   - party
   - without
-- - between
-  - frank
-  - key
+- - blog
+  - vs
+  - mr
 - - fifth
   - series
   - though
+- - between
+  - frank
+  - key
 - - little
   - ether
   - hood
@@ -347,12 +347,12 @@ ngrams:
 - - first
   - person
   - narratives
-- - himself
-  - dear
-  - mr
 - - first
   - person
   - narrator
+- - himself
+  - dear
+  - mr
 - - room
   - after
   - casting
@@ -365,18 +365,18 @@ ngrams:
 - - hotel
   - room
   - after
-- - more
-  - piquant
-  - farewell
 - - person
   - narrator
   - may
-- - need
-  - only
-  - bash
+- - more
+  - piquant
+  - farewell
 - - order
   - based
   - upon
+- - need
+  - only
+  - bash
 - - main
   - room
   - where
@@ -392,15 +392,15 @@ ngrams:
 - - debauch
   - nor
   - did
-- - hooting
-  - yard
-  - scene
 - - hair
   - take
   - 'off'
 - - ticked
   - these
   - 'off'
+- - hooting
+  - yard
+  - scene
 - - more
   - salubrious
   - part
@@ -476,18 +476,18 @@ ngrams:
 - - alley
   - towards
   - what
+- - gone
+  - about
+  - wearing
+- - weeks
+  - gone
+  - about
 - - hooting
   - yard
   - where
 - - such
   - details
   - could
-- - weeks
-  - gone
-  - about
-- - gone
-  - about
-  - wearing
 - - having
   - been
   - felled
@@ -506,30 +506,30 @@ ngrams:
 - - readers
   - may
   - like
-- - fictional
-  - having
-  - been
 - - sailors
   - all
   - meet
-- - ed
-  - miliband
-  - would
+- - fictional
+  - having
+  - been
 - - all
   - meet
   - eating
-- - would
-  - lean
-  - insouciantly
-- - also
-  - calls
-  - into
 - - your
   - correspondents
   - while
+- - ed
+  - miliband
+  - would
+- - would
+  - lean
+  - insouciantly
 - - duck's
   - blood
   - all
+- - also
+  - calls
+  - into
 - - footsteps
   - following
   - me
@@ -542,18 +542,18 @@ ngrams:
 - - reality
   - otherwise
   - we
-- - beneficial
-  - if
-  - mr
 - - particularly
   - struck
   - me
-- - may
-  - like
+- - beneficial
+  - if
   - mr
 - - inveigle
   - your
   - way
+- - may
+  - like
+  - mr
 - - relentlessly
   - towards
   - me
@@ -563,18 +563,18 @@ ngrams:
 - - take
   - into
   - account
-- - been
-  - very
-  - careful
 - - don't
   - get
   - out
-- - we
-  - deliberately
-  - left
 - - your
   - head
   - absent
+- - been
+  - very
+  - careful
+- - we
+  - deliberately
+  - left
 story:
   date: 2015-06-03
   id: 2015-06-03-mantelpiece

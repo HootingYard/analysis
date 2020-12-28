@@ -29,12 +29,12 @@ ngrams:
 - - hollyhock
   - patch
   - beside
-- - latvian
-  - ice
-  - rink
 - - sunday
   - monday
   - tuesday
+- - latvian
+  - ice
+  - rink
 - - thursday
   - friday
   - saturday
@@ -104,24 +104,24 @@ ngrams:
 - - marigold
   - chew
   - waving
-- - munching
-  - done
-  - marigold
 - - scudding
   - clouds
   - birds
-- - reference
-  - library
-  - reading
+- - munching
+  - done
+  - marigold
 - - clouds
   - birds
   - soar
-- - thorn
-  - bush
-  - next
+- - reference
+  - library
+  - reading
 - - flight
   - without
   - needing
+- - thorn
+  - bush
+  - next
 - - print
   - munching
   - done
@@ -236,27 +236,27 @@ ngrams:
 - - fully
   - digested
   - dobson
-- - dobson
-  - ate
-  - lobster
 - - breakfast
   - while
   - marigold
-- - pip
-  - free
-  - dobson
-- - most
-  - important
-  - pamphlets
 - - course
   - marigold
   - chew
-- - poor
-  - tiny
-  - thing
 - - while
   - marigold
   - chew
+- - dobson
+  - ate
+  - lobster
+- - poor
+  - tiny
+  - thing
+- - most
+  - important
+  - pamphlets
+- - pip
+  - free
+  - dobson
 - - even
   - teeny
   - weeny
@@ -269,57 +269,57 @@ ngrams:
 - - very
   - sharp
   - pencil
-- - replied
-  - dobson
-  - research
-- - s
-  - dobson
-  - awoke
 - - go
   - flitting
   - until
+- - s
+  - dobson
+  - awoke
 - - well
   - asked
   - marigold
+- - replied
+  - dobson
+  - research
 - - many
   - different
   - types
 - - wherein
   - such
   - goos
-- - chew
-  - sighed
-  - dobson
 - - vast
   - expanse
   - said
 - - repel
   - such
   - creatures
-- - news
-  - cried
+- - chew
+  - sighed
   - dobson
 - - cabinet
   - wherein
   - such
+- - news
+  - cried
+  - dobson
 - - pamphleteer
   - replied
   - after
-- - shrike
-  - today
-  - dobson
 - - catalogued
   - over
   - breakfast
-- - pratincole
-  - asked
-  - dobson
 - - misery
   - etched
   - upon
+- - shrike
+  - today
+  - dobson
 - - long
   - pause
   - while
+- - pratincole
+  - asked
+  - dobson
 - - gaze
   - admiringly
   - upon
@@ -338,21 +338,21 @@ ngrams:
 - - impales
   - its
   - victim
+- - victim
+  - upon
+  - sharp
+- - victim
+  - upon
+  - sharp
+- - weeny
+  - mammals
+  - like
+- - weeny
+  - mammals
+  - like
 - - second
   - thursday
   - dobson
-- - victim
-  - upon
-  - sharp
-- - victim
-  - upon
-  - sharp
-- - weeny
-  - mammals
-  - like
-- - weeny
-  - mammals
-  - like
 - - marigold
   - chew
   - just
@@ -365,9 +365,6 @@ ngrams:
 - - entirety
   - now
   - tinies
-- - pamphlet
-  - yourself
-  - dobson
 - - creatures
   - said
   - marigold
@@ -377,6 +374,9 @@ ngrams:
 - - those
   - days
   - libraries
+- - pamphlet
+  - yourself
+  - dobson
 - - morning
   - dobson
   - ate
@@ -410,12 +410,12 @@ ngrams:
 - - face
   - now
   - transformed
-- - free
-  - dobson
-  - took
 - - time
   - dusk
   - descended
+- - free
+  - dobson
+  - took
 - - found
   - poring
   - over
@@ -428,21 +428,21 @@ ngrams:
 - - shrike
   - can
   - return
-- - chew
-  - waving
-  - her
 - - other
   - tiny
   - mammal
+- - chew
+  - waving
+  - her
 - - now
   - tinies
   - let
-- - next
-  - morning
-  - dobson
 - - marigold
   - chew
   - could
+- - next
+  - morning
+  - dobson
 - - reputed
   - ornithologist
   - has
@@ -479,18 +479,18 @@ ngrams:
 - - mashed
   - up
   - cake
-- - her
-  - hand
-  - towards
 - - tiny
   - thing
   - upon
-- - their
-  - wild
-  - embrace
+- - her
+  - hand
+  - towards
 - - some
   - minutes
   - later
+- - their
+  - wild
+  - embrace
 - - what
   - pratt
   - dubbed
@@ -509,33 +509,33 @@ ngrams:
 - - o'
   - mine
   - what
+- - eye
+  - some
+  - come
 - - libraries
   - were
   - havens
 - - goos
   - were
   - stored
-- - eye
-  - some
-  - come
-- - sighed
-  - dobson
-  - she
 - - said
   - dobson
   - across
-- - flesh
-  - into
-  - smaller
-- - flesh
-  - into
-  - smaller
+- - sighed
+  - dobson
+  - she
 - - did
   - said
   - marigold
 - - sky
   - until
   - some
+- - flesh
+  - into
+  - smaller
+- - flesh
+  - into
+  - smaller
 - - wednesday
   - were
   - identical
@@ -569,12 +569,12 @@ ngrams:
 - - get
   - close
   - up
-- - today
-  - were
-  - clad
 - - pamphleteer
   - headed
   - out
+- - today
+  - were
+  - clad
 - - bird
   - swooped
   - into
@@ -632,9 +632,9 @@ ngrams:
 - - some
   - fluid
   - she
-- - come
-  - into
-  - land
+- - tinies
+  - let
+  - me
 story:
   date: 2010-06-01
   id: 2010-06-01-flight-patterns-of-the-common-shrike

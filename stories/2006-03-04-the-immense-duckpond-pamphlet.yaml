@@ -14,15 +14,15 @@ ngrams:
 - - orthodox
   - raincoats
   - morose
-- - tolerate
-  - orthodox
-  - raincoats
 - - indoor
   - fountains
   - conservatories
 - - curds
   - feverfew
   - whelks
+- - tolerate
+  - orthodox
+  - raincoats
 - - invoke
   - disastrous
   - plutonian
@@ -41,42 +41,42 @@ ngrams:
 - - foolscap
   - ledger
   - frowning
-- - purely
-  - alphabetic
-  - indexing
 - - secretive
   - glagolitic
   - scribblings
 - - jellied
   - globules
   - quivering
-- - blinked
-  - shuddered
-  - twitched
 - - feverfew
   - whelks
   - gin
+- - blinked
+  - shuddered
+  - twitched
 - - runner
   - beans
   - finely
+- - purely
+  - alphabetic
+  - indexing
 - - instructive
   - sentiments
   - maxims
 - - ledger
   - frowning
   - rapt
-- - portable
-  - kiln
-  - ignited
-- - hurled
-  - delphiniums
-  - muffins
 - - accumulated
   - tuning
   - forks
+- - portable
+  - kiln
+  - ignited
 - - floorboards
   - destroying
   - chandeliers
+- - hurled
+  - delphiniums
+  - muffins
 - - burnt
   - quintain
   - steady
@@ -86,54 +86,51 @@ ngrams:
 - - antique
   - spelling
   - receipt
+- - descriptions
+  - footnotes
+  - evasions
 - - baths
   - cupcake
   - mixture
-- - purgative
-  - hurled
-  - delphiniums
 - - retorts
   - dye
   - buckets
 - - dingy
   - unlit
   - corridors
-- - descriptions
-  - footnotes
-  - evasions
-- - parapets
-  - shrubberies
-  - 'false'
 - - footnotes
   - evasions
   - queries
+- - purgative
+  - hurled
+  - delphiniums
+- - parapets
+  - shrubberies
+  - 'false'
 - - maxims
   - descriptions
   - footnotes
 - - novelist
   - samuel
   - richardson
-- - footsteps
-  - approaching
-  - lurching
 - - concocted
   - diverting
   - bedtime
 - - rand
   - cavernous
   - halls
-- - bona
-  - fide
-  - assistant
-- - unperturbed
-  - regularly
-  - refilling
+- - footsteps
+  - approaching
+  - lurching
 - - supercilious
   - manners
   - spotless
 - - shrubberies
   - 'false'
   - ceilings
+- - unperturbed
+  - regularly
+  - refilling
 - - vile
   - flatworms
   - excrete
@@ -146,6 +143,9 @@ ngrams:
 - - lumber
   - rooms
   - bookcases
+- - bona
+  - fide
+  - assistant
 - - booming
   - cataclysmic
   - roars
@@ -155,48 +155,48 @@ ngrams:
 - - ayn
   - rand
   - cavernous
-- - equipment
-  - trailing
-  - wires
 - - whey
   - turmeric
   - marmalade
-- - tubes
-  - scientific
-  - hammers
+- - equipment
+  - trailing
+  - wires
 - - inexplicable
   - fuel
   - replaces
-- - trellis
-  - extra
-  - helpings
 - - uprooting
   - titanic
   - cedars
-- - queries
-  - accusations
-  - contained
-- - rooms
-  - bookcases
-  - stacked
+- - tubes
+  - scientific
+  - hammers
+- - trellis
+  - extra
+  - helpings
 - - herring
   - lights
   - parsley
 - - scientist
   - moop
   - stunned
+- - rooms
+  - bookcases
+  - stacked
+- - queries
+  - accusations
+  - contained
 - - flasks
   - test
   - tubes
-- - stinking
-  - poisonous
-  - spiky
-- - trellis
-  - virtually
-  - disappeared
 - - nocturnal
   - insects
   - hovered
+- - trellis
+  - virtually
+  - disappeared
+- - stinking
+  - poisonous
+  - spiky
 - - destroying
   - chandeliers
   - bashing
@@ -206,57 +206,57 @@ ngrams:
 - - scarcely
   - describable
   - rose
-- - scientific
-  - equipment
-  - trailing
 - - violent
   - pongs
   - emanating
+- - scientific
+  - equipment
+  - trailing
 - - cloth
   - hammock
   - bandbox
-- - poisonous
-  - spiky
-  - foliage
 - - where's
   - cack
   - yelled
+- - poisonous
+  - spiky
+  - foliage
 - - ludicrous
   - scientific
   - equipment
-- - stacked
-  - flasks
-  - test
 - - aquatic
   - monster
   - costume
-- - foliage
-  - lumber
-  - rooms
+- - stacked
+  - flasks
+  - test
 - - crackers
   - bloaters
   - pemmican
 - - triangular
   - cloth
   - weighted
+- - foliage
+  - lumber
+  - rooms
 - - utter
   - shrill
   - cries
 - - lights
   - parsley
   - cocoa
-- - keys
-  - slamming
-  - doors
-- - test
-  - tubes
-  - scientific
-- - hammock
-  - bandbox
-  - badger
 - - disastrous
   - plutonian
   - gods
+- - keys
+  - slamming
+  - doors
+- - hammock
+  - bandbox
+  - badger
+- - test
+  - tubes
+  - scientific
 - - fashion
   - momentarily
   - disconcerted
@@ -278,21 +278,18 @@ ngrams:
 - - balanced
   - precariously
   - atop
-- - highly
-  - mobile
-  - wiping
 - - incredibly
   - powerful
   - poisonous
+- - highly
+  - mobile
+  - wiping
 - - larders
   - dotted
   - throughout
 - - ventilation
   - shafts
   - dust
-- - robberies
-  - pins
-  - litmus
 - - punnets
   - gunny
   - sack
@@ -305,15 +302,18 @@ ngrams:
 - - record
   - divination
   - completed
+- - eerily
+  - calm
+  - surface
 - - gunny
   - sack
   - reticule
 - - poisonous
   - goo
   - crawled
-- - eerily
-  - calm
-  - surface
+- - robberies
+  - pins
+  - litmus
 - - emitting
   - poisonous
   - goo
@@ -332,57 +332,57 @@ ngrams:
 - - chocolate
   - swiss
   - roll
-- - sustenance
-  - officially
-  - available
 - - factions
   - protecting
   - doctor
-- - disgusting
-  - guttural
-  - noises
+- - sustenance
+  - officially
+  - available
 - - mayonnaise
   - cream
   - crackers
+- - disgusting
+  - guttural
+  - noises
 - - hirsute
   - arms
   - alarmingly
 - - potato
   - balanced
   - precariously
-- - body
-  - rigor
-  - mortis
 - - cream
   - crackers
   - bloaters
+- - body
+  - rigor
+  - mortis
 - - purple
   - nose
   - cack
-- - diverting
-  - bedtime
-  - stories
-- - arrest
-  - growled
-  - detective
 - - swan
   - whey
   - turmeric
+- - arrest
+  - growled
+  - detective
 - - terrifying
   - aquatic
   - monster
+- - samuel
+  - richardson
+  - doctor
 - - rambling
   - drivel
   - detective
 - - malice
   - aforethought
   - press
-- - samuel
-  - richardson
-  - doctor
 - - kitchen
   - drawer
   - slammed
+- - diverting
+  - bedtime
+  - stories
 - - doors
   - shut
   - sounding
@@ -392,186 +392,186 @@ ngrams:
 - - disused
   - leaking
   - building
+- - mighty
+  - flippers
+  - knocking
 - - building
   - tirelessly
   - destroying
 - - slamming
   - doors
   - shut
-- - mighty
-  - flippers
-  - knocking
 - - cellar
   - shortly
   - afterwards
-- - leaking
-  - building
-  - cracking
-- - shafts
-  - dust
-  - holes
 - - egg
   - custard
   - sherry
-- - filth
-  - flies
-  - gnats
 - - patch
   - scribbling
   - drivel
 - - special
   - compartment
   - sewn
-- - related
-  - matters
-  - digested
+- - leaking
+  - building
+  - cracking
+- - filth
+  - flies
+  - gnats
 - - underground
   - passages
   - except
+- - shafts
+  - dust
+  - holes
 - - chemical
   - compounds
   - present
 - - masa
   - harina
   - eggs
-- - red
-  - craig's
-  - royal
+- - related
+  - matters
+  - digested
 - - foremost
   - potato
   - scientist
-- - pouring
-  - vast
-  - quantities
-- - trembling
-  - fingers
-  - lit
+- - red
+  - craig's
+  - royal
 - - toads
   - david
   - blunkett
+- - pouring
+  - vast
+  - quantities
 - - pointless
   - hut
   - bundled
-- - fide
-  - assistant
-  - potato
+- - trembling
+  - fingers
+  - lit
 - - moustache
   - grew
   - outlandish
+- - fide
+  - assistant
+  - potato
 - - mostly
   - burlap
   - doctor
-- - flying
-  - insect
-  - beings
-- - flying
-  - insect
-  - beings
 - - richardson
   - doctor
   - cack
 - - potato
   - scientist
   - moop
+- - flying
+  - insect
+  - beings
+- - flying
+  - insect
+  - beings
 - - protecting
   - doctor
   - cack
-- - unbearably
-  - exciting
-  - scientific
+- - deranged
+  - potato
+  - scientist
 - - beetles
   - poisonous
   - golden
 - - hell
   - broke
   - loose
+- - unbearably
+  - exciting
+  - scientific
 - - using
   - detection
   - magnets
-- - deranged
-  - potato
-  - scientist
-- - nearby
-  - ducks
-  - suffered
 - - poisonous
   - golden
   - toads
+- - nearby
+  - ducks
+  - suffered
 - - hot
   - glagolitic
   - script
-- - drop
-  - seven
-  - lumps
-- - soup
-  - consisted
-  - mostly
 - - soup
   - tins
   - marked
-- - singing
-  - inhuman
-  - songs
+- - soup
+  - consisted
+  - mostly
 - - burlap
   - doctor
   - cack
+- - singing
+  - inhuman
+  - songs
+- - drop
+  - seven
+  - lumps
 - - schmid
   - flagellant
   - king
 - - collect
   - daily
   - supplies
-- - exciting
-  - scientific
-  - equipment
 - - harina
   - eggs
   - toffee
 - - sink
   - doctor
   - cack
+- - exciting
+  - scientific
+  - equipment
 - - larder
   - stacked
   - floor
-- - distressed
-  - wooden
-  - bitterns
-- - distressed
-  - wooden
-  - bitterns
-- - distressed
-  - wooden
-  - bitterns
 - - simple
   - household
   - match
+- - distressed
+  - wooden
+  - bitterns
+- - distressed
+  - wooden
+  - bitterns
+- - distressed
+  - wooden
+  - bitterns
 - - corpse
   - using
   - detection
-- - filthy
-  - pockets
-  - thank
 - - whelks
   - gin
   - blood
 - - tin
   - baths
   - cupcake
+- - filthy
+  - pockets
+  - thank
 - - stood
   - triumphantly
   - arm
-- - virtually
-  - disappeared
-  - although
+- - eggs
+  - toffee
+  - apples
 - - website
   - version
   - contains
 - - ironmongery
   - tin
   - baths
-- - eggs
-  - toffee
-  - apples
+- - virtually
+  - disappeared
+  - although
 - - distant
   - splash
   - led
@@ -581,46 +581,46 @@ ngrams:
 - - email
   - headed
   - please
-- - mrs
-  - purgative
-  - hurled
-- - science
-  - related
-  - matters
-- - science
-  - related
-  - matters
 - - golden
   - toads
   - david
-- - beans
-  - finely
-  - ground
+- - mrs
+  - purgative
+  - hurled
 - - gin
   - blood
   - oranges
-- - worship
-  - moop
-  - seems
+- - science
+  - related
+  - matters
+- - science
+  - related
+  - matters
 - - mrs
   - purgative
   - preferred
-- - gave
-  - trellis
-  - extra
+- - beans
+  - finely
+  - ground
+- - worship
+  - moop
+  - seems
 - - cook
   - mrs
   - purgative
-- - became
-  - becalmed
-  - fixing
+- - gave
+  - trellis
+  - extra
 - - fat
   - stars
   - sparkled
-- - explained
+- - animals
   - doctor
   - cack
-- - animals
+- - became
+  - becalmed
+  - fixing
+- - explained
   - doctor
   - cack
 - - mrs
@@ -635,12 +635,12 @@ ngrams:
 - - potato
   - patch
   - scribbling
-- - broke
-  - loose
-  - early
 - - bag
   - bandbox
   - reticule
+- - broke
+  - loose
+  - early
 - - purses
   - vanity
   - bag
@@ -662,18 +662,18 @@ ngrams:
 - - heavily
   - padlocked
   - blodgett
-- - yelled
-  - blodgett
-  - repeating
-- - using
-  - mashed
-  - potatoes
-- - mashed
-  - celery
-  - instead
 - - third
   - soup
   - consisted
+- - using
+  - mashed
+  - potatoes
+- - yelled
+  - blodgett
+  - repeating
+- - mashed
+  - celery
+  - instead
 - - field
   - worker
   - scurrying
@@ -683,39 +683,42 @@ ngrams:
 - - bandbox
   - badger
   - tin
+- - sticks
+  - mrs
+  - purgative
 - - leaking
   - building
   - stood
 - - momentarily
   - disconcerted
   - blodgett
-- - sticks
-  - mrs
-  - purgative
-- - making
-  - disgusting
-  - guttural
-- - litmus
-  - paper
-  - zinc
 - - fanatical
   - it's
   - cack
-- - possibly
-  - prove
-  - useful
-- - single
-  - bound
-  - negotiated
+- - making
+  - disgusting
+  - guttural
 - - suggest
   - using
   - boiled
-- - thin
-  - clear
-  - broth
 - - celery
   - sticks
   - mrs
+- - thin
+  - clear
+  - broth
+- - single
+  - bound
+  - negotiated
+- - possibly
+  - prove
+  - useful
+- - litmus
+  - paper
+  - zinc
+- - cack
+  - snack
+  - it's
 - - blodgett
   - suffered
   - dreadfully
@@ -725,15 +728,12 @@ ngrams:
 - - concealed
   - behind
   - parapets
-- - cack
-  - snack
-  - it's
-- - paper
-  - zinc
-  - gorse
 - - hideous
   - flatworms
   - simply
+- - paper
+  - zinc
+  - gorse
 - - heard
   - footsteps
   - approaching
@@ -749,81 +749,81 @@ ngrams:
 - - weeks
   - doctor
   - cack
-- - terrified
-  - blodgett
-  - whirling
-- - cack
-  - yelled
-  - blodgett
 - - bag
   - cloth
   - hammock
+- - cack
+  - yelled
+  - blodgett
+- - terrified
+  - blodgett
+  - whirling
 - - flatworms
   - simply
   - fall
 - - rectangular
   - tin
   - filled
-- - doctor
-  - cack
-  - published
 - - vanity
   - bag
   - cloth
+- - doctor
+  - cack
+  - published
 - - others
   - doctor
   - cack
-- - x
-  - blodgett
-  - suffered
 - - mashed
   - potatoes
   - instead
-- - degrees
-  - fahrenheit
-  - within
+- - x
+  - blodgett
+  - suffered
 - - scullery
   - door
   - banged
-- - grounds
-  - possibly
-  - including
-- - face
-  - growing
-  - purple
+- - degrees
+  - fahrenheit
+  - within
 - - recent
   - weeks
   - doctor
+- - face
+  - growing
+  - purple
 - - second
   - triangular
   - cloth
+- - grounds
+  - possibly
+  - including
 - - didn't
   - really
   - care
 - - rambling
   - drivel
   - cannot
-- - matters
-  - blodgett
-  - deferred
-- - dear
-  - friend
-  - detective
 - - getting
   - hotter
   - oh
+- - dear
+  - friend
+  - detective
+- - matters
+  - blodgett
+  - deferred
 - - dietary
   - matters
   - blodgett
 - - insect
   - beings
   - blodgett
-- - laundry
-  - rooms
-  - hours
 - - mrs
   - purgative
   - usually
+- - laundry
+  - rooms
+  - hours
 - - ruins
   - small
   - fires
@@ -833,54 +833,54 @@ ngrams:
 - - sightless
   - eyes
   - directed
-- - pins
-  - litmus
-  - paper
 - - condition
   - cannot
   - excuse
 - - rage
   - i'll
   - give
+- - pins
+  - litmus
+  - paper
+- - doctor
+  - cack
+  - seemed
 - - hardly
   - matters
   - it's
 - - tins
   - marked
   - number
-- - doctor
-  - cack
-  - seemed
 - - banged
   - shut
   - behind
-- - growled
-  - detective
-  - captain
-- - simply
-  - fall
-  - apart
 - - morning
   - hummingbirds
   - revolved
 - - certain
   - potato
   - varieties
+- - growled
+  - detective
+  - captain
+- - simply
+  - fall
+  - apart
+- - blodgett
+  - remained
+  - wholly
 - - past
   - gigantic
   - indoor
 - - blodgett
-  - remained
-  - wholly
-- - blodgett
   - stashed
   - everything
-- - tinies
-  - small
-  - frail
 - - paw
   - detective
   - captain
+- - tinies
+  - small
+  - frail
 - - doctor
   - cack
   - began
@@ -893,12 +893,12 @@ ngrams:
 - - ground
   - floor
   - rattling
-- - cold
-  - blodgett
-  - affected
 - - drivel
   - detective
   - captain
+- - cold
+  - blodgett
+  - affected
 - - dead
   - potato
   - scientist
@@ -908,33 +908,33 @@ ngrams:
 - - length
   - readers
   - avid
-- - whose
-  - presence
-  - trellis
 - - eyes
   - occasionally
   - tweaking
+- - whose
+  - presence
+  - trellis
 - - thuringian
   - history
   - blodgett
 - - shawl
   - trailing
   - across
+- - headquarters
+  - oh
+  - dear
 - - blodgett
   - gave
   - trellis
 - - friend
   - detective
   - captain
-- - headquarters
-  - oh
-  - dear
-- - kindnesses
-  - within
-  - weeks
 - - compounds
   - present
   - within
+- - kindnesses
+  - within
+  - weeks
 - - purgative
   - usually
   - asked
@@ -950,21 +950,18 @@ ngrams:
 - - actually
   - bauxite
   - itself
-- - alphabetic
-  - indexing
-  - indeed
 - - rooms
   - hours
   - passed
+- - alphabetic
+  - indexing
+  - indeed
 - - important
   - potato
   - matters
 - - tiny
   - solitary
   - larder
-- - set
-  - depicting
-  - scenes
 - - tiny
   - hatch
   - extracts
@@ -974,45 +971,48 @@ ngrams:
 - - moravians
   - among
   - whom
-- - himself
-  - researching
-  - powdery
-- - among
-  - whom
-  - cyril
+- - set
+  - depicting
+  - scenes
 - - killer
   - flatworms
   - let
-- - busied
-  - himself
-  - researching
-- - he's
-  - called
-  - pack
-- - business
-  - detective
-  - captain
 - - oh
   - dear
   - hidden
+- - business
+  - detective
+  - captain
+- - among
+  - whom
+  - cyril
+- - himself
+  - researching
+  - powdery
 - - dear
   - hidden
   - behind
 - - assistant
   - potato
   - person
+- - busied
+  - himself
+  - researching
+- - he's
+  - called
+  - pack
 - - matters
   - digested
   - under
 - - house
   - fat
   - stars
-- - hummingbirds
-  - revolved
-  - around
 - - digested
   - under
   - proper
+- - hummingbirds
+  - revolved
+  - around
 - - spied
   - without
   - success
@@ -1022,12 +1022,12 @@ ngrams:
 - - small
   - rectangular
   - tin
-- - otherwise
-  - uncommunicative
-  - later
 - - blodgett
   - concealed
   - behind
+- - otherwise
+  - uncommunicative
+  - later
 - - boiled
   - without
   - bothering
@@ -1073,21 +1073,21 @@ ngrams:
 - - carried
   - tiny
   - abominable
+- - journey
+  - three
+  - weeks
+- - house
+  - oh
+  - apart
 - - ingratiated
   - himself
   - immediately
 - - presence
   - trellis
   - took
-- - journey
-  - three
-  - weeks
 - - took
   - seven
   - sugars
-- - house
-  - oh
-  - apart
 - - prying
   - eyes
   - several
@@ -1097,33 +1097,33 @@ ngrams:
 - - bag
   - tottering
   - under
-- - ogre
-  - eventually
-  - came
 - - entire
   - sorry
   - life
+- - ogre
+  - eventually
+  - came
 - - squelching
   - something
   - hideous
-- - enormous
-  - wings
-  - around
-- - four
-  - small
-  - items
-- - majestic
-  - works
-  - indeed
 - - door
   - shut
   - behind
-- - course
-  - moop
-  - insisted
+- - four
+  - small
+  - items
+- - enormous
+  - wings
+  - around
+- - majestic
+  - works
+  - indeed
 - - quintain
   - again
   - otherwise
+- - course
+  - moop
+  - insisted
 - - usually
   - asked
   - blodgett
@@ -1133,72 +1133,72 @@ ngrams:
 - - details
   - should
   - send
-- - barely
-  - bring
-  - himself
 - - own
   - sink
   - doctor
+- - barely
+  - bring
+  - himself
 - - related
   - matters
   - every
 - - things
   - vanished
   - somehow
-- - didn't
-  - work
-  - either
-- - luggage
-  - long
-  - abandoned
 - - cracked
   - open
   - another
 - - ajar
   - door
   - three
-- - still
-  - didn't
-  - twig
+- - didn't
+  - work
+  - either
+- - luggage
+  - long
+  - abandoned
 - - blood
   - boiled
   - without
+- - still
+  - didn't
+  - twig
 - - dusk
   - each
   - soup
-- - make
-  - crunching
-  - noises
 - - though
   - mrs
   - purgative
+- - make
+  - crunching
+  - noises
 - - open
   - another
   - bottle
 - - known
   - high
   - above
+- - each
+  - larder
+  - seemed
 - - marked
   - number
   - three
 - - known
   - predators
   - having
-- - each
-  - larder
-  - seemed
 - - unhinged
   - every
   - five
-- - long
-  - abandoned
-  - save
 - - two
   - satchels
   - purses
 - - recipe
   - though
   - mrs
+- - long
+  - abandoned
+  - save
 story:
   date: 2006-03-04
   id: 2006-03-04-the-immense-duckpond-pamphlet

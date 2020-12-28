@@ -11,12 +11,12 @@ ngrams:
 - - band's
   - record
   - sales
-- - packing
-  - salted
-  - fish
 - - blonde
   - dye
   - running
+- - packing
+  - salted
+  - fish
 - - sobbing
   - trembling
   - lower
@@ -56,12 +56,12 @@ ngrams:
 - - doctor
   - fang
   - dies
-- - crashing
-  - doctor
-  - fang
 - - except
   - herself
   - flashback
+- - crashing
+  - doctor
+  - fang
 - - starts
   - croaking
   - help
@@ -110,9 +110,6 @@ ngrams:
 - - drowned
   - fictional
   - athlete
-- - bottles
-  - got
-  - mixed
 - - police
   - officer
   - sitting
@@ -122,6 +119,9 @@ ngrams:
 - - beach
   - fictional
   - athlete
+- - bottles
+  - got
+  - mixed
 - - matters
   - flashback
   - marigold
@@ -131,18 +131,18 @@ ngrams:
 - - croaking
   - help
   - help
-- - thinks
-  - he's
-  - dead
-- - letter
-  - that's
-  - waiting
-- - blodgett
-  - island
-  - normal
 - - doctor
   - fang
   - it's
+- - thinks
+  - he's
+  - dead
+- - blodgett
+  - island
+  - normal
+- - letter
+  - that's
+  - waiting
 - - says
   - dramatically
   - marigold
@@ -209,27 +209,15 @@ ngrams:
 - - flashback
   - marigold
   - chew
-- - called
-  - monster
-  - eats
 - - despite
   - knowing
   - nothing
+- - called
+  - monster
+  - eats
 - - bag
   - open
   - shaking
-- - raft
-  - marigold
-  - chew
-- - raft
-  - marigold
-  - chew
-- - raft
-  - marigold
-  - chew
-- - marigold
-  - chew
-  - runs
 - - suddenly
   - says
   - don't
@@ -239,6 +227,18 @@ ngrams:
 - - marigold
   - chew
   - runs
+- - marigold
+  - chew
+  - runs
+- - raft
+  - marigold
+  - chew
+- - raft
+  - marigold
+  - chew
+- - raft
+  - marigold
+  - chew
 - - asks
   - marigold
   - chew
@@ -308,12 +308,12 @@ ngrams:
 - - raft
   - because
   - he's
-- - pals
-  - hanging
-  - around
 - - tell
   - anybody
   - marigold
+- - pals
+  - hanging
+  - around
 - - exciting
   - series
   - blodgett
@@ -329,12 +329,12 @@ ngrams:
 - - it's
   - marigold
   - chew
-- - water
-  - bottles
-  - got
 - - tiny
   - enid
   - tells
+- - water
+  - bottles
+  - got
 - - flashback
   - still
   - digging
@@ -356,12 +356,12 @@ ngrams:
 - - idea
   - marigold
   - chew
-- - everyone
-  - else
-  - once
 - - see
   - blonde
   - dye
+- - everyone
+  - else
+  - once
 - - old
   - cassette
   - recording
@@ -413,12 +413,12 @@ ngrams:
 - - marigold
   - chew
   - why
-- - drive
-  - i'll
-  - just
 - - think
   - i'm
   - capable
+- - drive
+  - i'll
+  - just
 - - 'off'
   - shouts
   - fictional
@@ -437,30 +437,30 @@ ngrams:
 - - mysterious
   - island
   - after
-- - raft
-  - dobson
-  - says
 - - before
   - crashing
   - doctor
 - - meaningful
   - looks
   - over
-- - pilot
-  - possibly
+- - raft
   - dobson
-- - weeks
-  - dobson
-  - wonders
+  - says
 - - car
   - looking
   - through
-- - possibly
+- - pilot
+  - possibly
   - dobson
-  - asks
 - - future
   - meanwhile
   - here
+- - weeks
+  - dobson
+  - wonders
+- - possibly
+  - dobson
+  - asks
 - - such
   - narrative
   - complexity
@@ -470,18 +470,18 @@ ngrams:
 - - dobson
   - asks
   - marigold
-- - leave
-  - dobson
-  - says
 - - ah
   - such
   - narrative
-- - very
-  - near
-  - future
 - - see
   - marigold
   - chew
+- - leave
+  - dobson
+  - says
+- - very
+  - near
+  - future
 - - touches
   - being
   - put
@@ -503,9 +503,6 @@ ngrams:
 - - three
   - weeks
   - dobson
-- - normal
-  - hooting
-  - yard
 - - weep
   - now
   - marigold
@@ -515,12 +512,15 @@ ngrams:
 - - idea
   - ah
   - such
-- - hooting
+- - normal
+  - hooting
   - yard
-  - service
 - - car
   - she
   - yells
+- - hooting
+  - yard
+  - service
 - - tack
   - joins
   - her
@@ -587,7 +587,7 @@ story:
 
     Blodgett says he has known about the hatch for three weeks. Dobson wonders how
     they can open it. Lothar Preen thinks it might be dangerous to open it. "Maybe
-    it was never meant to be opened.... from outside!" he says, dramatically. Marigold
+    it was never meant to be opened... from outside!" he says, dramatically. Marigold
     Chew runs up to say there is something wrong with Old Halob. He is writhing on
     the ground. Dobson tends to him. Dennis Beerpint looks stricken.
 

@@ -26,12 +26,12 @@ ngrams:
 - - ageing
   - creaky
   - bones
-- - creaky
-  - bones
-  - sped
 - - mysterious
   - nighttime
   - visitor
+- - creaky
+  - bones
+  - sped
 - - de
   - groot
   - overcoat
@@ -74,36 +74,36 @@ ngrams:
 - - looming
   - shape
   - against
-- - became
-  - somehow
-  - thick
-- - shop
-  - lord
-  - alone
 - - thump
   - nothing
   - bigger
+- - shop
+  - lord
+  - alone
+- - became
+  - somehow
+  - thick
 - - hen
   - house
   - wall
 - - house
   - wall
   - remained
-- - rather
-  - peculiarly
-  - shaped
 - - oddly
   - lascivious
   - birds
+- - rather
+  - peculiarly
+  - shaped
 - - fall
   - thus
   - giving
-- - wood
-  - always
-  - creaks
 - - grey
   - almost
   - white
+- - wood
+  - always
+  - creaks
 - - hat
   - shop
   - lord
@@ -131,12 +131,12 @@ ngrams:
 - - used
   - hat
   - shop
-- - ask
-  - questions
-  - later
 - - neither
   - stick
   - nor
+- - ask
+  - questions
+  - later
 - - cried
   - why
   - stand
@@ -167,12 +167,12 @@ ngrams:
 - - surprised
   - how
   - easily
-- - peculiarly
-  - shaped
-  - head
 - - potato
   - beds
   - how
+- - peculiarly
+  - shaped
+  - head
 - - bearded
   - man
   - picking
@@ -242,12 +242,12 @@ ngrams:
 - - may
   - yet
   - discover
-- - blind
-  - man
-  - go
 - - back
   - door
   - again
+- - blind
+  - man
+  - go
 - - beard
   - still
   - only
@@ -269,15 +269,15 @@ ngrams:
 - - ever
   - forward
   - over
-- - observe
-  - him
-  - carefully
-- - guide
-  - him
-  - acting
 - - over
   - strange
   - new
+- - guide
+  - him
+  - acting
+- - observe
+  - him
+  - carefully
 - - two
   - taller
   - than
@@ -287,24 +287,24 @@ ngrams:
 - - then
   - wood
   - always
-- - lawn
-  - fell
-  - him
 - - spilled
   - some
   - sort
+- - lawn
+  - fell
+  - him
 - - lacing
   - their
   - feed
 - - any
   - man
   - alive
-- - build
-  - up
-  - speed
 - - 'no'
   - reply
   - save
+- - build
+  - up
+  - speed
 - - walked
   - towards
   - him
@@ -320,24 +320,24 @@ ngrams:
 - - man
   - always
   - just
-- - its
-  - fit
-  - before
 - - lying
   - about
   - obscured
-- - bearded
-  - man
-  - more
+- - its
+  - fit
+  - before
 - - spade
   - lying
   - about
-- - man
+- - bearded
+  - man
   - more
-  - clearly
 - - still
   - unsure
   - who
+- - man
+  - more
+  - clearly
 - - were
   - milky
   - white
@@ -353,18 +353,18 @@ ngrams:
 - - eyes
   - were
   - milky
-- - strike
-  - if
-  - need
 - - they
   - scudded
   - westward
-- - stairs
-  - they
-  - creaked
+- - strike
+  - if
+  - need
 - - there
   - bearded
   - motionless
+- - stairs
+  - they
+  - creaked
 - - visitor
   - ahoy
   - there
@@ -407,15 +407,15 @@ ngrams:
 - - there
   - loitering
   - next
-- - why
-  - would
-  - anyone
 - - tablets
   - still
   - there
 - - about
   - potatoes
   - than
+- - why
+  - would
+  - anyone
 - - turned
   - back
   - into
@@ -452,12 +452,12 @@ ngrams:
 - - knows
   - more
   - about
-- - hats
-  - oddly
-  - this
 - - never
   - will
   - yet
+- - hats
+  - oddly
+  - this
 - - which
   - every
   - detail
@@ -470,39 +470,39 @@ ngrams:
 - - could
   - guarantee
   - they
+- - groot
+  - overcoat
+  - or
 - - had
   - obtained
   - secondhand
+- - good
+  - this
+  - omission
 - - had
   - trouble
   - buying
 - - copper
   - had
   - stunned
-- - groot
-  - overcoat
-  - or
-- - good
-  - this
-  - omission
 - - terrapins
   - they
   - do
-- - moon
-  - had
-  - vanished
-- - peasant
-  - helpmeet
-  - had
-- - gloom
-  - over
-  - which
 - - overcoat
   - or
   - similar
 - - or
   - similar
   - padded
+- - moon
+  - had
+  - vanished
+- - gloom
+  - over
+  - which
+- - peasant
+  - helpmeet
+  - had
 - - before
   - long
   - we
@@ -524,12 +524,12 @@ ngrams:
 - - age
   - but
   - perfectly
-- - always
-  - had
-  - trouble
 - - beardy
   - man
   - an
+- - man
+  - an
+  - advantage
 story:
   date: 2010-05-19
   id: 2010-05-19-the-hen-house

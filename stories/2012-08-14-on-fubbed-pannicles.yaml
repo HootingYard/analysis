@@ -38,15 +38,12 @@ ngrams:
 - - impossibly
   - valiant
   - hoon
-- - hoon
-  - hoon
-  - scrub
 - - sopping
   - wet
   - drenched
-- - seamanship
+- - hoon
   - hoon
-  - cried
+  - scrub
 - - sudden
   - calm
   - prompted
@@ -62,15 +59,18 @@ ngrams:
 - - hms
   - wither
   - art
+- - seamanship
+  - hoon
+  - cried
 - - franciscan
   - nuns
   - including
-- - hooter
-  - message
-  - regarding
 - - bent
   - forward
   - resting
+- - hooter
+  - message
+  - regarding
 - - staggering
   - below
   - decks
@@ -119,21 +119,21 @@ ngrams:
 - - fluff
   - cried
   - captain
-- - cried
-  - captain
-  - plunkett
-- - hooter
-  - cried
-  - captain
-- - cried
-  - captain
-  - plunkett
 - - versus
   - stormy
   - sea
 - - bridge
   - captain
   - plunkett
+- - cried
+  - captain
+  - plunkett
+- - cried
+  - captain
+  - plunkett
+- - hooter
+  - cried
+  - captain
 - - captain
   - plunkett
   - believe
@@ -200,15 +200,15 @@ ngrams:
 - - elemental
   - battle
   - man
+- - first
+  - mate
+  - hoon
+- - first
+  - mate
+  - hoon
 - - battle
   - man
   - versus
-- - first
-  - mate
-  - hoon
-- - first
-  - mate
-  - hoon
 - - man
   - versus
   - storm
@@ -266,18 +266,18 @@ ngrams:
 - - been
   - torn
   - loose
-- - been
-  - torn
-  - loose
+- - clattering
+  - about
+  - perilously
 - - been
   - torn
   - loose
 - - clattering
   - about
   - perilously
-- - clattering
-  - about
-  - perilously
+- - been
+  - torn
+  - loose
 - - clattering
   - about
   - perilously
@@ -305,12 +305,12 @@ ngrams:
 - - being
   - tossed
   - about
-- - let
-  - me
-  - pin
 - - about
   - perilously
   - first
+- - let
+  - me
+  - pin
 - - are
   - radio
   - enthusiasts
@@ -326,12 +326,12 @@ ngrams:
 - - were
   - any
   - stowaway
-- - message
-  - would
-  - go
 - - brain
   - so
   - rapidly
+- - message
+  - would
+  - go
 - - tossed
   - about
   - like

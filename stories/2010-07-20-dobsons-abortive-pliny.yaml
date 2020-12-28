@@ -5,12 +5,12 @@ ngrams:
 - - numidian
   - fowl
   - flamingos
-- - bustard
-  - cranes
-  - storks
 - - coots
   - pheasants
   - numidian
+- - bustard
+  - cranes
+  - storks
 - - pliny
   - peacocks
   - bustards
@@ -68,12 +68,12 @@ ngrams:
 - - f
   - species
   - mutually
-- - walk
-  - footless
-  - martins
 - - hawks
   - owls
   - woodpeckers
+- - walk
+  - footless
+  - martins
 - - uterus
   - animal
   - species
@@ -107,36 +107,36 @@ ngrams:
 - - boa
   - constrictor
   - named
-- - constrictor
-  - named
-  - dagobert
 - - grand
   - sweeping
   - paragraphs
-- - addresses
-  - matters
-  - ornithological
+- - constrictor
+  - named
+  - dagobert
 - - o
   - boa
   - constrictor
+- - addresses
+  - matters
+  - ornithological
 - - bomb
   - exploded
   - inside
 - - owl
   - native
   - migrant
-- - exceptional
-  - sight
-  - smell
 - - horned
   - owl
   - native
-- - cranes
-  - storks
-  - rest
+- - exceptional
+  - sight
+  - smell
 - - eggs
   - defective
   - hatching
+- - cranes
+  - storks
+  - rest
 - - darling
   - dear
   - boomed
@@ -173,9 +173,6 @@ ngrams:
 - - land
   - animals
   - reproduction
-- - natural
-  - history
-  - c
 - - species
   - whose
   - generated
@@ -185,18 +182,21 @@ ngrams:
 - - species
   - small
   - cranes
-- - affection
-  - between
-  - snakes
-- - affection
-  - between
-  - snakes
+- - natural
+  - history
+  - c
 - - generation
   - species
   - whose
 - - pinging
   - marigold
   - o
+- - affection
+  - between
+  - snakes
+- - affection
+  - between
+  - snakes
 - - table
   - outside
   - hailstones
@@ -218,15 +218,15 @@ ngrams:
 - - c
   - '-'
   - ad
-- - small
-  - heron
-  - nature
 - - migrant
   - birds
   - quails
 - - birds
   - coots
   - pheasants
+- - small
+  - heron
+  - nature
 - - bloaters
   - marigold
   - chew
@@ -245,27 +245,27 @@ ngrams:
 - - uncoiled
   - himself
   - pounced
+- - foreign
+  - migrant
+  - birds
+- - foreign
+  - birds
+  - coots
+- - bonanza
+  - jamboree
+  - get
 - - also
   - taste
   - species
 - - dagobert
   - uncoiled
   - himself
-- - foreign
-  - migrant
-  - birds
-- - bonanza
-  - jamboree
-  - get
-- - foreign
-  - birds
-  - coots
-- - touch
-  - also
-  - taste
 - - birds
   - oviparous
   - creatures
+- - touch
+  - also
+  - taste
 - - himself
   - pounced
   - sank
@@ -281,24 +281,24 @@ ngrams:
 - - f
   - foreign
   - birds
-- - bought
-  - nothing
-  - eventually
 - - talking
   - birds
   - parrots
+- - bought
+  - nothing
+  - eventually
 - - famished
   - viper
   - why
+- - animals
+  - learn
+  - nothing
 - - breakfast
   - table
   - outside
 - - days
   - o
   - boa
-- - animals
-  - learn
-  - nothing
 - - birds
   - bear
   - plumage
@@ -308,15 +308,15 @@ ngrams:
 - - viper
   - why
   - thank
-- - sharpened
-  - another
-  - pencil
 - - arrived
   - home
   - thinking
 - - still
   - uncertain
   - salamanders
+- - sharpened
+  - another
+  - pencil
 - - yet
   - living
   - vole
@@ -359,15 +359,15 @@ ngrams:
 - - usually
   - swat
   - away
+- - extinct
+  - birds
+  - birds
 - - pulp
   - along
   - came
 - - fishes
   - hear
   - most
-- - extinct
-  - birds
-  - birds
 - - phoenix
   - first
   - separately
@@ -380,15 +380,15 @@ ngrams:
 - - hatched
   - tail
   - first
-- - awoken
-  - befuddled
-  - after
 - - first
   - invented
   - aviaries
 - - nearly
   - two
   - thousand
+- - awoken
+  - befuddled
+  - after
 - - both
   - birds
   - bear
@@ -410,12 +410,12 @@ ngrams:
 - - suddenly
   - dobson
   - recalled
-- - feathers
-  - dobson
-  - threw
 - - pamphlet
   - until
   - today
+- - feathers
+  - dobson
+  - threw
 - - new
   - notepad
   - both
@@ -443,21 +443,21 @@ ngrams:
 - - feathers
   - dobson
   - looked
-- - magnificent
-  - pamphleteer
-  - dobson
 - - where
   - particular
   - species
 - - found
   - within
   - myself
-- - every
-  - last
-  - detail
+- - magnificent
+  - pamphleteer
+  - dobson
 - - thousand
   - years
   - ago
+- - every
+  - last
+  - detail
 - - breakfast
   - it's
   - just
@@ -470,24 +470,24 @@ ngrams:
 - - few
   - days
   - later
+- - oviparous
+  - creatures
+  - other
 - - long
   - long
   - list
 - - species
   - sleep
   - now
-- - oviparous
-  - creatures
-  - other
-- - digestive
-  - juices
-  - could
 - - listened
   - night
   - after
 - - still
   - scribbling
   - away
+- - digestive
+  - juices
+  - could
 - - back
   - home
   - passing
@@ -497,12 +497,12 @@ ngrams:
 - - over
   - breakfast
   - it's
-- - plinth
-  - dobson
-  - took
 - - until
   - today
   - well
+- - plinth
+  - dobson
+  - took
 - - dobson
   - asked
   - marigold
@@ -512,6 +512,9 @@ ngrams:
 - - juices
   - could
   - begin
+- - said
+  - marigold
+  - chew
 - - sleep
   - now
   - imagine
@@ -521,9 +524,6 @@ ngrams:
 - - its
   - young
   - oviparous
-- - said
-  - marigold
-  - chew
 - - suggest
   - she
   - capture
@@ -545,15 +545,15 @@ ngrams:
 - - separately
   - then
   - together
-- - she
-  - capture
-  - dobson's
 - - many
   - many
   - daytime
 - - two
   - thousand
   - years
+- - she
+  - capture
+  - dobson's
 - - bird
   - after
   - another
@@ -572,21 +572,21 @@ ngrams:
 - - toes
   - peacocks
   - who
-- - vexed
-  - viper
-  - who
 - - day
   - found
   - within
-- - who
-  - invented
-  - fattening
-- - who
-  - invented
-  - fattening
+- - vexed
+  - viper
+  - who
 - - dobson's
   - words
   - upon
+- - who
+  - invented
+  - fattening
+- - who
+  - invented
+  - fattening
 - - food
   - who
   - invented
@@ -605,12 +605,12 @@ ngrams:
 - - then
   - sat
   - again
-- - species
-  - their
-  - nature
 - - somehow
   - fetched
   - up
+- - species
+  - their
+  - nature
 - - percent
   - certain
   - 'no'
@@ -629,33 +629,33 @@ ngrams:
 - - first
   - separately
   - then
-- - vole
-  - into
-  - nourishing
 - - verdant
   - slope
   - when
+- - vole
+  - into
+  - nourishing
+- - their
+  - breakfast
+  - table
 - - into
   - nourishing
   - pulp
 - - dobson
   - looked
   - upon
-- - their
-  - breakfast
-  - table
 - - what
   - months
   - crows
 - - hailstones
   - were
   - pinging
-- - what
-  - animals
-  - learn
 - - undigested
   - vole
   - out
+- - what
+  - animals
+  - learn
 - - 'no'
   - longer
   - known
@@ -671,42 +671,42 @@ ngrams:
 - - living
   - vole
   - into
-- - story
-  - much
-  - more
 - - more
   - efficacious
   - than
+- - story
+  - much
+  - more
+- - will
+  - knock
+  - pliny
 - - reading
   - what
   - pliny
 - - what
   - bird
   - produces
-- - will
-  - knock
-  - pliny
-- - just
-  - any
-  - book
 - - good
   - 'no'
   - doubt
+- - just
+  - any
+  - book
 - - years
   - ago
   - then
-- - demons
-  - when
-  - marigold
 - - birds
   - 'no'
   - longer
-- - outside
-  - hailstones
-  - were
+- - demons
+  - when
+  - marigold
 - - began
   - scribbling
   - when
+- - outside
+  - hailstones
+  - were
 - - after
   - breakfast
   - time
@@ -743,36 +743,33 @@ ngrams:
 - - peacocks
   - who
   - first
+- - when
+  - marigold
+  - chew
 - - who
   - first
   - introduced
 - - did
   - she
   - learn
-- - when
-  - marigold
-  - chew
-- - who
-  - first
-  - killed
 - - ever
   - since
   - has
+- - who
+  - first
+  - killed
 - - who
   - first
   - invented
 - - goose
   - who
   - first
-- - went
-  - straight
-  - into
 - - kind
   - what
   - bird
-- - employ
-  - pliny
-  - would
+- - went
+  - straight
+  - into
 - - other
   - than
   - birds
@@ -782,6 +779,9 @@ ngrams:
 - - sure
   - will
   - knock
+- - employ
+  - pliny
+  - would
 story:
   date: 2010-07-20
   id: 2010-07-20-dobsons-abortive-pliny

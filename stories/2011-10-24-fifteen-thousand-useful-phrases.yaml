@@ -26,12 +26,12 @@ ngrams:
 - - burning
   - rock
   - spread
-- - immortal
-  - soul
-  - majestic
 - - thousand
   - useful
   - phrases
+- - immortal
+  - soul
+  - majestic
 - - thousand
   - useful
   - phrases
@@ -53,9 +53,6 @@ ngrams:
 - - laughing
   - further
   - tweaks
-- - invaluable
-  - resource
-  - '-'
 - - you're
   - laughing
   - further
@@ -68,12 +65,12 @@ ngrams:
 - - rarely
   - allow
   - myself
-- - useful
-  - phrases
-  - again
 - - spiritual
   - exertions
   - take
+- - useful
+  - phrases
+  - again
 - - one's
   - own
   - crop
@@ -101,12 +98,12 @@ ngrams:
 - - ask
   - well
   - thanks
-- - yard
-  - research
-  - fellow
 - - those
   - glittering
   - blobs
+- - yard
+  - research
+  - fellow
 - - first
   - experiment
   - delivered
@@ -134,12 +131,12 @@ ngrams:
 - - webster
   - hooting
   - yard
-- - hooting
-  - yard
-  - material
 - - very
   - own
   - majestic
+- - hooting
+  - yard
+  - material
 - - hooting
   - yard
   - research
@@ -185,6 +182,9 @@ ngrams:
 - - exertions
   - take
   - their
+- - take
+  - their
+  - toll
 story:
   date: 2011-10-24
   id: 2011-10-24-fifteen-thousand-useful-phrases
@@ -215,7 +215,7 @@ story:
     You may recall that you have Mr Webster to thank for the conversion of the 2003-2006
     Hooting Yard material into an indexed, fully searchable archive. In keeping with
     his technowhizzery, he has created a machine-readable version of Grenville Kleiser''s
-    invaluable resource,- the Phraseological Supercollider--so one does not even have
+    invaluable resource-the Phraseological Supercollider--so one does not even have
     to pick one''s own crop from those fifteen thousand phrases. His very first experiment
     delivered this passage:
 
@@ -238,4 +238,4 @@ story:
     sweeping paragraphs, while I retire to a dilapidated seaside resort, there to
     suck on an ice lolly and be buffeted by squalls. We shall see.'
   title: Fifteen Thousand Useful Phrases
-word_count: 500
+word_count: 498

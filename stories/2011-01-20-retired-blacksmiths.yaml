@@ -29,18 +29,18 @@ ngrams:
 - - random
   - grim
   - forges
-- - sales
-  - figures
-  - retired
+- - random
+  - grim
+  - forge
+- - random
+  - grim
+  - forge
 - - waiting
   - patiently
   - patiently
-- - random
-  - grim
-  - forge
-- - random
-  - grim
-  - forge
+- - sales
+  - figures
+  - retired
 - - slab
   - beaten
   - flat
@@ -176,12 +176,12 @@ ngrams:
 - - sold
   - more
   - copies
-- - already
-  - sold
-  - more
 - - time
   - whole
   - swathes
+- - already
+  - sold
+  - more
 - - retired
   - blacksmiths
   - has

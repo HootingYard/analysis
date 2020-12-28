@@ -83,18 +83,18 @@ ngrams:
 - - unlike
   - pong
   - gak
-- - stage
-  - sprightly
-  - clambering
 - - unaccountably
   - popular
   - disease
-- - compacted
-  - snow
-  - stands
+- - stage
+  - sprightly
+  - clambering
 - - named
   - foreman
   - cameron
+- - compacted
+  - snow
+  - stands
 - - train
   - conductor's
   - resemblance
@@ -143,12 +143,12 @@ ngrams:
 - - spinney
   - hiking
   - club
-- - house's
-  - young
-  - assistants
 - - huge
   - lugubrious
   - moustache
+- - house's
+  - young
+  - assistants
 - - foothills
   - village
   - folk
@@ -167,12 +167,12 @@ ngrams:
 - - hovering
   - directly
   - above
-- - fell
-  - asleep
-  - meanwhile
 - - sleeping
   - bears
   - high
+- - fell
+  - asleep
+  - meanwhile
 - - bird's
   - eye
   - view
@@ -203,12 +203,12 @@ ngrams:
 - - whose
   - anonymous
   - critic
-- - rucksack
-  - younger
-  - readers
 - - drama
   - house
   - m
+- - rucksack
+  - younger
+  - readers
 - - house
   - m
   - d
@@ -239,30 +239,30 @@ ngrams:
 - - lupus
   - antidote
   - having
-- - antidote
-  - having
-  - neatly
 - - resourceful
   - marigold
   - chew
 - - marigold
   - chew
   - sported
-- - natural
-  - mountaineers
-  - both
+- - antidote
+  - having
+  - neatly
 - - big
   - sturdy
   - boots
+- - natural
+  - mountaineers
+  - both
 - - night
   - learning
   - module
-- - key
-  - stage
-  - sprightly
 - - marigold
   - chew
   - alert
+- - key
+  - stage
+  - sprightly
 - - barnyard
   - maintenance
   - rather
@@ -302,18 +302,18 @@ ngrams:
 - - humphrey
   - several
   - small
-- - call
-  - point
-  - d
 - - illegible
   - address
   - book
-- - judicious
-  - good
-  - sense
+- - call
+  - point
+  - d
 - - marigold
   - chew
   - began
+- - judicious
+  - good
+  - sense
 - - clear
   - mountain
   - air
@@ -353,21 +353,21 @@ ngrams:
 - - us
   - treat
   - ourselves
-- - most
-  - desolate
-  - hour
-- - plasticine
-  - starling
-  - much
 - - cravat
   - while
   - marigold
-- - younger
-  - readers
-  - should
+- - plasticine
+  - starling
+  - much
+- - most
+  - desolate
+  - hour
 - - pointy
   - town
   - hair
+- - younger
+  - readers
+  - should
 - - two
   - main
   - characters
@@ -377,24 +377,24 @@ ngrams:
 - - bears
   - many
   - stricken
-- - ever
-  - resourceful
-  - marigold
 - - living
   - things
   - within
+- - ever
+  - resourceful
+  - marigold
 - - gung
   - ho
   - dobson
+- - mountain
+  - bears
+  - many
 - - d
   - intriguingly
   - dobson
 - - fugitive
   - maniac
   - dobson
-- - mountain
-  - bears
-  - many
 - - most
   - part
   - tremendously
@@ -407,21 +407,18 @@ ngrams:
 - - many
   - bears
   - including
-- - cylinders
-  - placed
-  - here
 - - pamphleteer
   - ever
   - received
-- - mountains
-  - before
-  - nightfall
+- - cylinders
+  - placed
+  - here
 - - while
   - marigold
   - chew
-- - writer's
-  - only
-  - caveat
+- - mountains
+  - before
+  - nightfall
 - - pig
   - two
   - corks
@@ -431,18 +428,21 @@ ngrams:
 - - including
   - those
   - stricken
+- - writer's
+  - only
+  - caveat
 - - just
   - yesterday
   - filled
+- - bears
+  - including
+  - those
+- - bears
+  - including
+  - those
 - - barnyard
   - maintenance
   - only
-- - bears
-  - including
-  - those
-- - bears
-  - including
-  - those
 - - pamphlet
   - never
   - pack
@@ -485,12 +485,12 @@ ngrams:
 - - might
   - tell
   - stories
-- - lupine
-  - animals
-  - like
 - - bears
   - both
   - those
+- - lupine
+  - animals
+  - like
 - - think
   - straight
   - because
@@ -518,18 +518,18 @@ ngrams:
 - - dust
   - more
   - feathers
-- - felt
-  - could
-  - cause
 - - thus
   - upon
   - arrival
-- - feathers
-  - more
-  - bones
+- - felt
+  - could
+  - cause
 - - peasants
   - rather
   - than
+- - feathers
+  - more
+  - bones
 - - egg
   - more
   - dust
@@ -539,18 +539,15 @@ ngrams:
 - - search
   - neither
   - she
-- - foothills
-  - could
-  - tell
 - - its
   - judicious
   - good
 - - some
   - unknown
   - functionary
-- - slaying
-  - panicked
-  - him
+- - foothills
+  - could
+  - tell
 - - bears
   - many
   - many
@@ -563,6 +560,9 @@ ngrams:
 - - many
   - many
   - bears
+- - slaying
+  - panicked
+  - him
 - - converge
   - upon
   - each
@@ -581,12 +581,12 @@ ngrams:
 - - earthly
   - justice
   - who
-- - eaten
-  - just
-  - before
 - - useful
   - things
   - like
+- - eaten
+  - just
+  - before
 - - found
   - himself
   - dobson
@@ -605,9 +605,6 @@ ngrams:
 - - directly
   - above
   - them
-- - simply
-  - wanted
-  - him
 - - those
   - years
   - ago
@@ -617,6 +614,9 @@ ngrams:
 - - above
   - them
   - hundreds
+- - simply
+  - wanted
+  - him
 - - sprightly
   - fashion
   - up

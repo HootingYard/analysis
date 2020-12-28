@@ -17,15 +17,15 @@ ngrams:
 - - tumbled
   - beeping
   - deeper
-- - slicing
-  - shears
-  - dipping
 - - cranial
   - hullabaloo
   - weirdly
 - - diminutive
   - stature
   - deciding
+- - slicing
+  - shears
+  - dipping
 - - impossibly
   - cute
   - puppy
@@ -38,12 +38,12 @@ ngrams:
 - - windy
   - uninhabited
   - plains
-- - beardy
-  - bespectacled
-  - russian
 - - ringo
   - starr
   - tumbled
+- - beardy
+  - bespectacled
+  - russian
 - - deemed
   - historical
   - irrelevancies
@@ -95,12 +95,12 @@ ngrams:
 - - moral
   - conundrum
   - faced
-- - fence
-  - slicing
-  - shears
 - - security
   - fence
   - slicing
+- - fence
+  - slicing
+  - shears
 - - flat
   - windy
   - uninhabited
@@ -143,39 +143,39 @@ ngrams:
 - - mysterious
   - unseen
   - mentor
-- - motion
-  - immediately
-  - lurching
 - - pneumatic
   - speaking
   - funnel
+- - motion
+  - immediately
+  - lurching
 - - sharp
   - security
   - fence
-- - compelling
-  - adventure
-  - begin
 - - compound
   - alarm
   - system
 - - flat
   - windy
   - area
+- - compelling
+  - adventure
+  - begin
 - - country
   - lanes
   - hopping
 - - chute
   - terminated
   - somewhere
-- - winding
-  - country
-  - lanes
-- - terminated
-  - somewhere
-  - subterranean
 - - fruit
   - scientist
   - paused
+- - terminated
+  - somewhere
+  - subterranean
+- - winding
+  - country
+  - lanes
 - - neither
   - ash
   - heap
@@ -248,12 +248,12 @@ ngrams:
 - - bit
   - dotty
   - sitting
-- - machine
-  - sat
-  - polished
 - - hot
   - boiling
   - burning
+- - machine
+  - sat
+  - polished
 - - fence
   - large
   - flat
@@ -263,12 +263,12 @@ ngrams:
 - - concealed
   - although
   - neither
-- - tapping
-  - machine
-  - sat
 - - attended
   - enough
   - geology
+- - tapping
+  - machine
+  - sat
 - - tea
   - making
   - fixed
@@ -338,12 +338,12 @@ ngrams:
 - - tiny
   - enid
   - lodged
-- - tiny
-  - enid
-  - stamped
 - - entire
   - fortnight
   - without
+- - tiny
+  - enid
+  - stamped
 - - drivel
   - tiny
   - enid
@@ -368,18 +368,18 @@ ngrams:
 - - aside
   - tiny
   - enid
+- - fruit
+  - scientist
+  - because
+- - clambering
+  - hooks
+  - well
 - - tiny
   - enid
   - reached
 - - shouted
   - tiny
   - enid
-- - clambering
-  - hooks
-  - well
-- - fruit
-  - scientist
-  - because
 - - tiny
   - enid
   - arrived
@@ -446,12 +446,12 @@ ngrams:
 - - cartoon
   - head
   - bearing
-- - much
-  - anything
-  - tumbling
 - - enid
   - never
   - forgot
+- - much
+  - anything
+  - tumbling
 - - two
   - please
   - start
@@ -473,12 +473,12 @@ ngrams:
 - - much
   - turbulence
   - during
-- - very
-  - sad
-  - state
 - - intrepid
   - replied
   - our
+- - very
+  - sad
+  - state
 - - replied
   - our
   - heroine
@@ -521,21 +521,21 @@ ngrams:
 - - gruesome
   - fate
   - did
-- - never
-  - went
-  - anywhere
 - - instead
   - mulling
   - over
+- - never
+  - went
+  - anywhere
+- - lose
+  - its
+  - allure
 - - clumped
   - back
   - across
 - - away
   - somewhere
   - tiny
-- - lose
-  - its
-  - allure
 - - us
   - tiny
   - enid
@@ -551,18 +551,18 @@ ngrams:
 - - tiny
   - enid
   - never
-- - much
-  - turbulence
-  - too
-- - moral
-  - conundrum
-  - could
 - - saw
   - 'off'
   - part
 - - salvage
   - those
   - things
+- - much
+  - turbulence
+  - too
+- - moral
+  - conundrum
+  - could
 - - she
   - skimmed
   - hurriedly
@@ -584,18 +584,18 @@ ngrams:
 - - ash
   - heap
   - she
-- - historical
-  - irrelevancies
-  - she
 - - manners
   - why
   - might
-- - gleaming
+- - historical
+  - irrelevancies
   - she
-  - transmitted
 - - twiddling
   - her
   - thumbs
+- - gleaming
+  - she
+  - transmitted
 - - revved
   - her
   - engines
@@ -626,82 +626,82 @@ ngrams:
 - - fence
   - she
   - smiled
-- - conundrum
-  - could
-  - help
 - - weirdly
   - rather
   - than
 - - her
   - daredevil
   - mission
-- - occasion
-  - demanded
-  - she
 - - westwards
   - she
   - wondered
+- - occasion
+  - demanded
+  - she
+- - rather
+  - than
+  - planning
 - - snub
   - her
   - nose
 - - she
   - pictured
   - herself
-- - rather
-  - than
-  - planning
+- - conundrum
+  - could
+  - help
 - - animals
   - she
   - rummaged
-- - her
-  - razor
-  - sharp
 - - security
   - fence
   - she
-- - boot
-  - she
-  - pressed
+- - her
+  - razor
+  - sharp
 - - purposes
   - without
   - any
-- - slops
-  - resting
-  - her
+- - boot
+  - she
+  - pressed
 - - forgot
   - her
   - manners
+- - slops
+  - resting
+  - her
 - - her
   - corrective
   - boot
 - - speaking
   - funnel
   - she
-- - her
-  - immediate
-  - response
 - - mulling
   - over
   - something
-- - any
-  - clear
-  - idea
+- - her
+  - immediate
+  - response
 - - because
   - o
   - man
-- - could
-  - imagine
-  - herself
+- - any
+  - clear
+  - idea
 - - her
   - comic
   - suggested
 - - probably
   - weighed
   - more
-- - stamped
+- - could
+  - imagine
+  - herself
+- - resting
   - her
   - club
-- - resting
+- - stamped
   - her
   - club
 - - her
@@ -728,15 +728,15 @@ ngrams:
 - - her
   - memory
   - banks
-- - enid
-  - could
-  - imagine
 - - vicar
   - whom
   - she
 - - enid
   - stamped
   - her
+- - enid
+  - could
+  - imagine
 - - moment
   - she
   - knitted
@@ -785,12 +785,12 @@ ngrams:
 - - cottage
   - writing
   - her
-- - wheelbarrow
-  - pushed
-  - him
 - - over
   - something
   - else
+- - wheelbarrow
+  - pushed
+  - him
 story:
   date: 2008-12-27
   id: 2008-12-27-tiny-enid-and-the-dustbin-of-history

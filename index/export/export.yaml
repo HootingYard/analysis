@@ -70,8 +70,13 @@ shows:
   duration: 1780
   id: hooting_yard_2004-05-05
   internet_archive_url: https://archive.org/details/hy0_hooting_yard_2004-05-05
-  narrations: []
-  title: Hooting Yard 2004-05-05
+  narrations:
+  - end_time: 1780
+    start_time: 26
+    story_id: external_the_phologiston_varations-2004-05-05
+    title: The Phologiston Varations
+    word_count: 3733
+  title: The Phologiston Varations
 - date: 2004-05-12
   duration: 1855
   id: hooting_yard_2004-05-12
@@ -374,16 +379,11 @@ shows:
     story_id: 2009-11-05-five-years-ago
     title: Five Years Ago
     word_count: 276
-  - end_time: 1627
+  - end_time: 1779
     start_time: 1437
     story_id: 2004-11-08-smooching-with-istvan
     title: Smooching With Istvan
     word_count: 288
-  - end_time: 1779
-    start_time: 1627
-    story_id: 2004-11-08-to-my-mind-one-of-the-most
-    title: '"To my mind one of the most..."'
-    word_count: 101
   title: Notes on Jellyfish
 - date: 2004-11-17
   duration: 1801
@@ -476,7 +476,7 @@ shows:
     start_time: 11
     story_id: 2004-06-28-the-teutonic-memory-banks-of-mister-blatfinch
     title: The Teutonic Memory-banks of Mister Blatfinch
-    word_count: 568
+    word_count: 567
   - end_time: 573
     start_time: 280
     story_id: 2004-11-25-my-little-blind-dolly
@@ -1019,8 +1019,13 @@ shows:
   duration: 1768
   id: hooting_yard_2005-03-16
   internet_archive_url: https://archive.org/details/hy0_hooting_yard_2005-03-16
-  narrations: []
-  title: Hooting Yard 2005-03-16
+  narrations:
+  - end_time: 1768
+    start_time: 21
+    story_id: external_forgive_and_forget-1849-08-04
+    title: Forgive and Forget
+    word_count: 4105
+  title: Forgive and Forget
 - date: 2005-04-13
   duration: 1779
   id: hooting_yard_2005-04-13
@@ -1285,10 +1290,10 @@ shows:
     word_count: 1010
   - end_time: 1805
     start_time: 1688
-    story_id: 2012-05-06-on-the-sixth-of-may-2012
-    title: On The Sixth Of May 2012
-    word_count: 1216
-  title: An Outing
+    story_id: 2006-03-04-the-immense-duckpond-pamphlet
+    title: The Immense Duckpond Pamphlet
+    word_count: 6108
+  title: The Immense Duckpond Pamphlet
 - date: 2005-06-08
   duration: 1819
   id: hooting_yard_2005-06-08
@@ -1694,9 +1699,9 @@ shows:
     word_count: 500
   - end_time: 879
     start_time: 721
-    story_id: 2009-03-13-the-muscular-fool-and-the-other-fool
-    title: The Muscular Fool And The Other Fool
-    word_count: 1858
+    story_id: 2005-05-25-max
+    title: Max
+    word_count: 414
   - end_time: 1070
     start_time: 879
     story_id: 2006-03-28-all-ears
@@ -1797,9 +1802,9 @@ shows:
     word_count: 500
   - end_time: 1026
     start_time: 676
-    story_id: 2009-03-13-the-muscular-fool-and-the-other-fool
-    title: The Muscular Fool And The Other Fool
-    word_count: 1858
+    story_id: 2005-05-25-max
+    title: Max
+    word_count: 414
   - end_time: 1255
     start_time: 1026
     story_id: 2004-08-29-dispatches-from-the-nib-of-van-dongelbraacke
@@ -2012,11 +2017,16 @@ shows:
   id: hooting_yard_2005-12-14
   internet_archive_url: https://archive.org/details/hy0_hooting_yard_2005-12-14
   narrations:
-  - end_time: 1454
+  - end_time: 570
     start_time: 25
     story_id: 2004-07-05-some-hotels-a-hollyhock-the-ponds
     title: Some Hotels, a Hollyhock, the Ponds
     word_count: 942
+  - end_time: 1454
+    start_time: 570
+    story_id: external_dobson's_uncanny_time_pod-2005-12-04
+    title: Dobson's Uncanny Time Pod
+    word_count: 722
   - end_time: 1563
     start_time: 1454
     story_id: 2006-02-01-bees-in-bonnets
@@ -2579,16 +2589,11 @@ shows:
     story_id: 2008-06-17-days-o-bootpolish
     title: Days O' Bootpolish
     word_count: 1279
-  - end_time: 1611
+  - end_time: 1755
     start_time: 1047
     story_id: 2006-08-03-a-further-note-on-pigs
     title: A Further Note on Pigs
     word_count: 1316
-  - end_time: 1755
-    start_time: 1611
-    story_id: 2006-08-03-he-who-begins-with-crutches-will-generally
-    title: '"He who begins with crutches will generally..."'
-    word_count: 33
   title: On The Song Of The Grunty Man
 - date: 2006-08-30
   duration: 1966
@@ -4149,11 +4154,16 @@ shows:
     story_id: 2008-04-29-crushed-and-squashed
     title: Crushed And Squashed
     word_count: 855
-  - end_time: 1827
+  - end_time: 1782
     start_time: 1461
     story_id: 2005-09-30-wisps-and-clumps
     title: Wisps and Clumps
     word_count: 786
+  - end_time: 1827
+    start_time: 1782
+    story_id: 2005-05-26-in-bygone-days-the-world-was-a
+    title: '"In bygone days the world was a..."'
+    word_count: 74
   title: 'Fritz : His Hinge And His Pips'
 - date: 2008-05-08
   duration: 1829
@@ -4312,11 +4322,16 @@ shows:
     story_id: 2008-04-29-crushed-and-squashed
     title: Crushed And Squashed
     word_count: 855
-  - end_time: 1784
+  - end_time: 1739
     start_time: 1418
     story_id: 2005-09-30-wisps-and-clumps
     title: Wisps and Clumps
     word_count: 786
+  - end_time: 1784
+    start_time: 1739
+    story_id: 2005-05-26-in-bygone-days-the-world-was-a
+    title: '"In bygone days the world was a..."'
+    word_count: 74
   title: 'Fritz : His Hinge And His Pips'
 - date: 2008-07-10
   duration: 1805
@@ -4607,12 +4622,17 @@ shows:
     story_id: 2008-10-02-kitemark
     title: Kitemark
     word_count: 254
-  - end_time: 1752
+  - end_time: 1663
     start_time: 1626
+    story_id: 2011-04-07-notes-and-queries
+    title: Notes And Queries
+    word_count: 865
+  - end_time: 1752
+    start_time: 1663
     story_id: 2008-10-09-a-rustic-lesson
     title: A Rustic Lesson
     word_count: 162
-  title: A Celebration Of The Bufflehead In Prose And Song
+  title: How To De-fang Your Venomous Serpent
 - date: 2008-10-23
   duration: 1759
   id: hooting_yard_2008-10-23
@@ -4817,10 +4837,10 @@ shows:
   narrations:
   - end_time: 2430
     start_time: 2
-    story_id: external_title_goes_here-1920-01-01
-    title: Title Goes Here
+    story_id: external_mrs_snook's_tortoise-1920-01-01
+    title: Mrs Snook's Tortoise
     word_count: 5158
-  title: Title Goes Here
+  title: Mrs Snook's Tortoise
 - date: 2009-01-08
   duration: 1768
   id: hooting_yard_2009-01-08
@@ -6086,8 +6106,13 @@ shows:
   duration: 1762
   id: hooting_yard_2010-01-14
   internet_archive_url: https://archive.org/details/hy0_hooting_yard_2010-01-14
-  narrations: []
-  title: Hooting Yard 2010-01-14
+  narrations:
+  - end_time: 1762
+    start_time: 13
+    story_id: external_the_phologiston_varations-2004-05-05
+    title: The Phologiston Varations
+    word_count: 3733
+  title: The Phologiston Varations
 - date: 2010-01-21
   duration: 1682
   id: hooting_yard_2010-01-21
@@ -6258,16 +6283,11 @@ shows:
     story_id: 2010-03-15-boosters
     title: Boosters
     word_count: 261
-  - end_time: 1654
+  - end_time: 1756
     start_time: 1499
     story_id: 2010-02-28-boogie-woogie
     title: Boogie Woogie
     word_count: 305
-  - end_time: 1756
-    start_time: 1654
-    story_id: 2015-01-19-duggleby-duggleby
-    title: Duggleby, Duggleby
-    word_count: 242
   title: Chambers And Hiss At The River Basin
 - date: 2010-03-25
   duration: 1741
@@ -6315,16 +6335,11 @@ shows:
     story_id: 2010-03-30-zoist-spasms
     title: Zoist Spasms
     word_count: 243
-  - end_time: 1128
+  - end_time: 1455
     start_time: 195
     story_id: 2010-03-31-bird-challenge-rebuke
     title: Bird Challenge Rebuke
     word_count: 1832
-  - end_time: 1455
-    start_time: 1128
-    story_id: 2010-03-30-chambers-and-hiss-at-the-pumpkin-patch
-    title: Chambers And Hiss At The Pumpkin Patch
-    word_count: 566
   - end_time: 1584
     start_time: 1455
     story_id: 2010-03-26-fantastic-architecture-of-the-burning-cities
@@ -6335,7 +6350,7 @@ shows:
     story_id: 2012-02-06-on-replacement-bus-services
     title: On Replacement Bus Services
     word_count: 1017
-  title: Zoist Spasms
+  title: Bird Challenge Rebuke
 - date: 2010-04-08
   duration: 1782
   id: hooting_yard_2010-04-08
@@ -8968,12 +8983,6 @@ shows:
     title: Water-Parties
     word_count: 180
   title: The Big Metal Fence
-- date: 2013-01-01
-  duration: 1799
-  id: hooting_yard_2013-01-01
-  internet_archive_url: https://archive.org/details/hy0_hooting_yard_2013-01-01
-  narrations: []
-  title: Hooting Yard 2013-01-01
 - date: 2013-01-10
   duration: 1799
   id: hooting_yard_2013-01-10
@@ -9328,7 +9337,7 @@ shows:
     start_time: 913
     story_id: 2013-03-25-travels-in-arabia-deserta
     title: Travels In Arabia Deserta
-    word_count: 872
+    word_count: 869
   title: A Meditation At Breakfast
 - date: 2013-04-11
   duration: 1799
@@ -9726,11 +9735,16 @@ shows:
     story_id: 2013-06-18-children-of-brian
     title: Children Of "Brian"
     word_count: 132
-  - end_time: 1799
+  - end_time: 1612
     start_time: 1253
     story_id: 2013-06-19-rotating-withers
     title: Rotating Withers
     word_count: 647
+  - end_time: 1799
+    start_time: 1612
+    story_id: 2013-06-20-poor-or-mad
+    title: Poor Or Mad?
+    word_count: 113
   title: Dabbling With Oranges
 - date: 2013-06-27
   duration: 1799
@@ -9825,12 +9839,6 @@ shows:
     title: Swan
     word_count: 461
   title: On The Nincompoops' Bazaar
-- date: 2013-08-01
-  duration: 1799
-  id: hooting_yard_2013-08-01
-  internet_archive_url: https://archive.org/details/hy0_hooting_yard_2013-08-01
-  narrations: []
-  title: Hooting Yard 2013-08-01
 - date: 2013-08-18
   duration: 1799
   id: hooting_yard_2013-08-18
@@ -11185,16 +11193,11 @@ shows:
     story_id: 2004-03-03-as-if-kindled-into-anger-now-by
     title: '"As if kindled into anger now by..."'
     word_count: 181
-  - end_time: 938
+  - end_time: 1004
     start_time: 533
     story_id: 2004-09-13-unspeakable-desolation-pouring-down-from-the-stars-chapter-thirteen
     title: Unspeakable Desolation Pouring Down From the Stars, Chapter Thirteen
     word_count: 3481
-  - end_time: 1004
-    start_time: 938
-    story_id: 2006-02-25-x-is-for-x
-    title: X Is for X
-    word_count: 313
   - end_time: 1016
     start_time: 1004
     story_id: 2010-03-15-boosters
@@ -14329,11 +14332,6 @@ shows:
   id: hooting_yard_2018-07-19
   internet_archive_url: https://archive.org/details/hy0_hooting_yard_2018-07-19
   narrations:
-  - end_time: 266
-    start_time: 14
-    story_id: 2011-07-13-fashion-sequence
-    title: Fashion Sequence
-    word_count: 141
   - end_time: 751
     start_time: 266
     story_id: 2012-09-04-on-the-fox-and-the-dog
@@ -14349,7 +14347,7 @@ shows:
     story_id: 2017-12-21-ten-tarleton-tales-i
     title: Ten Tarleton Tales--I
     word_count: 1017
-  title: Fashion Sequence
+  title: On The Fox And The Dog
 - date: 2018-07-26
   duration: 1801
   id: hooting_yard_2018-07-26
@@ -15028,13 +15026,13 @@ shows:
     story_id: 2015-02-19-hiking-pickle-revisited
     title: Hiking Pickle Revisited
     word_count: 1092
-  - end_time: 843
+  - end_time: 799
     start_time: 553
     story_id: 2007-07-31-game-on
     title: Game On
     word_count: 451
   - end_time: 1181
-    start_time: 843
+    start_time: 799
     story_id: 2008-01-19-the-great-ecstasy-of-tiny-enid
     title: The Great Ecstasy Of Tiny Enid
     word_count: 689
@@ -15045,9 +15043,9 @@ shows:
     word_count: 1045
   - end_time: 1801
     start_time: 1693
-    story_id: 2008-03-23-hopkins-at-easter
-    title: Hopkins At Easter
-    word_count: 89
+    story_id: 2017-11-29-tribute-band
+    title: Tribute Band
+    word_count: 255
   title: Hiking Pickle Revisited
 - date: 2019-05-16
   duration: 1801
